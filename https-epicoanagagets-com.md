@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-21T05:41:29Z
 - Contact Email: cristibunghez1974@gmail.com
-- Updated At: 2026-02-24T00:00:46.929Z
+- Updated At: 2026-03-04T00:00:49.491Z
 
 Welcome to Oana Prime Shop — where modern innovation meets refined simplicity.
 
@@ -2093,7 +2093,7 @@ All product descriptions, policies, and offers published on our website are the 
     Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/H3DV5ofWHoVQdouY.webp?v=1766742653
     Price: £33.41 GBP
 - [2-In-1 Smart Watch & Earbuds Fitness True Wireless Combo](https://epicoanagagets.com/products/2-in-1-smart-watch-earbuds-fitness-true-wireless-combo): The smart bracelet is scientifically designed for holding and charging a pair of true wireless BT earbuds. 5.0 BT headphones with Mic, great for listening to music and receiving calls. The smart bracelet can track your activities all day long and tell you data about , distance, calories burned, etc. Also, it monitors your heart rate, blood pressure, and sleep. Specification:Model: N8Type: Smart Bracelet & EarbudsScreen: 0.96 inch TFTBT Version: headset 5.0, bracelet 4.2Bracelet Battery Capacity: 220mAhHeadset Battery Capacity: 25mAhCharging Time: about 2.5 hoursStandby Time: 10-15 DaysAPP: LookfitSupports: Android 8.1 and above, iOS 8.0 and aboveColor: Black, White, Pink, Red (Optional)Item Weight: 47g/1.65ozPackage Size: 10.2*10.2*5.8cm/4.01*4.01*2.28inPackage Weight: 144g/5.08ozPackage List:1 * Smart Bracelet1 * Pair of Earbuds1 * Magnetic USB Charging Cable1 * User Manual (English)
-  Updated: 2026-02-16T17:08:51Z
+  Updated: 2026-02-27T16:08:05Z
   Vendor: Oana Prime Shop
   Product Type: 
   Availability: Available
@@ -5602,6 +5602,15 @@ All product descriptions, policies, and offers published on our website are the 
     Author: Oana Prime Shop
   - [Why You Should Switch to a 2-in-1 Smart Watch with Bluetooth Earphones](https://epicoanagagets.com/blogs/news/why-you-should-switch-to-a-2-in-1-smart-watch-with-bluetooth-earphones): Why You Should Switch to a 2-in-1 Smart Watch with Bluetooth Earphones
     Updated: 2026-02-23T10:08:07Z
+    Author: Oana Prime Shop
+  - [Exploring Essential Features of Children's Smart Phone Watches](https://epicoanagagets.com/blogs/news/exploring-essential-features-of-childrens-smart-phone-watches): Exploring Essential Features of Children's Smart Phone Watches
+    Updated: 2026-02-25T10:08:02Z
+    Author: Oana Prime Shop
+  - [Maximize Your Health with Vegan Liquid Iron Drops for the Whole Family](https://epicoanagagets.com/blogs/news/maximize-your-health-with-vegan-liquid-iron-drops-for-the-whole-family): Maximize Your Health with Vegan Liquid Iron Drops for the Whole Family
+    Updated: 2026-02-28T10:01:24Z
+    Author: Oana Prime Shop
+  - [Unlock Continuous Connectivity with the JTLB Magnetic Smart Watch Charger's Dependability](https://epicoanagagets.com/blogs/news/unlock-continuous-connectivity-with-the-jtlb-magnetic-smart-watch-chargers-dependability): Unlock Continuous Connectivity with the JTLB Magnetic Smart Watch Charger's Dependability
+    Updated: 2026-03-02T10:12:00Z
     Author: Oana Prime Shop
 
 ## Store Pages
