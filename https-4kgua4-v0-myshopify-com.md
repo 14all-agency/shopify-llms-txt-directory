@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2026-01-31T19:49:18Z
 - Contact Email: rriim.92@gmail.com
-- Updated At: 2026-02-24T00:00:37.445Z
+- Updated At: 2026-03-04T00:00:40.602Z
 
 This Shopify store sells sensory toys and tools designed for children, including kids with sensory processing needs. Products support focus, calming, fine motor skills, and play-based learning. Items may be suitable for home, school, or therapeutic use.
 
@@ -333,44 +333,6 @@ This Shopify store sells sensory toys and tools designed for children, including
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/anJ1QPSxBoQOLbBN.webp?v=1769908831
     Price: kr 450.00 NOK
-- [Elastic Sensory Swing](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing): Soft, elastic sensory swing designed to provide calming and therapeutic benefits for children. Ideal for kids with autism, ADHD, and sensory processing disorders, this swing creates a cocoon-like environment that promotes relaxation, balance, and body awareness. Made from durable, stretchable fabric, it supports various sitting and lying positions, making it perfect for indoor playrooms, therapy centers, or home use. Easy to install and safe to use, it helps children develop motor skills, improve focus, and reduce stress while having fun!
-  Updated: 2026-02-23T16:09:38Z
-  Vendor: Sensory toolkit
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/UBX0iWcTpn4lrMzm.webp?v=1769908774
-  - [Dark green / 100x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029868921010)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/UBX0iWcTpn4lrMzm.webp?v=1769908774
-    Price: kr 400.00 NOK
-  - [Dark green / 150x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029868953778)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/uT4kKF8jedoN2ICb.webp?v=1769908784
-    Price: kr 400.00 NOK
-  - [Lake blue / 150x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029868986546)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/MWfPdBDFiTMRMQM0.webp?v=1769908795
-    Price: kr 400.00 NOK
-  - [Lake blue / 100x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029869019314)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/kE6r54phWdVXkgpS.webp?v=1769908810
-    Price: kr 400.00 NOK
-  - [Red / 100x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029869052082)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/tIscRuhLecgzrXsj.webp?v=1769908873
-    Price: kr 400.00 NOK
-  - [Red / 150x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029869084850)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/Td2rK3STSqRVDTs0.webp?v=1769908831
-    Price: kr 400.00 NOK
-  - [Sky Blue / 100x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029869117618)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/DGSTKI0l7caz2GKy.webp?v=1769908841
-    Price: kr 400.00 NOK
-  - [Sky Blue / 150x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029869150386)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/VwPyE16JdfeLmwAP.webp?v=1769908883
-    Price: kr 400.00 NOK
 - [PSVLIOEY Chew Necklaces for Sensory Kids | 5PCS Sensory Toys Chewing Necklace for Autism ADHD Anxiety | Autism Chew Toys | Sensory Chew Necklace for Boys Girls Adults](https://4kgua4-v0.myshopify.com/products/psvlioey-chew-necklaces-for-sensory-kids-5pcs-sensory-toys-chewing-necklace-for-autism-adhd-anxiety-autism-chew-toys-sensory-chew-necklace-for-boys-girls-adults): [5-Pack Sensory Chew Necklace: Our Sensory Chewing Necklace Set contains 5 uniquely designed sensory necklaces featuring different shapes and textures each with a medium hardness for different chewing needs. These necklaces help children and adults reduce anxiety and improve concentration during daily activities Safe Material: Our chew sensory necklace is made of 100% food-grade silicone BPA-free phthalate-free and lead-free. Safety and durability with a special texture on the surface that ensures a long-lasting reliable solution for sensory needs Reduce Stress and Anxiety: Silicone sensory chew toys for autistic children not only provide oral sensory stimulation but also help reduce stress and anxiety especially at school or when they need to be soothed calmed or focused. They are one of the sensory chew toys for autism anxiety ADHD SPD and other special needs Adjustable for Use: The chew necklace features a detachable clasp and adjustable string which are easy to put on and take off making the autism sensory chew toys safe for most children. Each chew toy is easy to grasp and will not get stuck in the throat  supervision should always be required while using these chew necklaces for kids Easy to Clean: Sensory chew necklaces are dishwasher-safe or hand-washable with warm water and soap. Sensory chew toys are suitable for various occasions and easily worn at school work or home. They are ideal for children during classroom learning and can help them better manage their emotions and focus]
   Updated: 2026-02-02T09:42:38Z
   Vendor: Sensory toolkit
@@ -702,6 +664,15 @@ This Shopify store sells sensory toys and tools designed for children, including
     Author: Sensory Toolkit
   - [Sensory Toys Checklist for Encouraging Learning and Growth](https://4kgua4-v0.myshopify.com/blogs/news/sensory-toys-checklist-for-encouraging-learning-and-growth): Sensory Toys Checklist for Encouraging Learning and Growth
     Updated: 2026-02-23T01:52:38Z
+    Author: Sensory Toolkit
+  - [How Sensory Toys Can Help Tackle Common Parenting Challenges](https://4kgua4-v0.myshopify.com/blogs/news/how-sensory-toys-can-help-tackle-common-parenting-challenges): How Sensory Toys Can Help Tackle Common Parenting Challenges
+    Updated: 2026-02-25T02:03:32Z
+    Author: Sensory Toolkit
+  - [Explainer on the Science Behind Sensory Toys](https://4kgua4-v0.myshopify.com/blogs/news/explainer-on-the-science-behind-sensory-toys): Explainer on the Science Behind Sensory Toys
+    Updated: 2026-02-28T00:51:31Z
+    Author: Sensory Toolkit
+  - [How to Choose the Right Sensory Toy for Your Child's Needs](https://4kgua4-v0.myshopify.com/blogs/news/how-to-choose-the-right-sensory-toy-for-your-childs-needs): How to Choose the Right Sensory Toy for Your Child's Needs
+    Updated: 2026-03-02T02:04:20Z
     Author: Sensory Toolkit
 
 ## Store Pages
