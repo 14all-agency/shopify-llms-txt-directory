@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T13:39:37Z
 - Contact Email: james.price@heartsandpathways.com
-- Updated At: 2026-02-25T00:00:37.234Z
+- Updated At: 2026-03-04T00:00:40.169Z
 
 ## Products
 
