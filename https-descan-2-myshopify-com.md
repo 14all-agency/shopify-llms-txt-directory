@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-06T04:21:41Z
 - Contact Email: Contactdescan@gmail.com
-- Updated At: 2026-02-25T00:00:30.790Z
+- Updated At: 2026-03-04T00:00:35.520Z
 
 ## Products
 
@@ -1463,6 +1463,18 @@
     Updated: 2026-02-23T01:28:27Z
     Author: Descan Supply
     Tags: cough syrup hoodie, fashion, hoodie, must-have streetwear pieces, popular fashion items for youth, streetwear, teen apparel, teenagers, trendsetting outfits, y2k, y2k style
+  - [The Cough Syrup Hoodie That Every Y2K Streetwear Fan Needs](https://descan-2.myshopify.com/blogs/news/the-cough-syrup-hoodie-that-every-y2k-streetwear-fan-needs): The Cough Syrup Hoodie That Every Y2K Streetwear Fan Needs
+    Updated: 2026-02-25T01:30:06Z
+    Author: Descan Supply
+    Tags: cough syrup, cough syrup hoodie, fashion, hoodie, must-have fashion item, retro streetwear pieces, streetwear, teenagers, trendy apparel, y2k, y2k style
+  - [Explore the All We Need Is Love Hoodie: The Ultimate Y2K Streetwear Staple for Teenagers](https://descan-2.myshopify.com/blogs/news/explore-the-all-we-need-is-love-hoodie-the-ultimate-y2k-streetwear-staple-for-teenagers): Explore the All We Need Is Love Hoodie: The Ultimate Y2K Streetwear Staple for Teenagers
+    Updated: 2026-02-27T01:32:49Z
+    Author: Descan Supply
+    Tags: best casual outfits for teenagers, cough syrup hoodie, hoodie, love, retro apparel, streetwear, teenage style, teenagers, trendy hoodies for teens, y2k, y2k fashion
+  - [Discover the All We Need Is Love Hoodie: A Y2K Streetwear Dream for Teenagers.](https://descan-2.myshopify.com/blogs/news/discover-the-all-we-need-is-love-hoodie-a-y2k-streetwear-dream-for-teenagers): Discover the All We Need Is Love Hoodie: A Y2K Streetwear Dream for Teenagers.
+    Updated: 2026-03-02T01:40:37Z
+    Author: Descan Supply
+    Tags: cough syrup hoodie, hoodie, love hoodie, popular youth attire, streetwear, teenagers, trendy apparel, vintage style clothing, y2k, y2k fashion
 
 ## Store Pages
 
