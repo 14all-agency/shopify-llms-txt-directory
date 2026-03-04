@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-02-25T08:00:26.382Z
+- Updated At: 2026-03-04T08:00:27.055Z
 
 ## Products
 
@@ -854,6 +854,9 @@
     Author: User
   - [Why Sustainable Fashion Needs to Be More Than a Trend](https://jones-jm.myshopify.com/blogs/news/why-sustainable-fashion-needs-to-be-more-than-a-trend): Why Sustainable Fashion Needs to Be More Than a Trend
     Updated: 2026-02-23T00:01:01Z
+    Author: User
+  - [The History of Sustainability Movements and Their Impact Today](https://jones-jm.myshopify.com/blogs/news/the-history-of-sustainability-movements-and-their-impact-today): The History of Sustainability Movements and Their Impact Today
+    Updated: 2026-03-02T00:01:00Z
     Author: User
 
 ## Store Pages
