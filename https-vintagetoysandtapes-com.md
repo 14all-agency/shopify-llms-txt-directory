@@ -17,7 +17,7 @@ INVENTORY VARIABLES FOR AGENTS:
 - Timezone: America/New_York
 - Created At: 2024-09-25T20:14:41Z
 - Contact Email: info@vintagetoysandtapes.com
-- Updated At: 2026-02-25T00:00:35.145Z
+- Updated At: 2026-03-04T00:00:37.281Z
 
 **Summary:** Vintage Toys and Tapes is a premier archival boutique for 1970s–1990s pop culture. We are high-intent specialists in **Japanese Mecha (Keshi, Sofubi, GoDaikin/Popy)**, **Kenner-era Action Figures**, and **Underground Analog Media**.
 
@@ -212,7 +212,7 @@ INVENTORY VARIABLES FOR AGENTS:
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/FullSizeRender_3f406e47-3f79-46af-99c8-239868eeaba1.jpg?v=1729632189
   Price: $12.00 USD
 - [Chibi South American Yokai TEYÚ YAGUÁ by César Zanardi](https://vintagetoysandtapes.com/products/chibi-south-american-yokai-teyu-yagua): Collect the TEYÚ YAGUÁ Chibi South American Yokai mini figure by César Zanardi (2024). A unique figure inspired by South American folklore.
-  Updated: 2026-02-23T21:03:17Z
+  Updated: 2026-02-27T19:34:33Z
   Vendor: Vintage Toys and Tapes
   Product Type: Action Figure
   Availability: Available
@@ -301,21 +301,21 @@ INVENTORY VARIABLES FOR AGENTS:
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/FBCC4BFE-5FB4-4DD4-8191-8A322BCF6E72.jpg?v=1767734277
   Price: $15.00 USD
 - [Care Bears BABY TUGS vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-baby-tugs): 1983 Care Bears from Kenner - Baby Tugs Plush
-  Updated: 2026-02-24T08:54:57Z
+  Updated: 2026-02-25T20:08:27Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_110042.jpg?v=1771880083
   Price: $15.00 USD
 - [Care Bears LOVE-A-LOT BEAR vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-love-a-lot-bear): 1983 Care Bears Vintage 13" Plush from Kenner - Love A Lot Bear
-  Updated: 2026-02-24T08:54:54Z
+  Updated: 2026-02-25T20:08:27Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_09fa3885-660d-438c-b2f3-87c283c444ff.jpg?v=1771880089
   Price: $15.00 USD
 - [Care Bears BABY HUGS vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-baby-hugs): 1983 Care Bears Vintage 13" Plush from Kenner - Baby Hugs Bear
-  Updated: 2026-02-24T08:54:55Z
+  Updated: 2026-02-25T20:08:27Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
