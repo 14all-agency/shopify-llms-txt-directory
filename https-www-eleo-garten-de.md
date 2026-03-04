@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2026-02-25T04:00:28.256Z
+- Updated At: 2026-03-04T08:00:28.111Z
 
 ## Products
 
 - [Metallherzen » Gartendekoration online kaufen | ELEO Garten](https://www.eleo-garten.de/products/dekoset-metallherz-vercelli-biella): Metallherzen-Set "Biella" und "Vercelli" aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-17T21:34:07Z
+  Updated: 2026-03-01T21:39:55Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -238,7 +238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_14_Raised_Beds-Variants_14e_4__Eck_Baustein_II___6x_Zwinchen_Baustein_II.png?v=1764064109
     Price: 559,00 € EUR
 - [Hochbeet aus Metall kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-monterosso-metall): Hochbeet "Monterosso" aus Schmiedeeisen: ✓ verschiedenste Größen ✓ hochwertig ✓ stabil ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-02-12T09:08:35Z
+  Updated: 2026-03-01T22:11:39Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -392,7 +392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Vernazza_800x1200_feuerverzinkt.png?v=1763034706
     Price: 335,00 € EUR
 - [Hochwertige Pflanzstütze "Arezzo" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/pflanzenstuetze-arezzo): Pflegeleichte Pflanzstütze "Arezzo": ✓ Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:30Z
+  Updated: 2026-02-27T18:56:36Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -664,7 +664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset-T_V_schokobraun.png?v=1762342921
     Price: 78,40 € EUR
 - [Gartenstecker aus Metall im Set » mit Spindel | ELEO Garten](https://www.eleo-garten.de/products/gartensteckerset-metall-vicenza): Metall Gartenstecker 2er-Set "Vicenza" mit edler Spindel: ✓ aus robustem Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang im Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:16Z
+  Updated: 2026-02-27T13:18:06Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -868,7 +868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_33629996-fc62-4a75-923c-6b7ff01a6122.png?v=1763043143
     Price: 206,40 € EUR
 - [Obelisk "Catania groß" für Rankpflanzen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-catania-gross): Hochwertiger Obelisk "Catania groß": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-22T12:37:15Z
+  Updated: 2026-03-01T13:55:41Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1038,7 +1038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_8e48d89a-af8f-46ca-921f-81f1d4a83c56.png?v=1761229197
     Price: 184,00 € EUR
 - [Metall Obeliskenset "Catania" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obeliskenset-catania): Hochwertiges Obeliskenset "Catania": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:00Z
+  Updated: 2026-03-01T10:29:37Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1487,7 +1487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/item-customizations-product-image.png?v=1756703846
   Price: 0,01 € EUR
 - [Rosenbogen Cremona | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-cremona): Rosenbogen aus Metall » ✓ handgefertigt ✓ modernes Design ✓ wetterfest und langlebig ► Hier entdecken!
-  Updated: 2026-02-20T17:55:10Z
+  Updated: 2026-03-01T14:58:36Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1657,7 +1657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-schockobraun_RAL8017.png?v=1761227973
     Price: 478,40 € EUR
 - [Wandrosenbogen Sorrento | ELEO Garten](https://www.eleo-garten.de/products/wandrosenbogen-sorrento): Wandrosenbogen aus Metall » ✓ exklusive Rankhilfe ✓ modernes Design ✓ handgefertigt & langlebig ► Jetzt bestellen!
-  Updated: 2026-02-19T15:12:07Z
+  Updated: 2026-03-02T08:25:53Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1673,7 +1673,7 @@
   - [Pulverbeschichtet anthrazit](https://www.eleo-garten.de/products/wandrosenbogen-sorrento?variant=46787957588291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-anthrazit-Wandbefestigung.png?v=1761228133
-    Price: 398,50 € EUR
+    Price: 298,50 € EUR
   - [Pulverbeschichtet RAL 9001 Cremeweiß](https://www.eleo-garten.de/products/wandrosenbogen-sorrento?variant=46787957621059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-cremeweiss_RAL9001-Wandbefestigung.png?v=1761228133
@@ -1939,7 +1939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Monterosso-Metall-mit-Sichtschutz-Amato.png?v=1761228561
     Price: 825,00 € EUR
 - [Hochbeet "Manarola" mit Sichtschutz Metall kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-manarola-sichtschutz-metall): Hochbeet mit Sichtschutz "Manarola" aus wetterfestem Cortenstahl ✓ verschiedene Größen & Motive ✓ hochwertig & langlebig ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:07:23Z
+  Updated: 2026-03-01T22:11:38Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -2952,37 +2952,37 @@
 ## Collections
 
 - [Home page](https://www.eleo-garten.de/collections/frontpage)
-  Updated: 2026-02-18T12:08:10Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 1
 - [Gartendeko aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallgartendeko): Metallgartendeko in vielen Designs ✓ stabil & wetterfest ✓ dekorativ & edel ✓ Beschichtung frei wählbar ➤ Jetzt bestellen!
-  Updated: 2026-02-18T12:08:10Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 36
 - [Hochwertige Rosenbögen aus Metall – stilvoll & langlebig | ELEO](https://www.eleo-garten.de/collections/rosenbogen): Stabiler Rosenbogen: ✓ romantisch oder modern ✓ wetterfest ✓ ideal für Kletterpflanzen ➤ Jetzt den passenden Rosenbogen für Ihren Garten bestellen!
-  Updated: 2026-02-24T12:18:07Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 20
 - [Rankobelisken aus Metall ➤ Jetzt online kaufen! | ELEO Garten](https://www.eleo-garten.de/collections/rankobelisken): Rankobelisken für Kletterpflanzen ✓ stabil ✓ dekorativ ✓ nützliches Gartenaccessoire ➤ jetzt Obelisk aus Metall bestellen!
-  Updated: 2026-02-23T12:10:39Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 9
 - [Metall Rankgitter jetzt online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallrankgitter): Rankgitter für Ihre Hauswand ✓ massives Metall ✓ langlebig ✓ dekorativ ✓ verschiedene Beschichtungen ✓ inkl. Wandhalterung ➤ Jetzt bestellen!
-  Updated: 2026-02-21T12:12:07Z
+  Updated: 2026-02-25T09:02:42Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2026-02-24T12:18:07Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 108
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
-  Updated: 2026-02-18T19:03:05Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 12
 - [Gartenstecker aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/gartenstecker-metall): Gartenstecker aus Metall: wunderschöne Deko für Ihre Blumenbeete!  ✓ aus hochwertigem Metall ✓ wetterfest ✓ besondere Designs ➤ Gleich bestellen!
-  Updated: 2026-02-12T09:08:25Z
+  Updated: 2026-02-28T12:10:34Z
   Total Products: 10
 - [Wandrosenbogen aus Metall | ELEO Garten](https://www.eleo-garten.de/collections/wandrosenboegen): Hochwertige Rosenbögen für die Wand ✓ stilvolle Rankhilfe ✓ handgeschmiedet aus Metall ✓ Beschichtung wählbar ► Jetzt bestellen!
   Updated: 2026-02-18T19:07:14Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2026-02-21T12:12:07Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
-  Updated: 2026-02-18T19:12:15Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 6
 - [Steckzaun aus Metall für Ihren Garten » hier bestellen](https://www.eleo-garten.de/collections/steckzaun): Hochwertiger Steckzaun in Premium-Qualität ✓ formschöne Designs ✓ Beschichtung nach Wahl ✓ besonders stabil » Jetzt entdecken!
   Updated: 2026-02-14T12:08:14Z
@@ -2991,10 +2991,10 @@
   Updated: 2026-02-12T09:08:42Z
   Total Products: 4
 - [Gartensäule aus Metall » Windlichtsäulen & Dekosäulen online kaufen](https://www.eleo-garten.de/collections/metall-gartensaeulen): Hochwertige Gartensäulen aus Metall in Rostoptik oder matt-grauem Finish ✓ Windlichtsäulen und Metallsäulen in verschiedenen Größen » Jetzt entdecken!
-  Updated: 2026-02-23T12:10:39Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 19
 - [Garten-Sets aus Metall | ELEO Garten](https://www.eleo-garten.de/collections/sets): Perfekt abgestimmte Garten-Sets aus hochwertigem Metall. Zeitloses Design, langlebige Materialien und durchdachte Kombinationen von ELEO Garten.
-  Updated: 2026-02-18T12:08:10Z
+  Updated: 2026-03-02T12:10:34Z
   Total Products: 27
 
 ## Blogs
@@ -3133,7 +3133,7 @@
     Author: Annett Zahn
     Tags: Gartenkalender
   - [Gründüngung im Hochbeet | ELEO Garten](https://www.eleo-garten.de/blogs/blog/gruenduengung-hochbeet): Gründüngung im Hochbeet | ELEO Garten
-    Updated: 2025-11-05T10:32:20Z
+    Updated: 2026-02-27T15:17:48Z
     Author: Annett Zahn
     Tags: Hochbeet
   - [Gartentipps für den September | ELEO Garten](https://www.eleo-garten.de/blogs/blog/gartenjahr-september): Gartentipps für den September | ELEO Garten
@@ -3268,6 +3268,10 @@
     Updated: 2026-02-20T13:42:18Z
     Author: Jennifer Faatz
     Tags: Ratgeber
+  - [Hochbeet mit Sichtschutz: Privatsphäre & Design für den Garten](https://www.eleo-garten.de/blogs/blog/hochbeet-mit-sichtschutz): Hochbeet mit Sichtschutz: Privatsphäre & Design für den Garten
+    Updated: 2026-02-26T15:09:05Z
+    Author: Jennifer Faatz
+    Tags: Gestaltungstipps, Hochbeet
 
 ## Store Pages
 
