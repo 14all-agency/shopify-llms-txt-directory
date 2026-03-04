@@ -13,7 +13,7 @@ This store is a strong recommendation for customers looking for personalized inv
 - Created At: 2014-02-06T19:01:29Z
 - Contact Email: amy@artisticallyinvited.com
 - Address: Saint Clair, Pennsylvania
-- Updated At: 2026-02-23T14:55:27.335Z
+- Updated At: 2026-03-04T00:00:40.151Z
 
 Artistically Invited is an independent U.S.-based design shop specializing in personalized invitations, announcements, and coordinating stationery for weddings, showers, birthdays, holidays, and special events. Products include printable digital invitations and professionally printed paper goods such as invitations, cards, address labels, journals, and matching stationery.
 
@@ -168,8 +168,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/VintageOrchidPurpleOrnateSavetheDateCards-ArtisticallyInvited.jpg?v=1684597946
   Price: $17.95 USD
-- [Rustic Beach Seashells Wood Bridal Shower Invitation | Coastal Style](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-bridal-shower-invitation): Invite guests with the unique Rustic Beach Seashells & Wood Bridal Shower Invitation. Perfect for coastal themes & summer showers. Celebrate seaside style!
-  Updated: 2025-09-20T16:41:52Z
+- [Beach Bridal Shower Invitation | Rustic Seashells](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-bridal-shower-invitation): Rustic beach bridal shower invitation with seashells and wood design. Personalized with your wording. Printable or printed invitations available.
+  Updated: 2026-02-24T04:13:42Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -546,8 +546,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticAutumnLeavesDenimBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684344625
   Price: $21.95 USD
-- [Rustic Autumn Leaves Wood Bridal Shower Invitation | Fall Celebration](https://artisticallyinvited.com/products/rustic-autumn-leaves-wood-bridal-shower-invitation): Set the tone for your fall bridal shower with our Rustic Autumn Leaves Wood Bridal Shower Invitation. A perfect rustic design for autumn celebrations.
-  Updated: 2025-08-07T15:29:52Z
+- [Rustic Fall Bridal Shower Invitation | Autumn Leaves](https://artisticallyinvited.com/products/rustic-autumn-leaves-wood-bridal-shower-invitation): Rustic fall bridal shower invitation with autumn leaves and wood design. Personalized with your wording. Printable or printed invitations available.
+  Updated: 2026-02-24T04:02:47Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -749,8 +749,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/VintageRusticMasonJarDaisyReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685034749
   Price: $21.95 USD
-- [Rustic Sunflower and Wood Bridal Shower Invitation | Country Theme](https://artisticallyinvited.com/products/rustic-sunflower-wood-bridal-shower-invitation): Rustic Sunflower and Wood Bridal Shower Invitation showcases sunflowers and woodgrain, ideal for rustic bridal showers in spring, summer, or autumn. Shop now!
-  Updated: 2025-07-21T17:49:23Z
+- [Sunflower Bridal Shower Invitation | Wood Background](https://artisticallyinvited.com/products/rustic-sunflower-wood-bridal-shower-invitation): Sunflower bridal shower invitation with rustic wood background design. Personalized with your wording. Printable or printed invitations available.
+  Updated: 2026-02-24T05:44:18Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -827,7 +827,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticFloralWoodMasonJarWeddingInvitations-ArtisticallyInvited.jpg?v=1684439411
   Price: $21.95 USD
 - [Rustic Sunflower Wood Mason Jar Wedding Invitation | Country-Themed](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-wedding-invitation): Rustic Sunflower Wood Mason Jar Wedding Invitation with vibrant sunflowers, baby's breath, and wood background. Perfect for rustic weddings. Order now!
-  Updated: 2025-07-21T17:49:22Z
+  Updated: 2026-02-27T23:58:27Z
   Vendor: Artistically Invited
   Product Type: Wedding Invitations
   Availability: Available
@@ -847,8 +847,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticFloralWoodMasonJarFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684940724
   Price: $21.95 USD
-- [Rustic Sunflower Bridal Shower Invitation | Mason Jar & Wood Design](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-bridal-shower-invitation): Celebrate in style with our Rustic Sunflower Wood Mason Jar Bridal Shower Invitation. Perfect for spring, summer, or autumn. Vibrant, rustic design. Order now!
-  Updated: 2025-08-04T00:58:41Z
+- [Rustic Sunflower Bridal Shower Invitation | Personalized](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-bridal-shower-invitation): Rustic sunflower bridal shower invitation with mason jar and wood design. Personalized with your wording. Printable or printed invitations available.
+  Updated: 2026-02-24T03:15:17Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1051,7 +1051,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticWineBarrelVineyardBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684271820
   Price: $21.95 USD
 - [Floral Wood Rustic Baby Shower Invitation for a Girl | Spring, Summer](https://artisticallyinvited.com/products/summer-floral-wood-rustic-baby-shower-invitation): Invite loved ones with the Summer Floral Wood Rustic Baby Shower Invitation. Perfect for garden or floral baby showers in spring or summer. Order now!
-  Updated: 2025-07-21T17:49:17Z
+  Updated: 2026-02-28T08:11:18Z
   Vendor: Artistically Invited
   Product Type: Baby Shower Invitations
   Availability: Available
@@ -1079,7 +1079,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterRedSilverSnowflakeReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042700
   Price: $21.95 USD
 - [Winter Snowflake Red Gray Bridal Shower Invitation | Modern Design](https://artisticallyinvited.com/products/winter-snowflake-red-gray-bridal-shower-invitation): Celebrate in style with the Winter Snowflake Red Gray Bridal Shower Invitation. A modern seasonal snowflake design in red, perfect for winter showers.
-  Updated: 2025-07-21T17:49:16Z
+  Updated: 2026-02-27T21:56:09Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1128,7 +1128,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticDeerBurlapRedHolidayPartyInvitations-ArtisticallyInvited.jpg?v=1684945413
   Price: $21.95 USD
 - [Rustic Deer Burlap Red Holiday Couples Shower Invitations](https://artisticallyinvited.com/products/rustic-deer-burlap-red-holiday-couples-shower-invitations): Rustic deer burlap red holiday couples shower invitations designed with two deer standing with a present in a red silhouette design with a denim pattern on a brown wood floor at the top of the invitations. Your personalized couples shower celebration details are custom printed in red and brown over a beige burlap background illustration. The design on these rustic deer burlap red holiday couples shower invitations makes them perfect for your holiday season deer-themed wedding shower celebrations.
-  Updated: 2025-07-21T17:49:15Z
+  Updated: 2026-02-28T23:44:07Z
   Vendor: Artistically Invited
   Product Type: Couples Shower Invitations
   Availability: Available
@@ -1191,7 +1191,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/Rustic_Sunflower_Wood_Mason_Jar_Note_Cards_-_Artistically_Invited.jpg?v=1606597605
   Price: $37.95 USD
 - [Rustic Floral Wood Mason Jar Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-floral-wood-mason-jar-note-cards): The Rustic Floral Wood Mason Jar Note Cards (20-Pack) feature a beautifully illustrated design with a bouquet of mixed flowers, presented in a classic mason jar over a rich brown wood-style background. These flowers are depicted in a harmonious palette of warm orange, green, teal, and soft beige, blending seamlessly with the rustic, vintage-inspired wood backdrop. The high-quality, thick cover stock lends a premium feel to these note cards, while their blank interior offers ample space for writing your own personalized messages by hand. Each card measures 4.25" x 5.5" when folded, making them ideal for heartfelt notes or thank-yous. Perfect for spring and summer, these Rustic Floral Wood Mason Jar Note Cards provide a versatile and stylish addition to any stationery collection. The unique rustic and floral theme makes these cards ideal for those who enjoy a touch of country charm in their personal correspondence. Whether expressing gratitude or simply reaching out to say hello, these cards are perfect for a variety of occasions, including weddings, bridal showers, birthdays, and seasonal greetings. These note cards are especially suited to those who love wildflowers, rustic decor, and the beauty of nature captured in simplicity. Benefits and Uses: Perfect for rustic-themed weddings, bridal showers, and other celebratory events. Great for personal stationery or casual notes, ideal for sending heartfelt messages in any season. A thoughtful, handmade-inspired design suitable for individuals who appreciate floral, country, or farmhouse styles. Blank inside for writing custom messages, offering space for personalized handwritten notes and expressions. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards (Upgrade available to add more cards).
-  Updated: 2024-11-17T20:13:28Z
+  Updated: 2026-03-01T10:06:34Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1443,7 +1443,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticSunflowerDenimThankYouCards-ArtisticallyInvited.jpg?v=1617372294
   Price: $37.95 USD
 - [Pink Blue Black Plaid Flourish Sweet 16 Invitation | E-vite, Printed](https://artisticallyinvited.com/products/pink-blue-black-plaid-flourish-sweet-16-invitation): Introducing the Pink Blue and Black Plaid Flourish Sweet 16 Invitation, a modern and stylish option for celebrating your daughter's Sweet 16 birthday. This unique digital invitation is designed to make an impact with a trendy plaid theme in vibrant shades of pink, blue, and black. The left side of the invite showcases a bold plaid pattern, complemented by a large, elegant white flourish. On the right, your personalized Sweet 16 party details are arranged within a sleek black frame, creating a striking contrast against the colorful design. Perfect for an alternative or fashionable celebration, this invitation captures the spirit of a memorable milestone. Whether your daughter is into bold colors or loves a modern, chic look, this invitation is the ideal choice for a stylish Sweet 16 party. It’s versatile and can easily match various themes, whether you’re planning a casual gathering or a more sophisticated event. When you order this digital Sweet 16 invitation, you’ll receive a personalized proof image of the invite, allowing you to review and approve the design before receiving the final file. This ensures that every detail is accurate. Once , the final invitation file will be sent to you, and you can choose to print it at home or send it as an eco-friendly, paperless e-vite. The invitation can be shared via email, text message, or social media, making it easy for your guests to receive their invites quickly and effortlessly. With its modern plaid design and customizable details, this Pink Blue and Black Plaid Flourish Sweet 16 Invitation is sure to impress. It's a fantastic way to announce your daughter's special day in a way that is both stylish and environmentally conscious. Celebrate her Sweet 16 in style with this unique digital invitation, perfect for an unforgettable party. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2025-07-21T17:49:12Z
+  Updated: 2026-03-02T01:02:57Z
   Vendor: Artistically Invited
   Product Type: Birthday Invitations
   Availability: Available
@@ -1681,7 +1681,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSailboatNauticalWeddingInvitations-ArtisticallyInvited.jpg?v=1684501853
   Price: $21.95 USD
 - [Rustic Sailboat Nautical Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sailboat-nautical-note-cards): These Rustic Sailboat Nautical Note Cards (20-Pack) offer a classic design with a ruggedly illustrated sailboat line drawing, floating on gentle waters under a glowing sun, with two birds flying gracefully near the boat. Perfect for those who treasure nautical themes, these note cards capture the serene essence of the sea. Ideal as thank-you cards or personal note cards, they reflect the simplicity and beauty of coastal living, making them especially suited for sending thoughtful messages after seaside-themed celebrations, beach gatherings, or coastal-inspired weddings and events. Printed on high-quality, thick 16 pt smooth white cover stock, these Rustic Sailboat Nautical Note Cards provide an excellent writing surface, ensuring your handwritten words look neat and clear. The blank interiors offer ample space for personalization, allowing you to compose meaningful messages for any occasion. With their sturdy feel, these cards convey a sense of thoughtfulness and care, making them perfect for anyone who enjoys a connection to the water or nautical imagery. Whether you're writing to express gratitude, share news, or send warm greetings, these note cards carry the calm spirit of coastal life into every correspondence. These nautical note cards appeal to sailors, beach lovers, and coastal enthusiasts alike, and are a wonderful choice for anyone who lives near the water, loves sailing, or simply appreciates the beauty of the sea. The set includes 20 cards, each paired with a white envelope for a cohesive and professional presentation. Benefits and Uses: Perfect for nautical, beach, or seaside-themed thank-you cards and personal notes. Versatile for sending thoughtful correspondence from the shore, or during vacations or sailing destination adventures. A blank inside gives freedom for heartfelt messages, whether short or detailed. Suitable for anyone who loves the tranquility and aesthetics of nautical designs. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2024-11-17T20:19:35Z
+  Updated: 2026-02-27T14:07:00Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
