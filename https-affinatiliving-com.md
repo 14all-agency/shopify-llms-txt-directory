@@ -6,61 +6,61 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-02-25T08:00:40.564Z
+- Updated At: 2026-03-04T08:00:41.057Z
 
 ## Products
 
 - [French Vanilla Whipped Soap - 20 oz](https://affinatiliving.com/products/whipped-soap-french-vanilla): Indulge in French Vanilla whipped soap—rich, fluffy lather with sweet vanilla and warm sugar notes for a luxurious cleanse that leaves skin soft and deliciously scented.
-  Updated: 2026-02-25T01:15:06Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_8_2026_at_07_26_49_AM.png?v=1770553716
   Price: $29.95 USD
 - [Lavender Dream Whipped Soap - 20 oz](https://affinatiliving.com/products/whipped-soap-lavender-dream): Relax and unwind with Lavender Dream whipped soap—soft, creamy lather infused with calming lavender for a soothing cleanse that leaves skin silky smooth.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Lavender_Dream_Whipped_Soap.png?v=1770318129
   Price: $29.95 USD
 - [Coffee Beans Whipped Soap - 20 oz](https://affinatiliving.com/products/whipped-soap-coffee-beans): Wake up your skin with Coffee Beans whipped soap—rich, creamy lather infused with the warm, energizing aroma of freshly brewed coffee for a luxurious cleanse.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/9449725B-3416-40AF-A92F-9F5683A3B756.jpg?v=1770510416
   Price: $29.95 USD
 - [Mint Eucalyptus Whipped Soap - 20 oz](https://affinatiliving.com/products/whipped-soap-mint-eucalyptus): Invigorate your shower with Mint Eucalyptus whipped soap—cooling mint and refreshing eucalyptus in a creamy, skin-softening cleanse that awakens your senses.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/CBD360D8-9BE9-4910-89AB-9E822558953A.png?v=1770513659
   Price: $29.95 USD
 - [Ocean Breeze Whipped Soap - 20 oz](https://affinatiliving.com/products/whipped-soap-ocean-breeze): Refresh your senses with Ocean Breeze whipped soap—light, creamy, and infused with a crisp, clean coastal scent. Gently cleanses and leaves skin soft and nourished.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/33FF69FB-4B2B-4BA1-B442-896888AB4645.png?v=1767907164
   Price: $29.95 USD
 - [Champagne Toast Whipped Soap - 20 oz](https://affinatiliving.com/products/whipped-soap-champagne): Treat your skin to our Champagne Toast whipped soap—light, fluffy, and bursting with bubbly, sweet citrus and berry notes. A luxurious cleanse with irresistible fragrance.
-  Updated: 2026-02-25T01:15:09Z
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Champagne_Toast_Whipped_Soap.png?v=1770318235
   Price: $29.95 USD
 - [Affinati French Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-french-vanilla-10-oz): Pamper skin with Shea Butter Body Lotion, French Vanilla — sweet, comforting vanilla aroma in a rich, moisturizing shea formula.
-  Updated: 2026-01-30T03:44:22Z
+  Updated: 2026-03-03T00:35:50Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_29_2026_at_10_42_09_AM.png?v=1769701369
   Price: $16.95 USD
 - [Affinati Tobacco Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-tobacco-vanilla-10-oz): Shea Butter Body Lotion in Tobacco Vanilla — warm, masculine tobacco with creamy vanilla for a sophisticated scent and deep hydration.
-  Updated: 2026-02-25T01:15:09Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4C215CE7-DAB3-4E8A-B9F6-71F613443142.png?v=1760036816
   Price: $16.95 USD
 - [Affinati Lemon & Amber Musk Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-lemon-amber-musk-10-oz): Nourish skin with our Shea Butter Body Lotion in Lemon & Amber Musk — fresh citrus and warm musk for a vibrant, lasting scent.
-  Updated: 2026-02-25T01:03:56Z
+  Updated: 2026-02-27T19:53:57Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-6801.png?v=1760106911
   Price: $16.95 USD
 - [Affinati Unscented Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-unscented-10-oz): Our Unscented Shea Butter Body Lotion delivers rich, all-day hydration with no fragrance — perfect for sensitive skin.
-  Updated: 2026-01-15T15:43:09Z
+  Updated: 2026-03-03T16:35:52Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -137,63 +137,63 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_3_2026_at_07_36_05_AM.png?v=1770122188
   Price: $16.95 USD
 - [Honey Lavender Reed Diffuser](https://affinatiliving.com/products/honey-lavender-reed-diffuser): Relax with the soothing blend of sweet honey and soft lavender. A calming, floral scent that brings peace, comfort, and gentle warmth home.
-  Updated: 2026-01-25T23:49:17Z
+  Updated: 2026-03-01T12:46:05Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/BF7D32CA-C3FD-4A08-AB0E-CA98E1E153A0.png?v=1767382191
   Price: $26.95 USD
 - [Fresh Linen Reed Diffuser](https://affinatiliving.com/products/fresh-linen-reed-diffuser): Capture the crisp, clean scent of freshly washed linens. Bright and refreshing, it creates a pure, airy atmosphere that feels effortlessly cozy.
-  Updated: 2026-01-25T23:49:17Z
+  Updated: 2026-03-01T12:45:41Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/24635041-6726-4A02-824A-2F3CB4A522E3.png?v=1767273398
   Price: $26.95 USD
 - [Coffee Shop Reed Diffuser](https://affinatiliving.com/products/coffee-shop-reed-diffuser): Fill your home with the rich scent of freshly brewed coffee and roasted beans. A warm, comforting fragrance that feels like your favorite café.
-  Updated: 2026-01-25T23:49:17Z
+  Updated: 2026-03-01T12:45:21Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/81A5CAAF-798F-4E02-A4A6-A3CE73C63AB8.png?v=1767382558
   Price: $26.95 USD
 - [Floral Breeze Reed Diffuser](https://affinatiliving.com/products/floral-breeze-reed-diffuser): Enjoy the soft, airy scent of blooming florals carried on a gentle breeze. Light, uplifting, and perfect for creating a serene, elegant space.
-  Updated: 2026-01-25T23:49:13Z
+  Updated: 2026-03-01T12:44:56Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/65778ADF-CF7F-40E8-8CCB-C8A3F8ACDF8A.png?v=1767382242
   Price: $26.95 USD
 - [Fresh Cut Sage Reed Diffuser](https://affinatiliving.com/products/fresh-sage-reed-diffuser): Bring earthy calm to your home with the herbal aroma of fresh sage. A grounding, aromatic scent that promotes clarity and natural balance.
-  Updated: 2026-01-25T23:49:13Z
+  Updated: 2026-03-01T12:44:34Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/0770C4B5-D683-46B9-93EC-C8B237B4A5F5.png?v=1767273810
   Price: $26.95 USD
 - [Mint Eucalyptus Reed Diffuser](https://affinatiliving.com/products/eucalyptus-spearmint-reed-diffuser): Awaken your senses with cool mint and soothing eucalyptus. A spa-inspired scent that refreshes, relaxes, and clears the mind beautifully.
-  Updated: 2026-01-25T23:49:13Z
+  Updated: 2026-03-01T12:44:13Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5D50C141-587C-4AE0-9999-84FC217581F6.png?v=1767273361
   Price: $26.95 USD
 - [Drops of Rain Reed Diffuser](https://affinatiliving.com/products/raindrop-reed-diffuser): Refresh your space with the clean, dewy scent of rainfall. A crisp, airy fragrance that brings calm, clarity, and pure serenity to any room.
-  Updated: 2026-01-25T23:49:13Z
+  Updated: 2026-03-01T12:43:50Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/7846C297-D2BB-46BA-BDEF-8D807074BD52.png?v=1767273737
   Price: $26.95 USD
 - [French Vanilla Reed Diffuser](https://affinatiliving.com/products/french-vanilla-reed-diffuser): Indulge in the smooth aroma of creamy vanilla bean. A warm, classic scent that fills your home with timeless sweetness and cozy sophistication.
-  Updated: 2026-01-25T23:49:11Z
+  Updated: 2026-03-03T00:25:40Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/987A851B-27E2-45E2-8A71-EA26E45A6B43.png?v=1767273219
   Price: $26.95 USD
 - [Fresh Linen Room Spray](https://affinatiliving.com/products/fresh-linen-room-spray): Fresh Linen Room & Linen Spray Brighten your space with the crisp, clean scent of our Fresh Linen Room & Linen Spray. Made with a non-toxic formula and concentrated fragrance, this 4 oz spray captures the essence of sun-dried sheets and cool breezes for an instantly refreshed feel in any room or on any fabric. Ideal for use on bedding, curtains, upholstery, or as a daily air freshener, it dries quickly and leaves a long-lasting, airy fragrance. Safe, clean, and powerfully scented—bringing the comfort of clean laundry to every spritz. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -217,7 +217,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Honey Lavender Room Spray](https://affinatiliving.com/products/honey-lavender-room-spray): Honey Lavender Room & Linen Spray Soothe your senses with the calming blend of our Honey Lavender Room & Linen Spray. Crafted with a non-toxic formula and concentrated fragrance, this 4 oz spray combines sweet golden honey with soft lavender to create a warm, relaxing scent that refreshes both rooms and fabrics. Perfect for misting on linens, curtains, pillows, or into the air, it dries quickly and leaves behind a gentle, long-lasting aroma. Safe, clean, and powerfully scented—bringing peaceful comfort to every corner of your home. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -241,7 +241,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Coffee Shop Room Spray](https://affinatiliving.com/products/coffee-shop-room-spray): Coffee Shop Room & Linen Spray Wake up your space with the rich, energizing aroma of our Coffee Shop Room & Linen Spray. Made with a non-toxic formula and concentrated fragrance, this 4 oz spray captures the bold scent of freshly ground coffee—perfect for creating a warm, inviting atmosphere in any room. Ideal for spritzing on linens, pillows, upholstery, or into the air, it dries quickly and leaves a long-lasting, cozy scent. Safe, clean, and powerfully scented—crafted to bring café vibes into your everyday spaces. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -265,7 +265,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Fresh Cut Sage Room Spray](https://affinatiliving.com/products/fresh-sage-room-spray): Fresh Cut Sage Room & Linen Spray Ground your space with the clean, herbal aroma of our Fresh Cut Sage Room & Linen Spray. This 4 oz spray is made with a non-toxic formula and concentrated fragrance, delivering the earthy, crisp scent of freshly snipped sage leaves to instantly refresh any room or fabric. Perfect for use on linens, upholstery, curtains, or as an air mist, it dries quickly and leaves a natural, long-lasting scent behind. Safe, clean, and powerfully scented—bringing the calming essence of nature indoors. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -289,7 +289,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Mint Eucalyptus Room Spray](https://affinatiliving.com/products/eucalyptus-spearmint-room-spray): Mint Eucalyptus Room & Linen Spray Refresh and energize your space with the crisp, invigorating scent of our Mint Eucalyptus Room & Linen Spray. Made with a non-toxic formula and concentrated fragrance, this 4 oz spray blends cool mint and calming eucalyptus for a clean, spa-like aroma that awakens the senses and clears the air. Perfect for use on linens, pillows, curtains, or as an air freshener, it dries quickly and leaves a refreshing, long-lasting scent. Safe, clean, and powerfully scented—designed to revitalize your home with every spray. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -313,7 +313,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Floral Breeze Room Spray](https://affinatiliving.com/products/floral-breeze-room-spray): Floral Breeze Room & Linen Spray Brighten your space with the airy elegance of our Floral Breeze Room & Linen Spray. Crafted with a non-toxic formula and concentrated fragrance, this 4 oz spray combines soft petals, fresh greenery, and a hint of citrus to create a light, uplifting scent that enlivens any room or fabric. Perfect for misting on bedding, curtains, upholstery, or into the air, it dries quickly and leaves behind a long-lasting floral freshness. Safe, clean, and powerfully scented—bringing the essence of a blooming garden to your everyday spaces. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -337,7 +337,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Drops of Rain Room Spray](https://affinatiliving.com/products/raindrop-room-spray): Drops of Rain Room & Linen Spray Bring the fresh scent of a gentle rain shower into your home with our Drops of Rain Room & Linen Spray. Made with a non-toxic formula and concentrated fragrance, this 4 oz spray blends airy ozone, soft florals, and earthy greens to create a clean, calming aroma that refreshes any space. Perfect for spritzing on linens, pillows, curtains, or into the air, it dries quickly and leaves a light, lingering scent that soothes the senses. Safe, clean, and powerfully scented—designed to awaken your space with nature’s freshness. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -361,7 +361,7 @@
     Availability: Available
     Price: $44.95 USD
 - [French Vanilla Room Spray](https://affinatiliving.com/products/french-vanilla-room-spray): French Vanilla Room & Linen Spray Infuse your space with the rich, comforting scent of French Vanilla using our 4 oz Room & Linen Spray. Crafted with a non-toxic formula and concentrated fragrance, this spray delivers a warm blend of creamy vanilla bean and soft sweetness that instantly elevates any room or fabric. Perfect for use on linens, upholstery, curtains, or as an air freshener, it dries quickly and leaves behind a long-lasting, cozy aroma. Safe, clean, and powerfully scented—designed for everyday luxury. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -412,105 +412,105 @@
     Availability: Available
     Price: $39.95 USD
 - [Almond Macaron Signature Candle](https://affinatiliving.com/products/almond-macaron-signature-candle): Sweet and nutty, Almond Macaron delivers a bakery-fresh blend of almond, sugar, and vanilla in a 10 oz clean-burning soy candle.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_03_39_46_PM.png?v=1769114498
   Price: $18.95 USD
 - [Christmas Cookie Signature Candle](https://affinatiliving.com/products/christmas-cookie-signature-candle): Capture the spirit of the holidays with Christmas Cookie—warm vanilla, sugar, and fresh-baked aroma in a festive 10 oz soy candle.
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_01_25_44_PM.png?v=1769019990
   Price: $18.95 USD
 - [Cocoa Butter Cashmere Signature Candle](https://affinatiliving.com/products/cocoa-butter-cashmere-signature-candle): Indulge in luxurious calm with Cocoa Butter Cashmere—a velvety blend of cocoa butter, vanilla, and musk in a clean-burning 10 oz soy candle
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_10_56_20_AM.png?v=1769097416
   Price: $18.95 USD
 - [Chocolate Fudge Brownie Signature Candle](https://affinatiliving.com/products/chocolate-fudge-brownie-signature-candle): Decadent and sweet, Chocolate Fudge Brownie fills your space with rich cocoa and baked goodness in a clean-burning 10 oz soy wax candle.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_11_24_27_AM.png?v=1769099128
   Price: $18.95 USD
 - [French Vanilla Signature Candle](https://affinatiliving.com/products/french-vanilla-signature-candle): Classic and cozy, French Vanilla offers a rich vanilla scent in a clean-burning 10 oz natural candle. Comfort you can light.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_26_2026_at_09_40_58_AM.png?v=1769438490
   Price: $18.95 USD
 - [Vanilla Orchid Signature Candle](https://affinatiliving.com/products/vanilla-orchid-signature-candle): Elegant and smooth, Vanilla Orchid combines floral notes with creamy vanilla for a refined fragrance in a 10 oz clean-burning soy candle.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:19Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_26_2026_at_11_03_41_AM.png?v=1769443485
   Price: $18.95 USD
 - [Coffee Shop Signature Candle](https://affinatiliving.com/products/coffee-shop-signature-candle): Wake up to the aroma of your favorite café. Coffee Shop blends roasted beans, vanilla, and sweet cream in a cozy 10 oz soy wax candle.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:19Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_09_58_33_AM.png?v=1769093960
   Price: $18.95 USD
 - [Tobacco Signature Candle](https://affinatiliving.com/products/tobacco-signature-candle): Infuse your space with sophistication using Tobacco Signature Candle—rich cured tobacco and warm spice in a clean-burning 10 oz soy candle.
-  Updated: 2026-02-25T01:15:18Z
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_20_2026_at_06_55_02_PM.png?v=1768953341
   Price: $18.95 USD
 - [Bourbon & Butterscotch Signature Candle](https://affinatiliving.com/products/bourbon-butterscotch-signature-candle): Warm and indulgent, Bourbon & Butterscotch combines smoky oak, rich caramel, and sweet vanilla in a luxurious 10 oz clean-burning soy candle.
-  Updated: 2026-02-25T01:15:18Z
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_10_53_18_AM.png?v=1769097242
   Price: $18.95 USD
 - [Mahogany Teakwood Signature Candle](https://affinatiliving.com/products/mahogany-teakwood-signature-candle): Enhance your space with Mahogany Teakwood—a bold blend of rich mahogany, cedar, and spice in a clean-burning 10 oz soy candle. Elevate your evenings.
-  Updated: 2026-02-25T01:15:19Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_07_22_49_AM.png?v=1769084595
   Price: $18.95 USD
 - [Honey Lavender Signature Candle](https://affinatiliving.com/products/honey-lavender-signature-candle): Relax deeply with the Honey Lavender Signature Candle—10 oz of calming lavender and sweet honey in a clean-burning soy jar. Shop sleep-worthy scent
-  Updated: 2026-02-25T01:15:19Z
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_11_32_01_AM.png?v=1769013162
   Price: $18.95 USD
 - [Hawaiian Hibiscus Signature Candle](https://affinatiliving.com/products/hawaiian-hibiscus-signature-candle): Transport your senses to the islands with Hawaiian Hibiscus—bright florals, tropical fruit, and soft musk in a 10 oz clean-burning soy candle.
-  Updated: 2026-02-25T01:15:20Z
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_06_43_30_PM.png?v=1769039051
   Price: $18.95 USD
 - [Pink Sands Signature Candle](https://affinatiliving.com/products/pink-sands-signature-candle): Escape to paradise with Pink Sands—a soft, tropical blend of citrus, sweet florals, and vanilla in a clean-burning 10 oz soy candle.
-  Updated: 2026-02-25T01:15:20Z
+  Updated: 2026-03-03T23:28:23Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_06_48_43_PM.png?v=1769039371
   Price: $18.95 USD
 - [Twisted Peppermint Signature Candle](https://affinatiliving.com/products/twisted-peppermint-signature-candle): Cool and invigorating, Twisted Peppermint blends fresh mint, vanilla, and a hint of sweetness in a crisp 10 oz soy candle. Perfect for winter vibes.
-  Updated: 2026-02-25T01:15:21Z
+  Updated: 2026-03-03T23:28:23Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_07_09_58_AM.png?v=1769083833
   Price: $18.95 USD
 - [Mint Eucalyptus Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint): Refresh your skin with our Mint Eucalyptus body scrub. Whipped bath butter, jojoba oil, and your choice of salt for smooth, spa-like exfoliation.
-  Updated: 2026-02-25T01:15:21Z
+  Updated: 2026-03-03T23:28:24Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -525,7 +525,7 @@
     Availability: Available
     Price: $34.95 USD
 - [Champagne Toast Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-champagne): Indulge in Champagne Toast body scrub with a whipped bath butter base, jojoba oil, and customizable salt exfoliation for soft, radiant skin.
-  Updated: 2026-02-25T01:15:22Z
+  Updated: 2026-03-03T23:28:24Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -540,7 +540,7 @@
     Availability: Available
     Price: $34.95 USD
 - [Coffee Beans Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-coffee-shop): Energize your routine with Coffee Beans body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth, refreshed skin.
-  Updated: 2026-02-25T01:15:06Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -555,7 +555,7 @@
     Availability: Available
     Price: $34.95 USD
 - [Vanilla Sugar Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-vanilla-sugar): Gently exfoliate with Vanilla Sugar body scrub. A whipped, moisturizing salt scrub with jojoba oil for soft, smooth skin.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -570,7 +570,7 @@
     Availability: Available
     Price: $34.95 USD
 - [Ocean Breeze Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-ocean-breeze): Clean and refresh your skin with Ocean Breeze body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for everyday softness.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -585,7 +585,7 @@
     Availability: Available
     Price: $34.95 USD
 - [Lavender Dream Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-honey-lavender): Relax with Lavender Dream body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for calming, spa-like self-care.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -642,7 +642,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_4_2026_at_07_16_57_PM.png?v=1770250792
   Price: $22.95 USD
 - [French Vanilla Luxury Face Cream – Deep Moisture](https://affinatiliving.com/products/hydrating-face-cream-french-vanilla): French Vanilla luxury face cream with rich, deep hydration. Classic 5 oz facial moisturizer by Affinati.
-  Updated: 2026-02-12T12:50:38Z
+  Updated: 2026-03-03T00:36:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -656,728 +656,728 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_4_2026_at_07_11_48_PM.png?v=1770250716
   Price: $22.95 USD
 - [3-Wick Chocolate Fudge Brownie Candle](https://affinatiliving.com/products/3-wick-chocolate-fudge-brownie-candle): Shop our XL Chocolate Fudge Brownie Candle – 3-wick, long-lasting, and strong scented. Perfect for dessert lovers, gifting, or filling your home with rich, baked-chocolate goodness.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_09_02_24_AM.png?v=1771768982
   Price: $19.95 USD
 - [3-Wick Fresh Cut Sage Candle](https://affinatiliving.com/products/3-wick-fresh-sage-candle): Shop our XL Fresh Cut Sage Candle – 3-wick, long-lasting, and strong scented. Perfect for grounding rituals, gifting, or bringing clean herbal clarity to your space.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_02_04_16_PM.png?v=1771700689
   Price: $19.95 USD
 - [3-Wick Honey Lavender Candle](https://affinatiliving.com/products/3-wick-honey-lavender-candle): Shop our XL Honey Lavender Candle – 3-wick, long-lasting, and strong scented. Perfect for relaxation, gifting, or adding soft, floral sweetness to your space.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_06_35_17_PM.png?v=1771630552
   Price: $19.95 USD
 - [3-Wick Fire Roasted Marshmallow Candle](https://affinatiliving.com/products/3-wick-fire-roasted-marshmallow-candle): Shop our XL Fire Roasted Marshmallow Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your space with sweet, smoky nostalgia.
-  Updated: 2026-02-25T01:15:09Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_06_15_20_PM.png?v=1771629365
   Price: $19.95 USD
 - [3-Wick White Tea Candle](https://affinatiliving.com/products/3-wick-white-tea-candle): Shop our XL White Tea Candle – 3-wick, long-lasting, and strong scented. Perfect for spa days, gifting, or bringing crisp, calming freshness to your space.
-  Updated: 2026-02-25T03:21:27Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_24_2026_at_10_20_15_AM.png?v=1771946443
   Price: $19.95 USD
 - [3-Wick French Vanilla Candle](https://affinatiliving.com/products/3-wick-french-vanilla-candle): Shop our XL French Vanilla Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your space with smooth, creamy sweetness.
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_09_00_26_PM.png?v=1771848871
   Price: $19.95 USD
 - [3-Wick Mint Eucalyptus Candle](https://affinatiliving.com/products/3-wick-spearmint-eucalyptus-candle): Shop our XL Mint Eucalyptus Candle – 3-wick, long-lasting, and strong scented. Perfect for spa days, gifting, or refreshing your space with cool herbal clarity.
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_12_07_55_PM.png?v=1771693711
   Price: $19.95 USD
 - [3-Wick Pink Sands Candle](https://affinatiliving.com/products/3-wick-pink-sands-candle): Shop our XL Pink Sands Candle – 3-wick, long-lasting, and strong scented. Perfect for beachy bliss, gifting, or adding soft, tropical elegance to your space.
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_09_17_03_PM.png?v=1771640262
   Price: $19.95 USD
 - [3-Wick Tobacco Candle](https://affinatiliving.com/products/3-wick-tobacco-candle): Shop our XL Tobacco Candle – 3-wick, long-lasting, and strong scented. Perfect for masculine spaces, gifting, or adding deep, smoky sophistication to your home.
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_38_10_PM.png?v=1771727921
   Price: $19.95 USD
 - [3-Wick Tobacco Vanilla Candle](https://affinatiliving.com/products/3-wick-tobacco-vanilla-candle): Shop our XL Tobacco Vanilla Candle – 3-wick, long-lasting, and strong scented. Perfect for bold elegance, gifting, or adding rich, smoky-sweet warmth to your space.
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_08_49_16_AM.png?v=1771595386
   Price: $19.95 USD
 - [3-Wick Midnight Ember Candle](https://affinatiliving.com/products/3-wick-midnight-ember-candle): Shop our XL Midnight Ember Candle – 3-wick, long-lasting, and strong scented. Perfect for moody nights, gifting, or bringing deep, smoky warmth to your space.
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_08_48_58_AM.png?v=1771595415
   Price: $19.95 USD
 - [3-Wick Cocoa Butter Cashmere Candle](https://affinatiliving.com/products/3-wick-cocoa-butter-cashmere-candle): Shop our XL Cocoa Butter Cashmere Candle – 3-wick, long-lasting, and strong scented. Perfect for self-care, gifting, or adding soft, luxurious warmth to any space.
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_07_37_25_AM.png?v=1771763876
   Price: $19.95 USD
 - [3-Wick Twisted Peppermint Candle](https://affinatiliving.com/products/3-wick-twisted-peppermint-candle): Shop our XL Twisted Peppermint Candle – 3-wick, long-lasting, and strong scented. Perfect for holiday cheer, gifting, or a cool, sweet burst of minty freshness.
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_08_27_57_PM.png?v=1771637318
   Price: $19.95 USD
 - [3-Wick Almond Macaron Candle](https://affinatiliving.com/products/3-wick-almond-macaron-candle): Shop our XL Almond Macaron Candle – 3-wick, long-lasting, and strong scented. Perfect for dessert lovers, gifting, or adding nutty-sweet bakery warmth to your home.
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_07_36_02_AM.png?v=1771763792
   Price: $19.95 USD
 - [3-Wick Mahogany Teakwood Candle](https://affinatiliving.com/products/3-wick-mahogany-teakwood-candle): Shop our XL Mahogany Teakwood Candle – 3-wick, long-lasting, and strong scented. Ideal for cozy spaces, gifts, or everyday home fragrance.
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:19Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_35_42_PM.png?v=1771727978
   Price: $19.95 USD
 - [3-Wick Vanilla Bean Candle](https://affinatiliving.com/products/3-wick-vanilla-bean-candle): Shop our XL Vanilla Bean Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your home with sweet, creamy comfort.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-04T07:02:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_10_13_02_PM.png?v=1771816445
   Price: $19.95 USD
 - [3-Wick Fresh Cut Grass Candle](https://affinatiliving.com/products/3-wick-fresh-cut-grass-candle): Shop our XL Fresh Cut Grass Candle – 3-wick, long-lasting, and strong scented. Perfect for spring days, gifting, or bringing crisp outdoor freshness indoors.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_02_05_17_PM.png?v=1771700761
   Price: $19.95 USD
 - [3-Wick Cinnamon Swirl Candle](https://affinatiliving.com/products/3-wick-cinnamon-swirl-candle): Shop our XL Cinnamon Swirl Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy mornings, gifting, or filling your home with warm bakery spice.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_31_54_PM.png?v=1771727546
   Price: $19.95 USD
 - [Ocean Breeze Signature Candle](https://affinatiliving.com/products/ocean-breeze-signature-candle): Escape to the coast with Ocean Breeze—a refreshing fusion of marine air, driftwood, and citrus in a 10 oz clean-burning soy candle
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_06_42_43_PM.png?v=1769039005
   Price: $18.95 USD
 - [Black Raspberry Vanilla Signature Candle](https://affinatiliving.com/products/black-raspberry-signature-candle): Sweeten your home with Black Raspberry—ripe berries, vanilla, and sugar in a vibrant 10 oz soy candle. Bold, fruity, and delightfully inviting.
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_11_33_24_AM.png?v=1769013260
   Price: $18.95 USD
 - [Fresh Linen Signature Candle](https://affinatiliving.com/products/fresh-linen-signature-candle): Breathe in clean comfort. Fresh Linen offers airy cotton, soft florals, and powder notes in a 10 oz soy candle—perfect for any room or reset
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_10_54_16_AM.png?v=1769011083
   Price: $18.95 USD
 - [Fruit Fusion Signature Candle](https://affinatiliving.com/products/fruit-fusion-signature-candle): Bright, juicy, and uplifting. Fruit Fusion blends tropical fruits and citrus zest in a 10 oz soy candle for a vibrant, mood-boosting experience
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_10_52_05_AM.png?v=1769010989
   Price: $18.95 USD
 - [Spa Day Signature Candle](https://affinatiliving.com/products/spa-day-signature-candle): Turn your home into a sanctuary. Spa Day blends eucalyptus, cucumber water, and white tea in a clean-burning 10 oz soy candle for total relaxation.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:23Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_10_59_20_AM.png?v=1769011197
   Price: $18.95 USD
 - [Bouquet of Roses Signature Candle](https://affinatiliving.com/products/bouquet-of-roses-signature-candle): Fill your space with classic elegance. The Bouquet of Roses candle offers soft floral notes in a clean-burning 10 oz soy wax jar. Romantic and timeless.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:23Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_06_49_57_PM.png?v=1769039428
   Price: $18.95 USD
 - [Amber Noir Signature Candle](https://affinatiliving.com/products/amber-noir-signature-candle): Set the mood with Amber Noir—a 10 oz soy candle layered in dark amber and warm woods. Sophisticated, long-lasting aroma meets refined ambiance.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:24Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_01_15_04_PM.png?v=1769019337
   Price: $18.95 USD
 - [Bonfire Signature Candle](https://affinatiliving.com/products/bonfire-signature-candle): Relive cozy nights with Bonfire. A warm blend of smoked cedarwood, toasted marshmallow, and glowing embers in a clean-burning 10 oz soy candle.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:24Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_07_11_35_AM.png?v=1769083949
   Price: $18.95 USD
 - [Blue Spruce Signature Candle](https://affinatiliving.com/products/blue-spruce-signature-candle): Bring the outdoors in with Blue Spruce. This 10 oz soy candle blends crisp pine, fir, and evergreen notes for a refreshing woodland escape.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:25Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_06_34_39_PM.png?v=1769038766
   Price: $18.95 USD
 - [3-Wick Bouquet of Roses Candle](https://affinatiliving.com/products/3-wick-bouquet-of-roses-candle): Shop our XL Bouquet of Roses Candle – 3-wick, long-lasting, and strong scented. Perfect for romantic moments, gifting, or filling your space with fresh floral elegance.
-  Updated: 2026-02-25T01:15:06Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_08_27_43_PM.png?v=1771637454
   Price: $19.95 USD
 - [3-Wick Amber Noir Candle](https://affinatiliving.com/products/3-wick-amber-noir-candle): Shop our XL Amber Noir Candle – 3-wick, long-lasting, and strong scented. Perfect for date nights, gifting, or adding rich, seductive warmth to your space.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_08_27_48_PM.png?v=1771637427
   Price: $19.95 USD
 - [3-Wick Bonfire Candle](https://affinatiliving.com/products/3-wick-bonfire-candle): Shop our XL Bonfire Candle – 3-wick, long-lasting, and strong scented. Perfect for smoky nights, gifting, or adding campfire warmth to any space.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_12_58_21_PM.png?v=1771610331
   Price: $19.95 USD
 - [3-Wick Blue Spruce Candle](https://affinatiliving.com/products/3-wick-blue-spruce-candle): Shop our XL Blue Spruce Candle – 3-wick, long-lasting, and strong scented. Perfect for winter woods vibes, gifting, or a crisp, evergreen-scented home.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_10_15_08_PM.png?v=1771816539
   Price: $19.95 USD
 - [Fruit Fusion Original Candle](https://affinatiliving.com/products/fruit-fusion-original-candle): Fruit Fusion Original Candle – 10 oz Fruit Fusion is bright, juicy, and energizing. A blend of fresh fruits creates a lively, uplifting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Mixed CitrusMiddle Notes: Tropical FruitsBase Notes: Soft Sugar Perfect for adding energy and freshness to any room. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_56_41_AM.png?v=1767107064
   Price: $16.95 USD
-- [Honey Lavender Original Candle](https://affinatiliving.com/products/honey-lavender-original-candle): Honey Lavender Original Candle – 10 oz Honey Lavender blends calming lavender with soft sweetness for a soothing, comforting fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: LavenderMiddle Notes: HoneyBase Notes: Vanilla Perfect for winding down and restful moments. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:09Z
+- [Honey Lavender Original Candle](https://affinatiliving.com/products/honey-lavender-original-candle): Honey Lavender Original Candle – 10 oz Honey Lavender blends calming lavender with soft sweetness for a soothing, comforting fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Lavender, Soft HerbsMiddle Notes: Honey Drizzle, Lavender PetalsBase Notes: Warm Musk, Light Woods Perfect for winding down and restful moments. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
+  Updated: 2026-03-04T07:19:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/D4E175EA-9FDE-4C5F-A92E-F698DED7FDAD.png?v=1767194811
   Price: $16.95 USD
 - [Himalayan Bamboo Original Candle](https://affinatiliving.com/products/himalayan-bamboo-original-candle): Himalayan Bamboo Original Candle – 10 oz Himalayan Bamboo is fresh, green, and calming. Clean bamboo blends with subtle florals for a peaceful, spa-inspired scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Green LeavesMiddle Notes: BambooBase Notes: Soft Musk Perfect for relaxation and tranquil spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:09Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8600.png?v=1766816533
   Price: $16.95 USD
 - [Champagne Toast Original Candle](https://affinatiliving.com/products/champagne-toast-original-candle): Champagne Toast Original Candle – 10 oz Champagne Toast is bright, bubbly, and celebratory. Fruity notes blend with light sweetness for an uplifting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: CitrusMiddle Notes: Sparkling FruitBase Notes: Soft Sugar Perfect for celebrations and feel-good moments. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8577.png?v=1766784313
   Price: $16.95 USD
 - [Mint Eucalyptus Original Candle](https://affinatiliving.com/products/mint-eucalyptus-original-candle): Mint Eucalyptus Original Candle – 10 oz Mint Eucalyptus is crisp, clean, and revitalizing. Cool mint blends with eucalyptus for a refreshing, spa-like scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: MintMiddle Notes: EucalyptusBase Notes: Soft Woods Perfect for clearing the air and resetting your space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_10_10_54_AM.png?v=1767107755
   Price: $16.95 USD
 - [Butterscotch & Bourbon Original Candle](https://affinatiliving.com/products/butterscotch-bourbon-original-candle): Butterscotch & Bourbon Original Candle – 10 oz Butterscotch & Bourbon is rich, warm, and indulgent. Sweet butterscotch blends with smooth bourbon for a bold, cozy scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Melted ButterscotchMiddle Notes: BourbonBase Notes: Vanilla, Oak Perfect for evenings and comfort-forward spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8781.png?v=1767150445
   Price: $16.95 USD
 - [Hawaiian Hibiscus Original Candle](https://affinatiliving.com/products/hawaiian-hibiscus-original-candle): Hawaiian Hibiscus Original Candle – 10 oz Hawaiian Hibiscus is bright, floral, and tropical. Lush blooms create a vibrant, getaway-ready fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tropical FloralsMiddle Notes: HibiscusBase Notes: Soft Musk Perfect for summer vibes and cheerful spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_56_43_AM.png?v=1767106997
   Price: $16.95 USD
 - [Mahogany Teakwood Original Candle](https://affinatiliving.com/products/mahogany-teakwood-original-candle): Mahogany Teakwood Original Candle – 10 oz Mahogany Teakwood is bold, rich, and refined. Warm woods blend with subtle spice for a confident, masculine-leaning scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh WoodsMiddle Notes: MahoganyBase Notes: Teakwood, Musk Perfect for grounding your space with depth and warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8513.png?v=1766688693
   Price: $16.95 USD
 - [Pink Sands Original Candle](https://affinatiliving.com/products/pink-sands-original-candle): Pink Sands Original Candle – 10 oz Pink Sands is bright, tropical, and relaxing. Soft fruits blend with gentle florals for a breezy island-inspired scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: CitrusMiddle Notes: Tropical FloralsBase Notes: Soft Vanilla Perfect for escape-ready vibes any time of year. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8708.png?v=1767056648
   Price: $16.95 USD
 - [Twisted Peppermint Original Candle](https://affinatiliving.com/products/twisted-peppermint-original-candle): Twisted Peppermint Original Candle – 10 oz Twisted Peppermint is cool, creamy, and refreshing. Bright mint blends with soft sweetness for a crisp, uplifting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: PeppermintMiddle Notes: Sweet MintBase Notes: Vanilla Sugar Perfect for winter freshness or energizing your space year-round. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T04:56:46Z
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8705.png?v=1767056592
   Price: $16.95 USD
 - [Vanilla Bean Original Candle](https://affinatiliving.com/products/vanilla-bean-original-candle): Vanilla Bean Original Candle – 10 oz Vanilla Bean is rich, smooth, and timeless. Pure vanilla creates a warm and comforting atmosphere. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Vanilla BeanMiddle Notes: Sweet CreamBase Notes: Warm Sugar Perfect for cozy nights and universal appeal. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B2FDDB05-5936-4E73-BB58-F287EC3888BB.png?v=1767186445
   Price: $16.95 USD
 - [Vanilla Sugar Original Candle](https://affinatiliving.com/products/vanilla-sugar-original-candle): Vanilla Sugar Original Candle – 10 oz Vanilla Sugar is sweet, warm, and comforting. Classic vanilla blends with sugary notes for a cozy, crowd-pleasing scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sugar CrystalsMiddle Notes: VanillaBase Notes: Warm Cream Perfect for everyday sweetness and relaxed comfort. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_28_2025_at_09_01_50_AM.png?v=1766930535
   Price: $16.95 USD
 - [Vanilla Orchid Original Candle](https://affinatiliving.com/products/vanilla-orchid-original-candle): Vanilla Orchid Original Candle – 10 oz Vanilla Orchid blends soft florals with smooth vanilla for a scent that feels elegant and calming. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Orchid BlossomMiddle Notes: VanillaBase Notes: Soft Musk Perfect for serene spaces and quiet moments. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8423.png?v=1766512402
   Price: $16.95 USD
 - [Almond Macaron Original Candle](https://affinatiliving.com/products/almond-macaron-original-candle): Almond Macaron Original Candle – 10 oz Almond Macaron is soft, sweet, and elegant. Delicate almond blends with sugar and cream for a refined dessert-inspired scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sweet AlmondMiddle Notes: Sugar CookieBase Notes: Vanilla Cream Perfect for light, cozy indulgence without being overpowering. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8651.png?v=1766952004
   Price: $16.95 USD
 - [Almond Biscotti Original Candle](https://affinatiliving.com/products/almond-biscotti-original-candle): Almond Biscotti Original Candle – 10 oz Wrap your space in warm, bakery-fresh comfort with our Almond Biscotti Original Candle. Rich toasted almond blends with sweet vanilla and a soft, buttery finish to create a cozy scent that feels indulgent, comforting, and irresistibly inviting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sweet Almond, Warm SugarMiddle Notes: Vanilla Cream, Baked BiscottiBase Notes: Golden Butter, Soft Musk Perfect for cozy evenings, relaxing weekends, or anytime you want your home to feel warm and welcoming, Almond Biscotti delivers a comforting, café-inspired atmosphere that feels effortlessly refined. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8661.png?v=1766964532
   Price: $16.95 USD
 - [Fresh Cut Sage Original Candle](https://affinatiliving.com/products/fresh-cut-sage-original-candle): Fresh Cut Sage Original Candle – 10 oz Fresh Cut Sage is clean, herbal, and calming. Earthy greens blend with soft freshness for a naturally soothing scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh SageMiddle Notes: Herbal GreensBase Notes: Soft Woods Perfect for grounding your space and clearing the air. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_12_14_58_PM.png?v=1767114933
   Price: $16.95 USD
 - [Tobacco Original Candle](https://affinatiliving.com/products/tobacco-original-candle): Tobacco Original Candle – 10 oz Tobacco is bold, warm, and grounding. Rich tobacco leaf creates a deep, classic scent with a smooth finish. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tobacco LeafMiddle Notes: Warm SpiceBase Notes: Earthy Woods Perfect for evenings and cozy spaces that call for depth and character. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8648.png?v=1766951695
   Price: $16.95 USD
 - [Floral Breeze Original Candle](https://affinatiliving.com/products/floral-breeze-original-candle): Floral Breeze Original Candle – 10 oz Floral Breeze is light, elegant, and refreshing. Gentle florals blend with soft airiness for a graceful, uplifting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh FloralsMiddle Notes: Blooming PetalsBase Notes: Soft Musk Perfect for springtime vibes and light-filled spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/44E9209F-3DB6-4A1B-92BF-EDA416E5DDA4.png?v=1767186566
   Price: $16.95 USD
 - [Fresh Linen Original Candle](https://affinatiliving.com/products/fresh-linen-original-candle): Fresh Linen Original Candle – 10 oz Fresh Linen delivers the crisp comfort of freshly washed sheets. Clean, airy notes create a bright and welcoming scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh AirMiddle Notes: Linen, Soft FloralsBase Notes: Clean Musk Perfect for brightening your home and creating a fresh, tidy feel. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8372.png?v=1766490710
   Price: $16.95 USD
 - [Drops of Rain Original Candle](https://affinatiliving.com/products/drops-of-rain-original-candle): Drops of Rain Original Candle – 10 oz Drops of Rain captures the clean, refreshing scent of rainfall. Light aquatic notes blend with soft florals for a calming, airy fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh OzoneMiddle Notes: Soft FloralsBase Notes: Clean Musk, Light Woods Perfect for creating a peaceful, refreshed atmosphere in any space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8752.png?v=1767108751
   Price: $16.95 USD
-- [French Vanilla Original Candle](https://affinatiliving.com/products/french-vanilla-original-candle): French Vanilla Original Candle – 10 oz French Vanilla is smooth, creamy, and timeless. Rich vanilla blends with soft sweetness for a comforting scent that feels warm and inviting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Vanilla BeanMiddle Notes: Sweet CreamBase Notes: Warm Sugar, Soft Musk Perfect for everyday comfort and cozy moments, this candle creates a familiar, soothing atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:17Z
+- [French Vanilla Original Candle](https://affinatiliving.com/products/french-vanilla-original-candle): French Vanilla Original Candle – 10 oz French Vanilla is smooth, creamy, and timeless. Rich vanilla blends with soft sweetness for a comforting scent that feels warm and inviting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Vanilla Custard, Sweet CreamMiddle Notes: Warm Sugar, Soft CaramelBase Notes: Ambered Vanilla, Light Woods Perfect for everyday comfort and cozy moments, this candle creates a familiar, soothing atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1B6595C4-F329-404B-88E2-76A834CDBC6A.png?v=1767186473
   Price: $16.95 USD
 - [Black Raspberry Vanilla Original Candle](https://affinatiliving.com/products/black-raspberry-vanilla-original-candle): Black Raspberry Vanilla Original Candle – 10 oz Black Raspberry Vanilla is sweet, smooth, and irresistibly rich. Juicy berries blend with creamy vanilla for a scent that feels warm and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Black RaspberryMiddle Notes: Sweet Berry BlendBase Notes: Vanilla Cream Perfect for adding warmth and sweetness to your space, this candle feels inviting and comforting. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:18Z
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/924986DC-08A0-4B57-A8C4-32F8DAE43858.png?v=1767195250
   Price: $16.95 USD
 - [Spa Day Original Candle](https://affinatiliving.com/products/spa-day-original-candle): Spa Day Original Candle – 10 oz Spa Day creates a calm, refreshing atmosphere inspired by luxury spa experiences. Clean, soothing notes help you unwind and reset. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Air, Light CitrusMiddle Notes: Eucalyptus, Soft FloralsBase Notes: Clean Musk, Light Woods Perfect for self-care moments and peaceful evenings, this candle turns any space into a retreat. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:18Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/045389AD-E9A6-46E7-B378-420696BFA7F4.png?v=1767106212
   Price: $16.95 USD
 - [Tropical Island Original Candle](https://affinatiliving.com/products/tropical-island-original-candle): Tropical Island Original Candle – 10 oz Tropical Island transports you to sun-soaked shores. Bright tropical fruits blend with creamy undertones for a scent that feels warm, relaxed, and getaway-ready. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tropical FruitMiddle Notes: Coconut, Island FloralsBase Notes: Vanilla, Soft Musk Perfect for summer vibes or anytime you want to escape to paradise. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:19Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_58_35_AM.png?v=1767106950
   Price: $16.95 USD
 - [Christmas Tree Original Candle](https://affinatiliving.com/products/christmas-tree-original-candle): Christmas Tree Original Candle – 10 oz Christmas Tree captures the unmistakable scent of a freshly cut evergreen. Crisp pine and fir notes create a festive, nostalgic holiday fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh PineMiddle Notes: Fir NeedlesBase Notes: Cedarwood, Soft Woods Perfect for holiday décor and winter gatherings, this candle brings the magic of the season indoors. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:19Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_12_16_39_PM.png?v=1767115109
   Price: $16.95 USD
 - [Citrus Pine Original Candle](https://affinatiliving.com/products/citrus-pine-original-candle): Citrus Pine Original Candle – 10 oz Citrus Pine is fresh, crisp, and uplifting. Bright citrus blends with evergreen pine for a clean scent that feels both energizing and comforting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Citrus ZestMiddle Notes: Pine NeedlesBase Notes: Soft Woods, Clean Musk Perfect for refreshing your home and bringing an outdoors-in feel to any room. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:20Z
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_11_00_00_AM.png?v=1767110430
   Price: $16.95 USD
 - [Lemon & Amber Musk Original Candle](https://affinatiliving.com/products/lemon-amber-musk-original-candle): Lemon & Amber Musk Original Candle – 10 oz Lemon & Amber Musk blends bright citrus with warm depth. Fresh lemon zest meets smooth amber and soft musk for a scent that feels clean yet grounding. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Lemon ZestMiddle Notes: AmberBase Notes: Soft Musk, Light Woods Perfect for energizing your space while keeping it warm and inviting. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:06Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8731.png?v=1767065464
   Price: $16.95 USD
 - [Sandalwood & Jasmine Original Candle](https://affinatiliving.com/products/sandalwood-jasmine-original-candle): Sandalwood & Jasmine Original Candle – 10 oz Sandalwood & Jasmine is warm, floral, and beautifully balanced. Creamy sandalwood blends with soft jasmine for a scent that feels calming, elegant, and refined. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Soft FloralsMiddle Notes: Jasmine PetalsBase Notes: Sandalwood, Warm Musk Perfect for relaxing evenings and serene spaces, this candle creates a peaceful, luxurious atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8645.png?v=1766951513
   Price: $16.95 USD
 - [Clean Cotton Original Candle](https://affinatiliving.com/products/clean-cotton-original-candle): Clean Cotton Original Candle – 10 oz Clean Cotton captures the crisp freshness of freshly washed linens. Bright, airy notes blend with subtle softness for a clean, comforting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh LinenMiddle Notes: Soft FloralsBase Notes: Light Musk, Clean Woods Perfect for brightening your space and creating a fresh, welcoming atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8417.png?v=1766511021
   Price: $16.95 USD
 - [White Tea Original Candle](https://affinatiliving.com/products/white-tea-original-candle): White Tea Original Candle – 10 oz White Tea is light, calming, and effortlessly elegant. Soft tea leaves blend with gentle florals for a scent that feels clean and tranquil. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: White Tea LeavesMiddle Notes: Soft FloralsBase Notes: Light Woods, Clean Musk Perfect for creating a peaceful atmosphere, White Tea feels refreshing and soothing in any room. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8420.png?v=1766511817
   Price: $16.95 USD
 - [Cinnamon Twist Original Candle](https://affinatiliving.com/products/cinnamon-twist-original-candle): Cinnamon Twist Original Candle – 10 oz Cinnamon Twist delivers bold spice with a touch of sweetness. Warm cinnamon blends with smooth sugar for a lively yet comforting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Cinnamon BarkMiddle Notes: Sweet SpiceBase Notes: Vanilla, Warm Sugar Perfect for energizing your space while keeping it cozy and inviting. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8664.png?v=1766964711
   Price: $16.95 USD
-- [Cinnamon Swirl Original Candle](https://affinatiliving.com/products/cinnamon-swirl-original-candle): Cinnamon Swirl Original Candle – 10 oz Cinnamon Swirl fills your home with the comforting aroma of warm cinnamon and sweet pastry notes. Cozy and familiar, it feels like fresh-baked comfort. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Ground CinnamonMiddle Notes: Sweet DoughBase Notes: Vanilla Sugar, Soft Spice Perfect for fall and winter or anytime you crave warmth and comfort. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:09Z
+- [Cinnamon Swirl Original Candle](https://affinatiliving.com/products/cinnamon-swirl-original-candle): Cinnamon Swirl Original Candle – 10 oz Cinnamon Swirl fills your home with the comforting aroma of warm cinnamon and sweet pastry notes. Cozy and familiar, it feels like fresh-baked comfort. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Cinnamon Sugar, Sweet SpiceMiddle Notes: Warm Pastry, Vanilla CreamBase Notes: Brown Sugar, Soft Woods Perfect for fall and winter or anytime you crave warmth and comfort. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8670.png?v=1766968071
   Price: $16.95 USD
 - [Hazelnut Coffee Original Candle](https://affinatiliving.com/products/hazelnut-coffee-original-candle): Hazelnut Coffee Original Candle – 10 oz Hazelnut Coffee blends rich roasted coffee with smooth, nutty sweetness for a warm, comforting scent that feels indulgent and inviting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Roasted CoffeeMiddle Notes: Toasted HazelnutBase Notes: Vanilla Cream, Warm Sugar Perfect for cozy mornings and relaxed afternoons, this candle creates a welcoming café-style atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:09Z
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8642.png?v=1766951139
   Price: $16.95 USD
 - [Black Coffee Original Candle](https://affinatiliving.com/products/black-coffee-original-candle): Black Coffee Original Candle – 10 oz Black Coffee delivers the bold, unmistakable aroma of freshly brewed coffee. Deep, rich, and energizing, this scent feels warm and comforting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Brewed CoffeeMiddle Notes: Dark Roast EspressoBase Notes: Cocoa, Warm Woods Perfect for mornings, workspaces, or anytime you want a cozy café feel at home. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8717.png?v=1767064197
   Price: $16.95 USD
-- [Pumpkin Spice Latte Original Candle](https://affinatiliving.com/products/pumpkin-spice-latte-original-candle): Pumpkin Spice Latte Original Candle – 10 oz Pumpkin Spice Latte captures the cozy comfort of your favorite fall drink. Creamy pumpkin blends with warm spice and smooth sweetness for a scent that feels inviting and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Pumpkin Puree, Warm SpiceMiddle Notes: Cinnamon, NutmegBase Notes: Vanilla Cream, Sweet Sugar Perfect for crisp mornings and cozy evenings, this candle fills your home with fall-inspired warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:10Z
+- [Pumpkin Spice Latte Original Candle](https://affinatiliving.com/products/pumpkin-spice-latte-original-candle): Create a cozy, autumn-inspired atmosphere with our Pumpkin Spice Latte Original Candle (10 oz). Creamy pumpkin, warm cinnamon, and smooth coffee notes blend together in a clean-burning soy wax formula designed to capture the comforting essence of fall café moments.
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3A911539-0A9A-42E7-B7D0-58AE59A85D32_088656f7-50f0-4284-80fb-8cd3a813d280.png?v=1767056186
   Price: $16.95 USD
-- [Saffron Cedarwood Original Candle](https://affinatiliving.com/products/saffron-cedarwood-original-candle): Saffron Cedarwood Original Candle – 10 oz Saffron Cedarwood is warm, refined, and quietly luxurious. Earthy cedarwood blends with subtle spice for a scent that feels elegant and grounding. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: SaffronMiddle Notes: CedarwoodBase Notes: Soft Amber, Dry Woods Perfect for evenings and sophisticated spaces, this candle creates a calm, elevated atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:11Z
+- [Saffron Cedarwood Original Candle](https://affinatiliving.com/products/saffron-cedarwood-original-candle): Create a rich, sophisticated atmosphere with our Saffron Cedarwood Original Candle (10 oz). Warm saffron spice, smooth cedarwood, and subtle amber undertones blend together in a clean-burning soy wax formula designed to deliver bold, woodsy refinement.
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_28_2025_at_09_13_26_AM.png?v=1766931364
   Price: $16.95 USD
-- [S’mores Original Candle](https://affinatiliving.com/products/s-mores-original-candle): S’mores Original Candle – 10 oz S’mores brings the classic campfire treat to life. Chocolate, graham cracker, and toasted marshmallow combine for a sweet, cozy, and nostalgic fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: ChocolateMiddle Notes: Graham CrackerBase Notes: Toasted Marshmallow, Vanilla Perfect for relaxed nights and comfort-filled moments, this candle feels playful and indulgent. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:11Z
+- [S’mores Original Candle](https://affinatiliving.com/products/s-mores-original-candle): Create a warm, indulgent atmosphere with our S’mores Original Candle (10 oz). Gooey marshmallow, melted chocolate, and buttery graham cracker blend together in a clean-burning soy wax formula designed to bring classic campfire sweetness to your space.
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8654.png?v=1766952287
   Price: $16.95 USD
-- [Fire Roasted Marshmallow Original Candle](https://affinatiliving.com/products/fire-roasted-marshmallow-original-candle): Fire Roasted Marshmallow Original Candle – 10 oz Fire Roasted Marshmallow captures the cozy sweetness of toasted marshmallows by the fire. Creamy vanilla blends with subtle smoke for a warm, nostalgic scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Toasted SugarMiddle Notes: Marshmallow CreamBase Notes: Soft Smoke, Vanilla Perfect for winter nights and cozy evenings, this candle creates instant comfort and warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:12Z
+- [Fire Roasted Marshmallow Original Candle](https://affinatiliving.com/products/fire-roasted-marshmallow-original-candle): Create a nostalgic, fireside atmosphere with our Fire Roasted Marshmallow Original Candle (10 oz). Toasted marshmallow, warm sugar, and subtle smoky notes blend together in a clean-burning soy wax formula designed to capture cozy campfire evenings.
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/22917E22-5A50-4FFF-8ADD-7C51301A3264.png?v=1767186508
   Price: $16.95 USD
-- [Cocoa Butter Cashmere Original Candle](https://affinatiliving.com/products/cocoa-butter-cashmere-original-candle): Cocoa Butter Cashmere Original Candle – 10 oz Cocoa Butter Cashmere is smooth, warm, and luxuriously soft. Creamy cocoa butter blends with gentle warmth for a scent that feels calming and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Cocoa ButterMiddle Notes: Soft FloralsBase Notes: Cashmere Musk, Warm Woods Perfect for relaxation and self-care moments, this candle creates a comforting, spa-like atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:12Z
+- [Cocoa Butter Cashmere Original Candle](https://affinatiliving.com/products/cocoa-butter-cashmere-original-candle): Create a soft, luxurious atmosphere with our Cocoa Butter Cashmere Original Candle (10 oz). Creamy cocoa butter, warm vanilla, and smooth cashmere musk blend together in a clean-burning soy wax formula designed to deliver cozy, refined elegance.
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_28_2025_at_09_06_58_AM.png?v=1766930858
   Price: $16.95 USD
-- [Chocolate Fudge Brownie Original Candle](https://affinatiliving.com/products/chocolate-fudge-brownie-original-candle): Chocolate Fudge Brownie Original Candle – 10 oz Chocolate Fudge Brownie is rich, decadent, and irresistibly indulgent. Deep chocolate notes recreate the warmth of freshly baked brownies straight from the oven. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Cocoa PowderMiddle Notes: Fudge BrownieBase Notes: Vanilla Sugar, Warm Bakery Perfect for cozy nights and dessert lovers, this candle fills your home with comforting sweetness. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:13Z
+- [Chocolate Fudge Brownie Original Candle](https://affinatiliving.com/products/chocolate-fudge-brownie-original-candle): Create a decadent, indulgent atmosphere with our Chocolate Fudge Brownie Original Candle (10 oz). Rich cocoa, warm melted chocolate, and soft bakery sweetness blend together in a clean-burning soy wax formula designed to fill your space with dessert-inspired comfort.
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8658.png?v=1766955218
   Price: $16.95 USD
-- [Midnight Ember Original Candle](https://affinatiliving.com/products/midnight-ember-original-candle): Midnight Ember Original Candle – 10 oz Midnight Ember is deep, moody, and captivating. Warm embers and smoky undertones create a rich scent that feels mysterious, cozy, and refined. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Smoked WoodsMiddle Notes: Glowing EmbersBase Notes: Dark Amber, Warm Musk Perfect for evenings and low-light moments, this candle sets a calm, intimate atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:13Z
+- [Midnight Ember Original Candle](https://affinatiliving.com/products/midnight-ember-original-candle): Create a bold, cozy atmosphere with our Midnight Ember Original Candle (10 oz). Smoldering woods, warm amber, and subtle smoky depth blend together in a clean-burning soy wax formula designed to bring rich, fireside elegance to your space.
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8624.png?v=1766889081
   Price: $16.95 USD
-- [Fresh Cut Grass Original Candle](https://affinatiliving.com/products/fresh-cut-grass-original-candle): Fresh Cut Grass Original Candle – 10 oz Fresh Cut Grass brings the unmistakable scent of a freshly mowed lawn into your home. Crisp, green, and invigorating, this fragrance feels clean, nostalgic, and energizing. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Green Leaves, Fresh AirMiddle Notes: Cut Grass, Herbal GreensBase Notes: Soft Earth, Light Woods Perfect for spring and summer or anytime you want your space to feel bright and refreshed. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:14Z
+- [Fresh Cut Grass Original Candle](https://affinatiliving.com/products/fresh-cut-grass-original-candle): Create a bright, refreshing atmosphere with our Fresh Cut Grass Original Candle (10 oz). Crisp green blades, dewy morning air, and soft earthy undertones blend together in a clean-burning soy wax formula designed to capture the scent of freshly mowed lawns and open fields.
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_10_08_57_AM.png?v=1767107580
   Price: $16.95 USD
-- [Christmas Cookie Original Candle](https://affinatiliving.com/products/christmas-cookies-original-candle): Christmas Cookie Original Candle – 10 oz Christmas Cookie fills your home with the nostalgic aroma of fresh-baked holiday treats. Butter, sugar, and vanilla create a warm, joyful scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sugar, ButterMiddle Notes: Vanilla Cookie DoughBase Notes: Warm Bakery, Sweet Cream Perfect for winter evenings and festive gatherings, this candle instantly creates a cozy holiday atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:14Z
+- [Christmas Cookie Original Candle](https://affinatiliving.com/products/christmas-cookies-original-candle): Create a warm, festive atmosphere with our Christmas Cookie Original Candle (10 oz). Buttery sugar cookies, creamy vanilla icing, and soft baked sweetness blend together in a clean-burning soy wax formula designed to bring nostalgic holiday comfort to your space.
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8569.png?v=1766783329
   Price: $16.95 USD
-- [Banana Creme Pie Original Candle](https://affinatiliving.com/products/banana-creme-pie-original-candle): Banana Creme Pie Original Candle – 10 oz Banana Creme Pie is creamy, sweet, and irresistibly comforting. Ripe banana blends with smooth vanilla cream for a dessert-inspired scent that feels indulgent and nostalgic. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Ripe BananaMiddle Notes: Vanilla CreamBase Notes: Sweet Sugar, Soft Bakery Notes Perfect for cozy nights and sweet moments, this candle fills your space with warm, bakery-style comfort. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:15Z
+- [Banana Creme Pie Original Candle](https://affinatiliving.com/products/banana-creme-pie-original-candle): Create a rich, dessert-inspired atmosphere with our Banana Creme Pie Original Candle (10 oz). Sweet ripe banana, creamy vanilla custard, and buttery pie crust blend together in a clean-burning soy wax formula designed to fill your space with indulgent bakery comfort.
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8726.png?v=1767065148
   Price: $16.95 USD
-- [Autumn Breeze Original Candle](https://affinatiliving.com/products/autumn-breeze-original-candle): Autumn Breeze Original Candle – 10 oz Autumn Breeze captures the crisp comfort of fall air. Fresh outdoor notes blend with soft warmth for a scent that feels clean, cozy, and seasonal. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Air, Light CitrusMiddle Notes: Fallen LeavesBase Notes: Soft Woods, Warm Musk Perfect for transitional seasons, this candle brings a refreshing yet comforting feel to your home. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:15Z
+- [Autumn Breeze Original Candle](https://affinatiliving.com/products/autumn-breeze-original-candle): Create a crisp, seasonal atmosphere with our Autumn Breeze Original Candle (10 oz). Cool fall air, soft spice, and subtle woodsy warmth blend together in a clean-burning soy wax formula designed to capture the essence of changing leaves and cozy evenings.
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/BABA0EBB-D0C2-48D1-9E1F-24DC79A2858E.png?v=1767054950
   Price: $16.95 USD
-- [Tobacco Vanilla Original Candle](https://affinatiliving.com/products/tobacco-vanilla-original-candle-1): Tobacco Vanilla Original Candle – 10 oz Tobacco Vanilla is rich, smooth, and sophisticated. Warm tobacco leaf blends with creamy vanilla for a scent that feels bold, cozy, and refined. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tobacco LeafMiddle Notes: Vanilla BeanBase Notes: Warm Amber, Soft Woods Perfect for evening relaxation, this candle creates a warm, luxurious atmosphere with lasting depth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:16Z
+- [Tobacco Vanilla Original Candle](https://affinatiliving.com/products/tobacco-vanilla-original-candle-1): Create a warm, refined atmosphere with our Tobacco Vanilla Original Candle (10 oz). Smooth tobacco leaf, creamy vanilla, and subtle amber warmth blend together in a clean-burning soy wax formula designed to deliver bold yet balanced sophistication.
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8618.png?v=1766888539
   Price: $16.95 USD
-- [Bouquet of Roses Original Candle](https://affinatiliving.com/products/bouquet-of-roses-original-candle): Bouquet of Roses Original Candle – 10 oz Bouquet of Roses surrounds your space with the timeless beauty of fresh-cut florals. Soft rose petals blend with gentle greenery for a classic, elegant fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh RoseMiddle Notes: Blooming PetalsBase Notes: Soft Greens, Light Musk Perfect for adding romance and refinement, this candle feels graceful and inviting in any room. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:16Z
+- [Bouquet of Roses Original Candle](https://affinatiliving.com/products/bouquet-of-roses-original-candle): Create a romantic, elegant atmosphere with our Bouquet of Roses Original Candle (10 oz). Fresh rose petals, soft floral notes, and delicate greenery blend together in a clean-burning soy wax formula designed to bring timeless floral beauty to your space.
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8574.png?v=1766783979
   Price: $16.95 USD
-- [Bonfire Original Candle](https://affinatiliving.com/products/bonfire-original-candle): Bonfire Original Candle – 10 oz Bonfire captures the cozy warmth of a crackling fire on a cool night. Smoky woods blend with subtle sweetness for a scent that feels grounding and comforting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Smoked WoodsMiddle Notes: Burning EmbersBase Notes: Warm Musk, Soft Vanilla Perfect for evenings and colder seasons, this candle creates a cozy, fireside atmosphere indoors. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:17Z
+- [Bonfire Original Candle](https://affinatiliving.com/products/bonfire-original-candle): Create a cozy, fireside atmosphere with our Bonfire Original Candle (10 oz). Smoky woods, warm embers, and subtle toasted sweetness blend together in a clean-burning soy wax formula designed to capture the comfort of crisp evenings by the fire.
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8583.png?v=1766785243
   Price: $16.95 USD
-- [Ocean Breeze Original Candle](https://affinatiliving.com/products/ocean-breeze-original-candle-1): Ocean Breeze Original Candle – 10 oz Ocean Breeze brings the refreshing calm of coastal air into your home. Clean marine notes blend with soft florals and light woods for a scent that feels airy, crisp, and relaxing. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Ozone, Sea AirMiddle Notes: Soft FloralsBase Notes: Light Woods, Clean Musk Perfect for brightening your space and creating a breezy, relaxed atmosphere that feels effortlessly fresh. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:17Z
+- [Ocean Breeze Original Candle](https://affinatiliving.com/products/ocean-breeze-original-candle-1): Create a light, refreshing atmosphere with our Ocean Breeze Original Candle (10 oz). Clean marine notes, soft sea mist, and airy coastal freshness blend together in a clean-burning soy wax formula designed to bring calm, breezy serenity to your space.
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4948ADDF-0011-4CDD-92C6-E919A1553D5E.png?v=1767106159
   Price: $16.95 USD
-- [Amber Noir Original Candle](https://affinatiliving.com/products/amber-noir-original-candle): Amber Noir Original Candle – 10 oz Amber Noir is deep, smooth, and alluring. Warm amber blends with soft woods and subtle sweetness for a rich, sophisticated scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Warm AmberMiddle Notes: Dark WoodsBase Notes: Vanilla, Soft Musk Perfect for evenings and cozy nights in, this candle creates a warm, elegant atmosphere with lasting depth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:18Z
+- [Amber Noir Original Candle](https://affinatiliving.com/products/amber-noir-original-candle): Create a bold, sophisticated atmosphere with our Amber Noir Original Candle (10 oz). Rich amber, smooth musk, and warm vanilla undertones blend together in a clean-burning soy wax formula designed to add depth and refined elegance to any room.
+  Updated: 2026-03-03T23:28:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_28_2025_at_09_04_31_AM.png?v=1766930776
   Price: $16.95 USD
-- [Blue Spruce Original Candle](https://affinatiliving.com/products/blue-spruce-original-candle): Blue Spruce Original Candle – 10 oz Blue Spruce captures the fresh, crisp scent of winter evergreens. Cool pine needles blend with subtle woods for a clean, seasonal fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh PineMiddle Notes: Spruce NeedlesBase Notes: Soft Woods, Winter Musk Perfect for winter months and holiday décor, this candle brings the outdoors in with a refreshing, forest-fresh feel. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:19Z
+- [Blue Spruce Original Candle](https://affinatiliving.com/products/blue-spruce-original-candle): Create a crisp, wintery atmosphere with our Blue Spruce Original Candle (10 oz). Fresh evergreen needles, cool forest air, and subtle balsam warmth blend together in a clean-burning soy wax formula designed to bring the refreshing scent of a snow-covered forest into your space.
+  Updated: 2026-03-03T23:28:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B76CCF45-D3C3-43BE-A7AE-760DEF2ED093.png?v=1767106125
   Price: $16.95 USD
-- [Cotton Candy Original Candle](https://affinatiliving.com/products/cotton-candy-original-candle): Cotton Candy Original Candle – 10 oz Cotton Candy is playful, sweet, and lighthearted. Sugary notes blend with soft vanilla for a fun scent that feels nostalgic and cheerful. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Spun SugarMiddle Notes: Sweet BerryBase Notes: Vanilla Cream Perfect for adding a playful touch to your space, this candle feels bright, fun, and irresistibly sweet. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:19Z
+- [Cotton Candy Original Candle](https://affinatiliving.com/products/cotton-candy-original-candle): Create a sweet, playful atmosphere with our Cotton Candy Original Candle (10 oz). Spun sugar, soft vanilla, and airy sweetness blend together in a clean-burning soy wax formula designed to fill your space with nostalgic, carnival-inspired charm.
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8784.png?v=1767184987
   Price: $16.95 USD
-- [Apple Spice Original Candle](https://affinatiliving.com/products/apple-spice-original-candle): Apple Spice Original Candle – 10 oz Apple Spice blends crisp apple with warm seasonal spices for a scent that feels cozy, comforting, and timeless. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh AppleMiddle Notes: Cinnamon, CloveBase Notes: Warm Sugar, Soft Woods Perfect for cooler months and cozy evenings, this candle wraps your space in familiar autumn warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:19Z
+- [Apple Spice Original Candle](https://affinatiliving.com/products/apple-spice-original-candle): Create a warm, comforting atmosphere with our Apple Spice Original Candle (10 oz). Crisp orchard apples, cozy cinnamon, and subtle clove blend together in a clean-burning soy wax formula designed to fill your space with inviting seasonal warmth.
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_51_36_PM.png?v=1766703118
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_28_2026_at_06_43_23_PM.png?v=1772322266
   Price: $16.95 USD
-- [Apple Pie Original Candle](https://affinatiliving.com/products/apple-pie-original-candle): Apple Pie Original Candle – 10 oz Apple Pie fills your home with the comforting aroma of a freshly baked dessert. Sweet apples, warm spice, and buttery crust notes create a classic, nostalgic scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Baked AppleMiddle Notes: Cinnamon, NutmegBase Notes: Brown Sugar, Pie Crust Perfect for fall and winter days, this candle creates a warm, homey atmosphere that feels familiar and inviting. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:20Z
+- [Baked Apple Pie Original Candle](https://affinatiliving.com/products/apple-pie-original-candle): Enjoy the warm aroma of the Affinati Baked Apple Pie Original Candle – 10 oz. Fresh apple, cinnamon spice, and buttery crust with up to 55-hour clean burn.
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_46_22_PM.png?v=1766702806
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_26_2026_at_03_32_24_PM.png?v=1772138121
   Price: $16.95 USD
-- [Coconut Dream Original Candle](https://affinatiliving.com/products/coconut-dream-original-candle): Coconut Dream Original Candle – 10 oz Coconut Dream is smooth, creamy, and indulgent. Rich coconut milk blends with soft sweetness for a scent that feels cozy, comforting, and effortlessly tropical. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Coconut MilkMiddle Notes: Creamy CoconutBase Notes: Vanilla, Soft Sugar Perfect for creating a relaxed, inviting atmosphere, Coconut Dream feels warm and comforting any time of year. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:21Z
+- [Coconut Dream Original Candle](https://affinatiliving.com/products/coconut-dream-original-candle): Create a smooth, tropical atmosphere with our Coconut Dream Original Candle (10 oz). Creamy coconut milk, soft vanilla, and a hint of warm sugar blend together in a clean-burning soy wax formula designed to deliver dreamy, island-inspired elegance.
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_47_19_PM.png?v=1766702866
   Price: $16.95 USD
-- [Coconut Flakes Original Candle](https://affinatiliving.com/products/coconut-flakes-original-candle): Coconut Flakes Original Candle – 10 oz Coconut Flakes is light, creamy, and subtly sweet. Fresh coconut blends with soft vanilla for a clean, comforting scent that feels relaxed and airy. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh CoconutMiddle Notes: Coconut CreamBase Notes: Vanilla Sugar, Soft Musk Perfect for year-round enjoyment, this candle brings an easygoing, tropical warmth into any space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:21Z
+- [Coconut Flakes Original Candle](https://affinatiliving.com/products/coconut-flakes-original-candle): Create a light, tropical atmosphere with our Coconut Flakes Original Candle (10 oz). Toasted coconut, creamy sweetness, and soft island warmth blend together in a clean-burning soy wax formula designed to bring relaxed beach-inspired comfort to your space.
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_45_31_PM.png?v=1766702758
   Price: $16.95 USD
-- [Black Cherry Merlot Original Candle](https://affinatiliving.com/products/black-cherry-original-candle): Black Cherry Merlot Original Candle – 10 oz Black Cherry Merlot is bold, juicy, and richly sweet. Dark cherry notes blend with subtle warmth for a scent that feels vibrant and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Ripe Black CherryMiddle Notes: Sweet Cherry JuiceBase Notes: Light Vanilla, Soft Woods Perfect for adding a pop of sweetness to your space, this candle feels inviting and full-bodied. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:22Z
+- [Black Cherry Merlot Original Candle](https://affinatiliving.com/products/black-cherry-original-candle): Create a bold, luxurious atmosphere with our Black Cherry Merlot Original Candle (10 oz). Dark cherry, smooth red wine, and soft vanilla undertones blend together in a clean-burning soy wax formula designed to add depth and elegance to any room.
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8714.png?v=1767063944
   Price: $16.95 USD
-- [Candy Corn Original Candle](https://affinatiliving.com/products/candy-corn-original-candle): Candy Corn Original Candle – 10 oz Candy Corn is sweet, playful, and nostalgic. Creamy vanilla and sugary notes create a lighthearted scent that feels fun and festive. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sweet SugarMiddle Notes: Creamy VanillaBase Notes: Soft Candy Notes Perfect for fall décor and seasonal fun, this candle adds a cheerful touch to any space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:06Z
+- [Candy Corn Original Candle](https://affinatiliving.com/products/candy-corn-original-candle): Create a festive, nostalgic atmosphere with our Candy Corn Original Candle (10 oz). Creamy vanilla, warm sugar, and buttery sweetness blend together in a clean-burning soy wax formula designed to bring playful autumn charm to your space.
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/280314AB-2C08-442D-97A0-F4B4A7AC3C37.png?v=1767054885
   Price: $16.95 USD
-- [Cider Lane Original Candle](https://affinatiliving.com/products/cider-lane-original-candle): Cider Lane Original Candle – 10 oz Cider Lane delivers the cozy charm of autumn. Crisp apples blend with warm spices and subtle sweetness for a scent that feels inviting and nostalgic. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Crisp AppleMiddle Notes: Cinnamon, CloveBase Notes: Warm Sugar, Soft Woods Perfect for fall days and cool evenings, this candle wraps your home in comforting seasonal warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:07Z
+- [Cider Lane Original Candle](https://affinatiliving.com/products/cider-lane-original-candle): Create a cozy autumn atmosphere with our Cider Lane Original Candle (10 oz). Sweet mulled apples, warm cinnamon spice, and a hint of caramel blend together in a clean-burning soy wax formula designed to capture the heart of crisp fall evenings.
+  Updated: 2026-03-03T23:28:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_43_23_PM.png?v=1766702619
   Price: $16.95 USD
 - [Coconut Flakes Signature Candle](https://affinatiliving.com/products/coconut-flakes-signature-candle): Escape to a tropical paradise with the Coconut Flakes Signature Candle—10 oz of creamy coconut aroma in a clean-burning soy wax jar. Light freedom.
-  Updated: 2026-02-25T01:15:07Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_26_2026_at_09_39_26_AM.png?v=1769438407
   Price: $18.95 USD
 - [Cotton Candy Signature Candle](https://affinatiliving.com/products/cotton-candy-signature-candle): Bring sweet nostalgia to your home with our 10 oz Cotton Candy Signature Candle—hand-poured soy wax, clean-burning, and irresistibly fragrant. Shop now.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_11_22_14_AM.png?v=1769012588
   Price: $18.95 USD
 - [Black Cherry Merlot Signature Candle](https://affinatiliving.com/products/black-cherry-signature-candle): Fill your space with bold, juicy aroma. Our Black Cherry candle features ripe cherries and vanilla in a clean-burning 10 oz soy wax blend.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_20_2026_at_06_29_14_PM.png?v=1768951777
   Price: $18.95 USD
 - [S’mores Signature Candle](https://affinatiliving.com/products/s-mores-signature-candle): Cozy up with the scent of campfire nights. Our S’mores candle blends graham cracker, melted marshmallow, and rich chocolate in a clean 10 oz soy jar.
-  Updated: 2026-02-25T01:15:08Z
+  Updated: 2026-03-03T23:28:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_07_05_11_PM.png?v=1769126812
   Price: $18.95 USD
 - [3-Wick Pineapple Margaritas Candle](https://affinatiliving.com/products/3-wick-pineapple-margaritas-candle): Shop our XL Pineapple Margarita Candle – 3-wick, long-lasting, and strong scented. Perfect for summer parties, gifting, or a zesty tropical escape at home.
-  Updated: 2026-02-25T01:15:09Z
+  Updated: 2026-03-03T23:28:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_10_17_38_PM.png?v=1771816691
   Price: $19.95 USD
 - [3-Wick Pina Colada Candle](https://affinatiliving.com/products/3-wick-pina-colada-candle): Shop our XL Pina Colada Candle – 3-wick, long-lasting, and strong scented. Perfect for tropical vibes, gifting, or a sweet beachside escape at home.
-  Updated: 2026-02-25T03:20:24Z
+  Updated: 2026-03-03T23:28:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_24_2026_at_10_19_43_AM.png?v=1771946412
   Price: $19.95 USD
 - [3-Wick Coconut Flakes Candle](https://affinatiliving.com/products/3-wick-coconut-flakes-candle): Shop our XL Coconut Flakes Candle – 3-wick, long-lasting, and strong scented. Perfect for tropical escapes, gifting, or sweet island-inspired relaxation.
-  Updated: 2026-02-25T01:15:10Z
+  Updated: 2026-03-03T23:28:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_23_2026_at_10_03_22_PM.png?v=1771902234
   Price: $19.95 USD
-- [Coffee Shop Original Candle](https://affinatiliving.com/products/coffee-shop-original-candle): Coffee Shop Original Candle – 10 oz Coffee Shop brings the comforting aroma of your favorite café straight into your home. Freshly brewed coffee blends with subtle sweetness for a warm, inviting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Brewed CoffeeMiddle Notes: Espresso, CocoaBase Notes: Warm Sugar, Cream Perfect for mornings, workspaces, or cozy afternoons, this candle creates an energizing yet comforting atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-25T01:15:10Z
+- [Coffee Shop Original Candle](https://affinatiliving.com/products/coffee-shop-original-candle): Create a warm, inviting atmosphere with our Coffee Shop Original Candle (10 oz). Freshly brewed espresso, creamy froth, and subtle cocoa undertones blend together in a clean-burning soy wax formula designed to bring cozy café comfort to your space.
+  Updated: 2026-03-03T23:28:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_40_51_PM.png?v=1766702474
   Price: $16.95 USD
 - [3-Wick Champagne Toast Candle](https://affinatiliving.com/products/3-wick-champagne-toast-candle): Celebrate any moment with the bubbly, fruity scent of Champagne Toast. This 3-wick candle blends sparkling citrus and berries for a bright, uplifting burn.
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_08_43_22_PM.png?v=1771638248
   Price: $19.95 USD
 - [3-Wick Pumpkin Spice Latte Candle](https://affinatiliving.com/products/3-wick-pumpkin-spice-latte-candle): Embrace fall with the warm aroma of pumpkin, cinnamon, and creamy espresso. This 3-wick Pumpkin Spice Latte candle delivers cozy café vibes at home.
-  Updated: 2026-02-25T01:15:11Z
+  Updated: 2026-03-03T23:28:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_37_22_PM.png?v=1771727885
   Price: $19.95 USD
 - [3-Wick Banana Creme Pie Candle](https://affinatiliving.com/products/3-wick-banana-creme-pie-candle): Treat your senses to the rich aroma of ripe banana, vanilla custard, and flaky crust. This 3-wick Banana Crème Pie candle is warm, sweet, and irresistible.
-  Updated: 2026-02-25T03:20:52Z
+  Updated: 2026-03-03T23:28:18Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_24_2026_at_10_19_05_AM.png?v=1771946372
   Price: $19.95 USD
 - [3-Wick S'mores Candle](https://affinatiliving.com/products/3-wick-smores-candle): Indulge in the cozy scent of toasted marshmallow, melted chocolate, and graham cracker. This 3-wick S’mores candle delivers sweet, campfire nostalgia.
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:20Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_08_59_52_AM.png?v=1771768810
   Price: $19.95 USD
 - [3-Wick Saffron Cedarwood Candle](https://affinatiliving.com/products/3-wick-saffron-cedarwood-candle): Warm and woody with a hint of spice, this 3-wick Saffron Cedarwood candle fills your space with a rich, calming aroma and a clean, long-lasting burn.
-  Updated: 2026-02-25T01:15:12Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_33_43_PM.png?v=1771727655
   Price: $19.95 USD
 - [3-Wick Fresh Peaches Candle](https://affinatiliving.com/products/3-wick-fresh-peaches-candle): Fill your space with the sweet, juicy aroma of ripe peaches. This 3-wick Fresh Peaches candle offers a long-lasting, clean burn and vibrant summer scent.
-  Updated: 2026-02-23T19:14:17Z
+  Updated: 2026-03-02T16:20:50Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1391,7 +1391,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_07_11_00_AM.png?v=1769083890
   Price: $18.95 USD
 - [3-Wick Cactus & Sea Salt Candle](https://affinatiliving.com/products/3-wick-cactus-sea-salt-candle): Refresh your home with the Cactus and Sea Salt 3-Wick Candle. A 17 oz soy candle with a clean, coastal fragrance of cactus greens, sea salt, and ocean air. Long-lasting burn and luxury design.
-  Updated: 2026-02-22T06:45:09Z
+  Updated: 2026-02-25T20:33:46Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1405,7 +1405,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_04_31_12_PM.png?v=1771623113
   Price: $19.95 USD
 - [3-Wick Strawberry Bliss Candle](https://affinatiliving.com/products/3-wick-strawberry-bliss-candle): Indulge in the sweet scent of ripe strawberries with the Strawberry Bliss 3-Wick Candle. Clean soy wax, 17 oz jar, and long-lasting fragrance.
-  Updated: 2026-02-21T10:00:47Z
+  Updated: 2026-03-03T19:52:52Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1440,7 +1440,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_23_2026_at_10_02_06_PM.png?v=1771902164
   Price: $19.95 USD
 - [3-Wick Cherry Noir Candle](https://affinatiliving.com/products/3-wick-cherry-noir-candle): Rich and alluring, the Cherry Noir 3-Wick Candle blends ripe black cherries, dark plum, and warm vanilla in a 17 oz soy wax blend for a clean, lasting burn.
-  Updated: 2026-02-21T08:25:10Z
+  Updated: 2026-03-03T03:09:37Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1454,7 +1454,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_54_09_AM.png?v=1771685686
   Price: $19.95 USD
 - [3-Wick Smoked Vanilla Candle](https://affinatiliving.com/products/3-wick-smoked-vanilla-candle): Indulge in the warm, smoky sweetness of our Smoked Vanilla 3-Wick Candle. A 17 oz soy blend with rich fragrance and a clean, even burn.
-  Updated: 2026-02-21T12:06:10Z
+  Updated: 2026-03-03T23:28:21Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1468,7 +1468,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_07_36_39_AM.png?v=1771763827
   Price: $19.95 USD
 - [3-Wick Lemon Drop Candle](https://affinatiliving.com/products/3-wick-lemon-drop-candle): Refresh your space with the Lemon Drop 3-Wick Candle. A 17 oz soy blend with zesty lemon and sugared sweetness for a clean, uplifting burn.
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-04T07:02:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1482,7 +1482,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_04_37_00_PM.png?v=1771623462
   Price: $19.95 USD
 - [3-Wick White Christmas Candle](https://affinatiliving.com/products/3-wick-white-christmas-candle): Create a cozy holiday atmosphere with the Affinati White Christmas 3-Wick Candle. Fresh pine, warm vanilla, and winter spice blend in a festive soy wax candle for a clean, even burn.
-  Updated: 2026-02-24T22:48:47Z
+  Updated: 2026-03-03T11:57:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1503,32 +1503,32 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_55_25_AM.png?v=1771685777
   Price: $19.95 USD
 - [3-Wick Eucalyptus Tea Candle](https://affinatiliving.com/products/3-wick-eucalyptus-tea-candle): Relax with the Eucalyptus Tea 3-Wick Candle. Fresh eucalyptus and soft green tea create a clean, spa-like aroma with a long-lasting, even burn.
-  Updated: 2026-02-23T01:12:19Z
+  Updated: 2026-03-03T15:15:43Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_12_26_39_PM.png?v=1771694833
   Price: $19.95 USD
 - [3-Wick Classic Cheesecake Candle](https://affinatiliving.com/products/3-wick-classic-cheesecake-candle): Indulge in the Classic Cheesecake 3-Wick Candle – a 17 oz soy wax blend with creamy vanilla, rich cheesecake, and golden crust notes. Clean burn, strong fragrance, and a dessert-inspired scent perfect for any room.
-  Updated: 2026-02-13T02:03:09Z
+  Updated: 2026-03-01T22:41:57Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7015.png?v=1760735230
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_09_31_49_AM.png?v=1772029975
   Price: $19.95 USD
 - [3-Wick Smoked Bourbon Candle](https://affinatiliving.com/products/3-wick-smoked-bourbon-candle): Experience the rich aroma of the Smoked Bourbon 3-Wick Candle – a 17 oz soy wax blend with smooth bourbon, toasted oak, and vanilla caramel. Clean burn, strong fragrance, and timeless luxury for any room.
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_06_36_30_PM.png?v=1771630621
   Price: $19.95 USD
 - [3-Wick Coconut Creme Pie Candle](https://affinatiliving.com/products/3-wick-coconut-creme-pie-candle): Indulge in the sweet aroma of the Affinati Coconut Crème Pie 3-Wick Candle. A decadent blend of creamy coconut, vanilla custard, and buttery crust in a clean-burning soy wax for long-lasting fragrance.
-  Updated: 2026-02-20T22:53:47Z
+  Updated: 2026-03-02T16:20:54Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3-Wick_Coconut_Creme_Pie_Candle.png?v=1771163053
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_07_04_06_PM.png?v=1772064289
   Price: $19.95 USD
 - [3-Wick Christmas Cookie Candle](https://affinatiliving.com/products/3-wick-christmas-cookie): Cozy up with the Christmas Cookie 3-Wick Candle – 17 oz. A sweet blend of buttery sugar cookies and creamy vanilla frosting in a long-lasting soy wax candle.
   Updated: 2026-02-21T03:59:12Z
@@ -1538,14 +1538,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_08_27_37_PM.png?v=1771637352
   Price: $19.95 USD
 - [3-Wick Baked Apple Pie Candle](https://affinatiliving.com/products/3-wick-baked-apple-pie-candle): Indulge in the warm, nostalgic aroma of the Affinati Baked Apple Pie 3-Wick Candle. Crisp apples, golden crust, and cinnamon spice create a cozy fragrance perfect for fall and holiday gatherings.
-  Updated: 2026-02-23T19:14:17Z
+  Updated: 2026-03-03T11:55:38Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_09_32_48_PM.png?v=1771727602
   Price: $19.95 USD
 - [3-Wick Black Cherry Merlot Candle](https://affinatiliving.com/products/3-wick-black-cherry-merlot-candle): Indulge in the Affinati Black Cherry Merlot 3-Wick Candle. Ripe cherries, dark berries, and smooth merlot create a bold, luxurious fragrance for your home.
-  Updated: 2026-02-21T04:21:03Z
+  Updated: 2026-03-03T16:29:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1576,7 +1576,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Twisted Peppermint Room Spray](https://affinatiliving.com/products/twisted-peppermint-room-spray): Refresh your home with Affinati’s Twisted Peppermint Room & Linen Spray. Cool peppermint, sweet vanilla & sugar create a long-lasting festive scent.
-  Updated: 2026-02-20T13:18:01Z
+  Updated: 2026-03-01T04:02:47Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -1600,7 +1600,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Tobacco Vanilla Room Spray](https://affinatiliving.com/products/tobacco-vanilla-room-spray): Elevate your space with Affinati’s Tobacco Vanilla Room & Linen Spray. Smoky tobacco and warm vanilla create a rich, long-lasting luxury scent.
-  Updated: 2026-02-20T20:45:37Z
+  Updated: 2026-02-25T23:24:37Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -1648,7 +1648,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Cinnamon Swirl Room Spray](https://affinatiliving.com/products/cinnamon-swirl-room-spray): Indulge your home with Affinati’s Cinnamon Swirl Room & Linen Spray. Spiced cinnamon, vanilla & sugar create a warm, long-lasting cozy scent.
-  Updated: 2026-02-20T15:07:57Z
+  Updated: 2026-03-03T01:11:55Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -1720,7 +1720,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Bouquet of Roses Room Spray](https://affinatiliving.com/products/bouquet-of-roses-room-spray): Refresh your home with Affinati’s Bouquet of Roses Room Spray. Fresh rose petals, greenery & musk create a romantic, long-lasting floral scent.
-  Updated: 2026-02-20T15:37:32Z
+  Updated: 2026-03-01T04:02:48Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -1768,7 +1768,7 @@
     Availability: Available
     Price: $44.95 USD
 - [White Christmas Room Spray](https://affinatiliving.com/products/white-christmas-room-spray): Refresh your space with the White Christmas Room & Linen Spray. A festive blend of pine, frosted berries, and vanilla that brings crisp holiday cheer to every room.
-  Updated: 2026-02-25T01:15:13Z
+  Updated: 2026-03-03T23:28:23Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -2149,7 +2149,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_01_28_52_PM.png?v=1769020171
   Price: $18.95 USD
 - [3-Wick Clean Cotton Candle](https://affinatiliving.com/products/3-wick-clean-cotton-candle): Breathe in freshness with Affinati’s Clean Cotton 3-Wick Candle. This 17 oz soy-wax candle fills your home with the crisp scent of freshly washed linens and soft white musk for a clean, uplifting atmosphere.
-  Updated: 2026-02-23T15:17:34Z
+  Updated: 2026-03-03T12:59:18Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2163,7 +2163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_26_2026_at_05_29_55_PM.png?v=1769466648
   Price: $18.95 USD
 - [Affinati Luxury Matches](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
-  Updated: 2026-02-22T23:35:48Z
+  Updated: 2026-03-02T01:01:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2177,14 +2177,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_8_2025_01_30_38_PM.png?v=1759944653
   Price: $4.95 USD
 - [Affinati Coconut Flakes Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-10-oz-coconut-flakes): Indulge in the creamy scent of Coconut Flakes. This shea butter lotion deeply hydrates and softens skin for all-day tropical smoothness.
-  Updated: 2026-02-20T23:02:09Z
+  Updated: 2026-03-03T16:36:58Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E1DEC73C-DA5A-4FDD-A24E-1804EA9D3416.png?v=1760036816
   Price: $16.95 USD
 - [Affinati Mint Eucalyptus Lotion – 10 OZ](https://affinatiliving.com/products/mint-eucalyptus-shea-butter-body-lotion-10-oz): Revitalize your skin with Mint Eucalyptus. This shea butter lotion hydrates, refreshes, and leaves a cool, spa-fresh scent that lasts all day.
-  Updated: 2026-01-15T15:43:09Z
+  Updated: 2026-03-03T16:34:50Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -2219,7 +2219,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/D63D58C4-D7DE-4B34-85CF-5BE90025147A.png?v=1760036817
   Price: $16.95 USD
 - [Affinati Vanilla Bean Lotion – 10 OZ](https://affinatiliving.com/products/vanilla-bean-shea-butter-body-lotion-10-oz): Experience the cozy scent of Vanilla Bean. This shea butter lotion deeply hydrates, softens, and leaves skin with a warm, lasting glow.
-  Updated: 2026-01-25T15:34:33Z
+  Updated: 2026-03-03T13:10:04Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -2233,7 +2233,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_20_2026_at_07_53_28_PM.png?v=1768956839
   Price: $16.95 USD
 - [Affinati Cinnamon Swirl Lotion – 10 OZ](https://affinatiliving.com/products/cinnamon-swirl-shea-butter-body-lotion-10-oz): Indulge in the cozy scent of Cinnamon Swirl. This shea butter lotion hydrates deeply and leaves skin soft, smooth, and warmly scented all day.
-  Updated: 2026-01-15T15:43:09Z
+  Updated: 2026-03-03T01:21:42Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -2254,7 +2254,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageJan18_2026at03_48_36AM.png?v=1768726188
   Price: $16.95 USD
 - [Affinati Cherry Noir Lotion – 10 OZ](https://affinatiliving.com/products/cherry-noir-shea-butter-body-lotion-10-oz): Dark cherry, plum, and soft woods create a bold, alluring fragrance. This hydrating 10 oz lotion leaves skin silky with a lasting scent.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:24Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -2268,7 +2268,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/C4129C50-6105-435E-A70E-83C57DB58B21.png?v=1760036817
   Price: $16.95 USD
 - [Affinati Saffron Cedarwood Lotion – 10 OZ](https://affinatiliving.com/products/saffron-cedarwood-shea-butter-body-lotion-10-oz): Rich saffron and warm cedarwood create a luxurious, exotic scent. This 10 oz lotion hydrates deeply and leaves skin smooth and refined.
-  Updated: 2026-02-25T01:15:14Z
+  Updated: 2026-03-03T23:28:24Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -2299,7 +2299,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Peppermint Swirl Room Spray](https://affinatiliving.com/products/peppermint-swirl-room-spray): Bring holiday freshness to any room with the Peppermint Swirl Room & Linen Spray — a festive blend of cool peppermint, creamy vanilla, and whipped sugar.
-  Updated: 2026-02-20T16:19:17Z
+  Updated: 2026-02-27T14:35:28Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -2351,7 +2351,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_07_06_41_PM.png?v=1769126873
   Price: $18.95 USD
 - [Pumpkin Cheesecake Signature Candle](https://affinatiliving.com/products/pumpkin-cheesecake-signature-candle): Delight your senses with our Pumpkin Cheesecake Candle — a creamy blend of spiced pumpkin, vanilla, and brown sugar in a 10 oz soy-wax jar. The perfect indulgent fall fragrance.
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2385,8 +2385,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/FCCFB89C-47F6-4228-AB19-07C8F8FAB2F3.png?v=1767056147
   Price: $16.95 USD
-- [Affinati Wick Trimmer – Premium Stainless Steel Candle Accessory](https://affinatiliving.com/products/affinati-wick-trimmer-premium-stainless-steel-candle-accessory-1): Maintain a perfect candle burn with the Affinati Wick Trimmer. Crafted from premium stainless steel, this precision wick cutter prevents soot and extends candle life — a luxury essential for every candle lover.
-  Updated: 2026-01-14T19:14:39Z
+- [Affinati Wick Trimmer](https://affinatiliving.com/products/affinati-wick-trimmer-premium-stainless-steel-candle-accessory-1): Maintain a perfect candle burn with the Affinati Wick Trimmer. Crafted from premium stainless steel, this precision wick cutter prevents soot and extends candle life — a luxury essential for every candle lover.
+  Updated: 2026-02-28T14:56:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2477,7 +2477,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B1EDAAD8-B13B-466B-96C0-8261F4B01E28.png?v=1760718945
   Price: $39.95 USD
 - [Clean Cotton Room Spray](https://affinatiliving.com/products/clean-cotton-room-spray): Refresh your home with Affinati’s Clean Cotton Room & Linen Spray—crisp linen, soft musk, and airy freshness for a clean, comforting scent.
-  Updated: 2026-02-21T04:15:33Z
+  Updated: 2026-02-27T14:35:09Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -2522,14 +2522,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_22_2026_at_07_16_06_AM.png?v=1769084205
   Price: $18.95 USD
 - [Apple Cinnamon Original Candle](https://affinatiliving.com/products/apple-cinnamon-original-candle): Fill your home with the cozy aroma of crisp apples and warm cinnamon. The Affinati Apple Cinnamon Original Candle (10 oz) delivers a rich, comforting scent and a clean, even burn—perfect for creating a festive, inviting atmosphere year-round.
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_11_00_38_AM.png?v=1767110470
   Price: $16.95 USD
 - [3-Wick Black Coffee Candle](https://affinatiliving.com/products/3-wick-black-coffee-candle): Indulge in the bold aroma of our Black Coffee 3-Wick Candle. Crafted with a premium soy wax blend, this 17 oz candle blends rich espresso, roasted beans, and creamy vanilla for a warm, invigorating scent that fills your home with pure sophistication.
-  Updated: 2026-02-21T11:17:28Z
+  Updated: 2026-03-03T16:27:44Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2549,8 +2549,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_20_2026_at_05_09_29_PM.png?v=1768946999
   Price: $18.95 USD
-- [Smoked Vanilla Original Candle](https://affinatiliving.com/products/smoked-vanilla-original-candle): Smoked Vanilla Original Candle – 10 oz Smoked Vanilla adds depth to classic vanilla with subtle smoky warmth. Smooth, rich, and cozy, this scent feels refined and comforting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Vanilla BeanMiddle Notes: Smoked SugarBase Notes: Soft Woods, Warm Musk Perfect for evenings and relaxed nights in, Smoked Vanilla creates a warm, inviting atmosphere with a touch of sophistication. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-01-31T12:55:13Z
+- [Smoked Vanilla Original Candle](https://affinatiliving.com/products/smoked-vanilla-original-candle): Create a rich, cozy atmosphere with our Smoked Vanilla Original Candle (10 oz). Creamy vanilla, soft amber warmth, and subtle smoky undertones blend together in a clean-burning soy wax formula designed to bring depth and refined comfort to your space.
+  Updated: 2026-02-26T20:41:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2570,8 +2570,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_11_02_08_AM.png?v=1769011368
   Price: $18.95 USD
-- [Birthday Cake Original Candle](https://affinatiliving.com/products/birthday-cake-original-candle): Birthday Cake Original Candle – 10 oz Birthday Cake is sweet, fluffy, and celebratory. Notes of vanilla cake and sugary frosting create a joyful scent that feels fun and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sugar, VanillaMiddle Notes: Yellow Cake BatterBase Notes: Buttercream Frosting Perfect for celebrations or everyday sweetness, this candle fills your space with cheerful, bakery-fresh comfort. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-01-31T12:55:13Z
+- [Birthday Cake Original Candle](https://affinatiliving.com/products/birthday-cake-original-candle): Create a warm, celebratory atmosphere with our Birthday Cake Original Candle (10 oz). Fluffy vanilla cake, creamy buttercream, and a touch of sweet sugar blend together in a clean-burning soy wax formula designed to fill your space with joyful, dessert-inspired comfort.
+  Updated: 2026-02-26T20:41:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2592,7 +2592,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_18_2026_at_05_06_59_PM.png?v=1771452459
   Price: $32.95 USD
 - [Midnight Oak Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/midnight-oak-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Elevate your space with the 10 oz Midnight Oak Wooden Wick Candle by Affinati. A soy-blend candle featuring aged oak, cedar, and amber with a crackling wooden wick — the perfect balance of warmth, depth, and modern luxury.
-  Updated: 2026-02-19T05:44:59Z
+  Updated: 2026-02-25T17:39:56Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2802,7 +2802,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_18_2026_at_11_19_03_AM.png?v=1771431619
   Price: $34.95 USD
 - [Lemon Creme Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/lemon-creme-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Zesty lemon, amber sugar, and vanilla crème in our 13 oz Lemon Crème Candle — a fresh, refined fragrance for elevated living.
-  Updated: 2026-02-19T05:37:26Z
+  Updated: 2026-03-01T22:41:57Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2837,7 +2837,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_18_2026_at_08_37_01_PM.png?v=1771465455
   Price: $22.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Warm, smooth, and sophisticated. The 13 oz Applewood Luxe Candle by Affinati blends applewood, pear, and amber in a soy-blend wax with a soothing crackling wooden wick.
-  Updated: 2026-02-25T01:15:15Z
+  Updated: 2026-03-03T23:28:26Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2914,7 +2914,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_17_2026_at_04_31_34_PM.png?v=1771364037
   Price: $22.95 USD
 - [Express Processing](https://affinatiliving.com/products/express-processing): Ships within 24-48 Business Hours
-  Updated: 2026-02-25T02:09:16Z
+  Updated: 2026-02-28T05:27:11Z
   Vendor: Affinati
   Product Type: Upcart - Shipping Protection
   Availability: Available
@@ -2928,21 +2928,21 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8580.png?v=1766784688
   Price: $16.95 USD
 - [3-Wick Hawaiian Hibiscus Candle](https://affinatiliving.com/products/3-wick-hawaiian-hibiscus-candle): Experience tropical bliss with the Hawaiian Hibiscus 3-Wick Candle from Affinati. Hand-poured with a premium soy wax blend, this vibrant floral candle fills your home with notes of hibiscus, coconut, and sun-kissed citrus for a clean, long-lasting burn.
-  Updated: 2026-02-23T15:16:04Z
+  Updated: 2026-03-04T07:02:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_10_14_20_PM.png?v=1771816491
   Price: $19.95 USD
 - [3-Wick Christmas Tree Candle](https://affinatiliving.com/products/3-wick-christmas-tree-candle): Fill your home with the fresh scent of evergreens and holiday cheer. The Affinati Christmas Tree 3-Wick Candle blends pine, fir balsam, and cedarwood for a long-lasting, clean-burning fragrance that captures the magic of Christmas.
-  Updated: 2026-02-24T22:48:46Z
+  Updated: 2026-03-03T11:48:04Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_12_22_44_PM.png?v=1771694660
   Price: $19.95 USD
 - [Cinnamon Swirl Reed Diffuser](https://affinatiliving.com/products/cinnamon-swirl-reed-diffuser): Warm and inviting, our Cinnamon Swirl Reed Diffuser blends spiced cinnamon and sweet vanilla for a cozy, comforting aroma that fills your space with lasting fragrance.
-  Updated: 2026-01-25T23:49:11Z
+  Updated: 2026-03-03T01:14:47Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -2998,25 +2998,25 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2F27E198-5A5A-4E0D-A5A5-30E3C1A11E8C.png?v=1767376367
   Price: $26.95 USD
 - [Almond Macaron Reed Diffuser](https://affinatiliving.com/products/almond-macaron-reed-diffuser): Indulge in the sweet, cozy aroma of our Almond Macaron Reed Diffuser. Featuring notes of almond, vanilla, and toasted sugar, this 7.0 fl oz diffuser fills your home with long-lasting, flame-free fragrance.
-  Updated: 2026-01-25T23:49:08Z
+  Updated: 2026-03-01T12:41:18Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1DD3A18C-A482-4672-ADAE-3984C0037F46.png?v=1767273446
   Price: $26.95 USD
 - [Cactus & Sea Salt Reed Diffuser](https://affinatiliving.com/products/cactus-sea-salt-reed-diffuser): Bring a breath of coastal freshness to your home with our Cactus & Sea Salt Reed Diffuser. This 7.0 fl oz diffuser blends ocean air, cactus blossom, and soft florals for a clean, relaxing scent that lasts for weeks.
-  Updated: 2026-01-25T23:49:08Z
+  Updated: 2026-03-01T12:40:54Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/71E9ED11-0264-4E26-B28F-94765A6D27A0.png?v=1767376216
   Price: $26.95 USD
 - [3-Wick Coconut Dream Candle](https://affinatiliving.com/products/3-wick-coconut-dream-candle): Immerse your home in tropical luxury with the Coconut Dream 3-Wick Candle. A creamy blend of coconut milk, vanilla, and soft musk creates a warm, relaxing island-inspired aroma that soothes and uplifts any space.
-  Updated: 2026-02-14T14:32:30Z
+  Updated: 2026-03-04T07:02:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageNov1_2025at06_36_45AM.png?v=1761993652
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_09_32_45_AM.png?v=1772030009
   Price: $19.95 USD
 - [Coconut Dream Signature Candle](https://affinatiliving.com/products/coconut-dream-signature-candle): Unwind with the Affinati Coconut Dream Signature Candle. A blend of creamy coconut milk, soft vanilla, and island blossom creates a soothing tropical escape with a clean, even burn.
   Updated: 2026-02-24T23:22:26Z
@@ -3047,21 +3047,21 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_03_13_36_PM.png?v=1771791248
   Price: $19.95 USD
 - [Blue Spruce Reed Diffuser](https://affinatiliving.com/products/blue-spruce-reed-diffuser): Experience the crisp, woodsy aroma of our Blue Spruce Reed Diffuser. Crafted with a non-toxic formula, it fills your home with refreshing pine and forest notes for weeks of flame-free, long-lasting fragrance.
-  Updated: 2026-01-25T23:49:08Z
+  Updated: 2026-03-01T12:40:30Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2FA438E8-A031-438C-9DCD-C21C03411E85.png?v=1767273698
   Price: $26.95 USD
 - [Apple Cinnamon Reed Diffuser](https://affinatiliving.com/products/apple-cinnamon-reed-diffuser): Fill your home with cozy warmth using the Affinati Apple Cinnamon Reed Diffuser. Crisp apple and warm cinnamon create a comforting, nostalgic fragrance that lasts for weeks—perfect for adding inviting seasonal charm to any space.
-  Updated: 2026-01-25T23:49:06Z
+  Updated: 2026-03-03T20:00:21Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/9B5F79F0-CE66-4010-B9FE-F35DC263BB4C.png?v=1767273665
   Price: $26.95 USD
 - [Black Cherry Reed Diffuser](https://affinatiliving.com/products/black-cherry-reed-diffuser): Indulge in the rich, fruity aroma of our Black Cherry Reed Diffuser. Crafted with a non-toxic formula, it fills your home with the sweet scent of ripe cherries and berries for weeks of warm, flame-free fragrance.
-  Updated: 2026-01-25T23:49:06Z
+  Updated: 2026-03-01T12:39:46Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -3096,49 +3096,49 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_21_2026_at_08_37_52_PM.png?v=1769045910
   Price: $18.95 USD
 - [Saffron Cedarwood Reed Diffuser](https://affinatiliving.com/products/saffron-cedarwood-reed-diffuser): Fill your home with the warm, elegant scent of saffron and cedarwood. A rich, earthy diffuser for cozy, refined spaces.
-  Updated: 2026-01-25T23:49:06Z
+  Updated: 2026-03-01T12:39:19Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3FE11F51-F567-4384-905D-7E8736479CAF.png?v=1767376134
   Price: $26.95 USD
 - [Hazelnut Coffee Reed Diffuser](https://affinatiliving.com/products/hazelnut-coffee-reed-diffuser): Awaken your space with the inviting aroma of roasted coffee and creamy hazelnut. A cozy, café-inspired diffuser for daily comfort.
-  Updated: 2026-01-25T23:49:06Z
+  Updated: 2026-03-01T12:38:52Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/BA9195CF-C724-46D5-9C9C-A223BF896D88.png?v=1767376084
   Price: $26.95 USD
 - [Pumpkin Spice Latte Reed Diffuser](https://affinatiliving.com/products/pumpkin-spice-latte-reed-diffuser): Cozy up with creamy pumpkin, espresso, and warm spice. A rich fall diffuser that captures the essence of your favorite latte.
-  Updated: 2026-01-25T23:49:05Z
+  Updated: 2026-03-01T12:38:30Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/A196DB21-B062-4449-BDE3-9B8C85ABFEBD.png?v=1767304936
   Price: $26.95 USD
 - [Fresh Cut Grass Reed Diffuser](https://affinatiliving.com/products/fresh-cut-grass-reed-diffuser): Bring the outdoors in with the crisp scent of freshly cut grass. A green, uplifting diffuser that feels clean and refreshing.
-  Updated: 2026-01-25T23:49:05Z
+  Updated: 2026-03-01T12:37:27Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E0DB22C7-C064-401A-9C00-A495D54E2429.png?v=1767304807
   Price: $26.95 USD
 - [Hawaiian Hibiscus Reed Diffuser](https://affinatiliving.com/products/hawaiian-hibiscus-reed-diffuser): Escape to paradise with tropical hibiscus and jasmine. A bright, floral diffuser that fills your space with island serenity.
-  Updated: 2026-01-25T23:49:05Z
+  Updated: 2026-03-01T12:36:56Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/74C28DEF-5928-4113-B2A9-412BDCD0CB15.png?v=1767273606
   Price: $26.95 USD
 - [Himalayan Bamboo Reed Diffuser](https://affinatiliving.com/products/himalayan-bamboo-reed-diffuser): Refresh your home with clean bamboo and soft musk. A soothing, spa-like diffuser that brings balance and natural tranquility.
-  Updated: 2026-01-25T23:49:05Z
+  Updated: 2026-03-01T12:36:06Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5AB8C976-EACA-47CD-B828-4A697D501318.png?v=1767304722
   Price: $26.95 USD
 - [Butterscotch & Bourbon Reed Diffuser](https://affinatiliving.com/products/butterscotch-bourbon-reed-diffuser): Indulge in sweet butterscotch and aged bourbon. A bold, luxurious diffuser that adds warmth and sophistication to any room.
-  Updated: 2026-01-25T23:49:04Z
+  Updated: 2026-03-01T12:35:43Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -3166,14 +3166,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8571.png?v=1766783740
   Price: $16.95 USD
 - [3-Wick Spiked Eggnog Candle](https://affinatiliving.com/products/3-wick-spiked-eggnog-candle): Cozy up with Affinati’s Spiked Egg Nog 3-Wick Candle—creamy vanilla, nutmeg, and spiced rum in a clean-burning soy wax blend that fills your home with festive, comforting holiday warmth.
-  Updated: 2026-02-14T14:32:29Z
+  Updated: 2026-02-26T04:26:06Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3-Wick_Spiked_Eggnog_Candle.png?v=1769435394
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_09_31_17_AM.png?v=1772031518
   Price: $19.95 USD
 - [3-Wick Butterscotch & Bourbon Candle](https://affinatiliving.com/products/3-wick-butterscotch-bourbon-candle): Indulge in the warm, decadent aroma of our Butterscotch & Bourbon 3-Wick Candle. Crafted from a premium soy wax blend, this rich blend of caramelized sugar, aged bourbon, and vanilla oak fills your home with cozy, luxurious warmth.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:26Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3208,28 +3208,28 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_46_27_PM.png?v=1767149463
   Price: $16.95 USD
 - [Mahogany Teakwood Reed Diffuser](https://affinatiliving.com/products/mahogany-teakwood-reed-diffuser): Elevate your space with Affinati’s Mahogany Teakwood Reed Diffuser. A luxurious blend of mahogany, teakwood, and cedar with hints of lavender and oak moss—crafted for long-lasting, flame-free fragrance and timeless sophistication.
-  Updated: 2026-01-25T23:49:04Z
+  Updated: 2026-03-01T12:35:16Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2375B0DC-84B3-4639-80E8-763BDD1A3663.png?v=1767273293
   Price: $26.95 USD
 - [Vanilla Bean Reed Diffuser](https://affinatiliving.com/products/vanilla-bean-reed-diffuser): Indulge in cozy elegance with Affinati’s Vanilla Bean Reed Diffuser. A creamy blend of vanilla bean, sweet cream, and caramelized sugar for a warm, long-lasting, flame-free fragrance experience.
-  Updated: 2026-01-25T23:49:04Z
+  Updated: 2026-03-01T12:34:55Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2A3C7299-90EC-4D91-9E69-5FBE008234EA.png?v=1767273172
   Price: $26.95 USD
 - [3-Wick Vanilla Sugar Candle](https://affinatiliving.com/products/3-wick-vanilla-sugar-candle): Savor the cozy sweetness of Affinati’s Vanilla Sugar 3-Wick Candle. A creamy blend of vanilla bean and warm sugar fills your home with rich, comforting fragrance and refined elegance.
-  Updated: 2026-02-14T14:32:27Z
+  Updated: 2026-02-26T19:52:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_9_2025_at_09_12_19_AM.png?v=1762697808
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_09_32_28_AM.png?v=1772031654
   Price: $19.95 USD
 - [Vanilla Sugar Signature Candle](https://affinatiliving.com/products/vanilla-sugar-signature-candle): Indulge in cozy elegance with Affinati’s Vanilla Sugar Signature Candle. A creamy blend of vanilla bean, amber, and whipped sugar hand-poured in soy wax for a warm, long-lasting, and refined fragrance experience.
-  Updated: 2026-02-24T23:21:18Z
+  Updated: 2026-02-28T05:27:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3264,7 +3264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7618.png?v=1763303776
   Price: $8.95 USD
 - [3-Wick Eucalyptus Pine Candle](https://affinatiliving.com/products/3-wick-eucalyptus-pine-candle): Refresh your home with cool eucalyptus and crisp pine. Our 17 oz Eucalyptus Pine 3-Wick Candle delivers strong, clean, long-lasting forest fragrance.
-  Updated: 2026-02-22T12:52:54Z
+  Updated: 2026-03-03T14:52:47Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3439,7 +3439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4AB28387-47CA-4A09-B37C-8238E04E538A.png?v=1763304499
   Price: $8.95 USD
 - [Eucalyptus Pine Reed Diffuser](https://affinatiliving.com/products/eucalyptus-pine-reed-diffuser): Refresh your home with the Eucalyptus & Pine Reed Diffuser. Crisp eucalyptus and fresh pine create a clean, spa-like scent with long-lasting, flame-free fragrance.
-  Updated: 2026-02-04T04:17:50Z
+  Updated: 2026-03-01T12:34:31Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -3480,15 +3480,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_20_2026_at_06_33_35_PM.png?v=1768952112
   Price: $18.95 USD
-- [Driftwood & Sea Salt Original Candle](https://affinatiliving.com/products/driftwood-sea-salt-original-candle): Driftwood & Sea Salt Original Candle – 10 oz Driftwood & Sea Salt captures the fresh, calming essence of the coast. Airy marine notes blend with smooth woods for a scent that feels clean and grounding. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sea Salt, Fresh AirMiddle Notes: DriftwoodBase Notes: Soft Musk, Coastal Woods Perfect for creating a relaxed, breezy atmosphere that feels light and refreshing. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2026-02-24T23:25:39Z
+- [Driftwood & Sea Salt Original Candle](https://affinatiliving.com/products/driftwood-sea-salt-original-candle): Create a calm, coastal atmosphere with our Driftwood & Sea Salt Original Candle (10 oz). Weathered driftwood, airy sea salt, and soft coastal breeze blend together in a clean-burning soy wax formula designed to bring relaxed, beach-inspired elegance to your space.
+  Updated: 2026-02-26T20:41:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8621.png?v=1766888842
   Price: $16.95 USD
 - [Driftwood & Sea Salt Room Spray](https://affinatiliving.com/products/driftwood-sea-salt-room-spray): Refresh any space with the clean, coastal scent of our Driftwood & Sea Salt Room & Linen Spray. This non-toxic 4 oz spray blends sea salt, driftwood, and soft coastal woods for a long-lasting, breezy fragrance that elevates linens, rooms, and everyday freshness.
-  Updated: 2026-02-20T01:07:33Z
+  Updated: 2026-02-27T14:34:53Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -3512,14 +3512,14 @@
     Availability: Available
     Price: $44.95 USD
 - [3-Wick Rustic Sandalwood Candle](https://affinatiliving.com/products/3-wick-rustic-sandalwood-candle): Experience warm, earthy elegance with our Rustic Sandalwood 3-Wick Candle. Hand-poured with a soy wax blend, this 17 oz candle fills your space with rich sandalwood, amber, and cedarwood for a cozy, calming atmosphere.
-  Updated: 2026-02-21T04:44:15Z
+  Updated: 2026-03-03T19:28:19Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_09_13_38_AM.png?v=1771596872
   Price: $19.95 USD
 - [Rustic Sandalwood Signature Candle](https://affinatiliving.com/products/rustic-sandalwood-signature-candle): Cozy and refined, the Rustic Sandalwood Signature Candle blends warm sandalwood, amber, and cedarwood in a clean-burning 10 oz soy wax candle. Perfect for adding inviting, wood-toned comfort to any room.
-  Updated: 2026-02-20T19:59:51Z
+  Updated: 2026-02-28T03:14:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3533,7 +3533,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8720.png?v=1767064491
   Price: $16.95 USD
 - [Lavender Vanilla Room Spray](https://affinatiliving.com/products/lavender-vanilla-room-spray): Refresh your home with the calming scent of Lavender Vanilla. This non-toxic 4 oz room & linen spray blends soothing lavender and creamy vanilla for a soft, long-lasting aroma perfect for linens, upholstery, and everyday freshness.
-  Updated: 2026-02-20T01:06:58Z
+  Updated: 2026-02-27T14:34:33Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -3557,21 +3557,21 @@
     Availability: Available
     Price: $44.95 USD
 - [Lavender Vanilla Reed Diffuser](https://affinatiliving.com/products/lavender-vanilla-reed-diffuser): Create a calming, spa-like atmosphere with our Lavender Vanilla Reed Diffuser. This 7.0 fl oz non-toxic diffuser blends soothing lavender and creamy vanilla for a soft, long-lasting fragrance that brings comfort and tranquility to any room.
-  Updated: 2026-01-31T12:57:05Z
+  Updated: 2026-03-01T12:33:52Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-9453.png?v=1769388953
   Price: $26.95 USD
 - [3-Wick Lavender Vanilla Candle](https://affinatiliving.com/products/3-wick-lavender-vanilla-candle): Relax your home with the soothing scent of lavender and creamy vanilla. This 17 oz 3-wick soy-blend candle delivers a strong, long-lasting aroma that fills any room with calming, spa-like comfort. Perfect for creating a peaceful, inviting atmosphere.
-  Updated: 2026-02-23T01:12:18Z
+  Updated: 2026-03-03T14:48:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_09_16_13_PM.png?v=1771640237
   Price: $19.95 USD
 - [Lavender Vanilla Signature Candle](https://affinatiliving.com/products/lavender-vanilla-signature-candle): Relax your home with the calming blend of fresh lavender and creamy vanilla. This 10 oz soy-blend signature candle offers a strong, long-lasting scent and a clean, even burn—perfect for creating a peaceful, cozy atmosphere in any room.
-  Updated: 2026-02-20T13:51:37Z
+  Updated: 2026-03-03T23:39:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3599,14 +3599,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E333B90E-1767-49AF-A112-3552D3A07FE7.png?v=1767056086
   Price: $16.95 USD
 - [Affinati Lavender Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz): Soft lavender and warm vanilla create a soothing, calming scent. This hydrating 10 oz lotion leaves skin smooth, comforted, and fragrant.
-  Updated: 2026-01-25T15:35:20Z
+  Updated: 2026-03-03T13:10:48Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_18_2026_at_03_46_55_AM.png?v=1768726155
   Price: $16.95 USD
 - [Rosemary Mint Original Candle](https://affinatiliving.com/products/rosemary-mint-original-candle): Refresh any room with our Rosemary Mint 10 oz Candle—an invigorating blend of cool mint and herbal rosemary, hand-poured for a clean, long-lasting burn.
-  Updated: 2026-02-24T23:25:38Z
+  Updated: 2026-03-04T07:10:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3620,7 +3620,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_21_2026_at_02_28_01_PM.png?v=1771702110
   Price: $19.95 USD
 - [Rosemary Mint Room Spray](https://affinatiliving.com/products/rosemary-mint-room-spray): Refresh any space with our Rosemary Mint Room & Linen Spray—an invigorating blend of cool mint and fresh rosemary that leaves a clean, long-lasting herbal scent.
-  Updated: 2026-02-20T20:59:20Z
+  Updated: 2026-02-27T14:34:15Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -3644,14 +3644,14 @@
     Availability: Available
     Price: $44.95 USD
 - [Rosemary Mint Reed Diffuser](https://affinatiliving.com/products/rosemary-mint-reed-diffuser): Refresh any room with our Rosemary Mint Reed Diffuser—an invigorating blend of cool mint and fresh rosemary for a clean, long-lasting, spa-like scent.
-  Updated: 2026-01-25T23:49:02Z
+  Updated: 2026-03-01T12:33:27Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/40DD4F3D-C258-4120-9634-F51E2603404B.png?v=1767293118
   Price: $26.95 USD
 - [Midnight Ember Reed Diffuser](https://affinatiliving.com/products/midnight-ember-reed-diffuser): Warm your space with our Midnight Ember Reed Diffuser—an inviting blend of amber, smoky woods, and vanilla embers for a long-lasting, luxurious atmosphere.
-  Updated: 2026-01-25T23:49:02Z
+  Updated: 2026-03-01T12:10:12Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -3686,7 +3686,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/EAEEF0F6-2A9A-4D7D-8A83-C9BEE8F2E6E0.png?v=1767194910
   Price: $16.95 USD
 - [Blackberry Sage Room Spray](https://affinatiliving.com/products/blackberry-sage-room-spray): Brighten any room with our Blackberry Sage Room & Linen Spray—juicy berries and fresh sage create a crisp, uplifting scent with a clean, long-lasting finish.
-  Updated: 2026-02-20T01:06:24Z
+  Updated: 2026-02-27T14:33:57Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -3710,7 +3710,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Blackberry Sage Reed Diffuser](https://affinatiliving.com/products/blackberry-sage-reed-diffuser): Refresh your home with our Blackberry Sage Reed Diffuser—juicy berries and fresh sage create a vibrant, uplifting scent with long-lasting, flame-free fragrance.
-  Updated: 2026-01-25T23:49:00Z
+  Updated: 2026-03-01T12:32:55Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -3731,7 +3731,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_23_2025_at_10_21_57_PM.png?v=1763955010
   Price: $16.95 USD
 - [Blackberry Absinthe Room Spray](https://affinatiliving.com/products/blackberry-absinthe-room-spray): Elevate your space with Affinati’s Blackberry Absinthe Room & Linen Spray—dark berries, warm absinthe, and woods for a rich, long-lasting, luxurious aroma.
-  Updated: 2026-02-20T01:06:12Z
+  Updated: 2026-02-27T14:33:33Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -3755,7 +3755,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Blackberry Absinthe Reed Diffuser](https://affinatiliving.com/products/blackberry-absinthe-reed-diffuser): A deep, luxurious home fragrance. Our Blackberry Absinthe Reed Diffuser blends dark berries and aromatic absinthe for a smooth, long-lasting, flame-free scent.
-  Updated: 2026-01-25T23:49:00Z
+  Updated: 2026-03-01T12:32:27Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -3811,7 +3811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/37090599-6F61-4E42-A48F-8FFCCCE41FBB.png?v=1767922713
   Price: $29.95 USD
 - [Cinnamon Swirl Whipped Soap - 20 oz](https://affinatiliving.com/products/cinnamon-swirl-whipped-soap): Cinnamon Swirl whipped soap in a large 20 oz jar. Warm, cozy, bakery-sweet fragrance with a rich whipped feel.
-  Updated: 2026-02-08T01:35:00Z
+  Updated: 2026-03-03T01:19:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3874,11 +3874,11 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Coconut_Dream_Whipped_Soap.png?v=1770217735
   Price: $29.95 USD
 - [3-Wick Ivory Woods Candle](https://affinatiliving.com/products/3-wick-ivory-woods-candle): A clean, calming scent. Our Ivory Woods 3-Wick Candle blends sandalwood, cedar, and vanilla musk for a soft, elegant, long-lasting home fragrance.
-  Updated: 2026-02-24T22:48:42Z
+  Updated: 2026-02-27T19:04:21Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E57B8AEB-9B7E-442D-BE82-91B4B671E450.png?v=1764258760
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_26_2026_at_11_09_43_AM.png?v=1772122504
   Price: $19.95 USD
 - [Ivory Woods Signature Candle](https://affinatiliving.com/products/ivory-woods-signature-candle): A warm, elegant fragrance. Ivory Woods blends cashmere woods, amber, and ivory musk for a soft, woodsy scent in a clean-burning 10 oz Signature Candle.
   Updated: 2026-02-24T23:21:14Z
@@ -3888,14 +3888,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_26_2026_at_03_30_46_PM.png?v=1769459501
   Price: $18.95 USD
 - [Ivory Woods Original Candle](https://affinatiliving.com/products/ivory-woods-original-candle): A warm, calming scent. Our Ivory Woods Candle blends sandalwood, amber, cedarwood, and vanilla for a smooth, refined fragrance in a classic 10 oz tumbler.
-  Updated: 2026-02-25T01:15:16Z
+  Updated: 2026-03-03T23:28:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_54_35_PM.png?v=1766703298
   Price: $16.95 USD
 - [Ivory Woods Room Spray](https://affinatiliving.com/products/ivory-woods-room-spray): Refresh any space with our Ivory Woods Room & Linen Spray. A clean, woody blend that adds soft elegance and long-lasting freshness to your home in seconds.
-  Updated: 2026-02-25T02:09:17Z
+  Updated: 2026-02-27T14:33:14Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -3919,14 +3919,14 @@
     Availability: Available
     Price: $44.95 USD
 - [Ivory Woods Reed Diffuser](https://affinatiliving.com/products/ivory-woods-reed-diffuser): Elevate your home with our Ivory Woods Reed Diffuser. Warm sandalwood, cashmere woods, vanilla, and amber create a soft, elegant, long-lasting woody fragrance.
-  Updated: 2026-02-12T11:37:18Z
+  Updated: 2026-03-01T12:31:18Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4A7C39A5-3BBF-4C10-96AC-FD49FFE774E9.png?v=1767293376
   Price: $26.95 USD
 - [Arctic Cedarwood Room Spray](https://affinatiliving.com/products/arctic-cedarwood-room-spray): Refresh any space with Arctic Cedarwood. A crisp blend of cool cedar, frosted woods, and clean musk creates a long-lasting, modern, and invigorating home fragrance.
-  Updated: 2026-02-20T19:03:53Z
+  Updated: 2026-02-27T14:32:58Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -3964,7 +3964,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_25_2025_at_05_56_36_PM.png?v=1766703423
   Price: $16.95 USD
 - [Arctic Cedarwood Reed Diffuser](https://affinatiliving.com/products/arctic-cedarwood-reed-diffuser): Refresh your home with Arctic Cedarwood. Cool cedar, frosted pine, and soft amber create a clean, invigorating, long-lasting fragrance in this 7.0 fl oz diffuser.
-  Updated: 2026-01-25T23:49:00Z
+  Updated: 2026-03-01T12:30:36Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -4069,7 +4069,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_24_2026_at_10_17_10_AM.png?v=1771946257
   Price: $19.95 USD
 - [Vanilla Chai Original Candle](https://affinatiliving.com/products/vanilla-chai-original-candle): Warm your home with creamy vanilla and chai spice. Our 10 oz Vanilla Chai Candle delivers rich, comforting fragrance with a long, clean burn.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4083,14 +4083,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_26_2026_at_03_35_35_PM.png?v=1769459771
   Price: $18.95 USD
 - [3-Wick Whiskey Reserve Candle](https://affinatiliving.com/products/3-wick-whiskey-reserve-candle): Whiskey Reserve 3-Wick Candle – 17 oz. A rich blend of warm whiskey, toasted oak, amber, and vanilla. Strongly scented, clean-burning soy wax candle for a luxurious, masculine home fragrance experience.
-  Updated: 2026-02-21T05:37:58Z
+  Updated: 2026-02-25T13:37:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_09_59_43_AM.png?v=1771599697
   Price: $19.95 USD
 - [Whiskey Reserve Signature Candle](https://affinatiliving.com/products/whiskey-reserve-signature-candle): Whiskey Reserve Signature Candle – 10 oz. A warm blend of whiskey, toasted oak, amber, and vanilla. Strongly scented soy wax candle that adds rich, masculine, luxurious warmth to any room.
-  Updated: 2026-02-24T23:21:14Z
+  Updated: 2026-02-28T03:14:07Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4104,7 +4104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_26_2025_at_03_46_22_PM.png?v=1766782172
   Price: $16.95 USD
 - [Whiskey Reserve Room Spray](https://affinatiliving.com/products/whiskey-reserve-room-spray): Warm, rich, and refined. Whiskey Reserve room & linen spray brings notes of aged whiskey and toasted oak for a luxurious, long-lasting home fragrance.
-  Updated: 2026-02-20T19:13:11Z
+  Updated: 2026-02-27T14:32:40Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -4128,7 +4128,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Vanilla Chai Room Spray](https://affinatiliving.com/products/vanilla-chai-room-spray): Cozy and comforting. Vanilla Chai room & linen spray blends creamy vanilla and warm chai spices for a sweet, soothing, long-lasting home fragrance.
-  Updated: 2026-02-20T18:04:11Z
+  Updated: 2026-02-27T14:32:23Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -4152,14 +4152,14 @@
     Availability: Available
     Price: $44.95 USD
 - [Vanilla Chai Reed Diffuser](https://affinatiliving.com/products/vanilla-chai-reed-diffuser): Warm and cozy Vanilla Chai reed diffuser with vanilla bean and chai spices. Long-lasting, non-toxic home fragrance that creates a soothing, aromatic retreat.
-  Updated: 2026-01-25T23:48:58Z
+  Updated: 2026-03-01T12:29:53Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/04F00F27-AED3-429B-A427-6FA02C0022FE.png?v=1767293072
   Price: $26.95 USD
 - [Whiskey Reserve Reed Diffuser](https://affinatiliving.com/products/whiskey-reserve-reed-diffuser): Luxurious Whiskey Reserve reed diffuser with aged whiskey, oak, and vanilla. A non-toxic, long-lasting home fragrance that adds warm, refined sophistication.
-  Updated: 2026-01-25T23:48:58Z
+  Updated: 2026-03-01T12:28:49Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -4187,7 +4187,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8517.png?v=1766698651
   Price: $16.95 USD
 - [Toasted Coconut Room Spray](https://affinatiliving.com/products/toasted-coconut-room-spray): Warm, sweet, and beachy. Toasted Coconut room & linen spray blends creamy coconut milk and toasted coconut flakes for a long-lasting, comforting home fragrance.
-  Updated: 2026-02-25T01:15:17Z
+  Updated: 2026-03-03T23:28:28Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -4211,7 +4211,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Toasted Coconut Reed Diffuser](https://affinatiliving.com/products/toasted-coconut-reed-diffuser): Experience warm, cozy luxury with the Affinati Toasted Coconut Reed Diffuser. A non-toxic 7.0 fl oz blend of toasted coconut, vanilla, and soft woods for long-lasting, flame-free home fragrance.
-  Updated: 2026-01-25T23:48:58Z
+  Updated: 2026-03-01T12:28:22Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -4260,7 +4260,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_26_2025_at_03_37_34_PM.png?v=1766781482
   Price: $16.95 USD
 - [Eucalyptus Tea Original Candle](https://affinatiliving.com/products/eucalyptus-tea-original-candle): Refresh your space with our Eucalyptus Tea 10 oz Original Candle—clean eucalyptus, soft white tea, and gentle herbal notes for a calming, spa-like ambiance.
-  Updated: 2026-02-24T23:25:35Z
+  Updated: 2026-03-01T23:39:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4484,7 +4484,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_27_2026_at_08_12_06_PM.png?v=1769562764
   Price: $6.95 USD
 - [French Vanilla Mini Candle](https://affinatiliving.com/products/french-vanilla-mini-candle): Mini French Vanilla Candle | 3 oz. Creamy French vanilla with sweet musk. Strongly scented and long-lasting.
-  Updated: 2026-01-31T12:55:13Z
+  Updated: 2026-03-03T09:42:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4592,7 +4592,7 @@
     Availability: Available
     Price: $34.95 USD
 - [Cinnamon Swirl Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/cinnamon-swirl-body-scrub-20-oz-whipped-salt-scrub): Warm and exfoliate with Cinnamon Swirl body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for soft, polished skin.
-  Updated: 2026-02-12T12:50:08Z
+  Updated: 2026-03-03T01:16:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4637,7 +4637,7 @@
     Availability: Available
     Price: $34.95 USD
 - [Lavender Vanilla Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/lavender-vanilla-body-scrub-20-oz-whipped-salt-scrub): Relax with Lavender Vanilla body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and calming everyday exfoliation.
-  Updated: 2026-02-12T12:23:21Z
+  Updated: 2026-03-03T16:51:35Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4877,7 +4877,7 @@
     Availability: Available
     Price: $34.95 USD
 - [French Vanilla Body Scrub 20 oz | Whipped Salt Scrub](https://affinatiliving.com/products/french-vanilla-body-scrub-20-oz-whipped-salt-scrub): Rich and creamy French Vanilla body scrub with whipped texture and exfoliating salts. Gently polishes skin while leaving a warm, comforting scent.
-  Updated: 2026-02-12T07:38:53Z
+  Updated: 2026-03-03T00:26:05Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4979,14 +4979,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_46_43_PM.png?v=1767149273
   Price: $16.95 USD
 - [3-Wick Egyptian Musk Candle](https://affinatiliving.com/products/3-wick-egyptian-musk-candle): Experience timeless luxury with our Egyptian Musk 3-Wick Candle (17 oz). Soft florals, warm musk, and smooth woods in a clean-burning soy wax blend.
-  Updated: 2026-02-22T16:40:47Z
+  Updated: 2026-03-03T19:27:54Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_06_14_32_PM.png?v=1771629307
   Price: $19.95 USD
 - [3-Wick Creamy Buttercream Candle](https://affinatiliving.com/products/3-wick-creamy-buttercream-candle): Indulge in sweet comfort with our Creamy Buttercream 3-Wick Candle (17 oz), featuring whipped vanilla frosting, warm sugar, and rich buttery notes for a cozy, bakery-inspired scent.
-  Updated: 2026-02-23T07:02:45Z
+  Updated: 2026-03-04T07:02:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5119,7 +5119,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_04_31_44_PM.png?v=1771623146
   Price: $19.95 USD
 - [Cinnamon Swirl Signature Candle](https://affinatiliving.com/products/cinnamon-swirl-signature-candle): Shop the Affinati Cinnamon Swirl Signature Candle – 10 oz. A warm cinnamon and vanilla gourmand scent with a clean burn and long-lasting fragrance.
-  Updated: 2026-02-24T23:21:08Z
+  Updated: 2026-03-03T13:07:24Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5154,42 +5154,42 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_22_2026_at_08_57_45_AM_242b5ad1-3cc5-4b49-b48c-4a09df096877.png?v=1771791610
   Price: $19.95 USD
 - [White Tea Reed Diffuser](https://affinatiliving.com/products/white-tea-reed-diffuser): Shop the White Tea Reed Diffuser (7.0 fl oz). A clean, elegant fragrance with soft citrus notes and long-lasting, flame-free scent for any space.
-  Updated: 2026-01-25T23:48:58Z
+  Updated: 2026-03-01T12:21:27Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/EB2AF146-38FB-4F79-8D33-828B9A613FEE.png?v=1768407599
   Price: $26.95 USD
 - [Citrus Basil Reed Diffuser](https://affinatiliving.com/products/citrus-basil-reed-diffuser): Shop the Citrus Basil Reed Diffuser (7.0 fl oz). A fresh blend of bright citrus and herbal basil with long-lasting, flame-free fragrance.
-  Updated: 2026-02-22T22:29:47Z
+  Updated: 2026-03-01T12:27:42Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/BE97B262-0BCF-4CE6-A2FA-DA1E3E580805.png?v=1768407918
   Price: $26.95 USD
 - [Eucalyptus Tea Reed Diffuser](https://affinatiliving.com/products/eucalyptus-tea-reed-diffuser): Shop the Eucalyptus Tea Reed Diffuser (7.0 fl oz). A clean blend of eucalyptus and soft tea notes with long-lasting, flame-free fragrance.
-  Updated: 2026-02-13T02:18:39Z
+  Updated: 2026-03-01T12:27:13Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/07078F41-BC6E-4DCC-A4B0-6A674288A25E.png?v=1768408222
   Price: $26.95 USD
 - [Egyptian Musk Reed Diffuser](https://affinatiliving.com/products/egyptian-musk-reed-diffuser): Shop the Egyptian Musk Reed Diffuser (7.0 fl oz). A smooth, clean musk fragrance with long-lasting, flame-free scent for any room.
-  Updated: 2026-01-25T23:48:56Z
+  Updated: 2026-03-01T12:26:07Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/EF85D4DC-B7BE-4847-9172-B30C9120D8FA.png?v=1768408502
   Price: $26.95 USD
 - [Matcha Latte Reed Diffuser](https://affinatiliving.com/products/matcha-latte-reed-diffuser): Shop the Matcha Latte Reed Diffuser (7.0 fl oz). A smooth blend of earthy matcha and creamy notes with long-lasting, flame-free fragrance.
-  Updated: 2026-01-25T23:48:57Z
+  Updated: 2026-03-01T12:25:31Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/DF423D3C-F1CD-46AA-AE77-41AF53A86345.png?v=1768408725
   Price: $26.95 USD
 - [Citrus Basil Room Spray](https://affinatiliving.com/products/citrus-basil-room-spray): Freshen your home with Citrus Basil Room & Linen Spray. A non-toxic, fast-drying spray with crisp basil and bright citrus notes for rooms and fabrics.
-  Updated: 2026-02-20T01:04:30Z
+  Updated: 2026-02-27T14:31:40Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -5213,7 +5213,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Egyptian Musk Room Spray](https://affinatiliving.com/products/egyptian-musk-room-spray): Egyptian Musk Room & Linen Spray offers a soft, sensual scent with warm musk notes. Non-toxic, fast-drying, and safe for rooms and fabrics.
-  Updated: 2026-02-20T01:04:17Z
+  Updated: 2026-02-27T14:31:20Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -5261,7 +5261,7 @@
     Availability: Available
     Price: $44.95 USD
 - [3-Wick Cucumber Melon Candle](https://affinatiliving.com/products/3-wick-cucumber-melon-candle): Fresh and uplifting, our Cucumber Melon 3-Wick Candle blends crisp cucumber and juicy melon with a clean soy wax burn and strong scent throw.
-  Updated: 2026-02-22T07:06:47Z
+  Updated: 2026-02-25T13:37:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5275,7 +5275,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_16_2026_at_07_36_26_AM.png?v=1768567105
   Price: $16.95 USD
 - [Cucumber Melon Room Spray](https://affinatiliving.com/products/cucumber-melon-room-spray): Fresh and invigorating, our Cucumber Melon Room & Linen Spray blends crisp cucumber and juicy melon in a non-toxic, fast-drying formula for rooms and fabrics.
-  Updated: 2026-02-20T01:03:43Z
+  Updated: 2026-02-27T14:31:00Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -5299,7 +5299,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Cucumber Melon Reed Diffuser](https://affinatiliving.com/products/cucumber-melon-reed-diffuser): Clean and refreshing, our Cucumber Melon Reed Diffuser features a non-toxic formula with long-lasting, flame-free scent using crisp cucumber and juicy melon notes.
-  Updated: 2026-01-25T23:48:54Z
+  Updated: 2026-03-01T12:25:01Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5344,18 +5344,18 @@
     Availability: Available
     Price: $44.95 USD
 - [Citrus Pine Reed Diffuser](https://affinatiliving.com/products/citrus-pine-reed-diffuser): Fresh and energizing, our Citrus Pine Reed Diffuser features a non-toxic formula with long-lasting, flame-free scent using bright citrus and pine notes.
-  Updated: 2026-01-25T23:48:54Z
+  Updated: 2026-03-01T12:24:26Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-9323.png?v=1768573952
   Price: $26.95 USD
 - [3-Wick Floral Breeze Candle](https://affinatiliving.com/products/3-wick-floral-breeze-candle): Light and refreshing, our Floral Breeze 3-Wick Candle blends soft florals and clean musk with a smooth soy wax burn and strong scent throw.
-  Updated: 2026-02-14T14:32:16Z
+  Updated: 2026-02-26T05:48:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_16_2026_at_09_48_45_AM.png?v=1768574946
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_09_30_50_AM.png?v=1772029919
   Price: $19.95 USD
 - [Floral Breeze Signature Candle](https://affinatiliving.com/products/floral-breeze-signature-candle): Light and elegant, our Floral Breeze Signature Candle features soft florals and clean musk with a smooth soy wax burn and long-lasting scent throw.
   Updated: 2026-02-24T23:21:07Z
@@ -5365,7 +5365,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_26_2026_at_11_09_54_AM.png?v=1769443826
   Price: $18.95 USD
 - [Clean Cotton Reed Diffuser](https://affinatiliving.com/products/clean-cotton-reed-diffuser): Fresh and comforting, our Clean Cotton Reed Diffuser delivers a soft linen-inspired scent with airy musk in a non-toxic, long-lasting, flame-free design.
-  Updated: 2026-02-22T22:29:47Z
+  Updated: 2026-03-01T12:23:41Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5386,7 +5386,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_24_2026_at_06_28_06_AM.png?v=1769254126
   Price: $18.95 USD
 - [Lemon Drop Signature Candle](https://affinatiliving.com/products/lemon-drop-signature-candle): Brighten your home with the Affinati Lemon Drop Signature Candle. Fresh lemon zest, light sugar, and vanilla in a clean-burning 10 oz soy wax candle.
-  Updated: 2026-02-23T11:08:07Z
+  Updated: 2026-03-03T23:25:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5400,7 +5400,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_24_2026_at_06_40_51_AM.png?v=1769254897
   Price: $18.95 USD
 - [3-Wick Japanese Cherry Blossom Candle](https://affinatiliving.com/products/3-wick-japanese-cherry-blossom-candle): Shop the Japanese Cherry Blossom 3-Wick Candle (17 oz) by Affinati. A clean-burning soy wax candle with soft florals, subtle fruit, and a smooth musk base for elegant, room-filling fragrance.
-  Updated: 2026-02-21T03:53:54Z
+  Updated: 2026-02-26T00:08:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5414,7 +5414,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_25_2026_at_09_49_05_AM.png?v=1769352780
   Price: $18.95 USD
 - [Japanese Cherry Blossom Room Spray](https://affinatiliving.com/products/japanese-cherry-blossom-room-spray): Refresh your space with our Japanese Cherry Blossom Room & Linen Spray. A non-toxic, long-lasting floral scent perfect for linens, rooms, and everyday luxury.
-  Updated: 2026-02-20T01:03:20Z
+  Updated: 2026-02-27T14:30:43Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -5445,7 +5445,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_25_2026_at_09_59_00_AM.png?v=1769353162
   Price: $16.95 USD
 - [Japanese Cherry Blossom Reed Diffuser](https://affinatiliving.com/products/japanese-cherry-blossom-reed-diffuser): Enjoy a soft, elegant floral aroma with our Japanese Cherry Blossom reed diffuser. A non-toxic, flame-free diffuser with long-lasting, calming scent.
-  Updated: 2026-01-26T03:17:22Z
+  Updated: 2026-03-01T12:22:47Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5466,11 +5466,11 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_04_21_02_PM.png?v=1771622502
   Price: $19.95 USD
 - [3-Wick White Strawberry Candle](https://affinatiliving.com/products/3-wick-white-strawberry-candle): Indulge in White Strawberry, a 17 oz 3-wick soy candle with fresh strawberry, soft florals, and vanilla musk. Strong scent throw with up to 70 hours of burn time.
-  Updated: 2026-02-19T04:41:59Z
+  Updated: 2026-02-26T06:46:43Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_29_2026_at_04_15_19_PM.png?v=1769721349
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_10_48_26_AM.png?v=1772034552
   Price: $19.95 USD
 - [3-Wick Oak Barrel Night Candle](https://affinatiliving.com/products/3-wick-oak-barrel-night-candle): Experience Oak Barrel Night, a 17 oz 3-wick soy candle with aged oak, warm musk, and ambered woods. Strong scent throw with up to 70 hours of burn time.
   Updated: 2026-02-23T19:41:36Z
@@ -5480,14 +5480,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_06_35_56_PM.png?v=1771630587
   Price: $19.95 USD
 - [3-Wick Pink Citrus Burst Candle](https://affinatiliving.com/products/3-wick-pink-citrus-burst-candle): Brighten your home with Pink Citrus Burst, a 3-wick candle blending pink grapefruit, blood orange, and soft florals in a clean-burning soy wax blend.
-  Updated: 2026-02-24T22:48:47Z
+  Updated: 2026-03-04T07:02:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_20_2026_at_10_53_59_AM.png?v=1771602862
   Price: $19.95 USD
 - [3-Wick Snowfall Pine & Vanilla Candle](https://affinatiliving.com/products/3-wick-snowfall-pine-vanilla-candle): Experience Snowfall Pine & Vanilla, a luxurious 3-wick candle blending fresh pine, balsam woods, and creamy vanilla in a clean-burning soy wax blend.
-  Updated: 2026-02-22T07:21:56Z
+  Updated: 2026-03-03T15:44:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5501,7 +5501,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_29_2026_at_04_52_12_PM.png?v=1769723630
   Price: $18.95 USD
 - [3-Wick Bourbon Vanilla Candle](https://affinatiliving.com/products/3-wick-bourbon-vanilla-candle): Experience Bourbon Vanilla, a luxurious 3-wick candle blending aged bourbon, warm vanilla, and smooth woods in a clean-burning soy wax blend.
-  Updated: 2026-02-21T02:19:35Z
+  Updated: 2026-03-03T15:44:27Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5542,8 +5542,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_30_2026_at_10_34_40_AM.png?v=1769787325
   Price: $16.95 USD
-- [Saltwater Mist Original Candle](https://affinatiliving.com/products/saltwater-mist-original-candle): Saltwater Mist Original Candle – 10 oz Saltwater Mist captures the clean, refreshing essence of the coast. Crisp ocean air blends with soft marine notes and subtle minerals for a light, airy fragrance that feels calm, fresh, and effortlessly inviting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Ocean AirMiddle Notes: Sea Salt, Marine MistBase Notes: Soft Woods, Coastal Musk Perfect for year-round use, this candle brings a breezy, coastal atmosphere into any space—ideal for brightening living areas, bedrooms, and bathrooms with a clean, modern freshness. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2026-01-31T12:55:13Z
+- [Saltwater Mist Original Candle](https://affinatiliving.com/products/saltwater-mist-original-candle): Create a calm, refreshing atmosphere with our Saltwater Mist Original Candle (10 oz). Crisp ocean air, soft sea salt, and airy coastal notes blend together in a clean-burning soy wax formula designed to bring a fresh, breezy elegance to your space.
+  Updated: 2026-02-26T20:41:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5634,7 +5634,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_6_2026_at_08_16_42_AM.png?v=1770383830
   Price: $18.95 USD
 - [White Strawberry Room Spray](https://affinatiliving.com/products/white-strawberry-room-spray): Refresh your home with the White Strawberry Room & Linen Spray. A non-toxic 4 oz spray featuring soft strawberry notes and a clean, airy finish for linens, fabrics, and rooms.
-  Updated: 2026-02-25T01:15:18Z
+  Updated: 2026-03-03T23:28:29Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -5936,7 +5936,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_17_2026_at_04_07_28_PM.png?v=1771362499
   Price: $18.95 USD
 - [3-Wick Lemon Eucalyptus Candle](https://affinatiliving.com/products/3-wick-eucalyptus-lemon-candle): Lemon Eucalyptus 3-Wick Candle – 17 oz soy blend candle with fresh lemon zest and cool eucalyptus. Clean burning, strongly scented, and perfect for a bright, refreshing home fragrance.
-  Updated: 2026-02-23T19:41:37Z
+  Updated: 2026-03-03T14:38:31Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6032,6 +6032,76 @@
   - [Pack of 5 / Large (4 fl/oz)](https://affinatiliving.com/products/frosted-gingerbread-room-spray?variant=59115529896017)
     Availability: Available
     Price: $44.95 USD
+- [Classic Cheesecake Original Candle](https://affinatiliving.com/products/classic-cheesecake-original-candle): Indulge in the rich aroma of our Classic Cheesecake Candle. Creamy vanilla custard and buttery graham crust blend in this strong, clean-burning 10 oz soy candle.
+  Updated: 2026-02-26T18:10:38Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_25_2026_at_07_17_07_PM.png?v=1772065102
+  Price: $16.95 USD
+- [Classic Cheesecake Signature Candle](https://affinatiliving.com/products/classic-cheesecake-signature-candle): Enjoy the rich scent of creamy vanilla custard and buttery graham crust. The Affinati Classic Cheesecake Signature Candle – 10 oz delivers strong, clean-burning bakery warmth for up to 55 hours.
+  Updated: 2026-02-27T20:36:34Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_26_2026_at_01_44_46_PM.png?v=1772131519
+  Price: $18.95 USD
+- [Vanilla Bean Signature Candle](https://affinatiliving.com/products/vanilla-bean-signature-candle): Indulge in the Affinati Vanilla Bean Signature Candle – 10 oz. A creamy, warm vanilla fragrance with notes of sugar, caramel, and tonka bean. Up to 55-hour clean burn.
+  Updated: 2026-02-27T20:47:58Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_26_2026_at_03_19_05_PM.png?v=1772137215
+  Price: $18.95 USD
+- [Baked Apple Pie Signature Candle](https://affinatiliving.com/products/baked-apple-pie-signature-candle): Enjoy the warm aroma of the Affinati Baked Apple Pie Signature Candle – 10 oz. Fresh apple, cinnamon spice, and buttery crust with up to 55-hour clean burn.
+  Updated: 2026-02-27T20:23:15Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_26_2026_at_03_26_50_PM.png?v=1772137632
+  Price: $18.95 USD
+- [3-Wick Black Raspberry Vanilla Candle](https://affinatiliving.com/products/3-wick-black-raspberry-vanilla-candle): Black Raspberry Vanilla 3-Wick Candle – 17 oz. A bold blend of dark berries and creamy vanilla in a clean-burning soy wax candle with strong scent throw.
+  Updated: 2026-03-04T05:46:55Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Mar_3_2026_at_09_43_34_AM.png?v=1772549042
+  Price: $19.95 USD
+- [3-Wick Fresh Linen Candle](https://affinatiliving.com/products/3-wick-fresh-linen-candle): Fresh Linen 3-Wick Candle – 17 oz. A clean, airy blend of cotton, citrus, and soft musk in a strong-scented soy wax candle that refreshes any space.
+  Updated: 2026-03-03T20:24:39Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_27_2026_at_09_40_09_PM.png?v=1772246434
+  Price: $19.95 USD
+- [3-Wick Apple Spice Candle](https://affinatiliving.com/products/3-wick-apple-spice-candle): Warm your home with our Apple Spice 3-Wick Candle. A strongly scented soy blend featuring crisp apple, cinnamon, clove, and vanilla for a cozy, inviting fragrance that fills large rooms beautifully.
+  Updated: 2026-03-01T11:37:06Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_28_2026_at_06_37_40_PM.png?v=1772321913
+  Price: $19.95 USD
+- [Tobacco Vanilla Reed Diffuser](https://affinatiliving.com/products/tobacco-vanilla-reed-diffuser): Tobacco Vanilla Reed Diffuser (7.0 fl oz) with smooth tobacco leaf and warm vanilla bean. Non-toxic, flame-free fragrance with 8 reeds for long-lasting luxury scent.
+  Updated: 2026-03-01T11:58:40Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageFeb28_2026at06_56_36PM.png?v=1772323151
+  Price: $26.95 USD
+- [Lemon Eucalyptus Reed Diffuser](https://affinatiliving.com/products/lemon-eucalyptus-reed-diffuser): Refresh your home with our Lemon Eucalyptus Reed Diffuser. A 7 oz non-toxic, flame-free diffuser with bright lemon zest and cool eucalyptus for a clean, spa-like scent that lasts for weeks.
+  Updated: 2026-03-01T12:11:06Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Feb_28_2026_at_07_10_39_PM.png?v=1772323866
+  Price: $26.95 USD
+- [Pink Citrus Burst Reed Diffuser](https://affinatiliving.com/products/pink-citrus-burst-reed-diffuser): Refresh your home with our Pink Citrus Burst Reed Diffuser. A 7 oz non-toxic, flame-free diffuser featuring pink grapefruit and orange zest for a bright, uplifting citrus fragrance that lasts for weeks.
+  Updated: 2026-03-01T12:18:25Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageFeb28_2026at07_17_37PM.png?v=1772324294
+  Price: $26.95 USD
 
 ## Collections
 
@@ -6039,26 +6109,26 @@
   Updated: 2026-01-14T19:14:01Z
   Total Products: 0
 - [Affinati 3-Wick Candle | Luxury Strong Scented Soy Candle](https://affinatiliving.com/collections/3-wick-candles): Shop the Affinati 3-Wick Candle. A large, luxury soy candle designed for strong, room-filling fragrance and a clean, long-lasting burn.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 111
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 114
 - [Signature 10 oz Candles | Colored Glass Luxury | Affinati](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 107
+  Updated: 2026-02-28T12:11:15Z
+  Total Products: 110
 - [Whipped Soap | 20 oz Luxury Scented Body Soap | Affinati](https://affinatiliving.com/collections/whipped-soap): Shop Affinati Whipped Soap in 30+ scents and 8 vibrant colors. Large 20 oz luxury whipped body soap with rich lather and bold fragrance.
   Updated: 2026-02-17T15:38:06Z
   Total Products: 32
 - [Hydrating Body Lotion | Luxury Scented Moisturizer | Affinati](https://affinatiliving.com/collections/body-lotions): Shop Affinati Body Lotions featuring a high-performance hydrating formula and 30+ scent options. Luxury moisturizing lotion with long-lasting fragrance
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 30
 - [Luxury Face Cream | Hydrating 5 oz Formula | Affinati](https://affinatiliving.com/collections/face-creams): Shop Affinati 5 oz luxury face cream in 30+ signature scents. High-performance hydrating formula designed for smooth, radiant skin.
   Updated: 2026-02-21T15:13:34Z
   Total Products: 16
 - [Luxury Room Sprays | Long-Lasting Home Fragrance | Affinati](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati luxury room sprays and linen sprays. Long-lasting home fragrance crafted to instantly refresh living rooms, bedrooms, and linens.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Luxury Reed Diffusers | Long Lasting Home Fragrance | Affinati](https://affinatiliving.com/collections/reed-diffusers): Shop Affinati luxury reed diffusers for flameless, long-lasting home fragrance. Elegant room diffusers designed for continuous scent in every space.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 52
+  Updated: 2026-03-01T00:18:38Z
+  Total Products: 55
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
   Updated: 2026-01-14T19:14:02Z
   Total Products: 32
@@ -6066,14 +6136,11 @@
   Updated: 2026-02-07T19:04:54Z
   Total Products: 3
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 136
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 110
-- [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
-  Updated: 2026-01-31T13:27:20Z
-  Total Products: 12
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 113
 - [Candles on ](https://affinatiliving.com/collections/candles-on-)
   Updated: 2026-02-23T12:11:16Z
   Total Products: 28
@@ -6087,49 +6154,49 @@
   Updated: 2026-01-14T19:14:02Z
   Total Products: 0
 - [Original 10 oz Candles | Clear Glass & 55 Hour Burn | Affinati](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 120
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 121
 - [Wooden Wick Candles | Luxury Crackling Candles | Affinati](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
-  Updated: 2026-02-20T12:08:47Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 54
 - [Summer Candle Scents | Fresh & Tropical Fragrance | Affinati](https://affinatiliving.com/collections/summer-scents): Shop Affinati summer candles featuring Pineapple Margaritas, Champagne Toast, Pink Sands, and more. Fresh, beach-inspired scents perfect for warm weather.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 152
-- [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 173
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 154
+- [Winter Candles | Cozy & Festive Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/winter-candle-scents): Shop Winter Candles by Affinati. Discover cozy, festive, and woodsy luxury soy blend candles perfect for cold nights and holiday gatherings.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 174
 - [Fall Candle Scents | Cozy Autumn Fragrance | Affinati](https://affinatiliving.com/collections/fall-candle-scents): Shop Affinati fall candle scents including Pumpkin Spice Latte, Bonfire, Smoked Vanilla, and more. Warm, cozy autumn candles perfect for the season.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 159
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 163
 - [Spring Candles | Fresh & Floral Seasonal Scents | Affinati](https://affinatiliving.com/collections/spring-candle-scents): Shop Affinati spring candles featuring Mint Eucalyptus, Lavender Vanilla, Champagne Toast, and more. Fresh, clean scents perfect for spring renewal.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 134
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 137
 - [Masculine Candle Scents | Woody & Smoky Luxury | Affinati](https://affinatiliving.com/collections/masculine-scents): Shop Affinati masculine candles featuring mahogany teakwood, tobacco vanilla, whiskey reserve, and more. Bold, woody luxury scents for modern spaces.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 74
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 76
 - [Fruity Candles | Sweet & Tropical Fruit Scents | Affinati](https://affinatiliving.com/collections/fruity): Shop Affinati fruity candles featuring cherry, lemon, coconut, and tropical blends. Sweet, vibrant fruit scented candles with strong scent throw.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 92
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 93
 - [Nature Candle Scents | Fresh & Botanical Fragrance | Affinati](https://affinatiliving.com/collections/nature-candle-scents): Shop Affinati nature candle scents featuring French Vanilla, Honey Lavender, Mint Eucalyptus, Clean Cotton, and more. Fresh botanical luxury candles.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 170
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 172
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 58
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 60
 - [Christmas Candles | Holiday & Winter Scents | Affinati](https://affinatiliving.com/collections/christmas-candles): Shop Affinati Christmas candles featuring Twisted Peppermint, Balsam & Fir, Christmas Cookie, Hot Chocolate, and more. Luxury holiday scented candles.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 59
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 32
-- [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 33
+- [Thanksgiving Candles | Cozy Fall & Hosting Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/thanksgiving-candles): Shop Thanksgiving Candles by Affinati. Discover warm apple, cinnamon, vanilla, and woodsy luxury soy blend candles perfect for hosting and fall gatherings.
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 93
 - [Valentine’s Day Candles | Romantic Gift Scents | Affinati](https://affinatiliving.com/collections/valentines-candles): Shop Affinati Valentine’s Day candles featuring Bouquet of Roses, Cherry Kiss, Amber Noir, and more. Romantic luxury candles perfect for gifting.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 70
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 71
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-02-28T02:56:49Z
   Total Products: 3
 - [Scent Collection Bundles](https://affinatiliving.com/collections/scent-collection-bundles): Explore Affinati’s Scent Collection Bundles—each includes a 3-wick candle, room spray, and body lotion crafted in luxurious, signature fragrances.
   Updated: 2026-02-02T12:09:08Z
@@ -6138,106 +6205,103 @@
   Updated: 2026-02-07T12:10:09Z
   Total Products: 26
 - [New Year’s Candles | Celebration & Fresh Start Scents | Affinati](https://affinatiliving.com/collections/new-years-candles): Shop Affinati New Year’s candles featuring Champagne Toast, Vanilla Chai, Amber Noir, and more. Luxury scents perfect for New Year’s Eve and fresh beginnings.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 79
 - [Mini Candles](https://affinatiliving.com/collections/mini-candles): Mini candle with a powerful fragrance throw and up to 18 hours of burn time. Perfect for sampling scents or adding cozy ambiance anywhere.
   Updated: 2026-02-23T12:11:16Z
   Total Products: 27
 - [Floral Scented Candles | Rose, Lavender & Blossom | Affinati](https://affinatiliving.com/collections/floral-candle-scents): Shop Affinati floral scented candles featuring Bouquet of Roses, Honey Lavender, Hawaiian Hibiscus, and more. Elegant flower-inspired luxury candles.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 53
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 54
 - [New! Shopify performance sharing is now turned on](https://affinatiliving.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 767
-- [Coffee Scented Candles | Espresso, Mocha & Latte | Affinati](https://affinatiliving.com/collections/coffee-candles): Shop Affinati coffee scented candles featuring bold espresso, creamy mocha, and latte-inspired fragrances. Luxury 3 wick candles with strong scent throw.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 17
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 777
 - [TriTone Candles](https://affinatiliving.com/collections/tritone-candles): Luxury TriTone Candle with a rich three-layer fragrance experience — clean burn, long lasting, and beautifully crafted for home ambiance.
   Updated: 2026-02-14T19:14:24Z
   Total Products: 12
 - [Sweet & Dessert Scented Candles | Bakery & Gourmand Fragrances | Affinati](https://affinatiliving.com/collections/sweet-dessert-scented-candles): Craving sweet aromas? Discover Affinati’s dessert candles with rich vanilla, baked sugar and creamy gourmand notes. Long-lasting luxury scents.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 76
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 77
 - [Candles Under $30 | Affordable Luxury Scented Candles | Affinati](https://affinatiliving.com/collections/candles-under-30): Shop luxury scented candles under $30 at Affinati. High-quality fragrances, strong scent throw, and elegant designs at affordable prices.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 400
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 406
 - [Candles Under $20 | Affordable Scented Candles | Affinati](https://affinatiliving.com/collections/candles-under-20): Shop candles under $20 at Affinati. Affordable scented candles with strong fragrance, elegant design, and gift-worthy quality at budget-friendly prices.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 382
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 388
 - [Cherry Scented Candles | Sweet & Dark Cherry Fragrance | Affinati](https://affinatiliving.com/collections/cherry-candles): Shop Affinati’s cherry scented candles featuring sweet, bold, and dark cherry fragrances. Luxury 3-wick candles with strong scent throw and rich aroma.
   Updated: 2026-02-20T12:08:47Z
   Total Products: 15
 - [Tobacco Vanilla Candles | Warm Smoky Luxury Fragrance | Affinati](https://affinatiliving.com/collections/tobacco-vanilla-candles): Shop Affinati’s Tobacco Vanilla candles featuring rich tobacco leaf and smooth vanilla warmth. Luxury candles with bold scent throw and refined ambiance.
-  Updated: 2026-02-15T21:59:30Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 5
 - [Candles Made in the USA | Hand-Poured American Scented Candles | Affinati](https://affinatiliving.com/collections/usa-made-candles-affinati): Shop candles made in the USA by Affinati. Hand-poured American scented candles with strong fragrance throw, premium quality, and elegant design.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 463
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
 - [Vanilla Candles | Luxury Soy Vanilla Scents – Affinati](https://affinatiliving.com/collections/vanilla-candles): Shop luxury vanilla candles by Affinati. Warm, creamy, long-lasting soy candles that fill your home with rich, sweet fragrance.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 45
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 47
 - [Eucalyptus Candles | Fresh Spa Scented Soy Candles – Affinati](https://affinatiliving.com/collections/eucalyptus-candles): Shop eucalyptus candles by Affinati. Fresh, clean and spa-inspired soy candles designed for relaxation and room-filling fragrance.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 16
 - [Lavender Candles | Relaxing Soy Scented Candles – Affinati](https://affinatiliving.com/collections/lavender-candles): Shop lavender candles by Affinati. Clean-burning soy candles with calming, spa-inspired fragrance perfect for relaxation and stress relief.
   Updated: 2026-02-23T12:11:16Z
   Total Products: 14
 - [Non Toxic Candles | Clean Burning Soy – Affinati](https://affinatiliving.com/collections/non-toxic-candles-affinati): Shop non toxic candles by Affinati. Clean-burning soy blends designed for a smoother, safer fragrance experience.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 463
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
 - [Luxury Scented Candles | 3 Wick, Single & Wooden Wick | Affinati](https://affinatiliving.com/collections/all-candle-collections): Shop all Affinati luxury scented candles. Explore 3 wick, single wick, and wooden wick options with strong fragrance throw and refined design for every space.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 463
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
 - [Strong Scented Candles | Powerful 3 Wick Fragrance | Affinati](https://affinatiliving.com/collections/strong-scented-candles-affinati): Shop Affinati strong scented candles designed for powerful scent throw. Luxury 3 wick candles that fill large rooms with bold, lasting fragrance.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 463
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
 - [Coconut Scented Candles | Tropical & Creamy Fragrance | Affinati](https://affinatiliving.com/collections/coconut-candles-affinati): Shop Affinati coconut scented candles featuring creamy coconut, tropical blends, and beach-inspired fragrances. Luxury 3 wick candles with warm scent throw.
-  Updated: 2026-02-21T12:13:52Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 13
 - [Long Lasting Candles | 70 Hour Burn Time | Affinati](https://affinatiliving.com/collections/long-lasting-candles): Shop Affinati long lasting candles with up to 70 hours of burn time. Luxury 3 wick candles designed for extended fragrance and clean performance.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 130
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 133
 - [Lemon Scented Candles | Fresh Citrus Fragrance | Affinati](https://affinatiliving.com/collections/lemon-candles-affinati): Shop Affinati lemon candles featuring bright citrus, clean freshness, and refreshing scent throw. Luxury 3 wick lemon scented candles for every room.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 17
 - [Best Soy Candles | Clean Burning Luxury | Affinati](https://affinatiliving.com/collections/soy-candles-affinati): Discover the best soy candles by Affinati. Clean-burning soy wax candles with strong scent throw, long burn time, and refined fragrance blends.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 463
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
 - [Single Wick Candles | Small Room Scented Candles | Affinati](https://affinatiliving.com/collections/single-wick-candles-affinati): Shop Affinati single wick candles designed for bedrooms, bathrooms, and smaller spaces. Clean-burning soy blend candles with balanced scent throw.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 255
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 259
 - [Long Lasting Room Sprays | Strong Home Fragrance | Affinati](https://affinatiliving.com/collections/long-lasting-room-sprays-affinati): Shop Affinati long lasting room sprays designed for strong, balanced scent throw. Luxury home and linen sprays that refresh instantly and linger beautifully.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Non Toxic Room Spray | Clean Home Fragrance | Affinati](https://affinatiliving.com/collections/non-toxic-room-sprays-affinati): Shop Affinati non toxic room sprays crafted for clean, balanced home fragrance. Luxury room and linen sprays designed for everyday use.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Vanilla Room Spray | Luxury Vanilla Linen Spray | Affinati](https://affinatiliving.com/collections/vanilla-room-sprays-affinati): Shop Affinati vanilla room sprays including French Vanilla, Tobacco Vanilla, Vanilla Bean, and more. Long-lasting luxury home and linen sprays.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-02-26T12:10:28Z
   Total Products: 7
 - [Strong Room Sprays | Powerful Home Fragrance | Affinati](https://affinatiliving.com/collections/strong-room-sprays-affinati): Shop Affinati strong room sprays designed for bold, long-lasting fragrance. Powerful home and linen sprays that instantly refresh and fill larger rooms.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Strongest Reed Diffusers for Large Rooms | Affinati](https://affinatiliving.com/collections/strong-reed-diffusers-affinati): Discover Affinati strong reed diffusers crafted for powerful scent projection and long-lasting performance in large rooms and open spaces.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 54
+  Updated: 2026-03-01T00:18:38Z
+  Total Products: 57
 - [Vanilla Reed Diffusers | Long Lasting Warm Fragrance | Affinati](https://affinatiliving.com/collections/vanilla-reed-diffusers-affinati): Shop Affinati vanilla reed diffusers featuring warm, creamy vanilla fragrance. Long-lasting flameless home scent for bedrooms, living rooms, and entryways.
-  Updated: 2026-02-18T12:08:09Z
-  Total Products: 4
+  Updated: 2026-02-28T23:59:07Z
+  Total Products: 5
 - [Most Popular Candle Scents | Best  Fragrances | Affinati](https://affinatiliving.com/collections/most-popular-candles-affinati): Discover the most popular candle scents at Affinati, from vanilla and lavender to mahogany teakwood and cherry. Shop best  luxury fragrances.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 463
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
 - [Air Fresheners | 1 oz & 4 oz Luxury Sprays | Affinati](https://affinatiliving.com/collections/air-fresheners-affnati): Shop Affinati air fresheners in 1 oz and 4 oz sizes with 50+ signature scents. Strong, long-lasting home fragrance sprays for every space.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Long Lasting Body Lotion | Hydrating & Scented | Affinati](https://affinatiliving.com/collections/body-lotions-affinati): Shop Affinati long lasting body lotion with 30+ signature scents. High-performance hydrating formula with fragrance that lingers beautifully.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 30
 - [Long Lasting Reed Diffusers | Luxury Home Fragrance | Affinati](https://affinatiliving.com/collections/reed-diffusers-affinati): Shop Affinati long lasting reed diffusers crafted for extended fragrance performance. Luxury diffuser oils designed to scent your space for weeks.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 54
+  Updated: 2026-03-01T00:18:38Z
+  Total Products: 57
 - [Best Smelling Body Lotion | Luxury Scented Lotion | Affinati](https://affinatiliving.com/collections/body-lotion-affinati): Discover the best smelling body lotion at Affinati with 30+ signature scents. Hydrating formula with long-lasting fragrance you’ll love wearing daily.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 30
 - [Best  Whipped Soap | Most Popular Scents | Affinati](https://affinatiliving.com/collections/whipped-soap-affinati): Shop Affinati’s best  whipped soap in 30+ signature scents. Large 20 oz luxury whipped body soap with rich lather and long-lasting fragrance.
   Updated: 2026-02-20T19:11:13Z
@@ -6246,17 +6310,17 @@
   Updated: 2026-02-20T21:29:21Z
   Total Products: 32
 - [Bedroom Room Spray | Relaxing & Calming Scents | Affinati](https://affinatiliving.com/collections/room-linen-sprays-affinati): Shop Affinati bedroom room sprays designed for calm, clean fragrance. Luxury linen and room sprays perfect for relaxation and nighttime routines.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Kitchen Room Spray | Fresh & Odor Refreshing | Affinati](https://affinatiliving.com/collections/kitchen-room-linen-sprays-affinati): Shop Affinati kitchen room sprays designed to refresh cooking odors with clean citrus, fresh linen, and uplifting scents. Instant home fragrance.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Best Room Sprays | Top Home Fragrance Sprays | Affinati](https://affinatiliving.com/collections/room-sprays-affinati): Explore the best room sprays by Affinati. Luxury home fragrance sprays in 1 oz and 4 oz sizes with 50+ scents designed to refresh every space.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Best Reed Diffusers | Top Long Lasting Scents | Affinati](https://affinatiliving.com/collections/best-reed-diffusers-affinati): Explore the best reed diffusers by Affinati — long lasting, strong scent profiles in premium blends. Perfect for living rooms, bedrooms, bathrooms, and more.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 54
+  Updated: 2026-03-01T00:18:38Z
+  Total Products: 57
 - [Best  Face Cream | Luxury Hydrating Formula | Affinati](https://affinatiliving.com/collections/face-cream-affinati): Shop Affinati’s best  face cream in 30+ signature scents. High-performance 5 oz hydrating formula with smooth, long-lasting moisture.
   Updated: 2026-02-21T16:10:08Z
   Total Products: 16
@@ -6264,71 +6328,242 @@
   Updated: 2026-02-21T17:58:01Z
   Total Products: 16
 - [Body Lotion for Dry Skin | Deep Hydration Formula | Affinati](https://affinatiliving.com/collections/body-lotion-for-dry-skin-affinati): Shop Affinati body lotion for dry skin featuring a high-performance hydrating formula and 30+ signature scents. Deep moisture without greasy residue.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 30
 - [Candles for Large Rooms | Strong 3 Wick Scent Throw | Affinati](https://affinatiliving.com/collections/large-candles-affinati): Shop Affinati candles for large rooms designed for strong scent throw. Luxury 3 wick candles that fill open spaces with bold, lasting fragrance.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 130
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 133
 - [Strong Room Sprays That Actually Last | Affinati](https://affinatiliving.com/collections/strong-room-sprays-that-last-affinati): Discover Affinati strong room sprays designed for bold, long-lasting fragrance. Luxury home sprays that refresh instantly and linger beautifully.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [3 Wick Candles for Large Spaces | Strong Scent Throw | Affinati](https://affinatiliving.com/collections/3-wick-candles-affinati): Shop Affinati 3 wick candles for large spaces designed for powerful scent throw and long burn time. Luxury fragrances that fill open rooms beautifully.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 117
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 120
 - [Best 3-Wick Candles | Strong Luxury Scents | Affinati](https://affinatiliving.com/collections/best-3-wick-candles-affinati): Discover the best 3-wick candles by Affinati. Strong scent throw, long burn time, and luxury fragrance blends designed to fill large rooms beautifully.
-  Updated: 2026-02-24T12:11:13Z
-  Total Products: 117
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 120
 - [Candles for Men | Masculine & Luxury Scents | Affinati](https://affinatiliving.com/collections/candles-for-men-affinati): Shop Affinati candles for men featuring mahogany teakwood, tobacco vanilla, whiskey reserve, and more. Bold, masculine luxury scents perfect for gifting.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 33
 - [Best Pumpkin Candles | Pumpkin Spice & Fall Favorites | Affinati](https://affinatiliving.com/collections/pumpkin-candles-affinati): Shop the best pumpkin candles by Affinati featuring Pumpkin Spice Latte, Pumpkin Pie, Toasted Pumpkin Cream, and more. Cozy fall scents with strong throw.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-02-26T12:10:28Z
   Total Products: 18
 - [Spa & Fresh Candles | Clean & Relaxing Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/spa-fresh-candles-affinati): Shop Spa & Fresh Candles by Affinati. Discover eucalyptus, clean cotton, fresh citrus, and spa-inspired scents designed to refresh your home and create a calming atmosphere.
-  Updated: 2026-02-24T12:11:13Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 28
 - [USA Made Reed Diffusers | Luxury American Made Home Fragrance – Affinati](https://affinatiliving.com/collections/usa-made-reed-diffusers-affinati): Shop USA Made Reed Diffusers by Affinati. Discover long-lasting, luxury home fragrance crafted in the United States with premium oils and elegant design.
-  Updated: 2026-02-23T12:11:16Z
-  Total Products: 54
+  Updated: 2026-03-01T00:18:38Z
+  Total Products: 57
 - [USA Made Room Sprays | Luxury American Made Home Fragrance – Affinati](https://affinatiliving.com/collections/usa-made-room-sprays-affinati): Shop USA Made Room Sprays by Affinati. Discover premium American made home fragrance sprays designed for long-lasting, clean, and luxurious scent.
-  Updated: 2026-02-23T12:11:16Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 58
 - [Sage Candles | White Sage & Herbal Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/sage-candles-affinati): Shop Sage Candles by Affinati. Discover white sage, herbal, and fresh grounding scents crafted in a clean-burning luxury soy blend.
   Updated: 2026-02-24T20:41:34Z
   Total Products: 8
 - [Tobacco Candles | Warm & Bold Masculine Luxury Scented Candles – Affinati](https://affinatiliving.com/collections/tobacco-candles-affinati): Shop Tobacco Candles by Affinati. Discover rich, warm, and refined tobacco-inspired luxury soy candles designed for deep fragrance and elevated ambiance.
-  Updated: 2026-02-24T20:53:34Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 8
 - [Strawberry Candles | Sweet & Fruity Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/strawberry-candles-affinati): Shop Strawberry Candles by Affinati. Discover sweet, juicy strawberry and strawberry shortcake inspired luxury soy blend candles with long-lasting fragrance.
   Updated: 2026-02-24T21:30:25Z
   Total Products: 9
 - [Mahogany Teakwood Candles | Bold Woodsy Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/mahogany-teakwood-candles-affinati): Shop Mahogany Teakwood Candles by Affinati. Discover bold, masculine, woodsy luxury soy blend candles with long-lasting, refined fragrance.
-  Updated: 2026-02-24T21:34:57Z
+  Updated: 2026-02-28T12:11:15Z
   Total Products: 5
 - [Peppermint Candles | Fresh Mint & Holiday Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/peppermint-candles-affinati): Shop Peppermint Candles by Affinati. Discover crisp, refreshing mint and candy cane inspired luxury soy blend candles with strong scent throw.
-  Updated: 2026-02-24T23:31:59Z
+  Updated: 2026-02-25T12:09:00Z
   Total Products: 11
 - [Cinnamon Candles | Warm & Spiced Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/cinnamon-candles-affinati): Shop Cinnamon Candles by Affinati. Discover warm, spicy, and cozy cinnamon scented luxury soy blend candles with strong scent throw.
-  Updated: 2026-02-24T23:38:06Z
+  Updated: 2026-03-03T12:11:59Z
   Total Products: 16
 - [Chocolate Candles | Rich & Sweet Luxury Soy Blend Scented Candles – Affinati](https://affinatiliving.com/collections/chocolate-candles-affinati): Shop Chocolate Candles by Affinati. Discover rich, sweet, and indulgent chocolate scented luxury soy blend candles with strong scent throw.
   Updated: 2026-02-25T01:17:24Z
   Total Products: 10
 - [Pine & Fir Candles | Fresh Evergreen Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/pine-fir-candles-affinati): Shop Pine & Fir Candles by Affinati. Discover fresh evergreen, balsam, and forest-inspired luxury soy blend candles with strong scent throw.
-  Updated: 2026-02-25T01:26:19Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 8
 - [Pumpkin Spice Latte Candles | Cozy Fall Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/pumpkin-spice-latte-candles-affinati): Shop Pumpkin Spice Latte Candles by Affinati. Discover warm pumpkin, cinnamon, and creamy coffee-inspired luxury soy blend candles with strong scent throw.
-  Updated: 2026-02-25T01:33:57Z
+  Updated: 2026-02-26T12:10:28Z
   Total Products: 5
 - [Vanilla Bean Candles | Warm & Creamy Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/vanilla-bean-candles-affinati): Shop Vanilla Bean Candles by Affinati. Discover warm, creamy, and sweet vanilla scented luxury soy blend candles with long-lasting fragrance.
-  Updated: 2026-02-25T01:40:56Z
-  Total Products: 2
+  Updated: 2026-02-26T20:20:22Z
+  Total Products: 3
 - [French Vanilla Candles | Creamy & Sweet Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/french-vanilla-candles-affinati): Shop French Vanilla Candles by Affinati. Discover creamy, smooth, and sweet French vanilla scented luxury soy blend candles with long-lasting fragrance.
-  Updated: 2026-02-25T01:47:11Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 7
 - [Woodsy Candles | Earthy & Masculine Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/woodsy-candles-affinati): Shop Woodsy Candles by Affinati. Discover earthy, forest-inspired, and masculine luxury soy blend candles with strong, long-lasting scent throw.
-  Updated: 2026-02-25T02:04:40Z
+  Updated: 2026-03-02T12:09:52Z
   Total Products: 26
+- [Apple Candles | Fresh & Cozy Luxury Soy Blend Scented Candles – Affinati](https://affinatiliving.com/collections/apple-candles-affinati): Shop Apple Candles by Affinati. Discover fresh, sweet, and cozy apple scented luxury soy blend candles with strong, long-lasting fragrance.
+  Updated: 2026-02-28T23:38:46Z
+  Total Products: 19
+- [Apple Cinnamon Candles | Cozy Fall Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/apple-cinnamon-candles-affinati): Shop Apple Cinnamon Candles by Affinati. Discover warm apple and cinnamon spice luxury soy blend candles with strong, long-lasting fragrance.
+  Updated: 2026-02-25T14:44:09Z
+  Total Products: 3
+- [Clean Cotton Candles | Fresh & Crisp Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/clean-cotton-candles-affinati): Shop Clean Cotton Candles by Affinati. Discover fresh, airy, and laundry-inspired luxury soy blend candles with long-lasting scent throw.
+  Updated: 2026-03-01T12:10:00Z
+  Total Products: 4
+- [Clean Burning Candles | Low Soot Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/clean-burning-candles-affinati): Shop Clean Burning Candles by Affinati. Discover low soot, smooth-burning luxury soy blend candles designed for a cleaner home fragrance experience.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Safe Candles for Pets | Pet-Friendly Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/luxury-candles-affinati): Shop Safe Candles for Pets by Affinati. Discover pet-friendly, clean burning luxury soy blend candles crafted for homes with dogs and cats.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Eco Friendly Candles | Sustainable Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/eco-friendly-candles-affinati): Shop Eco Friendly Candles by Affinati. Discover sustainable, clean burning luxury soy blend candles crafted for environmentally conscious homes.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Best Throw Candles | Strong & Room-Filling Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/best-throw-candles-affinati): Shop the Best Throw Candles by Affinati. Discover strong scent throw, room-filling luxury soy blend candles designed for powerful fragrance performance.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Bathroom Room Sprays | Long Lasting & Fresh Luxury Sprays – Affinati](https://affinatiliving.com/collections/room-sprays-affinati-1): Shop Bathroom Room Sprays by Affinati. Discover strong, long-lasting, and fresh luxury room sprays designed to instantly refresh bathrooms.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 58
+- [Non Toxic Reed Diffusers | Clean & Flame-Free Luxury Diffusers – Affinati](https://affinatiliving.com/collections/non-toxic-reed-diffusers): Shop Non Toxic Reed Diffusers by Affinati. Discover clean, flame-free luxury home fragrance crafted with thoughtfully selected ingredients.
+  Updated: 2026-03-01T00:18:38Z
+  Total Products: 57
+- [Scented Lotions | Long Lasting Luxury Fragrance Body Lotion – Affinati](https://affinatiliving.com/collections/scented-lotions-affinati): Shop Scented Lotions by Affinati. Discover long-lasting, luxurious body lotions infused with rich fragrance and smooth hydration.
+  Updated: 2026-02-28T12:11:15Z
+  Total Products: 45
+- [Vanilla Body Lotion | Long Lasting & Creamy Scented Lotion – Affinati](https://affinatiliving.com/collections/vanilla-lotions-affinati): Shop Vanilla Body Lotions by Affinati. Discover French Vanilla, Vanilla Bean, Lavender Vanilla, and more in luxurious, long-lasting scented body lotions.
+  Updated: 2026-02-26T17:39:21Z
+  Total Products: 5
+- [Sandalwood Candles | Creamy Woodsy Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/sandalwood-candles-affinati): Shop Sandalwood Candles by Affinati. Discover smooth, earthy, and creamy woodsy luxury soy blend candles with strong, long-lasting scent throw.
+  Updated: 2026-03-03T20:54:14Z
+  Total Products: 3
+- [Romantic Candles | Luxury Date Night & Bedroom Candle Scents – Affinati](https://affinatiliving.com/collections/romantic-candles-affinati): Shop Romantic Candles by Affinati. Discover warm, intimate, and mood-setting luxury soy blend candles perfect for date nights and cozy evenings.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 21
+- [Room Sprays Safe for Pets | Clean, Pet-Friendly Home Fragrance – Affinati](https://affinatiliving.com/collections/pet-safe-room-sprays): Shop Room Sprays Safe for Pets by Affinati. Discover pet-conscious, clean formula sprays designed to refresh your home while being gentle for dog and cat households.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 58
+- [Pet Safe Reed Diffusers | Clean, Pet-Friendly Home Fragrance – Affinati](https://affinatiliving.com/collections/pet-safe-reed-diffusers-affinati): Shop Pet Safe Reed Diffusers by Affinati. Discover clean, balanced, flame-free home fragrance options designed for households with dogs and cats.
+  Updated: 2026-03-01T00:18:38Z
+  Total Products: 57
+- [Strong Wooden Wick Candles | Crackling & High Throw Luxury Candles – Affinati](https://affinatiliving.com/collections/strong-wooden-wick-candles-affinati): Shop Strong Wooden Wick Candles by Affinati. Discover crackling wood wick candles with powerful scent throw designed to fill large rooms.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 54
+- [Epsom Salt Body Scrubs | Exfoliating & Mineral Luxury Scrubs – Affinati](https://affinatiliving.com/collections/epsom-salt-body-scrubs-affinati): Shop Epsom Salt Body Scrubs by Affinati. Discover mineral-rich exfoliating scrubs in 30+ scents and multiple colors for smooth, glowing skin.
+  Updated: 2026-02-27T14:10:06Z
+  Total Products: 32
+- [Dead Sea Salt Body Scrubs | Mineral Luxury Exfoliating Scrubs – Affinati](https://affinatiliving.com/collections/dead-sea-salt-body-scrubs-affinati): Dead Sea Salt Body Scrubs | Mineral Luxury Exfoliating Scrubs – Affinati
+  Updated: 2026-02-27T14:15:43Z
+  Total Products: 32
+- [Black Lava Salt Body Scrubs | Volcanic Luxury Exfoliating Scrubs – Affinati](https://affinatiliving.com/collections/black-lava-salt-body-scrubs-affinati): Shop Black Lava Salt Body Scrubs by Affinati. Discover bold volcanic exfoliation in 30+ scents with vibrant color options for smooth, polished skin.
+  Updated: 2026-02-27T14:20:43Z
+  Total Products: 32
+- [Best Candles for Small Rooms | Strong & Balanced Small Space Candles – Affinati](https://affinatiliving.com/collections/best-candles-for-small-rooms): Discover the best candles for small rooms at Affinati. Shop candles engineered for strong scent throw without overpowering — perfect for bedrooms, bathrooms, and cozy spaces.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 259
+- [Cozy Candles | Warm & Comforting Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/cozy-candles-affinati): Shop Cozy Candles by Affinati. Discover warm, comforting, and inviting luxury soy blend candles perfect for cozy nights and relaxing evenings.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Easter Candles | Fresh & Spring Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/easter-candles-affinati): Shop Easter Candles by Affinati. Discover fresh florals, soft pastels, and sweet spring-inspired luxury soy blend candles perfect for Easter gatherings.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 50
+- [Candles Under $10 | Affordable & Budget-Friendly Scented Candles – Affinati](https://affinatiliving.com/collections/candles-under-10-affinati): Shop Candles Under $10 by Affinati. Discover affordable, small-size, and budget-friendly luxury scented candles without sacrificing quality.
+  Updated: 2026-02-28T02:57:19Z
+  Total Products: 43
+- [Small Candles | Mini & Compact Luxury Scented Candles – Affinati](https://affinatiliving.com/collections/small-candles-affinati): Shop Small Candles by Affinati. Discover mini and compact luxury scented candles perfect for small rooms, gifting, and everyday fragrance.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 259
+- [Gift Candle Sets | Luxury 3-Wick, Wooden Wick & Layered Candles – Affinati](https://affinatiliving.com/collections/luxury-candle-gifts-affinati): Shop Gift Candle Sets by Affinati. Discover luxury 3-wick candles, wooden wick tumblers, layered TriTone candles, and curated mini sets perfect for gifting.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Double Wick Candles | 2-Wick Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/double-wick-candles-affinati): Shop Double Wick Candles by Affinati. Discover balanced, strong-throw 2-wick candles designed for even burn and elevated home fragrance.
+  Updated: 2026-02-28T01:45:28Z
+  Total Products: 12
+- [Best Wooden Wick Candles | Luxury Crackling Wood Wick Candles – Affinati](https://affinatiliving.com/collections/wooden-wick-candles-affinati): Shop the Best Wooden Wick Candles by Affinati. Discover luxury crackling wood wick candles in 10oz, 21oz, and 13oz bowl formats with strong scent throw.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 57
+- [Fresh Linen Candles | Clean & Laundry Scented Luxury Candles – Affinati](https://affinatiliving.com/collections/fresh-linen-candles-affinati): Shop Fresh Linen Candles by Affinati. Discover clean, airy, and laundry-inspired luxury soy blend candles that make your home smell freshly washed.
+  Updated: 2026-02-28T02:40:30Z
+  Total Products: 3
+- [Bathroom Candles | Fresh & Clean Luxury Candles for Bathrooms – Affinati](https://affinatiliving.com/collections/bathroom-candles-affinati): Shop Bathroom Candles by Affinati. Discover fresh, clean, and perfectly balanced luxury candles designed for small spaces and bathroom freshness.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 231
+- [Best Smelling Candles | Strong & Fragrant Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/best-smelling-candles-affinati): Shop Best Smelling Candles by Affinati. Discover powerful, room-filling, and luxurious candles with exceptional scent throw for every space and occasion.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Tropical Candles | Beach & Island Luxury Scented Candles – Affinati](https://affinatiliving.com/collections/tropical-candles-affinati): Shop Tropical Candles by Affinati. Discover coconut, citrus, fruity, and beach-inspired luxury soy blend candles perfect for summer vibes.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 37
+- [Vanilla Body Care | Creamy & Long-Lasting Scented Body Products – Affinati](https://affinatiliving.com/collections/vanilla-body-care-affinati): Shop Vanilla Body Care by Affinati. Discover vanilla body lotions, salt scrubs, and self-care essentials in French Vanilla, Vanilla Bean, and more.
+  Updated: 2026-02-28T15:22:33Z
+  Total Products: 15
+- [Lavender Vanilla Candles | Relaxing & Warm Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/lavender-vanilla-candles-affinati): Shop Lavender Vanilla Candles by Affinati. Discover calming lavender blended with creamy vanilla for relaxing, bedroom-ready luxury fragrance.
+  Updated: 2026-02-28T16:11:29Z
+  Total Products: 3
+- [Bourbon Vanilla Candles | Warm & Smooth Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/bourbon-vanilla-candles-affinati): Shop Bourbon Vanilla Candles by Affinati. Discover warm vanilla blended with smooth bourbon notes for rich, cozy, and luxurious home fragrance.
+  Updated: 2026-02-28T16:19:37Z
+  Total Products: 3
+- [Bourbon Candles | Warm & Sophisticated Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/bourbon-candles-affinati): Shop Bourbon Candles by Affinati. Discover Butterscotch & Bourbon, Smoked Bourbon, and Bourbon Vanilla in 3-wick, wooden wick, Signature, and Original formats.
+  Updated: 2026-02-28T16:57:07Z
+  Total Products: 12
+- [Egyptian Musk Candles | Warm & Sensual Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/egyptian-musk-candles-affinati): Shop Egyptian Musk Candles by Affinati. Discover warm, sensual, and smooth musk luxury soy blend candles designed for cozy and romantic ambiance.
+  Updated: 2026-02-28T17:15:47Z
+  Total Products: 3
+- [Bedroom Candles | Relaxing & Romantic Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/bedroom-candles-affinati): Shop Bedroom Candles by Affinati. Discover relaxing, romantic, and cozy luxury soy blend candles perfect for bedrooms and intimate spaces.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Living Room Candles | Luxury Room-Filling Scented Candles – Affinati](https://affinatiliving.com/collections/living-room-candles-affinati): Shop Living Room Candles by Affinati. Discover luxury soy blend candles designed to fill large living rooms with balanced, long-lasting fragrance.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Vanilla 3-Wick Candles | Strong, Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/vanilla-3-wick-candles-affinati): Shop luxury vanilla 3-wick candles in Vanilla Bean, French Vanilla, Bourbon Vanilla & more. Strong scent throw, clean soy blend, room-filling fragrance.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 7
+- [Watermelon Candles | Fresh Watermelon & Cucumber Melon – Affinati](https://affinatiliving.com/collections/watermelon-candles-affinati): Shop Fresh Watermelon & Cucumber Melon candles in 3-Wick, Signature & Original sizes. Clean-burning soy blend with bright, room-filling fragrance.
+  Updated: 2026-03-01T17:06:47Z
+  Total Products: 4
+- [Espresso Candles | Strong Coffee Scented Soy Blend Candles – Affinati](https://affinatiliving.com/collections/espresso-candles-affinati): Shop bold espresso scented candles with rich roasted coffee aroma. Available in 3-wick, Signature & Original sizes with clean-burning soy blend performance.
+  Updated: 2026-03-01T17:13:38Z
+  Total Products: 12
+- [Coffee Scented Candles | Espresso, Mocha & Latte | Affinati](https://affinatiliving.com/collections/coffee-candles): Shop Affinati coffee scented candles featuring bold espresso, creamy mocha, and latte-inspired fragrances. Luxury 3 wick candles with strong scent throw.
+  Updated: 2026-03-01T17:19:29Z
+  Total Products: 18
+- [Candle Gifts for Her | Luxury Soy Candles for Women – Affinati](https://affinatiliving.com/collections/candle-gifts-for-her-affinati): Shop elegant candle gifts for her in 3-wick, Signature & Original sizes. Luxury soy blend candles perfect for birthdays, holidays & romantic gifts.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Candle Gifts for Him | Masculine Luxury Soy Candles – Affinati](https://affinatiliving.com/collections/candle-gifts-for-him-affinati): Shop candle gifts for him with bold, masculine fragrances. Available in 3-wick, Signature & Original sizes with clean-burning soy blend performance.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Mother’s Day Candles | Luxury Soy Candle Gifts for Mom – Affinati](https://affinatiliving.com/collections/mothers-day-candles-affinati): Shop Mother’s Day candles in 3-wick, Signature & Original sizes. Luxury soy blend candle gifts for mom with relaxing, elegant, room-filling fragrance.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Birthday Candle Gifts | Best Scented Candle Gift Ideas – Affinati](https://affinatiliving.com/collections/birthday-candle-gifts-affinati): Shop birthday candle gifts with luxury soy blend fragrances. Available in 3-wick, Signature & Original sizes — perfect for birthdays, celebrations & meaningful gifts.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Mint Eucalyptus Candles | Fresh Spa Soy Blend Candles – Affinati](https://affinatiliving.com/collections/mint-eucalyptus-candles-affinati): Shop mint eucalyptus candles with clean, spa-like fragrance. Available in 3-wick, Signature & Original sizes with strong scent throw and soy blend performance.
+  Updated: 2026-03-02T12:09:52Z
+  Total Products: 3
+- [Smoked Vanilla Candles | Warm, Smoky Soy Blend Candles – Affinati](https://affinatiliving.com/collections/smoked-vanilla-candles-affinati): Shop smoked vanilla candles with warm, smoky depth and creamy vanilla notes. Available in 3-wick, Signature & Original sizes with strong scent throw and soy blend performance.
+  Updated: 2026-03-02T02:22:59Z
+  Total Products: 3
+- [Lemon Eucalyptus Candles | Fresh Citrus & Herbal Soy Candles – Affinati](https://affinatiliving.com/collections/lemon-eucalyptus-candles-affinati): Shop lemon eucalyptus candles with refreshing citrus and herbal notes. Available in 3-wick, Signature & Original sizes with clean, room-filling fragrance and soy blend performance.
+  Updated: 2026-03-02T18:27:34Z
+  Total Products: 2
+- [Hand Poured Candles | Luxury Soy Blend Artisan Candles – Affinati](https://affinatiliving.com/collections/luxury-candles-affinati-1): Shop hand poured soy blend candles crafted in small batches for clean burn and strong scent throw. Available in 3-wick, Signature & Original sizes.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Modern Candles | Minimalist Luxury Soy Blend Candles – Affinati](https://affinatiliving.com/collections/modern-candles-affinati): Shop modern candles with clean design and refined fragrance. Available in 3-wick, Signature & Original sizes with strong scent throw and soy blend performance.
+  Updated: 2026-03-03T12:11:59Z
+  Total Products: 469
+- [Moisturizing Body Lotion | Hydrating, Non-Greasy Luxury Lotion – Affinati](https://affinatiliving.com/collections/moisturizing-lotions-affinati): Shop moisturizing body lotion with lightweight hydration and long-lasting fragrance. Non-greasy, fast-absorbing formula for soft, smooth skin every day.
+  Updated: 2026-03-02T21:01:47Z
+  Total Products: 45
+- [Lavender Body Lotion | Calming, Hydrating Luxury Lotion – Affinati](https://affinatiliving.com/collections/lavender-lotions-affinati): Shop lavender body lotion with lightweight hydration and soothing fragrance. Non-greasy, fast-absorbing formula perfect for daily moisture and relaxation.
+  Updated: 2026-03-02T21:38:18Z
+  Total Products: 2
+- [Candles Under $25 | Affordable Luxury Scented Candles – Affinati](https://affinatiliving.com/collections/candles-under-25-affinati): Candles Under $25 | Affordable Luxury Scented Candles – Affinati
+  Updated: 2026-03-03T20:45:02Z
+  Total Products: 406
+- [Ivory Woods Candle | Warm Woodsy Luxury Scent | Affinati](https://affinatiliving.com/collections/ivory-woods-candles-affinati): Experience the warm, refined scent of the Ivory Woods Candle from Affinati. A smooth woodsy fragrance with balanced throw and clean-burning soy wax.
+  Updated: 2026-03-03T20:57:16Z
+  Total Products: 3
+- [Bath & Body Works Candle Alternatives | Luxury Scented Candles – Affinati](https://affinatiliving.com/collections/bath-and-body-works-alternates-affinati): Looking for Bath & Body Works candle alternatives? Discover luxury candles with strong scent throw, premium wax blends, and unique fragrances by Affinati.
+  Updated: 2026-03-03T21:11:05Z
+  Total Products: 469
+- [Yankee Candle Alternatives | Luxury Scented Candles – Affinati](https://affinatiliving.com/collections/yankee-candle-alternatives-affinati): Looking for Yankee Candle alternatives? Discover luxury candles by Affinati with strong scent throw, premium wax blends, and unique fragrance collections.
+  Updated: 2026-03-03T21:18:43Z
+  Total Products: 469
 
 ## Blogs
 
@@ -7049,7 +7284,7 @@
     Author: Gerard Collins
 - [Deep Analysis](https://affinatiliving.com/blogs/deep-analysis)
   - [Why Soy Candles Are Better for Your Health (and Your Home)](https://affinatiliving.com/blogs/deep-analysis/why-soy-candles-are-better-for-your-health-and-your-home)
-    Updated: 2025-11-02T14:22:59Z
+    Updated: 2026-03-01T16:47:38Z
     Author: Gerard Collins
   - [Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home](https://affinatiliving.com/blogs/deep-analysis/best-non-toxic-room-sprays-for-a-safer-better-smelling-home)
     Updated: 2026-01-17T00:45:12Z
@@ -7064,7 +7299,7 @@
     Updated: 2025-11-02T14:28:18Z
     Author: Gerard Collins
   - [Soy Candle Burn Time Explained | How Long Do Soy Candles Last?](https://affinatiliving.com/blogs/deep-analysis/what-is-the-burn-time-of-a-soy-candle-everything-you-need-to-know)
-    Updated: 2026-02-12T12:01:00Z
+    Updated: 2026-03-01T16:43:27Z
     Author: Gerard Collins
   - [Why You Should Not Buy Yankee Candles: A Cleaner Candle Alternative](https://affinatiliving.com/blogs/deep-analysis/why-you-should-not-buy-yankee-candles-a-cleaner-candle-alternative)
     Updated: 2026-01-14T20:31:29Z
@@ -7104,10 +7339,10 @@
     Updated: 2025-09-04T20:21:30Z
     Author: Gerard Collins
   - [Best Tobacco Vanilla Candles: A Guide to Warm, Sophisticated Scents](https://affinatiliving.com/blogs/deep-analysis/best-tobacco-vanilla-candles-a-guide-to-warm-sophisticated-scents)
-    Updated: 2025-11-02T14:45:34Z
+    Updated: 2026-03-01T16:42:18Z
     Author: Gerard Collins
   - [Best Coconut Candles: Tropical Luxury for Every Home](https://affinatiliving.com/blogs/deep-analysis/best-coconut-candles-for-2025-tropical-luxury-for-every-home)
-    Updated: 2025-12-30T20:30:41Z
+    Updated: 2026-03-01T16:45:14Z
     Author: Gerard Collins
   - [Your Personality, Your Candle | Find the Perfect Scent Match](https://affinatiliving.com/blogs/deep-analysis/which-candle-scent-matches-your-personality)
     Updated: 2026-01-31T21:48:16Z
@@ -8467,6 +8702,30 @@
     Author: Gerard Collins
   - [Soy Candles Under $20 That Burn Clean | Affordable Luxury](https://affinatiliving.com/blogs/deep-analysis/soy-candles-under-20-that-burn-clean-affordable-luxury)
     Updated: 2026-02-22T19:12:17Z
+    Author: Gerard Collins
+  - [Clean Cotton Candles Guide | Fresh & Luxury Scented Candles by Affinati](https://affinatiliving.com/blogs/deep-analysis/clean-cotton-candles-guide-fresh-luxury-scented-candles-by-affinati)
+    Updated: 2026-03-01T16:17:01Z
+    Author: Gerard Collins
+  - [Apple Cinnamon Candles (3-Wick, 10oz & Original) | Affinati](https://affinatiliving.com/blogs/deep-analysis/apple-cinnamon-candles-3-wick-10oz-original-affinati)
+    Updated: 2026-03-01T16:22:56Z
+    Author: Gerard Collins
+  - [Peppermint Candles: The Ultimate Guide to Fresh, Sweet & Cozy Mint Scents by Affinati](https://affinatiliving.com/blogs/deep-analysis/peppermint-candles-the-ultimate-guide-to-fresh-sweet-and-cozy-mint-scents-by-affinati)
+    Updated: 2026-02-27T14:28:52Z
+    Author: Gerard Collins
+  - [Vanilla Bean Candles | 3-Wick & 10oz Luxury Options – Affinati](https://affinatiliving.com/blogs/deep-analysis/vanilla-bean-candles-3-wick-10oz-luxury-options-affinati)
+    Updated: 2026-02-27T14:03:52Z
+    Author: Gerard Collins
+  - [Apple Candles Guide: Best Apple Spice, Apple Cinnamon & Apple Cider Candles | Affinati](https://affinatiliving.com/blogs/deep-analysis/apple-candles-guide-best-apple-spice-apple-cinnamon-apple-cider-candles-affinati)
+    Updated: 2026-02-26T14:48:09Z
+    Author: Gerard Collins
+  - [Eco Friendly Candles That Burn Clean | Soy Blend Luxury by Affinati](https://affinatiliving.com/blogs/deep-analysis/eco-friendly-candles-that-burn-clean-soy-blend-luxury-by-affinati)
+    Updated: 2026-03-01T16:31:31Z
+    Author: Gerard Collins
+  - [Pet Safe Candles: Non Toxic Soy Candles Safe for Dogs & Cats | Affinati](https://affinatiliving.com/blogs/deep-analysis/pet-safe-candles-non-toxic-soy-candles-safe-for-dogs-cats-affinati)
+    Updated: 2026-03-01T16:35:25Z
+    Author: Gerard Collins
+  - [Clean Burning Candles for Home | 3-Wick, Wooden Wick & TriTone | Affinati](https://affinatiliving.com/blogs/deep-analysis/clean-burning-candles-for-home-3-wick-wooden-wick-tritone-affinati)
+    Updated: 2026-03-01T16:39:59Z
     Author: Gerard Collins
 - [Debates](https://affinatiliving.com/blogs/debates)
   - [Wooden Wicks vs Cotton Wicks: Best Candle Wicks in 2025](https://affinatiliving.com/blogs/debates/wooden-wicks-vs-cotton-wicks-best-candle-wicks)
