@@ -9,12 +9,12 @@
 - Created At: 2025-04-03T14:53:17Z
 - Contact Email: clientcare@bluegreenmagic.com
 - Contact Phone: 1(800) 525-7768
-- Updated At: 2026-02-25T00:00:29.439Z
+- Updated At: 2026-03-05T00:00:34.603Z
 
 ## Products
 
 - [Encaps Carpet Cleaning Chemical - 1 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps): Explore Bluegreen Magic Encaps, our premium encapsulating carpet cleaning chemical, risk free. Love it or your money back.* Free shipping on orders over $400.
-  Updated: 2026-02-24T17:57:35Z
+  Updated: 2026-03-04T04:19:57Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -112,14 +112,14 @@
     Availability: Available
     Price: $36.00 USD
 - [Encaps 8oz Sample](https://bluegreenmagic.com/products/encaps-8oz-sample): A powerful, professional-grade low moisture carpet cleaner meant to lift stains and soiling, and leaving carpet refreshed and like new. Encaps is the best in the industry with premium crystallization qualities, and a residue free result. All soil is removed during next vacuum. Try adding Newscents to give a refreshing scent to your carpet cleaning job! Premium crystallization technology bonds to soil and prevents it from reattaching to the carpet Does not require hot water extraction, improving efficiency Dries quickly Easy to vacuum Watch it work: Sorry, your browser doesn't support embedded videos.
-  Updated: 2026-02-24T05:01:08Z
+  Updated: 2026-03-04T04:19:57Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/8oz-sample-encaps.png?v=1747152496
   Price: $10.00 USD
 - [Starter Pack](https://bluegreenmagic.com/products/starter-pack): Starter Pack Bundle – Deep Clean Essentials The Starter Pack Bundle combines two powerhouse products trusted by professionals and homeowners alike: Encaps Premium Drycleaning Carpet Solution – Our flagship low-moisture premium crystallization formula that lifts dirt, neutralizes stains, and leaves carpets looking revitalized with no sticky residue. Spot & Blot Aerosol Spot Remover – A fast-acting aerosol designed to tackle tough spots and spills on contact. Just spray, blot, and watch stains disappear. Whether you're refreshing high-traffic areas or handling unexpected messes, this dynamic combo gives you everything you need for a cleaner, fresher space—right from the start.
-  Updated: 2026-02-24T17:57:50Z
+  Updated: 2026-03-02T16:15:06Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -149,10 +149,10 @@
 ## Collections
 
 - [Carpet Cleaning Chemicals](https://bluegreenmagic.com/collections/carpet-cleaning-chemicals): Explore Bluegreen Magic carpet cleaning chemicals made for professionals. Our top of the line products our  to leave carpet clean and refreshed.*
-  Updated: 2026-02-18T20:05:42Z
+  Updated: 2026-03-03T12:31:15Z
   Total Products: 13
 - [Starter Packs & Samples](https://bluegreenmagic.com/collections/starter-packs-samples)
-  Updated: 2026-02-13T19:18:51Z
+  Updated: 2026-03-03T12:31:15Z
   Total Products: 2
 
 ## Blogs
