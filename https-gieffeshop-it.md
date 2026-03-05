@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-11-26T22:38:54Z
 - Contact Email: ordinigieffeshop@gmail.com
-- Updated At: 2026-02-25T00:00:41.576Z
+- Updated At: 2026-03-05T00:00:44.623Z
 
 ## Products
 
@@ -634,7 +634,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/01457.jpg?v=1746690939
   Price: 38,00 € EUR
 - [VIMAR    V51921     SUPPORTO 1MOD. ADATTATORE GUIDA DIN](https://gieffeshop.it/products/vimar-v51921-supporto-1modulo-serie_eikon-arke-plana-adattatore-guida_din): DESCRIZIONE PRODOTTO Supporto 1M Eikon/Arké/Plana guida DIN Supporto 1 modulo per installazione su guida DIN (60715 TH35) di apparecchi Eikon, Arké e Plana, occupa 1,5 moduli da 17,5 mm, grigio RAL 7035. Fornito con diaframma di protezione
-  Updated: 2025-05-08T07:55:57Z
+  Updated: 2026-02-28T00:45:55Z
   Vendor: My Store
   Product Type: supporto
   Availability: Available
@@ -753,7 +753,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/2CSK1132CH.jpg?v=1746691018
   Price: 24,00 € EUR
 - [ABB   2CSK1318CH   SUONERIA BRONZO 230VAC BIANCO](https://gieffeshop.it/products/abb-2csk1318ch-suoneria-bronzo-230vac-1modulo-colore_bianco): DESCRIZIONE PRODOTTO ABB 2CSK1318CH SERIE CHIARA SUONERIA BRONZO 230VAC 1 MODULO COLORE BIANCO
-  Updated: 2025-05-08T07:57:00Z
+  Updated: 2026-02-28T02:40:50Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -844,7 +844,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/44A04.jpg?v=1746691061
   Price: 3,50 € EUR
 - [AVE   442ABT2-1    TRASMETTITORE BUS 2CANALI](https://gieffeshop.it/products/ave-442abt2-1-trasmettitore-bus-2canali-1-modulo): DESCRIZIONE PRODOTTO Comando con 2 pulsanti, in grado di pilotare gli attuatori AVEbus. ll dispositivo, in fase di configurazione può essere impostato come dispositivo di comando da 1 a 2 canali AVEbus, ad ognuno dei quali può essere assegnata una funzione domotica indipendente dagli altri canali – 1 modulo S.44 – da completare con tasti 44..ELA01.. o 44..ELA02.
-  Updated: 2025-05-08T07:57:44Z
+  Updated: 2026-03-04T09:19:53Z
   Vendor: My Store
   Product Type: accessori domotica
   Availability: Available
@@ -1783,8 +1783,8 @@
   Updated: 2026-02-09T14:32:48Z
   Total Products: 100
 - [ABB : TECNOLOGIA AFFIDABILE PROFESSIONALE](https://gieffeshop.it/collections/abb): ABB è leader globale in automazione, energia e domotica con soluzioni innovative, sicure e ad alte prestazioni per ogni esigenza.
-  Updated: 2025-10-31T10:19:20Z
-  Total Products: 95
+  Updated: 2026-02-26T13:59:44Z
+  Total Products: 94
 - [AVE PRODOTTI ELETTRICI INDUSTRIALI E CIVILI](https://gieffeshop.it/collections/ave): AVE professionali prodotti elettrici industriali e civili per ogni ambiente, al prezzo più basso del web
   Updated: 2025-10-24T07:19:07Z
   Total Products: 123
@@ -1951,8 +1951,8 @@
   Updated: 2025-09-16T12:17:56Z
   Total Products: 26
 - [INTERRUTTORI ED ACCESSORI MODULARI](https://gieffeshop.it/collections/modulari): Acquista interruttori modulari affidabili per ogni esigenza elettrica. Spedizione veloce, prezzi competitivi e prodotti certificati
-  Updated: 2026-02-07T15:18:30Z
-  Total Products: 185
+  Updated: 2026-02-26T13:59:44Z
+  Total Products: 184
 - [LT TERRANEO CITOFONIA E VIDEOCITOFONIA](https://gieffeshop.it/collections/lt-terraneo): Il meglio di LT TERRANEO, apparecchiature professionali di citofonia e video citofonia
   Updated: 2025-09-29T09:16:42Z
   Total Products: 84
@@ -2033,7 +2033,7 @@
 
 - [TUTTE LE NOVITA' ONLINE PRODOTTI SCONTATI](https://gieffeshop.it/blogs/news): Vieni a scoprire tutte le novità online nel sito gieffeshop.it . Tanti prodotti scontati delle migliori marche .
   - [Domotica](https://gieffeshop.it/blogs/news/domotica)
-    Updated: 2026-02-02T17:08:25Z
+    Updated: 2026-02-28T03:17:17Z
     Author: Federico Mansueti
 
 ## Store Pages
