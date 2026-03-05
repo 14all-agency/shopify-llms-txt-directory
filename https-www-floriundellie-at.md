@@ -5,12 +5,12 @@
 - Currency: EUR
 - Timezone: Europe/Vienna
 - Created At: 2025-08-02T08:47:20Z
-- Updated At: 2026-02-26T00:00:34.724Z
+- Updated At: 2026-03-05T00:00:37.144Z
 
 ## Products
 
 - [Kurzarmbody Bio Baumwolle Tiere](https://www.floriundellie.at/products/bio-baumwolle-kurzarm-body-tiere): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Oeko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:13Z
+  Updated: 2026-02-26T10:18:59Z
   Vendor: Flori&Ellie
   Product Type: BabyBody
   Availability: Available
@@ -43,60 +43,6 @@
     Availability: Available
     Price: 20,00 € EUR
   - [Weiß / 12-18 Monate](https://www.floriundellie.at/products/bio-baumwolle-kurzarm-body-ringe?variant=55296389874012)
-    Availability: Available
-    Price: 20,00 € EUR
-- [Kurzarmbody Bio Baumwolle Autos](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-autos): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Oeko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:12Z
-  Vendor: Flori&Ellie
-  Product Type: BabyBody
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Body_weiss_kurz_Auto.jpg?v=1756984594
-  - [0-3 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-autos?variant=55297711636828)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [3-6 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-autos?variant=55297711604060)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [6-12 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-autos?variant=55297711571292)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [12-18 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-autos?variant=55297711538524)
-    Availability: Available
-    Price: 20,00 € EUR
-- [Kurzarmbody Bio Baumwolle Himmel](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-himmel): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:12Z
-  Vendor: Flori&Ellie
-  Product Type: BabyBody
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Body_weiss_kurz_Himmel.jpg?v=1756984623
-  - [0-3 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-himmel?variant=55297714848092)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [3-6 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-himmel?variant=55297714815324)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [6-12 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-himmel?variant=55297714782556)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [12-18 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-himmel?variant=55297714749788)
-    Availability: Available
-    Price: 20,00 € EUR
-- [Kurzarmbody Bio Baumwolle Blüten](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-bluten): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:12Z
-  Vendor: Flori&Ellie
-  Product Type: BabyBody
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Body_weiss_kurz_Blueten.jpg?v=1756984698
-  - [0-3 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-bluten?variant=55297717174620)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [3-6 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-bluten?variant=55297717141852)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [6-12 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-bluten?variant=55297717109084)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [12-18 Monate / Weiß](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-bluten?variant=55297717076316)
     Availability: Available
     Price: 20,00 € EUR
 - [Kurzarmbody Bio Baumwolle Blumen](https://www.floriundellie.at/products/babybody-kurzarm-bio-baumwolle-blumen): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
@@ -135,62 +81,8 @@
   - [12-18 Monate / Weiß](https://www.floriundellie.at/products/babybodylangarm-bio-baumwolle-blumen?variant=55302392217948)
     Availability: Available
     Price: 22,00 € EUR
-- [Langarmbody Bio Baumwolle Autos](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-autos): Langarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:11Z
-  Vendor: Flori&Ellie
-  Product Type: BabyBody
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Body_weiss_lang_Auto.jpg?v=1756984921
-  - [0-3 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-autos?variant=55406936785244)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [3-6 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-autos?variant=55406936818012)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [6-12 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-autos?variant=55406936850780)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [12-18 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-autos?variant=55406936883548)
-    Availability: Available
-    Price: 22,00 € EUR
-- [Langarmbody Bio Baumwolle Blüten](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-bluten): Langarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:11Z
-  Vendor: Flori&Ellie
-  Product Type: BabyBody
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Body_weiss_lang_Blueten.jpg?v=1756984987
-  - [0-3 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-bluten?variant=55406950252892)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [3-6 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-bluten?variant=55406950285660)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [6-12 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-bluten?variant=55406950318428)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [12-18 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-bluten?variant=55406950351196)
-    Availability: Available
-    Price: 22,00 € EUR
-- [Langarmbody Bio Baumwolle Himmel](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-himmel): Langarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:11Z
-  Vendor: Flori&Ellie
-  Product Type: BabyBody
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Body_weiss_lang_Himmel.jpg?v=1756985059
-  - [0-3 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-himmel?variant=55406951989596)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [3-6 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-himmel?variant=55406952022364)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [6-12 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-himmel?variant=55406952055132)
-    Availability: Available
-    Price: 22,00 € EUR
-  - [12-18 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-himmel?variant=55406952087900)
-    Availability: Available
-    Price: 22,00 € EUR
 - [Langarmbody Bio Baumwolle Tiere](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-tiere): Langarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt
-  Updated: 2026-02-25T16:18:09Z
+  Updated: 2026-02-26T10:18:09Z
   Vendor: Flori&Ellie
   Product Type: BabyBody
   Availability: Available
@@ -225,15 +117,8 @@
   - [12-18 Monate / Weiß](https://www.floriundellie.at/products/langarmbody-bio-baumwolle-kreise?variant=55406957396316)
     Availability: Available
     Price: 22,00 € EUR
-- [Nikolaussackerl](https://www.floriundellie.at/products/nikolaussackerl): Nikolausbeutel nachhaltig & persönlich Überrasche deine Liebsten mit einem besonderen Geschenk: Unsere hochwertigen Nikolausbeutel aus 100% Premium-Baumwolle sorgen garantiert für strahlende Kinderaugen am Nikolaustag! Durch die individuelle Personalisierung wird jeder Beutel zu einem echten Unikat Nachhaltig & wiederverwendbar, Jahr für Jahr Größe: 23 x 34 cm – ideal zum Befüllen mit kleinen Geschenken, Nüssen und Co. Wähle zwischen 4 Motiven Gib uns deinen Wunschtext bekannt und schon kanns losgehen.
-  Updated: 2026-02-25T16:18:09Z
-  Vendor: Flori&Ellie
-  Product Type: Nikolaussackerl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Nikolaus.jpg?v=1757691971
-  Price: 12,00 € EUR
 - [Kosmetiktaschen](https://www.floriundellie.at/products/kulturtasche): Die Taschen bestehen aus 100 % recyceltem Polyester in weicher Samtoptik, mit einem Futter aus ebenfalls 100 % recyceltem Polyester. Ein hochwertiger Reißverschluss aus hochglänzendem goldfarbenem Metall rundet das Design ab. Erhältlich in zwei Größen:• S: 16 × 12 cm• L: 28 × 20 cm
-  Updated: 2026-02-11T08:34:01Z
+  Updated: 2026-02-28T12:47:29Z
   Vendor: Flori&Ellie
   Product Type: 
   Availability: Available
@@ -331,20 +216,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/HalloWelt_2.jpg?v=1768913042
   Price: 15,00 € EUR
-- [Ostersackerl](https://www.floriundellie.at/products/ostersackerl): Ostersackerl – nachhaltig und persönlich Du bist auf der Suche nach einem Ostersackerl, das jedes Jahr aufs Neue Freude macht? Dann wirst du unsere Beutel lieben! Gefertigt aus 100 % hochwertiger Premium-Baumwolle und mit praktischem Kordelzug eignen sie sich perfekt für kleine Osterüberraschungen. Ob im Garten oder im Nest: Unsere Ostersackerl zaubern garantiert strahlende Kinderaugen. Und das Beste? Mit deinem Wunschnamen personalisiert, wird jedes Sackerl zu einem ganz besonderen Einzelstück. Gib einfach beim Wunschtext den Namen ein. Der Text „vom Osterhasen für“ wird automatisch aufgedruckt. Nachhaltig & wiederverwendbar, Jahr für Jahr Größe: 23 x 34 cm Wähle zwischen 2 Motiven Gib uns deinen Wunschtext bekannt und schon kanns losgehen.
-  Updated: 2026-02-25T16:18:09Z
-  Vendor: Flori&Ellie
-  Product Type: Ostersackerl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Hase_braun_3da72037-cef3-4771-b3ff-10500e586cd4.jpg?v=1770114426
-  - [Hase braun](https://www.floriundellie.at/products/ostersackerl?variant=56637741760860)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Hase_braun_3da72037-cef3-4771-b3ff-10500e586cd4.jpg?v=1770114426
-    Price: 12,00 € EUR
-  - [Hase weiß](https://www.floriundellie.at/products/ostersackerl?variant=56637741793628)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Hase_weiss_82b34f0e-1d22-471b-a5bd-d5da46f66f13.jpg?v=1770114426
-    Price: 12,00 € EUR
 - [Caketopper Baby](https://www.floriundellie.at/products/caketopper-baby): Du suchst nach einem echten Hingucker für die Babyparty? Dann haben wir genau das Richtige für dich. Unsere süßen Caketopper machen deine Partydeko perfekt und verwandeln jede Torte in einen echten Blickfang. Nach der Feier kannst du den Caketopper als liebevolle Erinnerung an die Babyparty aufbewahren. Wählen Sie aus den Varianten „ohBaby“ und „helloBaby“. Daten: Breite: 10 cm Höhe: „helloBaby“ 17,5 cm inkl. 10 cm Stiel, „ohBaby“ 18,5 cm inkl. 10cm StielMaterial: Birkensperrholz, 3 mm Stärke Hinweis & Produktsicherheit: Holz ist ein Naturprodukt – Abweichungen in Maserung und Farbe sind möglich und machen jedes Stück einzigartig. Es handelt sich um einen Dekoartikel und kein Spielzeug. Von Feuer, Hitze, Wasser und Feuchtigkeit fernhalten.
   Updated: 2026-02-11T08:34:02Z
   Vendor: Flori&Ellie
@@ -380,34 +251,41 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Name_personalisert.jpg?v=1770125798
   Price: 10,00 € EUR
+- [Ostersackerl](https://www.floriundellie.at/products/ostersackerl-umriss): Ostersackerl – nachhaltig und persönlich Du bist auf der Suche nach einem Ostersackerl, das jedes Jahr aufs Neue Freude macht? Dann wirst du unsere Beutel lieben! Gefertigt aus 100 % hochwertiger Premium-Baumwolle und mit praktischem Kordelzug eignen sie sich perfekt für kleine Osterüberwürfe. Ob im Garten oder im Nest: Unsere Ostersackerl zaubern garantiert strahlende Kinderaugen. Und das Beste? Mit deinem Wunschnamen personalisiert, wird jedes Sackerl zu einem ganz besonderen Einzelstück. Gib einfach beim Wunschtext den Namen ein. Der Text „Frohe Ostern für“ wird automatisch aufgedruckt. Nachhaltig & wiederverwendbar, Jahr für Jahr Größe: 23 x 34 cm Gib uns deinen Wunschtext bekannt und schon kanns losgehen.
+  Updated: 2026-02-28T01:57:51Z
+  Vendor: Flori&Ellie
+  Product Type: Ostersackerl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Hase_Motiv3.jpg?v=1772180078
+  - [Hase Schwarz](https://www.floriundellie.at/products/ostersackerl-umriss?variant=56856375591260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Hase_Motiv3.jpg?v=1772180078
+    Price: 12,00 € EUR
+  - [Hase Gold](https://www.floriundellie.at/products/ostersackerl-umriss?variant=56856375558492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Hase_Motiv1_ff0b24d3-73cc-449c-9ac9-30767d3a2c11.jpg?v=1772200264
+    Price: 12,00 € EUR
 
 ## Collections
 
 - [Kurzarmbody](https://www.floriundellie.at/collections/babybody-kurzarm): Kurzarmbody 100% BioBaumwolle, individuell personalisierbar mit deinem Wunschtext
-  Updated: 2026-02-25T16:18:15Z
+  Updated: 2026-02-26T08:49:29Z
   Total Products: 6
 - [Langarmbody](https://www.floriundellie.at/collections/baby-body-langarm): Langarmbody 100% BioBaumwolle, individuell personalisierbar mit deinem Wunschtext
-  Updated: 2026-02-25T16:18:12Z
+  Updated: 2026-02-26T08:49:28Z
   Total Products: 6
 - [Geschenke](https://www.floriundellie.at/collections/accessoires)
-  Updated: 2026-02-25T16:18:11Z
-  Total Products: 3
+  Updated: 2026-02-27T13:48:17Z
+  Total Products: 4
 - [Holzprodukte](https://www.floriundellie.at/collections/holzprodukte)
   Updated: 2026-02-11T08:33:59Z
   Total Products: 6
 - [Babykleidung](https://www.floriundellie.at/collections/babykleidung)
-  Updated: 2026-02-25T16:18:15Z
+  Updated: 2026-02-26T08:49:29Z
   Total Products: 12
 - [Personalisierte T-Shirts](https://www.floriundellie.at/collections/personalisierte-t-shirts)
   Updated: 2026-02-11T08:33:59Z
   Total Products: 2
-
-## Blogs
-
-- [News](https://www.floriundellie.at/blogs/news)
-  - [Neues/Aktuelles](https://www.floriundellie.at/blogs/news/neues-aktuelles)
-    Updated: 2025-09-11T08:51:35Z
-    Author: Philipp Kugler
 
 ## Policies
 
