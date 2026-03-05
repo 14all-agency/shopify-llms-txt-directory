@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-02-13T04:38:29Z
 - Contact Email: support@mindcypress.com
-- Updated At: 2026-02-25T11:10:04.138Z
+- Updated At: 2026-03-05T00:00:26.037Z
 
 ## Products
 
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/-manager-of-quality.png?v=1683611812
   Price: $799.00 USD
 - [Enhance Your Financial Skills With Our ACCA IFRS Certification](https://mindcypress.com/products/dip-ifrs-acca-uk-instructor-led-online-training): You can become job ready by acquiring the right knowledge and expertise in IFRS. Attend our Dip IFRS classes to learn about the rules, guidelines, and reporting requirements of IFRS.
-  Updated: 2026-02-24T13:47:37Z
+  Updated: 2026-03-03T09:26:42Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/DIp-ifrs.png?v=1683612952
   Price: $1,199.00 USD
 - [Project Management Professional Certification Training Courses](https://mindcypress.com/products/project-management-professional-instructor-led-online-training): Online PMP Exam Certification Training by MindCypress has helped thousands of professionals achieve their career goals in Project Management. The exam prep training program is well-structured by expert industry leaders.
-  Updated: 2026-02-25T07:18:57Z
+  Updated: 2026-03-03T08:50:48Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/products/cryptocurrency_e46860d0-af7a-4333-8164-7a8d3de0c6f8.png?v=1681720488
   Price: $399.00 USD
 - [Build a Strong Base in Project Management With CAPM Prep Course](https://mindcypress.com/products/capm-certification-training-course-instructor-led-online-training): This thorough CAPM Certification Training program, created for aspiring professionals, offers a solid foundation in project management methodologies, processes, and best practices.
-  Updated: 2025-02-17T12:24:41Z
+  Updated: 2026-03-04T03:23:03Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/MB-920.png?v=1683615243
   Price: $360.00 USD
 - [Optimize Business Operations With MB 300 Microsoft Certification](https://mindcypress.com/products/mb-300-microsoft-dynamics-365-core-finance-and-operations-instructor-led-online-training): Learn how to configure and customize Dynamics 365 for finance and operations, as well as how to optimize business processes and improve ERP solutions with our MB 300 Microsoft certification.
-  Updated: 2025-02-17T12:24:46Z
+  Updated: 2026-03-01T08:44:59Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -459,7 +459,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/AFMMQAandHRDC.png?v=1683539021
   Price: $950.00 USD
 - [DIP IFRS ACCA UK Instructor Led Online Training](https://mindcypress.com/products/dip-ifrs-acca-uk-instructor-led-online-training-mauritius): Course Objective For financial professionals operating or planning to work in an environment that requires accounting and reporting using IFRS, a diploma in IFRS is beneficial. The Diploma IFRS programme helps professionals get ready for work in an IFRS environment by expanding a person's knowledge of IFRS, giving them an understanding of the concepts and principles that underpin them and their application in the global economy. The International Accounting Standards Board's (IASB) International Financial Reporting Standards (IFRS) are quickly becoming the standard for the accounting industry. Prerequisites Basic accounting understanding Target Audience Candidates for the ACCA SBR Examinations Candidates for the ACCA DipIFR Test Candidates for the ACCA Cert IFRS Exam. Working individuals who are in charge of creating financial reports in accordance with IFRS - International Financial Reporting Standards Training Outcomes This course is in accordance with the course outline for the ACCA Dip-IFR test and is based on the IFRS syllabus recommended by the ACCA (Association of  Chartered Accountants). In order to prepare financial statements for entities, including consolidated financial statements, participants are expected to acquire knowledge, skills, and an understanding of international financial reporting standards. Modules IAS Standards Covered IAS 1: Presentation of Financial Statement IAS 8: Accounting Policies, Change in accounting estimates and Errors IAS 10: Events after the reporting period to Complete Option IAS 2: Inventories IAS 16: Property Plant & Equipment IAS 23: Borrowing Cost IAS 20: Government Grants IAS 33: Earning Per Share IAS 37: Provisions, Contingents Liabilities & Contingent Assets Employee Benefits IAS 21: The Effect of change in Foreign Reserve IAS 12: Income Taxes IAS 24: Related Party Disclosure IAS 27: Separate Financial Statements IAS 28:  in Associates & Joint Venture IAS 34: Interim Financial Reporting IAS 36: Impairment IAS 38: Intangible Assets IAS 40:  Property IAS 41: Inventories IFRS Standards Covered IFRS 1: First Time Adoption IFRS 2: Share Based Payment IFRS 3: Business Combination IFRS 5: Non current Assets held for  & Discontinued Operations IFRS 8: Operating Segments IFRS 9: Financial Instruments IFRS 10: Consolidated Financial Statements IFRS 11: Joint Arrangements IFRS 13: Fair Value Measurement IFRS 15: Revenue IFRS 16: Leases FAQs How is IFRS different from US GAAP? The scope of the specific distinctions between IFRS and GAAP has been decreasing as a result of ongoing convergence projects between the IASB and the FASB. But, there are still some important variances, and depending on the sector a firm operates in as well as specific facts and circumstances, any one of these could lead to considerably different reported results. For instance, IFRS prohibits Last In, First Out (LIFO). Why IFRS requires capitalization of development expenditures after specific qualifying criteria are met, whereas U.S. GAAP uses a two-step procedure for impairment write-downs, increasing the likelihood of write-downs. U.S. GAAP normally requires development costs to be written off as they are incurred, with the exception of costs associated with the creation of computer software, which must be capitalized after certain conditions are met. Can a CA intern do a diploma in IFRS? Accounting professionals and CAs are eligible to apply for Diploma in the IFRS course. A relevant degree with two years of work experience in the accounting field.
-  Updated: 2025-07-15T10:45:23Z
+  Updated: 2026-03-01T03:52:02Z
   Vendor: MindCypress
   Product Type: MQA  LVC
   Availability: Available
@@ -626,7 +626,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/Advanced_LSSGB_with_Strategic_Robotic_Process_Automation.png?v=1721026229
   Price: $899.00 USD
 - [Advanced Excel Self Paced eLearning Course](https://mindcypress.com/products/advanced-excel-self-paced-elearning-course): Overview Anyone interested in mastering one of today's most important and fundamental digital abilities should pursue this specialization. One of the most frequently used types of software in offices around the world is spreadsheet software. Learning to use this program with assurance means enhancing your employability portfolio with a very useful asset. Every day, millions of job listings for positions that require Excel skills are posted in the United States alone. Learners acquire excellent Excel Skills for Business with this specialization. After completing the courses in this specialization, students will be able to create complicated spreadsheets, including dashboards for business use, and execute difficult calculations utilizing Excels more advanced features and functions. The ability to manage enormous datasets successfully, extract useful information from datasets, present data, and extract information has been learned by learners. Also, students have mastered the abilities required to validate data, prevent spreadsheet errors, automate tasks, use complex formulas and conditional logic to aid in decision-making, and develop spreadsheets that assist with forecasting and modeling data. Prerequisites An understanding of Excel Target Audience For people with a solid working understanding of Excel who want to advance to the most difficult functions and capabilities, our Advanced Excel course is appropriate. Training Outcomes Be able to enter, edit, and format data with ease using the Excel user interface. To do calculations on data, use formulae and functions. Use functions to automate selections and data searches. Evaluate the data and make the conclusions user-friendly. Make effective tables and charts for summarizing raw data. Spreadsheets should be simple to use. Check data for accuracy and fix any mistakes. Make navigating huge workbooks easier. FAQs What other knowledge is required to enroll? No prior knowledge is required from the learner. A basic understanding of Excel can be helpful. Can this skill be used in my profession? Several professions use Excel to keep track of tasks or/and important information. What will I be able to do after the completion of this course? The Excel Skills for Business Specialization you complete will be a very important addition to your resume.
-  Updated: 2025-02-17T12:24:57Z
+  Updated: 2026-03-04T00:46:32Z
   Vendor: MindCypress
   Product Type: eLearning
   Availability: Available
@@ -653,21 +653,21 @@
   Availability: Available
   Price: $599.00 USD
 - [ International Financial Modeling Analyst (CIFMA)](https://mindcypress.com/products/-international-financial-modeling-analyst-cifma): Course Objective The  International Financial Modeling Analyst (CIFMA) program is designed to equip learners with one of the most critical and in-demand skills in today’s global financial landscape. With rising economic uncertainty and frequent market disruptions, organizations increasingly rely on robust financial models to guide strategic decisions. Earning the CIFMA certification not only gives professionals a competitive edge but also empowers them to anticipate market trends, evaluate risks, and design data-driven financial strategies. The demand for skilled financial modelers is growing rapidly, and CIFMA provides comprehensive training to build strong technical and analytical capabilities. The CIFMA program develops a deep understanding of financial documentation, financial statement analysis, cash flow evaluation,  assessment, and valuation techniques. It guides learners in constructing real-world financial models using practical assumptions that reflect industry standards. This course is your pathway to mastering financial modeling with a global perspective. Prerequisites There are no mandatory prerequisites for the CIFMA certification. The program is ideal for employees, business owners, managers, consultants, and anyone looking to strengthen their financial modeling and spreadsheet skills. A basic understanding of high school mathematics and pre-calculus is recommended for smoother learning. Target Audience The  International Financial Modeling Analyst (CIFMA) program is tailored for individuals who aim to strengthen their financial decision-making, analytical expertise, and valuation capabilities. It is especially beneficial for: Banking and  Professionals Those involved in credit analysis, treasury,  banking, or portfolio management who require strong modeling abilities to evaluate financial performance, assess risk, and support strategic  decisions. Equity Analysts Professionals who analyze stocks, evaluate company valuations, study market trends, and prepare financial forecasts. CIFMA enhances their ability to build accurate valuation models and deliver insightful research reports. Chartered Accountants in M&A or Corporate Finance CAs handling due diligence, business valuations, mergers, acquisitions, and strategic financial planning will gain advanced modeling skills to support negotiations,  structuring, and financial assessments. MBA Graduates in Finance or Commerce Students and fresh graduates looking to enter the finance domain with a strong foundation in financial modeling, forecasting, and valuation to secure roles in consulting, analytics, banking, and corporate finance. Finance and Business Professionals Managers, consultants, entrepreneurs, and decision-makers who want to understand financial feasibility,  planning, business valuation, and scenario analysis to improve organizational outcomes. Training Outcomes Upon completing the  International Financial Modeling Analyst (CIFMA) program, learners will be equipped with a strong analytical foundation and advanced practical skills essential for real-world financial decision-making. The program ensures mastery in the following areas: Exploratory Data Analysis (EDA) You will learn how to examine raw financial data, identify patterns, detect anomalies, and extract meaningful insights. EDA helps in understanding market behavior and preparing data for accurate modeling. Model Building and Optimization Gain hands-on experience in constructing dynamic financial models from scratch. You will also learn how to refine, validate, and optimize these models to improve accuracy, reliability, and usability in strategic decision-making. Inferential Statistics Understand how to draw conclusions and make predictions about a larger population based on sample data. This skill is essential for forecasting market trends, evaluating financial risks, and making data-backed decisions. Advanced Financial Statement Analysis Develop the ability to interpret income statements, balance sheets, and cash flow statements at a deeper level to assess business health and profitability. Scenario & Sensitivity Analysis Learn how to test the impact of changing assumptions—such as pricing, cost, interest rates, and market conditions—on financial outcomes, helping you prepare for uncertainty. Valuation Techniques Gain hands-on experience with valuation methods including DCF (Discounted Cash Flow), comparable company analysis, precedent transactions, and asset-based valuations. Forecasting & Budgeting Skills Understand how to create forward-looking financial projections and budgets that help organizations plan growth and allocate resources effectively. Dashboarding & Data Visualization Learn to represent financial insights visually through charts, dashboards, and interactive reports to improve decision-making and communication with stakeholders. Excel Automation & Advanced Functions Master advanced Excel tools such as macros, pivot tables, financial formulas, and automation techniques to speed up modeling tasks and reduce errors. Industry-Specific Modeling Build financial models tailored to various industries like manufacturing, banking, retail, real estate, and tech—making the learning more practical and job-ready. Risk Assessment & Mitigation Understand how to identify potential financial risks, quantify them, and build models that help in designing better risk-management strategies.  Analysis & Portfolio Evaluation Learn how to assess  opportunities, evaluate portfolio performance, and use modeling techniques to optimize returns while minimizing risk. Capstone Project on Real-World Financial Data Apply all concepts learned by creating a full-scale financial model using actual market or company data—ensuring practical, job-ready experience. Modules Chapter 1: Introduction Using Excel as a Core Platform for Financial Modeling Essential Referencing Techniques & Productivity Shortcuts in Excel Designing a Clean and Scalable Financial Model Structure Developing Revenue Forecast Drivers Creating Cost Projection Drivers Preparing Detailed Asset and Debt Schedules Forecasting the Profit & Loss Statement and Balance Sheet Chapter 2: Financial Statements & Valuation Techniques Preparing and Projecting the Cash Flow Statement Understanding and Managing Circular References in Interest and Cash Calculations Analyzing Financial Statements Through Key Financial Ratios Core Corporate Finance Principles for Effective Financial Modeling Fundamental Valuation Concepts Every Analyst Should Know Performing Valuations Using DCF (Discounted Cash Flow) and Comparable Company Analysis Conducting Scenario Analysis to Evaluate Different Business Outcomes Chapter 3: Using Excel in Financial Modeling Utilizing advanced Excel tools to audit and validate financial models Techniques for reviewing and troubleshooting large models with complex formulas Applying advanced Excel functions to develop flexible and dynamic financial models Enhancing model adaptability using INDEX, MATCH, and OFFSET functions Mastering advanced charting techniques in Excel, including the creation of Football Field charts Chapter 4: Understanding Macros Gaining a Clear Understanding of Macros and Their Use in Financial Models Introduction to VBA (Visual Basic for Applications) for Automating Financial Modeling Tasks Recording and Utilizing Macros to Resolve Circular References Efficiently Implementing Monte Carlo Simulation for Revenue Analysis – Part I Implementing Monte Carlo Simulation for Revenue Analysis – Part II Session Summary and Q&A Discussion
-  Updated: 2026-02-19T09:40:58Z
+  Updated: 2026-03-02T17:49:56Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/CertifiedInternationalFinancialModelingAnalyst_CIFMA.png?v=1763549696
   Price: $899.00 USD
 - [Power BI Self Paced eLearning Course](https://mindcypress.com/products/power-bi): Power BI is a powerful business intelligence tool that can help you to quickly transform complex data into visually appealing and interactive dashboards, reports and analytics. This course is designed to provide you with a comprehensive introduction to Power BI, covering everything from the basics to more advanced topics. In this course, you will learn how to: Connect to and import data from a variety of sources Transform and clean data to create a data model Build visualizations such as charts, tables, and maps Create interactive dashboards and reports Share and collaborate on reports with others By the end of the course, you will have a solid understanding of how to use Power BI to analyze, visualize and share data. You will also have hands-on experience building your own reports and dashboards using sample data provided in the course.
-  Updated: 2026-02-23T23:20:43Z
+  Updated: 2026-03-02T14:06:05Z
   Vendor: MindCypress
   Product Type: Prerecorded Trainings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/641d478de4b0608e1b4b8b75_scaled_cover.png?v=1771845415
   Price: $199.00 USD
 - [Azure Fundamental (DP-900) Self Paced eLearning Course](https://mindcypress.com/products/azure-fundamental-dp-900-prerecorded): In this course, students will gain foundational knowledge of core data concepts and various Microsoft Azure data services. The course covers essential data concepts, including relational, non-relational, big data, and analytics. Students will explore the fundamental concepts of cloud data services within Microsoft Azure and learn about data storage and manipulation. The course is intended for individuals who want to: Learn the fundamentals of database concepts in a cloud environment. Get basic skilling in cloud data services. Build their foundational knowledge of cloud data services within Microsoft Azure.
-  Updated: 2026-02-23T23:20:29Z
+  Updated: 2026-03-02T14:06:05Z
   Vendor: MindCypress
   Product Type: Prerecorded Trainings
   Availability: Available
@@ -677,7 +677,7 @@
 ## Collections
 
 - [Home page](https://mindcypress.com/collections/frontpage)
-  Updated: 2026-02-24T12:07:50Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 11
 - [Information Technology](https://mindcypress.com/collections/information-technology): Find opportunities for a diverse field of careers in engineering, statistics, and business with a degree in data science. Working as a data scientist can be intellectually challenging, analytically satisfying, and put you at the forefront of new advances in technology. Data scientists have become more common and in demand, as big data continues to be increasingly important to the way organizations make decisions.
   Updated: 2025-02-17T12:24:40Z
@@ -689,7 +689,7 @@
   Updated: 2025-02-17T12:24:40Z
   Total Products: 4
 - [Project Management](https://mindcypress.com/collections/project-management)
-  Updated: 2026-02-23T12:07:05Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 6
 - [Quality Management](https://mindcypress.com/collections/quality-management)
   Updated: 2025-11-25T12:07:17Z
@@ -701,28 +701,28 @@
   Updated: 2025-02-17T12:24:40Z
   Total Products: 1
 - [Upcoming Trainings](https://mindcypress.com/collections/upcoming-trainings)
-  Updated: 2026-02-24T12:07:50Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 11
 - [Finance & Accounting](https://mindcypress.com/collections/finance-accounting)
-  Updated: 2026-02-24T12:07:50Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 13
 - [Instructor Led Trainings](https://mindcypress.com/collections/all)
-  Updated: 2026-02-24T12:07:50Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 42
 - [MQA  Trainings](https://mindcypress.com/collections/mqa--trainings)
   Updated: 2025-02-17T12:24:41Z
   Total Products: 7
 - [Prerecorded Trainings](https://mindcypress.com/collections/prerecorded-trainings)
-  Updated: 2026-02-23T12:07:05Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 10
 - [AVADA Email Marketing - Best Sellers](https://mindcypress.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-02-24T12:07:50Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 97
 - [AVADA Email Marketing - Newest Products](https://mindcypress.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-02-24T12:07:50Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 97
 - [Eid Offer](https://mindcypress.com/collections/eid-offer)
-  Updated: 2026-02-23T12:07:05Z
+  Updated: 2026-03-03T12:08:23Z
   Total Products: 3
 
 ## Blogs
