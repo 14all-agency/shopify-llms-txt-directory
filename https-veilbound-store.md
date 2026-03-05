@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-10-05T08:19:06Z
 - Contact Email: team@veilbound.store
-- Updated At: 2026-02-25T00:00:24.924Z
+- Updated At: 2026-03-05T00:00:34.283Z
 
 ## Products
 
 - [ASCENSION Tank – Wraith Black | 230 GSM Heavyweight Fitted Gym Tank](https://veilbound.store/products/ascension-tank-cathedral-white): ASCENSION TANK — WRAITH BLACK Engineered in 230 GSM heavyweight stretch cotton to deliver structure, density, and durability without stiffness. Cut with a fitted upper-body silhouette that frames the chest, shoulders, and arms while maintaining a clean taper through the waist. The hem finishes with a slight relaxed drape to prevent cling and create a balanced, athletic proportion. This is not a thin, lightweight gym tank. The fabric has weight. It holds shape. It maintains structure through repeated wear. Designed for: • Upper-body emphasis • Clean waist taper • Controlled drape at the hem • High-contrast front sigil detail • Reinforced neckline durability Built to look sharp under harsh lighting and maintain structure through training. Model is 6’0”, 195 lbs, wearing size Large. Limited quantities available. Ships immediately.
-  Updated: 2026-02-22T03:29:26Z
+  Updated: 2026-03-02T23:41:28Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $42.00 USD
 - [ASCENSION Tank – Wraith Black | 230 GSM Heavyweight Fitted Gym Tank](https://veilbound.store/products/copy-ascension-tank-umbra-black): ASCENSION TANK — OBSIDIAN BLACK Engineered in 230 GSM heavyweight stretch cotton to deliver structure, density, and durability without stiffness. Fitted through the chest and shoulders to emphasize upper-body width. Clean taper through the waist. Finished with a slight relaxed drape at the hem for balance and movement. The fabric holds shape under tension and maintains structure through repeated wear. No thin cling. No collapse after wash. Designed to frame: • Chest • Delts • Arms Features: • 230 GSM premium-weight stretch cotton • Structured upper-body fit • Slight relaxed bottom cut • Reinforced neckline • High-contrast front sigil print Obsidian Black delivers a deep, true black tone with sharp contrast against the front sigil. Model is 6’0”, 195 lbs, wearing size Large. Ships immediately. Secure your size while available.
-  Updated: 2026-02-24T04:24:32Z
+  Updated: 2026-02-25T22:53:59Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -44,7 +44,7 @@
     Availability: Not Available
     Price: $42.00 USD
   - [S](https://veilbound.store/products/copy-ascension-tank-umbra-black?variant=44504681906255)
-    Availability: Available
+    Availability: Not Available
     Price: $42.00 USD
   - [M](https://veilbound.store/products/copy-ascension-tank-umbra-black?variant=44504681939023)
     Availability: Available
@@ -58,32 +58,8 @@
   - [2XL](https://veilbound.store/products/copy-ascension-tank-umbra-black?variant=44504682037327)
     Availability: Available
     Price: $42.00 USD
-- [ASCENSION Compression Shirt – Wraith Black | 220 GSM Fitted Gym Top](https://veilbound.store/products/ascension-compression-wraith-black): ASCENSION COMPRESSION — WRAITH BLACK Constructed in 220 GSM heavyweight stretch performance fabric for a dense, structured second-skin fit. Designed to lock close to the body, enhancing muscle definition through the chest, shoulders, and arms while maintaining full range of motion under load. Heavier than standard compression tops, delivering a controlled feel without restricting movement. Built for: • Maximum upper-body definition • Close compression fit • Performance stretch mobility • Clean waist taper • High-contrast front sigil print 220 GSM fabric provides structure and durability without transparency or collapse. Wraith Black delivers a deep matte tone that sharpens muscle contrast under lighting. Model is 6’0”, 195 lbs, wearing size Large. Ships immediately. Secure your size while available.
-  Updated: 2026-02-24T23:43:03Z
-  Vendor: Veilbound
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/8921AF4E-A49B-4A0A-B6BA-CD34B43164FE.jpg?v=1771654365
-  - [S](https://veilbound.store/products/ascension-compression-wraith-black?variant=44504681054287)
-    Availability: Not Available
-    Price: $65.00 USD
-  - [M](https://veilbound.store/products/ascension-compression-wraith-black?variant=44504681087055)
-    Availability: Not Available
-    Price: $65.00 USD
-  - [L](https://veilbound.store/products/ascension-compression-wraith-black?variant=44504681119823)
-    Availability: Available
-    Price: $65.00 USD
-  - [XL](https://veilbound.store/products/ascension-compression-wraith-black?variant=44504681152591)
-    Availability: Available
-    Price: $65.00 USD
-  - [2XL](https://veilbound.store/products/ascension-compression-wraith-black?variant=44504681185359)
-    Availability: Not Available
-    Price: $65.00 USD
-  - [3XL](https://veilbound.store/products/ascension-compression-wraith-black?variant=44504681218127)
-    Availability: Not Available
-    Price: $65.00 USD
 - [ASCENSION 220 GSM Compression Shirt – Obsidian Black | Fitted Gym Top](https://veilbound.store/products/ascension-compression-obsidian-black): ASCENSION COMPRESSION — OBSIDIAN BLACK Constructed in 220 GSM heavyweight stretch performance fabric for a dense, structured second-skin fit. Designed to lock close to the body, enhancing muscle definition through the chest, shoulders, and arms while maintaining full range of motion under tension. Heavier than standard compression tops, delivering a controlled feel without restriction or transparency. Built for: • Maximum upper-body definition • Close compression silhouette • Performance stretch mobility • Clean waist taper • High-contrast front sigil print 220 GSM fabric provides structure and durability while maintaining flexibility under load. Obsidian Black delivers a deep, true black tone with sharp contrast against the sigil. Model is 6’0”, 195 lbs, wearing size Large. Ships immediately. Secure your size while available.
-  Updated: 2026-02-24T10:04:49Z
+  Updated: 2026-02-25T21:39:48Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -92,7 +68,7 @@
     Availability: Not Available
     Price: $65.00 USD
   - [M](https://veilbound.store/products/ascension-compression-obsidian-black?variant=44504679546959)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 USD
   - [L](https://veilbound.store/products/ascension-compression-obsidian-black?variant=44504679579727)
     Availability: Not Available
@@ -149,7 +125,7 @@
   Updated: 2026-02-21T04:53:33Z
   Total Products: 8
 - [777](https://veilbound.store/collections/777)
-  Updated: 2026-02-24T12:19:49Z
+  Updated: 2026-03-03T12:22:32Z
   Total Products: 4
 
 ## Store Pages
