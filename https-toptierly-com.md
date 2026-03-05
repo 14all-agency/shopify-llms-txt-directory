@@ -6,12 +6,12 @@
 - Timezone: America/Denver
 - Created At: 2026-01-14T02:21:57Z
 - Contact Email: s82407200@gmail.com
-- Updated At: 2026-02-26T00:00:36.935Z
+- Updated At: 2026-03-05T00:00:37.805Z
 
 ## Products
 
 - [13Pcs Makeup Brush Set Make Up Concealer Brush Blush Powder Brush Eye Shadow Highlighter Foundation Brush Cosmetic Beauty Tools - TopTierly](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools): Overview: -- Set of 13pcs of makeup brushes, including foundation brush, powder brush, shadow brush, blush brush, highlighter brush, eyeshadow brush, lip brush, eyebrow brush, concealer brush, blending brush etc. -- Soft and fine artificial fibers reduce damage to the skin. -- Plastic handle and aluminum tube, durable cosmetic brush. -- Easy to clean, not easy to shed hair. Product information: Number of brush sets: 13 The bristles are made of man-made fiber Brush bag type linen Brush handle material plastic Brush handle specification long rod Wool length specification 4.5 cm Total length specification 17CM Applicable to people Appearance colors 13 green "opp bags", 13 green "cloth bags", 13 pink "cloth bags", 13 yellow "cloth bags", 13 green "boxes", 13 pink "boxes", 13 green "cloth bags" and 13 pink "cloth bags" Packing list: Makeup brushes * 13 Product Image: - TopTierly
-  Updated: 2026-02-17T17:02:11Z
+  Updated: 2026-02-26T17:25:27Z
   Vendor: TopTier
   Product Type: 0
   Availability: Available
@@ -77,11 +77,11 @@
   Updated: 2026-01-26T19:31:35Z
   Total Products: 0
 - [AVADA - Best Sellers - TopTierly](https://toptierly.com/collections/avada-best-sellers): - TopTierly
-  Updated: 2026-02-22T06:47:39Z
-  Total Products: 5
+  Updated: 2026-02-27T12:28:22Z
+  Total Products: 1
 - [Beauty example products - TopTierly](https://toptierly.com/collections/beauty-example-products): - TopTierly
-  Updated: 2026-02-22T06:47:11Z
-  Total Products: 4
+  Updated: 2026-02-26T19:00:32Z
+  Total Products: 0
 
 ## Store Pages
 
