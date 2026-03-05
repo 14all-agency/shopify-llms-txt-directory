@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2026-01-01T18:10:13Z
-- Updated At: 2026-02-21T00:00:43.910Z
+- Updated At: 2026-03-05T01:32:33.041Z
 
 ## Products
 
@@ -192,7 +192,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/mens-box-hoodie-i-cotton-heritage-m2635-white-front-69571b43e539a.jpg?v=1767316350
     Price: $75.00 CAD
 - [Unisex Champion tie-dye hoodie](https://shafto-3.myshopify.com/products/unisex-champion-tie-dye-hoodie): If you're looking for a trendy, one-of-a-kind clothing item, this Champion tie-dye hoodie is the one! It's almost impossible to create two similar items during the garment-dyeing process, so every piece has a unique touch to it. • 82% cotton, 18% poly fleece • Fabric weight: 12 oz/yd² (406.9 g/m²) • Unique scrunch-dye, tie-dye pattern • Reverse Weave® cross-grain cut resists shrinkage • Two-ply hood with matching drawcords • 1×1 rib knit side panels, sleeve cuffs, and bottom hem • Front pouch pocket • Woven label at the back of the neck • Embroidered "C" logo on left sleeve • Blank product sourced from El Salvador
-  Updated: 2026-01-03T22:40:52Z
+  Updated: 2026-03-02T12:24:27Z
   Vendor: SHAFTO 
   Product Type: 
   Availability: Available
@@ -206,7 +206,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/unisex-champion-tie-dye-hoodie-black-left-695732ee3b141.jpg?v=1767322375
     Price: $110.00 CAD
   - [L](https://shafto-3.myshopify.com/products/unisex-champion-tie-dye-hoodie?variant=53790503862644)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/unisex-champion-tie-dye-hoodie-black-left-695732ee3b141.jpg?v=1767322375
     Price: $110.00 CAD
   - [XL](https://shafto-3.myshopify.com/products/unisex-champion-tie-dye-hoodie?variant=53790503895412)
@@ -913,14 +913,14 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/Cot3.jpg?v=1767477029
     Price: $218.43 CAD
 - [2 in 1 Electric Bikini Trimmer & Facial Shaver Waterproof Pink](https://shafto-3.myshopify.com/products/2-in-1-electric-bikini-trimmer-facial-shaver-waterproof-pink): Effortless & Painless Grooming – Silky Smooth Skin Anytime, Anywhere Specifications: Model: ZB-0236L Blade Type: R-Type Clipper Blade with Hypoallergenic Stainless-Steel Blades Design: Dual-Head (Body Shaver + Facial Shaver) Wet & Dry Use: IPX7 Waterproof, suitable for shower or bathtub use Comb Guide: 3mm & 6mm attachments for customized trimming Battery Life: 1.5 hours full charge lasts 20-30 uses (15-30 days) Charging Options: USB charging (compatible with power bank, laptop & car charger) Portability: Compact, lightweight & travel-friendly Key Features: ✔ 2-in-1 Dual-Head Design: Bikini trimmer & facial shaver in one device✔ Painless & Gentle: R-Type hypoallergenic blades prevent irritation, perfect for sensitive skin✔ Waterproof & Easy to Clean: IPX7-rated for use in wet & dry conditions✔ Rechargeable & Long-Lasting: Quick 1.5-hour charge provides up to 30 uses✔ Adjustable Trimming Lengths: Includes 3mm & 6mm comb guides for precise grooming✔ Travel-Ready Design: Compact & lightweight for easy portability Product Description: Achieve flawless, smooth skin effortlessly with the 2-in-1 Electric Bikini Trimmer & Facial Shaver. Designed with hypoallergenic stainless-steel blades, this electric razor gently removes hair from sensitive areas such as the bikini line, underarms, legs, and face—all without irritation or discomfort. The dual-head design allows you to switch between a body shaver and a facial trimmer, eliminating the need for multiple devices. Built for versatile grooming, this IPX7 waterproof shaver can be used in or out of the shower, and its detachable cutter head makes cleaning a breeze. With a quick 1.5-hour charge, enjoy 20-30 uses per charge, making it the perfect travel companion. The compact and lightweight design ensures it fits effortlessly into your purse or makeup bag, so you can maintain silky-smooth skin anytime, anywhere.
-  Updated: 2026-02-20T23:50:45Z
+  Updated: 2026-03-04T23:54:07Z
   Vendor: OBA
   Product Type: Health & Beauty > Shaving & Hair Removal > Shaving & Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/S4216bdab568641b299b8972f5ebb230bo.webp?v=1767477096
   Price: $50.00 CAD
 - [Glasses](https://shafto-3.myshopify.com/products/glasses): Children deserve the best, that's why we present to you Glasses, ideal for those who seek quality products for their little ones! Get at the best prices!
-  Updated: 2026-02-20T03:28:27Z
+  Updated: 2026-03-04T03:27:40Z
   Vendor: BigBuy Christmas
   Product Type: Toys | Fancy Dress > Fancy dress and celebration items > Costume accessories
   Availability: Available
@@ -985,7 +985,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/Zerpico-all-wooden-sunglasses-savannah-side-front.jpg?v=1767477671
   Price: $102.00 CAD
 - [Eyewood ReInvented Acetate & Wood -  Classic Wayfarers](https://shafto-3.myshopify.com/products/eyewood-reinvented-acetate-wood-classic-wayfarers): Eyewood Reinvented Classic Wayfarer – Redefining the edge of style Introducing the Wayfarer model of Eyewood Reinvented – the epitome of edgy elegance and audacious design. These aren’t just sunglasses; they’re a declaration of confidence and a badge of the bold. Crafted for the pioneers, the trendsetters, and the trailblazers, the wayfarer frames represent an unapologetic embrace of individuality. Product highlights: Iconic Wayfarer Frame Design, This is the most classic wayfarers Polarized lenses UV400, 100% UVA/UVB-protection Always comes with black lenses / add extra if you want Craftsmanship: Walnut Wood & High-Quality Acetate Lightweight Comfort: 20 grams Extensive Lens Selection: Over 25 Types Hyperextendable Hinges for a Perfect Fit  Ready Both in Matte and Glossy front Measurements L: 145 mm, W: 145 mm, H: 47 mm The Wayfarer – A legacy of cool The Eyewood Reinvented Wayfarer model takes a timeless classic and injects it with a fresh, modern ethos. With its distinctive trapezoidal frame and robust silhouette, this is a style that commands attention and respect. It's an enduring design that has graced the faces of icons, now reimagined for the visionaries of today. Precision meets passion Sculpted from exquisite walnut wood and premium acetate, every pair of Eyewood Reinvented Wayfarer sunglasses is a masterpiece. The wayfarer’s bold lines are balanced by the intricate natural patterns of wood, ensuring that no two pairs are exactly alike, much like the wearers themselves. A vision of versatility Your perspective is uniquely yours, and so should be your lenses. Select from over 25 lens choices that offer mirrored, solid, photochromic, or anti-bluelight options, each tailored to your life’s varying rhythms and scenes. Exceptional comfort, universal fit The Eyewood Reinvented Wayfarer weighs in at a mere 20 grams, making them a powerful yet nearly imperceptible addition to your daily ensemble. The hyperextendable hinges guarantee a snug and comfortable fit for a wide range of face shapes and sizes. Tailored to your eyesight Adapt the Eyewood Reinvented Wayfarer to your optical needs with ease. They come ready for  lenses or equipped with our standard high-quality lenses. Your vision, your choice. The Wayfarer's promise: Stand out Choosing the Eyewood Reinvented Wayfarer is more than a style choice; it’s a commitment to standing out. It’s for those who lead the way, who live on the edge of tomorrow and who inspire change with a glance. All our Eyewood sunglasses are delivered in a handmade, exclusive empress tree case and a microfiber pouch together with a polishing cloth. Step into the limelight with Eyewood Reinvented Wayfarer – Because iconic never goes out of style.
-  Updated: 2026-02-19T15:45:21Z
+  Updated: 2026-03-01T15:45:49Z
   Vendor: Zerpico
   Product Type: Eyewood
   Availability: Available
@@ -1050,7 +1050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/manualProduct_2Fad9ff4e02965e751dfddeb784da2bb7b.jpg?v=1767477825
   Price: $17.09 CAD
 - [Active Mike Boys Jogger Set](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set): Keep your little one cozy and stylish with this soft and breathable 100% cotton zip-up hoodie jogger set. Perfect for everyday wear, playtime, or daycare, this outfit combines comfort with a fun design that kids love. Features: Zip-up Hoodie – Long sleeve, round neck, with playful embroidered Mickey outline. Sweatpants – Elastic waistband and cuffs for all-day comfort and easy movement. Fabric – 100% premium cotton for softness, durability, and breathability. Why Parents Love It: Gentle on sensitive skin Easy to mix & match Durable for active play Machine washable
-  Updated: 2026-02-20T05:18:57Z
+  Updated: 2026-03-03T05:25:12Z
   Vendor: JuniorKids
   Product Type: Casual Boys
   Availability: Available
@@ -1088,26 +1088,26 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image_48.png?v=1767478061
     Price: $27.50 CAD
 - [Basket set DKD Home Decor 149582](https://shafto-3.myshopify.com/products/basket-set-dkd-home-decor-149582): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Basket set DKD Home Decor 149582 at the best price. Approx. dimensions: 22 x 22 cm Type: Basket set
-  Updated: 2026-02-20T03:20:13Z
+  Updated: 2026-03-04T03:18:49Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Bathroom > Bathroom accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424001625635_S3007360_P32.jpg?v=1767480708
   Price: $60.99 CAD
 - [Wineglass DKD Home Decor Crystal Turquoise (150 ml)](https://shafto-3.myshopify.com/products/wineglass-dkd-home-decor-crystal-turquoise-150-ml): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Wineglass DKD Home Decor Crystal Turquoise (150 ml) at the best price. Colour: Turquoise Material: Crystal Characteristics: Suitable for dishwashers Not suitable for microwaves Unsuitable for microwave Capacity: 150 ml Approx. dimensions: 7 x 7 x 20 cm
-  Updated: 2026-02-20T03:29:21Z
+  Updated: 2026-03-04T03:27:27Z
   Vendor: DKD Home Decor
   Product Type: Kitchen | Gourmet > Kitchenware > Glasses, cups and jugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424001950164_S3037330_P23.jpg?v=1767480730
-  Price: $44.15 CAD
+  Price: $40.72 CAD
 - [Equip 333313 разпределител на напрежение (PDU) 8 Изход(и) за променлив ток 1U Черен, Сребърен (333313)](https://shafto-3.myshopify.com/products/equip-333313-разпределител-на-напрежение-pdu-8-изходи-за-променлив-ток-1u-черен-сребърен-333313): RoHS stands for Restriction of Hazardous Substances. RoHS, also known as Directive 2002/95/EC, originated in the European Union and restricts the use of specific hazardous materials found in electrical and electronic products (known as EEE). All applicable products in the EU market after July 1, 2006 must pass RoHS compliance. The substances banned under RoHS are lead (Pb), mercury (Hg), cadmium (Cd), hexavalent chromium (CrVI), polybrominated biphenyls (PBB), polybrominated diphenyl ethers (PBDE), and four different phthalates (DEHP, BBP, BBP, DIBP).
-  Updated: 2026-02-20T23:20:00Z
+  Updated: 2026-03-04T23:15:18Z
   Vendor: Equip
   Product Type: Elektronika -> Elektronikai tartozékok -> Tápellátás -> Elosztók és túlfeszültségvédők
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/bf1d7060-41ac-4c41-97db-e8bc3e87e4d3.png?v=1767481239
-  Price: $29.12 CAD
+  Price: $29.94 CAD
 - [Men’s box hoodie](https://shafto-3.myshopify.com/products/men-s-box-hoodie-7): This hoodie’s tightly knit fleece delivers premium softness. The drop shoulders and overlapped neckline give it a clean, boxy shape—made to look fresh every time you wear it. • 60% cotton, 40% polyester • Carbon Grey color is 55% cotton, 45% polyester • 3-end fleece • Fabric weight: 10 oz./yd.² (339 g/m²) • Oversized, relaxed fit • Set-in sleeves • Drop shoulders • Overlapped neckline • 1 × 1 rib at the cuffs and waistband • Double-layered hood in self fabric • Single-jersey neck tape on the inside of the back • Self-fabric half moon on the inside of the back • Blank product sourced from Pakistan
   Updated: 2026-01-07T07:36:42Z
   Vendor: SHAFTO 
