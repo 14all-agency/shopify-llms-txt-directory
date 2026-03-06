@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-08T13:44:36Z
 - Contact Email: runwithfreedom1@gmail.com
-- Updated At: 2026-02-27T00:00:42.475Z
+- Updated At: 2026-03-06T00:00:46.102Z
 
 ## Products
 
@@ -103,6 +103,10 @@
   Updated: 2026-01-14T13:46:35Z
 - [Pre-Order: Challenger Running Vest + 500ml Flask (Ships May 2026)](https://runwithfreedom.com/pages/pre-order): 
   Updated: 2026-02-17T12:55:55Z
+- [Shop now. Pay with Klarna. | Run With Freedom®](https://runwithfreedom.com/pages/klarna): 
+  Updated: 2026-03-03T11:43:35Z
+- [About Us](https://runwithfreedom.com/pages/about-us)
+  Updated: 2026-03-04T12:19:48Z
 
 ## Policies
 
