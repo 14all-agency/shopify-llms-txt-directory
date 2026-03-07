@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-05-28T19:18:09Z
 - Contact Email: contact@pantofinimar.ro
-- Updated At: 2026-02-27T22:23:36.483Z
+- Updated At: 2026-03-07T00:00:24.735Z
 
 ## Products
 
@@ -101,7 +101,7 @@
     Availability: Available
     Price: 289,00 lei RON
 - [Pantofi Gri din Piele Naturală cu Toc de 5 cm și Accesoriu Metalic – Eleganță și Confort](https://pantofinimar.ro/products/pantofi-gri-din-piele-natural-cu-toc-de-5-cm-i-accesoriu-metalic-elegan-i-confor): Pantofii eleganți din piele naturală gri sunt alegerea perfectă pentru femeia care caută un echilibru între rafinament și confort. Detaliul metalic aplicat pe partea frontală adaugă un accent modern, în timp ce culoarea neutră permite asortarea ușoară cu o varietate de ținute – de la office la casual-chic. Tocul mediu, de 5 cm, este suficient pentru a alungi silueta fără a compromite confortul. Interiorul moale și talpa flexibilă fac ca acești pantofi să fie potriviți pentru purtare zilnică, în special în mediile profesionale. Caracteristici principale: Material exterior: Piele naturală 100% Culoare: Gri lucios Accesoriu frontal metalic cu imprimeu tip piele de șarpe Toc gros, stabil, înălțime 5 cm Căptușeală din piele – respirabilitate și confort Design elegant, ideal pentru birou sau evenimente Fabricat în România Adaugă o notă de stil sofisticat garderobei tale cu acești pantofi eleganți, realizați cu grijă din materiale premium.
-  Updated: 2026-02-25T20:54:03Z
+  Updated: 2026-03-04T11:22:59Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Eleganti
   Availability: Available
@@ -131,7 +131,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Sandale din piele naturală perforate cu toc 7 cm – NIMAR](https://pantofinimar.ro/products/sandale-elegante-din-piele-naturala-perforate-cu-toc-de-7-cm-aerisite-comode-și-rafinate): Sandale elegante din piele naturală, cu toc de 7 cm și design perforat. Confortabile, feminine și ideale pentru sezonul cald. Fabricate în România.
-  Updated: 2026-02-27T10:05:56Z
+  Updated: 2026-03-05T18:25:36Z
   Vendor: NIMAR PROD SRL
   Product Type: Sandale
   Availability: Available
@@ -476,7 +476,7 @@
     Availability: Available
     Price: 239,00 lei RON
 - [Sandale crem damă din piele naturală – perforate, toc gros 5 cm, stil elegant și aerisit](https://pantofinimar.ro/products/sandale-crem-dama-din-piele-naturala-perforate-toc-gros-5-5-cm-stil-elegant-și-aerisit): Simte-te confortabilă și elegantă în fiecare zi cu aceste sandale crem din piele naturală, cu toc gros de 5 cm și un design modern perforat în forme fluide. Construcția slingback cu baretă reglabilă oferă susținere sigură și o potrivire perfectă, în timp ce modelul perforat asigură o ventilație naturală a piciorului. Culoarea neutră le face ușor de asortat la rochii, pantaloni sau ținute office, iar tocul mediu este perfect pentru o purtare de lungă durată – fie că ești la birou, la un eveniment sau în oraș. ✔️ Culoare: Crem deschis✔️ Material: 100% piele naturală (interior & exterior)✔️ Toc: 5 cm – gros, stabil, finisaj lucios✔️ Design perforat elegant, cu model fluid✔️ Închidere slingback cu baretă ajustabilă✔️ Potrivite pentru ținute office, casual elegante sau evenimente✔️ Produs fabricat în România Aceste sandale crem perforate sunt alegerea ideală pentru femeile care vor să combine stilul modern cu confortul autentic.
-  Updated: 2026-02-25T13:52:32Z
+  Updated: 2026-03-02T14:20:24Z
   Vendor: NIMAR PROD SRL
   Product Type: Sandale
   Availability: Available
@@ -500,7 +500,7 @@
     Availability: Available
     Price: 289,00 lei RON
 - [Balerini damă din piele naturală cu imprimeu șarpe și detaliu multicolor – stil urban, confort de zi cu zi](https://pantofinimar.ro/products/balerini-dama-din-piele-naturala-cu-imprimeu-șarpe-și-detaliu-multicolor-stil-urban-confort-de-zi-cu-zi): Descoperă un model fresh și nonconformist cu acești balerini damă din piele naturală, cu imprimeu snake silver și detaliu multicolor geometric aplicat pe zona călcâiului. Silueta clasică este reinterpretată modern, adăugând personalitate și stil oricărei ținute. Talpa joasă din cauciuc flexibil asigură confort pe tot parcursul zilei, iar interiorul căptușit oferă o senzație plăcută la purtare. Sunt alegerea perfectă pentru plimbări, birou sau ținute casual-chic de zi. ✔️ Culoare: Argintiu texturat + imprimeu colorat la spate✔️ Material: 100% piele naturală (interior & exterior)✔️ Design: model slip-on, balerini clasici✔️ Talpă joasă confortabilă, antiderapantă✔️ Detaliu multicolor pe călcâi – efect vizual vibrant✔️ Produs fabricat în România Acești balerini cu imprimeu deosebit adaugă un plus de stil chiar și celei mai simple ținute. Încălță-i și fii gata de o zi activă în oraș!
-  Updated: 2025-12-18T12:00:13Z
+  Updated: 2026-02-28T11:39:10Z
   Vendor: NIMAR PROD SRL
   Product Type: Balerini
   Availability: Available
@@ -701,7 +701,7 @@
     Availability: Available
     Price: 239,00 lei RON
 - [Sandale elegante damă cu barete argintii și toc subțire de 7 cm](https://pantofinimar.ro/products/sandale-elegante-dama-cu-barete-argintii-și-toc-subțire-de-7-cm): Sandale elegante pentru ocazii speciale, realizate din piele ecologică argintie, cu barete subțiri și închidere cu baretă reglabilă la gleznă. Tocul subțire de 7 cm oferă un plus de rafinament și grație. Ideale pentru ținute de seară, evenimente, nunți sau petreceri. Material: piele ecologică argintie Interior: piele ecologică bej Toc subțire: 7 cm Închidere cu baretă la gleznă Stil: elegant, de ocazie, rafinat
-  Updated: 2026-02-23T05:49:55Z
+  Updated: 2026-03-04T12:57:06Z
   Vendor: Pantofi Nimar
   Product Type: Pantofi Casual
   Availability: Available
@@ -965,7 +965,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Sandale elegante din piele verde cu toc gros imprimat 7 cm – model cu baretă](https://pantofinimar.ro/products/sandale-elegante-din-piele-verde-cu-toc-gros-imprimat-7-cm-model-cu-bareta): Sandale elegante de damă, realizate din piele naturală verde, cu toc gros de înălțime medie decorat cu imprimeu floral pastel. Designul modern este completat de o baretă subțire reglabilă și un accesoriu decorativ în partea frontală, oferind confort și rafinament. Perfecte pentru ocazii speciale, nunți, petreceri sau ținute de zi cu zi în sezonul cald. Caracteristici principale: Piele naturală de calitate superioară Toc gros mediu, stabil și comod Baretă reglabilă cu închidere metalică Accesoriu decorativ elegant Căptușeală interioară moale Ideal pentru: evenimente, ținute de zi elegante, outfituri estivale.
-  Updated: 2025-11-08T18:04:32Z
+  Updated: 2026-03-04T05:39:26Z
   Vendor: NIMAR PROD SRL
   Product Type: Sandale
   Availability: Available
@@ -995,7 +995,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Pantofi eleganți bej cu textură piele de reptilă și toc gros 7 cm](https://pantofinimar.ro/products/pantofi-eleganți-bej-cu-textura-piele-de-reptila-și-toc-gros-7-cm): Pantofi eleganți de damă, realizați din piele naturală bej cu imprimeu discret de tip reptilă, ideali pentru evenimente sau ținute office. Modelul clasic cu vârf ascuțit și toc gros de 5.5 cm oferă stabilitate și confort pe parcursul întregii zile. Designul rafinat completează perfect orice ținută elegantă sau casual chic. Interiorul căptușit și talpa flexibilă asigură un plus de confort la purtare. ✔️ Piele naturală premium✔️ Toc stabil de 7 cm✔️ Design elegant și versatil✔️ Ideal pentru birou, evenimente sau ocazii speciale
-  Updated: 2025-11-17T17:57:11Z
+  Updated: 2026-03-04T21:49:07Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Stiletto
   Availability: Available
@@ -1055,7 +1055,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Pantofi Stiletto Negri din Piele Naturală cu Toc de 7 cm – Eleganță și Rafinament](https://pantofinimar.ro/products/pantofi-stiletto-negri-din-piele-naturala-cu-toc-de-7-cm-eleganța-și-rafinament): Adaugă o notă de rafinament garderobei tale cu acești pantofi stiletto negri din piele naturală, perfecți pentru evenimente speciale sau zile de birou în care vrei să impresionezi. Designul lor elegant, cu vârf ascuțit și detaliu lac lucios pe partea frontală, atrage privirea subtil, dar cu stil. Tocul mediu de 7 cm îți oferă înălțime și postură, fără a compromite confortul, iar finisajul discret texturat adaugă un plus de sofisticare. Realizați manual din piele naturală de calitate superioară, acești pantofi sunt o alegere durabilă și versatilă pentru orice sezon.
-  Updated: 2025-10-13T15:39:55Z
+  Updated: 2026-03-03T22:01:28Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Stiletto
   Availability: Available
@@ -1085,7 +1085,7 @@
     Availability: Available
     Price: 289,00 lei RON
 - [Pantofi Stiletto Negri din Piele Naturală cu Toc 7 cm – Eleganță și Stil](https://pantofinimar.ro/products/pantofi-stiletto-negri-din-piele-naturala-cu-toc-7-cm-eleganța-și-stil): Transformă-ți fiecare apariție într-o declarație de stil cu acești pantofi stiletto negri din piele naturală! 👠✨✔️ Design elegant, clasic, ideal pentru birou sau evenimente speciale✔️ Vârf ascuțit și detaliu lucios pentru un plus de rafinament 💎✔️ Toc de 7 cm – perfect pentru confort și alungirea siluetei 🔝✔️ Interior căptușit cu piele naturală – respirație optimă pentru picior 👣✔️ Potrivire excelentă și susținere stabilă Acești pantofi sunt alegerea ideală pentru femeia modernă care caută eleganță fără compromis. Se asortează ușor cu rochii, fuste, pantaloni office sau ținute de ocazie. 🔸 Fabricat în România | Calitate Premium | Piele Naturală 100%
-  Updated: 2025-12-02T12:00:48Z
+  Updated: 2026-03-03T09:11:48Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Stiletto
   Availability: Available
@@ -1115,7 +1115,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Pantofi Verzi din Piele Naturală cu Toc de 7 cm și Detaliu Imprimeu – Eleganță Vibrantă](https://pantofinimar.ro/products/pantofi-verzi-din-piele-naturala-cu-toc-de-7-cm-și-detaliu-imprimeu-eleganța-vibranta): Ieși în evidență cu un strop de culoare! 💚 Acești pantofi verzi din piele naturală sunt alegerea perfectă pentru femeile care iubesc eleganța cu personalitate:✨ Design rafinat cu detaliu textil imprimat în partea frontală👠 Toc de 7 cm – înălțime ideală pentru confort și postură elegantă🧵 Piele naturală fină, moale la atingere și rezistentă în timp👣 Căptușeală interioară din piele – confort sporit chiar și la purtări îndelungate🎯 Se potrivesc perfect atât la ținute de birou, cât și la cele de eveniment Pantofii verzi sunt o declarație de stil care te diferențiază fără efort. 🌿 Combină-i cu nuanțe neutre sau imprimeuri florale pentru un look memorabil. 🔸 Realizați în România | Calitate Superioară | Piele Naturală 100%
-  Updated: 2025-10-17T20:09:57Z
+  Updated: 2026-03-01T10:32:07Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Stiletto
   Availability: Available
@@ -1169,7 +1169,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Sandale Damă Bej cu Toc Gros și Decupaj Spate – Model Elegant Perforat](https://pantofinimar.ro/products/sandale-dama-bej-cu-toc-gros-și-decupaj-spate-model-elegant-perforat): 👡 Eleganță și lejeritate într-un singur model! Aceste sandale damă bej din piele naturală îți oferă confort și stil în zilele călduroase. Decupajul la spate și perforațiile florale conferă un look delicat și aerisit. 🌸 🔝 Tocul gros mediu oferă stabilitate și susținere, fiind ideal pentru birou, evenimente sau plimbări de seară. Ușor de asortat, aceste sandale completează perfect o rochie vaporoasă sau o ținută office smart casual. 💼 ✨ Detalii: Piele naturală bej Toc gros stabil – ~5 cm Design decupat la spate, cu model perforat vegetal Închidere reglabilă discretă Fabricate cu grijă în România 🇷🇴 📦 Comandă acum pe pantofinimar.ro – livrare rapidă & retur gratuit! 💌
-  Updated: 2026-02-26T17:07:32Z
+  Updated: 2026-03-05T21:47:15Z
   Vendor: NIMAR PROD SRL
   Product Type: Sandale
   Availability: Available
@@ -1325,7 +1325,7 @@
     Availability: Available
     Price: 289,00 lei RON
 - [Pantofi decupați din piele naturală cu baretă – negru, toc gros 5 cm](https://pantofinimar.ro/products/pantofi-decupați-din-piele-naturala-cu-bareta-negru-toc-gros-5-cm): 💎 Răcorește-ți pașii cu acești pantofi eleganți din piele naturală decupată, cu baretă reglabilă la spate! Decupajele artistice oferă respirabilitate în zilele călduroase, iar tocul gros de 5 cm asigură stabilitate și confort pe tot parcursul zilei. Designul versatil îi face perfecți atât pentru birou, cât și pentru evenimente casual 👜✨ 👠 Toc: 5 cm
-  Updated: 2026-02-22T18:33:37Z
+  Updated: 2026-02-28T07:32:59Z
   Vendor: NIMAR PROD SRL
   Product Type: Sandale
   Availability: Available
@@ -1487,7 +1487,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Pantofi eleganți negri din piele naturală cu imprimeu floral și decupaj lateral](https://pantofinimar.ro/products/pantofi-eleganți-negri-din-piele-naturala-cu-imprimeu-floral-și-decupaj-lateral): Adaugă un strop de rafinament ținutelor tale cu acești pantofi eleganți din piele naturală neagră 🖤! Designul cu decupaj lateral și imprimeul floral discret 🌸 conferă un aer sofisticat, ideal pentru birou, evenimente sau întâlniri speciale 💼🎉. Tocul subțire de 7 cm îți oferă înălțime 👠 și confort pe durata întregii zile. Un model versatil, ușor de asortat și extrem de feminin 💃.
-  Updated: 2026-02-11T20:11:43Z
+  Updated: 2026-03-03T09:11:55Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Eleganti
   Availability: Available
@@ -1541,7 +1541,7 @@
     Availability: Available
     Price: 289,00 lei RON
 - [Balerini albi din piele naturală cu model floral decupat și talpă roz – confort și stil](https://pantofinimar.ro/products/balerini-albi-din-piele-naturala-cu-model-floral-decupat-și-talpa-roz-confort-și-stil): ✨ Alege eleganța casual cu acești balerini albi din piele naturală 🕊️, perfecți pentru zilele călduroase de primăvară și vară! Cu un model floral decupat și perforații delicate pentru respirabilitate 👡, acești balerini combină perfect stilul feminin cu comoditatea absolută. Talpa roz pastel adaugă un contrast modern și delicat 🌸. Ideali pentru plimbări, birou sau evenimente casual 🌞💼. 📍 Produs fabricat în România, lucrat manual cu atenție la detalii.📏 Toc: 3 cm – stabil, discret și confortabil.
-  Updated: 2026-02-26T05:56:56Z
+  Updated: 2026-03-01T09:29:59Z
   Vendor: NIMAR PROD SRL
   Product Type: Balerini
   Availability: Available
@@ -1982,7 +1982,7 @@
     Availability: Available
     Price: 289,00 lei RON
 - [Pantofi Casual Bleumarin din Piele Naturală cu Imprimeu Geometric – Talpă Joasă, Ultra Comozi](https://pantofinimar.ro/products/pantofi-casual-bleumarin-din-piele-naturala-cu-imprimeu-geometric-talpa-joasa-ultra-comozi): Descoperă pantofii casual perfecti pentru ținutele de zi cu zi! 👞 Construiți din piele naturală de calitate, acești pantofi bleumarin impresionează prin imprimeul geometric multicolor și finisajele premium. Talpa joasă, flexibilă și ușor înălțată îți oferă confort pe tot parcursul zilei, fie că mergi la birou, la plimbare sau la cumpărături. ✔️ Avantaje: Piele naturală 100% – respirabilă și durabilă Design modern, cu imprimeu geometric colorat Talpă flexibilă, aderentă și comodă Potriviți pentru ținute casual, smart casual sau office Se adaptează ușor la orice tip de picior datorită inserțiilor elastice Realizați în România, cu atenție la detalii 💙 Alege-i pentru un look fresh și confortabil! Se potrivesc de minune la jeans, pantaloni lejeri sau chiar rochii casual. Caracteristici principale Material exterior: Piele naturală, imprimeu geometric Culoare: Bleumarin, multicolor Interior: Piele naturală moale Talpă: Joasă, ușor flexibilă, cu inserții antiderapante Înălțime talpă: ~2,5 cm Sistem închidere: Slip-on (fără șireturi) Producător: NIMAR PROD SRL
-  Updated: 2026-02-26T20:37:52Z
+  Updated: 2026-02-28T23:52:57Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Casual
   Availability: Available
@@ -2489,7 +2489,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Pantofi damă negri eleganți din piele naturală cu toc subțire 7 cm](https://pantofinimar.ro/products/pantofi-dama-negri-eleganți-din-piele-naturala-cu-toc-subțire-7-cm): Descoperă eleganța absolută cu acești pantofi damă negri din piele naturală 👠, perfecți pentru birou 💼, evenimente speciale 🎉 sau seri elegante 🌙. Cu un toc subțire de 7 cm ✨, pantofii oferă o postură rafinată, alungesc silueta și adaugă un plus de feminitate 💃. Designul clasic îi face ușor de asortat la rochii 👗, fuste sau ținute office. Disponibili în mărimi 34 – 41 📏, acești pantofi sunt alegerea ideală pentru femeile care caută un mix între confort și stil. 👉 Comandă acum pantofii negri eleganți din piele naturală cu toc de 7 cm ⭐, exclusiv pe pantofinimar.ro!
-  Updated: 2026-02-22T10:48:37Z
+  Updated: 2026-03-06T05:30:47Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Eleganti
   Availability: Available
@@ -2519,7 +2519,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Pantofi damă eleganți bej cu fundiță cu perle și toc 7 cm – mărimi 34-41 | Pantofi Nimar](https://pantofinimar.ro/products/pantofi-dama-eleganți-bej-cu-fundița-cu-perle-și-toc-7-cm-marimi-34-41-pantofi-nimar): Alege rafinamentul absolut cu acești pantofi eleganți bej din piele naturală 👠, decorați cu o fundiță spectaculoasă cu perle și cristale ✨. Cu un toc subțire de 7 cm 💎, acești pantofi oferă un plus de eleganță, subliniază silueta și se potrivesc perfect la evenimente speciale 🎉, nunți 💍 sau ținute de seară 🌙. Disponibili în mărimi 34 – 41 📏, pantofii îmbină confortul cu eleganța sofisticată, fiind alegerea ideală pentru femeile care vor să iasă în evidență 👑. 👉 Comandă acum acești pantofi eleganți bej cu fundiță și toc de 7 cm, doar pe pantofinimar.ro!
-  Updated: 2026-02-05T08:13:40Z
+  Updated: 2026-03-03T19:55:36Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Eleganti
   Availability: Available
@@ -2609,7 +2609,7 @@
     Availability: Available
     Price: 329,00 lei RON
 - [Pantofi eleganți din piele argintii, efect perlat & model reptilă – toc 7 cm (34–41)](https://pantofinimar.ro/products/pantofi-eleganți-din-piele-argintii-efect-perlat-model-reptila-toc-7-cm-34-41): ✨ Pantofi eleganți din piele naturală, într-un argintiu perlat modern, cu efect discret de solzi pentru un look sofisticat. Forma clasică, vârful ușor rotunjit și tocul stabil de 7 cm alungesc frumos linia piciorului, păstrând confortul pe tot parcursul zilei. Branțul moale și căptușeala fină îți oferă lejeritate la fiecare pas, iar talpa flexibilă asigură aderență bună. Se potrivesc perfect la rochii, fuste ori ținute office smart-casual. Alege-i pentru evenimente, birou sau ieșiri de seară – strălucesc discret și se combină ușor cu argintiu, nude, negru sau pasteluri. Disponibili din 34 până în 41, ideali și pentru picioare înguste datorită calapodului comod. 💎— Fabricat în România — calitate Nimar. Specificații rapide:• Material: piele naturală, textură reptilă perlată• Culoare: argintiu deschis• Înălțime toc: 7 cm• Vârf: ușor rotunjit• Căptușeală/branț: piele, spumă confort• Talpă: flexibilă, antiderapantă• Mărimi: 34–41
-  Updated: 2026-02-08T12:15:00Z
+  Updated: 2026-02-28T18:57:07Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Eleganti
   Availability: Available
@@ -2639,7 +2639,7 @@
     Availability: Available
     Price: 299,00 lei RON
 - [Pantofi eleganți damă bej cu toc 7 cm și detaliu texturat spate – piele naturală](https://pantofinimar.ro/products/pantofi-eleganți-dama-bej-cu-toc-7-cm-și-detaliu-texturat-spate-piele-naturala): 👠 Pantofii eleganți din piele naturală bej sunt alegerea ideală pentru doamnele care caută un mix între confort și rafinament. Tocul mediu de 7 cm oferă stabilitate și o postură grațioasă, iar detaliul texturat auriu de pe spate adaugă un efect sofisticat ✨. ✔️ Pot fi purtați atât la birou, cât și la evenimente speciale✔️ Design clasic, ușor de asortat la ținute diverse✔️ Disponibili în mărimi de la 34 până la 41 Alege eleganța și confortul la fiecare pas cu acești pantofi versatili, creați pentru femeile moderne care pun accent pe stil și calitate. 🌸 📊 Specificații rapide Material: 100% piele naturală Culoare: Bej cu detaliu texturat auriu la spate Înălțime toc: 7 cm Mărimi disponibile: 34 – 41 Interior: Piele naturală moale Talpă: Antiderapantă, confortabilă
-  Updated: 2026-02-22T07:56:47Z
+  Updated: 2026-03-05T17:25:26Z
   Vendor: NIMAR PROD SRL
   Product Type: Pantofi Eleganti
   Availability: Available
@@ -3020,7 +3020,7 @@
     Availability: Available
     Price: 399,00 lei RON
 - [Botine Dama Piele Naturală Negre – Toc Subțire 7 cm, Model Elegant cu Detalii Decorative](https://pantofinimar.ro/products/botine-dama-piele-naturala-negre-toc-subțire-5-cm-model-elegant-cu-detalii-decorative): Descoperă eleganța autentică cu aceste botine dama din piele naturală, realizate într-un design rafinat care combină stilul clasic cu detalii moderne. Modelul se remarcă prin inserțiile texturate cu aspect animal print discret, care adaugă un plus de personalitate și finețe. Concepute cu un toc subțire de 7 cm, aceste botine oferă echilibrul perfect între înălțime și confort, fiind ideale pentru purtarea zilnică, dar și pentru ocazii elegante. Pielea naturală de înaltă calitate se mulează frumos pe picior, iar fermoarul lateral asigură încălțarea rapidă și practică. Talpa subțire, flexibilă, susține mersul natural, iar calapodul comod este gândit pentru a reduce oboseala piciorului. Aceste botine negre sunt ușor de asortat cu ținute office, casual sau elegante, fiind o alegere excelentă pentru sezonul toamnă–iarnă. 🔍 CARACTERISTICI PRODUS Material exterior: Piele naturală 100% Culoare: Negru Toc: 7 cm, subțire, elegant Detalii: Inserții texturate cu model discret Închidere: Fermoar lateral Tip vârf: Ascuțit Talpă: Subțire, flexibilă Stil: Elegant / Office / Casual-chic Sezon: Toamnă – Iarnă – Primăvară
-  Updated: 2026-02-05T06:17:40Z
+  Updated: 2026-02-28T15:01:37Z
   Vendor: NIMAR PROD SRL
   Product Type: Botine
   Availability: Available
@@ -3048,16 +3048,16 @@
 ## Collections
 
 - [Sandale Elegante](https://pantofinimar.ro/collections/sandale-elegante): Alege sandale elegante din piele naturală pentru evenimentele importante din viața ta. Tocul subțire sau mediu, designul feminin și calitatea superioară definesc fiecare pereche.
-  Updated: 2026-02-27T12:27:44Z
+  Updated: 2026-03-06T12:27:05Z
   Total Products: 24
 - [Pantofi Eleganti](https://pantofinimar.ro/collections/pantofi-eleganti): Pantofii eleganți din colecția noastră sunt creați pentru ocazii speciale. Linii rafinate, detalii subtile și confortul pielii naturale se îmbină într-un stil inconfundabil.
-  Updated: 2026-02-26T12:29:03Z
+  Updated: 2026-03-06T12:27:05Z
   Total Products: 27
 - [Balerini](https://pantofinimar.ro/collections/balerini): Balerinii din piele naturală sunt alegerea ideală pentru femeia activă. Comozi, versatili și eleganți, se potrivesc perfect atât cu ținute casual, cât și office.
-  Updated: 2026-02-26T12:29:03Z
+  Updated: 2026-03-01T12:52:12Z
   Total Products: 10
 - [Sandale Cu Toc Gros](https://pantofinimar.ro/collections/sandale-cu-toc-gros): Sandalele cu talpă joasă din piele naturală oferă lejeritate și stil în sezonul cald. Designul minimalist și materialele premium asigură confort pe tot parcursul zilei.
-  Updated: 2026-02-27T12:27:44Z
+  Updated: 2026-03-06T12:27:05Z
   Total Products: 28
 - [Pantofi Clasici Barbati](https://pantofinimar.ro/collections/pantofi-clasici-barbati): Pantofii clasici pentru bărbați reprezintă alegerea ideală pentru un stil elegant și profesional. Construiți din piele naturală, cu finisaje impecabile, perfecți pentru birou sau evenimente speciale.
   Updated: 2025-08-22T12:48:09Z
@@ -3066,13 +3066,13 @@
   Updated: 2026-02-04T12:25:18Z
   Total Products: 14
 - [Botine Dama](https://pantofinimar.ro/collections/botine-dama): Botinele pentru damă din piele naturală combină confortul cu stilul urban modern. Ideale pentru sezonul rece, cu toc gros sau talpă joasă, oferă susținere și eleganță la fiecare pas.
-  Updated: 2026-02-26T12:29:03Z
+  Updated: 2026-03-01T12:52:12Z
   Total Products: 9
 - [Pantofi Stiletto](https://pantofinimar.ro/collections/pantofi-stiletto): Descoperă colecția noastră de pantofi stiletto din piele naturală, creați pentru eleganță și rafinament. Tocul subțire și designul sofisticat adaugă un plus de feminitate oricărei ținute. Alege stilul care atrage privirile!
-  Updated: 2026-02-05T12:25:52Z
+  Updated: 2026-03-05T12:26:33Z
   Total Products: 13
 - [Pantofi Casual](https://pantofinimar.ro/collections/pantofi-casual)
-  Updated: 2026-02-27T12:27:44Z
+  Updated: 2026-03-01T12:52:12Z
   Total Products: 7
 
 ## Blogs
@@ -3086,6 +3086,15 @@
     Author: NIMAR PROD SRL J1995007592405
   - [10 metode de a alege pantofi din piele naturală de calitate](https://pantofinimar.ro/blogs/news/10-metode-de-a-alege-pantofi-din-piele-naturala-de-calitate): 10 metode de a alege pantofi din piele naturală de calitate
     Updated: 2026-02-27T22:04:24Z
+    Author: sharkagency.ro
+  - [Ghid complet pentru îngrijirea pantofilor din piele naturală](https://pantofinimar.ro/blogs/news/ghid-complet-pentru-ingrijirea-pantofilor-din-piele-naturala): Ghid complet pentru îngrijirea pantofilor din piele naturală
+    Updated: 2026-02-28T01:28:01Z
+    Author: sharkagency.ro
+  - [Cum să îți asortezi pantofii în stil modern](https://pantofinimar.ro/blogs/news/cum-sa-iți-asortezi-pantofii-in-stil-modern): Cum să îți asortezi pantofii în stil modern
+    Updated: 2026-03-01T00:42:46Z
+    Author: sharkagency.ro
+  - [Întrebări frecvente despre întreținerea pantofilor din piele](https://pantofinimar.ro/blogs/news/intrebari-frecvente-despre-intreținerea-pantofilor-din-piele): Întrebări frecvente despre întreținerea pantofilor din piele
+    Updated: 2026-03-02T02:26:19Z
     Author: sharkagency.ro
 
 ## Store Pages
