@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-23T02:38:43Z
 - Contact Email: support@vansilkhome.co.uk
-- Updated At: 2026-02-27T00:00:39.010Z
+- Updated At: 2026-03-07T00:00:39.559Z
 
 ## Products
 
@@ -812,59 +812,59 @@
     Availability: Available
     Price: £69.00 GBP
 - [Sweet Stripes Duvet Cover - Violet](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-violet): The duvet cover is perfect for adding a burst of charm and Cheerful-inducing vibrancy to your bedroom. The set features playful stripes in cheerful colors, creating a fun and lively atmosphere that instantly lifts your spirits. You'll love how it transforms your space into a joyful and stylish retreat, making every moment spent there a delightful experience! What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:52:54Z
+  Updated: 2026-03-05T07:51:30Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/sweet-stripes-bedding-set-hot-pink-duvet-covers-vansilk-twintwin-xl-violet-10.jpg?v=1768305168
   - [Single](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-violet?variant=42880502399089)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-violet?variant=42880502431857)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-violet?variant=42880502464625)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-violet?variant=42880502497393)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £119.00 GBP
 - [Sweet Stripes Bedding Set - Violet](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-violet): The duvet cover is perfect for adding a burst of charm and Cheerful-inducing vibrancy to your bedroom. The set features playful stripes in cheerful colors, creating a fun and lively atmosphere that instantly lifts your spirits. You'll love how it transforms your space into a joyful and stylish retreat, making every moment spent there a delightful experience! What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:52:59Z
+  Updated: 2026-03-05T07:51:29Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/sweet-stripes-bedding-set-hot-pink-duvet-covers-vansilk-twintwin-xl-violet-10_f45f6e85-a001-44ce-9c54-f325cdacc97f.jpg?v=1768305173
   - [Single](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-violet?variant=42880502562929)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-violet?variant=42880502595697)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-violet?variant=42880502628465)
     Availability: Available
-    Price: £149.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-violet?variant=42880502661233)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
 - [Sweet Stripes Bedding Set - Pink](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-pink): The duvet cover is perfect for adding a burst of charm and Cheerful-inducing vibrancy to your bedroom. The set features playful stripes in cheerful colors, creating a fun and lively atmosphere that instantly lifts your spirits. You'll love how it transforms your space into a joyful and stylish retreat, making every moment spent there a delightful experience! What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:53:14Z
+  Updated: 2026-03-05T07:51:29Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/sweet-stripes-bedding-set-hot-pink-duvet-covers-vansilk-twintwin-xl-hot-pink.jpg?v=1768305179
   - [Single](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-pink?variant=42880504103025)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-pink?variant=42880504135793)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-pink?variant=42880504168561)
     Availability: Available
-    Price: £149.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/sweet-stripes-bedding-set-pink?variant=42880504201329)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
 - [CloudLuxe™ Down Alternative Pillows - 2 Pack](https://vansilkhome.co.uk/products/cloudluxe-down-alternative-pillows-2-pack): Get ready to bring hotel-level comfort home with this dreamy pillow! We've upgraded this down alternative pillow with a crisp 300-thread-count cotton outer layer and a soft microfiber inner layer, providing enhanced support and comfort. The cooling cotton fabric offers a refreshing feel, making it feel like you're sleeping in a five-star hotel. Perfect for back and side sleepers, this medium-density pillow helps keep you aligned all night for the best sleep ever! What can you get? Standard: 2 pillows – 48 × 74 cm (19" × 29") Square: 2 pillows – 68 × 68 cm (27" × 27") King: 2 pillows – 50 × 90 cm (20" × 36") Super King: 2 pillows – 50 × 100 cm (20" × 40") Cover: 100% cotton Filling: 35% 3D Poly Fiber and 65% 7D Poly Fiber (Blended) OEKO-TEX  for chemical safety Noted: Spot clean when necessary
   Updated: 2026-01-13T11:53:07Z
   Vendor: Vansilk UK
@@ -896,131 +896,131 @@
     Availability: Available
     Price: £25.00 GBP
 - [Sweet Stripes Duvet Cover - Pink](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-pink): The duvet cover is perfect for adding a burst of charm and Cheerful-inducing vibrancy to your bedroom. The set features playful stripes in cheerful colors, creating a fun and lively atmosphere that instantly lifts your spirits. You'll love how it transforms your space into a joyful and stylish retreat, making every moment spent there a delightful experience! What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:53:14Z
+  Updated: 2026-03-05T07:51:29Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/sweet-stripes-bedding-set-hot-pink-duvet-covers-vansilk-twintwin-xl-hot-pink_3c25236f-bfc6-4fe5-93bf-f592d41d404a.jpg?v=1768305191
   - [Single](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-pink?variant=42880504594545)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-pink?variant=42880504627313)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-pink?variant=42880504660081)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/sweet-stripes-duvet-cover-pink?variant=42880504692849)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £119.00 GBP
 - [Princess Ruched Bedding Set - White](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-white): If you're ready to turn your bedroom into a dreamy retreat, you're going to love this duvet cover. It's got gorgeous ruched detailing that adds a touch of elegance and a bit of romance to your space. Trust me, it's the perfect way to give your room a touch of luxury and make every night feel like a special occasion. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:53:16Z
+  Updated: 2026-03-05T07:51:29Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/PrincessRuchedBeddingSet-White_4.jpg?v=1768305194
   - [Single](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-white?variant=42880504758385)
     Availability: Available
-    Price: £145.00 GBP
+    Price: £109.00 GBP
   - [Double](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-white?variant=42880504791153)
     Availability: Available
-    Price: £155.00 GBP
+    Price: £119.00 GBP
   - [King](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-white?variant=42880504823921)
     Availability: Available
-    Price: £165.00 GBP
+    Price: £129.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-white?variant=42880504856689)
     Availability: Available
-    Price: £175.00 GBP
+    Price: £139.00 GBP
 - [Princess Ruched Bedding Set - Pink](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-pink): If you're ready to turn your bedroom into a dreamy retreat, you're going to love this duvet cover. It's got gorgeous ruched detailing that adds a touch of elegance and a bit of romance to your space. Trust me, it's the perfect way to give your room a touch of luxury and make every night feel like a special occasion. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:53:26Z
+  Updated: 2026-03-05T07:51:27Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/PrincessRuchedBeddingSet-Pink_4.jpg?v=1768305197
   - [Single](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-pink?variant=42880504922225)
     Availability: Available
-    Price: £145.00 GBP
+    Price: £109.00 GBP
   - [Double](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-pink?variant=42880504954993)
     Availability: Available
-    Price: £155.00 GBP
+    Price: £119.00 GBP
   - [King](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-pink?variant=42880504987761)
     Availability: Available
-    Price: £165.00 GBP
+    Price: £129.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-pink?variant=42880505020529)
     Availability: Available
-    Price: £175.00 GBP
+    Price: £139.00 GBP
 - [Princess Ruched Bedding Set - Lemon](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-lemon): If you're ready to turn your bedroom into a dreamy retreat, you're going to love this duvet cover. It's got gorgeous ruched detailing that adds a touch of elegance and a bit of romance to your space. Trust me, it's the perfect way to give your room a touch of luxury and make every night feel like a special occasion. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:53:24Z
+  Updated: 2026-03-05T07:51:27Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Princess_Ruched_Duvet_Cover_-_Pastel_Yellow_1.jpg?v=1768305202
   - [Single](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-lemon?variant=42880505086065)
     Availability: Available
-    Price: £145.00 GBP
+    Price: £109.00 GBP
   - [Double](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-lemon?variant=42880505118833)
     Availability: Available
-    Price: £155.00 GBP
+    Price: £119.00 GBP
   - [King](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-lemon?variant=42880505151601)
     Availability: Available
-    Price: £165.00 GBP
+    Price: £129.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/princess-ruched-bedding-set-lemon?variant=42880505184369)
     Availability: Available
-    Price: £175.00 GBP
+    Price: £139.00 GBP
 - [Vintage Striped Bedding Set](https://vansilkhome.co.uk/products/vintage-striped-bedding-set): Enjoy the simple comfort of 100% cotton with this vintage striped duvet cover set. Crafted for softness and durability. Featuring a classic stripe pattern with a vintage feel, this set easily blends with your existing décor. The pure cotton fabric is naturally breathable and feels wonderfully soft. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:53:31Z
+  Updated: 2026-03-05T07:51:27Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Vintage-Striped-Duvet-Cover-Set-6_251940e6-325e-42a7-9d42-ebd8c09d9953.jpg?v=1768305204
   - [Single](https://vansilkhome.co.uk/products/vintage-striped-bedding-set?variant=42880505249905)
     Availability: Available
-    Price: £99.00 GBP
+    Price: £95.00 GBP
   - [Double](https://vansilkhome.co.uk/products/vintage-striped-bedding-set?variant=42880505282673)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £105.00 GBP
   - [King](https://vansilkhome.co.uk/products/vintage-striped-bedding-set?variant=42880505315441)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £115.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/vintage-striped-bedding-set?variant=42880505348209)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £125.00 GBP
 - [Soft Pink Plaid Cotton Bedding Set](https://vansilkhome.co.uk/products/soft-pink-plaid-cotton-bedding-set): Refresh your bedroom with a touch of charm using this soft pink plaid duvet cover! The lovely pink plaid pattern brings a sweet and inviting feel to your space, making it the perfect backdrop for relaxation. Enjoy the delightful combination of softness and coziness! What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:53:51Z
+  Updated: 2026-03-05T07:51:27Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Soft-Pink-Plaid-Cotton-Bedding-Set-2.jpg?v=1768305211
   - [Single](https://vansilkhome.co.uk/products/soft-pink-plaid-cotton-bedding-set?variant=42880505413745)
     Availability: Available
-    Price: £105.00 GBP
+    Price: £95.00 GBP
   - [Double](https://vansilkhome.co.uk/products/soft-pink-plaid-cotton-bedding-set?variant=42880505446513)
     Availability: Available
-    Price: £115.00 GBP
+    Price: £105.00 GBP
   - [King](https://vansilkhome.co.uk/products/soft-pink-plaid-cotton-bedding-set?variant=42880505479281)
     Availability: Available
-    Price: £125.00 GBP
+    Price: £115.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/soft-pink-plaid-cotton-bedding-set?variant=42880505512049)
     Availability: Available
-    Price: £135.00 GBP
+    Price: £125.00 GBP
 - [Baby Blue Striped Seersucker Bedding Set](https://vansilkhome.co.uk/products/baby-blue-striped-seersucker-bedding-set): The duvet cover has these charming baby blue stripes and a unique seersucker texture that's just perfect for summer. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:53:54Z
+  Updated: 2026-03-05T07:51:26Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Baby-Blue-Striped-Seersucker-Bedding-Set-5.jpg?v=1768305219
   - [Single](https://vansilkhome.co.uk/products/baby-blue-striped-seersucker-bedding-set?variant=42880505577585)
     Availability: Available
-    Price: £105.00 GBP
+    Price: £95.00 GBP
   - [Double](https://vansilkhome.co.uk/products/baby-blue-striped-seersucker-bedding-set?variant=42880505610353)
     Availability: Available
-    Price: £115.00 GBP
+    Price: £105.00 GBP
   - [King](https://vansilkhome.co.uk/products/baby-blue-striped-seersucker-bedding-set?variant=42880505643121)
     Availability: Available
-    Price: £125.00 GBP
+    Price: £115.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/baby-blue-striped-seersucker-bedding-set?variant=42880505675889)
     Availability: Available
-    Price: £135.00 GBP
+    Price: £125.00 GBP
 - [Classic Contrast Ruffle Bedding Set](https://vansilkhome.co.uk/products/classic-contrast-ruffle-bedding-set): Embrace timeless elegance with this classic duvet cover in pure white and striking black. The clean white fabric creates a fresh and airy feel, while the bold black edge adds a stylish contrast that elevates the look. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
   Updated: 2026-01-13T11:53:46Z
   Vendor: Vansilk UK
@@ -1178,131 +1178,131 @@
     Availability: Available
     Price: £115.00 GBP
 - [Princess Ruched Duvet Cover - Lemon](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-lemon): If you're ready to turn your bedroom into a dreamy retreat, you're going to love this duvet cover. It's got gorgeous ruched detailing that adds a touch of elegance and a bit of romance to your space. Trust me, it's the perfect way to give your room a touch of luxury and make every night feel like a special occasion. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:54:20Z
+  Updated: 2026-03-05T07:51:26Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Princess_Ruched_Duvet_Cover_-_Pastel_Yellow_3_cc3d5263-09d5-48e5-a07d-f2a835761faf.jpg?v=1768305257
   - [Single](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-lemon?variant=42880507641969)
     Availability: Available
-    Price: £125.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-lemon?variant=42880507674737)
     Availability: Available
-    Price: £135.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-lemon?variant=42880507707505)
     Availability: Available
-    Price: £145.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-lemon?variant=42880507740273)
     Availability: Available
-    Price: £155.00 GBP
+    Price: £129.00 GBP
 - [Princess Ruched Duvet Cover - Pink](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-pink): If you're ready to turn your bedroom into a dreamy retreat, you're going to love this duvet cover. It's got gorgeous ruched detailing that adds a touch of elegance and a bit of romance to your space. Trust me, it's the perfect way to give your room a touch of luxury and make every night feel like a special occasion. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:54:36Z
+  Updated: 2026-03-05T07:51:26Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/PrincessRuchedBeddingSet-Pink_4_014f15f2-7248-4a60-a315-9eb407d257c8.jpg?v=1768305260
   - [Single](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-pink?variant=42880507805809)
     Availability: Available
-    Price: £125.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-pink?variant=42880507838577)
     Availability: Available
-    Price: £135.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-pink?variant=42880507871345)
     Availability: Available
-    Price: £145.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-pink?variant=42880507904113)
     Availability: Available
-    Price: £155.00 GBP
+    Price: £129.00 GBP
 - [Princess Ruched Duvet Cover - White](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-white): If you're ready to turn your bedroom into a dreamy retreat, you're going to love this duvet cover. It's got gorgeous ruched detailing that adds a touch of elegance and a bit of romance to your space. Trust me, it's the perfect way to give your room a touch of luxury and make every night feel like a special occasion. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:54:27Z
+  Updated: 2026-03-05T07:51:26Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/PrincessRuchedBeddingSet-White_4_e7a03b44-f5d3-4744-8b52-240b902587d1.jpg?v=1768305265
   - [Single](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-white?variant=42880507969649)
     Availability: Available
-    Price: £125.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-white?variant=42880508002417)
     Availability: Available
-    Price: £135.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-white?variant=42880508035185)
     Availability: Available
-    Price: £145.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/princess-ruched-duvet-cover-white?variant=42880508067953)
     Availability: Available
-    Price: £155.00 GBP
+    Price: £129.00 GBP
 - [Rustic Gingham Duvet Cover with Ruffle - Black](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-black): Bring a touch of countryside charm to your bedroom with this gingham duvet cover with ruffle. Crafted from 100% breathable cotton, this duvet cover offers a soft, natural feel. The classic gingham pattern adds a hint of vintage nostalgia, while the delicate ruffle trim brings a feminine, farmhouse-inspired flair. Plus, it gets softer with every wash-so snuggling up just keeps getting better. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:54:29Z
+  Updated: 2026-03-05T07:51:25Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Rustic-Gingham-Duvet-Cover-with-Raffle-8.jpg?v=1768305267
   - [Single](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-black?variant=42880508133489)
     Availability: Available
-    Price: £99.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-black?variant=42880508166257)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-black?variant=42880508199025)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-black?variant=42880508231793)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
 - [Rustic Gingham Duvet Cover with Ruffle - Blue](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-blue): Bring a touch of countryside charm to your bedroom with this gingham duvet cover with ruffle. Crafted from 100% breathable cotton, this duvet cover offers a soft, natural feel. The classic gingham pattern adds a hint of vintage nostalgia, while the delicate ruffle trim brings a feminine, farmhouse-inspired flair. Plus, it gets softer with every wash-so snuggling up just keeps getting better. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:54:30Z
+  Updated: 2026-03-05T07:51:25Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Rustic-Gingham-Duvet-Cover-with-Raffle-7.jpg?v=1768305268
   - [Single](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-blue?variant=42880508297329)
     Availability: Available
-    Price: £99.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-blue?variant=42880508330097)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-blue?variant=42880508362865)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-blue?variant=42880508395633)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
 - [Rustic Gingham Duvet Cover with Ruffle - Yellow](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-yellow): Bring a touch of countryside charm to your bedroom with this gingham duvet cover with ruffle. Crafted from 100% breathable cotton, this duvet cover offers a soft, natural feel. The classic gingham pattern adds a hint of vintage nostalgia, while the delicate ruffle trim brings a feminine, farmhouse-inspired flair. Plus, it gets softer with every wash-so snuggling up just keeps getting better. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:54:31Z
+  Updated: 2026-03-05T07:51:25Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Rustic-Gingham-Duvet-Cover-with-Raffle-5.jpg?v=1768305270
   - [Single](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-yellow?variant=42880508461169)
     Availability: Available
-    Price: £99.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-yellow?variant=42880508493937)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-yellow?variant=42880508526705)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-yellow?variant=42880508559473)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
 - [Rustic Gingham Duvet Cover with Ruffle - Green](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-green): Bring a touch of countryside charm to your bedroom with this gingham duvet cover with ruffle. Crafted from 100% breathable cotton, this duvet cover offers a soft, natural feel. The classic gingham pattern adds a hint of vintage nostalgia, while the delicate ruffle trim brings a feminine, farmhouse-inspired flair. Plus, it gets softer with every wash-so snuggling up just keeps getting better. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:54:34Z
+  Updated: 2026-03-05T07:51:25Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Rustic-Gingham-Duvet-Cover-with-Raffle-6.jpg?v=1768305272
   - [Single](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-green?variant=42880508625009)
     Availability: Available
-    Price: £99.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-green?variant=42880508657777)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-green?variant=42880508690545)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/rustic-gingham-duvet-cover-with-ruffle-green?variant=42880508723313)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
 - [Purple Striped Duvet Cover](https://vansilkhome.co.uk/products/purple-striped-duvet-cover): Step back in time with the vintage striped duvet cover, where classic charm meets comfort. This set features timeless stripes in a subtle, earthy palette that evokes a sense of nostalgia and elegance. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
   Updated: 2026-01-13T11:54:40Z
   Vendor: Vansilk UK
@@ -1376,113 +1376,113 @@
     Availability: Available
     Price: £149.00 GBP
 - [Cotton Contrast Stripe Bedding Set - Cyan](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-cyan): This premium 100% cotton bedding set features bold contrast stripes, offering modern style and luxurious comfort with its breathable fabric and secure button closure. The hotel-inspired design creates a sophisticated look that's easy to maintain, perfect for elevating your bedroom aesthetic. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:55:02Z
+  Updated: 2026-03-05T07:51:24Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Contrast-Stripe-Duvet-Cover-9.jpg?v=1768305294
   - [Single](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-cyan?variant=42880509411441)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-cyan?variant=42880509444209)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-cyan?variant=42880509476977)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-cyan?variant=42880509509745)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £129.00 GBP
 - [Cotton Contrast Stripe Bedding Set - Ocean](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-ocean): This premium 100% cotton bedding set features bold contrast stripes, offering modern style and luxurious comfort with its breathable fabric and secure button closure. The hotel-inspired design creates a sophisticated look that's easy to maintain, perfect for elevating your bedroom aesthetic. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:55:16Z
+  Updated: 2026-03-05T07:51:24Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Contrast-Stripe-Duvet-Cover-32_fceff4e2-5784-4b6d-9c83-ca2ab6262a7f.jpg?v=1768305302
   - [Single](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-ocean?variant=42880509575281)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-ocean?variant=42880509608049)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-ocean?variant=42880509640817)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-ocean?variant=42880509673585)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £129.00 GBP
 - [Cotton Contrast Stripe Bedding Set - Soft Pink](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-soft-pink): This premium 100% cotton bedding set features bold contrast stripes, offering modern style and luxurious comfort with its breathable fabric and secure button closure. The hotel-inspired design creates a sophisticated look that's easy to maintain, perfect for elevating your bedroom aesthetic. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:55:27Z
+  Updated: 2026-03-05T07:51:24Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Contrast-Stripe-Duvet-Cover-17_3e35eec0-002b-4dca-9eca-88b50623724b.jpg?v=1768305310
   - [Single](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-soft-pink?variant=42880509739121)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-soft-pink?variant=42880509771889)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-soft-pink?variant=42880509804657)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-soft-pink?variant=42880509837425)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £129.00 GBP
 - [Cotton Contrast Stripe Bedding Set - Lavender](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-lavender): This premium 100% cotton bedding set features bold contrast stripes, offering modern style and luxurious comfort with its breathable fabric and secure button closure. The hotel-inspired design creates a sophisticated look that's easy to maintain, perfect for elevating your bedroom aesthetic. What's Included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 flat sheet: 180 × 260 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 flat sheet: 230 × 260 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 flat sheet: 275 × 275 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 flat sheet: 305 × 275 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:55:24Z
+  Updated: 2026-03-05T07:51:24Z
   Vendor: Vansilk UK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Contrast-Stripe-Duvet-Cover-25.jpg?v=1768305317
   - [Single](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-lavender?variant=42880509902961)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-lavender?variant=42880509935729)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-lavender?variant=42880509968497)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/cotton-contrast-stripe-bedding-set-lavender?variant=42880510001265)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £129.00 GBP
 - [Contrast Stripe Duvet Cover - Cyan](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-cyan): This premium 100% cotton duvet cover features bold contrast stripes, offering modern style and luxurious comfort with its breathable fabric and secure button closure. The hotel-inspired design creates a sophisticated look that's easy to maintain, perfect for elevating your bedroom aesthetic. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
-  Updated: 2026-01-13T11:55:30Z
+  Updated: 2026-03-05T07:51:23Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Contrast-Stripe-Duvet-Cover-9_d4d45ef7-cc8b-4be2-91cb-d9f34cce7ba9.jpg?v=1768305323
   - [Single](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-cyan?variant=42880510066801)
     Availability: Available
-    Price: £99.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-cyan?variant=42880510099569)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-cyan?variant=42880510132337)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-cyan?variant=42880510165105)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
 - [Contrast Stripe Duvet Cover - Lavender](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-lavender): This premium 100% cotton duvet cover features bold contrast stripes, offering modern style and luxurious comfort with its breathable fabric and secure button closure. The hotel-inspired design creates a sophisticated look that's easy to maintain, perfect for elevating your bedroom aesthetic. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:55:38Z
+  Updated: 2026-03-05T07:51:23Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Contrast-Stripe-Duvet-Cover-25_8c52b5b4-3130-4614-b272-9625ac63d852.jpg?v=1768305330
   - [Single](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-lavender?variant=42880510230641)
     Availability: Available
-    Price: £99.00 GBP
+    Price: £89.00 GBP
   - [Double](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-lavender?variant=42880510263409)
     Availability: Available
-    Price: £109.00 GBP
+    Price: £99.00 GBP
   - [King](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-lavender?variant=42880510296177)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/contrast-stripe-duvet-cover-lavender?variant=42880510328945)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £119.00 GBP
 - [Cotton Small Gingham Duvet Cover Set - Black](https://vansilkhome.co.uk/products/cotton-small-gingham-duvet-cover-set-black): The gingham bedding set is a timeless classic for the bedroom. Gingham patterns will bring a touch of rustic flair to your bedroom décor. Each set is crafted from cotton, ensuring a soft, comfortable feel that gets even better with time. The cozy, breathable fabric offers year-round comfort, making it perfect for any season. Whether you're aiming for a country-chic look or a cozy, homey vibe, our cotton gingham bedding set fits into any style. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. We select a solid color flat sheet for each bedding set, rather than matching it to the duvet cover pattern.
   Updated: 2026-01-13T11:55:41Z
   Vendor: Vansilk UK
@@ -1772,7 +1772,7 @@
     Availability: Available
     Price: £29.00 GBP
 - [Luxury Ombre Aurora Duvet Cover - Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green): This breathtaking duvet cover features a stunning gradient of colors that is like having a patch of the northern lights right in your bedroom! The colors blend so beautifully, creating a super chill and stylish vibe. 100% Tencel is insanely cozy – you’ll feel like sleeping on a cloud.
-  Updated: 2026-01-13T11:46:43Z
+  Updated: 2026-03-05T07:51:23Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -1780,37 +1780,37 @@
   - [Single / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918603096177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-twintwin-xl-green_f43b8a74-370d-4ae2-bc8c-cfea0212b78e.jpg?v=1768304800
-    Price: £149.00 GBP
+    Price: £129.00 GBP
   - [Single / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918603128945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-twintwin-xl-purple-7_93611778-a8e8-4557-9188-d62efd2d7d7c.jpg?v=1768304802
-    Price: £149.00 GBP
+    Price: £129.00 GBP
   - [Double / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918618890353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-2_f470ca2e-3f1c-41d9-b322-cd49c3b73cfd.jpg?v=1768304801
-    Price: £159.00 GBP
+    Price: £139.00 GBP
   - [Double / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918618923121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-8_b7fe9e65-566b-4afb-8367-c8d781af8d14.jpg?v=1768304802
-    Price: £159.00 GBP
+    Price: £139.00 GBP
   - [King / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918618955889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-2_f470ca2e-3f1c-41d9-b322-cd49c3b73cfd.jpg?v=1768304801
-    Price: £169.00 GBP
+    Price: £149.00 GBP
   - [King / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918618988657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-8_b7fe9e65-566b-4afb-8367-c8d781af8d14.jpg?v=1768304802
-    Price: £169.00 GBP
+    Price: £149.00 GBP
   - [Super King / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918620725361)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-2_f470ca2e-3f1c-41d9-b322-cd49c3b73cfd.jpg?v=1768304801
-    Price: £179.00 GBP
+    Price: £159.00 GBP
   - [Super King / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-green?variant=42918620758129)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-green-duvet-covers-vansilk-8_b7fe9e65-566b-4afb-8367-c8d781af8d14.jpg?v=1768304802
-    Price: £179.00 GBP
+    Price: £159.00 GBP
 - [Luxury Ombre Aurora Duvet Cover - Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple): This breathtaking duvet cover features a stunning gradient of colors that is like having a patch of the northern lights right in your bedroom! The colors blend so beautifully, creating a super chill and stylish vibe. 100% Tencel is insanely cozy – you’ll feel like sleeping on a cloud.
-  Updated: 2026-01-13T11:46:46Z
+  Updated: 2026-03-05T07:51:23Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -1818,33 +1818,33 @@
   - [Single / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918603161713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-purple-duvet-covers-vansilk-twintwin-xl-purple-2_619dc905-89be-4411-bbc7-6f989fbe7b6a.jpg?v=1768304803
-    Price: £149.00 GBP
+    Price: £129.00 GBP
   - [Single / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918603194481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-purple-duvet-covers-vansilk-twintwin-xl-green-6_bf368537-c91e-410c-b1df-26be5c7dfc99.jpg?v=1768304804
-    Price: £149.00 GBP
+    Price: £129.00 GBP
   - [Double / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918603227249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-purple-duvet-covers-vansilk-twintwin-xl-purple-2_619dc905-89be-4411-bbc7-6f989fbe7b6a.jpg?v=1768304803
-    Price: £159.00 GBP
+    Price: £139.00 GBP
   - [Double / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918603260017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-purple-duvet-covers-vansilk-twintwin-xl-green-6_bf368537-c91e-410c-b1df-26be5c7dfc99.jpg?v=1768304804
-    Price: £159.00 GBP
+    Price: £139.00 GBP
   - [King / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918622265457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-purple-duvet-covers-vansilk-3_6f3b68ee-1ed3-4128-b094-fd6322803fe9.jpg?v=1768304803
-    Price: £169.00 GBP
+    Price: £149.00 GBP
   - [King / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918622298225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/luxury-ombre-aurora-bedding-set-purple-duvet-covers-vansilk-7_72be90b3-1e62-4561-b07b-e9c90bb93e04.jpg?v=1768304804
-    Price: £169.00 GBP
+    Price: £149.00 GBP
   - [Super King / Purple](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918622330993)
     Availability: Not Available
-    Price: £179.00 GBP
+    Price: £159.00 GBP
   - [Super King / Green](https://vansilkhome.co.uk/products/luxury-ombre-aurora-duvet-cover-purple?variant=42918622363761)
     Availability: Not Available
-    Price: £179.00 GBP
+    Price: £159.00 GBP
 - [Coastal Stripes Duvet Cover - Blue](https://vansilkhome.co.uk/products/coastal-stripes-duvet-cover-blue): Transform your bedroom into a serene coastal retreat with our coastal collection duvet cover. Inspired by the charm of a coastal granddaughter aesthetic, this duvet cover is perfect for summer.
   Updated: 2026-01-13T11:46:52Z
   Vendor: VANSILK
@@ -3097,23 +3097,23 @@ Perfect for winter, this duvet cover combines breathable comfort with a plush, w
     Availability: Available
     Price: £115.00 GBP
 - [Cute Cherry Ruffle Duvet Cover](https://vansilkhome.co.uk/products/cute-cherry-ruffle-duvet-cover): Turn your bedroom into a sweet cherry orchard with this adorable duvet cover! This bedding set is inspired by the charm of springtime orchards. Made from super soft, breathable fabric, it ensures you sleep like a baby. Perfect for adding a sweet, standout touch to your space!
-  Updated: 2026-01-13T12:01:22Z
+  Updated: 2026-03-05T07:16:52Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/CuteCherryRuffleBeddingSet_1.jpg?v=1768305675
   - [Single](https://vansilkhome.co.uk/products/cute-cherry-ruffle-duvet-cover?variant=42919754367089)
     Availability: Available
-    Price: £105.00 GBP
+    Price: £95.00 GBP
   - [Double](https://vansilkhome.co.uk/products/cute-cherry-ruffle-duvet-cover?variant=42919754399857)
     Availability: Available
-    Price: £115.00 GBP
+    Price: £105.00 GBP
   - [King](https://vansilkhome.co.uk/products/cute-cherry-ruffle-duvet-cover?variant=42919801913457)
     Availability: Available
-    Price: £125.00 GBP
+    Price: £115.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/cute-cherry-ruffle-duvet-cover?variant=42919801946225)
     Availability: Not Available
-    Price: £135.00 GBP
+    Price: £125.00 GBP
 - [Pastel Ditsy Floral Duvet Cover](https://vansilkhome.co.uk/products/pastel-ditsy-floral-duvet-cover): Inspired by blooming gardens, the soft pastel colors and delicate floral patterns create a dreamy, Instagram-worthy vibe. 100% cotton ensures a comfy night’s sleep. This floral duvet cover is a must-have for anyone who loves a fresh, stylish look.
   Updated: 2026-01-13T12:01:38Z
   Vendor: VANSILK
@@ -3171,7 +3171,7 @@ Perfect for winter, this duvet cover combines breathable comfort with a plush, w
 - [Boho Chic Striped Jacquard Duvet Cover](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover): Bring boho charm into your bedroom with this striped jacquard duvet cover. The textured jacquard stripes add just the right amount of depth, giving your bedding that boutique-hotel-meets-laid-back-retreat vibe everyone’s obsessed with right now.
 
 The gauze is naturally breathable, it keeps you comfortable year-round, giving your bed that soft feel.
-  Updated: 2026-01-13T12:02:20Z
+  Updated: 2026-03-05T07:16:52Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -3179,53 +3179,53 @@ The gauze is naturally breathable, it keeps you comfortable year-round, giving y
   - [Purple / Single](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919754760305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_10.webp?v=1768305717
-    Price: £99.00 GBP
+    Price: £85.00 GBP
   - [Purple / Double](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919754793073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_10.webp?v=1768305717
-    Price: £109.00 GBP
+    Price: £95.00 GBP
   - [Purple / King](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919754825841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_10.webp?v=1768305717
-    Price: £119.00 GBP
+    Price: £105.00 GBP
   - [Purple / Super King](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919754858609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_10.webp?v=1768305717
-    Price: £129.00 GBP
+    Price: £115.00 GBP
   - [Beige / Single](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919754924145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_16.webp?v=1768305726
-    Price: £99.00 GBP
+    Price: £85.00 GBP
   - [Beige / Double](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919754956913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_16.webp?v=1768305726
-    Price: £109.00 GBP
+    Price: £95.00 GBP
   - [Beige / King](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919754989681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_16.webp?v=1768305726
-    Price: £119.00 GBP
+    Price: £105.00 GBP
   - [Beige / Super King](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919755022449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_16.webp?v=1768305726
-    Price: £129.00 GBP
+    Price: £115.00 GBP
   - [Green / Single](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919755087985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_6.webp?v=1768305733
-    Price: £99.00 GBP
+    Price: £85.00 GBP
   - [Green / Double](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919755120753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_6.webp?v=1768305733
-    Price: £109.00 GBP
+    Price: £95.00 GBP
   - [Green / King](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919755153521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_6.webp?v=1768305733
-    Price: £119.00 GBP
+    Price: £105.00 GBP
   - [Green / Super King](https://vansilkhome.co.uk/products/boho-chic-striped-jacquard-duvet-cover?variant=42919755186289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/BohoChicStripedJacquardDuvetCover_6.webp?v=1768305733
-    Price: £129.00 GBP
+    Price: £115.00 GBP
 - [Dreamy Cinched Duvet Cover](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover): If you’ve been wanting that soft, romantic, Pinterest-pretty bed, this is the duvet cover for you. The dreamy ruched duvet cover has the cutest gathered details that make your whole bed look instantly styled - without you actually having to try.
-  Updated: 2026-01-13T12:02:51Z
+  Updated: 2026-03-05T07:15:36Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -3233,53 +3233,53 @@ The gauze is naturally breathable, it keeps you comfortable year-round, giving y
   - [Single / Blue](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755415665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06851_f70aeaf3-eb64-441c-a2b0-81d93a611e4d.webp?v=1768305741
-    Price: £109.00 GBP
+    Price: £89.00 GBP
   - [Single / White](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755448433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DreamyCinchedDuvetCover_2.webp?v=1768305750
-    Price: £109.00 GBP
+    Price: £89.00 GBP
   - [Single / Pink](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755481201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06843.webp?v=1768305764
-    Price: £109.00 GBP
+    Price: £89.00 GBP
   - [Double / Blue](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755513969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06851_f70aeaf3-eb64-441c-a2b0-81d93a611e4d.webp?v=1768305741
-    Price: £119.00 GBP
+    Price: £99.00 GBP
   - [Double / White](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755546737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DreamyCinchedDuvetCover_2.webp?v=1768305750
-    Price: £119.00 GBP
+    Price: £99.00 GBP
   - [Double / Pink](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755579505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06843.webp?v=1768305764
-    Price: £119.00 GBP
+    Price: £99.00 GBP
   - [King / Blue](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755612273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06851_f70aeaf3-eb64-441c-a2b0-81d93a611e4d.webp?v=1768305741
-    Price: £129.00 GBP
+    Price: £109.00 GBP
   - [King / White](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755645041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DreamyCinchedDuvetCover_2.webp?v=1768305750
-    Price: £129.00 GBP
+    Price: £109.00 GBP
   - [King / Pink](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755677809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06843.webp?v=1768305764
-    Price: £129.00 GBP
+    Price: £109.00 GBP
   - [Super King / Blue](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755710577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06851_f70aeaf3-eb64-441c-a2b0-81d93a611e4d.webp?v=1768305741
-    Price: £139.00 GBP
+    Price: £119.00 GBP
   - [Super King / White](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755743345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DreamyCinchedDuvetCover_2.webp?v=1768305750
-    Price: £139.00 GBP
+    Price: £119.00 GBP
   - [Super King / Pink](https://vansilkhome.co.uk/products/dreamy-cinched-duvet-cover?variant=42919755776113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/DSC06843.webp?v=1768305764
-    Price: £139.00 GBP
+    Price: £119.00 GBP
 - [Cotton Clip Striped Duvet Cover Set](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set): Bring a little joy to your space with this bedding set featuring fresh clip stripes and the cutest ruffle trim. It’s cozy enough for all-night study sessions, stylish enough to impress new friends, and durable enough to handle every late-night snack or Netflix marathon.
-  Updated: 2026-01-13T11:48:11Z
+  Updated: 2026-03-05T07:15:36Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -3287,35 +3287,35 @@ The gauze is naturally breathable, it keeps you comfortable year-round, giving y
   - [Single / Blue](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919912570993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClipStripedBeddingSet_18.webp?v=1768304884
-    Price: £125.00 GBP
+    Price: £105.00 GBP
   - [Single / Pink](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919912603761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClipStripedBeddingSet_35.webp?v=1768304885
-    Price: £125.00 GBP
+    Price: £105.00 GBP
   - [Double / Blue](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919912636529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/Clip_Striped_Bedding_Set_11.webp?v=1768304885
-    Price: £135.00 GBP
+    Price: £115.00 GBP
   - [Double / Pink](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919912669297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClipStripedBeddingSet_36.webp?v=1768304886
-    Price: £135.00 GBP
+    Price: £115.00 GBP
   - [King / Blue](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919917551729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClipStripedBeddingSet_18.webp?v=1768304884
-    Price: £145.00 GBP
+    Price: £125.00 GBP
   - [King / Pink](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919917584497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClipStripedBeddingSet_38.webp?v=1768304886
-    Price: £145.00 GBP
+    Price: £125.00 GBP
   - [Super King / Blue](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919917617265)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClipStripedBeddingSet_5.webp?v=1768304884
-    Price: £155.00 GBP
+    Price: £135.00 GBP
   - [Super King / Pink](https://vansilkhome.co.uk/products/cotton-clip-striped-bedding-set?variant=42919917650033)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClipStripedBeddingSet_38.webp?v=1768304886
-    Price: £155.00 GBP
+    Price: £135.00 GBP
 - [Polka Dot Jersey Duvet Cover Set](https://vansilkhome.co.uk/products/polka-dot-jersey-bedding-set): Playful meets cozy with this soft jersey bedding, sprinkled with bold black polka dots on a warm beige background. The fabric is buttery soft with just the right stretch—like slipping into weekend mode every time you climb into bed.
 
 If you’re curling up with a book, binging your favorite shows, or enjoying a slow Sunday morning, those happy little dots make every moment feel a bit lighter and brighter.
@@ -3407,25 +3407,25 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/ClassicPolkaDotDuvetCover_15.webp?v=1768304892
     Price: £125.00 GBP
 - [Vintage Blue Polka Dot Duvet Cover Set](https://vansilkhome.co.uk/products/vintage-blue-polka-dot-bedding-set): Soft, charming, and timeless, this set is crafted from breathable gauze muslin fabric that feels airy and gentle on the skin. Finished with delicate ruffled edges and a classic polka dot pattern, it brings a sweet vintage touch and cozy, relaxed comfort to your bedroom. The FeelSoft, and breathable, perfect for all-season What's included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:16Z
+  Updated: 2026-03-05T07:15:36Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/VintagePolkaDotDuvetCover_1_f2f58282-e712-4a03-be7e-7a08bec3d91e.webp?v=1768304893
   - [Single](https://vansilkhome.co.uk/products/vintage-blue-polka-dot-bedding-set?variant=42919913291889)
     Availability: Available
-    Price: £105.00 GBP
+    Price: £95.00 GBP
   - [Double](https://vansilkhome.co.uk/products/vintage-blue-polka-dot-bedding-set?variant=42919913324657)
     Availability: Available
-    Price: £115.00 GBP
+    Price: £105.00 GBP
   - [King](https://vansilkhome.co.uk/products/vintage-blue-polka-dot-bedding-set?variant=42919939211377)
     Availability: Available
-    Price: £125.00 GBP
+    Price: £115.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/vintage-blue-polka-dot-bedding-set?variant=42919939244145)
     Availability: Not Available
-    Price: £135.00 GBP
+    Price: £125.00 GBP
 - [Sky & Snow Tiny Polka Dot Duvet Cover Set](https://vansilkhome.co.uk/products/sky-snow-tiny-polka-dot-bedding-set): Soft, charming, and timeless, this set is crafted from breathable gauze muslin fabric that feels airy and gentle on the skin. Finished with delicate ruffled edges and a classic polka dot pattern, it brings a sweet vintage touch and cozy, relaxed comfort to your bedroom. The FeelSoft, and breathable, perfect for all-season What's included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:20Z
+  Updated: 2026-03-05T07:14:05Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -3433,19 +3433,19 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Single / Ivory](https://vansilkhome.co.uk/products/sky-snow-tiny-polka-dot-bedding-set?variant=42919913357425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202907_660_10.webp?v=1768304895
-    Price: £105.00 GBP
+    Price: £95.00 GBP
   - [Single / Blue](https://vansilkhome.co.uk/products/sky-snow-tiny-polka-dot-bedding-set?variant=42919913390193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202912_666_10.webp?v=1768304897
-    Price: £105.00 GBP
+    Price: £95.00 GBP
   - [Double / Ivory](https://vansilkhome.co.uk/products/sky-snow-tiny-polka-dot-bedding-set?variant=42919913422961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202907_660_10.webp?v=1768304895
-    Price: £115.00 GBP
+    Price: £105.00 GBP
   - [Double / Blue](https://vansilkhome.co.uk/products/sky-snow-tiny-polka-dot-bedding-set?variant=42919913455729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202912_666_10_5dac09c4-395e-4506-a389-9bb710adc5d0.webp?v=1768304899
-    Price: £115.00 GBP
+    Price: £105.00 GBP
   - [King / Ivory](https://vansilkhome.co.uk/products/sky-snow-tiny-polka-dot-bedding-set?variant=42919951695985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202908_661_10_ee6f9b5b-a3c5-4704-966f-68da1310d14e.webp?v=1768304898
@@ -3463,25 +3463,25 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202912_666_10_5dac09c4-395e-4506-a389-9bb710adc5d0.webp?v=1768304899
     Price: £135.00 GBP
 - [Black Polka Dot Tencel Duvet Cover Set](https://vansilkhome.co.uk/products/black-polka-dot-tencel-bedding-set): Slip into effortless comfort with this TENCEL™ bedding set. The smooth, breathable fabric feels cool against the skin, making it perfect for every season. A classic black backdrop dotted with playful white spots adds just the right touch of modern charm-stylish, simple, and endlessly versatile. Finished with tie closures for a sweet, relaxed look, this set brings cozy softness and easy elegance to your bedroom, night after night. The FeelSoft, and silky feel, perfect for all-season What's included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% lyocell 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:21Z
+  Updated: 2026-03-05T07:14:05Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202906_658_10_9c44f5c5-dfac-4dcc-877c-6d5adcc9a3f8.webp?v=1768304899
   - [Single](https://vansilkhome.co.uk/products/black-polka-dot-tencel-bedding-set?variant=42919913521265)
     Availability: Available
-    Price: £119.00 GBP
+    Price: £99.00 GBP
   - [Double](https://vansilkhome.co.uk/products/black-polka-dot-tencel-bedding-set?variant=42919913554033)
     Availability: Available
-    Price: £129.00 GBP
+    Price: £109.00 GBP
   - [King](https://vansilkhome.co.uk/products/black-polka-dot-tencel-bedding-set?variant=42919951827057)
     Availability: Available
-    Price: £139.00 GBP
+    Price: £119.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/black-polka-dot-tencel-bedding-set?variant=42919951859825)
     Availability: Not Available
-    Price: £149.00 GBP
+    Price: £129.00 GBP
 - [Mini Polka Dot Duvet Cover Set With Ruffle](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle): Bring a touch of whimsy to your bedroom with this mini polka dot bedding set. Soft, playful dots meet sweet ruffled edges, creating a look that feels charming yet timeless. The fabric drapes beautifully and adds subtle texture without overwhelming your space. Cozy, breathable, and easy to style, it introduces a light, romantic feel that's perfect for everyday comfort and effortless décor. The FeelSoft, and silky feel, perfect for all-season What's included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:33Z
+  Updated: 2026-03-05T07:14:04Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -3489,107 +3489,107 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Single / Ivory](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919913586801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202856_645_10.webp?v=1768304904
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Single / Blue](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919913619569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202900_651_10.webp?v=1768304901
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Single / Pink](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919913652337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202853_642_10.webp?v=1768304903
-    Price: £119.00 GBP
+    Price: £109.00 GBP
   - [Double / Ivory](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919913685105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202856_645_10.webp?v=1768304904
-    Price: £129.00 GBP
+    Price: £119.00 GBP
   - [Double / Blue](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919913717873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202900_651_10.webp?v=1768304901
-    Price: £129.00 GBP
+    Price: £119.00 GBP
   - [Double / Pink](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919913750641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202853_642_10.webp?v=1768304903
-    Price: £129.00 GBP
+    Price: £119.00 GBP
   - [King / Ivory](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919955366001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202856_645_10.webp?v=1768304904
-    Price: £139.00 GBP
+    Price: £129.00 GBP
   - [King / Blue](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919955398769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202901_652_10.webp?v=1768304901
-    Price: £139.00 GBP
+    Price: £129.00 GBP
   - [King / Pink](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919955431537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202850_639_10.webp?v=1768304902
-    Price: £139.00 GBP
+    Price: £129.00 GBP
   - [Super King / Ivory](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919955464305)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202856_645_10.webp?v=1768304904
-    Price: £149.00 GBP
+    Price: £139.00 GBP
   - [Super King / Blue](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919955497073)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202857_647_10.webp?v=1768304902
-    Price: £149.00 GBP
+    Price: £139.00 GBP
   - [Super King / Pink](https://vansilkhome.co.uk/products/mini-polka-dot-bedding-set-with-ruffle?variant=42919955529841)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/20251203202850_639_10.webp?v=1768304902
-    Price: £149.00 GBP
+    Price: £139.00 GBP
 - [Buttercream Ruffle Organza Trim Sateen Bedding Set](https://vansilkhome.co.uk/products/buttercream-ruffle-organza-trim-sateen-bedding-set): A soft brushed cotton sateen bedding set in a gentle buttercream shade, finished with airy organza ruffles on three sides. Cozy, elegant, and perfect for a romantic bedroom look. The FeelSoft, and breathable, perfect for all-season What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:38Z
+  Updated: 2026-03-05T07:14:04Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863173693_0_57ab1954-6470-43db-9f4a-82d2be9508af.jpg?v=1768304904
   - [Sing](https://vansilkhome.co.uk/products/buttercream-ruffle-organza-trim-sateen-bedding-set?variant=42919959068785)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £109.00 GBP
   - [Double](https://vansilkhome.co.uk/products/buttercream-ruffle-organza-trim-sateen-bedding-set?variant=42919959101553)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £119.00 GBP
   - [King](https://vansilkhome.co.uk/products/buttercream-ruffle-organza-trim-sateen-bedding-set?variant=42919959986289)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £129.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/buttercream-ruffle-organza-trim-sateen-bedding-set?variant=42919960019057)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £139.00 GBP
 - [French Ruffle Lace Cotton Sateen Bedding](https://vansilkhome.co.uk/products/french-ruffle-lace-cotton-sateen-bedding): Indulge in vintage romance with this French-style bedding set, crafted from smooth cotton sateen in a soft buttercream hue. Flowing ruffles and delicate lace trim add dreamy texture and old-world charm, creating a cozy, feminine retreat with effortless elegance. Perfect for anyone who loves a refined, romantic bedroom aesthetic. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:40Z
+  Updated: 2026-03-05T07:14:04Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863204813_0_7a639ceb-f5f7-4fc6-8f2a-792d32e72f1d.jpg?v=1768304907
   - [Single](https://vansilkhome.co.uk/products/french-ruffle-lace-cotton-sateen-bedding?variant=42919959134321)
     Availability: Available
-    Price: £169.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/french-ruffle-lace-cotton-sateen-bedding?variant=42919959167089)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/french-ruffle-lace-cotton-sateen-bedding?variant=42919960772721)
     Availability: Available
-    Price: £209.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/french-ruffle-lace-cotton-sateen-bedding?variant=42919960805489)
     Availability: Not Available
-    Price: £229.00 GBP
+    Price: £159.00 GBP
 - [Ivory Ruffle Cloud Tencel Bedding Set](https://vansilkhome.co.uk/products/ivory-ruffle-cloud-tencel-bedding-set): Slip into effortless luxury with this Tencel bedding set in a soft ivory shade. The smooth, breathable fabric drapes beautifully with flowing ruffles for a romantic, elevated look. Subtle jacquard details add texture while keeping the aesthetic clean and serene, creating a calm, airy bedroom atmosphere that feels like sleeping on a cloud. Perfect for those who love comfort with a touch of elegance. The FeelSilky, and breathable, perfect for all-season What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 35% cotton, 65% Lyocell 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:32Z
+  Updated: 2026-03-05T07:14:04Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863265189_0_bdaf616c-61e7-46f7-84e9-3bd462692a45.jpg?v=1768304909
   - [Single](https://vansilkhome.co.uk/products/ivory-ruffle-cloud-tencel-bedding-set?variant=42919959199857)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/ivory-ruffle-cloud-tencel-bedding-set?variant=42919959232625)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/ivory-ruffle-cloud-tencel-bedding-set?variant=42919960936561)
     Availability: Available
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/ivory-ruffle-cloud-tencel-bedding-set?variant=42919960969329)
     Availability: Not Available
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [Vintage Oil Garden Ruched Bedding Set](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set): Crafted from soft, breathable cotton, this set features a unique "garden oil" print technique that mimics the rich texture and brushstrokes of a classical painting. The intricate floral body is framed by a dramatic, voluminous ruched layer that cascades over the edge of the bed like a ballgown, adding luxurious weight and movement to your décor. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:41Z
+  Updated: 2026-03-05T07:14:03Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
@@ -3597,37 +3597,37 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Single / Twilight Mauve](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919959265393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863405917_14.jpg?v=1768304913
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Single / Morning Sage](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919959298161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863413010_8.jpg?v=1768304914
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double / Twilight Mauve](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919959330929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863405917_14.jpg?v=1768304913
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [Double / Morning Sage](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919959363697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863413010_8.jpg?v=1768304914
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King / Twilight Mauve](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919961100401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863405917_14_a9c71b5a-c652-43c1-a4e5-956e7a6d0ce1.jpg?v=1768304917
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [King / Morning Sage](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919961133169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863413010_0_2d431b48-dd24-4cb6-bd73-53b7cbcc20e0.jpg?v=1768304917
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King / Twilight Mauve](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919961165937)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863405917_14_a9c71b5a-c652-43c1-a4e5-956e7a6d0ce1.jpg?v=1768304917
-    Price: £239.00 GBP
+    Price: £159.00 GBP
   - [Super King / Morning Sage](https://vansilkhome.co.uk/products/vintage-oil-garden-ruched-bedding-set?variant=42919961198705)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863413010_0_2d431b48-dd24-4cb6-bd73-53b7cbcc20e0.jpg?v=1768304917
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [Coquette Lolita Ruffle Bedding Set](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set): Soft blush pink and light cyan color options, lace trim, and cascading ruffles give this bedding set its signature coquette lolita charm. Sweet illustrated details add a playful, vintage feel, creating a dreamy, doll-like atmosphere that instantly elevates your bedroom with elegance and feminine style. The FeelSilky, and breathable, perfect for all-season What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton (excluding lace) 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:54Z
+  Updated: 2026-03-05T07:14:02Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
@@ -3635,467 +3635,467 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Single / Pink](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919961886833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863297753_6.jpg?v=1768304921
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Single / Cyan](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919961919601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863304203_7.jpg?v=1768304923
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Double / Pink](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919961952369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863297753_4.jpg?v=1768304920
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [Double / Cyan](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919961985137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863304203_7.jpg?v=1768304923
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [King / Pink](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919964147825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863297871_15.jpg?v=1768304921
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [King / Cyan](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919964180593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863304204_10.jpg?v=1768304923
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [Super King / Pink](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919964213361)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863297871_15.jpg?v=1768304921
-    Price: £219.00 GBP
+    Price: £159.00 GBP
   - [Super King / Cyan](https://vansilkhome.co.uk/products/coquette-lolita-ruffle-bedding-set?variant=42919964246129)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863304203_7.jpg?v=1768304923
-    Price: £219.00 GBP
+    Price: £159.00 GBP
 - [Vintage Bloom Ruched Floral Bedding Set](https://vansilkhome.co.uk/products/vintage-bloom-ruched-floral-bedding-set): Soft cotton fabric meets romantic floral printing in this dreamy ruched bedding set. The silky cinched trim adds elegant dimension, while muted vintage blossoms create a warm, cottage-inspired atmosphere. Cozy, feminine, and effortlessly charming, perfect for bringing a touch of timeless garden beauty to your bedroom. The FeelSilky, and breathable, perfect for all-season What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton (excluding ruched layer) 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:58Z
+  Updated: 2026-03-05T07:14:02Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863315664_0_75166a83-3a9d-40df-8294-f1eba2475dcb.jpg?v=1768304924
   - [Sing](https://vansilkhome.co.uk/products/vintage-bloom-ruched-floral-bedding-set?variant=42919962017905)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/vintage-bloom-ruched-floral-bedding-set?variant=42919962050673)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/vintage-bloom-ruched-floral-bedding-set?variant=42919964344433)
     Availability: Available
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/vintage-bloom-ruched-floral-bedding-set?variant=42919964377201)
     Availability: Not Available
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [White Whisper Embroidered Ruched Ruffle Bedding Set](https://vansilkhome.co.uk/products/white-whisper-embroidered-ruched-ruffle-bedding-set): This elegant bedding set features washed white cotton with delicate embroidery, ruched layering, and soft ruffle detailing. A serene, airy design that brings quiet luxury and timeless romance to your bedroom. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:50Z
+  Updated: 2026-03-05T07:14:02Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863390991_1_8611f9bb-3447-4e12-b4bd-f634f3f52bbd.jpg?v=1768304926
   - [Single](https://vansilkhome.co.uk/products/white-whisper-embroidered-ruched-ruffle-bedding-set?variant=42919962083441)
     Availability: Available
-    Price: £169.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/white-whisper-embroidered-ruched-ruffle-bedding-set?variant=42919962116209)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/white-whisper-embroidered-ruched-ruffle-bedding-set?variant=42919964541041)
     Availability: Available
-    Price: £209.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/white-whisper-embroidered-ruched-ruffle-bedding-set?variant=42919964573809)
     Availability: Not Available
-    Price: £229.00 GBP
+    Price: £159.00 GBP
 - [Blossom Veil Ruffle Bedding Set](https://vansilkhome.co.uk/products/blossom-veil-ruffle-duvet-cover): Soft, romantic, and effortlessly elegant, this duvet cover brings a gentle vintage charm to your bedroom. Crafted from a smooth Lyocell and cotton blend, the fabric feels breathable and gentle against the skin while maintaining a light, airy drape. Delicate floral prints create a dreamy, garden-inspired look, beautifully complemented by flowing ruffle trim that adds softness and movement. Perfect for those who love a cozy yet refined aesthetic, it transforms everyday rest into a serene, romantic retreat. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 35% cotton, 65% Lyocell 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:48:52Z
+  Updated: 2026-03-05T07:14:01Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863461785_0_f73b7580-3858-4f31-9798-ba5371cc5283.jpg?v=1768304929
   - [Single](https://vansilkhome.co.uk/products/blossom-veil-ruffle-duvet-cover?variant=42919962148977)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/blossom-veil-ruffle-duvet-cover?variant=42919962181745)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/blossom-veil-ruffle-duvet-cover?variant=42919964606577)
     Availability: Available
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/blossom-veil-ruffle-duvet-cover?variant=42919964639345)
     Availability: Not Available
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [Meadow Whisper Ruffle Bedding Set](https://vansilkhome.co.uk/products/meadow-whisper-ruffle-duvet-cover): Soft and graceful, this duvet cover captures the feeling of a quiet spring meadow. Made from a breathable Lyocell and cotton blend, it offers a smooth, airy touch that feels gentle against the skin. The watercolor-style floral pattern brings a natural, hand-painted charm, while delicate ruffle detailing adds depth and romantic movement. Light, cozy, and effortlessly elegant, it's designed to create a serene, lived-in bedroom atmosphere with a subtle vintage touch. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 35% cotton, 65% Lyocell 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:00Z
+  Updated: 2026-03-05T07:14:01Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863470726_1_f00c5291-1fe9-431f-be8f-89a3db474fc2.jpg?v=1768304931
   - [Single](https://vansilkhome.co.uk/products/meadow-whisper-ruffle-duvet-cover?variant=42919962214513)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/meadow-whisper-ruffle-duvet-cover?variant=42919962247281)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/meadow-whisper-ruffle-duvet-cover?variant=42919966081137)
     Availability: Available
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/meadow-whisper-ruffle-duvet-cover?variant=42919966113905)
     Availability: Not Available
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [Oil Garden Veil Ruffle Bedding Set](https://vansilkhome.co.uk/products/oil-garden-veil-ruffle-duvet-cover): Soft and expressive, this duvet cover is inspired by the gentle depth and texture of oil-painted florals. The layered floral pattern blends muted tones and painterly details, creating a rich yet calming garden atmosphere. Crafted from a breathable Lyocell and cotton blend, it offers a smooth, airy feel with natural softness for everyday comfort. Flowing ruffle trim adds a veil-like elegance, bringing movement and romance to the bed. Perfect for those who love an artistic, vintage-inspired bedroom with a cozy, refined touch. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 35% cotton, 65% Lyocell 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:03Z
+  Updated: 2026-03-05T07:14:01Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1764863483904_1_c0d99c35-8f21-4599-8626-2e4a0bbc30d3.jpg?v=1768304934
   - [Single](https://vansilkhome.co.uk/products/oil-garden-veil-ruffle-duvet-cover?variant=42919962280049)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/oil-garden-veil-ruffle-duvet-cover?variant=42919962312817)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/oil-garden-veil-ruffle-duvet-cover?variant=42919966474353)
     Availability: Available
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/oil-garden-veil-ruffle-duvet-cover?variant=42919966507121)
     Availability: Not Available
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [Autumn Patchwork Gauze Ruffle Bedding Set](https://vansilkhome.co.uk/products/autumn-patchwork-gauze-ruffle-duvet-cover): Warm and inviting, this duvet cover brings a cozy, lived-in charm to your bedroom. Crafted from soft cotton muslin gauze, it features a naturally textured weave that feels breathable, lightweight, and gentle against the skin. The earthy patchwork design blends muted greens, blush tones, and warm browns for a relaxed, rustic aesthetic, while ruffle trim adds a soft, vintage-inspired finish. Perfect for year-round comfort, it creates a calm, effortless space with a touch of handcrafted warmth. The FeelSoft, and silky feel, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices. The included pillowcases are the same color as the duvet cover. If you'd like to mix and match pillowcases, please contact us.
-  Updated: 2026-01-13T11:49:06Z
+  Updated: 2026-03-05T07:14:01Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005565868_0_0a10cd55-d7d5-4ad9-be88-680945abb28c.jpg?v=1768304936
   - [Single](https://vansilkhome.co.uk/products/autumn-patchwork-gauze-ruffle-duvet-cover?variant=42919962345585)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £109.00 GBP
   - [Double](https://vansilkhome.co.uk/products/autumn-patchwork-gauze-ruffle-duvet-cover?variant=42919962378353)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £119.00 GBP
   - [King](https://vansilkhome.co.uk/products/autumn-patchwork-gauze-ruffle-duvet-cover?variant=42919962411121)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £129.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/autumn-patchwork-gauze-ruffle-duvet-cover?variant=42919966769265)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £139.00 GBP
 - [Classic Gingham Lace Ruffle Bedding Set](https://vansilkhome.co.uk/products/classic-gingham-lace-ruffle-duvet-cover): Timeless and cozy, this duvet cover blends classic gingham patterning with soft romantic details. Made from breathable cotton fabric, it offers a comfortable, lived-in feel that's perfect for everyday use. The crisp black-and-white checks bring a charming farmhouse aesthetic, while delicate lace-trimmed ruffles add a graceful, vintage touch. Designed to feel both warm and refined, it creates an inviting bedroom atmosphere that's effortlessly elegant and comforting. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:08Z
+  Updated: 2026-03-05T07:14:00Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005597007_1_89c59598-f048-4d76-8b66-2cb8e31a909e.jpg?v=1768304939
   - [Single](https://vansilkhome.co.uk/products/classic-gingham-lace-ruffle-duvet-cover?variant=42919962443889)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £109.00 GBP
   - [Double](https://vansilkhome.co.uk/products/classic-gingham-lace-ruffle-duvet-cover?variant=42919962476657)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £119.00 GBP
   - [King](https://vansilkhome.co.uk/products/classic-gingham-lace-ruffle-duvet-cover?variant=42919966867569)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £129.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/classic-gingham-lace-ruffle-duvet-cover?variant=42919966900337)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £139.00 GBP
 - [Quiet Manor Toile Ruched Bedding Set](https://vansilkhome.co.uk/products/quiet-manor-toile-ruffle-duvet-cover): Softly elegant and timeless, this bedding set draws inspiration from classic toile patterns and calm countryside interiors. The detailed pastoral print adds a refined, vintage character, while gently ruched fabric introduces depth, texture, and a relaxed drape. Crafted for everyday comfort, the material feels breathable and smooth, creating a cozy yet polished sleep experience. Finished with subtle ruffle accents, it brings a quiet, manor-house charm to the bedroom - serene, romantic, and effortlessly refined. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:06Z
+  Updated: 2026-03-05T07:14:00Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005627767_2_ba01dcdf-9c7f-4b7c-9b3d-6e8c17a568f7.jpg?v=1768304942
   - [Single](https://vansilkhome.co.uk/products/quiet-manor-toile-ruffle-duvet-cover?variant=42919962509425)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/quiet-manor-toile-ruffle-duvet-cover?variant=42919962542193)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/quiet-manor-toile-ruffle-duvet-cover?variant=42919967260785)
     Availability: Available
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/quiet-manor-toile-ruffle-duvet-cover?variant=42919967293553)
     Availability: Not Available
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [Heritage Meadow Toile Ruched Bedding Set](https://vansilkhome.co.uk/products/heritage-meadow-toile-ruched-bedding-set): Calm and thoughtfully detailed, this bedding set blends classic toile artistry with soft, modern comfort. The intricate pastoral print adds a timeless, heritage-inspired charm, while gently ruched fabric creates beautiful texture and a relaxed, flowing drape. Crafted for everyday ease, the material feels breathable and cozy, perfect for unwinding at the end of the day. Finished in soothing neutral tones, it brings a sense of quiet elegance and lived-in warmth to the bedroom, ideal for serene, countryside-inspired spaces. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:08Z
+  Updated: 2026-03-05T07:14:00Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005628921_1_a4706ec7-02f7-45a9-b45b-46f7dc7ec63d.jpg?v=1768304945
   - [Single](https://vansilkhome.co.uk/products/heritage-meadow-toile-ruched-bedding-set?variant=42919962574961)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/heritage-meadow-toile-ruched-bedding-set?variant=42919962607729)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/heritage-meadow-toile-ruched-bedding-set?variant=42919967981681)
     Availability: Available
-    Price: £219.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/heritage-meadow-toile-ruched-bedding-set?variant=42919968014449)
     Availability: Not Available
-    Price: £239.00 GBP
+    Price: £159.00 GBP
 - [Rosewater Bloom Ruched Tencel Ruffle Bedding Set](https://vansilkhome.co.uk/products/rosewater-bloom-smocked-tencel-ruffle-bedding-set): Softly romantic and exquisitely detailed, this bedding set is designed to feel like a vintage heirloom with modern luxury comfort. Crafted from smooth, breathable Tencel fabric, it drapes beautifully with a naturally cool and silky touch. The painterly floral print evokes a dreamy garden in bloom, while smocked panels and embellished ruffle trim add depth, texture, and artisanal charm. Layered detailing creates a graceful, couture-inspired look that feels both delicate and indulgent-perfect for transforming your bedroom into an elegant, romantic retreat. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 35% cotton, 65% Lyocell 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:19Z
+  Updated: 2026-03-05T07:13:59Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005642373_2_f71d2ad4-4d89-4f14-87f5-7a9072b42bd4.jpg?v=1768304947
   - [Single](https://vansilkhome.co.uk/products/rosewater-bloom-smocked-tencel-ruffle-bedding-set?variant=42919962640497)
     Availability: Available
-    Price: £169.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/rosewater-bloom-smocked-tencel-ruffle-bedding-set?variant=42919962673265)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/rosewater-bloom-smocked-tencel-ruffle-bedding-set?variant=42919969620081)
     Availability: Available
-    Price: £209.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/rosewater-bloom-smocked-tencel-ruffle-bedding-set?variant=42919969652849)
     Availability: Not Available
-    Price: £229.00 GBP
+    Price: £159.00 GBP
 - [Roseveil Garden Ruched & Ruffle Tencel Bedding Set](https://vansilkhome.co.uk/products/roseveil-garden-ruched-ruffle-tencel-bedding-set): Softly romantic and exquisitely detailed, this bedding set is designed to feel like a vintage heirloom with modern luxury comfort. Crafted from smooth, breathable Tencel fabric, it drapes beautifully with a naturally cool and silky touch. The painterly floral print evokes a dreamy garden in bloom, while smocked panels and embellished ruffle trim add depth, texture, and artisanal charm. Layered detailing creates a graceful, couture-inspired look that feels both delicate and indulgent, perfect for transforming your bedroom into an elegant, romantic retreat. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 35% cotton, 65% Lyocell 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:22Z
+  Updated: 2026-03-05T07:13:59Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005643593_3_617d5f4e-1a41-4219-afde-8549d80d5384.jpg?v=1768304950
   - [Single](https://vansilkhome.co.uk/products/roseveil-garden-ruched-ruffle-tencel-bedding-set?variant=42919962706033)
     Availability: Available
-    Price: £169.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/roseveil-garden-ruched-ruffle-tencel-bedding-set?variant=42919962738801)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/roseveil-garden-ruched-ruffle-tencel-bedding-set?variant=42919969751153)
     Availability: Available
-    Price: £209.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/roseveil-garden-ruched-ruffle-tencel-bedding-set?variant=42919969783921)
     Availability: Not Available
-    Price: £229.00 GBP
+    Price: £159.00 GBP
 - [Willowbrook Toile Muslin Gauze Ruffle Bedding Set - Blue](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-blue): Weave a tale of timeless romance and rustic charm with the Willowbrook Toile Bedding Set. Crafted from whisper-soft, breathable muslin gauze, this set brings a gentle, lived-in comfort to your sleep space. The fabric's delicate crinkle and airy feel create an inviting sanctuary you'll love sinking into. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:28Z
+  Updated: 2026-03-05T07:13:58Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005781737_5_ade09c05-e92b-45fa-bb10-eea2a422878a.jpg?v=1768304953
   - [Single](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-blue?variant=42919962771569)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-blue?variant=42919962804337)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-blue?variant=42919970013297)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-blue?variant=42919970046065)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £159.00 GBP
 - [Willowbrook Toile Muslin Gauze Ruffle Bedding Set - Beige](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-beige): Step into a story steeped in warmth and nostalgia with the Willowbrook Toile Bedding Set in Beige. Crafted from exquisitely soft, breathable muslin gauze, this set offers a tactile comfort that feels both airy and grounding. The fabric's signature delicate crinkle creates a lived-in, relaxed feel that invites you to unwind in pure comfort. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:18Z
+  Updated: 2026-03-05T07:13:58Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005783677_0_9bdb5d73-0974-4026-a139-f535c5414882.jpg?v=1768304955
   - [Single](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-beige?variant=42919962837105)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-beige?variant=42919962869873)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-beige?variant=42919970144369)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/willowbrook-toile-muslin-gauze-ruffle-bedding-set-beige?variant=42919970177137)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £159.00 GBP
 - [Sweet Gingham Ruffle Bedding](https://vansilkhome.co.uk/products/sweet-gingham-ruffle-bedding): Made from breathable cotton gauze, this bedding set features a classic red and white gingham pattern accented with charming ruffle edges. The lightweight double-layer gauze fabric offers a soft, airy feel that's gentle on the skin and perfect for year-round comfort. Finished with playful ruffles, it brings a cozy, nostalgic charm to your bedroom while maintaining a light and effortless look. The FeelSoft, and silky feel, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:20Z
+  Updated: 2026-03-05T07:13:58Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005842398_1_d21f4ad7-38f4-4170-8d7f-ff3b674e9c89.jpg?v=1768304958
   - [Single](https://vansilkhome.co.uk/products/sweet-gingham-ruffle-bedding?variant=42919962902641)
     Availability: Available
-    Price: £149.00 GBP
+    Price: £119.00 GBP
   - [Double](https://vansilkhome.co.uk/products/sweet-gingham-ruffle-bedding?variant=42919962935409)
     Availability: Available
-    Price: £169.00 GBP
+    Price: £129.00 GBP
   - [King](https://vansilkhome.co.uk/products/sweet-gingham-ruffle-bedding?variant=42919962968177)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £139.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/sweet-gingham-ruffle-bedding?variant=42919970242673)
     Availability: Not Available
-    Price: £209.00 GBP
+    Price: £149.00 GBP
 - [Blossom Puff Ruffle Muslin Bedding Set](https://vansilkhome.co.uk/products/rosebud-dream-ruffle-bedding): Soft, airy, and delicately romantic, this bedding set is crafted from breathable muslin gauze that feels light and gentle against the skin. The subtle floral print is paired with cascading ruffle trims, adding a sweet, cottage-inspired charm to your bedroom. Naturally textured and effortlessly cozy, the muslin gauze fabric offers year-round comfort while the layered ruffles bring softness, movement, and a dreamy finish. Perfect for creating a calm, feminine space with a vintage touch. The FeelSoft, and breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:34Z
+  Updated: 2026-03-05T07:13:57Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005944080_1_c906d4e3-2666-4010-99cc-25aaa6bb8dcf.jpg?v=1768304960
   - [Single](https://vansilkhome.co.uk/products/rosebud-dream-ruffle-bedding?variant=42919963000945)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/rosebud-dream-ruffle-bedding?variant=42919963033713)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/rosebud-dream-ruffle-bedding?variant=42919963066481)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/rosebud-dream-ruffle-bedding?variant=42919970308209)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £159.00 GBP
 - [Bluebell Whisper Ruffle Muslin Gauze Bedding Set](https://vansilkhome.co.uk/products/bluebell-whisper-ruffle-muslin-gauze-bedding-set): Light, airy, and softly romantic, this bedding set is crafted from breathable muslin gauze with a naturally crinkled texture for effortless comfort. Delicate blue floral motifs scatter across the fabric, creating a gentle vintage-inspired look. Finished with layered ruffle trims along the edges and pillow shams, it adds softness, movement, and a charming cottage feel to your bedroom. Perfect for those who love a cozy, feminine aesthetic with a light and dreamy touch. The FeelSoft, and breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:49:30Z
+  Updated: 2026-03-05T07:13:57Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005951182_1_4aca061f-1c20-4e08-8d13-fef645bb06f0.jpg?v=1768304962
   - [Single](https://vansilkhome.co.uk/products/bluebell-whisper-ruffle-muslin-gauze-bedding-set?variant=42919963099249)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/bluebell-whisper-ruffle-muslin-gauze-bedding-set?variant=42919963132017)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/bluebell-whisper-ruffle-muslin-gauze-bedding-set?variant=42919963164785)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/bluebell-whisper-ruffle-muslin-gauze-bedding-set?variant=42919970570353)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £159.00 GBP
 - [Blush Meadow Ruffle Muslin Gauze Bedding Set](https://vansilkhome.co.uk/products/blush-meadow-ruffle-muslin-gauze-duvet-cover-set): Softly romantic and effortlessly elegant, the Blush Meadow Ruffle Muslin Gauze Duvet Cover Set brings vintage charm and everyday comfort together in perfect balance. Designed for those who love gentle florals and delicate details, this set transforms your bedroom into a calm, cozy retreat. The FeelSoft, and Breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:46:17Z
+  Updated: 2026-03-05T07:13:57Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005985037_1_6cd56552-1356-4caa-bbbb-a5a9cb510d5c.jpg?v=1768304774
   - [Single](https://vansilkhome.co.uk/products/blush-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930677481585)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/blush-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930677514353)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/blush-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930677547121)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/blush-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930679054449)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £159.00 GBP
 - [Autumn Meadow Ruffle Muslin Gauze Bedding Set](https://vansilkhome.co.uk/products/autumn-meadow-ruffle-muslin-gauze-duvet-cover-set): Designed as a sister style to the original, this version features the same airy muslin gauze fabric and romantic ruffle detailing, reimagined with a deeper, earth-toned floral pattern for a warmer, more grounded look. The FeelSoft, and Breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:46:26Z
+  Updated: 2026-03-05T07:13:57Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766005993420_0_ed8e6773-5a76-4b81-a1f1-c8a01fe2a9c2.jpg?v=1768304776
   - [Single](https://vansilkhome.co.uk/products/autumn-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930677579889)
     Availability: Available
-    Price: £159.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/autumn-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930677612657)
     Availability: Available
-    Price: £179.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/autumn-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930677645425)
     Availability: Available
-    Price: £199.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/autumn-meadow-ruffle-muslin-gauze-duvet-cover-set?variant=42930679251057)
     Availability: Not Available
-    Price: £219.00 GBP
+    Price: £159.00 GBP
 - [Ivory Whisper Ruffle Cotton Bedding Set](https://vansilkhome.co.uk/products/ivory-whisper-ruffle-cotton-duvet-cover-set): Minimal yet romantic, the Ivory Whisper Ruffle Cotton Duvet Cover Set blends soft satin-dyed cotton with airy muslin gauze cotton for a beautifully balanced look. Finished with delicate ruffles and contrast edging, it brings a quiet elegance to light, serene bedroom spaces. The FeelSoft, and Breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:46:21Z
+  Updated: 2026-03-05T07:13:56Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1766006084001_1_c9d1ae24-da9f-4e3c-9fe9-75c51615bd37.jpg?v=1768304778
   - [Single](https://vansilkhome.co.uk/products/ivory-whisper-ruffle-cotton-duvet-cover-set?variant=42930677678193)
     Availability: Available
-    Price: £165.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/ivory-whisper-ruffle-cotton-duvet-cover-set?variant=42930677710961)
     Availability: Available
-    Price: £185.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/ivory-whisper-ruffle-cotton-duvet-cover-set?variant=42930677743729)
     Availability: Available
-    Price: £205.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/ivory-whisper-ruffle-cotton-duvet-cover-set?variant=42930679316593)
     Availability: Not Available
-    Price: £225.00 GBP
+    Price: £159.00 GBP
 - [Sage Ruffle Embroidered Bedding Set](https://vansilkhome.co.uk/products/sage-ruffle-embroidered-duvet-cover-set): Softly elegant with a natural, romantic touch, this bedding set pairs smooth sage green sateen cotton with delicately embroidered gauze accents. Gentle ruffles and airy textures create a layered look that feels both refined and relaxed. The FeelSoft, and Silky, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:46:33Z
+  Updated: 2026-03-05T07:13:55Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1767383531494_2_cfb8c89c-3ce7-4c28-8691-41ab1d79f484.jpg?v=1768304780
   - [Single](https://vansilkhome.co.uk/products/sage-ruffle-embroidered-duvet-cover-set?variant=42930677776497)
     Availability: Available
-    Price: £169.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/sage-ruffle-embroidered-duvet-cover-set?variant=42930677809265)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/sage-ruffle-embroidered-duvet-cover-set?variant=42930677842033)
     Availability: Available
-    Price: £209.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/sage-ruffle-embroidered-duvet-cover-set?variant=42930680070257)
     Availability: Not Available
-    Price: £229.00 GBP
+    Price: £159.00 GBP
 - [Soft-Grain Jacquard Cotton Ruffle Bedding](https://vansilkhome.co.uk/products/soft-grain-jacquard-cotton-ruffle-bedding): Crafted from textured jacquard cotton, this bedding set features a subtle grain pattern that adds depth while keeping a clean, timeless look. Soft ruffle detailing brings gentle movement and a romantic finish, balancing structure with softness. Breathable and comfortable for everyday use, it creates a serene, elegant bedroom atmosphere that feels both refined and inviting. The FeelSoft, and Breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:46:33Z
+  Updated: 2026-03-05T07:13:55Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1767385576723_3_848c2e6d-3fc1-4698-b814-526dd30a7388.jpg?v=1768304782
   - [Single](https://vansilkhome.co.uk/products/soft-grain-jacquard-cotton-ruffle-bedding?variant=42930677874801)
     Availability: Available
-    Price: £165.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/soft-grain-jacquard-cotton-ruffle-bedding?variant=42930677907569)
     Availability: Available
-    Price: £185.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/soft-grain-jacquard-cotton-ruffle-bedding?variant=42930677940337)
     Availability: Available
-    Price: £205.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/soft-grain-jacquard-cotton-ruffle-bedding?variant=42930680135793)
     Availability: Not Available
-    Price: £225.00 GBP
+    Price: £159.00 GBP
 - [Muted Green Jacquard Ruffle Bedding Set](https://vansilkhome.co.uk/products/muted-green-jacquard-ruffle-bedding-set): Woven from textured jacquard fabric in a soft, muted green tone, this bedding set brings a calm, vintage-inspired charm to the bedroom. The subtle floral pattern adds depth without overpowering the space, while delicate ruffle detailing creates gentle movement and softness. Comfortable, breathable, and quietly elegant, it’s designed to feel warm, relaxed, and timeless - perfect for creating a serene, lived-in retreat. The FeelSoft, and Breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:46:37Z
+  Updated: 2026-03-05T07:13:55Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1767385867192_1_f635e2da-e39b-49d5-8493-c8165d591374.jpg?v=1768304784
   - [Single](https://vansilkhome.co.uk/products/muted-green-jacquard-ruffle-bedding-set?variant=42930677973105)
     Availability: Available
-    Price: £169.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/muted-green-jacquard-ruffle-bedding-set?variant=42930678005873)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/muted-green-jacquard-ruffle-bedding-set?variant=42930678038641)
     Availability: Available
-    Price: £209.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/muted-green-jacquard-ruffle-bedding-set?variant=42930680201329)
     Availability: Not Available
-    Price: £229.00 GBP
+    Price: £159.00 GBP
 - [Earth-Tone Brushed Sateen Lace Ruffle Bedding Set](https://vansilkhome.co.uk/products/earth-tone-brushed-sateen-lace-ruffle-duvet-cover-set): Crafted from smooth brushed sateen, this duvet cover set offers a soft, refined hand feel with a gentle sheen. The warm earth-toned palette brings natural warmth to the bedroom, while delicate white lace ruffle detailing adds a romantic, vintage-inspired contrast. Designed for everyday comfort and timeless elegance, it creates a cozy, inviting space that feels both graceful and lived-in. The FeelSoft, and Breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:46:29Z
+  Updated: 2026-03-05T07:07:19Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1767386178915_0_e61327ed-df5f-454b-ba7c-7ee3615cff0c.jpg?v=1768304787
   - [Single](https://vansilkhome.co.uk/products/earth-tone-brushed-sateen-lace-ruffle-duvet-cover-set?variant=42930678071409)
     Availability: Available
-    Price: £155.00 GBP
+    Price: £125.00 GBP
   - [Double](https://vansilkhome.co.uk/products/earth-tone-brushed-sateen-lace-ruffle-duvet-cover-set?variant=42930678104177)
     Availability: Available
-    Price: £175.00 GBP
+    Price: £135.00 GBP
   - [King](https://vansilkhome.co.uk/products/earth-tone-brushed-sateen-lace-ruffle-duvet-cover-set?variant=42930678136945)
     Availability: Available
-    Price: £195.00 GBP
+    Price: £145.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/earth-tone-brushed-sateen-lace-ruffle-duvet-cover-set?variant=42930680234097)
     Availability: Not Available
-    Price: £215.00 GBP
+    Price: £155.00 GBP
 - [Butterfly Jacquard Cotton Sateen Ruched Ruffle Bedding Set](https://vansilkhome.co.uk/products/butterfly-jacquard-cotton-sateen-ruched-ruffle-bedding-set): Woven from smooth cotton sateen, this bedding set features an elegant butterfly jacquard pattern that adds subtle texture and a dreamy, romantic touch. The softly ruched ruffle detailing creates graceful movement and dimension, enhancing its light, airy feel. Finished in a gentle ivory tone, it brings a sense of quiet luxury and softness to the bedroom—perfect for those who love delicate details and refined femininity. The FeelSoft, and Breathable, perfect for all-season What's included: Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton (ruched trim excluded) 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T12:05:56Z
+  Updated: 2026-03-05T07:06:18Z
   Vendor: Breezora
   Product Type: Bedding Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/wsxc1767386692573_0_49b9e718-c278-4843-bd1a-468d23eae32e.jpg?v=1768304789
   - [Single](https://vansilkhome.co.uk/products/butterfly-jacquard-cotton-sateen-ruched-ruffle-bedding-set?variant=42930678169713)
     Availability: Available
-    Price: £189.00 GBP
+    Price: £129.00 GBP
   - [Double](https://vansilkhome.co.uk/products/butterfly-jacquard-cotton-sateen-ruched-ruffle-bedding-set?variant=42930678202481)
     Availability: Available
-    Price: £209.00 GBP
+    Price: £139.00 GBP
   - [King](https://vansilkhome.co.uk/products/butterfly-jacquard-cotton-sateen-ruched-ruffle-bedding-set?variant=42930678235249)
     Availability: Available
-    Price: £229.00 GBP
+    Price: £149.00 GBP
   - [Super King](https://vansilkhome.co.uk/products/butterfly-jacquard-cotton-sateen-ruched-ruffle-bedding-set?variant=42930680266865)
     Availability: Not Available
-    Price: £249.00 GBP
+    Price: £159.00 GBP
 [List Continued](https://vansilkhome.co.uk/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTY3ODUzNzgxMTA1LCJsYXN0X3ZhbHVlIjoiNzU2Nzg1Mzc4MTEwNSJ9)
 
 ## Collections
@@ -4113,10 +4113,10 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   Updated: 2025-12-23T11:42:08Z
   Total Products: 0
 - [Bedding Sets](https://vansilkhome.co.uk/collections/bedding-sets)
-  Updated: 2026-01-13T08:41:39Z
+  Updated: 2026-03-05T07:51:30Z
   Total Products: 53
 - [Duvet Covers](https://vansilkhome.co.uk/collections/bedding-sets-copy)
-  Updated: 2026-02-24T12:20:03Z
+  Updated: 2026-03-05T07:51:31Z
   Total Products: 97
 - [Pillowcases & Shams](https://vansilkhome.co.uk/collections/duvet-covers-copy)
   Updated: 2025-12-25T05:34:48Z
