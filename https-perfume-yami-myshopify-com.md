@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-01-14T21:49:54Z
 - Contact Email: perfumeyami@gmail.com
-- Updated At: 2026-02-27T06:54:12.961Z
+- Updated At: 2026-03-07T00:00:23.988Z
 
 ## Products
 
@@ -388,13 +388,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/z0.webp?v=1769206052
   Price: R 280.00 ZAR
-- [Nebras by Lattafa Perfumes](https://perfume-yami.myshopify.com/products/nebras-by-lattafa-perfumes): Nebras by Lattafa Perfumes is a rich Amber Vanilla fragrance crafted for both women and men. Launched in 2022, this scent is pure dessert-core luxury — warm, smooth, and quietly addictive. It opens with a juicy splash of red berries and mandarin orange, bright and playful. The heart melts into a creamy blend of vanilla, cacao, and soft rose, giving it depth and elegance. As it settles, sugar, tonka bean, amber, and musk wrap the skin in a cozy, long-lasting sweetness that feels intimate and confident. Fragrance Notes Top: Red Berries, Mandarin Orange Middle: Vanilla, Cacao, Rose Base: Sugar, Tonka Bean, Amber, Musk ✨ Sweet but grown. Warm but bold.Nebras doesn’t shout — it lingers.
-  Updated: 2026-01-30T19:01:37Z
-  Vendor: Perfume Yami 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/o1.webp?v=1769206505
-  Price: R 550.00 ZAR
 - [Barakkat Rouge 540 by Fragrance World](https://perfume-yami.myshopify.com/products/barakkat-rouge-540-by-fragrance-world): Barakkat Rouge 540 by Fragrance World is a refined Amber Floral fragrance designed for both women and men. This scent is all about presence — bold, elegant, and quietly powerful. It opens with the warm spice of saffron blended with airy jasmine, creating an immediate sense of luxury. The heart unfolds into a glowing mix of amberwood and ambergris, giving the fragrance its signature depth and addictive warmth. As it dries down, fir resin and cedar add a woody, slightly smoky finish that lingers beautifully on the skin. Fragrance Notes Top: Saffron, Jasmine Middle: Amberwood, Ambergris Base: Fir Resin, Cedar ✨ Clean. Warm. Unforgettable.This is the kind of scent that turns heads without trying.
   Updated: 2026-02-01T18:11:19Z
   Vendor: Perfume Yami 
@@ -557,12 +550,26 @@
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/8c6597.webp?v=1772128404
   Price: R 350.00 ZAR
 - [Qaed Al Fursan](https://perfume-yami.myshopify.com/products/qaed-al-fursan): 💈 Smell Like a King After Every Shave! 💈🔥 Introducing Qaed Al Fursan Aftershave by Lattafa – the bold, masculine scent that lingers long after you’ve left the room. 👑💨 🧼✨ A Touch of Luxury After Every Shave Infused with the legendary Qaed Al Fursan aroma – woody 🌲, spicy 🌶️, and irresistibly powerful 💪. ✅ Long-lasting freshness 🌬️ ✅ Soothes & cools the skin ❄️ ✅ Complements the iconic EDP 💎 💸 Price: R500💯 Slogan: Quality is our identity⏳ Limited stock – secure yours tod
-  Updated: 2026-02-26T18:18:46Z
+  Updated: 2026-02-27T14:24:50Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/b1ff22.webp?v=1772129880
   Price: R 500.00 ZAR
+- [aed Al Fursan Unlimited (Lattafa) 90ml](https://perfume-yami.myshopify.com/products/aed-al-fursan-unlimited-lattafa-90ml): 🌴 Perfume Description — Qaed Al Fursan Unlimited (Lattafa) 90ml A bottle that whispers “tropical sunset energy” — sweet but grounded, lively but calm. Crack the cap and it’s like: ✨ Top notes: juicy pineapple + fresh citrus that hits first — almost like a breeze off the beach.🌺 Heart notes: lush frangipani, jasmine, ylang-ylang — floral warmth that hugs your senses without screaming.🔥 Base notes: creamy vanilla + sandalwood + soft musk — the kind of whisper that stays with you long after you leave. It’s not just scent — it’s vibes. Easygoing but confident. Sweet without being syrupy. Warm without weighing you down. This is a feel-good signature that plays like summer and sticks like a memory.
+  Updated: 2026-02-28T15:15:32Z
+  Vendor: Perfume Yami 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/1Q.jpg?v=1772291689
+  Price: R 500.00 ZAR
+- [Lattafa Yara Tous – Tropical Elegance in a Bottle](https://perfume-yami.myshopify.com/products/lattafa-yara-tous-tropical-elegance-in-a-bottle): ✨ Lattafa Yara Tous – Tropical Elegance in a Bottle ✨ Bring a touch of sunshine to your fragrance collection with Yara Tous by Lattafa Perfumes. This vibrant scent blends tropical fruits, soft florals, and creamy vanilla to create a fragrance that feels warm, playful, and beautifully feminine. The fragrance opens with juicy notes of mango, coconut, and passionfruit, giving it a bright tropical character. In the heart, delicate jasmine and orange blossom add elegance, while the base settles into smooth vanilla and musk for a soft, long-lasting finish. A perfect fragrance for everyday wear, brunch dates, or whenever you want to feel fresh, confident, and radiant. 🌸 Fragrance Notes• Top: Mango, Coconut, Passionfruit• Heart: Jasmine, Orange Blossom• Base: Vanilla, Musk 📦 Product: Yara Tous Eau de Parfum 🚚 Delivery: Nationwide via courier ✨ Perfume YamiWhere quality is identity.
+  Updated: 2026-03-05T10:51:58Z
+  Vendor: Perfume Yami 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/w1.jpg?v=1772707873
+  Price: R 400.00 ZAR
 
 ## Collections
 
