@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-07-23T20:15:53Z
 - Contact Email: jpcustoms.store@gmail.com
-- Updated At: 2026-02-27T00:00:44.509Z
+- Updated At: 2026-03-07T00:00:45.964Z
 
 JP Customs offers premium automotive parts, exterior upgrades, interior accessories, and lighting solutions for car enthusiasts in the UK and internationally at a lower price point than most automotive online stores. Specializing in show-quality finishes and durable engineering, we provide professional-grade automotive upgrades with fast UK delivery and worldwide shipping.
 
@@ -14,7 +14,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
 ## Products
 
 - [T5 LED Dashboard Bulbs W3W 12V Interior Lights 10 Pack](https://jpcustoms.shop/products/10pcs-t5-led-bulb-w3w-w1-2w-led-canbus-car-interior-lights-dashboard-colorful-indicator-wedge-auto-instrument-lamp-12v-110327267653-ivanr): Premium T5 LED dashboard bulbs (W3W/W1.2W) for instrument panel lighting. 12V, 10-pack. Add vibrance to your dashboard. UK stock.
-  Updated: 2026-02-18T18:33:22Z
+  Updated: 2026-03-01T17:41:35Z
   Vendor: JP Customs
   Product Type: LED lights
   Availability: Available
@@ -24,7 +24,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S5cf480db0a574bdbad9eb93a5e6d94a4w_73274319-9711-4b36-b5bd-b64b9a055fed.webp?v=1769022468
     Price: £8.00 GBP
   - [Blue / 10pcs](https://jpcustoms.shop/products/10pcs-t5-led-bulb-w3w-w1-2w-led-canbus-car-interior-lights-dashboard-colorful-indicator-wedge-auto-instrument-lamp-12v-110327267653-ivanr?variant=55342613102917)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S5cf480db0a574bdbad9eb93a5e6d94a4w_73274319-9711-4b36-b5bd-b64b9a055fed.webp?v=1769022468
     Price: £8.00 GBP
   - [Green / 10pcs](https://jpcustoms.shop/products/10pcs-t5-led-bulb-w3w-w1-2w-led-canbus-car-interior-lights-dashboard-colorful-indicator-wedge-auto-instrument-lamp-12v-110327267653-ivanr?variant=55342613135685)
@@ -47,7 +47,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/61X60hOx_bL_d64cf700-c194-4540-b637-06b45e2666ab.jpg?v=1769027981
   Price: £25.00 GBP
 - [Philips LED H1 H3 H4 H7 H11 Ultinon Pro3101 6000K 12V/24V](https://jpcustoms.shop/products/philips-led-h1-h3-h4-h7-h11-ultinon-pro3101-12v-24v-6000k-bright-white-hb3-9005-hb4-9006-hir2-9012-auto-headlight-led-lamps-2x-110327267653-x8xpo): Philips LED H1 H3 H4 H7 H11 Ultinon Pro3101 auto headlight LED lamps. 6000K bright white, 12V/24V. HB3/HB4/HIR2 fitments. Premium 2-pack. UK stock.
-  Updated: 2026-02-18T18:33:45Z
+  Updated: 2026-03-01T16:06:15Z
   Vendor: JP Customs
   Product Type: LED lights
   Availability: Available
@@ -81,7 +81,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Sf5d70d17d26140ebb14aae8606636a92u_76bf2bbd-f521-474d-baf1-48fc3ab4d90f.webp?v=1769020706
     Price: £32.00 GBP
 - [Scorpion Ascari Carbon Fibre Tips](https://jpcustoms.shop/products/scorpion-ascari-carbon-fibre-tips): Hand-crafted carbon fibre exhaust tips with matt finish and 304 stainless steel internals. Premium Scorpion Ascari quality for performance enthusiasts.
-  Updated: 2026-02-15T16:58:37Z
+  Updated: 2026-03-03T15:08:49Z
   Vendor: Diversion Automotive
   Product Type: Exhausts
   Availability: Available
@@ -111,19 +111,21 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/lrgscale17546-90ASC4-Scorpion-Car-Exhaus-Upgrade-Kit-90mm-Carbon-Ascari-All-Makes-and-Models-1498-0.jpg?v=1757275185
     Price: £480.00 GBP
 - [Magnetic Numberplate Kit SWIFTMAG Removable License](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit): SWIFTMAG magnetic numberplate kit - install or remove in seconds. No screws, no tape, no damage. Strong magnets ensure secure, reliable fitting.
-  Updated: 2026-02-25T08:52:21Z
+  Updated: 2026-03-06T17:46:17Z
   Vendor: Diversion Automotive
   Product Type: Numberplate Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/D0E8B7FB-1FDC-44FE-983D-AAF1D7D608D0.jpg?v=1757277096
   - [1x NumberPlate (Set of 2 magnets) - Black](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit?variant=55583838372165)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/F6F40F84-7035-4C6C-BF64-5086BC44AEA1.jpg?v=1757277096
     Price: £29.95 GBP
   - [1x NumberPlate (Set of 2 magnets) - Silver](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit?variant=55590794297669)
     Availability: Available
     Price: £29.95 GBP
   - [Add On - Spare Adhesive Pad Set (2x PADS ONLY / NO HOLDERS)](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit?variant=55709502767429)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/double_sided_tape_for_plate_holder.webp?v=1772401786
     Price: £7.50 GBP
 - [Midnight Madness Hoodie - Premium Automotive Streetwear](https://jpcustoms.shop/products/midnight-madness-hoodie): Midnight Madness hoodie by Late Brake. Premium unisex automotive apparel with bold graphics. Perfect for car enthusiasts and JDM culture. Sizes S-3XL. UK stock.
   Updated: 2026-02-01T16:25:18Z
@@ -198,7 +200,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £38.15 GBP
 - [Future Design Hoodie - Premium Automotive Streetwear](https://jpcustoms.shop/products/future-hoodie): Future Design hoodie by Late Brake. Premium unisex automotive apparel with modern progressive graphics. Perfect for car enthusiasts. Sizes S-3XL. UK stock.
-  Updated: 2026-02-01T16:29:19Z
+  Updated: 2026-03-02T09:02:19Z
   Vendor: Late Brake
   Product Type: Hoodie
   Availability: Available
@@ -419,7 +421,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/655-GB-2.jpg?v=1767027431
   Price: £82.00 GBP
 - [VW Crafter Rear Light Guards Gloss Black 2018+ | Van-X](https://jpcustoms.shop/products/for-volkswagen-crafter-rear-light-guards-gloss-black-2018-onwards): VW Crafter rear light guards gloss black 2018+. Premium Van-X protection, sleek finish. Perfect fit, durable construction. UK stock.
-  Updated: 2026-02-23T13:45:10Z
+  Updated: 2026-03-04T20:41:22Z
   Vendor: Van-X
   Product Type: Rear taillight guard
   Availability: Available
@@ -440,7 +442,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Tripple500ml1200x1200Grey_720x_da608bda-f6ab-4712-b0bf-8d35d501c325.webp?v=1767109943
   Price: £15.00 GBP
 - [Faraday Pouch for Car Keys - BOGO](https://jpcustoms.shop/products/faraday-pouch-for-car-keys-buy-one-get-one-free): Faraday pouch for car keys BOGO. Signal-blocking protection, prevents relay theft. Premium quality, compact design. Buy one get one free. UK stock.
-  Updated: 2026-02-11T10:43:53Z
+  Updated: 2026-03-02T18:55:36Z
   Vendor: P1 Autocare
   Product Type: 
   Availability: Available
@@ -455,14 +457,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £12.00 GBP
 - [600g Car Fire Extinguisher | BSI  | 5 Year Warranty](https://jpcustoms.shop/products/600g-car-fire-extinguisher): BSI  600g dry powder car fire extinguisher. Safe for electrical fires, 21B rating, 5-year warranty. Essential safety equipment for every vehicle.
-  Updated: 2026-02-24T23:02:16Z
+  Updated: 2026-03-05T16:18:26Z
   Vendor: P1 Autocare
   Product Type: Fire Extinguishers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/600g-car-fire-extinguisher-svbip1firex600g-649377.png?v=1767199438
   Price: £12.30 GBP
 - [K-Brace® - Ford Fiesta MK6 ST150 BE256 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-fiesta-mk6-st150-be256-rear-strut-brace): K-Brace Ford Fiesta MK6 ST150 rear strut brace improves stability and handling. Fits all BE256 models 2002-2008. Includes fitting kit. UK made quality.
-  Updated: 2026-02-26T13:46:17Z
+  Updated: 2026-03-02T13:59:09Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -524,7 +526,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Seat Leon Cupra / FR Mk3 5F Strut Brace](https://jpcustoms.shop/products/k-brace®-seat-leon-cupra-fr-mk3-5f-strut-brace): K-Brace Seat Leon Cupra FR Mk3 5F strut brace improves stability and handling. Fits 2012-2021 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-26T13:46:17Z
+  Updated: 2026-03-02T13:59:09Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -586,7 +588,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Ford Focus RS / ST MK3 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-focus-rs-st-mk3-rear-strut-brace): K-Brace Ford Focus RS ST MK3 rear strut brace improves stability and control. Fits 2010-2019 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-26T13:46:09Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -648,7 +650,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Abarth 500 / 595 / 695 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-abarth-500-595-695-rear-strut-brace): K-Brace Abarth 500 595 695 rear strut brace improves stability and control. Fits 2007+ models. Includes fitting kit. UK made by BAF Motorsport quality.
-  Updated: 2026-02-26T13:46:06Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -710,7 +712,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace BMW 1 Series M140i M135i F20 F21 Strut Brace](https://jpcustoms.shop/products/k-brace®-bmw-1-series-m140i-m135i-f20-f21-rear-strut-brace): K-Brace BMW 1 Series M140i M135i F20 F21 rear strut brace improves stability and control. Fits 2011-2020 models. Includes fitting kit. UK made quality.
-  Updated: 2026-02-26T13:46:23Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -772,7 +774,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Ford Fiesta ST MK7 / MK7.5 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-fiesta-st-mk7-mk7-5-rear-strut-brace): K-Brace Ford Fiesta ST MK7 MK7.5 rear strut brace improves stability and control. Fits 2013-2018 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-26T13:46:24Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -834,7 +836,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Honda Civic Type-R EP3 Strut Brace](https://jpcustoms.shop/products/k-brace®-honda-civic-type-r-ep3-strut-brace): K-Brace Honda Civic Type-R EP3 strut brace improves stability and control. Fits 2001-2005 models. Includes fitting kit. UK made by BAF Motorsport quality.
-  Updated: 2026-02-26T13:46:12Z
+  Updated: 2026-03-02T13:59:09Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -985,7 +987,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Avalance-Snow-Foam-5L-packshot-white__78601.jpg?v=1768138189
   Price: £56.20 GBP
 - [K-Brace® - Honda Civic Type-R FN2 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-honda-civic-type-r-fn2-rear-strut-brace): K-Brace Honda Civic Type-R FN2 rear strut brace improves stability and control. Fits 2006-2011 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-26T13:45:50Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1047,7 +1049,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Skoda Fabia vRS Mk1 6Y Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-skoda-fabia-vrs-mk1-6y-rear-strut-brace): K-Brace Skoda Fabia vRS Mk1 6Y rear strut brace improves stability and control. Fits 1999-2007 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-26T13:46:20Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1109,7 +1111,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £175.00 GBP
 - [K-Brace® - Mini Cooper S R53 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-mini-cooper-s-r53-rear-strut-brace): K-Brace Mini Cooper S R53 rear strut brace improves stability and control. Fits 2001-2007 R50 R53 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-26T13:46:08Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1198,7 +1200,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Ford Fiesta ST MK8 / MK8.5 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-fiesta-st-mk8-mk8-5-rear-strut-brace): K-Brace Ford Fiesta ST MK8 MK8.5 rear strut brace improves stability and control. Fits 2017-2024 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-26T13:46:23Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1260,21 +1262,21 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [Scorpion Exhaust Valve Delete Module - Twin Pack](https://jpcustoms.shop/products/scorpion-exhaust-valve-delete-module-twin-pack-scexvdm2): Scorpion exhaust valve delete module twin pack. Unlock full exhaust sound, eliminate valve restrictions. Premium performance upgrade. UK stock.
-  Updated: 2026-02-15T16:52:43Z
+  Updated: 2026-03-03T15:18:57Z
   Vendor: Diversion Automotive
   Product Type: Exhausts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SCEXVDM2_BAG-900x900.jpg?v=1769013668
   Price: £45.00 GBP
 - [Draper Storm Force Pressure Washer - High Power Cleaning](https://jpcustoms.shop/products/draper-storm-force-pressure-washer-105bar-1400w-jet-power-washer-snow-foam-gun-1522psi-patio-and-car-cleaner-98674-blue): Draper Storm Force pressure washer high power cleaning. Professional-grade performance for vehicles and exteriors. Durable build, UK stock.
-  Updated: 2026-02-23T04:16:34Z
+  Updated: 2026-03-06T15:08:27Z
   Vendor: Jolof Store
   Product Type: Pressure Washers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/71Os6HhrR9L_194b7e1e-a1ef-4061-a884-46ff87b536e3.jpg?v=1769023430
   Price: £95.00 GBP
 - [P21W BA15S Red LED Brake Light - Tail Light Bulb 16.5W💡](https://jpcustoms.shop/products/2pcs-1156-ba15s-16-5w-1155lm-630-660nm-33-led-smd-5630-red-light-car-brake-light-lamp-bulb-for-vehicles-dc12v): P21W BA15S red LED brake light tail light bulb 16.5W. Bright, energy-efficient upgrade for enhanced visibility and safety. Easy fit. UK stock.
-  Updated: 2026-02-26T15:58:21Z
+  Updated: 2026-03-06T20:37:32Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1288,7 +1290,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S-CMS-1011Y.jpg?v=1769270932
     Price: £6.00 GBP
 - [T10 LED Bulb W5W SMD-3030 Side Light Interior Marker](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v): T10 LED bulb W5W SMD-3030 for side lights, interior markers. Bright, energy-efficient upgrade. 12V DC. Direct replacement for halogen bulbs.
-  Updated: 2026-02-26T12:22:32Z
+  Updated: 2026-03-06T20:28:59Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1317,7 +1319,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5067WL.jpg?v=1769270208
     Price: £3.00 GBP
 - [T10 RGB LED Bulb W5W Remote Control Car Interior Light](https://jpcustoms.shop/products/2-pcs-w5w-194-t10-multi-colors-10-smd-3535-led-car--light-marker-light-with-remote-control-dc-12v): T10 RGB LED bulb W5W with remote control for car interior lights. Multi-color wireless control. 12V DC. Perfect for side markers and ambient lighting.
-  Updated: 2026-02-26T14:04:09Z
+  Updated: 2026-03-06T20:32:29Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1356,7 +1358,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £29.00 GBP
 - [BMW F Series Grille Strut Brace Covers Billet Aluminium](https://jpcustoms.shop/products/bmw-grille-strut-brace-crash-bar-covers-multiple-models): BMW F Series grille strut brace covers billet aluminium. Premium caps go over existing crash bars for appearance enhancement. UK stock.
-  Updated: 2026-02-15T16:52:42Z
+  Updated: 2026-03-06T09:40:03Z
   Vendor: Diversion Automotive
   Product Type: Exterior Styling
   Availability: Available
@@ -1421,21 +1423,21 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/4D-EV-Acrylic-Number-Plates-pair-5.webp?v=1769969614
   Price: £36.00 GBP
 - [4D Crystal Gel Number Plates | Premium UK Legal Pair](https://jpcustoms.shop/products/4d-acrylic-crystal-gel-style-plates-pair): 4D crystal gel number plates with advanced resin clarity. Premium acrylic EV pair, superior depth and refraction. UK road legal. BS AU 145e .
-  Updated: 2026-02-23T19:13:31Z
+  Updated: 2026-03-01T20:00:36Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/2.jpg?v=1769969615
   Price: £50.00 GBP
 - [Short Number Plates – Premium 4D Acrylic Pair | UK Legal](https://jpcustoms.shop/products/4d-acrylic-number-plates-pair-short-5-digit): Short number plates in premium 4D acrylic. 5-digit pair with raised characters, crystal-clear finish. UK road legal to BS AU 145e. Order now.
-  Updated: 2026-02-15T16:49:38Z
+  Updated: 2026-03-01T20:04:32Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQ_LOGO_transparent_white_6.jpg?v=1769969614
   Price: £42.00 GBP
 - [3D Gel Number Plates – Premium EV Pair | UK Road Legal](https://jpcustoms.shop/products/ev-3d-gel-number-plates-pair): Premium 3D gel number plates for electric vehicles. Raised gel characters, acrylic base, UK road legal pair. BS AU 145e . Order now.
-  Updated: 2026-02-26T18:44:37Z
+  Updated: 2026-03-06T13:30:55Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1449,14 +1451,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_10.jpg?v=1769969614
   Price: £27.00 GBP
 - [Hex Number Plates – 4D Crystal Gel Lambo Style Pair | UK](https://jpcustoms.shop/products/4d-crystal-gel-number-plates-lambo-hex-style-pair): Premium hex number plates in 4D crystal gel. Lamborghini-style hexagonal pair with superior clarity. UK road legal to BS AU 145e. Order now.
-  Updated: 2026-02-15T16:49:37Z
+  Updated: 2026-03-06T11:32:56Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/IMG_5471.jpg?v=1769969615
   Price: £51.00 GBP
 - [Short Number Plates – 3D Gel 6 Digit Pair | UK Road Legal](https://jpcustoms.shop/products/3d-gel-plates-short-6-digit-pair): Short number plates in premium 3D gel. 6-digit pair with raised characters, show-ready finish. UK road legal to BS AU 145e. Order today.
-  Updated: 2026-02-18T18:28:48Z
+  Updated: 2026-02-27T21:07:37Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1470,7 +1472,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_17.jpg?v=1769969615
   Price: £33.00 GBP
 - [3D Gel Number Plates – Premium Acrylic Pair | UK Legal](https://jpcustoms.shop/products/3d-gel-number-plates-pair): Premium 3D gel number plates with raised gel characters. Acrylic pair, show-ready depth, UK road legal to BS AU 145e. Order today.
-  Updated: 2026-02-26T19:37:17Z
+  Updated: 2026-03-06T18:40:25Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1512,7 +1514,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_61_f9a81efd-95e7-4bf2-9d71-6d3b60c797bd.jpg?v=1770146147
   Price: £10.00 GBP
 - [BMW E36 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-3-series-coupe-e36-rear-strut-brace): BMW E36 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-26T13:45:37Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1574,7 +1576,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [BMW E82 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-1-series-e82-saloon-rear-strut-brace): BMW E82 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-26T13:45:47Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1636,7 +1638,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [Renault Clio RS Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-renault-clio-rs-197-200-mk3-strut-brace): Renault Clio RS strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-26T13:46:16Z
+  Updated: 2026-03-02T13:59:09Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1698,7 +1700,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [Renault Megane RS Strut Brace | K-Brace® Billet Aluminium](https://jpcustoms.shop/products/k-brace®-renault-megane-rs-mk3-rear-strut-brace): Renault Megane RS strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-26T13:46:11Z
+  Updated: 2026-03-02T13:59:09Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1760,7 +1762,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [BMW F22 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-2-series-m235i-m240i-f22-rear-strut-brace): BMW F22 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-26T13:46:04Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1822,7 +1824,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [BMW M2 F87 Rear Strut Brace | K-Brace® Billet Aluminium](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace): BMW M2 F87 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-26T13:45:39Z
+  Updated: 2026-03-02T13:59:10Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1898,7 +1900,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20251125234314_69263f121db30-1000x750.jpg?v=1770556539
   Price: £142.00 GBP
 - [Universal Footwell Light Kit | Plug & Play LED Ambient Set](https://jpcustoms.shop/products/universal-permanent-footwell-light-kit-ceuk-plug-play-ambient-upgrade): Universal footwell light kit with plug & play installation. Ultra-bright 12SMD LEDs, 6 colours, auto on/off with ignition. Fits any vehicle in 10 minutes.
-  Updated: 2026-02-22T20:13:55Z
+  Updated: 2026-03-06T20:40:21Z
   Vendor: Car Enhancements UK
   Product Type: Ambient Lighting Kit
   Availability: Available
@@ -2642,7 +2644,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Fiesta Mk6 Strut Bar & Cargo Net | ST150 Interior Upgrade](https://jpcustoms.shop/products/ford-fiesta-mk6-st150-strut-bar-and-cargo-net): Fiesta Mk6 strut bar & cargo net kit for ST150, Zetec & Titanium (2004-2008). Custom-fit bar, tailored net, easy install. Fits 3-door & 5-door.
-  Updated: 2026-02-15T16:48:06Z
+  Updated: 2026-03-01T20:39:24Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -2805,7 +2807,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20240326204140_6603330419d32-1000x750.jpg?v=1771083610
   Price: £165.00 GBP
 - [Mercedes Sprinter Front Splitter | Maxton Design Mk3](https://jpcustoms.shop/products/maxton-design-front-splitter-mercedes-benz-sprinter-mk3): Mercedes Sprinter front splitter by Maxton Design. Gloss black ABS for Mk3 models. Aggressive styling upgrade. UK stock.
-  Updated: 2026-02-15T16:52:38Z
+  Updated: 2026-03-01T00:06:05Z
   Vendor: Car Enhancements UK
   Product Type: Splitters
   Availability: Available
@@ -2876,7 +2878,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersmulti.jpg?v=1771260309
     Price: £12.00 GBP
 - [RGB Angel Eyes – Bluetooth Halo Kit with IP65 Waterproofing](https://jpcustoms.shop/products/v2-chaser-halo-bluetooth-rgb-halo-kit): Premium RGB angel eyes halo kit with Bluetooth control and IP65 waterproofing. CEUK V2 Chaser lighting for show-quality headlight upgrades. Shop JP Customs now.
-  Updated: 2026-02-17T04:45:44Z
+  Updated: 2026-03-02T22:05:17Z
   Vendor: Car Enhancements UK
   Product Type: halos
   Availability: Available
@@ -2888,91 +2890,91 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £70.00 GBP
 - [Electronic Essential Oil Diffuser - AIRED. PRO1 Black Car](https://jpcustoms.shop/products/pro1-in-car-home-mini-luxury-electronic-rechargeable-essential-oils-diffuser-by-aired-black): Premium electronic essential oil diffuser by AIRED. Machined aluminium body, USB-C rechargeable, whisper-quiet diffusion. Perfect for cars & home. PRO1 Black.
-  Updated: 2026-02-22T20:14:22Z
+  Updated: 2026-03-02T20:26:26Z
   Vendor: AIRED.
   Product Type: Electronic Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/50672B23-D067-4E26-A670-CBEDE6782130.jpg?v=1771367581
   Price: £55.00 GBP
 - [Electronic Essential Oil Diffuser - AIRED. PRO1 Silver Car](https://jpcustoms.shop/products/pro1-in-car-home-mini-luxury-electronic-rechargeable-essential-oils-diffuser-by-aired-silver): Premium electronic essential oil diffuser by AIRED. Machined aluminium body, USB-C rechargeable, whisper-quiet diffusion. Perfect for cars & home. PRO1 Silver.
-  Updated: 2026-02-26T00:31:59Z
+  Updated: 2026-03-02T20:26:27Z
   Vendor: AIRED.
   Product Type: Electronic Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/B5911E78-35F1-4852-A8CE-E1DD4BAD7566.jpg?v=1771367581
   Price: £55.00 GBP
 - [Electronic Essential Oil Diffuser - AIRED. PRO1 Rose Gold](https://jpcustoms.shop/products/pro1-in-car-home-mini-luxury-electronic-rechargeable-essential-oils-diffuser-by-aired-rose-gold): Premium electronic essential oil diffuser by AIRED. Machined aluminium body, USB-C rechargeable, whisper-quiet diffusion. Perfect for cars & home. PRO1 Rose.
-  Updated: 2026-02-19T05:39:00Z
+  Updated: 2026-03-02T21:28:46Z
   Vendor: AIRED.
   Product Type: Electronic Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/0661E33B-170B-4306-BCC2-3D35E19202B6.jpg?v=1771367580
   Price: £55.00 GBP
 - [Lavender Essential Oil - AIRED. 10ml Pure Natural Diffuser](https://jpcustoms.shop/products/aired-lavender-scented-essential-oil-aromatherapy-oil-10ml): Pure lavender essential oil by AIRED. 100% natural, promotes relaxation & stress relief. Perfect for diffusers, cars, home & aromatherapy. 10ml bottle.
-  Updated: 2026-02-19T06:16:54Z
+  Updated: 2026-03-02T14:20:08Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_02_42_47PM.png?v=1771367695
   Price: £7.00 GBP
 - [Invictus Diffuser Oil 10ml | AIRED. Premium Essential](https://jpcustoms.shop/products/aired-ventos-scented-essential-oil-aromatherapy-oil-10ml): Invictus diffuser oil by AIRED. 100% natural essential oil delivers bold, invigorating fragrance for vehicles & living spaces. 10ml concentrated.
-  Updated: 2026-02-20T12:38:42Z
+  Updated: 2026-03-02T14:20:08Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_03_06_26PM.png?v=1771367695
   Price: £7.00 GBP
 - [Invictus Diffuser Oil 10ml | AIRED. Premium Essential](https://jpcustoms.shop/products/aired-invictus-scented-essential-oil-aromatherapy-oil-10ml): Invictus diffuser oil by AIRED. 100% natural essential oil delivers bold, invigorating fragrance for vehicles & living spaces. 10ml concentrated.
-  Updated: 2026-02-20T08:46:50Z
+  Updated: 2026-03-02T14:20:07Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_02_24_49_PM.png?v=1771367695
   Price: £7.00 GBP
 - [Linen Essential Oil - AIRED. 10ml Fresh Clean Aromatherapy](https://jpcustoms.shop/products/aired-city-linen-scented-essential-oil-aromatherapy-oil-10ml): City linen essential oil by AIRED. Fresh, clean fragrance for a crisp atmosphere. 100% natural aromatherapy oil. Perfect for diffusers, home & cars. 10ml.
-  Updated: 2026-02-19T07:15:19Z
+  Updated: 2026-03-02T14:20:06Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_03_00_25PM.png?v=1771367694
   Price: £7.00 GBP
 - [Mystery Essential Oil - AIRED. 10ml Random Scent Surprise](https://jpcustoms.shop/products/aired-mystery-scent-scented-essential-oil-aromatherapy-10ml-random-scent): Mystery essential oil by AIRED. Random premium scent from our collection, including unreleased exclusives. 100% natural. Perfect for diffusers & discovery.
-  Updated: 2026-02-19T06:18:42Z
+  Updated: 2026-03-02T14:20:08Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan17_2026_01_39_42PM.png?v=1771367694
   Price: £7.00 GBP
 - [Pumpkin Spice Diffuser Oil 10ml | AIRED. Premium](https://jpcustoms.shop/products/aired-pumpkin-spice-scented-essential-oil-aromatherapy-oil-10ml): Pumpkin spice diffuser oil by AIRED. 100% natural essential oil delivers warm, seasonal fragrance for cars & homes. 10ml concentrated formula.
-  Updated: 2026-02-20T08:47:45Z
+  Updated: 2026-03-02T14:20:07Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_01_59_56_PM.png?v=1771367693
   Price: £7.00 GBP
 - [One Million Essential Oil - AIRED. 10ml Bold Spicy Fragrance](https://jpcustoms.shop/products/aired-one-million-scented-essential-oil-aromatherapy-oil-10ml): One Million essential oil by AIRED. Bold spicy-sweet fragrance with citrus & amber notes. 100% natural, energizing scent. Perfect for diffusers & cars. 10ml.
-  Updated: 2026-02-19T14:17:10Z
+  Updated: 2026-03-02T14:20:07Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_02_21_09_PM.png?v=1771367694
   Price: £7.00 GBP
 - [Amber Oud Essential Oil - AIRED. 10ml Luxury Warm Fragrance](https://jpcustoms.shop/products/aired-amber-oud-scented-essential-oil-aromatherapy-oil-10ml): Amber oud essential oil by AIRED. Rich, warm luxury fragrance with deep resinous notes. 100% natural. Perfect for diffusers, relaxation & cars. 10ml bottle.
-  Updated: 2026-02-19T06:06:39Z
+  Updated: 2026-03-02T14:20:06Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_03_11_52_PM.png?v=1771367695
   Price: £7.00 GBP
 - [Savage Blue Diffuser Oil 10ml | AIRED. Premium Essential](https://jpcustoms.shop/products/aired-savage-blue-scented-essential-oil-aromatherapy-oil-10ml): Savage blue diffuser oil by AIRED. 100% natural essential oil delivers refined, masculine fragrance for vehicles & living spaces. 10ml concentrated.
-  Updated: 2026-02-20T11:50:28Z
+  Updated: 2026-03-02T14:20:07Z
   Vendor: AIRED.
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_02_34_14PM_6da50688-3ea9-4f16-a8ca-2e98b3c99dca.png?v=1771367697
   Price: £7.00 GBP
 - [BMW M140i Rear Diffuser F20 | Maxton Racing V4 10mm](https://jpcustoms.shop/products/maxton-design-street-pro-durability-rear-diffuser-v4-bmw-m140i-2016-2019): BMW M140i rear diffuser by Maxton Racing. 10mm thick ABS V4 for F20 (2016-2019). Enhanced durability, matte black finish. Track-proven strength. UK stock.
-  Updated: 2026-02-20T10:03:11Z
+  Updated: 2026-03-06T14:22:33Z
   Vendor: Car Enhancements UK
   Product Type: Splitters
   Availability: Available
@@ -2986,7 +2988,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20210917131715_6144955bc9df2-1000x750.jpg?v=1771536997
   Price: £147.00 GBP
 - [VW Polo Strut Bar – Billet Aluminium 6R/6C Cargo Net Kit](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net): Premium VW Polo strut bar in billet aluminium for 6R/6C models. Includes cargo net kit for enhanced chassis rigidity and boot organization. Shop JP Customs now.
-  Updated: 2026-02-21T08:37:50Z
+  Updated: 2026-03-03T13:54:50Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -3298,7 +3300,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Focus Mk2 Strut Bar – Billet Aluminium & Cargo Net Kit](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net): Premium Focus Mk2 strut bar in billet aluminium for Ford Focus. Includes cargo net kit for enhanced chassis stiffness and boot storage. Shop JP Customs today.
-  Updated: 2026-02-21T08:07:37Z
+  Updated: 2026-03-03T22:45:47Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -3454,7 +3456,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Fiesta Mk7 Strut Bar – Billet Aluminium & Cargo Net Kit](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net): Premium Fiesta Mk7 strut bar in billet aluminium for Ford Fiesta Mk7/Mk7.5. Includes cargo net for enhanced chassis rigidity and boot storage. Shop JP Customs.
-  Updated: 2026-02-24T18:49:06Z
+  Updated: 2026-03-06T16:45:47Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -3765,7 +3767,36 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [Red Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439603525)
     Availability: Available
     Price: £125.00 GBP
-[List Continued](https://jpcustoms.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTcwMzEwNTE0MzEwOSwibGFzdF92YWx1ZSI6IjE1NzAzMTA1MTQzMTA5In0=)
+- [BMW 1 Series Carbon Mirror Caps V Style F20 F21 | 2011-19](https://jpcustoms.shop/products/v-style-pre-preg-carbon-fibre-replacement-mirror-covers-for-bmw-1-series-f20-f21-11-19): BMW 1 Series carbon mirror caps in V Style. Premium pre-preg carbon fibre for F20 F21 (2011-19). UV-protected high-gloss finish. UK engineered quality.
+  Updated: 2026-03-06T12:19:57Z
+  Vendor: Carbon Factory
+  Product Type: Mirror Covers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/pre-preg-carbon-mirror-covers-default-title-v-style-pre-preg-carbon-fibre-replacement-mirror-covers-for-bmw-1-series-f20-f21-11-19-66183091388799.jpg?v=1772663895
+  Price: £200.00 GBP
+- [BMW F06 Carbon Fibre Exhaust Tip 92mm F12 F13 640D | UK](https://jpcustoms.shop/products/carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d): BMW F06 carbon fibre exhaust tip with 92mm outlet. Premium UV-protected finish for F12 F13 640D. Perforated inner wall. 70mm inlet. UK engineered quality.
+  Updated: 2026-03-06T12:24:02Z
+  Vendor: Carbon Factory
+  Product Type: Exhaust Tips
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/carbon-fibre-exhaust-tips-chrome-carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d-65255199703423.jpg?v=1772663923
+  - [Chrome](https://jpcustoms.shop/products/carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d?variant=57300475806021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/carbon-fibre-exhaust-tips-chrome-carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d-65255201341823.jpg?v=1772663923
+    Price: £55.00 GBP
+  - [Matt Black](https://jpcustoms.shop/products/carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d?variant=57300475838789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/carbon-fibre-exhaust-tips-chrome-carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d-65255207436671.jpg?v=1772663923
+    Price: £55.00 GBP
+  - [Gloss Black](https://jpcustoms.shop/products/carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d?variant=57300475871557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/carbon-fibre-exhaust-tips-chrome-carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d-65255204520319.jpg?v=1772663922
+    Price: £55.00 GBP
+  - [Blue](https://jpcustoms.shop/products/carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d?variant=57300475904325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/carbon-fibre-exhaust-tips-chrome-carbon-fibre-exhaust-tip-for-bmw-f06-f12-f13-bmw-6-series-640d-65255204946303.jpg?v=1772663923
+    Price: £50.00 GBP
+[List Continued](https://jpcustoms.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTcyMjcxMTM4NDM4OSwibGFzdF92YWx1ZSI6IjE1NzIyNzExMzg0Mzg5In0=)
 
 ## Collections
 
@@ -3773,19 +3804,19 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Updated: 2026-02-01T16:51:00Z
   Total Products: 0
 - [Vehicle Upgrades - Premium Automotive Parts | JP Customs](https://jpcustoms.shop/collections/🔧vehicle-upgrades🔧): Vehicle upgrades. Premium automotive parts, exterior styling, lighting, and accessories. Show-ready finishes, precise engineering. UK stock.
-  Updated: 2026-02-19T12:32:34Z
+  Updated: 2026-03-02T12:42:51Z
   Total Products: 26
 - [Car Air Fresheners Premium - Luxury Fragrances | JP Customs](https://jpcustoms.shop/collections/air-fresheners): Car air fresheners premium. Luxury vehicle fragrances, long-lasting scents. Refillable designs, 8-week duration. Bold, elegant options. UK stock.
-  Updated: 2026-02-19T20:33:56Z
+  Updated: 2026-03-01T19:49:32Z
   Total Products: 20
 - [Exterior Car Accessories -Premium Styling Parts | JP Customs](https://jpcustoms.shop/collections/⭐exterior-asthetics⭐): Exterior car accessories. Premium styling parts, light guards, sunstrips, and upgrades. Show-ready finishes, precise fit. UK stock.
-  Updated: 2026-02-25T12:35:03Z
-  Total Products: 29
+  Updated: 2026-03-06T12:40:05Z
+  Total Products: 31
 - [Car LED Lighting-Premium Upgrades & Accessories | JP Customs](https://jpcustoms.shop/collections/lighting-upgrades): Car LED lighting. Premium upgrades for headlights, interior, and exterior. Bright, energy-efficient, precise fit. Show-ready quality. UK stock.
-  Updated: 2026-02-23T12:31:40Z
+  Updated: 2026-03-02T12:42:51Z
   Total Products: 16
 - [Premium Car Interior Parts - Luxury Upgrades | JP Customs](https://jpcustoms.shop/collections/interior-upgrades): Premium car interior parts. Luxury upgrades, billet aluminium trim, lighting, and accessories. Show-ready finishes, precise fit. UK stock.
-  Updated: 2026-02-23T12:31:40Z
+  Updated: 2026-03-02T12:42:51Z
   Total Products: 24
 - [Car Detailing Products - Premium Care & Polish | JP Customs](https://jpcustoms.shop/collections/car-care): Car detailing products. Premium snow foam, polish, ceramic spray, and wax. Professional-grade formulas, show-ready results. UK stock.
   Updated: 2026-02-22T17:45:49Z
@@ -3797,7 +3828,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Updated: 2026-02-01T17:07:02Z
   Total Products: 4
 - [Premium Number Plates – 3D & 4D Gel, Acrylic, EV Styles – JP Customs](https://jpcustoms.shop/collections/🔢number-plates🔠): Shop premium 3D & 4D gel number plates, acrylic plates, EV styles, and motorbike plates. Show-grade construction with road-legal UK compliance. Pairs and short formats available.
-  Updated: 2026-02-25T12:35:03Z
+  Updated: 2026-03-06T12:40:05Z
   Total Products: 19
 
 ## Blogs
@@ -3873,6 +3904,22 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Tags: automotive products, car accessories, car care, car mods
   - [Car Care Essentials: Solutions for Maintaining Your Vehicle's Performance](https://jpcustoms.shop/blogs/product-insights/car-care-essentials-solutions-for-maintaining-your-vehicles-performance): Car Care Essentials: Solutions for Maintaining Your Vehicle's Performance
     Updated: 2026-02-26T18:01:51Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [How to Keep Your Car Shining: Best Automotive Products for Exterior Care](https://jpcustoms.shop/blogs/product-insights/how-to-keep-your-car-shining-best-automotive-products-for-exterior-care): How to Keep Your Car Shining: Best Automotive Products for Exterior Care
+    Updated: 2026-02-27T18:04:11Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Trending Car Mods That Boost Your Vehicle's Value Instantly](https://jpcustoms.shop/blogs/product-insights/trending-car-mods-that-boost-your-vehicles-value-instantly): Trending Car Mods That Boost Your Vehicle's Value Instantly
+    Updated: 2026-03-04T18:01:35Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [How to Organise Your Car Efficiently with Must-Have Accessories](https://jpcustoms.shop/blogs/product-insights/how-to-organise-your-car-efficiently-with-must-have-accessories): How to Organise Your Car Efficiently with Must-Have Accessories
+    Updated: 2026-03-05T18:02:02Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Addressing Common Car Care Challenges: A Practical Guide](https://jpcustoms.shop/blogs/product-insights/addressing-common-car-care-challenges-a-practical-guide): Addressing Common Car Care Challenges: A Practical Guide
+    Updated: 2026-03-06T18:03:39Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
 
