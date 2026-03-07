@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2022-01-03T10:15:31Z
 - Contact Email: bcbgprovence@gmail.com
-- Updated At: 2026-02-26T00:00:39.859Z
+- Updated At: 2026-03-07T00:00:40.643Z
 
 ## Products
 
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika-Image_751a76b2-2e3a-4735-8a4f-223d91afee22.webp?v=1733164040
   Price: €30.00 EUR
 - [Vibrant Sphynx Face Embroidered T-Shirt](https://bcbgprovence.com/products/vibrant-sphynx-face-embroidered-t-shirt): Unleash your feline flair with our Vibrant Sphynx Face Embroidered T-Shirt! This black tee showcases a striking sphynx cat face with intricate patterns and vivid colors. Perfect for cat lovers and fashion enthusiasts, it offers comfort and unique style. Make a bold statement today!
-  Updated: 2025-02-14T22:08:26Z
+  Updated: 2026-02-28T04:07:38Z
   Vendor: BCBGProvence
   Product Type: T-shirts
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika-Image_e7d66fa2-47c6-44b1-bda3-cebd41d5cac2.webp?v=1736163537
   Price: €35.00 EUR
 - ["Iris Apfel" T-Shirt](https://bcbgprovence.com/products/fancy-grandma-t-shirt): Let this essential T-shirt reinvigorate your daily repertoire with ease. Made from super soft cotton that delicately adapts to the figure, it makes everyday layering easy. An original "Iris Apfel" applique, short sleeves and delicate lace trims keep things effortless.
-  Updated: 2025-02-12T06:46:50Z
+  Updated: 2026-03-02T07:56:21Z
   Vendor: BCBGProvence
   Product Type: Ladies T-Shirts
   Availability: Available
@@ -312,7 +312,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika-Image_cdf66049-d093-4d10-9bef-24e5dacc7cca.webp?v=1733423432
   Price: €30.00 EUR
 - ["Dame D'or" Black T-Shirt](https://bcbgprovence.com/products/black-t-shirt-dame-dor): This cotton t-shirt is a must-have for any wardrobe! Made in France from soft and breathable cotton, this BCBG collection t-shirt is designed for a classic fit and features a printed logo on the front with a gold woman and contrasting crystal trims, which adds an luxury touch to this classic t-shirt, now essential in your collection.
-  Updated: 2024-12-20T02:45:11Z
+  Updated: 2026-03-01T06:06:57Z
   Vendor: BCBGProvence
   Product Type: Ladies T-Shirts
   Availability: Available
@@ -340,7 +340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika_Flat-Lay_1_54.png?v=1736163536
   Price: €45.00 EUR
 - [100% Twill Silk Scarf "Africa"](https://bcbgprovence.com/products/100-silk-twill-scarf-90cmx90cm-africa): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-02-16T10:47:34Z
+  Updated: 2026-02-27T19:06:17Z
   Vendor: BCBG Provence
   Product Type: Scarves
   Availability: Available
@@ -383,7 +383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-16at14.44.39_1_-Photoroom.png?v=1713274038
     Price: €80.00 EUR
 - [100% Twill Silk Scarf "Comics"](https://bcbgprovence.com/products/100-twill-silk-scarf-comics): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-01-19T17:38:02Z
+  Updated: 2026-02-27T21:08:34Z
   Vendor: BCBGProvence
   Product Type: Scarves
   Availability: Available
@@ -616,7 +616,7 @@
     Availability: Not Available
     Price: €35.00 EUR
 - [Beautiful  transparent mesh bodysuit for woman](https://bcbgprovence.com/products/sexy-mesh-bodysuit): Shamelessly charming, BCBG Provence incorporates the point of mind in all its creations. In a mesh construction, this long sleeve bodysuit offers pure perfection.
-  Updated: 2025-02-17T21:40:33Z
+  Updated: 2026-03-02T04:33:56Z
   Vendor: BCBG Provence
   Product Type: Bodysuit
   Availability: Available
@@ -641,7 +641,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/products/H8a25338385654fa6b6f9bd9a5ecd2debQ-removebg-preview__1_-removebg-preview_1.png?v=1649077354
   Price: €30.00 EUR
 - [Elegant Sheer Sleeves Bodysuit](https://bcbgprovence.com/products/elegant-sheer-sleeves-black-bodysuit): Following minimalistic aesthetic, this bodysuit designed in a versatile black shade and features an elegant round neckline. With practical snap-fastening buttons, its finished with a romantic organza sleeves.
-  Updated: 2024-11-25T13:08:53Z
+  Updated: 2026-03-01T02:26:05Z
   Vendor: BCBG Provence
   Product Type: Bodysuit
   Availability: Available
@@ -902,7 +902,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-16at14.42.49_2_-Photoroom.png?v=1713274918
   Price: €80.00 EUR
 - [Long Sleeve Mock Neck Bodysuit](https://bcbgprovence.com/products/long-sleeve-mock-neck-bodysuit): Elegant mesh sheer sleeves bodysuit. Highlights: transparent long sleeves, round neck, snap button closure ,stretch cut.
-  Updated: 2025-12-01T14:24:00Z
+  Updated: 2026-02-27T16:40:42Z
   Vendor: BCBG Provence
   Product Type: Bodysuit
   Availability: Available
@@ -1233,20 +1233,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-11at13.35.22-Photoroom.png?v=1771606513
     Price: €85.00 EUR
-- [Silk Cashmere Shawl "Château Médiéval Indien"](https://bcbgprovence.com/products/silk-cashmere-shawl-chateau-medieval-indien): Our silk and cashmere stoles are the ultimate in warmth and softness. Luxuriously crafted in a range of colours and finished with classic hand-rolled edges, a timeless and versatile accessory for traveling or wrapping up warm on colder days. Makes a very special thoughtful gift.
-  Updated: 2025-07-30T02:09:33Z
-  Vendor: BCBGProvence
-  Product Type: Scarves & Shawls
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-18at14.53.50_1_-Photoroom.png?v=1745483489
-  - [Blue](https://bcbgprovence.com/products/silk-cashmere-shawl-chateau-medieval-indien?variant=46821156618572)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-18at14.54.04_3_-Photoroom.png?v=1745483489
-    Price: €150.00 EUR
-  - [Orange](https://bcbgprovence.com/products/silk-cashmere-shawl-chateau-medieval-indien?variant=46821156651340)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-18at14.53.50_1_-Photoroom.png?v=1745483489
-    Price: €150.00 EUR
 - [Twill Silk Long Scarf "Tropics"](https://bcbgprovence.com/products/twill-silk-long-scarf-tropics): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out. It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complete your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones on birthday, anniversary, Christmas or other special days.
   Updated: 2025-11-04T08:20:21Z
   Vendor: BCBG Provence
@@ -1308,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240303_1258051-Photoroom.png?v=1709475578
     Price: €200.00 EUR
 - [Luxury Double Sided Silk Twill Scarf "Tigre Dans La Forêt"](https://bcbgprovence.com/products/luxury-double-sided-silk-twill-scarf-tigre-dans-la-foret): Romantic yet contemporary, our double sided "Tigre Dans La Forêt" scarf is the perfect addition to elevate any outfit.So similar and so different… True innovation as much as technical prowess, this twin square scarf printed on both sides affirms double beauty!Handcrafted in France from 100% pure silk twill finished with finely rolled hand-stitched edges, vibrant and versatile transcend seasonal trends, making it perfect gift to be treasured for years to come.Length: 90cm / Width: 90cm.Hand-crafted in France."Tigre in the forest" double sided design.Pure silk twill.Hand-rolled and stitched edges.Dry clean only.
-  Updated: 2024-11-28T04:09:40Z
+  Updated: 2026-03-06T07:48:03Z
   Vendor: BCBGProvence
   Product Type: Scarves & Shawls
   Availability: Available
@@ -1449,7 +1435,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20231205_110152-PhotoRoom.png?v=1701791249
   Price: €180.00 EUR
 - [Silk Cashmere Shawl "Jours D'été"](https://bcbgprovence.com/products/silk-cashmere-shawl-jours-dete): Our silk and cashmere stoles are the ultimate in warmth and softness. Luxuriously crafted in a range of colours and finished with classic hand-rolled edges, a timeless and versatile accessory for traveling or wrapping up warm on colder days. Makes a very special thoughtful gift.
-  Updated: 2026-01-25T11:17:42Z
+  Updated: 2026-03-01T14:17:46Z
   Vendor: BCBG Provence
   Product Type: Scarves & Shawls
   Availability: Available
@@ -1678,13 +1664,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/cdpocketsquare.jpg?v=1770996836
   Price: €80.00 EUR
-[List Continued](https://bcbgprovence.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTU3NjMzNTg3NjQyOCwibGFzdF92YWx1ZSI6IjE1NTc2MzM1ODc2NDI4In0=)
+- [Vintage Ted Lapidus Paris Geometric Silk Scarf - Red & Black Mod Stole (1970s)](https://bcbgprovence.com/products/vintage-ted-lapidus-paris-geometric-silk-scarf-red-black-mod-stole-1970s): Elevate your accessory collection with this exquisite vintage silk scarf from the legendary house of Ted Lapidus. Designer:Ted Lapidus . Crafted in France, this scarf features a striking geometric "mod" pattern. A series of rounded black squares with crisp white central dots are rhythmically arranged against a vibrant crimson-red ground. Finish:The ends are finished with a delicate eyelash fringe, adding a soft, textured contrast to the fluid silk. The scarf is made from high-grade, lightweight silk with a subtle satin sheen. It offers a luxurious drape and a soft hand-feel, making it comfortable for year-round wear. The screen-printing technique used ensures deep colour saturation that remains vibrant decades later. Dimensions Length:130 cm (approx. 51 inches) Width:38 cm (approx. 15 inches) Very Good Vintage Condition.This item has been carefully preserved. The silk maintains its original luster and the colours are exceptionally bright. As a vintage piece, it may show minor signs of its history, but there are no notable holes, pulls, or stains.Please refer to the high-resolution images for a detailed view of the textile's character.
+  Updated: 2026-02-27T17:59:40Z
+  Vendor: BCBG Provence
+  Product Type: Scarves & Shawls
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsApp_Image_2026-02-26_at_10.33_18.jpg?v=1772103102
+  Price: €50.00 EUR
+[List Continued](https://bcbgprovence.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTYwMTE4NTAzMDQ3NiwibGFzdF92YWx1ZSI6IjE1NjAxMTg1MDMwNDc2In0=)
 
 ## Collections
 
 - [New Arrivals](https://bcbgprovence.com/collections/new-arrivals)
-  Updated: 2026-02-20T12:14:52Z
-  Total Products: 89
+  Updated: 2026-02-26T10:55:30Z
+  Total Products: 90
 - [Mens Clothing](https://bcbgprovence.com/collections/mens-clothing): Discover unique and stylish men's clothing at BCBG Provence, featuring vibrant graphic tees and embroidered designs. Enjoy 30% off with the code SUMMER30 and free worldwide delivery. Elevate your wardrobe with bold, statement pieces inspired by Southern French fashion. Shop now!
   Updated: 2025-09-29T11:10:27Z
   Total Products: 9
@@ -1698,8 +1691,8 @@
   Updated: 2026-02-20T12:14:52Z
   Total Products: 95
 - [BCBG Vintage](https://bcbgprovence.com/collections/bcbg-vintage): BCBG Vintage Accessories brings together unique, timeless pieces that add a touch of character to any outfit. Each accessory is full of vintage charm, perfect for everyday style with a fun, effortless twist.
-  Updated: 2025-12-16T08:52:20Z
-  Total Products: 16
+  Updated: 2026-02-26T10:55:30Z
+  Total Products: 17
 
 ## Store Pages
 
