@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-03-01T00:00:35.050Z
+- Updated At: 2026-03-08T00:00:35.707Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1924,7 +1924,7 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Character driven, Dark fantasy, Drama, Dream sequences, Elemental powers, Horses, Light vs darkness, Memory and identity, Mystery, Old west, Trauma and healing
   - [Errant: Illumination (Book 3)](https://crystalarborist.com/blogs/short-stories-self-help/errant-illumination-book-3): <p><em><strong><span> Light and Dark were forged as weapons by the Council. Now they must choose: remain tools of oppression or become brothers in freedom. The final battle will decide everything.</span></strong></em></p>
-    Updated: 2026-02-21T21:46:10Z
+    Updated: 2026-03-02T08:47:25Z
     Author: Callie Hitchcock
     Tags: action-packed, brotherhood, Dark fantasy, emotional, epic, final battle, Found family, Freedom, Light and darkness, Redemption, series finale, western fantasy
   - [What the Sea Remembers](https://crystalarborist.com/blogs/short-stories-self-help/what-the-sea-remembers): <p><em><strong>When the Sea Witch discovers Corwin's compassion, she begins a game that will span centuries. Love and loss. Light against Darkness. The Sea remembers. </strong></em></p>
@@ -1935,6 +1935,18 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-02-27T14:01:01Z
     Author: Callie Hitchcock
     Tags: Action, Adventure, Ancient evil, Choices, Courage, Darkness, emotional, Epic fantasy, Family, Healing, Hope, Light, Redemption, Rescue mission, Truth
+  - [Starlight Cove (After Silver Tide Book 8)](https://crystalarborist.com/blogs/short-stories-self-help/starlight-cove): <p><em><strong>Discover Starlight Cove, a Protected harbor with towering cliffs, glittering crystals, and the Moonlight Wake. Home, Family, and a place Worth Fighting For.</strong></em></p>
+    Updated: 2026-03-01T18:57:24Z
+    Author: Callie Hitchcock
+    Tags: Celebrations, Crush, Family, Home, Humor, Ocean, Peace, Pranks, Sunset
+  - [Shadowlight](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight): <p><em><strong>The Gods of Fire and Lightning are waking—and they're after the Light Marina carries. Will Light and Shadow, joined by friends and a dragon, prevail?</strong></em></p>
+    Updated: 2026-03-03T04:49:43Z
+    Author: Callie Hitchcock
+    Tags: Coming of Age, Dragons, Elemental powers, Epic fantasy, Found family, Gods and Goddesses, High stakes, Hopeful, Quest, Sailing, Sibling bond
+  - [Shadowlight: Awakened Flames (Book 2)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-awakened-flames-book-2): <p><em><strong>The Fire God has awakened and he want's Marina's Power. Trust will be tested, Love will be forged in flame, and the Gods are closing in.</strong></em></p>
+    Updated: 2026-03-07T15:10:47Z
+    Author: Callie Hitchcock
+    Tags: elemental magic, epic, fantasy romance, gods and mortals, nautical fantasy, quest adventure
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
