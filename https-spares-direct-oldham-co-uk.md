@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-06-16T18:27:32Z
 - Contact Email: sparesdirect2015ltd@gmail.com
-- Updated At: 2026-02-28T21:03:33.782Z
+- Updated At: 2026-03-08T00:00:26.658Z
 
 ## Products
 
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_0ebbbd13-d0b2-4cbb-9ee9-49f7fdc54e8c.jpg?v=1751227793
   Price: £37.99 GBP
 - [Voice Remote Control For Samsung QLED TV 4K QE75Q78CGMTXZG](https://spares-direct-oldham.co.uk/products/voice-remote-control-for-samsung-qled-tv-4k-qe75q78cgmtxzg): Voice Remote Control For Samsung QLED TV
-  Updated: 2025-07-01T17:53:45Z
+  Updated: 2026-03-06T01:24:32Z
   Vendor: Samsung
   Product Type: 
   Availability: Available
@@ -179,7 +179,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_7b5d5810-79a0-46b6-8d14-8832ecb55256.jpg?v=1751227809
   Price: £39.95 GBP
 - [Remote Control For Hisense Tv ERF3A80 Voice Command](https://spares-direct-oldham.co.uk/products/hisense-erf3a80-voice-remote-control): BRAND NEW Genuine HiSense REMOTE CONTROL For Tv Models 43A6GTUK
-  Updated: 2025-12-05T13:18:15Z
+  Updated: 2026-03-04T03:55:09Z
   Vendor: Hisense
   Product Type: 
   Availability: Available
@@ -1766,11 +1766,18 @@
   Updated: 2025-07-22T09:41:53Z
   Total Products: 2
 - [Other](https://spares-direct-oldham.co.uk/collections/other)
-  Updated: 2026-02-28T12:30:22Z
+  Updated: 2026-03-07T12:28:12Z
   Total Products: 18554
 - [TV REMOTE CONTROLS](https://spares-direct-oldham.co.uk/collections/tv-remote-controls)
   Updated: 2026-02-25T12:30:28Z
   Total Products: 1932
+
+## Blogs
+
+- [News](https://spares-direct-oldham.co.uk/blogs/news)
+  - [New in this week](https://spares-direct-oldham.co.uk/blogs/news/new-in-this-week)
+    Updated: 2026-02-28T21:13:55Z
+    Author: DAVID HIGHAM
 
 ## Store Pages
 
