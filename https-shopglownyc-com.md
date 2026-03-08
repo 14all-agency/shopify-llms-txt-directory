@@ -23,7 +23,7 @@ Whether you're supporting your immune system, managing stress, boosting energy, 
 - Timezone: Europe/Athens
 - Created At: 2026-02-15T13:02:04Z
 - Contact Email: infoglownewyork@gmail.com
-- Updated At: 2026-03-01T00:00:21.919Z
+- Updated At: 2026-03-08T00:00:25.976Z
 
 About Us
 Welcome to GLOW
@@ -58,88 +58,87 @@ Thank you for choosing GLOW. We're honored to be part of your wellness journey.
 
 ## Products
 
-- [Apple Cider Vinegar Gummies with Vitamin C, B6 & Chromium | GLOW](https://shopglownyc.com/products/apple-cider-vinegar-c-b6-chromium-gummies-60-pcs): Apple cider vinegar gummies with vitamin C, B6, and chromium for metabolism and immune support. Apple-flavored, vegan, and sugar-free. 60 gummies per bottle.
-  Updated: 2026-02-28T01:45:13Z
+- [Apple Cider Vinegar Gummies with Vitamin C, B6 & Chromium | GLOW](https://shopglownyc.com/products/apple-cider-vinegar-c-b6-chromium-gummies-60-pcs-1): Support metabolism and digestion with GLOW's vegan Apple Cider Vinegar Gummies enriched with Vitamin C, B6 & Chromium. 60 sugar-free gummies per pack.
+  Updated: 2026-03-07T03:46:57Z
   Vendor: ChanceToBrand
-  Product Type: Produkt
+  Product Type: Vitamins & Supplements
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/13d24f83-ff56-46db-a4f2-3da009068121.jpg?v=1772111227
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/41f9c2c7-5ffc-4390-bf55-49bfa339313c_c5fcac8d-e798-4d80-9e24-21fc71d28934.jpg?v=1772809168
   Price: €22.99 EUR
-- [Magnesium Zinc B6 Gummies for Energy & Immunity | GLOW](https://shopglownyc.com/products/magnesium-zinc-b6-gummies-60-pcs): Magnesium, zinc, and vitamin B6 gummies for energy, immune function, and muscle health. Refreshing raspberry flavor, vegan and sugar-free. 60 gummies per bottle.
-  Updated: 2026-02-28T03:24:29Z
+- [Ashwagandha & Vitamin B6 Gummies for Stress Relief | GLOW](https://shopglownyc.com/products/ashwagandha-vitamin-b6-gummies-60-pcs-1): Calm your mind and reduce stress with GLOW's vegan Ashwagandha & B6 Gummies. 60 sugar-free gummies formulated for daily wellness support.
+  Updated: 2026-03-07T03:58:59Z
   Vendor: ChanceToBrand
-  Product Type: Produkt
+  Product Type: Vitamins & Supplements
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/4916d093-5ea7-4bdb-a4b8-561a7188cffa_25c34b55-c3e0-47af-85f4-74da62a9e28b.jpg?v=1772113335
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/9ef8eb12-8793-4936-8368-81029cf60870_5a48a428-ce00-4984-89e0-b3eee51949be.jpg?v=1772809510
   Price: €22.99 EUR
-- [Multivitamin Gummies with 10 Essential Vitamins & Minerals | GLOW](https://shopglownyc.com/products/multivitamin-mineral-gummies-60-pcs): Complete multivitamin gummies with 10 essential vitamins and minerals. Vegan, sugar-free daily wellness supplement to fill nutritional gaps. 60 gummies per bottle.
-  Updated: 2026-02-28T01:26:41Z
+- [Magnesium, Zinc & Vitamin B6 Gummies for Sleep & Recovery | GLOW](https://shopglownyc.com/products/magnesium-zinc-b6-gummies-60-pcs-1): Support muscle recovery and restful sleep with GLOW's vegan Magnesium, Zinc & B6 Gummies. 60 sugar-free gummies for daily mineral support.
+  Updated: 2026-03-07T04:07:30Z
   Vendor: ChanceToBrand
-  Product Type: Produkt
+  Product Type: Vitamins & Supplements
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/6c93f94f-07bd-436a-89f2-4dab80c160eb_4320f4b7-4c42-49ed-836a-f091a563f1a1.jpg?v=1772116190
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/2b9085bf-52b4-4cd8-9fec-d383ad81bc7c_baab2254-1c74-4c3d-bdbb-81bace17c44f.jpg?v=1772809765
   Price: €22.99 EUR
-- [Ashwagandha Gummies for Stress Relief & Energy | GLOW](https://shopglownyc.com/products/ashwagandha-vitamin-b6-gummies-60-pcs): Ashwagandha gummies with vitamin B6 for natural stress relief and energy support. Delicious mango flavor, vegan and sugar-free. 60 gummies per bottle.
-  Updated: 2026-02-28T00:40:04Z
+- [Shilajit Gummies with Vitamin C, B6 & B12 for Energy | GLOW](https://shopglownyc.com/products/shilajit-gummies-vitamin-c-b6-b12-60-pcs-1): Boost energy and vitality with GLOW's vegan Shilajit Gummies enriched with Vitamins C, B6 & B12. 60 sugar-free gummies for peak daily performance.
+  Updated: 2026-03-07T04:12:47Z
   Vendor: ChanceToBrand
-  Product Type: Produkt
+  Product Type: Vitamins & Supplements
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/bf476e14-a005-4eb0-b373-afbffbd711b7.jpg?v=1772116026
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/9417ea5b-f29d-4b53-94e4-838190f470c7_26d7230a-b43b-4d16-b816-6bacc3689134.jpg?v=1772810125
   Price: €22.99 EUR
-- [Lion's Mane Mushroom Gummies for Brain Health | GLOW](https://shopglownyc.com/products/lions-mane-vitamin-b6-gummies-60-pcs): Lion's Mane mushroom gummies with vitamin B6 for cognitive support and nervous system function. Vegan, sugar-free brain health supplement. 60 gummies per bottle.
-  Updated: 2026-02-28T00:55:25Z
+- [Multivitamin & Mineral Gummies for Complete Daily Nutrition | GLOW](https://shopglownyc.com/products/multivitamin-mineral-gummies-60-pcs-1): Get complete daily nutrition with GLOW's vegan Multivitamin & Mineral Gummies. 60 sugar-free gummies packed with essential vitamins and minerals.
+  Updated: 2026-03-07T14:17:26Z
   Vendor: ChanceToBrand
-  Product Type: Produkt
+  Product Type: Vitamins & Supplements
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/e04b728c-a29c-4b38-af8d-ea0916311379_35a5bd0d-848a-49ba-bbfe-faeb5cca88be.jpg?v=1772117099
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/264db783-8a6e-451b-bea1-84a568e15030_365c3e24-e2cc-4d9e-bde9-e99ab29e216a.jpg?v=1772810402
   Price: €22.99 EUR
-- [Shilajit Gummies with Fulvic Acid & Vitamins | GLOW](https://shopglownyc.com/products/shilajit-gummies-vitamin-c-b6-b12-60-pcs): Premium shilajit gummies with 20% fulvic acid, vitamin C, B6, and B12. Vegan, sugar-free wellness supplement for natural vitality and energy support. 60 gummies per bottle.
-  Updated: 2026-02-27T21:06:06Z
+- [Lion's Mane & Vitamin B6 Gummies for Focus & Brain Health | GLOW](https://shopglownyc.com/products/lions-mane-vitamin-b6-gummies-60-pcs-1): Sharpen focus and support brain health with GLOW's vegan Lion's Mane & B6 Gummies. 60 sugar-free gummies for cognitive clarity and mental performance.
+  Updated: 2026-03-07T13:25:58Z
   Vendor: ChanceToBrand
-  Product Type: Produkt
+  Product Type: Vitamins & Supplements
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/fb4a42fb-9f9a-4913-9a81-87ca33ee618f_afcdfc0b-3591-4389-8b67-cb3b2f26d47f.jpg?v=1772120421
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/6de4d0e1-3fa5-4e01-ba11-c83b9ad838a9_ac90a0a7-e280-4536-a26f-d49a7ebf6345.jpg?v=1772810682
   Price: €22.99 EUR
-- [Creatine Gummies - Sugar-Free Vegan Muscle Support | GLOW](https://shopglownyc.com/products/creatine-gummies-90-pcs): Premium sugar-free vegan creatine gummies for enhanced muscle performance, strength & recovery. 90 pieces, 3 daily. Plant-based formula supports athletic performance and cognitive function.
-  Updated: 2026-02-28T12:15:56Z
-  Vendor: ChanceToBrand
-  Product Type: Produkt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/c0d67796-5a53-42b8-9a61-a55690d955ee_8c40b999-3772-49e1-a4aa-af5aa3a88634.jpg?v=1772280117
-  Price: €29.99 EUR
 
 ## Collections
 
-- [Home page](https://shopglownyc.com/collections/frontpage)
-  Updated: 2026-02-27T11:41:49Z
-  Total Products: 0
-- [Digital Goods VAT Tax](https://shopglownyc.com/collections/digital-goods-vat-tax)
-  Updated: 2026-02-27T11:41:49Z
-  Total Products: 0
-- [Ashwagandha,Shilajit Gummies,Turmeric,Lion's Mane,Multivitamin Gummies,Magnesium + Zinc + B6 Gummies,Apple Cider Vinegar + C + B6 + Chromium Gummies](https://shopglownyc.com/collections/ashwagandha-shilajit-gummies-turmeric-lions-mane-multivitamin-gummies-magnesium-zinc-b6-gummies-apple-cider-vinegar-c-b6-chromium-gummies)
-  Updated: 2026-02-28T12:16:33Z
-  Total Products: 8
+- [GLOW Gummies](https://shopglownyc.com/collections/ashwagandha-shilajit-gummies-turmeric-lions-mane-multivitamin-gummies-magnesium-zinc-b6-gummies-apple-cider-vinegar-c-b6-chromium-gummies)
+  Updated: 2026-03-06T15:37:49Z
+  Total Products: 6
 
 ## Blogs
 
 - [News](https://shopglownyc.com/blogs/news)
   - [Ingredient Guide: What's in GLOW Wellness Gummies | GLOW](https://shopglownyc.com/blogs/news/ingredient-guide-the-power-behind-glow-wellness-gummies): Ingredient Guide: What's in GLOW Wellness Gummies | GLOW
-    Updated: 2026-02-27T18:11:06Z
+    Updated: 2026-03-01T14:34:04Z
     Author: Val KALIS
   - [Understanding Wellness Gummies The Health Benefits Explained](https://shopglownyc.com/blogs/news/understanding-wellness-gummies-the-health-benefits-explained): Understanding Wellness Gummies The Health Benefits Explained
-    Updated: 2026-02-27T12:34:24Z
+    Updated: 2026-03-01T14:34:04Z
     Author: GLOW
   - [Boost Your Immune System: Top Vitamins, Minerals & Supplements 2026](https://shopglownyc.com/blogs/news/boost-your-immune-system-vitamins-minerals-supplements-1516-95): Boost Your Immune System: Top Vitamins, Minerals & Supplements 2026
-    Updated: 2026-02-28T11:32:53Z
+    Updated: 2026-03-01T14:34:04Z
     Author: Val KALIS
   - [Top Ten Reasons Wellness Gummies Should Be in Your Daily Routine](https://shopglownyc.com/blogs/news/top-ten-reasons-wellness-gummies-should-be-in-your-daily-routine): Top Ten Reasons Wellness Gummies Should Be in Your Daily Routine
-    Updated: 2026-02-28T11:32:30Z
+    Updated: 2026-03-01T14:34:07Z
+    Author: GLOW
+  - [How to Choose the Best Wellness Gummies for Your Needs](https://shopglownyc.com/blogs/news/consider-your-health-goals)
+    Updated: 2026-03-03T13:46:26Z
+    Author: Val KALIS
+  - [5 Hidden Signs of Chronic Stress You're Ignoring: How to Pick Quality Gummies](https://shopglownyc.com/blogs/news/creatine-gummies-ashwagandha-vitamin-b6-gummies-60): 5 Hidden Signs of Chronic Stress You're Ignoring: How to Pick Quality Gummies
+    Updated: 2026-03-05T18:09:31Z
+    Author: u4j90u-ph
+  - [A Complete Guide to Wellness Gummies for Beginners](https://shopglownyc.com/blogs/news/a-complete-guide-to-wellness-gummies-for-beginners): A Complete Guide to Wellness Gummies for Beginners
+    Updated: 2026-03-06T15:57:54Z
+    Author: GLOW
+  - [Exploring the Benefits of Wellness Gummies for a Balanced Life](https://shopglownyc.com/blogs/news/exploring-the-benefits-of-wellness-gummies-for-a-balanced-life-1): Exploring the Benefits of Wellness Gummies for a Balanced Life
+    Updated: 2026-03-07T17:38:11Z
     Author: GLOW
 
 ## Store Pages
 
 - [Contact Us for Inquiries and Support](https://shopglownyc.com/pages/contact): Get in Touch: Contact Us Why Contact Us? We understand that having accessible communication is vital, so we encourage you to get in touch. Contact ...
-  Updated: 2026-02-27T19:34:01Z
+  Updated: 2026-03-05T19:26:35Z
 - [Your Privacy Choices](https://shopglownyc.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-02-18T14:43:07Z
 - [Ingredients & Certification - GLOW](https://shopglownyc.com/pages/ingredients-certification): Skincare Formulas & Ingredients Sunscreen | Boosters | Cleansers | Conditioners | Toners | Serums | Eye creams | Facial oils | Moisturisers | Hand ...
