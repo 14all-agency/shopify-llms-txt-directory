@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-18T16:45:42Z
 - Contact Email: orders@shopluxepetal.com
-- Updated At: 2026-02-28T00:00:45.643Z
+- Updated At: 2026-03-08T00:00:44.599Z
 
 Luxe Petal is a modern luxury lifestyle brand specializing in refined jewelry, statement accessories, and elevated fashion essentials.
 
