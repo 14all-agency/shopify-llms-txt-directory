@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2025-04-17T06:58:27Z
 - Contact Email: contact@ceylononlineservices.com
-- Updated At: 2026-03-02T00:00:29.430Z
+- Updated At: 2026-03-09T00:00:33.536Z
 
 ## Products
 
@@ -264,7 +264,7 @@
     Availability: Available
     Price: $25.00 NZD
 - [Green Tea](https://ceylononlineservices.com/products/green-tea): Ceylon green tea is celebrated for its smooth, refreshing taste and remarkable health benefits. Naturally rich in antioxidants and polyphenols, it supports weight management, liver health, and may help reduce risks associated with Alzheimer’s and type 2 diabetes. Ceylon green teas are less astringent than many other varieties, offering a mellow, clean flavor whether enjoyed hot or iced. Their minimal processing helps preserve both delicate taste and beneficial compounds, making them an ideal choice for those seeking a healthy, revitalizing beverage with a gentle, satisfying profile.
-  Updated: 2025-06-18T21:40:05Z
+  Updated: 2026-03-04T03:55:57Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -508,6 +508,15 @@
     Author: Ceylon Online Services
   - [Solving Common Customer Queries about Ceylon Online Services](https://ceylononlineservices.com/blogs/news/solving-common-customer-queries-about-ceylon-online-services): Solving Common Customer Queries about Ceylon Online Services
     Updated: 2026-02-28T00:52:50Z
+    Author: Ceylon Online Services
+  - [A Step-by-Step Guide to Starting Your Online Store with Ceylon](https://ceylononlineservices.com/blogs/news/a-step-by-step-guide-to-starting-your-online-store-with-ceylon): A Step-by-Step Guide to Starting Your Online Store with Ceylon
+    Updated: 2026-03-02T02:05:31Z
+    Author: Ceylon Online Services
+  - [Understanding the Benefits of E-commerce Platforms in Sri Lanka](https://ceylononlineservices.com/blogs/news/understanding-the-benefits-of-e-commerce-platforms-in-sri-lanka): Understanding the Benefits of E-commerce Platforms in Sri Lanka
+    Updated: 2026-03-04T02:09:11Z
+    Author: Ceylon Online Services
+  - [Answers to Frequently Asked Questions about Ceylon Online Services](https://ceylononlineservices.com/blogs/news/answers-to-frequently-asked-questions-about-ceylon-online-services): Answers to Frequently Asked Questions about Ceylon Online Services
+    Updated: 2026-03-07T00:32:39Z
     Author: Ceylon Online Services
 
 ## Store Pages
