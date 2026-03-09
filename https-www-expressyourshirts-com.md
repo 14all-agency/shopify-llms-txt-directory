@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-11T03:52:50Z
 - Contact Email: expressyourshirts@gmail.com
-- Updated At: 2026-02-28T00:00:49.153Z
+- Updated At: 2026-03-09T00:00:51.020Z
 
 ## Products
 
@@ -2173,7 +2173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/womens-relaxed-t-shirt-white-front-6329b967f1b38.jpg?v=1663678840
     Price: $28.25 USD
 - [TATTOO LIFE - Skull & Crossbones (Bella + Canvas 3001)](https://www.expressyourshirts.com/products/tattoo-life-skull-crossbones-bella-canvas-3001): This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the USSize guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57 4XL 34 30 58-61 5XL 35 31 62-65
-  Updated: 2026-01-13T22:56:13Z
+  Updated: 2026-03-06T07:51:45Z
   Vendor: Express Your Shirts
   Product Type: 
   Availability: Available
@@ -2867,7 +2867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/65d59750e38148c172bc93f27d57bca1_female-front1.jpg?v=1664078252
     Price: $34.99 USD
 - [EYS Designer Monk Sitting on Tiger Shirt](https://www.expressyourshirts.com/products/eys-designer-monk-sitting-on-tiger-shirt): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } This unisex essential tee fits like a beloved favorite. Featuring a crew neck, short sleeves, and a premium 100% polyester fabric with a cotton handfeel, and high definition printing that won't fade after washing. 100% polyester Crew neck Premium polyester knit 190gsm jersey High definition printing Regular fit Inches XS S M L XL 2XL 3XL 4XL 1/2 Chest 1" below armhole 18½ 19½ 20½ 21½ 22½ 23½ 24½ 25½ Body length: from h.p.s. 27½ 28½ 29½ 30½ 31½ 32½ 33½ 34½ Centimeters XS S M L XL 2XL 3XL 4XL 1/2 Chest 2.5cm below armhole 47 49.5 52 54.5 57 59.5 62 64.5 Body length: from h.p.s. 70 72.5 75 77.5 80 82.5 85 87.5
-  Updated: 2024-11-16T09:07:25Z
+  Updated: 2026-03-05T02:52:49Z
   Vendor: Express Your Shirts
   Product Type: T-shirt
   Availability: Available
@@ -3197,7 +3197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/42f4784ded2c279a123be4db9f72a558_tshirtDress_natasha-front.jpg?v=1664123043
     Price: $43.50 USD
 - [Pulling 10's is Overrated](https://www.expressyourshirts.com/products/pulling-10s-is-overrated): The 100% cotton men's classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey 90% cotton, 10% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, MexicoSize guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
-  Updated: 2026-01-13T22:56:41Z
+  Updated: 2026-03-02T01:53:46Z
   Vendor: Express Your Shirts
   Product Type: 
   Availability: Available
@@ -4413,7 +4413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/bb9c2689ddb3494d7249fb950b1ae3b9_female-front1.jpg?v=1664505151
     Price: $42.04 USD
 - [EYS Designer Horned Skull Shirt](https://www.expressyourshirts.com/products/eys-designer-horned-skull-shirt): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } This unisex essential tee fits like a beloved favorite. Featuring a crew neck, short sleeves, and a premium 100% polyester fabric with a cotton handfeel, and high definition printing that won't fade after washing. 100% polyester Crew neck Premium polyester knit 190gsm jersey High definition printing Regular fit Inches XS S M L XL 2XL 3XL 4XL 1/2 Chest 1" below armhole 18½ 19½ 20½ 21½ 22½ 23½ 24½ 25½ Body length: from h.p.s. 27½ 28½ 29½ 30½ 31½ 32½ 33½ 34½ Centimeters XS S M L XL 2XL 3XL 4XL 1/2 Chest 2.5cm below armhole 47 49.5 52 54.5 57 59.5 62 64.5 Body length: from h.p.s. 70 72.5 75 77.5 80 82.5 85 87.5
-  Updated: 2024-11-16T09:49:33Z
+  Updated: 2026-03-02T06:14:19Z
   Vendor: Express Your Shirts
   Product Type: T-shirt
   Availability: Available
@@ -4641,7 +4641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/cfc6e880d420a9e0e679d4cc1de68ba4_female-front1.jpg?v=1664548376
     Price: $36.42 USD
 - [EYS Designer Dark Moon Rising](https://www.expressyourshirts.com/products/eys-designer-dark-moon-rising): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } This unisex essential tee fits like a beloved favorite. Featuring a crew neck, short sleeves, and a premium 100% polyester fabric with a cotton handfeel, and high definition printing that won't fade after washing. 100% polyester Crew neck Premium polyester knit 190gsm jersey High definition printing Regular fit Inches XS S M L XL 2XL 3XL 4XL 1/2 Chest 1" below armhole 18½ 19½ 20½ 21½ 22½ 23½ 24½ 25½ Body length: from h.p.s. 27½ 28½ 29½ 30½ 31½ 32½ 33½ 34½ Centimeters XS S M L XL 2XL 3XL 4XL 1/2 Chest 2.5cm below armhole 47 49.5 52 54.5 57 59.5 62 64.5 Body length: from h.p.s. 70 72.5 75 77.5 80 82.5 85 87.5
-  Updated: 2024-11-21T23:15:20Z
+  Updated: 2026-03-02T08:15:42Z
   Vendor: Express Your Shirts
   Product Type: T-shirt
   Availability: Available
@@ -5369,7 +5369,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/unisex-crew-neck-sweatshirt-black-front-6343b2beb7a20.jpg?v=1665381063
     Price: $40.44 USD
 - [On A Dark Desert Highway - Unisex Jersey Short Sleeve V-Neck Tee](https://www.expressyourshirts.com/products/on-a-dark-desert-highway-unisex-jersey-short-sleeve-v-neck-tee): S M L XL 2XL Width, in 17.99 20.00 22.01 23.98 25.98 Length, in 27.72 28.74 29.72 30.75 31.73 Sleeve length, in 8.90 9.17 9.45 9.72 10.00 Looking good on both men and women, this soft jersey tee is comfortable enough to wear all day long. High quality print will make it an instant favorite in every wardrobe. .: 100% airlume combed and ringspun cotton (fiber content may vary for different colors).: Light fabric (4.2 oz/yd² (142 g/m²)).: Retail fit.: Sewn in label.: Runs true to size
-  Updated: 2024-11-22T08:11:59Z
+  Updated: 2026-02-28T06:37:37Z
   Vendor: Printify
   Product Type: V-neck
   Availability: Available
@@ -5521,7 +5521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/faddeb705471b977f6ead880a9b20805.png?v=1665556777
     Price: $26.77 USD
 - [Show me your Pitties](https://www.expressyourshirts.com/products/show-me-your-pitties-unisex-jersey-short-sleeve-tee): S M L XL 2XL 3XL Width, in 17.99 20.00 22.01 24.02 25.98 27.99 Length, in 27.99 29.02 30.00 31.02 32.01 32.99 Sleeve length, in 8.90 9.17 9.45 9.72 10.00 10.39 This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders have taping for better fit over time. Dual side seams hold the garment's shape for longer. .: 100% Airlume combed and ringspun cotton (fiber content may vary for different colors).: Light fabric (4.2 oz/yd² (142 g/m²)).: Retail fit.: Tear away label.: Runs true to size
-  Updated: 2024-11-20T20:42:41Z
+  Updated: 2026-03-05T04:14:59Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -6385,7 +6385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01489_2FFSZM01489_B_S_NUB_2F83a2a5f89f9b35e15bca4ccb4a987e60.jpg?v=1676838444
     Price: $22.14 USD
 - [Lucky Elf Print Short-sleeved T-shirt](https://www.expressyourshirts.com/products/womens-crewneck-lucky-elf-print-short-sleeved-t-shirt): Sizing: True to size Material composition: 95% Polyester, 5% Spandex Material: Polyester Pattern: Cartoon Season: Spring-Summer Sleeve_type: Regular sleeve Style: Keep Sleeve_length: Short sleeve Weight: 200 g The crewneck, short sleeves, and soft, comfortable fabric of this t-shirt with the lucky elf print are stylish. It can be worn daily, out, for sports, and on other occasions.Size Chart(inch) Size US UK Length Bust Shoulder S 4 8 26 37 16 M 6 10 26 39 16 L 8 12 27 41 17 XL 10 14 27 43 18 2XL 12 16 28 45 18 3XL 14 18 28 47 19 4XL 16 20 28 49 19 5XL 18 22 29 51 20
-  Updated: 2026-01-13T22:43:21Z
+  Updated: 2026-03-04T09:33:50Z
   Vendor: kakaclo
   Product Type: Ladies T-Shirt
   Availability: Available
@@ -10463,7 +10463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01762_2FFSZM01762_LGR_M_NUB_2F58918d5f0a15d4e56b78f719c15e7654.jpg?v=1676878779
     Price: $24.30 USD
 - [Men's fashion casual stitching pencil trousers](https://www.expressyourshirts.com/products/mens-fashion-casual-stitching-pencil-trousers): Sizing: True to size Material composition: 35%cotton65%polyester Material: Polyester Waistline: Mid waist Pattern: Self design Season: Spring-Summer Style: Leisure Weight: 350 g Men's fashion casual stitching pencil trousers ● Material: soft and comfortable, easy to care ● Features: daily, leisure, splicing ● Occasion: leisure, going out, business, school, dating, travel, vacation, office, etc. ● Washing method: wash and dry / separate dark / light colors. ● The size is measured by hand, and it is normal for there to be an error of 1-3cmSize Chart(inch) Size US UK Pants length Waist Hip M 38 38 42 31 42 L 40 40 43 32 43 XL 42 42 43 34 45 XXL 44 44 44 35 46
-  Updated: 2026-01-13T22:49:14Z
+  Updated: 2026-03-05T23:51:21Z
   Vendor: kakaclo
   Product Type: Men's Sweatpants
   Availability: Available
@@ -14632,8 +14632,8 @@
   Updated: 2026-01-14T03:39:08Z
   Total Products: 157
 - [Smart Products Filter Index - Do not delete](https://www.expressyourshirts.com/collections/globofilter-best--products-index)
-  Updated: 2026-02-27T02:24:40Z
-  Total Products: 2084
+  Updated: 2026-03-07T01:07:43Z
+  Total Products: 2086
 - [DRESSES](https://www.expressyourshirts.com/collections/dresses)
   Updated: 2026-01-15T05:51:04Z
   Total Products: 141
@@ -14665,8 +14665,8 @@
   Updated: 2025-12-20T06:26:26Z
   Total Products: 37
 - [Hurtz Shirtz](https://www.expressyourshirts.com/collections/hurts-shirts): Great shirts for dad prompt best gift for boyfriend prompt Best gift for husband prompt Husband gift prompt Prefect Christmas gift prompt Best secret Santa gift prompt Perfect secret Santa Prompt Gift prompt. White Elephant Gift Prompt Great shirts for dads prompt Best present for boyfriend prompt Best present for husband prompt Husband present prompt Prefect Christmas present prompt Best secret Santa present prompt Perfect secret Santa Prompt present prompt. White Elephant present prompt Gag gift prompt Joke present prompt Great shirt prompt comfy shirt prompt funny gifts prompt Shirts that are funny prompt crazy shirt ides prompt stupid shirts prompt shirts that make you laugh prompt holiday shirt prompt Original shirts prompt Unique Shirts Prompts Colorful shirts Prompts perfect gift for that perfect person prompt gift for the man that has everything prompt Gift for that woman that has everything prompt Gift for that special someone prompt Grandpa gifts prompt Cool Shirts prompt Great Shirts for Grandpa Prompt Great shirts for Boyfriend prompt Brother gifts prompt Sister gifts prompt from me to you gifts prompt Groovy prompt Hip prompt Neat prompt
-  Updated: 2026-02-27T02:24:14Z
-  Total Products: 386
+  Updated: 2026-03-07T01:07:17Z
+  Total Products: 388
 - [FACEBOOK](https://www.expressyourshirts.com/collections/facebook)
   Updated: 2026-01-21T04:16:55Z
   Total Products: 643
