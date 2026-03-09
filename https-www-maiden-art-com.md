@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2010-04-30T15:23:34Z
 - Contact Email: sales@maiden-art.com
-- Updated At: 2026-03-02T00:00:36.300Z
+- Updated At: 2026-03-09T00:00:41.658Z
 
 ## Products
 
@@ -340,7 +340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/hardcover-bound-notebook-black-front-65b4da8c70392.jpg?v=1706351252
   Price: €59.00 EUR
 - [This Girl Can Hardcover bound notebook - JournalBook - stationery -](https://www.maiden-art.com/products/this-girl-can-hardcover-bound-notebook-1-stationary): The Ultimate Stationery: This Girl Can Hardcover Bound JournalBook Whether crafting a masterpiece or  - Maiden-Art
-  Updated: 2026-02-16T10:55:19Z
+  Updated: 2026-03-07T23:31:11Z
   Vendor: Maiden-Art
   Product Type: notebook
   Availability: Available
@@ -702,7 +702,7 @@
     Availability: Available
     Price: €89.00 EUR
 - [Full Silver Name-1 Ring - silver ring - Maiden-Art](https://www.maiden-art.com/products/full-silver-name-1-ring-silver-ring): Discover the Beauty of the Full Silver Name-1 Ring Silver ring: This ring is Hand-made with your  - Maiden-Art
-  Updated: 2026-02-16T10:55:22Z
+  Updated: 2026-03-08T05:26:02Z
   Vendor: Maiden-Art
   Product Type: ring
   Availability: Available
@@ -1597,7 +1597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
     Price: €249.00 EUR
 - [REBEL GIRL Leather Bomber Jacket - Maiden-Art](https://www.maiden-art.com/products/rebel-girl-leather-bomber-jacket): REBEL GIRL Leather Bomber Jacket Organic sweatshirt: If there’s an item that never goes out of  - Maiden-Art
-  Updated: 2026-02-16T10:55:28Z
+  Updated: 2026-03-04T01:48:26Z
   Vendor: Maiden-Art
   Product Type: Leather Bomber Jacket
   Availability: Available
@@ -1619,7 +1619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/faux-leather-bomber-jacket-black-front-6615541b9a325.jpg?v=1726647089
     Price: €249.00 EUR
   - [Black / XL](https://www.maiden-art.com/products/rebel-girl-leather-bomber-jacket?variant=48016319611223)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/faux-leather-bomber-jacket-black-front-6615541b9a325.jpg?v=1726647089
     Price: €249.00 EUR
   - [Black / 2XL](https://www.maiden-art.com/products/rebel-girl-leather-bomber-jacket?variant=48016319643991)
@@ -2235,105 +2235,105 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/RgGUO4kxibbdt_betQJtmRA7ckfpgdWx.jpg?v=1726647652
   Price: €39.00 EUR
 - [Self-Love Journal - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-self-love-workbook-copy): Discover the Power of Self-Love with Our Journal Empower Your Journey: Unlock Self-Love &amp; Inner  - Maiden-Art
-  Updated: 2026-02-16T10:55:31Z
+  Updated: 2026-03-08T16:55:55Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Ultimate_Guide_Ebook_Cover.png?v=1738145318
+  Image: https://cdn.shopify.com/s/files/1/0048/5172/files/336DA756-C738-4F00-8AEE-C3D9938B0F78.jpg?v=1772987503
   Price: €24.87 EUR
 - [18K Gold Plated Heart Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/18k-gold-plated-heart-pendant-necklace): Exquisite 18K Gold Plated Heart Pendant Necklace Elevate your style with this elegant 18K  - Maiden-Art
-  Updated: 2026-02-28T18:26:07Z
+  Updated: 2026-03-06T23:02:15Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr.jpg?v=1726647669
   Price: €69.00 EUR
 - [925 Sterling Silver Necklace Red Heart Pendant - Maiden-Art](https://www.maiden-art.com/products/925-sterling-silver-necklace): 925 Sterling Silver Necklace with Red Heart Pendant 925 sterling silver necklace: Rhodium Plated  - Maiden-Art
-  Updated: 2026-02-16T10:55:31Z
+  Updated: 2026-03-06T23:02:17Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_72f5e27d-4aea-4f99-ab40-3cc01b6d2b60.jpg?v=1726647682
   Price: €69.00 EUR
 - [Round Knot Pendant Necklace with Cubic Zirconia - Maiden-Art](https://www.maiden-art.com/products/round-knot-pendant-necklace-with-cubic-zirconia): Round Knot Pendant Necklace with Cubic Zirconia Brass Rhodium Plated Necklace with Clear Cubic  - Maiden-Art
-  Updated: 2026-02-16T10:55:31Z
+  Updated: 2026-03-06T23:02:16Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_5cfcdae6-235d-418f-a30a-76edc6f60cf2.jpg?v=1726647695
   Price: €69.00 EUR
 - [Mother and Child Necklace Pave Heart Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/mother-and-child-necklace-pave-heart-pendant-necklace): Mother and Child Necklace - The Perfect Symbol of Unconditional Love Elevate your style with our  - Maiden-Art
-  Updated: 2026-02-16T10:55:31Z
+  Updated: 2026-03-06T23:02:13Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_bfe18c25-9d1e-4bae-a335-f7b18af49328.jpg?v=1726647707
   Price: €69.00 EUR
 - [Eternity Necklace Love Heart Pave Necklace - Maiden-Art](https://www.maiden-art.com/products/eternity-necklace): Eternity Necklace - A Symbol of Endless Love Add a touch of elegance with our 14K silver-plated  - Maiden-Art
-  Updated: 2026-02-16T10:55:31Z
+  Updated: 2026-03-06T23:02:13Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_2503c75b-2700-496f-a6a0-7a5ba7d1dab8.jpg?v=1726647719
   Price: €69.00 EUR
 - [14K Silver Plated Necklace Love Heart Pave Pendant Necklace -](https://www.maiden-art.com/products/14k-silver-plated-love-heart-pave-pendant-necklace): 14K Silver Plated Necklace: Love Heart Pave Pendant Discover elegance with our 14K silver-plated  - Maiden-Art
-  Updated: 2026-02-16T10:55:31Z
+  Updated: 2026-03-06T23:02:13Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_2b7ddc06-52fc-488d-8374-77452c9f157e.jpg?v=1726647732
   Price: €69.00 EUR
 - [14K Gold Plated Two Circle Interlocking Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/14k-gold-plated-two-circle-interlocking-pendant-necklace): 14K Gold Plated Two Circle Interlocking Pendant Necklace Elevate your style with our 14K gold-plated  - Maiden-Art
-  Updated: 2026-02-16T10:55:32Z
+  Updated: 2026-03-06T23:02:22Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_7969a013-14e4-493a-b8e7-46e7697734b9.jpg?v=1726647744
   Price: €69.00 EUR
 - [925 Sterling Silver Butterfly Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/925-sterling-silver-butterfly-pendant-necklace): 925 Sterling Silver Butterfly Pendant Necklace Enhance your elegance with our rhodium-plated pendant  - Maiden-Art
-  Updated: 2026-02-16T10:55:32Z
+  Updated: 2026-03-06T23:02:23Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_79aaf26a-c631-4a43-8012-f1b24e4c0d27.jpg?v=1726647756
   Price: €69.00 EUR
 - [Round Knot Pendant Necklace with Cubic Zirconia - Maiden-Art](https://www.maiden-art.com/products/round-knot-pendant-necklace-with-cubic-zirconia-1): Round Knot Pendant Necklace with Cubic Zirconia Add a touch of elegance with our rhodium-plated  - Maiden-Art
-  Updated: 2026-02-16T10:55:32Z
+  Updated: 2026-03-06T23:02:24Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_84d96f4b-af83-41b8-99f1-8e4770a2a858.jpg?v=1726647768
   Price: €69.00 EUR
 - [14K Gold Plated Solitaire Necklace - Maiden-Art](https://www.maiden-art.com/products/14k-gold-plated-solitaire-necklace): 14K Gold Plated Solitaire Necklace Enhance your elegance with our 14K gold-plated necklace,  - Maiden-Art
-  Updated: 2026-02-16T10:55:32Z
+  Updated: 2026-03-06T23:02:22Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_4266fca2-abd4-4cf0-b322-d8312d15ad4d.jpg?v=1726647780
   Price: €69.00 EUR
 - [Round Pendant Pave Necklace - Maiden-Art](https://www.maiden-art.com/products/round-pendant-pave-necklace): Elegant Round Pendant Pave Necklace Discover timeless elegance with our Round Pendant Pave Necklace.  - Maiden-Art
-  Updated: 2026-02-16T10:55:32Z
+  Updated: 2026-03-06T23:02:23Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_afa2568c-0e2f-4737-96f6-ca277efa0a96.jpg?v=1726647793
   Price: €69.00 EUR
 - [Three Circle Pendant Necklace - Interlocking necklace - Maiden-Art](https://www.maiden-art.com/products/three-circle-pendant-necklace-interlocking): Timeless Three Circle Interlocking Pendant Necklace – 925 Sterling Silver Elevate y elegance with  - Maiden-Art
-  Updated: 2026-02-16T10:55:32Z
+  Updated: 2026-03-06T23:02:27Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_a6445cf6-48db-4640-8bfd-06426386b21f.jpg?v=1726647805
   Price: €69.00 EUR
 - [Two Circle Interlocking Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/interlocking-pendant-necklace-two-circle): legant  Circle Interlocking Pendant Necklace – 925 Sterling Silver Enhance your style with our  - Maiden-Art
-  Updated: 2026-02-16T10:55:32Z
+  Updated: 2026-03-06T23:02:25Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_a909b7ba-8da0-4ee7-aa85-a3929136c831.jpg?v=1726647817
   Price: €69.00 EUR
 - [14K gold necklace | Gold Plated Cross Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/14k-gold-necklace-cross-pendant-necklace): Stunning 14K Gold Necklace: A  Accessory Elegant 14K Gold Plated Cross Pendant Necklace –  - Maiden-Art
-  Updated: 2026-02-16T10:55:33Z
+  Updated: 2026-03-06T23:02:25Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
@@ -2578,7 +2578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-cropped-hoodie-storm-front-66e98ff8a7c32.jpg?v=1726582829
     Price: €139.00 EUR
 - [Self Love Addicted Snapback Hat with Embroidery - Maiden-Art](https://www.maiden-art.com/products/self-love-addicted-snapback-hat): Self Love Addicted Snapback Hat Snapback Hat: This hat is structured with a classic fit, flat brim,  - Maiden-Art
-  Updated: 2026-02-16T10:55:34Z
+  Updated: 2026-03-06T08:04:05Z
   Vendor: Maiden-Art
   Product Type: Snapback Hat
   Availability: Available
@@ -3700,7 +3700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-pigment-dyed-hoodie-pigment-slate-blue-front-67069d8c44474.jpg?v=1728486995
     Price: €179.00 EUR
 - [Own Your Glow Unisex  tie-dye hoodie with Embroidery |](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie): Experience the Superior Comfort with Champion Hoodie If you're looking for a trendy, one-of-a-kind  - Maiden-Art
-  Updated: 2026-02-16T10:55:36Z
+  Updated: 2026-03-02T13:47:08Z
   Vendor: Maiden-Art
   Product Type: Unisex Champion tie-dye hoodie
   Availability: Available
@@ -3714,7 +3714,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-black-front-6706a1ee28d54.jpg?v=1736353827
     Price: €189.00 EUR
   - [Black / L](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie?variant=49259111350615)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-black-front-6706a1ee28d54.jpg?v=1736353827
     Price: €189.00 EUR
   - [Black / XL](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie?variant=49259111383383)
@@ -4116,7 +4116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713cbc40763b.jpg?v=1729350630
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-7): Yoga Leggings: The Ultimate Fusion of Comfort and Style Super soft, stretchy, and comfortable yoga  - Maiden-Art
-  Updated: 2026-02-16T10:55:39Z
+  Updated: 2026-03-05T05:40:09Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -5590,7 +5590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-one-piece-swimsuit-white-front-6835b4669832c.jpg?v=1748350109
     Price: €89.00 EUR
 - [One-Piece Swimsuit](https://www.maiden-art.com/products/one-piece-swimsuit-1): This one-piece swimsuit for all figures will bring out your best features. Enjoy the smooth fabric and the flattering design, and show it off by the sea or pool! • 82% Polyester, 18% Spandex • Fabric weight: 6.78 oz/yd² (230 g/m²), weight may vary by 5% • Chlorine-resistant fabric • Cheeky fit with a scoop neckline and a low scoop back • Zig-zag stitching • Double-layer front • Four-way stretch material stretches and recovers on the cross and lengthwise grains This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 33 ⅛ 25 ¼ 35 ⅜ S 34 ⅝ 26 ¾ 37 M 36 ¼ 28 ⅜ 38 ⅝ L 37 ¾ 29 ⅞ 40 ⅛ XL 41 33 ⅛ 43 ¼ 2XL 44 ⅛ 36 ¼ 46 ½ 3XL 47 ¼ 39 ⅜ 49 ⅝ CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 96 76 102 XL 104 84 110 2XL 112 92 118 3XL 120 100 126
-  Updated: 2026-02-16T10:55:44Z
+  Updated: 2026-03-06T04:18:56Z
   Vendor: Maiden-Art
   Product Type: swimsuit
   Availability: Available
@@ -9160,25 +9160,25 @@
 ## Collections
 
 - [All Fashion Products - Maiden-Art](https://www.maiden-art.com/collections/fashion-products): All Fashion Products Maiden-Art style described by VOGUE ITALIA  Fashion Products: "Her creations  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 420
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 437
 - [Online gift cards - Maiden-Art](https://www.maiden-art.com/collections/online-gift-cards): Why Choose Online Gift Cards? Shopping for someone else but not sure what to give m? Give m  - Maiden-Art
   Updated: 2026-02-16T10:55:17Z
   Total Products: 2
 - [New Arrivals - Maiden-Art](https://www.maiden-art.com/collections/new-arrivals): Discover Our New Arrivals You will find the latest releases from Maiden Art here. We specialise in  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 384
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 401
 - [Spently - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/recommended-products): Recommended Products at Spently Recommended products This collection is used by the Spently app, to  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 415
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 427
 - [Mindful Chic Sustainable Fashion - Maiden-Art](https://www.maiden-art.com/collections/mindful-chic-sustainable-fashion): Mindful Chic Sustainable Fashion Mindful Chic Sustainable Fashion. Indulge  senses and elevate  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 377
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 394
 - [Jewelry - Maiden-Art](https://www.maiden-art.com/collections/personalized-jewelry-self-love-confidence): Jewelry Collections Discover the perfect jewelry to celebrate self-love and boost confidence. Our  - Maiden-Art
-  Updated: 2026-02-26T12:00:07Z
-  Total Products: 88
+  Updated: 2026-03-06T14:13:30Z
+  Total Products: 97
 - [Natural Skincare - Maiden-Art](https://www.maiden-art.com/collections/natural-skincare-self-love-skincare-collection-luxury-care): Embrace the Benefits of Natural Skincare Discover Maiden-Art's Self Love Skincare Collection, a  - Maiden-Art
-  Updated: 2026-02-16T10:55:17Z
+  Updated: 2026-03-06T14:38:16Z
   Total Products: 36
 - [Scented Candles - Maiden-Art](https://www.maiden-art.com/collections/scented-candles-mindfulness-meditation-candle-collection): Explore Our Scented Candles Collection Scented Candles: Immerse yourself in tranquility with  - Maiden-Art
   Updated: 2026-02-16T10:55:17Z
@@ -9190,44 +9190,47 @@
   Updated: 2026-02-16T10:55:17Z
   Total Products: 9
 - [Apparel - Maiden-Art](https://www.maiden-art.com/collections/apparel-self-love-mindfulness-clothes-accessories-collection): Explore Our Premium Apparel Collection Elevate your style and spirit with Maiden-Art's Clothes &amp;  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 137
+  Updated: 2026-03-06T15:08:32Z
+  Total Products: 145
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-recommended-products): Recommended Products This collection is used by the UpOrder app, to make product recommendations in  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 415
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 427
 - [Natural Makeup - Maiden-Art](https://www.maiden-art.com/collections/natural-makeup-for-mindful-fashionistas-clean-beauty-for-confidence-self-love): Natural Makeup Discover our collection of natural makeup for mindful fashionistas at Maiden-Art.  - Maiden-Art
-  Updated: 2026-02-23T12:00:03Z
+  Updated: 2026-03-08T11:00:03Z
   Total Products: 36
 - [Home & Living - Maiden-Art](https://www.maiden-art.com/collections/home-living-for-mindful-fashionistas-eco-friendly-decor-self-love-essentials): Explore Our Home &amp; Living Collection Transform your space with our eco-friendly home &amp;  - Maiden-Art
-  Updated: 2026-02-23T12:00:03Z
+  Updated: 2026-03-06T15:10:43Z
   Total Products: 40
 - [Fashion Accessories - Maiden-Art](https://www.maiden-art.com/collections/fashion-accessories): Discover the Best Fashion Accessories Complete your look with our collection of accessories for  - Maiden-Art
-  Updated: 2026-02-26T12:00:07Z
+  Updated: 2026-03-06T12:00:05Z
   Total Products: 44
 - [UpOrder Products - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-uporder-products): UpOrder Products Explore the Best UpOrder Products This collection is used by the UpOrder app, to  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 415
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 427
 - [Holiday Gift Guide - holiday gift ideas - Maiden-Art](https://www.maiden-art.com/collections/holiday-gift-guide-holiday-gift-ideas): Best Holiday Gift Ideas Explore Maiden-Art's Holiday Gift Guide 2024 for one-of-a-kind clothes,  - Maiden-Art
   Updated: 2026-02-16T10:55:17Z
   Total Products: 46
 - [Catalog - online catalog - Maiden-Art](https://www.maiden-art.com/collections/all-online-catalog): Explore Our Online Catalog for a Seamless Shopping Experience What is an Online Catalog? An online  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 500
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 517
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify  - Maiden-Art
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 415
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 427
 - [Valentine's Day Collection - Maiden-Art](https://www.maiden-art.com/collections/valentine-s-day-collection): Discover Our Valentine's Day Collection Discover Maiden-Art’s Valentine's Day Collection:  - Maiden-Art
   Updated: 2026-02-16T10:55:17Z
   Total Products: 26
 - [Beach Collection](https://www.maiden-art.com/collections/self-love-beach-collection-bold-unique-swimwear-for-rebel-hearts-maiden-art): Discover the Self Love Beach Collection at Maiden-Art — bold bikinis and one-piece swimsuits designed for rebel hearts who love themselves loudly. Embrace summer with empowering prints, ethical handmade quality, and vibrant self-love vibes. Shop now and shine like the summer sun!
-  Updated: 2026-02-26T12:00:07Z
-  Total Products: 33
+  Updated: 2026-03-04T11:41:03Z
+  Total Products: 34
 - [Faire Smart Collection (Do Not Edit)](https://www.maiden-art.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire to support product performance reporting on Shopify. Please do not modify or delete this collection, as it is used for analytics and sales insights.
-  Updated: 2026-02-28T12:00:20Z
-  Total Products: 500
+  Updated: 2026-03-08T11:00:03Z
+  Total Products: 517
 - [Secret Toys - Luxury Design](https://www.maiden-art.com/collections/secret-toys-luxury-design): Secret Toys – Where Desire Meets Elegance Step into the world of Secret Toys, where luxury and intimacy intertwine. Our curated collection of high-end  toys transforms personal pleasure into an art form, blending exquisite design with premium materials. Each piece is crafted to elevate your sensual experiences, offering sophistication, discretion, and indulgence in equal measure. From elegantly minimalist vibrators to intricately designed couples’ toys, Secret Toys is where your private desires meet unparalleled quality and refinement. Indulge in your fantasies with confidence—because luxury isn’t just seen; it’s felt.
   Updated: 2025-12-12T11:16:07Z
   Total Products: 5
+- [Self-Love Fashion](https://www.maiden-art.com/collections/self-love-fashion)
+  Updated: 2026-03-06T14:01:00Z
+  Total Products: 0
 
 ## Blogs
 
@@ -9262,7 +9265,7 @@
     Updated: 2024-11-04T23:00:08Z
     Author: Maristella Colombo
   - [Embrace Self-Love: Mindful Fashion for True Confidence](https://www.maiden-art.com/blogs/italian-jewelry-fashion-jewelry-and-style-tips/embrace-self-love-and-confidence-with-mindful-fashion-a-guide-to-choosing-accessories-that-reflect-your-true-self): Embrace Self-Love: Mindful Fashion for True Confidence
-    Updated: 2024-11-12T10:00:04Z
+    Updated: 2026-03-07T06:48:24Z
     Author: Maristella Colombo
   - [Holiday Gifts: Discover Unique Holiday Gifts – Maiden-Art](https://www.maiden-art.com/blogs/italian-jewelry-fashion-jewelry-and-style-tips/discover-unique-holiday-gifts-maiden-arts-exclusive-holiday-gift-guide): Holiday Gifts: Discover Unique Holiday Gifts – Maiden-Art
     Updated: 2025-01-09T09:42:21Z
