@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T09:12:07Z
 - Contact Email: info@nsstyling.com
-- Updated At: 2026-02-28T00:00:42.543Z
+- Updated At: 2026-03-09T00:00:40.822Z
 
 ## Products
 
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/g-9.png?v=1761924169
   Price: $40.00 AUD
 - [Upgrade Your Home with Duchess Display | NS Styling](https://nsstyling.com/products/duchess-display): Upgrade your home with Duchess Display by NS Styling. Stylish and functional designs that add elegance, charm, and a modern touch to every space effortlessly.
-  Updated: 2026-02-17T16:52:39Z
+  Updated: 2026-03-02T18:11:08Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
@@ -116,14 +116,14 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/g-12.png?v=1761907113
   Price: $20.00 AUD
 - [Burnt Orange Display  Modern and Stylish Home Decor | NS Styling](https://nsstyling.com/products/burnt-orange-display): Discover the Burnt Orange Display from NS Styling, a modern and stylish home decor accent that enhances your space with rich color, warmth, and contemporary appeal.
-  Updated: 2026-02-17T17:00:21Z
+  Updated: 2026-03-02T18:12:41Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-15T235355.670.png?v=1761923846
   Price: $30.00 AUD
 - [Buy Baroque Display  Elegant Home Decor | NS Styling](https://nsstyling.com/products/baroque-display): Shop the Baroque Display by NS Styling, an elegant home decor accent inspired by classic design, perfect for adding sophistication and character to your space.
-  Updated: 2026-02-17T17:02:10Z
+  Updated: 2026-03-02T18:13:59Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
@@ -141,7 +141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-21T181047.179.png?v=1763730729
     Price: $20.00 AUD
 - [Shop White Thread Scissors Modern Craft Accessory | NS Styling](https://nsstyling.com/products/white-thread-scissors): Shop White Thread Scissors by NS Styling, a sleek modern craft accessory that blends functionality, precision, and minimalist style for everyday creative work.
-  Updated: 2026-02-17T17:02:52Z
+  Updated: 2026-03-02T18:15:25Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
@@ -155,28 +155,28 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/g-19.png?v=1761852205
   Price: $50.00 AUD
 - [Shop Luxury Almond Clusters  Gourmet Snack | NS Styling](https://nsstyling.com/products/sugar-coated-almond-cluster): Shop premium sugar coated almond clusters from NS Styling. Order luxury gourmet snacks crafted for elegant gifting, celebrations, and everyday indulgence.
-  Updated: 2026-02-17T17:04:25Z
+  Updated: 2026-03-02T18:18:36Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-24T230733.209.png?v=1764009093
   Price: $55.00 AUD
 - [Luxury Small Round Bowl for Home and Events|NS Styling](https://nsstyling.com/products/small-round-bowl): Shop the Small Round Bowl at NS Styling. Premium luxury décor perfect for weddings, parties, and home interiors. Elevate every space with elegance and charm
-  Updated: 2026-02-18T21:01:15Z
+  Updated: 2026-03-02T18:20:46Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-10-18T061447.795.png?v=1760793377
   Price: $10.00 AUD
 - [Buy Small Provincial Ottoman Elegant Décor | NS Styling](https://nsstyling.com/products/small-provincial-ottomon): Buy the Small Provincial Ottoman from NS Styling. Luxury décor crafted for modern homes, elegant living rooms, or chic event styling. Elevate your space today.
-  Updated: 2026-02-17T17:09:17Z
+  Updated: 2026-03-02T18:22:21Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_25_a248bc2c-522a-45bb-9bc5-4a7561e3b76b.png?v=1764440078
   Price: $90.00 AUD
 - [Shop Premium Ruby Encrusted Almond Ring | NS Styling](https://nsstyling.com/products/ruby-encrusted-almond): Shop the Ruby Encrusted Almond ring, a premium luxury statement piece. Featuring rich ruby stones set in gold, it’s designed to turn heads and elevate your style.
-  Updated: 2026-02-17T17:10:08Z
+  Updated: 2026-03-02T18:23:45Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
@@ -231,13 +231,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-18T072338.289.png?v=1760797428
   Price: $50.00 AUD
-- [Ghand Ceremonial Prop for Sofreh Aghd | NS Styling](https://nsstyling.com/products/ghand): 18CM L | 2 QTYA timeless piece for a Sofreh Aghd, this exquisite item holds deep cultural significance, symbolising prosperity, love, and unity.Add this hire item to curate your Persian wedding ceremony
-  Updated: 2026-02-04T15:42:07Z
-  Vendor: nspropstyling
+- [Buy Ghand Ceremonial Prop for Sofreh Aghd | NS Styling](https://nsstyling.com/products/ghand): Shop elegant Ghand ceremonial prop for Sofreh Aghd, symbolizing sweetness and blessings for the couple. A beautiful Persian wedding tradition by NS Styling.
+  Updated: 2026-03-05T17:31:20Z
+  Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_96_44c49d2c-52e3-45e3-a406-a4fa78c920cb.png?v=1760812772
-  Price: $0.00 AUD
+  Price: $90.00 AUD
 - [French Provincial Chair - Elegant Seating | NS Styling](https://nsstyling.com/products/french-provincial-chair): 2 QTYA timeless piece for a Sofreh Aghd, this exquisite item holds deep cultural significance, symbolising prosperity, love, and unity.Add this hire item to curate your Persian wedding ceremony
   Updated: 2026-02-04T15:42:07Z
   Vendor: nspropstyling
@@ -252,9 +252,9 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_95_c2f533b9-2258-4489-9ebe-3e69cc1f4a42.png?v=1760812558
   Price: $0.00 AUD
-- [Emerald Embellished Sugar Coated Almond Ball](https://nsstyling.com/products/emerald-embellished-sugar-coated-almond-ball): Emerald Embellished Sugar Coated Almond Ball decor for Persian weddings and ceremonies. Symbolises love, prosperity and unity with elegant cultural detail.
-  Updated: 2026-02-03T05:55:07Z
-  Vendor: nspropstyling
+- [Buy Emerald Embellished Sugar Coated Almond Ball | NS Styling](https://nsstyling.com/products/emerald-embellished-sugar-coated-almond-ball): Buy our emerald embellished sugar coated almond ball, beautifully handcrafted for Sofreh Aghd and Persian weddings. A luxurious, elegant touch by NS Styling.
+  Updated: 2026-03-05T17:28:02Z
+  Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_93_a43737e1-9242-4f0d-b083-8a579647aa28.png?v=1760812353
@@ -273,13 +273,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_88_cbe27e25-a912-44d2-b65b-8a695d24a48a.png?v=1760811899
   Price: $0.00 AUD
-- [Almond Cluster Contemporary Decor Accent | NS Styling](https://nsstyling.com/products/almond-cluster): Almond Cluster snack with crunchy almonds for events, gifting & indulgent treats. Delicious almond clusters perfect for celebrations, parties & sweet snacking.
-  Updated: 2026-02-04T15:37:47Z
-  Vendor: nspropstyling
+- [Buy Almond Cluster Décor for Wedding and event | NS Styling](https://nsstyling.com/products/almond-cluster): Buy Almond Cluster décor for Sofreh Aghd, weddings, and events. Perfect for tables, floral arrangements, or ceremonial displays to add elegance and charm.
+  Updated: 2026-03-05T17:22:05Z
+  Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/EMERALD-MBELLISHED_4_2c7f3f31-6dce-4919-bc3f-99812853a0e6.png?v=1764011261
-  Price: $0.00 AUD
+  Price: $55.00 AUD
 - [X-Large White Swuare Raiser](https://nsstyling.com/products/x-large-white-swuare-raiser): 15cm H x 30cm Wide | 2 QTY | XL
   Updated: 2026-02-04T15:33:23Z
   Vendor: nspropstyling
@@ -687,12 +687,12 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_bff4e1ef-0f1c-4e02-84fb-abab360956c9.png?v=1760934552
   Price: $0.00 AUD
 - [Buy Luxury Antler with Dome Table Centerpiece for Events | NS Styling](https://nsstyling.com/products/antler-with-dome-1): Buy a premium antler with dome table centerpiece for weddings, banquets, and events. luxury décor designed to elevate tables with rustic, elegant style.
-  Updated: 2026-02-27T10:19:18Z
+  Updated: 2026-03-05T05:48:26Z
   Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/3_17.png?v=1760701758
-  Price: $0.00 AUD
+  Price: $30.00 AUD
 - [WHITE SILK FANS](https://nsstyling.com/products/white-silk-fans): Introducing our exquisite collection of fans, meticulously handcrafted overseas to bring you a touch of elegance and sophistication. We offer the option of delicate silk material that adds a luxurious texture to the fans or paper fabric which you can apply your own choice of handwriting, making them not only visually appealing but also a pleasure to touch and hold. The lightweight design ensures comfortable use, making these fans both functional and aesthetically pleasing. To make one of these exquisite silk fans yours, simply submit your order today. Once we receive your details, our dedicated team will be in touch promptly to facilitate the delivery process. PRODUCT COST BLACK FABFIC FAN $4.00 each WHITE FABRIC FAN $3.00 each PAPER FAN $2.00 each
   Updated: 2026-01-21T14:47:41Z
   Vendor: nspropstyling
@@ -1799,15 +1799,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T204217.700.png?v=1763739764
   Price: $8.00 AUD
-- [ANNA  Seashell](https://nsstyling.com/products/anna-seashell): Bring a touch of coastal charm to your decor with the Anna Seashell. Beautifully detailed and naturally inspired, this decorative piece captures the elegance of ocean treasures. Measuring 6 cm in diameter, it’s perfect for accenting tabletops, bathroom shelves, or beach-themed displays. Whether used individually or in a set, the Anna Seashell adds a serene, seaside feel to any space, blending effortlessly with both modern and rustic interiors.
-  Updated: 2026-01-20T14:59:28Z
+- [ANNA  Seashell](https://nsstyling.com/products/anna-seashell): Bring a touch of coastal charm to your decor with the Anna Seashell. Beautifully detailed and naturally inspired, this decorative piece captures the elegance of ocean treasures. Measuring 6 cm in diameter, it’s perfect for accenting tabletops, bathroom shelves, or beach-themed displays. Whether used individually or in a set, the Anna Seashell adds a serene, seaside feel to any space, blending effortlessly with both modern and rustic interiors. SKU: Sea1
+  Updated: 2026-03-06T23:09:14Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-31T215703.757.png?v=1761929861
   Price: $7.00 AUD
-- [Luxury RANI Oyster Shell Decor for Home | NS Styling](https://nsstyling.com/products/rani-oyster): The RANI Oyster adds a touch of coastal luxury to your home decor. With its elegant curves and realistic texture, this decorative oyster shell brings the beauty of the ocean indoors. Perfect for styling on trays, shelves, or as part of a beach-inspired centerpiece, it radiates natural charm and sophistication. Each piece is crafted to highlight organic details, making it a timeless addition to any coastal or contemporary setting.
-  Updated: 2026-02-04T06:26:15Z
+- [Luxury RANI Oyster Shell Decor for Home | NS Styling](https://nsstyling.com/products/rani-oyster): The RANI Oyster adds a touch of coastal luxury to your home decor. With its elegant curves and realistic texture, this decorative oyster shell brings the beauty of the ocean indoors. Perfect for styling on trays, shelves, or as part of a beach-inspired centerpiece, it radiates natural charm and sophistication. Each piece is crafted to highlight organic details, making it a timeless addition to any coastal or contemporary setting. SKU: Sea2
+  Updated: 2026-03-06T23:09:03Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1829,14 +1829,14 @@
 - [Bridgerton Collection](https://nsstyling.com/collections/bridgerton-collection): Explore NS Styling’s Bridgerton Collection - regal, timeless wedding props & decor inspired by Bridgerton’s elegant aesthetic for styled shoots & celebrations.
   Updated: 2026-02-17T04:56:02Z
   Total Products: 33
-- [Hire Chic Sofreh Aghd Styling Sydney | NS Styling](https://nsstyling.com/collections/sofreh-aghd): Sofreh Aghd collection page  with elegant ceremonial decor for weddings, including symbolic items and table accents that enhance traditional celebrations.
-  Updated: 2026-02-17T05:09:51Z
+- [Sofreh Aghd Hire Sydney with Elegant Styling | NS Styling](https://nsstyling.com/collections/sofreh-aghd): Premium Sofreh Aghd hire Sydney and bespoke Sofreh Aghd styling Sydney for modern Persian weddings. Stunning ceremony décor designed with elegance and detail.
+  Updated: 2026-03-05T05:48:27Z
   Total Products: 31
 - [Buy Luxury Silverware Sets for Modern Tables | NS Styling](https://nsstyling.com/collections/silverware): Shop luxury silverware sets designed for modern tables. Crafted from premium stainless steel for lasting shine, durability, and elegance at NS Styling.
-  Updated: 2026-02-20T04:11:07Z
+  Updated: 2026-03-05T05:48:27Z
   Total Products: 97
 - [Uncategorised](https://nsstyling.com/collections/uncategorised)
-  Updated: 2025-12-09T16:58:09Z
+  Updated: 2026-03-05T05:23:22Z
   Total Products: 1
 - [Boho Props](https://nsstyling.com/collections/boho-props)
   Updated: 2025-12-28T04:10:13Z
@@ -1877,8 +1877,8 @@
 - [Glass Vases](https://nsstyling.com/collections/glass-vases)
   Updated: 2025-12-28T04:09:47Z
   Total Products: 7
-- [Wedding Candle Styling Hire Sydney | NS Styling](https://nsstyling.com/collections/candle-tapers): Discover NS Styling’s Candle Tapers collection - elegant tapers and decor to elevate wedding tables, event settings, and create a romantic, stylish ambiance
-  Updated: 2026-02-13T06:24:35Z
+- [Buy premium Candle Tapers for Elegant Decor | NS Styling](https://nsstyling.com/collections/candle-tapers): Buy premium candle tapers for elegant decor at NS Styling. Discover high-quality taper candles perfect for dining tables, weddings, events, and stylish home interiors.
+  Updated: 2026-03-05T05:35:08Z
   Total Products: 4
 - [Floral Arrangements](https://nsstyling.com/collections/floral-arrangements)
   Updated: 2025-12-28T04:10:40Z
@@ -1955,8 +1955,8 @@
 - [VINTAGE SILVER CANDLE HOLDER](https://nsstyling.com/collections/vintage-silver-candle-holder)
   Updated: 2025-12-09T16:58:11Z
   Total Products: 17
-- [USB  Rechargeable lamps](https://nsstyling.com/collections/usb-rechargeable-lamps): USB Rechargeable Lamps collection with stylish portable lighting for events, tablescapes, or home decor, adding ambiance, functionality, and modern design.
-  Updated: 2026-02-03T09:36:23Z
+- [Buy Stylish USB Rechargeable Lamps for Home | NS Styling](https://nsstyling.com/collections/usb-rechargeable-lamps): Buy stylish USB rechargeable lamps for your home. Portable, energy-efficient, and premium lighting that adds modern style and ambiance to any space.
+  Updated: 2026-03-05T04:38:21Z
   Total Products: 22
 - [CHANDELIER ARBOURS](https://nsstyling.com/collections/chandelier-arbours)
   Updated: 2026-02-04T10:44:54Z
@@ -1971,7 +1971,7 @@
   Updated: 2026-01-21T15:03:36Z
   Total Products: 30
 - [Event & Wedding Umbrellas for Styling Hire | NS Styling](https://nsstyling.com/collections/umbrellas): Umbrellas collection featuring stylish, clear, and functional umbrellas for weddings, events, or outdoor occasions, adding elegance & protection in any setting.
-  Updated: 2026-02-04T07:08:03Z
+  Updated: 2026-03-05T23:06:03Z
   Total Products: 5
 - [Event & Wedding Styling Flyers for Hire | NS Styling](https://nsstyling.com/collections/flyer): Stylish event flyers and print-ready designs for weddings, decor services, and promotions, helping events stand out with professional, elegant visuals.
   Updated: 2026-02-04T06:55:25Z
@@ -2097,6 +2097,9 @@
     Updated: 2026-02-18T05:25:13Z
     Author: AUZITA POURSHASB
     Tags: Groom Grooming Guide, Groom Preparation Checklist, Groom Wedding Guide, Wedding Suit Preparation, Wedding Week Preparation
+  - [Ultimate Bridal Nail Guide for Brides | NS Styling](https://nsstyling.com/blogs/news/bridal-nail-guide): Ultimate Bridal Nail Guide for Brides | NS Styling
+    Updated: 2026-03-05T11:04:41Z
+    Author: AUZITA POURSHASB
 
 ## Store Pages
 
