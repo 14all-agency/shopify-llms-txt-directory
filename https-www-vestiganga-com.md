@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2025-08-21T18:57:03Z
 - Contact Email: Vestiganga@gmail.com
-- Updated At: 2026-02-28T00:00:34.989Z
+- Updated At: 2026-03-09T00:00:35.995Z
 
 # LLMs.txt - Fuente oficial de información estructurada
 # Dominio: https://vestiganga.com
@@ -808,7 +808,7 @@ Canales oficiales disponibles en el sitio web.
     Availability: Available
     Price: 59.990,00 $ COP
 - [Pijama Paquete X3 Unidades | Ref 192-18 |Azul Cielo - Habano - Lila](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-lila-amarillo-azul-cielo-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades | Ref. 192-18 | Azul Cielo - Lila - Negro Combinaciones de colores Trío : Azul Cielo - Habano - Lila Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Garantía: 30 días por defectos de fabricación o cambios Contenido: 3 Blusas y 3 Shorts
-  Updated: 2026-02-10T23:49:11Z
+  Updated: 2026-03-03T19:14:08Z
   Vendor: Vestiganga
   Product Type: Pijama
   Availability: Available
@@ -1209,13 +1209,13 @@ Canales oficiales disponibles en el sitio web.
 ## Collections
 
 - [Tienda Online: Moda, Ropa y Accesorios](https://www.vestiganga.com/collections/tienda-online-ropa-accesorios): Visita nuestra tienda online: ropa y accesorios para mujer, hombre e infantil. ¡Explora y renueva tu estilo hoy!
-  Updated: 2026-02-27T12:26:41Z
+  Updated: 2026-03-04T12:27:42Z
   Total Products: 14
 - [Ropa Hombre: Camisetas, Boxers y Plus](https://www.vestiganga.com/collections/ropa-hombre-camisetas-boxers-plus): Compra ropa hombre: camisetas, boxers y tallas plus. Comodidad y estilo para todos. ¡Renueva tu look ya!
   Updated: 2026-02-13T20:04:45Z
   Total Products: 11
 - [Ropa Mujer: Pijamas, Deportivos y Más](https://www.vestiganga.com/collections/ropa-mujer-pijamas-deportivos-batolas): Compra ropa mujer: pijamas, deportivos y más. Solución para comodidad y estilo. ¡Renueva tu look hoy mismo!
-  Updated: 2026-02-27T12:26:41Z
+  Updated: 2026-03-04T12:27:42Z
   Total Products: 56
 - [Ropa Infantil: Moda y Comodidad para Niños](https://www.vestiganga.com/collections/infantil): Compra ropa infantil cómoda y moderna. Moda y durabilidad para niños y niñas. ¡Renueva su estilo hoy!
   Updated: 2026-02-13T20:14:46Z
@@ -1224,7 +1224,7 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T20:12:58Z
   Total Products: 14
 - [Pijamas Mujer y Hombre: Confort y Estilo](https://www.vestiganga.com/collections/pijamas): Compra pijamas cómodos para mujer y hombre. Estilo y confort garantizados. ¡Renueva tu descanso hoy mismo!
-  Updated: 2026-02-27T12:26:41Z
+  Updated: 2026-03-04T12:27:42Z
   Total Products: 37
 - [Promociones: Ropa y Accesorios con Descuento](https://www.vestiganga.com/collections/promociones): Descubre promociones en ropa y accesorios. Descuentos y estilo garantizados. ¡Aprovecha hoy y renueva tu look!
   Updated: 2026-02-18T16:37:12Z
@@ -1236,13 +1236,13 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T20:08:31Z
   Total Products: 0
 - [Más Vendidos: Ropa y Accesorios Top](https://www.vestiganga.com/collections/mas-vendidos): Descubre los más vendidos: ropa, pijamas y accesorios. Moda y comodidad garantizada. ¡Compra los favoritos hoy!
-  Updated: 2026-02-27T12:26:41Z
+  Updated: 2026-03-04T12:27:42Z
   Total Products: 11
 - [Pijama Dama](https://www.vestiganga.com/collections/mujer-copia)
-  Updated: 2026-02-27T12:26:41Z
+  Updated: 2026-03-04T12:27:42Z
   Total Products: 34
 - [Pijamas Dama: Confort y Estilo](https://www.vestiganga.com/collections/pijamas-dama-confort-estilo): Compra pijamas dama cómodas y elegantes. Descanso con estilo y confort. ¡Renueva tu pijama hoy!
-  Updated: 2026-02-27T12:26:41Z
+  Updated: 2026-03-04T12:27:42Z
   Total Products: 27
 - [Ropa Interior Dama: Comodidad y Estilo](https://www.vestiganga.com/collections/ropa-interior-dama-inicio): Compra ropa interior dama: pantys, lencería y más. Confort y estilo garantizados. ¡Renueva tu look íntimo hoy!
   Updated: 2026-02-13T20:20:20Z
@@ -1263,7 +1263,7 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T21:57:22Z
   Total Products: 8
 - [Blusa y Short Mujer: Confort y Estilo](https://www.vestiganga.com/collections/blusa-short-mujer-confort-estilo): Compra blusa y short mujer: cómodos, modernos y versátiles. Confort y estilo garantizados. ¡Renueva tu look hoy!
-  Updated: 2026-02-27T12:26:41Z
+  Updated: 2026-03-04T12:27:42Z
   Total Products: 19
 - [Promoción Niño: Ropa Infantil en Oferta](https://www.vestiganga.com/collections/promocion-nino): Promoción Niño: ropa infantil en oferta. Ahorra en pijamas, camisetas y más. ¡Compra hoy y viste a tus hijos con estilo!
   Updated: 2026-02-13T21:59:15Z
