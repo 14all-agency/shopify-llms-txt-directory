@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-04-06T16:36:01Z
 - Contact Email: support@doradoskin.com
-- Updated At: 2026-02-28T00:00:33.334Z
+- Updated At: 2026-03-09T00:00:34.123Z
 
 ## Products
 
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0746/5035/3968/files/unnamed_9c605003-d719-46d7-b56a-dca115debeff.jpg?v=1766353526
   Price: $60.00 USD
 - [Shop Men Hair Moisturizer Shampoo | Dorado](https://www.doradoskin.com/products/energizing-shampoo): Dorado Energizing Shampoo restores and nourishes hair with natural plant extracts, Biotin, Vitamin B, Ginseng, Seaweed, Camellia, & Olive Oil. Shop Now!
-  Updated: 2026-02-26T13:54:48Z
+  Updated: 2026-03-08T05:03:52Z
   Vendor: Dorado
   Product Type: 
   Availability: Available
