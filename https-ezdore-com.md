@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-09-05T15:31:37Z
 - Contact Email: ezdorestore@gmail.com
-- Updated At: 2026-02-27T00:00:39.103Z
+- Updated At: 2026-03-09T00:00:40.109Z
 
 ## Products
 
@@ -418,6 +418,15 @@
     Author: User
   - [Historical Innovations that Paved the Way for Smart Tech Today](https://ezdore.com/blogs/news/historical-innovations-that-paved-the-way-for-smart-tech-today): Historical Innovations that Paved the Way for Smart Tech Today
     Updated: 2026-02-25T00:24:17Z
+    Author: User
+  - [Strategies to Enhance Privacy in the Digital Age](https://ezdore.com/blogs/news/strategies-to-enhance-privacy-in-the-digital-age): Strategies to Enhance Privacy in the Digital Age
+    Updated: 2026-03-01T00:06:00Z
+    Author: User
+  - [10 IoT Innovations Revolutionizing Smart Cities](https://ezdore.com/blogs/news/10-iot-innovations-revolutionizing-smart-cities): 10 IoT Innovations Revolutionizing Smart Cities
+    Updated: 2026-03-04T00:26:01Z
+    Author: User
+  - [The Digital Twin Revolution within Industry 4.0](https://ezdore.com/blogs/news/the-digital-twin-revolution-within-industry-4-0): The Digital Twin Revolution within Industry 4.0
+    Updated: 2026-03-08T00:06:47Z
     Author: User
 
 ## Store Pages
