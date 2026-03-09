@@ -6,7 +6,7 @@
 - Timezone: America/Lima
 - Created At: 2025-07-15T00:32:01Z
 - Contact Email: sinbaoficialcl@gmail.com
-- Updated At: 2026-03-02T00:00:22.193Z
+- Updated At: 2026-03-09T00:00:31.518Z
 
 ## Products
 
@@ -15,7 +15,7 @@
   Vendor: Mi tienda
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-humo-hero_18d10b89-5575-4acf-af64-521961bb6b41.jpg?v=1771820896
+  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-humo-hero_18d10b89-5575-4acf-af64-521961bb6b41.jpg?v=1772735072
   - [S](https://www.sinbaofstore.com/products/polo-compresor-sinba-gris-humo?variant=42897947230291)
     Availability: Available
     Price: 59,90 PEN PEN
@@ -33,7 +33,7 @@
   Vendor: Mi tienda
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-blanco-hero.jpg?v=1771821166
+  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-blanco-hero.jpg?v=1772735072
   - [S](https://www.sinbaofstore.com/products/polo-compresor-sinba-blanco?variant=42905739493459)
     Availability: Available
     Price: 59,90 PEN PEN
@@ -51,7 +51,7 @@
   Vendor: Mi tienda
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-azul-noche-hero.jpg?v=1771867633
+  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-azul-noche-hero.jpg?v=1772735072
   - [S](https://www.sinbaofstore.com/products/polo-compresor-sinba-noche?variant=42937526124627)
     Availability: Available
     Price: 59,90 PEN PEN
@@ -69,7 +69,7 @@
   Vendor: SINBA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-azulino-hero-blue.jpg?v=1771868501
+  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-azulino-hero-blue.jpg?v=1772735072
   - [S](https://www.sinbaofstore.com/products/polo-compresor-sinba-azulino?variant=42937528975443)
     Availability: Available
     Price: 59,90 PEN PEN
@@ -173,7 +173,7 @@
     Availability: Not Available
     Price: 69,90 PEN PEN
 - [Compresor Humo Manga Larga SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/compresor-humo-ml): Compresor SINBA humo manga larga. Tela suplex americana, ajuste ergonómico que resalta hombros y pecho. Ideal para gym y fitness. Perú.
-  Updated: 2026-02-25T09:53:14Z
+  Updated: 2026-03-05T05:26:13Z
   Vendor: SINBA
   Product Type: 
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: 69,90 PEN PEN
 - [Short con Licra Negro SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/short-c-licra-h): Short deportivo SINBA negro con licra suplex y tela NOVA impermeable. Ajuste ergonómico perfecto para gym y entrenamiento. Compra en SINBA Store Perú.
-  Updated: 2026-02-24T21:48:52Z
+  Updated: 2026-03-06T06:15:56Z
   Vendor: SINBA
   Product Type: 
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Not Available
     Price: 59,90 PEN PEN
 - [Short con Licra Negro Noche SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/short-c-licra-h-noche): Short deportivo SINBA negro con licra suplex y tela NOVA impermeable. Ajuste ergonómico, costuras reforzadas. Ideal para gym y running. Perú.
-  Updated: 2026-02-24T21:47:10Z
+  Updated: 2026-03-06T06:06:57Z
   Vendor: SINBA
   Product Type: 
   Availability: Available
@@ -227,7 +227,7 @@
     Availability: Available
     Price: 59,90 PEN PEN
 - [Short con Licra Gris Rata SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/short-c-licra-h-rata): Short deportivo SINBA gris rata con licra interior. Perfecto para gym y entrenamiento. Tela de alta calidad, ajuste cómodo. Compra en SINBA Store Perú.
-  Updated: 2026-02-24T21:46:22Z
+  Updated: 2026-03-06T06:10:19Z
   Vendor: SINBA
   Product Type: 
   Availability: Available
@@ -245,7 +245,7 @@
     Availability: Available
     Price: 59,90 PEN PEN
 - [Short con Licra Beige SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/short-c-licra-veish): Short deportivo SINBA beige con licra interior. Ideal para gym, running y entrenamiento. Tela de alta calidad, ajuste cómodo. Compra ahora en SINBA Store.
-  Updated: 2026-02-25T06:04:23Z
+  Updated: 2026-03-06T06:15:05Z
   Vendor: SINBA
   Product Type: 
   Availability: Available
@@ -267,7 +267,7 @@
   Vendor: SINBA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-negro-hero.jpg?v=1771870988
+  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/compresor-negro-hero.jpg?v=1772735072
   - [S](https://www.sinbaofstore.com/products/compresor-sinba?variant=43111007387731)
     Availability: Available
     Price: 59,90 PEN PEN
@@ -280,27 +280,25 @@
   - [XL](https://www.sinbaofstore.com/products/compresor-sinba?variant=43111007486035)
     Availability: Not Available
     Price: 59,90 PEN PEN
-- [Pack 2 Compresores SINBA + Bividi Gratis - Oferta Peru](https://www.sinbaofstore.com/products/pack-2-compresores-mc-bividi-de-regalo): Pack promocional SINBA: 2 compresores manga corta + bividi gratis por S/ 109.90. Ahorra S/ 75.10. Tela suplex americana. Envio a todo Peru.
-  Updated: 2026-02-25T20:01:02Z
+- [Arma tu Conjunto SINBA - 1 Compresor + 1 Short (doble capa) + Bividi Regalo | Oferta](https://www.sinbaofstore.com/products/pack-2-compresores-mc-bividi-de-regalo): Personaliza tu conjunto deportivo SINBA. Elige 1 compresores MC + 1 short con licra + bividi de regalo. Precio especial S/109.90. Ahorra S/30. Perú.
+  Updated: 2026-03-06T06:39:55Z
   Vendor: SINBA
   Product Type: Pack Promocional
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/image_6b902d7f-0be9-46a6-b65a-19436b6e4916.png?v=1772735072
   Price: 109,90 PEN PEN
 
 ## Collections
 
-- [Colección Evolutiva #1 Temporada 25/26 SINBA - Ropa Deportiva](https://www.sinbaofstore.com/collections/collecion-compresores-sinba-manga-corta): Colección Evolutiva #1 Temporada 25/26 SINBA. Compresores manga corta de alta calidad. Tela suplex americana. Ropa deportiva premium Perú.
-  Updated: 2026-02-25T05:25:42Z
+- [Ropa Deportiva Premium Hombre - Colección Evolutiva 25/26 | SINBA](https://www.sinbaofstore.com/collections/coleccion-evolutiva-1-temporada-25-26): Descubre nuestra Colección Evolutiva de ropa deportiva premium para hombre. Compresores, shorts y más. Calidad superior para tu entrenamiento. Envíos a todo Perú.
+  Updated: 2026-03-05T17:57:16Z
   Total Products: 5
-- [Colección Evolutiva #2 Temporada 25/26 SINBA - Ropa Deportiva](https://www.sinbaofstore.com/collections/coleccion-evolutiva-2-temporada-25-26): Descubre la Colección Evolutiva #2 Temporada 25/26 de SINBA. Ropa deportiva de alta calidad para gym y fitness. Nuevos diseños exclusivos Perú.
-  Updated: 2026-02-24T22:12:21Z
+- [Ropa Gym Hombre Premium - Colección Evolutiva 2 Temporada 25/26 | SINBA](https://www.sinbaofstore.com/collections/coleccion-evolutiva-2-temporada-25-26): Explora la Colección Evolutiva 2 con ropa gym premium para hombre. Compresores de manga larga, shorts y accesorios. Rendimiento y estilo urbano. Perú.
+  Updated: 2026-03-05T17:57:16Z
   Total Products: 4
 - [Shorts con Licra SINBA - Ropa Deportiva Hombre Perú](https://www.sinbaofstore.com/collections/shorts-licra): Shorts deportivos SINBA con licra interior. Tela NOVA impermeable y suplex. Perfectos para gym, running y entrenamiento. Compra en Perú.
-  Updated: 2026-02-24T22:08:42Z
+  Updated: 2026-03-05T17:57:16Z
   Total Products: 4
-- [Pack Conjunto Compresor y Short SINBA + Bividi Regalo - Perú](https://www.sinbaofstore.com/collections/pack-conjunto-compresor-y-shor-bividi-de-regalo): Pack completo SINBA: Compresor + Short con licra + Bividi de regalo. Ropa deportiva de alta calidad para gym y fitness. Compra ahora en Perú.
-  Updated: 2026-02-24T22:02:03Z
-  Total Products: 0
 
 ## Store Pages
 
