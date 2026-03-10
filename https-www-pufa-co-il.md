@@ -6,32 +6,32 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-07-15T15:45:27Z
 - Contact Email: Pufa.co.il@gmail.com
-- Updated At: 2026-03-02T20:20:43.905Z
+- Updated At: 2026-03-10T00:00:22.127Z
 
 ## Products
 
 - [PUFA מתנה מיוחדת - תכשיטים בהפתעה: שרשראות, עגילים, צמידים - כסף וזהב](https://www.pufa.co.il/products/lucky-scoop): גלה את תכשיטי לאקי סקופ, מתנה מיוחדת שתשמח כל אחד. תכשיטים בהפתעה של פופה, מתנה ליום הולדת,מתנה לאישה,מתנה לילדה,
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-03-02T19:00:41Z
+  Updated: 2026-03-09T09:43:17Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/LuckyScoopWithApples.jpg?v=1770843433
-  Price: ‏50.00 ‏₪ ILS
+  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/LuckyScoopWithApples.jpg?v=1772540544
+  Price: ‏40.00 ‏₪ ILS
 - [קפסולה ענקית של PUFA - מתנה מיוחדת](https://www.pufa.co.il/products/giant-capsule): גלו את הקפסולה הענקית של PUFA - מתנה מיוחדת ליקיריכם.
-  Updated: 2026-03-02T11:24:15Z
+  Updated: 2026-03-03T12:22:40Z
   Vendor: Pufa
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/GiantCapsule.jpg?v=1770843450
+  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/GiantCapsule.jpg?v=1772540559
   Price: ‏60.00 ‏₪ ILS
 - [מנוי תכשיטים מושלמים עד הבית Pufa+ לא צריך לחפש שעות את הטרנד הבא](https://www.pufa.co.il/products/pufa): בכל חודש פריטים חדשים שנבחרו בקפידה, בלי לחזור על אותו דגם. בחירת גוון, רק תכשיטים מהממים ומה שבאופנה ככה שלא צריך לחפש שעות מה הכי חם וטרנדי. משלוחים לכל הארץ.
-  Updated: 2025-11-11T20:13:46Z
+  Updated: 2026-03-03T12:22:25Z
   Vendor: Pufa
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/176065334568f170219f0694054.png?v=1762892226
+  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/176065334568f170219f0694054.png?v=1772540544
   - [Basic מנוי](https://www.pufa.co.il/products/pufa?variant=48059453014258)
     Availability: Available
     Price: ‏89.00 ‏₪ ILS
@@ -45,19 +45,19 @@ PUFA
 את מקבלת קפסולות סגורות, פותחת לבד, ומגלה תכשיטים הכי יפים וטרנדיים שמתאימים בול לסטייל שאת אוהבת
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-03-02T19:57:45Z
+  Updated: 2026-03-07T14:30:06Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/PufaStyleMatch_-_3.jpg?v=1770843450
-  Price: ‏40.00 ‏₪ ILS
+  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/PufaStyleMatch_-_3.jpg?v=1772540532
+  Price: ‏30.00 ‏₪ ILS
 - [PUFA מתנה מיוחדת לגברים - תכשיטים בהפתעה: שרשראות, צמידים וטבעות](https://www.pufa.co.il/products/lucky-scoop-men): גלה את לאקי סקופ לגברים של PUFA - תכשיטים בהפתעה: שרשראות, צמידים וטבעות בשחור, כסף, זהב או צבעוני. מתנה מושלמת לגבר.
-  Updated: 2026-03-02T19:00:26Z
+  Updated: 2026-03-07T14:27:40Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/Lucky_Scoop_For_Men.jpg?v=1770919677
-  Price: ‏50.00 ‏₪ ILS
+  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/Lucky_Scoop_For_Men.jpg?v=1772540530
+  Price: ‏40.00 ‏₪ ILS
 
 ## Collections
 
@@ -74,12 +74,12 @@ PUFA
   Updated: 2026-01-14T14:58:53Z
   Total Products: 0
 - [◈ Lucky Scoop ◈ - Pufa](https://www.pufa.co.il/collections/lucky-scoop): מחפשים מתנה ייחודית או מתנה ליום הולדת שתשחרר אתכם מבעיות של מידות וסטייל? בקולקציה של PUFA Lucky  - Pufa
-  Updated: 2026-03-02T18:43:13Z
+  Updated: 2026-03-09T11:25:42Z
   Total Products: 6
 
 ## Blogs
 
-- [הבלוג של פופה - תכשיטים בהפתעה](https://www.pufa.co.il/blogs/pufa-blog)
+- [בלוג של פופה - תכשיטים בהפתעה](https://www.pufa.co.il/blogs/pufa-blog)
   - [מתנה לאישה אישית: כיצד לבחור תכשיטים בהפתעה מקוריים וייחודיים](https://www.pufa.co.il/blogs/pufa-blog/matna-le-isha-ishit-kaytzum-livchor-takshitim-hafta-omerikiyim-veyichudiyim-1306-0): מתנה לאישה אישית: כיצד לבחור תכשיטים בהפתעה מקוריים וייחודיים
     Updated: 2025-10-16T21:32:28Z
     Author: Elad Ovadia
@@ -125,6 +125,12 @@ PUFA
   - [אריזת תכשיטים למתנות שדרוג הצגת המוצר | Pufa](https://www.pufa.co.il/blogs/pufa-blog/אריזת-תכשיטים-למתנות-מעוצבת-ואיכותית-ליצירת-חוויה-יוקרתית): אריזת תכשיטים למתנות שדרוג הצגת המוצר | Pufa
     Updated: 2026-03-02T08:00:02Z
     Author: איסקוב נועה
+  - [Surprise Jewelry Memorable Gifts and Sparkle | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטי-הפתעה-איך-לבחור-אותם-ולהפתיע-בכל-פעם-בצורה-מרהיבה): Surprise Jewelry Memorable Gifts and Sparkle | Pufa
+    Updated: 2026-03-02T23:00:05Z
+    Author: מאיה איסקוב
+  - [תכשיטי מתנה מוכנים בחירה מושלמת | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטי-מתנה-מוכנים-לבחירה-מושלמת-לכל-אירוע-ולכל-מי-שאוהב): תכשיטי מתנה מוכנים בחירה מושלמת | Pufa
+    Updated: 2026-03-04T08:00:08Z
+    Author: איסקוב נועה
 
 ## Store Pages
 
@@ -135,7 +141,7 @@ PUFA
 - [הצטרפו למועדון לקוחות שלנו והרוויחו יתרונות רבים](https://www.pufa.co.il/pages/הרשמה-למועדון): מהו מועדון הלקוחות של PUFA? מועדון הלקוחות שלנו נבנה סביב חוויית ה-Lucky Scoop - קפסולות תכשיטים בהפתעה. כחברים, אתם הראשונים לשמוע על הדרופים החדש...
   Updated: 2025-10-16T21:24:01Z
 - [מנוי Pufa+](https://www.pufa.co.il/pages/pufa)
-  Updated: 2025-10-20T20:28:09Z
+  Updated: 2026-03-05T21:26:49Z
 - [html sitemap products](https://www.pufa.co.il/pages/html-sitemap-products): Products מתנה מיוחדת | לאקי סקופ - תכשי... הקפסולה הענקית של PUFA... Pufa+ .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap...
   Updated: 2025-10-21T19:27:42Z
 - [html sitemap collections](https://www.pufa.co.il/pages/html-sitemap-collections): Collections ◈ Lucky Scoop ◈ .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap...
@@ -148,8 +154,8 @@ PUFA
   Updated: 2025-10-21T19:28:05Z
 - [html sitemap](https://www.pufa.co.il/pages/html-sitemap): Products מתנה מיוחדת | לאקי סקופ - תכשי... הקפסולה הענקית של PUFA... Pufa+ Collections ◈ Lucky Scoop ◈ Blogs News Blog Posts מתנה לאישה: כיצד לבחור...
   Updated: 2025-10-21T19:28:08Z
-- [Loyalty page](https://www.pufa.co.il/pages/loyalty-page)
-  Updated: 2026-01-17T19:44:28Z
+- [Loyalty Program](https://www.pufa.co.il/pages/loyalty-page)
+  Updated: 2026-03-05T21:26:24Z
 
 ## Policies
 
