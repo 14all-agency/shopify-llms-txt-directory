@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T18:22:08Z
 - Contact Email: support@maisonoudco.ca
-- Updated At: 2026-03-03T00:00:41.080Z
+- Updated At: 2026-03-10T00:00:42.643Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG-2393.jpg?v=1767473759
   Price: $116.99 CAD
 - [Layali Rouge Perfume Oil 15ml | Swiss Arabian Luxury](https://maisonoudco.ca/products/layali-rouge): Discover Layali Rouge, a bold and luxurious perfume oil with floral, fruity, and warm notes. Long-lasting, elegant fragrance perfect for daily wear or special occasions.
-  Updated: 2026-03-02T21:32:07Z
+  Updated: 2026-03-03T16:58:47Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG_2272.png?v=1767473961
   Price: $125.00 CAD
 - [Arabiyat Sugar Toffee Ganache EDP 100ml | Vanilla Coffee](https://maisonoudco.ca/products/arabiyat-sugar-toffee-ganache-edp-100-ml-unisex-gourmand-vanilla-butter-coffee-note): Arabiyat Sugar Toffee Ganache EDP 100ml. Unisex gourmand fragrance with vanilla, butter & coffee notes. Authentic luxury perfume.
-  Updated: 2026-02-26T13:06:47Z
+  Updated: 2026-03-03T16:58:47Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -104,16 +104,13 @@
   Updated: 2026-02-27T12:28:35Z
   Total Products: 6
 - [Swiss Arabian Perfumes & Oud Oils - Authentic Luxury Fragrances | Maison Oud & Co.](https://maisonoudco.ca/collections/swiss-arabian): Shop authentic Swiss Arabian perfumes and oud oils at Maison Oud & Co. Luxurious oriental, floral, and woody fragrances for men and women. Premium quality .
-  Updated: 2026-01-20T21:56:55Z
+  Updated: 2026-03-04T12:30:12Z
   Total Products: 3
 - [Lattafa Perfumes - Authentic Arabian Fragrances & Oud | Maison Oud & Co.](https://maisonoudco.ca/collections/lattafa): Discover authentic Lattafa perfumes at Maison Oud & Co. Long-lasting oriental, gourmand, and floral fragrances. Premium Arabian perfumes for men and women.
   Updated: 2026-02-27T12:28:35Z
   Total Products: 2
-- [Rasasi Perfume | Luxurious Long-Lasting Floral & Oriental Fragrance](https://maisonoudco.ca/collections/rasasi): Discover Rasasi, a luxurious fragrance with floral, fruity, and oriental notes. Long-lasting perfume perfect for everyday wear or special occasions.
-  Updated: 2026-01-20T21:56:55Z
-  Total Products: 0
 - [Arabiyat Sugar Perfume | Sweet Gourmand Long-Lasting Fragrance!! Shop.](https://maisonoudco.ca/collections/arabiyat-sugar): Discover Arabiyat Sugar perfume, a sweet gourmand fragrance with warm, creamy notes. Long-lasting and elegant scent ideal for daily wear or special occasions.
-  Updated: 2026-02-27T12:28:35Z
+  Updated: 2026-03-04T12:30:12Z
   Total Products: 4
 
 ## Blogs
