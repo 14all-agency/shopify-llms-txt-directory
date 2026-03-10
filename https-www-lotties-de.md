@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-03-01T00:00:48.435Z
+- Updated At: 2026-03-10T00:00:46.251Z
 
 ## Products
 
@@ -460,8 +460,6 @@
   Price: 9,95 € EUR
 - [rosa/natur gestreiftes Halstuch mit Klettverschluss | kaufen!](https://www.lotties.de/products/baby-halstuch-rosa-ringel-aus-baumwolle): rosa/natur gestreiftes Halstuch mit Klettverschluss ✓ 100 % Bio Baumwolle ✓ Hochwertiges Halstuch oder Sabbertuch - in Rosa & Natur ✓ jetzt online kaufen!
   Price: 4,95 € EUR
-- [blau/natur gestreiftes Halstuch mit Klettverschluss | hier bestellen!](https://www.lotties.de/products/baby-halstuch-blauer-ringel-aus-baumwolle): blau/natur gestreiftes Halstuch mit Klettverschluss ✓ Hochwertiges Halstuch oder Sabbertuch - in Blau & Natur ✓ 100 % Bio Baumwolle ✓ jetzt online kaufen!
-  Price: 4,95 € EUR
 - [Natur Halstuch mit Klettverschluss | jetzt bei Lotties kaufen!](https://www.lotties.de/products/baby-halstuch-natur-aus-baumwolle): Natur Halstuch mit Klettverschluss ✓ Hochwertiges Halstuch oder Sabbertuch - in  Natur ✓ 100 % Bio Baumwolle ✓ 2-lagig, schützt vor Wind und Kälte ✓ kaufen!
   Price: 4,95 € EUR
 - [Warmes Nicki Halstuch mit Klettverschluss | jetzt kaufen!](https://www.lotties.de/products/baby-halstuch-nicki-aus-baumwolle): Warmes Nicki Halstuch mit Klettverschluss ✓ Halstuch oder Sabbertuch 2-lagig, schützt vor Wind & Kälte ✓ Größe: 40 x 15 cm ✓ 100 % Bio-Baumwolle ✓ kaufen!
@@ -584,10 +582,12 @@
     Author: Lotties GmbH & Co. KG
   - [Ökologische Nachhaltigkeit, einer unserer Unternehmensgrundsätze](https://www.lotties.de/blogs/news/okologische-nachhaltigkeit-einer-unserer-unternehmensgrundsatze)
     Author: Lotties GmbH & Co. KG
+    Tags: Nachhaltigkeit
   - [Das Kirschkern-Säckchen: Eine traditionelle und altbewährte Wärmflasche](https://www.lotties.de/blogs/news/das-kirschkern-sackchen-eine-traditionelle-und-altbewahrte-warmflasche)
     Author: Lotties GmbH & Co. KG
   - [Vorteile und Ablauf des Windelfrei Training](https://www.lotties.de/blogs/news/wieso-windelfrei-vorteile-und-ablauf-des-training): Vorteile und Ablauf des Windelfrei Training
     Author: Lotties GmbH & Co. KG
+    Tags: Stoffwindeln
   - [Vorteile der Stoffwindel gegenüber der Wegwerfwindel](https://www.lotties.de/blogs/news/vorteile-der-stoffwindel): Vorteile der Stoffwindel gegenüber der Wegwerfwindel
     Author: Lotties GmbH & Co. KG
   - [Unverpackt, der kleine aber feine Betrag für eine bessere Welt](https://www.lotties.de/blogs/news/unverpackt-der-kleine-aber-feine-beitrag-fur-eine-bessere-welt): Unverpackt, der kleine aber feine Betrag für eine bessere Welt
@@ -608,6 +608,7 @@
     Author: Lotties GmbH & Co. KG
   - [Textilsiegel einfach erklärt](https://www.lotties.de/blogs/news/textilsiegel-einfach-erklart)
     Author: Lotties GmbH & Co. KG
+    Tags: Wissenswert
   - [Silberfadenkleidung: Die Lösung für Kinder mit Neurodermitis](https://www.lotties.de/blogs/news/silberfadenkleidung-eine-bewahrte-losung-fur-kinder-mit-neurodermitis): Silberfadenkleidung: Die Lösung für Kinder mit Neurodermitis
     Author: Lotties GmbH & Co. KG
   - [Naturmatratzen für Kinder: Gesunder und erholsamer Schlaf](https://www.lotties.de/blogs/news/gesundes-und-erholsames-schlafen-die-naturmatratze): Naturmatratzen für Kinder: Gesunder und erholsamer Schlaf
@@ -647,8 +648,10 @@
     Author: Lotties GmbH & Co. KG
   - [Die wichtigsten Fragen zum Thema Stoffwindeln](https://www.lotties.de/blogs/news/die-wichtigsten-fragen-zum-thema-stoffwindeln)
     Author: Lotties GmbH & Co. KG
+    Tags: Stoffwindeln
   - [Augen auf beim Textilienkauf | Worauf sie achten sollten](https://www.lotties.de/blogs/news/augen-auf-beim-textilienkauf): Augen auf beim Textilienkauf | Worauf sie achten sollten
     Author: Lotties GmbH & Co. KG
+    Tags: Wissenswert
   - [Konfektionsgrößenchaos | worauf muss ich achten?](https://www.lotties.de/blogs/news/konfektionsgrossenchaos): Konfektionsgrößenchaos | worauf muss ich achten?
     Author: Lotties GmbH & Co. KG
   - [Stofflexikon | Welche Stoffarten es gibt es?](https://www.lotties.de/blogs/news/stofflexikon): Stofflexikon | Welche Stoffarten es gibt es?
@@ -663,16 +666,20 @@
     Author: Lotties GmbH & Co. KG
   - [Die richtige Kleidung für Babys im Herbst und Winter](https://www.lotties.de/blogs/news/die-richtige-kleidung-fur-babys-im-herbst-und-winter)
     Author: Lotties GmbH & Co. KG
+    Tags: Wissenswert
   - [Naturwolle, die natürliche Heilung](https://www.lotties.de/blogs/news/naturliche-heilung-und-warme): Naturwolle, die natürliche Heilung
     Author: Lotties GmbH & Co. KG
   - [Nachhaltige Pflege von Baby- und Kindertextilien](https://www.lotties.de/blogs/news/nachhaltige-pflege-von-baby-und-kindertextilien)
     Author: Lotties GmbH & Co. KG
+    Tags: Nachhaltigkeit
   - [Wickelbodys: Die besten Bodys für den Anfang](https://www.lotties.de/blogs/news/der-perfekte-wickelbody-nachhaltige-bequemlichkeit-fur-die-kleinsten): Wickelbodys: Die besten Bodys für den Anfang
     Author: Lotties GmbH & Co. KG
+    Tags: Nachhaltigkeit
   - [Sicheres Krabbeln ~ So geht´s](https://www.lotties.de/blogs/news/sicher-krabbeln-so-geht-s): Sicheres Krabbeln ~ So geht´s
     Author: Lotties GmbH & Co. KG
   - [Unterstützung bei Neurodermitis](https://www.lotties.de/blogs/news/unterstutzung-bei-neurodermitis)
     Author: Lotties GmbH & Co. KG
+    Tags: Gesundheit & Pflege
 
 ## Store Pages
 
