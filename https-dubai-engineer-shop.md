@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-09-29T07:56:22Z
 - Contact Email: ahmednoureldinewiss@gmail.com
-- Updated At: 2026-03-01T00:00:40.269Z
+- Updated At: 2026-03-10T00:00:39.611Z
 
 ## Products
 
@@ -74,7 +74,11 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/MECH-1.png?v=1734180618
   Price: AED 69.50 AED
 - [22- D.M. Steel Structures Past Exam Questions and Study Notes.](https://dubai-engineer.shop/products/22-d-m-steel-structures-past-exam-questions-and-study-notes): Past exam questions and the study notes to prepare you for the Dubai Municipality exam of Steel Structural Engineers.
-  Updated: 2025-09-16T16:35:59Z
+
+Concrete Repair and Restoration D.M Exam Reviewer for getting your hands on the technology of existing structures and buildings concrete maintenance, repair and restoration in Dubai. and characteristics of proper maintenance and management of reinforced concrete decays 
+
+An e-Book for engineering and construction professionals to pass the Dubai Municipality Exams for Engineers and get qualified to advance their career in the United Arab Emirates in general and specifically for the Emirate of Dubai.
+  Updated: 2026-03-01T13:09:38Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
