@@ -6,7 +6,7 @@
 - Timezone: Asia/Singapore
 - Created At: 2025-05-08T03:29:25Z
 - Contact Email: marketing@sevencleanseas.com
-- Updated At: 2026-03-03T00:00:36.139Z
+- Updated At: 2026-03-10T00:00:38.072Z
 
 ## Products
 
@@ -132,7 +132,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/BRY005162.jpg?v=1753940818
   Price: $19.99 USD
 - [Eco Friendly Carabiner Clips from Recycled Plastic](https://shop.sevencleanseas.com/products/recycled-carabiners): Stay organized with our versatile carabiners clips! Clip, carry, and hang your essentials with ease. Perfect for your everyday adventures!
-  Updated: 2026-02-12T20:31:56Z
+  Updated: 2026-03-04T18:10:22Z
   Vendor: Seven Clean Seas
   Product Type: Carabiners
   Availability: Available
@@ -173,7 +173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/SippyBottle_1.jpg?v=1754903839
   Price: $24.99 USD
 - [Eco Recycled Plastic Coaster Set | Sustainable Homeware](https://shop.sevencleanseas.com/products/recycled-coasters): Protect your surfaces with our recycled plastic coaster set made from 100% ocean-bound plastic. Each set includes four unique coasters crafted sustainably in our materials recovery facility.
-  Updated: 2026-02-13T01:54:15Z
+  Updated: 2026-03-04T18:10:22Z
   Vendor: Seven Clean Seas
   Product Type: Coasters
   Availability: Available
@@ -206,13 +206,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/SippyWaterBottle_1.jpg?v=1754903840
   Price: $24.99 USD
-- [Bottle & Clean Cup Valentine Bundle](https://shop.sevencleanseas.com/products/bottle-cup): Celebrate love that lasts for your special someone and the planet. The Bottle & Clean Cup Valentine Bundle (Both White Color) is the perfect everyday duo designed for coffee dates, gym sessions, workdays, and weekend adventures. The reusable bottle keeps drinks hot or cold for hours, while the clean cup is lightweight, easy to carry, and ideal for daily sips on the go. Thoughtfully designed and made to last, this bundle helps reduce single-use waste while upgrading your daily routine. Whether it’s a gift for your partner, a friend, or a little self-love, this Valentine bundle is a practical reminder that small choices can make a big impact. Why you’ll love it: Perfect everyday pairing: bottle + clean cup Durable, reusable, and easy to clean Keeps drinks fresh for longer Stylish design for daily use A meaningful Valentine gift with purpose 💕 Love more. Waste less.
-  Updated: 2026-02-06T08:56:42Z
-  Vendor: Seven Clean Seas
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/1_1_version_d3540013-a2cd-47dc-8839-9e7e26f0b540.jpg?v=1770084273
-  Price: $54.48 USD
 
 ## Collections
 
@@ -226,13 +219,13 @@
   Updated: 2025-07-10T11:46:22Z
   Total Products: 0
 - [Recycled Ocean Plastic](https://shop.sevencleanseas.com/collections/100-recycled)
-  Updated: 2026-02-12T08:34:10Z
+  Updated: 2026-03-05T12:27:14Z
   Total Products: 2
 - [Bundle](https://shop.sevencleanseas.com/collections/bundle)
-  Updated: 2026-02-06T08:56:43Z
+  Updated: 2026-03-05T01:36:17Z
   Total Products: 1
 - [Featured Products (Manually Selected)](https://shop.sevencleanseas.com/collections/featured-products-manually-selected)
-  Updated: 2026-02-16T09:01:29Z
+  Updated: 2026-03-05T12:27:14Z
   Total Products: 10
 
 ## Blogs
