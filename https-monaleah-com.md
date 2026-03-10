@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-07-30T03:16:35Z
 - Contact Email: care@monaleah.com
-- Updated At: 2026-03-02T00:00:32.376Z
+- Updated At: 2026-03-10T00:00:34.748Z
 
 ## Products
 
 - [Personalized Dog Memorial Stone with Photo - Custom Pet Loss Sympathy Gift](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift): Honor your pet with a personalized dog memorial stone featuring their photo. Join 5,000+ happy customers who trust our 5-star handcrafted sympathy gifts
-  Updated: 2026-03-01T23:10:58Z
+  Updated: 2026-03-09T15:04:58Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -985,10 +985,10 @@
 ## Collections
 
 - [All Products](https://monaleah.com/collections/all)
-  Updated: 2026-02-28T12:19:58Z
-  Total Products: 31
+  Updated: 2026-03-09T12:56:58Z
+  Total Products: 30
 - [Memorial Stones](https://monaleah.com/collections/memorial-stones)
-  Updated: 2026-02-28T12:19:58Z
+  Updated: 2026-03-09T12:56:58Z
   Total Products: 7
 - [Garden Stones](https://monaleah.com/collections/garden-stones)
   Updated: 2026-01-24T19:14:28Z
