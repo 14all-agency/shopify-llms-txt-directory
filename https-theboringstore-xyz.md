@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-01-20T04:00:01Z
 - Contact Email: vistar.wang@gmail.com
-- Updated At: 2026-03-03T00:00:36.031Z
+- Updated At: 2026-03-11T00:00:37.264Z
 
 ## Products
 
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/4b82d46d_a4ce5e10-ea9e-435b-b122-1786acec12cd.jpg?v=1770191106
     Price: ¥117.15 CNY
 - [Black Casual Plus Size Tee with Teal Gem-Like Christmas Tree Graphic](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-casual-plus-size-tee-with-teal-gem-like-christmas-tree-graphic-unique-silhouette-design-featuring-radiating-star-at-the-top-perfect-for-holiday-cheer-loose-fit-round-neck-comfortable-fabric-ideal-for-festive-gather): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-26T03:30:04Z
+  Updated: 2026-03-05T05:02:07Z
   Vendor: YOKIA
   Product Type: Apparel & Accessories > Clothing > Shirts & Tops
   Availability: Available
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/518733ad_2d6d14f4-375f-4b93-88d3-ef797a7f054d.jpg?v=1770191131
     Price: ¥117.42 CNY
 - [Black Urban-Inspired Plus Size Tee featuring 'PHILLY JAWN' in Bold](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-urban-inspired-plus-size-tee-featuring-philly-jawn-in-bold-colorful-collage-design-short-sleeves-classic-crew-neck-perfect-for-casual-outings-soft-and-comfortable-fabric-for-all-day-wear-vibrant-city-aesthetic): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-26T03:32:39Z
+  Updated: 2026-03-05T06:25:27Z
   Vendor: YOKIA
   Product Type: Apparel & Accessories > Clothing > Shirts & Tops
   Availability: Available
@@ -941,7 +941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/cc32df5e_9af10b7e-5055-4268-83d8-83e37937afab.jpg?v=1772070276
     Price: ¥121.00 CNY
 - [Men's Plus Size Graphic T-Shirt | Black Cotton Colorful Elements L-5XL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-tee-i-wear-this-shirt-periodically-periodic-table-design-with-colorful-elements-large-blue-element-text-crew-neck-short-sleeves-perfect-for-science-lovers-and-casual-wear-comfortable): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-27T05:18:43Z
+  Updated: 2026-03-05T06:13:03Z
   Vendor: YOKIA
   Product Type: T-Shirts
   Availability: Available
@@ -1121,7 +1121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20ea6d16_c03748c7-e214-4cba-b567-25c7a93fe228.jpg?v=1772161933
     Price: ¥121.00 CNY
 - [Men's Plus Size Graphic T-Shirt Black Cotton OFFICIALLY OLD Tee L-5XL](https://theboringstore.xyz/products/plus-size-vintage-graphic-tee-black-short-sleeve-plus-size-t-shirt-its-weird-in-bold-orange-red-being-in-bold-yellow-the-same-age-in-light-gray-as-old-in-teal-and-people-in-light-blue-worn-texture-design-retro-aesthetic-centered-text): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-27T22:30:16Z
+  Updated: 2026-03-04T12:55:46Z
   Vendor: YOKIA
   Product Type: T-Shirts
   Availability: Available
@@ -1211,7 +1211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/f0b3e152_5601e05a-5db9-4b52-a5b3-cad18e8ee3e0.jpg?v=1772161967
     Price: ¥121.00 CNY
 - [Men's Plus Size Graphic T-Shirt Black Cotton 'PRINCE HALL' Tee L-5XL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-mens-plus-size-tee-detailed-gold-prince-hall-emblem-masonic-square-and-compass-symbol-in-this-sign-we-conquer-banner-gold-columns-and-icons-bold-mason-print-comfortable-loose-fit-perfect-for-casual-w): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-27T23:06:32Z
+  Updated: 2026-03-03T06:50:39Z
   Vendor: YOKIA
   Product Type: T-Shirts
   Availability: Available
@@ -1331,7 +1331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/60e35d6c_fce3546a-ef2d-48bb-91d6-afe46bc4db05.jpg?v=1772161998
     Price: ¥121.00 CNY
 - [Men's Plus Size Graphic T-Shirt Black Cotton Candy Cane Crew Tee L-5XL](https://theboringstore.xyz/products/plus-size-christmas-tee-black-cotton-plus-size-t-shirt-with-festive-candy-cane-crew-design-featuring-colorful-candy-canes-with-santa-hat-reindeer-antlers-and-elf-hat-surrounded-by-gift-boxes-and-snowflake-accents-perfect-for-holiday-celebrations): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-28T02:37:21Z
+  Updated: 2026-03-05T11:07:07Z
   Vendor: YOKIA
   Product Type: T-Shirts
   Availability: Available
@@ -1481,7 +1481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/a1ca5612_8a1e558a-33d8-4a1f-95ff-d1d701c68b61.jpg?v=1772243917
     Price: ¥121.00 CNY
 - [Men's Plus Size Graphic T-Shirt Black Cotton CAT WITH CIGAR Tee L-5XL](https://theboringstore.xyz/products/plus-size-funny-cat-t-shirt-black-cotton-oversized-tee-featuring-humorous-illustration-of-three-cats-with-a-full-moon-and-fiery-sky-background-tall-orange-tabby-in-red-sunglasses-with-cigar-relaxed-fit-perfect-for-cat-lovers-casual-style-machine-wa): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-28T13:58:55Z
+  Updated: 2026-03-05T05:48:37Z
   Vendor: YOKIA
   Product Type: T-Shirts
   Availability: Available
@@ -1511,7 +1511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/4f196b89_6442e864-4462-48a6-989e-70f688bec009.jpg?v=1772243931
     Price: ¥121.00 CNY
 - [Men's Plus Size Graphic T-Shirt Black Cotton U SNARING? Tee L-5XL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-t-shirt-with-what-are-u-snaring-at-in-bold-distressed-font-featuring-vintage-white-snare-drum-and-crossed-drumsticks-graphic-relaxed-fit-comfortable-round-neck-ideal-for-casual-wear-distressed-lo): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-28T13:58:55Z
+  Updated: 2026-03-04T08:04:47Z
   Vendor: YOKIA
   Product Type: T-Shirts
   Availability: Available
@@ -1541,7 +1541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/2c859710_6f64b1e1-6e59-493e-a864-e51bcdc578b2.jpg?v=1772243931
     Price: ¥121.00 CNY
 - [Men's Plus Graphic T-Shirt Black Cotton BUDS STICK TOGETHER Tee L-5XL](https://theboringstore.xyz/products/plus-size-graphic-tee-black-cotton-plus-size-t-shirt-with-colorful-good-buds-graphic-design-featuring-humorous--bud-characters-bold-green-and-yellow-text-stick-together-print-comfortable-loose-fit-perfect-for-casual-outings-and-relaxe): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-28T13:59:11Z
+  Updated: 2026-03-04T09:44:26Z
   Vendor: YOKIA
   Product Type: T-Shirts
   Availability: Available
@@ -1580,7 +1580,7 @@
   Updated: 2026-02-10T07:50:40Z
   Total Products: 4
 - [T-shirts](https://theboringstore.xyz/collections/t-shirts): T-shirts
-  Updated: 2026-02-28T02:43:22Z
+  Updated: 2026-03-05T12:20:11Z
   Total Products: 51
 
 ## Store Pages
