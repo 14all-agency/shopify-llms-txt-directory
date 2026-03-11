@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2021-06-22T16:20:57Z
 - Contact Email: sales@helloquality.co.za
-- Updated At: 2026-03-03T00:00:46.468Z
+- Updated At: 2026-03-11T00:00:48.684Z
 
 ## Products
 
@@ -142,7 +142,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/products/198-4D9A7680.jpg?v=1690310335
   Price: R 0.00 ZAR
 - [Tari Wafer Snake Print Long Riding Boot](https://helloquality.co.za/products/tari-meli): Step out with a signature style this season with Tari Wafer's luxurious long-riding boots. Expertly crafted with the finest materials, these boots offer comfort and durability, allowing you to make a fashionable statement no matter where your daily adventures take you. These boots effortlessly elevate your look with their timeless style. Tari Wafer range promises a luxurious sense of confidence with each and every step. Properties Full-grain veg leather uppers Snake-print & patent detail Breathable Napa Leather Lining Rear Sturdy Ykk zippers Durable stitched rubber outsoles.
-  Updated: 2026-01-25T19:12:32Z
+  Updated: 2026-03-06T01:37:53Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -588,7 +588,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Sequin_Curve.jpg?v=1686128466
   Price: R 1,095.00 ZAR
 - [Top Option - Strip sparkle](https://helloquality.co.za/products/strip-sparkle): Patent strap with diamante
-  Updated: 2026-01-25T19:12:34Z
+  Updated: 2026-03-04T01:12:43Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -884,13 +884,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Tororo_Kids.jpg?v=1686755594
   Price: R 499.00 ZAR
-- [Sango Midcalf Country boots](https://helloquality.co.za/products/sango-midcalf-country-boots--size-15): The HQE Sango midcalf Country Boots provide optimal comfort and support while on the job. These boots are crafted with robust leather and a sturdy sole, ensuring long-lasting protection for any work or leisure environment. Demo model Size 7 available ​Fabric lining
-  Updated: 2026-01-25T19:12:36Z
-  Vendor: Hello Quality Equestrian
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/SangoMidcalfCountryboots_7.jpg?v=1732564784
-  Price: R 2,899.00 ZAR
 - [Kids Bonolo Economy](https://helloquality.co.za/products/kids-bonolo-economy): Introducing the Kids Soft Leather Long Riding Boots: the perfect choice for your little one’s equestrian adventures. Crafted from premium quality leather, these boots features a soft texture and flexible fit, providing superior comfort and an extra boost of confidence for aspiring riders. From the show ring to the countryside, these boots are designed to stand out with effortless elegance. Soft leather uppers Fabric lined Cushioned footbed Rear sturdy YKK zip
   Updated: 2026-01-25T19:12:36Z
   Vendor: Hello Quality Equestrian
@@ -2553,7 +2546,7 @@
     Availability: Available
     Price: R 2,649.00 ZAR
 - [Marino Men's Work Boots](https://helloquality.co.za/products/marino-boots-men): Stay dry and stylish with our Marino slip on waterproof boots. With their easy slip on design, these unisex boots are perfect for any weather. Leave the hassle of laces behind and enjoy the benefits of dry, comfortable feet all day long. Perfect for any outdoor adventure or daily commute. Product Properties Waterproof leather uppers Napa leather lining Elasticated for comfort Padded footbed Rubber outsoles
-  Updated: 2026-02-17T05:03:45Z
+  Updated: 2026-03-06T06:44:58Z
   Vendor: Hello Quality Equestrian
   Product Type: Work Boots
   Availability: Available
@@ -3066,7 +3059,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/241-4D9A7726_0e694880-c553-46cc-bc32-ba023d83e518.jpg?v=1706520175
   Price: R 5,499.00 ZAR
 - [Tau](https://helloquality.co.za/products/tau): Indulge in the art of sophistication with Tau riding boots. Handmade in South Africa, these long leather boots are perfect for any equestrian lover. Experience luxury in every step with Tau. Product Details: Genuine leather uppers Leather-lined Sturdy rear YKK zipper Soft padded footbed Durable rubber soles
-  Updated: 2026-01-25T19:12:44Z
+  Updated: 2026-03-08T08:00:46Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -4971,318 +4964,318 @@
   - [9 / Regular / Extra Large](https://helloquality.co.za/products/copy-of-mambo-polo-boots-ladies?variant=42434834596023)
     Availability: Available
     Price: R 9,299.00 ZAR
-- [Destiny Ladies Endurance Riding Boots](https://helloquality.co.za/products/destiny-endurance-ladies): Indulge in the ultimate equestrian experience with Destiny Endurance. These long-riding boots are perfect for both riding and outdoor use, expertly crafted with genuine leather uppers for durability and style. Handcrafted in South Africa, these boots feature enclosed rear elastic gussets and bucket rubber soles for unmatched comfort and performance. Product Details: Oily pull-up leather uppers with waterproofing properties Cambrielle lined offering protection and breathability. Concealed elastic gussets for stretch and comfort. Rear full-length steady YKK zippers. Flexible rubber outsoles offer good grip and arch support. * Available in Brown or Black * please leave a note upon checkout!!
-  Updated: 2026-01-25T19:12:45Z
+- [Destiny Unisex Endurance Riding Boots](https://helloquality.co.za/products/destiny-endurance-ladies): Indulge in the ultimate equestrian experience with Destiny Endurance. These long-riding boots are perfect for both riding and outdoor use, expertly crafted with genuine leather uppers for durability and style. Handcrafted in South Africa, these boots feature enclosed rear elastic gussets and bucket rubber soles for unmatched comfort and performance. Product Details: Oily pull-up leather uppers with waterproofing properties Cambrielle lined offering protection and breathability. Concealed elastic gussets for stretch and comfort. Rear full-length steady YKK zippers. Flexible rubber outsoles offer good grip and arch support. * Available in Brown or Black * please leave a note upon checkout!!
+  Updated: 2026-03-03T19:33:22Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/4D9A6071.jpg?v=1718316212
   - [3 / Short / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900394167)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Short / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900426935)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Short / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900459703)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Short / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900492471)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Short / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900525239)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Regular / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900558007)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Regular / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900590775)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Regular / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900623543)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Regular / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900656311)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Regular / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900689079)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Tall / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900721847)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Tall / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900754615)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Tall / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900787383)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Tall / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900820151)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Tall / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900852919)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Extra Tall / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900885687)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Extra Tall / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900918455)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Extra Tall / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900951223)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Extra Tall / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434900983991)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [3 / Extra Tall / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901016759)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Short / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901049527)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Short / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901082295)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Short / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901115063)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Short / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901147831)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Short / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901180599)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Regular / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901213367)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Regular / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901246135)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Regular / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901278903)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Regular / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901311671)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Regular / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901344439)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Tall / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901377207)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Tall / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901409975)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Tall / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901442743)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Tall / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901475511)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Tall / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901508279)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Extra Tall / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901541047)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Extra Tall / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901573815)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Extra Tall / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901606583)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Extra Tall / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901639351)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [4 / Extra Tall / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901672119)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Short / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901704887)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Short / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901737655)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Short / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901770423)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Short / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901803191)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Short / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901835959)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Regular / Extra Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901868727)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Regular / Small](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901901495)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Regular / Medium](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901934263)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Regular / Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901967031)
     Availability: Available
-    Price: R 7,699.00 ZAR
+    Price: R 7,899.00 ZAR
   - [5 / Regular / Extra Large](https://helloquality.co.za/products/destiny-endurance-ladies?variant=42434901999799)
     Availability: Available
-    Price: R 7,699.00 ZAR
-- [Destiny Men's Endurance Boots](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies): Indulge in the ultimate equestrian experience with Destiny Endurance. These long riding boots are perfect for both riding and outdoor use, expertly crafted with genuine leather uppers for durability and style. Handmade in South Africa, these boots feature elastic gussets and a rubber sole for unmatched comfort and performance. Elevate your riding game with Destiny Endurance. Product Details: Oily pull-up leather uppers with waterproofing properties Cambrielle lined offering protection and breathability. Concealed elastic gussets for stretch and comfort. Rear full-length steady YKK zippers. Flexible rubber outsoles offer good grip and arch support. * Available in Brown or Black * please leave a note upon checkout!!
-  Updated: 2026-01-25T19:12:45Z
+    Price: R 7,899.00 ZAR
+- [Destiny Unisex Endurance Boots](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies): Indulge in the ultimate equestrian experience with Destiny Endurance. These long riding boots are perfect for both riding and outdoor use, expertly crafted with genuine leather uppers for durability and style. Handmade in South Africa, these boots feature elastic gussets and a rubber sole for unmatched comfort and performance. Elevate your riding game with Destiny Endurance. Product Details: Oily pull-up leather uppers with waterproofing properties Cambrielle lined offering protection and breathability. Concealed elastic gussets for stretch and comfort. Rear full-length steady YKK zippers. Flexible rubber outsoles offer good grip and arch support. * Available in Brown or Black * please leave a note upon checkout!!
+  Updated: 2026-03-03T19:31:26Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQEquestrianDestinyEnduranceridingboots_4_dbc358c2-e4e5-4f53-a9ce-572f79c6bfa1.jpg?v=1710928521
   - [8 / Short / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905473207)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Short / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905538743)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Short / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905571511)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Short / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905604279)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Short / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905637047)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Regular / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905669815)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Regular / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905702583)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Regular / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905735351)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Regular / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905768119)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Regular / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905800887)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Tall / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905833655)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Tall / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905866423)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Tall / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905899191)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Tall / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905931959)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Tall / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905964727)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Extra Tall / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434905997495)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Extra Tall / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434906030263)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Extra Tall / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434906063031)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Extra Tall / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434906095799)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [8 / Extra Tall / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434906128567)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Short / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913042615)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Short / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913075383)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Short / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913108151)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Short / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913140919)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Short / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913173687)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Regular / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913206455)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Regular / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913239223)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Regular / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913271991)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Regular / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913304759)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Regular / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913337527)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Tall / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913370295)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Tall / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913403063)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Tall / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913435831)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Tall / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913468599)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Tall / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913501367)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Extra Tall / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913534135)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Extra Tall / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913566903)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Extra Tall / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913599671)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Extra Tall / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913632439)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [9 / Extra Tall / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913665207)
     Availability: Available
-    Price: R 7,250.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Short / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913697975)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Short / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913730743)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Short / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913763511)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Short / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913796279)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Short / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913829047)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Regular / Extra Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913861815)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Regular / Small](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913894583)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Regular / Medium](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913927351)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Regular / Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913960119)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
   - [10 / Regular / Extra Large](https://helloquality.co.za/products/copy-of-destiny-endurance-ladies?variant=42434913992887)
     Availability: Available
-    Price: R 7,550.00 ZAR
+    Price: R 8,199.00 ZAR
 - [Stunner Long Riding Boots](https://helloquality.co.za/products/stunner-ladies): These long riding boots are indeed a stunner on the equestrian scene. With their sleek design and durable construction, they provide both style and practicality for any rider. Stay comfortable in the saddle and look good while at it with these stunning boots. Product Details: Full-grain bovine leather uppers Full sleek brogue detail Breathable Napa leather lining Sturdy rear YKK zipper Soft padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!!
   Updated: 2026-01-25T19:12:45Z
   Vendor: Hello Quality Equestrian
@@ -6756,7 +6749,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Hello_Quality_Equestrian_s_range_of_handcrafted_leather_boots_genuine_leather_boots_made_in_South_Africa_82_48410546-1442-407e-87af-228955012f6a.jpg?v=1724763440
   Price: R 1,519.00 ZAR
-[List Continued](https://helloquality.co.za/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkyMzAzNDQwMDU1LCJsYXN0X3ZhbHVlIjoiNzc5MjMwMzQ0MDA1NSJ9)
+- [Kepler Hiker Boots](https://helloquality.co.za/products/kepler-hiker-boots-1): Experience unmatched comfort and durability with our Kepler Hiker Boots. Made with water resistant leather uppers, these boots are perfect for any weather condition. The nicely padded design ensures all-day comfort, making them a must-have for any hard worker. Trust in our boots to keep up with your demanding lifestyle. Product Details: Genuine leather uppers Fabric-lined Front lace-up design Soft padded footbed Durable, rugged rubber soles
+  Updated: 2026-01-25T19:12:47Z
+  Vendor: Hello Quality Equestrian
+  Product Type: Work Boots
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Hello_Quality_Equestrian_s_range_of_handcrafted_leather_boots_genuine_leather_boots_made_in_South_Africa_85_a929886d-28a5-4688-86b1-d11db29a14dd.jpg?v=1724763316
+  - [Black / 9](https://helloquality.co.za/products/kepler-hiker-boots-1?variant=43154082300087)
+    Availability: Available
+    Price: R 2,399.00 ZAR
+  - [Black / 10](https://helloquality.co.za/products/kepler-hiker-boots-1?variant=43154082332855)
+    Availability: Available
+    Price: R 2,399.00 ZAR
+[List Continued](https://helloquality.co.za/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkyMzA5MzcxMDYzLCJsYXN0X3ZhbHVlIjoiNzc5MjMwOTM3MTA2MyJ9)
 
 ## Collections
 
@@ -6770,14 +6775,14 @@
   Updated: 2026-01-20T13:41:03Z
   Total Products: 29
 - [Smart Products Filter Index - Do not delete](https://helloquality.co.za/collections/globofilter-best--products-index)
-  Updated: 2026-03-02T12:37:22Z
-  Total Products: 516
+  Updated: 2026-03-10T11:15:24Z
+  Total Products: 510
 - [Gift Ideas](https://helloquality.co.za/collections/gift-ideas)
   Updated: 2026-01-04T10:01:27Z
   Total Products: 2
 - [Country boots](https://helloquality.co.za/collections/work-boots-and-the-country-boots): Introducing our luxurious Country boots, crafted for the refined and sophisticated individual. Made with the highest quality materials, these boots provide comfort and style for any countryside excursion. Elevate your outdoor adventures with our exclusive Country boots.
-  Updated: 2026-02-07T12:14:34Z
-  Total Products: 17
+  Updated: 2026-03-08T16:54:00Z
+  Total Products: 13
 - [Cowboy Boots](https://helloquality.co.za/collections/ready-to-wear-cowboy): Stride in Style: Cowboy Boot Collection Step into the Wild West with our Cowboy Boot Collection! Made with high-quality materials, these boots are perfect for any adventure. From rodeos to line dancing, these boots will keep you comfortable and stylish. Don't miss out on adding this must-have collection to your wardrobe! These are ready to ship and can be made to order if your size is not available. Please contact us!
   Updated: 2026-01-28T12:12:01Z
   Total Products: 24
@@ -6785,7 +6790,7 @@
   Updated: 2026-01-31T11:23:56Z
   Total Products: 27
 - [Jodhpur Boots](https://helloquality.co.za/collections/jodhpur-boots): HQE Jodhpur boots will become an integral part of your daily activities. Whether you are seeking a pair for training or competition, you can always trust on HQE riding boots for comfort and durability.
-  Updated: 2026-01-04T09:52:50Z
+  Updated: 2026-03-10T11:15:24Z
   Total Products: 31
 - [Midcalf & Long Boots](https://helloquality.co.za/collections/midcalf-long-boots)
   Updated: 2026-02-13T12:13:20Z
@@ -6794,7 +6799,7 @@
   Updated: 2026-01-04T09:52:56Z
   Total Products: 15
 - [Leather Care](https://helloquality.co.za/collections/leather-care-updated): Leather care is crucial to maintain the durability, appearance, and longevity of leather products, such as boots, shoes, and bags. Here are some key reasons why leather care is important: Protection: Leather care products create a barrier against water, dirt, and other harmful elements that can damage the leather. Conditioning: Leather care helps to keep the leather supple and soft, preventing it from drying out and cracking. Cleaning: Regular cleaning removes dirt and grime that can accumulate and cause damage. Preservation: Leather care helps preserve the natural oils and fibres in the leather, maintaining its strength and flexibility. Appearance: Proper leather care can restore and maintain the leather's original colour and finish, keeping it looking its best. Extended lifespan: Regular leather care can significantly extend the lifespan of leather products, making them last longer and perform better. Prevents cracking: Leather care helps prevent cracking and fading, keeping the leather looking healthy and vibrant. Enhances performance: Well-cared-for leather products perform better, providing better support, comfort, and durability. Remember, different types of leather require specific care products and techniques, so it's essential to choose the right products and follow the manufacturer's instructions and guidelines.
-  Updated: 2026-02-02T12:11:23Z
+  Updated: 2026-03-10T11:15:24Z
   Total Products: 4
 - [Pre Order Men Jodhpur boots](https://helloquality.co.za/collections/men): A premium-selected collection of the most loved models in our product range. All items available on pre-order are made within 5 - 14 working days.
   Updated: 2026-02-02T12:11:23Z
@@ -6803,28 +6808,28 @@
   Updated: 2025-11-06T17:27:51Z
   Total Products: 6
 - [Pre-order ladies' Work Boots](https://helloquality.co.za/collections/women-pre-order): Introducing Hello Quality Equestrian's Ladies Work Boots Collection Designed for the hardworking woman who spends long hours in the saddle or on her feet, our range of ladies' work boots prioritizes whole-day comfort without compromising on style. Crafted with premium materials and attention to detail, our boots are built to keep up with your demanding equestrian lifestyle. From riding and grooming to working on the farm or stable, our boots provide the support, durability, and comfort you need to power through your day. Features of our Ladies Work Boots Collection include - Soft, breathable linings for reduced fatigue - Cushioned insoles for superior comfort - Durable outsoles for traction and stability - And stylish designs to keep you looking great. Whether you're a professional rider, equine professional, or simply a passionate horse owner, our Ladies Work Boots Collection has the perfect pair to keep you comfortable and confident all day long. Shop now and experience the Hello Quality Equestrian difference.
-  Updated: 2026-02-28T09:48:45Z
+  Updated: 2026-03-03T05:40:22Z
   Total Products: 17
 - [Pre order Men work boots](https://helloquality.co.za/collections/mens-work-pre-order): Uncompromising Protection for the Modern Worker Our collection of men's work boots is designed for the hardworking individual who demands durability, comfort, and protection on the job site. Engineered to withstand the toughest conditions, our boots feature: - Reinforced toe caps - Padded ankle for comfort, stability and security. - Waterproof membranes to keep you dry in harsh environments. - High-quality materials for exceptional durability- Slip-resistant outsoles for traction on any terrain Whether you're on a construction site, in a warehouse, or tackling outdoor projects, our work boots have got you covered. With a focus on comfort, support, and protection, you can trust our boots to work as hard as you do. Browse our collection today and find the perfect pair to keep you safe and performing at your best.
-  Updated: 2026-02-28T09:48:45Z
+  Updated: 2026-03-03T05:39:55Z
   Total Products: 18
 - [Pre-order kids Standard Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-kids): Introducing the FutureFit Collection. Give your child the gift of growing confidence in the saddle with our innovative FutureFit Kids' Long Riding Boots. Designed to adapt to their changing foot and leg size, these boots can be easily resized up to two to three sizes, extending their wearability and saving you money in the long run. With a focus on comfort, safety, and style, our FutureFit boots feature: - High-quality materials for durability and support - Adjustable lacing and elastic panels for a secure fit - Rear zipper for easy on-and-off - Resizable design to accommodate growing feet  in a pair that will keep up with your child's growth and passion for riding. Explore the FutureFit Collection today!
   Updated: 2026-02-15T17:51:56Z
   Total Products: 3
 - [Ladies Pre-order Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-ladies): Timeless Elegance for the Discerning Rider Introducing HQE's Standard Range of Long Riding Boots, expertly crafted for the classic equestrian look. This essential collection offers: - High-quality materials for durability and comfort- Traditional design with a sleek, sophisticated finish- Standard sizes for a comfortable, secure fit Available in a few versatile colours: To ensure you receive your preferred colour, please note your choice (Black, Brown / Navy) in the checkout notes. Our Standard Range Long Riding Boots are a wardrobe staple for any serious rider. Shop now and experience the perfect blend of style, comfort, and functionality.
-  Updated: 2025-11-06T17:27:52Z
+  Updated: 2026-03-03T05:40:22Z
   Total Products: 13
 - [Pre-order Men Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-men): Ride with Confidence, Comfort, and Style At HQE, we believe that men's riding boots should combine fashion, function, and durability. Our collection is designed to provide a comfortable, secure fit and exceptional performance in the saddle. Our boots feature: - Sturdy YKK zips for reliable closure and ease of use- Stitched rubber outsoles for added strength and traction- High-quality materials for durability and comfort- Carefully crafted designs for a stylish, equestrian look Whether you're a seasoned rider or just starting out, our boots are designed to keep up with your passion for riding. With a focus on comfort, durability, and style, HQE has got you covered. Browse our collection today and find the perfect pair to elevate your riding experience.
-  Updated: 2025-11-06T17:27:52Z
+  Updated: 2026-03-03T05:39:55Z
   Total Products: 7
 - [Demo Long Riding Boots Promo](https://helloquality.co.za/collections/may-): Browse our collection today and step up your style with our handcrafted leather boots on . Designed for comfort, durability, and timeless equestrian elegance, these boots offer exceptional value without compromising on quality.
-  Updated: 2026-03-02T12:37:22Z
-  Total Products: 90
+  Updated: 2026-03-08T16:51:35Z
+  Total Products: 89
 - [PRE-ORDER](https://helloquality.co.za/collections/pre-order): A premium-selected collection of the most loved models in our product range. All items available on pre-order are made within 5 - 14 working days.
-  Updated: 2026-02-28T09:48:45Z
+  Updated: 2026-03-08T11:16:18Z
   Total Products: 97
 - [Pre-order Leather gaiters / Half Chaps](https://helloquality.co.za/collections/pre-order-leather-gaiters): Hello Quality's range of gaiters available on pre-order. All our gaiters are made from supple leather and can be worn by both sexes in exception to those with shiny details or embellishments
-  Updated: 2026-02-20T12:13:27Z
+  Updated: 2026-03-08T11:16:18Z
   Total Products: 8
 - [Pre-order Kids Jodhpur Boots.](https://helloquality.co.za/collections/kids-jodhpur-boots): Safe Riding in the Saddle At HQE, we prioritize the safety and well-being of young riders. Our collection of kids' protective riding boots is designed to provide superior protection, support, and comfort in the stirrups. We understand that a proper fit is crucial for optimal safety and performance. That's why we offer a range of sizes and styles to ensure you find the perfect pair for your child. Our boots feature: - High-quality materials for durability and protection- Anatomical design for comfortable support- Slip-resistant soles for added stability Choose HQE for your child's riding boots and give them the confidence to ride with freedom. Select a pair that fits well, and let them take the reins with safety and style.
   Updated: 2026-02-16T20:19:19Z
@@ -6845,7 +6850,7 @@
   Updated: 2026-01-03T15:28:35Z
   Total Products: 21
 - [New arrival](https://helloquality.co.za/collections/new-arrival)
-  Updated: 2026-02-13T12:13:20Z
+  Updated: 2026-03-08T16:53:02Z
   Total Products: 21
 - [Polo Boots](https://helloquality.co.za/collections/polo-boots)
   Updated: 2026-01-02T16:22:53Z
@@ -6866,7 +6871,7 @@
   Updated: 2026-02-16T20:19:19Z
   Total Products: 9
 - [Gaiter Combo Special](https://helloquality.co.za/collections/gaiter-combo-special): Enjoy 20% Off when you order a combination of gaiters and short riding boots.
-  Updated: 2026-02-16T20:07:06Z
+  Updated: 2026-03-08T11:16:18Z
   Total Products: 8
 - [Custom Add On](https://helloquality.co.za/collections/custom-add-on)
   Updated: 2026-01-20T08:06:52Z
@@ -6875,11 +6880,11 @@
   Updated: 2026-02-28T09:51:36Z
   Total Products: 14
 - [Best  Products](https://helloquality.co.za/collections/best--products)
-  Updated: 2026-03-02T12:37:22Z
-  Total Products: 516
+  Updated: 2026-03-10T11:15:24Z
+  Total Products: 510
 - [New Leather Riding Boots | Hello Quality Equestrian](https://helloquality.co.za/collections/new-leather-riding-boots-arrivals): Shop new leather riding boots by Hello Quality Equestrian. Handcrafted in South Africa from full grain leather. Explore latest arrivals, ready-to-wear.
-  Updated: 2026-03-02T12:37:22Z
-  Total Products: 516
+  Updated: 2026-03-10T11:15:24Z
+  Total Products: 510
 - [The Chapungu Range](https://helloquality.co.za/collections/the-chapungu-range): Our newest range Chapungu riding boots
   Updated: 2025-12-09T22:14:01Z
   Total Products: 0
