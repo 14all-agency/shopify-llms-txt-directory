@@ -6,217 +6,209 @@
 - Timezone: America/Phoenix
 - Created At: 2026-01-13T23:16:09Z
 - Contact Email: info@rusticroots01.com
-- Updated At: 2026-03-03T07:08:48.628Z
+- Updated At: 2026-03-11T00:00:31.801Z
 
  RUSTIC ROOTS, 
 
 ## Products
 
 - [Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • Dark Heather is 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
-  Updated: 2026-02-26T04:37:49Z
+  Updated: 2026-03-09T05:43:33Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-696727ccd7cd5.jpg?v=1768368100
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
   - [Black / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398793498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-696727ccd7cd5.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69ae5ce8cf8b6.jpg?v=1773035013
     Price: $28.00 USD
   - [Black / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398826266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-696727ccd7cd5.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69ae5ce8cf8b6.jpg?v=1773035013
     Price: $28.00 USD
   - [Black / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398859034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-696727ccd7cd5.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69ae5ce8cf8b6.jpg?v=1773035013
     Price: $28.00 USD
   - [Black / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398891802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-696727ccd7cd5.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69ae5ce8cf8b6.jpg?v=1773035013
     Price: $28.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398924570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-696727ccd7cd5.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69ae5ce8cf8b6.jpg?v=1773035013
     Price: $28.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398957338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-696727ccd7cd5.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69ae5ce8cf8b6.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Chocolate / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398990106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-696727ccdd34f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-and-back-69ae5ce8ab1a3.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Chocolate / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399022874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-696727ccdd34f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-and-back-69ae5ce8ab1a3.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Chocolate / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399055642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-696727ccdd34f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-and-back-69ae5ce8ab1a3.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Chocolate / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399088410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-696727ccdd34f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-and-back-69ae5ce8ab1a3.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Chocolate / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399121178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-696727ccdd34f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-and-back-69ae5ce8ab1a3.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Chocolate / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399153946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-696727ccdd34f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-chocolate-front-and-back-69ae5ce8ab1a3.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399186714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-696727cce020c.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae5ce8ac5e2.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399219482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-696727cce020c.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae5ce8ac5e2.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399252250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-696727cce020c.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae5ce8ac5e2.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399285018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-696727cce020c.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae5ce8ac5e2.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399317786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-696727cce020c.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae5ce8ac5e2.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399350554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-696727cce020c.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae5ce8ac5e2.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather Grey / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399383322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-696727cce9b16.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather Grey / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399416090)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-696727cce9b16.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather Grey / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399448858)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-696727cce9b16.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather Grey / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399481626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-696727cce9b16.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather Grey / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399514394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-696727cce9b16.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
     Price: $28.00 USD
   - [Dark Heather Grey / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399547162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-696727cce9b16.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
     Price: $28.00 USD
   - [Military Green / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399579930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-696727cce2bff.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-and-back-69ae5ce8ae6bd.jpg?v=1773035013
     Price: $28.00 USD
   - [Military Green / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399612698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-696727cce2bff.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-and-back-69ae5ce8ae6bd.jpg?v=1773035013
     Price: $28.00 USD
   - [Military Green / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399645466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-696727cce2bff.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-and-back-69ae5ce8ae6bd.jpg?v=1773035013
     Price: $28.00 USD
   - [Military Green / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399678234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-696727cce2bff.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-and-back-69ae5ce8ae6bd.jpg?v=1773035013
     Price: $28.00 USD
   - [Military Green / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399711002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-696727cce2bff.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-and-back-69ae5ce8ae6bd.jpg?v=1773035013
     Price: $28.00 USD
   - [Military Green / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399743770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-696727cce2bff.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-military-green-front-and-back-69ae5ce8ae6bd.jpg?v=1773035013
     Price: $28.00 USD
   - [Heliconia / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399776538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-696727ccebf45.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-and-back-69ae5ce8b7a5f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heliconia / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399809306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-696727ccebf45.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-and-back-69ae5ce8b7a5f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heliconia / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399842074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-696727ccebf45.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-and-back-69ae5ce8b7a5f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heliconia / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399874842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-696727ccebf45.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-and-back-69ae5ce8b7a5f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heliconia / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399907610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-696727ccebf45.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-and-back-69ae5ce8b7a5f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heliconia / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399940378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-696727ccebf45.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-and-back-69ae5ce8b7a5f.jpg?v=1773035013
     Price: $28.00 USD
   - [Charcoal / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575399973146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-696727ccda6e9.jpg?v=1768368099
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae5ce8a5fb9.jpg?v=1773035013
     Price: $28.00 USD
   - [Charcoal / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400005914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-696727ccda6e9.jpg?v=1768368099
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae5ce8a5fb9.jpg?v=1773035013
     Price: $28.00 USD
   - [Charcoal / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400038682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-696727ccda6e9.jpg?v=1768368099
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae5ce8a5fb9.jpg?v=1773035013
     Price: $28.00 USD
   - [Charcoal / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400071450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-696727ccda6e9.jpg?v=1768368099
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae5ce8a5fb9.jpg?v=1773035013
     Price: $28.00 USD
   - [Charcoal / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400104218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-696727ccda6e9.jpg?v=1768368099
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae5ce8a5fb9.jpg?v=1773035013
     Price: $28.00 USD
   - [Charcoal / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400136986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-696727ccda6e9.jpg?v=1768368099
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae5ce8a5fb9.jpg?v=1773035013
     Price: $28.00 USD
   - [Heather Indigo / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400169754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-696727cce761f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-and-back-69ae5ce8b1e3f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heather Indigo / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400202522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-696727cce761f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-and-back-69ae5ce8b1e3f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heather Indigo / L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400235290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-696727cce761f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-and-back-69ae5ce8b1e3f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heather Indigo / XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400268058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-696727cce761f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-and-back-69ae5ce8b1e3f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heather Indigo / 2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400300826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-696727cce761f.jpg?v=1768368100
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-and-back-69ae5ce8b1e3f.jpg?v=1773035013
     Price: $28.00 USD
   - [Heather Indigo / 3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400333594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-696727cce761f.jpg?v=1768368100
-    Price: $28.00 USD
-  - [White / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400366362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-white-front-696727cce5143.jpg?v=1768368099
-    Price: $28.00 USD
-  - [White / M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575400399130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-white-front-696727cce5143.jpg?v=1768368099
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-and-back-69ae5ce8b1e3f.jpg?v=1773035013
     Price: $28.00 USD
 - [Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
   Updated: 2026-02-26T04:37:49Z
@@ -245,11 +237,11 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-maroon-front-69673331757e5.jpg?v=1768371020
     Price: $55.00 USD
 - [OFF GRID HAT WITH FOX](https://rusticroots01.com/products/off-grid-hat-with-fox): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T04:37:49Z
+  Updated: 2026-03-09T05:24:35Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-6967394a1bba4.jpg?v=1768372569
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-back-69ae597e63ae2.jpg?v=1773033865
   Price: $40.00 USD
 - [Unisex Sweatshirt RV LIFE](https://rusticroots01.com/products/unisex-sweatshirt-1): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant.
   Updated: 2026-02-26T22:25:06Z
@@ -453,211 +445,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-military-green-front-and-back-6967627a94a84.jpg?v=1768383126
     Price: $55.00 USD
-- [Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:37:50Z
+- [OFF ROAD T SHIRTS Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+  Updated: 2026-03-09T06:00:23Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: OFF ROAD SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-696803210b84f.jpg?v=1768424245
-  - [Maroon / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493061914)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Maroon / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493094682)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Maroon / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493127450)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Maroon / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493160218)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Maroon / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493192986)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Maroon / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493225754)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Maroon / 4XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493258522)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Maroon / 5XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493291290)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6968032110b5f.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493324058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493356826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493389594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493422362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493455130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493487898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / 4XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493520666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Black / 5XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493553434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696803210d3aa.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493586202)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493618970)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493651738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493684506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493717274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493750042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / 4XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493782810)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Navy / 5XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493815578)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696803210ed33.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Dark Chocolate / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493848346)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6968032115794.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Dark Chocolate / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493881114)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6968032115794.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Dark Chocolate / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493913882)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6968032115794.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Dark Chocolate / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493946650)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6968032115794.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Dark Chocolate / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577493979418)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6968032115794.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Dark Chocolate / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494012186)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6968032115794.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Cardinal / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494044954)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-6968032117225.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Cardinal / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494077722)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-6968032117225.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Cardinal / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494110490)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-6968032117225.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Cardinal / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494143258)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-6968032117225.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Cardinal / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494176026)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-6968032117225.jpg?v=1768424245
-    Price: $28.00 USD
-  - [Cardinal / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494208794)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-6968032117225.jpg?v=1768424245
-    Price: $28.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
   - [Dark Heather / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494241562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696803211418d.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69ae5ffd7b226.jpg?v=1773036017
     Price: $28.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494274330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696803211418d.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69ae5ffd7b226.jpg?v=1773036017
     Price: $28.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494307098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696803211418d.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69ae5ffd7b226.jpg?v=1773036017
     Price: $28.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494339866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696803211418d.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69ae5ffd7b226.jpg?v=1773036017
     Price: $28.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494372634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696803211418d.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69ae5ffd7b226.jpg?v=1773036017
     Price: $28.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494405402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696803211418d.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69ae5ffd7b226.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494438170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494470938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494503706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494536474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494569242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494602010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / 4XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494634778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
     Price: $28.00 USD
   - [Sapphire / 5XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494667546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696803211d093.jpg?v=1768424245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69ae5ffd7c8f5.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494700314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494733082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494765850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494798618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494831386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494864154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / 4XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494896922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Heliconia / 5XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494929690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-heliconia-front-and-back-69ae5ffd7df92.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Charcoal / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494962458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69ae5ffd801ae.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Charcoal / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577494995226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69ae5ffd801ae.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Charcoal / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495027994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69ae5ffd801ae.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Charcoal / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495060762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69ae5ffd801ae.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Charcoal / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495093530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69ae5ffd801ae.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Charcoal / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495126298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69ae5ffd801ae.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495159066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495191834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495224602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495257370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495290138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495322906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / 4XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495355674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Military Green / 5XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495388442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69ae5ffd831bb.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495421210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495453978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495486746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495519514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495552282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495585050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / 4XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495617818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Tropical Blue / 5XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495650586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-and-back-69ae5ffd86baf.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Graphite Heather / S](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495683354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-and-back-69ae5ffd8b45a.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Graphite Heather / M](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495716122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-and-back-69ae5ffd8b45a.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Graphite Heather / L](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495748890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-and-back-69ae5ffd8b45a.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Graphite Heather / XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495781658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-and-back-69ae5ffd8b45a.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Graphite Heather / 2XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495814426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-and-back-69ae5ffd8b45a.jpg?v=1773036017
+    Price: $28.00 USD
+  - [Graphite Heather / 3XL](https://rusticroots01.com/products/unisex-classic-tee?variant=51577495847194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-and-back-69ae5ffd8b45a.jpg?v=1773036017
     Price: $28.00 USD
 - [Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-2): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel.• 50% cotton, 50% polyester• Pre-shrunk• Classic fit• 1x1 athletic rib knit collar with spandex• Air-jet spun yarn with a soft feel• Double-needle stitched collar, shoulders, armholes, cuffs, and hemDisclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white.• Subtle orange hue shifts with lighting in the Orange color variant.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:37:50Z
@@ -685,359 +677,359 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-sport-grey-front-6968157386227.jpg?v=1768428942
     Price: $55.00 USD
-- [Women's Relaxed T-Shirt](https://rusticroots01.com/products/womens-relaxed-t-shirt): This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:37:50Z
+- [BOONDOCKING LIFE Women's Relaxed T-Shirt](https://rusticroots01.com/products/womens-relaxed-t-shirt): This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+  Updated: 2026-03-09T05:15:30Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-696835e14402d.jpg?v=1768437245
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
   - [S](https://rusticroots01.com/products/womens-relaxed-t-shirt?variant=51579014218010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-696835e14402d.jpg?v=1768437245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
     Price: $40.00 USD
   - [M](https://rusticroots01.com/products/womens-relaxed-t-shirt?variant=51579014250778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-696835e14402d.jpg?v=1768437245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
     Price: $40.00 USD
   - [L](https://rusticroots01.com/products/womens-relaxed-t-shirt?variant=51579014283546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-696835e14402d.jpg?v=1768437245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
     Price: $40.00 USD
   - [XL](https://rusticroots01.com/products/womens-relaxed-t-shirt?variant=51579014316314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-696835e14402d.jpg?v=1768437245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
     Price: $40.00 USD
   - [2XL](https://rusticroots01.com/products/womens-relaxed-t-shirt?variant=51579014349082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-696835e14402d.jpg?v=1768437245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
     Price: $40.00 USD
   - [3XL](https://rusticroots01.com/products/womens-relaxed-t-shirt?variant=51579014381850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-696835e14402d.jpg?v=1768437245
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
     Price: $40.00 USD
 - [Unisex eco raglan hoodie- WHAT DO U LOVE](https://rusticroots01.com/products/unisex-eco-raglan-hoodie): If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:37:50Z
+  Updated: 2026-03-10T04:28:10Z
   Vendor: RUSTIC ROOTS 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
   - [Black / XS](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176714522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-696ed152a7ea2.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
     Price: $75.00 USD
   - [Black / S](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176747290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-696ed152a7ea2.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
     Price: $75.00 USD
   - [Black / M](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176780058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-696ed152a7ea2.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
     Price: $75.00 USD
   - [Black / L](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176812826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-696ed152a7ea2.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
     Price: $75.00 USD
   - [Black / XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176845594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-696ed152a7ea2.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
     Price: $75.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176878362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-696ed152a7ea2.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
     Price: $75.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176911130)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-696ed152a7ea2.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69ae51de98ccd.jpg?v=1773031915
     Price: $75.00 USD
   - [Burgundy / XS](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176943898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-696ed152a91b1.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-69ae51de9ecc7.jpg?v=1773031914
     Price: $75.00 USD
   - [Burgundy / S](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579176976666)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-696ed152a91b1.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-69ae51de9ecc7.jpg?v=1773031914
     Price: $75.00 USD
   - [Burgundy / M](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177009434)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-696ed152a91b1.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-69ae51de9ecc7.jpg?v=1773031914
     Price: $75.00 USD
   - [Burgundy / L](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177042202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-696ed152a91b1.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-69ae51de9ecc7.jpg?v=1773031914
     Price: $75.00 USD
   - [Burgundy / XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177074970)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-696ed152a91b1.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-69ae51de9ecc7.jpg?v=1773031914
     Price: $75.00 USD
   - [Burgundy / 2XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177107738)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-696ed152a91b1.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-69ae51de9ecc7.jpg?v=1773031914
     Price: $75.00 USD
   - [Burgundy / 3XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177140506)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-696ed152a91b1.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burgundy-front-69ae51de9ecc7.jpg?v=1773031914
     Price: $75.00 USD
   - [Bottle green / XS](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177173274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-69ae51dea228c.jpg?v=1773031915
     Price: $75.00 USD
   - [Bottle green / S](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177206042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-69ae51dea228c.jpg?v=1773031915
     Price: $75.00 USD
   - [Bottle green / M](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177238810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-69ae51dea228c.jpg?v=1773031915
     Price: $75.00 USD
   - [Bottle green / L](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177271578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-69ae51dea228c.jpg?v=1773031915
     Price: $75.00 USD
   - [Bottle green / XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177304346)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-69ae51dea228c.jpg?v=1773031915
     Price: $75.00 USD
   - [Bottle green / 2XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177337114)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-69ae51dea228c.jpg?v=1773031915
     Price: $75.00 USD
   - [Bottle green / 3XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177369882)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-696ed152a6cd0.jpg?v=1768870235
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-bottle-green-front-69ae51dea228c.jpg?v=1773031915
     Price: $75.00 USD
   - [Burnt Orange / XS](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177402650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-696ed152aa372.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
   - [Burnt Orange / S](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177435418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-696ed152aa372.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
   - [Burnt Orange / M](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177468186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-696ed152aa372.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
   - [Burnt Orange / L](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177500954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-696ed152aa372.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
   - [Burnt Orange / XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177533722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-696ed152aa372.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
   - [Burnt Orange / 2XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177566490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-696ed152aa372.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
   - [Burnt Orange / 3XL](https://rusticroots01.com/products/unisex-eco-raglan-hoodie?variant=51579177599258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-696ed152aa372.jpg?v=1768870236
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
 - [Unisex classic tee OFF GRID HERO](https://rusticroots01.com/products/unisex-classic-tee-1): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
-  Updated: 2026-02-26T04:37:50Z
+  Updated: 2026-03-09T04:18:34Z
   Vendor: RUSTIC ROOTS 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-696864f663ccd.jpg?v=1768449291
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
   - [Maroon / S](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582546202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Maroon / M](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582578970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Maroon / L](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582611738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Maroon / XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582644506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Maroon / 2XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582677274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Maroon / 3XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582710042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Maroon / 4XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582742810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Maroon / 5XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582775578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-696864f668cf4.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-right-front-69ae49fd57087.jpg?v=1773029906
     Price: $28.00 USD
   - [Black / S](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582808346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Black / M](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582841114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Black / L](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582873882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Black / XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582906650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582939418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579582972186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Black / 4XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583004954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Black / 5XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583037722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-696864f669c6a.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69ae49fd5d0c8.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / S](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583070490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / M](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583103258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / L](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583136026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583168794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / 2XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583201562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / 3XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583234330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / 4XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583267098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Navy / 5XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583299866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-696864f66c6e0.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69ae49fd6133d.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / S](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583332634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / M](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583365402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / L](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583398170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583430938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / 2XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583463706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / 3XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583496474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / 4XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583529242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Forest Green / 5XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583562010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-696864f670d6e.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69ae49fd68904.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Chocolate / S](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583594778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-696864f663ccd.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69ae49fd721cb.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Chocolate / M](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583627546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-696864f663ccd.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69ae49fd721cb.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Chocolate / L](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583660314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-696864f663ccd.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69ae49fd721cb.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Chocolate / XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583693082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-696864f663ccd.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69ae49fd721cb.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Chocolate / 2XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583725850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-696864f663ccd.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69ae49fd721cb.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Chocolate / 3XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583758618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-696864f663ccd.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69ae49fd721cb.jpg?v=1773029904
     Price: $28.00 USD
   - [Cardinal / S](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583791386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-696864f67ad38.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-69ae49fd7e521.jpg?v=1773029904
     Price: $28.00 USD
   - [Cardinal / M](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583824154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-696864f67ad38.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-69ae49fd7e521.jpg?v=1773029904
     Price: $28.00 USD
   - [Cardinal / L](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583856922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-696864f67ad38.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-69ae49fd7e521.jpg?v=1773029904
     Price: $28.00 USD
   - [Cardinal / XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583889690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-696864f67ad38.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-69ae49fd7e521.jpg?v=1773029904
     Price: $28.00 USD
   - [Cardinal / 2XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583922458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-696864f67ad38.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-69ae49fd7e521.jpg?v=1773029904
     Price: $28.00 USD
   - [Cardinal / 3XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583955226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-696864f67ad38.jpg?v=1768449291
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-cardinal-front-69ae49fd7e521.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Heather / S](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579583987994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696864f683c8d.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69ae49fd8ab27.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579584020762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696864f683c8d.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69ae49fd8ab27.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579584053530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696864f683c8d.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69ae49fd8ab27.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579584086298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696864f683c8d.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69ae49fd8ab27.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579584119066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696864f683c8d.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69ae49fd8ab27.jpg?v=1773029904
     Price: $28.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/unisex-classic-tee-1?variant=51579584151834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-696864f683c8d.jpg?v=1768449290
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69ae49fd8ab27.jpg?v=1773029904
     Price: $28.00 USD
 - [OFF GRID HAT](https://rusticroots01.com/products/dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh
   Updated: 2026-02-26T04:37:50Z
@@ -1046,91 +1038,71 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-6969a255464bf.jpg?v=1768530522
   Price: $40.00 USD
-- [Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-3): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-02-26T04:37:50Z
+- [CAMPING LIFE  Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-3): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
+  Updated: 2026-03-10T01:44:22Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-heliconia-front-6969b0c3c5aad.jpg?v=1768534233
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4fce106d1.jpg?v=1773031388
   - [Indigo Blue / S](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014385434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-6969b0c3c8bea.jpg?v=1768534234
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4fce106d1.jpg?v=1773031388
     Price: $55.00 USD
   - [Indigo Blue / M](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014418202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-6969b0c3c8bea.jpg?v=1768534234
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4fce106d1.jpg?v=1773031388
     Price: $55.00 USD
   - [Indigo Blue / L](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014450970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-6969b0c3c8bea.jpg?v=1768534234
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4fce106d1.jpg?v=1773031388
     Price: $55.00 USD
   - [Indigo Blue / XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014483738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-6969b0c3c8bea.jpg?v=1768534234
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4fce106d1.jpg?v=1773031388
     Price: $55.00 USD
   - [Indigo Blue / 2XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014516506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-6969b0c3c8bea.jpg?v=1768534234
-    Price: $55.00 USD
-  - [Heliconia / S](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014549274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-heliconia-front-6969b0c3c5aad.jpg?v=1768534233
-    Price: $55.00 USD
-  - [Heliconia / M](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014582042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-heliconia-front-6969b0c3c5aad.jpg?v=1768534233
-    Price: $55.00 USD
-  - [Heliconia / L](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014614810)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-heliconia-front-6969b0c3c5aad.jpg?v=1768534233
-    Price: $55.00 USD
-  - [Heliconia / XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014647578)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-heliconia-front-6969b0c3c5aad.jpg?v=1768534233
-    Price: $55.00 USD
-  - [Heliconia / 2XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014680346)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-heliconia-front-6969b0c3c5aad.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4fce106d1.jpg?v=1773031388
     Price: $55.00 USD
   - [Light Pink / S](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014713114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-6969b0c3cb50c.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4fce1c93b.jpg?v=1773031389
     Price: $55.00 USD
   - [Light Pink / M](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014745882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-6969b0c3cb50c.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4fce1c93b.jpg?v=1773031389
     Price: $55.00 USD
   - [Light Pink / L](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014778650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-6969b0c3cb50c.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4fce1c93b.jpg?v=1773031389
     Price: $55.00 USD
   - [Light Pink / XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014811418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-6969b0c3cb50c.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4fce1c93b.jpg?v=1773031389
     Price: $55.00 USD
   - [Light Pink / 2XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014844186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-6969b0c3cb50c.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4fce1c93b.jpg?v=1773031389
     Price: $55.00 USD
   - [Ash / S](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014876954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-6969b0c3cf4ad.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4fce229e5.jpg?v=1773031389
     Price: $55.00 USD
   - [Ash / M](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014909722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-6969b0c3cf4ad.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4fce229e5.jpg?v=1773031389
     Price: $55.00 USD
   - [Ash / L](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014942490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-6969b0c3cf4ad.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4fce229e5.jpg?v=1773031389
     Price: $55.00 USD
   - [Ash / XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584014975258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-6969b0c3cf4ad.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4fce229e5.jpg?v=1773031389
     Price: $55.00 USD
   - [Ash / 2XL](https://rusticroots01.com/products/unisex-sweatshirt-3?variant=51584015008026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-6969b0c3cf4ad.jpg?v=1768534233
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4fce229e5.jpg?v=1773031389
     Price: $55.00 USD
 - [Unisex Hoodie](https://rusticroots01.com/products/unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:37:51Z
@@ -1162,211 +1134,67 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696efa38bb509.jpg?v=1768880705
     Price: $75.00 USD
-- [Unisex t-shirt BOONDOCKING](https://rusticroots01.com/products/unisex-t-shirt): This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57 4XL 34 30 58-61 5XL 35 31 62-65
-  Updated: 2026-02-26T04:37:51Z
+- [Unisex   NO ROADS NEEDED   TEE SHIRT](https://rusticroots01.com/products/unisex-t-shirt): This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57 4XL 34 30 58-61 5XL 35 31 62-65
+  Updated: 2026-03-10T06:49:48Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BOONDOCKING
+  Product Type: T SHIRT SHORT SLEEVE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-  - [Black Heather / XS](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087261466)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / S](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087294234)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / M](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087327002)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / L](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087359770)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087392538)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / 2XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087425306)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / 3XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087458074)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / 4XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087490842)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black Heather / 5XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087523610)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-6969c52e5bc86.jpg?v=1768539461
-    Price: $35.00 USD
-  - [Black / XS](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087556378)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / S](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087589146)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / M](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087621914)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / L](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087654682)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087687450)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / 2XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087720218)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / 3XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087752986)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / 4XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087785754)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Black / 5XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087818522)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-front-6969c52e5e5a4.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / XS](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087851290)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / S](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087884058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / M](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087916826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / L](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087949594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584087982362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / 2XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088015130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / 3XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088047898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / 4XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088080666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Navy / 5XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088113434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-6969c52e6314f.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Forest / S](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088146202)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-6969c52e6c6fa.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Forest / M](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088178970)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-6969c52e6c6fa.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Forest / L](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088211738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-6969c52e6c6fa.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Forest / XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088244506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-6969c52e6c6fa.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Forest / 2XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088277274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-6969c52e6c6fa.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Forest / 3XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088310042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-6969c52e6c6fa.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Forest / 4XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088342810)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-6969c52e6c6fa.jpg?v=1768539460
-    Price: $35.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea6df0c.jpg?v=1773125202
   - [Berry / S](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088375578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-6969c52e772bc.jpg?v=1768539461
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-69afbcea5f63c.jpg?v=1773124856
     Price: $35.00 USD
   - [Berry / M](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088408346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-6969c52e772bc.jpg?v=1768539461
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-69afbcea5f63c.jpg?v=1773124856
     Price: $35.00 USD
   - [Berry / L](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088441114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-6969c52e772bc.jpg?v=1768539461
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-69afbcea5f63c.jpg?v=1773124856
     Price: $35.00 USD
   - [Berry / XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088473882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-6969c52e772bc.jpg?v=1768539461
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-69afbcea5f63c.jpg?v=1773124856
     Price: $35.00 USD
   - [Berry / 2XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088506650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-6969c52e772bc.jpg?v=1768539461
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-69afbcea5f63c.jpg?v=1773124856
     Price: $35.00 USD
   - [Berry / 3XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088539418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-6969c52e772bc.jpg?v=1768539461
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-69afbcea5f63c.jpg?v=1773124856
     Price: $35.00 USD
   - [Berry / 4XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088572186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-6969c52e772bc.jpg?v=1768539461
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-69afbcea5f63c.jpg?v=1773124856
     Price: $35.00 USD
   - [Army / S](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088604954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-6969c52e839f6.jpg?v=1768539460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
   - [Army / M](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088637722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-6969c52e839f6.jpg?v=1768539460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
   - [Army / L](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088670490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-6969c52e839f6.jpg?v=1768539460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
   - [Army / XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088703258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-6969c52e839f6.jpg?v=1768539460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
   - [Army / 2XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088736026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-6969c52e839f6.jpg?v=1768539460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
   - [Army / 3XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088768794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-6969c52e839f6.jpg?v=1768539460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
   - [Army / 4XL](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088801562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-6969c52e839f6.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Olive / S](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088834330)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-olive-front-6969c52e91f73.jpg?v=1768539460
-    Price: $35.00 USD
-  - [Olive / M](https://rusticroots01.com/products/unisex-t-shirt?variant=51584088867098)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-olive-front-6969c52e91f73.jpg?v=1768539460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
 - [Vintage Cotton Twill Cap WILD COW](https://rusticroots01.com/products/vintage-cotton-twill-cap): Everybody knows that dad caps are no longer just for dads, so get an embroidered cotton twill cap for yourself! This one's really special thanks to the intricate embroidery detail and the washed out vintage feel. • 100% cotton twill • 6-panel unstructured cap with a low profile • 6 sewn eyelets • Black sweatband • Metal snap buckle with an antique brass finish • Washed-out vintage effect • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 18 ½-23 ¼ 4 ⅜ 2 ⅞ 7 ⅛
   Updated: 2026-02-26T04:37:51Z
@@ -2045,7 +1873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-6971b94c0a11d.jpg?v=1769060695
     Price: $75.00 USD
 - [Unisex t-shirt OFF GRID LIFESTYLE](https://rusticroots01.com/products/unisex-t-shirt-1): This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57 4XL 34 30 58-61
-  Updated: 2026-02-26T04:37:52Z
+  Updated: 2026-03-09T01:58:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -2325,14 +2153,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-696ded903c9ff.jpg?v=1768811940
     Price: $28.00 USD
 - [Distressed  Hat BOONDOCKING](https://rusticroots01.com/products/distressed-hat-boondocking): Expand your headwear collection with this fashionable dad hat. With a slightly distressed brim and crown fabric, it’ll add just the right amount of edge to your look. For a quick and easy outfit pair it with slacks, your favorite jeans, and a sports tee. • 100% pre-shrunk cotton twill • Soft crown • 6 sewn eyelets • 6 stitched rows on the brim • 6-panel unstructured cap with a low profile • Seamed front panel without buckram • Adjustable hook and loop closure • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:37:52Z
+  Updated: 2026-03-09T01:56:41Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/distressed-dad-hat-khaki-front-696eb3c818a68.jpg?v=1768862682
   Price: $40.00 USD
 - [Embroidered Beanie BOONDOCKING](https://rusticroots01.com/products/embroidered-beanie-boondocking): The perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing. • 60% cotton, 40% acrylic • Breathable cotton blend • Form-fitting shape • One size fits most This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 17 ⅜-17 ⅞ 8 ⅛ 2 ½ 8 ¼
-  Updated: 2026-02-26T04:37:52Z
+  Updated: 2026-03-09T01:55:09Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -3465,7 +3293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-6970560fd7a02.jpg?v=1768969762
     Price: $28.00 USD
 - [Unisex Hoodie W ILD ER NESS SWEATSHIRT](https://rusticroots01.com/products/unisex-hoodie-w-ild-er-ness-sweatshirt): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:37:55Z
+  Updated: 2026-03-09T16:49:22Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -3587,7 +3415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-697059c1ea700.jpg?v=1768970720
     Price: $78.00 USD
   - [Forest Green / 3XL](https://rusticroots01.com/products/unisex-hoodie-w-ild-er-ness-sweatshirt?variant=51612052455706)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-697059c1ea700.jpg?v=1768970720
     Price: $78.00 USD
   - [Military Green / S](https://rusticroots01.com/products/unisex-hoodie-w-ild-er-ness-sweatshirt?variant=51612052488474)
@@ -3644,31 +3472,31 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69705fd30ff29.jpg?v=1768972260
     Price: $28.00 USD
-- [Unisex Sweatshirt CAMPING DONT CARE](https://rusticroots01.com/products/unisex-sweatshirt-5): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:37:56Z
+- [Unisex Sweatshirt CAMPING   HAIR DONT CARE](https://rusticroots01.com/products/unisex-sweatshirt-5): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+  Updated: 2026-03-10T17:00:18Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-right-69706ea053610.jpg?v=1768976053
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae6a055b561.jpg?v=1773038098
   - [S](https://rusticroots01.com/products/unisex-sweatshirt-5?variant=51612198109466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-right-69706ea053610.jpg?v=1768976053
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae6a055b561.jpg?v=1773038098
     Price: $55.00 USD
   - [M](https://rusticroots01.com/products/unisex-sweatshirt-5?variant=51612198142234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-right-69706ea053610.jpg?v=1768976053
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae6a055b561.jpg?v=1773038098
     Price: $55.00 USD
   - [L](https://rusticroots01.com/products/unisex-sweatshirt-5?variant=51612198175002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-right-69706ea053610.jpg?v=1768976053
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae6a055b561.jpg?v=1773038098
     Price: $55.00 USD
   - [XL](https://rusticroots01.com/products/unisex-sweatshirt-5?variant=51612198207770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-right-69706ea053610.jpg?v=1768976053
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae6a055b561.jpg?v=1773038098
     Price: $55.00 USD
   - [2XL](https://rusticroots01.com/products/unisex-sweatshirt-5?variant=51612198240538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-right-69706ea053610.jpg?v=1768976053
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae6a055b561.jpg?v=1773038098
     Price: $55.00 USD
 - [Unisex organic mid-light t-shirt THERAPY TEE](https://rusticroots01.com/products/unisex-organic-mid-light-t-shirt): Meet your new favorite tee: it’s eco-friendly, organic, and chic. Made from 100% organic cotton, it’s soft like a cloud but sturdy enough for all your mid-season adventures. Topped with a classic fit, this t-shirt is the perfect choice. • 100% organic combed ring-spun cotton • Fabric weight: 4.6 oz./yd.² (155 g/m²) • Regular fit • Set-in sleeves • 1 × 1 rib at collar • Double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape on the inside of the back • The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard) • Blank product sourced from Bangladesh The sizes correspond to a bigger size in the European market, customers from that region should order a size down. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 28 13 ⅜-14 ⅝ 8 ¼ M 29 ⅛ 15 -16 ⅛ 8 ½ L 29 ⅞ 16 ½-17 ¾ 8 ⅝ XL 31 ⅛ 18 ⅛-19 ¼ 8 ⅞ 2XL 32 ⅛ 19 ¾-20 ⅞ 9
   Updated: 2026-02-26T04:37:56Z
@@ -3932,83 +3760,83 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
     Price: $78.00 USD
-- [Unisex Premium Sweatshirt](https://rusticroots01.com/products/unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-02-26T04:37:56Z
+- [HAPPY CAMPER Unisex Premium Sweatshirt](https://rusticroots01.com/products/unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
+  Updated: 2026-03-09T08:02:19Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1768979550
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1773043331
   - [Black / S](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387639578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1773043331
     Price: $54.00 USD
   - [Black / M](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387672346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1773043331
     Price: $54.00 USD
   - [Black / L](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387705114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1773043331
     Price: $54.00 USD
   - [Black / XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387737882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1773043331
     Price: $54.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387770650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1773043331
     Price: $54.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387803418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-69707c4999277.jpg?v=1773043331
     Price: $54.00 USD
   - [Navy Blazer / S](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387836186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1773043331
     Price: $54.00 USD
   - [Navy Blazer / M](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387868954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1773043331
     Price: $54.00 USD
   - [Navy Blazer / L](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387901722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1773043331
     Price: $54.00 USD
   - [Navy Blazer / XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387934490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1773043331
     Price: $54.00 USD
   - [Navy Blazer / 2XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612387967258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1773043331
     Price: $54.00 USD
   - [Navy Blazer / 3XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388000026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-69707c499f5a7.jpg?v=1773043331
     Price: $54.00 USD
   - [Charcoal Heather / S](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388032794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1773043331
     Price: $54.00 USD
   - [Charcoal Heather / M](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388065562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1773043331
     Price: $54.00 USD
   - [Charcoal Heather / L](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388098330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1773043331
     Price: $54.00 USD
   - [Charcoal Heather / XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388131098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1773043331
     Price: $54.00 USD
   - [Charcoal Heather / 2XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388163866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1773043331
     Price: $54.00 USD
   - [Charcoal Heather / 3XL](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388196634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1768979550
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69707c49a25eb.jpg?v=1773043331
     Price: $54.00 USD
   - [Vintage Black / S](https://rusticroots01.com/products/unisex-premium-sweatshirt?variant=51612388229402)
     Availability: Available
@@ -6268,130 +6096,130 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-697c53d4c7b39.jpg?v=1769755629
     Price: $40.00 USD
 - [Women's Relaxed T-Shirt MY THE FORCE BE WITH YOU](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you): This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT WIDTH (inches) SHIRT LENGTH (inches) US SIZES EU SIZE UK SIZE SLEEVE LENGTH (inches) S 18 ½ 25 ¼ 6-8 36-38 10-12 7 ¾ M 20 26 10-12 40-42 14-16 8 ¼ L 22 26 ¾ 14-16 44-46 18-20 8 ¾ XL 24 27 ½ 18-20 48-50 22-24 9 ½ 2XL 26 28 ¼ 22-24 52-54 26-28 10 ¼ 3XL 28 29 26-28 56-58 30-32 10 ¾
-  Updated: 2026-02-26T04:38:00Z
+  Updated: 2026-03-10T02:40:37Z
   Vendor: RUSTIC ROOTS 
-  Product Type: OFF GRID
+  Product Type: T SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1769756249
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-front-697c56485de01.jpg?v=1773042005
   - [Navy / S](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644893856026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1773042005
     Price: $40.00 USD
   - [Navy / M](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644893888794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1773042005
     Price: $40.00 USD
   - [Navy / L](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644893921562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1773042005
     Price: $40.00 USD
   - [Navy / XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644893954330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1773042005
     Price: $40.00 USD
   - [Navy / 2XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644893987098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1773042005
     Price: $40.00 USD
   - [Navy / 3XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894019866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-navy-front-697c56485f099.jpg?v=1773042005
     Price: $40.00 USD
   - [Black / S](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894052634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1773042005
     Price: $40.00 USD
   - [Black / M](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894085402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1773042005
     Price: $40.00 USD
   - [Black / L](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894118170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1773042005
     Price: $40.00 USD
   - [Black / XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894150938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1773042005
     Price: $40.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894183706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1773042005
     Price: $40.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894216474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-black-left-front-697c56485bc66.jpg?v=1773042005
     Price: $40.00 USD
   - [Dark Grey Heather / S](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894249242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1773042005
     Price: $40.00 USD
   - [Dark Grey Heather / M](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894282010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1773042005
     Price: $40.00 USD
   - [Dark Grey Heather / L](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894314778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1773042005
     Price: $40.00 USD
   - [Dark Grey Heather / XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894347546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1773042005
     Price: $40.00 USD
   - [Dark Grey Heather / 2XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894380314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1773042005
     Price: $40.00 USD
   - [Dark Grey Heather / 3XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894413082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-dark-grey-heather-front-697c564860e18.jpg?v=1773042005
     Price: $40.00 USD
   - [Athletic Heather / S](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894445850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1773042005
     Price: $40.00 USD
   - [Athletic Heather / M](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894478618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1773042005
     Price: $40.00 USD
   - [Athletic Heather / L](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894511386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1773042005
     Price: $40.00 USD
   - [Athletic Heather / XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894544154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1773042005
     Price: $40.00 USD
   - [Athletic Heather / 2XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894576922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1773042005
     Price: $40.00 USD
   - [Athletic Heather / 3XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894609690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-athletic-heather-front-697c564863025.jpg?v=1773042005
     Price: $40.00 USD
   - [Heather Stone / S](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894642458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1773042005
     Price: $40.00 USD
   - [Heather Stone / M](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894675226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1773042005
     Price: $40.00 USD
   - [Heather Stone / L](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894707994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1773042005
     Price: $40.00 USD
   - [Heather Stone / XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894740762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1773042005
     Price: $40.00 USD
   - [Heather Stone / 2XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894773530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1773042005
     Price: $40.00 USD
   - [Heather Stone / 3XL](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you?variant=51644894806298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1769756249
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1773042005
     Price: $40.00 USD
 - [Unisex heavy blend zip hoodie OFF GRID LIFE](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie-off-grid-life): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:38:00Z
@@ -7690,9 +7518,9 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-fitted-long-sleeve-shirt-white-front-698566dcb19a7.jpg?v=1770350321
     Price: $57.00 USD
 - [Men’s Long Sleeve Shirt RVING ROCKS](https://rusticroots01.com/products/men-s-long-sleeve-shirt-rving-rocks): A good long-sleeved shirt is a men's fashion must-have. Add this wardrobe essential to your collection, and have a great to-go option for a casual look, or a relaxed business outfit. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Classic fit with long sleeves and rib cuffs • Pre-shrunk jersey knit • Seamless double-needle 7⁄8'' (2.2 cm) collar • Double-needle bottom hem • Taped neck and shoulders • Quarter-turned to avoid crease down the middle Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 4XL 34 30
-  Updated: 2026-02-27T23:36:58Z
+  Updated: 2026-03-10T12:20:36Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: MENS SHIRTS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-long-sleeve-shirt-white-left-front-698591f31c16f.jpg?v=1770361359
   - [S](https://rusticroots01.com/products/men-s-long-sleeve-shirt-rving-rocks?variant=51666985287962)
@@ -8285,31 +8113,31 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-white-right-front-69880caf961cd.jpg?v=1770523848
     Price: $35.00 USD
-- [Unisex Sweatshirt SMORE](https://rusticroots01.com/products/unisex-sweatshirt-4): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-02-26T23:28:59Z
+- [OFF ROAD ADVENTURE Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-4): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
+  Updated: 2026-03-10T18:09:03Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: OFF ROAD SHIRT SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-6989536371624.jpg?v=1770607466
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae7cbd49c46.jpg?v=1773132630
   - [Charcoal / S](https://rusticroots01.com/products/unisex-sweatshirt-4?variant=51671739236634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-6989536371624.jpg?v=1770607466
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae7cbd49c46.jpg?v=1773132630
     Price: $55.00 USD
   - [Charcoal / M](https://rusticroots01.com/products/unisex-sweatshirt-4?variant=51671739269402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-6989536371624.jpg?v=1770607466
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae7cbd49c46.jpg?v=1773132630
     Price: $55.00 USD
   - [Charcoal / L](https://rusticroots01.com/products/unisex-sweatshirt-4?variant=51671739302170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-6989536371624.jpg?v=1770607466
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae7cbd49c46.jpg?v=1773132630
     Price: $55.00 USD
   - [Charcoal / XL](https://rusticroots01.com/products/unisex-sweatshirt-4?variant=51671739334938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-6989536371624.jpg?v=1770607466
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae7cbd49c46.jpg?v=1773132630
     Price: $55.00 USD
   - [Charcoal / 2XL](https://rusticroots01.com/products/unisex-sweatshirt-4?variant=51671739367706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-6989536371624.jpg?v=1770607466
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae7cbd49c46.jpg?v=1773132630
     Price: $55.00 USD
 - [Tough Case for iPhone® RV HOOKUPS RVLIFE](https://rusticroots01.com/products/tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:38:04Z
@@ -8511,35 +8339,35 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-69881c59a2b8a.jpg?v=1770527848
     Price: $35.00 USD
-- [Short-Sleeve Unisex T-Shirt LAKE LIFE](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton• Sport Grey is 90% ring-spun cotton, 10% polyester• Dark Heather is 65% polyester, 35% cotton• 4.5 oz/yd² (153 g/m²)• Shoulder-to-shoulder taping• Quarter-turned to avoid crease down the center• Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or GuatemalaDisclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-02-26T04:38:05Z
+- [4 X4 OFF ROAD TRUCK Short-Sleeve Unisex TSHIRT](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton• Sport Grey is 90% ring-spun cotton, 10% polyester• Dark Heather is 65% polyester, 35% cotton• 4.5 oz/yd² (153 g/m²)• Shoulder-to-shoulder taping• Quarter-turned to avoid crease down the center• Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or GuatemalaDisclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-03-10T18:02:51Z
   Vendor: RUSTIC ROOTS 
-  Product Type: LAKE LIFE
+  Product Type: OFF ROAD SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-right-front-69881fcd3343d.jpg?v=1770528734
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae75ecef78b.jpg?v=1773041146
   - [S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life?variant=51671791960346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-right-front-69881fcd3343d.jpg?v=1770528734
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae75ecef78b.jpg?v=1773041146
     Price: $35.00 USD
   - [M](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life?variant=51671791993114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-right-front-69881fcd3343d.jpg?v=1770528734
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae75ecef78b.jpg?v=1773041146
     Price: $35.00 USD
   - [L](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life?variant=51671792025882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-right-front-69881fcd3343d.jpg?v=1770528734
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae75ecef78b.jpg?v=1773041146
     Price: $35.00 USD
   - [XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life?variant=51671792058650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-right-front-69881fcd3343d.jpg?v=1770528734
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae75ecef78b.jpg?v=1773041146
     Price: $35.00 USD
   - [2XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life?variant=51671792091418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-right-front-69881fcd3343d.jpg?v=1770528734
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae75ecef78b.jpg?v=1773041146
     Price: $35.00 USD
   - [3XL](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life?variant=51671792124186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-right-front-69881fcd3343d.jpg?v=1770528734
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae75ecef78b.jpg?v=1773041146
     Price: $35.00 USD
 - [Teddy bear with   t-shirt RV LIFE](https://rusticroots01.com/products/teddy-bear-with-a-t-shirt-rv-life): Meet our cute teddy bear wearing a cool t-shirt. Made from the finest and softest materials, it’s the perfect cuddling buddy for people of all ages. Teddy: • Made from polyester fiber • Filled with PE/PVC pellets • Weight: 9.21 oz. (0.26 kg) • Measures 9.5″ (24.13 cm) sitting down • One-size T-shirt: • 100% polyester Blank product sourced from China, printed in the US. Disclaimer: This product is not suitable for children under 3 years of age. Important: This product is available in the US only. If your shipping address is outside this region, please choose a different product.
   Updated: 2026-02-28T00:29:32Z
@@ -8548,35 +8376,35 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/teddy-bear-with-a-t-shirt-white-front-69882494d8fca.jpg?v=1770529959
   Price: $46.30 USD
-- [Unisex Hoodie LAKE LIFE](https://rusticroots01.com/products/unisex-hoodie-lake-life): Ready to slay? Think high-quality cotton with a comfort-fitted hood, matching drawstrings, and a front pocket. Upgrade your look with this dope premium hoodie. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:38:05Z
+- [Unisex Hoodie CREATED WITH A PURPOSE HOODIE](https://rusticroots01.com/products/unisex-hoodie-lake-life): Ready to slay? Think high-quality cotton with a comfort-fitted hood, matching drawstrings, and a front pocket. Upgrade your look with this dope premium hoodie. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+  Updated: 2026-03-10T09:06:45Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69882912b0340.jpg?v=1770531115
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
   - [S](https://rusticroots01.com/products/unisex-hoodie-lake-life?variant=51671839080730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69882912b0340.jpg?v=1770531115
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
     Price: $60.00 USD
   - [M](https://rusticroots01.com/products/unisex-hoodie-lake-life?variant=51671839113498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69882912b0340.jpg?v=1770531115
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
     Price: $60.00 USD
   - [L](https://rusticroots01.com/products/unisex-hoodie-lake-life?variant=51671839146266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69882912b0340.jpg?v=1770531115
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
     Price: $60.00 USD
   - [XL](https://rusticroots01.com/products/unisex-hoodie-lake-life?variant=51671839179034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69882912b0340.jpg?v=1770531115
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
     Price: $60.00 USD
   - [2XL](https://rusticroots01.com/products/unisex-hoodie-lake-life?variant=51671839211802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69882912b0340.jpg?v=1770531115
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
     Price: $60.00 USD
   - [3XL](https://rusticroots01.com/products/unisex-hoodie-lake-life?variant=51671839244570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69882912b0340.jpg?v=1770531115
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
     Price: $60.00 USD
 - [Cuffed Beanie RV LIFE HEART](https://rusticroots01.com/products/cuffed-beanie-rv-life-heart): A snug, form-fitting beanie. It's not only a great head-warming piece but a staple accessory in anyone's wardrobe. • 100% Turbo Acrylic • 12″ (30 cm) in length • Hypoallergenic • Unisex style • Hand washable • Blank product sourced from Vietnam, Bangladesh or the Republic of Korea This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 17 ¼-18 ½ 8 ⅝ 3 8 ⅛
   Updated: 2026-02-26T04:38:05Z
@@ -8810,35 +8638,35 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-clear-case-for-iphone-iphone-17-front-698a87ec611e5.jpg?v=1770686462
     Price: $35.00 USD
-- [Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee-4): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-02-26T04:38:06Z
+- [DEER MOUNTAIN   Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee-4): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
+  Updated: 2026-03-10T08:49:00Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: RV LIFE T SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-698aa5027c8e1.jpg?v=1770693914
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3c6a0b.jpg?v=1773132287
   - [S](https://rusticroots01.com/products/unisex-classic-tee-4?variant=51678681202970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-698aa5027c8e1.jpg?v=1770693914
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3bf84d.jpg?v=1773132540
     Price: $35.00 USD
   - [M](https://rusticroots01.com/products/unisex-classic-tee-4?variant=51678681235738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-698aa5027c8e1.jpg?v=1770693914
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3bf84d.jpg?v=1773132540
     Price: $35.00 USD
   - [L](https://rusticroots01.com/products/unisex-classic-tee-4?variant=51678681268506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-698aa5027c8e1.jpg?v=1770693914
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3bf84d.jpg?v=1773132540
     Price: $35.00 USD
   - [XL](https://rusticroots01.com/products/unisex-classic-tee-4?variant=51678681301274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-698aa5027c8e1.jpg?v=1770693914
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3bf84d.jpg?v=1773132540
     Price: $35.00 USD
   - [2XL](https://rusticroots01.com/products/unisex-classic-tee-4?variant=51678681334042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-698aa5027c8e1.jpg?v=1770693914
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3bf84d.jpg?v=1773132540
     Price: $35.00 USD
   - [3XL](https://rusticroots01.com/products/unisex-classic-tee-4?variant=51678681366810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-698aa5027c8e1.jpg?v=1770693914
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3bf84d.jpg?v=1773132540
     Price: $38.00 USD
 - [BE REAL Unisex Premium Sweatshirt](https://rusticroots01.com/products/be-real-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
   Updated: 2026-03-02T15:37:18Z
@@ -8967,847 +8795,846 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-698aa73dc60af.jpg?v=1770694502
     Price: $65.00 USD
 - [CAMPING MODE Unisex Hoodie](https://rusticroots01.com/products/camping-mode-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-02-26T04:38:06Z
+  Updated: 2026-03-10T08:39:30Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: CAMPING MODE SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aacabe773a.jpg?v=1770695899
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69afd74d6c653.jpg?v=1773131944
   - [S](https://rusticroots01.com/products/camping-mode-unisex-hoodie?variant=51678713676058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aacabe773a.jpg?v=1770695899
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd74d65324.jpg?v=1773131612
     Price: $65.00 USD
   - [M](https://rusticroots01.com/products/camping-mode-unisex-hoodie?variant=51678713708826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aacabe773a.jpg?v=1770695899
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd74d65324.jpg?v=1773131612
     Price: $65.00 USD
   - [L](https://rusticroots01.com/products/camping-mode-unisex-hoodie?variant=51678713741594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aacabe773a.jpg?v=1770695899
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd74d65324.jpg?v=1773131612
     Price: $65.00 USD
   - [XL](https://rusticroots01.com/products/camping-mode-unisex-hoodie?variant=51678713774362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aacabe773a.jpg?v=1770695899
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd74d65324.jpg?v=1773131612
     Price: $65.00 USD
   - [2XL](https://rusticroots01.com/products/camping-mode-unisex-hoodie?variant=51678713807130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aacabe773a.jpg?v=1770695899
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd74d65324.jpg?v=1773131612
     Price: $65.00 USD
   - [3XL](https://rusticroots01.com/products/camping-mode-unisex-hoodie?variant=51678713839898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aacabe773a.jpg?v=1770695899
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd74d65324.jpg?v=1773131612
     Price: $65.00 USD
 - [SMORES AND MORE Unisex Hoodie](https://rusticroots01.com/products/smores-and-more-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-02-26T04:38:06Z
+  Updated: 2026-03-10T08:21:53Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: RV LIFE SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-698aaf1bebcc9.jpg?v=1770696495
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-69afd3df1aa85.jpg?v=1773130913
   - [Black / S](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678720786714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-698aaf1bebcc9.jpg?v=1770696495
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-69afd3df1aa85.jpg?v=1773130913
     Price: $65.00 USD
   - [Black / M](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678720819482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-698aaf1bebcc9.jpg?v=1770696495
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-69afd3df1aa85.jpg?v=1773130913
     Price: $65.00 USD
   - [Black / L](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678720852250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-698aaf1bebcc9.jpg?v=1770696495
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-69afd3df1aa85.jpg?v=1773130913
     Price: $65.00 USD
   - [Black / XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678720885018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-698aaf1bebcc9.jpg?v=1770696495
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-69afd3df1aa85.jpg?v=1773130913
     Price: $65.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678720917786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-698aaf1bebcc9.jpg?v=1770696495
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-69afd3df1aa85.jpg?v=1773130913
     Price: $65.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678720950554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-698aaf1bebcc9.jpg?v=1770696495
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-69afd3df1aa85.jpg?v=1773130913
     Price: $65.00 USD
   - [Lavender / S](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678720983322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698aaf1c02522.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afd3df1c491.jpg?v=1773130736
     Price: $65.00 USD
   - [Lavender / M](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721016090)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698aaf1c02522.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afd3df1c491.jpg?v=1773130736
     Price: $65.00 USD
   - [Lavender / L](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721048858)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698aaf1c02522.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afd3df1c491.jpg?v=1773130736
     Price: $65.00 USD
   - [Lavender / XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721081626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698aaf1c02522.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afd3df1c491.jpg?v=1773130736
     Price: $65.00 USD
   - [Lavender / 2XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721114394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698aaf1c02522.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afd3df1c491.jpg?v=1773130736
     Price: $65.00 USD
   - [Lavender / 3XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721147162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698aaf1c02522.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afd3df1c491.jpg?v=1773130736
     Price: $65.00 USD
   - [White / S](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721179930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aaf1c07740.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd3df10255.jpg?v=1773130913
     Price: $65.00 USD
   - [White / M](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721212698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aaf1c07740.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd3df10255.jpg?v=1773130913
     Price: $65.00 USD
   - [White / L](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721245466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aaf1c07740.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd3df10255.jpg?v=1773130913
     Price: $65.00 USD
   - [White / XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721278234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aaf1c07740.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd3df10255.jpg?v=1773130913
     Price: $65.00 USD
   - [White / 2XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721311002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aaf1c07740.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd3df10255.jpg?v=1773130913
     Price: $65.00 USD
   - [White / 3XL](https://rusticroots01.com/products/smores-and-more-unisex-hoodie?variant=51678721343770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698aaf1c07740.jpg?v=1770696496
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd3df10255.jpg?v=1773130913
     Price: $65.00 USD
 - [HEART FLAG Unisex Premium Sweatshirt](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-02-26T04:38:07Z
+  Updated: 2026-03-10T08:12:46Z
   Vendor: RUSTIC ROOTS 
-  Product Type: 
+  Product Type: LONG SLEEVE T SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-698abbab35d4e.jpg?v=1770699723
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd2209cbf0.jpg?v=1773130291
   - [Black / S](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004033306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-698abbab35d4e.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd2209cbf0.jpg?v=1773130291
     Price: $65.00 USD
   - [Black / M](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004066074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-698abbab35d4e.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd2209cbf0.jpg?v=1773130291
     Price: $65.00 USD
   - [Black / L](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004098842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-698abbab35d4e.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd2209cbf0.jpg?v=1773130291
     Price: $65.00 USD
   - [Black / XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004131610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-698abbab35d4e.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd2209cbf0.jpg?v=1773130291
     Price: $65.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004164378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-698abbab35d4e.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd2209cbf0.jpg?v=1773130291
     Price: $65.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004197146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-698abbab35d4e.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd2209cbf0.jpg?v=1773130291
     Price: $65.00 USD
   - [Charcoal Heather / S](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004229914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-698abbab3793d.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd220a6b5e.jpg?v=1773130291
     Price: $65.00 USD
   - [Charcoal Heather / M](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004262682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-698abbab3793d.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd220a6b5e.jpg?v=1773130291
     Price: $65.00 USD
   - [Charcoal Heather / L](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004295450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-698abbab3793d.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd220a6b5e.jpg?v=1773130291
     Price: $65.00 USD
   - [Charcoal Heather / XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004328218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-698abbab3793d.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd220a6b5e.jpg?v=1773130291
     Price: $65.00 USD
   - [Charcoal Heather / 2XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004360986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-698abbab3793d.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd220a6b5e.jpg?v=1773130291
     Price: $65.00 USD
   - [Charcoal Heather / 3XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004393754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-698abbab3793d.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd220a6b5e.jpg?v=1773130291
     Price: $65.00 USD
   - [Vintage Black / S](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004426522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-698abbab3a509.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd220a8c79.jpg?v=1773130291
     Price: $65.00 USD
   - [Vintage Black / M](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004459290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-698abbab3a509.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd220a8c79.jpg?v=1773130291
     Price: $65.00 USD
   - [Vintage Black / L](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004492058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-698abbab3a509.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd220a8c79.jpg?v=1773130291
     Price: $65.00 USD
   - [Vintage Black / XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004524826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-698abbab3a509.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd220a8c79.jpg?v=1773130291
     Price: $65.00 USD
   - [Vintage Black / 2XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004557594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-698abbab3a509.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd220a8c79.jpg?v=1773130291
     Price: $65.00 USD
   - [Vintage Black / 3XL](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt?variant=51679004590362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-698abbab3a509.jpg?v=1770699723
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd220a8c79.jpg?v=1773130291
     Price: $65.00 USD
 - [WE THE PEOPLEUnisex Premium Sweatshirt](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-02-26T04:38:07Z
+  Updated: 2026-03-10T08:05:58Z
   Vendor: RUSTIC ROOTS 
-  Product Type: OFF GRID
+  Product Type: OFF GRID LONG SLEEVE T SHIRTS
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-698ad022f142d.jpg?v=1770704945
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd09463f04.jpg?v=1773129893
   - [Black / S](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788433690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-698ad022f142d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd09463f04.jpg?v=1773129893
     Price: $65.00 USD
   - [Black / M](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788466458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-698ad022f142d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd09463f04.jpg?v=1773129893
     Price: $65.00 USD
   - [Black / L](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788499226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-698ad022f142d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd09463f04.jpg?v=1773129893
     Price: $65.00 USD
   - [Black / XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788531994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-698ad022f142d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd09463f04.jpg?v=1773129893
     Price: $65.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788564762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-698ad022f142d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd09463f04.jpg?v=1773129893
     Price: $65.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788597530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-left-front-698ad022f142d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69afd09463f04.jpg?v=1773129893
     Price: $65.00 USD
   - [Navy Blazer / S](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788630298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-left-front-698ad023048cd.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69afd09467784.jpg?v=1773129894
     Price: $65.00 USD
   - [Navy Blazer / M](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788663066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-left-front-698ad023048cd.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69afd09467784.jpg?v=1773129894
     Price: $65.00 USD
   - [Navy Blazer / L](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788695834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-left-front-698ad023048cd.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69afd09467784.jpg?v=1773129894
     Price: $65.00 USD
   - [Navy Blazer / XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788728602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-left-front-698ad023048cd.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69afd09467784.jpg?v=1773129894
     Price: $65.00 USD
   - [Navy Blazer / 2XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788761370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-left-front-698ad023048cd.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69afd09467784.jpg?v=1773129894
     Price: $65.00 USD
   - [Navy Blazer / 3XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788794138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-left-front-698ad023048cd.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69afd09467784.jpg?v=1773129894
     Price: $65.00 USD
   - [Charcoal Heather / S](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788826906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-left-front-698ad02310472.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd09469110.jpg?v=1773129894
     Price: $65.00 USD
   - [Charcoal Heather / M](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788859674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-left-front-698ad02310472.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd09469110.jpg?v=1773129894
     Price: $65.00 USD
   - [Charcoal Heather / L](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788892442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-left-front-698ad02310472.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd09469110.jpg?v=1773129894
     Price: $65.00 USD
   - [Charcoal Heather / XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788925210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-left-front-698ad02310472.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd09469110.jpg?v=1773129894
     Price: $65.00 USD
   - [Charcoal Heather / 2XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788957978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-left-front-698ad02310472.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd09469110.jpg?v=1773129894
     Price: $65.00 USD
   - [Charcoal Heather / 3XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679788990746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-left-front-698ad02310472.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69afd09469110.jpg?v=1773129894
     Price: $65.00 USD
   - [Vintage Black / S](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679789023514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-left-front-698ad0232136d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd0946b65c.jpg?v=1773129894
     Price: $65.00 USD
   - [Vintage Black / M](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679789056282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-left-front-698ad0232136d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd0946b65c.jpg?v=1773129894
     Price: $65.00 USD
   - [Vintage Black / L](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679789089050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-left-front-698ad0232136d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd0946b65c.jpg?v=1773129894
     Price: $65.00 USD
   - [Vintage Black / XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679789121818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-left-front-698ad0232136d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd0946b65c.jpg?v=1773129894
     Price: $65.00 USD
   - [Vintage Black / 2XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679789154586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-left-front-698ad0232136d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd0946b65c.jpg?v=1773129894
     Price: $65.00 USD
   - [Vintage Black / 3XL](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt?variant=51679789187354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-left-front-698ad0232136d.jpg?v=1770704945
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd0946b65c.jpg?v=1773129894
     Price: $65.00 USD
-- [Boondocking hat](https://rusticroots01.com/products/boondocking-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T04:38:07Z
+- [Boondocking  HAT](https://rusticroots01.com/products/boondocking-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
+  Updated: 2026-03-10T08:00:38Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BOONDOCKING
+  Product Type: BOONDOCKING HAT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-698bdfb0e7eec.jpg?v=1770774460
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69afcf1ec8bc6.jpg?v=1773129584
   - [Black](https://rusticroots01.com/products/boondocking-hat?variant=51685836030234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-698bdfb0e7eec.jpg?v=1770774460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69afcf1ec8bc6.jpg?v=1773129584
     Price: $35.00 USD
   - [Navy](https://rusticroots01.com/products/boondocking-hat?variant=51685836063002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-navy-front-698bdfb0ebdf3.jpg?v=1770774460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-navy-front-69afcf1ecda82.jpg?v=1773129637
     Price: $35.00 USD
   - [Dark Grey](https://rusticroots01.com/products/boondocking-hat?variant=51685836095770)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-dark-grey-front-69afcf1ecf76c.jpg?v=1773129637
     Price: $35.00 USD
   - [Stone](https://rusticroots01.com/products/boondocking-hat?variant=51685836128538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-698bdfb0edff8.jpg?v=1770774460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-69afcf1ed17d9.jpg?v=1773129637
     Price: $35.00 USD
   - [Light Blue](https://rusticroots01.com/products/boondocking-hat?variant=51685836161306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-698bdfb0e9b57.jpg?v=1770774460
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-69afcf1ed3c8f.jpg?v=1773129637
     Price: $35.00 USD
-- [Unisex Premium Sweatshirt](https://rusticroots01.com/products/unisex-premium-sweatshirt-1): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-02-26T04:38:07Z
+- [LOVE CAMPER   Unisex Premium Sweatshirt](https://rusticroots01.com/products/unisex-premium-sweatshirt-1): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
+  Updated: 2026-03-10T07:55:47Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: RV LIFE SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-698c325f5c7d1.jpg?v=1770795640
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
   - [S](https://rusticroots01.com/products/unisex-premium-sweatshirt-1?variant=51688467169562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-698c325f5c7d1.jpg?v=1770795640
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
     Price: $55.00 USD
   - [M](https://rusticroots01.com/products/unisex-premium-sweatshirt-1?variant=51688467202330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-698c325f5c7d1.jpg?v=1770795640
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
     Price: $55.00 USD
   - [L](https://rusticroots01.com/products/unisex-premium-sweatshirt-1?variant=51688467235098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-698c325f5c7d1.jpg?v=1770795640
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
     Price: $55.00 USD
   - [XL](https://rusticroots01.com/products/unisex-premium-sweatshirt-1?variant=51688467267866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-698c325f5c7d1.jpg?v=1770795640
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
     Price: $55.00 USD
   - [2XL](https://rusticroots01.com/products/unisex-premium-sweatshirt-1?variant=51688467300634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-698c325f5c7d1.jpg?v=1770795640
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
     Price: $56.00 USD
   - [3XL](https://rusticroots01.com/products/unisex-premium-sweatshirt-1?variant=51688467333402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-698c325f5c7d1.jpg?v=1770795640
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
     Price: $58.00 USD
 - [TAKE A HIKE Unisex heavy blend zip hoodie](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 27 38 - 41 33 ½ M 28 42 - 45 34 ½ L 29 46 - 49 35 ½ XL 30 50 - 53 36 ½ 2XL 31 54 - 57 37 ½ 3XL 32 58 - 61 38 ½
-  Updated: 2026-02-26T04:38:07Z
+  Updated: 2026-03-10T07:48:03Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: JACKET SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d06bde596f.jpg?v=1770850026
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afcc27db21b.jpg?v=1773128882
   - [Black / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622479642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d06bde596f.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afcc27db21b.jpg?v=1773128882
     Price: $65.00 USD
   - [Black / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622512410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d06bde596f.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afcc27db21b.jpg?v=1773128882
     Price: $65.00 USD
   - [Black / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622545178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d06bde596f.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afcc27db21b.jpg?v=1773128882
     Price: $65.00 USD
   - [Black / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622577946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d06bde596f.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afcc27db21b.jpg?v=1773128882
     Price: $65.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622610714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d06bde596f.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afcc27db21b.jpg?v=1773128882
     Price: $65.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622643482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d06bde596f.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afcc27db21b.jpg?v=1773128882
     Price: $67.00 USD
   - [Navy / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622676250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d06bde7606.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afcc27dd3f7.jpg?v=1773128882
     Price: $65.00 USD
   - [Navy / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622709018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d06bde7606.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afcc27dd3f7.jpg?v=1773128882
     Price: $65.00 USD
   - [Navy / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622741786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d06bde7606.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afcc27dd3f7.jpg?v=1773128882
     Price: $65.00 USD
   - [Navy / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622774554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d06bde7606.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afcc27dd3f7.jpg?v=1773128882
     Price: $65.00 USD
   - [Navy / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622807322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d06bde7606.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afcc27dd3f7.jpg?v=1773128882
     Price: $65.00 USD
   - [Navy / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622840090)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d06bde7606.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afcc27dd3f7.jpg?v=1773128882
     Price: $67.00 USD
   - [Dark Chocolate / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622872858)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d06bde819b.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afcc27de321.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Chocolate / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622905626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d06bde819b.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afcc27de321.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Chocolate / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622938394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d06bde819b.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afcc27de321.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Chocolate / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692622971162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d06bde819b.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afcc27de321.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Chocolate / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623003930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d06bde819b.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afcc27de321.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Chocolate / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623036698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d06bde819b.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afcc27de321.jpg?v=1773128882
     Price: $67.00 USD
   - [Forest Green / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623069466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d06bde9408.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afcc27df89c.jpg?v=1773128882
     Price: $65.00 USD
   - [Forest Green / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623102234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d06bde9408.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afcc27df89c.jpg?v=1773128882
     Price: $65.00 USD
   - [Forest Green / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623135002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d06bde9408.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afcc27df89c.jpg?v=1773128882
     Price: $65.00 USD
   - [Forest Green / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623167770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d06bde9408.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afcc27df89c.jpg?v=1773128882
     Price: $65.00 USD
   - [Forest Green / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623200538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d06bde9408.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afcc27df89c.jpg?v=1773128882
     Price: $65.00 USD
   - [Forest Green / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623233306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d06bde9408.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afcc27df89c.jpg?v=1773128882
     Price: $67.00 USD
   - [Dark Heather / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623266074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d06bdeafbc.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afcc27e1535.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623298842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d06bdeafbc.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afcc27e1535.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623331610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d06bdeafbc.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afcc27e1535.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623364378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d06bdeafbc.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afcc27e1535.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623397146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d06bdeafbc.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afcc27e1535.jpg?v=1773128882
     Price: $65.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623429914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d06bdeafbc.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afcc27e1535.jpg?v=1773128882
     Price: $67.00 USD
   - [Cardinal Red / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623462682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d06bdecedb.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afcc27e39a7.jpg?v=1773128882
     Price: $65.00 USD
   - [Cardinal Red / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623495450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d06bdecedb.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afcc27e39a7.jpg?v=1773128882
     Price: $65.00 USD
   - [Cardinal Red / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623528218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d06bdecedb.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afcc27e39a7.jpg?v=1773128882
     Price: $65.00 USD
   - [Cardinal Red / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623560986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d06bdecedb.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afcc27e39a7.jpg?v=1773128882
     Price: $65.00 USD
   - [Cardinal Red / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623593754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d06bdecedb.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afcc27e39a7.jpg?v=1773128882
     Price: $65.00 USD
   - [Cardinal Red / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623626522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d06bdecedb.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afcc27e39a7.jpg?v=1773128882
     Price: $67.00 USD
   - [Red / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623659290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-698d06bdef80d.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-69afcc27e65ca.jpg?v=1773128882
     Price: $65.00 USD
   - [Red / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623692058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-698d06bdef80d.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-69afcc27e65ca.jpg?v=1773128882
     Price: $65.00 USD
   - [Red / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623724826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-698d06bdef80d.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-69afcc27e65ca.jpg?v=1773128882
     Price: $65.00 USD
   - [Red / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623757594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-698d06bdef80d.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-69afcc27e65ca.jpg?v=1773128882
     Price: $65.00 USD
   - [Red / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623790362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-698d06bdef80d.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-69afcc27e65ca.jpg?v=1773128882
     Price: $65.00 USD
   - [Red / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623823130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-698d06bdef80d.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-red-front-69afcc27e65ca.jpg?v=1773128882
     Price: $67.00 USD
   - [Purple / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623855898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d06bdf1eea.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afcc27e99a0.jpg?v=1773128882
     Price: $65.00 USD
   - [Purple / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623888666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d06bdf1eea.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afcc27e99a0.jpg?v=1773128882
     Price: $65.00 USD
   - [Purple / L](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623921434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d06bdf1eea.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afcc27e99a0.jpg?v=1773128882
     Price: $65.00 USD
   - [Purple / XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623954202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d06bdf1eea.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afcc27e99a0.jpg?v=1773128882
     Price: $65.00 USD
   - [Purple / 2XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692623986970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d06bdf1eea.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afcc27e99a0.jpg?v=1773128882
     Price: $65.00 USD
   - [Purple / 3XL](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692624019738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d06bdf1eea.jpg?v=1770850026
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afcc27e99a0.jpg?v=1773128882
     Price: $67.00 USD
   - [White / S](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692624052506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d06be0085c.jpg?v=1770850026
     Price: $65.00 USD
   - [White / M](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie?variant=51692624085274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d06be0085c.jpg?v=1770850026
     Price: $65.00 USD
 - [PRAY Unisex Hoodie](https://rusticroots01.com/products/pray-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-02-27T22:20:48Z
+  Updated: 2026-03-10T07:38:53Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-698d26cc29986.jpg?v=1770858215
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69afca277eecd.jpg?v=1773128332
   - [Carolina Blue / S](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908380442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-698d26cc29986.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-69afca27935db.jpg?v=1773128246
     Price: $65.00 USD
   - [Carolina Blue / M](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908413210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-698d26cc29986.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-69afca27935db.jpg?v=1773128246
     Price: $65.00 USD
   - [Carolina Blue / L](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908445978)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-698d26cc29986.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-69afca27935db.jpg?v=1773128246
     Price: $65.00 USD
   - [Carolina Blue / XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908478746)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-698d26cc29986.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-69afca27935db.jpg?v=1773128246
     Price: $65.00 USD
   - [Carolina Blue / 2XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908511514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-698d26cc29986.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-69afca27935db.jpg?v=1773128246
     Price: $65.00 USD
   - [Carolina Blue / 3XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908544282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-698d26cc29986.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carolina-blue-front-69afca27935db.jpg?v=1773128246
     Price: $65.00 USD
   - [Carbon Grey / S](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908577050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-698d26cc2c9f9.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69afca277eecd.jpg?v=1773128332
     Price: $65.00 USD
   - [Carbon Grey / M](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908609818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-698d26cc2c9f9.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69afca277eecd.jpg?v=1773128332
     Price: $65.00 USD
   - [Carbon Grey / L](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908642586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-698d26cc2c9f9.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69afca277eecd.jpg?v=1773128332
     Price: $65.00 USD
   - [Carbon Grey / XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908675354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-698d26cc2c9f9.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69afca277eecd.jpg?v=1773128332
     Price: $65.00 USD
   - [Carbon Grey / 2XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908708122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-698d26cc2c9f9.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69afca277eecd.jpg?v=1773128332
     Price: $65.00 USD
   - [Carbon Grey / 3XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908740890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-698d26cc2c9f9.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69afca277eecd.jpg?v=1773128332
     Price: $65.00 USD
   - [Lavender / S](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908773658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698d26cc2e2c3.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afca279713b.jpg?v=1773128246
     Price: $65.00 USD
   - [Lavender / M](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908806426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698d26cc2e2c3.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afca279713b.jpg?v=1773128246
     Price: $65.00 USD
   - [Lavender / L](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908839194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698d26cc2e2c3.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afca279713b.jpg?v=1773128246
     Price: $65.00 USD
   - [Lavender / XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908871962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698d26cc2e2c3.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afca279713b.jpg?v=1773128246
     Price: $65.00 USD
   - [Lavender / 2XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908904730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698d26cc2e2c3.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afca279713b.jpg?v=1773128246
     Price: $65.00 USD
   - [Lavender / 3XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908937498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-698d26cc2e2c3.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-lavender-front-69afca279713b.jpg?v=1773128246
     Price: $65.00 USD
   - [White / S](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692908970266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698d26cc2b0c5.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afca279c321.jpg?v=1773128332
     Price: $65.00 USD
   - [White / M](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692909003034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698d26cc2b0c5.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afca279c321.jpg?v=1773128332
     Price: $65.00 USD
   - [White / L](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692909035802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698d26cc2b0c5.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afca279c321.jpg?v=1773128332
     Price: $65.00 USD
   - [White / XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692909068570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698d26cc2b0c5.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afca279c321.jpg?v=1773128332
     Price: $65.00 USD
   - [White / 2XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692909101338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698d26cc2b0c5.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afca279c321.jpg?v=1773128332
     Price: $65.00 USD
   - [White / 3XL](https://rusticroots01.com/products/pray-unisex-hoodie?variant=51692909134106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-698d26cc2b0c5.jpg?v=1770858215
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afca279c321.jpg?v=1773128332
     Price: $65.00 USD
 - [MAMA NEED COFFEE Unisex heavy blend zip hoodie](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 27 38 - 41 33 ½ M 28 42 - 45 34 ½ L 29 46 - 49 35 ½ XL 30 50 - 53 36 ½ 2XL 31 54 - 57 37 ½ 3XL 32 58 - 61 38 ½
-  Updated: 2026-02-26T04:38:08Z
+  Updated: 2026-03-10T07:29:40Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: JACKET GIRLS SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d2a827d7a4.jpg?v=1770859171
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afc776242ec.jpg?v=1773127779
   - [Black / S](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951372058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d2a82804a8.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afc7762393f.jpg?v=1773127779
     Price: $70.00 USD
   - [Black / M](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951404826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d2a82804a8.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afc7762393f.jpg?v=1773127779
     Price: $70.00 USD
   - [Black / L](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951437594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d2a82804a8.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afc7762393f.jpg?v=1773127779
     Price: $70.00 USD
   - [Black / XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951470362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d2a82804a8.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afc7762393f.jpg?v=1773127779
     Price: $70.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951503130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d2a82804a8.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afc7762393f.jpg?v=1773127779
     Price: $75.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951535898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-698d2a82804a8.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69afc7762393f.jpg?v=1773127779
     Price: $75.00 USD
   - [Navy / S](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951568666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d2a827d7a4.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afc776242ec.jpg?v=1773127779
     Price: $70.00 USD
   - [Navy / M](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951601434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d2a827d7a4.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afc776242ec.jpg?v=1773127779
     Price: $70.00 USD
   - [Navy / L](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951634202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d2a827d7a4.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afc776242ec.jpg?v=1773127779
     Price: $70.00 USD
   - [Navy / XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951666970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d2a827d7a4.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afc776242ec.jpg?v=1773127779
     Price: $70.00 USD
   - [Navy / 2XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951699738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d2a827d7a4.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afc776242ec.jpg?v=1773127779
     Price: $75.00 USD
   - [Navy / 3XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951732506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-698d2a827d7a4.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-navy-front-69afc776242ec.jpg?v=1773127779
     Price: $75.00 USD
   - [Dark Chocolate / S](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951765274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d2a828179b.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afc77625af0.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Chocolate / M](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951798042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d2a828179b.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afc77625af0.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Chocolate / L](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951830810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d2a828179b.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afc77625af0.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Chocolate / XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951863578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d2a828179b.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afc77625af0.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Chocolate / 2XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951896346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d2a828179b.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afc77625af0.jpg?v=1773127555
     Price: $75.00 USD
   - [Dark Chocolate / 3XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951929114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-698d2a828179b.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69afc77625af0.jpg?v=1773127555
     Price: $75.00 USD
   - [Forest Green / S](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951961882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d2a8282412.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afc77628590.jpg?v=1773127555
     Price: $70.00 USD
   - [Forest Green / M](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692951994650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d2a8282412.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afc77628590.jpg?v=1773127555
     Price: $70.00 USD
   - [Forest Green / L](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952027418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d2a8282412.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afc77628590.jpg?v=1773127555
     Price: $70.00 USD
   - [Forest Green / XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952060186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d2a8282412.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afc77628590.jpg?v=1773127555
     Price: $70.00 USD
   - [Forest Green / 2XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952092954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d2a8282412.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afc77628590.jpg?v=1773127555
     Price: $75.00 USD
   - [Forest Green / 3XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952125722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-698d2a8282412.jpg?v=1770859172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-forest-green-front-69afc77628590.jpg?v=1773127555
     Price: $75.00 USD
   - [Dark Heather / S](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952158490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d2a82833fd.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afc7762b5b1.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952191258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d2a82833fd.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afc7762b5b1.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952224026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d2a82833fd.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afc7762b5b1.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952256794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d2a82833fd.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afc7762b5b1.jpg?v=1773127555
     Price: $70.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952289562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d2a82833fd.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afc7762b5b1.jpg?v=1773127555
     Price: $75.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952322330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-698d2a82833fd.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69afc7762b5b1.jpg?v=1773127555
     Price: $75.00 USD
   - [Cardinal Red / S](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952355098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d2a8284cd6.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afc7762db63.jpg?v=1773127555
     Price: $70.00 USD
   - [Cardinal Red / M](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952387866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d2a8284cd6.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afc7762db63.jpg?v=1773127555
     Price: $70.00 USD
   - [Cardinal Red / L](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952420634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d2a8284cd6.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afc7762db63.jpg?v=1773127555
     Price: $70.00 USD
   - [Cardinal Red / XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952453402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d2a8284cd6.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afc7762db63.jpg?v=1773127555
     Price: $70.00 USD
   - [Cardinal Red / 2XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952486170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d2a8284cd6.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afc7762db63.jpg?v=1773127555
     Price: $75.00 USD
   - [Cardinal Red / 3XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952518938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-698d2a8284cd6.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-cardinal-red-front-69afc7762db63.jpg?v=1773127555
     Price: $75.00 USD
   - [Purple / S](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952551706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d2a8286c09.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afc776204be.jpg?v=1773127555
     Price: $70.00 USD
   - [Purple / M](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952584474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d2a8286c09.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afc776204be.jpg?v=1773127555
     Price: $70.00 USD
   - [Purple / L](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952617242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d2a8286c09.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afc776204be.jpg?v=1773127555
     Price: $70.00 USD
   - [Purple / XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952650010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d2a8286c09.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afc776204be.jpg?v=1773127555
     Price: $70.00 USD
   - [Purple / 2XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952682778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d2a8286c09.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afc776204be.jpg?v=1773127555
     Price: $75.00 USD
   - [Purple / 3XL](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie?variant=51692952715546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-698d2a8286c09.jpg?v=1770859171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afc776204be.jpg?v=1773127555
     Price: $75.00 USD
 - [YOU ARE ENOUGH HAT](https://rusticroots01.com/products/you-are-enough-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T04:38:08Z
+  Updated: 2026-03-10T07:17:55Z
   Vendor: RUSTIC ROOTS 
-  Product Type: CAP HAT BEANIE
+  Product Type: CAP HAT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-green-camo-front-698d2f60a9ad0.jpg?v=1770860401
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69afc52ce2a38.jpg?v=1773127074
   - [Black](https://rusticroots01.com/products/you-are-enough-hat?variant=51693003112730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-698d2f60ab126.jpg?v=1770860401
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69afc52ce2a38.jpg?v=1773127074
     Price: $35.00 USD
   - [Spruce](https://rusticroots01.com/products/you-are-enough-hat?variant=51693003145498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-spruce-front-698d2f60ab78a.jpg?v=1770860401
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-spruce-front-69afc52ce67ca.jpg?v=1773127074
     Price: $35.00 USD
   - [Green Camo](https://rusticroots01.com/products/you-are-enough-hat?variant=51693003178266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-green-camo-front-698d2f60a9ad0.jpg?v=1770860401
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-green-camo-front-69afc52ce84e1.jpg?v=1773127074
     Price: $35.00 USD
 - [GOD GOT ME Tough Case for iPhone®](https://rusticroots01.com/products/god-got-me-tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:38:08Z
@@ -9924,491 +9751,403 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-698d34ec6f69c.jpg?v=1770861819
     Price: $35.00 USD
 - [LIMITED Unisex Long Sleeve Tee](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee): Enrich your wardrobe with a versatile long sleeve tee. For a casual look, combine it with your favorite jeans, and layer it with a button-up shirt, a zip-up hoodie, or a snazzy jacket. Dress it up with formal trousers or chinos to achieve a more professional look. • 100% airlume combed ring-spun cotton • Heather colors are 52% combed and ring-spun cotton, 48% polyester • Athletic Heather and Black Heather are 90% combed and ring-spun cotton, 10% polyester • Fabric weight: 4.2 oz./yd.² (142.4 g/m²) • 32 singles • Regular fit • Side-seamed construction • Crew neck • Cover-stitched collar • 2″ (5 cm) ribbed cuffs • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT LENGTH (inches) CHEST WIDTH (inches) CHEST TO FIT (inches) SLEEVE LENGTH (inches) XS 27 16 ½ 31-34 25 S 28 18 34-37 25 ⅝ M 29 20 38-41 26 ¼ L 30 22 42-45 26 ⅞ XL 31 24 46-49 27 ½ 2XL 32 26 50-53 28 ⅛
-  Updated: 2026-02-26T04:38:08Z
+  Updated: 2026-03-10T07:09:48Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: LONG SLEEVE T SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-right-front-698d37989a2b0.jpg?v=1770862509
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69afc31c6d308.jpg?v=1773126587
   - [Black Heather / XS](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693122879770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-right-front-698d37989a2b0.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69afc31c53b62.jpg?v=1773126587
     Price: $45.00 USD
   - [Black Heather / S](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693122912538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-right-front-698d37989a2b0.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69afc31c53b62.jpg?v=1773126587
     Price: $45.00 USD
   - [Black Heather / M](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693122945306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-right-front-698d37989a2b0.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69afc31c53b62.jpg?v=1773126587
     Price: $45.00 USD
   - [Black Heather / L](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693122978074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-right-front-698d37989a2b0.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69afc31c53b62.jpg?v=1773126587
     Price: $45.00 USD
   - [Black Heather / XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123010842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-right-front-698d37989a2b0.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69afc31c53b62.jpg?v=1773126587
     Price: $45.00 USD
   - [Black Heather / 2XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123043610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-right-front-698d37989a2b0.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69afc31c53b62.jpg?v=1773126587
     Price: $47.00 USD
   - [Navy / XS](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123076378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-698d37989c5d8.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69afc31c575ab.jpg?v=1773126587
     Price: $45.00 USD
   - [Navy / S](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123109146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-698d37989c5d8.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69afc31c575ab.jpg?v=1773126587
     Price: $45.00 USD
   - [Navy / M](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123141914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-698d37989c5d8.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69afc31c575ab.jpg?v=1773126587
     Price: $45.00 USD
   - [Navy / L](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123174682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-698d37989c5d8.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69afc31c575ab.jpg?v=1773126587
     Price: $45.00 USD
   - [Navy / XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123207450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-698d37989c5d8.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69afc31c575ab.jpg?v=1773126587
     Price: $45.00 USD
   - [Navy / 2XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123240218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-698d37989c5d8.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69afc31c575ab.jpg?v=1773126587
     Price: $47.00 USD
   - [Maroon / XS](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123272986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-698d37989eb54.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69afc31c5ab5b.jpg?v=1773126587
     Price: $45.00 USD
   - [Maroon / S](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123305754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-698d37989eb54.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69afc31c5ab5b.jpg?v=1773126587
     Price: $45.00 USD
   - [Maroon / M](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123338522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-698d37989eb54.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69afc31c5ab5b.jpg?v=1773126587
     Price: $45.00 USD
   - [Maroon / L](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123371290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-698d37989eb54.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69afc31c5ab5b.jpg?v=1773126587
     Price: $45.00 USD
   - [Maroon / XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123404058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-698d37989eb54.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69afc31c5ab5b.jpg?v=1773126587
     Price: $45.00 USD
   - [Maroon / 2XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123436826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-698d37989eb54.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69afc31c5ab5b.jpg?v=1773126587
     Price: $47.00 USD
   - [Heather Forest / XS](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123469594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-698d3798a236f.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69afc31c5fa0a.jpg?v=1773126446
     Price: $45.00 USD
   - [Heather Forest / S](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123502362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-698d3798a236f.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69afc31c5fa0a.jpg?v=1773126446
     Price: $45.00 USD
   - [Heather Forest / M](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123535130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-698d3798a236f.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69afc31c5fa0a.jpg?v=1773126446
     Price: $45.00 USD
   - [Heather Forest / L](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123567898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-698d3798a236f.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69afc31c5fa0a.jpg?v=1773126446
     Price: $45.00 USD
   - [Heather Forest / XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123600666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-698d3798a236f.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69afc31c5fa0a.jpg?v=1773126446
     Price: $45.00 USD
   - [Heather Forest / 2XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123633434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-698d3798a236f.jpg?v=1770862509
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69afc31c5fa0a.jpg?v=1773126446
     Price: $47.00 USD
   - [Dark Grey Heather / XS](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123666202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-698d3798a7117.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69afc31c65f53.jpg?v=1773126587
     Price: $45.00 USD
   - [Dark Grey Heather / S](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123698970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-698d3798a7117.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69afc31c65f53.jpg?v=1773126587
     Price: $45.00 USD
   - [Dark Grey Heather / M](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123731738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-698d3798a7117.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69afc31c65f53.jpg?v=1773126587
     Price: $45.00 USD
   - [Dark Grey Heather / L](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123764506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-698d3798a7117.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69afc31c65f53.jpg?v=1773126587
     Price: $45.00 USD
   - [Dark Grey Heather / XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123797274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-698d3798a7117.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69afc31c65f53.jpg?v=1773126587
     Price: $45.00 USD
   - [Dark Grey Heather / 2XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123830042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-698d3798a7117.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69afc31c65f53.jpg?v=1773126587
     Price: $47.00 USD
   - [Heather Navy / XS](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123862810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-698d3798acff2.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69afc31c6d308.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Navy / S](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123895578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-698d3798acff2.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69afc31c6d308.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Navy / M](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123928346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-698d3798acff2.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69afc31c6d308.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Navy / L](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123961114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-698d3798acff2.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69afc31c6d308.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Navy / XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693123993882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-698d3798acff2.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69afc31c6d308.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Navy / 2XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693124026650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-698d3798acff2.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69afc31c6d308.jpg?v=1773126587
     Price: $47.00 USD
   - [Heather Deep Teal / XS](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693124059418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-698d3798b4259.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69afc31c75832.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Deep Teal / S](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693124092186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-698d3798b4259.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69afc31c75832.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Deep Teal / M](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693124124954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-698d3798b4259.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69afc31c75832.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Deep Teal / L](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693124157722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-698d3798b4259.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69afc31c75832.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Deep Teal / XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693124190490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-698d3798b4259.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69afc31c75832.jpg?v=1773126587
     Price: $45.00 USD
   - [Heather Deep Teal / 2XL](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee?variant=51693124223258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-698d3798b4259.jpg?v=1770862510
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69afc31c75832.jpg?v=1773126587
     Price: $47.00 USD
 - [DOG MOM LOVE HAT](https://rusticroots01.com/products/dog-mom-love-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T04:38:08Z
+  Updated: 2026-03-10T06:57:31Z
   Vendor: RUSTIC ROOTS 
-  Product Type: CAP HAT BEANIE
+  Product Type: CAP HAT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-698d67a0c0751.jpg?v=1770874803
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-69afc0796884a.jpg?v=1773125851
   - [Khaki](https://rusticroots01.com/products/dog-mom-love-hat?variant=51693568098586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-khaki-front-698d67a0c20f6.jpg?v=1770874803
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-khaki-front-69afc079674e7.jpg?v=1773125851
     Price: $35.00 USD
   - [Stone](https://rusticroots01.com/products/dog-mom-love-hat?variant=51693568131354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-698d67a0c0751.jpg?v=1770874803
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-69afc0796884a.jpg?v=1773125851
     Price: $35.00 USD
   - [Pink](https://rusticroots01.com/products/dog-mom-love-hat?variant=51693568164122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-pink-front-698d67a0c3eff.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-pink-front-69afc07969bca.jpg?v=1773125851
     Price: $35.00 USD
   - [Light Blue](https://rusticroots01.com/products/dog-mom-love-hat?variant=51693568196890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-698d67a0c5574.jpg?v=1770874803
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-69afc079651a1.jpg?v=1773125851
     Price: $35.00 USD
   - [White](https://rusticroots01.com/products/dog-mom-love-hat?variant=51693568229658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-698d67a0c6e4e.jpg?v=1771486347
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69afc0796c786.jpg?v=1773125851
     Price: $35.00 USD
 - [COUNTRY CROSS Unisex heavy blend zip hoodie](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-27T22:45:49Z
+  Updated: 2026-03-10T06:31:01Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d6abd04d3a.jpg?v=1770875607
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
   - [S](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie?variant=51693593985306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d6abd04d3a.jpg?v=1770875607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
     Price: $64.00 USD
   - [M](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie?variant=51693594018074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d6abd04d3a.jpg?v=1770875607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
     Price: $64.00 USD
   - [L](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie?variant=51693594050842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d6abd04d3a.jpg?v=1770875607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
     Price: $64.00 USD
   - [XL](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie?variant=51693594083610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d6abd04d3a.jpg?v=1770875607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
     Price: $64.00 USD
   - [2XL](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie?variant=51693594116378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d6abd04d3a.jpg?v=1770875607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
     Price: $66.50 USD
   - [3XL](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie?variant=51693594149146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-698d6abd04d3a.jpg?v=1770875607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
     Price: $69.00 USD
 - [DOG MOM LOVEAll-over print unisex wide-leg pants](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Relaxed unisex fit - Practical side pockets - Elastic waistband with a white drawstring - Can be worn on the waist or on the hips - Premium knit mid-weight jersey fabric Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide WAIST (inches) HIPS (inches) 2XS 28 ⅜ 35 ⅜ XS 29 ⅞ 37 S 31 ½ 38 ⅝ M 33 ⅛ 40 ⅛ L 36 ¼ 43 ¼ XL 39 ⅜ 46 ½ 2XL 42 ½ 49 ⅝ 3XL 45 ⅝ 52 ¾ 4XL 48 ⅞ 55 ⅞ 5XL 52 59 6XL 55 ⅛ 62 ¼
-  Updated: 2026-02-26T04:38:09Z
+  Updated: 2026-03-10T06:20:04Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: DOG MOM PANTS
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
   - [2XS](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605454106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $52.50 USD
   - [XS](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605486874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $52.50 USD
   - [S](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605519642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $52.50 USD
   - [M](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605552410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $52.50 USD
   - [L](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605585178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $52.50 USD
   - [XL](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605617946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $52.50 USD
   - [2XL](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605650714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $55.00 USD
   - [3XL](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605683482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $58.00 USD
   - [4XL](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605716250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $60.00 USD
   - [5XL](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605749018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $60.00 USD
   - [6XL](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants?variant=51693605781786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-698d707d1b708.jpg?v=1771486207
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $60.00 USD
-- [Unisex garment-dyed tank top](https://rusticroots01.com/products/unisex-garment-dyed-tank-top): Soft, laid-back, and made to last. This garment-dyed tank feels lived-in from the start, with relaxed vibes for everyday wear. 100% cotton, salt-free dye, no side seams—just effortless comfort. • 100% ring-spun cotton • Fabric weight: 6.1 oz./yd.² (206.8 g/m²) • Garment-dyed with salt-free pigments for a soft feel and low shrinkage • Relaxed fit • Tubular construction, no side seams • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) XS 25 ¼ 16 ½ S 26 ⅝ 17 ½ M 28 19 ½ L 29 ⅜ 21 ¼ XL 30 ¾ 23 2XL 31 ⅝ 25 3XL 32 ½ 27
-  Updated: 2026-02-26T04:38:09Z
+- [CAT WHY I.AM RIGHT TANK TOP](https://rusticroots01.com/products/unisex-garment-dyed-tank-top): Soft, laid-back, and made to last. This garment-dyed tank feels lived-in from the start, with relaxed vibes for everyday wear. 100% cotton, salt-free dye, no side seams—just effortless comfort. • 100% ring-spun cotton • Fabric weight: 6.1 oz./yd.² (206.8 g/m²) • Garment-dyed with salt-free pigments for a soft feel and low shrinkage • Relaxed fit • Tubular construction, no side seams • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) XS 25 ¼ 16 ½ S 26 ⅝ 17 ½ M 28 19 ½ L 29 ⅜ 21 ¼ XL 30 ¾ 23 2XL 31 ⅝ 25 3XL 32 ½ 27
+  Updated: 2026-03-10T01:56:32Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: TANK TOPS
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-  - [Black / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702234906906)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-black-front-6991252e85276.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Black / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702234939674)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-black-front-6991252e85276.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Black / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702234972442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-black-front-6991252e85276.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Black / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235005210)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-black-front-6991252e85276.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Black / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235037978)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-black-front-6991252e85276.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Black / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235070746)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-black-front-6991252e85276.jpg?v=1771486451
-    Price: $36.00 USD
-  - [Black / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235103514)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-black-front-6991252e85276.jpg?v=1771486451
-    Price: $38.00 USD
-  - [True Navy / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235136282)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-true-navy-front-6991252e85c3e.jpg?v=1771486451
-    Price: $34.00 USD
-  - [True Navy / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235169050)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-true-navy-front-6991252e85c3e.jpg?v=1771486451
-    Price: $34.00 USD
-  - [True Navy / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235201818)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-true-navy-front-6991252e85c3e.jpg?v=1771486451
-    Price: $34.00 USD
-  - [True Navy / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235234586)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-true-navy-front-6991252e85c3e.jpg?v=1771486451
-    Price: $34.00 USD
-  - [True Navy / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235267354)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-true-navy-front-6991252e85c3e.jpg?v=1771486451
-    Price: $34.00 USD
-  - [True Navy / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235300122)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-true-navy-front-6991252e85c3e.jpg?v=1771486451
-    Price: $36.00 USD
-  - [True Navy / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235332890)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-true-navy-front-6991252e85c3e.jpg?v=1771486451
-    Price: $38.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
   - [Pepper / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235365658)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-6991252e85ea7.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
     Price: $34.00 USD
   - [Pepper / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235398426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-6991252e85ea7.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
     Price: $34.00 USD
   - [Pepper / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235431194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-6991252e85ea7.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
     Price: $34.00 USD
   - [Pepper / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235463962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-6991252e85ea7.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
     Price: $34.00 USD
   - [Pepper / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235496730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-6991252e85ea7.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
     Price: $34.00 USD
   - [Pepper / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235529498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-6991252e85ea7.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
     Price: $36.00 USD
   - [Pepper / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235562266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-6991252e85ea7.jpg?v=1771486451
-    Price: $38.00 USD
-  - [Grape / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235595034)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grape-front-6991252e861ca.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Grape / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235627802)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grape-front-6991252e861ca.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Grape / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235660570)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grape-front-6991252e861ca.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Grape / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235693338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grape-front-6991252e861ca.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Grape / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235726106)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grape-front-6991252e861ca.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Grape / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235758874)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grape-front-6991252e861ca.jpg?v=1771486451
-    Price: $36.00 USD
-  - [Grape / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235791642)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grape-front-6991252e861ca.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-pepper-front-69ae708f7e7a5.jpg?v=1773039769
     Price: $38.00 USD
   - [Denim / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235824410)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-6991252e865ba.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-69ae708f8002c.jpg?v=1773039769
     Price: $34.00 USD
   - [Denim / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235857178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-6991252e865ba.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-69ae708f8002c.jpg?v=1773039769
     Price: $34.00 USD
   - [Denim / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235889946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-6991252e865ba.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-69ae708f8002c.jpg?v=1773039769
     Price: $34.00 USD
   - [Denim / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235922714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-6991252e865ba.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-69ae708f8002c.jpg?v=1773039769
     Price: $34.00 USD
   - [Denim / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235955482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-6991252e865ba.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-69ae708f8002c.jpg?v=1773039769
     Price: $34.00 USD
   - [Denim / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702235988250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-6991252e865ba.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-69ae708f8002c.jpg?v=1773039769
     Price: $36.00 USD
   - [Denim / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236021018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-6991252e865ba.jpg?v=1771486451
-    Price: $38.00 USD
-  - [Watermelon / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236053786)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Watermelon / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236086554)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Watermelon / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236119322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Watermelon / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236152090)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Watermelon / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236184858)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Watermelon / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236217626)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-    Price: $36.00 USD
-  - [Watermelon / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236250394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-watermelon-front-6991252e86b51.jpg?v=1771486451
-    Price: $38.00 USD
-  - [Neon Red Orange / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236283162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-6991252e870af.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Neon Red Orange / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236315930)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-6991252e870af.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Neon Red Orange / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236348698)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-6991252e870af.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Neon Red Orange / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236381466)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-6991252e870af.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Neon Red Orange / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236414234)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-6991252e870af.jpg?v=1771486451
-    Price: $34.00 USD
-  - [Neon Red Orange / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236447002)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-6991252e870af.jpg?v=1771486451
-    Price: $36.00 USD
-  - [Neon Red Orange / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236479770)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-6991252e870af.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-denim-front-69ae708f8002c.jpg?v=1773039769
     Price: $38.00 USD
   - [Ice Blue / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236512538)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-6991252e876e0.jpg?v=1771486451
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-69ae708f80218.jpg?v=1773039769
     Price: $34.00 USD
+  - [Ice Blue / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236545306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-69ae708f80218.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Ice Blue / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236578074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-69ae708f80218.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Ice Blue / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236610842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-69ae708f80218.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Ice Blue / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236643610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-69ae708f80218.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Ice Blue / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236676378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-69ae708f80218.jpg?v=1773039769
+    Price: $36.00 USD
+  - [Ice Blue / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236709146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-ice-blue-front-69ae708f80218.jpg?v=1773039769
+    Price: $38.00 USD
+  - [Grey / XS](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236741914)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Grey / S](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236774682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Grey / M](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236807450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Grey / L](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236840218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Grey / XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236872986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
+    Price: $34.00 USD
+  - [Grey / 2XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236905754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
+    Price: $36.00 USD
+  - [Grey / 3XL](https://rusticroots01.com/products/unisex-garment-dyed-tank-top?variant=51702236938522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
+    Price: $38.00 USD
 - [jesus loves Unisex Hoodie](https://rusticroots01.com/products/jesus-loves-unisex-hoodie): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
   Updated: 2026-02-27T22:44:40Z
   Vendor: RUSTIC ROOTS 
@@ -10821,51 +10560,51 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-699128ccc5d11.jpg?v=1771120862
     Price: $35.00 USD
-- [Crop Hoodie](https://rusticroots01.com/products/crop-hoodie): Let fashion take over your wardrobe with this great statement piece. The trendy raw hem and matching drawstrings means that this hoodie is bound to become a true favorite. • 52% airlume combed and ring-spun cotton, 48% poly fleece • Fabric weight: 6.5 oz/yd² (220.39 g/m²) • Dyed-to-match drawstrings • Dropped shoulder cut • Cropped body with a raw hem • Blank product sourced from Mexico, Nicaragua or the United States This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (inches) LENGTH (inches) S 22 18 ⅝ M 23 ½ 19 ⅜ L 25 ½ 21 ⅜ XL 27 ½ 22 ⅛ 2XL 29 ½ 22 ⅞
-  Updated: 2026-02-26T04:38:09Z
+- [FLAG DOG PRINT Crop Hoodie](https://rusticroots01.com/products/crop-hoodie): Let fashion take over your wardrobe with this great statement piece. The trendy raw hem and matching drawstrings means that this hoodie is bound to become a true favorite.• 52% air lume combed and ring-spun cotton, 48% poly fleece• Fabric weight: 6.5 oz/yd² (220.39 g/m²)• Dyed-to-match drawstrings• Dropped shoulder cut• Cropped body with a raw hem• Blank product sourced from Mexico, Nicaragua or the United StatesThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WIDTH (inches) LENGTH (inches) S 22 18 ⅝ M 23 ½ 19 ⅜ L 25 ½ 21 ⅜ XL 27 ½ 22 ⅛ 2XL 29 ½ 22 ⅞
+  Updated: 2026-03-10T05:58:16Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: CROP TOP SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-699129c7a9949.jpg?v=1771121102
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-69afb09168dac.jpg?v=1773122230
   - [Black / S](https://rusticroots01.com/products/crop-hoodie?variant=51702294249754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-699129c7aa66b.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-69afb0916671b.jpg?v=1773122230
     Price: $70.00 USD
   - [Black / M](https://rusticroots01.com/products/crop-hoodie?variant=51702294282522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-699129c7aa66b.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-69afb0916671b.jpg?v=1773122230
     Price: $70.00 USD
   - [Black / L](https://rusticroots01.com/products/crop-hoodie?variant=51702294315290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-699129c7aa66b.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-69afb0916671b.jpg?v=1773122230
     Price: $70.00 USD
   - [Black / XL](https://rusticroots01.com/products/crop-hoodie?variant=51702294348058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-699129c7aa66b.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-69afb0916671b.jpg?v=1773122230
     Price: $70.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/crop-hoodie?variant=51702294380826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-699129c7aa66b.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-black-front-69afb0916671b.jpg?v=1773122230
     Price: $70.00 USD
   - [Military Green / S](https://rusticroots01.com/products/crop-hoodie?variant=51702294413594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-699129c7a9949.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-69afb091696f1.jpg?v=1773122230
     Price: $70.00 USD
   - [Military Green / M](https://rusticroots01.com/products/crop-hoodie?variant=51702294446362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-699129c7a9949.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-69afb091696f1.jpg?v=1773122230
     Price: $70.00 USD
   - [Military Green / L](https://rusticroots01.com/products/crop-hoodie?variant=51702294479130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-699129c7a9949.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-69afb091696f1.jpg?v=1773122230
     Price: $70.00 USD
   - [Military Green / XL](https://rusticroots01.com/products/crop-hoodie?variant=51702294511898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-699129c7a9949.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-69afb091696f1.jpg?v=1773122230
     Price: $70.00 USD
   - [Military Green / 2XL](https://rusticroots01.com/products/crop-hoodie?variant=51702294544666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-699129c7a9949.jpg?v=1771121102
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-69afb091696f1.jpg?v=1773122230
     Price: $70.00 USD
 - [All-over print bandana camping](https://rusticroots01.com/products/all-over-print-bandana-camping): Get ready to make a statement with this all-over print bandana. Mix up your outfits by using this as a headband, necktie, or armband. In fact, why not get a second bandana to match your pet? Grab a few and hit the streets in style! • Fabric composition in the EU: 65% recycled polyester, 35% polyester • Fabric composition in the US: 100% recycled polyester • Fabric weight in the EU: 2.95 oz./yd.² (100 g/m²) • Fabric weight in the US: 3.24 oz./yd.² (110 g/m²) • Fabric specifications in the EU: Breathable; moisture-wicking material with UPF50+ protection • Lightweight and soft to the touch • Double-folded edges • Single-sided print • Multifunctional • The fabric is OEKO-TEX 100 standard  • The recycled content of this product is  under GRS (Global Recycled Standard) • Blank product components sourced from China/Mexico Important sizing information: the smallest bandana size is made for small pets and won’t fit a grown-up. Please choose the medium or large size if you’re ordering for a grown-up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 17 ⅜ 17 ⅜ M 21 ¼ 21 ¼ L 25 ¼ 25 ¼
   Updated: 2026-02-26T04:38:09Z
@@ -10903,237 +10642,237 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/distressed-dad-hat-charcoal-grey-front-699130b0d1166.jpg?v=1771122883
     Price: $35.00 USD
-- [TAKE ME TO THE M0UNTAINS Unisex Hoodie](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:38:10Z
+- [I HAVE IT ALL TOGETHER Unisex Hoodie](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+  Updated: 2026-03-10T05:59:18Z
   Vendor: RUSTIC ROOTS 
-  Product Type: 
+  Product Type: HOODIES AND SWEATSHIRTS
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-699134ca57a89.jpg?v=1771123958
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-69afac7bec650.jpg?v=1773120910
   - [Heather Sport Dark Navy / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364733722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-699134ca57a89.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-69afac7bf3663.jpg?v=1773120910
     Price: $65.00 USD
   - [Heather Sport Dark Navy / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364766490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-699134ca57a89.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-69afac7bf3663.jpg?v=1773120910
     Price: $65.00 USD
   - [Heather Sport Dark Navy / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364799258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-699134ca57a89.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-69afac7bf3663.jpg?v=1773120910
     Price: $65.00 USD
   - [Heather Sport Dark Navy / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364832026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-699134ca57a89.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-69afac7bf3663.jpg?v=1773120910
     Price: $65.00 USD
   - [Heather Sport Dark Navy / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364864794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-699134ca57a89.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-69afac7bf3663.jpg?v=1773120910
     Price: $65.00 USD
   - [Heather Sport Dark Navy / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364897562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-699134ca57a89.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-69afac7bf3663.jpg?v=1773120910
     Price: $65.00 USD
   - [Orange / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364930330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-699134ca5a2c3.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-69afac7c00b9e.jpg?v=1773120910
     Price: $65.00 USD
   - [Orange / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364963098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-699134ca5a2c3.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-69afac7c00b9e.jpg?v=1773120910
     Price: $65.00 USD
   - [Orange / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702364995866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-699134ca5a2c3.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-69afac7c00b9e.jpg?v=1773120910
     Price: $65.00 USD
   - [Orange / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365028634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-699134ca5a2c3.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-69afac7c00b9e.jpg?v=1773120910
     Price: $65.00 USD
   - [Orange / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365061402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-699134ca5a2c3.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-69afac7c00b9e.jpg?v=1773120910
     Price: $65.00 USD
   - [Orange / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365094170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-699134ca5a2c3.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-orange-front-69afac7c00b9e.jpg?v=1773120910
     Price: $65.00 USD
   - [Military Green / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365126938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-699134ca5df87.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-69afac7c04a9b.jpg?v=1773120910
     Price: $65.00 USD
   - [Military Green / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365159706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-699134ca5df87.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-69afac7c04a9b.jpg?v=1773120910
     Price: $65.00 USD
   - [Military Green / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365192474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-699134ca5df87.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-69afac7c04a9b.jpg?v=1773120910
     Price: $65.00 USD
   - [Military Green / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365225242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-699134ca5df87.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-69afac7c04a9b.jpg?v=1773120910
     Price: $65.00 USD
   - [Military Green / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365258010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-699134ca5df87.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-69afac7c04a9b.jpg?v=1773120910
     Price: $65.00 USD
   - [Military Green / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365290778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-699134ca5df87.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-69afac7c04a9b.jpg?v=1773120910
     Price: $65.00 USD
   - [Sport Grey / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365323546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-699134ca63fa0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-69afac7c0b886.jpg?v=1773120910
     Price: $65.00 USD
   - [Sport Grey / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365356314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-699134ca63fa0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-69afac7c0b886.jpg?v=1773120910
     Price: $65.00 USD
   - [Sport Grey / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365389082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-699134ca63fa0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-69afac7c0b886.jpg?v=1773120910
     Price: $65.00 USD
   - [Sport Grey / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365421850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-699134ca63fa0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-69afac7c0b886.jpg?v=1773120910
     Price: $65.00 USD
   - [Sport Grey / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365454618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-699134ca63fa0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-69afac7c0b886.jpg?v=1773120910
     Price: $65.00 USD
   - [Sport Grey / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365487386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-699134ca63fa0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sport-grey-front-69afac7c0b886.jpg?v=1773120910
     Price: $65.00 USD
   - [Azalea / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365520154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-699134ca6c5f8.jpg?v=1771123957
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-69afac7bec650.jpg?v=1773120910
     Price: $65.00 USD
   - [Azalea / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365552922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-699134ca6c5f8.jpg?v=1771123957
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-69afac7bec650.jpg?v=1773120910
     Price: $65.00 USD
   - [Azalea / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365585690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-699134ca6c5f8.jpg?v=1771123957
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-69afac7bec650.jpg?v=1773120910
     Price: $65.00 USD
   - [Azalea / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365618458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-699134ca6c5f8.jpg?v=1771123957
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-69afac7bec650.jpg?v=1773120910
     Price: $65.00 USD
   - [Azalea / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365651226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-699134ca6c5f8.jpg?v=1771123957
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-69afac7bec650.jpg?v=1773120910
     Price: $65.00 USD
   - [Azalea / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365683994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-699134ca6c5f8.jpg?v=1771123957
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-azalea-front-69afac7bec650.jpg?v=1773120910
     Price: $65.00 USD
   - [Gold / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365716762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-699134ca77390.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-69afac7c17f2e.jpg?v=1773120910
     Price: $65.00 USD
   - [Gold / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365749530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-699134ca77390.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-69afac7c17f2e.jpg?v=1773120910
     Price: $65.00 USD
   - [Gold / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365782298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-699134ca77390.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-69afac7c17f2e.jpg?v=1773120910
     Price: $65.00 USD
   - [Gold / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365815066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-699134ca77390.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-69afac7c17f2e.jpg?v=1773120910
     Price: $65.00 USD
   - [Gold / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365847834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-699134ca77390.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-69afac7c17f2e.jpg?v=1773120910
     Price: $65.00 USD
   - [Gold / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365880602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-699134ca77390.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-gold-front-69afac7c17f2e.jpg?v=1773120910
     Price: $65.00 USD
   - [Sand / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365913370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-699134ca8aa5e.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-69afac7c2547a.jpg?v=1773120910
     Price: $65.00 USD
   - [Sand / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365946138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-699134ca8aa5e.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-69afac7c2547a.jpg?v=1773120910
     Price: $65.00 USD
   - [Sand / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702365978906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-699134ca8aa5e.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-69afac7c2547a.jpg?v=1773120910
     Price: $65.00 USD
   - [Sand / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366011674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-699134ca8aa5e.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-69afac7c2547a.jpg?v=1773120910
     Price: $65.00 USD
   - [Sand / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366044442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-699134ca8aa5e.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-69afac7c2547a.jpg?v=1773120910
     Price: $65.00 USD
   - [Sand / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366077210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-699134ca8aa5e.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-sand-front-69afac7c2547a.jpg?v=1773120910
     Price: $65.00 USD
   - [Light Pink / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366109978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-699134ca9dca0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-69afac7c30fe7.jpg?v=1773120910
     Price: $65.00 USD
   - [Light Pink / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366142746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-699134ca9dca0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-69afac7c30fe7.jpg?v=1773120910
     Price: $65.00 USD
   - [Light Pink / L](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366175514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-699134ca9dca0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-69afac7c30fe7.jpg?v=1773120910
     Price: $65.00 USD
   - [Light Pink / XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366208282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-699134ca9dca0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-69afac7c30fe7.jpg?v=1773120910
     Price: $65.00 USD
   - [Light Pink / 2XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366241050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-699134ca9dca0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-69afac7c30fe7.jpg?v=1773120910
     Price: $65.00 USD
   - [Light Pink / 3XL](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366273818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-699134ca9dca0.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-light-pink-front-69afac7c30fe7.jpg?v=1773120910
     Price: $65.00 USD
   - [White / S](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366306586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-white-front-699134cab4f44.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-white-front-69afac7c3ec90.jpg?v=1773120910
     Price: $65.00 USD
   - [White / M](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie?variant=51702366339354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-white-front-699134cab4f44.jpg?v=1771123958
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-white-front-69afac7c3ec90.jpg?v=1773120910
     Price: $65.00 USD
-- [BE REALVintage Cotton Twill Cap](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap): Everybody knows that dad caps are no longer just for dads, so get an embroidered cotton twill cap for yourself! This one's really special thanks to the intricate embroidery detail and the washed out vintage feel. • 100% cotton twill • 6-panel unstructured cap with a low profile • 6 sewn eyelets • Black sweatband • Metal snap buckle with an antique brass finish • Washed-out vintage effect • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 18 ½-23 ¼ 4 ⅜ 2 ⅞ 7 ⅛
-  Updated: 2026-02-26T04:38:10Z
+- [BE REAL Vintage Cotton Twill Cap](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap): Everybody knows that dad caps are no longer just for dads, so get an embroidered cotton twill cap for yourself! This one's really special thanks to the intricate embroidery detail and the washed-out vintage feel. • 100% cotton twill • 6-panel unstructured cap with a low profile • 6 sewn eyelets • Black sweatband • Metal snap buckle with an antique brass finish • Washed-out vintage effect • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide A (inches) B (inches) C (inches) D (inches) One size 18 ½-23 ¼ 4 ⅜ 2 ⅞ 7 ⅛
+  Updated: 2026-03-10T04:57:25Z
   Vendor: RUSTIC ROOTS 
-  Product Type: CAP HAT BEANIE
+  Product Type: CAP HAT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-navy-front-699136528324f.jpg?v=1771124326
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-pink-front-69afa2e193222.jpg?v=1773118350
   - [Navy](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap?variant=51702372827418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-navy-front-699136528324f.jpg?v=1771124326
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-navy-front-69afa2e193bfc.jpg?v=1773118350
     Price: $35.00 USD
   - [Maroon](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap?variant=51702372860186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-maroon-front-6991365283cb5.jpg?v=1771124326
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-maroon-front-69afa2e1941af.jpg?v=1773118350
     Price: $35.00 USD
   - [Red](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap?variant=51702372892954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-red-front-6991365283f3b.jpg?v=1771124326
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-red-front-69afa2e194787.jpg?v=1773118350
     Price: $35.00 USD
   - [Pink](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap?variant=51702372925722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-pink-front-69913652841a2.jpg?v=1771124326
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-pink-front-69afa2e193222.jpg?v=1773118350
     Price: $35.00 USD
   - [Charcoal Grey](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap?variant=51702372958490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-charcoal-grey-front-699136528444a.jpg?v=1771124326
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-charcoal-grey-front-69afa2e194f90.jpg?v=1773118350
     Price: $35.00 USD
 - [HIKING Backpack](https://rusticroots01.com/products/hiking-backpack): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:38:10Z
@@ -11345,210 +11084,210 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-athletic-long-shorts-white-front-69914af07387d.jpg?v=1771129610
     Price: $59.00 USD
 - [CAMPING Unisex classic tee](https://rusticroots01.com/products/camping-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-02-26T04:38:11Z
+  Updated: 2026-03-10T04:55:39Z
   Vendor: RUSTIC ROOTS 
-  Product Type: 
+  Product Type: T SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1771130272
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1773118538
   - [Maroon / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472048922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1773118538
     Price: $35.00 USD
   - [Maroon / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472081690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1773118538
     Price: $35.00 USD
   - [Maroon / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472114458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1773118538
     Price: $35.00 USD
   - [Maroon / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472147226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1773118538
     Price: $35.00 USD
   - [Maroon / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472179994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1773118538
     Price: $35.00 USD
   - [Maroon / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472212762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69914d872b2c9.jpg?v=1773118538
     Price: $35.00 USD
   - [Black / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472245530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1773118538
     Price: $35.00 USD
   - [Black / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472278298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1773118538
     Price: $35.00 USD
   - [Black / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472311066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1773118538
     Price: $35.00 USD
   - [Black / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472343834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1773118538
     Price: $35.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472376602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1773118538
     Price: $35.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472409370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69914d872c1d6.jpg?v=1773118538
     Price: $35.00 USD
   - [Navy / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472442138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1773118538
     Price: $35.00 USD
   - [Navy / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472474906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1773118538
     Price: $35.00 USD
   - [Navy / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472507674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1773118538
     Price: $35.00 USD
   - [Navy / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472540442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1773118538
     Price: $35.00 USD
   - [Navy / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472573210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1773118538
     Price: $35.00 USD
   - [Navy / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472605978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-navy-front-69914d8728f10.jpg?v=1773118538
     Price: $35.00 USD
   - [Purple / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472638746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1773118538
     Price: $35.00 USD
   - [Purple / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472671514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1773118538
     Price: $35.00 USD
   - [Purple / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472704282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1773118538
     Price: $35.00 USD
   - [Purple / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472737050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1773118538
     Price: $35.00 USD
   - [Purple / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472769818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1773118538
     Price: $35.00 USD
   - [Purple / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472802586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-purple-front-69914d8731bf5.jpg?v=1773118538
     Price: $35.00 USD
   - [Forest Green / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472835354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1773118538
     Price: $35.00 USD
   - [Forest Green / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472868122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1773118538
     Price: $35.00 USD
   - [Forest Green / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472900890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1773118538
     Price: $35.00 USD
   - [Forest Green / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472933658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1773118538
     Price: $35.00 USD
   - [Forest Green / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472966426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1773118538
     Price: $35.00 USD
   - [Forest Green / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702472999194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-forest-green-front-69914d873677e.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Chocolate / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473031962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Chocolate / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473064730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Chocolate / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473097498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Chocolate / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473130266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Chocolate / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473163034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Chocolate / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473195802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-69914d873c5ef.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Heather / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473228570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473261338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473294106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473326874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473359642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1773118538
     Price: $35.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473392410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69914d8743e07.jpg?v=1773118538
     Price: $35.00 USD
   - [Sapphire / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473425178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1773118538
     Price: $35.00 USD
   - [Sapphire / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473457946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1773118538
     Price: $35.00 USD
   - [Sapphire / L](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473490714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1773118538
     Price: $35.00 USD
   - [Sapphire / XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473523482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1773118538
     Price: $35.00 USD
   - [Sapphire / 2XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473556250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1773118538
     Price: $35.00 USD
   - [Sapphire / 3XL](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473589018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-69914d874d196.jpg?v=1773118538
     Price: $35.00 USD
   - [Charcoal / S](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473621786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-69914d875812f.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-69914d875812f.jpg?v=1773118538
     Price: $35.00 USD
   - [Charcoal / M](https://rusticroots01.com/products/camping-unisex-classic-tee?variant=51702473654554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-69914d875812f.jpg?v=1771130272
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-69914d875812f.jpg?v=1773118538
     Price: $35.00 USD
 - [LOVE Unisex Premium Sweatshirt](https://rusticroots01.com/products/love-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
   Updated: 2026-02-27T23:44:30Z
@@ -11652,31 +11391,31 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69915134e47af.jpg?v=1772147381
     Price: $65.00 USD
-- [HEART   CROSS Unisex Sweatshirt](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-02-27T20:53:29Z
+- [HEART CROSS Unisex   CHRISTIAN   Sweatshirt](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel.• 50% cotton, 50% polyester• Pre-shrunk• Classic fit• 1x1 athletic rib knit collar with spandex• Air-jet spun yarn with a soft feel• Double-needle stitched collar, shoulders, armholes, cuffs, and hemDisclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white.• Subtle orange hue shifts with lighting in the Orange color variant.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
+  Updated: 2026-03-10T04:42:27Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-699154aa62306.jpg?v=1771132096
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69afa0a27eb96.jpg?v=1773117616
   - [S](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt?variant=51702503440666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-699154aa62306.jpg?v=1771132096
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69afa0a27eb96.jpg?v=1773117616
     Price: $55.00 USD
   - [M](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt?variant=51702503473434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-699154aa62306.jpg?v=1771132096
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69afa0a27eb96.jpg?v=1773117616
     Price: $55.00 USD
   - [L](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt?variant=51702503506202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-699154aa62306.jpg?v=1771132096
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69afa0a27eb96.jpg?v=1773117616
     Price: $55.00 USD
   - [XL](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt?variant=51702503538970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-699154aa62306.jpg?v=1771132096
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69afa0a27eb96.jpg?v=1773117616
     Price: $55.00 USD
   - [2XL](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt?variant=51702503571738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-699154aa62306.jpg?v=1771132096
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69afa0a27eb96.jpg?v=1773117616
     Price: $55.00 USD
 - [OFF GRID CAMPFIRES MagSafe® tough case for iPhone®](https://rusticroots01.com/products/off-grid-campfires-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:38:11Z
@@ -11930,155 +11669,143 @@
   - [Khaki / 7 / XL](https://rusticroots01.com/products/dog-mom-bundle-pack?variant=51707557052698)
     Availability: Available
     Price: $148.50 USD
-- [CAMPER Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • Dark Heather is 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-02-26T04:38:12Z
+- [HAPPY CAMPER Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • Dark Heather is 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-03-10T17:32:14Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: T SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69940b0e0ff3e.jpg?v=1771309865
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-and-back-69ae6c3309e29.jpg?v=1773038925
   - [Black / S](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182266138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69940b0e0ff3e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-and-back-69ae6c32f1f35.jpg?v=1773038925
     Price: $35.00 USD
   - [Black / M](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182298906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69940b0e0ff3e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-and-back-69ae6c32f1f35.jpg?v=1773038925
     Price: $35.00 USD
   - [Black / L](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182331674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69940b0e0ff3e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-and-back-69ae6c32f1f35.jpg?v=1773038925
     Price: $35.00 USD
   - [Black / XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182364442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69940b0e0ff3e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-and-back-69ae6c32f1f35.jpg?v=1773038925
     Price: $35.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182397210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69940b0e0ff3e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-and-back-69ae6c32f1f35.jpg?v=1773038925
     Price: $35.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182429978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69940b0e0ff3e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-and-back-69ae6c32f1f35.jpg?v=1773038925
     Price: $35.00 USD
   - [Dark Heather / S](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182462746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-69940b0e1b792.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae6c330760c.jpg?v=1773038925
     Price: $35.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182495514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-69940b0e1b792.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae6c330760c.jpg?v=1773038925
     Price: $35.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182528282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-69940b0e1b792.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae6c330760c.jpg?v=1773038925
     Price: $35.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182561050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-69940b0e1b792.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae6c330760c.jpg?v=1773038925
     Price: $35.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182593818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-69940b0e1b792.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae6c330760c.jpg?v=1773038925
     Price: $35.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182626586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-69940b0e1b792.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-front-and-back-69ae6c330760c.jpg?v=1773038925
     Price: $35.00 USD
   - [Heather Navy / S](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182659354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-69940b0e1ee56.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-and-back-69ae6c3309e29.jpg?v=1773038925
     Price: $35.00 USD
   - [Heather Navy / M](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182692122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-69940b0e1ee56.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-and-back-69ae6c3309e29.jpg?v=1773038925
     Price: $35.00 USD
   - [Heather Navy / L](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182724890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-69940b0e1ee56.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-and-back-69ae6c3309e29.jpg?v=1773038925
     Price: $35.00 USD
   - [Heather Navy / XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182757658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-69940b0e1ee56.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-and-back-69ae6c3309e29.jpg?v=1773038925
     Price: $35.00 USD
   - [Heather Navy / 2XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182790426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-69940b0e1ee56.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-and-back-69ae6c3309e29.jpg?v=1773038925
     Price: $35.00 USD
   - [Heather Navy / 3XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182823194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-69940b0e1ee56.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-navy-front-and-back-69ae6c3309e29.jpg?v=1773038925
     Price: $35.00 USD
   - [Charcoal / S](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182855962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-69940b0e2368e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae6c330d2cf.jpg?v=1773038925
     Price: $35.00 USD
   - [Charcoal / M](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182888730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-69940b0e2368e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae6c330d2cf.jpg?v=1773038925
     Price: $35.00 USD
   - [Charcoal / L](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182921498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-69940b0e2368e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae6c330d2cf.jpg?v=1773038925
     Price: $35.00 USD
   - [Charcoal / XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182954266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-69940b0e2368e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae6c330d2cf.jpg?v=1773038925
     Price: $35.00 USD
   - [Charcoal / 2XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708182987034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-69940b0e2368e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae6c330d2cf.jpg?v=1773038925
     Price: $35.00 USD
   - [Charcoal / 3XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183019802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-69940b0e2368e.jpg?v=1771309865
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69ae6c330d2cf.jpg?v=1773038925
     Price: $35.00 USD
   - [Heather Indigo / S](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183052570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-69940b0e29781.jpg?v=1771309865
     Price: $35.00 USD
   - [Heather Indigo / M](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183085338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-69940b0e29781.jpg?v=1771309865
     Price: $35.00 USD
   - [Heather Indigo / L](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183118106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-69940b0e29781.jpg?v=1771309865
     Price: $35.00 USD
   - [Heather Indigo / XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183150874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-69940b0e29781.jpg?v=1771309865
     Price: $35.00 USD
   - [Heather Indigo / 2XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183183642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-69940b0e29781.jpg?v=1771309865
     Price: $35.00 USD
   - [Heather Indigo / 3XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183216410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-69940b0e29781.jpg?v=1771309865
     Price: $35.00 USD
   - [Ice Grey / S](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183249178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-ice-grey-front-69940b0e32ac5.jpg?v=1771309868
     Price: $35.00 USD
   - [Ice Grey / M](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183281946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-ice-grey-front-69940b0e32ac5.jpg?v=1771309868
     Price: $35.00 USD
   - [Ice Grey / L](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183314714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-ice-grey-front-69940b0e32ac5.jpg?v=1771309868
     Price: $35.00 USD
   - [Ice Grey / XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183347482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-ice-grey-front-69940b0e32ac5.jpg?v=1771309868
     Price: $35.00 USD
   - [Ice Grey / 2XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183380250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-ice-grey-front-69940b0e32ac5.jpg?v=1771309868
     Price: $35.00 USD
   - [Ice Grey / 3XL](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt?variant=51708183413018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-ice-grey-front-69940b0e32ac5.jpg?v=1771309868
     Price: $35.00 USD
 - [NO PERFECT Golf rope cap](https://rusticroots01.com/products/no-perfect-golf-rope-cap): Add a touch of classic style to your outfit with the golf rope cap. Featuring a structured fit, rope detail, and adjustable snapback, it’s perfect for any outing. • 70% cotton, 30% nylon • Unstructured, 5-panel, front panel lined • Semi-curved bill with contrasting rope • Contrasting snapback closure • One size fits most • Blank product sourced from VietnamSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-23 ¼ 4 ¾ 2 ¾ 7 ⅜
   Updated: 2026-02-27T22:44:34Z
@@ -12397,57 +12124,57 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-white-front-699416c77d9cb.jpg?v=1771312869
     Price: $35.00 USD
 - [TO   Glam To   Give a Dam Unisex Sweatshirt](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-02-26T04:38:12Z
+  Updated: 2026-03-10T06:11:40Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: RV LIFE T SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-left-front-69951c6f64f6a.jpg?v=1773122904
   - [2XS](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835294490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $55.00 USD
   - [XS](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835327258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $55.00 USD
   - [S](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835360026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $55.00 USD
   - [M](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835392794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $45.50 USD
   - [L](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835425562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $55.00 USD
   - [XL](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835458330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $55.00 USD
   - [2XL](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835491098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $60.00 USD
   - [3XL](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835523866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $60.00 USD
   - [4XL](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835556634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $60.00 USD
   - [5XL](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835589402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $65.00 USD
   - [6XL](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt?variant=51710835622170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69951c6f645e3.jpg?v=1771379861
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $65.00 USD
 - [TRUST GOD American football jersey](https://rusticroots01.com/products/trust-god-american-football-jersey): This breathable mesh jersey stays light, even in heat or crowds. The loose fit and side slits give plenty of room to move, making it a comfortable choice for everyday outfits, festivals, or layering in hot weather. • 100% polyester • Fabric weight: 7.23 oz./yd. (245 g/m²) • Knit heavyweight tricot mesh fabric • Loose fit • Heavy ribbed collar • Side slits • Breathable and moisture-wicking • The fabric of this product is OEKO-TEX Standard 100- • Blank product materials sourced from China Disclaimer: Size down if your body measurements fall between sizes. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-02-27T20:53:19Z
+  Updated: 2026-03-09T03:58:00Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -12497,154 +12224,154 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-american-football-jersey-white-back-699526c7bd000.jpg?v=1772146898
     Price: $65.00 USD
 - [JESUS CROSS Unisex Premium Sweatshirt](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-27T23:01:48Z
+  Updated: 2026-03-10T04:17:04Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-6995349089680.jpg?v=1772147895
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69af9af9505d5.jpg?v=1773116223
   - [Black / S](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043141914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-699534905bbb3.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69af9af95c3c4.jpg?v=1773116223
     Price: $65.00 USD
   - [Black / M](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043174682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-699534905bbb3.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69af9af95c3c4.jpg?v=1773116223
     Price: $65.00 USD
   - [Black / L](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043207450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-699534905bbb3.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69af9af95c3c4.jpg?v=1773116223
     Price: $65.00 USD
   - [Black / XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043240218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-699534905bbb3.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69af9af95c3c4.jpg?v=1773116223
     Price: $65.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043272986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-699534905bbb3.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69af9af95c3c4.jpg?v=1773116223
     Price: $65.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043305754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-699534905bbb3.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69af9af95c3c4.jpg?v=1773116223
     Price: $65.00 USD
   - [Navy Blazer / S](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043338522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-6995349060ae8.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69af9af95d4bc.jpg?v=1773116175
     Price: $65.00 USD
   - [Navy Blazer / M](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043371290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-6995349060ae8.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69af9af95d4bc.jpg?v=1773116175
     Price: $65.00 USD
   - [Navy Blazer / L](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043404058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-6995349060ae8.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69af9af95d4bc.jpg?v=1773116175
     Price: $65.00 USD
   - [Navy Blazer / XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043436826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-6995349060ae8.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69af9af95d4bc.jpg?v=1773116175
     Price: $65.00 USD
   - [Navy Blazer / 2XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043469594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-6995349060ae8.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69af9af95d4bc.jpg?v=1773116175
     Price: $65.00 USD
   - [Navy Blazer / 3XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043502362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-6995349060ae8.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-navy-blazer-front-and-back-69af9af95d4bc.jpg?v=1773116175
     Price: $65.00 USD
   - [Charcoal Heather / S](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043535130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-699534906882f.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69af9af9505d5.jpg?v=1773116223
     Price: $65.00 USD
   - [Charcoal Heather / M](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043567898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-699534906882f.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69af9af9505d5.jpg?v=1773116223
     Price: $65.00 USD
   - [Charcoal Heather / L](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043600666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-699534906882f.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69af9af9505d5.jpg?v=1773116223
     Price: $65.00 USD
   - [Charcoal Heather / XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043633434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-699534906882f.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69af9af9505d5.jpg?v=1773116223
     Price: $65.00 USD
   - [Charcoal Heather / 2XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043666202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-699534906882f.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69af9af9505d5.jpg?v=1773116223
     Price: $65.00 USD
   - [Charcoal Heather / 3XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043698970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-699534906882f.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-and-back-69af9af9505d5.jpg?v=1773116223
     Price: $65.00 USD
   - [Team Royal / S](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043731738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-6995349077329.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-and-back-69af9af95f766.jpg?v=1773116176
     Price: $65.00 USD
   - [Team Royal / M](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043764506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-6995349077329.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-and-back-69af9af95f766.jpg?v=1773116176
     Price: $65.00 USD
   - [Team Royal / L](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043797274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-6995349077329.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-and-back-69af9af95f766.jpg?v=1773116176
     Price: $65.00 USD
   - [Team Royal / XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043830042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-6995349077329.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-and-back-69af9af95f766.jpg?v=1773116176
     Price: $65.00 USD
   - [Team Royal / 2XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043862810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-6995349077329.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-and-back-69af9af95f766.jpg?v=1773116176
     Price: $65.00 USD
   - [Team Royal / 3XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043895578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-6995349077329.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-team-royal-front-and-back-69af9af95f766.jpg?v=1773116176
     Price: $65.00 USD
   - [Vintage Black / S](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043928346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-6995349089680.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69af9af964e1d.jpg?v=1773116176
     Price: $65.00 USD
   - [Vintage Black / M](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043961114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-6995349089680.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69af9af964e1d.jpg?v=1773116176
     Price: $65.00 USD
   - [Vintage Black / L](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711043993882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-6995349089680.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69af9af964e1d.jpg?v=1773116176
     Price: $65.00 USD
   - [Vintage Black / XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044026650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-6995349089680.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69af9af964e1d.jpg?v=1773116176
     Price: $65.00 USD
   - [Vintage Black / 2XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044059418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-6995349089680.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69af9af964e1d.jpg?v=1773116176
     Price: $65.00 USD
   - [Vintage Black / 3XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044092186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-6995349089680.jpg?v=1772147895
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69af9af964e1d.jpg?v=1773116176
     Price: $65.00 USD
   - [Forest Green / S](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044124954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-69953490a2724.jpg?v=1771386044
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-and-back-69af9af96ae44.jpg?v=1773116176
     Price: $65.00 USD
   - [Forest Green / M](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044157722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-69953490a2724.jpg?v=1771386044
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-and-back-69af9af96ae44.jpg?v=1773116176
     Price: $65.00 USD
   - [Forest Green / L](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044190490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-69953490a2724.jpg?v=1771386044
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-and-back-69af9af96ae44.jpg?v=1773116176
     Price: $65.00 USD
   - [Forest Green / XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044223258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-69953490a2724.jpg?v=1771386044
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-and-back-69af9af96ae44.jpg?v=1773116176
     Price: $65.00 USD
   - [Forest Green / 2XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044256026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-69953490a2724.jpg?v=1771386044
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-and-back-69af9af96ae44.jpg?v=1773116176
     Price: $65.00 USD
   - [Forest Green / 3XL](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt?variant=51711044288794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-69953490a2724.jpg?v=1771386044
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-and-back-69af9af96ae44.jpg?v=1773116176
     Price: $65.00 USD
 - [CROSS TURQUOISE Unisex Hoodie](https://rusticroots01.com/products/cross-turquoise-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-27T20:55:37Z
@@ -12676,210 +12403,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-699537bbe1810.jpg?v=1771386840
     Price: $68.00 USD
-- [CROSS FAITH Women's T-shirt](https://rusticroots01.com/products/cross-faith-womens-t-shirt): Get to know your new favorite tee—it's super smooth, super comfortable, and made from a cotton-touch polyester jersey that won't fade after washing. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Premium knit mid-weight jersey - Smooth, comfortable 2-way stretch fabric that stretches and recovers on the cross and lengthwise grains - Regular fit This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) XS 33 ⅛ S 34 ⅝ M 36 ¼ L 39 ⅜ XL 42 ½ 2XL 45 ⅝
-  Updated: 2026-02-27T23:23:19Z
+- [FAITH Women's T-shirt](https://rusticroots01.com/products/cross-faith-womens-t-shirt): Get to know your new favorite tee—it's super smooth, super comfortable, and made from a cotton-touch polyester jersey that won't fade after washing. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Premium knit mid-weight jersey - Smooth, comfortable 2-way stretch fabric that stretches and recovers on the cross and lengthwise grains - Regular fit This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) XS 33 ⅛ S 34 ⅝ M 36 ¼ L 39 ⅜ XL 42 ½ 2XL 45 ⅝
+  Updated: 2026-03-10T04:31:18Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69953adaea79f.jpg?v=1771387641
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
   - [XS](https://rusticroots01.com/products/cross-faith-womens-t-shirt?variant=51711069782298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69953adaeb4d6.jpg?v=1771387641
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
     Price: $45.00 USD
   - [S](https://rusticroots01.com/products/cross-faith-womens-t-shirt?variant=51711069815066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69953adaeb4d6.jpg?v=1771387641
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
     Price: $45.00 USD
   - [M](https://rusticroots01.com/products/cross-faith-womens-t-shirt?variant=51711069847834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69953adaeb4d6.jpg?v=1771387641
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
     Price: $45.00 USD
   - [L](https://rusticroots01.com/products/cross-faith-womens-t-shirt?variant=51711069880602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69953adaeb4d6.jpg?v=1771387641
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
     Price: $45.00 USD
   - [XL](https://rusticroots01.com/products/cross-faith-womens-t-shirt?variant=51711069913370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69953adaeb4d6.jpg?v=1771387641
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
     Price: $45.00 USD
   - [2XL](https://rusticroots01.com/products/cross-faith-womens-t-shirt?variant=51711069946138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69953adaeb4d6.jpg?v=1771387641
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
     Price: $45.00 USD
 - [TURQUOISE CROSS HAT](https://rusticroots01.com/products/cross-dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T22:49:33Z
+  Updated: 2026-03-10T04:11:44Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BIBLE APPAREL
+  Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69953e87a84de.jpg?v=1771388564
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-dark-grey-front-69af984cc1960.jpg?v=1773115903
   - [Black](https://rusticroots01.com/products/cross-dad-hat?variant=51711092949274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69953e87a84de.jpg?v=1771388564
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69af984cc383b.jpg?v=1773115903
     Price: $35.00 USD
   - [Navy](https://rusticroots01.com/products/cross-dad-hat?variant=51711092982042)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-navy-front-69af984cc549a.jpg?v=1773115903
     Price: $35.00 USD
   - [Dark Grey](https://rusticroots01.com/products/cross-dad-hat?variant=51711093014810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-dark-grey-left-side-69953e87add32.jpg?v=1771388564
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-dark-grey-front-69af984cc1960.jpg?v=1773115903
     Price: $35.00 USD
   - [Stone](https://rusticroots01.com/products/cross-dad-hat?variant=51711093047578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-69953e87af50e.jpg?v=1771388564
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-69af984cc9a31.jpg?v=1773115903
     Price: $35.00 USD
   - [White](https://rusticroots01.com/products/cross-dad-hat?variant=51711093080346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69953e87b1dfd.jpg?v=1771388564
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69af984cccdc0.jpg?v=1773115903
     Price: $35.00 USD
 - [GOD HAS A PLAN Unisex classic tee](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-02-26T22:47:13Z
+  Updated: 2026-03-10T03:24:40Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BIBLE APPAREL
+  Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6995439ebb273.jpg?v=1771389889
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69af8e8a7949e.jpg?v=1773113079
   - [Maroon / S](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113429274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6995439ebb273.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69af8e8a7949e.jpg?v=1773113079
     Price: $40.00 USD
   - [Maroon / M](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113462042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6995439ebb273.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69af8e8a7949e.jpg?v=1773113079
     Price: $40.00 USD
   - [Maroon / L](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113494810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6995439ebb273.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69af8e8a7949e.jpg?v=1773113079
     Price: $40.00 USD
   - [Maroon / XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113527578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6995439ebb273.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69af8e8a7949e.jpg?v=1773113079
     Price: $40.00 USD
   - [Maroon / 2XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113560346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6995439ebb273.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69af8e8a7949e.jpg?v=1773113079
     Price: $45.00 USD
   - [Maroon / 3XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113593114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-6995439ebb273.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69af8e8a7949e.jpg?v=1773113079
     Price: $45.00 USD
   - [Black / S](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113625882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-6995439ebecf8.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69af8e8a7ac12.jpg?v=1773113079
     Price: $40.00 USD
   - [Black / M](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113658650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-6995439ebecf8.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69af8e8a7ac12.jpg?v=1773113079
     Price: $40.00 USD
   - [Black / L](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113691418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-6995439ebecf8.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69af8e8a7ac12.jpg?v=1773113079
     Price: $40.00 USD
   - [Black / XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113724186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-6995439ebecf8.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69af8e8a7ac12.jpg?v=1773113079
     Price: $40.00 USD
   - [Black / 2XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113756954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-6995439ebecf8.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69af8e8a7ac12.jpg?v=1773113079
     Price: $45.00 USD
   - [Black / 3XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113789722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-6995439ebecf8.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69af8e8a7ac12.jpg?v=1773113079
     Price: $45.00 USD
   - [Dark Chocolate / S](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113822490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6995439ec8ec2.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-and-back-69af8e8a7d2e5.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Chocolate / M](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113855258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6995439ec8ec2.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-and-back-69af8e8a7d2e5.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Chocolate / L](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113888026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6995439ec8ec2.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-and-back-69af8e8a7d2e5.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Chocolate / XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113920794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6995439ec8ec2.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-and-back-69af8e8a7d2e5.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Chocolate / 2XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113953562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6995439ec8ec2.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-and-back-69af8e8a7d2e5.jpg?v=1773113079
     Price: $45.00 USD
   - [Dark Chocolate / 3XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711113986330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-6995439ec8ec2.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-chocolate-front-and-back-69af8e8a7d2e5.jpg?v=1773113079
     Price: $45.00 USD
   - [Dark Heather / S](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114019098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-6995439ed4081.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69af8e8a80cc0.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Heather / M](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114051866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-6995439ed4081.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69af8e8a80cc0.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Heather / L](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114084634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-6995439ed4081.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69af8e8a80cc0.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Heather / XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114117402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-6995439ed4081.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69af8e8a80cc0.jpg?v=1773113079
     Price: $40.00 USD
   - [Dark Heather / 2XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114150170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-6995439ed4081.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69af8e8a80cc0.jpg?v=1773113079
     Price: $45.00 USD
   - [Dark Heather / 3XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114182938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-6995439ed4081.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-and-back-69af8e8a80cc0.jpg?v=1773113079
     Price: $45.00 USD
   - [Charcoal / S](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114215706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-6995439ee5029.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69af8e8a85eef.jpg?v=1773113079
     Price: $40.00 USD
   - [Charcoal / M](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114248474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-6995439ee5029.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69af8e8a85eef.jpg?v=1773113079
     Price: $40.00 USD
   - [Charcoal / L](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114281242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-6995439ee5029.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69af8e8a85eef.jpg?v=1773113079
     Price: $40.00 USD
   - [Charcoal / XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114314010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-6995439ee5029.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69af8e8a85eef.jpg?v=1773113079
     Price: $40.00 USD
   - [Charcoal / 2XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114346778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-6995439ee5029.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69af8e8a85eef.jpg?v=1773113079
     Price: $45.00 USD
   - [Charcoal / 3XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114379546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-6995439ee5029.jpg?v=1771389888
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69af8e8a85eef.jpg?v=1773113079
     Price: $45.00 USD
   - [Military Green / S](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114412314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-6995439f04736.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69af8e8a6baeb.jpg?v=1773113079
     Price: $40.00 USD
   - [Military Green / M](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114445082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-6995439f04736.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69af8e8a6baeb.jpg?v=1773113079
     Price: $40.00 USD
   - [Military Green / L](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114477850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-6995439f04736.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69af8e8a6baeb.jpg?v=1773113079
     Price: $40.00 USD
   - [Military Green / XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114510618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-6995439f04736.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69af8e8a6baeb.jpg?v=1773113079
     Price: $40.00 USD
   - [Military Green / 2XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114543386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-6995439f04736.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69af8e8a6baeb.jpg?v=1773113079
     Price: $45.00 USD
   - [Military Green / 3XL](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee?variant=51711114576154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-6995439f04736.jpg?v=1771389889
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69af8e8a6baeb.jpg?v=1773113079
     Price: $45.00 USD
 - [CHRISTIAN   BACKPACK WITH SAYING AND CROSS](https://rusticroots01.com/products/christian-backpack-with-saying): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
   Updated: 2026-02-26T04:38:13Z
@@ -12889,82 +12617,82 @@
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-69954b75a0030.jpg?v=1771392108
   Price: $60.00 USD
 - [HOPE Unisex Hoodie](https://rusticroots01.com/products/hope-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-02-26T22:44:21Z
+  Updated: 2026-03-10T11:59:02Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BIBLE APPAREL
+  Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-2-69955184c21f0.jpg?v=1771393567
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1773028437
   - [Dusty Rose / S](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265734938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1773028437
     Price: $65.00 USD
   - [Dusty Rose / M](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265767706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1773028437
     Price: $65.00 USD
   - [Dusty Rose / L](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265800474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1773028437
     Price: $65.00 USD
   - [Dusty Rose / XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265833242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1773028437
     Price: $65.00 USD
   - [Dusty Rose / 2XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265866010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1773028437
     Price: $70.00 USD
   - [Dusty Rose / 3XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265898778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-69955184a028e.jpg?v=1773028437
     Price: $70.00 USD
   - [Carbon Grey / S](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265931546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1773028437
     Price: $65.00 USD
   - [Carbon Grey / M](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265964314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1773028437
     Price: $65.00 USD
   - [Carbon Grey / L](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711265997082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1773028437
     Price: $65.00 USD
   - [Carbon Grey / XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266029850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1773028437
     Price: $65.00 USD
   - [Carbon Grey / 2XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266062618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1773028437
     Price: $70.00 USD
   - [Carbon Grey / 3XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266095386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-69955184c6b5d.jpg?v=1773028437
     Price: $70.00 USD
   - [Sky Blue / S](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266128154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1773028437
     Price: $65.00 USD
   - [Sky Blue / M](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266160922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1773028437
     Price: $65.00 USD
   - [Sky Blue / L](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266193690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1773028437
     Price: $65.00 USD
   - [Sky Blue / XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266226458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1773028437
     Price: $65.00 USD
   - [Sky Blue / 2XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266259226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1773028437
     Price: $70.00 USD
   - [Sky Blue / 3XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266291994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-69955184b5354.jpg?v=1773028437
     Price: $70.00 USD
   - [Bone / S](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266324762)
     Availability: Available
@@ -12992,27 +12720,27 @@
     Price: $70.00 USD
   - [White / S](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266521370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1773028437
     Price: $65.00 USD
   - [White / M](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266554138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1773028437
     Price: $65.00 USD
   - [White / L](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266586906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1773028437
     Price: $65.00 USD
   - [White / XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266619674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1773028437
     Price: $65.00 USD
   - [White / 2XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266652442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1773028437
     Price: $70.00 USD
   - [White / 3XL](https://rusticroots01.com/products/hope-unisex-hoodie?variant=51711266685210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1771393567
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1773028437
     Price: $70.00 USD
 - [MagSafe® tough case for iPhone®](https://rusticroots01.com/products/magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
   Updated: 2026-02-26T04:38:14Z
@@ -13249,50 +12977,50 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/clear-case-for-samsung-samsung-galaxy-s25-case-on-phone-6996b92f194ca.jpg?v=1771485501
     Price: $35.00 USD
 - [CAMPER HAT](https://rusticroots01.com/products/camper-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T04:38:14Z
+  Updated: 2026-03-10T13:52:33Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-right-6996bf4dd49c4.jpg?v=1771487078
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-6996bf4dd6919.jpg?v=1773033566
   - [Black](https://rusticroots01.com/products/camper-hat?variant=51716079452442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-right-6996bf4dd49c4.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-right-6996bf4dd49c4.jpg?v=1773033566
     Price: $35.00 USD
   - [Navy](https://rusticroots01.com/products/camper-hat?variant=51716079485210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-navy-front-6996bf4dd7b36.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-navy-front-6996bf4dd7b36.jpg?v=1773033566
     Price: $35.00 USD
   - [Cranberry](https://rusticroots01.com/products/camper-hat?variant=51716079517978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-cranberry-front-6996bf4dd8b6b.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-cranberry-front-6996bf4dd8b6b.jpg?v=1773033566
     Price: $35.00 USD
   - [Spruce](https://rusticroots01.com/products/camper-hat?variant=51716079550746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-spruce-front-6996bf4dd9e5d.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-spruce-front-6996bf4dd9e5d.jpg?v=1773033566
     Price: $35.00 USD
   - [Dark Grey](https://rusticroots01.com/products/camper-hat?variant=51716079583514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-dark-grey-left-side-6996bf4ddb4bd.jpg?v=1771487077
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-dark-grey-left-side-6996bf4ddb4bd.jpg?v=1773033566
     Price: $35.00 USD
   - [Green Camo](https://rusticroots01.com/products/camper-hat?variant=51716079616282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-green-camo-front-6996bf4ddc682.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-green-camo-front-6996bf4ddc682.jpg?v=1773033566
     Price: $35.00 USD
   - [Khaki](https://rusticroots01.com/products/camper-hat?variant=51716079649050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-khaki-front-6996bf4dde31d.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-khaki-front-6996bf4dde31d.jpg?v=1773033566
     Price: $35.00 USD
   - [Stone](https://rusticroots01.com/products/camper-hat?variant=51716079681818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-6996bf4de02eb.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-6996bf4de02eb.jpg?v=1773033566
     Price: $35.00 USD
   - [Pink](https://rusticroots01.com/products/camper-hat?variant=51716079714586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-pink-front-6996bf4de252c.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-pink-front-6996bf4de252c.jpg?v=1773033566
     Price: $35.00 USD
   - [Light Blue](https://rusticroots01.com/products/camper-hat?variant=51716079747354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-6996bf4de4a35.jpg?v=1771487078
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-6996bf4de4a35.jpg?v=1773033566
     Price: $35.00 USD
 - [PRAY Embroidered Beanie](https://rusticroots01.com/products/pray-embroidered-beanie): The perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing. • 60% cotton, 40% acrylic • Breathable cotton blend • Form-fitting shape • One size fits most This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 17 ⅜-17 ⅞ 8 ⅛ 2 ½ 8 ¼
   Updated: 2026-02-26T22:48:36Z
@@ -13320,23 +13048,23 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/knit-beanie-white-front-6997dd2554256.jpg?v=1771560242
     Price: $35.00 USD
-- [Dad hat PRAY](https://rusticroots01.com/products/dad-hat-pray): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T04:38:15Z
+- [PRAY DAD HAT](https://rusticroots01.com/products/dad-hat-pray): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
+  Updated: 2026-03-10T03:17:31Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BIBLE APPAREL
+  Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-6997df4b45a03.jpg?v=1771560797
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-6997df4b465f5.jpg?v=1773112651
   - [Black](https://rusticroots01.com/products/dad-hat-pray?variant=51719102005530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-6997df4b45a03.jpg?v=1771560797
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-6997df4b45a03.jpg?v=1773112651
     Price: $35.00 USD
   - [Navy](https://rusticroots01.com/products/dad-hat-pray?variant=51719102038298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-navy-front-6997df4b4795f.jpg?v=1771560797
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-navy-front-6997df4b4795f.jpg?v=1773112651
     Price: $35.00 USD
   - [Stone](https://rusticroots01.com/products/dad-hat-pray?variant=51719102071066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-6997df4b4a7d8.jpg?v=1771560796
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-6997df4b4a7d8.jpg?v=1773112651
     Price: $35.00 USD
 - [OFF GRID Snap case for Samsung®](https://rusticroots01.com/products/off-grid-snap-case-for-samsung®): With this snap case, you'll never have to compromise style for safety. Its slim and lightweight design is perfect for a busy lifestyle, adding minimal weight to your device while still keeping it protected. • Made of polycarbonate (PC) material • Wireless charging compatible • Precisely aligned port openings • Blank product sourced from the Republic of Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:38:15Z
@@ -13957,234 +13685,234 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-6998018379b9b.jpg?v=1771569562
     Price: $35.00 USD
 - [CROSS PANTS Unisex track pants](https://rusticroots01.com/products/cross-pants-unisex-track-pants): The unisex track pants are your new go-to piece for working out or styling a streetwear outfit. The water-resistant, lightweight fabric and mesh lining provide comfort, while elastic ankle cuffs will make it easy for you to show off your kicks. Style it with a windbreaker for a complete look and feel. • 100% polyester • Fabric weight: 2.21 oz/yd² (75 g/m²) • Lightweight, water-resistant fabric • Fully lined, mesh lining • Relaxed fit • Elastic waistband and ankle cuffs • Drawcord • Zip pockets • Sits at hip • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (inches) INSEAM LENGTH (inches) XS 25 28 S 27 28 ½ M 29 ½ 28 ¾ L 32 29 ¼ XL 35 29 ½ 2XL 36 ½ 30 3XL 39 30 ¼
-  Updated: 2026-02-27T21:39:17Z
+  Updated: 2026-03-10T03:57:34Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BIBLE APPAREL
+  Product Type: CHRISTIAN APPAREL
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
   - [XS](https://rusticroots01.com/products/cross-pants-unisex-track-pants?variant=51719455277338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
   - [S](https://rusticroots01.com/products/cross-pants-unisex-track-pants?variant=51719455310106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
   - [M](https://rusticroots01.com/products/cross-pants-unisex-track-pants?variant=51719455342874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
   - [L](https://rusticroots01.com/products/cross-pants-unisex-track-pants?variant=51719455375642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
   - [XL](https://rusticroots01.com/products/cross-pants-unisex-track-pants?variant=51719455408410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
   - [2XL](https://rusticroots01.com/products/cross-pants-unisex-track-pants?variant=51719455441178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
   - [3XL](https://rusticroots01.com/products/cross-pants-unisex-track-pants?variant=51719455473946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-699805f9a545e.jpg?v=1771570709
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
 - [TAKE ME TO THE MOUNTAINS  Unisex Premium Sweatshirt](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:38:16Z
+  Updated: 2026-03-10T03:51:03Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: T SHIRT LONG SLEEVE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-69980c2d24808.jpg?v=1771572309
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
   - [S](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt?variant=51719482573082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-69980c2d24808.jpg?v=1771572309
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
     Price: $62.00 USD
   - [M](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt?variant=51719482605850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-69980c2d24808.jpg?v=1771572309
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
     Price: $62.00 USD
   - [L](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt?variant=51719482638618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-69980c2d24808.jpg?v=1771572309
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
     Price: $62.00 USD
   - [XL](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt?variant=51719482671386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-69980c2d24808.jpg?v=1771572309
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
     Price: $62.00 USD
   - [2XL](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt?variant=51719482704154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-69980c2d24808.jpg?v=1771572309
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
     Price: $65.00 USD
   - [3XL](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt?variant=51719482736922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-69980c2d24808.jpg?v=1771572309
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
     Price: $65.00 USD
 - [HIKING TRIP Unisex hoodie](https://rusticroots01.com/products/hiking-trip-unisex-hoodie): A soft and comfy unisex hoodie that fits all your hoodie needs. The fleece fabric makes it a great partner all year round, be it a summer evening on the beach, or a Christmas dinner in a mountain cabin.• 52% air lume combed ring-spun cotton, 48% poly fleece• Heather colors are 60% ai rlume combed ring-spun cotton, 40% poly fleece• Fabric weight: 6.5 oz/yd² (220.4 g/m²)• Regular fit• Side-seamed construction• Blank product sourced from Honduras, Nicaragua or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:38:16Z
+  Updated: 2026-03-10T03:38:57Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-699a79dcbe27e.jpg?v=1771732276
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-69af907bdbb45.jpg?v=1773113936
   - [Black / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147063578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-699a79dcbb99d.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-69af907bd7007.jpg?v=1773113936
     Price: $68.00 USD
   - [Black / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147096346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-699a79dcbb99d.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-69af907bd7007.jpg?v=1773113936
     Price: $68.00 USD
   - [Black / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147129114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-699a79dcbb99d.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-69af907bd7007.jpg?v=1773113936
     Price: $62.50 USD
   - [Black / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147161882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-699a79dcbb99d.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-69af907bd7007.jpg?v=1773113936
     Price: $62.50 USD
   - [Black / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147194650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-699a79dcbb99d.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-black-front-69af907bd7007.jpg?v=1773113936
     Price: $65.00 USD
   - [Maroon / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147227418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-699a79dcbe27e.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-69af907bd8ba9.jpg?v=1773113936
     Price: $68.00 USD
   - [Maroon / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147260186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-699a79dcbe27e.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-69af907bd8ba9.jpg?v=1773113936
     Price: $68.00 USD
   - [Maroon / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147292954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-699a79dcbe27e.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-69af907bd8ba9.jpg?v=1773113936
     Price: $62.50 USD
   - [Maroon / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147325722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-699a79dcbe27e.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-69af907bd8ba9.jpg?v=1773113936
     Price: $62.50 USD
   - [Maroon / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147358490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-699a79dcbe27e.jpg?v=1771732276
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-maroon-front-69af907bd8ba9.jpg?v=1773113936
     Price: $65.00 USD
   - [Forest / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147391258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-699a79dcc06a0.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-69af907bdbb45.jpg?v=1773113936
     Price: $68.00 USD
   - [Forest / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147424026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-699a79dcc06a0.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-69af907bdbb45.jpg?v=1773113936
     Price: $68.00 USD
   - [Forest / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147456794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-699a79dcc06a0.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-69af907bdbb45.jpg?v=1773113936
     Price: $62.50 USD
   - [Forest / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147489562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-699a79dcc06a0.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-69af907bdbb45.jpg?v=1773113936
     Price: $62.50 USD
   - [Forest / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147522330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-699a79dcc06a0.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-forest-front-69af907bdbb45.jpg?v=1773113936
     Price: $65.00 USD
   - [Heather Navy / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147555098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-699a79dcc47dd.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-69af907bdfdd2.jpg?v=1773113936
     Price: $68.00 USD
   - [Heather Navy / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147587866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-699a79dcc47dd.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-69af907bdfdd2.jpg?v=1773113936
     Price: $68.00 USD
   - [Heather Navy / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147620634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-699a79dcc47dd.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-69af907bdfdd2.jpg?v=1773113936
     Price: $62.50 USD
   - [Heather Navy / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147653402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-699a79dcc47dd.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-69af907bdfdd2.jpg?v=1773113936
     Price: $62.50 USD
   - [Heather Navy / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147686170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-699a79dcc47dd.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-navy-front-69af907bdfdd2.jpg?v=1773113936
     Price: $65.00 USD
   - [Team Purple / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147718938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-699a79dcc9b1e.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-69af907be5289.jpg?v=1773113936
     Price: $68.00 USD
   - [Team Purple / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147751706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-699a79dcc9b1e.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-69af907be5289.jpg?v=1773113936
     Price: $68.00 USD
   - [Team Purple / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147784474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-699a79dcc9b1e.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-69af907be5289.jpg?v=1773113936
     Price: $62.50 USD
   - [Team Purple / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147817242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-699a79dcc9b1e.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-69af907be5289.jpg?v=1773113936
     Price: $62.50 USD
   - [Team Purple / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147850010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-699a79dcc9b1e.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-team-purple-front-69af907be5289.jpg?v=1773113936
     Price: $65.00 USD
   - [Heather Forest / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147882778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-699a79dcd1608.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-69af907bd3f48.jpg?v=1773113936
     Price: $68.00 USD
   - [Heather Forest / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147915546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-699a79dcd1608.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-69af907bd3f48.jpg?v=1773113936
     Price: $68.00 USD
   - [Heather Forest / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147948314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-699a79dcd1608.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-69af907bd3f48.jpg?v=1773113936
     Price: $62.50 USD
   - [Heather Forest / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731147981082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-699a79dcd1608.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-69af907bd3f48.jpg?v=1773113936
     Price: $62.50 USD
   - [Heather Forest / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148013850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-699a79dcd1608.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-heather-forest-front-69af907bd3f48.jpg?v=1773113936
     Price: $65.00 USD
   - [Athletic Heather / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148046618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-699a79dcd9511.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-69af907bf1a0a.jpg?v=1773113936
     Price: $68.00 USD
   - [Athletic Heather / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148079386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-699a79dcd9511.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-69af907bf1a0a.jpg?v=1773113936
     Price: $68.00 USD
   - [Athletic Heather / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148112154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-699a79dcd9511.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-69af907bf1a0a.jpg?v=1773113936
     Price: $62.50 USD
   - [Athletic Heather / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148144922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-699a79dcd9511.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-69af907bf1a0a.jpg?v=1773113936
     Price: $62.50 USD
   - [Athletic Heather / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148177690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-699a79dcd9511.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-athletic-heather-front-69af907bf1a0a.jpg?v=1773113936
     Price: $65.00 USD
   - [Lilac / S](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148210458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-699a79dce2b0f.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-69af907c0b13c.jpg?v=1773113936
     Price: $68.00 USD
   - [Lilac / M](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148243226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-699a79dce2b0f.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-69af907c0b13c.jpg?v=1773113936
     Price: $68.00 USD
   - [Lilac / L](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148275994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-699a79dce2b0f.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-69af907c0b13c.jpg?v=1773113936
     Price: $62.50 USD
   - [Lilac / XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148308762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-699a79dce2b0f.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-69af907c0b13c.jpg?v=1773113936
     Price: $62.50 USD
   - [Lilac / 2XL](https://rusticroots01.com/products/hiking-trip-unisex-hoodie?variant=51731148341530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-699a79dce2b0f.jpg?v=1771731449
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-69af907c0b13c.jpg?v=1773113936
     Price: $65.00 USD
 - [CHOSEN Flip-Flops](https://rusticroots01.com/products/chosen-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
   Updated: 2026-02-26T22:40:50Z
@@ -14204,55 +13932,55 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699a82d0446bc.jpg?v=1771733727
     Price: $34.86 USD
-- [Adventure buddy Trucker Cap](https://rusticroots01.com/products/trucker-cap): This six-panel trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun. • 26% cotton, 74% polyester • Mid-profile cap with a low-profile embroidery area • Structured, six-panel cap • 3.5″ crown (8.9 cm) • Hard buckram front panels • Mesh back • Permacurv® visor, matching undervisor • Plastic adjustable closure • Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm) • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 21 ⅝-⅝ 3 ⅞ 2 ½ 6 ¾
-  Updated: 2026-02-26T04:38:16Z
+- [Adventure buddy Trucker Cap](https://rusticroots01.com/products/trucker-cap): This six-panel trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun. • 26% cotton, 74% polyester• Mid-profile cap with a low-profile embroidery area• Structured, six-panel cap• 3.5″ crown (8.9 cm)• Hard buckram front panels• Mesh back• Perma curve® visor, matching under visor• Plastic adjustable closure• Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm)• Blank product sourced from Vietnam or Bangladesh Size guide A (inches) B (inches) C (inches) D (inches) One size 21 ⅝-⅝ 3 ⅞ 2 ½ 6 ¾
+  Updated: 2026-03-10T06:14:17Z
   Vendor: RUSTIC ROOTS 
-  Product Type: CAP HAT BEANIE
+  Product Type: CAP HAT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-black-front-699a88746b8d6.jpg?v=1771735171
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-black-front-69af8beb6c3d6.jpg?v=1773112460
   - [Black](https://rusticroots01.com/products/trucker-cap?variant=51731295109402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-black-front-699a88746b8d6.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-black-front-69af8beb6aff6.jpg?v=1773112460
     Price: $35.00 USD
   - [Black/ White](https://rusticroots01.com/products/trucker-cap?variant=51731295142170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-black-white-front-699a88746cd4b.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-black-white-front-69af8beb6b184.jpg?v=1773112460
     Price: $35.00 USD
   - [Navy](https://rusticroots01.com/products/trucker-cap?variant=51731295174938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-navy-front-699a88746cfb0.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-navy-front-69af8beb6b3a4.jpg?v=1773112460
     Price: $35.00 USD
   - [Navy/ White](https://rusticroots01.com/products/trucker-cap?variant=51731295207706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-navy-white-front-699a88746d20f.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-navy-white-front-69af8beb6b5d1.jpg?v=1773112460
     Price: $35.00 USD
   - [Charcoal/ Black](https://rusticroots01.com/products/trucker-cap?variant=51731295240474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-charcoal-black-front-699a88746d49b.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-charcoal-black-front-69af8beb6b825.jpg?v=1773112460
     Price: $35.00 USD
   - [Brown/ Khaki](https://rusticroots01.com/products/trucker-cap?variant=51731295273242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-brown-khaki-front-699a88746d753.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-brown-khaki-front-69af8beb6babe.jpg?v=1773112460
     Price: $35.00 USD
   - [Dark Heather Gray](https://rusticroots01.com/products/trucker-cap?variant=51731295306010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-dark-heather-gray-front-699a88746da63.jpg?v=1771735172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-dark-heather-gray-front-69af8beb6bd9c.jpg?v=1773112310
     Price: $35.00 USD
   - [Evergreen](https://rusticroots01.com/products/trucker-cap?variant=51731295338778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-evergreen-front-699a88746ddb7.jpg?v=1771735172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-evergreen-front-69af8beb6c090.jpg?v=1773112310
     Price: $35.00 USD
   - [Heather/ Black](https://rusticroots01.com/products/trucker-cap?variant=51731295371546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-black-front-699a88746e15e.jpg?v=1771735172
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-black-front-69af8beb6c3d6.jpg?v=1773112460
     Price: $35.00 USD
   - [Heather Grey/White](https://rusticroots01.com/products/trucker-cap?variant=51731295404314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-grey-white-front-699a88746e52b.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-grey-white-front-69af8beb6c7a2.jpg?v=1773112310
     Price: $35.00 USD
   - [Silver](https://rusticroots01.com/products/trucker-cap?variant=51731295437082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-silver-front-699a88746e925.jpg?v=1771735171
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-silver-front-69af8beb669ea.jpg?v=1773112309
     Price: $35.00 USD
 - [FAITH Backpack](https://rusticroots01.com/products/faith-backpack): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
   Updated: 2026-02-26T04:38:16Z
@@ -14269,11 +13997,11 @@
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-699a943731d04.jpg?v=1771738176
   Price: $58.00 USD
 - [CAMPING Unisex t-shirt](https://rusticroots01.com/products/unisex-t-shirt-2): We’re gonna make you an offer you can’t refuse: the best 100% cotton tee you’ve ever tried. Pre-shrunk fabric? Check. Side-seamed construction? Check. Best fit ever? Double check. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53
-  Updated: 2026-02-26T04:38:17Z
+  Updated: 2026-03-10T03:01:04Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1771742924
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-vintage-black-front-699a9c302c844.jpg?v=1773111663
   - [Black Heather / S](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731522617626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-black-heather-front-699a9c3043132.jpg?v=1771742924
@@ -14336,23 +14064,23 @@
     Price: $43.00 USD
   - [Navy / S](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523109146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1773111663
     Price: $43.00 USD
   - [Navy / M](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523141914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1773111663
     Price: $43.00 USD
   - [Navy / L](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523174682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1773111663
     Price: $43.00 USD
   - [Navy / XL](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523207450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1773111663
     Price: $43.00 USD
   - [Navy / 2XL](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523240218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-navy-front-699a9c3054a81.jpg?v=1773111663
     Price: $43.00 USD
   - [Cardinal / S](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523272986)
     Availability: Available
@@ -14396,43 +14124,43 @@
     Price: $43.00 USD
   - [Maroon / S](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523600666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1773111663
     Price: $43.00 USD
   - [Maroon / M](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523633434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1773111663
     Price: $43.00 USD
   - [Maroon / L](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523666202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1773111663
     Price: $43.00 USD
   - [Maroon / XL](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523698970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1773111663
     Price: $43.00 USD
   - [Maroon / 2XL](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523731738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-maroon-front-699a9c301493f.jpg?v=1773111663
     Price: $43.00 USD
   - [Forest / S](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523764506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1773111663
     Price: $43.00 USD
   - [Forest / M](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523797274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1773111663
     Price: $43.00 USD
   - [Forest / L](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523830042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1773111663
     Price: $43.00 USD
   - [Forest / XL](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523862810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1773111663
     Price: $43.00 USD
   - [Forest / 2XL](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523895578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1771742924
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-forest-front-699a9c3082362.jpg?v=1773111663
     Price: $43.00 USD
   - [Dark Grey Heather / S](https://rusticroots01.com/products/unisex-t-shirt-2?variant=51731523928346)
     Availability: Available
@@ -14601,9 +14329,9 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slip-on-canvas-shoes-white-front-699aa0cf83edb.jpg?v=1771741402
     Price: $63.00 USD
 - [STAR Women’s lace-up canvas shoes](https://rusticroots01.com/products/star-women-s-lace-up-canvas-shoes): No closet is complete without a pair of sneakers. Step up your shoe game with these women’s lace-up canvas shoes and rest assured that your outfit will be polished to perfection. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Breathable lining • Padded collar and tongue • Removable insole • Soles and laces in matching colors • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product.Size guide US WOMEN UK EUROPE FOOT LENGTH (inches) JAPAN OUTSOLE LENGTH (inches) 5 5 2.5 35.5 8 ⅝ 22 9 ¾ 5.5 5.5 3 36 8 ⅞ 22.5 9 ¾ 6 6 3.5 36.5 9.00 23 9 ¾ 6.5 6.5 4 37.5 9 ⅛ 23.5 10.00 7 7 4.5 38 9 ¼ 24 10.00 7.5 7.5 5 38.5 9 ½ 24.5 10 ¼ 8 8 5.5 39 9 ⅝ 25 10 ¼ 8.5 8.5 6 40 9 ¾ 25.5 10 ⅝ 9 9 6.5 40.5 10.00 26 10 ¾ 9.5 9.5 7 41 10 ⅛ 26.5 10 ¾ 10 10 7.5 42 10 ¼ 27 11 ⅛ 10.5 10.5 8 42.5 10 ½ 27.5 11 ⅜ 11 11 8.5 43 10 ⅝ 28 11 ⅜ 11.5 11.5 9 44 10 ¾ 28.5 11 ⅝ 12 12 9.5 44.5 11.00 29 12.00
-  Updated: 2026-02-26T04:38:17Z
+  Updated: 2026-03-10T17:47:55Z
   Vendor: RUSTIC ROOTS 
-  Product Type: BEACH
+  Product Type: BEACH SHOES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-lace-up-canvas-shoes-white-front-699aa4268daec.jpg?v=1771742528
   - [5](https://rusticroots01.com/products/star-women-s-lace-up-canvas-shoes?variant=51731610960154)
@@ -14667,130 +14395,130 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-lace-up-canvas-shoes-white-right-699aa4268ce83.jpg?v=1771742528
     Price: $65.00 USD
 - [MOUNTAIN LIFE BEST LIFE Unisex Sweatshirt](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-02-26T04:38:17Z
+  Updated: 2026-03-10T03:04:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-699d0ed12fba6.jpg?v=1771900652
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4be05b0f4.jpg?v=1773111860
   - [Charcoal / S](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719560474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-699d0ed12fba6.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae4be059642.jpg?v=1773111860
     Price: $55.00 USD
   - [Charcoal / M](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719593242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-699d0ed12fba6.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae4be059642.jpg?v=1773111860
     Price: $55.00 USD
   - [Charcoal / L](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719626010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-699d0ed12fba6.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae4be059642.jpg?v=1773111860
     Price: $55.00 USD
   - [Charcoal / XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719658778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-699d0ed12fba6.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae4be059642.jpg?v=1773111860
     Price: $55.00 USD
   - [Charcoal / 2XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719691546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-699d0ed12fba6.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae4be059642.jpg?v=1773111860
     Price: $55.00 USD
   - [Indigo Blue / S](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719724314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-699d0ed13592c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4be04be3c.jpg?v=1773111860
     Price: $55.00 USD
   - [Indigo Blue / M](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719757082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-699d0ed13592c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4be04be3c.jpg?v=1773111860
     Price: $55.00 USD
   - [Indigo Blue / L](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719789850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-699d0ed13592c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4be04be3c.jpg?v=1773111860
     Price: $55.00 USD
   - [Indigo Blue / XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719822618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-699d0ed13592c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4be04be3c.jpg?v=1773111860
     Price: $55.00 USD
   - [Indigo Blue / 2XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719855386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-699d0ed13592c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-indigo-blue-front-69ae4be04be3c.jpg?v=1773111860
     Price: $55.00 USD
   - [Graphite Heather / S](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719888154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-and-back-699d0ed13fa4c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-69ae4be05ea57.jpg?v=1773111860
     Price: $55.00 USD
   - [Graphite Heather / M](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719920922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-and-back-699d0ed13fa4c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-69ae4be05ea57.jpg?v=1773111860
     Price: $55.00 USD
   - [Graphite Heather / L](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719953690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-and-back-699d0ed13fa4c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-69ae4be05ea57.jpg?v=1773111860
     Price: $55.00 USD
   - [Graphite Heather / XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741719986458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-and-back-699d0ed13fa4c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-69ae4be05ea57.jpg?v=1773111860
     Price: $55.00 USD
   - [Graphite Heather / 2XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720019226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-and-back-699d0ed13fa4c.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-69ae4be05ea57.jpg?v=1773111860
     Price: $55.00 USD
   - [Light Pink / S](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720051994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-and-back-699d0ed1452d9.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4be063e6d.jpg?v=1773111860
     Price: $55.00 USD
   - [Light Pink / M](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720084762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-and-back-699d0ed1452d9.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4be063e6d.jpg?v=1773111860
     Price: $55.00 USD
   - [Light Pink / L](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720117530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-and-back-699d0ed1452d9.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4be063e6d.jpg?v=1773111860
     Price: $55.00 USD
   - [Light Pink / XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720150298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-and-back-699d0ed1452d9.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4be063e6d.jpg?v=1773111860
     Price: $55.00 USD
   - [Light Pink / 2XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720183066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-and-back-699d0ed1452d9.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-light-pink-front-69ae4be063e6d.jpg?v=1773111860
     Price: $55.00 USD
   - [Ash / S](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720215834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-and-back-699d0ed14a8b7.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4be06aad7.jpg?v=1773111860
     Price: $55.00 USD
   - [Ash / M](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720248602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-and-back-699d0ed14a8b7.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4be06aad7.jpg?v=1773111860
     Price: $55.00 USD
   - [Ash / L](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720281370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-and-back-699d0ed14a8b7.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4be06aad7.jpg?v=1773111860
     Price: $55.00 USD
   - [Ash / XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720314138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-and-back-699d0ed14a8b7.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4be06aad7.jpg?v=1773111860
     Price: $55.00 USD
   - [Ash / 2XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720346906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-and-back-699d0ed14a8b7.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4be06aad7.jpg?v=1773111860
     Price: $55.00 USD
   - [White / S](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720379674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-699d0ed153264.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae4be0740aa.jpg?v=1773111860
     Price: $55.00 USD
   - [White / M](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720412442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-699d0ed153264.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae4be0740aa.jpg?v=1773111860
     Price: $55.00 USD
   - [White / L](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720445210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-699d0ed153264.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae4be0740aa.jpg?v=1773111860
     Price: $55.00 USD
   - [White / XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720477978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-699d0ed153264.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae4be0740aa.jpg?v=1773111860
     Price: $55.00 USD
   - [White / 2XL](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt?variant=51741720510746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-699d0ed153264.jpg?v=1771900652
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae4be0740aa.jpg?v=1773111860
     Price: $55.00 USD
 - [HIKING LIFETough Case for iPhone®](https://rusticroots01.com/products/hiking-lifetough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-02-26T04:38:17Z
@@ -15206,31 +14934,31 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-clear-case-for-iphone-iphone-17-front-699d269e02984.jpg?v=1771906735
     Price: $35.00 USD
-- [CAMPER Unisex Short Sleeve V-Neck T-Shirt](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt): This unisex tee has a classic v-neck cut and fits like a well-loved favorite. • 100% combed ring-spun cotton• Dark Grey Heather is 52% Airlume combed ring-spun cotton, 48% polyester• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester• Pre-shrunk fabric• Fabric weight: 4.2 oz/yd² (142 g/m²)• Regular fit• Side-seamed construction• Cove rstitched v -neck and hemmed sleeves• Shoulder-to-shoulder taping• Blank product sourced from Nicaragua, Guatemala, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) BODY WIDTH (inches) S 27 ¾ 18 M 28 ¾ 20 L 29 ¾ 22 XL 30 ¾ 24 2XL 31 ¾ 26
-  Updated: 2026-02-26T04:38:18Z
+- [GIRL Unisex Short Sleeve V-Neck T-Shirt](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt): This unisex tee has a classic v -neck cut and fits like a well-loved favorite. • 100% combed ring-spun cotton• Dark Grey Heather is 52% Airline combed ring-spun cotton, 48% polyester• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester• Pre-shrunk fabric• Fabric weight: 4.2 oz/yd² (142 g/m²)• Regular fit• Side-seamed construction• Cove stitched v -neck and hemmed sleeves• Shoulder-to-shoulder taping• Blank product sourced from Nicaragua, Guatemala, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) BODY WIDTH (inches) S 27 ¾ 18 M 28 ¾ 20 L 29 ¾ 22 XL 30 ¾ 24 2XL 31 ¾ 26
+  Updated: 2026-03-10T02:02:16Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: t-shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-699d2dd14a298.jpg?v=1771908572
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-69af7b488621b.jpg?v=1773108135
   - [S](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt?variant=51742239129882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-699d2dd14a298.jpg?v=1771908572
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-69af7b488621b.jpg?v=1773108135
     Price: $40.00 USD
   - [M](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt?variant=51742239162650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-699d2dd14a298.jpg?v=1771908572
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-69af7b488621b.jpg?v=1773108135
     Price: $40.00 USD
   - [L](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt?variant=51742239195418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-699d2dd14a298.jpg?v=1771908572
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-69af7b488621b.jpg?v=1773108135
     Price: $40.00 USD
   - [XL](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt?variant=51742239228186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-699d2dd14a298.jpg?v=1771908572
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-69af7b488621b.jpg?v=1773108135
     Price: $40.00 USD
   - [2XL](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt?variant=51742239260954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-699d2dd14a298.jpg?v=1771908572
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-69af7b488621b.jpg?v=1773108135
     Price: $40.00 USD
 - [RV CAMPER MagSafe® tough case for iPhone®](https://rusticroots01.com/products/rv-camper-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
   Updated: 2026-02-26T04:38:18Z
@@ -15534,153 +15262,153 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-lifestyle-1-699d40b6edc01.jpg?v=1771913428
     Price: $35.00 USD
-- [TRAVEL TRAILER Dad hat](https://rusticroots01.com/products/travel-trailer-dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-02-26T04:38:19Z
+- [TRAVEL TRAILER DAD HAT](https://rusticroots01.com/products/travel-trailer-dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
+  Updated: 2026-03-10T02:57:16Z
   Vendor: RUSTIC ROOTS 
-  Product Type: CAP HAT BEANIE
+  Product Type: CAP HAT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-699d42992626e.jpg?v=1771914062
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69af77d505d7b.jpg?v=1773111436
   - [Stone](https://rusticroots01.com/products/travel-trailer-dad-hat?variant=51742527226138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-699d42992626e.jpg?v=1771914062
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-69af77d5088ac.jpg?v=1773111436
     Price: $35.00 USD
   - [Pink](https://rusticroots01.com/products/travel-trailer-dad-hat?variant=51742527258906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-pink-front-699d42992792b.jpg?v=1771913905
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-pink-front-69af77d50a0d4.jpg?v=1773111436
     Price: $35.00 USD
   - [White](https://rusticroots01.com/products/travel-trailer-dad-hat?variant=51742527291674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-699d429921d2b.jpg?v=1771914062
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69af77d505d7b.jpg?v=1773111436
     Price: $35.00 USD
 - [CAMPER LIFE Trucker Cap](https://rusticroots01.com/products/camper-life-rucker-cap): This six-panel trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun. • 26% cotton, 74% polyester• Mid-profile cap with a low-profile embroidery area• Structured, six-panel cap• 3.5″ crown (8.9 cm)• Hard buckram front panels• Mesh back• Permacurv® visor, matching under visor• Plastic adjustable closure• Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm)• Blank product sourced from Vietnam or Bangladesh Size guide A (inches) B (inches) C (inches) D (inches) One size 21 ⅝-⅝ 3 ⅞ 2 ½ 6 ¾
-  Updated: 2026-02-26T04:38:19Z
+  Updated: 2026-03-10T01:24:26Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-khaki-front-699d466467f45.jpg?v=1771914870
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-khaki-front-69af72b9509b7.jpg?v=1773105855
   - [Caramel](https://rusticroots01.com/products/camper-life-rucker-cap?variant=51742571397402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-caramel-front-699d46646942b.jpg?v=1771914871
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-caramel-front-69af72b94ffeb.jpg?v=1773105855
     Price: $35.00 USD
   - [Rustic Orange/ Khaki](https://rusticroots01.com/products/camper-life-rucker-cap?variant=51742571430170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-rustic-orange-khaki-front-699d466469775.jpg?v=1771914870
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-rustic-orange-khaki-front-69af72b94f3d1.jpg?v=1773105855
     Price: $35.00 USD
   - [Heather/ Black](https://rusticroots01.com/products/camper-life-rucker-cap?variant=51742571462938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-black-front-699d466469b88.jpg?v=1771914870
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-black-front-69af72b950239.jpg?v=1773105855
     Price: $35.00 USD
   - [Heather Grey/White](https://rusticroots01.com/products/camper-life-rucker-cap?variant=51742571495706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-grey-white-front-699d46646a018.jpg?v=1771914870
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-grey-white-front-69af72b95046a.jpg?v=1773105855
     Price: $35.00 USD
   - [Silver](https://rusticroots01.com/products/camper-life-rucker-cap?variant=51742571528474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-silver-front-699d46646a549.jpg?v=1771914870
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-silver-front-69af72b9506ff.jpg?v=1773105855
     Price: $35.00 USD
   - [Khaki](https://rusticroots01.com/products/camper-life-rucker-cap?variant=51742571561242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-khaki-front-699d466467f45.jpg?v=1771914870
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-khaki-front-69af72b9509b7.jpg?v=1773105855
     Price: $35.00 USD
 - [DOG MOM Unisex cotton hoodie](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie): This premium hoodie blends comfort with style. Its relaxed fit and soft cotton fabric make it perfect for casual looks, while the all-over print design lets you create unique and eye-catching styles. • 95% cotton, 5% elastane • Fabric weight: 7.8 oz./yd.² (265 g/m²) • Relaxed unisex fit with drop shoulders • Double-layer hood with drawstrings • Spacious front pocket • Self-fabric collar and cuffs • Blank product sourced from Mexico This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-02-26T04:38:19Z
+  Updated: 2026-03-10T01:19:09Z
   Vendor: RUSTIC ROOTS 
-  Product Type: OFF GRID
+  Product Type: sweatshirt dog mom
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-left-front-699e9f47ef67e.jpg?v=1772003158
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47ef260.jpg?v=1773105548
   - [2XS](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144204570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $65.00 USD
   - [XS](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144237338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $65.00 USD
   - [S](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144270106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $65.00 USD
   - [M](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144302874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $65.00 USD
   - [L](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144335642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $65.00 USD
   - [XL](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144368410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $65.00 USD
   - [2XL](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144401178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $70.00 USD
   - [3XL](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144433946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $70.00 USD
   - [4XL](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144466714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $67.00 USD
   - [5XL](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144499482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $70.00 USD
   - [6XL](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie?variant=51747144532250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1772003158
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-699e9f47edf86.jpg?v=1773105548
     Price: $72.50 USD
-- [CAMO Unisex cotton sweatshirt](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt): Soft, stretchy, and made to last – this cotton sweatshirt blends comfort and quality for effortless everyday style for all body types. Its clean shape and breathable fabric make it a go-to piece for casual outfits or standout streetwear designs. • 95% cotton, 5% elastane • Fabric weight: 7.8 oz./yd.² (265 g/m²) • Relaxed fit with drop shoulder • Slight stretch for comfort and shape retention • Pilling-resistant and durable after multiple washes • Blank product sourced from Mexico This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-02-26T22:45:36Z
+- [ONE DAY AT A TIME   Unisex cotton sweatshirt](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt): Soft, stretchy, and made to last – this cotton sweatshirt blends comfort and quality for effortless everyday style for all body types. Its clean shape and breathable fabric make it a go-to piece for casual outfits or standout streetwear designs. • 95% cotton, 5% elastane • Fabric weight: 7.8 oz./yd.² (265 g/m²) • Relaxed fit with drop shoulder • Slight stretch for comfort and shape retention • Pilling-resistant and durable after multiple washes • Blank product sourced from Mexico This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
+  Updated: 2026-03-10T02:54:53Z
   Vendor: RUSTIC ROOTS 
-  Product Type: OFF GRID
+  Product Type: SWEATSHIRT GIRLS
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
   - [2XS](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312533786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [XS](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312566554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [S](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312599322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [M](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312632090)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [L](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312664858)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [XL](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312697626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [2XL](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312730394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [3XL](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312763162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [4XL](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312795930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $60.00 USD
   - [5XL](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312828698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $65.00 USD
   - [6XL](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt?variant=51747312861466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-and-back-699ea3e13457a.jpg?v=1772004362
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $70.00 USD
 - [REMEMBER YOUR WHY Unisex Champion tie-dye hoodie](https://rusticroots01.com/products/remember-your-why-unisex-champion-tie-dye-hoodie): If you're looking for a trendy, one-of-a-kind clothing item, this Champion tie-dye hoodie is the one! It's almost impossible to create two similar items during the garment-dyeing process, so every piece has a unique touch to it. • 82% cotton, 18% poly fleece • Fabric weight: 12 oz/yd² (406.9 g/m²) • Unique scrunch-dye, tie-dye pattern • Reverse Weave® cross-grain cut resists shrinkage • Two-ply hood with matching drawcords • 1×1 rib knit side panels, sleeve cuffs, and bottom hem • Front pouch pocket • Woven label at the back of the neck • Embroidered "C" logo on left sleeve • Blank product sourced from El SalvadorSize guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 26 20 34 ½ M 27 22 35 ¼ L 28 24 36 XL 29 26 36 ¾ 2XL 30 28 37 ½
   Updated: 2026-02-27T06:05:43Z
@@ -15708,67 +15436,67 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-tie-dye-hoodie-navy-front-699fd1f60e4df.jpg?v=1772081950
     Price: $86.00 USD
-- [Unis ex I,AM AMAZING   staple eco t-shirt](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt): Get an eco version of a beloved classic in this unisex t-shirt made from 100% recycled materials. Its lightweight fabric and time-tested fit make this tee a true staple for warmer days. • 65% recycled polyester, 35% recycled Airlume combed and ring-spun cotton • Fabric weight: 4.2 oz./yd.² (142 g/m²) • 32 singles • Unisex sizing, regular fit • Side-seamed construction • The recycled content of this product is  under GRS (Global Recycled Standard) • Blank product sourced from NicaraguaSize guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57
-  Updated: 2026-02-27T11:42:37Z
+- [Unis ex I,AM AMAZING   staple eco t-shirt](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt): Get an eco-version of a beloved classic in this unisex t-shirt made from 100% recycled materials. Its lightweight fabric and time-tested fit make this tee a true staple for warmer days.• 65% recycled polyester, 35% recycled Airlume combed and ring-spun cotton• Fabric weight: 4.2 oz./yd.² (142 g/m²)• 32 singles• Unisex sizing, regular fit• Side-seamed construction• The recycled content of this product is  under GRS (Global Recycled Standard)• Blank product sourced from Nicaragua Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57
+  Updated: 2026-03-10T01:16:38Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
   - [Black / XS](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750582845722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1773105398
     Price: $18.50 USD
   - [Black / S](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750582878490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1773105398
     Price: $18.50 USD
   - [Black / M](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750582911258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1773105398
     Price: $18.50 USD
   - [Black / L](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750582944026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1773105398
     Price: $18.50 USD
   - [Black / XL](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750582976794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1773105398
     Price: $18.50 USD
   - [Black / 2XL](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583009562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1773105398
     Price: $21.50 USD
   - [Black / 3XL](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583042330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-black-front-699fa305da72a.jpg?v=1773105398
     Price: $24.00 USD
   - [Navy / XS](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583075098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $18.50 USD
   - [Navy / S](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583107866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $18.50 USD
   - [Navy / M](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583140634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $18.50 USD
   - [Navy / L](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583173402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $18.50 USD
   - [Navy / XL](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583206170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $18.50 USD
   - [Navy / 2XL](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583238938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $21.50 USD
   - [Navy / 3XL](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt?variant=51750583271706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1772069668
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $24.00 USD
 - [BELIEVE IN YOUR DREAMS Dad Hat](https://rusticroots01.com/products/believe-in-your-dreams-dad-hat): Just like a dessert is always better with a cherry on top, a casual outfit looks better if you’re styling it with a classic dad hat. Choose your colors! • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
   Updated: 2026-02-27T13:58:57Z
@@ -15797,210 +15525,210 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-699fa90ef01f4.jpg?v=1772071199
     Price: $33.75 USD
 - [BELIEVE IN YOUR SELF Unisex Long Sleeve Tee](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee): Enrich your wardrobe with a versatile long sleeve tee. For a casual look, combine it with your favorite jeans, and layer it with a button-up shirt, a zip-up hoodie, or a snazzy jacket. Dress it up with formal trousers or chinos to achieve a more professional look. • 100% airlume combed ring-spun cotton • Heather colors are 52% combed and ring-spun cotton, 48% polyester • Athletic Heather and Black Heather are 90% combed and ring-spun cotton, 10% polyester • Fabric weight: 4.2 oz./yd.² (142.4 g/m²) • 32 singles • Regular fit • Side-seamed construction • Crew neck • Cover-stitched collar • 2″ (5 cm) ribbed cuffs • Blank product sourced from Nicaragua, Honduras, or the USSize guide SHIRT LENGTH (inches) CHEST WIDTH (inches) CHEST TO FIT (inches) SLEEVE LENGTH (inches) XS 27 16 ½ 31-34 25 S 28 18 34-37 25 ⅝ M 29 20 38-41 26 ¼ L 30 22 42-45 26 ⅞ XL 31 24 46-49 27 ½ 2XL 32 26 50-53 28 ⅛
-  Updated: 2026-03-01T07:01:56Z
+  Updated: 2026-03-10T13:45:49Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-military-green-front-699fdd6376080.jpg?v=1772085064
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69ae63d7a73a3.jpg?v=1773036770
   - [Black Heather / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410434330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-699fdd6379c6a.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69ae63d75be2a.jpg?v=1773036770
     Price: $50.19 USD
   - [Black Heather / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410467098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-699fdd6379c6a.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69ae63d75be2a.jpg?v=1773036770
     Price: $50.19 USD
   - [Black Heather / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410499866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-699fdd6379c6a.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69ae63d75be2a.jpg?v=1773036770
     Price: $50.19 USD
   - [Black Heather / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410532634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-699fdd6379c6a.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69ae63d75be2a.jpg?v=1773036770
     Price: $50.19 USD
   - [Black Heather / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410565402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-699fdd6379c6a.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69ae63d75be2a.jpg?v=1773036770
     Price: $50.19 USD
   - [Black Heather / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410598170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-699fdd6379c6a.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-heather-front-69ae63d75be2a.jpg?v=1773036770
     Price: $52.19 USD
   - [Black / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410630938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-699fdd637414a.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-69ae63d76663b.jpg?v=1773036770
     Price: $50.19 USD
   - [Black / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410663706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-699fdd637414a.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-69ae63d76663b.jpg?v=1773036770
     Price: $50.19 USD
   - [Black / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410696474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-699fdd637414a.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-69ae63d76663b.jpg?v=1773036770
     Price: $50.19 USD
   - [Black / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410729242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-699fdd637414a.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-69ae63d76663b.jpg?v=1773036770
     Price: $50.19 USD
   - [Black / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410762010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-699fdd637414a.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-69ae63d76663b.jpg?v=1773036770
     Price: $50.19 USD
   - [Black / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410794778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-699fdd637414a.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-black-front-69ae63d76663b.jpg?v=1773036770
     Price: $52.19 USD
   - [Navy / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410827546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-699fdd6376f31.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69ae63d769f57.jpg?v=1773036770
     Price: $50.19 USD
   - [Navy / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410860314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-699fdd6376f31.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69ae63d769f57.jpg?v=1773036770
     Price: $50.19 USD
   - [Navy / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410893082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-699fdd6376f31.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69ae63d769f57.jpg?v=1773036770
     Price: $50.19 USD
   - [Navy / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410925850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-699fdd6376f31.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69ae63d769f57.jpg?v=1773036770
     Price: $50.19 USD
   - [Navy / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410958618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-699fdd6376f31.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69ae63d769f57.jpg?v=1773036770
     Price: $50.19 USD
   - [Navy / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751410991386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-699fdd6376f31.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-navy-front-69ae63d769f57.jpg?v=1773036770
     Price: $52.19 USD
   - [Maroon / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411024154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-699fdd6375107.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69ae63d76ef15.jpg?v=1773036770
     Price: $50.19 USD
   - [Maroon / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411056922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-699fdd6375107.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69ae63d76ef15.jpg?v=1773036770
     Price: $50.19 USD
   - [Maroon / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411089690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-699fdd6375107.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69ae63d76ef15.jpg?v=1773036770
     Price: $50.19 USD
   - [Maroon / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411122458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-699fdd6375107.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69ae63d76ef15.jpg?v=1773036770
     Price: $50.19 USD
   - [Maroon / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411155226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-699fdd6375107.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69ae63d76ef15.jpg?v=1773036770
     Price: $50.19 USD
   - [Maroon / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411187994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-699fdd6375107.jpg?v=1772085064
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-maroon-front-69ae63d76ef15.jpg?v=1773036770
     Price: $52.19 USD
   - [Heather Forest / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411220762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-699fdd637d947.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69ae63d776356.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Forest / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411253530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-699fdd637d947.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69ae63d776356.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Forest / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411286298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-699fdd637d947.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69ae63d776356.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Forest / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411319066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-699fdd637d947.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69ae63d776356.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Forest / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411351834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-699fdd637d947.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69ae63d776356.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Forest / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411384602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-699fdd637d947.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-forest-front-69ae63d776356.jpg?v=1773036529
     Price: $52.19 USD
   - [Dark Grey Heather / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411417370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-699fdd6377dea.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69ae63d7811ce.jpg?v=1773036770
     Price: $50.19 USD
   - [Dark Grey Heather / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411450138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-699fdd6377dea.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69ae63d7811ce.jpg?v=1773036770
     Price: $50.19 USD
   - [Dark Grey Heather / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411482906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-699fdd6377dea.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69ae63d7811ce.jpg?v=1773036770
     Price: $50.19 USD
   - [Dark Grey Heather / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411515674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-699fdd6377dea.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69ae63d7811ce.jpg?v=1773036770
     Price: $50.19 USD
   - [Dark Grey Heather / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411548442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-699fdd6377dea.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69ae63d7811ce.jpg?v=1773036770
     Price: $50.19 USD
   - [Dark Grey Heather / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411581210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-699fdd6377dea.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-dark-grey-heather-front-69ae63d7811ce.jpg?v=1773036770
     Price: $52.19 USD
   - [True Royal / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411613978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-699fdd637e8c1.jpg?v=1772084606
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-69ae63d78c1b4.jpg?v=1773036529
     Price: $50.19 USD
   - [True Royal / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411646746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-699fdd637e8c1.jpg?v=1772084606
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-69ae63d78c1b4.jpg?v=1773036529
     Price: $50.19 USD
   - [True Royal / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411679514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-699fdd637e8c1.jpg?v=1772084606
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-69ae63d78c1b4.jpg?v=1773036529
     Price: $50.19 USD
   - [True Royal / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411712282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-699fdd637e8c1.jpg?v=1772084606
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-69ae63d78c1b4.jpg?v=1773036529
     Price: $50.19 USD
   - [True Royal / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411745050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-699fdd637e8c1.jpg?v=1772084606
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-69ae63d78c1b4.jpg?v=1773036529
     Price: $50.19 USD
   - [True Royal / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411777818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-699fdd637e8c1.jpg?v=1772084606
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-true-royal-front-69ae63d78c1b4.jpg?v=1773036529
     Price: $52.19 USD
   - [Heather Navy / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411810586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-699fdd637c97e.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69ae63d797353.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Navy / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411843354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-699fdd637c97e.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69ae63d797353.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Navy / M](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411876122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-699fdd637c97e.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69ae63d797353.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Navy / L](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411908890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-699fdd637c97e.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69ae63d797353.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Navy / XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411941658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-699fdd637c97e.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69ae63d797353.jpg?v=1773036529
     Price: $50.19 USD
   - [Heather Navy / 2XL](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751411974426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-699fdd637c97e.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-navy-front-69ae63d797353.jpg?v=1773036529
     Price: $52.19 USD
   - [Heather Deep Teal / XS](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751412007194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-699fdd637ab1f.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69ae63d7a73a3.jpg?v=1773036770
     Price: $50.19 USD
   - [Heather Deep Teal / S](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee?variant=51751412039962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-699fdd637ab1f.jpg?v=1772084607
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69ae63d7a73a3.jpg?v=1773036770
     Price: $50.19 USD
 - [HOWDY Y-ALL Vintage Cotton Twill Cap](https://rusticroots01.com/products/howdy-y-all-vintage-cotton-twill-cap): Everybody knows that dad caps are no longer just for dads, so get an embroidered cotton twill cap for yourself! This one's really special thanks to the intricate embroidery detail and the washed out vintage feel. • 100% cotton twill • 6-panel unstructured cap with a low profile • 6 sewn eyelets • Black sweatband • Metal snap buckle with an antique brass finish • Washed-out vintage effect • Blank product sourced from ChinaSize guide A (inches) B (inches) C (inches) D (inches) One size 18 ½-23 ¼ 4 ⅜ 2 ⅞ 7 ⅛
   Updated: 2026-02-27T22:13:48Z
@@ -16036,72 +15764,72 @@
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/teddy-bear-with-a-t-shirt-white-front-69a0e0ee5b26f.jpg?v=1772151037
   Price: $46.30 USD
 - [RV CAMPING LIFESTYLE Unisex Premium Sweatshirt](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-01T03:57:37Z
+  Updated: 2026-03-10T01:14:30Z
   Vendor: RUSTIC ROOTS 
   Product Type: SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1772153522
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8c095e7.jpg?v=1773105269
   - [Charcoal Heather / S](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973292314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1773105269
     Price: $56.94 USD
   - [Charcoal Heather / M](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973325082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1773105269
     Price: $56.94 USD
   - [Charcoal Heather / L](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973357850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1773105269
     Price: $56.94 USD
   - [Charcoal Heather / XL](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973390618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1773105269
     Price: $56.94 USD
   - [Charcoal Heather / 2XL](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973423386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1773105269
     Price: $58.94 USD
   - [Charcoal Heather / 3XL](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973456154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69a0ea8b6c2d5.jpg?v=1773105269
     Price: $60.94 USD
   - [Vintage Black / S](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973488922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1773105269
     Price: $56.94 USD
   - [Vintage Black / M](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973521690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1773105269
     Price: $56.94 USD
   - [Vintage Black / L](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973554458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1773105269
     Price: $56.94 USD
   - [Vintage Black / XL](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973587226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1773105269
     Price: $56.94 USD
   - [Vintage Black / 2XL](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973619994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1773105269
     Price: $58.94 USD
   - [Vintage Black / 3XL](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt?variant=51763973652762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1772153522
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1773105269
     Price: $60.94 USD
 - [Y-ALL Foam trucker hat](https://rusticroots01.com/products/y-all-foam-trucker-hat): Stand out from the crowd with this trendy foam trucker hat! This head accessory is made with high-quality polyester and foam that guarantees a premium look and feel. The foam trucker hat has an adjustable snap that ensures a comfortable fit, and the mesh back provides great breathability. The matching color braid gives the hat an extra oomph. Style it with your favorite outfit any time of the day. • 100% polyester front • 100% polyester mesh back • Thicker and heavier fabric, laminated with high-density, non-toxic foam • Structured, 5-panel cap, high-profile • 8 rows of stitching on a pre-curved visor • Seamless foam front panel with lining • Matching fabric undervisor • Matching color braid and sweatband • Adjustable plastic snap • One size fits most • Blank product sourced from China or Myanmar This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 24 - 26 6 3 8 ⅝
-  Updated: 2026-02-28T00:09:58Z
+  Updated: 2026-03-10T01:33:46Z
   Vendor: RUSTIC ROOTS 
   Product Type: HATS
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/foam-trucker-hat-black-one-size-front-69a0eff7a157b.jpg?v=1772154884
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/foam-trucker-hat-black-one-size-front-69af74e3ca372.jpg?v=1773106415
   - [Black](https://rusticroots01.com/products/y-all-foam-trucker-hat?variant=51764035387674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/foam-trucker-hat-black-one-size-front-69a0eff7a157b.jpg?v=1772154884
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/foam-trucker-hat-black-one-size-front-69af74e3ca372.jpg?v=1773106415
     Price: $32.00 USD
   - [Navy](https://rusticroots01.com/products/y-all-foam-trucker-hat?variant=51764035420442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/foam-trucker-hat-navy-one-size-front-69a0eff7a4348.jpg?v=1772154884
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/foam-trucker-hat-navy-one-size-front-69af74e3cbd8c.jpg?v=1773106414
     Price: $32.00 USD
 - [Headband CAMO   RV LIFE](https://rusticroots01.com/products/headband-rv-life): This soft, stretchy headband adds that extra bit of comfort for your workouts, while also being stylish enough to rock with a Friday-night look. Don’t miss out on getting your own! • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Moisture-wicking • Blank product components sourced from Mexico and ChinaSize guide WIDTH (inches) LENGTH (inches) M 2 9 ½ L 2 ⅛ 10 ¼
   Updated: 2026-03-01T05:56:37Z
@@ -16211,21 +15939,21 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-69a1300fab2e2.jpg?v=1772332148
     Price: $35.00 USD
 - [BOONDOCKING Headband](https://rusticroots01.com/products/boondocking-headband): This soft, stretchy headband adds that extra bit of comfort for your workouts, while also being stylish enough to rock with a Friday-night look. Don’t miss out on getting your own! • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Moisture-wicking • Blank product components sourced from Mexico and ChinaSize guide WIDTH (inches) LENGTH (inches) M 2 9 ½ L 2 ⅛ 10 ¼
-  Updated: 2026-03-01T18:21:15Z
+  Updated: 2026-03-10T00:35:58Z
   Vendor: RUSTIC ROOTS 
   Product Type: CUT-SEW
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-back-69a3dc069864c.jpg?v=1772346383
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-front-69a3dc0697895.jpg?v=1773102957
   - [M](https://rusticroots01.com/products/boondocking-headband?variant=51771642020122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-front-69a3dc0697895.jpg?v=1772346383
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-front-69a3dc0697895.jpg?v=1773102957
     Price: $27.09 USD
   - [L](https://rusticroots01.com/products/boondocking-headband?variant=51771642052890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-front-69a3dc0697895.jpg?v=1772346383
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-front-69a3dc0697895.jpg?v=1773102957
     Price: $27.09 USD
 - [NOT PERFECT 3/4 sleeve raglan shirt](https://rusticroots01.com/products/not-perfect-3-4-sleeve-raglan-shirt): A stylish spin on the classic baseball raglan. The combed cotton blend makes it super soft, comfortable, and lightweight. • All solid colors are 100% ring-spun cotton • Heather Grey color is 90% cotton, 10% polyester • Heather Denim color is 50% cotton, 50% polyester • Fabric weight: 4.5 oz/yd² (152.6 g/m²) • Fine knit jersey • 30 singles • ¾ sleeves • Contrast raglan sleeve • Unhemmed bottom • Reactive-dyed for longer-lasting color • Prewashed to minimize shrinkage • Tear away label • Blank product sourced from MexicoSize guide LENGTH (inches) WIDTH (inches) XS 26 16 ½ S 28 18 M 29 20 L 30 22 XL 31 24 2XL 31 26
-  Updated: 2026-03-01T18:39:15Z
+  Updated: 2026-03-06T04:49:12Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -16347,7 +16075,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-charcoal-front-69a3defc3a93d.jpg?v=1772348399
     Price: $39.82 USD
 - [RV LIFE Yoga Leggings](https://rusticroots01.com/products/rv-life-yoga-leggings): Super soft, stretchy, and comfortable yoga leggings. Order these to make sure your next yoga session is the best one ever! • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Four-way stretch, which means fabric stretches and recovers on the cross and lengthwise grains. • Made with a smooth, comfortable microfiber yarn • Raised waistband • Precision-cut and hand-sewn after printing • Blank product components sourced from Mexico and China Disclaimers: • In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. • Please note that contact with rough surfaces should be avoided since they can pull out the white fibers in the fabric, damaging the leggings. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (inches) HIPS (inches) M 28 ⅜ 38 ⅝ L 31 ½ 41 ¾
-  Updated: 2026-03-01T18:51:01Z
+  Updated: 2026-03-06T04:47:49Z
   Vendor: RUSTIC ROOTS 
   Product Type: SUBLIMATIONLEGGING
   Availability: Available
@@ -16361,109 +16089,109 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-yoga-leggings-white-front-69a3e1afd08fa.jpg?v=1772347856
     Price: $49.53 USD
 - [LETS GO Women’s micro-rib tank top](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top): Upgrade your basics with this micro-rib tank top. Crafted from soft Airline cotton, it features thick straps and a mid-length cut. Pair it with jeans or layer it under a blazer for a chic look.• 52% Airline combed and ring-spun cotton, 48% polyester• Athletic Heather colors are 90% Airline combed and ring-spun cotton and 10% polyester• Fabric weight: 5.4 oz./yd.² (183 g/m²)• Yarn diameter: 32 singles• 1 × 1 micro rib• Pre-shrunk• Stretch fit• Mid-length• Thick straps• Scoop neck• Side-seamed construction• Blank product sourced from Nicaragua Size guide LENGTH (inches) CHEST (inches) XS 12 ¼ 29-31 S 12 ⅝ 32-33 M 13 34-35 L 13 ⅜ 35-37 XL 13 ¾ 38-39 2XL 14 ¼ 40-42
-  Updated: 2026-03-03T04:10:34Z
+  Updated: 2026-03-09T06:19:02Z
   Vendor: RUSTIC ROOTS 
-  Product Type: T-SHIRT
+  Product Type: TANK TOP
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1772349916
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1773037139
   - [Athletic Heather / XS](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771704901914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1773037139
     Price: $30.81 USD
   - [Athletic Heather / S](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771704934682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1773037139
     Price: $30.81 USD
   - [Athletic Heather / M](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771704967450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1773037139
     Price: $30.81 USD
   - [Athletic Heather / L](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705000218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1773037139
     Price: $30.81 USD
   - [Athletic Heather / XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705032986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1773037139
     Price: $30.81 USD
   - [Athletic Heather / 2XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705065754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-athletic-heather-front-69a3e9ccb52ae.jpg?v=1773037139
     Price: $32.81 USD
   - [Solid Baby Blue Blend / XS](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705098522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Baby Blue Blend / S](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705131290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Baby Blue Blend / M](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705164058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Baby Blue Blend / L](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705196826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Baby Blue Blend / XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705229594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Baby Blue Blend / 2XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705262362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-69a3e9ccb67d9.jpg?v=1773037139
     Price: $32.81 USD
   - [Solid Pink Blend / XS](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705295130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Pink Blend / S](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705327898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Pink Blend / M](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705360666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Pink Blend / L](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705393434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Pink Blend / XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705426202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid Pink Blend / 2XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705458970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-pink-blend-front-69a3e9ccb6873.jpg?v=1773037139
     Price: $32.81 USD
   - [Solid White Blend / XS](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705491738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid White Blend / S](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705524506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid White Blend / M](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705557274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid White Blend / L](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705590042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid White Blend / XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705622810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1773037139
     Price: $30.81 USD
   - [Solid White Blend / 2XL](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top?variant=51771705655578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1772349916
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69a3e9ccb68e8.jpg?v=1773037139
     Price: $32.81 USD
 - [RIVER LIFE Unisex eco raglan hoodie](https://rusticroots01.com/products/river-life-unisex-eco-raglan-hoodie): If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from BangladeshSize guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2026-03-03T05:50:37Z
+  Updated: 2026-03-06T04:46:47Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -16553,7 +16281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-white-front-69a675fc4043a.jpg?v=1772516887
     Price: $59.70 USD
 - [RIVER LIFE Dad hat](https://rusticroots01.com/products/river-life-dad-hat): You’ll be head over heels with this timeless piece! The hat comes in various colors to match your style and sits on your head just like a crown, thanks to the adjustable strap. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-03T06:00:04Z
+  Updated: 2026-03-03T20:00:13Z
   Vendor: RUSTIC ROOTS 
   Product Type: EMBROIDERY
   Availability: Available
@@ -16579,7 +16307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69a6782f0bfad.jpg?v=1772517437
     Price: $35.00 USD
 - [JESUS HAS MY BACK Tough Case for iPhone®](https://rusticroots01.com/products/jesus-has-my-back-tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-03T06:22:52Z
+  Updated: 2026-03-03T20:21:18Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE-CASE
   Availability: Available
@@ -16689,7 +16417,7 @@
     Availability: Available
     Price: $35.00 USD
 - [I.AM A SPICY DISASTER Tough case for Samsung®](https://rusticroots01.com/products/i-am-a-spicy-disaster-tough-case-for-samsung®): Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone! • Outer shell: Polycarbonate (PC) • Liner: Polyurethane (TPU) • Precisely aligned port openings • Induction charger compatible Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-03T06:21:20Z
+  Updated: 2026-03-03T20:41:10Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE-CASE
   Availability: Available
@@ -16774,39 +16502,603 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-glossy-samsung-galaxy-s25-ultra-front-69a67ccab15d8.jpg?v=1772518623
     Price: $35.00 USD
-[List Continued](https://rusticroots01.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE1MDQ3NTU5NjA1OCwibGFzdF92YWx1ZSI6IjEwMTUwNDc1NTk2MDU4In0=)
+- [JESUS GOT MY BACK Flip-Flops](https://rusticroots01.com/products/jesus-got-my-back-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
+  Updated: 2026-03-05T14:11:21Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: SANDLES
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-lifestyle-2-69a8e603cd99f.jpg?v=1772676773
+  - [S](https://rusticroots01.com/products/jesus-got-my-back-flip-flops?variant=51792820175130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-front-69a8e603cbe96.jpg?v=1772676773
+    Price: $29.39 USD
+  - [M](https://rusticroots01.com/products/jesus-got-my-back-flip-flops?variant=51792820207898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-front-69a8e603cbe96.jpg?v=1772676773
+    Price: $29.39 USD
+  - [L](https://rusticroots01.com/products/jesus-got-my-back-flip-flops?variant=51792820240666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-front-69a8e603cbe96.jpg?v=1772676773
+    Price: $29.39 USD
+- [JESUS GOT MY BACK Unisex Hoodie](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie): Don’t you just love sweatshirt weather? We do too. Layer up year round in this cozy, casual style. With a front pocket and snug hood, it doesn’t get much better than this. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from PakistanSize guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
+  Updated: 2026-03-05T14:25:27Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: HOODIES AND SWEATSHIRTS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
+  - [S](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie?variant=51792862642458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
+    Price: $55.48 USD
+  - [M](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie?variant=51792862675226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
+    Price: $55.48 USD
+  - [L](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie?variant=51792862707994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
+    Price: $55.48 USD
+  - [XL](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie?variant=51792862740762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
+    Price: $55.48 USD
+  - [2XL](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie?variant=51792862773530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
+    Price: $57.48 USD
+  - [3XL](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie?variant=51792862806298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
+    Price: $59.48 USD
+- [RISEN Womerin’s micro rib raglan baby tee](https://rusticroots01.com/products/risen-womerin-s-micro-rib-raglan-baby-tee): Soft, sporty, and easy to style—this baby tee updates a classic baseball-inspired design. With its fitted cut, mid-length body, and soft ribbed texture, it pairs effortlessly with jeans, shorts, or joggers for a casual, flattering look. • 52% Airlume combed and ring-spun cotton, 48% polyester • Athletic Heather colors are 90% Airlume combed and ring-spun cotton, 10% polyester • Fabric weight: 5.4 oz/yd² (183 g/m²) • Micro rib fabric for a soft, stretchy feel • Fitted silhouette • Sleeves with contrast coloring • Pre-shrunk fabric for lasting fit • Blank product sourced from Nicaragua
+  Updated: 2026-03-06T14:47:26Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-raglan-baby-tee-white-pink-front-2-69aa401c99ed5.jpg?v=1772769493
+  - [S](https://rusticroots01.com/products/risen-womerin-s-micro-rib-raglan-baby-tee?variant=51796698726682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-raglan-baby-tee-white-pink-front-69aa401c919be.jpg?v=1772769493
+    Price: $37.94 USD
+  - [M](https://rusticroots01.com/products/risen-womerin-s-micro-rib-raglan-baby-tee?variant=51796698759450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-raglan-baby-tee-white-pink-front-69aa401c919be.jpg?v=1772769493
+    Price: $37.94 USD
+  - [L](https://rusticroots01.com/products/risen-womerin-s-micro-rib-raglan-baby-tee?variant=51796698792218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-raglan-baby-tee-white-pink-front-69aa401c919be.jpg?v=1772769493
+    Price: $37.94 USD
+  - [XL](https://rusticroots01.com/products/risen-womerin-s-micro-rib-raglan-baby-tee?variant=51796698824986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-raglan-baby-tee-white-pink-front-69aa401c919be.jpg?v=1772769493
+    Price: $37.94 USD
+  - [2XL](https://rusticroots01.com/products/risen-womerin-s-micro-rib-raglan-baby-tee?variant=51796698857754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-raglan-baby-tee-white-pink-front-69aa401c919be.jpg?v=1772769493
+    Price: $39.94 USD
+- [LUCKY Women’s high-waisted t-shirt](https://rusticroots01.com/products/lucky-women-s-high-waisted-t-shirt): Made of 100% combed and ring-spun cotton, this t-shirt is ultra soft and smooth against the skin. With its flattering, longline fit and crew neck, this tee will look best paired with high-waisted bottoms. • 100% combed and ring-spun cotton • Fabric weight: 4.3 oz/yd² (145.79 g/m²) • Yarn thickness: 30 singles • Longline fit with a crew neck • Blind stitch on sleeves and hem • Tightly knit and side-seamed • Ultra soft hand feel • Tear-away label • Blank product sourced from BangladeshSize guide BODY LENGTH (inches) CHEST (inches) S 20 ¼ 33-36 M 21 ¼ 37-40 L 22 ¼ 41-44 XL 23 ¼ 45-48
+  Updated: 2026-03-06T15:53:08Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-high-waisted-tee-white-zoomed-in-69aa4e376c677.jpg?v=1772768840
+  - [S](https://rusticroots01.com/products/lucky-women-s-high-waisted-t-shirt?variant=51796736147738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-high-waisted-tee-white-zoomed-in-69aa4e376c677.jpg?v=1772768840
+    Price: $41.39 USD
+  - [M](https://rusticroots01.com/products/lucky-women-s-high-waisted-t-shirt?variant=51796736180506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-high-waisted-tee-white-zoomed-in-69aa4e376c677.jpg?v=1772768840
+    Price: $41.39 USD
+  - [L](https://rusticroots01.com/products/lucky-women-s-high-waisted-t-shirt?variant=51796736213274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-high-waisted-tee-white-zoomed-in-69aa4e376c677.jpg?v=1772768840
+    Price: $41.39 USD
+  - [XL](https://rusticroots01.com/products/lucky-women-s-high-waisted-t-shirt?variant=51796736246042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-high-waisted-tee-white-zoomed-in-69aa4e376c677.jpg?v=1772768840
+    Price: $41.39 USD
+- [I.AM NOT BUSSY Unisex ringer t-shirt](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt): This lightweight cotton tee features a relaxed fit and contrast trims that give it a retro look. Wear it with jeans, shorts, or joggers for a laid-back everyday look. • 100% combed ring-spun cotton • Heather Gray is 90% cotton, 10% polyester • Fabric weight: 4.3 oz./yd.² (145 g/m²) • Yarn diameter: 32 singles • Side-seamed construction • Regular fit • Crew neck • 1 × 1 baby rib binding on the neckline and sleeves • Blank product sourced from NicaraguaSize guide LENGTH (inches) CHEST (inches) S 28 34-37 M 29 38-41 L 30 42-45 XL 31 46-49 2XL 32 50-53 3XL 33 54-57
+  Updated: 2026-03-06T15:58:45Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
+  - [S](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt?variant=51796740342042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
+    Price: $35.49 USD
+  - [M](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt?variant=51796740374810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
+    Price: $35.49 USD
+  - [L](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt?variant=51796740407578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
+    Price: $35.49 USD
+  - [XL](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt?variant=51796740440346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
+    Price: $35.49 USD
+  - [2XL](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt?variant=51796740473114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
+    Price: $37.49 USD
+  - [3XL](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt?variant=51796740505882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
+    Price: $39.49 USD
+- [COFFEE LIFE Unisex Sweatshirt](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from ChinaSize guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
+  Updated: 2026-03-09T05:21:16Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: CUT-SEW TEE SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164a40a.jpg?v=1773033672
+  - [2XS](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777500954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $45.50 USD
+  - [XS](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777533722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $45.50 USD
+  - [S](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777566490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $45.50 USD
+  - [M](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777599258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $45.50 USD
+  - [L](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777632026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $45.50 USD
+  - [XL](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777664794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $45.50 USD
+  - [2XL](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777697562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $48.00 USD
+  - [3XL](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777730330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $50.50 USD
+  - [4XL](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777763098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $53.00 USD
+  - [5XL](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777795866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $55.50 USD
+  - [6XL](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt?variant=51796777828634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
+    Price: $58.50 USD
+- [HIKING WITH DOGS Unisex Premium Sweatshirt](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
+  Updated: 2026-03-07T00:24:35Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69aa59d41a537.jpg?v=1772771822
+  - [S](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt?variant=51796782809370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69aa59d41a537.jpg?v=1772771822
+    Price: $52.24 USD
+  - [M](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt?variant=51796782842138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69aa59d41a537.jpg?v=1772771822
+    Price: $52.24 USD
+  - [L](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt?variant=51796782874906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69aa59d41a537.jpg?v=1772771822
+    Price: $52.24 USD
+  - [XL](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt?variant=51796782907674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69aa59d41a537.jpg?v=1772771822
+    Price: $52.24 USD
+  - [2XL](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt?variant=51796782940442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69aa59d41a537.jpg?v=1772771822
+    Price: $54.24 USD
+  - [3XL](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt?variant=51796782973210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69aa59d41a537.jpg?v=1772771822
+    Price: $56.24 USD
+- [DRUNKEST CAMPGROUND MagSafe® tough case for iPhone®](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product.
+  Updated: 2026-03-06T17:01:30Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: PHONE-CASE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-14-front-69aa5f8d0b8c4.jpg?v=1772773281
+  - [iPhone 14](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813054234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-14-front-69aa5f8d0b8c4.jpg?v=1772773281
+    Price: $35.00 USD
+  - [iPhone 14 Plus](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813087002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-14-plus-front-69aa5f8d0bdce.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 14 Pro](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813119770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-14-pro-front-69aa5f8d0c356.jpg?v=1772773281
+    Price: $35.00 USD
+  - [iPhone 14 Pro Max](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813152538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-14-pro-max-front-69aa5f8d0c938.jpg?v=1772773281
+    Price: $35.00 USD
+  - [iPhone 15 Plus](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813185306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-15-plus-front-69aa5f8d05341.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 15 Pro](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813218074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-15-pro-front-69aa5f8d06648.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 15 Pro Max](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813250842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-15-pro-max-front-69aa5f8d06d28.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 16](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813283610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-16-front-69aa5f8d07558.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 16 Plus](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813316378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-16-plus-front-69aa5f8d08a10.jpg?v=1772773281
+    Price: $35.00 USD
+  - [iPhone 16 Pro](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813349146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-16-pro-front-69aa5f8d07c5a.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 16 Pro Max](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813381914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-16-pro-max-front-69aa5f8d083cd.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 17](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813414682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-front-69aa5f8d0e6d6.jpg?v=1772773281
+    Price: $35.00 USD
+  - [iPhone 17 Air](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813447450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-air-front-69aa5f8d0ec3a.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 17 Pro](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813480218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-front-69aa5f8d0f29f.jpg?v=1772773280
+    Price: $35.00 USD
+  - [iPhone 17 Pro Max](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®?variant=51796813512986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-69aa5f8d0f912.jpg?v=1772773280
+    Price: $35.00 USD
+- [HOWDY Y ALL Unisex Short Sleeve V-Neck T-Shirt](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt): This unisex tee has a classic v -neck cut and fits like a well-loved favorite. • 100% combed ring-spun cotton• Dark Grey Heather is 52% Air lume combed ring-spun cotton, 48% polyester• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester• Pre-shrunk fabric• Fabric weight: 4.2 oz/yd² (142 g/m²)• Regular fit• Side-seamed construction• Cover stitched v -neck and hemmed sleeves• Shoulder-to-shoulder taping• Blank product sourced from Nicaragua, Guatemala, or the US Size guide BODY LENGTH (inches) BODY WIDTH (inches) S 27 ¾ 18 M 28 ¾ 20 L 29 ¾ 22 XL 30 ¾ 24 2XL 31 ¾ 26
+  Updated: 2026-03-07T16:00:40Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-dark-grey-heather-front-69ab83e6c8c66.jpg?v=1772849769
+  - [Black / S](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739072794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-black-front-69ab83e6c7f48.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Black / M](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739105562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-black-front-69ab83e6c7f48.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Black / L](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739138330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-black-front-69ab83e6c7f48.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Black / XL](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739171098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-black-front-69ab83e6c7f48.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Black / 2XL](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739203866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-black-front-69ab83e6c7f48.jpg?v=1772849769
+    Price: $40.08 USD
+  - [Navy / S](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739236634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-navy-front-69ab83e6c90f9.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Navy / M](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739269402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-navy-front-69ab83e6c90f9.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Navy / L](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739302170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-navy-front-69ab83e6c90f9.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Navy / XL](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739334938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-navy-front-69ab83e6c90f9.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Navy / 2XL](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739367706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-navy-front-69ab83e6c90f9.jpg?v=1772849769
+    Price: $40.08 USD
+  - [Dark Grey Heather / S](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739400474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-dark-grey-heather-front-69ab83e6c8c66.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Dark Grey Heather / M](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739433242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-dark-grey-heather-front-69ab83e6c8c66.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Dark Grey Heather / L](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739466010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-dark-grey-heather-front-69ab83e6c8c66.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Dark Grey Heather / XL](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739498778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-dark-grey-heather-front-69ab83e6c8c66.jpg?v=1772849769
+    Price: $38.08 USD
+  - [Dark Grey Heather / 2XL](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt?variant=51799739531546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-dark-grey-heather-front-69ab83e6c8c66.jpg?v=1772849769
+    Price: $40.08 USD
+- [ON BEACH TIME SWEATSHIRT](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.
+  Updated: 2026-03-07T16:19:28Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: HOODIES AND SWEATSHIRTS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69ab8e4bc5822.jpg?v=1772850777
+  - [Black / S](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800086810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69ab8e4bbfcbe.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Black / M](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800119578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69ab8e4bbfcbe.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Black / L](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800152346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69ab8e4bbfcbe.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Black / XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800185114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69ab8e4bbfcbe.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Black / 2XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800217882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69ab8e4bbfcbe.jpg?v=1772850777
+    Price: $64.28 USD
+  - [Black / 3XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800250650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-black-front-69ab8e4bbfcbe.jpg?v=1772850777
+    Price: $66.28 USD
+  - [Dark Chocolate / S](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800283418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69ab8e4bc4be3.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Dark Chocolate / M](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800316186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69ab8e4bc4be3.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Dark Chocolate / L](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800348954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69ab8e4bc4be3.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Dark Chocolate / XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800381722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69ab8e4bc4be3.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Dark Chocolate / 2XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800414490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69ab8e4bc4be3.jpg?v=1772850777
+    Price: $64.28 USD
+  - [Dark Chocolate / 3XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800447258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-chocolate-front-69ab8e4bc4be3.jpg?v=1772850777
+    Price: $66.28 USD
+  - [Ash / S](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800480026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-ash-back-69ab8e4bc23c0.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Ash / M](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800512794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-ash-back-69ab8e4bc23c0.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Ash / L](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800545562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-ash-back-69ab8e4bc23c0.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Ash / XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800578330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-ash-back-69ab8e4bc23c0.jpg?v=1772850777
+    Price: $62.28 USD
+  - [Ash / 2XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800611098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-ash-back-69ab8e4bc23c0.jpg?v=1772850777
+    Price: $64.28 USD
+  - [Ash / 3XL](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie?variant=51799800643866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-ash-back-69ab8e4bc23c0.jpg?v=1772850777
+    Price: $66.28 USD
+- [CAT MOMDad hat](https://rusticroots01.com/products/cat-momdad-hat): Just like a dessert is always better with a cherry on top, a casual outfit looks better if you’re styling it with a classic dad hat. Choose your colors! • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
+  Updated: 2026-03-07T19:33:37Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: EMBROIDERY
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-khaki-front-69abcebd473c1.jpg?v=1772867279
+  Price: $35.00 USD
+- [FOREEVER GRATFUL Five Panel Cap](https://rusticroots01.com/products/foreever-gratful-five-panel-cap): This camper style cap has a low profile and nylon strap clip closure. Comfortable and classic! • 100% cotton • Soft-structured • Five panel • Low profile • Metal eyelets • Nylon strap clip closure
+  Updated: 2026-03-10T01:12:09Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: EMBROIDERY
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-green-tiger-camo-front-69accbabf25a5.jpg?v=1772935465
+  - [Black](https://rusticroots01.com/products/foreever-gratful-five-panel-cap?variant=51801773670682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-black-front-69accbabf0c33.jpg?v=1772935465
+    Price: $35.00 USD
+  - [Navy](https://rusticroots01.com/products/foreever-gratful-five-panel-cap?variant=51801773703450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-navy-front-69accbabf26f6.jpg?v=1772935465
+    Price: $35.00 USD
+  - [Olive](https://rusticroots01.com/products/foreever-gratful-five-panel-cap?variant=51801773736218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-olive-front-69accbabf2780.jpg?v=1772935465
+    Price: $35.00 USD
+  - [Green Tiger Camo](https://rusticroots01.com/products/foreever-gratful-five-panel-cap?variant=51801773768986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-green-tiger-camo-front-69accbabf25a5.jpg?v=1772935465
+    Price: $35.00 USD
+  - [Grey](https://rusticroots01.com/products/foreever-gratful-five-panel-cap?variant=51801773801754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-grey-front-69accbabf2668.jpg?v=1772932026
+    Price: $35.00 USD
+- [GIRLS GET DIRTY TOO Women's Rash Guard](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard): Don't be afraid to be your most active self in this smooth and versatile long-sleeve rash guard! It protects you from the sun, wind, and other elements while doing sports, and the slim fit, flat ergonomic seams, and the longer body gives extra comfort.• 75% recycled polyester, 25% elastane for production in the US/Mexico• 82% polyester, 18% elastane for production in Latvia• Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico• Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia• Very soft four-way stretch fabric that stretches and recovers on the cross and lengthwise grains• Fitted design• Comfortable longer body and sleeves • Flat seam and cover stitch• Blank product components sourced from Mexico and ChinaDisclaimer: To make your rash guard last longer, thoroughly rinse it off after each use and get rid of any chlorine/salt residue. This product runs small and is quite fitted. For a more comfortable fit, we suggest choosing one size up. Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 34 ⅝ 26 ¾ 37 S 36 ¼ 28 ⅜ 38 ⅝ M 37 ¾ 29 ⅞ 40 ⅛ L 41 33 ⅛ 43 ¼ XL 44 ⅛ 36 ¼ 46 ½ 2XL 47 ¼ 39 ⅜ 49 ⅝ 3XL 50 ⅜ 42 ½ 52 ¾
+  Updated: 2026-03-08T14:47:37Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: OFF ROAD SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-right-69acd85649eb9.jpg?v=1772935751
+  - [XS](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard?variant=51801886195994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
+    Price: $54.63 USD
+  - [S](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard?variant=51801886228762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
+    Price: $54.63 USD
+  - [M](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard?variant=51801886261530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
+    Price: $54.63 USD
+  - [L](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard?variant=51801886294298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
+    Price: $54.63 USD
+  - [XL](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard?variant=51801886327066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
+    Price: $54.63 USD
+  - [2XL](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard?variant=51801886359834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
+    Price: $56.63 USD
+  - [3XL](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard?variant=51801886392602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
+    Price: $58.63 USD
+- [LIFE IS BETTER MUDDY Women's athletic t-shirt](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt): This t-shirt easily combines comfort and style—the sports mesh fabric with moisture management is sure to keep any athlete dry and comfortable during exercise, while the design will make it into a unique statement piece.• 92% polyester, 8% spandex (in the US)• 90% polyester, 10% elastane (in the EU)• Fabric weight: 4.42 oz/yd² (150 g/m²)• Very soft four-way stretch sports mesh fabric • Comfortable fit• Overlock and cover stitch• UPF 50+ protection• Blank product sourced from China Size guide CHEST (inches) XS 33 ⅛ S 34 ⅝ M 36 ¼ L 39 ⅜ XL 42 ½ 2XL 45 ⅝ 3XL 48 ⅞
+  Updated: 2026-03-08T16:17:46Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: CUT-SEW
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-right-69ace55ef3f47.jpg?v=1772939055
+  - [XS](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt?variant=51801957695770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
+    Price: $52.10 USD
+  - [S](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt?variant=51801957728538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
+    Price: $52.10 USD
+  - [M](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt?variant=51801957761306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
+    Price: $52.10 USD
+  - [L](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt?variant=51801957794074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
+    Price: $52.10 USD
+  - [XL](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt?variant=51801957826842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
+    Price: $52.10 USD
+  - [2XL](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt?variant=51801957859610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
+    Price: $54.10 USD
+  - [3XL](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt?variant=51801957892378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
+    Price: $56.10 USD
+- [LAKE LIFEUnisex Hoodie](https://rusticroots01.com/products/lake-lifeunisex-hoodie): This comfy unisex hoodie has a soft outside with a vibrant print and an even softer brushed fleece inside. The hoodie has a relaxed fit, and it’s perfect for wrapping yourself into on a chilly evening. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel fabric face • Brushed fleece fabric inside • Double-lined hood with design on both sides • Unisex style • Comes with drawstrings • Overlock seams • Blank product components in Mexico sourced from Poland and Mexico • Blank product components in the EU sourced from China and Poland Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
+  Updated: 2026-03-10T19:52:56Z
+  Vendor: RUSTIC ROOTS 
+  Product Type: CUT-SEW
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+  - [2XS](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539702042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $59.95 USD
+  - [XS](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539734810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $60.75 USD
+  - [S](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539767578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $60.75 USD
+  - [M](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539800346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $60.75 USD
+  - [L](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539833114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $60.75 USD
+  - [XL](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539865882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $60.75 USD
+  - [2XL](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539898650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $62.75 USD
+  - [3XL](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539931418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $64.75 USD
+  - [4XL](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539964186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $66.75 USD
+  - [5XL](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803539996954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $68.75 USD
+  - [6XL](https://rusticroots01.com/products/lake-lifeunisex-hoodie?variant=51803540029722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-hoodie-white-front-69ae85791ab0e.jpg?v=1773045147
+    Price: $70.75 USD
+[List Continued](https://rusticroots01.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE1ODY1MjYyMTA4MiwibGFzdF92YWx1ZSI6IjEwMTU4NjUyNjIxMDgyIn0=)
 
 ## Collections
 
-- [Home page](https://rusticroots01.com/collections/frontpage): RUSTIC ROOTS RV OFF GRID APPAREL..
-  Updated: 2026-03-03T06:17:06Z
-  Total Products: 194
-- [OFF GRID APPAREL](https://rusticroots01.com/collections/off-grid)
-  Updated: 2026-02-26T04:37:49Z
-  Total Products: 48
-- [Boondocking](https://rusticroots01.com/collections/boondocking)
-  Updated: 2026-03-01T06:21:13Z
-  Total Products: 9
-- [R & R APPAREL](https://rusticroots01.com/collections/rv-life)
-  Updated: 2026-03-03T05:48:10Z
-  Total Products: 58
-- [OFF GRID APPAREL 2](https://rusticroots01.com/collections/off-grid-1): OFF GRID APPAREL 2
-  Updated: 2026-02-26T23:24:40Z
-  Total Products: 35
-- [HATS](https://rusticroots01.com/collections/hats)
-  Updated: 2026-03-03T05:57:20Z
-  Total Products: 37
-- [PHONE CASE IPHONE AND SAMSUNG](https://rusticroots01.com/collections/phone-case-iphone-and-samsung): WE CARRY IPHONE AND SAMSUNG
-  Updated: 2026-03-03T06:17:06Z
-  Total Products: 28
-- [SHOES AND SANDLES](https://rusticroots01.com/collections/shoes-and-sandles): SHOE AND SANDLE WE MAKE ALL THE SHOES SPECIAL
-  Updated: 2026-02-26T04:37:49Z
+- [R & R APPAREL CATALOG](https://rusticroots01.com/collections/frontpage): RUSTIC ROOTS R & R APPAREL
+  Updated: 2026-03-10T09:06:45Z
+  Total Products: 208
+- [OFF GRID   &   OFF RD   COLLECTION](https://rusticroots01.com/collections/off-grid): RUSTIC ROOTS R & R APPAREL
+  Updated: 2026-03-10T05:35:11Z
+  Total Products: 49
+- [R & R APPAREL](https://rusticroots01.com/collections/rv-life): RUSTIC ROOTS R & R APPAREL
+  Updated: 2026-03-10T08:49:00Z
+  Total Products: 56
+- [R & R](https://rusticroots01.com/collections/off-grid-1): RUSTIC ROOTS R & R APPAREL
+  Updated: 2026-03-10T08:05:58Z
+  Total Products: 34
+- [HATS](https://rusticroots01.com/collections/hats): RUSTIC ROOTS R & R APPAREL
+  Updated: 2026-03-10T07:59:45Z
+  Total Products: 39
+- [PHONE CASES   IPHONE AND SAMSUNG](https://rusticroots01.com/collections/phone-case-iphone-and-samsung): RUSTIC ROOTS R & R APPAREL WE CARRY IPHONE AND SAMSUNG
+  Updated: 2026-03-08T07:17:22Z
+  Total Products: 29
+- [SHOES AND SANDLES](https://rusticroots01.com/collections/shoes-and-sandles): RUSTIC ROOTS R & R APPAREL
+  Updated: 2026-03-09T07:42:38Z
   Total Products: 11
-- [CHRISTIAN SHIRTS AND SWEATSHIRTS   HATS ECT.](https://rusticroots01.com/collections/religious-shirts-and-sweatshirts): PLEASE ASK IF YOU HAVE ANY QUESTIONS ON ITEMS THIS COLLECTION IS OUR CHRISTAN COLLECTION
-  Updated: 2026-02-27T00:15:29Z
-  Total Products: 30
-- [BACKPACKS](https://rusticroots01.com/collections/backpacks): WE CARRY VARITY OF BACK PACKS
-  Updated: 2026-02-27T06:19:41Z
+- [CHRISTIAN   COLLECTION](https://rusticroots01.com/collections/religious-shirts-and-sweatshirts): RUSTIC ROOTS R & R APPAREL CHRISTAN COLLECTION
+  Updated: 2026-03-10T09:06:44Z
+  Total Products: 34
+- [BACKPACKS](https://rusticroots01.com/collections/backpacks): RUSTIC ROOTS R & R APPAREL WE CARRY VARITY OF BACK PACKS
+  Updated: 2026-03-08T07:19:14Z
   Total Products: 8
 
 ## Blogs
