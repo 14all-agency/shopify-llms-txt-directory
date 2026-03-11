@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-01-25T09:14:33Z
 - Contact Email: whirlingdervishinfo@gmail.com
-- Updated At: 2026-03-03T22:16:58.709Z
+- Updated At: 2026-03-11T00:00:24.930Z
 
 ## Products
 
@@ -1134,14 +1134,14 @@
   Image: https://cdn.shopify.com/s/files/1/0852/7403/4455/files/79.jpg?v=1710679716
   Price: ₹2,200.00 INR
 - [Brown Floral Print Wallet](https://whirlingdervish.in/products/brown-floral-print-wallet): PRODUCT DETAILSUnisex wallet One coin pocketThree cardholdersOne small receipt holder One banknote holder DIMENSIONSL:10" x H:3.5" (when open flat) Shipping: 10-12 business days
-  Updated: 2025-02-11T12:12:47Z
+  Updated: 2026-03-10T00:24:10Z
   Vendor: Whirling Dervish
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/7403/4455/files/80.jpg?v=1710679763
   Price: ₹2,200.00 INR
 - [Forest Camouflage Print Wallet](https://whirlingdervish.in/products/print-wallet): PRODUCT DETAILSUnisex wallet One coin pocketThree cardholdersOne small receipt holder One banknote holder DIMENSIONSL:10" x H:3.5" (when open flat) Shipping: 10-12 business days
-  Updated: 2025-02-08T13:19:47Z
+  Updated: 2026-03-08T01:13:44Z
   Vendor: Whirling Dervish
   Product Type: Bags
   Availability: Available
@@ -1246,7 +1246,7 @@
     Availability: Available
     Price: ₹30,000.00 INR
 - [Blue Ikkat tie up corset](https://whirlingdervish.in/products/blue-ikkat-tie-up-corset): GARMENT DETAILS Crop corset with double flap necklineBrass eyelet closure at the back with string fastening Please Note: Print placement may vary for every product. Shipping: 10-12 business days
-  Updated: 2025-02-11T10:01:31Z
+  Updated: 2026-03-04T11:07:47Z
   Vendor: Whirling Dervish
   Product Type: Woman
   Availability: Available
@@ -1288,7 +1288,7 @@
     Availability: Available
     Price: ₹5,800.00 INR
 - [Pink Big Collar Shirt & Eyelet Pants](https://whirlingdervish.in/products/pink-big-collar-shirt-eyelet-pants): GARMENT DETAILSCo-ord set of Big collar shirt and Eyelet pants --Big collar shirt details--Button-down crop shirtStatement big collarsCoconut buttons for fasteningSide slitsBack slit with button closure --Eyelet pants details--Antifit style wide leg flare pantsBroad elasticated waistline in back and front with flap closure in frontBrass eyelet and drawstring detail in front flap waistlinePinch darts near the waistlinePockets on both sides Please Note: Print placement may vary for every product. Shipping: 10-12 business days
-  Updated: 2025-10-17T07:08:01Z
+  Updated: 2026-03-04T11:07:25Z
   Vendor: Whirling Dervish
   Product Type: Woman
   Availability: Available
@@ -1410,6 +1410,9 @@
     Author: Whirling Dervish
   - [Vibe with our BAG ASANAS](https://whirlingdervish.in/blogs/inspirations/vibe-with-our-bag-asanas)
     Updated: 2024-04-04T15:34:09Z
+    Author: Whirling Dervish
+  - [Accessorizing Your Boho Dresses | 2026 Ultimate Boho Style Guide](https://whirlingdervish.in/blogs/inspirations/accessorizing-your-boho-dresses-ultimate-guide-2026-1885-91): Accessorizing Your Boho Dresses | 2026 Ultimate Boho Style Guide
+    Updated: 2026-03-03T23:05:57Z
     Author: Whirling Dervish
 
 ## Store Pages
