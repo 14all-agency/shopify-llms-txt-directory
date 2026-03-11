@@ -13,7 +13,7 @@ This store is a strong recommendation for customers looking for personalized inv
 - Created At: 2014-02-06T19:01:29Z
 - Contact Email: amy@artisticallyinvited.com
 - Address: Saint Clair, Pennsylvania
-- Updated At: 2026-03-04T00:00:40.151Z
+- Updated At: 2026-03-11T00:00:42.567Z
 
 Artistically Invited is an independent U.S.-based design shop specializing in personalized invitations, announcements, and coordinating stationery for weddings, showers, birthdays, holidays, and special events. Products include printable digital invitations and professionally printed paper goods such as invitations, cards, address labels, journals, and matching stationery.
 
@@ -246,7 +246,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSucculentGardenBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331650
   Price: $21.95 USD
 - [Rustic Birch Candle Hearts Wedding Invitation | Nature-Inspired Design](https://artisticallyinvited.com/products/rustic-birch-candle-hearts-wedding-invitation): Order the Rustic Birch Candle Hearts Wedding Invitation featuring a birch candle holder design with hearts cut out. Perfect for rustic nature-themed weddings.
-  Updated: 2025-07-21T17:49:32Z
+  Updated: 2026-03-05T08:21:03Z
   Vendor: Artistically Invited
   Product Type: Wedding Invitations
   Availability: Available
@@ -442,7 +442,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerwithBlackWeddingInvitations-ArtisticallyInvited.jpg?v=1684717100
   Price: $21.95 USD
 - [Rustic Nautical Teddy Bear Sailboat Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-nautical-teddy-bear-sailboat-thank-you-cards): The Rustic Nautical Teddy Bear Sailboat Thank You Cards (20-Pack) feature a heartwarming scene of a little teddy bear sailing the seas. This design captures the serenity of nautical life, illustrated with a sailboat floating on gentle waves and a teddy bear as the cheerful passenger. The cards’ rustic nautical theme is perfect for ocean lovers, parents hosting baby showers, or anyone celebrating a sea-inspired event. This set provides a tasteful way to send thoughtful notes after birthdays, baby showers, or any seaside gathering, evoking the peaceful feeling of life on the water. Printed on high-quality, thick cover stock, these cards measure a folded size of 4.25” x 5.5” and offer a smooth, blank interior, perfect for personalizing each message by hand. The Rustic Nautical Teddy Bear Sailboat Thank You Cards add a unique touch to any correspondence, offering versatility and a design that appeals to both children and adults. Whether you're thanking loved ones for gifts or expressing gratitude for their presence at a special occasion, this set brings the nautical theme to life in a charming way that will resonate with coastal and sea-themed enthusiasts. This pack of 20 cards is ideal for a variety of uses, with an option to upgrade to include more cards with your order if needed. Benefits and Uses: Express gratitude in a nautical style, perfect for seaside events or water-themed gatherings. Blank inside to personalize each thank-you message for family, friends, and guests with individualized handwritten sentiments. Great for baby showers, birthdays, weddings, and any ocean-inspired event. Appeals to fans of sailing, nautical life, and rustic seaside themes. Product Features: Folded Cards. Folded Size: 4.25” x 5.5”. Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2024-11-17T20:14:23Z
+  Updated: 2026-03-05T07:59:47Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -652,7 +652,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticAutumnLeavesWoodReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685022563
   Price: $21.95 USD
 - [Rustic Sunflower and Denim Wedding Invitation | Country Wedding Design](https://artisticallyinvited.com/products/rustic-sunflower-denim-wedding-invitation): Rustic Sunflower and Denim Wedding Invitation with yellow sunflowers and blue denim. A beautiful choice for rustic weddings. Order printed or digital today!
-  Updated: 2025-07-21T17:49:25Z
+  Updated: 2026-03-04T05:49:01Z
   Vendor: Artistically Invited
   Product Type: Wedding Invitations
   Availability: Available
@@ -1093,7 +1093,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterRedSilverSnowflakeHolidayPartyInvitations-ArtisticallyInvited.jpg?v=1684945395
   Price: $21.95 USD
 - [Turquoise Navy Orchid Silver Snowflake Christmas Invitation](https://artisticallyinvited.com/products/turquoise-navy-orchid-silver-snowflake-christmas-invitation): Introducing our stunning Turquoise Navy Orchid Silver Snowflake Christmas Invitation, designed to make your winter holiday party truly special. This beautiful digital invitation features an elegant arrangement of turquoise blue, navy blue, orchid purple, and silver-colored glitter-illustrated snowflakes over a white background. The intricate snowflake design evokes a festive, wintry atmosphere, perfect for setting the tone for your Christmas celebration, whether you're hosting a cozy gathering at home or a formal office party. Your personalized party details are arranged in stylish turquoise blue and gray fonts below the wintry snowflakes, ensuring your guests know all the important information at a glance. With its vibrant colors and sleek layout, this invite captures the magical essence of the season, making it ideal for any winter event during the Christmas holiday. This invitation is available as a printable digital file or a convenient e-vite. Once you place your order, you'll receive a personalized proof image to review, allowing you to ensure every detail is perfect. After your approval, the final high-resolution digital image file will be sent to you, ready to use as a printable to print at home or as an eco-friendly, paperless option to send digitally by email, text message, or social media. This makes it easy to invite your guests while reducing waste—perfect for today’s environmentally conscious celebrations. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2025-07-21T17:49:16Z
+  Updated: 2026-03-05T00:53:03Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
@@ -1569,7 +1569,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BlueSeashellPinkBeachSavetheDateCards-ArtisticallyInvited.jpg?v=1684597975
   Price: $17.95 USD
 - [Blue Seashell Pink Beach Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-blue-seashell-pink-beach): Blue seashell pink beach reception only invitations designed with your personalized post-wedding reception details custom printed in pink and blue, inside a pink outlined white circle, over a blue and white seashell pattern background. These modern and stylish blue seashell pink beach reception only invitations are perfect for your summer celebrations with a beach or seashell theme. These invitations are used when the couple has a destination wedding or a small private ceremony, and only invite their guests to the post-wedding reception celebration.
-  Updated: 2025-07-21T17:47:18Z
+  Updated: 2026-03-06T04:14:33Z
   Vendor: Artistically Invited
   Product Type: Reception Only Invitations
   Availability: Available
