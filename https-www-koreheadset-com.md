@@ -6,61 +6,68 @@
 - Timezone: America/Los_Angeles
 - Created At: 2015-12-04T23:48:10Z
 - Contact Email: support@koreheadset.com
-- Updated At: 2026-03-03T00:00:28.248Z
+- Updated At: 2026-03-11T00:00:33.951Z
 
 ## Products
 
 - [KORE Aviation KA-1 Headset | Pilot & Aviation Headset | Case Included](https://www.koreheadset.com/products/kore-aviation-ka-1-premium-gel-ear-seal-pnr-pilot-aviation-headset-with-mp3-support-and-carrying-case): Perfect aviation headset for all: pilots, passengers, instructors, student pilots, flight schools and more. It provides maximum comfort with ultra-soft gel ear seals, clear sound with exceptional noise reduction, durability built to last and luxury you can feel.
-  Updated: 2026-03-02T23:51:27Z
+  Updated: 2026-03-10T22:36:47Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/9.jpg?v=1751850994
-  Price: $224.95 USD
+  - [KA-1](https://www.koreheadset.com/products/kore-aviation-ka-1-premium-gel-ear-seal-pnr-pilot-aviation-headset-with-mp3-support-and-carrying-case?variant=51265781530788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1084/6116/files/9.jpg?v=1751850994
+    Price: $224.95 USD
+  - [KA-1 + Pilot Flight Bag](https://www.koreheadset.com/products/kore-aviation-ka-1-premium-gel-ear-seal-pnr-pilot-aviation-headset-with-mp3-support-and-carrying-case?variant=51265781563556)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1084/6116/files/1_c50dc9cd-3833-44b3-a5f0-a3a83f8d7cec.jpg?v=1772775808
+    Price: $267.66 USD
 - [Ear Cover for Pilot Aviation Headset | Premium Deluxe Cloth](https://www.koreheadset.com/products/kore-aviation-premium-deluxe-cloth-ear-cover-for-pilot-aviation-headset): Beat the heat with these soft, double-knit, 100% cotton, washable ear seal cloth covers. Easy to install. Designed for those long flights in warm weather, the cloth cover absorbs and wicks moisture away. Best when paired with KORE AVIATION KA-1's premium gel ear seal, keeps it cool in the headset.
-  Updated: 2026-03-02T22:52:37Z
+  Updated: 2026-03-10T19:01:27Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/11.png?v=1768792988
   Price: $8.99 USD
 - [Gel Ear Seal Replacement for Pilot Headsets | Ultra Plush Silicone](https://www.koreheadset.com/products/kore-aviation-ultra-plush-silicone-gel-ear-seal-replacement-for-pilot-aviation-headset): Relieve aviation headset headaches with these ultra-plush, silicone gel ear seals. Designed for max breathability and comfort, keep your headset on longer without the pain. Gel ear seals conform better around your ear and provide increased noise reduction. Sold in pairs.
-  Updated: 2026-03-02T23:37:37Z
+  Updated: 2026-03-10T19:00:28Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/12_57ea263e-9747-4777-a8fd-1c3414dbad4d.png?v=1768792931
   Price: $16.99 USD
 - [KORE Aviation P1 Series Headset | Affordable Aviation Headset](https://www.koreheadset.com/products/kore-aviation-p1-series-pnr-pilot-general-aviation-headset): Rated "The BEST SUB $100 AVIATION HEADSET IN THE MARKET" KORE's P1 Series Mono headset has it all at a value price point: comfortable foam ear seals, stainless steel finish, MP3 aux port. It's the perfect aviation headset for those just getting started and experienced pilots.
-  Updated: 2026-03-02T23:01:57Z
+  Updated: 2026-03-10T21:00:57Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/10.jpg?v=1751851179
   Price: $124.95 USD
 - [Kore Aviation Pilot Headset Bag](https://www.koreheadset.com/products/kore-aviation-pilot-headset-bag): Keep your aviation headset protected in comfort and style without sacrificing features. This pilot headset bag is designed to carry everything you need to fly. It fits effortlessly into flight bags and is compatible with various aviation headset models, providing a convenient and streamlined travel experience. More pockets than any other competing single headset bags. FEATURES Padded carry bag to protect aviation headsets High-quality, all black ballistic nylon material designed to endure daily wear and tear, with hand carrying handle for easy portability Wrap around zipper design for easy open and storage, while securely keeping everything in place Soft inner cotton liner to protect headset from any scratches and damage, maintaining the quality of your valuable gear Multiple extra storage with front zipper pocket, back large pocket sleeve and inner mesh pouch for extra items like cables, adapters, and other essentials, all organized and easily accessible Compatible with aviation, racing, gaming, hunting, and safety headsets from top brands like Bose, David Clark, Rugged, Avcomm, Howard Leight, and KORE AVIATION Dimensions: 9.3" H x 8.8" W x 3.7 D
-  Updated: 2026-03-02T22:15:46Z
+  Updated: 2026-03-10T19:26:37Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/KORE_Headset_Bag_Listing_Images_4.png?v=1768792927
   Price: $26.99 USD
 - [Kore Aviation P1 General Aviation Headset (Mono) with Headset Bag - Dual GA Plugs](https://www.koreheadset.com/products/kore-aviation-p1-pnr-mono-pilot-aviation-headset-with-mp3-support-bundle-with-carrying-case-2-items): KORE P1 Aviation Headset with Bag has it all at a value price point: comfortable foam ear seals, stainless steel finish, and MP3 aux port. It's the perfect aviation headset for those just getting started and experienced pilots. Use for passengers and keep as spare -- at this price point, you can afford a headset for every seat. This most requested bundle comes with a custom-fit headset bag to protect your  when not in use. FEATURES 1-year Manufacturer's Warranty, serviced in the U.S.A. Superior passive noise reduction up to 50% higher industry standard Noise Reduction Rating (NRR) of 24 dB Clear 50mm ultra-lite neodymium speakers for superior performance audio performance Acoustic foam ear cups and an adjustable headband with a thick foam head pad which delivers comfort and durability Electret noise-canceling microphone with preamp on adjustable wire boom for clear and uninterrupted communication, even in noisy environments Gold-plated plugs for best connection and corrosion resistance Aux input to connect to apps like Foreflight for real-time alerts, navigation cues, and updates straight to your headset
-  Updated: 2026-03-02T18:21:56Z
+  Updated: 2026-03-10T23:50:47Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/11.jpg?v=1751851137
   Price: $139.95 USD
 - [Kore Aviation Cloth Ear Cover (3 Pairs)](https://www.koreheadset.com/products/kore-aviation-3-pack-washable-cloth-ear-cover-for-aviation-racing-gaming-safety-style-headsets): Now in pack of 3 for best value! Stay comfortable in any weather with these soft, double-knit, 100% cotton, washable ear seal cloth covers. Easy to install, they’re perfect for long flights in warm conditions, effectively absorbing and wicking away moisture. Best when paired with KORE AVIATION's premium silicone gel ear seals, they help keep your headset cool and comfortable. In colder weather, they provide a soft, warm barrier for your ears. Sold in pairs for your convenience. Praised for its comfort, fit, and value for money—a worthwhile upgrade! FEATURES Made from ultra soft, 100% cotton double-knit material to provides gentle comfort around the ears, making it ideal for extended wear Designed to absorb and wick moisture away, keeping you dry and focused no matter the conditions Acts as an effective insulator, adding a layer between the ear and gel ear pieces for enhanced comfort Prevents dust and debris from reaching the earphone diaphragm, helping to extend the lifespan of your headphones Features an elastic band that securely covers the ear pads; easy to remove for washing and quick to reattach Compatible with aviation, racing, gaming, hunting, and safety headsets from top brands like Bose, David Clark, Rugged, Avcomm, Howard Leight, and KORE AVIATION Dimensions: 4.5" H x 4" W Sold in pairs (Total of 6 pieces = 3 pairs x 2 pieces each pair)
-  Updated: 2026-03-02T20:32:47Z
+  Updated: 2026-03-09T22:11:47Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/Kore_Aviation_Cloth_Cover.png?v=1768792988
   Price: $19.99 USD
 - [Kore Aviation Gel Ear Seal (2 Pairs)](https://www.koreheadset.com/products/kore-aviation-2-pack-ultra-plush-silicone-gel-ear-seal-replacement-for-aviation-racing-safety-style-headsets-sold-in-pairs): NOW AVAILABLE IN MULTIPACK FOR ADDITIONAL SAVINGS! Say goodbye to headset headaches with these ultra-plush silicone gel ear seals. Designed for maximum breathability and all-day comfort, they let you wear your headset longer—without the pain. The gel ear seals fit perfectly around your ears, enhancing noise reduction for a superior listening experience. FEATURES Made from soft pure silicone gel, these replacement ear pads offer plush softness and luxurious comfort that won’t hurt your ears, letting you keep your headset on longer Superior noise-blockage compared to standard foam ear pads, creating a more focused and immersive audio environment to help you stay focused and protected in loud environments Effortless to install, these premium silicone gel pads make upgrading your headset simple and hassle-free Compatible with aviation, racing, gaming, and safety headsets from top brands like Bose, David Clark, Rugged, Avcomm, Howard Leight, and KORE AVIATION Dimensions: 4" H x 3.2" W x 1" D Sold in pairs (Total of 4 pieces = 2 pairs x 2 pieces each pair)
-  Updated: 2026-03-02T19:35:16Z
+  Updated: 2026-03-10T23:09:47Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
@@ -85,49 +92,35 @@
   Availability: Available
   Price: $1,349.50 USD
 - [Kore Aviation H1 Helicopter Pilot Headset (Mono) with Headset Bag - U-174 Plugs](https://www.koreheadset.com/products/h1-mono-helicopter-pilot-headset-with-headset-bag): KORE H1 Helicopter Headset, a newly launched product, is designed for pilots who demand exceptional noise reduction, all-day comfort, and clear communication in high-noise environments. Whether you're a professional helicopter pilot, student, or instructor, this high-performance headset delivers the reliability and quality you need. Featuring ultra-soft silicone gel ear seals, a noise-canceling electret microphone, and an adjustable headband, the H1 Headset ensures superior comfort and crystal-clear audio. Built for durability, it includes a FREE custom-fit headset bag to protect your  when not in use. FEATURES 5-Year Manufacturer's Warranty, serviced in the U.S.A. Industry-standard 24dB Passive Noise Reduction Rating (NRR) blocks engine and background noise for clear communication Extra-thick head pad and adjustable headband with ultra-soft silicone gel ear seals provide all-day comfort Clear 50mm ultra-lite neodymium speakers for superior audio performance Electret noise-canceling microphone with preamp on 360° flex boom for clear and uninterrupted communication, even in noisy environments Equipped with a U-174 single plug for helicopter use and a coiled cord for flexible movement 3.5mm audio port compatible with iOS/Android/MP3 devices (requires a separate male-to-male 3.5mm cord, not included) Built-in volume control for easy adjustment of audio levels for a customized listening experience Engineered for helicopter pilots who value comfort, clarity, and durability, the KORE H1 Helicopter Headset is your trusted companion in the cockpit!
-  Updated: 2026-03-02T09:31:27Z
+  Updated: 2026-03-10T01:57:27Z
   Vendor: KORE HEADSET
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/KORE_H1.jpg?v=1751851063
   Price: $224.95 USD
-- [Bundle: Kore Aviation KA-1 Headset and Cloth Ear Covers](https://www.koreheadset.com/products/bundle-kore-aviation-ka-1-with-headset-bag-and-cloth-ear-covers): Enhance your flying experience with the Kore Aviation KA-1 Aviation Headset, now bundled with single Cloth Ear Covers for added comfort. The KA-1 headset offers superior noise reduction, a crystal-clear noise-canceling microphone, and an adjustable headband for a secure fit. Paired with our soft and breathable cloth ear covers, this bundle ensures maximum comfort during long flights by reducing heat buildup and extending the life of your ear seals.
-  Updated: 2026-03-02T23:51:37Z
-  Vendor: KORE HEADSET LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1084/6116/files/images.jpg?v=1742265947
-  Price: $228.95 USD
-- [Bundle: Kore Aviation KA-1 with Cloth Ear Covers & Gel Ear Seals](https://www.koreheadset.com/products/bundle-kore-aviation-ka-1-with-cloth-ear-covers-silicone-gel-ear-seals): Kore Aviation KA-1 Pilot Headset Bundle – Enhance your flight experience with this exclusive virtual bundle, featuring the KORE Aviation KA-1 headset, Cloth Ear Covers, and Silicone Gel Ear Seals. Enjoy superior comfort, clear communication, and added ear protection for long hours in the cockpit. Perfect for student and professional pilots alike!
-  Updated: 2026-03-02T23:51:37Z
-  Vendor: KORE HEADSET LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1084/6116/files/image1.jpg?v=1742268941
-  Price: $245.90 USD
 - [Bundle: Kore Aviation KA-1 with Cloth Ear Covers (3 Pairs) & Gel Ear Seals (2 Pairs)](https://www.koreheadset.com/products/bundle-kore-aviation-ka-1-with-cloth-ear-covers-3-pairs-gel-ear-seals-2-pairs): Kore Aviation KA-1 Pilot Headset Bundle – Enhance your flight experience with this exclusive virtual bundle, featuring the Kore Aviation KA-1 headset, Cloth Ear Covers, and Silicone Gel Ear Seals. Enjoy superior comfort, clear communication, and added ear protection for long hours in the cockpit. Perfect for students and professional pilots alike!
-  Updated: 2026-03-02T23:51:38Z
+  Updated: 2026-03-10T23:09:58Z
   Vendor: KORE HEADSET LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/KORE_NewVirtualBundles_1.png?v=1768792925
   Price: $265.95 USD
 - [Bundle: Kore Aviation P1 Headset with Bag & Gel Ear Seals](https://www.koreheadset.com/products/bundle-kore-aviation-p1-with-headset-bag-with-gel-ear-seals): Kore Aviation P1 Headset Bundle – Upgrade your flying experience with this value-packed bundle featuring the Kore Aviation P1 headset, a protective bag, and a pair of ultra-plush silicone gel ear seals for added comfort. It’s the most cost-effective option for student pilots—proof that upgrading to a more comfortable headset doesn’t have to break the bank. The included gel ear seals offer soft, breathable cushioning that helps prevent “headset headaches,” letting you fly longer without discomfort. They fit perfectly around your ears to enhance noise reduction and deliver a clearer, more focused listening experience. Built for clear communication, durability, and a secure fit, the Kore Aviation P1 Bundle is the ideal choice for both student and professional pilots looking for comfort, quality, and value. FEATURES P1 Headset 1-year Manufacturer's Warranty, serviced in the U.S.A. Superior passive noise reduction up to 50% higher industry standard Noise Reduction Rating (NRR) of 24 dB Clear 50mm ultra-lite neodymium speakers for superior performance audio performance Acoustic foam ear cups and an adjustable headband with a thick foam head pad which delivers comfort and durability Electret noise-canceling microphone with preamp on adjustable wire boom for clear and uninterrupted communication, even in noisy environments Gold-plated plugs for best connection and corrosion resistance Aux input to connect to apps like Foreflight for real-time alerts, navigation cues, and updates straight to your headset Silicone Gel Ear Seals Made from soft pure silicone gel, these replacement ear pads offer plush softness and luxurious comfort that won’t hurt your ears, letting you keep your headset on longer Superior noise-blockage compared to standard foam ear pads, creating a more focused and immersive audio environment to help you stay focused and protected in loud environments Effortless to install, these premium silicone gel pads make upgrading your headset simple and hassle-free Dimensions: 4" H x 3.2" W x 1" D
-  Updated: 2026-03-02T23:37:42Z
+  Updated: 2026-03-10T23:50:53Z
   Vendor: KORE HEADSET LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/KORE_New_Virtual_Bundles.png?v=1768792925
   Price: $152.95 USD
 - [Kore Aviation Pilot Flight Bag](https://www.koreheadset.com/products/kore-aviation-pilot-flight-bag): The Kore Aviation Pilot Flight Bag is built to be your trusted companion for every flight. Designed for all pilots, it combines a clean, modern style with practical functionality. With smart storage solutions and plenty of space, it keeps your flight essentials organized and protected wherever you go. Made from durable, high-quality materials, this bag safeguards your headset and gear while maintaining a professional look that fits any cockpit or crew room. Features Fits all aviation headset models (Kore Aviation, Bose, David Clark, Rugged, Avcomm, Howard Leight) Padded sleeve for tablets or logbooks – fits devices up to 11" Front zippered pocket for quick-access items like your phone, passport, or sunglasses Side pockets sized for a water bottle, tumbler, handheld radio, fuel tester, or intercom Rear slip pocket with a magnetic snap closure for easy access to your logbook or checklist Accessory compartment with six internal pockets and pouches for smaller items Removable shoulder strap for comfortable carrying Padded handle for a secure, ergonomic grip
-  Updated: 2026-03-02T21:59:37Z
+  Updated: 2026-03-10T18:50:18Z
   Vendor: KORE HEADSET LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1084/6116/files/1_8a167926-2d8f-4ecf-baba-435acb74e660.jpg?v=1761578976
   Price: $89.95 USD
-- [Kore Aviation Textured Gel Ear Seal (1 Pair)](https://www.koreheadset.com/products/kore-aviation-textured-gel-ear-seal-1-pair): Relieve headset headaches with these Textured Silicone Gel Ear Seals. Designed for max breathability and comfort, keep your headset on longer without the pain. Gel ear seals conform better around your ear and provide increased noise reduction. FEATURES ENHANCED NOISE REDUCTION: Superior noise blockage compared to standard foam ear pads, helping create a more focused and immersive audio environment while providing added protection in loud settings. ULTRA PLUSH TEXTURED COMFORT: Upgrade to textured ultra plush silicone gel ear seals designed to relieve headset pressure and reduce headaches, so you can wear your headset longer without discomfort. LESS STICKY, EVEN WHEN SWEATING: Improved surface texture minimizes stickiness during long sessions, keeping you more comfortable in warm or high-intensity environments. COOLER, MORE BREATHABLE DESIGN: Textured finish promotes better airflow while reducing heat and moisture buildup, all with thicker, more durable silicone gel construction built to last. EASY UPGRADE, WIDE COMPATIBILITY: Simple to install replacement ear seals compatible with most aviation, racing, gaming, and safety headsets from leading brands including Bose, David Clark, Rugged, Avcomm, Howard Leight, and Kore Aviation.
-  Updated: 2026-03-02T19:18:22Z
+- [Kore Aviation Textured Gel Ear Seal (1 Pair)](https://www.koreheadset.com/products/kore-aviation-textured-gel-ear-seal-1-pair): Relieve headset headaches with these Textured Silicone Gel Ear Seals. Designed for max breathability and comfort, keep your headset on longer without the pain. Gel ear seals conform better around your ear and provide increased noise reduction. FEATURES ENHANCED NOISE REDUCTION: Superior noise blockage compared to standard foam ear pads, helping create a more focused and immersive audio environment while providing added protection in loud settings. ULTRA PLUSH TEXTURED COMFORT: Upgrade to textured ultra plush silicone gel ear seals designed to relieve headset pressure and reduce headaches, so you can wear your headset longer without discomfort. LESS STICKY, EVEN WHEN SWEATING: Improved surface texture minimizes stickiness during long sessions, keeping you more comfortable in warm or high-intensity environments. COOLER, MORE BREATHABLE DESIGN: Textured finish promotes better airflow while reducing heat and moisture buildup, all with thicker, more durable silicone gel construction built to last. EASY UPGRADE, WIDE COMPATIBILITY: Simple to install replacement ear seals compatible with most aviation headsets from leading brands, including Bose, David Clark, Rugged, Avcomm, and KORE Aviation.
+  Updated: 2026-03-08T18:29:57Z
   Vendor: KORE HEADSET LLC
   Product Type: 
   Availability: Available
@@ -137,79 +130,79 @@
 ## Collections
 
 - [Frontpage](https://www.koreheadset.com/collections/frontpage)
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 5
 - [Featured Collection 2](https://www.koreheadset.com/collections/featured-collection-2)
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 7
 - [HEADSETS](https://www.koreheadset.com/collections/aviation): Top-Rated Communication Headsets for Crystal-Clear Audio in Medium to High Noise Environments
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [ACCESSORIES](https://www.koreheadset.com/collections/headset-accessories)
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 5
 - [HEADSET BUNDLES](https://www.koreheadset.com/collections/headset-bundles): Our Flagship Headsets bundled with must-have accessories.
-  Updated: 2026-02-17T05:08:14Z
+  Updated: 2026-03-06T07:17:11Z
   Total Products: 4
 - [FLAGSHIP HEADSETS](https://www.koreheadset.com/collections/partner-exclusives): An exclusive offer to our Flight School partners and affiliates. Use your referral code upon checkout to get our headsets on a .
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [NEW PRODUCT](https://www.koreheadset.com/collections/new-product)
-  Updated: 2026-02-24T07:26:28Z
+  Updated: 2026-03-03T06:51:22Z
   Total Products: 2
 - [PRESIDENT'S DAY ](https://www.koreheadset.com/collections/presidents-day-): 🛩️ PRESIDENT'S DAY : 15% OFF on Kore Aviation Flagship Headsets!Use code PDAY15 at checkout and celebrate with savings.📅 Offer valid from February 14 to 16. Don’t miss out!
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Part Time Pilot](https://www.koreheadset.com/collections/part-time-pilot): Kore Aviation and Part Time Pilot have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code PARTTIMEPILOT at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Rainier Flight Service](https://www.koreheadset.com/collections/rainier-flight-service): Kore Aviation and Rainier Flight Service have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code RAINIERFLIGHTSERVICE at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 5
 - [Costanzo Air Flight School](https://www.koreheadset.com/collections/costanzo-air-flight-school): Kore Aviation and Costanzo Air Flight School have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code COSTANZO10 at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Pitcairn Flight Academy (PFA)](https://www.koreheadset.com/collections/pitcairn-flight-academy-pfa): Kore Aviation and Pitcairn Flight Academy (PFA) have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code PITCAIRNFLIGHT10 at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Colorado Mesa University Tech (CMU Tech)](https://www.koreheadset.com/collections/colorado-mesa-university-tech-cmu-tech): Kore Aviation and Colorado Mesa University Tech (CMU Tech) have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code CMUTECH at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Free Pilot Training](https://www.koreheadset.com/collections/free-pilot-training): Kore Aviation and Free Pilot Training have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code FREEPILOTTRAINING at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Jet Access Flight Training](https://www.koreheadset.com/collections/jet-access-flight-training): Kore Aviation and Jet Access Flight Training have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code JETACCESS10 at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [PPOT](https://www.koreheadset.com/collections/ppot): Kore Aviation and Professional Pilots of Tomorrow (PPOT) have teamed up to help you fly smart, for less. Perfect for pilots looking for premium, budget-friendly aviation headsets. Use code PPOT10 at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Best Aviation Headset for Student Pilots | Kore Aviation](https://www.koreheadset.com/collections/bestaviationheadsetforstudentpilots): Looking for the best aviation headset for student pilots? Learn what matters most for comfort, clarity, and flight training success with Kore Aviation.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Student Pilot Community](https://www.koreheadset.com/collections/student-pilot-community): Kore Aviation and the Student Pilot Community have teamed up to help you fly smart, for less. Perfect for student pilots looking for premium, budget-friendly aviation headsets. Use code BEN10 at checkout.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Shop Your First Aviation Headsets | Kore Aviation](https://www.koreheadset.com/collections/first-aviation-headsets): Discover your first aviation headset with Kore Aviation. Shop the best aviation headset options for student pilots  with comfort and clarity.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 10
 - [Best Budget Premium Aviation Headsets Under $300 US | Kore Aviation](https://www.koreheadset.com/collections/best-budget-aviation-headsets-under-300): Shop the best budget aviation headsets under $300 Kore Aviation. Discover the best value pilot headset for flight training with comfort, clarity, durability.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 6
 - [BEST SELLERS](https://www.koreheadset.com/collections/best-sellers)
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [Pilot Flight Bags for Everyday Flying | Kore Aviation](https://www.koreheadset.com/collections/pilot-flight-bags-for-training-and-everyday-flying): Discover durable pilot flight bags designed for student pilots and experienced aviators. Stay organized with Kore Aviation flight bags built for daily flying.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 3
 - [Best Aviation Headset for Glasses | Kore Aviation](https://www.koreheadset.com/collections/best-aviation-headset-for-glasses): Find the best aviation headset for glasses wearers. Kore Aviation headsets are designed for comfort, clear communication, and a proper fit with eyewear.
-  Updated: 2026-03-02T12:01:15Z
+  Updated: 2026-03-10T11:01:18Z
   Total Products: 4
 - [BAGS](https://www.koreheadset.com/collections/bags)
-  Updated: 2026-02-28T06:35:23Z
+  Updated: 2026-03-08T11:01:22Z
   Total Products: 2
 - [Bundles](https://www.koreheadset.com/collections/bundles)
-  Updated: 2026-02-21T08:13:56Z
+  Updated: 2026-03-03T06:51:23Z
   Total Products: 0
 
 ## Blogs
@@ -640,7 +633,7 @@
 ## Store Pages
 
 - [About Us](https://www.koreheadset.com/pages/contact-us): Kore Headset is a family business with over 30 years of experience in aviation and communications equipment manufacturing. We launched Kore Aviatio...
-  Updated: 2019-09-21T08:02:34Z
+  Updated: 2026-03-05T01:45:19Z
 - [Returns & Warranty](https://www.koreheadset.com/pages/returns-warranty): ReturnsOur return policy is 30 days. If 30 days have passed since your purchase, unfortunately we can’t offer a refund or an exchange. To be eligib...
   Updated: 2024-06-09T14:13:47Z
 - [Privacy Policy](https://www.koreheadset.com/pages/privacy-policy): SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?When you purchase something from our store, as part of the buying and  process, we collect t...
@@ -650,7 +643,7 @@
 - [FAQ Page](https://www.koreheadset.com/pages/faq-page)
   Updated: 2023-10-14T07:01:45Z
 - [Partner With Us](https://www.koreheadset.com/pages/partner-with-us): Whether you're a flight school looking to include headsets in your curriculum, a retailer looking for more options for your customers, a pilot look...
-  Updated: 2024-06-11T05:37:42Z
+  Updated: 2026-03-05T01:44:40Z
 - [Contact Us](https://www.koreheadset.com/pages/contact-us-1)
   Updated: 2024-06-11T04:43:55Z
 - [Contact us (Wholesale)](https://www.koreheadset.com/pages/contact-us-wholesale)
@@ -658,25 +651,31 @@
 - [Partners](https://www.koreheadset.com/pages/partners)
   Updated: 2025-04-24T06:55:41Z
 - [KA-1 Aviation Headset (Mono & Stereo) with Headset Bag](https://www.koreheadset.com/pages/ka-1-aviation-headset-mono-stereo-with-headset-bag)
-  Updated: 2026-02-05T11:36:05Z
+  Updated: 2026-03-05T01:42:26Z
 - [Part Time Pilot](https://www.koreheadset.com/pages/part-time-pilot): 
-  Updated: 2026-02-16T02:45:02Z
+  Updated: 2026-03-09T23:22:14Z
 - [Rainier Flight Service](https://www.koreheadset.com/pages/rainier): 
-  Updated: 2026-02-16T02:45:59Z
+  Updated: 2026-03-09T23:23:31Z
 - [Costanzo Air Flight School](https://www.koreheadset.com/pages/costanzo): 
-  Updated: 2026-02-16T02:43:55Z
+  Updated: 2026-03-09T23:21:37Z
 - [Colorado Mesa University Tech](https://www.koreheadset.com/pages/cmutech): 
-  Updated: 2026-02-16T02:43:41Z
+  Updated: 2026-03-09T23:21:19Z
 - [Free Pilot Training](https://www.koreheadset.com/pages/freepilottraining): 
-  Updated: 2026-02-16T02:44:10Z
+  Updated: 2026-03-09T23:21:48Z
 - [Jet Access Flight Training](https://www.koreheadset.com/pages/jetaccess): 
-  Updated: 2026-02-16T02:44:32Z
+  Updated: 2026-03-09T23:22:03Z
 - [PPOT](https://www.koreheadset.com/pages/ppot): 
-  Updated: 2026-02-16T02:45:39Z
+  Updated: 2026-03-09T23:23:05Z
 - [Student Pilot Community](https://www.koreheadset.com/pages/studentpilotcommunity): 
-  Updated: 2026-02-16T02:46:17Z
+  Updated: 2026-03-09T23:23:49Z
 - [Kore Aviation Pilot Flight Bag](https://www.koreheadset.com/pages/pilot-flight-bag): 
-  Updated: 2026-02-16T02:45:19Z
+  Updated: 2026-03-09T23:22:44Z
+- [General Spec Sheet (KA-1)](https://www.koreheadset.com/pages/general-spec-sheet-ka-1)
+  Updated: 2026-03-05T01:41:33Z
+- [General Spec Sheet (P1)](https://www.koreheadset.com/pages/general-spec-sheet-p1)
+  Updated: 2026-03-05T01:44:07Z
+- [General Spec Sheet (H1)](https://www.koreheadset.com/pages/general-spec-sheet-h1)
+  Updated: 2026-03-05T01:44:18Z
 
 ## Policies
 
