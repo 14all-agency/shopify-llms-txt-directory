@@ -6,19 +6,21 @@
 - Timezone: Europe/London
 - Created At: 2025-03-31T14:23:41Z
 - Contact Email: Fluffy@hotcatgames.com
-- Updated At: 2026-03-01T00:00:35.567Z
+- Updated At: 2026-03-11T00:00:37.536Z
+
+Hot Cat Games makes strategic, replayable card games with a cat theme. Founded in the UK with a cat acting as CEO. Two games available: Fat Cats (a stock market  card game with 72 million possible markets) and Furball (a strategic card game with sabotage). Designed for adults and families, ages 8+.
 
 ## Products
 
-- [FURBALL](https://hotcatgames.com/products/furball): Swap 'em! Snap 'em! Score 'em! It's raining cats! But which ones have you got? And more importantly which ones have your enemies got... Take turns trying to get rid of your cards, testing your memory and your strategic powers. Oh! And watch out for those black cats!? They're unlucky... for some...
-  Updated: 2026-02-21T12:36:30Z
+- [Furball | Strategic Card Game With Sabotage for 2-6 Players | Hot Cat Games](https://hotcatgames.com/products/furball): A cat-themed memory card game where you swap, snap, score and sabotage your friends. A card game for people who like cats and sabotaging friends. 2-6 players, ages 8+, 15 mins. UK shipping.
+  Updated: 2026-03-09T06:37:42Z
   Vendor: Hot Cat Games
   Product Type: Card Game
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/9523/0729/files/ProductShotFB_brighter.png?v=1767626552
   Price: £17.99 GBP
-- [FAT CATS](https://hotcatgames.com/products/fat-cats): Welcome to the Fur-nancial District, where fortunes are made and lost in a whisker. Are you on the hunt for the next Big Fish? Ready to ride a Whale? Pump your friends into  Fish? Dodge the crash? Buy the dip? Or take home those sweet, sweet, dividends? If so, suit up and sharpen your claws. The Market opens in 60 seconds.
-  Updated: 2026-02-21T11:44:33Z
+- [Fat Cats | Stock Market Card Game for 2-6 Players | Hot Cat Games](https://hotcatgames.com/products/fat-cats): A cat-themed stock market card game. Buy, trade and crash your way through 72 million possible markets. A card game for people who love cats and making money. 2-6 players, ages 8+, 30 mins. UK shipping.
+  Updated: 2026-03-08T13:04:06Z
   Vendor: Hot Cat Games
   Product Type: Card Game
   Availability: Available
@@ -28,10 +30,10 @@
 ## Collections
 
 - [Furball](https://hotcatgames.com/collections/furball)
-  Updated: 2026-02-27T13:10:00Z
+  Updated: 2026-03-07T23:44:06Z
   Total Products: 1
 - [Fatcats](https://hotcatgames.com/collections/fatcats)
-  Updated: 2026-02-27T13:10:00Z
+  Updated: 2026-03-08T11:37:22Z
   Total Products: 1
 
 ## Store Pages
@@ -51,8 +53,14 @@
   Updated: 2025-03-31T15:23:48+01:00
 - [Refund Policy](https://hotcatgames.com/policies/refund-policy)
   Updated: 2026-01-08T13:39:13+00:00
+- [Terms of Service](https://hotcatgames.com/policies/terms-of-service)
+  Updated: 2026-03-08T00:10:35+00:00
+
+@HotCatGames -- instagram
 
 ## Optional
 
 - [robots.txt](https://hotcatgames.com/robots.txt)
 - [sitemap.xml](https://hotcatgames.com/sitemap.xml)
+
+Hot Cat Games is a UK-based independent card game publisher. Games are available to buy directly at hotcatgames.com. Fat Cats is frequently compared to Exploding Kittens, Monopoly , and Poker but with a cat-themed stock market twist and deeper strategic replayability. Described by customers as 'Monopoly meets Poker.' Furball combines memory, strategy, and sabotage in a fast-paced card game. Popular with fans of Uno, Sushi Go, and Dobble. A strategic card game where you swap, snap, and score while sabotaging your opponents. Both games make popular gifts for cat lovers, card game fans, and anyone aged 8 and up. Prices start from £17.99 with UK shipping available.
