@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2017-11-25T20:46:22Z
 - Contact Email: help@vimergy.com
-- Updated At: 2026-03-05T00:00:38.984Z
+- Updated At: 2026-03-12T00:00:40.815Z
 
 ## Products
 
 - [Chaga Supplements | Chaga Mushroom Powder](https://vimergy.com/products/organic-chaga-mushroom-powder): Our Organic Chaga mushroom powder supplement is a perfect substitute for your morning coffee without the effects of caffeine. Chaga is bursting with polyphenols which has been shown to support a healthy cardiovascular system.
-  Updated: 2026-03-04T23:41:27Z
+  Updated: 2026-03-11T23:09:07Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-chaga-powder-vimergy-supplements-vitamins-1177463369.png?v=1768494400
     Price: $28.00 USD
 - [Brain Body Protect | Blueberry Vitamins](https://vimergy.com/products/wild-blueberry-powder): A powerful pairing of wild blueberries and our Cell-Refresh blend helps you stay clear, focused, and strong from the inside out.
-  Updated: 2026-03-04T22:43:27Z
+  Updated: 2026-03-11T23:49:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -39,14 +39,14 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/brain-body-protect-vimergy-supplements-vitamins-1221705154.png?v=1772054230
     Price: $31.00 USD
 - [Reishi Mushroom Powder | Mushroom Powder Supplement](https://vimergy.com/products/reishi-mushroom-powder): Our Organic Reishi Mushroom Powder supplement supports a healthy immune system. Reishi has been used for over 2,000 years. Buy immune supplements at Vimergy.com.
-  Updated: 2026-03-04T21:50:27Z
+  Updated: 2026-03-11T19:51:56Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/usda-organic-reishi-powder-vimergy-supplements-vitamins-1220784810.png?v=1770927007
   Price: $29.00 USD
 - [Vimergy Gift Cards | Vimergy Supplements](https://vimergy.com/products/giftcard): Give the gift of quality health supplements with a Vimergy Gift Card. The perfect and healthy gift for friends or family. Order a Vimergy vitamin gift card.
-  Updated: 2026-03-04T19:31:27Z
+  Updated: 2026-03-11T02:31:06Z
   Vendor: VIMERGY
   Product Type: Gift Card
   Availability: Available
@@ -68,7 +68,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/gift-card-vimergy-supplements-vitamins-1210775708.png?v=1765404508
     Price: $250.00 USD
 - [L-Lysine Supplements | Amino Acid Vitamins](https://vimergy.com/products/l-lysine-capsules): This incredible amino acid, L-Lysine supplement, helps maintain a healthy immune system and supports the growth and quality of hair, skin and tissue. Order now.
-  Updated: 2026-03-04T23:40:26Z
+  Updated: 2026-03-12T00:00:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -82,14 +82,14 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/l-lysine-vimergy-supplements-vitamins-1176028262.png?v=1772056827
     Price: $20.00 USD
 - [Barley Grass Juice Capsules | Barley Grass Juice Powder](https://vimergy.com/products/organic-barleygrass-juice-capsules): Our Barley Grass Juice Capsules are an easy way to get vital nutrients such as iron, calcium, selenium, vitamin C, and more. Shop for barley grass supplements.
-  Updated: 2026-03-04T23:26:07Z
+  Updated: 2026-03-11T23:28:46Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/barley-grass-juice-caps-vimergy-supplements-vitamins-36311598596266.jpg?v=1762441431
   Price: $41.00 USD
 - [Liquid B12 | B12 Vitamins](https://vimergy.com/products/organic-liquid-b12): Our Organic Liquid B12 supplement is essential for a healthy nervous system, metabolic function and red blood cell production. Shop Vimergy for B12 vitamins.
-  Updated: 2026-03-04T23:53:17Z
+  Updated: 2026-03-12T00:00:16Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -107,7 +107,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-b12-vimergy-supplements-vitamins-1200011142.png?v=1761595710
     Price: $33.00 USD
 - [Organic Liquid Zinc Supplements | Zinc Vitamins](https://vimergy.com/products/organic-liquid-zinc): Vimergy Organic Liquid Zinc supplement is an essential mineral for overall health. It supports healthy metabolism and immune system. Shop zinc vitamins now.
-  Updated: 2026-03-05T00:00:17Z
+  Updated: 2026-03-12T00:00:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -125,35 +125,35 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-zinc-vimergy-supplements-vitamins-1209622636.png?v=1764626909
     Price: $24.00 USD
 - [Celery Supplement | Celeryforce | Celery Vitamins](https://vimergy.com/products/celeryforce-capsules): Enhance your nutrition with Celeryforce, a blend of vitamins and minerals that support the health of neurotransmitters, nerves, muscles, cells and more.
-  Updated: 2026-03-05T00:00:18Z
+  Updated: 2026-03-11T23:58:37Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/celeryforce-vimergy-supplements-vitamins-36312070455466.jpg?v=1762441490
   Price: $21.00 USD
 - [Spirulina Capsules | Spirulina Vitamins](https://vimergy.com/products/usa-grown-spirulina-capsules): Vimergy's Spirulina Capsules are bursting with vitamins and make a great nutrient-rich substitute for protein powders. Helps keep your immune system healthy.
-  Updated: 2026-03-04T23:26:07Z
+  Updated: 2026-03-11T23:28:42Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/usa-grown-spirulina-caps-vimergy-supplements-vitamins-36312834801834.jpg?v=1762441494
   Price: $25.00 USD
 - [Chaga Mushroom Supplements | Chaga Vitamins](https://vimergy.com/products/organic-chaga-capsules): Chaga Mushroom supplements, bursting with polyphenols, support a healthy cardiovascular system. Vimergy Chaga Powder is now available in easy-to-use capsules.
-  Updated: 2026-03-05T00:00:18Z
+  Updated: 2026-03-11T21:11:07Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/chaga-capsules-vimergy-supplements-vitamins-36312472617130.jpg?v=1762441496
   Price: $27.00 USD
 - [Melatonin Supplements | Sleep Aid Vitamins](https://vimergy.com/products/melatonin): Are you struggling to get a good night's sleep? Look to Vimergy's Melatonin supplements to provide relief for occasional sleeplessness. Buy sleep aid vitamins.
-  Updated: 2026-03-04T22:55:48Z
+  Updated: 2026-03-11T23:12:57Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/melatonin-vimergy-supplements-vitamins-36402844369066.jpg?v=1762441496
   Price: $22.00 USD
 - [Organic Liquid Cat's Claw Supplement | Immune System Supplement](https://vimergy.com/products/organic-liquid-cats-claw): Vimergy's Organic Cat's Claw supplement is a special herb that supports a healthy immune system. Kosher, vegan and gluten-free. Shop for cat's claw vitamins.
-  Updated: 2026-03-04T23:44:23Z
+  Updated: 2026-03-11T23:25:36Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -171,7 +171,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-cat-s-claw-vimergy-supplements-vitamins-1176017727.png?v=1768336207
     Price: $25.00 USD
 - [Nettle Supplements | Nettle Leaf](https://vimergy.com/products/organic-liquid-nettle): Harness the health power of this special herb found in our Organic Nettle Leaf liquid supplement. Supports a healthy urinary system, prostate and immune system.
-  Updated: 2026-03-04T23:44:27Z
+  Updated: 2026-03-11T23:58:36Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -185,49 +185,49 @@
   Image: https://cdn.shopify.com/s/files/1/2583/9036/products/30ml-glass-dropper-vimergy-supplements-vitamins-13768477835350.jpg?v=1762442373
   Price: $0.00 USD
 - [Vegan Omega 3 Supplements | Fish-Free Omega 3](https://vimergy.com/products/vegan-epa-dha-capsules): Our Vegan EPA DHA supplement is fish-free and supports brain health, eye health and cardiovascular health. Buy fish-free Omega 3 supplements at Vimergy.com.
-  Updated: 2026-03-04T23:41:17Z
+  Updated: 2026-03-11T23:52:28Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/vegan-epa-dha-vimergy-supplements-vitamins-36811954290858.jpg?v=1762442388
   Price: $41.00 USD
 - [Organic Liquid Licorice Supplement | Digestive Supplements](https://vimergy.com/products/organic-liquid-licorice): Our Organic Licorice supplements support digestive and respiratory health. In liquid vitamin form, each serving provides a 2000mg herbal equivalent of licorice.
-  Updated: 2026-03-04T21:10:18Z
+  Updated: 2026-03-12T00:00:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-licorice-vimergy-supplements-vitamins-1200002684.png?v=1761588632
   Price: $39.00 USD
 - [Gaba Supplements | Gamma Aminobutyric Acid](https://vimergy.com/products/gaba-capsules): Look to Vimergy 's GABA Supplements with Magnesium for help when it comes to relaxing. GABA (Gamma-Aminobutyric Acid) also supports a healthy response to stress.
-  Updated: 2026-03-04T23:14:28Z
+  Updated: 2026-03-11T23:48:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/gaba-vimergy-supplements-vitamins-36312790335658.jpg?v=1762443020
   Price: $39.00 USD
 - [Glutathione Supplements | Vitamins with Glutathione](https://vimergy.com/products/glutathione-capsules): Glutathione is essential for cellular and immune system health, helps reduce free radicals and aids in the body's natural detoxification. Shop Vimergy Reduced Glutathione.
-  Updated: 2026-03-04T22:11:57Z
+  Updated: 2026-03-11T23:58:36Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/glutathione-vimergy-supplements-vitamins-36930621571242.jpg?v=1762443020
   Price: $36.00 USD
 - [5-MTHF Supplements | Methylfolate Supplement](https://vimergy.com/products/5-mthf-capsules): Vimergy's 5-MTHF supplement, also known as methylfolate, is the active form of the vitamin folate which supports brain health. Buy Methylfolate Supplements.
-  Updated: 2026-03-04T23:44:22Z
+  Updated: 2026-03-11T23:52:52Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/5-mthf-vimergy-supplements-vitamins-36811965104298.jpg?v=1762443022
   Price: $47.00 USD
 - [Organic Liquid Goldenseal Supplement | Goldenseal Liquid Vitamins](https://vimergy.com/products/organic-liquid-goldenseal): Shop for Organic Goldenseal liquid supplements at Vimergy.com. Each serving contains 2000mg of goldenseal extract and is kosher, vegan and gluten-free.
-  Updated: 2026-03-04T22:27:47Z
+  Updated: 2026-03-11T23:25:39Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/usda-organic-liquid-goldenseal-vimergy-supplements-vitamins-1215845863.png?v=1767910087
   Price: $39.00 USD
 - [USDA Organic Liquid Ashwagandha](https://vimergy.com/products/organic-liquid-ashwagandha): Do you need support for healthy brain function, sleeplessness and help with daily stress? Get support from Vimergy's Organic Ashwagandha liquid supplement.
-  Updated: 2026-03-04T23:44:23Z
+  Updated: 2026-03-12T00:00:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -241,114 +241,114 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-ashwagandha-vimergy-supplements-vitamins-1176007722.png?v=1771524855
     Price: $22.00 USD
 - [Organic Liquid Atlantic Dulse | Dulse Supplements](https://vimergy.com/products/organic-liquid-atlantic-dulse): Our alcohol -free liquid Atlantic Dulse superfood formulafor antioxidant defense* is created with organic flax glycerin as well as lemon juice concentrate.
-  Updated: 2026-03-04T23:31:07Z
+  Updated: 2026-03-11T23:41:26Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-atlantic-dulse-vimergy-supplements-vitamins-1204650524.png?v=1763014227
   Price: $47.00 USD
 - [5-HTP Supplements | Mood Boost Vitamins](https://vimergy.com/products/5-htp-capsules): Looking for a mood-supporting vitamin? Vimergy's 5-HTP supplements can help your body maintain healthy levels of serotonin which can help improve your mood.
-  Updated: 2026-03-04T16:52:24Z
+  Updated: 2026-03-11T23:25:36Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/5-htp-vimergy-supplements-vitamins-37022818500778.jpg?v=1762444461
   Price: $46.00 USD
 - [Organic Liquid Vegan Vitamin D Supplements](https://vimergy.com/products/organic-liquid-vegan-d3): VIMERGY Organic Vegan D3 supplement supports a healthy immune system and the development and maintenance of healthy bones.
-  Updated: 2026-03-04T23:30:17Z
+  Updated: 2026-03-11T23:25:39Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-vegan-d3-vimergy-supplements-vitamins-1204650523.png?v=1763014232
   Price: $24.00 USD
 - [Organic Liquid Milk Thistle Supplements | Liver Support Supplements](https://vimergy.com/products/organic-liquid-milk-thistle): VIMERGY Milk Thistle in convenient liquid form supports your liver function* and promotes healthy digestion.*
-  Updated: 2026-03-04T19:43:57Z
+  Updated: 2026-03-11T23:41:26Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-milk-thistle-vimergy-supplements-vitamins-1204650528.png?v=1763014236
   Price: $32.00 USD
 - [MSM Supplement | Hair, Skin, and Nail Vitamins](https://vimergy.com/products/msm-capsules): VIMERGY MSM Supplements contain silica and calcium to support hair, skin, nails, and joints health.
-  Updated: 2026-03-05T00:00:15Z
+  Updated: 2026-03-11T23:52:26Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/msm-vimergy-supplements-vitamins-37022820073642.jpg?v=1762445029
   Price: $34.00 USD
 - [Organic Liquid PropolisPure Supplements | Immune Support](https://vimergy.com/products/organic-liquid-propolispure): VIMERGY PropolisPure® supports your immune system and respiratory function,* while also promoting oral health.*
-  Updated: 2026-03-04T23:44:23Z
+  Updated: 2026-03-11T23:12:57Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-propolispure-vimergy-supplements-vitamins-1204650527.png?v=1763014119
   Price: $42.00 USD
 - [Organic Liquid Olive Leaf Supplement | Olive Leaf Extract](https://vimergy.com/products/organic-liquid-olive-leaf): Support your immune system with Organic Olive Leaf supplements containing the herbs olive leaf extract, that also supports a healthy cardiovascular system.
-  Updated: 2026-03-04T21:01:29Z
+  Updated: 2026-03-11T22:07:11Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-olive-leaf-vimergy-supplements-vitamins-1200002688.png?v=1761588645
   Price: $25.00 USD
 - [Vitamin B Complex | Vitamin B Supplements](https://vimergy.com/products/adapto-bcomplex-capsules): Our Adapto B-Complex supplement contains a special blend of 8 B vitamins and adaptogens. Helps support mental and physical energy, healthy mood and cognitive function.
-  Updated: 2026-03-04T23:14:27Z
+  Updated: 2026-03-11T23:52:27Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/adapto-b-complex-vimergy-supplements-vitamins-36311409950890.jpg?v=1762445301
   Price: $45.00 USD
 - [Organic Ashwagandha Liquid 60 ml](https://vimergy.com/products/organic-ashwagandha-liquid-60-ml): Trial Size
-  Updated: 2026-03-04T21:37:47Z
+  Updated: 2026-03-10T23:21:46Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $19.00 USD
 - [Organic Cat's Claw 60 ml](https://vimergy.com/products/organic-cats-claw-60-ml): Trial Size
-  Updated: 2026-03-04T19:38:07Z
+  Updated: 2026-03-11T18:55:22Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $26.00 USD
 - [Organic Wild Blueberry 120g](https://vimergy.com/products/organic-wild-blueberry-120g): Trial Size
-  Updated: 2026-03-04T22:55:47Z
+  Updated: 2026-03-11T12:51:38Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $36.00 USD
 - [USA Grown Spirulina 135g](https://vimergy.com/products/usa-grown-spirulina-135g): Trial Size
-  Updated: 2026-03-04T22:55:47Z
+  Updated: 2026-03-11T19:23:48Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $26.00 USD
 - [L-Lysine 90](https://vimergy.com/products/l-lysine-90): Trial Size
-  Updated: 2026-03-04T23:53:27Z
+  Updated: 2026-03-11T23:41:26Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/l-lysine-90-vimergy-supplements-vitamins-914937417.gif?v=1767985809
   Price: $20.00 USD
 - [MAGNES-60](https://vimergy.com/products/magnes-60): Trial size
-  Updated: 2026-03-04T20:28:54Z
+  Updated: 2026-03-11T16:08:57Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $20.00 USD
 - [Kids Liquid Organic Zinc Sulfate Supplements](https://vimergy.com/products/kids-organic-liquid-zinc): Organic Zinc Sulfate is a fantastic way to ensure your kiddos get enough of this powerhouse nutrient to fuel their daily vital growth and development.
-  Updated: 2026-03-04T22:52:07Z
+  Updated: 2026-03-11T19:43:56Z
   Vendor: VIMERGY
   Product Type: Kids Vitamins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/kids-organic-liquid-zinc-vimergy-supplements-vitamins-1200002690.png?v=1761588643
   Price: $28.00 USD
 - [Kids Liquid Organic B-12 | B12 Vitamins](https://vimergy.com/products/kids-organic-liquid-b12): Set your child on the path to health with a balanced mind and vital body! VIMERGY Kids Organic Liquid B12 provides a graduated serving size recommendation based on your child’s age.
-  Updated: 2026-03-04T22:18:50Z
+  Updated: 2026-03-11T16:56:07Z
   Vendor: VIMERGY
   Product Type: Kids Vitamins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/kids-organic-liquid-b12-vimergy-supplements-vitamins-1200002692.png?v=1761588507
   Price: $61.00 USD
 - [Barley Grass Juice Powder Supplements](https://vimergy.com/products/barleygrass-juice-powder): Vimergy's USDA Organic Barley Grass Juice Powder supplement is gluten-free and contains vitamins, minerals and amino acids supporting cardiovascular function.
-  Updated: 2026-03-05T00:00:18Z
+  Updated: 2026-03-11T23:58:36Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -366,7 +366,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-barley-grass-juice-powder-vimergy-supplements-vitamins-1176007718.png?v=1751314243
     Price: $33.00 USD
 - [Curcumin Supplements | Curcumin with Turmeric](https://vimergy.com/products/curcumin-capsules): Are you searching for an immune system supplement with overall support for your health? Vimergy's Curcumin Supplements with Turmeric can help. Order now.
-  Updated: 2026-03-04T23:41:27Z
+  Updated: 2026-03-12T00:00:16Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -380,7 +380,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/curcumin-with-turmeric-vimergy-supplements-vitamins-36964442865834.jpg?v=1725482321
     Price: $99.00 USD
 - [Vitamin C Supplements | Micro-C® Vitamin](https://vimergy.com/products/micro-c-vitamin-c-capsules): Vimergy's Micro-C® supplement is a highly absorbable vitamin C supplement enhanced with bioflavanoids to support your immune and cardiovascular system and more.
-  Updated: 2026-03-04T22:43:27Z
+  Updated: 2026-03-12T00:00:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -398,7 +398,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/micro-c-capsules-vimergy-supplements-vitamins-1176017714.png?v=1751321438
     Price: $33.00 USD
 - [Micro-C Immune Power™* Vitamin C Powder](https://vimergy.com/products/micro-c-immune-power-vitamin-c-powder): Faster Absorption than Capsules, Gummies or Tablets - As a powerful powder supplement there is no capsule, gummy, or tablet to dissolve to get to the good stuff.* More Potent, Still Gentle - Brings two forms of Vitamin C that are less acidic than regular vitamin C powders, so they’re gentle on the stomach.* Increases Collagen Production - Silica works with both forms of vitamin C to produce strong and healthy collagen which supports beautiful hair, skin, teeth and nails.* Reduces Tiredness and Fatigue - This formula includes vitamins, minerals and phytonutrients to help replenish antioxidants and guard against free radical impact, increase iron absorption, help make healthy red blood cells, help reduce tiredness and fatigue.* Clean Formula – Contains no hidden colors, fillers or other troublesome ingredients. It is gluten-free, sugar-free and preservative-free. Packed with only the active ingredients you need without the problematic ingredients you don’t.
-  Updated: 2026-03-05T00:00:17Z
+  Updated: 2026-03-11T23:52:56Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -416,7 +416,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/micro-c-immune-power-powder-vimergy-supplements-vitamins-1177463370.png?v=1765821415
     Price: $33.00 USD
 - [Organic Liquid Lemon Balm Supplement | Organic Lemon Balm 115mL](https://vimergy.com/products/organic-liquid-lemon-balm): VIMERGY Organic Lemon Balm supplement has calming qualities that may provide relief for simple nervous tension due to stress, overwork or fatigue.
-  Updated: 2026-03-04T23:45:27Z
+  Updated: 2026-03-12T00:00:16Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -434,7 +434,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/organic-liquid-lemon-balm-vimergy-supplements-vitamins-39139589390506.png?v=1772139183
     Price: $17.00 USD
 - [Magnesium Glycinate | Magnesium Supplement](https://vimergy.com/products/magnesium-glycinate-capsules): Magnesium Glycinate is a ‘smart magnesium’ that mimics what’s found naturally in food sources, enhanced with ginger and turmeric root powder.* Promotes relaxation and sleep*
-  Updated: 2026-03-04T23:30:18Z
+  Updated: 2026-03-12T00:00:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -452,7 +452,7 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/magnesium-glycinate-vimergy-supplements-vitamins-1176028270.png?v=1770920330
     Price: $19.00 USD
 - [Spirulina Supplement | Spirulina Powder](https://vimergy.com/products/usa-grown-spirulina-powder): Our USA Grown Spirulina powder supplement is packed with vitamins, amino acids and more. Easily digested, it's a great way to increase your nutrient intake.
-  Updated: 2026-03-04T23:44:23Z
+  Updated: 2026-03-11T23:58:37Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -470,289 +470,292 @@
     Image: https://cdn.shopify.com/s/files/1/2583/9036/files/spirulina-powder-vimergy-supplements-vitamins-1176028266.png?v=1751328763
     Price: $25.00 USD
 - [USDA Organic Liquid Total Immune Blend*](https://vimergy.com/products/total-immune-blend): Provides potent immune defense throughout the year, not just in the winter months!* Our potent gentle formula delivers 3 active ingredients in a fast absorbing form.
-  Updated: 2026-03-04T23:27:37Z
+  Updated: 2026-03-12T00:00:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/usda-organic-liquid-total-immune-blend-vimergy-supplements-vitamins-1220784808.png?v=1770926886
   Price: $45.00 USD
 - [Target Organic Wild Blueberry 120g](https://vimergy.com/products/target-organic-wild-blueberry-120g): Trial Size
-  Updated: 2026-03-04T22:55:48Z
+  Updated: 2026-03-11T12:51:37Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $36.00 USD
 - [Target Organic Cat's Claw 60 ml](https://vimergy.com/products/target-organic-cats-claw-60-ml): Trial Size
-  Updated: 2026-03-04T19:38:08Z
+  Updated: 2026-03-11T18:55:32Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $26.00 USD
 - [Target L-Lysine 90](https://vimergy.com/products/target-l-lysine-90): Trial Size
-  Updated: 2026-03-04T23:53:27Z
+  Updated: 2026-03-11T23:41:28Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/target-l-lysine-90-vimergy-supplements-vitamins-974904909.gif?v=1767985775
   Price: $20.00 USD
 - [Target USA Grown Spirulina 135g](https://vimergy.com/products/target-usa-grown-spirulina-135g): Trial Size
-  Updated: 2026-03-04T22:55:48Z
+  Updated: 2026-03-11T19:15:17Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $26.00 USD
 - [Target Organic Zinc Liquid 60ml](https://vimergy.com/products/target-organic-zinc-liquid-60ml): Trial Size
-  Updated: 2026-03-04T22:23:28Z
+  Updated: 2026-03-11T23:25:36Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $24.00 USD
 - [Target Organic Ashwagandha Liquid 60 ml](https://vimergy.com/products/target-organic-ashwagandha-liquid-60-ml): Trial Size
-  Updated: 2026-03-04T21:37:46Z
+  Updated: 2026-03-10T23:21:47Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $19.00 USD
 - [Restful You* Liquid Melatonin](https://vimergy.com/products/restful-you-liquid-melatonin): Fall asleep faster, sleep longer and wake up refreshed with Restful You*. A gentle, fast-absorbing liquid melatonin designed for restorative sleep cycles. *
-  Updated: 2026-03-04T22:07:07Z
+  Updated: 2026-03-11T23:58:38Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/restful-you-liquid-melatonin-vimergy-supplements-vitamins-1210788111.png?v=1765411946
   Price: $20.00 USD
 - [USDA Organic Soothe Wise* Elderberry & Raw Honey Formula](https://vimergy.com/products/soothe-wise-elderberry-syrup): New VIMERGY Soothe Wise*, a great tasting raw honey and elderberry formula, helps soothe, coat and support respiratory tissues, while boosting immunity.
-  Updated: 2026-03-04T23:44:28Z
+  Updated: 2026-03-11T21:37:17Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/soothe-wise-elderberry-raw-honey-syrup-vimergy-supplements-vitamins-1200002694.png?v=1761588519
   Price: $40.00 USD
 - [Chaga 50](https://vimergy.com/products/chaga-50)
-  Updated: 2026-03-04T23:53:27Z
+  Updated: 2026-03-11T23:25:37Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $0.00 USD
 - [Target Barley Grass 120g](https://vimergy.com/products/target-barley-grass-120g): Trial Size
-  Updated: 2026-03-04T23:53:28Z
+  Updated: 2026-03-11T14:39:28Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Price: $0.00 USD
 - [Brain Body Recharge*](https://vimergy.com/products/brain-body-recharge): Strengthen and energize your day with this 3-in-1 fatigue-reducing force. Support cardiovascular health and bone density with Vitamins K2 & D3, and CoQ10.
-  Updated: 2026-03-04T22:40:08Z
+  Updated: 2026-03-11T23:06:56Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/brain-body-recharge-vimergy-supplements-vitamins-1200002696.png?v=1761588509
   Price: $49.00 USD
 - [Brain Body Memory*](https://vimergy.com/products/brain-body-memory): Dual-action formula boosts 5 types of memory and enhances 10 key memory functions - from memory cell formation to focus. This clean powder, created with three clean ingredients, is absorbed faster than tablets, capsules, or gummies.*
-  Updated: 2026-03-04T22:08:37Z
+  Updated: 2026-03-11T23:25:37Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/brain-body-memory-vimergy-supplements-vitamins-1155323113.png?v=1744323029
   Price: $49.00 USD
 - [Day-Night Immunity Kit*](https://vimergy.com/products/day-night-immunity-kit): Day-Night Immunity Kit pairs the daytime power of PropolisPure® with the nighttime support of Total Immune Blend* for round-the-clock, all-season well-being. *
-  Updated: 2026-03-04T23:44:37Z
+  Updated: 2026-03-12T00:00:28Z
   Vendor: VIMERGY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/day-night-immunity-kit-vimergy-supplements-vitamins-1169640814.png?v=1748038242
   Price: $78.00 USD
 - [Skin Potion Kit](https://vimergy.com/products/skin-potion-kit): The VIMERGY Skin Potion Kit combines Micro-C Immune Power™* and MSM to support collagen production, immune function and antioxidant for sun protection. *
-  Updated: 2026-03-05T00:00:18Z
+  Updated: 2026-03-11T23:52:36Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/skin-potion-kit-vimergy-supplements-vitamins-1204961825.png?v=1763158108
   Price: $60.00 USD
 - [GLP-1 Digestive Kit*](https://vimergy.com/products/glp-1-digestive-kit): Featuring organic Lemon Balm and Licorice liquid extracts, this calming blend is ideal for digestive comfort and mental ease - especially for GLP-1 users.*
-  Updated: 2026-03-04T23:45:36Z
+  Updated: 2026-03-12T00:00:27Z
   Vendor: VIMERGY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/glp-1-wellness-tea-kit-vimergy-supplements-vitamins-1179412514.jpg?v=1752869445
   Price: $73.00 USD
 - [All-Day Resilience Kit*](https://vimergy.com/products/all-day-resilience-kit): Boost all-day, all-season brain and body resilience. * Naturally delicious blend of Zinc, Mullein, Thyme and B12.  No added sugar or flavor.
-  Updated: 2026-03-04T23:53:23Z
+  Updated: 2026-03-12T00:00:27Z
   Vendor: VIMERGY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/all-day-resilience-kit-vimergy-supplements-vitamins-1196012971.jpg?v=1759529322
   Price: $129.00 USD
 - [Nighttime Fortifier Kit*](https://vimergy.com/products/nighttime-fortifier-kit): Repair, rebuild & activate your body’s resilience while you sleep. Naturally delicious blend of Zinc, Melatonin, Mullein & Thyme.  No added sugar or flavor. *
-  Updated: 2026-03-04T23:27:38Z
+  Updated: 2026-03-12T00:00:26Z
   Vendor: VIMERGY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/nighttime-fortifier-kit-vimergy-supplements-vitamins-1200027730.png?v=1761610226
   Price: $58.00 USD
 - [WellMix Glasses](https://vimergy.com/products/wellmix-glasses): Make every VIMERGY mix simple and precise with our WellMix Glasses, crafted for clarity, durability and an elevated daily ritual.
-  Updated: 2026-03-04T22:07:17Z
+  Updated: 2026-03-11T23:16:46Z
   Vendor: VIMERGY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/wellmix-glasses-vimergy-supplements-vitamins-1207914863.png?v=1763755710
   Price: $21.00 USD
 - [Shield & Soothe Kit*](https://vimergy.com/products/shield-soothe-kit): Total Immune Blend and Soothe Wise combination create an immunity network effect, where five potent ingredients work in unison to help soothe, coat and support respiratory tissues while boosting immunity. Zinc + Mullein + Thyme + Elderberry + Honey Total Immune Blend Triple Action Formula – Stimulates your body’s ability to produce more white-blood cells, protects delicate respiratory tract tissues and provides antioxidant support Delicious 2-in-1 Elderberry and Raw Honey – Soothe Wise combines potent elderberry extract and soothing raw honey to help soothe and coat respiratory tissues while boosting immunity All-Season Protection – Whether as part of your winter preparedness routine or for everyday poor air quality, this clean-ingredients formula has you covered The power of 300 elderberries in every spoon – Every spoonful provides 7x the potency* of a leading elderberry syrup product, without unnecessary sugars, binders or fillers Faster absorption than capsules, gummies or tablets – Rich, thick and tasty, our Soothe Wise liquid formula is fast absorbing, and so is our naturally sweet liquid Totally Immune Blend
-  Updated: 2026-03-04T23:44:37Z
+  Updated: 2026-03-12T00:00:26Z
   Vendor: VIMERGY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/shield-soothe-kit-vimergy-supplements-vitamins-1210788101.png?v=1765411718
   Price: $76.00 USD
 - [Collagen Replenish Kit*](https://vimergy.com/products/collagen-replenish-kit): A clean, simple, daily beauty routine designed to support healthy hair, skin and nails. This kit combines MSM, L-Lysine and Micro-C Immune Power™* to help support vegan collagen, keratin and elastin production - three essential beauty proteins.*
-  Updated: 2026-03-05T00:00:18Z
+  Updated: 2026-03-11T23:52:36Z
   Vendor: VIMERGY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/collagen-replenish-kit-vimergy-supplements-vitamins-1214061412.png?v=1767392167
   Price: $78.00 USD
 - [🎁 WellMix Glasses (100% off)](https://vimergy.com/products/wellmix-glasses-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Live chat in-app or email us at: help@bogos.io.
-  Updated: 2026-03-04T22:07:08Z
+  Updated: 2026-03-11T23:16:36Z
   Vendor: VIMERGY
   Product Type: Hidden
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/wellmix-glasses-100-off-vimergy-supplements-vitamins-1212899426.png?v=1766482586
   Price: $0.00 USD
 - [VIMERGY Berrylicious Immunity NutriDense Drop](https://vimergy.com/products/berrylicious-immunity): VIMERGY Berrylicious Immunity chew drops are 100% made from Fruits and Vegetables and Zinc-infused, to provide all-season immune support for the whole family. 30 servings.
-  Updated: 2026-03-04T23:14:27Z
+  Updated: 2026-03-11T23:58:38Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2583/9036/files/berrylicious-immunity-nutridense-drop-vimergy-supplements-vitamins-1224384272.png?v=1772216527
   Price: $39.00 USD
 - [VIMERGY Fruitylicious Turmeric NutriDense Drop](https://vimergy.com/products/fruitylicious-turmeric): VIMERGY Fruitylicious Turmeric chew drops are 100% made from Fruits and Vegetables, and designed to promote joint health, mobility and flexibility. 30 servings.
-  Updated: 2026-03-04T23:14:28Z
+  Updated: 2026-03-11T23:52:56Z
   Vendor: VIMERGY
   Product Type: Vitamins & Supplements
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2583/9036/files/fruitylicious-turmeric-nutridense-drop-vimergy-supplements-vitamins-1224384264.png?v=1772216107
+  Image: https://cdn.shopify.com/s/files/1/2583/9036/files/fruitylicious-turmeric-nutridense-drop-vimergy-supplements-vitamins-1226809857.png?v=1773180848
   Price: $39.00 USD
 
 ## Collections
 
 - [VIMERGY Self-Care Kits - Save 10%](https://vimergy.com/collections/self-care-kits): Designed to work together, they're ideal for boosting immunity, supporting skin health and restoring digestive balance. Targeted support without the guesswork.
-  Updated: 2026-02-25T20:44:58Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 15
 - [Shop Powdered Vitamins, Supplements & Greens | Vimergy](https://vimergy.com/collections/powdered-vitamins-supplements): Vimergy's vegan powdered vitamins, supplements, protein powders and greens deliver vital nutrients at a great price. Organic options available. Shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 12
 - [Shop All | VIMERGY](https://vimergy.com/collections/all): VIMERGY offers the best selection of vitamins and supplements, from skin health to natural energy, digestion, anti-aging supplements and more. Shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 78
 - [Shop Vegetarian Capsule Supplements | Kosher, Gluten-Free | Vimergy](https://vimergy.com/collections/capsules-vitamins-supplements): Browse the best selection of capsule vitamins and supplements at Vimergy. All of our capsule supplements are vegan, kosher, and gluten free. Shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 19
 - [Shop Liquid Vitamins & Supplements | Organic, Kosher, Gluten-Free VIMERGY](https://vimergy.com/collections/liquid-vitamins-supplements): VIMERGY organic liquid vitamins and supplements deliver the support your body needs without the need to swallow a pill. Shop our liquid supplements now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 23
 - [Distributors](https://vimergy.com/collections/distributors)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 43
 - [Brain Health Supplements for Focus & Memory](https://vimergy.com/collections/brain-health-vitamins-supplements): Support cognitive health with Vimergy's brain health supplements. Available in liquids, powders and capsules. Improve memory & focus. Shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 15
 - [Shop Stress Relief Supplements | Stress Relief Vitamins | Vimergy](https://vimergy.com/collections/stress-or-mood-relief-supplements): Feeling stressed out, frazzled or overwhelmed? Browse Vimergy's selection of stress and mood supplements to help provide stress relief. Order now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 9
 - [Shop Natural Sleep Support Supplements & Vitamins | Vimergy](https://vimergy.com/collections/sleep-support-vitamins-supplements): Vimergy's Sleep Support supplements include Melatonin and Ashwagandha and support healthy sleep and healthy cognitive function. Shop sleep supplements now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 11
 - [Muscle & Joint Support Supplements & Vitamins | Vimergy](https://vimergy.com/collections/muscles-joint-support-vitamins-supplements): Vimergy's muscle and joint support supplements promote healthy function of muscles, bones, and joints and are available in liquids and capsules. Order now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:24Z
   Total Products: 14
 - [Organic Immune Support Supplements & Vitamins | Vimergy](https://vimergy.com/collections/immune-support-supplements): Immune support when you need it most. Our immune supplements are available in liquid, powder, and capsule form. Strengthen your immune system & shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 26
 - [Cardiovascular Supplements & Vitamins for Heart Health | Vimergy](https://vimergy.com/collections/heart-health-vitamins): Support heart health with Vimergy's cardiovascular supplements. Available in liquid, capsule & powder form. Promote cardiovascular wellness and shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 11
 - [Hair, Skin & Nail Supplements & Vitamins](https://vimergy.com/collections/hair-skin-nails-health-vitamins-supplements): Our vegan Hair & Nail Health Supplement Collection combines silica + calcium to support your bone health and the health of your hair and nails. Shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 16
 - [Improve Liver Health - Shop Liver Health Supplements | Vimergy](https://vimergy.com/collections/liver-health-support-vitamins-supplements): The liver plays a central role in your body's metabolic processes. Vimergy's Liver Health Collection includes Milk Thistle 10:1. Order liver support supplements now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 3
 - [Vitamins for Colon Health | Digestive Enzymes & Supplements | Vimergy](https://vimergy.com/collections/digestive-health-supplements-vitamins): Support a healthy digestive system with Vimergy's digestive health supplements. Shop our selection of digestive support supplements here.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 5
 - [Energy & Fitness Supplements: Liquid, Capsule & Powder](https://vimergy.com/collections/natural-energy-fitness-vitamins-supplements): Improve your energy naturally with Vimergy's liquid energy and fitness supplements, made with ingredients like liquid B-12 and adapto-B complex. Shop now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 11
 - [Shop Nutrient Rich Vitamins & Nutrient Dense Supplements | Vimergy](https://vimergy.com/collections/nutrient-rich-superfoods-vitamins-supplements): Get the nutrition your body needs from a source you can trust with Vimergy's nutrient-rich vitamins and supplements. Shop our nutrient-rich collection now.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 16
 - [Bones](https://vimergy.com/collections/bone-health-vitamins-supplements): Bone Support: Vitamins & Supplements VIMERGY supplements support the healthy function of bones and are available as liquids or capsules. Products in the Bones Collection include L Lysine, Magnesium Glycinate, Organic Nettle 10:1, Organic Licorice 10:1, Organic Vegan D3, and MSM With Silica + Calcium. All products in this collection are Kosher, Vegan, and Gluten-Free.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 11
 - [Travel Sizes](https://vimergy.com/collections/travel-sizes): Shop VIMERGY Travel Size products specially designed for you to try our pure and potent supplements in a smaller size. All the benefits in a size perfect to take with you on the go.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 15
 - [Refill & Value Packs - 15% OFF for Black Friday / Cyber Monday](https://vimergy.com/collections/value-and-refill-sizes): Save up to 15% per serving on vitamins and supplements compared to Full sizes
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 10
 - [New Empowers You](https://vimergy.com/collections/vimergy-march-2024-new-products-campaign): Empower your health
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:25Z
   Total Products: 4
 - [Best Sellers](https://vimergy.com/collections/best-sellers): Discover top-rated vitamins and supplements by VIMERGY with our curated collection of best sellers.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 12
 - [_recharge-subscription-cross-](https://vimergy.com/collections/_recharge-subscription-cross-)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 2
 - [_recharge-subscription-upsell](https://vimergy.com/collections/_recharge-subscription-upsell)
-  Updated: 2026-01-16T23:33:34Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 0
 - [New](https://vimergy.com/collections/new): Discover Vimergy's newest health-boosting supplements designed to enhance your wellness journey. From powerful immune support with elderberry syrup to brain-boosting memory formulas, our collection offers natural solutions for your body's needs. Experience the benefits of high-quality, organic ingredients that support everything from better sleep to enhanced cognitive function.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 18
 - [Back to School](https://vimergy.com/collections/back-to-school)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 12
 - [Test Collection](https://vimergy.com/collections/test-collection)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 9
 - [Free Micro-C Immune Power™* & MSM](https://vimergy.com/collections/free-micro-c-immune-power™-msm)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 47
 - [Save 15% Now | Organic Vitamins & Supplements](https://vimergy.com/collections/unstoppable-event-collection): Save 15% on a curated collection of organic supplements. Save on organic liquid melatonin, zinc & our new  brain support supplement. Shop now & stock up!
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 22
 - [Save 15% on Vimergy this weekend](https://vimergy.com/collections/vimergy-weekend-): From 4/18 - 4/20, Save 15% on select products, including time-tested favorites and everyday essentials that'll help you feel unstoppable.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 19
 - [Product of the month](https://vimergy.com/collections/product-of-the-month)
-  Updated: 2026-03-04T12:06:12Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 1
 - [Full Sizes](https://vimergy.com/collections/mix-save-eligible-products)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:26Z
   Total Products: 79
 - [Mobility](https://vimergy.com/collections/mobility)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:27Z
   Total Products: 33
 - [Mental Health](https://vimergy.com/collections/mental-health)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:27Z
   Total Products: 24
 - [Vitality](https://vimergy.com/collections/vitality)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:27Z
   Total Products: 37
 - [Cyber Monday Event | UP TO 32% SAVINGS](https://vimergy.com/collections/cyber-monday-event): Plus, get a FREE Seasonal Immunity Kit when you spend $250 or more.
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:27Z
   Total Products: 40
 - [Discovery Pack Collection](https://vimergy.com/collections/discovery-pack-collection)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:27Z
   Total Products: 5
 - [Cyber Monday - 15% Select Refill & Value Packs](https://vimergy.com/collections/cyber-monday)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:27Z
   Total Products: 9
 - [Curated by Carleigh Bodrug](https://vimergy.com/collections/curated-by-carleigh-bodrug): Carleigh Bodrug, Founder of PlantYou and VIMERGY Chief Recipe Officer's favorite VIMERGY essentials...all thoughtfully selected to support your everyday nourishment.
-  Updated: 2026-03-04T12:06:14Z
-  Total Products: 4
-- [Chewable Drops](https://vimergy.com/collections/chewable-drops)
-  Updated: 2026-03-04T12:06:14Z
+  Updated: 2026-03-11T15:36:27Z
+  Total Products: 6
+- [Chewable Drops](https://vimergy.com/collections/chewable-drops): Introducing NutriDense Drops. Made from real fruit, no nonsense. Real fruit, real nourishment.
+  Updated: 2026-03-11T20:14:21Z
   Total Products: 2
+- [Curated by Danielle Brown](https://vimergy.com/collections/curated-by-danielle-brown): VIMERGY Global Ambassador and plant-based creator behind HealthyGirl Kitchen, Danielle Brown shares her hand-picked her favorite VIMERGY essentials.
+  Updated: 2026-03-11T15:36:27Z
+  Total Products: 3
 
 ## Blogs
 
@@ -1148,6 +1151,10 @@
     Updated: 2026-02-27T14:42:01Z
     Author: Christo de Klerk
     Tags: Ambassadors
+  - [The Immunity Edit](https://vimergy.com/blogs/drops/the-immunity-edit)
+    Updated: 2026-03-11T21:53:15Z
+    Author: Ashley Colaizzi
+    Tags: Immune Support, Immunity, Liquid Supplements, supplements, Vegan Supplements
 - [Christopher's Kitchen x VIMERGY](https://vimergy.com/blogs/christophers-kitchen)
   - [Pine Nut Pesto](https://vimergy.com/blogs/christophers-kitchen/pine-nut-pesto)
     Updated: 2025-09-04T14:41:48Z
