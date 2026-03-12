@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-10T21:38:06Z
 - Contact Email: mc-ambre@hotmail.fr
-- Updated At: 2026-03-03T00:00:31.050Z
+- Updated At: 2026-03-12T00:00:33.275Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0991/3142/5143/files/Gemini_Generated_Image_ypt13yypt13yypt1.png?v=1771607823
   Price: $29.99 USD
 - [The Lash Elixir | High-Density Growth Serum| ®](https://alopexhy.com/products/serum-cils): Stop Faking the Length. Start Growing It. Most lash serums only condition the surface.The Lash Elixir works deeper. Powered by our advanced deep-penetration formula, it supports the lash follicle at the root helping extend the natural growth phase for visibly longer, thicker, fuller lashes in as little as 14 days. No glue.No extensions.No heavy mascara. Just your natural lashes — elevated. Why It’s Different Root-Targeted Science Unlike traditional brush applicators that simply coat the lash hair, our precision roll-on delivers the formula directly to the lash line — where growth actually begins. By targeting the follicle itself, it helps awaken weakened or dormant lashes for real transformation, not cosmetic illusion. Zero Irritation Formulated with 98% naturally derived ingredients and completely hormone-free. No stinging.No redness.No “panda eyes.”No harsh chemicals. Just gentle, effective nourishment suitable for sensitive eyes. Clinical Strength. Daily Ease. Luxury results don’t require complicated routines. One swipe a day is all it takes to support: Extended lash growth phase Reduced breakage Stronger, more resilient lashes Wake up with a gaze that doesn’t wash off at night. The Results In user satisfaction testing: 94% noticed visibly longer lashes 89% reported a denser, fuller lash line 100% loved the lightweight, fast-absorbing finish Results may vary depending on individual lash cycles and consistency of use. Imagine This… No mascara needed for everyday confidence.No more lash appointments.No more damage from glue and extensions. Just naturally long, feminine lashes that feel like yours because they are.
-  Updated: 2026-02-19T22:24:02Z
+  Updated: 2026-03-03T20:11:16Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
