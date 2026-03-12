@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2020-11-19T18:20:56Z
 - Contact Email: info@thecedarnook.com
-- Updated At: 2026-03-04T00:00:42.980Z
+- Updated At: 2026-03-12T00:00:43.315Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-rose-hip-serum-5.jpg?v=1610398430
   Price: $46.00 CAD
 - [Goldenrod Oil Cleanser – Gentle Purifying Canadian Skincare | The Cedar Nook](https://thecedarnook.com/products/goldenrod-oil-cleanser): Oil-cleanse with wildcrafted goldenrod to lift impurities without stripping skin. A gentle, Canadian botanical cleanser for clean, glowing skin.
-  Updated: 2026-01-13T05:56:34Z
+  Updated: 2026-03-05T00:44:16Z
   Vendor: thecedarnook
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-goldenrod-2oz5.jpg?v=1698612091
   Price: $40.00 CAD
 - [Moisturizing Meadow Oil – Wildcrafter Red Clover Face Moisturizer | Canadian Skincare](https://thecedarnook.com/products/moisturizing-meadow-oil): A lightweight daily moisturizer using wildcrafted red clover & meadowfoam seed oil. Calm inflammation and lock in hydration with this Canadian skincare essential.
-  Updated: 2026-01-14T14:46:47Z
+  Updated: 2026-03-05T00:44:17Z
   Vendor: thecedarnook
   Product Type: 
   Availability: Available
@@ -46,12 +46,12 @@
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-balsam-salve-3_2048x2048-award.jpg?v=1680537088
   Price: $26.00 CAD
 - [Tree to be Planted](https://thecedarnook.com/products/tree-to-be-planted): Tree by One Tree Planted
-  Updated: 2026-03-03T09:19:26Z
+  Updated: 2026-03-07T09:17:51Z
   Vendor: One Tree Planted
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-plant-tree.jpg?v=1619206703
-  Price: $1.37 CAD
+  Price: $1.36 CAD
 - [Gift Card](https://thecedarnook.com/products/gift-card): Surprise the nature-lover in your life with this instant e-gift card for glowing skin!
   Updated: 2025-07-07T20:26:40Z
   Vendor: The Cedar Nook
@@ -71,7 +71,7 @@
     Availability: Available
     Price: $200.00 CAD
 - [Yarrow Face Serum – Gentle Canadian Skincare for Dry Sensitive Skin | The Cedar Nook](https://thecedarnook.com/products/yarrow-face-serum-for-dry-sensitive-skin): Soothe dry, sensitive skin with our essential-oil-free Yarrow Face Serum. Made in Ontario with botanicals for hydration and calm.
-  Updated: 2026-01-12T17:03:31Z
+  Updated: 2026-03-05T00:44:17Z
   Vendor: The Cedar Nook
   Product Type: 
   Availability: Available
@@ -88,13 +88,13 @@
 ## Collections
 
 - [Canadian Botanical Skincare Collection – The Cedar Nook](https://thecedarnook.com/collections/frontpage): Wildcrafted in Canada’s forests, our botanical skincare blends healing herbs like balsam fir & rose hip into nourishing face oils and balms
-  Updated: 2026-02-13T12:09:49Z
+  Updated: 2026-03-05T12:11:28Z
   Total Products: 9
 - [Best Sellers - Canadian Natural Skincare Products](https://thecedarnook.com/collections/avada-best-sellers): Indulge in nature's finest with our award-winning skincare collection. From our top- Rosehip + Calendula Face Serum to the luxurious Patchouli Wild Mint Lip Butter, each product is meticulously crafted to nurture your skin. Experience the healing power of our Balsam Fir Healing Salve and the nourishing properties of our Moisturizing Meadow Oil. Discover the gentle cleansing of our Goldenrod Oil Cleanser and the soothing relief of our Yarrow Face Serum for Dry + Sensitive Skin. Complete your skincare ritual with our invigorating Wintergreen Face Toner. Elevate your beauty routine with our carefully curated selection of botanical wonders. Plant-based, locally hand harvested, wildcrafted botanicals and products.
-  Updated: 2026-03-03T09:19:27Z
-  Total Products: 5
+  Updated: 2026-03-07T09:17:53Z
+  Total Products: 4
 - [New! Shopify performance sharing is now turned on](https://thecedarnook.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-03-03T09:19:27Z
+  Updated: 2026-03-07T09:17:53Z
   Total Products: 11
 
 ## Blogs
