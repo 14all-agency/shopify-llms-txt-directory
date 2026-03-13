@@ -6,61 +6,61 @@
 - Timezone: Asia/Kolkata
 - Created At: 2019-01-12T08:02:32Z
 - Contact Email: cs@herbtantra.com
-- Updated At: 2026-03-06T00:00:34.973Z
+- Updated At: 2026-03-13T00:00:38.139Z
 
 ## Products
 
 - [No Congest Steam Inhalation Oil (15 ml)](https://herbtantra.com/products/decongest-essential-oil): Transform Steam into Therapeutic Relief 🌿 Science-Backed Formula: Eucalyptus: Clinically proven Cineole for mucolytic and anti-inflammatory action Peppermint: Provides cooling relief and helps clear airways Cajeput: Known for its potent decongestant properties Thyme: Supports respiratory health with antimicrobial benefits Ajwain: Traditional Ayurvedic remedy for respiratory wellness Triple-Action Relief: Breaks down and expels mucus Fights respiratory irritants Opens and soothes airways Effective For: Stubborn coughs Sinus congestion Seasonal allergies General respiratory support
-  Updated: 2026-03-01T18:44:37Z
+  Updated: 2026-03-12T13:29:27Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/nocongeststeamoil_6bf4328e-5c9a-433f-adef-49622e52d015.png?v=1754551446
   Price: ₹440.00 INR
 - [Sleep Buddy Roll-On](https://herbtantra.com/products/sleep-tight-roll-on): Natural Sleep Support: Calms the mind and body and makes it easier to fall asleep. Strong Smell: Sleep buddy has a slightly pungent aroma, which fades away a few minutes after application. 100% Natural Ingredients: Formulated with ayurvedic herbs like Lavender, Mandarin, St. John's Wort, Valerian Root, Roman Chamomile, and Bergamot. AYUSH : Manufactured under AYUSH licence in a GMP  facility. Convenient: It's non-greasy and comes in an easy to use roll on bottle that fits in the pocket. For Ages 14+: Can be used by ages 14 and above.
-  Updated: 2026-03-05T17:35:23Z
+  Updated: 2026-03-12T19:42:51Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/sleepbuddy_aa21ff5b-5234-437f-a659-3df57b0e07b0.png?v=1754551547
   Price: ₹390.00 INR
 - [Herb Tantra Migraine Go Headache Roll-On](https://herbtantra.com/products/migraine-go-roll-on): Migraine Go Roll On is an Ayurvedic blend of niaouli, peppermint, eucalyptus, rosemary and other such soothing essential oils. Rosemary has pain-relieving properties that help improve blood circulation whereas menthol has shown to be effective in reducing migraine headaches in clinical trials.
-  Updated: 2026-03-05T21:17:38Z
+  Updated: 2026-03-12T17:39:56Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/migrainego_cab28d11-35f3-4f22-80cf-8697c1d12c29.png?v=1754551341
   Price: ₹390.00 INR
 - [Anxiety Relief Roll-On: Soothing Essential Oils](https://herbtantra.com/products/calm-down-roll-on): Use Herb Tantra's Calm Down Roll-On for natural relief from stress and anxiety. This soothing blend of essential oils promotes relaxation and calmness.
-  Updated: 2026-02-27T05:16:37Z
+  Updated: 2026-03-12T13:05:06Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/calmdownadult.png?v=1754551168
   Price: ₹390.00 INR
 - [No Congest Sinus Relief Roll On](https://herbtantra.com/products/decongest-roll-on): 𝗜𝗡𝗦𝗧𝗔𝗡𝗧 𝗕𝗥𝗘𝗔𝗧𝗛𝗜𝗡𝗚 𝗥𝗘𝗟𝗜𝗘𝗙: Pure Eucalyptus & Peppermint essential oils provide quick relief from blocked nose, allergies & sinus pressure. Nature's most powerful decongestant blend. 𝗔𝗬𝗨𝗥𝗩𝗘𝗗𝗜𝗖 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗘𝗗: Made in GMP  facility under AYUSH license. Safe for daily use with no side effects. Ancient wisdom in modern packaging. 𝗧𝗥𝗔𝗩𝗘𝗟-𝗙𝗥𝗜𝗘𝗡𝗗𝗟𝗬 𝗗𝗘𝗦𝗜𝗚𝗡: Compact 9ml roll-on perfect for travel, office, or bedside. TSA- size. No spills, no mess - just roll on and breathe better. 𝗩𝗘𝗥𝗦𝗔𝗧𝗜𝗟𝗘 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡: Works for nasal congestion, seasonal allergies, cold symptoms, and sinus pressure. Perfect for meditation, yoga, or peaceful sleep. 𝟭𝟬𝟬% 𝗡𝗔𝗧𝗨𝗥𝗔𝗟 𝗙𝗢𝗥𝗠𝗨𝗟𝗔: Zero harmful chemicals or synthetic fragrances. Gentle yet effective natural alternative to conventional decongestants.
-  Updated: 2026-03-05T09:24:33Z
+  Updated: 2026-03-11T18:44:08Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/nocongestadult.png?v=1754551438
   Price: ₹390.00 INR
 - [Travel Ease Motion Sickness Roll-On](https://herbtantra.com/products/travel-ease-roll-on): Relieves Nausea: Reduces feeling of vomiting and other symptoms resulted from sickness of cars, ships, airplanes, trains. 100% Natural Ingredients: Formulated with ayurvedic herbs like Ginger, Spearmint. AYUSH : Manufactured under AYUSH licence in a GMP  facility. Convenient: It's non-greasy and comes in an easy to use roll on bottle that fits in the pocket. For Ages 14+: Can be used by ages 14 and above.
-  Updated: 2026-03-05T19:33:48Z
+  Updated: 2026-03-11T19:13:47Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/traveleaseadult.png?v=1754551563
   Price: ₹390.00 INR
 - [Menstrual Cramp Relief Roll On-Natural Period Comfort](https://herbtantra.com/products/cramp-aid-roll-on): Get natural and fast-acting relief from period cramps with Herbtantra's Cramp Aid Roll-On. Soothing essential oils provide targeted comfort.
-  Updated: 2026-03-03T18:02:48Z
+  Updated: 2026-03-11T10:58:07Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/crampaid_ca616458-7b88-4647-9f09-38dcd9c48721.png?v=1754551272
   Price: ₹390.00 INR
 - [Pain Fairy® Roll On](https://herbtantra.com/products/pain-fairy-pain-relief-roll-on-for-kids-9-ml): Why Pain Fairy is Every Parent's Secret : 🌟 Comfort Without the Burn: Unlike traditional balms that can sting or burn, our unique formula provides soothing relief that feels magical on tender skin. No more tears from the  being worse than the hurt! 🌿 Nature's Healing Touch: Our enchanting blend of Ayurvedic herbs - eucalyptus, lemongrass, wintergreen, and nutmeg - works in harmony to ease discomfort and reduce inflammation naturally. 👶 Child- Relief: Specially formulated for children 2 years and older, offering a gentle yet effective solution for various types of physical discomfort. ✨ Everyday Magic: Perfect for growing pains, minor sprains, post-playtime aches, or those mysterious owies that only children seem to get.
-  Updated: 2026-03-04T18:28:57Z
+  Updated: 2026-03-07T02:42:36Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/calmdown_4abf18a0-bc1d-410e-9eda-dd8c5077e4f5.png?v=1754551140
   Price: ₹390.00 INR
 - [Travel Ease Junior Roll On for Kids for Natural Relief](https://herbtantra.com/products/travel-ease-junior-motion-sickness-roll-on-for-kids-9-ml): Help your child enjoy travel with Herb Tantra's Travel Ease Junior roll-on. A natural blend of essential oils to gently ease motion sickness and nausea in kids.
-  Updated: 2026-03-05T16:44:21Z
+  Updated: 2026-03-11T11:06:47Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
@@ -88,21 +88,21 @@
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/tummykiss.png?v=1754551571
   Price: ₹390.00 INR
 - [Kids Itch Relief Roll-On (9ml) | Itch Soothe – Herb Tantra](https://herbtantra.com/products/itch-soothe-roll-on-for-kids-9-ml): Looking for a natural way to calm your child's itchy skin? Herb Tantra's Itch Soothe Roll-On offers a gentle and effective solution in a portable 9ml format.
-  Updated: 2026-02-26T03:03:29Z
+  Updated: 2026-03-09T07:16:28Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/itchsoothe.png?v=1754551320
   Price: ₹390.00 INR
 - [Zzznooze Roll On For Better Sleep](https://herbtantra.com/products/zznooze-roll-on-for-better-sleep-9-ml): Improves Sleep Quality: It's natural ingredients help with improving overall sleep quality so you wake up fresher and energized in the morning. Calming Aroma: Zzznooze has a soothing aroma, which aids in falling asleep. 100% Natural Ingredients: Formulated with ayurvedic herbs like Lavender, Marjoram, Roman Chamomile, and Bergamot. AYUSH : Manufactured under AYUSH licence in a GMP  facility. Convenient: It's non-greasy and comes in an easy to use roll on bottle that fits in the pocket. For Ages 14+: Can be used by ages 14 and above.
-  Updated: 2026-02-25T15:02:37Z
+  Updated: 2026-03-12T13:29:27Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/zzznooze.png?v=1754551619
   Price: ₹390.00 INR
 - [Congestion Free Combo](https://herbtantra.com/products/congestion-free-monsoon-combo): A perfect combo for fighting congestion, be it due to allergies or an infection or pollution. Contains a roll on and steam oil.
-  Updated: 2026-03-05T09:24:38Z
+  Updated: 2026-03-11T18:44:08Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
@@ -137,154 +137,147 @@
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/kidsbundle.png?v=1737968976
   Price: ₹1,170.00 INR
 - [Herbal Pain Relief Roll-On: Natural Ache & Muscle Relief](https://herbtantra.com/products/herb-tantra-herbal-pain-relief-roll-on): Try Herb Tantra Herbal Pain Relief Roll-On for sore muscles, joint pain, and backaches . This Roll-On is easy to apply for targeted, mess-free relief. Buy Now
-  Updated: 2026-03-05T17:35:18Z
+  Updated: 2026-03-11T15:40:57Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/painrelief_8e0651c1-ba2e-4d80-8a2b-abd896116f43.png?v=1754551292
   Price: ₹540.00 INR
 - [Cervical Roll On](https://herbtantra.com/products/herb-tantra-muscle-recovery-roll-on-for-cervical-over-used-muscle): When muscles are in a state of overstretch, these muscle spasms and pain can be caused by many things. Whether you're an elite athlete or just a regular person doing everyday tasks, our Herb Tantra Muscle Recovery Roll On is here to help.
-  Updated: 2026-03-02T07:59:57Z
+  Updated: 2026-03-11T17:39:16Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/cervical.png?v=1754551219
   Price: ₹540.00 INR
 - [Senior Wellness Bundle: Natural Solutions | Herb Tantra](https://herbtantra.com/products/senior-citizen-favourites-bundle): Discover Herb tantra's Senior Citizen Favourites Bundle, thoughtfully curated with natural solutions to support daily comfort and well-being for seniors
-  Updated: 2026-03-05T17:39:28Z
+  Updated: 2026-03-12T19:42:46Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/seniorcitizenbundle.png?v=1737967423
   Price: ₹1,490.00 INR
 - [Herbal Tea for Throat Care: Natural Relief for Sore Throat](https://herbtantra.com/products/throat-care-tea): Soothe your sore throat with Herb Tantra's delicious Throat Care Tea. This herbal infusion provides comforting relief while tasting great. Buy Today
-  Updated: 2026-03-02T13:48:08Z
+  Updated: 2026-03-09T04:25:17Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/THROATCAREteafirstslide.png?v=1737968671
   Price: ₹299.00 INR
 - [Cold Bundle – Natural Relief for Colds & Congestion](https://herbtantra.com/products/cold-bundle): Fight cold symptoms naturally with our Cold Bundle. Includes remedies for congestion, sore throat & more. Fast-acting, effective relief. Shop now for wellness!
-  Updated: 2026-03-05T09:24:28Z
+  Updated: 2026-03-11T18:44:08Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/Respiratorysupportcombo.png?v=1737967153
   Price: ₹1,240.00 INR
 - [No Congest® Junior Roll On](https://herbtantra.com/products/no-congest-junior-roll-on): Natural Relief for Little Noses: 🍃 Gentle Breathing Support: Our unique blend of Ayurvedic herbs works naturally to ease congestion, helping your child breathe more comfortably without harsh vapors. 👶 Baby-Safe Formula: Thoughtfully crafted for the littlest breathers, providing effective relief that respects your child's delicate airways and sensitive skin. What Makes It Special: Safe for infants 6 months and older No harsh menthol or burning sensation Easy roll-on application for fuss-free use Subtle, calming aroma that won't overwhelm Nature's Breathing Helpers: Ajwain: Traditionally used to clear airways Eucalyptus: Supports easy breathing Chamomile: Soothes and calms Garlic: Natural immunity support Frankincense: Promotes relaxation
-  Updated: 2026-03-04T19:03:48Z
+  Updated: 2026-03-12T13:24:36Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/nocongest_58813b90-80ce-4c36-b2f5-c5265d883c98.png?v=1754551454
   Price: ₹390.00 INR
 - [Migraine Go Cap: Natural Headache Relief | Herb Tantra](https://herbtantra.com/products/migraine-go-cap): Find natural relief from migraines and headaches with Herb Tantra's Migraine Go Cap. This soothing gel cap provide effective pain relief. Buy Now
-  Updated: 2026-03-05T17:34:14Z
+  Updated: 2026-03-12T19:27:53Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/slidefirstmigrainegocap.png?v=1747801520
   Price: ₹740.00 INR
 - [Migraine Relief Kit](https://herbtantra.com/products/migraine-go-headache-relief-kit): Discover the ultimate solution for headache and migraine relief with our Ultimate Headache Relief Kit—a powerful combo of two natural and effective remedies designed to work in tandem for maximum comfort. Roll-On Relief: Ease your tension with our 100% natural, AYUSH- roll-on, infused with soothing Ayurvedic herbs like niaouli, peppermint, eucalyptus, and rosemary. Designed for mild to moderate headaches, it’s the perfect on-the-go solution to relax forehead muscles and calm your mind. Conveniently sized and non-greasy, it provides fast relief at the onset of headaches without any internal medication, making it safe for ages 14 and above. Migraine Relief Cap: Pair it with the ultimate migraine relief cap for a complete relaxation experience. Made with expert-grade cooling gel and advanced materials, this wearable cap conforms to your face, eyes, and head, delivering compression and cooling to relieve stress, tension, and discomfort. Perfect for all types of headaches, this cap ensures a safe and effective way to reduce discomfort and promote overall relaxation. Together, these products offer a comprehensive, all-natural approach to managing headaches, providing both instant relief and soothing comfort when you need it most.
-  Updated: 2026-03-05T17:34:17Z
+  Updated: 2026-03-12T17:39:56Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/migraine_go_cap_roll_on_X_dc620b1d-f09f-40c6-907c-1a94dd485fe7.png?v=1747801485
   Price: ₹1,240.00 INR
 - [Herb Tantra Migraine Go Headache Roll-On](https://herbtantra.com/products/migraine-go-headache-roll-on-pack-of-2): Migraine Go Roll On is an Ayurvedic blend of niaouli, peppermint, eucalyptus, rosemary and other such soothing essential oils. Rosemary has pain-relieving properties that help improve blood circulation whereas menthol has shown to be effective in reducing migraine headaches in clinical trials.
-  Updated: 2026-03-05T19:14:14Z
+  Updated: 2026-03-12T17:40:07Z
   Vendor: Herb Tantra
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/packof2migrainego.png?v=1737966381
   Price: ₹610.00 INR
 - [Migraine & Headache Relief Combo: Natural Relief](https://herbtantra.com/products/migraine-go-headache-relief-combo): Get comprehensive natural relief from migraines and headaches with the Migraine Go Relief Combo from Herb Tantra. We offer herbal solutions for pain management.
-  Updated: 2026-03-05T17:34:15Z
+  Updated: 2026-03-12T17:39:56Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/migraine_go_cap_roll_on_X_dc620b1d-f09f-40c6-907c-1a94dd485fe7.png?v=1747801485
   Price: ₹1,240.00 INR
 - [Calm Down Herbal Tea](https://herbtantra.com/products/calm-down-herbal-tea): Why Choose Calm Down? 🦋 Nature's Stress Buster: Harness the power of time-honored ingredients like Butterfly Pea, Lemongrass, and Chamomile, working in perfect harmony to gently guide you into a state of calm. Say goodbye to tension and hello to tranquility. 🍃 100% Pure Serenity: Free from toxins and sugar, Calm Down offers a guilt-free path to relaxation that aligns with your health-conscious lifestyle. It's not just a tea; it's your daily dose of natural stress relief. 🧘 Mindfulness in a Mug: Transform your tea time into a mindfulness ritual. Let the soothing aroma and gentle flavors of Calm Down anchor you to the present moment, turning stress management into a cherished act of self-care. 💼 Workplace Zen: Whether you're facing a challenging project or a hectic schedule, our portable tea bags ensure that a moment of calm is always within reach. Navigate your workday with clarity and composure. 🌙 Nighttime Nurture: With its caffeine-free blend, Calm Down is the perfect evening companion to help you unwind and prepare for restful sleep, without disrupting your natural rhythms. 🧠 Mental Clarity Boost: Experience the unique balance of relaxation and alertness. The L-theanine in green tea works synergistically with calming herbs to promote a state of focused tranquility.
-  Updated: 2026-02-23T02:15:27Z
+  Updated: 2026-03-12T13:29:26Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/CALMDOWNteafirstslide.png?v=1737962404
   Price: ₹299.00 INR
 - [Cramp Aid Herbal Tea](https://herbtantra.com/products/cramp-aid-herbal-tea): Why Choose Cramp Aid? 🌺 Nature's Embrace: Harness the power of time-honored ingredients like Nirgundi, Raspberry Leaf, and Lavender, working in harmony to ease discomfort and promote relaxation. Say goodbye to harsh solutions and hello to nature's gentle touch. 🍃 100% Pure Relief: Free from caffeine, sugar, and toxins, Cramp Aid offers a guilt-free path to comfort that aligns with your health-conscious lifestyle. It's not just a tea; it's a commitment to your body's natural rhythms. 🌙 Monthly Ritual: Transform your period experience with a soothing cup of Cramp Aid. Let the aromatic blend of Chamomile and Spearmint turn discomfort into a moment of self-care and rejuvenation. 🌿 Holistic Hormone Support: With ingredients like Hibiscus known for their potential to balance hormones, Cramp Aid goes beyond symptom relief to support your overall menstrual health. 🧘‍♀️ Portable Peace of Mind: Whether you're at home, work, or on the go, our convenient tea bags ensure that comfort is always within reach. Face your day with confidence, knowing Cramp Aid has your back.
-  Updated: 2026-03-03T18:09:16Z
+  Updated: 2026-03-09T08:57:17Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/CRAMPAIDteafirstslide.png?v=1737963157
   Price: ₹299.00 INR
 - [Digest Well Herbal Tea](https://herbtantra.com/products/digest-well-herbal-tea): Why Choose Digest Well? 🌿 Nature's Digestive Ally: Harness the power of time-honored ingredients like Paan leaves, Triphala, and Mint, working in perfect synergy to soothe your digestive system naturally. Say goodbye to discomfort and hello to a happier gut! 🍃 100% Natural, 0% Worry: Free from caffeine, sugar, and toxins, Digest Well offers a guilt-free indulgence that aligns with your health-conscious lifestyle. It's not just a tea; it's a commitment to your body's natural balance. 🌎 Your Travel Companion: Whether you're navigating exotic cuisines or battling jet lag, our portable tea bags ensure that digestive comfort is always within reach. Travel with confidence, knowing Digest Well has got your gut covered. 🕒 Post-Meal Ritual: Transform your after-dinner routine with a cup of Digest Well. Let the aromatic blend of Cardamom and Lemongrass turn digestion from a chore into a cherished moment of self-care. 🔬 Science Meets Tradition: Crafted in state-of-the-art facilities, Digest Well combines age-old Ayurvedic wisdom with modern nutritional science, offering you the best of both worlds in every cup.
-  Updated: 2026-03-02T13:54:17Z
+  Updated: 2026-03-09T04:25:17Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/DIGESTWELLteafirstslide.png?v=1737965373
   Price: ₹299.00 INR
-- [Sleep Buddy Herbal Tea](https://herbtantra.com/products/sleep-buddy-herbal-tea): Why Choose Sleep Buddy? 🌙 Nature's Lullaby: Harness the power of time-honored ingredients like Tagar (Valerian root), Chamomile, and Ashwagandha, working in perfect harmony to gently guide you into a peaceful slumber. Say goodbye to restless nights and hello to mornings full of vitality. 🍃 100% Pure Serenity: Free from caffeine, sugar, and toxins, Sleep Buddy offers a guilt-free path to dreamland that aligns with your health-conscious lifestyle. It's not just a tea; it's your passport to natural, restorative sleep. 🕰️ Nightly Ritual: Transform your bedtime routine with a soothing cup of Sleep Buddy. Let the aromatic blend of Rose and Spearmint turn sleep preparation from a chore into a cherished moment of self-care. ✈️ Travel Companion: Whether you're battling jet lag or sleeping in unfamiliar surroundings, our portable tea bags ensure that restful sleep is always within reach. Travel with confidence, knowing Sleep Buddy has your nights covered. 🧘 Stress-Free Evenings: With adaptogenic herbs like Ashwagandha, Sleep Buddy goes beyond sleep support to help you unwind and leave the day's stresses behind.
-  Updated: 2026-02-23T02:15:26Z
-  Vendor: Herb Tantra
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/SLEEPBUDDYteafirstslide.png?v=1737967536
-  Price: ₹299.00 INR
 - [Period Comfort Combo](https://herbtantra.com/products/period-comfort-combo): Double-action natural relief that works from inside and out: Our travel-friendly roll-on provides instant topical comfort, while the calming herbal tea nurtures your body from within. Together, they create a complete period care ritual for maximum relief. Scientifically backed herbal formula featuring premium ingredients like Clary Sage, Raspberry Leaf, and Nirgundi. Each product is crafted in GMP- facilities under AYUSH license, ensuring the highest quality and effectiveness. Perfect for modern lifestyles: Carry the convenient roll-on in your bag for quick relief anywhere, while the caffeine-free tea offers moments of soothing comfort throughout your day. A complete solution that fits seamlessly into your routine. Holistic hormone support through carefully selected herbs that work synergistically across both products. Our unique formula helps balance hormones, reduce PMS symptoms, and provide lasting comfort during your cycle, naturally.
-  Updated: 2026-03-03T18:09:18Z
+  Updated: 2026-03-11T10:58:07Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/crampaidcombo.png?v=1737966938
   Price: ₹640.00 INR
 - [Stress Management Combo](https://herbtantra.com/products/stress-management-combo): Dual-action stress relief combining aromatic roll-on therapy with calming herbal tea. Apply the roll-on for instant comfort while sipping the soothing blend for deep relaxation. Natural stress management for modern lifestyles. Perfect stress-relief duo featuring premium essential oils (Geranium, Lavender, Frankincense) and calming herbs (Chamomile, Blue Pea, Lemongrass). 100% natural, toxin-free formulation. Convenient stress management kit for work & travel. Roll-on provides quick relief while portable tea bags offer lasting calm. Your complete toolkit for emotional balance & mental clarity. Scientifically formulated with proven ingredients - from anxiety-reducing Geranium to stress-busting Chamomile. Made in GMP  facility under AYUSH license standards.
-  Updated: 2026-02-27T05:16:37Z
+  Updated: 2026-03-12T13:05:06Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/calmdowncombo.png?v=1737968426
   Price: ₹640.00 INR
 - [Migraine Go X Extra Strength Roll On](https://herbtantra.com/products/migraine-go-x-extra-strength-roll-on): When severe migraines demand stronger relief, reach for Migraine Go X. This intensive formula combines powerful natural ingredients in higher concentrations for quick, effective relief from intense headaches. Key Benefits: Extra-strength natural relief Deep-penetrating action Fast-acting formula Long-lasting comfort Non-drowsy relief Perfect For: Severe headaches Intense migraines Temple pressure Persistent tension Sinus-related headaches How It Works: Our enhanced formula creates a triple-action effect: Instant Cooling: Provides immediate comfort upon application Deep Penetration: Targets pain points effectively Sustained Relief: Maintains comfort for longer periods What Makes It Different: While our original Migraine Go provides excellent relief for regular headaches, Migraine Go X is specifically formulated with higher potency for those moments when you need extra strength support. The intensive blend maintains our commitment to natural ingredients while delivering more powerful relief.
-  Updated: 2026-03-05T17:35:28Z
+  Updated: 2026-03-11T15:40:56Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/migrainegoX.png?v=1754551381
   Price: ₹390.00 INR
 - [Migraine Relief Starter Combo](https://herbtantra.com/products/migraine-relief-starter-combo): Find Your Perfect Match for Headache Relief Everyone experiences headaches differently - that's why we've created this discovery combo. Try both our classic Migraine Go and intensive Migraine Go X to find your ideal solution. What's Inside: Migraine Go Roll-On (9 ml): Our classic formula for regular headaches Migraine Go X Roll-On (9 ml): Extra-strength formula for severe episodes Perfect For: First-time users Those with varying headache intensities People seeking personalized relief solutions Understanding your headache patterns Why This Combo? Different days call for different solutions. Migraine Go provides gentle yet effective relief for regular headaches, while Migraine Go X offers intensive support for severe episodes. By trying both, you can: Understand your headache patterns Identify which formula works best for you Have both options ready when needed Save compared to buying separately
-  Updated: 2026-03-05T21:17:38Z
+  Updated: 2026-03-12T17:39:54Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/STARTERCOMBO-2.png?v=1738217328
   Price: ₹540.00 INR
 - [Apple Cider Vinegar Effervescent Tabs (15 Tablets)](https://herbtantra.com/products/apple-cider-vinegar-effervescent-tabs-craving-control-weight-support-15-tablets): Crush Cravings, Guilt-Free: Formulated with Apple Cider Vinegar with the mother, Chromium, and Pomegranate to help curb cravings naturally while promoting weight management—without any added sugar or artificial sweeteners. Zero Sugar. All Power: No maltodextrin, no sucralose, no fluff—just clean, effective ingredients to support digestion, gut health, and metabolism. Safe for daily use, even on a strict diet plan. Fizz, Sip, Feel Lighter: Just drop one tablet in 200ml water and enjoy your ACV boost with a refreshing apple flavor. No vinegar burn, only good vibes—perfect for your morning or pre-meal routine. Gut Loving Goodness: Ginger extract supports digestion, while ACV and Chromium help control blood sugar spikes and fat storage, making it ideal for those looking to improve overall metabolic health. On-the-Go Wellness: Compact tube, mess-free format, and no refrigeration needed. Whether at home, office, or gym, support your wellness goals effortlessly—just fizz and drink!Herb Tantra Apple Cider Vinegar Effervescent Tablets are a powerful blend of ACV with the mother, Chromium Picolinate, Pomegranate, and Ginger—ideal for weight loss, fat burner support, appetite control, blood sugar balance, digestion, detox, metabolism, gut health, and healthy lifestyle goals. Sugar-free, vegan-friendly, and travel-ready, this is your new favorite wellness ritual.
-  Updated: 2026-02-23T18:18:57Z
+  Updated: 2026-03-06T08:14:57Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/slide1offwhite.png?v=1744695723
   Price: ₹390.00 INR
 - [Apple Cider Vinegar Effervescent Tabs (30 Tablets)](https://herbtantra.com/products/apple-cider-vinegar-effervescent-tabs-craving-control-weight-support-30-tablets): Crush Cravings, Guilt-Free: Formulated with Apple Cider Vinegar with the mother, Chromium, and Pomegranate to help curb cravings naturally while promoting weight management—without any added sugar or artificial sweeteners. Zero Sugar. All Power: No maltodextrin, no sucralose, no fluff—just clean, effective ingredients to support digestion, gut health, and metabolism. Safe for daily use, even on a strict diet plan. Fizz, Sip, Feel Lighter: Just drop one tablet in 200ml water and enjoy your ACV boost with a refreshing apple flavor. No vinegar burn, only good vibes—perfect for your morning or pre-meal routine. Gut Loving Goodness: Ginger extract supports digestion, while ACV and Chromium help control blood sugar spikes and fat storage, making it ideal for those looking to improve overall metabolic health. On-the-Go Wellness: Compact tube, mess-free format, and no refrigeration needed. Whether at home, office, or gym, support your wellness goals effortlessly—just fizz and drink!Herb Tantra Apple Cider Vinegar Effervescent Tablets are a powerful blend of ACV with the mother, Chromium Picolinate, Pomegranate, and Ginger—ideal for weight loss, fat burner support, appetite control, blood sugar balance, digestion, detox, metabolism, gut health, and healthy lifestyle goals. Sugar-free, vegan-friendly, and travel-ready, this is your new favorite wellness ritual.
-  Updated: 2026-02-23T18:18:56Z
+  Updated: 2026-03-06T08:14:57Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/2bottleCOMBOoffwhite.png?v=1744695909
   Price: ₹540.00 INR
 - [Apple Cider Vinegar Effervescent Tabs (60 Tablets)](https://herbtantra.com/products/apple-cider-vinegar-effervescent-tabs-craving-control-weight-support-60-tablets): Crush Cravings, Guilt-Free: Formulated with Apple Cider Vinegar with the mother, Chromium, and Pomegranate to help curb cravings naturally while promoting weight management—without any added sugar or artificial sweeteners. Zero Sugar. All Power: No maltodextrin, no sucralose, no fluff—just clean, effective ingredients to support digestion, gut health, and metabolism. Safe for daily use, even on a strict diet plan. Fizz, Sip, Feel Lighter: Just drop one tablet in 200ml water and enjoy your ACV boost with a refreshing apple flavor. No vinegar burn, only good vibes—perfect for your morning or pre-meal routine. Gut Loving Goodness: Ginger extract supports digestion, while ACV and Chromium help control blood sugar spikes and fat storage, making it ideal for those looking to improve overall metabolic health. On-the-Go Wellness: Compact tube, mess-free format, and no refrigeration needed. Whether at home, office, or gym, support your wellness goals effortlessly—just fizz and drink!Herb Tantra Apple Cider Vinegar Effervescent Tablets are a powerful blend of ACV with the mother, Chromium Picolinate, Pomegranate, and Ginger—ideal for weight loss, fat burner support, appetite control, blood sugar balance, digestion, detox, metabolism, gut health, and healthy lifestyle goals. Sugar-free, vegan-friendly, and travel-ready, this is your new favorite wellness ritual.
-  Updated: 2026-02-21T03:24:08Z
+  Updated: 2026-03-06T08:14:58Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/4BOTTLEACV.png?v=1744695909
   Price: ₹1,240.00 INR
 - [PCOS PCOD Care Bundle](https://herbtantra.com/products/pcos-pcod-care-bundle): ✅ 3-in-1 PCOS Support: This all-natural combo includes Cramp Aid Roll-On, Cramp Aid Herbal Tea & ACV Fizz Tablets—designed to support hormonal balance, ease period cramps, and boost metabolism for women managing PCOS/PCOD. 💆♀️ Relieves Cramps & Uplifts Mood: The Cramp Aid Roll-On contains Lavender, Calendula, Clary Sage & Nirgundi to soothe abdominal pain, regulate hormones, and ease mood swings. 🍵 Herbal Tea for Hormonal Harmony: Infused with Raspberry Leaf, Nirgundi, Chamomile & Hibiscus, our caffeine-free tea helps ease discomfort, balance hormones, and support your monthly cycle naturally. 🍎 ACV Fizz for Metabolic Wellness: Apple Cider Vinegar with the mother, Pomegranate, Chromium & Ginger help curb cravings, regulate blood sugar, and support gut health—all key for managing PCOS weight gain.
-  Updated: 2026-03-03T18:09:17Z
+  Updated: 2026-03-11T10:58:08Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
@@ -319,14 +312,14 @@
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/firstslidewebsiterosemary.png?v=1760348166
   Price: ₹320.00 INR
 - [Lemongrass Essential Oil (15ml)](https://herbtantra.com/products/lemongrass-essential-oil-15ml): 100% pure and natural lemongrass essential oil, steam-distilled from fresh leaves. Sourced at the origin for high-quality potency. Bright, citrusy aroma uplifts mood and energizes aromatherapy blends. Useful in muscle pain, skin, hair and headache. Can be used as a natural deodorizer and insect repellent in DIY sprays and personal-care blends. Ideal for candle and soap making, diffusers, and household cleaning formulations. Essential Oil comes in a an exquisite box that makes it ideal as a gift for many occasions like Birthday, Anniversary, Holiday, Christmas, Father's Day, Mother's Day, Valentine's Day and more. Amber Glass Bottle with Free Dropper: The essential oil come in high-quality glass bottles and are infused with a UV coating to protect the essential oil from sunlight and degradation. It also comes with a dropper for easy use.
-  Updated: 2026-03-05T19:28:32Z
+  Updated: 2026-03-11T19:43:50Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/firstslidewebsitelemongrass.png?v=1760348553
   Price: ₹199.00 INR
 - [Tea Tree Essential Oil (15ml)](https://herbtantra.com/products/tea-tree-essential-oil-15ml): 100% pure and undiluted tea tree essential oil, steam-distilled from Melaleuca alternifolia leaves. Sourced at the origin for maximum quality. Supports acne-prone skin, blemish control, and scalp health when diluted. Can be used as a insect repellent, natural deodorant. Reduces fungus, soothes inflammation, reduces dandruff, prevents mold on fruits, vegetables. Reduces toenail fungus, lice and bad breath. Effective in natural cleaning sprays, diffusers, and deodorizing formulations. Essential Oil comes in a an exquisite box that makes it ideal as a gift for many occasions like Birthday, Anniversary, Holiday, Christmas, Father's Day, Mother's Day, Valentine's Day and more. Amber Glass Bottle with Free Dropper: The essential oil come in high-quality glass bottles and are infused with a UV coating to protect the essential oil from sunlight and degradation. It also comes with a dropper for easy use.
-  Updated: 2026-02-26T18:04:26Z
+  Updated: 2026-03-11T03:03:00Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
@@ -340,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0181/9512/0228/files/firstslidewebsitepeppermint.png?v=1760349011
   Price: ₹260.00 INR
 - [Kids Travel Essentials](https://herbtantra.com/products/kids-travel-essentials): Traveling with kids can be unpredictable—blocked noses, stuffy breathing, or uneasy tummies can turn even short journeys into long ones. Kids Travel Essentials is a thoughtfully curated combo of two gentle, plant-based roll-ons designed to support your child’s comfort on the go. What’s Inside No Congest Junior Roll-OnFormulated with mild, kid-safe essential oils traditionally used in Ayurveda, this roll-on helps create a soothing aromatherapy experience during times of nasal discomfort. Ideal for use during seasonal changes, travel, or bedtime routines when breathing feels uneasy. Travel Ease Junior Roll-OnDesigned to support children during car, bus, or air travel, this roll-on uses calming botanical aromas to help little tummies feel settled. A simple, mess-free option for parents looking for a natural travel companion for kids. Why Parents Love It Specially crafted for kids Gentle aromatherapy-based formulations Made with plant-derived ingredients Easy roll-on format—no spills, no fuss Convenient to carry while traveling or on day trips Free from artificial preservatives, additives, and harsh chemicals Perfect For Road trips & flights Seasonal travel School outings & holidays Parents who prefer plant-based wellness solutions for kids Kids Travel Essentials is a simple way to pack comfort, calm, and care—naturally—for every little journey.
-  Updated: 2026-03-04T18:59:10Z
+  Updated: 2026-03-12T13:24:36Z
   Vendor: Herb Tantra
   Product Type: 
   Availability: Available
@@ -350,64 +343,64 @@
 ## Collections
 
 - [Roll-Ons](https://herbtantra.com/collections/roll-ons)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 16
 - [Featured Products](https://herbtantra.com/collections/featured-products): Discover HerbTantra's top-rated featured products! From herbal teas to skincare essentials, shop the best in natural wellness today!
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 7
 - [Natural Sleep Aids & Roll-Ons | Relax & Sleep Better](https://herbtantra.com/collections/sleep): Struggling with sleep? Discover Herb Tantra’s 100% natural sleep roll-ons & sprays infused with calming herbs. Fall asleep faster & wake up refreshed. Try now!
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 6
 - [Stress](https://herbtantra.com/collections/mood): Mood Collection: Natural Stress Relief Products for a Calm and Peaceful Mind Stress is an inevitable part of modern life, but finding effective solutions can transform your well-being. At Herb Tantra, our Mood Collection offers a range of natural stress relief products designed to calm your mind, reduce tension, and elevate your mood. Whether you're at home, on the go, or looking for a gift to show someone you care, we’ve got you covered with premium, natural products that promote relaxation and tranquility. Products Details and Prices Our Mood Collection includes a variety of natural stress relief products that cater to different preferences and needs. Here’s what you’ll find: Product Name Description Price Link Calm Down Roll-On A natural roll-on that helps reduce stress and promote relaxation. ₹390 Calm Down Roll-On Travel Ease Roll-On Travel Ease Roll On is used to get relief from Motion Sickness and Nausea. ₹390 Travel Ease Roll-On Calm Down Junior Calming Roll-On (Kids) Specially designed for kids, providing gentle stress relief and emotional balance. ₹390 Calm Down Junior Roll-On Wellness Gift Pack for Him A curated wellness pack with a variety of stress-relief products designed for men. ₹990 Wellness Gift Pack for Him Calm Down Aromatherapy Candle Soy Wax Soy wax candle with calming aromas to create a peaceful environment. ₹590 Calm Down Candle Passion Aromatherapy Candle Soy Wax A soothing aromatherapy candle to help you unwind and relieve stress. ₹590 Passion Candle Calm Down Herbal Tea A calming tea blend to help you relax and de-stress naturally. ₹299 Calm Down Tea Stress Management Combo A combination of products designed to provide effective stress relief and relaxation. ₹580 Stress Management Combo Note: Prices subject to current offers and seasonal discounts. Check product pages for latest pricing and availability. Benefits of Natural Stress Relief Products Natural stress relief products provide a healthier and more sustainable approach to managing stress. By incorporating essential oils, soothing scents, and calming herbs, these products are designed to reduce the negative effects of stress without resorting to synthetic chemicals. The benefits include: Calms the Mind and Body: Natural ingredients help to relax both the mind and body, allowing you to unwind after a long day. Promotes Better Sleep: Many of our products can help you relax before bedtime, aiding in a more restful night’s sleep. Improves Mood: Whether it's through a calming scent or a soothing roll-on, our products help improve your mood and mental clarity. Portable and Convenient: Many of our products are compact and easy to carry, making them perfect for on-the-go use, especially when traveling or at work. How to Choose the Best Stress Relief Product for You When choosing the best stress relief products, it’s important to consider your preferences and needs. Here are a few things to keep in mind: Roll-On vs. Candles: If you’re looking for something portable and easy to use, opt for a roll-on. If you’re looking to set a relaxing ambiance in your space, aromatherapy candles may be a better choice. For Kids: Choose gentle, kid-friendly products like the Calm Down Junior Roll-On to provide safe and effective stress relief for your little ones. For Gifting: If you're looking for a thoughtful gift, our Wellness Gift Pack for Him combines multiple stress relief products into a convenient package. How to Apply Stress Relief Products Roll-Ons: Apply to pulse points such as your wrists, behind the ears, and the Inhale from the bottle for maximum effect. Massage gently to promote relaxation. Aromatherapy Candles: Light the candle and let the soothing aroma fill your space. Enjoy the calming atmosphere for relaxation or meditation. Herbal Teas: Brew a cup of Calm Down Herbal Tea and sip it slowly to unwind. Consider enjoying it during a quiet moment of reflection to enhance its calming effects. Gift Packs: Perfect for sharing the love, our Wellness Gift Pack includes everything needed to relieve stress, making it an easy and thoughtful gift choice. Why Herb Tantra is the Best Brand for Stress Relief Products Herb Tantra stands out for its commitment to offering natural stress relief products that are safe, effective, and made with the finest ingredients. Here's why our products are the best: Premium Quality: We use only the highest quality natural ingredients to ensure that every product delivers the best results. Eco-Friendly: Our products are made with care for both you and the environment, using sustainable materials wherever possible. Customer Satisfaction: We prioritize your well-being and satisfaction, ensuring that every purchase contributes to your health and happiness. Holistic Wellness: Our products are crafted to enhance your overall wellness, addressing both the physical and mental aspects of stress relief. Shop now and experience the natural power of stress relief with Herb Tantra!
-  Updated: 2026-02-23T12:05:25Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 8
 - [Boost Your Immunity Naturally | Herb Tantra Ayurvedic Wellness](https://herbtantra.com/collections/immunity): Strengthen your immune system with Herb Tantra’s powerful Ayurvedic immunity boosters. 100% natural, chemical-free & doctor-formulated. Shop now for holistic health!
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 7
 - [Natural Pain Relief Roll-Ons | Ayurvedic Muscle & Headache Relief](https://herbtantra.com/collections/pain-relief): Say goodbye to pain with Herb Tantra's Ayurvedic roll-ons for headache, muscle, joint & menstrual relief. 100% natural, fast-acting & travel-friendly. Shop now!
-  Updated: 2026-02-22T12:06:52Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 3
 - [Natural Wellness Roll-Ons for Kids | Herbal Relief for Common Sickness](https://herbtantra.com/collections/kids): Support your child’s health with Herb Tantra’s Ayurvedic roll-ons for colds, tummy aches & more. Gentle, safe & travel-friendly. For kids 2+. Shop now!
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-07T12:07:01Z
   Total Products: 7
 - [All Products](https://herbtantra.com/collections/latest-sellers)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 27
 - [Period Cramps](https://herbtantra.com/collections/period-cramps)
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 1
 - [Gift Combos](https://herbtantra.com/collections/gift-combos): Surprise loved ones with HerbTantra's thoughtful gift combos! Perfect for every occasion, these curated sets promote health and happiness naturally. Shop gifts now!
   Updated: 2026-02-23T12:05:25Z
   Total Products: 4
 - [Front Page](https://herbtantra.com/collections/font-page)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 6
 - [Best Seller (internal use)](https://herbtantra.com/collections/best-seller-internal-use)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 64
 - [GMP](https://herbtantra.com/collections/gmp)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 21
 - [Cramp Aid](https://herbtantra.com/collections/cramp-aid): Say goodbye to cramps with HerbTantra's natural solutions! Effective relief for menstrual discomfort and muscle pain using herbal remedies. Shop now!
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 4
 - [Cold Relief](https://herbtantra.com/collections/cold-relief): Beat the cold naturally! HerbTantra offers herbal remedies to ease congestion, boost immunity, and keep you comfortable during seasonal changes. Shop cold relief products today!
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 4
 - [Migraine Cap](https://herbtantra.com/collections/migraine-cap)
-  Updated: 2026-02-24T12:06:51Z
+  Updated: 2026-03-11T11:06:11Z
   Total Products: 2
 - [Migraine Go Roll On](https://herbtantra.com/collections/migraine-go-roll-on)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 4
 - [Herbal Teas](https://herbtantra.com/collections/herbal-teas): Sip your way to better health with HerbTantra's herbal teas! From stress relief to immunity boosts, find your perfect blend today. Shop now!
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 5
 - [Teas](https://herbtantra.com/collections/teas): Indulge in the goodness of herbal teas by HerbTantra! From stress relief to immunity boosts, find your perfect brew today.
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 5
 - [Calm Down](https://herbtantra.com/collections/calm-down)
-  Updated: 2026-02-23T12:05:25Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 3
 - [Candles](https://herbtantra.com/collections/candles)
   Updated: 2025-12-03T10:51:44Z
@@ -422,46 +415,46 @@
   Updated: 2026-02-21T12:06:33Z
   Total Products: 3
 - [Migraine & Headaches](https://herbtantra.com/collections/migraine-headaches): Headaches have a way of creeping into everything. They dull your focus, interrupt your flow, and turn simple moments, like having a conversation or getting through the day, into a struggle. Migraines can feel even heavier. The kind of pain that’s hard to describe and harder to push through, especially when it shows up again and again without warning. Many people rely on over-the-counter pills for quick relief, but the side effects can add up. Nobody wants to  with constant drowsiness, dependency, and discomfort that lingers long after the pain fades. That’s where natural alternatives step in with a different kind of support. Herb Tantra offers support that doesn’t rely on harsh medication. The products in our migraine and headache collection are made with calming, plant-based ingredients and gentle aromatherapy blends. They’re simple to use, easy to carry, and made for people who want relief that feels safe and natural. What Makes Herb Tantra a Trusted Migraine & Headache Relief Product Brand? Relief should feel simple, clean, and trustworthy. And that’s what Herb Tantra aims to offer. Each migraine and headache relief product is made using carefully chosen ingredients like eucalyptus, peppermint, and wintergreen, known for their soothing and cooling properties. The roll-ons are easy to apply and carry, so you’re never caught off guard. Just glide them over your temples, forehead, or the back of your neck when you feel the pressure building. There are no synthetic fragrances, no pills to swallow, and nothing heavy on the system. Just plant-powered support that works gently and quickly. You don’t need to reach for a  every time discomfort hits. An instant headache relief product like this fits more naturally into daily routines and helps you feel better faster! Product Details and Prices When your head starts to throb, having the right migraine relief product within reach feels like a necessity. The Herb Tantra collection offers a range of natural options, each crafted to bring gentle yet effective support without disrupting your day. Product Description Price Migraine Go Headache Relief Gel Cap A wearable gel-based cap that delivers cooling or warming comfort and eases any kind of headache tension. Crafted from advanced material and expert-grade cooling gel, it’s a natural and safe headache relief device. ₹740 Migraine Go Headache Roll-On A soothing blend of peppermint, eucalyptus, rosemary, lavender oils, and other herbs to help ease mild to moderate headaches. This roll-on relaxes forehead tension with a cooling, minty feel. It’s 100% natural, and easy to carry. Safe for ages 14 and up. ₹390 Migraine Go X Extra Strength Roll-On Built for severe migraines and deep tension, this extra-strength roll-on blends camphor, menthol, and rosemary for fast, targeted relief. It penetrates deeply and offers long-lasting comfort without side effects. Ideal for intense migraines, sinus pressure, and persistent headaches. ₹390 Migraine Relief Starter Combo A perfect duo for those exploring natural headache relief. This combo includes Migraine Go for regular headaches and Migraine Go X for more intense episodes, helping you understand what works best for your needs. ₹540 Migraine Go Headache Relief Kit A complete natural care set for headache and migraine support. This kit pairs the soothing Migraine Go Roll-On with a gel cap to ease tension, reduce pressure, and calm discomfort inside out. Safe, effective, and ready whenever pain strikes. ₹990 Migraine Go Headache Roll-On (Pack of 2) Natural relief that fits in your pocket in a twin pack. This gentle roll-on helps ease mild to moderate headaches with soothing essential oils. Keep one at home and one on the go for quick, drowsiness-free comfort anytime. ₹610 When Should You Use a Migraine & Headache Relief Product? Headaches don’t always wait for the right time. Relief becomes most effective when it’s within reach the moment discomfort begins. Apply your migraine or headache roll-on at the first sign of tension. It could be during a long workday, while traveling, before bed, or around hormonal shifts like PMS. If screen fatigue or stress is building up, a quick application can ease the pressure before it escalates. Keep an instant headache relief product close, so you’re always one step ahead of the pain. Who Are These Products Designed For? These natural migraine relief products are made for real, everyday situations. They support professionals glued to their screens, students preparing for exams, women managing hormonal changes, and seniors sensitive to seasonal or weather shifts, or just anybody experiencing a bad headache or migraine. They're also a thoughtful travel companion for people prone to headaches on the go. No matter your age, routine, or lifestyle, having a dependable headache relief option by your side offers comfort you can count on without disrupting your day. Key Takeaways Herb Tantra’s migraine and headache relief products are made with natural, plant-based ingredients like eucalyptus, peppermint, and rosemary. The collection includes roll-ons, gel caps, and starter kits, designed for both mild and severe headache episodes. Products are AYUSH , easy to carry, non-greasy, and suitable for users aged 14 and above. You can use them at the first sign of discomfort, during stressful hours, PMS, travel, or screen fatigue, for quick, on-the-go support. Ideal for professionals, students, women with hormonal migraines, seniors, and travelers, basically anyone looking for natural headache relief that works without side effects.
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 7
 - [Women's Health](https://herbtantra.com/collections/womens-health): Natural Care for Women's Health, Rooted in Ayurveda Being a woman means showing up every day—through the cramps, the cravings, the cycles, and the chaos. But that doesn’t mean you have to power through discomfort in silence. That’s where our Women’s Health Collection steps in. Why Choose Our Women’s Health Products? At Herb Tantra, we believe wellness should feel like support—not struggle. Our products are plant-based, portable, and free from synthetic preservatives and fragrances, designed to make your cycle feel less like an inconvenience and more like a rhythm. Product Details and Prices Thoughtfully crafted with 100% natural, Ayurvedic herbs like Calendula, Yarrow, Spearmint, and Lavender, our roll-ons, teas, and bundles are made to bring you comfort, balance, and gentle relief—without chemicals, hormones, or side effects. From period pain to PCOS, we’ve got your back (and your belly). Product Name Description Price Cramp Aid Roll-On Lightweight, non-sticky, and easy to carry, this roll-on blends Calendula, Yarrow, Lavender, and Clary Sage to help ease cramps, back pain, and bloating. ₹357 Cramp Aid Tea A blend of 9 Ayurvedic herbs including Spearmint, Chamomile, and Nirgundi, this tea supports smoother periods, reduces inflammation, and soothes the mind and body. ₹299 Period Comfort Combo A duo of our Cramp Aid Roll-On and Tea—perfect for gifting, or for keeping handy during menstruation. ₹580 PCOS/PCOD Care Bundle Support hormonal health naturally with this trio of - Apple Cider Vinegar Effervescent Tablets (with The Mother, Ginger, and Chromium Picolinate), Cramp Aid Roll-On and the Cramp Aid Tea which helps manage cravings, balance insulin levels, and reduce bloating. ₹1490 Wellness for the Boss Babe Combo This kit includes the Migraine Go Roll-On (for stress or sensory overload), Cramp Aid Roll-On and Zznooze Roll-On (for better sleep and calmer nights). ₹990 Our women’s wellness range is more than just symptom relief—it’s about supporting your body through its natural cycles, not working against them. Whether you're managing period pain, PCOS, or just trying to show up as your best self every day, Herb Tantra is here to help—with clean, convenient, and compassionate care.
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 5
 - [Joint & Muscle Pain](https://herbtantra.com/collections/joint-muscle-pain): Gentle Relief That Moves With You: Natural Joint & Muscle Pain Support Pain shouldn’t pause your life. When you feel your shoulders getting tight after desk work, or your joints sore from daily strain, try reaching for a natural remedy for a change, instead of your routine allopathic medication. Made with Ayurvedic herbs and essential oils, our Joint & Muscle Pain relief products offer plant-powered comfort without the side effects of pills or chemical-loaded balms. Each product in our collection supports your body's natural healing response. They’re easy to apply, quick to absorb, and crafted for long-term well-being. Why Choose a Natural Joint Pain Relief Product? Many conventional pain relievers can cause drowsiness or skin irritation, and often treat only the symptoms. Our joint pain relief products are designed to support deep tissue recovery while respecting your body’s natural balance. Our products are Non-greasy and lightweight, Formulated with time-tested Ayurvedic ingredients, No synthetic fragrances or harmful chemicals, Designed for consistent, on-the-go relief, Manufactured under AYUSH license in GMP- facilities. If you're looking for a joint pain relief roll-on that works with your lifestyle, this collection is a great place! When to Use a Joint & Muscle Pain Relief Product You can use a joint pain relief roll-on right after a workout to ease sore muscles or during travel when your joints feel tight from sitting too long. It also comes in handy for age-related joint discomfort, postural tension, and even PMS-related body aches. Children, too, benefit from gentle relief after long hours of play or minor sprains. Keeping a Joint & Muscle Pain relief product within reach will keep you ready when your body asks for a little extra care. Who Can Benefit From These Products? Our Joint & Muscle Pain relief products are created for a wide range of people: It’s ideal for office professionals who often experience tightness in the neck and shoulders from long screen hours. Athletes who need extra support after intense physical activity can also consider using our products. For parents searching for natural, child-safe solutions, our gentle roll-on for their little ones makes for a great pick. Older adults struggling with joint stiffness or arthritis-like aches can also find consistent relief in a routine that doesn’t rely on synthetic chemicals. These products are equally helpful for anyone seeking a joint pain relief roll-on that’s clean, plant-based, and easy to use. Explore Our Best- Joint & Muscle Pain Relief Products Product Description Price Cervical Roll On A warming blend for deep neck and shoulder relief. Targets overstretched muscles and spasms with nutmeg, ginger, marjoram, and lavender. Best used after long screen hours or posture-related strain. ₹490 Herbal Pain Relief Roll On A concentrated formula that helps reduce joint stiffness and improve flexibility. Powered by wintergreen, frankincense, lemongrass, eucalyptus, and hemp seed oil for effective, natural support. ₹490 Pain Fairy® Roll On A gentle, child-safe remedy for post-playtime aches, sprains, and minor bumps. No burning, no harshness. Just soothing herbal magic in a roll-on made for kids 2+. ₹390 How to Use for Best Results To get the most out of your joint pain relief roll on, apply it directly to the area that feels sore. This could be your shoulders, knees, lower back, neck, or even your ankles. Gently massage it into the skin so the herbal oils can absorb fully and begin working on the tension underneath. For consistent support, use it after physical activity, during flare-ups, or just before bed to help your body relax. Keep it stored in a cool, dry place and within reach, so you can use it when your body needs quick relief. Key Takeaways Herb Tantra offers a targeted collection of joint pain relief products using Ayurvedic herbs. Suitable for all age groups from growing children to aging adults. Designed for mild sprains, muscle tightness, stiffness, and daily joint strain. A natural solution to manage pain without relying on heavy medication. Roll-on format offers portability, hygiene, and quick application. Works as a safe and holistic joint pain relief roll on for recurring discomfort.
-  Updated: 2026-02-22T12:06:52Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 3
 - [Motion Sickness](https://herbtantra.com/collections/motion-sickness): Natural Remedies for Motion Sickness Traveling should be joyful—not nauseating. But for many, motion sickness during car rides, flights, cruises, or even amusement parks can trigger dizziness, nausea, and discomfort. That’s where our Motion Sickness Collection steps in. Why Choose Our Motion Sickness Relief Products? At Herb Tantra, we believe in solving problems naturally. Crafted with 100% natural, Ayurvedic herbs like Ginger, Grapefruit, and Spearmint, our roll-ons are gentle yet highly effective for both adults and kids. Whether you’re heading out on a family road trip or flying solo, our lightweight, non-sticky, and portable formulas are designed to bring relief wherever you go—without pills or drowsiness. Product Details and Prices When nausea hits hard, having the right motion sickness relief product within reach feels like a necessity. The Herb Tantra collection offers a range of natural options, each crafted to bring gentle yet effective support without disrupting your day. Product Name Description Price Travel Ease Roll-On This is a clean, modern take on traditional nausea remedies; perfect for those looking to avoid harsh motion sickness  or side-effect-heavy tablets. ₹357 The Travel Ease Junior Roll-On Looking for a kid safe alternative? This roll-on blends powerful herbs including Spearmint, Ginger, and Grapefruit, offering a calming, safe option for children prone to travel-related nausea. ₹357 Wellness for the Wanderer Gift Combo Planning a long trip or looking for the perfect wellness gift? Explore our thoughtfully curated combo packs, combining multiple motion sickness essentials in one convenient bundle. ₹990 Wellness for little Explorers Gift Combo A complete natural care kit for your child's daily adventures. Three gentle formulations to handle nausea and common discomfort, perfectly sized for their needs. ₹990 Herb Tantra’s motion sickness relief roll-ons are free from synthetic chemicals, preservatives, and artificial fragrances. Each formula is rooted in Ayurvedic wisdom, and designed for on-the-go nausea relief—whether you’re trying to get rid of motion sickness naturally or prevent it before it starts.
-  Updated: 2026-03-04T12:07:05Z
+  Updated: 2026-03-06T12:06:16Z
   Total Products: 4
 - [Gut Health & Metabolism](https://herbtantra.com/collections/gut-health-metabolism): Natural Supplements for Gut Health and Metabolism Your gut is the ultimate foundation of your health. The nourishing food you eat passes through your gut, which absorbs all the nutrients and is responsible for providing the nutrition you need to function at your best. Happy foods, a balanced diet, and a good lifestyle keep the gut happy too. But sometimes, when we inevitably fall prey to everyday stress, unavoidably consume processed foods, and are unable to fix our irregular routines, our gut cries out for help. However, our Gut Health Collection is here as your armor to protect your gut from discomfort. Our 100% natural gut health supplements and digestive supplements are carefully curated and designed to soothe discomfort, support nutrient absorption, and revitalize your metabolism effectively. Why Choose These Gut Health Supplements? We're deeply committed to delivering products with no harmful chemicals, synthetic preservatives, artificial sweeteners, or any artificial elements. Our products are a health-loving blend of Ayurvedic herbs and modern science, designed for optimal gut support. We've crafted our products for daily use. They're easy to use, safe, and completely reliable for finding relief from gut issues. Our products offer overall balance for your body by supporting both digestion and metabolism. If you're looking for natural gut health products to solve your gut issues and provide your body with natural relief, this is your hub! Explore Our Products Offer the goodness of nature to your gut and experience the bliss of optimal well-being! Product Why It’s Effective How It Supports You Price Digest Well Herbal Tea Paan leaves, Triphala, Mint, Cardamom Calms bloating, eases discomfort, boosts nutrient absorption ₹299 Apple Cider Vinegar Effervescent Tabs (15, 30, & 60) ACV with mother, Chromium, Pomegranate, Ginger Curbs cravings, supports gut health and weight management, stabilizes blood sugar. Best for metabolism ₹290, ₹540, and ₹990 respectively When to Use These Supplements You can consume our Digest Well Tea post-meals to ease digestion or before bed to soothe your gut after eating. The ACV tablets work best when consumed before meals since they help stabilize your blood sugar levels. You can also consume them after meals to aid digestion or early in the day to support metabolism. Consider using these gentle supplements for relief when you're experiencing occasional bloating, sluggish digestion, or low metabolic energy. To incorporate these products as part of your daily routine, try storing them on your kitchen counter. Every time you see them, they'll remind you to give a soothing treat to your gut! Who Should Use These Supplements? This range is ideal for anyone dealing with bloating, gas, or irregular digestion. It is also useful for health-conscious individuals seeking gut health supplements for long-term benefits. Weight managers may also try these supplements to curb cravings and stabilize their blood sugar. People who travel frequently or those who consistently face altered eating patterns may also give these a try to find relief from an upset stomach or irregular digestion. These are also great for those who prefer natural digestive supplements over harsh pills or laxatives. Usage Tips For best results and optimal nutrient absorption, sip the Digest Well Tea warm after meals. When using an ACV tablet, dissolve it in water 20-30 minutes before meals to enhance metabolic balance. You can also try combining both products for a complete morning or evening routine that aligns digestion and metabolism. Be mindful of your water intake as well. It’s important to keep yourself hydrated to enhance the effectiveness of herbs. Key Takeaways Carefully crafted gut health supplements and digestive supplements are designed to restore digestive ease and support metabolism. 100% natural, sugar, and caffeine-free. Digest Well Tea features Ayurvedic staples like Triphala and mint for gut harmony. ACV effervescent tabs curb appetite, regulate blood sugar, and uplift metabolism, all in a tasty fizz. Safe for a daily wellness habit and particularly useful during digestive stress, travel, or seasonal changes.
-  Updated: 2026-03-03T12:08:03Z
+  Updated: 2026-03-09T11:06:02Z
   Total Products: 4
 - [Effervescents](https://herbtantra.com/collections/effervescents)
   Updated: 2026-02-21T12:06:33Z
   Total Products: 3
 - [Wearables](https://herbtantra.com/collections/wearables)
-  Updated: 2026-02-24T12:06:51Z
+  Updated: 2026-03-11T11:06:11Z
   Total Products: 2
 - [Adults](https://herbtantra.com/collections/adults)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 21
 - [Senior Citizens](https://herbtantra.com/collections/senior-citizens)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 17
 - [Kids Swatches](https://herbtantra.com/collections/kids-swatches)
-  Updated: 2026-02-23T12:05:25Z
+  Updated: 2026-03-07T12:07:01Z
   Total Products: 3
 - [YourToken All Products Collection](https://herbtantra.com/collections/yourtoken-all-products-collection): Automated collection with all products of the store
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-12T11:06:00Z
   Total Products: 64
 - [Essential Oils](https://herbtantra.com/collections/essential-oils)
   Updated: 2026-02-07T12:06:40Z
   Total Products: 6
 - [Kids Travel Essentials](https://herbtantra.com/collections/kids-travel-essentials)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-07T12:07:01Z
   Total Products: 2
 - [BestSellers(combos)](https://herbtantra.com/collections/bestsellerscombos)
-  Updated: 2026-03-05T12:07:22Z
+  Updated: 2026-03-11T11:06:11Z
   Total Products: 5
 
 ## Blogs
