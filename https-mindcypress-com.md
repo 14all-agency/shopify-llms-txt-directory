@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-02-13T04:38:29Z
 - Contact Email: support@mindcypress.com
-- Updated At: 2026-03-05T00:00:26.037Z
+- Updated At: 2026-03-13T00:00:36.483Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/Advanced-financial-modeling_0027868c-1b0e-4dae-883f-a732b5083868.png?v=1683609734
   Price: $799.00 USD
 - [Human Resource Analytics (hr analytics) Certification Training Course](https://mindcypress.com/products/human-resource-analytics-instructor-led-online-training): Online Human Resource Analytics Certification Course Training by MindCypress prepares professionals for making decisions based on data analytics in Human Resources. The course is for anyone who is interested in HR field.
-  Updated: 2026-02-20T08:26:24Z
+  Updated: 2026-03-12T16:30:17Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/-manager-of-quality.png?v=1683611812
   Price: $799.00 USD
 - [Enhance Your Financial Skills With Our ACCA IFRS Certification](https://mindcypress.com/products/dip-ifrs-acca-uk-instructor-led-online-training): You can become job ready by acquiring the right knowledge and expertise in IFRS. Attend our Dip IFRS classes to learn about the rules, guidelines, and reporting requirements of IFRS.
-  Updated: 2026-03-03T09:26:42Z
+  Updated: 2026-03-11T11:02:06Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/DIp-ifrs.png?v=1683612952
   Price: $1,199.00 USD
 - [Project Management Professional Certification Training Courses](https://mindcypress.com/products/project-management-professional-instructor-led-online-training): Online PMP Exam Certification Training by MindCypress has helped thousands of professionals achieve their career goals in Project Management. The exam prep training program is well-structured by expert industry leaders.
-  Updated: 2026-03-03T08:50:48Z
+  Updated: 2026-03-12T14:25:58Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/products/Logistics-and-supply-chain-management.png?v=1681721561
   Price: $399.00 USD
 - [Agile Scrum Foundation Self Paced eLearning Course](https://mindcypress.com/products/agile-scrum-foundation-self-paced-elearning-course): Course Overview The course is designed in such a way that anyone can easily understand the concept of Agile and its two main frameworks, Scrum and Kanban. In this course, you will learn why Agile is relevant now and a method to  with the VUCA environment. This course will also help you to understand the essential difference between the traditional model and Agile, and which model is suitable for which projects. It also covers the concept of Scrum and Kanban framework, and in which situation which framework will be the perfect solution. Modules Module 1: Course Objectives Module 2: Introduction to Anti-Money Laundering Module 4: All about Scrum Module 5: Introduction to Kanban Final Assessment Module 6: Agile Scrum Foundation - Quiz Assignment
-  Updated: 2025-02-17T12:24:47Z
+  Updated: 2026-03-10T12:32:57Z
   Vendor: MindCypress
   Product Type: eLearning
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/products/human-resource-analytics.png?v=1681721126
   Price: $399.00 USD
 - [PMI – Agile  Practitioner (PMI-ACP) Self Paced eLearning Course](https://mindcypress.com/products/pmi-agile--practitioner-pmi-acp-self-paced-elearning-course): Course Overview Nowadays, due to the changing demand of the customer’s needs, IT Organizations are going through a transition by shifting their focus on agile methodology to attain customer satisfaction. Agile takes care of these frequent changes in demands, requirements, and priorities. PMI-ACP certification helps individuals learn all the frameworks of Agile such as Scrum, Kanban, Lean, extreme programming (XP), and test-driven development (TDD). With this certification, you will gain knowledge of different techniques as Agile Practices, Principles, and values. This PMI-ACP will educate you in all the nooks and corners of the Agile, that can set up your project, work on the estimations, cost, and schedule based on the Agile Principles. Highlights 21 PDU's -PMI  Course for ACP certification 6+ Hours Training video Exhaustive E-Book covering all 7 domains (100% syllabus covered) 4 Full length mock test exams (480 unique questions) Complete explanation with every question Report to asses strength n weakness 24*7 experts support Unlimited access Aligned with PMI Agile practice guideline Ideal for Professions: Project Managers Agile Team Members Associate Managers Team Leads Project Planners Project Controllers Software Developers Designer/Tester Product Owners Scrum Masters Scrum Team Members Project Modules Module 01: Introduction to Agile Module 02: Product Visioning Module 03: Release Module 04: Pre-iteration Preparations Module 05: Iterations Module 06: Environmental Factors Final Assessments PMI – Agile  Practitioner - Quiz
-  Updated: 2025-09-17T17:34:48Z
+  Updated: 2026-03-10T12:32:56Z
   Vendor: MindCypress
   Product Type: eLearning
   Availability: Available
@@ -396,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/products/-business-analysis-professional.png?v=1681716086
   Price: $399.00 USD
 - [Operations Management Self Paced e-Learning Course](https://mindcypress.com/products/operations-management-self-paced-e-learning-course): Course Description Operations management is the administration of business activities to accomplish goals, achieve higher productivity, and maximize profitability. It is the branch of management that administers the complete production timeline of a service/ product from the input stage to the finished stage, including planning, organizing, and supervising the operations, manufacturing and production processes, and service delivery to lead to the desired outcome of high-quality product/service that meets the demands of the customers. Modules Module 01: Introduction to Operations Management Module 02: Operations Management and Decision-Making Module 03: Managing Overall Equipment Effectiveness (OEE) Module 04: Quality Management Module 05: Supply Chain Management Module 06: Managing Lean Production Systems Final Assessments Operations Management - Quiz
-  Updated: 2025-02-17T12:24:50Z
+  Updated: 2026-03-11T22:16:02Z
   Vendor: MindCypress
   Product Type: eLearning
   Availability: Available
@@ -487,7 +487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/CMQMAU.png?v=1683539841
   Price: $899.00 USD
 - [Lean Six Sigma Green Belt Prerecorded Training](https://mindcypress.com/products/lean-six-sigma-green-belt-prerecorded-training): Overview Lean Six sigma is a set of techniques that follows a methodological approach for bringing process improvements by aligning organizational goals. Organizations worldwide seek experts who understand the strategic objectives of businesses, critical requirements and operational goals to drive improvement.Every service industry/organization seeks for process experts with lean Six Sigma techniques to be a leader in the competitive market. The Six Sigma Green Belt Expert training course is designed to provide knowledge and skills to become a successful Process excellence expert. It starts with the fundamental concepts of Understanding VOC, Converting them into potential projects, Base-lining measure to advance topics of Analyzing data, Improving process/ metric and ensure consistency. Prerequisites To take this course, all participants must have an undergraduate degree or a high school diploma. Target Audience Process Managers Quality Analysts Six Sigma Project team staff Team Leaders Professionals working under Black Belts Project Managers Production Supervisors Production Managers Professionals looking to understand everything Lean Six Sigma concepts and knowledge Professionals who are looking to take up the widely recognized IASSC LSSGB certification exam The experts seeking to master various approaches to the actual use of various tools and techniques are the target audience for this Six Sigma Green Belt certification course. This is the best option for professionals wishing to advance into leadership roles with strong optimization skills. Training Outcomes Manage complex corporate solutions successfully at any level of the organization Describe the approaches to problem-solving that Toyota and Amazon, two of the world's premier companies, use. Immediately increase their usage of leadership tools while enhancing productivity and efficiency overall by cutting waste and putting a stronger emphasis on customer value. Modules Module 1: Overview: Six Sigma & the Organization Six Sigma and Organizational Goals o Value of Six Sigma Organizational Goals & Six Sigma Projects Organizational Drivers & Metrics Lean Principles in the Organizational Lean Concepts Value Stream Mapping Design for Six Sigma Methodologies (DFSS) Roadmaps for DFSS Basic Failure Mode and Effects Analysis (FMEA) Design FMEA and Process FMEA Module 2: Define Phase Project Identifications Project Selection Project Selection Process Benchmarking Process Inputs and outputs Owners and Stakeholders Voice of the Customer (VoC) Customer Identification Customer Data Customer Requirements Project Management Basics Project Charter o Project Scope Project Metrics o Project Planning Tools Project Documentation Project Risk Analysis o Project Closure Management and Planning Tools Business Results for Projects Process Performance Communications Team Dynamics and Performance Team Stages and Dynamics Team Roles and Responsibilities Team Tools o Team Communication Module 3: Measure Phase Process Analysis and Documentation Probability and Statistics Basic Probability Concepts Central Limit Theorem Statistical Distributions Collecting and Summarizing Data Types of Data and Measurement Scale Sampling and Data Collection Methods Descriptive Statistics o Graphical Methods Measurement and System Analysis Process and Performance Capability Process Performance versus Process Specifications Process Capabilities Studies Process Capability (Cp, Cpk) and Process Performance (Pp, Ppk) Indices Short Term versus Long Term Capability and Sigma Shift Module 4: Analyze Phase Exploratory Data Analysis Multi-vary Studies Correlation and Linear Regression Hypothesis Testing Basics Tests for means, Variances and proportions Module 5: Improve Phase Design of Experiment (DoE) Basic Terms DoE Graphs and Plots Root Cause Analysis Lean Tools Wastes Elimination Cycle Time Reduction Kaizen and Kaizen Blitz Module 6: Control Phase Statistical Process Control (SPC) SPC Basics Rational Subgrouping Control Chart Control Plan Lean Tools for Process Control Total Productive Maintenance (TPM) Visual Factory Module 7: Minitab Basics This lesson will demonstrate some basic actions and tools required to effectively use Minitab Opening / Saving Projects Opening / Saving Worksheets Opening / Saving Graphs Saving Session Window Output Report Pad Calculator Toolbars Help Topics Module 8: Inputting Data This lesson will demonstrate how to input and manipulate data into a Minitab Worksheet. Techniques include: Copy / Paste from other programs Typing in Data Using Patterned Data Opening Other Formats Changing Data Types Code Data Sort Data Date/Time Formats Module 9: Worksheet Manipulation This lesson will demonstrate how to manipulate worksheets in Minitab including: Rearranging Columns Stack / Unstack Columns Transpose Columns Split Worksheet Subset Worksheet Stack / Merge Worksheets Set Descriptions for Columns and Worksheets Conditional Formatting Module 10: Creating Graphs This lesson will demonstrate how to Create, Edit, and Annotate the following Graphs: Individual Value Plot Dot Plot Histogram Box Plot Interval Plot Line Plot Time Series Plot Scatter Plot Bar Chart Module 11: Basic Data Analysis This module will demonstrate many Data Analysis functions within Minitab including: Tests on Proportions Tables / Chi-Square ANOVA 2-Sample t Test Paired t-Test Variance Tests Correlation Simple Linear Regression Sample Size Module 12: Lean Foundation Lean Basics: About Lean Customers, Processes, and Waste The Five Steps of Lean Thinking Key Lean Metrics Tools & Techniques: Spaghetti (Movement/Transportation) diagrams Measles charts The Lean Triad (5s, Poka Yoke, SMED) Voice of the Customer Identifying the Root Cause Introduction to Kaizen Methodologies Voice of the Customer (VOC): Why we need to listen to the VOC? 4 Steps of VOC SIPOC Affinity Diagrams Kano Diagrams CTQs and Requirements Lean Practitioner: Managing and Building Lean Teams Problem Solving Visual Management Advanced VOC Lean Metrics Process Measurement TPM (Total Productive Maintenance) Process Levelling Value Stream Mapping FAQs After earning my Green Belt, what other Lean Six Sigma certifications am I able to pursue? The Lean Six Sigma certification approach provides various tiers to aid in the development of your skill set. the following are the tiers: Yellow Belt White Belt Black Belt Champion Black Belt Master Professionals are encouraged to continue any unfinished previous belts or advance to black belt training after completing the Lean Six Sigma Green Belt course. Prior to undertaking the Lean Six Sigma levels, it is imperative to review the requirements. Can I obtain my Black Belt before my Green Belt? Green Belt certification is required for the Black Belt. We will accept Green Belt certification from organizations providing similar training and project certification.
-  Updated: 2025-08-15T04:07:52Z
+  Updated: 2026-03-06T11:24:08Z
   Vendor: MindCypress
   Product Type: Prerecorded Trainings
   Availability: Available
@@ -653,7 +653,7 @@
   Availability: Available
   Price: $599.00 USD
 - [ International Financial Modeling Analyst (CIFMA)](https://mindcypress.com/products/-international-financial-modeling-analyst-cifma): Course Objective The  International Financial Modeling Analyst (CIFMA) program is designed to equip learners with one of the most critical and in-demand skills in today’s global financial landscape. With rising economic uncertainty and frequent market disruptions, organizations increasingly rely on robust financial models to guide strategic decisions. Earning the CIFMA certification not only gives professionals a competitive edge but also empowers them to anticipate market trends, evaluate risks, and design data-driven financial strategies. The demand for skilled financial modelers is growing rapidly, and CIFMA provides comprehensive training to build strong technical and analytical capabilities. The CIFMA program develops a deep understanding of financial documentation, financial statement analysis, cash flow evaluation,  assessment, and valuation techniques. It guides learners in constructing real-world financial models using practical assumptions that reflect industry standards. This course is your pathway to mastering financial modeling with a global perspective. Prerequisites There are no mandatory prerequisites for the CIFMA certification. The program is ideal for employees, business owners, managers, consultants, and anyone looking to strengthen their financial modeling and spreadsheet skills. A basic understanding of high school mathematics and pre-calculus is recommended for smoother learning. Target Audience The  International Financial Modeling Analyst (CIFMA) program is tailored for individuals who aim to strengthen their financial decision-making, analytical expertise, and valuation capabilities. It is especially beneficial for: Banking and  Professionals Those involved in credit analysis, treasury,  banking, or portfolio management who require strong modeling abilities to evaluate financial performance, assess risk, and support strategic  decisions. Equity Analysts Professionals who analyze stocks, evaluate company valuations, study market trends, and prepare financial forecasts. CIFMA enhances their ability to build accurate valuation models and deliver insightful research reports. Chartered Accountants in M&A or Corporate Finance CAs handling due diligence, business valuations, mergers, acquisitions, and strategic financial planning will gain advanced modeling skills to support negotiations,  structuring, and financial assessments. MBA Graduates in Finance or Commerce Students and fresh graduates looking to enter the finance domain with a strong foundation in financial modeling, forecasting, and valuation to secure roles in consulting, analytics, banking, and corporate finance. Finance and Business Professionals Managers, consultants, entrepreneurs, and decision-makers who want to understand financial feasibility,  planning, business valuation, and scenario analysis to improve organizational outcomes. Training Outcomes Upon completing the  International Financial Modeling Analyst (CIFMA) program, learners will be equipped with a strong analytical foundation and advanced practical skills essential for real-world financial decision-making. The program ensures mastery in the following areas: Exploratory Data Analysis (EDA) You will learn how to examine raw financial data, identify patterns, detect anomalies, and extract meaningful insights. EDA helps in understanding market behavior and preparing data for accurate modeling. Model Building and Optimization Gain hands-on experience in constructing dynamic financial models from scratch. You will also learn how to refine, validate, and optimize these models to improve accuracy, reliability, and usability in strategic decision-making. Inferential Statistics Understand how to draw conclusions and make predictions about a larger population based on sample data. This skill is essential for forecasting market trends, evaluating financial risks, and making data-backed decisions. Advanced Financial Statement Analysis Develop the ability to interpret income statements, balance sheets, and cash flow statements at a deeper level to assess business health and profitability. Scenario & Sensitivity Analysis Learn how to test the impact of changing assumptions—such as pricing, cost, interest rates, and market conditions—on financial outcomes, helping you prepare for uncertainty. Valuation Techniques Gain hands-on experience with valuation methods including DCF (Discounted Cash Flow), comparable company analysis, precedent transactions, and asset-based valuations. Forecasting & Budgeting Skills Understand how to create forward-looking financial projections and budgets that help organizations plan growth and allocate resources effectively. Dashboarding & Data Visualization Learn to represent financial insights visually through charts, dashboards, and interactive reports to improve decision-making and communication with stakeholders. Excel Automation & Advanced Functions Master advanced Excel tools such as macros, pivot tables, financial formulas, and automation techniques to speed up modeling tasks and reduce errors. Industry-Specific Modeling Build financial models tailored to various industries like manufacturing, banking, retail, real estate, and tech—making the learning more practical and job-ready. Risk Assessment & Mitigation Understand how to identify potential financial risks, quantify them, and build models that help in designing better risk-management strategies.  Analysis & Portfolio Evaluation Learn how to assess  opportunities, evaluate portfolio performance, and use modeling techniques to optimize returns while minimizing risk. Capstone Project on Real-World Financial Data Apply all concepts learned by creating a full-scale financial model using actual market or company data—ensuring practical, job-ready experience. Modules Chapter 1: Introduction Using Excel as a Core Platform for Financial Modeling Essential Referencing Techniques & Productivity Shortcuts in Excel Designing a Clean and Scalable Financial Model Structure Developing Revenue Forecast Drivers Creating Cost Projection Drivers Preparing Detailed Asset and Debt Schedules Forecasting the Profit & Loss Statement and Balance Sheet Chapter 2: Financial Statements & Valuation Techniques Preparing and Projecting the Cash Flow Statement Understanding and Managing Circular References in Interest and Cash Calculations Analyzing Financial Statements Through Key Financial Ratios Core Corporate Finance Principles for Effective Financial Modeling Fundamental Valuation Concepts Every Analyst Should Know Performing Valuations Using DCF (Discounted Cash Flow) and Comparable Company Analysis Conducting Scenario Analysis to Evaluate Different Business Outcomes Chapter 3: Using Excel in Financial Modeling Utilizing advanced Excel tools to audit and validate financial models Techniques for reviewing and troubleshooting large models with complex formulas Applying advanced Excel functions to develop flexible and dynamic financial models Enhancing model adaptability using INDEX, MATCH, and OFFSET functions Mastering advanced charting techniques in Excel, including the creation of Football Field charts Chapter 4: Understanding Macros Gaining a Clear Understanding of Macros and Their Use in Financial Models Introduction to VBA (Visual Basic for Applications) for Automating Financial Modeling Tasks Recording and Utilizing Macros to Resolve Circular References Efficiently Implementing Monte Carlo Simulation for Revenue Analysis – Part I Implementing Monte Carlo Simulation for Revenue Analysis – Part II Session Summary and Q&A Discussion
-  Updated: 2026-03-02T17:49:56Z
+  Updated: 2026-03-06T03:11:37Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -677,19 +677,19 @@
 ## Collections
 
 - [Home page](https://mindcypress.com/collections/frontpage)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-11T11:07:52Z
   Total Products: 11
 - [Information Technology](https://mindcypress.com/collections/information-technology): Find opportunities for a diverse field of careers in engineering, statistics, and business with a degree in data science. Working as a data scientist can be intellectually challenging, analytically satisfying, and put you at the forefront of new advances in technology. Data scientists have become more common and in demand, as big data continues to be increasingly important to the way organizations make decisions.
   Updated: 2025-02-17T12:24:40Z
   Total Products: 41
 - [Business](https://mindcypress.com/collections/business)
-  Updated: 2026-02-20T12:08:47Z
+  Updated: 2026-03-06T12:09:22Z
   Total Products: 6
 - [Marketing](https://mindcypress.com/collections/marketing)
   Updated: 2025-02-17T12:24:40Z
   Total Products: 4
 - [Project Management](https://mindcypress.com/collections/project-management)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-12T11:07:59Z
   Total Products: 6
 - [Quality Management](https://mindcypress.com/collections/quality-management)
   Updated: 2025-11-25T12:07:17Z
@@ -698,31 +698,31 @@
   Updated: 2025-02-17T12:24:40Z
   Total Products: 3
 - [Stay Ahead in Project Management With PMP and Agile Training Courses](https://mindcypress.com/collections/agile-scrum): With our PMP and Agile training courses online, gain a competitive edge in project management. Learn the flexible and iterative methods of Agile as well as the industry-standard project management techniques of the PMP.
-  Updated: 2025-02-17T12:24:40Z
+  Updated: 2026-03-11T11:07:52Z
   Total Products: 1
 - [Upcoming Trainings](https://mindcypress.com/collections/upcoming-trainings)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-12T11:07:59Z
   Total Products: 11
 - [Finance & Accounting](https://mindcypress.com/collections/finance-accounting)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-11T11:07:52Z
   Total Products: 13
 - [Instructor Led Trainings](https://mindcypress.com/collections/all)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-12T11:07:59Z
   Total Products: 42
 - [MQA  Trainings](https://mindcypress.com/collections/mqa--trainings)
   Updated: 2025-02-17T12:24:41Z
   Total Products: 7
 - [Prerecorded Trainings](https://mindcypress.com/collections/prerecorded-trainings)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-06T12:09:22Z
   Total Products: 10
 - [AVADA Email Marketing - Best Sellers](https://mindcypress.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-12T11:07:59Z
   Total Products: 97
 - [AVADA Email Marketing - Newest Products](https://mindcypress.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-12T11:07:59Z
   Total Products: 97
 - [Eid Offer](https://mindcypress.com/collections/eid-offer)
-  Updated: 2026-03-03T12:08:23Z
+  Updated: 2026-03-12T11:07:59Z
   Total Products: 3
 
 ## Blogs
