@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-07-19T03:46:18Z
 - Contact Email: info@adaprox.io
-- Updated At: 2026-03-06T00:00:26.120Z
+- Updated At: 2026-03-13T00:00:32.970Z
 
 ## Products
 
 - [HomeHub (Discounted)](https://www.adaprox.io/products/homehub-bluetooth)
-  Updated: 2026-03-04T12:57:52Z
+  Updated: 2026-03-06T10:45:35Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_irremote_c2bf479c-8a01-4eff-a542-31de82c93b58.png?v=1732785949
   Price: $19.99 USD
 - [Fingerbot Single Kit](https://www.adaprox.io/products/single-kit): Simple device automation with more compatibility
-  Updated: 2026-03-05T03:41:35Z
+  Updated: 2026-03-06T09:16:27Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/fingerbotsinglekit_28cad944-8ce1-4363-b8d1-3ab773046381.png?v=1772627995
     Price: $34.99 USD
 - [Fingerbot ToolPack](https://www.adaprox.io/products/fingerbot-toolpack): Enhance Fingerbot's compatibility to more buttons and switches
-  Updated: 2026-03-04T12:57:05Z
+  Updated: 2026-03-06T08:42:30Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -61,7 +61,7 @@
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_irremote.png?v=1732785928
   Price: $24.99 USD
 - [Fingerbot Pro Kit](https://www.adaprox.io/products/pro-kit): Multi-device control with remote access
-  Updated: 2026-03-05T03:41:35Z
+  Updated: 2026-03-06T09:15:14Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/products/BL-N-WB-WP-2-BD.png?v=1637309588
     Price: $89.99 USD
 - [Fingerbot Master Kit](https://www.adaprox.io/products/master-kit): Comprehensive smart home control
-  Updated: 2026-03-05T03:39:08Z
+  Updated: 2026-03-06T09:14:26Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -142,21 +142,21 @@
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_senselight.png?v=1732786058
   Price: $14.99 USD
 - [Door/Window Sensor](https://www.adaprox.io/products/door-window-sensor): Detect and report open/close status
-  Updated: 2026-03-04T04:09:34Z
+  Updated: 2026-03-06T10:22:20Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_contactsensor.png?v=1732785029
   Price: $19.99 USD
 - [Motion Sensor](https://www.adaprox.io/products/motion-sensor): Detect and report real-time human motion
-  Updated: 2026-03-04T10:04:05Z
+  Updated: 2026-03-06T10:43:25Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_motionsensor.png?v=1772524993
   Price: $19.99 USD
 - [Adaprox Fingerbot Plus-Smart Switch, Button Pusher](https://www.adaprox.io/products/fingerbot-plus-1): Smartly control any buttons and switches
-  Updated: 2026-03-05T03:41:35Z
+  Updated: 2026-03-11T19:58:28Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -226,35 +226,35 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/fingerbotmasterkit.png?v=1772341266
     Price: $129.99 USD
 - [Fingerbot Plus (Discounted)](https://www.adaprox.io/products/fingerbot-plus-discounted): Smartly control any buttons and switches
-  Updated: 2026-03-05T03:41:35Z
+  Updated: 2026-03-06T09:14:50Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_fingerbot_40e84f23-26d1-4a37-9ebb-b96d4854137b.png?v=1732785127
   Price: $24.99 USD
 - [HomeHub](https://www.adaprox.io/products/smart-gateway): Connect both Bluetooth and ZigBee Adaprox devices to cloud services for remote control.
-  Updated: 2026-03-04T12:57:39Z
+  Updated: 2026-03-06T10:45:02Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_homehub_9729db74-472a-4863-91b4-83651280bb3b.png?v=1772521668
   Price: $29.99 USD
 - [Wireless Switch (2-Key)](https://www.adaprox.io/products/linkoze-wireless-switch-2-key): Control smart devices with physical keys
-  Updated: 2026-03-05T08:37:52Z
+  Updated: 2026-03-06T10:42:45Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_wirelessswitch.png?v=1732786080
   Price: $19.99 USD
 - [Thermometer](https://www.adaprox.io/products/linkoze-thermometer): Monitor real-time indoor temperature and humidity
-  Updated: 2026-03-04T12:50:54Z
+  Updated: 2026-03-06T10:50:21Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_thermometer.png?v=1733729343
   Price: $19.99 USD
 - [Adaprox Fingerbot Touch](https://www.adaprox.io/products/fingerbot-touch): Automate your touch screen controls with ease
-  Updated: 2026-03-05T14:52:57Z
+  Updated: 2026-03-12T15:51:07Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -268,7 +268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/fingerbottouchremotecontrolkit.png?v=1772620335
     Price: $69.99 USD
 - [Adaprox Curtain Robot](https://www.adaprox.io/products/curtain-robot): Retrofit your curtains with easy smart control
-  Updated: 2026-03-04T12:29:48Z
+  Updated: 2026-03-06T10:18:57Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -322,14 +322,14 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/curtainrobotduokit_rod_4f066f9f-fdb9-4cbf-a322-b60057fb90b8.png?v=1733729921
     Price: $119.99 USD
 - [Curtain Robot Rod Adapter](https://www.adaprox.io/products/roman-rod-adapter): Easily attach your curtain robot to Rome Rods
-  Updated: 2026-03-04T12:29:02Z
+  Updated: 2026-03-06T10:20:04Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_romanrodadapter.png?v=1732865880
   Price: $14.99 USD
 - [Adaprox Curtain Robot](https://www.adaprox.io/products/curtain-robot-duo-kit): Retrofit your curtains with easy smart control
-  Updated: 2026-03-05T06:52:22Z
+  Updated: 2026-03-06T10:18:30Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -351,7 +351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/curtainrobotduokit_rod_fa97f649-8a89-47b7-a0f9-ca4b48e16410.png?v=1733734291
     Price: $119.99 USD
 - [Adaprox Fingerbot Touch](https://www.adaprox.io/products/fingerbot-touch-remote-control-kit): Automate your touch screen controls with ease
-  Updated: 2026-03-04T10:32:35Z
+  Updated: 2026-03-06T10:16:55Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -365,14 +365,14 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_fingerbottouchremotecontrolkit_578c15c4-971b-46cd-a071-49ba9153cdcc.png?v=1733734574
     Price: $69.99 USD
 - [Adaprox Fingerbot Touch](https://www.adaprox.io/products/fingerbot-touch-discounted): Automate your touch screen controls with ease
-  Updated: 2026-03-04T10:31:54Z
+  Updated: 2026-03-06T10:16:37Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_fingerbottouch_028473b4-38fb-403c-bfda-38665884355f.png?v=1732872545
   Price: $24.99 USD
 - [Fingerbot Switch](https://www.adaprox.io/products/switch-robot): Easily retrofit your switches to be smart.
-  Updated: 2026-03-05T03:23:59Z
+  Updated: 2026-03-06T07:55:11Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -382,7 +382,7 @@
 ## Collections
 
 - [Recommended](https://www.adaprox.io/collections/recommended)
-  Updated: 2026-03-02T12:02:48Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 6
 - [Networking](https://www.adaprox.io/collections/networking)
   Updated: 2026-02-28T12:03:28Z
@@ -391,34 +391,34 @@
   Updated: 2026-01-14T12:03:16Z
   Total Products: 9
 - [Triggering](https://www.adaprox.io/collections/triggering)
-  Updated: 2026-03-05T12:04:28Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 10
 - [Lighting](https://www.adaprox.io/collections/lighting)
   Updated: 2025-10-26T11:03:01Z
   Total Products: 2
 - [Popular](https://www.adaprox.io/collections/popular)
-  Updated: 2026-03-02T12:02:48Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 8
 - [REELUP (DO NOT DELETE)](https://www.adaprox.io/collections/reelup-do-not-delete)
-  Updated: 2026-03-02T12:02:48Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 5
 - [Bluetooth](https://www.adaprox.io/collections/bluetooth)
-  Updated: 2026-03-02T12:02:48Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 9
 - [Lifestyles](https://www.adaprox.io/collections/lifestyles)
   Updated: 2026-02-28T12:03:28Z
   Total Products: 9
 - [Bots](https://www.adaprox.io/collections/bots)
-  Updated: 2026-03-05T12:04:28Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 11
 - [Bundles](https://www.adaprox.io/collections/bundles)
   Updated: 2026-03-04T05:59:19Z
   Total Products: 5
 - [All products](https://www.adaprox.io/collections/all-products)
-  Updated: 2026-03-05T12:04:28Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 14
 - [Zigbee](https://www.adaprox.io/collections/zigbee)
-  Updated: 2026-02-28T12:03:28Z
+  Updated: 2026-03-12T11:03:23Z
   Total Products: 11
 - [](https://www.adaprox.io/collections/)
   Updated: 2026-02-28T13:00:52Z
