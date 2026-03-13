@@ -28,7 +28,7 @@ https://www.smuuvbody.com
 - Created At: 2024-06-04T13:46:45Z
 - Contact Email: support@smuuvbody.com
 - Address: 930 Washington Avenue suite 210 29 Miami Beach. Florida. USA
-- Updated At: 2026-03-06T00:00:47.058Z
+- Updated At: 2026-03-13T00:00:52.801Z
 
 ## Brand Context
 
