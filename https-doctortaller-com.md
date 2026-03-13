@@ -10,7 +10,7 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-03-06T20:00:25.025Z
+- Updated At: 2026-03-13T20:00:26.134Z
 
 ## Products
 
@@ -266,7 +266,7 @@
   - [What is the average height for a 4th grader?](https://doctortaller.com/blogs/growth-tips/what-is-the-average-height-for-a-4th-grader): What is the average height for a 4th grader?
     Updated: 2025-11-10T08:29:56Z
   - [Average Weight and Growth Chart for Babies](https://doctortaller.com/blogs/growth-tips/average-weight-and-growth-chart-for-babies): Average Weight and Growth Chart for Babies
-    Updated: 2025-11-04T07:05:10Z
+    Updated: 2026-03-07T03:10:43Z
   - [Does losing weight make you taller?](https://doctortaller.com/blogs/growth-tips/does-losing-weight-make-you-taller): Does losing weight make you taller?
     Updated: 2025-11-05T09:45:54Z
   - [What is the average height of children?](https://doctortaller.com/blogs/growth-tips/what-is-the-average-height-of-children): What is the average height of children?
