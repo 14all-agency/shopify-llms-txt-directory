@@ -9,36 +9,31 @@
 - Created At: 2025-04-03T14:53:17Z
 - Contact Email: clientcare@bluegreenmagic.com
 - Contact Phone: 1(800) 525-7768
-- Updated At: 2026-03-05T00:00:34.603Z
+- Updated At: 2026-03-13T00:00:36.631Z
 
 ## Products
 
 - [Encaps Carpet Cleaning Chemical - 1 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps): Explore Bluegreen Magic Encaps, our premium encapsulating carpet cleaning chemical, risk free. Love it or your money back.* Free shipping on orders over $400.
-  Updated: 2026-03-04T04:19:57Z
+  Updated: 2026-03-12T06:09:05Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/encaps-gallon-mockup.png?v=1747248031
   Price: $65.00 USD
 - [Spot & Blot Aerosol Spot Stain Remover | Bluegreen Magic](https://bluegreenmagic.com/products/spot-blot-stain-remover): Purchase Spot & Blot Aerosol Spot Stain Remover today. Fast delivery, shipping is FREE on orders over $400. Shop Bluegreen Magic.
-  Updated: 2026-02-24T17:57:36Z
+  Updated: 2026-03-11T20:25:07Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/Mockup.png?v=1746714210
   Price: $10.00 USD
 - [Newscents Premium Carpet Deodorizer 1-6 Qt | Bluegreen Magic](https://bluegreenmagic.com/products/newscents-carpet-deodorizer): Purchase Newscents Premium Carpet Deodorizer today. Fast delivery, shipping is FREE on orders over $400. Shop Bluegreen Magic.
-  Updated: 2026-02-13T19:18:52Z
+  Updated: 2026-03-10T17:58:27Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/newscents-quart-mockup_42a03fe6-7fff-409f-83a7-48e6b8bb00e8.png?v=1746714249
-  - [6 Quarts](https://bluegreenmagic.com/products/newscents-carpet-deodorizer?variant=47046296142076)
-    Availability: Available
-    Price: $117.50 USD
-  - [1 Quart](https://bluegreenmagic.com/products/newscents-carpet-deodorizer?variant=47046296174844)
-    Availability: Available
-    Price: $25.00 USD
+  Price: $25.00 USD
 - [Sole' Premium Nylon/Olefin Solution](https://bluegreenmagic.com/products/sole): Sole' is a high-performance carpet cleaning solution specially formulated for solution-dyed nylon and Olefin fibers. With a powerful pH of 11.5, it tackles tough soils and oily residues with ease. To ensure fiber safety, always follow with Neutrex Premium Neutralizing Agent to restore proper pH balance and leave carpets fresh and clean.
   Updated: 2026-02-24T17:57:35Z
   Vendor: Bluegreen Magic
@@ -112,14 +107,14 @@
     Availability: Available
     Price: $36.00 USD
 - [Encaps 8oz Sample](https://bluegreenmagic.com/products/encaps-8oz-sample): A powerful, professional-grade low moisture carpet cleaner meant to lift stains and soiling, and leaving carpet refreshed and like new. Encaps is the best in the industry with premium crystallization qualities, and a residue free result. All soil is removed during next vacuum. Try adding Newscents to give a refreshing scent to your carpet cleaning job! Premium crystallization technology bonds to soil and prevents it from reattaching to the carpet Does not require hot water extraction, improving efficiency Dries quickly Easy to vacuum Watch it work: Sorry, your browser doesn't support embedded videos.
-  Updated: 2026-03-04T04:19:57Z
+  Updated: 2026-03-12T06:09:05Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/8oz-sample-encaps.png?v=1747152496
   Price: $10.00 USD
 - [Starter Pack](https://bluegreenmagic.com/products/starter-pack): Starter Pack Bundle – Deep Clean Essentials The Starter Pack Bundle combines two powerhouse products trusted by professionals and homeowners alike: Encaps Premium Drycleaning Carpet Solution – Our flagship low-moisture premium crystallization formula that lifts dirt, neutralizes stains, and leaves carpets looking revitalized with no sticky residue. Spot & Blot Aerosol Spot Remover – A fast-acting aerosol designed to tackle tough spots and spills on contact. Just spray, blot, and watch stains disappear. Whether you're refreshing high-traffic areas or handling unexpected messes, this dynamic combo gives you everything you need for a cleaner, fresher space—right from the start.
-  Updated: 2026-03-02T16:15:06Z
+  Updated: 2026-03-11T20:25:17Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -132,14 +127,14 @@
   Availability: Available
   Price: $23.75 USD
 - [Encaps -  Premium Encapsulation Carpet Cleaner 4 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps-4-gal): Purchase Encaps Premium Carpet Cleaner in bulk today. Fast delivery, orders over $400 get FREE shipping. Shop Bluegreen Magic today.
-  Updated: 2026-02-24T17:57:52Z
+  Updated: 2026-03-10T17:45:41Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/encaps-gallon-mockup.png?v=1747248031
   Price: $250.00 USD
 - [Spot & Blot Aerosol Spot Stain Remover - Case of 12 | Bluegreen Magic](https://bluegreenmagic.com/products/spot-blot-12-case): Purchase Spot & Blot Aerosol Spot Stain Remover in bulk today. Fast delivery, shipping is FREE on orders over $400. Shop Bluegreen Magic.
-  Updated: 2026-02-24T17:57:50Z
+  Updated: 2026-03-11T20:25:08Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -149,7 +144,7 @@
 ## Collections
 
 - [Carpet Cleaning Chemicals](https://bluegreenmagic.com/collections/carpet-cleaning-chemicals): Explore Bluegreen Magic carpet cleaning chemicals made for professionals. Our top of the line products our  to leave carpet clean and refreshed.*
-  Updated: 2026-03-03T12:31:15Z
+  Updated: 2026-03-12T11:35:46Z
   Total Products: 13
 - [Starter Packs & Samples](https://bluegreenmagic.com/collections/starter-packs-samples)
   Updated: 2026-03-03T12:31:15Z
@@ -165,6 +160,9 @@
   - [How to Clean Commercial Carpet: A Step-by-Step Guide](https://bluegreenmagic.com/blogs/learning-center/how-to-clean-commercial-carpet): <p>Commercial carpet takes more of a beating than almost any other surface in a facility. High foot traffic, spills, tracked-in dirt, and airborne contaminants all settle deep into carpet fibers—impacting appearance, indoor air quality, and carpet lifespan. Knowing <strong>how to clean commercial carpet properly</strong> isn’t just about looks; it’s about protecting your  and creating a healthier environment.</p>
     Updated: 2026-02-06T21:42:28Z
     Author: Juan Fiallo
+  - [How Much Does It Cost To Clean Commercial Carpet?](https://bluegreenmagic.com/blogs/learning-center/how-much-does-it-cost-to-clean-office-carpets): <p>Commercial carpet cleaning is essential for maintaining a clean and professional workspace. But how much does it cost to clean commercial carpet?</p>
+    Updated: 2026-03-06T14:45:49Z
+    Author: Juan Fiallo
   - [Top 7 Carpet Cleaning Solutions You Need to Try Now](https://bluegreenmagic.com/blogs/learning-center/top-7-carpet-cleaning-solutions-you-need-to-try-now): Top 7 Carpet Cleaning Solutions You Need to Try Now
     Updated: 2026-02-17T16:15:11Z
     Author: Juan Fiallo
@@ -173,6 +171,12 @@
     Author: Juan Fiallo
   - [Understanding Low Moisture Carpet Cleaning for Efficient Upkeep](https://bluegreenmagic.com/blogs/learning-center/understanding-low-moisture-carpet-cleaning-for-efficient-upkeep): Understanding Low Moisture Carpet Cleaning for Efficient Upkeep
     Updated: 2026-02-18T15:08:33Z
+    Author: Bluegreen Magic
+  - [How to remove stains from carpet](https://bluegreenmagic.com/blogs/learning-center/how-to-remove-stains-from-carpet): How to remove stains from carpet
+    Updated: 2026-03-06T14:55:10Z
+    Author: Bluegreen Magic
+  - [The Benefits of Low Moisture Carpet Cleaning Explained](https://bluegreenmagic.com/blogs/learning-center/the-benefits-of-low-moisture-carpet-cleaning-explained): The Benefits of Low Moisture Carpet Cleaning Explained
+    Updated: 2026-03-09T18:18:01Z
     Author: Bluegreen Magic
 
 ## Store Pages
