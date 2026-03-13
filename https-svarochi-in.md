@@ -6,22 +6,10 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-19T18:04:56Z
 - Contact Email: info@svarochi.in
-- Updated At: 2026-03-06T00:00:30.416Z
+- Updated At: 2026-03-13T00:00:35.574Z
 
 ## Products
 
-- [Bandhani German Crepe Silk Suit - Vibrant Red & Gold Ensemble](https://svarochi.in/products/bandhani-german-crepe-silk-suit-vibrant-red-gold-ensemble): Step into timeless elegance with our stunning Bandhani German Crepe Silk Suit. This magnificent three-piece ensemble features a rich red kurta adorned with intricate Bandhani patterns, traditionally handcrafted to create a mesmerizing dotted design. The luxurious German Crepe silk fabric drapes beautifully, offering both comfort and a regal silhouette, making it perfect for festive occasions, cultural gatherings, or an elevated everyday look. The kurta is gracefully complemented by a vibrant yellow and red dupatta, embellished with detailed borders and subtle Bandhani motifs, adding a touch of traditional charm and exquisite contrast. Paired with comfortable matching bottoms, this suit is designed for sophistication and ease. Celebrate your unique style and heritage with this captivating Bandhani suit that promises to turn heads and leave a lasting impression.
-  Updated: 2026-02-28T01:31:30Z
-  Vendor: My Store
-  Product Type: kurta Set
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/DeWatermark.ai_1760897916167.jpg?v=1760898079
-  - [XL](https://svarochi.in/products/bandhani-german-crepe-silk-suit-vibrant-red-gold-ensemble?variant=45805626294425)
-    Availability: Available
-    Price: ₹4,999.00 INR
-  - [L](https://svarochi.in/products/bandhani-german-crepe-silk-suit-vibrant-red-gold-ensemble?variant=46204584951961)
-    Availability: Not Available
-    Price: ₹4,999.00 INR
 - [Lehenga](https://svarochi.in/products/lehenga): Elevate your wedding celebrations with this Semi-stitched stunning red lehenga, a timeless choice for Indian occasions. Crafted with meticulous attention to detail, this traditional ensemble combines rich crimson hues with elegant silhouettes that flatter every frame. Perfect for brides and bridesmaids alike, the lehenga features intricate embellishments and quality fabrics that ensure comfort throughout your festivities. Whether you're attending a mehendi, sangeet, or wedding reception, this piece captures the essence of Indian bridal fashion while allowing you to move with grace and confidence. Make a memorable impression with this versatile red lehenga that honors tradition while celebrating your special moments.
   Updated: 2026-02-19T06:17:09Z
   Vendor: Svarochi
@@ -623,7 +611,7 @@
   Updated: 2026-02-28T01:28:29Z
   Total Products: 45
 - [Kurta Sets](https://svarochi.in/collections/kurta-sets): Designer Kurta Sets
-  Updated: 2026-02-28T01:31:13Z
+  Updated: 2026-03-10T09:03:49Z
   Total Products: 10
 - [Chikankari](https://svarochi.in/collections/chikankari): Fine Lucknow Chikankari Kurtis and Kurta sets, all handwork
   Updated: 2026-02-28T01:27:40Z
@@ -632,7 +620,7 @@
   Updated: 2026-02-19T06:17:08Z
   Total Products: 18
 - [](https://svarochi.in/collections/)
-  Updated: 2026-02-28T01:31:13Z
+  Updated: 2026-03-10T09:03:49Z
   Total Products: 12
 
 ## Blogs
@@ -660,6 +648,15 @@
   - [Six Common Indian Bridal Wear Mistakes and How to Avoid Them](https://svarochi.in/blogs/news/six-common-indian-bridal-wear-mistakes-and-how-to-avoid-them): Six Common Indian Bridal Wear Mistakes and How to Avoid Them
     Updated: 2026-03-04T01:28:21Z
     Author: Svarochi
+  - [A Beginner's Guide to Mixing and Matching Kurta Styles](https://svarochi.in/blogs/news/a-beginners-guide-to-mixing-and-matching-kurta-styles): A Beginner's Guide to Mixing and Matching Kurta Styles
+    Updated: 2026-03-06T01:45:54Z
+    Author: Svarochi
+  - [Why You Should Consider Chikankari for Your Bridal Outfit](https://svarochi.in/blogs/news/why-you-should-consider-chikankari-for-your-bridal-outfit): Why You Should Consider Chikankari for Your Bridal Outfit
+    Updated: 2026-03-09T01:31:58Z
+    Author: Svarochi
+  - [Trending Lehenga Styles for the Modern Indian Bride](https://svarochi.in/blogs/news/trending-lehenga-styles-for-the-modern-indian-bride): Trending Lehenga Styles for the Modern Indian Bride
+    Updated: 2026-03-11T01:31:15Z
+    Author: Svarochi
 
 ## Store Pages
 
@@ -671,6 +668,8 @@
   Updated: 2025-12-26T17:25:04Z
 - [Shipping Policies](https://svarochi.in/pages/shipping-policies): We ship all over India at the best possible rates. Orders placed Monday–Saturday (IST) are processed the same or next business day. Orders ship wit...
   Updated: 2025-12-26T17:46:37Z
+- [Size Guide](https://svarochi.in/pages/size-guide): Size Guide — Svarochi *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --gold: #C49A3C; --gold-light: #E8D5A3; --c...
+  Updated: 2026-03-10T08:25:12Z
 
 ## Policies
 
