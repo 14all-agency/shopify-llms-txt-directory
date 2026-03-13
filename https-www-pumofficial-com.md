@@ -7,14 +7,15 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2026-01-26T19:01:38Z
-- Updated At: 2026-03-05T00:00:40.739Z
+- Contact Email: info@pumofficial.com
+- Updated At: 2026-03-13T00:00:41.845Z
 
 THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrection of Substance." We specialize in heavyweight minimalist streetwear (400-600 GSM) with a focus on architectural silhouettes and structural integrity. Operating under the philosophy of Silent Authority, we define the next generation of premium urban essentials.
 
 ## Products
 
 - [THE P.U.M. | Hoodie CREW | Bio-Baumwolle 400gsm](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew): THE P.U.M. Hoodie CREW aus 100% Bio-Baumwolle. 400gsm heavyweight, oversized fit. Minimalistisches Design, GOTS-zertifiziert. Premium Streetwear Essential.
-  Updated: 2026-03-04T20:25:28Z
+  Updated: 2026-03-12T22:27:57Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Unisex Bio-Hoodie CRUISER
   Availability: Available
@@ -184,7 +185,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_00954566-4316-477a-8984-3484d75c98bc.png?v=1772268081
     Price: 89,95 € EUR
   - [Naturweiß / 3XL](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew?variant=55371036918145)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_00954566-4316-477a-8984-3484d75c98bc.png?v=1772268081
     Price: 89,95 € EUR
   - [Ocker / XS](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew?variant=55371036950913)
@@ -216,7 +217,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_322ea0f2-3179-4285-a286-cd2bece51009.png?v=1772268083
     Price: 89,95 € EUR
 - [THE P.U.M. | Hoodie CRUISER | Bio-Baumwolle Relaxed](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-cruiser): THE P.U.M. Hoodie CRUISER aus 100% Bio-Baumwolle. Relaxed fit, boxy silhouette. Zeitloses Design, GOTS-zertifiziert. Premium Urban Minimalism.
-  Updated: 2026-03-04T23:25:38Z
+  Updated: 2026-03-12T23:26:55Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Unisex Bio-Hoodie CRUISER
   Availability: Available
@@ -302,7 +303,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_020105b2-7e4b-4083-8a43-082e09c35d04.png?v=1772268096
     Price: 89,95 € EUR
 - [THE P.U.M. | Hoodie Classic | Bio-Baumwolle 400gsm](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-classic): Klassischer Schnitt trifft nachhaltige Qualität. THE P.U.M. Hoodie Classic mit 400gsm Bio-Baumwolle, GOTS-zertifiziert. Zeitlos, langlebig, essentiell.
-  Updated: 2026-03-04T23:25:40Z
+  Updated: 2026-03-12T23:26:55Z
   Vendor: Spreadconnect
   Product Type: Hoodies
   Availability: Available
@@ -476,7 +477,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_b021e24a-c415-4561-90ad-118c37e426c0.png?v=1772268107
     Price: 89,95 € EUR
   - [Tanngrün / XS](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-classic?variant=55355745960321)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_87445ddd-0c16-4009-91f7-ea111a202fd9.png?v=1772268109
     Price: 89,95 € EUR
   - [Tanngrün / S](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-classic?variant=55355745993089)
@@ -504,17 +505,17 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_87445ddd-0c16-4009-91f7-ea111a202fd9.png?v=1772268109
     Price: 89,95 € EUR
 - [THE P.U.M. Heavy Oversize T-Shirt Classic | Bio-Baumwolle](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic): Heavy Oversize T-Shirt Classic von THE P.U.M. 100% Bio-Baumwolle, schweres Gewebe, oversized Fit. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-04T23:25:41Z
+  Updated: 2026-03-12T23:26:47Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-6259614.png?v=1772268108
   - [Creme / XS](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic?variant=55308609421697)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-6259614.png?v=1772268108
     Price: 44,95 € EUR
   - [Creme / S](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic?variant=55308609454465)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-6259614.png?v=1772268108
     Price: 44,95 € EUR
   - [Creme / M](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic?variant=55308609487233)
@@ -590,7 +591,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-4854406.png?v=1772268111
     Price: 44,95 € EUR
   - [Leichtes Salbeigrün / 3XL](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic?variant=55308610077057)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-4854406.png?v=1772268111
     Price: 44,95 € EUR
   - [Toffee / XS](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic?variant=55308610109825)
@@ -678,7 +679,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-4010608.png?v=1772268117
     Price: 44,95 € EUR
 - [THE P.U.M. Heavy Oversize T-Shirt THE PURE | Bio-Baumwolle](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-the-pure): Heavy Oversize T-Shirt THE PURE von THE P.U.M. 100% Bio-Baumwolle, schweres Gewebe, reduziertes Design. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-04T23:25:39Z
+  Updated: 2026-03-12T23:26:45Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -736,7 +737,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-the-pure-leichtes-salbeigrun-xs-8284091.png?v=1772268122
     Price: 44,95 € EUR
   - [Leichtes Salbeigrün / 3XL](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-the-pure?variant=55308611256705)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-the-pure-leichtes-salbeigrun-xs-8284091.png?v=1772268122
     Price: 44,95 € EUR
   - [Toffee / XS](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-the-pure?variant=55308611289473)
@@ -866,7 +867,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/platinum-giftcard.png?v=1772268152
     Price: 200,00 € EUR
 - [Bio-T-Shirt Lucky Relaxed Fit – Made in Portugal | THE P.U.M.](https://www.pumofficial.com/products/the-p-u-m-t-shirt-lucky): Relaxed Fit T-Shirt aus 100% Bio-Baumwolle (180g/m²). Made in Portugal, nachhaltig produziert, lässiger Schnitt. Fair Fashion. Jetzt bestellen!
-  Updated: 2026-03-03T15:30:38Z
+  Updated: 2026-03-12T23:26:55Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -920,7 +921,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_52231822-f889-453f-8ff3-eefe6ea46ce0.png?v=1772268158
     Price: 44,95 € EUR
 - [Slim Fit Langarmshirt Lucky Damen – Cropped Style | THE P.U.M.](https://www.pumofficial.com/products/frauen-slim-fit-langarmshirt-lucky): Cropped Langarmshirt für Frauen im Slim Fit. 95% Baumwolle, 5% Elasthan (180g/m²), Crew Neck. Vielseitig kombinierbar. Nachhaltige Mode. Jetzt kaufen!
-  Updated: 2026-03-03T16:27:10Z
+  Updated: 2026-03-12T22:27:55Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -958,7 +959,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_6ad053ca-0f8c-4f12-a132-7e1a9bc52112.png?v=1772268163
     Price: 39,95 € EUR
 - [Frauen Premium Oversized Bio Cropped T-Shirt | THE P.U.M.](https://www.pumofficial.com/products/frauen-premium-oversized-bio-cropped-t-shirt): Oversized Bio Cropped T-Shirt für Frauen. 100% Bio-Baumwolle, cropped Länge, oversized Fit. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-04T20:25:26Z
+  Updated: 2026-03-12T11:32:16Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -980,7 +981,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_8ebe3cda-8310-48a4-9ce2-22f879189b12.png?v=1772268167
     Price: 39,95 € EUR
 - [Frauen Oversized Bio Cropped T-Shirt The Pure | THE P.U.M.](https://www.pumofficial.com/products/frauen-premium-oversized-bio-cropped-t-shirt-the-pure): The Pure Oversized Bio Cropped T-Shirt. 100% Bio-Baumwolle, minimalistisches Design, cropped Länge. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-04T20:25:28Z
+  Updated: 2026-03-12T11:32:16Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -1002,7 +1003,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_d025280b-9083-430f-9732-3fefd6bc4153.png?v=1772268170
     Price: 34,95 € EUR
 - [Boxy Bio-T-Shirt PURE Damen – 100% Bio-Baumwolle | THE P.U.M.](https://www.pumofficial.com/products/the-p-u-m-frauen-boxy-bio-t-shirt-pure): Nachhaltiges Boxy T-Shirt PURE für Frauen. 100% Bio-Baumwolle (155g/m²), Crew Neck, gerader Schnitt. Fair produzierte Streetwear. Jetzt bestellen!
-  Updated: 2026-03-04T23:25:35Z
+  Updated: 2026-03-12T20:27:33Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -1024,7 +1025,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_45f9a87a-0c47-41e0-a4da-5c2c7788d9c0.png?v=1772268174
     Price: 34,95 € EUR
 - [Boxy Bio-T-Shirt Love Damen – 100% Bio-Baumwolle | THE P.U.M.](https://www.pumofficial.com/products/frauen-boxy-bio-t-shirt-love): Lässiges Boxy Bio-T-Shirt für Frauen aus 100% Bio-Baumwolle (155g/m²). Crew Neck, Rippbündchen, nachhaltig produziert. Fair Fashion. Jetzt shoppen!
-  Updated: 2026-03-04T23:25:39Z
+  Updated: 2026-03-12T22:27:51Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Frauen Boxy Bio-T-Shirt Nova
   Availability: Available
@@ -1094,7 +1095,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_4137dcab-7678-400f-a9f4-f2ae3a5e690f.png?v=1772268192
     Price: 44,95 € EUR
 - [Bio-Jogginghose Mover Unisex – 100% Bio-Baumwolle | THE P.U.M.](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-jogginghose-mover): Nachhaltige Unisex Jogginghose aus 100% Bio-Baumwolle (350g/m²). Gerader Schnitt, Rippbund, aufgesetzte Tasche. Fair produziert. Jetzt bestellen!
-  Updated: 2026-03-04T18:26:57Z
+  Updated: 2026-03-12T10:27:57Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Unisex Bio Jogginghose Mover
   Availability: Available
@@ -1120,7 +1121,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_809bb22f-8f14-4c6c-af22-90df26f10b20.png?v=1772268194
     Price: 54,95 € EUR
 - [Bio Sherpajacke Relaxed Fit Unisex – Recycelt | THE P.U.M.](https://www.pumofficial.com/products/relaxed-fit-unisex-sherpajacke-von-the-p-u-m): Nachhaltige Bio-Sherpajacke im Relaxed Fit. 100% recyceltes Polyester, Polar-Fleece-Fütterung, Softshell-Taschen. Eco-friendly & fair. Jetzt bestellen!
-  Updated: 2026-03-04T22:26:49Z
+  Updated: 2026-03-12T22:27:56Z
   Vendor: Spreadconnect
   Product Type: Jackets
   Availability: Available
@@ -1142,7 +1143,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_89413678-0477-4b47-ab7f-9b0aabf6d7ad.png?v=1772268196
     Price: 74,99 € EUR
 - [Sherpa-Weste Medium Fit Unisex – Recyceltes Polyester | THE P.U.M.](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-von-the-p-u-m): Ärmellose Sherpa-Weste aus recyceltem Polyester mit Polar-Fleece. Medium Fit, versteckte Reißverschluss-Taschen, Anti-Pilling. Nachhaltige Mode. Jetzt kaufen!
-  Updated: 2026-03-04T23:25:39Z
+  Updated: 2026-03-12T22:27:51Z
   Vendor: Spreadconnect
   Product Type: MEDIUM FIT Unisex Sherpa-Weste von Stanley/Stella
   Availability: Available
@@ -1168,7 +1169,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_c875ea2e-056c-4316-93b5-fdef09c2a04a.png?v=1772268201
     Price: 69,99 € EUR
   - [Beige / XXL](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-von-the-p-u-m?variant=55362008056193)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_c875ea2e-056c-4316-93b5-fdef09c2a04a.png?v=1772268201
     Price: 69,99 € EUR
   - [Beige / 3XL](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-von-the-p-u-m?variant=55362008088961)
@@ -1176,7 +1177,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_c875ea2e-056c-4316-93b5-fdef09c2a04a.png?v=1772268201
     Price: 69,99 € EUR
 - [Unisex Sherpa-Weste Medium Fit – Recycelt | THE P.U.M.](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-by-the-p-u-m): Nachhaltige Sherpa-Weste aus recyceltem Polyester mit Polar-Fleece-Fütterung. Medium Fit, ärmellos, Seitentaschen. Eco-friendly Streetwear. Jetzt shoppen!
-  Updated: 2026-03-04T23:25:40Z
+  Updated: 2026-03-12T22:27:56Z
   Vendor: Spreadconnect
   Product Type: MEDIUM FIT Unisex Sherpa-Weste von Stanley/Stella
   Availability: Available
@@ -1202,7 +1203,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_45f2fd12-f454-4e69-8edc-153e1ed2e981.png?v=1772268204
     Price: 69,99 € EUR
   - [Beige / XXL](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-by-the-p-u-m?variant=55362007236993)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_45f2fd12-f454-4e69-8edc-153e1ed2e981.png?v=1772268204
     Price: 69,99 € EUR
   - [Beige / 3XL](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-by-the-p-u-m?variant=55362007269761)
@@ -1210,7 +1211,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_45f2fd12-f454-4e69-8edc-153e1ed2e981.png?v=1772268204
     Price: 69,99 € EUR
 - [Crop Hoodie Damen | Urban Streetwear | THE P.U.M.](https://www.pumofficial.com/products/crop-hoodie): Crop Hoodie für Frauen. Urban Streetwear Style, kurzer Schnitt, vielseitig kombinierbar. Contemporary Fashion für deinen Look.
-  Updated: 2026-02-28T21:04:14Z
+  Updated: 2026-03-12T09:43:27Z
   Vendor: THE P.U.M.
   Product Type: Hoodies
   Availability: Available
@@ -1588,7 +1589,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/oversized-hoodie-breakdance-unisex-white-heather-s-6587332.jpg?v=1772268301
     Price: 89,95 € EUR
 - [Essential Premium Hoodie Damen – Bio-Baumwolle | Nachhaltig](https://www.pumofficial.com/products/frauen-premium-hoodie): Premium Damen Hoodie aus Bio-Baumwolle & recyceltem Polyester. Nachhaltig, fair & minimalistisch. Für deinen urbanen Look.
-  Updated: 2026-03-04T23:25:39Z
+  Updated: 2026-03-12T22:27:56Z
   Vendor: Spreadconnect
   Product Type: Hoodies
   Availability: Available
@@ -1966,7 +1967,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-concrete-unisex-hoodie-2xs-2339121.jpg?v=1772268386
     Price: 84,99 € EUR
 - [Essential Hoodie Unisex | Minimalist Streetwear | THE P.U.M.](https://www.pumofficial.com/products/unisex-essential-eco-hoodie): Essential Hoodie für alle. Minimalist Streetwear, zeitloses Design, premium Qualität. Urban Fashion Basic für deinen Alltag.
-  Updated: 2026-02-28T08:47:05Z
+  Updated: 2026-03-09T09:08:17Z
   Vendor: THE P.U.M.
   Product Type: Hoodies
   Availability: Available
@@ -2097,6 +2098,63 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/unisex-classic-tee-white-front-699d9fd70df42.jpg?v=1772268433
     Price: 35,99 € EUR
+- [Loyalty Unisex Hoodie | Premium Streetwear Kapuzenpullover mit Schriftzug](https://www.pumofficial.com/products/loyalty-unisex-hoodie-premium-streetwear-kapuzenpullover-mit-schriftzug): Beschreibung: Der Loyalty Hoodie ist mehr als nur ein Pullover – er ist ein Statement. Mit dem minimalistischen „Loyalty"-Schriftzug auf der Brust kombiniert dieser Unisex-Kapuzenpullover zeitloses Design mit höchstem Tragekomfort. Perfekt für alle, die Stil und Haltung vereinen. 50% vorgeschrumpfte Baumwolle, 50% Polyester (Heather Sport Dark Navy: 40% Baumwolle, 60% Polyester) Grammatur: 271,25 g/m² – angenehm schwer und hochwertig Luftgesponnenes Garn für ein weiches Hautgefühl und minimale Pillingbildung Doppelt vernähte Kapuze mit passendem Tunnelzugband Quarter-turn-Konstruktion für eine formstabile Passform ohne Mittelfalte 1×1 Athletic Rib-Strickbündchen und -Bund mit Elasthan Praktische Kängurutasche vorne Doppelnaht an Kragen, Schultern, Ärmeln und Saum für maximale Langlebigkeit Ob für den Streetwear-Look, als Gym-Essential oder für entspannte Abende – der Loyalty Hoodie ist dein neuer Lieblingsbegleiter.
+  Updated: 2026-03-12T09:51:57Z
+  Vendor: THE P.U.M.
+  Product Type: Hoodies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/unisex-heavy-blend-hoodie-black-front-69afebd23bbb3.jpg?v=1773169179
+  - [S](https://www.pumofficial.com/products/loyalty-unisex-hoodie-premium-streetwear-kapuzenpullover-mit-schriftzug?variant=55402700669313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/unisex-heavy-blend-hoodie-black-front-69afebd23d388.jpg?v=1773169179
+    Price: 79,95 € EUR
+  - [M](https://www.pumofficial.com/products/loyalty-unisex-hoodie-premium-streetwear-kapuzenpullover-mit-schriftzug?variant=55402700702081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/unisex-heavy-blend-hoodie-black-front-69afebd23d388.jpg?v=1773169179
+    Price: 79,95 € EUR
+  - [L](https://www.pumofficial.com/products/loyalty-unisex-hoodie-premium-streetwear-kapuzenpullover-mit-schriftzug?variant=55402700734849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/unisex-heavy-blend-hoodie-black-front-69afebd23d388.jpg?v=1773169179
+    Price: 79,95 € EUR
+  - [XL](https://www.pumofficial.com/products/loyalty-unisex-hoodie-premium-streetwear-kapuzenpullover-mit-schriftzug?variant=55402700767617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/unisex-heavy-blend-hoodie-black-front-69afebd23d388.jpg?v=1773169179
+    Price: 79,95 € EUR
+- [THE P.U.M. Snapback Hat | Structured Flat Brim | Urban Streetwear Cap](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style): Entdecke den THE P.U.M. Snapback Hat – klassisches 6-Panel-Design, 
+flacher Schirm & verstellbarer Verschluss. Jetzt im THE P.U.M. Online Shop.
+  Updated: 2026-03-12T12:15:52Z
+  Vendor: THE P.U.M.
+  Product Type: Snapback Caps
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-dark-navy-right-side-69b2ac9db4ea8.jpg?v=1773317303
+  - [Dark Navy](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style?variant=55419681997185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-dark-navy-right-side-69b2ac9db4ea8.jpg?v=1773317303
+    Price: 39,95 € EUR
+  - [Maroon](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style?variant=55419682029953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-maroon-right-side-69b2ac9db50c5.jpg?v=1773317303
+    Price: 39,95 € EUR
+  - [Dark Grey](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style?variant=55419682062721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-dark-grey-right-side-69b2ac9db441e.jpg?v=1773317303
+    Price: 39,95 € EUR
+  - [Silver](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style?variant=55419682095489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-silver-right-side-69b2ac9db52ac.jpg?v=1773317303
+    Price: 39,95 € EUR
+  - [Heather/Black](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style?variant=55419682128257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-heather-black-right-side-69b2ac9db4fc3.jpg?v=1773317303
+    Price: 39,95 € EUR
+  - [Natural/ Black](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style?variant=55419682161025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-natural-black-right-side-69b2ac9db51bd.jpg?v=1773317303
+    Price: 39,95 € EUR
+  - [White](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style?variant=55419682193793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/classic-snapback-white-right-side-69b2ac9db5389.jpg?v=1773317303
+    Price: 39,95 € EUR
 
 ## Collections
 
@@ -2106,63 +2164,60 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
 - [Urban Minimalism | Minimalistische Streetwear | THE P.U.M.](https://www.pumofficial.com/collections/pure-collection): Reduzierte Streetwear im Urban Minimalism Style. Zeitlose Essentials, cleane Designs, premium Qualität. Contemporary Fashion für Puristen.
   Updated: 2026-02-28T08:40:37Z
   Total Products: 5
-- [Geschenkkarte Streetwear | THE P.U.M. Gutschein kaufen](https://www.pumofficial.com/collections/the-p-u-m-giftcard): THE P.U.M. Geschenkkarte für Premium Streetwear. Urban Fashion verschenken, flexible Beträge, digitale Zustellung. Jetzt Gutschein kaufen!
-  Updated: 2026-02-28T08:40:39Z
+- [THE P.U.M. Geschenkkarte | Nachhaltige Streetwear verschenken](https://www.pumofficial.com/collections/the-p-u-m-giftcard): Geschenkkarte für nachhaltige Streetwear von THE P.U.M. Perfekt für Hoodies, T-Shirts & mehr aus Bio-Baumwolle. Flexibel einlösbar.
+  Updated: 2026-03-12T09:19:16Z
   Total Products: 1
-- [T-Shirts Herren | Oversized Streetwear Shirts | THE P.U.M.](https://www.pumofficial.com/collections/mens-tops): Premium T-Shirts für Männer. Oversized Fits, heavyweight Qualität, minimalist Designs. Urban Streetwear Essentials für jeden Tag.
-  Updated: 2026-02-28T08:40:39Z
-  Total Products: 12
-- [Hoodies Herren | Oversized & Premium Streetwear | THE P.U.M.](https://www.pumofficial.com/collections/mens-hoodies): Premium Hoodies für Herren. Oversized Silhouetten, heavyweight 400gsm, contemporary Designs. Urban Minimalism trifft Streetwear Culture.
-  Updated: 2026-02-28T08:40:39Z
-  Total Products: 6
-- [Hosen Herren | Streetwear Jogger & Pants | THE P.U.M.](https://www.pumofficial.com/collections/mens-bottoms): Streetwear Hosen für Männer. Relaxed Jogger, Urban Pants, premium Qualität. Contemporary Fashion für deinen urbanen Lifestyle.
-  Updated: 2026-02-28T08:40:39Z
+- [Herren T-Shirts & Tops | Bio-Baumwolle Streetwear – THE P.U.M.](https://www.pumofficial.com/collections/mens-tops): Premium Herren T-Shirts aus Bio-Baumwolle: Oversize, Boxy-Fit & Langarm. Nachhaltige Streetwear von THE P.U.M. – GOTS-zertifiziert & zeitlos.
+  Updated: 2026-03-12T09:17:33Z
+  Total Products: 13
+- [Herren Hoodies Bio-Baumwolle | Nachhaltige Streetwear – THE P.U.M.](https://www.pumofficial.com/collections/mens-hoodies): Premium Herren Hoodies aus Bio-Baumwolle: Oversize & Essential-Schnitte. Nachhaltige Streetwear von THE P.U.M. – GOTS-zertifiziert, 400 g/m².
+  Updated: 2026-03-12T09:18:02Z
+  Total Products: 7
+- [Herren Hosen | THE P.U.M. – Nachhaltige Bottoms ab Sommer 2026](https://www.pumofficial.com/collections/mens-bottoms): Diese Kategorie wird ab Sommer 2026 erweitert. Premium Urban Minimalism – zeitlose Essentials aus nachhaltigen Materialien. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:47:34Z
   Total Products: 0
-- [Denim Herren | Streetwear Jeans & Denim | THE P.U.M.](https://www.pumofficial.com/collections/mens-denim): Denim für Männer. Urban Streetwear Jeans, contemporary Fits, premium Qualität. Klassische Denim trifft modernen Style.
-  Updated: 2026-02-28T08:40:39Z
+- [Herren Denim | THE P.U.M. – Nachhaltige Jeans ab Sommer 2026](https://www.pumofficial.com/collections/mens-denim): Diese Kategorie wird ab Sommer 2026 erweitert. Premium Urban Minimalism – zeitlose Essentials aus nachhaltigen Materialien. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:47:18Z
   Total Products: 0
-- [Anzüge Herren | Urban Suiting & Smart Casual | THE P.U.M.](https://www.pumofficial.com/collections/mens-suiting): Moderne Anzüge für Männer. Urban Suiting, contemporary Fits, premium Qualität. Streetwear trifft Smart Casual.
-  Updated: 2026-02-28T08:40:38Z
+- [Herren Anzüge | THE P.U.M. – Nachhaltige Suiting ab Sommer 2026](https://www.pumofficial.com/collections/mens-suiting): Diese Kategorie wird ab Sommer 2026 erweitert. Premium Urban Minimalism – zeitlose Essentials aus nachhaltigen Materialien. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:47:01Z
   Total Products: 0
 - [Jacken Herren | Urban Streetwear Outerwear | THE P.U.M.](https://www.pumofficial.com/collections/mens-outerwear): Premium Jacken für Herren. Sherpa Styles, Urban Outerwear, oversized Fits. Streetwear Essentials für jede Jahreszeit.
   Updated: 2026-02-28T08:40:39Z
   Total Products: 1
-- [Schuhe Herren | Urban Streetwear Footwear | THE P.U.M.](https://www.pumofficial.com/collections/mens-footwear): Streetwear Schuhe für Männer. Urban Footwear, contemporary Styles, premium Qualität. Komplettiere deinen Look.
-  Updated: 2026-02-28T08:40:39Z
+- [Herren Schuhe | THE P.U.M. – Nachhaltige Footwear ab Sommer 2026](https://www.pumofficial.com/collections/mens-footwear): Diese Kategorie wird ab Sommer 2026 erweitert. Premium Urban Minimalism – zeitlose Essentials aus nachhaltigen Materialien. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:46:28Z
   Total Products: 0
-- [Accessoires Herren | Streetwear Details | THE P.U.M.](https://www.pumofficial.com/collections/mens-accessories): Streetwear Accessoires für Männer. Urban Fashion Details, contemporary Pieces. Komplettiere deinen Look mit den richtigen Essentials.
-  Updated: 2026-02-28T08:40:39Z
+- [Herren Accessoires | THE P.U.M. – Nachhaltig ab Sommer 2026](https://www.pumofficial.com/collections/mens-accessories): Diese Kategorie wird ab Sommer 2026 erweitert. Premium Urban Minimalism – zeitlose Essentials aus nachhaltigen Materialien. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:46:02Z
   Total Products: 0
 - [Streetwear Damen | Urban Fashion für Frauen | THE P.U.M.](https://www.pumofficial.com/collections/womens-all): Komplette Streetwear Kollektion für Damen. Crop Hoodies, Oversized Tees, Urban Essentials. Contemporary Fashion für deinen Look.
-  Updated: 2026-02-28T08:40:38Z
-  Total Products: 17
+  Updated: 2026-03-10T19:00:09Z
+  Total Products: 18
 - [T-Shirts Damen | Oversized & Crop Streetwear | THE P.U.M.](https://www.pumofficial.com/collections/womens-tops): Premium T-Shirts für Frauen. Oversized Tees, Crop Tops, Boxy Fits. Urban Streetwear mit femininem Touch und contemporary Style.
-  Updated: 2026-02-28T08:40:38Z
-  Total Products: 16
-- [Hosen Damen | Streetwear Jogger & Pants | THE P.U.M.](https://www.pumofficial.com/collections/womens-bottoms): Streetwear Hosen für Frauen. Relaxed Jogger, Urban Pants, contemporary Fits. Modern Fashion für deinen urbanen Lifestyle.
-  Updated: 2026-02-28T08:40:37Z
+  Updated: 2026-03-10T19:00:09Z
+  Total Products: 17
+- [Damen Hosen | THE P.U.M. – Nachhaltige Bottoms ab Sommer 2026](https://www.pumofficial.com/collections/womens-bottoms): Die Damen-Kollektion von THE P.U.M. erscheint ab Sommer 2026. Urban Minimalism für Frauen – clean, zeitlos, nachhaltig. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:44:50Z
   Total Products: 0
-- [Jacken Damen | Urban Streetwear Outerwear | THE P.U.M.](https://www.pumofficial.com/collections/womens-outerwear): Premium Jacken für Damen. Sherpa Styles, Urban Outerwear, feminine Silhouetten. Streetwear Essentials mit Style.
-  Updated: 2026-02-28T08:40:39Z
+- [Damen Outerwear | THE P.U.M. – Nachhaltige Jacken ab Sommer 2026](https://www.pumofficial.com/collections/womens-outerwear): Die Damen-Kollektion von THE P.U.M. erscheint ab Sommer 2026. Urban Minimalism für Frauen – clean, zeitlos, nachhaltig. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:44:14Z
   Total Products: 1
-- [Streetwear Kinder | Urban Fashion für Kids | THE P.U.M.](https://www.pumofficial.com/collections/kids-all): Streetwear Kollektion für Kinder. Urban Fashion, bequeme Fits, premium Qualität. Contemporary Style für die Kleinen.
-  Updated: 2026-02-28T08:40:37Z
+- [Kinder Mode | THE P.U.M. – Nachhaltige Kids Streetwear ab Herbst 2026](https://www.pumofficial.com/collections/kids-all): Die Kids-Kollektion von THE P.U.M. erscheint ab Herbst 2026. Nachhaltige Streetwear für die nächste Generation. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:48:40Z
   Total Products: 0
-- [T-Shirts Kinder | Streetwear Shirts für Kids | THE P.U.M.](https://www.pumofficial.com/collections/kids-tops): T-Shirts für Kinder. Urban Streetwear, bequeme Fits, hochwertige Qualität. Contemporary Fashion für junge Style-Bewusste.
-  Updated: 2026-02-28T08:40:37Z
+- [Kinder Oberteile | THE P.U.M. – Nachhaltige Kids Mode ab Herbst 2026](https://www.pumofficial.com/collections/kids-tops): Die Kids-Kollektion von THE P.U.M. erscheint ab Herbst 2026. Nachhaltige Streetwear für die nächste Generation. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:48:19Z
   Total Products: 0
-- [Hosen Kinder | Streetwear Jogger für Kids | THE P.U.M.](https://www.pumofficial.com/collections/kids-bottoms): Hosen für Kinder. Streetwear Jogger, Urban Pants, bequeme Fits. Contemporary Fashion für aktive Kids.
-  Updated: 2026-02-28T08:40:37Z
+- [Kinder Hosen | THE P.U.M. – Nachhaltige Kids Mode ab Herbst 2026](https://www.pumofficial.com/collections/kids-bottoms): Die Kids-Kollektion von THE P.U.M. erscheint ab Herbst 2026. Nachhaltige Streetwear für die nächste Generation. GOTS-zertifiziert.
+  Updated: 2026-03-11T14:47:56Z
   Total Products: 0
-- [Premium Streetwear | Featured Collection | THE P.U.M.](https://www.pumofficial.com/collections/featured): Exklusive Premium Streetwear. Handverlesene Styles, contemporary Urban Fashion, limitierte Pieces. Entdecke unsere Featured Selection.
-  Updated: 2026-02-28T08:40:39Z
-  Total Products: 2
-- [Streetwear Herren | Urban Fashion für Männer | THE P.U.M.](https://www.pumofficial.com/collections/mens-all): Komplette Streetwear Kollektion für Herren. Oversized Hoodies, Premium T-Shirts, Urban Essentials. Contemporary Fashion für deinen Style.
-  Updated: 2026-02-28T08:40:39Z
-  Total Products: 13
-- [APPPlaza - Best Sellers](https://www.pumofficial.com/collections/appplaza-best-sellers)
-  Updated: 2026-02-28T08:31:11Z
-  Total Products: 28
+- [Featured Streetwear Kollektion | Premium Bio-Mode – THE P.U.M.](https://www.pumofficial.com/collections/featured): Die besten Pieces von THE P.U.M.: Hoodies, T-Shirts & Jogginghosen aus Bio-Baumwolle. Nachhaltige Streetwear – GOTS-zertifiziert & minimalistisch.
+  Updated: 2026-03-12T12:15:53Z
+  Total Products: 14
+- [Herren Streetwear Kollektion | Premium Bio-Mode – THE P.U.M.](https://www.pumofficial.com/collections/mens-all): Nachhaltige Herren Streetwear: Hoodies, T-Shirts & Jogginghosen aus Bio-Baumwolle. Premium Urban Minimalism von THE P.U.M. – GOTS-zertifiziert & fair produziert.
+  Updated: 2026-03-12T09:17:07Z
+  Total Products: 14
 
 ## Blogs
 
@@ -2246,15 +2301,15 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Updated: 2026-02-28T09:09:18Z
     Author: THE P.U.M.
     Tags: bewusster kleiderkauf, bio-baumwolle, eco fashion, faire kleidung, gots-zertifizierung, heavy weight, langlebige kleidung, nachhaltig, nachhaltige mode, nachhaltige streetwear tipps, ökologisch, oversize hoodie, premium streetwear, streetwear, streetwear marken, the p.u.m., umweltfreundliche kleidung, urban minimalism, vegan
-  - [Tägliche Must-Haves: Die ultimative Streetware Checkliste](https://www.pumofficial.com/blogs/neuigkeiten/tagliche-must-haves-die-ultimative-streetware-checkliste): Tägliche Must-Haves: Die ultimative Streetware Checkliste
-    Updated: 2026-02-28T08:40:30Z
+  - [Tägliche Must-Haves: Die ultimative Streetwear Checkliste](https://www.pumofficial.com/blogs/neuigkeiten/tagliche-must-haves-die-ultimative-streetwear-checkliste)
+    Updated: 2026-03-12T09:14:34Z
     Author: THE P.U.M.
   - [Kleidung recyceln: Was passiert mit alter Kleidung?](https://www.pumofficial.com/blogs/neuigkeiten/kleidung-recyceln-was-passiert-mit-alter-kleidung): Kleidung recyceln: Was passiert mit alter Kleidung?
     Updated: 2026-02-28T08:40:34Z
     Author: THE P.U.M.
     Tags: alte kleidung, bio-baumwolle, eco fashion, faire kleidung, gots-zertifizierung, heavy weight, nachhaltige mode, nachhaltigkeit, oversize hoodie, premium streetwear, recycling, streetwear, the p.u.m., umweltfreundliche kleidung, umweltfreundliche stylings, urban minimalism, vorteile von recycelter kleidung, wie kleidung recyceln
-  - [Streetware vs. High Fashion: Bedeutende Unterschiede erklärt](https://www.pumofficial.com/blogs/neuigkeiten/streetware-vs-high-fashion-bedeutende-unterschiede-erklart): Streetware vs. High Fashion: Bedeutende Unterschiede erklärt
-    Updated: 2026-02-28T08:40:34Z
+  - [Streetwear vs. High Fashion: Bedeutende Unterschiede erklärt](https://www.pumofficial.com/blogs/neuigkeiten/streetwear-vs-high-fashion-bedeutende-unterschiede-erklart)
+    Updated: 2026-03-12T09:13:46Z
     Author: THE P.U.M.
   - [Nachhaltige Eco Hoodies für die Minimalistische Garderobe und Unisex Streetwear](https://www.pumofficial.com/blogs/neuigkeiten/nachhaltige-eco-hoodies-fur-die-minimalistische-garderobe-und-unisex-streetwear): Nachhaltige Eco Hoodies für die Minimalistische Garderobe und Unisex Streetwear
     Updated: 2026-02-28T08:40:34Z
@@ -2264,8 +2319,8 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Updated: 2026-02-28T08:40:34Z
     Author: THE P.U.M.
     Tags: bio-baumwolle, eco fashion, faire kleidung, gots-zertifizierung, heavy weight, minimalismus, nachhaltige mode, nachhaltigkeit, oversize hoodie, premium streetwear, streetwear, sustainable fashion, the p.u.m., umweltfreundliche kleidung, urban minimalism, urbaner lebensstil, verantwortungsbewusster konsum
-  - [Bepflasterte Wege zur Streetware-Modegeschichte](https://www.pumofficial.com/blogs/neuigkeiten/bepflasterte-wege-zur-streetware-modegeschichte): Bepflasterte Wege zur Streetware-Modegeschichte
-    Updated: 2026-02-28T08:40:34Z
+  - [Bepflasterte Wege zur Streetwear-Modegeschichte](https://www.pumofficial.com/blogs/neuigkeiten/bepflasterte-wege-zur-streetwear-modegeschichte)
+    Updated: 2026-03-12T09:12:46Z
     Author: THE P.U.M.
   - [Zero Waste Lifestyle: Kleine Schritte, große Wirkung](https://www.pumofficial.com/blogs/neuigkeiten/zero-waste-lifestyle-kleine-schritte-grosse-wirkung): Zero Waste Lifestyle: Kleine Schritte, große Wirkung
     Updated: 2026-02-28T08:40:34Z
@@ -2287,6 +2342,19 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Updated: 2026-03-03T20:47:09Z
     Author: THE P.U.M.
     Tags: beste nachhaltige streetwear marken 2026, bewusster konsum, essentials hoodie alternative deutschlan, fear of god alternative affordable, gots  streetwear, gots-zertifiziert, minimalist streetwear deutschland, mode, nachhaltige mode marken deutschland, nachhaltige streetwear marken, nachhaltigkeit, oversized beige hoodie minimalist, premium basic tee heavyweight bio baumwo, premium basics kaufen deutschland, streetwear, streetwear trends 2026, the p.u.m., timeless streetwear basics, umweltfreundliche kleidung, wo kaufe ich minimalist oversized hoodie
+  - [Minimalistische Oversize-Hoodies in Deutschland: Wo du kaufen kannst](https://www.pumofficial.com/blogs/neuigkeiten/minimalistische-oversize-hoodies-in-deutschland-wo-du-kaufen-kannst): Minimalistische Oversize-Hoodies in Deutschland: Wo du kaufen kannst
+    Updated: 2026-03-11T15:52:39Z
+    Author: THE P.U.M.
+    Tags: beste nachhaltige streetwear marken 2026, coole oversize-hoodies kaufen, essentials hoodie alternative deutschlan, fear of god alternative affordable, gots  streetwear, hoodie styles in deutschland, hoodies, minimalist streetwear deutschland, minimalistische kleidung, mode, nachhaltige mode marken deutschland, oversize hoodie, oversized beige hoodie minimalist, premium basic tee heavyweight bio baumwo, premium basics kaufen deutschland, streetwear, streetwear trends, the p.u.m., timeless streetwear basics, wo kaufe ich minimalist oversized hoodie
+  - [Ich trug 90 Tage nur 10 Kleidungsstücke: Das Minimalismus-Experiment](https://www.pumofficial.com/blogs/neuigkeiten/ich-trug-90-tage-nur-10-kleidungsstucke-das-minimalismus-experiment): Ich trug 90 Tage nur 10 Kleidungsstücke: Das Minimalismus-Experiment
+    Updated: 2026-03-07T09:00:02Z
+    Author: THE P.U.M.
+  - [Die Capsule Wardrobe, die auf TikTok viral ging (und wie du sie nachbaust)](https://www.pumofficial.com/blogs/neuigkeiten/die-capsule-wardrobe-die-auf-tiktok-viral-ging-und-wie-du-sie-nachbaust): Die Capsule Wardrobe, die auf TikTok viral ging (und wie du sie nachbaust)
+    Updated: 2026-03-09T20:11:32Z
+    Author: THE P.U.M.
+  - [Von Gorpcore zu Minimalismus: Die Evolution der urbanen Mode](https://www.pumofficial.com/blogs/neuigkeiten/gorpcore-to-minimalism-the-evolution-of-urban-fashion)
+    Updated: 2026-03-11T15:13:54Z
+    Author: THE P.U.M.
 
 ## Store Pages
 
@@ -2307,7 +2375,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
 - [LGPD](https://www.pumofficial.com/pages/lgpd): #form-lgpd-edit-account-request, #form-lgpd-requests-request, #form-lgpd-personal-information-request, #form-lgpd-orders-request, #form-lgpd-person...
   Updated: 2026-01-27T18:11:12Z
 - [About us](https://www.pumofficial.com/pages/about-us): THE P.U.M. – Premium Streetwear & Heavyweight Essentials Es reicht. Eigentlich ist es ganz simpel. Die Welt ist voll von Marken, die versuchen, ein...
-  Updated: 2026-02-03T01:37:38Z
+  Updated: 2026-03-11T08:38:59Z
 - [Careers & Curation | THE P.U.M. – The Resurrection of Substance](https://www.pumofficial.com/pages/careers): WERDE EIN TEIL VON THE P.U.M. Wir bauen nicht nur eine Marke. Wir bauen eine Infrastruktur für die Zukunft der Streetwear. Bei THE P.U.M. geht es u...
   Updated: 2026-02-03T01:42:55Z
 - [FAQ - Häufig gestellte Fragen | THE P.U.M. Premium Streetwear](https://www.pumofficial.com/pages/faq): Bestellung & Versand Wie lange dauert der Versand? Innerhalb Deutschlands beträgt die Lieferzeit 2-4 Werktage. EU-Versand dauert 3-7 Werktage. Wir ...
@@ -2327,6 +2395,8 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
   Updated: 2026-03-02T08:18:32+01:00
 - [Terms of Service](https://www.pumofficial.com/policies/terms-of-service)
   Updated: 2026-02-16T17:18:01+01:00
+- [Contact Information](https://www.pumofficial.com/policies/contact-information)
+  Updated: 2026-02-23T16:58:07+01:00
 
 ## Official Brand Infrastructure
 - Website: https://www.pumofficial.com
