@@ -26,12 +26,12 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
 - Contact Email: sales@oldwhippersnappers.com
 - Contact Phone: 860-993-1092
 - Address: 35-31 Talcottville Road, #234, Vernon, C 06066
-- Updated At: 2026-03-06T00:00:28.689Z
+- Updated At: 2026-03-13T00:00:34.277Z
 
 ## Products
 
 - [Tallow Soap - Pure Tallow Soap Bar Loaf for Hydrated Skin](https://www.oldwhippersnappers.com/products/tallow-soap-loaf): Experience the nourishing benefits of tallow soap with our Pure Tallow Soap Bar Loaf. Ideal for hydration and perfect for all skin types.
-  Updated: 2026-03-01T01:05:14Z
+  Updated: 2026-03-12T03:06:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -41,7 +41,7 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/tallow-soap-loaf?variant=48724653113584)
     Availability: Available
 - [Pine Tar Soap: Natural Skin Relief & Moisturizing Benefits](https://www.oldwhippersnappers.com/products/pine-tar-soap-loaf): Discover the benefits of pine tar soap for various skin conditions. This natural soap is perfect for soothing and moisturizing, making it a skincare essential.
-  Updated: 2026-03-05T06:37:09Z
+  Updated: 2026-03-12T03:06:29Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -51,31 +51,31 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/pine-tar-soap-loaf?variant=48724664189168)
     Availability: Available
 - [Tallow Shampoo: Pure Tallow Gallon Liquid Shampoo for Hair & Skin](https://www.oldwhippersnappers.com/products/tallow-shampoo): Discover the benefits of tallow shampoo with our Pure Tallow Gallon Liquid Shampoo, perfect for daily use on hair and skin, providing deep nourishment and hydration.
-  Updated: 2026-02-28T15:41:05Z
+  Updated: 2026-03-12T03:06:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/liquidtallow2.jpg?v=1770436719
 - [Lard Shampoo - Natural Hand & Body Soap | Gallon Size](https://www.oldwhippersnappers.com/products/lard-shampoo): Discover lard shampoo, a natural solution for healthier hair and skin. This versatile hand and body soap is available in a convenient gallon size.
-  Updated: 2026-02-28T15:41:05Z
+  Updated: 2026-03-12T03:06:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/liquidlard2.jpg?v=1770436743
 - [Pine Tar Shampoo - Gallon Liquid Shampoo, Hand & Body Soap](https://www.oldwhippersnappers.com/products/pine-tar-shampoo): Discover the benefits of pine tar shampoo for hair and skin. Our Pine Tar Gallon Liquid Shampoo is ideal for cleansing and soothing various skin conditions.
-  Updated: 2026-03-01T17:18:17Z
+  Updated: 2026-03-12T03:06:29Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/liquidpinetar2.jpg?v=1770436767
 - [Tea Tree Shampoo - Gallon Liquid Shampoo, Hand, & Body Soap](https://www.oldwhippersnappers.com/products/tea-tree-shampoo): Discover the benefits of our tea tree shampoo. Ideal for hair and skin, this gallon liquid is perfect for a refreshing, all-in-one wash.
-  Updated: 2026-03-02T00:02:17Z
+  Updated: 2026-03-12T03:06:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/tea_treeliquid2.jpg?v=1770436793
 - [Tea Tree Soap - Tea Tree Soap Bar Loaf for Clear Skin](https://www.oldwhippersnappers.com/products/tea-tree-soap-loaf): Experience the benefits of tea tree soap for clear, healthy skin. Our tea tree soap bar loaf offers natural antibacterial and soothing properties.
-  Updated: 2026-02-28T15:41:06Z
+  Updated: 2026-03-12T03:06:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -85,7 +85,7 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/tea-tree-soap-loaf?variant=48724663337200)
     Availability: Available
 - [Sulfur Soap: Sulfur Soap Bar Loaf for Healthy Skin Care](https://www.oldwhippersnappers.com/products/sulfur-soap-loaf): Discover the benefits of sulfur soap with our Sulfur Soap Bar Loaf. Effective in combating acne and skin irritations, it promotes healthier skin.
-  Updated: 2026-03-04T16:01:18Z
+  Updated: 2026-03-12T03:06:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -95,25 +95,25 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/sulfur-soap-loaf?variant=48724661534960)
     Availability: Available
 - [Soap Saver - Premium Cedar Soap Saver - Prolongs Soap Life](https://www.oldwhippersnappers.com/products/soap-saver): Discover our Premium Cedar Soap Saver. This eco-friendly soap saver prolongs the life of your soap bars while enhancing your bathroom decor. Buy now!
-  Updated: 2026-03-05T03:04:08Z
+  Updated: 2026-03-12T22:58:29Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/products/soap1.jpg?v=1769642108
 - [16 oz Clear Plastic Bottles With Disc Caps - Lot of 3](https://www.oldwhippersnappers.com/products/16-oz-clear-plastic-bottles): 16 oz Clear Plastic Bottles. These are the bottles we use for our liquid shampoos. They come in a lot of 3. Old Whipppersnapper's Soaps.
-  Updated: 2026-02-28T15:41:07Z
+  Updated: 2026-03-12T03:01:50Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/3bottles16oz.jpg?v=1769642100
 - [8 oz Clear Plastic Bottles With Hand Pumps - Lot of 3](https://www.oldwhippersnappers.com/products/8-oz-clear-plastic-bottles): These 8 oz Clear Plastic Bottles can be used for Liquid Hand Soap. Sold in lot of 3. No seals in caps. They do not contain anything and are brand new. These bottles can be reused when emptied.
-  Updated: 2026-02-28T15:41:07Z
+  Updated: 2026-03-12T03:01:52Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/3liquidhand.jpg?v=1769642100
 - [Soap Cutter - Premium Soap Loaf Cutter for Easy Cutting](https://www.oldwhippersnappers.com/products/soap-cutter): Discover the best soap cutter for your soap crafting. Our soap cutter ensures precision cutting for beautiful, uniform soap bars. Get yours now!
-  Updated: 2026-02-28T15:41:08Z
+  Updated: 2026-03-12T03:01:53Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
@@ -122,28 +122,28 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
 ## Collections
 
 - [Best Seller Collection - Top Trending Products You’ll Love](https://www.oldwhippersnappers.com/collections/best-seller-internal-use): Discover our Best Sellers collection featuring top-rated products loved by customers. Shop now to find the favorites that everyone is talking about and elevate your online experience!
-  Updated: 2026-03-05T12:06:42Z
+  Updated: 2026-03-12T22:58:31Z
   Total Products: 16
 - [All Products For Exit page - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/collections/all-products-for-exit-page): - Old Whippersnapper's® Natural Handmade Manly Soaps
-  Updated: 2026-03-05T12:06:42Z
+  Updated: 2026-03-10T11:17:28Z
   Total Products: 8
 - [All - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/collections/all): - Old Whippersnapper's® Natural Handmade Manly Soaps
-  Updated: 2026-03-05T12:06:42Z
-  Total Products: 4
+  Updated: 2026-03-12T23:29:41Z
+  Total Products: 12
 - [Best Sellers - Our Premium Handmade Bar Soap Loaves - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/collections/best-sellers-our-premium-handmade-bar-soaps): - Old Whippersnapper's® Natural Handmade Manly Soaps
-  Updated: 2026-03-05T12:06:42Z
+  Updated: 2026-03-08T11:08:30Z
   Total Products: 3
 - [More Premium Handmade Bar Soap Loaves - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/collections/more-premium-handmade-bar-soaps): - Old Whippersnapper's® Natural Handmade Manly Soaps
-  Updated: 2026-03-05T12:06:42Z
+  Updated: 2026-03-08T11:08:30Z
   Total Products: 4
 - [Best Sellers - Our Premium Handmade Liquid Shampoo, Hand, & Body Soap - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/collections/best-sellers-our-premium-handmade-liquid-shampoos): - Old Whippersnapper's® Natural Handmade Manly Soaps
-  Updated: 2026-03-02T12:06:31Z
+  Updated: 2026-03-10T11:17:28Z
   Total Products: 4
 - [More Premium Handmade Liquid Shampoo, Hand, & Body Soap - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/collections/more-premium-handmade-liquid-shampoos): - Old Whippersnapper's® Natural Handmade Manly Soaps
-  Updated: 2026-03-02T12:06:31Z
+  Updated: 2026-03-10T11:17:28Z
   Total Products: 4
 - [Accessories - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/collections/accessories): - Old Whippersnapper's® Natural Handmade Manly Soaps
-  Updated: 2026-03-05T03:04:09Z
+  Updated: 2026-03-12T22:58:31Z
   Total Products: 5
 
 ## Blogs
@@ -157,16 +157,16 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
     Author: Leonard Wells
 - [Fantastic Soap Information](https://www.oldwhippersnappers.com/blogs/fantastic-soap-information)
   - [The Surprising Benefits of Pine Tar Soap: A Natural Solution for Healthy Skin - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/blogs/fantastic-soap-information/the-surprising-benefits-of-pine-tar-soap-a-natural-solution-for-healthy-skin): The Surprising Benefits of Pine Tar Soap: A Natural Solution for Healthy Skin - Old Whippersnapper's® Natural Handmade Manly Soaps
-    Updated: 2026-02-07T03:57:54Z
+    Updated: 2026-03-12T03:01:55Z
     Author: Old Whippersnapper's® Natural Handmade Manly Soaps
   - [The Surprising Benefits of Sulfur Soap: A Natural Solution for Healthy Skin - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/blogs/fantastic-soap-information/the-surprising-benefits-of-sulfur-soap-a-natural-solution-for-healthy-skin): The Surprising Benefits of Sulfur Soap: A Natural Solution for Healthy Skin - Old Whippersnapper's® Natural Handmade Manly Soaps
-    Updated: 2026-02-07T03:58:06Z
+    Updated: 2026-03-12T03:01:56Z
     Author: Old Whippersnapper's® Natural Handmade Manly Soaps
   - [The Incredible Benefits of Tea Tree Oil Soap - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/blogs/fantastic-soap-information/the-incredible-benefits-of-tea-tree-oil-soap): The Incredible Benefits of Tea Tree Oil Soap - Old Whippersnapper's® Natural Handmade Manly Soaps
-    Updated: 2026-02-07T03:58:18Z
+    Updated: 2026-03-12T03:01:58Z
     Author: Old Whippersnapper's® Natural Handmade Manly Soaps
   - [The Benefits of Lard Soap: A Timeless Skincare Treasure - Old Whippersnapper's® Natural Handmade Manly Soaps](https://www.oldwhippersnappers.com/blogs/fantastic-soap-information/the-benefits-of-lard-soap-a-timeless-skincare-treasure): The Benefits of Lard Soap: A Timeless Skincare Treasure - Old Whippersnapper's® Natural Handmade Manly Soaps
-    Updated: 2026-02-07T03:58:30Z
+    Updated: 2026-03-12T03:01:59Z
     Author: Old Whippersnapper's® Natural Handmade Manly Soaps
 
 ## Store Pages
