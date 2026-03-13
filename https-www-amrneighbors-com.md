@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-06-30T14:48:59Z
 - Contact Email: info@amrneighbors.com
-- Updated At: 2026-03-04T00:00:40.513Z
+- Updated At: 2026-03-13T00:00:43.489Z
 
 ## Products
 
@@ -368,7 +368,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Picture1_eee45eb1-2061-4573-b54a-f74de2825778.jpg?v=1663357549
   Price: $13.99 USD
 - [Mustard Washcloth | American Neighbors](https://www.amrneighbors.com/products/mustard-washcloth): Refresh your everyday routine with this mustard washcloth from American Neighbors. Soft, absorbent, and perfect for daily use in any bathroom.
-  Updated: 2025-10-25T13:06:33Z
+  Updated: 2026-03-08T05:49:06Z
   Vendor: DOQU home
   Product Type: Towels
   Availability: Available
@@ -432,7 +432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/666.jpg?v=1663359700
   Price: $19.99 USD
 - [Blue Bath Towel | American Neighbors](https://www.amrneighbors.com/products/blue-bath-towel-1): Refresh your bathroom with this blue bath towel from American Neighbors. Soft, absorbent, and designed for everyday spa-style comfort.
-  Updated: 2025-10-25T13:00:23Z
+  Updated: 2026-03-06T06:14:42Z
   Vendor: DOQU home
   Product Type: Towels
   Availability: Available
@@ -593,7 +593,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Picture4_d54b1b61-f792-4910-a3b3-174ff7fb99a7.jpg?v=1663945392
   Price: $74.95 USD
 - [Handmade Decorative Glass Dish – 12" | American Neighbors](https://www.amrneighbors.com/products/decorative-dish-handmade): Add a touch of elegance to your space with this 12" handmade glass dish. Features overlapping blue and sky blue hues, perfect for decor or serving.
-  Updated: 2025-10-22T20:14:08Z
+  Updated: 2026-03-12T04:43:34Z
   Vendor: ipek
   Product Type: Glass
   Availability: Available
@@ -656,7 +656,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/3e5fc88a-5bbb-4dcd-b333-f3b27dc25e1b_size1856x1856.jpg?v=1664205768
   Price: $34.95 USD
 - [Handmade Jute Rug 47×71 in | Durable & Stylish Livingroom Rug](https://www.amrneighbors.com/products/rug-handmade-2): Discover our Handmade Jute Rug (47×71 in). Yarn-dyed jute, no azo dyes or harmful metals, weight ~2.5 lb — ideal for living room, dining or hallway.
-  Updated: 2025-10-19T11:53:35Z
+  Updated: 2026-03-12T06:33:30Z
   Vendor: Bella Maison
   Product Type: Flooring & Carpet
   Availability: Available
@@ -796,7 +796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/TLS216.jpg?v=1664788884
   Price: $33.00 USD
 - [Stoneware Textured Vase Set Handmade](https://www.amrneighbors.com/products/stoneware-textured-vase-set-handmade-2): Shop our exquisite collection of handmade stoneware textured vase sets. These beautifully crafted pieces will add a touch of elegance and sophistication to your home decor.
-  Updated: 2025-07-01T21:38:03Z
+  Updated: 2026-03-12T00:35:12Z
   Vendor: ipek
   Product Type: Sculptures & Statues
   Availability: Available
@@ -927,7 +927,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/642adfd9-5eb0-475a-aa8f-20a3b7306e99_size940x1410.jpg?v=1664996725
   Price: $29.99 USD
 - [Serving Plates Set](https://www.amrneighbors.com/products/serving-plates-set-2): Discover our versatile Serving Plates Set, perfect for entertaining guests or everyday use. Crafted with durability and style in mind, this set features a variety of sizes and designs to suit any occasion. Whether you're serving appetizers, main courses, or desserts, our Serving Plates Set adds an elegant touch to your table. Explore the possibilities and elevate your dining experience today.
-  Updated: 2025-07-01T21:37:43Z
+  Updated: 2026-03-08T00:50:47Z
   Vendor: Bella Maison
   Product Type: Plates
   Availability: Available
@@ -1160,13 +1160,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/8683650036289-35.webp?v=1667739702
   Price: $95.95 USD
-- [Porcelain Dinnerware Set – Service for 6 | American Neighbors](https://www.amrneighbors.com/products/porcelain-dinnerware-set-1): Elevate your dining experience with this elegant 24‑piece porcelain dinnerware set for 6. Ideal for both everyday meals and special occasions.
-  Updated: 2025-10-22T20:05:37Z
-  Vendor: Karaca Home
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/image153.03.07.9494-24.webp?v=1667822617
-  Price: $110.95 USD
 - [Porcelain Dinnerware Set – Service for 5 | American Neighbors](https://www.amrneighbors.com/products/porcelain-dinnerware-set-2): Elevate your dining experience with this elegant 20-piece porcelain dinnerware set for 5. Ideal for everyday meals and special occasions.
   Updated: 2025-10-25T04:10:02Z
   Vendor: Karaca Home
@@ -1189,7 +1182,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/8683650043058-52.webp?v=1667823950
   Price: $85.95 USD
 - [18-Piece Stainless Steel Cutlery Set for 6 | American Neighbors](https://www.amrneighbors.com/products/cutlery-set-18-pieces-for-6-person): Elevate your dining experience with this 18-piece stainless steel cutlery set for 6. Includes dinner forks, knives, and spoons—perfect for everyday or special occasions.
-  Updated: 2025-10-19T12:15:23Z
+  Updated: 2026-03-12T03:58:48Z
   Vendor: Karaca Home
   Product Type: Cutlery
   Availability: Available
@@ -1280,14 +1273,14 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Whole-White-Peppercorns.jpg?v=1674306896
   Price: $7.99 USD
 - [Organic Oregano | 0.19 lb](https://www.amrneighbors.com/products/organic-oregano-0-19-lb): Enhance your culinary creations with the exquisite flavor of organic oregano. Our organic oregano is carefully cultivated and handpicked for optimal freshness and taste. Add a dash of this aromatic herb to your dishes to elevate their flavor profiles. Perfect for both professional chefs and home cooks, this 0.19 lb pack of organic oregano is a must-have ingredient in your kitchen. Experience the true essence of organic oregano and savor the natural goodness in every bite.
-  Updated: 2025-09-01T09:03:53Z
+  Updated: 2026-03-08T18:12:27Z
   Vendor: Holistic Corner
   Product Type: Herbs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Oregano.jpg?v=1674307169
   Price: $11.99 USD
 - [Organic Turmeric Powder | 0.19 lb](https://www.amrneighbors.com/products/organic-turmeric-powder-0-19-lb): Indulge in the health benefits and vibrant flavor of our Organic Turmeric Powder, available in a convenient 0.19 lb package. Enhance your dishes with this natural and aromatic spice.
-  Updated: 2026-02-11T13:18:37Z
+  Updated: 2026-03-04T11:33:38Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -1314,13 +1307,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Garlic-Powder.jpg?v=1674309030
   Price: $5.99 USD
-- [Organic Bay leaf | 0.04 lb](https://www.amrneighbors.com/products/organic-bay-leaf-0-04-lb): Shop our organic bay leaf, weighing 0.04 lb. Discover the natural flavors and aromas of this culinary herb. Perfect for enhancing the taste of your favorite dishes. Buy now for a delightful cooking experience.
-  Updated: 2026-02-07T22:53:49Z
-  Vendor: Holistic Corner
-  Product Type: Herbs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Bay-Leaf.jpg?v=1674309422
-  Price: $6.99 USD
 - [Organic Raw Cacao Powder | 0.33 lb](https://www.amrneighbors.com/products/organic-raw-cacao-powder-0-33-lb): Experience the rich and pure taste of Organic Raw Cacao Powder. Made from carefully selected cacao beans, this high-quality powder is perfect for creating delicious and healthy desserts, smoothies, and beverages. With its natural antioxidants and nutrients, it's a guilt-free indulgence for chocolate lovers. Available in a convenient 0.33 lb package, this organic cacao powder is a must-have for any kitchen.
   Updated: 2025-11-13T07:50:06Z
   Vendor: Holistic Corner
@@ -1343,7 +1329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/WhatsAppImage2023-02-02at19.57.49.jpg?v=1675964222
   Price: $7.99 USD
 - [Organic Ginger Powder | 0.19 lb](https://www.amrneighbors.com/products/organic-ginger-powder-0-19-lb): Enhance your culinary creations with Organic Ginger Powder. This high-quality spice offers a distinct and aromatic flavor, perfect for adding a touch of warmth and depth to your dishes. Available in a convenient 0.19 lb package, it's a versatile ingredient that adds both taste and health benefits to your kitchen repertoire.
-  Updated: 2025-12-30T19:22:00Z
+  Updated: 2026-03-06T18:21:56Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -1385,7 +1371,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Chaste-Tree-berries.jpg?v=1674320427
   Price: $6.99 USD
 - [Organic Grounded Sumac | 0.19 lb](https://www.amrneighbors.com/products/organic-grounded-sumac-0-19-lb): Discover the exquisite taste of organic grounded sumac with our premium quality product. Add a tangy and flavorful twist to your dishes with this versatile spice. Shop now and elevate your culinary creations to new heights.
-  Updated: 2026-02-11T17:50:51Z
+  Updated: 2026-03-06T20:28:57Z
   Vendor: Holistic Corner
   Product Type: spices
   Availability: Available
@@ -1413,7 +1399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Aniseed-Powder01.webp?v=1674321338
   Price: $5.99 USD
 - [Organic Fennel Seed | 0.19 lb](https://www.amrneighbors.com/products/organic-fennel-seed-0-19-lb): Discover the delightful flavor of Organic Fennel Seed | 0.19 lb. Perfect for enhancing your dishes with a hint of sweetness and a subtle licorice-like taste.
-  Updated: 2025-07-01T21:35:46Z
+  Updated: 2026-03-09T22:04:46Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -2134,7 +2120,7 @@
   Updated: 2025-10-25T13:29:59Z
   Total Products: 6
 - [New Arrivals](https://www.amrneighbors.com/collections/new-arrivals): Discover the latest trends and must-have products in our New Arrivals collection. Stay stylish and up-to-date with our newest additions.
-  Updated: 2026-03-03T12:21:55Z
+  Updated: 2026-03-10T11:37:17Z
   Total Products: 267
 - [Living Room](https://www.amrneighbors.com/collections/living-room): Enhance your living room with our collection of rugs, vases, paintings, candles, TV blankets, and cushions. Elevate comfort and style.
   Updated: 2025-11-23T12:17:00Z
@@ -2161,10 +2147,10 @@
   Updated: 2025-07-01T21:37:30Z
   Total Products: 3
 - [Kitchen](https://www.amrneighbors.com/collections/kitchen): Upgrade your kitchen with our high-quality cookware, gadgets, and appliances. Explore the Kitchen collection for culinary excellence.
-  Updated: 2026-01-04T12:16:30Z
+  Updated: 2026-03-05T12:21:40Z
   Total Products: 33
 - [Plates & Bowls](https://www.amrneighbors.com/collections/plates): Elevate your dining experience with our stylish plates and bowls. From classic designs to modern styles, find the perfect pieces for your table.
-  Updated: 2025-07-01T21:37:47Z
+  Updated: 2026-03-05T12:21:40Z
   Total Products: 16
 - [TV Blanket](https://www.amrneighbors.com/collections/tv-blanket): Stay cozy and comfortable with our TV Blanket collection. Enjoy your favorite shows in warmth and style with our range of soft and luxurious blankets.
   Updated: 2025-11-23T12:17:00Z
@@ -2176,7 +2162,7 @@
   Updated: 2026-01-04T12:16:30Z
   Total Products: 17
 - [Dinnerware](https://www.amrneighbors.com/collections/dinnerware): Elevate your dining experience with our Dinnerware collection. From elegant plates to stylish serving platters, create a stunning table setting.
-  Updated: 2025-07-01T21:38:28Z
+  Updated: 2026-03-05T12:21:40Z
   Total Products: 33
 - [Silverware](https://www.amrneighbors.com/collections/silverware): Elevate your dining table with our exquisite silverware collection. From classic to modern designs, find the perfect utensils for any occasion.
   Updated: 2025-07-01T21:36:55Z
@@ -2191,16 +2177,16 @@
   Updated: 2025-07-01T21:37:02Z
   Total Products: 6
 - [Recommended products (Seguno)](https://www.amrneighbors.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-03-03T03:27:38Z
-  Total Products: 229
+  Updated: 2026-03-10T11:37:17Z
+  Total Products: 227
 - [Holistic Corner](https://www.amrneighbors.com/collections/holistic-corner): Nourish your body and elevate your well-being with our Holistic Corner collection. Discover wholesome grains, herbs, snacks, and spices for a healthy lifestyle.
-  Updated: 2026-02-20T12:19:15Z
+  Updated: 2026-03-10T11:37:17Z
   Total Products: 33
 - [Spices](https://www.amrneighbors.com/collections/spices): Discover a world of flavor with our exquisite collection of spices. Elevate your culinary creations and delight your taste buds.
-  Updated: 2026-02-12T12:20:45Z
+  Updated: 2026-03-10T11:37:17Z
   Total Products: 18
 - [Herbs](https://www.amrneighbors.com/collections/herbs): Enhance your culinary creations with our aromatic and flavorful herb collection. Explore a world of fresh flavors and elevate your dishes.
-  Updated: 2026-02-20T12:19:15Z
+  Updated: 2026-03-10T11:37:17Z
   Total Products: 7
 - [Grains](https://www.amrneighbors.com/collections/grains): Discover a diverse selection of nutritious grains to elevate your meals. From ancient favorites to modern options, find the perfect grain for your culinary creations.
   Updated: 2025-12-19T12:19:23Z
