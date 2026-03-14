@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-01-14T21:49:54Z
 - Contact Email: perfumeyami@gmail.com
-- Updated At: 2026-03-07T00:00:23.988Z
+- Updated At: 2026-03-14T00:00:33.659Z
 
 ## Products
 
@@ -431,145 +431,159 @@
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/b1.webp?v=1771591522
   Price: R 290.00 ZAR
 - [Princess of Arabia Perfume](https://perfume-yami.myshopify.com/products/princess-of-arabia-perfume): Princess of Arabia Perfume Fragrance Profile - *Type*: Luxurious, oriental fragrance - *Notes*: Features a blend of rich, exotic notes, including amber, rose, and oud Key Features - *Longevity*: Long-lasting scent that lingers throughout the day - *Sillage*: Moderate projection, making it suitable for everyday wear Packaging and Design - *Bottle Design*: Elegant, red velvet bottle with gold accents and a decorative cap - *Box Design*: Matching red box with gold trim and a white label featuring the brand name and logo Overall Impression Princess of Arabia is a sophisticated and alluring fragrance that exudes luxury and elegance. Its unique blend of notes and long-lasting scent make it an excellent choice for those who want a fragrance that will make a statement. Get Princess of Arabia Today! Ready to experience this captivating scent? Order now and discover your new signature fragrance!
-  Updated: 2026-02-20T19:25:06Z
+  Updated: 2026-03-10T16:09:01Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/AmeeratAlArabbyLattafaforWomen3_4Oz.jpg?v=1771592074
   Price: R 380.00 ZAR
 - [Khair Confection](https://perfume-yami.myshopify.com/products/khair-confection): Khair Confection by Paris Corner is a Floral Fruity Gourmand fragrance for women. This is a new fragrance. Khair Confection was launched in 2024. Top notes are Pear and Whipped Cream; middle notes are Cashmeran, Jasmine and Ylang Ylang; base notes are Vanilla, Marshmallow and Sandalwood.
-  Updated: 2026-02-20T20:29:22Z
+  Updated: 2026-03-10T16:09:03Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/b4.webp?v=1771594037
   Price: R 500.00 ZAR
 - [Vanilla Voyage Maison Asrar edp 100ml](https://perfume-yami.myshopify.com/products/vanilla-voyage-maison-asrar-edp-100ml): Top Notes: Caramel, Buttery (some sources also list Licorice or Cookie) Middle Notes: Jasmine, Tonka Bean, Honey Base Notes: Vanilla, Musk, Ambery
-  Updated: 2026-02-20T18:26:22Z
+  Updated: 2026-03-10T16:09:05Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/b6.webp?v=1771594375
   Price: R 800.00 ZAR
 - [Bade’e Al Oud Oud for Glory](https://perfume-yami.myshopify.com/products/bade-e-al-oud-oud-for-glory): Bade’e Al Oud Oud for Glory by Lattafa Perfumes is that amber-woody bop for anyone who wants to walk into a room and make history — not just an entrance. Dropped in 2020, this scent is a mood. 🌿 Top Notes: Saffron, Nutmeg, Lavender⚡️ Bright, spicy, unexpected — like confidence with a twist. 🔥 Heart Notes: Agarwood (Oud), Patchouli💥 The core hits deep: rich oud and earthy patchouli that stays with you. 🌌 Base Notes: Agarwood (Oud), Patchouli, Musk💫 Warm, lingering, addictive — the kind of base that turns heads and stays in memory. This is unisex energy bottled — bold yet velvety, spicy yet grounded. If you want a scent that says “I run this atmosphere”, this is your glory anthem.
-  Updated: 2026-02-21T18:54:37Z
+  Updated: 2026-03-10T16:09:09Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/rn-image_picker_lib_temp_c1506d62-32bc-4a24-987d-bc3253b3c116.jpg?v=1771700018
   Price: R 420.00 ZAR
 - [Hayaati by Lattafa Perfumes](https://perfume-yami.myshopify.com/products/hayaati-by-lattafa-perfumes): ✨ Hayaati by Lattafa Perfumes — R360A woody-aromatic flex for him and her. Launched in 2020, it opens with crisp apple & bergamot — like fresh energy walking into the room. In the heart, warm cinnamon and rich woodsy tones give it depth and personality. Finishing off with vanilla & musk, it leaves a smooth, cozy trail that lingers just right. It’s classy without being stuffy — perfect if you want a scent that feels both modern and unforgettable.
-  Updated: 2026-02-21T19:08:09Z
+  Updated: 2026-03-10T16:09:11Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/V3.jpg?v=1771700855
   Price: R 360.00 ZAR
 - [Intense Wayfarer by Pendora Scents](https://perfume-yami.myshopify.com/products/intense-wayfarer-by-pendora-scents): 🔥 Intense Wayfarer by Pendora ScentsAn amber-spicy scent built for men who walk in and shift the mood.It opens with cardamom — sharp, magnetic energy.The heart melts into toffee — smooth, addictive warmth.The dry-down lands on amberwood — deep, confident, unforgettable. Why guys love it: Warm, spicy, and seductive without trying too hard Perfect for nights out, dates, and cooler weather Smells premium. Wears confident. Leaves a trail.
-  Updated: 2026-02-21T19:25:48Z
+  Updated: 2026-03-10T16:09:15Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/V4.jpg?v=1771701826
   Price: R 360.00 ZAR
 - [Mousuf Eau De Parfum (100ml) For Women by Armaf](https://perfume-yami.myshopify.com/products/mousuf-eau-de-parfum-100ml-for-women-by-armaf): ✨ Mousuf Eau De Parfum (100ml) For Women by ArmafSweet, dark, and dangerously addictive. This scent opens with a grape-chocolaty note that feels like dessert with a secret. The heart turns rich with musky oud — bold but elegant. It dries down into a floral-caramel glow that clings to the skin like a soft flex. Why it hits: Sweet but grown — not childish Cozy, mysterious, and feminine power energy Perfect for nights out, dates, and cool evenings Ad hooks (pick your poison): “Soft on the nose. Loud in the room.” “Smell sweet. Move dangerous.” “One spray, instant aura.”
-  Updated: 2026-02-21T19:43:17Z
+  Updated: 2026-03-10T16:09:17Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/V6.jpg?v=1771702917
   Price: R 320.00 ZAR
 - [Yara Elixir i](https://perfume-yami.myshopify.com/products/yara-elixir-i): Description: Yara Elixir is a warm, creamy, sweet fragrance that wraps you in a soft fruity-floral cloud. It opens with juicy red berries, melts into jasmine and rose, and settles into a cosy blend of vanilla, musk, and amber. A perfect scent for anyone who loves a long-lasting, feminine fragrance with a soft, modern vibe. Notes: Top: Red Berries, Citrus, Soft Fruits Middle: Jasmine, Rose, Floral Bouquet Base: Vanilla, Musk, Amber, Sweet Woods Size: 100ml Delivery: Nationwide delivery available
-  Updated: 2026-02-22T06:45:49Z
+  Updated: 2026-03-10T16:09:20Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/v7.webp?v=1771742688
   Price: R 550.00 ZAR
 - [Zara Man EDP 100ml](https://perfume-yami.myshopify.com/products/zara-man-edp-100ml): Every great scent moves in layers. Here’s how this fragrance unfolds on the skin, from first spray to final whisper: ✨ Top Notes – The First Impression Jasmine, Gardenia, Blackcurrant, Lemon, Bergamot, MandarinThe opening is bright and uplifting — fresh citrus sparkles through soft white florals, with a juicy blackcurrant twist. It hits clean, vibrant, and instantly inviting. 🌿 Heart Notes – The True Character Orchid, Spicy Notes, Fruity NotesAs the citrus settles, the fragrance reveals its soul. Creamy orchid blends with gentle spice and ripe fruit, adding warmth and personality. This is where the scent becomes memorable. 🔥 Base Notes – The Lasting Signature Vetiver, Patchouli, Sandalwood, Incense, Amber, Chocolate, VanillaThe dry-down is deep, smooth, and addictive. Earthy woods and incense bring depth, while amber, chocolate, and vanilla leave a soft, sensual trail that lingers on skin and clothing. 🧠 What This Scent Feels Like Mood: Elegant, warm, confident Vibe: Sweet-woody with a soft spicy edge Best for: Evening wear, cool weather, special moments Longevity profile: Strong base notes = longer-lasting presence If you’re exploring rich, layered fragrances with depth and character—styles popular in modern Middle Eastern perfumery like those from Lattafa Perfumes—this note structure is right in that lane. ✨ Want to explore fragrances with this kind of depth and balance?👉 Explore curated scents
-  Updated: 2026-02-22T21:03:14Z
+  Updated: 2026-03-10T16:09:23Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/v9.webp?v=1771793971
   Price: R 280.00 ZAR
 - [Hypnotic Oud](https://perfume-yami.myshopify.com/products/hypnotic-oud-fragrance-notes-breakdown): Hypnotic Oud – Fragrance Notes Breakdown A warm, addictive blend that balances spice, woods, and sweetness—crafted for those who like their presence felt, not announced. Top Notes:Clove, SaffronSpicy and golden at first spray—bold but refined. It opens with heat and intrigue, like a spark in the dark. Heart Notes:Caramel, Akigalawood, CashmeranThis is where it melts. Soft woods wrapped in smooth caramel warmth—creamy, modern, and quietly luxurious. Base Notes:Vanilla, AmberThe dry-down lingers with a soft, glowing sweetness and deep amber warmth. Comforting, sensual, unforgettable. ✨ The kind of scent that leaves a signature without saying a word.Discover the full experience here:
-  Updated: 2026-02-24T08:01:15Z
+  Updated: 2026-03-10T16:09:25Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/L1.webp?v=1771876793
   Price: R 750.00 ZAR
 - [Hypnotic Oud Quinze](https://perfume-yami.myshopify.com/products/hypnotic-oud-quinze): Hypnotic Oud Quinze XV – North Stag Step into the world of Hypnotic Oud Quinze XV, a charismatic unisex fragrance from North Stag, launched in 2023. This scent celebrates the bold elegance of leather and oud, fusing spicy, woody, and oriental notes for a truly unforgettable experience. Top Notes: A vibrant introduction of cardamom, saffron, and juicy grapefruit, enhanced by a hint of cinnamon, smoky labdanum, and earthy nagarmotha. Heart Notes: A deep, complex blend of sandalwood, tobacco, amber, and a whisper of jasmine—rich, multifaceted, and unforgettable. Base Notes: The fragrance settles into an intense veil of warm leather, oud, creamy tonka bean, and soft musk, leaving a long-lasting, luxurious trail. Hypnotic Oud Quinze XV perfectly balances tradition with modernity, making it the ideal choice for anyone who wants to express strength, elegance, and individuality through scent.
-  Updated: 2026-02-23T20:12:57Z
+  Updated: 2026-03-10T16:08:50Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/NorthStagHypnoticOudQuinzeXVExtraitdeParfum100ml_unisex.jpg?v=1771877512
   Price: R 480.00 ZAR
 - [Oud Mystery](https://perfume-yami.myshopify.com/products/oud-mystery): Oud Mystery – Where Elegance Meets EnigmaStep into a world of allure with Oud Mystery, a fragrance that blends rich, smoky oud with warm amber, delicate spices, and a whisper of vanilla. Every note is designed to captivate, leaving a trail of sophistication and intrigue wherever you go. Perfect for evenings, special moments, or whenever you want to be unforgettable.
-  Updated: 2026-02-23T21:59:16Z
+  Updated: 2026-03-10T16:08:48Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/ArabPerfumeOudForGloryBade_eAlOudEaudeParfumsmokyaromaticOudhperfumeunisex100mlEDP.jpg?v=1771882137
   Price: R 450.00 ZAR
 - [CLUB DE NUIT INTENSE MAN](https://perfume-yami.myshopify.com/products/club-de-nuit-intense-man): This isn’t a “nice” fragrance.This is presence.This is walking into the room and the room changing its mood. Opening (first impression):Bright citrus and dark fruit collide — lemon, blackcurrant, apple, bergamot, pineapple. Fresh, juicy, confident. The kind of start that turns heads. Heart (the character):Rose and jasmine bring smooth elegance, while birch adds a smoky edge. Clean but mysterious. Soft, but with teeth. Base (the memory you leave):Musk, ambergris, patchouli, vanilla. Warm. Deep. Addictive. This is what lingers on clothes, on skin, on thoughts. Vibe:Woody • Spicy • MuskyVery long-lastingStrong projection — your presence enters before you do. Best for:Evening wear, formal events, special occasions.Moments that matter. Nights you want remembered.
-  Updated: 2026-02-25T06:46:20Z
+  Updated: 2026-03-12T03:24:34Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/L3.webp?v=1771957720
   Price: R 699.00 ZAR
 - [Barakkat Rouge 540 Extrait edp 50ml](https://perfume-yami.myshopify.com/products/barakkat-rouge-540-extrait-edp-50ml): Barakkat Rouge 540 Extrait De Parfum by Fragrance World Barakkat Rouge 540 Extrait De Parfum is a Amber Floral fragrance for women and men. Inspired by Baccarat Rouge 540 Extrait de Parfum Maison Francis Kurkdjian
-  Updated: 2026-02-24T19:00:11Z
+  Updated: 2026-03-12T03:24:31Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/L5.webp?v=1771959497
   Price: R 150.00 ZAR
 - [👑🔥 Lady President – Queen of Fire (80ml EDP) 🔥👑 By Emper](https://perfume-yami.myshopify.com/products/👑🔥-lady-president-queen-of-fire-80ml-edp-🔥👑-by-emper): 👑🔥 Lady President – Queen of Fire (80ml EDP) 🔥👑By Emper She doesn’t wait for permission.She walks in like the room belongs to her. This fragrance opens bright and spicy — citrus and red berries snapping your senses awake.Then comes the soft power: jasmine and rose blooming with quiet confidence.And when the heat settles?Amber, vanilla, and sandalwood wrap around your skin like a slow-burning crown. This isn’t a “cute” scent.This is main character energy.Warm. Feminine. Dangerous in the best way. ✨ Long-lasting EDP✨ Perfect for nights out, dates, and boss moves✨ Elegant bottle, royal presence 🛒 Claim your crown here:👉 https://perfume-yami.myshopify.com/products/lady-president-queen-of-fire-emper-80ml-edp Smell like leadership. Walk like legacy.
-  Updated: 2026-02-26T20:00:23Z
+  Updated: 2026-03-12T03:24:29Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/L11.webp?v=1772113561
   Price: R 350.00 ZAR
 - [PRIVE SAFFRON 60ML EDP](https://perfume-yami.myshopify.com/products/prive-saffron-60ml-edp): BOLD. WARM. ADDICTIVE. Some fragrances whisper.This one leaves an echo. Prive Saffron is a rich, spicy-woody Eau de Parfum that wraps you in warmth and quiet confidence. From the first spray, it opens with a burst of smooth spice that feels luxurious and inviting. As it settles, saffron takes the spotlight — deep, slightly leathery, and irresistibly seductive. The dry-down melts into soft woods that stay close to the skin, creating a clean, elegant trail that lingers long after you’ve left the room. This is the scent for people who like their presence felt — not loud, just unforgettable.Unisex. Timeless. Effortlessly premium. 🔥 Fragrance Notes Top Notes: Warm SpicesHeart (Middle) Notes: SaffronBase Notes: Woody Notes ✨ Why You’ll Love It Long-lasting Eau de Parfum concentration Warm, spicy, and smooth — perfect for evenings & cooler weather Unisex appeal (masculine edge with a smooth, classy finish) Smells luxurious without the luxury price tag Ideal for dates, nights out, and signature-scent energy Size: 60mlType: Eau de Parfum (EDP)Vibe: Warm • Spicy • Woody • Seductive
-  Updated: 2026-02-26T22:03:36Z
+  Updated: 2026-03-11T20:15:38Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/L13.webp?v=1772115216
   Price: R 380.00 ZAR
 - [Oud Al Arabi](https://perfume-yami.myshopify.com/products/oud-al-arabi): Oud Al Arabi is a traditional Middle Eastern-style fragrance known for its rich, woody, and luxurious scent profile. While exact formulations can vary by brand (Lattafa, Ard Al Zaafaran, etc.), the common top notes found in most Oud Al Arabi perfumes are: 🌿 Top Notes of Oud Al Arabi: Saffron – warm, spicy, and slightly leathery Rose – soft, floral, and romantic Bergamot (in some variations) – adds a fresh, citrusy brightness These notes create an elegant and exotic opening that leads into the heart and base notes of agarwood (oud), amber, musk, and sandalwood.
-  Updated: 2026-02-27T05:03:15Z
+  Updated: 2026-03-11T20:15:32Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/8c6597.webp?v=1772128404
   Price: R 350.00 ZAR
 - [Qaed Al Fursan](https://perfume-yami.myshopify.com/products/qaed-al-fursan): 💈 Smell Like a King After Every Shave! 💈🔥 Introducing Qaed Al Fursan Aftershave by Lattafa – the bold, masculine scent that lingers long after you’ve left the room. 👑💨 🧼✨ A Touch of Luxury After Every Shave Infused with the legendary Qaed Al Fursan aroma – woody 🌲, spicy 🌶️, and irresistibly powerful 💪. ✅ Long-lasting freshness 🌬️ ✅ Soothes & cools the skin ❄️ ✅ Complements the iconic EDP 💎 💸 Price: R500💯 Slogan: Quality is our identity⏳ Limited stock – secure yours tod
-  Updated: 2026-02-27T14:24:50Z
+  Updated: 2026-03-11T20:15:29Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/b1ff22.webp?v=1772129880
   Price: R 500.00 ZAR
 - [aed Al Fursan Unlimited (Lattafa) 90ml](https://perfume-yami.myshopify.com/products/aed-al-fursan-unlimited-lattafa-90ml): 🌴 Perfume Description — Qaed Al Fursan Unlimited (Lattafa) 90ml A bottle that whispers “tropical sunset energy” — sweet but grounded, lively but calm. Crack the cap and it’s like: ✨ Top notes: juicy pineapple + fresh citrus that hits first — almost like a breeze off the beach.🌺 Heart notes: lush frangipani, jasmine, ylang-ylang — floral warmth that hugs your senses without screaming.🔥 Base notes: creamy vanilla + sandalwood + soft musk — the kind of whisper that stays with you long after you leave. It’s not just scent — it’s vibes. Easygoing but confident. Sweet without being syrupy. Warm without weighing you down. This is a feel-good signature that plays like summer and sticks like a memory.
-  Updated: 2026-02-28T15:15:32Z
+  Updated: 2026-03-11T20:15:26Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/1Q.jpg?v=1772291689
   Price: R 500.00 ZAR
 - [Lattafa Yara Tous – Tropical Elegance in a Bottle](https://perfume-yami.myshopify.com/products/lattafa-yara-tous-tropical-elegance-in-a-bottle): ✨ Lattafa Yara Tous – Tropical Elegance in a Bottle ✨ Bring a touch of sunshine to your fragrance collection with Yara Tous by Lattafa Perfumes. This vibrant scent blends tropical fruits, soft florals, and creamy vanilla to create a fragrance that feels warm, playful, and beautifully feminine. The fragrance opens with juicy notes of mango, coconut, and passionfruit, giving it a bright tropical character. In the heart, delicate jasmine and orange blossom add elegance, while the base settles into smooth vanilla and musk for a soft, long-lasting finish. A perfect fragrance for everyday wear, brunch dates, or whenever you want to feel fresh, confident, and radiant. 🌸 Fragrance Notes• Top: Mango, Coconut, Passionfruit• Heart: Jasmine, Orange Blossom• Base: Vanilla, Musk 📦 Product: Yara Tous Eau de Parfum 🚚 Delivery: Nationwide via courier ✨ Perfume YamiWhere quality is identity.
-  Updated: 2026-03-05T10:51:58Z
+  Updated: 2026-03-11T20:15:24Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/w1.jpg?v=1772707873
   Price: R 400.00 ZAR
+- [Signature by Fragrance World 80ml](https://perfume-yami.myshopify.com/products/signature-by-fragrance-world-80ml): A scent that speaks before you even say a word. Signature by Fragrance World blends smoky warmth, creamy woods, and soft florals into a fragrance that feels bold yet refined. It opens with a unique spark of incense and pink pepper, softened by the juicy sweetness of vine peach and the nutty touch of hazelnut. As it settles, the heart reveals a smooth floral layer of rose and jasmine blossoms, wrapped with delicate osmanthus and a hint of coconut that adds a creamy elegance. The base dries down into a rich, long-lasting blend of sandalwood, ambergris tones, white musk, and labdanum — leaving a warm, confident trail that lingers beautifully on the skin. Fragrance Notes • Top Notes: Incense, Pink Pepper, Vine Peach, Hazelnut• Heart Notes: Rose, Jasmine Blossoms, Osmanthus, Coconut• Base Notes: Sandalwood, Ambergris Accord, White Musk, Labdanum Fragrance Intensity: MediumSize: 80ml
+  Updated: 2026-03-13T03:09:12Z
+  Vendor: Perfume Yami 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/E0.webp?v=1773371008
+  Price: R 950.00 ZAR
+- [Scandant by nigth edp 50ml](https://perfume-yami.myshopify.com/products/scandant-by-nigth-edp-50ml): Top Notes: Honey, bitter orange, and bright citrus accords open the fragrance with a sweet yet vibrant burst, creating an inviting and uplifting first impression. Heart Notes: The heart unfolds with a luscious blend of cherry, creamy tuberose, orange blossom, and juicy pear, bringing a soft floral sweetness. Subtle hints of Himalayan nard (jatamansi) add a unique depth and elegance. Base Notes: The scent settles into a rich and comforting base of tonka bean, vanilla, patchouli, sandalwood, amberwood, and white musk, leaving behind a warm, woody-sweet trail that lingers beautifully on the skin. Fragrance Intensity: MediumSize: 80ml
+  Updated: 2026-03-13T16:32:24Z
+  Vendor: Perfume Yami 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/e4.webp?v=1773419447
+  Price: R 150.00 ZAR
 
 ## Collections
 
