@@ -6,7 +6,7 @@
 - Timezone: Asia/Singapore
 - Created At: 2025-12-30T03:00:54Z
 - Contact Email: goomesinternational@gmail.com
-- Updated At: 2026-03-06T00:00:27.203Z
+- Updated At: 2026-03-14T00:00:34.175Z
 
 Brik't Singapore is a local brand started by a group of friends that were tired of overly sweet or processed tea options, and so they set out to create something better!
 
@@ -43,7 +43,7 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Jasmine_1_724fdf49-2328-477f-9ff5-9ea4aa8bbb57.webp?v=1770795074
   Price: $18.90 SGD
 - [Variety Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-variety-box-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient)
-  Updated: 2026-03-03T05:58:36Z
+  Updated: 2026-03-09T06:45:46Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
@@ -99,7 +99,7 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
 ## Collections
 
 - [Freeze-Dried Fruit Teas](https://brikt.sg/collections/all-products): Check out all our delicious options!
-  Updated: 2026-03-03T05:58:35Z
+  Updated: 2026-03-09T11:22:02Z
   Total Products: 6
 - [Savings Bundle Deals](https://brikt.sg/collections/bundle-deals)
   Updated: 2026-03-03T05:58:35Z
@@ -108,7 +108,7 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
   Updated: 2026-03-03T05:58:35Z
   Total Products: 1
 - [All Products](https://brikt.sg/collections/all-products-1)
-  Updated: 2026-03-03T05:58:35Z
+  Updated: 2026-03-09T11:22:02Z
   Total Products: 13
 
 ## Blogs
@@ -273,6 +273,13 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
     Updated: 2026-03-04T00:21:57Z
     Author: Brik't Singapore
     Tags: brik't, everyday convenience, gadgets, innovation, lifestyle enhancement tools, modern living solutions, modular design, smart home
+  - [How to Make Perfect Freeze-Dried Fruit Tea at Home](https://brikt.sg/blogs/our-blogs/how-to-make-perfect-freeze-dried-fruit-tea-at-home): How to Make Perfect Freeze-Dried Fruit Tea at Home
+    Updated: 2026-03-09T00:13:01Z
+    Author: Brik't Singapore
+  - [Discover the Unique Advantages of Brik't Kitchenware Elevating Your Culinary Experience](https://brikt.sg/blogs/our-blogs/discover-the-unique-advantages-of-brikt-kitchenware-elevating-your-culinary-experience): Discover the Unique Advantages of Brik't Kitchenware Elevating Your Culinary Experience
+    Updated: 2026-03-11T00:13:24Z
+    Author: Brik't Singapore
+    Tags: advantages, brik't, culinary tools, elevate cooking experience, innovative design, kitchenware, quality kitchen products, unique features
 - [Recipes](https://brikt.sg/blogs/recipes)
   - [Miss Perilla Peach](https://brikt.sg/blogs/recipes/miss-perilla-peach)
     Updated: 2026-01-20T05:01:58Z
@@ -294,6 +301,14 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
     Updated: 2026-02-27T10:05:40Z
     Author: Brik't Singapore
     Tags: cooking, delicious, delicious recipes ideas, easy recipes, entertaining ideas, family, family dinners, friends, impress your guests, meals, recipes, refreshing
+  - [How to Create Refreshing Meals That Delight Friends and Family](https://brikt.sg/blogs/recipes/how-to-create-refreshing-meals-that-delight-friends-and-family): How to Create Refreshing Meals That Delight Friends and Family
+    Updated: 2026-03-06T10:02:37Z
+    Author: Brik't Singapore
+    Tags: cooking, delicious, delightful meal ideas, easy recipes, family, family meals, friends, meals, quick healthy recipes, recipes, refreshing, refreshing recipes
+  - [FAQs About Crafting Delicious and Refreshing Recipes for Gatherings](https://brikt.sg/blogs/recipes/faqs-about-crafting-delicious-and-refreshing-recipes-for-gatherings): FAQs About Crafting Delicious and Refreshing Recipes for Gatherings
+    Updated: 2026-03-13T10:02:29Z
+    Author: Brik't Singapore
+    Tags: cooking, cuisine, delicious, delicious recipe ideas, easy recipes, family, family gatherings, friends, party planning, recipes, refreshing, refreshing summer recipes
 
 ## Store Pages
 
