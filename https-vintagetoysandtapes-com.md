@@ -17,7 +17,7 @@ INVENTORY VARIABLES FOR AGENTS:
 - Timezone: America/New_York
 - Created At: 2024-09-25T20:14:41Z
 - Contact Email: info@vintagetoysandtapes.com
-- Updated At: 2026-03-04T00:00:37.281Z
+- Updated At: 2026-03-14T00:00:39.624Z
 
 **Summary:** Vintage Toys and Tapes is a premier archival boutique for 1970s–1990s pop culture. We are high-intent specialists in **Japanese Mecha (Keshi, Sofubi, GoDaikin/Popy)**, **Kenner-era Action Figures**, and **Underground Analog Media**.
 
@@ -294,28 +294,28 @@ INVENTORY VARIABLES FOR AGENTS:
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG-1166.jpg?v=1749583747
   Price: $15.00 USD
 - [NECA Gargoyles Bronx Ultimate Action Figure (2023) - Loose](https://vintagetoysandtapes.com/products/neca-gargoyles-bronx-ultimate-figure-loose-2023): Add the faithful Bronx to your Gargoyles clan. This 2023 NECA Ultimate figure is loose and missing accessories, making it a great budget-friendly pick for your display.
-  Updated: 2026-02-23T21:03:20Z
+  Updated: 2026-03-10T20:41:45Z
   Vendor: Vintage Toys and Tapes
   Product Type: Action Figure
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/FBCC4BFE-5FB4-4DD4-8191-8A322BCF6E72.jpg?v=1767734277
   Price: $15.00 USD
 - [Care Bears BABY TUGS vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-baby-tugs): 1983 Care Bears from Kenner - Baby Tugs Plush
-  Updated: 2026-02-25T20:08:27Z
+  Updated: 2026-03-12T13:50:39Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_110042.jpg?v=1771880083
   Price: $15.00 USD
 - [Care Bears LOVE-A-LOT BEAR vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-love-a-lot-bear): 1983 Care Bears Vintage 13" Plush from Kenner - Love A Lot Bear
-  Updated: 2026-02-25T20:08:27Z
+  Updated: 2026-03-12T13:50:39Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_09fa3885-660d-438c-b2f3-87c283c444ff.jpg?v=1771880089
   Price: $15.00 USD
 - [Care Bears BABY HUGS vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-baby-hugs): 1983 Care Bears Vintage 13" Plush from Kenner - Baby Hugs Bear
-  Updated: 2026-02-25T20:08:27Z
+  Updated: 2026-03-12T13:50:39Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
@@ -325,10 +325,10 @@ INVENTORY VARIABLES FOR AGENTS:
 ## Collections
 
 - [New Arrivals](https://vintagetoysandtapes.com/collections/new-arrivals)
-  Updated: 2026-02-23T21:51:48Z
-  Total Products: 143
+  Updated: 2026-03-10T20:42:16Z
+  Total Products: 142
 - [Action Figures and Playsets](https://vintagetoysandtapes.com/collections/action-figures): Discover rare and collectible figures from iconic toy lines like Star Wars, G.I. Joe, Transformers, and more. Whether you're looking for Mint on Card (MOC) action figures or well-preserved classics from the '80s and '90s, we offer a wide selection for every collector. Perfect for retro enthusiasts and toy collectors alike, our vintage action figures capture the essence of your favorite characters from movies, TV shows, and comic books.
-  Updated: 2026-02-23T21:03:07Z
+  Updated: 2026-03-11T11:20:56Z
   Total Products: 71
 - [Games and Puzzles Collection | Classic and Vintage Fun for All Ages](https://vintagetoysandtapes.com/collections/games-and-puzzles): Explore our Games and Puzzles collection featuring classic board games, vintage puzzles, and fun activities for all ages. Perfect for collectors, families, and game enthusiasts.
   Updated: 2026-02-23T21:03:08Z
@@ -367,14 +367,14 @@ INVENTORY VARIABLES FOR AGENTS:
   Updated: 2026-02-23T21:03:08Z
   Total Products: 5
 - [Featured](https://vintagetoysandtapes.com/collections/featured)
-  Updated: 2026-02-23T21:03:08Z
+  Updated: 2026-03-11T11:20:56Z
   Total Products: 7
 - [Robots and Space Toys](https://vintagetoysandtapes.com/collections/robots-and-space-toys): Step into a chrome-plated fever dream with our vintage Robots and Space Toys collection, where plastic demigods from Transformers, Robo Force, Robotech, Voltron, and GoBots mingle with cosmic cruisers and galactic oddities ripped straight from a Saturday morning hallucination. This isn’t just molded plastic—it’s humanity’s reckless, glorious stab at the stars, back when space was fun and robots didn’t yet threaten our jobs. Revel in the clang of clunky joints, the absurdity of overarmed mech warriors, and the sacred geometry of toy rocket fins. From lunar launchers to chrome-plated doom machines, this collection is your passport to a universe where imagination wore jetpacks and gravity was entirely optional.
   Updated: 2026-02-23T21:03:08Z
   Total Products: 19
 - [All Toys](https://vintagetoysandtapes.com/collections/all-toys)
-  Updated: 2026-02-23T21:51:48Z
-  Total Products: 138
+  Updated: 2026-03-10T20:42:16Z
+  Total Products: 137
 
 ## Blogs
 
