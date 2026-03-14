@@ -3,22 +3,22 @@
 - Domain: https://skin-revive.co.uk
 - Locale: en
 - Currency: GBP
-- Timezone: Asia/Bangkok
+- Timezone: Europe/London
 - Created At: 2026-01-31T12:27:42Z
 - Contact Email: thang.skinrevive@gmail.com
-- Updated At: 2026-03-07T00:00:38.742Z
+- Updated At: 2026-03-14T00:00:40.320Z
 
 ## Products
 
 - [Facial Massager Face and Neck, Face S culpting Wand Tool with 7 Color - Birthday, Christmas, Mothers Day, Valentines Day Gifts for Her, Mom, Best Friend, Wife, Teacher (White)](https://skin-revive.co.uk/products/led-face-and-neck-massager): Revitalise your skin with our best- LED light face massager. Reduce wrinkles and tighten loose skin with 3-in-1 sonic vibration. Free UK Delivery.
-  Updated: 2026-03-06T00:22:49Z
+  Updated: 2026-03-12T10:54:07Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/7158/4213/files/skin-revive-led-neck-massager-red-light-tech-neck-.webp?v=1772680116
   Price: £29.99 GBP
 - [Priority Processing & Shipping Protection | Skip the Queue](https://skin-revive.co.uk/products/priority-processing-protection): Upgrade to VIP status. Includes fast-track dispatch (skip the queue), full insurance against loss/theft, and instant priority support for your Skin Revive order.
-  Updated: 2026-02-11T06:28:57Z
+  Updated: 2026-03-12T10:54:07Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -28,7 +28,7 @@
 ## Collections
 
 - [LED Face Massager](https://skin-revive.co.uk/collections/led-face-massager)
-  Updated: 2026-03-05T01:41:23Z
+  Updated: 2026-03-12T10:54:06Z
   Total Products: 1
 
 ## Blogs
@@ -55,11 +55,14 @@
   - [How to Use an LED Face Massager at Home: A Clinical Guide to Photobiomodulation and The Thermal-Serum Protocol](https://skin-revive.co.uk/blogs/led-face-massager/how-to-use-led-face-massager-at-home): <p><span class="router-outlet-wrapper ng-tns-c2999975164-0"><span class="inline-code ng-star-inserted">Struggling with tech-neck or sagging skin? Learn exactly how to use an LED face massager at home. Discover the 3-step Thermodynamic Serum Sandwich protocol for maximum clinical results.</span></span></p>
     Updated: 2026-03-06T04:27:42Z
     Author: My Store Admin
+  - [How Often Should You Use an LED Face Massager? The Clinical Guide to Photobiomodulation Dosimetry and Protocols](https://skin-revive.co.uk/blogs/led-face-massager/how-often-should-you-use-led-face-massager): <p><span class="router-outlet-wrapper ng-tns-c2999975164-0"><span class="ng-star-inserted">Wondering how often should you use an LED face massager? Discover the exact clinical routine (minutes &amp; days) to lift tech-neck safely without skin fatigue.</span></span></p>
+    Updated: 2026-03-09T04:28:33Z
+    Author: My Store Admin
 
 ## Store Pages
 
 - [Contact Us | Customer Support & Enquiries | Skin Revive](https://skin-revive.co.uk/pages/contact): /* --- SKIN REVIVE PREMIUM STYLES (Color: #3D001D) --- */ .sr-contact-intro { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, H...
-  Updated: 2026-02-06T08:41:58Z
+  Updated: 2026-03-12T00:58:33Z
 - [Shipping & Delivery | Free Tracked UK Shipping | Skin Revive](https://skin-revive.co.uk/pages/shipping-policy): /* --- SKIN REVIVE PREMIUM STYLES (Color: #3D001D) --- */ .sr-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve...
   Updated: 2026-02-03T10:52:37Z
 - [Returns & Refund Policy | 30-Day Money-Back Guarantee | Skin Revive](https://skin-revive.co.uk/pages/refund-policy): /* --- SKIN REVIVE PREMIUM STYLES (Color: #3D001D) --- */ .sr-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve...
@@ -100,7 +103,15 @@
 ## Policies
 
 - [Privacy Policy](https://skin-revive.co.uk/policies/privacy-policy)
-  Updated: 2026-01-31T19:27:49+07:00
+  Updated: 2026-01-31T12:27:49+00:00
+- [Shipping Policy](https://skin-revive.co.uk/policies/shipping-policy)
+  Updated: 2026-03-12T10:58:07+00:00
+- [Refund Policy](https://skin-revive.co.uk/policies/refund-policy)
+  Updated: 2026-03-12T10:57:21+00:00
+- [Terms of Service](https://skin-revive.co.uk/policies/terms-of-service)
+  Updated: 2026-03-12T10:57:53+00:00
+- [Contact Information](https://skin-revive.co.uk/policies/contact-information)
+  Updated: 2026-03-12T10:58:57+00:00
 
 ## Optional
 
