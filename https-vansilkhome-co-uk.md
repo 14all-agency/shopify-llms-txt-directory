@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-23T02:38:43Z
 - Contact Email: support@vansilkhome.co.uk
-- Updated At: 2026-03-07T00:00:39.559Z
+- Updated At: 2026-03-14T00:00:42.119Z
 
 ## Products
 
@@ -4197,6 +4197,9 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Spring 2026 Bedroom Trends: Bringing Earthy Tones and Botanical Elegance Indoors](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/spring-2026-bedroom-trends-bringing-earthy-tones-and-botanical-elegance-indoors)
     Updated: 2026-02-24T15:09:30Z
     Author: WenQing Wang
+  - [Just in Time for Mother’s Day: Give Mum the Gift of Luxury Beauty Sleep](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/just-in-time-mothers-day-gift-luxury-beauty-sleep)
+    Updated: 2026-03-12T06:49:58Z
+    Author: ShopGenius
 
 ## Store Pages
 
