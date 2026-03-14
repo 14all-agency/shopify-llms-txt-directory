@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2016-08-12T18:58:45Z
 - Contact Email: hello@restedpillow.com
-- Updated At: 2026-03-07T00:00:49.010Z
+- Updated At: 2026-03-14T00:00:54.996Z
 
 ## Products
 
 - [Snoozefest | Rested Pillow Mattress](https://www.restedpillow.com/products/snoozefest): Our Snoozefest is a firmer hybrid mattress with a taught 1.8lb 32ILD CertiPUR-US® foam, and hand quilting a traditional tight top with cooling gel foam.
-  Updated: 2025-10-17T15:57:50Z
+  Updated: 2026-03-10T20:22:27Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Snoozefest.jpg?v=1741094664
     Price: $1,499.00 USD
 - [Bedder Days | Rested Pillow Mattress](https://www.restedpillow.com/products/bedder-days): Bedder Days has a pillow top and supportive pocket sping unit to help keep your spine aligned. You'd be hard-pressed to find this much quality at this price.
-  Updated: 2026-03-02T20:30:36Z
+  Updated: 2026-03-13T18:23:27Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/bedder-days-184779.jpg?v=1741094664
     Price: $1,599.00 USD
 - [Mattress Protector](https://www.restedpillow.com/products/mattress-protector): Our mattress protector keeps your mattress clean with a waterproof barrier, protecting from accidents and stains, yet is breathable and can be dried on low heat.
-  Updated: 2026-03-04T20:04:57Z
+  Updated: 2026-03-13T18:23:28Z
   Vendor: Rested Pillow Mattress
   Product Type: Mattress Protector
   Availability: Available
@@ -105,7 +105,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/mattress-protector-200053.jpg?v=1737816891
     Price: $109.00 USD
 - [Sleeping Bear Hybrid Mattress - Rested Pillow Mattress](https://www.restedpillow.com/products/sleeping-bear): Sleeping Bear is one of our most popular hybrid mattresses with its commercial-grade foam found in luxury hotels across America and hundreds of pocket springs.
-  Updated: 2026-03-05T21:40:59Z
+  Updated: 2026-03-13T18:44:07Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -168,7 +168,7 @@
     Availability: Available
     Price: $299.00 USD
 - [Sunny Side Luxury Organic Mattress - Rested Pillow Mattress](https://www.restedpillow.com/products/sunny-side): Wake up on the Sunny Side of life with the most comfortable mattress and a top seller for years. With hand tufting, an organic cotton cover, luxurious materials and over 1,000 pocket coils, the Sunny Side is reminiscent of an heirloom quality mattress you'd find at a quaint B&B on the Michigan coast.
-  Updated: 2026-03-05T21:40:58Z
+  Updated: 2026-03-09T15:12:19Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -213,7 +213,7 @@
     Availability: Available
     Price: $3,198.00 USD
 - [Sunny Side Up | Rested Pillow Mattress](https://www.restedpillow.com/products/sunny-side-up): Our Sunny Side Up hybrid mattress offers ultimate customization- unzip the top and change the comfort layer of natural latex to your desired feel.
-  Updated: 2026-03-04T16:34:28Z
+  Updated: 2026-03-11T19:04:08Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -270,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/products/sunny-side-up-504958.jpg?v=1739555010
     Price: $4,199.00 USD
 - [Adjustable Natural Latex Pillow - Rested Pillow Mattress](https://www.restedpillow.com/products/pillow): Our Adjustable Natural Latex Pillow's unique shape helps to provide relief from neck pain and is customizable to suit your comfort preference.
-  Updated: 2026-03-06T17:12:58Z
+  Updated: 2026-03-13T17:33:57Z
   Vendor: Rested Pillow Mattress
   Product Type: Pillow
   Availability: Available
@@ -290,7 +290,7 @@
     Availability: Available
     Price: $199.00 USD
 - [Wood Foundation](https://www.restedpillow.com/products/wood-foundation): Like the joist on the foundation of a house, our box spring frames have been built for over 40 years with slates placed vertically for extra strength. You'll be hard-pressed to find others who make vertical cross-slat frames! They take too long to make for most, but we know they will last immeasurably longer than traditional box spring frames.
-  Updated: 2026-03-05T17:27:10Z
+  Updated: 2026-03-13T18:44:08Z
   Vendor: Rested Pillow Mattress
   Product Type: Foundations
   Availability: Available
@@ -379,7 +379,7 @@
     Availability: Available
     Price: $399.00 USD
 - [Gel Microfiber Pillow](https://www.restedpillow.com/products/gel-microfiber-pillow)
-  Updated: 2026-02-28T16:23:46Z
+  Updated: 2026-03-13T18:44:08Z
   Vendor: Rested Pillow Mattress
   Product Type: Pillow
   Availability: Available
@@ -393,7 +393,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/products/GelledMicrofiberWhite_2-WB1412353277_original.jpg?v=1679536422
     Price: $79.00 USD
 - [Pretty Green | Rested Pillow Mattress](https://www.restedpillow.com/products/pretty-green): Our Pretty Green natural mattress is crafted with the highest-quality materials like Joma Wool®, GOTS  organic cotton, and 100% pure latex.
-  Updated: 2026-02-18T17:24:55Z
+  Updated: 2026-03-12T15:57:27Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -558,7 +558,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7435307.webp?v=1771477629
     Price: $249.00 USD
 - [Way We Were | Rested Pillow Mattress](https://www.restedpillow.com/products/way-we-were): Our Way We Were mattress is a 2-sided, flippable hybrid mattress and is hand-tufted for years of lasting comfort.
-  Updated: 2026-02-26T19:04:38Z
+  Updated: 2026-03-09T15:15:48Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -917,36 +917,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/HadleyHybridCP-Mattress-CB_2959.png?v=1738013453
     Price: $2,799.00 USD
-- [Doorstep Delivery](https://www.restedpillow.com/products/doorstep-delivery)
-  Updated: 2026-03-03T20:55:36Z
+- [Doorstep Delivery within 15 miles of showroom](https://www.restedpillow.com/products/doorstep-delivery): Free within 15 miles of showroom Product drop to doorstep; we do not enter the home
+  Updated: 2026-03-13T14:57:44Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_1_d85d7309-2289-41eb-90b8-bbf30894de87.png?v=1745935076
   Price: $0.00 USD
 - [Delivery & Install: Mattress + Base](https://www.restedpillow.com/products/delivery-install-mattress-base)
-  Updated: 2026-02-13T21:05:30Z
+  Updated: 2026-03-13T18:23:27Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_1_8716ccd3-bed9-4e47-aa8c-3064a0235c5d.png?v=1745935057
   Price: $149.00 USD
 - [Delivery & Install: Mattress + Box Spring](https://www.restedpillow.com/products/delivery-install-mattress-box-spring)
-  Updated: 2026-03-04T20:04:58Z
+  Updated: 2026-03-13T17:15:56Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_1_eadfbb73-0b50-40f8-8853-fc56d49b68ef.png?v=1745935041
   Price: $99.00 USD
 - [Customer Pick-up - Appointment Only](https://www.restedpillow.com/products/customer-pick-up)
-  Updated: 2026-03-05T17:27:10Z
+  Updated: 2026-03-12T15:57:27Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2025-06-26113143.png?v=1750952013
   Price: $0.00 USD
 - [Roll Pack Mattress](https://www.restedpillow.com/products/roll-pack-mattress)
-  Updated: 2026-02-24T20:56:17Z
+  Updated: 2026-03-13T18:44:07Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
@@ -981,7 +981,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_1.png?v=1745935016
   Price: $299.00 USD
 - [Freight](https://www.restedpillow.com/products/freight)
-  Updated: 2026-02-18T20:41:14Z
+  Updated: 2026-03-11T17:58:59Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
@@ -1032,7 +1032,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Shield_Icon_1eba037f-c10f-42a8-a82c-31aa644dad04.png?v=1738162156
   Price: $0.00 USD
 - [Bed Frame](https://www.restedpillow.com/products/f-q-bed-frame)
-  Updated: 2026-02-04T20:13:37Z
+  Updated: 2026-03-13T17:15:52Z
   Vendor: Rested Pillow Mattress 
   Product Type: Foundations
   Availability: Available
@@ -1046,14 +1046,14 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/66G-bed-frame.jpg?v=1738161501
     Price: $129.00 USD
 - [Delivery 15-30 miles](https://www.restedpillow.com/products/delivery-15-30-miles)
-  Updated: 2026-02-27T16:47:47Z
+  Updated: 2026-03-07T20:24:47Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_3605cb62-d9ef-44e5-b8f1-2a0d98ab4f47.png?v=1750951036
   Price: $99.00 USD
 - [Bag of Latex Filling](https://www.restedpillow.com/products/bag-of-latex-filling)
-  Updated: 2026-03-03T18:24:47Z
+  Updated: 2026-03-13T19:29:29Z
   Vendor: Rested Pillow Mattress 
   Product Type: Pillow
   Availability: Available
@@ -1067,7 +1067,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/mlfzzkk3l90dd_kingz_triple_layer_down_pillow.jpg?v=1738426019
   Price: $139.00 USD
 - [Mattress Topper](https://www.restedpillow.com/products/mattress-topper)
-  Updated: 2026-02-20T19:50:36Z
+  Updated: 2026-03-11T18:11:17Z
   Vendor: Rested Pillow Mattress 
   Product Type: Foam
   Availability: Available
@@ -1288,14 +1288,14 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Spoon_Til_Noon_Side_1.jpg?v=1750915232
     Price: $3,899.00 USD
 - [Disposal](https://www.restedpillow.com/products/uninstall)
-  Updated: 2026-03-04T16:34:28Z
+  Updated: 2026-03-13T17:15:53Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2025-06-26112419.png?v=1750951468
   Price: $10.00 USD
 - [Adjustable Base](https://www.restedpillow.com/products/adjustable-base)
-  Updated: 2026-02-13T21:05:25Z
+  Updated: 2026-03-11T19:04:07Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
@@ -1447,7 +1447,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Brooklin-Mattress-CB_2933.png?v=1750913003
     Price: $2,199.00 USD
 - [DreamCool™ Mattress Protector](https://www.restedpillow.com/products/df-cooling-protector): Our Best  Mattress Protector, the eucalyptus fibers in their DreamCool™ Mattress Protector are silky soft, comfortable, and quiet. The eucalyptus creates a dual climate sleep zone for partners with different temperature preferences. It's also 100% waterproof, and moisture-wicking. StaDry® in the cover captures, moves, and releases moisture for healthy sleep. Breathable for enhanced airflow and comfort. Bacteria and allergen resistant. Luxury sizing to fit today's thicker mattresses.
-  Updated: 2026-03-04T16:34:28Z
+  Updated: 2026-03-12T15:57:27Z
   Vendor: Rested Pillow Mattress 
   Product Type: Mattress Protector
   Availability: Available
@@ -1495,37 +1495,46 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2025-06-26003544.png?v=1750912557
   Price: $10.00 USD
 - [Synchrony HOME Financing](https://www.restedpillow.com/products/synchrony-home-financing)
-  Updated: 2026-02-13T17:13:38Z
+  Updated: 2026-03-12T17:57:07Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
   - [12 Months $1000-$1999](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237748207807)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $100.00 USD
   - [12 Months $2000-$2999](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237748273343)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $200.00 USD
   - [12 Months $3000-$3999](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237748338879)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $300.00 USD
   - [12 Months $4000+](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237810729151)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $400.00 USD
   - [18 Months $1000-$1999](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237748240575)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $200.00 USD
   - [18 Months $2000-$2999](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237748306111)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $400.00 USD
   - [18 Months $3000-$3999](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237748371647)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $500.00 USD
   - [18 Months $4000+](https://www.restedpillow.com/products/synchrony-home-financing?variant=44237810761919)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $700.00 USD
-  - [18 Months Promo $6000+](https://www.restedpillow.com/products/synchrony-home-financing?variant=44368087417023)
+  - [18 Months Promo](https://www.restedpillow.com/products/synchrony-home-financing?variant=44368087417023)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/SynchronyHOMElogo.png?v=1747165784
     Price: $400.00 USD
 - [BT-2500 Adjustable Base](https://www.restedpillow.com/products/bt-2500-adjustable-base)
   Updated: 2025-07-28T16:33:12Z
@@ -1686,7 +1695,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/thumbnail_IMG_7346_2c3da020-a56c-4e0a-ad2e-bef619606019.jpg?v=1756566417
   Price: $999.00 USD
 - [DreamFit® Enhanced Bamboo Sheet Set](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set): DreamFit's Best  Sheet Set. Bask in the luxury of DreamFit's Enhanced Bamboo Sheet Set—a true testament to comfort, quality, and American craftsmanship. Recognized as one of the Top 25 Best Bedsheets of 2023 by Cosmopolitan, these sheets are designed to elevate your Rest experience to new heights. Crafted with care and precision in the USA, the DreamFit® Enhanced Bamboo Sheet Set features their signature 1.5-inch no-slip patent color-coded FirstFit™ corner bands, ensuring a secure fit that stays in place on your mattress without slipping off. Material: 70% Viscose from Bamboo / 30% Cotton The Feel: Crisp and cool, exceptionally breathable, and grows even softer with each wash. The Look: Lightweight with a subtle, soft drape. The Weave: Sateen
-  Updated: 2026-03-04T13:40:32Z
+  Updated: 2026-03-07T18:23:37Z
   Vendor: Rested Pillow Mattress
   Product Type: Sheets
   Availability: Available
@@ -1812,7 +1821,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-1525924.webp?v=1771477569
     Price: $299.00 USD
 - [Bedder Days Plush](https://www.restedpillow.com/products/bedder-days-plush)
-  Updated: 2026-02-20T16:34:36Z
+  Updated: 2026-03-13T18:44:08Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
@@ -1838,7 +1847,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/IMG_9300.jpg?v=1758814019
     Price: $1,899.00 USD
 - [DreamFit DreamComfort Protector](https://www.restedpillow.com/products/dreamfit-stadry-protector)
-  Updated: 2026-03-05T21:40:57Z
+  Updated: 2026-03-13T18:44:08Z
   Vendor: DreamFit
   Product Type: Mattress Protector
   Availability: Available
@@ -1867,15 +1876,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/DFSDM00-_.01.avif?v=1763144310
     Price: $149.00 USD
-- [Q Head Up Only Adjustable Base](https://www.restedpillow.com/products/q-head-up-only-adjustable-base)
-  Updated: 2026-02-13T17:13:28Z
-  Vendor: Malouf
-  Product Type: Foundations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2026-01-20133019.png?v=1768933842
-  Price: $599.00 USD
 - [King/Cal King Freight Surcharge](https://www.restedpillow.com/products/king-cal-king-freight-surcharge)
-  Updated: 2026-02-03T15:34:34Z
+  Updated: 2026-03-07T19:49:29Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
@@ -1885,25 +1887,25 @@
 ## Collections
 
 - [Pillows](https://www.restedpillow.com/collections/pillows)
-  Updated: 2026-03-05T12:04:33Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 4
 - [Handmade Mattresses in Michigan | Find Your Perfect Fit – Rested Pillow](https://www.restedpillow.com/collections/mattresses): Discover handcrafted mattresses made in Michigan with the highest quality materials. Enjoy customized comfort and expert, zero-pressure guidance.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 26
 - [Foundations | Rested Pillow Mattress](https://www.restedpillow.com/collections/foundations): Sleep in comfort and extend the durability of your Rested Pillow Mattress with our collection of high quality mattress foundations and bed bases.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 12
 - [Best  Mattresses | Rested Pillow Mattress](https://www.restedpillow.com/collections/best-sellers): Shop our best  mattresses, in a variety of sizes, handcrafted in Michigan and available to ship all over the United States or deliver to Southwest MI.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 9
 - [Bedding](https://www.restedpillow.com/collections/bedding)
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 10
 - [Standard 11”-14”](https://www.restedpillow.com/collections/standard-11-14)
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-12T11:04:51Z
   Total Products: 7
 - [Deep 15"-16"](https://www.restedpillow.com/collections/deep-15-16)
-  Updated: 2026-03-05T12:04:33Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 3
 - [Handcrafted Flippable Mattresses Made in Michigan](https://www.restedpillow.com/collections/flippable-mattresses): Experience the lasting comfort of two-sided mattresses, handcrafted with integrity right here in Michigan. Built to last, made the right way.
   Updated: 2026-02-27T12:04:24Z
@@ -1912,61 +1914,61 @@
   Updated: 2026-02-25T12:04:02Z
   Total Products: 2
 - [Premium Firm Mattresses | Outstanding Support | Handcrafted in USA](https://www.restedpillow.com/collections/firm-mattresses): Improve your sleep with handcrafted firm mattresses, Made in the USA using natural materials and artisan craftsmanship for luxury comfort and support.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 9
 - [Medium Mattresses](https://www.restedpillow.com/collections/medium-mattresses): Striking the perfect balance between comfort and support, a medium mattress is ideal for combination and side sleepers. For those exploring options, our complete guide to hybrids explains how these mattresses deliver both pressure relief and lasting support, making them a smart choice for a wide range of sleepers. Lovingly handcrafted in Michigan, all Rested Pillow Mattresses are made to order. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 5
 - [Plush Mattresses | Luxury Softness For Restorative Sleep](https://www.restedpillow.com/collections/plush-mattresses): Experience ultimate comfort and support with our Michigan-made plush mattresses. Enjoy luxurious softness that’s made to order.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 8
 - [Traditional Mattresses](https://www.restedpillow.com/collections/traditional-mattresses)
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-12T11:04:51Z
   Total Products: 7
 - [Customizable Zipper Mattresses | 100 Night Comfort Guarantee](https://www.restedpillow.com/collections/customizable): Discover our range of luxurious zipper mattresses made right here in Michigan, designed to give you truly great sleep with customizable comfort made to last.
-  Updated: 2026-03-05T12:04:33Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 3
 - [Best Mattress in a Box | Handcrafted Comfort and Support](https://www.restedpillow.com/collections/mattress-in-a-box-mattresses): Discover the best mattress in a box—handcrafted with premium materials for lasting comfort and support. Shop bespoke, Michigan-made mattresses today.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 10
 - [Hybrid Mattresses](https://www.restedpillow.com/collections/hybrid-mattresses): A Hybrid mattress consists of individually pocketed coils for support, with layers of comfort materials on top. Learn more about hybrid construction. Thanks to the perfect balance between comfort and support, the hybrid mattress is very popular with back and side sleepers and those who feel too hot when sleeping. All of our Rested Pillow hybrid mattresses have pocket coil units that run edge-to-edge, offering breathability and superior support with reduced motion transfer between partners. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 8
 - [Luxury California King Mattresses | Bespoke, Handcrafted Comfort](https://www.restedpillow.com/collections/california-king-mattresses): Indulge in artisan-crafted California King mattresses made in the USA. Made for ultimate luxury, our bespoke, natural mattresses offer premium comfort and support.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 12
 - [Handcrafted King Mattresses | Made in Michigan | Bespoke Comfort](https://www.restedpillow.com/collections/king-mattresses): Discover handcrafted king mattresses, made in Michigan with premium quality  materials. Experience bespoke luxury, superior comfort, and lasting quality.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 12
 - [Queen Mattresses | Handcrafted in Michigan | Rested Pillow](https://www.restedpillow.com/collections/queen-mattresses): Experience the Rested Pillow difference with our handcrafted queen mattresses made to order in Michigan, and enjoy unmatched comfort and quality.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 12
 - [Full Mattresses](https://www.restedpillow.com/collections/full-mattresses): A Full mattress, also known as a double, is a popular choice for single adults or growing kids and even a guest bedroom. A full may feel snug for couples who sleep with pets or prefer extra space, but is a good option for guest rooms or for couples who enjoy close quarters and who don’t need or want a larger mattress. At Rested Pillow, we take the time to fully understand what your individual needs are when buying a mattress and we put your sleep quality above all else. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 12
 - [Luxury Twin Mattresses | Handcrafted Quality Made in the USA](https://www.restedpillow.com/collections/twin-mattresses): Discover bespoke twin mattresses made in the USA. Experience artisan-quality comfort using the finest materials tailored for a perfect night's sleep.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-12T11:04:51Z
   Total Products: 11
 - [Twin XL Mattresses](https://www.restedpillow.com/collections/twin-xl-mattresses): The Twin XL mattress is the perfect size for growing teens or those with smaller bedrooms. Handmade to order in Michigan and using only the very best materials, our mattresses are made with comfort, sleep quality, and longevity in mind. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 12
 - [Comfort Layer](https://www.restedpillow.com/collections/comfort-layer)
-  Updated: 2026-02-21T12:03:11Z
+  Updated: 2026-03-12T11:04:51Z
   Total Products: 5
 - [Handcrafted Pillowtop Mattresses - Made in Michigan, USA](https://www.restedpillow.com/collections/pillowtop-mattresses): Discover handcrafted, made-to-order pillowtop mattresses from Rested Pillow. Artisan quality, made in Michigan. Shop bespoke luxury comfort today.
-  Updated: 2026-03-05T12:04:33Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 4
 - [Luxurious Natural Mattresses – Handcrafted in Michigan, USA](https://www.restedpillow.com/collections/natural-mattresses): Experience the luxury of a handcrafted natural mattress from our family-run Michigan workshop. Bespoke, eco-friendly, and made in the USA for ultimate comfort.
-  Updated: 2026-03-05T12:04:33Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 2
 - [Delivery Services](https://www.restedpillow.com/collections/delivery-services)
-  Updated: 2026-03-06T12:04:46Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 12
 - [Customer Care](https://www.restedpillow.com/collections/customer-care)
   Updated: 2026-01-17T12:03:43Z
   Total Products: 6
 - [Financing](https://www.restedpillow.com/collections/financing)
-  Updated: 2026-02-14T12:03:53Z
+  Updated: 2026-03-13T11:04:08Z
   Total Products: 1
 
 ## Blogs
