@@ -3,14 +3,14 @@
 > UNIT 1 is a forward-thinking company that designs and manufactures smart helmets and urban mobility accessories. Their products, which feature advanced safety technology and stylish designs, cater to the needs of urban commuters and cyclists looking for innovative and reliable gear.
 
 - Contact Email: support@unit1gear.com
-- Updated At: 2026-03-02T00:00:42.750Z
+- Updated At: 2026-03-14T00:00:45.875Z
 
 UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and more, enhancing safety and visibility for worry-free rides. Shop now to elevate your cycling experience with cutting-edge technology.
 
 ## Products
 
 - [FARO Mips Smart Helmet: Ultimate Protection & Style | UNIT 1](https://www.unit1gear.com/products/faro-mips): Discover the award-winning FARO Mips Helmet by UNIT 1. Ultimate protection with Mips, crash detection, and integrated lights. Get yours today and ride safely!
-  Updated: 2026-03-01T14:45:37Z
+  Updated: 2026-03-13T07:11:45Z
   Vendor: UNIT 1
   Product Type: Helmet
   Availability: Available
@@ -64,7 +64,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/juniper_side_on_1d8c1c66-d2f0-4c6e-b182-c88ee6cca236.png?v=1753862109
     Price: $229.90 USD
 - [Gift Card for Smart Helmets & Accessories | UNIT 1](https://www.unit1gear.com/products/gift-card): Make gift-giving easy with a UNIT 1 Gift Card. Perfect for cyclists to pick their favorite smart helmets and bike gear. Available for immediate purchase.
-  Updated: 2026-02-26T18:10:19Z
+  Updated: 2026-03-13T13:34:27Z
   Vendor: UNIT 1
   Product Type: 
   Availability: Available
@@ -94,7 +94,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Availability: Available
     Price: $1,000.00 USD
 - [High-Quality Water Bottle for Active Riders | UNIT 1](https://www.unit1gear.com/products/water-bottle): Keep hydrated with the UNIT 1 Water Bottle. Features a durable, leak-proof design that's perfect for cyclists and e-bike riders. Ideal for any ride. Shop today!
-  Updated: 2026-02-28T19:58:10Z
+  Updated: 2026-03-13T19:06:18Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
@@ -120,14 +120,14 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/bottle-coral-red-01.jpg?v=1753862099
     Price: $29.90 USD
 - [Tech Pouch | UNIT 1](https://www.unit1gear.com/products/tech-pouch): Extra Tech Pouch for TORCH Backpack
-  Updated: 2026-02-12T07:29:46Z
+  Updated: 2026-03-13T13:34:27Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/GalleryTechPouch_1.jpg?v=1759439409
   Price: $0.00 USD
 - [Smart Light for Bikes | Automatic Brake & Turn Signals | UNIT 1](https://www.unit1gear.com/products/smart-light): Next-gen bike light with turn signals and automatic brake light when paired with the UNIT 1 Remote. Magnetic mounts, IPX-67 waterproofing, and smart app control.
-  Updated: 2026-03-01T22:21:27Z
+  Updated: 2026-03-13T21:01:17Z
   Vendor: UNIT 1
   Product Type: Lights
   Availability: Available
@@ -141,7 +141,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/smart-light-rear-mode-on-front-view-red_e03d08e8-d104-4925-bffd-2968e874d141.jpg?v=1753862092
     Price: $89.90 USD
 - [AURA Mips Smart Helmet: E-Bike  & Integrated Lights | UNIT 1](https://www.unit1gear.com/products/aura-mips): AURA by UNIT 1: The ultimate 5-star Virginia Tech rated MIPS smart helmet for e-bike & urban riders. Integrated lights, turn signals & Crash Alert. Buy now!
-  Updated: 2026-03-01T23:51:37Z
+  Updated: 2026-03-13T22:27:37Z
   Vendor: UNIT 1
   Product Type: Helmet
   Availability: Available
@@ -219,35 +219,35 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/ranger_side_side_on_3890d2e6-5a67-427f-bf2f-5cdecd5dd1d7.png?v=1753862091
     Price: $259.90 USD
 - [UNIT 1 Remote for AURA, FARO, NEON, TORCH & Lights | UNIT 1](https://www.unit1gear.com/products/navigation-remote-1): The UNIT 1 Remote enables turn signals and automatic brake lights across your UNIT 1 devices. Enhance your cycling safety and convenience. Shop now!
-  Updated: 2026-03-01T23:51:37Z
+  Updated: 2026-03-13T23:23:57Z
   Vendor: UNIT 1
   Product Type: Remote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/navigation-remote-on-front-top-view.jpg?v=1762198099
   Price: $39.90 USD
 - [Versatile Mount Pack for Smart Lights | UNIT 1](https://www.unit1gear.com/products/mount-pack): Mount your Smart Light onto everything with the UNIT 1 Mount Pack. Includes 4 versatile mounts for easy and secure installation. Perfect for all your needs.
-  Updated: 2026-03-01T11:05:37Z
+  Updated: 2026-03-12T22:34:17Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/mount_pack_088bd4e3-33e8-4843-a2d5-d04236719411.jpg?v=1762198100
   Price: $39.90 USD
 - [Charging Cable for UNIT 1 Products | Smart Helmets & Lights](https://www.unit1gear.com/products/charging-cable-gen-2): Keep your UNIT 1 smart helmets and lights fully charged with our reliable Charging Cable. Durable, efficient, and compatible with all UNIT 1 products. Shop now!
-  Updated: 2026-02-17T01:57:17Z
+  Updated: 2026-03-13T10:58:47Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/charging-cable-unit-1_e62bda37-ac1f-44a3-a79a-a24d0982d703.jpg?v=1762198104
   Price: $19.90 USD
 - [UNIT 1 Turn Signals Dock | Enhance Your Riding Safety](https://www.unit1gear.com/products/turn-signals-dock): Upgrade your ride with the UNIT 1 Turn Signals Dock. Increase visibility and safety with easy-to-install turn signals for your smart helmet. Shop now!
-  Updated: 2026-02-27T23:08:47Z
+  Updated: 2026-03-13T20:41:12Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/navigation-remote-dock-front-top-view.jpg?v=1762198105
   Price: $14.90 USD
 - [Insulated Winter Liner for Smart Helmets | UNIT 1](https://www.unit1gear.com/products/winter-liner): Upgrade your smart helmet with the UNIT 1 Winter Liner. Insulated for warmth, it replaces internal pads without impacting fit. Ideal for winter rides. Buy now!
-  Updated: 2026-03-01T19:17:38Z
+  Updated: 2026-03-13T16:46:28Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
@@ -265,7 +265,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/winter_liner_unit_1_helmet.jpg?v=1762198113
     Price: $39.90 USD
 - [Bug Net Accessory for Smart Helmets | UNIT 1](https://www.unit1gear.com/products/bug-net): Enhance your UNIT 1 helmet with our cycling Bug Net. Keep insects away while maintaining visibility and comfort. Compatible with AURA UNIT 1 smart helmet.
-  Updated: 2026-03-01T21:22:30Z
+  Updated: 2026-03-13T21:01:18Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
@@ -280,7 +280,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Availability: Available
     Price: $29.90 USD
 - [TORCH Backpack: Stylish & Functional Commuter Gear | UNIT 1](https://www.unit1gear.com/products/torch-backpack): Upgrade your commute with the TORCH Backpack by UNIT 1. Tough materials, excellent organization, and all-day comfort. Shop now and elevate your ride!
-  Updated: 2026-02-28T22:32:57Z
+  Updated: 2026-03-12T12:30:41Z
   Vendor: UNIT 1
   Product Type: Backpack
   Availability: Available
@@ -298,7 +298,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/TORCH-2_69848137-3794-4684-9bc6-7b29c5063b97.jpg?v=1753862070
     Price: $169.90 USD
   - [Cactus Green](https://www.unit1gear.com/products/torch-backpack?variant=44381726245025)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/TORCH-3_50d64472-c780-4eda-acae-0d11ac3c175a.jpg?v=1753862071
     Price: $169.90 USD
   - [Desert Tan](https://www.unit1gear.com/products/torch-backpack?variant=44381726277793)
@@ -306,14 +306,14 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/TORCH-1_ba6a30ac-d132-4ba1-9239-34fa6c086297.jpg?v=1753862072
     Price: $169.90 USD
 - [Riding Kit: Chest Strap, Waist Belt & Helmet Holder | UNIT 1](https://www.unit1gear.com/products/riding-kit): Equip your TORCH with the UNIT 1 Riding Kit. Includes an ergonomic chest strap, waist belt, and helmet holder for maximum comfort on every ride. Shop today!
-  Updated: 2026-02-28T22:32:57Z
+  Updated: 2026-03-12T12:30:41Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/ridingkit-4_947b0580-83c6-4edd-b628-3f224195b5a2.jpg?v=1762198137
   Price: $29.90 USD
 - [Magnetic Brim for AURA Smart Helmet | UNIT 1](https://www.unit1gear.com/products/magnetic-brim): Lost your AURA Smart Helmet's brim? Don’t worry, it can happen. We've got you covered with our Magnetic Brim!
-  Updated: 2026-02-25T18:49:43Z
+  Updated: 2026-03-11T09:02:57Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
@@ -335,7 +335,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/aura_brim_chalk_ae71dcea-1bd0-4367-bc03-1df4c67c6bf2.jpg?v=1753862066
     Price: $19.90 USD
 - [FARO Smart Helmet: Ultimate Protection & Style | UNIT 1](https://www.unit1gear.com/products/faro): Discover FARO, our award-winning urban smart helmet. Front and Rear Integrated Lights, Turn Signals, and Crash Alert. Get yours today and ride safely!
-  Updated: 2026-03-01T20:37:19Z
+  Updated: 2026-03-13T22:51:28Z
   Vendor: UNIT 1
   Product Type: Helmet
   Availability: Available
@@ -389,7 +389,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/faro_juniper_side_on_ed545aec-af59-4836-ad01-773d156a8f6a.webp?v=1756978293
     Price: $189.90 USD
 - [Crash Replacement for our smart helmets | UNIT 1](https://www.unit1gear.com/products/crash-replacement): Protect your ride with UNIT 1’s crash replacement program for FARO and AURA helmets. Choose your coverage today!
-  Updated: 2026-03-01T17:25:09Z
+  Updated: 2026-03-13T18:15:10Z
   Vendor: UNIT 1
   Product Type: 
   Availability: Available
@@ -419,7 +419,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/crashreplacement2.jpg?v=1756978278
     Price: $69.90 USD
 - [SPARKY Kids Smart Helmet | Custom Light + Fidlock Magnetic Buckle](https://www.unit1gear.com/products/sparky): The world’s first smart helmet for kids built to make safety fun. Designed for ages 3–9. Up to 25h battery and  protection for everyday rides.
-  Updated: 2026-03-01T21:35:09Z
+  Updated: 2026-03-13T15:31:08Z
   Vendor: UNIT 1
   Product Type: Helmet
   Availability: Available
@@ -441,7 +441,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/SPARKY-PowderBlue.jpg?v=1756978274
     Price: $99.90 USD
 - [Rain Plugs for NEON](https://www.unit1gear.com/products/rain-plugs): Ride worry-free in any weather. Rain Plugs keep water and wind out, turning your NEON into an all-season smart helmet.
-  Updated: 2026-02-27T22:09:57Z
+  Updated: 2026-03-13T22:02:37Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
@@ -455,14 +455,14 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/RainPlugs-white_1.jpg?v=1760358657
     Price: $12.90 USD
 - [AirTag Helmet Holder - Safely Store Your AirTag](https://www.unit1gear.com/products/airtag-helmet-holder): Discover the AirTag helmet holder, designed to securely attach your AirTag to your helmet for ultimate safety and convenience.
-  Updated: 2026-03-01T21:35:09Z
+  Updated: 2026-03-13T16:46:28Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/AirTagHolder_8d26a67d-5831-46c4-94fb-0c86974a73f0.jpg?v=1756978173
   Price: $5.90 USD
 - [Set of Silicone Inserts for SPARKY and NEON](https://www.unit1gear.com/products/set-of-silicone-inserts): Make safety fun. Sparky Silicone Inserts let kids personalize their helmets with colorful, safe designs that detach on impact.
-  Updated: 2026-03-01T21:35:08Z
+  Updated: 2026-03-13T15:31:00Z
   Vendor: UNIT 1
   Product Type: Accessories
   Availability: Available
@@ -492,7 +492,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/INSERTS-Spikes-White.jpg?v=1753862055
     Price: $12.90 USD
 - [Helmet Visor for NEON](https://www.unit1gear.com/products/helmet-visor-1): Magnetic Speed Visors. Make your helmet suitable for every ride with the 5 powerful internal magnets that keep the attachments secure during the ride. These are designed to detach upon impact to keep them away from your face. Clear: The Clear lens has no tint, so it can be used in low light conditions without sacrificing clarity. Tinted: The Tinted lens is specially suitable for sunny days, although it can be problematic during nighttime since the tint will reduce visibility. Photochromic: Adaptive Lens Technology that automatically adapts the visor's tint to the ambient lighting conditions. Perfect for all light conditions, from night riding to bright, sunny days.
-  Updated: 2026-03-01T17:28:17Z
+  Updated: 2026-03-13T22:12:28Z
   Vendor: UNIT 1
   Product Type: Visor
   Availability: Available
@@ -510,7 +510,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/Visor-adaptive.png?v=1762431750
     Price: $129.90 USD
 - [NEON Smart Urban Helmet | E-bike , Mips & 5-Star Safety](https://www.unit1gear.com/products/neon): NEON by UNIT 1: The ultimate 5-star Virginia Tech rated Mips smart helmet for urban commuters. Integrated lights, turn signals & Crash Alert. Buy now!
-  Updated: 2026-03-01T21:59:38Z
+  Updated: 2026-03-13T23:27:18Z
   Vendor: UNIT 1
   Product Type: NEON Helmet
   Availability: Available
@@ -600,7 +600,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/NEON_SE_SLATE_GRAY_7ab47b1d-2f3e-4efa-9749-d5c00d5d5835.webp?v=1762431716
     Price: $159.90 USD
 - [Helmet Visor for AURA](https://www.unit1gear.com/products/helmet-visor-for-aura): Magnetic Speed Visors. Make your helmet suitable for every ride with the 5 powerful internal magnets that keep the attachments secure during the ride. These are designed to detach upon impact to keep them away from your face. Clear: The Clear lens has no tint, so it can be used in low light conditions without sacrificing clarity. Tinted: The Tinted lens is specially suitable for sunny days, although it can be problematic during nighttime since the tint will reduce visibility. Photochromic: Adaptive Lens Technology that automatically adapts the visor's tint to the ambient lighting conditions. Perfect for all light conditions, from night riding to bright, sunny days.
-  Updated: 2026-03-01T19:17:37Z
+  Updated: 2026-03-13T22:27:37Z
   Vendor: UNIT 1
   Product Type: Visor
   Availability: Available
@@ -618,7 +618,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Image: https://cdn.shopify.com/s/files/1/0073/9960/4313/files/Visor-adaptive.png?v=1762431750
     Price: $129.90 USD
 - [AURA Fitting System](https://www.unit1gear.com/products/aura-fitting-system): Helmet fitting system for size adjustment and secure fit.
-  Updated: 2026-02-26T10:56:08Z
+  Updated: 2026-03-11T16:07:29Z
   Vendor: UNIT 1
   Product Type: 
   Availability: Available
@@ -693,7 +693,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Availability: Available
     Price: $1.00 USD
 - [FARO Pad Set](https://www.unit1gear.com/products/faro-pad-set): Internal helmet padding for improved comfort and support.
-  Updated: 2026-02-25T12:42:18Z
+  Updated: 2026-03-12T11:03:07Z
   Vendor: UNIT 1
   Product Type: 
   Availability: Available
@@ -758,7 +758,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
   Availability: Available
   Price: $1.00 USD
 - [Charging Case - Smart Light Pro Dual](https://www.unit1gear.com/products/charging-case-smart-light-pro-dual): Smart Light Pro Dual Charging Case
-  Updated: 2026-02-03T09:02:17Z
+  Updated: 2026-03-03T08:29:45Z
   Vendor: UNIT 1
   Product Type: 
   Availability: Available
@@ -767,31 +767,31 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
 ## Collections
 
 - [Explore All UNIT 1 Products | Smart Helmets & Accessories](https://www.unit1gear.com/collections/all): Discover all UNIT 1 products, from smart helmets to innovative bike accessories. Enhance your ride with high-quality gear for safety and style. Shop now!
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 38
 - [Best Sellers | Smart Safety | UNIT 1](https://www.unit1gear.com/collections/best-sellers)
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 5
 - [Smart Helmets with Mips for Bike & E-Bike Riders | UNIT 1](https://www.unit1gear.com/collections/smart-helmets): Explore our award-winning smart helmets featuring Mips Safety System, integrated lights, turn signals, automatic brake lights, and crash detection. Shop now!
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 18
 - [Bike and E-Bike Accessories | Innovative Cycling Gear | UNIT 1](https://www.unit1gear.com/collections/accessories): Browse UNIT 1's collection of bike and e-bike accessories. Featuring innovative designs and high-quality gear to improve your cycling experience. Shop now!
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 19
 - [Cash Back Elegible](https://www.unit1gear.com/collections/rise-compatible)
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 21
 - [Accessories for FARO](https://www.unit1gear.com/collections/accessories-for-faro)
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 3
 - [Accessories for AURA](https://www.unit1gear.com/collections/accessories-for-aura): Accessories for AURA: Elevate your style with our unique collection of accessories designed specifically for your AURA experience.
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 5
 - [Smart Lights](https://www.unit1gear.com/collections/smart-lights)
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 2
 - [Accessories for NEON - Shop UNIT 1 Neon Accessories](https://www.unit1gear.com/collections/accessories-for-neon): Accessories for NEON bring vibrant style to your look.
-  Updated: 2026-03-01T12:03:20Z
+  Updated: 2026-03-13T11:03:48Z
   Total Products: 5
 
 ## Blogs
@@ -900,7 +900,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
     Updated: 2026-02-10T11:54:59Z
     Author: Mariel Louzau
   - [Riding an Electric Scooter in the City? Let’s Talk Helmets](https://www.unit1gear.com/blogs/stories/riding-an-electric-scooter-in-the-city-let-s-talk-helmets): <p><meta charset="utf-8">Electric scooters are fast, efficient, and part of everyday urban commuting. Here’s why wearing the right helmet matters more than you think.</p>
-    Updated: 2026-02-17T15:36:47Z
+    Updated: 2026-03-13T16:10:37Z
     Author: Mariel Louzau
   - [Smart Helmet vs Regular Bike Helmet](https://www.unit1gear.com/blogs/stories/smart-helmet-vs-regular-bike-helmet): <p data-start="367" data-end="529">Not all bike helmets protect the same. Learn how smart helmets go beyond basic certifications with better impact protection, testing, and real-world urban safety.</p>
     Updated: 2026-02-17T15:40:39Z
@@ -917,6 +917,8 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
   Updated: 2024-06-26T20:04:00Z
 - [UNIT 1 Customer Reviews | Feedback on Smart Helmets & Gear](https://www.unit1gear.com/pages/reviews): 
   Updated: 2024-07-02T17:15:05Z
+- [FARO Smart Helmet](https://www.unit1gear.com/pages/faro-mips-archiveeeeeeeee)
+  Updated: 2026-03-09T12:37:29Z
 - [UNIT 1 Lane | Your Ultimate Electric Vehicle Guide](https://www.unit1gear.com/pages/unit-1-lane): 
   Updated: 2025-12-03T14:47:51Z
 - [Best Bike Lights with Turn Signals & Brake Lights for E-Bikes | UNIT 1](https://www.unit1gear.com/pages/smart-light): 
@@ -932,7 +934,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
 - [About](https://www.unit1gear.com/pages/about-unit1)
   Updated: 2026-02-03T13:00:51Z
 - [AURA Smart Helmet](https://www.unit1gear.com/pages/aura-mips-woman): 
-  Updated: 2026-01-09T12:35:59Z
+  Updated: 2026-03-13T17:06:25Z
 - [Become a Dealer - Join Our Network Today](https://www.unit1gear.com/pages/become-a-dealer): 
   Updated: 2025-06-06T11:14:05Z
 - [Smart Helmets vs Regular: Which is Better?](https://www.unit1gear.com/pages/smart-helmets-vs-regular): 
@@ -960,7 +962,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
 - [Check Gift Card balance](https://www.unit1gear.com/pages/check-gift-card-balance)
   Updated: 2025-09-18T08:04:30Z
 - [NEON - Launch](https://www.unit1gear.com/pages/neon)
-  Updated: 2025-11-13T17:23:06Z
+  Updated: 2026-03-13T17:06:11Z
 - [5-Star Rated Smart Helmets | Virginia Tech Safety Tested – UNIT 1](https://www.unit1gear.com/pages/virginia-tech-helmet-safety-rating): 
   Updated: 2026-01-28T10:16:53Z
 - [5 Reasons Why the Virginia Tech Helmet Rankings Define What Safety Really Means](https://www.unit1gear.com/pages/5-reasons-why-the-virginia-tech-helmet-rankings-define-what-safety-really-means)
@@ -970,13 +972,11 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
 - [5 Things About The Only Brand With 5-Star Rated Smart Helmets By Virginia Tech](https://www.unit1gear.com/pages/5-things-about-the-only-brand-with-5-star-rated-smart-helmets-by-virginia-tech)
   Updated: 2025-11-13T08:31:55Z
 - [4 Myths About Smart Helmets, and the Brand That Just Killed Them](https://www.unit1gear.com/pages/4-myths-about-smart-helmets-and-the-brand-that-just-killed-them)
-  Updated: 2025-11-13T08:33:46Z
+  Updated: 2026-03-05T20:41:11Z
 - [Who Is The Brand Behind The Only 2 Smart Helmets On Virginia Tech’s Top 30](https://www.unit1gear.com/pages/who-is-the-brand-behind-the-only-2-smart-helmets-on-virginia-techs-top-30)
   Updated: 2025-11-13T08:36:53Z
 - [SPARKY Helmet | PUKY x UNIT 1](https://www.unit1gear.com/pages/puky)
   Updated: 2025-11-13T15:15:35Z
-- [UNIT 1 x Kalkhoff: Save 25% on all Smart Helmets](https://www.unit1gear.com/pages/kalkhoff): 
-  Updated: 2025-11-25T15:19:09Z
 - [4 Signs Your Helmet Is No Longer Protecting You](https://www.unit1gear.com/pages/4-signs-your-helmet-is-no-longer-protecting-you)
   Updated: 2025-12-11T21:36:22Z
 - [4 Reasons Why Not All Helmets Are The Same](https://www.unit1gear.com/pages/4-reasons-why-not-all-helmets-are-the-same)
@@ -986,7 +986,7 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
 - [AURA Smart Helmet](https://www.unit1gear.com/pages/aura-mips-woman-ads): 
   Updated: 2026-01-09T22:36:29Z
 - [Asteroi-Discover-AURA](https://www.unit1gear.com/pages/aura-mips-ads)
-  Updated: 2026-01-12T12:16:49Z
+  Updated: 2026-03-13T17:07:04Z
 - [Education Pricing and Student Discounts](https://www.unit1gear.com/pages/student-discounts): 
   Updated: 2026-01-16T16:48:24Z
 - [Military & Veteran  on Smart Helmets and Lights](https://www.unit1gear.com/pages/veteran-and-military-): 
@@ -1002,11 +1002,23 @@ UNIT 1 offers smart helmets and bike lights designed for bikes, e-bikes, and mor
 - [Engine Distropic](https://www.unit1gear.com/pages/engine-distropic)
   Updated: 2026-01-28T20:27:14Z
 - [Valentines Day](https://www.unit1gear.com/pages/valentines-day)
-  Updated: 2026-02-06T23:47:02Z
+  Updated: 2026-03-03T13:41:34Z
 - [Buy AURA Smart Helmet](https://www.unit1gear.com/pages/buy-aura-smart-helmet)
   Updated: 2026-02-09T21:21:28Z
+- [UNIT 1 Discounts and Offers | Student, Military, and First Responder Savings](https://www.unit1gear.com/pages/discounts): 
+  Updated: 2026-03-03T13:45:19Z
 - [virginia tech](https://www.unit1gear.com/pages/virginia-tech)
   Updated: 2026-02-13T21:24:52Z
+- [Template Preview Test Page](https://www.unit1gear.com/pages/template-preview-test-page): Esta es una página de prueba para usar como preview de templates. No publicar.
+  Updated: 2026-03-05T20:24:11Z
+- [UNIT 1 App](https://www.unit1gear.com/pages/app)
+  Updated: 2026-03-05T15:21:50Z
+- [Helmet Swap](https://www.unit1gear.com/pages/helmet-swap)
+  Updated: 2026-03-11T22:07:36Z
+- [UNIT 1 x Kalkhoff](https://www.unit1gear.com/pages/kalkhoff)
+  Updated: 2026-03-13T15:25:49Z
+- [Discovery Template](https://www.unit1gear.com/pages/discovery-template)
+  Updated: 2026-03-13T20:20:54Z
 
 ## Policies
 
