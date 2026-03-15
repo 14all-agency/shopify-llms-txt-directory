@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-06-16T18:27:32Z
 - Contact Email: sparesdirect2015ltd@gmail.com
-- Updated At: 2026-03-08T00:00:26.658Z
+- Updated At: 2026-03-15T00:00:37.644Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_6ebd1547-cb52-4f4d-adb8-ba12142a5bfa.jpg?v=1751227694
   Price: £35.77 GBP
 - [PAIR AEG Fridge Door Hinges Hettich Integrated 3362 3363 5.0 Left & Right](https://spares-direct-oldham.co.uk/products/pair-aeg-fridge-door-hinges-hettich-integrated-3362-3363-5-0-left-right): AEG Integrated Hettich Fridge Freezer Door Hinge Pair (3362 + 3363 / 5.0) Brand New Genuine original replacement door hinges for your AEG integrated refrigerator. Pack contains: 1 x upper right, lower left hinge 1 x upper left, lower right hinge Fits models: AEG ARCTIS U 6 60, AU 6 60, AU 8 6050I, AU86050-4I, AU86050-5I, AU86050-6I, AU86055-4I, AU86055-6I, AU96050-6I, SU 6 60 001, SU 6 60 401, SU8 6040-1ICL, SU860 00.1I CL, SU86000-1I, SU86000-4I, SU86000-5I, SU86000-6I, SU86000I, SU86040-1I, SU86040-2I, SU86040I, SU96000-5I, SU96000-6I, SU96040-4I, SU96040-5I, SU96040-6I, SU96043-6I, U 8 60 50-1 I, AG87250I, AG88850-4I, AG88850-5I, AG88850I, AG97250-4I, AG97250-5I, AG98850-4I, AG98850-5I, AG98853-4I, AG98853-5I, AG98859-4I, AG98859-5I, AGN71000F0, AGN71200F0,AGS77200F0, AGS78809F0, AGS88800F0, AIK1341R, AIK2021L, AIK2021R, AIK2221R, AIK2751L, AIK2751R, AIK2751R, AN91050-4I, AN91250-4I, AN91250-5I, SC81461-4I, SC81641-4I, SC81641-5I, SC81641I, SC81840-4I, SC81840-5I, SC81840-6I, SC81840I, SC81843-4I, SC81843-5I, SC81843I, SC91840-4I, SC91840-5I, SC91840-6I, SC91840I, SC91841-4I, SC91841-5I, SC91843-4I, SC91843-5I, SC91843-6I, SC91844-5I, SC91845-4I, SC91845-5I, SC91845-6I, SC91845I, SCN71800F0, SCS51800F0, SCS71800F0, SCS71801F0, SCS81800F0, SCS81805F0, SCS91800F0, SCZ71800F0, SCZ81800F0, SK81200-4I, SK81200I, SK81203-4I, SK81203-5I, SK81203-6I, SK81240-4I, SK81240I, SK81243-4I, SK81243-5I, SK81243-6I, SK88800-4I, SK88800I, SK88803-4I, SK88803-5I, SK88803-6I, SK88840-4I, SK88840I, SK88843-4I, SK88843-5I, SK88843-6I, SK91000-4I, SK91000-5I, SK91000-6I, SK91003-5I, SK91003-6I, SK91005I, SK91005-4I, SK91005-5I, SK91040-4I, SK91040-5I, SK91040-6I, SK91040I, SK91043-5I, SK91043-6I, SK91045-4I, SK91045-5I, SK91200-4I, SK91200-5I, SK91200-6I, SK91200-7I, SK91200I, SK91203-5I, SK91203-6I, SK91205-4I, SK91205-5I, SK91205-6I, SK91205I, SK91209-5I, SK91209-6I, SK91240-4I, SK91240-5I, SK91240-6I, SK91240-7I, SK91240I, SK91243-4I, SK91243-5I, SK91243-6I, SK91245-4I, SK91245-5I, SK91245-6I, SK91249-4I, SK91249-5I, SK91249-6I, SK98800-4I, SK98800-5I, SK98800-6I, SK98800I, SK98803-5I, SK98803-6I, SK98805-4I, SK98805I, SK98808I, SK98809-4I, SK98809-5I, SK98809-6I, SK98809I, SK98840-4I, SK98840-5I, SK98840-6I, SK98840I, SK98843-4I, SK98843-5I, SK98843-6I, SK98845-4, SK98845I, SK98848I, SK98849-4I, SK98849-5I, SK98849-6I, SK98849I, SKS51200F0, SKS51240F0, SKS58800F0, SKS58840F0, SKS61200F0, SKS61208F0, SKS61240F0, SKS61248F0, SKS68800F0, SKS68808F0, SKS68809F0, SKS68840F0, SKS68848F0, SKS68849F0, SKS71000F0, SKS71040F0, SKS71200F0, SKS78800F0, SKS78840F0, SKS81000F0, SKS81040F0, SKS81200F0, SKS81205F0, SKS81209F0, SKS81240F0, SKS81245F0, SKS81249F0, SKS88800F0, SKS88805F0, SKS88809F0, SKS88840F0, SKS88845F0, SKS88849F0, SKS91240F0, SKZ71240F0, SKZ81200F0, SKZ81208F0, SKZ81240F0, SKZ81248F0, SN91841-4I, SN91841-5I, SZ91200-4I, SZ91200-5I, SZ91200-6I, SZ91203-5I, SZ91203-6I, SZ91240-4I, SZ91240-5I, SZ91240-6I, SZ91243-5I, SZ91243-6I, SZ91840-4I, SZ91840-5I
-  Updated: 2025-07-01T17:53:33Z
+  Updated: 2026-03-13T07:44:38Z
   Vendor: AEG
   Product Type: 
   Availability: Available
@@ -459,7 +459,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_2c2bc566-c737-473b-ac68-a4f8ba2259ee.jpg?v=1751266744
   Price: £29.99 GBP
 - [Genuine Microwave Glass Turntable Plate For  Panasonic NN-GD35SHBGTG](https://spares-direct-oldham.co.uk/products/genuine-panasonic-microwave-glass-turntable-plate-for-nn-gd35shbgtg): Genuine Glass Turntable Plate
-  Updated: 2025-12-05T10:52:02Z
+  Updated: 2026-03-12T01:39:49Z
   Vendor: Panasonic
   Product Type: 
   Availability: Available
@@ -857,7 +857,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_a91b00c3-e692-477f-8ad6-160a2750c467.jpg?v=1751266872
   Price: £27.45 GBP
 - [Genuine Remote Control For Grundig DSB970 2.1 Soundbar Speaker](https://spares-direct-oldham.co.uk/products/genuine-remote-control-for-grundig-dsb970-2-1-soundbar-speaker): Genuine Remote Control For Grundig DSB970 2.1 Soundbar Speaker
-  Updated: 2025-07-01T17:55:14Z
+  Updated: 2026-03-08T02:58:19Z
   Vendor: Unbranded/Generic
   Product Type: 
   Availability: Available
@@ -1367,7 +1367,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_85d767f5-704d-4d24-a854-335f87bea0da.jpg?v=1751228838
   Price: £44.99 GBP
 - [New Remote Control for Sharp LC-24DHG6001K Aquos 4K Ultra HD Smart TVs](https://spares-direct-oldham.co.uk/products/new-remote-control-for-sharp-lc-24dhg6001k-aquos-4k-ultra-hd-smart-tvs): BRAND NEW TV REMOTE CONTROL FOR SPECIFIC SHARP TV MODELS NUMBERS ONLY Suitable for Models: ASK US BY EMAILING YOUR TV MODEL NUMBER AND WE WILL CHECK
-  Updated: 2025-07-01T17:56:20Z
+  Updated: 2026-03-14T02:07:59Z
   Vendor: Sharp
   Product Type: 
   Availability: Available
@@ -1626,7 +1626,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_7cd9cee4-b69a-4c6e-a503-b53379fe0a0a.jpg?v=1751229029
   Price: £7.90 GBP
 - [New Universal Remote Control For 60Pv250-ZA LG Plasma LED LCD TV New Uk Seller](https://spares-direct-oldham.co.uk/products/new-universal-remote-control-for-60pv250-za-lg-plasma-led-lcd-tv-new-uk-seller): BRAND NEW BUDGET REPLACEMENT REMOTE CONTROL FOR LG TV,S
-  Updated: 2025-07-01T17:56:59Z
+  Updated: 2026-03-08T06:42:18Z
   Vendor: Unbranded
   Product Type: 
   Availability: Available
@@ -1751,8 +1751,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_9a2b24de-f658-4190-9746-e27559145c09.jpg?v=1751267106
   Price: £209.79 GBP
-- [Buy Hisense Tv Remote Control UK | Spares Direct Oldham](https://spares-direct-oldham.co.uk/products/genuine-hisense-tv-remote-control-for-65a7gqtuk): Lost your Hisense TV remote? Buy genuine replacements at Spares Direct Oldham. Fast UK delivery with perfect compatibility . Shop now and save!
-  Updated: 2025-12-18T05:29:18Z
+- [Buy Linsar TV Remote Control Online | Spares Direct Oldham](https://spares-direct-oldham.co.uk/products/genuine-hisense-tv-remote-control-for-65a7gqtuk): Buy a replacement TV remote control for Linsar 24LED5000. Brand new and easy to use — fast delivery from Spares Direct Oldham. Order your remote today
+  Updated: 2026-03-12T04:17:12Z
   Vendor: Hisense
   Product Type: 
   Availability: Available
@@ -1766,10 +1766,10 @@
   Updated: 2025-07-22T09:41:53Z
   Total Products: 2
 - [Other](https://spares-direct-oldham.co.uk/collections/other)
-  Updated: 2026-03-07T12:28:12Z
+  Updated: 2026-03-14T11:24:39Z
   Total Products: 18554
 - [TV REMOTE CONTROLS](https://spares-direct-oldham.co.uk/collections/tv-remote-controls)
-  Updated: 2026-02-25T12:30:28Z
+  Updated: 2026-03-11T11:30:34Z
   Total Products: 1932
 
 ## Blogs
@@ -1783,8 +1783,8 @@
 
 - [Contact](https://spares-direct-oldham.co.uk/pages/contact)
   Updated: 2025-06-16T18:27:36Z
-- [Faq](https://spares-direct-oldham.co.uk/pages/faq): 1. How do I find the correct replacement remote for my TV? + Check your TV brand and model number first. Whether it’s Panasonic, Sony, JVC, Bush, H...
-  Updated: 2025-12-18T05:55:15Z
+- [Faq](https://spares-direct-oldham.co.uk/pages/faq): .faq-container { max-width: 900px; margin: 40px auto; font-family: Arial, sans-serif; } .faq-item { border-bottom: 1px solid #ddd; } .faq-question ...
+  Updated: 2026-03-12T04:01:39Z
 
 ## Policies
 
