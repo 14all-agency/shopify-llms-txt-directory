@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-05-26T13:42:22Z
 - Contact Email: info@jumbogym.nl
-- Updated At: 2026-03-07T00:00:37.854Z
+- Updated At: 2026-03-15T00:00:41.587Z
 
 ## Products
 
@@ -664,13 +664,13 @@
   Updated: 2026-02-22T14:22:49Z
   Total Products: 6
 - [JG Accessoires](https://jumbogym.nl/collections/jg-accessoires)
-  Updated: 2026-02-26T12:32:37Z
-  Total Products: 2
+  Updated: 2026-03-13T11:10:55Z
+  Total Products: 3
 - [JG Flexcollection](https://jumbogym.nl/collections/jg-flexcollection)
   Updated: 2026-02-17T20:19:30Z
   Total Products: 7
-- [Jumbo's favorieten](https://jumbogym.nl/collections/jumbos-favorieten): Onze favorieten zijn niet alleen stijlvol en comfortabel, maar ook duurzaam geproduceerd. Met elk shirt steun je de kracht en doorzettingskracht van de olifant hét symbool van JumboGym.
-  Updated: 2026-02-26T12:32:37Z
+- [Jumbo's favorieten](https://jumbogym.nl/collections/jumbos-favorieten): Onze favorieten zijn niet alleen stijlvol en comfortabel, maar ook duurzaam geproduceerd. Met elk shirt steun je de kracht en doorzettingskracht van de olifant hét JumboGym.
+  Updated: 2026-03-13T11:03:20Z
   Total Products: 6
 - [Kerstdeals 1.-](https://jumbogym.nl/collections/black-friday-deals)
   Updated: 2025-12-15T19:45:50Z
@@ -748,25 +748,29 @@
     Updated: 2026-03-05T08:04:05Z
     Author: Team JumboGym
     Tags: biodegradable cotton fitness shirts, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly, environmentally friendly sportswear, gym apparel, gym short heren, kleding voor krachttraining, organic, sport hoodie biologisch katoen, sportlegging seamless, sports clothing, sportswear nederland, sustainable, unisex gym kleding, workout shirts
+  - [Sustainable Sportswear Nederland: Choose Best Kleding voor Krachttraining](https://jumbogym.nl/blogs/wie-zijn-wij/sustainable-sportswear-nederland-choose-best-kleding-voor-krachttraining): Sustainable Sportswear Nederland: Choose Best Kleding voor Krachttraining
+    Updated: 2026-03-08T08:02:09Z
+    Author: Team JumboGym
+    Tags: benefits of sustainable fitness clothing, best sustainable sportswear brands, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly apparel, gym short heren, kleding voor krachttraining, performance clothing, sport hoodie biologisch katoen, sportlegging seamless, sportswear, sportswear nederland, sustainable, training, unisex gym kleding, workout gear
+  - [Maximize Your Workouts with Durable Gym Short Heren](https://jumbogym.nl/blogs/wie-zijn-wij/maximize-your-workouts-with-durable-gym-short-heren): Maximize Your Workouts with Durable Gym Short Heren
+    Updated: 2026-03-10T08:04:20Z
+    Author: Team JumboGym
+    Tags: activewear, biologisch katoen sportshirt, durable workout, duurzame sportkleding, eco-friendly fitness gear, fitness apparel, gym short heren, gym shorts, kleding voor krachttraining, men’s athletic clothing, shorts, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainable, unisex gym kleding
+  - [Sport Hoodie Biologisch Katoen: Comfort Meets Sustainability](https://jumbogym.nl/blogs/wie-zijn-wij/sport-hoodie-biologisch-katoen-comfort-meets-sustainability): Sport Hoodie Biologisch Katoen: Comfort Meets Sustainability
+    Updated: 2026-03-12T08:03:35Z
+    Author: Team JumboGym
+    Tags: biologisch katoen sportshirt, clothing, comfortable sports gear, duurzame sportkleding, eco-friendly fashion, gym short heren, hoodie, kleding voor krachttraining, organic cotton, sport apparel, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainability, sustainable athletic wear, unisex gym kleding
 
 ## Store Pages
 
 - [Contact](https://jumbogym.nl/pages/contact): 
   Updated: 2025-08-04T12:29:47Z
-- [Over ons](https://jumbogym.nl/pages/over-ons): 
-  Updated: 2025-09-15T18:13:02Z
 - [Vrienden van de Olifant](https://jumbogym.nl/pages/vrienden-van-de-olifant): 
   Updated: 2025-09-15T18:14:04Z
-- [Collabs: vind de beste samenwerkingen - Collabs.nl](https://jumbogym.nl/pages/collab): Ontdek onze uitgebreide collectie producten en diensten in samenwerking met andere merken en influencers. Onze collabs bieden unieke en exclusieve ...
-  Updated: 2024-10-01T18:19:19Z
 - [Mix and Match](https://jumbogym.nl/pages/collection-bundle)
   Updated: 2024-10-01T18:34:59Z
 - [Collecties](https://jumbogym.nl/pages/jumbogym-essentials): JumboGym Essentials – De Basis van Jouw Actieve Lifestyle Welkom bij de JumboGym Essentials – onze zorgvuldig samengestelde collectie die kracht, s...
   Updated: 2025-09-15T18:12:48Z
-- [Herdpower Tee](https://jumbogym.nl/pages/kudocollectie)
-  Updated: 2025-07-23T14:12:19Z
-- [Kopie van Herdpower Tee](https://jumbogym.nl/pages/kopie-van-herdpower-tee)
-  Updated: 2025-07-23T14:14:16Z
 
 ## Policies
 
