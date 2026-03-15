@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-21T23:22:10Z
 - Contact Email: mingocards59@gmail.com
-- Updated At: 2026-03-08T00:00:33.865Z
+- Updated At: 2026-03-15T00:00:36.530Z
 
 ## Products
 
@@ -109,12 +109,12 @@
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/2024DonrussStephonCastleNo.P-244_raywave_F.jpg?v=1756158509
   Price: $50.00 USD
 - [2024 PANINI PRIZM WNBA BLUE PULSAR #145 CAITLIN CLARK 118/199 PSA 8 Fever 🔥🏀](https://mingocards59.com/products/2024-panini-prizm-wnba-blue-pulsar-145-caitlin-clark-118-199-psa-8-fever-🔥🏀): Celebrate the rise of a WNBA superstar with the 2024 PANINI PRIZM WNBA BLUE PULSAR #145 Caitlin Clark card. Numbered 118/199 and graded PSA 8, this collectible highlights the #1 overall draft pick and heralds the future of women’s basketball. A must-have for serious collectors and fans, it captures the excitement of a promising career just beginning to shine. Secure your piece of WNBA history today.
-  Updated: 2026-01-25T21:06:54Z
+  Updated: 2026-03-14T15:51:04Z
   Vendor: Mingo Cards 59
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/2024PrizmWNBACaitlinClarkBluePulsaroutof199PSA8_F_B.jpg?v=1756158374
-  Price: $380.00 USD
+  Price: $299.00 USD
 - [2023 Panini Donruss Optic #257 Rashee Rice CGC 10 Gem💎Mint](https://mingocards59.com/products/2023-panini-donruss-optic-257-rashee-rice-cgc-10-gem💎mint): Elevate your collection with the 2023 Panini Donruss Optic #257 Rashee Rice graded CGC 10 Gem Mint. This pristine card showcases Rashee Rice's dynamic rookie season with sharp imagery and flawless condition, making it a standout piece for any serious collector. Secure this gem to celebrate rising talent and add exceptional value to your sports memorabilia.
   Updated: 2026-01-25T21:06:54Z
   Vendor: Mingo Cards 59
@@ -272,7 +272,7 @@
   Updated: 2026-02-26T03:46:43Z
   Total Products: 20
 - [Graded - NBA & WNBA](https://mingocards59.com/collections/graded-nba-wnba-1)
-  Updated: 2026-02-21T00:06:51Z
+  Updated: 2026-03-14T15:51:05Z
   Total Products: 3
 - [Jersey Fusion - All Sports](https://mingocards59.com/collections/jersey-fusion-all-sports)
   Updated: 2026-01-25T21:06:51Z
