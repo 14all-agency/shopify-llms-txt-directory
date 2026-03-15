@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-11-26T22:38:54Z
 - Contact Email: ordinigieffeshop@gmail.com
-- Updated At: 2026-03-05T00:00:44.623Z
+- Updated At: 2026-03-15T00:00:47.264Z
 
 ## Products
 
@@ -697,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/2CSK1020CH.jpg?v=1746690991
   Price: 13,90 € EUR
 - [ABB   2CSK1031CH    PULSANTE 1P 16A NA PORTANOME BIANCO](https://gieffeshop.it/products/abb-2csk1031ch-pulsante-1p-16a-na-portanome-2moduli-colore_bianco): DESCRIZIONE PRODOTTO ABB 2CSK1031CH SERIE CHIARA PULSANTE 1P 16A NA PORTANOME 2 MODULI COLORE BIANCO Il pulsante ABB 2CSK1031CH è un componente essenziale per il tuo sistema elettrico. Con una potenza di 16A, è perfetto per il controllo di diversi dispositivi. Grazie al design bianco elegante e alla possibilità di personalizzare il portanome, si adatta perfettamente a qualsiasi ambiente. Assicura un funzionamento sicuro e affidabile per la tua rete elettrica.
-  Updated: 2025-05-08T07:56:34Z
+  Updated: 2026-03-12T00:24:24Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -830,7 +830,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/44A02.jpg?v=1746691055
   Price: 2,10 € EUR
 - [AVE   44A03    SUPPORTO RETTANGOLARE 3 MODULI](https://gieffeshop.it/products/ave-44a03-serie_sistema_44-supporto-per_scatola_da_incasso-rettangolare-3moduli): DESCRIZIONE PRODOTTO AVE 44A03 SERIE_SISTEMA_44 SUPPORTO PER SCATOLA DA INCASSO RETTANGOLARE 3 MODULI
-  Updated: 2025-05-08T07:57:39Z
+  Updated: 2026-03-05T04:11:52Z
   Vendor: My Store
   Product Type: supporto
   Availability: Available
@@ -1243,7 +1243,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/44PJ04GTK.jpg?v=1746691302
   Price: 10,11 € EUR
 - [AVE   44PSM3GTK     PLACCA IN METALLO 3 MODULI GRIGIO TEKLA](https://gieffeshop.it/products/ave-44psm3gtk-serie_sistema_44-smart-placca-in_metallo-3moduli-colore_grigio_tekla): DESCRIZIONE PRODOTTO AVE 44PSM3GTK SERIE SISTEMA 44 SMART PLACCA IN METALLO 3 MODULI COLORE GRIGIO TEKLA Questa elegante placca della serie Sistema 44 è realizzata in metallo e ha 3 moduli di colore grigio Tekla. Protegge le tue prese elettriche con stile ed eleganza, adatta per ogni ambiente. Un'ottima scelta per chi cerca un design moderno e una ricercatezza nei dettagli.
-  Updated: 2025-05-08T08:01:45Z
+  Updated: 2026-03-12T06:46:56Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -1764,269 +1764,266 @@
 
 ## Collections
 
-- [HOME PAGE](https://gieffeshop.it/collections/frontpage): La HOME PAGE della nostra collezione: informazioni essenziali, navigazione intuitiva e contenuti di tendenza. Scopri di più ora!
-  Updated: 2025-06-23T09:24:43Z
-  Total Products: 0
 - [SERIE CIVILE: STILE, FUNZIONALITA' E SICUREZZA](https://gieffeshop.it/collections/placche-e-interruttori): Acquista online prodotti di serie civile: placche, interruttori e prese delle migliori marche. Design moderno e prestazioni elevate per ogni ambiente.
-  Updated: 2026-02-07T14:33:31Z
+  Updated: 2026-03-13T14:47:43Z
   Total Products: 36
 - [SOLUZIONI DI RISCALDAMENTO EFFICIENTI E MODERNE](https://gieffeshop.it/collections/riscaldamento-e-caldaie): Scopri le migliori soluzioni per il riscaldamento domestico e industriale: termoconvettori, stufe, pannelli radianti e molto altro a prezzi competitivi.
-  Updated: 2026-02-09T14:32:48Z
+  Updated: 2026-03-13T14:42:08Z
   Total Products: 57
 - [Antifurti Casa Wireless e Filari | Sistemi di Sicurezza – GieffeShop](https://gieffeshop.it/collections/antifurti-e-sicurezza): Scopri antifurti per casa wireless e filari: sistemi di sicurezza affidabili, facili da installare e spedizione veloce. Acquista online su GieffeShop.
-  Updated: 2026-02-09T13:49:25Z
+  Updated: 2026-03-13T14:43:55Z
   Total Products: 168
 - [CAVI ELETTRICI PROFESSIONALI DI QUALITA'](https://gieffeshop.it/collections/cavi-elettrici): Cavi elettrici per impianti civili e industriali. Affidabilità, sicurezza e prestazioni elevate per ogni tipo di installazione.
-  Updated: 2025-10-06T09:21:25Z
+  Updated: 2026-03-13T14:59:05Z
   Total Products: 58
 - [DOMOTICA PER CASA INTELLIGENTE](https://gieffeshop.it/collections/domotica): Automatizza la tua casa con soluzioni di domotica innovative, sicure e facili da usare ogni giorno.
-  Updated: 2026-02-09T14:32:48Z
+  Updated: 2026-03-13T14:40:39Z
   Total Products: 100
 - [ABB : TECNOLOGIA AFFIDABILE PROFESSIONALE](https://gieffeshop.it/collections/abb): ABB è leader globale in automazione, energia e domotica con soluzioni innovative, sicure e ad alte prestazioni per ogni esigenza.
-  Updated: 2026-02-26T13:59:44Z
+  Updated: 2026-03-13T12:00:21Z
   Total Products: 94
 - [AVE PRODOTTI ELETTRICI INDUSTRIALI E CIVILI](https://gieffeshop.it/collections/ave): AVE professionali prodotti elettrici industriali e civili per ogni ambiente, al prezzo più basso del web
-  Updated: 2025-10-24T07:19:07Z
+  Updated: 2026-03-13T12:53:04Z
   Total Products: 123
 - [BTICINO PRODOTTI INDUSTRIALI E CIVILI](https://gieffeshop.it/collections/bticino): BTicino, leader italiano nella produzione di prodotti elettrici industriali, civili e video citofonia .
-  Updated: 2026-02-07T14:10:08Z
+  Updated: 2026-03-13T10:34:24Z
   Total Products: 244
 - [GEWISS : ENERGIA E DESIGN PROFESSIONALE](https://gieffeshop.it/collections/gewiss): Gewiss offre soluzioni per impianti elettrici, domotica e illuminazione con tecnologia avanzata e stile tutto italiano.
-  Updated: 2025-10-02T12:56:23Z
+  Updated: 2026-03-13T12:56:09Z
   Total Products: 91
 - [VIMAR PRODOTTI ELETTRICI CIVILI ED INDUSTRIALI](https://gieffeshop.it/collections/vimar): Il meglio di VIMAR nei prodotti elettrici civili ed industriali professionali, al prezzo più basso del web
-  Updated: 2025-10-03T08:32:04Z
+  Updated: 2026-03-13T11:55:48Z
   Total Products: 80
 - [ABB CASA DOMOTICA PROFESSIONALE](https://gieffeshop.it/collections/abb-dom): Prodotti ABB per la smart home, il sistema domotico per l'abitazione, consente di avere ogni ambiente sotto controllo.
-  Updated: 2025-10-06T09:55:25Z
+  Updated: 2026-03-13T12:53:25Z
   Total Products: 2
 - [AVE DOMOTICA SMART HOME PROFESSIONALE](https://gieffeshop.it/collections/ave-domotica): AVE DOMOTICA Le soluzioni per la smart home AVE offrono il meglio della domotica, con comandi vocali e remoti, app dedicata
-  Updated: 2025-10-24T07:19:07Z
+  Updated: 2026-03-13T12:52:52Z
   Total Products: 29
 - [BTICINO DOMOTICA PROFESSIONALE](https://gieffeshop.it/collections/bticino-domotica): Casa intelligente: smart o domotica. La sicurezza, il comfort e il risparmio energetico della tua casa diventano smart grazie ai prodotti connessi di Bticino.
-  Updated: 2026-02-06T14:42:58Z
+  Updated: 2026-03-13T10:34:04Z
   Total Products: 41
 - [CAME : AUTOMAZIONE E COMFORT PROFESSIONALE](https://gieffeshop.it/collections/came): CAME offre soluzioni avanzate per automazione cancelli, sicurezza, termoregolazione e smart home. Tecnologia affidabile e design.
   Updated: 2025-09-02T14:00:43Z
   Total Products: 36
 - [COMELIT SICUREZZA PROFESSIONALE](https://gieffeshop.it/collections/comelit): Comelit offre soluzioni innovative per videocitofonia, domotica e sicurezza con tecnologia avanzata e design italiano.
-  Updated: 2025-10-24T12:55:22Z
+  Updated: 2026-03-13T12:44:02Z
   Total Products: 10
 - [VIMAR CASA DOMOTICA PROFESSIONALE](https://gieffeshop.it/collections/vimar-domotica): VIMAR Smart Home: la casa Connessa — Controllare la casa è ancora più semplice grazie all'integrazione con comandi vocali o App.
-  Updated: 2025-10-06T10:13:00Z
+  Updated: 2026-03-13T11:55:36Z
   Total Products: 29
 - [PRODOTTI ILLUMINAZIONE MODERNA E FUNZIONALE](https://gieffeshop.it/collections/prodotti-illuminazione): Scopri soluzioni per l'illuminazione di interni ed esterni : lampade LED, faretti, plafoniere e accessori per ogni ambiente.
-  Updated: 2026-02-14T12:26:38Z
+  Updated: 2026-03-14T11:30:08Z
   Total Products: 484
 - [BEGHELLI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/beghelli-illuminazione): Beghelli realizza prodotti per l'illuminazione, di emergenza e a risparmio energetico, sistemi elettronici per la sicurezza domestica e industriale.
-  Updated: 2026-02-24T13:07:57Z
+  Updated: 2026-03-13T11:49:59Z
   Total Products: 189
 - [DISANO ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/disano-illuminazione): Disano offre soluzioni di illuminazione professionale per interni ed esterni, con efficienza, tecnologia LED e design italiano.
-  Updated: 2026-02-07T08:53:09Z
+  Updated: 2026-03-14T11:30:08Z
   Total Products: 46
 - [LEDVANCE ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/ledvance-illuminazione): Acquista luci ledvance professionali, illuminazioni intelligenti e tanto altro al prezzo più basso del web
-  Updated: 2025-09-23T08:08:59Z
+  Updated: 2026-03-13T13:11:31Z
   Total Products: 42
 - [NOVALUX ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/novalux-illuminazione): Novalux dispositivi per l'illuminazione a LED e non solo, adattabili per ogni tipo di ambiente, sia esterno che interno, al prezzo più basso del web
-  Updated: 2025-07-02T09:21:26Z
+  Updated: 2026-03-13T13:51:59Z
   Total Products: 10
 - [ARTELETA: LUCE E DESIGN PROFESSIONALE](https://gieffeshop.it/collections/arteleta): Arteleta propone soluzioni d’illuminazione professionale con prodotti LED efficienti, durevoli e dal design moderno.
-  Updated: 2025-12-19T12:42:35Z
+  Updated: 2026-03-13T12:33:46Z
   Total Products: 88
 - [FLOS ILLUMINAZIONE DESIGN PROFESSIONALE](https://gieffeshop.it/collections/flos-illuminazione): Flos: illuminazione di design per interni ed esterni. Lampade iconiche, stile moderno e qualità Made in Italy per ogni ambiente.
-  Updated: 2025-12-15T12:45:11Z
+  Updated: 2026-03-13T12:37:09Z
   Total Products: 23
 - [FOSNOVA ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/fosnova-illuminazione): Fosnova illuminazione professionale per ogni tipo di ambiente. Il prezzo più basso del web
-  Updated: 2025-09-22T12:26:41Z
+  Updated: 2026-03-13T13:12:04Z
   Total Products: 10
 - [IGUZZINI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/iguzzini-illuminazione): Iguzzini illuminazione per interni ed esterni, adatta ad ogni ambiente. Impianti di illuminazione avanzati e innovativi. Il prezzo più basso del web
-  Updated: 2025-05-21T09:36:35Z
+  Updated: 2026-03-13T13:55:09Z
   Total Products: 1
 - [LINEA LIGHT ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/linea-light): Linea Light design contemporaneo e qualità illuminativa. Prodotti di illuminazione professionali al prezzo più basso del web
-  Updated: 2026-01-28T12:30:21Z
+  Updated: 2026-03-13T12:31:04Z
   Total Products: 19
 - [NOBILE ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/nobile-illuminazione): NOBILE offre un'illuminazione di qualità, ideale per valorizzare sia ambienti residenziali che commerciali, al prezzo più basso del web.
-  Updated: 2025-09-24T13:12:38Z
+  Updated: 2026-03-13T13:04:05Z
   Total Products: 32
 - [PHILIPS LIGHTING PROFESSIONALE](https://gieffeshop.it/collections/philips-lighting): PHILIPS LIGHTING soluzioni per i professionisti. Tutto il meglio di PHILIPS al prezzo più basso del web
-  Updated: 2025-09-24T07:32:42Z
+  Updated: 2026-03-13T13:06:20Z
   Total Products: 16
 - [SLV LIGHTING ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/slv-lighting): SLV Illuminazione professionale per la casa. Ideato per soddisfare ogni ambiente. SLV al prezzo più basso del web
-  Updated: 2026-02-07T14:12:01Z
+  Updated: 2026-03-13T12:26:59Z
   Total Products: 7
 - [BEG ITALIA PRODOTTI PROFESSIONALI](https://gieffeshop.it/collections/beg-italia): BEGHELLI prodotti professionali , produzione di lampade di emergenza e accessori . Il prezzo più basso del web
-  Updated: 2025-09-10T09:41:52Z
+  Updated: 2026-03-13T13:19:37Z
   Total Products: 1
 - [MARECO LUCE : LIGHT DESIGN PROFESSIONALE](https://gieffeshop.it/collections/mareco-luce): Mareco Luce realizza soluzioni d’illuminazione per esterni con design innovativo, qualità italiana e alta efficienza energetica.
-  Updated: 2025-09-23T12:31:49Z
+  Updated: 2026-03-13T13:09:29Z
   Total Products: 18
 - [SCAME PARRE PRODOTTI PROFESSIONALI](https://gieffeshop.it/collections/scame-parre): SCAME PARRE produce componenti e sistemi per impianti elettrici in bassa tensione per settore civile, terziario e industriale. Il prezzo più basso del web
-  Updated: 2025-05-22T09:22:22Z
+  Updated: 2026-03-13T13:54:01Z
   Total Products: 1
 - [LAMPADE ARTEMIDE DESIGN PAZZESCO](https://gieffeshop.it/collections/artemide): Scopri l’eleganza delle lampade Artemide: icone di design italiano, perfette per ogni ambiente moderno e raffinato.
-  Updated: 2025-10-24T12:35:27Z
+  Updated: 2026-03-13T12:48:29Z
   Total Products: 22
 - [PANZERI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/panzeri): PANZERI ILLUMINAZIONE tutte le lampade di design moderne del marchio, lampade da terra, da tavolo, lampade da parete o da soffitto con prezzi più bassi del web
-  Updated: 2025-09-24T07:10:03Z
+  Updated: 2026-03-13T13:08:07Z
   Total Products: 1
 - [FME FANTON ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/fme-fanton): FME FANTON ILLUMINAZIONE PROFESSIONALE Lampade con cavo , Lampade ricaricabili, Proiettori led, Plafoniere. Tutto al prezzo più basso del web
-  Updated: 2025-09-25T07:16:57Z
+  Updated: 2026-03-13T13:03:22Z
   Total Products: 3
 - [LOMBARDO ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/lombardo-illuminazione): Lombardo Illuminazione offre soluzioni professionali per interni ed esterni: efficienza, stile e qualità 100% Made in Italy.
-  Updated: 2025-09-24T09:54:19Z
+  Updated: 2026-03-13T13:05:35Z
   Total Products: 27
 - [PERFORMANCE IN LIGHTING PROFESSIONALE](https://gieffeshop.it/collections/performance-in-lighting): Performance in Lighting offre illuminazione professionale per interni ed esterni: efficienza, design e tecnologia per ogni progetto.
-  Updated: 2026-02-14T12:26:38Z
+  Updated: 2026-03-13T14:35:46Z
   Total Products: 18
 - [ELCART ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/elcart-illuminazione): ELCART ILLUMINAZIONE PROFESSIONALE articoli per illuminazione a led. Vendita strisce, lampade, faretti e alimentatori driver per led. Prezzo più basso del web
-  Updated: 2025-09-22T09:11:15Z
+  Updated: 2026-03-13T13:13:42Z
   Total Products: 2
 - [LAMPADE PROFESSIONALI PER OGNI AMBIENTE](https://gieffeshop.it/collections/lampade-led): Scopri lampade da tavolo, soffitto, parete e terra. Illuminazione funzionale e di design per casa, ufficio e spazi commerciali.
-  Updated: 2025-10-15T08:58:27Z
+  Updated: 2026-03-13T14:56:56Z
   Total Products: 102
 - [PRODOTTI PERRY IMPIANTI SICURI E INNOVATIVI](https://gieffeshop.it/collections/perry): Scopri i prodotti Perry per automazione, termoregolazione e impianti elettrici professionali.
-  Updated: 2026-02-09T14:36:05Z
+  Updated: 2026-03-13T12:16:47Z
   Total Products: 58
 - [DAHUA : SICUREZZA AVANZATA PROFESSIONALE](https://gieffeshop.it/collections/dahua): Dahua è leader globale nella videosorveglianza con telecamere, DVR e soluzioni smart per una sicurezza professionale e affidabile.
-  Updated: 2026-02-07T07:56:31Z
+  Updated: 2026-03-13T11:54:19Z
   Total Products: 66
 - [VIDEO SORVEGLIANZA PROFESSIONALE](https://gieffeshop.it/collections/video-sorveglianza): Sistemi di videosorveglianza professionale per ambienti sicuri: immagini HD, controllo da remoto e tecnologia avanzata.
-  Updated: 2026-02-07T07:56:31Z
+  Updated: 2026-03-13T14:54:56Z
   Total Products: 66
 - [MELCHIONI PRODOTTI AFFIDABILI ONLINE](https://gieffeshop.it/collections/melchioni): Componenti elettronici e soluzioni Melchioni per sicurezza, domotica e automazione industriale.
-  Updated: 2026-02-09T15:01:01Z
+  Updated: 2026-03-13T12:08:39Z
   Total Products: 56
 - [CHIUSURE AUTOMATICHE PROFESSIONALI](https://gieffeshop.it/collections/chiusure-automatiche): Scopri sistemi di chiusura automatica per cancelli, porte e varchi. Soluzioni sicure, pratiche e innovative per ogni esigenza.
-  Updated: 2025-10-13T09:58:25Z
+  Updated: 2026-03-13T14:57:41Z
   Total Products: 129
 - [FAAC AUTOMAZIONE E CONTROLLO ACCESSI](https://gieffeshop.it/collections/faac): Faac automazioni professionali, soluzioni che si adattano ad ogni contesto, prezzo più basso del web
-  Updated: 2025-09-16T09:06:26Z
+  Updated: 2026-03-13T13:17:34Z
   Total Products: 59
 - [BFT AUTOMAZIONI PROFESSIONALI](https://gieffeshop.it/collections/bft): BFT: soluzioni per automazione cancelli, porte e barriere. Tecnologia affidabile per il controllo accessi in ambito residenziale e industriale.
-  Updated: 2025-10-13T09:58:25Z
+  Updated: 2026-03-13T12:55:21Z
   Total Products: 34
 - [ATTREZZATURA DA LAVORO RESISTENTE E PROFESSIONALE](https://gieffeshop.it/collections/attrezzatura-da-lavoro): Scegli l'attrezzatura da lavoro adatta a ogni mestiere: utensili, protezioni e accessori professionali .
-  Updated: 2026-02-09T15:01:01Z
+  Updated: 2026-03-13T14:29:13Z
   Total Products: 288
 - [ABAC MULTIAIR PISTOLA PROFESSIONALE](https://gieffeshop.it/collections/abac-multiair): Abac multiair pistola ad aria compressa professionale, compressori e tanto altro al prezzo più basso del web
-  Updated: 2025-08-21T08:25:03Z
+  Updated: 2026-03-13T13:50:12Z
   Total Products: 8
 - [FACAL PRODOTTI TERMOIDRAULICI PROFESSIONALI](https://gieffeshop.it/collections/facal): Facal prodotti di termoidraulica professionali, tutto il meglio al prezzo più basso del web !
-  Updated: 2025-09-16T13:17:00Z
+  Updated: 2026-03-13T13:16:03Z
   Total Products: 6
 - [BATTERIE ONLINE PER OGNI ESIGENZA](https://gieffeshop.it/collections/batterie): Ampia scelta di batterie affidabili per antifurti, auto, moto e dispositivi elettronici.
-  Updated: 2026-02-24T13:07:57Z
+  Updated: 2026-03-13T14:27:11Z
   Total Products: 73
 - [DURACELL BATTERIE PROFESSIONALI](https://gieffeshop.it/collections/duracell): Scegli la Differenza Duracell: Potenza e Innovazione Sostenibile a Prezzi Imbattibili!
-  Updated: 2025-08-27T07:57:55Z
+  Updated: 2026-03-13T13:22:37Z
   Total Products: 33
 - [ACQUISTA CITOFONIA VIDEOCITOFONIA](https://gieffeshop.it/collections/citofonia-videocitofonia): Scopri citofoni e videocitofoni analogici e digitali per case, uffici e condomini. Soluzioni con audio e video chiaro, facili da installare e sicure.
-  Updated: 2026-02-18T12:31:14Z
+  Updated: 2026-03-13T14:34:35Z
   Total Products: 162
 - [FARFISA PRODOTTI PROFESSIONALI](https://gieffeshop.it/collections/farfisa): FARFISA: video citofonia, telefonia, controllo accessi, sicurezza . Farfisa porta nelle abitazioni di tutto il mondo la tecnologia citofonica.
-  Updated: 2026-02-18T12:31:14Z
+  Updated: 2026-03-13T12:06:30Z
   Total Products: 21
 - [ALPHA ELETTRONICA PROFESSIONALE](https://gieffeshop.it/collections/alpha-elettronica): Alpha Elettronica - Distribuzione di prodotti e accessori elettronici professionali
-  Updated: 2025-08-25T12:56:39Z
+  Updated: 2026-03-13T13:23:39Z
   Total Products: 6
 - [ARISTON RISCALDAMENTO PROFESSIONALE](https://gieffeshop.it/collections/ariston): Ariston riscaldamento professionale : pompe di calore, scaldacqua elettrici, caldaie a condensazione.
-  Updated: 2025-09-25T07:48:40Z
+  Updated: 2026-03-13T13:01:25Z
   Total Products: 14
 - [SOLUZIONI TERMOIDRAULICHE PER OGNI IMPIANTO](https://gieffeshop.it/collections/termoidraulica): Scopri articoli termoidraulici per impianti civili e industriali : tubi, raccordi, valvole, pompe e accessori per riscaldamento e climatizzazione.
-  Updated: 2026-02-07T15:51:25Z
+  Updated: 2026-03-13T14:46:10Z
   Total Products: 15
 - [DAB PUMPS : POMPE DI ASPIRAZIONE PROFESSIONALI](https://gieffeshop.it/collections/dab-pumps): DUB PUMPS : POMPE DI ASPIRAZIONE , tecnologie innovative per la movimentazione e gestione dell'acqua
-  Updated: 2025-08-29T07:36:06Z
+  Updated: 2026-03-13T13:21:47Z
   Total Products: 7
 - [CLIMATIZZAZIONE E VENTILAZIONE](https://gieffeshop.it/collections/climatizzazione): Scopri la nostra collezione dedicata alla climatizzazione e ventilazione per un ambiente sempre fresco e confortevole.
-  Updated: 2026-02-07T13:56:37Z
+  Updated: 2026-03-13T14:51:41Z
   Total Products: 17
 - [ARNOCANALI HOME PROFESSIONALE](https://gieffeshop.it/collections/arnocanali): Arnocanali progetta e costruisce componenti elettrici e meccanici per la connessione in bassa tensione e materiale da installazione
-  Updated: 2025-05-20T13:13:41Z
+  Updated: 2026-03-13T13:56:02Z
   Total Products: 18
 - [ADELSYSTEM PRODOTTI PROFESSIONALI ED INDUSTRIALI](https://gieffeshop.it/collections/adelsystem): Il potere dell'energia continua. Il mondo che corre su autostrade digitali ha bisogno di un supporto energetico stabile, continuo e garantito.
-  Updated: 2026-02-07T13:50:21Z
+  Updated: 2026-03-13T12:22:56Z
   Total Products: 7
 - [CENTRALINI ELETTRICI PROFESSIONALI](https://gieffeshop.it/collections/centralini-elettrici): Scopri centralini elettrici professionali per impianti sicuri e organizzati. Qualità, affidabilità e conformità alle norme.
-  Updated: 2025-09-16T12:17:56Z
+  Updated: 2026-03-13T15:01:01Z
   Total Products: 26
 - [INTERRUTTORI ED ACCESSORI MODULARI](https://gieffeshop.it/collections/modulari): Acquista interruttori modulari affidabili per ogni esigenza elettrica. Spedizione veloce, prezzi competitivi e prodotti certificati
-  Updated: 2026-02-26T13:59:44Z
+  Updated: 2026-03-13T14:30:34Z
   Total Products: 184
 - [LT TERRANEO CITOFONIA E VIDEOCITOFONIA](https://gieffeshop.it/collections/lt-terraneo): Il meglio di LT TERRANEO, apparecchiature professionali di citofonia e video citofonia
-  Updated: 2025-09-29T09:16:42Z
+  Updated: 2026-03-13T12:59:21Z
   Total Products: 84
 - [ELETTROUTENSILI ED UTENSILI PROFESSIONALI](https://gieffeshop.it/collections/elettroutensili-ed-utensili): Scopri utensili e elettroutensili per uso professionale e fai da te: qualità e prestazioni top.
-  Updated: 2026-02-09T15:01:01Z
+  Updated: 2026-03-13T14:38:39Z
   Total Products: 89
 - [AERTECNICA ASPIRAZIONE CENTRALIZZATA DOMESTICA](https://gieffeshop.it/collections/aertecnica): Aertecnica aspirazione domestica, l'aspirazione centralizzata integrata più evoluta al Mondo. Tecnologico, Smart, Potente, Green.
-  Updated: 2025-09-30T13:59:00Z
+  Updated: 2026-03-13T12:57:28Z
   Total Products: 26
 - [ARTELETA ATTREZZATURE PROFESSIONALI](https://gieffeshop.it/collections/arteleta-attrezzature): Scopri le attrezzature professionali Arteleta: qualità, affidabilità e soluzioni per ogni esigenza del tuo lavoro.
-  Updated: 2025-10-30T08:23:52Z
+  Updated: 2026-03-13T12:35:18Z
   Total Products: 23
 - [DEHN ITALIA: PROTEZIONE PROFESSIONALE](https://gieffeshop.it/collections/dehn-italia): DEHN Italia è specialista nella protezione da sovratensioni e fulmini, con soluzioni affidabili per impianti elettrici e sicurezza.
-  Updated: 2025-05-20T08:17:10Z
+  Updated: 2026-03-13T13:56:59Z
   Total Products: 3
 - [BLACK DECKER ATTREZZI PROFESSIONALI](https://gieffeshop.it/collections/black-decker): Black Decker: attrezzature elettriche e utensili per casa e lavoro. Qualità, potenza e innovazione per ogni progetto fai-da-te.
-  Updated: 2025-10-24T09:47:18Z
+  Updated: 2026-03-13T12:50:08Z
   Total Products: 46
 - [HAGER : SISTEMI ELETTRICI PROFESSIONALI](https://gieffeshop.it/collections/hager): Hager offre soluzioni professionali per impianti elettrici, automazione e domotica. Qualità, sicurezza e innovazione al servizio degli installatori.
-  Updated: 2025-05-20T08:07:17Z
+  Updated: 2026-03-13T13:58:04Z
   Total Products: 29
 - [LOVATO : AUTOMAZIONE PROFESSIONALE](https://gieffeshop.it/collections/lovato): Lovato Electric propone soluzioni per automazione industriale, comando, protezione e gestione dell’energia. Tecnologia e affidabilità.
-  Updated: 2025-05-20T08:06:17Z
+  Updated: 2026-03-13T13:59:02Z
   Total Products: 7
 - [BM GROUP SOLUZIONI INDUSTRIALI](https://gieffeshop.it/collections/bm-group): BM Group offre tecnologie avanzate per automazione industriale, impianti elettrici e soluzioni innovative per l’industria 4.0.
-  Updated: 2025-10-24T12:52:25Z
+  Updated: 2026-03-13T12:45:37Z
   Total Products: 29
 - [AMC ELETTRONICA PROFESSIONALE](https://gieffeshop.it/collections/amc-elettronica): AMC Elettronica offre sistemi professionali per sicurezza, antintrusione e controllo accessi. Affidabilità e innovazione made in Italy.
-  Updated: 2025-10-29T10:34:35Z
+  Updated: 2026-03-13T12:41:11Z
   Total Products: 29
 - [CAME VIDEO-CITOFONIA PROFESSIONALE](https://gieffeshop.it/collections/came-video-citofonia): Videocitofonia Came professionale: immagini nitide, design elegante e tecnologie avanzate per la sicurezza degli accessi.
-  Updated: 2025-09-25T07:56:50Z
+  Updated: 2026-03-13T13:00:21Z
   Total Products: 32
 - [CAME TERMOREGOLAZIONE PROFESSIONALE](https://gieffeshop.it/collections/came-termoregolazione): Soluzioni Came per termoregolazione professionale: comfort, efficienza energetica e controllo intelligente degli ambienti.
-  Updated: 2025-09-09T13:35:54Z
+  Updated: 2026-03-13T13:20:20Z
   Total Products: 8
 - [COMELIT ANTINTRUSIONE PROFESSIONALE](https://gieffeshop.it/collections/comelit-antintrusione): Proteggi la tua casa con i sistemi antintrusione Comelit: tecnologia affidabile, controllo da remoto e facile integrazione.
-  Updated: 2025-10-28T09:37:01Z
+  Updated: 2026-03-13T12:43:37Z
   Total Products: 42
 - [COMELIT VIDEOCITOFONIA PROFESSIONALE](https://gieffeshop.it/collections/comelit-videocitofonia): Scopri i videocitofoni Comelit: design moderno, alta qualità audio-video e facile installazione per la tua sicurezza.
-  Updated: 2025-10-28T09:22:02Z
+  Updated: 2026-03-13T12:43:44Z
   Total Products: 21
 - [ASITA , TECNOLOGIA E QUALITA'](https://gieffeshop.it/collections/asita): Scopri Asita: soluzioni affidabili e innovative per l'energia e l'automazione. Qualità certificata e assistenza professionale.
-  Updated: 2026-01-08T12:45:17Z
+  Updated: 2026-03-13T12:34:00Z
   Total Products: 14
 - [MELCHIONI VENTILAZIONE-RISCALDAMENTO](https://gieffeshop.it/collections/melchioni-ventilazione-riscaldamento): Scopri la vasta scelta di componenti elettronici e piccoli elettrodomestici su Melchioni Ventilazione-Riscaldamento. Optimizza la tua casa!
-  Updated: 2025-10-16T09:09:07Z
+  Updated: 2026-03-13T11:59:09Z
   Total Products: 14
 - [FISCHER ATTREZZATURE PROFESSIONALI](https://gieffeshop.it/collections/fischer): Fischer: attrezzature di alta qualità per edilizia e industria. Soluzioni affidabili e innovative per ogni esigenza professionale.
-  Updated: 2025-10-24T09:17:37Z
+  Updated: 2026-03-13T12:51:34Z
   Total Products: 20
 - [CEMBRE ATTREZZATURE PROFESSIONALI](https://gieffeshop.it/collections/cembre): Cembre: attrezzature e utensili per cablaggi elettrici e connessioni. Soluzioni affidabili per professionisti del settore elettrico.
-  Updated: 2025-08-22T09:37:24Z
+  Updated: 2026-03-13T13:24:41Z
   Total Products: 4
 - [ACQUISTA ONLINE WD40 LUBRIFICA E PROTEGGE](https://gieffeshop.it/collections/wd40): Scopri la gamma WD-40: lubrifica, protegge, elimina ruggine e umidità su ogni tipo di superficie.
-  Updated: 2026-02-09T14:56:55Z
+  Updated: 2026-03-13T12:11:36Z
   Total Products: 12
 - [ARITECH ANTIFURTI E SISTEMI SICURI](https://gieffeshop.it/collections/aritech): Tecnologia Aritech per antifurti e sicurezza professionale. Sistemi affidabili per proteggere casa e azienda con soluzioni all’avanguardia.
-  Updated: 2026-02-14T12:26:38Z
+  Updated: 2026-03-13T12:07:18Z
   Total Products: 5
 - [MOEL](https://gieffeshop.it/collections/moel): Scopri la nostra collezione di lampade riscaldamento elettroinsetticidi per un ambiente confortevole e sicuro. Da MOEL.
-  Updated: 2026-02-07T14:07:09Z
+  Updated: 2026-03-13T12:18:51Z
   Total Products: 8
 - [ELETTROINSETTICIDI](https://gieffeshop.it/collections/elettroinsetticidi): Scopri la nostra collezione di elettroinsetticidi per proteggere la tua casa dagli insetti fastidiosi. Mantiieni l'ambiente sicuro e pulito!
-  Updated: 2026-02-07T14:07:09Z
+  Updated: 2026-03-13T14:49:56Z
   Total Products: 5
 - [OUTLET](https://gieffeshop.it/collections/outlet): I PRODOTTI OUTLET NON POTRANNO ESSERE RESTITUITI E RIMBORSATI
-  Updated: 2026-02-07T13:46:53Z
+  Updated: 2026-03-13T14:53:07Z
   Total Products: 6
 - [Illuminazione FLOS Design Italiano - Lampade Premium | Gieffeshop](https://gieffeshop.it/collections/illuminazione-flos-design-italiano): Scopri la collezione FLOS: lampade e faretti design italiano premium. Qualità Made in Italy, tecnologia LED, spedizione rapida. Shop online!
-  Updated: 2025-12-15T12:45:11Z
+  Updated: 2026-03-13T12:37:18Z
   Total Products: 22
 - [BTicino Serie Civile - Impianti Elettrici Qualità Italiana | Gieffeshop](https://gieffeshop.it/collections/bticino-serie-civile-qualita-italiana): BTicino Serie Civile: scatole incasso, interruttori, temporizzatori. Qualità italiana garantita, installazione professionale. Acquista online!
-  Updated: 2026-02-07T13:46:53Z
+  Updated: 2026-03-13T10:34:49Z
   Total Products: 366
 
 ## Blogs
@@ -2038,41 +2035,25 @@
 
 ## Store Pages
 
-- [Contatti Gieffeshop – Assistenza clienti veloce e gratuita](https://gieffeshop.it/pages/contatti): CONTATTI GIEFFESHOP Hai bisogno di assistenza o informazioni? In questa pagina trovi tutti i contatti Gieffeshop per ricevere supporto rapido e per...
-  Updated: 2025-05-09T08:22:21Z
+- [Contatti e Assistenza Tecnica | Gieffeshop Terni](https://gieffeshop.it/pages/contatti): Hai bisogno di supporto tecnico o informazioni su un ordine? Che tu sia un professionista del settore o un amante del fai-da-te, il team di Gieffes...
+  Updated: 2026-03-12T07:34:00Z
 - [LA FAMIGLIA Gieffeshop, CHI SIAMO](https://gieffeshop.it/pages/chi-siamo): 
-  Updated: 2025-05-15T08:26:03Z
+  Updated: 2026-03-13T15:16:18Z
 - [Tutte le domande più Frequenti (FAQs)](https://gieffeshop.it/pages/pushdaddy-faq-1): Your FAQ content here
-  Updated: 2025-05-15T08:27:32Z
-- [Tutte le domande più Frequenti - FAQ](https://gieffeshop.it/pages/avada-faqs): .main-page-title.page-title { display: none !important; } function loadScript() { const elem = document.createElement('script'); elem.type = 'text/...
-  Updated: 2025-05-15T08:28:12Z
-- [Mappa HTML Prodotti - Gieffe Shop](https://gieffeshop.it/pages/html-sitemap-products): Products PERRY TE 400B TERMOSTATO ELE... ARTELETA 58575 RILEVATOR... BTICINO AM5001 INTERRUTTOR... BTICINO N4803LB PLACCA IN ... PERFORMANCE IN LIG...
-  Updated: 2025-05-15T08:28:59Z
-- [HTML Sitemap Prodotti - Gieffe Shop](https://gieffeshop.it/pages/html-sitemap-products-1): Products FAAC 785103 COPPIA FOTOCEL... FAAC 785104 COPPIA FOTOCEL... FAAC 785105 COPPIA FOTOCE... FAAC 787007 RADIOCOMANDO ... FAAC 787008 RADIOCOM...
-  Updated: 2025-05-15T08:29:27Z
-- [HTML Sitemap Prodotti - GieffeShop](https://gieffeshop.it/pages/html-sitemap-products-2): Products ASITA MD214 MULTIME... ASITA MD321 MULTIM... ASITA PA310 PIN... ASITA PUM/DRN ... ASITA SCF200 INDICAT... ASITA 3280-10F PI... ASITA 3481-...
-  Updated: 2025-05-15T08:29:55Z
-- [Collezioni Sitemap HTML - Gieffe Shop](https://gieffeshop.it/pages/html-sitemap-collections): Collections HOME PAGE SERIE CIVILE RISCALDAMENTO ANTIFURTI E SICUREZZA CAVI ELETTRICI DOMOTICA ABB AVE BTICINO GEWISS VIMAR ABB DOMOTICA AVE DOMOTI...
-  Updated: 2025-05-15T08:30:22Z
-- [Sitemap HTML: Scopri i Nostri Blog](https://gieffeshop.it/pages/html-sitemap-blogs): Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
-  Updated: 2025-05-15T08:30:55Z
-- [html sitemap pages](https://gieffeshop.it/pages/html-sitemap-pages): Pages Contact Gieffeshop FAQs Frequently Asked Questions html sitemap products html sitemap products html sitemap products html sitemap collections...
-  Updated: 2025-05-08T09:10:49Z
-- [html sitemap](https://gieffeshop.it/pages/html-sitemap): Products PERRY TE 400B TERMOSTATO ELE... ARTELETA 58575 RILEVATOR... BTICINO AM5001 INTERRUTTOR... BTICINO N4803LB PLACCA IN ... PERFORMANCE IN LIG...
-  Updated: 2025-05-08T09:10:50Z
+  Updated: 2026-03-13T15:17:37Z
 
 ## Policies
 
 - [Privacy Policy](https://gieffeshop.it/policies/privacy-policy)
   Updated: 2024-12-04T00:31:36+01:00
 - [Shipping Policy](https://gieffeshop.it/policies/shipping-policy)
-  Updated: 2025-03-12T16:07:01+01:00
+  Updated: 2026-03-12T14:04:27+01:00
 - [Refund Policy](https://gieffeshop.it/policies/refund-policy)
-  Updated: 2025-08-07T11:31:38+02:00
+  Updated: 2026-03-12T13:53:48+01:00
 - [Terms of Service](https://gieffeshop.it/policies/terms-of-service)
-  Updated: 2025-03-13T14:52:03+01:00
+  Updated: 2026-03-12T14:01:16+01:00
 - [Contact Information](https://gieffeshop.it/policies/contact-information)
-  Updated: 2025-01-15T10:47:02+01:00
+  Updated: 2026-03-12T14:12:18+01:00
 
 ## Optional
 
