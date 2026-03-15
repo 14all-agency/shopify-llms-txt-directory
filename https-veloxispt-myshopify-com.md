@@ -6,340 +6,333 @@
 - Timezone: Europe/Lisbon
 - Created At: 2026-02-19T00:14:27Z
 - Contact Email: veloxispt@gmail.com
-- Updated At: 2026-03-07T00:00:24.095Z
+- Updated At: 2026-03-15T00:00:35.094Z
 
 ## Products
 
 - [Calções Running Verão - Summer Gym Shorts | VELOXIS](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing): Calções desportivos de verão leves e respiráveis. Ideais para corrida e ginásio em dias quentes. Máximo conforto garantido.
-  Updated: 2026-03-06T15:02:44Z
+  Updated: 2026-03-07T02:51:13Z
   Vendor: VELOXIS
   Product Type: Calções Desportivos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5db69c05d2a24543af4fd0c789026e4cc.webp?v=1772195000
   - [Verde / S](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531337554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde / M](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531304786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde / L](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530223442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde / XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530288978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde / XXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530256210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde / XXXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531272018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde / 4XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531239250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbc09c1cf8fdc4e258f896f9dac0dfd88r.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde florescente / S](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530420050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde florescente / M](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530387282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde florescente / L](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530485586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde florescente / XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530551122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde florescente / XXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530518354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde florescente / XXXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530354514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Verde florescente / 4XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530321746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S860db4ccea7143b68c66731a05dc40aaZ.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Vermelho / S](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530452818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772195001
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Vermelho / M](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530682194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772195001
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Vermelho / L](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530780498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772195001
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Vermelho / XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530583890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772195001
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Vermelho / XXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530813266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772195001
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Vermelho / XXXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530649426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772195001
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Vermelho / 4XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530616658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772195001
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08449f60ff5b4277afc13e6d3d4c7f0ah.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Preto / S](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530747730)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa3ba110b8ba840f7af323911d0b04dc3m.webp?v=1772195000
-    Price: 12,99 € EUR
+    Price: 9,99 € EUR
   - [Preto / M](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530714962)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa3ba110b8ba840f7af323911d0b04dc3m.webp?v=1772195000
-    Price: 12,99 € EUR
+    Price: 9,99 € EUR
   - [Preto / L](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531075410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa3ba110b8ba840f7af323911d0b04dc3m.webp?v=1772195000
-    Price: 12,99 € EUR
+    Price: 9,99 € EUR
   - [Preto / XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530878802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa3ba110b8ba840f7af323911d0b04dc3m.webp?v=1772195000
-    Price: 12,99 € EUR
+    Price: 9,99 € EUR
   - [Preto / XXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530846034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa3ba110b8ba840f7af323911d0b04dc3m.webp?v=1772195000
-    Price: 12,99 € EUR
+    Price: 9,99 € EUR
   - [Preto / XXXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530944338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa3ba110b8ba840f7af323911d0b04dc3m.webp?v=1772195000
-    Price: 12,99 € EUR
+    Price: 9,99 € EUR
   - [Preto / 4XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530911570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa3ba110b8ba840f7af323911d0b04dc3m.webp?v=1772195000
-    Price: 12,99 € EUR
+    Price: 9,99 € EUR
   - [Azul / S](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531042642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Azul / M](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531009874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Azul / L](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531108178)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Azul / XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531173714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Azul / XXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531140946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Azul / XXXL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824530977106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
+    Price: 9,49 € EUR
   - [Azul / 4XL](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing?variant=52824531206482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772195000
-    Price: 12,49 € EUR
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
+    Price: 9,49 € EUR
 - [Top Desportivo Seamless Feminino - Conforto & Performance | VELOXIS](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear): Top desportivo feminino sem costuras com máximo conforto. Tecido respirável e elástico. Perfeito para yoga, ginásio e treinos intensos.
-  Updated: 2026-03-06T15:04:02Z
+  Updated: 2026-03-09T22:28:43Z
   Vendor: VELOXIS
   Product Type: Tops Desportivos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa911fb94bfb24437829c84fc03eb11b6b.webp?v=1772242197
-  - [Navy / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666836818)
+  - [Azul Marinho / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666836818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9f993edef3bd4d45ad5d10004d0ab78fC.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Navy / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666869586)
+  - [Azul Marinho / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666869586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9f993edef3bd4d45ad5d10004d0ab78fC.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Navy / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666771282)
+  - [Azul Marinho / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666771282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9f993edef3bd4d45ad5d10004d0ab78fC.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Navy / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666804050)
+  - [Azul Marinho / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666804050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9f993edef3bd4d45ad5d10004d0ab78fC.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Purple / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666967890)
+  - [Roxo / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666967890)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02d4044d9cb9420ba108df0b92464e6dl.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Purple / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667000658)
+  - [Roxo / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667000658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02d4044d9cb9420ba108df0b92464e6dl.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Purple / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666902354)
+  - [Roxo / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666902354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02d4044d9cb9420ba108df0b92464e6dl.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Purple / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666935122)
+  - [Roxo / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829666935122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02d4044d9cb9420ba108df0b92464e6dl.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Pink / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667098962)
+  - [Rosa / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667098962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7f24bacf603b43c680e653ed5f755501n.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Pink / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667131730)
+  - [Rosa / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667131730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7f24bacf603b43c680e653ed5f755501n.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Pink / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667033426)
+  - [Rosa / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667033426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7f24bacf603b43c680e653ed5f755501n.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Pink / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667066194)
+  - [Rosa / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667066194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7f24bacf603b43c680e653ed5f755501n.webp?v=1772241395
     Price: 10,99 € EUR
-  - [White / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667230034)
+  - [Branco / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667230034)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seeade305befd4e2980abf587fc996f0dy.webp?v=1772241396
     Price: 10,99 € EUR
-  - [White / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667262802)
+  - [Branco / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667262802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seeade305befd4e2980abf587fc996f0dy.webp?v=1772241396
     Price: 10,99 € EUR
-  - [White / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667164498)
+  - [Branco / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667164498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seeade305befd4e2980abf587fc996f0dy.webp?v=1772241396
     Price: 10,99 € EUR
-  - [White / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667197266)
+  - [Branco / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667197266)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seeade305befd4e2980abf587fc996f0dy.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Red / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667361106)
+  - [Vermelho / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667361106)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98a005d1f6694115bcdfb2d8b2151a7af.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Red / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667393874)
+  - [Vermelho / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667393874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98a005d1f6694115bcdfb2d8b2151a7af.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Red / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667295570)
+  - [Vermelho / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667295570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98a005d1f6694115bcdfb2d8b2151a7af.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Red / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667328338)
+  - [Vermelho / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667328338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98a005d1f6694115bcdfb2d8b2151a7af.webp?v=1772241395
     Price: 10,99 € EUR
-  - [Green / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667492178)
+  - [Verde / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667492178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6e4b3b2f79c34616ac32633077f357ccY.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Green / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667524946)
+  - [Verde / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667524946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6e4b3b2f79c34616ac32633077f357ccY.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Green / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667426642)
+  - [Verde / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667426642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6e4b3b2f79c34616ac32633077f357ccY.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Green / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667459410)
+  - [Verde / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667459410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6e4b3b2f79c34616ac32633077f357ccY.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Gray / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667623250)
+  - [Cinzento / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667623250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se01d0b6e4bdd4ee3a298dba5181bedb6T.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Gray / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667656018)
+  - [Cinzento / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667656018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se01d0b6e4bdd4ee3a298dba5181bedb6T.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Gray / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667557714)
+  - [Cinzento / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667557714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se01d0b6e4bdd4ee3a298dba5181bedb6T.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Gray / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667590482)
+  - [Cinzento / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667590482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se01d0b6e4bdd4ee3a298dba5181bedb6T.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Orange / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667754322)
+  - [Laranja / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667754322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S55d109285cac40aa8473cb18b29343f4C.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Orange / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667787090)
+  - [Laranja / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667787090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S55d109285cac40aa8473cb18b29343f4C.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Orange / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667688786)
+  - [Laranja / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667688786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S55d109285cac40aa8473cb18b29343f4C.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Orange / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667721554)
+  - [Laranja / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667721554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S55d109285cac40aa8473cb18b29343f4C.webp?v=1772241396
     Price: 10,99 € EUR
-  - [LightGreen / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667885394)
+  - [Verde Claro / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667885394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S519e3395ebd74eef9824a8cbdd130450x.webp?v=1772241396
     Price: 10,99 € EUR
-  - [LightGreen / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667918162)
+  - [Verde Claro / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667918162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S519e3395ebd74eef9824a8cbdd130450x.webp?v=1772241396
     Price: 10,99 € EUR
-  - [LightGreen / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667819858)
+  - [Verde Claro / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667819858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S519e3395ebd74eef9824a8cbdd130450x.webp?v=1772241396
     Price: 10,99 € EUR
-  - [LightGreen / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667852626)
+  - [Verde Claro / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667852626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S519e3395ebd74eef9824a8cbdd130450x.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Coffee / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668016466)
+  - [Castanho/Café / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668016466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9425cd023cb542469bf1a8f42462bbc19.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Coffee / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668049234)
+  - [Castanho/Café / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668049234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9425cd023cb542469bf1a8f42462bbc19.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Coffee / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667950930)
+  - [Castanho/Café / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667950930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9425cd023cb542469bf1a8f42462bbc19.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Coffee / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667983698)
+  - [Castanho/Café / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829667983698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9425cd023cb542469bf1a8f42462bbc19.webp?v=1772241396
     Price: 10,99 € EUR
-  - [Black / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668147538)
+  - [Preto / S](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668147538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9edd50c43c604976beb3eb2f8be3e0c8K.webp?v=1772241396
     Price: 11,99 € EUR
-  - [Black / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668180306)
+  - [Preto / M](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668180306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9edd50c43c604976beb3eb2f8be3e0c8K.webp?v=1772241396
     Price: 11,99 € EUR
-  - [Black / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668082002)
+  - [Preto / L](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668082002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9edd50c43c604976beb3eb2f8be3e0c8K.webp?v=1772241396
     Price: 11,99 € EUR
-  - [Black / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668114770)
+  - [Preto / XL](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear?variant=52829668114770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9edd50c43c604976beb3eb2f8be3e0c8K.webp?v=1772241396
     Price: 11,99 € EUR
 - [T-Shirt Bodybuilding Masculina - Treino Força | VELOXIS](https://veloxispt.myshopify.com/products/men-sport-t-shirt-quick-dry-bodybuilding-running-shirt-long-sleeve-compression-top-gym-t-shirt-men-fitness-tight-rashgard): T-shirt desportiva para bodybuilding com corte ergonómico e tecido elástico. Ideal para musculação e treinos de força. Máximo conforto e performance.
-  Updated: 2026-03-06T15:07:06Z
+  Updated: 2026-03-07T02:58:25Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -485,7 +478,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S81db30c11db9493ab1ced81f168ad6663.webp?v=1772284238
     Price: 10,49 € EUR
 - [T-Shirt Compressão Masculina - Treino & Performance | VELOXIS](https://veloxispt.myshopify.com/products/mens-t-shirt-outdoor-training-fitness-gym-jogging-running-sweatshirt-bat-man-compression-shirts-tight-elastic-breathable): T-shirt de compressão para homem com suporte muscular e tecido respirável. Perfeita para ginásio, corrida e treinos intensos. Conforto e performance garantidos.
-  Updated: 2026-03-06T15:08:17Z
+  Updated: 2026-03-07T02:58:32Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -691,773 +684,761 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S523c61cc0dcf48599b7c5b2b50d43e32H.webp?v=1772285266
     Price: 8,49 € EUR
 - [Calças Jogging Fitness Homem | Desporto e Treino Confortável](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan): Calças de jogging fitness para homem. Corte largo, confortável e respirável. Perfeitas para corrida, ginásio e uso casual. Máxima mobilidade e estilo.
-  Updated: 2026-03-06T15:09:48Z
+  Updated: 2026-03-09T22:29:47Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43aa7fa023d54204b1ad5dcf24567502g.webp?v=1772289496
-  - [black / S / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449836882)
+  - [Preto / S / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449836882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b3829cd769448418eb4240d1b276e98m.webp?v=1772289802
     Price: 11,49 € EUR
-  - [black / M / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449869650)
+  - [Preto / M / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449869650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b3829cd769448418eb4240d1b276e98m.webp?v=1772289802
     Price: 11,49 € EUR
-  - [GRAY / S / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449902418)
+  - [Cinzento / S / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449902418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43aa7fa023d54204b1ad5dcf24567502g.webp?v=1772289496
     Price: 11,99 € EUR
-  - [GRAY / M / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449935186)
+  - [Cinzento / M / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449935186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43aa7fa023d54204b1ad5dcf24567502g.webp?v=1772289496
     Price: 11,99 € EUR
-  - [GRAY / L / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449967954)
+  - [Cinzento / L / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833449967954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43aa7fa023d54204b1ad5dcf24567502g.webp?v=1772289496
     Price: 11,99 € EUR
-  - [GRAY / XL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450000722)
+  - [Cinzento / XL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450000722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43aa7fa023d54204b1ad5dcf24567502g.webp?v=1772289496
     Price: 11,99 € EUR
-  - [black / L / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450033490)
+  - [Preto / L / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450033490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b3829cd769448418eb4240d1b276e98m.webp?v=1772289802
     Price: 11,49 € EUR
-  - [black / XL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450066258)
+  - [Preto / XL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450066258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b3829cd769448418eb4240d1b276e98m.webp?v=1772289802
     Price: 11,49 € EUR
-  - [black / XXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450099026)
+  - [Preto / XXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450099026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b3829cd769448418eb4240d1b276e98m.webp?v=1772289802
     Price: 11,49 € EUR
-  - [black / XXXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450131794)
+  - [Preto / XXXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450131794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b3829cd769448418eb4240d1b276e98m.webp?v=1772289802
     Price: 11,49 € EUR
-  - [dark blue / L / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450164562)
+  - [Azul Escuro / L / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450164562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd4ff2f4d7011417e8b2f00ca6960daa42.webp?v=1772289802
     Price: 11,49 € EUR
-  - [dark blue / XL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450197330)
+  - [Azul Escuro / XL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450197330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd4ff2f4d7011417e8b2f00ca6960daa42.webp?v=1772289802
     Price: 11,49 € EUR
-  - [dark blue / XXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450230098)
+  - [Azul Escuro / XXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450230098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd4ff2f4d7011417e8b2f00ca6960daa42.webp?v=1772289802
     Price: 11,49 € EUR
-  - [dark blue / XXXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450262866)
+  - [Azul Escuro / XXXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450262866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd4ff2f4d7011417e8b2f00ca6960daa42.webp?v=1772289802
     Price: 11,49 € EUR
-  - [GRAY / XXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450295634)
+  - [Cinzento / XXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450295634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43aa7fa023d54204b1ad5dcf24567502g.webp?v=1772289496
     Price: 11,99 € EUR
-  - [GRAY / XXXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450328402)
+  - [Cinzento / XXXL / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450328402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43aa7fa023d54204b1ad5dcf24567502g.webp?v=1772289496
     Price: 11,99 € EUR
-  - [dark blue / S / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450361170)
+  - [Azul Escuro / S / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450361170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd4ff2f4d7011417e8b2f00ca6960daa42.webp?v=1772289802
     Price: 11,49 € EUR
-  - [dark blue / M / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450393938)
+  - [Azul Escuro / M / Pack of 1](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan?variant=52833450393938)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd4ff2f4d7011417e8b2f00ca6960daa42.webp?v=1772289802
     Price: 11,49 € EUR
 - [Camisola Sem Mangas Masculina - Tank Top Algodão | VELOXIS](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes): Camisola sem mangas masculina em algodão respirável. Ideal para ginásio, bodybuilding e uso casual. Conforto e versatilidade garantidos.
-  Updated: 2026-03-06T15:10:31Z
+  Updated: 2026-03-09T22:31:42Z
   Vendor: VELOXIS
   Product Type: Camisolas Sem Mangas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S08fa5c59a0314f029d463335b223062cR.webp?v=1772292026
-  - [WHITE / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581728082)
+  - [Branco / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581728082)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3bc0a67fcba04c5cba065e937c5f0e11d.webp?v=1772292351
     Price: 6,49 € EUR
-  - [WHITE / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581695314)
+  - [Branco / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581695314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3bc0a67fcba04c5cba065e937c5f0e11d.webp?v=1772292351
     Price: 6,49 € EUR
-  - [WHITE / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581662546)
+  - [Branco / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581662546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3bc0a67fcba04c5cba065e937c5f0e11d.webp?v=1772292351
     Price: 6,49 € EUR
-  - [WHITE / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582154066)
+  - [Branco / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582154066)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3bc0a67fcba04c5cba065e937c5f0e11d.webp?v=1772292351
     Price: 6,49 € EUR
-  - [PURPLE / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581859154)
+  - [Roxo / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581859154)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1ef2fd62e8c843b099c2c291aca4caa5n.webp?v=1772292351
     Price: 6,49 € EUR
-  - [PURPLE / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581826386)
+  - [Roxo / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581826386)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1ef2fd62e8c843b099c2c291aca4caa5n.webp?v=1772292351
     Price: 6,49 € EUR
-  - [PURPLE / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581793618)
+  - [Roxo / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581793618)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1ef2fd62e8c843b099c2c291aca4caa5n.webp?v=1772292351
     Price: 6,49 € EUR
-  - [PURPLE / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581760850)
+  - [Roxo / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581760850)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1ef2fd62e8c843b099c2c291aca4caa5n.webp?v=1772292351
     Price: 6,49 € EUR
-  - [army green / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582514514)
+  - [Verde Militar / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582514514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S38bf40092ef44854a104e8a84344f947u.webp?v=1772292351
     Price: 6,49 € EUR
-  - [army green / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582481746)
+  - [Verde Militar / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582481746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S38bf40092ef44854a104e8a84344f947u.webp?v=1772292351
     Price: 6,49 € EUR
-  - [army green / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582448978)
+  - [Verde Militar / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582448978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S38bf40092ef44854a104e8a84344f947u.webp?v=1772292351
     Price: 6,49 € EUR
-  - [army green / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581891922)
+  - [Verde Militar / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581891922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S38bf40092ef44854a104e8a84344f947u.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Burgundy / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581990226)
+  - [Bordô/Vinho / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581990226)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfcf08684089b48bc9be3a98e818bbb09y.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Burgundy / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581957458)
+  - [Bordô/Vinho / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581957458)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfcf08684089b48bc9be3a98e818bbb09y.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Burgundy / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581924690)
+  - [Bordô/Vinho / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833581924690)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfcf08684089b48bc9be3a98e818bbb09y.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Burgundy / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582809426)
+  - [Bordô/Vinho / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582809426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfcf08684089b48bc9be3a98e818bbb09y.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Navy Blue / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582121298)
+  - [Azul Marinho / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582121298)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saae0e9eab5b7429d99a344b8a9fe23914.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Navy Blue / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582088530)
+  - [Azul Marinho / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582088530)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saae0e9eab5b7429d99a344b8a9fe23914.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Navy Blue / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582055762)
+  - [Azul Marinho / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582055762)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saae0e9eab5b7429d99a344b8a9fe23914.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Navy Blue / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582022994)
+  - [Azul Marinho / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582022994)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saae0e9eab5b7429d99a344b8a9fe23914.webp?v=1772292351
     Price: 6,49 € EUR
-  - [coffee / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582252370)
+  - [CAstanho/Café / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582252370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4d96f2cd81744a95bd6dda803998df5ay.webp?v=1772292351
     Price: 6,99 € EUR
-  - [coffee / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582219602)
+  - [CAstanho/Café / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582219602)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4d96f2cd81744a95bd6dda803998df5ay.webp?v=1772292351
     Price: 6,99 € EUR
-  - [coffee / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582186834)
+  - [CAstanho/Café / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582186834)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4d96f2cd81744a95bd6dda803998df5ay.webp?v=1772292351
     Price: 6,99 € EUR
-  - [coffee / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582678354)
+  - [CAstanho/Café / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582678354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4d96f2cd81744a95bd6dda803998df5ay.webp?v=1772292351
     Price: 6,99 € EUR
-  - [Blue / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582383442)
+  - [Azul / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582383442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S58fbbfb875ee41719a02adb7e51847d1j.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Blue / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582350674)
+  - [Azul / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582350674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S58fbbfb875ee41719a02adb7e51847d1j.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Blue / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582317906)
+  - [Azul / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582317906)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S58fbbfb875ee41719a02adb7e51847d1j.webp?v=1772292351
     Price: 6,49 € EUR
-  - [Blue / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582285138)
+  - [Azul / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582285138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S58fbbfb875ee41719a02adb7e51847d1j.webp?v=1772292351
     Price: 6,49 € EUR
-  - [black / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582776658)
+  - [Preto / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582776658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd8a5eda6e4c6492f929a8fb5e5861711C.webp?v=1772292351
     Price: 6,49 € EUR
-  - [black / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582743890)
+  - [Preto / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582743890)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd8a5eda6e4c6492f929a8fb5e5861711C.webp?v=1772292351
     Price: 6,49 € EUR
-  - [black / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582711122)
+  - [Preto / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582711122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd8a5eda6e4c6492f929a8fb5e5861711C.webp?v=1772292351
     Price: 6,49 € EUR
-  - [black / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582416210)
+  - [Preto / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582416210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd8a5eda6e4c6492f929a8fb5e5861711C.webp?v=1772292351
     Price: 6,49 € EUR
-  - [GRAY / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582645586)
+  - [Cinzento / M](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582645586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0b601daf8ada4fa088135fc1269d7a7cK.webp?v=1772292351
     Price: 6,49 € EUR
-  - [GRAY / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582612818)
+  - [Cinzento / L](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582612818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0b601daf8ada4fa088135fc1269d7a7cK.webp?v=1772292351
     Price: 6,49 € EUR
-  - [GRAY / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582580050)
+  - [Cinzento / XL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582580050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0b601daf8ada4fa088135fc1269d7a7cK.webp?v=1772292351
     Price: 6,49 € EUR
-  - [GRAY / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582547282)
+  - [Cinzento / XXL](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes?variant=52833582547282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0b601daf8ada4fa088135fc1269d7a7cK.webp?v=1772292351
     Price: 6,49 € EUR
 - [Shorts Desportivos Cintura Alta Femininos - Peach Hip Lifting | VELOXIS](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants): Shorts desportivos femininos de cintura alta com efeito lifting. Tecido seamless elástico e respirável. Perfeitos para yoga, ginásio e corrida.
-  Updated: 2026-03-06T15:14:50Z
+  Updated: 2026-03-10T17:41:02Z
   Vendor: VELOXIS
   Product Type: Calções Desportivos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S74748341664049198db144b6b126a2a8K_jpg_960x960q75_jpg.avif?v=1772292621
-  - [ShuMei / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591034194)
+  - [Rosa / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591034194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4e5b916843364e5eadba7e953bc23388M.webp?v=1772292621
     Price: 8,49 € EUR
-  - [WineRed / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591066962)
+  - [Vermelho Vinho / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591066962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4d1e6084344f4f7fa8339e3627063068V.webp?v=1772292621
     Price: 8,49 € EUR
-  - [ShuMei / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591099730)
+  - [Rosa / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591099730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4e5b916843364e5eadba7e953bc23388M.webp?v=1772292621
     Price: 8,49 € EUR
-  - [MoCha / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591132498)
+  - [Castanho / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591132498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2d25ca9c5be4f559af28b0745d1699ab.webp?v=1772292621
     Price: 8,49 € EUR
-  - [WineRed / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591165266)
+  - [Vermelho Vinho / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591165266)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4d1e6084344f4f7fa8339e3627063068V.webp?v=1772292621
     Price: 8,49 € EUR
-  - [WineRed / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591198034)
+  - [Vermelho Vinho / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591198034)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4d1e6084344f4f7fa8339e3627063068V.webp?v=1772292621
     Price: 8,49 € EUR
-  - [LiangRed / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591230802)
+  - [vermelho brilhante / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591230802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S07f1997c10d2472b86dd2abeebb3e0665.webp?v=1772292621
     Price: 8,49 € EUR
-  - [LiangRed / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591263570)
+  - [vermelho brilhante / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591263570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S07f1997c10d2472b86dd2abeebb3e0665.webp?v=1772292621
     Price: 8,49 € EUR
-  - [LiangRed / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591296338)
+  - [vermelho brilhante / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591296338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S07f1997c10d2472b86dd2abeebb3e0665.webp?v=1772292621
     Price: 8,49 € EUR
-  - [KaFei / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591329106)
+  - [Castanho/Café / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591329106)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa76a3779c0bb457b8324640fab417fbaH.webp?v=1772292621
     Price: 8,49 € EUR
-  - [KaFei / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591361874)
+  - [Castanho/Café / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591361874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa76a3779c0bb457b8324640fab417fbaH.webp?v=1772292621
     Price: 8,49 € EUR
-  - [KaFei / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591394642)
+  - [Castanho/Café / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591394642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa76a3779c0bb457b8324640fab417fbaH.webp?v=1772292621
     Price: 8,49 € EUR
-  - [DarkBlue / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591427410)
+  - [Azul Escuro / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591427410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5e15a3a5536e4173825eaeef7fbad4bds.webp?v=1772292621
     Price: 8,49 € EUR
-  - [DarkBlue / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591460178)
+  - [Azul Escuro / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591460178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5e15a3a5536e4173825eaeef7fbad4bds.webp?v=1772292621
     Price: 8,49 € EUR
-  - [DarkBlue / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591492946)
+  - [Azul Escuro / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591492946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5e15a3a5536e4173825eaeef7fbad4bds.webp?v=1772292621
     Price: 8,49 € EUR
-  - [MoCha / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591525714)
+  - [Castanho / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591525714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2d25ca9c5be4f559af28b0745d1699ab.webp?v=1772292621
     Price: 8,49 € EUR
-  - [MoCha / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591558482)
+  - [Castanho / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591558482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2d25ca9c5be4f559af28b0745d1699ab.webp?v=1772292621
     Price: 8,49 € EUR
-  - [LightBlue / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591591250)
+  - [Azul / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591591250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02a4a25068c14cb8bb2e290e72964a6bd.webp?v=1772292621
     Price: 8,49 € EUR
-  - [LightBlue / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591624018)
+  - [Azul / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591624018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02a4a25068c14cb8bb2e290e72964a6bd.webp?v=1772292621
     Price: 8,49 € EUR
-  - [KeLan / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591656786)
+  - [Azul Royal / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591656786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b0037ba7e2349a1bb3a5dd04f6a03f0r.webp?v=1772292621
     Price: 8,49 € EUR
-  - [KeLan / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591689554)
+  - [Azul Royal / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591689554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b0037ba7e2349a1bb3a5dd04f6a03f0r.webp?v=1772292621
     Price: 8,49 € EUR
-  - [LightBlue / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591722322)
+  - [Azul / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591722322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02a4a25068c14cb8bb2e290e72964a6bd.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Red / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591755090)
+  - [Vermelho / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591755090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfdd2996e3768427ebd56d4c3b25f5fa09.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Red / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591787858)
+  - [Vermelho / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591787858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfdd2996e3768427ebd56d4c3b25f5fa09.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Red / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591820626)
+  - [Vermelho / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591820626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfdd2996e3768427ebd56d4c3b25f5fa09.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Pink / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591853394)
+  - [Rosa forte / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591853394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S914bc96301a84ea49c56b6ae787ca66em.webp?v=1772292621
     Price: 8,49 € EUR
-  - [KeLan / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591886162)
+  - [Azul Royal / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591886162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4b0037ba7e2349a1bb3a5dd04f6a03f0r.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Yellow / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591918930)
+  - [Amarelo / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591918930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S057f440df0d34aa5a0b137e20f16970dk.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Yellow / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591951698)
+  - [Amarelo / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591951698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S057f440df0d34aa5a0b137e20f16970dk.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Yellow / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591984466)
+  - [Amarelo / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833591984466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S057f440df0d34aa5a0b137e20f16970dk.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Black / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592017234)
+  - [Preto / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592017234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0e9b40450b5949a7bc8bb2fbc499679dp.webp?v=1772292621
-    Price: 8,49 € EUR
-  - [CuiLv / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592050002)
+    Price: 8,99 € EUR
+  - [Verde Jade / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592050002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9e2d632efc5f4d7f808164101ca6c1d4d.webp?v=1772292621
     Price: 8,49 € EUR
-  - [CuiLv / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592082770)
+  - [Verde Jade / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592082770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9e2d632efc5f4d7f808164101ca6c1d4d.webp?v=1772292621
     Price: 8,49 € EUR
-  - [CuiLv / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592115538)
+  - [Verde Jade / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592115538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9e2d632efc5f4d7f808164101ca6c1d4d.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Pink / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592148306)
+  - [Rosa forte / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592148306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S914bc96301a84ea49c56b6ae787ca66em.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Pink / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592181074)
+  - [Rosa forte / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592181074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S914bc96301a84ea49c56b6ae787ca66em.webp?v=1772292621
     Price: 8,49 € EUR
-  - [Black / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592213842)
+  - [Preto / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592213842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0e9b40450b5949a7bc8bb2fbc499679dp.webp?v=1772292621
-    Price: 8,49 € EUR
-  - [Black / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592246610)
+    Price: 8,99 € EUR
+  - [Preto / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592246610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0e9b40450b5949a7bc8bb2fbc499679dp.webp?v=1772292621
-    Price: 8,49 € EUR
-  - [PuPurple / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592279378)
+    Price: 8,99 € EUR
+  - [Roxo / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592279378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S22a161e924de4e63bbc4c559fb9d9d86c.webp?v=1772292621
     Price: 8,49 € EUR
-  - [FeiLv / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592312146)
+  - [Verde Esmeralda / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592312146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0535922729d427582c34dc5f627aa34H.webp?v=1772292621
     Price: 8,49 € EUR
-  - [PuPurple / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592344914)
+  - [Roxo / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592344914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S22a161e924de4e63bbc4c559fb9d9d86c.webp?v=1772292621
     Price: 8,49 € EUR
-  - [PuPurple / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592377682)
+  - [Roxo / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592377682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S22a161e924de4e63bbc4c559fb9d9d86c.webp?v=1772292621
     Price: 8,49 € EUR
-  - [ShiGrey / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592410450)
+  - [Cinzento / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592410450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa1b3d25cd83548dd856be7d27c2bdd106.webp?v=1772292621
     Price: 8,49 € EUR
-  - [ShiGrey / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592443218)
+  - [Cinzento / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592443218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa1b3d25cd83548dd856be7d27c2bdd106.webp?v=1772292621
     Price: 8,49 € EUR
-  - [YuMi / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592475986)
+  - [Amarelo Claro / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592475986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb4747675b28f405184d612f11e858374P.webp?v=1772292621
     Price: 8,49 € EUR
-  - [BoLv / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592508754)
+  - [Verde Menta / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592508754)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb0395cc52e7547469210826b336b260cu.webp?v=1772292621
     Price: 8,49 € EUR
-  - [ShiGrey / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592541522)
+  - [Cinzento / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592541522)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa1b3d25cd83548dd856be7d27c2bdd106.webp?v=1772292621
     Price: 8,49 € EUR
-  - [BoLv / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592574290)
+  - [Verde Menta / L](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592574290)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb0395cc52e7547469210826b336b260cu.webp?v=1772292621
     Price: 8,49 € EUR
-  - [ZhanLan / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592607058)
+  - [Azul Profundo / M](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592607058)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2241921b32f7454b9afc686c5ca93d8eV.webp?v=1772292621
     Price: 8,49 € EUR
-  - [ZhanLan / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592639826)
+  - [Azul Profundo / S](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants?variant=52833592639826)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2241921b32f7454b9afc686c5ca93d8eV.webp?v=1772292621
     Price: 8,49 € EUR
 - [Casaco Desportivo Mulher Zip | Yoga Fitness Secagem Rápida](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top): Casaco desportivo feminino com fecho zip e gola alta. Secagem rápida, corte slim, ideal para yoga, corrida e fitness. Estilo e conforto garantidos.
-  Updated: 2026-03-06T15:16:31Z
+  Updated: 2026-03-09T23:09:21Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9451742b361d4e119c99fc65ece267baL.webp?v=1772293494
-  - [White / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661845842)
+  - [Branco / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661845842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb60d77d470754777b1dda56bbaca7c19e.webp?v=1772294315
     Price: 12,99 € EUR
-  - [White / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661649234)
+  - [Branco / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661649234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb60d77d470754777b1dda56bbaca7c19e.webp?v=1772294315
     Price: 12,99 € EUR
-  - [White / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661714770)
+  - [Branco / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661714770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb60d77d470754777b1dda56bbaca7c19e.webp?v=1772294315
     Price: 12,99 € EUR
-  - [White / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662042450)
+  - [Branco / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662042450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb60d77d470754777b1dda56bbaca7c19e.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DDarkBlue / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661682002)
+  - [Azul Escuro / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661682002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2a051b1f9ae74a38981f2901e52f82a4K.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DDarkBlue / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661878610)
+  - [Azul Escuro / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661878610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2a051b1f9ae74a38981f2901e52f82a4K.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DDarkBlue / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661813074)
+  - [Azul Escuro / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661813074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2a051b1f9ae74a38981f2901e52f82a4K.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DDarkBlue / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662468434)
+  - [Azul Escuro / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662468434)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2a051b1f9ae74a38981f2901e52f82a4K.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DPurple / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661944146)
+  - [Roxo Escuro / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661944146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2071b0fc67414dd6b892a3f9e83086a72.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DPurple / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662140754)
+  - [Roxo Escuro / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662140754)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2071b0fc67414dd6b892a3f9e83086a72.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DPurple / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662075218)
+  - [Roxo Escuro / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662075218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2071b0fc67414dd6b892a3f9e83086a72.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DPurple / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661747538)
+  - [Roxo Escuro / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661747538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2071b0fc67414dd6b892a3f9e83086a72.webp?v=1772294315
     Price: 12,99 € EUR
-  - [pink purple / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664729426)
+  - [Roxo / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664729426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se00cd20591184b8cb836ac4c5055dc30I.webp?v=1772294315
     Price: 12,99 € EUR
-  - [pink purple / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664565586)
+  - [Roxo / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664565586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se00cd20591184b8cb836ac4c5055dc30I.webp?v=1772294315
     Price: 12,99 € EUR
-  - [pink purple / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664631122)
+  - [Roxo / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664631122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se00cd20591184b8cb836ac4c5055dc30I.webp?v=1772294315
     Price: 12,99 € EUR
-  - [pink purple / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661780306)
+  - [Roxo / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661780306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se00cd20591184b8cb836ac4c5055dc30I.webp?v=1772294315
     Price: 12,99 € EUR
-  - [navy blue / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662107986)
+  - [Azul Marinho / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662107986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sccdcfdfcb4584124bbd27e8cef156482z.webp?v=1772294315
     Price: 12,99 € EUR
-  - [navy blue / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661911378)
+  - [Azul Marinho / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661911378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sccdcfdfcb4584124bbd27e8cef156482z.webp?v=1772294315
     Price: 12,99 € EUR
-  - [navy blue / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661976914)
+  - [Azul Marinho / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833661976914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sccdcfdfcb4584124bbd27e8cef156482z.webp?v=1772294315
     Price: 12,99 € EUR
-  - [navy blue / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662239058)
+  - [Azul Marinho / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662239058)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sccdcfdfcb4584124bbd27e8cef156482z.webp?v=1772294315
     Price: 12,99 € EUR
-  - [DBlack / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663222098)
+  - [Preto / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663222098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9c8e3ff52f8242c097659189e541cb73x.webp?v=1772294315
     Price: 13,49 € EUR
-  - [DBlack / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663320402)
+  - [Preto / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663320402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9c8e3ff52f8242c097659189e541cb73x.webp?v=1772294315
     Price: 13,49 € EUR
-  - [DBlack / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663287634)
+  - [Preto / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663287634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9c8e3ff52f8242c097659189e541cb73x.webp?v=1772294315
     Price: 13,49 € EUR
-  - [DBlack / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662009682)
+  - [Preto / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662009682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9c8e3ff52f8242c097659189e541cb73x.webp?v=1772294315
     Price: 13,49 € EUR
-  - [RAnJin / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662206290)
+  - [Laranja / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662206290)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S475ebf8a2882441a9bb9cf4949ee682at.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RAnJin / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662173522)
+  - [Laranja / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662173522)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S475ebf8a2882441a9bb9cf4949ee682at.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RAnJin / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662304594)
+  - [Laranja / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662304594)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S475ebf8a2882441a9bb9cf4949ee682at.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RAnJin / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662271826)
+  - [Laranja / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662271826)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S475ebf8a2882441a9bb9cf4949ee682at.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RIvory / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662402898)
+  - [Marfim / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662402898)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scdd25bdf7d6e42c38ba971404f3a3f48P.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RIvory / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662337362)
+  - [Marfim / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662337362)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scdd25bdf7d6e42c38ba971404f3a3f48P.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RIvory / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662533970)
+  - [Marfim / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662533970)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scdd25bdf7d6e42c38ba971404f3a3f48P.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RIvory / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662501202)
+  - [Marfim / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662501202)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scdd25bdf7d6e42c38ba971404f3a3f48P.webp?v=1772294315
     Price: 12,99 € EUR
-  - [BKhaki / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664106834)
+  - [Castanho Caqui / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833664106834)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5dd2adb9918e415cb5c7376707b60bbcG.webp?v=1772294315
     Price: 12,99 € EUR
-  - [BKhaki / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662435666)
+  - [Castanho Caqui / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662435666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5dd2adb9918e415cb5c7376707b60bbcG.webp?v=1772294315
     Price: 12,99 € EUR
-  - [BKhaki / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662370130)
+  - [Castanho Caqui / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662370130)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5dd2adb9918e415cb5c7376707b60bbcG.webp?v=1772294315
     Price: 12,99 € EUR
-  - [BKhaki / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662566738)
+  - [Castanho Caqui / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662566738)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5dd2adb9918e415cb5c7376707b60bbcG.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RBlack / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662632274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2950f8ef48064f748a8bce1128f4263e5.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [RBlack / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662599506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2950f8ef48064f748a8bce1128f4263e5.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [RBlack / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662697810)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2950f8ef48064f748a8bce1128f4263e5.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [RBlack / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662665042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2950f8ef48064f748a8bce1128f4263e5.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [BDarkBlue / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662730578)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0530794881e4d5a92f6c137f194f058w.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [BDarkBlue / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662796114)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0530794881e4d5a92f6c137f194f058w.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [BDarkBlue / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662763346)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0530794881e4d5a92f6c137f194f058w.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [BDarkBlue / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662992722)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0530794881e4d5a92f6c137f194f058w.webp?v=1772294315
-    Price: 12,99 € EUR
-  - [RKaFei / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662828882)
+  - [Castanho/Café / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662828882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa6d71f3affa14d34a5ec94307e720327j.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RKaFei / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662927186)
+  - [Castanho/Café / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662927186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa6d71f3affa14d34a5ec94307e720327j.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RKaFei / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662894418)
+  - [Castanho/Café / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662894418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa6d71f3affa14d34a5ec94307e720327j.webp?v=1772294315
     Price: 12,99 € EUR
-  - [RKaFei / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663189330)
+  - [Castanho/Café / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663189330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa6d71f3affa14d34a5ec94307e720327j.webp?v=1772294315
     Price: 12,99 € EUR
-  - [BlackGrey / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662959954)
+  - [Cinzento Escuro / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662959954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd999bf67b26240f5b6a208b173bda8ccg.webp?v=1772294315
     Price: 12,99 € EUR
-  - [BlackGrey / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663058258)
+  - [Cinzento Escuro / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663058258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd999bf67b26240f5b6a208b173bda8ccg.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [Cinzento Escuro / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663025490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd999bf67b26240f5b6a208b173bda8ccg.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [Cinzento Escuro / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833662861650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd999bf67b26240f5b6a208b173bda8ccg.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [Azul Claro / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663091026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S47abc948b0fc4be98efb029816ea4934d.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [Azul Claro / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663156562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S47abc948b0fc4be98efb029816ea4934d.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [Azul Claro / L](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663123794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S47abc948b0fc4be98efb029816ea4934d.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [Azul Claro / XL](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663385938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S47abc948b0fc4be98efb029816ea4934d.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [CPurple / S](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663484242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb18fa49da6984ac0a35720636c97396bR.webp?v=1772294315
+    Price: 12,99 € EUR
+  - [CPurple / M](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top?variant=52833663517010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb18fa49da6984ac0a35720636c97396bR.webp?v=1772294315
     Price: 12,99 € EUR
 - [Top Desportivo Feminino Alta Resistência - VELOXIS](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad): Top desportivo feminino de alta resistência com almofada integrada. Ideal para yoga, ginásio e treino funcional. Conforto e suporte máximo.
-  Updated: 2026-03-06T15:17:32Z
+  Updated: 2026-03-11T21:39:24Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se3859f82e0cd4033a341e3387b4bc950N.webp?v=1772314287
-  - [Red / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565161298)
+  - [Vermeho / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565161298)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d413e46294d48efac1b9bfad76324c9c.webp?v=1772313812
     Price: 9,49 € EUR
-  - [Red / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565194066)
+  - [Vermeho / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565194066)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d413e46294d48efac1b9bfad76324c9c.webp?v=1772313812
     Price: 9,49 € EUR
-  - [Red / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565128530)
+  - [Vermeho / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565128530)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d413e46294d48efac1b9bfad76324c9c.webp?v=1772313812
     Price: 9,49 € EUR
-  - [Peach Red / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565259602)
+  - [Vermelho Pêssego / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565259602)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4c425e40dbab4076a9559c258e3093475.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Peach Red / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565226834)
+  - [Vermelho Pêssego / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565226834)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4c425e40dbab4076a9559c258e3093475.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Peach Red / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565390674)
+  - [Vermelho Pêssego / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565390674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4c425e40dbab4076a9559c258e3093475.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Rhododendron powder / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565357906)
+  - [Rosa Rododendro / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565357906)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S331728d929054aa0a5abdd23a3020a3bT.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Rhododendron powder / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565325138)
+  - [Rosa Rododendro / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565325138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S331728d929054aa0a5abdd23a3020a3bT.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Rhododendron powder / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565292370)
+  - [Rosa Rododendro / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565292370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S331728d929054aa0a5abdd23a3020a3bT.webp?v=1772314287
     Price: 9,49 € EUR
-  - [calamus purple / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565488978)
+  - [Roxo Cálamo / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565488978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S54adef7d25884a79b1249f67522bea52M.webp?v=1772314287
     Price: 9,49 € EUR
-  - [calamus purple / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565423442)
+  - [Roxo Cálamo / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565423442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S54adef7d25884a79b1249f67522bea52M.webp?v=1772314287
     Price: 9,49 € EUR
-  - [calamus purple / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565980498)
+  - [Roxo Cálamo / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565980498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S54adef7d25884a79b1249f67522bea52M.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Matcha green / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565456210)
+  - [Verde Matcha / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565456210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S65632187751f4d50972547764118d8c9o.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Matcha green / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565849426)
+  - [Verde Matcha / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565849426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S65632187751f4d50972547764118d8c9o.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Matcha green / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565816658)
+  - [Verde Matcha / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565816658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S65632187751f4d50972547764118d8c9o.webp?v=1772314287
     Price: 9,49 € EUR
-  - [white sports bra / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565587282)
+  - [Branco / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565587282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6d5b2f03223f4cecbefd28dc2c18736am.webp?v=1772314287
     Price: 9,49 € EUR
-  - [white sports bra / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565554514)
+  - [Branco / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565554514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6d5b2f03223f4cecbefd28dc2c18736am.webp?v=1772314287
     Price: 9,49 € EUR
-  - [white sports bra / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565521746)
+  - [Branco / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565521746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6d5b2f03223f4cecbefd28dc2c18736am.webp?v=1772314287
     Price: 9,49 € EUR
-  - [Black sports bra / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565685586)
+  - [Preto / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565685586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7ebf7433f6ed414d85745b2cafc8dc65G.webp?v=1772313811
     Price: 9,99 € EUR
-  - [Black sports bra / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565652818)
+  - [Preto / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565652818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7ebf7433f6ed414d85745b2cafc8dc65G.webp?v=1772313811
     Price: 9,99 € EUR
-  - [Black sports bra / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565620050)
+  - [Preto / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565620050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7ebf7433f6ed414d85745b2cafc8dc65G.webp?v=1772313811
     Price: 9,99 € EUR
-  - [navy blue sports bra / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565783890)
+  - [Azul Marinho / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565783890)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S092f703de0fa41e0af158f00bc754382d.webp?v=1772313811
     Price: 9,49 € EUR
-  - [navy blue sports bra / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565751122)
+  - [Azul Marinho / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565751122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S092f703de0fa41e0af158f00bc754382d.webp?v=1772313811
     Price: 9,49 € EUR
-  - [navy blue sports bra / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565718354)
+  - [Azul Marinho / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565718354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S092f703de0fa41e0af158f00bc754382d.webp?v=1772313811
     Price: 9,49 € EUR
-  - [Electric blue / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565947730)
+  - [Azul Elétrico / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565947730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf61c3c96957c453eb72de867cd3858d44.webp?v=1772313811
     Price: 9,49 € EUR
-  - [Electric blue / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565914962)
+  - [Azul Elétrico / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565914962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf61c3c96957c453eb72de867cd3858d44.webp?v=1772313811
     Price: 9,49 € EUR
-  - [Electric blue / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565882194)
+  - [Azul Elétrico / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834565882194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf61c3c96957c453eb72de867cd3858d44.webp?v=1772313811
-    Price: 9,49 € EUR
-  - [Distilled coffee / S](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834566013266)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7a0bb3ef152746c5b75b90d270ac6b97J.webp?v=1772313812
-    Price: 9,49 € EUR
-  - [Distilled coffee / M](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834566046034)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7a0bb3ef152746c5b75b90d270ac6b97J.webp?v=1772313812
-    Price: 9,49 € EUR
-  - [Distilled coffee / L](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad?variant=52834566078802)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7a0bb3ef152746c5b75b90d270ac6b97J.webp?v=1772313812
     Price: 9,49 € EUR
 - [Women's Premium Sweatpants - Comfortable Athletic Wear](https://veloxispt.myshopify.com/products/casual-solid-sweatpants-for-women-high-waist-lace-up-loose-joggers-pant-classic-baggy-streetwear-female-sport-dance-trouser-y2k): Discover ultimate comfort with our women's sweatpants. Soft, breathable fabric perfect for workouts, lounging, or everyday wear. Shop premium athletic apparel now.
-  Updated: 2026-03-06T15:18:52Z
+  Updated: 2026-03-07T02:08:54Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1523,471 +1504,471 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S79500f441be143508545aacfc1336b0eX.webp?v=1772401007
     Price: 9,99 € EUR
 - [Calções de Compressão Masculinos - Secagem Rápida | VELOXIS](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants): Calções de compressão elásticos para homem com secagem rápida e bolso. Perfeitos para corrida, ginásio e treino. Suporte superior e máximo conforto. Tamanhos grandes disponíveis.
-  Updated: 2026-03-06T15:20:43Z
+  Updated: 2026-03-11T21:42:19Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
-  - [Gray / S](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432504658)
+  - [Cinzento / S](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432504658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbbf452f5c64347fa983585e50d15861cU.webp?v=1772488158
     Price: 10,49 € EUR
-  - [Gray / M](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432471890)
+  - [Cinzento / M](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432471890)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbbf452f5c64347fa983585e50d15861cU.webp?v=1772488158
     Price: 10,49 € EUR
-  - [Gray / L](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432176978)
+  - [Cinzento / L](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432176978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbbf452f5c64347fa983585e50d15861cU.webp?v=1772488158
     Price: 10,49 € EUR
-  - [Gray / XL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432144210)
+  - [Cinzento / XL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432144210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbbf452f5c64347fa983585e50d15861cU.webp?v=1772488158
     Price: 10,49 € EUR
-  - [Gray / XXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432242514)
+  - [Cinzento / XXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432242514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbbf452f5c64347fa983585e50d15861cU.webp?v=1772488158
     Price: 10,49 € EUR
-  - [Gray / XXXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432209746)
+  - [Cinzento / XXXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432209746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbbf452f5c64347fa983585e50d15861cU.webp?v=1772488158
     Price: 10,49 € EUR
-  - [black / S](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432308050)
+  - [Preto / S](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432308050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
     Price: 10,99 € EUR
-  - [black / M](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432275282)
+  - [Preto / M](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432275282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
     Price: 10,99 € EUR
-  - [black / L](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432373586)
+  - [Preto / L](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432373586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
     Price: 10,99 € EUR
-  - [black / XL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432340818)
+  - [Preto / XL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432340818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
     Price: 10,99 € EUR
-  - [black / XXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432439122)
+  - [Preto / XXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432439122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
     Price: 10,99 € EUR
-  - [black / XXXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432406354)
+  - [Preto / XXXL](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants?variant=52845432406354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
     Price: 10,99 € EUR
 - [T-Shirt Desportiva Masculina Secagem Rápida | VELOXIS](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey): T-shirt desportiva para homem com secagem rápida e corte oversized. Ideal para ginásio, corrida e musculação. Leve, respirável e confortável. Perfeita para treinos intensos.
-  Updated: 2026-03-06T15:25:30Z
+  Updated: 2026-03-11T21:43:40Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
-  - [Blue / M](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643759954)
+  - [Azul / M](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643759954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2ed886bf12fc4aae87682494f9e6abadQ.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Blue / L](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643727186)
+  - [Azul / L](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643727186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2ed886bf12fc4aae87682494f9e6abadQ.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Blue / XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643202898)
+  - [Azul / XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643202898)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2ed886bf12fc4aae87682494f9e6abadQ.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Blue / XXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643596114)
+  - [Azul / XXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643596114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2ed886bf12fc4aae87682494f9e6abadQ.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Blue / XXXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643694418)
+  - [Azul / XXXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643694418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2ed886bf12fc4aae87682494f9e6abadQ.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Blue / 4XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643661650)
+  - [Azul / 4XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643661650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2ed886bf12fc4aae87682494f9e6abadQ.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Grey / M](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643301202)
+  - [Cinzento / M](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643301202)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S73b211eded604be18323be5346514f4bl.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Grey / L](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643432274)
+  - [Cinzento / L](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643432274)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S73b211eded604be18323be5346514f4bl.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Grey / XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643235666)
+  - [Cinzento / XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643235666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S73b211eded604be18323be5346514f4bl.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Grey / XXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643333970)
+  - [Cinzento / XXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643333970)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S73b211eded604be18323be5346514f4bl.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Grey / XXXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643366738)
+  - [Cinzento / XXXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643366738)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S73b211eded604be18323be5346514f4bl.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Grey / 4XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643268434)
+  - [Cinzento / 4XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643268434)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S73b211eded604be18323be5346514f4bl.webp?v=1772522727
     Price: 10,99 € EUR
-  - [Black / M](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643563346)
+  - [Preto / M](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643563346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
     Price: 11,49 € EUR
-  - [Black / L](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643530578)
+  - [Preto / L](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643530578)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
     Price: 11,49 € EUR
-  - [Black / XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643628882)
+  - [Preto / XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643628882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
     Price: 11,49 € EUR
-  - [Black / XXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643399506)
+  - [Preto / XXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643399506)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
     Price: 11,49 € EUR
-  - [Black / XXXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643497810)
+  - [Preto / XXXL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643497810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
     Price: 11,49 € EUR
-  - [Black / 4XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643465042)
+  - [Preto / 4XL](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey?variant=52845643465042)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
     Price: 11,49 € EUR
 - [Sutiã Desportivo Feminino Sem Costuras Alto Suporte | VELOXIS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear): Sutiã desportivo feminino sem costuras com suporte de alto impacto. Design halter, push-up e costas abertas. Ideal para corrida, yoga e ginásio. Conforto e estilo premium.
-  Updated: 2026-03-06T15:26:28Z
+  Updated: 2026-03-11T21:53:14Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2f7699211a0349948a45bf3685b608dfm.webp?v=1772492011
-  - [Lake Blue / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839286610)
+  - [Azul Lago / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839286610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S000765915a574564b592b676bdb13c53w.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Lake Blue / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839319378)
+  - [Azul Lago / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839319378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S000765915a574564b592b676bdb13c53w.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Lake Blue / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839352146)
+  - [Azul Lago / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839352146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S000765915a574564b592b676bdb13c53w.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Lake Blue / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839221074)
+  - [Azul Lago / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839221074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S000765915a574564b592b676bdb13c53w.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Lake Blue / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839253842)
+  - [Azul Lago / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839253842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S000765915a574564b592b676bdb13c53w.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light Blue / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839515986)
+  - [Azul Claro / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839515986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S276afb4e2c1d4241a2bd43d139c4ad03V.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light Blue / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839450450)
+  - [Azul Claro / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839450450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S276afb4e2c1d4241a2bd43d139c4ad03V.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light Blue / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839384914)
+  - [Azul Claro / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839384914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S276afb4e2c1d4241a2bd43d139c4ad03V.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light Blue / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839778130)
+  - [Azul Claro / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839778130)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S276afb4e2c1d4241a2bd43d139c4ad03V.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light Blue / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839712594)
+  - [Azul Claro / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839712594)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S276afb4e2c1d4241a2bd43d139c4ad03V.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Berry Red / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839417682)
+  - [Vermelho Baga / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839417682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfba5e2f36a1548ebb76faa515bedd7a7g.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Berry Red / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839614290)
+  - [Vermelho Baga / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839614290)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfba5e2f36a1548ebb76faa515bedd7a7g.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Berry Red / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839548754)
+  - [Vermelho Baga / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839548754)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfba5e2f36a1548ebb76faa515bedd7a7g.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Berry Red / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839679826)
+  - [Vermelho Baga / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839679826)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfba5e2f36a1548ebb76faa515bedd7a7g.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Berry Red / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839647058)
+  - [Vermelho Baga / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839647058)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfba5e2f36a1548ebb76faa515bedd7a7g.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Glacier Blue / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840073042)
+  - [Azul Glaciar / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840073042)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S134b66a5191846bd92b6fb1642a8148aS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Glacier Blue / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840007506)
+  - [Azul Glaciar / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840007506)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S134b66a5191846bd92b6fb1642a8148aS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Glacier Blue / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840204114)
+  - [Azul Glaciar / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840204114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S134b66a5191846bd92b6fb1642a8148aS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Glacier Blue / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840138578)
+  - [Azul Glaciar / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840138578)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S134b66a5191846bd92b6fb1642a8148aS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Glacier Blue / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839483218)
+  - [Azul Glaciar / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839483218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S134b66a5191846bd92b6fb1642a8148aS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Yellow / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840171346)
+  - [Amarelo / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840171346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfafbd156f0de40028551fd5103403162v.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Yellow / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840105810)
+  - [Amarelo / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840105810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfafbd156f0de40028551fd5103403162v.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Yellow / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840040274)
+  - [Amarelo / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840040274)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfafbd156f0de40028551fd5103403162v.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Yellow / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839974738)
+  - [Amarelo / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839974738)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfafbd156f0de40028551fd5103403162v.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Yellow / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839581522)
+  - [Amarelo / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839581522)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfafbd156f0de40028551fd5103403162v.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Magic Blue / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839810898)
+  - [Azul Mágico / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839810898)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb7836be388ab4c85a9a9117ea94dd6ccG.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Magic Blue / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839745362)
+  - [Azul Mágico / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839745362)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb7836be388ab4c85a9a9117ea94dd6ccG.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Magic Blue / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840597330)
+  - [Azul Mágico / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840597330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb7836be388ab4c85a9a9117ea94dd6ccG.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Magic Blue / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840531794)
+  - [Azul Mágico / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840531794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb7836be388ab4c85a9a9117ea94dd6ccG.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Magic Blue / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840728402)
+  - [Azul Mágico / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840728402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb7836be388ab4c85a9a9117ea94dd6ccG.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Feathered rice / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840367954)
+  - [Bege Claro / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840367954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8363741c857542eda062919f9926124dS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Feathered rice / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839941970)
+  - [Bege Claro / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839941970)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8363741c857542eda062919f9926124dS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Feathered rice / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839909202)
+  - [Bege Claro / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839909202)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8363741c857542eda062919f9926124dS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Feathered rice / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839876434)
+  - [Bege Claro / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839876434)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8363741c857542eda062919f9926124dS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Feathered rice / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839843666)
+  - [Bege Claro / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845839843666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8363741c857542eda062919f9926124dS.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Deep Sea Blue / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840269650)
+  - [Azul Marinho Profundo / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840269650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d45344fa9924758a41f68e36021d2e2a.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Deep Sea Blue / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840236882)
+  - [Azul Marinho Profundo / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840236882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d45344fa9924758a41f68e36021d2e2a.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Deep Sea Blue / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840466258)
+  - [Azul Marinho Profundo / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840466258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d45344fa9924758a41f68e36021d2e2a.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Deep Sea Blue / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840433490)
+  - [Azul Marinho Profundo / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840433490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d45344fa9924758a41f68e36021d2e2a.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Deep Sea Blue / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840400722)
+  - [Azul Marinho Profundo / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840400722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d45344fa9924758a41f68e36021d2e2a.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Mint Green / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840925010)
+  - [Verde Menta / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840925010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S905fba087ad14e049be3769cb8dc46fd4.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Mint Green / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840859474)
+  - [Verde Menta / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840859474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S905fba087ad14e049be3769cb8dc46fd4.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Mint Green / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840761170)
+  - [Verde Menta / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840761170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S905fba087ad14e049be3769cb8dc46fd4.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Mint Green / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840335186)
+  - [Verde Menta / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840335186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S905fba087ad14e049be3769cb8dc46fd4.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Mint Green / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840302418)
+  - [Verde Menta / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840302418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S905fba087ad14e049be3769cb8dc46fd4.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light green / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840695634)
+  - [Verde Claro / XS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840695634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0d0f72ab98ae4aa1bca164865a54c1b4n.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light green / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840630098)
+  - [Verde Claro / S](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840630098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0d0f72ab98ae4aa1bca164865a54c1b4n.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light green / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840564562)
+  - [Verde Claro / M](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840564562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0d0f72ab98ae4aa1bca164865a54c1b4n.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light green / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840499026)
+  - [Verde Claro / L](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845840499026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0d0f72ab98ae4aa1bca164865a54c1b4n.webp?v=1772491751
     Price: 9,49 € EUR
-  - [Light green / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845841023314)
+  - [Verde Claro / XL](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear?variant=52845841023314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0d0f72ab98ae4aa1bca164865a54c1b4n.webp?v=1772491751
     Price: 9,49 € EUR
 - [T-Shirt Compressão Feminina Dry-Fit Yoga Ginásio | VELOXIS](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes): T-shirt de compressão atlética feminina com tecnologia dry-fit. Ideal para yoga, corrida e ginásio. Suporte muscular, secagem rápida e máximo conforto. Design moderno e funcional.
-  Updated: 2026-03-06T15:27:07Z
+  Updated: 2026-03-11T21:55:17Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d015e6308f943f9822670f9eb56ab14k.webp?v=1772492489
-  - [White / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838205266)
+  - [Branco / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838205266)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8a0e0b2feff94e2d8517b7f2a6d15407f.webp?v=1772491751
     Price: 10,99 € EUR
-  - [White / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838172498)
+  - [Branco / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838172498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8a0e0b2feff94e2d8517b7f2a6d15407f.webp?v=1772491751
     Price: 10,99 € EUR
-  - [White / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838139730)
+  - [Branco / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838139730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8a0e0b2feff94e2d8517b7f2a6d15407f.webp?v=1772491751
     Price: 10,99 € EUR
-  - [White / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838106962)
+  - [Branco / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838106962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8a0e0b2feff94e2d8517b7f2a6d15407f.webp?v=1772491751
     Price: 10,99 € EUR
-  - [White / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845839057234)
+  - [Branco / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845839057234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8a0e0b2feff94e2d8517b7f2a6d15407f.webp?v=1772491751
     Price: 10,99 € EUR
-  - [Black / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838369106)
+  - [Preto / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838369106)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S91cad0d521e147bcb4fa33977aad5e35t.webp?v=1772491752
     Price: 11,49 € EUR
-  - [Black / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838336338)
+  - [Preto / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838336338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S91cad0d521e147bcb4fa33977aad5e35t.webp?v=1772491752
     Price: 11,49 € EUR
-  - [Black / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838303570)
+  - [Preto / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838303570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S91cad0d521e147bcb4fa33977aad5e35t.webp?v=1772491752
     Price: 11,49 € EUR
-  - [Black / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838270802)
+  - [Preto / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838270802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S91cad0d521e147bcb4fa33977aad5e35t.webp?v=1772491752
     Price: 11,49 € EUR
-  - [Black / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838238034)
+  - [Preto / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838238034)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S91cad0d521e147bcb4fa33977aad5e35t.webp?v=1772491752
     Price: 11,49 € EUR
-  - [Light Gray / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838532946)
+  - [Cinzento Claro / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838532946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0cd183fce0ad4c9cb6c92b49a44ea8acE.webp?v=1772491753
     Price: 10,99 € EUR
-  - [Light Gray / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838500178)
+  - [Cinzento Claro / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838500178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0cd183fce0ad4c9cb6c92b49a44ea8acE.webp?v=1772491753
     Price: 10,99 € EUR
-  - [Light Gray / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838467410)
+  - [Cinzento Claro / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838467410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0cd183fce0ad4c9cb6c92b49a44ea8acE.webp?v=1772491753
     Price: 10,99 € EUR
-  - [Light Gray / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838434642)
+  - [Cinzento Claro / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838434642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0cd183fce0ad4c9cb6c92b49a44ea8acE.webp?v=1772491753
     Price: 10,99 € EUR
-  - [Light Gray / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838401874)
+  - [Cinzento Claro / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838401874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0cd183fce0ad4c9cb6c92b49a44ea8acE.webp?v=1772491753
     Price: 10,99 € EUR
-  - [Rose Red / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838696786)
+  - [Vermelho Rosa / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838696786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scb455f28d48d44899736bf5db0ad5d19B.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Rose Red / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838664018)
+  - [Vermelho Rosa / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838664018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scb455f28d48d44899736bf5db0ad5d19B.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Rose Red / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838631250)
+  - [Vermelho Rosa / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838631250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scb455f28d48d44899736bf5db0ad5d19B.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Rose Red / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838598482)
+  - [Vermelho Rosa / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838598482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scb455f28d48d44899736bf5db0ad5d19B.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Rose Red / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838565714)
+  - [Vermelho Rosa / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838565714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scb455f28d48d44899736bf5db0ad5d19B.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Transparent Blue / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838860626)
+  - [Azul transparente / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838860626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c84cea6f8124887a1c3775bb03d82ffA.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Transparent Blue / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838827858)
+  - [Azul transparente / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838827858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c84cea6f8124887a1c3775bb03d82ffA.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Transparent Blue / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838795090)
+  - [Azul transparente / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838795090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c84cea6f8124887a1c3775bb03d82ffA.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Transparent Blue / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838762322)
+  - [Azul transparente / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838762322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c84cea6f8124887a1c3775bb03d82ffA.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Transparent Blue / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838729554)
+  - [Azul transparente / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838729554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c84cea6f8124887a1c3775bb03d82ffA.webp?v=1772491752
     Price: 10,99 € EUR
-  - [Dark Coffee / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845839024466)
+  - [Castanho / 2](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845839024466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb77bc7e11f9b4123aabf22546ff50337j.webp?v=1772491751
     Price: 10,99 € EUR
-  - [Dark Coffee / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838991698)
+  - [Castanho / 4](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838991698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb77bc7e11f9b4123aabf22546ff50337j.webp?v=1772491751
     Price: 10,99 € EUR
-  - [Dark Coffee / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838958930)
+  - [Castanho / 6](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838958930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb77bc7e11f9b4123aabf22546ff50337j.webp?v=1772491751
     Price: 10,99 € EUR
-  - [Dark Coffee / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838926162)
+  - [Castanho / 8](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838926162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb77bc7e11f9b4123aabf22546ff50337j.webp?v=1772491751
     Price: 10,99 € EUR
-  - [Dark Coffee / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838893394)
+  - [Castanho / 10](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes?variant=52845838893394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb77bc7e11f9b4123aabf22546ff50337j.webp?v=1772491751
     Price: 10,99 € EUR
 - [Meias de Corrida Unissexo | Conforto e Desempenho para Treino](https://veloxispt.myshopify.com/products/men-women-running-socks-basketball-breathable-anti-slip-sport-cycling-walking-women-outdoor-sock-cotton-athletic-no-sweat-sock): Meias de corrida unissexo com algodão respirável e design antiderrapante. Tecnologia de absorção de humidade. Ideal para corrida, basquetebol e ciclismo.
-  Updated: 2026-03-06T15:28:08Z
+  Updated: 2026-03-07T03:14:07Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2021,7 +2002,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7c7aa413e9eb4ace80eb90c1b67be1d1H.webp?v=1772548336
     Price: 7,99 € EUR
 - [Óculos de Sol Desportivos Oversized | Proteção UV para Ciclismo](https://veloxispt.myshopify.com/products/oversized-sports-sunglasses-men-cycling-glasses-mirrored-outdoor-goggles-trendy-wrapped-anti-uv-riding-shades): Óculos de sol desportivos oversized com lentes espelhadas anti-UV. Design envolvente e aerodinâmico. Ideal para ciclismo, corrida e atividades outdoor.
-  Updated: 2026-03-06T15:29:24Z
+  Updated: 2026-03-07T14:03:52Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2059,7 +2040,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1459d39006f840fab51c82673eb8c949H.webp?v=1772549361
     Price: 8,99 € EUR
 - [Mangas de Proteção UV Ice Silk | Proteção Solar para Braços](https://veloxispt.myshopify.com/products/summer-uv-solar-bulky-arm-sleeves-extra-large-outdoor-cycling-ice-silk-breathable-cool-muff-driving-sunscreen-fishing-arm-cover): Mangas de proteção UV em seda de gelo. Tecido refrescante, proteção solar premium e design confortável. Ideal para ciclismo, pesca e atividades outdoor.
-  Updated: 2026-03-06T15:33:22Z
+  Updated: 2026-03-07T02:22:24Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2089,7 +2070,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbfb9a057e2ad42c1b9f278a1ee3cb244z.webp?v=1772552026
     Price: 7,99 € EUR
 - [Coberturas de Pernas UV | Proteção Solar para Ciclismo e Corrida](https://veloxispt.myshopify.com/products/summer-sun-protection-leg-cover-high-elastic-breathable-quick-drying-silicone-anti-slip-cycling-leg-cover-sun-protection-running): Coberturas de pernas com alta elasticidade e proteção UV. Tecido respirável, secagem rápida e silicone antiderrapante. Ideal para ciclismo e corrida.
-  Updated: 2026-03-06T15:34:33Z
+  Updated: 2026-03-07T03:22:28Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2111,7 +2092,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S87fefa7297834146a3e3a84737727055Z.webp?v=1772552429
     Price: 7,49 € EUR
 - [Vensslim Men Body Shaper | Modelador Corporal Masculino de Compressão](https://veloxispt.myshopify.com/products/vensslim-men-body-shaper-waist-trainer-vest-slimming-shirt-sauna-sweat-compression-undershirt-shapewear-fat-burner-workout-tops): Modelador corporal masculino Vensslim com compressão premium. Efeito emagrecedor instantâneo, suporte de postura e tecnologia de sauna. Discreto e confortável.
-  Updated: 2026-03-06T15:37:21Z
+  Updated: 2026-03-07T14:08:03Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2165,93 +2146,93 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa43d8469656c4095a75a8c303ab276b8e.webp?v=1772633966
     Price: 12,49 € EUR
 - [Camisola de Compressão Desportiva Masculina | Performance e Conforto](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit): Camisola de compressão masculina com tecnologia de secagem rápida. Suporte muscular, alta elasticidade e ajuste ergonómico. Ideal para desportos de alta intensidade.
-  Updated: 2026-03-06T15:30:10Z
+  Updated: 2026-03-09T18:38:37Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1772635726
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1773081516
   - [Blue / S](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971305810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1773081516
     Price: 11,99 € EUR
   - [Blue / M](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971338578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1773081516
     Price: 11,99 € EUR
   - [Blue / L](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971502418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1773081516
     Price: 11,99 € EUR
   - [Blue / XL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971535186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1773081516
     Price: 11,99 € EUR
   - [Blue / XXL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971436882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e6691d27d464c259902f97ad1166c06v.webp?v=1773081516
     Price: 11,99 € EUR
   - [GRAY / S](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971928402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1772635726
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1773081516
     Price: 11,99 € EUR
   - [GRAY / M](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971862866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1772635726
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1773081516
     Price: 11,99 € EUR
   - [GRAY / L](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971895634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1772635726
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1773081516
     Price: 11,99 € EUR
   - [GRAY / XL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971371346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1772635726
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1773081516
     Price: 11,99 € EUR
   - [GRAY / XXL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971404114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1772635726
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S42fc0b024c3a447fb47ae23399acf51a0.webp?v=1773081516
     Price: 11,99 € EUR
   - [Light Yellow / S](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971469650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1773081516
     Price: 11,99 € EUR
   - [Light Yellow / M](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971633490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1773081516
     Price: 11,99 € EUR
   - [Light Yellow / L](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971666258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1773081516
     Price: 11,99 € EUR
   - [Light Yellow / XL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971567954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1773081516
     Price: 11,99 € EUR
   - [Light Yellow / XXL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971600722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2952342193f84abd8fc136631bba4287U.webp?v=1773081516
     Price: 11,99 € EUR
   - [black / S](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971764562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1773081516
     Price: 12,49 € EUR
   - [black / M](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971797330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1773081516
     Price: 12,49 € EUR
   - [black / L](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971699026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1773081516
     Price: 12,49 € EUR
   - [black / XL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971731794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1773081516
     Price: 12,49 € EUR
   - [black / XXL](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit?variant=52859971830098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1772635874
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1773081516
     Price: 12,49 € EUR
 - [Shorts Desportivos Femininos | Conforto e Estilo para Treino](https://veloxispt.myshopify.com/products/women-summer-shorts-for-sports-fitness-gym-skinny-slim-shorts-causal-yoga-shorts-low-waist-stretchy-short-pants-gym-clothing): Shorts desportivos femininos com secagem rápida e máxima elasticidade. Design slim fit, ultra leve e respirável. Ideal para yoga, ginásio e corrida.
-  Updated: 2026-03-06T15:31:11Z
+  Updated: 2026-03-07T02:25:51Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2353,7 +2334,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S68eb84ef6a014a5c8a866990c035fc0cw.webp?v=1772636421
     Price: 7,99 € EUR
 - [Shorts de Corrida Masculinos 2-em-1 | Compressão e Secagem Rápida](https://veloxispt.myshopify.com/products/new-mens-running-double-layer-shorts-quick-drying-fitness-2-in-1-shorts-mens-sports-workout-training-bodybuilding-shorts-male): Shorts de corrida masculinos 2-em-1 com design de dupla camada e compressão integrada. Tecido de secagem rápida, leve e respirável. Ideal para corrida e treinos intensos.
-  Updated: 2026-03-06T15:32:22Z
+  Updated: 2026-03-07T02:27:29Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2559,7 +2540,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedf61b3c4e6f4d0394dfeac2b84d5606W.webp?v=1772636942
     Price: 13,49 € EUR
 - [High Waisted Athletic Shorts for Women | Quick Dry Gym & Running Shorts](https://veloxispt.myshopify.com/products/2026-trendy-high-waisted-shorts-for-women-lightweight-quick-dry-yoga-gym-shorts-casual-summer-running-shorts): Premium high-waisted athletic shorts for women. Lightweight, quick-dry fabric perfect for yoga, gym, running & casual wear. True to size fit, XS-XXL available.
-  Updated: 2026-03-06T15:38:23Z
+  Updated: 2026-03-07T02:29:53Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2757,7 +2738,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4291ea7841114cbf81fbb2622b82eac7g.webp?v=1772638028
     Price: 11,49 € EUR
 - [Faixa Ajustável para Lanterna de Cabeça | Conforto e Segurança](https://veloxispt.myshopify.com/products/elastic-head-band-belt-for-led-headlamp-bike-front-light-universal-adjustable-head-lamp-strap-high-elasticity-frontal-headband): Faixa ajustável para lanterna de cabeça em nylon premium. Ultra leve (22g), confortável e compatível com a maioria das lanternas LED. Ideal para corrida e outdoor.
-  Updated: 2026-03-06T15:39:18Z
+  Updated: 2026-03-07T14:21:02Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2771,7 +2752,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S32a6acc5d7434540ba2a34660a93a48bk.webp?v=1772638626
     Price: 5,99 € EUR
 - [Sutiã Desportivo Sem Costuras | Conforto e Suporte para Treino](https://veloxispt.myshopify.com/products/women-sports-bras-fast-dry-elastic-padded-gym-running-skeep-bra-solid-color-fitness-yoga-sport-breathable-tops): Sutiã desportivo feminino sem costuras com tecnologia de secagem rápida. Design sem arames, almofadas removíveis e ultra leve. Ideal para yoga, corrida e ginásio.
-  Updated: 2026-03-06T15:40:11Z
+  Updated: 2026-03-07T02:32:03Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2805,7 +2786,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H15ab2e8e9db843ef8a91f9375af15c83j.webp?v=1772639156
     Price: 7,99 € EUR
 - [Conjunto de Yoga Feminino Respirável 2 Peças | Top Crop + Leggings](https://veloxispt.myshopify.com/products/women-breathable-yoga-set-2pcs-sport-suit-gym-wear-workout-clothes-gym-crop-top-high-waist-legging-fitness-bra-set-sports-suits): Conjunto de yoga feminino respirável de 2 peças com top crop e leggings de cintura alta. Material de secagem rápida ideal para fitness, ginásio e yoga. Confortável e elástico.
-  Updated: 2026-03-06T15:40:53Z
+  Updated: 2026-03-10T00:26:07Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2890,8 +2871,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02a6e492b1674b02a88c414f164cb16bm.webp?v=1772726223
     Price: 19,49 € EUR
-- [Leggings Desportivas Femininas](https://veloxispt.myshopify.com/products/seamless-leggings-sports-women-gym-wear-clothes-outfit-yoga-pants-squat-proof-fitness-running-scrunch-bum-tights): Leggings sem costuras de alta performance, desenhadas para treinos intensos e máximo conforto. Tecido elástico e respirável que acompanha cada movimento, ideal para ginásio, yoga e corrida.
-  Updated: 2026-03-06T15:42:27Z
+- [Leggings Desportivas Femininas - VELOXIS](https://veloxispt.myshopify.com/products/seamless-leggings-sports-women-gym-wear-clothes-outfit-yoga-pants-squat-proof-fitness-running-scrunch-bum-tights): Leggings sem costuras de alta performance, desenhadas para treinos intensos e máximo conforto. Tecido elástico e respirável que acompanha cada movimento, ideal para ginásio, yoga e corrida. - VELOXIS
+  Updated: 2026-03-10T00:26:07Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3077,7 +3058,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S63e78b7d9182432e9546e1563602b8dfn.webp?v=1772731009
     Price: 14,49 € EUR
 - [Hoodie Slim Fit Feminino em Malha | VELOXIS](https://veloxispt.myshopify.com/products/slim-fit-knitted-hoodie-style-thin-outerwear-jacket-women-spring-fashion-elastic-waistband-casual-comfortable-breathable): Hoodie feminino slim fit em malha respirável com cós elástico. Ideal para treinos de primavera e uso casual. Confortável, leve e versátil.
-  Updated: 2026-03-06T15:44:40Z
+  Updated: 2026-03-10T00:26:06Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3179,7 +3160,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5b67414228454d629150a6d1d99501784.webp?v=1772735677
     Price: 16,49 € EUR
 - [Casaco Proteção Solar UV Ultraligeiro Unissexo | VELOXIS](https://veloxispt.myshopify.com/products/unisex-ice-silk-sun-protection-clothing-breathable-outdoor-fishing-lightweight-outerwear-summer-uv-protection-running-suit): Casaco ultraligeiro unissexo com proteção UV em tecido ice silk respirável. Ideal para corrida, pesca e atividades outdoor no verão.
-  Updated: 2026-03-06T15:43:57Z
+  Updated: 2026-03-10T00:26:06Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3305,7 +3286,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S298698d257f8437dba9693366e88e78eG.webp?v=1772735252
     Price: 12,99 € EUR
 - [Faixa Modeladora Abdominal Feminina Pós-Parto | VELOXIS](https://veloxispt.myshopify.com/products/women-body-shapewear-tummy-slimming-black-belly-band-shaping-shaper-corset-postpartum-flat-belly-postpartum-corset-shapewear): Faixa modeladora abdominal feminina em poliéster. Compressão média, ideal para pós-parto. Design confortável sem aros para silhueta definida.
-  Updated: 2026-03-06T15:35:43Z
+  Updated: 2026-03-10T00:26:07Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3331,7 +3312,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sadf6c24d791c4703bb9d94843fefcd34D.webp?v=1772755979
     Price: 8,49 € EUR
 - [Boxers Modeladores Masculinos Compressão Abdominal | VELOXIS](https://veloxispt.myshopify.com/products/1pc-men-compression-panties-body-shaper-tummy-control-shorts-shapewear-belly-girdle-boxer-high-waisted-slimming-underwear-leg): Boxers modeladores masculinos com compressão abdominal. Tecido em nylon e elastano, cintura alta modeladora. Conforto e confiança para o dia a dia.
-  Updated: 2026-03-06T15:36:34Z
+  Updated: 2026-03-10T00:26:06Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3385,7 +3366,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfb61331e905b4cb0911eb59999a9c755T.webp?v=1772756217
     Price: 9,49 € EUR
 - [Meias Desportivas de Tornozelo - Respiráveis e Confortáveis | VELOXIS](https://veloxispt.myshopify.com/products/athletic-sport-ankle-boat-socks-nylon-bright-color-outdoor-basketball-bike-running-breathable-quick-drying-no-show-travel-socks): Meias desportivas de tornozelo em nylon respirável. Ideais para corrida, basquetebol e atividades outdoor. Secagem rápida e máximo conforto.
-  Updated: 2026-03-06T15:58:22Z
+  Updated: 2026-03-10T00:26:07Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3419,7 +3400,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Hb8d745a869554927869b7dc348daeca06.webp?v=1772812348
     Price: 6,49 € EUR
 - [Pack 5 Pares Meias Tornozelo Algodão Homem | VELOXIS](https://veloxispt.myshopify.com/products/5pairs-high-quality-men-ankle-socks-breathable-cotton-sports-socks-mesh-casual-athletic-summer-thin-cut-short-sokken-size-38-45): Pack de 5 pares de meias de tornozelo masculinas em algodão. Respiráveis e confortáveis para uso diário e desporto. Tamanhos 38-45.
-  Updated: 2026-03-06T16:07:41Z
+  Updated: 2026-03-10T00:26:08Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3445,7 +3426,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S978d4585be5d4735b5a055ce7f2403cbt.webp?v=1772812953
     Price: 7,49 € EUR
 - [Pack 3 Pares Meias Desportivas Acolchoadas | VELOXIS](https://veloxispt.myshopify.com/products/3-pairs-mesh-sports-terry-socks-cushioned-moisture-managing-and-durable-reduces-foot-for-running-hiking-cycling-baskateball): Pack 3 pares meias desportivas acolchoadas com malha respirável. Suporte de arco e gestão de humidade. Ideais para running, hiking e ciclismo.
-  Updated: 2026-03-06T16:14:47Z
+  Updated: 2026-03-10T00:26:08Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3467,7 +3448,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56e22eb2ab804c76b2c70cd59dbf1572U.webp?v=1772813391
     Price: 7,99 € EUR
 - [T-shirt Feminina Manga Curta Slim Fit | VELOXIS](https://veloxispt.myshopify.com/products/woman-clothing-short-sleeve-t-shirt-slim-fit-tops-female-o-neck-knitted-sheath-tee-shirt-street-wear--sporty-2024-y2k-new2410): T-shirt feminina manga curta slim fit em poliéster. Design desportivo com decote redondo. Perfeita para uso casual e streetwear.
-  Updated: 2026-03-06T16:22:14Z
+  Updated: 2026-03-10T00:26:08Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3572,30 +3553,1462 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S25741b84dc8c48bd837c2badb152960bb.webp?v=1772813993
     Price: 9,49 € EUR
+- [Leggings Yoga Cintura Alta Seamless - VELOXIS](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear): Leggings de yoga seamless com cintura alta que realçam a tua silhueta natural. O design sem costuras garante conforto absoluto em qualquer movimento. Cintura alta modeladora para suporte extra Tecido elástico que acompanha cada movimento Design seamless para zero fricção Material respirável de nylon premium Perfeitas para yoga, pilates, ginásio e corrida - VELOXIS
+  Updated: 2026-03-11T01:22:49Z
+  Vendor: VELOXIS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa81615c8816c431790a35950ddafcc26M.webp?v=1772849480
+  - [Pink / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013913426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d3fbc7a1d38470b9717be85d2ee9f0cS.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Pink / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013684050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d3fbc7a1d38470b9717be85d2ee9f0cS.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Pink / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013716818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d3fbc7a1d38470b9717be85d2ee9f0cS.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Sigali Red / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013749586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S263d51acbd534243abf2f9e439e0e1bcC.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Sigali Red / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013782354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S263d51acbd534243abf2f9e439e0e1bcC.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Sigali Red / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013946194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S263d51acbd534243abf2f9e439e0e1bcC.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Olive Green / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013815122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9cb1b4edfb18446c99b1845c854990b8O.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Olive Green / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013847890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9cb1b4edfb18446c99b1845c854990b8O.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Olive Green / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013880658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9cb1b4edfb18446c99b1845c854990b8O.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Yellow / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882013978962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfaf714fffe624761bf9388b6aed2a148e.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Yellow / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014011730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfaf714fffe624761bf9388b6aed2a148e.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Yellow / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014044498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfaf714fffe624761bf9388b6aed2a148e.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Black / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014077266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S31d0606f6e734e4f97b61715d3b131baC.webp?v=1772849479
+    Price: 12,49 € EUR
+  - [Black / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014110034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S31d0606f6e734e4f97b61715d3b131baC.webp?v=1772849479
+    Price: 12,49 € EUR
+  - [Black / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014142802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S31d0606f6e734e4f97b61715d3b131baC.webp?v=1772849479
+    Price: 12,49 € EUR
+  - [Klein Blue / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014175570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdbb5594cc95d4771ab57e4a881f9aee4g.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Klein Blue / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014470482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdbb5594cc95d4771ab57e4a881f9aee4g.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Klein Blue / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014503250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdbb5594cc95d4771ab57e4a881f9aee4g.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Purple / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014667090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa66c97237c6845d098517068854e4cfdW.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Purple / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014699858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa66c97237c6845d098517068854e4cfdW.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Purple / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014208338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa66c97237c6845d098517068854e4cfdW.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Blue Purple / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014241106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9a18e82eccec4b3bb0b9683ffffbc1a3S.webp?v=1772849481
+    Price: 11,99 € EUR
+  - [Blue Purple / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014273874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9a18e82eccec4b3bb0b9683ffffbc1a3S.webp?v=1772849481
+    Price: 11,99 € EUR
+  - [Blue Purple / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014306642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9a18e82eccec4b3bb0b9683ffffbc1a3S.webp?v=1772849481
+    Price: 11,99 € EUR
+  - [Coffee / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014536018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se170217421a34ce1ae07e0d72a443dc6f.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Coffee / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014568786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se170217421a34ce1ae07e0d72a443dc6f.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Coffee / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014339410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se170217421a34ce1ae07e0d72a443dc6f.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Grey / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014372178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb9189cb24d4a41eebd5c260b0bfe8209L.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Grey / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014404946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb9189cb24d4a41eebd5c260b0bfe8209L.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Grey / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014437714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb9189cb24d4a41eebd5c260b0bfe8209L.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Grey blue / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014896466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S72a29ebf67cd4def89c727b57ed1f9bcY.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Grey blue / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014601554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S72a29ebf67cd4def89c727b57ed1f9bcY.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Grey blue / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014634322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S72a29ebf67cd4def89c727b57ed1f9bcY.webp?v=1772849480
+    Price: 11,99 € EUR
+  - [Rose Pink / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014732626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6f2b3c1b2bb84d1ea233515c67d144f7G.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Rose Pink / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014798162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6f2b3c1b2bb84d1ea233515c67d144f7G.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Rose Pink / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014830930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6f2b3c1b2bb84d1ea233515c67d144f7G.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Light Blue / S](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014863698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0f45cf1906945be844f91f800e14f1bq.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Light Blue / M](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014929234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0f45cf1906945be844f91f800e14f1bq.webp?v=1772849479
+    Price: 11,99 € EUR
+  - [Light Blue / L](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear?variant=52882014765394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0f45cf1906945be844f91f800e14f1bq.webp?v=1772849479
+    Price: 11,99 € EUR
+- [Casaco Desportivo Feminino - VELOXIS](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper): Lightweight women's sports jacket designed for active lifestyles. Features quick-drying fabric with sun protection, perfect for yoga, running, and fitness activities. The slim-fit design with full-length sleeves and zipper closure offers comfort and flexibility during your workout. Key Features: Quick-drying polyester blend with elastane Sun protection for outdoor activities Full zipper closure for easy wear Slim fit design for optimal movement All-season versatility Note: This item runs small. We recommend ordering one size up for the best fit. - VELOXIS
+  Updated: 2026-03-11T12:23:57Z
+  Vendor: VELOXIS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2a5a3c0f8aee4d6fae76beca447258d7y_800x800_0baa6122-a77c-4c35-b622-2defdbc06fa3.jpg?v=1772889628
+  - [Honey pomelo powder / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009858898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d97d03c6d6f4829ac0916507f8bad8bA.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Honey pomelo powder / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009760594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d97d03c6d6f4829ac0916507f8bad8bA.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Honey pomelo powder / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009793362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d97d03c6d6f4829ac0916507f8bad8bA.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Honey pomelo powder / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008580946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d97d03c6d6f4829ac0916507f8bad8bA.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Honey pomelo powder / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008613714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d97d03c6d6f4829ac0916507f8bad8bA.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Honey pomelo powder / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008515410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1d97d03c6d6f4829ac0916507f8bad8bA.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [grey / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008548178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa38e0ff6e1a7480499d6989ae9adf9182.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [grey / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008712018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa38e0ff6e1a7480499d6989ae9adf9182.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [grey / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008744786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa38e0ff6e1a7480499d6989ae9adf9182.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [grey / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008646482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa38e0ff6e1a7480499d6989ae9adf9182.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [grey / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008679250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa38e0ff6e1a7480499d6989ae9adf9182.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [grey / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008777554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa38e0ff6e1a7480499d6989ae9adf9182.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [cocoa / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008974162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se485028e2b6c45ae89e518b8b145bae5x.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [cocoa / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009006930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se485028e2b6c45ae89e518b8b145bae5x.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [cocoa / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009170770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se485028e2b6c45ae89e518b8b145bae5x.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [cocoa / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009203538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se485028e2b6c45ae89e518b8b145bae5x.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [cocoa / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009105234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se485028e2b6c45ae89e518b8b145bae5x.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [cocoa / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008810322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se485028e2b6c45ae89e518b8b145bae5x.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Light pink / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008908626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sad7a4a9029c9482087ee4764aef3be3fc.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Light pink / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008941394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sad7a4a9029c9482087ee4764aef3be3fc.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Light pink / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008843090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sad7a4a9029c9482087ee4764aef3be3fc.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Light pink / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885008875858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sad7a4a9029c9482087ee4764aef3be3fc.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Light pink / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009039698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sad7a4a9029c9482087ee4764aef3be3fc.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Light pink / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009072466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sad7a4a9029c9482087ee4764aef3be3fc.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ivory / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009138002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seb1fa277981048b7921101577b70cbe4S.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ivory / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009301842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seb1fa277981048b7921101577b70cbe4S.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ivory / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009334610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seb1fa277981048b7921101577b70cbe4S.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ivory / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009236306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seb1fa277981048b7921101577b70cbe4S.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ivory / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009269074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seb1fa277981048b7921101577b70cbe4S.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ivory / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009432914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Seb1fa277981048b7921101577b70cbe4S.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Whale blue / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009465682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S97cd23f4858446e683042fe2584bd08dl.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Whale blue / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009367378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S97cd23f4858446e683042fe2584bd08dl.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Whale blue / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009400146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S97cd23f4858446e683042fe2584bd08dl.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Whale blue / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009563986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S97cd23f4858446e683042fe2584bd08dl.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Whale blue / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009596754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S97cd23f4858446e683042fe2584bd08dl.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Whale blue / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009498450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S97cd23f4858446e683042fe2584bd08dl.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Bean paste powder / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009531218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8d3e572af5b7441fabcbe3cd30539afac.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Bean paste powder / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009695058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8d3e572af5b7441fabcbe3cd30539afac.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Bean paste powder / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009727826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8d3e572af5b7441fabcbe3cd30539afac.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Bean paste powder / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009629522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8d3e572af5b7441fabcbe3cd30539afac.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Bean paste powder / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009662290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8d3e572af5b7441fabcbe3cd30539afac.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Bean paste powder / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009826130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8d3e572af5b7441fabcbe3cd30539afac.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ash blue / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009891666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedacf5ff158649d689e930b1ef8a06a5i.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ash blue / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009924434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedacf5ff158649d689e930b1ef8a06a5i.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ash blue / L](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885010022738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedacf5ff158649d689e930b1ef8a06a5i.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ash blue / XL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885010055506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedacf5ff158649d689e930b1ef8a06a5i.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ash blue / XXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009957202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedacf5ff158649d689e930b1ef8a06a5i.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [Ash blue / XXXL](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885009989970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedacf5ff158649d689e930b1ef8a06a5i.webp?v=1772889628
+    Price: 12,49 € EUR
+  - [black / S](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885010153810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6e12ced24f0242939707bb2209a26137D.webp?v=1772889628
+    Price: 12,99 € EUR
+  - [black / M](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper?variant=52885010186578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6e12ced24f0242939707bb2209a26137D.webp?v=1772889628
+    Price: 12,99 € EUR
+- [Óculos de Ciclismo Desportivos com Proteção UV400 - VELOXIS](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses): High-performance cycling sunglasses designed for road and mountain biking. Featuring durable polycarbonate construction with UV400 protection lenses to shield your eyes from harmful rays, wind, and debris during your ride. Key Features: UV400 protection for complete eye safety Lightweight polycarbonate frame and lenses Impact-resistant and scratch-resistant design Unisex style suitable for all cyclists Ideal for cycling, running, and outdoor sports Perfect for road cycling, mountain biking, and other outdoor activities where eye protection is essential. - VELOXIS
+  Updated: 2026-03-11T12:26:51Z
+  Vendor: VELOXIS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scb4468a7a4084ce1a14874654d57776bh.webp?v=1772890429
+  - [RED BLUE](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses?variant=52885027684690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5ce5249a14604473860733e592cfbc78v.webp?v=1772890429
+    Price: 7,49 € EUR
+  - [BLUE](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses?variant=52885027717458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1835805cf25f4997be4082d43c23c847y.webp?v=1772890429
+    Price: 7,49 € EUR
+  - [Gray](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses?variant=52885027750226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S857c6ec175b547119c04956db7b2d69fF.webp?v=1772890429
+    Price: 7,99 € EUR
+  - [YELLOW WHITE](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses?variant=52885027782994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdf31bb03cce342148eeacdb84cd08beeK.webp?v=1772890428
+    Price: 7,49 € EUR
+  - [YELLOW](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses?variant=52885027815762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Scdb20b38e51548a78cd196d66cc55143q.webp?v=1772890429
+    Price: 7,49 € EUR
+  - [RED YELLOW](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses?variant=52885027848530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S788dea9fd6ce4796a4d42176944e5dbdp.webp?v=1772890429
+    Price: 7,49 € EUR
+  - [BLACK WHITE](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses?variant=52885027881298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa156bb775b394bfc90a99a7fb3ca39bbt.webp?v=1772890429
+    Price: 7,49 € EUR
+- [Top Desportivo Feminino Push-Up - Yoga & Fitness | VELOXIS](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear): Top desportivo feminino com push-up para yoga, pilates e fitness. Design respirável em nylon de alta performance. Conforto e estilo para os teus treinos.
+  Updated: 2026-03-10T00:26:09Z
+  Vendor: VELOXIS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saf031722213c45a6896d757a3968f64ba.webp?v=1772989735
+  - [S / BX702-White Yellow / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367861586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S90e65c8e70a1493481370dce5164419bc.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [S / BX702-blue violet / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367828818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S40ec19d20d154d3c8ecc841ea0e1386dP.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [S / BX702-Black White / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368123730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfb57bc5dda9143a1a27736d476722582Y.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [S / BX702-green / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367992658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S420f97e227a24f33847d888e83a43533K.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [S / BX702-light pink / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368353106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5f77b1b4a4124fbfb1c76e069aff1db7r.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [S / BX702-Pure black / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368713554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e24e32457ec4f7a8ea0a7d7a948df76l.webp?v=1772989734
+    Price: 12,99 € EUR
+  - [S / BX702-Pink coffee / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368418642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S919747dec2444493be24f07b9c5fd994k.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [S / BX702-Blue white / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368648018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se38932f67e054abba582b852b01c52d7A.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [S / BX702-beige / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368582482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S855a2db2ed8e4ded87ba24a25a87d066Q.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [S / BX702-wisteria / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368779090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa5e81ccadd124acdbb9f01302ee3a827D.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [S / BX702-Encore Red / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369008466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbb99136f22e54710a3ede59f3db016ad3.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [S / BX702-Island Blue / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369172306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbaecb52e8c03428fa9458dc596fc6271I.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [M / BX702-White Yellow / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367730514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S90e65c8e70a1493481370dce5164419bc.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [M / BX702-blue violet / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368025426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S40ec19d20d154d3c8ecc841ea0e1386dP.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [M / BX702-Black White / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367894354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfb57bc5dda9143a1a27736d476722582Y.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [M / BX702-green / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368254802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S420f97e227a24f33847d888e83a43533K.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [M / BX702-light pink / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368156498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5f77b1b4a4124fbfb1c76e069aff1db7r.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [M / BX702-Pure black / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368385874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e24e32457ec4f7a8ea0a7d7a948df76l.webp?v=1772989734
+    Price: 12,99 € EUR
+  - [M / BX702-Pink coffee / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368615250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S919747dec2444493be24f07b9c5fd994k.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [M / BX702-Blue white / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368746322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se38932f67e054abba582b852b01c52d7A.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [M / BX702-beige / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368910162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S855a2db2ed8e4ded87ba24a25a87d066Q.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [M / BX702-wisteria / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368877394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa5e81ccadd124acdbb9f01302ee3a827D.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [M / BX702-Encore Red / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369106770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbb99136f22e54710a3ede59f3db016ad3.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [M / BX702-Island Blue / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369270610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbaecb52e8c03428fa9458dc596fc6271I.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [L / BX702-White Yellow / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367763282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S90e65c8e70a1493481370dce5164419bc.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [L / BX702-blue violet / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368058194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S40ec19d20d154d3c8ecc841ea0e1386dP.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [L / BX702-Black White / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367927122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfb57bc5dda9143a1a27736d476722582Y.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [L / BX702-green / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368287570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S420f97e227a24f33847d888e83a43533K.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [L / BX702-light pink / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368189266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5f77b1b4a4124fbfb1c76e069aff1db7r.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [L / BX702-Pure black / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368451410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e24e32457ec4f7a8ea0a7d7a948df76l.webp?v=1772989734
+    Price: 12,99 € EUR
+  - [L / BX702-Pink coffee / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368549714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S919747dec2444493be24f07b9c5fd994k.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [L / BX702-Blue white / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368680786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se38932f67e054abba582b852b01c52d7A.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [L / BX702-beige / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368975698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S855a2db2ed8e4ded87ba24a25a87d066Q.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [L / BX702-wisteria / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368844626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa5e81ccadd124acdbb9f01302ee3a827D.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [L / BX702-Encore Red / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369074002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbb99136f22e54710a3ede59f3db016ad3.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [L / BX702-Island Blue / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369237842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbaecb52e8c03428fa9458dc596fc6271I.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [XL / BX702-White Yellow / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367796050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S90e65c8e70a1493481370dce5164419bc.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [XL / BX702-blue violet / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368090962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S40ec19d20d154d3c8ecc841ea0e1386dP.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [XL / BX702-Black White / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893367959890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfb57bc5dda9143a1a27736d476722582Y.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [XL / BX702-green / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368320338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S420f97e227a24f33847d888e83a43533K.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [XL / BX702-light pink / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368222034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5f77b1b4a4124fbfb1c76e069aff1db7r.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [XL / BX702-Pure black / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368516946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2e24e32457ec4f7a8ea0a7d7a948df76l.webp?v=1772989734
+    Price: 12,99 € EUR
+  - [XL / BX702-Pink coffee / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368942930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S919747dec2444493be24f07b9c5fd994k.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [XL / BX702-Blue white / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368484178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se38932f67e054abba582b852b01c52d7A.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [XL / BX702-beige / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369041234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S855a2db2ed8e4ded87ba24a25a87d066Q.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [XL / BX702-wisteria / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369205074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa5e81ccadd124acdbb9f01302ee3a827D.webp?v=1772989735
+    Price: 12,49 € EUR
+  - [XL / BX702-Encore Red / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893368811858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbb99136f22e54710a3ede59f3db016ad3.webp?v=1772989734
+    Price: 12,49 € EUR
+  - [XL / BX702-Island Blue / China Mainland](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear?variant=52893369139538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbaecb52e8c03428fa9458dc596fc6271I.webp?v=1772989734
+    Price: 12,49 € EUR
+- [Sutiã Desportivo Feminino Respirável - Yoga & Fitness | VELOXIS](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra): Sutiã desportivo feminino respirável com suporte médio/alto. Design seamless em nylon e spandex, tecnologia Quick Dry. Ideal para yoga e fitness.
+  Updated: 2026-03-10T02:36:34Z
+  Vendor: VELOXIS
+  Product Type: Tops Desportivos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S23e2807aaa904160b7eae0d566f5c823a.webp?v=1772990403
+  - [White / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388439890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb615f4291558453b8de1f7e34f17c3abB.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [White / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388407122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb615f4291558453b8de1f7e34f17c3abB.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [White / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388505426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb615f4291558453b8de1f7e34f17c3abB.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Coffee / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388472658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sde0cc1a0e658442c907b7c9ae9f8ce30P.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Coffee / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388800338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sde0cc1a0e658442c907b7c9ae9f8ce30P.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Coffee / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388734802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sde0cc1a0e658442c907b7c9ae9f8ce30P.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Purple / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388538194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sae877cc860f74578893552428fe70b12B.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Purple / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388603730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sae877cc860f74578893552428fe70b12B.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Purple / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388570962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sae877cc860f74578893552428fe70b12B.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Black / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388669266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sde99b77586714d01bb50939002c3a696u.webp?v=1772990402
+    Price: 11,99 € EUR
+  - [Black / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388636498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sde99b77586714d01bb50939002c3a696u.webp?v=1772990402
+    Price: 11,99 € EUR
+  - [Black / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388767570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sde99b77586714d01bb50939002c3a696u.webp?v=1772990402
+    Price: 11,99 € EUR
+  - [Khakis / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388702034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sec7def0141394b4d9fb99acd383f1daen.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Khakis / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388865874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sec7def0141394b4d9fb99acd383f1daen.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Khakis / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388833106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sec7def0141394b4d9fb99acd383f1daen.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Green / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388931410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S764c709ac4a74645ae601054e092f02aZ.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Green / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388898642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S764c709ac4a74645ae601054e092f02aZ.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Green / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388996946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S764c709ac4a74645ae601054e092f02aZ.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Blue / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893388964178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S940ca5dcf7d64373adc28c7a7a9d4089b.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Blue / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389062482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S940ca5dcf7d64373adc28c7a7a9d4089b.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Blue / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389029714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S940ca5dcf7d64373adc28c7a7a9d4089b.webp?v=1772990402
+    Price: 11,49 € EUR
+  - [Pink / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389128018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfef4cb90d0484a18ad88673c306944faz.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Pink / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389095250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfef4cb90d0484a18ad88673c306944faz.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Pink / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389193554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfef4cb90d0484a18ad88673c306944faz.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Orange / S / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389160786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se9d5b7abdfef4b46b05a0f8e2f770504V.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Orange / M / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389259090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se9d5b7abdfef4b46b05a0f8e2f770504V.webp?v=1772990401
+    Price: 11,49 € EUR
+  - [Orange / L / CN](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra?variant=52893389226322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se9d5b7abdfef4b46b05a0f8e2f770504V.webp?v=1772990401
+    Price: 11,49 € EUR
+- [Calções Desportivos Cintura Alta Mulher | Yoga e Fitness](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear): Calções desportivos sem costuras com cintura alta. Leves, respiráveis e com tecnologia de secagem rápida. Perfeitos para yoga, corrida e fitness.
+  Updated: 2026-03-10T06:31:39Z
+  Vendor: VELOXIS
+  Product Type: Calções Desportivos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S649de7249d3e4e31a1daf8e3f292248en.webp?v=1773009822
+  - [WHITE / S](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221664594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S649de7249d3e4e31a1daf8e3f292248en.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [WHITE / M](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221697362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S649de7249d3e4e31a1daf8e3f292248en.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [WHITE / L](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221435218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S649de7249d3e4e31a1daf8e3f292248en.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [pink / S](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221500754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5aba10a2b238488da3cd4f61ad0fdae45.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [pink / M](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221467986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5aba10a2b238488da3cd4f61ad0fdae45.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [pink / L](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221730130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5aba10a2b238488da3cd4f61ad0fdae45.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [light blue / S](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221795666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1b42a139372942058ef9ce56b6c06bf26.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [light blue / M](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221566290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1b42a139372942058ef9ce56b6c06bf26.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [light blue / L](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221533522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1b42a139372942058ef9ce56b6c06bf26.webp?v=1773009822
+    Price: 11,49 € EUR
+  - [black / S](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221762898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8b7b4dfc951e4f549efa07e5c7db4c5cV.webp?v=1773009822
+    Price: 11,99 € EUR
+  - [black / M](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221599058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8b7b4dfc951e4f549efa07e5c7db4c5cV.webp?v=1773009822
+    Price: 11,99 € EUR
+  - [black / L](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear?variant=52894221631826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8b7b4dfc951e4f549efa07e5c7db4c5cV.webp?v=1773009822
+    Price: 11,99 € EUR
+- [Leggings Yoga Tie-Dye Cintura Alta | WAREBALL](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins): Leggings de yoga sem costuras WAREBALL com cintura alta, design tie-dye e tecnologia de secagem rápida. Conforto e performance para os seus treinos.
+  Updated: 2026-03-10T00:26:07Z
+  Vendor: VELOXIS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7559660ed9a4d9d84a70ab9ab63abaaK.webp?v=1773080616
+  - [M(56-62KG) / Purple](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180061522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3e2748805df74bba884059a349b0153dF.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Green](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180094290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S74991b47543144899bb3125df1e9cf5aJ.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Gray](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180127058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S89bc05056e5847d7b12c6355f38ef041g.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Pink](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180159826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d2fbbfee03d4d399254c2f633691719N.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Purple 1](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180192594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sba11e2defd2043afb08337fbf63d0a80b.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Purple](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180225362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3e2748805df74bba884059a349b0153dF.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Blue2](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180258130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1dfd677a58da418f9cec2a78647a143bJ.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Gray](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180290898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S89bc05056e5847d7b12c6355f38ef041g.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Wine](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180323666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb34a57d22ec844cfbc69c6fcad26b4d7y.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Black](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180356434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7559660ed9a4d9d84a70ab9ab63abaaK.webp?v=1773080616
+    Price: 13,99 € EUR
+  - [S(45-55KG) / Wine 1](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180389202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S295ccc97bcb94343a90c5a3312df8cf2F.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Black](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180421970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7559660ed9a4d9d84a70ab9ab63abaaK.webp?v=1773080616
+    Price: 13,99 € EUR
+  - [M(56-62KG) / Wine 1](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180454738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S295ccc97bcb94343a90c5a3312df8cf2F.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Blue2](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180487506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1dfd677a58da418f9cec2a78647a143bJ.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Wine 1](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180520274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S295ccc97bcb94343a90c5a3312df8cf2F.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Blue2](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180553042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1dfd677a58da418f9cec2a78647a143bJ.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Gray](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180585810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S89bc05056e5847d7b12c6355f38ef041g.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Purple 1](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180618578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sba11e2defd2043afb08337fbf63d0a80b.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Purple 1](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180651346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sba11e2defd2043afb08337fbf63d0a80b.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Purple](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180684114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3e2748805df74bba884059a349b0153dF.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Black](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180716882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7559660ed9a4d9d84a70ab9ab63abaaK.webp?v=1773080616
+    Price: 13,99 € EUR
+  - [L(63-75KG) / Rose](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180749650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb093ee5a46bc4f2ea4c7709591de0c91e.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Wine](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180782418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb34a57d22ec844cfbc69c6fcad26b4d7y.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Rose](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180815186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb093ee5a46bc4f2ea4c7709591de0c91e.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Wine](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180847954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb34a57d22ec844cfbc69c6fcad26b4d7y.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Green](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180880722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S74991b47543144899bb3125df1e9cf5aJ.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Rose](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180913490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb093ee5a46bc4f2ea4c7709591de0c91e.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Navy](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180946258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S717f92e5f8c8476081473a332e128ee4X.webp?v=1773079644
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Green](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902180979026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S74991b47543144899bb3125df1e9cf5aJ.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Pink](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902181011794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d2fbbfee03d4d399254c2f633691719N.webp?v=1773080616
+    Price: 13,49 € EUR
+  - [S(45-55KG) / Navy](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902181044562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S717f92e5f8c8476081473a332e128ee4X.webp?v=1773079644
+    Price: 13,49 € EUR
+  - [L(63-75KG) / Navy](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902181077330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S717f92e5f8c8476081473a332e128ee4X.webp?v=1773079644
+    Price: 13,49 € EUR
+  - [M(56-62KG) / Pink](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins?variant=52902181110098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d2fbbfee03d4d399254c2f633691719N.webp?v=1773080616
+    Price: 13,49 € EUR
+- [Casaco Desportivo com Capuz Mulher | Fitness e Corrida](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top): Casaco desportivo slim fit com capuz para mulher. Respirável, secagem rápida e design moderno. Perfeito para corrida, fitness e uso casual.
+  Updated: 2026-03-10T00:26:06Z
+  Vendor: VELOXIS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H62da8c06445142a59dd60f2cb8b50236w.webp?v=1773081048
+  - [Black / S](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902216958290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H80808abd75d44203984bbe727f6a4848D.webp?v=1773081048
+    Price: 14,99 € EUR
+  - [Black / M](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902216991058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H80808abd75d44203984bbe727f6a4848D.webp?v=1773081048
+    Price: 14,99 € EUR
+  - [White / M](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217023826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Haa59c9a24c55481d8b86e87b10d79f82W.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [White / L](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217056594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Haa59c9a24c55481d8b86e87b10d79f82W.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [White / S](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217089362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Haa59c9a24c55481d8b86e87b10d79f82W.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [Green / L](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217122130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H62da8c06445142a59dd60f2cb8b50236w.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [Green / S](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217154898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H62da8c06445142a59dd60f2cb8b50236w.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [Green / M](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217187666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H62da8c06445142a59dd60f2cb8b50236w.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [Pink / M](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217220434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H9811f13f1b8745a0938bab164892737bi.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [Pink / L](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217253202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H9811f13f1b8745a0938bab164892737bi.webp?v=1773081048
+    Price: 14,49 € EUR
+  - [Black / L](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217285970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H80808abd75d44203984bbe727f6a4848D.webp?v=1773081048
+    Price: 14,99 € EUR
+  - [Pink / S](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top?variant=52902217318738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H9811f13f1b8745a0938bab164892737bi.webp?v=1773081048
+    Price: 14,49 € EUR
+- [T-Shirt Desportiva Compressão Mulher | Secagem Rápida](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt): T-shirt desportiva ultraleve de compressão para mulher. Secagem rápida, respirável e leve. Perfeita para corrida, ginásio e fitness.
+  Updated: 2026-03-10T06:46:14Z
+  Vendor: VELOXIS
+  Product Type: T-Shirts Desportivas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56ded201c4424d8ea1e6e859014b1a37v.webp?v=1773082756
+  - [XS / Branco](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250053970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf1684bffaeda4687b35dce8dda9b49b5y.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XS / Cinzento](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250119506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2280b56be65b4db0920a689a6681d729F.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XS / Preto](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250447186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6cd0e51a34b049a7995f4c4b843233acz.webp?v=1773082756
+    Price: 9,99 € EUR
+  - [XS / Roxo](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250479954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56ded201c4424d8ea1e6e859014b1a37v.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XS / Azul](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250840402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf6a376e90a004daa8effdad15a06c79cl.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XS / Verde](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250905938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfe90a774fe434baa85c07c9332066495Q.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [S / Branco](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902249824594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf1684bffaeda4687b35dce8dda9b49b5y.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [S / Cinzento](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250152274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2280b56be65b4db0920a689a6681d729F.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [S / Preto](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250217810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6cd0e51a34b049a7995f4c4b843233acz.webp?v=1773082756
+    Price: 9,99 € EUR
+  - [S / Roxo](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250512722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56ded201c4424d8ea1e6e859014b1a37v.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [S / Azul](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250611026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf6a376e90a004daa8effdad15a06c79cl.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [S / Verde](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250938706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfe90a774fe434baa85c07c9332066495Q.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [M / Branco](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902249857362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf1684bffaeda4687b35dce8dda9b49b5y.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [M / Cinzento](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250185042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2280b56be65b4db0920a689a6681d729F.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [M / Preto](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250250578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6cd0e51a34b049a7995f4c4b843233acz.webp?v=1773082756
+    Price: 9,99 € EUR
+  - [M / Roxo](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250545490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56ded201c4424d8ea1e6e859014b1a37v.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [M / Azul](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250643794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf6a376e90a004daa8effdad15a06c79cl.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [M / Verde](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250971474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfe90a774fe434baa85c07c9332066495Q.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [L / Branco](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902249890130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf1684bffaeda4687b35dce8dda9b49b5y.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [L / Cinzento](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902249955666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2280b56be65b4db0920a689a6681d729F.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [L / Preto](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250283346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6cd0e51a34b049a7995f4c4b843233acz.webp?v=1773082756
+    Price: 9,99 € EUR
+  - [L / Roxo](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250348882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56ded201c4424d8ea1e6e859014b1a37v.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [L / Azul](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250676562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf6a376e90a004daa8effdad15a06c79cl.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [L / Verde](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250742098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfe90a774fe434baa85c07c9332066495Q.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XL / Branco](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902249922898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf1684bffaeda4687b35dce8dda9b49b5y.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XL / Cinzento](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902249988434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2280b56be65b4db0920a689a6681d729F.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XL / Preto](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250316114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6cd0e51a34b049a7995f4c4b843233acz.webp?v=1773082756
+    Price: 9,99 € EUR
+  - [XL / Roxo](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250381650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56ded201c4424d8ea1e6e859014b1a37v.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XL / Azul](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250709330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf6a376e90a004daa8effdad15a06c79cl.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XL / Verde](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250774866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfe90a774fe434baa85c07c9332066495Q.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XXL / Branco](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250873170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf1684bffaeda4687b35dce8dda9b49b5y.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XXL / Cinzento](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250021202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2280b56be65b4db0920a689a6681d729F.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XXL / Preto](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250086738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6cd0e51a34b049a7995f4c4b843233acz.webp?v=1773082756
+    Price: 9,99 € EUR
+  - [XXL / Roxo](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250414418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56ded201c4424d8ea1e6e859014b1a37v.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XXL / Azul](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250578258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf6a376e90a004daa8effdad15a06c79cl.webp?v=1773082756
+    Price: 9,49 € EUR
+  - [XXL / Verde](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt?variant=52902250807634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfe90a774fe434baa85c07c9332066495Q.webp?v=1773082756
+    Price: 9,49 € EUR
+- [T-Shirt Manga Comprida Fitness Mulher | Yoga e Corrida](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit): T-shirt manga comprida fitness para mulher. Secagem rápida, respirável e design slim fit. Perfeita para yoga, corrida e ginásio.
+  Updated: 2026-03-10T06:50:22Z
+  Vendor: VELOXIS
+  Product Type: T-Shirts Desportivas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa89b2c3c521e4597bd2e93a6402452743.webp?v=1773082111
+  - [Rosa claro / S](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283542866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8f4e09c48ac24c7cb2a2353d31c8c1ddK.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Rosa claro / M](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283510098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8f4e09c48ac24c7cb2a2353d31c8c1ddK.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Rosa claro / L](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283739474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8f4e09c48ac24c7cb2a2353d31c8c1ddK.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Rosa claro / XL](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283575634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8f4e09c48ac24c7cb2a2353d31c8c1ddK.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Azul Escuro / S](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902284067154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3f63dd4658ad4293941b800d076ecd057.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Azul Escuro / M](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902284034386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3f63dd4658ad4293941b800d076ecd057.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Azul Escuro / L](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283608402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3f63dd4658ad4293941b800d076ecd057.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Azul Escuro / XL](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902284099922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3f63dd4658ad4293941b800d076ecd057.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Azul Claro / S](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283673938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43bb7366414a453b83649958eedb1ba8P.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Azul Claro / M](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283641170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43bb7366414a453b83649958eedb1ba8P.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Azul Claro / L](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283772242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43bb7366414a453b83649958eedb1ba8P.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Azul Claro / XL](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283706706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S43bb7366414a453b83649958eedb1ba8P.webp?v=1773082112
+    Price: 12,49 € EUR
+  - [Bege / S](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283837778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf0349e5dedbf4c898ae8f4f1d9d1523eT.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Bege / M](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283805010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf0349e5dedbf4c898ae8f4f1d9d1523eT.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Bege / L](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902284001618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf0349e5dedbf4c898ae8f4f1d9d1523eT.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Bege / XL](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283870546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf0349e5dedbf4c898ae8f4f1d9d1523eT.webp?v=1773082111
+    Price: 12,49 € EUR
+  - [Preto / S](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283936082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S05facec5b01f4aae85608219d1ad6989G.webp?v=1773082111
+    Price: 12,99 € EUR
+  - [Preto / M](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283903314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S05facec5b01f4aae85608219d1ad6989G.webp?v=1773082111
+    Price: 12,99 € EUR
+  - [Preto / L](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902284132690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S05facec5b01f4aae85608219d1ad6989G.webp?v=1773082111
+    Price: 12,99 € EUR
+  - [Preto / XL](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit?variant=52902283968850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S05facec5b01f4aae85608219d1ad6989G.webp?v=1773082111
+    Price: 12,99 € EUR
+- [Camisola Térmica Masculina Gola Alta Modal Premium | VELOXIS](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top): Camisola térmica masculina em Modal premium com gola alta. Tecido fino, respirável e corte slim-fit. Conforto e performance para outono e inverno.
+  Updated: 2026-03-11T03:13:51Z
+  Vendor: VELOXIS
+  Product Type: T-Shirts Desportivas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8ef62faf64743018086f7e73ad93a76P.webp?v=1773155407
+  - [Gray / L / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466755922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Secde6e913ec0466bb037eb7d3635ab88R.webp?v=1773155407
+    Price: 11,99 € EUR
+  - [Gray / XL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466854226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Secde6e913ec0466bb037eb7d3635ab88R.webp?v=1773155407
+    Price: 11,99 € EUR
+  - [Gray / XXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466821458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Secde6e913ec0466bb037eb7d3635ab88R.webp?v=1773155407
+    Price: 11,99 € EUR
+  - [Gray / XXXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466624850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Secde6e913ec0466bb037eb7d3635ab88R.webp?v=1773155407
+    Price: 11,99 € EUR
+  - [Black / L / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466657618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8ef62faf64743018086f7e73ad93a76P.webp?v=1773155407
+    Price: 12,49 € EUR
+  - [Black / XL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466723154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8ef62faf64743018086f7e73ad93a76P.webp?v=1773155407
+    Price: 12,49 € EUR
+  - [Black / XXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466690386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8ef62faf64743018086f7e73ad93a76P.webp?v=1773155407
+    Price: 12,49 € EUR
+  - [Black / XXXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912467050834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8ef62faf64743018086f7e73ad93a76P.webp?v=1773155407
+    Price: 12,49 € EUR
+  - [Navy Blue / L / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466985298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5937ef707a1841e98127aed9ebb3abc7b.webp?v=1773155406
+    Price: 11,99 € EUR
+  - [Navy Blue / XL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466952530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5937ef707a1841e98127aed9ebb3abc7b.webp?v=1773155406
+    Price: 11,99 € EUR
+  - [Navy Blue / XXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466919762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5937ef707a1841e98127aed9ebb3abc7b.webp?v=1773155406
+    Price: 11,99 € EUR
+  - [Navy Blue / XXXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466788690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5937ef707a1841e98127aed9ebb3abc7b.webp?v=1773155406
+    Price: 11,99 € EUR
+  - [WHITE / L / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912467018066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2f700253f2ac45529e1a73a9eba0ee1b7.webp?v=1773155407
+    Price: 11,99 € EUR
+  - [WHITE / XL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912467116370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2f700253f2ac45529e1a73a9eba0ee1b7.webp?v=1773155407
+    Price: 11,99 € EUR
+  - [WHITE / XXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912467083602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2f700253f2ac45529e1a73a9eba0ee1b7.webp?v=1773155407
+    Price: 11,99 € EUR
+  - [WHITE / XXXL / China Mainland](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top?variant=52912466886994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2f700253f2ac45529e1a73a9eba0ee1b7.webp?v=1773155407
+    Price: 11,99 € EUR
+- [T-shirt Desportiva Manga Comprida Performance | VELOXIS](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit): T-shirt desportiva técnica de manga comprida. Alta elasticidade, absorção de suor e respirabilidade superior. Corte ajustado para máxima performance.
+  Updated: 2026-03-11T03:18:53Z
+  Vendor: VELOXIS
+  Product Type: T-Shirts Desportivas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saeeee95001fe4cb8b390a526f79ae974D.webp?v=1773155856
+  - [blackKH001 / M](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912517939538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saeeee95001fe4cb8b390a526f79ae974D.webp?v=1773155856
+    Price: 11,49 € EUR
+  - [blackKH001 / L](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912517972306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saeeee95001fe4cb8b390a526f79ae974D.webp?v=1773155856
+    Price: 11,49 € EUR
+  - [blackKH001 / XL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518005074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saeeee95001fe4cb8b390a526f79ae974D.webp?v=1773155856
+    Price: 11,49 € EUR
+  - [blackKH001 / XXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518037842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saeeee95001fe4cb8b390a526f79ae974D.webp?v=1773155856
+    Price: 11,49 € EUR
+  - [blackKH001 / XXXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518070610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saeeee95001fe4cb8b390a526f79ae974D.webp?v=1773155856
+    Price: 11,49 € EUR
+  - [blackHX1019 / M](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518103378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d29d792ab7546acb7179119abc12a2bb.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1019 / L](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518136146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d29d792ab7546acb7179119abc12a2bb.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1019 / XL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518168914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d29d792ab7546acb7179119abc12a2bb.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1019 / XXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518201682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d29d792ab7546acb7179119abc12a2bb.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1019 / XXXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518234450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9d29d792ab7546acb7179119abc12a2bb.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1049 / M](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518267218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf038b1c0b3df4002a53046a1f97dfb665.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1049 / L](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518299986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf038b1c0b3df4002a53046a1f97dfb665.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1049 / XL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518332754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf038b1c0b3df4002a53046a1f97dfb665.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1049 / XXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518365522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf038b1c0b3df4002a53046a1f97dfb665.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1049 / XXXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518398290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf038b1c0b3df4002a53046a1f97dfb665.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1089 / M](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518431058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7b3a2249a2443efa98027270cbdf31ej.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1089 / L](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518463826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7b3a2249a2443efa98027270cbdf31ej.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1089 / XL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518496594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7b3a2249a2443efa98027270cbdf31ej.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1089 / XXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518529362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7b3a2249a2443efa98027270cbdf31ej.webp?v=1773156073
+    Price: 10,99 € EUR
+  - [blackHX1089 / XXXL](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit?variant=52912518562130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7b3a2249a2443efa98027270cbdf31ej.webp?v=1773156073
+    Price: 10,99 € EUR
+- [Regata Desportiva Masculina - Ginásio e Corrida | VELOXIS](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest): Regata desportiva masculina sem mangas para ginásio, corrida e treino. Tecido respirável, máxima mobilidade e conforto. Disponível em várias cores.
+  Updated: 2026-03-14T15:48:28Z
+  Vendor: VELOXIS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa8658cb658d84ad0b4aa64755e0cd3bd2.webp?v=1773497097
+  - [M / White / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427592018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98fe174fa6be41b798ca5655d10a58baI.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [M / Blue / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427526482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4bdb01e1069549528dd4958665568a8eq.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [M / Gray / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427755858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7888a9d3ad534d39ae4350a5c9cf4b32y.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [M / Black / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940428116306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S03ff62643ef84628a10df5ba67f65d90t.webp?v=1773497446
+    Price: 11,99 € EUR
+  - [L / White / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427493714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98fe174fa6be41b798ca5655d10a58baI.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [L / Blue / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427624786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4bdb01e1069549528dd4958665568a8eq.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [L / Gray / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427690322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7888a9d3ad534d39ae4350a5c9cf4b32y.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [L / Black / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427985234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S03ff62643ef84628a10df5ba67f65d90t.webp?v=1773497446
+    Price: 11,99 € EUR
+  - [XL / White / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427854162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98fe174fa6be41b798ca5655d10a58baI.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [XL / Blue / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427657554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4bdb01e1069549528dd4958665568a8eq.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [XL / Gray / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427723090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7888a9d3ad534d39ae4350a5c9cf4b32y.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [XL / Black / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940428018002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S03ff62643ef84628a10df5ba67f65d90t.webp?v=1773497446
+    Price: 11,99 € EUR
+  - [XXL / White / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427886930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98fe174fa6be41b798ca5655d10a58baI.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [XXL / Blue / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427821394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4bdb01e1069549528dd4958665568a8eq.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [XXL / Gray / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940428050770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7888a9d3ad534d39ae4350a5c9cf4b32y.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [XXL / Black / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427919698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S03ff62643ef84628a10df5ba67f65d90t.webp?v=1773497446
+    Price: 11,99 € EUR
+  - [3XL / White / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427788626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S98fe174fa6be41b798ca5655d10a58baI.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [3XL / Blue / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427559250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4bdb01e1069549528dd4958665568a8eq.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [3XL / Gray / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940428083538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7888a9d3ad534d39ae4350a5c9cf4b32y.webp?v=1773497446
+    Price: 11,49 € EUR
+  - [3XL / Black / China Mainland](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest?variant=52940427952466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S03ff62643ef84628a10df5ba67f65d90t.webp?v=1773497446
+    Price: 11,99 € EUR
 
 ## Collections
 
 - [Coleção Mulher - VELOXIS](https://veloxispt.myshopify.com/collections/mulher): Explore a nossa seleção de produtos para mulher na VELOXIS. Qualidade e estilo em cada peça.
-  Updated: 2026-03-06T16:19:55Z
-  Total Products: 24
+  Updated: 2026-03-09T18:58:24Z
+  Total Products: 34
 - [Coleção Homem - VELOXIS](https://veloxispt.myshopify.com/collections/homem): Explore a nossa seleção de produtos para homem na VELOXIS. Qualidade e estilo em cada peça.
-  Updated: 2026-03-06T16:09:53Z
-  Total Products: 18
+  Updated: 2026-03-14T17:20:18Z
+  Total Products: 22
 - [New Collection](https://veloxispt.myshopify.com/collections/new-collection): Novidades Exclusivas Para Si!
   Updated: 2026-03-06T14:31:32Z
   Total Products: 6
 - [Produtos com Desconto de 50% - VELOXIS](https://veloxispt.myshopify.com/collections/produtos-elegiveis-para-desconto): Compra 50€ em produtos e recebe 50% de desconto num destes artigos selecionados. Aproveita esta promoção exclusiva!
-  Updated: 2026-03-06T14:52:50Z
+  Updated: 2026-03-11T20:28:46Z
   Total Products: 10
-- [Produtos Europa](https://veloxispt.myshopify.com/collections/produtos-europa): Produtos disponíveis para clientes na Europa (Portugal, Espanha, França, etc.). Enviados através da Amazon.pt.
-  Updated: 2026-03-06T16:19:55Z
-  Total Products: 35
-- [Produtos USA](https://veloxispt.myshopify.com/collections/produtos-usa): Produtos disponíveis para clientes nos Estados Unidos e Canadá. Enviados através da Amazon.com.
-  Updated: 2026-03-06T16:19:55Z
-  Total Products: 35
 - [Roupa Desportiva - Catálogo Completo VELOXIS | Qualidade Premium](https://veloxispt.myshopify.com/collections/todos-os-produtos): Explora toda a coleção VELOXIS de roupa desportiva. Leggings, tops, camisolas e mais. Performance e estilo para o teu treino.
-  Updated: 2026-03-06T16:19:55Z
-  Total Products: 35
+  Updated: 2026-03-14T14:10:48Z
+  Total Products: 48
 
 ## Blogs
 
@@ -3643,8 +5056,8 @@
   Updated: 2026-02-26T00:17:43Z
 - [Rastrear Encomenda - VELOXIS](https://veloxispt.myshopify.com/pages/track-order): 📦 Rastrear a Tua Encomenda Acompanha o estado da tua encomenda VELOXIS em tempo real! Como rastrear: 1. Verifica o teu email Assim que a tua encome...
   Updated: 2026-02-26T00:21:00Z
-- [Taxas de Envio e Promoções - VELOXIS Portugal](https://veloxispt.myshopify.com/pages/taxas-e-promocoes): Envios e Promoções Enviamos para todo o mundo com as melhores condições 🚚 Taxas de Envio Oferecemos opções de envio flexíveis para garantir que rec...
-  Updated: 2026-03-04T20:11:29Z
+- [Taxas de Envio e Promoções - VELOXIS Portugal](https://veloxispt.myshopify.com/pages/taxas-e-promocoes): 🎁 Desconto Automático Gaste 50 e receba um artigo grátis á sua escolha Promoção automática aplicada no carrinho quando as condições são cumpridas. ...
+  Updated: 2026-03-11T15:31:52Z
 
 ## Policies
 
