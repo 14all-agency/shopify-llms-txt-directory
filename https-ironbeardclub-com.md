@@ -6,65 +6,65 @@
 - Timezone: America/New_York
 - Created At: 2026-02-01T21:52:27Z
 - Contact Email: powersjames90@gmail.com
-- Updated At: 2026-03-07T19:03:10.474Z
+- Updated At: 2026-03-15T00:00:26.398Z
 
 ## Products
 
-- [Natural Face Oil 1.0 oz 30 mL | Iron Beard Club](https://ironbeardclub.com/products/natural-face-oil): Natural Face Oil serum 1.0 oz (30 mL) with argan jojoba rosehip grapeseed and hemp seed oils. Hydrates and balances skin. 2-4 month supply. Order now.
-  Updated: 2026-03-01T15:56:53Z
+- [Hydrating Serum: Plant-Based Face Oil for Glow & Balance](https://ironbeardclub.com/products/natural-hydrating-serum-face-oil): Plant-based hydrating serum with argan, jojoba, rosehip, grapeseed and hemp oils. Hydrates, balances tone, boosts radiance; lightweight for daily AM/PM use.
+  Updated: 2026-03-09T22:46:40Z
   Vendor: J&L Naturals
   Product Type: Skin Serum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Balance-FO-inf-3.png?v=1770119582
-  - [Balance - For Oily/Combination Skin](https://ironbeardclub.com/products/natural-face-oil?variant=47066272202906)
+  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Balance-FO-inf-3.png?v=1773096375
+  - [Balance - For Oily/Combination Skin](https://ironbeardclub.com/products/natural-hydrating-serum-face-oil?variant=47066272202906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Balance-FO-4.png?v=1770119589
+    Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Balance-FO-4.png?v=1773096116
     Price: $23.09 USD
-  - [Calm - For Acne-prone/Sensitive Skin](https://ironbeardclub.com/products/natural-face-oil?variant=47066272235674)
+  - [Calm - For Acne-prone/Sensitive Skin](https://ironbeardclub.com/products/natural-hydrating-serum-face-oil?variant=47066272235674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Calm-FO-4.png?v=1770119583
     Price: $23.09 USD
-  - [Hydrate - For Dry/Flaky Skin](https://ironbeardclub.com/products/natural-face-oil?variant=47066272268442)
+  - [Hydrate - For Dry/Flaky Skin](https://ironbeardclub.com/products/natural-hydrating-serum-face-oil?variant=47066272268442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Hydrate-FO-4.png?v=1770119583
     Price: $23.09 USD
-  - [Shine - For Normal to Dull Skin](https://ironbeardclub.com/products/natural-face-oil?variant=47066272301210)
+  - [Shine - For Normal to Dull Skin](https://ironbeardclub.com/products/natural-hydrating-serum-face-oil?variant=47066272301210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Shine-FO-4.png?v=1770119587
     Price: $23.09 USD
-  - [Timeless - For Mature/Aging Skin](https://ironbeardclub.com/products/natural-face-oil?variant=47066272333978)
+  - [Timeless - For Mature/Aging Skin](https://ironbeardclub.com/products/natural-hydrating-serum-face-oil?variant=47066272333978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Timeless-FO-4.png?v=1770119587
     Price: $23.09 USD
-- [Coconut Jojoba Beard Oil With Vitamin E | Iron Beard Club](https://ironbeardclub.com/products/beard-oil): Beard Oil with MCT coconut almond jojoba hemp seed grape seed black castor and vitamin E. Moisturizes supports healthy growth and lasting hydration. Order now.
-  Updated: 2026-03-01T17:45:19Z
+- [Jojoba Beard Oil for Hydration & Strength | Iron Beard Club](https://ironbeardclub.com/products/jojoba-beard-oil-hemp): Discover Jojoba Beard Oil for daily hydration, reduced itch, and improved manageability. Lightweight formula for a non-greasy finish. Shop now!
+  Updated: 2026-03-09T22:52:37Z
   Vendor: Crown Jewel Scentiments, llc
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/ChatGPT_Image_Apr_7_2025_02_08_59_PM.png?v=1770119578
-  - [Citrus Blend](https://ironbeardclub.com/products/beard-oil?variant=47066272366746)
+  - [Citrus Blend](https://ironbeardclub.com/products/jojoba-beard-oil-hemp?variant=47066272366746)
     Availability: Available
     Price: $14.96 USD
-  - [Palo Santo Sandalwood](https://ironbeardclub.com/products/beard-oil?variant=47066272399514)
+  - [Palo Santo Sandalwood](https://ironbeardclub.com/products/jojoba-beard-oil-hemp?variant=47066272399514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/ChatGPT_Image_Apr_7_2025_02_08_59_PM.png?v=1770119578
     Price: $14.96 USD
-- [Beard Oil 1oz Almond Jojoba | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-s-1): Beard Oil 1oz with almond oil, jojoba oil and vitamin E; fragranced with frankincense sandalwood and rosemary. Softens coarse hair and hydrates skin. Order now
-  Updated: 2026-03-07T16:59:31Z
+- [Beard Oil Almond Jojoba - Hydrate & Soften Your Beard](https://ironbeardclub.com/products/beard-oil-almond-jojoba): Experience beard oil almond jojoba for a soft, hydrated beard. Tame flyaways, relieve itch, and enhance shine with our lightweight formula.
+  Updated: 2026-03-11T21:02:32Z
   Vendor: Soulistic Root
   Product Type: Beard Oil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/beardoil1.jpg?v=1770119583
+  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/beardoil1.jpg?v=1773096942
   Price: $8.80 USD
-- [Beard Oil 2 oz Amber Glass | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-s-2): Beard Oil 2 oz amber glass bottle with grape seed jojoba and hemp seed oils and essential oils. Moisturizes skin and supports stronger follicles. Order now
-  Updated: 2026-03-01T15:55:54Z
+- [Organic Beard Oil - 2 oz Amber Bottle for Healthy Growth](https://ironbeardclub.com/products/beard-oil-s-2): Nourish your beard with Organic Beard Oil. Moisturizes skin and strengthens hair for less itch, softer hair, and natural scent. Perfect for daily use.
+  Updated: 2026-03-09T22:26:13Z
   Vendor: SJC Body Love Products
   Product Type: Skin Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/image_4279d0a0-b414-4351-9322-a609a4f8ee8a.jpg?v=1770119579
   Price: $17.81 USD
-- [Beard Oil 1.0 oz Organic Oils | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-s-3): Beard Oil 1.0 oz with argan jojoba and castor oils. Choose Growth Hydrate or Strength. Five scent options available. Hydrates skin and softens beard. Order now
-  Updated: 2026-03-06T03:45:27Z
+- [Organic Beard Oil 1 oz - Hydrate & Nourish Your Beard](https://ironbeardclub.com/products/beard-oil-s-3): Discover the benefits of Organic Beard Oil for softening, hydrating, and reducing itch. Enjoy a non-greasy finish and manageability for all beard types.
+  Updated: 2026-03-09T22:30:46Z
   Vendor: J&L Naturals
   Product Type: Beard Oil
   Availability: Available
@@ -129,36 +129,36 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/BOS-NAK.jpg?v=1770119588
     Price: $13.85 USD
-- [Unscented Jojoba Beard Oil Made In NA | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-unscented): Unscented beard oil with jojoba argan grape seed and coconut oils. Made in North America. Reduces itch adds shine includes dropper cap Vegan. Order now.
-  Updated: 2026-03-01T16:13:16Z
+- [Unscented Jojoba Beard Oil for Softness & Hydration](https://ironbeardclub.com/products/beard-oil-unscented): Discover jojoba beard oil that conditions, reduces itch, and softens hair. Vegan, unscented formula for daily use and better skin comfort.
+  Updated: 2026-03-11T03:03:26Z
   Vendor: Foxx Skincare
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/unscented-beard-oil-unscented-678858.jpg?v=1770119590
   Price: $17.60 USD
 - [Beard Oil Jojoba Argan Grape Seed | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-classic): Beard Oil Classic all-natural formula with jojoba argan and grape seed oils 100% essential oils made in North America. Reduces itch and adds shine. Order now
-  Updated: 2026-03-01T17:42:21Z
+  Updated: 2026-03-11T03:03:26Z
   Vendor: Foxx Skincare
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/classic-beard-oil-classic-758944.jpg?v=1770119593
   Price: $17.60 USD
-- [Fresh Beard Oil 2 oz Natural Ingredients | Iron Beard Club](https://ironbeardclub.com/products/fresh-beard-oil): Fresh Beard Oil 2 oz glass bottle with pipette. Handmade blend of coconut sweet almond argan jojoba oils plus aloe extract and vitamin E. Paraben free. Order now
-  Updated: 2026-03-01T15:55:06Z
+- [Natural Beard Oil - Fresh 2 oz Handmade Conditioning Oil](https://ironbeardclub.com/products/fresh-beard-oil): Discover natural beard oil that nourishes and softens your beard with Coconut, Argan, and Jojoba oils. Non-greasy for easy grooming and healthy skin!
+  Updated: 2026-03-09T22:30:05Z
   Vendor: ironbeard-dmtzu
   Product Type: Essential Oils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/natural-handmade-beard-oil_-beard-softener_-beard-moisture_-beard-care_2_800x_cc510084-9749-4f16-ac3a-ffe0ba0cc453.jpg?v=1770119594
   Price: $14.52 USD
 - [Speakeasy Beard Oil Jojoba Argan Grape | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-speakeasy): Beard Oil Speakeasy made in North America with jojoba argan grape seed and coconut oils to hydrate and reduce itch. Scented with rosemary extract. Order now
-  Updated: 2026-03-01T17:01:05Z
+  Updated: 2026-03-11T03:03:26Z
   Vendor: Foxx Skincare
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/speakeasy-beard-oil-speakeasy-366824.jpg?v=1770119596
   Price: $17.60 USD
-- [Beard Oil Duo 1.0 oz Growth Hydrate | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-duo): Beard Oil Duo 1.0 oz grooming oil with argan jojoba castor and grapeseed oils. Choose Growth Hydrate or Strength; five scent options or unscented. Order now.
-  Updated: 2026-03-01T15:58:49Z
+- [Beard Growth Oil Duo - Nourish & Hydrate Your Beard](https://ironbeardclub.com/products/beard-oil-duo): Transform your beard with our beard growth oil. Tame frizz, hydrate skin, and promote healthier growth with natural oils. Order now for your best beard!
+  Updated: 2026-03-09T22:29:37Z
   Vendor: J&L Naturals
   Product Type: Beard Oil
   Availability: Available
@@ -224,7 +224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/BOS-NAK_9e196fae-2b4e-49e2-97f9-1e91d82e41d2.jpg?v=1770119602
     Price: $25.02 USD
 - [Moonshine Beard Oil 1 fl oz | Iron Beard Club](https://ironbeardclub.com/products/moonshine-beard-and-mustache-oil): Moonshine Beard & Mustache Oil 1 fl oz - lightweight apricot jojoba avocado blend paraben free absorbs to soften hair and hydrate skin with vitamin E Order now
-  Updated: 2026-03-01T17:32:06Z
+  Updated: 2026-03-09T19:27:22Z
   Vendor: Aniise
   Product Type: Beard Oil
   Availability: Available
@@ -238,14 +238,14 @@
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/moonshine-beard-and-mustache-oil-449225.jpg?v=1770119605
     Price: $14.52 USD
 - [Hemp Beard Oil Unscented North America | Iron Beard Club](https://ironbeardclub.com/products/hemp-infused-beard-boost-oil-unscented): Hemp Infused Beard Boost Oil Unscented is vegan and made in North America with hemp seed and black castor oils for fuller thicker beard growth Discover more
-  Updated: 2026-03-01T15:51:24Z
+  Updated: 2026-03-11T03:03:26Z
   Vendor: Foxx Skincare
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/hemp-infused-beard-boost-oil-unscented-152846.jpg?v=1770119607
   Price: $22.00 USD
 - [Beard Oil 5-Pack 1oz 30mL | Iron Beard Club](https://ironbeardclub.com/products/beard-oil-bundle-5-pack): Beard Oil 5-Pack 1.0 oz (30 mL) bottles. Select Growth Hydrate or Strength formulas with argan castor jojoba oils and five scent options. Order now.
-  Updated: 2026-03-01T17:43:31Z
+  Updated: 2026-03-09T19:27:22Z
   Vendor: J&L Naturals
   Product Type: Beard Oil
   Availability: Available
@@ -323,21 +323,21 @@
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/BundleBOS.jpg?v=1770119612
     Price: $53.12 USD
 - [Natural Beard Balm by Rinse Bath & Body - Soothing Unscented Formula](https://ironbeardclub.com/products/beard-balm): Get a perfectly groomed beard with our 100% natural, unscented balm. Tames fly-aways, adds structure & shine. Smooth stray hairs & create a light hold. Learn more & get the perfect beard today!
-  Updated: 2026-03-02T04:03:08Z
+  Updated: 2026-03-09T19:27:22Z
   Vendor: Rinse Bath & Body
   Product Type: Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/BeardBalm.jpg?v=1770119616
   Price: $6.89 USD
 - [2oz Beard Oil And Balm Set Jojoba Beeswax | Iron Beard Club](https://ironbeardclub.com/products/the-mens-club-beard-balm-and-beard-oil-gift-set): Beard oil and balm gift set with 2oz oil and 2oz balm made with jojoba oil and beeswax. No unnecessary additives. Daily nourishment and light hold. Order now.
-  Updated: 2026-03-07T03:30:31Z
+  Updated: 2026-03-09T19:27:23Z
   Vendor: JAZ Body Essentials
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/rn-image_picker_lib_temp_33760333-0f0b-40f8-b4ca-6723c0650a44.jpg?v=1770119617
   Price: $35.19 USD
 - [Beard Balm Shea Butter Castor Oil | Iron Beard Club](https://ironbeardclub.com/products/beard-balm-s-1): Beard Balm made with shea butter black castor avocado and grape seed oils. Conditions and styles post-wash and soothes skin. Pair with Beard Oil. Order now.
-  Updated: 2026-03-01T17:25:37Z
+  Updated: 2026-03-09T19:27:23Z
   Vendor: Crown Jewel Scentiments, llc
   Product Type: Facial Products
   Availability: Available
@@ -349,67 +349,60 @@
     Availability: Available
     Price: $12.31 USD
 - [Good Time Beard Balm 2 Oz Knoxville | Iron Beard Club](https://ironbeardclub.com/products/good-time-beard-balm): Good Time Beard Balm 2 oz handcrafted in Knoxville TN by Everwood. All-natural balm conditions and softens coarse beard hair with light hold. Order now.
-  Updated: 2026-03-01T15:51:42Z
+  Updated: 2026-03-09T19:27:23Z
   Vendor: Good Time by Everwood
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Beard-balm_men_goodtime_2oz_main.jpg?v=1770119620
   Price: $11.19 USD
 - [Natural Handmade Beard Oil 2oz Coconut Jojoba | Iron Beard Club](https://ironbeardclub.com/products/natural-handmade-beard-oil-beard-softener-beard-moisture-beard-care): Natural handmade beard oil 2 oz with coconut jojoba argan and almond oils. Paraben free non GMO glass bottle with pipette nourishes softens and helps detangle. Order now.
-  Updated: 2026-03-03T20:45:28Z
+  Updated: 2026-03-12T20:45:21Z
   Vendor: Lizush soap
   Product Type: CREAMS & OILS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/lizushnaturalbeardoilformen_2.jpg?v=1770119621
   Price: $32.73 USD
 - [Hair & Beard Hydrator Leave-In Mist | Iron Beard Club](https://ironbeardclub.com/products/hair-beard-hydrator): Hair & Beard Hydrator leave-in mist named Best Men's Styling Aid by Beauty Launchpad. Locks moisture, protects from heat, softens beard. Learn more.
-  Updated: 2026-03-01T15:52:52Z
+  Updated: 2026-03-09T19:27:24Z
   Vendor: Blackwood For Men
   Product Type: Hair & Beard Hydrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/BFM_ProductImages_2000x2000_HHYD4_HairBeardHydrator_01.jpg?v=1770119624
   Price: $8.24 USD
 - [Mario Lopez 10 Pc Stainless Grooming Kit | Iron Beard Club](https://ironbeardclub.com/products/mario-lopez-mens-grooming-kit-designed-for-hair-beard-nose-ear-grooming-10-piece-grooming-kit): Mario Lopez Men's Grooming Kit 10-piece set with stainless steel clipper, 4 adjustable guide combs, nose and ear trimmer, cleaning brush and clipper oil. Order now
-  Updated: 2026-03-06T00:31:25Z
+  Updated: 2026-03-14T00:34:47Z
   Vendor: Pursonic
   Product Type: shaving
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/TCA30.1.jpg?v=1770119626
   Price: $24.74 USD
-- [CBD Handmade Beard Oil 2oz THC Free | Iron Beard Club](https://ironbeardclub.com/products/cbd-natural-handmade-beard-oil-with-cbd-beard-softener-beard-moisture-beard-care-thc-free): CBD Beard Oil 2oz with 25mg CBD isolate THC free. Handmade from coconut almond argan jojoba oils and vitamin E to soften and moisturize your beard. Order now.
-  Updated: 2026-03-01T15:52:27Z
-  Vendor: Lizush soap
-  Product Type: CREAMS & OILS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/Beard_oil_-_cbd.png?v=1770119627
-  Price: $32.73 USD
 - [Beard Care Kit 30ml Oil 60g Balm | Iron Beard Club](https://ironbeardclub.com/products/beard-care-grooming-kit): Beard Care Grooming Kit with Beard Comb 30ml oil 30ml serum and 60g balm. Natural ingredients model BCGS5. For all beard types. Order now.
-  Updated: 2026-03-05T00:30:45Z
+  Updated: 2026-03-09T21:53:37Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/PURSONICBCGS5HIRES5.jpg?v=1770119630
   Price: $24.74 USD
 - [Beard Butter Shea Formula Non-Greasy | Iron Beard Club](https://ironbeardclub.com/products/beard-butter-btt-non-greasy-nourishing-moisturizing-beard-care): Beard Butter BTT non-greasy beard conditioner with shea butter in a metal screw-top tin. Hydrates, softens, and reduces itch for all beard lengths. Order now.
-  Updated: 2026-03-01T17:24:29Z
+  Updated: 2026-03-13T13:47:55Z
   Vendor: Cad b
   Product Type: Men's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/beard-butter-btt-non-greasy-e1763322204599.png?v=1770119632
+  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/beard-butter-btt-non-greasy-e1763322204599.png?v=1773093170
   Price: $18.48 USD
-- [Shaving Kit USB Rechargeable Beard Oil | Iron Beard Club](https://ironbeardclub.com/products/mario-lopez-rechargeable-mens-grooming-beard-care-bundle-complete-hair-beard-nose-and-ear-kit): Mario Lopez Rechargeable men's grooming kit with stainless steel clipper 6 trim guide combs USB rechargeable 30ml beard oil 60g balm 30ml serum. Order now
-  Updated: 2026-03-01T17:33:57Z
+- [USB Rechargeable Beard Trimmer - Complete Grooming Kit for Perfect Looks](https://ironbeardclub.com/products/mario-lopez-rechargeable-mens-grooming-beard-care-bundle-complete-hair-beard-nose-and-ear-kit): Discover the USB Rechargeable Beard Trimmer with precision blades, styling guides, and beard care essentials for easy, at-home grooming and skin health.
+  Updated: 2026-03-09T21:50:36Z
   Vendor: Pursonic
   Product Type: shaving
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/MLTCA36-BCGS53.jpg?v=1770119635
+  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/MLTCA36-BCGS53.jpg?v=1773093034
   Price: $41.24 USD
-- [Beard Kit With Oil Balm Brush Comb | Iron Beard Club](https://ironbeardclub.com/products/beard-grooming-kit-for-men-trimming-care-set): Beard Grooming Kit includes oil, balm, brush, comb, scissors, trimmer and bag. Hypoallergenic oil promotes softer fuller beard and healthy skin. Order now.
-  Updated: 2026-03-05T23:49:09Z
+- [Beard Grooming Kit for Men - Complete Trimming & Care Set for Healthy Beards](https://ironbeardclub.com/products/beard-grooming-kit-for-men-trimming-care-set): Discover the best Beard Grooming Kit with nourishing oil, balm, and precision tools for healthy, soft, and well-groomed facial hair. Perfect for daily grooming at home or travel.
+  Updated: 2026-03-14T23:51:28Z
   Vendor: TM
   Product Type: Health & Beauty > Personal Care
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/d9f6a699b1153e0412da2167106d1d4b.jpg?v=1770119635
+  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/d9f6a699b1153e0412da2167106d1d4b.jpg?v=1773093474
   Price: $73.50 USD
 - [War Horse Beard Oil 2oz Jojoba Vitamin E | Iron Beard Club](https://ironbeardclub.com/products/war-horse-beard-oil-vitamin-e-enriched): War Horse Beard Oil 2oz handcrafted with jojoba and vitamin E to moisturize and condition coarse beards. Reduces dryness and absorbs cleanly. Order now.
   Updated: 2026-03-02T17:15:14Z
@@ -426,14 +419,14 @@
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/BCGS5-NT91901.jpg?v=1770119638
   Price: $27.22 USD
 - [Beard Grooming Kit 7pc Trimmer | Iron Beard Club](https://ironbeardclub.com/products/nnetm-beard-grooming-kit-for-men-trimming-care-set): NNETM Beard Grooming Kit for Men includes trimmer oil balm scissors comb brush and storage bag Hypoallergenic oil travel-ready 7-piece set Order now
-  Updated: 2026-03-06T19:09:24Z
+  Updated: 2026-03-14T19:11:58Z
   Vendor: NNETM
   Product Type: Health & Beauty > Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/1688631071991-e2308b18ee1e43848126cf4ae645e8e0-goods_afc5fe0a-f418-408c-a92f-1d7c61c1393e.jpg?v=1770119639
   Price: $73.50 USD
 - [Pursonic Beard Kit with Bamboo Razor | Iron Beard Club](https://ironbeardclub.com/products/pursonic-beard-care-grooming-kit-eco-friendly-razor-toothbrushes-combo-pack): Pursonic Beard Kit & Eco Razor + Toothbrush Combo: 4-piece beard set (30ml oil, 60g balm), bamboo razor with 5 steel refills and 2 BPA-free brushes. Order now
-  Updated: 2026-03-05T00:30:56Z
+  Updated: 2026-03-14T00:34:47Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -496,7 +489,7 @@
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/15295-BLNK-FE-05-07-BTT.jpg?v=1770119653
   Price: $15.75 USD
 - [Foaming Beard Wash Dead Sea Salt Vegan | Iron Beard Club](https://ironbeardclub.com/products/foaming-beard-wash): Foaming Beard Wash 100% natural foaming wash with aloe vera vitamin B5 jojoba vegan Dead Sea salt Made in North America Ideal for all skin types Order now
-  Updated: 2026-03-01T16:03:03Z
+  Updated: 2026-03-11T03:03:27Z
   Vendor: Foxx Skincare
   Product Type: Beauty products
   Availability: Available
@@ -524,7 +517,7 @@
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/speakeasy-beard-oil-speakeasy-vegan-reduces-beard-itch-e1765041415880.png?v=1770119661
   Price: $18.48 USD
 - [Wooden Beard Comb Fine Teeth anti static | Iron Beard Club](https://ironbeardclub.com/products/beard-comb-wooden-beard-grooming-kit-for-men): Beard comb in 100% natural sustainably sourced wood with fine evenly spaced teeth and vegan leather pouch. Plastic-free zero-waste. Learn more today
-  Updated: 2026-03-06T13:45:12Z
+  Updated: 2026-03-14T13:45:14Z
   Vendor: Jungle Culture
   Product Type: Beard comb
   Availability: Available
@@ -636,12 +629,12 @@
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/5.-TCA3490_Trimmer_packagingbox.jpg?v=1770119692
   Price: $24.74 USD
 - [Cedarwood Vegan Beard Balm 30ml | Iron Beard Club](https://ironbeardclub.com/products/cedarwood-vegan-beard-balm): Cedarwood Vegan Beard Balm 30ml handmade in Wales with mango and coconut butters in a recycled 30ml aluminium pot. Hydrates beard and reduces itch. Order now.
-  Updated: 2026-03-06T05:30:23Z
+  Updated: 2026-03-14T05:30:12Z
   Vendor: Flawless
   Product Type: Beard care for men
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/beard-balm-cedarwood-and-cypress-skincare-373.jpg?v=1770119693
-  Price: $7.01 USD
+  Price: $6.95 USD
 - [Classic Beard Oil Jojoba Argan Grape | Iron Beard Club](https://ironbeardclub.com/products/classic-beard-oil-classic): Classic Beard Oil is an all-natural jojoba argan and grape seed oil blend with 100% essential oils. Vegan formula reduces itch and softens beard. Order now.
   Updated: 2026-02-25T13:12:47Z
   Vendor: GloriousMakeup
@@ -696,7 +689,7 @@
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/3a57b595-0999-475b-a765-1c4be64b3793_1.4563a2eba59498c40d00c10baec1ee7c__41059.1655196118.1280.1280.jpg?v=1770119702
   Price: $10.89 USD
 - [Jaspè Boar Bristle Brush 11x5 12x6 | Iron Beard Club](https://ironbeardclub.com/products/jaspe-military-boar-bristle-brush-mens-hair-beard-grooming): Jaspè Military Boar Bristle Brush for hair and beard. 100% boar bristles handcrafted in Italy. Sizes 11x5 cm and 12x6 cm. Discover more today.
-  Updated: 2026-03-01T15:50:33Z
+  Updated: 2026-03-09T11:45:48Z
   Vendor: KOH-I-NOOR Beauty USA
   Product Type: Hair Brush
   Availability: Available
@@ -759,26 +752,19 @@
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/WEALTHBEARDSOAP_8cd9d81f-ace9-47a1-9403-4823910ce672.jpg?v=1770119713
   Price: $0.00 USD
 - [Beard Shampoo 200 ml L'Oreal Make Up | Iron Beard Club](https://ironbeardclub.com/products/beard-shampoo-loreal-make-up-a9398200-200-ml): Beard Shampoo Men Expert Barber Club L'Oreal Make Up 200 ml cleansing shampoo for beard and skin. Removes dirt and oil, improves manageability. Order now.
-  Updated: 2026-03-06T03:21:41Z
+  Updated: 2026-03-14T10:25:16Z
   Vendor: L'Oreal Make Up
   Product Type: Health | Beauty > Hair Products > Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/3600523526147_0_P01.jpg?v=1770119714
-  Price: $10.45 USD
-- [HOMME 2-in-1 Beard Shampoo 250 ml | RITUALS](https://ironbeardclub.com/products/homme-2-in-1-nourishing-beard-shampoo-conditioner-250-ml): HOMME 2-in-1 beard shampoo and conditioner 250 ml with argan and basil oils 96% natural origin Dermatologically tested Suitable for sensitive skin. Order now
-  Updated: 2026-03-06T20:03:19Z
-  Vendor: Rituals
-  Product Type: Facial Cosmetics - Man
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/image_181755.jpg?v=1770119714
-  Price: $12.65 USD
+  Price: $10.08 USD
 - [Cedarwood Beard Shampoo 200ml | Iron Beard Club](https://ironbeardclub.com/products/men-expert-barber-club-beard-face-hair-shampoo-200-ml): MEN EXPERT BARBER CLUB beard-face-hair shampoo 200 ml. Cedarwood oil cleanses and softens hair beard and face reduces flaking and neutralizes odors. Order now
-  Updated: 2026-03-06T20:03:21Z
+  Updated: 2026-03-14T20:04:35Z
   Vendor: L'orÉal Paris
   Product Type: Facial Cosmetics - Man
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/image_94258.jpg?v=1770119715
-  Price: $9.83 USD
+  Price: $9.50 USD
 - [Unscented Beard Oil for Sensitive Skin | Iron Beard Club](https://ironbeardclub.com/products/beardguru-premium-beard-oil-unscented): BeardGuru Unscented Beard Oil 1 fl oz hydrates skin and softens hair with argan jojoba vitamin E blend. Reduces itch and frizz for sensitive skin. Order now.
   Updated: 2026-03-01T17:41:41Z
   Vendor: ironbeard-dmtzu
@@ -1076,7 +1062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/dspic_3faec13b-154d-4b45-83ad-b08b8361c21a.jpg?v=1770119777
     Price: $24.24 USD
 - [Shea Moisture Men's Beard Wash 6 Oz | Iron Beard Club](https://ironbeardclub.com/products/shea-moisture-mens-beard-wash-with-maracuja-shea-butter-gentle-cleansing-formula-for-soft-and-healthy-facial-hair-6-oz-bottle): Shea Moisture Men's Beard Wash 6 oz uses Maracuja oil and Shea butter in a sulfate-free formula to gently cleanse and soften facial hair. Order now today.
-  Updated: 2026-03-05T18:06:13Z
+  Updated: 2026-03-09T17:12:17Z
   Vendor: Doba
   Product Type: 
   Availability: Available
@@ -1348,13 +1334,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/v-46732112__100ml.webp?v=1771885649
   Price: $8.15 USD
-- [IPX5 90min Beard Trimmer | Iron Beard Club](https://ironbeardclub.com/products/ultimate-mens-beard-trimmer-5-heads-waterproof-design-for-precision-grooming): 5-in-1 men's beard trimmer with 5 detachable heads IPX5 waterproof 600mAh battery up to 90min runtime 2hr charge safety lock and 6 guide combs. Order now.
-  Updated: 2026-03-07T17:03:08Z
-  Vendor: Doba
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0730/3400/6682/files/dspic_5cc49b28-1ba4-4f19-82e4-c14258669e7e.jpg?v=1771886245
-  Price: $40.76 USD
 [List Continued](https://ironbeardclub.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODA1OTc2OTY1Mjc0LCJsYXN0X3ZhbHVlIjoiODgwNTk3Njk2NTI3NCJ9)
 
 ## Collections
@@ -1367,47 +1346,78 @@
 
 - [News](https://ironbeardclub.com/blogs/news)
   - [Beard Oil for Dry Skin: How to Choose the Best for Flaky Beard Care](https://ironbeardclub.com/blogs/news/beard-oil-for-dry-skin-how-to-choose-the-best-for-flaky-beard-care-2195-93): Beard Oil for Dry Skin: How to Choose the Best for Flaky Beard Care
-    Updated: 2026-02-03T11:59:43Z
+    Updated: 2026-03-09T21:42:43Z
     Author: James Powers
   - [Beard Care Products: How to Choose for Itch Relief and Hydration](https://ironbeardclub.com/blogs/news/beard-care-products-how-to-choose-for-itch-relief-and-hydration-2196-12): Beard Care Products: How to Choose for Itch Relief and Hydration
-    Updated: 2026-02-26T16:48:29Z
+    Updated: 2026-03-09T21:42:42Z
     Author: James Powers
   - [The Complete Guide to Beard Care Essentials for Men](https://ironbeardclub.com/blogs/news/the-complete-guide-to-beard-care-essentials-for-men)
-    Updated: 2026-03-01T02:07:33Z
+    Updated: 2026-03-09T21:42:48Z
     Author: iron beard club
   - [Unlock the Secret to a Softer Beard: Discover the Benefits of Non-Greasy Shea Butter Beard Butter](https://ironbeardclub.com/blogs/news/unlock-the-secret-to-a-softer-beard-discover-the-benefits-of-non-greasy-shea-butter-beard-butter)
-    Updated: 2026-03-01T02:10:41Z
+    Updated: 2026-03-09T21:42:48Z
     Author: iron beard club
   - [Ultimate Comfort: Non-Greasy Shea Butter Beard Conditioning for a Soft, Hydrated Beard](https://ironbeardclub.com/blogs/news/ultimate-comfort-non-greasy-shea-butter-beard-conditioning-for-a-soft-hydrated-beard)
-    Updated: 2026-03-01T02:13:00Z
+    Updated: 2026-03-09T21:42:48Z
     Author: iron beard club
   - [Elevate Your Grooming Routine: The Benefits of Barbiere Beard Wash for a Softer, More Manageable Beard](https://ironbeardclub.com/blogs/news/elevate-your-grooming-routine-the-benefits-of-barbiere-beard-wash-for-a-softer-more-manageable-beard)
-    Updated: 2026-03-01T02:16:41Z
+    Updated: 2026-03-09T21:42:48Z
     Author: iron beard club
   - [Top 10 Ingredients to Look for in a Quality Beard Oil](https://ironbeardclub.com/blogs/news/top-10-ingredients-to-look-for-in-a-quality-beard-oil): Top 10 Ingredients to Look for in a Quality Beard Oil
-    Updated: 2026-03-02T22:09:59Z
+    Updated: 2026-03-09T21:42:48Z
     Author: User
   - [Men's Grooming Products Comparison Guide](https://ironbeardclub.com/blogs/news/mens-grooming-products-comparison-how-to-choose-the-right-cleanser-shave-beard-hair-and-skin-products): Men's Grooming Products Comparison Guide
-    Updated: 2026-03-03T00:00:03Z
+    Updated: 2026-03-09T21:42:48Z
     Author: James Powers
   - [The Ultimate Guide to Choosing the Right Beard Oil for Your Style](https://ironbeardclub.com/blogs/news/the-ultimate-guide-to-choosing-the-right-beard-oil-for-your-style): The Ultimate Guide to Choosing the Right Beard Oil for Your Style
-    Updated: 2026-03-03T01:11:50Z
+    Updated: 2026-03-09T21:42:48Z
     Author: User
   - [Organic Ingredients for Beard Care: What to Look For](https://ironbeardclub.com/blogs/news/organic-ingredients-for-beard-care-what-they-do-and-how-to-choose-them): Organic Ingredients for Beard Care: What to Look For
-    Updated: 2026-03-04T00:00:03Z
+    Updated: 2026-03-09T21:42:49Z
     Author: James Powers
   - [Average Beard Growth Rate by Age (Teens to 40+)](https://ironbeardclub.com/blogs/news/average-beard-growth-rate-by-age-what-changes-from-teens-to-40): Average Beard Growth Rate by Age (Teens to 40+)
-    Updated: 2026-03-05T00:00:02Z
+    Updated: 2026-03-09T21:42:50Z
     Author: James Powers
   - [Beard Care Essentials Buying Guide (Products + Tools)](https://ironbeardclub.com/blogs/news/buying-guide-to-beard-care-essentials-products-tools-and-how-to-choose): Beard Care Essentials Buying Guide (Products + Tools)
-    Updated: 2026-03-06T00:00:02Z
+    Updated: 2026-03-09T21:55:28Z
     Author: James Powers
   - [Beard Styling Tips for Modern Men: Shape and Control](https://ironbeardclub.com/blogs/news/beard-styling-tips-for-modern-men-a-practical-guide-to-shape-control-and-finish): Beard Styling Tips for Modern Men: Shape and Control
-    Updated: 2026-03-07T00:00:02Z
+    Updated: 2026-03-09T21:54:56Z
     Author: James Powers
   - [The Complete Guide to Beard Care Essentials for Men](https://ironbeardclub.com/blogs/news/the-complete-guide-to-beard-care-essentials-for-men-1)
-    Updated: 2026-03-07T03:50:07Z
+    Updated: 2026-03-09T21:54:45Z
     Author: iron beard club
+  - [Natural Beard Balm Benefits for Hair and Skin](https://ironbeardclub.com/blogs/news/natural-beard-balm-benefits-what-it-does-for-beard-hair-and-skin): Natural Beard Balm Benefits for Hair and Skin
+    Updated: 2026-03-09T21:54:31Z
+    Author: James Powers
+  - [Beard Care Trends in 2023: Styles and Grooming](https://ironbeardclub.com/blogs/news/beard-care-trends-in-2023-styles-grooming-habits-and-maintenance-basics): Beard Care Trends in 2023: Styles and Grooming
+    Updated: 2026-03-09T21:54:20Z
+    Author: James Powers
+  - [How Beard Oil Nourishes Your Facial Hair and Skin](https://ironbeardclub.com/blogs/news/how-beard-oil-nourishes-your-facial-hair-and-skin): How Beard Oil Nourishes Your Facial Hair and Skin
+    Updated: 2026-03-09T21:54:08Z
+    Author: User
+  - [Seasonal Beard Care Tips for a Healthy Year-Round Beard](https://ironbeardclub.com/blogs/news/seasonal-beard-care-keep-your-beard-healthy-all-year-round): Seasonal Beard Care Tips for a Healthy Year-Round Beard
+    Updated: 2026-03-09T21:45:12Z
+    Author: StoreSEO AI
+    Tags: beard care, beard health, beard maintenance, beard products, beard tips, grooming routine, men's grooming, seasonal grooming
+  - [How to Choose the Right Beard Oil (Skin + Scent)](https://ironbeardclub.com/blogs/news/how-to-choose-the-right-beard-oil-ingredients-skin-type-and-scent): How to Choose the Right Beard Oil (Skin + Scent)
+    Updated: 2026-03-10T00:00:03Z
+    Author: James Powers
+  - [Common Beard Problems and How to Solve Them with Essential Oils](https://ironbeardclub.com/blogs/news/common-beard-problems-and-how-to-solve-them-with-essential-oils): Common Beard Problems and How to Solve Them with Essential Oils
+    Updated: 2026-03-10T00:51:12Z
+    Author: User
+  - [How to Choose the Best Beard Conditioner](https://ironbeardclub.com/blogs/news/choosing-the-best-beard-conditioner-what-to-look-for-by-beard-type-and-skin-needs): How to Choose the Best Beard Conditioner
+    Updated: 2026-03-11T00:00:02Z
+    Author: James Powers
+  - [Must-Have Beard Grooming Tools: A Practical Guide](https://ironbeardclub.com/blogs/news/must-have-tools-for-beard-grooming-what-to-use-and-why): Must-Have Beard Grooming Tools: A Practical Guide
+    Updated: 2026-03-12T00:00:02Z
+    Author: James Powers
+  - [Natural vs Synthetic Beard Products: How to Choose](https://ironbeardclub.com/blogs/news/natural-vs-synthetic-beard-products-ingredients-safety-and-how-to-choose): Natural vs Synthetic Beard Products: How to Choose
+    Updated: 2026-03-13T00:00:02Z
+    Author: James Powers
+  - [Mastering the Art of Beard Care Tips for a Healthy and Stylish Beard](https://ironbeardclub.com/blogs/news/beard-care569)
+    Updated: 2026-03-14T03:20:05Z
+    Author: Dadao
 
 ## Store Pages
 
