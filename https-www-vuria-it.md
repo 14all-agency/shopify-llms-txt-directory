@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-02-08T09:51:34Z
 - Contact Email: Mudassarhussain38021@gmail.com
-- Updated At: 2026-03-09T00:00:35.549Z
+- Updated At: 2026-03-16T00:00:38.125Z
 
 ## Products
 
@@ -591,8 +591,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/S9b0d23df6faa48899a1492e039f71868g.webp?v=1772136546
   Price: €85.00 EUR
-- [Vuria® Screenless Activity Tracker & Health Monitor (Nylon Sport Band)](https://www.vuria.it/products/2026-fitness-tracker-smart-bracelet-pedometer-no-screen-breathable-sport-wristband-call-reminder-heart-rate-monitor-smartwatch): Sleek, Distraction-Free Fitness Tracking Keep your focus on your active lifestyle, not on a glowing screen. The Vuria® Screenless Activity Tracker is an ultra-lightweight, minimalist smart band designed for ultimate comfort and continuous health monitoring. Paired with a breathable nylon strap and boasting a durable IP68 waterproof rating, it effortlessly tracks your daily movements and vital signs while keeping you untethered from constant digital distractions. Key Features & Benefits: Screenless, Minimalist Design: Stay completely engaged in your workouts and daily life without the constant interruption of a smartwatch display. All your data syncs quietly in the background. Comprehensive Health Tracking: Monitor your Heart Rate, Blood Oxygen (SpO2), and Sleep cycles around the clock. It also features dedicated Women's Health tracking and AI data analysis to help you understand your body better. Smart Notifications & Controls: Stay connected without staring at a screen. The band uses discreet vibrations for incoming call and message reminders, and even features a convenient "shake to take a photo" remote control for your smartphone's camera. All-Day Comfort: Comes equipped with a soft, breathable, and detachable nylon sport band that feels practically weightless on your wrist—making it perfect for intense workouts and comfortable overnight wear. Ready for Anything: Built with a rugged IP68 waterproof rating, this tracker easily withstands intense sweat, heavy rain, and daily hand-washing. Seamless App Integration: Syncs instantly via Bluetooth 5.2 to the intuitive jRing app, where all your fitness records, calorie counts, and health metrics are beautifully visualized. Technical Specifications: Battery Capacity: 140mAh (Magnetic fast charging in just 2–2.5 hours) Connectivity: Bluetooth 5.2 for stable, low-power syncing Waterproof Level: IP68 App Name: jRing (Compatible with iOS 10.0+ and Android 5.0+) Band Material: High-quality, breathable Nylon Compatibility: All major Android and iOS smartphones Note: For first-time use, please charge the tracker fully for 2-3 hours. Health and wellness data are for reference purposes and should not replace professional  devices. What's in the Box: 1x Vuria® Screenless Activity Tracker 1x Breathable Nylon Sport Band 1x Magnetic Charging Cable 1x User Manual
-  Updated: 2026-02-28T01:07:44Z
+- [Vuria® Screenless Activity Tracker & Health Monitor (Nylon Sport Band)](https://www.vuria.it/products/2026-fitness-tracker-smart-bracelet-pedometer-no-screen-breathable-sport-wristband-call-reminder-heart-rate-monitor-smartwatch): Introducing the Vuria® Screenless Activity Tracker & Health Monitor, a sleek companion for your active lifestyle. Designed with a minimalist approach, this ultra-lightweight smart band keeps you focused on your workouts without the distraction of a screen.Featuring a breathable nylon sport band, it offers all-day comfort while monitoring your heart rate, blood oxygen levels, and sleep cycles. With an IP68 waterproof rating, it’s ready for any challenge, from intense workouts to rainy days.Stay connected with discreet notifications and enjoy seamless app integration for a comprehensive view of your health metrics. Elevate your fitness journey with Vuria®.
+  Updated: 2026-03-12T14:04:30Z
   Vendor: Vuria
   Product Type: 
   Availability: Available
@@ -799,15 +799,40 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/S8abf1b3c7dd74171bdc6218914cf43bcN.webp?v=1772136550
     Price: €64.90 EUR
+- [Vuria® Elite 6A USB-C to USB-C Fast Charging Cable – Heavy-Duty Nylon Braided Data Cord for iPhone 17, 16, 15 & iPad Pro [3.3ft/6.6ft/10ft]](https://www.vuria.it/products/fast-charger-cable-compatible-with-iphone-17-16-15-usb-c-to-type-c-charging-data-cable-nylon-braided-3-3-6-6-10-feet-long): Experience the Vuria® difference. Don't settle for slow charging and flimsy wires. Our 6A high-current USB-C cable is designed for those who need speed, style, and stamina in their tech accessories. Why Vuria®? Turbo Charging: Supports up to 6A current for rapid power-ups. Nylon Armor: High-density braiding for a premium feel and "break-proof" performance. Total Compatibility: Seamlessly works with all USB-C iPhones, iPads, MacBooks, and Android devices.  Reliable: Rigorously tested for safety and efficiency. Quick Reference Specs Feature Specification Brand Vuria® Max Current 6A (High-Speed) Certifications CE, RoHS Material Premium Braided Nylon Lengths 3.3ft / 6.6ft / 10ft
+  Updated: 2026-03-13T00:53:44Z
+  Vendor: Vuria
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/S38d3ae42ae59489b81c7298d27520a7cU.webp?v=1773224707
+  - [Orange / 1m](https://www.vuria.it/products/fast-charger-cable-compatible-with-iphone-17-16-15-usb-c-to-type-c-charging-data-cable-nylon-braided-3-3-6-6-10-feet-long?variant=52439159767319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/S38d3ae42ae59489b81c7298d27520a7cU.webp?v=1773224707
+    Price: €45.00 EUR
+  - [Orange / 1.5m](https://www.vuria.it/products/fast-charger-cable-compatible-with-iphone-17-16-15-usb-c-to-type-c-charging-data-cable-nylon-braided-3-3-6-6-10-feet-long?variant=52439159800087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/S38d3ae42ae59489b81c7298d27520a7cU.webp?v=1773224707
+    Price: €50.00 EUR
+  - [Orange / 2m](https://www.vuria.it/products/fast-charger-cable-compatible-with-iphone-17-16-15-usb-c-to-type-c-charging-data-cable-nylon-braided-3-3-6-6-10-feet-long?variant=52439159832855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/S38d3ae42ae59489b81c7298d27520a7cU.webp?v=1773224707
+    Price: €55.00 EUR
+- [Vuria® Vlogmate Mini AMOLED Selfie Monitor – 700-Nit Magnetic Smartphone Screen for iPhone & Android Rear Camera Vlogging, TikTok & Live Streaming](https://www.vuria.it/products/founist-vlogmate-mini-phone-selfie-monitor-screen-700nits-amoled-screen-for-iphone-rear-camera-selfies-vlogging-live-tiktok): Upgrade your content to 4K Quality with the Vuria® Vlogmate Mini. 📸 The front "selfie" camera is okay, but your back camera is elite. The Vlogmate Mini lets you see yourself in real-time while using your phone's most powerful lenses. Why Creators Love the Vuria® Vlogmate: ✨ AMOLED Clarity: 320 PPI resolution means you see every detail of your makeup, lighting, and focus. 🧲 Magnetic Mounting: Snaps instantly to the back of your phone for a secure, low-profile fit. ⚡ Lag-Free Connection: Wired high-speed data means zero delay between your movement and the screen. 🔋 Plug & Play: No internal battery to charge. It sips a tiny 0.6W of power from your phone so you can film all day. Technical Specifications Table Feature Specification Brand Vuria® Screen Type 2.13" AMOLED (410 x 502) Brightness 700 nits (Sunlight Readable) Material Lightweight Carbon Fiber Connectivity Wired (USB-C & Lightning included) Weight Ultralight 50g Safety Certs FCC, CE, UL, RoHS
+  Updated: 2026-03-13T13:09:46Z
+  Vendor: Vuria
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/Sb5203b1c47074676861143980f0a48a6s.webp?v=1773314872
+  Price: €124.99 EUR
 
 ## Collections
 
 - [Home page](https://www.vuria.it/collections/frontpage)
-  Updated: 2026-02-27T12:20:23Z
-  Total Products: 25
+  Updated: 2026-03-12T11:28:11Z
+  Total Products: 27
 - [Browse the Shop](https://www.vuria.it/collections/browse-the-shop)
-  Updated: 2026-02-27T12:20:23Z
-  Total Products: 25
+  Updated: 2026-03-12T11:28:11Z
+  Total Products: 27
 - [AI Smart Eyewear](https://www.vuria.it/collections/ai-smart-eyewear)
   Updated: 2026-02-27T12:38:42Z
   Total Products: 8
@@ -821,8 +846,8 @@
   Updated: 2026-02-27T12:46:19Z
   Total Products: 3
 - [Smart Lifestyle](https://www.vuria.it/collections/smart-lifestyle)
-  Updated: 2026-02-27T12:48:09Z
-  Total Products: 3
+  Updated: 2026-03-12T11:36:22Z
+  Total Products: 5
 
 ## Blogs
 
