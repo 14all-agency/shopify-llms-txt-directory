@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T09:12:07Z
 - Contact Email: info@nsstyling.com
-- Updated At: 2026-03-09T00:00:40.822Z
+- Updated At: 2026-03-16T00:00:45.057Z
 
 ## Products
 
@@ -441,13 +441,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/13_21.png?v=1760761355
   Price: $0.00 AUD
-- [Parasol Umbrellas](https://nsstyling.com/products/parasol-umbrellas): Introducing our beautiful hand-held parasol umbrellas, the perfect accessory for outdoor events, weddings, and ceremonies. These stylish and practical umbrellas offer protection from the sun while adding a touch of elegance to your special day. Our hand-held parasols come in a variety of colors and styles, from classic white to bold and colorful patterns, so you can find the perfect match for your event theme. They are lightweight and easy to carry, making them the ideal choice for outdoor ceremonies and photo opportunities. Please note that often these umbrellas do go missing and to ensure their safe return, a security deposit may be taken to cover the cost of replacement. Our team is dedicated to providing you with the best possible experience, and we are confident that these hand-held parasols will make your event unforgettable. Our parasol umbrellas are the perfect addition to a Luxury pop up picnic. We have the following colours available: Pink, White, Purple, Blue & Green
-  Updated: 2026-02-04T12:57:36Z
-  Vendor: nspropstyling
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/13_22.png?v=1760761514
-  Price: $0.00 AUD
 - [Matte Gold Cutlery Set - 6 Piece](https://nsstyling.com/products/matte-gold-cutlery-set-6-piece): Matte gold 6-piece cutlery set for weddings, events, and dining, adding refined metallic style, modern elegance, and elevated sophistication to tablescapes.
   Updated: 2026-02-04T14:07:38Z
   Vendor: nspropstyling
@@ -700,8 +693,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_51dbf582-4c5a-4213-a8fe-47affc3f64fb.png?v=1760935970
   Price: $3.00 AUD
-- [Parasol Umbrella](https://nsstyling.com/products/parasol-umbrella): Our silk parasol umbrellas are hand-crafted with delicate materials and designed exclusively for light summer shade. Due to their artisanal nature, they are not suitable for rain, strong wind, or harsh weather conditions.To maintain the beauty and longevity of your parasol, please ensure: It is used only in mild weather and sheltered outdoor conditions. It is not exposed to rain, moisture, or heavy UV for long periods. It is not used in windy environments, as the handcrafted frame and silk canopy are not designed to withstand force. The parasol is opened and closed gently to protect the silk fabric and handmade structure. After use, store it in a cool, dry place, away from direct sunlight.These parasols are intended as summer shade accessories, decorative accents, and elegant styling pieces
-  Updated: 2026-02-19T22:24:55Z
+- [Parasol Umbrella](https://nsstyling.com/products/parasol-umbrella): Our silk parasol umbrellas are hand-crafted with delicate materials and designed exclusively for light summer shade. Due to their artisanal nature, they are not suitable for rain, strong wind, or harsh weather conditions.To maintain the beauty and longevity of your parasol, please ensure: It is used only in mild weather and sheltered outdoor conditions. It is not exposed to rain, moisture, or heavy UV for long periods. It is not used in windy environments, as the handcrafted frame and silk canopy are not designed to withstand force. The parasol is opened and closed gently to protect the silk fabric and handmade structure. After use, store it in a cool, dry place, away from direct sunlight. These parasols are intended as summer shade accessories, decorative accents, and elegant styling pieces
+  Updated: 2026-03-12T20:18:49Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1354,7 +1347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T165551.813.png?v=1763639944
   Price: $30.00 AUD
 - [SQUARE SILVER MIRRORED PLINTH](https://nsstyling.com/products/square-silver-mirrored-plinth): Bring a touch of luxury and glamour to your event with the Square Silver Mirrored Plinth, designed to create a stunning reflective display. Its sleek mirrored panels and clean square shape beautifully enhance floral arrangements, cakes, or décor pieces, adding depth and sophistication to any setting. Perfect for weddings, exhibitions, and elegant interiors, these plinths combine timeless design with modern elegance.
-  Updated: 2025-12-09T16:59:08Z
+  Updated: 2026-03-09T08:08:03Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1813,7 +1806,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-31T220529.332.png?v=1761930384
   Price: $9.50 AUD
-[List Continued](https://nsstyling.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTkwMDk4MjY0MTE3LCJsYXN0X3ZhbHVlIjoiNzk5MDA5ODI2NDExNyJ9)
+- [VENUS URN  |  VASE](https://nsstyling.com/products/venus-urn-vase): The “VENUS URN | VASE” embodies refined simplicity and modern elegance, making it a perfect addition to any contemporary or classic setting. With its slender silhouette and smooth, sculptural form, it beautifully complements both fresh and dried floral arrangements. Ideal for event styling, home décor, or curated displays, the Venus Vase adds a subtle touch of sophistication and timeless appeal to any space, effortlessly blending artistry with functionality.
+  Updated: 2025-12-09T16:59:20Z
+  Vendor: nspropstyling
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T194012.277.png?v=1763736464
+  Price: $8.00 AUD
+[List Continued](https://nsstyling.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTkwMTA1NTA1ODQ1LCJsYXN0X3ZhbHVlIjoiNzk5MDEwNTUwNTg0NSJ9)
 
 ## Collections
 
@@ -1821,8 +1821,8 @@
   Updated: 2025-12-09T16:58:08Z
   Total Products: 1
 - [Items For ](https://nsstyling.com/collections/items-for-): Browse items for  featuring décor accents, textiles, and accessories with distinctive style and quality design, perfect for gifting, decorating or events.
-  Updated: 2026-02-03T07:06:25Z
-  Total Products: 13
+  Updated: 2026-03-11T16:52:55Z
+  Total Products: 18
 - [Rattan Urns](https://nsstyling.com/collections/rattan-urns): Rattan urns collection featuring woven decor pieces for floral displays, events, or home interiors, adding natural texture, warmth, and relaxed stylish charm.
   Updated: 2026-02-03T07:16:41Z
   Total Products: 5
@@ -1854,13 +1854,13 @@
   Updated: 2025-12-28T04:08:50Z
   Total Products: 2
 - [Wedding Ceremony Plinths Hire Sydney | NS Styling](https://nsstyling.com/collections/plinths-cake-tables): Plinths and cake tables for stylish displays and event presentations, perfect for weddings, parties, or showcasing cakes and decor with elegance and flair.
-  Updated: 2026-02-13T06:10:09Z
+  Updated: 2026-03-10T11:39:58Z
   Total Products: 23
 - [Luxury Picnics](https://nsstyling.com/collections/luxury-picnics): Luxury picnics collection featuring premium picnic sets, accessories, & styled essentials for outdoor events, gatherings, & celebrations with style and comfort.
-  Updated: 2026-02-03T07:08:07Z
+  Updated: 2026-03-11T16:57:38Z
   Total Products: 20
 - [Tableware Collection for Styled Events | NS Styling](https://nsstyling.com/collections/tableware): Tableware collection of elegant plates, bowls, and serving pieces for dining, weddings, and events, adding refined style, sophistication, and timeless charm.
-  Updated: 2026-02-04T07:02:43Z
+  Updated: 2026-03-10T06:01:58Z
   Total Products: 71
 - [Graze Station & Catering Display, Wedding Accessories](https://nsstyling.com/collections/graze-station-catering-display-wedding-accessories)
   Updated: 2026-01-19T18:41:44Z
@@ -1872,7 +1872,7 @@
   Updated: 2025-12-28T04:10:48Z
   Total Products: 0
 - [Luxury Wedding Table Decor Hire Sydney | NS Styling](https://nsstyling.com/collections/wedding-accessories): Wedding Accessories collection of curated décor, tableware, and styling pieces, adding elegance, charm, and refined details to weddings, events, & celebrations.
-  Updated: 2026-02-13T06:26:47Z
+  Updated: 2026-03-11T16:57:38Z
   Total Products: 61
 - [Glass Vases](https://nsstyling.com/collections/glass-vases)
   Updated: 2025-12-28T04:09:47Z
@@ -2001,7 +2001,7 @@
   Updated: 2026-02-02T10:16:37Z
   Total Products: 26
 - [Small Platters| Coasters](https://nsstyling.com/collections/small-platters-coasters)
-  Updated: 2026-02-03T12:16:27Z
+  Updated: 2026-03-10T06:01:58Z
   Total Products: 29
 - [SILVER VASES](https://nsstyling.com/collections/silver-vases)
   Updated: 2025-12-09T16:58:12Z
@@ -2016,7 +2016,7 @@
   Updated: 2026-01-20T12:21:46Z
   Total Products: 15
 - [BOWLS](https://nsstyling.com/collections/bowls)
-  Updated: 2026-02-11T12:23:09Z
+  Updated: 2026-03-10T06:01:58Z
   Total Products: 18
 - [Lace Table Doilies](https://nsstyling.com/collections/doilies): NSStyling Lace Table Doilies collection of handcrafted lace pieces adds vintage charm to tables, gifts, crafts & decor with elegant detailing & quality design.
   Updated: 2026-02-11T12:23:09Z
@@ -2055,7 +2055,7 @@
   Updated: 2026-01-21T13:43:05Z
   Total Products: 5
 - [CRYSTAL GLASSWARE](https://nsstyling.com/collections/crystal-glassware)
-  Updated: 2026-02-03T12:16:27Z
+  Updated: 2026-03-10T06:01:58Z
   Total Products: 14
 - [Bridal Jewellery Display Collection | Wedding Styling Props](https://nsstyling.com/collections/bridal-jewellry-display): Discover elegant bridal jewellery display props at NS Styling. Showcase necklaces, rings, and wedding decor with style, luxury, and perfect presentation.
   Updated: 2026-02-04T06:15:34Z
@@ -2098,7 +2098,7 @@
     Author: AUZITA POURSHASB
     Tags: Groom Grooming Guide, Groom Preparation Checklist, Groom Wedding Guide, Wedding Suit Preparation, Wedding Week Preparation
   - [Ultimate Bridal Nail Guide for Brides | NS Styling](https://nsstyling.com/blogs/news/bridal-nail-guide): Ultimate Bridal Nail Guide for Brides | NS Styling
-    Updated: 2026-03-05T11:04:41Z
+    Updated: 2026-03-12T06:14:13Z
     Author: AUZITA POURSHASB
 
 ## Store Pages
