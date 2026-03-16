@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2024-01-30T09:21:20Z
 - Contact Email: info@culinaryprofis.com
-- Updated At: 2026-03-09T00:00:43.558Z
+- Updated At: 2026-03-16T00:00:49.150Z
 
 ## Products
 
@@ -198,8 +198,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/kingsbottle-39-inch-under-counter-wine-and-beer-fridge-combo-3836862.jpg?v=1770510849
     Price: $2,495.00 USD
-- [Kingsbottle Beer and Wine Cooler Combination with Low-E Glass Door](https://culinaryprofis.com/products/beer-and-wine-cooler-combination-with-low-e-glass-door): Stylish, Space-Efficient Cooling for Both Wine and Beverages This 30-Inch Combination Beer and Wine Cooler is the perfect all-in-one solution for storing both your wine and beverages in a sleek, modern unit. Whether you're outfitting a home bar or elevating your kitchen setup, this cooler offers precision cooling, energy efficiency, and premium design. Built with a Low-E glass door, the unit minimizes condensation while providing superior insulation—maintaining stable storage conditions in both zones. Its quiet Embraco compressor ensures smooth, vibration-free operation, and the dual-zone design allows for customizable temperature settings for wine and beer. Ideal for built-in or freestanding installation, this cooler features removable wood and glass shelves, an intuitive touchpad, and a front-vented design—making it a versatile and elegant addition to any setting. Key Features Dual-Zone Temperature Control Two independently adjustable compartments Beer Side: 35°F to 68°F (2°C to 20°C) Wine Side: 35°F to 68°F (2°C to 20°C) Quiet Compressor Technology Embraco high-performance compressor Vibration-free operation for stable, quiet cooling Low-E Glass Door Minimizes condensation and reduces energy loss Acts as a clear, invisible insulating barrier Air-Circulation and Humidity Control Fan-circulated cooling system ensures temperature uniformity Maintains optimal humidity to protect your beverages Activated Carbon Filter Purifies interior air Keeps storage space fresh and odor-free Touchscreen Controls LED display with digital touchpad Simple interface for easy temperature adjustments Energy-Efficient Insulation 45mm thick C-Pantane foam enhances insulation Optimizes cooling while reducing power consumption Adjustable Shelving Customizable layout with removable wood and glass shelves Fits up to 33 wine bottles and 77 beverage cans Specifications Volume: 5.83 Cu. Ft. / 165 Liters Capacity: 33 wine bottles + 77 cans Temperature Zones: Dual Zone Installation Type: Built-in or freestanding Operating Room Temperature: 32–100°F (0–38°C) Climate Types: ST / N / SN Shelf Configuration: Wood and glass, removable Dimensions: 29.6”W x 22.4”D x 33.9”H Electrical Compressor: Embraco Power Supply: 110–115V / 60Hz Rated Power Input: 120W Rated Current: 1.1A Refrigerant: R600a / 30g Energy Consumption: 570 kWh/year Technical Features Patented Sink of Compressor Reduces operational vibration Enhances overall unit stability Fan Circulated Air-Cooling System Maintains consistent cooling Compensates for internal humidity levels Activated Carbon Filter Removes impurities and odors Maintains air freshness in both zones LED Display Digital Touchpad Easy-to-use interface Bright, clear temperature visibility 45mm Thickness C-Pantane Insulation Increases energy efficiency Provides improved thermal insulation Shipping and Warranty Delivery Fast and secure shipping within 2–10 business days Warranty Backed by a 2-year manufacturer’s warranty for peace of mind
-  Updated: 2026-03-08T18:45:00Z
+- [KingsBottle Beer & Wine Cooler Combination with Low-E Glass Door | CulinaryProfis](https://culinaryprofis.com/products/beer-and-wine-cooler-combination-with-low-e-glass-door): KingsBottle dual-zone beer and wine cooler combination with energy-efficient Low-E glass door. Perfect temperature control for beverages and wine. Premium quality refrigeration.
+  Updated: 2026-03-13T10:06:16Z
   Vendor: Kingsbottle
   Product Type: 
   Availability: Available
@@ -309,7 +309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/kingsbottle-48-ultimate-under-bench-wine-fridge-and-bar-refrigerator-combo-4286227.jpg?v=1770510847
     Price: $3,495.00 USD
 - [KingsBottle -40°C to -86°C Ultra Low Temp Biomedical Freezer 108L | CulinaryProfis](https://culinaryprofis.com/products/kingsbottle-40-c-86-c-ultra-low-temperature-108l-under-counter-biomedical-freezer): KingsBottle 108L ultra low temperature biomedical freezer -40°C to -86°C. 9,000 vial capacity, SECOP compressor, multifunction alarms.  grade.
-  Updated: 2026-03-08T18:45:01Z
+  Updated: 2026-03-12T08:16:17Z
   Vendor: Kingsbottle
   Product Type: 
   Availability: Available
@@ -901,7 +901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/dukers-pizza-prep-station-refrigerator-9441602.jpg?v=1770510727
     Price: $5,144.00 USD
 - [Dukers Back Bar Beverage Cooler - Commercial Bar Refrigerator | CulinaryProfis](https://culinaryprofis.com/products/dukers-bar-beverage-cooler): Dukers back bar beverage coolers. Commercial bar refrigerators. Glass or solid doors. Stainless steel. Professional bar equipment.
-  Updated: 2026-03-08T18:45:06Z
+  Updated: 2026-03-14T06:16:33Z
   Vendor: Dukers
   Product Type: Back Bar Beverage Cooler
   Availability: Available
@@ -1227,7 +1227,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/pro-cut-kt-8-meat-tenderizer-8116379.jpg?v=1770510502
   Price: $1,758.00 USD
 - [Pro-Cut KG-22-W #22 1 HP Meat Grinder - Commercial Grade | CulinaryProfis](https://culinaryprofis.com/products/pro-cut-kg-22-w-22-1-hp-meat-grinder): Pro-Cut KG-22-W #22 meat grinder with 1 HP motor. Commercial grade for restaurants, butcher shops. Durable construction.
-  Updated: 2026-03-08T18:45:10Z
+  Updated: 2026-03-12T00:40:20Z
   Vendor: Pro-Cut
   Product Type: Meat Grinder
   Availability: Available
@@ -1409,11 +1409,11 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/whynter-freestanding-81-cu-ft-stainless-steel-commercial-beverage-merchandiser-refrigerator-with-superlit-door-and-lock-white-cbm-815ws-1585568.jpg?v=1770510318
   Price: $1,359.00 USD
 - [Whynter - Portable 1.8 cu.ft. Tool Box Refrigerator with 2 Drawers and Lock  | TBR-185SR](https://culinaryprofis.com/products/whynter-portable-1-8-cu-ft-tool-box-refrigerator-with-2-drawers-and-lock-tbr-185sr): The Whynter TBR-185SR is a portable 1.8 cu.ft. toolbox refrigerator is designed to be a subtle blend of your garage or workshop. This exceptional mini-refrigerator has a powder coated red full stainless steel exterior housing, heavy-duty metal drawers, secure locking door, durable rolling casters, interior lighting, and an auto defrost feature. A perfect addition to any work area setting and great frontage to keep your refrigerator and favorite beverages safely unnoticed. Features Red Full Stainless Steel Exterio: Unique design blends in with most workshop or garage settings. Powerful Compressor Coolin: Prefect for keeping beverages or other food items cool. 2 Roller Guided Easy-Slide Metal Drawer: For storing a wide variety of tools and hardware. Soft Interior Lighting and Lockable Doo: Provides an attractive yet energy efficient look inside the refrigerator cabinet. Multi-directional Casters with Loc: Lets you easily transport or relocate your tool box refrigerator with ease and lock it for secure stationary use. Powder Coated Red with a Full Stainless Steel Exterior Mechanical temperature control with temperature range from high 30ºF to mid 60ºF Soft interior LED lighting with on/off switch Freestanding setup Powerful compressor cooling Wheel casters for mobility, two of which lock for secure stationary use Lock and key set One slide-out refrigerator wire shelf One roller-guided small drawer One roller-guided large drawer Specifications Capacity: 1.8 cu. ft. Voltage: 115V /60Hz Power: 60 watts Refrigerant: R600a ETL listed UPC 852749006733 Dimensions & Weight Internal small drawer dimensions: 14” W x 15.75” D x 1.5” H Internal large drawer dimensions: 14” W x 15.75” D x 3.5” H Product dimensions: 17” W x 21” D x 32” H Package dimensions: 20.5” W x 24.5” D x 34” H Net weight: 82 lbs Gross weight: 99 lbs Downloads & Manual User Manual Videos Videos
-  Updated: 2026-03-08T18:45:15Z
+  Updated: 2026-03-11T13:21:59Z
   Vendor: Whynter
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/ezgif.com-video-to-gif-2.gif?v=1752308270
+  Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/whynter-portable-18-cuft-tool-box-refrigerator-with-2-drawers-and-lock-tbr-185sr-7685365.jpg?v=1773087380
   Price: $529.00 USD
 - [Whynter - Countertop Reach In 1.8 cu ft Display Glass Door Freezer | CDF-177SB](https://culinaryprofis.com/products/whynter-countertop-reach-in-1-8-cu-ft-display-glass-door-freezer-cdf-177sb): Whynter CDF-177SB 1.8 cu. ft. countertop display freezer with glass door, -13°F cooling, LED lighting, and front-vented design. Perfect for retail or bar display.
   Updated: 2026-03-08T18:45:15Z
@@ -1822,7 +1822,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/whynter-arc-115wg-11000-btu-6800-btu-sacc-compact-portable-air-conditioner-dehumidifier-and-fan-with-remote-control-up-to-400-sq-ft-in-whitegrey-arc-115wg-9377471.jpg?v=1770510076
   Price: $529.00 USD
 - [Whynter ARC-102CS 10000 BTU Portable Air Conditioner Compact Size | CulinaryProfis](https://culinaryprofis.com/products/whynter-10000-btu-portable-air-conditioner-compact-size-arc-102cs): Whynter ARC-102CS 10000 BTU portable air conditioner. Compact size for small spaces. Energy efficient cooling and dehumidifier.
-  Updated: 2026-03-08T18:45:27Z
+  Updated: 2026-03-13T03:01:16Z
   Vendor: Whynter
   Product Type: 
   Availability: Available
@@ -2151,7 +2151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/accutemp-allgb-25f-accutemp-edge-series-stationary-kettle-gas-25-gallon-capacity-6440109.jpg?v=1770511207
   Price: $26,692.60 USD
 - [AccuTemp ALLGB-30 AccuTemp Edge Series™ Stationary Kettle Gas 30 Gallon Capacity](https://culinaryprofis.com/products/accutemp-allgb-30-accutemp-edge-series-stationary-kettle-gas-30-gallon-capacity): The AccuTemp ALLGB-30 AccuTemp Edge Series™ Stationary Kettle - Gas - 30 Gallon Capacity is a highly efficient and durable solution for culinary operations that require precise temperature control and large-volume cooking. This stationary kettle is designed with a 30-gallon capacity and features a 2/3 jacket, allowing for even heat distribution and consistent cooking results. The 316 stainless steel liner ensures superior corrosion resistance, making it ideal for high-acidity contents. Equipped with an electronic ignition system, this kettle offers reliable performance and ease of use. The one-piece hinged cover enhances safety and convenience during operation, while the self-contained and insulated deep-drawn stainless steel construction delivers excellent heat retention. A 2-inch compression draw-off valve facilitates easy transfer of contents, minimizing spillage. Leg-mounted for stability, the kettle operates at 30 PSI and utilizes a robust 67,800 BTU input for efficient heating.  by UL and NSF, it meets strict industry standards for safety and sanitation. This high-capacity kettle is ideal for various segments, including commercial kitchens, institutions, and food manufacturing facilities, where large batch cooking with precision and reliability is essential.
-  Updated: 2026-03-08T18:45:37Z
+  Updated: 2026-03-15T08:18:59Z
   Vendor: AccuTemp
   Product Type: 
   Availability: Available
@@ -2207,7 +2207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/accutemp-allgb-50-accutemp-edge-series-stationary-kettle-gas-50-gallon-capacity-6979767.jpg?v=1770511386
   Price: $28,686.35 USD
 - [AccuTemp ALLGB-80F AccuTemp Edge Series™ Stationary Kettle Gas 80 Gallon Capacity](https://culinaryprofis.com/products/accutemp-allgb-80f-accutemp-edge-series-stationary-kettle-gas-80-gallon-capacity): The AccuTemp ALLGB-80F AccuTemp Edge Series™ Stationary Kettle is a highly efficient and durable equipment designed for industrial food preparation, featuring an impressive 80-gallon capacity. Engineered with a full jacket and crafted from 304 stainless steel liner, it ensures optimal heat distribution and durability for large-scale cooking operations. The gas-powered kettle is equipped with an electronic ignition system, providing reliable and efficient performance at 131,400 BTU. Its one-piece actuator-assisted cover enhances operational convenience while maintaining safety standards. The self-contained design and insulated, deep-drawn stainless steel construction contribute to its energy efficiency and robust build. Additionally, this stationary kettle is fitted with a 2-inch compression draw-off valve, facilitating easy dispensing of contents. Supported by leg-mounted stability, the kettle operates at a pressure of 30 PSI, ensuring consistent cooking outcomes.  by UL and NSF, the AccuTemp ALLGB-80F meets stringent industry standards for safety and sanitation, making it an ideal choice for high-volume commercial kitchens, catering services, and institutional foodservice operations. Its combination of advanced technology and high-capacity design positions it as a valuable asset for professionals seeking quality and efficiency in their culinary endeavors.
-  Updated: 2026-03-08T18:45:39Z
+  Updated: 2026-03-11T22:49:37Z
   Vendor: AccuTemp
   Product Type: 
   Availability: Available
@@ -2692,8 +2692,8 @@
   Updated: 2026-03-08T18:45:00Z
   Total Products: 15
 - [Commercial Equipment Collection](https://culinaryprofis.com/collections/commercial-equipment-1): Explore our Commercial Equipment collection featuring a wide range of products for your business needs.
-  Updated: 2026-03-08T18:45:00Z
-  Total Products: 275
+  Updated: 2026-03-11T21:54:40Z
+  Total Products: 276
 - [Pellet Grill Collection - All Pellet Grill Products](https://culinaryprofis.com/collections/pellet-grill-collection): Explore our Pellet Grill Collection. Find all our pellet grill products and related accessories in one place.
   Updated: 2026-03-08T18:45:00Z
   Total Products: 6
@@ -2770,7 +2770,7 @@
   Updated: 2026-03-08T18:45:01Z
   Total Products: 11
 - [Vinotemp](https://culinaryprofis.com/collections/vinotemp): Vinotemp is a trusted leader in premium wine storage, offering high-quality coolers and cellars designed to protect and enhance every bottle. Known for innovative temperature control and stylish craftsmanship, Vinotemp units keep wines stable, organized, and ready to enjoy. With options ranging from compact coolers to full custom cellar solutions, the brand delivers reliable performance for collectors, restaurants, and home enthusiasts. Perfect for anyone who wants dependable wine preservation with a refined, modern look.
-  Updated: 2026-03-08T18:45:01Z
+  Updated: 2026-03-13T22:44:21Z
   Total Products: 53
 - [Grista](https://culinaryprofis.com/collections/grista): Grista provides dependable commercial refrigeration designed for restaurants, cafes, bakeries, and foodservice operations that need stable cooling every day. Built with durable stainless steel, strong compressors, and consistent temperature control, Grista refrigerators and freezers keep ingredients fresh and safe during the busiest service hours. With easy-to-clean interiors, adjustable storage, and smooth operation, Grista is a practical choice for any professional kitchen that values reliability, efficiency, and long-term performance. Ideal for chefs and operators who want solid equipment that works without complications.
   Updated: 2026-03-08T18:45:01Z
@@ -2791,7 +2791,7 @@
   Updated: 2026-03-08T18:45:02Z
   Total Products: 49
 - [FETCO](https://culinaryprofis.com/collections/fetco): FETCO is a leading manufacturer of premium commercial coffee brewing and hot beverage equipment, trusted by cafés, restaurants, and hospitality professionals worldwide. Known for its durability, precision, and innovation, FETCO products deliver consistent results, energy efficiency, and easy operation. From high-volume coffee brewers and grinders to hot water dispensers and cold brew systems, every unit is designed to meet the demands of busy commercial environments while ensuring exceptional beverage quality and reliability day after day.
-  Updated: 2026-03-08T18:45:02Z
+  Updated: 2026-03-12T18:04:24Z
   Total Products: 102
 - [Jet-Tech](https://culinaryprofis.com/collections/jet-tech): Jet-Tech is a trusted manufacturer of commercial dishwashing and warewashing equipment designed for restaurants, cafés, and hospitality operations. Known for their compact, high-performance undercounter and door-type dishwashers, Jet-Tech machines deliver exceptional cleaning power with energy and water efficiency. Built from durable stainless steel and engineered for reliability, Jet-Tech products provide quiet operation, easy maintenance, and long-lasting performance—making them an ideal choice for professional kitchens of any size.
   Updated: 2026-03-08T18:45:02Z
@@ -2851,7 +2851,7 @@
   Updated: 2026-03-08T18:45:03Z
   Total Products: 31
 - [Ankarsrum Original Stand Mixers & Accessories | Swedish Quality Since 1940 - CulinaryProfis](https://culinaryprofis.com/collections/ankarsrum-original-stand-mixers-accessories): Shop Ankarsrum Original stand mixers in 15+ colors. 600W motor, 7L bowl, made in Sweden since 1940. Professional attachments available. 7-year warranty.
-  Updated: 2026-03-08T18:45:03Z
+  Updated: 2026-03-15T11:19:03Z
   Total Products: 34
 
 ## Blogs
@@ -2879,6 +2879,34 @@
     Tags: 2026, charbroiler, commercial grills, commercial kitchen, gas grills, griddles, kitchen equipment guide, restaurant equipment, salamander broiler
   - [Is It Worth The Price?](https://culinaryprofis.com/blogs/news/review)
     Updated: 2026-03-01T17:02:04Z
+    Author: John Maala
+  - [Best Stand Mixer for Bread: KitchenAid vs Bosch vs Ankarsrum vs Ooni Halo Pro](https://culinaryprofis.com/blogs/news/best-stand-mixer-for-bread-bakers-2026-review-why-ankarsrum-wins): Best Stand Mixer for Bread: KitchenAid vs Bosch vs Ankarsrum vs Ooni Halo Pro
+    Updated: 2026-03-15T19:23:06Z
+    Author: Pavlo S
+    Tags: Ankarsrum, Baking-Equipment, Bosch, Bread-Baking, Kitchen-Appliances, KitchenAid, Ooni, Product-Comparisons, Sourdough, Stand-Mixers
+  - [KitchenAid vs Ankarsrum: Which Stand Mixer Is Better for Bread and Baking?](https://culinaryprofis.com/blogs/news/kitchenaid-vs-ankarsrum-which-stand-mixer-is-better-for-bread-and-baking)
+    Updated: 2026-03-15T12:23:23Z
+    Author: TinyIMG
+  - [Best Baking Equipment for Bread Bakers Essential Tools for Making Bakery Quality Bread at Home](https://culinaryprofis.com/blogs/news/best-baking-equipment-for-bread-bakers-essential-tools-for-making-bakery-quality-bread-at-home)
+    Updated: 2026-03-14T20:03:08Z
+    Author: Pavlo S
+  - [6 Common Bread Baking Mistakes and How to Fix Them](https://culinaryprofis.com/blogs/news/6-common-bread-baking-mistakes-and-how-to-fix-them)
+    Updated: 2026-03-14T19:52:55Z
+    Author: TinyIMG
+  - [Beginner’s Guide to Baking Sourdough Bread at Home](https://culinaryprofis.com/blogs/news/beginner-s-guide-to-baking-sourdough-bread-at-home)
+    Updated: 2026-03-14T20:08:57Z
+    Author: John Maala
+  - [The Strongest Dough Mixer? Ankarsrum vs Traditional Stand Mixers vs Air PLane](https://culinaryprofis.com/blogs/news/the-strongest-dough-mixer-ankarsrum-vs)
+    Updated: 2026-03-14T20:28:40Z
+    Author: John Maala
+  - [The Perfect Pizza Dough at Home: Techniques, Recipes, and the Power of the Ankarsrum Mixer](https://culinaryprofis.com/blogs/news/the-perfect-pizza-dough-at-home-techniques-recipes-and-the-power-of-the-ankarsrum-mixer)
+    Updated: 2026-03-14T20:41:15Z
+    Author: John Maala
+  - [Professional Pizza Equipment for the Perfect Homemade Pizza](https://culinaryprofis.com/blogs/news/professional-pizza-equipment-for-the-perfect-homemade-pizza)
+    Updated: 2026-03-14T20:44:43Z
+    Author: John Maala
+  - [Ankarsrum vs Bosch vs KitchenAid vs Ooni Which Stand Mixer Is Best for Serious Bread Bakers?](https://culinaryprofis.com/blogs/news/ankarsrum-vs-bosch-vs-kitchenaid-vs-ooni-which-stand-mixer-is-best-for-serious-bread-bakers)
+    Updated: 2026-03-15T12:17:28Z
     Author: John Maala
 
 ## Store Pages
