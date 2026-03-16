@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-04-06T16:36:01Z
 - Contact Email: support@doradoskin.com
-- Updated At: 2026-03-09T00:00:34.123Z
+- Updated At: 2026-03-16T00:00:35.929Z
 
 ## Products
 
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0746/5035/3968/files/1_e405f567-1795-4d94-a2b3-5a5892ddbef4.png?v=1768403434
   Price: $20.00 USD
 - [Shop Soothing Lip Balm for Men | Dorado](https://www.doradoskin.com/products/soothing-lip-balm): Dorado offers the best men lip balm for dry, cracked, and chapped lips. Deeply hydrates, soothes, & protects your lips for everyday comfort. Order Now!
-  Updated: 2026-01-31T17:49:15Z
+  Updated: 2026-03-14T20:50:13Z
   Vendor: Dorado
   Product Type: 
   Availability: Available
@@ -140,7 +140,7 @@
 ## Collections
 
 - [Best  Skincare & Grooming Set For Men | Dorado](https://www.doradoskin.com/collections/best--products): Shop the top‑rated Dorado Skin products from our Best  collection fan‑favorite formulas for face, body, and hair care.
-  Updated: 2026-02-14T16:45:26Z
+  Updated: 2026-03-09T23:53:18Z
   Total Products: 18
 - [Newest Products](https://www.doradoskin.com/collections/newest-products)
   Updated: 2026-01-10T18:10:03Z
