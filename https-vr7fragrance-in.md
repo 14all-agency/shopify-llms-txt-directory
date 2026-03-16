@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-09T21:12:30Z
 - Contact Email: contact@vr7fragrance.in
-- Updated At: 2026-03-09T00:00:44.665Z
+- Updated At: 2026-03-16T00:00:46.032Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Metallic_perfume_by_VR7_fragrance.png?v=1771957801
   Price: ₹749.00 INR
 - [#-Tag by VR7 Fragrance | Dark & Smoky Perfume](https://vr7fragrance.in/products/tag-by-vr7-fragrance): #-Tag by VR7 Fragrance is a bold, dark, and long-lasting  perfume with smoky and resinous depth, crafted for niche fragrance lovers.
-  Updated: 2026-02-25T05:08:57Z
+  Updated: 2026-03-14T16:10:36Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
@@ -80,7 +80,7 @@
   Updated: 2026-02-26T12:22:30Z
   Total Products: 2
 - [Intense Collection by VR7 Fragrance](https://vr7fragrance.in/collections/intense-collection-by-vr7fragrance): Explore bold, long-lasting scents with VR7's Intense Collection. Perfect for evening elegance. Discover your unforgettable aroma today.
-  Updated: 2026-02-22T18:42:24Z
+  Updated: 2026-03-15T11:24:45Z
   Total Products: 3
 - [Discover VR7's Spicy Fragrance Collection](https://vr7fragrance.in/collections/spicy-collection-by-vr7fragrance): Unleash your bold side with VR7's spicy perfumes. Perfect for special occasions, these scents blend exotic spices and smoky woods. Explore now!
   Updated: 2026-02-22T18:41:55Z
@@ -89,10 +89,10 @@
   Updated: 2026-02-22T18:41:21Z
   Total Products: 1
 - [Latest arrivals by VR7 Fragrance](https://vr7fragrance.in/collections/latest-arrivals-by-vr7fragrance): Discover the Latest arrivals by VR7 Fragrance. Explore unique scents that elevate your fragrance collection today!
-  Updated: 2026-02-26T12:22:30Z
+  Updated: 2026-03-15T11:24:45Z
   Total Products: 9
 - [men's collection by VR7 Fragrance](https://vr7fragrance.in/collections/mens-collection-by-vr7fragrance): Men's collection by VR7 Fragrance features exquisite fragrances tailored for the modern man. Discover your signature scent today!
-  Updated: 2026-02-26T12:22:30Z
+  Updated: 2026-03-15T11:24:45Z
   Total Products: 8
 - [Unisex collection by VR7 Fragrance | Unique Scents for All](https://vr7fragrance.in/collections/unisex-collection-by-vr7fragrance): Discover the Unisex collection by VR7 Fragrance, featuring unique scents that cater to everyone. Shop now!
   Updated: 2026-02-26T12:22:30Z
