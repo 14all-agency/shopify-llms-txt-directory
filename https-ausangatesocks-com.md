@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-06-01T17:25:06Z
 - Contact Email: hello@ausangatesocks.com
-- Updated At: 2026-03-08T00:00:37.922Z
+- Updated At: 2026-03-16T00:00:40.581Z
 
 ## Products
 
