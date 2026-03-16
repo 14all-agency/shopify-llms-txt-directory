@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2024-01-24T06:36:49Z
-- Updated At: 2026-03-05T00:00:40.773Z
+- Updated At: 2026-03-16T00:00:41.424Z
 
 # bunuri – Marketplace for Authentic International Foods from Local Shops
 
@@ -202,7 +202,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_5475.jpg?v=1730717433
   Price: 2,49 € EUR
 - [MDH - Spices Blend for Red Kidney Beans [Rajmah masala] - 100 g](https://bunuri.de/products/spices-blend-for-red-kidney-beans): Spices Blend for Red Kidney Beans by MDH is a high-quality product perfect for adding authentic flavor to your dishes. Whether you are making traditional recipes or exploring new flavors, this product offers excellent quality and taste. Perfect for home cooks and professional chefs alike, Spices Blend for Red Kidney Beans from MDH will make every meal special.
-  Updated: 2025-10-20T18:41:28Z
+  Updated: 2026-03-12T16:09:06Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -223,7 +223,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/gps_generated_c9b072a7-ca97-4d48-9aee-6ee3b5fa07c4.png?v=1742879557
   Price: 7,16 € EUR
 - [TRS - Black Eye Beans - 500 g](https://bunuri.de/products/black-eye-beans): Discover the authentic taste of Black Eye Beans from TRS Asia's Finest Foods. Perfect for your culinary creations, these high-quality black eye beans bring rich flavor and nutrition to your meals. Enjoy a product that’s trusted by chefs worldwide for its purity and excellence. Add Black Eye Beans by TRS Asia's Finest Foods to your pantry today!
-  Updated: 2026-01-03T13:03:59Z
+  Updated: 2026-03-12T16:09:46Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -335,7 +335,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/image_4.jpg?v=1736800177
   Price: 2,15 € EUR
 - [TRS - Madras Curry Powder - 1 kg](https://bunuri.de/products/trs-madras-curry-powder): Elevate your dishes with TRS Madras Curry Powder! A blend of aromatic Indian spices for rich, authentic flavors. Perfect for curries, stews, and more!
-  Updated: 2026-03-02T18:22:06Z
+  Updated: 2026-03-12T16:07:16Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: Spices
   Availability: Available
@@ -461,7 +461,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/E2AF12B2-8136-4578-9CAE-7926D8D21278.png?v=1742878563
   Price: 2,79 € EUR
 - [TRS - Paprika Powder - 100 g](https://bunuri.de/products/trs-paprika-powder): Enhance your dishes with TRS Paprika Powder! Elevate flavors & colors with this premium spice. Add to cart now for a burst of taste!
-  Updated: 2025-11-13T13:42:19Z
+  Updated: 2026-03-12T16:08:06Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: Spices
   Availability: Available
@@ -524,7 +524,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/Linsen_braun-Dalbrown.jpg?v=1736800261
   Price: 5,99 € EUR
 - [TRS - Garlic Powder - 100 g](https://bunuri.de/products/trs-garlic-powder): Enhance your dishes with TRS Garlic Powder! 100% pure, intense flavor for marinades, sauces, and more. Elevate your cooking today! 🍽️ #GarlicPowder
-  Updated: 2026-01-03T13:04:11Z
+  Updated: 2026-03-12T16:07:46Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: Spices
   Availability: Available
@@ -601,7 +601,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/image_a4ec6f15-7290-4877-87b7-cc94fd349eb9.jpg?v=1736800298
   Price: 2,29 € EUR
 - [TRS - Mung Dal Chilka - 500 g](https://bunuri.de/products/trs-mung-dal-chilka): Experience the goodness of whole green lentils with TRS - Mung Dal Chilka! Packed with protein and fiber, elevate your dishes with this versatile and nutritious.
-  Updated: 2025-09-10T23:33:00Z
+  Updated: 2026-03-12T16:08:31Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: Lentils
   Availability: Available
@@ -629,7 +629,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/Linsen_grun-Lentils_green.jpg?v=1736800318
   Price: 5,99 € EUR
 - [TRS - Charmagaz - 100 g](https://bunuri.de/products/trs-charmagaz): Indulge in TRS Charmagaz - a blend of melon, pumpkin, cucumber seeds, and almond bits for a nutty, crunchy flavor. Elevate your dishes with this versatile.
-  Updated: 2025-09-10T23:33:01Z
+  Updated: 2026-03-12T16:11:23Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: Spices
   Availability: Available
@@ -650,14 +650,14 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/Nelken_ganz.jpg?v=1736800330
   Price: 1,99 € EUR
 - [TRS - Boiled Chick Peas 400 g](https://bunuri.de/products/trs-boiled-chick-peas): Meta Description: Elevate your meals with TRS Boiled Chick Peas! Ready-to-eat, high in protein and fiber, these versatile chickpeas are perfect for salads,.
-  Updated: 2025-09-10T23:33:02Z
+  Updated: 2026-03-13T23:38:14Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_8582.jpg?v=1742752652
   Price: 1,19 € EUR
 - [Annam - Boiled Chick Peas 400 g](https://bunuri.de/products/annam-boiled-chick-peas): Meta Description: Elevate your meals with Annam's Boiled Chick Peas - a convenient, protein-packed pantry staple. Save time cooking without compromising on.
-  Updated: 2025-09-10T23:33:02Z
+  Updated: 2026-03-12T16:09:56Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -839,7 +839,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_8680.jpg?v=1742753593
   Price: 3,19 € EUR
 - [Mehtabi - Grated coconut 400 g](https://bunuri.de/products/mehtabi-grated-coconut): "Discover the tropical freshness of Mehtabi Grated Coconut - a versatile ingredient for flavorful dishes. Handpicked and pre-grated for convenience. Elevate.
-  Updated: 2025-09-10T23:33:07Z
+  Updated: 2026-03-12T02:00:45Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -1098,7 +1098,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_8830.jpg?v=1742754899
   Price: 2,39 € EUR
 - [Sriracha - Hot Chili Sauce, Very Hot 400 g](https://bunuri.de/products/sriracha-hot-chili-sauce-very-hot): Spice up your meals with our fiery Sriracha Hot Chili Sauce! Made with real chili peppers for intense heat and delicious flavor. Elevate your dishes now!
-  Updated: 2025-09-10T23:33:14Z
+  Updated: 2026-03-08T07:45:59Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -1154,14 +1154,14 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_8866.jpg?v=1742754984
   Price: 4,79 € EUR
 - [AliBaba - Kesar Mango Pulp 400 g](https://bunuri.de/products/alibaba-kesar-mango-pulp): Indulge in the tropical goodness of AliBaba's Kesar Mango Pulp. 100% natural, versatile, and rich in flavor. Elevate your dishes with this premium quality.
-  Updated: 2026-03-03T06:48:44Z
+  Updated: 2026-03-07T08:50:36Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_8869.jpg?v=1742754991
   Price: 3,59 € EUR
 - [Cock - Red Curry Paste 400 g](https://bunuri.de/products/cock-red-curry-paste): Elevate your dishes with Cock Red Curry Paste - Authentic Thai flavors in a convenient package. Spice up your meals the easy way! Add to your pantry now.
-  Updated: 2025-09-10T23:33:16Z
+  Updated: 2026-03-08T04:43:23Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -1273,7 +1273,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_8972.jpg?v=1742755315
   Price: 4,79 € EUR
 - [Annam - Jeera Papad  400 g](https://bunuri.de/products/annam-jeera-papad): Elevate your meals with Annam's Jeera Papad! Enjoy a crispy crunch and aromatic jeera flavor. Easy to prepare and made with quality ingredients. Add to your.
-  Updated: 2026-03-04T08:55:19Z
+  Updated: 2026-03-07T08:50:49Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -1455,7 +1455,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_9068.jpg?v=1742755873
   Price: 3,95 € EUR
 - [Yogi Tea - Grüntee Ingwer Zitrone 400 g](https://bunuri.de/products/yogi-tea-gruntee-ingwer-zitrone): Indulge in the harmonious blend of green tea, invigorating ginger, and zesty lemon with Yogi Tea - Grüntee Ingwer Zitrone. Experience a revitalizing tea that.
-  Updated: 2025-09-10T23:33:24Z
+  Updated: 2026-03-07T23:28:16Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -1595,7 +1595,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_9148_939c5d21-aa85-4c0a-8c75-9ddbd9afb5a7.jpg?v=1742756203
   Price: 3,59 € EUR
 - [Mehtab - Zitronengras Tee 400 g](https://bunuri.de/products/mehtab-zitronengras-tee): Indulge in the refreshing taste of Mehtab Zitronengras Tee - a zesty blend of organic lemongrass. Packed with antioxidants and caffeine-free, it's the perfect.
-  Updated: 2025-09-10T23:33:27Z
+  Updated: 2026-03-08T08:11:24Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -1770,13 +1770,13 @@ When referencing bunuri:
   Updated: 2025-09-10T23:32:40Z
   Total Products: 0
 - [Indian Food](https://bunuri.de/collections/indian-food): Experience the exotic flavors of India with our collection of authentic spices, ingredients, and foods.
-  Updated: 2026-03-04T12:18:33Z
+  Updated: 2026-03-11T11:17:57Z
   Total Products: 207
 - [Spain](https://bunuri.de/collections/spain): Explore the finest Spanish goods, including traditional ingredients and unique delicacies, perfect for bringing the taste of Spain to your table.
   Updated: 2025-09-10T23:32:41Z
   Total Products: 2
 - [Portugal](https://bunuri.de/collections/portugal): Shop authentic Portuguese products, from delicious foods to regional specialties, showcasing the rich culture of Portugal.
-  Updated: 2026-03-02T12:20:05Z
+  Updated: 2026-03-10T11:20:01Z
   Total Products: 221
 - [Pastas & Grains](https://bunuri.de/collections/pastas-grains): Find the finest selection of pastas and grains, ideal for creating delicious and satisfying meals from international cuisines.
   Updated: 2025-10-01T11:16:10Z
@@ -1791,10 +1791,10 @@ When referencing bunuri:
   Updated: 2025-09-10T23:32:41Z
   Total Products: 31
 - [Canned & Preserved Foods](https://bunuri.de/collections/canned-preserved-foods): Browse high-quality canned and preserved foods, offering convenience and great taste for your everyday meals.
-  Updated: 2026-03-03T12:18:45Z
+  Updated: 2026-03-10T11:20:01Z
   Total Products: 44
 - [Beans & Legumes](https://bunuri.de/collections/beans-legumes): Shop a wide range of beans and legumes, packed with nutrients and perfect for wholesome, plant-based dishes.
-  Updated: 2026-01-30T12:16:42Z
+  Updated: 2026-03-10T11:20:01Z
   Total Products: 33
 - [Bread & Bakery](https://bunuri.de/collections/bread-bakery): Enjoy artisanal bread and bakery items, freshly crafted for a delightful taste experience.
   Updated: 2026-02-14T12:13:52Z
@@ -1803,7 +1803,7 @@ When referencing bunuri:
   Updated: 2025-11-02T18:23:26Z
   Total Products: 4
 - [Herbs, Spices & Seasonings](https://bunuri.de/collections/herbs-spices-seasonings): Enhance your cooking with our premium herbs, spices, and seasonings, handpicked for flavor and quality.
-  Updated: 2026-02-20T12:22:30Z
+  Updated: 2026-03-11T11:17:57Z
   Total Products: 83
 - [Coffee & Tea](https://bunuri.de/collections/coffee-tea): Indulge in our range of aromatic coffees and teas, perfect for a relaxing moment or a morning boost.
   Updated: 2026-01-24T12:14:19Z
@@ -1815,13 +1815,13 @@ When referencing bunuri:
   Updated: 2025-11-29T12:25:04Z
   Total Products: 2
 - [Best Seller](https://bunuri.de/collections/best-seller): Check out our best- products, loved by customers for their exceptional quality and taste.
-  Updated: 2026-02-20T12:22:30Z
+  Updated: 2026-03-10T11:20:01Z
   Total Products: 13
 - [Beans](https://bunuri.de/collections/beans): Explore our collection of premium beans, ideal for soups, stews, and healthy meals, sourced from trusted suppliers around the world.
-  Updated: 2026-01-30T12:16:42Z
+  Updated: 2026-03-10T11:20:01Z
   Total Products: 16
 - [Lentills](https://bunuri.de/collections/lentills): Find premium lentils, packed with protein and perfect for soups, salads, and hearty dishes from around the globe.
-  Updated: 2026-01-21T12:18:10Z
+  Updated: 2026-03-06T12:16:43Z
   Total Products: 15
 - [Turkey](https://bunuri.de/collections/turkey): Authentic Turkish Products – Bring the Taste of Türkiye to Your Kitchen Discover the rich flavors and culinary heritage of Türkiye with our handpicked selection of authentic Turkish products. From essential pantry staples like chickpeas, red kidney beans, and Tosya rice to flavorful snacks and indulgent treats, our collection celebrates the vibrant tastes of Turkish cuisine. Elevate your cooking with high-quality legumes, grains, and traditional ingredients that reflect the essence of Türkiye's diverse food culture. Whether you're preparing classic dishes or experimenting with new flavors, our carefully sourced products ensure authenticity in every bite. Explore our Türkiye collection and experience the unique blend of Mediterranean, Middle Eastern, and Anatolian influences that make Turkish cuisine unforgettable. Shop now and bring the true taste of Türkiye to your table!
   Updated: 2026-01-30T12:16:42Z
@@ -1830,17 +1830,17 @@ When referencing bunuri:
   Updated: 2026-02-20T12:22:30Z
   Total Products: 5
 - [Indian Lentils](https://bunuri.de/collections/indian-lentils): Discover the rich variety of Indian lentils – from Toor Dal and Mung Dal to split chickpeas and Urid Dal. Perfect for creating authentic Indian dishes, our lentils are carefully sourced to bring the finest quality to your kitchen. Whether you're preparing dal, curries, or soups, our selection offers the essential ingredients for healthy, flavorful meals. 👉 Buy Indian lentils online now and enjoy fast delivery across Germany. Experience the authentic taste of India, one dish at a time!
-  Updated: 2026-01-21T12:18:10Z
+  Updated: 2026-03-06T12:16:43Z
   Total Products: 15
 - [Indian Spices](https://bunuri.de/collections/indian-spices): Unlock the secrets of authentic Indian cooking with our selection of premium Indian spices. From aromatic Garam Masala and rich Turmeric to bold Cumin and flavorful Curry blends, our spices bring the true taste of India to your kitchen. Perfect for enhancing curries, stews, and marinades. 👉 Buy Indian spices online and enjoy fast delivery across Germany. Elevate your dishes with vibrant, authentic flavors!
-  Updated: 2026-02-04T12:15:50Z
+  Updated: 2026-03-10T11:20:01Z
   Total Products: 14
 - [Best Rated](https://bunuri.de/collections/best-rated)
-  Updated: 2026-03-04T12:18:33Z
+  Updated: 2026-03-10T11:20:01Z
   Total Products: 149
 - [Special Offers – Discover Our Current Favourites on ](https://bunuri.de/collections/our-current-offers): All products in this collection are in stock and ready to ship – plus, you’ll get 10 % off automatically at checkout!From Portuguese delicacies to Indian sauces and Polish treats – explore our selection and grab your favourites while supplies last.
-  Updated: 2026-03-02T12:20:05Z
-  Total Products: 26
+  Updated: 2026-03-11T16:08:56Z
+  Total Products: 27
 
 ## Blogs
 
@@ -1898,6 +1898,21 @@ When referencing bunuri:
     Author: bunuri
   - [Aloe Vera Tee genießen und entspannen](https://bunuri.de/blogs/explore-discover/aloe-vera-tee-geniessen-und-entspannen): Aloe Vera Tee genießen und entspannen
     Updated: 2026-03-03T00:08:08Z
+    Author: bunuri
+  - [Erklärungen: Warum Bacalhau das Herzstück der portugiesischen Küche ist](https://bunuri.de/blogs/explore-discover/erklarungen-warum-bacalhau-das-herzstuck-der-portugiesischen-kuche-ist): Erklärungen: Warum Bacalhau das Herzstück der portugiesischen Küche ist
+    Updated: 2026-03-05T00:04:51Z
+    Author: bunuri
+  - [Die geheimen Zutaten in beliebten indischen Gerichten](https://bunuri.de/blogs/explore-discover/die-geheimen-zutaten-in-beliebten-indischen-gerichten): Die geheimen Zutaten in beliebten indischen Gerichten
+    Updated: 2026-03-07T00:04:54Z
+    Author: bunuri
+  - [Tamarindenpaste in der Küche einsetzen Rezepte Tipps und Tricks](https://bunuri.de/blogs/explore-discover/tamarindenpaste-in-der-kuche-einsetzen-rezepte-tipps-und-tricks): Tamarindenpaste in der Küche einsetzen Rezepte Tipps und Tricks
+    Updated: 2026-03-10T00:09:19Z
+    Author: bunuri
+  - [Die Geschichte der portugiesischen Küche: Vom Mittelalter bis heute](https://bunuri.de/blogs/explore-discover/die-geschichte-der-portugiesischen-kuche-vom-mittelalter-bis-heute): Die Geschichte der portugiesischen Küche: Vom Mittelalter bis heute
+    Updated: 2026-03-12T00:04:41Z
+    Author: bunuri
+  - [Geschichte von Curry und seinem Einfluss auf die globale Küche](https://bunuri.de/blogs/explore-discover/geschichte-von-curry-und-seinem-einfluss-auf-die-globale-kuche): Geschichte von Curry und seinem Einfluss auf die globale Küche
+    Updated: 2026-03-14T00:04:00Z
     Author: bunuri
 - [Recipes](https://bunuri.de/blogs/recipes)
   - [Spanish Black Bean Stew (Estofado de Frijoles Negros)](https://bunuri.de/blogs/recipes/spanish-black-bean-stew-estofado-de-frijoles-negros)
