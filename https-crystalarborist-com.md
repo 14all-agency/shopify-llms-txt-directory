@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-03-08T00:00:35.707Z
+- Updated At: 2026-03-16T00:00:26.279Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1903,8 +1903,8 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-02-25T05:42:50Z
     Author: Callie Hitchcock
     Tags: Battle for control, Curse, Found family, Home, True Love
-  - [Silver Tide: Freedom or Ruin (Book 5)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-5): <p><strong><em>As Silver Tide begins to plan a Future, enemies converge. The battle resumes. On a Quest to find the Diviner's Relaquary, can they discover the Truth to end it?</em></strong></p>
-    Updated: 2026-02-11T09:54:38Z
+  - [Silver Tide: Freedom or Ruin (Book 5)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-5): <p><strong><em>As Silver Tide begins to plan a Future, enemies converge. The battle resumes. On a Quest to find the Diviner's Reliquary, can they discover the Truth to end it?</em></strong></p>
+    Updated: 2026-03-15T23:33:58Z
     Author: Callie Hitchcock
     Tags: Artifact, Family, Fantasy Adventure, Freedom, Hope, Light and dark, Love, Magic, Quest, Treasure hunt, Understanding
   - [Silver Tide: Ties That Bind (Book 6)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-6): <p><em><strong>Silver Tide has weathered many storms, but this one strikes at the heart. Fin must face his past to protect his future &amp; the ties that bind them all together.</strong></em></p>
@@ -1936,7 +1936,7 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Action, Adventure, Ancient evil, Choices, Courage, Darkness, emotional, Epic fantasy, Family, Healing, Hope, Light, Redemption, Rescue mission, Truth
   - [Starlight Cove (After Silver Tide Book 8)](https://crystalarborist.com/blogs/short-stories-self-help/starlight-cove): <p><em><strong>Discover Starlight Cove, a Protected harbor with towering cliffs, glittering crystals, and the Moonlight Wake. Home, Family, and a place Worth Fighting For.</strong></em></p>
-    Updated: 2026-03-01T18:57:24Z
+    Updated: 2026-03-08T04:12:44Z
     Author: Callie Hitchcock
     Tags: Celebrations, Crush, Family, Home, Humor, Ocean, Peace, Pranks, Sunset
   - [Shadowlight](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight): <p><em><strong>The Gods of Fire and Lightning are waking—and they're after the Light Marina carries. Will Light and Shadow, joined by friends and a dragon, prevail?</strong></em></p>
@@ -1947,6 +1947,10 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-03-07T15:10:47Z
     Author: Callie Hitchcock
     Tags: elemental magic, epic, fantasy romance, gods and mortals, nautical fantasy, quest adventure
+  - [Shadowlight: Tides of Defiance (Book 3)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-tides-of-defiance): <p><em><strong>The Shadowlight Crew must stand in defiance against Gods of Lightning and Fire. Impossible odds. A daring rescue. Together they defy Fate, and shape Destiny</strong></em></p>
+    Updated: 2026-03-12T02:33:18Z
+    Author: Callie Hitchcock
+    Tags: Action & Adventure, Ancient powers, Defying Fate, Dragons, emotional, High stakes, mortal vs Gods, Nautical, Prophesy, Quest, Romantasy, Strong female lead
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
