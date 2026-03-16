@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-05-31T22:24:25Z
 - Contact Email: hello@yumzlab.com
-- Updated At: 2026-03-09T00:00:40.091Z
+- Updated At: 2026-03-16T00:00:41.702Z
 
 YUMZ crafts premium laboratory-tested hemp-derived products, specializing in high-potency formulations, gummies, and vapes. We are committed to transparency, featuring accessible COAs (Certificates of Analysis) for all products and strictly adhering to federal compliance and safety standards. 
 
@@ -37,7 +37,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Availability: Available
     Price: $299.99 USD
 - [YUMZ - Mango Magic Mushroom Gummies](https://yumzlab.com/products/yumz-mango-magic-mushroom-gummies): Discover Yumz Mango Magic Mushroom Gummies. Experience legal, psychoactive delights that contain 0.00% psilocybin. Our shroom gummies are legal in most states.
-  Updated: 2026-02-23T10:37:00Z
+  Updated: 2026-03-15T09:40:07Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -49,7 +49,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Availability: Available
     Price: $299.99 USD
 - [YUMZ T SHIRT](https://yumzlab.com/products/yumz-t-shirt): This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders have taping for better fit over time. Dual side seams hold the garment's shape for longer. .: 100% Airlume combed and ringspun cotton (fiber content may vary for different colors).: Light fabric (4.2 oz/yd² (142 g/m²)).: Retail fit.: Tear away label.: Runs true to size
-  Updated: 2025-02-24T05:57:20Z
+  Updated: 2026-03-12T01:38:49Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -109,7 +109,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
   Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/snekenergy-568236.jpg?v=1729230590
   Price: $12.50 USD
 - [THC Gummies - Delta 9 THC - YUMZ LAB - Cotton Candy](https://yumzlab.com/products/thc-gummies-farm-bill-compliant-delta-9-thc-yumz-lab-cotton-candy): THC Gummies Delta 9 - YUMZ LAB - Cotton Candy Unveil a world of carnival delight with YUMZ LAB's Farm Bill Compliant Delta-9 THC Cotton Candy Gummies.
-  Updated: 2026-03-07T16:39:57Z
+  Updated: 2026-03-13T17:40:09Z
   Vendor: YUMZ LAB
   Product Type: THC Gummies
   Availability: Available
@@ -123,7 +123,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/cotton-candy-thc-gummies-151079.jpg?v=1729230590
     Price: $44.99 USD
 - [THC Gummies Delta 9 THC YUMZ LAB - Fruit Punch](https://yumzlab.com/products/delta-9-thc-gummies-fuit-punch-yumz-lab): YUMZ LAB - Fruit Punch Embrace a tropical getaway with our Delta 9 THC Fruit Punch Gummies. 10mg per gummy and 400mg of THC per jar.
-  Updated: 2026-03-07T15:11:30Z
+  Updated: 2026-03-15T22:18:47Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
@@ -137,7 +137,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/legal-thc-gummies_5f3d50b7-0473-4833-a1de-19294f5bb866-536331.jpg?v=1729230590
     Price: $45.99 USD
 - [THC Delta 9 THC Gummies - Sour Green Apple](https://yumzlab.com/products/thc-gummies-delta-9-thc-yumz-lab-sour-green-apple): YUMZ LAB Delta 9 THC Gummies Sour Green Apple contains 10mg per gummy and 400mg total per bag. These edibles are a thrilling fusion of tantalizing tartness.
-  Updated: 2026-03-06T03:53:17Z
+  Updated: 2026-03-15T09:39:52Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
@@ -151,14 +151,14 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/delta-9-thc-gummies-318966.jpg?v=1769092374
     Price: $44.99 USD
 - [YUMZ ( DELTA 9 THC GUMMIES ) ( BUNDLE )](https://yumzlab.com/products/yumz-delta-9-thc-gummies-400mg-bundle): YUMZ Fruit Punch Delta 9 THC Gummies - a blend of taste and relaxation. 400mg live resin divided into 40 gummies, each delivering 10mg dose of .
-  Updated: 2026-03-06T20:16:11Z
+  Updated: 2026-03-15T22:18:37Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/GeneratedwithKive.ai-withultrarealisticgreenapples_cottoncandy_fruitpunchfruitsandcubeshapedgummiesthatarered_greenandblue_2.png?v=1769092277
   Price: $119.99 USD
 - [YUMZ - Mushroom Gummies ( Bundle )](https://yumzlab.com/products/yumz-magic-mushroom-gummies-bundle): YUMZ - BUNDLE ( Nootropic Gummies ) Contains 3 flavors - Mango, Watermelon and Mixed Berry. Discover the exquisite fusion of nature's finest berries in our tantalizing mixed berry sensation. Utilizing our legal proprietary blend which contains 0.00% psilocybin.
-  Updated: 2026-03-07T00:50:26Z
+  Updated: 2026-03-15T15:05:38Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
@@ -172,7 +172,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
   Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/free-thc-gummies-105246.jpg?v=1729241704
   Price: $44.99 USD
 - [THCA FLOWER - BIG HIGH 3.5G](https://yumzlab.com/products/thca-flower-big-high-3-5g): Discover the Essence of BIG HIGH THCA Exotic Flower! THCA exotic flower is a unique variety of hemp flower, distinguished by its high concentration of tetrahydrocannabinol acid (THCA). Unlike traditional THC, THCA in its fresh, undried state transforms into THC upon heating.
-  Updated: 2026-03-07T00:07:38Z
+  Updated: 2026-03-09T13:09:17Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
@@ -339,7 +339,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Availability: Available
     Price: $199.99 USD
 - [THCA - BIG HIGH FLOWER - COOKIE MONSTER 3.5G](https://yumzlab.com/products/thca-big-high-flower-cookie-monster-3-5g): Embark on a flavorful expedition with our Big High THCA Flower - Cookie Monster, now in a generous 3.5-gram package! This extraordinary THCA flower is a marvel of cultivation, lavishly adorned with THCA crystals that twinkle like stars in the night sky, promising an experience that's potent.
-  Updated: 2026-02-26T17:17:54Z
+  Updated: 2026-03-13T12:34:37Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
@@ -371,7 +371,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Availability: Available
     Price: $199.99 USD
 - [THCA - BIG HIGH FLOWER - 1 OUNCE](https://yumzlab.com/products/thca-big-high-flower-1-ounce): Big High THCA flower the curator of premium and exotic flower. We're excited to introduce our new 1oz option! We ship 1 ounce THCA flower to most states.
-  Updated: 2026-03-06T16:43:18Z
+  Updated: 2026-03-13T10:49:09Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
@@ -434,7 +434,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Availability: Available
     Price: $399.99 USD
 - [YUMZ - Mango Magic Mushroom Gummies](https://yumzlab.com/products/yumz-mango-magic-mushroom-gummies-free-gift): Discover a natural high with Yumz Mango Magic Mushroom Gummies. Experience legal, psychoactive delights.
-  Updated: 2026-02-18T16:30:49Z
+  Updated: 2026-03-10T16:16:19Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -446,35 +446,35 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Availability: Available
     Price: $299.99 USD
 - [Yumz Bubblegum Kush Hybrid THC Vape (6g) (D9 + THC-A + THC-P)](https://yumzlab.com/products/yumz-bubblegum-kush-hybrid-thc-disposable-vape-6-grams-thc-a): Elevate your vaping journey with Yumz Bubblegum Kush 6 Gram Disposable Vape. Triple cannabinoid blend ( Delta 9 + THCA + THCP ) digital screen, and flavorful options await! This THC-A vape contains the highest quality terpenes on the market.
-  Updated: 2026-03-07T20:25:17Z
+  Updated: 2026-03-14T18:44:46Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/bubble_gum_kush_vape-667697.jpg?v=1772223665
   Price: $60.00 USD
 - [Yumz Jet Fuel Sativa THC Vape 6 Grams ( D9 + THCA + THCP )](https://yumzlab.com/products/yumz-jet-fuel-sativa-thc-disposable-vape-6-grams-thc-a): Elevate your  vaping journey with YUMZ 6 Gram THCA Disposable Vape. Triple cannabinoid blend containing delta 9, delta 8, THCA and THCP. Step into the future with our device which utilizes a digital screen.
-  Updated: 2026-03-05T21:00:23Z
+  Updated: 2026-03-13T01:54:36Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/jet-fuel-thc-208632.jpg?v=1729230587
   Price: $60.00 USD
 - [Yumz Purple Urkle THC Vape 6 Gram THCA Vape Indica](https://yumzlab.com/products/yumz-purple-urkle-indica-thc-disposable-vape-6-grams-thc-a): Elevate your vaping journey with Yumz Purple Urkle 6 Gram THCA Disposable Vape. Triple cannabinoid blend ( Delta 9 + THCA + THCP ) digital screen, and flavorful options await! Order your THC cart online today! Flavor profile is Indica.
-  Updated: 2026-03-01T04:49:08Z
+  Updated: 2026-03-14T13:18:24Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/purple-urkle-thc-344274.jpg?v=1729241707
   Price: $60.00 USD
 - [YUMZ ( DELTA 9 THC GUMMIES ) 400mg ( BUNDLE )](https://yumzlab.com/products/1-bottle-of-yumz-delta-9-thc-gummies-400mg-random-flavor): Introducing YUMZ Delta 9 THC Gummies - a delightful blend of taste and relaxation. This pack brings you a total of 300mg Delta 9 live resin THC.
-  Updated: 2026-03-01T00:27:57Z
+  Updated: 2026-03-15T02:40:53Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/3454/5686/files/Photoroom_20251124_143405.jpg?v=1769092277
   Price: $39.99 USD
 - [Free Magic Mushroom Gummies Sample From Yumz](https://yumzlab.com/products/yumz-magic-mushroom-gummies-random-flavor-you-will-receive-watermelon-mango-or-mixed-berry): Try our delicious and potent Magic Mushroom gummies for FREE. Just pay shipping. (Must be 21 or older.) One free sample pack per customer. Contains 0.00% psilocybin. Visit our legal online shroom shop today.
-  Updated: 2026-03-07T17:04:09Z
+  Updated: 2026-03-09T21:33:27Z
   Vendor: YUMZ LAB
   Product Type: 
   Availability: Available
@@ -588,8 +588,8 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
 
 ## Collections
 
-- [Magic Mushroom Gummies | Trippy Effects](https://yumzlab.com/collections/magic-mushroom-gummies): Immerse yourself in magic with our legal proprietary high-potency proprietary magic mushroom gummies. These gummies are Legal and provide a unique experience.
-  Updated: 2026-03-08T11:12:14Z
+- [Legal Mushroom Gummies | Trippy Effects](https://yumzlab.com/collections/magic-mushroom-gummies): Immerse yourself in magic with our legal proprietary high-potency proprietary magic mushroom gummies. These gummies are Legal and provide a unique experience.
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 10
 - [Mushroom Vape ( Amanita Muscaria )](https://yumzlab.com/collections/mushroom-vape-amanita-muscaria): In recent years, the world of vaping has expanded beyond traditional e-liquids to include a wide range of innovative flavors and experiences. One emerging trend is the concept of mushroom vape, particularly featuring Amanita muscaria, a captivating and enigmatic mushroom known for its rich cultural history. This article delves into the intriguing world of mushroom vape, focusing on Amanita muscaria, exploring its potential uses, safety considerations, and the evolving landscape of vaping culture. Amanita Muscaria: The Enigmatic Mushroom: Amanita muscaria, commonly known as the fly agaric mushroom, is a distinctive and iconic fungus characterized by its vibrant red cap with white spots. It has a long history of cultural significance, featuring prominently in folklore, mythology, and shamanic practices across various indigenous cultures. The mushroom contains psychoactive compounds, including muscimol and ibotenic acid, which can induce altered states of consciousness. The Emergence of Mushroom Vape : The concept of mushroom vape represents a unique fusion of vaping technology and the distinctive flavors associated with Amanita muscaria. Mushroom vape pens or cartridges are designed to deliver the aromatic and potentially therapeutic compounds present in the mushroom through inhalation. The process of creating mushroom vape typically involves extracting or infusing the mushroom's essential oils or extracts into a vape-friendly liquid. This liquid is then used in conjunction with a vape pen or device specifically designed for inhaling vapor. The result is a novel vaping experience that aims to capture the essence and flavors of Amanita muscaria. Potential Uses and Effects: Mushroom vape, particularly featuring Amanita muscaria, offers a unique sensory experience that may appeal to enthusiasts seeking novel and unconventional vaping flavors. When inhaled, the compounds present in the mushroom may interact with receptors in the body and potentially produce effects such as relaxation, altered perception, and a sense of well-being. The exact dosage, safety considerations, and long-term effects of inhaling Amanita muscaria compounds through vaping are not yet well-established. Safety Considerations and Legal Status: Engaging with mushroom vape, including Amanita muscaria, requires careful consideration of safety and legal aspects. The psychoactive compounds present in Amanita muscaria mushrooms can have varying effects on individuals, and proper dosage and responsible use are essential. Moreover, the legal status of mushroom vape, specifically featuring Amanita muscaria, is a complex and evolving area. Laws and regulations surrounding the vaping industry and the use of psychoactive substances differ from country to country and even within different regions. It is crucial to research and comply with the laws and regulations of the specific jurisdiction before engaging in the purchase, possession, or use of mushroom vape products. The emergence of mushroom vape, including Amanita muscaria, represents an innovative fusion of vaping technology and the unique flavors associated with this iconic mushroom. Mushroom vape offers enthusiasts a novel sensory experience that explores the flavors and potential effects of Amanita muscaria in a new context. However, it is important to approach mushroom vape with caution and responsibility. Safety considerations, such as proper dosage and responsible use, should be taken into account. Additionally, staying informed about the legal landscape surrounding mushroom vape and complying with relevant regulations is crucial for a legal and ethical engagement with these products. As the vaping culture evolves and new flavors and experiences are introduced, the concept of mushroom vape, including Amanita muscaria, will continue to be an intriguing aspect of this evolving industry. It offers enthusiasts an opportunity to explore unique flavors and potentially experience the aromatic and therapeutic properties associated with the mushroom. Further research and scientific studies are needed to better understand the effects, safety considerations of inhaling Amanita muscaria compounds through vaping. As with any psychoactive substance, responsible use, accurate dosing, and informed decision-making are essential to ensure a safe and enjoyable experience. It is important to note that the use of Amanita muscaria mushrooms, whether in traditional forms or as part of a mushroom vape, may not be suitable for everyone. Individuals with pre-existing health conditions, pregnant or nursing women, and those who are sensitive to psychoactive substances should exercise caution and seek  advice before engaging with mushroom vape. Additionally, it is crucial to purchase mushroom vape products from reputable sources to ensure quality and safety. Trusted manufacturers should follow strict quality control standards, including lab testing for contaminants and accurate labeling of ingredients and potency. In conclusion, mushroom vape featuring Amanita muscaria represents a unique and evolving aspect of the vaping industry. It offers enthusiasts a distinctive sensory experience and the potential to explore the flavors and effects associated with this enigmatic mushroom. However, responsible use, safety considerations, and compliance with legal regulations are essential when engaging with mushroom vape or any other psychoactive substance. As research continues to shed light on the potential risks, individuals interested in mushroom vape should stay informed and exercise caution.
   Updated: 2024-11-06T16:08:12Z
@@ -598,37 +598,37 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
   Updated: 2026-01-22T08:29:23Z
   Total Products: 1
 - [THC Gummies | Delta 8 & Delta 9 | Legal](https://yumzlab.com/collections/delta-9-thc-gummies): YUMZ Delta 9 THC gummies offer a legal and gradual high, perfect for a blissful experience. Top-quality Delta 8 live resin and full-spectrum cannabinoids.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 10
 - [6 Gram THC Disposable Vapes | Delta 9 | THCA | THCP](https://yumzlab.com/collections/6-gram-thc-disposable-vapes): Discover the Ultimate 6 Gram THC Disposable Vape Experience. Blended with Delta 8 + Delta 9 + THCA and THCP.  Step into the future of vaping with our premium digital screen THCA disposable vape collection. At YUMZ LAB, we’ve curated a range of vapes that blend the highest quality strains and terpenes.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 25
 - [FREE THC VAPE, GUMMIES & MORE ( DELTA 8 + DELTA 9 )](https://yumzlab.com/collections/free-thc-vape-gummies-more-delta-8-delta-9): Get your Free THC vape products, gummies, and other items containing Delta 8 and Delta 9 THC have gained popularity in regions where they are legal. THC, the psychoactive compound in , comes in these two forms, with Delta 8 offering a milder effect compared to Delta 9.
   Updated: 2026-02-25T12:12:43Z
   Total Products: 2
-- [THC-A Flower | Best Deals and Highest Potency](https://yumzlab.com/collections/thca-flower): Shop the best exotic THCA flower online at YUMZ - Our premium indoor strains are lab-tested, federally legal, and packed with terpenes.
-  Updated: 2026-03-07T12:15:23Z
+- [THCA Flower | Best Deals and Highest Potency](https://yumzlab.com/collections/thca-flower): Shop the best exotic THCA flower online at YUMZ - Our premium indoor strains are lab-tested, federally legal, and packed with terpenes.
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 45
 - [Dry Herb Devices](https://yumzlab.com/collections/dry-herb-devices): We've compiled some of our favorite dry herb devices that you can use to enjoy our THC-a flower. These dry herb vape devices are perfect for on-the-go occasions. Dry herb devices, or vaporizers, have become increasingly popular among those who prefer consuming natural herbs without combustion. These devices offer a cleaner and more efficient way to enjoy the benefits of herbs, providing users with a more controlled and flavorful experience. Let's delve into the different types of dry herb devices and their advantages.
   Updated: 2026-01-22T08:29:23Z
   Total Products: 4
 - [THC Gummies | THCA Vapes | THCA Flower | Magic Nootropics | Shop All](https://yumzlab.com/collections/shop-all-products): Shop all products for THC gummies, THCA Vapes, THCA Flower, Magic Nootropics, Kratom and 7-OH.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 46
 - [Catalog](https://yumzlab.com/collections/catalog)
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 511
 - [Sluggers Hit | THC | Blunts | Vapes | Flower](https://yumzlab.com/collections/sluggers-hit-thc-thca-blunts-vapes-flower): SLUGGERS Hit THC: Where Tradition Meets Innovation in . Exclusive THCA blunts, vapes and flower. We’re more than just a  brand.
-  Updated: 2026-03-07T12:15:23Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 34
 - [THC Blunts | THCA Blunts | Pre-Rolls | Joints](https://yumzlab.com/collections/thc-blunts-thca-blunts-pre-rolls-joints): Discover the best THC Blunts, THCA Blunts, Pre-Rolls & Joints at Yumz Lab. We use only the highest quality Exotic and Top Shelf strains for our products.
   Updated: 2026-01-22T08:29:24Z
   Total Products: 10
 - [Sluggers Hit | THCA Vapes | Pre-Rolls | Blunts & Flower](https://yumzlab.com/collections/sluggers-hit): Slugger’s Hit | Vapes | Pre-Rolls | Blunts – Premium Quality  brand specializing in THC and THCA vapes, pre-rolls, blunts, and premium flower.
-  Updated: 2026-03-07T12:15:23Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 34
 - [THCA Disposable Vape Pen](https://yumzlab.com/collections/thca-disposable-vape): THCA Disposable Vapes – Liquid Diamond Carts Unleash the power of Liquid Diamonds Live Resin with YUMZ THCA Vape Cartridges. Made with THCA, Delta 8, and THCP.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 50
 - [ICED - Frosted Flower - THCA Diamonds x Sluggers](https://yumzlab.com/collections/iced-frosted-flower-thca-diamonds-x-sluggers): ICED - Frosted Flower - THCA Diamonds x Sluggers Experience the ultimate in potency with ICED - Frosted Flower, a THCA product crafted for connoisseurs.
   Updated: 2026-01-22T08:29:24Z
@@ -658,28 +658,28 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
   Updated: 2026-02-13T12:15:11Z
   Total Products: 6
 - [Microdose THC Gummies](https://yumzlab.com/collections/microdose-thc-gummies): Microdose Yumz Delta 9 THC Gummies – Elevate Your Everyday Looking for a smooth, controlled THC experience? Our Microdose Yumz Delta 9 THC Gummies deliver just the right amount of relaxation, focus, and feel-good vibes—without going overboard. Why Microdose with Yumz? ✔ Gentle & Balanced – Enjoy a light, uplifting buzz without overwhelming effects.✔ Stay Productive – Boost creativity, focus, and relaxation while staying in control.✔ Perfect for Beginners & Experienced Users – A low-dose way to explore Delta 9 THC.✔ Delicious & Discreet – Convenient, tasty, and easy to take on the go. How to Microdose with Yumz Gummies Start Small: Begin with ½ a gummy and wait 45–60 minutes for effects. Adjust as Needed: Find your perfect dose based on your tolerance and goals. Enjoy the Benefits: Whether for stress relief, mood enhancement, or creativity, Yumz Delta 9 THC Gummies fit seamlessly into your lifestyle. Shop Now & Find Your Perfect Dose Experience the power of microdosing with Yumz Delta 9 THC Gummies—crafted for balance, relaxation, and daily enjoyment.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 5
 - [ Gummies For Men & Women](https://yumzlab.com/collections/-gummies-for-men-women): [stylesheet-group="0"]{} body{margin:0;} button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;} html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);} input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-webkit-search-results-button,input::-webkit-search-results-decoration{display:none;} [stylesheet-group="1"]{} .css-146c3p1{background-color:rgba(0,0,0,0.00);border:0 solid black;box-sizing:border-box;color:rgba(0,0,0,1.00);display:inline;font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;list-style:none;margin:0px;padding:0px;position:relative;text-align:start;text-decoration:none;white-space:pre-wrap;word-wrap:break-word;} .css-175oi2r{align-items:stretch;background-color:rgba(0,0,0,0.00);border:0 solid black;box-sizing:border-box;display:flex;flex-basis:auto;flex-direction:column;flex-shrink:0;list-style:none;margin:0px;min-height:0px;min-width:0px;padding:0px;position:relative;text-decoration:none;z-index:0;} .css-1jxf684{background-color:rgba(0,0,0,0.00);border:0 solid black;box-sizing:border-box;color:inherit;display:inline;font:inherit;list-style:none;margin:0px;padding:0px;position:relative;text-align:inherit;text-decoration:none;white-space:inherit;word-wrap:break-word;} .css-9pa8cd{bottom:0px;height:100%;left:0px;opacity:0;position:absolute;right:0px;top:0px;width:100%;z-index:-1;} [stylesheet-group="2"]{} .r-13awgt0{flex:1;} .r-1adg3ll{display:block;} .r-1jkafct{border-bottom-left-radius:2px;border-bottom-right-radius:2px;border-top-left-radius:2px;border-top-right-radius:2px;} .r-1phboty{border-bottom-style:solid;border-left-style:solid;border-right-style:solid;border-top-style:solid;} .r-1udh08x{overflow-x:hidden;overflow-y:hidden;} .r-4iw3lz{border-bottom-width:0;border-left-width:0;border-right-width:0;border-top-width:0;} .r-4qtqp9{display:inline-block;} .r-6koalj{display:flex;} .r-bztko3{overflow-x:visible;overflow-y:visible;} .r-crgep1{margin:0px;} .r-hvic4v{display:none;} .r-krxsd3{display:-webkit-box;} .r-rs99b7{border-bottom-width:1px;border-left-width:1px;border-right-width:1px;border-top-width:1px;} .r-sdzlij{border-bottom-left-radius:9999px;border-bottom-right-radius:9999px;border-top-left-radius:9999px;border-top-right-radius:9999px;} .r-t60dpp{padding:0px;} .r-wwvuq4{padding:0;} .r-xoduu5{display:inline-flex;} .r-ywje51{margin:auto;} .r-z2wwpe{border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-top-left-radius:4px;border-top-right-radius:4px;} [stylesheet-group="2.1"]{} .r-1559e4e{padding-bottom:2px;padding-top:2px;} .r-1fkl15p{padding-left:32px;padding-right:32px;} .r-3o4zer{padding-left:12px;padding-right:12px;} .r-3pj75a{padding-left:16px;padding-right:16px;} .r-cxgwc0{padding-left:24px;padding-right:24px;} .r-dd0y9b{padding-bottom:20px;padding-top:20px;} .r-ddtstp{margin-bottom:0px;margin-top:0px;} .r-dp7rxi{padding-bottom:40px;padding-top:40px;} .r-f8sm7e{margin-left:auto;margin-right:auto;} .r-n7gxbd{padding-left:4px;padding-right:4px;} .r-s49dbf{margin-bottom:1px;margin-top:1px;} .r-sjygvo{padding-left:1em;padding-right:1em;} [stylesheet-group="2.2"]{} .r-1ca1ndr{margin-left:0.5em;} .r-1ez5h0i{margin-left:4px;} .r-1gs4q39{margin-right:4px;} .r-1kkk96v{margin-left:8px;} .r-1kpi4qh{margin-left:0.075em;} .r-1l2kgy{margin-right:0.5em;} .r-1q6cnnd{right:-2px;} .r-1wron08{margin-right:8px;} .r-3t4u6i{margin-left:2px;} .r-45ll9u{left:50%;} .r-5f1w11{left:-2px;} .r-k4bwe5{margin-right:0.075em;} .r-o59np7{padding-right:8px;} .r-ocobd0{right:50%;} .r-qjj4hq{padding-left:8px;} .r-x1x4zq{margin-right:2px;} [stylesheet-group="3"]{} .r-105ug2t{pointer-events:auto!important;} .r-109y4c4{height:1px;} .r-10ptun7{height:16px;} .r-10v3vxq{transform:scaleX(-1);} .r-117bsoe{margin-bottom:20px;} .r-11c0sde{margin-top:24px;} .r-11j9u27{visibility:hidden;} .r-12181gd{box-shadow:0 0 2px rgba(0,0,0,0.03) inset;} .r-12sks89{min-height:22px;} .r-12vffkv>*{pointer-events:auto;} .r-12vffkv{pointer-events:none!important;} .r-12ym1je{width:18px;} .r-135wba7{line-height:24px;} .r-13qz1uu{width:100%;} .r-13wfysu{-webkit-text-decoration-line:none;text-decoration-line:none;} .r-146iojx{max-width:300px;} .r-1472mwg{height:24px;} .r-14j79pv{color:rgba(83,100,113,1.00);} .r-14lw9ot{background-color:rgba(255,255,255,1.00);} .r-15ysp7h{min-height:32px;} .r-16dba41{font-weight:400;} .r-16y2uox{flex-grow:1;} .r-176fswd{transform:translateX(-50%) translateY(-50%);} .r-1777fci{justify-content:center;} .r-17bb2tj{animation-duration:0.75s;} .r-17leim2{background-repeat:repeat;} .r-17s6mgv{justify-content:flex-end;} .r-18jsvk2{color:rgba(15,20,25,1.00);} .r-18tzken{width:56px;} .r-18u37iz{flex-direction:row;} .r-18yzcnr{height:22px;} .r-19wmn03{width:20px;} .r-19yznuf{min-height:52px;} .r-1abnn5w{animation-play-state:paused;} .r-1acpoxo{width:36px;} .r-1ad0z5i{word-break:break-all;} .r-1awozwy{align-items:center;} .r-1b43r93{font-size:14px;} .r-1betnmo{max-width:672px;} .r-1blnp2b{width:72px;} .r-1blvdjr{font-size:23px;} .r-1ceczpf{min-height:24px;} .r-1cwl3u0{line-height:16px;} .r-1d2f490{left:0px;} .r-1ddef8g{-webkit-text-decoration-line:underline;text-decoration-line:underline;} .r-1ebb2ja{list-style:none;} .r-1ff274t{text-align:right;} .r-1gkfh8e{font-size:11px;} .r-1h0z5md{justify-content:flex-start;} .r-1h8ys4a{padding-top:4px;} .r-1hjwoze{height:18px;} .r-1iln25a{word-wrap:normal;} .r-1inkyih{font-size:17px;} .r-1ipicw7{width:300px;} .r-1iusvr4{flex-basis:0px;} .r-1janqcz{width:16px;} .r-1jaylin{width:-webkit-max-content;width:-moz-max-content;width:max-content;} .r-1k78y06{font-family:Tahoma, Arial, sans-serif;} .r-1kihuf0{align-self:center;} .r-1ldzwu0{animation-timing-function:linear;} .r-1loqt21{cursor:pointer;} .r-1mlwlqe{flex-basis:auto;} .r-1mrlafo{background-position:0;} .r-1muvv40{animation-iteration-count:infinite;} .r-1mwlp6a{height:56px;} .r-1nao33i{color:rgba(231,233,234,1.00);} .r-1niwhzg{background-color:rgba(0,0,0,0.00);} .r-1ny4l3l{outline-style:none;} .r-1oifz5y{background-color:rgba(170,17,0,1.00);} .r-1oszu61{align-items:stretch;} .r-1otgn73{touch-action:manipulation;} .r-1p0dtai{bottom:0px;} .r-1pi2tsx{height:100%;} .r-1ps3wis{min-width:44px;} .r-1qd0xha{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;} .r-1qi8awa{min-width:36px;} .r-1r5jyh0{min-height:130px;} .r-1r8g8re{height:36px;} .r-1s2hp8q{min-height:26px;} .r-1sxrcry{background-size:auto;} .r-1tl8opc{font-family:"Segoe UI",Meiryo,system-ui,-apple-system,BlinkMacSystemFont,sans-serif;} .r-1to6hqq{background-color:rgba(255,212,0,1.00);} .r-1ttztb7{text-align:inherit;} .r-1udbk01{text-overflow:ellipsis;} .r-1v2oles{top:50%;} .r-1vmecro{direction:rtl;} .r-1vr29t4{font-weight:800;} .r-1wb8bfx{text-decoration-thickness:2px;} .r-1wbh5a2{flex-shrink:1;} .r-1wyyakw{z-index:-1;} .r-1xcajam{position:fixed;} .r-1xk2f4g{clip:rect(1px, 1px, 1px, 1px);} .r-1xnzce8{-moz-user-select:text;-webkit-user-select:text;user-select:text;} .r-1xvli5t{height:1.25em;} .r-1y7e96w{min-width:22px;} .r-1ye8kvj{max-width:600px;} .r-1yef0xd{animation-name:r-11cv4x;} .r-1yjpyg1{font-size:31px;} .r-1ykxob0{top:60%;} .r-2o02ov{margin-top:40px;} .r-2tavb8{background-color:rgba(0,0,0,0.60);} .r-2yi16{min-height:36px;} .r-36ujnk{font-style:italic;} .r-37tt59{line-height:32px;} .r-3s2u2q{white-space:nowrap;} .r-417010{z-index:0;} .r-4gszlv{background-size:cover;} .r-4wgw6l{min-width:32px;} .r-54znze{color:rgba(239,243,244,1.00);} .r-56xrmm{line-height:12px;} .r-6026j{background-color:rgba(255,255,255,0.85);} .r-633pao{pointer-events:none!important;} .r-6416eg{-moz-transition-property:background-color, box-shadow;-webkit-transition-property:background-color, box-shadow;transition-property:background-color, box-shadow;} .r-64el8z{min-width:52px;} .r-7q8q6z{cursor:default;} .r-8akbws{-webkit-box-orient:vertical;} .r-8jfcpp{top:-2px;} .r-92ng3h{width:1px;} .r-a023e6{font-size:15px;} .r-adyw6z{font-size:20px;} .r-agouwx{transform:translateZ(0);} .r-ah5dr5>*{pointer-events:none;} .r-ah5dr5{pointer-events:auto!important;} .r-aqfbo4{backface-visibility:hidden;} .r-b88u0q{font-weight:700;} .r-bcqeeo{min-width:0px;} .r-bnwqim{position:relative;} .r-bt1l66{min-height:20px;} .r-bvlit7{margin-bottom:-12px;} .r-deolkf{box-sizing:border-box;} .r-dflpy8{height:1.2em;} .r-dnmrzs{max-width:100%;} .r-ehq7j7{background-size:contain;} .r-emqnss{transform:translateZ(0px);} .r-eqz5dr{flex-direction:column;} .r-ero68b{min-height:40px;} .r-fdjqy7{text-align:left;} .r-fm7h5w{font-family:"TwitterChirpExtendedHeavy","Verdana",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;} .r-h9hxbl{width:1.2em;} .r-icoktb{opacity:0.5;} .r-ifefl9{min-height:0px;} .r-impgnl{transform:translateX(50%) translateY(-50%);} .r-iphfwy{padding-bottom:4px;} .r-ipm5af{top:0px;} .r-jmul1s{transform:scale(1.1);} .r-jwli3a{color:rgba(255,255,255,1.00);} .r-kemksi{background-color:rgba(0,0,0,1.00);} .r-lp5zef{min-width:24px;} .r-lrsllp{width:24px;} .r-lrvibr{-moz-user-select:none;-webkit-user-select:none;user-select:none;} .r-m6rgpd{vertical-align:text-bottom;} .r-majxgm{font-weight:500;} .r-n6v787{font-size:13px;} .r-nwxazl{line-height:40px;} .r-o7ynqc{transition-duration:0.2s;} .r-peo1c{min-height:44px;} .r-poiln3{font-family:inherit;} .r-pp5qcn{vertical-align:-20%;} .r-q4m81j{text-align:center;} .r-qlhcfr{font-size:0.001px;} .r-qvk6io{line-height:0px;} .r-qvutc0{word-wrap:break-word;} .r-rjixqe{line-height:20px;} .r-rki7wi{bottom:12px;} .r-sb58tz{max-width:1000px;} .r-tjvw6i{text-decoration-thickness:1px;} .r-u6sd8q{background-repeat:no-repeat;} .r-u8s1d{position:absolute;} .r-ueyrd6{line-height:36px;} .r-uho16t{font-size:34px;} .r-vkv6oe{min-width:40px;} .r-vlxjld{color:rgba(247,249,249,1.00);} .r-vqxq0j{border:0 solid black;} .r-vrz42v{line-height:28px;} .r-vvn4in{background-position:center;} .r-wy61xf{height:72px;} .r-x3cy2q{background-size:100% 100%;} .r-x572qd{background-color:rgba(247,249,249,1.00);} .r-xigjrr{-webkit-filter:blur(4px);filter:blur(4px);} .r-yc9v9c{width:22px;} .r-yfoy6g{background-color:rgba(21,32,43,1.00);} .r-yy2aun{font-size:26px;} .r-yyyyoo{fill:currentcolor;} .r-z7pwl0{max-width:700px;} .r-z80fyv{height:20px;} .r-zchlnj{right:0px;} @-webkit-keyframes r-11cv4x{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}} @keyframes r-11cv4x{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}} .r-e2nmo{position:absolute;visibility:hidden;top:0;width:50px;pointer-events:none} .r-e2nmo.loaded{visibility:visible;top:50vh;width:50px}  Gummies For Men & Women – Ignite Your Passion NaturallyLooking to spice things up in the bedroom? Our  Gummies For Men & Women are your deliciously fun secret to unlocking intimacy, boosting libido, and enhancing pleasure—naturally! Crafted with premium, libido-supporting ingredients, these gummies are designed to support  wellness for both partners, so you can feel confident, energized, and in the mood whenever the moment strikes. Whether you’re a guy wanting to elevate stamina and performance or a woman seeking to reignite desire and connection, our  gummies offer a tasty, stress-free way to bring back that spark. No pills, no fuss—just pop a gummy and let the good vibes roll. Made with natural flavors and free from artificial junk, they’re as enjoyable as they are effective. Perfect for couples or solo adventurers, our  Gummies For Men & Women fit seamlessly into your routine. Ready to feel sexy, supported, and satisfied? Try them today and discover why these little treats are the talk of the town for  health and wellness.
   Updated: 2026-01-22T08:29:24Z
   Total Products: 1
 - [THCA Liquid Diamond Carts](https://yumzlab.com/collections/thca-liquid-diamond-carts): THCA Liquid Diamond Carts Collection Premium THCA Liquid Diamond Carts – Unmatched Purity & Potency Experience the pinnacle of vaping with our THCA Liquid Diamond Carts, crafted for those who demand the highest quality and smoothest hits. These carts are made with pure THCA diamonds, expertly melted into a liquid form for maximum potency and flavor. Why Choose Our THCA Liquid Diamond Carts? ✅ High Potency – Ultra-pure THCA diamonds for a powerful experience.✅ Smooth & Flavorful – Strain-specific terpenes for bold flavors.✅ Lab-Tested & Farm Bill Compliant – Ensuring quality and legal compliance.✅ No Fillers, No Additives – 100% pure extract for the cleanest hits. Explore Our Premium Strains! Upgrade your vape game today. Shop our THCA Liquid Diamond Carts now and experience the next level of potency and purity! Would you like me to tailor this to your brand’s tone or include specific strain names?
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 50
 - [AVADA - Best Sellers](https://yumzlab.com/collections/avada-best-sellers)
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 511
 - [THCA Carts](https://yumzlab.com/collections/thca-vape-carts): THCA Carts – Strain Specific - Indica, Hybrid, Sativa. Looking for the next level vape cart? Say hello to our THC-A Cartridges – where purity meets power.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-13T11:13:31Z
   Total Products: 22
 - [Pixie Dust THCA | Vapes | Carts | Flower](https://yumzlab.com/collections/pixie-dust-thca-vapes-carts-flower): Pixie Dust THCA – Vapes, Carts & Flower Get ready to float. Magically potent experience — crafted for connoisseurs who crave purity, power, and flavor.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-11T11:12:02Z
   Total Products: 4
 - [Half Bakd THCA | Vapes | Carts | Flower](https://yumzlab.com/collections/half-bakd-thca-vapes-carts-flower): Half Bakd THCA – Vapes | Carts | Flower: This ain’t your average smoke. Full throttle THCA heat for those who like their highs loud, flavorful, and unfiltered.
   Updated: 2026-02-09T12:10:58Z
   Total Products: 18
 - [AFTER DARK 🍒](https://yumzlab.com/collections/after-dark): YUMZ | AFTER DARK 🍒 Feel Good. Play Bold. Your go-to destination for elevated intimacy, connection, and wellness.  gummies and chocolates for him and her.
-  Updated: 2026-02-26T12:14:54Z
+  Updated: 2026-03-10T11:12:59Z
   Total Products: 17
 - [THC Infused Drinks](https://yumzlab.com/collections/thc-infused-drinks): THC-Infused Drinks – Sip, Chill & Elevate. Discover the future of refreshment with our Farm Bill compliant THC-Infused Drinks a delicious way to relax.
   Updated: 2026-02-21T12:12:52Z
@@ -691,7 +691,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
   Updated: 2026-01-22T08:29:25Z
   Total Products: 3
 - [Boner Bears | Gummies | Honey | Chocolates](https://yumzlab.com/collections/boner-bears): Boner Bears: Bold gummies, chocolates & honeys that mix flavor, fun, and function. Edibles designed to boost confidence with a playful edge.
-  Updated: 2026-02-26T12:14:54Z
+  Updated: 2026-03-10T11:12:59Z
   Total Products: 7
 - [Baked THC Edibles 👨‍🍳🍪🍫](https://yumzlab.com/collections/baked-edibles-👨‍🍳🍪🍫): Baked THC Edibles – Deliciously Potent Treats. The timeless experience of baked THC edibles. From gooey brownies to soft cookies and other oven-fresh favorites.
   Updated: 2026-01-25T12:11:28Z
@@ -700,10 +700,10 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
   Updated: 2026-01-22T08:29:25Z
   Total Products: 0
 - [YUMZ | ALL PRODUCTS](https://yumzlab.com/collections/yumz-all-products)
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 65
 - [Legal THCA Flower](https://yumzlab.com/collections/legal-thca-flower): Shop the highest potency Legal THCA Flower online. Premium indoor-grown, lab-tested, and organic. Exotic strains delivered with discreet shipping.
-  Updated: 2026-03-07T12:15:23Z
+  Updated: 2026-03-15T11:13:22Z
   Total Products: 45
 - [Best Kratom Gummies](https://yumzlab.com/collections/best-kratom-gummies): Shop the best kratom gummies made for flavor, convenience, and consistency. YUMZ kratom-infused gummies designed as an alternative to kratom powder or capsules.
   Updated: 2026-02-18T20:57:06Z
@@ -712,8 +712,44 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
   Updated: 2026-02-26T03:25:50Z
   Total Products: 2
 - [2 Gram THC Disposable Vapes | Delta 9 | THCA | THCP](https://yumzlab.com/collections/2-gram-thc-disposable-vapes-delta-9-thca-thcp): Experience the future of vaping with 2g Digital Disposable vape. Featuring potent D9 + THCA + THCP blends our premium vapes deliver pure flavor and quality.
-  Updated: 2026-03-08T11:12:14Z
+  Updated: 2026-03-13T11:13:31Z
   Total Products: 17
+- [Deep Sleep Gummies](https://yumzlab.com/collections/deep-sleep-gummies): Struggling to sleep? Shop our Deep Sleep THC Gummies. Formulated to promote deep relaxation and restorative rest without the morning grogginess. Shop now!
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [10mg THC Gummies](https://yumzlab.com/collections/10mg-thc-gummies): Elevate your vibe with our 10mg Live Resin THC Gummies. Packed with natural terpenes for a full-spectrum, true-to-plant experience. Shop our collection today!
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [Legal THC Gummies | Order Online Today](https://yumzlab.com/collections/legal-thc-gummies): Shop for 100% federally legal, hemp-derived Delta-9 THC gummies. Enjoy the classic THC experience safely, legally, and delivered right to your door.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [THC Infused Gummies](https://yumzlab.com/collections/thc-infused-gummies): Shop our premium collection of THC infused gummies. Enjoy delicious, accurately dosed, and lab-tested  edibles for a perfectly consistent high.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [Full Spectrum THC Gummies](https://yumzlab.com/collections/full-sectrum-thc-gummies): Shop our premium Full Spectrum THC Gummies. Experience the powerful entourage effect with delicious, lab-tested edibles packed with natural plant compounds.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [THC Gummies For Adults](https://yumzlab.com/collections/thc-gummies-for-adults): Shop premium THC gummies for adults. Discover delicious, accurately dosed, and lab-tested  edibles designed for relaxation and stress relief. Must be 21+.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [D9 Gummies | THC](https://yumzlab.com/collections/d9-gummies): Buy premium D9 gummies THC online. Shop delicious, federally legal, and third-party lab tested Delta 9 edibles for a smooth, reliable, and powerful high.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [THC Gummies For Beginners](https://yumzlab.com/collections/thc-gummies-for-beginners): New to edibles? Shop our premium THC gummies for beginners. Discover delicious, low-dose, and lab-tested  gummies for a safe, gentle, and manageable high.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [10mg  Gummies](https://yumzlab.com/collections/10mg--gummies): Shop our top-rated 10mg  gummies for the perfect, consistent high. Enjoy delicious, lab-tested  edibles packed with mouth-watering fruit flavors.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [Best Vegan THC Gummies](https://yumzlab.com/collections/best-vegan-thc-gummies): Shop the best vegan THC gummies online. Enjoy delicious, plant-based, and gelatin-free  edibles crafted for a clean, consistent, and premium high.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 10
+- [THCA Hemp Flower](https://yumzlab.com/collections/thca-hemp-flower): Shop the highest potency Legal THCA Flower online. Premium indoor-grown, lab-tested, and organic. Exotic strains delivered with discreet shipping.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 45
+- [Exotic THCA Flower](https://yumzlab.com/collections/exotic-thca-flower): Shop our premium collection of exotic THCa flower. Discover rare indoor genetics, loud terpenes, and lab-tested, federally legal  grown for true connoisseurs.
+  Updated: 2026-03-15T11:13:22Z
+  Total Products: 45
 
 ## Blogs
 
@@ -1207,6 +1243,54 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Updated: 2026-03-08T16:01:00Z
     Author: Yumzlab Editorial Team
     Tags: cannabinoids,  industry news,  policy, hemp regulations,  , South Dakota , THC products, Yumz Lab
+  - [Nebraska's  Conundrum: Federal Snubs & What It Means](https://yumzlab.com/blogs/news/nebraskas--conundrum-federal-snubs-what-it-means): Senator Ricketts sidesteps   protections, leaving Nebraska in a legal gray area. Explore the federal-state  conflict and its impact on consumers.
+    Updated: 2026-03-09T16:01:05Z
+    Author: Yumzlab Editorial Team
+    Tags:  legalization,  policy, Delta 9 THC, federal  law, hemp industry,  , Nebraska , THCA, Yumz Lab
+  - [ Smell Rocks Soccer Club: Unpacking  in Professional Sports](https://yumzlab.com/blogs/news/-smell-rocks-soccer-club-unpacking--in-professional-sports): A Portuguese soccer club faces a fine due to  aroma, sparking debate. Explore regulatory implications, consumer impact, and the evolving place of hemp and THC in public life.
+    Updated: 2026-03-10T04:00:55Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, ,  and sports,  industry news,  legalization, CBD, Delta 9 gummies, hemp, hemp regulations, , THC, THC products, THCA, vape disposables
+  - [Federal Mortgage Access for  Workers: A Game-Changer?](https://yumzlab.com/blogs/news/federal-mortgage-access-for--workers-a-game-changer): Explore how a new Senate amendment could allow  industry workers to qualify for federal mortgage loans, shifting the financial landscape for thousands.
+    Updated: 2026-03-10T16:01:04Z
+    Author: Yumzlab Editorial Team
+    Tags:  legalization,  news, federal mortgage loans, hemp regulations,  industry
+  - [Harlee Case & New Constellations: True  Empowerment Beyond the Hype](https://yumzlab.com/blogs/news/harlee-case-new-constellations-true--empowerment-beyond-the-hype): Explore Harlee Case's authentic impact on  culture, female empowerment, and Portland's scene. Discover how Yumzlab champions quality, legal hemp-derived products for genuine wellness.
+    Updated: 2026-03-11T04:00:49Z
+    Author: Yumzlab Editorial Team
+    Tags: ,  culture, CBD, female empowerment, Harlee Case, hemp, legal , THC, wellness
+  - [Youth Safety Bill: Navigating   Challenges Online](https://yumzlab.com/blogs/news/youth-safety-bill-navigating---challenges-online): Congress's new Kids Internet and Digital Safety (KIDS) Act aims to protect youth online. Discover how this bill could complicate legal   and impact your access to hemp and THC products.
+    Updated: 2026-03-11T16:01:06Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids,  law, hemp regulations, online safety, THC , Yumz Lab
+  - [IRS Stands Firm: 280E Tax Burden Remains for  Businesses (For Now)](https://yumzlab.com/blogs/news/irs-stands-firm-280e-tax-burden-remains-for--businesses-for-now): The IRS rejects calls for court-forced 280E tax exemptions for  businesses. Explore what this means for the industry, consumers, and the future of legal .
+    Updated: 2026-03-12T04:00:49Z
+    Author: Yumzlab Editorial Team
+    Tags:  policy,  tax, DEA, hemp industry, IRS 280E, legal ,  rescheduling, THCA
+  - [Ohio  & Hemp Laws: A Critical Ballot Fight Explained](https://yumzlab.com/blogs/news/ohio--hemp-laws-a-critical-ballot-fight-explained): Ohioans are fighting to protect access to  and hemp products. Explore the ballot referendum, its impact on consumers, and the future of Ohio's  market.
+    Updated: 2026-03-12T16:01:12Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, , CBD, hemp, industry news, legalization, , Ohio, regulations, THC
+  - [Snoop Dogg's 'Smoke  Everyday' Trademark Denied: What It Means for  IP](https://yumzlab.com/blogs/news/snoop-doggs-smoke--everyday-trademark-denied-what-it-means-for--ip): Explore why Snoop Dogg’s 'Smoke  Everyday' trademark was denied. Unpack federal  laws, intellectual property challenges, and what this means for consumers and the hemp industry.
+    Updated: 2026-03-13T04:00:49Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, ,  legalization, Delta 9 gummies, hemp, hemp regulations, intellectual property, , Snoop Dogg, THC, THCA flower, USPTO, vape disposables
+  - [Fair Future Act: Ending Housing Discrimination for  Convictions](https://yumzlab.com/blogs/news/fair-future-act-ending-housing-discrimination-for--convictions): Discover the Fair Future Act, a crucial bipartisan bill aiming to end housing discrimination for past  and  convictions. Understand its impact on housing equality and the future of legal  access.
+    Updated: 2026-03-13T16:01:06Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids,  news,  policy reform, Fair Future Act, hemp industry, housing reform,  legislation
+  - [Massachusetts Legal  Market Crushing  Sales: A Deep Dive](https://yumzlab.com/blogs/news/massachusetts-legal--market-crushing--sales-a-deep-dive): A new MA report reveals regulated  is thriving despite rollback threats, significantly displacing  sales. Explore insights, consumer impact, and why legal markets succeed.
+    Updated: 2026-03-14T04:01:06Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, ,  industry news,  legalization, CBD, hemp, hemp regulations, , THC, THC products
+  - [Georgia's   Leap: Expanding Access & Patient Choice](https://yumzlab.com/blogs/news/georgias---leap-expanding-access-patient-choice): Georgia modernizes its   program, offering expanded access and new hope for patients. Discover the impacts, legal nuances, and what it means for consumers and the wellness market.
+    Updated: 2026-03-14T16:01:03Z
+    Author: Yumzlab Editorial Team
+    Tags:  legalization,  news, Delta 9 gummies, Georgia  , hemp laws,   access, THCA products
+  - [Texas Hemp Under Siege? New Rules Spark Raid Fears & Confusion](https://yumzlab.com/blogs/news/texas-hemp-under-siege-new-rules-spark-raid-fears-confusion): Unpacking Texas's confusing new hemp rules: Why industry advocates fear a spike in raids and what it means for consumers of legal THC and CBD products. Stay informed with Yumz Lab.
+    Updated: 2026-03-15T16:01:03Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, , CBD, Delta-9, hemp, hemp industry news, legalization, regulations, Texas, THC, THCA
 - [Blog](https://yumzlab.com/blogs/blog)
   - [Can You Buy THC Vapes on Amazon? A Comprehensive  Alert Guide](https://yumzlab.com/blogs/blog/can-you-buy-thc-vapes-on-amazon-a-comprehensive--alert-guide): Discover why you can’t buy THC vapes on Amazon and how to safely buy legal  vape products online.
     Updated: 2026-01-28T00:20:07Z
@@ -1496,6 +1580,62 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
     Updated: 2026-03-08T19:01:43Z
     Author: Yumzlab Editorial Team
     Tags: cannabinoids, , Delta 9, hemp, HHC, THC, THCA, wellness
+  - [Tolerance Breaks: The Science of Resensitizing Your  Receptors](https://yumzlab.com/blogs/blog/tolerance-breaks-the-science-of-resensitizing-your--receptors): Discover the biological process behind  tolerance and learn how strategic tolerance breaks can resensitize your endocannabinoid receptors for a renewed and potent experience. Get back to feeling the full effects!
+    Updated: 2026-03-09T07:01:22Z
+    Author: Yumzlab Editorial Team
+    Tags: , Delta 9, endocannabinoid system, hemp, receptors, resensitization, THC, THCA, tolerance break
+  - [Hemp-Derived Delta-9 vs.  Delta-9: The Ultimate Guide](https://yumzlab.com/blogs/blog/hemp-derived-delta-9-vs--delta-9-the-ultimate-guide): Unpack the crucial differences between hemp-derived Delta-9 THC and  Delta-9. Discover legality, effects, and sourcing insights from Yumzlab.
+    Updated: 2026-03-09T19:01:21Z
+    Author: Yumzlab Editorial Team
+    Tags: 2018 Farm Bill, Cannabinoids,  Legality, Delta-9 THC, Hemp, , THC Gummies, Yumz Lab
+  - [The Big vs. Small Bud Battle: Large Scale Grow vs. Craft Micro-Growery](https://yumzlab.com/blogs/blog/the-big-vs-small-bud-battle-large-scale-grow-vs-craft-micro-growery): Unpack the debate between massive commercial  farms and dedicated craft micro-groweries. Discover quality, innovation, and what truly sets your favorite THC products apart.
+    Updated: 2026-03-10T07:01:18Z
+    Author: Yumzlab Editorial Team
+    Tags:  cultivation, craft , large scale grow, micro-growery, THC products
+  - [Top Indoor THCA Flower Strains of 2026: A Connoisseur's Guide](https://yumzlab.com/blogs/blog/top-indoor-thca-flower-strains-of-2026-a-connoisseurs-guide): Discover the best indoor THCA flower strains for 2026. Explore high-potency options, legal insights, and expert tips for buying premium hemp flower.
+    Updated: 2026-03-10T19:01:29Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, hemp flower, indoor , legal , THCA flower
+  - [Legal THC Rising: Why You Can Buy  Online Now](https://yumzlab.com/blogs/blog/legal-thc-rising-why-you-can-buy--online-now): Discover how the 2018 Farm Bill changed everything for THC access. Learn about legal hemp-derived cannabinoids, online purchasing, and product variety at Yumzlab.
+    Updated: 2026-03-11T07:01:28Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, , Delta-9, hemp, legal  shop, THC, THCA
+  - [Working Out High: , Athletes, & The Evolving Game](https://yumzlab.com/blogs/blog/working-out-high--athletes-the-evolving-game): Explore the controversial intersection of  and sports. Discover how athletes use THC and CBD for performance, recovery, and what regulations are changing.
+    Updated: 2026-03-11T19:01:19Z
+    Author: Yumzlab Editorial Team
+    Tags: athletes, , CBD, hemp, recovery, regulation, sports, THC, wellness
+  - [ in Ancient : A Deep Look at Its Historic Uses](https://yumzlab.com/blogs/blog/-in-ancient--a-deep-look-at-its-historic-uses): Explore the rich history of  in ancient , uncovering its therapeutic uses across cultures for centuries. Discover its journey to modern wellness.
+    Updated: 2026-03-12T07:01:23Z
+    Author: Yumzlab Editorial Team
+    Tags: ancient , cannabinoids,  history, hemp wellness, THC history
+  - [Yumz Lab THCA Vape Review: Unpacking Premium Hemp Vaping](https://yumzlab.com/blogs/blog/yumz-lab-thca-vape-review-unpacking-premium-hemp-vaping): Discover the Yumz Lab THCA vape experience. This review explores THCA's effects, legality, and how our premium hemp vapes offer a potent, high-quality journey. Find your ideal  pen today.
+    Updated: 2026-03-12T19:01:20Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, hemp vape, THC, THCA vape, Yumz Lab
+  - [Unleashing Flavor: The Best Portable Dry Herb Vaporizers for THCA Flower](https://yumzlab.com/blogs/blog/unleashing-flavor-the-best-portable-dry-herb-vaporizers-for-thca-flower): Discover top portable dry herb vaporizers for THCA flower. Learn about convection, conduction, and hybrid heating for pure, potent vapor. Elevate your  experience!
+    Updated: 2026-03-13T07:01:26Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids,  wellness, hemp flower, portable dry herb vaporizers, THCA flower, vaping THCA, vaporizer guide
+  - [Yumz Lab Shipping Speed Review: What to Expect When You Buy Online](https://yumzlab.com/blogs/blog/yumz-lab-shipping-speed-review-what-to-expect-when-you-buy-online): Curious about Yumz Lab's shipping? Get the honest truth on delivery times, tracking, and how to get your premium hemp products fast. Your complete guide!
+    Updated: 2026-03-13T19:01:15Z
+    Author: Yumzlab Editorial Team
+    Tags: buy THC online,  shipping, Delta 9 gummies delivery, hemp delivery speed, legal  delivery, THCA flower shipping, Yumz Lab review, Yumz Lab shipping
+  - [Unlock Your Morning Buzz: The Complete Guide to Making THC Sugar for Coffee and Tea](https://yumzlab.com/blogs/blog/unlock-your-morning-buzz-the-complete-guide-to-making-thc-sugar-for-coffee-and-tea): Learn how to make potent THC sugar at home for infused coffee and tea. This Yumzlab guide covers legal cannabinoids, decarboxylation, precise dosing, and responsible consumption.
+    Updated: 2026-03-14T07:01:32Z
+    Author: Yumzlab Editorial Team
+    Tags:  edibles, Delta 9 THC, hemp-derived THC, infused coffee, THC sugar, THC tea
+  - [Clear Vision: Your Expert Guide to Preventing 'Red Eyes' from ](https://yumzlab.com/blogs/blog/clear-vision-your-expert-guide-to-preventing-red-eyes-from-): Unmask the science behind -induced red eyes and discover the best eye drops, natural remedies, and proactive tips to keep your eyes clear and comfortable. Yumzlab's guide empowers your  wellness journey.
+    Updated: 2026-03-14T19:01:21Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, ,  wellness, CBD, eye drops, hemp, legal , red eyes, THC, Yumzlab
+  - [Targeting "Pain Points": How  Offers Real Relief](https://yumzlab.com/blogs/blog/targeting-pain-points-how--offers-real-relief): Explore how , from Delta 9 gummies to THCA flower, targets various "pain points" for wellness. Discover natural relief options with Yumz Lab.
+    Updated: 2026-03-15T07:01:23Z
+    Author: Yumzlab Editorial Team
+    Tags: cannabinoids, , CBD, Delta 9 gummies, hemp, pain relief, THC, THCA flower, vape disposables, wellness
+  - [ Lounges & Hospitality: Redefining Social & Wellness Experiences](https://yumzlab.com/blogs/blog/-lounges-hospitality-redefining-social-wellness-experiences): Explore the exciting future of  lounges and hospitality. Discover evolving consumption spaces, wellness hubs, and innovative experiences in the legal  world.
+    Updated: 2026-03-15T19:01:23Z
+    Author: Yumzlab Editorial Team
+    Tags:  hospitality,  lounges, hemp consumption, legal  experiences, THC lounges, Yumzlab
 
 ## Store Pages
 
@@ -1506,7 +1646,7 @@ YUMZ crafts premium laboratory-tested hemp-derived products, specializing in hig
 - [About Us](https://yumzlab.com/pages/about-us): Welcome to Yumz Lab, your one-stop destination for the highest quality products in the market. Founded in 2023, we are committed to delivering exce...
   Updated: 2023-09-21T08:27:16Z
 - [Lab Results](https://yumzlab.com/pages/lab-results): Here at YUMZ, we take pride in crafting premium products that are fully compliant with the 2018 Farm Bill. This means all our products contain less...
-  Updated: 2026-03-04T22:15:34Z
+  Updated: 2026-03-11T19:02:19Z
 - [COA ( Certificate Of Analysis )](https://yumzlab.com/pages/coa-certificate-of-analysis): We take great pride in the quality and consistency of our products. Please find our COA's below. YUMZ - Amanita Muscaria - 7000mg - Gummies
   Updated: 2024-04-01T09:16:31Z
 - [Disposable Vape 2024 (6 Grams)(Delta 8 to 10+TCH-P+HHC)](https://yumzlab.com/pages/best-disposable-vape-2023-6-grams-delta-8-delta-9-delta-10-tch-p-hhc): The Future of Vaping: Introducing YUMZ LAB's 6-Gram THC Digital Disposable Vape iving into the heart of innovation, the world of  consisten...
