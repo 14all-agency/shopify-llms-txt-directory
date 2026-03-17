@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2026-01-27T00:00:39.592Z
+- Updated At: 2026-03-17T02:55:31.841Z
 
 ## Products
 
 - [Get Bali Coffee | With LavaLoom Experience Luxurious Velvet Flavor](https://www.brewtheblend.com/products/lavaloom): Experience the smooth richness of our LavaLoom coffee, crafted with Bali blue coffee beans. A unique blend that offers a delightful taste with every sip.
-  Updated: 2025-11-27T12:49:03Z
+  Updated: 2026-02-13T17:24:33Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $102.00 USD
 - [Peruvian Elegance](https://www.brewtheblend.com/products/peruvian-elegance): Peruvian Elegance offers a refined and gentle coffee experience. Peruvian Elegance is an uplifting brew—perfect for slow mornings and quiet moments.
-  Updated: 2025-11-27T12:51:04Z
+  Updated: 2026-03-17T02:27:43Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $52.00 USD
 - [Brew’s Ease Decaf Coffee – Smooth Swiss Water® Peruvian Decaf](https://www.brewtheblend.com/products/brew-ease-decaf): Enjoy Brew’s Ease Decaf, a smooth Peruvian medium roast decaffeinated by the Swiss Water® Process. Sweet citrus, caramel & chocolate notes—calm, rich flavor anytime.
-  Updated: 2026-01-06T03:01:37Z
+  Updated: 2026-03-17T02:27:12Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -70,11 +70,11 @@
     Price: $23.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/brew-ease-decaf?variant=46017287520508)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_whole_12_oz_black.jpg?v=1767625275
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_whole_12_oz_black.jpg?v=1773714415
     Price: $23.00 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/brew-ease-decaf?variant=46017287782652)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_Drip_2_lb_black.jpg?v=1767625275
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_Drip_2_lb_black.jpg?v=1773714418
     Price: $55.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/brew-ease-decaf?variant=46017287749884)
     Availability: Available
@@ -89,7 +89,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Buy Brillaberry Coffee | A Burst of Fruity Flavor in Every Sip](https://www.brewtheblend.com/products/brillaberry): Enjoy the natural sweetness of coffee berry fruit in our Brillaberry blend. A unique coffee with bright, berry-forward flavors in every sip.
-  Updated: 2025-11-30T23:30:23Z
+  Updated: 2026-03-17T02:26:53Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -113,11 +113,11 @@
     Availability: Available
     Price: $99.00 USD
 - [Daygold](https://www.brewtheblend.com/products/daygold): Daygold is Brew the Blend's Blonde Sweet Roast, crafted from specialty-grade beans sourced in Central America and Africa. Solo or in a latte, Daygol is the perfect choice.
-  Updated: 2025-11-27T12:46:32Z
+  Updated: 2026-03-17T02:26:49Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Golden_Sunlight_Front_7085faf8-f381-4aa3-ab27-4bac88ee3b1e.png?v=1734373620
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Golden-Sunlight-Front-7085faf8-f381-4aa3-ab27-4bac88ee3b1e-_1.png?v=1773714392
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/daygold?variant=46017296007420)
     Availability: Available
     Price: $22.00 USD
@@ -137,14 +137,14 @@
     Availability: Available
     Price: $94.00 USD
 - [60 Pack Single Serve Coffee Capsules | EveryCup Original Convenient & Fresh](https://www.brewtheblend.com/products/60-capsules): EveryCup Original: 60-pack specialty-grade coffee capsules with rich, balanced flavor and fresher, smoother brews. Crafted for consistent satisfaction.
-  Updated: 2025-11-27T12:36:27Z
+  Updated: 2026-03-17T02:26:52Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/EveryCup_Original_60-pack_capsules.png?v=1753262392
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/EveryCup-Original-60-pack-capsules-_1.png?v=1773714373
   Price: $69.66 USD
-- [FrostFire - Dark Cold Brew](https://www.brewtheblend.com/products/frostfire-dark): FrostFire is a specialty-grade blend designed specifically for cold brewing. It delivers a consistently smooth and satisfying cup. Featuring a dark French roast and coarse grounds, it produces a low-acidity coffee with a rich, full-bodied flavor perfect for cold brew enthusiasts. As with Brew the Blend's offerings, FrostFire is made with 100% specialty-grade coffee, ensuring a pure, high-quality coffee experience with no additives or artificial ingredients. This expertly crafted blend highlights the care and precision of creating a refreshing, bold, and naturally delicious cold brew. Whether served over ice or as a chilled concentrate, FrostFire delivers the ultimate cold brew experience every time.
-  Updated: 2026-01-05T04:52:50Z
+- [FrostFire - Dark Cold Brew](https://www.brewtheblend.com/products/frostfire-dark): FrostFire is a specialty-grade blend designed specifically for cold brewing. It delivers a consistently smooth and satisfying cup. Featuring a dark French roast and coarse grounds, it produces a low-acidity coffee with a rich, full-bodied flavor perfect for cold brew enthusiasts. As with Brew the Blend's offerings, FrostFire is made with 100% specialty-grade coffee, ensuring a pure, high-quality coffee experience with no additives or artificial ingredients. This expertly crafted blend highlights the care and precision that go into creating a refreshing, bold, and naturally delicious cold brew. Whether served over ice or as a chilled concentrate, FrostFire delivers the ultimate cold brew experience every time.
+  Updated: 2026-03-17T02:26:17Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -159,11 +159,11 @@
     Availability: Available
     Price: $89.50 USD
 - [Get Best South American Coffee Beans in House Breakfast Blend](https://www.brewtheblend.com/products/morniva): Start your day with Morniva! Our American coffee beans deliver the best coffee bean experience, perfect for your morning brew. Shop now!
-  Updated: 2025-11-27T12:36:29Z
+  Updated: 2026-03-17T02:26:04Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Breakfast_Bliss_Front_c4f97169-85c1-47d5-abb2-aaf0af5a4ad1.png?v=1735467473
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Breakfast-Bliss-Front-c4f97169-85c1-47d5-abb2-aaf0af5a4ad1-_1.png?v=1773714338
   - [12oz / Drip Ground](https://www.brewtheblend.com/products/morniva?variant=46017311015164)
     Availability: Available
     Price: $21.00 USD
@@ -186,7 +186,7 @@
     Availability: Available
     Price: $21.00 USD
 - [Brew the Blend+](https://www.brewtheblend.com/products/brewtheblend): An improved take on the classic breakfast blend, Brew the Blend+ is designed for coffee lovers longing for a robust, intricate savor. Our specialty-crafted blend combines high-quality Arabica beans with a touch of Robusta for an extra caffeine boost that will invigorate your mornings.
-  Updated: 2025-11-30T11:54:08Z
+  Updated: 2026-03-17T02:25:40Z
   Vendor: BREW THE BLEND
   Product Type: Coffee
   Availability: Available
@@ -210,11 +210,11 @@
     Availability: Available
     Price: $94.00 USD
 - [Buy Premium African Espresso Coffee | Taste the Bold Flavor](https://www.brewtheblend.com/products/lionbolt): Experience bold, fierce flavors and a bright finish with our LionBolt, made from specialty-grade African coffee beans. Perfect for coffee lovers seeking a rich, aromatic brew.
-  Updated: 2026-01-23T18:08:33Z
+  Updated: 2026-03-17T02:25:28Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/African-Espresso-27e1a864-0d94-473f-8efc-586abdc25014-_1_6b843506-8ef7-4d92-a857-eb876a6edc2f.png?v=1735467457
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/African-Espresso-27e1a864-0d94-473f-8efc-586abdc25014-1-6b843506-8ef7-4d92-a857-eb876a6edc2f-_1.png?v=1773714313
   - [12oz / Drip Ground](https://www.brewtheblend.com/products/lionbolt?variant=46017313702140)
     Availability: Available
     Price: $22.80 USD
@@ -234,7 +234,7 @@
     Availability: Available
     Price: $102.00 USD
 - [Chillspire – Cold Brew Coffee with Chocolate & Toffee | Brew the Blend](https://www.brewtheblend.com/products/chillspire): Smooth and refreshing, Chillspire is a specialty cold brew with chocolate, toffee, and floral notes. Silken, balanced, and crafted to uplift every sip.
-  Updated: 2026-01-02T08:21:17Z
+  Updated: 2026-03-17T02:25:17Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -245,15 +245,15 @@
     Price: $22.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/chillspire?variant=46017327530236)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Chillspire_Wholebean_12OZ_-_black.jpg?v=1759938597
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Chillspire_Wholebean_12OZ_-_black.jpg?v=1773714298
     Price: $22.00 USD
   - [2 LB / Coarse](https://www.brewtheblend.com/products/chillspire?variant=46017327694076)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Chillspire_Coarse_2LB_-_black_55e04341-f6bc-4c9f-9281-08d36f52f599.jpg?v=1759938597
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Chillspire_Coarse_2LB_-_black_55e04341-f6bc-4c9f-9281-08d36f52f599.jpg?v=1773714302
     Price: $51.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/chillspire?variant=46017327759612)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Chillspire_Wholebean_2LB_-_black.jpg?v=1759938597
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Chillspire_Wholebean_2LB_-_black.jpg?v=1773714306
     Price: $51.00 USD
   - [5 LB / Coarse](https://www.brewtheblend.com/products/chillspire?variant=46017327857916)
     Availability: Available
@@ -262,7 +262,7 @@
     Availability: Available
     Price: $94.00 USD
 - [Enjoy Bourbon Amber Coffee | A Unique Brew Just for You!](https://www.brewtheblend.com/products/bourbon-amber): Get the rich, smooth taste of barrel and bean coffee. Our whiskey barrel-aged Guatemalan coffee delivers a delightful whiskey flavor in every sip. Order now!
-  Updated: 2026-01-16T18:05:41Z
+  Updated: 2026-02-13T16:35:31Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -286,18 +286,18 @@
     Availability: Available
     Price: $99.00 USD
 - [Vanilure Coffee | Silky French Vanilla Medium Roast | Brew the Blend](https://www.brewtheblend.com/products/vanilure): Discover Vanilure — Brew the Blend’s French silky vanilla coffee. A medium roast with creamy sweetness and warm aroma. Comfort in every sip.
-  Updated: 2025-12-05T18:30:40Z
+  Updated: 2026-03-17T02:24:48Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure_2LB_Drip_-_black.jpg?v=1760507632
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/vanilure?variant=46020158193916)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure_2LB_-_Drip.png?v=1760507632
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure-2LB-Drip-_7.png?v=1773714273
     Price: $22.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/vanilure?variant=46020158161148)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure_2LB_-_Drip.png?v=1760507632
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure-2LB-Drip-_7.png?v=1773714273
     Price: $22.00 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/vanilure?variant=46020158456060)
     Availability: Available
@@ -309,21 +309,21 @@
     Price: $51.00 USD
   - [5 LB / Drip Grind](https://www.brewtheblend.com/products/vanilure?variant=46020158554364)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure_2.png?v=1760507632
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure-2-_2.png?v=1773714260
     Price: $94.00 USD
   - [5 LB / Whole Bean](https://www.brewtheblend.com/products/vanilure?variant=46020158521596)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure_2.png?v=1760507632
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Vanilure-2-_2.png?v=1773714260
     Price: $94.00 USD
 - [Avellanut – Hazelnut Flavored Coffee | Brew the Blend](https://www.brewtheblend.com/products/avellanut): Discover Avellanut by Brew the Blend — a smooth medium roast infused with the warm, nutty sweetness of roasted hazelnuts. Specialty-grade coffee crafted for comfort and delight in every sip.
-  Updated: 2025-11-30T11:41:41Z
+  Updated: 2026-03-17T02:26:57Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/12oz_-whole_-_black.jpg?v=1761181332
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/avellanut?variant=46020159045884)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/12oz_-drip_-_black.jpg?v=1761183480
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/12oz_-drip_-_black.jpg?v=1773714249
     Price: $22.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/avellanut?variant=46020159013116)
     Availability: Available
@@ -331,11 +331,11 @@
     Price: $22.00 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/avellanut?variant=46020159242492)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/2_lb_-drip_-_black.jpg?v=1761183480
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/2_lb_-drip_-_black.jpg?v=1773714256
     Price: $51.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/avellanut?variant=46020159111420)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/2_lb_-whole_-_black.jpg?v=1761183480
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/2_lb_-whole_-_black.jpg?v=1773714253
     Price: $51.00 USD
   - [5 LB / Drip Grind](https://www.brewtheblend.com/products/avellanut?variant=46020159373564)
     Availability: Available
@@ -344,11 +344,11 @@
     Availability: Available
     Price: $94.00 USD
 - [Get Delicious Cinnamon Hazelnut Coffee | Hazarella Perfect at any Time](https://www.brewtheblend.com/products/hazarella): Hazarella (Cinnamon Hazelnut) is a delightful way to add warmth to your day, perfect for those who enjoy a cinnamon, spiced, nutty flavor in their coffee.
-  Updated: 2025-12-04T20:23:55Z
+  Updated: 2026-03-17T02:26:52Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinHazel_dc42bc1b-5a13-4dfb-b23c-064785bbafdc.png?v=1735467431
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinHazel-dc42bc1b-5a13-4dfb-b23c-064785bbafdc-_1.png?v=1773714234
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/hazarella?variant=46020162158844)
     Availability: Available
     Price: $22.00 USD
@@ -368,7 +368,7 @@
     Availability: Available
     Price: $94.00 USD
 - [Caramel Coffee – Sweet & Buttery Medium Roast | Brew the Blend](https://www.brewtheblend.com/products/caralisse): Enjoy a rich, buttery caramel coffee in a smooth medium roast. Specialty-grade Arabica from Central/South America with notes of caramel, butter & cream—delicious black or in lattes.
-  Updated: 2025-12-04T22:18:23Z
+  Updated: 2026-03-17T02:23:59Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -379,15 +379,15 @@
     Price: $22.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/caralisse?variant=46020163043580)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Caralisse_Wholebean_12OZ_-_white.jpg?v=1760383288
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Caralisse_Wholebean_12OZ_-_white.jpg?v=1773714230
     Price: $22.00 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/caralisse?variant=46020163436796)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Caralisse_Drip_2LB_-kraft.jpg?v=1760383288
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Caralisse_Drip_2LB_-kraft.jpg?v=1773714230
     Price: $51.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/caralisse?variant=46020163404028)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Caralisse_Wholebean_2LB.png?v=1762938937
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Caralisse-Wholebean-2LB-_2.png?v=1773714215
     Price: $51.00 USD
   - [5 LB / Drip Grind](https://www.brewtheblend.com/products/caralisse?variant=46020163535100)
     Availability: Available
@@ -395,67 +395,15 @@
   - [5 LB / Whole Bean](https://www.brewtheblend.com/products/caralisse?variant=46020163502332)
     Availability: Available
     Price: $94.00 USD
-- [Try CinnaCharm Coffee – A Sweet & Spicy Treat](https://www.brewtheblend.com/products/cinnacharm): CinnaCharm is a cozy blend that brings the irresistible bakery-fresh taste of cinnamon swirls. CinnaCharm brings comfort and spice to your cup in every sip, and it's sugar-free.
-  Updated: 2025-12-17T02:06:54Z
-  Vendor: BREW THE BLEND
-  Product Type: COFFEE, CAFÉ
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinnaCharm_Drip_2LB_-_black.jpg?v=1760514700
-  - [12oz / Drip Grind](https://www.brewtheblend.com/products/cinnacharm?variant=46020165009660)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinnaCharm_Drip_12OZ.png?v=1760515036
-    Price: $22.00 USD
-  - [12oz / Whole Bean](https://www.brewtheblend.com/products/cinnacharm?variant=46020164976892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinnaCharm_Wholebean_12OZ_-_black.jpg?v=1762509317
-    Price: $22.00 USD
-  - [2 LB / Drip Grind](https://www.brewtheblend.com/products/cinnacharm?variant=46020165206268)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinnaCharm_Drip_2LB_-_black.jpg?v=1760514700
-    Price: $51.00 USD
-  - [2 LB / Whole Bean](https://www.brewtheblend.com/products/cinnacharm?variant=46020164911356)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinnaCharm_Wholebean_2LB_-_black.jpg?v=1760515036
-    Price: $51.00 USD
-  - [5 LB / Drip Grind](https://www.brewtheblend.com/products/cinnacharm?variant=46020165304572)
-    Availability: Available
-    Price: $94.00 USD
-  - [5 LB / Whole Bean](https://www.brewtheblend.com/products/cinnacharm?variant=46020165271804)
-    Availability: Available
-    Price: $94.00 USD
-- [Spice Me Up Coffee | Pumpkin Spice Coffee Blend – Brew the Blend™](https://www.brewtheblend.com/products/spice-me-up): Enjoy Spice Me Up — a pumpkin spice coffee blend with smooth cinnamon, nutmeg & clove notes—cozy flavor in every sip. Order yours today.
-  Updated: 2025-12-17T05:27:25Z
-  Vendor: BREW THE BLEND
-  Product Type: COFFEE, CAFÉ
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Screenshot_2024-12-14_at_2.49.53_AM.png?v=1749083309
-  - [12oz / Drip Grind](https://www.brewtheblend.com/products/spice-me-up?variant=46020166746364)
-    Availability: Available
-    Price: $22.00 USD
-  - [12oz / Whole Bean](https://www.brewtheblend.com/products/spice-me-up?variant=46020166811900)
-    Availability: Available
-    Price: $22.00 USD
-  - [2 LB / Drip Grind](https://www.brewtheblend.com/products/spice-me-up?variant=46020167008508)
-    Availability: Available
-    Price: $51.00 USD
-  - [2 LB / Whole Bean](https://www.brewtheblend.com/products/spice-me-up?variant=46020166975740)
-    Availability: Available
-    Price: $51.00 USD
-  - [5 LB / Drip Grind](https://www.brewtheblend.com/products/spice-me-up?variant=46020167139580)
-    Availability: Available
-    Price: $94.00 USD
-  - [5 LB / Whole Bean](https://www.brewtheblend.com/products/spice-me-up?variant=46020167106812)
-    Availability: Available
-    Price: $94.00 USD
 - [Turtlelisse | Chocolate Caramel Pecan Coffee – Brew the Blend](https://www.brewtheblend.com/products/turtlelisse): Indulge in Turtlelisse, Brew the Blend’s chocolate, caramel, and pecan coffee. A smooth, comforting pecan-kissed medium-dark roast that reimagines a classic turtle candy in every sip.
-  Updated: 2025-12-19T19:06:02Z
+  Updated: 2026-03-17T02:23:34Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Turtlelisse_12oz_whole_-_black.jpg?v=1761195069
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/turtlelisse?variant=46020169302268)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Turtlelisse_12oz_drip_-_black_8b56e54b-5e20-4996-894a-b37189eff87c.jpg?v=1761195404
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Turtlelisse_12oz_drip_-_black_8b56e54b-5e20-4996-894a-b37189eff87c.jpg?v=1773714200
     Price: $22.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/turtlelisse?variant=46020169433340)
     Availability: Available
@@ -463,11 +411,11 @@
     Price: $22.00 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/turtlelisse?variant=46020169269500)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Turtlelisse_2lb_drip_-_black.jpg?v=1761195404
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Turtlelisse_2lb_drip_-_black.jpg?v=1773714208
     Price: $51.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/turtlelisse?variant=46020169203964)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Turtlelisse_2lb_whole_-_black.jpg?v=1761195404
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Turtlelisse_2lb_whole_-_black.jpg?v=1773714204
     Price: $51.00 USD
   - [5 LB / Drip Grind](https://www.brewtheblend.com/products/turtlelisse?variant=46020169367804)
     Availability: Available
@@ -476,49 +424,49 @@
     Availability: Available
     Price: $94.00 USD
 - [Shop Best Sellers | Blend Coffee for Every Taste](https://www.brewtheblend.com/products/riders-collection): Searching for the best coffee near you? Discover our best- coffee blends, crafted to perfection for every coffee lover. Order today! "from Brew The Blend
-  Updated: 2026-01-22T05:56:38Z
+  Updated: 2026-03-17T02:23:35Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_Riders_Collection.png?v=1757472491
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew-s-Riders-Collection-_1.png?v=1773714155
   Price: $25.20 USD
 - [Try Brew’s Sweet Escape | Flavored Coffee Sample Pack](https://www.brewtheblend.com/products/sweet-escape): Brew’s Sweet Escape – A medley of flavored coffees. From vanilla clouds to chocolate heat, discover six flavored coffees crafted for comfort, delight, and everyday joy.
-  Updated: 2025-11-30T21:18:15Z
+  Updated: 2026-03-17T02:22:34Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_Sweet_Escape.png?v=1757473288
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew-s-Sweet-Escape-_1.png?v=1773714152
   Price: $25.20 USD
 - [Discover Single Origin Coffee | From Ethiopia to Honduras](https://www.brewtheblend.com/products/passport-pack): Explore six single-origin coffees in the Brew’s Passport Pack—berry-bright Ethiopian to creamy Honduran, each roast a journey across the coffee belt.
-  Updated: 2025-11-30T21:17:28Z
+  Updated: 2026-03-17T02:22:31Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_Passport_Pack.png?v=1757468834
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew-s-Passport-Pack-_1.png?v=1773714144
   Price: $25.20 USD
-- [Shop Jasmine Green Tea | Refreshing & Floral Loose Leaf Tea"](https://www.brewtheblend.com/products/jasmine-florasteep): Experience the delicate flavor of Jasmine Serenity. This premium jasmin teaa is perfect for relaxation and well-being. Order now for a soothing cup!
-  Updated: 2025-11-27T12:49:03Z
+- [Shop Jasmine Green Tea | Refreshing & Floral Loose Leaf Tea](https://www.brewtheblend.com/products/jasmine-florasteep): Experience the delicate flavor of Jasmine Serenity. This premium jasmine tea is perfect for relaxation and well-being. Taste now a soothing cup!
+  Updated: 2026-03-17T02:22:30Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Jasmin_Serenity.jpg?v=1749939800
-  Price: $16.80 USD
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Jasmine_FloraSteep_-_krafT.jpg?v=1769813429
+  Price: $17.00 USD
 - [Shop Mango Tea | Mango Wink - A Refreshing Tropical Blend](https://www.brewtheblend.com/products/mango-wink): Experience the tropical taste of Mango Wink! A refreshing mango tea blend perfect for any time of day. Order your Mango Tea now and enjoy the perfect cup!
-  Updated: 2025-12-03T21:05:05Z
+  Updated: 2026-03-17T02:22:07Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/MangoDelight.jpg?v=1746692744
-  Price: $16.80 USD
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Mango_Wink_Kraft.jpg?v=1769753998
+  Price: $17.00 USD
 - [Buy Authentic Masala Chai Tea | Spiced & Flavorful Blend](https://www.brewtheblend.com/products/sassy-chai): Looking for the best masala chai tea? Get rich, aromatic flavors delivered to your door—no need to search for masala chai near me. Order now!
-  Updated: 2026-01-02T18:06:40Z
+  Updated: 2026-03-17T02:21:58Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/kraft_blank_final_latest_72b91950-a426-4f87-9e0e-0d43b903f4c1.jpg?v=1718254241
-  Price: $16.80 USD
+  Price: $17.00 USD
 - [Get Brazilian Coffee | Brew the Best with Brazela](https://www.brewtheblend.com/products/brazela): Brazela is a medium roast from Brazil’s highland farms, offering a smooth, toasted flavor with gentle complexity and an easy, balanced finish. Born of Brazil’s Soil. Brewed for Any Moment.
-  Updated: 2025-11-30T11:53:40Z
+  Updated: 2026-02-13T17:46:24Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -542,7 +490,7 @@
     Availability: Available
     Price: $102.00 USD
 - [Suntrail Roast - A Trail of Flavor, Rooted in Colombia.](https://www.brewtheblend.com/products/suntrail-roast): Suntrail Roast is a smooth, medium Colombian coffee with bright citrus notes, gentle sweetness, and a clean, balanced finish. Suntrail Roast, a Taste of Paradise
-  Updated: 2026-01-06T00:56:14Z
+  Updated: 2026-03-17T02:21:47Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -553,15 +501,15 @@
     Price: $22.50 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138300668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Whole_black_-_12oz.jpg?v=1764908036
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Whole_black_-_12oz.jpg?v=1773714087
     Price: $22.50 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138562812)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Drip_black_-_2lb.jpg?v=1764908036
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Drip_black_-_2lb.jpg?v=1773714083
     Price: $52.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138530044)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Whole_black_-_2lb.jpg?v=1764908036
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Whole_black_-_2lb.jpg?v=1773714091
     Price: $52.00 USD
   - [5 LB / Drip Grind](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138693884)
     Availability: Available
@@ -570,26 +518,26 @@
     Availability: Available
     Price: $99.00 USD
 - [SolWhisper Mexican Coffee | Rich & Bold Aztec Coffee Blend](https://www.brewtheblend.com/products/solwhisper): Get SolWhisper offers premium flavored coffee beans with rich, bold coffee flavors. Perfect for anyone seeking a truly unique coffee experience.
-  Updated: 2026-01-06T00:57:29Z
+  Updated: 2026-03-17T02:21:24Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_12oz.jpg?v=1764923413
   - [12oz / Drip Ground](https://www.brewtheblend.com/products/solwhisper?variant=46170636878076)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_12oz_9fc2cb96-a628-4073-85d5-52127f54098b.jpg?v=1767618635
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_12oz_9fc2cb96-a628-4073-85d5-52127f54098b.jpg?v=1773714079
     Price: $22.50 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/solwhisper?variant=46170636845308)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Whole_black_-_12oz_68684b41-3b87-40d4-abdf-c12bb7d926af.jpg?v=1767618384
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Whole_black_-_12oz_68684b41-3b87-40d4-abdf-c12bb7d926af.jpg?v=1773714079
     Price: $22.50 USD
   - [2 LB / Drip Ground](https://www.brewtheblend.com/products/solwhisper?variant=46170636779772)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_2lb_032629dc-7391-4d47-b5a5-a907161e66e7.jpg?v=1767618749
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_2lb_032629dc-7391-4d47-b5a5-a907161e66e7.jpg?v=1773714079
     Price: $52.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/solwhisper?variant=46170637074684)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Whole_black_-_2lb_b9c9a6e1-81fc-4538-a1c9-88f9d672c86a.jpg?v=1767618889
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Whole_black_-_2lb_b9c9a6e1-81fc-4538-a1c9-88f9d672c86a.jpg?v=1773714079
     Price: $52.00 USD
   - [5 LB / Drip Ground](https://www.brewtheblend.com/products/solwhisper?variant=46170637205756)
     Availability: Available
@@ -598,11 +546,11 @@
     Availability: Available
     Price: $99.00 USD
 - [Dulce Altura Signature](https://www.brewtheblend.com/products/dulce-altura): Dulce Altura Signature, Costa Rica’s coffee excellence. Dulce Altura Signature is a refreshing, flavorful brew for any time of day—specialty-grade, medium roast.
-  Updated: 2025-11-28T18:06:51Z
+  Updated: 2026-03-17T02:21:17Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Pure_Life_-_CostaRica1.png?v=1746078521
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Pure-Life-CostaRica1-_1.png?v=1773714028
   - [12oz / Drip Ground](https://www.brewtheblend.com/products/dulce-altura?variant=46170913800444)
     Availability: Available
     Price: $22.50 USD
@@ -622,11 +570,11 @@
     Availability: Available
     Price: $22.50 USD
 - [Blueberry Serenade Reserve | A Fruity Berry Coffee Delight Shop now!](https://www.brewtheblend.com/products/blueberry-serenade): Enjoy the best flavors of Ethiopian nature in every cup with our blueberry coffee. Made from premium Ethiopian coffee beans for an unforgettable taste.
-  Updated: 2025-12-08T19:07:03Z
+  Updated: 2026-03-17T02:20:33Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Blueberry_Ground_1_lb.png?v=1757484627
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Blueberry-Ground-1-lb-_1.png?v=1773714021
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/blueberry-serenade?variant=46171030421756)
     Availability: Available
     Price: $22.50 USD
@@ -646,14 +594,14 @@
     Availability: Available
     Price: $99.00 USD
 - [Garnessa Tea – Radiant Berry Herbal Blend | Brew the Blend](https://www.brewtheblend.com/products/garnessa): Sip the brilliance of Garnessa Tea—a radiant herbal blend of hibiscus, berry, and tropical fruit. Caffeine-free, elegant, and refreshing in every cup.
-  Updated: 2026-01-09T14:22:42Z
+  Updated: 2026-03-17T02:20:19Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Label_Image.png?v=1767934915
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Label-Image-_1.png?v=1773714002
   Price: $16.80 USD
 - [Sumadrift](https://www.brewtheblend.com/products/sumadrift): Sumadrift brings bold flavor, herbal depth, and nuanced chocolate and spice notes into one satisfying roast, paying tribute to Sumatra’s untamed landscapes.
-  Updated: 2026-01-16T18:05:52Z
+  Updated: 2026-03-17T02:20:00Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -664,15 +612,15 @@
     Price: $23.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/sumadrift?variant=46486838477052)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sumadrift_12_oz_Whole_-_black.jpg?v=1764805689
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sumadrift_12_oz_Whole_-_black.jpg?v=1773713987
     Price: $23.00 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/sumadrift?variant=46486838771964)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sumadrift_2_lb_drift_-_Black_b51b37dd-5e9d-466c-be9e-41d80dbd6ea9.jpg?v=1764882232
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sumadrift_2_lb_drift_-_Black_b51b37dd-5e9d-466c-be9e-41d80dbd6ea9.jpg?v=1773713998
     Price: $55.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/sumadrift?variant=46486838739196)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sumatra_wholebean_2lb_black.jpg?v=1764805689
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sumatra_wholebean_2lb_black.jpg?v=1773713987
     Price: $55.00 USD
   - [5 LB / Drip Grind](https://www.brewtheblend.com/products/sumadrift?variant=46486838903036)
     Availability: Available
@@ -680,46 +628,50 @@
   - [5 LB / Whole Bean](https://www.brewtheblend.com/products/sumadrift?variant=46486838870268)
     Availability: Available
     Price: $99.00 USD
-- [Western Pals Blend](https://www.brewtheblend.com/products/western-pals-blend): Meet your daily companion: Western Pals Blend is a medium roast that blends rustic charm with timeless flavor. Each cup of this 'Cowboy Blend' offers a bold and robust experience reminiscent of traditional campfire coffee.
-  Updated: 2026-01-22T05:54:12Z
+- [Western Pals Blend | Specialty Grade Medium Roast Coffee](https://www.brewtheblend.com/products/western-pals-blend): Specialty-grade medium roast coffee with bold cocoa, caramel, and vanilla notes. Western Pals Blend delivers rustic flavor in every cup.
+  Updated: 2026-03-17T02:19:48Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Cowboy_bag_6d42bce2-39c4-4274-b78f-09698054187f.png?v=1737065408
-  - [12oz / Drip Ground](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366349564)
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Western_Pals_-_Drip_12oz_-_Black_ab0f55a7-15fb-43c0-a3e4-e89ab381b6df.jpg?v=1771302739
+  - [12oz / Drip Grind](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366349564)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Western_Pals_-_Drip_12oz_-_Black_ab0f55a7-15fb-43c0-a3e4-e89ab381b6df.jpg?v=1771302739
     Price: $21.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/western-pals-blend?variant=46642365956348)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Western_Pals_-_Whole_Bean_12oz_-_black.jpg?v=1773713983
     Price: $21.00 USD
-  - [2 LB / Drip Ground](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366382332)
+  - [2 LB / Drip Grind](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366382332)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Western_Pals_-_Drip_2lb_-_black_b9e6c2ac-c1ca-43d8-a82d-bb01b17f087c.jpg?v=1773713983
     Price: $50.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366185724)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Western_Pals_-_Whole_Bean_2lb_-_black.jpg?v=1773713983
     Price: $50.00 USD
-  - [5 LB / Drip Ground](https://www.brewtheblend.com/products/western-pals-blend?variant=46642365923580)
+  - [5 LB / Drip Grind](https://www.brewtheblend.com/products/western-pals-blend?variant=46642365923580)
     Availability: Available
     Price: $94.00 USD
   - [5 LB / Whole Bean](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366251260)
     Availability: Available
     Price: $94.00 USD
-  - [12 Pack / Drip Ground](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366447868)
+  - [12 Pack / Drip Grind](https://www.brewtheblend.com/products/western-pals-blend?variant=46642366447868)
     Availability: Available
     Price: $21.00 USD
 - [Six‑Bean Standoff](https://www.brewtheblend.com/products/six-bean-standoff): Six‑Bean Standoff Blend is a global flavor face-off. Sourced from six coffee-growing regions across South America, Central America, Africa, and Asia.
-  Updated: 2025-11-27T12:51:25Z
+  Updated: 2026-03-17T02:19:23Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Six_Bean_Ground_12_oz_II.png?v=1757538369
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Six-Bean-Ground-12-oz-II-_1.png?v=1773713949
   - [12oz / Drip Ground](https://www.brewtheblend.com/products/six-bean-standoff?variant=46644740096252)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/tcr_coffee_blank_final_latest_577eb00f-547d-41ae-a2f1-ed8def1dc9a3.jpg?v=1757538369
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/tcr_coffee_blank_final_latest_577eb00f-547d-41ae-a2f1-ed8def1dc9a3.jpg?v=1773713953
     Price: $21.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/six-bean-standoff?variant=46644740063484)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/tcr_coffee_blank_final_latest.jpg?v=1757538369
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/tcr_coffee_blank_final_latest.jpg?v=1773713949
     Price: $21.00 USD
   - [2 LB / Drip Ground](https://www.brewtheblend.com/products/six-bean-standoff?variant=46644740325628)
     Availability: Available
@@ -737,15 +689,15 @@
     Availability: Available
     Price: $21.00 USD
 - [Smart Insulated Stainless Steel Travel Mug | Brew the Blend](https://www.brewtheblend.com/products/smart-insulated-travel-mug): Keep drinks hot or cold for hours with our 500ml smart thermos. Touch lid displays temperature, features a leakproof design, and is perfect for coffee, tea, and travel.
-  Updated: 2026-01-22T05:54:12Z
+  Updated: 2026-03-17T02:32:51Z
   Vendor: Brew the Blend
   Product Type: THERMOS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/coffeemug.jpg?v=1741164159
   Price: $20.99 USD
 - [Adventure Awaits Ceramic Mug (11 & 15 oz)](https://www.brewtheblend.com/products/adventure-awaits-ceramic-mug): "Adventure Awaits" is perfect for Coffee Lovers. This mug exudes a sense of excitement and wanderlust, making it a great companion for your morning coffee or tea. Ideal for adventurers, travelers, and outdoor enthusiasts. Perfect for gifting on birthdays, holidays, or as a motivational pick-me-up.With its vibrant colors and sleek, glossy finish, "Adventure Awaits" serves as a delightful addition to your kitchen or office space.
-  Updated: 2025-11-27T12:45:33Z
-  Vendor: Printify
+  Updated: 2026-03-17T02:32:33Z
+  Vendor: Brew the Blend
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/461613349591717082_2048_custom.jpg?v=1750017860
@@ -758,15 +710,15 @@
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/14917523315483034023_2048.jpg?v=1750017865
     Price: $22.99 USD
 - [Fearfully and Wonderfully Made - Mug (11oz)](https://www.brewtheblend.com/products/mugs-message): Fearfully and Wonderfully Made—This 11-oz white ceramic mug envelops your day in truth and comfort. It showcases the uplifting verse "Fearfully and Wonderfully Made" from Psalm 139:14, reminding you of your God-given worth with every sip. This mug is both beautiful and functional, making it practical for everyday use. It is also dishwasher and microwave-safe. Whether you’re enjoying a quiet morning devotion or winding down in the evening, this mug brings peace and encouragement to your daily rhythm. Its clean, classic design is perfect for moments of stillness or for sharing faith over coffee. “Fearfully and Wonderfully Made “ is a lovely gift for yourself or for someone who needs a gentle reminder of how deeply they are loved.
-  Updated: 2025-11-27T12:47:42Z
+  Updated: 2026-03-17T02:30:43Z
   Vendor: Brew the Blend
   Product Type: MUG
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Fearfully_and_Wonderfully_Made_2.jpg?v=1756959833
   Price: $20.00 USD
 - [Super Mom Ceramic Mug - 11oz & 15oz](https://www.brewtheblend.com/products/super-mom-ceramic-mug-11oz-15oz): Honor the daily hero in your life with this bold and inspiring Super Mom mug. Featuring the powerful message "I don't need superpowers — I am a MOM!" this vibrant ceramic mug serves as a daily reminder of a mother's incredible strength and love. Its glossy finish and bright design make it a cheerful addition to any morning routine, whether at home or work. This mug, available in two sizes, is perfect for an energizing cup of coffee or a soothing evening tea. It becomes an integral part of a mom's daily routine. This thoughtful and empowering gift is ideal for Mother's Day, birthdays, or simply because—moms deserve to feel extraordinary every day. 11oz 15oz Height, in 3.74 4.61 Diameter, in 3.15 3.43
-  Updated: 2025-11-27T12:51:58Z
-  Vendor: Printify
+  Updated: 2026-03-17T02:32:08Z
+  Vendor: Brew the Blend
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/5886718993944508402_2048.jpg?v=1750063790
@@ -778,128 +730,37 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/7125363012841985107_2048.jpg?v=1750063796
     Price: $22.99 USD
-- [Ethereal Tallow Shield Deodorant - 2 Pack](https://www.brewtheblend.com/products/2-natural-tallow-deodorant-stick): 🔥 Own the Day. Leave the Odor—Wholesome Tallow Deodorant with Bergamot Scent. Gently nourishes underarms while offering clean, adequate, gender-neutral odor protection.
-  Updated: 2025-11-27T12:47:42Z
-  Vendor: Brew the Blend
-  Product Type: Tallow Deodorant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_108_transformation_677.jpg?v=1753127522
-  Price: $39.97 USD
-- [VelaSun — Your Final Step Before the Sun](https://www.brewtheblend.com/products/velasun-sun-balm): Nourish and prep with VelaSun—a grass-fed tallow balm rich in antioxidants and sun-friendly botanicals for radiant, outdoor-ready skin.
-  Updated: 2026-01-20T13:19:00Z
-  Vendor: Brew the Blend
-  Product Type: Solar Daylight Balm
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_112_transformation_696.png?v=1753136933
-  Price: $32.95 USD
-- [Pure Ethereal Tallow Repair Balm | Indulgent. Nourishing. 🌿🍦💧✨](https://www.brewtheblend.com/products/whipped-tallow-balm-with-vanilla-bean): Deeply hydrate and soothe with 100% grass-fed tallow and natural vanilla bean—pure skincare without synthetic additives. Rich in vitamins A, D, E, and K.
-  Updated: 2025-11-27T12:51:24Z
-  Vendor: Brew the Blend
-  Product Type: Tallow
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_47_transformation_336_a0747c5e-69cc-43a9-aae7-f1cac8926e21.jpg?v=1755052535
-  Price: $39.95 USD
-- [Rejuva Crème Pro-Aging Nourishing Face Cream](https://www.brewtheblend.com/products/rejuva-creme-pro-aging): Rejuva Crème for Radiant Skin | Pure Ethereal Collection - Discover radiant, healthy skin. This pro-aging face cream is 100% cruelty-free, free from parabens, fragrance, and phthalates.
-  Updated: 2025-11-27T12:51:25Z
-  Vendor: Brew the Blend
-  Product Type: Pro-Aging
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_25_transformation_176.jpg?v=1755058351
-  Price: $59.00 USD
-- [Sérum Éclat Lift | Intensive Renewal Eye Serum | Pure Ethereal](https://www.brewtheblend.com/products/serum-eclat-lift): Sérum Éclat Lift, with Sambucus Nigra Fruit Extract, is a clean, lightweight eye serum that smooths, brightens, and refreshes the delicate under-eye area for a radiant, lifted, youthful look.
-  Updated: 2026-01-20T18:14:41Z
-  Vendor: Brew the Blend
-  Product Type: Eye Serum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_29_transformation_188.jpg?v=1763508037
-  Price: $67.00 USD
-- [Ethereal Cleanse | Daily Nourishing Facial Cleanser](https://www.brewtheblend.com/products/ethereal-foaming-cleanser): Purify and hydrate with Ethereal Cleanse by Brew the Blend, a clean, oil-enriched facial cleanser that nourishes and leaves your skin fresh, soft, and naturally radiant.
-  Updated: 2026-01-20T05:59:44Z
-  Vendor: Brew the Blend
-  Product Type: Foaming Cleanser
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_27_transformation_186.jpg?v=1760210665
-  Price: $49.00 USD
-- [Ethereal Snail Essence | Hydrating Dewy Glow Essence](https://www.brewtheblend.com/products/ethereal-snail-essence): Ethereal Snail Essence delivers lightweight hydration and a smooth, dewy finish. Add this silky, fast-absorbing essence to your daily Pure Ethereal routine.
-  Updated: 2026-01-20T05:29:21Z
-  Vendor: BeautyBoss
-  Product Type: Snail Mucin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/TikTok_-_Snail_Mucin_Essence..jpg?v=1757492552
-  Price: $35.00 USD
 - [Butterfly Mug – You Never Fail Until You Stop Trying](https://www.brewtheblend.com/products/you-never-fail-inspirational-butterfly-mug-motivational-gift-for-friends-butterfly-lover-gift): Brighten your day with this butterfly mug and motivational quote - a durable 11oz coffee cup, perfect as a thoughtful gift or daily reminder to keep going. Comes in three colors.
-  Updated: 2025-11-27T12:52:26Z
+  Updated: 2026-03-17T02:18:18Z
   Vendor: Brew the Blend
   Product Type: Mug
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Butterfly_You_Never_with_names.png?v=1759110197
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Butterfly-You-Never-with-names-_1.png?v=1773713869
   - [Blue-Purple Butterfly Mug](https://www.brewtheblend.com/products/you-never-fail-inspirational-butterfly-mug-motivational-gift-for-friends-butterfly-lover-gift?variant=48150946873596)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/1122176412030083505_2048.jpg?v=1759110197
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/1122176412030083505_2048.jpg?v=1773713869
     Price: $16.99 USD
   - [Green-Orange Butterfly Mug](https://www.brewtheblend.com/products/you-never-fail-inspirational-butterfly-mug-motivational-gift-for-friends-butterfly-lover-gift?variant=48150960341244)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Front_3.jpg?v=1759110197
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Front_3.jpg?v=1773713873
     Price: $16.99 USD
   - [Pink-Green-Purple Butterfly Mug](https://www.brewtheblend.com/products/you-never-fail-inspirational-butterfly-mug-motivational-gift-for-friends-butterfly-lover-gift?variant=48150968631548)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Butterfly_3_-_Ellie.jpg?v=1759110197
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Butterfly_3_-_Ellie.jpg?v=1773713888
     Price: $16.99 USD
 - [FOR THE MONTH](https://www.brewtheblend.com/products/for-the-month)
-  Updated: 2026-01-02T19:42:23Z
+  Updated: 2026-02-02T11:56:04Z
   Vendor: Brew the Blend
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Ethereal Rusa | Handcrafted Rose Soap Bar by Pure Ethereal](https://www.brewtheblend.com/products/ethereal-rusa): Ethereal Rusa – a handmade rose soap infused with coconut oil, shea, and rose petals. Gentle cleansing, radiant skin, and natural floral luxury. 🌹
-  Updated: 2026-01-26T23:03:37Z
-  Vendor: Brew the Blend
-  Product Type: Rose Soap
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Soap1.png?v=1760393471
-  - [1 Rusa](https://www.brewtheblend.com/products/ethereal-rusa?variant=48235209064700)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Soap1.png?v=1760393471
-    Price: $7.79 USD
-  - [2 Rusas](https://www.brewtheblend.com/products/ethereal-rusa?variant=48235209097468)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Soap2.png?v=1760393471
-    Price: $15.00 USD
 - [Mushrovia Coffee | Specialty-Grade Coffee with Mushrooms](https://www.brewtheblend.com/products/mushrovia-medium-roast): Mushrovia Coffee blends specialty-grade coffee with Lion’s Mane, Cordyceps, and Reishi mushrooms for a smooth, earthy cup.
-  Updated: 2026-01-26T23:22:43Z
+  Updated: 2026-03-17T02:17:56Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/kraft_blank_final_latest_9d571537-3452-40d4-89ec-a68e18a108e1.jpg?v=1769460487
   Price: $22.00 USD
-- [HoneyCalm – Manuka Honey Sea Moss Body Oil | Natural Hydrating Glow Oil](https://www.brewtheblend.com/products/honeycalm-manuka-sea-moss-oil): Discover HoneyCalm, A natural, lightweight body oil infused with Manuka Honey, Sea Moss, Lime, and Turmeric Extract to nourish and refresh - the perfect addition to your daily self-care ritual.
-  Updated: 2026-01-20T09:13:08Z
-  Vendor: Brew the Blend
-  Product Type: Body Oil
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/HoneyCalm_New1.jpg?v=1763498543
-  Price: $29.97 USD
-- [Ethereal MaChaTallow – Manuka Honey Chamomile Tallow Balm | Pure Ethereal](https://www.brewtheblend.com/products/ethereal-machatallow-manuka-honey-chamomile-tallow-body-balm): A calming, nourishing balm made with Manuka honey, chamomile, and grass-fed tallow. Ethereal MaChaTallow delivers deep moisture and silky, natural radiance. Made in the USA by Pure Ethereal.
-  Updated: 2026-01-05T12:33:06Z
-  Vendor: Brew the Blend
-  Product Type: Tallow Body Balm
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_116_transformation_724.jpg?v=1764236138
-  Price: $39.97 USD
-- [Ethereal Tallow Shield Deodorant |Clean Protection, naturally](https://www.brewtheblend.com/products/ethereal-tallow-deodorant): 🛡️Shield Up—The Ethereal Way—tallow deodorant with bergamot scent. Gently nourishes underarms while offering clean, adequate, gender-neutral odor protection.
-  Updated: 2026-01-09T17:06:09Z
-  Vendor: Pure Ethereal
-  Product Type: Tallow Deodorant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_106_transformation_673_23cfba91-3909-48dc-8607-b9f674feebee.jpg?v=1766123046
-  Price: $22.97 USD
-- [RejuvaPeptide - Advanced Multi-Peptide + Copper Peptide Complex Serum](https://www.brewtheblend.com/products/rejuvapeptide-copper-peptide-complex-serum): A comprehensive, lightweight serum formulated to deeply hydrate and visibly rejuvenate the skin. Suitable for all skin types and designed to integrate seamlessly into any routine.
-  Updated: 2026-01-12T00:39:48Z
-  Vendor: Pure Ethereal
-  Product Type: Peptide Hydration Serum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Screenshot2026-01-11at1.50.19AM.png?v=1768119252
-  Price: $59.97 USD
 
 ## Collections
 
@@ -910,31 +771,31 @@
   Updated: 2025-11-12T11:06:49Z
   Total Products: 3
 - [Buy Our Flavored Coffee Collection | Delightful Brews Await](https://www.brewtheblend.com/collections/flavored-coffee): Find the best flavored coffee right here! Our flavored coffee beans bring rich and exciting tastes to your daily brew. Perfect for coffee enthusiasts!"
-  Updated: 2025-12-14T12:31:27Z
+  Updated: 2026-01-30T03:56:16Z
   Total Products: 7
 - [Get Light Medium Roast Coffee | Refreshing & Balanced Blends](https://www.brewtheblend.com/collections/light-medium-roast): Shop the best light and medium roast coffee beans for a smooth and flavorful cup. Freshly roasted and perfect for any coffee lover. at Brew The Blend!
   Updated: 2025-12-06T12:27:55Z
   Total Products: 2
 - ["Buy Medium Roast Coffee Beans | Bold & Smooth Flavors"](https://www.brewtheblend.com/collections/medium-roast): Explore our collection of medium roast or medium-dark roast whole bean coffee. Perfect for coffee lovers who enjoy rich, balanced flavors in every cup."
-  Updated: 2026-01-21T04:56:01Z
+  Updated: 2026-03-14T11:31:57Z
   Total Products: 10
 - [Shop Medium Dark Roast Coffee | Perfect Balance of Flavor"](https://www.brewtheblend.com/collections/medium-dark-roast): "Enjoy our Medium Dark Roast coffee, known for its robust, rich flavor profile. Ideal for coffee drinkers seeking a deep, satisfying brew with every cup."
-  Updated: 2026-01-02T07:52:03Z
+  Updated: 2026-02-06T12:29:50Z
   Total Products: 3
 - [Get Single Origin Coffee | Pure, Authentic Flavor"](https://www.brewtheblend.com/collections/single-origin): Explore single origin coffee beans for rich, authentic flavors. Shop the best single origin coffee sourced from top regions around the world." at Brew The Blend
-  Updated: 2026-01-02T07:52:03Z
+  Updated: 2026-03-14T11:31:57Z
   Total Products: 11
 - [Buy Premium Blended Coffee | Specialty Blends for Coffee Lovers"](https://www.brewtheblend.com/collections/specialty-blends): Find the perfect specialty blend coffee in our collection. From bold to smooth, our blend coffee offers rich flavors for every coffee lover." at Brew The Blend!
-  Updated: 2026-01-15T12:26:19Z
+  Updated: 2026-02-06T12:29:50Z
   Total Products: 8
 - [Buy Specialty Grade Coffee | Unmatched Flavor"](https://www.brewtheblend.com/collections/coffee): Shop our collection of specialty-grade coffee beans. Discover premium specialty coffee and specialty coffee beans for a rich, flavorful experience.
-  Updated: 2025-12-17T05:45:55Z
+  Updated: 2026-03-17T02:46:04Z
   Total Products: 0
 - [Shop the Best Dark Roast Coffee | Taste Bold Perfection"](https://www.brewtheblend.com/collections/dark-roast): Enjoy deep flavors and intense aroma with our top rated dark roast coffee. Explore bold dark roast blends perfect for your morning brew or an afternoon kick."
   Updated: 2025-12-31T12:30:18Z
   Total Products: 2
 - [Buy Single Serving | Flavors to Match Every Preference](https://www.brewtheblend.com/collections/single-serving): Shop premium single-serving capsules for rich, flavorful brews. Pair them with the best K Cup coffee maker and enjoy your favorite coffee capsule at home or on the go."
-  Updated: 2025-12-31T12:30:18Z
+  Updated: 2026-02-06T12:29:50Z
   Total Products: 8
 - [SELECTED BY ROAST](https://www.brewtheblend.com/collections/selected-by-roast)
   Updated: 2025-09-05T07:54:51Z
@@ -943,14 +804,8 @@
   Updated: 2025-09-08T06:50:14Z
   Total Products: 1
 - [Order Masala Chai Near Me | Traditional Spiced Chai Tea](https://www.brewtheblend.com/collections/tea): Shop rich tea flavors, including chai masala and chai tea flavors. Perfect for tea enthusiasts looking to enjoy bold and aromatic flavors every day."
-  Updated: 2025-12-31T12:30:18Z
+  Updated: 2026-02-08T12:29:40Z
   Total Products: 8
-- [Pure Ether | Shop Luxury Beauty Products for a Radiant Glow](https://www.brewtheblend.com/collections/pure-ethereal): Looking for the best beauty products? Try our coconut lip balm and best lip balm for deep hydration and nourishment. Shop Pure Ethereal now!
-  Updated: 2026-01-26T22:43:45Z
-  Total Products: 12
-- [SOAPS](https://www.brewtheblend.com/collections/body-beauty-soap): Brew the Blend Soap, our new line of products. Hand Made - Bee Free - Palm Free - Dye Free - Essential Oils - Vegan.
-  Updated: 2026-01-26T22:43:45Z
-  Total Products: 1
 - [Tumblers – Insulated Travel Mugs & Thermoses | Brew the Blend](https://www.brewtheblend.com/collections/tumblers-insulated-mugs): Stay warm or cool with Tumblers. Premium insulated travel mugs & thermoses keep coffee or tea at the perfect temperature for hours.
   Updated: 2025-12-03T12:25:42Z
   Total Products: 1
@@ -960,48 +815,33 @@
 - [Coffee & Tea Mugs – Stylish Everyday Cups | Brew the Blend](https://www.brewtheblend.com/collections/mugs): Sip in style with Brew the Blend’s coffee and tea mugs. Durable, charming designs made for your daily rituals—because every cup deserves a moment.
   Updated: 2026-01-26T22:36:39Z
   Total Products: 6
-- [SKIN CARE](https://www.brewtheblend.com/collections/skincare)
-  Updated: 2026-01-26T22:43:45Z
-  Total Products: 11
-- [DEODORANTS](https://www.brewtheblend.com/collections/deodorants): Pure Protect Deodorant—One key benefit of our Vegetable-Based Natural Deodorant is its ability to build bacteria that combat odor. It is a healthy alternative that allows our body to work as it should while effectively fighting odor. Unlike conventional deodorants that aim to kill bacteria indiscriminately, our vegetable-based formula promotes the growth of beneficial bacteria that naturally reside on our skin, helping neutralize odor-causing bacteria and leaving us feeling fresh and confident throughout the day.
-  Updated: 2026-01-05T12:29:34Z
-  Total Products: 2
-- [BEAUTY](https://www.brewtheblend.com/collections/beauty-1): Beauty
-  Updated: 2025-07-27T03:26:03Z
-  Total Products: 0
 - [TRISAVOR SUBSCRIPTION](https://www.brewtheblend.com/collections/product-of-the-month)
-  Updated: 2026-01-14T12:27:36Z
+  Updated: 2026-03-14T11:31:57Z
   Total Products: 2
 - [ONLINE ONLY](https://www.brewtheblend.com/collections/online-only)
-  Updated: 2026-01-21T04:20:41Z
+  Updated: 2026-03-15T11:37:30Z
   Total Products: 9
 - [COFFEE & TEA SPECIALS FOR THE SEASON](https://www.brewtheblend.com/collections/coffee-tea-specials-for-the-season)
-  Updated: 2025-12-31T12:30:18Z
-  Total Products: 12
+  Updated: 2026-03-15T11:37:30Z
+  Total Products: 11
 - [BREW'S SWEET ESCAPE](https://www.brewtheblend.com/collections/brews-sweet-escape): BREW'S SWEET ESCAPE Avellanut - Combines the richness of coffee with the warm, sweet taste of hazelnuts. Caralisse - All-natural medium-roasted coffee with caramelized sugar, fantastic alone or as the base for blended drinks. CinnaCharm - No added sugar or calories; enjoy the great taste of your favorite iced cinnamon roll. Hazarella - A smooth, rich taste makes this medium-roasted coffee a delightfully mellow cup. MochaFlare - Rich chocolate flavor infused into a medium-roasted specialty-grade arabica bean. Vanilure - A smooth and rich flavor enhanced by natural vanilla extracts.
-  Updated: 2025-12-14T12:31:27Z
+  Updated: 2026-01-30T03:49:32Z
   Total Products: 7
 - [BREW'S RIDERS COLLECTION](https://www.brewtheblend.com/collections/brews-riders-collection): BREW'S RIDERS COLLECTION SolWhisper - Explore the light and nuanced flavors of Mexican coffee. Morniva - Crafted from a blend of South American coffee beans. Western Pals Blend Experience this firm, full-bodied blend inspired by traditional campfire coffee. Six-Bean Standoff - A complex and rich dark roast ideal for espresso. Peruvian Elegance - Provides a refreshing, uplifting, satisfying experience. LavaLoom - Full-bodied, smooth, and slightly sweet taste with a pleasant acidity.
-  Updated: 2025-12-31T12:30:18Z
+  Updated: 2026-02-06T12:29:50Z
   Total Products: 7
 - [BREW’S PASSPORT PACK](https://www.brewtheblend.com/collections/brew-s-passport-pack): BREW’S PASSPORT PACK ☕ BLUEBERRY SERENADE RESERVEMedium-Light / Lush. Floral. Wine-Kissed. (Ethiopia) ☕ BRAZELA Medium / Smooth. Nutty. Toasted-Cocoa. (Brazil) ☕ BRILLABERRY Medium-Light / Vibrant. Berry-Rich. Bright-Toned. (Tanzania) ☕ DULCE ALTURA SIGNATUREMedium / Sweet. Creamy. Velvety. (Costa Rica) ☕ HONDURAN DRIFTMedium / Round. Cocoa-Forward. Balanced. (Honduras) ☕ SUNTRAIL ROASTMedium / Juicy. Cocoa-Tinged. Citrus. (Colombia)
-  Updated: 2025-12-06T12:27:55Z
+  Updated: 2026-03-14T11:31:57Z
   Total Products: 7
-- [Different Kind of Roast](https://www.brewtheblend.com/collections/different-kind-of-roast)
-  Updated: 2025-11-12T11:14:11Z
-  Total Products: 2
-- [TALLOW BASED](https://www.brewtheblend.com/collections/tallow-based)
-  Updated: 2026-01-19T21:11:09Z
-  Total Products: 5
-- [FUNCTIONAL](https://www.brewtheblend.com/collections/functional): Mushrovia - Coffee with Mushrooms
-  Updated: 2026-01-21T05:17:11Z
+- [FUNCTIONAL](https://www.brewtheblend.com/collections/functional)
+  Updated: 2026-02-14T12:26:59Z
   Total Products: 1
 
 ## Blogs
 
 - [Premium Coffees & Tea Blogs | Expert Tips & Flavor Ideas](https://www.brewtheblend.com/blogs/default-blogs): Read our premium coffee and tea blogs for brewing secrets, flavor combinations, and insights into the world of coffee and tea. Perfect for enthusiasts!"
   - [... And BtB is born](https://www.brewtheblend.com/blogs/default-blogs/and-btb-is-born): <p><meta charset="utf-8"><span>Have you ever wondered how your favorite coffee brand came to be? The story behind </span><em>Brew the Blend</em><span> is one of unwavering passion, relentless dedication, and a profound love for the perfect cup of coffee. </span></p>
-    Updated: 2025-12-12T17:58:34Z
+    Updated: 2026-02-12T22:41:44Z
     Author: Maria Culligan
     Tags: beneficios para la salud, BtB, cup, cup of coffee, cup of tea, gracias, health, health benefits, historia, salud, story, taza de café, taza de té, thank you, visit, visitar
   - [Celebrating Coffee Month: A Tribute to Our Daily Brew](https://www.brewtheblend.com/blogs/default-blogs/celebrating-coffee-month-a-tribute-to-our-daily-brew): <meta charset="utf-8"><span data-mce-fragment="1">We invite you to join the celebration. Share your coffee moments with us, explore new flavors, and take advantage of our Coffee Month . Here's to the coffee that fuels our days and brightens our lives—Happy Coffee Month!</span>
@@ -1011,10 +851,6 @@
   - [Celebrating the Spirit of Labor: Honoring Hard Work with Our Labor Day Flash ](https://www.brewtheblend.com/blogs/default-blogs/celebrating-the-spirit-of-labor-honoring-hard-work-with-our-labor-day-flash-)
     Updated: 2025-06-05T21:45:21Z
     Author: Maria Culligan
-  - [Supporting Mental Health: Our Partnership with Crisis Text Line](https://www.brewtheblend.com/blogs/default-blogs/supporting-mental-health-our-partnership-with-crisis-text-line): Supporting Mental Health: Our Partnership with Crisis Text Line
-    Updated: 2024-10-31T10:02:56Z
-    Author: DigiRocket Technologies
-    Tags: 741741, BtB, contribución, contribution, crisis, Crisis Text Line, depresión, depression, donar, donate, health, health benefits, mental health, Remember, salud, salud mental, text 741741, thank you, visit, visitar
   - [Can Regular Coffee Be Made in an Espresso Machine?](https://www.brewtheblend.com/blogs/default-blogs/can-regular-coffee-be-made-in-an-espresso-machine)
     Updated: 2025-06-05T21:54:33Z
     Author: Maria Culligan
@@ -1113,7 +949,7 @@
     Updated: 2025-07-03T14:02:39Z
     Author: Maria Culligan
   - [What Is Specialty-Grade Single-Origin Coffee? | Expert Coffee Guide](https://www.brewtheblend.com/blogs/default-blogs/what-is-specialty-grade-single-origin-coffee): What Is Specialty-Grade Single-Origin Coffee? | Expert Coffee Guide
-    Updated: 2025-09-22T22:50:03Z
+    Updated: 2026-02-16T22:54:44Z
     Author: Maria Culligan
   - [Why Is Tea Good for You 3 Reasons You Need to Know](https://www.brewtheblend.com/blogs/default-blogs/3-reasons-why-tea-is-beneficial-for-your-health): Why Is Tea Good for You 3 Reasons You Need to Know
     Updated: 2025-07-21T14:23:06Z
@@ -1147,6 +983,22 @@
     Updated: 2026-01-21T07:04:03Z
     Author: Maria Culligan
     Tags: brew the blend, specialty-grade coffee
+  - [What Is Specialty-Grade Coffee? Brewing the Perfect Cup | Brew the Blend™](https://www.brewtheblend.com/blogs/default-blogs/unveiling-the-secrets-to-brew-the-blend-of-specialty-grade-coffee): What Is Specialty-Grade Coffee? Brewing the Perfect Cup | Brew the Blend™
+    Updated: 2026-02-16T22:08:15Z
+    Author: Maria Culligan
+    Tags: Art of Coffee, brew the blend, Brew the Blend Quality Coffee, Coffee Brewing Tips, Coffee Education, Coffee Freshness, coffee guide, Coffee Lovers, Coffee Ritual, coffee tips, home brewing, How to Brew Coffee, Single Origin Coffee, specialty coffee, specialty-grade coffee
+  - [What Makes Great Coffee: Quality, Care & Craft | Brew the Blend™](https://www.brewtheblend.com/blogs/default-blogs/what-makes-great-coffee-why-it-matters): What Makes Great Coffee: Quality, Care & Craft | Brew the Blend™
+    Updated: 2026-02-02T03:48:28Z
+    Author: Maria Culligan
+    Tags: BrewTheBlend, CoffeeCare, CoffeeCulture, CoffeeLovers, CoffeeMoment, CoffeeTime, DailyCoffee, GreatCoffee, MorningRitual, SpecialtyCoffee, ThoughtfulBrewing, YourDailyDoseOfDelight
+  - [Because of You, Comfort Goes Further: Brew the Blend’s Ongoing Support of Ronald McDonald House Charities](https://www.brewtheblend.com/blogs/default-blogs/ongoing-support-of-ronald-mcdonald-house-charities): <p><meta charset="utf-8"><meta charset="utf-8">Brew the Blend’s support of Ronald McDonald House Charities reflects our belief that small businesses can create meaningful impact when community and purpose come together. By choosing Brew the Blend, customers directly help support nonprofit partnerships that provide comfort, care, and stability to families during critical moments.<br></p>
+    Updated: 2026-02-08T06:23:14Z
+    Author: Maria Culligan
+    Tags: Brew the Blend, Brew the Blend Values, Comfort and Care, Community Impact, Community Support, Giving Back, Nonprofit Partnerships, Ronald McDonald House Charities
+  - [Specialty-Grade Coffee Blends | Brew the Blend](https://www.brewtheblend.com/blogs/default-blogs/guide-to-specialty-grade-coffee): Specialty-Grade Coffee Blends | Brew the Blend
+    Updated: 2026-03-16T23:29:37Z
+    Author: Maria Culligan
+    Tags: Brazela, brew the blend, Dulce Altura Signature, EveryCup Original, specialty-grade coffee
 
 ## Store Pages
 
@@ -1167,7 +1019,7 @@
 - [ABOUT US](https://www.brewtheblend.com/pages/about-us): Brew the Blend™ exists to bring people together through the simple, comforting ritual of coffee and tea. Every cup has the power to uplift, pause, ...
   Updated: 2025-11-14T12:12:31Z
 - [Brew the Blend™ | Coffee, Tea, Accessories & Pure Ethereal](https://www.brewtheblend.com/pages/us-main): Have you ever wondered how your favorite coffee and tea brand came to be? The story behind Brew the Blend is one of unwavering passion, relentless ...
-  Updated: 2025-11-21T08:24:58Z
+  Updated: 2026-03-17T02:09:27Z
 - [Selected by Roast - Mini Guide](https://www.brewtheblend.com/pages/selected-by-roast): Not every coffee is brewed the same — and that’s the beauty of it. At Brew the Blend, each roast is carefully crafted to highlight unique flavors, ...
   Updated: 2025-09-19T09:05:50Z
 - [CONTACT BREW](https://www.brewtheblend.com/pages/contact-us)
