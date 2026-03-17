@@ -5,12 +5,12 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-08-07T21:04:50Z
-- Updated At: 2026-03-10T00:00:36.939Z
+- Updated At: 2026-03-17T00:00:40.174Z
 
 ## Products
 
 - [NKE Single Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/nke-single-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Transform your car with the NKE Single Exhaust Flamer Kit. Easy installation, universal fit for petrol cars. Premium flame thrower kit with On/Off Switch. £160.
-  Updated: 2026-03-05T09:56:48Z
+  Updated: 2026-03-13T18:08:56Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
@@ -405,28 +405,28 @@
 ## Collections
 
 - [Home page](https://nke-performance.com/collections/frontpage)
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 - [Vauxhall Astra VXR Flamer Kits](https://nke-performance.com/collections/vauxhall-flamer-kits): Premium flamer kits for Vauxhall VXR models. Our UK engineered performance exhaust flamer kits create stunning flames for Corsa VXR and Astra VXR.Available in single and dual flamer configurations from NKE Performance.
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 - [Ford Flamer Kits](https://nke-performance.com/collections/ford-flamer-kits-1): Premium flamer kits designed specifically for Ford vehicles. Our UK engineered performance exhaust flamer kits deliver spectacular flames for Focus RS, Focus ST, Fiesta ST, and Sierra models. Transform your Ford with NKE Performance quality and engineering.
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 - [Nissan Flamer Kits](https://nke-performance.com/collections/nissan-flamer-kits): Premium quad flamer kits designed for the legendary Nissan GTR R35. Our UK engineered performance exhaust flamer kits deliver spectacular four-flame effects that match the power and prestige of your GTR. NKE Performance quality engineering.
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 - [Mazda Flamer Kits](https://nke-performance.com/collections/mazda-flamer-kits): Premium dual flamer kits designed for the iconic Mazda RX8 rotary engine. Our UK engineered performance exhaust flamer kits create stunning flame effects that complement the unique character of your rotary-powered RX8. NKE Performance engineering excellence.
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 - [BMW](https://nke-performance.com/collections/bmw)
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 - [Subaru Impreza Flamer Kits](https://nke-performance.com/collections/subaru-impreza-flamer-kits)
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 - [Corsa VXR Flamer Kits](https://nke-performance.com/collections/corsa-vxr-flamer-kits)
-  Updated: 2026-03-05T12:38:32Z
+  Updated: 2026-03-14T11:32:41Z
   Total Products: 3
 
 ## Blogs
