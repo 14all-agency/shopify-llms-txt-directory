@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2026-03-10T00:00:26.872Z
+- Updated At: 2026-03-17T00:00:34.574Z
 
 ## Products
 
 - [Plus Size Red Floral Cotton Suit Set with Mandarin Neck-ThePlusSizeCo.](https://theplussizeco.com/products/red-floral-cotton-suit-set-with-mandarin-neck): Let elegance bloom with our Rust Floral Cotton Suit Set with Mandarin Neck. Features cotton fabric. Paired with bottom & dupatta. Sizes in XL to 10XL.
-  Updated: 2026-02-11T09:43:52Z
+  Updated: 2026-03-10T05:44:50Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: ₹1,294.00 INR
 - [Firozi Floral Cotton Straight Cut Suit - The Plus Size Co.](https://theplussizeco.com/products/firozi-floral-cotton-straight-cut-suit): A soothing firozi hue adorned with our Firozi Floral Cotton Straight Cut Suit. Features cotton fabric and 3/4th sleeves. Paired with bottom and dupatta. Sizes in XS to 10XL.
-  Updated: 2026-03-04T10:04:47Z
+  Updated: 2026-03-11T11:52:47Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -761,7 +761,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeOrangeFloralSuitSet_1_f987ef9c-9cba-4496-a701-d7b5a35e1b14.png?v=1765952532
   Price: ₹1,295.00 INR
 - [Pink Bandhani Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-bandhani-cotton-suit-set): Comfort-led cotton with our Pink Bandhani Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2026-03-01T08:00:06Z
+  Updated: 2026-03-16T15:50:18Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -987,7 +987,7 @@
   Updated: 2026-02-04T06:47:37Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
-  Updated: 2026-03-07T07:10:48Z
+  Updated: 2026-03-12T11:24:37Z
   Total Products: 62
 - [Plus Size Night Gowns for Women | Sleepwear up to 10XL – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-nightwear): Shop Comfy and Stylish Plus Size Night Gowns for Women in soft, breathable fabrics. Sizes from XL to 10XL. Perfect for restful nights at budget-friendly prices.
   Updated: 2026-02-09T12:21:17Z
@@ -999,7 +999,7 @@
   Updated: 2026-02-03T05:47:39Z
   Total Products: 19
 - [Affordable Plus Size Office Wear for Women  | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-office-wear): Upgrade your Work Wardrobe with Stylish and Budget-Friendly Plus Size Office Wear. Explore Suits, Co-ord Sets, Kurtas & more in Sizes XL to 10XL.
-  Updated: 2026-03-07T07:10:08Z
+  Updated: 2026-03-12T11:24:37Z
   Total Products: 25
 - [Plus Size Vacation Wear – Dresses, Kurtas & Co-ords| The Plus Size Co.](https://theplussizeco.com/collections/plus-size-vacation-wear): Plan your getaway in style with our Plus Size Vacation Wear. Shop Breezy Dresses, Chic Kurtas & Comfy Co-ord Sets in Sizes XL to 10XL. Travel-friendly & trendy!
   Updated: 2026-02-04T06:44:26Z
