@@ -6,28 +6,28 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-07-15T15:45:27Z
 - Contact Email: Pufa.co.il@gmail.com
-- Updated At: 2026-03-10T00:00:22.127Z
+- Updated At: 2026-03-18T00:00:33.993Z
 
 ## Products
 
 - [PUFA מתנה מיוחדת - תכשיטים בהפתעה: שרשראות, עגילים, צמידים - כסף וזהב](https://www.pufa.co.il/products/lucky-scoop): גלה את תכשיטי לאקי סקופ, מתנה מיוחדת שתשמח כל אחד. תכשיטים בהפתעה של פופה, מתנה ליום הולדת,מתנה לאישה,מתנה לילדה,
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-03-09T09:43:17Z
+  Updated: 2026-03-15T14:56:10Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/LuckyScoopWithApples.jpg?v=1772540544
   Price: ‏40.00 ‏₪ ILS
 - [קפסולה ענקית של PUFA - מתנה מיוחדת](https://www.pufa.co.il/products/giant-capsule): גלו את הקפסולה הענקית של PUFA - מתנה מיוחדת ליקיריכם.
-  Updated: 2026-03-03T12:22:40Z
+  Updated: 2026-03-15T15:47:22Z
   Vendor: Pufa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/GiantCapsule.jpg?v=1772540559
   Price: ‏60.00 ‏₪ ILS
 - [מנוי תכשיטים מושלמים עד הבית Pufa+ לא צריך לחפש שעות את הטרנד הבא](https://www.pufa.co.il/products/pufa): בכל חודש פריטים חדשים שנבחרו בקפידה, בלי לחזור על אותו דגם. בחירת גוון, רק תכשיטים מהממים ומה שבאופנה ככה שלא צריך לחפש שעות מה הכי חם וטרנדי. משלוחים לכל הארץ.
-  Updated: 2026-03-03T12:22:25Z
+  Updated: 2026-03-13T14:28:05Z
   Vendor: Pufa
   Product Type: 
   Availability: Available
@@ -45,14 +45,14 @@ PUFA
 את מקבלת קפסולות סגורות, פותחת לבד, ומגלה תכשיטים הכי יפים וטרנדיים שמתאימים בול לסטייל שאת אוהבת
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-03-07T14:30:06Z
+  Updated: 2026-03-13T14:32:56Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/PufaStyleMatch_-_3.jpg?v=1772540532
   Price: ‏30.00 ‏₪ ILS
 - [PUFA מתנה מיוחדת לגברים - תכשיטים בהפתעה: שרשראות, צמידים וטבעות](https://www.pufa.co.il/products/lucky-scoop-men): גלה את לאקי סקופ לגברים של PUFA - תכשיטים בהפתעה: שרשראות, צמידים וטבעות בשחור, כסף, זהב או צבעוני. מתנה מושלמת לגבר.
-  Updated: 2026-03-07T14:27:40Z
+  Updated: 2026-03-13T14:32:56Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
@@ -156,6 +156,8 @@ PUFA
   Updated: 2025-10-21T19:28:08Z
 - [Loyalty Program](https://www.pufa.co.il/pages/loyalty-page)
   Updated: 2026-03-05T21:26:24Z
+- [עמוד ביקורות של לקוחות](https://www.pufa.co.il/pages/reviews)
+  Updated: 2026-03-13T12:24:30Z
 
 ## Policies
 
