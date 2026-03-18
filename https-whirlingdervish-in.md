@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-01-25T09:14:33Z
 - Contact Email: whirlingdervishinfo@gmail.com
-- Updated At: 2026-03-11T00:00:24.930Z
+- Updated At: 2026-03-18T00:00:33.887Z
 
 ## Products
 
@@ -627,7 +627,7 @@
     Availability: Available
     Price: ₹4,500.00 INR
 - [Brown Floral Corset with Sleeves & Draped Dhoti Skirt](https://whirlingdervish.in/products/brown-floral-corset-with-sleeves-draped-dhoti-skirt): GARMENT DETAILS Co-ord set of Coset and Dhoti skirt --Corset with sleeves--Crop corset with double flap necklineBrass eyelet closure at the back with string fasteningElasticated detachable sleeves --Dhoti Skirt details--Long Draped dhoti stylePleats and cowl in the front and back Belt waistline in front and elasticated at the back Please Note: Print placement may vary for every product. Shipping: 10-12 business days
-  Updated: 2025-01-30T23:47:54Z
+  Updated: 2026-03-15T06:36:49Z
   Vendor: Whirling Dervish
   Product Type: Woman
   Availability: Available
@@ -693,7 +693,7 @@
     Availability: Available
     Price: ₹12,000.00 INR
 - [Splatter Print Big Collar Shirt & Mini Wrap Skirt](https://whirlingdervish.in/products/splatter-print-big-collar-shirt-mini-wrap-skirt): GARMENT DETAILSCo-ord set with shirt and skirt --Shirt details--Button-down crop shirtStatement big collarsCoconut buttons for fasteningSide slitsBack slit with button closure --Skirt Details--Mid-thigh length styleWrap around skirt with wooden button fasteners for adjusting waistlineFray edge detailCoconut button fasteners inside and outside Please Note: Print placement may vary for every product. Shipping: 10-12 business days
-  Updated: 2025-02-12T02:29:55Z
+  Updated: 2026-03-14T08:43:42Z
   Vendor: Whirling Dervish
   Product Type: Woman
   Availability: Available
