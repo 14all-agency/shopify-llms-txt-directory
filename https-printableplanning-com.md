@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-03-11T16:00:28.717Z
+- Updated At: 2026-03-18T20:00:29.883Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -22,7 +22,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Rainbow_Weekly_Meal_Planning_Page_-_Printable_Planning_2.jpg?v=1560293199
   Price: $5.95 USD
 - [Pink Blue and Purple Grocery Lists - 3 Lists Per Page - Printable](https://printableplanning.com/products/pink-blue-and-purple-grocery-lists-3-lists-per-page): Convenient printable Pink Blue and Purple Grocery Lists - 3 Lists Per Page in pink, blue, and purple. Make writing grocery lists convenient with these organized lists. We've added lines for your grocery items, check boxes to mark off the items as you add them to your grocery cart, and  circles to use if you know you have a  for that item. That takes out the guess work at the cash register. These lists are super affordable, and you can print as many as you need for as long as you have this printable PDF. SPECIFICATIONS: 8.5" x 11" printable PDF page. 3 lists per printed page. Color coded. Print new Pink Blue and Purple Grocery Lists - 3 Lists Per Page every time you need more.
-  Updated: 2025-07-21T19:21:41Z
+  Updated: 2026-03-15T01:08:20Z
   Vendor: Artistically Invited
   Product Type: Meal Planning
   Availability: Available
@@ -141,7 +141,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Pink_and_Yellow_Weekly_Meal_Planning_Page_-_Printable_Planning.jpg?v=1564501301
   Price: $5.95 USD
 - [Pink and Blue Weekly Meal Planning Page with Grocery List - Printable](https://printableplanning.com/products/pink-blue-weekly-meal-planning-page-with-grocery-list-printable): A convenient printable Pink and Blue Weekly Meal Planning Page with Grocery List designed with an alternating pink and blue color scheme. The days of the week are multicolored to visually separate them. Columns include planning for your breakfast, lunch, snacks, and dinner for each day. Stay on top of the week you're planning for with a place to write the date to which your weekly planner applies. We've provided a section on the right for a grocery list where you can write the foods and ingredients you'll need for the week. Simply (and carefully) cut the list off of the page to take with you to the Grocery Store and mark the little box on each line to check off the items as you put them in your grocery cart. SPECIFICATIONS: 8.5" x 11" printable PDF page. Days run Sunday through Saturday. Color coded: Pink and Blue. Convenient grocery list section. Print a new printable Pink and Blue Weekly Meal Planning Page with Grocery List every week.
-  Updated: 2025-07-21T19:21:15Z
+  Updated: 2026-03-15T00:07:08Z
   Vendor: Artistically Invited
   Product Type: Meal Planning
   Availability: Available
@@ -841,7 +841,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/WinterColorfulSnowflakeAddressLabels-EXAMPLE-PrintablePlanning_f49f85d6-883d-4a07-a935-10d129aa8bb2.jpg?v=1686182033
   Price: $5.95 USD
 - [Printable Snowflake Personalized Gift Tags - Blue Red Green, DIY Gifts](https://printableplanning.com/products/snowflake-personalized-gift-tags-blue-red-green-printable): Create personalized gift tags with blue, red, and green snowflakes. Customize with names, print on cardstock, and enjoy a DIY holiday project. Use every year!
-  Updated: 2025-07-21T19:20:32Z
+  Updated: 2026-03-15T06:18:59Z
   Vendor: Artistically Invited
   Product Type: Holiday and Occasion
   Availability: Available
@@ -1072,7 +1072,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/AdorableFrogBluePinkGreenPersonalizedBookmarks-PrintablePlanning.jpg?v=1686328199
   Price: $5.95 USD
 - [BUNDLE: Personalized Soccer Ball Bookmarks - Printable](https://printableplanning.com/products/personalized-soccer-green-purple-pink-and-blue-bookmarks-printable): Fun DIY bundle of printable personalized soccer ball bookmarks for your children or students that can be personalized with their names, and when printed on card stock makes for a durable reading gift. These fun sports themed bookmarks are designed with black and white soccer ball paired with different solid colors of green, purple, pink, and blue for each bookmarks page, and the names are personalized in black. Parents and teachers love these affordable bookmarks because you can print as many as you need, changing the names as needed. Teachers can print these bookmarks for different occasions throughout the year and change the names to fit their classroom every year. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these bookmarks from these printable pages. PLEASE NOTE: Font size, style, and color is available only as shown. SPECIFICATIONS: (4) @ 8.5" x 11" printable PDF pages. Bookmarks measure approximately 7" x 2" each. Edit the names (every time you print). Colorful and fun for boys or girls. Print a new page of these printable personalized soccer ball bookmarks every time you need more.
-  Updated: 2025-07-21T19:20:27Z
+  Updated: 2026-03-12T08:32:49Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
@@ -1324,7 +1324,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsPurpleandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497588
   Price: $4.95 USD
 - [Purple Name Labels for School Supplies - Printable](https://printableplanning.com/products/purple-name-labels-for-school-supplies-printable): Printable 8.5" x 11" page of Purple Name Labels for School Supplies designed in a purple color scheme and personalized with your first and last name. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines. Edit one label and it updates every label. Print a new printable Purple Name Labels for School Supplies page every time you need more back-to-school (or other use) name labels.
-  Updated: 2025-07-21T19:20:21Z
+  Updated: 2026-03-12T02:25:49Z
   Vendor: Artistically Invited
   Product Type: Name Labels
   Availability: Available
@@ -1457,7 +1457,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BaseballRedBluePurplePinkPersonalizedBookmarks-PrintablePlanning.jpg?v=1686699922
   Price: $5.95 USD
 - [Personalized Cute Honeycomb Bee Bookmarks - Printable](https://printableplanning.com/products/personalized-cute-honeycomb-bee-bookmarks-printable): Cute DIY printable personalized cute honeycomb bee bookmarks for your children or students that can be personalized with their names, and when printed on card stock makes for a durable reading gift. These fun bookmarks are designed with a cute bee illustration paired with a turquoise and golden honeycomb background on each bookmark, and the names are personalized in black. Parents and teachers love these affordable bookmarks because you can print as many as you need, changing the names as needed. Teachers can print these bookmarks for different occasions throughout the year and change the names to fit their classroom every year. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these bookmarks from these printable pages. PLEASE NOTE: Font size, style, and color is available only as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Bookmarks measure approximately 7" x 2" each. Edit the names (every time you print). Cute neutral design for boys or girls. Print a new page of these printable personalized cute honeycomb bee bookmarks every time you need more.
-  Updated: 2025-07-21T19:20:17Z
+  Updated: 2026-03-12T08:03:23Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
@@ -1919,7 +1919,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Pet_Care_-_New_Client_Checklist_-_Visits_n_Overnights_-_Printable_Planning_8d2a490b-5ac6-4f3c-b115-56697050d78e.jpg?v=1564705800
   Price: $5.95 USD
 - [Pet Care - New Client Checklist, Visits List - Printable](https://printableplanning.com/products/pet-care-new-client-checklist-visits-list-printable): An editable printable Pet Care - New Client Checklist, Visits List for your pet-sitting or pet care business to manage new clients. This new client checklist keeps track of client contact information and types and number of pets. You can the visits needed. You have a 3 line full length notes section at the bottom. You also have a Office Checklist section with 8 check-boxes. The text in this section is editable! Change these 8 checklist lines to fit your business needs. There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. Sections included: Contact information. Pet types and number of pets. Visits list. Office Checklist - editable! Change the text (font and size stays the same). Notes section. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. The text in the Office Checklist is editable (Adobe Reader, preferred for editing). Print more printable Pet Care - New Client Checklist, Visits List pages as needed.
-  Updated: 2025-07-21T19:19:40Z
+  Updated: 2026-03-14T01:24:16Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
@@ -1982,7 +1982,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableCuteSantaHatElephantMerryChristmasGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687844025
   Price: $5.95 USD
 - [Cute Santa Hat Elephant Gift Tag Stickers - Printable](https://printableplanning.com/products/cute-santa-hat-elephant-gift-tag-stickers-printable): Printable Cute Santa Hat Elephant Gift Tag Stickers designed with a cute elephant wearing a Santa Hat over light blue, and "to" and "from" for writing gifting names by hand over white below the cute elephant. These gift tags are round in shape to be printed on regular card stock, sticker paper, or 2" 12-up round sticker paper. SPECIFICATIONS: 8.5" x 11" printable PDF page. 12 tags per page. Round Tags measure a diameter of 2"+ each. (Includes a bleed for when used with 2" round sticker paper or when using a 2" round paper punch. Fits Avery template #22807 or comparable template. See Avery for details. Print a new page of these printable Cute Santa Hat Elephant Gift Tag Stickers every time you need more.
-  Updated: 2025-07-21T19:19:39Z
+  Updated: 2026-03-12T05:42:52Z
   Vendor: Artistically Invited
   Product Type: Holiday and Occasion
   Availability: Available
@@ -1996,7 +1996,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CuteSantaHatFrogGiftTagStickers12up-EXAMPLE-PrintablePlanning.jpg?v=1687885557
   Price: $5.95 USD
 - [Printable Cute Penguin Gift Tag Stickers | Fun for All Occasions](https://printableplanning.com/products/cute-penguin-gift-tag-stickers-printable): Printable Cute Penguin Gift Tag Stickers, perfect for personalizing gifts. Easy to print on peel-and-stick sticker paper. Add fun to your gift-giving today!
-  Updated: 2025-07-21T19:19:38Z
+  Updated: 2026-03-12T08:41:36Z
   Vendor: Artistically Invited
   Product Type: Holiday and Occasion
   Availability: Available
@@ -2234,14 +2234,14 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Tasks_for_the_Week_-_Pink_Grid_-_Printable_Planning.jpg?v=1560293219
   Price: $5.95 USD
 - [My Tasks for the Week, Purple To-Do List, Task Checklist - Printable](https://printableplanning.com/products/my-tasks-for-the-week-purple-to-do-list-task-checklist-printable): Introducing the My Tasks for the Week, Purple To-Do List, Task Checklist! A purple printable weekly to-do list with a grid format. Each row is a day of the week with the weekend days shaded. This purple task checklist for the week has a column for important tasks, regular tasks, and a place to write notes. Each task you write has up to 4 completion circles that you can fill in when the task is completed. Columns included: Day and Date. (Day is pre-filled, you fill in the date vertically.) Important Tasks (with 4 completion circles per day of the week). Tasks (with 4 completion circles per day of the week). Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern purple and gray design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Tasks for the Week, Purple To-Do List, Task Checklist page every week or as needed.
-  Updated: 2025-07-21T19:19:33Z
+  Updated: 2026-03-14T05:47:29Z
   Vendor: Artistically Invited
   Product Type: To-Do List
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Tasks_for_the_Week_-_Purple_Grid_-_Printable_Planning.jpg?v=1560293213
   Price: $5.95 USD
 - [Phone Call Message Log - Printable](https://printableplanning.com/products/phone-call-message-log-printable): A printable phone call message log ideal for small businesses. Use this printable call log or call back list to write down the messages received, along with name and a contact number, date and time, and check off if the person wants a call back. Items included in each message block: Name. Contact Number. Date. Time. Message (with 4 lines for the message). Call back (checkbox). SPECIFICATIONS: 8.5" x 11" printable PDF page. Clean and simple design. 4 message blocks per page. There is a .25" border on each side, ideal for most printers. Excellent for small businesses. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new phone call message log every time you need more.
-  Updated: 2025-07-31T04:07:09Z
+  Updated: 2026-03-12T18:11:18Z
   Vendor: Artistically Invited
   Product Type: Small Business Forms
   Availability: Available
@@ -2269,7 +2269,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Disability_Care_-_Daily_Care_Sheet_-_Printable_Planning.jpg?v=1561318368
   Price: $5.95 USD
 - [Fundraising Form, 12 Item Columns - Printable](https://printableplanning.com/products/fundraising-form-12-item-columns-printable): A printable fundraising form, 12 item columns with editable fields to fit your organization and cause, and fundraising items. Personalize this PDF file with your cause, organization and contact information, with your items and their prices, and a note along the bottom. This form supports up to 12 items with their prices and up to 10 customers per page. Editable Sections: Fundraising cause (1 line). Organization name, address, and phone (up to 4 lines). 12 Items and their prices. Note along the bottom (1 line). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Simple and clean. Edit the designated text. Fonts, colors, and layout are available only as shown. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable fundraising form with 12 item columns as needed for your fundraiser(s).
-  Updated: 2026-03-04T16:39:28Z
+  Updated: 2026-03-17T22:25:37Z
   Vendor: Artistically Invited
   Product Type: Fundraising Forms
   Availability: Available
@@ -2311,7 +2311,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Disability_with_Therapy_-_Daily_Care_Sheet_-_Printable_Planning.jpg?v=1686174086
   Price: $5.95 USD
 - [Medication Schedule for Long   Lists - Printable](https://printableplanning.com/products/medication-schedule-for-long---lists-printable): A printable Medication Schedule for keeping track of a long list of medicines (and vitamins) that need to be taken throughout the day at different time schedules. This is ideal for people who have a large regimen of medications that need to be administered throughout the day, all at different times. Checking the medicines off as you take them (or administer them) helps to clearly see in a glance what has already been taken and what still remains that day. There is room on the left side of these Medication Schedule sheets for you to use a 3-hole punch to organize your pages in a binder. Benefits: You can personalize it at the top with the name of the person and date of birth. Edit list of medications in order of time administered, listing time, medication name and short description, and dosage. Listing by time of day allows you to list the same medication multiple times if it is to be taken more than once a day. Handwrite dates so list does not have to be re-edited every week. Check off medicines as they are administered for each day of the week to clearly see progress and keep schedule organized. 7 days of the week are included on one page. If your scheduled list is longer than one page, print two and continue your list on the second page. SPECIFICATIONS & BENEFITS: (2) 8.5" x 11" printable PDF pages. (1) file for PDF app editing and (1) file that is blank for writing by hand. Offset to the right to allow for a 3-hole punch. Simple and clean. Fonts and layout are available only as shown. Print a new Medication Schedule every week, or any time your list of medicines or their schedule change, or as needed.
-  Updated: 2025-07-31T03:27:13Z
+  Updated: 2026-03-13T22:57:17Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
@@ -2839,19 +2839,19 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-03-11T11:01:25Z
+  Updated: 2026-03-14T11:01:23Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-03-03T12:01:18Z
   Total Products: 238
 - [Printable Downloads | Checklists, Planners, Forms, and Trackers](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-03-11T11:01:25Z
+  Updated: 2026-03-14T11:01:23Z
   Total Products: 407
 - [Organization Printables | Lists, Logs, and Helpers](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-03-10T11:01:18Z
+  Updated: 2026-03-13T11:01:04Z
   Total Products: 13
 - [Caregiver Forms | Health Logs and Housekeeping](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-03-11T11:01:25Z
+  Updated: 2026-03-14T11:01:23Z
   Total Products: 42
 - [Printable Financial Sheets | Budget, Bills, Savings, and Debt](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
   Updated: 2026-03-11T11:01:25Z
@@ -2872,7 +2872,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-03-01T12:01:29Z
   Total Products: 53
 - [School and Teacher Printables | Forms, Labels, and Checklists](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-03-05T12:01:54Z
+  Updated: 2026-03-13T11:01:04Z
   Total Products: 42
 - [Children’s Printables | Chore Charts, Activities, and Helpers](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-02-24T20:10:22Z
@@ -2881,10 +2881,10 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-02-24T20:10:08Z
   Total Products: 8
 - [Small Business Printables | Invoices, Trackers, and Forms](https://printableplanning.com/collections/small-business-sheets-and-forms): Small business printables for invoices, scheduling, bookkeeping, and tracking. Simple forms and sheets to organize work and clients.
-  Updated: 2026-02-24T20:10:26Z
+  Updated: 2026-03-13T11:01:04Z
   Total Products: 15
 - [Printable To-Do Lists and Task Checklists | Daily and Weekly](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-02-24T20:10:18Z
+  Updated: 2026-03-13T11:01:04Z
   Total Products: 26
 
 ## Store Pages
