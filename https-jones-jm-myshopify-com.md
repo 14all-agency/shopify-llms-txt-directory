@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-03-11T12:00:26.086Z
+- Updated At: 2026-03-18T16:00:26.125Z
 
 ## Products
 
@@ -860,6 +860,9 @@
     Author: User
   - [Uncovering the Truth About Biodegradable vs. Compostable Products](https://jones-jm.myshopify.com/blogs/news/uncovering-the-truth-about-biodegradable-vs-compostable-products): Uncovering the Truth About Biodegradable vs. Compostable Products
     Updated: 2026-03-09T00:01:00Z
+    Author: User
+  - [A Beginner's Guide to Cooking with Seasonal and Local Ingredients](https://jones-jm.myshopify.com/blogs/news/a-beginners-guide-to-cooking-with-seasonal-and-local-ingredients): A Beginner's Guide to Cooking with Seasonal and Local Ingredients
+    Updated: 2026-03-16T00:00:58Z
     Author: User
 
 ## Store Pages
