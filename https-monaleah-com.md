@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-07-30T03:16:35Z
 - Contact Email: care@monaleah.com
-- Updated At: 2026-03-10T00:00:34.748Z
+- Updated At: 2026-03-18T00:00:37.501Z
 
 ## Products
 
 - [Personalized Dog Memorial Stone with Photo - Custom Pet Loss Sympathy Gift](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift): Honor your pet with a personalized dog memorial stone featuring their photo. Join 5,000+ happy customers who trust our 5-star handcrafted sympathy gifts
-  Updated: 2026-03-09T15:04:58Z
+  Updated: 2026-03-16T15:10:58Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -962,33 +962,33 @@
   - [SD-99 / 8x8 inch w/ stand / c](https://monaleah.com/products/horse-memorial-photo-plaque-equestrian-gift?variant=51948193349813)
     Availability: Available
     Price: $39.90 USD
-- [Metal Display Stand for 6 inch or 8 inch Stones and Plaques](https://monaleah.com/products/metal-display-stand-for-6-inch-or-8-inch-stones-and-plaques): Complete your memorial with a display designed for elegance and stability. This premium iron stand provides a secure, graceful resting place for your stone.
-  Updated: 2026-02-11T17:51:16Z
-  Vendor: Monaleah
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/stand_1.png?v=1768796543
-  - [6 inch](https://monaleah.com/products/metal-display-stand-for-6-inch-or-8-inch-stones-and-plaques?variant=52178392514741)
-    Availability: Available
-    Price: $5.90 USD
-  - [8 inch](https://monaleah.com/products/metal-display-stand-for-6-inch-or-8-inch-stones-and-plaques?variant=52178392547509)
-    Availability: Available
-    Price: $6.90 USD
 - [Premium Sympathy Card](https://monaleah.com/products/premium-sympathy-card)
-  Updated: 2026-02-28T02:17:26Z
+  Updated: 2026-03-16T15:14:07Z
   Vendor: Monaleah
   Product Type: Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/card_1_1.jpg?v=1769761855
   Price: $5.00 USD
+- [Metal Display Stand for 6 or 8 inch Stones and Plaques](https://monaleah.com/products/metal-display-stand-for-6-or-8-inch-stones-and-plaques): Complete your memorial with a display designed for elegance and stability. This premium iron stand provides a secure, graceful resting place for your stone.
+  Updated: 2026-03-17T21:19:18Z
+  Vendor: Monaleah
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/stand_1.png?v=1768796543
+  - [6 inch](https://monaleah.com/products/metal-display-stand-for-6-or-8-inch-stones-and-plaques?variant=52356971626677)
+    Availability: Available
+    Price: $5.90 USD
+  - [8 inch](https://monaleah.com/products/metal-display-stand-for-6-or-8-inch-stones-and-plaques?variant=52356971659445)
+    Availability: Available
+    Price: $6.90 USD
 
 ## Collections
 
 - [All Products](https://monaleah.com/collections/all)
-  Updated: 2026-03-09T12:56:58Z
+  Updated: 2026-03-16T15:13:05Z
   Total Products: 30
 - [Memorial Stones](https://monaleah.com/collections/memorial-stones)
-  Updated: 2026-03-09T12:56:58Z
+  Updated: 2026-03-12T11:21:02Z
   Total Products: 7
 - [Garden Stones](https://monaleah.com/collections/garden-stones)
   Updated: 2026-01-24T19:14:28Z
