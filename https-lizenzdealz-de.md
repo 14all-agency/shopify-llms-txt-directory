@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-12-01T12:10:54Z
 - Contact Email: support@lizenzdealz.de
-- Updated At: 2026-03-07T00:00:42.330Z
+- Updated At: 2026-03-18T00:00:46.489Z
 
 ## Products
 
