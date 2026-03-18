@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2022-01-03T10:15:31Z
 - Contact Email: bcbgprovence@gmail.com
-- Updated At: 2026-03-07T00:00:40.643Z
+- Updated At: 2026-03-18T00:00:43.507Z
 
 ## Products
 
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/products/83355038-1460-4816-bc2a-3a381176924f-removebg-preview.png?v=1649767374
   Price: €25.00 EUR
 - [" Exotic Butterflies" T-Shirt](https://bcbgprovence.com/products/white-t-shirt-with-exotic-butterflies): New season t-shirt for ladies with exotic handmade organza mini butterflies and romantic patch!This piece transforms any outfit in instant!Made in France from 100% stretch cotton.
-  Updated: 2025-01-06T22:14:00Z
+  Updated: 2026-03-12T01:36:31Z
   Vendor: BCBGProvence
   Product Type: Ladies T-Shirts
   Availability: Available
@@ -412,7 +412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-04at13.19.51_2_-Photoroom.png?v=1712230634
     Price: €85.00 EUR
 - [Rockstar Pug "On The Rock" T-Shirt](https://bcbgprovence.com/products/rockstar-pug-on-the-rock-t-shirt): Unleash your inner rockstar with our 'On The Rock' T-Shirt! Featuring a cool pug with sunglasses, headphones, and a guitar, this 100% cotton shirt is perfect for music lovers and dog enthusiasts. Comfortable, durable, and fun—add a rockin' vibe to your wardrobe!
-  Updated: 2025-01-20T08:03:25Z
+  Updated: 2026-03-13T00:22:26Z
   Vendor: BCBG Provence
   Product Type: T-shirts
   Availability: Available
@@ -932,7 +932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/products/Sd0d9abf730eb4002b5ab033b1e0f3fefR-removebg-preview.png?v=1664726843
     Price: €50.00 EUR
 - [Square Pure Twill Silk Printed Scarf 90x90cm "French Desserts"](https://bcbgprovence.com/products/square-pure-twill-silk-printed-scarf-90x90cm-french-desserts): Square Pure Twill Silk Printed Scarf "French Desserts".High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-12-09T22:05:56Z
+  Updated: 2026-03-08T17:10:46Z
   Vendor: BCBG Provence
   Product Type: Scarf
   Availability: Available
@@ -1113,22 +1113,22 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/products/FenecFox-PhotoRoom.png?v=1677673037
   Price: €25.00 EUR
 - [100% Twill Silk Scarf "Manège"](https://bcbgprovence.com/products/100-twill-silk-scarf-manege): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2026-02-09T01:57:22Z
+  Updated: 2026-03-11T04:56:46Z
   Vendor: BCBG Provence
   Product Type: Scarves & Shawls
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/lifestyle-shot-dc94b249-cbc1-4aee-ae91-d4e28a634234.jpg?v=1770560361
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/1765882586.webp?v=1773164629
   - [Green](https://bcbgprovence.com/products/100-twill-silk-scarf-manege?variant=41303442555019)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.54-Photoroom.png?v=1770557193
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.54-Photoroom.png?v=1773161754
     Price: €75.00 EUR
   - [Yellow](https://bcbgprovence.com/products/100-twill-silk-scarf-manege?variant=41303442587787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.54_5_-Photoroom.png?v=1770557193
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.54_5_-Photoroom.png?v=1773161754
     Price: €75.00 EUR
   - [Pink](https://bcbgprovence.com/products/100-twill-silk-scarf-manege?variant=41303442620555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.55_4_-Photoroom.png?v=1770557193
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.55_4_-Photoroom.png?v=1773161754
     Price: €75.00 EUR
 - [100% Twill Silk Scarf "De La Mer Au Ciel"](https://bcbgprovence.com/products/100-twill-silk-scarf-de-la-mer): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
   Updated: 2025-08-22T08:17:04Z
@@ -1294,12 +1294,12 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240303_1258051-Photoroom.png?v=1709475578
     Price: €200.00 EUR
 - [Luxury Double Sided Silk Twill Scarf "Tigre Dans La Forêt"](https://bcbgprovence.com/products/luxury-double-sided-silk-twill-scarf-tigre-dans-la-foret): Romantic yet contemporary, our double sided "Tigre Dans La Forêt" scarf is the perfect addition to elevate any outfit.So similar and so different… True innovation as much as technical prowess, this twin square scarf printed on both sides affirms double beauty!Handcrafted in France from 100% pure silk twill finished with finely rolled hand-stitched edges, vibrant and versatile transcend seasonal trends, making it perfect gift to be treasured for years to come.Length: 90cm / Width: 90cm.Hand-crafted in France."Tigre in the forest" double sided design.Pure silk twill.Hand-rolled and stitched edges.Dry clean only.
-  Updated: 2026-03-06T07:48:03Z
+  Updated: 2026-03-14T15:51:48Z
   Vendor: BCBGProvence
   Product Type: Scarves & Shawls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-11-27at17.03.43-Photoroom.png?v=1732723753
-  Price: €180.00 EUR
+  Price: €150.00 EUR
 - [Square Pure Twill Silk Printed Scarf 90x90cm "Les Lanternes Thailandaises"](https://bcbgprovence.com/products/square-pure-twill-silk-printed-scarf-90x90cm-les-lanternes-thailandaises): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
   Updated: 2025-12-17T11:15:00Z
   Vendor: BCBG Provence
@@ -1500,18 +1500,18 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240320_135613-Photoroom.png?v=1711024526
   Price: €130.00 EUR
 - [Luxury Silk Twill Scarf "L'Arche De Noé"](https://bcbgprovence.com/products/luxury-silk-twill-scarf): Romantic ,but contemporary, our pure silk scarf the perfect complement to enhance any outfit.Handmade in France from 100% pure silk twill with finely rolled, hand-stitched edges, vibrant and versatile transcending seasonal trends, making it a perfect gift to cherish for years to come.
-  Updated: 2025-08-13T14:38:50Z
+  Updated: 2026-03-10T00:09:23Z
   Vendor: BCBG Provence
   Product Type: Scarves & Shawls
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240322_152842-Photoroom.png?v=1711464211
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240322_154107-Photoroom.png?v=1772989293
   - [Blue](https://bcbgprovence.com/products/luxury-silk-twill-scarf?variant=47889828381004)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240322_152842-Photoroom.png?v=1711464211
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240322_152842-Photoroom.png?v=1772989293
     Price: €130.00 EUR
   - [Pink](https://bcbgprovence.com/products/luxury-silk-twill-scarf?variant=47889828413772)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240322_154107-Photoroom.png?v=1711464223
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240322_154107-Photoroom.png?v=1772989293
     Price: €130.00 EUR
 - [Luxury Silk Twill Scarf "Un Monde Sans Fin"](https://bcbgprovence.com/products/luxury-silk-twill-scarf-un-monde-sans-fin): Romantic ,but contemporary, our pure silk scarf the perfect complement to enhance any outfit.Handmade in France from 100% pure silk twill with finely rolled, hand-stitched edges, vibrant and versatile transcending seasonal trends, making it a perfect gift to cherish for years to come.
   Updated: 2025-11-16T01:46:41Z
@@ -1676,7 +1676,7 @@
 ## Collections
 
 - [New Arrivals](https://bcbgprovence.com/collections/new-arrivals)
-  Updated: 2026-02-26T10:55:30Z
+  Updated: 2026-03-14T15:51:49Z
   Total Products: 90
 - [Mens Clothing](https://bcbgprovence.com/collections/mens-clothing): Discover unique and stylish men's clothing at BCBG Provence, featuring vibrant graphic tees and embroidered designs. Enjoy 30% off with the code SUMMER30 and free worldwide delivery. Elevate your wardrobe with bold, statement pieces inspired by Southern French fashion. Shop now!
   Updated: 2025-09-29T11:10:27Z
@@ -1688,7 +1688,7 @@
   Updated: 2024-03-27T15:35:09Z
   Total Products: 9
 - [Accessories](https://bcbgprovence.com/collections/accessories)
-  Updated: 2026-02-20T12:14:52Z
+  Updated: 2026-03-14T15:51:49Z
   Total Products: 95
 - [BCBG Vintage](https://bcbgprovence.com/collections/bcbg-vintage): BCBG Vintage Accessories brings together unique, timeless pieces that add a touch of character to any outfit. Each accessory is full of vintage charm, perfect for everyday style with a fun, effortless twist.
   Updated: 2026-02-26T10:55:30Z
