@@ -6,21 +6,21 @@
 - Timezone: Europe/London
 - Created At: 2025-03-31T14:23:41Z
 - Contact Email: Fluffy@hotcatgames.com
-- Updated At: 2026-03-11T00:00:37.536Z
+- Updated At: 2026-03-19T00:00:38.313Z
 
 Hot Cat Games makes strategic, replayable card games with a cat theme. Founded in the UK with a cat acting as CEO. Two games available: Fat Cats (a stock market  card game with 72 million possible markets) and Furball (a strategic card game with sabotage). Designed for adults and families, ages 8+.
 
 ## Products
 
 - [Furball | Strategic Card Game With Sabotage for 2-6 Players | Hot Cat Games](https://hotcatgames.com/products/furball): A cat-themed memory card game where you swap, snap, score and sabotage your friends. A card game for people who like cats and sabotaging friends. 2-6 players, ages 8+, 15 mins. UK shipping.
-  Updated: 2026-03-09T06:37:42Z
+  Updated: 2026-03-17T12:08:38Z
   Vendor: Hot Cat Games
   Product Type: Card Game
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/9523/0729/files/ProductShotFB_brighter.png?v=1767626552
   Price: £17.99 GBP
 - [Fat Cats | Stock Market Card Game for 2-6 Players | Hot Cat Games](https://hotcatgames.com/products/fat-cats): A cat-themed stock market card game. Buy, trade and crash your way through 72 million possible markets. A card game for people who love cats and making money. 2-6 players, ages 8+, 30 mins. UK shipping.
-  Updated: 2026-03-08T13:04:06Z
+  Updated: 2026-03-17T12:08:57Z
   Vendor: Hot Cat Games
   Product Type: Card Game
   Availability: Available
@@ -30,10 +30,10 @@ Hot Cat Games makes strategic, replayable card games with a cat theme. Founded i
 ## Collections
 
 - [Furball](https://hotcatgames.com/collections/furball)
-  Updated: 2026-03-07T23:44:06Z
+  Updated: 2026-03-18T11:39:05Z
   Total Products: 1
 - [Fatcats](https://hotcatgames.com/collections/fatcats)
-  Updated: 2026-03-08T11:37:22Z
+  Updated: 2026-03-18T11:39:05Z
   Total Products: 1
 
 ## Store Pages
@@ -46,6 +46,8 @@ Hot Cat Games makes strategic, replayable card games with a cat theme. Founded i
   Updated: 2025-07-15T22:45:47Z
 - [Furball Quick Start](https://hotcatgames.com/pages/furball-quick-start): Learn how to play Furball in 3 minutes.
   Updated: 2026-01-04T19:53:18Z
+- [Your Privacy Choices](https://hotcatgames.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-03-15T19:15:48Z
 
 ## Policies
 
