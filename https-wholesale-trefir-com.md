@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2024-09-12T13:08:00Z
 - Contact Email: mmeziad@trefir.com
-- Updated At: 2026-03-12T00:00:45.622Z
+- Updated At: 2026-03-19T00:00:47.537Z
 
 ## Products
 
@@ -513,7 +513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-15-59-04.jpg?v=1751008986
     Price: $52.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154088): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-06T06:48:18Z
+  Updated: 2026-03-14T10:38:23Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -840,7 +840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_1541020_Tobacco--Synthetic-Nubuck_1.jpg?v=1751008972
     Price: $52.00 USD
 - [Wholesale Women’s Printed Sabo Clogs | Lightweight & Durable](https://wholesale.trefir.com/products/womens-sabo-1541022): Women’s printed sabo clogs for wholesale buyers. Lightweight, durable, and high-demand—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-03-06T06:48:25Z
+  Updated: 2026-03-16T13:07:58Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -875,7 +875,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541026_Print--Synthetic-Pranetta_1.jpg?v=1751008968
   Price: $55.20 USD
 - [Wholesale Women’s Printed Sabo Clogs | Lightweight & Durable](https://wholesale.trefir.com/products/womens-sabo-1541027): Women’s printed sabo clogs for wholesale buyers. Lightweight, durable, and high-demand—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-02-09T17:39:29Z
+  Updated: 2026-03-16T12:36:33Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -931,7 +931,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541040_Print--Synthetic-Pranetta_1.jpg?v=1751008956
   Price: $55.20 USD
 - [Wholesale Men’s Casual Sandals | Durable & Lightweight](https://wholesale.trefir.com/products/mens-sabo-1541043): High-demand men’s sandals for wholesale buyers. Durable, lightweight, and ideal for retail stores, distributors, and bulk online sales.
-  Updated: 2026-02-19T12:20:32Z
+  Updated: 2026-03-12T08:18:28Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1272,14 +1272,14 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541085_Print--Synthetic-Pranetta_1.jpg?v=1751008926
   Price: $55.20 USD
 - [Wholesale Women’s Printed Sabo Clogs | Lightweight & Durable](https://wholesale.trefir.com/products/womens-sabo-1541086): Women’s printed sabo clogs for wholesale buyers. Lightweight, durable, and high-demand—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-03-06T11:21:20Z
+  Updated: 2026-03-16T11:01:07Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541086_Print--Synthetic-Pranetta_1.jpg?v=1751008925
   Price: $55.20 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154113): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-06T06:48:34Z
+  Updated: 2026-03-13T07:00:35Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1316,7 +1316,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541161_Print--Synthetic-Pranetta_1.jpg?v=1751008923
   Price: $55.20 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154120): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-11T11:38:09Z
+  Updated: 2026-03-13T07:00:36Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1674,7 +1674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-18-16.jpg?v=1751008914
     Price: $52.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154143): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-03T12:56:26Z
+  Updated: 2026-03-14T08:48:36Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1810,7 +1810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-24-03.jpg?v=1751008910
     Price: $52.00 USD
 - [Wholesale Women’s Casual Sandals | Lightweight & High-Demand](https://wholesale.trefir.com/products/womens-sandals-154148): Versatile women’s sandals made for wholesale. Breathable, lightweight, and high‑turnover — a top choice for retailers and distributors.
-  Updated: 2026-03-09T12:33:42Z
+  Updated: 2026-03-16T13:07:04Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1880,7 +1880,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DK1YZE.SP014.00.01608.png?v=1761046831
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154160): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-10T12:58:58Z
+  Updated: 2026-03-13T07:00:36Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1914,7 +1914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-04-16-17-01-02.jpg?v=1751008906
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154161): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-02-19T13:30:18Z
+  Updated: 2026-03-12T11:40:35Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2000,7 +2000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-24-20.jpg?v=1751008904
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154162): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-10T14:59:05Z
+  Updated: 2026-03-13T07:03:36Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2260,7 +2260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/5870596432908630174.jpg?v=1764842841
     Price: $58.00 USD
 - [Wholesale Men’s Casual Sandals | Durable & Lightweight](https://wholesale.trefir.com/products/mens-sandals-154181): High-demand men’s sandals for wholesale buyers. Durable, lightweight, and ideal for retail stores, distributors, and bulk online sales.
-  Updated: 2026-03-10T14:58:48Z
+  Updated: 2026-03-16T11:32:51Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2466,7 +2466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-37-43.jpg?v=1763039259
     Price: $63.20 USD
 - [Wholesale Women’s Sabo Clogs | Orthopedic & Durable](https://wholesale.trefir.com/products/womens-sabo-154182): High-quality women’s sabo clogs for wholesale buyers. Ergonomic design, long-lasting comfort — perfect for retailers and bulk distributors.
-  Updated: 2026-03-09T08:16:37Z
+  Updated: 2026-03-16T13:07:03Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2703,7 +2703,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_154219_Print--Synthetic-Pranetta_1.jpg?v=1751008885
   Price: $55.20 USD
 - [Wholesale Women’s Casual Sandals | Lightweight & High-Demand](https://wholesale.trefir.com/products/womens-sandals-154226): Versatile women’s sandals made for wholesale. Breathable, lightweight, and high‑turnover — a top choice for retailers and distributors.
-  Updated: 2026-02-20T14:10:05Z
+  Updated: 2026-03-16T10:34:17Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2819,7 +2819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DK1YZE.SF176.00.01014.png?v=1761046175
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154229): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-03T12:56:27Z
+  Updated: 2026-03-12T11:40:32Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -3137,7 +3137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_154260_Print--Synthetic-Pranetta_1.jpg?v=1751008862
   Price: $55.20 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154288): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-11T11:36:25Z
+  Updated: 2026-03-16T11:01:00Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -3546,7 +3546,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DS1MZE.SR016.02.01409.png?v=1761045479
     Price: $46.00 USD
 - [Wholesale Men’s Casual Sandals | Durable & Lightweight](https://wholesale.trefir.com/products/mens-sabo-154303): High-demand men’s sandals for wholesale buyers. Durable, lightweight, and ideal for retail stores, distributors, and bulk online sales.
-  Updated: 2026-03-09T10:16:57Z
+  Updated: 2026-03-17T13:09:07Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -3616,7 +3616,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Mens_Sabo_154303_Grey--Synthetic-Suede_3.jpg?v=1764315220
     Price: $50.00 USD
 - [Wholesale Men’s Casual Sandals | Durable & Lightweight](https://wholesale.trefir.com/products/mens-sabo-154304): High-demand men’s sandals for wholesale buyers. Durable, lightweight, and ideal for retail stores, distributors, and bulk online sales.
-  Updated: 2026-03-09T14:42:07Z
+  Updated: 2026-03-16T09:28:45Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -4027,7 +4027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-13-13-16-14.jpg?v=1751008825
     Price: $52.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154349): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-09T07:20:06Z
+  Updated: 2026-03-14T08:50:38Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -4551,7 +4551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DT1YZE.SM001.02.01501.png?v=1761044531
     Price: $52.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154403): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-06T07:55:16Z
+  Updated: 2026-03-14T08:50:41Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -4655,7 +4655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-13-13-58-37.jpg?v=1751008794
     Price: $52.00 USD
 - [Wholesale Women’s Printed Slippers | Lightweight & Cushioned](https://wholesale.trefir.com/products/womens-slippers-154430): Women’s printed slippers for wholesale buyers. Cushioned, lightweight, and breathable—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-03-05T12:31:05Z
+  Updated: 2026-03-13T07:00:26Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -5216,7 +5216,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_154593_Print--Synthetic-Pranetta_1.jpg?v=1751008750
   Price: $55.20 USD
 - [Wholesale Women’s Sabo Clogs | Orthopedic & Durable](https://wholesale.trefir.com/products/womens-sabo-154600): High-quality women’s sabo clogs for wholesale buyers. Ergonomic design, long-lasting comfort — perfect for retailers and bulk distributors.
-  Updated: 2026-03-09T12:35:56Z
+  Updated: 2026-03-16T13:11:05Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -5493,7 +5493,7 @@
     Availability: Available
     Price: $52.00 USD
 - [Wholesale Men’s Casual Sandals | Durable & Lightweight](https://wholesale.trefir.com/products/mens-sabo-154668): High-demand men’s sandals for wholesale buyers. Durable, lightweight, and ideal for retail stores, distributors, and bulk online sales.
-  Updated: 2026-02-20T06:59:20Z
+  Updated: 2026-03-12T08:19:58Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -5610,7 +5610,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_154671_Print--Synthetic-Pranetta_1.jpg?v=1751008727
   Price: $55.20 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154677): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-10T13:33:16Z
+  Updated: 2026-03-13T07:55:36Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -5692,7 +5692,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DT1YZE.SP011.00.00809.png?v=1764932410
     Price: $52.00 USD
 - [Wholesale Men’s Casual Sandals | Durable & Lightweight](https://wholesale.trefir.com/products/mens-sabo-154678): High-demand men’s sandals for wholesale buyers. Durable, lightweight, and ideal for retail stores, distributors, and bulk online sales.
-  Updated: 2026-03-09T11:26:26Z
+  Updated: 2026-03-18T12:25:09Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -5706,7 +5706,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Mens_Sabo_154678_Black--Synthetic-Nubuck_1.jpg?v=1751008722
     Price: $66.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154685): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-06T06:48:34Z
+  Updated: 2026-03-16T12:06:23Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -5798,7 +5798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Mens_Slippers_154688_White--Synthetic-Fanetta_1.jpg?v=1751008718
     Price: $60.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154689): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-06T07:57:42Z
+  Updated: 2026-03-14T08:48:34Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -5983,7 +5983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sandals_154702_Lilac--Synthetic-Fanetta_1.jpg?v=1751008701
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154703): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-06T06:50:17Z
+  Updated: 2026-03-16T11:04:28Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6077,7 +6077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DT1YZE.SP004.00.01545.png?v=1761042932
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154705): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-02-26T18:37:15Z
+  Updated: 2026-03-13T07:03:33Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6129,7 +6129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-13-15-38-45.jpg?v=1751008696
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154710): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-02-19T13:29:41Z
+  Updated: 2026-03-12T11:42:28Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6159,7 +6159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_154710_Tomy--Synthetic-Fanetta_1.jpg?v=1751008694
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154711): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-06T06:48:35Z
+  Updated: 2026-03-13T07:03:27Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6221,7 +6221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-04-17-08-57-49.jpg?v=1751008692
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154716): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-02-25T07:44:46Z
+  Updated: 2026-03-12T11:40:33Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6299,7 +6299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DT1YME.SF072.00.00800.png?v=1761042765
     Price: $60.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154758): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-03T12:56:31Z
+  Updated: 2026-03-13T07:55:31Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6380,14 +6380,14 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_154781_Print--Synthetic-Pranetta_1.jpg?v=1751008679
   Price: $52.00 USD
 - [Wholesale Women’s Printed Slippers | Lightweight & Cushioned](https://wholesale.trefir.com/products/womens-slippers-154783): Women’s printed slippers for wholesale buyers. Cushioned, lightweight, and breathable—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-02-19T13:29:31Z
+  Updated: 2026-03-13T07:00:26Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_154783_Print--Synthetic-Pranetta_1.jpg?v=1751008678
   Price: $52.00 USD
 - [Wholesale Women’s Printed Slippers | Lightweight & Cushioned](https://wholesale.trefir.com/products/womens-slippers-154784): Women’s printed slippers for wholesale buyers. Cushioned, lightweight, and breathable—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-03-11T13:23:34Z
+  Updated: 2026-03-17T13:09:08Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6598,7 +6598,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-04-16-14-29-18.jpg?v=1751008661
   Price: $55.20 USD
 - [Wholesale Women’s Sabo Clogs | Orthopedic & Durable](https://wholesale.trefir.com/products/womens-sabo-154873): High-quality women’s sabo clogs for wholesale buyers. Ergonomic design, long-lasting comfort — perfect for retailers and bulk distributors.
-  Updated: 2026-03-11T10:50:18Z
+  Updated: 2026-03-16T11:00:55Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -6823,7 +6823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DS1MZE.SM069.00.01598.png?v=1761041891
     Price: $48.00 USD
 - [Wholesale Women’s Printed Sabo Clogs | Lightweight & Durable](https://wholesale.trefir.com/products/womens-sabo-154884): Women’s printed sabo clogs for wholesale buyers. Lightweight, durable, and high-demand—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-02-09T17:34:39Z
+  Updated: 2026-03-16T11:00:56Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -6888,7 +6888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DS1YZE.SP002.00.01601.png?v=1761041352
     Price: $48.00 USD
 - [Wholesale Women’s Sabo Clogs | Orthopedic & Durable](https://wholesale.trefir.com/products/womens-sabo-154891): High-quality women’s sabo clogs for wholesale buyers. Ergonomic design, long-lasting comfort — perfect for retailers and bulk distributors.
-  Updated: 2026-03-03T12:56:31Z
+  Updated: 2026-03-12T11:40:37Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -6941,7 +6941,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_154905_Print--Synthetic-Pranetta_1.jpg?v=1751008642
   Price: $52.00 USD
 - [Wholesale Women’s Printed Slippers | Lightweight & Cushioned](https://wholesale.trefir.com/products/womens-slippers-154906): Women’s printed slippers for wholesale buyers. Cushioned, lightweight, and breathable—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-02-19T13:29:17Z
+  Updated: 2026-03-13T11:48:09Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -7004,7 +7004,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_154921_Print--Synthetic-Pranetta_1.jpg?v=1751008635
   Price: $36.00 USD
 - [Wholesale Women’s Printed Slippers | Lightweight & Cushioned](https://wholesale.trefir.com/products/womens-slippers-154922): Women’s printed slippers for wholesale buyers. Cushioned, lightweight, and breathable—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-02-19T13:29:07Z
+  Updated: 2026-03-13T07:03:43Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -7272,7 +7272,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_154983_Print--Synthetic-Pranetta_1.jpg?v=1751008618
   Price: $55.20 USD
 - [Wholesale Women’s Printed Sabo Clogs | Lightweight & Durable](https://wholesale.trefir.com/products/womens-sabo-154984): Women’s printed sabo clogs for wholesale buyers. Lightweight, durable, and high-demand—ideal for retailers, distributors, and online sellers.
-  Updated: 2026-03-11T10:53:52Z
+  Updated: 2026-03-16T14:06:45Z
   Vendor: twigy
   Product Type: 
   Availability: Available
@@ -7293,7 +7293,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_154989_Print--Synthetic-Pranetta_1.jpg?v=1751008616
   Price: $55.20 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154132): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-09T12:33:46Z
+  Updated: 2026-03-14T08:50:37Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -7499,7 +7499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Mens_Slippers_154132_Mink--Synthetic-Gunt_1.jpg?v=1751008613
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154316): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-02-19T13:29:02Z
+  Updated: 2026-03-13T07:03:06Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -7529,7 +7529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sandals_154316_Lilac--Synthetic-Fanetta_1.jpg?v=1751008608
     Price: $52.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154344): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-09T10:16:57Z
+  Updated: 2026-03-14T08:48:36Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -7595,7 +7595,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-13-13-15-55.jpg?v=1751008608
     Price: $52.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154345): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-06T07:55:18Z
+  Updated: 2026-03-12T08:18:28Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -7669,7 +7669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DT1YME.SM001.04.01406.jpg?v=1751008604
     Price: $60.40 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154707): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-10T12:59:03Z
+  Updated: 2026-03-13T07:03:43Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -7875,7 +7875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DT1YZE.SP026.00.01548.jpg?v=1765636847
     Price: $52.00 USD
 - [Wholesale Women’s Comfort Slippers | Lightweight & Profitable](https://wholesale.trefir.com/products/womens-slippers-154708): Soft, cushioned women’s slippers designed for wholesale. Lightweight, breathable, and ideal for retailers, online stores, and bulk orders.
-  Updated: 2026-03-09T12:33:46Z
+  Updated: 2026-03-16T11:01:02Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -8001,7 +8001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DT1YZE.SM201.00.01554.png?v=1761041246
     Price: $52.00 USD
 - [Wholesale Men’s Comfort Slippers | Lightweight & Durable](https://wholesale.trefir.com/products/mens-slippers-154754): High-demand men’s slippers for wholesale buyers. Durable, lightweight, and ideal for retail, online stores, and bulk orders.
-  Updated: 2026-03-03T12:56:33Z
+  Updated: 2026-03-13T07:57:05Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -8343,6 +8343,8 @@
   Updated: 2026-01-05T09:57:48Z
 - [Search Results](https://wholesale.trefir.com/pages/search-results): #usf_container{ visibility:hidden; } @media (max-width: 749px){ .usf-mobile-hidden{ display: none !important; } .usf-skeleton-container .usf-sr-con...
   Updated: 2026-02-03T14:06:52Z
+- [Become a Trefir Wholesale Partner – Footwear Distributor](https://wholesale.trefir.com/pages/become-a-distributor): Are you a retailer looking for a reliable footwear supplier? Partner with Trefir Wholesale to access premium sandals, slippers, clogs, and casual s...
+  Updated: 2026-03-12T21:49:09Z
 
 ## Policies
 
