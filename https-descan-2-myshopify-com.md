@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-06T04:21:41Z
 - Contact Email: Contactdescan@gmail.com
-- Updated At: 2026-03-12T00:00:35.874Z
+- Updated At: 2026-03-19T00:00:38.851Z
 
 ## Products
 
@@ -1491,6 +1491,18 @@
     Updated: 2026-03-11T01:28:49Z
     Author: Descan Supply
     Tags: bold accessories, cough syrup hoodie, fashion trends, hoodie, jacket, streetwear, stylish outfits for teens, teenagers, y2k, y2k inspired clothing, youth style
+  - [Embrace Y2K Nostalgia with Clints Leather Jacket and Iconic Cough Syrup Hoodie for Streetwear-savvy Teens](https://descan-2.myshopify.com/blogs/news/embrace-y2k-nostalgia-with-clints-leather-jacket-and-iconic-cough-syrup-hoodie-for-streetwear-savvy-teens): Embrace Y2K Nostalgia with Clints Leather Jacket and Iconic Cough Syrup Hoodie for Streetwear-savvy Teens
+    Updated: 2026-03-13T01:31:31Z
+    Author: Descan Supply
+    Tags: cough syrup, cough syrup hoodie, hoodie, iconic hoodie, leather jacket, nostalgia, retro style outfits, streetwear, teen fashion 2026, teenagers, y2k
+  - [Clints Leather Jacket and Y2K Cough Syrup Hoodie: The Ultimate Streetwear Combo for Teens](https://descan-2.myshopify.com/blogs/news/clints-leather-jacket-and-y2k-cough-syrup-hoodie-the-ultimate-streetwear-combo-for-teens): Clints Leather Jacket and Y2K Cough Syrup Hoodie: The Ultimate Streetwear Combo for Teens
+    Updated: 2026-03-16T01:21:56Z
+    Author: Descan Supply
+    Tags: cough syrup hoodie, hoodie, leather, streetwear, stylish jackets, teenagers, teens fashion, trendy outfits for teens, ultimate streetwear combination, y2k, y2k style
+  - [Elevate Your Y2K Streetwear Wardrobe with Custom Motion Drive Hoodies Perfect for Teen Thugs](https://descan-2.myshopify.com/blogs/news/elevate-your-y2k-streetwear-wardrobe-with-custom-motion-drive-hoodies-perfect-for-teen-thugs): Elevate Your Y2K Streetwear Wardrobe with Custom Motion Drive Hoodies Perfect for Teen Thugs
+    Updated: 2026-03-18T01:22:21Z
+    Author: Descan Supply
+    Tags: cough syrup hoodie, custom hoodies, elevate wardrobe, hoodie, hoodies, motion drive, street style tips, streetwear, teen fashion, teenagers, y2k
 
 ## Store Pages
 
