@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-12-07T21:38:41Z
 - Contact Email: kennerhouseon98@gmail.com
-- Updated At: 2026-03-10T00:00:36.327Z
+- Updated At: 2026-03-20T00:00:40.583Z
 
 ## Products
 
 - [Forever Stabilized Preserved Roses in Heart Box for Valentines Mother's Father's Day Birthday Gift](https://kenner-house.myshopify.com/products/immortal-infinity-eternal-forever-stabilized-preserved-roses-in-heart-box-for-valentines-mothers-fathers-day-birthday-gift): SPECIFICATIONSFeature: Fashionable,ETERNAL,ElegantFlower Type: real rosesInstallation: FreestandingLight Source: WarmPacking: GiftboxesProduct Name: Eternal Rose in heart boxShape: Heart ShapeSize: 21*23X11cmTechnique: Glycerin PreservationType: PRESERVEDUsage: Valentine's Day giftWeight: 0.7kgadvantage: fast delivery,Environment-Friendly,NEW ARRIVALS,factory direct ,factory price,long lasting 3-5 years,factory directly supplyoccasion: Birthday,Wedding,April Fool's Day,Back to School,Chinese New Year,Christmas,Earth Day,Easter,Father'S Day,Graduation,Halloween,Mother's Day,New Year,Thanksgiving,Valentine'S Day,Otherplace of origin: Yunnan, China
-  Updated: 2026-03-09T17:11:45Z
+  Updated: 2026-03-13T13:01:01Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -45,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/A31764170cb5640dbbbea9c4b6a7a3777Q.webp?v=1770306987
     Price: $59.99 USD
 - [Valentines I Love You Letter Luxury Cardboard Rose Floral Arrangement Gift Box Mother's Day](https://kenner-house.myshopify.com/products/valentines-i-love-you-letter-luxury-cardboard-rose-floral-arrangement-gift-box-mothers-day): SPECIFICATIONS Accessories: Ribbon,Magnetic Closure Box Type: Rigid Boxes Brand Name: WENPACK Custom Order: Accept Feature: Handmade Industrial Use: Gift & Craft,flowers packaging Liner type: Sponge Paper Type: Paperboard Place of Origin: Guangdong, China Printing Handling: Embossing Shape: rectangle Style: Luxury Type: Eco-friendly Materials Usage: Lover
-  Updated: 2026-03-09T17:11:45Z
+  Updated: 2026-03-13T13:01:01Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -59,7 +59,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H8ed65d004a044c32a35dfb91acab3abaM.webp?v=1770306987
     Price: $35.99 USD
 - [Personalized Wedding Valentine Mother's Day Preserved Flower Gift Box Flower Shadow Frame Box Acrylic Flower Box](https://kenner-house.myshopify.com/products/wholesale-personalized-wedding-valentine-mothers-day-preserved-flower-gift-box-flower-shadow-frame-box-acrylic-flower-box): SPECIFICATIONS Wedding Decoration & Gift,Souvenir,Mother's Day,Art & Collectible,Holiday Decoration & Gift,Home Decoration,Business Gift,April Fool's Day,Back to School,Chinese New Year,Christmas,Earth Day,Easter,Father'S Day,Graduation,New Year,Thanksgiving,Valentine'S Day Brand Name: IMPACKAGING Color: Customized Color Craft: 3D Design: Customized Designs Acceptable Feature: Handmade Logo: Customer's Requiremnt MOQ: 1pcs Material: Resin,Resin Material Model Number: IM20250215 Pattern: Florals Place of Origin: Guangdong, China Product Type: Photo Frame Product name: Flower shadow box Sample Time: 3~5 days Shape: Customized Size: L24xW24XH4CM, L29xW29XH4CM, L34xW34XH4CM, Style: Love,Flower,Decoration,Diy,Souvenir Technique: decoupage Upper Material: Resin
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-13T13:01:05Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -125,14 +125,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Hee5a4e839cdd4fe49b221dc3712a92bdz.webp?v=1770306989
     Price: $19.99 USD
 - [Instant Mushroom Coffee](https://kenner-house.myshopify.com/products/googeer-instant-mushroom-coffee-for-entry-for-body-): SPECIFICATIONS Brand Name: Weatmonth Carton specification: 56*36*21cm Case pack: 175pcs Composition: Black coffee powder, xylitol Feature: Normal Flavor: Chocolate Keyword: Body care Model Number: GO-I03-0005-02 Net Contents: 100g Package size: 2.87*2.83*2.83inch Place of Origin: United States Product name: Instant mushroom coffee Product size: 2.8*2.76*2.76inch ProductCode: GO-I03-0005-02 Taste: Acidic Type: other Weight: 130g
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-13T13:01:06Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Ha091f580b2fd411992223c8fd8411da9o.webp?v=1770306988
   Price: $21.99 USD
 - [Coffee Beans Dose Trays Solid Wood Walnut Bean Shovel Scoops Measure Tea Separator Vessel Espresso Kitchen Tools](https://kenner-house.myshopify.com/products/coffee-beans-dose-trays-solid-wood-walnut-bean-shovel-scoops-measure-tea-separator-vessel-espresso-kitchen-tools): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneMaterial: WoodModel Number: PDD1481Origin: Mainland China
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-13T13:01:06Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -146,14 +146,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb33ccc06d9db44fe8d7f5f62c884ffa8M.webp?v=1770306989
     Price: $8.99 USD
 - [Coffee Machine Replaces Water Filter with 12 Activated Carbon Filters and Carbon Filters News](https://kenner-house.myshopify.com/products/coffee-machine-replaces-water-filter-with-12-activated-carbon-filters-and-carbon-filters-news): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesHigh-concerned chemical: NoneMaterial: AcrylOrigin: Mainland China
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-13T13:01:06Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S993ee03f30a04ca1af7801d897e3354dn.webp?v=1770306989
   Price: $19.59 USD
 - [Coffee Bean Measuring Cup Ceramic Weighing Tray Coffee Powder Dosage Tray Suitable for Home Cafe Simple Coffee Tray Accessories](https://kenner-house.myshopify.com/products/coffee-bean-measuring-cup-ceramic-weighing-tray-coffee-powder-dosage-tray-suitable-for-home-cafe-simple-coffee-tray-accessories): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesColor: Black/WhiteHigh-concerned chemical: NoneMaterial: CeramicOrigin: Mainland ChinaStyle: Simple
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-13T13:01:07Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -167,14 +167,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0424a3553a8944b19f98b1a3723ba55fS.webp?v=1770306989
     Price: $11.59 USD
 - [Coffee Dust Clean Brush Espresso Machine Cleaning Brush Plastic Handle Brush Cleaner Tools Coffee Cleaning tool](https://kenner-house.myshopify.com/products/coffee-dust-clean-brush-espresso-machine-cleaning-brush-plastic-handle-brush-cleaner-tools-coffee-cleaning-tool): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneMaterial: PlasticOrigin: Mainland Chinaitem name: clean brushmaterial: PPsemi_Choice: yes
-  Updated: 2026-03-09T17:11:47Z
+  Updated: 2026-03-13T13:01:07Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sf9fe6c1ebd614111a9d48c3f19a12d6a7.webp?v=1770306990
   Price: $2.99 USD
 - [Coffee Bean Dosing Cup Bean Dispenser Ceramics Bean Measuring Tray Tea Coffee Accessorie](https://kenner-house.myshopify.com/products/coffee-bean-dosing-cup-bean-dispenser-ceramics-bean-measuring-tray-tea-coffee-accessorie): SPECIFICATIONS Brand Name: NONE Choice: yes High-concerned chemical: None Material: Ceramic Model Number: AA semi_Choice: yes
-  Updated: 2026-03-09T17:11:47Z
+  Updated: 2026-03-13T13:01:08Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -196,7 +196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc2a06ec9b85848bfaeb1537f91677e4d9.webp?v=1770306990
     Price: $16.89 USD
 - [Coffee Addicts Club Graphic T-Shirt for Women Retro Streetwear Barista Tee Unisex Hippie Style Funny Coffee Lover Top](https://kenner-house.myshopify.com/products/coffee-addicts-club-graphic-t-shirt-for-women-retro-streetwear-barista-tee-unisex-hippie-style-funny-coffee-lover-top): SPECIFICATIONS Age: Middle Age Brand Name: NONE CN: Zhejiang Choice: yes Clothing Length: regular Collar: O-Neck Craft of Weaving: Knit Decoration: None Elasticity: Slight Strech Fabric Type: Knitted Fit Type: Loose Gender: Women High-concerned chemical: None Item Type: tops Material: COTTON Occasion: Party Origin: Mainland China Pattern Them: Funny Pattern Type: Cartoon Place Of Origin: China (mainland) Season: All Season Sleeve Length(cm): Short (4 - 16 Inch) Sleeve Style: regular Style: Vintage Tops Type: TEES Weight: 161g—180g size_info: {"sizeInfoList":[{"length":{"cm":"88","inch":"34.65"},"size":"XS","vid":872},{"length":{"cm":"94","inch":"37.01"},"size":"S","vid":100014064},{"length":{"cm":"100","inch":"39.37"},"size":"M","vid":361386},{"length":{"cm":"106","inch":"41.73"},"size":"L","vid":361385},{"length":{"cm":"112","inch":"44.09"},"size":"XL","vid":100014065},{"length":{"cm":"118","inch":"46.46"},"size":"XXL","vid":4182}]}
-  Updated: 2026-03-09T17:11:47Z
+  Updated: 2026-03-13T13:01:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -274,14 +274,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S596a67284477498c88c29e911aa87da56.webp?v=1770306991
     Price: $21.79 USD
 - [3kg/0.1g Coffee Scale with Timer Kitchen Tools Digital Multifunction Weighing Scale Pour Over Drip Espresso Scale LCD Display](https://kenner-house.myshopify.com/products/3kg-0-1g-coffee-scale-with-timer-kitchen-tools-digital-multifunction-weighing-scale-pour-over-drip-espresso-scale-lcd-display): SPECIFICATIONSAccuracy: 0.1gBattery Included: NoBrand Name: NONECertification: CEChoice: yesFeature: LED DisplayHigh-concerned chemical: NoneMaterial: PlasticModel Number: Coffee ScaleOrigin: Mainland ChinaPower Source: BatteryScale Type: DIGITALShape: Rectangle
-  Updated: 2026-03-09T17:11:47Z
+  Updated: 2026-03-13T13:01:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S4946fdee4ec448df898f0fc8095e4b37V.webp?v=1770306991
   Price: $20.99 USD
 - [Women's Coffee & Letter Print Pajama Set - Cozy Short Sleeve Round Neck Top & Plaid Joggers - Soft & Comfortable Fabric - Perfect for Lounging & Sleep - Ideal Gift for Her](https://kenner-house.myshopify.com/products/womens-coffee-letter-print-pajama-set-cozy-short-sleeve-round-neck-top-plaid-joggers-soft-comfortable-fabric-perfect-for-lounging-sleep-ideal-gift-for-her): SPECIFICATIONS Applicable People:  Collar Style: Crew Neck Composition: 95% Polyester;5% Elastane Fabric Elasticity: Micro Elasticity Fabric Texture 1 Component: 95% Polyester;5% Elastane Fabric Texture 2 Components: 95% Polyester;5% Elastane Item ID: GH58273 Material: Polyester Operation Instruction: Hand wash or professional dry clean Origin: Guangdong,China Pattern: Cartoon Printing Type: Positioning Printing Season: Spring/Summer/Fall Sheer: No Sleeve Length: Short Sleeve Style: Casual Type: Pajama Sets Weaving Method: Knit Fabric
-  Updated: 2026-03-09T17:11:47Z
+  Updated: 2026-03-13T13:01:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -303,7 +303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/c134de84eec426fe916c9013d6100479_03a67c1f9ff5.jpg?v=1770306992
     Price: $18.99 USD
 - [1pc Farmhouse White Coffee Filter Holder - Wooden Case Storage Container Basket for Counter - Coffee Bar Accessories, Station Organizer, and Decor with Rustic Charm](https://kenner-house.myshopify.com/products/1pc-farmhouse-white-coffee-filter-holder-wooden-case-storage-container-basket-for-counter-coffee-bar-accessories-station-organizer-and-decor-with-rustic-charm): SPECIFICATIONSItem ID: QR100002Material: WoodOrigin: Guangdong,China
-  Updated: 2026-03-09T17:11:48Z
+  Updated: 2026-03-13T13:01:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -317,35 +317,35 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/53caed47-ce7f-4233-adeb-dab19c3d1dcd.jpg?v=1770306992
     Price: $18.99 USD
 - [1.8L Stainless Steel Electric Kettle with Auto Shut Off, Boil-Dry Protection, Double Wall Insulation, BPA Free, LED Indicator, and Heating Base - Instant Hot Water Boiler for Coffee, Tea Maker, and Drinks](https://kenner-house.myshopify.com/products/1-8l-stainless-steel-electric-kettle-with-auto-shut-off-boil-dry-protection-double-wall-insulation-bpa-free-led-indicator-and-heating-base-instant-hot-water-boiler-for-coffee-tea-maker-and-drinks): SPECIFICATIONSBoiler Material: Stainless SteelItem ID: QU111920Operating Voltage: 110VPlug Type: US PlugPower Supply: Plug PoweredRated Power(W): 700
-  Updated: 2026-03-09T17:11:48Z
+  Updated: 2026-03-13T13:01:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/db6d99b5-82a1-4117-a6b1-3a32e6cc6c45.jpg?v=1770306992
   Price: $25.99 USD
 - [2-Pack Coffee Travel Mugs, Vacuum Insulated Stainless Steel Thermal Cups with Leak-Proof Lids, Reusable for Hot/Cold Drinks, Office, Summer & Winter Beverage, Tea for Home Kitchen - Hand Wash Only](https://kenner-house.myshopify.com/products/2-pack-coffee-travel-mugs-vacuum-insulated-stainless-steel-thermal-cups-with-leak-proof-lids-reusable-for-hot-cold-drinks-office-summer-winter-beverage-tea-for-home-kitchen-hand-wash-only): SPECIFICATIONSItem ID: TK96260Material: Stainless SteelMaterial Features: InsulatedOperation Instruction: Hand wash onlyRecommended Usage: MultipurposeReusability: Reusable
-  Updated: 2026-03-09T17:11:48Z
+  Updated: 2026-03-13T13:01:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/9e364b59-6858-4484-aa14-8e6980dcaffe.jpg?v=1770306993
   Price: $36.99 USD
 - [Mcilpoog Espresso Machine with Milk Frother, Semi Automatic Coffee Machine with Grinder, Easy To Use Espresso Coffee Maker with 5.5 inch Large Screen, 15 Bar Pressure Pump, PID Temperature Control.](https://kenner-house.myshopify.com/products/mcilpoog-espresso-machine-with-milk-frother-semi-automatic-coffee-machine-with-grinder-easy-to-use-espresso-coffee-maker-with-5-5-inch-large-screen-15-bar-pressure-pump-pid-temperature-control): SPECIFICATIONS Battery Properties: Without Battery Brand: Mcilpoog Coffee Machine Type: Italian Semi-automatic Control Method: Semi-automatic Design Style: One Body Function: Temperature Control;Heating;Easy To Clean Item ID: DF98112 Operating Voltage: 110V (included)-130V (included) Plug Type: US Plug Power Mode: Power Supply Tank Capacity: 1.3L-1.89L Water Tank Capacity (l): 1.5 Work Pressure (kpa): 15
-  Updated: 2026-03-09T17:11:48Z
+  Updated: 2026-03-13T13:01:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/3c0a286d-ed36-4d5e-a198-df82685ddb61.jpg?v=1770306993
   Price: $699.99 USD
 - [3pcs Cork-Topped Borosilicate Glass Jars with Wooden Balls, Transparent Spice Containers for Seasonings, Coffee, Beans & Kitchen Storage – Dishwasher-Safe Food-Grade Airtight Seal, Affordable Price, Food Preservation, Coffe](https://kenner-house.myshopify.com/products/3pcs-cork-topped-borosilicate-glass-jars-with-wooden-balls-transparent-spice-containers-for-seasonings-coffee-beans-kitchen-storage-dishwasher-safe-food-grade-airtight-seal-affordable-price-food-preservation-coffe): SPECIFICATIONSAccessory: LidBrand: OUSVETZItem ID: FD61437Material: GlassOperation Instruction: Machine WashOrigin: Hebei,ChinaRecommended Age: AdultRecommended Scenario: Cold-beverageRecommended Usage: MultipurposeReusability: ReusableSet Type: Tasting SetShape: OvalTheme: Christmas
-  Updated: 2026-03-09T17:11:48Z
+  Updated: 2026-03-13T13:01:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/aa01d4df-8cb9-43ce-bea6-7338c4639752.jpg?v=1770306994
   Price: $34.99 USD
 - [12Pack Color Changing Mugs, 11oz/15oz Black Sublimation Coffee Mug With White Gift Box](https://kenner-house.myshopify.com/products/12pack-color-changing-mugs-11oz-15oz-black-sublimation-coffee-mug-with-white-gift-box): SPECIFICATIONSItem ID: PL113758Material: CeramicPower Mode: Uncharged
-  Updated: 2026-03-09T17:11:49Z
+  Updated: 2026-03-13T13:01:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -363,7 +363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/83dfbc23-3ab1-40c7-bf1c-e6e42e914e39.jpg?v=1770306995
     Price: $48.79 USD
 - [Dual Coffee Brewer for K Cup Pods And Ground Coffee, Available in 3 Colors, 6-14 Oz Drip Coffee Machine.](https://kenner-house.myshopify.com/products/dual-coffee-brewer-for-k-cup-pods-and-ground-coffee-available-in-3-colors-6-14-oz-drip-coffee-machine): SPECIFICATIONSBattery Properties: Without BatteryEnergy Efficiency Rating: See The User ManualItem ID: CH34638Major Material: Other PlasticOperating Voltage: 120VPower Mode: Power SupplyShape: SquareWork Pressure (kpa): 1
-  Updated: 2026-03-09T17:11:49Z
+  Updated: 2026-03-13T13:01:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -381,7 +381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/84df1ada53c185514f2cf26282686331.jpg?v=1770316209
     Price: $69.99 USD
 - [Adjustizable PU Leather Coffee & Tea Cup Holder Pouch - Water Bottle Carrier Suitable for, Travel, for Carrying Cups Handle, Protective Sleeve for Hot Drinks, Outdoor, Commuting, Camping Accessory (Unisex)](https://kenner-house.myshopify.com/products/adjustizable-pu-leather-coffee-tea-cup-holder-pouch-water-bottle-carrier-suitable-for-travel-for-carrying-cups-handle-protective-sleeve-for-hot-drinks-outdoor-commuting-camping-accessory-unisex): SPECIFICATIONS Item ID: QM26186
-  Updated: 2026-03-09T17:11:49Z
+  Updated: 2026-03-13T15:43:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/85620e51-6b2f-444c-9ba1-20e84d32dbf7.png?v=1770316210
     Price: $22.99 USD
 - [Stainless Steel Coffee Cup + Multifunctional Filter Cup + Coffee Can + Portable Travel Coffee Set, Outdoor Portable Camping Coffee Equipment](https://kenner-house.myshopify.com/products/stainless-steel-coffee-cup-multifunctional-filter-cup-coffee-can-portable-travel-coffee-set-outdoor-portable-camping-coffee-equipment): SPECIFICATIONSBattery Properties: Without BatteryBrand: JOINOUTItem ID: CR25277Material: Stainless SteelOrigin: Guangdong,ChinaPower Supply: Use Without ElectricityStainless Steel Grade: 304 Stainless Steel
-  Updated: 2026-03-09T17:11:49Z
+  Updated: 2026-03-13T13:01:21Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -437,7 +437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/d82275f2-0230-4b41-b5c4-580316e6e6a4_800x800_47b13dee-8526-42da-b254-df588cbe364a.jpg?v=1770316210
     Price: $48.99 USD
 - [AIBEYOU New 40Oz Car Cup, Insulated And Cold-Retaining, Made of 304 Stainless Steel with a Handle, Double-Layer Ice Cup with Straw, Thermal Coffee Pot.](https://kenner-house.myshopify.com/products/aibeyou-new-40oz-car-cup-insulated-and-cold-retaining-made-of-304-stainless-steel-with-a-handle-double-layer-ice-cup-with-straw-thermal-coffee-pot): SPECIFICATIONSBrand: AIBEYOUItem ID: HF08861Material: Stainless SteelOrigin: Zhejiang,ChinaStainless Steel Grade: 304 Stainless Steel
-  Updated: 2026-03-09T17:11:50Z
+  Updated: 2026-03-13T13:01:26Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -515,7 +515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/ee4c0f11-fdfd-4e19-a46a-f4b027dde19d.jpg?v=1770316211
     Price: $20.99 USD
 - [Biolomix Portable Coffee Machine - Hand-Press Espresso Maker with 3-in-1 Functionality, Compact Travel & Picnic Coffee Maker, Durable Plastic, No Electricity Needed, Portable Coffee Maker, Picnic Coffee Equipment, Modern Coff](https://kenner-house.myshopify.com/products/biolomix-portable-coffee-machine-hand-press-espresso-maker-with-3-in-1-functionality-compact-travel-picnic-coffee-maker-durable-plastic-no-electricity-needed-portable-coffee-maker-picnic-coffee-equipment-modern-coff): SPECIFICATIONSBrand: BIOLOMIXEnergy Efficiency Rating: No Energy Efficiency RatingItem ID: EW14015Major Material: Other PlasticOrigin: Guangdong,ChinaPower Mode: UnchargedShape: Round
-  Updated: 2026-03-09T17:11:50Z
+  Updated: 2026-03-13T13:01:28Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -529,7 +529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/1d22c8d1-4ade-4f60-b453-075cb88b102c_2000x2000_7ce5e57a-c97a-41a7-a867-40ef0ad8750d.jpg?v=1770316212
     Price: $75.99 USD
 - [Coffee Cup Fast Heater Smart Mug Mark Cup Warmer with 3 Temperature Settings for Home Office Desk Electric Heating Concentrated Coffee, Drinks, Milk, Tea and Hot Chocolate (Wood Grain Pattern) A Thoughtful Gift for Friends an](https://kenner-house.myshopify.com/products/coffee-cup-fast-heater-smart-mug-mark-cup-warmer-with-3-temperature-settings-for-home-office-desk-electric-heating-concentrated-coffee-drinks-milk-tea-and-hot-chocolate-wood-grain-pattern-a-thoughtful-gift-for-friends-an): Adapter Plug: No Conversion Plug Battery Properties: Without Battery Brand: RACCOON Item ID: VP21410 Major Material: ABS Operating Voltage: 110V Origin: Guangdong,China Power Mode: Power Supply
-  Updated: 2026-03-09T17:11:50Z
+  Updated: 2026-03-13T13:01:27Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -547,7 +547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/8efcd009-1809-47d0-b2ab-f2dc3a50942b_1000x1000_d9531944-0c71-48b6-803d-d42418d41a5a.jpg?v=1770316212
     Price: $21.99 USD
 - [Stainless Steel 1pc Measuring Spoon - 2 In 1 Coffee Scoops With Bag Clip, Multifunctional Milk Powder Scoop With Sealing Clip, Kitchen Accessories](https://kenner-house.myshopify.com/products/stainless-steel-1pc-measuring-spoon-2-in-1-coffee-scoops-with-bag-clip-multifunctional-milk-powder-scoop-with-sealing-clip-kitchen-accessories): SPECIFICATIONSBrand: S ARTSHARINGHolidays: Christmas;Halloween;Easter;Hanukkah;ThanksgivingItem ID: PH07784Material: Stainless SteelOrigin: Guangdong,ChinaStainless Steel Grade: 304 Stainless Steel
-  Updated: 2026-03-09T17:11:50Z
+  Updated: 2026-03-13T13:01:28Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -561,7 +561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/56a1f32f-f6b4-4b96-8952-d8119e433ebf_800x800_5cade461-2d1d-4986-96b5-d562e75d73b9.jpg?v=1770316212
     Price: $3.49 USD
 - [1set Thermal Mug 500ml/16.9oz, Stainless Steel Vacuum Insulated Bottle With Cup For Coffee Hot Drink And Cold Drink, Water Flask Back To School Supplies](https://kenner-house.myshopify.com/products/1set-thermal-mug-500ml-16-9oz-stainless-steel-vacuum-insulated-bottle-with-cup-for-coffee-hot-drink-and-cold-drink-water-flask-back-to-school-supplies): SPECIFICATIONS Item ID: CL29843 Material: Stainless Steel Recommended Usage: Multipurpose Stainless Steel Grade: 304 Stainless Steel
-  Updated: 2026-03-09T17:11:50Z
+  Updated: 2026-03-13T13:01:29Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -583,35 +583,35 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/1a8300085ac66a39a5bae189ae62f9f8.jpg?v=1770316213
     Price: $18.99 USD
 - [67.63oz Electric Glass Kettle | 1200W Fast Boiling, Temperature Control, 4-Hour Keep Warm, Auto Shut-Off & Boil-Dry Protection, Perfect for Coffee, Tea & Hot Water, Matte Black](https://kenner-house.myshopify.com/products/devisib-67-63oz-electric-glass-kettle-1200w-fast-boiling-temperature-control-4-hour-keep-warm-auto-shut-off-boil-dry-protection-perfect-for-coffee-tea-hot-water-matte-black): SPECIFICATIONSAdapter Plug: No Conversion PlugBattery Properties: Without BatteryBrand: DEVISIBCapacity: 1001-3000mlFunction: Filter;Anti-dry Burning;Overheating Protection;Constant Temperature;Spill PreventionItem ID: RU12145Material: GlassOperating Voltage: 110V (included)-130V (included)Origin: Guangdong,ChinaPower Mode: Power SupplyRated Power(W): 1200
-  Updated: 2026-03-09T17:11:50Z
+  Updated: 2026-03-13T13:01:29Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/ea7a3a10-86f3-48eb-9183-490ef9c83786.jpg?v=1770316213
   Price: $88.99 USD
 - [Cordless Coffee Grinder, Espresso Coffee Bean Grinder Electric With Removable Stainless Steel Bowl](https://kenner-house.myshopify.com/products/cordless-coffee-grinder-espresso-coffee-bean-grinder-electric-with-removable-stainless-steel-bowl): Battery Properties: Rechargeable Battery Body Material: Other Cup Material: Other Item ID: JM72638 Motor Speed (RPM): 1400 Operating Voltage: ≤36V Power Mode: USB Charging Rechargeable Battery: Lithium Battery-18650 Series
-  Updated: 2026-03-09T17:11:51Z
+  Updated: 2026-03-13T13:01:30Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/13663ff7-e798-4300-9adf-70d0d86ac014.jpg?v=1770316213
   Price: $26.99 USD
 - [Flavored Coffees Sample Pack](https://kenner-house.myshopify.com/products/flavored-coffees-sample-pack): Sample our flavored coffees in 2oz packs. 6 packs total French Vanilla Roast: MediumThis rich and creamy vanilla coffee is well rounded and smooth. The silky flavors blend perfectly with this small batch roasted coffee. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. Hazelnut Roast: MediumNutty flavors blended seamlessly with Brazilian coffee to create a perfect hazelnut in your cup. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. Cinnabun Roast: MediumAll of the cinnamon roll flavor without the calories. This coffee has no added sugar or calories but does have all the great taste of your favorite iced cinnamon roll. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. CaramelRoast: MediumThe all natural sweet buttery caramel flavor on this medium roasted coffee is fantastic alone or as the base for your blended drinks. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. Mocha Roast: MediumThis all natural flavored coffee has a rich chocolate decadence gently infused into a medium roast specialty grade arabica bean. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. Cinnamon Hazelnut Roast: MediumThe combination of cinnamon and hazelnut pair perfectly with this medium roast coffee for a smooth, mellow cup of delight. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. *Natural Flavoring for these products
-  Updated: 2026-03-09T17:11:51Z
+  Updated: 2026-03-13T13:01:37Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/label2_on_bag.jpg?v=1771360699
   Price: $28.99 USD
 - [Best Sellers Sample Pack: 6Bean, Cowboy, Breakfast, Peru, Mexico, Bali](https://kenner-house.myshopify.com/products/best-sellers-sample-pack-6bean-cowboy-breakfast-peru-mexico-bali): Sample our best  coffees in 2oz packs. 6Bean Blend Roast: Dark Roast House Blend. Great for Espresso meticulous blend of coffee from around the world Cowboy Blend Roast:Dark & Medium Blend With both Dark and Medium roasted coffee. Cocoa, caramel, & vanilla tones Breakfast Blend Roast: Medium House Breakfast Blend. Smooth blend of coffee from South America Peru Single Origin Roast: Medium Tasting Profile: Salted caramel, silky sweet, citrus Grower: Cooperativa Agricola de Servicisios Norandino Variety: Caturra, Bourpon, Catuai, Pache, & Catimor Region: Piura, Amazonas, Peru Altitude: 1100-1700 M Soil Type: Clay Minerals Process: Gully washed and dried in the sun. Mexico Single Origin Roast: Medium Tasting Profile: Chocolate, cinnamon, green apple.Grower: Coffee growers from Chiapas and OaxacaVariety: Typica, Criollo, Bourbon, Mundo Novo, CaturraRegion: Chipias and Oaxaca, MexicoAltitude: 900-1000 MSoil Type: Clay MineralsProcess: Fully washed and sun dried. Bali Single Origin Roast: Med-dark Tasting Profile: Dark chocolate, molasses, brown sugar Grower: Smallholder farmers from Kintamani Variety: Bourbon, Typica, Catimor Region: Kintamani, Bali, Indonesia Altitude: 1200-1600 M Soil Type: Volcanic Loam Process: Hand picked, wet-hulled and dried on raised beds.
-  Updated: 2026-03-09T17:11:51Z
+  Updated: 2026-03-13T13:01:37Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/label2_on_bag_8aff635e-677f-4836-bd0e-1a540e331db8.jpg?v=1771360747
   Price: $28.99 USD
 - [Cold Brew Coffee](https://kenner-house.myshopify.com/products/cold-brew-coffee): Perfect Cold Brew Coffee, every time. This unique blend makes the perfect, most satisfying cup. Specifically blended for cold brew coffee. Contains no additives, nothing artificial, just 100% coffee. Cold brew coffee is a dark French roast and the grounds are very coarse.
-  Updated: 2026-03-09T17:11:51Z
+  Updated: 2026-03-13T13:01:38Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -629,28 +629,28 @@
     Availability: Available
     Price: $74.99 USD
 - [Moroccan Mint](https://kenner-house.myshopify.com/products/moroccan-mint): Old green tea meets fresh mint — a smooth, vibrant blend that’s refreshing hot and next-level iced
-  Updated: 2026-03-09T17:11:52Z
+  Updated: 2026-03-13T13:01:38Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/kraft_blank_final_latest.jpg?v=1771362440
   Price: $17.00 USD
 - [Hibiscus Berry Tea](https://kenner-house.myshopify.com/products/hibiscus-berry-tea): Flavored Herbal Tea: Organic Hibiscus Flowers, Organic Rosehips, Organic Orange Peel, Organic Rooibos, Organic Blueberry Flavor, Organic Passionfruit Flavor, Organic Mango Flavor Notes: BlueBerry, Currant Scoring: Low Astringency, High Body, High Sweetness Talk about refreshing! This Sweet Hibiscus based beverage is sure to quench your longing thirst of berry goodness, perfect as a cold brew or western style brew for any occasion. Brewing Method: 5 - 10 Min, 212 F, 3g / 12oz
-  Updated: 2026-03-09T17:11:52Z
+  Updated: 2026-03-13T13:01:38Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/kraft_blank_final_latest_0047355b-f347-46c4-9832-2495f7b575c7.jpg?v=1771362474
   Price: $14.50 USD
 - [Coffee with Mushrooms Medium Roast](https://kenner-house.myshopify.com/products/coffee-with-mushrooms-medium-roast): Specialty‑grade coffee infused with Lion’s Mane, Cordyceps, and Reishi mushrooms.
-  Updated: 2026-03-09T17:11:52Z
+  Updated: 2026-03-13T13:01:38Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/label2_on_bag_456070c2-a97f-4450-8a15-2293f15e13f3.jpg?v=1771362528
   Price: $20.99 USD
 - [HOTSALE 35cm Winnie the Pooh Plush Toy Cute Little Bear Doll Vivi Doll Friend Birthday Gift Chrismas gift](https://kenner-house.myshopify.com/products/hotsale-35cm-winnie-the-pooh-plush-toy-cute-little-bear-doll-vivi-doll-friend-birthday-gift-chrismas-gift): SPECIFICATIONSBrand Name: AogerCN: GuangdongCertification: CEChoice: yesFeatures: Movie & TVFilling: COTTONGender: UnisexHigh-concerned chemical: NoneMaterial: COTTONOrigin: Mainland ChinaRecommend Age: 18+,14+y
-  Updated: 2026-03-09T17:11:52Z
+  Updated: 2026-03-13T13:01:30Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -664,7 +664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7522d06e7e3c42cab86a9fb463cc4d9aO.webp?v=1771426514
     Price: $15.99 USD
 - [Hot toys Cute Cow Doll Little Cow Plush Toy Chinese Zodiac Cow Doll Cloth Doll New Year's Gift Girl's Birthday Gift](https://kenner-house.myshopify.com/products/hot-toys-cute-cow-doll-little-cow-plush-toy-chinese-zodiac-cow-doll-cloth-doll-new-years-gift-girls-birthday-gift): SPECIFICATIONSAnimals: CattleBrand Name: NoEnName_NullCN: GuangdongCertification: CEChoice: yesClassification: Plush DollClassification of animals: CattleFeatures: Stuffed & PlushFilling: PP CottonFilling material: Down cottonGender: UnisexHeight: 30cmHigh-concerned chemical: NoneItem Type: AnimalsMaterial: Cotton Rope & WoolOrigin: Mainland ChinaPlace of Origin: ChinaPlush classification: Ying Shu RongRecommend Age: 14+y,18+Style category: AnimalTheme: TV & Movie CharacterType: Plush/Nano Doll
-  Updated: 2026-03-09T17:11:52Z
+  Updated: 2026-03-13T15:45:19Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -694,7 +694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sca1f0b3c78df47d18838b5e2fc816c59d.webp?v=1771426515
     Price: $12.99 USD
 - [HOT  Bluey Dog Bingo Family Plush Toy Cartoon Dog Soft Stuffed Animals Dolls Birthday Christmas Gifts Family Blue-Y Bingo!!!](https://kenner-house.myshopify.com/products/hot--bluey-dog-bingo-family-plush-toy-cartoon-dog-soft-stuffed-animals-dolls-birthday-christmas-gifts-family-blue-y-bingo): SPECIFICATIONSBrand Name: blueyCN: GuangdongCertification: CEChoice: yesFeatures: Movie & TVHigh-concerned chemical: NoneMaterial: COTTONOrigin: Mainland ChinaRecommend Age: 3-6Y,6-12Y,0-3Y
-  Updated: 2026-03-09T17:11:53Z
+  Updated: 2026-03-13T13:01:33Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -716,7 +716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S685373e2e624417fb8757c86dfcbdcf1C.webp?v=1771426516
     Price: $8.99 USD
 - [2026 Popular New Bag Pendant Keychain Trend Creative Plush Keychain Decoration Keychain Gift](https://kenner-house.myshopify.com/products/2026-popular-new-bag-pendant-keychain-trend-creative-plush-keychain-decoration-keychain-gift): SPECIFICATIONSBrand Name: funkoCN: GuangdongCertification: CEChoice: yesFilling: PP CottonHigh-concerned chemical: NoneOrigin: Mainland ChinaRecommend Age: 18+,14+yTheme: Animals & NatureWarning: Not suitable for children under 3 years old
-  Updated: 2026-03-09T17:11:53Z
+  Updated: 2026-03-13T15:43:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -814,7 +814,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sdfc92901795347a898bcbf1415cb886fQ.webp?v=1771426517
     Price: $10.99 USD
 - [23cm Cute Woody Buzz Lightyear Plush Toy Lovely Stuffed Anime Jessie Plushies Pendant Cartoon Doll Home Decor Xmas Gifts](https://kenner-house.myshopify.com/products/23cm-cute-woody-buzz-lightyear-plush-toy-lovely-stuffed-anime-jessie-plushies-pendant-cartoon-doll-home-decor-xmas-gifts): SPECIFICATIONSBrand Name: DisneyCN: GuangdongCertification: CEChoice: yesDimensions: 23cmFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: PlushOrigin: Mainland ChinaRecommend Age: 18+,14+yWarning: Keep Away from Fire
-  Updated: 2026-03-09T17:11:53Z
+  Updated: 2026-03-13T15:46:09Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -832,7 +832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S73f5567a3db94abc8869e5a5c0444c94Z.webp?v=1771426517
     Price: $8.99 USD
 - [2026 Five Night At Freddy Fnaf Plush Cute Toys Doll Bonnie Bear Foxy Cartoon Stuffed Dolls Freddy Toys For Children Fans Gifts](https://kenner-house.myshopify.com/products/2026-five-night-at-freddy-fnaf-plush-cute-toys-doll-bonnie-bear-foxy-cartoon-stuffed-dolls-freddy-toys-for-children-fans-gifts): SPECIFICATIONSBrand Name: DisneyCN: GuangdongCertification: CEChoice: yesDimensions: 17-25CMFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: PlushModel Number: Fnaf PlushOrigin: Mainland ChinaRecommend Age: 18+,14+yWarning: Stay away from fire
-  Updated: 2026-03-09T17:11:53Z
+  Updated: 2026-03-13T15:45:23Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -922,7 +922,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sbcd242d4a7c24ba1b871e339812c8c16e.webp?v=1771426518
     Price: $8.99 USD
 - [This JC Croissant-Shaped Bag Charm And Keychain Is A Perfect Gift For Food Lovers, And A Great Accessory For Bags And Phones.](https://kenner-house.myshopify.com/products/this-jc-croissant-shaped-bag-charm-and-keychain-is-a-perfect-gift-for-food-lovers-and-a-great-accessory-for-bags-and-phones): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesDimensions: 10cm-20cmFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: COTTONOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-03-09T17:11:53Z
+  Updated: 2026-03-13T13:01:59Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -956,7 +956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S55b37146396649f19ba08b865ad1b2e7i.webp?v=1771426519
     Price: $14.99 USD
 - [Hit Product Bag Pendant Keychain Trend Creative Plush Keychain Decoration Keychain Gift 2026 Popular New](https://kenner-house.myshopify.com/products/hit-product-bag-pendant-keychain-trend-creative-plush-keychain-decoration-keychain-gift-2026-popular-new): SPECIFICATIONSBrand Name: GLJ.CYCN: GuangdongCertification: CEChoice: yesFilling: PP CottonHigh-concerned chemical: NoneOrigin: Mainland ChinaRecommend Age: 18+,14+yTheme: Animals & NatureWarning: Not suitable for children under 3 years old
-  Updated: 2026-03-09T17:11:54Z
+  Updated: 2026-03-13T13:02:11Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1054,14 +1054,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sed37ed3e41744ae8871cd79a2ce14729o.webp?v=1771426520
     Price: $10.99 USD
 - [Holding Flowers Valentine's Day New Eternal Flower Life Wedding Simulation Bouquet Plush Toys Birthday Gift for Girls.](https://kenner-house.myshopify.com/products/holding-flowers-valentines-day-new-eternal-flower-life-wedding-simulation-bouquet-plush-toys-birthday-gift-for-girls): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: NoneChoice: yesDimensions: 30cmFeatures: Stuffed & PlushFilling: PP CottonForm: Rose/Flower SeriesGender: UnisexHigh-concerned chemical: NoneItem Type: PlantsMaterial: PlushOrigin: Mainland ChinaRecommend Age: 14+yType: Plush/Nano Doll
-  Updated: 2026-03-09T17:11:54Z
+  Updated: 2026-03-13T13:02:11Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S07d53ceb2d0741dbacb6a76fa9a1f72fI.webp?v=1771426521
   Price: $18.99 USD
 - [Wave Green Dragon Plush Toy Lion Doll, a Comforting and Companion Gift for Girls](https://kenner-house.myshopify.com/products/wave-green-dragon-plush-toy-lion-doll-a-comforting-and-companion-gift-for-girls): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: NoneChoice: yesFeatures: Stuffed & PlushHigh-concerned chemical: NoneItem Type: AnimalsMaterial: PlushOrigin: Mainland ChinaRecommend Age: 18+Theme: TV & Movie Character
-  Updated: 2026-03-09T17:11:54Z
+  Updated: 2026-03-13T13:02:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1103,7 +1103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sef159e2f53d5487998470101475238f9g.webp?v=1771426521
     Price: $36.99 USD
 - [Mickey & Minnie Sling Chest Bag Cartoon Anime Crossbody Bag Fashionable Casual Shoulder Bag For Kids](https://kenner-house.myshopify.com/products/mickey-minnie-sling-chest-bag-cartoon-anime-crossbody-bag-fashionable-casual-shoulder-bag-for-kids): SPECIFICATIONSBrand Name: DisneyCN: HebeiChoice: yesClosure Type: ZipperDecoration: Cartoon PrintingExterior: Solid BagGender: UnisexHardness: HARDHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: POLYESTERModel Number: 3B3A16Number of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaShape: Half MoonStyle: Casual
-  Updated: 2026-03-09T17:11:54Z
+  Updated: 2026-03-13T13:02:12Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1125,7 +1125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e9c082650e44bcaad6ef60c11c5a630O.webp?v=1771426521
     Price: $6.99 USD
 - [High Quality Mickey Minnie Plush Toy Lovely Stuffed Anime Pluto Goofy Daisy Donald Duck Plushies Cuddly Doll Home Decor Gift](https://kenner-house.myshopify.com/products/high-quality-mickey-minnie-plush-toy-lovely-stuffed-anime-pluto-goofy-daisy-donald-duck-plushies-cuddly-doll-home-decor-gift): SPECIFICATIONSBrand Name: PotdemielCN: JiangsuCertification: NoneChoice: yesDimensions: 30cmFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: PlushOrigin: Mainland ChinaRecommend Age: 18+,14+yWarning: Keep Away From Fire
-  Updated: 2026-03-09T17:11:54Z
+  Updated: 2026-03-13T13:02:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1179,7 +1179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8f275ca15ee844858c009e0fc32acb4cG.webp?v=1771426522
     Price: $12.99 USD
 - [30cm Jellycat Cute Long Ears Rabbit Plush Toy Very Soft White Pink Bunny Doll Sleeping Plushies Home Decor Xmas Gifts Girl](https://kenner-house.myshopify.com/products/30cm-jellycat-cute-long-ears-rabbit-plush-toy-very-soft-white-pink-bunny-doll-sleeping-plushies-home-decor-xmas-gifts-girl): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: NoneChoice: yesCommodity Attribute: Finished GoodsCompletion Degree: Finished GoodsCondition: In-Stock ItemsGender: UnisexHigh-concerned chemical: NoneItem Type: ModelMaterial: PlushModel Number: jellycatOrigin: Mainland ChinaOriginal Package: YesRecommend Age: 18+,14+yWarning: no
-  Updated: 2026-03-09T17:11:54Z
+  Updated: 2026-03-13T13:02:19Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1201,7 +1201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb0a53c40277040edbfc24dfe802db21fz.webp?v=1771426522
     Price: $16.99 USD
 - [23/30cm Kawaii Sulley Monsters Inc Plush Toys Cute Pixar Stuffed Dolls Anime Animals For Boy Birthday Gift For Girlfriend](https://kenner-house.myshopify.com/products/23-30cm-kawaii-sulley-monsters-inc-plush-toys-cute-pixar-stuffed-dolls-anime-animals-for-boy-birthday-gift-for-girlfriend): SPECIFICATIONSBrand Name: DisneyCN: GuangdongCertification: CEChoice: yesDimensions: About 23cm/30cmFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: Short PlushModel Number: Sullivan-01Origin: Mainland ChinaRecommend Age: 14+yWarning: NO
-  Updated: 2026-03-09T17:11:55Z
+  Updated: 2026-03-13T13:02:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1215,7 +1215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S31d46cb02a444f09ab7ea870af854245u.webp?v=1771426522
     Price: $10.99 USD
 - [Marshmallow Plush Toy, Small Cherry Charm, Little Turtle Plush Toy, Croissant, Little Penguin JC Bag Charm](https://kenner-house.myshopify.com/products/marshmallow-plush-toy-small-cherry-charm-little-turtle-plush-toy-croissant-little-penguin-jc-bag-charm): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesFilling: PP CottonHigh-concerned chemical: NoneOrigin: Mainland ChinaRecommend Age: 18+Warning: Not suitable for children under 36 months
-  Updated: 2026-03-09T17:11:55Z
+  Updated: 2026-03-13T13:02:27Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1353,7 +1353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S22240c296d784651ac236de9bd990145b.webp?v=1771426524
     Price: $12.99 USD
 - [JELLYCAT Large Size Plush Sky Flying Rainbow Dragon Toy Soft Stuffed Animal Pillow Fun Lazy Snow Dragon Kids Gift](https://kenner-house.myshopify.com/products/in-stock-jellycat-large-size-plush-sky-flying-rainbow-dragon-toy-soft-stuffed-animal-pillow-fun-lazy-snow-dragon-kids-gift): SPECIFICATIONSBrand Name: JELLYCATCertification: CEChoice: yesFeatures: Stuffed & PlushHigh-concerned chemical: NoneMaterial: PlushOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-03-09T17:11:55Z
+  Updated: 2026-03-13T13:02:29Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1399,7 +1399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Se55ed2aa73d34b0d8f2251a43910727ad.webp?v=1771426524
     Price: $18.99 USD
 - [Lie down lie down monkey Jim Plush Toy Ultra Soft Collectible Stuffed Animal Monkey Gift Shy Collector Birthday Funny Party Gift](https://kenner-house.myshopify.com/products/lie-down-lie-down-monkey-jim-plush-toy-ultra-soft-collectible-stuffed-animal-monkey-gift-shy-collector-birthday-funny-party-gift): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: NoneChoice: yesGender: UnisexHigh-concerned chemical: NoneItem Type: ModelOrigin: Mainland ChinaRecommend Age: 18+,3-6Y,6-12Y,14+y
-  Updated: 2026-03-09T17:11:55Z
+  Updated: 2026-03-13T13:02:31Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1437,7 +1437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S61ce7c5525c54fa28c40ce4cc9378d15u.webp?v=1771426525
     Price: $42.99 USD
 - [23cm Cute Woody Buzz Lightyear Plush Toy Lovely Stuffed Anime Jessie Plushies Pendant Cartoon Doll Home Decor Xmas Gifts](https://kenner-house.myshopify.com/products/23cm-cute-woody-buzz-lightyear-plush-toy-lovely-stuffed-anime-jessie-plushies-pendant-cartoon-doll-home-decor-xmas-gifts-1): SPECIFICATIONSBrand Name: DisneyCN: GuangdongCertification: CEChoice: yesDimensions: 23cmFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: PlushOrigin: Mainland ChinaRecommend Age: 18+,14+yWarning: Keep Away from Fire
-  Updated: 2026-03-09T17:11:55Z
+  Updated: 2026-03-13T13:02:35Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1455,7 +1455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S73f5567a3db94abc8869e5a5c0444c94Z_8bc57b09-a8f7-46ef-b671-c53c8a3e6485.webp?v=1771611995
     Price: $8.99 USD
 - [JC Marshmallow Plush Keychain, Plush Cherry Bag Charm, Little Turtle Plush Toy, Croissant Keychain, Little Penguin Charm](https://kenner-house.myshopify.com/products/jc-marshmallow-plush-keychain-plush-cherry-bag-charm-little-turtle-plush-toy-croissant-keychain-little-penguin-charm-1): SPECIFICATIONSAnimals: Bartholomew BearBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesFilling: PP CottonForm: GeniusGender: UnisexHigh-concerned chemical: NoneItem Type: animalModel Number: 26062021SOrigin: Mainland ChinaRecommend Age: 18+,14+yWarning: Not suitable for children under 36 months
-  Updated: 2026-03-09T17:11:56Z
+  Updated: 2026-03-13T15:46:28Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1593,7 +1593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S54cb2690153d4fae8a46855553b676c7j_da277a2a-08b7-489e-be74-086ac2f29f5a.webp?v=1771611997
     Price: $6.80 USD
 - [New JC label cute girl bag charm plush toy keychain, Kawaii plush toy, perfect as a birthday or Christmas gift.](https://kenner-house.myshopify.com/products/new-jc-label-cute-girl-bag-charm-plush-toy-keychain-kawaii-plush-toy-perfect-as-a-birthday-or-christmas-gift-1): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: COTTONOrigin: Mainland ChinaRecommend Age: 18+,14+y
-  Updated: 2026-03-09T17:11:56Z
+  Updated: 2026-03-13T15:50:44Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1719,7 +1719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S306c1b8650744e0497d2d24ff562acffq_0f2e0ad3-eaf2-40dc-badd-0de54486668b.webp?v=1771611998
     Price: $6.82 USD
 - [JC Cute Doll Gift Bag Non-woven Multifunctional Storage Bag Kwaii Blue Dust Bag Handbag Toys](https://kenner-house.myshopify.com/products/jc-cute-doll-gift-bag-non-woven-multifunctional-storage-bag-kwaii-blue-dust-bag-handbag-toys-1): SPECIFICATIONSACG Character: MiffyBrand Name: JELLYCATChoice: yesCondition: In-Stock ItemsHigh-concerned chemical: NoneItem Type: ModelMaterial: Non-WovenOrigin: Mainland ChinaRecommend Age: 18+,14+yTheme: Movie & TV
-  Updated: 2026-03-09T17:11:56Z
+  Updated: 2026-03-13T13:02:46Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1737,7 +1737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb68493af85704e559b756a522273d9751_1c93209d-8f55-4a21-b2e1-5cd139041505.webp?v=1771611997
     Price: $4.99 USD
 - [Hot toys Cute Cow Doll Little Cow Plush Toy Chinese Zodiac Cow Doll Cloth Doll New Year's Gift Girl's Birthday Gift](https://kenner-house.myshopify.com/products/hot-toys-cute-cow-doll-little-cow-plush-toy-chinese-zodiac-cow-doll-cloth-doll-new-years-gift-girls-birthday-gift-1): SPECIFICATIONSAnimals: CattleBrand Name: NoEnName_NullCN: GuangdongCertification: CEChoice: yesClassification: Plush DollClassification of animals: CattleFeatures: Stuffed & PlushFilling: PP CottonFilling material: Down cottonGender: UnisexHeight: 30cmHigh-concerned chemical: NoneItem Type: AnimalsMaterial: Cotton Rope & WoolOrigin: Mainland ChinaPlace of Origin: ChinaPlush classification: Ying Shu RongRecommend Age: 14+y,18+Style category: AnimalTheme: TV & Movie CharacterType: Plush/Nano Doll
-  Updated: 2026-03-09T17:11:56Z
+  Updated: 2026-03-13T15:50:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1767,7 +1767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sca1f0b3c78df47d18838b5e2fc816c59d_0a665441-03aa-4124-ae80-1f3784825e22.webp?v=1771611997
     Price: $12.99 USD
 - [Women'S Casual Crew Neck T-Shirt Fashion Tee with "It's A Tea Shirt" Alphabet Cartoon Teacup Pattern Printed Summer Clothing](https://kenner-house.myshopify.com/products/womens-casual-crew-neck-t-shirt-fashion-tee-with-its-a-tea-shirt-alphabet-cartoon-teacup-pattern-printed-summer-clothing): SPECIFICATIONSAge: Middle AgeBrand Name: NONECN: FujianChoice: yesClothing Length: regularCollar: O-NeckCraft of Weaving: TattingDecoration: NoneElasticity: Slight StrechFabric Type: BroadclothFit: True to SizeFit Type: regularGender: WomenHigh-concerned chemical: NoneItem Type: topsMaterial: POLYESTERModel Number: Y2KOrigin: Mainland ChinaPattern Them: CreativityPattern Type: CartoonPlace Of Origin: China (mainland)Season: SummerSleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: regularStyle: CasualTops Type: TEESsize_info: {"sizeInfoList":[{"length":{"cm":"84","inch":"33.07"},"size":"XS","vid":872},{"length":{"cm":"86","inch":"33.86"},"size":"S","vid":100014064},{"length":{"cm":"90","inch":"35.43"},"size":"M","vid":361386},{"length":{"cm":"94","inch":"37.01"},"size":"L","vid":361385},{"length":{"cm":"96","inch":"37.80"},"size":"XL","vid":100014065},{"length":{"cm":"100","inch":"39.37"},"size":"XXL","vid":4182},{"length":{"cm":"104","inch":"40.94"},"size":"XXXL","vid":4183}]}
-  Updated: 2026-03-09T17:11:56Z
+  Updated: 2026-03-13T15:52:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1869,7 +1869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sf3c704d811d14a2da537b4d714129ce8u.webp?v=1771612000
     Price: $10.99 USD
 - [Women Office Lady Elegant Shirts Fashion Long Sleeve Casual White Blouses Turn-down Collar Ol Style Loose Top](https://kenner-house.myshopify.com/products/women-office-lady-elegant-shirts-fashion-long-sleeve-casual-white-blouses-turn-down-collar-ol-style-loose-top): SPECIFICATIONSAge: Middle AgeBrand Name: NONECN: ZhejiangClosure Type: Single BreastedClothing Length: regularClothing Patterns: StraightCollar: Turn-Down CollarCraft of Weaving: TattingDecoration: ButtonElasticity: Non StrechFabric Type: BroadclothFit Type: Regular FitGender: WomenHigh-concerned chemical: NoneMaterial: POLYESTEROccasion: CasualOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Release Date: Autumn 2025Season: All SeasonShirts Type: Casual ShirtsSleeve Length(cm): FullSleeve Style: regularStyle: Office LadyThickness: Standardwhether full opening: Yes
-  Updated: 2026-03-09T17:11:57Z
+  Updated: 2026-03-13T15:48:45Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1895,7 +1895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S83565a641633474d85def14bcbe74871k.webp?v=1771612000
     Price: $18.99 USD
 - [A Well Read Woman Is A Dangerous Creature T Shirts Bookish Merch T-Shirt Women Tshirts Vintage Graphic Tees Book Lovers Gifts](https://kenner-house.myshopify.com/products/a-well-read-woman-is-a-dangerous-creature-t-shirts-bookish-merch-t-shirt-women-tshirts-vintage-graphic-tees-book-lovers-gifts): SPECIFICATIONSAge: Middle AgeBrand Name: grosfairyCN: ZhejiangChoice: yesClothing Length: regularCollar: O-NeckCraft of Weaving: KnitDecoration: NoneElasticity: Slight StrechFabric Type: BroadclothGender: WomenHigh-concerned chemical: NoneItem Type: topsMaterial: COTTON,POLYESTEROrigin: Mainland ChinaPattern Type: CharacterSeason: All SeasonSleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: regularStyle: CasualTops Type: TEESsemi_Choice: yessize_info: {"sizeInfoList":[{"length":{"cm":"91","inch":"35.83"},"size":"S","vid":100014064},{"length":{"cm":"96","inch":"37.80"},"size":"M","vid":361386},{"length":{"cm":"99","inch":"38.98"},"size":"L","vid":361385},{"length":{"cm":"104","inch":"40.94"},"size":"XL","vid":100014065},{"length":{"cm":"114","inch":"44.88"},"size":"XXL","vid":4182},{"length":{"cm":"117","inch":"46.06"},"size":"XXXL","vid":4183}]}
-  Updated: 2026-03-09T17:11:57Z
+  Updated: 2026-03-13T15:50:07Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2101,7 +2101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S4599a746ba60470ea5b694631c8b155ff.webp?v=1771612001
     Price: $26.99 USD
 - [Women Blouse Summer  Sleeveless Chiffon Shirt White Shirt Vest Blusas Ropa De Mujer](https://kenner-house.myshopify.com/products/women-blouse-summer-sleeveless-chiffon-shirt-white-shirt-vest-blusas-ropa-de-mujer): SPECIFICATIONSAge: JuniorBrand Name: yunyiwaCN: GuangdongClosure Type: Double BreastedClothing Length: regularCraft of Weaving: TattingDecoration: ButtonElasticity: Slight StrechFabric Type: Polyester CottonFit Type: Regular FitGender: WomenHigh-concerned chemical: NoneMaterial: COTTON,POLYESTER,ModalOrigin: Mainland ChinaPattern Type: FloralSeason: All SeasonSleeve Length(cm): FullSleeve Style: regularStyle: StreetwearThickness: Midweightwhether full opening: Yes
-  Updated: 2026-03-09T17:11:57Z
+  Updated: 2026-03-13T15:51:32Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2163,7 +2163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S9aff13b81b7248519bf08d9cfe02c652x.webp?v=1771612001
     Price: $20.99 USD
 - [Women Sandals 2024 Hot Fashion Rhinestone Summer Shoes Women Sandals Clip Toe Women Shoes Sandalia Feminina](https://kenner-house.myshopify.com/products/women-sandals-2024-hot-fashion-rhinestone-summer-shoes-women-sandals-clip-toe-women-shoes-sandalia-feminina): SPECIFICATIONSApplicable age groups: Young (18 to 40 years old)Back Counter Type: Back StrapBrand Name: MAIERNISIClosure Type: Buckle StrapDepartment Name: AdultDressing style: OtherFashion Element: CRYSTALFit: True to SizeGender: WomenHeel Height: Low (1CM - 3CM)Heel Type: Flat withHigh-concerned chemical: NoneInsole Material: PUItem Type: sandalsLining Material: PUOccasion: CasualOrigin: Mainland ChinaOutsole Material: RubberPattern Type: Mixed colorsSandal Type: BasicSide Vamp Type: OpenSole material: Raw rubberStyle: FashionUpper Material: Artificial leatherUpper coverage: Not above ankleUpper fixing method: stickingWith Platforms: Nosize_info: {"sizeInfoList":[{"length":{"cm":"22","inch":"8.66"},"size":"34","vid":-27},{"length":{"cm":"22.5","inch":"8.86"},"size":"35","vid":-28},{"length":{"cm":"23","inch":"9.06"},"size":"36","vid":-29},{"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":-30},{"length":{"cm":"24","inch":"9.45"},"size":"38","vid":-31},{"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":-32},{"length":{"cm":"25","inch":"9.84"},"size":"40","vid":-33},{"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":-34},{"length":{"cm":"26","inch":"10.24"},"size":"42","vid":-35},{"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":-36},{"length":{"cm":"27","inch":"10.63"},"size":"44","vid":-37},{"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":-38},{"length":{"cm":"28","inch":"11.02"},"size":"46","vid":-39}]}
-  Updated: 2026-03-09T17:11:57Z
+  Updated: 2026-03-13T15:48:36Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2217,7 +2217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S534f05157dcb412a9115e1f53c398d6dL.webp?v=1771612001
     Price: $20.99 USD
 - [Safety Shorts Women Seamless Shorts Spandex Shorts Women Plus Size Short Pants for Women](https://kenner-house.myshopify.com/products/safety-shorts-women-seamless-shorts-spandex-shorts-women-plus-size-short-pants-for-women): SPECIFICATIONSBrand Name: MOONBIFFYCN: GuangdongFeature: Anti-Bacterial,INVISIBLE,Eco-Friendly,BreathableGender: WomenItem Type: Safety Short PantsMaterial: Spandex,Organic CottonObscene Picture: NoOrigin: Mainland ChinaSexually Suggestive: No
-  Updated: 2026-03-09T17:11:57Z
+  Updated: 2026-03-13T15:50:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2307,7 +2307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S1f8c4498748f48798c7a0d6a958713e7P.webp?v=1771612002
     Price: $6.99 USD
 - [European American Sunglass Women Fashion Polygon Shape UV400 Protection Men Women Glasses Vintage Retro Women Sunglasses](https://kenner-house.myshopify.com/products/european-american-sunglass-women-fashion-polygon-shape-uv400-protection-men-women-glasses-vintage-retro-women-sunglasses): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: abnathyDepartment Name: AdultElement type: Trendy and FashionableEyewear Type: SunglassesFrame Material: PolycarbonateGender: WomenHigh-concerned chemical: NoneItem Type: EYEWEARLens Height: 53mmLens Width: 64mmLenses Material: AcrylicLenses Optical Attribute: Anti-reflective,UV400Model Number: DL20231112Origin: Mainland ChinaPlace Of Origin: China (mainland)Product Type: Fashion SunglassesStyle type: Square
-  Updated: 2026-03-09T17:11:58Z
+  Updated: 2026-03-13T15:48:49Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2337,7 +2337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S238f1f2e888f4503b39fcec8cb7c4b0aU.webp?v=1771612002
     Price: $6.99 USD
 - [2025 NEW Women Flats Sneakers Spring Fashion Round Toe Sneakers Women Platform Casual Comfortable Shoes Women](https://kenner-house.myshopify.com/products/2025-new-women-flats-sneakers-spring-fashion-round-toe-sneakers-women-platform-casual-comfortable-shoes-women): SPECIFICATIONSBrand Name: CNMRClosure Type: Slip-OnDepartment Name: AdultFashion Element: ShallowFit: True to SizeFlats Type: Mary JanesGender: WomenHigh-concerned chemical: NoneInsole Material: PUItem Type: flatsLining Material: NoneModel Number: 05Occasion: DressOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSeason: Spring/AutumnStyle: ConciseToe Shape: Round ToeUpper Material: PUUpper fixing method: straps bonding or moldingWhether waterproof: NoWhether with metal toe cap: Nosize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"35","BR":"33","JP":"22","UK":"2.5","KR":"225","MX":"22.5","US":"5"},"length":{"cm":"21.8","inch":"8.58"},"size":"34","vid":100010481},{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3","KR":"230","MX":"23","US":"5.5"},"length":{"cm":"22.3","inch":"8.78"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"36","BR":"34.5","JP":"23","UK":"3.5","KR":"235","MX":"23.5","US":"6"},"length":{"cm":"22.8","inch":"8.98"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4","KR":"240","MX":"24","US":"6.5"},"length":{"cm":"23.3","inch":"9.17"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"245","MX":"24.5","US":"7"},"length":{"cm":"23.8","inch":"9.37"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"24.3","inch":"9.57"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39","BR":"37.5","JP":"25","UK":"6","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"24.8","inch":"9.76"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"6.5","KR":"260","MX":"26","US":"9"},"length":{"cm":"25.3","inch":"9.96"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"40.5","BR":"38.5","JP":"26","UK":"7","KR":"265","MX":"26.5","US":"9.5"},"length":{"cm":"25.8","inch":"10.16"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"40","JP":"26.5","UK":"7.5","KR":"270","MX":"27","US":"10"},"length":{"cm":"26.3","inch":"10.35"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"42","BR":"40.5","JP":"27","UK":"8.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"26.8","inch":"10.55"},"size":"44","vid":100010487}]}
-  Updated: 2026-03-09T17:11:58Z
+  Updated: 2026-03-13T15:52:05Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2371,7 +2371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc690775056724b628929fa2f32cd68861.webp?v=1771612003
     Price: $30.54 USD
 - [Designer Women Sneakers Thick Bottom Casual Fashionable Sport Shoes Women Lightweight Running Shoes Comfortable Sneakers Women](https://kenner-house.myshopify.com/products/designer-women-sneakers-thick-bottom-casual-fashionable-sport-shoes-women-lightweight-running-shoes-comfortable-sneakers-women): SPECIFICATIONS2024 new shoes women: summer shoes womenBrand Name: BFCCQBClosure Type: Slip-OnDepartment Name: AdultFashion Element: ROMEFit: True to SizeGender: WomenHeel Height: Low (1CM - 3CM)High-concerned chemical: NoneInsole Material: PULining Material: NoneModel Number: shoes womenOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSeason: Spring/AutumnShoes Type: OtherSneakers women: women SneakersUpper Material: PUUpper coverage: Not above ankleUpper fixing method: Others (fill in by yourself)Whether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : Nonesandalias de mujer verano 2024: chanclasshoes for women: zapatillas de hombreshoes woman: Casual Shoes womenshoes womens: womens shoessize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"35","BR":"33","JP":"22","UK":"2.5","KR":"225","MX":"22.5","US":"5"},"length":{"cm":"21.8","inch":"8.58"},"size":"34","vid":100010481},{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3","KR":"230","MX":"23","US":"5.5"},"length":{"cm":"22.3","inch":"8.78"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"36","BR":"34.5","JP":"23","UK":"3.5","KR":"235","MX":"23.5","US":"6"},"length":{"cm":"22.8","inch":"8.98"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4","KR":"240","MX":"24","US":"6.5"},"length":{"cm":"23.3","inch":"9.17"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"245","MX":"24.5","US":"7"},"length":{"cm":"23.8","inch":"9.37"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"24.3","inch":"9.57"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39","BR":"37.5","JP":"25","UK":"6","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"24.8","inch":"9.76"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"6.5","KR":"260","MX":"26","US":"9"},"length":{"cm":"25.3","inch":"9.96"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"40.5","BR":"38.5","JP":"26","UK":"7","KR":"265","MX":"26.5","US":"9.5"},"length":{"cm":"25.8","inch":"10.16"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"40","JP":"26.5","UK":"7.5","KR":"270","MX":"27","US":"10"},"length":{"cm":"26.3","inch":"10.35"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"42","BR":"40.5","JP":"27","UK":"8.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"26.8","inch":"10.55"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"43","BR":"41","JP":"27.5","UK":"9","KR":"280","MX":"28","US":"11"},"length":{"cm":"27.3","inch":"10.75"},"size":"45","vid":3116}]}summer Sneakers women: summer women Sneakerstenis de mujer: zapatos para mujereswomen shoes: 2024 new women shoeszapatillas de mujer: shoes for woman
-  Updated: 2026-03-09T17:11:58Z
+  Updated: 2026-03-13T15:50:41Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2449,7 +2449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa9b4712813eb4b0ea8cb00e1ee6029baX.webp?v=1771612004
     Price: $30.99 USD
 - [Hypersoft Sneakers Women Orthopedic Sneakers for Women Platform White Black Red Walking Shoes Women Women Casual Shoes 35-45](https://kenner-house.myshopify.com/products/hypersoft-sneakers-women-orthopedic-sneakers-for-women-platform-white-black-red-walking-shoes-women-women-casual-shoes-35-45): SPECIFICATIONSBrand Name: KSJXMYClosure Type: Lace-UpDepartment Name: AdultFit: True to SizeGender: WomenHeel Height: Low (1CM - 3CM)High-concerned chemical: NoneInsole Material: EVALining Material: SyntheticOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSeason: Spring/AutumnShoes Type: SkateboardUpper Material: Air MeshUpper coverage: Not above ankleUpper fixing method: stickingWhether waterproof: YesWhether with metal toe cap: NoWith or install Professional accessories : None
-  Updated: 2026-03-09T17:11:58Z
+  Updated: 2026-03-13T13:03:50Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2655,7 +2655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa20e9d2ca837491588c3c7f3ac1b967aw.webp?v=1771612005
     Price: $41.99 USD
 - [New Fashionable High-definition Cat Eye Glasses with Large Frame Color Blocking Design and Multi-color Anti Blue Light Glasses](https://kenner-house.myshopify.com/products/new-fashionable-high-definition-cat-eye-glasses-with-large-frame-color-blocking-design-and-multi-color-anti-blue-light-glasses): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: ZRGAECertification: NoneChoice: yesCoating: HMCElement type: Trendy and FashionableEyewear Type: Reading glassesFrame Material: PlasticGender: Women,Men,UnisexHigh-concerned chemical: NoneItem Type: EYEWEARLenses Color: TransparentLenses Material: PlasticLenses Optical Attribute: MIRROROrigin: Mainland ChinaPlace Of Origin: China (mainland)Product Type: Regular reading glassesStyle type: CAT EYEsemi_Choice: yes
-  Updated: 2026-03-09T17:11:58Z
+  Updated: 2026-03-13T13:03:56Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2789,7 +2789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sd14fae3cf8994311a22ee094225a2c20c.webp?v=1771618413
     Price: $6.99 USD
 - [Elegant cat eye reading glasses for women-fashionable color block design, anti-blue light, 1.0 to 4.0 strength](https://kenner-house.myshopify.com/products/elegant-cat-eye-reading-glasses-for-women-fashionable-color-block-design-anti-blue-light-1-0-to-4-0-strength): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: KLASSNUMCertification: NoneChoice: yesCoating: HMCElement type: Basic ClassicEyewear Type: Reading glassesFeature 1: Reading glasses womanFeature 2: women's grade glassesFeature 3: glasses womanFeature 4: LensesFeature 5: glassesFrame Material: PlasticGender: Women,Men,UnisexHigh-concerned chemical: NoneItem Type: EYEWEARLenses Color: ClearLenses Material: PolycarbonateLenses Optical Attribute: polarizedModel Number: Reading GlassesOrigin: Mainland ChinaProduct Type: Regular reading glassesStyle type: Gogglesemi_Choice: yes
-  Updated: 2026-03-09T17:11:59Z
+  Updated: 2026-03-13T13:04:03Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2907,7 +2907,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S117f4de54a144cf0a79e13ba41cffdb7z.webp?v=1771618413
     Price: $4.99 USD
 - [Elegant Cat Eye Glasses for Women - Vintage-Inspired Gradient, Full Frame, Lightweight & Durable, Blue Light Blocking Clear Lens](https://kenner-house.myshopify.com/products/elegant-cat-eye-glasses-for-women-vintage-inspired-gradient-full-frame-lightweight-durable-blue-light-blocking-clear-lens): SPECIFICATIONSBrand Name: VIGNYBURKEChoice: yesElement type: Trendy and FashionableEye glasses Type: SpectaclesEye glasses frame type: Full RimFrame Material: Acetate,PC (polycarbonate)Frame Shape: Cat EyeGender: WomenHigh-concerned chemical: NoneLens Material: PC (polycarbonate)Lenses Material: PolycarbonateModel Number: WF86095Origin: Mainland China,ZhejiangChinaPlace Of Origin: China (mainland)Style: ElegantStyle type: Oval
-  Updated: 2026-03-09T17:11:59Z
+  Updated: 2026-03-13T13:03:57Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2933,7 +2933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S890e6d506ee8494585861961c2dfb967Z.webp?v=1771618413
     Price: $8.99 USD
 - [Women's Makeup Glasses High definition Fashion Magnifying Glass Makeup Presbyopia Glasses Personalized Single piece Rotating](https://kenner-house.myshopify.com/products/womens-makeup-glasses-high-definition-fashion-magnifying-glass-makeup-presbyopia-glasses-personalized-single-piece-rotating): SPECIFICATIONSApplicable Scenarios: HomeBrand Name: ZUXUBChoice: yesElement type: Basic ClassicEyewear Type: Reading glassesFrame Material: PlasticGender: MenHigh-concerned chemical: NoneItem Type: EYEWEARLenses Color: ClearLenses Material: PlasticLenses Optical Attribute: Anti-reflectiveOrigin: Mainland ChinaProduct Type: Regular reading glassesStyle type: Oval
-  Updated: 2026-03-09T17:11:59Z
+  Updated: 2026-03-13T15:54:07Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3139,7 +3139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S66b494e5160443db95f6e0d97d01f2f94.webp?v=1771618415
     Price: $4.99 USD
 - [2 pairs of fashionable trend-surrounding glasses with texture, suitable for both men and women](https://kenner-house.myshopify.com/products/2-pairs-of-fashionable-trend-surrounding-glasses-with-texture-suitable-for-both-men-and-women): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: HindfieldChoice: yesDepartment Name: AdultElement type: Trendy and FashionableEyewear Type: SunglassesFrame Material: PolycarbonateGender: UnisexHigh-concerned chemical: NoneItem Type: EYEWEARLenses Material: PolycarbonateLenses Optical Attribute: MIRRORModel Number: TM63733Origin: Mainland ChinaProduct Type: Fashion SunglassesProfessional Type: Basic SunglassesStyle type: Special-Shaped
-  Updated: 2026-03-09T17:11:59Z
+  Updated: 2026-03-13T13:04:04Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3157,7 +3157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8a0e6e70528e462b820b22be0963fa74K.webp?v=1771618413
     Price: $24.99 USD
 - [Luxury Anti Blue Light Optical Cat Eye Glasses Women Vintage Brand Designer Myopia  Sexy Ladies Eye Glasses Frame](https://kenner-house.myshopify.com/products/luxury-anti-blue-light-optical-cat-eye-glasses-women-vintage-brand-designer-myopia--sexy-ladies-eye-glasses-frame): SPECIFICATIONSBrand Name: BUYUTEENCertification: CEElement type: SweetFrame Material: PlasticGender: WomenHigh-concerned chemical: NoneLens Height: 46mmLens Width: 54mmLenses Material: PlasticModel Number: B6283Origin: Mainland ChinaPlace Of Origin: China (mainland)Style type: CAT EYE
-  Updated: 2026-03-09T17:11:59Z
+  Updated: 2026-03-13T13:04:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3183,14 +3183,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S23d12d8305f84cd4aad6bc7b185819abU.webp?v=1771618414
     Price: $10.99 USD
 - [Stylish Transparent Eye Glasses Sunglasses Soft Case Box Portable Protector Holder](https://kenner-house.myshopify.com/products/stylish-transparent-eye-glasses-sunglasses-soft-case-box-portable-protector-holder): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesColor: TransparentEyewear Accessories: Cases & BagsGender: UnisexHigh-concerned chemical: NoneItem Diameter: Please refer to the descriptionItem Height: 1.5Item Length: 14.5Item Type: Eyewear AccessoriesItem Weight: 20Item Width: Please refer to the description,5.6Material: Rayon,PlasticModel Number: E06E2S41007Origin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Product Type: Plastic eyeglass caseSize: app.14.5cmx5.6cmx1.5cm/5.71''x2.20''x0.59''semi_Choice: yes
-  Updated: 2026-03-09T17:12:00Z
+  Updated: 2026-03-13T13:04:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H3436704ae3304959be63196d229ab0c0Q.webp?v=1771618414
   Price: $12.99 USD
 - [Candy Cane](https://kenner-house.myshopify.com/products/candy-cane): Flavored Coffee - All natural flavoring
-  Updated: 2026-03-09T17:12:00Z
+  Updated: 2026-03-13T13:01:42Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3247,7 +3247,7 @@
     Availability: Available
     Price: $81.99 USD
 - [French Vanilla](https://kenner-house.myshopify.com/products/french-vanilla): Roast: Medium This rich and creamy vanilla coffee is well rounded and smooth. The silky flavors blend perfectly with this small batch roasted coffee. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. *Natural Flavoring
-  Updated: 2026-03-09T17:12:00Z
+  Updated: 2026-03-13T13:01:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3313,77 +3313,77 @@
     Availability: Available
     Price: $171.99 USD
 - [Jasmine](https://kenner-house.myshopify.com/products/jasmine): A fine blend of freshly plucked jasmine blossoms and green tea, this is medium-bodied, sweet, smooth, and silky. Good for multiple steepings. The green tea is picked by hand and prepared then set aside until the Jasmine blosoms are ready. The two are paired at just the right time to create this harmony of fruity flavors on a medium bodied green tea base.
-  Updated: 2026-03-09T17:12:00Z
+  Updated: 2026-03-13T13:01:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/kraft_blank_final_latest_8eb108b7-89d0-448c-8f38-70654afc4c74.jpg?v=1771685814
   Price: $17.00 USD
 - [Apple Cider Rooibos](https://kenner-house.myshopify.com/products/apple-cider-rooibos): This herbal blend is spicy, sweet, and naturally caffeine free. Rooibos (pronounced ROY-bos) is a popular tea alternative grown in South Africa. It is called Red Bush Tea and known for its health benefits. This blend elevates the great Rooibos flavors by adding in cinnamon, orange peel and natural spices for an unforgettable premium cup. Great fall flavor that you can enjoy year round.
-  Updated: 2026-03-09T17:12:00Z
+  Updated: 2026-03-13T13:01:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/kraft_blank_final_latest_1d7ffe3d-3dcf-456c-b316-3cd11f6f9647.jpg?v=1771685832
   Price: $17.00 USD
 - [Hojicha](https://kenner-house.myshopify.com/products/hojicha): This roasted green tea powder is crafted from carefully selected tea leaves and stems. Stone-milled into a fine powder, it brews into a smooth cup with comforting notes of toasted cereal and balanced umami.
-  Updated: 2026-03-09T17:12:00Z
+  Updated: 2026-03-13T13:01:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/kraft_blank_final_latest_0580e6d1-ff14-4d20-b634-6dccdf8627aa.jpg?v=1771685863
   Price: $22.00 USD
 - [Single Origin Favorites Sample Pack](https://kenner-house.myshopify.com/products/single-origin-favorites-sample-pack): Sample our most popular single origin coffees in 2oz packs. 6 packs total Brazil Santos Roast: MediumTasting Profile: Elegant, smooth cup with cocoa notes.Grower: Fazenda Santa Barbara, Sao Francisco, Santo AntonioVariety: Catuai and Mundo NovoRegion:Parana and Sao Paulo BrazilAltitude: 750-1050 MSoil Type: Volcanic LoamProcess: Pulped natural and dried in the Sun Colombia Roast: MediumTasting Profile: Dried orange, berry, chocolateGrower: Smallholder farmers from MedellinVariety: Castillo, Caturra, Colombia, & TypicaRegion: Medellin, Antioquia, ColombiaAltitude: 1300-1500 MSoil Type: Volcanic LoamProcess: Fully washed and dried in solar dryers to protect the coffee from rain. Costa Rica Roast: MediumTasting Profile: Sweet apple, raisin, honeyGrower: Micro farms in AlajuelaVariety: Caturra & CatuaiRegion: Alajuela, Costa RicaAltitude: 1300-1445 MSoil Type: Volcanic LoamProcess: Eco-pulped and dried in the sun. EthiopiaRoast: Med-lightTasting Profile: Milk chocolate, fruity, caramelGrower: Smallholder farmers from thee Sidama zone.Variety: Indigenous Heirloom CultivarsRegion: Sidama Zone, EthiopiaAltitude: 1700-1900 MSoil Type: NitisolsProcess: Full natural, sorted by hand. Dried on raised beds. Honduras Roast: Medium-darkTasting Profile: Caramel, spice, brown sugar.Grower: 1500 grower/members from Cafe Organics MarcalaVariety: Bourbon, Catuai, Caturra, Lempira, & TypicaRegion: Marcala, La Paz, HondurasAltitude: 1300-1700 MSoil Type: Clay MineralsProcess: Fully washed and sun dried. Tanzania Roast: Medium-lightTasting Profile: Pear, floral, jasmine, strawberry.Grower: Small cooperative farmers in the Mbeya areaVariety: Bourbon & KentRegion: Mbeya Region of TanzaniaAltitude: 1200-1900 MSoil Type: Clay MineralsProcess: Fully washed and dried on raised beds
-  Updated: 2026-03-09T17:12:01Z
+  Updated: 2026-03-13T13:01:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/label2_on_bag_5338d2a2-759f-4c3d-bca2-4c6c39d7e2ab.jpg?v=1771686431
   Price: $24.99 USD
 - [GPS Wireless Dog Fencing System - Electric dog fencing with GPS Electric Satellite Technology, Pet Fencing System Range 15~2000m](https://kenner-house.myshopify.com/products/gps-wireless-dog-fencing-system-electric-dog-fencing-with-gps-electric-satellite-technology-pet-fencing-system-range-15-2000m): SPECIFICATIONSBattery Included: YesBrand Name: peteduChoice: yesHigh-concerned chemical: NoneIs Smart Device: NoItem Type: Training CollarsMaterial: PlasticModel Number: ZF500Origin: Mainland ChinaTarget Pet: DogType: Dogswhether electrical: No
-  Updated: 2026-03-09T17:12:01Z
+  Updated: 2026-03-13T13:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S6ab5365a69f444e5b9c66d13cffb6384p.webp?v=1771693947
   Price: $130.99 USD
 - [GF07 Magnetic Mini GPS Tracker Real-Time Vehicle Locator Car Pet Tracking Device Compact Portable GPS Locator Position APP //**](https://kenner-house.myshopify.com/products/gf07-magnetic-mini-gps-tracker-real-time-vehicle-locator-car-pet-tracking-device-compact-portable-gps-locator-position-app): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIn stock: Ship todayModel Number: GF07Origin: Mainland ChinaRange: othersType 1: Positioning, tracking, equipment, navigationType 10: Trajectory, search, intelligenceType 11: Micro positioning, portable, security, and tracking devicesType 12: Positioning, small devices, location trackingType 13: Navigation devices, personal tracking, item positioningType 14: Micro locator, wireless tracking, anti loss positioningType 15: Car tracker, precise positioning, outdoor trackingType 16: Intelligent positioning, positioning deviceType 17: Personal positioning deviceType 18: Item tracking, GPS positioning, trackerType 19: Mini locator, wireless tracking, anti loss positioningType 2: SignalType 20: Car tracker, precise positioning, outdoor trackingType 21: Intelligent positioning, positioning deviceType 22: Personal positioning deviceType 23: Item tracking, locatorType 24: Satellite positioning and location trackingType 25: Micro tracker, portable positioningType 26: Tracking and tracking devicesType 27: Small positioning devices, navigation positioningType 28: Real time positioning and mobile trackingType 29: Track recording, search and positioningType 3: Micro, anti-theft, monitoring, in car, trackerType 30: Electronic trackers, positioning instrumentsType 31: Geographic positioning and stealth trackingType 32: Mini tracker, wireless locatorType 33: Vehicle positioning, outdoor positioningType 34: Personal tracker, item locatorType 35: Accurate tracking, intelligent trackingType 36: Positioning tools, tracking devicesType 37: Micro positioning device, signal positioningType 38: Anti loss tracking, small trackerType 39: Satellite tracking and location searchType 4: Compact, wireless, locator, personal, itemType 40: Mobile positioning and trajectory trackingType 41: Electronic positioning, portable locatorType 42: Security positioning, GPS positioningType 43: Tracker, mini locatorType 44: Wireless tracking and anti loss positioningType 45: Car tracker, precise positioningType 46: Outdoor tracking and intelligent positioningType 47: Personal locator, locatorType 48: Positioning and location trackingType 49: Micro tracker, portable positioningType 5: Invisible, anti lost, outdoor, mini, real-timeType 50: Small positioning devices, real-time positioningType 51: Mobile tracking and trajectory recordingType 52: Electronic tracker, geolocationType 53: Wireless locator, vehicle positioningType 54: Personal tracker, precise trackingType 55: Tracking devices, anti loss trackingType 56: Tracking, portable locatorType 6: Tracking tools, portable, positioning systemsType 7: Tracking devices, geographyType 8: Tracking, small, technological, precise, electronicType 9: Positioning instruments, mobile devicesWaterproof: No
-  Updated: 2026-03-09T17:12:01Z
+  Updated: 2026-03-13T13:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S23268c9de59f48c6847d9e7f2ff149049.webp?v=1771693948
   Price: $8.99 USD
 - [Waterproof Pet GPS Tracker System Locator CatS Dogs Puppy Adjustable Collar Real-Time Call Remote Control GPS Locator](https://kenner-house.myshopify.com/products/waterproof-pet-gps-tracker-system-locator-cats-dogs-puppy-adjustable-collar-real-time-call-remote-control-gps-locator): SPECIFICATIONSBattery Included: YesBrand Name: NONEHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-09T17:12:01Z
+  Updated: 2026-03-13T13:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc3f431ee98644c9e8f2521f55c62f81c0.webp?v=1771693948
   Price: $46.99 USD
 - [P03 Pet GPS Tracker RealTime Tracking Quadruple precise positioning App controlled for Dogs/Cats,Car, the elderly person Locator](https://kenner-house.myshopify.com/products/p03-pet-gps-tracker-realtime-tracking-quadruple-precise-positioning-app-controlled-for-dogs-cats-car-the-elderly-person-locator): SPECIFICATIONSBattery Included: YesBattery Life: 1-9 HoursBrand Name: NONEChoice: yesHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-09T17:12:01Z
+  Updated: 2026-03-13T13:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3c4d472a15a941e2a98c289fc3635077e.webp?v=1771693948
   Price: $58.99 USD
 - [Dog Mat in the Car Bed Medium Dogs Baskets Pets Accessories Large Puppy Small Pet Sofa Big Basket Beds Cushions Supplies](https://kenner-house.myshopify.com/products/dog-mat-in-the-car-bed-medium-dogs-baskets-pets-accessories-large-puppy-small-pet-sofa-big-basket-beds-cushions-supplies): SPECIFICATIONSBrand Name: BeiYu PetCN: ZhejiangChoice: yesFeature: TravelFeatures 1: Dog Mat in the CarFeatures 2: Pets AccessoriesFeatures 3: Pet Sofa Big BasketHigh-concerned chemical: NoneIs Smart Device: NoItem Type: Bed & Mat Covers,Beds & SofasMaterial: otherOrigin: Mainland ChinaPattern Type: SolidType: DogsWash Style: Mechanical WashWeight: 1430gsemi_Choice: yes
-  Updated: 2026-03-09T17:12:02Z
+  Updated: 2026-03-13T13:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sfc4a0040bc6f45b2b6c89c9f663d4d3e2.webp?v=1771693949
   Price: $74.99 USD
 - [Dog Auto Seat Bed Pet Travel Car Bed Seat Multifunctional Stable Seat Puppy](https://kenner-house.myshopify.com/products/dog-auto-seat-bed-pet-travel-car-bed-seat-multifunctional-stable-seat-puppy): SPECIFICATIONSApplicable Dog Breed: Small DogBrand Name: NONEBreed size: Small BreedsChoice: yesFeature: BreathableHigh-concerned chemical: NoneItem Type: Soft-Sided CarriersMainKey1: Pets Car Booster SeatMainKey2: Dog Car Seat Console Small Dog Cat Booster SeatMainKey3: Puppy Travel Car Carrier Bed Armrest Dog SeatMainKey4: Center Console Seat Pet Seat For Car InteractiveMainKey5: Travel Dogs Bed Car Seat Portable Dog SeatMainKey6: Pet Carrier Handbag Shoulder Bag Dog Car NestMaterial: POLYESTEROrigin: Mainland ChinaSeason: WinterType: Dogs
-  Updated: 2026-03-09T17:12:02Z
+  Updated: 2026-03-13T13:04:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S074d1b6e4c1b431497fe17c7f2872bc0X.webp?v=1771693949
   Price: $30.99 USD
 - [Dog Bed with Rails, Pet Supplies, Non-Slip Feet, Adjustable Height, Breathable,](https://kenner-house.myshopify.com/products/dog-bed-with-rails-pet-supplies-non-slip-feet-adjustable-height-breathable): SPECIFICATIONSBrand Name: SerenableChoice: yesFeature: BreathableHigh-concerned chemical: NoneIs Smart Device: NoItem Type: Bed & Mat CoversMainKey1: Dog Bed with RailsMainKey2: Dog Bed with Rails Elevated Pet Metal Bed FrameMainKey3: Elevated Dog Bed Portable Pet Bed Versatile GiftsMainKey4: Elevated Pet Bed Small Medium Dog Indoor CatsMainKey5: Puppy Sleeping Bed Pet Supplies Pet FurnitureMainKey6: Dog Cots with Metal Frame Heavy Duty VersatileMaterial: Metal,MetalOrigin: Mainland China
-  Updated: 2026-03-09T17:12:02Z
+  Updated: 2026-03-13T13:04:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3397,7 +3397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S98e0e71cb32849a39e3c061bb32056b6K.webp?v=1771693950
     Price: $74.99 USD
 - [Dog Car Seat Bed Car Central Dog Car Seat Bed Portable Dog Carrier for Small Dogs Cats Safety Travel Bag Dog Accessories](https://kenner-house.myshopify.com/products/dog-car-seat-bed-car-central-dog-car-seat-bed-portable-dog-carrier-for-small-dogs-cats-safety-travel-bag-dog-accessories): SPECIFICATIONSApplicable Dog Breed: Small DogBrand Name: NONEBreed size: Medium BreedsCN: GuangdongChoice: yesFeature: Eco-FriendlyHigh-concerned chemical: NoneItem Type: "Car Travel Accessories ","Car Travel Accessories "Material: POLYESTEROrigin: Mainland ChinaPattern Type: SolidSeason: all seasonsType: Dogssemi_Choice: yes
-  Updated: 2026-03-09T17:12:02Z
+  Updated: 2026-03-13T13:04:19Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3419,21 +3419,21 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Se215af34ca424501b8decaaae55852c5p.webp?v=1771693951
     Price: $38.99 USD
 - [Keratin Curl Defining Cream 5 Seconds Repair Hair Soft Smooth Shiny Deep Moisturize Conditioner for Dry Damaged Hair All Hair](https://kenner-house.myshopify.com/products/keratin-curl-defining-cream-5-seconds-repair-hair-soft-smooth-shiny-deep-moisturize-conditioner-for-dry-damaged-hair-all-hair): SPECIFICATIONSBrand Name: YOUNGCOMECertification: CPNPChoice: yesGender: Female,UnisexHair Care Product: Keratin Curl Defining CreamHigh-concerned chemical: NoneIngredient: Aqua,Methylparaben,SodiumGlucuronate,Angelica Archangelica Root ExtracItem Type: ConditionerKeratin Curl Defining Cream: Hair Care CreamKeratin Hair Mask: Hair MaskModel Number: YH1373NET WT: 100mlNumber of Pieces: One UnitOrigin: Mainland ChinaQuantity: 1flavour: Original flavor
-  Updated: 2026-03-09T17:12:02Z
+  Updated: 2026-03-13T13:04:19Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S72f34b2c4a234105b5a322952137b9a20.webp?v=1771732570
   Price: $10.99 USD
 - [40ml Aftershave Care Essential Oil Soothes The Skin, Strawberry Flavored Daily Care Oil Moisturizes And Smooths Body Care](https://kenner-house.myshopify.com/products/40ml-aftershave-care-essential-oil-soothes-the-skin-strawberry-flavored-daily-care-oil-moisturizes-and-smooths-body-care): SPECIFICATIONSBrand Name: ouhoeChoice: yesDate of Manufacture: NEWFeature: Moisturizing,NourishingHigh-concerned chemical: NoneItem Type: CreamNET WT: 40mlNumber of Pieces: One UnitOrigin: Mainland ChinaSPEC: <100gShelf Life: 3YearsUse: BODY
-  Updated: 2026-03-09T17:12:03Z
+  Updated: 2026-03-13T13:04:19Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S2bf13b0aafb1444387a87d88652b8b2aj.webp?v=1771732571
   Price: $8.99 USD
 - [Turmeric Brightening Skincare Set Turmeric Cream & Facial Cleanser Reduces Dullness Moisturizing Soothing Anti-Wrinkle Skin Care](https://kenner-house.myshopify.com/products/turmeric-brightening-skincare-set-turmeric-cream-facial-cleanser-reduces-dullness-moisturizing-soothing-anti-wrinkle-skin-care): SPECIFICATIONSBrand Name: HoygiCertification: CPNPChoice: yesCountry/Region of Manufacture: China MainlandDate of Manufacture: 2025/12/1Feature: MoisturizingFeature 1: Brightening Facial CleanserFeature 2: Anti-DullnessFeature 3: Makes Skin Look More YouthfulFeature 4: Smooth FirmFeature 5: Face Care CosmeticsFeature 6: Ensures Smooth Skin TextureFeature 7: Brightening The Face And Easy To SpreadFeature 8: Daily Skin Care LotionGender: UnisexHigh-concerned chemical: NoneIngredient: Arginine, turmeric extractItem Type: CreamManufacturer: HoygiModel Number: Turmeric Moisturizing Facial LotionNET WT: 30g/30g/50gOrigin: Mainland ChinaUse: Face
-  Updated: 2026-03-09T17:12:03Z
+  Updated: 2026-03-13T13:04:20Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3455,21 +3455,21 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3ed20e84641347d1b060c7913e69ce1fM.webp?v=1771732571
     Price: $6.99 USD
 - [CeraVe Moisturizing Cream 85g Body Cream with Hyaluronic Acid and Ceramidesand Face Moisturizer for Dry Skin Oil-Free](https://kenner-house.myshopify.com/products/cerave-moisturizing-cream-85g-body-cream-with-hyaluronic-acid-and-ceramidesand-face-moisturizer-for-dry-skin-oil-free): SPECIFICATIONSBrand Name: CeraVeCertification: CPNPChoice: yesFeature: MoisturizingGender: Unisex,UnisexHigh-concerned chemical: NoneItem Type: CreamNumber of Pieces: One UnitOrigin: ES(Origin)Use: Face
-  Updated: 2026-03-09T17:12:03Z
+  Updated: 2026-03-13T13:04:20Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S2907d6396e2b43f7a430fff34a1ab3a8J.webp?v=1771732571
   Price: $49.99 USD
 - [QIBEST Lip Balm Makeup Sets Moisturizing Colorless Lipstick Long Lasting Lipstick Nourishing Daily Care Lip Balm Beauty Cosmetic](https://kenner-house.myshopify.com/products/qibest-lip-balm-makeup-sets-moisturizing-colorless-lipstick-long-lasting-lipstick-nourishing-daily-care-lip-balm-beauty-cosmetic): SPECIFICATIONSBrand Name: QiBestChoice: yesDate of Manufacture: NewDistributor/Importer: Lip Makeup SetHigh-concerned chemical: NoneIngredient: Lip stainManufacturer: Lip Balm SetModel Number: Q2575NET WT: 3.3g*4Origin: Mainland ChinaQuantity: 4pcs/setsShelf Life: 3 YearsType: Makeup Set
-  Updated: 2026-03-09T17:12:03Z
+  Updated: 2026-03-13T13:04:21Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8d46c81a0b514e23bb39a0b94e9840a5w.webp?v=1771732572
   Price: $6.99 USD
 - [Crude Shea Butter Cream for Extremely Dry Skin Deep Moisturizing Nourishing Multi Purpose Skin Care Face Hand Body Cream 120g](https://kenner-house.myshopify.com/products/crude-shea-butter-cream-for-extremely-dry-skin-deep-moisturizing-nourishing-multi-purpose-skin-care-face-hand-body-cream-120g): SPECIFICATIONSBrand Name: WOODSLEEPChoice: yesCountry/Region of Manufacture: China MainlandDate of Manufacture: NewFeature: MoisturizingFragrance: Smoothing SkinGender: UnisexHigh-concerned chemical: NoneIngredient: Natural PlantsItem Type: CreamManufacturer: WOODSLEEPModel Number: Nourishing Dry SkinNET WT: 120Number of Pieces: ComboOrigin: Mainland ChinaSPEC: 100-500GShelf Life: 3 yearsUse: BODY
-  Updated: 2026-03-09T17:12:03Z
+  Updated: 2026-03-13T13:04:21Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3483,7 +3483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S286e6c490deb4b0c9f77d55887bfa0cdf.webp?v=1771732573
     Price: $20.99 USD
 - [Body Scrub Cream Exfoliating Deep Cleansing Shea  Moisturizing Deep Cleansing Turmeric Milk Rose Gentle Tender  Smooth Skin Care](https://kenner-house.myshopify.com/products/body-scrub-cream-exfoliating-deep-cleansing-shea-moisturizing-deep-cleansing-turmeric-milk-rose-gentle-tender-smooth-skin-care): SPECIFICATIONSBrand Name: NONECertificate Number: 2023008316Choice: yesCountry/Region of Manufacture: China MainlandFeature: Exfoliating Deep CleansingGender: UnisexHigh-concerned chemical: NoneItem Type: CreamModel Number: Body Scrub CreamNET WT: 350gNumber of Pieces: One UnitOrigin: Mainland ChinaShelf Life: 3 YearsUse: Face
-  Updated: 2026-03-09T17:12:04Z
+  Updated: 2026-03-13T13:04:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3505,14 +3505,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S99cd838d3d0b44caab5b6d29f8f1d638F.webp?v=1771732573
     Price: $18.99 USD
 - [Beauty Device for Facial Massage, Facial Penetration Device, Neck Care Device, Household Use, Anti-Wrinkle for Neck, Beauty Device](https://kenner-house.myshopify.com/products/beauty-device-for-facial-massage-facial-penetration-device-neck-care-device-household-use-anti-wrinkle-for-neck-beauty-device): SPECIFICATIONSBrand Name: NONEChoice: yesElectronic: YesHand Instrument: YesIs Batteries Included: NoItem Type: Massage & RelaxationMaterial: ABSOrigin: Mainland ChinaPower Supply: Direct Current
-  Updated: 2026-03-09T17:12:04Z
+  Updated: 2026-03-13T13:04:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S1c3e56137d5849ea9e37def82632508b5.webp?v=1771732574
   Price: $8.99 USD
 - [Beauty BB Cream Clear Cover Natural Make Up Nourish Moisturizes Protection Professional Skin Care 2 Colors Choose 20g](https://kenner-house.myshopify.com/products/beauty-bb-cream-clear-cover-natural-make-up-nourish-moisturizes-protection-professional-skin-care-2-colors-choose-20g): SPECIFICATIONSBenefit: Pores,BRIGHTEN,WhiteningBrand Name: NONECertificate Number: 2023489942Certification: CPNPChoice: yesCountry/Region of Manufacture: China MainlandFormulation: CreamHigh-concerned chemical: NoneNET WT: 20gNumber of Pieces: One UnitOrigin: Mainland ChinaShelf Life: 3 yearsSize: Full SizeSkin Type: All Skin TypesSunblock: YesType: BB & CC CreamsWeight: 0.131
-  Updated: 2026-03-09T17:12:04Z
+  Updated: 2026-03-13T13:04:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3526,7 +3526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S5d33e5084b0d4ae3a1c02c2d34e90f6bM.webp?v=1771732576
     Price: $12.99 USD
 - [Hand Made Turmeric Soap Body Cleaning Lightening Dark Underarm Leg Body Cleansers Brightening Face Soap Tender Skin Care Beauty](https://kenner-house.myshopify.com/products/hand-made-turmeric-soap-body-cleaning-lightening-dark-underarm-leg-body-cleansers-brightening-face-soap-tender-skin-care-beauty): SPECIFICATIONSBody cleansing: Even Skin ToneBrand Name: eelhoeCertification: CPNPChoice: yesClean the skin: ExfoliatorCleansing soap: Adjust skin conditionCountry/Region of Manufacture: China MainlandDate of Manufacture: 2024Feature: Face CleaningGender: FemaleHandmade Soap: Skin rejuvenation and beautyHigh-concerned chemical: NoneIngredient: turmericItem Type: CleanserNET WT: 100gNumber of Pieces: One UnitOil Control: BeautyOrigin: Mainland ChinaShelf Life: 3yearsType: Facial SoapVoltage: None
-  Updated: 2026-03-09T17:12:04Z
+  Updated: 2026-03-13T13:04:23Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3544,7 +3544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S941050b0969244c8a55e351ca878544cn.webp?v=1771732576
     Price: $8.99 USD
 - [CeraVe Hydrating Facial Cleanser | Moisturizing Face Wash For Dry Skin | Hyaluronic Acid + Ceramides + Glycerin | Hydrating Clea](https://kenner-house.myshopify.com/products/cerave-hydrating-facial-cleanser-moisturizing-face-wash-for-dry-skin-hyaluronic-acid-ceramides-glycerin-hydrating-clea): SPECIFICATIONSBrand Name: CeraVeCertification: CPNPChoice: yesGender: UnisexHigh-concerned chemical: NoneItem Type: CleanserNumber of Pieces: One UnitOrigin: Mainland ChinaType: Facial Cleanser
-  Updated: 2026-03-09T17:12:04Z
+  Updated: 2026-03-13T13:04:23Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3558,14 +3558,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S1e1595f575d84901b679ea17c27b81dd4.webp?v=1771732577
     Price: $78.99 USD
 - [Castor Oil 5-in-1 Chebe Butter Salon-Grade Care Strengthens Hair, Prevents Hair Breakage, Deeply Moisturizes and Locks in Moisture, Specially Designed for Women's Daily Hair Care, for Daily Home Use](https://kenner-house.myshopify.com/products/castor-oil-5-in-1-chebe-butter-salon-grade-care-strengthens-hair-prevents-hair-breakage-deeply-moisturizes-and-locks-in-moisture-specially-designed-for-womens-daily-hair-care-for-daily-home-use): SPECIFICATIONSBrand Name: AdglamfulCertification: CPNPChoice: yesHigh-concerned chemical: NoneItem Type: styling creamNET WT: 100gNumber of Pieces: One UnitOrigin: Mainland ChinaQuantity: 1000
-  Updated: 2026-03-09T17:12:05Z
+  Updated: 2026-03-13T13:04:23Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sbcc01730ac7b44f2a33613c75be1c137O.webp?v=1771732578
   Price: $12.99 USD
 - [Butter Bronzing Cream Natural Contouring Makeup Highlighting Palette Silky Texture Long Lasting Face Natural Beauty Sculpting](https://kenner-house.myshopify.com/products/butter-bronzing-cream-natural-contouring-makeup-highlighting-palette-silky-texture-long-lasting-face-natural-beauty-sculpting): SPECIFICATIONSBrand Name: NONEChoice: yesFormulation: CreamHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-09T17:12:05Z
+  Updated: 2026-03-13T13:04:24Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3587,7 +3587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa93e2b3d2504414ebe980edfebb3c9f1p.webp?v=1771732579
     Price: $12.99 USD
 - [Beef Tallow Face Cream Organic Raw Honey Balm Skin Care Brightening Grass-Fed Natural Whipped Body Moisturizer Hydrating Lotion](https://kenner-house.myshopify.com/products/beef-tallow-face-cream-organic-raw-honey-balm-skin-care-brightening-grass-fed-natural-whipped-body-moisturizer-hydrating-lotion): SPECIFICATIONSBrand: JaysuingBrand Name: NONECertificate Number: Deep Nourishing Tallow BalmChoice: yesCountry/Region of Manufacture: China MainlandDate of Manufacture: Grass Fed Tallow Face MoisturizerDistributor/Importer: Grass Fed Beef Tallow with Raw HoneyFeature: MoisturizingFeature 1: Grass Fed Whipped Organic MoisturizerFeature 2: Beef Tallow for SkinFeature 3: Tallow and Honey CreamFeature 4: Natural Tallow Face MoisturizerFeature 5: Hydrating Beef Tallow BalmFeature 6: Beef Tallow Honey CreamGender: UnisexHigh-concerned chemical: NoneIngredient: Whipped Tallow CreamItem Type: CreamManufacturer: Lifting Firming Tighten creamModel Number: Beef Tallow Honey Balm for SkinNET WT: 100GNumber of Pieces: One UnitOrigin: Mainland ChinaShelf Life: 3 YEARSUse: Face
-  Updated: 2026-03-09T17:12:05Z
+  Updated: 2026-03-13T13:04:25Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3605,7 +3605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S1dad3dbd9ac24b6b8f80484835b916e9I.webp?v=1771732579
     Price: $8.99 USD
 - [BIOAQUA Hyaluronic Acid Skin Care Sets Moisturizing Face Cream Anti-Aging Anti Dark Circles Eye Cream Travel Size Skin Care](https://kenner-house.myshopify.com/products/bioaqua-hyaluronic-acid-skin-care-sets-moisturizing-face-cream-anti-aging-anti-dark-circles-eye-cream-travel-size-skin-care): SPECIFICATIONSChoice: yesFeature: Moisturizing,Oil-control,Anti-Aging,WhiteningGender: FemaleHigh-concerned chemical: NoneNumber of Pieces: ComboOrigin: Mainland ChinaUse: Face,Eye
-  Updated: 2026-03-09T17:12:05Z
+  Updated: 2026-03-13T13:04:25Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3623,28 +3623,28 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sdec1224226954856b715c2bf16b5a930P.webp?v=1771732580
     Price: $16.99 USD
 - [Biotin scalp care essence spray, biotin-driven formula, nourishes the scalp, moisturizes and soothes the scalp.](https://kenner-house.myshopify.com/products/biotin-scalp-care-essence-spray-biotin-driven-formula-nourishes-the-scalp-moisturizes-and-soothes-the-scalp): SPECIFICATIONSBrand Name: NONECertification: CPNPChoice: yesGender: UnisexHigh-concerned chemical: NoneItem Type: ConditionerModel Number: YU-01-19NET WT: 30gNumber of Pieces: One UnitOrigin: Mainland ChinaQuantity: 1
-  Updated: 2026-03-09T17:12:05Z
+  Updated: 2026-03-13T13:04:26Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3b83143f22d340c2981c7e3f24f5e9e3Y.webp?v=1771732580
   Price: $6.99 USD
 - [Kiss Beauty Avocado Cleansing Cream - 3-in-1 Eye, Lip, and Face Cleanser, Gentle and Thorough,Take off all your makeup](https://kenner-house.myshopify.com/products/kiss-beauty-avocado-cleansing-cream-3-in-1-eye-lip-and-face-cleanser-gentle-and-thorough-take-off-all-your-makeup): SPECIFICATIONSBrand Name: GECOMOChoice: yesHigh-concerned chemical: NoneNumber of Pieces: One UnitOrigin: Mainland ChinaType: Makeup Remover
-  Updated: 2026-03-09T17:12:06Z
+  Updated: 2026-03-13T13:04:26Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S02970586148343fcb03d5959ada5fd39h.webp?v=1771732580
   Price: $12.99 USD
 - [Bee Venom Care Cream - Suitable for All Light Brown Skin Moisturizing Cream for Body and Face - Design of Natural Bee Venom Extract and Natural Ingredients](https://kenner-house.myshopify.com/products/bee-venom-care-cream-suitable-for-all-light-brown-skin-moisturizing-cream-for-body-and-face-design-of-natural-bee-venom-extract-and-natural-ingredients): SPECIFICATIONSBrand Name: Water Ice LevinCertification: CPNPChoice: yesCountry/Region of Manufacture: China MainlandFeature: Moisturizing,Acne removal,Whitening,NourishingGender: UnisexHigh-concerned chemical: NoneIngredient: Bee Venom, Arnica Montana, GlycerinItem Type: CreamManufacturer: Guangzhou Qiaoyan Biotechnology Co., LtdModel Number: Wa-10-2726NET WT: 50gNumber of Pieces: One UnitOrigin: Mainland ChinaSPEC: <100gShelf Life: 3 YearssUse: BODY
-  Updated: 2026-03-09T17:12:06Z
+  Updated: 2026-03-13T13:04:26Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S06115c4220dd458f80cf69e85876073fx.webp?v=1771732581
   Price: $6.99 USD
 - [BEAUTY GLAZED 4Color Lipgloss Lip Oil Teens Moisturizing Lipstick Lip Balm High Shine And Lip Gloss Long-Lasting Dry Lip Care](https://kenner-house.myshopify.com/products/beauty-glazed-4color-lipgloss-lip-oil-teens-moisturizing-lipstick-lip-balm-high-shine-and-lip-gloss-long-lasting-dry-lip-care): SPECIFICATIONSBenefit: Moisturizer,Long-lasting,Hydrating,WaterproofBrand Name: beauty glazedChoice: yesCountry/Region of Manufacture: China MainlandDate of Manufacture: See packagingHigh-concerned chemical: NoneIngredient: See packagingManufacturer: See packagingModel Number: B217NET WT: 15MLNumber of Pieces: One UnitOrigin: Mainland ChinaQuantity: 1Shelf Life: See packagingSize: Full SizeType: Lip Gloss
-  Updated: 2026-03-09T17:12:06Z
+  Updated: 2026-03-13T13:04:27Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3666,21 +3666,21 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sea3413be75734cfe837ffe9b923fa594w.webp?v=1771732582
     Price: $4.99 USD
 - [30g Beard Balm Conditioner Oil Improves Beard Softness Manageability Hair Growth  Men Beard Wax Beauty Care](https://kenner-house.myshopify.com/products/30g-beard-balm-conditioner-oil-improves-beard-softness-manageability-hair-growth--men-beard-wax-beauty-care): SPECIFICATIONSBrand Name: LanthomeChoice: yesGender: MaleHigh-concerned chemical: NoneIngredient: NaturalModel Number: Growth Conditioner Oil,Growth Conditioner OilNET WT: 30gNumber of Pieces: One UnitOrigin: Mainland ChinaQuantity: 1semi_Choice: yes
-  Updated: 2026-03-09T17:12:06Z
+  Updated: 2026-03-13T13:04:27Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa92d602e56914711bef4acdfac2b43bcv.webp?v=1771732582
   Price: $10.99 USD
 - [1pc,Gigi Gift,Gigi Coffee Mug, Birthday Gift for Gigi, Mother's Day, Holiday Gift for Gigi, Granddaughter, Grandchild, Unique Gigi Gift, 14oz](https://kenner-house.myshopify.com/products/1pc-gigi-gift-gigi-coffee-mug-birthday-gift-for-gigi-mothers-day-holiday-gift-for-gigi-granddaughter-grandchild-unique-gigi-gift-14oz): SPECIFICATIONSItem ID: CR55393Major Material: 304 Stainless SteelOrigin: Hunan,ChinaPower Mode: UnchargedSpecial Features: Shatterproof;InsulatedSurface Type: Glossy Finish
-  Updated: 2026-03-09T17:12:06Z
+  Updated: 2026-03-13T15:54:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/728a3833bfb38865b9c39a1dfa687b8a_iA57vASKP05dv.jpg?v=1771782237
   Price: $16.27 USD
 - [304 Stainless Steel Coffee Cup, Portable Simple Water Cup, Suitable For Outdoor Camping Travel](https://kenner-house.myshopify.com/products/304-stainless-steel-coffee-cup-portable-simple-water-cup-suitable-for-outdoor-camping-travel): SPECIFICATIONSItem ID: NL132983Liner Material: 304 Stainless SteelMajor Material: 304 Stainless Steel
-  Updated: 2026-03-09T17:12:07Z
+  Updated: 2026-03-13T15:53:44Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3702,7 +3702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/7adffb50-7654-4308-9d3b-7d00a423b8cf.jpg?v=1771782237
     Price: $4.99 USD
 - [Chic Coffee & Donut Print Pajama Set - Comfy Short Sleeve & Stretch Waist Sleepwear for Women](https://kenner-house.myshopify.com/products/chic-coffee-donut-print-pajama-set-comfy-short-sleeve-stretch-waist-sleepwear-for-women): SPECIFICATIONSApplicable People: AdultCollar Style: Crew NeckComposition: 95% Polyester;5% ElastaneFabric Elasticity: Micro ElasticityItem ID: XE82809Material: PolyesterOperation Instruction: Machine wash or professional dry cleanPajama Type: Flame resistantPattern: PrintPrinting Type: Positioning PrintingSeason: AllSheer: NoStyle: CasualType: Pajama SetsWeaving Method: Knit Fabric
-  Updated: 2026-03-09T17:12:07Z
+  Updated: 2026-03-13T15:51:31Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3724,14 +3724,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/8c2fadd62f6e13db46aa5c98b6e36015_34413f48496d.jpg?v=1771782237
     Price: $14.99 USD
 - [Nordic Style Metal Coffee Pod Holder, Elegant Home Snack and Candy Storage, Coffee Shop and Bar Display Rack](https://kenner-house.myshopify.com/products/nordic-style-metal-coffee-pod-holder-elegant-home-snack-and-candy-storage-coffee-shop-and-bar-display-rack): SPECIFICATIONSItem ID: XR120356Material: Metal
-  Updated: 2026-03-09T17:12:07Z
+  Updated: 2026-03-13T13:04:28Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/1714383598091-b5cc2513c46c47e38260fa3e643748be-goods.jpg?v=1771782237
   Price: $10.99 USD
 - [Coffee & Dog Print T-shirt, Short Sleeve Crew Neck Casual Top For Summer & Spring, Women's Clothing](https://kenner-house.myshopify.com/products/coffee-dog-print-t-shirt-short-sleeve-crew-neck-casual-top-for-summer-spring-womens-clothing): SPECIFICATIONSCollar Style: Crew NeckComposition: 76% Polyester;20% Rayon;4% ElastaneDetails: AppliqueFabric Elasticity: Micro ElasticityItem ID: KR97978Length: RegularMaterial: PolyesterOperation Instruction: Machine wash, do not dry cleanPattern: AlphabetsPrinting Type: Positioning PrintingSeason: SummerSheer: NoStyle: Y2KWeaving Method: Knit Fabric
-  Updated: 2026-03-09T17:12:07Z
+  Updated: 2026-03-13T15:56:45Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3777,21 +3777,21 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/288d28b99708404df793a7a30498fdf9_384a1dfb8a5b.jpg?v=1771782238
     Price: $14.99 USD
 - [1pc Rustic Wooden Coffee Bar Storage Box, Vintage Countryside Style with Handles, Classic Kitchen & Living Room Organizer, Shelf Baskets](https://kenner-house.myshopify.com/products/1pc-rustic-wooden-coffee-bar-storage-box-vintage-countryside-style-with-handles-classic-kitchen-living-room-organizer-shelf-baskets): SPECIFICATIONSFeature: Other FeaturesItem ID: GX130928Material: WoodRecommended Usage: StorageStyle: Classic
-  Updated: 2026-03-09T17:12:07Z
+  Updated: 2026-03-13T13:04:32Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/f86451ca-b9ac-4042-a4af-d28b8f632f47.jpg?v=1771782238
   Price: $24.99 USD
 - [Coffee Pattern 2 Slice Toaster Cover - Bread Toaster Oven Dust Proof Cover - Kitchen Small Appliance Cover - Broiler Appliance Organizer Bag - Anti Fingerprint Protection - Best Gifts For Women](https://kenner-house.myshopify.com/products/coffee-pattern-2-slice-toaster-cover-bread-toaster-oven-dust-proof-cover-kitchen-small-appliance-cover-broiler-appliance-organizer-bag-anti-fingerprint-protection-best-gifts-for-women): SPECIFICATIONSBattery Properties: Without BatteryItem ID: QC94286Material: Polyester
-  Updated: 2026-03-09T17:12:08Z
+  Updated: 2026-03-13T13:04:32Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/630c65db-b2cb-437a-8f28-88fafc874120.jpg?v=1771782239
   Price: $14.99 USD
 - [Casual Coffee & Cake & Letter Print Pajama Set, Short Sleeve Round Neck Top & Elastic Shorts, Women's Sleepwear](https://kenner-house.myshopify.com/products/casual-coffee-cake-letter-print-pajama-set-short-sleeve-round-neck-top-elastic-shorts-womens-sleepwear): SPECIFICATIONSApplicable People: AdultCollar Style: Crew NeckComposition: 95% Polyester;5% ElastaneFabric Elasticity: Micro ElasticityItem ID: WW116527Material: PolyesterOperation Instruction: Machine wash, do not dry cleanPattern: CartoonPlacket Type: PulloversPrinting Type: Random PrintingSeason: AllSheer: NoStyle: CasualType: Pajama SetsWeaving Method: Knit Fabric
-  Updated: 2026-03-09T17:12:08Z
+  Updated: 2026-03-13T15:54:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3817,14 +3817,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/980c9e137204ceae0d29351801ce0935_88c848493e58.jpg?v=1771782240
     Price: $8.99 USD
 - [1pc Grammy Gifts Birthday Gifts for Grandma, Grammy, Nana, Mimi, Gigi Cool Gifts for Grammy Valentine's Day Gifts for Grammy - Best Grandma Gifts From Granddaughter, Grandson 14oz Grammy Coffee Mug](https://kenner-house.myshopify.com/products/1pc-grammy-gifts-birthday-gifts-for-grandma-grammy-nana-mimi-gigi-cool-gifts-for-grammy-valentines-day-gifts-for-grammy-best-grandma-gifts-from-granddaughter-grandson-14oz-grammy-coffee-mug): SPECIFICATIONSItem ID: CW54929Material: MetalOperation Instruction: Machine WashOrigin: Hunan,ChinaPower Supply: Use Without ElectricityRecommended Usage: MultipurposeReusability: Reusable
-  Updated: 2026-03-09T17:12:08Z
+  Updated: 2026-03-13T13:04:33Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/3e6f5d5fae72f08f5d8884a847c877dd_zxqbiH2pQ8q1M.jpg?v=1771782239
   Price: $28.99 USD
 - [1pc 11oz Large Funny Ceramic Coffee Mug - Unique Humorous Design, Durable, Dishwasher & Microwave Safe - Perfect Gift for Grandma, Friends, Family on Birthday, Anniversary, Holidays, Parties](https://kenner-house.myshopify.com/products/1pc-11oz-large-funny-ceramic-coffee-mug-unique-humorous-design-durable-dishwasher-microwave-safe-perfect-gift-for-grandma-friends-family-on-birthday-anniversary-holidays-parties): SPECIFICATIONSAccessory: no componentsAssembly Required: NoItem ID: EV84781Material: Ceramic
-  Updated: 2026-03-09T17:12:08Z
+  Updated: 2026-03-13T15:54:43Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3838,7 +3838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/ff9298e4-ade9-469b-9a1b-4ee763800a79.jpg?v=1771782240
     Price: $18.99 USD
 - [1PC Coffee Machine Water Absorbing And Draining Mat, Counter Tableware Drying Mat, Diatom Mud Kitchen Placemat, Coffee Printed Tableware Drying Mat, Washable Non-slip Draining Mat, Suitable For Kitchen Coffee Bar](https://kenner-house.myshopify.com/products/1pc-coffee-machine-water-absorbing-and-draining-mat-counter-tableware-drying-mat-diatom-mud-kitchen-placemat-coffee-printed-tableware-drying-mat-washable-non-slip-draining-mat-suitable-for-kitchen-coffee-bar): SPECIFICATIONSCover Material: 100% Diatom MudItem ID: LY171468Material: Diatom Mud
-  Updated: 2026-03-09T17:12:08Z
+  Updated: 2026-03-13T15:53:31Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3852,7 +3852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/8e078a0c-5aad-4f6f-af41-7fcd5025266e.jpg?v=1771782240
     Price: $12.99 USD
 - [BOOKS COFFEE PLANTS women's comfit t-shirt](https://kenner-house.myshopify.com/products/books-coffee-plants-womens-comfit-t-shirt): SPECIFICATIONSCollar Style: Crew NeckComposition: 100% PolyesterFabric Elasticity: Micro ElasticityItem ID: GE168802Length: RegularMaterial: PolyesterOperation Instruction: Machine wash, do not dry cleanOrigin: Guangdong,ChinaPattern: Geometric-patternPrinting Type: Positioning PrintingSeason: AllSheer: NoStyle: CasualWeaving Method: Knit Fabric
-  Updated: 2026-03-09T17:12:09Z
+  Updated: 2026-03-13T15:51:52Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3898,7 +3898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/f169a51f5fd3efc96a1d3679c5dedbad_2ab1801f9062.jpg?v=1771782243
     Price: $26.99 USD
 - [Great Grandma Ceramic Coffee Mug 11oz - Inspirational Quote, Perfect Gift for Grandmother's Birthday, Office Decor, Suitable for Family Friends Colleagues Teachers Students](https://kenner-house.myshopify.com/products/great-grandma-ceramic-coffee-mug-11oz-inspirational-quote-perfect-gift-for-grandmothers-birthday-office-decor-suitable-for-family-friends-colleagues-teachers-students): SPECIFICATIONSAccessory: no componentsAssembly Required: NoItem ID: JB224094Material: Ceramic
-  Updated: 2026-03-09T17:12:09Z
+  Updated: 2026-03-13T15:54:32Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3912,7 +3912,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/a893828f-3e81-4751-8c5e-1fd26a26c31e.jpg?v=1771782242
     Price: $12.99 USD
 - [Women's Homewear Casual Coffee Print Cute Sweet Short Sleeve Shorts Pants Three-pcs Pajama Set](https://kenner-house.myshopify.com/products/womens-homewear-casual-coffee-print-cute-sweet-short-sleeve-shorts-pants-three-pcs-pajama-set): SPECIFICATIONSApplicable People: AdultCollar Style: Crew NeckComposition: 95% Polyester;5% ElastaneDetails: PatternedFabric Elasticity: Micro ElasticityItem ID: DR187914Material: PolyesterOperation Instruction: Machine wash or professional dry cleanPattern: AlphabetsPrinting Type: Positioning PrintingSeason: All-seasonSheer: NoStyle: CasualType: Pajama SetsWeaving Method: Knit Fabric
-  Updated: 2026-03-09T17:12:09Z
+  Updated: 2026-03-13T15:53:06Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3942,14 +3942,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/51e220d7d71c1085baa9545410207b5e_a0624437306c.jpg?v=1771782243
     Price: $16.99 USD
 - [20 Bar Espresso Machine, Stainless Steel Espresso Coffee Machine For Cappuccino, Latte, Automatic Espresso Machine With 1.5L Removable Water Tank, Powerful Steam Wand, Built-In Milk Frother, One-Touch Single Or Double Shot](https://kenner-house.myshopify.com/products/20-bar-espresso-machine-stainless-steel-espresso-coffee-machine-for-cappuccino-latte-automatic-espresso-machine-with-1-5l-removable-water-tank-powerful-steam-wand-built-in-milk-frother-one-touch-single-or-double-shot): SPECIFICATIONSBrand: BluebowCapacity: 1-10LEnergy Efficiency Rating: No Energy Efficiency RatingExterior Finish: MetalFeature: Milk FrotherFilter Type: ReusableHuman Interface Input: ButtonItem ID: GY227009Material: Stainless SteelOperating Voltage: 120VOperation Mode: Fully AutomaticPower Supply: Plug PoweredRated Power(W): 1050Shape: SquareStyle: Modern
-  Updated: 2026-03-09T17:12:09Z
+  Updated: 2026-03-13T13:04:38Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/9787fa81-40da-4279-bc7d-89702756a43e.jpg?v=1771782243
   Price: $140.99 USD
 - [Coffee Print Hoodie, Drawstring Casual Hooded Sweatshirt For Fall & Spring, Women's Clothing](https://kenner-house.myshopify.com/products/coffee-print-hoodie-drawstring-casual-hooded-sweatshirt-for-fall-spring-womens-clothing): SPECIFICATIONSCollar Style: HoodedComposition: 100% PolyesterDetails: PocketFabric Elasticity: Micro ElasticityItem ID: JC152151Material: PolyesterOperation Instruction: Machine wash, do not dry cleanPattern: AlphabetsPrinting Type: Positioning PrintingSeason: Fall/WinterSheer: NoStyle: CasualWeaving Method: Knit Fabric
-  Updated: 2026-03-09T17:12:09Z
+  Updated: 2026-03-13T15:53:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4135,21 +4135,21 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/935207cc2b7d584586c784c3727d75e5_5fb5f01f19b1.jpg?v=1771782244
     Price: $26.99 USD
 - [1pc, This coffee cup with a lid and straw is the perfect gift for book lovers. This 16oz iced coffee cup is great for Christmas, birthdays, or as a gift for the avid reader. Suitable for all book enthusiasts.Thanksgiving gift](https://kenner-house.myshopify.com/products/1pc-this-coffee-cup-with-a-lid-and-straw-is-the-perfect-gift-for-book-lovers-this-16oz-iced-coffee-cup-is-great-for-christmas-birthdays-or-as-a-gift-for-the-avid-reader-suitable-for-all-book-enthusiasts-thanksgiving-gift): SPECIFICATIONSAccessory: LidItem ID: LV202765Material Features: DegradableMaterial Type Free: Lead FreeOperation Instruction: Hand wash onlyRecommended Age: AdultRecommended Scenario: Cold-beverageRecommended Usage: TravelReusability: ReusableShape: RoundSpecial Features: Leak ProofTheme: Christmas
-  Updated: 2026-03-09T17:12:10Z
+  Updated: 2026-03-13T13:04:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/1721044495672-420b7781cdd749a58ed3deb4e4fa1322-goods.jpg?v=1771782245
   Price: $16.99 USD
 - [Personalized 20 Oz Tumbler - "Just A Girl Who Loves Coffee" Funny Print, Custom Name Or Text, Durable Metal Travel Mug With Lid, Bpa-Free, Hand Wash Only, Ideal For Birthday, Christmas, Halloween, Easter, Thanksgiving Gifts F](https://kenner-house.myshopify.com/products/personalized-20-oz-tumbler-just-a-girl-who-loves-coffee-funny-print-custom-name-or-text-durable-metal-travel-mug-with-lid-bpa-free-hand-wash-only-ideal-for-birthday-christmas-halloween-easter-thanksgiving-gifts-f): SPECIFICATIONSAccessory: LidHolidays: Christmas;Halloween;Easter;Hanukkah;ThanksgivingItem ID: VW209607Material: MetalMaterial Type Free: Bisphenol a freeOperation Instruction: Hand wash onlyPower Supply: Use Without ElectricityRecommended Age: AdultRecommended Usage: MultipurposeReusability: ReusableShape: OvalSpecial Features: Break resistant
-  Updated: 2026-03-09T17:12:10Z
+  Updated: 2026-03-13T13:04:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/628958f9-cc8f-42c2-9118-eb79ed986c0d.jpg?v=1771782244
   Price: $10.99 USD
 - [Plus Size Coffee Print Sweatshirt, Casual Long Sleeve Crew Neck Pullover Sweatshirt, Women's Plus Size Clothing](https://kenner-house.myshopify.com/products/plus-size-coffee-print-sweatshirt-casual-long-sleeve-crew-neck-pullover-sweatshirt-womens-plus-size-clothing): SPECIFICATIONSCollar Style: Crew NeckComposition: 100% PolyesterFabric: Slight StretchItem ID: AC148219Material: PolyesterOperation Instruction: Machine wash, do not dry cleanPattern: AlphabetsPrinting Type: Positioning PrintingSeason: Fall/WinterSheer: NoStyle: CasualType: PulloversWeaving Method: Knit Fabric
-  Updated: 2026-03-09T17:12:10Z
+  Updated: 2026-03-13T15:53:45Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4295,7 +4295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/61d5406b9557dfc2508c8055246b3ab6_4c0f5a129cf3.jpg?v=1771782246
     Price: $24.99 USD
 - [2025 Baby Girls Clothes Autumn Spring Newborn Infant Outfit Cotton Bodysuit Top And Bottom Pants Kids Toddler Clothing Set 6-24M](https://kenner-house.myshopify.com/products/2025-baby-girls-clothes-autumn-spring-newborn-infant-outfit-cotton-bodysuit-top-and-bottom-pants-kids-toddler-clothing-set-6-24m): SPECIFICATIONSAge Range: 1-3YBrand Name: kekelovebabyCN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: KnitDepartment Name: babyFabric Type: WorstedFit: True to SizeGender: girlsHigh-concerned chemical: NoneInfant age: 4-6 months 7-9 months 10-12 months 13-18 months 19-24 monthsItem Type: setsMaterial: COTTONMaterial Composition: cottonModel Number: baby setsOrigin: Mainland ChinaOuterwear Type: vestPattern Type: FloralRope Type: NoneSeason: all seasonsSleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: regularStyle: Fashionsemi_Choice: yes
-  Updated: 2026-03-09T17:12:10Z
+  Updated: 2026-03-13T13:05:06Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4381,7 +4381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S30fa95ae745c42769be1427c926cef9er.webp?v=1771862603
     Price: $30.99 USD
 - [Toddlers Dresses For Girls Children's Dress Summer Cotton Kids School Costumes Short Sleeve Baby Vestidos 4 5 6 8 9 10 12 Years](https://kenner-house.myshopify.com/products/toddlers-dresses-for-girls-childrens-dress-summer-cotton-kids-school-costumes-short-sleeve-baby-vestidos-4-5-6-8-9-10-12-years): SPECIFICATIONSAge Range: 7-13YBrand Name: DIDIOOBuilt-in Bra: NoCN: ZhejiangChildren clothes girl: Preppy Style Baby Girl Clothes new year's dresses 2022Children princess dress girl: Everything for Kids Clothing and Accessories Girls Clothes for TeensClothes child girl: children's clothing girlsClothes for teenagers: school uniform girlsClothing for girls: children dressesCollar: Turn-Down CollarCraft of Weaving: TattingDecoration: Criss-crossDepartment Name: ChildrenDress for girls: Dresses For Girls Children's Dress Toddlers ClothingDresses Length: Knee-LengthFit: True to SizeGender: girlsGirl clothing: Lace Baby Girls Clothes Baby clothes New year costumeGirl costume: costumes for girls 2025Guest wedding dresses: girls of 14 yearsHigh-concerned chemical: NoneKid girl dress: elegant dress for girlKids' dresses: Spring Autumn Baby Girls Clothes Dress for new yearMaterial: COTTON,POLYESTEROrigin: Mainland ChinaParty dresses: flower girl dressesPattern Type: PrintRope Type: NoneSeason: SummerSilhouette: A-LINESleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: Lantern SleeveStyle: Casualbaby girl clothes: Dress for young girlskids clothes girls: 4 5 6 7 8 9 10 11 12 13 14 Years Old Kids Clothes Girlsspanish dresses for children: Children princess dress girlsummer dress: floral dress
-  Updated: 2026-03-09T17:12:10Z
+  Updated: 2026-03-13T15:55:50Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4587,7 +4587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S918c1d5904664a3aa0c8d156bca07c0a4.webp?v=1771862607
     Price: $26.99 USD
 - [Fashion Baby Formal Clothes Set Blazer Jacket+Shirt+Vest+Bowtie+Pant 5PCS Infant Toddler Clothes Suit Party Baby Clothes 0-2Y](https://kenner-house.myshopify.com/products/fashion-baby-formal-clothes-set-blazer-jacket-shirt-vest-bowtie-pant-5pcs-infant-toddler-clothes-suit-party-baby-clothes-0-2y): SPECIFICATIONSAge Range: 4-6YBrand Name: Peachy BeatCN: JiangsuClosure Type: Single BreastedCollar: Turn-Down CollarCraft of Weaving: TattingDepartment Name: ChildrenFit: True to SizeGender: boysHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,POLYESTEROrigin: Mainland ChinaOuterwear Type: coatPattern Type: SolidRope Type: NoneRope length（0-99cm）: 0Season: all seasonsSleeve Length(cm): FullSleeve Style: regularStyle: FormalThickness: Standardage: 1-2 years old boy formal clothes set vest+pant+coat+bowtie+vestseason: autumn spring formal clothes suit party birthday for fashion baby boywhether full opening: Yes
-  Updated: 2026-03-09T17:12:11Z
+  Updated: 2026-03-13T15:52:29Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4673,7 +4673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Se74fa4320f6c4baf8cbde7883998dc14g.webp?v=1771862604
     Price: $58.99 USD
 - [Toddler Dress Summer New Sleeveless Sweet Girl Clothes Colored Polka Dot Bow With Ruffled Edges Baby Dresses](https://kenner-house.myshopify.com/products/toddler-dress-summer-new-sleeveless-sweet-girl-clothes-colored-polka-dot-bow-with-ruffled-edges-baby-dresses): SPECIFICATIONSAge Range: 1-3YBrand Name: NONEBuilt-in Bra: NoCN: ZhejiangChoice: yesCollar: O-neckCraft of Weaving: TattingDecoration: BowDepartment Name: ChildrenDresses Length: Knee-LengthFit: True to SizeGender: girlsHigh-concerned chemical: NoneMaterial: COTTON,POLYESTERModel Number: B476ZZOrigin: Mainland ChinaPattern Type: Polka DotRope Type: NoneRope length（0-99cm）: 0Season: SummerSilhouette: A-LINESleeve Length(cm): SleevelessStyle: CuteWhether with accessories: Ysize_info: {"sizeInfoList":[{"length":{"cm":"57","inch":"22.44"},"size":"6(9-12M)","vid":-1},{"length":{"cm":"60","inch":"23.62"},"size":"8(12-18M)","vid":-2},{"length":{"cm":"63","inch":"24.80"},"size":"10(18-24M)","vid":-3},{"length":{"cm":"66","inch":"25.98"},"size":"12(2-3Y)","vid":-4},{"length":{"cm":"69","inch":"27.17"},"size":"14(3-4Y)","vid":-5}]}
-  Updated: 2026-03-09T17:12:11Z
+  Updated: 2026-03-13T15:53:30Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4699,7 +4699,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3d02ac35d5d940319603ad678658dc3f7.webp?v=1771862603
     Price: $15.99 USD
 - [Winter Infant Girls Clothes Autumn Casual Long Sleeve Sweaters Pullovers+Leggings Toddler 2pcs Outfits Sets 0-1Y Toddler Costume](https://kenner-house.myshopify.com/products/winter-infant-girls-clothes-autumn-casual-long-sleeve-sweaters-pullovers-leggings-toddler-2pcs-outfits-sets-0-1y-toddler-costume): SPECIFICATIONSAge Range: 0-1YBrand Name: NONECN: FujianChoice: yesClosure Type: Single ButtonCollar: O-NeckCraft of Weaving: KnitDepartment Name: babyFabric Type: WorstedFit: True to SizeGender: girlsHigh-concerned chemical: NoneItem Type: setsMaterial: POLYESTERMaterial Composition: AcrylicModel Number: 82W3588Origin: Mainland ChinaOuterwear Type: coatPattern Type: SolidRope Type: NoneRope length（0-99cm）: 0Season: WinterSleeve Length(cm): FullSleeve Style: regularStyle: Casual
-  Updated: 2026-03-09T17:12:11Z
+  Updated: 2026-03-13T15:51:58Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4745,7 +4745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S530d5d74b3e640e8aea7a6d404e2d02c1.webp?v=1771862604
     Price: $39.99 USD
 - [Summer Toddler Baby Boy Girl Clothes Cute Dog Cotton T-Shirts Tops Newborn Infant Clothes](https://kenner-house.myshopify.com/products/summer-toddler-baby-boy-girl-clothes-cute-dog-cotton-t-shirts-tops-newborn-infant-clothes): SPECIFICATIONSAge Range: 1-3YBrand Name: DDAXMMCN: GuangdongClothing Length: regularCollar: O-NeckCraft of Weaving: KnitDepartment Name: ChildrenGender: UnisexHigh-concerned chemical: NoneItem Type: topsMaterial: COTTON,POLYESTEROrigin: Mainland ChinaPattern Type: CartoonSeason: all seasonsSleeve Length(cm): Short (4 - 16 Inch)Style: CuteTops Type: TEES
-  Updated: 2026-03-09T17:12:11Z
+  Updated: 2026-03-13T15:57:50Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4783,7 +4783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S85eef5a079354122ac4426b1b18b1660Y.webp?v=1771862605
     Price: $20.99 USD
 - [Toddler Baby Girl Dress 2022 Autumn New Sweet Style Long Sleeve Princess Dress Plaid A-line Skirt  Kid Clothes Baby Vestido 0-3Y](https://kenner-house.myshopify.com/products/toddler-baby-girl-dress-2022-autumn-new-sweet-style-long-sleeve-princess-dress-plaid-a-line-skirt-kid-clothes-baby-vestido-0-3y): SPECIFICATIONSActual Images: yesAge Range: 1-2YBrand Name: NONECN: GuangdongChoice: yesCraft of Weaving: TattingDecoration: RuchedDepartment Name: babyDresses Length: Knee-LengthFit: True to SizeGender: girlsHigh-concerned chemical: NoneMaterial: POLYESTER,ViscoseMaterial Composition: cottonOrigin: Mainland ChinaPattern Type: PlaidRope Type: NoneRope length（0-99cm）: 0Season: all seasonsSilhouette: A-LINESleeve Length(cm): FullSleeve Style: regularStyle: Casualsize_info: {"sizeInfoList":[{"length":{"cm":"24","inch":"9.45"},"size":"M(3-8M)","vid":-1},{"length":{"cm":"26","inch":"10.24"},"size":"L(9-12M)","vid":-2},{"length":{"cm":"28","inch":"11.02"},"size":"XL(18-24M)","vid":-3},{"length":{"cm":"29.5","inch":"11.61"},"size":"XXL(3T)","vid":-4}]}
-  Updated: 2026-03-09T17:12:12Z
+  Updated: 2026-03-13T15:56:08Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4821,7 +4821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S62a64f27dc344d61bde8acd79e2398c3J.webp?v=1771862604
     Price: $15.99 USD
 - [Toddler Kids Baby Girl Cartoon Floral Clothes Set Cotton Tops T-shirt Denim Pants Shorts Children Summer Outfits Clothes Sunsuit](https://kenner-house.myshopify.com/products/toddler-kids-baby-girl-cartoon-floral-clothes-set-cotton-tops-t-shirt-denim-pants-shorts-children-summer-outfits-clothes-sunsuit): SPECIFICATIONSAge Range: 1-3YBrand Name: FOCUSNORMCN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckDepartment Name: ChildrenFit: True to SizeGender: girlsItem Type: setsMaterial: COTTON,POLYESTERModel Number: Summer Outfits Clothes SunsuitOrigin: Mainland ChinaOuterwear Type: coatPattern Type: PrintRope Type: NoneSeason: all seasonsSleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: regularStyle: Fashionsemi_Choice: yes
-  Updated: 2026-03-09T17:12:12Z
+  Updated: 2026-03-13T15:57:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4867,7 +4867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/HTB1XQGjdRCw3KVjSZFuq6AAOpXam.webp?v=1771862606
     Price: $21.99 USD
 - [0-24M Toddler Baby Girl Clothes Set Solid Color Cutout Round Neck Long Sleeve T-shirt Tops and Elastic Casual Ruffle Shorts](https://kenner-house.myshopify.com/products/0-24m-toddler-baby-girl-clothes-set-solid-color-cutout-round-neck-long-sleeve-t-shirt-tops-and-elastic-casual-ruffle-shorts): SPECIFICATIONSAge Range: 0-1YBrand Name: CANISCN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: TattingDepartment Name: babyFabric Type: BroadclothFit: True to SizeGender: girlsHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,POLYESTERMaterial Composition: CottonModel Number: baby clothes setOrigin: Mainland ChinaOuterwear Type: coatPattern Type: SolidRope Type: NoneSeason: SpringSleeve Length(cm): FullSleeve Style: regularStyle: Fashionsemi_Choice: yes
-  Updated: 2026-03-09T17:12:12Z
+  Updated: 2026-03-13T15:53:30Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4905,7 +4905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S84fdc5c561be44dd81e16abbc0b3d597s.webp?v=1771862605
     Price: $15.99 USD
 - [Toddler Girls' 2-Piece Boutique Set - Checkered Sleeveless Top + Wide-Leg Pants Baby Girl Outfit Toddler Girl Clothes](https://kenner-house.myshopify.com/products/toddler-girls-2-piece-boutique-set-checkered-sleeveless-top-wide-leg-pants-baby-girl-outfit-toddler-girl-clothes): SPECIFICATIONSAge Range: 4-6YBrand Name: NONECN: ZhejiangChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: TattingDepartment Name: ChildrenFit: True to SizeGender: girlsHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,POLYESTERModel Number: 2166Origin: Mainland ChinaOuterwear Type: ShortsPattern Type: PlaidRope Type: NoneSeason: SummerSleeve Length(cm): SleevelessSleeve Style: regularStyle: FashionThickness: Thinwhether full opening: No
-  Updated: 2026-03-09T17:12:12Z
+  Updated: 2026-03-13T15:55:58Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4935,7 +4935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3539927fc9c34ae6922ecbcbec19c226H.webp?v=1771862606
     Price: $37.99 USD
 - [Toddler Girl Set 1-5 Years Kids Baby Girl Clothes Set Floral Print Lotus Leaf Short Top+Suspender Pant Fashion Cute 2PCS Outfit](https://kenner-house.myshopify.com/products/toddler-girl-set-1-5-years-kids-baby-girl-clothes-set-floral-print-lotus-leaf-short-top-suspender-pant-fashion-cute-2pcs-outfit): SPECIFICATIONSAge Range: 1-3YBrand Name: MioglrieCN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: KnitDepartment Name: ChildrenFit: True to SizeGender: girlsHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,POLYESTERModel Number: SH1912608-2Origin: Mainland ChinaOuterwear Type: vestPattern Type: PrintRope Type: NoneRope length（0-99cm）: 0Season: SummerSleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: regularStyle: FashionThickness: Thinwhether full opening: No
-  Updated: 2026-03-09T17:12:12Z
+  Updated: 2026-03-13T15:56:59Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4961,7 +4961,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S70cd7470a39b496d8e852964e2f2b61aU.webp?v=1771862606
     Price: $16.99 USD
 - [Toddler Baby Boy Fall Clothes Letter Truck Embroidery Crewneck Pullover Striped Sweatshirt and Joggers Pants Outfits Set](https://kenner-house.myshopify.com/products/toddler-baby-boy-fall-clothes-letter-truck-embroidery-crewneck-pullover-striped-sweatshirt-and-joggers-pants-outfits-set): SPECIFICATIONSAge Range: 1-3YBrand Name: NONECN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: TattingDepartment Name: babyFabric Type: BroadclothFit: True to SizeGender: boysHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,POLYESTERMaterial Composition: CottonModel Number: baby clothes setOrigin: Mainland ChinaOuterwear Type: coatPattern Type: StripedRope Type: NoneRope length（0-99cm）: 0Season: AutumnSleeve Length(cm): FullSleeve Style: regularStyle: Cute
-  Updated: 2026-03-09T17:12:13Z
+  Updated: 2026-03-13T15:56:53Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -4987,7 +4987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0b4d55c376ce438fa2bc3a3798f29a418.webp?v=1771862607
     Price: $26.99 USD
 - [Toddler boys Gentleman Long Sleeve White T-Shirt + plaid suit tie 3 piece Clothes Outfits Boys Formal clothing Set](https://kenner-house.myshopify.com/products/toddler-boys-gentleman-long-sleeve-white-t-shirt-plaid-suit-tie-3-piece-clothes-outfits-boys-formal-clothing-set): SPECIFICATIONSAge Range: 1-3YBrand Name: LJWCN: GuangdongChoice: yesClosure Type: Single BreastedCollar: Turn-Down CollarCraft of Weaving: TattingDepartment Name: ChildrenFit: True to SizeGender: boysHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,POLYESTERModel Number: BBYZ-01Origin: Mainland ChinaOuterwear Type: coatPattern Type: PlaidRope Type: NoneRope length（0-99cm）: 0Season: all seasonsSleeve Length(cm): FullSleeve Style: regularStyle: FashionThickness: Standardsemi_Choice: yeswhether full opening: Yes
-  Updated: 2026-03-09T17:12:13Z
+  Updated: 2026-03-13T15:55:28Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5073,7 +5073,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S77d64ecf989a4e06a81d0bb9517915ecs.webp?v=1771862608
     Price: $42.99 USD
 - [Toddler Baby Clothes Set Spring Autumn Fleece Suits Baby Sweater Tops + Pants 2pcs Toddler Kids Clothes](https://kenner-house.myshopify.com/products/toddler-baby-clothes-set-spring-autumn-fleece-suits-baby-sweater-tops-pants-2pcs-toddler-kids-clothes): SPECIFICATIONSAge Range: 1-3YBrand Name: HiPapaCN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckDepartment Name: babyFabric Type: Combed CottonFit: True to SizeGender: UnisexHigh-concerned chemical: NoneItem Type: setsMaterial: COTTONMaterial Composition: 80% cotton+ 20% polyesterOrigin: Mainland ChinaOuterwear Type: coatPattern Type: PrintRope Type: NoneSeason: WinterSleeve Length(cm): FullSleeve Style: regularStyle: Casual
-  Updated: 2026-03-09T17:12:13Z
+  Updated: 2026-03-13T13:06:20Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5139,7 +5139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S610060e33b7f4556ad0faa9ca83ab491E.webp?v=1771862608
     Price: $19.99 USD
 - [BeQeuewll Toddler Infant Clothes for Kids Fall Suit First Birthday Outfits Animal Print Long Sleeve Sweatshirt Pants Kids Sets](https://kenner-house.myshopify.com/products/beqeuewll-toddler-infant-clothes-for-kids-fall-suit-first-birthday-outfits-animal-print-long-sleeve-sweatshirt-pants-kids-sets): SPECIFICATIONSAge Range: 1-3YBrand Name: BeQeuewllChoice: yesClosure Type: PulloverCollar: O-NeckDepartment Name: babyFabric Type: BroadclothFit: True to SizeGender: girlsHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,POLYESTERMaterial Composition: Cotton BlendModel Number: Baby Clothes SetOrigin: Mainland ChinaOuterwear Type: coatPattern Type: PrintRope Type: NoneSeason: AutumnSleeve Length(cm): FullSleeve Style: regularStyle: Streetwearsemi_Choice: yes
-  Updated: 2026-03-09T17:12:13Z
+  Updated: 2026-03-13T16:01:35Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5161,7 +5161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S5a53c47448234045a50b6ee613777555L.webp?v=1771862608
     Price: $19.99 USD
 - [Toddler Girls Clothing Sets Autumn spring Children Girls Clothes T Shirt Skirt Legging Pants Outfits Kids Girls Sport Suit](https://kenner-house.myshopify.com/products/toddler-girls-clothing-sets-autumn-spring-children-girls-clothes-t-shirt-skirt-legging-pants-outfits-kids-girls-sport-suit): SPECIFICATIONSAge Range: 1-3YBrand Name: bibihouCN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: TattingDepartment Name: ChildrenFit: True to SizeGender: girlsHigh-concerned chemical: NoneItem Type: setsMaterial: POLYESTERModel Number: FS044Origin: Mainland ChinaOuterwear Type: coatPattern Type: PrintRope Type: NoneRope length（0-99cm）: 0Season: AutumnSleeve Length(cm): FullSleeve Style: regularStyle: NoveltyThickness: Standardwhether full opening: No
-  Updated: 2026-03-09T17:12:13Z
+  Updated: 2026-03-13T15:58:36Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5239,7 +5239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/HTB1UF_DXoY1gK0jSZFCq6AwqXXa4.webp?v=1771862609
     Price: $34.99 USD
 - [Toddler Kids Clothes1-6Y Boys Clothing Knitted Girls Cardigan Textured Knit Design Pocket Detail Soft Warm Casual Autumn Winter](https://kenner-house.myshopify.com/products/toddler-kids-clothes1-6y-boys-clothing-knitted-girls-cardigan-textured-knit-design-pocket-detail-soft-warm-casual-autumn-winter): SPECIFICATIONSAge Range: 3-6Y,1-2YBrand Name: NONECN: ZhejiangClothing Length: regularCollar: O-NeckDepartment Name: ChildrenFit: True to SizeGender: UnisexHigh-concerned chemical: NoneMaterial: Viscose,POLYESTEROrigin: Mainland ChinaPattern Type: SolidRope Type: NoneRope length（0-99cm）: 0Season: WinterSleeve Length(cm): FullSleeve Style: regularStyle: Casual
-  Updated: 2026-03-09T17:12:14Z
+  Updated: 2026-03-13T15:56:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5269,7 +5269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saa9d275f72c44afc8fcf7bf99642f528b.webp?v=1771862609
     Price: $20.99 USD
 - [Toddler Kids Clothes Girls Summer Overalls Cotton Floral Print Backless Bowknot Rompers Jumpsuits  Baby Clothing](https://kenner-house.myshopify.com/products/toddler-kids-clothes-girls-summer-overalls-cotton-floral-print-backless-bowknot-rompers-jumpsuits-baby-clothing): SPECIFICATIONSAge Range: 1-3YBrand Name: TSEXIEFOOFUCN: GuangdongChoice: yesClosure Type: Elastic WaistDepartment Name: ChildrenFit: True to SizeFit Type: StraightGender: girlsHigh-concerned chemical: NoneItem Type: overallsMaterial: COTTONModel Number: OverallsOrigin: Mainland ChinaPattern Type: PrintSeason: SummerStyle: Japan&Koreansemi_Choice: yes
-  Updated: 2026-03-09T17:12:14Z
+  Updated: 2026-03-13T15:59:54Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5335,7 +5335,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc25eb81aa19d421a8616828083464f34j.webp?v=1771862611
     Price: $19.99 USD
 - [Cute Toddler Girl Clothes Set for Spring Autumn Cartoon Kids O-neck Sweatshirt + Leggings Newborn Baby Outfits](https://kenner-house.myshopify.com/products/cute-toddler-girl-clothes-set-for-spring-autumn-cartoon-kids-o-neck-sweatshirt-leggings-newborn-baby-outfits): SPECIFICATIONSAge Range: 4-6YBrand Name: DisneyCN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: KnitDepartment Name: ChildrenFit: True to SizeGender: girlsHigh-concerned chemical: NoneItem Type: setsMaterial: COTTON,SpandexOrigin: Mainland ChinaPattern Type: CartoonRope Type: NoneRope length（0-99cm）: 0Season: AutumnSleeve Length(cm): FullSleeve Style: regularStyle: CuteThickness: Standardwhether full opening: No
-  Updated: 2026-03-09T17:12:14Z
+  Updated: 2026-03-13T15:58:46Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5541,7 +5541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S57f88ec7f2e342bf84f63851a57b276fU.webp?v=1771862612
     Price: $19.99 USD
 - [Toddler Baby Boys Clothes Fall Outfit Striped Crew Neck Long Sleeve Sweatshirt & Pants 2Pcs Set For 1-3Y Casual Daily Clothes](https://kenner-house.myshopify.com/products/toddler-baby-boys-clothes-fall-outfit-striped-crew-neck-long-sleeve-sweatshirt-pants-2pcs-set-for-1-3y-casual-daily-clothes): SPECIFICATIONSAge Range: 1-3YBrand Name: NONECN: GuangdongChoice: yesClosure Type: PulloverCollar: O-NeckCraft of Weaving: TattingDepartment Name: babyFabric Type: JERSEYFit: True to SizeGender: boysHigh-concerned chemical: NoneItem Type: setsMaterial: POLYESTERMaterial Composition: 100%PolyesterModel Number: ZT6608Origin: Mainland ChinaOuterwear Type: vestPattern Type: StripedRope Type: NoneRope length（0-99cm）: 0Season: AutumnSleeve Length(cm): FullSleeve Style: regularStyle: Casualsize_info: {"sizeInfoList":[{"length":{"cm":"52","inch":"20.47"},"size":"3-6M","vid":-1},{"length":{"cm":"54","inch":"21.26"},"size":"6-9M","vid":-2},{"length":{"cm":"56","inch":"22.05"},"size":"9-12M","vid":-3},{"length":{"cm":"58","inch":"22.83"},"size":"12-18M","vid":-4},{"length":{"cm":"60","inch":"23.62"},"size":"18-24M","vid":-5},{"length":{"cm":"62","inch":"24.41"},"size":"2-3Y","vid":-6}]}
-  Updated: 2026-03-09T17:12:14Z
+  Updated: 2026-03-13T13:06:32Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5571,7 +5571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa20037070c8244d0b0c21bf4f9e88e4dd.webp?v=1771862611
     Price: $14.99 USD
 - [Labubu Doll - Genuine Fast Local Shipping - Macaron Color, 100% Genuine. This is the perfect gift for kids, family and friends](https://kenner-house.myshopify.com/products/labubu-doll-genuine-fast-local-shipping-macaron-color-100-genuine-this-is-the-perfect-gift-for-kids-family-and-friends): SPECIFICATIONSACG Character: LABUBUBrand Name: POP MART,POP MARTBy Animation Source: China MainlandCertification: CECommodity Attribute: Finished GoodsCompletion Degree: Finished GoodsCondition: In-Stock ItemsDimensions: High About 17cmGender: UnisexHigh-concerned chemical: NoneItem Type: ModelMaterial: PlushMfg Series Number: ModelOrigin: Mainland ChinaOriginal Package: YesPuppets Type: ModelRecommend Age: 18+,14+yRemote Control: NoScale: 1/12Theme: Movie & TVVersion Type: First Editionappearance: labubu V3form: Figure dollgenre: Mystery Boxtype: the monsters
-  Updated: 2026-03-09T17:12:14Z
+  Updated: 2026-03-13T15:58:53Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5605,14 +5605,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S659d269e82b94f7394a57c993823dd6eC.webp?v=1771887928
     Price: $30.99 USD
 - [original Labubu doll - Perfect gift,100% original collectible, cute soft characters.](https://kenner-house.myshopify.com/products/original-labubu-doll-perfect-gift-100-original-collectible-cute-soft-characters): SPECIFICATIONSBrand Name: POP MARTCompletion Degree: Finished GoodsCondition: In-Stock ItemsGender: UnisexHigh-concerned chemical: NoneItem Type: Vinyl DollMaterial: PVCOrigin: Mainland ChinaOriginal Package: YesRecommend Age: 14+yVersion Type: First Editionlabubu: original labubu doll
-  Updated: 2026-03-09T17:12:15Z
+  Updated: 2026-03-13T15:58:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S775b67e0a3de44d2b323b1530eb9442fu.webp?v=1771887928
   Price: $26.99 USD
 - [Plush Doll Multiple Styles Clothing Set For Labubu Outfit Accessories Trendy Clothing Girl Gift](https://kenner-house.myshopify.com/products/plush-doll-multiple-styles-clothing-set-for-labubu-outfit-accessories-trendy-clothing-girl-gift): SPECIFICATIONSBrand Name: NONECN: ZhejiangChoice: yesDepartment Name: AdultGender: Women,Men,Boys,GirlsHigh-concerned chemical: NoneMaterial: POLYESTEROrigin: Mainland China
-  Updated: 2026-03-09T17:12:15Z
+  Updated: 2026-03-13T15:59:28Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5650,7 +5650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb6314edfc685413ab73e5b51bf07a8ff1.webp?v=1771887929
     Price: $4.99 USD
 - [Labubu doll - 100% genuine plush doll, It's the perfect gift for children, family and friends.](https://kenner-house.myshopify.com/products/labubu-doll-100-genuine-plush-doll-its-the-perfect-gift-for-children-family-and-friends): SPECIFICATIONSBrand Name: POP MARTCommodity Attribute: SubjectCondition: In-Stock ItemsGender: UnisexHigh-concerned chemical: NoneItem Type: Vinyl DollModel Number: labubu 4.0Origin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-03-09T17:12:15Z
+  Updated: 2026-03-13T15:58:08Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5664,21 +5664,21 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S714de47789af4368b1422839819f2851G.webp?v=1771887929
     Price: $23.99 USD
 - [Mini Labubu 17cm Doll Fashion Outfit with Hat & Shoes for Labubu II Cultivate Sitting Party](https://kenner-house.myshopify.com/products/mini-labubu-17cm-doll-fashion-outfit-with-hat-shoes-for-labubu-ii-cultivate-sitting-party): SPECIFICATIONSBrand Name: NONECN: GuangdongCertification: CEChoice: yesDimensions: AsForm: 1/3Gender: UnisexHigh-concerned chemical: NoneItem Type: Doll AccessoriesMaterial: ClothMfg Series Number: FashionModel Number: MMLD250616Origin: Mainland ChinaRecommend Age: 14+y,3-6Y,6-12YType: Derivative ProductWarning: Keep Away from Fire
-  Updated: 2026-03-09T17:12:15Z
+  Updated: 2026-03-13T13:06:59Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S4a05a6381d3244669016a20442c937947.webp?v=1771887929
   Price: $12.99 USD
 - [Labubu doll - THE MONSTERS Mystery Box, 100% genuine - Macaron color, It's the perfect gift for children, family and frict Gift](https://kenner-house.myshopify.com/products/labubu-doll-the-monsters-mystery-box-100-genuine-macaron-color-its-the-perfect-gift-for-children-family-and-frict-gift): SPECIFICATIONSBrand Name: POP MARTHigh-concerned chemical: NoneItem Type: ModelMaterial: PVCOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-03-09T17:12:15Z
+  Updated: 2026-03-13T13:06:59Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S9b240a50692948a781c495b4db368fe6J.webp?v=1771887930
   Price: $28.99 USD
 - [Car Purse Hook PU Leather Purse Holder for Car Versatile Hanger Storage Organizer for Trunk Vehicle Organization Accessories](https://kenner-house.myshopify.com/products/car-purse-hook-pu-leather-purse-holder-for-car-versatile-hanger-storage-organizer-for-trunk-vehicle-organization-accessories): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneOrigin: Mainland ChinaProduct shape: RoundType: Sunshade Storage Bagsuitable_for: adultusage_scenarios: headrest
-  Updated: 2026-03-09T17:12:16Z
+  Updated: 2026-03-13T15:58:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5696,7 +5696,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S09ed5965faeb4cf08280f9dce3d9f216g.webp?v=1771890478
     Price: $5.99 USD
 - [Thank you gift for teachers, birthday gift, New Year's party gift, teacher's office, classroom decoration plaque](https://kenner-house.myshopify.com/products/thank-you-gift-for-teachers-birthday-gift-new-years-party-gift-teachers-office-classroom-decoration-plaque): SPECIFICATIONSBrand Name: NONEChoice: yesElectronic: NoHigh-concerned chemical: NoneIs Smart Device: NoMaterial: PlasticOccasion: ThanksgivingOrigin: Mainland ChinaRecommend Age: 14+Style: Modern StyleTheme: LoveType of Wholesale: Nois_customized: No
-  Updated: 2026-03-09T17:12:16Z
+  Updated: 2026-03-13T13:07:01Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5726,7 +5726,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S6e4b7ff2b2584ed7936533ae1905bf11C.webp?v=1771890479
     Price: $9.99 USD
 - [Personalized Bridesmaid Gifts Bachelorette Party Gift Travel Jewelry Case Wedding Gifts Hen Party Gifts Birthday Favor For Her](https://kenner-house.myshopify.com/products/personalized-bridesmaid-gifts-bachelorette-party-gift-travel-jewelry-case-wedding-gifts-hen-party-gifts-birthday-favor-for-her): SPECIFICATIONSBrand Name: NONECN: FujianElectronic: NoHigh-concerned chemical: NoneMaterial: ClothOccasion: Wedding & Engagement,Birthday Party,Thanksgiving,Party,Christmas,Valentine's Day,Wedding,Mother's DayOrigin: Mainland Chinais_customized: Yes
-  Updated: 2026-03-09T17:12:16Z
+  Updated: 2026-03-13T15:57:05Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5812,7 +5812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0f64d312a4f4429db66f2c967353222cT.webp?v=1771890482
     Price: $17.99 USD
 - [5/10/15 gift bags with handles, gold foil welcome gift bags, birthday, Christmas, wedding baby and bridesmaid gift bags](https://kenner-house.myshopify.com/products/5-10-15-gift-bags-with-handles-gold-foil-welcome-gift-bags-birthday-christmas-wedding-baby-and-bridesmaid-gift-bags): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesFoldable: YesHigh-concerned chemical: NoneMaterial: PaperboardOccasion: EiD,Wedding & Engagement,Christening & Baptism,St Patrick's Day,Grand Event,Retirement,Gender Reveal,Birthday Party,House Moving,Children's Day,April Fool's Day,Back to School,Chinese New Year,Earth Day,Father's Day,Thanksgiving,Party,Christmas,Valentine's Day,Wedding,Halloween,Easter,New Year,Graduation,anniversary,Mother's DayOrigin: Mainland Chinais_customized: No
-  Updated: 2026-03-09T17:12:16Z
+  Updated: 2026-03-13T15:58:41Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5890,14 +5890,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S9c6a52a4dc86491eb3dd96dddb543d3bL.webp?v=1771890481
     Price: $26.99 USD
 - [Thank You Gifts for Neighbor Christmas Ornament Old New Neighbor Welcome Gift for Neighbors Birthday Neighbor Moving Away Gifts](https://kenner-house.myshopify.com/products/thank-you-gifts-for-neighbor-christmas-ornament-old-new-neighbor-welcome-gift-for-neighbors-birthday-neighbor-moving-away-gifts): SPECIFICATIONSBrand Name: NONEChoice: yesElectronic: NoHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-09T17:12:16Z
+  Updated: 2026-03-13T13:07:07Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S50ad48ce607048f883fe2b1aa70c882cl.webp?v=1771890480
   Price: $4.39 USD
 - [Gift Box Men Perfume Lipstick Purse Box Double Door Ribbon Bow Box Jewelry Box Mother's Day Girl Women Birthday Gifts](https://kenner-house.myshopify.com/products/gift-box-men-perfume-lipstick-purse-box-double-door-ribbon-bow-box-jewelry-box-mothers-day-girl-women-birthday-gifts): SPECIFICATIONSBrand Name: NONECN: GuangdongHigh-concerned chemical: NoneMaterial: PaperboardOccasion: EiD,Wedding & Engagement,Christening & Baptism,St Patrick's Day,Grand Event,Retirement,Gender Reveal,Birthday Party,House Moving,April Fool's Day,Children's Day,Back to School,Chinese New Year,Earth Day,Father's Day,Thanksgiving,Party,Christmas,Valentine's Day,Wedding,Halloween,Easter,New Year,Graduation,anniversary,Mother's DayOrigin: Mainland Chinais_customized: No
-  Updated: 2026-03-09T17:12:17Z
+  Updated: 2026-03-13T16:00:24Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5911,7 +5911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S6a1bf5c7b6f1452397aaff842a1a4210F.webp?v=1771890482
     Price: $2.99 USD
 - [Personalized Groomsman Wedding Gift Custom Best Man Whiskey Glass Engraved Old Fashion Groomsmen Gift Idea Whiskey Drink](https://kenner-house.myshopify.com/products/personalized-groomsman-wedding-gift-custom-best-man-whiskey-glass-engraved-old-fashion-groomsmen-gift-idea-whiskey-drink): SPECIFICATIONSBattery Included: NoBrand Name: NONECN: FujianDiameter: 8CMElectronic: NoHeight: 8.7CMHigh-concerned chemical: NoneMaterial: GlassOccasion: Wedding & Engagement,Grand Event,Birthday Party,House Moving,Chinese New Year,Father's Day,Thanksgiving,Party,Christmas,Valentine's Day,Wedding,New Year,anniversaryOrigin: Mainland ChinaRecommend Age: 18+Volume: 300mlis_customized: Yes
-  Updated: 2026-03-09T17:12:17Z
+  Updated: 2026-03-13T15:58:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5941,7 +5941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7a08413cfff5490e98e989ef2fdc7d51q.webp?v=1771890482
     Price: $22.99 USD
 - [Gift Bags With Handles Paper Party Favor Handbag Bow Ribbon Jewelry Packing Birthday Wedding Graduation Celebration Present Wrap](https://kenner-house.myshopify.com/products/gift-bags-with-handles-paper-party-favor-handbag-bow-ribbon-jewelry-packing-birthday-wedding-graduation-celebration-present-wrap): SPECIFICATIONSBrand Name: NONECN: ZhejiangChoice: yesHigh-concerned chemical: NoneMaterial: PaperboardModel Number: B4W9TNumber of Pcs: 1pcOccasion: Wedding & Engagement,Party,Christmas,Wedding,Birthday Party,Graduation,anniversary,Thanksgiving,Valentine's Day,New Year,Mother's Day,Christening & Baptism,St Patrick's Day,Grand Event,Retirement,Gender Reveal,Halloween,Easter,House Moving,Children's Day,April Fool's Day,Back to School,Chinese New Year,Earth Day,Father's DayOrigin: Mainland ChinaPattern Type: Noneis_customized: Nosemi_Choice: yes
-  Updated: 2026-03-09T17:12:17Z
+  Updated: 2026-03-13T16:02:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5967,14 +5967,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H8017f08076d64ccfbba698fddf1a59305.webp?v=1771890483
     Price: $2.99 USD
 - [8 large and elegant gift bags, hand-held shopping bags (2 gift bags with bow ribbons, 2 greeting cards and 4 thin papers)](https://kenner-house.myshopify.com/products/8-large-and-elegant-gift-bags-hand-held-shopping-bags-2-gift-bags-with-bow-ribbons-2-greeting-cards-and-4-thin-papers): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesFestival: Christmas, Valentine's Day, New Year, birthdayFoldable: YesHigh-concerned chemical: NoneMaterial: PaperboardOccasion: Wedding & Engagement,Birthday Party,Party,Christmas,Valentine's Day,New Year,Graduation,anniversaryOrigin: Mainland Chinais_customized: No
-  Updated: 2026-03-09T17:12:17Z
+  Updated: 2026-03-13T13:07:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S56b6f13be16041ee83164ba584f07fb7n.webp?v=1771890483
   Price: $11.99 USD
 - [Gift Bags With Handles Paper Party Favor Handbag Bow Ribbon Jewelry Packing Birthday Wedding Graduation Celebration Present Wrap](https://kenner-house.myshopify.com/products/gift-bags-with-handles-paper-party-favor-handbag-bow-ribbon-jewelry-packing-birthday-wedding-graduation-celebration-present-wrap-1): SPECIFICATIONSBrand Name: NONECN: ShanghaiChoice: yesHigh-concerned chemical: NoneMaterial: PaperboardModel Number: candy boxOccasion: Christening & Baptism,Party,Wedding & Engagement,St Patrick's Day,Grand Event,Retirement,Gender Reveal,Birthday Party,House Moving,Children's Day,April Fool's Day,Back to School,Chinese New Year,Earth Day,Father's Day,Thanksgiving,Christmas,Valentine's Day,Wedding,Halloween,Easter,New Year,Graduation,anniversary,Mother's DayOrigin: Mainland ChinaPattern Type: Solid ColorType1: paper bags for packagingType2: Jewelry packingType3: Kraft bagsType4: custom bags kraftType5: gift bag birthdayType6: gift bag wedding personnalisableType7: wedding gift bag kidis_customized: Nosemi_Choice: yes
-  Updated: 2026-03-09T17:12:17Z
+  Updated: 2026-03-13T15:58:50Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6004,14 +6004,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Scf4a0b159c03445c8a746b1dcc5d1dfdx.webp?v=1771890483
     Price: $3.69 USD
 - [Gifts for Mom Delicate Birthday Gifts for Mom from Daughter Son Heartwarming Mom Birthday Gift Thanksgiving Mothers Day for Mom](https://kenner-house.myshopify.com/products/gifts-for-mom-delicate-birthday-gifts-for-mom-from-daughter-son-heartwarming-mom-birthday-gift-thanksgiving-mothers-day-for-mom): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneMaterial: PlasticOrigin: Mainland ChinaRecommend Age: 14+
-  Updated: 2026-03-09T17:12:18Z
+  Updated: 2026-03-13T13:07:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sce0b04393308491e96ba378472db9c89H.webp?v=1771890483
   Price: $9.99 USD
 - [20 Graduation Gifts: Graduation Cap-shaped "Happy Graduation" Keychains. Metal material, suitable for graduation/school return g](https://kenner-house.myshopify.com/products/20-graduation-gifts-graduation-cap-shaped-happy-graduation-keychains-metal-material-suitable-for-graduation-school-return-g): SPECIFICATIONSBattery Included: NoBrand Name: NONECN: GuangdongChoice: yesElectronic: NoHigh-concerned chemical: NoneMaterial: AcrylicOccasion: Wedding & Engagement,Christening & Baptism,St Patrick's Day,Grand Event,Retirement,Gender Reveal,Birthday Party,House Moving,Children's Day,April Fool's Day,Back to School,Earth Day,Father's Day,Thanksgiving,Party,Christmas,Valentine's Day,Wedding,Halloween,EasterOrigin: Mainland ChinaRecommend Age: 18+is_customized: Nosemi_Choice: yes
-  Updated: 2026-03-09T17:12:18Z
+  Updated: 2026-03-13T15:58:49Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6025,14 +6025,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S803652dbb9b946719224dc13db7aa262W.webp?v=1771890483
     Price: $4.99 USD
 - [Thank You Gifts for Women Men, Teacher Appreciation Gifts, Mothers Day Gifts, Thanksgiving Day gifts, Leaving Gift](https://kenner-house.myshopify.com/products/thank-you-gifts-for-women-men-teacher-appreciation-gifts-mothers-day-gifts-thanksgiving-day-gifts-leaving-gift): SPECIFICATIONSBrand Name: NONEChoice: yesElectronic: NoHigh-concerned chemical: NoneIs Smart Device: NoMaterial: PlasticOccasion: NoneOrigin: Mainland ChinaRecommend Age: 14+Style: Modern StyleTheme: PeopleType of Wholesale: Nois_customized: No
-  Updated: 2026-03-09T17:12:18Z
+  Updated: 2026-03-13T13:07:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sd75be65495ee4860aae21a38547012e70.webp?v=1771890484
   Price: $6.99 USD
 - [Gift Bags New Floral Gift Bags INS Fashion Tote Bag with Ribbon Packaging Bag Clothing Paper Shopping Bags Candy Bags](https://kenner-house.myshopify.com/products/gift-bags-new-floral-gift-bags-ins-fashion-tote-bag-with-ribbon-packaging-bag-clothing-paper-shopping-bags-candy-bags): SPECIFICATIONSBrand Name: NONECN: ZhejiangChoice: yesHigh-concerned chemical: NoneMaterial: PaperboardOccasion: Chinese New Year,Thanksgiving,Party,Christmas,WeddingOrigin: Mainland Chinais_customized: No
-  Updated: 2026-03-09T17:12:18Z
+  Updated: 2026-03-13T16:00:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6110,7 +6110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb224ce13537f402c8fb98aa5412470b4p.webp?v=1771890486
     Price: $54.99 USD
 - [Folding bag handbag hook purse tote flower shape metal bag table hanger holder](https://kenner-house.myshopify.com/products/folding-bag-handbag-hook-purse-tote-flower-shape-metal-bag-table-hanger-holder): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneMaterial: PVCOrigin: Mainland China
-  Updated: 2026-03-09T17:12:18Z
+  Updated: 2026-03-13T15:58:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6132,7 +6132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S43788dfe8e644a5c8f4598a20bd0d8027.webp?v=1771890486
     Price: $11.99 USD
 - [Van Gogh Art Oil Paintings Handbag Hooks Folding Metal Table Bag Holder Non-Slip Hooks Portable Purse Hangers Parts Accessories](https://kenner-house.myshopify.com/products/van-gogh-art-oil-paintings-handbag-hooks-folding-metal-table-bag-holder-non-slip-hooks-portable-purse-hangers-parts-accessories): SPECIFICATIONSBrand Name: NONEBuckle Type: RingsChoice: yesHigh-concerned chemical: NoneMaterial: MetalMetal Type: Zinc AlloyOrigin: Mainland ChinaProduct Type: BucklesShape: Round
-  Updated: 2026-03-09T17:12:19Z
+  Updated: 2026-03-13T15:56:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6190,21 +6190,21 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S979154c40fde4647bf74818951bdb100g.webp?v=1771890487
     Price: $4.59 USD
 - [2Pcs Car Seat Back Hook Multi-purpose Trunk Umbrella Mount Holder Car Umbrella Storage Organizer Holders Universal Car Accessory](https://kenner-house.myshopify.com/products/2pcs-car-seat-back-hook-multi-purpose-trunk-umbrella-mount-holder-car-umbrella-storage-organizer-holders-universal-car-accessory): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneItem Type: Fastener & ClipOrigin: Mainland China
-  Updated: 2026-03-09T17:12:19Z
+  Updated: 2026-03-13T13:07:26Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S288cf10181d8446baa7b9be02279d8d2q.webp?v=1771890487
   Price: $12.99 USD
 - [Candles Coffee Scented Aromatherapy Candle Indoor Long-lasting Smoke-free Fragrance Butter Lamp](https://kenner-house.myshopify.com/products/candles-coffee-scented-aromatherapy-candle-indoor-long-lasting-smoke-free-fragrance-butter-lamp): SPECIFICATIONSBrand Name: NONEDuration: 2-4 hourFeature: ScentedHandmade: YesHigh-concerned chemical: NoneMaterial: Soy WaxModel Number: CC001-Origin: Mainland ChinaProduct: General CandleShape: Cup-shapedType: AromatherapyUse: Home Decoration
-  Updated: 2026-03-09T17:12:19Z
+  Updated: 2026-03-13T13:07:26Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb4133af1ffe4462ea2f14fcb8fcfbfffK.webp?v=1771890487
   Price: $8.99 USD
 - [Vintage Scented Candles Soy Wax Candle Jars Flower Fragrance Scent Candle Wedding Ceremony Birthday Gifts Home Decoration](https://kenner-house.myshopify.com/products/vintage-scented-candles-soy-wax-candle-jars-flower-fragrance-scent-candle-wedding-ceremony-birthday-gifts-home-decoration): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-09T17:12:19Z
+  Updated: 2026-03-13T16:01:06Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6242,7 +6242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3b85412c72e34a2891f43813dcb16267i.webp?v=1771890488
     Price: $5.99 USD
 - [Vanilla-Flavored Premium Natural Incense Sticks, 22cm Long, Strong-Scented Handmade Bamboo Stick Incense, Traditional Handmade, Rich Fragrance, Long-Lasting Scent, Refreshing and Invigorating, Deodorizing and Odor-Removing, S](https://kenner-house.myshopify.com/products/vanilla-flavored-premium-natural-incense-sticks-22cm-long-strong-scented-handmade-bamboo-stick-incense-traditional-handmade-rich-fragrance-long-lasting-scent-refreshing-and-invigorating-deodorizing-and-odor-removing-s): SPECIFICATIONSApplication Scene: Living RoomBrand Name: NONEChoice: yesClassification: Smoke CandleHigh-concerned chemical: NoneMaterial: WoodModel Number: 933Origin: Mainland ChinaPackaging: Simple Package for Private UseRegional Feature: Chinese IncenseSpecification: 21-50MLType: Stick IncenseUse: RefreshingWood Type: Sandalwood
-  Updated: 2026-03-09T17:12:19Z
+  Updated: 2026-03-13T15:59:25Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6264,7 +6264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7724037acb654089bac5adbd1c00da2ax.webp?v=1771890488
     Price: $24.99 USD
 - [2026 Men's Shoes New Style Four Seasons Fashionable Versatile Soft Bottom White Casual Shoes Breathable Summer Zapatillas Hombre](https://kenner-house.myshopify.com/products/2026-mens-shoes-new-style-four-seasons-fashionable-versatile-soft-bottom-white-casual-shoes-breathable-summer-zapatillas-hombre): SPECIFICATIONSBrand Name: QaawalChoice: yesClosure Type: Lace-UpDepartment Name: AdultFit: True to SizeGender: MenHigh-concerned chemical: NoneInsole Material: Bonded LeatherItem Type: Casual ShoesLining Material: NoneOrigin: Mainland ChinaOutsole Material: OtherPattern Type: ARMOURSeason: SummerShoes Type: Sports shoesUpper Material: OtherUpper coverage: Not above ankleUpper fixing method: Others (fill in by yourself)Whether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : Nonesize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3.5","KR":"225","MX":"22.5","US":"4"},"length":{"cm":"22.5","inch":"8.86"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"36.5","BR":"34.5","JP":"23","UK":"4","KR":"230","MX":"23","US":"4.5"},"length":{"cm":"23.0","inch":"9.06"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4.5","KR":"235","MX":"23.5","US":"5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24.0","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39.5","BR":"37.5","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25.0","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"41","BR":"39","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26.0","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"39.5","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"42.5","BR":"40.5","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27.0","inch":"10.63"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"43","BR":"41","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"44","BR":"42","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28.0","inch":"11.02"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"44.5","BR":"42.5","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"47","vid":200000339},{"countrySizeMap":{"EU":"45.5","BR":"43.5","JP":"29","UK":"11","KR":"290","MX":"29","US":"12"},"length":{"cm":"29.0","inch":"11.42"},"size":"48","vid":200000900},{"countrySizeMap":{"EU":"46","BR":"44","JP":"29.5","UK":"11.5","KR":"295","MX":"29.5","US":"12.5"},"length":{"cm":"29.5","inch":"11.61"},"size":"49","vid":100010488},{"countrySizeMap":{"EU":"47","BR":"45","JP":"30","UK":"12.5","KR":"300","MX":"30","US":"13.5"},"length":{"cm":"30.0","inch":"11.81"},"size":"50","vid":200000901}]}
-  Updated: 2026-03-09T17:12:19Z
+  Updated: 2026-03-13T15:59:04Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6350,7 +6350,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S227ea1f6220c49a192939e542da468948.webp?v=1772117424
     Price: $40.99 USD
 - [2026 Women's Shoes Single Shoes Sandals Spring Fashion Pointed Toe  Slingback Summer Ladies High Heels Stylish High Heels for Pa](https://kenner-house.myshopify.com/products/2026-womens-shoes-single-shoes-sandals-spring-fashion-pointed-toe-slingback-summer-ladies-high-heels-stylish-high-heels-for-pa): SPECIFICATIONSBack Counter Type: Back StrapBrand Name: On feet& in loveChoice: yesClosure Type: Slip-OnDepartment Name: AdultDressing style: Formal WearFit: True to SizeGender: WomenHeel Height: High (5CM - 8CM)Heel Type: Thin HeelsHigh-concerned chemical: NoneInsole Material: PUItem Type: sandalsLining Material: PUModel Number: 8503-23Occasion: PartyOrigin: Mainland ChinaOutsole Material: TPUPattern Type: SolidSandal Type: Modern SandalsSide Vamp Type: OpenStyle: FashionUpper Material: PUUpper coverage: Not above ankleWith Platforms: Nosize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3","KR":"230","MX":"23","US":"5.5"},"length":{"cm":"22.4","inch":"8.82"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4","KR":"240","MX":"24","US":"6.5"},"length":{"cm":"23.1","inch":"9.09"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"245","MX":"24.5","US":"7"},"length":{"cm":"23.8","inch":"9.37"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"24.4","inch":"9.61"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"6.5","KR":"260","MX":"26","US":"9"},"length":{"cm":"25.1","inch":"9.88"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"40.5","BR":"38.5","JP":"26","UK":"7","KR":"265","MX":"26.5","US":"9.5"},"length":{"cm":"25.7","inch":"10.12"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"41.5","BR":"40","JP":"26.5","UK":"7.5","KR":"270","MX":"27","US":"10"},"length":{"cm":"26.4","inch":"10.39"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"43","BR":"41","JP":"27.5","UK":"9","KR":"280","MX":"28","US":"11"},"length":{"cm":"27.1","inch":"10.67"},"size":"42","vid":200000337}]}
-  Updated: 2026-03-09T17:12:20Z
+  Updated: 2026-03-13T16:03:03Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6452,7 +6452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc333ba8bc16e43a4828a0a843a89de25j.webp?v=1772117426
     Price: $52.99 USD
 - [2026 Girls Mary Jane Shoes Spring Autumn New Lace Trim Bow Children Fashion Princess Flat Shoes Wedding Party Kids Dress Shoes](https://kenner-house.myshopify.com/products/2026-girls-mary-jane-shoes-spring-autumn-new-lace-trim-bow-children-fashion-princess-flat-shoes-wedding-party-kids-dress-shoes): SPECIFICATIONSAge Range: 3-6Y,7-12YBrand Name: JGSHOWKITOCN: ZhejiangDepartment Name: ChildrenDressing style: Formal WearFeature: Anti-SlipperyFit: True to SizeGender: girlsHeel Type: Flat withHigh-concerned chemical: NoneLeather Shoes Type: Fashion ShoesOrigin: Mainland ChinaOutsole Material: RubberSeason: all seasonsUpper Material: PU LeatherUpper coverage: Not above ankleUpper fixing method: stitchingWhether waterproof: No
-  Updated: 2026-03-09T17:12:20Z
+  Updated: 2026-03-13T16:00:02Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6562,7 +6562,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc16376d91ade457ebe67bcfd04fd1912R.webp?v=1772117424
     Price: $32.99 USD
 - [2026 Brand Men Shoes Slip-On Split Leather Soft Men Beach Summer Men Sandals Slippers Flats Flip Flop](https://kenner-house.myshopify.com/products/2026-brand-men-shoes-slip-on-split-leather-soft-men-beach-summer-men-sandals-slippers-flats-flip-flop): SPECIFICATIONSBrand Name: DXKZMCMClosure Type: Buckle StrapDepartment Name: AdultDressing style: OtherFit: True to SizeGender: MenHeel Height: Flat (≤1cm)High-concerned chemical: NoneInsole Material: PUItem Type: sandalsLining Material: PUModel Number: 9T0129Occasion: CasualOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSandal Type: Ankle-WrapStyle: ClassicsUpper Material: Split LeatherUpper fixing method: stickingsize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24.0","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"39","BR":"36.5","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"40","BR":"37.5","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25.0","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"41","BR":"38","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"42","BR":"39","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26.0","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"43","BR":"39.5","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"44","BR":"40.5","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27.0","inch":"10.63"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"45","BR":"41","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"46","BR":"42","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28.0","inch":"11.02"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"47","BR":"42.5","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"47","vid":200000339}]}
-  Updated: 2026-03-09T17:12:20Z
+  Updated: 2026-03-13T15:59:40Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6616,7 +6616,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S71d81e8137a34fe799e86ff89e233341z.webp?v=1772117425
     Price: $31.99 USD
 - [YRZL Loafers for Men 2024 New Handmade Moccasins Men Flats Casual Leather Shoes Luxury Comfy Mens Loafers Size 48 Shoes for Men](https://kenner-house.myshopify.com/products/yrzl-loafers-for-men-2024-new-handmade-moccasins-men-flats-casual-leather-shoes-luxury-comfy-mens-loafers-size-48-shoes-for-men): SPECIFICATIONSBrand Name: YRZLBuying advice: Shoes are too small, it is recommended to buy a larger sizeChoice: yesClosure Type: Slip-OnDepartment Name: AdultDropshipping: SupportFashion Element: Metal decorationFeature: Breathable,Massage,WaterproofFeel: Comfortable,Breathable,SoftFit: True to SizeGender: MenHigh-concerned chemical: NoneInsole Material: PUItem Type: Casual ShoesLining Material: PUModel Number: 15118Occasion: DailyOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidQuality: High qualitySeason: Spring/AutumnShoes Type: LoafersSize: 37,38,39,40,41,42,43,44,45,46,47,48Supply: Exclusive supplyUpper Material: PUUpper coverage: Not above ankleUpper fixing method: stickingWhether waterproof: YesWhether with metal toe cap: NoWholesale: SupportWith or install Professional accessories : Nonesemi_Choice: yessize_info: {"sizeInfoList":[{"length":{"cm":"24.0","inch":"9.45"},"size":"37","vid":-1},{"length":{"cm":"24.5","inch":"9.65"},"size":"38","vid":-2},{"length":{"cm":"25.0","inch":"9.84"},"size":"39","vid":-3},{"length":{"cm":"25.5","inch":"10.04"},"size":"40","vid":-4},{"length":{"cm":"26.0","inch":"10.24"},"size":"41","vid":-5},{"length":{"cm":"26.5","inch":"10.43"},"size":"42","vid":-6},{"length":{"cm":"27.0","inch":"10.63"},"size":"43","vid":-7},{"length":{"cm":"27.5","inch":"10.83"},"size":"44","vid":-8},{"length":{"cm":"28.0","inch":"11.02"},"size":"45","vid":-9},{"length":{"cm":"28.5","inch":"11.22"},"size":"46","vid":-10},{"length":{"cm":"29.0","inch":"11.42"},"size":"47","vid":-11},{"length":{"cm":"29.5","inch":"11.61"},"size":"48","vid":-12}]}
-  Updated: 2026-03-09T17:12:20Z
+  Updated: 2026-03-13T16:02:11Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6822,7 +6822,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sd00ae2bce5e747a2a970e1271c363984x.webp?v=1772117429
     Price: $65.99 USD
 - [Summer Fashion Slippers For Men Sport Outdoor Sandals Bathroom Non-skid Indoor And Home Sandals For Women Couple Lovers Shoes](https://kenner-house.myshopify.com/products/summer-fashion-slippers-for-men-sport-outdoor-sandals-bathroom-non-skid-indoor-and-home-sandals-for-women-couple-lovers-shoes): SPECIFICATIONSAge Range: 7-12YBrand Name: QS QISIONCN: GuangdongChoice: yesDepartment Name: ChildrenFeature: BreathableFit: True to SizeGender: UnisexHeel Shape: Flat HeelsHigh-concerned chemical: NoneItem Type: slippersLining Material: PVCOrigin: Mainland ChinaOutsole Material: PVCPattern Type: Mixed colorsSeason: all seasonsShoes Length: 23cm,24cm,25cm,26cm,27cmUpper Material: PVCUpper fixing method: Injection moldingWhether Plugged: Yessize_info: {"sizeInfoList":[{"length":{"cm":"23","inch":"9.06"},"size":"36-37","vid":-1},{"length":{"cm":"24","inch":"9.45"},"size":"38-39","vid":-2},{"length":{"cm":"25","inch":"9.84"},"size":"40-41","vid":-3},{"length":{"cm":"26","inch":"10.24"},"size":"42-43","vid":-4},{"length":{"cm":"27","inch":"10.63"},"size":"44-45","vid":-5}]}
-  Updated: 2026-03-09T17:12:20Z
+  Updated: 2026-03-13T16:00:19Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6908,7 +6908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc613b25db19441e8bfec0b69ee821b8d1.webp?v=1772117426
     Price: $17.99 USD
 - [New 2026 high-quality fashionable casual shoes sports shoes running shoes men's lightweight outdoor men's breathable shoes](https://kenner-house.myshopify.com/products/new-2026-high-quality-fashionable-casual-shoes-sports-shoes-running-shoes-mens-lightweight-outdoor-mens-breathable-shoes): SPECIFICATIONSBrand Name: NONEChoice: yesDepartment Name: AdultFeature: Breathable,Anti-odorFit: True to SizeGender: MenHigh-concerned chemical: NoneInsole Material: FabricItem Type: Casual ShoesLining Material: NylonModel Number: a730Origin: Mainland ChinaOutsole Material: RubberPattern Type: GeometricSeason: Spring/AutumnShoes Type: BasicUpper Material: CottonUpper coverage: Not above ankleUpper fixing method: stitchingWhether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : None
-  Updated: 2026-03-09T17:12:21Z
+  Updated: 2026-03-13T13:07:52Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6962,7 +6962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa855cb37fce443eb9d22ca7729de45f35.webp?v=1772117425
     Price: $14.99 USD
 - [Y Black Silver Orange 36-42 New Fashion Outside Ladies Stiletto Heels Heeled Sandals Closed Pointed Toe Diamond Women Shoes](https://kenner-house.myshopify.com/products/y-black-silver-orange-36-42-new-fashion-outside-ladies-stiletto-heels-heeled-sandals-closed-pointed-toe-diamond-women-shoes): SPECIFICATIONSBrand Name: MSFeature: Fashion TrendLining Material: PuMidsole Material: PuModel Number: A2335-5Outsole Material: RubberPlace of Origin: Guangdong, ChinaSandal Type: Fashionable sandalsSeason: SummerStyle: Lace-upToe Style: Closed ToeUpper Material: Pu
-  Updated: 2026-03-09T17:12:21Z
+  Updated: 2026-03-13T16:01:28Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7052,7 +7052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H98c10d8aee094cc2a5f9c4c9181d35fa6.webp?v=1772117427
     Price: $24.99 USD
 - [New Hot Best  Glitter Shinning Women Shoes Big Size 41 42 43 Flat Fashion Rose Gold Sneaker Bling Bling Party Shoe Quality](https://kenner-house.myshopify.com/products/new-hot-best--glitter-shinning-women-shoes-big-size-41-42-43-flat-fashion-rose-gold-sneaker-bling-bling-party-shoe-quality): SPECIFICATIONSBrand Name: OEMClosure Type: LaceFeature: Fashion TrendLining Material: MeshMidsole Material: EVAModel Number: B001Outsole Material: PuPlace of Origin: Fujian, ChinaSeason: All SeasonsStyle: Chunky,low topToe Style: Round ToeUpper Material: Pu
-  Updated: 2026-03-09T17:12:21Z
+  Updated: 2026-03-13T15:59:59Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7154,7 +7154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H49d8e515d4814f608cb6d62cc79814a52.webp?v=1772117428
     Price: $18.99 USD
 - [New Memory Foam Breathable Massage Insoles for Women Shoes Inner Sole Shoe Insert Lift Heel Comfort Heightening Insoles](https://kenner-house.myshopify.com/products/new-memory-foam-breathable-massage-insoles-for-women-shoes-inner-sole-shoe-insert-lift-heel-comfort-heightening-insoles): SPECIFICATIONSBrand Name: FASTLACESColor: 3 ColorsInsole type: Sport Insole Running InsoleItem Type: Shock-AbsorbantItem name: Memory foam InsolesMaterial: Memory FoamModel Number: XD-15Place of Origin: Guangdong, ChinaProduct name: Sneakers InsolesStyle: Comfort Sports Insolestype: Shoe Insoles,Comfort Insoles,Sports Insoles,Warm Insole
-  Updated: 2026-03-09T17:12:21Z
+  Updated: 2026-03-13T15:58:54Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7208,7 +7208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/He6a47ae587a54032b2fa0c24e369c2c2S.webp?v=1772117428
     Price: $1.00 USD
 - [Lady's Shoes Shos for Women Shoes for Women New Styles Sneakers Women](https://kenner-house.myshopify.com/products/ladys-shoes-shos-for-women-shoes-for-women-new-styles-sneakers-women): SPECIFICATIONSFeature: CushioningLining Material: Cotton FabricMidsole Material: EVAModel Number: 1Outsole Material: PuPlace of Origin: ChinaSeason: Summer,SpringStyle: Monk StrapToe Style: Peep ToeUpper Material: Cotton Fabric
-  Updated: 2026-03-09T17:12:22Z
+  Updated: 2026-03-13T16:00:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7342,7 +7342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H7af013aef44a44fc96ef6028c02b3e717.webp?v=1772117428
     Price: $10.99 USD
 - [TMA EYES Modische Slipper 2023 New Design Summer Fashion Items Comfortable Leisure Breathable  Waterproof  Women Shoes](https://kenner-house.myshopify.com/products/tma-eyes-modische-slipper-2023-new-design-summer-fashion-items-comfortable-leisure-breathable-waterproof-women-shoes): SPECIFICATIONSColors: 44 ColorsFeature: Fashion Trend,Light Weight,Waterproof,Anti-Slip,Anti-static,Quick Dry,Hard-WearingLining Material: Genuine Leather,PlushLogo: customizedMidsole Material: WoodModel Number: 2332Outsole Material: EVAPacking: customizedPlace of Origin: Anhui, ChinaQuality: 100%inspectionSeason: Winter,Summer,SpringStyle: outdoor slippersType: women shoesUpper Material: Genuine Leathercharacteristic: Hand sewing threadinsole: Cowhide velvetinstep: leathersize: Plus-sizestyle: slippers
-  Updated: 2026-03-09T17:12:22Z
+  Updated: 2026-03-13T13:08:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7364,7 +7364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H4002ee0eefdf41f28fe6fdf7a6552a88B.webp?v=1772117428
     Price: $17.99 USD
 - [ZAZB Brand Designer Custom for Women Shoes and Sandals Ladies Sexy Sandales Crossed Thin Ribbon Sandales Chaussures Pour Femmes](https://kenner-house.myshopify.com/products/zazb-brand-designer-custom-for-women-shoes-and-sandals-ladies-sexy-sandales-crossed-thin-ribbon-sandales-chaussures-pour-femmes): SPECIFICATIONSBrand Name: ZAZBFeature: Fashion Trend,Light Weight,Anti-Slippery,Anti-Slip,Hard-Wearing,Abrasion Resistance,FlexibleLining Material: PuMidsole Material: Microfiber leatherModel Number: X2405-028Outsole Material: rubberPlace of Origin: Guangdong, ChinaSandal Type: Trip strapSeason: Summer,Spring,AutumnStyle: Sexy Headband Strap High Heel SandalsToe Style: Pointed ToeUpper Material: PVC synthetic fiber
-  Updated: 2026-03-09T17:12:22Z
+  Updated: 2026-03-13T16:04:00Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7402,7 +7402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Heb61eb724d1e43be8c5608e15b7e1dbca.webp?v=1772117428
     Price: $24.99 USD
 - [Women's Summer Fashion EVA Slipper Bohemian Satin Ribbon Female Flip Flop 2022 Bronzing Beach Simple Leisure Women Shoes](https://kenner-house.myshopify.com/products/womens-summer-fashion-eva-slipper-bohemian-satin-ribbon-female-flip-flop-2022-bronzing-beach-simple-leisure-women-shoes): SPECIFICATIONSBrand Name: NonColor: 4 colorsDesign: FashioableFeature: Cushioning,Fashion Trend,EVERGREENLining Material: PVCMOQ: NO MOQMaterial: PVC+PVCMidsole Material: PVC,Plush FurModel Number: nonOutsole Material: PVCPacking: Opp BagPlace of Origin: Zhejiang, ChinaProduct name: Summer SlippersSeason: Summer,Spring,AutumnSize: 7 8 9 10Style: outdoor slippers,WARM SLIPPERSToe Style: GoodUpper Material: PVCUsage: Indoor Home Outdoor Beach
-  Updated: 2026-03-09T17:12:22Z
+  Updated: 2026-03-13T16:02:12Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7480,7 +7480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Hb2b9e57b8fa44296bece3c36f18fa749T.webp?v=1772117430
     Price: $2.49 USD
 - [Summer Women Shoes Lightweight Breathable Mesh Casual Shoes Women Sneakers Walking Shoes Woman](https://kenner-house.myshopify.com/products/summer-women-shoes-lightweight-breathable-mesh-casual-shoes-women-sneakers-walking-shoes-woman): SPECIFICATIONSBrand Name: LBColor: Customized ColorFeature: Cushioning,Fashion Trend,EVERGREEN,Sweat-Absorbant,Anti-Odor,Light Weight,Disposable,Round,Massage,Breathable,Anti-Slippery,Anti-Slip,ARCH SUPPORT,Anti-static,Lighted,Quick Dry,Hard-Wearing,Height Increasing,Electrically Heated,Shock Resistant,slip resistant,Anitmicrobial,Cushioned,Soft,Abrasion Resistance,Flexible,comfortFunction: Breathable Lightweight Durable SportKey words: Comfortable Sneakers Casual ShoesLining Material: Mesh,Cotton FabricLogo: Accept Customized LogoMOQ: 1000Material: Mesh UpperMidsole Material: PVCModel Number: LBWSVS00257Outsole Material: PVC,Rubber,TPUPacking: Shoe BoxPlace of Origin: Henan, ChinaProduct name: Women Casual SneakerSeason: Summer,Spring,AutumnSize: 36-41 CustomStyle: Running shoes,Walking Shoes,Court Sneakers,Lace-up,Air CushionToe Style: Round Toe,Closed ToeType: Running Shoes Walking ShoesUpper Material: Mesh
-  Updated: 2026-03-09T17:12:22Z
+  Updated: 2026-03-13T16:02:12Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7582,7 +7582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H05cb9c23fc8143bba240f825002e5adcm.webp?v=1772117430
     Price: $10.99 USD
 - [ZAZB Brand Designer Custom for Women Shoes and Sandals Luxury Ladies slippers Colored Rhinestone Sandales Chaussures Pour Femmes](https://kenner-house.myshopify.com/products/zazb-brand-designer-custom-for-women-shoes-and-sandals-luxury-ladies-slippers-colored-rhinestone-sandales-chaussures-pour-femmes): SPECIFICATIONSBrand Name: ZAZBFeature: Fashion Trend,Anti-Odor,Light Weight,Breathable,Anti-Slippery,Anti-Slip,Hard-Wearing,slip resistant,Abrasion Resistance,FlexibleLining Material: PuMidsole Material: Ultra fine fiber leatherModel Number: X2405-039Outsole Material: plasticsPlace of Origin: Guangdong, ChinaSeason: Summer,SpringStyle: Shiny rhinestone shoesToe Style: Peep Toe,Pointed ToeUpper Material: Knitted woolen fabric
-  Updated: 2026-03-09T17:12:23Z
+  Updated: 2026-03-13T15:58:34Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7620,7 +7620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H2201e79a89604d839fdfd5f380341b474.webp?v=1772117431
     Price: $24.99 USD
 - [Women Shoes Fish Mouth Shape Sandals Ladies Crystal Thick Heel Summer Plus Size Slippers](https://kenner-house.myshopify.com/products/women-shoes-fish-mouth-shape-sandals-ladies-crystal-thick-heel-summer-plus-size-slippers): SPECIFICATIONSBrand Name: otherDecoration: EmbroideryFeature: Fashion Trend,Light Weight,Massage,Breathable,Anti-Slip,Hard-Wearing,Height IncreasingLining Material: PuMidsole Material: RubberModel Number: A130Outsole Material: RubberPattern: CheckeredPlace of Origin: Fujian, ChinaSeason: All SeasonsStyle: outdoor slippersToe Style: Round ToeUpper Material: Pu,Microfiber Fabrics
-  Updated: 2026-03-09T17:12:23Z
+  Updated: 2026-03-13T16:01:25Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7710,7 +7710,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H309683159e0e497888bb0f3e799b07fcd.webp?v=1772117431
     Price: $19.99 USD
 - [New Summer Western Style Fashion High Shoes Women Shoes  Non-slip  Outdoor Non-slip Slipper  Mature Sexy Women Slipper](https://kenner-house.myshopify.com/products/new-summer-western-style-fashion-high-shoes-women-shoes-non-slip--outdoor-non-slip-slipper-mature-sexy-women-slipper): SPECIFICATIONSBrand Name: ROMSUNSClosure Type: Slip-OnFeature: Other,Deodorization,Insulative,Round,Massage,Steel Toe,Light,Thermal,Waterproof,Flat ,Printed,Breathable,Light Weight,ARCH SUPPORT,Disposable,Lighted,Anti-Slippery,Anti-Odor,Quick Dry,Hard-Wearing,Height Increasing,Electrically Heated,Shock-Absorbant,Sweat-Absorbant,Cushioning,Fashion Trend,EVERGREEN,Recyclable,Anti-Slip,Anti-static,Shock Resistant,slip resistant,Anitmicrobial,Stain Resistant,Cushioned,Soft,barefoot,Abrasion Resistance,Flexible,comfortHeel Height: Med (3cm-5cm)Heel Type: Thin HeelsLining Material: PVC,PuMidsole Material: PVC,Pu,EVAModel Number: 7015Outsole Material: PVC,PuPlace of Origin: Guangdong, ChinaSeason: Summer,SpringStrap Type: Double strapStyle: AnkleToe Style: SQUARE TOEUpper Material: PVCpattern: Solid
-  Updated: 2026-03-09T17:12:23Z
+  Updated: 2026-03-13T16:03:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7876,7 +7876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H04006b432b5541208c50394cdb07fc29K.webp?v=1772117433
     Price: $11.99 USD
 - [Latest Models Flat Luxury Designer Bling Diamond Women Shoes Sandals Ladies Casual Fashion Guangzhou Factory Zapatos](https://kenner-house.myshopify.com/products/latest-models-flat-luxury-designer-bling-diamond-women-shoes-sandals-ladies-casual-fashion-guangzhou-factory-zapatos): SPECIFICATIONSBrand Name: OEMFeature: Fashion Trend,DisposableLining Material: PVCMidsole Material: PVCModel Number: L387Outsole Material: PuPattern: LeopardPlace of Origin: Fujian, ChinaSeason: Winter,Summer,Spring,AutumnStyle: outdoor slippersToe Style: Open ToeUpper Material: PVC
-  Updated: 2026-03-09T17:12:23Z
+  Updated: 2026-03-13T16:02:37Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7930,7 +7930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H0c558ccf889e442197527deb17522cc82.webp?v=1772117432
     Price: $29.99 USD
 - [2026 New Mens Leather Dress Shoes Men's Formal Social Male Shoe Casual Business Pointed Toe Luxury Party Designer Shoes for Men](https://kenner-house.myshopify.com/products/2026-new-mens-leather-dress-shoes-mens-formal-social-male-shoe-casual-business-pointed-toe-luxury-party-designer-shoes-for-men): SPECIFICATIONSBrand Name: YBQJOOClosure Type: Lace-UpDepartment Name: AdultFit: True to SizeGender: MenHigh-concerned chemical: NoneInsole Material: EVALining Material: PVCModel Number: 2026Occasion: WeddingOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidProduct Category: Dress leather shoesSeason: Spring/AutumnShoes Type: OxfordsToe Shape: Pointed ToeUpper Material: PUUpper coverage: Not above ankleUpper fixing method: Others (fill in by yourself)Whether waterproof: YesWhether with metal toe cap: Nofunction: Breathable, wear resistantpop element: Sewing thread, leather stitchingscene: general purposesize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"35","BR":"33","JP":"22","UK":"3","KR":"220","MX":"22","US":"3"},"length":{"cm":"22","inch":"8.66"},"size":"34","vid":100010481},{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3.5","KR":"225","MX":"22.5","US":"4"},"length":{"cm":"22.5","inch":"8.86"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"36.5","BR":"34.5","JP":"23","UK":"4","KR":"230","MX":"23","US":"4.5"},"length":{"cm":"23","inch":"9.06"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4.5","KR":"235","MX":"23.5","US":"5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39.5","BR":"37.5","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"41","BR":"39","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"39.5","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"42.5","BR":"40.5","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27","inch":"10.63"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"43","BR":"41","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"44","BR":"42","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28","inch":"11.02"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"44.5","BR":"42.5","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"47","vid":200000339},{"countrySizeMap":{"EU":"45.5","BR":"43.5","JP":"29","UK":"11","KR":"290","MX":"29","US":"12"},"length":{"cm":"29","inch":"11.42"},"size":"48","vid":200000900},{"countrySizeMap":{"EU":"46","BR":"44","JP":"29.5","UK":"11.5","KR":"295","MX":"29.5","US":"12.5"},"length":{"cm":"29.5","inch":"11.61"},"size":"49","vid":100010488},{"countrySizeMap":{"EU":"47","BR":"45","JP":"30","UK":"12.5","KR":"300","MX":"30","US":"13.5"},"length":{"cm":"30","inch":"11.81"},"size":"50","vid":200000901}]}sole material: rubberstyle: Businessupper height: low top
-  Updated: 2026-03-09T17:12:23Z
+  Updated: 2026-03-13T16:06:27Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8024,7 +8024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa85ba42581a54f51bb9cc2e1c392462dh.webp?v=1772117620
     Price: $26.99 USD
 - [2026Running Shoes Carbon Board Men Speciality Marathon Sports Breathable Lightweight Women's Comfortable Nonskid Chunta Sneakers](https://kenner-house.myshopify.com/products/2026running-shoes-carbon-board-men-speciality-marathon-sports-breathable-lightweight-womens-comfortable-nonskid-chunta-sneakers): SPECIFICATIONSBrand Name: NONEClosure Type: Lace-UpDepartment Name: AdultFashion Element: SewingFeature: Breathable,Massage,light,Hard-Wearing,Anti-odor,Shock ResistantFit: True to SizeGender: MenHigh-concerned chemical: NoneInsole Material: EVAItem Type: Casual ShoesLining Material: SilkOccasion: SPORTOrigin: Mainland ChinaOutsole Material: EVAPattern Type: GeometricSeason: Spring/AutumnShoes Type: Sports shoesToe Shape: Round ToeUpper Material: Air MeshUpper coverage: Not above ankleUpper fixing method: stitchingWhether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : Nonesize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"32","BR":"30","JP":"21","UK":"1.5","KR":"210","MX":"21","US":"2"},"length":{"cm":"21","inch":"8.27"},"size":"32","vid":200000331},{"countrySizeMap":{"EU":"33","BR":"31","JP":"21.5","UK":"2","KR":"215","MX":"21.5","US":"2.5"},"length":{"cm":"21.5","inch":"8.46"},"size":"33","vid":200000332},{"countrySizeMap":{"EU":"34","BR":"32","JP":"22","UK":"3","KR":"220","MX":"22","US":"3"},"length":{"cm":"22","inch":"8.66"},"size":"34","vid":100010481},{"countrySizeMap":{"EU":"35","BR":"33","JP":"22.5","UK":"3.5","KR":"225","MX":"22.5","US":"4"},"length":{"cm":"22.5","inch":"8.86"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"36","BR":"34","JP":"23","UK":"4","KR":"230","MX":"23","US":"4.5"},"length":{"cm":"23","inch":"9.06"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4.5","KR":"235","MX":"23.5","US":"5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"39","BR":"37","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"41","BR":"39","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"42","BR":"40","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"43","BR":"41","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"44","BR":"42","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27","inch":"10.63"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"45","BR":"43","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"46","BR":"44","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28","inch":"11.02"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"47","BR":"45","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"47","vid":200000339},{"countrySizeMap":{"EU":"48","BR":"46","JP":"29","UK":"11","KR":"290","MX":"29","US":"12"},"length":{"cm":"29","inch":"11.42"},"size":"48","vid":200000900}]}
-  Updated: 2026-03-09T17:12:24Z
+  Updated: 2026-03-13T16:02:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8230,7 +8230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb99eda872ec244368338470a0673c311b.webp?v=1772117622
     Price: $42.99 USD
 - [2026 Women Square Scarf Silk Imitation Print Neckerchief Bandana Lady Shawl Scarves Wrap Head Hair Band Ties](https://kenner-house.myshopify.com/products/2026-women-square-scarf-silk-imitation-print-neckerchief-bandana-lady-shawl-scarves-wrap-head-hair-band-ties): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: GeschillyChoice: yesCraft of Weaving: TattingDepartment Name: AdultFashion print: Women headbandsFeature: MultifunctionGender: WomenHigh-concerned chemical: NoneItem Type: ScarvesMaterial: POLYESTEROrigin: Mainland ChinaPattern Type: PrintScarves Length: 60cm-80cmScarves Type: ScarfSize: about 65-70cmStyle: Fashion
-  Updated: 2026-03-09T17:12:24Z
+  Updated: 2026-03-13T13:09:50Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8252,7 +8252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S73d2ba5badfc4406aedf9259d0f76b70s.webp?v=1772117625
     Price: $5.99 USD
 - [2026 Women Square Scarf Silk Imitation Floral Print Neckerchief Bandana Lady Shawl Scarves Wrap Head Hair Band Ties](https://kenner-house.myshopify.com/products/2026-women-square-scarf-silk-imitation-floral-print-neckerchief-bandana-lady-shawl-scarves-wrap-head-hair-band-ties): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: GeschillyChoice: yesCraft of Weaving: TattingDepartment Name: AdultFashion print: Women headbandsFeature: MultifunctionGender: WomenHigh-concerned chemical: NoneItem Type: ScarvesMaterial: POLYESTEROrigin: Mainland ChinaPattern Type: PrintScarves Length: 60cm-80cmScarves Type: ScarfSize: about 65-70cmStyle: Fashion
-  Updated: 2026-03-09T17:12:24Z
+  Updated: 2026-03-13T16:05:05Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8274,14 +8274,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S58ef4e334e0a4e9c92dc911aabddd6b7x.webp?v=1772117626
     Price: $4.99 USD
 - [10pcs Aluminium Smart Rfid Blocking Bank Sleeve Wallet, RFID Protection Simple Card Holder](https://kenner-house.myshopify.com/products/10pcs-aluminium-smart-rfid-blocking-bank-sleeve-wallet-rfid-protection-simple-card-holder): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-09T17:12:24Z
+  Updated: 2026-03-13T13:09:51Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Secf63a3aef4748c997c5b0c206b59574o.webp?v=1772117625
   Price: $2.99 USD
 - [Magnetic Wallet &Card Holder with RFID Blocking Function for iPhone 17 16 15 14 Pro/ Pro Max/13 Pro Max/13 12 Pro MagSafe Wallet](https://kenner-house.myshopify.com/products/magnetic-wallet-card-holder-with-rfid-blocking-function-for-iphone-17-16-15-14-pro-pro-max-13-pro-max-13-12-pro-magsafe-wallet): SPECIFICATIONSApplicable models: iphone 15 Pro,iphone 15 Pro Max,iphone 14 Pro,iphone 14 Pro Max,iphone 13 Pro,iphone 13 Pro MaxBrand Name: PROfezzionCharger: NoChoice: yesColor: Black/ Pink/ Brown/ Blue/ WhiteCompatible Brand: UniversalFeatures: MagneticHas Speaker: NoHigh-concerned chemical: NoneMaterial: ABS+Silicone+MetalModel Number: PMSW-SW1Net Weight: 100gOrigin: Mainland ChinaType: Magnetic Holder
-  Updated: 2026-03-09T17:12:24Z
+  Updated: 2026-03-13T16:00:37Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8307,7 +8307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sacd1488d5fad41269deb1bce75444b993.webp?v=1772117626
     Price: $37.99 USD
 - [Men's Wallets RFID Blocking Genuine Leather Trifold Business Short Purse Wallet for Men with ID Window and  Holder](https://kenner-house.myshopify.com/products/mens-wallets-rfid-blocking-genuine-leather-trifold-business-short-purse-wallet-for-men-with-id-window-and-credit-card-holder): SPECIFICATIONSBrand Name: MOONBIFFYCN: Guangdong,Guangdong,hubeiClosure Type: No ZipperDecoration: NoneGender: UnisexGenuine Leather Type: Cow LeatherHigh-concerned chemical: NoneInterior: Coin Pocket,Photo Holder,Card HolderItem Height: 12cmItem Length: 9.5cmItem Type: WalletItem Width: 1.5cmLining Material: POLYESTERMain Material: Genuine LeatherMaterial Composition: Genuine LeatherOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Style: FashionWallet Length: Short (4 - 16 Inch)Wallets: Standard Walletscolor: coffee,brown,blue graystyle 1: fashionstyle 2: Multifunctionstyle 3: vintagetyps: Anti-theft brush wallet
-  Updated: 2026-03-09T17:12:24Z
+  Updated: 2026-03-13T16:03:08Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8337,7 +8337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Se422cbc596974d5eb337ecdf20651ffbU.webp?v=1772117627
     Price: $12.99 USD
 - [RFID Blocking Car Key & Cell Phone Signal Shield Faraday Wallet with GPS Protection & Anti-Theft Privacy Pouch](https://kenner-house.myshopify.com/products/rfid-blocking-car-key-cell-phone-signal-shield-faraday-wallet-with-gps-protection-anti-theft-privacy-pouch): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneMaterial: NylonOrigin: Mainland China
-  Updated: 2026-02-27T19:56:54Z
+  Updated: 2026-03-13T13:09:55Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8345,21 +8345,21 @@
   - [Red](https://kenner-house.myshopify.com/products/rfid-blocking-car-key-cell-phone-signal-shield-faraday-wallet-with-gps-protection-anti-theft-privacy-pouch?variant=44155861237843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S1c2d13a836704c9e9ccec685f4f94f17q.webp?v=1772117627
-    Price: $5.19 USD
+    Price: $9.99 USD
   - [Blue](https://kenner-house.myshopify.com/products/rfid-blocking-car-key-cell-phone-signal-shield-faraday-wallet-with-gps-protection-anti-theft-privacy-pouch?variant=44155861270611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sba92ed290ca94dab834954005fe235cfD.webp?v=1772117627
-    Price: $5.23 USD
+    Price: $9.99 USD
   - [black](https://kenner-house.myshopify.com/products/rfid-blocking-car-key-cell-phone-signal-shield-faraday-wallet-with-gps-protection-anti-theft-privacy-pouch?variant=44155861303379)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S2dbe29b692d348988f6ae7f2f41f6b10r.webp?v=1772117627
-    Price: $5.00 USD
+    Price: $9.99 USD
   - [GRAY](https://kenner-house.myshopify.com/products/rfid-blocking-car-key-cell-phone-signal-shield-faraday-wallet-with-gps-protection-anti-theft-privacy-pouch?variant=44155861336147)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8a9c91e3b2f344efa7db325cdc74a7221.webp?v=1772117627
-    Price: $5.14 USD
+    Price: $9.99 USD
 - [2026 Men's Dress Shoes Britain Casual Shoes High End Designer Suede Loafers for Man Luxury Banquet Wedding Shoes Zapatos Hombre](https://kenner-house.myshopify.com/products/2026-mens-dress-shoes-britain-casual-shoes-high-end-designer-suede-loafers-for-man-luxury-banquet-wedding-shoes-zapatos-hombre): SPECIFICATIONSBrand Name: VBCXClosure Type: Slip-OnDepartment Name: AdultFashion Element: BuckleFaux Suede Driving Shoes Fashion: Formal Loafers Men's Leather ShoesFeature: Breathable,Waterproof,Sweat-Absorbant,light,Hard-Wearing,All Weather Grip,Anti-odor,Shock ResistantFit: True to SizeGender: MenHigh-concerned chemical: NoneInsole Material: PUItem Type: Casual ShoesLining Material: PUOccasion: DressOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSeason: Spring/AutumnShoes Type: LoafersToe Shape: Round ToeUpper Material: SyntheticUpper coverage: Not above ankleUpper fixing method: stickingWhether waterproof: YesWhether with metal toe cap: NoWith or install Professional accessories : Nonesize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39.5","BR":"37.5","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"41","BR":"39","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"39.5","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"42.5","BR":"40.5","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27","inch":"10.63"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"43","BR":"41","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"44","BR":"42","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28","inch":"11.02"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"44.5","BR":"42.5","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"47","vid":200000339},{"countrySizeMap":{"EU":"45.5","BR":"43.5","JP":"29","UK":"11","KR":"290","MX":"29","US":"12"},"length":{"cm":"29","inch":"11.42"},"size":"48","vid":200000900},{"countrySizeMap":{"EU":"46","BR":"44","JP":"29.5","UK":"11.5","KR":"295","MX":"29.5","US":"12.5"},"length":{"cm":"29.5","inch":"11.61"},"size":"49","vid":100010488},{"countrySizeMap":{"EU":"47","BR":"45","JP":"30","UK":"12.5","KR":"300","MX":"30","US":"13.5"},"length":{"cm":"30","inch":"11.81"},"size":"50","vid":200000901},{"countrySizeMap":{"EU":"48","BR":"46","JP":"30.5","UK":"13","KR":"305","MX":"30.5","US":"14"},"length":{"cm":"30.5","inch":"12.01"},"size":"51","vid":200000340},{"countrySizeMap":{"EU":"48.5","BR":"46.5","JP":"31","UK":"13.5","KR":"310","MX":"31","US":"14.5"},"length":{"cm":"31","inch":"12.20"},"size":"52","vid":200000902},{"countrySizeMap":{},"length":{"cm":"31.5","inch":"12.40"},"size":"53","vid":200000341}]}
-  Updated: 2026-03-09T17:12:25Z
+  Updated: 2026-03-13T16:04:02Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8497,7 +8497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8d8cc845d6d746c1abac67a647aaed08M.webp?v=1772117629
     Price: $20.99 USD
 - [Summer Cotton Linen Casual Home 2 Piece Set For Women 2024 Fashion White Long Sleeve Shirt And Shorts Two Piece Sets Tracksuit](https://kenner-house.myshopify.com/products/summer-cotton-linen-casual-home-2-piece-set-for-women-2024-fashion-white-long-sleeve-shirt-and-shorts-two-piece-sets-tracksuit): SPECIFICATIONSAge: Middle AgeBrand Name: owner girlCN: GuangdongClosure Type: Single BreastedClothing Length: regularClothing Patterns: LooseCollar: Turn-Down CollarCraft of Weaving: TattingDecoration: Pockets,ButtonElasticity: Non StrechFabric Type: Cotton linenFabric content: 71% (inclusive) - 80% (inclusive)Fit Type: LooseGender: WomenHigh-concerned chemical: NoneMaterial: POLYESTERMaterial Composition: synthetic fiberModel Number: WS99133Origin: Mainland ChinaPant Closure Type: Elastic WaistPant Length(cm): shortsPant Style: regularPattern Type: SolidPlace Of Origin: China (mainland)Release Date: Spring 2024Season: Spring/SummerSleeve Length(cm): FullSleeve Style: regularStyle: Office Lady
-  Updated: 2026-03-09T17:12:25Z
+  Updated: 2026-03-13T16:03:50Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8671,7 +8671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S858a829b8e674334b05af5e53d2b148fU.webp?v=1772117630
     Price: $14.99 USD
 - [Rilakkuma Hair Clips for Girls Kawaii Relax Bear Hairpin Women Bangs Bobby Pin Fashion Duckbill Clip Kids Hairs Ornaments Gift](https://kenner-house.myshopify.com/products/rilakkuma-hair-clips-for-girls-kawaii-relax-bear-hairpin-women-bangs-bobby-pin-fashion-duckbill-clip-kids-hairs-ornaments-gift): SPECIFICATIONSBrand Name: PotdemielChoice: yesHairpin classification: Bangs clipHigh-concerned chemical: NoneItem Type: ModelOrigin: Mainland ChinaProduct Category: headdressRecommend Age: 14+yStyle classification: Fresh and sweetTheme: AnimalsTreatment process: manualUse holidays/gifts: Christmas/Xmas/baby shower/gender reveal/birthday/Halloweenapplicable population: woman/man/Student/Teens/Children/Kids/Boy/Girl//Elderlycolor: Coffee/Whitepop element: bearsemi_Choice: yesstyle: Cute/Kawaii/Fashion/Anime/Cartoon
-  Updated: 2026-03-09T17:12:25Z
+  Updated: 2026-03-13T16:00:09Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8697,7 +8697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0ab7d48129544685b3020c15f8e221cc7.webp?v=1772117629
     Price: $3.29 USD
 - [Spring 2025 Women's Faion Versatile Slimming Denim Vest High Waist Pants Set 25-35 Years Old Spring Collection 377702](https://kenner-house.myshopify.com/products/spring-2025-womens-faion-versatile-slimming-denim-vest-high-waist-pants-set-25-35-years-old-spring-collection-377702): SPECIFICATIONSAge: 25-35 years oldBrand Name: others
-  Updated: 2026-03-09T17:12:25Z
+  Updated: 2026-03-13T16:04:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8735,7 +8735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7425fbdd53f84c4da1a17bc05ac04f78M.webp?v=1772117629
     Price: $56.99 USD
 - [2026 Women Elegant Dresses V Neck Short Sleeves Pleated Waist Belt 3D Flowers Classy Church Business Party Female African New](https://kenner-house.myshopify.com/products/2026-women-elegant-dresses-v-neck-short-sleeves-pleated-waist-belt-3d-flowers-classy-church-business-party-female-african-new): SPECIFICATIONSAge: Middle AgeBrand Name: NONECN: GuangdongClosure Type: ZipperCraft of Weaving: TattingDecoration: AppliquesDresses Length: Mid-CalfElasticity: Slight StrechFabric Type: POLYESTERFit Type: LooseGender: WomenHigh-concerned chemical: NoneMaterial: POLYESTERMaterial Composition: synthetic fiberModel Number: C8652Neckline: V-NeckOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Profile Type: ARelease Date: Summer 2025Season: Spring/SummerSilhouette: A-LINESleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: regularStyle: Office LadyType: regularWaistline: Natural
-  Updated: 2026-03-09T17:12:26Z
+  Updated: 2026-03-13T16:05:11Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8909,7 +8909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7ceaf662766e4f18b6784166546414f7V.webp?v=1772117632
     Price: $36.99 USD
 - [Women's Summer Long Dresses 2026 Spring Fall New Clothes Blue Puff Sleeves Botton Simple Casual Maxi Shirts Dresses for Women](https://kenner-house.myshopify.com/products/womens-summer-long-dresses-2026-spring-fall-new-clothes-blue-puff-sleeves-botton-simple-casual-maxi-shirts-dresses-for-women): SPECIFICATIONSAge: Middle AgeBrand Name: OSHOPLIVECN: GuangdongChoice: yesClosure Type: Single BreastedCraft of Weaving: TattingDecoration: NoneDresses Length: Ankle-LengthElasticity: Non StrechFabric Type: cotton blendFit Type: LooseGender: WomenHigh-concerned chemical: NoneMaterial: POLYESTER,SpandexMaterial Composition: synthetic fiberModel Number: 178492Neckline: Turn-Down CollarOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Profile Type: HRelease Date: Summer 2024Season: Spring/SummerSilhouette: LooseSleeve Length(cm): SleevelessSleeve Style: regularStyle: Office Lady,fashion Simple shirts dressType: regularWaistline: Naturalpackage: dresses
-  Updated: 2026-03-09T17:12:26Z
+  Updated: 2026-03-13T16:02:54Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8927,7 +8927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sfaf1841789dc495b91f7f6b0a6ce8ec5H.webp?v=1772117631
     Price: $46.99 USD
 - [Women shoulder bag Handbags Bag for 2026 women leather crossbody luxury designer handbag  bags for women](https://kenner-house.myshopify.com/products/women-shoulder-bag-handbags-bag-for-2026-women-leather-crossbody-luxury-designer-handbag-bags-for-women): SPECIFICATIONSBrand Name: YSHKYCN: GuangdongClosure Type: HaspDecoration: LetterExterior: NoneGender: WomenHardness: HARDHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: PUOrigin: Mainland ChinaPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: Casual ToteStyle: Fashionbags for women: bolso mujerbags for women 2026 new luxury handbags: tote bags for womenbags luxury handbags: sac a main femmes tendance2022
-  Updated: 2026-03-09T17:12:26Z
+  Updated: 2026-03-13T16:03:43Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8945,7 +8945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc9f23cb1ee2e49afaa35125755be0d72M.webp?v=1772117631
     Price: $18.99 USD
 - [Bonnie Rabbit Plush Toy with Floral Ears Kawaii Stuffed Doll Soft Sofa Cushion Kids Birthday Gift Room Decor](https://kenner-house.myshopify.com/products/bonnie-rabbit-plush-toy-with-floral-ears-kawaii-stuffed-doll-soft-sofa-cushion-kids-birthday-gift-room-decor): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesDimensions: 30cmFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: PlushModel Number: 150Origin: Mainland ChinaRecommend Age: 18+Warning: no
-  Updated: 2026-03-09T17:12:26Z
+  Updated: 2026-03-13T16:06:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8967,7 +8967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S10814095e1854700a5711fb2e027da61f.webp?v=1772117631
     Price: $17.99 USD
 - [Portable Speakers Outdoor Bluetooth 5.0 Mini Oxford Loudspeaker Wireless Column 3D Stereo Music Player Surround Hifi sound Box](https://kenner-house.myshopify.com/products/portable-speakers-outdoor-bluetooth-5-0-mini-oxford-loudspeaker-wireless-column-3d-stereo-music-player-surround-hifi-sound-box): SPECIFICATIONSBrand Name: otherChoice: yesHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-09T17:12:26Z
+  Updated: 2026-03-13T16:04:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8993,7 +8993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0b8b2b6579744a1ba5358bcda37e9031x.webp?v=1772117632
     Price: $6.99 USD
 - [Jc Plush Bashful Beige Bunny Birthday Holding Cupcake Muffin Soft Stuffed Plush Toy Sofa Pillow Decoration Desktop Ornament Gift](https://kenner-house.myshopify.com/products/jc-plush-bashful-beige-bunny-birthday-holding-cupcake-muffin-soft-stuffed-plush-toy-sofa-pillow-decoration-desktop-ornament-gift): SPECIFICATIONSBrand Name: JELLYCATCertification: CEChoice: yesDimensions: 23cmFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: Short PlushModel Number: Bashful Beige Bunny BirthdayOrigin: Mainland ChinaRecommend Age: 18+,14+yWarning: no fire
-  Updated: 2026-03-09T17:12:27Z
+  Updated: 2026-03-13T16:01:45Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9007,7 +9007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S898f9b9e6a824b7ab6c58ca04c5caeb8Q.webp?v=1772117748
     Price: $28.99 USD
 - [Vintage Butterfly Necklace Women Golden Stainless Steel Blade Snake Chains Aesthetic Charms Choker Women jewelry Gift To Mujer](https://kenner-house.myshopify.com/products/vintage-butterfly-necklace-women-golden-stainless-steel-blade-snake-chains-aesthetic-charms-choker-women-jewelry-gift-to-mujer): SPECIFICATIONSBrand Name: dancing bulletCN: ZhejiangChain Type: Snake ChainCompatibility: All CompatibleFine or Fashion: FashionFunction: fitness trackerGender: WomenHigh-concerned chemical: NoneItem Type: NECKLACESMaterial: MetalMetals Type: TitaniumModel Number: X2107Necklace Type: Pendant NecklacesOccasion: PartyOrigin: Mainland ChinaPendant Size: 1.4*1.4cmSetting Material: NoneShape\pattern: InsectStyle: TRENDY
-  Updated: 2026-03-09T17:12:27Z
+  Updated: 2026-03-13T16:04:24Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9069,7 +9069,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sd3b4b1e9848b496aaa139668bfe87c44r.webp?v=1772117749
     Price: $6.99 USD
 - [Women Flora Print Notched Neck Batwing Sleeve Blouse Ladies Tops Shirts](https://kenner-house.myshopify.com/products/women-flora-print-notched-neck-batwing-sleeve-blouse-ladies-tops-shirts): SPECIFICATIONSAge: Middle AgeBrand Name: KARELLIECN: ZhejiangChoice: yesClosure Type: NoneClothing Length: regularClothing Patterns: LooseCollar: V-NeckCombination Form: Single-piece SetCraft of Weaving: TattingDecoration: PrintingDress Patterns: PulloverElasticity: Non StrechFabric Type: ChiffonFabric content: 96% and aboveFit Type: Regular FitGender: WomenHigh-concerned chemical: NoneMaterial: POLYESTERMaterial Composition: synthetic fiberModel Number: W151376Origin: Mainland ChinaPattern Type: FloralPlace Of Origin: China (mainland)Season: All SeasonShirts Type: Casual ShirtsSleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: Batwing SleeveStyle: CasualThickness: Thinsize_info: {"sizeInfoList":[{"length":{"cm":"101","inch":"39.76"},"size":"S","vid":100014064},{"length":{"cm":"105","inch":"41.34"},"size":"M","vid":361386},{"length":{"cm":"111","inch":"43.70"},"size":"L","vid":361385},{"length":{"cm":"117","inch":"46.06"},"size":"XL","vid":100014065},{"length":{"cm":"123","inch":"48.43"},"size":"XXL","vid":4182}]}whether full opening: No
-  Updated: 2026-03-09T17:12:27Z
+  Updated: 2026-03-13T16:01:25Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9095,7 +9095,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sdbbee45be1be4aa48065706b6ec1e1b1e.webp?v=1772117749
     Price: $19.99 USD
 - [Women Chiffon Short Sleeve Shirt Sexy V-neck Loose Ruffled Chiffon Blouse.](https://kenner-house.myshopify.com/products/women-chiffon-short-sleeve-shirt-sexy-v-neck-loose-ruffled-chiffon-blouse): SPECIFICATIONSAge: Middle AgeBrand Name: HELABESCN: GuangdongChoice: yesClothing Length: regularElasticity: Non StrechFabric Type: ChiffonFit Type: LooseGender: WomenMaterial: Microfiber,NylonOrigin: Mainland ChinaPattern Type: SolidSeason: Spring/SummerStyle: CasualThickness: Lightweight
-  Updated: 2026-03-09T17:12:27Z
+  Updated: 2026-03-13T16:07:00Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9241,7 +9241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S81b806ed6d914c2f86d0cbf9d0454bd6k.webp?v=1772117750
     Price: $6.99 USD
 - [Plus Size Shirts New V-neck Summer Elegant Women's Blouses Solid Color Loose Short Sleeve Casual White Office Lady Tops Clothing](https://kenner-house.myshopify.com/products/plus-size-shirts-new-v-neck-summer-elegant-womens-blouses-solid-color-loose-short-sleeve-casual-white-office-lady-tops-clothing): SPECIFICATIONSAge: Middle AgeBrand Name: ROSA FERACN: GuangdongChoice: yesClosure Type: NoneClothing Length: regularCollar: V-NeckCraft of Weaving: Non-WovenElasticity: Non StrechFabric Type: synthetic fiberFit Type: Regular FitGender: WomenHigh-concerned chemical: NoneMaterial: POLYESTER,SpandexOrigin: Mainland ChinaPattern Type: WILDPlace Of Origin: China (mainland)Season: All SeasonSleeve Length(cm): Three QuarterSleeve Style: regularStyle: Fashionablewhether full opening: No
-  Updated: 2026-03-09T17:12:28Z
+  Updated: 2026-03-13T16:05:07Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9267,7 +9267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/See4fa4853c0547edaf4ad339ca925c67U.webp?v=1772117749
     Price: $16.99 USD
 - [Jellycat plush New Bartholomew Bear Series Plush Toys Eggplant Bear Love Bear Cute Plush Toy Baby Comfort Child Birthday Gift](https://kenner-house.myshopify.com/products/jellycat-plush-new-bartholomew-bear-series-plush-toys-eggplant-bear-love-bear-cute-plush-toy-baby-comfort-child-birthday-gift): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesDimensions: 30cmGender: UnisexHigh-concerned chemical: NoneItem Type: Anime AccessoriesMaterial: PlushModel Number: 150Origin: Mainland ChinaRecommend Age: 18+Warning: no
-  Updated: 2026-03-09T17:12:28Z
+  Updated: 2026-03-13T16:04:34Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9321,7 +9321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S360c315988a4481ca2abdfda491f713ai.webp?v=1772117750
     Price: $14.99 USD
 - [360Pcs Pokemon Destined Rivals Prismatic Evolutions Card Stellar Crown 151 Ultra Prism English Booster Battle Transaction Gifts](https://kenner-house.myshopify.com/products/360pcs-pokemon-destined-rivals-prismatic-evolutions-card-stellar-crown-151-ultra-prism-english-booster-battle-transaction-gifts): SPECIFICATIONSBrand Name: PotdemielCertification: CE,Europe  (CE)Choice: yesHigh-concerned chemical: NoneModel Number: pokemonOrigin: Mainland ChinaRecommend Age: 18+Theme: Fantasy & Sci-FiWarning: no
-  Updated: 2026-03-09T17:12:28Z
+  Updated: 2026-03-13T16:04:23Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9462,42 +9462,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sec6a6eba70b44534bf6bbd6307cc1075C.webp?v=1772117752
     Price: $4.71 USD
-- [Bag Woman Large Capacity Leather Purse Fashion Designer Top Handle Handbags Women Crossbody Large Bags for Women](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: QJBYCN: GuangdongExterior: Silt PocketGender: WomenHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot Pocket,Cell Phone Pocket,Interior Zipper Pocket,Interior CompartmentItem Weight: 1Lining Material: POLYESTERMain Material: PUModel Number: 6111Occasion: VersatileOrigin: Mainland ChinaPattern Type: KnittingPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: HobosStyle: Fashion
-  Updated: 2026-02-27T19:55:53Z
-  Vendor: Kenner House Emporium
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc4cc5d2461b845a884ffa4181fe9ddc2T.webp?v=1772133128
-  - [Orange](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women?variant=44156206776403)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S383c7082b62c441f9a32761676711716T.webp?v=1772133128
-    Price: $55.63 USD
-  - [Yellow](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women?variant=44156206809171)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc6a003b0bf234130af6048032e4c4df0S.webp?v=1772133128
-    Price: $55.63 USD
-  - [black](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women?variant=44156206841939)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa8edf539f8a84ddca3ac697a2b2d5f2e8.webp?v=1772133127
-    Price: $55.63 USD
-  - [GRAY](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women?variant=44156206874707)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S879d7ce25ab941bc9bb242821eeb979bl.webp?v=1772133128
-    Price: $55.63 USD
-  - [Red](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women?variant=44156206907475)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa3581d1fd7a443b3bdc3efeeb8be4506d.webp?v=1772133128
-    Price: $55.63 USD
-  - [camel](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women?variant=44156206940243)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S714bd6be62c54e0d81938516cb4116eaz.webp?v=1772133127
-    Price: $55.63 USD
-  - [green](https://kenner-house.myshopify.com/products/bag-woman-large-capacity-leather-purse-fashion-designer-top-handle-handbags-women-crossbody-large-bags-for-women?variant=44156206973011)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S2ccd6d0e98644134892a4ba45716d92fP.webp?v=1772133128
-    Price: $55.63 USD
 - [Handbags for Women 2026 New Gold Luxury Designer Brand Handwoven Noodle Bags Rope Knotted Pulled Hobo Silver Evening Clutch Chic](https://kenner-house.myshopify.com/products/handbags-for-women-2026-new-gold-luxury-designer-brand-handwoven-noodle-bags-rope-knotted-pulled-hobo-silver-evening-clutch-chic): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: NONECN: GuangdongChoice: yesClosure Type: ZipperDecoration: NoneExterior: NoneGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Zipper PocketItem Height: 27Item Length: 10Item Weight: 0.45Item Width: 25Lining Material: POLYESTERMain Material: PUModel Number: 7280111Number of Handles/Straps: SingleOccasion: Versatile,PartyOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: FLAPShoulder strap length: 110Style: FashionTypes of bags: Shoulder & Handbags
-  Updated: 2026-03-09T17:12:28Z
+  Updated: 2026-03-13T16:04:55Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9539,7 +9505,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Seaf476cab1df4a4cbc48c862b88f87d8W.webp?v=1772133129
     Price: $45.99 USD
 - [Bowling Spherical Women's Handbag Luxury Brand Designer Hobos Bag Fashion Mini Round Shoulder Bags PU Leather Female Purse](https://kenner-house.myshopify.com/products/bowling-spherical-womens-handbag-luxury-brand-designer-hobos-bag-fashion-mini-round-shoulder-bags-pu-leather-female-purse): SPECIFICATIONSBrand Name: REREKAXICN: ShandongChoice: yesClosure Type: HaspDecoration: LOCKExterior: Solid BagGender: WomenHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Zipper PocketLining Material: POLYESTERMain Material: PUModel Number: LY746HLOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: HE BEI Province,Hebei ProvinceShape: BowlingStyle: Fashionsemi_Choice: yes
-  Updated: 2026-03-09T17:12:29Z
+  Updated: 2026-03-13T13:11:09Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9569,7 +9535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S5fa5c368c9c44cef902d83115f5b9afdD.webp?v=1772133130
     Price: $21.99 USD
 - [New Bowling Handbag, Retro Handbag for Women, Large Capacity Carrying Pillow Bag](https://kenner-house.myshopify.com/products/new-bowling-handbag-retro-handbag-for-women-large-capacity-carrying-pillow-bag): SPECIFICATIONSApplicable Season: Autumn And WinterBrand Name: rilibeganCN: HebeiChoice: yesClosure Type: ZipperGender: WomenHigh-concerned chemical: NoneInterior: Interior Slot PocketLining Material: POLYESTERMain Material: Faux SuedeOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: HE BEI Province,Hebei ProvinceShape: BowlingStyle: Fashion
-  Updated: 2026-03-09T17:12:29Z
+  Updated: 2026-03-13T13:11:10Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9587,7 +9553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sbb37ed827b91490a89060c6c3774c63bO.webp?v=1772133130
     Price: $20.99 USD
 - [Fashionable style, elegant and luxurious handbag in the shape of a bucket, versatile and suitable for all occasions, single-shou](https://kenner-house.myshopify.com/products/fashionable-style-elegant-and-luxurious-handbag-in-the-shape-of-a-bucket-versatile-and-suitable-for-all-occasions-single-shou): SPECIFICATIONSApplicable Scenario: Daily StylingBag Shape: Bucket ShapeBag Size: MediumBrand Name: NONECN: GuangdongChoice: yesClosure Type: HaspGender: WomenHardness: Medium-SoftHigh-concerned chemical: NoneLining Material: POLYESTER,PUMain Material: PUMaterial: PUNumber of Shoulder Straps: Double StrapsOpening Method: Magnetic BuckleOrigin: Mainland ChinaPlace Of Origin: Guangdong ProvincePopular Element: LetterShape: Half MoonTrendy Bag Style: Bucket BagWith Compartment: Yes
-  Updated: 2026-03-09T17:12:29Z
+  Updated: 2026-03-13T13:11:10Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9605,7 +9571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Scae8fa7da8ab489f8ac1d41687e24b4eq.webp?v=1772133129
     Price: $56.99 USD
 - [Simple Handbag For Women PU Leather Shoulder Bag Fashion Small Handle Bag Designer Crossbody Bag Daily Lady Shopping Hand Pouch](https://kenner-house.myshopify.com/products/simple-handbag-for-women-pu-leather-shoulder-bag-fashion-small-handle-bag-designer-crossbody-bag-daily-lady-shopping-hand-pouch): SPECIFICATIONSBrand Name: YaLePuckCN: HebeiClosure Type: ZipperDecoration: NoneExterior: Silt PocketGender: WomenHandbags Type: Messenger BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot Pocket,Cell Phone Pocket,Interior Zipper Pocket,Interior CompartmentLining Material: POLYESTERMain Material: PUModel Number: Simple Handbag For Women PU Leather Shoulder Bag Fashion Small HandleNumber of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Hebei Province,HE BEI ProvinceShape: Casual ToteStyle: Casual
-  Updated: 2026-03-09T17:12:29Z
+  Updated: 2026-03-13T16:04:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9631,14 +9597,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S9cb69244999243b5980c9eb58df3a8a0i.webp?v=1772133130
     Price: $48.99 USD
 - [Bag Set: Tote Bag With Matching Purse,Designer Wing Style Women Underarm Shoulder Bag,Large Capacity Spacious Handbag,Burgundy](https://kenner-house.myshopify.com/products/bag-set-tote-bag-with-matching-purse-designer-wing-style-women-underarm-shoulder-bag-large-capacity-spacious-handbag-burgundy): SPECIFICATIONSBrand Name: NONECN: GuangdongDecoration: NoneGender: WomenHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Zipper PocketLining Material: POLYESTERMain Material: Microfiber Synthetic LeatherOrigin: Mainland ChinaPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: Casual ToteStyle: Fashion
-  Updated: 2026-03-09T17:12:30Z
+  Updated: 2026-03-13T13:11:12Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S894d49f34a4c4e95bbce5580b96e9126Q.webp?v=1772133131
   Price: $31.99 USD
 - [Boston Women's Bag 2025 New Fashionable and Versatile Handheld Soft Leather Casual Large Capacity Bag](https://kenner-house.myshopify.com/products/boston-womens-bag-2025-new-fashionable-and-versatile-handheld-soft-leather-casual-large-capacity-bag): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesGender: WomenHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: POLYESTEROrigin: Mainland ChinaPlace Of Origin: Guangdong ProvinceShape: Bucket
-  Updated: 2026-03-09T18:43:36Z
+  Updated: 2026-03-13T13:11:12Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9656,7 +9622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0fd6a74e063d4b19bffbac148c899faaz.webp?v=1772133133
     Price: $49.99 USD
 - [Exquisite Hand-Woven Large Capacity High Quality Hundreds of Solid Color Fashion Classic Style Women's Handbag](https://kenner-house.myshopify.com/products/exquisite-hand-woven-large-capacity-high-quality-hundreds-of-solid-color-fashion-classic-style-womens-handbag): SPECIFICATIONSBrand Name: chchCN: GuangdongClosure Type: OPENDecoration: LetterExterior: Open PocketGender: WomenHandbags Type: TotesHardness: SOFTHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: CottonModel Number: CN2C2094Number of Handles/Straps: twoOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: BucketStyle: CasualTypes of bags: Shoulder & Handbags
-  Updated: 2026-03-09T17:12:30Z
+  Updated: 2026-03-13T16:06:08Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9698,7 +9664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7a2801fb27cf4914b0a49ef690897b19T.webp?v=1772133133
     Price: $109.99 USD
 - [Bike Bag, Electric Bike Helmets Luggage Net, Handlebar Tube Hanging Baggage Mesh Pouch,Cycling Bag,Handbag Tote Bike Accessories](https://kenner-house.myshopify.com/products/bike-bag-electric-bike-helmets-luggage-net-handlebar-tube-hanging-baggage-mesh-pouch-cycling-bag-handbag-tote-bike-accessories): SPECIFICATIONSBrand Name: NONEChoice: yesFunction: FoldableHigh-concerned chemical: NoneMaterial: COTTONOrigin: Mainland ChinaType: handlebar bag
-  Updated: 2026-03-09T17:12:31Z
+  Updated: 2026-03-13T13:11:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9720,7 +9686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc64fb25d5cb04332949796fb4ac35f7cz.webp?v=1772133133
     Price: $6.99 USD
 - [Handmade Knit Handbag Women Knot Wrist Bag Casual Tote Bag Girls Reusable Shopping Bags Knit Handbag](https://kenner-house.myshopify.com/products/handmade-knit-handbag-women-knot-wrist-bag-casual-tote-bag-girls-reusable-shopping-bags-knit-handbag): SPECIFICATIONSBrand Name: NONECN: GuangdongGender: WomenHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: Milk CottonOrigin: Mainland ChinaPlace Of Origin: Guangdong ProvinceShape: Bucket
-  Updated: 2026-03-09T17:12:31Z
+  Updated: 2026-03-13T16:04:43Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9742,14 +9708,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S437f858c7dce40cb960c004af7ed3948m.webp?v=1772133132
     Price: $4.29 USD
 - [High Quality Handbag Women Designer Shoulder Bag Large Capacity Office Pocket Embossed Diagonal Cross Bag Official Document Bag](https://kenner-house.myshopify.com/products/high-quality-handbag-women-designer-shoulder-bag-large-capacity-office-pocket-embossed-diagonal-cross-bag-official-document-bag): SPECIFICATIONSBrand Name: SZHIYCN: HebeiClosure Type: ZipperDecoration: NoneExterior: NoneFashion Bags For Women Color: GreenFashion Shoudler Bag Usage: Luxury Designer Shoulder BagFashion Shoulder Bag Size: 33*13*27.5cmGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Cell Phone Pocket,Interior Zipper PocketLining Material: POLYESTERMain Material: PUModel Number: Designer PackageNumber of Handles/Straps: SingleOccasion: Versatile,VersatileOrigin: Mainland ChinaPattern Type: FloralPlace Of Origin: Hebei Province,HE BEI ProvinceShape: Casual ToteStyle: FashionTypes of bags: Shoulder & Crossbody Bags
-  Updated: 2026-03-09T17:12:31Z
+  Updated: 2026-03-13T16:04:35Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sd94faeb146b143299cc211fa73224230X.webp?v=1772133133
   Price: $84.99 USD
 - [The 2025 new hand-held woven bag with lines is a unique, high-end, individual and fashionable handbag for women](https://kenner-house.myshopify.com/products/the-2025-new-hand-held-woven-bag-with-lines-is-a-unique-high-end-individual-and-fashionable-handbag-for-women): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesClosure Type: HaspDecoration: TasselExterior: Solid BagGender: WomenHardness: HARDHigh-concerned chemical: NoneInterior: No PocketLining Material: POLYESTERMain Material: PUModel Number: 25022Occasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: Casual ToteStyle: Casual
-  Updated: 2026-03-09T17:12:31Z
+  Updated: 2026-03-13T16:10:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9783,7 +9749,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S5642d1c833b940ad870e197b4350b43dP.webp?v=1772133133
     Price: $52.99 USD
 - [Elegant Women's Large Capacity Handbag，Shoulder Bag - With detachable shoulder straps，Chic champagne color handbag，Work Bag](https://kenner-house.myshopify.com/products/elegant-womens-large-capacity-handbag-shoulder-bag-with-detachable-shoulder-straps-chic-champagne-color-handbag-work-bag): SPECIFICATIONSBrand Name: otherCN: GuangdongChoice: yesClosure Type: ZipperExterior: NoneGender: WomenHardness: HARDHigh-concerned chemical: NoneInterior: Interior Slot PocketLining Material: POLYESTERMain Material: PUOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: Casual ToteStyle: Casual
-  Updated: 2026-03-09T17:12:32Z
+  Updated: 2026-03-13T16:06:59Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9797,7 +9763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb08a85c74c654defb2464e455195e91bL.webp?v=1772133134
     Price: $28.99 USD
 - [Business Handbags For Women 2022 Luxury Designer Handbag Pure Color Big Capacity Shoulder Crossbody Bags Branded Top-handle Tote](https://kenner-house.myshopify.com/products/business-handbags-for-women-2022-luxury-designer-handbag-pure-color-big-capacity-shoulder-crossbody-bags-branded-top-handle-tote): SPECIFICATIONSBrand Name: Moods BoutiqueCN: HebeiClosure Type: Zipper & HaspColor: Black; Green; Brown; Yellow; KhakiDecoration: NoneExterior: NoneGender: WomenHandle Drop: 14cmHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot Pocket,Interior Zipper PocketLining Material: POLYESTERMain Material: PUModel Number: Business Handbags For WomenOccasion: BusinessOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: HE BEI Province,Hebei ProvinceShape: SAFFIANOShoulder Strap: 120cmSize: 32*24.5*13cmStyle: BusinessWeight: 0.74kg
-  Updated: 2026-03-09T17:12:32Z
+  Updated: 2026-03-13T16:05:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9831,7 +9797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc98407c154804becafd636e952c3113fp.webp?v=1772133134
     Price: $60.99 USD
 - [Men Drop Leg Bag Waist Bag for Men Fanny Pack Phone Purse Motorcycle Riding Shoulder Cross Body Thigh Male Hip Belt Waist Bags](https://kenner-house.myshopify.com/products/men-drop-leg-bag-waist-bag-for-men-fanny-pack-phone-purse-motorcycle-riding-shoulder-cross-body-thigh-male-hip-belt-waist-bags): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneItem Diameter: /Item Height: /Item Length: /Item Weight: /Item Width: /Material: /Model Name: /Origin: Mainland ChinaSpecial Features: /
-  Updated: 2026-03-09T17:12:32Z
+  Updated: 2026-03-13T16:06:50Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9849,7 +9815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb885c9a88a6b4f67829a43eab3daadcan.webp?v=1772133135
     Price: $16.99 USD
 - [Hobo Bag Leather Women Handbags Female Leisure Shoulder Bags Fashion Purses Vintage Bolsas Large Capacity Tote bag](https://kenner-house.myshopify.com/products/hobo-bag-leather-women-handbags-female-leisure-shoulder-bags-fashion-purses-vintage-bolsas-large-capacity-tote-bag): SPECIFICATIONSBrand Name: NONECN: GuangdongClosure Type: ZipperExterior: Silt PocketGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Cell Phone Pocket,Interior Zipper Pocket,Interior CompartmentLining Material: POLYESTERMain Material: PUNumber of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: BucketStyle: FashionTypes of bags: Shoulder & Handbags
-  Updated: 2026-03-09T17:12:33Z
+  Updated: 2026-03-13T16:05:36Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9879,14 +9845,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa09b62f7218e43819f8f76bf02ec0b5au.webp?v=1772133136
     Price: $56.99 USD
 - [A practical fishing gear bag - canvas waist bag crossbody shoulder bag, universal travel sports bag](https://kenner-house.myshopify.com/products/a-practical-fishing-gear-bag-canvas-waist-bag-crossbody-shoulder-bag-universal-travel-sports-bag): SPECIFICATIONSBrand Name: DUTRIEUXChoice: yesHigh-concerned chemical: NoneOrigin: Mainland ChinaWith Rack or Not: No
-  Updated: 2026-03-09T17:12:33Z
+  Updated: 2026-03-13T13:11:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S580546bafe5f4bdd8c43e8fe94d4471cf.webp?v=1772133135
   Price: $20.99 USD
 - [Chic Women Handbag Round Basketball Football Barrel-shaped Faux Leather Crossbody Shoulder Bag](https://kenner-house.myshopify.com/products/chic-women-handbag-round-basketball-football-barrel-shaped-faux-leather-crossbody-shoulder-bag): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: NONECN: GuangdongClosure Type: ZipperDecoration: Sequined,ChainsExterior: Open PocketGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Cell Phone PocketLining Material: Synthetic LeatherMain Material: Split LeatherModel Number: 41001998Number of Handles/Straps: SingleOccasion: Party,VersatileOrigin: Mainland ChinaPattern Type: StripedPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: Barrel-ShapedStyle: FashionTypes of bags: Shoulder & Handbags
-  Updated: 2026-03-09T17:12:33Z
+  Updated: 2026-03-13T16:04:21Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9928,7 +9894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Hf38ef127bd74472a818b0931b5c2c3acD.webp?v=1772133138
     Price: $9.99 USD
 - [Elegant Handbag for Women Luxury Designer Top-Handle Bags High Quality Pu Leather Ladies Shoulder Crossbody Bag Casual Tote Sac](https://kenner-house.myshopify.com/products/elegant-handbag-for-women-luxury-designer-top-handle-bags-high-quality-pu-leather-ladies-shoulder-crossbody-bag-casual-tote-sac): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: NONECN: ZhejiangClosure Type: ZipperDecoration: AppliquesExterior: NoneGender: WomenHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Zipper Pocket,Interior CompartmentItem Height: 18Item Length: 23Item Weight: 0.6Item Width: 11Lining Material: POLYESTERMain Material: PUModel Number: SC5588Occasion: Versatile,VersatileOrigin: Mainland ChinaPattern Type: PatchworkPlace Of Origin: ZHE JIANG Province,Zhejiang ProvinceShape: Casual ToteShoulder strap length: 120Style: Casual
-  Updated: 2026-03-09T17:12:33Z
+  Updated: 2026-03-13T16:07:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9958,7 +9924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S9609060e59f74ca0937ea098aba02f517.webp?v=1772133137
     Price: $26.99 USD
 - [Motingsome Handwoven Bag Women's Bucket Luxury Designer Bags Niche Casual Bucket Bag Handmade French Retro Shulder Purse 2025](https://kenner-house.myshopify.com/products/motingsome-handwoven-bag-womens-bucket-luxury-designer-bags-niche-casual-bucket-bag-handmade-french-retro-shulder-purse-2025): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: MotingsomeCN: GuangdongClosure Type: HaspDecoration: NoneExterior: NoneGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Cell Phone Pocket,Interior Zipper PocketItem Weight: 0.9Lining Material: COTTONMain Material: PUModel Number: 25-0507034Number of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaPattern Type: KnittingPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: BucketStyle: FashionTypes of bags: Shoulder & Handbags
-  Updated: 2026-03-09T17:12:34Z
+  Updated: 2026-03-13T16:10:27Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9983,34 +9949,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0ecef36e63104c14937acc07d69b06a6k.webp?v=1772133298
     Price: $196.99 USD
-- [Women Handbag Simple Corduroy Portable Large Capacity HandBag Ins Fashion Trend Small Square Handbag Single Shoulder Bags](https://kenner-house.myshopify.com/products/women-handbag-simple-corduroy-portable-large-capacity-handbag-ins-fashion-trend-small-square-handbag-single-shoulder-bags): SPECIFICATIONSBrand Name: otherCN: HebeiChoice: yesGender: WomenHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: CorduroyOrigin: Mainland ChinaPlace Of Origin: Hebei Province,HE BEI ProvinceShape: Casual Tote
-  Updated: 2026-02-27T19:51:12Z
-  Vendor: Kenner House Emporium
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S4e65a6946fa84f38a89caab53f4b2915p.webp?v=1772133298
-  - [WHITE](https://kenner-house.myshopify.com/products/women-handbag-simple-corduroy-portable-large-capacity-handbag-ins-fashion-trend-small-square-handbag-single-shoulder-bags?variant=44156212052051)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S656bfb9ae6024839b40e0fbe03a38d779.webp?v=1772133298
-    Price: $4.67 USD
-  - [BROWN](https://kenner-house.myshopify.com/products/women-handbag-simple-corduroy-portable-large-capacity-handbag-ins-fashion-trend-small-square-handbag-single-shoulder-bags?variant=44156212084819)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sf3df0b0f4d194e94a781860c5b33fdb2F.webp?v=1772133298
-    Price: $4.08 USD
-  - [black](https://kenner-house.myshopify.com/products/women-handbag-simple-corduroy-portable-large-capacity-handbag-ins-fashion-trend-small-square-handbag-single-shoulder-bags?variant=44156212117587)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S57c28b920ac14ea49d2de1d280c7c749l.webp?v=1772133298
-    Price: $4.74 USD
-  - [Yellow](https://kenner-house.myshopify.com/products/women-handbag-simple-corduroy-portable-large-capacity-handbag-ins-fashion-trend-small-square-handbag-single-shoulder-bags?variant=44156212150355)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S4e65a6946fa84f38a89caab53f4b2915p.webp?v=1772133298
-    Price: $4.07 USD
-  - [green](https://kenner-house.myshopify.com/products/women-handbag-simple-corduroy-portable-large-capacity-handbag-ins-fashion-trend-small-square-handbag-single-shoulder-bags?variant=44156212183123)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb02fe1802bca47008e5efccd4e7b7fc2I.webp?v=1772133298
-    Price: $4.61 USD
 - [Classic Women Handbag Black Crocodile Leather Shoulder Crossbody Bag For Women 2025 Luxury Women's Bag Designer Fashion Hand Bag](https://kenner-house.myshopify.com/products/classic-women-handbag-black-crocodile-leather-shoulder-crossbody-bag-for-women-2025-luxury-womens-bag-designer-fashion-hand-bag): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: NONECN: HebeiClosure Type: ZipperExterior: Solid BagGender: WomenHardness: HARDHigh-concerned chemical: NoneInterior: Cell Phone PocketItem Height: 18Item Length: 120Item Weight: 0.65Item Width: 14Lining Material: POLYESTERMain Material: TPUModel Number: 3980Occasion: Versatile,VersatileOrigin: Mainland ChinaPattern Type: AlligatorPlace Of Origin: HE BEI Province,Hebei ProvinceShape: Casual ToteShoulder strap length: 30Style: Fashion
-  Updated: 2026-03-09T17:12:34Z
+  Updated: 2026-03-13T16:09:12Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10044,7 +9984,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7bd8cfa946cc43a3a7809d8c1945cc11i.webp?v=1772133299
     Price: $117.99 USD
 - [Fashionable style, elegant and luxurious handbag in the shape of a bucket, versatile and suitable for all occasions, single-shou](https://kenner-house.myshopify.com/products/fashionable-style-elegant-and-luxurious-handbag-in-the-shape-of-a-bucket-versatile-and-suitable-for-all-occasions-single-shou-1): SPECIFICATIONSApplicable Scenario: Daily StylingBag Shape: Bucket ShapeBag Size: MediumBrand Name: VZZSChoice: yesClosure Type: HaspColor: Beige, Coffee, BlackGender: UnisexHardness: Medium-SoftHigh-concerned chemical: NoneItem Type: Wet BagsLining Material: PUMain Material: PUMaterial: PUNumber of Shoulder Straps: Double StrapsOpening Method: Magnetic BuckleOrigin: Mainland ChinaPopular Element: LetterStyle: Messenger Bags,Street FashionTrendy Bag Style: Bucket BagWith Compartment: Yes
-  Updated: 2026-03-09T17:12:34Z
+  Updated: 2026-03-13T16:07:11Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10062,7 +10002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7b0c93aec6ba4c5f9f512012cfc9108bt.webp?v=1772133299
     Price: $52.99 USD
 - [New Tote bag hand bill of lading shoulder women's bag retro simple large bag Tote bag](https://kenner-house.myshopify.com/products/new-tote-bag-hand-bill-of-lading-shoulder-womens-bag-retro-simple-large-bag-tote-bag): SPECIFICATIONSBrand Name: HejukCN: HebeiChoice: yesClosure Type: HaspGender: WomenHardness: HARDHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: PUModel Number: HEF139Occasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Hebei Province,HE BEI ProvinceShape: Casual ToteStyle: Fashion
-  Updated: 2026-03-09T17:12:35Z
+  Updated: 2026-03-13T16:05:44Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10088,7 +10028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S687eb363a17c45d69300ff6a73c8bdb8A.webp?v=1772133299
     Price: $12.99 USD
 - [Handbag Woman Bag Design Simple Niche Travel  Beach Tote Bag Tassel Letter Embroidery Fashion Large Capacity Shoulder Bags 2022](https://kenner-house.myshopify.com/products/handbag-woman-bag-design-simple-niche-travel-beach-tote-bag-tassel-letter-embroidery-fashion-large-capacity-shoulder-bags-2022): SPECIFICATIONSBrand Name: molfmyCN: GuangdongChoice: yesClosure Type: HaspDecoration: Embroidery,LetterExterior: NoneGender: WomenHardness: SOFTHigh-concerned chemical: NoneLining Material: NoneMain Material: CANVASModel Number: female bagOccasion: BusinessOrigin: Mainland ChinaPattern Type: LetterPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: BucketStyle: Casualsemi_Choice: yes
-  Updated: 2026-03-09T17:12:35Z
+  Updated: 2026-03-13T16:07:32Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10126,14 +10066,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S86c4891d26bf4b0fa89a94e443058786u.webp?v=1772133300
     Price: $24.99 USD
 - [Women's handbag, handbag, women's 2024 new high-end texture summer designer single shoulder crossbody embroidered square bag](https://kenner-house.myshopify.com/products/womens-handbag-handbag-womens-2024-new-high-end-texture-summer-designer-single-shoulder-crossbody-embroidered-square-bag): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesClosure Type: Zipper & HaspExterior: Flap PocketGender: WomenHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot PocketLining Material: POLYESTERMain Material: PVCModel Number: 8545Occasion: VersatileOrigin: Mainland ChinaPattern Type: FloralPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: SatchelsStyle: Fashion
-  Updated: 2026-03-09T17:12:35Z
+  Updated: 2026-03-13T16:04:41Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S49afffb13bc74ceb9a9400c4607a72der.webp?v=1772133300
   Price: $82.99 USD
 - [CH Women's Handbag Retro Design Large Capacity Fashionable Shopping Bag Multifunctional Holiday Essential Women's Bucket Bag](https://kenner-house.myshopify.com/products/ch-womens-handbag-retro-design-large-capacity-fashionable-shopping-bag-multifunctional-holiday-essential-womens-bucket-bag): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: CHCN: GuangdongChoice: yesClosure Type: HaspDecoration: Letter,RuchedExterior: Open PocketGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneItem Height: 29Item Length: 43Item Weight: 0.6Item Width: 5Lining Material: CANVASMain Material: PVCModel Number: 230917-BNumber of Handles/Straps: twoOccasion: Party,VersatileOrigin: Mainland ChinaPattern Type: LetterPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: BucketStyle: CasualTypes of bags: Shoulder & Crossbody Bags
-  Updated: 2026-03-09T17:12:36Z
+  Updated: 2026-03-13T13:11:33Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10159,7 +10099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0387d4a723164ee89b823eab14798a37i.webp?v=1772133302
     Price: $99.99 USD
 - [Fashionable Handbag for Women, Retro and High-end Handbag, Simple and Versatile Crossbody Bag](https://kenner-house.myshopify.com/products/fashionable-handbag-for-women-retro-and-high-end-handbag-simple-and-versatile-crossbody-bag): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesHigh-concerned chemical: NoneMaterial: POLYESTEROrigin: Mainland ChinaType: Storage Bags
-  Updated: 2026-03-09T17:12:36Z
+  Updated: 2026-03-13T16:04:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10205,7 +10145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa07467e4084b493fb74c6ed628e4a8cbX.webp?v=1772133302
     Price: $52.99 USD
 - [Fashionable Small Handbag, Minimalist Stylish Texture Elegant Style Shoulder Bag, New Casual 	Top Handle Bag For Women](https://kenner-house.myshopify.com/products/fashionable-small-handbag-minimalist-stylish-texture-elegant-style-shoulder-bag-new-casual-top-handle-bag-for-women): SPECIFICATIONSBrand Name: PanmageeCN: GuangdongChoice: yesClosure Type: ZipperDecoration: Chains,SequinedGender: WomenHardness: SOFTHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: PUOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: HobosStyle: Fashionsemi_Choice: yes
-  Updated: 2026-03-09T17:12:36Z
+  Updated: 2026-03-13T16:03:27Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10219,7 +10159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S29c92d20c33745aca279e0c1c9e1bce2Q.webp?v=1772133302
     Price: $20.99 USD
 - [Women bag hander bag for women 2025 Tote bag Crossbody bag fashion single bag for women sac a main femme luxury](https://kenner-house.myshopify.com/products/women-bag-hander-bag-for-women-2025-tote-bag-crossbody-bag-fashion-single-bag-for-women-sac-a-main-femme-luxury): SPECIFICATIONSBrand Name: YSHKYCN: GuangdongClosure Type: HaspExterior: NoneGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Cell Phone PocketLining Material: POLYESTERMain Material: Faux SuedeNumber of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: SQUAREStyle: FashionTypes of bags: Shoulder & Handbags
-  Updated: 2026-03-09T17:12:37Z
+  Updated: 2026-03-13T13:11:36Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10237,7 +10177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc7c5c87eac024df9933b9bbdb4d954f8Q.webp?v=1772133304
     Price: $18.99 USD
 - [Elegant Black Handbag with Dual Handles, Chic Crossbody Bag, Retro Stylish Tote Small Bag for Women Girls Daily Use, Work, Party](https://kenner-house.myshopify.com/products/elegant-black-handbag-with-dual-handles-chic-crossbody-bag-retro-stylish-tote-small-bag-for-women-girls-daily-use-work-party): SPECIFICATIONSApplicable Season: Four SeasonsBrand Name: FXZLLQCN: HebeiChoice: yesClosure Type: ZipperDecoration: SequinedExterior: NoneGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot Pocket,Cell Phone Pocket,Interior Zipper PocketItem Height: 14Item Length: 20Item Weight: 0.25Item Width: 8Lining Material: POLYESTERMain Material: PUNumber of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: HE BEI Province,Hebei ProvinceShape: SatchelsShoulder strap length: 90Style: CasualTypes of bags: Handbags & Crossbody bagssemi_Choice: yes
-  Updated: 2026-03-09T17:12:37Z
+  Updated: 2026-03-13T16:02:54Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10263,7 +10203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7359dc0d28e1417da2f12a4c51d67f22v.webp?v=1772133308
     Price: $12.99 USD
 - [Stylish Tote Bag, Vintage Handbag, Large Underarm Shoulder Bag for Women Suitable for Daily Use, Work, Outdoor, Travel, Shopping](https://kenner-house.myshopify.com/products/stylish-tote-bag-vintage-handbag-large-underarm-shoulder-bag-for-women-suitable-for-daily-use-work-outdoor-travel-shopping): SPECIFICATIONSBrand Name: FXZLLQCN: ZhejiangChoice: yesClosure Type: ZipperDecoration: LetterExterior: NoneGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot Pocket,Cell Phone Pocket,Interior Zipper PocketLining Material: POLYESTERMain Material: PUNumber of Handles/Straps: twoOccasion: VersatileOrigin: Mainland ChinaPattern Type: LetterPlace Of Origin: HE BEI Province,Hebei ProvinceShape: Casual ToteStyle: VintageTypes of bags: Shoulder & Handbagssemi_Choice: yes
-  Updated: 2026-03-09T17:12:37Z
+  Updated: 2026-03-13T16:07:48Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10281,14 +10221,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S234c3591c17743a881dfc120e882ccddX.webp?v=1772133308
     Price: $16.99 USD
 - [Women Handbags Hand Bag Designer Leather Small Tote Bag Daily Commuting Single-shoulder Bag Crossbody Slung Armpit Package](https://kenner-house.myshopify.com/products/women-handbags-hand-bag-designer-leather-small-tote-bag-daily-commuting-single-shoulder-bag-crossbody-slung-armpit-package): SPECIFICATIONSBackpacks Type: SoftbackBrand Name: NONEChoice: yesGender: WomenHigh-concerned chemical: NoneLadies' small bag: canvas bagMaterial: LeatherModel Number: Diaper BagsOrigin: Mainland ChinaRain Cover: NoWomen's small bag: Luxury baghandbag: messenger bag
-  Updated: 2026-03-09T17:12:37Z
+  Updated: 2026-03-13T16:06:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sfb594ddfa9594e92bfeab72f3a8d51f6M.webp?v=1772133304
   Price: $78.99 USD
 - [Vintage Ladies Bag Large Capacity Handbag , Vintage Plain Shoulder Bag , Ladies Commuter Casual Handbag](https://kenner-house.myshopify.com/products/vintage-ladies-bag-large-capacity-handbag-vintage-plain-shoulder-bag-ladies-commuter-casual-handbag): SPECIFICATIONSBrand Name: NONECN: HebeiChoice: yesClosure Type: ZipperExterior: Solid BagGender: WomenHardness: HARDHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: PUModel Number: ZY234Occasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Hebei Province,HE BEI ProvinceShape: Casual ToteStyle: Vintage
-  Updated: 2026-03-09T17:12:38Z
+  Updated: 2026-03-13T16:05:22Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10301,7 +10241,119 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S5b9d4475f2af4b8ba0740037598e7dfbA.webp?v=1772133304
     Price: $14.99 USD
-[List Continued](https://kenner-house.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODkzNzY2OTk2MDUxLCJsYXN0X3ZhbHVlIjoiNzg5Mzc2Njk5NjA1MSJ9)
+- [Handmade Straw Tote Bag Large Capacity Woven Brand Design Light Luxury Versatile Beach Vacation Exquisite Hand-held Shoulder Bag](https://kenner-house.myshopify.com/products/handmade-straw-tote-bag-large-capacity-woven-brand-design-light-luxury-versatile-beach-vacation-exquisite-hand-held-shoulder-bag): SPECIFICATIONSBrand Name: NONECN: GuangdongClosure Type: ZipperDecoration: TasselExterior: NoneGender: WomenHandbags Type: Shoulder BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot PocketLining Material: POLYESTERMain Material: POLYESTERNumber of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: BucketStyle: Fashion
+  Updated: 2026-03-13T16:02:43Z
+  Vendor: Kenner House Emporium
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S75470a17197646489b1a1e7b4621ba28A.webp?v=1772133305
+  - [creamy-white / small](https://kenner-house.myshopify.com/products/handmade-straw-tote-bag-large-capacity-woven-brand-design-light-luxury-versatile-beach-vacation-exquisite-hand-held-shoulder-bag?variant=44156214444115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7b79164814f246b883b66cf667947fefs.webp?v=1772133305
+    Price: $21.99 USD
+  - [Khaki / big](https://kenner-house.myshopify.com/products/handmade-straw-tote-bag-large-capacity-woven-brand-design-light-luxury-versatile-beach-vacation-exquisite-hand-held-shoulder-bag?variant=44156214476883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sf1fb96849e9e420889d03c13cef0e3c1m.webp?v=1772133305
+    Price: $26.99 USD
+  - [Khaki / small](https://kenner-house.myshopify.com/products/handmade-straw-tote-bag-large-capacity-woven-brand-design-light-luxury-versatile-beach-vacation-exquisite-hand-held-shoulder-bag?variant=44156214509651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sf1fb96849e9e420889d03c13cef0e3c1m.webp?v=1772133305
+    Price: $21.99 USD
+  - [creamy-white / big](https://kenner-house.myshopify.com/products/handmade-straw-tote-bag-large-capacity-woven-brand-design-light-luxury-versatile-beach-vacation-exquisite-hand-held-shoulder-bag?variant=44156214542419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7b79164814f246b883b66cf667947fefs.webp?v=1772133305
+    Price: $26.99 USD
+- [Shoes for Women Fashion Spring Autumn High Heel Women Pointed Toe Comfortable Party Evening Wedding Pumps Zapatos](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos): SPECIFICATIONSBrand Name: NONEClosure Type: Buckle StrapDepartment Name: AdultFashion Element: PlatformFit: True to SizeGender: WomenHeel Height: High (5CM - 8CM)Heel Type: Square HeelHigh-concerned chemical: NoneInsole Material: PUItem Type: PumpsLining Material: NoneOccasion: DressOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidPump Type: GladiatorSeason: Spring/AutumnStyle: FashionToe Shape: Pointed ToeUpper Material: PUUpper coverage: Not above ankleUpper fixing method: stitchingWhether waterproof: YesWith Platforms: Yescolor: Black, pink, greysize: 34,35,36,37,38,39,40
+  Updated: 2026-03-13T16:05:49Z
+  Vendor: Kenner House Emporium
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8a38ac23257647ee8a0fd77a077307e6R.webp?v=1772208259
+  - [Black / 34](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157591879763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saeebe6c59b114890813d7f6f41cefa643.webp?v=1772208259
+    Price: $20.99 USD
+  - [Black / 35](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157591912531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saeebe6c59b114890813d7f6f41cefa643.webp?v=1772208259
+    Price: $20.99 USD
+  - [Black / 36](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157591945299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saeebe6c59b114890813d7f6f41cefa643.webp?v=1772208259
+    Price: $20.99 USD
+  - [Pink / 39](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157591978067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e610ebeb5aa4c54bd12353f2d8ce179N.webp?v=1772208259
+    Price: $20.99 USD
+  - [Pink / 40](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592010835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e610ebeb5aa4c54bd12353f2d8ce179N.webp?v=1772208259
+    Price: $20.99 USD
+  - [Pink / 35](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592043603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e610ebeb5aa4c54bd12353f2d8ce179N.webp?v=1772208259
+    Price: $20.99 USD
+  - [Pink / 36](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592076371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e610ebeb5aa4c54bd12353f2d8ce179N.webp?v=1772208259
+    Price: $20.99 USD
+  - [Pink / 37](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592109139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e610ebeb5aa4c54bd12353f2d8ce179N.webp?v=1772208259
+    Price: $20.99 USD
+  - [Pink / 38](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592141907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e610ebeb5aa4c54bd12353f2d8ce179N.webp?v=1772208259
+    Price: $20.99 USD
+  - [Gray / 38](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592174675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3904ff25bfa547b9991c2fd23756cfeeu.webp?v=1772208260
+    Price: $20.99 USD
+  - [Gray / 39](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592207443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3904ff25bfa547b9991c2fd23756cfeeu.webp?v=1772208260
+    Price: $20.99 USD
+  - [Gray / 40](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592240211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3904ff25bfa547b9991c2fd23756cfeeu.webp?v=1772208260
+    Price: $20.99 USD
+  - [Pink / 34](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592272979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8e610ebeb5aa4c54bd12353f2d8ce179N.webp?v=1772208259
+    Price: $20.99 USD
+  - [Gray / 34](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592305747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3904ff25bfa547b9991c2fd23756cfeeu.webp?v=1772208260
+    Price: $20.99 USD
+  - [Gray / 35](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592338515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3904ff25bfa547b9991c2fd23756cfeeu.webp?v=1772208260
+    Price: $20.99 USD
+  - [Gray / 36](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592371283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3904ff25bfa547b9991c2fd23756cfeeu.webp?v=1772208260
+    Price: $20.99 USD
+  - [Gray / 37](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592404051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S3904ff25bfa547b9991c2fd23756cfeeu.webp?v=1772208260
+    Price: $20.99 USD
+  - [Black / 37](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592436819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saeebe6c59b114890813d7f6f41cefa643.webp?v=1772208259
+    Price: $20.99 USD
+  - [Black / 38](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592469587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saeebe6c59b114890813d7f6f41cefa643.webp?v=1772208259
+    Price: $20.99 USD
+  - [Black / 39](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592502355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saeebe6c59b114890813d7f6f41cefa643.webp?v=1772208259
+    Price: $20.99 USD
+  - [Black / 40](https://kenner-house.myshopify.com/products/shoes-for-women-fashion-spring-autumn-high-heel-women-pointed-toe-comfortable-party-evening-wedding-pumps-zapatos?variant=44157592535123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Saeebe6c59b114890813d7f6f41cefa643.webp?v=1772208259
+    Price: $20.99 USD
+[List Continued](https://kenner-house.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODk0MjQ0ODE5MDI3LCJsYXN0X3ZhbHVlIjoiNzg5NDI0NDgxOTAyNyJ9)
 
 ## Collections
 
@@ -10309,32 +10361,32 @@
   Updated: 2026-03-09T17:11:45Z
   Total Products: 0
 - [Mugs - Coffee Mugs & Drinkware - Kenner House Emporium](https://kenner-house.myshopify.com/collections/mugs): Shop our collection of quality mugs and drinkware. Perfect for coffee, tea, and hot beverages. Find your new favorite mug today.
-  Updated: 2026-03-09T17:11:45Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:22Z
+  Total Products: 44
 - [Coffee](https://kenner-house.myshopify.com/collections/coffee-grinders)
-  Updated: 2026-03-09T17:11:45Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:22Z
+  Total Products: 44
 - [Espresso Machines](https://kenner-house.myshopify.com/collections/espresso-machines)
-  Updated: 2026-03-09T17:11:45Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:22Z
+  Total Products: 44
 - [French Presses](https://kenner-house.myshopify.com/collections/french-presses)
-  Updated: 2026-03-09T17:11:45Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:22Z
+  Total Products: 44
 - [Tumblers](https://kenner-house.myshopify.com/collections/tumblers)
-  Updated: 2026-03-09T17:11:45Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:22Z
+  Total Products: 44
 - [T-Shirts](https://kenner-house.myshopify.com/collections/t-shirts)
-  Updated: 2026-03-09T17:11:45Z
-  Total Products: 34
+  Updated: 2026-03-18T04:09:23Z
+  Total Products: 109
 - [Coffee Dispensers](https://kenner-house.myshopify.com/collections/coffee-dispensers)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:22Z
+  Total Products: 44
 - [Electric Kettles](https://kenner-house.myshopify.com/collections/electric-kettles)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Thermoses](https://kenner-house.myshopify.com/collections/thermoses)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Dried Flowers](https://kenner-house.myshopify.com/collections/dried-flowers)
   Updated: 2026-03-09T17:11:46Z
   Total Products: 19
@@ -10345,53 +10397,53 @@
   Updated: 2026-03-09T17:11:46Z
   Total Products: 19
 - [Instant Coffee](https://kenner-house.myshopify.com/collections/instant-coffee)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Scoops](https://kenner-house.myshopify.com/collections/scoops)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Coffee Maker Water Filters](https://kenner-house.myshopify.com/collections/coffee-maker-water-filters)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Coffee Maker & Espresso Machine Accessories](https://kenner-house.myshopify.com/collections/coffee-maker-espresso-machine-accessories)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Measuring Cups](https://kenner-house.myshopify.com/collections/measuring-cups)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Clothing](https://kenner-house.myshopify.com/collections/sleepwear-loungewear)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 34
+  Updated: 2026-03-18T04:09:23Z
+  Total Products: 109
 - [Coffee Filter Baskets](https://kenner-house.myshopify.com/collections/coffee-filter-baskets)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Beverages](https://kenner-house.myshopify.com/collections/beverages)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Beverage Warmers](https://kenner-house.myshopify.com/collections/beverage-warmers)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Measuring Spoons](https://kenner-house.myshopify.com/collections/measuring-spoons)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Flasks](https://kenner-house.myshopify.com/collections/flasks)
-  Updated: 2026-03-09T17:11:46Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Kitchen Tools & Utensils](https://kenner-house.myshopify.com/collections/kitchen-tools-utensils)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Drinkware Holders](https://kenner-house.myshopify.com/collections/drinkware-holders)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Dual Coffee Makers](https://kenner-house.myshopify.com/collections/drip-coffee-makers)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 43
+  Updated: 2026-03-18T01:29:23Z
+  Total Products: 44
 - [Toys](https://kenner-house.myshopify.com/collections/children)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 99
+  Updated: 2026-03-19T20:05:11Z
+  Total Products: 139
 - [Shoes](https://kenner-house.myshopify.com/collections/shoes)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 86
+  Updated: 2026-03-18T22:56:56Z
+  Total Products: 90
 - [EyeGlasses](https://kenner-house.myshopify.com/collections/eye-glasses)
   Updated: 2026-03-09T17:11:47Z
   Total Products: 9
@@ -10399,29 +10451,44 @@
   Updated: 2026-03-09T17:11:47Z
   Total Products: 4
 - [Animal & Pet Supplies](https://kenner-house.myshopify.com/collections/animal-pet-supplies)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 10
+  Updated: 2026-03-17T18:42:03Z
+  Total Products: 12
 - [Health & Beauty](https://kenner-house.myshopify.com/collections/health-beauty)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 38
+  Updated: 2026-03-18T22:49:03Z
+  Total Products: 40
 - [Baby & Toddler Outfits](https://kenner-house.myshopify.com/collections/baby-toddler-outfits)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 44
+  Updated: 2026-03-18T04:16:56Z
+  Total Products: 68
 - [Home & Garden](https://kenner-house.myshopify.com/collections/home-garden)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 36
+  Updated: 2026-03-18T13:00:37Z
+  Total Products: 86
 - [Handbags](https://kenner-house.myshopify.com/collections/handbags)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 34
+  Updated: 2026-03-18T22:56:55Z
+  Total Products: 37
 - [Apparel & Accessories](https://kenner-house.myshopify.com/collections/apparel-accessories)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 53
+  Updated: 2026-03-19T20:10:56Z
+  Total Products: 71
 - [Fitness & General Exercise](https://kenner-house.myshopify.com/collections/fitness-general-exercise)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 17
+  Updated: 2026-03-18T12:59:19Z
+  Total Products: 26
 - [Emergency Preparedness](https://kenner-house.myshopify.com/collections/emergency-preparedness)
   Updated: 2026-03-09T17:11:47Z
   Total Products: 22
+- [Hair Care](https://kenner-house.myshopify.com/collections/hair-care)
+  Updated: 2026-03-18T04:20:04Z
+  Total Products: 46
+- [Clothing](https://kenner-house.myshopify.com/collections/clothing)
+  Updated: 2026-03-18T04:10:40Z
+  Total Products: 95
+- [Needoh Stress Relief & Sensory Squeeze Toys - Kenner House Emporium](https://kenner-house.myshopify.com/collections/needoh-stress-relief-toys): Shop Needoh sensory fidget toys and stress relief cubes. Squishy, satisfying squeeze toys perfect for anxiety relief, focus, and fun for kids and adults.
+  Updated: 2026-03-16T20:34:27Z
+  Total Products: 3
+- [Jellycat Plush Toys & Soft Stuffed Animals - Kenner House Emporium](https://kenner-house.myshopify.com/collections/jellycat-plush-toys): Shop adorable Jellycat plush toys including bunnies, bears, dragons, and whimsical food-themed stuffed animals. Perfect gifts and home decor.
+  Updated: 2026-03-16T20:37:11Z
+  Total Products: 18
+- [Premium Coffee - Specialty Roasts & Blends - Kenner House Emporium](https://kenner-house.myshopify.com/collections/premium-coffee): Shop premium brewable coffee including mushroom-infused medium roast, cold brew, flavored blends, and instant coffee. Quality coffee for every taste.
+  Updated: 2026-03-18T01:29:59Z
+  Total Products: 5
 
 ## Blogs
 
@@ -10429,6 +10496,9 @@
   - [Toys Galore](https://kenner-house.myshopify.com/blogs/news/kenner-house-emporium-toys-galore)
     Updated: 2026-03-09T21:00:02Z
     Author: Jo E Porter
+  - [15 Must-Have Items for First-Time Parents](https://kenner-house.myshopify.com/blogs/news/15-must-have-items-for-first-time-parents): 15 Must-Have Items for First-Time Parents
+    Updated: 2026-03-14T16:00:29Z
+    Author: Kenner House Emporium
 
 ## Store Pages
 
