@@ -6,33 +6,86 @@
 - Timezone: Europe/London
 - Created At: 2026-01-20T21:42:57Z
 - Contact Email: azixparz@outlook.com
-- Updated At: 2026-03-12T21:25:53.462Z
+- Updated At: 2026-03-20T00:00:29.409Z
 
 ## Products
 
-- [Grey Large Dog Bed Orthopaedic Flat Crate Pet Mattress](https://pawluxy.co.uk/products/grey-large-dog-bed-orthopaedic-flat-crate-pet-mattress): Product information Give your furry friend the comfort they deserve with the Dreamcatcher Grey Orthopaedic Large Dog Bed. Designed to promote deep, restful sleep, this large dog bed features a 9cm thick egg crate high-density foam base that evenly distributes weight and relieves pressure on joints. Ideal for older pets or those with joint pain, this supportive orthopedic dog bed contours to your dog’s body to enhance comfort and mobility. The plush sherpa fleece top offers a soft, soothing surface for relaxing, while the foam mattress is encased in a waterproof dog bed liner to protect against accidental spills and messes. The reversible design allows you to switch between warm fleece for winter and breathable oxford fabric for summer, giving your pet year-round comfort in any room, crate or even as a dog bed for car boot travel. This versatile dog bed large is suitable for most common crate sizes and works perfectly as a standalone dog mat or dog crate bed. Lightweight and portable, it also makes an ideal flat dog bed for any space in your home. Whether you're looking for a soft dog mattress or a supportive crate mat, it’s designed for pets who deserve the best. Cleaning is effortless thanks to the zippered removable cover, which is fully machine washable at 30°C. Simply remove the cover and toss it in the wash for a fresh, clean washable dog bed. Please note: the egg crate foam insert is not washable. Your dog bed large will arrive vacuum packed for convenience. Just unpack, spread the filling evenly, and allow 24–48 hours for the foam to fully expand. Dimensions: 89x56x9cm. Backed by exceptional UK customer service and built for lasting comfort, this dog bed combines practicality and support—making it a must-have for dogs of all breeds and sizes. Guarantee - 2 years Dog Machine washable Features and benefits Give your furry friend the ultimate in comfort with the Grey Dreamcatcher orthopedic dog bed. Featuring a 9cm egg crate foam base, it relieves joint pressure and promotes restful sleep. The reversible design offers cosy sherpa fleece for winter and cooling oxford fabric for summer. With a waterproof liner, machine-washable cover, and perfect crate fit, it’s ideal for year-round use. Durable, comfy, and easy to maintain—your dog will thank you! Orthopedic 9cm egg crate foam base offers superior joint support and pressure relief. Foam contours to your dog’s body for a deep, restful sleep and improved comfort. Soft sherpa fleece surface and waterproof liner provide comfort and protection. Dual-sided design: fleece for winter, oxford fabric for summer use. Versatile fit – perfect for crates, rooms, or car travel. Removable, machine-washable cover ensures easy cleaning and hygiene. Foam insert is not washable—only the cover can be machine washed. Arrives vacuum-packed; allow 24–48 hours to fully expand. Size - 89x56x9cm Legal information UKCA Marked
-  Updated: 2026-03-12T09:05:15Z
+- [Orthopaedic Dog Bed Large Grey Flat Crate Mattress Washable | Pawluxy](https://pawluxy.co.uk/products/grey-large-dog-bed-orthopaedic): Large orthopaedic dog bed with supportive foam for joint relief. Flat grey mattress fits crates, removable washable cover. Ideal for older or large dogs. UK.
+  Updated: 2026-03-19T18:59:52Z
   Vendor: Pawluxy Co.
-  Product Type: Template
+  Product Type: Pet Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/8575/4460/files/1.png?v=1773262986
-  - [L](https://pawluxy.co.uk/products/grey-large-dog-bed-orthopaedic-flat-crate-pet-mattress?variant=56975147499868)
+  Image: https://cdn.shopify.com/s/files/1/0991/8575/4460/files/1.png?v=1773785487
+  - [L](https://pawluxy.co.uk/products/grey-large-dog-bed-orthopaedic?variant=56975147499868)
     Availability: Available
-    Price: £44.99 GBP
-  - [XL](https://pawluxy.co.uk/products/grey-large-dog-bed-orthopaedic-flat-crate-pet-mattress?variant=56975147532636)
+    Price: £44.95 GBP
+  - [XL](https://pawluxy.co.uk/products/grey-large-dog-bed-orthopaedic?variant=56975147532636)
     Availability: Available
-    Price: £49.99 GBP
+    Price: £49.95 GBP
+- [Premium Dog Sofa Bed | Washable & Non-Slip | PawLuxy UK](https://pawluxy.co.uk/products/premium-dog-sofa-bed-linen-look-with-raised-edges-washable-removable-cover-non-slip-base): Premium linen-look dog sofa bed with raised supportive edges, removable washable cover & non-slip base. Free UK delivery over £40. Shop PawLuxy.
+  Updated: 2026-03-19T18:54:26Z
+  Vendor: Pawluxy Co.
+  Product Type: Pet Beds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0991/8575/4460/files/C4B813A1-D5D4-4937-B5F2-3559084A77EB.png?v=1773889306
+  - [XL / Grey](https://pawluxy.co.uk/products/premium-dog-sofa-bed-linen-look-with-raised-edges-washable-removable-cover-non-slip-base?variant=57054723506524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/8575/4460/files/C4B813A1-D5D4-4937-B5F2-3559084A77EB.png?v=1773889306
+    Price: £55.00 GBP
+  - [L / Grey](https://pawluxy.co.uk/products/premium-dog-sofa-bed-linen-look-with-raised-edges-washable-removable-cover-non-slip-base?variant=57054723539292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/8575/4460/files/682C17EF-39EE-4CFC-AD17-D5DBE7B34317.png?v=1773889306
+    Price: £45.00 GBP
+  - [XL / Black](https://pawluxy.co.uk/products/premium-dog-sofa-bed-linen-look-with-raised-edges-washable-removable-cover-non-slip-base?variant=57054723866972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/8575/4460/files/IMG-1674.png?v=1773889913
+    Price: £55.00 GBP
+  - [L / Black](https://pawluxy.co.uk/products/premium-dog-sofa-bed-linen-look-with-raised-edges-washable-removable-cover-non-slip-base?variant=57054723899740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/8575/4460/files/IMG-1673.png?v=1773889913
+    Price: £55.00 GBP
 
 ## Collections
 
-- [Pet Supplies for Cats & Dogs | Premium Quality | Pawluxy](https://pawluxy.co.uk/collections/pet-supplies): Shop premium pet supplies for cats and dogs. Beds, toys, grooming tools, feeding accessories and more. Quality products for happy, healthy pets.
-  Updated: 2026-03-11T21:09:32Z
-  Total Products: 1
+- [Orthopaedic Dog Beds UK | Memory Foam & Washable - PawLuxy](https://pawluxy.co.uk/collections/orthopaedic-dog-beds): Premium orthopaedic dog beds with memory foam for large breeds, senior dogs & arthritis. Washable covers, crate mattresses & joint support. Free UK delivery over £40.
+  Updated: 2026-03-19T18:54:02Z
+  Total Products: 3
+
+## Blogs
+
+- [News](https://pawluxy.co.uk/blogs/news)
+  - [Premium Pet Products – Safer, Healthier Pets | Pawluxy Co](https://pawluxy.co.uk/blogs/news/selecting-high-quality-pet-products-a-complete-buyer-guide): Premium Pet Products – Safer, Healthier Pets | Pawluxy Co
+    Updated: 2026-03-12T22:00:02Z
+    Author: Pawluxy Co.
+  - [Orthopaedic Dog Bed – Pain Relief & Better Sleep | Pawluxy Co.](https://pawluxy.co.uk/blogs/news/orthopaedic-dog-bed-for-superior-sleep-and-joint-health): Orthopaedic Dog Bed – Pain Relief & Better Sleep | Pawluxy Co.
+    Updated: 2026-03-13T10:00:05Z
+    Author: Pawluxy Co.
+  - [Comfortable Pet Mattress - Better Sleep & Support | Pawluxy Co](https://pawluxy.co.uk/blogs/news/a-guide-to-a-comfortable-pet-mattress-for-happier-nights): Comfortable Pet Mattress - Better Sleep & Support | Pawluxy Co
+    Updated: 2026-03-14T10:00:04Z
+    Author: Pawluxy Co.
+  - [Pet digestion relief tips – Faster comfort | Pawluxy Co.](https://pawluxy.co.uk/blogs/news/smart-ways-to-support-pet-digestion-relief-at-home): Pet digestion relief tips – Faster comfort | Pawluxy Co.
+    Updated: 2026-03-13T10:00:06Z
+    Author: Pawluxy Co.
+  - [Eco Friendly Pet Accessories That Last Longer | Pawluxy Co](https://pawluxy.co.uk/blogs/news/smart-tips-for-eco-friendly-pet-accessories-that-last): Eco Friendly Pet Accessories That Last Longer | Pawluxy Co
+    Updated: 2026-03-14T10:00:04Z
+    Author: Pawluxy Co.
+  - [Luxury Dog Beds for Ultimate Comfort | Pawluxy Co.](https://pawluxy.co.uk/blogs/news/the-ultimate-guide-to-luxury-dog-beds-for-restful-sleep): Luxury Dog Beds for Ultimate Comfort | Pawluxy Co.
+    Updated: 2026-03-15T10:00:03Z
+    Author: Pawluxy Co.
+  - [Durable Pet Supplies for Long Lasting Comfort and Value – Pawluxy Co.](https://pawluxy.co.uk/blogs/news/durable-pet-supplies-for-long-lasting-comfort-and-value): Durable Pet Supplies for Long Lasting Comfort and Value – Pawluxy Co.
+    Updated: 2026-03-16T10:00:03Z
+    Author: Pawluxy Co.
+  - [Easy-to-Clean Pet Bedding for Busy Homes - Clean and Durable | Pawluxy Co.](https://pawluxy.co.uk/blogs/news/guide-to-easy-to-clean-pet-bedding-for-busy-pet-parents): Easy-to-Clean Pet Bedding for Busy Homes - Clean and Durable | Pawluxy Co.
+    Updated: 2026-03-17T10:00:02Z
+    Author: Pawluxy Co.
+  - [Premium Pet Products for Happy Pets - Quality Gear | Pawluxy Co](https://pawluxy.co.uk/blogs/news/beyond-basics-premium-pet-products-for-everyday-joy): Premium Pet Products for Happy Pets - Quality Gear | Pawluxy Co
+    Updated: 2026-03-18T10:00:02Z
+    Author: Pawluxy Co.
 
 ## Store Pages
 
-- [About Pawluxy Co. - Premium Pet Essentials](https://pawluxy.co.uk/pages/about-us): Welcome to Pawluxy Co. At Pawluxy, we believe every pet deserves the very best. We're a UK-based retailer dedicated to providing premium pet essent...
-  Updated: 2026-03-11T22:44:32Z
+- [About Pawluxy Co. - Premium Pet Essentials](https://pawluxy.co.uk/pages/about-us): About PawLuxy Co. Every pet deserves a space that feels like home. That's the simple idea behind PawLuxy. We're a UK-based pet essentials retailer,...
+  Updated: 2026-03-16T23:58:01Z
 - [Pet Size Guide - Collars, Beds & More | Pawluxy Co.](https://pawluxy.co.uk/pages/size-guide): Pet Product Size Guide Finding the right fit ensures your pet's comfort and safety. Use our guide below to select the perfect size for collars, bed...
   Updated: 2026-03-11T22:44:32Z
 - [Contact Pawluxy Co. - Customer Service & Enquiries](https://pawluxy.co.uk/pages/contact-1): Get in Touch We're here to help with any questions about our products, your order or sizing advice. Customer Service Our team typically responds wi...
