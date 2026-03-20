@@ -6,7 +6,7 @@
 - Timezone: Etc/UTC
 - Created At: 2016-05-30T17:04:53Z
 - Contact Email: daria@daria.is
-- Updated At: 2026-03-12T00:00:29.409Z
+- Updated At: 2026-03-20T00:00:36.350Z
 
 Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtispeglum, ilmkertum, brúnkuvörum og fatnaði. Við bjóðum vörur frá vörumerkjum eins og L.A. Girl, Tan-Luxe, Marc Inbane, MakeUp Eraser og fleiri. Verslun í Firði Hafnarfirði og sending um allt Ísland.
 
@@ -75,14 +75,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Beautiful1.JPG?v=1527271691
   Price: kr 2,990.00 ISK
 - [London SPEGILL (Svartur)](https://daria.is/products/spegill-med-led-peru-ljosum-svartur-1): Hægt er að breyta í hvíta, bláa og gula birtu Mjög góð birta er af ljósunum Dimmanleg ljós Spegillinn er 35cm á hæð og 25cm á breidd Speglinum fylgir rafmagnssnúra sem stungið er í samband í innstungu Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-11T14:05:08Z
+  Updated: 2026-03-13T15:21:06Z
   Vendor: Daría
   Product Type: spegill
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/SPEGILL_ME_6_LED_PERU_LJ_SUM_Svartur_-_Dar_a.png?v=1755190060
   Price: kr 11,900.00 ISK
 - [SPEGILL MEÐ 9 LED PERU LJÓSUM (Silfur)](https://daria.is/products/spegill-med-led-peru-ljosum-stor-silfur): Hægt að breyta birtu ljósanna í bæði warm white og cool white, mjög góð birta af ljósunum. Dimmanleg ljós Speglinum fylgir snúra sem stungið er í samband í innstungu Spegillinn er 43.5X37cm Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-02-21T16:02:03Z
+  Updated: 2026-03-12T16:14:57Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -159,14 +159,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/TanLuxe_Wonder_Oil_100ml_LightMed_Render_1024x1024_c645e65c-eb2c-474a-b01f-6baff9e648f2.png?v=1739460343
   Price: kr 7,990.00 ISK
 - [PARIS SPEGILL 50 X 60 CM (SVARTUR) - Hollywood spegill - Makeup spegill](https://daria.is/products/spegill-med-14-led-peru-ljosum-svartur-forpontun): Fullkomnaðu snyrtiaðstöðuna með þessum æðislega spegil. LED perurnar gefa frá sér mjög góða birtu sem auðveldar förðunina og tryggir að allar litir birtist rétt. Þær eru einnig orkusparandi og endast lengi. Hægt er að breyta birtu ljósanna í bæði Warm White og Cool White Dimmanleg Led ljós Lítill stækkunarspegill með X10 stækkun fylgir með sem festist á spegilinn með segul. Hægt er að taka lappirnar af og hengja spegilinn uppá vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Spegillinn er 50cm á hæð og 60cm á breidd. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-10T10:03:43Z
+  Updated: 2026-03-17T13:34:27Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/paris_hollywood_fordunarspegill_svartur_makeup_spegill.webp?v=1773137023
   Price: kr 27,900.00 ISK
 - [PARIS SPEGILL 50 X 60 CM (SILFUR)-Hollywood spegill-makeup spegill](https://daria.is/products/spegill-med-14-led-peru-ljosum-silfur-forpontun): Fullkomnaðu snyrtiaðstöðuna með þessum æðislega spegil. LED perurnar gefa frá sér mjög góða birtu sem auðveldar förðunina og tryggir að allar litir birtist rétt. Þær eru einnig orkusparandi og endast lengi. Hægt er að breyta birtu ljósanna í bæði Warm White og Cool White Dimmanleg Led ljós Lítill stækkunarspegill með X10 stækkun fylgir með sem festist á spegilinn með segul. Hægt er að taka lappirnar af og hengja spegilinn uppá vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Spegillinn er 50cm á hæð og 60cm á breidd. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-11T19:21:47Z
+  Updated: 2026-03-18T12:43:21Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -194,14 +194,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Untitled_design_21.png?v=1739460371
   Price: kr 4,990.00 ISK
 - [Spegill með 24 LED ljósum og stækkun X1 X2 X3 (Hvítur)](https://daria.is/products/spegill-med-24-led-ljosum-og-staekkun-x1-x2-x3): Sniðugur förðunar spegill með 24 Led ljósum sem hægt er að dimma. Á vinstri hlið spegilsins er 2X og 3X stækkun Hægt er að halla speglinum aftur. USB snúra fylgir með og hægt er að tengja hana í rafmagn, fartölvu eða hleðslubanka til að kveikja á led ljósum, einnig er hægt að nota 4 AA batterí. 31cm á hæð, breidd 17 cm með lokaða hliðarspegla og um 34cm með hliðarspegla opna. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-04T16:47:28Z
+  Updated: 2026-03-14T09:07:37Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/f_r_unarspegill_me_led_lj_sum.jpg?v=1739460392
   Price: kr 5,990.00 ISK
 - [SPEGILL MEÐ 24 LED LJÓSUM OG STÆKKUN X1 X2 X3 (Svartur)](https://daria.is/products/spegill-med-24-led-ljosum-og-staekkun-x1-x2-x3-svartur): Sniðugur förðunar spegill með 24 Led ljósum sem hægt er að dimma. Á vinstri hlið spegilsins er 2X og 3X stækkun Hægt er að halla speglinum aftur. USB snúra fylgir með og hægt er að tengja hana í rafmagn, fartölvu eða hleðslubanka til að kveikja á led ljósum, einnig er hægt að nota 4 AA batterí. 31cm á hæð, breidd 17 cm með lokaða hliðarspegla og um 34cm með hliðarspegla opna. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-06T20:54:09Z
+  Updated: 2026-03-17T10:55:37Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -215,7 +215,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/superglowbody.jpg?v=1739460402
   Price: kr 8,900.00 ISK
 - [Hollywood Spegill 56.5 X 70 cm (silfur) - Förðunarspegill Led ljós](https://daria.is/products/hollywood-spegill-56-5-x-70-cm): ----- Ný útgáfa af Hollywood speglinum ----- Í nýrri útgáfunni er hægt að hengja spegilinn upp á vegg og komið usb tengi á hliðinni til að hlaða síma. Spegill með 12 Led perum sem gefa mjög góða birtu Hægt er að breyta í hvíta, bláa og gula birtu Dimmanleg Ledljós Lítill stækkunarspegill X10 fylgir með Speglinum fylgir snúra sem stungið er í samband í innstungu Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Spegillinn er 56.5cm á hæð og 70cm á breidd Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-09T13:24:13Z
+  Updated: 2026-03-19T10:43:56Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -229,7 +229,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/CopyofUntitled_2.png?v=1739460413
   Price: kr 4,590.00 ISK
 - [I <3 You 7-Day Set](https://daria.is/products/i-3-you-7-day-set): #1 sustainable makeup remover in the world. Erase ALL Makeup With JUST Water! Including waterproof mascara, eyeliner, foundation, lipstick, & more! The Original MakeUp Eraser is a premium, patented, polyester cloth made up of millions of tiny hair-like fibers that work together to create a "suction" for all dirt, makeup, & oil in your pores. Double-sided to erase makeup with the short fibers side & exfoliate the skin with the long fiber side (side with tag). Reusable, machine washable, & lasts 3 to 5 years. 1 MakeUp Eraser is equal to 3600 makeup wipes! No chemicals, less waste. Ultra soft, dermatologist , & great for sensitive skin. PRO TIP: Use minis to erase makeup, apply toner, or remove face masks. Free of alcohol, oils, astringents, parabens, fragrances, & sulfates. #nomorewipes I <3 You 7-Day Set includes: 7 mini MakeUp Erasers. One mini for every day of the week! Each mini MakeUp Eraser measure approx. 4in. x 3in. ✔ dermatologist  ✔ hypoallergenic ✔ cruelty-free ✔ 100% vegan ✔ eco-friendly ✔ EU  ✔ machine washable ✔ reusable ✔ no chemicals ✔ less waste ✔ lasts 3 to 5 years ✔ face + lip exfoliator ✔ great for sensitive skin ✔ saves money
-  Updated: 2026-03-08T04:07:46Z
+  Updated: 2026-03-15T20:05:47Z
   Vendor: makeup eraser
   Product Type: makeup eraser
   Availability: Available
@@ -243,14 +243,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/rh-lip-cube_160x_2x_0476f364-2b36-4cf1-aceb-a9d21df9c34d.jpg?v=1739460413
   Price: kr 11,900.00 ISK
 - [Loves Me, Loves Me Not' 7-Day Set](https://daria.is/products/loves-me-loves-me-not-7-day-set): Description #1 sustainable makeup remover in the world. Erase ALL Makeup With JUST Water! Including waterproof mascara, eyeliner, foundation, lipstick, & more! The Original MakeUp Eraser is a premium, patented, polyester cloth made up of millions of tiny hair-like fibers that work together to create a "suction" for all dirt, makeup, & oil in your pores. Double-sided to erase makeup with the short fiber side & exfoliate the skin with the long fiber side (side with tag). Reusable, machine washable, & lasts 3 to 5 years. 1 MakeUp Eraser is equal to 3600 makeup wipes! No added chemicals, less waste. Ultra soft, dermatologist , & great for sensitive skin. PRO TIP: Use to erase makeup, apply toner, or remove face masks. Free of alcohol, oils, astringents, parabens, fragrances, & sulfates. #nomorewipes Loves Me, Loves Me Not 7-Day Set includes: 7 MakeUp Erasers approx. 5in x 4in. One mini for every day of the week!
-  Updated: 2025-12-20T13:03:38Z
+  Updated: 2026-03-15T03:40:23Z
   Vendor: makeup eraser
   Product Type: makeup eraser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/2574868-6.jpg?v=1739460454
   Price: kr 4,590.00 ISK
 - [Hvítur/Silfur spegill með led ljósum USB snúra og 4 AA](https://daria.is/products/hvitur-silfur-spegill-med-led-ljosum-usb-snura-og-4-aa): Sniðugur förðunar spegill með Led ljósum sem hægt er að dimma. Stækkunarspegill fylgir með sem er með sogskálum að aftan og hægt að taka af speglinum, hann stækkar X 10 USB snúra fylgir með og hægt er að tengja hana í rafmagn, fartölvu eða hleðslubanka til að kveikja á led ljósum. Hæð 31 cm Breidd 17 cm Batterí fylgja ekki með. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-09T15:07:37Z
+  Updated: 2026-03-13T13:27:26Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -299,7 +299,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [Hollywood Spegill 56.5 X 70 cm (svartur) - Förðunarspegill](https://daria.is/products/svartur-hollywood-spegill-56-5-x-70-cm): ----- Ný útgáfa af Hollywood speglinum ----- Í nýrri útgáfunni er hægt að hengja spegilinn upp á vegg og komið usb tengi á hliðinni til að hlaða síma. Spegill með 12 Led perum sem gefa mjög góða birtu Hægt er að breyta í hvíta, bláa og gula birtu Dimmanleg Ledljós Lítill stækkunarspegill X10 fylgir með Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Speglinum fylgir snúra sem stungið er í samband í innstungu Spegillinn er 56.5cm á hæð og 70cm á breidd Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-09T17:22:48Z
+  Updated: 2026-03-19T13:33:58Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -313,7 +313,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/creme-solaire1_c69c8b36-2cba-4092-8c9d-aae03f1a9a82.jpg?v=1739460476
   Price: kr 12,380.00 ISK
 - [THE CRÈME](https://daria.is/products/the-creme): ADVANCED HYDRATION SELF-TAN FACIAL CRÈME 65ML An intensely hydrating self-tanning moisturizer powered by proprietary Penta-Cell Complex of amino acids, antioxidants and skin identical lipids that help support daily barrier function, fight the effects of environmental aggressors and leave skin with a sunkissed glow. This revolutionary rich self-tanning crème works to repair and renew for radiant skin that glows from within. Leveraging potent and powerful ingredients Glycine, Leucine, and L-Phenylalanine work to help promote skin elasticity, reducing the appearance of dark spots and fine lines. Squalane, Birch Bark and Rice Bran help to deeply soothe and restore the skin barrier for a plump, supple finish. Featuring just the right amount of gradual self-tanner for daily use (4.5%), skin is left with a radiant, sunkissed glow.
-  Updated: 2025-12-02T07:55:57Z
+  Updated: 2026-03-13T17:25:09Z
   Vendor: Tan-Luxe
   Product Type: brúnkukrem
   Availability: Available
@@ -396,7 +396,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 1,335.00 ISK
 - [LIP MOUSSE VELVET LIP COLOR (10 litir)](https://daria.is/products/lip-mousse-velvet-lip-color-10-litir): Lip Mousse Velvet Lip Color is whipped into a creamy texture that feels so light and comfortable, you'll barely know it's there. The velvety formula goes on buttery soft, giving a seamless finish with maximum color payoff that wears down evenly throughout the day. Non-sticky, and non-drying, your lips will feel pillow soft and extra hydrated from added vitamin E. The unique teardrop applicator features a center well that holds extra product for full coverage color and even application that hugs your lip curves. Whipped, creamy lip color Non-sticky, non-drying formula Vitamin E enriched formula Teardrop applicator with a center well Cruelty free
-  Updated: 2026-03-08T04:09:09Z
+  Updated: 2026-03-14T15:02:17Z
   Vendor: L.A. Girl
   Product Type: Varalitur
   Availability: Available
@@ -562,7 +562,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/Islandhottie.webp?v=1739460516
     Price: kr 1,145.00 ISK
 - [HD PRO.CONCEAL Corrector (10 Litir)](https://daria.is/products/hd-pro-conceal-corrector-10-litir): A concealer that needs no introduction. The L.A. Girl HD PRO.conceal is the holy grail of concealers. The creamy, yet lightweight texture provides complete, natural-looking coverage with a ‘barely there’ feel and all-day wear. Our top  color correctors camouflage darkness under the eyes, reduce redness, and eliminate hyperpigmentation so you can stress less and slay more. A brush tip applicator makes placement easier than ever – gently squeeze the product into the brush and apply as needed. Although PRO.conceal provides flawless coverage for its day job, as a side hustle you can use it to contour and highlight, snatching your features – just like the PROs. Lightweight, creamy texture Long-wearing, crease-resistant formula Built in, brush-tip applicator Correct, conceal, contour, & highlight Ideal for all skin types Cruelty-free & fragrance-free Orange Color Corrector: Neutralizes dark spots for medium/deep skin tones. Yellow Color Corrector: Corrects dullness caused by purple/blue undertones and brightens under-eye circles for medium to dark skin tones. Green Color Corrector: Neutralizes redness for medium to dark skin tones. Lavender Color Corrector: Neutralizes unwanted yellow undertones and sallowness. Peach Color Corrector: Neutralizes dark spots for light skin tones. Light Yellow Color Corrector: Corrects dullness caused by purple/blue undertones and brightens under eye circles for fairer skin tones. Mint Color Corrector: Neutralizes redness for fair to light skin tones. Reddish Color Corrector: Neutralizes dark spots for dark to deep dark skin tones. Cool Pink Color Corrector: Neutralizes dark spots for fair to light skin tones. Flat White Color Corrector: Lightens and neutralizes any PRO.conceal shade.
-  Updated: 2026-03-08T04:07:20Z
+  Updated: 2026-03-18T11:15:58Z
   Vendor: L.A. Girl
   Product Type: hyljari
   Availability: Available
@@ -600,7 +600,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/l-a-girl-pro-conceal-hd-concealer-cool-pink-corrector-8g.webp?v=1739460522
     Price: kr 795.00 ISK
   - [Peach Corrector](https://daria.is/products/hd-pro-conceal-corrector-10-litir?variant=43883123441881)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/peachcorrector.webp?v=1739460528
     Price: kr 795.00 ISK
   - [Flat White Corrector](https://daria.is/products/hd-pro-conceal-corrector-10-litir?variant=43883123474649)
@@ -681,7 +681,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/white_9a85eb87-1a29-4910-8263-48fcdef220ea.webp?v=1739460529
     Price: kr 1,295.00 ISK
 - [LIP ATTRACTION LIPSTICK (10 Litir)](https://daria.is/products/lip-attraction-lipstick-10-litir): Lip Attraction will have you catching feelings for lipstick all over again! The high-shine formula applies like a lipstick and wears like a pigmented gloss giving you the best of both worlds. Vitamin E locks in moisture leaving lips soft and hydrated for that first kiss feeling. Like any classic love story, we know you can’t get enough of the original 10 shades, so we brought in 10 more to fall for. Lip Attraction 2 has the same creamy, pigmented formula but this time with light-reflecting pigments which adds a subtle shimmer you'll go back for again and again. Surprisingly wearable, the shimmer lipstick bounces off light for an extra-glam shine without looking glittery or metallic. Why Lip Attraction will have you crushing: Full-Coverage Color Semi-gloss finish Magnetic closure 10 glossy shades, 10 shimmer shades Hydrating vitamin E formula
-  Updated: 2026-03-10T13:53:19Z
+  Updated: 2026-03-17T13:35:27Z
   Vendor: L.A. Girl
   Product Type: Varalitur
   Availability: Available
@@ -921,7 +921,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/darkblue.webp?v=1739460546
     Price: kr 845.00 ISK
 - [HD PRO.CONCEAL (20 Litir)](https://daria.is/products/hd-pro-conceal-10-litir): A concealer that needs no introduction. The L.A. Girl HD PRO.conceal is the holy grail of concealers. The creamy, yet lightweight texture provides complete, natural-looking coverage with a ‘barely there’ feel and all-day wear. Our top  color correctors camouflage darkness under the eyes, reduce redness, and eliminate hyperpigmentation so you can stress less and slay more. A brush tip applicator makes placement easier than ever – gently squeeze the product into the brush and apply as needed. Although PRO.conceal provides flawless coverage for its day job, as a side hustle you can use it to contour and highlight, snatching your features – just like the PROs. Lightweight, creamy texture Long-wearing, crease-resistant formula Built in, brush-tip applicator Correct, conceal, contour, & highlight Ideal for all skin types Cruelty-free & fragrance-free
-  Updated: 2026-03-08T04:07:18Z
+  Updated: 2026-03-18T15:08:06Z
   Vendor: L.A. Girl
   Product Type: hyljari
   Availability: Available
@@ -1052,7 +1052,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/mediumbeige_f67e0178-a34f-4f92-8a90-f9a540dae642.webp?v=1739460559
     Price: kr 895.00 ISK
 - [PRO MATTE FOUNDATION (8 Litir)](https://daria.is/products/pro-matte-foundation-8-litir): Get matte, get even. The L.A. Girl PRO.matte Foundation is your new ride or die for a flawless-looking face and lasting wear. With a shine-free and suede-like finish, you’ll have smooth, buildable coverage that looks matte, but never dry. Not only does this foundation minimize the appearance of pores and fine lines with the soft-focus formula, but it is also packed with vitamin E, B5 and sunflower oil to leave your skin feeling soft and hydrated. Wear with confidence, because like any good ride or die, we’ve got you covered. Medium to full coverage foundation Suede-like finish Long wearing, buildable coverage Added vitamin E, B5 & sunflower oil Best for normal to oily skin types Fragrance free Cruelty-free, paraben-free & vegan
-  Updated: 2026-02-24T15:41:17Z
+  Updated: 2026-03-18T15:07:57Z
   Vendor: L.A. Girl
   Product Type: Farði
   Availability: Available
@@ -1185,7 +1185,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/cashmere.webp?v=1739460569
     Price: kr 795.00 ISK
 - [PRO CONTOUR POWDER (4 Litir)](https://daria.is/products/pro-contour-powder-4-litir): Contouring made easy with color coordinated shades. Available in 8 cream and 8 powder duos. Buttery, soft formula melts into skin for a natural finish. The smooth powder formula blends beautifully for a flawless-looking contour. Cream and powder can be used together or separately. Be sure to try the additional shimmery highlight-contour palette available in both formulas.
-  Updated: 2025-12-04T12:10:07Z
+  Updated: 2026-03-12T09:37:47Z
   Vendor: L.A. Girl
   Product Type: highlighter
   Availability: Available
@@ -1243,7 +1243,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/shimmerrosegold.webp?v=1739460575
     Price: kr 995.00 ISK
 - [LUMILICIOUS LIPGLOSS (10 Litir)](https://daria.is/products/lumilicious-lipgloss-10-litir): One swipe is all it takes to find the gloss of your dreams. Lumilicious lipgloss drenches lips in major hydration with aloe, rose hip fruit oil, argan oil, vitamin e, and sweet almond oil. These skin loving ingredients work together leaving lips feeling kissably soft. Available in shimmer or high gloss finishes and a universal clear gloss. Fall in lumilicious love. Hydrating formula Enriched with skin loving ingredients Cruelty-free, paraben-free & vegan
-  Updated: 2026-03-06T16:08:09Z
+  Updated: 2026-03-15T03:40:28Z
   Vendor: L.A. Girl
   Product Type: gloss
   Availability: Available
@@ -1319,7 +1319,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/ahotshot.webp?v=1739460582
     Price: kr 845.00 ISK
 - [PRO BRUSHES (21 Bursti)](https://daria.is/products/pro-brushes-21-bursti): L.A. Girl Pro.Brushes are hand crafted by skilled brush masters, featuring custom glistening lacquered handles made of authentic birch wood from sustainable forests. Exceptional, high quality, soft synthetic hair provides excellent pickup & payoff for precise application. Cruelty Free & Vegan Friendly
-  Updated: 2026-03-07T13:39:51Z
+  Updated: 2026-03-18T15:08:06Z
   Vendor: L.A. Girl
   Product Type: bursti
   Availability: Available
@@ -1475,7 +1475,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 17,900.00 ISK
 - [Lexi blazer svartur](https://daria.is/products/lexi-blazer-svartur): 90% Polyester, 10% Elastane
-  Updated: 2026-03-08T04:08:46Z
+  Updated: 2026-03-18T16:05:37Z
   Vendor: ICHI
   Product Type: blazer
   Availability: Available
@@ -1487,7 +1487,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,170.00 ISK
   - [38](https://daria.is/products/lexi-blazer-svartur?variant=44165863669977)
-    Availability: Available
+    Availability: Not Available
     Price: kr 4,170.00 ISK
   - [40](https://daria.is/products/lexi-blazer-svartur?variant=44165863702745)
     Availability: Available
@@ -1499,82 +1499,12 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,170.00 ISK
 - [Snyrtitaska brún](https://daria.is/products/snyrtitaska-brun): Sniðug snyrtitaska sem hægt er að geyma mikið af snyrtivörum Auðveld að ferðast með 23X12X12 cm
-  Updated: 2026-01-22T02:26:13Z
+  Updated: 2026-03-17T19:09:57Z
   Vendor: Daría
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/Untitleddesign-2023-11-02T144416.636.png?v=1739460633
   Price: kr 2,990.00 ISK
-- [Tinted Foundation (16 Litir)](https://daria.is/products/tinted-foundation-16-litir): On the days where a full glam face just feels like too much, Tinted Foundation has got you covered… I mean tinted. The buildable, natural finish blurs imperfections with a sheer to medium wash of color, basically perfecting your “no makeup” makeup routine. Packed with skin loving ingredients like Glycerin, Panthenol, Vitamin E, Ginseng Root Extract and Safflower Seed Oil, your skin will be brightened, hydrated, and soothed, like a skin care, moisturizer, and foundation in one. Just as important as the ingredients we included, are the things we left out. Tinted Foundation is vegan, fragrance-free, paraben-free & cruelty-free. Buildable, natural finish Sheer to medium coverage Glycerin, Panthenol, Vitamin E, Ginseng Root Extract, Safflower seed oil Needle tip nozzle for mess free application Paraben-free, cruelty-free, & vegan
-  Updated: 2026-03-10T13:53:22Z
-  Vendor: L.A. Girl
-  Product Type: Farði
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GLM751-772_prod_img_main_400x_2x_3e04a49b-2174-4d68-8973-082ffa1452e1.webp?v=1739460625
-  - [Ivory](https://daria.is/products/tinted-foundation-16-litir?variant=44360042643673)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/ivory.webp?v=1739460627
-    Price: kr 1,195.00 ISK
-  - [Porcelain](https://daria.is/products/tinted-foundation-16-litir?variant=44360042676441)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/porcelain_e847ac3f-41a1-4d69-af38-7860b56a92d3.webp?v=1739460628
-    Price: kr 1,195.00 ISK
-  - [Bisque](https://daria.is/products/tinted-foundation-16-litir?variant=44360042709209)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/bisque_d90438b8-b616-4e47-8cae-598d1a4ff11f.webp?v=1739460642
-    Price: kr 1,195.00 ISK
-  - [Nude](https://daria.is/products/tinted-foundation-16-litir?variant=44360042741977)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/nude_8a04ec9c-a54a-4e85-afe5-0227e15673a3.webp?v=1739460640
-    Price: kr 1,195.00 ISK
-  - [Beige](https://daria.is/products/tinted-foundation-16-litir?variant=44360042774745)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/beige_53661b88-111c-49ee-99fe-cfbcddd74d56.webp?v=1739460639
-    Price: kr 1,195.00 ISK
-  - [Warm Beige](https://daria.is/products/tinted-foundation-16-litir?variant=44360042807513)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/warmbeige_5c5984b4-d786-43ea-a143-f15cbd99ae66.webp?v=1739460632
-    Price: kr 1,195.00 ISK
-  - [Medium Beige](https://daria.is/products/tinted-foundation-16-litir?variant=44360042840281)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/mediumbeige_7257453d-ca64-4fda-9e56-20b469a3c8a2.webp?v=1739460644
-    Price: kr 1,195.00 ISK
-  - [Golden](https://daria.is/products/tinted-foundation-16-litir?variant=44360042873049)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/golden.webp?v=1739460629
-    Price: kr 1,195.00 ISK
-  - [Tawny](https://daria.is/products/tinted-foundation-16-litir?variant=44360042905817)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/tawny.webp?v=1739460633
-    Price: kr 1,195.00 ISK
-  - [Warm Sand](https://daria.is/products/tinted-foundation-16-litir?variant=44360042938585)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/warmsand.webp?v=1739460638
-    Price: kr 1,195.00 ISK
-  - [Tan](https://daria.is/products/tinted-foundation-16-litir?variant=44360042971353)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/tan.webp?v=1739460636
-    Price: kr 1,195.00 ISK
-  - [Caramel](https://daria.is/products/tinted-foundation-16-litir?variant=44360043004121)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/caramel_eba1ea6e-1d6a-47a1-aaf3-2d22f53484d0.webp?v=1739460635
-    Price: kr 1,195.00 ISK
-  - [Rich Honey](https://daria.is/products/tinted-foundation-16-litir?variant=44360043036889)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/richhoney.webp?v=1739460647
-    Price: kr 1,195.00 ISK
-  - [Almond](https://daria.is/products/tinted-foundation-16-litir?variant=44360043069657)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/almond.webp?v=1739460646
-    Price: kr 1,195.00 ISK
-  - [Bronze](https://daria.is/products/tinted-foundation-16-litir?variant=44360043102425)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/bronze.webp?v=1739460631
-    Price: kr 1,195.00 ISK
-  - [Cocoa](https://daria.is/products/tinted-foundation-16-litir?variant=44360043135193)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1319/3093/files/cocoa.webp?v=1739460643
-    Price: kr 1,195.00 ISK
 - [PRO.PREP CORRECTING PRIMER (2 litir)](https://daria.is/products/pro-prep-correcting-primer-2-litir): All good makeup days start with how you prep skin, and we are all about that base! The PRO.prep Primer hydrates your skin with sodium hyaluronate (like giving your skin a drink of water!) while vitamin B, cornflower extract and chamomile lock in moisture and improve skin appearance. The color correcting primers have a tint of color to help adjust skin tone and target various skin needs. The result? A perfectly prepped face ready for flawless makeup application. Color corrects skin tone Preps skin for makeup application Lotion-based primer Ideal for all skin types Cruelty-free, paraben-free & vegan Green PRO.prep Color Correcting Face Primer - neutralizes redness for an even-looking skin tone. Cool Pink PRO.prep Color Correcting Face Primer - brightens skin for an illuminating glow.
   Updated: 2025-12-23T18:31:56Z
   Vendor: L.A. Girl
@@ -1631,33 +1561,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [Shimmer Coconut](https://daria.is/products/lip-oil-nourishing-gloss-6-litir?variant=44360234008793)
     Availability: Available
     Price: kr 845.00 ISK
-- [Twiggy long](https://daria.is/products/twiggy-long): 98% Cotton, 2% Elastane
-  Updated: 2026-03-02T11:13:25Z
-  Vendor: ICHI
-  Product Type: buxur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20119128_19044_400_1.jpg?v=1739460641
-  - [26/32](https://daria.is/products/twiggy-long?variant=44458239557849)
-    Availability: Available
-    Price: kr 10,900.00 ISK
-  - [27/32](https://daria.is/products/twiggy-long?variant=44458239590617)
-    Availability: Available
-    Price: kr 10,900.00 ISK
-  - [28/32](https://daria.is/products/twiggy-long?variant=44458239623385)
-    Availability: Available
-    Price: kr 10,900.00 ISK
-  - [29/32](https://daria.is/products/twiggy-long?variant=44458239656153)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
-  - [30/32](https://daria.is/products/twiggy-long?variant=44458239688921)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
-  - [31/32](https://daria.is/products/twiggy-long?variant=44458239721689)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
-  - [32/32](https://daria.is/products/twiggy-long?variant=44458239754457)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
 - [Marc inbane ferðasprey](https://daria.is/products/marc-inbane-ferdasprey): MARC INBANE brúnkuspreyið í handægri ferðastærð. Auðvelt að bera á til að fá fallega og jafna brúnku. MARC INBANE náttúrulegt brúnkusprey í ferðastærð Auðveld, heilbrigð og örugg leið til að fá og viðhalda fallegri brúnku allt árið um kring. Þú getur auðveldlega borið á þig sjálf/ur og náð lýtalausri brúnku. Spreyið inniheldur náttúruleg innihaldsefni úr jurtaríkinu svo sem aloe vera og ginko. Spreyið þornar hratt og var hannað þannig að öruggt er að nota það reglulega og það skilar flekkjalausri áferð. Förðunarfræðingar, snyrtifræðingar og hárgreiðslufólk mælir reglulega með MARC INBANE brúnkuspreyinu. Ábending: Við mælum eindregið með því að nota MARC INBANE örtrefjahanskann eða þar til gerða brúnkuhanska til að bera MARC INBANE brúnkuspreyið á líkamann. MARC INBANE svartur skrúbbur (6ml) Sérstaklega rakagefandi andlitsskrúbbur sem gefur húðinni þinni heilbrigðan ljóma. Það sem gerir þennan skrúbb sérstakan eru svörtu kornin sem styðja við brúnkuna, bakteríudrepandi áhrif. Hann hjálpar til við að endurnýja ysta lag húðarinnar og inniheldur einstök náttúruleg innihaldsefni. Með því að nota skrúbbinn áður en þú berð á þig brúnkuspreyið færðu jafnari lit sem endist lengur. 50ml
   Updated: 2025-12-02T07:55:54Z
   Vendor: Marc Inbane
@@ -1666,7 +1569,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/mi-1951_f87fbf3a-96d0-4226-ac17-9478f4a7dbd3_3e3abd07-ed97-4d2f-8885-8b3d04cecc10.jpg?v=1739460645
   Price: kr 5,690.00 ISK
 - [Maeve Leðurjakki](https://daria.is/products/ledur-jakki): Fit: Regular fit Waist: Regular Waist Composition : 100% Leather Lining: 100% Polyester
-  Updated: 2026-03-02T11:07:16Z
+  Updated: 2026-03-15T03:40:33Z
   Vendor: soaked
   Product Type: yfirhafnir
   Availability: Available
@@ -1715,7 +1618,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/standandi_spegill_me_led_lj_sum.jpg?v=1739460746
   Price: kr 49,900.00 ISK
 - [Jules samfestingur (Atelier Rêve)](https://daria.is/products/jules-samfestingur-atelier-reve): 98% Cotton, 2% Elastane
-  Updated: 2026-03-08T04:08:07Z
+  Updated: 2026-03-14T14:39:17Z
   Vendor: ICHI
   Product Type: samfestingur
   Availability: Available
@@ -1733,7 +1636,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 8,370.00 ISK
 - [Zafir sokkabuxur (50 den)](https://daria.is/products/zafir-sokkabuxur-50-den): 94% Polyamide, 6% Elastane
-  Updated: 2026-03-02T11:07:25Z
+  Updated: 2026-03-18T13:28:35Z
   Vendor: ICHI
   Product Type: 
   Availability: Available
@@ -1754,10 +1657,10 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 870.00 ISK
   - [XXL](https://daria.is/products/zafir-sokkabuxur-50-den?variant=45702223003865)
-    Availability: Available
+    Availability: Not Available
     Price: kr 870.00 ISK
 - [Ferðaspegill með Led lýsingu](https://daria.is/products/ferdaspegill-med-led-lysingu): Sniðugur ferðaspegill með 3X og 5X stækkun á annarri hliðinni og venjulegum spegli á hinni hliðinni. Hægt er að breyta í hvíta, bláa og gula birtu, Warm light, Natural White og Cool white. Dimmanleg ljós. Hægt er að hlaða spegilinn, 1000mah rafhlaða, usb snúra fylgir með. Sleep mode: Ljósin slökkna þegar hann er lokaður og kveikna aftur þegar hann er opnaður. Hæð 25cm Breidd 19 cm Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-10T15:02:38Z
+  Updated: 2026-03-17T19:09:57Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -1771,63 +1674,12 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/B398A03A-9E77-4693-BADD-4B7F3F7BEF2E.webp?v=1739460755
   Price: kr 8,290.00 ISK
 - [Lashvana Aria cluster augnhár](https://daria.is/products/lashvana-aria-cluster-augnhar): DIY cluster augnhárin koma í fjórum mismunandi lengdum ( 10mm, 12mm, 14mm & 16mm ). 40 stk í pakka. Vegan & Cruelty free Vatns & Svitaheld Endurnýtanleg augnhár Endast í allt að 5-10 daga Ofurþunnt band Hönnuð með þægindi í huga
-  Updated: 2026-03-09T10:17:51Z
+  Updated: 2026-03-19T22:44:22Z
   Vendor: lashvana
   Product Type: augnhár
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/4E828F27-B9D0-45D6-8C22-1F0E616F0561.webp?v=1739460758
   Price: kr 2,995.00 ISK
-- [Lexi oversize blazer](https://daria.is/products/lexi-oversize-blazer-1): 90% Polyester, 10% Elastane
-  Updated: 2026-03-08T04:08:47Z
-  Vendor: ICHI
-  Product Type: blazer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20118548_194008_500.jpg?v=1739460759
-  - [34](https://daria.is/products/lexi-oversize-blazer-1?variant=45833035579609)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-  - [36](https://daria.is/products/lexi-oversize-blazer-1?variant=45833035612377)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-  - [38](https://daria.is/products/lexi-oversize-blazer-1?variant=45833035645145)
-    Availability: Available
-    Price: kr 5,070.00 ISK
-  - [40](https://daria.is/products/lexi-oversize-blazer-1?variant=45833035677913)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-  - [42](https://daria.is/products/lexi-oversize-blazer-1?variant=45833035710681)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-  - [44](https://daria.is/products/lexi-oversize-blazer-1?variant=45833035743449)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-- [Twiggy long svartar](https://daria.is/products/twiggy-long-svartar): 98% Cotton, 2% Elastane
-  Updated: 2026-03-02T11:13:26Z
-  Vendor: ICHI
-  Product Type: buxur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20119128_19041_500.jpg?v=1739460770
-  - [25](https://daria.is/products/twiggy-long-svartar?variant=45840624320729)
-    Availability: Available
-    Price: kr 10,900.00 ISK
-  - [26](https://daria.is/products/twiggy-long-svartar?variant=45840624353497)
-    Availability: Available
-    Price: kr 10,900.00 ISK
-  - [27](https://daria.is/products/twiggy-long-svartar?variant=45840624386265)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
-  - [28](https://daria.is/products/twiggy-long-svartar?variant=45840624419033)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
-  - [29](https://daria.is/products/twiggy-long-svartar?variant=45840624451801)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
-  - [30](https://daria.is/products/twiggy-long-svartar?variant=45840624484569)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
-  - [31](https://daria.is/products/twiggy-long-svartar?variant=45840624517337)
-    Availability: Not Available
-    Price: kr 10,900.00 ISK
 - [Jessie kápa](https://daria.is/products/jessie-kapa): 52% Wool, 46% Polyester, 2% Polyamide
   Updated: 2026-03-08T04:08:03Z
   Vendor: Atelier Rêve
@@ -1846,15 +1698,8 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [40](https://daria.is/products/jessie-kapa?variant=45855994675417)
     Availability: Not Available
     Price: kr 14,370.00 ISK
-- [BODIL VESKI](https://daria.is/products/bodil-veski)
-  Updated: 2026-03-09T19:07:27Z
-  Vendor: ICHI
-  Product Type: taska
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20122022_194008_350.jpg?v=1739460793
-  Price: kr 2,070.00 ISK
 - [lone gallabuxur](https://daria.is/products/lone-gallabuxur): Model: Coco Fit: Regular fit Waist: Regular Waist Length: Full length Length: 86 cm corresponds to size 26/30 Composition : 80% Cotton, 18% Polyester, 2% Elastane
-  Updated: 2026-03-02T11:13:28Z
+  Updated: 2026-03-15T03:40:20Z
   Vendor: cream
   Product Type: buxur
   Availability: Available
@@ -1914,7 +1759,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 14,900.00 ISK
 - [Zianna gallapils](https://daria.is/products/zianna-gallapils)
-  Updated: 2026-03-02T11:07:33Z
+  Updated: 2026-03-15T13:05:17Z
   Vendor: soaked
   Product Type: pils
   Availability: Available
@@ -1934,48 +1779,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [XL](https://daria.is/products/zianna-gallapils?variant=45914350911705)
     Availability: Not Available
     Price: kr 5,399.00 ISK
-- [Fauna rúllukraga peysa hvít](https://daria.is/products/fauna-rullukraga-peysa-hvit)
-  Updated: 2026-03-08T04:06:44Z
-  Vendor: soaked
-  Product Type: peysa
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/1676620_50035.jpg?v=1739460832
-  - [XS](https://daria.is/products/fauna-rullukraga-peysa-hvit?variant=45914402619609)
-    Availability: Available
-    Price: kr 3,299.00 ISK
-  - [S](https://daria.is/products/fauna-rullukraga-peysa-hvit?variant=45914402652377)
-    Availability: Available
-    Price: kr 3,299.00 ISK
-  - [M](https://daria.is/products/fauna-rullukraga-peysa-hvit?variant=45914402685145)
-    Availability: Not Available
-    Price: kr 3,299.00 ISK
-  - [L](https://daria.is/products/fauna-rullukraga-peysa-hvit?variant=45914402717913)
-    Availability: Not Available
-    Price: kr 3,299.00 ISK
-  - [XL](https://daria.is/products/fauna-rullukraga-peysa-hvit?variant=45914402750681)
-    Availability: Not Available
-    Price: kr 3,299.00 ISK
-- [Fauna toppur hvítur](https://daria.is/products/fauna-toppur-hvitur)
-  Updated: 2026-03-08T04:06:45Z
-  Vendor: soaked
-  Product Type: bolir
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/1676592_50035.jpg?v=1739460845
-  - [XS](https://daria.is/products/fauna-toppur-hvitur?variant=45917023666393)
-    Availability: Available
-    Price: kr 2,099.00 ISK
-  - [S](https://daria.is/products/fauna-toppur-hvitur?variant=45917023699161)
-    Availability: Available
-    Price: kr 2,099.00 ISK
-  - [M](https://daria.is/products/fauna-toppur-hvitur?variant=45917023731929)
-    Availability: Not Available
-    Price: kr 2,099.00 ISK
-  - [L](https://daria.is/products/fauna-toppur-hvitur?variant=45917023764697)
-    Availability: Not Available
-    Price: kr 2,099.00 ISK
-  - [XL](https://daria.is/products/fauna-toppur-hvitur?variant=45917023797465)
-    Availability: Available
-    Price: kr 2,099.00 ISK
 - [main skyrta hvít](https://daria.is/products/main-skyrta-hvit): 100% Viscose (LENZING™ ECOVERO™)
   Updated: 2026-03-02T11:07:45Z
   Vendor: ICHI
@@ -2008,7 +1811,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/MistyC.webp?v=1739460872
   Price: kr 2,995.00 ISK
 - [LASHVANA Bonder & Sealer DUO](https://daria.is/products/lashvana-bonder-sealer-duo)
-  Updated: 2026-03-09T10:17:55Z
+  Updated: 2026-03-19T22:44:17Z
   Vendor: lashvana
   Product Type: augnhár
   Availability: Available
@@ -2036,7 +1839,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 3,570.00 ISK
 - [midde samfestingur](https://daria.is/products/midde-samfestingur): 100% Polyester
-  Updated: 2026-03-02T11:07:49Z
+  Updated: 2026-03-18T13:28:31Z
   Vendor: b.young
   Product Type: samfestingur
   Availability: Available
@@ -2054,31 +1857,10 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 3,870.00 ISK
   - [42](https://daria.is/products/midde-samfestingur?variant=46028868157657)
-    Availability: Available
+    Availability: Not Available
     Price: kr 3,870.00 ISK
-- [kayita samfella](https://daria.is/products/kayita-samfella)
-  Updated: 2026-03-08T04:08:23Z
-  Vendor: ICHI
-  Product Type: samfella
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20122388_194008_100.jpg?v=1739460885
-  - [XS](https://daria.is/products/kayita-samfella?variant=46028887294169)
-    Availability: Not Available
-    Price: kr 2,370.00 ISK
-  - [S](https://daria.is/products/kayita-samfella?variant=46028887326937)
-    Availability: Not Available
-    Price: kr 2,370.00 ISK
-  - [M](https://daria.is/products/kayita-samfella?variant=46028887359705)
-    Availability: Available
-    Price: kr 2,370.00 ISK
-  - [L](https://daria.is/products/kayita-samfella?variant=46028887392473)
-    Availability: Not Available
-    Price: kr 2,370.00 ISK
-  - [XL](https://daria.is/products/kayita-samfella?variant=46028887425241)
-    Availability: Not Available
-    Price: kr 2,370.00 ISK
 - [Förðunartaska með Led spegli (Svört)](https://daria.is/products/fordunartaska-med-led-spegli-svort): Æðisleg förðunartaska með Led ljósum og spegli Þessi snyrtitaska er frábær fyrir þá sem vilja halda snyrtivörunum sínum í lagi og á öruggum stað, bæði á ferð og heima við. Taskan er með margskiptum hólfum, þar á meðal vatnsheldum vösum sem tryggja að förðunar- og snyrtivörur þínar haldist öruggar, skipulagðar og aðgengilegar Lykilatriði: Spegil með LED-ljósum: Innbyggður spegill með LED-ljósum sem gefur frá sér mjög góða birtu, 3 birtustillingar,Cool white/Warm white/Natura white sem er einnig hægt að dimma Gott Geymslupláss: Nægilega stór til að geyma allar helstu snyrtivörur, svo sem bursta, förðunarvörur, húðvörur og hárvörur. Vatnsheld Hönnun: Yfirborðsefni sem þolir vatn verndar vörurnar þínar, jafnvel við raka eða vatnsslettur. Ferðavæn Stærð: Létt og meðfærileg Sniðug Hólfaskipting: Margskipt hólf tryggja gott skipulag á mismunandi vörum, auðvelt að breyta stærð hólfanna. Burstavasi: Sér burstavasi fylgir með sem heldur burstunum þínum á sínum stað Taskan er 26X11 cm á stærð Endurhlaðanleg 2000mah rafhlaða fyrir led ljós, snúra fylgir með
-  Updated: 2026-03-11T13:46:47Z
+  Updated: 2026-03-19T10:25:35Z
   Vendor: Vanity beauty accessories
   Product Type: förðunartaska
   Availability: Available
@@ -2146,7 +1928,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 845.00 ISK
 - [Brightening Setting Powder](https://daria.is/products/brightening-setting-powder): This setting powder brightens and blurs, subtly color correcting your look while softening pores and fine lines. Available in 3 shades, it holds your makeup in place all day, leaving you with a bright, silky matte finish.
-  Updated: 2026-03-08T04:05:45Z
+  Updated: 2026-03-18T15:08:06Z
   Vendor: L.A. Girl
   Product Type: púður
   Availability: Available
@@ -2180,7 +1962,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 795.00 ISK
 - [Contour Envy Contour Wand](https://daria.is/products/contour-envy-contour-wand): Sculpt, define, and enhance features with Contour Envy Contour Wands. This lightweight, buildable gel blends effortlessly for long wear and comes with a cushion-tip applicator for an easy-to-use application. Soft-Cushion Applicator Buildable Gel Formula Lightweight and Long-Wearing Skin-Loving Ingredients Sodium Hyaluronate Shea Butter Both ingredients help hydrate and soothe the skin.
-  Updated: 2026-03-08T04:06:19Z
+  Updated: 2026-03-18T15:08:02Z
   Vendor: L.A. Girl
   Product Type: contour
   Availability: Available
@@ -2219,18 +2001,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [Neutral](https://daria.is/products/hd-pro-bb-cream?variant=46197215461593)
     Availability: Available
     Price: kr 745.00 ISK
-- [Hydrating Mist](https://daria.is/products/hydrating-mist): Hydrating Mist hits refresh on your skin’s hydration any time of day. A blend of rose water, aloe, witch hazel, and vitamin E are the pick-me-up needed to revive your complexion with a quick boost of moisture, while the microfine mist keeps your makeup intact. This much needed midday refresher comes in either Dragon Fruit or Pineapple to cool and soothe with a tropical twist. Refresh & hydrate skin Lightweight, microfine mist Rose water, vitamin E, aloe & witch hazel Dragon Fruit & Pineapple scents Cruelty-free, paraben-free & vegan
-  Updated: 2026-03-08T04:07:44Z
-  Vendor: L.A. Girl
-  Product Type: snyrtivörur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GFS429_prod_img.webp?v=1739461007
-  - [Pineapple](https://daria.is/products/hydrating-mist?variant=46197228306649)
-    Availability: Available
-    Price: kr 845.00 ISK
-  - [Dragon Fruit](https://daria.is/products/hydrating-mist?variant=46197228339417)
-    Availability: Available
-    Price: kr 845.00 ISK
 - [L.A. Girl Glide Gel Liner® Pencil (10 litir)](https://daria.is/products/l-a-girl-glide-gel-liner-pencil-10-litir): Finally, the bold, pigmented look of a gel eyeliner with the ease of using a pencil. The Glide Gel Eyeliner has a soft gel-like formula that glides on effortlessly. You don’t have to be a makeup artist to get the defined, bold look only a gel eyeliner can give. For a smokey look, smudge out the eyeliner immediately after application, then let it dry down for an all-day wear. Sharpen before application to get precise lines. Long-wearing, bold color Gel-like formula Glides on smoothly, no tugging Made in Germany Cruelty-free & paraben-free Finish off your eye look with Volumatic Mascara!
   Updated: 2026-03-08T04:08:30Z
   Vendor: L.A. Girl
@@ -2395,7 +2165,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
 - [JANNIE GALLAPILS](https://daria.is/products/jannie-gallapils): 95% Cotton, 4% Polyester, 1% Elastane
-  Updated: 2026-03-08T04:07:54Z
+  Updated: 2026-03-14T15:12:30Z
   Vendor: cream
   Product Type: pils
   Availability: Available
@@ -2413,7 +2183,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 4,470.00 ISK
   - [42](https://daria.is/products/jannie-gallapils?variant=46365984882905)
-    Availability: Available
+    Availability: Not Available
     Price: kr 4,470.00 ISK
 - [Donne buxur](https://daria.is/products/donne-buxur): 98% Cotton, 2% Elastane
   Updated: 2026-03-08T04:06:31Z
@@ -2666,7 +2436,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,370.00 ISK
 - [NOLA SKYRTA HVÍT](https://daria.is/products/nola-skyrta-hvit): 50% Viscose, 40% Nylon, 10% Lyocell
-  Updated: 2026-03-05T13:33:43Z
+  Updated: 2026-03-16T15:14:26Z
   Vendor: cream
   Product Type: skyrta
   Availability: Available
@@ -2713,27 +2483,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [31/32](https://daria.is/products/leona-leopard-gallabuxur?variant=46544774299865)
     Availability: Not Available
     Price: kr 5,070.00 ISK
-- [HYPE THE DETAiL toppur sand](https://daria.is/products/hype-the-detail-toppur-sand): 88% polyester, 12% elastane
-  Updated: 2026-03-08T04:07:45Z
-  Vendor: hypethedetail
-  Product Type: Toppur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/3-200-1-45_1_print.jpg?v=1744810511
-  - [XS](https://daria.is/products/hype-the-detail-toppur-sand?variant=46834078482649)
-    Availability: Available
-    Price: kr 1,869.00 ISK
-  - [S](https://daria.is/products/hype-the-detail-toppur-sand?variant=46561486799065)
-    Availability: Not Available
-    Price: kr 2,670.00 ISK
-  - [M](https://daria.is/products/hype-the-detail-toppur-sand?variant=46561486831833)
-    Availability: Available
-    Price: kr 2,670.00 ISK
-  - [L](https://daria.is/products/hype-the-detail-toppur-sand?variant=46561486864601)
-    Availability: Not Available
-    Price: kr 2,670.00 ISK
-  - [XL](https://daria.is/products/hype-the-detail-toppur-sand?variant=46561486897369)
-    Availability: Not Available
-    Price: kr 2,670.00 ISK
 - [cherina pallíttu kjóll](https://daria.is/products/cherina-pallittu-kjoll): 100% Polyester
   Updated: 2026-03-08T04:06:05Z
   Vendor: CULTURE
@@ -2756,7 +2505,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 7,770.00 ISK
 - [Miami Spegill 40 X 50 CM (2 litir) - Förðunarspegill með Led ljósum](https://daria.is/products/miami-spegill-40-x-50-cm-2-litir): Fáðu faglega lýsingu heima hjá þér með Miami förðunarspeglinum – fullkominn spegill fyrir daglega snyrtingu og förðun Við eigum Miami spegilinn til í 2 litum, hvítann og silfur Eiginleikar: Stærð: 40 x 50 cm Bæði hægt að láta standa á snyrtiborði og hengja uppá vegg 12 LED perur: Gefa bjarta og jafna lýsingu – Veldu milli 3 birtustillinga – Cool White, Warm White og Natural White – til að fá nákvæma förðunarlýsingu fyrir allar aðstæður Snertistýring: Auðveld stilling á birtu og birtustigi með einum snertihnappi Símahaldari: Haltu símanum innan seilingar – horfðu á kennslumyndbönd, hlustaðu á tónlist eða fylgstu með samfélagsmiðlum á meðan þú undirbýrð þig USB-A og USB-C tengi: Hleðslutengimöguleikar fyrir flest snjalltæki Stílhrein hönnun: Hentar jafnt í svefnherbergi sem og á snyrtiborðið – hægt að hafa frístandandi eða festa á vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-03-11T17:41:18Z
+  Updated: 2026-03-14T15:41:57Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -2768,7 +2517,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 22,900.00 ISK
 - [ROTA GALLAJAKKI](https://daria.is/products/rota-gallajakki): 75% Cotton, 23% Polyester, 2% Elastane
-  Updated: 2026-03-03T12:20:17Z
+  Updated: 2026-03-18T17:54:50Z
   Vendor: cream
   Product Type: yfirhafnir
   Availability: Available
@@ -2783,7 +2532,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 6,570.00 ISK
   - [L](https://daria.is/products/rota-gallajakki?variant=46623502139609)
-    Availability: Available
+    Availability: Not Available
     Price: kr 6,570.00 ISK
   - [XL](https://daria.is/products/rota-gallajakki?variant=46623502172377)
     Availability: Not Available
@@ -2792,7 +2541,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 6,570.00 ISK
 - [Stick & Stay Peel-off Lip Stain (Caramel)](https://daria.is/products/stick-stay-peel-off-lip-stain-caramel): Peel-off Lip Stain, Semi-Permanet Lip Look! ✨ Endist í allt að 12klst á vörunum 💧 Vatnsþolið og smitfrítt 🌬️ Ofurlétt á vörunum 👄 Varanlegt útlit í takmarkaðan tíma Notkun: 1) Berðu lip-stain á varirnar þínar eða einungis á varalínuna 2) Leyfðu því að þorna í 2-3 mínútur 3) Taktu varlega af og sjáðu litinn sem helst út daginn! 4) Fullkomnaðu varirnar með Lashvana Lip-Oil Fjarlæging: Við mælum með því að nota farðahreinsi eins og t.d. Michellar Cleansing Water (Bleika)
-  Updated: 2026-03-10T15:13:18Z
+  Updated: 2026-03-16T16:00:06Z
   Vendor: lashvana
   Product Type: varablýantur
   Availability: Available
@@ -2806,7 +2555,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/peach.webp?v=1751721634
   Price: kr 3,990.00 ISK
 - [lip oil strawberry](https://daria.is/products/lip-oil-strawberry): Dekraðu við varirnar með silkimjúkri og nærandi formúlu sem er hönnuð til að veita hámarks raka og náttúrulegan gljáa 👄 Vara olíurnar innihalda m.a. arganolíu, hýalúrónsýru og E-Vítamín sem vinna að því að mýkja, vernda og endurnýja varirnar. Með reglulegri notkun verða varirnar mýkri, fyllri og heilbrigðari að sjá. Hentar öllum húðgerðum og er frábær viðbót í daglega snyrtirútínu!
-  Updated: 2026-03-09T15:07:38Z
+  Updated: 2026-03-17T16:54:27Z
   Vendor: lashvana
   Product Type: Varalitur
   Availability: Available
@@ -2857,29 +2606,8 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [XXL](https://daria.is/products/jenny-pils?variant=46830783529177)
     Availability: Not Available
     Price: kr 2,070.00 ISK
-- [TRULLA TOPPUR BRÚNN](https://daria.is/products/trulla-toppur-brunn): 95% Viscose (LivaEco™), 5% Elastane
-  Updated: 2026-03-10T19:50:59Z
-  Vendor: cream
-  Product Type: bolir
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/10611087_170909_500.jpg?v=1755263796
-  - [S](https://daria.is/products/trulla-toppur-brunn?variant=47120198566105)
-    Availability: Not Available
-    Price: kr 2,070.00 ISK
-  - [M](https://daria.is/products/trulla-toppur-brunn?variant=47120198598873)
-    Availability: Not Available
-    Price: kr 2,070.00 ISK
-  - [L](https://daria.is/products/trulla-toppur-brunn?variant=47120198631641)
-    Availability: Available
-    Price: kr 2,070.00 ISK
-  - [XL](https://daria.is/products/trulla-toppur-brunn?variant=47120198664409)
-    Availability: Not Available
-    Price: kr 2,070.00 ISK
-  - [XXL](https://daria.is/products/trulla-toppur-brunn?variant=47120198697177)
-    Availability: Not Available
-    Price: kr 2,070.00 ISK
 - [ANNA TOPPUR HVÍTUR](https://daria.is/products/anna-toppur-hvitur): 61% Viscose, 39% Polyester
-  Updated: 2026-03-08T04:04:42Z
+  Updated: 2026-03-13T14:33:16Z
   Vendor: cream
   Product Type: bolir
   Availability: Available
@@ -2891,7 +2619,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 2,070.00 ISK
   - [38](https://daria.is/products/anna-toppur-hvitur?variant=47120204923097)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,070.00 ISK
   - [40](https://daria.is/products/anna-toppur-hvitur?variant=47120204955865)
     Availability: Not Available
@@ -2903,10 +2631,10 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
   - [46](https://daria.is/products/anna-toppur-hvitur?variant=47120205054169)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,070.00 ISK
 - [anna toppur svartur](https://daria.is/products/anna-toppur-svartur): 61% Viscose, 39% Polyester
-  Updated: 2026-03-08T04:04:44Z
+  Updated: 2026-03-12T09:37:47Z
   Vendor: cream
   Product Type: Toppur
   Availability: Available
@@ -2918,7 +2646,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 2,070.00 ISK
   - [38](https://daria.is/products/anna-toppur-svartur?variant=47120213770457)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,070.00 ISK
   - [40](https://daria.is/products/anna-toppur-svartur?variant=47120213803225)
     Availability: Not Available
@@ -2940,7 +2668,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_6169.webp?v=1755527695
   Price: kr 5,990.00 ISK
 - [BLAZER KJÓLL](https://daria.is/products/blazer-kjoll): 74% Polyester, 21% Viscose, 5% Elastane
-  Updated: 2026-03-09T19:07:27Z
+  Updated: 2026-03-15T13:05:17Z
   Vendor: Fransa
   Product Type: KJÓLL
   Availability: Available
@@ -2955,25 +2683,13 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 2,970.00 ISK
   - [XL](https://daria.is/products/blazer-kjoll?variant=47249142153433)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,970.00 ISK
   - [XXL](https://daria.is/products/blazer-kjoll?variant=47249142186201)
     Availability: Not Available
     Price: kr 2,970.00 ISK
-- [Marin bolur](https://daria.is/products/marin-bolur): Sheer Lace Frill Tie Front Blouse 90% Nylon, 10% Spandex
-  Updated: 2026-03-10T16:37:39Z
-  Vendor: Daría
-  Product Type: bolir
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_0114.jpg?v=1756814815
-  - [S/M](https://daria.is/products/marin-bolur?variant=47267869425881)
-    Availability: Available
-    Price: kr 2,370.00 ISK
-  - [M/L](https://daria.is/products/marin-bolur?variant=47267869458649)
-    Availability: Available
-    Price: kr 2,370.00 ISK
 - [gina samfella brún](https://daria.is/products/gina-samfella-brun): brown
-  Updated: 2026-03-08T04:07:09Z
+  Updated: 2026-03-14T16:56:04Z
   Vendor: Daría
   Product Type: samfella
   Availability: Available
@@ -2985,7 +2701,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 2,070.00 ISK
   - [L](https://daria.is/products/gina-samfella-brun?variant=47267887775961)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,070.00 ISK
   - [XS](https://daria.is/products/gina-samfella-brun?variant=47267888234713)
     Availability: Not Available
@@ -3006,7 +2722,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
 - [HENNA GALLABUXUR](https://daria.is/products/henna-gallabuxur): 100% Cotton
-  Updated: 2026-03-10T10:43:18Z
+  Updated: 2026-03-18T16:04:39Z
   Vendor: Daría
   Product Type: buxur
   Availability: Available
@@ -3015,7 +2731,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 3,270.00 ISK
   - [M](https://daria.is/products/henna-gallabuxur?variant=47267932307673)
-    Availability: Available
+    Availability: Not Available
     Price: kr 3,270.00 ISK
   - [L](https://daria.is/products/henna-gallabuxur?variant=47267932340441)
     Availability: Not Available
@@ -3086,18 +2802,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [XXL](https://daria.is/products/kate-jacquard-buxur?variant=47420046672089)
     Availability: Available
     Price: kr 2,970.00 ISK
-- [NILLA LEÐUR VETTLINGAR](https://daria.is/products/nilla-ledur-vettlingar): 100% Sheep Leather
-  Updated: 2026-03-10T16:57:46Z
-  Vendor: ICHI
-  Product Type: yfirhafnir
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20115995_194008_100.jpg?v=1756985660
-  - [XS/S](https://daria.is/products/nilla-ledur-vettlingar?variant=47272943419609)
-    Availability: Available
-    Price: kr 2,070.00 ISK
-  - [M/L](https://daria.is/products/nilla-ledur-vettlingar?variant=47272943452377)
-    Availability: Not Available
-    Price: kr 2,070.00 ISK
 - [LIRA TREFILL LJÓS](https://daria.is/products/lira-trefill-ljos): 70% Polyester, 15% Polyamide, 8% Acrylic, 5% Wool, 2% Elastane
   Updated: 2026-03-08T04:09:21Z
   Vendor: ICHI
@@ -3136,48 +2840,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [XXL](https://daria.is/products/gallabuxna-leggings-graar?variant=47301681021145)
     Availability: Not Available
     Price: kr 3,270.00 ISK
-- [FLOWY KJÓLL](https://daria.is/products/flowy-kjoll): 100% Polyester
-  Updated: 2026-03-08T04:06:54Z
-  Vendor: CULTURE
-  Product Type: KJÓLL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/50112303_500012_400.jpg?v=1758110359
-  - [S](https://daria.is/products/flowy-kjoll?variant=47312304734425)
-    Availability: Available
-    Price: kr 5,070.00 ISK
-  - [M](https://daria.is/products/flowy-kjoll?variant=47312304767193)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-  - [L](https://daria.is/products/flowy-kjoll?variant=47312304799961)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-  - [XL](https://daria.is/products/flowy-kjoll?variant=47312304832729)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-  - [XXL](https://daria.is/products/flowy-kjoll?variant=47312304865497)
-    Availability: Not Available
-    Price: kr 5,070.00 ISK
-- [JENNY BUXUR SVARTAR](https://daria.is/products/jenny-buxur-svartar): 76% Polyester (Recycled), 20% Viscose, 4% Elastane
-  Updated: 2026-03-08T04:07:58Z
-  Vendor: kaffe
-  Product Type: buxur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/10508651_100121_500.jpg?v=1758110758
-  - [S](https://daria.is/products/jenny-buxur-svartar?variant=47312310665433)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-  - [M](https://daria.is/products/jenny-buxur-svartar?variant=47312310698201)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-  - [L](https://daria.is/products/jenny-buxur-svartar?variant=47312310730969)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-  - [XL](https://daria.is/products/jenny-buxur-svartar?variant=47312310763737)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-  - [XXL](https://daria.is/products/jenny-buxur-svartar?variant=47312310796505)
-    Availability: Available
-    Price: kr 2,970.00 ISK
 - [OMI BOLUR HVÍTUR](https://daria.is/products/omi-bolur-hvitur): 93% Viscose, 7% Elastane
   Updated: 2026-03-11T14:26:28Z
   Vendor: kaffe
@@ -3200,7 +2862,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
 - [ARINA LEGGINGS](https://daria.is/products/aeina-leggings): 93% Polyamide, 7% Elastane
-  Updated: 2026-03-08T04:04:56Z
+  Updated: 2026-03-12T17:17:57Z
   Vendor: kaffe
   Product Type: leggings
   Availability: Available
@@ -3218,7 +2880,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,370.00 ISK
   - [XXL](https://daria.is/products/aeina-leggings?variant=47312335405273)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,370.00 ISK
 - [ARINA TOPPUR SVARTUR](https://daria.is/products/arina-toppur-svartur): 93% Polyamide, 7% Elastane
   Updated: 2026-03-08T04:05:00Z
@@ -3313,29 +2975,8 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [34](https://daria.is/products/stipa-kapa?variant=47312402481369)
     Availability: Available
     Price: kr 5,370.00 ISK
-- [kate víðar buxur](https://daria.is/products/kate-vidar-buxur): 74% Polyester, 22% Viscose, 4% Elastane
-  Updated: 2026-03-08T04:08:21Z
-  Vendor: ICHI
-  Product Type: buxur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20118337_194008_500.jpg?v=1758114254
-  - [S](https://daria.is/products/kate-vidar-buxur?variant=47312380821721)
-    Availability: Not Available
-    Price: kr 2,670.00 ISK
-  - [M](https://daria.is/products/kate-vidar-buxur?variant=47312380854489)
-    Availability: Not Available
-    Price: kr 2,670.00 ISK
-  - [L](https://daria.is/products/kate-vidar-buxur?variant=47312380887257)
-    Availability: Not Available
-    Price: kr 2,670.00 ISK
-  - [XL](https://daria.is/products/kate-vidar-buxur?variant=47312380920025)
-    Availability: Not Available
-    Price: kr 2,670.00 ISK
-  - [XXL](https://daria.is/products/kate-vidar-buxur?variant=47312380952793)
-    Availability: Available
-    Price: kr 2,670.00 ISK
 - [detona kjóll](https://daria.is/products/detona-kjoll): 100% Polyester
-  Updated: 2026-03-08T04:06:27Z
+  Updated: 2026-03-18T16:03:58Z
   Vendor: b.young
   Product Type: KJÓLL
   Availability: Available
@@ -3353,56 +2994,8 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
   - [42](https://daria.is/products/detona-kjoll?variant=47358692131033)
-    Availability: Available
+    Availability: Not Available
     Price: kr 3,270.00 ISK
-- [SATI BUXUR](https://daria.is/products/sati-buxur): 77% Polyester, 19% Other fibers, 4% Elastane
-  Updated: 2026-03-06T12:41:42Z
-  Vendor: b.young
-  Product Type: buxur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20818259_1310121_500.jpg?v=1759854099
-  - [XS](https://daria.is/products/sati-buxur?variant=47358721786073)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-  - [S](https://daria.is/products/sati-buxur?variant=47358721818841)
-    Availability: Available
-    Price: kr 2,970.00 ISK
-  - [M](https://daria.is/products/sati-buxur?variant=47358721851609)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-  - [L](https://daria.is/products/sati-buxur?variant=47358721884377)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-  - [XL](https://daria.is/products/sati-buxur?variant=47358721917145)
-    Availability: Available
-    Price: kr 2,970.00 ISK
-  - [XXL](https://daria.is/products/sati-buxur?variant=47358721949913)
-    Availability: Not Available
-    Price: kr 2,970.00 ISK
-- [SATI BLAZER](https://daria.is/products/sati-blazer): 77% Polyester, 19% Other fibers, 4% Elastane
-  Updated: 2026-03-06T12:41:37Z
-  Vendor: b.young
-  Product Type: blazer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20818260_1310121_100.jpg?v=1759854272
-  - [34](https://daria.is/products/sati-blazer?variant=47358723457241)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
-  - [36](https://daria.is/products/sati-blazer?variant=47358723490009)
-    Availability: Available
-    Price: kr 3,870.00 ISK
-  - [38](https://daria.is/products/sati-blazer?variant=47358723522777)
-    Availability: Available
-    Price: kr 3,870.00 ISK
-  - [40](https://daria.is/products/sati-blazer?variant=47358723555545)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
-  - [42](https://daria.is/products/sati-blazer?variant=47358723588313)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
-  - [44](https://daria.is/products/sati-blazer?variant=47358723621081)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
 - [RESE PALLÍTTU KJÓLL](https://daria.is/products/rese-pallittu-kjoll): 100% Polyester
   Updated: 2026-03-02T11:10:36Z
   Vendor: b.young
@@ -3424,13 +3017,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [XL](https://daria.is/products/rese-pallittu-kjoll?variant=47358733811929)
     Availability: Not Available
     Price: kr 4,770.00 ISK
-- [foxy d curl](https://daria.is/products/foxy-d-curl): DIY cluster augnhárin koma í fjórum mismunandi lengdum ( 10mm, 12mm, 14mm & 16mm ). 40 stk í pakka. Vegan & Cruelty free Vatns & Svitaheld Endurnýtanleg augnhár Endast í allt að 5-10 daga Ofurþunnt band Hönnuð með þægindi í huga
-  Updated: 2026-03-11T15:14:12Z
-  Vendor: lashvana
-  Product Type: augnhár
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/FoxyC.webp?v=1760013591
-  Price: kr 2,995.00 ISK
 - [antoinett kjóll olive 3/4 ermar](https://daria.is/products/antoinett-kjoll-olive-3-4-ermar): 65% Cotton, 33% Polyester, 2% Elastane
   Updated: 2026-03-08T04:04:51Z
   Vendor: CULTURE
@@ -3471,7 +3057,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,370.00 ISK
 - [kyjla gallabuxur](https://daria.is/products/kyjla-gallabuxur): 99% Cotton, 1% Elastane
-  Updated: 2026-03-08T04:08:28Z
+  Updated: 2026-03-18T16:05:25Z
   Vendor: b.young
   Product Type: buxur
   Availability: Available
@@ -3529,7 +3115,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/saffran_ilmkerti_islensk_framleidsla_88aa3ee8-ffc8-4c36-bbdc-eed179744265.png?v=1761385921
     Price: kr 11,900.00 ISK
 - [arina toppur](https://daria.is/products/arina-toppur): 93% Polyamide, 7% Elastane
-  Updated: 2026-03-08T04:04:57Z
+  Updated: 2026-03-14T15:02:52Z
   Vendor: kaffe
   Product Type: bolur
   Availability: Available
@@ -3541,7 +3127,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 5,900.00 ISK
   - [L](https://daria.is/products/arina-toppur?variant=47493703696601)
-    Availability: Available
+    Availability: Not Available
     Price: kr 5,900.00 ISK
   - [XL](https://daria.is/products/arina-toppur?variant=47493703729369)
     Availability: Not Available
@@ -3571,7 +3157,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 5,900.00 ISK
 - [rizz pils](https://daria.is/products/rizz-pils): 70% Viscose, 30% Polyester
-  Updated: 2026-03-02T11:10:56Z
+  Updated: 2026-03-13T17:41:33Z
   Vendor: kaffe
   Product Type: pils
   Availability: Available
@@ -3583,7 +3169,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 4,470.00 ISK
   - [38](https://daria.is/products/rizz-pils?variant=47493708742873)
-    Availability: Available
+    Availability: Not Available
     Price: kr 4,470.00 ISK
   - [40](https://daria.is/products/rizz-pils?variant=47493708775641)
     Availability: Not Available
@@ -3592,7 +3178,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,470.00 ISK
 - [lotte buxur](https://daria.is/products/lotte-buxur): 100% Polyester
-  Updated: 2026-03-10T08:31:26Z
+  Updated: 2026-03-15T03:40:22Z
   Vendor: kaffe
   Product Type: buxur
   Availability: Available
@@ -3618,30 +3204,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [46](https://daria.is/products/lotte-buxur?variant=47493723881689)
     Availability: Not Available
     Price: kr 4,470.00 ISK
-- [ANTOINETT KJÓLL RAUÐUR](https://daria.is/products/antoinett-kjoll-raudur): 65% Cotton, 33% Polyester, 2% Elastane
-  Updated: 2026-03-08T04:04:53Z
-  Vendor: CULTURE
-  Product Type: KJÓLL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/50109363_191557_410.jpg?v=1763038980
-  - [XS](https://daria.is/products/antoinett-kjoll-raudur?variant=47493729353945)
-    Availability: Available
-    Price: kr 5,670.00 ISK
-  - [S](https://daria.is/products/antoinett-kjoll-raudur?variant=47493729386713)
-    Availability: Not Available
-    Price: kr 5,670.00 ISK
-  - [M](https://daria.is/products/antoinett-kjoll-raudur?variant=47493729419481)
-    Availability: Not Available
-    Price: kr 5,670.00 ISK
-  - [L](https://daria.is/products/antoinett-kjoll-raudur?variant=47493729452249)
-    Availability: Not Available
-    Price: kr 5,670.00 ISK
-  - [XL](https://daria.is/products/antoinett-kjoll-raudur?variant=47493729485017)
-    Availability: Not Available
-    Price: kr 5,670.00 ISK
-  - [XXL](https://daria.is/products/antoinett-kjoll-raudur?variant=47493729517785)
-    Availability: Not Available
-    Price: kr 5,370.00 ISK
 - [antoinett kjóll svartur](https://daria.is/products/antoinett-kjoll-svartur): 65% Cotton, 33% Polyester, 2% Elastane
   Updated: 2026-03-08T04:04:54Z
   Vendor: CULTURE
@@ -3690,30 +3252,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [44](https://daria.is/products/nola-skyrta-svort?variant=47493779456217)
     Availability: Not Available
     Price: kr 3,270.00 ISK
-- [NOLA LANGERMA SKYRTA](https://daria.is/products/nola-langerma-skyrta): 50% Viscose, 40% Nylon, 10% Lyocell
-  Updated: 2026-03-02T11:11:21Z
-  Vendor: cream
-  Product Type: skyrta
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/10611978_110602_350.jpg?v=1763042023
-  - [36](https://daria.is/products/nola-langerma-skyrta?variant=47493819564249)
-    Availability: Not Available
-    Price: kr 4,470.00 ISK
-  - [38](https://daria.is/products/nola-langerma-skyrta?variant=47493819597017)
-    Availability: Not Available
-    Price: kr 4,470.00 ISK
-  - [40](https://daria.is/products/nola-langerma-skyrta?variant=47493819629785)
-    Availability: Not Available
-    Price: kr 4,470.00 ISK
-  - [42](https://daria.is/products/nola-langerma-skyrta?variant=47493819662553)
-    Availability: Not Available
-    Price: kr 4,470.00 ISK
-  - [44](https://daria.is/products/nola-langerma-skyrta?variant=47493819695321)
-    Availability: Available
-    Price: kr 4,470.00 ISK
-  - [46](https://daria.is/products/nola-langerma-skyrta?variant=47493819728089)
-    Availability: Not Available
-    Price: kr 4,470.00 ISK
 - [anett buxur](https://daria.is/products/anett-buxur): 80% Polyester, 17% Viscose, 3% Elastane
   Updated: 2026-03-08T04:04:40Z
   Vendor: cream
@@ -3736,7 +3274,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 4,470.00 ISK
 - [KANNA BLAZER](https://daria.is/products/kanna-blazer): 100% Polyester
-  Updated: 2026-03-08T04:08:16Z
+  Updated: 2026-03-13T00:23:09Z
   Vendor: cream
   Product Type: blazer
   Availability: Available
@@ -3754,7 +3292,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 5,670.00 ISK
   - [44](https://daria.is/products/kanna-blazer?variant=47493831196889)
-    Availability: Available
+    Availability: Not Available
     Price: kr 5,670.00 ISK
 - [cocamia blazer](https://daria.is/products/cocamia-blazer): 100% Polyester
   Updated: 2026-03-08T04:06:09Z
@@ -3801,27 +3339,6 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [42](https://daria.is/products/tingle-vesti?variant=47493904662745)
     Availability: Not Available
     Price: kr 4,770.00 ISK
-- [FLAKE SKYRTA](https://daria.is/products/flake-skyrta): 100% Polyester
-  Updated: 2026-03-08T04:06:52Z
-  Vendor: cream
-  Product Type: skyrta
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/10614486_181763_500.jpg?v=1763044612
-  - [34](https://daria.is/products/flake-skyrta?variant=47493993988313)
-    Availability: Available
-    Price: kr 3,870.00 ISK
-  - [36](https://daria.is/products/flake-skyrta?variant=47493994021081)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
-  - [38](https://daria.is/products/flake-skyrta?variant=47493994053849)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
-  - [40](https://daria.is/products/flake-skyrta?variant=47493994086617)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
-  - [42](https://daria.is/products/flake-skyrta?variant=47493994119385)
-    Availability: Not Available
-    Price: kr 3,870.00 ISK
 - [ANTONIA SS CRYSTAL (SS CRYSTAL)](https://daria.is/products/antonia-ss-crystal-ss-crystal): ANTONIA – Tímalaus og fáguð hengiskart er hannað til að laða að athygli. Tvö fínlega slípuð kristöl í andstæðum litum og mjúkum, ávölum formum mynda glæsilegt samspil ljóss og litar. Hvor steinn er vandlega festur með handunninni klómfestingu í fáguðu messingumgjörðinni. Pinninn er úr skurðstáli sem tryggir þægindi og endingargæði. Heildarlengd eyrnalokksins er um það bil 28 mm. Hér sýnt með hvítum kristölum og silfurlitaðri áferð. Eyrnalokkar sem vekja athygli – fullkomin blanda af fágun og nútímalegri glæsileika.
   Updated: 2026-03-08T04:04:55Z
   Vendor: Dyrberg/Kern
@@ -3864,7 +3381,384 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527330_1.webp?v=1763047880
   Price: kr 12,900.00 ISK
-[List Continued](https://daria.is/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzYxNTE3NDEyNTY5LCJsYXN0X3ZhbHVlIjoiOTM2MTUxNzQxMjU2OSJ9)
+- [BALETE SG GOLDEN](https://daria.is/products/balete-sg-golden): BALETE – Kvenlegir, glæsilegir og fágaðir eyrnalokkar sem henta fullkomlega fyrir viðburði og hátíðleg tilefni. Efri hlutinn er lauflaga og skreyttur glitrandi maríuhnoðraformuðum (navette) kristöllum í mismunandi gulltónum sem skapa djúpt og glansandi útlit. Neðan við laufið hangir 10 mm gullperlulaga skraut sem bætir við hlýjum og lúxuskenndum blæ. Hér sýndir í gulláferð með blöndu af gullnum kristöllum. Hannað í Danmörku – án kadmíums, nikkels og blýs.
+  Updated: 2026-03-08T04:05:04Z
+  Vendor: Dyrberg/Kern
+  Product Type: eyrnalokkar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527369_1.webp?v=1763048054
+  Price: kr 12,900.00 ISK
+- [BALETE SS CRYSTAL_WHITE PEARL](https://daria.is/products/balete-ss-crystal_white-pearl): BALETE – Kvenlegir, glæsilegir eyrnalokkar sem henta fullkomlega fyrir viðburði og hátíðleg tilefni. Efri hlutinn er lauflaga og þakinn maríuhnoðraformuðum (navette) hvítum kristöllum, og neðan við hangir 10 mm hvít eftirlíkingarperla á silfurlituðu yfirborði sem gefur klassískan og glæsilegan blæ. Heildarlengd eyrnalokksins er um 40 mm. Hönnuð í fáguðu messingi og handgerð til fullkomnunar smáatriða. Hannað í Danmörku – án nikkels.
+  Updated: 2026-03-08T04:05:07Z
+  Vendor: Dyrberg/Kern
+  Product Type: eyrnalokkar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527370_1.webp?v=1763048253
+  Price: kr 12,900.00 ISK
+- [BALETE SG BLACK_WHITE PEARL](https://daria.is/products/balete-sg-black_white-pearl): BALETE – Kvenlegir, glæsilegir eyrnalokkar sem henta fullkomlega fyrir viðburði og hátíðleg tilefni. Efri hlutinn er lauflaga og þakinn maríuhnoðraformuðum (navette) kristöllum í mismunandi litbrigðum, og neðan við hangir 10 mm hvít eftirlíkingarperla sem bætir við klassískum blæ. Eyrnalokkarnir eru úr fáguðu messingi með pinnalás úr skurðstáli fyrir þægindi og endingu. Heildarlengd þeirra er um 40 mm. Hér sýndir í gulláferð með blöndu af svörtum og gráum kristöllum. Hannað í Danmörku – án kadmíums, nikkels og blýs.
+  Updated: 2026-03-08T04:05:03Z
+  Vendor: Dyrberg/Kern
+  Product Type: eyrnalokkar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527297_1.webp?v=1763048408
+  Price: kr 12,900.00 ISK
+- [GRETIA SS CRYSTAL](https://daria.is/products/gretia-ss-crystal): GRETIA – Ný útgáfa af stóru hringlaga eyrnalokkum með kristöllum. Þessi útgáfa er ríkulega skreytt með stórum hvítum kristöllum á fremri hluta fyrir glæsilegt og áberandi útlit. Eyrnalokkarnir eru úr fáguðu messingi með silfurlituðu yfirborði. Þvermál er um 30 mm og pinninn úr skurðstáli. Dönsk hönnun – án kadmíums, blýs og nikkels. Einfaldlega stórkostlegir.
+  Updated: 2026-03-08T04:07:13Z
+  Vendor: Dyrberg/Kern
+  Product Type: eyrnalokkar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/523638_1.webp?v=1763049113
+  Price: kr 13,900.00 ISK
+- [FIORA SS GREY/CRYSTAL](https://daria.is/products/fiora-ss-grey-crystal): FIORA – Nútímalegir, rómantískir eyrnalokkar með frönskum króklás. Stór dropalaga kristall myndar miðpunkt hönnunarinnar og er fallega umlukinn minni kristöllum í andstæðum litum sem skapa glitrandi og áhrifaríkt útlit. Lokarnir eru úr fáguðu messingi með IP-húðun í gulláferð, og krókurinn er úr skurðstáli fyrir þægindi og endingu. Heildarlengd um 28 mm. Hér sýndir í fallegri blöndu af ljósgráum kristöllum og glærum kristöllum á silfurlituðu yfirborði. Dönsk hönnun – án kadmíums, blýs og nikkels.
+  Updated: 2026-03-08T04:06:50Z
+  Vendor: Dyrberg/Kern
+  Product Type: eyrnalokkar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/524962_1.webp?v=1763049542
+  Price: kr 12,900.00 ISK
+- [FIORA SG LIGHT ROSE](https://daria.is/products/fiora-sg-light-rose): FIORA – Nútímalegir, rómantískir eyrnalokkar með frönskum króklás. Stór dropalaga kristall myndar miðpunkt hönnunarinnar og er fallega umlukinn minni kristöllum í andstæðum litum sem skapa glitrandi og áhrifaríkt útlit. Eyrnalokkarnir eru úr fáguðu messingi með IP-húðun í gulláferð, og krókurinn er úr skurðstáli fyrir þægindi og endingu. Heildarlengd um 28 mm. Hér sýndir í rómantískri bleikri tónum á gulláferð. Dönsk hönnun – án kadmíums, blýs og nikkels.
+  Updated: 2026-03-08T04:06:49Z
+  Vendor: Dyrberg/Kern
+  Product Type: eyrnalokkar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/523608_1.webp?v=1763049724
+  Price: kr 12,900.00 ISK
+- [Christmas Edition'25 (D curl)](https://daria.is/products/christmas-edition25-d-curl): Jólaboxið okkar í ár er loksins komið – verkefni sem við erum ótrúlega stolt af. Það er hannað af okkur frá grunni, með áherslu á smáatriði, gæði og hátíðlegri lúxus stemningu. Í boxinu færðu allt sem þú þarft til að skapa fullkomið jóla útlit - allt í einu boxi! Limited Edition Augnhár Bond&Seal DUO Remover Non Sticky Augnháratöng Chestnut Lip-Stain (Brúnn) Vanilla Lip-Butter Jólaboxið í ár kemur í mjög takmörkuðu upplagi og þegar það klárast kemur það ekki aftur! Fullkomin hátíðargjöf eða lúxus dekur handa þér sjálfri. 🤎
+  Updated: 2026-03-09T10:18:07Z
+  Vendor: lashvana
+  Product Type: Augabrúnir
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_9448.webp?v=1763124018
+  Price: kr 13,990.00 ISK
+- [Stick & Stay Peel-off Lip Stain (Chestnut)](https://daria.is/products/stick-stay-peel-off-lip-stain-chestnut): Peel-off Lip Stain, Semi-Permanet Lip Look! ✨ Endist í allt að 12klst á vörunum 💧 Vatnsþolið og smitfrítt 🌬️ Ofurlétt á vörunum 👄 Varanlegt útlit í takmarkaðan tíma Notkun: 1) Berðu lip-stain á varirnar þínar eða einungis á varalínuna 2) Leyfðu því að þorna í 2-3 mínútur 3) Taktu varlega af og sjáðu litinn sem helst út daginn! 4) Fullkomnaðu varirnar með Lashvana Lip-Oil Fjarlæging: Við mælum með því að nota farðahreinsi eins og t.d. Michellar Cleansing Water (Bleika)
+  Updated: 2026-03-09T10:18:09Z
+  Vendor: lashvana
+  Product Type: Varalitur
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_8910_1.webp?v=1763124737
+  Price: kr 3,990.00 ISK
+- [Freckle & Lip pen Cocoa Ember](https://daria.is/products/freckle-lip-pen-cocoa-ember): Lashvana Freckle & Lip pen, 2-1 solution! Einn penni - ýmsir möguleikar! hvort sem þú vilt fá náttúrulegt eða ýkt útlit, þá er Lashvana freknu og vara penninn fullkomin lausn. ✔ Vatns & Svitaþolið ✔ Allt að 12klst ending ✔ Vegan & Cruelty free ✔ Aðlagar sig að náttúrulegum húðlit ✔ Náttúrulegar freknur, varir og eyeliner, allt í einni lausn Hvernig er best að fjarlægja litinn af? Við mælum með því að nota farðahreinsi til að ná litnum auðveldlega af.
+  Updated: 2026-03-08T04:07:01Z
+  Vendor: lashvana
+  Product Type: Andlit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_7957.webp?v=1763124877
+  Price: kr 3,990.00 ISK
+- [Freckle & Lip pen  Blushed Rose](https://daria.is/products/freckle-lip-pen-blushed-rose): Lashvana Freckle & Lip pen, 2-1 solution! Einn penni - ýmsir möguleikar! hvort sem þú vilt fá náttúrulegt eða ýkt útlit, þá er Lashvana freknu og vara penninn fullkomin lausn. ✔ Vatns & Svitaþolið ✔ Allt að 12klst ending ✔ Vegan & Cruelty free ✔ Aðlagar sig að náttúrulegum húðlit ✔ Náttúrulegar freknur, varir og eyeliner, allt í einni lausn Hvernig er best að fjarlægja litinn af? Við mælum með því að nota farðahreinsi til að ná litnum auðveldlega af.
+  Updated: 2026-03-09T10:18:10Z
+  Vendor: lashvana
+  Product Type: Andlit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_7955.webp?v=1763125060
+  Price: kr 3,990.00 ISK
+- [Freckle & Lip pen Honeydust](https://daria.is/products/freckle-lip-pen-honeydust): Lashvana Freckle & Lip pen, 2-1 solution! Einn penni - ýmsir möguleikar! hvort sem þú vilt fá náttúrulegt eða ýkt útlit, þá er Lashvana freknu og vara penninn fullkomin lausn. ✔ Vatns & Svitaþolið ✔ Allt að 12klst ending ✔ Vegan & Cruelty free ✔ Aðlagar sig að náttúrulegum húðlit ✔ Náttúrulegar freknur, varir og eyeliner, allt í einni lausn Hvernig er best að fjarlægja litinn af? Við mælum með því að nota farðahreinsi til að ná litnum auðveldlega af.
+  Updated: 2026-03-09T10:18:12Z
+  Vendor: lashvana
+  Product Type: Andlit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_7959.webp?v=1763125235
+  Price: kr 3,990.00 ISK
+- [Cashmere touch buxur](https://daria.is/products/cashmere-touch-buxur): 97% Cotton, 3% Elastane
+  Updated: 2026-03-09T10:19:58Z
+  Vendor: lindbergh
+  Product Type: buxur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/30-047009-dk-navy-6a-web.jpg?v=1763909767
+  - [31/32](https://daria.is/products/cashmere-touch-buxur?variant=47528650899673)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [32/32](https://daria.is/products/cashmere-touch-buxur?variant=47528650932441)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [33/32](https://daria.is/products/cashmere-touch-buxur?variant=47528650965209)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [34/32](https://daria.is/products/cashmere-touch-buxur?variant=47528650997977)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [36/32](https://daria.is/products/cashmere-touch-buxur?variant=47528651030745)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+- [Cashmere touch svartar](https://daria.is/products/cashmere-touch-svartar): 97% Cotton, 3% Elastane 5-pockets from Lindbergh's 1927 capsule in a classic and elegant design. Incredibly soft and comfortable due to the exclusive cotton fabric, which is made with Cashmere Touch . The trousers have two side pockets and two back pockets and features a logo patch on the back. Closes with a button and a hidden zipper.
+  Updated: 2026-03-09T10:20:00Z
+  Vendor: lindbergh
+  Product Type: buxur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/68476_1.jpg?v=1763910688
+  - [31/32](https://daria.is/products/cashmere-touch-svartar?variant=47528652538073)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [32/32](https://daria.is/products/cashmere-touch-svartar?variant=47528652570841)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [33/32](https://daria.is/products/cashmere-touch-svartar?variant=47528652603609)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [34/32](https://daria.is/products/cashmere-touch-svartar?variant=47528652636377)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [36/32](https://daria.is/products/cashmere-touch-svartar?variant=47528652669145)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+- [Cashmere touch pants sand](https://daria.is/products/cashmere-touch-pants-sand): 5-pockets from Lindbergh's 1927 capsule in a classic and elegant design. Incredibly soft and comfortable due to the exclusive cotton fabric, which is made with Cashmere Touch . The trousers have two side pockets and two back pockets and features a logo patch on the back. Closes with a button and a hidden zipper. Quality: 97% Cotton, 3% Elastane
+  Updated: 2026-03-08T04:06:01Z
+  Vendor: lindbergh
+  Product Type: buxur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/68488.jpg?v=1763911133
+  - [32/30](https://daria.is/products/cashmere-touch-pants-sand?variant=47528658796761)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [33/30](https://daria.is/products/cashmere-touch-pants-sand?variant=47528658829529)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [34/30](https://daria.is/products/cashmere-touch-pants-sand?variant=47528658862297)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [31/32](https://daria.is/products/cashmere-touch-pants-sand?variant=47528658895065)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [32/32](https://daria.is/products/cashmere-touch-pants-sand?variant=47528658927833)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [33/32](https://daria.is/products/cashmere-touch-pants-sand?variant=47528658960601)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [34/32](https://daria.is/products/cashmere-touch-pants-sand?variant=47528658993369)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+  - [36/32](https://daria.is/products/cashmere-touch-pants-sand?variant=47528659026137)
+    Availability: Available
+    Price: kr 21,900.00 ISK
+- [Oxford superflex shirt L/S army](https://daria.is/products/oxford-superflex-shirt-l-s-army): Classic Oxford shirt made of a durable Oxford cotton fabric. The shirt has a button-down collar and the width of the cuff can be adjusted by the use of two buttons. This product is made with Superflex, which gives it several great functions: Extra elasticity 100% freedom of movement Maximum comfort for all day wear This product is  as OEKO-TEX® STANDARD 100 (cert.no. 2176-328 DTI) and thus adheres to the strict rules for harmful and environmentally harmful substances according to the requirements in the standard. All components of the product e.g. fabric, thread, buttons, labels etc. have been tested and  according to the requirements in OEKO-TEX® STANDARD 100 product class II/4. Read more about OEKO-TEX® STANDARD 100 here. Quality: 97% Cotton, 3% Elastane
+  Updated: 2026-02-04T22:25:45Z
+  Vendor: lindbergh
+  Product Type: skyrtur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/273828.jpg?v=1763911665
+  - [M](https://daria.is/products/oxford-superflex-shirt-l-s-army?variant=47528664269017)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+  - [L](https://daria.is/products/oxford-superflex-shirt-l-s-army?variant=47528664301785)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+  - [XL](https://daria.is/products/oxford-superflex-shirt-l-s-army?variant=47528664334553)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+  - [XXL](https://daria.is/products/oxford-superflex-shirt-l-s-army?variant=47528664367321)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+- [Oxford mandarin superflex L/S blá](https://daria.is/products/oxford-superflex-shirt-l-s): Oxford shirt from Lindbergh White with a mandarin collar for a modern touch. Made in a soft cotton blend with Superflex stretch making the shirt extra comfortable to wear. The shirt is in a simple design which emphasizes the classic Oxford details, including the durable fabric. Made in slim fit, so it emphasizes the body more than a regular fit.Please note that this product runs small, so we recommend sizing up. This product is made with Superflex, which gives it several great functions: Extra elasticity 100% freedom of movement Maximum comfort for all day wear Quality: 97% Cotton, 3% Elastane
+  Updated: 2026-02-04T22:25:45Z
+  Vendor: lindbergh
+  Product Type: skyrtur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/10483.jpg?v=1763911976
+  - [S](https://daria.is/products/oxford-superflex-shirt-l-s?variant=47528664924377)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [M](https://daria.is/products/oxford-superflex-shirt-l-s?variant=47528664957145)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [L](https://daria.is/products/oxford-superflex-shirt-l-s?variant=47528664989913)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [XL](https://daria.is/products/oxford-superflex-shirt-l-s?variant=47528665022681)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+  - [XXL](https://daria.is/products/oxford-superflex-shirt-l-s?variant=47528665055449)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+- [Oxford mandarin superflex L/S hvít](https://daria.is/products/oxford-mandarin-superflex-l-s-hvit): Oxford shirt from Lindbergh White with a mandarin collar for a modern touch. Made in a soft cotton blend with Superflex stretch making the shirt extra comfortable to wear. The shirt is in a simple design which emphasizes the classic Oxford details, including the durable fabric. Made in slim fit, so it emphasizes the body more than a regular fit.Please note that this product runs small, so we recommend sizing up. This product is made with Superflex, which gives it several great functions: Extra elasticity 100% freedom of movement Maximum comfort for all day wear Quality: 97% Cotton, 3% Elastane
+  Updated: 2026-03-09T10:20:02Z
+  Vendor: lindbergh
+  Product Type: skyrtur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/10497.jpg?v=1763912284
+  - [M](https://daria.is/products/oxford-mandarin-superflex-l-s-hvit?variant=47528668168409)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+  - [L](https://daria.is/products/oxford-mandarin-superflex-l-s-hvit?variant=47528668201177)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+  - [XL](https://daria.is/products/oxford-mandarin-superflex-l-s-hvit?variant=47528668233945)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [XXL](https://daria.is/products/oxford-mandarin-superflex-l-s-hvit?variant=47528668266713)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+- [Oxford superflex shirt L/S svört](https://daria.is/products/oxford-superflex-shirt-l-s-svort): Classic Oxford shirt made of a durable Oxford cotton fabric. The shirt has a button-down collar and the width of the cuff can be adjusted by the use of two buttons. This product is made with Superflex, which gives it several great functions: Extra elasticity 100% freedom of movement Maximum comfort for all day wear This product is  as OEKO-TEX® STANDARD 100 (cert.no. 2176-328 DTI) and thus adheres to the strict rules for harmful and environmentally harmful substances according to the requirements in the standard. All components of the product e.g. fabric, thread, buttons, labels etc. have been tested and  according to the requirements in OEKO-TEX® STANDARD 100 product class II/4. Read more about OEKO-TEX® STANDARD 100 here. Quality: 97% Cotton, 3% Elastane
+  Updated: 2026-03-09T10:20:04Z
+  Vendor: lindbergh
+  Product Type: skyrtur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/274062.jpg?v=1763912589
+  - [M](https://daria.is/products/oxford-superflex-shirt-l-s-svort?variant=47528669249753)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+  - [L](https://daria.is/products/oxford-superflex-shirt-l-s-svort?variant=47528669282521)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [XL](https://daria.is/products/oxford-superflex-shirt-l-s-svort?variant=47528669315289)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [XXL](https://daria.is/products/oxford-superflex-shirt-l-s-svort?variant=47528669348057)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+- [Oxford superflex shirt L/S BLÁ](https://daria.is/products/oxford-superflex-shirt-l-s-bla): Classic Oxford shirt made of a durable Oxford cotton fabric. The shirt has a button-down collar and the width of the cuff can be adjusted by the use of two buttons. This product is made with Superflex, which gives it several great functions: Extra elasticity 100% freedom of movement Maximum comfort for all day wear This product is  as OEKO-TEX® STANDARD 100 (cert.no. 2176-328 DTI) and thus adheres to the strict rules for harmful and environmentally harmful substances according to the requirements in the standard. All components of the product e.g. fabric, thread, buttons, labels etc. have been tested and  according to the requirements in OEKO-TEX® STANDARD 100 product class II/4. Read more about OEKO-TEX® STANDARD 100 here.
+  Updated: 2026-03-12T16:43:27Z
+  Vendor: lindbergh
+  Product Type: skyrtur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/274091.jpg?v=1763912740
+  - [S](https://daria.is/products/oxford-superflex-shirt-l-s-bla?variant=47528669610201)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [M](https://daria.is/products/oxford-superflex-shirt-l-s-bla?variant=47528669642969)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [L](https://daria.is/products/oxford-superflex-shirt-l-s-bla?variant=47528669675737)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [XL](https://daria.is/products/oxford-superflex-shirt-l-s-bla?variant=47528669708505)
+    Availability: Available
+    Price: kr 11,900.00 ISK
+  - [XXL](https://daria.is/products/oxford-superflex-shirt-l-s-bla?variant=47528669741273)
+    Availability: Not Available
+    Price: kr 11,900.00 ISK
+- [Junk deluxe polo bolur hvítur](https://daria.is/products/junk-deluxe-polo-bolur-hvitur): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
+  Updated: 2026-03-09T10:20:08Z
+  Vendor: Junk Deluxe
+  Product Type: herrar bolur
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/258812.jpg?v=1763913277
+  - [S](https://daria.is/products/junk-deluxe-polo-bolur-hvitur?variant=47528675082457)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [M](https://daria.is/products/junk-deluxe-polo-bolur-hvitur?variant=47528675115225)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [L](https://daria.is/products/junk-deluxe-polo-bolur-hvitur?variant=47528675147993)
+    Availability: Not Available
+    Price: kr 12,900.00 ISK
+  - [XL](https://daria.is/products/junk-deluxe-polo-bolur-hvitur?variant=47528675180761)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [XXL](https://daria.is/products/junk-deluxe-polo-bolur-hvitur?variant=47528675213529)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+- [Junk Deluxe polo bolur svartur](https://daria.is/products/junk-deluxe-polo-bolur-svartur): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
+  Updated: 2026-03-09T10:20:10Z
+  Vendor: Junk Deluxe
+  Product Type: herrar bolur
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/258775.jpg?v=1763913744
+  - [S](https://daria.is/products/junk-deluxe-polo-bolur-svartur?variant=47528680259801)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [M](https://daria.is/products/junk-deluxe-polo-bolur-svartur?variant=47528680292569)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [L](https://daria.is/products/junk-deluxe-polo-bolur-svartur?variant=47528680325337)
+    Availability: Not Available
+    Price: kr 12,900.00 ISK
+  - [XL](https://daria.is/products/junk-deluxe-polo-bolur-svartur?variant=47528680358105)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [XXL](https://daria.is/products/junk-deluxe-polo-bolur-svartur?variant=47528680390873)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [3XL](https://daria.is/products/junk-deluxe-polo-bolur-svartur?variant=47528680423641)
+    Availability: Not Available
+    Price: kr 12,900.00 ISK
+- [Junk Deluxe polo bolur army](https://daria.is/products/junk-deluxe-polo-bolur-army): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
+  Updated: 2026-03-09T10:20:12Z
+  Vendor: Junk Deluxe
+  Product Type: herrar bolur
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/258801.jpg?v=1763913915
+  - [S](https://daria.is/products/junk-deluxe-polo-bolur-army?variant=47528681111769)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [M](https://daria.is/products/junk-deluxe-polo-bolur-army?variant=47528681144537)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [L](https://daria.is/products/junk-deluxe-polo-bolur-army?variant=47528681177305)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [XL](https://daria.is/products/junk-deluxe-polo-bolur-army?variant=47528681210073)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [XXL](https://daria.is/products/junk-deluxe-polo-bolur-army?variant=47528681242841)
+    Availability: Not Available
+    Price: kr 12,900.00 ISK
+  - [3XL](https://daria.is/products/junk-deluxe-polo-bolur-army?variant=47528681275609)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+- [Junk Deluxe polo bolur sand](https://daria.is/products/junk-deluxe-polo-bolur-sand): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
+  Updated: 2026-03-09T10:20:14Z
+  Vendor: Junk Deluxe
+  Product Type: herrar bolur
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/258808.jpg?v=1763914097
+  - [S](https://daria.is/products/junk-deluxe-polo-bolur-sand?variant=47528681963737)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [M](https://daria.is/products/junk-deluxe-polo-bolur-sand?variant=47528681996505)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+  - [L](https://daria.is/products/junk-deluxe-polo-bolur-sand?variant=47528682029273)
+    Availability: Not Available
+    Price: kr 12,900.00 ISK
+  - [XL](https://daria.is/products/junk-deluxe-polo-bolur-sand?variant=47528682062041)
+    Availability: Not Available
+    Price: kr 12,900.00 ISK
+  - [XXL](https://daria.is/products/junk-deluxe-polo-bolur-sand?variant=47528682094809)
+    Availability: Available
+    Price: kr 12,900.00 ISK
+- [Bison polo bolur svartur](https://daria.is/products/bison-polo-bolur-svartur): Classic polo shirt from Bison in a soft cotton quality, which retains its shape. The polo is plain-coloured and with a breast pocket with an embroidered logo on the left side of the chest. Made in comfort fit, which is loose and provides plenty of room for movement. The polo has interesting colour detailing on the collar and the sleeves, which gives an extra dimension to the look. Quality: 50% Cotton, 50% Polyester
+  Updated: 2026-03-09T10:20:17Z
+  Vendor: bison
+  Product Type: herrar bolur
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/94684.jpg?v=1763915200
+  - [M](https://daria.is/products/bison-polo-bolur-svartur?variant=47528698609881)
+    Availability: Not Available
+    Price: kr 9,900.00 ISK
+  - [L](https://daria.is/products/bison-polo-bolur-svartur?variant=47528698642649)
+    Availability: Not Available
+    Price: kr 9,900.00 ISK
+  - [XL](https://daria.is/products/bison-polo-bolur-svartur?variant=47528698675417)
+    Availability: Available
+    Price: kr 9,900.00 ISK
+  - [XXL](https://daria.is/products/bison-polo-bolur-svartur?variant=47528698708185)
+    Availability: Not Available
+    Price: kr 9,900.00 ISK
+  - [3XL](https://daria.is/products/bison-polo-bolur-svartur?variant=47528698740953)
+    Availability: Not Available
+    Price: kr 9,900.00 ISK
+- [Superflex overshirt](https://daria.is/products/superflex-overshirt): Super cool and modern overshirt from Lindbergh White. Simple and clean design with few but functional details such as two open side pockets. Stylish design that makes this overshirt easy to style in many different ways. Comes in smaller sizes made for teens. This product is made with Superflex, which gives it several great functions: Extra elasticity 100% freedom of movement Maximum comfort for all day wear Quality: 75% Polyester, 3% Elastane, 22% Viscose
+  Updated: 2026-03-09T10:20:19Z
+  Vendor: lindbergh
+  Product Type: skyrtur herrar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/250891.webp?v=1765811391
+  - [M](https://daria.is/products/superflex-overshirt?variant=47528702738649)
+    Availability: Available
+    Price: kr 23,900.00 ISK
+  - [L](https://daria.is/products/superflex-overshirt?variant=47528702771417)
+    Availability: Available
+    Price: kr 23,900.00 ISK
+  - [XL](https://daria.is/products/superflex-overshirt?variant=47528702804185)
+    Availability: Available
+    Price: kr 23,900.00 ISK
+  - [XXL](https://daria.is/products/superflex-overshirt?variant=47528702836953)
+    Availability: Not Available
+    Price: kr 23,900.00 ISK
+  - [S](https://daria.is/products/superflex-overshirt?variant=47601948426457)
+    Availability: Available
+    Price: kr 23,900.00 ISK
+[List Continued](https://daria.is/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzcwMTI2NDgzNjczLCJsYXN0X3ZhbHVlIjoiOTM3MDEyNjQ4MzY3MyJ9)
 
 ## Collections
 
@@ -3875,20 +3769,20 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:11:54Z
   Total Products: 0
 - [Við mælum með](https://daria.is/collections/vid-maelum-med)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 12
 - [b.tan](https://daria.is/collections/b-tan)
   Updated: 2026-03-08T04:10:19Z
   Total Products: 0
 - [Nýtt](https://daria.is/collections/nytt)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 343
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 313
 - [The Balm](https://daria.is/collections/the-balm)
   Updated: 2026-03-08T04:12:33Z
   Total Products: 0
 - [Aukahlutir](https://daria.is/collections/skart-og-aukahlutir)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 30
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 29
 - [Ecco Bella](https://daria.is/collections/ecco-bella)
   Updated: 2026-03-08T04:10:45Z
   Total Products: 0
@@ -3899,16 +3793,16 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:11:59Z
   Total Products: 1
 - [Makeup Eraser](https://daria.is/collections/makeup-eraser)
-  Updated: 2026-03-08T04:11:45Z
+  Updated: 2026-03-18T16:07:49Z
   Total Products: 11
 - [Skin&Tonic](https://daria.is/collections/skin-tonic)
   Updated: 2026-03-08T04:12:15Z
   Total Products: 0
 - [augnhár](https://daria.is/collections/augnhar)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 12
 - [varalitir](https://daria.is/collections/varalitir)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-18T16:06:41Z
   Total Products: 14
 - [Pallettur](https://daria.is/collections/pallettur)
   Updated: 2026-03-08T04:09:55Z
@@ -3917,19 +3811,19 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:09:52Z
   Total Products: 0
 - [augu](https://daria.is/collections/augu)
-  Updated: 2026-03-08T11:02:30Z
+  Updated: 2026-03-15T03:40:39Z
   Total Products: 2
 - [Pigment](https://daria.is/collections/pigment)
   Updated: 2026-03-08T04:09:57Z
   Total Products: 0
 - [Highlight og Contour](https://daria.is/collections/highlight-og-contour)
-  Updated: 2026-03-08T04:09:41Z
+  Updated: 2026-03-15T03:40:49Z
   Total Products: 3
 - [Bebella](https://daria.is/collections/bebella)
   Updated: 2026-03-08T04:10:22Z
   Total Products: 2
 - [varablýantar](https://daria.is/collections/varablyantar)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-18T16:06:38Z
   Total Products: 4
 - [Burstasett](https://daria.is/collections/burstasett)
   Updated: 2026-03-08T04:09:37Z
@@ -3938,7 +3832,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:10:07Z
   Total Products: 1
 - [Varablýantar](https://daria.is/collections/varablyantar-1)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-18T16:06:39Z
   Total Products: 4
 - [Glimmer](https://daria.is/collections/glimmer)
   Updated: 2026-03-08T04:09:39Z
@@ -3947,7 +3841,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:09:50Z
   Total Products: 1
 - [Förðunarspeglar - Makeup speglar með Led ljósum](https://daria.is/collections/speglar): Förðunarspeglar Mikið úrval af æðislegum förðunarspeglum Fullkomnaðu förðunaraðstöðuna með Led ljósa spegil
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 27
 - [Carbon Coco](https://daria.is/collections/carbon-coco)
   Updated: 2026-03-08T04:10:40Z
@@ -3965,11 +3859,11 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:09:51Z
   Total Products: 0
 - [Augabrúnir](https://daria.is/collections/augnbrunir)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-15T03:40:35Z
   Total Products: 6
 - [Farði](https://daria.is/collections/fardi)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 6
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 5
 - [Primer](https://daria.is/collections/primer)
   Updated: 2026-03-08T04:09:59Z
   Total Products: 0
@@ -3998,20 +3892,20 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:12:26Z
   Total Products: 0
 - [Tan-Luxe](https://daria.is/collections/tan-luxe)
-  Updated: 2026-03-08T04:12:31Z
+  Updated: 2026-03-15T03:43:56Z
   Total Products: 6
 - [brúnkuvörur](https://daria.is/collections/brunkuvorur)
-  Updated: 2026-03-08T04:09:36Z
+  Updated: 2026-03-15T03:40:44Z
   Total Products: 13
 - [Sudsy Sweets Body Bakery](https://daria.is/collections/sudsy-sweets-body-bakery)
   Updated: 2026-03-08T04:12:29Z
   Total Products: 0
 - [Best  Products](https://daria.is/collections/best--products)
-  Updated: 2026-03-11T17:06:09Z
-  Total Products: 433
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 431
 - [Newest Products](https://daria.is/collections/newest-products)
-  Updated: 2026-03-11T17:06:09Z
-  Total Products: 433
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 431
 - [Moroccananoil](https://daria.is/collections/moroccananoil)
   Updated: 2026-03-08T04:11:53Z
   Total Products: 0
@@ -4019,7 +3913,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:11:32Z
   Total Products: 0
 - [Jólagjafir](https://daria.is/collections/jolagjafir)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 44
 - [GlamGlow](https://daria.is/collections/glamglow)
   Updated: 2026-03-08T04:10:58Z
@@ -4028,7 +3922,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:10:23Z
   Total Products: 0
 - [makeup töskur](https://daria.is/collections/makeup-toskur)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 10
 - [iphone 5](https://daria.is/collections/iphone-5)
   Updated: 2026-03-08T04:09:44Z
@@ -4055,38 +3949,38 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:10:48Z
   Total Products: 4
 - [Kjólar](https://daria.is/collections/kjolar)
-  Updated: 2026-03-10T17:24:16Z
-  Total Products: 20
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 18
 - [buxur](https://daria.is/collections/buxur)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 51
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 47
 - [Leggings](https://daria.is/collections/leggings)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 5
 - [Samfestingar](https://daria.is/collections/samfestingar)
-  Updated: 2026-03-08T04:12:10Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 3
 - [Toppar](https://daria.is/collections/toppar)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 12
+  Updated: 2026-03-18T17:21:53Z
+  Total Products: 11
 - [Yfirhafnir](https://daria.is/collections/yfirhafnir)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 15
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 13
 - [Peysur](https://daria.is/collections/peysur)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 8
+  Updated: 2026-03-18T17:15:50Z
+  Total Products: 7
 - [Samfellur](https://daria.is/collections/samfellur)
-  Updated: 2026-03-08T04:12:09Z
-  Total Products: 3
+  Updated: 2026-03-18T17:21:52Z
+  Total Products: 2
 - [Fatnaður](https://daria.is/collections/fatnadur)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 172
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 152
 - [Skyrtur](https://daria.is/collections/skyrtur)
-  Updated: 2026-03-10T17:14:48Z
-  Total Products: 22
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 20
 - [Bolir](https://daria.is/collections/bolir)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 27
+  Updated: 2026-03-18T17:21:53Z
+  Total Products: 22
 - [Glamcor](https://daria.is/collections/glamcor)
   Updated: 2026-03-08T04:10:57Z
   Total Products: 0
@@ -4121,7 +4015,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:10:04Z
   Total Products: 0
 - [SPO-filter-cee5b992b0d8b661e96cfd7c427e3b13](https://daria.is/collections/spo-filter-cee5b992b0d8b661e96cfd7c427e3b13)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 42
 - [Grímur](https://daria.is/collections/grimur)
   Updated: 2026-03-08T04:11:00Z
@@ -4133,7 +4027,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:12:06Z
   Total Products: 1
 - [jólagjafir 2021](https://daria.is/collections/jolagjafir-2020)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 41
 - [bomb dagatöl](https://daria.is/collections/bomb-dagatol)
   Updated: 2026-03-08T04:10:34Z
@@ -4145,11 +4039,11 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:12:27Z
   Total Products: 0
 - [Töskur og veski](https://daria.is/collections/toskur-og-veski)
-  Updated: 2026-03-10T11:02:52Z
-  Total Products: 1
+  Updated: 2026-03-18T17:22:09Z
+  Total Products: 0
 - [Eyrnalokkar hálsmen og skart](https://daria.is/collections/eyrnalokkar-og-halsmen)
-  Updated: 2026-03-08T04:10:49Z
-  Total Products: 18
+  Updated: 2026-03-18T17:18:43Z
+  Total Products: 13
 - [Hárskraut](https://daria.is/collections/harskraut)
   Updated: 2026-03-08T04:11:01Z
   Total Products: 0
@@ -4163,10 +4057,10 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:11:43Z
   Total Products: 0
 - [Jólagjafir 20-21](https://daria.is/collections/jolagjafir-2021)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 40
 - [Vinsælar jólagjafir](https://daria.is/collections/vinsaelar-jolagjafir)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 12
 - [Marc Inbane](https://daria.is/collections/marc-inbane)
   Updated: 2026-03-08T04:11:48Z
@@ -4175,136 +4069,145 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Updated: 2026-03-08T04:12:22Z
   Total Products: 0
 - [jólagjafir 2025](https://daria.is/collections/jolagjafir-2025): jólagjöfin fyrir hana, ýmsar sniðugar jólagjafir
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 64
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 63
 - [Plus size](https://daria.is/collections/plus-size)
   Updated: 2026-03-08T04:12:03Z
   Total Products: 0
 - [b.young](https://daria.is/collections/b-young)
-  Updated: 2026-03-10T17:27:38Z
-  Total Products: 21
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 19
 - [Ichi](https://daria.is/collections/ichi)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 22
-- [Blazer](https://daria.is/collections/blazer)
-  Updated: 2026-03-10T12:29:15Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 15
+- [Blazer](https://daria.is/collections/blazer)
+  Updated: 2026-03-18T17:22:35Z
+  Total Products: 13
 - [Snyrtivörur](https://daria.is/collections/snyrtivorur)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 126
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 121
 - [Förðunarvörur](https://daria.is/collections/fordunarvorur)
-  Updated: 2026-03-09T10:18:12Z
+  Updated: 2026-03-15T03:42:07Z
   Total Products: 15
 - [Brúnkuvörur](https://daria.is/collections/brunkuvorur-1)
-  Updated: 2026-03-08T04:10:35Z
+  Updated: 2026-03-15T03:41:45Z
   Total Products: 16
 - [Húðvörur](https://daria.is/collections/hudvorur)
-  Updated: 2026-03-08T04:11:23Z
+  Updated: 2026-03-18T16:07:32Z
   Total Products: 26
 - [Efri hluti](https://daria.is/collections/efri-hluti)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 87
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 76
 - [Neðri hluti](https://daria.is/collections/nedri-hluti)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 62
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 57
 - [Fransa](https://daria.is/collections/fransa)
-  Updated: 2026-03-10T11:02:52Z
+  Updated: 2026-03-18T16:07:09Z
   Total Products: 2
 - [L.A. Girl](https://daria.is/collections/l-a-girl)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 55
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 50
 - [L.A. Girl varir](https://daria.is/collections/l-a-girl-varir)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-18T16:07:45Z
   Total Products: 4
 - [Pils](https://daria.is/collections/pils)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 6
+  Updated: 2026-03-18T17:21:52Z
+  Total Products: 5
 - [Pulz](https://daria.is/collections/pulz)
   Updated: 2026-03-08T04:12:05Z
   Total Products: 2
 - [Vanity beauty accessories](https://daria.is/collections/vanity-beauty-accessories)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 17
 - [Cream](https://daria.is/collections/cream)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 38
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 35
 - [Soaked](https://daria.is/collections/soaked)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 9
+  Updated: 2026-03-18T17:21:52Z
+  Total Products: 6
 - [Lashvana augnháralengingar](https://daria.is/collections/lashvana): Quicklashes eru augnhár sem þú setur á þig sjálf/ur í rólegheitunum heima og endast í allt að 5-10 daga. Augnhárin okkar eru vegan & cruelty free, vatns & svitaþolin og eru gerð úr hágæða PBT trefjum. Þú getur tekið augnhárin af hvenær sem er og endurnýtt þau aftur.  Gervi augnhár, eye lash extension, starter kit, byrjendapakki
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 18
 - [Útsala](https://daria.is/collections/utsala)
   Updated: 2026-03-08T04:12:39Z
   Total Products: 1
 - [Kaffe](https://daria.is/collections/kaffe)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 37
 - [Culture](https://daria.is/collections/culture)
-  Updated: 2026-03-10T12:29:15Z
-  Total Products: 24
+  Updated: 2026-03-18T17:20:59Z
+  Total Products: 21
 - [Útsala 50%](https://daria.is/collections/utsala-50)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 47
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 38
 - [Ilmur ilmkerti](https://daria.is/collections/ilmur-ilmkerti): ILMUR ilmkerti eru handgerð á Íslandi úr sérblöndu af kókos- og apríkósuvaxi sem tryggir hreina og yfirburða brennsluupplifun. Vaxið er glútenlaust og án eiturefna, parabena og þalata, þannig færðu fallega loga og notalegan ilm
   Updated: 2026-03-08T04:11:26Z
   Total Products: 2
 - [skartgripur](https://daria.is/collections/skartgripur)
-  Updated: 2026-03-08T04:12:13Z
-  Total Products: 18
+  Updated: 2026-03-18T17:18:43Z
+  Total Products: 13
 - [dyrberg/kern](https://daria.is/collections/dyrberg-kern)
-  Updated: 2026-03-08T04:10:44Z
-  Total Products: 18
+  Updated: 2026-03-18T17:18:43Z
+  Total Products: 13
 - [Herrar](https://daria.is/collections/herrar)
-  Updated: 2026-03-11T17:05:41Z
-  Total Products: 73
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 101
 - [Herrar skyrtur](https://daria.is/collections/herrar-skyrtur)
-  Updated: 2026-03-09T10:21:19Z
-  Total Products: 17
+  Updated: 2026-03-18T16:07:27Z
+  Total Products: 25
 - [Herrar nýjar vörur](https://daria.is/collections/herrar-nyjar-vorur)
-  Updated: 2026-03-11T17:05:41Z
-  Total Products: 76
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 104
 - [Herrar yfirhafnir](https://daria.is/collections/herrar-yfirhafnir)
-  Updated: 2026-03-09T10:21:54Z
+  Updated: 2026-03-15T03:42:39Z
   Total Products: 7
 - [Herrar Jakkaföt](https://daria.is/collections/herrar-jakkafot)
-  Updated: 2026-03-09T10:21:35Z
+  Updated: 2026-03-15T03:42:27Z
   Total Products: 6
 - [Herrar yfirskyrtur](https://daria.is/collections/herrar-yfirskyrtur)
-  Updated: 2026-03-09T10:20:23Z
+  Updated: 2026-03-19T11:02:44Z
   Total Products: 4
 - [Herrar peysur](https://daria.is/collections/herrar-peysur)
-  Updated: 2026-03-09T10:21:52Z
-  Total Products: 9
+  Updated: 2026-03-18T16:15:28Z
+  Total Products: 13
 - [herrar bolir](https://daria.is/collections/herrar-bolir)
-  Updated: 2026-03-09T10:21:26Z
-  Total Products: 11
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 17
 - [Herrar buxur og gallabuxur](https://daria.is/collections/herrar-buxur-og-gallabuxur)
-  Updated: 2026-03-11T17:05:41Z
-  Total Products: 11
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 15
 - [Herrar Náttföt](https://daria.is/collections/herrar-nattfot)
   Updated: 2026-03-08T04:11:11Z
   Total Products: 1
 - [Herrar aukahlutir,húfur og treflar](https://daria.is/collections/herrar-aukahlutir-hufur-og-treflar)
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-18T16:18:28Z
   Total Products: 9
 - [jólagjafahugmyndir 2025](https://daria.is/collections/jolagjafahugmyndir-2025)
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 47
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 43
 - [herrar skór](https://daria.is/collections/herrar-skor)
-  Updated: 2026-03-09T10:21:39Z
+  Updated: 2026-03-15T03:42:35Z
   Total Products: 2
 - [Herrar Blazer](https://daria.is/collections/herrar-blazer)
-  Updated: 2026-03-09T10:20:42Z
+  Updated: 2026-03-18T16:18:15Z
   Total Products: 3
 - [70% afsláttur - Daría](https://daria.is/collections/70-afslattur): Verslaðu vörur á 70% afslætti hjá Daría. Takmarkað magn í boði.
-  Updated: 2026-03-11T11:02:06Z
-  Total Products: 95
+  Updated: 2026-03-19T11:02:44Z
+  Total Products: 78
+- [Ilmolíur](https://daria.is/collections/ilmoliur)
+  Updated: 2026-03-15T03:42:49Z
+  Total Products: 0
+- [Herrar Bindi og Slaufur](https://daria.is/collections/bindi-og-slaufur)
+  Updated: 2026-03-18T16:16:02Z
+  Total Products: 3
+- [Herrar Belti og axlarbönd](https://daria.is/collections/bindi-og-axlarbond)
+  Updated: 2026-03-18T16:17:54Z
+  Total Products: 3
 
 ## Store Pages
 
 - [Um okkur](https://daria.is/pages/about-us): Daria.is er netverslun og verslun sem selur fatnað, snyrtivörur og aukahluti Við leggjum mikinn metnað í persónulega og góða þjónustu. Alltaf með n...
-  Updated: 2024-09-28T13:28:54Z
+  Updated: 2026-03-19T08:25:12Z
 - [Skilmálar](https://daria.is/pages/skilmalar): Skilmálar og skilyrði. Daría ehf Verslunarmiðstöðinni Fjörður Hafnarfirði, 1. hæð daria@daria.is sími: 7816645 Daría ehfReikningsnúmer: 0142-26-010...
   Updated: 2023-09-28T17:25:58Z
 - [Hafa samband](https://daria.is/pages/hafa-samband): daria@daria.issnapchat: daria.isfacebook: @dariaverslunSími: 7816645 Verslun okkar er í verslunarmiðstöðinni Firðinum Hafnarfirði 1.hæð
