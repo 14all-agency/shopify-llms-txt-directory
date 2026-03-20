@@ -8,14 +8,14 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-01-26T19:01:38Z
 - Contact Email: info@pumofficial.com
-- Updated At: 2026-03-13T00:00:41.845Z
+- Updated At: 2026-03-20T00:00:45.819Z
 
 THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrection of Substance." We specialize in heavyweight minimalist streetwear (400-600 GSM) with a focus on architectural silhouettes and structural integrity. Operating under the philosophy of Silent Authority, we define the next generation of premium urban essentials.
 
 ## Products
 
 - [THE P.U.M. | Hoodie CREW | Bio-Baumwolle 400gsm](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew): THE P.U.M. Hoodie CREW aus 100% Bio-Baumwolle. 400gsm heavyweight, oversized fit. Minimalistisches Design, GOTS-zertifiziert. Premium Streetwear Essential.
-  Updated: 2026-03-12T22:27:57Z
+  Updated: 2026-03-19T23:25:33Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Unisex Bio-Hoodie CRUISER
   Availability: Available
@@ -169,7 +169,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_00954566-4316-477a-8984-3484d75c98bc.png?v=1772268081
     Price: 89,95 € EUR
   - [Naturweiß / M](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew?variant=55371036787073)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_00954566-4316-477a-8984-3484d75c98bc.png?v=1772268081
     Price: 89,95 € EUR
   - [Naturweiß / L](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew?variant=55371036819841)
@@ -185,7 +185,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_00954566-4316-477a-8984-3484d75c98bc.png?v=1772268081
     Price: 89,95 € EUR
   - [Naturweiß / 3XL](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew?variant=55371036918145)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_00954566-4316-477a-8984-3484d75c98bc.png?v=1772268081
     Price: 89,95 € EUR
   - [Ocker / XS](https://www.pumofficial.com/products/the-p-u-m-unisex-hoodie-crew?variant=55371036950913)
@@ -217,7 +217,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_322ea0f2-3179-4285-a286-cd2bece51009.png?v=1772268083
     Price: 89,95 € EUR
 - [THE P.U.M. | Hoodie CRUISER | Bio-Baumwolle Relaxed](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-cruiser): THE P.U.M. Hoodie CRUISER aus 100% Bio-Baumwolle. Relaxed fit, boxy silhouette. Zeitloses Design, GOTS-zertifiziert. Premium Urban Minimalism.
-  Updated: 2026-03-12T23:26:55Z
+  Updated: 2026-03-19T23:25:36Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Unisex Bio-Hoodie CRUISER
   Availability: Available
@@ -303,7 +303,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_020105b2-7e4b-4083-8a43-082e09c35d04.png?v=1772268096
     Price: 89,95 € EUR
 - [THE P.U.M. | Hoodie Classic | Bio-Baumwolle 400gsm](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-classic): Klassischer Schnitt trifft nachhaltige Qualität. THE P.U.M. Hoodie Classic mit 400gsm Bio-Baumwolle, GOTS-zertifiziert. Zeitlos, langlebig, essentiell.
-  Updated: 2026-03-12T23:26:55Z
+  Updated: 2026-03-19T23:25:26Z
   Vendor: Spreadconnect
   Product Type: Hoodies
   Availability: Available
@@ -477,7 +477,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_b021e24a-c415-4561-90ad-118c37e426c0.png?v=1772268107
     Price: 89,95 € EUR
   - [Tanngrün / XS](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-classic?variant=55355745960321)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_87445ddd-0c16-4009-91f7-ea111a202fd9.png?v=1772268109
     Price: 89,95 € EUR
   - [Tanngrün / S](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-hoodie-classic?variant=55355745993089)
@@ -505,7 +505,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_87445ddd-0c16-4009-91f7-ea111a202fd9.png?v=1772268109
     Price: 89,95 € EUR
 - [THE P.U.M. Heavy Oversize T-Shirt Classic | Bio-Baumwolle](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic): Heavy Oversize T-Shirt Classic von THE P.U.M. 100% Bio-Baumwolle, schweres Gewebe, oversized Fit. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-12T23:26:47Z
+  Updated: 2026-03-19T22:26:57Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -675,11 +675,11 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-4010608.png?v=1772268117
     Price: 44,95 € EUR
   - [hunter Green / 3XL](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-classic?variant=55308610765185)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-classic-4010608.png?v=1772268117
     Price: 44,95 € EUR
 - [THE P.U.M. Heavy Oversize T-Shirt THE PURE | Bio-Baumwolle](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-the-pure): Heavy Oversize T-Shirt THE PURE von THE P.U.M. 100% Bio-Baumwolle, schweres Gewebe, reduziertes Design. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-12T23:26:45Z
+  Updated: 2026-03-19T23:25:26Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -821,7 +821,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-the-pure-hunter-green-xs-4024039.png?v=1772268132
     Price: 44,95 € EUR
   - [hunter Green / 3XL](https://www.pumofficial.com/products/the-p-u-m-heavy-oversize-t-shirt-the-pure?variant=55308611944833)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-heavy-oversize-t-shirt-the-pure-hunter-green-xs-4024039.png?v=1772268132
     Price: 44,95 € EUR
 - [THE P.U.M. Geschenkkarte kaufen | Nachhaltige Streetwear verschenken](https://www.pumofficial.com/products/the-p-u-m-giftcard): THE P.U.M. Geschenkkarte für nachhaltige Premium-Streetwear aus Bio-Baumwolle. Wählbar von 10-200€. Digitale Zustellung, kein Verfallsdatum. Jetzt verschenken!
@@ -867,7 +867,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/platinum-giftcard.png?v=1772268152
     Price: 200,00 € EUR
 - [Bio-T-Shirt Lucky Relaxed Fit – Made in Portugal | THE P.U.M.](https://www.pumofficial.com/products/the-p-u-m-t-shirt-lucky): Relaxed Fit T-Shirt aus 100% Bio-Baumwolle (180g/m²). Made in Portugal, nachhaltig produziert, lässiger Schnitt. Fair Fashion. Jetzt bestellen!
-  Updated: 2026-03-12T23:26:55Z
+  Updated: 2026-03-19T16:27:51Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -921,7 +921,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_52231822-f889-453f-8ff3-eefe6ea46ce0.png?v=1772268158
     Price: 44,95 € EUR
 - [Slim Fit Langarmshirt Lucky Damen – Cropped Style | THE P.U.M.](https://www.pumofficial.com/products/frauen-slim-fit-langarmshirt-lucky): Cropped Langarmshirt für Frauen im Slim Fit. 95% Baumwolle, 5% Elasthan (180g/m²), Crew Neck. Vielseitig kombinierbar. Nachhaltige Mode. Jetzt kaufen!
-  Updated: 2026-03-12T22:27:55Z
+  Updated: 2026-03-19T21:29:26Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -959,7 +959,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_6ad053ca-0f8c-4f12-a132-7e1a9bc52112.png?v=1772268163
     Price: 39,95 € EUR
 - [Frauen Premium Oversized Bio Cropped T-Shirt | THE P.U.M.](https://www.pumofficial.com/products/frauen-premium-oversized-bio-cropped-t-shirt): Oversized Bio Cropped T-Shirt für Frauen. 100% Bio-Baumwolle, cropped Länge, oversized Fit. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-12T11:32:16Z
+  Updated: 2026-03-19T23:25:36Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -981,7 +981,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_8ebe3cda-8310-48a4-9ce2-22f879189b12.png?v=1772268167
     Price: 39,95 € EUR
 - [Frauen Oversized Bio Cropped T-Shirt The Pure | THE P.U.M.](https://www.pumofficial.com/products/frauen-premium-oversized-bio-cropped-t-shirt-the-pure): The Pure Oversized Bio Cropped T-Shirt. 100% Bio-Baumwolle, minimalistisches Design, cropped Länge. GOTS-zertifiziert, Fair Wear, vegan.
-  Updated: 2026-03-12T11:32:16Z
+  Updated: 2026-03-19T23:25:36Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -1003,7 +1003,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_d025280b-9083-430f-9732-3fefd6bc4153.png?v=1772268170
     Price: 34,95 € EUR
 - [Boxy Bio-T-Shirt PURE Damen – 100% Bio-Baumwolle | THE P.U.M.](https://www.pumofficial.com/products/the-p-u-m-frauen-boxy-bio-t-shirt-pure): Nachhaltiges Boxy T-Shirt PURE für Frauen. 100% Bio-Baumwolle (155g/m²), Crew Neck, gerader Schnitt. Fair produzierte Streetwear. Jetzt bestellen!
-  Updated: 2026-03-12T20:27:33Z
+  Updated: 2026-03-19T23:25:31Z
   Vendor: Spreadconnect
   Product Type: Tees
   Availability: Available
@@ -1025,7 +1025,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_45f9a87a-0c47-41e0-a4da-5c2c7788d9c0.png?v=1772268174
     Price: 34,95 € EUR
 - [Boxy Bio-T-Shirt Love Damen – 100% Bio-Baumwolle | THE P.U.M.](https://www.pumofficial.com/products/frauen-boxy-bio-t-shirt-love): Lässiges Boxy Bio-T-Shirt für Frauen aus 100% Bio-Baumwolle (155g/m²). Crew Neck, Rippbündchen, nachhaltig produziert. Fair Fashion. Jetzt shoppen!
-  Updated: 2026-03-12T22:27:51Z
+  Updated: 2026-03-19T23:25:36Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Frauen Boxy Bio-T-Shirt Nova
   Availability: Available
@@ -1095,7 +1095,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_4137dcab-7678-400f-a9f4-f2ae3a5e690f.png?v=1772268192
     Price: 44,95 € EUR
 - [Bio-Jogginghose Mover Unisex – 100% Bio-Baumwolle | THE P.U.M.](https://www.pumofficial.com/products/the-p-u-m-unisex-bio-jogginghose-mover): Nachhaltige Unisex Jogginghose aus 100% Bio-Baumwolle (350g/m²). Gerader Schnitt, Rippbund, aufgesetzte Tasche. Fair produziert. Jetzt bestellen!
-  Updated: 2026-03-12T10:27:57Z
+  Updated: 2026-03-16T17:26:34Z
   Vendor: Spreadconnect
   Product Type: Stanley/Stella Unisex Bio Jogginghose Mover
   Availability: Available
@@ -1121,7 +1121,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_809bb22f-8f14-4c6c-af22-90df26f10b20.png?v=1772268194
     Price: 54,95 € EUR
 - [Bio Sherpajacke Relaxed Fit Unisex – Recycelt | THE P.U.M.](https://www.pumofficial.com/products/relaxed-fit-unisex-sherpajacke-von-the-p-u-m): Nachhaltige Bio-Sherpajacke im Relaxed Fit. 100% recyceltes Polyester, Polar-Fleece-Fütterung, Softshell-Taschen. Eco-friendly & fair. Jetzt bestellen!
-  Updated: 2026-03-12T22:27:56Z
+  Updated: 2026-03-18T21:25:38Z
   Vendor: Spreadconnect
   Product Type: Jackets
   Availability: Available
@@ -1143,7 +1143,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_89413678-0477-4b47-ab7f-9b0aabf6d7ad.png?v=1772268196
     Price: 74,99 € EUR
 - [Sherpa-Weste Medium Fit Unisex – Recyceltes Polyester | THE P.U.M.](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-von-the-p-u-m): Ärmellose Sherpa-Weste aus recyceltem Polyester mit Polar-Fleece. Medium Fit, versteckte Reißverschluss-Taschen, Anti-Pilling. Nachhaltige Mode. Jetzt kaufen!
-  Updated: 2026-03-12T22:27:51Z
+  Updated: 2026-03-19T22:26:56Z
   Vendor: Spreadconnect
   Product Type: MEDIUM FIT Unisex Sherpa-Weste von Stanley/Stella
   Availability: Available
@@ -1177,7 +1177,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_c875ea2e-056c-4316-93b5-fdef09c2a04a.png?v=1772268201
     Price: 69,99 € EUR
 - [Unisex Sherpa-Weste Medium Fit – Recycelt | THE P.U.M.](https://www.pumofficial.com/products/medium-fit-unisex-sherpa-weste-by-the-p-u-m): Nachhaltige Sherpa-Weste aus recyceltem Polyester mit Polar-Fleece-Fütterung. Medium Fit, ärmellos, Seitentaschen. Eco-friendly Streetwear. Jetzt shoppen!
-  Updated: 2026-03-12T22:27:56Z
+  Updated: 2026-03-19T22:26:57Z
   Vendor: Spreadconnect
   Product Type: MEDIUM FIT Unisex Sherpa-Weste von Stanley/Stella
   Availability: Available
@@ -1361,7 +1361,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/the-pum-minimalism-organic-relaxed-hoodie-white-s-2895223.jpg?v=1772268252
     Price: 89,95 € EUR
 - [Garment Dyed T-Shirt Essence Fade | Oversized Streetwear | THE P.U.M.](https://www.pumofficial.com/products/essence-fade-tee-premium-oversized-t-shirt-in-garment-dyed-optik): Premium Oversized T-Shirt in Garment-Dyed Optik. Vintage Fade-Effekt, contemporary Streetwear, einzigartiger Look. Urban Fashion für Individualisten.
-  Updated: 2026-02-28T08:44:53Z
+  Updated: 2026-03-16T05:04:50Z
   Vendor: THE P.U.M.
   Product Type: Tees
   Availability: Available
@@ -1439,11 +1439,11 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/essence-fade-tee-premium-oversized-t-shirt-in-garment-dyed-optik-faded-eucalyptus-s-6004754.jpg?v=1772268285
     Price: 44,95 € EUR
   - [Faded Bone / S](https://www.pumofficial.com/products/essence-fade-tee-premium-oversized-t-shirt-in-garment-dyed-optik?variant=55343418769793)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/essence-fade-tee-premium-oversized-t-shirt-in-garment-dyed-optik-faded-bone-s-5215345.jpg?v=1772268287
     Price: 44,95 € EUR
   - [Faded Bone / M](https://www.pumofficial.com/products/essence-fade-tee-premium-oversized-t-shirt-in-garment-dyed-optik?variant=55343418802561)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/essence-fade-tee-premium-oversized-t-shirt-in-garment-dyed-optik-faded-bone-s-5215345.jpg?v=1772268287
     Price: 44,95 € EUR
   - [Faded Bone / L](https://www.pumofficial.com/products/essence-fade-tee-premium-oversized-t-shirt-in-garment-dyed-optik?variant=55343418835329)
@@ -1589,7 +1589,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/oversized-hoodie-breakdance-unisex-white-heather-s-6587332.jpg?v=1772268301
     Price: 89,95 € EUR
 - [Essential Premium Hoodie Damen – Bio-Baumwolle | Nachhaltig](https://www.pumofficial.com/products/frauen-premium-hoodie): Premium Damen Hoodie aus Bio-Baumwolle & recyceltem Polyester. Nachhaltig, fair & minimalistisch. Für deinen urbanen Look.
-  Updated: 2026-03-12T22:27:56Z
+  Updated: 2026-03-19T23:25:26Z
   Vendor: Spreadconnect
   Product Type: Hoodies
   Availability: Available
@@ -1615,7 +1615,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_47db946a-323d-4177-9d7e-2dbcb825ebae.png?v=1772268332
     Price: 79,95 € EUR
   - [Anthrazit meliert / 3XL](https://www.pumofficial.com/products/frauen-premium-hoodie?variant=55355753693569)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0927/8298/5601/files/1_47db946a-323d-4177-9d7e-2dbcb825ebae.png?v=1772268332
     Price: 79,95 € EUR
   - [Naturweiß / S](https://www.pumofficial.com/products/frauen-premium-hoodie?variant=55355753726337)
@@ -2122,7 +2122,7 @@ THE P.U.M. is a high-end textile engineering brand dedicated to "The Resurrectio
     Price: 79,95 € EUR
 - [THE P.U.M. Snapback Hat | Structured Flat Brim | Urban Streetwear Cap](https://www.pumofficial.com/products/the-p-u-m-snapback-hat-urban-minimalism-trifft-street-style): Entdecke den THE P.U.M. Snapback Hat – klassisches 6-Panel-Design, 
 flacher Schirm & verstellbarer Verschluss. Jetzt im THE P.U.M. Online Shop.
-  Updated: 2026-03-12T12:15:52Z
+  Updated: 2026-03-14T10:44:18Z
   Vendor: THE P.U.M.
   Product Type: Snapback Caps
   Availability: Available
@@ -2354,6 +2354,15 @@ flacher Schirm & verstellbarer Verschluss. Jetzt im THE P.U.M. Online Shop.
     Author: THE P.U.M.
   - [Von Gorpcore zu Minimalismus: Die Evolution der urbanen Mode](https://www.pumofficial.com/blogs/neuigkeiten/gorpcore-to-minimalism-the-evolution-of-urban-fashion)
     Updated: 2026-03-11T15:13:54Z
+    Author: THE P.U.M.
+  - [Dopamine Dressing vs. Minimalism: Finding Your Style Balance](https://www.pumofficial.com/blogs/neuigkeiten/dopamine-dressing-vs-minimalism-finding-your-style-balance): Dopamine Dressing vs. Minimalism: Finding Your Style Balance
+    Updated: 2026-03-16T07:57:50Z
+    Author: THE P.U.M.
+  - [Sustainable Minimalist Fashion: Why Less is More in 2026](https://www.pumofficial.com/blogs/neuigkeiten/sustainable-minimalist-fashion-why-less-is-more-in-2026): Sustainable Minimalist Fashion: Why Less is More in 2026
+    Updated: 2026-03-16T07:57:50Z
+    Author: THE P.U.M.
+  - [Quiet Luxury Meets Streetwear: The New Urban Minimalism](https://www.pumofficial.com/blogs/neuigkeiten/quiet-luxury-meets-streetwear-the-new-urban-minimalism): Quiet Luxury Meets Streetwear: The New Urban Minimalism
+    Updated: 2026-03-16T07:57:50Z
     Author: THE P.U.M.
 
 ## Store Pages
