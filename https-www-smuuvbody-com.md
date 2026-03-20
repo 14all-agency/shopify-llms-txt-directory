@@ -28,7 +28,7 @@ https://www.smuuvbody.com
 - Created At: 2024-06-04T13:46:45Z
 - Contact Email: support@smuuvbody.com
 - Address: 930 Washington Avenue suite 210 29 Miami Beach. Florida. USA
-- Updated At: 2026-03-13T00:00:52.801Z
+- Updated At: 2026-03-20T04:00:25.849Z
 
 ## Brand Context
 
@@ -206,7 +206,7 @@ Products are designed for cosmetic skincare support and daily routine integratio
     Image: https://cdn.shopify.com/s/files/1/0584/7213/6803/files/SB_Mave_Slide14.jpg?v=1772432226
     Price: $197.00 USD
 - [Lulu Pro - Hybrid LED Light Therapy Contour Face Mask](https://www.smuuvbody.com/products/lulu-pro-led-light-therapy-mask): Experience pro-grade LED Light Therapy Mask with Lulu Pro—designed to smooth, calm, and brighten skin using clinically proven wavelengths in 10 minutes daily.
-  Updated: 2026-03-02T06:39:37Z
+  Updated: 2026-03-14T15:34:42Z
   Vendor: Smuuv Body
   Product Type: LED Therapy Mask
   Availability: Available
@@ -278,16 +278,16 @@ Products are designed for cosmetic skincare support and daily routine integratio
 ## Collections
 
 - [All](https://www.smuuvbody.com/collections/all-1)
-  Updated: 2026-02-25T12:20:05Z
+  Updated: 2026-03-15T11:18:28Z
   Total Products: 7
 - [Hair Removal](https://www.smuuvbody.com/collections/hair-removal)
   Updated: 2026-02-25T12:20:05Z
   Total Products: 1
 - [Light Therapy Device](https://www.smuuvbody.com/collections/light-therapy-device)
-  Updated: 2026-02-16T12:16:12Z
+  Updated: 2026-03-15T11:18:28Z
   Total Products: 2
 - [Products](https://www.smuuvbody.com/collections/products)
-  Updated: 2026-02-25T12:20:05Z
+  Updated: 2026-03-15T11:18:28Z
   Total Products: 3
 
 ## Store Pages
