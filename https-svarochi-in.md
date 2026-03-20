@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-19T18:04:56Z
 - Contact Email: info@svarochi.in
-- Updated At: 2026-03-13T00:00:35.574Z
+- Updated At: 2026-03-20T00:00:38.028Z
 
 ## Products
 
@@ -506,7 +506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/Gemini_Generated_Image_ykgtjvykgtjvykgt.png?v=1768549667
   Price: ₹2,799.00 INR
 - [Pure Lenin Cotton Kurta Set](https://svarochi.in/products/product-2): Pure linen kurta set in pristine white with subtle blue undertones, featuring exquisite zari golden threadwork and Islamic-inspired floral motifs. The delicate embroidery showcases traditional craftsmanship, creating an elegant ensemble perfect for festive occasions and cultural celebrations. The breathable linen fabric ensures comfort throughout the day, while the refined detailing elevates your ethnic wardrobe with timeless sophistication.
-  Updated: 2026-02-28T01:23:53Z
+  Updated: 2026-03-18T09:27:18Z
   Vendor: Svarochi
   Product Type: kurta Set
   Availability: Available
@@ -549,14 +549,14 @@
   Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/Gemini_Generated_Image_9owcw29owcw29owc.png?v=1768552468
   Price: ₹1,999.00 INR
 - [Pure Cotton Lace Kurta set](https://svarochi.in/products/product-5): This striking Dark pink cotton A-line dress showcases meticulous craftsmanship with delicate pleating across the front bodice. Pearl embellishments grace the neckline and upper design, introducing understated luxury to the piece. The natural cotton fabric provides exceptional breathability and comfort, making it ideal for warm climates and extended wear. The rich red hue pairs effortlessly with neutral accessories, while the refined silhouette transitions seamlessly from daytime gatherings to evening occasions. A sophisticated choice for those seeking quality and elegance.
-  Updated: 2026-02-28T01:23:52Z
+  Updated: 2026-03-18T09:22:47Z
   Vendor: Svarochi
   Product Type: kurta Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/Gemini_Generated_Image_5nn2sl5nn2sl5nn2.png?v=1768553233
   Price: ₹2,599.00 INR
 - [Sequence Kurta Set](https://svarochi.in/products/product-7): Elevate your ethnic wardrobe with this sophisticated Sequence Kurta Set in a serene pear green hue. Crafted from a comfortable polycotton blend, this ensemble features intricate sequin detailing that adds understated glamour to traditional silhouettes. The breathable fabric ensures all-day wearability, while the sequence embellishments catch light beautifully for festive occasions or elevated everyday styling. Perfect for celebrations, gatherings, or when you want to make a refined statement with timeless elegance.
-  Updated: 2026-02-28T01:23:52Z
+  Updated: 2026-03-18T09:24:57Z
   Vendor: Svarochi
   Product Type: kurta Set
   Availability: Available
@@ -568,7 +568,7 @@
     Availability: Available
     Price: ₹2,799.00 INR
   - [Light Fluorescent green / XL](https://svarochi.in/products/product-7?variant=46090627219609)
-    Availability: Available
+    Availability: Not Available
     Price: ₹2,799.00 INR
   - [Light Fluorescent green / L](https://svarochi.in/products/product-7?variant=46094413594777)
     Availability: Available
@@ -656,6 +656,15 @@
     Author: Svarochi
   - [Trending Lehenga Styles for the Modern Indian Bride](https://svarochi.in/blogs/news/trending-lehenga-styles-for-the-modern-indian-bride): Trending Lehenga Styles for the Modern Indian Bride
     Updated: 2026-03-11T01:31:15Z
+    Author: Svarochi
+  - [A Comparative Guide to Traditional vs Indo Western Bridal Wear](https://svarochi.in/blogs/news/a-comparative-guide-to-traditional-vs-indo-western-bridal-wear): A Comparative Guide to Traditional vs Indo Western Bridal Wear
+    Updated: 2026-03-13T01:33:36Z
+    Author: Svarochi
+  - [Checklists: Must-Have Elements of Bridal Ethnic Wear](https://svarochi.in/blogs/news/checklists-must-have-elements-of-bridal-ethnic-wear): Checklists: Must-Have Elements of Bridal Ethnic Wear
+    Updated: 2026-03-16T01:23:33Z
+    Author: Svarochi
+  - [The Evolution of Indo Western Lehengas in Indian Bridal Fashion](https://svarochi.in/blogs/news/the-evolution-of-indo-western-lehengas-in-indian-bridal-fashion): The Evolution of Indo Western Lehengas in Indian Bridal Fashion
+    Updated: 2026-03-18T01:24:23Z
     Author: Svarochi
 
 ## Store Pages
