@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-02-13T04:38:29Z
 - Contact Email: support@mindcypress.com
-- Updated At: 2026-03-13T00:00:36.483Z
+- Updated At: 2026-03-21T00:00:37.837Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/Advanced-financial-modeling_0027868c-1b0e-4dae-883f-a732b5083868.png?v=1683609734
   Price: $799.00 USD
 - [Human Resource Analytics (hr analytics) Certification Training Course](https://mindcypress.com/products/human-resource-analytics-instructor-led-online-training): Online Human Resource Analytics Certification Course Training by MindCypress prepares professionals for making decisions based on data analytics in Human Resources. The course is for anyone who is interested in HR field.
-  Updated: 2026-03-12T16:30:17Z
+  Updated: 2026-03-20T01:56:06Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/-manager-of-quality.png?v=1683611812
   Price: $799.00 USD
 - [Enhance Your Financial Skills With Our ACCA IFRS Certification](https://mindcypress.com/products/dip-ifrs-acca-uk-instructor-led-online-training): You can become job ready by acquiring the right knowledge and expertise in IFRS. Attend our Dip IFRS classes to learn about the rules, guidelines, and reporting requirements of IFRS.
-  Updated: 2026-03-11T11:02:06Z
+  Updated: 2026-03-13T15:08:57Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/DIp-ifrs.png?v=1683612952
   Price: $1,199.00 USD
 - [Project Management Professional Certification Training Courses](https://mindcypress.com/products/project-management-professional-instructor-led-online-training): Online PMP Exam Certification Training by MindCypress has helped thousands of professionals achieve their career goals in Project Management. The exam prep training program is well-structured by expert industry leaders.
-  Updated: 2026-03-12T14:25:58Z
+  Updated: 2026-03-19T07:08:05Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -298,14 +298,14 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/products/Logistics-and-supply-chain-management.png?v=1681721561
   Price: $399.00 USD
 - [Agile Scrum Foundation Self Paced eLearning Course](https://mindcypress.com/products/agile-scrum-foundation-self-paced-elearning-course): Course Overview The course is designed in such a way that anyone can easily understand the concept of Agile and its two main frameworks, Scrum and Kanban. In this course, you will learn why Agile is relevant now and a method to  with the VUCA environment. This course will also help you to understand the essential difference between the traditional model and Agile, and which model is suitable for which projects. It also covers the concept of Scrum and Kanban framework, and in which situation which framework will be the perfect solution. Modules Module 1: Course Objectives Module 2: Introduction to Anti-Money Laundering Module 4: All about Scrum Module 5: Introduction to Kanban Final Assessment Module 6: Agile Scrum Foundation - Quiz Assignment
-  Updated: 2026-03-10T12:32:57Z
+  Updated: 2026-03-13T01:14:42Z
   Vendor: MindCypress
   Product Type: eLearning
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/products/agile-scrum-foundation.png?v=1681715881
   Price: $299.00 USD
 - [Customer Service Management Self Paced eLearning Course](https://mindcypress.com/products/customer-service-management-self-paced-elearning-course): Course Overview Customer service management is a wide and never ending topic of discussions as it have lots of out of the box scenarios but taking a very scientific approach MindCypress had made this study easy to understand by explaining our learners in a cognitive way that: Customer service is the act of taking care of the customer’s needs by providing and delivering professional, helpful, high quality service and assistance before, during, and after the customer’s requirements are met. Customer service is meeting the needs and desires of any customer. The course then defines the below topics in great details: The importance of Customer Service. Importance of BPO in Customer Support Service. 16 key customer service skills in the Outsourcing Industry. Customer Service in Retail Business. Four key principles of Customer Service in the Retail Business Different types of customers in the Retail Business Type of customers to take care of after purchase or service in the Retail and Outsourcing Business. What are 10 types of Customer Service Channels? How to Appreciate Customers? Customer Service Management Course Outline: What is customer service and how do you go about serving your customers in a professional way? Importance of customer service & different ways Customer satisfaction correlates with business results Key Customer service skills in the Outsourcing Industry Key principles of Customer Service in the Retail Industry Different types of customers in the Retail Business Importance of BPO Customer Service and Call Centre And lots more! Modues Module 1: Four key principles of Customer Service in the Retail Business Module 2: 16 key customer service skills in the Outsourcing Industry Module 2: Customer Service in Retail Business Module 2: Different types of customers in the Retail Business Module 2: Type of customers to take care of after purchase or service in the Retail and Outsourcing Business Module 2: 10 types of Customer Service Channels Module 2: How to Appreciate Customers? Module 2: Importance of BPO Customer Support Service Module 2: Customer Service Experience Module 2: Strategies and Tools for Delivering Great Customer Service Module 2: Customer Service Experience Module 2: Strategies and Tools for Delivering Great Customer Service Final Assessments Customer Service Management - Quiz
-  Updated: 2025-02-17T12:24:48Z
+  Updated: 2026-03-20T08:15:14Z
   Vendor: MindCypress
   Product Type: eLearning
   Availability: Available
@@ -515,7 +515,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/HRA_6ef4d378-f291-40b4-bb01-a7ad50fdd9f2.png?v=1683289976
   Price: $599.00 USD
 - [ Manager of Quality Prerecorded Training](https://mindcypress.com/products/-manager-of-quality-prerecorded-training): Overview The  Manager of Quality/Organizational Excellence (CMQ/OE) is a professional who leads and champions process-improvement projects in a range of service and industrial contexts, from small enterprises to large corporations. These initiatives can have a regional or worldwide focus. A  Manager of Quality/Organizational Excellence (CMQ/OE) supports strategic planning and deployment projects, guides team efforts to establish and maintain relationships with customers and suppliers, and aids in the creation of measurement tools to assess organizational development. Prerequisite No prior experience or knowledge required for this course. Training Outcomes To advance your company to a higher level, spearhead activities in quality management and business excellence. Put into practice the tried-and-true quality management and improvement ideas where you work. Target Audience Those taking the  Manager of Quality / Organizational Excellence (CMQ/OE) exam Who want to advance their understanding of quality management Training Highlights Learn from Experts Learning from industry experts putting quality management and continuous performance improvement into practice will teach you about quality management. Course Curriculum Module 1: Training and Development Training and Development Training plans Training need analysis Training material, development, and delivery Training effectiveness and evaluation Module 2: Supply Chain Management Supply Chain Management Supplier selection and approval Supplier risk management Supplier communications Supplier performance Supplier improvement Supplier certification, partnerships, and alliances Supplier logistics and material acceptance Module 3: Customer - Focused Organization Customer Identification and Segmentation Internal customers External customers Customer segmentation Qualitative assessment Customer Relationship Management Customer needs Customer satisfaction and loyalty Customer service principles Multiple and diverse customer management Module 4: Quality Management Tools Problem-Solving Tools The seven classic quality tools Basic management and planning tools Process improvement tools Innovation and creativity tools Cost of quality (COQ) Process Management Process goals Process analysis Lean tools Theory of constraints (TOC) Measurement: Assessment and Metrics Basic statistical use Sampling Statistical analysis Measurement system analysis Trend and pattern analysis Process variation Process capability Reliability terminology Module 5: Management Elements and Methods Management Elements and Abilities Roles and responsibilities of leaders Roles and responsibilities of managers Change management Leadership techniques Empowerment Risk management Knowledge management Communication Skills and Abilities Communications techniques Interpersonal skills Communications in a global economy Communications and technology Project Management Project management basics Project planning and estimation tools Measure and monitor project activity Project documentation Quality System Quality mission and policy Quality planning, deployment and documentation Quality system effectiveness Quality Models and Theories Quality management standards Performance excellence models Other quality methodologies Quality philosophies FAQs Is it worth taking the course? Being a  professional establishes your expertise in the industry and opens up various opportunities to work with some of the best organizations in the industry. Based on a USA Job survey, 67% of the recruiters mentioned that they prefer  candidates and are also willing to pay higher. What are the key responsibilities of a Quality Manager? Explain how leadership affects organizational structure, leadership challenges, teams, and teamwork techniques. Develop and implement strategic strategies that take into account numerous environmental factors. Recognize the effects different management philosophies and views have on organizational excellence, product & process quality, and other factors. To monitor processes, evaluate performance, and address problems, use a variety of quality management tools. Consider how important customer segmentation, customer identification, and relationship management are. Create, monitor, and control the supply chain. Design training courses, then assess their effectiveness once they've been put into practice.
-  Updated: 2025-12-21T02:41:55Z
+  Updated: 2026-03-20T11:07:02Z
   Vendor: MindCypress
   Product Type: Prerecorded Trainings
   Availability: Available
@@ -633,7 +633,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/AdvancedExcel_2.png?v=1721194823
   Price: $299.00 USD
 - [ Management Accountant | CMA Exam |  CMA Training | Dubai  | Oman  and Saudi Arabia](https://mindcypress.com/products/-management-accountant): Prepare for the CMA exam with our online CMA course. Get  Management Accountant certification with expert training online. Available in Dubai, Oman, and Saudi Arabia. Enroll today!
-  Updated: 2026-02-19T18:26:48Z
+  Updated: 2026-03-19T13:53:27Z
   Vendor: MindCypress
   Product Type: 
   Availability: Available
@@ -653,7 +653,7 @@
   Availability: Available
   Price: $599.00 USD
 - [ International Financial Modeling Analyst (CIFMA)](https://mindcypress.com/products/-international-financial-modeling-analyst-cifma): Course Objective The  International Financial Modeling Analyst (CIFMA) program is designed to equip learners with one of the most critical and in-demand skills in today’s global financial landscape. With rising economic uncertainty and frequent market disruptions, organizations increasingly rely on robust financial models to guide strategic decisions. Earning the CIFMA certification not only gives professionals a competitive edge but also empowers them to anticipate market trends, evaluate risks, and design data-driven financial strategies. The demand for skilled financial modelers is growing rapidly, and CIFMA provides comprehensive training to build strong technical and analytical capabilities. The CIFMA program develops a deep understanding of financial documentation, financial statement analysis, cash flow evaluation,  assessment, and valuation techniques. It guides learners in constructing real-world financial models using practical assumptions that reflect industry standards. This course is your pathway to mastering financial modeling with a global perspective. Prerequisites There are no mandatory prerequisites for the CIFMA certification. The program is ideal for employees, business owners, managers, consultants, and anyone looking to strengthen their financial modeling and spreadsheet skills. A basic understanding of high school mathematics and pre-calculus is recommended for smoother learning. Target Audience The  International Financial Modeling Analyst (CIFMA) program is tailored for individuals who aim to strengthen their financial decision-making, analytical expertise, and valuation capabilities. It is especially beneficial for: Banking and  Professionals Those involved in credit analysis, treasury,  banking, or portfolio management who require strong modeling abilities to evaluate financial performance, assess risk, and support strategic  decisions. Equity Analysts Professionals who analyze stocks, evaluate company valuations, study market trends, and prepare financial forecasts. CIFMA enhances their ability to build accurate valuation models and deliver insightful research reports. Chartered Accountants in M&A or Corporate Finance CAs handling due diligence, business valuations, mergers, acquisitions, and strategic financial planning will gain advanced modeling skills to support negotiations,  structuring, and financial assessments. MBA Graduates in Finance or Commerce Students and fresh graduates looking to enter the finance domain with a strong foundation in financial modeling, forecasting, and valuation to secure roles in consulting, analytics, banking, and corporate finance. Finance and Business Professionals Managers, consultants, entrepreneurs, and decision-makers who want to understand financial feasibility,  planning, business valuation, and scenario analysis to improve organizational outcomes. Training Outcomes Upon completing the  International Financial Modeling Analyst (CIFMA) program, learners will be equipped with a strong analytical foundation and advanced practical skills essential for real-world financial decision-making. The program ensures mastery in the following areas: Exploratory Data Analysis (EDA) You will learn how to examine raw financial data, identify patterns, detect anomalies, and extract meaningful insights. EDA helps in understanding market behavior and preparing data for accurate modeling. Model Building and Optimization Gain hands-on experience in constructing dynamic financial models from scratch. You will also learn how to refine, validate, and optimize these models to improve accuracy, reliability, and usability in strategic decision-making. Inferential Statistics Understand how to draw conclusions and make predictions about a larger population based on sample data. This skill is essential for forecasting market trends, evaluating financial risks, and making data-backed decisions. Advanced Financial Statement Analysis Develop the ability to interpret income statements, balance sheets, and cash flow statements at a deeper level to assess business health and profitability. Scenario & Sensitivity Analysis Learn how to test the impact of changing assumptions—such as pricing, cost, interest rates, and market conditions—on financial outcomes, helping you prepare for uncertainty. Valuation Techniques Gain hands-on experience with valuation methods including DCF (Discounted Cash Flow), comparable company analysis, precedent transactions, and asset-based valuations. Forecasting & Budgeting Skills Understand how to create forward-looking financial projections and budgets that help organizations plan growth and allocate resources effectively. Dashboarding & Data Visualization Learn to represent financial insights visually through charts, dashboards, and interactive reports to improve decision-making and communication with stakeholders. Excel Automation & Advanced Functions Master advanced Excel tools such as macros, pivot tables, financial formulas, and automation techniques to speed up modeling tasks and reduce errors. Industry-Specific Modeling Build financial models tailored to various industries like manufacturing, banking, retail, real estate, and tech—making the learning more practical and job-ready. Risk Assessment & Mitigation Understand how to identify potential financial risks, quantify them, and build models that help in designing better risk-management strategies.  Analysis & Portfolio Evaluation Learn how to assess  opportunities, evaluate portfolio performance, and use modeling techniques to optimize returns while minimizing risk. Capstone Project on Real-World Financial Data Apply all concepts learned by creating a full-scale financial model using actual market or company data—ensuring practical, job-ready experience. Modules Chapter 1: Introduction Using Excel as a Core Platform for Financial Modeling Essential Referencing Techniques & Productivity Shortcuts in Excel Designing a Clean and Scalable Financial Model Structure Developing Revenue Forecast Drivers Creating Cost Projection Drivers Preparing Detailed Asset and Debt Schedules Forecasting the Profit & Loss Statement and Balance Sheet Chapter 2: Financial Statements & Valuation Techniques Preparing and Projecting the Cash Flow Statement Understanding and Managing Circular References in Interest and Cash Calculations Analyzing Financial Statements Through Key Financial Ratios Core Corporate Finance Principles for Effective Financial Modeling Fundamental Valuation Concepts Every Analyst Should Know Performing Valuations Using DCF (Discounted Cash Flow) and Comparable Company Analysis Conducting Scenario Analysis to Evaluate Different Business Outcomes Chapter 3: Using Excel in Financial Modeling Utilizing advanced Excel tools to audit and validate financial models Techniques for reviewing and troubleshooting large models with complex formulas Applying advanced Excel functions to develop flexible and dynamic financial models Enhancing model adaptability using INDEX, MATCH, and OFFSET functions Mastering advanced charting techniques in Excel, including the creation of Football Field charts Chapter 4: Understanding Macros Gaining a Clear Understanding of Macros and Their Use in Financial Models Introduction to VBA (Visual Basic for Applications) for Automating Financial Modeling Tasks Recording and Utilizing Macros to Resolve Circular References Efficiently Implementing Monte Carlo Simulation for Revenue Analysis – Part I Implementing Monte Carlo Simulation for Revenue Analysis – Part II Session Summary and Q&A Discussion
-  Updated: 2026-03-06T03:11:37Z
+  Updated: 2026-03-20T09:54:58Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -677,19 +677,19 @@
 ## Collections
 
 - [Home page](https://mindcypress.com/collections/frontpage)
-  Updated: 2026-03-11T11:07:52Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 11
 - [Information Technology](https://mindcypress.com/collections/information-technology): Find opportunities for a diverse field of careers in engineering, statistics, and business with a degree in data science. Working as a data scientist can be intellectually challenging, analytically satisfying, and put you at the forefront of new advances in technology. Data scientists have become more common and in demand, as big data continues to be increasingly important to the way organizations make decisions.
   Updated: 2025-02-17T12:24:40Z
   Total Products: 41
 - [Business](https://mindcypress.com/collections/business)
-  Updated: 2026-03-06T12:09:22Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 6
 - [Marketing](https://mindcypress.com/collections/marketing)
   Updated: 2025-02-17T12:24:40Z
   Total Products: 4
 - [Project Management](https://mindcypress.com/collections/project-management)
-  Updated: 2026-03-12T11:07:59Z
+  Updated: 2026-03-19T11:08:31Z
   Total Products: 6
 - [Quality Management](https://mindcypress.com/collections/quality-management)
   Updated: 2025-11-25T12:07:17Z
@@ -701,28 +701,28 @@
   Updated: 2026-03-11T11:07:52Z
   Total Products: 1
 - [Upcoming Trainings](https://mindcypress.com/collections/upcoming-trainings)
-  Updated: 2026-03-12T11:07:59Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 11
 - [Finance & Accounting](https://mindcypress.com/collections/finance-accounting)
-  Updated: 2026-03-11T11:07:52Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 13
 - [Instructor Led Trainings](https://mindcypress.com/collections/all)
-  Updated: 2026-03-12T11:07:59Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 42
 - [MQA  Trainings](https://mindcypress.com/collections/mqa--trainings)
   Updated: 2025-02-17T12:24:41Z
   Total Products: 7
 - [Prerecorded Trainings](https://mindcypress.com/collections/prerecorded-trainings)
-  Updated: 2026-03-06T12:09:22Z
+  Updated: 2026-03-18T11:08:50Z
   Total Products: 10
 - [AVADA Email Marketing - Best Sellers](https://mindcypress.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-03-12T11:07:59Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 97
 - [AVADA Email Marketing - Newest Products](https://mindcypress.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-03-12T11:07:59Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 97
 - [Eid Offer](https://mindcypress.com/collections/eid-offer)
-  Updated: 2026-03-12T11:07:59Z
+  Updated: 2026-03-20T11:08:57Z
   Total Products: 3
 
 ## Blogs
