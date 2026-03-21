@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-09T10:48:21Z
 - Contact Email: support@softpunkt.de
-- Updated At: 2026-03-11T00:00:42.276Z
+- Updated At: 2026-03-21T00:00:44.612Z
 
 ## Products
 
@@ -593,10 +593,10 @@
   Updated: 2026-03-03T12:37:17Z
   Total Products: 4
 - [Office](https://softpunkt.de/collections/microsoft-office)
-  Updated: 2026-03-03T12:37:17Z
+  Updated: 2026-03-11T11:47:57Z
   Total Products: 20
 - [Office Pakete](https://softpunkt.de/collections/microsoft-office-pakete)
-  Updated: 2026-03-03T12:37:17Z
+  Updated: 2026-03-11T11:47:57Z
   Total Products: 20
 - [Windows 10](https://softpunkt.de/collections/windows-10)
   Updated: 2025-12-14T08:31:42Z
@@ -605,7 +605,7 @@
   Updated: 2026-02-04T12:32:35Z
   Total Products: 4
 - [Office 2024](https://softpunkt.de/collections/office-2024)
-  Updated: 2026-01-30T10:06:35Z
+  Updated: 2026-03-11T11:47:57Z
   Total Products: 2
 - [Publisher](https://softpunkt.de/collections/microsoft-publisher)
   Updated: 2026-02-20T12:33:59Z
@@ -677,7 +677,7 @@
   Updated: 2025-11-20T10:49:29Z
   Total Products: 3
 - [Feed](https://softpunkt.de/collections/feed)
-  Updated: 2026-03-03T12:37:17Z
+  Updated: 2026-03-11T11:47:57Z
   Total Products: 7
 - [Visio 2024](https://softpunkt.de/collections/visio-2024)
   Updated: 2025-12-24T13:27:23Z
