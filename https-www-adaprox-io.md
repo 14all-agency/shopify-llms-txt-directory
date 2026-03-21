@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-07-19T03:46:18Z
 - Contact Email: info@adaprox.io
-- Updated At: 2026-03-13T00:00:32.970Z
+- Updated At: 2026-03-21T00:00:35.379Z
 
 ## Products
 
@@ -156,7 +156,7 @@
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_motionsensor.png?v=1772524993
   Price: $19.99 USD
 - [Adaprox Fingerbot Plus-Smart Switch, Button Pusher](https://www.adaprox.io/products/fingerbot-plus-1): Smartly control any buttons and switches
-  Updated: 2026-03-11T19:58:28Z
+  Updated: 2026-03-19T15:24:06Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -254,7 +254,7 @@
   Image: https://cdn.shopify.com/s/files/1/0587/4155/5405/files/Product_thermometer.png?v=1733729343
   Price: $19.99 USD
 - [Adaprox Fingerbot Touch](https://www.adaprox.io/products/fingerbot-touch): Automate your touch screen controls with ease
-  Updated: 2026-03-12T15:51:07Z
+  Updated: 2026-03-17T05:43:46Z
   Vendor: Adaprox
   Product Type: 
   Availability: Available
@@ -382,7 +382,7 @@
 ## Collections
 
 - [Recommended](https://www.adaprox.io/collections/recommended)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 6
 - [Networking](https://www.adaprox.io/collections/networking)
   Updated: 2026-02-28T12:03:28Z
@@ -391,34 +391,34 @@
   Updated: 2026-01-14T12:03:16Z
   Total Products: 9
 - [Triggering](https://www.adaprox.io/collections/triggering)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 10
 - [Lighting](https://www.adaprox.io/collections/lighting)
   Updated: 2025-10-26T11:03:01Z
   Total Products: 2
 - [Popular](https://www.adaprox.io/collections/popular)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 8
 - [REELUP (DO NOT DELETE)](https://www.adaprox.io/collections/reelup-do-not-delete)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 5
 - [Bluetooth](https://www.adaprox.io/collections/bluetooth)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 9
 - [Lifestyles](https://www.adaprox.io/collections/lifestyles)
   Updated: 2026-02-28T12:03:28Z
   Total Products: 9
 - [Bots](https://www.adaprox.io/collections/bots)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 11
 - [Bundles](https://www.adaprox.io/collections/bundles)
   Updated: 2026-03-04T05:59:19Z
   Total Products: 5
 - [All products](https://www.adaprox.io/collections/all-products)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 14
 - [Zigbee](https://www.adaprox.io/collections/zigbee)
-  Updated: 2026-03-12T11:03:23Z
+  Updated: 2026-03-20T11:03:31Z
   Total Products: 11
 - [](https://www.adaprox.io/collections/)
   Updated: 2026-02-28T13:00:52Z
@@ -481,6 +481,8 @@
   Updated: 2023-09-08T05:44:00Z
 - [Customer support](https://www.adaprox.io/pages/customer-support)
   Updated: 2023-09-08T05:44:00Z
+- [Partner links](https://www.adaprox.io/pages/partner-links): Partner links My Cartouches EMIAH Powered by SEOAnt
+  Updated: 2026-03-19T14:52:46Z
 
 ## Policies
 
