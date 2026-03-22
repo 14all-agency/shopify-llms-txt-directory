@@ -6,12 +6,12 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2025-12-22T23:29:53Z
 - Contact Email: support@noirval.com
-- Updated At: 2026-03-14T14:36:29.049Z
+- Updated At: 2026-03-22T00:00:28.539Z
 
 ## Products
 
 - [Seiko Presage Blue](https://noirval.com/products/blue-seiko)
-  Updated: 2026-03-13T13:46:24Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Chocolate](https://noirval.com/products/chocolate-seiko)
-  Updated: 2026-03-13T13:46:05Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Day-Date Olive Arabic](https://noirval.com/products/olive-seiko)
-  Updated: 2026-03-13T13:45:42Z
+  Updated: 2026-03-14T14:47:16Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -47,14 +47,14 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Nautilus Rose Gold Open Heart](https://noirval.com/products/heart-seiko)
-  Updated: 2026-03-13T13:45:34Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Opean_Heart.webp?v=1773073043
   Price: €199.00 EUR
 - [Seiko Datejust Purple](https://noirval.com/products/purple-seiko)
-  Updated: 2026-03-13T13:44:26Z
+  Updated: 2026-03-14T14:47:21Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -66,7 +66,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Smoke Grey](https://noirval.com/products/smokey-seiko)
-  Updated: 2026-03-13T13:44:07Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -78,7 +78,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Angel Sky](https://noirval.com/products/angel-seiko)
-  Updated: 2026-03-13T13:43:46Z
+  Updated: 2026-03-14T14:47:26Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -90,7 +90,7 @@
     Availability: Available
     Price: €219.00 EUR
 - [Seiko Land-Dweller Ice Honeycomb](https://noirval.com/products/ocean-seiko)
-  Updated: 2026-03-13T13:43:17Z
+  Updated: 2026-03-14T14:47:29Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -102,28 +102,28 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko GMT II Bruce Wayne](https://noirval.com/products/seiko-gmt-bruce-wayne)
-  Updated: 2026-03-14T01:43:09Z
+  Updated: 2026-03-14T14:47:31Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Untitled_design_1.png?v=1773134777
   Price: €269.00 EUR
 - [Seiko GMT II Joker](https://noirval.com/products/seiko-gmt-joker)
-  Updated: 2026-03-14T01:43:44Z
+  Updated: 2026-03-14T14:47:34Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Correctarrow.png?v=1773148798
   Price: €269.00 EUR
 - [Seiko GMT II Batman](https://noirval.com/products/seiko-gmt-batman)
-  Updated: 2026-03-14T01:42:37Z
+  Updated: 2026-03-14T14:47:36Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Untitled_design_1_45be136f-b441-4cc2-8d54-08db3e206475.png?v=1773135845
   Price: €269.00 EUR
 - [Seiko Datejust Arabic Green](https://noirval.com/products/seiko-day-date-arabic-green)
-  Updated: 2026-03-13T13:40:41Z
+  Updated: 2026-03-14T14:47:39Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -135,7 +135,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Day-Date Arctic Blue Dial](https://noirval.com/products/seiko-day-date-arctic-blue-dial)
-  Updated: 2026-03-13T13:40:26Z
+  Updated: 2026-03-14T14:47:41Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -147,7 +147,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Black Arabic](https://noirval.com/products/seiko-datejust-black-arabic)
-  Updated: 2026-03-13T13:40:07Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Roman Silver](https://noirval.com/products/seiko-datejust-roman-silver)
-  Updated: 2026-03-13T13:39:48Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -171,7 +171,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Arabic Pink](https://noirval.com/products/seiko-datejust-arabic-pink)
-  Updated: 2026-03-13T13:39:26Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -183,7 +183,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Royal Blue Arabic](https://noirval.com/products/seiko-datejust-royal-blue-arabic)
-  Updated: 2026-03-13T13:39:12Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -195,7 +195,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Day-Date Roman Ocean](https://noirval.com/products/seiko-day-date-ocean)
-  Updated: 2026-03-13T13:38:56Z
+  Updated: 2026-03-14T14:47:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -207,7 +207,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Violet](https://noirval.com/products/seiko-datejust-violet)
-  Updated: 2026-03-13T13:38:26Z
+  Updated: 2026-03-14T14:48:05Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -219,21 +219,21 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Seamaster Blue](https://noirval.com/products/seiko-seamaster-blue)
-  Updated: 2026-03-13T13:38:06Z
+  Updated: 2026-03-14T14:48:01Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/660ft_8423edc7-4860-4e5e-8de3-c55160f95ef2.png?v=1773169654
   Price: €229.00 EUR
 - [Seiko Wimbledon](https://noirval.com/products/seiko-wimbledon)
-  Updated: 2026-03-13T13:35:23Z
+  Updated: 2026-03-14T14:48:04Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/660ft_1.png?v=1773184508
   Price: €209.00 EUR
 - [Seiko Yacht Master Rhodium](https://noirval.com/products/seiko-yacht-master-rhodium)
-  Updated: 2026-03-13T10:32:00Z
+  Updated: 2026-03-14T14:48:07Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -277,12 +277,8 @@
 
 - [Contact](https://noirval.com/pages/contact)
   Updated: 2025-12-22T23:29:57Z
-- [size-chart](https://noirval.com/pages/size-chart)
-  Updated: 2025-12-24T09:04:32Z
 - [Your Privacy Choices](https://noirval.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T14:27:17Z
-- [Advertorial Page - Feb 18, 16:50:16](https://noirval.com/pages/new-research-reveals-3am-wakeups)
-  Updated: 2026-02-25T11:12:18Z
 - [html sitemap products](https://noirval.com/pages/html-sitemap-products): Products Seiko Presage Blue Seiko Datejust Chocolate Seiko Day-Date Olive Arabic Seiko Nautilus Rose Gold Open ... Seiko Datejust Purple Seiko Date...
   Updated: 2026-03-13T16:33:06Z
 - [html sitemap collections](https://noirval.com/pages/html-sitemap-collections): Collections Home page Datejust Day-Date Land-Dweller Nautilus Presage GMT Gotham Seamaster Yacht Master .seoant-html-sitemap-row { margin-bottom: 2...
