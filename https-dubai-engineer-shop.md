@@ -6,12 +6,12 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-09-29T07:56:22Z
 - Contact Email: ahmednoureldinewiss@gmail.com
-- Updated At: 2026-03-10T00:00:39.611Z
+- Updated At: 2026-03-22T00:00:43.821Z
 
 ## Products
 
 - [11- D.M G+1 and G+4 Past  Exams Questions & Answers](https://dubai-engineer.shop/products/g): This ebook has past exam questions and answers for the G+1 and G+4 exam for civil engineers. It contains 60 past questions and answers to pass the Dubai Municipality Exams and acquire the required qualifications. This ebook includes a comprehensive collection of past exam questions and detailed answers specifically tailored for engineers preparing for the G+1 and G+4 certification exams. The content is designed to closely reflect the actual exam format, providing you with a valuable resource to thoroughly understand the types of questions you will encounter and how to approach them effectively. Whether you’re focusing on foundational concepts for G+1 or advanced topics for G+4, this e-book will help you prepare with confidence and achieve success.
-  Updated: 2026-02-23T20:37:47Z
+  Updated: 2026-03-17T09:50:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -32,28 +32,28 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/CONS_1.png?v=1734180435
   Price: AED 68.50 AED
 - [16- Architect MCQ Questions from past D.M exams](https://dubai-engineer.shop/products/7-architect-mcq-questions-from-past-d-m-exams): Questions and Answers for architects who are preparing to appear for the Dubai Municipality certification exams. Includes 50 questions and answers for all levels and categories of the Architect Exams.
-  Updated: 2026-02-26T02:45:52Z
+  Updated: 2026-03-11T08:30:07Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/architect_exam.png?v=1730534556
   Price: AED 76.50 AED
 - [17- Architectural Notes from DBC Dubai Building Code for Dubai Municipality Design Exam (Consultant)](https://dubai-engineer.shop/products/architectural-notes-from-dbc): Architectural exam preparation notes from the Dubai Building Code. Architectural Notes as a perfect preparation for the Architectural Design , Dubai Municipality Exam. It is a great resource, and quick concise notes, for the last minute review before you attend your Dubai Municipality Exam, for DEQ system certification. Architect exam questions for Dubai cover areas like the Dubai Building Code (DBC), architectural standards, and general engineering topics. Expect questions on site coverage, floor area ratio (FAR), structural calculations, fire safety, and sustainability, with some sources mentioning multiple-choice formats. Questions may also test knowledge of specific regulations, such as minimum clear heights for different room types, and common compliance challenges. ملاحظات تحضيرية لامتحان الهندسة المعمارية من قانون دبي للبناء. يُعدّ "ملاحظات معمارية" تحضيرًا مثاليًا لامتحان التصميم المعماري في بلدية دبي. يُعد هذا المصدر مرجعًا رائعًا، ويحتوي على ملاحظات سريعة وموجزة، للمراجعة السريعة قبل خوض امتحان بلدية دبي للحصول على شهادة نظام DEQ. تغطي أسئلة امتحان الهندسة المعمارية في دبي مجالات مثل قانون دبي للبناء (DBC)، والمعايير المعمارية، ومواضيع هندسية عامة. توقع أسئلة حول تغطية الموقع، ونسبة مساحة الأرضية (FAR)، والحسابات الإنشائية، والسلامة من الحرائق، والاستدامة، مع ذكر بعض المصادر لصيغ الاختيار من متعدد. قد تختبر الأسئلة أيضًا معرفة لوائح محددة، مثل الحد الأدنى لارتفاعات المباني الشاغرة لأنواع مختلفة من الغرف، وتحديات الامتثال الشائعة.
-  Updated: 2026-02-04T09:51:20Z
+  Updated: 2026-03-11T08:30:07Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/architect_dbc.png?v=1764573252
   Price: AED 74.50 AED
 - [D.M. Contractor e - Book bundle for Dubai Municipality Exams G+1 G+4 G+12 and G+ Unlimited](https://dubai-engineer.shop/products/d-m-contractor-e-book-bundle): The ultimate bundle e-Books for the civil engineering contractors on Dubai to prepare their staff for passing the D.M qualifications exams for G+1, G+4, G+12, and G+ Unlimited
-  Updated: 2026-02-23T20:37:57Z
+  Updated: 2026-03-17T09:50:58Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/CIVIL_exam-BUNDLE.png?v=1734181494
   Price: AED 87.50 AED
 - [Architect Bundle for Dubai Municipality Exams](https://dubai-engineer.shop/products/architect-bundle): 1- Architectural exam preparation notes from the Dubai Building Code. Architectural Notes as a perfect preparation for the Architectural Design , Dubai Municipality Exam. It is a great resource, and quick concise notes, for the last minute review before you attend your Dubai Municipality Exam, for DEQ system certification. 2- Questions and Answers for architects who are preparing to appear for the Dubai Municipality certification exams. Includes 50 questions and answers for all levels and categories of the Architect Exams.
-  Updated: 2026-02-26T02:45:59Z
+  Updated: 2026-03-11T08:30:17Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
@@ -134,7 +134,7 @@ An e-Book for engineering and construction professionals to pass the Dubai Munic
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/g_4_g_12_steel.png?v=1750511485
   Price: AED 76.45 AED
 - [00A1 G+1 Dubai Municipality Exam tips and tricks with Study Notes for passing DEQ](https://dubai-engineer.shop/products/00a1-g-1-dubai-municipality-exam-tips-and-tricks-with-study-notes-for-passing-deq): Dubai Municipality Exam tips and tricks with Study Notes for passing DEQ Dubai Qualification Exam G+1 Civil Engineering Exams for the Civil Engineering professionals to excel their exams and  at ease نصائح لامتحان بلدية دبي مع ملاحظات دراسية لاجتياز امتحان تأهيل دبي DEQ امتحانات الهندسة المدنية G+1 لمحترفي الهندسة المدنية للتفوق في امتحاناتهم والحصول على الشهادة بسهولة
-  Updated: 2025-09-11T22:09:07Z
+  Updated: 2026-03-17T14:30:09Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
@@ -690,13 +690,6 @@ An e-Book for engineering and construction professionals to pass the Dubai Munic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/QUORA.png?v=1764477941
   Price: AED 34.75 AED
-- [MS Project e-Book برنامج ادارة المشاريع و التخطيط - كتيب تدريب و تعليم 2016-2023](https://dubai-engineer.shop/products/ms-project-e-book-برنامج-ادارة-المشاريع-و-التخطيط-كتيب-تدريب-و-تعليم-2016): أداة احترافية لتنظيم وإدارة المشاريع الهندسية بكفاءة عالية. يوفر هذا الكتيب Microsoft Project 2016 التدريبي شرحاً مفصلاً لاستخدام في التخطيط الاستراتيجي وتوزيع الموارد البشرية والمالية. يمكنك من خلاله مر مراحل المشروع بدقة، تحديد المسارات الحرجة، وضمان الالتزام بالجداول الزمنية والميزانيات. مثالي للمهندسين والمديرين الذين يسعون لتحسين إنتاجيتهم وتقليل التأخيرات في تنفيذ المشاريع.. يتيح للمستخدمين إنشاء جداول زمنية وإدارة المهام والميزانيات وتحليل الأداء، ويمكن استخدامه للمشاريع الصغيرة والكبيرة على حد سواء. يقدم البرنامج واجهة احترافية سهلة الاستخدام، ورسومًا بيانية لتصور حالة المشروع، ومرونة لتفاعل فرق العمل، مع توفير تقارير آلية لمراقبة التقدم المحرز.
-  Updated: 2026-01-24T05:37:12Z
-  Vendor: Dubai Engineer shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/microsoft-project-professional-2016.jpg?v=1764563897
-  Price: AED 53.95 AED
 - [Atlas of Graphic Designers](https://dubai-engineer.shop/products/atlas-of-graphic-designers): An atlas is traditionally a book of maps – cartography. It is a system of projections that reinterprets a space and provides possible routes. This Atlas of Graphic Design is an invitation to travel, to explore the territory of current graphic design by way of a selection of outstanding graphic work carried out over the last decade around the world. It is a compilation which covers the diversity of areas apparent today in the fi eld of graphic design – taking the town, production, and consumption as a starting point. It is a panoramic vision which invites us to consider the possible relations that exist between design and the context in which it has been produced
   Updated: 2025-12-02T06:16:25Z
   Vendor: Dubai Engineer shop
@@ -711,23 +704,44 @@ An e-Book for engineering and construction professionals to pass the Dubai Munic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/acad.jpg?v=1765303485
   Price: AED 88.95 AED
+- [PMP Exam Preparation Course Dubai - Project Management Professional Certification](https://dubai-engineer.shop/products/pmp-exam-preparation-course-project-management-professional-certification): Comprehensive PMP exam prep course for Dubai engineers. Master PMBOK Guide, practice questions, mock exams & study materials. Pass your Project Management Professional certification.
+  Updated: 2026-03-21T09:44:49Z
+  Vendor: Dubai Engineer shop
+  Product Type: course
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/PMP_1.jpg?v=1774086288
+  Price: AED 369.00 AED
+- [PMP Mock Exam Questions and Answers - Practice Test](https://dubai-engineer.shop/products/pmp-mock-exam-questions-and-answers): Prepare for your PMP certification with comprehensive mock exam questions and answers. Practice realistic PMP exam questions covering all domains.
+  Updated: 2026-03-15T21:45:34Z
+  Vendor: Dubai Engineer shop
+  Product Type: Online Course e-Book
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/pmp-capture.png?v=1773558730
+  Price: AED 169.00 AED
+- [TRAKHEES (ORANGE, GREEN, SARS AND MSAP EXAMS MCQS)](https://dubai-engineer.shop/products/trakhees-orange-green-sars-and-msap-exams-mcqs): Key Trakhees Exam Areas (MCQs Focus) Green Building Regulations (Green Exam): Focuses on sustainability requirements for industrial developments, energy efficiency, and material specifications. Safety Advisor Registration Scheme (SARS): Evaluates knowledge of health and safety protocols and hazard control within construction projects. Manager Safety Awareness Program (MSAP): Tests safety management responsibilities, particularly regarding RCDs for electrical tools and accident reporting. Orange Exam: Relates to structural engineering, piling tests, and construction materials. Based on typical assessment content, questions often cover: Piles: Static load testing percentages (e.g., typically 1%) and minimum micro-pile diameters. Concrete & Materials: Density of steel and light-weight concrete, cement types (OPC, low heat), and concrete testing. Safety Protocols: Requirements for 230V electrical tools (RCD 30mA), and site injury reporting requirements. Shoring: Depths of piles below ground level (G.L) and soil stabilization.
+  Updated: 2026-03-21T08:09:13Z
+  Vendor: Dubai Engineer shop
+  Product Type: Online Course e-Book
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/Capture2-trakhees.png?v=1774080530
+  Price: AED 55.85 AED
 
 ## Collections
 
 - [Home page](https://dubai-engineer.shop/collections/frontpage): An ultimate online shop of media and resources meant for👷Engineers in Dubai🌴to help them acquire the required qualifications from the Dubai Municipality by passing the D.E.Q Dubai Engineer Qualification exams. In addition to top  engineering supplies, blueprint storage products, drafting supplies, land surveying equipment, measuring tools, industrial equipment. متجر إلكتروني شامل للوسائط والموارد المخصصة للمهندسين في دبي لمساعدتهمفي الحصول على المؤهلات المطلوبة من بلدية دبي من خلال اجتياز امتحاناتتأهيل مهندسي دبي D.E.Q. بالإضافة إلى أفضل اللوازم الهندسية مبيعًا، ومنتجات تخزين المخططات، ولوازم الرسم، ومعدات مسح الأراضي،وأدوات القياس، والمعدات الصناعية.
-  Updated: 2026-02-26T12:27:34Z
+  Updated: 2026-03-18T11:25:04Z
   Total Products: 20
 - [Courses](https://dubai-engineer.shop/collections/courses)
-  Updated: 2025-06-06T13:06:16Z
-  Total Products: 0
-- [Courses](https://dubai-engineer.shop/collections/courses-1)
-  Updated: 2026-01-05T12:21:09Z
+  Updated: 2026-03-15T07:40:23Z
   Total Products: 1
+- [Courses](https://dubai-engineer.shop/collections/courses-1)
+  Updated: 2026-03-15T07:40:23Z
+  Total Products: 2
 - [Best  Engineering Products. Dubai-UAE, Turkey, Middle East and North Africa](https://dubai-engineer.shop/collections/best-): We  the best engineering supplies, blueprint storage products, drafting supplies, land surveying equipment, measuring tools, industrial equipment and engineering books in Dubai - UAE, GCC, Middle East, Turkey and North Africa
-  Updated: 2026-02-26T12:27:34Z
-  Total Products: 26
+  Updated: 2026-03-18T11:25:04Z
+  Total Products: 27
 - [CV Writing, Job search,  and Career Growth in Dubai](https://dubai-engineer.shop/collections/cv-writing-job-search-and-career-growth-in-dubai): E-Books to help you on your career growth and job search in Dubai. Find your best job search solutions in Dubai and the Gulf states. How to excel in job search, how to succeed getting more job interviews, enhance your career in your company
-  Updated: 2026-01-23T18:37:03Z
+  Updated: 2026-03-15T07:54:27Z
   Total Products: 3
 - [Physical (non-Digital e-Books) Products](https://dubai-engineer.shop/collections/physical-non-digital-e-books-products): Non-digital (physical or tangible) products are physical items, goods, or, in some cases, services that exist in the real world rather than in a digital format
   Updated: 2026-02-01T06:01:30Z
