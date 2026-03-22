@@ -8,12 +8,12 @@
 - Timezone: America/New_York
 - Created At: 2018-01-03T14:55:50Z
 - Contact Email: info@duderobe.com
-- Updated At: 2026-03-14T00:00:29.448Z
+- Updated At: 2026-03-22T00:00:33.429Z
 
 ## Products
 
-- [DudePants: Ultimate Active Wear for Every Adventure](https://duderobe.com/products/pants): Stay dry and stylish with DudePants—sweatpants that absorb! Gym, beach, or chill, they’ve got you covered. Grab yours now!
-  Updated: 2026-03-13T17:30:30Z
+- [Men's Sweatpants with Towel Lining - The Pants](https://duderobe.com/products/pants): The Pants are the men's sweatpants with a secret: absorbent towel lining inside. Gym, beach, post-shower, or couch, they handle it all, pair with the duderobe.
+  Updated: 2026-03-21T17:13:39Z
   Vendor: DudeRobe
   Product Type: Bottoms
   Availability: Available
@@ -54,8 +54,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/dudepants-black-men-sweatpants-comfortable-with-pockets-absorbent-towel-lining-activewear.png?v=1773382407
     Price: $72.00 USD
-- [DudeShorts: Ultimate Comfort for Active Dudes](https://duderobe.com/products/shorts): Stay active in style with DudeShorts—absorbent, comfy, and perfect for gym, beach, and beyond. Gear up for adventure!
-  Updated: 2026-03-13T17:30:32Z
+- [Men's Shorts with Towel Lining Inside | The Shorts](https://duderobe.com/products/shorts): The Shorts are the men's shorts with a secret: absorbent towel lining inside. Gym, beach, post-shower, or couch, they handle it all. Pair with the DudeRobe.
+  Updated: 2026-03-20T17:35:47Z
   Vendor: DudeRobe
   Product Type: Bottoms
   Availability: Available
@@ -96,8 +96,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/luxury-mens-shorts-comfortable-grey-lounge-wear-bundle.png?v=1773392843
     Price: $61.00 USD
-- [The DudeRobe - Ultimate Hooded Bathrobe for Men](https://duderobe.com/products/luxury-mens-hooded-bathrobe): Experience the DudeRobe, the luxury hooded bathrobe designed for lounging, comfort, and style. Perfect for any occasion!
-  Updated: 2026-03-13T23:36:47Z
+- [Mens Hooded Bathrobe - The DudeRobe](https://duderobe.com/products/luxury-mens-hooded-bathrobe): Experience the DudeRobe, the luxury mens hooded bathrobe designed for lounging, comfort, and style. Perfect for any occasion!
+  Updated: 2026-03-21T20:45:13Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -182,22 +182,22 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/mens-hooded-bathrobe-duderobe-modern-comfort-best-seller-as-seen-on-shark-tank.png?v=1773396685
     Price: $128.00 USD
-- [Luxury Men's Bathrobe & Shorts Combo | DudeRobe](https://duderobe.com/products/classic-duderobe-dudeshorts-luxury-towel-lined-mens-bathrobe-shorts): The DudeRobe + DudeShorts combo - our bestselling hooded robe paired with matching towel-lined lounge shorts. Complete your post-shower kit with huge savings.
-  Updated: 2026-03-13T11:26:55Z
+- [Robe and Shorts Set for Men| DudeRobe + DudeShorts Combo](https://duderobe.com/products/classic-duderobe-dudeshorts-luxury-towel-lined-mens-bathrobe-shorts): Get the ultimate robe and shorts set with the DudeRobe and DudeShorts combo. Terry cloth-lined comfort from hood to hem. Better together, better value.
+  Updated: 2026-03-17T10:16:00Z
   Vendor: DudeRobe
   Product Type: Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2696/9530/files/luxury-mens-bathrobe-and-shorts-combo-bundle-save-5-percent.png?v=1773394619
   Price: $180.00 USD
-- [Men's Luxury Bathrobe, Shorts & Pants Bundle | Ultimate Duderobe Combo](https://duderobe.com/products/ultimate-bundle): Get the full DudeRobe experience: Hooded Bathrobe + DudeShorts + DudePants in one bundle. WeekendBlend™ towel-lined comfort from head to toe.
-  Updated: 2026-03-13T13:37:45Z
+- [Mens Loungewear Set | DudeRobe, Shorts & Pants Combo](https://duderobe.com/products/ultimate-bundle): Get the ultimate mens loungewear set: the DudeRobe, The Shorts, and The Pants in one bundle. Towel-lined comfort from hood to ankle. Best value in the lineup.
+  Updated: 2026-03-19T00:41:00Z
   Vendor: DudeRobe
   Product Type: Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2696/9530/files/NAVY3-PIECEBUNDLE_9974e3d5-897a-487f-a4e6-513d6fd0ba5d.png?v=1765475447
   Price: $248.00 USD
-- [Luxurious Men's Bathrobe & Pants Combo - DudeRobe](https://duderobe.com/products/classic-duderobe-dudepants-luxury-towel-lined-mens-bathrobe-pants): Discover the DudeRobe + DudePants combo - our signature hooded robe paired with matching towel-lined jogger pants. Full body loungewear comfort & savings.
-  Updated: 2026-03-13T13:41:05Z
+- [Robe and Pants Set for Men | DudeRobe + DudePants Combo](https://duderobe.com/products/classic-duderobe-dudepants-luxury-towel-lined-mens-bathrobe-pants): Get the ultimate robe and pants set with the DudeRobe and DudePants combo. Terry cloth-lined comfort from hood to ankle. Better together, better value.
+  Updated: 2026-03-19T20:13:29Z
   Vendor: DudeRobe
   Product Type: Sets
   Availability: Available
@@ -251,8 +251,8 @@
   - [$500](https://duderobe.com/products/gift-card-1?variant=40179152814161)
     Availability: Available
     Price: $500.00 USD
-- [Kids DudeRobe - Modern Hooded Bathrobe for Kids](https://duderobe.com/products/kids-hooded-bathrobe): The DudeRobe for kids, a hooded bathrobe with terry cloth towel lining. Same hoodie style & comfort as the original. The perfect father-son & father-daughter matching set.
-  Updated: 2026-03-13T21:24:27Z
+- [Kids DudeRobe - Modern Hooded Kids Robe](https://duderobe.com/products/kids-hooded-bathrobe): The DudeRobe for kids, a hooded kids robe with terry cloth towel lining. Same hoodie style & comfort as the original. The perfect father-son & father-daughter matching set.
+  Updated: 2026-03-21T14:50:36Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -281,8 +281,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/kids-duderobe-best-seller-boys-hooded-bathrobe-childrens-robes-cozy-loungewear.png?v=1773394128
     Price: $98.00 USD
-- [DudeRobe - Navy: The Ultimate Modern Robe for Men](https://duderobe.com/products/the-ufc-duderobe-navy): Discover the DudeRobe - Navy, the bathrobe redefined for style and comfort. Perfect for lounging or post-shower vibes. Get yours today!
-  Updated: 2026-03-13T23:36:47Z
+- [UFC Merch | UFC Hooded DudeRobe Navy](https://duderobe.com/products/the-ufc-duderobe-navy): The UFC DudeRobe in Navy is the official UFC merch you'll wear every day. Hoodie fit, towel-lined comfort, Never-Lost™ Belt. Perfect for fight night & beyond.
+  Updated: 2026-03-20T17:34:50Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -299,8 +299,8 @@
   - [Navy / 2XL-3XL](https://duderobe.com/products/the-ufc-duderobe-navy?variant=49183454822686)
     Availability: Available
     Price: $134.00 USD
-- [DudeRobe - Grey | Stylish & Comfy Robe for Guys](https://duderobe.com/products/the-ufc-duderobe-grey): DudeRobe - Grey is the modern robe you didn't know you needed! Perfect for lounging, post-shower, or walking the dog.
-  Updated: 2026-03-13T23:37:24Z
+- [UFC Merch | UFC DudeRobe - Grey](https://duderobe.com/products/the-ufc-duderobe-grey): The UFC DudeRobe in Grey is the official UFC merch you'll wear every day. Hoodie fit, towel-lined comfort, Never-Lost™ Belt. Perfect for fight night & beyond.
+  Updated: 2026-03-20T17:34:50Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -317,8 +317,8 @@
   - [Grey / 2XL-3XL](https://duderobe.com/products/the-ufc-duderobe-grey?variant=49183455707422)
     Availability: Available
     Price: $134.00 USD
-- [UFC DudeRobe - Black | Modern Robes for Men](https://duderobe.com/products/the-ufc-duderobe-black): Discover the UFC DudeRobe - Black, the ultimate modern robe for men. Perfect for lounging, post-shower, and everything in between!
-  Updated: 2026-03-13T23:36:47Z
+- [UFC Merch | UFC DudeRobe Black](https://duderobe.com/products/the-ufc-duderobe-black): The UFC DudeRobe in Black is the official UFC merch you'll wear every day. Hoodie fit, towel-lined comfort, Never-Lost™ Belt. Perfect for fight night & beyond.
+  Updated: 2026-03-20T17:34:50Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -335,8 +335,8 @@
   - [Black / 2XL-3XL](https://duderobe.com/products/the-ufc-duderobe-black?variant=49183460426014)
     Availability: Available
     Price: $134.00 USD
-- [Reversible DudeHoodie | Men's Towel-Lined Hoodie | Double Style & Comfort](https://duderobe.com/products/reversible-hoodie-f25): Reversible DudeHoodie with double side pockets & two looks in one. Premium hoodie outside, absorbent towel lining inside. Flip it for a different style. Get yours now!
-  Updated: 2026-03-13T17:30:33Z
+- [Reversible Hoodie for Men | Reversible DudeHoodie](https://duderobe.com/products/reversible-hoodie-f25): Meet the Reversible DudeHoodie, the ultimate reversible hoodie for men. Towel-lined on one side, premium sweatshirt on the other. Two looks, double the pockets.
+  Updated: 2026-03-20T22:05:06Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -413,8 +413,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/reversible-mens-black-hoodie-dudehoodie-ultra-soft-double-side-pockets.png?v=1773395303
     Price: $98.00 USD
-- [The All-American (Dude)Robe - Comfort Meets Style](https://duderobe.com/products/usa-dudeobe): The All-American Robe offers style and comfort for any occasion. Perfect for lounging, game days, and more!
-  Updated: 2026-03-13T13:41:05Z
+- [American Flag Robe for Men | The All-American (Dude)Robe](https://duderobe.com/products/usa-dudeobe): The All-American DudeRobe is the ultimate american flag robe for men. Hoodie fit, towel-lined comfort, and bold USA print. Perfect for game days and gifting.
+  Updated: 2026-03-17T10:16:00Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -451,8 +451,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/mens-hooded-bathrobe-american-flag-patriotic-robe-for-men-all-american-dude-robe-4th-of-july-gift.png?v=1773395612
     Price: $134.00 USD
-- [IndoorCamo™ Men's Hooded Robe | Limited Edition Camo Bathrobe](https://duderobe.com/products/indoorcamo): Discover the IndoorCamo™ Limited Edition DudeRobe - a limited edition camo hooded robe for men. Stealth lounging with WeekdBlend™ towel-lined comfort.
-  Updated: 2026-03-13T11:23:03Z
+- [Camo Robe For Men - IndoorCamo™  | Limited Edition DudeRobe](https://duderobe.com/products/indoorcamo): Meet the IndoorCamo™ DudeRobe - a limited edition camo robe for men built for stealth lounging. Tactical fit, deep pockets & a Never-Lost™ belt. Two terrain options.
+  Updated: 2026-03-20T03:42:46Z
   Vendor: DudeRobe
   Product Type: Tops
   Availability: Available
@@ -489,15 +489,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/indoorcamo-limited-edition-duderobe-mens-camo-bathrobe-hooded-camouflage-bestseller.png?v=1773393898
     Price: $134.00 USD
-- [Father & Kids Matching Robes | The Dad & LittleDude Duo](https://duderobe.com/products/the-dad-littledude-duo): Get cozy with our matching robe set for dads and kids! Includes one  + one kids DudeRobe. Perfect for fun times together in style. Hoodie vibes await!
-  Updated: 2026-03-13T13:28:46Z
+- [Matching Robes for Dad & Kids  | The Dad & LittleDude Duo](https://duderobe.com/products/the-dad-littledude-duo): Get cozy with our matching robes set for dads and kids! Includes one  + one kids DudeRobe. Perfect for fun times together in style. Hoodie vibes await!
+  Updated: 2026-03-18T23:52:12Z
   Vendor: DudeRobe
   Product Type: Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2696/9530/files/matching-robes-dad-littledude-duo-family-robe-set-bundle-save.png?v=1773382173
   Price: $192.00 USD
-- [The 1-Second Flannel](https://duderobe.com/products/one-second-flannel)
-  Updated: 2026-03-13T19:23:57Z
+- [Magnetic Button Shirt for Men | The 1-Second Flannel](https://duderobe.com/products/one-second-flannel): Meet The 1-Second Flannel, the original magnetic button shirt for men. Snap-close buttons, built-in stretch, and ridiculously soft flannel from day one.
+  Updated: 2026-03-19T19:08:32Z
   Vendor: DudeRobe
   Product Type: 
   Availability: Available
@@ -558,8 +558,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2696/9530/files/the-1-second-flannel-magnetic-button-shirt-mens-magnetic-shirts-indigo.png?v=1773381968
     Price: $98.00 USD
-- [University of Michigan DudeRobe](https://duderobe.com/products/u-michigan-duderobe): Shop the University of Michigan DudeRobe – the ultimate loungewear robe for Wolverines fans. Officially licensed, ultra-comfortable & perfect for game day.
-  Updated: 2026-03-13T11:00:04Z
+- [University of Michigan Apparel | DudeRobe](https://duderobe.com/products/u-michigan-duderobe): Shop the Wolverines DudeRobe, officially licensed University of Michigan apparel with WeekendBlend™ comfort. Hoodie fit, towel lining, and bold Michigan print.
+  Updated: 2026-03-20T15:54:26Z
   Vendor: DudeRobe
   Product Type: 
   Availability: Available
@@ -616,31 +616,31 @@
 ## Collections
 
 - [Home page](https://duderobe.com/collections/frontpage)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 13
 - [DudeRobe Products](https://duderobe.com/collections/dude-robe-products)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 49
 - [Featured Bundles](https://duderobe.com/collections/featured)
-  Updated: 2026-03-10T04:10:15Z
+  Updated: 2026-03-19T11:02:46Z
   Total Products: 9
 - [DudeRobe™ | #1 Luxury Men’s Robes & Loungewear | As Seen on Shark Tank](https://duderobe.com/collections/featured-products): DudeRobe makes robes and loungewear guys actually want to wear — hoodie-style, towel-lined, and designed for max comfort without the cringe. It's the #1 men's robe brand. Over 300K sold. Thousands of 5-star reviews. Shark Tank .
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 17
 - [PD Custom Collection](https://duderobe.com/collections/pd-custom-collection)
   Updated: 2025-12-08T15:59:47Z
   Total Products: 0
 - [Collection all for Inkybay](https://duderobe.com/collections/inkybay-all)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 73
 - [Shop All DudeRobe | Men's Robes, Loungewear & Bundles](https://duderobe.com/collections/all): Browse the entire DudeRobe lineup. Hoodies, shorts, joggers, and the world’s #1 luxury robe for men. Towel-lined comfort for every day of the week. From the bathroom to the boardwalk, the full DudeRobe collection is designed for guys who value comfort but refuse to look sloppy. Every piece in our shop features our hybrid design: the casual look of your favorite hoodie paired with the soul of a premium towel. Mix, match, and live in it: Robes: Above-the-knee cuts and cuffed sleeves for a fit that stays out of your way. Pants & Shorts: Deep pockets for your gear and a drawstring waist for the post-pizza-night adjustment. Reversible Hoodies: Two looks, one hoodie, maximum cozy.
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 70
 - [All Products (No Gift Cards)](https://duderobe.com/collections/all-products-no-gift-cards)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 52
 - [Google Shopping Feed](https://duderobe.com/collections/google-shopping-feed)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 38
 - [Hoodie + Towel + DudeRobe + NBA](https://duderobe.com/collections/duderobe-x-nbalab): DudeRobe x NBA - Limited Edition Collab From pre-game to post-game, kick your feet up & rep your team in style. It's the only way to watch. DudeRobe.
   Updated: 2026-03-10T04:10:15Z
@@ -649,79 +649,79 @@
   Updated: 2026-03-10T04:10:15Z
   Total Products: 0
 - [Best Sellers](https://duderobe.com/collections/best-sellers)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 23
 - [Bundle & Save](https://duderobe.com/collections/combos): Level up your loungewear and save. Bundle the original DudeRobe with matching pants or shorts for the ultimate 5-star comfort experience. Why stop at the robe? If you’re going to be comfortable, go full-body. Our Combos are the smartest way to shop, giving you a complete "uniform" for the weekend while putting some cash back in your pocket. Choose your kit: The Full Suit: The Original Robe + Towel-Lined Pants. Perfect for those 6:00 AM dog walks or working from home in stealth mode. The Summer Set: The Robe + Shorts. Ideal for the hot tub, the gym, or just keeping it breezy around the house. The Best Gift Ever: 99.9% of gift-givers agree, a DudeRobe bundle is the undisputed heavyweight champion of presents.
-  Updated: 2026-03-10T04:10:15Z
+  Updated: 2026-03-19T11:02:46Z
   Total Products: 4
 - [Shorts and Pants](https://duderobe.com/collections/shorts-and-pants)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 6
 - [All Combos](https://duderobe.com/collections/all-combos): 🎁 FREE GIFT OFFER: All Combos Get a FREE Reversible Hoodie ($88 value) ***Simply add your DudeHoodie to your cart and the  will be automatically applied at checkout!
-  Updated: 2026-03-10T04:10:15Z
+  Updated: 2026-03-19T11:02:46Z
   Total Products: 9
 - [UFC DudeRobe](https://duderobe.com/collections/ufc-duderobe)
-  Updated: 2026-03-13T03:40:38Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 6
 - [Cart Collection](https://duderobe.com/collections/cart-collection)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 9
 - [All Products - No Bundles](https://duderobe.com/collections/all-products-no-bundles)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 17
 - [SHORTS + PANTS](https://duderobe.com/collections/shorts-pants): Mix, match and save - buy 2+ products and get 15% off
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 4
 - [The Robe](https://duderobe.com/collections/the-robe)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 5
 - [The Pants](https://duderobe.com/collections/the-pants)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 2
 - [The Shorts](https://duderobe.com/collections/the-shorts)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 2
 - [Combos](https://duderobe.com/collections/combos-1)
-  Updated: 2026-03-10T04:10:16Z
+  Updated: 2026-03-19T11:02:46Z
   Total Products: 6
 - [](https://duderobe.com/collections/)
   Updated: 2026-03-10T04:10:16Z
   Total Products: 8
 - [New! Shopify performance sharing is now turned on](https://duderobe.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 73
 - [DudeRobe Bestsellers | Best Men's Hooded Robes & Loungewear](https://duderobe.com/collections/bestsellers): Shop the fan favorites! From our original Shark Tank-featured DudeRobe to our top-rated lounge pants, see why 300k+ dudes have upgraded their downtime. This is the Hall of Fame. These are the products that turned "robes" into "DudeRobes." Whether you’re here because you saw us on Shark Tank or you’re tired of wearing a frumpy hotel robe that won’t stay tied, you’ve landed in the right place. Our bestsellers feature the signature WeekendBlend™ fabric, a premium hoodie material on the outside and high-absorbency towel lining on the inside.• The Original DudeRobe: The one that started it all.• Towel-Lined Pants: The "I’m never taking these off" pants.• The Never-Lost Belt™: Standard on all robes, because losing your belt is for amateurs.
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 5
 - [Limited Edition Robes](https://duderobe.com/collections/limited-edition-robes): Stand out (or blend in) with our Limited Edition DudeRobes. Featuring IndoorCamo™ and the USA DudeRobe. Grab these exclusive styles before they’re gone. You’re not a "standard" guy, so why wear a standard robe? Our Limited Edition collection is where we have some fun with the designs while keeping the same premium WeekendBlend™ quality you expect. IndoorCamo™: Designed for the high-stakes mission of "hiding in plain sight" on your couch. The USA DudeRobe: The ultimate patriotic gift for the guy who wants to represent the red, white, and blue while drying off. Note: These styles are produced in smaller runs. Once they’re gone, they’re gone, don’t get left out in the cold.
-  Updated: 2026-03-13T03:41:33Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 6
 - [Our Best  Robes](https://duderobe.com/collections/best-sellers-1)
   Updated: 2026-03-10T04:10:16Z
   Total Products: 4
 - [Shop Our Full Collection Of Men's Luxury Loungewear](https://duderobe.com/collections/shop-all): Browse the entire DudeRobe lineup. Hoodies, shorts, joggers, and the world’s #1 luxury robe for men. Towel-lined comfort for every day of the week. From the bathroom to the boardwalk, the full DudeRobe collection is designed for guys who value comfort but refuse to look sloppy. Every piece in our shop features our hybrid design: the casual look of your favorite hoodie paired with the soul of a premium towel. Mix, match, and live in it: Robes: Above-the-knee cuts and cuffed sleeves for a fit that stays out of your way. Pants & Shorts: Deep pockets for your gear and a drawstring waist for the post-pizza-night adjustment. Reversible Hoodies: Two looks, one hoodie, maximum cozy.
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 16
 - [Shop Our Limited Edition Luxury Men's Hooded Robes](https://duderobe.com/collections/elixir-limited-edition)
   Updated: 2026-03-10T04:10:17Z
   Total Products: 3
 - [Bundle & Save on Luxury Men's Loungewear](https://duderobe.com/collections/elixir-bundles)
-  Updated: 2026-03-10T04:10:17Z
+  Updated: 2026-03-19T11:02:46Z
   Total Products: 4
 - [](https://duderobe.com/collections/)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 7
 - [All Robes | Men's Hooded Bathrobes | Luxury Robes for Men | DudeRobe](https://duderobe.com/collections/robes): Shop DudeRobe's full lineup of men's hooded bathrobes with hoodie fit & absorbent towel lining. The #1 luxury robe for men. As seen on Shark Tank.
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 8
 - [Men's Loungewear Tops & Bottoms | Hoodies, Sweatpants & Shorts](https://duderobe.com/collections/non-robe-tops-bottoms): Shop DudeRobe's men's loungewear - towel-lined shorts, sweatpants, reversible hoodies & flannel shirts built for guys who don't do basic.
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 4
 - [NBA & UFC Men's Robes | Licensed Sports Bathrobes](https://duderobe.com/collections/sports-licensed): Shop officially licensed NBA & UFC men's hooded bathrobes. Rep your team with DudeRobe's signature WeekendBlend™ comfort. Limited edition designs, order before they  out!
-  Updated: 2026-03-13T03:40:38Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 3
 - [Non-Robes](https://duderobe.com/collections/non-robes)
-  Updated: 2026-03-13T11:02:26Z
+  Updated: 2026-03-21T11:02:21Z
   Total Products: 4
 
 ## Store Pages
