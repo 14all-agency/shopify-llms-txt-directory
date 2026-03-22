@@ -6,7 +6,7 @@
 - Timezone: Etc/UTC
 - Created At: 2025-09-21T10:34:42Z
 - Contact Email: handavinnubarinn@handavinnubarinn.is
-- Updated At: 2026-03-14T07:47:27.420Z
+- Updated At: 2026-03-22T00:00:34.926Z
 
 Our online store features carefully crafted items from our own workshop, a wide range of knitting, crochet, and craft products, as well as yarn and other handcraft supplies. The goal is to create a community for handcraft makers and everyone who loves creating with their hands. 
 
@@ -425,8 +425,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/16.jpg?v=1766004089
     Price: 890,00 kr. ISK
-- [Frágangsnál](https://www.handavinnubarinn.is/products/fragangsnal): Hentugar, léttar og meðfærilegar frágangsnálar úr áli. Tæplega 7cm á lengd. Kemur í ýmsum litum.
-  Updated: 2026-02-16T07:51:23Z
+- [Frágangsnál](https://www.handavinnubarinn.is/products/fragangsnal): Hentugar, léttar og meðfærilegar frágangsnálar úr áli. Tæplega 7cm á lengd. Koma í ýmsum litum.
+  Updated: 2026-03-18T07:05:59Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -505,7 +505,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Believeprjonasettnota.jpg?v=1765811251
   Price: 13.990,00 kr. ISK
 - [Knitpro Mindful Kindness 10cm - Forsala - Útskiptanlegt prjónasett](https://www.handavinnubarinn.is/products/knitpro-mindful-kindness-prjonasett): KnitPro Mindful Kindness 10cm útskiptanlegt prjónasett með 7 pörum af stálprjónum, 360° snúrur, prjónamæli og prjónamerki. Falleg Mindful-taska með fylgihlutum. Fullkomið fyrir smærri og meðalstór verkefni.
-  Updated: 2026-03-09T01:15:09Z
+  Updated: 2026-03-18T07:01:07Z
   Vendor: Knitpro
   Product Type: Prjónasett
   Availability: Available
@@ -519,7 +519,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/3.jpg?v=1765921203
   Price: 2.790,00 kr. ISK
 - [KnitPro Mindful Umferðateljarahringur](https://www.handavinnubarinn.is/products/knitpro-mindful-umferdateljarahringur): KnitPro Mindful umferðateljarahringur úr ryðfríu stáli. Ofnæmisprófaður, þægilegur og talnarraðir 0–99. Stærð 7-12. Fullkomið verkfæri fyrir skipulagðan prjónaskap.
-  Updated: 2026-03-07T04:09:04Z
+  Updated: 2026-03-18T06:26:45Z
   Vendor: Knitpro
   Product Type: Prjónafylgihlutir
   Availability: Available
@@ -542,6 +542,13 @@ Our online store features carefully crafted items from our own workshop, a wide 
   - [12 (21.4 mm)](https://www.handavinnubarinn.is/products/knitpro-mindful-umferdateljarahringur?variant=48108366364887)
     Availability: Not Available
     Price: 3.590,00 kr. ISK
+- [KnitPro Mindful samanbrjótanleg skæri](https://www.handavinnubarinn.is/products/knitpro-mindful-samanbrjotanleg-skaeri): KnitPro Rainbow samanbrjótanleg skæri. Örugg og ferðavæn skæri í regnbogalitum. Fullkomið fyrir prjónara á ferðinni. Kemur í túrkislituðum Mindful-poka.
+  Updated: 2026-03-18T06:25:22Z
+  Vendor: Knitpro
+  Product Type: Prjónafylgihlutir
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Skaeri.png?v=1765810471
+  Price: 1.290,00 kr. ISK
 - [KnitPro Mindful frágangsnálasett](https://www.handavinnubarinn.is/products/knitpro-mindful-fragangsnalar-sett): KnitPro Mindful frágangsnálar – 4 stk (2 litlar, 2 stórar) í fallegum viðarhólk með mandalamynstri. Sterkar og mjúkar nálar til frágangs í prjónavinnu.
   Updated: 2026-03-09T06:13:59Z
   Vendor: Knitpro
@@ -816,8 +823,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/30_770b2962-0c96-4bb6-8239-936fe89c5d5c.jpg?v=1766002237
     Price: 120,00 kr. ISK
-- [Snuddubandsklemma](https://www.handavinnubarinn.is/products/snuddubands-klemma): Klemmur til að hnýta, hekla eða prjóna á, til dæmis fyrir snuddubönd Tvær týpur: Silfurlituð og bronslituð
-  Updated: 2026-01-21T19:13:46Z
+- [Snuddubandsklemma](https://www.handavinnubarinn.is/products/snuddubands-klemma): Klemmur til að hnýta, hekla eða prjóna á, til dæmis fyrir snuddubönd. Tvær týpur: Silfurlituð og bronslituð
+  Updated: 2026-03-18T06:31:15Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -849,8 +856,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/64.jpg?v=1765923275
   Price: 450,00 kr. ISK
-- [Gjafakort Handavinnubarsins](https://www.handavinnubarinn.is/products/gift-card): Gjafakóði myndast við kaup. Ef óskað er eftir því að fá pdf skjal með árituðu nafni viðkomandi ásamt upphæð og gjafakóðanum sem kemur sendið þá póst á handavinnubarinn@outlook.com og við afgreiðum það eftir kaup á gjafabréfinu.
-  Updated: 2025-12-27T20:07:39Z
+- [Gjafakort Handavinnubarsins](https://www.handavinnubarinn.is/products/gift-card): Gjafakóði myndast við kaup. Ef óskað er eftir því að fá pdf skjal með árituðu nafni viðkomandi ásamt upphæð og gjafakóðanum sem kemur sendið þá póst á handavinnubarinn@handavinnubarinn.is og við afgreiðum það eftir kaup á gjafakortinu.
+  Updated: 2026-03-18T06:15:09Z
   Vendor: Handavinnubarinn
   Product Type: 
   Availability: Available
@@ -876,8 +883,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
   - [kr 20,000](https://www.handavinnubarinn.is/products/gift-card?variant=48118137913559)
     Availability: Available
     Price: 20.000,00 kr. ISK
-- [Handavinnukippa með skærum](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum): Handavinnukippa B Kind Handverks samanstendur af silfurlituðum lyklakippuhring með glersteinum og klemmu, sérútbúnum prjónamæli með 5cm mælistiku og göt sem mæla prjóna frá 2-5. Kippan inniheldur einnig litlar heklunálar í stærðum 3mm, 4mm og 5mm, litlum ferðaskærum sem opnast með því að renna skærunum upp úr hólknum og lítilli glerkrukku með álloki sem inniheldur 20 stykki af blönduðum opnanlegum prjónamerkjum. Fullkomið handavinnuverkfæri fyrir handavinnufólk sem er ávallt með handavinnuna á ferð og flugi. Hægt er að velja 5 mismunandi liti af skærum og kemur þessi handavinnukippa í takmörkuðu magni.
-  Updated: 2026-02-21T13:13:27Z
+- [Handavinnukippa með skærum](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum): Handavinnukippa B Kind Handverks samanstendur af silfurlituðum lyklakippuhring með glersteinum og klemmu, sérútbúnum prjónamæli með 5cm mælistiku og göt sem mæla prjóna frá 2-5. Kippan inniheldur einnig litlar heklunálar í stærðum 3mm, 4mm og 5mm, litlum ferðaskærum sem opnast með því að renna skærunum upp úr hólknum og lítilli glerkrukku með álloki sem inniheldur 20 stykki af blönduðum opnanlegum prjónamerkjum. Prjónamælirinn er úr við og er pússaður upp meðTung olíu til þess að fá sléttari áferð. Fullkomið handavinnuverkfæri fyrir handavinnufólk sem er ávallt með handavinnuna á ferð og flugi. Þessi handavinnukippa í takmörkuðu magni.
+  Updated: 2026-03-18T03:58:04Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -902,15 +909,15 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/54.jpg?v=1771524029
     Price: 2.890,00 kr. ISK
-- [Handavinnukippa án skæra](https://www.handavinnubarinn.is/products/handavinnukippa-an-skaera): Handavinnukippa B Kind Handverks samanstendur af silfurlituðum lyklakippuhring með glersteinum og klemmu, sérútbúnum prjónamæli með 5cm mælistiku og göt sem mæla prjóna frá 2-5. Kippan inniheldur einnig litlar heklunálar í stærðum 3mm, 4mm og 5mm og lítilli glerkrukku með álloki sem inniheldur 20 stykki af blönduðum opnanlegum prjónamerkjum. Fullkomið handavinnuverkfæri fyrir handavinnufólk sem er ávallt með handavinnuna á ferð og flugi. Takmarkað magn í boði.
-  Updated: 2025-12-28T15:04:07Z
+- [Handavinnukippa án skæra](https://www.handavinnubarinn.is/products/handavinnukippa-an-skaera): Handavinnukippa B Kind Handverks samanstendur af silfurlituðum lyklakippuhring með glersteinum og klemmu, sérútbúnum prjónamæli með 5cm mælistiku og göt sem mæla prjóna frá 2-5. Kippan inniheldur einnig litlar heklunálar í stærðum 3mm, 4mm og 5mm og lítilli glerkrukku með álloki sem inniheldur 20 stykki af blönduðum opnanlegum prjónamerkjum. Fullkomið handavinnuverkfæri fyrir handavinnufólk sem er ávallt með handavinnuna á ferð og flugi. Prjónamælirinn er úr við og er pússaður upp meðTung olíu til þess að fá sléttari áferð. Takmarkað magn í boði.
+  Updated: 2026-03-18T01:52:57Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Handavinnukippaanskaera.jpg?v=1765998036
   Price: 2.490,00 kr. ISK
-- [Lítill prjónamælir](https://www.handavinnubarinn.is/products/litill-prjonamaelir): Lítill prjónamælir frá B kind Handverk til þess að setja á lyklakippu. Mælirinn er með 5cm mælistiku á ásamt götum til að mæla prjónastærðir 2-5mm. Hentugt fyrir lyklakippur og á allar handavinnutöskur. Mælirinn er úr tré.
-  Updated: 2025-12-18T02:23:06Z
+- [Lítill prjónamælir](https://www.handavinnubarinn.is/products/litill-prjonamaelir): Lítill prjónamælir frá B kind Handverk til þess að setja á lyklakippu. Mælirinn er með 5cm mælistiku á ásamt götum til að mæla prjónastærðir 2-5mm. Hentugt fyrir lyklakippur og á allar handavinnutöskur. Prjónamælirinn er úr við og er pússaður upp meðTung olíu til þess að fá sléttari áferð.
+  Updated: 2026-03-18T04:56:23Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -1058,8 +1065,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
   - [6.0](https://www.handavinnubarinn.is/products/knitpro-heklunalar-med-mjuku-gripi?variant=48189349593303)
     Availability: Available
     Price: 590,00 kr. ISK
-- [KnitPro Mindful 13cm útskiptanlegir prjónar](https://www.handavinnubarinn.is/products/knitpro-mindful-lace-interch-tips-13cm): Skiptanlegir hringprjónar úr KnitPro Mindful línunni veita þér klukkustundir af ánægjulegu prjóni. Í þessari línu er lögð áhersla á prjónaskap sem núvitundaræfingu (mindfulness). Með því að einbeita sér að rólegri og endurteknum hreyfingum prjónanna skapast róandi áhrif sem geta dregið úr streitu og haft jákvæð áhrif á bæði líkama og huga. Prjónarnir eru úr ryðfríu stáli sem er bæði endingargott og endurvinnanlegt. Þeir eru einstaklega vel slípaðir svo lykkjurnar renna mjúklega eftir prjónunum, og oddurinn er smám saman mjókkaður til að auðvelda prjónaskapinn. Auk stærðarinnar eru einnig hvetjandi orð grafin á prjónana sem minna þig á að njóta augnabliksins á meðan þú prjónar. Þessir 13 cm skiptanlegu hringprjónar passa með öllum KnitPro snúrum og fylgihlutum. Fást í stærðum:3.00 mm, 3.25 mm, 3.50 mm, 3.75 mm, 4.00 mm, 4.50 mm, 5.00 mm, 5.50 mm, 6.00 mm og 6.50 mm. Seldir í setti með 2 prjónum. Snúrur seljast sér og eru fáanlegar í mismunandi stærðum hér.
-  Updated: 2026-03-06T04:29:39Z
+- [KnitPro Mindful 13cm útskiptanlegir prjónar](https://www.handavinnubarinn.is/products/knitpro-mindful-lace-interch-tips-13cm): Útskiptanlegir hringprjónar úr KnitPro Mindful línunni veita þér klukkustundir af ánægjulegu prjóni. Í þessari línu er lögð áhersla á prjónaskap sem núvitundaræfingu (mindfulness). Með því að einbeita sér að rólegri og endurteknum hreyfingum prjónanna skapast róandi áhrif sem geta dregið úr streitu og haft jákvæð áhrif á bæði líkama og huga. Prjónarnir eru úr ryðfríu stáli sem er bæði endingargott og endurvinnanlegt. Þeir eru einstaklega vel slípaðir svo lykkjurnar renna mjúklega eftir prjónunum, og oddurinn er smám saman mjókkaður til að auðvelda prjónaskapinn. Auk stærðarinnar eru einnig hvetjandi orð grafin á prjónana sem minna þig á að njóta augnabliksins á meðan þú prjónar. Þessir 13 cm skiptanlegu hringprjónar passa með öllum KnitPro snúrum og fylgihlutum. Fást í stærðum:3.00 mm, 3.50 mm, 4.00 mm, 4.50 mm, 5.00 mm, 5.50 mm, 6.00 mm og 6.50 mm. Seldir í setti með 2 prjónum. Snúrur seljast sér og eru fáanlegar í mismunandi stærðum hér.
+  Updated: 2026-03-18T03:16:13Z
   Vendor: Handavinnubarinn
   Product Type: Prjónafylgihlutir
   Availability: Available
@@ -1133,8 +1140,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/6_4da3217d-87eb-40e2-9213-50bfe94f7df4.jpg?v=1771523975
     Price: 590,00 kr. ISK
-- [Namaste handavinnutaska](https://www.handavinnubarinn.is/products/namaste-handavinnutaska): Þessi vara fæst einungis í forpöntun. Næsta sending væntanleg í lok febrúar/byrjun mars 2026.Namaste Maker’s axlartaskan er fullkominn félagi fyrir handverksfólk á ferðinni. Taskan er smekklega og meðvitað hönnuð úr hágæða gervileðri (vegan leather) og rúmar auðveldlega eitt eða tvö handverksverkefni ásamt nauðsynjum dagsins eins og veski, skipulagsbók eða spjaldtölvu. Að innan er taskan afar vel skipulögð og inniheldur: 3 pennavasa 1 vasa fyrir smáhluti 1 símahólf 1 stórt miðhólf með rennilás 2 rúmgóð opin hólf sitt hvoru megin við miðhólfið (nægilega stór fyrir t.d. spjaldtölvu) Að utan er rennilásavasi sem hentar vel fyrir síma eða aðra hluti sem gott er að hafa fljótt við höndina. Stillanleg axlaról tryggir þægindi og segulloka heldur eigum þínum öruggum inni í töskunni. Taskan er BPA- og PVC-laus, fæst í nokkrum litum og er 30,5 × 43,2 × 15,2 cm að stærð. Með töskunni fylgja einnig vandaðir fylgihlutir: Umhverfisvænn rykpoki Frágangsnál Lítil Crafter’s Dot minnisbók 20cm Málband með lyklakippufestingu Lotus-garnleiðari Aftengjanlegur skrautborði með lotus-prjónamerki Hagnýt, falleg og hugsuð fyrir skapandi fólk, fullkomin taska fyrir handverksunnendur sem vilja sameina stíl og notagildi.
-  Updated: 2026-02-19T17:10:57Z
+- [Namaste handavinnutaska](https://www.handavinnubarinn.is/products/namaste-handavinnutaska): Þessi vara fæst einungis í forpöntun. Næsta sending væntanleg í lok febrúar/byrjun apríl 2026.Namaste Maker’s axlartaskan er fullkominn félagi fyrir handverksfólk á ferðinni. Taskan er smekklega og meðvitað hönnuð úr hágæða gervileðri (vegan leather) og rúmar auðveldlega eitt eða tvö handverksverkefni ásamt nauðsynjum dagsins eins og veski, skipulagsbók eða spjaldtölvu. Að innan er taskan afar vel skipulögð og inniheldur: 3 pennavasa 1 vasa fyrir smáhluti 1 símahólf 1 stórt miðhólf með rennilás 2 rúmgóð opin hólf sitt hvoru megin við miðhólfið (nægilega stór fyrir t.d. spjaldtölvu) Að utan er rennilásavasi sem hentar vel fyrir síma eða aðra hluti sem gott er að hafa fljótt við höndina. Stillanleg axlaról tryggir þægindi og segulloka heldur eigum þínum öruggum inni í töskunni. Taskan er BPA- og PVC-laus, fæst í nokkrum litum og er 30,5 × 43,2 × 15,2 cm að stærð. Með töskunni fylgja einnig vandaðir fylgihlutir: Umhverfisvænn rykpoki Frágangsnál Lítil Crafter’s Dot minnisbók 20cm Málband með lyklakippufestingu Lotus-garnleiðari Aftengjanlegur skrautborði með lotus-prjónamerki Hagnýt, falleg og hugsuð fyrir skapandi fólk, fullkomin taska fyrir handverksunnendur sem vilja sameina stíl og notagildi.
+  Updated: 2026-03-17T14:52:25Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -1175,8 +1182,752 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/5_2166d374-8472-4d98-add1-d754e9933089.jpg?v=1770555444
     Price: 18.990,00 kr. ISK
-- [KnitPro Mindful Swivel 360° útskiptanlegar snúrur](https://www.handavinnubarinn.is/products/knitpro-mindful-swivel-360-utskiptanlegar-snurur): KnitPro Mindful Swivel 360° útskiptanlega snúran er hönnuð til að gera hringprjón auðvelt, mjúkt og streitulaust. Mindful línan byggir á hugmyndafræði hæglætis og núvitundar, þar sem prjón verður róandi iðja sem hefur jákvæð áhrif á líkama og huga. Snúran er búin Swivel 360° snúningskerfi sem kemur í veg fyrir að hún vindi upp á sig eða bogni við prjón. Hún er úr stáli með sléttri nælonhúð sem rennur létt í gegnum lykkjur. Snúrurnar eru í einkennandi blágrænum lit Mindful línunnar og fylgja með snúrulykill og snúrulok sem gera kleift að nota snúruna sem lykkjuhaldara. Eru til í lengdum 40cm, 50cm, 60cm, 80cm, 100cm, 120cm og 150cm. Lengdin segir til um lengd samtals með prjónum.
-  Updated: 2026-03-07T10:22:58Z
+- [Pickles Bliss](https://www.handavinnubarinn.is/products/pickles-bliss): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Bliss er fín blanda af alpakka, ull og örlitlu móhair. Við bættum ull við til að gera áferðina léttari, smá mohair til að skapa fágaðan og lúxuskenndan blæ og alpakkan gefur efninu fallegt fall án þess að það sígi. Við prjónum með einföldum þræði á 2,5–4 mm prjóna, eða á grófari prjóna með fylgiþræði. Garnið hentar fullkomlega í allar uppskriftir sem kalla á þunnt garn með fylgiþræði. 40% baby alpakka, 40% hálandsull, 20% mohair50 g dokkur | 175 mPrjónastærð: 2,5–4 mmPrjónfesta á 10 cm: 23–26 lykkjur / 32–40 umferðirHandþvottur Pickles Bliss hentar vel í uppskriftir á 2,5–4 mm prjónum. Litapallettan þróast stöðugt og samanstendur af fallegri blöndu af mildum, náttúrulegum og ferskum tónum. Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem Bliss er notað í eru að finna Hér Sýnishorn af uppskriftum frá Pickles - ýtið á myndirnar til að fara beint inn á síðu uppskriftarinnar. Objects Lamp shade PicklesXyoga / Sockharines PicklesXyoga / Eye mask
+  Updated: 2026-03-17T21:33:16Z
+  Vendor: Handavinnubarinn
+  Product Type: Garn
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F87AE256-6274-4274-8864-0E09D8E8E7FD.jpg?v=1772867752
+  - [Marble (Unbleached white)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350542856407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F87AE256-6274-4274-8864-0E09D8E8E7FD.jpg?v=1772867752
+    Price: 1.790,00 kr. ISK
+  - [Stones (Heathered light gray)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350542889175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/3B3B1F76-9EC0-439F-BE1C-0CDA2A1B3778.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Champagne (Beige)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350542921943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/7C63B8BE-E8FE-4924-88EE-AEA67D260F50.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Signal (Neon yellow)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350542954711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/14317244-80AD-4CA2-BE87-460339647398.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Cinnamon (Warm brown-orange)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350542987479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/E155965D-CFA0-4B73-B08A-9335FB3CE5D9.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Perfect Red (Red)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543020247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F37AB2B5-AC47-405D-B6C0-FE673128180C.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Fondant (Cool brown)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543053015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/36434093-E3CD-4A74-999A-90262E80FF33.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Plum (Burgundy)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543085783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B14D8C85-6E34-49E1-94CA-5F7F6FA62351.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Kokko (Lilac with a touch of pink)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543118551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/A37031A9-2E98-45D2-8BA9-1A2F2CD5F27E.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Fjord (Sky blue)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543151319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/335941C6-C58C-4BC5-AEF8-B055316AB19F.jpg?v=1772867752
+    Price: 1.790,00 kr. ISK
+  - [Cobalt (Fresh cobalt blue)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543184087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C7D8565C-5CA3-4088-9F81-909C27CFD636.jpg?v=1772867752
+    Price: 1.790,00 kr. ISK
+  - [Dark Time (Dark blue with purple tint)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543216855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F632888C-CCA6-485F-ADF0-A7FB27890086.jpg?v=1772867752
+    Price: 1.790,00 kr. ISK
+  - [English Garden (Cool forest green)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543249623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/EE214F32-339E-41AE-8BE6-95091F78B915.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Tarragon (Olive green)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543282391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B09BAAC1-BAD2-45CC-81D1-4EA558B5A915.jpg?v=1772923854
+    Price: 1.790,00 kr. ISK
+  - [Night (Black)](https://www.handavinnubarinn.is/products/pickles-bliss?variant=48350543315159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/E72B0F9C-F913-4D4B-BF01-240FC7FD9A04.jpg?v=1772867752
+    Price: 1.790,00 kr. ISK
+- [Pickles Cozy](https://www.handavinnubarinn.is/products/pickles-cozy): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Með náttúrulegu útliti og einstakri mýkt kallar Pickles Cozy garnið á hlýjar og notalegar flíkur. Baby-alpakka og ullartrefjar eru blásnar inn í þunnan pólýamíðþráð sem heldur trefjunum á sínum stað. Því er garnið slitsterkt og myndar lítið af ló. Auk mýktarinnar er garnið afar létt og endingargott. Pickles Cozy hentar því bæði í hlýja fylgihluti og langar kápur. Prjónað einfalt á 4–9 mm prjóna. Dásamlegt í prjóni og litir blandast fallega í munsturprjóni. 68% baby alpakka, 10% extra fine merino, 22% pólýamíð50 g dokkur | 110 mPrjónastærð: 5–9 mmPrjónfesta á 10 cm: 14–18 lykkjur / 16–22 umferðirHandþvottur Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir þar sem Cozy garnið er notað er að finna Hér
+  Updated: 2026-03-17T21:30:58Z
+  Vendor: Handavinnubarinn
+  Product Type: Garn
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/15A7FBCD-C9E1-42AB-971D-077C8E4E216E.jpg?v=1773694651
+  - [Quarts (Delicious creamy white)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539055319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/87BD898D-B669-417E-A13B-659DAFB907DD.jpg?v=1773694651
+    Price: 1.790,00 kr. ISK
+  - [Sandstone (Beige)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539088087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/15A7FBCD-C9E1-42AB-971D-077C8E4E216E.jpg?v=1773694651
+    Price: 1.790,00 kr. ISK
+  - [Blush (Pale powder pink)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539120855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B020DE15-0C96-4EB4-989E-33037A089447.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Sorbet (Light yellow)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539153623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/0A1D5564-DEC3-49CD-93A8-90F6AC9268BB.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Camel (Light camel)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539186391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/1A22F2E2-74BF-43F0-A49C-FC5B8CAA715D.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Signal (neon yellow)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539219159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/121D1764-269B-4EC0-BA49-62EC8F63AEB2.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Siren (bright orange)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539251927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/4721C21D-C733-4129-B086-F518F5E4B9AD.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Chestnut (Mahogny)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539284695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/52F9329A-A2C1-416B-92E7-F5C9A056786C.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Rasberry sorbet (sharp pink)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539317463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/03A26698-6F57-4CC9-B16A-80675522B3D5.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Rasberry](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539350231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/912633A0-094D-4620-8EB0-93E679F14D96.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Red Diamond (Deep dark red)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539382999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F6A731D6-3DD3-49A2-A9E0-C9CEE5CA0FEB.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Light purple](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539415767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B8BF07B9-1282-411E-A047-71E779C2CF86.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Crazy (purple)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539448535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/0B598C43-759F-4479-8EE2-3246728F022E.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Summer Sky (Light blue)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539481303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CE421FEA-3F90-4E72-A9BC-7A93E743AD36.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Kyanite (Creamy blue)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539514071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/4998440C-1B3D-4570-B7DB-C07BF1C46936.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Balance (Deep petrol)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539546839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/341598AA-D7A0-4A43-9FF8-CF5319DB80FD.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Lapis (Dark blue)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539579607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B9E4911A-9835-457E-BBCB-4427DAA9CB43.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Seaweed (Yellowish green)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539612375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/037988BB-2F74-4DB0-8DDC-19C70854F80B.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Emerald (Gras green)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539645143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/AB67591F-2A27-4B94-95DA-ECAE7F420B80.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Woods (Deep dark green)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539677911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/1FB55F89-F099-4ED8-A578-75ECED71017C.jpg?v=1772924022
+    Price: 1.790,00 kr. ISK
+  - [Granite (Silver grey melange)](https://www.handavinnubarinn.is/products/pickles-cozy?variant=48350539710679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/0164FDD4-23AE-4552-81F4-589311B0477B.jpg?v=1773694609
+    Price: 1.790,00 kr. ISK
+- [Pickles Mjuk Merino](https://www.handavinnubarinn.is/products/pickles-mjuk-merino): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Með Pickles Soft Merino höfum við fullkomnað merino garn. Það er örlítið þykkara og stöðugra en jafnframt jafnmjúkt og teygjanlegt. Garnið er algjörlega stinglaust og má nota beint á húð barna og ungbarna. Klassískt extra fine merino garn sem hentar fullkomlega í barnaföt og teppi. Spunaaðferðin tryggir að flíkur haldi lögun og sígi ekki. 100% merino frá Perú (án mulesing)50 g dokkur | 125 mPrjónastærð: 3–4,5 mmPrjónfesta á 10 cm: 18–23 lykkjur / 26–32 umferðirHandþvottur Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Soft merino er að finna Hér
+  Updated: 2026-03-17T20:21:04Z
+  Vendor: Handavinnubarinn
+  Product Type: Garn
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B63AD199-72C9-4C07-A851-6FFF014B4F7E.jpg?v=1772923936
+  - [Steiner (mottled light gray)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350536990935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/DCE64420-52F3-4483-86A5-A80281551FD9.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Cream (Light cream with hints of pink)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537023703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B63AD199-72C9-4C07-A851-6FFF014B4F7E.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Berg (Melert light beige)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537056471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/3F5CBEAC-50CC-468A-BC20-99D7641E6D0A.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Nutmeg (Warm Camel)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537089239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/4085BE73-1588-4613-9C1E-A9A88BE5935B.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Fondant (cold brown)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537122007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F964AD7C-0F1A-40C5-8001-DEAD8D59AF87.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Sorbet (Light creamy yellow)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537154775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/FC88E0D4-7BE1-4A66-AA11-6FBF212BD61D.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Signal (Bright neon yellow)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537187543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/324F29BA-6134-400F-B6A4-0270175DD921.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Mandarin (fresh orange)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537220311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/A8EC2AD6-0BE8-4F38-9304-8A8A7E16D74F.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Cinnamon (Golden Rust Orange)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537253079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/57B1363F-E9C8-463E-9E8B-D4BB4A187E4D.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Tomato tomato (hot red)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537285847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/49D541CA-D3F7-40DA-AFD4-FF28DC2035DC.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Punky (fresh pink)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537318615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/973D4CA8-956F-4AAC-B29C-F55AAF2556FD.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Mahogany (Brownish Burgundy)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537351383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CCADFBDF-C8D3-4646-BD98-AC81C33C1ABD.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Blue Hour (Grayish Blue)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537384151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/2A2D2F4C-9E0C-4200-90A6-6B98241252B7.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Cobalt (Bright Blue)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537416919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/4C8BA1FA-EF37-46D6-9CEC-0A584A4C574F.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Ohoy (Classic Navy)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537449687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/2B059E1B-E413-4C83-A1B4-8D24898A6EE5.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Peppermint (Light Mint Green)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537482455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/950DF57C-3E2C-4C4C-8ED7-E4151EA32E2A.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Acid (bright neon green)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537515223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B66C55A1-7117-47DE-B9B1-9625CEFC2BD3.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Clover (Grass Green)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537547991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/BA89D623-6ECC-4F1C-A6D7-F9A1EB81A984.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Tarragon (Olive green with lots of yellow)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537580759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B2458BE1-001B-4D44-8F4C-73E02057BF3E.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+  - [Svartskog (Deep Dark Green)](https://www.handavinnubarinn.is/products/pickles-mjuk-merino?variant=48350537613527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C607F2D5-2931-42A9-B76D-2E445B57C4F1.jpg?v=1772923936
+    Price: 1.590,00 kr. ISK
+- [Pickles Organic cotton](https://www.handavinnubarinn.is/products/pickles-organic-cotton): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Organic cotton er umhverfisvænt og styður við samfélögin þar sem hún er framleidd. Hún er mild og falleg, bæði í áferð og prjóni. Handverksspunnið garn frá Perú, litað með jurtalitum. Spunnið með einum þykkum og einum þunnum þræði sem gefur fallega lifandi áferð. 100% lífræn, plöntulituð bómull frá Perú50 g hespur (þarf að vinda upp) | 90 mPrjónastærð: 3–7 mmPrjónfesta á 10 cm: 12–21 lykkjur / 16–26 umferðirHandþvottur Athugið: Litir geta dökknað við suðu og fölnað í sterkri sól. Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Organic cotton er að finna Hér
+  Updated: 2026-03-17T21:38:19Z
+  Vendor: Handavinnubarinn
+  Product Type: Garn
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/DBD36BF2-FC27-487E-8C5D-31CD611CE010.png?v=1773695320
+  - [Cotton bed (Creamy off-white)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532141271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/FB3AF38B-B266-4863-BF98-587DB92C54F6.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+  - [Putty](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532174039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/DD9D3442-B952-4AC4-A63E-BAA7AE4E9EF8.png?v=1773695320
+    Price: 1.890,00 kr. ISK
+  - [Caramel (Creamy warm beige)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532206807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/DBD36BF2-FC27-487E-8C5D-31CD611CE010.png?v=1773695320
+    Price: 1.890,00 kr. ISK
+  - [Hazel (Golden Orange)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532239575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/E681F294-A655-4329-A523-385B5576E41A.png?v=1773695320
+    Price: 1.890,00 kr. ISK
+  - [Coral (Light Peach Pink)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532272343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/47329F71-DDFF-41C5-9108-D7C5539F7B16.png?v=1773695320
+    Price: 1.890,00 kr. ISK
+  - [Sol (Yellow)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532305111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/FC6CF5DA-B863-4C9E-B514-FA39B23C5995.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+  - [Honey (Creamy dark ochre yellow)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532337879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/935AC4C7-8E28-4227-A85C-1366C10889B3.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+  - [Terracotta (Warm Orange)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532370647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/4B23783F-D139-4D88-9713-11088BD23C13.png?v=1773695320
+    Price: 1.890,00 kr. ISK
+  - [Lilac (Creamy Purple)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532403415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/FAA1D872-9A83-4238-8F98-555D088516A8.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+  - [Pistachio (Pistachio Green)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532436183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/2BBC6CA2-CC4B-4757-A678-C8CC7193600F.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+  - [Seawater (Creamy Blue-Green)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532468951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/72FA5DCA-8BA8-4C54-B8D9-18B676408AEA.png?v=1772867108
+    Price: 1.890,00 kr. ISK
+  - [Sky (Medium Blue)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532501719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/362CB7CF-70F3-40B1-8F1D-6880A05A0D0E.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+  - [Ocean (Dark Blue)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532534487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C9C57765-9A0E-49A0-A38E-6B9BE2C6FAC1.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+  - [Charcoal (Black)](https://www.handavinnubarinn.is/products/pickles-organic-cotton?variant=48350532567255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/51A116CE-E78D-4331-A3D0-C8F4A04D17AB.png?v=1772867106
+    Price: 1.890,00 kr. ISK
+- [Pickles Pure Wool](https://www.handavinnubarinn.is/products/pickles-pure-wool): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Pure wool er þunnt kembt ullargarn með fjölbreytt notagildi. Fáanlegt í fallegum, blönduðum litum. Mjög slitsterkt og í miklu uppáhaldi hjá viðskiptavinum Pickles. 100% ný ull100 g dokkur | 380 mPrjónastærð: 3–4 mmPrjónfesta: 23 lykkjur / 32 umferðirHandþvottur Eftir skolun „blómstrar“ trefjaáferðin og flíkin verður mýkri. Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Pure Wool er að finna Hér
+  Updated: 2026-03-17T21:07:42Z
+  Vendor: Handavinnubarinn
+  Product Type: Garn
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C91822FE-21F2-4A7C-A3B2-3FF22BF51BCC.jpg?v=1773693481
+  - [Snøskred (Hvit)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522081495)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C2708B01-E4FC-460D-A50A-C4BF9BFBA45D.jpg?v=1773693481
+    Price: 2.490,00 kr. ISK
+  - [Malte Mandler (Light Beige)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522114263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C91822FE-21F2-4A7C-A3B2-3FF22BF51BCC.jpg?v=1773693481
+    Price: 2.490,00 kr. ISK
+  - [Autumn Leaf (Maroon)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522147031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B085B0BE-2C71-4005-A592-19D422CAE8C9.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Orange](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522179799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9E825C3D-5D1E-4C59-8FDF-70A089EA7FC1.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Dark Orange](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522212567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9975CB96-DED9-4F8F-ACFB-6EA271F3CBC5.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Daylily (Rust Red)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522245335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/00811107-9EA6-4F5F-9BE1-EFFAA92FBFC2.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Cranberry (Deep Red)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522278103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/5F3BE8DD-4DC7-4B6A-8F03-E5DF81B3E7BE.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Elderberry](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522310871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/FB028D24-205D-4AFC-8DDE-D023844DD496.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Plum (Bluish Burgundy)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522343639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/6CB0372B-D4FF-48E5-BCCB-3C665F5441D1.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Magnolia (Peach Pink)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522376407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/5A74A48E-3AF8-439C-8225-40DE57FF3B9C.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Coral](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522409175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9D238B03-4F1B-4409-8DD6-01832092405E.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Hydrangea (Light Purple)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522441943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/91CE5729-0BFF-4AA4-BC78-B946CA1EB2D9.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Light blue](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522474711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B4316E6D-EF91-458B-A43C-070DA8A63F1C.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Mountain Top (Creamy Blue-Green)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522507479)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B4316E6D-EF91-458B-A43C-070DA8A63F1C.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Sea blue](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522540247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B68A8CEB-88D6-47CA-97C9-4E3D245213C2.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Open Sea (Dark Petrol Blue)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522573015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/12E0207B-8484-4E3D-9971-C7EDBD343391.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Cornflower](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522605783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/BDB3B654-13F8-49DF-AF7C-DB3321CE04A7.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Fennel (Creamy grayish green)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522638551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9B8D0C14-7FF8-4EA4-B1F4-1C169D6B373C.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Green Pepper](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522671319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/61DB68D4-14A1-48A9-A301-D2CD5F168A74.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Green Tea (Dark Yellow-Green)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522704087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/6D61DCFF-A081-4352-8B2E-0D036BEA505A.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Cloverleaf (Green with hints of yellow)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522736855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/76E1E99B-8861-4FF6-9160-5308A61E2188.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Stem (Natural Brown)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522769623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/5EFEA5A1-733A-4A9A-A119-A10D3F5FD0AD.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Nykvernet (Warm brown)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522802391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/920A36EE-B33E-4BB5-82A7-F0CC700D2B54.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+  - [Smoke Signal (Melted Gray)](https://www.handavinnubarinn.is/products/pickles-pure-wool?variant=48350522835159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/E16B8DCD-E484-4A32-A808-E3BE01C28A99.jpg?v=1772924112
+    Price: 2.490,00 kr. ISK
+- [Pickles Silk Mohair](https://www.handavinnubarinn.is/products/pickles-silk-mohair): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Silk Mohair garnið er fallegt Kid mohair sem spunnið er utan um hreinan silkiþráð. Gefur hverju verki lúxusblæ. 70% móhair, 30% silki25 g hespur | 200 mPrjónastærð: 3–4 mmPrjónfesta á 10 cm: 16–25 lykkjur / 28–34 umferðirHandþvottur Hægt að nota eitt og sér, tvöfalt eða sem fylgiþráð. Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Silk mohair er að finna Hér
+  Updated: 2026-03-17T21:07:49Z
+  Vendor: Handavinnubarinn
+  Product Type: Garn
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/40391E6D-B0BA-454A-BDA2-2B3146C3DE43.jpg?v=1773692609
+  - [Lily of the valley (Optical white)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350506778839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/2C8E777D-8643-487D-88BA-966B33450D20.jpg?v=1773692609
+    Price: 1.690,00 kr. ISK
+  - [Marble (Unbleached white with hint of pink)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350506811607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/40391E6D-B0BA-454A-BDA2-2B3146C3DE43.jpg?v=1773692609
+    Price: 1.690,00 kr. ISK
+  - [Nature (Pinkish beige)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350506844375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F1EC6F7F-4529-4E6D-AF4F-9490DAA8A905.jpg?v=1773692609
+    Price: 1.690,00 kr. ISK
+  - [Honey (Deep golden yellow)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350506877143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/31F2A168-8541-4396-B9FF-69D9A0342F5E.jpg?v=1772924164
+    Price: 1.690,00 kr. ISK
+  - [Signal](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350506909911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/03A7AAA4-18A0-4B0C-999C-FB1722A5AC72.jpg?v=1772924164
+    Price: 1.690,00 kr. ISK
+  - [Copper (Warm orange)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350506942679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9FFFDBC1-FAB7-41B9-A9E3-49B42A4474E9.jpg?v=1772924164
+    Price: 1.690,00 kr. ISK
+  - [Nail Polish (Bright red with orange hint)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350506975447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/1D9EDA05-759C-494D-9E37-218CC0B66E39.jpg?v=1772924164
+    Price: 1.690,00 kr. ISK
+  - [Chianti (Burgundy)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507008215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/0BE684DA-418C-4D54-8115-2DD58C8DE04B.jpg?v=1772924164
+    Price: 1.690,00 kr. ISK
+  - [Mahogny (Deep purple with hints of red)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507040983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F27A3F2B-3E27-484F-A01C-6EE98752D8C3.jpg?v=1772924164
+    Price: 1.690,00 kr. ISK
+  - [Lilac (Pale creamy lilac)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507073751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/5A65538F-86FA-46D3-8C4C-BC295E7D67F9.jpg?v=1772924164
+    Price: 1.690,00 kr. ISK
+  - [Puffball (Cold light grey)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507106519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/3556C712-3E97-471C-A745-87F7C2FAC6C0.jpg?v=1773692609
+    Price: 1.690,00 kr. ISK
+  - [Forget Me Not (Light blue)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507139287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9973EF2E-0B7D-4168-AA25-9B09D5D53BFF.jpg?v=1773692437
+    Price: 1.690,00 kr. ISK
+  - [Mustard Seeds (Bright blue)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507172055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/54A1629A-57CE-4520-972F-539F1FCFF454.jpg?v=1773692437
+    Price: 1.690,00 kr. ISK
+  - [Midnight (Dark blue)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507204823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/1EE430A1-DBCF-407B-B8B6-DEBF76F5D67F.jpg?v=1773692437
+    Price: 1.690,00 kr. ISK
+  - [Sea Emerald (Pale green)](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507237591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B2DF3AD2-B640-4651-943F-2769B3768BE1.jpg?v=1773692437
+    Price: 1.690,00 kr. ISK
+  - [Black](https://www.handavinnubarinn.is/products/pickles-silk-mohair?variant=48350507270359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C6E5DB3C-F9DB-4248-9FCF-F002B1DCBD49.jpg?v=1773692437
+    Price: 1.690,00 kr. ISK
+- [Pickles Soft Fuzz](https://www.handavinnubarinn.is/products/pickles-soft-fuzz): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Soft Fuzz er létt og þunnt alpakka-og ullargarn með einstaklega fallegu falli. Burstað yfirborð gefur mjúka og matta áferð. 53% alpaka / 47% ull50 g dokkur | 195 mPrjónastærð: 3–6 mmPrjónfesta: 16–23 lykkjur / 18–34 umferðirHandþvottur Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Soft fuzz er að finna Hér
+  Updated: 2026-03-17T20:21:06Z
+  Vendor: Handavinnubarinn
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/BB986C2A-B1CA-4909-9C5F-7E32097A5872.jpg?v=1772924270
+  - [Like A Virgin (Unbleached White)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502125783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/BB986C2A-B1CA-4909-9C5F-7E32097A5872.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Champagne Supernova (Warm Beige)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502158551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/A1E07A3D-E64F-4CFF-99BC-A682DF78BD44.jpg?v=1773696475
+    Price: 1.890,00 kr. ISK
+  - [Almond Butter (Camel)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502191319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9884D0CB-E34B-41EE-A5CC-EAD875F5E7B1.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Brown Eyed Girl (Cold Brown)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502224087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/318573F1-1C57-4D9A-9E01-ADEE4DC21989.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Olivia (Olive)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502256855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C4A42DE5-1E33-46CB-92E2-0427AD6A0129.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Light My Fire (Warm reddish orange)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502289623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9D7F4F5A-217E-4C87-B38E-099D58CAF168.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [What Does The Fox Say (Rust Red)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502322391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/102B12F9-2E9B-4D1D-868B-86BB58561183.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Neunundneunzig Luftballons (Dusty Pink)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502355159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/3A5D5E28-7178-4A3C-9B1A-2214712B8BA4.jpg?v=1773696475
+    Price: 1.890,00 kr. ISK
+  - [Purple Rain (light purple)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502387927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/80B9B7C2-3AF3-4144-94F8-D9A2D03832D0.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [My Silver Lining (Light Gray)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502420695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/8BE7FBE4-BDCF-4CD6-8B2D-32DD8BA2DDCB.jpg?v=1773696475
+    Price: 1.890,00 kr. ISK
+  - [Summertime Sadness (medium gray)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502453463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/86055552-354B-4969-BAF4-1BE0BF0BA7D9.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Crying in the rain (Light blue)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502486231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C3E46ABD-7BDE-4834-89B5-66553B0E39C3.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Blue skies (Klar blå)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502518999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/7EC16EE7-7652-4C06-BC23-BF1B7525A2D1.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Blue Moon (Dark blue-purple)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502551767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/684249EB-3D90-4410-9B72-E6A4773AF232.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Radioactive (sharp acidic green)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502584535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/861BF6F2-3265-4DC8-BBF2-C29FAD1C0BB5.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Botanical Garden (Emerald Green)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502617303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/AA27B50B-344A-4936-8124-BE23D4600650.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+  - [Dancing in the dark (Black)](https://www.handavinnubarinn.is/products/pickles-soft-fuzz?variant=48350502650071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/8BFA6D2B-B594-4F72-AACD-9AB2D4C7643C.jpg?v=1772924270
+    Price: 1.890,00 kr. ISK
+- [Pickles Sommerull](https://www.handavinnubarinn.is/products/pickles-sommerull): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Sommerull garnið sérstaklega þróað fyrir norræn sumur. Merino lambsull veitir hlýju og lífræni bómullinn léttleika og svalleika. 55% merino lambsull, 45% lífræn bómull50 g hespur | 175 mPrjónastærð: 3–4,5 mmPrjónfesta: 18–22 lykkjur / 24–32 umferðirHandþvottur Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. ATH: Bláir og svartir tónar geta gefið frá sér smá lit á meðan prjónað er. Uppskriftir sem notast er við Sommerull er að finna Hér
+  Updated: 2026-03-17T21:46:56Z
+  Vendor: Handavinnubarinn
+  Product Type: Garn
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C9398BF3-852F-49A1-86D9-5C6A9D85DE7D.jpg?v=1772879983
+  - [Svalbard (Kremet hvit)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492098775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C9398BF3-852F-49A1-86D9-5C6A9D85DE7D.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Obodos (silver gray)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492131543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/04FF18F2-1D30-4816-8DD5-CA8564539289.jpg?v=1773695524
+    Price: 1.690,00 kr. ISK
+  - [Læsø (Classic Red)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492164311)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/4F9166C0-8281-47F6-9835-B2F97D92AAF2.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Terracina (Warm reddish orange)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492197079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/1D42DB37-AE98-43A6-823A-04D7016B7AE3.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Tuscany (Creamy Heather)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492229847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/11F3CDB4-772A-4307-B9AB-01CCE701AD30.jpg?v=1773695524
+    Price: 1.690,00 kr. ISK
+  - [Provence (lys lilla)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492262615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/BF1BE04C-2FC6-4930-9917-518EE0221F84.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Johdpur (Light mottled sky blue)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492295383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/2268477A-93B6-4387-8AF4-EB7341C96C58.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Santorini (Clear Blue)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492328151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/50888B1B-B177-48CC-9F0C-C94E6EF8B537.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Biarritz (Dark navy blue)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492360919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/E110D094-74E0-4D5E-9F16-81C6C3C8B7CB.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Loch Ness (Deep dark green)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492393687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/365DCD94-44E1-4791-9B01-94DDB9B62409.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+  - [Prague (Black)](https://www.handavinnubarinn.is/products/pickles-sommerull?variant=48350492426455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9DD0CD5E-4639-451C-9D6C-C2C02F8DF7DC.jpg?v=1772879983
+    Price: 1.690,00 kr. ISK
+- [Pickles Teddy](https://www.handavinnubarinn.is/products/pickles-teddy): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast. Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Teddy garnið er 100% náttúrulegt bouclé-garn úr hálandsull og alpakka. Gefur mjúkt bangsa útlit. 70% hálandsull / 30% alpakka100 g hespur | 80 mPrjónastærð: 7–12 mmPrjónfesta: 7–12 lykkjur / 8–13 umferðirHandþvottur Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Teddy er að finna Hér Uppskriftir frá Pickles:
+  Updated: 2026-03-17T21:19:35Z
+  Vendor: Handavinnubarinn
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/WhiteBear_UnbleachedWhite_SKUPTD-001.jpg?v=1772810993
+  - [White Bear (Unbleached White)](https://www.handavinnubarinn.is/products/pickles-teddy?variant=48350381474007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/WhiteBear_UnbleachedWhite_SKUPTD-001.jpg?v=1772810993
+    Price: 2.690,00 kr. ISK
+  - [Yogi (Light Beige)](https://www.handavinnubarinn.is/products/pickles-teddy?variant=48350381506775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Yogi_LightBeige_SKUPTD-7073485002015.jpg?v=1772810993
+    Price: 2.690,00 kr. ISK
+  - [Baloo (Gray)](https://www.handavinnubarinn.is/products/pickles-teddy?variant=48350381539543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Baloo_Gray_SKUPTD-4024.jpg?v=1772810993
+    Price: 2.690,00 kr. ISK
+  - [Fozzie (Pistachio Green)](https://www.handavinnubarinn.is/products/pickles-teddy?variant=48350381572311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Fozzie_PistachioGreen_SKUPTD-7073485002077.jpg?v=1772810993
+    Price: 2.690,00 kr. ISK
+  - [Banjo (Dark Blue)](https://www.handavinnubarinn.is/products/pickles-teddy?variant=48350381605079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Banjo_DarkBlue_SKUPTD-7073485002060.jpg?v=1772810993
+    Price: 2.690,00 kr. ISK
+  - [Ted (Gray)](https://www.handavinnubarinn.is/products/pickles-teddy?variant=48350381637847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Ted_Gray_SKUPTD-7073485002053.jpg?v=1772810993
+    Price: 2.690,00 kr. ISK
+  - [Papa (Black)](https://www.handavinnubarinn.is/products/pickles-teddy?variant=48350381670615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Papa_Black_SKUPTD-7073485002046.jpg?v=1772810993
+    Price: 2.690,00 kr. ISK
+- [Pickles Tjukk Merino](https://www.handavinnubarinn.is/products/pickles-tjukk-merino): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Tjukk Merino garnið er afar mjúkt og stinglaust merino með skýra lykkjumynd. Tjukk Merino: 100% merino frá Perú100 g hespur | 200 mPrjónastærð: 4,5–5,5 mmPrjónfesta: 16–24 lykkjurHandþvottur Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Tjukk Merino er að finna Hér
+  Updated: 2026-03-17T21:18:44Z
+  Vendor: Handavinnubarinn
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/23722AB1-E27E-4B4E-89F6-00578DF5E23F.jpg?v=1773693626
+  - [Unbleached (Natural White)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48348137259223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/86A190EF-0143-4A50-8569-7B4C9F3F7840.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Unbleached Tweed](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48348137291991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/44B83FFE-8C0A-4ECC-B16C-021A6AB6CA27.jpg?v=1772866330
+    Price: 2.690,00 kr. ISK
+  - [Cream Tweed](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48348137324759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CDB0DF45-9DE6-4DDB-B848-11AB58E54D89.jpg?v=1773693626
+    Price: 2.690,00 kr. ISK
+  - [Kitt (Svakt melert kitt)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48348137357527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/23722AB1-E27E-4B4E-89F6-00578DF5E23F.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Natur (Melert lys beige)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48348137390295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/7F7D8F00-1856-4387-A041-26ADD13DC480.jpg?v=1772866330
+    Price: 2.590,00 kr. ISK
+  - [Natur Tweed](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48348137423063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/03A0D4EF-53BC-4F6B-80D3-D227435C4A28.jpg?v=1773693626
+    Price: 2.690,00 kr. ISK
+  - [Toffee (Warm light beige)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350338973911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/DEB417E9-1BC7-474A-9797-35272B190B76.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Eggnog (Light Yellow)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339006679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/3BAD83D7-BE98-4E79-B6BB-5B19F0A4AB6B.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Siren (Bright Orange)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339039447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CDCE23FD-9C12-4B18-9675-10F6F4F053F6.jpg?v=1772866329
+    Price: 2.590,00 kr. ISK
+  - [Leather (Golden Caramel Brown)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339072215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/C329E156-679F-4890-90B1-8A44BE9EC4F7.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Pudder (Creamy Powder Pink)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339104983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/6E5C5411-9AD1-4F1C-82AB-1CE8E49FB8E3.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Terracotta (Light orange with hints of pink)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339137751)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/65E71CB5-1A08-4A7D-998E-305AF65CA477.jpg?v=1772866329
+    Price: 2.590,00 kr. ISK
+  - [Signal (Neon Yellow)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339170519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/5974A07B-57B3-4346-A5EA-EB26B8CE69FF.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Tomato tomato (Warm red)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339203287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/53367AAA-1BD9-4FD1-A9C2-1C9470F8D1EF.jpg?v=1772866330
+    Price: 2.590,00 kr. ISK
+  - [Fondant (Kald brun)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339236055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/48FBCFEF-EEE4-44BB-B4B9-05F7B88FB695.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Victoria Plum (Dark reddish purple)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339268823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/B8596AB5-494F-4164-81F1-AF12B87FFF60.jpg?v=1772866329
+    Price: 2.590,00 kr. ISK
+  - [Punky (knee-high pink)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339334359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CA314C61-D8DB-4BA7-8ED2-660A85F7E4B9.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Kokko (Purple)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339367127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/92BD07CE-25FB-4630-9D8C-16BABF9FBFFF.jpg?v=1772866329
+    Price: 2.590,00 kr. ISK
+  - [Acid (Bright Neon Green)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339399895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/D6171091-96B1-44DD-9BDA-47F4C7ADC229.jpg?v=1772866329
+    Price: 2.590,00 kr. ISK
+  - [Oil Green (Petrolium Green)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339432663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/7CAD3D14-7A0E-4A61-A544-8B838060BF9E.jpg?v=1772866330
+    Price: 2.590,00 kr. ISK
+  - [Pine (Deep Green)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339465431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/D16C7E89-F22E-4F36-8056-63F6560FE61D.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Seagrass (Greenish Brown)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339498199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/98C678CC-E2C3-49CD-88F3-93336F63D88C.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Fog Blue (Light Blue)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339530967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/A0FA2676-ECDD-46EB-8A19-67C0930C13E6.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Cobalt (Bright Blue)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339563735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/91E91C4B-0236-45A7-8724-057EF5874315.jpg?v=1772866329
+    Price: 2.590,00 kr. ISK
+  - [Graypus (mottled light gray)](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339596503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/AA3CAE4A-6A5A-43C8-9488-F3F467DC5AA9.jpg?v=1773693626
+    Price: 2.590,00 kr. ISK
+  - [Natta Tweed](https://www.handavinnubarinn.is/products/pickles-tjukk-merino?variant=48350339629271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F9F0D174-4CDE-4668-AE1E-33D0F9CEE8D2.jpg?v=1773693626
+    Price: 2.690,00 kr. ISK
+- [KnitPro Mindful Swivel 360° útskiptanlegar snúrur](https://www.handavinnubarinn.is/products/knitpro-mindful-swivel-360-utskiptanlegar-snurur): Minni stærðir seldust upp, eigum von á næstu sendingu í byrjun apríl. KnitPro Mindful Swivel 360° útskiptanlega snúran er hönnuð til að gera hringprjón auðvelt, mjúkt og streitulaust. Mindful línan byggir á hugmyndafræði hæglætis og núvitundar, þar sem prjón verður róandi iðja sem hefur jákvæð áhrif á líkama og huga. Snúran er búin Swivel 360° snúningskerfi sem kemur í veg fyrir að hún vindi upp á sig eða bogni við prjón. Hún er úr stáli með sléttri nælonhúð sem rennur létt í gegnum lykkjur. Snúrurnar eru í einkennandi blágrænum lit Mindful línunnar og fylgja með snúrulykill og snúrulok sem gera kleift að nota snúruna sem lykkjuhaldara. Eru til í lengdum 40cm, 50cm, 60cm, 80cm, 100cm, 120cm og 150cm. Lengdin segir til um lengd samtals með prjónum.
+  Updated: 2026-03-19T02:13:18Z
   Vendor: Knitpro
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -1209,14 +1960,69 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/BCA739EC-2E38-4095-A1E8-4B3641F77188.jpg?v=1772630607
     Price: 990,00 kr. ISK
+- [Vatnsleysanleg stuðningsfilma fyrir útsaum 0.50x1M](https://www.handavinnubarinn.is/products/madeira-avalon-vatnsleysanleg-studningsfilma-0-50x1m): Madeira Avalon er vatnsleysanleg stuðningsfilma fyrir útsaum sem veitir efninu aukinn stöðugleika meðan saumað er. Þegar verkefninu er lokið leysist filman upp í vatni og skilur enga leifar eftir, aðeins hreinan og fallegan útsaum. Sérstaklega hentugt fyrir viðkvæm, teygjanleg eða gegnsæ efni þar sem ekki er æskilegt að filma sjáist í fullunnu verki. Einnig mjög gott til notkunar á prjónuðum fatnaði, þar sem filman hjálpar til við að halda sporunum ofan á yfirborði efnisins og kemur í veg fyrir að þau sökkvi niður í lykkjur eða áferð efnisins. Hentar meðal annars fyrir: Prjónaðan fatnað (t.d. peysur, boli og jersey efni) Blúndu og lace-verkefni Létt og viðkvæm efni Handklæði og loðin efni Monogram og nákvæman útsaum Kostir: Vatnsleysanlegt – hverfur alveg í vatni Styður efnið meðan saumað er Hjálpar til við skýrari og nákvæmari útsaum Skilur enga filmu eftir í fullunnu verki Fullkomið fyrir þá sem vilja fallegan og faglegan frágang á útsaumi. Selst í metratali. Málin eru 50cm breidd 100cm lengd.
+  Updated: 2026-03-16T22:23:06Z
+  Vendor: Handavinnubarinn
+  Product Type: Fylgihlutir handavinnulífsins
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Vorurfyrirvefverslun.jpg?v=1773001419
+  Price: 890,00 kr. ISK
+- [Gigtarhanskar](https://www.handavinnubarinn.is/products/gigtarhanskar): Léttir og mjúkir gigtarhanskar sem veita léttan þrýsting og stuðning við hendur sem eru viðkvæmar. Einstaklega þægilegir í notkun og eru fingralausir. Eru úr mjúku bambus efni. Koma í stærðum Medium og Large
+  Updated: 2026-03-19T00:36:24Z
+  Vendor: Handavinnubarinn
+  Product Type: Fylgihlutir handavinnulífsins
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/48EC56F9-9C7D-42ED-9542-B166D229CF28.jpg?v=1773827280
+  - [Medium](https://www.handavinnubarinn.is/products/gigtarhanskar?variant=48386991947991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/726990A7-A813-4B46-8F9B-737DA0B9FFBD.jpg?v=1773827280
+    Price: 1.290,00 kr. ISK
+  - [Large](https://www.handavinnubarinn.is/products/gigtarhanskar?variant=48386991980759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/48EC56F9-9C7D-42ED-9542-B166D229CF28.jpg?v=1773827280
+    Price: 1.290,00 kr. ISK
+- [Opin skæri](https://www.handavinnubarinn.is/products/opin-skaeri): Þessi opnu skæri passa vel fyrir litlar og stórar hendur. Virka bæði fyrir rétthenta og örvhenta. Þar sem skærin haldast opin er gott að geyma þau á góðum stað. Skærin eru einstaklega þægileg í notkun og henta fyrir smærri verkefni.
+  Updated: 2026-03-18T15:44:18Z
+  Vendor: Handavinnubarinn
+  Product Type: Fylgihlutir handavinnulífsins
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CA3E4DE2-4534-46DA-B3FE-FC4B7C11EA28.jpg?v=1773827166
+  - [Gul](https://www.handavinnubarinn.is/products/opin-skaeri?variant=48387009446103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CA3E4DE2-4534-46DA-B3FE-FC4B7C11EA28.jpg?v=1773827166
+    Price: 790,00 kr. ISK
+  - [Appelsínugul](https://www.handavinnubarinn.is/products/opin-skaeri?variant=48387009478871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/49241134-B72A-4372-B74D-C596B54F4EA8.jpg?v=1773827165
+    Price: 790,00 kr. ISK
+  - [Græn](https://www.handavinnubarinn.is/products/opin-skaeri?variant=48387009511639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/6EAF6450-FE4E-457D-8311-2E3DC076718A.jpg?v=1773827166
+    Price: 790,00 kr. ISK
+  - [Rauð](https://www.handavinnubarinn.is/products/opin-skaeri?variant=48387009544407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/766034C0-CBAA-405C-A29B-ACF7370BDE0B.jpg?v=1773827166
+    Price: 790,00 kr. ISK
+  - [Bleik](https://www.handavinnubarinn.is/products/opin-skaeri?variant=48387009577175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/7653913F-DB2D-4D4C-8918-0A72DC45B82A.jpg?v=1773827165
+    Price: 790,00 kr. ISK
+  - [Fjólublá](https://www.handavinnubarinn.is/products/opin-skaeri?variant=48387009609943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/80C0F25E-6CB1-4183-8A41-C981CE43ECF0.jpg?v=1773827165
+    Price: 790,00 kr. ISK
+  - [Blá](https://www.handavinnubarinn.is/products/opin-skaeri?variant=48387009642711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9A73D50B-7F61-467C-9207-BBC07537775D.jpg?v=1773827166
+    Price: 790,00 kr. ISK
 
 ## Collections
 
 - [Allar vörur](https://www.handavinnubarinn.is/collections/products)
-  Updated: 2026-03-11T11:25:11Z
-  Total Products: 64
+  Updated: 2026-03-18T09:15:07Z
+  Total Products: 66
 - [Forpöntun](https://www.handavinnubarinn.is/collections/forsala): ATH þessar vörur eru einungis í forpöntun.
-  Updated: 2026-03-10T09:33:45Z
+  Updated: 2026-03-17T20:21:09Z
   Total Products: 19
 - [B Kind Handverk](https://www.handavinnubarinn.is/collections/b-kind-handverk)
   Updated: 2026-03-11T11:25:11Z
@@ -1225,8 +2031,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-03-10T09:30:58Z
   Total Products: 18
 - [Fylgihlutir](https://www.handavinnubarinn.is/collections/fylgihlutir)
-  Updated: 2026-03-07T12:25:01Z
-  Total Products: 40
+  Updated: 2026-03-18T08:59:55Z
+  Total Products: 41
 - [FeaturedProducts](https://www.handavinnubarinn.is/collections/featuredproducts)
   Updated: 2026-03-10T09:35:13Z
   Total Products: 11
@@ -1237,10 +2043,10 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-01-16T12:19:38Z
   Total Products: 0
 - [Garn](https://www.handavinnubarinn.is/collections/garn)
-  Updated: 2026-03-08T11:59:17Z
+  Updated: 2026-03-17T20:21:09Z
   Total Products: 9
 - [Pickles](https://www.handavinnubarinn.is/collections/pickles)
-  Updated: 2026-03-08T11:59:17Z
+  Updated: 2026-03-17T20:21:09Z
   Total Products: 10
 - [Ístex](https://www.handavinnubarinn.is/collections/istex)
   Updated: 2026-02-12T17:34:00Z
@@ -1252,14 +2058,14 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-02-22T12:21:58Z
   Total Products: 4
 - [KnitPro](https://www.handavinnubarinn.is/collections/knitpro-mindful)
-  Updated: 2026-03-10T09:14:11Z
+  Updated: 2026-03-17T09:07:24Z
   Total Products: 13
 - [Prjónar og snúrur](https://www.handavinnubarinn.is/collections/prjonar-og-snurur)
   Updated: 2026-03-10T09:16:44Z
   Total Products: 9
 - [Skæri](https://www.handavinnubarinn.is/collections/skaeri)
-  Updated: 2026-03-10T09:17:41Z
-  Total Products: 3
+  Updated: 2026-03-18T09:15:07Z
+  Total Products: 5
 - [Umferðateljarar](https://www.handavinnubarinn.is/collections/umferdateljarar)
   Updated: 2026-03-11T11:25:11Z
   Total Products: 3
@@ -1284,6 +2090,12 @@ Our online store features carefully crafted items from our own workshop, a wide 
 - [Útsaumur](https://www.handavinnubarinn.is/collections/utsaumur)
   Updated: 2026-03-10T09:35:48Z
   Total Products: 1
+- [Allir fylgihlutir](https://www.handavinnubarinn.is/collections/allir-fylgihlutir)
+  Updated: 2026-03-18T09:15:07Z
+  Total Products: 47
+- [Gigtarvörur](https://www.handavinnubarinn.is/collections/gigtarvorur)
+  Updated: 2026-03-18T09:27:17Z
+  Total Products: 5
 
 ## Store Pages
 
