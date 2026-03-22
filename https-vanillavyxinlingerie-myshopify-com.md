@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2026-02-15T14:48:34Z
-- Updated At: 2026-03-15T00:00:35.593Z
+- Updated At: 2026-03-22T00:00:37.726Z
 
 Welcome!!! How may I help u ?💋
 
@@ -148,7 +148,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/fitness-shorts-lauma-active-lm46d70-lauma-active-shorts-lavinia-lingerie-23459720897.jpg?v=1771210886
     Price: $14.99 USD
 - [The Wedge Collection No. 1](https://vanillavyxinlingerie.myshopify.com/products/the-wedge-collection-no-1): Chic, practical and elegantly proportioned, ReyReys golden wedge are crafted from mirrored leather – comfortable enough for evening-long wear. The crossover straps elegantly follow the contours of your feet. Heel measures approximately 100 mm Mirrored leather Sustainable and eco-friendly True to size Genuine leather Vero Cuoio ICEC  leather Made in Italy
-  Updated: 2026-03-14T21:00:35Z
+  Updated: 2026-03-21T21:00:45Z
   Vendor: ReyRey
   Product Type: Style 3
   Availability: Available
@@ -156,42 +156,42 @@ Welcome!!! How may I help u ?💋
   - [36 / Mirrored Leather / Gold](https://vanillavyxinlingerie.myshopify.com/products/the-wedge-collection-no-1?variant=49941628059894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/Style3_c.jpg?v=1771211105
-    Price: $583.67 USD
+    Price: $589.98 USD
   - [37 / Mirrored Leather / Gold](https://vanillavyxinlingerie.myshopify.com/products/the-wedge-collection-no-1?variant=49941628092662)
     Availability: Not Available
-    Price: $583.67 USD
+    Price: $589.98 USD
   - [38 / Mirrored Leather / Gold](https://vanillavyxinlingerie.myshopify.com/products/the-wedge-collection-no-1?variant=49941628125430)
     Availability: Available
-    Price: $583.67 USD
+    Price: $589.98 USD
   - [39 / Mirrored Leather / Gold](https://vanillavyxinlingerie.myshopify.com/products/the-wedge-collection-no-1?variant=49941628158198)
     Availability: Available
-    Price: $583.67 USD
+    Price: $589.98 USD
   - [40 / Mirrored Leather / Gold](https://vanillavyxinlingerie.myshopify.com/products/the-wedge-collection-no-1?variant=49941628190966)
     Availability: Available
-    Price: $583.67 USD
+    Price: $589.98 USD
 - [The Joker Collection No. 1](https://vanillavyxinlingerie.myshopify.com/products/the-joker-collection-no-1): ReyRey's lace-up pumps have been crafted in Italy from midnight-blue denim - a versatile alternative to classic black. This pair has an elegant and chic silhouette complemented with flattering smooth suede lace-up ties that elegantly wrap around your ankle and leg. The high panel at the back ensures a supportive fit. Heel measures approximately 100 mm Vintage denim deadstock Sustainable and eco-friendly True to size Genuine leather Vero Cuoio ICEC  leather Made in Italy
-  Updated: 2026-03-14T21:00:41Z
+  Updated: 2026-03-21T21:00:35Z
   Vendor: ReyRey
   Product Type: Style 8
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/TS4_02722.jpg?v=1771211104
   - [36 / Denim / Blue](https://vanillavyxinlingerie.myshopify.com/products/the-joker-collection-no-1?variant=49941628223734)
     Availability: Available
-    Price: $571.06 USD
+    Price: $577.23 USD
   - [37 / Denim / Blue](https://vanillavyxinlingerie.myshopify.com/products/the-joker-collection-no-1?variant=49941628256502)
     Availability: Available
-    Price: $571.06 USD
+    Price: $577.23 USD
   - [38 / Denim / Blue](https://vanillavyxinlingerie.myshopify.com/products/the-joker-collection-no-1?variant=49941628289270)
     Availability: Available
-    Price: $571.06 USD
+    Price: $577.23 USD
   - [39 / Denim / Blue](https://vanillavyxinlingerie.myshopify.com/products/the-joker-collection-no-1?variant=49941628322038)
     Availability: Available
-    Price: $571.06 USD
+    Price: $577.23 USD
   - [40 / Denim / Blue](https://vanillavyxinlingerie.myshopify.com/products/the-joker-collection-no-1?variant=49941628354806)
     Availability: Available
-    Price: $571.06 USD
+    Price: $577.23 USD
 - [DEVOTION](https://vanillavyxinlingerie.myshopify.com/products/devotion): NEXT DAY DISPATCH! FREE DELIVERY & FREE GIFT WRAPPING SAME DAY DISPATCH if ordered before 1pm DEVOTION Royal Blue Teddy Body Piece Romantic Lingerie Set Amaze your partner! This beautiful royal blue body features delicate embroidery flowers and sheer peach outline. The bra is lightly wired, the placements of the embroidery emphasize all the right places. This is a perfect gift for your partner.The most beautiful and romantic floral intimates that are perfect for nights when you want to feel special.High-quality and excellent craftsmanship for you to feel confident and relaxed allowing you to focus on making your intimate relationship more profound and emotional.Your wedding anniversary can be another fantastic occasion to surprise your partner with this romantic lingerie set. The perfect gift for fiancee, gift for wife,gift for girlfriend, gift for husband, gift for boyfriend.DETAILS Structured Soft UnderwiresBody sculpting Hook and Eye Back ClosureMixed mesh detailThongSIZE RECOMMENDATIONSSMALL - best fit UK 6/8MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-03-14T12:35:04Z
+  Updated: 2026-03-21T12:30:58Z
   Vendor: Wiln
   Product Type: Lingerie
   Availability: Available
@@ -199,17 +199,17 @@ Welcome!!! How may I help u ?💋
   - [S](https://vanillavyxinlingerie.myshopify.com/products/devotion?variant=49941632909558)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_c069e5e2-9a4a-4675-9b17-8153df06d523.jpg?v=1771211462
-    Price: $31.76 USD
+    Price: $32.00 USD
   - [M](https://vanillavyxinlingerie.myshopify.com/products/devotion?variant=49941632942326)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_c069e5e2-9a4a-4675-9b17-8153df06d523.jpg?v=1771211462
-    Price: $31.76 USD
+    Price: $32.00 USD
   - [L](https://vanillavyxinlingerie.myshopify.com/products/devotion?variant=49941632975094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_c069e5e2-9a4a-4675-9b17-8153df06d523.jpg?v=1771211462
-    Price: $31.76 USD
+    Price: $32.00 USD
 - [CONTACT](https://vanillavyxinlingerie.myshopify.com/products/contact): NEXT DAY DISPATCH! FREE DELIVERY & FREE GIFT WRAPPING SAME DAY DISPATCH if ordered before 1pm CONTACT 4 Piece Lingerie Set Flirty with soft mesh fabric and sexy with a cut-out design this look will surprise your partner. The fit is completed with a super hot choker and a unique garter belt that wraps your thighs accentuating your curves. Why wait? Our women's mesh lingerie set is the perfect choice for the wedding night, honeymoon, Valentine's Day, anniversary, Christmas day, lingerie party or every hot night with no special occasion. This sexy lingerie set is an ideal Valentine's day gift for your wife or girlfriend.Our CONTACT Intimates Set will put you and your partner on fire!High-quality and excellent craftsmanship for you to feel confident and relaxed allowing you to focus on making your intimate relationship more profound and emotional.BONUSThe receiver won't be disappointed.Shipped in beautiful and discrete packaging.DETAILSSoft Mesh Bralette with cut out desingAdjustable Choker Mesh stretch material for comfort Matching Thong and Garter BeltSIZE RECOMMENDATIONSSMALL - best fit UK 6 / 8MEDIUM - best fit UK 8 / 10LARGE - best fit UK 12 / 14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-03-14T12:31:02Z
+  Updated: 2026-03-21T12:30:23Z
   Vendor: WILN
   Product Type: n/a
   Availability: Available
@@ -217,17 +217,17 @@ Welcome!!! How may I help u ?💋
   - [S](https://vanillavyxinlingerie.myshopify.com/products/contact?variant=49941632811254)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/IMG_1645.jpg?v=1771211460
-    Price: $27.79 USD
+    Price: $28.00 USD
   - [M](https://vanillavyxinlingerie.myshopify.com/products/contact?variant=49941632844022)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/IMG_1645.jpg?v=1771211460
-    Price: $27.79 USD
+    Price: $28.00 USD
   - [L](https://vanillavyxinlingerie.myshopify.com/products/contact?variant=49941632876790)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/IMG_1645.jpg?v=1771211460
-    Price: $27.79 USD
+    Price: $28.00 USD
 - [CRAVE](https://vanillavyxinlingerie.myshopify.com/products/crave): NEXT DAY DISPATCH! FREE DELIVERY & FREE GIFT WRAPPINGSAME DAY DISPATCH if ordered before 1pm 🥰CRAVE 4 Piece Lingerie Set This has been made for you! This piece accentuates your silhouette and your curves and will make you feel confident and beautiful.Available in 4 colours: Black, Red, White and Pink.Why wait for Valentine's Day, Birthday, Anniversary or any other special occasion when you can feel fabulous every single day? Or should we say night?Our CRAVE Intimates Set will put you and your partner on fire!High-quality and excellent craftsmanship for you to feel confident and relaxed allowing you to focus on making your intimate relationship more profound and emotional.BONUSThe receiver won't be disappointed.Shipped in beautiful and discrete packaging.DETAILSSoft strappy harness bra Waist cinching suspender belt Garter attachments Thong bottoms SIZE RECOMMENDATIONSSMALL - best fit UK 4/6/8MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14 LOOK AFTER ME All of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry. RETURNS Please note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-03-14T12:35:11Z
+  Updated: 2026-03-21T12:30:28Z
   Vendor: Wiln
   Product Type: Lingerie
   Availability: Available
@@ -235,17 +235,17 @@ Welcome!!! How may I help u ?💋
   - [SMALL( uk 4/6/8) / Black](https://vanillavyxinlingerie.myshopify.com/products/crave?variant=49941633007862)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_24f76f3c-ca46-4039-af0d-b3493c2be7a8.jpg?v=1771211461
-    Price: $20.84 USD
+    Price: $21.00 USD
   - [MEDIUM ( uk 8/10) / Black](https://vanillavyxinlingerie.myshopify.com/products/crave?variant=49941633040630)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_24f76f3c-ca46-4039-af0d-b3493c2be7a8.jpg?v=1771211461
-    Price: $20.84 USD
+    Price: $21.00 USD
   - [LARGE (uk 12/14) / Black](https://vanillavyxinlingerie.myshopify.com/products/crave?variant=49941633073398)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_24f76f3c-ca46-4039-af0d-b3493c2be7a8.jpg?v=1771211461
-    Price: $20.84 USD
+    Price: $21.00 USD
 - [DEVOTION](https://vanillavyxinlingerie.myshopify.com/products/devotion-1): NEXT DAY DISPATCH! FREE DELIVERY & FREE GIFT WRAPPING SAME DAY DISPATCH if ordered before 1pm DEVOTION Emerald Green Body Piece Romantic Lingerie Set Amaze your partner! This beautiful emerald green body features delicate embroidery flowers and sheer peach outline. The bra is lightly wired, the placements of the embroidery emphasize all the right places. This is a perfect gift for your partner.The most beautiful and romantic floral intimates that are perfect for nights when you want to feel special.High-quality and excellent craftsmanship for you to feel confident and relaxed allowing you to focus on making your intimate relationship more profound and emotional.Your wedding anniversary can be another fantastic occasion to surprise your partner with this romantic lingerie set. The perfect gift for fiancee, gift for wife,gift for girlfriend, gift for husband, gift for boyfriend.DETAILS Structured Soft UnderwiresBody sculpting Hook and Eye Back ClosureMixed mesh detailThongSIZE RECOMMENDATIONSSMALL - best fit UK 6/8MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-03-14T12:31:06Z
+  Updated: 2026-03-21T12:30:37Z
   Vendor: Wiln
   Product Type: Lingerie
   Availability: Available
@@ -253,17 +253,17 @@ Welcome!!! How may I help u ?💋
   - [S](https://vanillavyxinlingerie.myshopify.com/products/devotion-1?variant=49941633106166)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_ca3d4905-db88-419f-8d69-fab97b60a199.jpg?v=1771211464
-    Price: $31.76 USD
+    Price: $32.00 USD
   - [M](https://vanillavyxinlingerie.myshopify.com/products/devotion-1?variant=49941633138934)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_ca3d4905-db88-419f-8d69-fab97b60a199.jpg?v=1771211464
-    Price: $31.76 USD
+    Price: $32.00 USD
   - [L](https://vanillavyxinlingerie.myshopify.com/products/devotion-1?variant=49941633171702)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_ca3d4905-db88-419f-8d69-fab97b60a199.jpg?v=1771211464
-    Price: $31.76 USD
+    Price: $32.00 USD
 - [EROTICA](https://vanillavyxinlingerie.myshopify.com/products/erotica): NEXT DAY DISPATCH! FREE DELIVERY & FREE GIFT WRAPPINGSAME DAY DISPATCH if ordered before 1pm EROTICA Mini DressSleek, chic, and definitely hot, the EROTICA mini dress is everything you’ve been waiting for. Designed in our premium stretch mesh fabric that sits comfortably against the skin whilst enhancing your silhouette, EROTICA is available in Black and Red and features a built-in corset that can be relied upon to get pulses racing. The model is wearing size S. Why wait for Valentine's Day, Birthday, Anniversary or any other special occasion when you can feel fabulous every single day? Or should we say night? EROTICA dress will put you and your partner on fire!High-quality and excellent craftsmanship for you to feel confident and relaxed allowing you to focus on making your intimate relationship more profound and emotional. BONUSThe receiver won't be disappointed.Shipped in beautiful and discrete packaging.DETAILS Adjustable shoulder straps Built in corsetry Hidden zipper at the back Tight cut for a bodycon fit This dress is everything but basic! Super hotSIZE RECOMMENDATIONSSMALL - best fit UK 6 / 8MEDIUM - best fit UK 8 / 10LARGE - best fit UK 12 / 14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNS ✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-03-14T12:31:04Z
+  Updated: 2026-03-21T12:30:45Z
   Vendor: WILN.com
   Product Type: Dress
   Availability: Available
@@ -271,17 +271,17 @@ Welcome!!! How may I help u ?💋
   - [S](https://vanillavyxinlingerie.myshopify.com/products/erotica?variant=49941633204470)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/IMG_8742.jpg?v=1771211461
-    Price: $49.63 USD
+    Price: $50.01 USD
   - [M](https://vanillavyxinlingerie.myshopify.com/products/erotica?variant=49941633237238)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/IMG_8742.jpg?v=1771211461
-    Price: $49.63 USD
+    Price: $50.01 USD
   - [L](https://vanillavyxinlingerie.myshopify.com/products/erotica?variant=49941633270006)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/IMG_8742.jpg?v=1771211461
-    Price: $49.63 USD
+    Price: $50.01 USD
 - [DEVOTION](https://vanillavyxinlingerie.myshopify.com/products/devotion-2): NEXT DAY DISPATCH! FREE DELIVERY & FREE GIFT WRAPPING SAME DAY DISPATCH if ordered before 1pm DEVOTION Black Teddy Body Piece Romantic Lingerie Set Amaze your partner! This beautiful black body features delicate embroidery flowers and sheer peach outline. The bra is lightly wired, the placements of the embroidery emphasize all the right places. This is a perfect gift for your partner.The most beautiful and romantic floral intimates that are perfect for nights when you want to feel special.High-quality and excellent craftsmanship for you to feel confident and relaxed allowing you to focus on making your intimate relationship more profound and emotional.Your wedding anniversary can be another fantastic occasion to surprise your partner with this romantic lingerie set. The perfect gift for fiancee, gift for wife,gift for girlfriend, gift for husband, gift for boyfriend.DETAILS Structured Soft UnderwiresBody sculpting Hook and Eye Back ClosureMixed mesh detailThongSIZE RECOMMENDATIONSSMALL - best fit UK 6/8MEDIUM - best fit UK 8/10LARGE - best fit UK 12/14LOOK AFTER MEAll of our items have been delicately handcrafted, so we urge you to treat each item with utmost care. Ensure that each item is hand washed and laid flat to dry. Please do not tumble dry.RETURNSPlease note, due to hygienic reasons, we cannot accept returns for lingerie sets.✉ Please feel free to contact us if you have any questions! We are here to help you.
-  Updated: 2026-03-14T12:31:04Z
+  Updated: 2026-03-21T12:30:33Z
   Vendor: Wiln
   Product Type: Lingerie
   Availability: Available
@@ -289,15 +289,15 @@ Welcome!!! How may I help u ?💋
   - [S](https://vanillavyxinlingerie.myshopify.com/products/devotion-2?variant=49941633302774)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_d87a52c0-adbd-464d-bd89-dc8e3fdbfa5f.jpg?v=1771211462
-    Price: $31.76 USD
+    Price: $32.00 USD
   - [M](https://vanillavyxinlingerie.myshopify.com/products/devotion-2?variant=49941633335542)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_d87a52c0-adbd-464d-bd89-dc8e3fdbfa5f.jpg?v=1771211462
-    Price: $31.76 USD
+    Price: $32.00 USD
   - [L](https://vanillavyxinlingerie.myshopify.com/products/devotion-2?variant=49941633368310)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/custom_resized_d87a52c0-adbd-464d-bd89-dc8e3fdbfa5f.jpg?v=1771211462
-    Price: $31.76 USD
+    Price: $32.00 USD
 - [3pcs Set 15314 - XL](https://vanillavyxinlingerie.myshopify.com/products/3pcs-set-15314-xl): 3-piece set, made of stretchy lace and adjustable rubber bands. Closures on the back. The product is packaged in a glossy box with picture.Care instructions: 30 degree hand washColor : blackMaterial : 92% polyamid / 8% elastaneAvailable Size : S, M, L, XLPlease note that images can be similar and we assume no liability for product information.
   Updated: 2026-03-10T19:01:07Z
   Vendor: Grey Velvet
@@ -324,23 +324,23 @@ Welcome!!! How may I help u ?💋
   Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/PA596669_tiopen010.jpg?v=1771211752
   Price: $12.98 USD
 - [schwarzes Straps-Rock 7H698901 XL von 7-Heaven Dessous](https://vanillavyxinlingerie.myshopify.com/products/schwarzes-straps-rock-7h698901-xl-von-7-heaven-dessous): Schwarzer Lack-Rock von 7-Heaven, mit Strumpfhaltern (Metallclips) und eine rückseitigen Reißverschluss. Das Material ist wenig dehnbar. Die Strümpfe (Einwegstrümpfe) sind Teil der Lieferung, jedoch kein Reklamationsgrund, da sie eine freiwillige Gratiszugabe des Herstellers sind. Made in EU! Oberer Umfang : S (70cm), M (74cm), L (78cm), XL (82cm) Länge : S bis XL (31cm) Unterer Umfang : S (88cm), M (94cm), L (100cm), XL (106cm) Der Artikel ist in einer Hochglanzbox verpackt. Pflegehinweis : 30Grad Handwäsche Farbe : schwarz Material : 60% Polyester / 40% Polyurethan erhältliche Größen : S, M, L, XL
-  Updated: 2026-03-14T00:46:20Z
+  Updated: 2026-03-21T00:47:44Z
   Vendor: 7Heaven
   Product Type: Straps-Rock
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/7H698901_Revolver_Rock3.jpg?v=1771211752
   - [S / schwarz](https://vanillavyxinlingerie.myshopify.com/products/schwarzes-straps-rock-7h698901-xl-von-7-heaven-dessous?variant=49941636153590)
     Availability: Available
-    Price: $31.61 USD
+    Price: $31.95 USD
   - [M / schwarz](https://vanillavyxinlingerie.myshopify.com/products/schwarzes-straps-rock-7h698901-xl-von-7-heaven-dessous?variant=49941636186358)
     Availability: Not Available
-    Price: $31.61 USD
+    Price: $31.95 USD
   - [L / schwarz](https://vanillavyxinlingerie.myshopify.com/products/schwarzes-straps-rock-7h698901-xl-von-7-heaven-dessous?variant=49941636219126)
     Availability: Available
-    Price: $31.61 USD
+    Price: $31.95 USD
   - [XL / schwarz](https://vanillavyxinlingerie.myshopify.com/products/schwarzes-straps-rock-7h698901-xl-von-7-heaven-dessous?variant=49941636251894)
     Availability: Available
-    Price: $31.61 USD
+    Price: $31.95 USD
 - [861-PEI-5 Peignoir fuchsia - L/XL](https://vanillavyxinlingerie.myshopify.com/products/861-pei-5-peignoir-fuchsia-lxl): Dressing gown and thong made of shiny fabric and lace.The article is packed in a paper glossy box with image.Care instructions: 30 degree hand washColor : fuchsia/black Material : 90% poyamid / 10% elastaneAvailable Size : S/M, L/XL |size chartPlease note that images can be similar and we assume no liability for product information.
   Updated: 2026-03-10T19:01:05Z
   Vendor: Obsessive
@@ -468,7 +468,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/309872E9B5876CDF1D3DA60D62C5F51C.jpg?v=1771719716
     Price: $29.70 USD
 - [Sensual Transparent Lace Splicing Lingerie with Thong and Thin Sleepwear Bow Backless Skirt Set](https://vanillavyxinlingerie.myshopify.com/products/sensual-transparent-lace-splicing-lingerie-with-thong-and-thin-sleepwear-bow-backless-skirt-set): Role Play: Ball Queen Costume, Bunny Girl CostumeStyle: Uniform Style, Netting StyleFabric Name: LaceMain Fabric Composition: Polyester (Polyester Fiber)Applicable Gender: FemaleColor: PinkSize: S, M, Lunit：CM Size/CM S M L XL Bust 64-88 68-92 72-96 76-104 Waist 60-88 64-92 68-96 72-104 Hip 90-96 94-100 98-104 102-120 Pant Length / / / /
-  Updated: 2026-03-10T19:01:08Z
+  Updated: 2026-03-15T02:48:58Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -486,7 +486,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/08FDEC4E35378D85EC31B1DA97C36F4E.jpg?v=1771719720
     Price: $29.40 USD
 - [Sexy Sheer Mesh Halter Fitted Dress with Thigh-Split](https://vanillavyxinlingerie.myshopify.com/products/sexy-sheer-mesh-halter-fitted-dress-with-thigh-split): Fabric Name: PolyesterStyle: FittedMain Fabric Component: Polyester (Polyester Fiber)Fabric Thickness: ThinColor: Light Green, Black, Red, Pink, Light Purple, Peacock BlueSize: S, M, L, XLBrand: ALXunit:cm Size Bust Size Length (Top) Waist Size Length (Bottoms) S 66 50 56 22 M 70 51 60 23 L 74 52.5 64 24 XL 78 54 68 25 *This data was obtained form manually measuring the product, it may be off by 1-2Cm.
-  Updated: 2026-03-10T19:01:12Z
+  Updated: 2026-03-15T02:48:58Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -588,7 +588,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/403570ACC786956959169FB928353F7A.jpg?v=1771719748
     Price: $27.16 USD
 - [Lace Sexy Romper Sheer Underwear Bodycon Skirt with Thong and Stockings](https://vanillavyxinlingerie.myshopify.com/products/lace-sexy-romper-sheer-underwear-bodycon-skirt-with-thong-and-stockings): Role Play: Ball Queen CostumeStyle: Transparent, Uniform, NettingFabric Name: LaceMain Fabric Composition: Polyester (Polyester)Applicable Gender: FemaleColor: BlackSize: S, M, Lunit：CM Size/CM S M L XL Bust 64-88 68-92 72-96 76-104 Waist 60-88 64-92 68-96 72-104 Hip 90-96 94-100 98-104 102-120 Pant Length / / / /
-  Updated: 2026-03-10T19:01:04Z
+  Updated: 2026-03-15T02:48:58Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -606,7 +606,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/C57673CA77482359FE7C4F716D471297.jpg?v=1771719737
     Price: $30.72 USD
 - [Sexy Temptation Lingerie Lace Transparent Uniform Dress  Nightgown Set](https://vanillavyxinlingerie.myshopify.com/products/sexy-temptation-lingerie-lace-transparent-uniform-dress--nightgown-set): Fabric Name: LaceStyle: SetMain Fabric Composition: Polyester (Polyester)Fabric Thickness: Extra Thick Color: Light BlueSize: S, M, Lunit：cm Size/CM S M L XL Bust 64-88 68-92 72-96 76-104 Waist 60-88 64-92 68-96 72-104 Hip 90-96 94-100 98-104 102-120 Pant Length / / / /
-  Updated: 2026-03-10T19:01:09Z
+  Updated: 2026-03-15T02:48:58Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -624,7 +624,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/669A31893D8E18EA1CE1B293F681AD64.jpg?v=1771719759
     Price: $27.88 USD
 - [Purple Sexy Romper Lace Sheer Underwire Push-Up Bra Shapewear](https://vanillavyxinlingerie.myshopify.com/products/purple-sexy-romper-lace-sheer-underwire-push-up-bra-shapewear): Fabric name: PolyesterFunction: Gather togetherSuitable season: Suitable for all seasonsThickness: Thin versionIs there a buckle: YesColor: Purple, PinkSize: S, M, Lunit：CM Size/CM S M L XL Bust 64-88 68-92 72-96 76-104 Waist 60-88 64-92 68-96 72-104 Hip 90-96 94-100 98-104 102-120 Pant Length / / / /
-  Updated: 2026-03-10T19:01:08Z
+  Updated: 2026-03-15T02:57:32Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -654,7 +654,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/ECCAB1B3D2AD4A3ADEB22795B1CA6698.jpg?v=1771719778
     Price: $31.50 USD
 - [Sexy Bra Set Transparent Mesh Splicing Lace Lingerie Underwear Three-Piece Suit](https://vanillavyxinlingerie.myshopify.com/products/sexy-bra-set-transparent-mesh-splicing-lace-lingerie-underwear-three-piece-suit): Role Play: Cute Girl Type, Witch Game Costume, Ball Queen CostumeStyle: Sheer, MeshFabric Name: PolyesterMain Fabric Composition: Polyester (Polyester)Applicable Gender: FemaleColor: Burgundy, BlackSize: S, M, Lunit：CM Size Upper Bust Lower Bust Pants Waist Cup Height Bra Length Pants Length S 62-88 60-88 64-92 12 41 20.5 M 64-92 64-92 68-96 13 42 21.5 L 68-96 68-96 72-100 14 43 22.5 Note 1: The size chart is specifically designed for this underwear. When you purchase from our store, please check the size chart of each piece of underwear.Note 2: Due to manual measurement, please allow a difference of 2-3 cm. Thank you for your understanding.Note 3: Please choose the size carefully. If you are not sure about the size, you can leave us your measurement information (height, bust, waist, hip).
-  Updated: 2026-03-10T19:01:14Z
+  Updated: 2026-03-15T02:57:32Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -684,7 +684,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/D020DE221151F54AED086E568DB0D405.jpg?v=1771719796
     Price: $32.44 USD
 - [Lingerie Dress with Bra Cups and Beading, Non-Drop European and French Style Sheer Sexy Lingerie Strapless Fitted Dress](https://vanillavyxinlingerie.myshopify.com/products/lingerie-dress-with-bra-cups-and-beading-non-drop-european-and-french-style-sheer-sexy-lingerie-strapless-fitted-dress): Role Play: Ball Queen CostumeStyle: Bodysuit, SheerFabric: LaceApplicable Gender: FemaleColor: Dark BlueSize: S, M, L, XLSize: cm Size Under bust Waist Length Pants waist Pants length S 68 61 54 60 20 M 72 65 55 64 21 L 76 69 56 68 22 XL 80 73 57 72 23
-  Updated: 2026-03-10T19:01:07Z
+  Updated: 2026-03-15T02:57:32Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1610,7 +1610,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/2CDC96CD4B06ADDCA18C1996F76D3419.jpg?v=1772301828
     Price: $16.08 USD
 - [razor in suction cup holder storage hangers machine wall hook sucker towel bath accessories](https://vanillavyxinlingerie.myshopify.com/products/razor-in-suction-cup-holder-storage-hangers-machine-wall-hook-sucker-towel-bath-accessories): 1 pcs
-  Updated: 2026-03-10T19:01:08Z
+  Updated: 2026-03-15T03:02:01Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1660,14 +1660,14 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/BABFC42E06C8B0FA769592BA44A15D5A.jpg?v=1772301878
     Price: $35.54 USD
 - [Women's Pleasure Gel 20ml Women's  Orgasm Enhancement Liquid  Couple Health and  Products](https://vanillavyxinlingerie.myshopify.com/products/womens-pleasure-gel-20ml-womens--orgasm-enhancement-liquid--couple-health-and--products): Color: colorless gelFunction and purpose:  pleasureSpecification: Women's Pleasure Gel 20mlAge: 
-  Updated: 2026-03-10T19:01:10Z
+  Updated: 2026-03-15T03:02:01Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/44B5D427CBA3EBC557B2B040FA4BE754.jpg?v=1772301879
   Price: $11.32 USD
 - [ Lubricant  Lubricant Water-based Banana/lemon/strawberry/grape  Oil Vaginal and Anal Gel  Adults  Product](https://vanillavyxinlingerie.myshopify.com/products/-lubricant-lubricant-water-based-banana-lemon-strawberry-grape--oil-vaginal-and-anal-gel-adults--product): Flavor:Banana/lemon/strawberry/grape flavorContent:25/30/50 mL
-  Updated: 2026-03-10T19:01:10Z
+  Updated: 2026-03-15T03:02:01Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1693,7 +1693,7 @@ Welcome!!! How may I help u ?💋
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/A204CFC29121CB0ECBDBCDD29E9C6116.jpg?v=1772301952
     Price: $2.54 USD
 - [Durex Intense Orgasmic Gel 10ml Lubricant  Drops Strong Enhance Exciter for Women Safe  Toys](https://vanillavyxinlingerie.myshopify.com/products/durex-intense-orgasmic-gel-10ml-lubricant--drops-strong-enhance-exciter-for-women-safe--toys)
-  Updated: 2026-03-10T19:01:08Z
+  Updated: 2026-03-15T03:02:01Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -6262,25 +6262,112 @@ Welcome!!! How may I help u ?💋
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/5bf4e559-5ea0-4ab5-93c4-a3e6c147215d.jpg?v=1773199375
     Price: $25.00 USD
-[List Continued](https://vanillavyxinlingerie.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzA0ODc1OTI1NzUwLCJsYXN0X3ZhbHVlIjoiOTMwNDg3NTkyNTc1MCJ9)
+- [Vanilla Vyxin Lingerie products](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products): Sexy lingerie, lingerie, silk, lace
+  Updated: 2026-03-19T21:12:33Z
+  Vendor: Vanilla Vyxin Lingerie 
+  Product Type: Apparel > Sleepwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0794/1505/0486/files/95482A_56aa56d5-5b68-4497-8f36-53b9eb53564d.jpg?v=1773165684
+  - [Floral](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821123318)
+    Availability: Available
+    Price: $0.00 USD
+  - [Multicolor](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821156086)
+    Availability: Available
+    Price: $0.00 USD
+  - [Rainbow](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821188854)
+    Availability: Available
+    Price: $0.00 USD
+  - [Striped](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821221622)
+    Availability: Available
+    Price: $0.00 USD
+  - [Plaid](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821254390)
+    Availability: Available
+    Price: $0.00 USD
+  - [Camouflage](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821287158)
+    Availability: Available
+    Price: $0.00 USD
+  - [Gold](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821319926)
+    Availability: Available
+    Price: $0.00 USD
+  - [Orange](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821352694)
+    Availability: Available
+    Price: $0.00 USD
+  - [Yellow](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821385462)
+    Availability: Available
+    Price: $0.00 USD
+  - [Dots](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821418230)
+    Availability: Available
+    Price: $0.00 USD
+  - [Checkered](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821450998)
+    Availability: Available
+    Price: $0.00 USD
+  - [Clear](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821483766)
+    Availability: Available
+    Price: $0.00 USD
+  - [Rose gold](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821516534)
+    Availability: Available
+    Price: $0.00 USD
+  - [Purple](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821549302)
+    Availability: Available
+    Price: $0.00 USD
+  - [Bronze](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821582070)
+    Availability: Available
+    Price: $0.00 USD
+  - [Silver](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821614838)
+    Availability: Available
+    Price: $0.00 USD
+  - [Pink](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821647606)
+    Availability: Available
+    Price: $0.00 USD
+  - [Gray](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821680374)
+    Availability: Available
+    Price: $0.00 USD
+  - [Red](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821713142)
+    Availability: Available
+    Price: $0.00 USD
+  - [Green](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821745910)
+    Availability: Available
+    Price: $0.00 USD
+  - [White](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821778678)
+    Availability: Available
+    Price: $0.00 USD
+  - [Blue](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821811446)
+    Availability: Available
+    Price: $0.00 USD
+  - [Brown](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821844214)
+    Availability: Available
+    Price: $0.00 USD
+  - [Beige](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821876982)
+    Availability: Available
+    Price: $0.00 USD
+  - [Black](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821909750)
+    Availability: Available
+    Price: $0.00 USD
+  - [Geometric](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821942518)
+    Availability: Available
+    Price: $0.00 USD
+  - [Navy](https://vanillavyxinlingerie.myshopify.com/products/vanilla-vyxin-lingerie-products?variant=50116821975286)
+    Availability: Available
+    Price: $0.00 USD
+[List Continued](https://vanillavyxinlingerie.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzExNTk5Njg5OTc0LCJsYXN0X3ZhbHVlIjoiOTMxMTU5OTY4OTk3NCJ9)
 
 ## Collections
 
 - [Home page](https://vanillavyxinlingerie.myshopify.com/collections/frontpage)
-  Updated: 2026-03-14T21:00:52Z
+  Updated: 2026-03-21T21:00:33Z
   Total Products: 109
 - [Undergarments example products](https://vanillavyxinlingerie.myshopify.com/collections/undergarments-example-products)
-  Updated: 2026-03-14T21:00:52Z
-  Total Products: 110
+  Updated: 2026-03-21T21:00:33Z
+  Total Products: 106
 - [Clothes](https://vanillavyxinlingerie.myshopify.com/collections/clothes)
-  Updated: 2026-03-14T12:31:05Z
-  Total Products: 15
+  Updated: 2026-03-21T12:30:24Z
+  Total Products: 16
 - [Clothing](https://vanillavyxinlingerie.myshopify.com/collections/clothing)
-  Updated: 2026-03-14T21:00:52Z
+  Updated: 2026-03-21T21:00:33Z
   Total Products: 131
-- [](https://vanillavyxinlingerie.myshopify.com/collections/)
-  Updated: 2026-03-14T21:00:52Z
-  Total Products: 127
+- [](https://vanillavyxinlingerie.myshopify.com/collections/): Vanilla Vyxin Lingerie, and other needed products to make you feel good like you should💋
+  Updated: 2026-03-21T21:00:33Z
+  Total Products: 188
 - [Video](https://vanillavyxinlingerie.myshopify.com/collections/video)
   Updated: 2026-03-04T21:16:09Z
   Total Products: 1
@@ -6300,19 +6387,19 @@ Welcome!!! How may I help u ?💋
   Updated: 2026-03-11T02:56:17Z
   Total Products: 12
 - [Apparel & Accessories](https://vanillavyxinlingerie.myshopify.com/collections/apparel-accessories)
-  Updated: 2026-03-14T21:00:52Z
+  Updated: 2026-03-21T21:00:33Z
   Total Products: 132
 - [Clothing Accessories](https://vanillavyxinlingerie.myshopify.com/collections/clothing-accessories)
-  Updated: 2026-03-14T21:00:52Z
+  Updated: 2026-03-21T21:00:33Z
   Total Products: 119
 - [Pet Supplies](https://vanillavyxinlingerie.myshopify.com/collections/pet-supplies)
   Updated: 2026-03-04T21:16:14Z
   Total Products: 7
 - [Cosmetic & Toiletry Bags](https://vanillavyxinlingerie.myshopify.com/collections/cosmetic-toiletry-bags)
-  Updated: 2026-03-14T21:00:52Z
+  Updated: 2026-03-21T21:00:33Z
   Total Products: 123
 - [Health & Beauty](https://vanillavyxinlingerie.myshopify.com/collections/health-beauty)
-  Updated: 2026-03-14T21:00:52Z
+  Updated: 2026-03-21T21:00:33Z
   Total Products: 128
 - [Health Care](https://vanillavyxinlingerie.myshopify.com/collections/health-care)
   Updated: 2026-03-07T13:14:42Z
@@ -6320,9 +6407,6 @@ Welcome!!! How may I help u ?💋
 - [Sporting Goods](https://vanillavyxinlingerie.myshopify.com/collections/sporting-goods)
   Updated: 2026-03-04T21:16:12Z
   Total Products: 1
-- [Animals & Pet Supplies](https://vanillavyxinlingerie.myshopify.com/collections/animals-pet-supplies)
-  Updated: 2026-03-04T21:16:42Z
-  Total Products: 36
 - [Cameras & Optics](https://vanillavyxinlingerie.myshopify.com/collections/cameras-optics)
   Updated: 2026-03-04T21:16:14Z
   Total Products: 1
@@ -6354,8 +6438,8 @@ Welcome!!! How may I help u ?💋
   Updated: 2026-03-07T11:31:34Z
   Total Products: 3
 - [Vanilla Vyxin Lingerie](https://vanillavyxinlingerie.myshopify.com/collections/vanilla-vyxin-lingerie): Surrender to Vanilla Vyxin Lingerie… where molten silk kisses your skin, teasing every secret curve with wicked temptation. Sheer, sinful whispers of lace that beg to be peeled away, igniting a throbbing fire of raw, aching desire. Slip into sultry nights of pure, dripping ecstasy—your wildest vixen unleashed. Come devour me now… shop and let me ruin you for anything 💋
-  Updated: 2026-03-07T16:04:26Z
-  Total Products: 3
+  Updated: 2026-03-18T09:05:48Z
+  Total Products: 4
 
 ## Store Pages
 
