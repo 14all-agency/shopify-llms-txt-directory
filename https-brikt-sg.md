@@ -6,7 +6,7 @@
 - Timezone: Asia/Singapore
 - Created At: 2025-12-30T03:00:54Z
 - Contact Email: goomesinternational@gmail.com
-- Updated At: 2026-03-14T00:00:34.175Z
+- Updated At: 2026-03-22T00:00:36.398Z
 
 Brik't Singapore is a local brand started by a group of friends that were tired of overly sweet or processed tea options, and so they set out to create something better!
 
@@ -15,42 +15,42 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
 ## Products
 
 - [Strawberry Peach Oolong Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-strawberry-peach-oolong-freeze-dried-fruit-tea-bricks-7-pack-low-calories)
-  Updated: 2026-03-03T05:58:35Z
+  Updated: 2026-03-19T06:39:58Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Strawberry_1_a35a4e2a-ed31-454c-a1cb-7d9488a31d2f.webp?v=1770795110
   Price: $18.90 SGD
 - [[BRIK'T OFFICIAL] Orange Pineapple Freeze-Dried Fruit Tea Bricks 7-Pack](https://brikt.sg/products/bundle--brikt-official-orange-pineapple-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient): [Bundle ] [BRIK'T OFFICIAL] Orange Pineapple Freeze-Dried Fruit Tea Bricks 7-Pack「Low Calories & Convenient」
-  Updated: 2026-03-03T05:58:35Z
+  Updated: 2026-03-19T06:39:58Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Orange_1_1993f66e-7980-479d-9658-eb6f3dd82d29.webp?v=1770795137
   Price: $18.90 SGD
 - [Coconut Mango Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-coconut-mango-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient)
-  Updated: 2026-03-03T05:58:35Z
+  Updated: 2026-03-19T06:39:59Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Coconut_1_98d7284d-14af-4f73-a56c-50c841984fcf.webp?v=1770795102
   Price: $18.90 SGD
 - [Jasmine Grapefruit (7 Servings)](https://brikt.sg/products/bundle--brikt-official-jasmine-grapefruit-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient)
-  Updated: 2026-03-03T05:58:36Z
+  Updated: 2026-03-19T06:39:59Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Jasmine_1_724fdf49-2328-477f-9ff5-9ea4aa8bbb57.webp?v=1770795074
   Price: $18.90 SGD
 - [Variety Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-variety-box-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient)
-  Updated: 2026-03-09T06:45:46Z
+  Updated: 2026-03-19T06:39:59Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Variety_1_9039d47f-ed40-4832-a431-ddc82be12096.webp?v=1770795080
   Price: $18.90 SGD
 - [Single Test Pack (Randomly Picked)](https://brikt.sg/products/brikt-official-freeze-dried-fruit-tea-bricks-1-pack-randomly-picked-convenient-portable-real-fruit-fiber-1)
-  Updated: 2026-03-03T05:58:36Z
+  Updated: 2026-03-19T06:39:59Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
@@ -68,7 +68,7 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
     Availability: Available
     Price: $4.00 SGD
 - [Brikky Plushie Keychain](https://brikt.sg/products/brikky-plushie-keychain)
-  Updated: 2026-03-03T05:58:36Z
+  Updated: 2026-03-19T06:40:00Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
@@ -99,16 +99,16 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
 ## Collections
 
 - [Freeze-Dried Fruit Teas](https://brikt.sg/collections/all-products): Check out all our delicious options!
-  Updated: 2026-03-09T11:22:02Z
+  Updated: 2026-03-19T06:50:39Z
   Total Products: 6
 - [Savings Bundle Deals](https://brikt.sg/collections/bundle-deals)
-  Updated: 2026-03-03T05:58:35Z
+  Updated: 2026-03-19T06:50:39Z
   Total Products: 6
 - [Merchandise](https://brikt.sg/collections/merchandise)
-  Updated: 2026-03-03T05:58:35Z
+  Updated: 2026-03-19T06:50:39Z
   Total Products: 1
 - [All Products](https://brikt.sg/collections/all-products-1)
-  Updated: 2026-03-09T11:22:02Z
+  Updated: 2026-03-19T06:50:39Z
   Total Products: 13
 
 ## Blogs
@@ -280,6 +280,17 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
     Updated: 2026-03-11T00:13:24Z
     Author: Brik't Singapore
     Tags: advantages, brik't, culinary tools, elevate cooking experience, innovative design, kitchenware, quality kitchen products, unique features
+  - [The Differences Between Freeze-Dried and Fresh Fruit Tea](https://brikt.sg/blogs/our-blogs/the-differences-between-freeze-dried-and-fresh-fruit-tea): The Differences Between Freeze-Dried and Fresh Fruit Tea
+    Updated: 2026-03-16T00:11:41Z
+    Author: Brik't Singapore
+  - [Transform Your Space with Brik't Home Decor Unveiling Craftsmanship and Style](https://brikt.sg/blogs/our-blogs/transform-your-space-with-brikt-home-decor-unveiling-craftsmanship-and-style): Transform Your Space with Brik't Home Decor Unveiling Craftsmanship and Style
+    Updated: 2026-03-18T00:12:37Z
+    Author: Brik't Singapore
+    Tags: brik't, brik't home products, craftsmanship, decor, home styling, interior design, transform your space ideas, unique decor solutions
+  - [DUOLINGO OF TEA: New Singaporean Freeze-Dried Tea Brand Crashes into the Scene with a Cute Mascot](https://brikt.sg/blogs/our-blogs/duolingo-of-tea-new-singaporean-freeze-dried-tea-brand-crashes-into-the-scene-with-a-cute-mascot)
+    Updated: 2026-03-18T01:35:03Z
+    Author: Qin Yicheng
+    Tags: advantages, benefits, brik't, brik't home products, brikky plushie, collectable keychains for adults, cooking, craftsmanship, cuisine, cute gifts for friends, delicious, delicious recipe ideas, delicious recipes ideas, delightful meal ideas
 - [Recipes](https://brikt.sg/blogs/recipes)
   - [Miss Perilla Peach](https://brikt.sg/blogs/recipes/miss-perilla-peach)
     Updated: 2026-01-20T05:01:58Z
@@ -309,6 +320,10 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
     Updated: 2026-03-13T10:02:29Z
     Author: Brik't Singapore
     Tags: cooking, cuisine, delicious, delicious recipe ideas, easy recipes, family, family gatherings, friends, party planning, recipes, refreshing, refreshing summer recipes
+  - [A Comparative Guide to Delicious Recipes Your Friends and Family Will Love](https://brikt.sg/blogs/recipes/a-comparative-guide-to-delicious-recipes-your-friends-and-family-will-love): A Comparative Guide to Delicious Recipes Your Friends and Family Will Love
+    Updated: 2026-03-20T10:02:24Z
+    Author: Brik't Singapore
+    Tags: best dinner ideas, comfort food recipes, cooking, delicious, delicious recipes, easy recipes, family, family meals, food, friends, recipes, refreshing
 
 ## Store Pages
 
