@@ -10,7 +10,7 @@ The platform allows customers to browse different artist collections, explore fr
 - Timezone: Europe/London
 - Created At: 2025-10-25T13:47:11Z
 - Contact Email: info@maison-abstract.com
-- Updated At: 2026-03-14T11:08:48.086Z
+- Updated At: 2026-03-22T00:00:35.744Z
 
 ## Products
 
@@ -24919,8 +24919,8 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-24T11:02:31Z
   Total Products: 0
 - [Art posters - Maison Abstract](https://maison-abstract.com/collections/art-posters): Discover our Art Posters Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each poster captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art posters bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-02-24T11:02:31Z
-  Total Products: 72
+  Updated: 2026-03-18T09:28:34Z
+  Total Products: 74
 - [Piet Mondrian - Maison Abstract](https://maison-abstract.com/collections/piet-mondrian): Explore our Piet Mondrian Collection, a tribute to one of the pioneers of abstract art. This collection showcases Mondrian’s iconic geometric compositions — bold black lines, primary colors, and perfect balance between form and space. Each poster celebrates his revolutionary vision that transformed modern art and design. Printed on premium, museum-quality paper, these pieces bring timeless elegance and sophistication to any interior. Ideal for art lovers, modernists, and minimalists alike, our Mondrian Collection adds structure, energy, and harmony to your walls. Experience the beauty of simplicity and the power of abstraction in every piece. - Maison Abstract
   Updated: 2026-02-15T01:47:08Z
   Total Products: 0
@@ -24988,8 +24988,8 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:12Z
   Total Products: 0
 - [Framed Matte Canvas - Maison Abstract](https://maison-abstract.com/collections/framed-matte-canvas): Discover our Framed Art Matte Canvas Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each canvas captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art canvas bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-03-14T10:47:54Z
-  Total Products: 244
+  Updated: 2026-03-20T18:27:30Z
+  Total Products: 252
 - [Henri Matisse - Maison Abstract](https://maison-abstract.com/collections/henri-matisse): Henri Matisse (1869–1954) was one of the most influential artists of the 20th century, celebrated for his bold colour, expressive simplicity and groundbreaking role in Fauvism. Throughout his career, Matisse sought to create art that conveyed joy, balance and emotional clarity. His paintings, drawings and cut-outs are instantly recognisable for their vibrant palettes, fluid lines and harmonious compositions. Matisse believed that art should offer comfort and beauty, a philosophy reflected across his lifelong body of work. Today, his creations continue to inspire modern interiors, making Matisse-themed wall art a timeless choice for collectors and design-focused homes. - Maison Abstract
   Updated: 2026-02-15T01:47:13Z
   Total Products: 0
@@ -25006,11 +25006,11 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:48Z
   Total Products: 0
 - [Framed Posters - Maison Abstract](https://maison-abstract.com/collections/framed-posters): Discover our Framed Art Posters Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each poster captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art posters bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-03-14T10:51:37Z
-  Total Products: 168
+  Updated: 2026-03-20T18:30:19Z
+  Total Products: 176
 - [Matte Canvas - Maison Abstract](https://maison-abstract.com/collections/matte-canvas): Discover our Matte Canvas Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each canvas captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art canvas bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-03-14T10:50:01Z
-  Total Products: 249
+  Updated: 2026-03-20T18:29:13Z
+  Total Products: 257
 - [Natalija Miladinović - Maison Abstract](https://maison-abstract.com/collections/natalija-miladinovic): Natalija Miladinović is a Serbian contemporary artist known for her emotionally charged abstracts and symbolic storytelling. Her work explores inner strength, intuition and personal transformation, blending bold colour palettes with expressive, fluid brushwork. Miladinović’s paintings often reflect the invisible emotional worlds that shape human experience, creating art that feels both powerful and deeply introspective. Influenced by European modernism and her own cultural heritage, she crafts pieces that radiate movement, energy and spiritual depth. Perfect for modern interiors, her artworks bring warmth, inspiration and a striking contemporary elegance to any space, making them ideal for collectors seeking meaningful visual expression. - Maison Abstract
   Updated: 2026-02-15T01:47:13Z
   Total Products: 0
@@ -25156,20 +25156,20 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-03-12T09:51:29Z
   Total Products: 34
 - [Portraits - Maison Abstract](https://maison-abstract.com/collections/portraits): Abstract Portraits is a striking collection that reimagines the human form through bold shapes, expressive lines, and layered colour. Rather than focusing on realistic detail, these artworks capture mood, emotion, and identity in a modern, artistic way.
-  Updated: 2026-03-14T10:51:37Z
-  Total Products: 58
+  Updated: 2026-03-17T21:02:56Z
+  Total Products: 65
 - [Landscape - Maison Abstract](https://maison-abstract.com/collections/landscape): Abstract Landscape is a modern exploration of nature, expressed through flowing forms, layered textures, and expressive colour. Rather than depicting a specific place, the artwork captures the feeling of open horizons, shifting light, and natural movement. Subtle blends and bold contrasts create depth and atmosphere, inviting the viewer to interpret the scene in their own way.
   Updated: 2026-03-05T19:57:31Z
   Total Products: 27
 - [Everything Else- Maison Abstract](https://maison-abstract.com/collections/everything-else): Abstract Everything Else is a diverse collection that celebrates creativity without boundaries. Bringing together unexpected forms, textures, and colour combinations, these artworks explore ideas beyond traditional themes.
-  Updated: 2026-02-24T11:02:31Z
-  Total Products: 14
+  Updated: 2026-03-20T18:30:19Z
+  Total Products: 15
 - [Cars - Maison Abstract](https://maison-abstract.com/collections/cars): - Maison Abstract
   Updated: 2026-02-24T11:02:31Z
   Total Products: 8
 - [Canvas-Animals - Maison Abstract](https://maison-abstract.com/collections/canvas-animals): - Maison Abstract
-  Updated: 2026-03-08T20:41:16Z
-  Total Products: 12
+  Updated: 2026-03-17T20:47:17Z
+  Total Products: 13
 - [Canvas-Cars - Maison Abstract](https://maison-abstract.com/collections/canvas-cars): - Maison Abstract
   Updated: 2026-02-24T11:02:32Z
   Total Products: 10
@@ -25180,14 +25180,14 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-03-05T19:56:04Z
   Total Products: 30
 - [Canvas-Portraits - Maison Abstract](https://maison-abstract.com/collections/canvas-portraits): - Maison Abstract
-  Updated: 2026-03-14T10:50:01Z
-  Total Products: 62
+  Updated: 2026-03-17T20:51:05Z
+  Total Products: 68
 - [Canvas-Abstract - Maison Abstract](https://maison-abstract.com/collections/canvas-abstract): - Maison Abstract
-  Updated: 2026-02-25T14:08:06Z
-  Total Products: 28
+  Updated: 2026-03-20T18:29:13Z
+  Total Products: 29
 - [Framed-Canvas-Animals - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-animals): - Maison Abstract
-  Updated: 2026-03-08T20:38:00Z
-  Total Products: 12
+  Updated: 2026-03-17T20:45:38Z
+  Total Products: 13
 - [Framed-Canvas-Cars - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-cars): - Maison Abstract
   Updated: 2026-02-24T11:02:32Z
   Total Products: 10
@@ -25198,14 +25198,14 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-03-05T19:54:18Z
   Total Products: 30
 - [Framed-Canvas-Portraits - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-portraits): - Maison Abstract
-  Updated: 2026-03-14T10:47:54Z
-  Total Products: 64
+  Updated: 2026-03-17T21:02:56Z
+  Total Products: 69
 - [Framed-Canvas-Abstract - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-abstract): - Maison Abstract
-  Updated: 2026-02-25T13:49:27Z
-  Total Products: 30
+  Updated: 2026-03-20T18:27:30Z
+  Total Products: 31
 - [Framed-Print-Animals - Maison Abstract](https://maison-abstract.com/collections/framed-print-animals): - Maison Abstract
-  Updated: 2026-03-08T20:46:02Z
-  Total Products: 8
+  Updated: 2026-03-17T20:48:39Z
+  Total Products: 9
 - [Posters - Maison Abstract](https://maison-abstract.com/collections/posters): - Maison Abstract
   Updated: 2026-03-08T11:00:24Z
   Total Products: 19
