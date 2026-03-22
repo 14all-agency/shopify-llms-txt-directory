@@ -6,14 +6,14 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-26T02:57:48Z
 - Contact Email: support@hopscotchclothing.com
-- Updated At: 2026-03-15T00:00:37.411Z
+- Updated At: 2026-03-22T00:00:39.419Z
 
 At Hopscotch Clothing design kids' clothing with fewer seams than any other kids clothing brand, creating ultra-comfortable pieces that move better and look cooler.
 
 ## Products
 
 - [Terry Shorts - Oatmeal Beige](https://hopscotchclothing.com/products/terry-shorts): • Constructed entirely from cotton, using terry cotton for a more year round breathable feel.• True to age• Seamless Design; without side leg or mid-rise seams• Slit style pockets for a minimalistic look.• Elastic waistband with functional drawstring• Above the knee, baggy style fit with plenty crotch space for diapers/mobility.
-  Updated: 2026-03-02T06:18:17Z
+  Updated: 2026-03-21T16:01:16Z
   Vendor: Hopscotch
   Product Type: 
   Availability: Available
@@ -31,7 +31,7 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Availability: Available
     Price: $10.00 USD
 - [Wide Leg Fleece - Oatmeal Beige](https://hopscotchclothing.com/products/wide-leg-fleece-beige): • Constructed entirely from cotton, using cotton fleece for added warmth.• True to age• Seamless Design; without side leg or mid-rise seams• Slit style pockets for a minimalistic look.• Elastic waist band with functional hidden drawstring• Oversized, wide leg style fit with ample leg openings for maximum style & mobility.
-  Updated: 2026-03-04T19:30:26Z
+  Updated: 2026-03-17T22:14:37Z
   Vendor: Hopscotch
   Product Type: 
   Availability: Available
@@ -103,7 +103,7 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Availability: Not Available
     Price: $10.00 USD
 - [Wide Leg Fleece - Toffee Brown](https://hopscotchclothing.com/products/wide-leg-fleece-brown): • Constructed entirely from cotton, using cotton fleece for added warmth.• True to age• Seamless Design; without side leg or mid-rise seams• Slit style pockets for a minimalistic look.• Elastic waist band with functional hidden drawstring• Oversized, wide leg style fit with ample leg openings for maximum style & mobility.
-  Updated: 2026-03-01T00:32:32Z
+  Updated: 2026-03-16T19:22:07Z
   Vendor: Hopscotch
   Product Type: 
   Availability: Available
@@ -139,7 +139,7 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Availability: Not Available
     Price: $10.00 USD
 - [No Seam Hoodie - Toffee Brown](https://hopscotchclothing.com/products/no-seam-hoodie-brown): • Constructed entirely from cotton, using cotton fleece for added warmth.• Runs big, size down• Seamless Design; without armhole or shoulder seams• Oversized, box style fit with ample neck and arm openings for easy dressing
-  Updated: 2026-03-12T18:43:47Z
+  Updated: 2026-03-16T19:22:17Z
   Vendor: Hopscotch
   Product Type: 
   Availability: Available
@@ -175,13 +175,13 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Availability: Available
     Price: $10.00 USD
 - [No Seam Tee - Dusty Rose](https://hopscotchclothing.com/products/no-seam-tee): • Constructed entirely from cotton• True to age• Seamless Design; without armhole or shoulder seams that allow for a unrestricted feel• Oversized, box style fit with ample arm openings for easy dressing
-  Updated: 2026-03-12T18:43:47Z
+  Updated: 2026-03-17T22:12:18Z
   Vendor: Hopscotch
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0692/7895/7742/files/17_81bcbba6-4f46-472d-a4fe-c6c12c36368b.png?v=1769310318
   - [2](https://hopscotchclothing.com/products/no-seam-tee?variant=47382444507310)
-    Availability: Not Available
+    Availability: Available
     Price: $10.00 USD
   - [3](https://hopscotchclothing.com/products/no-seam-tee?variant=47382444540078)
     Availability: Not Available
@@ -193,7 +193,7 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Availability: Not Available
     Price: $10.00 USD
 - [No Seam Hoodie - Dusty Rose](https://hopscotchclothing.com/products/no-seam-hoodie-dusty-rose): • Constructed entirely from cotton, using cotton fleece for added warmth.• Runs big, size down• Seamless Design; without armhole or shoulder seams• Oversized, box style fit with ample neck and arm openings for easy dressing
-  Updated: 2026-03-02T06:18:22Z
+  Updated: 2026-03-21T15:54:00Z
   Vendor: Hopscotch
   Product Type: 
   Availability: Available
@@ -312,6 +312,18 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Author: Admin
   - [How to Style Unisex Kids Outfits Daily](https://hopscotchclothing.com/blogs/news/how-to-style-unisex-kids-outfits-daily): Learn how to style unisex kids outfits daily with simple layers, modern color pairings, and versatile staples that work harder every day.
     Updated: 2026-03-13T02:10:41Z
+    Author: Admin
+  - [Top Kids Clothing for Sensory Comfort](https://hopscotchclothing.com/blogs/news/top-kids-clothing-for-sensory-comfort): Find top kids clothing for sensory comfort with soft fabrics, minimal seams, easy fits, and simple wardrobe picks that make daily dressing calmer.
+    Updated: 2026-03-15T02:00:26Z
+    Author: Admin
+  - [What Affordable Kids Clothes Should Be](https://hopscotchclothing.com/blogs/news/what-affordable-kids-clothes-should-be): Afforable kids clothes should last, mix well, and feel good. Here's what smart parents should expect from everyday pieces at a fair price.
+    Updated: 2026-03-17T01:45:48Z
+    Author: Admin
+  - [Minimal Seam Toddler Clothes, Sensory Friendly](https://hopscotchclothing.com/blogs/news/minimal-seam-toddler-clothes-sensory-friendly): Minimal Seam Toddler Clothes, Sensory Friendly
+    Updated: 2026-03-19T01:50:40Z
+    Author: Admin
+  - [100% Cotton for Kids: What Matters Most](https://hopscotchclothing.com/blogs/news/100-cotton-for-kids-what-matters-most): 100% Cotton for Kids: What Matters Most
+    Updated: 2026-03-21T01:55:40Z
     Author: Admin
 
 ## Store Pages
