@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-05-26T13:42:22Z
 - Contact Email: info@jumbogym.nl
-- Updated At: 2026-03-15T00:00:41.587Z
+- Updated At: 2026-03-23T00:00:43.130Z
 
 ## Products
 
@@ -243,7 +243,7 @@
     Availability: Available
     Price: € 59,99 EUR
 - [Tusk Trail Socks comfortabele sportsokken](https://jumbogym.nl/products/jumbogym-sokken): De Tusk Trail Socks, perfect voor sportief of casual gebruik. speciaal ontworpen sportsokken bieden ondersteuning dankzij hun ademende en elastische structuur
-  Updated: 2026-02-25T20:44:59Z
+  Updated: 2026-03-17T13:46:07Z
   Vendor: JumboGymClothing
   Product Type: 
   Availability: Available
@@ -655,7 +655,7 @@
 ## Collections
 
 - [JumboGym collectie](https://jumbogym.nl/collections/heren-collectie-b-w)
-  Updated: 2026-02-26T12:32:37Z
+  Updated: 2026-03-18T11:26:56Z
   Total Products: 14
 - [JG Herdline Collection](https://jumbogym.nl/collections/mannen): Een knipoog naar het sociale karakter van olifanten en een stoere collectie
   Updated: 2026-01-18T12:20:37Z
@@ -664,13 +664,13 @@
   Updated: 2026-02-22T14:22:49Z
   Total Products: 6
 - [JG Accessoires](https://jumbogym.nl/collections/jg-accessoires)
-  Updated: 2026-03-13T11:10:55Z
+  Updated: 2026-03-18T11:26:56Z
   Total Products: 3
 - [JG Flexcollection](https://jumbogym.nl/collections/jg-flexcollection)
   Updated: 2026-02-17T20:19:30Z
   Total Products: 7
 - [Jumbo's favorieten](https://jumbogym.nl/collections/jumbos-favorieten): Onze favorieten zijn niet alleen stijlvol en comfortabel, maar ook duurzaam geproduceerd. Met elk shirt steun je de kracht en doorzettingskracht van de olifant hét JumboGym.
-  Updated: 2026-03-13T11:03:20Z
+  Updated: 2026-03-18T11:26:56Z
   Total Products: 6
 - [Kerstdeals 1.-](https://jumbogym.nl/collections/black-friday-deals)
   Updated: 2025-12-15T19:45:50Z
@@ -700,66 +700,10 @@
   - [Over Pijke](https://jumbogym.nl/blogs/wie-zijn-wij/klein-stukje-over-pijke)
     Updated: 2024-08-27T14:49:58Z
     Author: Jumbo Gym
-  - [Explore Durable Unisex Gym Kleding for Every Active Lifestyle](https://jumbogym.nl/blogs/wie-zijn-wij/explore-durable-unisex-gym-kleding-for-every-active-lifestyle): Explore Durable Unisex Gym Kleding for Every Active Lifestyle
-    Updated: 2026-02-09T19:59:52Z
+  - [Elevate Your Gym Experience with Biologisch Katoen Sportshirt](https://jumbogym.nl/blogs/wie-zijn-wij/elevate-your-gym-experience-with-biologisch-katoen-sportshirt): Elevate Your Gym Experience with Biologisch Katoen Sportshirt
+    Updated: 2026-03-22T08:02:06Z
     Author: Team JumboGym
-    Tags: active, biologisch katoen sportshirt, durable clothing, duurzame sportkleding, eco-friendly apparel, gym short heren, gym wear, kleding voor krachttraining, long-lasting fitness gear, performance gym clothing, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainable, unisex gym kleding, unisex sportswear
-  - [Discover Eco-Friendly Benefits of Biologisch Katoen Sportshirt for Active Lifestyles](https://jumbogym.nl/blogs/wie-zijn-wij/discover-eco-friendly-benefits-of-biologisch-katoen-sportshirt-for-active-lifestyles): Discover Eco-Friendly Benefits of Biologisch Katoen Sportshirt for Active Lifestyles
-    Updated: 2026-02-10T08:05:47Z
-    Author: Team JumboGym
-    Tags: active, benefits of organic shirts, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly, environmentally friendly workout gear, green clothing, gym short heren, kleding voor krachttraining, organic cotton, sport hoodie biologisch katoen, sportlegging seamless, sports apparel, sportswear nederland, sustainable, unisex gym kleding
-  - [The Best Durable Unisex Gym Kleding for Power Workouts in Sportswear Nederland](https://jumbogym.nl/blogs/wie-zijn-wij/the-best-durable-unisex-gym-kleding-for-power-workouts-in-sportswear-nederland): The Best Durable Unisex Gym Kleding for Power Workouts in Sportswear Nederland
-    Updated: 2026-02-12T08:04:46Z
-    Author: Team JumboGym
-    Tags: best durable sports attire, biologisch katoen sportshirt, durable workout, duurzame sportkleding, eco-friendly athletic clothes, gym, gym short heren, kleding voor krachttraining, power workouts, sport hoodie biologisch katoen, sportlegging seamless, sportswear, sportswear nederland, sustainable, unisex clothing, unisex gym kleding
-  - [Choosing the Right Kleding voor Krachttraining for Optimized Performance](https://jumbogym.nl/blogs/wie-zijn-wij/choosing-the-right-kleding-voor-krachttraining-for-optimized-performance): Choosing the Right Kleding voor Krachttraining for Optimized Performance
-    Updated: 2026-02-15T08:01:23Z
-    Author: Team JumboGym
-    Tags: apparel, best clothing for weightlifting, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly material, fitness, gym short heren, kleding voor krachttraining, performance-focused athletic wear, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, strength training, sustainable, unisex gym kleding, workout clothes
-  - [Embrace Seamless Sportlegging for Ultimate Comfort and Style at the Gym](https://jumbogym.nl/blogs/wie-zijn-wij/embrace-seamless-sportlegging-for-ultimate-comfort-and-style-at-the-gym): Embrace Seamless Sportlegging for Ultimate Comfort and Style at the Gym
-    Updated: 2026-02-17T08:05:26Z
-    Author: Team JumboGym
-    Tags: activewear, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly fitness, gym comfort, gym short heren, kleding voor krachttraining, leggings, seamless sportswear, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, stylish workout clothing, sustainable, sustainable athletic apparel, unisex gym kleding
-  - [Experience Sustainable Sportswear Nederland with Sport Hoodie Biologisch Katoen](https://jumbogym.nl/blogs/wie-zijn-wij/experience-sustainable-sportswear-nederland-with-sport-hoodie-biologisch-katoen): Experience Sustainable Sportswear Nederland with Sport Hoodie Biologisch Katoen
-    Updated: 2026-02-19T08:04:16Z
-    Author: Team JumboGym
-    Tags: biologisch katoen sportshirt, comfortable athletic wear, duurzame sportkleding, eco-friendly fashion, environmental impact sports gear, gym short heren, hoodie, kleding voor krachttraining, organic cotton, sport hoodie biologisch katoen, sportlegging seamless, sportswear, sportswear nederland, sustainable, sustainable clothing, unisex gym kleding
-  - [Find Your Perfect Gym Short Heren for Comfortable Krachttraining](https://jumbogym.nl/blogs/wie-zijn-wij/find-your-perfect-gym-short-heren-for-comfortable-krachttraining): Find Your Perfect Gym Short Heren for Comfortable Krachttraining
-    Updated: 2026-02-22T08:01:10Z
-    Author: Team JumboGym
-    Tags: best gym shorts heren, biologisch katoen sportshirt, comfortable sports apparel, duurzame sportkleding, eco-friendly gym, fitness, gym short heren, gym wear, kleding voor krachttraining, shorts, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainable, unisex gym kleding, workout clothing
-  - [Why Sportswear Nederland is Leading in Sustainable Clothing Innovation](https://jumbogym.nl/blogs/wie-zijn-wij/why-sportswear-nederland-is-leading-in-sustainable-clothing-innovation): Why Sportswear Nederland is Leading in Sustainable Clothing Innovation
-    Updated: 2026-02-24T08:05:18Z
-    Author: Team JumboGym
-    Tags: athletic wear, best sustainable sportswear brands, biologisch katoen sportshirt, clothing, duurzame sportkleding, eco-friendly apparel, gym short heren, innovative clothing materials, kleding voor krachttraining, sport hoodie biologisch katoen, sportlegging seamless, sportswear, sportswear nederland, sustainability, sustainable fashion, unisex gym kleding
-  - [Ultimate Comfort: Explore Sport Hoodie Biologisch Katoen for Gym Sessions](https://jumbogym.nl/blogs/wie-zijn-wij/ultimate-comfort-explore-sport-hoodie-biologisch-katoen-for-gym-sessions): Ultimate Comfort: Explore Sport Hoodie Biologisch Katoen for Gym Sessions
-    Updated: 2026-02-26T08:06:00Z
-    Author: Team JumboGym
-    Tags: athletic apparel, best organic hoodies for exercise, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly, gym hoodie, gym short heren, kleding voor krachttraining, organic, sport clothing, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainable, top eco-friendly sportswear options, unisex gym kleding
-  - [How Unisex Gym Kleding Enhances Your Athletic Performance](https://jumbogym.nl/blogs/wie-zijn-wij/how-unisex-gym-kleding-enhances-your-athletic-performance): How Unisex Gym Kleding Enhances Your Athletic Performance
-    Updated: 2026-03-01T08:01:55Z
-    Author: Team JumboGym
-    Tags: apparel, athletic clothing, benefits of sustainable clothing, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly sports, fitness, gym short heren, high-performance workout wear, kleding voor krachttraining, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainable, unisex gym, unisex gym kleding
-  - [Spotlight on Seamless Sportlegging: A Must-Have for Every Workout Enthusiast](https://jumbogym.nl/blogs/wie-zijn-wij/spotlight-on-seamless-sportlegging-a-must-have-for-every-workout-enthusiast): Spotlight on Seamless Sportlegging: A Must-Have for Every Workout Enthusiast
-    Updated: 2026-03-03T08:06:42Z
-    Author: Team JumboGym
-    Tags: activewear, benefits of sustainable sportswear, best seamless leggings for workouts, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly apparel, gym short heren, kleding voor krachttraining, leggings, seamless sportlegging, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainable, unisex gym kleding, workout clothing
-  - [Biologisch Katoen Sportshirt: A Key to Eco-Friendly Gym Sessions](https://jumbogym.nl/blogs/wie-zijn-wij/biologisch-katoen-sportshirt-a-key-to-eco-friendly-gym-sessions): Biologisch Katoen Sportshirt: A Key to Eco-Friendly Gym Sessions
-    Updated: 2026-03-05T08:04:05Z
-    Author: Team JumboGym
-    Tags: biodegradable cotton fitness shirts, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly, environmentally friendly sportswear, gym apparel, gym short heren, kleding voor krachttraining, organic, sport hoodie biologisch katoen, sportlegging seamless, sports clothing, sportswear nederland, sustainable, unisex gym kleding, workout shirts
-  - [Sustainable Sportswear Nederland: Choose Best Kleding voor Krachttraining](https://jumbogym.nl/blogs/wie-zijn-wij/sustainable-sportswear-nederland-choose-best-kleding-voor-krachttraining): Sustainable Sportswear Nederland: Choose Best Kleding voor Krachttraining
-    Updated: 2026-03-08T08:02:09Z
-    Author: Team JumboGym
-    Tags: benefits of sustainable fitness clothing, best sustainable sportswear brands, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly apparel, gym short heren, kleding voor krachttraining, performance clothing, sport hoodie biologisch katoen, sportlegging seamless, sportswear, sportswear nederland, sustainable, training, unisex gym kleding, workout gear
-  - [Maximize Your Workouts with Durable Gym Short Heren](https://jumbogym.nl/blogs/wie-zijn-wij/maximize-your-workouts-with-durable-gym-short-heren): Maximize Your Workouts with Durable Gym Short Heren
-    Updated: 2026-03-10T08:04:20Z
-    Author: Team JumboGym
-    Tags: activewear, biologisch katoen sportshirt, durable workout, duurzame sportkleding, eco-friendly fitness gear, fitness apparel, gym short heren, gym shorts, kleding voor krachttraining, men’s athletic clothing, shorts, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainable, unisex gym kleding
-  - [Sport Hoodie Biologisch Katoen: Comfort Meets Sustainability](https://jumbogym.nl/blogs/wie-zijn-wij/sport-hoodie-biologisch-katoen-comfort-meets-sustainability): Sport Hoodie Biologisch Katoen: Comfort Meets Sustainability
-    Updated: 2026-03-12T08:03:35Z
-    Author: Team JumboGym
-    Tags: biologisch katoen sportshirt, clothing, comfortable sports gear, duurzame sportkleding, eco-friendly fashion, gym short heren, hoodie, kleding voor krachttraining, organic cotton, sport apparel, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainability, sustainable athletic wear, unisex gym kleding
+    Tags: activewear trends, biologisch katoen sportshirt, duurzame sportkleding, eco-friendly, fitness, gym clothing made sustainably, gym short heren, kleding voor krachttraining, organic cotton, sport hoodie biologisch katoen, sportlegging seamless, sportswear nederland, sustainability, sustainable workout clothes, unisex gym kleding, workout apparel
 
 ## Store Pages
 
