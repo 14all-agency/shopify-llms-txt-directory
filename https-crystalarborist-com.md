@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-03-16T00:00:26.279Z
+- Updated At: 2026-03-23T00:00:33.988Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1948,9 +1948,13 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: elemental magic, epic, fantasy romance, gods and mortals, nautical fantasy, quest adventure
   - [Shadowlight: Tides of Defiance (Book 3)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-tides-of-defiance): <p><em><strong>The Shadowlight Crew must stand in defiance against Gods of Lightning and Fire. Impossible odds. A daring rescue. Together they defy Fate, and shape Destiny</strong></em></p>
-    Updated: 2026-03-12T02:33:18Z
+    Updated: 2026-03-21T14:53:50Z
     Author: Callie Hitchcock
     Tags: Action & Adventure, Ancient powers, Defying Fate, Dragons, emotional, High stakes, mortal vs Gods, Nautical, Prophesy, Quest, Romantasy, Strong female lead
+  - [Shadowlight: Death, Life, & Love (Book 4)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-book-4): <p><em><strong>A Journey to the Fire Realm. A reunion with the Past. Devastating Loss. A Love that Chooses Hope even in the darkest moments. Book 4 of the Shadowlight saga.</strong></em></p>
+    Updated: 2026-03-18T17:31:48Z
+    Author: Callie Hitchcock
+    Tags: Adventure, Character-driven, epic, Fantasy, Found family, gods and mortals, Grief and Loss, nautical fantasy, Redemption, Romance
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
