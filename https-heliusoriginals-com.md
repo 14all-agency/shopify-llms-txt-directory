@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-12-30T00:00:40.786Z
+- Updated At: 2026-03-23T00:00:24.364Z
 
 ## Products
 
 - [Smoke N’ Luxe Cocktail Smoker | Luxury Smoke Infusion Barware](https://heliusoriginals.com/products/smoke-n-luxe-cocktail-enhancement-set-deluxe): Elevate cocktails & cuisine with the Smoke N’ Luxe Set. Handcrafted smoker, torch, and premium Ontario wood shavings for luxury entertaining.
-  Updated: 2025-12-25T19:41:31Z
+  Updated: 2026-02-15T00:22:22Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: $139.99 USD
 - [LuxeBlush Smoke Cocktail Kit | Pink Mixology Set by Helius Originals](https://heliusoriginals.com/products/luxeblush-smoke-cocktail-kit): Discover the LuxeBlush Smoke Cocktail Kit. Premium tools and pink wood shavings for crafting elegant, smoke-infused cocktails at home or events.
-  Updated: 2025-12-10T21:35:16Z
+  Updated: 2026-02-11T16:52:06Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $99.99 USD
 - [Smoked Cocktail Kit | Complete Mixology Set by Helius Originals](https://heliusoriginals.com/products/smoked-cocktail-kit-heluis-originals): Unleash your mixology skills with our Smoked Cocktail Kit. Premium tools, wood shavings, and accessories for the ultimate smoky cocktail experience.
-  Updated: 2025-10-03T00:50:05Z
+  Updated: 2026-01-29T13:33:07Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $189.99 USD
 - [LuxeFume | Master the Art of Smoke-Infused Cocktails](https://heliusoriginals.com/products/luxefume): Elevate cocktails and cuisine with the LuxeFume Set. Handcrafted smoker kit with torch and reclaimed wood shavings for luxury mixology at home.
-  Updated: 2025-12-05T03:13:27Z
+  Updated: 2026-01-29T13:33:07Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -73,14 +73,14 @@
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/artisanal-aroma-boards-premium-ontario-wood.jpg?v=1756411679
   Price: $90.99 USD
 - [Spring Cocktail Recipe Book Vol.1](https://heliusoriginals.com/products/spring-cocktail-recipe-book-vol-1): Discover the captivating world of Helius Originals Spring Smoked Cocktail Recipe Book, your ultimate guide to crafting mesmerizing smoked cocktails that will elevate your mixology skills and delight your senses. Available as an easy-to-download digital edition, this beautifully designed recipe book is a must-have for cocktail enthusiasts and home bartenders alike who are looking to impress their guests and indulge in the enchanting flavors of spring.Our expert mixologists at Helius Originals have thoughtfully curated a collection of 10 exclusive spring-inspired smoked cocktail recipes that artfully blend classic techniques with innovative ingredients and unique presentations. Each recipe has been meticulously crafted to ensure you can recreate the magic of Helius Originals in the comfort of your own home.As you immerse yourself in the world of smoky spring cocktails, you'll discover enticing concoctions featuring an array of aromatic ingredients, such as elderflower, lavender, and rose, expertly paired with the rich, smoky notes of mezcal, peated scotch, and lapsang souchong tea syrup. The vivid step-by-step instructions and precise measurements make it simple for you to shake, stir, and savor these delightful creations.By downloading the Helius Originals Spring Smoked Cocktail Recipe Book, you'll expand your mixology repertoire and unlock the secrets to transforming ordinary gatherings into unforgettable experiences. So why wait? Embrace the allure of spring, master the art of smoked cocktails, and bring the magic of Helius Originals to your home with just a few clicks. Download your copy today and let your cocktail adventure begin!
-  Updated: 2025-12-22T13:35:11Z
+  Updated: 2026-01-29T13:33:07Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/HeliusOriginalsSpringsmokerecipebookcocktailcover.png?v=1681489647
   Price: $0.00 USD
 - [Smoked Cocktail Recipes for Fall | Helius Originals Recipe Book](https://heliusoriginals.com/products/smoked-cocktail-book-fall): Discover our Fall Smoke Cocktail Recipe Book featuring smoked twists on the Manhattan cocktail recipe, Aviation, Zombie, Toronto, and more.
-  Updated: 2025-12-24T17:46:06Z
+  Updated: 2026-02-11T16:54:31Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
@@ -90,11 +90,11 @@
 ## Collections
 
 - [Smoke Cocktail Kit & Cocktail Smoke Board - Helius Originals](https://heliusoriginals.com/collections/frontpage): Elevate your cocktail game with the Smoke Cocktail Kit and Cocktail Smoke Board from Helius Originals. Impress your guests with the unique and unforgettable smoky flavors and aromas in your drinks.
-  Updated: 2025-12-26T12:12:16Z
+  Updated: 2026-02-15T12:17:23Z
   Total Products: 6
-- [Recommended products (Seguno)](https://heliusoriginals.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-26T12:12:16Z
-  Total Products: 7
+- [Recommended products (Seguno)](https://heliusoriginals.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
+  Updated: 2026-02-27T17:35:40Z
+  Total Products: 6
 - [English Instruction Manual](https://heliusoriginals.com/collections/english-instruction-manual): https://cdn.shopify.com/s/files/1/0668/7883/2865/files/Helius_Instructions.pdf.pdf?v=1739211873
   Updated: 2025-02-10T18:26:25Z
   Total Products: 0
@@ -103,13 +103,13 @@
 
 - [Elevating Your Mixology Game with Smoked Cocktails](https://heliusoriginals.com/blogs/blog): Welcome to the Helius Originals Blog, your source for inspiration, tips, and stories about elevating your mixology game with smoked cocktails. Our blog is dedicated to sharing our passion for the art of mixology and providing our readers with unique and innovative ways to create the perfect cocktail.
   - [How to Smoke Cocktails at Home | Easy Guide to Smoked Drinks](https://heliusoriginals.com/blogs/blog/how-to-smoke-cocktails-at-home): How to Smoke Cocktails at Home | Easy Guide to Smoked Drinks
-    Updated: 2025-09-07T22:26:10Z
+    Updated: 2026-03-10T21:16:20Z
     Author: Helius Originals co Admin
   - [Best Smoked Cocktails for 2023](https://heliusoriginals.com/blogs/blog/best-smoked-cocktails-for-2023)
     Updated: 2023-04-10T17:14:28Z
     Author: Bilqees Grant
-  - [The Rise of Smoke Cocktails: A Sensational Flavor Experience Igniting the Market](https://heliusoriginals.com/blogs/blog/the-rise-of-smoke-cocktails-a-sensational-flavor-experience-igniting-the-market)
-    Updated: 2023-04-28T16:22:57Z
+  - [Smoke Cocktails: How the Trend Is Transforming Modern Mixology](https://heliusoriginals.com/blogs/blog/the-rise-of-smoke-cocktails-a-sensational-flavor-experience-igniting-the-market): <p>Smoke cocktails are transforming the cocktail world with bold flavors, dramatic presentation, and creative mixology techniques. Discover how smoked drinks are made and why the trend continues to grow.</p>
+    Updated: 2026-03-06T19:45:12Z
     Author: Bilqees Grant
   - [Unveiling the Enigmatic Symphony of Smoke: Exploring the Benefits of Smoking Cocktails, Meats, and Cheeses for an Exquisite Culinary Experience](https://heliusoriginals.com/blogs/blog/unveiling-the-enigmatic-symphony-of-smoke-exploring-the-timeless-allure-and-exquisite-nuances-of-smoking-cocktails-meats-and-cheeses)
     Updated: 2023-07-04T15:28:29Z
@@ -130,15 +130,18 @@
     Updated: 2025-10-21T22:26:10Z
     Author: Helius Originals
     Tags: eco-luxury barware, Helius Originals, smoked cocktails
+  - [How to Add Fresh Smoke to Salmon at Home | Cold Smoked Salmon Technique](https://heliusoriginals.com/blogs/blog/how-to-add-fresh-smoke-to-salmon-at-home): <p>Learn how to add fresh aromatic smoke to salmon at home using simple smoke infusion techniques. This guide explains how smoke infusion works, how it compares to cold smoked salmon, and how home cooks can create elegant smoked salmon dishes in seconds.</p>
+    Updated: 2026-03-06T19:32:35Z
+    Author: Helius Originals
 - [Stay Up-to-Date on the Latest in Smoked Cocktails and Mixology](https://heliusoriginals.com/blogs/news): Stay up-to-date with the latest news and updates from Helius Originals, your source for smoked cocktail kits and unique mixology experiences. Our news section covers everything from new product releases and promotions to events and collaborations.
-  - [Bilqees Grant Featured in The Story Exchange: Leading the Rise of Eco-Luxury Cocktail Culture](https://heliusoriginals.com/blogs/news/bilqees-grant-featured-in-the-story-exchange-leading-the-rise-of-eco-luxury-cocktail-culture)
-    Updated: 2025-09-28T18:52:35Z
+  - [Bilqees Grant Featured in The Story Exchange | Helius Originals](https://heliusoriginals.com/blogs/news/bilqees-grant-featured-in-the-story-exchange-leading-the-rise-of-eco-luxury-cocktail-culture)
+    Updated: 2026-03-10T19:00:14Z
     Author: Helius Originals
-  - [Helius Originals Selected as 2024 Recipient of the BMO Celebrating Women Grant](https://heliusoriginals.com/blogs/news/helius-originals-selected-as-2024-recipient-of-the-bmo-celebrating-women-grant)
-    Updated: 2025-09-28T19:05:11Z
+  - [Helius Originals Wins BMO Celebrating Women Grant 2024](https://heliusoriginals.com/blogs/news/helius-originals-selected-as-2024-recipient-of-the-bmo-celebrating-women-grant)
+    Updated: 2026-03-10T18:56:48Z
     Author: Helius Originals
-  - [Helius Originals Scores Lenovo’s Evolve Small Grant to Ignite a New Era of Tech-Enhanced Eco-Luxury](https://heliusoriginals.com/blogs/news/helius-originals-scores-lenovo-s-evolve-small-grant-to-ignite-a-new-era-of-tech-enhanced-eco-luxury)
-    Updated: 2025-07-29T16:24:47Z
+  - [Helius Originals Wins Lenovo Evolve Small Grant](https://heliusoriginals.com/blogs/news/helius-originals-wins-lenovo-evolve-small-grant)
+    Updated: 2026-03-10T18:55:37Z
     Author: Helius Originals
 
 ## Store Pages
@@ -155,12 +158,8 @@
   Updated: 2025-10-22T15:28:26Z
 - [Master the Art of Smoke | Cocktail Kit Instructions](https://heliusoriginals.com/pages/master-the-art-of-smoke): 
   Updated: 2025-08-28T21:23:34Z
-- [Gift List](https://heliusoriginals.com/pages/gift-list): (function () {var as=document.createElement('script');as.type='text/javascript';as.async=true;as.src='https://www.myregistry.com/ScriptPlatform/Sho...
-  Updated: 2025-07-28T16:10:45Z
 - [Collabs](https://heliusoriginals.com/pages/collab)
   Updated: 2025-10-06T19:54:00Z
-- [All Star Weekend Access](https://heliusoriginals.com/pages/all-star-weekend-access): Your purchase provides access for 1 guest to the Helius Originals All Star Weekend After-Mansion Experience, an ultra-exclusive event curated for c...
-  Updated: 2025-12-12T21:26:18Z
 
 ## Policies
 
