@@ -7,7 +7,7 @@
 - Created At: 2025-10-11T15:22:31Z
 - Contact Email: orders@bcubsauces.com
 - Contact Phone: 832-632-2520
-- Updated At: 2026-03-16T00:00:34.165Z
+- Updated At: 2026-03-23T00:00:34.367Z
 
 B'Cubs® Sauces is a premium sauce and condiment brand based in Texas, specializing in bold, artisan flavors led by our signature Voodoo Peanut Sauce (available in multiple heat levels) and Classic Honey Mustard. We package our products in 12 oz glass bottles with a rustic Texas premium aesthetic, offering both single bottles and value 2-packs.
 
@@ -18,7 +18,7 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
 ## Products
 
 - [B'Cubs® Voodoo Peanut Sauce: Endless Possibilities](https://bcubsauces.com/products/voodoo-peanut-sauce): One sauce, endless possibilities. Bold, nutty, sweet with a spicy kick. Mild, Medium & Hot. Perfect for grilling, dipping & more. Texas-made!
-  Updated: 2026-03-12T23:23:20Z
+  Updated: 2026-03-22T20:40:29Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
@@ -36,35 +36,35 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
     Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/BCubs_Voodoo_Peanut_Sauce_Hot_fc61123d-6866-4225-bc9a-ab658f0c9907.png?v=1769789453
     Price: $9.95 USD
 - [B'Cubs® Classic Honey Mustard: Sweet & Tangy, Texas-Made](https://bcubsauces.com/products/classic-honey-mustard): Not your ordinary honey mustard. B’Cubs® Classic Honey Mustard is sweet, tangy & bold with real clover honey. Perfect for dipping, glazing & more. Texas-made.
-  Updated: 2026-03-03T18:17:36Z
+  Updated: 2026-03-19T21:03:20Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/B_CubsClassicHoneyMustard.png?v=1762090596
   Price: $9.95 USD
 - [Voodoo Peanut Sauce Mild 2-Pack | B'Cubs Sauces](https://bcubsauces.com/products/voodoo-peanut-sauce-mild-2-pack): Save with our Mild Voodoo Peanut Sauce 2-pack. Bold, nutty Asian-style peanut sauce with gentle heat. Perfect for stir-fries, satay & marinades. Two 12 oz bottles.
-  Updated: 2026-03-07T20:02:27Z
+  Updated: 2026-03-20T05:47:19Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/bcubs-voodoo-peanut-sauce-2-pack_aeba79ed-7248-4484-be90-e3bf1b466b30.png?v=1769489610
   Price: $20.90 USD
 - [B’Cubs® Voodoo Peanut Sauce Medium (Original) 2-Pack](https://bcubsauces.com/products/voodoo-peanut-sauce-medium-2-pack): Save with our Medium Voodoo Peanut Sauce 2-pack. Bold, nutty peanut sauce with balanced heat. Perfect for stir-fries, wings & marinades. Two 12oz bottles.
-  Updated: 2026-03-10T01:59:52Z
+  Updated: 2026-03-20T16:53:07Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/bcubs-voodoo-peanut-sauce-medium-2-pack_cf996faa-cb46-43ba-89c6-5116ed9052de.png?v=1769489347
   Price: $20.90 USD
 - [B’Cubs® Voodoo Peanut Sauce Hot 2-Pack](https://bcubsauces.com/products/voodoo-peanut-sauce-hot-2-pack): Save with our Hot Voodoo Peanut Sauce 2-pack. Bold, nutty peanut sauce with spicy kick. Perfect for stir-fries, wings & marinades. Two 12oz bottles.
-  Updated: 2026-03-05T06:26:36Z
+  Updated: 2026-03-21T10:47:12Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/bcubs-voodoo-peanut-sauce-hot-2-pack_6477708f-66fe-498e-8b3e-f76c46eb5c21.png?v=1769488576
   Price: $20.90 USD
 - [B’Cubs® Classic Honey Mustard 2-Pack: Sweet & Tangy](https://bcubsauces.com/products/classic-honey-mustard-2-pack): Save with our Classic Honey Mustard 2-Pack! Two 12oz bottles of sweet, tangy Texas-made sauce with real clover honey. Perfect for sandwiches, pretzels & more.
-  Updated: 2026-03-07T20:02:28Z
+  Updated: 2026-03-21T10:47:17Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
@@ -74,13 +74,13 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
 ## Collections
 
 - [Home page](https://bcubsauces.com/collections/frontpage)
-  Updated: 2026-03-13T11:27:57Z
+  Updated: 2026-03-20T11:28:46Z
   Total Products: 2
 - [All Sauces | B'Cubs® Premium Texas-Made Sauces](https://bcubsauces.com/collections/all-sauces): Shop B'Cubs® premium Texas-made sauces: Voodoo Peanut Sauce (Mild, Medium, Hot) & Classic Honey Mustard with real clover honey. Bold flavors for every dish.
-  Updated: 2026-03-13T11:27:57Z
+  Updated: 2026-03-20T11:28:46Z
   Total Products: 2
 - [Sauce 2-Packs - Stock Up & Save | B'Cubs® Premium Sauces](https://bcubsauces.com/collections/2-packs): Save with B'Cubs® sauce 2-packs! Voodoo Peanut Sauce (Mild, Medium, Hot) & Classic Honey Mustard. Two 12oz bottles per pack. Stock up on bold Texas flavor.
-  Updated: 2026-03-10T11:32:12Z
+  Updated: 2026-03-21T11:27:01Z
   Total Products: 4
 
 ## Blogs
@@ -98,6 +98,14 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
   - [B'Cubs® Fresh Spring Rolls Recipe | Easy Peanut Sauce Appetizer](https://bcubsauces.com/blogs/recipes/bcubs®-fresh-spring-rolls-recipe-easy-peanut-sauce-appetizer): <p>Fresh spring rolls packed with crisp vegetables, herbs, and your choice of protein, served with B'Cubs® Voodoo Peanut Sauce for dipping. Light, healthy, and endlessly customizable.<br></p>
     Updated: 2026-03-02T02:57:48Z
     Author: Brian Cubley
+  - [Spice Up Your Grill Game with Texas-Quality Voodoo Peanut Sauce Trio: Grilled Chicken Skewers Drizzle Thai Salad and Spicy Peanut Noodles](https://bcubsauces.com/blogs/recipes/spice-up-your-grill-game-with-texas-quality-voodoo-peanut-sauce-trio-grilled-chicken-skewers-drizzle-thai-salad-and-spicy-peanut-noodles): Spice Up Your Grill Game with Texas-Quality Voodoo Peanut Sauce Trio: Grilled Chicken Skewers Drizzle Thai Salad and Spicy Peanut Noodles
+    Updated: 2026-03-17T15:18:12Z
+    Author: B'Cubs® Kitchen
+    Tags: Easy Dinner Ideas, Grilling, Recipes, Summer Recipes, Voodoo Peanut Sauce
+  - [Grilled Pork Chops with Texas Voodoo Peanut Glaze](https://bcubsauces.com/blogs/recipes/grilled-pork-chops-with-texas-voodoo-peanut-glaze)
+    Updated: 2026-03-17T15:35:41Z
+    Author: Brian Cubley
+    Tags: Easy Dinner Ideas, Grilling, Pork Recipes, Recipes, Voodoo Peanut Sauce
 
 ## Store Pages
 
@@ -109,8 +117,6 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
   Updated: 2026-02-03T19:06:48Z
 - [Find Us | B'Cubs® Sauces at Stores, Markets & Events](https://bcubsauces.com/pages/find-us): 
   Updated: 2026-02-03T19:05:29Z
-- [Recipes | B'Cubs® Sauces - Bold Flavor Recipe Ideas](https://bcubsauces.com/pages/recipes): 
-  Updated: 2026-02-03T19:07:53Z
 - [Nutritional Information | B'Cubs® Sauces Nutrition Facts](https://bcubsauces.com/pages/nutritional): 
   Updated: 2026-02-03T19:24:20Z
 - [Contact Us | B'Cubs® Sauces Customer Support](https://bcubsauces.com/pages/contact-us): 
