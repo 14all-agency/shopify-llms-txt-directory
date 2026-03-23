@@ -6,7 +6,7 @@
 - Timezone: Atlantic/Reykjavik
 - Created At: 2024-05-12T17:01:36Z
 - Contact Email: Home4u@home4u.is
-- Updated At: 2026-03-13T00:00:30.438Z
+- Updated At: 2026-03-23T00:00:36.350Z
 
 ## Products
 
@@ -123,72 +123,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/LiviaStone3_jfif.webp?v=1716402884
   Price: kr 54,900.00 ISK
-- [Sturtubotnar 6 litir](https://home4u.is/products/sturtubotnar-6-litir): Einstaklega skemmtilega hönnun sem hefur vakið gríðarlega athygli hjá okkur. Einstakt útlit sem gjörbreytir hvaða baðherbergi sem er. ​ Flokkur: Bakaður botn | Gríðalega þungir | Stonex Hér fyrir neðan er myndband sem sýnir uppsetningu á Roca botni. ​ Litir | 6 litir í boði Stærðir | Stærðir til sýnis hér fyrir neðan ​ ​Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-12-04T15:41:57Z
-  Vendor: Roca
-  Product Type: sturtubotn
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/roca_dekkor.webp?v=1716452749
-  - [1000x700x26](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647361857)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 127,900.00 ISK
-  - [1000x800x26](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647394625)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 138,900.00 ISK
-  - [1000x900x26](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647427393)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 159,900.00 ISK
-  - [1200x700x28](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647492929)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 142,000.00 ISK
-  - [1200x800x28](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647525697)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 154,900.00 ISK
-  - [1200x900x28](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647558465)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 166,900.00 ISK
-  - [1200x1000x28](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647591233)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 182,900.00 ISK
-  - [1400x700x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647624001)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 160,900.00 ISK
-  - [1400x800x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647656769)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 188,900.00 ISK
-  - [1400x900x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647689537)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 206,900.00 ISK
-  - [1400x1000x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647722305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/roca_dekkor.webp?v=1716452749
-    Price: kr 219,900.00 ISK
-  - [1600x700x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647755073)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 216,900.00 ISK
-  - [1600x800x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647787841)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 219,900.00 ISK
-  - [1600x900x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647820609)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 225,900.00 ISK
-  - [1600x1000x31](https://home4u.is/products/sturtubotnar-6-litir?variant=48718647853377)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/Untitled_3fe15438-261b-43f0-ab87-e14f3a95a38e.png?v=1716454037
-    Price: kr 246,900.00 ISK
 - [Bler sturtugler](https://home4u.is/products/bler-sturtugler): Glæsileg, stílhrein hönnun sem hefur vakið mikla athygli hjá okkur í Home4U. ​ Glerið er 8mm öryggisglerFestingar fylgjaHægt að setja upp með eða án sturtubotnEfni: Aluminum ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
   Updated: 2025-10-23T11:39:46Z
   Vendor: Rea
@@ -734,8 +668,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/1cb2608dd3135c5193a563f7d7e7.jpg?v=1716893800
   Price: kr 122,900.00 ISK
-- [BXX 110-50](https://home4u.is/products/bxx-110-50): Einstaklega vönduð & sterk hönnun frá Franke ​ BXX kemur í nokkrum stærðum og hentar vel fyrir þá sem vilja yfir eða undirlímdan vask. Stærð:Lengd: 540mmBreidd: 450mm Opið sjálft:Lengd: 500mmBreidd: 410mmDýpt: 200mm Efni:Stainsless Steel Borðplatan/einingin má ekki vera minni en 60cm ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-07-31T10:29:55Z
+- [MYX 110-50](https://home4u.is/products/bxx-110-50): Einstaklega vönduð & sterk hönnun frá Franke ​ BXX kemur í nokkrum stærðum og hentar vel fyrir þá sem vilja yfir eða undirlímdan vask. Stærð:Lengd: 540mmBreidd: 450mm Opið sjálft:Lengd: 500mmBreidd: 410mmDýpt: 200mm Efni:Stainsless Steel Borðplatan/einingin má ekki vera minni en 60cm ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
+  Updated: 2026-03-15T13:20:19Z
   Vendor: Franke
   Product Type: Eldhúsvaskur
   Availability: Available
@@ -827,7 +761,7 @@
   Updated: 2026-02-24T12:21:20Z
   Total Products: 37
 - [Baðtæki](https://home4u.is/collections/badtaekin)
-  Updated: 2026-01-08T12:17:28Z
+  Updated: 2026-03-13T07:38:54Z
   Total Products: 59
 - [Sturtusett](https://home4u.is/collections/sturtusett)
   Updated: 2026-03-12T09:58:51Z
@@ -857,13 +791,13 @@
   Updated: 2026-03-12T09:25:38Z
   Total Products: 25
 - [Blöndunartæki Baðherbergi](https://home4u.is/collections/blondunartaeki)
-  Updated: 2026-03-12T09:58:51Z
+  Updated: 2026-03-13T07:38:54Z
   Total Products: 113
 - [Baðherbergið](https://home4u.is/collections/badherbergid)
-  Updated: 2026-03-12T09:58:51Z
+  Updated: 2026-03-21T11:18:23Z
   Total Products: 275
 - [Y Collection Omnires](https://home4u.is/collections/y-collection-omnires)
-  Updated: 2026-02-24T12:21:20Z
+  Updated: 2026-03-13T07:38:54Z
   Total Products: 102
 - [Contour Collection Omnires](https://home4u.is/collections/contour-collection-omnires)
   Updated: 2026-03-12T09:58:51Z
@@ -872,10 +806,10 @@
   Updated: 2026-02-24T12:21:20Z
   Total Products: 26
 - [Eldhúsvaskar](https://home4u.is/collections/eldhusvaskar)
-  Updated: 2025-11-11T14:22:00Z
+  Updated: 2026-03-14T12:35:53Z
   Total Products: 18
 - [Franke Eldhúsvaskar](https://home4u.is/collections/franke-eldhusvaskar): Einstaklega vönduð & sterk hönnun frá Franke ​BXX kemur í nokkrum stærðum og hentar vel fyrir þá sem vilja yfir eða undirlímdan vask
-  Updated: 2025-11-11T14:25:13Z
+  Updated: 2026-03-14T12:35:53Z
   Total Products: 12
 - [Teka Eldhúsvaskar](https://home4u.is/collections/teka-eldhusvaskar): TEKA eru einfaldlega magnaðir eldhúsvaskar. Silentsmart tækni, PVD coating. Hægt að undyrlíma, setja ofan á og fræsa í plötuna.
   Updated: 2024-10-21T16:19:33Z
@@ -884,16 +818,16 @@
   Updated: 2026-01-23T12:18:55Z
   Total Products: 16
 - [Eldhúsið](https://home4u.is/collections/eldhusid)
-  Updated: 2026-01-23T12:18:55Z
+  Updated: 2026-03-14T12:35:53Z
   Total Products: 34
 - [Speglar](https://home4u.is/collections/speglar): Einstaklega vönduð hönnun. Led lýsing og hitari í speglinum til að koma í veg fyrir móðu.
   Updated: 2025-12-26T12:13:17Z
   Total Products: 8
 - [Aukahlutir fyrir baðherbergið](https://home4u.is/collections/aukahlutir-fyrir-badherbergid)
-  Updated: 2026-03-12T09:25:38Z
+  Updated: 2026-03-21T11:18:23Z
   Total Products: 64
 - [Tappar og Vatnslásar](https://home4u.is/collections/tappar-og-vatnslasar)
-  Updated: 2026-03-11T11:19:52Z
+  Updated: 2026-03-18T15:16:03Z
   Total Products: 15
 - [SOME Baðkör](https://home4u.is/collections/some-badkor)
   Updated: 2026-02-03T12:18:43Z
@@ -908,8 +842,8 @@
   Updated: 2025-12-26T12:13:17Z
   Total Products: 8
 - [Flísar](https://home4u.is/collections/flisar): Við kynnum með stolti flísar frá nokkrum af bestu framleiðendum í Evrópu svo sem, Tubadzin, Cerrad, Nowagala og Paradyz Flísar | JBK byggingavörur | Tubądzin
-  Updated: 2025-09-04T11:16:09Z
-  Total Products: 5
+  Updated: 2026-03-13T15:09:08Z
+  Total Products: 4
 - [Innréttingar](https://home4u.is/collections/innrettingar)
   Updated: 2026-02-24T12:21:20Z
   Total Products: 2
