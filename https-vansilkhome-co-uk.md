@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-23T02:38:43Z
 - Contact Email: support@vansilkhome.co.uk
-- Updated At: 2026-03-14T00:00:42.119Z
+- Updated At: 2026-03-23T00:00:45.858Z
 
 ## Products
 
@@ -614,11 +614,11 @@
     Availability: Available
     Price: £129.00 GBP
 - [Cotton Muslin Duvet Cover Set](https://vansilkhome.co.uk/products/cotton-muslin-duvet-cover-set): Wrap yourself in effortless comfort with this soft, crinkled duvet cover set. Crafted from airy cotton muslin, it offers a light, breathable feel that creates an invitingly cozy atmosphere. The crisp white hue evokes calm and simplicity-perfect for minimalists or fans of the beautifully imperfect Wabi-Sabi aesthetic. Finished with handmade tie closures, it exudes a subtle, artisanal charm that feels both relaxed and refined. What's Included: Single Duvet Cover Set: 1 duvet cover: 135 × 200 cm; 1 pillowcase: 50 × 75 cm Double Duvet Cover Set: 1 duvet cover: 200 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) King Duvet Cover Set: 1 duvet cover: 225 × 220 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Duvet Cover Set: 1 duvet cover: 260 × 220 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-01-13T11:51:46Z
+  Updated: 2026-03-20T17:17:59Z
   Vendor: Vansilk UK
   Product Type: Duvet Covers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/CottonMuslinDuvetCoverSet_3.jpg?v=1768305103
+  Image: https://cdn.shopify.com/s/files/1/0659/8135/0001/files/cotton-muslin-duvet-cover-set-vansilk-pastel-elegant-british-home-original-ratio.jpg?v=1773983871
   - [Single](https://vansilkhome.co.uk/products/cotton-muslin-duvet-cover-set?variant=42880500564081)
     Availability: Available
     Price: £109.00 GBP
@@ -3683,7 +3683,7 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
     Availability: Not Available
     Price: £159.00 GBP
 - [White Whisper Embroidered Ruched Ruffle Bedding Set](https://vansilkhome.co.uk/products/white-whisper-embroidered-ruched-ruffle-bedding-set): This elegant bedding set features washed white cotton with delicate embroidery, ruched layering, and soft ruffle detailing. A serene, airy design that brings quiet luxury and timeless romance to your bedroom. What's Included Single Bedding Set: 1 duvet cover: 135 × 200 cm; 1 bed skirt: 90 × 190 cm; 1 pillowcase: 50 × 75 cm Double Bedding Set: 1 duvet cover: 200 × 200 cm; 1 bed skirt: 135 × 190 cm; 2 pillowcases: 50 × 75 cm (standard) King Bedding Set: 1 duvet cover: 225 × 220 cm; 1 bed skirt: 150 × 200 cm; 2 pillowcases: 50 × 75 cm (standard) Super King Bedding Set: 1 duvet cover: 260 × 220 cm; 1 bed skirt: 180 × 200 cm; 2 pillowcases: 50 × 90 cm (king size) 100% cotton 4 corner ties secure the duvet in place Machine washable Noted: Colors may appear differently on various devices.
-  Updated: 2026-03-05T07:14:02Z
+  Updated: 2026-03-20T13:50:27Z
   Vendor: VANSILK
   Product Type: Bedding Sets
   Availability: Available
@@ -4113,7 +4113,7 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   Updated: 2025-12-23T11:42:08Z
   Total Products: 0
 - [Bedding Sets](https://vansilkhome.co.uk/collections/bedding-sets)
-  Updated: 2026-03-05T07:51:30Z
+  Updated: 2026-03-21T11:17:34Z
   Total Products: 53
 - [Duvet Covers](https://vansilkhome.co.uk/collections/bedding-sets-copy)
   Updated: 2026-03-05T07:51:31Z
@@ -4200,6 +4200,21 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Just in Time for Mother’s Day: Give Mum the Gift of Luxury Beauty Sleep](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/just-in-time-mothers-day-gift-luxury-beauty-sleep)
     Updated: 2026-03-12T06:49:58Z
     Author: ShopGenius
+  - [Sensory Design: Why Texture Is the Key to a Peaceful Home](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/sensory-design-why-texture-is-the-most-important-element-in-a-peaceful-room): Discover how sensory design moves beyond aesthetics to create emotional warmth through the power of tactile materials and layered textures.
+    Updated: 2026-03-17T04:44:45Z
+    Author: ShopDreams
+  - [Soft Pastel Bedding Ideas to Brighten a British Spring Bedroom](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/soft-pastel-bedding-ideas-to-brighten-a-british-spring-bedroom): Transition your sleep space for the new season with breathable cottons and a calming palette of sage, sky blue, and soft pinks designed for the British climate.
+    Updated: 2026-03-18T04:58:24Z
+    Author: ShopDreams
+    Tags: Bedroom Refresh, Home Styling, Interior Design, Pastel Decor, Spring Bedding
+  - [Creating a Relaxed Country Bedroom with Lightweight Bedding](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/creating-a-relaxed-country-bedroom-with-lightweight-bedding): Discover how to blend breathable cotton fabrics with soft earth tones to create a tranquil, country-inspired sanctuary designed for restorative sleep.
+    Updated: 2026-03-19T07:06:52Z
+    Author: ShopDreams
+    Tags: Bedroom Decor, Cotton Bedding, Country Style, Home Styling, Interior Design, Summer Bedding
+  - [Breathable Fabrics and Easy Layers for a Comfortable Spring Sleep](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/breathable-fabrics-and-easy-layers-for-a-comfortable-spring-sleep): Transition your bedroom for the British spring by prioritizing breathable cotton foundations and lightweight, textured layers that adapt to shifting temperatures.
+    Updated: 2026-03-20T04:13:25Z
+    Author: ShopDreams
+    Tags: Bedroom Decor, Cotton Sheets, Home Styling, Sleep Quality, Spring Bedding
 
 ## Store Pages
 
@@ -4207,8 +4222,8 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   Updated: 2025-12-23T09:49:28Z
 - [Your Privacy Choices](https://vansilkhome.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T17:30:18Z
-- [Shipping Information](https://vansilkhome.co.uk/pages/shipping-information): Vansilk offers world worldwide shipping. For orders over £100, we will offer free delivery. For orders under £100, the freight price is £8 which wi...
-  Updated: 2025-12-23T09:32:24Z
+- [Shipping Information](https://vansilkhome.co.uk/pages/shipping-information): Vansilk offers world worldwide shipping. For orders over £99, we will offer free delivery. For orders under £99, the freight price is £6 which will...
+  Updated: 2026-03-20T02:41:39Z
 - [Return & Exchanges](https://vansilkhome.co.uk/pages/return-exchanges): VanSilk Return and Exchange Policy At VanSilk, we are committed to providing you with a fantastic shopping experience! We offer a 30-day return per...
   Updated: 2025-12-23T09:33:17Z
 - [FAQ](https://vansilkhome.co.uk/pages/faq): Ordering & Payment How to place an order? It's super simple! Just take a look around and choose the items you love. Add them to your cart, and when...
@@ -4223,7 +4238,7 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
 - [Refund Policy](https://vansilkhome.co.uk/policies/refund-policy)
   Updated: 2025-12-23T08:13:55+00:00
 - [Terms of Service](https://vansilkhome.co.uk/policies/terms-of-service)
-  Updated: 2025-12-23T10:27:07+00:00
+  Updated: 2026-03-20T02:37:44+00:00
 - [Contact Information](https://vansilkhome.co.uk/policies/contact-information)
   Updated: 2025-12-23T10:25:53+00:00
 
