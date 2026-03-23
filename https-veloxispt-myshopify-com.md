@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2026-02-19T00:14:27Z
 - Contact Email: veloxispt@gmail.com
-- Updated At: 2026-03-15T00:00:35.094Z
+- Updated At: 2026-03-23T00:00:37.079Z
 
 ## Products
 
@@ -4750,7 +4750,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S05facec5b01f4aae85608219d1ad6989G.webp?v=1773082111
     Price: 12,99 € EUR
 - [Camisola Térmica Masculina Gola Alta Modal Premium | VELOXIS](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top): Camisola térmica masculina em Modal premium com gola alta. Tecido fino, respirável e corte slim-fit. Conforto e performance para outono e inverno.
-  Updated: 2026-03-11T03:13:51Z
+  Updated: 2026-03-16T14:21:24Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -4820,7 +4820,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2f700253f2ac45529e1a73a9eba0ee1b7.webp?v=1773155407
     Price: 11,99 € EUR
 - [T-shirt Desportiva Manga Comprida Performance | VELOXIS](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit): T-shirt desportiva técnica de manga comprida. Alta elasticidade, absorção de suor e respirabilidade superior. Corte ajustado para máxima performance.
-  Updated: 2026-03-11T03:18:53Z
+  Updated: 2026-03-16T14:21:24Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -4906,7 +4906,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7b3a2249a2443efa98027270cbdf31ej.webp?v=1773156073
     Price: 10,99 € EUR
 - [Regata Desportiva Masculina - Ginásio e Corrida | VELOXIS](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest): Regata desportiva masculina sem mangas para ginásio, corrida e treino. Tecido respirável, máxima mobilidade e conforto. Disponível em várias cores.
-  Updated: 2026-03-14T15:48:28Z
+  Updated: 2026-03-16T14:21:24Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -4991,15 +4991,287 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S03ff62643ef84628a10df5ba67f65d90t.webp?v=1773497446
     Price: 11,99 € EUR
+- [Top Desportivo Feminino - Corrida e Fitness | VELOXIS](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s): Top desportivo feminino com design color-blocking. Suporte confortável, absorção de impacto e material em nylon. Ideal para corrida, yoga e ginásio.
+  Updated: 2026-03-17T02:14:43Z
+  Vendor: VELOXIS
+  Product Type: Tops Desportivos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8e81cfbb80e245959c5265e2cfa782af8.webp?v=1773670469
+  - [S / lilac / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952215945554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sed22a542b1434814b4bc5342172099a3P.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [S / wine red / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216273234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c2dfb568e464f78a0ab046b9c34a619u.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [S / Black / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216011090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1e6da3626f4b45c890624b749f6167b8J.webp?v=1773678608
+    Price: 11,49 € EUR
+  - [S / Pink / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216109394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7447c66c979c49bdad5f5d26162a83a3Y.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [S / navy blue / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216306002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb098659af0bc4ecf95bf81522f2c6eb43.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [M / lilac / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952215912786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sed22a542b1434814b4bc5342172099a3P.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [M / wine red / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216338770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c2dfb568e464f78a0ab046b9c34a619u.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [M / Black / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216043858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1e6da3626f4b45c890624b749f6167b8J.webp?v=1773678608
+    Price: 11,49 € EUR
+  - [M / Pink / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216240466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7447c66c979c49bdad5f5d26162a83a3Y.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [M / navy blue / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216207698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb098659af0bc4ecf95bf81522f2c6eb43.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [L / lilac / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952215880018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sed22a542b1434814b4bc5342172099a3P.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [L / wine red / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952215978322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5c2dfb568e464f78a0ab046b9c34a619u.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [L / Black / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216076626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1e6da3626f4b45c890624b749f6167b8J.webp?v=1773678608
+    Price: 11,49 € EUR
+  - [L / Pink / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216142162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7447c66c979c49bdad5f5d26162a83a3Y.webp?v=1773678608
+    Price: 10,99 € EUR
+  - [L / navy blue / China Mainland](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s?variant=52952216174930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb098659af0bc4ecf95bf81522f2c6eb43.webp?v=1773678608
+    Price: 10,99 € EUR
+- [Anime Compression Training Tee | VELOXIS Men's Gym T-Shirt](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops): VELOXIS Anime Compression Training Tee — quick-dry polyester, breathable knit, compression fit. Bold anime prints for men who train hard.
+  Updated: 2026-03-20T11:31:32Z
+  Vendor: VELOXIS
+  Product Type: T-Shirts Desportivas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2e4fb295fc84d82ad791db85d0b0aaew.webp?v=1773963079
+  - [1 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318313810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2e4fb295fc84d82ad791db85d0b0aaew.webp?v=1773963079
+    Price: 12,49 € EUR
+  - [1 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318281042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2e4fb295fc84d82ad791db85d0b0aaew.webp?v=1773963079
+    Price: 12,49 € EUR
+  - [1 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318248274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2e4fb295fc84d82ad791db85d0b0aaew.webp?v=1773963079
+    Price: 12,49 € EUR
+  - [1 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318215506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2e4fb295fc84d82ad791db85d0b0aaew.webp?v=1773963079
+    Price: 12,49 € EUR
+  - [1 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318182738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2e4fb295fc84d82ad791db85d0b0aaew.webp?v=1773963079
+    Price: 12,49 € EUR
+  - [1 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318149970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se2e4fb295fc84d82ad791db85d0b0aaew.webp?v=1773963079
+    Price: 12,49 € EUR
+  - [2 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318117202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Safcadca383e64e85a1a567c05c1608c9Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [2 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318084434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Safcadca383e64e85a1a567c05c1608c9Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [2 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318051666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Safcadca383e64e85a1a567c05c1608c9Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [2 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318018898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Safcadca383e64e85a1a567c05c1608c9Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [2 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317986130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Safcadca383e64e85a1a567c05c1608c9Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [2 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317953362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Safcadca383e64e85a1a567c05c1608c9Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [3 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318838098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2d55b7fe66594aa9bc27f0df4710754by.webp?v=1773963080
+    Price: 11,99 € EUR
+  - [3 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318805330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2d55b7fe66594aa9bc27f0df4710754by.webp?v=1773963080
+    Price: 11,99 € EUR
+  - [3 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318772562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2d55b7fe66594aa9bc27f0df4710754by.webp?v=1773963080
+    Price: 11,99 € EUR
+  - [3 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318739794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2d55b7fe66594aa9bc27f0df4710754by.webp?v=1773963080
+    Price: 11,99 € EUR
+  - [3 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318707026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2d55b7fe66594aa9bc27f0df4710754by.webp?v=1773963080
+    Price: 11,99 € EUR
+  - [3 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318674258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2d55b7fe66594aa9bc27f0df4710754by.webp?v=1773963080
+    Price: 11,99 € EUR
+  - [4 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318641490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd90a9cfe924748839122f9f2bfe30adcl.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [4 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318608722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd90a9cfe924748839122f9f2bfe30adcl.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [4 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318575954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd90a9cfe924748839122f9f2bfe30adcl.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [4 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318543186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd90a9cfe924748839122f9f2bfe30adcl.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [4 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318510418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd90a9cfe924748839122f9f2bfe30adcl.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [4 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318477650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd90a9cfe924748839122f9f2bfe30adcl.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [5 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318444882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfa5fe2941104457ca5d5e674f3de6759Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [5 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318412114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfa5fe2941104457ca5d5e674f3de6759Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [5 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318379346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfa5fe2941104457ca5d5e674f3de6759Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [5 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990318346578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfa5fe2941104457ca5d5e674f3de6759Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [5 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317396306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfa5fe2941104457ca5d5e674f3de6759Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [5 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317363538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfa5fe2941104457ca5d5e674f3de6759Y.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [6 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317330770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8f3007e19ee452e9e0823e1973403baZ.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [6 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317298002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8f3007e19ee452e9e0823e1973403baZ.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [6 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317265234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8f3007e19ee452e9e0823e1973403baZ.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [6 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317232466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8f3007e19ee452e9e0823e1973403baZ.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [6 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317199698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8f3007e19ee452e9e0823e1973403baZ.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [6 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317166930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se8f3007e19ee452e9e0823e1973403baZ.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [7 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317134162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3a9beea5e2c6472f842f26ef1ef1e29d7.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [7 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317101394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3a9beea5e2c6472f842f26ef1ef1e29d7.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [7 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317068626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3a9beea5e2c6472f842f26ef1ef1e29d7.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [7 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317035858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3a9beea5e2c6472f842f26ef1ef1e29d7.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [7 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317003090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3a9beea5e2c6472f842f26ef1ef1e29d7.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [7 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990316970322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S3a9beea5e2c6472f842f26ef1ef1e29d7.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [8 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990316937554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4239742dadf54eca9bb3af952189a038u.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [8 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990316904786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4239742dadf54eca9bb3af952189a038u.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [8 / L](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317920594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4239742dadf54eca9bb3af952189a038u.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [8 / XL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317887826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4239742dadf54eca9bb3af952189a038u.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [8 / XXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317855058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4239742dadf54eca9bb3af952189a038u.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [8 / XXXL](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317822290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4239742dadf54eca9bb3af952189a038u.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [9 / S](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317789522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saad27920578342468b9ae97e0883f56fu.webp?v=1773963079
+    Price: 11,99 € EUR
+  - [9 / M](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops?variant=52990317756754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Saad27920578342468b9ae97e0883f56fu.webp?v=1773963079
+    Price: 11,99 € EUR
 
 ## Collections
 
 - [Coleção Mulher - VELOXIS](https://veloxispt.myshopify.com/collections/mulher): Explore a nossa seleção de produtos para mulher na VELOXIS. Qualidade e estilo em cada peça.
-  Updated: 2026-03-09T18:58:24Z
-  Total Products: 34
+  Updated: 2026-03-16T14:18:30Z
+  Total Products: 35
 - [Coleção Homem - VELOXIS](https://veloxispt.myshopify.com/collections/homem): Explore a nossa seleção de produtos para homem na VELOXIS. Qualidade e estilo em cada peça.
-  Updated: 2026-03-14T17:20:18Z
-  Total Products: 22
+  Updated: 2026-03-19T23:52:22Z
+  Total Products: 23
 - [New Collection](https://veloxispt.myshopify.com/collections/new-collection): Novidades Exclusivas Para Si!
   Updated: 2026-03-06T14:31:32Z
   Total Products: 6
@@ -5007,8 +5279,8 @@
   Updated: 2026-03-11T20:28:46Z
   Total Products: 10
 - [Roupa Desportiva - Catálogo Completo VELOXIS | Qualidade Premium](https://veloxispt.myshopify.com/collections/todos-os-produtos): Explora toda a coleção VELOXIS de roupa desportiva. Leggings, tops, camisolas e mais. Performance e estilo para o teu treino.
-  Updated: 2026-03-14T14:10:48Z
-  Total Products: 48
+  Updated: 2026-03-19T23:52:22Z
+  Total Products: 50
 
 ## Blogs
 
