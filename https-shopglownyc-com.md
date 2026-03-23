@@ -1,21 +1,23 @@
 # GLOW (https://shopglownyc.com)
 
-> Welcome to GLOW, where premium nutrition meets delicious convenience. We create high-quality wellness gummies formulated with powerful, science-backed ingredients to support your health from the inside out.
-Our Collection
-Our carefully crafted range includes targeted formulations for every wellness goal:
-Shilajit Gummies with Vitamin C, B6, and B12 for energy and vitality
-Turmeric + Ginger + Black Pepper for natural anti-inflammatory support
-Lion's Mane + Vitamin B6 for cognitive function and mental clarity
-Ashwagandha + Vitamin B6 for stress relief and balanced mood
-Multivitamin + Mineral for complete daily nutritional support
-Magnesium + Zinc + B6 for recovery, sleep, and immune health
-Apple Cider Vinegar + C + B6 + Chromium for metabolism and wellness
+> The Finest Matcha in the World, Delivered to You. ✨
+We built GLOW for the ones who appreciate the extraordinary. The ones who know that a truly great cup of matcha isn't just a drink — it's a moment worth savouring.
 
-Why Choose GLOW?
-We believe wellness should be simple, effective, and enjoyable. Our vegan, gluten-free gummies combine ancient botanicals with modern nutritional science, delivering potent benefits in a delicious, easy-to-take format. No pills, no hassle—just pure, powerful ingredients you can trust.
-Each 60-piece bottle is formulated with transparent ingredient lists and premium quality standards, because your wellness journey deserves nothing less.
-Glow From Within
-Whether you're supporting your immune system, managing stress, boosting energy, or optimizing your daily nutrition, GLOW makes it easy to feel your best every day.
+We Hunt. You Sip. Everyone Wins.
+Our team obsessively researches, samples, and vets the world's most exceptional matcha products — and only the ones that genuinely blow us away make it into the GLOW collection.
+
+Think of us as your very discerning, very passionate matcha-obsessed best friend who happens to have incredible taste.
+
+What's in the Collection?
+🍵 Ceremonial-Grade Matcha — First-harvest, shade-grown, stone-ground perfection. The kind of matcha that makes you pause and appreciate the moment.
+🌿 Adaptogenic Wellness Blends — Premium matcha meets lion's mane, ashwagandha, and reishi. Glow up from the inside out.
+✨ The Ritual Edit — Beautiful accessories for those who take their matcha as seriously as we do.
+Our Rule: If We Wouldn't Drink It Every Day, It's Not in Our Store.
+Simple. Uncompromising. A little obsessive? Maybe. But that's what makes GLOW, GLOW.
+
+Welcome to the good stuff. You deserve it.
+
+Sip boldly. Glow daily. 🌟
 
 - Domain: https://shopglownyc.com
 - Locale: en
@@ -23,154 +25,87 @@ Whether you're supporting your immune system, managing stress, boosting energy, 
 - Timezone: Europe/Athens
 - Created At: 2026-02-15T13:02:04Z
 - Contact Email: infoglownewyork@gmail.com
-- Updated At: 2026-03-15T00:00:27.066Z
-
-About Us
-Welcome to GLOW
-At GLOW, we believe that wellness should be simple, delicious, and effective. Our premium collection of wellness gummies is crafted with high-quality ingredients to support your health journey in the most convenient way possible. Every product is vegan, sugar-free, and formulated to deliver real results.
-
-Our Philosophy
-We're committed to making wellness accessible and enjoyable. Gone are the days of hard-to-swallow pills and unpleasant supplements. Our gummies combine science-backed ingredients with delicious flavors, making it easy to maintain your daily wellness routine. We believe you deserve to know exactly what you're putting in your body, which is why we provide complete ingredient transparency.
-
-Our Product Range
-Digestive & Metabolic Support: Our Apple Cider Vinegar gummies combine the benefits of ACV with vitamin C, B6, and chromium to support your metabolism, immune system, and balanced blood sugar levels—all in a delicious apple-flavored format.
-
-Essential Nutrients: From our Magnesium + Zinc + B6 gummies that support energy and muscle health, to our comprehensive Multivitamin + Mineral gummies with 10 essential vitamins, we make it easy to fill nutritional gaps and maintain optimal wellness.
-
-Stress & Cognitive Support: Experience natural stress relief with our Ashwagandha gummies, or boost your cognitive function with Lion's Mane mushroom gummies—both enhanced with vitamin B6 for additional nervous system support.
-
-Anti-Inflammatory & Vitality: Our Turmeric + Ginger + Black Pepper gummies harness natural anti-inflammatory benefits, while our premium Shilajit gummies with 20% fulvic acid support natural vitality and nutrient absorption, enhanced with vitamins C, B6, and B12.
-
-What Makes Us Different
-Every GLOW product is thoughtfully formulated to combine traditional wellness ingredients with modern nutritional science. We use only premium, bioavailable ingredients that your body can actually absorb and use. Our gummies are never just candy—they're functional supplements designed to support specific aspects of your health.
-
-Our Commitment
-We're dedicated to creating products that are:
-
-100% vegan and cruelty-free
-Sugar-free formulations
-Made with premium, bioavailable ingredients
-Backed by transparent ingredient lists
-Delicious and easy to incorporate into daily routines
-Formulated with science-backed dosages
-Free from unnecessary additives and fillers
-Thank you for choosing GLOW. We're honored to be part of your wellness journey.
+- Updated At: 2026-03-23T00:00:21.776Z
 
 ## Products
 
-- [Apple Cider Vinegar Gummies with Vitamin C, B6 & Chromium | GLOW](https://shopglownyc.com/products/apple-cider-vinegar-c-b6-chromium-gummies-60-pcs-1): Support metabolism and digestion with GLOW's vegan Apple Cider Vinegar Gummies enriched with Vitamin C, B6 & Chromium. 60 sugar-free gummies per pack.
-  Updated: 2026-03-07T03:46:57Z
-  Vendor: ChanceToBrand
-  Product Type: Vitamins & Supplements
+- [Bio Ceremonial Matcha 30g | 1st Harvest Organic | GLOW](https://shopglownyc.com/products/bio-matcha-tee-ceremonial-30g): Premium ceremonial grade organic matcha, 1st harvest. Rich in antioxidants and adaptogens. Vegan & sugar-free. Shop GLOW's Bio Matcha Tee — 30g.
+  Updated: 2026-03-20T01:56:46Z
+  Vendor: GLOW
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/41f9c2c7-5ffc-4390-bf55-49bfa339313c_c5fcac8d-e798-4d80-9e24-21fc71d28934.jpg?v=1772809168
-  Price: €22.99 EUR
-- [Ashwagandha & Vitamin B6 Gummies for Stress Relief | GLOW](https://shopglownyc.com/products/ashwagandha-vitamin-b6-gummies-60-pcs-1): Calm your mind and reduce stress with GLOW's vegan Ashwagandha & B6 Gummies. 60 sugar-free gummies formulated for daily wellness support.
-  Updated: 2026-03-12T13:53:32Z
-  Vendor: ChanceToBrand
-  Product Type: Vitamins & Supplements
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/HB_Matcha_Ceremonial_30g_Dose_MatchaPowder_mitGramm_Lila_jpg.webp?v=1773806246
+  Price: €54.99 EUR
+- [Matcha Set Kumo Chawan Vanilla Swirl | Premium Matcha Kit | GLOW](https://shopglownyc.com/products/matcha-set-m-kumo-chawan-vanilla-swirl): Shop GLOW's Matcha Set M — includes 50g ceremonial organic matcha, bamboo whisk & handcrafted Kumo Chawan bowl. The perfect matcha gift set.
+  Updated: 2026-03-19T15:11:46Z
+  Vendor: GLOW
+  Product Type: Matcha Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/9ef8eb12-8793-4936-8368-81029cf60870_5a48a428-ce00-4984-89e0-b3eee51949be.jpg?v=1772809510
-  Price: €22.99 EUR
-- [Magnesium, Zinc & Vitamin B6 Gummies for Sleep & Recovery | GLOW](https://shopglownyc.com/products/magnesium-zinc-b6-gummies-60-pcs-1): Support muscle recovery and restful sleep with GLOW's vegan Magnesium, Zinc & B6 Gummies. 60 sugar-free gummies for daily mineral support.
-  Updated: 2026-03-10T07:27:46Z
-  Vendor: ChanceToBrand
-  Product Type: Vitamins & Supplements
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/HB_Set_M_ChawanVanilla_jpg.webp?v=1773819337
+  Price: €125.99 EUR
+- [Organic Ceremonial Matcha 50g | 1st Harvest Premium Matcha | GLOW](https://shopglownyc.com/products/bio-matcha-tee-ceremonial-50g): GLOW's 50g organic ceremonial matcha — 1st harvest, stone-ground in Uji Kyoto. Rich in antioxidants. Vegan & sugar-free.
+  Updated: 2026-03-19T15:14:01Z
+  Vendor: GLOW
+  Product Type: Matcha Tea
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/2b9085bf-52b4-4cd8-9fec-d383ad81bc7c_baab2254-1c74-4c3d-bdbb-81bace17c44f.jpg?v=1772809765
-  Price: €22.99 EUR
-- [Shilajit Gummies with Vitamin C, B6 & B12 for Energy | GLOW](https://shopglownyc.com/products/shilajit-gummies-vitamin-c-b6-b12-60-pcs-1): Boost energy and vitality with GLOW's vegan Shilajit Gummies enriched with Vitamins C, B6 & B12. 60 sugar-free gummies for peak daily performance.
-  Updated: 2026-03-08T15:51:53Z
-  Vendor: ChanceToBrand
-  Product Type: Vitamins & Supplements
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/HB_Matcha_50g_Ceremonial_mitGramm_Lila_607f4228-f382-417a-8d3a-67cc2536a73e_jpg.webp?v=1773822108
+  Price: €68.50 EUR
+- [Matcha Tool Set | Traditional Matcha Accessories | GLOW](https://shopglownyc.com/products/matcha-tool-set): This set offers an enhanced collection of accessories for a truly special matcha ritual. The golden spoon measures the ideal portion of matcha. The matcha whisk, crafted from golden bamboo, is meticulously handmade and ensures a creamy texture and delicate froth. The chasen yasume keeps the whisk in optimal shape and allows it to dry gently. The set is complemented by the Hearty Mixing Bowl Creamy White, whose distinctive heart shape is handcrafted in Portugal and provides ideal conditions for whisking and pouring. Why this bundle? • Complete matcha ritual setup with premium tools • Golden bamboo whisk handcrafted for optimal performance • Artisan mixing bowl from Portugal • High quality, aesthetic, and ideal as a gift Together, these pieces create a cohesive set that simplifies your ritual and enhances its visual appeal.
+  Updated: 2026-03-19T13:56:43Z
+  Vendor: GLOW
+  Product Type: Tea Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/9417ea5b-f29d-4b53-94e4-838190f470c7_26d7230a-b43b-4d16-b816-6bacc3689134.jpg?v=1772810125
-  Price: €22.99 EUR
-- [Multivitamin & Mineral Gummies for Complete Daily Nutrition | GLOW](https://shopglownyc.com/products/multivitamin-mineral-gummies-60-pcs-1): Get complete daily nutrition with GLOW's vegan Multivitamin & Mineral Gummies. 60 sugar-free gummies packed with essential vitamins and minerals.
-  Updated: 2026-03-10T07:26:45Z
-  Vendor: ChanceToBrand
-  Product Type: Vitamins & Supplements
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/ToolSetM_1_jpg.webp?v=1773824856
+  Price: €95.00 EUR
+- [Hojicha Tea 60g | Roasted Japanese Green Tea | GLOW](https://shopglownyc.com/products/hojicha-tea-60g): Contents: 100% organic Hojicha green tea, loose tea Discover the unique Hojicha tea – a noble, 100% organic tea from the tea plantations of Kyoto, Japan. Hojicha stands out from other green teas through its gentle roasting, which gives it a distinctive aroma and a warm, carmine-brown color. Taste experience:With every cup, enjoy a gentle, sweet caramel flavor combined with soothing woody notes. This harmonious composition makes Hojicha tea ideal for tea lovers seeking a mild yet deep taste. Special features:- 100% organically grown- Mild roasted aromas for a unique taste experience- Light and easy to digest, ideal for daily enjoyment- Low caffeine content Dive into the world of Hojicha tea – a perfect balance between tradition and modern tea enjoyment. Ideal for quiet moments and a healthy, relaxing break. CULTIVATION AND ORIGIN Our Hojicha comes from Japan, the country that is famous for his tea art worldwide. The tea is made from carefully selected, biologically grown leaves to ensure the highest quality. Traditionally roasted - originally from Kyoto:The production of Hojicha is based on a special method that was developed in Kyoto in 1920. The tea leaves are gently roasted, which gives the tea its characteristic aroma variety. The name "Hoji-Cha" (ほうじ茶) means "roasted tea". PREPARATION Teemen: 2-3 g to 200 ml Temperature of the water: 75-90 ° C Pull time: 1-3 min Number of infusions: 3 Our packaging: Sustainability is close to our hearts. Our packaging is made from recyclable material in Europe. Our BRCGS certification has been renewed. This confirms that our packaging meets the highest quality and safety standards. For our customers, this means safe, reliable products and cooperation with a responsible, continuously improving partner. Hojicha is created by roasting green tea leaves at high temperatures, which gives it its characteristic nutty flavor. The roasting effect makes this tea particularly mild and digestible. Unlike other green teas, Hojicha contains less caffeine, making it an ideal tea for the evening or for those looking for a milder alternative. Character & Special Features In contrast to classic green tea, Hojicha through the roasting of the tea leaves. This process gives the tea its mild, roasted aroma with nutty and slightly caramel notes. Hojicha is versatile and suitable for various preparations – pure, as Hojicha Latte or in recipes.
+  Updated: 2026-03-19T13:56:43Z
+  Vendor: GLOW
+  Product Type: Hojicha Tea
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/264db783-8a6e-451b-bea1-84a568e15030_365c3e24-e2cc-4d9e-bde9-e99ab29e216a.jpg?v=1772810402
-  Price: €22.99 EUR
-- [Lion's Mane & Vitamin B6 Gummies for Focus & Brain Health | GLOW](https://shopglownyc.com/products/lions-mane-vitamin-b6-gummies-60-pcs-1): Sharpen focus and support brain health with GLOW's vegan Lion's Mane & B6 Gummies. 60 sugar-free gummies for cognitive clarity and mental performance.
-  Updated: 2026-03-12T13:52:41Z
-  Vendor: ChanceToBrand
-  Product Type: Vitamins & Supplements
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/HojichaLeaves_60g_Dose_jpg.webp?v=1773826721
+  Price: €29.50 EUR
+- [Sencha Green Tea 60g | Premium Japanese Green Tea | GLOW](https://shopglownyc.com/products/sencha-green-tea-60g): Contents: 60g organic Sencha green tea from Japan Discover the pure freshness of Japan with our 100% organic Sencha green tea. This high-quality tea is grown and processed in Japan using traditional methods to preserve its authentic taste and valuable ingredients. Sencha green tea is characterized by its lightly sweet, refreshing note, accompanied by a delicate hint of earthy aromas. Its greenish-golden infusion not only gives your tea moment an appealing color but also a distinctive taste. Benefits of our Sencha green tea:- 100% organic and sustainably grown- Rich in antioxidants and natural nutrients- Lightly sweet, refreshing taste with earthy nuances- Ideal for daily enjoyment Traditionally steamed – Finest Sencha from Uji and Kyushu: While Uji is famous for its long tradition in producing high-quality Sencha, Kyushu offers ideal climatic conditions for growing green tea. PREPARATION Teemen: 2-3 g to 200 ml Temperature of the water: 70-80 ° C Pull time: approx. 2 min Number of possible infusions: 3 Unique preparation:The name "Sencha" (煎茶) literally means "cooked tea" and describes the traditional preparation in which hot water is poured over the carefully dried tea leaves. In order to develop the full aroma and nuances of the senchabar, it is recommended to use soft, pH-neutral water. Our packaging: Sustainability is close to our hearts. Our packaging is made from recyclable material in Europe. Our BRCGS certification has been renewed. This confirms that our packaging meets the highest quality and safety standards. For our customers, this means safe, reliable products and cooperation with a responsible, continuously improving partner. Sencha is one of the most popular green teas in Japan and is produced by steaming freshly harvested tea leaves. This process preserves the tea leaves' natural flavors and valuable nutrients. Exposure to direct sunlight gives Sencha its characteristic, slightly bitter flavor, rounded off by a pleasant sweetness. Here you will find only organically grown Sencha of the highest quality.
+  Updated: 2026-03-19T13:56:43Z
+  Vendor: GLOW
+  Product Type: Green Tea
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/6de4d0e1-3fa5-4e01-ba11-c83b9ad838a9_ac90a0a7-e280-4536-a26f-d49a7ebf6345.jpg?v=1772810682
-  Price: €22.99 EUR
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/SenchaLeaves_60g_Dose_jpg.webp?v=1773827226
+  Price: €29.50 EUR
 
 ## Collections
 
-- [GLOW Gummies](https://shopglownyc.com/collections/ashwagandha-shilajit-gummies-turmeric-lions-mane-multivitamin-gummies-magnesium-zinc-b6-gummies-apple-cider-vinegar-c-b6-chromium-gummies)
-  Updated: 2026-03-06T15:37:49Z
-  Total Products: 6
-- [AVADA - Best Sellers](https://shopglownyc.com/collections/avada-best-sellers)
-  Updated: 2026-03-08T14:55:54Z
-  Total Products: 6
+- [Best Sellers](https://shopglownyc.com/collections/avada-best-sellers)
+  Updated: 2026-03-21T05:24:42Z
+  Total Products: 7
 
 ## Blogs
 
 - [News](https://shopglownyc.com/blogs/news)
-  - [Ingredient Guide: What's in GLOW Wellness Gummies | GLOW](https://shopglownyc.com/blogs/news/ingredient-guide-the-power-behind-glow-wellness-gummies): Ingredient Guide: What's in GLOW Wellness Gummies | GLOW
-    Updated: 2026-03-01T14:34:04Z
+  - [Matcha and the Art of Intentional Wellness](https://shopglownyc.com/blogs/news/matcha-and-the-art-of-intentional-wellness)
+    Updated: 2026-03-19T15:30:07Z
     Author: Val KALIS
-  - [Understanding Wellness Gummies The Health Benefits Explained](https://shopglownyc.com/blogs/news/understanding-wellness-gummies-the-health-benefits-explained): Understanding Wellness Gummies The Health Benefits Explained
-    Updated: 2026-03-01T14:34:04Z
-    Author: GLOW
-  - [Boost Your Immune System: Top Vitamins, Minerals & Supplements 2026](https://shopglownyc.com/blogs/news/boost-your-immune-system-vitamins-minerals-supplements-1516-95): Boost Your Immune System: Top Vitamins, Minerals & Supplements 2026
-    Updated: 2026-03-09T18:17:18Z
-    Author: Val KALIS
-  - [Top Ten Reasons Wellness Gummies Should Be in Your Daily Routine](https://shopglownyc.com/blogs/news/top-ten-reasons-wellness-gummies-should-be-in-your-daily-routine): Top Ten Reasons Wellness Gummies Should Be in Your Daily Routine
-    Updated: 2026-03-01T14:34:07Z
-    Author: GLOW
-  - [How to Choose the Best Wellness Gummies for Your Needs](https://shopglownyc.com/blogs/news/consider-your-health-goals)
-    Updated: 2026-03-03T13:46:26Z
-    Author: Val KALIS
-  - [5 Hidden Signs of Chronic Stress You're Ignoring: How to Pick Quality Gummies](https://shopglownyc.com/blogs/news/creatine-gummies-ashwagandha-vitamin-b6-gummies-60): 5 Hidden Signs of Chronic Stress You're Ignoring: How to Pick Quality Gummies
-    Updated: 2026-03-05T18:09:31Z
-    Author: u4j90u-ph
-  - [A Complete Guide to Wellness Gummies for Beginners](https://shopglownyc.com/blogs/news/a-complete-guide-to-wellness-gummies-for-beginners): A Complete Guide to Wellness Gummies for Beginners
-    Updated: 2026-03-06T15:57:54Z
-    Author: GLOW
-  - [Exploring the Benefits of Wellness Gummies for a Balanced Life](https://shopglownyc.com/blogs/news/exploring-the-benefits-of-wellness-gummies-for-a-balanced-life-1): Exploring the Benefits of Wellness Gummies for a Balanced Life
-    Updated: 2026-03-07T17:38:11Z
-    Author: GLOW
-  - [Wellness Gummies vs Traditional Supplements A Comparative Breakdown](https://shopglownyc.com/blogs/news/wellness-gummies-vs-traditional-supplements-a-comparative-breakdown): Wellness Gummies vs Traditional Supplements A Comparative Breakdown
-    Updated: 2026-03-08T14:29:26Z
-    Author: GLOW
-  - [The Science Behind Wellness Gummies Why They Work](https://shopglownyc.com/blogs/news/the-science-behind-wellness-gummies-why-they-work): The Science Behind Wellness Gummies Why They Work
-    Updated: 2026-03-13T08:00:26Z
-    Author: GLOW
-  - [Common Questions About Wellness Gummies Answered](https://shopglownyc.com/blogs/news/common-questions-about-wellness-gummies-answered): Common Questions About Wellness Gummies Answered
-    Updated: 2026-03-14T01:03:21Z
-    Author: GLOW
+  - [10 Health Benefits of Drinking Matcha Tea Every Day](https://shopglownyc.com/blogs/news/10-health-benefits-of-drinking-matcha-tea-every-day): 10 Health Benefits of Drinking Matcha Tea Every Day
+    Updated: 2026-03-18T11:34:26Z
+    Author: User
+  - [Unlocking the Secrets of Matcha Tea: A Beginner's Guide](https://shopglownyc.com/blogs/news/unlocking-the-secrets-of-matcha-tea-a-beginners-guide): Unlocking the Secrets of Matcha Tea: A Beginner's Guide
+    Updated: 2026-03-19T00:52:12Z
+    Author: User
+  - [The Ultimate Guide to Matcha Tea Benefits Have You Tried It Yet](https://shopglownyc.com/blogs/news/the-ultimate-guide-to-matcha-tea-benefits-have-you-tried-it-yet): The Ultimate Guide to Matcha Tea Benefits Have You Tried It Yet
+    Updated: 2026-03-20T01:50:30Z
+    Author: User
 
 ## Store Pages
 
-- [Contact Us for Inquiries and Support](https://shopglownyc.com/pages/contact): Get in Touch: Contact Us Why Contact Us? We understand that having accessible communication is vital, so we encourage you to get in touch. Contact ...
-  Updated: 2026-03-05T19:26:35Z
+- [Contact Us for Inquiries and Support](https://shopglownyc.com/pages/contact): Why Contact Us? We understand that having accessible communication is vital, so we encourage you to get in touch. Contact us to ask questions, shar...
+  Updated: 2026-03-20T07:39:14Z
 - [Your Privacy Choices](https://shopglownyc.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-02-18T14:43:07Z
-- [Ingredients & Certification - GLOW](https://shopglownyc.com/pages/ingredients-certification): Skincare Formulas & Ingredients Sunscreen | Boosters | Cleansers | Conditioners | Toners | Serums | Eye creams | Facial oils | Moisturisers | Hand ...
-  Updated: 2026-02-18T15:33:07Z
-- [About Us - GLOW Premium Skincare](https://shopglownyc.com/pages/about-us): Welcome to GLOW At GLOW, we believe that wellness should be simple, delicious, and effective. Our premium collection of wellness gummies is crafted...
-  Updated: 2026-02-27T19:30:29Z
-- [FAQ - GLOW Wellness Gummies](https://shopglownyc.com/pages/frequently-asked-questions): General Questions What makes GLOW gummies different from other supplements?All GLOW gummies are 100% vegan, sugar-free, and formulated with premium...
-  Updated: 2026-03-08T00:43:36Z
-- [html sitemap products](https://shopglownyc.com/pages/html-sitemap-products): Products Apple Cider Vinegar + C + B6 +... Magnesium + Zinc + B6 Gummies ... Multivitamin + Mineral Gummies... Ashwagandha + Vitamin B6 Gummi... Li...
-  Updated: 2026-02-27T18:18:04Z
-- [html sitemap collections](https://shopglownyc.com/pages/html-sitemap-collections): Collections Home page Digital Goods VAT Tax Ashwagandha,Shilajit Gummies,T... .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-site...
-  Updated: 2026-02-27T18:18:05Z
-- [html sitemap blogs](https://shopglownyc.com/pages/html-sitemap-blogs): Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
-  Updated: 2026-02-27T18:18:07Z
-- [html sitemap articles](https://shopglownyc.com/pages/html-sitemap-articles): Blog Posts Ingredient Guide: The Power Be... Understanding Wellness Gummies... 15 Effective Ways to Boost You... .seoant-html-sitemap-row { margin-...
-  Updated: 2026-02-27T18:18:08Z
-- [html sitemap pages](https://shopglownyc.com/pages/html-sitemap-pages): Pages Contact Your Privacy Choices Ingredients & Certification About Us Frequently Asked Questions html sitemap products html sitemap collections h...
-  Updated: 2026-02-27T18:18:10Z
-- [html sitemap](https://shopglownyc.com/pages/html-sitemap): Products Apple Cider Vinegar + C + B6 +... Magnesium + Zinc + B6 Gummies ... Multivitamin + Mineral Gummies... Ashwagandha + Vitamin B6 Gummi... Li...
-  Updated: 2026-02-27T18:18:11Z
+- [About Us - GLOW Premium Skincare](https://shopglownyc.com/pages/about-us): The Finest Matcha in the World, Delivered to You. ✨ We built GLOW for the ones who appreciate the extraordinary. The ones who know that a truly gre...
+  Updated: 2026-03-19T00:39:41Z
+- [FAQ | GLOW — Your Matcha Questions, Answered](https://shopglownyc.com/pages/faq): Frequently Asked Questions About Our Matcha What grade of matcha do you ?We exclusively carry ceremonial-grade matcha — the highest quality ava...
+  Updated: 2026-03-18T04:52:54Z
+- [What is Matcha ?](https://shopglownyc.com/pages/what-is-matcha): Matcha is grounded green tea in its purest form, but contains more secondary plant substances ( color, fragrance, and flavor) and is therefore bett...
+  Updated: 2026-03-19T09:10:05Z
 
 ## Policies
 
@@ -189,34 +124,3 @@ Thank you for choosing GLOW. We're honored to be part of your wellness journey.
 
 - [robots.txt](https://shopglownyc.com/robots.txt)
 - [sitemap.xml](https://shopglownyc.com/sitemap.xml)
-
-About Us
-Welcome to GLOW
-At GLOW, we believe that wellness should be simple, delicious, and effective. Our premium collection of wellness gummies is crafted with high-quality ingredients to support your health journey in the most convenient way possible. Every product is vegan, sugar-free, and formulated to deliver real results.
-
-Our Philosophy
-We're committed to making wellness accessible and enjoyable. Gone are the days of hard-to-swallow pills and unpleasant supplements. Our gummies combine science-backed ingredients with delicious flavors, making it easy to maintain your daily wellness routine. We believe you deserve to know exactly what you're putting in your body, which is why we provide complete ingredient transparency.
-
-Our Product Range
-Digestive & Metabolic Support: Our Apple Cider Vinegar gummies combine the benefits of ACV with vitamin C, B6, and chromium to support your metabolism, immune system, and balanced blood sugar levels—all in a delicious apple-flavored format.
-
-Essential Nutrients: From our Magnesium + Zinc + B6 gummies that support energy and muscle health, to our comprehensive Multivitamin + Mineral gummies with 10 essential vitamins, we make it easy to fill nutritional gaps and maintain optimal wellness.
-
-Stress & Cognitive Support: Experience natural stress relief with our Ashwagandha gummies, or boost your cognitive function with Lion's Mane mushroom gummies—both enhanced with vitamin B6 for additional nervous system support.
-
-Anti-Inflammatory & Vitality: Our Turmeric + Ginger + Black Pepper gummies harness natural anti-inflammatory benefits, while our premium Shilajit gummies with 20% fulvic acid support natural vitality and nutrient absorption, enhanced with vitamins C, B6, and B12.
-
-What Makes Us Different
-Every GLOW product is thoughtfully formulated to combine traditional wellness ingredients with modern nutritional science. We use only premium, bioavailable ingredients that your body can actually absorb and use. Our gummies are never just candy—they're functional supplements designed to support specific aspects of your health.
-
-Our Commitment
-We're dedicated to creating products that are:
-
-100% vegan and cruelty-free
-Sugar-free formulations
-Made with premium, bioavailable ingredients
-Backed by transparent ingredient lists
-Delicious and easy to incorporate into daily routines
-Formulated with science-backed dosages
-Free from unnecessary additives and fillers
-Thank you for choosing GLOW. We're honored to be part of your wellness journey.
