@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-21T23:22:10Z
 - Contact Email: mingocards59@gmail.com
-- Updated At: 2026-03-15T00:00:36.530Z
+- Updated At: 2026-03-24T00:00:38.669Z
 
 ## Products
 
@@ -150,13 +150,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/Harper_Bryce-2011BowmanChromeRedPSA9_F.jpg?v=1757444869
   Price: $18.00 USD
-- [2022-23 Select Prizms Blue Cracked Ice #72 Paolo Banchero](https://mingocards59.com/products/2022-23-select-prizms-blue-cracked-ice-72-paolo-banchero): Score big with the 2022-23 Select Prizms Blue Cracked Ice #72 Paolo Banchero card! 🌟 Featuring the Duke Blue Devils standout and Orlando Magic's overall #1 draft pick, this collectible shines with a unique cracked ice design ❄️. Perfect for fans and collectors aiming to boost their lineup with a rising NBA star. Don't miss your chance to own a piece of basketball history! 🏀✨
-  Updated: 2026-01-25T21:06:55Z
-  Vendor: Mingo Cards 59
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/2022-23SelectPrizmsBlueCrackedIce_72PaoloBanchero_F.jpg?v=1757445862
-  Price: $50.00 USD
 - [2023 Panini Prizm Rookie Gear Prizms Pink #RG-CJS CJ Stroud](https://mingocards59.com/products/2023-panini-prizm-rookie-gear-prizms-pink-rg-cjs-cj-stroud): Celebrate the rise of CJ Stroud with the 2023 Panini Prizm Rookie Gear Prizms Pink #RG-CJS 🏈. This striking rookie card, graded PSA 9, captures Stroud’s dynamic energy from his Ohio State days 🏫, now heading to the Texans 🚩. Featuring a vibrant pink Prizm finish 💖, this card is a must-have for collectors wanting to own a piece of the future. Don’t miss out on showcasing your passion for this exciting young star ⭐!
   Updated: 2026-01-25T21:06:55Z
   Vendor: Mingo Cards 59
@@ -262,6 +255,34 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/PSA-131610384-front.jpg?v=1771632136
   Price: $160.00 USD
+- [2025 Topps Update Orange Diamante Foil #US307 Chad Patrick 14/25](https://mingocards59.com/products/2025-topps-update-orange-diamante-foil-us307-chad-patrick-14-25): Introducing the 2025 Topps Update Orange Diamante Foil #US307 Chad Patrick, limited to just 25 copies. This rookie card features the Milwaukee Brewers' promising pitcher, Chad Patrick. Collectors can appreciate its rarity and unique foil design, enhancing the card’s value and appeal in any collection. ⚾️✨
+  Updated: 2026-03-16T18:01:02Z
+  Vendor: Mingo Cards 59
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/rn-image_picker_lib_temp_5081faf1-6425-4865-8c6d-9fd2ac686e2b.jpg?v=1773590066
+  Price: $80.00 USD
+- [2023 Elite Extra Edition Impact Impressions Signatures #42 Sal Stewart](https://mingocards59.com/products/2023-elite-extra-edition-impact-impressions-signatures-42-sal-stewart)
+  Updated: 2026-03-16T17:43:09Z
+  Vendor: Mingo Cards 59
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/rn-image_picker_lib_temp_da6b0079-01a9-481c-a7df-a2f2aeaa8987.jpg?v=1773595251
+  Price: $50.00 USD
+- [2024 Rookies & Stars Jayden Star Search Patch Jayden Daniels /399 #SS-JDS](https://mingocards59.com/products/2024-rookies-stars-jayden-star-search-patch-jayden-daniels-399-ss-jds): Enhance your collection with the 2024 Rookies & Stars Jayden Star Search Patch featuring Jayden Daniels, numbered 341/399 #SS-JDS. As a promising breakout star and the Commanders QB, this card not only signifies his potential but also offers a unique opportunity for collectors due to its limited availability. 🌟🏈
+  Updated: 2026-03-17T03:00:00Z
+  Vendor: Mingo Cards 59
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/rn-image_picker_lib_temp_a163408d-682b-4fcb-add3-cdfe5ed98991.jpg?v=1773599324
+  Price: $30.00 USD
+- [2025 Topps Disney Wonder Wish Upon a Star Chrome Die-Cuts #W16 Rapunzel](https://mingocards59.com/products/2025-topps-disney-wonder-wish-upon-a-star-chrome-die-cuts-w16-rapunzel): ✨ Step into the enchanted world of Disney with this breathtaking 2025 Topps Disney Wonder Wish Upon a Star Chrome Die-Cut card featuring Rapunzel. 🌟 This magical collectible captures the golden-haired princess in stunning chrome detail, with intricate die-cut edges that shimmer like starlight. 💫 Each card is a portal to the kingdom of Corona, where dreams come true and wishes take flight. 🎆 Perfect for Disney devotees and serious collectors alike, this premium card combines the artistry of Topps with the timeless wonder of Disney magic. 🏰 The chrome finish creates an otherworldly glow, making Rapunzel's story come alive in your hands. Add this enchanted treasure to your collection and let the magic sparkle. ✨🌙
+  Updated: 2026-03-17T23:09:06Z
+  Vendor: Mingo Cards 59
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/20260316_131014.jpg?v=1773686554
+  Price: $5.00 USD
 
 ## Collections
 
@@ -269,17 +290,17 @@
   Updated: 2026-01-25T21:06:51Z
   Total Products: 0
 - [Graded - NFL](https://mingocards59.com/collections/graded-nfl): Graded NFL cards
-  Updated: 2026-02-26T03:46:43Z
-  Total Products: 20
+  Updated: 2026-03-15T18:37:03Z
+  Total Products: 21
 - [Graded - NBA & WNBA](https://mingocards59.com/collections/graded-nba-wnba-1)
-  Updated: 2026-03-14T15:51:05Z
+  Updated: 2026-03-15T23:25:16Z
   Total Products: 3
 - [Jersey Fusion - All Sports](https://mingocards59.com/collections/jersey-fusion-all-sports)
   Updated: 2026-01-25T21:06:51Z
   Total Products: 2
 - [Raw - MLB](https://mingocards59.com/collections/raw-mlb)
-  Updated: 2026-01-25T21:06:51Z
-  Total Products: 7
+  Updated: 2026-03-15T17:21:11Z
+  Total Products: 9
 - [Graded - MLB](https://mingocards59.com/collections/graded-mlb)
   Updated: 2026-01-25T21:06:51Z
   Total Products: 3
@@ -287,11 +308,11 @@
   Updated: 2026-02-05T12:23:21Z
   Total Products: 6
 - [Pop Culture](https://mingocards59.com/collections/pop-culture): Unique collector cards from movies etc.
-  Updated: 2026-02-02T12:20:23Z
-  Total Products: 1
+  Updated: 2026-03-16T18:58:12Z
+  Total Products: 2
 - [Featured Products](https://mingocards59.com/collections/featured-products): Top desirable cards
-  Updated: 2026-02-26T03:46:43Z
-  Total Products: 10
+  Updated: 2026-03-15T17:21:11Z
+  Total Products: 12
 
 ## Store Pages
 
