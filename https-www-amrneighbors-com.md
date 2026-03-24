@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-06-30T14:48:59Z
 - Contact Email: info@amrneighbors.com
-- Updated At: 2026-03-13T00:00:43.489Z
+- Updated At: 2026-03-24T00:00:47.831Z
 
 ## Products
 
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Picture9_bbb542c8-1dfb-4005-94ef-0bd99abe045e.jpg?v=1663100562
   Price: $34.95 USD
 - [Stress Free Quilt – King Size | Anti-Static, Relaxing Comfort](https://www.amrneighbors.com/products/stress-free-quilt-king-size): Unwind with the Stress Free Quilt (85×93 in). Carbon-infused fabric reduces static, promotes relaxation, and offers cozy warmth for restful sleep.
-  Updated: 2025-10-16T15:16:24Z
+  Updated: 2026-03-15T01:41:18Z
   Vendor: DOQU home
   Product Type: Quilts & Comforters
   Availability: Available
@@ -460,7 +460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/555555.jpg?v=1663360571
   Price: $14.99 USD
 - [Red Washcloth | American Neighbors](https://www.amrneighbors.com/products/red-washcloth-1): Add a fresh touch to your bathroom with this red washcloth from American Neighbors. Soft, absorbent, and perfect for everyday use.
-  Updated: 2025-10-25T12:57:24Z
+  Updated: 2026-03-20T09:20:29Z
   Vendor: DOQU home
   Product Type: Towels
   Availability: Available
@@ -906,7 +906,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/cde42200-7e84-4072-9495-76dd7837a569_size1856x1856.jpg?v=1664995393
   Price: $44.95 USD
 - [Soup Bowl | American Neighbours Elegant Ceramic Dinnerware](https://www.amrneighbors.com/products/soup-bowl): Discover this ceramic soup bowl by American Neighbours. Crafted in Turkey with food-safe dyes — hand-wash recommended; not suitable for microwave use.
-  Updated: 2025-10-22T19:06:57Z
+  Updated: 2026-03-14T05:21:39Z
   Vendor: Bella Maison
   Product Type: Bowls
   Availability: Available
@@ -997,7 +997,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/6e57e9d7-6b66-4155-acb0-914804180c37_size1856x1856.jpg?v=1665066517
   Price: $25.90 USD
 - [Candle Holder  Set of 2 Brown Handmade](https://www.amrneighbors.com/products/candle-holder-set-of-2-brown-handmade): Discover the exquisite craftsmanship of our Handmade Candle Holder Set of 2 Brown. Each candle holder in this set is meticulously handcrafted with attention to detail, resulting in a unique and artistic piece. The rich brown color adds a warm and inviting touch to any space. These candle holders are not only visually appealing but also functional, providing a safe and elegant way to display your favorite candles. Whether you're decorating for a special occasion or creating a cozy ambiance for everyday living, our Handmade Candle Holder Set of 2 Brown is a perfect choice. Shop now and bring a touch of handmade beauty to your home decor.
-  Updated: 2025-07-01T21:37:30Z
+  Updated: 2026-03-15T03:22:53Z
   Vendor: Bella Maison
   Product Type: Candle Holders
   Availability: Available
@@ -1018,7 +1018,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/yesil_jammy_koltuk_sali_200.20.01.0526.webp?v=1667499468
   Price: $11.99 USD
 - [White Bathrobe – 100% Cotton | American Neighbors Soft Robe](https://www.amrneighbors.com/products/white-bathrobe-100-cotton): Wrap up in comfort with our White Bathrobe – 100% cotton, OEKO-TEX & BSCI , free from harsh dyes and metals for healthy, restful wear.
-  Updated: 2025-10-19T12:08:17Z
+  Updated: 2026-03-20T04:38:05Z
   Vendor: Karaca Home
   Product Type: Bathrobe
   Availability: Available
@@ -1329,7 +1329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/WhatsAppImage2023-02-02at19.57.49.jpg?v=1675964222
   Price: $7.99 USD
 - [Organic Ginger Powder | 0.19 lb](https://www.amrneighbors.com/products/organic-ginger-powder-0-19-lb): Enhance your culinary creations with Organic Ginger Powder. This high-quality spice offers a distinct and aromatic flavor, perfect for adding a touch of warmth and depth to your dishes. Available in a convenient 0.19 lb package, it's a versatile ingredient that adds both taste and health benefits to your kitchen repertoire.
-  Updated: 2026-03-06T18:21:56Z
+  Updated: 2026-03-17T15:20:12Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -1364,7 +1364,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Sage-powder01.jpg?v=1674320225
   Price: $8.99 USD
 - [Organic Chaste Tree Berries | 0.19 lb](https://www.amrneighbors.com/products/organic-chaste-tree-berries-0-19-lb): Discover the benefits of Organic Chaste Tree Berries | 0.19 lb - a natural and organic herbal remedy known for its various health properties. Shop now for high-quality Chaste Tree Berries at affordable prices.
-  Updated: 2025-08-11T03:23:26Z
+  Updated: 2026-03-18T13:03:27Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -1399,7 +1399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Aniseed-Powder01.webp?v=1674321338
   Price: $5.99 USD
 - [Organic Fennel Seed | 0.19 lb](https://www.amrneighbors.com/products/organic-fennel-seed-0-19-lb): Discover the delightful flavor of Organic Fennel Seed | 0.19 lb. Perfect for enhancing your dishes with a hint of sweetness and a subtle licorice-like taste.
-  Updated: 2026-03-09T22:04:46Z
+  Updated: 2026-03-13T00:36:28Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -1413,7 +1413,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Fennel-Powder01.jpg?v=1674321659
   Price: $5.99 USD
 - [Organic Ceylon Cinnamon Sticks from Sri Lanka](https://www.amrneighbors.com/products/organic-ceylon-cinnamon-sticks-0-085-lb): Experience the rich aroma and subtle spiciness of our Organic Ceylon Cinnamon Sticks handcrafted in Sri Lanka. Sourced from the inner bark of cinnamon trees, these Grade C5 cinnamon sticks offer maximum flavor and numerous health benefits. Elevate your meals and well-being with our genuine and sustainable cinnamon sticks today.
-  Updated: 2026-02-11T23:35:35Z
+  Updated: 2026-03-22T15:04:12Z
   Vendor: Holistic Corner
   Product Type: spices
   Availability: Available
@@ -2072,7 +2072,7 @@
 ## Collections
 
 - [Towels and Bathrobes](https://www.amrneighbors.com/collections/all-towels): Experience ultimate comfort and style with our Towels & Bath Robe collection. Luxurious towels and cozy bath robes for a spa-like experience.
-  Updated: 2026-03-03T12:21:55Z
+  Updated: 2026-03-20T11:21:28Z
   Total Products: 49
 - [Hand Towels](https://www.amrneighbors.com/collections/hand-towels): Soft, absorbent, and stylish hand towels for everyday use. Elevate your bathroom with our collection of high-quality towels.
   Updated: 2026-02-01T12:17:42Z
@@ -2120,7 +2120,7 @@
   Updated: 2025-10-25T13:29:59Z
   Total Products: 6
 - [New Arrivals](https://www.amrneighbors.com/collections/new-arrivals): Discover the latest trends and must-have products in our New Arrivals collection. Stay stylish and up-to-date with our newest additions.
-  Updated: 2026-03-10T11:37:17Z
+  Updated: 2026-03-23T11:18:08Z
   Total Products: 267
 - [Living Room](https://www.amrneighbors.com/collections/living-room): Enhance your living room with our collection of rugs, vases, paintings, candles, TV blankets, and cushions. Elevate comfort and style.
   Updated: 2025-11-23T12:17:00Z
@@ -2132,7 +2132,7 @@
   Updated: 2025-11-19T12:19:56Z
   Total Products: 23
 - [Bath Robe](https://www.amrneighbors.com/collections/b-robe): Experience ultimate comfort and luxury with our bath robes. Wrap yourself in softness and relaxation after every bath or shower.
-  Updated: 2025-12-11T12:21:05Z
+  Updated: 2026-03-20T11:21:28Z
   Total Products: 7
 - [Cushion](https://www.amrneighbors.com/collections/cushion): Enhance your home decor with our luxurious Cushion collection. Plush, stylish, and comfortable cushions to elevate your living space.
   Updated: 2025-07-01T21:37:37Z
@@ -2171,19 +2171,19 @@
   Updated: 2026-01-04T12:16:30Z
   Total Products: 8
 - [Accessory](https://www.amrneighbors.com/collections/accessory): Transform your bathroom with our stylish bath accessories. From rugs and candle holders to essential sets, elevate your space with functionality and style.
-  Updated: 2025-12-11T12:21:05Z
+  Updated: 2026-03-20T11:21:28Z
   Total Products: 17
 - [Bathroom Mates](https://www.amrneighbors.com/collections/bathroom-mates): Enhance your bathroom with our stylish and functional mats. They provide comfort, safety, and add a touch of elegance to your space.
   Updated: 2025-07-01T21:37:02Z
   Total Products: 6
 - [Recommended products (Seguno)](https://www.amrneighbors.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-03-10T11:37:17Z
+  Updated: 2026-03-23T11:18:08Z
   Total Products: 227
 - [Holistic Corner](https://www.amrneighbors.com/collections/holistic-corner): Nourish your body and elevate your well-being with our Holistic Corner collection. Discover wholesome grains, herbs, snacks, and spices for a healthy lifestyle.
-  Updated: 2026-03-10T11:37:17Z
+  Updated: 2026-03-23T11:18:08Z
   Total Products: 33
 - [Spices](https://www.amrneighbors.com/collections/spices): Discover a world of flavor with our exquisite collection of spices. Elevate your culinary creations and delight your taste buds.
-  Updated: 2026-03-10T11:37:17Z
+  Updated: 2026-03-23T11:18:08Z
   Total Products: 18
 - [Herbs](https://www.amrneighbors.com/collections/herbs): Enhance your culinary creations with our aromatic and flavorful herb collection. Explore a world of fresh flavors and elevate your dishes.
   Updated: 2026-03-10T11:37:17Z
