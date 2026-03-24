@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-11-26T22:38:54Z
 - Contact Email: ordinigieffeshop@gmail.com
-- Updated At: 2026-03-15T00:00:47.264Z
+- Updated At: 2026-03-24T00:00:55.956Z
 
 ## Products
 
@@ -543,7 +543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/01475.jpg?v=1746690818
   Price: 74,00 € EUR
 - [VIMAR    01476   MODULO DOMOTICO 2 INGRESSI 3USCITE BY_ME](https://gieffeshop.it/products/vimar-01476-modulo-domotico-2ingressi-3uscite-by_me): DESCRIZIONE PRODOTTO Modulo domotico 2in 3out (1 tapp+2 LED) Modulo 2 ingressi digitali programmabili per contatti privi di potenziale, 1 uscita per una tapparella con orientamento delle lamelle a relè per motore cosÏ† 0.6 2 A 120-230 V~, 2 uscite per pilotaggio LED, domotica By-me, installazione da incasso (retrofrutto)
-  Updated: 2025-05-08T07:53:46Z
+  Updated: 2026-03-20T09:14:06Z
   Vendor: My Store
   Product Type: accessori domotica
   Availability: Available
@@ -655,7 +655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/2CSK1001CH.jpg?v=1746690971
   Price: 3,58 € EUR
 - [ABB   2CSK1002CH   INTERRUTTORE 2P 16A BIANCO](https://gieffeshop.it/products/abb-2csk1002ch-interruttore-2p-16a-1modulo-colore_bianco): DESCRIZIONE PRODOTTO ABB 2CSK1002CH SERIE CHIARA INTERRUTTORE 2P 16A 1 MODULO COLORE BIANCO Questo interruttore ABB 2CSK1002CH è progettato per garantire una sicurezza affidabile e una facile operatività. Con una capacità di interruzione di 2P 16A, questo interruttore vi offre il controllo completo sulla vostra energia elettrica. Il suo design moderno e il colore bianco si adattano perfettamente a qualsiasi ambiente domestico o commerciale.
-  Updated: 2025-05-08T07:56:14Z
+  Updated: 2026-03-23T23:30:49Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -1764,279 +1764,272 @@
 
 ## Collections
 
-- [SERIE CIVILE: STILE, FUNZIONALITA' E SICUREZZA](https://gieffeshop.it/collections/placche-e-interruttori): Acquista online prodotti di serie civile: placche, interruttori e prese delle migliori marche. Design moderno e prestazioni elevate per ogni ambiente.
-  Updated: 2026-03-13T14:47:43Z
-  Total Products: 36
-- [SOLUZIONI DI RISCALDAMENTO EFFICIENTI E MODERNE](https://gieffeshop.it/collections/riscaldamento-e-caldaie): Scopri le migliori soluzioni per il riscaldamento domestico e industriale: termoconvettori, stufe, pannelli radianti e molto altro a prezzi competitivi.
-  Updated: 2026-03-13T14:42:08Z
-  Total Products: 57
-- [Antifurti Casa Wireless e Filari | Sistemi di Sicurezza – GieffeShop](https://gieffeshop.it/collections/antifurti-e-sicurezza): Scopri antifurti per casa wireless e filari: sistemi di sicurezza affidabili, facili da installare e spedizione veloce. Acquista online su GieffeShop.
-  Updated: 2026-03-13T14:43:55Z
-  Total Products: 168
-- [CAVI ELETTRICI PROFESSIONALI DI QUALITA'](https://gieffeshop.it/collections/cavi-elettrici): Cavi elettrici per impianti civili e industriali. Affidabilità, sicurezza e prestazioni elevate per ogni tipo di installazione.
-  Updated: 2026-03-13T14:59:05Z
-  Total Products: 58
-- [DOMOTICA PER CASA INTELLIGENTE](https://gieffeshop.it/collections/domotica): Automatizza la tua casa con soluzioni di domotica innovative, sicure e facili da usare ogni giorno.
-  Updated: 2026-03-13T14:40:39Z
-  Total Products: 100
-- [ABB : TECNOLOGIA AFFIDABILE PROFESSIONALE](https://gieffeshop.it/collections/abb): ABB è leader globale in automazione, energia e domotica con soluzioni innovative, sicure e ad alte prestazioni per ogni esigenza.
-  Updated: 2026-03-13T12:00:21Z
-  Total Products: 94
-- [AVE PRODOTTI ELETTRICI INDUSTRIALI E CIVILI](https://gieffeshop.it/collections/ave): AVE professionali prodotti elettrici industriali e civili per ogni ambiente, al prezzo più basso del web
-  Updated: 2026-03-13T12:53:04Z
-  Total Products: 123
-- [BTICINO PRODOTTI INDUSTRIALI E CIVILI](https://gieffeshop.it/collections/bticino): BTicino, leader italiano nella produzione di prodotti elettrici industriali, civili e video citofonia .
-  Updated: 2026-03-13T10:34:24Z
-  Total Products: 244
-- [GEWISS : ENERGIA E DESIGN PROFESSIONALE](https://gieffeshop.it/collections/gewiss): Gewiss offre soluzioni per impianti elettrici, domotica e illuminazione con tecnologia avanzata e stile tutto italiano.
-  Updated: 2026-03-13T12:56:09Z
-  Total Products: 91
-- [VIMAR PRODOTTI ELETTRICI CIVILI ED INDUSTRIALI](https://gieffeshop.it/collections/vimar): Il meglio di VIMAR nei prodotti elettrici civili ed industriali professionali, al prezzo più basso del web
-  Updated: 2026-03-13T11:55:48Z
-  Total Products: 80
-- [ABB CASA DOMOTICA PROFESSIONALE](https://gieffeshop.it/collections/abb-dom): Prodotti ABB per la smart home, il sistema domotico per l'abitazione, consente di avere ogni ambiente sotto controllo.
-  Updated: 2026-03-13T12:53:25Z
-  Total Products: 2
-- [AVE DOMOTICA SMART HOME PROFESSIONALE](https://gieffeshop.it/collections/ave-domotica): AVE DOMOTICA Le soluzioni per la smart home AVE offrono il meglio della domotica, con comandi vocali e remoti, app dedicata
-  Updated: 2026-03-13T12:52:52Z
-  Total Products: 29
-- [BTICINO DOMOTICA PROFESSIONALE](https://gieffeshop.it/collections/bticino-domotica): Casa intelligente: smart o domotica. La sicurezza, il comfort e il risparmio energetico della tua casa diventano smart grazie ai prodotti connessi di Bticino.
-  Updated: 2026-03-13T10:34:04Z
-  Total Products: 41
-- [CAME : AUTOMAZIONE E COMFORT PROFESSIONALE](https://gieffeshop.it/collections/came): CAME offre soluzioni avanzate per automazione cancelli, sicurezza, termoregolazione e smart home. Tecnologia affidabile e design.
-  Updated: 2025-09-02T14:00:43Z
-  Total Products: 36
-- [COMELIT SICUREZZA PROFESSIONALE](https://gieffeshop.it/collections/comelit): Comelit offre soluzioni innovative per videocitofonia, domotica e sicurezza con tecnologia avanzata e design italiano.
-  Updated: 2026-03-13T12:44:02Z
-  Total Products: 10
-- [VIMAR CASA DOMOTICA PROFESSIONALE](https://gieffeshop.it/collections/vimar-domotica): VIMAR Smart Home: la casa Connessa — Controllare la casa è ancora più semplice grazie all'integrazione con comandi vocali o App.
-  Updated: 2026-03-13T11:55:36Z
-  Total Products: 29
-- [PRODOTTI ILLUMINAZIONE MODERNA E FUNZIONALE](https://gieffeshop.it/collections/prodotti-illuminazione): Scopri soluzioni per l'illuminazione di interni ed esterni : lampade LED, faretti, plafoniere e accessori per ogni ambiente.
-  Updated: 2026-03-14T11:30:08Z
-  Total Products: 484
-- [BEGHELLI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/beghelli-illuminazione): Beghelli realizza prodotti per l'illuminazione, di emergenza e a risparmio energetico, sistemi elettronici per la sicurezza domestica e industriale.
-  Updated: 2026-03-13T11:49:59Z
-  Total Products: 189
-- [DISANO ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/disano-illuminazione): Disano offre soluzioni di illuminazione professionale per interni ed esterni, con efficienza, tecnologia LED e design italiano.
-  Updated: 2026-03-14T11:30:08Z
-  Total Products: 46
-- [LEDVANCE ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/ledvance-illuminazione): Acquista luci ledvance professionali, illuminazioni intelligenti e tanto altro al prezzo più basso del web
-  Updated: 2026-03-13T13:11:31Z
-  Total Products: 42
-- [NOVALUX ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/novalux-illuminazione): Novalux dispositivi per l'illuminazione a LED e non solo, adattabili per ogni tipo di ambiente, sia esterno che interno, al prezzo più basso del web
-  Updated: 2026-03-13T13:51:59Z
-  Total Products: 10
-- [ARTELETA: LUCE E DESIGN PROFESSIONALE](https://gieffeshop.it/collections/arteleta): Arteleta propone soluzioni d’illuminazione professionale con prodotti LED efficienti, durevoli e dal design moderno.
-  Updated: 2026-03-13T12:33:46Z
-  Total Products: 88
-- [FLOS ILLUMINAZIONE DESIGN PROFESSIONALE](https://gieffeshop.it/collections/flos-illuminazione): Flos: illuminazione di design per interni ed esterni. Lampade iconiche, stile moderno e qualità Made in Italy per ogni ambiente.
-  Updated: 2026-03-13T12:37:09Z
-  Total Products: 23
-- [FOSNOVA ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/fosnova-illuminazione): Fosnova illuminazione professionale per ogni tipo di ambiente. Il prezzo più basso del web
-  Updated: 2026-03-13T13:12:04Z
-  Total Products: 10
-- [IGUZZINI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/iguzzini-illuminazione): Iguzzini illuminazione per interni ed esterni, adatta ad ogni ambiente. Impianti di illuminazione avanzati e innovativi. Il prezzo più basso del web
-  Updated: 2026-03-13T13:55:09Z
-  Total Products: 1
-- [LINEA LIGHT ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/linea-light): Linea Light design contemporaneo e qualità illuminativa. Prodotti di illuminazione professionali al prezzo più basso del web
-  Updated: 2026-03-13T12:31:04Z
-  Total Products: 19
-- [NOBILE ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/nobile-illuminazione): NOBILE offre un'illuminazione di qualità, ideale per valorizzare sia ambienti residenziali che commerciali, al prezzo più basso del web.
-  Updated: 2026-03-13T13:04:05Z
-  Total Products: 32
-- [PHILIPS LIGHTING PROFESSIONALE](https://gieffeshop.it/collections/philips-lighting): PHILIPS LIGHTING soluzioni per i professionisti. Tutto il meglio di PHILIPS al prezzo più basso del web
-  Updated: 2026-03-13T13:06:20Z
-  Total Products: 16
-- [SLV LIGHTING ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/slv-lighting): SLV Illuminazione professionale per la casa. Ideato per soddisfare ogni ambiente. SLV al prezzo più basso del web
-  Updated: 2026-03-13T12:26:59Z
-  Total Products: 7
-- [BEG ITALIA PRODOTTI PROFESSIONALI](https://gieffeshop.it/collections/beg-italia): BEGHELLI prodotti professionali , produzione di lampade di emergenza e accessori . Il prezzo più basso del web
-  Updated: 2026-03-13T13:19:37Z
-  Total Products: 1
-- [MARECO LUCE : LIGHT DESIGN PROFESSIONALE](https://gieffeshop.it/collections/mareco-luce): Mareco Luce realizza soluzioni d’illuminazione per esterni con design innovativo, qualità italiana e alta efficienza energetica.
-  Updated: 2026-03-13T13:09:29Z
-  Total Products: 18
-- [SCAME PARRE PRODOTTI PROFESSIONALI](https://gieffeshop.it/collections/scame-parre): SCAME PARRE produce componenti e sistemi per impianti elettrici in bassa tensione per settore civile, terziario e industriale. Il prezzo più basso del web
-  Updated: 2026-03-13T13:54:01Z
-  Total Products: 1
-- [LAMPADE ARTEMIDE DESIGN PAZZESCO](https://gieffeshop.it/collections/artemide): Scopri l’eleganza delle lampade Artemide: icone di design italiano, perfette per ogni ambiente moderno e raffinato.
-  Updated: 2026-03-13T12:48:29Z
-  Total Products: 22
-- [PANZERI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/panzeri): PANZERI ILLUMINAZIONE tutte le lampade di design moderne del marchio, lampade da terra, da tavolo, lampade da parete o da soffitto con prezzi più bassi del web
-  Updated: 2026-03-13T13:08:07Z
-  Total Products: 1
-- [FME FANTON ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/fme-fanton): FME FANTON ILLUMINAZIONE PROFESSIONALE Lampade con cavo , Lampade ricaricabili, Proiettori led, Plafoniere. Tutto al prezzo più basso del web
-  Updated: 2026-03-13T13:03:22Z
-  Total Products: 3
-- [LOMBARDO ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/lombardo-illuminazione): Lombardo Illuminazione offre soluzioni professionali per interni ed esterni: efficienza, stile e qualità 100% Made in Italy.
-  Updated: 2026-03-13T13:05:35Z
-  Total Products: 27
-- [PERFORMANCE IN LIGHTING PROFESSIONALE](https://gieffeshop.it/collections/performance-in-lighting): Performance in Lighting offre illuminazione professionale per interni ed esterni: efficienza, design e tecnologia per ogni progetto.
-  Updated: 2026-03-13T14:35:46Z
-  Total Products: 18
-- [ELCART ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/elcart-illuminazione): ELCART ILLUMINAZIONE PROFESSIONALE articoli per illuminazione a led. Vendita strisce, lampade, faretti e alimentatori driver per led. Prezzo più basso del web
-  Updated: 2026-03-13T13:13:42Z
-  Total Products: 2
-- [LAMPADE PROFESSIONALI PER OGNI AMBIENTE](https://gieffeshop.it/collections/lampade-led): Scopri lampade da tavolo, soffitto, parete e terra. Illuminazione funzionale e di design per casa, ufficio e spazi commerciali.
-  Updated: 2026-03-13T14:56:56Z
-  Total Products: 102
-- [PRODOTTI PERRY IMPIANTI SICURI E INNOVATIVI](https://gieffeshop.it/collections/perry): Scopri i prodotti Perry per automazione, termoregolazione e impianti elettrici professionali.
-  Updated: 2026-03-13T12:16:47Z
-  Total Products: 58
-- [DAHUA : SICUREZZA AVANZATA PROFESSIONALE](https://gieffeshop.it/collections/dahua): Dahua è leader globale nella videosorveglianza con telecamere, DVR e soluzioni smart per una sicurezza professionale e affidabile.
-  Updated: 2026-03-13T11:54:19Z
-  Total Products: 66
-- [VIDEO SORVEGLIANZA PROFESSIONALE](https://gieffeshop.it/collections/video-sorveglianza): Sistemi di videosorveglianza professionale per ambienti sicuri: immagini HD, controllo da remoto e tecnologia avanzata.
-  Updated: 2026-03-13T14:54:56Z
-  Total Products: 66
-- [MELCHIONI PRODOTTI AFFIDABILI ONLINE](https://gieffeshop.it/collections/melchioni): Componenti elettronici e soluzioni Melchioni per sicurezza, domotica e automazione industriale.
-  Updated: 2026-03-13T12:08:39Z
+- [Serie Civile: Placche, Prese e Interruttori | GieffeShop](https://gieffeshop.it/collections/placche-e-interruttori): Tutto per l'impianto elettrico di casa. Acquista placche, supporti e frutti delle serie civili BTicino, ABB e Vimar. Spedizione gratis da 29,99€.
+  Updated: 2026-03-18T18:31:11Z
+  Total Products: 35
+- [Termostati e Cronotermostati Perry per Riscaldamento | GieffeShop](https://gieffeshop.it/collections/riscaldamento-e-caldaie): Ottimizza il tuo impianto con i migliori termostati e cronotermostati Perry (digitali e meccanici). Riduci i consumi e ottieni spedizione gratis da 29,99€.
+  Updated: 2026-03-20T08:23:33Z
   Total Products: 56
-- [CHIUSURE AUTOMATICHE PROFESSIONALI](https://gieffeshop.it/collections/chiusure-automatiche): Scopri sistemi di chiusura automatica per cancelli, porte e varchi. Soluzioni sicure, pratiche e innovative per ogni esigenza.
-  Updated: 2026-03-13T14:57:41Z
-  Total Products: 129
-- [FAAC AUTOMAZIONE E CONTROLLO ACCESSI](https://gieffeshop.it/collections/faac): Faac automazioni professionali, soluzioni che si adattano ad ogni contesto, prezzo più basso del web
-  Updated: 2026-03-13T13:17:34Z
-  Total Products: 59
-- [BFT AUTOMAZIONI PROFESSIONALI](https://gieffeshop.it/collections/bft): BFT: soluzioni per automazione cancelli, porte e barriere. Tecnologia affidabile per il controllo accessi in ambito residenziale e industriale.
-  Updated: 2026-03-13T12:55:21Z
-  Total Products: 34
-- [ATTREZZATURA DA LAVORO RESISTENTE E PROFESSIONALE](https://gieffeshop.it/collections/attrezzatura-da-lavoro): Scegli l'attrezzatura da lavoro adatta a ogni mestiere: utensili, protezioni e accessori professionali .
-  Updated: 2026-03-13T14:29:13Z
-  Total Products: 288
-- [ABAC MULTIAIR PISTOLA PROFESSIONALE](https://gieffeshop.it/collections/abac-multiair): Abac multiair pistola ad aria compressa professionale, compressori e tanto altro al prezzo più basso del web
-  Updated: 2026-03-13T13:50:12Z
-  Total Products: 8
-- [FACAL PRODOTTI TERMOIDRAULICI PROFESSIONALI](https://gieffeshop.it/collections/facal): Facal prodotti di termoidraulica professionali, tutto il meglio al prezzo più basso del web !
-  Updated: 2026-03-13T13:16:03Z
-  Total Products: 6
-- [BATTERIE ONLINE PER OGNI ESIGENZA](https://gieffeshop.it/collections/batterie): Ampia scelta di batterie affidabili per antifurti, auto, moto e dispositivi elettronici.
-  Updated: 2026-03-13T14:27:11Z
-  Total Products: 73
-- [DURACELL BATTERIE PROFESSIONALI](https://gieffeshop.it/collections/duracell): Scegli la Differenza Duracell: Potenza e Innovazione Sostenibile a Prezzi Imbattibili!
-  Updated: 2026-03-13T13:22:37Z
-  Total Products: 33
-- [ACQUISTA CITOFONIA VIDEOCITOFONIA](https://gieffeshop.it/collections/citofonia-videocitofonia): Scopri citofoni e videocitofoni analogici e digitali per case, uffici e condomini. Soluzioni con audio e video chiaro, facili da installare e sicure.
-  Updated: 2026-03-13T14:34:35Z
-  Total Products: 162
-- [FARFISA PRODOTTI PROFESSIONALI](https://gieffeshop.it/collections/farfisa): FARFISA: video citofonia, telefonia, controllo accessi, sicurezza . Farfisa porta nelle abitazioni di tutto il mondo la tecnologia citofonica.
-  Updated: 2026-03-13T12:06:30Z
-  Total Products: 21
-- [ALPHA ELETTRONICA PROFESSIONALE](https://gieffeshop.it/collections/alpha-elettronica): Alpha Elettronica - Distribuzione di prodotti e accessori elettronici professionali
-  Updated: 2026-03-13T13:23:39Z
-  Total Products: 6
-- [ARISTON RISCALDAMENTO PROFESSIONALE](https://gieffeshop.it/collections/ariston): Ariston riscaldamento professionale : pompe di calore, scaldacqua elettrici, caldaie a condensazione.
-  Updated: 2026-03-13T13:01:25Z
-  Total Products: 14
-- [SOLUZIONI TERMOIDRAULICHE PER OGNI IMPIANTO](https://gieffeshop.it/collections/termoidraulica): Scopri articoli termoidraulici per impianti civili e industriali : tubi, raccordi, valvole, pompe e accessori per riscaldamento e climatizzazione.
-  Updated: 2026-03-13T14:46:10Z
-  Total Products: 15
-- [DAB PUMPS : POMPE DI ASPIRAZIONE PROFESSIONALI](https://gieffeshop.it/collections/dab-pumps): DUB PUMPS : POMPE DI ASPIRAZIONE , tecnologie innovative per la movimentazione e gestione dell'acqua
-  Updated: 2026-03-13T13:21:47Z
-  Total Products: 7
-- [CLIMATIZZAZIONE E VENTILAZIONE](https://gieffeshop.it/collections/climatizzazione): Scopri la nostra collezione dedicata alla climatizzazione e ventilazione per un ambiente sempre fresco e confortevole.
-  Updated: 2026-03-13T14:51:41Z
-  Total Products: 17
-- [ARNOCANALI HOME PROFESSIONALE](https://gieffeshop.it/collections/arnocanali): Arnocanali progetta e costruisce componenti elettrici e meccanici per la connessione in bassa tensione e materiale da installazione
-  Updated: 2026-03-13T13:56:02Z
-  Total Products: 18
-- [ADELSYSTEM PRODOTTI PROFESSIONALI ED INDUSTRIALI](https://gieffeshop.it/collections/adelsystem): Il potere dell'energia continua. Il mondo che corre su autostrade digitali ha bisogno di un supporto energetico stabile, continuo e garantito.
-  Updated: 2026-03-13T12:22:56Z
-  Total Products: 7
-- [CENTRALINI ELETTRICI PROFESSIONALI](https://gieffeshop.it/collections/centralini-elettrici): Scopri centralini elettrici professionali per impianti sicuri e organizzati. Qualità, affidabilità e conformità alle norme.
-  Updated: 2026-03-13T15:01:01Z
-  Total Products: 26
-- [INTERRUTTORI ED ACCESSORI MODULARI](https://gieffeshop.it/collections/modulari): Acquista interruttori modulari affidabili per ogni esigenza elettrica. Spedizione veloce, prezzi competitivi e prodotti certificati
-  Updated: 2026-03-13T14:30:34Z
-  Total Products: 184
-- [LT TERRANEO CITOFONIA E VIDEOCITOFONIA](https://gieffeshop.it/collections/lt-terraneo): Il meglio di LT TERRANEO, apparecchiature professionali di citofonia e video citofonia
-  Updated: 2026-03-13T12:59:21Z
-  Total Products: 84
-- [ELETTROUTENSILI ED UTENSILI PROFESSIONALI](https://gieffeshop.it/collections/elettroutensili-ed-utensili): Scopri utensili e elettroutensili per uso professionale e fai da te: qualità e prestazioni top.
-  Updated: 2026-03-13T14:38:39Z
-  Total Products: 89
-- [AERTECNICA ASPIRAZIONE CENTRALIZZATA DOMESTICA](https://gieffeshop.it/collections/aertecnica): Aertecnica aspirazione domestica, l'aspirazione centralizzata integrata più evoluta al Mondo. Tecnologico, Smart, Potente, Green.
-  Updated: 2026-03-13T12:57:28Z
-  Total Products: 26
-- [ARTELETA ATTREZZATURE PROFESSIONALI](https://gieffeshop.it/collections/arteleta-attrezzature): Scopri le attrezzature professionali Arteleta: qualità, affidabilità e soluzioni per ogni esigenza del tuo lavoro.
-  Updated: 2026-03-13T12:35:18Z
-  Total Products: 23
-- [DEHN ITALIA: PROTEZIONE PROFESSIONALE](https://gieffeshop.it/collections/dehn-italia): DEHN Italia è specialista nella protezione da sovratensioni e fulmini, con soluzioni affidabili per impianti elettrici e sicurezza.
-  Updated: 2026-03-13T13:56:59Z
-  Total Products: 3
-- [BLACK DECKER ATTREZZI PROFESSIONALI](https://gieffeshop.it/collections/black-decker): Black Decker: attrezzature elettriche e utensili per casa e lavoro. Qualità, potenza e innovazione per ogni progetto fai-da-te.
-  Updated: 2026-03-13T12:50:08Z
+- [Antifurti Casa e Sistemi di Sicurezza | GieffeShop](https://gieffeshop.it/collections/antifurti-e-sicurezza): Proteggi i tuoi ambienti con antifurti wireless e filari, sensori e rilevatori dei top brand (Dahua, Comelit). Sicurezza totale, spedizione gratis da 29,99€.
+  Updated: 2026-03-19T10:04:21Z
+  Total Products: 167
+- [Cavi Elettrici Professionali e Matasse | GieffeShop](https://gieffeshop.it/collections/cavi-elettrici): Acquista cavi elettrici per impianti civili, industriali e antintrusione. Matasse di alta qualità a prezzi imbattibili. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:10:12Z
+  Total Products: 58
+- [Domotica e Smart Home: Sistemi BTicino e Accessori | GieffeShop](https://gieffeshop.it/collections/domotica): Rendi la tua casa intelligente! Acquista attuatori BTicino MyHome, comandi AVE e termostati Wi-Fi Perry. Automazione e spedizione gratis da 29,99€.
+  Updated: 2026-03-20T08:23:33Z
+  Total Products: 100
+- [ABB: Interruttori Magnetotermici e Quadri Elettrici | GieffeShop](https://gieffeshop.it/collections/abb): Acquista componenti ABB: interruttori magnetotermici serie S200, centralini Mistral65 IP65 e frutti per serie civile. Qualità garantita. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T14:56:33Z
+  Total Products: 94
+- [Serie Civile AVE: Allumia, Tekla e Domotica | GieffeShop](https://gieffeshop.it/collections/ave): Scopri il catalogo AVE: interruttori, prese Schuko e TV serie Allumia e Tekla. Componenti per impianti elettrici e domotici. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T13:56:51Z
+  Total Products: 123
+- [BTicino: Serie Civile, Antintrusione e Componenti | GieffeShop](https://gieffeshop.it/collections/bticino): Acquista prodotti BTicino: placche, scatole per cartongesso, sensori antintrusione e interruttori orari professionali. Qualità italiana. Spedizione gratis da 29,99€.
+  Updated: 2026-03-18T17:44:36Z
+  Total Products: 243
+- [Illuminazione Gewiss: Plafoniere LED Smart-3 | GieffeShop](https://gieffeshop.it/collections/gewiss): Scopri la gamma Gewiss Smart-3: plafoniere LED stagne ad alta efficienza per l'industria e il terziario. Alta resistenza e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:56:25Z
+  Total Products: 91
+- [Vimar: Placche Serie Idea, Interruttori e Supporti | GieffeShop](https://gieffeshop.it/collections/vimar): Scopri il catalogo Vimar: placche Idea Rondo (nere e grafite), supporti, ronzatori e suonerie. Materiale elettrico Made in Italy. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:49:36Z
+  Total Products: 80
+- [Domotica ABB KNX: Interfacce e Building Automation | GieffeShop](https://gieffeshop.it/collections/abb-dom): Acquista componenti ABB KNX per la domotica professionale: interfacce universali e per serie Mylos. Building automation sicura con spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:56:11Z
+  Total Products: 2
+- [Domotica AVE Smart Home: Termostati WiFi e Comandi IoT | GieffeShop](https://gieffeshop.it/collections/ave-domotica): Acquista la domotica AVE: cronotermostati WiFi serie Tekla, comandi tapparelle IoT e interruttori touch Sistema 44. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:55:52Z
+  Total Products: 29
+- [BTicino Domotica: Smart Home Living Now e MyHome | GieffeShop](https://gieffeshop.it/collections/bticino-domotica): Acquista la domotica BTicino: gateway Living Now, attuatori MyHome, cronotermostati WiFi e sensori connessi. Automazione e controllo App. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:47:20Z
+  Total Products: 41
+- [Came: Automazione Cancelli e Sistemi di Sicurezza | GieffeShop](https://gieffeshop.it/collections/came): Scegli CAME: kit automazione cancelli, radiocomandi e sistemi di controllo accessi professionali. Tecnologia e sicurezza. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:48:13Z
+  Total Products: 36
+- [Comelit: Domotica, Smart Home e Diffusione Audio | GieffeShop](https://gieffeshop.it/collections/comelit): Acquista soluzioni Comelit: kit domotici Wi-Fi per luci e tapparelle, moduli SimpleHome e diffusori acustici da incasso. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:54:53Z
+  Total Products: 10
+- [Vimar Smart Home: Gateway, Attuatori e Domotica By-me | GieffeShop](https://gieffeshop.it/collections/vimar-domotica): Acquista la domotica Vimar: gateway e attuatori smart serie Plana (WiFi) e componenti per sistema By-me. Gestione via App e voce. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:48:30Z
+  Total Products: 29
+- [Illuminazione e Lampade LED per Interni ed Esterni | GieffeShop](https://gieffeshop.it/collections/prodotti-illuminazione): Scopri l'illuminazione di design: lampade e faretti Flos, Artemide e Disano. Prezzi imbattibili e spedizione gratuita sopra i 29,99€. Acquista ora su Gieffeshop!
+  Updated: 2026-03-18T18:34:35Z
+  Total Products: 483
+- [Beghelli: Batterie di Ricambio per Luci Emergenza | GieffeShop](https://gieffeshop.it/collections/beghelli-illuminazione): Trova ricambi Beghelli originali: batterie al Ni-Cd e al piombo (3.6V, 6V, 12V) per lampade d'emergenza e sistemi di sicurezza. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:47:47Z
+  Total Products: 189
+- [Disano Illuminazione: Lampade e Plafoniere LED | GieffeShop](https://gieffeshop.it/collections/disano-illuminazione): Scopri il catalogo Disano: illuminazione tecnica e plafoniere LED per esterni ed interni. Massima qualità, spedizione gratuita sopra i 29,99€.
+  Updated: 2026-03-16T21:10:46Z
   Total Products: 46
-- [HAGER : SISTEMI ELETTRICI PROFESSIONALI](https://gieffeshop.it/collections/hager): Hager offre soluzioni professionali per impianti elettrici, automazione e domotica. Qualità, sicurezza e innovazione al servizio degli installatori.
-  Updated: 2026-03-13T13:58:04Z
-  Total Products: 29
-- [LOVATO : AUTOMAZIONE PROFESSIONALE](https://gieffeshop.it/collections/lovato): Lovato Electric propone soluzioni per automazione industriale, comando, protezione e gestione dell’energia. Tecnologia e affidabilità.
-  Updated: 2026-03-13T13:59:02Z
-  Total Products: 7
-- [BM GROUP SOLUZIONI INDUSTRIALI](https://gieffeshop.it/collections/bm-group): BM Group offre tecnologie avanzate per automazione industriale, impianti elettrici e soluzioni innovative per l’industria 4.0.
-  Updated: 2026-03-13T12:45:37Z
-  Total Products: 29
-- [AMC ELETTRONICA PROFESSIONALE](https://gieffeshop.it/collections/amc-elettronica): AMC Elettronica offre sistemi professionali per sicurezza, antintrusione e controllo accessi. Affidabilità e innovazione made in Italy.
-  Updated: 2026-03-13T12:41:11Z
-  Total Products: 29
-- [CAME VIDEO-CITOFONIA PROFESSIONALE](https://gieffeshop.it/collections/came-video-citofonia): Videocitofonia Came professionale: immagini nitide, design elegante e tecnologie avanzate per la sicurezza degli accessi.
-  Updated: 2026-03-13T13:00:21Z
-  Total Products: 32
-- [CAME TERMOREGOLAZIONE PROFESSIONALE](https://gieffeshop.it/collections/came-termoregolazione): Soluzioni Came per termoregolazione professionale: comfort, efficienza energetica e controllo intelligente degli ambienti.
-  Updated: 2026-03-13T13:20:20Z
-  Total Products: 8
-- [COMELIT ANTINTRUSIONE PROFESSIONALE](https://gieffeshop.it/collections/comelit-antintrusione): Proteggi la tua casa con i sistemi antintrusione Comelit: tecnologia affidabile, controllo da remoto e facile integrazione.
-  Updated: 2026-03-13T12:43:37Z
+- [Illuminazione LEDVANCE: Lampadine, Proiettori e Plafoniere | GieffeShop](https://gieffeshop.it/collections/ledvance-illuminazione): Acquista illuminazione LEDVANCE: lampadine LED (E27), proiettori da esterno (IP65) e plafoniere con sensore di movimento. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:59:43Z
   Total Products: 42
-- [COMELIT VIDEOCITOFONIA PROFESSIONALE](https://gieffeshop.it/collections/comelit-videocitofonia): Scopri i videocitofoni Comelit: design moderno, alta qualità audio-video e facile installazione per la tua sicurezza.
-  Updated: 2026-03-13T12:43:44Z
-  Total Products: 21
-- [ASITA , TECNOLOGIA E QUALITA'](https://gieffeshop.it/collections/asita): Scopri Asita: soluzioni affidabili e innovative per l'energia e l'automazione. Qualità certificata e assistenza professionale.
-  Updated: 2026-03-13T12:34:00Z
-  Total Products: 14
-- [MELCHIONI VENTILAZIONE-RISCALDAMENTO](https://gieffeshop.it/collections/melchioni-ventilazione-riscaldamento): Scopri la vasta scelta di componenti elettronici e piccoli elettrodomestici su Melchioni Ventilazione-Riscaldamento. Optimizza la tua casa!
-  Updated: 2026-03-13T11:59:09Z
-  Total Products: 14
-- [FISCHER ATTREZZATURE PROFESSIONALI](https://gieffeshop.it/collections/fischer): Fischer: attrezzature di alta qualità per edilizia e industria. Soluzioni affidabili e innovative per ogni esigenza professionale.
-  Updated: 2026-03-13T12:51:34Z
-  Total Products: 20
-- [CEMBRE ATTREZZATURE PROFESSIONALI](https://gieffeshop.it/collections/cembre): Cembre: attrezzature e utensili per cablaggi elettrici e connessioni. Soluzioni affidabili per professionisti del settore elettrico.
-  Updated: 2026-03-13T13:24:41Z
-  Total Products: 4
-- [ACQUISTA ONLINE WD40 LUBRIFICA E PROTEGGE](https://gieffeshop.it/collections/wd40): Scopri la gamma WD-40: lubrifica, protegge, elimina ruggine e umidità su ogni tipo di superficie.
-  Updated: 2026-03-13T12:11:36Z
-  Total Products: 12
-- [ARITECH ANTIFURTI E SISTEMI SICURI](https://gieffeshop.it/collections/aritech): Tecnologia Aritech per antifurti e sicurezza professionale. Sistemi affidabili per proteggere casa e azienda con soluzioni all’avanguardia.
-  Updated: 2026-03-13T12:07:18Z
-  Total Products: 5
-- [MOEL](https://gieffeshop.it/collections/moel): Scopri la nostra collezione di lampade riscaldamento elettroinsetticidi per un ambiente confortevole e sicuro. Da MOEL.
-  Updated: 2026-03-13T12:18:51Z
-  Total Products: 8
-- [ELETTROINSETTICIDI](https://gieffeshop.it/collections/elettroinsetticidi): Scopri la nostra collezione di elettroinsetticidi per proteggere la tua casa dagli insetti fastidiosi. Mantiieni l'ambiente sicuro e pulito!
-  Updated: 2026-03-13T14:49:56Z
-  Total Products: 5
-- [OUTLET](https://gieffeshop.it/collections/outlet): I PRODOTTI OUTLET NON POTRANNO ESSERE RESTITUITI E RIMBORSATI
-  Updated: 2026-03-13T14:53:07Z
-  Total Products: 6
-- [Illuminazione FLOS Design Italiano - Lampade Premium | Gieffeshop](https://gieffeshop.it/collections/illuminazione-flos-design-italiano): Scopri la collezione FLOS: lampade e faretti design italiano premium. Qualità Made in Italy, tecnologia LED, spedizione rapida. Shop online!
-  Updated: 2026-03-13T12:37:18Z
+- [Illuminazione Novalux: Pannelli LED e Lampade | GieffeShop](https://gieffeshop.it/collections/novalux-illuminazione): Acquista l'illuminazione professionale Novalux. Scopri pannelli LED, lampade da parete, kit di sospensione e accessori. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:02:51Z
+  Total Products: 10
+- [Arteleta: Componenti LED, Alimentatori e Torce | GieffeShop](https://gieffeshop.it/collections/arteleta): Scopri il catalogo Arteleta: controller LED RGB, alimentatori stabilizzati, interruttori orari e torce LED da testa professionali. Spedizione gratis da 29,99€.
+  Updated: 2026-03-18T11:33:19Z
+  Total Products: 88
+- [Illuminazione FLOS: Lampade Design e Icone Italiane | GieffeShop](https://gieffeshop.it/collections/flos-illuminazione): Acquista le icone FLOS: lampada Arco, Pochette, Foglio e faretti da incasso tecnici. Design d'autore e qualità premium. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:53:00Z
+  Total Products: 23
+- [Illuminazione Fosnova: Proiettori LED e Faretti | GieffeShop](https://gieffeshop.it/collections/fosnova-illuminazione): Acquista illuminazione tecnica Fosnova. Scopri i proiettori LED da esterno (serie Sevilla, IP65) e faretti da incasso (Energy). Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:00:00Z
+  Total Products: 10
+- [Illuminazione iGuzzini: Faretti, Incassi e Design | GieffeShop](https://gieffeshop.it/collections/iguzzini-illuminazione): Acquista l'eccellenza dell'illuminazione architettonica iGuzzini. Faretti LED, incassi per cartongesso e accessori. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:03:36Z
+  Total Products: 1
+- [Lampade e Illuminazione Linea Light Group | GieffeShop](https://gieffeshop.it/collections/linea-light): Scopri il catalogo Linea Light: lampade, faretti e illuminazione LED professionale. Prezzi vantaggiosi e spedizione gratuita sopra i 29,99€. Made in Italy.
+  Updated: 2026-03-16T21:11:18Z
+  Total Products: 19
+- [Illuminazione Nobile: Strisce LED e Lampade Parete | GieffeShop](https://gieffeshop.it/collections/nobile-illuminazione): Acquista l'illuminazione Nobile Italia: strisce LED professionali (24V), lampade da parete a bi-emissione e plafoniere IP65. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:58:15Z
+  Total Products: 32
+- [Illuminazione Philips: Lampadine LED, Faretti e Incassi | GieffeShop](https://gieffeshop.it/collections/philips-lighting): Acquista illuminazione Philips Lighting: lampadine LED a globo (E27), faretti orientabili (GU10) e da incasso professionali. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:58:49Z
+  Total Products: 16
+- [SLV Lighting: Illuminazione LED e Faretti da Incasso | GieffeShop](https://gieffeshop.it/collections/slv-lighting): Scopri il catalogo SLV: proiettori LED da giardino con picchetto e faretti da incasso orientabili o fissi (IP65). Qualità e design. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:51:48Z
+  Total Products: 7
+- [B.E.G. Italia: Rivelatori di Movimento e Sensori | GieffeShop](https://gieffeshop.it/collections/beg-italia): Acquista sensori B.E.G. Italia: rivelatori di movimento, sensori di presenza e plafoniere intelligenti. Efficienza e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:00:54Z
+  Total Products: 1
+- [Mareco Luce: Illuminazione Esterni, Globi e Accessori | GieffeShop](https://gieffeshop.it/collections/mareco-luce): Acquista illuminazione da esterno Mareco Luce: lampade da terra, globi acrilici, faretti carrabili (IP67) e accessori per pali. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:59:25Z
+  Total Products: 18
+- [Scame Parre: Materiale Elettrico e Plafoniere | GieffeShop](https://gieffeshop.it/collections/scame-parre): Acquista materiale elettrico Scame Parre: plafoniere stagne (IP44), componenti e sistemi per l'industria. Sicurezza top e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:03:04Z
+  Total Products: 1
+- [Artemide: Lampade di Design e Icone Italiane | GieffeShop](https://gieffeshop.it/collections/artemide): Acquista le icone Artemide: Tolomeo, Tizio, Eclisse e ricambi originali. Scopri il meglio del lighting design italiano. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:55:21Z
   Total Products: 22
-- [BTicino Serie Civile - Impianti Elettrici Qualità Italiana | Gieffeshop](https://gieffeshop.it/collections/bticino-serie-civile-qualita-italiana): BTicino Serie Civile: scatole incasso, interruttori, temporizzatori. Qualità italiana garantita, installazione professionale. Acquista online!
-  Updated: 2026-03-13T10:34:49Z
+- [Illuminazione Panzeri: Lampade di Design e Applique | GieffeShop](https://gieffeshop.it/collections/panzeri): Acquista l'illuminazione di design Panzeri: lampade da parete a biemissione, applique e soluzioni architetturali. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:58:59Z
+  Total Products: 1
+- [Illuminazione FME Fanton: Plafoniere IP65 e Proiettori | GieffeShop](https://gieffeshop.it/collections/fme-fanton): Acquista illuminazione da esterno FME Fanton: plafoniere tonde e ovali (IP65) e proiettori con sensore di movimento. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:57:57Z
+  Total Products: 3
+- [Illuminazione Lombardo: Tartarughe e Applique da Esterno | GieffeShop](https://gieffeshop.it/collections/lombardo-illuminazione): Acquista illuminazione Lombardo Made in Italy: tartarughe in vetro, applique da parete/soffitto e diffusori LED IP66. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:58:33Z
+  Total Products: 27
+- [Performance in Lighting: Lampade e Plafoniere | GieffeShop](https://gieffeshop.it/collections/performance-in-lighting): Acquista illuminazione tecnica e plafoniere LED professionali a marchio Performance in Lighting. Massima efficienza e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:06:12Z
+  Total Products: 18
+- [Illuminazione LED Elcart: Proiettori Solari e Accessori | GieffeShop](https://gieffeshop.it/collections/elcart-illuminazione): Acquista articoli per illuminazione LED Elcart: proiettori solari da esterno (IP65), strisce LED, faretti e alimentatori. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:00:16Z
+  Total Products: 2
+- [Lampadine LED, Faretti e Accessori Illuminazione | GieffeShop](https://gieffeshop.it/collections/lampade-led): Sostituisci le vecchie lampade con le nostre lampadine LED a risparmio energetico (Beghelli, Melchioni). Prezzi stock e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:09:39Z
+  Total Products: 102
+- [Perry: Termostati, Temporizzatori e Segnapasso | GieffeShop](https://gieffeshop.it/collections/perry): Acquista Perry Electric: termostati digitali da incasso, relè temporizzatori luce scale e lampade segnapasso LED di emergenza. Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T08:24:21Z
+  Total Products: 55
+- [Videosorveglianza Dahua: Telecamere IP, XVR e DVR | GieffeShop](https://gieffeshop.it/collections/dahua): Acquista sistemi Dahua: telecamere Wi-Fi motorizzate, videoregistratori XVR serie I3 e accessori per videosorveglianza professionale. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:49:27Z
+  Total Products: 66
+- [Videosorveglianza e Telecamere IP Professionali | GieffeShop](https://gieffeshop.it/collections/video-sorveglianza): Acquista telecamere IP, videoregistratori e kit di videosorveglianza Dahua. Massima sicurezza per casa e ufficio. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:09:19Z
+  Total Products: 66
+- [Melchioni: Elettronica, Disossidanti e Batterie Litio | GieffeShop](https://gieffeshop.it/collections/melchioni): Acquista prodotti Melchioni: spray disossidanti per contatti, batterie al litio 18650, fari LED da cantiere e accessori per illuminazione. Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T10:44:40Z
+  Total Products: 56
+- [Automazione Cancelli e Radiocomandi: Kit e Motori | GieffeShop](https://gieffeshop.it/collections/chiusure-automatiche): Acquista kit per automazione cancelli scorrevoli e a battente, motori e radiocomandi (CAME, BFT). Prezzi top e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:09:59Z
+  Total Products: 129
+- [Automazione Cancelli FAAC: Radiocomandi e Schede | GieffeShop](https://gieffeshop.it/collections/faac): Acquista ricambi originali FAAC per automazione cancelli: schede elettroniche di comando, riceventi e radiocomandi. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T12:58:21Z
+  Total Products: 59
+- [BFT Automazione Cancelli: Ricambi e Accessori | GieffeShop](https://gieffeshop.it/collections/bft): Acquista ricambi originali BFT: quadri comando, fotocellule, selettori a chiave e olio idraulico Idrolux per cancelli automatici. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T13:53:05Z
+  Total Products: 34
+- [Attrezzatura da Lavoro: Strumenti di Misura e Utensili | GieffeShop](https://gieffeshop.it/collections/attrezzatura-da-lavoro): Acquista attrezzatura professionale: multimetri ASITA, scale in alluminio FACAL e utensili per elettricisti. Prezzi top e spedizione gratis da 29,99€.
+  Updated: 2026-03-20T14:19:51Z
+  Total Products: 288
+- [Compressori ABAC Multiair e Utensili Pneumatici | GieffeShop](https://gieffeshop.it/collections/abac-multiair): Acquista compressori a pistone ABAC Multiair, pistole di soffiaggio, gonfiaggio e accessori pneumatici professionali. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:02:34Z
+  Total Products: 8
+- [Scale in Alluminio e Trabattelli FACAL | GieffeShop](https://gieffeshop.it/collections/facal): Acquista attrezzatura da lavoro FACAL: scale doppie, scale universali multiposizione, sgabelli e trabattelli in alluminio. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:00:31Z
+  Total Products: 6
+- [Batterie Ricaricabili, Piombo e Litio | GieffeShop](https://gieffeshop.it/collections/batterie): Acquista batterie di ricambio professionali per antifurti, lampade d'emergenza e UPS (Beghelli, Aritech, Melchioni). Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T11:38:45Z
+  Total Products: 73
+- [Batterie Duracell: Litio, Alcaline e Specialistiche | GieffeShop](https://gieffeshop.it/collections/duracell): Acquista pile Duracell a lunga durata: batterie a bottone al litio (CR2032, CR2450), stilo, ministilo e modelli speciali 12V. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:02:05Z
+  Total Products: 33
+- [Citofoni e Videocitofoni: Kit e Pulsantiere | GieffeShop](https://gieffeshop.it/collections/citofonia-videocitofonia): Acquista kit videocitofoni, pulsantiere e moduli (Comelit, Farfisa) per case e condomini. Massima sicurezza e spedizione gratis da 29,99€.
+  Updated: 2026-03-19T11:32:57Z
+  Total Products: 162
+- [Farfisa: Citofonia, Videocitofonia e Controllo Accessi | GieffeShop](https://gieffeshop.it/collections/farfisa): Scopri il catalogo Farfisa: kit citofonici Exhito, tastiere controllo accessi e moduli serie Mody. Qualità e design italiano. Spedizione gratis da 29,99€.
+  Updated: 2026-03-19T11:32:57Z
+  Total Products: 21
+- [Alpha Elettronica: Batterie, Utensili e Accessori | GieffeShop](https://gieffeshop.it/collections/alpha-elettronica): Acquista prodotti Alpha Elettronica: batterie al piombo AGM (12V), pinze per cablaggio RJ45 e aggraffatrici. Prezzi top, spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:01:55Z
+  Total Products: 6
+- [Ariston: Scaldacqua Elettrici e Fumisteria Caldaie | GieffeShop](https://gieffeshop.it/collections/ariston): Acquista prodotti Ariston per il riscaldamento: scaldacqua elettrici (sopra/sotto lavello) e kit scarico fumi per caldaie. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:57:32Z
+  Total Products: 14
+- [Termoidraulica: Pompe, Termostati e Accessori | GieffeShop](https://gieffeshop.it/collections/termoidraulica): Prodotti di termoidraulica per professionisti: pompe DAB, termostati Perry e accessori per riscaldamento. Prezzi top e spedizione gratis da 29,99€.
+  Updated: 2026-03-19T09:48:48Z
+  Total Products: 15
+- [Pompe DAB: Elettropompe, Circolatori e Trituratori | GieffeShop](https://gieffeshop.it/collections/dab-pumps): Acquista pompe DAB per la gestione dell'acqua: circolatori elettronici, elettropompe e trituratori Genix. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:01:29Z
+  Total Products: 7
+- [Climatizzazione e Ventilazione: Ventilatori e Accessori | GieffeShop](https://gieffeshop.it/collections/climatizzazione): Acquista ventilatori Melchioni, asciugamani elettrici MOEL e accessori per condizionatori Arnocanali. Clima perfetto e spedizione gratis da 29,99€.
+  Updated: 2026-03-18T15:11:11Z
+  Total Products: 17
+- [Arnocanali: Pozzetti, Sonde Passacavo e Accessori | GieffeShop](https://gieffeshop.it/collections/arnocanali): Acquista materiale da installazione Arnocanali: pozzetti calpestabili, sonde passacavo in acciaio, gel e accessori. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:03:51Z
+  Total Products: 18
+- [Adelsystem: Alimentatori Switching e Guida DIN | GieffeShop](https://gieffeshop.it/collections/adelsystem): Acquista alimentatori Adelsystem: serie FLEX switching professionali, soluzioni bifase e sistemi CBI All-In-One per l'industria. Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T11:38:45Z
+  Total Products: 7
+- [Centralini e Quadri Elettrici: Moduli e Accessori | GieffeShop](https://gieffeshop.it/collections/centralini-elettrici): Acquista centralini, quadri elettrici e contenitori stagni (ABB, BTicino) per impianti a norma. Prezzi da ingrosso e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:10:28Z
+  Total Products: 26
+- [Apparecchi Modulari DIN: Relè, Timer e Trasformatori | GieffeShop](https://gieffeshop.it/collections/modulari): Acquista dispositivi modulari per quadri elettrici (guida DIN): relè luce scale Perry, trasformatori ABB e interruttori orari. Spedizione gratis da 29,99€.
+  Updated: 2026-03-18T18:43:36Z
+  Total Products: 184
+- [Citofonia BTicino Terraneo: Kit 2 Fili e Moduli | GieffeShop](https://gieffeshop.it/collections/lt-terraneo): Acquista citofoni e videocitofoni BTicino Terraneo: kit monofamiliari, bifamiliari a 2 fili e moduli pulsantiera Sfera. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:57:00Z
+  Total Products: 84
+- [Elettroutensili, Utensili e Lubrificanti | GieffeShop](https://gieffeshop.it/collections/elettroutensili-ed-utensili): Acquista elettroutensili, attrezzatura manuale e prodotti per la manutenzione: spray WD-40, disossidanti e lubrificanti. Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T14:19:51Z
+  Total Products: 89
+- [Aertecnica: Tubi PVC e Prese Aspirazione Centralizzata | GieffeShop](https://gieffeshop.it/collections/aertecnica): Acquista ricambi per aspirazione centralizzata Aertecnica: tubi in PVC (Ø50mm), raccordi, prese aspiranti e supporti. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:56:47Z
+  Total Products: 26
+- [Arteleta: Sonde Passacavo e Attrezzatura Professionale | GieffeShop](https://gieffeshop.it/collections/arteleta-attrezzature): Acquista attrezzatura professionale Arteleta: sonde passacavo in perlon, saldatori a stilo e gel isolanti. Soluzioni di alta qualità per installatori. Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T13:33:27Z
+  Total Products: 23
+- [DEHN Italia: Scaricatori di Sovratensione e SPD | GieffeShop](https://gieffeshop.it/collections/dehn-italia): Proteggi il tuo impianto con i dispositivi DEHN Italia: scaricatori di sovratensione e fulmini (SPD) professionali. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:04:07Z
+  Total Products: 3
+- [Black&Decker: Utensili Manuali e Accessori | GieffeShop](https://gieffeshop.it/collections/black-decker): Scopri la selezione Black&Decker: giravite, metri a nastro e scalpelli SDS Plus per i tuoi lavori di fai-da-te. Spedizione gratuita da 29,99€.
+  Updated: 2026-03-16T14:02:13Z
+  Total Products: 46
+- [Hager: Magnetotermici, Salvavita e Sezionatori | GieffeShop](https://gieffeshop.it/collections/hager): Acquista componenti Hager per quadri elettrici: interruttori magnetotermici, differenziali e sezionatori. Prezzi stock, spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:04:30Z
+  Total Products: 29
+- [Lovato Electric: Relè, Contatori e Automazione | GieffeShop](https://gieffeshop.it/collections/lovato): Acquista componenti Lovato Electric per automazione industriale e gestione energia: relè temporizzatori, portafusibili e contatori. Spedizione gratis da 29€.
+  Updated: 2026-03-16T21:04:21Z
+  Total Products: 7
+- [BM Group: Morsettiere Mammut e Utensili Professionali | GieffeShop](https://gieffeshop.it/collections/bm-group): Acquista prodotti BM Group: morsettiere Mammut (12 poli), pinze aggraffatrici automatiche e tranciacavi a cricchetto. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:55:07Z
+  Total Products: 29
+- [Antifurto AMC Elettronica: Centrali Wireless e Ibride | GieffeShop](https://gieffeshop.it/collections/amc-elettronica): Scopri i sistemi di sicurezza AMC Elettronica: centrali serie X e XR, moduli 4G per telegestione e chiavi RFID. Qualità italiana. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:53:51Z
+  Total Products: 29
+- [Videocitofonia CAME BPT: Videocitofoni e Posti Esterni | GieffeShop](https://gieffeshop.it/collections/came-video-citofonia): Acquista la videocitofonia CAME BPT: videocitofoni con monitor LCD, posti esterni in alluminio e attuatori di comando. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:57:20Z
+  Total Products: 32
+- [Termostati e Cronotermostati WiFi CAME | GieffeShop](https://gieffeshop.it/collections/came-termoregolazione): Ottimizza il riscaldamento con i cronotermostati WiFi e termostati digitali da incasso CAME. Controllo smart e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:01:15Z
+  Total Products: 8
+- [Antifurto e Antincendio Comelit: Sensori e Sirene | GieffeShop](https://gieffeshop.it/collections/comelit-antintrusione): Acquista sistemi antintrusione Comelit: contatti magnetici, sirene e radiocomandi serie VEDO. Componenti antincendio certificati. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:54:16Z
+  Total Products: 42
+- [Videocitofonia Comelit: Kit, Monitor Wi-Fi e Ricambi | GieffeShop](https://gieffeshop.it/collections/comelit-videocitofonia): Acquista la videocitofonia Comelit: kit monofamiliari Quadra e Ultra, monitor Mini Wi-Fi e ricambi Simplebus 2. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:54:39Z
+  Total Products: 21
+- [ASITA: Strumenti di Misura e Multimetri Professionali | GieffeShop](https://gieffeshop.it/collections/asita): Acquista strumenti ASITA: multimetri digitali, pinze amperometriche e rilevatori di tensione professionali. Precisione garantita. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:52:20Z
+  Total Products: 14
+- [Melchioni Clima: Ventilatori e Termoventilatori | GieffeShop](https://gieffeshop.it/collections/melchioni-ventilazione-riscaldamento): Scopri la gamma Melchioni per il clima: ventilatori senza pale, a torretta, da soffitto e termoventilatori ceramici. Spedizione gratis da 29,99€.
+  Updated: 2026-03-17T21:51:34Z
+  Total Products: 14
+- [Fischer: Ancoranti Chimici, Sigillanti e Fissaggi | GieffeShop](https://gieffeshop.it/collections/fischer): Acquista soluzioni professionali Fischer: ancoranti chimici FIS C e FIS V, sigillanti acrilici e mensole per radiatori. Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T11:22:20Z
+  Total Products: 20
+- [Pinze Aggraffatrici e Utensili Cembre | GieffeShop](https://gieffeshop.it/collections/cembre): Acquista pinze aggraffatrici Cembre per capicorda, terminali a bussola e giunti preisolati. Cablaggi perfetti e spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:02:17Z
+  Total Products: 4
+- [WD-40: Lubrificanti, Sbloccanti e Linea Specialist | GieffeShop](https://gieffeshop.it/collections/wd40): Scopri la gamma WD-40: dal classico multifunzione agli sbloccanti rapidi, olio da taglio e grassi Specialist. Protezione e cura. Spedizione gratis da 29,99€.
+  Updated: 2026-03-20T10:37:37Z
+  Total Products: 12
+- [Batterie Aritech: 12V al Piombo per Antifurto e UPS | GieffeShop](https://gieffeshop.it/collections/aritech): Acquista batterie ricaricabili Aritech 12V da 1.2Ah a 18Ah. Ricambi originali per sistemi di sicurezza, antifurto e gruppi di continuità UPS. Spedizione gratis da 29,99€.
+  Updated: 2026-03-19T10:35:22Z
+  Total Products: 5
+- [MOEL: Lampade Infrarossi, Elettroinsetticidi e Asciugamani | GieffeShop](https://gieffeshop.it/collections/moel): Acquista prodotti MOEL: lampade riscaldanti infrarossi Fiore, elettroinsetticidi CRI-CRI e asciugamani elettrici professionali. Spedizione gratis da 29,99€.
+  Updated: 2026-03-18T15:22:15Z
+  Total Products: 8
+- [Elettroinsetticidi e Antizanzare Professionali MOEL | GieffeShop](https://gieffeshop.it/collections/elettroinsetticidi): Acquista elettroinsetticidi e lampade antizanzare professionali MOEL (linea Cri-Cri e ad aspirazione). Efficacia garantita, spedizione gratis da 29,99€.
+  Updated: 2026-03-18T15:22:15Z
+  Total Products: 5
+- [Outlet Materiale Elettrico: Sconti e Fine Serie | GieffeShop](https://gieffeshop.it/collections/outlet): Approfitta delle offerte nel nostro Outlet! Lampadine, faretti e materiale elettrico di fine serie a prezzi stracciati. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T21:09:01Z
+  Total Products: 6
+- [Illuminazione FLOS: Lampade Design e Icone Italiane | GieffeShop](https://gieffeshop.it/collections/illuminazione-flos-design-italiano): Acquista le icone FLOS: lampada Arco, Pochette, Foglio e faretti da incasso tecnici. Design d'autore e qualità premium. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T14:26:48Z
+  Total Products: 22
+- [BTicino: Serie Civile, Placche e Automazione MyHome | GieffeShop](https://gieffeshop.it/collections/bticino-serie-civile-qualita-italiana): Acquista BTicino: placche, scatole da incasso per cartongesso, attuatori MyHome e interruttori orari. Il meglio dell'elettricità. Spedizione gratis da 29,99€.
+  Updated: 2026-03-16T20:46:41Z
   Total Products: 366
-
-## Blogs
-
-- [TUTTE LE NOVITA' ONLINE PRODOTTI SCONTATI](https://gieffeshop.it/blogs/news): Vieni a scoprire tutte le novità online nel sito gieffeshop.it . Tanti prodotti scontati delle migliori marche .
-  - [Domotica](https://gieffeshop.it/blogs/news/domotica)
-    Updated: 2026-02-28T03:17:17Z
-    Author: Federico Mansueti
 
 ## Store Pages
 
 - [Contatti e Assistenza Tecnica | Gieffeshop Terni](https://gieffeshop.it/pages/contatti): Hai bisogno di supporto tecnico o informazioni su un ordine? Che tu sia un professionista del settore o un amante del fai-da-te, il team di Gieffes...
-  Updated: 2026-03-12T07:34:00Z
+  Updated: 2026-03-19T21:10:04Z
 - [LA FAMIGLIA Gieffeshop, CHI SIAMO](https://gieffeshop.it/pages/chi-siamo): 
   Updated: 2026-03-13T15:16:18Z
 - [Tutte le domande più Frequenti (FAQs)](https://gieffeshop.it/pages/pushdaddy-faq-1): Your FAQ content here
