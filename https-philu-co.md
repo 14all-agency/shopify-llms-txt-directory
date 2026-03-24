@@ -6,12 +6,12 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-02-04T22:13:10Z
 - Contact Email: support@philu.com.au
-- Updated At: 2026-03-11T00:00:41.528Z
+- Updated At: 2026-03-24T00:00:45.938Z
 
 ## Products
 
 - [Personalised Sparkling Halo Heart Photo Projection Necklace](https://philu.co/products/personalised-sparkling-halo-heart-photo-projection-necklace-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 1.5cm x 1.8cm Chain Length: 45cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-05T12:20:23Z
+  Updated: 2026-03-21T11:53:07Z
   Vendor: PhilU
   Product Type: Necklaces
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Holy-Cross-Photo-Projection-Necklace-43333955518766.jpg?v=1772577041
     Price: $83.40 AUD
 - [Personalised Classic Love Heart Photo Projection Necklace](https://philu.co/products/personalised-classic-love-heart-photo-projection-necklace-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 6mm x 6mm Chain Length: 45cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-09T04:24:47Z
+  Updated: 2026-03-17T16:15:09Z
   Vendor: PhilU
   Product Type: Necklaces
   Availability: Available
@@ -213,7 +213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Divine-Love-Cross-Photo-Projection-Necklace-43344612589870.jpg?v=1772577038
     Price: $83.40 AUD
 - [Personalised Love Paw Photo Projection Necklace](https://philu.co/products/personalised-love-paw-photo-projection-necklace-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14 mm X 17 mm Chain Length: 45cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-05T10:15:20Z
+  Updated: 2026-03-21T12:00:27Z
   Vendor: PhilU
   Product Type: Necklaces
   Availability: Available
@@ -255,7 +255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Love-Paw-Photo-Projection-Necklace-43344734126382.jpg?v=1772577038
     Price: $83.40 AUD
 - [Personalised Tree of Life Photo Projection Necklace](https://philu.co/products/personalised-tree-of-life-photo-projection-necklace-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 22 mm X 22 mm Chain Length: 45cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-09T23:08:47Z
+  Updated: 2026-03-23T03:04:50Z
   Vendor: PhilU
   Product Type: Necklaces
   Availability: Available
@@ -272,32 +272,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Tree-of-Life-Photo-Projection-Necklace-43344919003438.jpg?v=1772577038
     Price: $71.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-tree-of-life-photo-projection-necklace-silver?variant=51650403205422)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Tree-of-Life-Photo-Projection-Necklace-43344923623726.jpg?v=1772577038
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-tree-of-life-photo-projection-necklace-silver?variant=51650403238190)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Tree-of-Life-Photo-Projection-Necklace-43344889807150.jpg?v=1772577038
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-tree-of-life-photo-projection-necklace-silver?variant=51650403270958)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Tree-of-Life-Photo-Projection-Necklace-43344919003438.jpg?v=1772577038
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-tree-of-life-photo-projection-necklace-silver?variant=51650403303726)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Tree-of-Life-Photo-Projection-Necklace-43344923623726.jpg?v=1772577038
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-tree-of-life-photo-projection-necklace-silver?variant=51650403336494)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Tree-of-Life-Photo-Projection-Necklace-43344889807150.jpg?v=1772577038
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-tree-of-life-photo-projection-necklace-silver?variant=51650403369262)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Tree-of-Life-Photo-Projection-Necklace-43344919003438.jpg?v=1772577038
-    Price: $83.40 AUD
 - [Personalised Lumina Butterfly Photo Projection Necklace](https://philu.co/products/personalised-lumina-butterfly-photo-projection-necklace-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 26 mm X 23 mm Chain Length: 45cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-05T10:15:17Z
+  Updated: 2026-03-23T03:03:43Z
   Vendor: PhilU
   Product Type: Necklaces
   Availability: Available
@@ -314,32 +290,26 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Lumina-Butterfly-Photo-Projection-Necklace-43344907895086.jpg?v=1772577038
     Price: $71.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-lumina-butterfly-photo-projection-necklace-silver?variant=51650402943278)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Lumina-Butterfly-Photo-Projection-Necklace-43344948298030.jpg?v=1772577038
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-lumina-butterfly-photo-projection-necklace-silver?variant=51650402976046)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Lumina-Butterfly-Photo-Projection-Necklace-43344921526574.jpg?v=1772577038
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-lumina-butterfly-photo-projection-necklace-silver?variant=51650403008814)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Lumina-Butterfly-Photo-Projection-Necklace-43344907895086.jpg?v=1772577038
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-lumina-butterfly-photo-projection-necklace-silver?variant=51650403041582)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Lumina-Butterfly-Photo-Projection-Necklace-43344948298030.jpg?v=1772577038
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-lumina-butterfly-photo-projection-necklace-silver?variant=51650403074350)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Lumina-Butterfly-Photo-Projection-Necklace-43344921526574.jpg?v=1772577038
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-lumina-butterfly-photo-projection-necklace-silver?variant=51650403107118)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Lumina-Butterfly-Photo-Projection-Necklace-43344907895086.jpg?v=1772577038
-    Price: $83.40 AUD
+- [Personalised Heart Loop Photo Projection Bracelet](https://philu.co/products/personalised-heart-loop-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
+  Updated: 2026-03-23T03:09:27Z
+  Vendor: PhilU
+  Product Type: Bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU_-_Personalised_Heart_Loop_Photo_Projection_Bracelet_-_Premium_E-Coating_Cooper_Gold_-_Female_Model.jpg?v=1772662511
+  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-heart-loop-photo-projection-bracelet-silver?variant=51650402713902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Loop-Photo-Projection-Bracelet-43350919479598.jpg?v=1772577037
+    Price: $71.40 AUD
+  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-heart-loop-photo-projection-bracelet-silver?variant=51650402779438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Loop-Photo-Projection-Bracelet-43350917710126.jpg?v=1772577037
+    Price: $71.40 AUD
+  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-heart-loop-photo-projection-bracelet-silver?variant=51650402844974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Loop-Photo-Projection-Bracelet-43350947496238.jpg?v=1772662511
+    Price: $71.40 AUD
 - [Personalised Blooming Memory Photo Projection Bracelet](https://philu.co/products/personalised-blooming-memory-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-09T23:10:17Z
+  Updated: 2026-03-23T03:01:50Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -356,32 +326,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Blooming-Memory-Photo-Projection-Bracelet-43346720686382.jpg?v=1772577036
     Price: $68.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-blooming-memory-photo-projection-bracelet-silver?variant=51650401763630)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Blooming-Memory-Photo-Projection-Bracelet-43346724356398.jpg?v=1772577036
-    Price: $71.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-blooming-memory-photo-projection-bracelet-silver?variant=51650401796398)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Blooming-Memory-Photo-Projection-Bracelet-43346722160942.jpg?v=1772577036
-    Price: $71.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-blooming-memory-photo-projection-bracelet-silver?variant=51650401829166)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Blooming-Memory-Photo-Projection-Bracelet-43346720686382.jpg?v=1772577036
-    Price: $71.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-blooming-memory-photo-projection-bracelet-silver?variant=51650401861934)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Blooming-Memory-Photo-Projection-Bracelet-43346724356398.jpg?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-blooming-memory-photo-projection-bracelet-silver?variant=51650401894702)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Blooming-Memory-Photo-Projection-Bracelet-43346722160942.jpg?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-blooming-memory-photo-projection-bracelet-silver?variant=51650401927470)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Blooming-Memory-Photo-Projection-Bracelet-43346720686382.jpg?v=1772577036
-    Price: $83.40 AUD
 - [Personalised Heart Shape Photo Projection Bracelet](https://philu.co/products/personalised-heart-shape-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-05T10:15:20Z
+  Updated: 2026-03-23T03:01:29Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -398,32 +344,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351739793710.png?v=1772577036
     Price: $68.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-heart-shape-photo-projection-bracelet-silver?variant=51650399109422)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351747494190.jpg?v=1772577036
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-heart-shape-photo-projection-bracelet-silver?variant=51650399142190)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351746445614.png?v=1772577036
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-heart-shape-photo-projection-bracelet-silver?variant=51650399174958)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351739793710.png?v=1772577036
-    Price: $77.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-heart-shape-photo-projection-bracelet-silver?variant=51650399207726)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351747494190.jpg?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-heart-shape-photo-projection-bracelet-silver?variant=51650399240494)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351746445614.png?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-heart-shape-photo-projection-bracelet-silver?variant=51650399273262)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351739793710.png?v=1772577036
-    Price: $83.40 AUD
 - [Personalised Trio Layered Photo Projection Bracelet](https://philu.co/products/personalised-trio-layered-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-09T12:44:47Z
+  Updated: 2026-03-23T03:01:13Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -440,32 +362,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Trio-Layered-Photo-Projection-Bracelet-43350931603758.jpg?v=1772577037
     Price: $68.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-trio-layered-photo-projection-bracelet-silver?variant=51650398454062)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Trio-Layered-Photo-Projection-Bracelet-43350927737134.jpg?v=1772577037
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-trio-layered-photo-projection-bracelet-silver?variant=51650398486830)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Trio-Layered-Photo-Projection-Bracelet-43350920560942.jpg?v=1772577037
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-trio-layered-photo-projection-bracelet-silver?variant=51650398519598)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Trio-Layered-Photo-Projection-Bracelet-43350931603758.jpg?v=1772577037
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-trio-layered-photo-projection-bracelet-silver?variant=51650398552366)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Trio-Layered-Photo-Projection-Bracelet-43350927737134.jpg?v=1772577037
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-trio-layered-photo-projection-bracelet-silver?variant=51650398585134)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Trio-Layered-Photo-Projection-Bracelet-43350920560942.jpg?v=1772577037
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-trio-layered-photo-projection-bracelet-silver?variant=51650398617902)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Trio-Layered-Photo-Projection-Bracelet-43350931603758.jpg?v=1772577037
-    Price: $113.40 AUD
 - [Personalised Magic Heart Photo Projection Bracelet](https://philu.co/products/personalised-magic-heart-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-05T10:15:19Z
+  Updated: 2026-03-23T03:00:57Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -482,32 +380,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351739793710.png?v=1772577036
     Price: $68.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-magic-heart-photo-projection-bracelet-silver?variant=51650398257454)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351747494190.jpg?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-magic-heart-photo-projection-bracelet-silver?variant=51650398290222)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351746445614.png?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-magic-heart-photo-projection-bracelet-silver?variant=51650398322990)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351739793710.png?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-magic-heart-photo-projection-bracelet-silver?variant=51650398355758)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351747494190.jpg?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-magic-heart-photo-projection-bracelet-silver?variant=51650398388526)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351746445614.png?v=1772577036
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-magic-heart-photo-projection-bracelet-silver?variant=51650398421294)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Shape-Photo-Projection-Bracelet-43351739793710.png?v=1772577036
-    Price: $83.40 AUD
 - [Personalised Dual-Layered Gemstone Photo Projection Bracelet](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-05T10:15:21Z
+  Updated: 2026-03-23T03:00:40Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -532,90 +406,26 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352183603502.jpg?v=1772577035
     Price: $77.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650397929774)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352155980078.jpg?v=1772577035
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650397962542)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352156373294.jpg?v=1772577035
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650397995310)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352156045614.png?v=1772577035
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Black](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650398028078)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352244158766.jpg?v=1772577035
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Blue](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650398060846)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352183603502.jpg?v=1772577035
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650398093614)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352155980078.jpg?v=1772577035
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650398126382)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352156373294.jpg?v=1772577035
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650398159150)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352156045614.png?v=1772577035
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Black](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650398191918)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352244158766.jpg?v=1772577035
-    Price: $113.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Blue](https://philu.co/products/personalised-dual-layered-gemstone-photo-projection-bracelet-silver?variant=51650398224686)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Dual-Layered-Gemstone-Photo-Projection-Bracelet-43352183603502.jpg?v=1772577035
-    Price: $113.40 AUD
 - [Personalised Heart & Pearl Photo Projection Bracelet](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-05T10:15:21Z
+  Updated: 2026-03-23T03:12:24Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU_-_Personalised_Heart_Pearl_Photo_Projection_Bracelet_-_Premium_E-Coating_Cooper_Gold_-_Female_Model.jpg?v=1772662510
-  - [Premium E-Coating Cooper / Rose gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51617385251118)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072556334.jpg?v=1772577035
-    Price: $68.40 AUD
-  - [Premium E-Coating Cooper / Gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51617385283886)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072752942.jpg?v=1772577035
-    Price: $68.40 AUD
-  - [Premium E-Coating Cooper / Silver](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51617385316654)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072392494.jpg?v=1772577035
-    Price: $68.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51650396127534)
+  - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51617385251118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072556334.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51650396193070)
+    Price: $68.40 AUD
+  - [Premium 18k Gold Plated Stainless Steel / Gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51865307742510)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072752942.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51650396258606)
+    Price: $68.40 AUD
+  - [Premium 18k Gold Plated Stainless Steel / Silver](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51865307775278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072392494.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51650396160302)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072556334.jpg?v=1772577035
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51650396225838)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072752942.jpg?v=1772577035
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-heart-pearl-photo-projection-bracelet-silver?variant=51650396291374)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Heart-Pearl-Photo-Projection-Bracelet-43357072392494.jpg?v=1772577035
-    Price: $83.40 AUD
+    Price: $68.40 AUD
 - [Personalised Classic Loop Photo Projection Bracelet](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 8mm x 8mm Chain Length: Adjustable from 6.5" up to 7.5" Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-09T11:02:57Z
+  Updated: 2026-03-23T04:13:57Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -648,34 +458,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU_-_Personalised_Classic_Loop_Photo_Projection_Bracelet_-_Classic_Premium_E-Coating_Cooper_Black_Gunmetal_-_Male_Model.jpg?v=1772662510
     Price: $68.40 AUD
-  - [Classic / Premium 18k Gold Plated Stainless Steel / White / Rose Gold](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657889120558)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Loop-Photo-Projection-Bracelet-White-Rose-Gold.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Classic / Premium 18k Gold Plated Stainless Steel / White / Gold](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51650389213486)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Loop-Photo-Projection-Bracelet-43345168204078.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Classic / Premium 18k Gold Plated Stainless Steel / White / Silver](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51650389279022)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Loop-Photo-Projection-Bracelet-43345156047150.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Classic / Premium 18k Gold Plated Stainless Steel / White / Gunmetal](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657889153326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Loop-Photo-Projection-Bracelet-White-Gunmetal.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Classic / Premium 18k Gold Plated Stainless Steel / Pink / Silver](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51650389147950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Loop-Photo-Projection-Bracelet-43345152639278.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Classic / Premium 18k Gold Plated Stainless Steel / Pink / Gold](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657889186094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Loop-Photo-Projection-Bracelet-Pink-Gold.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Classic / Premium 18k Gold Plated Stainless Steel / Black / Gunmetal](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51650389344558)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU_-_Personalised_Classic_Loop_Photo_Projection_Bracelet_-_Classic_Premium_E-Coating_Cooper_Black_Gunmetal_-_Male_Model.jpg?v=1772662510
-    Price: $71.40 AUD
   - [Premium / Premium E-Coating Cooper / White / Rose Gold](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657889317166)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/Personalised_Classic_Loop_Photo_Projection_Bracelet_Premium_White_Pink.jpg?v=1772577035
@@ -704,56 +486,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PersonalisedClassicLoopPhotoProjectionBraceletPremiumBlackBlack.jpg?v=1772577035
     Price: $68.40 AUD
-  - [Premium / Premium 18k Gold Plated Stainless Steel / White / Rose Gold](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657889415470)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/Personalised_Classic_Loop_Photo_Projection_Bracelet_Premium_White_Pink.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium / Premium 18k Gold Plated Stainless Steel / White / Gold](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657557737774)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/Personalised_Classic_Loop_Photo_Projection_Bracelet_Premium_White_Gold.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium / Premium 18k Gold Plated Stainless Steel / White / Silver](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657557770542)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/Personalised_Classic_Loop_Photo_Projection_Bracelet_Premium_White_Silver.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium / Premium 18k Gold Plated Stainless Steel / White / Gunmetal](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657889448238)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PersonalisedClassicLoopPhotoProjectionBraceletPremiumWhiteBlack.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium / Premium 18k Gold Plated Stainless Steel / Pink / Silver](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657557705006)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PersonalisedClassicLoopPhotoProjectionBraceletPremiumPinkSilver_2.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium / Premium 18k Gold Plated Stainless Steel / Pink / Gold](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657889481006)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PersonalisedClassicLoopPhotoProjectionBraceletPremiumPinkGold.jpg?v=1772577035
-    Price: $71.40 AUD
-  - [Premium / Premium 18k Gold Plated Stainless Steel / Black / Gunmetal](https://philu.co/products/personalised-classic-loop-photo-projection-bracelet-silver?variant=51657557803310)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PersonalisedClassicLoopPhotoProjectionBraceletPremiumBlackBlack.jpg?v=1772577035
-    Price: $71.40 AUD
 - [Personalised Classic Memory Chain Photo Projection Bracelet](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-10T11:43:17Z
+  Updated: 2026-03-23T02:59:49Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-Model-Female.jpg?v=1772662510
-  - [Premium E-Coating Cooper / Rose gold](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51617391542574)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357090709806.jpg?v=1772577034
-    Price: $68.40 AUD
-  - [Premium E-Coating Cooper / Gold](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51617391575342)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357090283822.jpg?v=1772577034
-    Price: $68.40 AUD
-  - [Premium E-Coating Cooper / Silver](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51617391608110)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357076128046.jpg?v=1772577034
-    Price: $68.40 AUD
-  - [Premium E-Coating Cooper / Black](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51617391640878)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357087498542.jpg?v=1772577034
-    Price: $68.40 AUD
   - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51650387345710)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357090709806.jpg?v=1772577034
@@ -770,40 +508,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357087498542.jpg?v=1772577034
     Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51650387378478)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357090709806.jpg?v=1772577034
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51650387444014)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357090283822.jpg?v=1772577034
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51650387509550)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357076128046.jpg?v=1772577034
-    Price: $83.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Black](https://philu.co/products/personalised-classic-memory-chain-photo-projection-bracelet-silver?variant=51650387575086)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Memory-Chain-Photo-Projection-Bracelet-43357087498542.jpg?v=1772577034
-    Price: $83.40 AUD
 - [Personalised Classic Heart Photo Projection Bracelet](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-03T22:30:35Z
+  Updated: 2026-03-23T11:38:27Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-Model-Female.jpg?v=1771813750
-  - [Premium E-Coating Cooper / Rose gold](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver?variant=51617392263470)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094543662.jpg?v=1772577034
-    Price: $68.40 AUD
-  - [Premium E-Coating Cooper / Gold](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver?variant=51617392296238)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094674734.jpg?v=1772577034
-    Price: $68.40 AUD
-  - [Premium E-Coating Cooper / Silver](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver?variant=51617392329006)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094281518.jpg?v=1772577034
-    Price: $68.40 AUD
   - [Premium 18k Gold Plated Stainless Steel / Rose gold](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver?variant=51650387083566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094543662.jpg?v=1772577034
@@ -816,20 +526,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094281518.jpg?v=1772577034
     Price: $93.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver?variant=51650387116334)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094543662.jpg?v=1772577034
-    Price: $93.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Gold](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver?variant=51650387181870)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094674734.jpg?v=1772577034
-    Price: $93.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-classic-heart-photo-projection-bracelet-silver?variant=51650387247406)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Heart-Photo-Projection-Bracelet-43357094281518.jpg?v=1772577034
-    Price: $93.00 AUD
 - [Personalised Eternal Heart Photo Projection Bracelet](https://philu.co/products/personalised-eternal-heart-photo-projection-bracelet): Material: Premium Metal with 18k Gold Plating. Pendant Size: 14mm x 12mm Chain Length: 17cm + 5cm adjustable extension Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-03T22:30:35Z
+  Updated: 2026-03-23T02:59:02Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -842,16 +540,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Eternal-Heart-Photo-Projection-Bracelet-43357113057582.jpg?v=1772577034
     Price: $68.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Rose gold](https://philu.co/products/personalised-eternal-heart-photo-projection-bracelet?variant=51650386985262)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Eternal-Heart-Photo-Projection-Bracelet-43357113975086.jpg?v=1772577034
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Silver](https://philu.co/products/personalised-eternal-heart-photo-projection-bracelet?variant=51650387050798)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Eternal-Heart-Photo-Projection-Bracelet-43357113057582.jpg?v=1772577034
-    Price: $81.00 AUD
 - [Personalised Classic Rope Photo Projection Bracelet](https://philu.co/products/personalised-classic-rope-photo-projection-bracelet-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 8mm x 8mm Chain Length: Adjustable from 6.5" up to 7.5" Photo Insert: High-definition customized circular micro-carving.
-  Updated: 2026-03-03T22:30:34Z
+  Updated: 2026-03-23T02:58:47Z
   Vendor: PhilU
   Product Type: Bracelets
   Availability: Available
@@ -874,26 +564,8 @@
     Price: $68.40 AUD
   - [Premium 18k Gold Plated Stainless Steel / Black](https://philu.co/products/personalised-classic-rope-photo-projection-bracelet-silver?variant=51617403666734)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/Personalised_Classic_Rope_Photo_Projection_Bracelet_Mode_Male.jpg?v=1771813747
     Price: $68.40 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Pink](https://philu.co/products/personalised-classic-rope-photo-projection-bracelet-silver?variant=51650374369582)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Rope-Photo-Projection-Bracelet-43357111812398.jpg?v=1772577033
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / White](https://philu.co/products/personalised-classic-rope-photo-projection-bracelet-silver?variant=51650374435118)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Rope-Photo-Projection-Bracelet-43357110731054.jpg?v=1772577033
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Blue](https://philu.co/products/personalised-classic-rope-photo-projection-bracelet-silver?variant=51650374500654)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Rope-Photo-Projection-Bracelet-43357114007854.jpg?v=1772577033
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Green](https://philu.co/products/personalised-classic-rope-photo-projection-bracelet-silver?variant=51650374566190)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6639/7998/files/PhilU-Australia-Personalised-Classic-Rope-Photo-Projection-Bracelet-43357120758062.jpg?v=1772577033
-    Price: $81.00 AUD
-  - [Premium 18k Gold Plated Sterling Silver / Black](https://philu.co/products/personalised-classic-rope-photo-projection-bracelet-silver?variant=51650374631726)
-    Availability: Not Available
-    Price: $81.00 AUD
 - [Personalised Classic Couple Photo Projection Ring](https://philu.co/products/personalised-classic-couple-photo-projection-ring-silver): Material: Premium Metal with 18k Gold Plating. Pendant Size: 6 mm X 6 mm Ring Size: Adjustable opening Photo Insert: High-definition customized circular micro-carving.
   Updated: 2026-03-03T22:30:33Z
   Vendor: PhilU
@@ -1063,16 +735,16 @@
 ## Collections
 
 - [Personalised Photo Projection Necklaces Australia | See Picture Inside | PhilU](https://philu.co/collections/photo-projection-jewellery): Carry your most cherished moments wherever you go. Our Photo Projection Jewellery allow you to hide a custom picture inside a beautiful gemstone. Simply look through the centre stone or project it onto a wall with your phone torch to reveal the magic. Perfect for memorials, anniversaries, and birthday gifts. Designed for durability and crafted with love for our Australian customers.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 27
 - [Star Products](https://philu.co/collections/star-products)
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 8
 - [Personalised Photo Projection Necklaces Australia | See Picture Inside | PhiU Jewellery Australia](https://philu.co/collections/photo-projection-necklaces): Shop Australia's best photo projection necklaces. Keep your favourite memory close to your heart with our custom picture jewellery. High-quality silver & gold options. Fast shipping AU wide. Create yours today.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-22T11:18:23Z
   Total Products: 11
 - [Custom Photo Projection Bracelets & Bangles | Hidden Photo Jewellery AU | PhilU Jewellery Australia](https://philu.co/collections/photo-projection-bracelets): Discover our unique photo projection bracelets. A hidden picture inside every bead. The perfect personalised gift for couples and best friends in Australia. Adjustable sizes available. Shop now.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 12
 - [Photo Projection Rings Australia | 100 Languages of Love & Custom Picture | PhilU Jewellery Australia](https://philu.co/collections/photo-projection-rings): Explore our stunning collection of photo projection rings. Hide a custom picture or 'I Love You' in 100 languages inside the stone. Adjustable sizing fits all. The ultimate romantic gift. Free shipping options available.
   Updated: 2026-02-26T06:29:49Z
@@ -1081,55 +753,55 @@
   Updated: 2026-02-26T06:29:49Z
   Total Products: 2
 - [Pet Memorial Jewellery Australia | Dog & Cat Loss Keepsakes | PhilU](https://philu.co/collections/pet-memorial-jewellery-australia): Keep your fur baby close to your heart. Beautiful photo projection jewellery for pet loss. A comforting memorial gift for the loss of a dog or cat. See their face inside forever. Australian owned.
-  Updated: 2026-03-09T11:18:50Z
+  Updated: 2026-03-23T03:06:24Z
   Total Products: 11
 - [Memorial Jewellery Australia | Remembrance Gifts for Loss of Loved One | PhilU](https://philu.co/collections/memorial-jewellery-australia): A beautiful way to honour a lost loved one. Memorial photo projection necklaces and keepsakes. Comforting sympathy gifts for those grieving in Australia. Keep their memory alive.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 11
 - [Mother's Day Gifts Australia | Personalised Photo Necklaces for Mum | PhilU Jewellery](https://philu.co/collections/mothers-day-gifts-mum-australia): Make Mum cry tears of joy this Mother's Day. Custom photo projection jewellery holding a picture of her children or family. The best personalised gift for Mum or Grandma in Australia.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 15
 - [Valentine's Day Gifts Australia | Romantic Photo Projection Jewellery | PhilU](https://philu.co/collections/valentines-day-gifts-australia): Shop the most romantic Valentine's Day gifts in Australia. Hide a secret photo or 'I Love You' inside our projection necklaces and rings. The perfect surprise for her or him. Fast shipping for Feb 14.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 15
 - [Father's Day Gifts Australia | Custom Photo Keychains for Dad | PhilU Jewellery](https://philu.co/collections/fathers-day-gifts-australia): Struggling for Father's Day ideas? Discover our rugged photo projection keychains and bracelets. A hidden family photo for Dad to carry every day. Fast AU delivery for September.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 7
 - [Personalised Christmas Gifts Australia | Unique Photo Jewellery | PhilU](https://philu.co/collections/christmas-gifts-australia): Find the perfect Christmas present for everyone on your list. Photo projection jewellery for her, him, and the family. Unique Kris Kringle ideas. Order now for  Christmas delivery Australia-wide.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 24
 - [Personalised Gifts for Her Australia | Photo Projection Jewellery | PhilU](https://philu.co/collections/photo-projection-gifts-for-her): The most romantic gift for her in Australia. Surprise your wife or girlfriend with a hidden photo inside a necklace or ring. Perfect for anniversaries, Valentine's Day, and birthdays. Shop custom picture jewellery she will love.
-  Updated: 2026-03-09T11:18:50Z
+  Updated: 2026-03-23T03:06:24Z
   Total Products: 11
 - [Personalised Gifts for Him Australia | Photo Projection Jewellery | PhilU](https://philu.co/collections/photo-projection-gifts-for-him): Looking for unique gifts for men? Discover our photo projection bracelets and keychains. Hide a meaningful picture inside a rugged, masculine design. The perfect personalised gift for boyfriend or husband in Australia.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 10
 - [Gifts for Mum Australia | Personalised Photo Necklaces & Jewellery | PhilU](https://philu.co/collections/personalised-gifts-for-mum-australia): Show Mum how much she means to you. Shop Australia's best photo projection jewellery for Mother's Day and birthdays. Keep a photo of her children or grandchildren close to her heart. Emotional & unique gifts for Mum.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 17
 - [Gifts for Dad Australia | Photo Keyrings & Memorial Gifts | PhilU Jewellery](https://philu.co/collections/personalised-gifts-for-dad-australia): Unique personalised gifts for Dad. Custom photo projection keychains and bracelets made for everyday wear. A heartfelt way for fathers to carry a photo of their kids. Great for Father's Day. Australian owned.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 9
 - [Gifts for Daughter | Custom Photo Jewellery for Her Birthday | PhilU Australia](https://philu.co/collections/beautiful-gifts-for-daughter): Surprise your daughter with magic. Beautiful photo projection necklaces and rings containing a picture of her childhood or family. The perfect sentimental gift from parents. Available in Silver & Gold. Shop now.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 20
 - [Gifts for Son | Personalised Keepsakes from Mum & Dad | PhilU Australia](https://philu.co/collections/unique-gifts-for-son-australia): A meaningful gift for your son to carry through life. Photo projection bracelets and keychains that hold a hidden memory from home. Perfect for graduation, 18th/21st birthdays. Send your love with him everywhere.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 10
 - [Everyday Photo Projection Jewellery | Minimalist & Durable | PhilU Australia](https://philu.co/collections/daily-wear-photo-jewellery): Keep your memories close every single day. Shop our collection of durable, minimalist photo projection jewellery designed for daily wear. Tarnish-resistant materials perfect for the Australian lifestyle.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 16
 - [Unique Birthday Gifts Australia | Personalised Photo Jewellery | PhilU Australia](https://philu.co/collections/birthday-gifts-australia): Stuck for birthday ideas? Give the gift of a memory. Custom photo projection necklaces and keychains for 18th, 21st, 30th or 50th birthdays. The ultimate personalised surprise. Fast shipping AU wide.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 23
 - [Wedding & Bridal Photo Jewellery | Bouquet Charms & Bridesmaid Gifts | PhilU Australia](https://philu.co/collections/wedding-photo-jewellery): Add a personal touch to your big day. Photo projection jewellery for brides, bouquet charms to honour lost loved ones, and unique bridesmaid gifts. Capture the love on your wedding day.
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T03:06:24Z
   Total Products: 17
 - [Anniversary Gifts for Her & Him | Romantic Photo Jewellery | PhilU Australia](https://philu.co/collections/anniversary-gifts-australia): Celebrate your love story. Custom anniversary gifts that project your wedding photo or a special moment. Perfect for 1st, 5th, or 10th anniversaries. Romantic, unique, and personal. Shop now.
-  Updated: 2026-03-09T11:18:50Z
+  Updated: 2026-03-23T03:06:24Z
   Total Products: 9
 - [AVADA - Best Sellers](https://philu.co/collections/avada-best-sellers)
-  Updated: 2026-03-10T11:20:45Z
+  Updated: 2026-03-23T11:17:43Z
   Total Products: 27
 
 ## Blogs
