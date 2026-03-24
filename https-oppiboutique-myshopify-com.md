@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-25T12:22:45Z
 - Contact Email: bilaloppi1@gmail.com
-- Updated At: 2026-03-17T00:00:28.928Z
+- Updated At: 2026-03-24T00:00:34.509Z
 
 ## Products
 
@@ -1366,10 +1366,14 @@
 
 - [Privacy Policy](https://oppiboutique.myshopify.com/policies/privacy-policy)
   Updated: 2026-03-08T20:03:28+01:00
+- [Shipping Policy](https://oppiboutique.myshopify.com/policies/shipping-policy)
+  Updated: 2026-03-20T16:19:07+01:00
 - [Refund Policy](https://oppiboutique.myshopify.com/policies/refund-policy)
   Updated: 2026-03-15T21:14:15+01:00
 - [Terms of Service](https://oppiboutique.myshopify.com/policies/terms-of-service)
   Updated: 2026-02-25T14:00:07+01:00
+- [Contact Information](https://oppiboutique.myshopify.com/policies/contact-information)
+  Updated: 2026-03-20T16:16:07+01:00
 
 ## Optional
 
