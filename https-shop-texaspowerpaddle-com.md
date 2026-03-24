@@ -6,18 +6,18 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-16T21:32:26Z
 - Contact Email: sales@texaspowerpaddle.com
-- Updated At: 2026-03-14T00:00:27.461Z
+- Updated At: 2026-03-24T00:00:33.320Z
 
 ## Products
 
 - [ Guard](https://shop.texaspowerpaddle.com/products/-guard-for-texas-power-paddle):  guard replaces front nose cone of existing TPP motor systems and helps to keep the seaweed and grass from clogging the motor. Simple install takes under a minute. If you fish in shallow grass flats or areas with a lot of floating seagrass you will appreciate this upgrade. Compatible with all units- select correct model. For Gen 2 & Gen 3 XL motors. Gen 1 customers please contact sales@texaspowerpaddle.com
-  Updated: 2026-03-13T15:48:51Z
+  Updated: 2026-03-19T10:51:52Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/image_b468d3ce-6af3-4957-85d8-bfe300a6663a.jpg?v=1647037882
   - [Rudder Mounted System](https://shop.texaspowerpaddle.com/products/-guard-for-texas-power-paddle?variant=32116535820386)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/image_b468d3ce-6af3-4957-85d8-bfe300a6663a.jpg?v=1647037882
     Price: $25.00 USD
   - [Transducer Mounted System for Hobie Lynx & Passport](https://shop.texaspowerpaddle.com/products/-guard-for-texas-power-paddle?variant=32039958511714)
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/image_b468d3ce-6af3-4957-85d8-bfe300a6663a.jpg?v=1647037882
     Price: $25.00 USD
 - [Texas Power Paddle Decals](https://shop.texaspowerpaddle.com/products/texas-power-paddle-sticker): Everything is a little bigger in Texas...except the Texas Power Paddle Propulsion system that is small and compact :) Choose your style
-  Updated: 2025-12-11T15:01:48Z
+  Updated: 2026-03-23T15:22:27Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -51,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/files/TPPLogoSticker-01.png?v=1756393581
     Price: $1.00 USD
 - [Spare Propeller](https://shop.texaspowerpaddle.com/products/spare-propeller): Never hurts to have a spare. These props are pretty tough but after a few seasons you may have a few nicks. Replacing your prop can eliminate premature wear on your rotor. Total replacement time is about 10 minutes. Make sure you select the correct type as the ductless (Yellow) and ducted (Blue) versions are not interchangeable. For Gen 2 & Gen 3 XL motors
-  Updated: 2026-03-12T20:42:56Z
+  Updated: 2026-03-23T16:29:07Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/IMG_6151fixed.png?v=1711143135
     Price: $25.00 USD
 - [Throttle Clip for Hobie Kayaks](https://shop.texaspowerpaddle.com/products/throttle-clip-for-hobie-compass): Replacement throttle clip that slides over rudder handle and attaches to the throttle control for the propulsion system. Can be mounted on left or right rudder handle. This part allows you to steer and adjust the throttle with one hand. Does not include the throttle cable or knob. Select the appropriate kayak model
-  Updated: 2025-12-15T20:09:08Z
+  Updated: 2026-03-20T17:47:01Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -94,14 +94,14 @@
     Availability: Available
     Price: $15.00 USD
 - [Throttle Control Cable](https://shop.texaspowerpaddle.com/products/throttle-control-cable-w-connector): Waterproof proportional throttle control compatible with any TPP drive systems. All TPP propulsion systems come with the throttle, but if it gets damaged or you have a second kayak, get a spare here.
-  Updated: 2026-03-04T19:56:07Z
+  Updated: 2026-03-20T18:06:55Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/IMG_6292fixed.png?v=1621019418
   Price: $95.00 USD
 - [Protective Wire Caps](https://shop.texaspowerpaddle.com/products/protective-wire-caps): In harsh environments these wire caps easily slip over the open pins on the throttle and motor cable connectors and keep them free of dirt and debris when not in use. For corrosion protection apply a small amount of dielectric grease to the pins as needed. *Upgraded- these now have a watertight O-ring and a clip to attach to the cable for storage
-  Updated: 2026-03-13T16:36:04Z
+  Updated: 2026-03-23T20:35:17Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -125,7 +125,7 @@
     Availability: Available
     Price: $199.00 USD
 - [Complete Motor Replacement](https://shop.texaspowerpaddle.com/products/motor-core-rebuild): If your motor is not running, is making grinding noises or excessive vibration even after a motor refurbishment or tune-up kit you need a replacement. If you are unable to rotate or remove the rotor or there is damage to the plastic housing or cable or connector this is also what you need to order. This is a complete motor replacement and includes a new propeller and new cable with connector. If you are ordering a replacement for the ducted Transducer-mounted System for the Hobie Lynx this will include a new motor mount & hinge that you will use with your existing mounting plate.
-  Updated: 2026-03-13T11:20:48Z
+  Updated: 2026-03-22T13:31:10Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -143,7 +143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/files/image_38a6b1dd-48e1-4c61-92d1-652918fd640c.jpg?v=1756156736
     Price: $350.00 USD
 - [Integrated Rudder Propulsion System for Hobie Kayaks w/o battery control case](https://shop.texaspowerpaddle.com/products/propulsion-system): For those of you who already have a complete TPP system with a drive control case you can now order our rudder mounted propulsion system to outfit your other Hobie kayaks. This will replace your existing rudder in either an Outback, ProAngler, or Compass. You will need to use your existing drive control case and throttle to power the unit.
-  Updated: 2026-02-25T22:42:18Z
+  Updated: 2026-03-19T06:56:43Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -235,7 +235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/image_9ccabdb5-8fd6-4b80-b1a8-4b505dabd75a.jpg?v=1677093551
     Price: $49.00 USD
 - [Preventative Care Kit for Motor & Electronics](https://shop.texaspowerpaddle.com/products/premium-care-kit): Our NEW Preventative Care Kit gives you all the extra parts & tools to take care of your motor and keep it in good shape: To learn more watch the video Spare Prop Replacement Bearings (+ Motor Tune-Up Kit tools) Corrosion inhibitor spray Connector plug covers to reduce corrosion on electrical pins Dielectric grease for connectors Allen wrenches (2+2.5 mm) to remove nose cone and rotor shaft collar when installing new prop. Over $150 value!
-  Updated: 2026-03-13T18:12:12Z
+  Updated: 2026-03-23T16:28:56Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -247,7 +247,7 @@
     Availability: Available
     Price: $59.00 USD
 - [Skid Plate Protector for Lynx & Passport](https://shop.texaspowerpaddle.com/products/lynx-skid-plate-add-ons): For the Transducer propulsion plate this pair of plastic skid plate add-ons protects your motor from damage during transport or when dragging your Lynx kayak over oyster beds and other obstructions. Comes with two longer screws and mounts over the Transducer plate. Install take seconds. *Compatible with Lynx and Passport 12*
-  Updated: 2026-03-13T16:36:53Z
+  Updated: 2026-03-20T16:56:07Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -323,7 +323,7 @@
   Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/files/bird2.jpg?v=1692885007
   Price: $7.50 USD
 - [Gen 3 XL Transducer Mounted Propulsion System for Hobie™ Kayaks](https://shop.texaspowerpaddle.com/products/gen3xl-transducer-mounted-propulsion-system): All the great Gen 2 features plus up to 30% more power, thrust & battery capacity that doesn't fade. Our upgraded 18.5 volt 42ah / 777wh battery provides upgraded performance for the dedicated kayak angler. The Hobie transducer cavity in the Lynx and Passport kayaks is the ideal location for our retractable propulsion system that can operate in under six inches of water. This unit uses our brushless ducted motor mounted on a custom plate that will automatically deploy and retract from the transducer cavity space. The complete system weighs under 12 pounds including our custom 18.5 volt 42ah battery and is a drop-in replacement for the existing Lowrance Ready Plate or Guardian Plate. Provides hours of propulsion with max speed equal to moderate pedaling. Fully retracts into the hull to allow you to go through the shallowest water possible. Comes with everything you need to get going out on the water! *Does not include Skid Plates or  Guard* Compatible with the Hobie® Lynx & Passport 12 All units come with a one-year warranty and all parts are available for repair. 100% customer satisfaction guarantee. If you have considered a Bixpy, Torqeedo, or NewPort Vessels system read our reviews and testimonials. The TPP system offers a super clean and lightweight install that keeps your kayak looking sharp and uncluttered. Our battery is included in the price and we are made in the USA.
-  Updated: 2026-03-13T15:48:59Z
+  Updated: 2026-03-20T18:10:00Z
   Vendor: Texas Power Paddle
   Product Type: System
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: $1,499.00 USD
 - [Gen 3 XL Universal Propulsion System for all Kayaks w/ steerable rudders & fins](https://shop.texaspowerpaddle.com/products/gen3xl-universal-propulsion-system): All the great Gen 2 features plus up to 30% more power, thrust & battery capacity that doesn't fade. Our upgraded 18.5 volt 42ah / 777wh battery provides upgraded performance for the dedicated kayak angler. The Texas Power Paddle system is compatible with all kayaks with a steerable rudder or fin using our universal rudder mounted propulsion system. Kayak fishing fans our complete propulsion kit just got better and allows you to easily motorize your kayak with a system under 12 pounds including our custom 18.5 volt 42ah battery. This unit uses our brushless ducted motor with mount. The universal adapter mounts to most rudders using three fasteners at the rear edge of the rudder. Once installed the unit provides a clean uncluttered and stealthy approach to adding electric propulsion to your kayak. Comes with everything you need to get going out on the water! Compatible with all kayak models with a steerable rudder including Hobie Twist & Stow, Hobie Lynx, Hobie Passport, Bonafide, Jackson, Hoodoo, Native Watercraft, Vibe, Old Town, BOTE and many other models. All units come with a one-year warranty and all parts are available for repair. 100% customer satisfaction guarantee! If you have considered a Bixpy, Torqeedo, or NewPort Vessels system read our reviews and testimonials. The TPP system offers a super clean and lightweight install that keeps your kayak looking sharp and uncluttered. Our battery is included in the price and we are made in Texas.
-  Updated: 2026-03-08T13:22:22Z
+  Updated: 2026-03-20T14:01:58Z
   Vendor: Texas Power Paddle
   Product Type: System
   Availability: Available
@@ -362,7 +362,7 @@
     Availability: Available
     Price: $1,399.00 USD
 - [Gen 3 PRO Ductless Integrated Rudder Propulsion System for Hobie™ Kayaks](https://shop.texaspowerpaddle.com/products/gen3pro-integrated-rudder-propulsion-system): Kayak anglers our complete propulsion kit just got better and allows you to easily motorize your ProAngler, Outback, or Compass with a system under 12 pounds including our custom 18.4 volt battery.  This unit uses our brushless ducted motor integrated into a custom rudder that will deploy and retract just like the original rudder. Thrust is equivalent to moderate pedaling for making your kayaking a breeze. This unit requires minimal assembly as you simple remove your existing rudder and replace with this new one.  One installed the unit provides a clean uncluttered and stealthy approach to adding electric propulsion to your kayak.  Comes with everything you need to get going out on the water!   All units come with a one-year warranty and all parts are available for repair. 100% customer satisfaction guarantee. If you have considered a Bixpy, Torqeedo, or NewPort Vessels system read our reviews and testimonials. The TPP system offers a super clean and lightweight install that keeps your kayak looking sharp and uncluttered. Our battery is included in the price and we are made in Texas.
-  Updated: 2026-03-13T18:12:08Z
+  Updated: 2026-03-23T16:28:59Z
   Vendor: Texas Power Paddle
   Product Type: System
   Availability: Available
@@ -455,10 +455,10 @@
   Updated: 2024-07-12T16:21:17Z
   Total Products: 0
 - [Kayak Propulsion Systems](https://shop.texaspowerpaddle.com/collections/propulsion-systems): Electric propulsion systems for Hobie kayaks and any other brand with a steerable rudder. Our patented electric kayak motors install in minutes, retract and deploy automatically and do not require any permanent changes to your kayak. Electrify your kayak experience today!
-  Updated: 2026-03-09T11:17:11Z
+  Updated: 2026-03-23T11:15:17Z
   Total Products: 12
 - [Accessories](https://shop.texaspowerpaddle.com/collections/accesories): Protect your  with accessories to keep your system in top running shape
-  Updated: 2026-03-13T11:16:46Z
+  Updated: 2026-03-21T11:14:40Z
   Total Products: 16
 - [Swag](https://shop.texaspowerpaddle.com/collections/freebies): We have what you need to add some flare to your rig. Quality custom designed, printed and cut in-house.
   Updated: 2025-12-01T22:48:03Z
@@ -467,7 +467,7 @@
   Updated: 2023-10-27T16:38:55Z
   Total Products: 4
 - [Replacements & Repairs and Upgrades](https://shop.texaspowerpaddle.com/collections/replacement-parts-repairs): We service all of our products and have most parts in stock. If you don't see it here contact us and we will get you what you need
-  Updated: 2026-03-08T11:17:30Z
+  Updated: 2026-03-23T11:15:17Z
   Total Products: 13
 - [Rentals & Demo](https://shop.texaspowerpaddle.com/collections/rentals-and-demo): Our rental units and tours give you the chance to experience a whole new way of enjoying your favorite sport- it's like an electric bike on the water. Sit back and throttle up or pedal along for max speed and distance
   Updated: 2023-10-27T16:38:56Z
@@ -476,7 +476,7 @@
   Updated: 2022-10-11T15:08:06Z
   Total Products: 0
 - [Sales & Bundles](https://shop.texaspowerpaddle.com/collections/sales): Hot Deals on package bundles, closeout items and limited stock! Get-em while you can...
-  Updated: 2026-03-13T11:16:46Z
+  Updated: 2026-03-23T11:15:17Z
   Total Products: 20
 - [Replacement Propulsion Units](https://shop.texaspowerpaddle.com/collections/upgrades-kits): These propulsions units require our waterproof battery control case to operate properly. Ideal for easily adding a motor to another kayak in your fleet.
   Updated: 2026-03-13T11:16:46Z
@@ -485,13 +485,13 @@
   Updated: 2025-02-21T17:21:37Z
   Total Products: 4
 - [Gen 2 Systems have been replaced by Gen 3 XL and Pro](https://shop.texaspowerpaddle.com/collections/gen-2-systems): Shop Gen 3: All the great Gen 2 features plus up to 30% more power, thrust & battery capacity that doesn't fade. Our upgraded 18.5 Volt 42Ah / 777 Wh battery provides upgraded performance for the dedicated kayak angler.
-  Updated: 2026-03-09T11:17:11Z
+  Updated: 2026-03-23T11:15:17Z
   Total Products: 7
 - [Gen 3 Hobie Systems- Get Ready for Spring!](https://shop.texaspowerpaddle.com/collections/gen-3-systems): Featuring up to 30% more power, thrust & battery capacity that doesn't fade. Our upgraded 18.5 Volt 42Ah / 777 Wh battery provides enhanced performance for the dedicated kayak angler.
-  Updated: 2026-03-09T11:17:11Z
+  Updated: 2026-03-23T11:15:17Z
   Total Products: 5
 - [Preventative Maintenance](https://shop.texaspowerpaddle.com/collections/preventative-maintenance)
-  Updated: 2026-03-13T11:16:46Z
+  Updated: 2026-03-21T11:14:40Z
   Total Products: 4
 
 ## Store Pages
