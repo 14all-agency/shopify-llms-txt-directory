@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-06-21T22:40:19Z
 - Contact Email: thaiblessingco@thaiblessingco.com
-- Updated At: 2026-02-15T23:36:23.773Z
+- Updated At: 2026-03-24T23:38:06.804Z
 
 ## Products
 
@@ -1020,12 +1020,12 @@
     Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/wealth-transformation-amulet-wood-carved-figure-sitting-side-view.jpg?v=1770420268
     Price: $109.00 USD
 - [Luang Phor Oad Amulet - Powerful Thai Charm for Protection & Success](https://thaiblessingco.com/products/luang-phor-oad-protection-amulet): Discover the Luang Phor Oad Amulet, a powerful Thai protection charm, promoting safety and success in your life. Unlock your potential with this sacred talisman today!
-  Updated: 2026-02-07T04:20:30Z
+  Updated: 2026-03-10T15:01:49Z
   Vendor: One-Sake.com
   Product Type: เครื่องใช้ในบ้าน/สินค้าเกี่ยวกับฮวงจุ้ยและศาสนา
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/luang-phor-oad-protection-amulet-tiger-front-back-details.jpg?v=1770420269
-  Price: $10.80 USD
+  Price: $108.00 USD
 - [Hanuman Yantra Cloth - Luang Pu Nim for Victory and Wealth](https://thaiblessingco.com/products/hanuman-yantra-cloth-for-wealth): Unlock victory and wealth with our Hanuman Yantra Cloth by Luang Pu Nim Wat Buddhamongkol. Elevate your spiritual journey and attract prosperity today!
   Updated: 2026-02-07T04:20:30Z
   Vendor: One-Sake.com
@@ -1160,7 +1160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/tao-thanabodi-maharaj-first-edition-amulet-gold-front-closeup.jpg?v=1770420430
   Price: $96.00 USD
 - [Thai Heritage Talisman - Authentic Amulet for Spiritual Protection](https://thaiblessingco.com/products/authentic-thai-heritage-talisman-upakut): Enhance your spiritual journey with our Authentic Thai Heritage Talisman. This unique amulet offers spiritual protection and ancient wisdom, inviting peace and prosperity into your life.
-  Updated: 2026-02-15T04:24:32Z
+  Updated: 2026-03-24T04:35:31Z
   Vendor: One-Sake.com
   Product Type: เครื่องใช้ในบ้าน/สินค้าเกี่ยวกับฮวงจุ้ยและศาสนา
   Availability: Available
@@ -1202,7 +1202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/thai-prai-metta-mahamongkol-charm-front-back-views.jpg?v=1770420505
   Price: $87.00 USD
 - [Phra Phong Upakut First Edition - Embrace Wisdom and Prosperity](https://thaiblessingco.com/products/kruba-kham-ai-first-edition-phra-phong-upakut): Discover the Phra Phong Upakut First Edition, crafted by Kruba Kham-Ai. Embrace wisdom, prosperity, and heritage in this unique collectible. Shop now!
-  Updated: 2026-02-15T04:24:32Z
+  Updated: 2026-03-24T04:35:31Z
   Vendor: One-Sake.com
   Product Type: เครื่องใช้ในบ้าน/สินค้าเกี่ยวกับฮวงจุ้ยและศาสนา
   Availability: Available
@@ -4441,53 +4441,62 @@
 ## Collections
 
 - [Thai Amulet & Talisman - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/buddhist-lucky-charms-thailand-sacred)
-  Updated: 2026-02-15T10:57:09Z
-  Total Products: 2349
+  Updated: 2026-03-18T11:24:42Z
+  Total Products: 2462
 - [Authentic Thai Traditional Clothing - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/thai-traditional-clothing): "Discover the elegance of Thai traditional fashion with this authentic and stylish collection. Handcrafted with care, each piece blends timeless cultural heritage with modern style – perfect for collectors, fashion enthusiasts, and unique wardrobe pieces."
-  Updated: 2026-02-06T23:15:58Z
-  Total Products: 155
+  Updated: 2026-03-07T05:49:32Z
+  Total Products: 186
 - [Authentic Thai Handmade Bags - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/thai-handmade-bags-collection): "Explore authentic Thai handmade bags featuring stylish and unique designs. Perfect for fashion enthusiasts seeking quality craftsmanship and distinctive style."
   Updated: 2026-02-06T23:15:56Z
   Total Products: 48
 - [Authentic Thai Souvenirs - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/thai-souvenirs-online): "Discover authentic Thai souvenirs featuring unique designs perfect for gifts and home décor. Handcrafted with care, each piece brings a touch of Thai culture to your space."
-  Updated: 2026-02-06T23:15:58Z
+  Updated: 2026-03-03T10:21:48Z
   Total Products: 98
 - [Magnetic Attraction Amulets - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/thai-attraction-charms)
-  Updated: 2026-02-15T10:57:09Z
-  Total Products: 1325
+  Updated: 2026-03-16T16:02:57Z
+  Total Products: 1413
 - [Fortune & Prosperity Collection - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/prosperity-talismans-for-wealth)
-  Updated: 2026-02-15T10:57:09Z
-  Total Products: 2307
+  Updated: 2026-03-18T11:24:42Z
+  Total Products: 2418
 - [Divine Protection Collection - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/authentic-thai-safety-talismans-protection): "Discover the elegance of Thai craftsmanship – a unique collection of authentic artisan creations, blending timeless heritage with modern style. Perfect for collectors, home décor, and meaningful gifts."
-  Updated: 2026-02-15T10:57:09Z
-  Total Products: 1767
+  Updated: 2026-03-18T11:24:42Z
+  Total Products: 1841
 - [Authentic Thai Amulets  Best Sellers - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/authentic-thai-amulets-for-)
-  Updated: 2026-02-15T10:57:36Z
-  Total Products: 4811
+  Updated: 2026-03-24T00:57:34Z
+  Total Products: 5436
 - [Feng Shui Home Decor - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/feng-shui-home-decor): Elevate your space for home decor needs. Harmonize energy and attract prosperity with Feng Shui accents. Shop now to bring peace and abundance.
-  Updated: 2026-02-06T23:15:58Z
-  Total Products: 207
+  Updated: 2026-03-02T15:58:31Z
+  Total Products: 208
 - [Tarot & Divination Tools - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/tarot-divination-tools): Explore the mystical world of Tarot and spiritual guidance tools. From classic Rider-Waite decks to artistic oracle cards, pendulums, and divination mats, this collection empowers your intuition and supports personal growth and clarity.
-  Updated: 2026-02-06T23:16:00Z
-  Total Products: 782
+  Updated: 2026-03-02T15:58:31Z
+  Total Products: 783
 - [Modern Mystic Items - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/modern-mystic-items): Embrace mystical energy in a modern way. This category offers contemporary-style spiritual items like lucky phone cases, wallet charms, sticker talismans, and everyday wearable protection symbols—perfect for today’s mindful yet stylish believers.
-  Updated: 2026-02-06T23:15:59Z
+  Updated: 2026-03-11T11:24:03Z
   Total Products: 267
 - [Spiritual Aromatherapy - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/spiritual-aromatherapy): Calm your mind and cleanse your space with spiritual aromatherapy essentials. Featuring scented candles, Tibetan incense, and essential oils infused with sacred herbs, this collection is perfect for meditation, rituals, or creating a peaceful spiritual atmosphere.
   Updated: 2026-02-06T23:15:58Z
   Total Products: 56
-- [ฺBohemian Clothes](https://thaiblessingco.com/collections/ฺbohemian-clothes)
-  Updated: 2026-02-06T23:15:55Z
-  Total Products: 80
+- [ฺFashion & Bohemian Clothes](https://thaiblessingco.com/collections/ฺbohemian-clothes)
+  Updated: 2026-03-05T19:38:58Z
+  Total Products: 196
 - [All Products (ChatGPT-AI Product Description)](https://thaiblessingco.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-02-15T10:57:37Z
-  Total Products: 4812
+  Updated: 2026-03-24T00:57:34Z
+  Total Products: 5443
 - [Partner Products](https://thaiblessingco.com/collections/partner-products)
   Updated: 2025-12-25T04:17:07Z
   Total Products: 0
 - [T-Shirt](https://thaiblessingco.com/collections/t-shirt)
   Updated: 2026-02-14T02:49:11Z
   Total Products: 382
+- [Boxing + Muay Thai](https://thaiblessingco.com/collections/boxing-muay-thai)
+  Updated: 2026-03-24T00:57:04Z
+  Total Products: 372
+- [Various Rituals](https://thaiblessingco.com/collections/various-rituals)
+  Updated: 2026-03-15T11:26:43Z
+  Total Products: 6
+- [AVADA - Best Sellers](https://thaiblessingco.com/collections/avada-best-sellers)
+  Updated: 2026-03-24T23:36:44Z
+  Total Products: 5436
 
 ## Blogs
 
