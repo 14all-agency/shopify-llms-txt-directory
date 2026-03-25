@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T09:12:07Z
 - Contact Email: info@nsstyling.com
-- Updated At: 2026-03-16T00:00:45.057Z
+- Updated At: 2026-03-25T00:00:52.285Z
 
 ## Products
 
@@ -428,7 +428,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/13_19.png?v=1760760909
   Price: $0.00 AUD
 - [Bamboo MARBLE TOP PLINTH](https://nsstyling.com/products/marble-top-bamboo-leg-plinths): Marble top bamboo leg plinths for weddings, events, or interiors, combining natural texture & premium stone design to elevate decor, displays, & table styling.
-  Updated: 2026-02-03T05:47:43Z
+  Updated: 2026-03-24T22:36:57Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -603,7 +603,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/38.png?v=1760937511
   Price: $0.00 AUD
 - [FRENCH PROVINCIAL CAKE TABLE](https://nsstyling.com/products/white-french-louis-provincial-table): White French Louis Provincial table for weddings, events, or interiors, adding classic elegance, refined detail, and timeless style to dining & display spaces.
-  Updated: 2026-02-03T05:46:31Z
+  Updated: 2026-03-24T05:25:55Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -686,8 +686,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/3_17.png?v=1760701758
   Price: $30.00 AUD
-- [WHITE SILK FANS](https://nsstyling.com/products/white-silk-fans): Introducing our exquisite collection of fans, meticulously handcrafted overseas to bring you a touch of elegance and sophistication. We offer the option of delicate silk material that adds a luxurious texture to the fans or paper fabric which you can apply your own choice of handwriting, making them not only visually appealing but also a pleasure to touch and hold. The lightweight design ensures comfortable use, making these fans both functional and aesthetically pleasing. To make one of these exquisite silk fans yours, simply submit your order today. Once we receive your details, our dedicated team will be in touch promptly to facilitate the delivery process. PRODUCT COST BLACK FABFIC FAN $4.00 each WHITE FABRIC FAN $3.00 each PAPER FAN $2.00 each
-  Updated: 2026-01-21T14:47:41Z
+- [WHITE SILK FANS](https://nsstyling.com/products/white-silk-fans): Introducing our exquisite collection of fans, meticulously handcrafted overseas to bring you a touch of elegance and sophistication. We offer the option of delicate silk material that adds a luxurious texture to the fans or paper fabric which you can apply your own choice of handwriting, making them not only visually appealing but also a pleasure to touch and hold. The lightweight design ensures comfortable use, making these fans both functional and aesthetically pleasing. To make one of these exquisite silk fans yours, simply submit your order today. Once we receive your details, our dedicated team will be in touch promptly to facilitate the delivery process. PRODUCT COST BLACK FABFIC FAN $4.00 each WHITE FABRIC FAN $3.00 each PAPER FAN $2.00 each SKU : AFAN1
+  Updated: 2026-03-19T12:25:49Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -757,12 +757,12 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_2_23d46716-565b-4a1c-8afd-5fc58644661c.png?v=1761019271
   Price: $0.00 AUD
 - [Cheese Platter – One World Collection](https://nsstyling.com/products/cheese-platter-one-world-collection): The Cheese Platter by One World is an opulent and sophisticated accessory that is perfect for catering displays and events. Despite the glass lid no longer being available, this cheese platter still makes a statement at any gathering, with its elegant and eye-catching design.With its beautiful surface, the Cheese Platter by One World provides room for an array of delicious cheeses. The platter's sleek and sophisticated design makes it a great choice for both formal and casual events, as it provides a beautiful and functional surface for showcasing your culinary creations.Whether used to serve cheese and crackers at a cocktail party or to display an array of delectable appetizers at a wedding reception, the Cheese Platter by One World is a great choice for catering events. Its opulent and sophisticated design makes it a popular choice for caterers and event planners who want to add a touch of elegance and sophistication to their displays.
-  Updated: 2026-02-04T11:33:47Z
+  Updated: 2026-03-17T03:38:46Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/3_48.png?v=1760717237
-  Price: $0.00 AUD
+  Price: $15.00 AUD
 - [Black & White Cushion - Paloma Living Collection](https://nsstyling.com/products/black-white-cushion-paloma-living-collection): Shop the Black & White Paloma Living Cushion — timeless decorative accent for stylish interiors, sofas, beds and living spaces with elegant, bold contrast.
   Updated: 2026-02-04T11:33:38Z
   Vendor: nspropstyling
@@ -1134,8 +1134,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-10-30T182852.672.png?v=1764072355
     Price: $400.00 AUD
-- [TEXTURED WHITE PLINTHS](https://nsstyling.com/products/textured-white-plinths): Elevate your event or display with our Textured White Plinths, designed for a modern and elegant aesthetic. Each plinth features a beautifully rough, textured finish that adds depth and sophistication to any setting. Perfect for showcasing floral arrangements, art pieces, or decor accents, these plinths offer both durability and style, making them ideal for weddings, exhibitions, and retail displays.
-  Updated: 2025-12-09T16:59:02Z
+- [TEXTURED WHITE PLINTHS](https://nsstyling.com/products/textured-white-plinths): Elevate your event or display with our Textured White Plinths, designed for a modern and elegant aesthetic. Each plinth features a beautifully rough, textured finish that adds depth and sophistication to any setting. Perfect for showcasing floral arrangements, art pieces, or decor accents, these plinths offer both durability and style, making them ideal for weddings, exhibitions, and retail displays. SKU: plin14
+  Updated: 2026-03-19T15:24:01Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1188,7 +1188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-30T214158.941.png?v=1761842541
   Price: $90.00 AUD
 - [CYLINDER ROUND FOSSIL CAKE TABLE](https://nsstyling.com/products/cylinder-round-fossil-cake-table): Cylinder Round Fossil Cake Table - natural stone pedestal perfect for wedding cake displays, event styling and interior decor with elegant textured charm
-  Updated: 2026-02-03T05:52:22Z
+  Updated: 2026-03-19T21:50:53Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1215,8 +1215,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-30T221108.836.png?v=1761844286
   Price: $40.00 AUD
-- [WOODEN SQUARE POP UP TABLE](https://nsstyling.com/products/wooden-square-pop-up-table): Bring warmth and natural charm to your event with the Wooden Square Pop Up Table, designed for both style and versatility. Featuring a clean square silhouette and a rich wood-grain finish, this table pair offers a perfect surface for displaying cakes, floral arrangements, or décor. Ideal for weddings, exhibitions, or home interiors, these tables blend rustic elegance with contemporary functionality.
-  Updated: 2025-12-09T16:59:04Z
+- [WOODEN SQUARE POP UP TABLE](https://nsstyling.com/products/wooden-square-pop-up-table): Bring warmth and natural charm to your event with the Wooden Square Pop Up Table, designed for both style and versatility. Featuring a clean square silhouette and a rich wood-grain finish, this table pair offers a perfect surface for displaying cakes, floral arrangements, or décor. Ideal for weddings, exhibitions, or home interiors, these tables blend rustic elegance with contemporary functionality. SKU: plin12
+  Updated: 2026-03-19T21:58:47Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1251,15 +1251,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T162948.957.png?v=1763638251
     Price: $60.00 AUD
-- [VENEZIA Bust Statue](https://nsstyling.com/products/venezia-bust-statue): The Venezia Bust Statue is a refined decorative piece that captures classical elegance and artistic charm. Perfect for home interiors, galleries, or event styling, it adds a timeless aesthetic to any setting. With its detailed craftsmanship and smooth finish, this bust embodies sophistication and culture, making it a striking focal point for consoles, shelves, or display pedestals.
-  Updated: 2025-12-09T16:59:05Z
+- [VENEZIA Bust Statue](https://nsstyling.com/products/venezia-bust-statue): The Venezia Bust Statue is a refined decorative piece that captures classical elegance and artistic charm. Perfect for home interiors, galleries, or event styling, it adds a timeless aesthetic to any setting. With its detailed craftsmanship and smooth finish, this bust embodies sophistication and culture, making it a striking focal point for consoles, shelves, or display pedestals. SKU : REN5
+  Updated: 2026-03-24T05:45:39Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-20T181015.868.png?v=1763644242
   Price: $15.00 AUD
-- [SQUARE ACRYLIC GHOST PLINTH](https://nsstyling.com/products/square-acrylic-ghost-plinth): Create a sleek and modern display with the Square Acrylic Ghost Plinth, a clear, contemporary piece designed to complement any event or interior. Its transparent structure gives the illusion of floating décor, allowing your cakes, floral arrangements, or art pieces to take center stage. Lightweight yet sturdy, these plinths are perfect for weddings, exhibitions, and luxury setups where elegance and minimalism meet.
-  Updated: 2025-12-09T16:59:05Z
+- [SQUARE ACRYLIC GHOST PLINTH](https://nsstyling.com/products/square-acrylic-ghost-plinth): Create a sleek and modern display with the Square Acrylic Ghost Plinth, a clear, contemporary piece designed to complement any event or interior. Its transparent structure gives the illusion of floating décor, allowing your cakes, floral arrangements, or art pieces to take center stage. Lightweight yet sturdy, these plinths are perfect for weddings, exhibitions, and luxury setups where elegance and minimalism meet. SKU: plin16
+  Updated: 2026-03-19T17:25:40Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1276,78 +1276,78 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T163412.185.png?v=1763638465
     Price: $80.00 AUD
-- [VEnus small sTATUE](https://nsstyling.com/products/venus-small-statue): The Venus Small Statue embodies timeless beauty and classical artistry, inspired by the elegance of ancient sculpture. Perfect for home décor, event styling, or gifting, it adds a touch of refinement and grace to any space. With its intricate detailing and smooth texture, this statue enhances tabletops, shelves, or displays with a subtle yet captivating charm.
-  Updated: 2025-12-09T16:59:05Z
+- [VEnus small sTATUE](https://nsstyling.com/products/venus-small-statue): The Venus Small Statue embodies timeless beauty and classical artistry, inspired by the elegance of ancient sculpture. Perfect for home décor, event styling, or gifting, it adds a touch of refinement and grace to any space. With its intricate detailing and smooth texture, this statue enhances tabletops, shelves, or displays with a subtle yet captivating charm. SKU : REN1
+  Updated: 2026-03-24T05:44:51Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_16_8b757a70-df07-4d88-bbf7-95fa2706f249.png?v=1764439259
   Price: $15.00 AUD
-- [WHITE WOODEN TRESTLE TABLE](https://nsstyling.com/products/white-wooden-trestle-table): Add timeless style and functionality to your event setup with the White Wooden Trestle Table, designed for both elegance and practicality. Featuring a spacious tabletop and sturdy trestle-style legs, this piece provides the perfect surface for dining, displays, or event styling. Its clean white finish complements any theme, from rustic to modern, making it an essential choice for weddings, parties, and professional gatherings.
-  Updated: 2025-12-09T16:59:06Z
+- [WHITE WOODEN TRESTLE TABLE](https://nsstyling.com/products/white-wooden-trestle-table): Add timeless style and functionality to your event setup with the White Wooden Trestle Table, designed for both elegance and practicality. Featuring a spacious tabletop and sturdy trestle-style legs, this piece provides the perfect surface for dining, displays, or event styling. Its clean white finish complements any theme, from rustic to modern, making it an essential choice for weddings, parties, and professional gatherings. SKU: plin6
+  Updated: 2026-03-19T18:21:15Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-24T182105.742.png?v=1763990476
   Price: $70.00 AUD
-- [Roman Candle Pillar for Events & Decor | NS Styling](https://nsstyling.com/products/roman-candle-pillar): The Roman Candle Pillar combines classical elegance with functional design, making it a stunning addition to any event or home décor. Its sculpted column-inspired form adds a touch of grandeur and sophistication, perfect for holding candles or serving as a decorative accent. Ideal for weddings, receptions, or interior styling, it enhances any space with timeless beauty and charm.
-  Updated: 2026-02-04T06:46:06Z
+- [Roman Candle Pillar for Events & Decor | NS Styling](https://nsstyling.com/products/roman-candle-pillar): The Roman Candle Pillar combines classical elegance with functional design, making it a stunning addition to any event or home décor. Its sculpted column-inspired form adds a touch of grandeur and sophistication, perfect for holding candles or serving as a decorative accent. Ideal for weddings, receptions, or interior styling, it enhances any space with timeless beauty and charm. SKU : REN6
+  Updated: 2026-03-24T05:43:58Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T181447.478.png?v=1763644505
   Price: $15.00 AUD
-- [Hamptons Side Table - Stylish Home Furniture | NS Styling](https://nsstyling.com/products/hamptons-side-table): Bring coastal elegance to your space with the Hamptons Side Table, a perfect blend of classic design and modern charm. Featuring a clean silhouette and a smooth white finish, this table embodies the relaxed sophistication of Hamptons-style interiors. Ideal for displaying décor, floral arrangements, or serving as a stylish accent piece, it complements both event settings and home interiors beautifully.
-  Updated: 2026-02-02T17:27:46Z
+- [Hamptons Side Table - Stylish Home Furniture | NS Styling](https://nsstyling.com/products/hamptons-side-table): Bring coastal elegance to your space with the Hamptons Side Table, a perfect blend of classic design and modern charm. Featuring a clean silhouette and a smooth white finish, this table embodies the relaxed sophistication of Hamptons-style interiors. Ideal for displaying décor, floral arrangements, or serving as a stylish accent piece, it complements both event settings and home interiors beautifully. SKU: plin7
+  Updated: 2026-03-19T20:58:54Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-20T152716.145.png?v=1763634467
   Price: $70.00 AUD
-- [BLACK SQUARE PLINTH](https://nsstyling.com/products/black-square-plinth): Make a bold and modern statement with the Black Square Plinth, designed to add depth and sophistication to any display. Its sleek square form and matte black finish create a striking contrast that enhances floral arrangements, sculptures, or décor pieces. Perfect for contemporary events, exhibitions, and interior styling, this plinth combines elegance, durability, and versatility in one refined design.
-  Updated: 2025-12-09T16:59:06Z
+- [BLACK SQUARE PLINTH](https://nsstyling.com/products/black-square-plinth): Make a bold and modern statement with the Black Square Plinth, designed to add depth and sophistication to any display. Its sleek square form and matte black finish create a striking contrast that enhances floral arrangements, sculptures, or décor pieces. Perfect for contemporary events, exhibitions, and interior styling, this plinth combines elegance, durability, and versatility in one refined design. SKU: plin8
+  Updated: 2026-03-19T20:06:20Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T153135.425.png?v=1763634707
   Price: $40.00 AUD
-- [Kahlia  VASE](https://nsstyling.com/products/kahlia-vase): The Kahlia Vase Pillar blends modern elegance with timeless charm, making it a perfect accent for floral arrangements or standalone décor. Its sleek silhouette and refined finish add sophistication to weddings, events, or interior spaces. Compact yet striking, this vase pillar enhances tabletops, shelves, or entryways with subtle luxury and artistic appeal.
-  Updated: 2025-12-09T16:59:07Z
+- [Kahlia  VASE](https://nsstyling.com/products/kahlia-vase): The Kahlia Vase Pillar blends modern elegance with timeless charm, making it a perfect accent for floral arrangements or standalone décor. Its sleek silhouette and refined finish add sophistication to weddings, events, or interior spaces. Compact yet striking, this vase pillar enhances tabletops, shelves, or entryways with subtle luxury and artistic appeal. SKU : REN3
+  Updated: 2026-03-24T05:42:40Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_14_bdf45a2d-118a-4c1c-ad79-da849ea327fc.png?v=1764439116
   Price: $15.00 AUD
-- [Classic Roman Bust Statue - Elegant Home Decor | NS Styling](https://nsstyling.com/products/roman-bust-statue-1): The Roman Bust Statue is a classic decorative piece that embodies elegance, artistry, and historical charm. Perfect for home décor, events, or gallery displays, it captures the timeless beauty of Roman sculpture with detailed craftsmanship and a refined finish. This statue serves as a sophisticated focal point, enhancing any setting with a sense of culture and grace.
-  Updated: 2026-02-02T17:17:50Z
+- [Classic Roman Bust Statue - Elegant Home Decor | NS Styling](https://nsstyling.com/products/roman-bust-statue-1): The Roman Bust Statue is a classic decorative piece that embodies elegance, artistry, and historical charm. Perfect for home décor, events, or gallery displays, it captures the timeless beauty of Roman sculpture with detailed craftsmanship and a refined finish. This statue serves as a sophisticated focal point, enhancing any setting with a sense of culture and grace. SKU : REN4
+  Updated: 2026-03-24T05:41:44Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_15_4f3de27f-3923-4f69-ba0a-b37e1b02f908.png?v=1764439188
   Price: $15.00 AUD
-- [Roman Cauldron Decorative Bowl for Events | NS Styling](https://nsstyling.com/products/roman-cauldron): The Roman Cauldron brings a touch of ancient charm and timeless elegance to any décor or event setting. Inspired by classical Roman design, it features a beautifully sculpted form ideal for floral arrangements, centerpieces, or standalone decoration. Its sturdy build and antique finish make it a perfect addition to weddings, receptions, or vintage-themed interiors.
-  Updated: 2026-02-04T06:47:21Z
+- [Roman Cauldron Decorative Bowl for Events | NS Styling](https://nsstyling.com/products/roman-cauldron): The Roman Cauldron brings a touch of ancient charm and timeless elegance to any décor or event setting. Inspired by classical Roman design, it features a beautifully sculpted form ideal for floral arrangements, centerpieces, or standalone decoration. Its sturdy build and antique finish make it a perfect addition to weddings, receptions, or vintage-themed interiors. SKU : REN7
+  Updated: 2026-03-19T20:35:05Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T181746.377.png?v=1763644683
   Price: $15.00 AUD
-- [SQUARE MIRROR  raiser](https://nsstyling.com/products/square-mirror-raiser): Enhance your display with the Square Mirror Raiser, a sleek and elegant platform designed to elevate your décor pieces with a touch of luxury. Featuring a reflective mirror finish and clean square shape, it beautifully highlights cakes, floral arrangements, or centerpieces by adding depth and light to any setup. Perfect for weddings, events, or home styling, this raiser combines sophistication and versatility in one compact design.
-  Updated: 2026-01-07T12:24:12Z
+- [SQUARE MIRROR  raiser](https://nsstyling.com/products/square-mirror-raiser): Enhance your display with the Square Mirror Raiser, a sleek and elegant platform designed to elevate your décor pieces with a touch of luxury. Featuring a reflective mirror finish and clean square shape, it beautifully highlights cakes, floral arrangements, or centerpieces by adding depth and light to any setup. Perfect for weddings, events, or home styling, this raiser combines sophistication and versatility in one compact design. SKU: plin18
+  Updated: 2026-03-19T21:46:24Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T164958.079.png?v=1763639413
   Price: $20.00 AUD
-- [Rectangle Mirror Raiser for Display Styling | NS Styling](https://nsstyling.com/products/rectangle-mirror-raiser): Add a refined touch to your event styling with the Rectangle Mirror Raiser, designed to elevate your décor with modern elegance. Its sleek mirrored surface reflects light beautifully, enhancing the visual appeal of cakes, floral arrangements, or centerpieces. With its clean rectangular shape and polished finish, this raiser brings a sense of luxury and sophistication to weddings, events, or home displays.
-  Updated: 2026-02-04T06:33:46Z
+- [Rectangle Mirror Raiser for Display Styling | NS Styling](https://nsstyling.com/products/rectangle-mirror-raiser): Add a refined touch to your event styling with the Rectangle Mirror Raiser, designed to elevate your décor with modern elegance. Its sleek mirrored surface reflects light beautifully, enhancing the visual appeal of cakes, floral arrangements, or centerpieces. With its clean rectangular shape and polished finish, this raiser brings a sense of luxury and sophistication to weddings, events, or home displays. SKU: plin19
+  Updated: 2026-03-19T21:32:46Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T165551.813.png?v=1763639944
   Price: $30.00 AUD
-- [SQUARE SILVER MIRRORED PLINTH](https://nsstyling.com/products/square-silver-mirrored-plinth): Bring a touch of luxury and glamour to your event with the Square Silver Mirrored Plinth, designed to create a stunning reflective display. Its sleek mirrored panels and clean square shape beautifully enhance floral arrangements, cakes, or décor pieces, adding depth and sophistication to any setting. Perfect for weddings, exhibitions, and elegant interiors, these plinths combine timeless design with modern elegance.
-  Updated: 2026-03-09T08:08:03Z
+- [SQUARE SILVER MIRRORED PLINTH](https://nsstyling.com/products/square-silver-mirrored-plinth): Bring a touch of luxury and glamour to your event with the Square Silver Mirrored Plinth, designed to create a stunning reflective display. Its sleek mirrored panels and clean square shape beautifully enhance floral arrangements, cakes, or décor pieces, adding depth and sophistication to any setting. Perfect for weddings, exhibitions, and elegant interiors, these plinths combine timeless design with modern elegance. SKU: plin20
+  Updated: 2026-03-19T20:39:40Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1365,14 +1365,14 @@
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-20T170058.765.png?v=1763640095
     Price: $75.00 AUD
 - [Small Fossil Square Stand - Display & Decor | NS Styling](https://nsstyling.com/products/small-fossil-square-stand): Small Fossil Square Stand with textured finish for modern décor, weddings, events & displays. Elegant square design perfect for cakes, florals, & decor accents.
-  Updated: 2026-02-03T06:54:07Z
+  Updated: 2026-03-21T11:24:44Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T225346.219.png?v=1763661277
   Price: $70.00 AUD
-- [Danni STATUE](https://nsstyling.com/products/danni-statue): The Danni Statue showcases timeless artistry and graceful form, making it a perfect statement piece for elegant interiors or event décor. With its finely detailed design and smooth finish, this statue adds a touch of sophistication and cultural charm to any setting. Ideal for display on pedestals, consoles, or stage setups, it enhances spaces with classic beauty and refined style.
-  Updated: 2025-12-09T16:59:08Z
+- [Danni STATUE](https://nsstyling.com/products/danni-statue): The Danni Statue showcases timeless artistry and graceful form, making it a perfect statement piece for elegant interiors or event décor. With its finely detailed design and smooth finish, this statue adds a touch of sophistication and cultural charm to any setting. Ideal for display on pedestals, consoles, or stage setups, it enhances spaces with classic beauty and refined style. SKU : REN20
+  Updated: 2026-03-24T05:40:43Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1386,21 +1386,21 @@
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T183508.007.png?v=1763645726
     Price: $60.00 AUD
 - [Large Square Fossil Cake Display Table | NS Styling](https://nsstyling.com/products/large-square-fossil-cake-table-1): Large Square Fossil Cake Table - natural stone pedestal perfect for weddings, events and décor displays, adding timeless textured charm to cakes and styling.
-  Updated: 2026-02-03T06:17:57Z
+  Updated: 2026-03-19T19:41:20Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T225530.307.png?v=1763661344
   Price: $170.00 AUD
-- [LARGE U-STONE FEATURE](https://nsstyling.com/products/large): The “LARGE” 80cm H x 40cm W decorative piece features a striking sculptural design inspired by classical architectural forms. Its bold curvature and textured surface make it an ideal statement element for both indoor and outdoor spaces. This piece adds a touch of timeless elegance to gardens, patios, or modern interiors. Perfect for enhancing your décor with artistic sophistication, it combines durability and beauty for long-lasting appeal
-  Updated: 2025-12-09T16:59:09Z
+- [LARGE U-STONE FEATURE](https://nsstyling.com/products/large): The “LARGE” 80cm H x 40cm W decorative piece features a striking sculptural design inspired by classical architectural forms. Its bold curvature and textured surface make it an ideal statement element for both indoor and outdoor spaces. This piece adds a touch of timeless elegance to gardens, patios, or modern interiors. Perfect for enhancing your décor with artistic sophistication, it combines durability and beauty for long-lasting appeal SKU: FOS4
+  Updated: 2026-03-19T21:32:34Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-20T230208.429.png?v=1763661745
   Price: $250.00 AUD
-- [small / medium U-STONE FEATURE](https://nsstyling.com/products/u-stone-feature-small-medium): The “U-STONE FEATURE | small / medium” showcases a beautifully curved, sculptural design that brings a modern yet natural aesthetic to any setting. With its elegant U-shaped form and textured stone finish, it serves as a striking accent for gardens, patios, or interior décor. Each piece is carefully crafted to balance artistic style and durability, making it an ideal choice for both residential and commercial spaces seeking timeless charm and contemporary appeal.
-  Updated: 2025-12-09T16:59:09Z
+- [small / medium U-STONE FEATURE](https://nsstyling.com/products/u-stone-feature-small-medium): The “U-STONE FEATURE | small / medium” showcases a beautifully curved, sculptural design that brings a modern yet natural aesthetic to any setting. With its elegant U-shaped form and textured stone finish, it serves as a striking accent for gardens, patios, or interior décor. Each piece is carefully crafted to balance artistic style and durability, making it an ideal choice for both residential and commercial spaces seeking timeless charm and contemporary appeal. SKU: FOS5
+  Updated: 2026-03-19T22:07:26Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1413,8 +1413,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-20T230511.152.png?v=1763661941
     Price: $150.00 AUD
-- [ITALIAN MARBLE STAND](https://nsstyling.com/products/italian-marble-stand-1): The Italian Marble Stand is a luxurious display piece that embodies timeless sophistication and fine craftsmanship. Perfect for showcasing sculptures, floral arrangements, or elegant décor, its sleek cylindrical design and polished marble surface elevate any interior or event setup. Combining durability with aesthetic appeal, this stand adds a refined touch of Italian artistry to both modern and classic spaces.
-  Updated: 2026-01-07T12:52:55Z
+- [ITALIAN MARBLE STAND](https://nsstyling.com/products/italian-marble-stand-1): The Italian Marble Stand is a luxurious display piece that embodies timeless sophistication and fine craftsmanship. Perfect for showcasing sculptures, floral arrangements, or elegant décor, its sleek cylindrical design and polished marble surface elevate any interior or event setup. Combining durability with aesthetic appeal, this stand adds a refined touch of Italian artistry to both modern and classic spaces. SKU: marb20
+  Updated: 2026-03-19T16:32:46Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1427,15 +1427,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T195620.952.png?v=1763650594
     Price: $120.00 AUD
-- [Marble Stand](https://nsstyling.com/products/marble-stand-1): The Marble Stand is a beautifully crafted décor piece that combines timeless elegance with modern sophistication. Its smooth, polished surface and sleek cylindrical shape make it perfect for displaying vases, sculptures, or floral arrangements. Ideal for events, galleries, or luxurious interiors, this stand enhances any space with a refined and minimalist aesthetic that never goes out of style.
-  Updated: 2026-01-07T12:53:27Z
+- [Marble Stand](https://nsstyling.com/products/marble-stand-1): The Marble Stand is a beautifully crafted décor piece that combines timeless elegance with modern sophistication. Its smooth, polished surface and sleek cylindrical shape make it perfect for displaying vases, sculptures, or floral arrangements. Ideal for events, galleries, or luxurious interiors, this stand enhances any space with a refined and minimalist aesthetic that never goes out of style. SKU : marb21
+  Updated: 2026-03-19T19:42:03Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T201018.637.png?v=1763651430
   Price: $60.00 AUD
-- [FOSSIL U-Shape DISPLAY SET](https://nsstyling.com/products/fossil-u-shape-display-set): The “FOSSIL U-Shape DISPLAY SET” combines natural texture with sculptural elegance, featuring both small and large fossil-inspired U-shaped pieces. Designed to create a stunning visual balance, this set adds depth and organic sophistication to any interior or display space. Accented with a soft cheeseloth finish, each piece captures the raw beauty of natural stone while maintaining a refined, contemporary aesthetic—perfect for modern homes, galleries, or curated retail displays.
-  Updated: 2025-12-09T16:59:09Z
+- [FOSSIL U-Shape DISPLAY SET](https://nsstyling.com/products/fossil-u-shape-display-set): The “FOSSIL U-Shape DISPLAY SET” combines natural texture with sculptural elegance, featuring both small and large fossil-inspired U-shaped pieces. Designed to create a stunning visual balance, this set adds depth and organic sophistication to any interior or display space. Accented with a soft cheeseloth finish, each piece captures the raw beauty of natural stone while maintaining a refined, contemporary aesthetic—perfect for modern homes, galleries, or curated retail displays. SKU: FOS6
+  Updated: 2026-03-19T21:42:30Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1455,8 +1455,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T203537.663.png?v=1763652952
   Price: $80.00 AUD
-- [FOSSIL DISPLAY SET](https://nsstyling.com/products/fossil-display-set): The “FOSSIL DISPLAY SET” is a striking collection that blends natural beauty with sculptural sophistication. Featuring Small and Large Fossil U-Shape Features, a Fossil Cylinder Plinth, and a soft Cheeseloth finish, this set creates an elegant harmony of texture and form. Perfect for enhancing interior displays, retail spaces, or curated home décor, each piece showcases fossil-inspired detailing and timeless craftsmanship that elevates any environment with a refined, organic aesthetic.
-  Updated: 2025-12-09T16:59:10Z
+- [FOSSIL DISPLAY SET](https://nsstyling.com/products/fossil-display-set): The “FOSSIL DISPLAY SET” is a striking collection that blends natural beauty with sculptural sophistication. Featuring Small and Large Fossil U-Shape Features, a Fossil Cylinder Plinth, and a soft Cheeseloth finish, this set creates an elegant harmony of texture and form. Perfect for enhancing interior displays, retail spaces, or curated home décor, each piece showcases fossil-inspired detailing and timeless craftsmanship that elevates any environment with a refined, organic aesthetic. SKU: FOS7
+  Updated: 2026-03-19T15:26:18Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1476,8 +1476,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T233014.371.png?v=1763663580
   Price: $140.00 AUD
-- [XL Renaissance Column Plinth for Events Hire | NS Styling](https://nsstyling.com/products/xl-column): Enhance your decor with the striking XL Column, a versatile piece designed to add elegance and architectural charm to any space. Its sleek design and compact size make it perfect for tabletops, shelves, or as a decorative accent in living rooms, offices, or display areas. Lightweight yet durable, this column combines style with functionality, allowing you to create a sophisticated ambiance effortlessly while showcasing your favorite ornaments or decorative items.
-  Updated: 2026-02-04T06:56:40Z
+- [XL Renaissance Column Plinth for Events Hire | NS Styling](https://nsstyling.com/products/xl-column): Enhance your decor with the striking XL Column, a versatile piece designed to add elegance and architectural charm to any space. Its sleek design and compact size make it perfect for tabletops, shelves, or as a decorative accent in living rooms, offices, or display areas. Lightweight yet durable, this column combines style with functionality, allowing you to create a sophisticated ambiance effortlessly while showcasing your favorite ornaments or decorative items. SKU : REN20
+  Updated: 2026-03-19T20:57:06Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1490,15 +1490,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T223206.978.png?v=1763659958
   Price: $60.00 AUD
-- [Medium Column](https://nsstyling.com/products/medium-column): Add a subtle touch of classical elegance to your space with the Medium Column. Standing at 80 cm, this column is perfect for enhancing living rooms, hallways, or event settings with its refined Roman-inspired design. Ideal for displaying decorative items, flowers, or as a standalone accent piece, it combines aesthetic charm with practical durability. Its sleek proportions make it versatile, fitting seamlessly into both modern and traditional decor styles.
-  Updated: 2025-12-09T16:59:12Z
+- [Medium Column](https://nsstyling.com/products/medium-column): Add a subtle touch of classical elegance to your space with the Medium Column. Standing at 80 cm, this column is perfect for enhancing living rooms, hallways, or event settings with its refined Roman-inspired design. Ideal for displaying decorative items, flowers, or as a standalone accent piece, it combines aesthetic charm with practical durability. Its sleek proportions make it versatile, fitting seamlessly into both modern and traditional decor styles. SKU : REN22
+  Updated: 2026-03-24T05:39:18Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T223743.589.png?v=1763660329
   Price: $50.00 AUD
-- [SMALL COLUMN](https://nsstyling.com/products/small-column): Enhance your decor with the charming Small Column, designed to bring a touch of classical elegance to any space. Standing at 50 cm, this column is perfect for tabletops, shelves, or as an accent piece in living rooms, offices, or event settings. Its Roman-inspired design adds sophistication and style, while the durable construction ensures lasting quality. Ideal for displaying ornaments, flowers, or creating a layered decorative arrangement.
-  Updated: 2025-12-09T16:59:12Z
+- [SMALL COLUMN](https://nsstyling.com/products/small-column): Enhance your decor with the charming Small Column, designed to bring a touch of classical elegance to any space. Standing at 50 cm, this column is perfect for tabletops, shelves, or as an accent piece in living rooms, offices, or event settings. Its Roman-inspired design adds sophistication and style, while the durable construction ensures lasting quality. Ideal for displaying ornaments, flowers, or creating a layered decorative arrangement. SKU : REN23
+  Updated: 2026-03-24T05:38:00Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1511,29 +1511,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T203953.298.png?v=1763653215
   Price: $70.00 AUD
-- [Roman Fossil Column Accent for Styling | NS Styling](https://nsstyling.com/products/roman-fossil-column-2): The ROMAN FOSSIL COLUMN exudes timeless charm and classical beauty, making it a perfect feature for elegant event styling or interior displays. Its tall, cylindrical silhouette and fossil-textured finish evoke the grandeur of Roman architecture while maintaining a soft, organic feel. Ideal for showcasing floral arrangements, candles, or statement décor, this column adds sophistication and natural warmth to christenings, weddings, or refined home settings.
-  Updated: 2026-02-04T06:51:07Z
+- [Roman Fossil Column Accent for Styling | NS Styling](https://nsstyling.com/products/roman-fossil-column-2): The ROMAN FOSSIL COLUMN exudes timeless charm and classical beauty, making it a perfect feature for elegant event styling or interior displays. Its tall, cylindrical silhouette and fossil-textured finish evoke the grandeur of Roman architecture while maintaining a soft, organic feel. Ideal for showcasing floral arrangements, candles, or statement décor, this column adds sophistication and natural warmth to christenings, weddings, or refined home settings. SKU: REN19
+  Updated: 2026-03-21T11:35:16Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T220527.623_28a4fe44-8474-46d6-b14c-dbf3043d96fd.png?v=1763658783
   Price: $140.00 AUD
-- [Roman Bust Statue - Classic Decor Accent | NS Styling](https://nsstyling.com/products/christening-inspo-roman-bust-statue): Add a touch of classical sophistication to your decor with the Roman Bust Statue, perfect for christening celebrations or elegant home displays. Standing at 36 cm, this finely detailed bust captures the timeless beauty of Roman artistry, making it a striking centerpiece for shelves, tables, or mantels. Its refined design adds charm and elegance to any space, creating a serene and inspiring atmosphere for special occasions or everyday decor.
-  Updated: 2026-02-02T17:16:39Z
+- [Roman Bust Statue - Classic Decor Accent | NS Styling](https://nsstyling.com/products/christening-inspo-roman-bust-statue): Add a touch of classical sophistication to your decor with the Roman Bust Statue, perfect for christening celebrations or elegant home displays. Standing at 36 cm, this finely detailed bust captures the timeless beauty of Roman artistry, making it a striking centerpiece for shelves, tables, or mantels. Its refined design adds charm and elegance to any space, creating a serene and inspiring atmosphere for special occasions or everyday decor. SKU : REN2
+  Updated: 2026-03-19T19:02:15Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_8_cd363481-a173-4841-a00b-18525d5fe27d.png?v=1764438567
   Price: $15.00 AUD
 - [JACKSON - lARGE URN](https://nsstyling.com/products/christening-inspo-jackson-large-urn): The JACKSON – LARGE URN is a beautifully crafted statement piece that brings classic elegance to any setting. Featuring a timeless urn shape with a broad 10cm lip and a refined fossil-inspired texture, it’s perfect for holding floral arrangements or standing alone as a sculptural accent. Ideal for christenings, weddings, or home styling, this urn combines graceful proportions with natural charm, creating an effortlessly sophisticated focal point.
-  Updated: 2025-12-09T16:59:13Z
+  Updated: 2026-03-21T10:37:37Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T204244.152.png?v=1763653385
   Price: $60.00 AUD
-- [VENUS STATUE](https://nsstyling.com/products/christening-inspo-venus-statue): Make a grand statement with the Venus Statue, an elegant centerpiece perfect for christening celebrations, events, or sophisticated home decor. Standing at 1.5 meters, this majestic statue captures the timeless beauty of classical sculpture, adding a touch of refinement and artistry to any space. Ideal for display in foyers, gardens, or event settings, it combines impressive scale with exquisite detailing to create a truly captivating and memorable focal point.
-  Updated: 2025-12-09T16:59:13Z
+- [VENUS STATUE](https://nsstyling.com/products/christening-inspo-venus-statue): Make a grand statement with the Venus Statue, an elegant centerpiece perfect for christening celebrations, events, or sophisticated home decor. Standing at 1.5 meters, this majestic statue captures the timeless beauty of classical sculpture, adding a touch of refinement and artistry to any space. Ideal for display in foyers, gardens, or event settings, it combines impressive scale with exquisite detailing to create a truly captivating and memorable focal point. SKU : REN9
+  Updated: 2026-03-24T05:35:15Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1557,8 +1557,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T204942.477.png?v=1763653862
   Price: $40.00 AUD
-- [RESTORED COLIUMN](https://nsstyling.com/products/christening-inspo-restored-coliumn): Make a grand statement with the Restored Column, a striking addition to christening events, special occasions, or elegant interior decor. Standing at 2.1 meters, this impressive column features classical Roman-inspired design with detailed craftsmanship, adding height, sophistication, and timeless beauty to any space. Ideal for flanking entryways, altar setups, or as decorative accents, it creates a majestic ambiance while combining durability with aesthetic elegance.
-  Updated: 2025-12-09T16:59:13Z
+- [RESTORED COLIUMN](https://nsstyling.com/products/christening-inspo-restored-coliumn): Make a grand statement with the Restored Column, a striking addition to christening events, special occasions, or elegant interior decor. Standing at 2.1 meters, this impressive column features classical Roman-inspired design with detailed craftsmanship, adding height, sophistication, and timeless beauty to any space. Ideal for flanking entryways, altar setups, or as decorative accents, it creates a majestic ambiance while combining durability with aesthetic elegance. SKU : REN18
+  Updated: 2026-03-19T02:24:01Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1585,8 +1585,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T234228.339.png?v=1763664163
     Price: $40.00 AUD
-- [ORION - MEDIUM URN](https://nsstyling.com/products/orion-medium-urn): Add a touch of classical sophistication to your decor with the Muppety Medium Urn, a stunning piece designed to elevate any interior or event setting. Standing at 60 cm, this urn’s elegant proportions and refined detailing make it perfect for showcasing floral arrangements or serving as a standalone statement piece. Ideal for christenings, weddings, or home styling, it blends durability with timeless beauty, bringing a sense of grace and balance to any space.
-  Updated: 2026-01-07T03:00:50Z
+- [ORION - MEDIUM URN](https://nsstyling.com/products/orion-medium-urn): Add a touch of classical sophistication to your decor with the Muppety Medium Urn, a stunning piece designed to elevate any interior or event setting. Standing at 60 cm, this urn’s elegant proportions and refined detailing make it perfect for showcasing floral arrangements or serving as a standalone statement piece. Ideal for christenings, weddings, or home styling, it blends durability with timeless beauty, bringing a sense of grace and balance to any space. SKU : URN3
+  Updated: 2026-03-21T10:43:15Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1606,8 +1606,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T234548.338.png?v=1763664395
   Price: $80.00 AUD
-- [KAMDAR - LARGE URN](https://nsstyling.com/products/floor-urns-kamdar-large-urn): Add a touch of timeless grandeur to your decor with the Kamdar Large Urn, a beautifully crafted piece that embodies elegance and sophistication. Standing at 60 cm, this urn is perfect for displaying floral arrangements or as a striking standalone feature in any room or event space. Ideal for christenings, weddings, or classic home styling, its refined design and durable build bring lasting beauty and a luxurious statement to any setting.
-  Updated: 2025-12-09T16:59:14Z
+- [KAMDAR - LARGE URN](https://nsstyling.com/products/floor-urns-kamdar-large-urn): Add a touch of timeless grandeur to your decor with the Kamdar Large Urn, a beautifully crafted piece that embodies elegance and sophistication. Standing at 60 cm, this urn is perfect for displaying floral arrangements or as a striking standalone feature in any room or event space. Ideal for christenings, weddings, or classic home styling, its refined design and durable build bring lasting beauty and a luxurious statement to any setting. SKU : URN6
+  Updated: 2026-03-21T10:42:13Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1627,8 +1627,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T235455.223.png?v=1763664917
     Price: $60.00 AUD
-- [George - MEDIUM URN](https://nsstyling.com/products/floor-urns-jackson-medium-urn): Enhance your decor with the Jackson Medium Urn, a refined piece that blends timeless elegance with modern versatility. Standing at 60 cm with a 10 cm wide lip, this urn is ideal for displaying floral arrangements or as a sophisticated standalone accent. Perfect for christenings, weddings, or elegant interiors, it adds balance and charm to any setting with its classic design, fine detailing, and durable craftsmanship built to last.
-  Updated: 2025-12-09T16:59:15Z
+- [George - MEDIUM URN](https://nsstyling.com/products/floor-urns-jackson-medium-urn): Enhance your decor with the Jackson Medium Urn, a refined piece that blends timeless elegance with modern versatility. Standing at 60 cm with a 10 cm wide lip, this urn is ideal for displaying floral arrangements or as a sophisticated standalone accent. Perfect for christenings, weddings, or elegant interiors, it adds balance and charm to any setting with its classic design, fine detailing, and durable craftsmanship built to last. SKU : URN8
+  Updated: 2026-03-21T10:40:30Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1641,8 +1641,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-20T235721.734.png?v=1763665052
     Price: $60.00 AUD
-- [JACKSON URN](https://nsstyling.com/products/jackson-urn): Make a sophisticated statement with the Jackson Large Urn, a beautifully designed piece that embodies classic elegance and timeless appeal. Standing at 60 cm with a 10 cm wide lip, this urn is perfect for displaying lush floral arrangements or serving as a striking decorative centerpiece. Ideal for christenings, weddings, or stylish interiors, its graceful silhouette and durable construction add a refined and luxurious touch to any space.
-  Updated: 2026-01-09T15:30:21Z
+- [JACKSON URN](https://nsstyling.com/products/jackson-urn): Make a sophisticated statement with the Jackson Large Urn, a beautifully designed piece that embodies classic elegance and timeless appeal. Standing at 60 cm with a 10 cm wide lip, this urn is perfect for displaying lush floral arrangements or serving as a striking decorative centerpiece. Ideal for christenings, weddings, or stylish interiors, its graceful silhouette and durable construction add a refined and luxurious touch to any space. SKU : URN9
+  Updated: 2026-03-21T10:39:19Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1666,43 +1666,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T000111.296.png?v=1763665304
   Price: $80.00 AUD
-- [SMALL SEAGRASS BASKET](https://nsstyling.com/products/woven-baskets-small-med-small-seagrass-basket): Add natural charm and functionality to your space with these Small Seagrass Baskets. Standing at 26 cm, they are perfect for organizing household items, storing toys, or adding a rustic decorative touch to any room. Crafted with care from durable seagrass, these baskets combine strength and aesthetic appeal, making them ideal for both practical use and stylish home decor. Their versatile design fits seamlessly into living rooms, bedrooms, or kitchens.
-  Updated: 2025-12-09T16:59:15Z
+- [SMALL SEAGRASS BASKET](https://nsstyling.com/products/woven-baskets-small-med-small-seagrass-basket): Add natural charm and functionality to your space with these Small Seagrass Baskets. Standing at 26 cm, they are perfect for organizing household items, storing toys, or adding a rustic decorative touch to any room. Crafted with care from durable seagrass, these baskets combine strength and aesthetic appeal, making them ideal for both practical use and stylish home decor. Their versatile design fits seamlessly into living rooms, bedrooms, or kitchens. SKU: RAT1
+  Updated: 2026-03-19T16:49:53Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T000538.646.png?v=1763665546
   Price: $5.00 AUD
-- [Kralig Basket - Stylish Home & Storage | NS Styling](https://nsstyling.com/products/woven-baskets-small-med-kralig-basket): Add a touch of natural elegance to your home with the Kralig Basket, perfect for organizing small essentials or adding decorative charm. Measuring 17 cm in height, 16 cm in diameter, and 9 cm in depth, this versatile basket is ideal for storing keys, toiletries, or small household items. Handcrafted with durable woven fibers, it combines practicality with rustic appeal, making it a stylish and functional addition to bedrooms, bathrooms, or living spaces.
-  Updated: 2026-02-02T11:03:25Z
+- [Kralig Basket - Stylish Home & Storage | NS Styling](https://nsstyling.com/products/woven-baskets-small-med-kralig-basket): Add a touch of natural elegance to your home with the Kralig Basket, perfect for organizing small essentials or adding decorative charm. Measuring 17 cm in height, 16 cm in diameter, and 9 cm in depth, this versatile basket is ideal for storing keys, toiletries, or small household items. Handcrafted with durable woven fibers, it combines practicality with rustic appeal, making it a stylish and functional addition to bedrooms, bathrooms, or living spaces. SKU: RAT2
+  Updated: 2026-03-19T07:21:20Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T000707.297.png?v=1763665645
   Price: $5.00 AUD
-- [WOVEN PLANTER](https://nsstyling.com/products/woven-baskets-small-med-woven-planter): Enhance your indoor garden or home decor with the Woven Planter, a stylish and functional basket perfect for displaying plants or organizing small items. Measuring 22 cm in height, 21.5 cm top diameter, and 23.8 cm middle diameter, this versatile basket provides ample space for pots while adding a natural, rustic charm to any setting. Crafted from durable woven fibers, it combines strength with aesthetic appeal, making it a perfect addition to living rooms, patios, or balconies.
-  Updated: 2026-01-09T11:53:26Z
+- [WOVEN PLANTER](https://nsstyling.com/products/woven-baskets-small-med-woven-planter): Enhance your indoor garden or home decor with the Woven Planter, a stylish and functional basket perfect for displaying plants or organizing small items. Measuring 22 cm in height, 21.5 cm top diameter, and 23.8 cm middle diameter, this versatile basket provides ample space for pots while adding a natural, rustic charm to any setting. Crafted from durable woven fibers, it combines strength with aesthetic appeal, making it a perfect addition to living rooms, patios, or balconies. SKU: RAT3
+  Updated: 2026-03-19T19:17:11Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T001514.877.png?v=1763666125
   Price: $3.50 AUD
-- [SABRE BASKET - LARGE](https://nsstyling.com/products/woven-baskets-large-sabre-basket-large): Bring elegance and practicality to your space with the Sabre Large Basket, a beautifully woven piece designed for both storage and decor. Measuring 38 cm in height and 27 cm in diameter, it’s perfect for holding blankets, toys, or household essentials while adding a natural, rustic touch to any room. Crafted from durable woven fibers, this versatile basket combines functionality with aesthetic appeal, making it ideal for living rooms, bedrooms, or cozy corners in your home.
-  Updated: 2025-12-09T16:59:16Z
+- [SABRE BASKET - LARGE](https://nsstyling.com/products/woven-baskets-large-sabre-basket-large): Bring elegance and practicality to your space with the Sabre Large Basket, a beautifully woven piece designed for both storage and decor. Measuring 38 cm in height and 27 cm in diameter, it’s perfect for holding blankets, toys, or household essentials while adding a natural, rustic touch to any room. Crafted from durable woven fibers, this versatile basket combines functionality with aesthetic appeal, making it ideal for living rooms, bedrooms, or cozy corners in your home. SKU: RAT7
+  Updated: 2026-03-19T22:19:43Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T002221.426.png?v=1763666555
   Price: $10.00 AUD
-- [CEVIE Basket - LARGE](https://nsstyling.com/products/woven-baskets-large-cevie-basket-large): Add style and organization to your home with the Cevie Large Basket, a beautifully crafted woven basket perfect for storing household essentials or enhancing decor. Measuring 36 cm in height and 45 cm in diameter, it offers ample space for blankets, toys, or everyday items. Made from durable natural fibers, this basket combines functionality with rustic charm, making it a versatile and stylish addition to living rooms, bedrooms, or cozy corners throughout your home.
-  Updated: 2025-12-09T16:59:17Z
+- [CEVIE Basket - LARGE](https://nsstyling.com/products/woven-baskets-large-cevie-basket-large): Add style and organization to your home with the Cevie Large Basket, a beautifully crafted woven basket perfect for storing household essentials or enhancing decor. Measuring 36 cm in height and 45 cm in diameter, it offers ample space for blankets, toys, or everyday items. Made from durable natural fibers, this basket combines functionality with rustic charm, making it a versatile and stylish addition to living rooms, bedrooms, or cozy corners throughout your home. SKU: RAT8
+  Updated: 2026-03-19T18:14:42Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T002344.374.png?v=1763666684
   Price: $10.00 AUD
-- [JULIETTE PROVINCIAL URN](https://nsstyling.com/products/juliette-provincial-urn-1): Enhance your decor with the elegant Juliette Provincial Urn, a beautifully crafted piece that adds a touch of classical charm to any space. Standing at 47 cm with a 30 cm diameter, this urn is perfect for displaying floral arrangements or serving as a standalone decorative accent. Ideal for living rooms, entryways, or special events, its refined design and durable construction bring sophistication and timeless beauty to your home or venue.
-  Updated: 2026-01-09T12:35:25Z
+- [JULIETTE PROVINCIAL URN](https://nsstyling.com/products/juliette-provincial-urn-1): Enhance your decor with the elegant Juliette Provincial Urn, a beautifully crafted piece that adds a touch of classical charm to any space. Standing at 47 cm with a 30 cm diameter, this urn is perfect for displaying floral arrangements or serving as a standalone decorative accent. Ideal for living rooms, entryways, or special events, its refined design and durable construction bring sophistication and timeless beauty to your home or venue. SKU: prov1
+  Updated: 2026-03-24T05:29:00Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1736,29 +1736,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T165719.727.png?v=1763726252
     Price: $70.00 AUD
-- [Mariette Plinth | Classic Provincial Display Stand](https://nsstyling.com/products/mariette-plinth-1): Showcase your decor with the Mariette Plinth, a tall and elegant piece designed to highlight sculptures, plants, or decorative accents. Standing at 98 cm with a 30 cm diameter, this plinth adds height and sophistication to any interior or event setting. Its classic design and sturdy construction make it ideal for living rooms, galleries, or special occasions, combining functionality with timeless elegance to create a striking focal point in your space.
-  Updated: 2026-02-04T06:15:39Z
+- [Mariette Plinth | Classic Provincial Display Stand](https://nsstyling.com/products/mariette-plinth-1): Showcase your decor with the Mariette Plinth, a tall and elegant piece designed to highlight sculptures, plants, or decorative accents. Standing at 98 cm with a 30 cm diameter, this plinth adds height and sophistication to any interior or event setting. Its classic design and sturdy construction make it ideal for living rooms, galleries, or special occasions, combining functionality with timeless elegance to create a striking focal point in your space. SKU: prov4
+  Updated: 2026-03-19T07:58:58Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-31T190421.554.png?v=1761919496
   Price: $80.00 AUD
-- [Sonasta Tall Plinth | Elegant Provincial Display Stand](https://nsstyling.com/products/sonasta-plinth-tall-1): Elevate your decor with the Sonasta Tall Plinth, a sleek and elegant piece designed to display sculptures, plants, or decorative accents with style. Standing at 1 meter in height and 20 cm in diameter, this plinth adds vertical interest and sophistication to any interior or event setting. Its durable construction and timeless design make it perfect for living rooms, galleries, or special occasions, providing a refined and functional platform to showcase your cherished decor pieces.
-  Updated: 2026-02-04T06:19:57Z
+- [Sonasta Tall Plinth | Elegant Provincial Display Stand](https://nsstyling.com/products/sonasta-plinth-tall-1): Elevate your decor with the Sonasta Tall Plinth, a sleek and elegant piece designed to display sculptures, plants, or decorative accents with style. Standing at 1 meter in height and 20 cm in diameter, this plinth adds vertical interest and sophistication to any interior or event setting. Its durable construction and timeless design make it perfect for living rooms, galleries, or special occasions, providing a refined and functional platform to showcase your cherished decor pieces. SKU: prov5
+  Updated: 2026-03-19T22:40:23Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-31T194532.589.png?v=1761921962
   Price: $80.00 AUD
-- [SONIA PLINTH - MED](https://nsstyling.com/products/sonia-plinth-med): Add elegance and functionality to your space with the Sonasta Medium Plinth, a stylish platform designed to display sculptures, plants, or decorative accents. Standing at 50 cm in height with a 20 cm diameter, this plinth provides the perfect balance of proportion and sophistication. Its durable construction and timeless design make it ideal for living rooms, galleries, or event settings, offering a refined and versatile base to showcase your decor with grace.
-  Updated: 2026-02-04T06:50:24Z
+- [SONIA PLINTH - MED](https://nsstyling.com/products/sonia-plinth-med): Add elegance and functionality to your space with the Sonasta Medium Plinth, a stylish platform designed to display sculptures, plants, or decorative accents. Standing at 50 cm in height with a 20 cm diameter, this plinth provides the perfect balance of proportion and sophistication. Its durable construction and timeless design make it ideal for living rooms, galleries, or event settings, offering a refined and versatile base to showcase your decor with grace. SKU: prov6
+  Updated: 2026-03-19T22:46:17Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-31T195117.619.png?v=1761922307
   Price: $50.00 AUD
-- [Sienna Small Plinth for Display Decor | NS Styling](https://nsstyling.com/products/sienna-plinth-small): Enhance your home or event decor with the Sonasta Small Plinth, a compact yet elegant platform designed to showcase sculptures, plants, or decorative accents. Measuring 20 cm in height and 20 cm in diameter, this plinth is perfect for tabletops, shelves, or small display areas. Its durable construction and timeless design make it a versatile addition to living rooms, galleries, or special occasions, providing a stylish and functional base for your decor pieces.
-  Updated: 2026-02-04T07:52:26Z
+- [Sienna Small Plinth for Display Decor | NS Styling](https://nsstyling.com/products/sienna-plinth-small): Enhance your home or event decor with the Sonasta Small Plinth, a compact yet elegant platform designed to showcase sculptures, plants, or decorative accents. Measuring 20 cm in height and 20 cm in diameter, this plinth is perfect for tabletops, shelves, or small display areas. Its durable construction and timeless design make it a versatile addition to living rooms, galleries, or special occasions, providing a stylish and functional base for your decor pieces. SKU: prov7
+  Updated: 2026-03-19T21:52:34Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1771,22 +1771,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitled_design_-_2025-11-22T181002.622_b830be79-303e-41e0-a75c-ff6d7975fbef.png?v=1764010663
   Price: $40.00 AUD
-- [OAKLAB VASE](https://nsstyling.com/products/oaklab-vase): The “OAKLAB VASE” showcases minimalist elegance with its clean form and natural charm. Designed to highlight floral arrangements or stand beautifully on its own, this versatile piece suits modern, rustic, or organic-inspired spaces. Its balanced proportions and smooth finish make it a stylish addition to tables, shelves, or event displays. Crafted with precision and a timeless aesthetic, the OAKLAB Vase brings warmth and sophistication to any interior setting.
-  Updated: 2026-01-09T15:34:01Z
+- [OAKLAB VASE](https://nsstyling.com/products/oaklab-vase): The “OAKLAB VASE” showcases minimalist elegance with its clean form and natural charm. Designed to highlight floral arrangements or stand beautifully on its own, this versatile piece suits modern, rustic, or organic-inspired spaces. Its balanced proportions and smooth finish make it a stylish addition to tables, shelves, or event displays. Crafted with precision and a timeless aesthetic, the OAKLAB Vase brings warmth and sophistication to any interior setting. SKU: WV1
+  Updated: 2026-03-21T11:21:47Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-11-21T184957.753.png?v=1763733050
   Price: $35.00 AUD
-- [LUNA VESSEL](https://nsstyling.com/products/luna-vessel): The “Tall URN | VASE” is a sleek and elegant decorative piece that combines modern design with timeless appeal. Its tall, narrow silhouette is perfect for showcasing single stems or minimalist floral arrangements, adding height and sophistication to any display. Ideal for event styling, home décor, or retail spaces, this vase brings a refined touch of simplicity and balance, effortlessly complementing a variety of themes and interiors.
-  Updated: 2026-01-20T23:17:16Z
+- [LUNA VESSEL](https://nsstyling.com/products/luna-vessel): The “Tall URN | VASE” is a sleek and elegant decorative piece that combines modern design with timeless appeal. Its tall, narrow silhouette is perfect for showcasing single stems or minimalist floral arrangements, adding height and sophistication to any display. Ideal for event styling, home décor, or retail spaces, this vase brings a refined touch of simplicity and balance, effortlessly complementing a variety of themes and interiors. SKU: WV4
+  Updated: 2026-03-21T11:20:11Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/1_511ccc88-45e6-4f48-bc6d-e6d13961c2e8.png?v=1761930981
   Price: $14.00 AUD
-- [Small Boho Urn Vase for Wedding Decor | NS Styling](https://nsstyling.com/products/small-boho-urn-vase): The “Small Boho URN | VASE” captures the essence of relaxed, earthy elegance with its compact form and textured bohemian design. Perfect for small floral arrangements, dried blooms, or as a standalone accent, it adds warmth and charm to any table or shelf. Ideal for event styling or everyday décor, this versatile vase pairs beautifully with natural tones and organic elements, creating a harmonious and inviting aesthetic.
-  Updated: 2026-02-04T07:38:12Z
+- [Small Boho Urn Vase for Wedding Decor | NS Styling](https://nsstyling.com/products/small-boho-urn-vase): The “Small Boho URN | VASE” captures the essence of relaxed, earthy elegance with its compact form and textured bohemian design. Perfect for small floral arrangements, dried blooms, or as a standalone accent, it adds warmth and charm to any table or shelf. Ideal for event styling or everyday décor, this versatile vase pairs beautifully with natural tones and organic elements, creating a harmonious and inviting aesthetic. SKU : WV3
+  Updated: 2026-03-21T11:19:24Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1806,8 +1806,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign-2025-10-31T220529.332.png?v=1761930384
   Price: $9.50 AUD
-- [VENUS URN  |  VASE](https://nsstyling.com/products/venus-urn-vase): The “VENUS URN | VASE” embodies refined simplicity and modern elegance, making it a perfect addition to any contemporary or classic setting. With its slender silhouette and smooth, sculptural form, it beautifully complements both fresh and dried floral arrangements. Ideal for event styling, home décor, or curated displays, the Venus Vase adds a subtle touch of sophistication and timeless appeal to any space, effortlessly blending artistry with functionality.
-  Updated: 2025-12-09T16:59:20Z
+- [VENUS URN  |  VASE](https://nsstyling.com/products/venus-urn-vase): The “VENUS URN | VASE” embodies refined simplicity and modern elegance, making it a perfect addition to any contemporary or classic setting. With its slender silhouette and smooth, sculptural form, it beautifully complements both fresh and dried floral arrangements. Ideal for event styling, home décor, or curated displays, the Venus Vase adds a subtle touch of sophistication and timeless appeal to any space, effortlessly blending artistry with functionality. SKU: WV2
+  Updated: 2026-03-21T11:18:20Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1833,7 +1833,7 @@
   Updated: 2026-03-05T05:48:27Z
   Total Products: 31
 - [Buy Luxury Silverware Sets for Modern Tables | NS Styling](https://nsstyling.com/collections/silverware): Shop luxury silverware sets designed for modern tables. Crafted from premium stainless steel for lasting shine, durability, and elegance at NS Styling.
-  Updated: 2026-03-05T05:48:27Z
+  Updated: 2026-03-17T11:24:08Z
   Total Products: 97
 - [Uncategorised](https://nsstyling.com/collections/uncategorised)
   Updated: 2026-03-05T05:23:22Z
@@ -1848,7 +1848,7 @@
   Updated: 2025-12-28T04:06:14Z
   Total Products: 0
 - [Graze Station & Catering Display](https://nsstyling.com/collections/graze-station-catering-display): Elegant grazing boards and catering display props for events, parties, and special occasions, adding style, sophistication, and a standout presentation.
-  Updated: 2026-02-03T06:45:15Z
+  Updated: 2026-03-17T11:24:08Z
   Total Products: 13
 - [Boho White Urns](https://nsstyling.com/collections/boho-white-urns)
   Updated: 2025-12-28T04:08:50Z
@@ -1863,7 +1863,7 @@
   Updated: 2026-03-10T06:01:58Z
   Total Products: 71
 - [Graze Station & Catering Display, Wedding Accessories](https://nsstyling.com/collections/graze-station-catering-display-wedding-accessories)
-  Updated: 2026-01-19T18:41:44Z
+  Updated: 2026-03-17T11:24:08Z
   Total Products: 13
 - [Backdrops & Arbours](https://nsstyling.com/collections/backdrops-arbours)
   Updated: 2026-01-19T18:16:09Z
@@ -1893,7 +1893,7 @@
   Updated: 2026-02-13T06:12:18Z
   Total Products: 12
 - [Home Interiors](https://nsstyling.com/collections/home-interiors): Curated home interiors collection featuring decor accents, textiles, and furniture pieces that bring timeless style, texture, & character to every living space.
-  Updated: 2026-02-04T09:25:07Z
+  Updated: 2026-03-17T11:24:08Z
   Total Products: 74
 - [Interior Furniture](https://nsstyling.com/collections/interior-furniture)
   Updated: 2025-12-28T04:07:41Z
@@ -1971,7 +1971,7 @@
   Updated: 2026-01-21T15:03:36Z
   Total Products: 30
 - [Event & Wedding Umbrellas for Styling Hire | NS Styling](https://nsstyling.com/collections/umbrellas): Umbrellas collection featuring stylish, clear, and functional umbrellas for weddings, events, or outdoor occasions, adding elegance & protection in any setting.
-  Updated: 2026-03-05T23:06:03Z
+  Updated: 2026-03-23T11:24:39Z
   Total Products: 5
 - [Event & Wedding Styling Flyers for Hire | NS Styling](https://nsstyling.com/collections/flyer): Stylish event flyers and print-ready designs for weddings, decor services, and promotions, helping events stand out with professional, elegant visuals.
   Updated: 2026-02-04T06:55:25Z
@@ -1992,13 +1992,13 @@
   Updated: 2026-02-17T07:22:00Z
   Total Products: 12
 - [caviar COLLECTION](https://nsstyling.com/collections/caviar-collection): Discover NS Styling’s Caviar Collection - elegant trays, vintage trays, dome dishes, & fine serving pieces perfect for weddings, events, & luxury decor styling.
-  Updated: 2026-02-03T06:19:37Z
+  Updated: 2026-03-17T11:24:08Z
   Total Products: 13
 - [TABLE RAISERS | ACCESSORIES](https://nsstyling.com/collections/table-raisers-accessories)
   Updated: 2026-01-20T12:21:46Z
   Total Products: 18
 - [SILVER STANDS | HANDLE DISHES](https://nsstyling.com/collections/silver-stands-handle-dishes)
-  Updated: 2026-02-02T10:16:37Z
+  Updated: 2026-03-17T11:24:08Z
   Total Products: 26
 - [Small Platters| Coasters](https://nsstyling.com/collections/small-platters-coasters)
   Updated: 2026-03-10T06:01:58Z
@@ -2013,7 +2013,7 @@
   Updated: 2026-02-04T09:41:25Z
   Total Products: 5
 - [MEDIUM | LARGE PLATTERS](https://nsstyling.com/collections/medium-large-platters)
-  Updated: 2026-01-20T12:21:46Z
+  Updated: 2026-03-17T11:24:08Z
   Total Products: 15
 - [BOWLS](https://nsstyling.com/collections/bowls)
   Updated: 2026-03-10T06:01:58Z
@@ -2100,6 +2100,9 @@
   - [Ultimate Bridal Nail Guide for Brides | NS Styling](https://nsstyling.com/blogs/news/bridal-nail-guide): Ultimate Bridal Nail Guide for Brides | NS Styling
     Updated: 2026-03-12T06:14:13Z
     Author: AUZITA POURSHASB
+  - [Wedding Tie, Bow Tie and Pocket Square Guide | NS Styling](https://nsstyling.com/blogs/news/wedding-ties-bow-ties-pocket-squares-guide): Wedding Tie, Bow Tie and Pocket Square Guide | NS Styling
+    Updated: 2026-03-18T05:03:19Z
+    Author: AUZITA POURSHASB
 
 ## Store Pages
 
@@ -2155,6 +2158,24 @@
   Updated: 2026-02-04T06:32:31Z
 - [Blog](https://nsstyling.com/pages/blog)
   Updated: 2026-02-06T06:32:06Z
+- [Chantal & Anthony](https://nsstyling.com/pages/chantal-anthony)
+  Updated: 2026-03-16T21:52:02Z
+- [Gina & Daevyd x Mischief Yacht](https://nsstyling.com/pages/gina-daevyd-x-mischief-yacht)
+  Updated: 2026-03-19T16:12:53Z
+- [Baptism](https://nsstyling.com/pages/baptism)
+  Updated: 2026-03-23T16:17:22Z
+- [Chantal & Bos - Family](https://nsstyling.com/pages/chantal-bos-family)
+  Updated: 2026-03-23T16:30:39Z
+- [D&N Wedding](https://nsstyling.com/pages/d-n-wedding)
+  Updated: 2026-03-23T16:58:12Z
+- [Heidi from The Romance - Featuring our silverware](https://nsstyling.com/pages/heidi-from-the-romance-featuring-our-silverware-1)
+  Updated: 2026-03-23T17:38:44Z
+- [HOSTCO - Styled Shoot](https://nsstyling.com/pages/hostco-styled-shoot)
+  Updated: 2026-03-23T20:23:51Z
+- [HOSTCO - Styled shoot 2023](https://nsstyling.com/pages/hostco-styled-shoot-2023)
+  Updated: 2026-03-23T20:53:52Z
+- [Jacky & Nhi 15 Feb 2025](https://nsstyling.com/pages/jacky-nhi-15-feb-2025)
+  Updated: 2026-03-24T16:25:01Z
 
 ## Policies
 
