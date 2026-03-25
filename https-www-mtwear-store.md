@@ -6,19 +6,19 @@
 - Timezone: Asia/Karachi
 - Created At: 2025-08-17T09:29:30Z
 - Contact Email: support@mtwear.store
-- Updated At: 2026-03-16T00:00:43.130Z
+- Updated At: 2026-03-25T00:00:49.454Z
 
 ## Products
 
 - [M&T Wear - AeroX Pro Premium Quality Sports shoes](https://www.mtwear.store/products/mh-weer-aerox-pro): About This Item Step into comfort and freedom with our barefoot shoes, designed to feel as natural as walking barefoot—while giving your feet the protection they deserve. Breathable & Lightweight: Made from ultra-light, quick-dry fabric that keeps your feet cool and comfortable all day. The flexible upper material allows natural movement while ensuring durability. Durable Grip: Thick rubber soles with strong traction give you stability on sand, rocks, trails, or pavement. Extra protection keeps your feet safe from sharp or hot surfaces. Quick-Dry Design: Built with drainage holes on the sole to let water flow out easily, helping your feet stay dry and fresh after swimming, paddling, or water sports. Easy Fit: A fast lace-up system makes slipping in and out simple while keeping the shoes snug—like a glove for your feet. Perfect For: Hiking, trail running, surfing, paddle boarding, camping, swimming in nature, pool workouts, or just walking comfortably on roads and dirt paths. Experience shoes that let your feet move naturally—light, breathable, and made for adventure.
-  Updated: 2026-03-14T10:54:36Z
+  Updated: 2026-03-22T00:31:36Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/asasas.png?v=1755930795
   Price: €64.99 EUR
 - [M&T Wear - Safety Shoes Slip Resistant Abrasion Resistant Work Shoes](https://www.mtwear.store/products/indestructible-steel-toe-protective-safety-shoes-slip-resistant-abrasion-resistant-work-shoes-men-tough-comfortable-sneaker): Product Description Step into comfort and protection with LEOSOXS Steel Toe Work Boots — built for long days and tough jobs. Designed to meet European safety standards, these boots combine lightweight performance with durable protection, so you don’t have to choose between safety and comfort. Key Features: Steel Toe Protection – European standard steel head resists up to 200J impact. Kevlar Midsole – Flexible anti-puncture layer shields against nails, steel bars, and other sharp hazards. Lightweight Comfort – As light as running shoes, with soft insoles and high-elastic cushioning to keep you going all day. Breathable Upper – Air mesh fabric ensures your feet stay cool and comfortable in any season. Non-Slip Rubber Outsole – Wear-resistant EVA sole with stable grip for safer steps on every surface. Handmade Quality – Built with care for workers in construction, manufacturing, and industrial environments. Specifications: Boot Height: Ankle Gender: Men Heel Height: Low (1–3 cm) Toe Shape: Round Lining: Cotton Upper Material: Air Mesh Outsole: Rubber Season: Spring/Autumn
-  Updated: 2026-03-14T10:54:41Z
+  Updated: 2026-03-22T00:31:42Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -128,7 +128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf3590b8a8897412c8c960556eebddb9fM.webp?v=1755934836
     Price: €53.99 EUR
 - [M&T Wear - Men Professional Training Football Boots Ultralight Soccer Shoes Unisex](https://www.mtwear.store/products/men-professional-training-football-boots-ultralight-soccer-shoes-unisex-wholesale-women-breathable-drop-shipping-indoor-futsal): Product Description Take control of the pitch with the QZTZX Professional Soccer Shoes, designed for serious players who demand both style and performance. Built with lightweight materials and advanced traction, these cleats help you stay fast, stable, and unstoppable from kickoff to the final whistle. Key Features: Soft Ground Studs (SG) – Perfect grip on natural grass fields, giving you confidence in every step. Breathable Comfort – Microfiber and patent leather upper keeps your feet supported while letting air flow. EVA Insole Cushioning – Reduces impact and keeps you comfortable during intense matches. Durable Rubber Outsole – Reliable grip that stands up to aggressive play. True-to-Size Fit – Medium-width design ensures a secure and comfortable feel. Specifications: Type: Soccer Shoes (Men) Level: Professional Upper Material: Patent Leather + Microfiber Outsole: Rubber Insole: EVA Closure: Strap bonding/molding Waterproof: No Available Sizes: EU 32–48 Size NoteNOTE:Please choose the shoes size according to your foot length,NOT insole length.If the your feet is wide or thick, please choose a larger shoes size.Before choose you Eur size , you had better measure your feet length.How to Measure Feet LengthPlease measure your feet length carefully ,with the method of the picture below:、
-  Updated: 2026-03-14T10:55:15Z
+  Updated: 2026-03-22T00:32:16Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -334,7 +334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S414efc06900a409b8d98ab6b4ab71474z.webp?v=1755961505
     Price: €64.99 EUR
 - [M&T Wear - Original Men Women Comfortable Shoes Unisex Breathable](https://www.mtwear.store/products/original-men-women-comfortable-shoes-unisex-breathable-mesh-walking-on-ultralight-outdoor-running-casual-sneakers-clouds-shoes): Product Description Stay light on your feet with the M&T Wear walking shoes, designed for everyday comfort and professional performance. Whether you’re on a hard court, at the gym, or out for a casual stroll, these unisex sneakers blend breathable materials with supportive cushioning to keep you moving with ease. Key Features: Breathable Air Mesh Upper – Keeps your feet cool and dry all day. Height-Boosting Design – Subtle lift adds confidence without compromising comfort. Cushioned PVC Insole – Provides gentle massage-like comfort for long wear. Durable EVA Outsole – Lightweight, shock-absorbing, and built for hard courts. ForMotion Technology – Supports natural movement for smoother steps. Unisex Fit – True-to-size design for both men and women. Specifications: Closure: Lace-Up Upper: Air Mesh (polyester) Outsole: EVA Insole: PVC Gender: Unisex Shoe Width: Medium (B, M) Waterproof: No Toe Cap: None
-  Updated: 2026-03-14T10:55:50Z
+  Updated: 2026-03-22T00:32:52Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -540,7 +540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S92f17b0f06f54fe58c0c65fdf1201ac8E.webp?v=1755961505
     Price: €69.99 EUR
 - [M&T Wear - Hollow Design Sports Shoes Flexible Soft](https://www.mtwear.store/products/mens-hollow-design-sports-shoes-lightweight-breathable-for-marathon-jogging-outdoor-hiking-all-day-comfort-anti-fatigue): Product Description Hit the track or the gym in style with M&T Wear Running Shoes—designed for breathability, balance, and all-day comfort. Lightweight and flexible, these sneakers keep your feet supported without slowing you down, so every stride feels effortless. Key Features: Breathable Air Mesh Upper – Keeps your feet cool and dry during workouts. Cushioned EVA Outsole – Absorbs impact and enhances natural movement. FREE FLEXIBLE Technology – Supports dynamic motion for running, training, or casual wear. Lightweight & Low-Cut Design – Comfortable, stylish, and easy to move in. Professional-Grade Comfort – True-to-size fit with balance-enhancing design. Specifications: Gender: Women Upper Material: Air Mesh / Microfiber Outsole: EVA Upper Height: Low (Not above ankle) Waterproof: No Toe Cap: None Function: Cushioning & Balance Level: Professional
-  Updated: 2026-03-14T10:56:20Z
+  Updated: 2026-03-22T00:33:20Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -746,7 +746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb5b378d5580f4c00b8ffb25a394425e6r.webp?v=1755961503
     Price: €59.99 EUR
 - [M&T Wear - American Sexy Halter Dress Female Sleeveless Backless Trendy Patchwork Irregular Long Dress](https://www.mtwear.store/products/singreiny-american-sexy-halter-dress-female-sleeveless-backless-hotsweet-sundress-2025-trendy-patchwork-irregular-long-dress): Product Description Turn heads this season with the M&T Wear Women’s Patchwork Halter Dress. Designed for a sexy, club-ready look, this mid-calf sheath dress combines flattering lines with breathable polyester fabric to keep you comfortable while looking stunning. Perfect for spring and summer nights out. Key Features: Stylish Halter Neckline – Shows off your shoulders with a chic, modern vibe. Patchwork Design – Unique and eye-catching pattern for a standout look. Slim Fit & Sheath Silhouette – Flattering shape that hugs your curves naturally. Backless Detail – Adds a daring touch while staying elegant. Sleeveless & Mid-Calf Length – Lightweight, breezy, and perfect for warm weather. Premium Polyester Fabric – Smooth, durable, and comfortable for all-night wear. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Closure: Pullover Fabric: Polyester / Synthetic Fiber Pattern: Patchwork Silhouette: Sheath Sleeve: Sleeveless Dress Length: Mid-Calf Waistline: Natural Season: Spring/Summer Style: Sexy & Club Size Chart: S – Chest: 69–88 cm, Waist: 78 cm, Hip: 108 cm, Length: 140 cm M – Chest: 73–92 cm, Waist: 82 cm, Hip: 112 cm, Length: 141 cm L – Chest: 79–98 cm, Waist: 88 cm, Hip: 118 cm, Length: 142 cm
-  Updated: 2026-03-14T10:56:21Z
+  Updated: 2026-03-22T00:33:22Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -764,7 +764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se095c145e0e1411c8383ee21a06c473aX.webp?v=1755962670
     Price: €49.99 EUR
 - [M&T Wear - Sansa Customized Red Mermaid Glitter Strapless Prom Dresses Floor](https://www.mtwear.store/products/sansa-customized-red-mermaid-glitter-strapless-prom-dresses-floor-length-backless-vestidos-de-festa): Product Description Shine at every formal event with the M&T Wear Strapless Sequin Evening Dress. This mermaid-style gown hugs your curves and glimmers under the lights, making you the center of attention at weddings, galas, or fancy parties. Key Features: Strapless Design with Built-in Bra – Offers support while showing off your shoulders elegantly. Mermaid Silhouette – Flattering trumpet fit that enhances curves and moves gracefully. Sequin Fabric with Contrast Color Detail – Eye-catching sparkle for an unforgettable look. Sleeveless & Ankle-Length – Perfect for formal occasions and comfortable movement. Natural Waistline – Accentuates your figure while keeping proportions perfect. All-Age Friendly – Designed to fit a wide range of sizes comfortably. Specifications: Brand: M&T Wear Material: Silk / Sequin Sleeve: Sleeveless Dress Length: Ankle-Length Pattern: Mono / Contrast Color Train: None Occasion: Formal Evening Style: Sexy Supply Type: Non-spot Size Chart: S – Length: 83–84 cm M – Length: 88–90 cm L – Length: 93–97 cm XL – Length: 100–104 cm 14W–26W – Length: 104–135 cm Made to measure We can also offer free custom made service, please provide us with the following size parameters. 1. Bust = ___ cm/inches. 2. Waist = ___ cm/inches. 3. Hips = ___ cm/inches. 4. Height (from top of head to the floor without your shoes) =___ cm/inches. 5. Hollow to floor with shoes =___ cm/inches. 6. If you have any other special requirements, please don't hesitate to contact us. Please read notes below carefully before placing your order. If you have any questions, please feel free to contact us. Notes: A. The product does not include any accessories such as gloves, wedding veil or petticoat, price is for one dress only. B. Affected by many factors, such as cutting skills of different tailors, photography lighting, camera angles and different electronic displays, there may be minor difference between the dress you receive and the pictures above. Please allow few slight differences, which is a normal phenomenon as our dresses are replicas, thanks for your kind understanding. C. Before ordering, please read this listing carefully and ask all your questions. We will reply as soon as possible. D. We strongly recommend you to have your measurements taken by a professional before buying any gown online. Please refer to the measurement instructions and measure yourself carefully. E. Dress can be made in Custom Size, Color, Design. F. All dresses are not in stock, production begins after the order is confirmed. Q: Processing time and delivery time? A: In general, our processing time around 15-20 days, rush order is available too. The delivery time depends on the shipping method you choose. Q: Can you make alterations on the original design? A: Yes of course, please contact seller first. Q: How to custom made dresses? A: You can send us pictures of your dream dress, we will tell you the price if the materials are available, then give you payment link after your confirmation. Q: What should I do if there is something wrong with the dress? A: Please tell us at first, we will try our best to help you solve the problem. If it's our mistake, we will be responsible for it.
-  Updated: 2026-03-14T10:56:45Z
+  Updated: 2026-03-22T00:33:45Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -954,7 +954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/A59d87e7d396d401b94d875ec6af163d7K.webp?v=1755962676
     Price: €129.99 EUR
 - [M&T Wear - New Luxury Sparkly Crystal Rhinestone Pearl Celebrities Gown Brown Dress Woman Strap Evening Party Birthday Prom Wedding Vestido](https://www.mtwear.store/products/new-luxury-sparkly-crystal-rhinestone-pearl-celebrities-gown-brown-dress-woman-strap-evening-party-birthday-prom-wedding-vestido): Product Description Step into elegance with the M&T Wear Women’s Luxury Floor-Length Pencil Dress. Designed for a sophisticated look, this slim-fitting dress combines sparkling diamond accents with a flattering V-neckline, perfect for formal events, evening parties, or special occasions. Key Features: V-Neck & Spaghetti Straps – Elegant neckline and sleeveless design for a graceful silhouette. Diamond Decoration – Adds a touch of sparkle and luxury. Slim Pencil Silhouette – Accentuates your curves while providing a modern, chic fit. Empire Waistline – Enhances your figure and balances proportions. Floor-Length Design – Perfect for formal events or glamorous evenings. Premium Polyester & Mesh Fabric – Comfortable, slightly stretchy material suitable for all seasons. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Polyester / Mesh / Synthetic Fiber Sleeve: Sleeveless Dress Length: Floor-Length Pattern: Solid Silhouette: Pencil Waistline: Empire Style: Luxury Closure: Pullover Season: All Season Size Chart: S – Length: 78 cm M – Length: 82 cm L – Length: 88 cm XL – Length: 94 cm XXL – Length: 100 cm size Bust Waist Hip Length cm cm cm cm S 78 66 88 149 M 82 70 92 150 L 88 76 98 151 XL 94 82 104 152 XXL 100 88 110 153
-  Updated: 2026-03-14T10:56:50Z
+  Updated: 2026-03-22T00:33:51Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1000,7 +1000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4c86cfe4e1b049b0a0c85bcb8eaffbdeC.webp?v=1755962673
     Price: €69.99 EUR
 - [M&T Wear - Women 2025 New Sexy Off Shoulder White Flower Black Mini Bodycon Bandage Dress Luxury  Evening Club Elegant Party Gowns](https://www.mtwear.store/products/women-2025-new-sexy-off-shoulder-white-flower-black-mini-bodycon-bandage-dress-luxury--evening-club-elegant-party-gowns): Product Description Turn heads with the M&T Wear Strapless Mini Dress, designed for a sexy, club-ready look. This above-the-knee sheath dress combines a flattering slim fit with elegant appliqué detailing, perfect for parties, nights out, or special events. Key Features: Strapless Design – Sleek and modern, showing off your shoulders and arms. Appliqué Decoration – Adds subtle elegance and texture for a standout look. Slim Sheath Silhouette – Hugs your curves while keeping a classy mini-length cut. Above-Knee Length – Perfect for clubbing, parties, or fun nights out. Slight Stretch Fabric – Comfortable polyester and spandex blend for easy movement. Chest Wrapping & Natural Waistline – Enhances your figure and provides a smooth fit. Specifications: Brand: MHWEER Gender: Women Age: Middle Age Fabric: Polyester / Spandex / Synthetic Fiber Sleeve: Strapless, Sleeveless Dress Length: Above Knee / Mini Pattern: Solid Silhouette: Sheath Waistline: Natural Style: Sexy & Club Closure: Zipper Season: All Season
-  Updated: 2026-03-14T10:56:53Z
+  Updated: 2026-03-22T00:33:53Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1022,7 +1022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa4d57d9e5b114b2c9fa9a318f5eb326dO.webp?v=1755962674
     Price: €64.99 EUR
 - [M&T Wear - VC Colorful Diamonds Bandage Long Dress Crystal Side Mesh](https://www.mtwear.store/products/vc-colourful-diamonds-bandage-long-dress-crystal-side-mesh-high-slit-night-out-luxury-prom-evening-party-gowns-vestidos): Product Description Elevate your night-out wardrobe with the M&T Wear Women’s Mid-Calf Beaded Dress. Designed for elegance and a touch of glamour, this slim-fitting sheath dress hugs your curves while offering comfort and style for autumn and winter evenings. Key Features: V-Neckline – Flattering and stylish, perfect for showing off your neckline. Beaded Decoration – Adds sparkle and sophistication to your look. Slim Sheath Silhouette – Accentuates curves with a modern, sleek fit. Mid-Calf Length – Elegant length suitable for clubs, parties, or special events. High Stretch Woven Fabric – Polyester and spandex blend for comfort and movement. Empire Waistline – Enhances your figure and creates a balanced silhouette. Short Sleeves – Comfortable and versatile for cooler seasons. Specifications: Brand: MHWEER Gender: Women Age: Middle Age Fabric: Polyester / Spandex / Synthetic Fiber Sleeve: Short, Regular Dress Length: Mid-Calf Pattern: Solid Silhouette: Sheath Waistline: Empire Style: Sexy & Club Closure: Zipper Season: Autumn/Winter
-  Updated: 2026-03-14T10:56:55Z
+  Updated: 2026-03-22T00:33:55Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1044,7 +1044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf495475b6ec440d8b6292f6ab8168aa4M.webp?v=1755962673
     Price: €79.99 EUR
 - [M&T Wear - VIMLY Women White Knit Vest Long Dresses Summer New Simple Elegant Sleeveless Waisted Temperament Party Evening A-Line Dress](https://www.mtwear.store/products/vimly-women-white-knit-vest-long-dresses-summer-new-simple-elegant-sleeveless-waisted-temperament-party-evening-a-line-dress): Product Description Feel effortlessly sweet and stylish in the M&T Wear Women’s Mid-Calf A-Line Dress. Perfect for summer outings, brunches, or casual events, this dress combines a flattering A-line silhouette with breathable, high-stretch fabric for all-day comfort. Key Features: O-Neckline & Sleeveless Design – Simple, elegant, and perfect for warm weather. Draped Decoration – Adds subtle texture and a feminine touch. Slim Fit A-Line Silhouette – Flattering shape that gently flares at the hem. Mid-Calf Length – Comfortable and versatile for casual or semi-formal occasions. High-Stretch Woven Fabric – Nylon, spandex, and viscose blend for flexible comfort. All-Age Friendly – Designed for middle-aged women seeking style and ease. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Nylon / Spandex / Viscose Sleeve: Sleeveless Dress Length: Mid-Calf Pattern: Solid Silhouette: A-Line Style: Sweet Closure: Pullover Color: White Season: Summer Sizes: S, M, L, XL SHOPPING TIPS by VIMLY How to choose size?You can read the reveiws by other costumer to follow the suggestion, or refer to our size chart. Our costumer service will be very willing to recommend good ideal for you. When will ship the package? AlI our items will be shipped to buyer's address which offered by buyers, please confirm your address before payment. Otherwise our staff of costumer service will contact you with the situation to negotiate. (Holidays may be extended) How to track my package? You can track YOUR package in this website:https://17track.net/en(Copied to the browser to open) What is the after-sales service? Any unsatisfied with the product, please contact us first instead of opening dispute or leave negative feedback. we are able to solve all problems enthusiastically if you meet any problem, just chat with us in aliexpress. RETURNS AlI returned items MUST BE in the original packaging and you MUST PROVIDE us with the shipping tracking number. We will refund YOUR FULL WINNING BID AMOUNT, upon receipt of the item in its original condition and packaging with all components and accessories included. FEEDBACKS Your satisfaction and positive feedback is very important to us. If you have any problems with our items or services, please feel to contact us first before you leave negative feedback. We will do our best to solve any problems and provide you with the best customer services. * All staff of VIMLY wish you a pleasant shopping experience in our store.
-  Updated: 2026-03-14T10:56:58Z
+  Updated: 2026-03-22T00:33:58Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1066,7 +1066,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa03fe2b060ca443e84223beb2a54cedbh.webp?v=1755962674
     Price: €99.99 EUR
 - [M&T Wear - Top Quality Handmake Luxury Women Sleeveless Sexy Feathers Pearl Beading Bodycon Long Dress Fashion Celebrate Red Carpet Dress](https://www.mtwear.store/products/top-quality-handmake-luxury-women-sleeveless-sexy-feathers-pearl-beading-bodycon-long-dress-fashion-celebrate-red-carpet-dress): MHWEER Women’s Mid-Calf A-Line Dress Feel effortlessly sweet and stylish with the MHWEER Women’s Mid-Calf A-Line Dress. Perfect for summer outings, brunches, or casual events, this dress combines a flattering A-line silhouette with breathable, high-stretch fabric for all-day comfort and ease of movement. Key Features: O-Neckline & Sleeveless – Simple and elegant, ideal for warm weather. Draped Detailing – Adds subtle texture and feminine charm. Slim Fit A-Line Silhouette – Gently flares at the hem for a flattering shape. Mid-Calf Length – Versatile and comfortable for casual or semi-formal occasions. High-Stretch Woven Fabric – Blend of nylon, spandex, and viscose for flexibility. All-Age Friendly – Designed for middle-aged women seeking effortless style. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Nylon / Spandex / Viscose Sleeve: Sleeveless Dress Length: Mid-Calf Pattern: Solid Silhouette: A-Line Style: Sweet Closure: Pullover Color: White Season: Summer Sizes: S, M, L, XL
-  Updated: 2026-03-14T10:57:00Z
+  Updated: 2026-03-22T00:34:00Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1084,7 +1084,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Saa8146da98e646af81e9f0070f10209aX.webp?v=1755962674
     Price: €99.99 EUR
 - [M&T Wear- Women's Summer New Arrival Faux Silk Patchwork Mesh Off-The-Shoulder Sleeveless Bodycon Dress Fashionable Elegant Dress](https://www.mtwear.store/products/cutenova-womens-summer-new-arrival-faux-silk-patchwork-mesh-off-the-shoulder-sleeveless-bodycon-dress-fashionable-elegant-dress): MHWEER Women’s Summer Patchwork Mini Dress Stay chic and breezy this summer with the M&T Wear Women’s Patchwork Mini Dress. Designed for junior women, this above-the-knee sheath dress combines a flattering slim fit with a stylish diagonal collar and sheer patchwork details, perfect for beach outings, casual summer parties, or vacations. Key Features: Diagonal Collar & Sleeveless Design – Adds a trendy, asymmetrical look while keeping you cool. Sheer Patchwork Decoration – Light, stylish accents for a fashionable summer vibe. Slim Sheath Silhouette – Hugs your curves while maintaining a comfortable fit. Above-Knee Mini Length – Ideal for casual wear, beach outings, or summer fun. Medium-Stretch Polyester & Spandex Fabric – Comfortable and flexible for active movement. Natural Waistline – Flattering cut for all body shapes. Specifications: Brand: M&T Wear Gender: Women Age: Junior Fabric: Polyester / Spandex / Synthetic Fiber Sleeve: Sleeveless Dress Length: Above Knee / Mini Pattern: Patchwork Silhouette: Sheath Style: Beach Style Closure: Pullover Season: Summer Sizes: S, M, L
-  Updated: 2026-03-14T10:57:02Z
+  Updated: 2026-03-22T00:34:02Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1102,7 +1102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S1eb57a5b02f949dbb3cf8612a5609b668.webp?v=1755962676
     Price: €49.99 EUR
 - [M&T Wear - Fancy Lace Summer Dresses 2025 Flare Sleeve Short Elegant Party Dresses Red Halter FloralLove Luxury Prom Dress](https://www.mtwear.store/products/ellolace-fancy-lace-summer-dresses-2025-flare-sleeve-short-elegant-party-dresses-red-halter-florallove-luxury-prom-dress): Turn heads with the M&T Wear Women’s Floral Lace Mini Dress, perfect for sexy nights out or clubbing. This slim-fitting sheath dress combines delicate lace, a flattering sweetheart neckline, and a feminine floral pattern for an irresistible look. Key Features: Sweetheart Neckline – Flattering and elegant for a stylish appearance. Floral Lace Decoration – Adds texture, sophistication, and charm. Slim Sheath Silhouette – Hugs your curves while maintaining a chic mini-length fit. Flare Sleeves – Subtle statement detail for a fashionable twist. Medium-Stretch Polyester Fabric – Comfortable and flexible for all-night wear. Above-Knee Mini Length – Perfect for parties, clubs, or special occasions. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Polyester Sleeve: Flare Sleeve Dress Length: Above Knee / Mini Pattern: Floral Silhouette: Sheath Style: Sexy & Club Neckline: Sweetheart Season: All Season SIZE/CM UNDER BUST CUP LENGTH DRESS WAIST HIPS DRESS LENGTH S 68-88 12 66 80 57 M 72-92 13 70 84 58.5 L 76-96 14 74 88 60 TIPS:*1.This data was obtained from manually measuring the product, it may be off by 1-2 CM. *2. Different countries have different sizing habits,In order for you to choose a more suitable size, Please follow the size chart to select the size.
-  Updated: 2026-03-14T10:57:04Z
+  Updated: 2026-03-22T00:34:05Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1120,7 +1120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S463f8be5eab440489a631c9d42c5ab378.webp?v=1755962676
     Price: €34.99 EUR
 - [M&T Wear - Luxury Birthday Women’s Feathers Sequin Strapless Deep V-neck Black Bodycon Mini Dresses Sexy Club Party Night Prom Robe](https://www.mtwear.store/products/znaiml-luxury-birthday-women-s-feathers-sequin-strapless-deep-v-neck-black-bodycon-mini-dresses-sexy-club-party-night-prom-robe): M&T Wear Women’s Strapless Sequin Mini Dress Shine bright at parties and special occasions with the M&T Wear Women’s Strapless Sequin Mini Dress. Designed to hug your curves and dazzle under the lights, this slim-fitting sheath dress is perfect for birthdays, club nights, or glamorous evenings. Key Features: Strapless Design with Chest Wrapping – Sleek and sexy fit for a stunning silhouette. Sequin Decoration – Adds sparkle and makes you the center of attention. Slim Sheath Silhouette – Accentuates your figure with a flattering mini-length cut. Empire Waistline – Enhances curves while keeping proportions elegant. Medium-Stretch Polyester & Spandex Fabric – Comfortable and flexible for all-night wear. Sleeveless Above-Knee Length – Ideal for clubbing or special celebrations. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Polyester / Spandex / Synthetic Fiber Sleeve: Sleeveless Dress Length: Above Knee / Mini Pattern: Solid Silhouette: Sheath Style: Sexy & Club Neckline: Strapless Waistline: Empire Closure: Zipper Season: All Season Size Chart: S – Length: 74 cm M – Length: 78 cm L – Length: 84 cm XL – Length: 90 cm XXL – Length: 96 cm size Bust Waist Hip Length cm cm cm cm S 74 62 86 68 M 78 66 90 69 L 84 72 96 70 XL 90 78 102 71 XXL 96 84 108 72
-  Updated: 2026-03-14T10:57:07Z
+  Updated: 2026-03-22T00:34:07Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1146,7 +1146,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb40b558d08654861a2766dc8a6a2fb1eo.webp?v=1755962676
     Price: €49.99 EUR
 - [M&T Wear - Women Sexy White Backless Mesh Crystal Diamonds Feathers Performance Costume Stage Dancer Mini Stretchy Night Club Party Dress](https://www.mtwear.store/products/women-sexy-white-backless-mesh-crystal-diamonds-feathers-performance-costume-stage-dancer-mini-stretchy-night-club-party-dress): M&T Wear Women’s Turtleneck Hollow-Out Mini Dress Step out in style with the M&T Wear Women’s Turtleneck Hollow-Out Mini Dress, perfect for parties, clubs, or evening events. This slim-fitting sheath dress combines sexy hollow-out details with a sleek turtleneck design for a bold and fashionable look. Key Features: Turtleneck & Sleeveless Tank Design – Chic and modern, perfect for showing off shoulders elegantly. Hollow-Out Decoration – Adds stylish flair and a touch of sexiness. Slim Sheath Silhouette – Flattering fit that hugs curves and enhances your figure. Above-Knee Mini Length – Ideal for party, cocktail, or club occasions. Medium-Stretch Polyester & Spandex Fabric – Comfortable and flexible for easy movement. Natural Waistline – Enhances your shape while keeping a sleek profile. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Polyester / Spandex / Synthetic Fiber Sleeve: Sleeveless / Tank Style Dress Length: Above Knee / Mini Pattern: Solid Silhouette: Sheath Style: Sexy & Club / Fashion Neckline: Turtleneck Waistline: Natural Closure: Zipper Occasion: Party / Club / Evening / Cocktail / Wedding Season: All Season / Spring / Summer / Autumn / Winter (Indoor) Sizes: XS, S, M, L Care Reminder: Avoid folding or pressing to maintain shape and fabric quality.
-  Updated: 2026-03-14T10:57:11Z
+  Updated: 2026-03-22T00:34:12Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1184,7 +1184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa35947dc171c46c9b82520154da9f679j.webp?v=1755962679
     Price: €69.99 EUR
 - [M&T Wear- Fake Denim 3D Print One Shoulder Bodycon Maxi Dress Women 2025 Party Night Sleeveless Clubwear Birthday Long Dresses Vestido](https://www.mtwear.store/products/y2k-fake-denim-3d-print-one-shoulder-bodycon-maxi-dress-women-2025-party-night-sleeveless-clubwear-birthday-long-dresses-vestido): M&T Wear Women’s Asymmetrical Printed Maxi Dress Make a statement at any event with the M&T Wear Women’s Asymmetrical Printed Maxi Dress. Perfect for parties, clubs, or special nights out, this slim-fitting, ankle-length dress features a bold asymmetrical neckline and eye-catching printed design for a fashionable, elegant look. Key Features: Asymmetrical One-Shoulder Neckline – Modern and striking for a standout style. Printed Decoration – Unique and stylish patterns for a fashion-forward look. Slim Sheath Silhouette – Hugs your curves while maintaining elegance. Ankle-Length Design – Ideal for party, club, or evening wear. Medium-Stretch Polyester & Spandex Fabric – Comfortable and flexible for all-night wear. Empire Waistline – Flattering fit that enhances your figure. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Polyester / Spandex / Synthetic Fiber Sleeve: Sleeveless / One-Shoulder Dress Length: Ankle-Length Pattern: Print Silhouette: Sheath Style: Sexy & Club / Fashion / Elegant / Vintage Neckline: Asymmetrical / One-Shoulder Waistline: Empire Closure: Zipper Occasion: Party, Club Wear, Night, Birthday, Festival Season: Spring / Summer / Autumn Suitable For: Women, Ladies, Misses
-  Updated: 2026-03-14T10:57:24Z
+  Updated: 2026-03-22T00:34:25Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1290,7 +1290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4ec32fdaf9b14348b34c6f67b09f6244w.webp?v=1755962678
     Price: €49.99 EUR
 - [M&T Wear - Mermaid Midi Bandage Dress Women Black Bodycon Dress Evening Party Elegant Sexy One Shoulder Birthday Club Outfit 2023 Summer](https://www.mtwear.store/products/mermaid-midi-bandage-dress-women-black-bodycon-dress-evening-party-elegant-sexy-one-shoulder-birthday-club-outfit-2023-summer): M&T Wear Women’s Asymmetrical Ruffle Bandage Dress Turn heads with the M&T Wear Women’s Asymmetrical Ruffle Bandage Dress, perfect for parties, clubs, and special summer events. This mid-calf, slim-fitting trumpet dress features elegant ruffles, a striking asymmetrical neckline, and a one-shoulder design for a bold, sexy look. Key Features: Asymmetrical One-Shoulder Neckline – Stylish and modern, perfect for a statement look. Ruffle Decoration – Adds elegance and movement to the dress. Slim Trumpet / Mermaid Silhouette – Hugs your curves and flares at the hem for a flattering fit. Mid-Calf Length – Versatile for summer parties or evening events. High-Stretch Knitting Fabric – Polyester and spandex blend for comfort and flexibility. Chest Wrapping & Natural Waistline – Enhances your figure and keeps a sleek profile. Specifications: Brand: M&T Wear Gender: Women Age: Middle Age Fabric: Polyester / Spandex / Natural Fiber Sleeve: Sleeveless / One-Shoulder Dress Length: Mid-Calf Pattern: Solid Silhouette: Trumpet / Mermaid Style: Sexy & Club Neckline: Asymmetrical / One-Shoulder Waistline: Natural Closure: Zipper Season: Spring / Summer Size Chart: XS – Length: 94 cm S – Length: 74 cm M – Length: 78 cm L – Length: 82 cm XL – Length: 88 cm
-  Updated: 2026-03-14T10:57:35Z
+  Updated: 2026-03-22T00:34:35Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1376,7 +1376,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S61fff9c8853c43fe822fcdcfcae10b19p.webp?v=1755962678
     Price: €49.99 EUR
 - [M&T Wear - Elegant Deep V-Neck Red Sequin Formal Evening Dresses Women Beading Wedding Party Mermaid Cocktail Prom Graduation Gown](https://www.mtwear.store/products/elegant-deep-v-neck-red-sequin-formal-evening-dresses-women-beading-wedding-party-mermaid-cocktail-prom-graduation-gown): M&T Wear Women’s Red Sequin V-Neck Evening Dress Shine at any formal event with the MHWEER Women’s Red Sequin Evening Dress. Designed for elegance and comfort, this floor-length gown features sparkling sequins, a flattering V-necM&T Wearkline, and a built-in bra for support and ease of wear. Perfect for weddings, proms, parties, or graduations. Key Features: Premium Sequin Fabric – High-quality material that catches the light for a standout look. V-Neckline & Sleeveless Design – Elegant and flattering, allowing freedom of movement. Built-in Bra – Combines style with convenience and support. Floor-Length Trumpet / Mermaid Silhouette – Sleek fit with a slight flare, enhancing your curves. Natural Waistline – Comfortable and flattering for all body types. Versatile for Formal Occasions – Ideal for weddings, parties, proms, or graduations. Specifications: Brand: M&T Wear Gender: Women Age: All Age Fabric: Polyester / Sequin Sleeve: Sleeveless Dress Length: Floor-Length Pattern: Others Silhouette: Trumpet / Mermaid Style: Classic Neckline: V-Neck Waistline: Natural Built-in Bra: Yes Occasion: Formal Evening Size Chart (cm): S – Length: 84 M – Length: 88 L – Length: 94 XL – Length: 100 XXL – Length: 106
-  Updated: 2026-03-14T10:57:40Z
+  Updated: 2026-03-22T00:34:41Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1422,7 +1422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sfd2168f2f6564dbc8490859c8a41c831D.webp?v=1755962678
     Price: €69.99 EUR
 - [M&T Wear - Man Shirt Black Funny With Print Graphic Printed Shirts](https://www.mtwear.store/products/man-shirt-black-funny-with-print-graphic-printed-shirts-for-men-star-dot-korean-popular-clothes-cheap-things-vintage-): Upgrade your everyday style with the M&T Wear Men’s Casual Printed Shirt, designed for comfort and versatility. Crafted from a premium blend of cotton, polyester, and spandex, this lightweight shirt is perfect for spring and summer wear. The breathable poplin fabric and turn-down collar give it a polished yet relaxed look, making it ideal for daily wear, outdoor activities, or casual gatherings. Key Features: Material: Cotton, Polyester, Spandex blend for comfort and durability Fabric Type: Poplin with fine craftsmanship Style: Casual, outdoor-ready with printed design Closure Type: Single-breasted Collar: Classic turn-down collar Sleeve Length: Full sleeves with regular fit Opening: Full front button opening Gender: Men Size Guide:(Please allow 1–3 cm difference due to manual measurement. 1 cm = 0.39 inch) ✅ S: Bust 88 cm | Shoulder 40 cm | Sleeve 57 cm | Length 63 cm | Suitable for 37.5–45 kg ✅ M: Bust 92 cm | Shoulder 41 cm | Sleeve 58 cm | Length 65 cm | Suitable for 45–52.5 kg ✅ L: Bust 96 cm | Shoulder 42 cm | Sleeve 59 cm | Length 67 cm | Suitable for 52.5–60 kg ✅ XL: Bust 100 cm | Shoulder 43 cm | Sleeve 60 cm | Length 69 cm | Suitable for 60–67.5 kg ✅ 2XL: Bust 104 cm | Shoulder 44 cm | Sleeve 61 cm | Length 71 cm | Suitable for 67.5–79 kg ✅ 3XL: Bust 108 cm | Shoulder 45 cm | Sleeve 62 cm | Length 73 cm | Suitable for 79–82.5 kg
-  Updated: 2026-03-14T10:57:47Z
+  Updated: 2026-03-22T00:34:47Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1476,7 +1476,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sbe3bf191b755448696ac8f86e832420fE.webp?v=1756033984
     Price: €45.99 EUR
 - [M&T Wear - New Long-sleeved Stand Collar Trendy Half-cardigan Casual Thin Shirts for Men](https://www.mtwear.store/products/mens-shirts-for-summer-new-long-sleeved-stand-collar-trendy-half-cardigan-casual-thin-shirts-for-men): Stay cool and stylish this season with the M&T Wear Men’s Casual Short-Sleeve Shirt, designed for everyday wear. Made from lightweight polyester, this shirt offers breathability and comfort, making it perfect for spring and summer. Its casual design and easy fit make it an essential addition to your daily wardrobe. Key Features: Material: Premium polyester for comfort and durability Style: Casual, versatile design for daily wear Closure Type: Single-breasted front Sleeve Length: Short sleeves (4–16 inch) Opening: Partial front opening (not full) Season: Ideal for spring and summer
-  Updated: 2026-03-14T10:58:05Z
+  Updated: 2026-03-22T00:35:06Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1626,7 +1626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb7dd689948b24e29a39e670b6a450d4b7.webp?v=1756033985
     Price: €49.99 EUR
 - [M&T Wear - Men's Casual Shoes  Lace Up Comfortable Soft Non Slip Durable Walking Shoes Classic Fashionable Trendy Park Walking Travel Shoes](https://www.mtwear.store/products/mens-casual-shoes-lace-up-comfortable-soft-non-slip-durable-walking-shoes-classic-fashionable-trendy-park-walking-travel-shoes): Step into comfort and style with M&T Wear Men’s Casual Sneakers, designed for everyday wear. Lightweight yet durable, these shoes are perfect for casual outings, sports, or leisure activities. Key Features: Brand: M&T Wear Type: Men’s Casual Sneakers / Loafers Closure: Lace-Up for a secure fit Upper Material: Microfiber – breathable, lightweight, and hard-wearing Lining Material: Mesh for ventilation and comfort Insole Material: EVA for cushioned support Outsole Material: Rubber – durable and slip-resistant Features: Breathable, sweat-absorbent, massage insole, waterproof, and light Toe Shape: Round Pattern: Solid Upper Coverage: Not above the ankle Upper Fixing Method: Stitching Seasons: Spring & Autumn Why Choose M&T Wear :✔ Comfortable, breathable design for all-day wear✔ Lightweight and sweat-absorbent for active lifestyles✔ Durable rubber outsole ensures grip and stability✔ Waterproof and hard-wearing – ideal for multiple seasons Available Sizes: EU 36–48 (please refer to foot length for accurate sizing)
-  Updated: 2026-03-14T10:58:15Z
+  Updated: 2026-03-22T00:35:15Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1704,7 +1704,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S0a5d2185dbdc489a82a11ac18ef50923f.webp?v=1756033987
     Price: €49.99 EUR
 - [M&T Wear- Men Casual Shoes Fashion Brand Classic Casual Men Leather Shoes Black Breathable Business Men Shoes Large Size](https://www.mtwear.store/products/men-casual-shoes-fashion-brand-classic-casual-men-leather-shoes-black-breathable-business-men-shoes-large-size): Experience effortless style and all-day comfort with M&T Wear Men’s Casual Slip-On Loafers. Designed for versatility and durability, these shoes are perfect for casual outings, office wear, or weekend adventures. Key Features: Brand: M&T Wear Type: Men’s Casual Loafers Closure: Slip-On for easy wear Upper Material: PU leather with durable stitching Lining Material: PU for a smooth, comfortable feel Insole Material: PU for all-day cushioning Outsole Material: Rubber for non-slip grip Feature: Waterproof, breathable, and true to size Toe Shape: Round Pattern: Solid Upper Coverage: Low-top, not above the ankle Seasons: Spring & Autumn Why M&T Wear:✔ Easy to wear with a convenient slip-on design✔ Waterproof PU material keeps feet dry✔ Durable rubber sole for reliable traction✔ Classic design suitable for casual or semi-formal outfits .
-  Updated: 2026-03-14T10:58:27Z
+  Updated: 2026-03-22T00:35:27Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1798,7 +1798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S848c08561b2749f1845bb60ac410bd9fY.webp?v=1756033986
     Price: €44.99 EUR
 - [M&T Wear - Men's Casual Shoes Lightweight Loafers Soft man Canvas Shoes Vulcanized Shoes for men Driving Flat Shoe Slip-on Outdoor Sneakers](https://www.mtwear.store/products/mens-casual-shoes-lightweight-loafers-soft-man-canvas-shoes-vulcanized-shoes-for-men-driving-flat-shoe-slip-on-outdoor-sneakers): MHWEER Men’s Breathable Casual Canvas Slip-On Shoes Step into effortless style and comfort with M&T Wear Men’s Casual Canvas Slip-On Shoes—designed for everyday wear, driving, and casual outings. Lightweight, breathable, and versatile, these shoes keep your feet comfortable while complementing your casual look. Key Features: Brand: M&T Wear Type: Men’s Casual / Outdoor Sneakers / Loafers Closure: Slip-On for easy wear Upper Material: Durable, breathable canvas Lining Material: Canvas Insole Material: Fabric for added comfort Outsole Material: Non-slip rubber Heel Type: Flat Toe Shape: Round Pattern: Solid, classic style Upper Coverage: Low-top, not above ankle Waterproof: No Metal Toe Cap: No Seasons: Spring & Autumn Sizes: EU 34–52 (Heel-to-toe length: 22 cm – 31 cm) Why MHWEER:✔ Breathable and lightweight for all-day comfort✔ Non-slip rubber sole for secure walking✔ Slip-on design for effortless on-and-off✔ Timeless design that pairs with casual outfits Important NoticeFoot length is not the insole length.Foot length is not the outsole length.Foot length < Insole Length < Outsole LengthFor SizePlease choose size according to the foot length (from heel to toe )!If you have wide feet, I recommend taking a size upDifferent country different material have different size standard .So our US size ,Europe size may have some different with yours.Pls measure foot length at first and then choose size correspondingly.The size number marked in shoe outsole is China size number, not European size.About chromatic aberrationColor difference might be caused by different monitors,lights and other factors.Please understand.About smellNew shoes that have just left the factory may smell of glue, but it is not a quality problem.I hope it can be understood.The smell will dissipate after being placed in a ventilated place for a period of time ***If you have any questions, please contact me.***NoticeUsually,order comes without shoes box,only a pair of shoes.But if you need a box,please contact us to increase the price.Refund and Return1.If there is any problem with the order,please contact with our Customer Service first.We will try our best to help you.2.All the items must be returned in original condition,otherwise we will refuse to refund.3.The buyer is responsible for all charges occurred in returning process.Feedback1.If you are satisfied with your order, please leave us all 5 stars including Item as Described. Communication and Shipping Speed.2.if you think we can do better,please contact with our Customer Service first.We will give you a satisfied answer.Men's Casual Shoes Light Non-slip Loafer Flat Shoes Outdoor Sneakers Vulcanized Shoes for Men Sapatos Formais MasculinosMen's Breathable Casual Canvas Slip Shoes Comfort Slip-on Loafer Soft Penny Loafers for Men Lightweight Driving Boat Shoes
-  Updated: 2026-03-14T10:58:42Z
+  Updated: 2026-03-22T00:35:43Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -1932,7 +1932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S70a9757088d94c34ab68f82b593689464.webp?v=1756033988
     Price: €34.99 EUR
 - [M&T Wear - Men Sneakers Casual Shoes Men Flats Zapatillas Hombre Lightweight Pu Leather Breathable Shoe Mens White Sports Tenis Shoes](https://www.mtwear.store/products/men-sneakers-casual-shoes-men-flats-zapatillas-hombre-lightweight-pu-leather-breathable-shoe-mens-white-sports-tenis-shoes): Step onto the field with confidence in the M&T Wear Men’s Cricket Shoes, designed to combine comfort, durability, and style. Perfect for cricket enthusiasts and casual sports activities, these low-top shoes offer a secure lace-up closure and a breathable PU upper that keeps your feet comfortable during long hours of play. The EVA cushioned insole absorbs impact while the rubber outsole provides excellent traction on different surfaces. Lightweight yet durable, these shoes are ideal for both indoor and outdoor cricket sessions. Key Features: Brand: M&T Wear Type: Men’s Casual / Cricket Shoes Closure: Lace-Up with anterior frenulum Upper Material: PU for durability and breathability Lining Material: PVC Insole Material: EVA cushioned for comfort Outsole Material: Rubber for reliable grip Heel Type: Flat, low-top design Pattern: Solid Style: Cross-tied, sporty, casual Upper Fixing Method: Sticking Upper Coverage: Not above the ankle Waterproof: No Metal Toe Cap: No Seasons: Suitable for Spring, Summer, Autumn, and Winter Available Sizes: EU 34 – 50 (Heel-to-toe length: 22 cm – 30 cm) Why Choose MHWEER Cricket Shoes:✔ Lightweight and breathable PU upper for long-lasting comfort✔ EVA cushioned insole for shock absorption✔ Durable rubber outsole ensures stability and traction✔ Low-top design for mobility and freedom of movement
-  Updated: 2026-03-14T10:58:52Z
+  Updated: 2026-03-22T00:35:52Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2010,7 +2010,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8f80b025da62482a9580f41ebec80c88B.webp?v=1756033990
     Price: €49.99 EUR
 - [M&T Wear- New Soft Leather Flat Shoes Women's Loafers Flats Casual Shoes Women Footwear Female White Zapatos De Mujer](https://www.mtwear.store/products/woman-shoes-2025-new-soft-leather-flat-shoes-womens-loafers-flats-casual-shoes-women-footwear-female-white-zapatos-de-mujer): Step into effortless elegance with the M&T Wear Elegant Women’s Slip-On Flats, designed for everyday wear without compromising on style. These flats feature a classic round toe and woven split leather upper, offering a refined look for casual outings or smart-casual occasions. Constructed with a cushioned PU insole and durable rubber outsole, these flats provide all-day comfort while maintaining a sleek, minimalist silhouette. The easy slip-on design ensures convenience and a perfect fit. Key Features: Brand: M&T Wear Type: Women’s Flats / Slip-On Closure: Slip-On Upper Material: Premium split leather with woven design Lining Material: None Insole Material: Cushioned PU for comfort Outsole Material: Durable rubber Pattern: Solid Style: Elegant, minimalist, casual Toe Shape: Round toe Season: Spring & Autumn Fit: True to size Upper Fixing Method: Sticking Waterproof: No Metal Toe Cap: No Available Sizes:EU 34 – 48 (Heel-to-toe length: 22.0 cm – 29.0 cm) Why You’ll Love Them:✔ Elegant woven design for a refined, stylish look✔ Cushioned PU insole for all-day comfort✔ Easy slip-on design for effortless wear
-  Updated: 2026-03-14T10:59:12Z
+  Updated: 2026-03-22T00:36:13Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2176,7 +2176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S347dc1259e744848b93480d0dd8190fdI.webp?v=1756033989
     Price: €39.99 EUR
 - [M&T Wear - Women's Shoes New PU Leather Comfortable Casual Sports Shoes Fashionable Versatile Flat White Shoes](https://www.mtwear.store/products/womens-shoes-2024-new-pu-leather-comfortable-casual-sports-shoes-fashionable-versatile-flat-white-shoes): Step into comfort and style with the M&T Wear Women’s Korean-Style Casual Loafers. Designed with a sleek low-top silhouette and crafted from high-quality microfiber, these lace-up loafers are perfect for spring, summer, and autumn wear. The lightweight build, cushioned EVA insole, and waterproof function make them a versatile choice for daily outings, casual walks, or travel. Key Features: Brand: M&T Wear Type: Women’s loafers / casual flats Closure: Lace-up for secure fit Upper Material: Microfiber leather Lining Material: Polyurethane Insole Material: EVA for comfort Outsole Material: PVC for flexibility and durability Toe Shape: Round for natural comfort Style: Korean-inspired, modern casual Upper Height: Low-top design Function: Waterproofing for added protection Season: Spring, Summer, Autumn Fit: True to size – choose your normal size Why You’ll Love It:✔ Lightweight and breathable for all-day wear✔ Waterproof function keeps feet protected✔ Minimalist Korean-style design that pairs easily with jeans, trousers, or casual dresses
-  Updated: 2026-03-14T10:59:19Z
+  Updated: 2026-03-22T00:36:19Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2230,7 +2230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S13dace0458374a83b85986885e19bd16c.webp?v=1756033989
     Price: €49.99 EUR
 - [M&T Wear- New Summer Woman Wedding Shoes Pink Super High Heels Sexy Party Shoes Women Sandals](https://www.mtwear.store/products/2025-new-summer-woman-wedding-shoes-pink-super-high-heels-sexy-party-shoes-women-sandals): Step out in style with the M&T Wear Women’s Super High Strap Sandals, designed for women who want to make a statement. Featuring front and rear buckle straps, a unique heel design, and an open side vamp, these sandals combine sexy elegance with modern flair—perfect for parties and evening events. Crafted with premium microfiber uppers, a cushioned PU insole, and a durable rubber outsole, these sandals offer comfort without compromising on style. The super high heel elevates your look, while the secure buckle straps ensure a confident fit. Key Features: Brand: M&T Wear Type: Women’s Sandals / High Heels Closure: Front & rear buckle straps Heel Height: Super High (8 cm and up) Heel Type: Unique / Statement heel Toe Shape: Open toe / side vamp Upper Material: Premium microfiber Lining Material: PU Insole Material: Cushioned PU for comfort Outsole Material: Durable rubber Pattern: Solid Style: Sexy, statement, party-ready Upper Coverage: Above ankle (not to the knee) Fit: True to size Platform: None Waterproof: No Why You’ll Love Them:✔ Striking high heel with unique design for attention-grabbing style✔ Comfortable PU insole for all-night wear✔ Secure buckle straps for a perfect fit
-  Updated: 2026-03-14T10:59:23Z
+  Updated: 2026-03-22T00:36:23Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2264,7 +2264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S6902ebeff7f14cf69be643c742532138M.webp?v=1756033987
     Price: €44.99 EUR
 - [M&T Wear - New Party Banquet High Heels For Women Temperament Single Shoes 10CM 12CM Fashion Pointed Laser Holographic Summer Pumps](https://www.mtwear.store/products/2025-new-party-banquet-high-heels-for-women-temperament-single-shoes-10cm-12cm-fashion-pointed-laser-holographic-summer-pumps): Turn heads with the M&T Wear Women’s T-Strap Stiletto Pumps, designed for women who love elegance with a bold, confident edge. Featuring a pointed toe, slim stiletto heel, and stylish T-strap silhouette, these pumps are perfect for office wear, career events, or sophisticated casual outings. Crafted from premium PU leather with a cushioned insole and durable rubber outsole, these pumps combine style, comfort, and all-day wearability. The subtle platform ensures added balance without compromising sleek lines. Key Features: Brand: M&T Wear Type: Women’s Pumps / Stiletto Heels Closure: Slip-On T-Strap Heel Height: Super High (10–12 cm) Heel Type: Thin stiletto heel Platform: 0.5 cm Toe Shape: Pointed toe for a refined look Upper Material: PU leather Lining Material: PU Insole Material: Cushioned PU for comfort Outsole Material: Rubber for durability Pattern: Solid Style: Classic, sexy, professional Upper Coverage: Not above ankle Season: Spring & Autumn Fit: True to size Handmade: Yes Waterproof: No Why You’ll Love Them:✔ Elegant T-strap design for a modern, feminine silhouette✔ Cushioned PU insole for long-lasting comfort✔ Perfect for office, career events, or stylish casual looks Available Sizes:EU 33 – 48 (Heel-to-toe length: 21.5 cm – 29 cm)
-  Updated: 2026-03-14T11:00:08Z
+  Updated: 2026-03-22T00:37:08Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2470,7 +2470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S846e4f02db504d7d93b95424bb8a1a4bI.webp?v=1756033992
     Price: €49.99 EUR
 - [M&T Wear - Women Pumps 2025 New Pointed Toe Heels Women Elegant Party Rivet High Heels Shoes for Women Fashion Sexy Wedding Shoes Bride](https://www.mtwear.store/products/women-pumps-2025-new-pointed-toe-heels-women-elegant-party-rivet-high-heels-shoes-for-women-fashion-sexy-wedding-shoes-bride): Step into confidence with the M&T Wear Women’s Super High Heels, designed for bold, fashion-forward women who love timeless elegance with a modern twist. Featuring a pointed toe, sleek slip-on design, and ultra-slim stiletto heel, these pumps are perfect for adding height and sophistication to your look. Crafted from high-quality PU leather with a soft lining and cushioned insole, these shoes balance chic style with everyday wearability. Whether paired with a dress for a night out or styled with smart trousers for a polished day look, these pumps are a wardrobe must-have. Key Features: Brand: M&T Wear Type: Women’s Pumps (Fashion Heels) Closure: Slip-On Heel Height: Super High (8 cm & up) Heel Type: Thin stiletto heel Toe Shape: Pointed toe for sleek elegance Upper Coverage: Above the ankle (not reaching the knee) Upper Material: Premium PU leather Lining Material: PU Insole Material: Cushioned PU Outsole Material: Durable rubber grip Pattern: Solid Style: Fashion / Casual chic Season: Spring & Autumn Fit: True to size Handmade: Yes Waterproof: No Platform: None Why You’ll Love Them:✔ Ultra-slim super high heel for a striking look✔ Timeless pointed toe design✔ Lightweight, cushioned comfort in every step✔ Versatile for casual outings, parties, or evening wear Available Sizes:EU 34 – 45 (Heel-to-toe length: 21.8 cm – 27.3 cm)✔ US 5 – 11✔ UK 2.5 – 9✔ JP 22 – 27.5
-  Updated: 2026-03-14T11:00:17Z
+  Updated: 2026-03-22T00:37:18Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2548,7 +2548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S000021a5bc254b19a28ac53a70c7c7e23.webp?v=1756033989
     Price: €41.99 EUR
 - [M&T Wear - Women Evening Party High Heels New  Pumps Elegant Ladies Pointed To Black  Strappy Stripper Shoes for Women](https://www.mtwear.store/products/women-evening-party-high-heels-new-pumps-elegant-ladies-pointed-to-black-strappy-stripper-shoes-for-women): Elevate your look with the M&T Wear Women’s British-Style Pumps, crafted with a sleek pointed toe and elegant thin high heels. Designed in a timeless slip-on silhouette, these PU leather pumps balance sophistication with everyday wearability. Perfect for spring and autumn seasons, they’re versatile enough for casual outings, office wear, or evenings out. Key Features: Brand: M&T Wear Type: Women’s Pumps / Loafers Closure: Slip-On for effortless wear Upper Material: Premium PU leather Lining Material: PVC Insole Material: EVA cushioning for comfort Outsole Material: Durable rubber Heel Height: High (5–8 cm) for a sleek lift Heel Type: Thin Heels for elegance Toe Shape: Pointed toe for a refined look Style: British-inspired classic pumps Season: Spring & Autumn Fit: True to size Handmade: Yes Waterproof: No Why You’ll Love Them:✔ Timeless British-style design with modern comfort✔ Lightweight and cushioned EVA insole for long wear✔ Perfectly versatile – from business casual to evening chic Available Sizes:EU 36 – 48 (Heel-to-toe length: 23cm – 29cm)
-  Updated: 2026-03-14T11:00:30Z
+  Updated: 2026-03-22T00:37:30Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2650,7 +2650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sec23a0a1aeb846c98dba4493a44a9244Q.webp?v=1756033993
     Price: €49.99 EUR
 - [M&T Wear- Women's Shoes 2025 Casual Sneakers Breathable Anti Slip Chunky Sole Affordable free shippiing shoes](https://www.mtwear.store/products/womens-shoes-summer-2025-casual-sneakers-breathable-anti-slip-chunky-sole-affordable-free-shippiing-shoes): Add effortless comfort to your everyday style with the M&T Wear Women’s Printed Casual Flats. Designed with a lightweight fabric upper and soft EVA insole, these slip-on flats are perfect for spring and autumn wear. The round toe design and flexible PVC outsole provide lasting comfort, while the simple printed pattern keeps the look chic yet versatile for any casual occasion. Key Features: Brand: M&T Wear Type: Women’s casual flats Closure: Easy slip-on design Upper Material: Breathable fabric with printed design Insole Material: Cushioned EVA for comfort Outsole Material: Flexible PVC for durability Toe Shape: Rounded for natural fit Style: Minimalist, concise, casual Season: Ideal for spring and autumn Fit: True to size – order your usual size Waterproof: No Metal Toe Cap: None Size Guide (Approx. Foot Length): EU 35.5 / US 5.5 → 22.5 cm (8.86 in) EU 36 / US 6 → 23 cm (9.06 in) EU 37 / US 6.5 → 23.5 cm (9.25 in) EU 38 / US 7 → 24 cm (9.45 in) EU 39 / US 7.5 → 24.5 cm (9.65 in) EU 40 / US 8 → 25 cm (9.84 in) EU 41 / US 9 → 25.5 cm (10.04 in) EU 42 / US 9.5 → 26 cm (10.24 in) EU 43 / US 10 → 26.5 cm (10.43 in) EU 44 / US 10.5 → 27 cm (10.63 in) EU 45 / US 11 → 27.5 cm (10.83 in) EU 46 / US 11.5 → 28 cm (11.02 in) EU 47 / US 12 → 28.5 cm (11.22 in) Dear friends, thanks for shopping in BUQU shoes store! We sincerely hope that from the moment you open the packaging, you will feel happy and satisfied. If you are not satisfied with the product you received, I hope you will not give us negative reviews at will. Please contact us, we will definitely provide you with a satisfactory solution! Thank you very much, thank you
-  Updated: 2026-03-14T11:00:39Z
+  Updated: 2026-03-22T00:37:40Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2728,7 +2728,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se7006ea836a64194b4b27a11f61fea5af.webp?v=1756033991
     Price: €39.99 EUR
 - [M&T Wear- Women Casual Shoes 2025 New Fashion Loafers Large Size Casual Medium Heel Sneakers Women Round Toe Leopard Print Slip-On Shoes](https://www.mtwear.store/products/women-casual-shoes-2025-new-fashion-loafers-large-size-casual-medium-heel-sneakers-women-round-toe-leopard-print-slip-on-shoes): Bring timeless elegance to your summer wardrobe with the M&T Wear Women’s Roman-Style Ballet Flats. Designed with a soft flannel upper and a classic round toe, these slip-on flats combine everyday comfort with effortless chic. The lightweight rubber sole offers flexibility and durability, making them perfect for casual outings, shopping, or daily wear. Key Features: Brand: M&T Wear Type: Women’s ballet flats Closure: Easy slip-on design Upper Material: Soft flannel with Roman-inspired styling Toe Shape: Rounded for comfort Insole Material: PU for cushioned support Outsole Material: Durable rubber for reliable traction Season: Ideal for summer Style: Casual and chic, Roman-inspired design Waterproof: No Metal Toe Cap: None Fit: True to size – order your regular size.
-  Updated: 2026-03-14T11:00:48Z
+  Updated: 2026-03-22T00:37:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2798,7 +2798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se1e93093b9b049c6b1730e6143724f66c.webp?v=1756033991
     Price: €40.00 EUR
 - [M&T Wear - Women Sports Shoes Breathable Lightweight Sneakers Anti-slip Flats Outdoor Running Walking Shoes Female Vulcanized Shoes](https://www.mtwear.store/products/women-casual-sports-shoes-breathable-lightweight-sneakers-anti-slip-flats-outdoor-running-walking-shoes-female-vulcanized-shoes): Step into comfort and style with the M&T Wear Embroidered Casual Sneakers. Designed with a breathable air mesh upper and lightweight construction, these sneakers are perfect for summer wear. The embroidered geometric design adds a touch of fashion while the flat rubber sole ensures all-day comfort. Ideal for casual outings, daily wear, and travel. Key Features: Brand: M&T Wear Closure Type: Lace-up for a secure fit Upper Material: Breathable air mesh with embroidery Lining Material: Soft mesh for comfort Insole Material: Cushioned fabric Outsole Material: Durable rubber with anti-slip grip Heel Height: Flat (≤1 cm) for easy all-day wear Pattern Type: Geometric embroidered design Season: Perfect for summer Coverage: Low-cut, not above the ankle Waterproof: No Toe Cap: Non-metal Accessories: None Fit: True to size – choose your regular size. Size Guide (Approx. Foot Length): EU 35.5 / US 5.5 → 22.5 cm (8.86 in) EU 36 / US 6 → 23.0 cm (9.06 in) EU 37 / US 6.5 → 23.5 cm (9.25 in) EU 38 / US 7 → 24.0 cm (9.45 in) EU 38.5 / US 7.5 → 24.5 cm (9.65 in) EU 39 / US 8 → 25.0 cm (9.84 in) EU 40 / US 9 → 25.5 cm (10.04 in) EU 40.5 / US 9.5 → 26.0 cm (10.24 in) EU 41.5 / US 10 → 26.5 cm (10.43 in)
-  Updated: 2026-03-14T11:01:00Z
+  Updated: 2026-03-22T00:38:01Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2900,7 +2900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S372179d983244975a285861846c4fad6f.webp?v=1756033993
     Price: €44.99 EUR
 - [M&T Wear- Cool Tops Asia Button Up Korean Shirt](https://www.mtwear.store/products/man-shirt-white-plain-hip-hop-shirts-for-men-trend-regular-cool-tops-asia-button-up-original-korean-popular-clothes-summer-s): Step up your everyday style with the M&T Wear Men’s Solid Casual Half-Sleeve Shirt, designed for comfort and effortless sophistication. Made from a breathable blend of cotton, polyester, and spandex, this lightweight shirt is ideal for spring and summer wear. Its modern solid-color design, turn-down collar, and relaxed fit make it perfect for shopping, casual outings, or weekend gatherings. Key Features: Material: Cotton, Polyester, Spandex blend for comfort and durability Fabric Type: Poplin with refined weaving Style: Chic and casual with solid color finish Closure Type: Single-breasted, full front opening Collar: Classic turn-down collar Sleeve Length: Half sleeves with regular cut Gender: Men Size Guide:(Please allow 1–3 cm difference due to manual measurement. 1 cm = 0.39 inch) ✅ S: Bust 108 cm | Shoulder 53 cm | Sleeve 22 cm | Length 71 cm | Suitable for 40–47.5 kg ✅ M: Bust 112 cm | Shoulder 54 cm | Sleeve 23 cm | Length 72 cm | Suitable for 47.5–57.5 kg ✅ L: Bust 116 cm | Shoulder 55 cm | Sleeve 24 cm | Length 73 cm | Suitable for 52.5–62.5 kg ✅ XL: Bust 120 cm | Shoulder 56 cm | Sleeve 25 cm | Length 74 cm | Suitable for 60–70 kg ✅ 2XL: Bust 124 cm | Shoulder 57 cm | Sleeve 26 cm | Length 75 cm | Suitable for 70–77.5 kg ✅ 3XL: Bust 128 cm | Shoulder 58 cm | Sleeve 27 cm | Length 76 cm | Suitable for 77.5–87.5 kg ✅ 4XL: Bust 132 cm | Shoulder 59 cm | Sleeve 28 cm | Length 77 cm | Suitable for 87.5–95 kg
-  Updated: 2026-03-14T11:01:12Z
+  Updated: 2026-03-22T00:38:12Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -2990,7 +2990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa68f5e7a88534b5bb3d1732f17ba81caF.webp?v=1756033994
     Price: €39.99 EUR
 - [M&T Wear - Fashion High Heels Women Party Shoes Colorful Brand Modern Ladies Wedges 7cm Pumps Green Purple Blue Plus Size 42 D313](https://www.mtwear.store/products/2025-fashion-high-heels-women-party-shoes-colorful-brand-modern-ladies-wedges-7cm-pumps-green-purple-blue-plus-size-42-d313): Elevate your everyday look with M&T Wear Women’s Wedge Pumps—a perfect blend of elegance and comfort. Designed with a sleek pointed toe and a modern 7cm wedge heel, these pumps give you stylish height without the pain of stilettos. Why You’ll Love Them Effortless Style: Classic pointed toe with a chic, solid finish Comfort Lift: 7cm wedge heel + low platform for balanced support Premium Craft: Microfiber upper, soft microfiber lining, and bonded leather insole Made to Last: Durable rubber outsole for steady steps Easy Wear: Secure zip closure, true-to-size fit Handmade Finish: Carefully crafted for quality and detail Season-Ready: Ideal for spring and autumn outfits Sizes: Available in EU 34–42 (US 5–9.5) with precise size guide for the right fit.
-  Updated: 2026-03-14T11:01:28Z
+  Updated: 2026-03-22T00:38:29Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3124,7 +3124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S7ac0244d7134478ab75dce027cc417b3a.webp?v=1756547699
     Price: €49.99 EUR
 - [M&T Wear - Fashion New Sandals Women Shoes Summer Casual Walking Shoes Party Sandals Beach Women Shoes Outdoor Female Sandal Women Footwear](https://www.mtwear.store/products/fashion-new-sandals-women-shoes-summer-casual-walking-shoes-party-sandals-beach-women-shoes-outdoor-female-sandal-women-footwear): Bring bold style to your step with M&T Wear Gladiator Sandals, crafted for women who want both comfort and statement fashion. The PU upper gives a sleek finish, while the gladiator design adds an edge that pairs effortlessly with dresses, shorts, or casual jeans. Key Features Statement Design: Classic gladiator straps for a confident, stylish look Durable Build: High-quality PU upper designed to last All-Day Comfort: Lightweight fit for casual wear and summer outings Handmade Detail: Each pair carefully finished Safe Choice: Free from harmful chemicals Versatile Wear: Perfect for spring and summer styles Sizes: Available in EU 35–45 (US 5.5–11). Size guide with exact foot lengths ensures you get the right fit.
-  Updated: 2026-03-14T11:01:45Z
+  Updated: 2026-03-22T00:38:45Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3258,7 +3258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S6095aa951ec7481c9b9a723473dc61d6R.webp?v=1756547701
     Price: €34.99 EUR
 - [M&T Wear - Women Fashion Casual Party Club Shoes Bowknot Design Platform Wedge Slippers Sandals Women Summer Fashion Flip Flops](https://www.mtwear.store/products/women-fashion-casual-party-club-shoes-bowknot-design-platform-wedge-slippers-sandals-women-summer-fashion-flip-flops): Step into summer with confidence in M&T Wear Canvas Wedge Heels, where comfort meets sky-high style. Designed with a breathable canvas upper and a bold super-high wedge heel, these shoes are perfect for adding instant height without compromising stability. Key Features Summer Essential: Lightweight canvas upper, breathable for hot days Bold Height: Super-high wedge heel (8cm+) for an elongated silhouette Effortless Fit: Easy pull-on style for convenience Durable Sole: Rubber outsole for secure grip outdoors Carefully Crafted: Handmade detail and quality finishing Safe Choice: Free from harmful chemicals Sizes: Available in EU 33–45 (US 4.5–11) with precise measurements for the right fit.
-  Updated: 2026-03-14T11:01:53Z
+  Updated: 2026-03-22T00:38:53Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3328,7 +3328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S95505f0be51c42c8b183d0fa5135b862B.webp?v=1756547700
     Price: €34.99 EUR
 - [M&T Wear - Women's Boots Platform Boots Autumn Black High Heels Boots New Sexy Over Knee Boot Pointed Zip Party Shoes Plus Size Women Shoes](https://www.mtwear.store/products/womens-boots-platform-boots-autumn-black-high-heels-boots-new-sexy-over-knee-boot-pointed-zip-party-shoes-plus-size-women-shoes): Make an entrance with M&T Wear Over-the-Knee Boots, designed for women who love bold, sexy style with a touch of edge. Featuring a daring 11cm stiletto heel paired with a dramatic platform, these boots combine height, confidence, and comfort for parties, nights out, or statement streetwear looks. Key Features Fierce Design: Sleek over-the-knee cut with pointed toe and side zipper Sky-High Style: 11cm thin stiletto heel with 7cm+ platform for balance Premium Build: Durable PU upper, soft PU lining, and cushioned insole Practical Touch: Waterproof construction and solid rubber outsole Fashion Element: Platform base adds height and drama Handmade Finish: Carefully crafted for detail and durability Versatile Wear: Perfect for spring and autumn seasons, parties, or statement fashion looks Sizes: Available in EU 33–50 (US 4.5–14). Plus-size friendly with a detailed size chart for the perfect fit. Important NoticeFoot length is not the insole length.Foot length is not the outsole length.Foot length < Insole Length < Outsole LengthFor SizePlease choose size according to the foot length (from heel to toe )!If you have wide feet, I recommend taking a size upDifferent country different material have different size standard .So our US size ,Europe size may have some different with yours.Pls measure foot length at first and then choose size correspondingly.The size number marked in shoe outsole is China size number, not European size.About chromatic aberrationColor difference might be caused by different monitors,lights and other factors.Please understand.About smellNew shoes that have just left the factory may smell of glue, but it is not a quality problem.I hope it can be understood.The smell will dissipate after being placed in a ventilated place for a period of time ***If you have any questions, please contact me.***
-  Updated: 2026-03-14T11:02:09Z
+  Updated: 2026-03-22T00:39:08Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3454,7 +3454,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc52290caba674d5784698b5706a77e98u.webp?v=1756547701
     Price: €69.99 EUR
 - [M&T Wear - Women's Flat Shoes New Orthopedic Loafers Woman Moccasins Stitched Slip On Ballet Flats For Women Nurse Shoes ](https://www.mtwear.store/products/2025-womens-flat-shoes-new-orthopedic-loafers-woman-moccasins-stitched-slip-on-ballet-flats-for-women-nurse-shoes-): Slip into effortless comfort with M&T Wear Slip-On Loafers, the perfect blend of casual style and everyday ease. Designed with a soft PU upper and cushioned latex foam insole, these loafers keep your steps light whether you’re heading to work, errands, or casual outings. Key Features Easy Slip-On: Hassle-free wear for busy days Comfort First: Latex foam insole for cushioned steps Stylish Touch: Subtle totem design adds unique character Everyday Wear: Durable PU upper with stitched detail All-Season Ready: Ideal for spring and autumn use Steady Steps: Rubber outsole for traction and durability Classic Shape: Round toe for a relaxed, versatile look Occasion: Perfect for casual daily wear, pairing easily with jeans, trousers, or dresses.
-  Updated: 2026-03-14T11:02:26Z
+  Updated: 2026-03-22T00:39:27Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3604,7 +3604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Scdded0b693884125ba67d47de1c17fcfM.webp?v=1756547705
     Price: €39.99 EUR
 - [M&T Wear -  Sexy Pointed Toe Women Boots Autumn High Heels Shoes Luxury Chelsea Boots Party Stiletto Pumps New Plus Size 40 Mujer Botas](https://www.mtwear.store/products/2025-sexy-pointed-toe-women-boots-autumn-high-heels-shoes-luxury-chelsea-boots-party-stiletto-pumps-new-plus-size-40-mujer-botas): Turn heads this winter with M&T Wear Mid-Calf Boots, crafted for bold style and modern sophistication. Featuring a sleek pointed toe, slim high heel, and chic buckle accent, these boots bring a confident edge to any outfit—perfect for nights out, parties, or dressing up your everyday look. Key Features Elegant Design: Pointed toe and slim silhouette for a sexy, refined style High Heel Confidence: 5–8cm thin heel for height with poise Chic Accent: Modern buckle detail adds character and flair Premium Feel: PU upper with soft microfiber lining for comfort Durable Build: Rubber outsole for steady steps Winter-Ready: Designed for cold-weather outfits without sacrificing fashion Easy Wear: Slip-on closure with stitched finish Occasion: Ideal for winter parties, evenings out, or stylish daily wear when you want to stand out. p{margin-block-start: 0; margin-block-end: 0}
-  Updated: 2026-03-14T11:02:34Z
+  Updated: 2026-03-22T00:39:34Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3658,7 +3658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Scb24218f901149479c84aad47c2936daZ.webp?v=1756547703
     Price: €59.99 EUR
 - [M&T Wear - Boots High Top High Heels Dance Ballroom Ladies Shoes Girl Fashion Party Mesh Cutout Heeled Sandals](https://www.mtwear.store/products/womens-sandals-2025-summer-boots-high-top-high-heels-dance-ballroom-ladies-shoes-girl-fashion-party-mesh-cutout-heeled-sandals): Step into the spotlight with M&T Wear Stiletto Sandals, the perfect pair for parties, nights out, and special occasions. With a daring super-high heel and sleek lace-up ankle strap, these sandals combine elegance, confidence, and fashion-forward style. Key Features Party-Ready Design: Sexy ankle-strap silhouette with lace-up closure Sky-High Heel: Thin stiletto heel (8cm+) for bold height and allure Premium Finish: PU upper with soft PU lining for comfort Cushioned Steps: EVA insole for added support Secure Grip: Rubber outsole for steady footing Modern Style: Covered side vamp with a chic, minimal look True Fit: Designed to fit true to size Occasion: Ideal for parties, evening events, and occasions where style comes first.
-  Updated: 2026-03-14T11:02:38Z
+  Updated: 2026-03-22T00:39:38Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3700,7 +3700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf76b3ec5f91b4d31822660ac5a38691bp.webp?v=1756547703
     Price: €44.99 EUR
 - [M&T Wear - Summer Women Shoes Casual Square Head Open Toe Transparent High Heels Women Sandals Party Dress Women Slippers Zapatos De Mujer](https://www.mtwear.store/products/summer-women-shoes-casual-square-head-open-toe-transparent-high-heels-women-sandals-party-dress-women-slippers-zapatos-de-mujer): Elevate your style with these handmade slip-on pumps, designed to blend timeless elegance with everyday wearability. Featuring a round toe, slim high heel, and sleek PU finish, these pumps are perfect for casual outings, office wear, or evening occasions. Key Features Elegant & Versatile: Basic pump design with a fashionable round toe Effortless Wear: Slip-on closure for easy styling Handmade Quality: Crafted with care for lasting durability High & Sleek: Thin heel (5cm–8cm) adds height without compromising comfort Soft Comfort: PU lining with cushioned insole Durable Grip: Rubber outsole for stability True to Size: Fits naturally to your foot shape Season-Ready: Ideal for Spring and Autumn wear Occasion: Casual, office, semi-formal events, or day-to-night transitions.
-  Updated: 2026-03-14T11:02:48Z
+  Updated: 2026-03-22T00:39:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3778,7 +3778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Scc1ba84def054b85bde7150c39d8353f2.webp?v=1756547703
     Price: €39.99 EUR
 - [M&T Wear - Women LED Shoes Light Up Sneakers USB Recharging Fiber OPTIC Cloth Elastic Sole Glowing Luminous Flashing  Luxury Party Shoes](https://www.mtwear.store/products/women-led-shoes-light-up-sneakers-usb-recharging-fiber-optic-cloth-elastic-sole-glowing-luminous-flashing-luxury-party-shoes): Step up your style game with M&T Wear Men’s Lace-Up Flats, designed for comfort, durability, and a touch of punk edge. With a soft sheepskin insole, cotton lining, and flat platform sole, these shoes are perfect for casual wear, parties, or showing off your unique style. Key Features Punk Style: Sleek round toe with lace-up closure for a bold look All-Day Comfort: Sheepskin insole and cotton lining keep your feet cozy Durable Build: Artificial leather upper with injection molding for lasting wear Steady Steps: Rubber outsole ensures grip and stability Season Ready: Ideal for Spring and Autumn outings True to Size: Designed to fit naturally and comfortably Occasion: Casual outings, parties, or any event where style meets comfort.
-  Updated: 2026-03-14T11:02:58Z
+  Updated: 2026-03-22T00:39:57Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3856,7 +3856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S24bf5551cf2d41699d23c894ce9aa6bdI.webp?v=1756547704
     Price: €70.00 EUR
 - [M&T Wear - Sports Shoes for Women Sneakers Athletic Trends 2025 High on Platform Woman Footwear Deals Cheap Walking Comfortable and Elegant](https://www.mtwear.store/products/sports-shoes-for-women-sneakers-athletic-trends-2024-high-on-platform-woman-footwear-deals-cheap-walking-comfortable-and-elegant): Step out in style and comfort with M&T Wear Lace-Up Shoes, designed for everyday elegance. Featuring a breathable mesh upper, medium heel, and secure lace-up fit, these shoes are perfect for casual outings, office wear, or stylish daily adventures. Key Features Breathable Design: Mesh and PU upper keeps feet comfortable and stylish Medium Heel: 3–5cm heel adds subtle lift without sacrificing comfort Secure Fit: Lace-up closure with straps across the instep and big toe Soft Interior: PU lining and insole provide cushioned support Durable Outsole: Rubber sole ensures stability and traction Versatile Style: Round toe, low-cut ankle design for everyday wear True to Size: Designed to fit naturally and comfortably Occasion: Ideal for casual wear, office, and spring/autumn outings. Sizes: Available in EU 33–45 with detailed measurements for the perfect fit. Please note:1. The Size Mark On The shoes Is Chinese Size Number.2. It is recommended that you choose the right size by measuring your foot length.3. If your feet are fat or wide, it is recommended that you choose to increase 1-2 size.4. If you have problem of the item, please contact us,We will answer you in detail after seeing your message. Heel height: 3 cm ✅ EUR / China Size 35 = Foot Length 22.5 cm. ✅ EUR / China Size 36 = Foot Length 23.0 cm. ✅ EUR / China Size 37 = Foot Length 23.5 cm. ✅ EUR / China Size 38 = Foot Length 24.0 cm. ✅ EUR / China Size 39 = Foot Length 24.5 cm. ✅ EUR / China Size 40 = Foot Length 25.0 cm.
-  Updated: 2026-03-14T11:03:13Z
+  Updated: 2026-03-22T00:40:13Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -3982,7 +3982,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S917b0286b4ce4ced88481a3e14a66b4c8.webp?v=1756547706
     Price: €49.99 EUR
 - [M&T Wear - Women Shoe Spring Autumn Casual Flats Female Thick Sole Breathable White Vulcanized Shoes](https://www.mtwear.store/products/sneakers-for-women-2024-new-fashion-platform-shoe-spring-autumn-casual-flats-female-thick-sole-breathable-white-vulcanized-shoes): Step out in effortless style with M&T Wear Low-Heel Loafers, designed for comfort, everyday elegance, and timeless versatility. Featuring a soft PU upper and a low 1–3cm heel, these loafers are perfect for work, casual outings, or designer-inspired everyday looks. Key Features Classic Style: Sleek loafers with a minimalist design for versatile wear Comfortable Heel: Low 1–3cm heel for all-day ease Durable Build: PU upper ensures long-lasting wear Easy Wear: Slip-on design for convenience True to Size: Designed for a natural, comfortable fit Occasion Ready: Perfect for office, casual wear, or stylish everyday looks Sizes: Available in EU 34–46 with detailed measurements for the perfect fit.
-  Updated: 2026-03-14T11:03:19Z
+  Updated: 2026-03-22T00:40:20Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4036,7 +4036,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sbac0023d52d542c5b130186dad122289c.webp?v=1756547703
     Price: €49.99 EUR
 - [M&T Wears - Women Sneakers Spring New Luxury Flat Loafers Comfortable Slip on Soft Female Sneakers Lightweight Outdoor Shoes for Women](https://www.mtwear.store/products/women-sneakers-2025-spring-new-luxury-flat-loafers-comfortable-slip-on-soft-female-sneakers-lightweight-outdoor-shoes-for-women): Step out in everyday elegance with M&T Wear Lace-Up Shoes. Crafted with premium cow suede and accented with a striped fretwork pattern, these low-heel shoes combine comfort, style, and versatility—perfect for casual wear, office, or stylish daily outings. Key Features Unique Design: Striped fretwork detailing on cow suede upper adds subtle charm Comfortable Heel: Low 1–3cm heel ideal for all-day wear Secure Fit: Classic lace-up closure ensures a snug, adjustable fit Soft Interior: PU lining and insole provide gentle cushioning Durable Outsole: Rubber sole offers reliable grip and durability True to Size: Designed for natural, comfortable fit Season-Ready: Ideal for Spring and Autumn Occasion: Casual outings, office wear, and everyday stylish looks. Sizes: EU 34–45 (with detailed measurements for perfect fit).
-  Updated: 2026-03-14T11:03:40Z
+  Updated: 2026-03-22T00:40:41Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4210,7 +4210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S968f2b9994484cfa95d5ff2e38ffd993g.webp?v=1756547706
     Price: €39.99 EUR
 - [M&T Wear - Breathable Mesh Casual Shoes Woman  Heels   Loafers](https://www.mtwear.store/products/sneakers-for-women-2023-autumn-slip-on-breathable-mesh-casual-shoes-woman-heels-loafers): Add a splash of color to your wardrobe with M&T Wear Colorful Lace-Up Heels. Designed for style and comfort, these high-heel shoes feature a mixed-color PU upper, secure lace-up fit, and EVA cushioned insole—perfect for spring and autumn outings. Key Features Vibrant Style: Mixed-color PU upper for a bold, eye-catching look High Heel: 5–8cm heel adds elegance and lift Comfortable Fit: EVA insole and PU lining provide cushioning for all-day wear Secure Closure: Lace-up design ensures a snug and adjustable fit Durable Outsole: Rubber sole offers stability and grip True to Size: Designed for natural, comfortable wear Season-Ready: Perfect for Spring and Autumn Occasion: Casual outings, office wear, parties, or fashion-forward everyday looks. Sizes: EU 35–40 (with detailed measurements for accurate fit).
-  Updated: 2026-03-14T11:03:50Z
+  Updated: 2026-03-22T00:40:50Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4288,7 +4288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sce9eba951f3e4cc0aaa24c648642f060t.webp?v=1756547709
     Price: €59.99 EUR
 - [M&T Wear - sneaker women platform shoes female Genuine Leather Walking flat sandals for women Breathable Comfort Vacation shoes](https://www.mtwear.store/products/2021-summer-sneaker-women-platform-shoes-female-genuine-leather-walking-flat-sandals-for-women-breathable-comfort-vacation-shoes): Elevate your everyday look with M&T Wear Genuine Leather Lace-Up Shoes, crafted from premium cow leather for comfort, durability, and timeless style. With a low 1–3cm heel and secure lace-up fit, these shoes are perfect for casual outings, office wear, or everyday elegance. Key Features Premium Material: Genuine cow leather upper for long-lasting quality Comfortable Heel: Low 1–3cm heel ideal for all-day wear Cushioned Interior: EVA insole and PVC lining for extra comfort Secure Fit: Lace-up closure for adjustable and snug fit Durable Outsole: Rubber sole ensures stability and traction True to Size: Designed for natural, comfortable wear Season-Ready: Perfect for Spring and Autumn Occasion: Casual outings, office, and stylish everyday wear. Sizes: EU 33–45 (with detailed measurements for accurate fit).
-  Updated: 2026-03-14T11:03:58Z
+  Updated: 2026-03-22T00:40:58Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4350,7 +4350,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb757f524e79f4cc4bbcf3c6f871e783fc.webp?v=1756547706
     Price: €34.99 EUR
 - [M&T Wear - Tracksuit Costumes for Men 90s Hip Hop Shell Suit Costume Mens 80s Retro Tracksuit Jacket Disco Costume Windbreaker and Pants](https://www.mtwear.store/products/tracksuit-costumes-for-men-90s-hip-hop-shell-suit-costume-mens-80s-retro-tracksuit-jacket-disco-costume-windbreaker-and-pants): SPECIFICATIONS Brand Name: M&T Wear Origin: Mainland China (CN: Zhejiang) Gender: Unisex Item Type: Costume Sets (Top & Pants) Theme/Characters: Medieval Material: Polyester Craft of Weaving: Tat Source Type: Original Special Use: Costumes & Events Chemicals of Concern: None Choice: Yes 80s Windbreaker Tracksuit Details: Collar splicing design Threaded cuffs Pants with pockets Splicing of the sleeves Size Chart: .aplus-v2 .aplus-review-right-padding {padding-right: 0.1rem;}.aplus-v2 .aplus-review-right-padding {padding-right: 0.1rem;}.aplus-v2 .aplus-review-right-padding {padding-right: 0.1rem;}.aplus-v2 .aplus-review-right-padding {padding-right: 0.1rem;}.aplus-v2 .aplus-review-right-padding {padding-right: 0.1rem;}.aplus-v2 .aplus-review-right-padding {padding-right: 0.1rem;}
-  Updated: 2026-03-14T11:04:08Z
+  Updated: 2026-03-22T00:41:08Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4436,7 +4436,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sfc3525056c104aed9121960d4198c0d8O.webp?v=1756659743
     Price: €44.99 EUR
 - [M&T Wear - Men Running Tracksuits 2021 Track And Field Suits Quick Dry Marathon Athletics Sportswear Vest+Shorts Team Sport Set](https://www.mtwear.store/products/men-running-tracksuits-2021-track-and-field-suits-quick-dry-marathon-athletics-sportswear-vest-shorts-team-sport-set): SPECIFICATIONS Brand Name: WIROFKER CN: Guangdong Closure Type: Pullover Collar: O-Neck Craft of Weaving: Knit Department Name: Men Feature: Gym Fitness Suits Feature1: Track And Field Suits Feature2: Summer Thin Sports Sets Feature3: Vest+Shorts Breathable Tracksuits Fit: True to Size Gender: Men Hign-concerned Chemical: None Item Type: Men Jogging Suits Material: POLYESTER Origin: Mainland China Sport Type: Competition Running Sets Sport Type1: Basketball Football Training Suits Style: Compression Sport Suits Style1: Quick Dry Running Sets Type: Spring Summer Marathon Clothes size_info: {"sizeInfoList":[{"length":{"cm":"M","inch":"M"},"size":"M","vid":-63},{"length":{"cm":"L","inch":"L"},"size":"L","vid":-64},{"length":{"cm":"XL","inch":"XL"},"size":"XL","vid":-65},{"length":{"cm":"2XL","inch":"2XL"},"size":"2XL","vid":-66},{"length":{"cm":"3XL","inch":"3XL"},"size":"3XL","vid":-67},{"length":{"cm":"4XL","inch":"4XL"},"size":"4XL","vid":-68}]}
-  Updated: 2026-03-14T11:04:27Z
+  Updated: 2026-03-22T00:41:27Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4586,7 +4586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/H3b8c875a3c0a466abfe5c3f563efcb7fl.webp?v=1756659747
     Price: €44.99 EUR
 - [M&T Wear - Men's Suits 2025 Autumn Luxury Men's Clothing Sports Gym Sets Men Tracksuit Outdoor Sportswear Long Sleeves T-shirts+Shorts Sets](https://www.mtwear.store/products/mens-suits-2025-autumn-luxury-mens-clothing-sports-gym-sets-men-tracksuit-outdoor-sportswear-long-sleeves-t-shirts-shorts-sets): SPECIFICATIONS Brand Name: M&T Wear Origin: Mainland China (CN: Guangdong) Applicable Scene: Daily Wear Applicable Season: Spring & Autumn Style: Casual Material: Polyester Craft of Weaving: Knit Closure Type: None Thickness: Thin Full Opening: Yes Chemicals of Concern: None Choice: Yes Size Information: M: Length 44 cm / 17.32 in L: Length 45 cm / 17.72 in XL: Length 46 cm / 18.11 in XXL: Length 49 cm / 19.29 in XXXL: Length 51 cm / 20.08 in 4XL: Length 52 cm / 20.47 in 5XL: Length 54 cm / 21.26 in
-  Updated: 2026-03-14T11:04:32Z
+  Updated: 2026-03-22T00:41:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4632,7 +4632,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S80a43809f03c439ebabda4025c20d19e5.webp?v=1756659744
     Price: €39.99 EUR
 - [M&T Wear - Men's New Summer Suit 2025 Korean Casual T-shirt + Shorts Suit Men's Tracksuit Solid Color Tracksuit Loose Suit Two-piece Set](https://www.mtwear.store/products/mens-new-summer-suit-2025-korean-casual-t-shirt-shorts-suit-mens-tracksuit-solid-color-tracksuit-loose-suit-two-piece-set): SPECIFICATIONS Brand Name: M&T Wear Applicable Scene: Daily Wear Applicable Season: Spring & Summer Gender: Men Style: Casual Material: Cotton, Polyester Pattern Type: Solid Collar: O-Neck Sleeve Length: Short (4–16 inches) Closure Type: None Pant Closure Type: Drawstring Craft of Weaving: Tat Weave Thickness: Standard Full Opening: No Chemicals of Concern: None
-  Updated: 2026-03-14T11:04:43Z
+  Updated: 2026-03-22T00:41:43Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4718,7 +4718,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc72bf0c696034db2a250f515ba2801b3f.webp?v=1756659747
     Price: €44.99 EUR
 - [M&T Wear - Men's Tracksuit Casual Joggers Hooded Sportswear Jackets And Pants 2 Piece Sets Hip Hop Running Sports Suit](https://www.mtwear.store/products/men-tracksuit-casual-joggers-hooded-sportswear-jackets-and-pants-2-piece-sets-hip-hop-running-sports-suit): SPECIFICATIONS Brand Name: M&T Wear Gender: Men Material: Polyester Choice: Yes Chemicals of Concern: None Size Information: M: Length 100 cm / 39.37 in L: Length 105 cm / 41.34 in XL: Length 110 cm / 43.31 in XXL: Length 115 cm / 45.28 in 3XL: Length 120 cm / 47.24 in
-  Updated: 2026-03-14T11:05:01Z
+  Updated: 2026-03-22T00:42:02Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4864,7 +4864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4f816680847342598aa51ca2bd1032d2G.webp?v=1756659745
     Price: €44.99 EUR
 - [M&T Wear - Men's Tracksuits Casual Round Dot Zipper Sweatshirt &  Jogging Pants 2 Piece Set Print High Quality Hooded Jacket Suit Clothing 2025](https://www.mtwear.store/products/mens-tracksuits-casual-round-dot-zipper-sweatshirt-jogging-pants-2-piece-set-print-high-quality-hooded-jacket-suit-clothing-2025): SPECIFICATIONS Brand Name: M&T Wear Age Range: 16–48 Applicable Scene: Daily Wear Applicable Season: All Seasons Closure Type: Zipper Craft of Weaving: Knit Gender: Men Chemicals of Concern: None Material: Polyester Pant Closure Type: Elastic Waist Pattern Type: Letter Print Season: Spring, Autumn, Winter Sleeve Length: Full Style: Casual Thickness: Standard Full Opening: Yes Size Information: S: Length 108 cm / 42.52 in M: Length 112 cm / 44.09 in L: Length 116 cm / 45.67 in XL: Length 120 cm / 47.24 in 2XL: Length 124 cm / 48.82 in 3XL: Length 128 cm / 50.39 in Warm Tips: Due to lighting and screen differences, actual colors may vary slightly from photos. Manual measurements may have a 1–3 cm variation (1 inch = 2.54 cm). Please check the detailed size chart before purchasing to ensure the best fit. modname=images&cols=1&colspace=10&rowspace=10&align=center
-  Updated: 2026-03-14T11:05:16Z
+  Updated: 2026-03-22T00:42:17Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -4990,7 +4990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S278addc8a7d94d0aaa692aa5ccb3a40aO.webp?v=1756659747
     Price: €49.99 EUR
 - [M&T Wear - New Men's Casual Tracksuit Autumn Winter Outdoor Sports Hoodie + Pants 2 Piece Set Daily Jogging Sports Sweatshirt Pants Suit](https://www.mtwear.store/products/new-mens-casual-tracksuit-autumn-winter-outdoor-sports-hoodie-pants-2-piece-set-daily-jogging-sports-sweatshirt-pants-suit): SPECIFICATIONS Brand Name: M&T Wear Applicable Scene: Daily Wear Applicable Season: Spring & Autumn Closure Type: None Craft of Weaving: Knit Gender: Men Chemicals of Concern: None Item Type: Hoodies & Co-ords Material: Polyester, Spandex Outseam Length: Nine-tenths Pant Closure Type: Elastic Waist Pattern Type: Solid Sleeve Length: Full Style: Casual Thickness: Standard Full Opening: No Size Information: S: Length 111 cm / 43.70 in M: Length 115 cm / 45.28 in L: Length 120 cm / 47.24 in XL: Length 125 cm / 49.21 in XXL: Length 130 cm / 51.18 in
-  Updated: 2026-03-14T11:05:34Z
+  Updated: 2026-03-22T00:42:34Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5136,7 +5136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S7cb9c4d0959948dbad3327080db52667U.webp?v=1756659749
     Price: €49.99 EUR
 - [M&T Wear - 2025 Men Tracksuit Honda motor Wing Printed Hoodie Suits Hooded Sweatshirt+Pants 2 Pieces Men Sets Running Fitness Men Clothing](https://www.mtwear.store/products/2025-men-tracksuit-honda-motor-wing-printed-hoodie-suits-hooded-sweatshirt-pants-2-pieces-men-sets-running-fitness-men-clothing): SPECIFICATIONS Brand Name: M&T Wear Applicable Scene: Travel / Trips Applicable Season: Spring & Autumn Closure Type: None Craft of Weaving: Knit Chemicals of Concern: None Material: Cotton Style: Casual Thickness: Standard Full Opening: No
-  Updated: 2026-03-14T11:05:50Z
+  Updated: 2026-03-22T00:42:50Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5262,7 +5262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf8b37bf36b204a78af7c01132b78826bX.webp?v=1756659746
     Price: €49.99 EUR
 - [M&T Wear - Tracksuits Women 2 Pieces Sets Casual Short Sleeve V-Neck Pullover Tops Trousers Sportswear Suit 2025 New Elegant Female Clothes](https://www.mtwear.store/products/tracksuits-women-2-pieces-sets-casual-short-sleeve-v-neck-pullover-tops-trousers-sportswear-suit-2025-new-elegant-female-clothes): SPECIFICATIONS Brand Name: M&T Wear Age Group: Middle Age Closure Type: Pullover Clothing Length: Regular Clothing Pattern: Straight Collar: V-Neck Craft of Weaving: Tat Weave Decoration: None Elasticity: Slight Stretch Fabric Type: Cotton Blend Fabric Content: 81%–90% Fit Type: Regular Front Style: Flat Gender: Women Chemicals of Concern: None Material: Cotton, Polyester Material Composition: Synthetic Fiber Blend Pant Closure Type: Elastic Waist Pant Length: Ankle-Length Pant Style: Regular Pattern Type: Character Print Release Date: Summer 2025 Season: Summer Sleeve Length: Short (4–16 in) Sleeve Style: Regular Style: Casual Waist: Mid Waist Dear friends, this style is high quality pure cotton fabric!
-  Updated: 2026-03-14T11:05:58Z
+  Updated: 2026-03-22T00:42:58Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5328,7 +5328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S7e9f67aa58fd473098535e2aa8891099n.webp?v=1756660014
     Price: €49.99 EUR
 - [M&T Wear - Women Tracksuit C Letter Print Short Sleeve T-shirt Drawstring Shorts Sport Suit Lady Exercise T-shirt Shorts Two-piece Suit](https://www.mtwear.store/products/women-tracksuit-c-letter-print-short-sleeve-t-shirt-drawstring-shorts-sport-suit-lady-exercise-t-shirt-shorts-two-piece-suit): SPECIFICATIONS Brand Name: M&T Wear Age Group: Middle Age Closure Type: Pullover Clothing Length: Regular Clothing Pattern: Slim Fit Collar: Crew Neck Craft of Weaving: Tat Weave Decoration: None Dress Length: Above Knee / Mini Elasticity: Medium Stretch Fabric Type: Blended Polyester Fabric Content: 71%–80% Fit Type: Loose Gender: Women Chemicals of Concern: None Material Composition: Synthetic Fiber Pant Closure Type: Elastic Waist Pant Length: Shorts Pant Style: Shorts Skirt Pattern Type: Solid Color Release Date: Summer 2024 Season: Summer Sleeve Length: Short (4–16 in) Sleeve Style: Garment Sleeves Style: Casual Full Opening: No Product Description:This 2-piece summer tracksuit combines style and comfort for everyday wear. Crafted from high-quality polyester, it offers a loose fit that flatters your figure while keeping you comfortable. The solid-colored crew neck top adds simplicity and elegance, making it versatile for various occasions. Pair it with heels for a chic look or sneakers and sandals for casual outings, workouts, or vacations. Perfect for home, parties, clubs, shopping, or casual daily wear, this set is a wardrobe essential for effortless style and all-day comfort. Size Details: M: Bust 106 cm / 41.7", Top Length 58 cm / 22.8", Waist 60–82 cm / 23.6–32.3", Hip 98 cm / 38.6", Pants Length 37 cm / 14.6" L: Bust 110 cm / 43.3", Top Length 60 cm / 23.6", Waist 60–82 cm / 23.6–32.3", Hip 102 cm / 40.2", Pants Length 38 cm / 15.0" XL: Bust 114 cm / 44.9", Top Length 62 cm / 24.4", Waist 60–82 cm / 23.6–32.3", Hip 106 cm / 41.7", Pants Length 39 cm / 15.4" 2XL: Bust 118 cm / 46.5", Top Length 64 cm / 25.2", Waist 60–82 cm / 23.6–32.3", Hip 110 cm / 43.3", Pants Length 40 cm / 15.8" Package Includes: 1 x Top 1 x Shorts Notes: Refer to the size chart before ordering. Colors may slightly vary due to lighting or screen differences.
-  Updated: 2026-03-14T11:06:02Z
+  Updated: 2026-03-22T00:43:03Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5366,7 +5366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S1a361511a68b4e1abc4a2fc067c0dd10m.webp?v=1756660013
     Price: €34.99 EUR
 - [M&T Wear - Women Tracksuit Women's Summer Tracksuit Set O Neck Short Sleeve T-shirt Drawstring Elastic Waist Shorts Sporty for Ladies](https://www.mtwear.store/products/women-tracksuit-womens-summer-tracksuit-set-o-neck-short-sleeve-t-shirt-drawstring-elastic-waist-shorts-sporty-for-ladies): Stay cool and stylish this season with the M&T Wear 2-Piece Women’s Summer Tracksuit. Perfect for casual days, lounging, or light exercise, this set combines comfort with effortless fashion. Made from soft, breathable polyester, it keeps you feeling fresh while giving you a flattering fit. The set includes a short-sleeve O-neck top and drawstring shorts with an elastic waist for adjustable comfort. Whether you’re running errands, hanging out with friends, or just enjoying a relaxed day at home, this outfit is designed to make you look good with zero fuss. Why You’ll Love It: Lightweight and breathable material, perfect for spring and summer. Relaxed O-neck pullover top with a clean, modern fit. Elastic waistband with drawstring for comfort and easy adjustment. Knee-length shorts that balance style and ease. Available in sizes M to 3XL for the perfect fit. Size Guide (Approx.): M: Bust 100 cm / 39.4", Waist 68–90 cm / 26.8–35.4", Hip 110 cm / 43.3" L: Bust 104 cm / 40.9", Waist 72–94 cm / 28.3–37.0", Hip 114 cm / 44.9" XL: Bust 108 cm / 42.5", Waist 76–98 cm / 29.9–38.6", Hip 118 cm / 46.5" 2XL: Bust 112 cm / 44.1", Waist 80–94 cm / 31.5–37.0", Hip 122 cm / 48.0" 3XL: Bust 116 cm / 45.7", Waist 84–98 cm / 33.1–38.6", Hip 126 cm / 49.6" Package Includes: 1 x Women’s Top 1 x Women’s Shorts Note: Please check our size chart before placing your order. Colors may vary slightly due to lighting and screen settings.
-  Updated: 2026-03-14T11:06:16Z
+  Updated: 2026-03-22T00:43:15Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5472,7 +5472,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sad88a4a820e04853ba66fe0e957e42aaE.webp?v=1756660014
     Price: €49.99 EUR
 - [M&T Wear - Women Tracksuit Set 2 Piece Two Piece Outfits For Women Sexy Shorts Set Ribbed  Top And Shorts Set Lounge Set](https://www.mtwear.store/products/women-tracksuit-set-2-piece-two-piece-outfits-for-women-sexy-shorts-set-ribbed-top-and-shorts-set-lounge-set): Turn casual days into statement moments with the M&T Wear Ribbed Crop Top and Shorts Set. Designed for effortless style and everyday comfort, this two-piece outfit is your go-to for summer vacations, festivals, workouts, or just lounging in style. Made from soft, breathable polyester with a slight stretch, the set features a ribbed crop tank top and high-waist shorts that highlight your curves while keeping things relaxed and easy. Whether you’re running errands, hitting the gym, or heading out with friends, this set has the perfect mix of sporty and chic. Why You’ll Love It: Ribbed crop top with a flattering square neckline for a fuller bust look. High-waist shorts that slim the waistline and enhance your natural shape. Lightweight and breathable fabric—perfect for summer and beyond. Solid color design for easy mix-and-match styling. Versatile outfit for casual wear, travel, outdoor activities, gym, or parties. Available Colors: Black, White, Brown, Gray, Green, Orange, Rose, Beige Size Guide (Approx.): XS: Shorts 35.2 cm / 13.9", Waist 62 cm / 24.4", Hip 106 cm / 41.7", Tank 36 cm / 14.2", Bust 74 cm / 29.1" S: Shorts 36 cm / 14.2", Waist 66 cm / 26.0", Hip 110 cm / 43.3", Tank 37 cm / 14.6", Bust 78 cm / 30.7" M: Shorts 36.8 cm / 14.5", Waist 70 cm / 27.6", Hip 114 cm / 44.9", Tank 38 cm / 15.0", Bust 82 cm / 32.3" L: Shorts 37.8 cm / 14.9", Waist 76 cm / 29.9", Hip 120 cm / 47.2", Tank 39.5 cm / 15.6", Bust 88 cm / 34.7" XL & 2XL: Sizes available, follow chart for accurate fit. Package Includes: 1 x Ribbed Crop Top 1 x Matching Shorts Note: Please check the size chart carefully before placing your order. Color may vary slightly due to monitor differences.
-  Updated: 2026-03-14T11:06:31Z
+  Updated: 2026-03-22T00:43:32Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5606,7 +5606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S78cac89137ce4611bcf479f4c41ada04G.webp?v=1756660015
     Price: €49.99 EUR
 - [M&T Wear - Women Tracksuit Hipster Street Style Colorful Leopard Printed Casual Full Sleeve O Neck Sweatshirt + Drawstring Pants Two-pieces](https://www.mtwear.store/products/women-tracksuit-hipster-street-style-colorful-leopard-printed-casual-full-sleeve-o-neck-sweatshirt-drawstring-pants-two-pieces): Turn heads this season with the bold M&T Wear Leopard Print Tracksuit—where comfort meets unapologetic style. Designed for women who want to stand out, this two-piece set blends high street fashion with cozy functionality, making it your go-to outfit for autumn and winter. Crafted from soft, slightly stretchy polyester fabric, the set features a loose-fit O-neck pullover top paired with high-waist pencil pants. With details like pleats, ruching, patchwork, and eye-catching prints, this outfit guarantees you’ll never blend into the background. Why It’s a Must-Have: High street style with bold leopard print and patchwork accents. Comfortable loose-fit pullover top for effortless layering. High-waist drawstring pants with a sleek pencil-leg silhouette. Made from durable, breathable broadcloth with slight stretch for easy movement. Designed for autumn and winter wear—fashion that keeps you cozy. Details: Material: 91–95% Polyester (synthetic fiber) Top Fit: Loose, O-neck, full sleeves Pants: High-waist, full-length pencil style with drawstring closure Pattern: Leopard print with tie-dye and patchwork accents Season: Autumn/Winter Style: High Street
-  Updated: 2026-03-14T11:06:53Z
+  Updated: 2026-03-22T00:43:54Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5780,7 +5780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sbef1e87160884e98b8aea6d949f4cacc4.webp?v=1756660018
     Price: €54.99 EUR
 - [M&T Wear - Fashion Casual Women Tracksuit Set Hooded Sweatshirt](https://www.mtwear.store/products/fashion-casual-women-tracksuit-set-hooded-sweatshirt-two-piece-sets-2025-sport-outfit-loose-elastic-waist-running-trousers-femal): Stay effortlessly stylish and comfortable with the M&T Wear Hooded Tracksuit Set—a versatile two-piece designed for everyday wear. Perfect for spring, summer, or even the back-to-school season, this outfit blends casual comfort with a polished touch that makes it easy to dress up or down. The set features a zip-up hooded sweatshirt with a relaxed fit and handy pockets, paired with high-waist wide-leg pants that give you a flattering silhouette while keeping comfort a priority. Made from a soft cotton-polyester blend with medium stretch, it’s the outfit you’ll want to live in, whether you’re heading to the office, running errands, or lounging in style. Why It Belongs in Your Wardrobe: Two-piece set: hooded zip-up sweatshirt + full-length wide-leg pants. Comfortable loose fit with medium stretch for all-day ease. High-waist elastic pants for a flattering, on-trend look. Soft cotton-polyester blend—breathable and durable. Simple solid color design, perfect for mixing with other staples. Versatile enough for casual outings, sports, travel, or daily wear. Details: Material: 71–80% Cotton with Polyester blend Fit: Loose, straight pattern Closure: Zipper on sweatshirt, elastic waist on pants Style: Office Lady meets Casual Sportswear Season: Spring/Summer 2025 Collection Occasions: Back to school, office, sports, travel, daily wear Package Includes: 1 x Hooded Zip-Up Sweatshirt 1 x Wide-Leg Pants Note: Colors may vary slightly due to screen settings. Please check the size chart for the best fit.
-  Updated: 2026-03-14T11:07:02Z
+  Updated: 2026-03-22T00:44:02Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5850,7 +5850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S44f1268e824046068647f9537ef3d4445.webp?v=1756660015
     Price: €54.99 EUR
 - [M&T Wear - Women's Tracksuit 2 Pieces Yoga Set Workout Fitness Suit Running Sportswear Gym Clothing High Waist Leggings Bra Sports Suits](https://www.mtwear.store/products/womens-tracksuit-2-pieces-yoga-set-workout-fitness-suit-running-sportswear-gym-clothing-high-waist-leggings-bra-sports-suits): Elevate your workouts with the M&T Wear Seamless Yoga Top, designed for women who want comfort, support, and style in one. Crafted from a premium nylon-spandex blend, this sleeveless top offers a flexible fit that moves with your body, making it perfect for yoga, pilates, gym sessions, or everyday athleisure wear. With its seamless knit construction, it feels smooth against your skin while keeping you breathable and supported. Plus, it comes with anti-pilling, anti-shrink, and quick-dry features—because your workout gear should work as hard as you do. Why You’ll Love It: Seamless design for a smooth, chafe-free fit. Breathable, quick-dry fabric keeps you cool and comfortable. Anti-pilling and anti-shrink features for long-lasting wear. Nylon-spandex blend provides stretch and support. Available in solid and striped patterns for a sleek, modern look. True-to-size fit tailored for active movement. Details: Material: Nylon + Spandex Sleeve: Sleeveless Sport Type: Yoga & Activewear Fit: True to Size Pocket: None (streamlined design)
-  Updated: 2026-03-14T11:07:08Z
+  Updated: 2026-03-22T00:44:09Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5904,7 +5904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf2408d592b6841c18452c8a109e01d44g.webp?v=1756660017
     Price: €44.99 EUR
 - [M&T Wear - Casual Tracksuit Woman Shorts Stylish Short Sets for Women 2 Pieces Classic Summer Fashion 2024 Top and Bottom New in Matching](https://www.mtwear.store/products/casual-tracksuit-woman-shorts-stylish-short-sets-for-women-2-pieces-classic-summer-fashion-2024-top-and-bottom-new-in-matching): Stay cool and effortlessly stylish with the M&T Wear Women’s Casual Two-Piece Set. Perfect for spring and summer, this outfit combines a loose-fit O-neck top with comfortable elastic-waist shorts—ideal for casual outings, travel, or just relaxing in comfort. Made from a breathable cotton, polyester, and acrylic blend, it offers a soft feel with a slight stretch to keep you moving freely. The lace-up and printed accents add a touch of modern style, making this set versatile enough to wear at home or out and about. Why You’ll Love It: Lightweight and breathable fabric—perfect for warm days. Relaxed O-neck pullover top with short sleeves. Matching elastic-waist shorts for all-day comfort. Lace-up and printed details for a casual, trendy vibe. Loose fit that flatters all body types. Easy to wear as a set or mix and match with other wardrobe staples. Size Guide (Approx.): M: Bust 102 cm | Sleeve 18 cm | Top Length 63 cm | Shorts Length 45 cm | Weight 40–45 kg L: Bust 106 cm | Sleeve 19 cm | Top Length 65 cm | Shorts Length 46 cm | Weight 45–52.5 kg XL: Bust 110 cm | Sleeve 20 cm | Top Length 67 cm | Shorts Length 47 cm | Weight 52.5–62.5 kg XXL: Bust 114 cm | Sleeve 21 cm | Top Length 69 cm | Shorts Length 48 cm | Weight 62.5–70 kg Package Includes: 1 x Short-Sleeve Top 1 x Elastic-Waist Shorts Note: Please allow slight differences in measurement. Colors may appear slightly different due to monitor settings. Your feedback is very important to us. If you are happy with us, please remember to leave us positive feedback (5 stars).If you have any dissatisfaction, please give us the opportunity to resolve the problem before leave us a negative feedback. Your satisfaction pursuit our target.Although we are confident in the quality and price of our products, we cannot guarantee that any buyer will be 100% satisfied with them. But in any case, we promise that we will try our best to solve any problems that arise during the transaction. To me, honesty always shows our worth. If you are requesting a refund due to a defective item or other quality issue, please contact us within 3 days of receiving the item. Costs associated with returned mail shall be borne by us.We are professional  company in Shenzhen which is famous for the commodity market in China. We make sure Favourable prices base on high-quality,because we are the women clothes manufacturing factory. Wish you have an enjoyable purchasing! We supply dropping shipping/wholesale/customized design.
-  Updated: 2026-03-14T11:07:17Z
+  Updated: 2026-03-22T00:44:17Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -5974,7 +5974,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa36c5be94f4141fe951199fa7834f4615.webp?v=1756660016
     Price: €44.99 EUR
 - [M&T Wear - Female Nighty & Robe Set Perspective Temptation Nightgown Intimate Lingerie Spring Summer Silk Satin Sleepwear Loose Home Dress](https://www.mtwear.store/products/female-nighty-robe-set-perspective-temptation-nightgown-intimate-lingerie-spring-summer-silk-satin-sleepwear-loose-home-dress): Slip into comfort and elegance with the M&T Wear Women’s Nightgown, crafted from silky rayon with delicate lace details. Designed to feel soft and luxurious against your skin, this mini nightdress is perfect for bedtime, lounging at home, or adding a touch of sophistication to special moments. The V-neck design with three-quarter sleeves creates a flattering, feminine look, while the lightweight satin finish keeps you cool and comfortable through summer nights. Whether you’re relaxing at home, preparing for a wedding morning as a bride or bridesmaid, or simply treating yourself, this nightgown blends comfort with effortless style. Why You’ll Love It: Luxurious silky satin with lace accents. Soft, breathable fabric for cool summer nights. Elegant V-neck with three-quarter sleeves. Mini above-knee length for a flattering silhouette. Perfect for home wear, casual lounging, or bridal occasions. Details: Material: Silk Rayon + Lace (Polyester blend) Neckline: V-neck Sleeves: Three-quarter length Length: Above knee / mini Style: Sexy, lounge, vintage-inspired Occasions: Sleepwear, home wear, bridal & bridesmaid prep, casual daily wear Season: Summer Sizes Available: M, L, XL, XXL Colors: 4 options (slight variation may occur due to monitors) Care Instructions: Hand wash only. Hang dry. Measurement In CM Size Bust Waist Body Height Body Weight(kg) M 72 - 80 - 150 - 160 40 - 50 L 74 - 84 - 160 - 165 50 - 60 XL 78 - 88 - 165 - 170 60 - 70
-  Updated: 2026-03-14T11:07:23Z
+  Updated: 2026-03-22T00:44:24Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6028,7 +6028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8bea03608f5b43c1a0a19058169002a2q.webp?v=1756660552
     Price: €39.99 EUR
 - [M&T Wear - Sexy Lace Patchwork Camisole Lingerie Nighty Wedding Dress Sleep Wear Nightdress Clothes Women's Nightgowns Sexy Nightwear](https://www.mtwear.store/products/sexy-lace-patchwork-camisola-lingerie-nighty-wedding-dress-sleep-wear-nightdress-clothes-womens-nightgowns-sexy-nightwear): note:1. Due to manual measurement, please allow 1-2CM difference.2. Due to many factors, such as the resolution, brightness, contrast of the computer screen,the true color may be slightly different from the picture. For the final color, please refer to our actual product.About purchasing and purchasingWe have our own factory, which can bring you high-quality products and services.If you have a lot of needs and customized services, please contact us directly and look forward to working with you in depthAbout feedbackWe maintain a high level of excellence and strive for 100% customer satisfaction! Therefore,please do not easily raise objections or give us negative or neutral feedback. Negative feedback cannot solve any problems.If you are not satisfied with our products, please contact us first and we will provide you with a satisfactory solution. Thank you,I wish you a happy shopping!If you are satisfied, please give us a five-star praise! Your support is our motivation to persist in this shop!
-  Updated: 2026-03-14T11:07:27Z
+  Updated: 2026-03-22T00:44:27Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6052,7 +6052,7 @@
     Availability: Available
     Price: €34.99 EUR
 - [M&T Wear - Female Nighty & Robe Set Sexy Embroidery Lace Nightgown Home Dress Summer Sleepwear Silky Thin Rayon Loungewear q](https://www.mtwear.store/products/female-nighty-robe-set-sexy-embroidery-lace-mujer-nightgown-home-dress-summer-sleepwear-silky-thin-rayon-loungewear): Slip into luxury with the M&T Wear 2-Piece Robe & Nightdress Set, crafted from soft, silky fabric with delicate lace accents. Designed for elegance and comfort, this set is perfect for weddings, spa days, or simply relaxing at home in style. The lightweight mini nightdress paired with a matching three-quarter sleeve robe makes it versatile and effortlessly chic. Whether you’re getting ready for a special occasion or unwinding after a long day, this set brings a touch of sophistication to your wardrobe. Why You’ll Love It: Includes 2 pieces: mini nightdress + matching robe. Silky-smooth fabric with lace detailing for elegance. Lightweight and breathable—ideal for spring, summer, and autumn. Above-knee nightdress for a feminine, flattering look. Perfect for weddings, spa wear, or everyday luxury. Details: Material: Silk rayon lace (Polyester blend) Style: Basics, elegant loungewear Sleeve Length: Three-quarter (robe) Dress Length: Above knee, mini Sizes: M, L, XL Colors: 4 options (slight variation by monitor) Season: Spring, Summer, Autumn Package Includes: 1 x Nightdress + 1 x Matching Robe Measurement 1 inch = 2.54 cm (Women) Size Fit for Height Fit For Weigth M 150-165 40kg-50kg L 156-170 50kg-60kg XL 160-175 60kg-65kg
-  Updated: 2026-03-14T11:07:30Z
+  Updated: 2026-03-22T00:44:31Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6082,7 +6082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S98cb80d7fd3342c59787936b2ddab7aca.webp?v=1756660552
     Price: €49.99 EUR
 - [M&T Wear - Lingerie for Girls, A Bra Cover Set Without Underwire That Makes Women Look Rounder and Larger Bra set](https://www.mtwear.store/products/lingerie-for-girls-a-bra-cover-set-without-underwire-that-makes-women-look-rounder-and-larger-bra-set): Experience comfort and effortless style with the M&T Wear Seamless Bra & Brief Set. Designed for everyday wear, this wire-free set provides gentle support while keeping you comfortable all day long. Its seamless knit construction ensures a smooth fit under clothing, and the soft cotton material feels breathable against your skin. Why You’ll Love It: Wire-free design for natural support and all-day comfort. Seamless knit construction for a smooth, invisible look under clothes. Soft, breathable cotton for comfort in every season. Classic solid color design—easy to mix and match. Perfect for daily wear or as a travel-friendly lingerie set. Details: Material: Cotton Style: Seamless, wire-free Pattern: Solid Closure: Back closure Gender: Women Item Type: Bra & Brief Set Package Includes: 1 x Bra 1 x Matching Brief Shoulder strap: can adjust shoulder strap lengthSteel ring: no steel ringBack button: back button, 3 rows and 2 buttonsCup type: 3/4 deep V cupSponge thickness: 0.2cmsize:32 7034 7536 8038 85The package included:1x bra (only bra, excluding panties).Note: bra and panties are sold separately,If you choose bra, only bra is included, not panties. if you want a set, need add bra and panties to the shopping cart, thank you!note1: Due to different monitors and lighting effects, the actual color of the item may be slightly different from the color displayed on the picture, so there may be some color difference.2: The label size is Asian size, smaller than EU/US/UK size; please check the detailed size information before purchasing.3: Due to different measurement methods, there may be an allowable range error of 1-3cm.4: Bras are personal hygiene products. For hygiene reasons, we will not accept returns if it is not a quality problem.Shipping itemsSince once shipped, we cannot cancel the order.Since it is delivered immediately, it will not be delivered immediately after delivery.Don't worry.We will send the parcel as soon as possible ~Customer CareIf you have any questions, please contact customer service. Sometimes customer service representatives may respond slowly due to the volume of messages that need to be consulted. Please wait a minute, we will fully respond to your concerns.If you have any problems with the product you received, you can contact customer service.Please do not rush to give negative comments.We will provide after-sales service to you.
-  Updated: 2026-03-14T11:07:37Z
+  Updated: 2026-03-22T00:44:37Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6124,14 +6124,14 @@
     Availability: Available
     Price: €29.99 EUR
 - [M&T Wear - Lingerie For Women Sexy Neck Hanging Deep V-shaped Mesh Patchwork Leather Dress Slim Fit Waist Appear Thin Black  HJUM](https://www.mtwear.store/products/lingerie-for-women-sexy-neck-hanging-deep-v-shaped-mesh-patchwork-leather-dress-slim-fit-waist-appear-thin-black-hjum): Make a statement at any spring or summer event with the M&T Wear Sleeveless V-Neck Hollow-Out Dress. Designed with a flattering slim-fit sheath silhouette, this knee-length dress combines elegance with modern style, perfect for parties, proms, or special occasions. Crafted from high-quality polyester with slight stretch, it ensures a comfortable fit while highlighting your natural curves. The delicate hollow-out detailing adds a touch of sophistication, making this dress a standout choice for any celebration. Why You’ll Love It: Sleeveless V-neck design for a sleek, elegant look. Slim-fit sheath silhouette that flatters your figure. Hollow-out detailing adds modern style and sophistication. Knee-length design suitable for formal or semi-formal occasions. Lightweight polyester with slight stretch for comfort and mobility. Details: Material: Polyester (70–80% composition) Length: Knee-length Fit: Slim / Sheath silhouette Neckline: V-neck Sleeves: Sleeveless Waistline: Natural Style: Hot sweet, party/prom wear Season: Spring / Summer Recommended Height: 150–170 cm Recommended Weight: 40–60 kg Package Includes: 1 x Dress
-  Updated: 2026-03-14T11:07:38Z
+  Updated: 2026-03-22T00:44:38Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S6c38897c449e4f77b4c25988a2a376e7r.webp?v=1756660552
   Price: €49.99 EUR
 - [M&T Wear - Fairy Sexy Lingerie Floral Embroidery Wire Bra Set Deep Blue Mesh Underwear Transparent Lingerie Honeymoon Intimate Lingerie Set](https://www.mtwear.store/products/fairy-sexy-lingerie-floral-embroidery-wire-bra-set-deep-blue-mesh-underwear-transparent-lingerie-honeymoon-intimate-lingerie-set): Elevate your lingerie collection with the M&T Wear Floral Embroidered Bra & Panty Set. Designed for women who love elegance with a hint of allure, this set features delicate floral embroidery, mesh details, and a flattering 3/4 cup design with underwire support. The push-up bra enhances your natural shape, while adjustable straps ensure a perfect fit. Paired with matching panties, this set blends comfort with sophistication, making it ideal for special occasions or when you just want to feel confident and stylish. Why You’ll Love It: Push-up bra with underwire support for lift and shaping. 3/4 cup with delicate floral embroidery and mesh detailing. Adjustable straps for a personalized, comfortable fit. Matching panties for a coordinated, elegant look. Lightweight polyester-spandex blend for stretch and comfort. Sexy, yet tasteful design perfect for special occasions or daily confidence. Details: Material: 95% Polyester, 5% Spandex Color: Blue Cup Shape: Three-quarters (3/4) Closure: Back closure Size: S, M, L, XL Pattern: Floral Style: Sexy, transparent lingerie Support Type: Underwire Items Included: 1 x Bra, 1 x Panty
-  Updated: 2026-03-14T11:07:40Z
+  Updated: 2026-03-22T00:44:40Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6153,7 +6153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S92552bc09cf34914a616edb2fd139adb4.webp?v=1756660554
     Price: €44.99 EUR
 - [M&T Wear - Women Lingerie Silk Robe Dress Nightdress Nightgown Sexy Sleepwear Nightdress omen Sexy Lingerie Silk Robe Dress Nightdress](https://www.mtwear.store/products/women-lingerie-silk-robe-dress-nightdress-nightgown-sexy-sleepwear-nightdresswomen-sexy-lingerie-silk-robe-dress-nightdress): Indulge in sultry comfort with the M&T Wear Lace Sleepwear Nightgown, crafted from soft imitation silk with delicate lace accents. This mini nightdress is designed to be lightweight, breathable, and effortlessly flattering, making it perfect for summer evenings or special nights in. With a sleek above-knee cut and a sexy silhouette, this nightgown enhances your natural curves while remaining soft and comfortable against your skin. Available in multiple colors, it’s a versatile addition to your intimate wardrobe. Why You’ll Love It: Soft imitation silk fabric with delicate lace decoration. Mini, above-knee length for a sexy and flattering fit. Lightweight and breathable—ideal for summer nights. Available in Black, Red, Purple, Gray, and White. Perfect for casual evenings, intimate moments, or gifting. Details: Material: Imitation Silk + Lace Length: 86 cm Bust: 82 cm Sleeves: Sleeveless Size: Free size (Asian sizing; 1–2 sizes smaller than European sizing—check size chart) Style: Sexy, intimate sleepwear Package Includes: 1 x Nightgown Note: Slight size variation may occur due to hand measurement (1–2 cm). Color may vary slightly due to monitor differences.
-  Updated: 2026-03-14T11:07:43Z
+  Updated: 2026-03-22T00:44:44Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6174,7 +6174,7 @@
     Availability: Available
     Price: €39.99 EUR
 - [M&T Wear - Women Briefs Underwear Underpants Lightweight See-through  Sexy Perspective Mid Waist Lady Panties](https://www.mtwear.store/products/women-briefs-underwear-underpants-lightweight-see-through-sexy-perspective-mid-waist-lady-panties): Experience comfort and subtle allure with the M&T Wear High-Rise Lace Panties. Crafted from soft, breathable polyester with delicate floral lace, these panties offer lightweight coverage while adding a touch of elegance and sophistication to your everyday lingerie collection. The see-through lace design provides excellent breathability, keeping you cool and comfortable during warmer months. Designed with a mid-rise fit, these panties enhance your natural shape while remaining perfect for daily wear or special, romantic occasions. Why You’ll Love It: High-rise, mid-waist fit for comfort and flattering coverage. Lightweight, breathable lace for all-day wear. Floral lace pattern adds elegance and subtle sensuality. Soft and skin-friendly polyester with anti-septic properties. Suitable for daily wear, intimate moments, or travel. Size Guide (Approx.): XS: Waist 64 cm / 25.2", Hip 90 cm / 35.4" S: Waist 68 cm / 26.8", Hip 94 cm / 37" M: Waist 72 cm / 28.3", Hip 98 cm / 38.6" L: Waist 76 cm / 29.9", Hip 102 cm / 40.2" Package Includes: 1 x Panties Note: Please refer to the size chart before ordering. Colors may slightly vary due to different screen settings.
-  Updated: 2026-03-14T11:07:58Z
+  Updated: 2026-03-22T00:44:58Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6292,7 +6292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sea1c135d7a764704aaaa628968a25f22v.webp?v=1756660558
     Price: €10.00 EUR
 - [M&T Wear -  Men's Boxer Sexy Underwear Soft Long Cotton Soft Underpants Male Panties 3D Pouch Shorts Under Wear Pants Short](https://www.mtwear.store/products/1-2-3-4-pcs-orlvs-mens-boxer-sexy-underwear-soft-long-cotton-soft-underpants-male-panties-3d-pouch-shorts-under-wear-pants-short): Upgrade your essentials with the M&T Wear Men’s Breathable Boxer Underwear, designed for comfort, support, and all-day wear. Crafted from a soft nylon-spandex blend, these boxers feature a contoured U-convex pouch for enhanced support and a flattering fit. Lightweight and breathable, they keep you cool and comfortable throughout the day. Why You’ll Love It: Soft and stretchy nylon-spandex blend for comfort and flexibility. U-convex pouch design for support and a flattering silhouette. Breathable fabric with dot mikini texture for added ventilation. Available in multiple colors: Black, White, Purple, Stoneblue. Perfect for everyday wear, sports, or lounging at home. Details: Material: 92% Nylon, 8% Spandex Type: Boxer Shorts / Men’s Underwear Gender: Men Pattern: Solid, dot texture Package Includes: 1 x Men’s Underwear Condition: 100% Brand New Notes: Please check the size chart before purchasing. Manual measurement may vary ±2 cm. Actual product colors may slightly differ due to monitor or lighting differences.
-  Updated: 2026-03-14T11:08:19Z
+  Updated: 2026-03-22T00:45:19Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6458,7 +6458,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S3d7c763daa4344d6b00158ff6bfe3a95G.webp?v=1756660565
     Price: €12.99 EUR
 - [M&T Wear - 4pcs Boxer Shorts Men's Ice Silk Underwear Male Underpants Breathable Sexy Thin Panties U Convex Lingerie Wholesale Lots L-6XL](https://www.mtwear.store/products/4pcs-boxer-shorts-mens-ice-silk-underwear-male-underpants-breathable-sexy-thin-panties-u-convex-lingerie-wholesale-lots-l-6xl): Experience all-day comfort with the M&T Wear Men’s Solid Boxer Shorts, crafted from a soft, stretchy polyester-spandex blend. Designed for a snug yet flexible fit, these boxers provide breathable support while keeping you comfortable during daily wear or active moments. Why You’ll Love It: Soft, stretchy polyester-spandex fabric for comfort and flexibility. Solid color design—simple, classic, and versatile. Lightweight and breathable for all-day wear. Perfect for everyday use, sports, or lounging. Size Guide (Asian Sizing – Choose 1–2 Sizes Up from Your Normal Size): L: 20 cm / 7.87” (40–50 kg) XL: 21 cm / 8.27” (50–60 kg) XXL: 22 cm / 8.66” (60–70 kg) XXXL: 23 cm / 9.06” (70–80 kg) 4XL: 24 cm / 9.45” (80–90 kg) 5XL: 25 cm / 9.84” (90–100 kg) 6XL: 25 cm / 9.84” (100–110 kg) Details: Material: Polyester, Spandex Pattern: Solid Gender: Men Type: Boxer Shorts Package Includes: 1 x Men’s Boxer Shorts Attention: Asian sizing runs smaller; please choose 1–2 sizes larger than usual. Manual measurement may vary by 1–3 cm. Colors may slightly differ due to monitor settings.
-  Updated: 2026-03-14T11:08:54Z
+  Updated: 2026-03-22T00:45:54Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6664,7 +6664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sadab003abad64268bfe4260c5e4c5f739.webp?v=1756660562
     Price: €39.99 EUR
 - [M&T Wear - Men's Shorts Gym Summer Fitness Shorts Gyms Short Pants Run Sportswear Running Shorts Men Sports Jogging](https://www.mtwear.store/products/mens-shorts-gym-summer-fitness-shorts-gyms-short-pants-run-sportswear-running-shorts-men-sports-jogging): Stay cool and comfortable this summer with the M&T Wear Men’s Casual Shorts. Made from lightweight polyester with a flexible elastic waist, these shorts are perfect for daily wear, casual outings, or lounging at home. Featuring practical pockets and a regular fit, they combine style and functionality effortlessly. Why You’ll Love It: Lightweight, breathable polyester keeps you comfortable in summer heat. Elastic waist ensures a secure and flexible fit. Practical pockets for convenience on the go. Solid color design for versatile styling. Ideal for daily wear, casual outings, or relaxed home days. Size Guide: M: Length 33.5 cm / 13.19" L: Length 35.5 cm / 13.98" XL: Length 37.5 cm / 14.76" XXL: Length 39.5 cm / 15.55" 3XL: Length 41.5 cm / 16.34" Details: Material: Polyester Waist Type: Mid-rise, elastic Pattern: Solid Fit Type: Regular Style: Casual Gender: Men Item Type: Shorts Package Includes: 1 x Pair of Shorts
-  Updated: 2026-03-14T11:09:09Z
+  Updated: 2026-03-22T00:46:10Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6790,7 +6790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8d26b9ae883646a482ae69d1bacebc4fY.webp?v=1756660557
     Price: €14.99 EUR
 - [M&T Wear - Men Sexy Underwear Boxers Man Underpants Military Boxer Shorts U Convex Pouch Underpants Camouflage Panties](https://www.mtwear.store/products/men-sexy-underwear-boxers-man-underpants-military-boxer-shorts-u-convex-pouch-underpants-camouflage-panties): Upgrade your everyday essentials with the M&T Wear Men’s Camouflage Boxer Briefs. Designed for comfort, support, and style, these knit boxer briefs feature a trendy camouflage pattern and a soft, stretchy nylon-elastane blend for a snug yet flexible fit. Perfect for daily wear or active lifestyles, they combine functionality with a modern look. Why You’ll Love It: Soft, stretchy fabric (80% Nylon / 20% Elastane) for all-day comfort and support. Camouflage design for a modern, stylish touch. Elastic waistband ensures a secure fit. Lightweight and breathable, ideal for everyday wear. Suitable for casual wear, sports, or lounging. Size Guide (Asian Sizing – Consider Choosing 1–2 Sizes Up for Loose Fit): M: Waist 66–73 cm / 26–29", Length 17 cm L: Waist 71–81 cm / 28–32", Length 18 cm XL: Waist 78–91 cm / 31–36", Length 19 cm XXL: Waist 86–99 cm / 34–39", Length 20 cm Details: Material: Nylon (80% Polyamide + 20% Elastane) Pattern: Camouflage Craft of Weaving: Knit Fabric Weight: 180 g/m² Gender: Men Item Type: Boxer Briefs Package Includes: 1 x Men’s Underwear Attention: Asian sizing runs smaller than US/EU sizes; check the size chart before ordering. Manual measurement may vary by 1–2 cm. Colors may differ slightly due to monitor settings.
-  Updated: 2026-03-14T11:09:12Z
+  Updated: 2026-03-22T00:46:12Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6812,7 +6812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Hc869936b218b4db79893d8fe7678ae71J.webp?v=1756660557
     Price: €14.99 EUR
 - [M&T Wear - Men Underwear Male Underpants Pants Low Rise Men Underwear Comfortable Breathable Briefs New Arrival](https://www.mtwear.store/products/dropshipping-men-underwear-male-underpants-pants-low-rise-men-underwear-comfortable-breathable-briefs-new-arrival): Add style and comfort to your daily essentials with the M&T Wear Men’s Patchwork Boxer Shorts. Made from a soft and flexible nylon-polyester blend, these boxers offer lightweight comfort while maintaining a modern patchwork design for a subtle fashion statement. Why You’ll Love It: Soft nylon-polyester fabric for comfort and flexibility. Patchwork design for a contemporary, stylish look. Knit construction ensures a breathable fit. Perfect for everyday wear, lounging, or casual activities. Details: Material: Nylon, Polyester Pattern: Patchwork Craft of Weaving: Knit Gender: Men Type: Boxer Shorts Origin: Mainland China Package Includes: 1 x Men’s Boxer Shorts Attention: Please check your size before ordering for the perfect fit. Colors may slightly vary due to different monitor displays.
-  Updated: 2026-03-14T11:09:23Z
+  Updated: 2026-03-22T00:46:23Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -6898,7 +6898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc82b2306f02445d397c9f2490fbfb2f0m.webp?v=1756660559
     Price: €14.99 EUR
 - [M&T Wear - Custom Grand Theft Auto Adventure Game Underwear Men Breathable GTA Boxer Briefs Shorts Panties Soft Underpants For Homme](https://www.mtwear.store/products/custom-grand-theft-auto-adventure-game-underwear-men-breathable-gta-boxer-briefs-shorts-panties-soft-underpants-for-homme): Upgrade your essentials with the M&T Wear Men’s Printed Boxer Briefs, combining style, comfort, and flexibility. Crafted from a soft blend of Lycra, Polyester, and Spandex, these boxer briefs offer a snug, breathable fit that moves with you throughout the day. Perfect for everyday wear or lounging at home. Why You’ll Love It: Soft, stretchy fabric for all-day comfort. Printed design for a stylish, modern look. Breathable and lightweight, ideal for daily wear. Flexible fit that supports movement without restriction. Details: Material: Lycra, Polyester, Spandex Pattern: Printed Gender: Men Type: Boxer Briefs Origin: Mainland China Package Includes: 1 x Men’s Boxer Briefs Attention: Colors may slightly vary due to different screen settings. Check your size before ordering for optimal fit.
-  Updated: 2026-03-14T11:09:47Z
+  Updated: 2026-03-22T00:46:49Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7104,7 +7104,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc97b59c60d634b488adbc9e6848e4c8cn.webp?v=1756660565
     Price: €24.99 EUR
 - [M&T Wear - Bras for women Rope straps Palm support Steel-free bra with air-permeable bra One-piece Lattice push up sexy bra 80A 80B 80C 85C](https://www.mtwear.store/products/bras-for-women-rope-straps-palm-support-steel-free-bra-with-air-permeable-bra-one-piece-lattice-push-up-sexy-bra-80a-80b-80c-85c): SPECIFICATIONS Brand Name: M&T Wear Bra Style: Minimizer, Push-Up Closure Type: Three Hook-and-Eye Cup Shape: Half Cup (1/2 Cup) Decoration: Ruffles Gender: Women Item Type: Bras Material: Nylon Support Type: Wire-Free Strap Type: Convertible Straps Style: Sexy Pattern Type: Solid / Leopard Print / Floral Available Colors & Variants: Blackish Green (Push-Up) Lavender with Black Flower Detailing Shrimp Red (Classic Push-Up) Skin Color (Bright Red Shade) Black (Leopard Print)
-  Updated: 2026-03-14T11:10:33Z
+  Updated: 2026-03-22T00:47:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7310,7 +7310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/HTB14aGibcrrK1RjSspaq6AREXXaA.webp?v=1756750330
     Price: €24.99 EUR
 - [M&T Wear - Breathable Bra Buckle Style Design Adjustable Size Solid Color Simplicity Elegant Comfortable New Shoulder Strap Gauze Bra](https://www.mtwear.store/products/breathable-bra-buckle-style-design-adjustable-size-solid-color-simplicity-elegant-comfortable-new-shoulder-strap-gauze-bra): Discover everyday comfort with the M&T Wear Women’s Everyday Underwire Bra, designed for a perfect balance of support and style. Made from a soft blend of cotton, polyester, and spandex, this bra provides breathability, flexibility, and all-day comfort. The underwire offers gentle lift and shape, while the one-piece, solid design ensures a sleek look under any outfit. Why You’ll Love It: Comfortable cotton-blend fabric for daily wear. Underwire support for natural shaping and lift. Smooth one-piece design for a seamless fit. Classic three-quarter cup for versatile coverage. Perfect for everyday use with any outfit. Details: Bra Style: One-piece Cup Shape: 3/4 Cup Support Type: Underwire Material: Cotton, Polyester, Spandex Pattern: Solid Style: Everyday Gender: Women Package Includes: 1 x Women’s Underwire Bra
-  Updated: 2026-03-14T11:10:55Z
+  Updated: 2026-03-22T00:47:56Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7492,7 +7492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4e4cdb575536480aa9d3b5b2c05feca0W.webp?v=1756750330
     Price: €24.99 EUR
 - [M&T Wear - Push Up Bra Backless Women Bras Low Cut Sexy Plunge Brassiere Open Back Wedding Underwear Invisible Seamless Deep U Lingerie](https://www.mtwear.store/products/push-up-bra-backless-women-bras-low-cut-sexy-plunge-brassiere-open-back-wedding-underwear-invisible-seamless-deep-u-lingerie): Elevate your everyday confidence with the M&T Wear Push-Up Wire-Free Bra. Designed for comfort and natural shaping, this bra combines soft nylon-spandex fabric with a supportive push-up design — all without the restriction of wires. Its sleek, solid style and three-quarter cup coverage make it the perfect choice for daily wear under any outfit. Why You’ll Love It: Push-up design enhances natural curves. Wire-free comfort for all-day wear. Soft and stretchy spandex-nylon blend. Adjustable straps for a personalized fit. Smooth, solid pattern ideal under clothes. Details: Bra Style: Push-Up Cup Shape: 3/4 Cup Support Type: Wire-Free Closure: Back Closure Material: Spandex, Nylon Pattern: Solid Style: Everyday Gender: Women Package Includes: 1 x Women’s Push-Up Bra
-  Updated: 2026-03-14T11:11:16Z
+  Updated: 2026-03-22T00:48:16Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7658,7 +7658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S5710c4ae19e04b88bd5f14609d3b6bbd3.webp?v=1756750327
     Price: €24.99 EUR
 - [M&T Wear - Fitness Sports Bra Gym Woman Sexy Hollow Push Up High Impact Shockproof Underwear Naked Crop Top Mujer Workout Women'S Yoga Bra](https://www.mtwear.store/products/fitness-sports-bra-gym-woman-sexy-hollow-push-up-high-impact-shockproof-underwear-naked-crop-top-mujer-workout-womens-yoga-bra): Stay comfortable and stylish during workouts or casual wear with the M&T Wear Women’s Fitness Camisole. Crafted from soft, breathable polyester, this versatile top is perfect for the gym, yoga, or layering into your everyday outfits. Designed with a sleek fit, it keeps you looking chic while giving you the freedom to move. Why You’ll Love It: Lightweight and breathable polyester fabric. Perfect for workouts, yoga, or casual wear. Simple yet stylish design — easy to pair with leggings, shorts, or jeans. Available in sizes S–L. Suitable for all seasons. Details: Item: Women’s Camisole Material: Polyester Gender: Women Sports Type: Fitness Pattern: As Shown Season: Spring, Summer, Autumn, Winter Size Range: S–L Package Includes: 1 x Women’s Camisole
-  Updated: 2026-03-14T11:11:20Z
+  Updated: 2026-03-22T00:48:21Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7700,7 +7700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf0e9296c661b42889e292afc4dfed206q.webp?v=1756750327
     Price: €29.99 EUR
 - [M&T Wear - Sports Yoga Bra for Women Halter Neck with Stylish Back Design Sexy Gym Bra for Running Fitness Sports Bras](https://www.mtwear.store/products/sports-yoga-bra-for-women-halter-neck-with-stylish-back-design-sexy-gym-bra-for-running-fitness-sports-bras): Elevate your workouts with the M&T Wear Women’s Yoga Top, designed to combine performance, comfort, and style. Featuring a supportive halter neck closure and a sleek knit design, this top moves with you—whether you’re flowing through yoga, hitting the gym, or enjoying a casual athleisure look. Why You’ll Love It: Quick-Dry Fabric: Keeps you cool and dry during intense sessions. Halter Neck Fit: Adds both support and a chic touch to your workout wardrobe. Flexible & Lightweight: Crafted with premium nylon for stretch and comfort. Versatile Use: Perfect for yoga, fitness training, or casual sporty wear. Details: Item: Women’s Yoga Top Material: Nylon Feature: Quick Dry Closure Type: Halter Neck Department: Women Sports Type: Yoga & Fitness Origin: Mainland China
-  Updated: 2026-03-14T11:11:30Z
+  Updated: 2026-03-22T00:48:31Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7786,7 +7786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S45306d5751234bcfb620a3977bcc2db5a.webp?v=1756750326
     Price: €29.99 EUR
 - [M&T Wear - Women's sports bra fitness top front zipper design sports vest fashionable bra yoga gym sports bra](https://www.mtwear.store/products/womens-sports-bra-fitness-top-front-zipper-design-sports-vest-fashionable-bra-yoga-gym-sports-bra): Take your workouts to the next level with the M&T Wear Breathable Yoga Leggings, designed to keep you comfortable, supported, and confident. Crafted with a premium polyester-spandex blend, these leggings provide just the right amount of stretch and breathability—perfect for yoga, fitness, or everyday athleisure wear. Why You’ll Love Them: Breathable Fabric: Keeps you cool and dry even during intense sessions. Flexible Stretch: Moves with your body for unrestricted performance. Sleek Fit: Flattering design with a supportive feel. Versatile Style: Great for yoga, running, gym, or casual outfits. Details: Item: Women’s Yoga Leggings Material: Polyester, Spandex Feature: Breathable, Stretchy Comfort Sports Type: Yoga & Fitness Origin: Mainland China Sizes Available: S, M, L, XL, 2XL, 3XL S: Length 85cm (33.5") M: Length 90cm (35.4") L: Length 95cm (37.4") XL: Length 100cm (39.4") 2XL: Length 105cm (41.3") 3XL: Length 110cm (43.3")
-  Updated: 2026-03-14T11:11:43Z
+  Updated: 2026-03-22T00:48:44Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7888,7 +7888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Scc4ff3e0b0364f8aa9559dee9625039fl.webp?v=1756750328
     Price: €29.99 EUR
 - [M&T Wear - Strapless Bra for Women Seamless Invisible Push Up Bras Backless Wedding Brassiere Self Adhesive Sexy Lingerie A To C Cup](https://www.mtwear.store/products/strapless-bra-for-women-seamless-invisible-push-up-bras-backless-wedding-brassiere-self-adhesive-sexy-lingerie-a-to-c-cup): Get natural-looking lift and support with the ideaCCSZ Breast Petals, designed for women who want comfort, confidence, and a seamless look under any outfit. These self-adhesive petals provide gentle coverage while enhancing your curves, making them a perfect alternative to traditional bras. Why You’ll Love Them: Natural Lift: Bottom push-up pads give your chest a fuller, lifted appearance. Seamless Fit: Invisible under clothing for a smooth, natural shape. Comfortable Wear: Made with soft polyester for breathable, all-day comfort. Reusable & Easy Care: Simple to clean, reuse, and maintain. Details: Item Type: Intimates Accessories – Breast Petals Material: Polyester Color Style: Natural Color (skin-toned) Craft of Weaving: Tat Gender: Women Origin: Mainland China Model Number: SF1227 Safety: Non-toxic, breathable, and skin-friendly Sizes: Choose one cup larger than your usual size for best comfort Example: If you usually wear a B cup (no pad), select a C cup for this product. Important Tips: Clean and dry skin before use for best adhesion. If you prefer extra lift and cleavage, choose a slightly smaller size. Asian sizing – please double-check size before purchase. If unsatisfied, contact us for a solution—we’re here to help!
-  Updated: 2026-03-14T11:11:47Z
+  Updated: 2026-03-22T00:48:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -7918,7 +7918,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S0e767c799039478299005cad209595be1.webp?v=1756750326
     Price: €24.99 EUR
 - [M&T Wear - Winter Jacket for Women Three-dimensional Plaid Woven Fashion Coat Solid High Street Warm and Thick 2023 Winter New Down Jacket](https://www.mtwear.store/products/winter-jacket-for-women-three-dimensional-plaid-woven-fashion-coat-solid-high-street-warm-and-thick-2023-winter-new-down-jacket): Stay warm in style with this thick cotton puffer jacket, designed for both comfort and fashion. Crafted from premium cotton and space cotton filling, this jacket provides excellent insulation without compromising on breathability. Perfect for chilly autumn evenings or harsh winter days, it’s a must-have staple for your seasonal wardrobe. Why You’ll Love It: Warm & Cozy: Thick filling ensures superior warmth in cold weather. High Street Style: Modern cut with a touch of vintage charm. Practical Design: Zipper closure and handy pockets for convenience. Everyday Essential: Pairs effortlessly with casual, chic, or streetwear outfits. Product Details: Material: Cotton, Space Cotton (Sustans filling) Thickness: Thick & warm Closure: Zipper Decoration: Vintage-style pockets Sleeves: Full-length Style: High Street / Casual Chic Length: Regular Weight: ~1000g (light yet warm) Season: Autumn / Winter Pattern: Solid color Upgrade your winter wardrobe with this timeless puffer jacket—warmth, style, and comfort in one! modname=ckeditor Size Bust Shoulder Length Sleeve Length размер бюст Ширина плеч длина Длина рукава CM inch CM inch CM inch CM inch S 116 45.67 64 25.20 68 26.77 52 20.47 M 120 47.24 65 25.59 69 27.17 53 20.87 L 124 48.82 66 25.98 70 27.56 54 21.26 XL 128 50.39 67 26.38 71 27.95 55 21.65 2XL 132 51.97 68 26.77 72 28.35 56 22.05 Note:Please allow 2-3cm differences due to manual measurement.(1cm=0.39inch, 1 inch=2.54cm) If you don't know how to choose size, please contact our customer service.
-  Updated: 2026-03-14T11:12:00Z
+  Updated: 2026-03-22T00:49:00Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8024,7 +8024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S237fec599e854e6ea86620e418761e038.webp?v=1756750329
     Price: €49.99 EUR
 - [M&T Wear - Winter Jackets Fur Collar Parkas Coat Men Vintage Thicken Fleece Warm Jackets Streetwear Harajuku Hip Hop Padded Jackets Outwear](https://www.mtwear.store/products/winter-jackets-fur-collar-parkas-coat-men-vintage-thicken-fleece-warm-jackets-streetwear-harajuku-hip-hop-padded-jackets-outwear): Stay warm and stylish this autumn and winter with the M&T Wear Men’s Winter Casual Jacket. Designed for daily wear, this jacket combines comfort, warmth, and a modern casual look, making it perfect for city streets, outdoor walks, or everyday adventures. Key Features: Warm & Comfortable: Filled with silk-like cotton to provide excellent insulation without feeling bulky. Durable Design: Made with high-quality polyester broadcloth for long-lasting wear. Functional Zipper Closure: Easy to wear, secure, and convenient for daily use. Hooded & Stand Collar: Protects against cold wind while maintaining a sleek style. Relaxed Fit: Loose fit and regular sleeves allow ease of movement. Versatile Wear: Ideal for autumn and winter casual outings. Product Details: Closure: Zipper Clothing Length: Regular Collar: Stand Hooded: Yes Lining Material: Polyester Pattern Type: Solid Material: Polyester Filling: Silk-like Cotton Sleeve Style: Regular Origin: Mainland China Style: Casual Thickness: Thick Type: Loose Size Guide: M: Length 136 cm / 53.54 in L: Length 140 cm / 55.12 in XL: Length 144 cm / 56.69 in Tips for Buyers: Allow 1-3 cm deviation due to hand measurement. Not sure about your size? Share your height and weight for accurate sizing advice. Slight color differences may occur due to monitor settings.
-  Updated: 2026-03-14T11:12:03Z
+  Updated: 2026-03-22T00:49:04Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8054,7 +8054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf71031db7ce74c5c8f7da82f0f4c128dP.webp?v=1756750326
     Price: €100.00 EUR
 - [M&T Wear - Men's Outdoor Hiking Camping Jackets Waterproof Hooded Windbreaker Coat Autumn New Casual Jacket Tactics Military Jacket Men 6XL](https://www.mtwear.store/products/mens-outdoor-hiking-camping-jackets-waterproof-hooded-windbreaker-coat-autumn-new-casual-jacket-tactics-military-jacket-men-6xl): Gear up for your next adventure with the M&T Wear Men’s Waterproof Military Outdoor Jacket. Designed for outdoor enthusiasts, this jacket is perfect for hiking, camping, cycling, fishing, and trekking in spring and autumn. Stay dry, comfortable, and stylish no matter where your journey takes you. Key Features: Durable & Waterproof: Made with high-quality nylon and polyester to keep you protected against wind and rain. Military-Inspired Design: Solid color, wide-waisted fit with practical pockets and a detachable hood for versatility. Functional Zipper Closure: Easy to wear and secure, suitable for any outdoor activity. Comfortable Fit: Standard thickness with regular sleeves for ease of movement during physical activities. Multi-Purpose Outdoor Use: Ideal for hiking, camping, climbing, cycling, fishing, and everyday casual wear. Product Details: Closure: Zipper Clothing Length: Regular Collar: Turn-Down Cuff Style: Conventional Hooded: Yes, detachable Lining Material: Polyester Pattern Type: Solid Origin: Mainland China Style: Military / Outdoor Type: Wide-waisted Perfect For: Outdoor adventures, travel, or any casual outing where style meets functionality. The M&T Wear Men’s Waterproof Jacket combines rugged durability with modern military style. Details Show
-  Updated: 2026-03-14T11:12:20Z
+  Updated: 2026-03-22T00:49:20Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8188,7 +8188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S5c08b61efbe04b51961452d7047767c23.webp?v=1756750330
     Price: €49.99 EUR
 - [M&T Wear - Quilted Jackets Zip-up Padded Cotton Coats for Women Short Warm Winter on  Loose Casual Parkas Woman Great Clothes 2024 Hot](https://www.mtwear.store/products/quilted-jackets-zip-up-padded-cotton-coats-for-women-short-warm-winter-on--loose-casual-parkas-woman-great-clothes-2024-hot): Stay warm and stylish this season with the M&T Wear Casual Patchwork Cotton Jacket, crafted for comfort, durability, and a modern look. Perfect for daily wear, casual outings, or street-style fashion, this jacket combines a cozy cotton-polyester blend with a soft polyester lining to keep you comfortable in chilly weather. Why You’ll Love It: All-Day Warmth: Thick cotton filling and soft lining provide excellent insulation. Modern Patchwork Design: Trendy spliced pattern adds a stylish edge to everyday wear. Practical Features: Full zipper closure and functional pockets for convenience. Relaxed Fit: Loose design ensures comfort without restricting movement. Product Details: Material: Cotton, Polyester blend with cotton filling Lining: Soft polyester Closure: Full zipper Collar: Turn-down collar Decoration: Patchwork & spliced detailing Sleeve Style: Regular Fit Type: Loose Clothing Length: Regular Thickness: Thick, ideal for autumn & winter Season: Autumn / Winter Origin: Mainland China Upgrade your casual wardrobe with this versatile, cozy, and stylish jacket—perfect for everyday wear or layering over your favorite outfits.
-  Updated: 2026-03-14T11:12:24Z
+  Updated: 2026-03-22T00:49:25Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8230,7 +8230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S05e468b42750438ea1cb28458d018902v.webp?v=1756750332
     Price: €69.99 EUR
 - [M&T Wear - Trendy Leather Jacket for Men Casual Man Coat Korean Reviews Many Fast Delvery Stylish Harajuku Y2k Cold Vintage New In Deals](https://www.mtwear.store/products/trendy-leather-jacket-for-men-casual-man-coat-korean-reviews-many-fast-delvery-stylish-harajuku-y2k-cold-vintage-new-in-deals): Step up your style game with the M&T Wear Men’s Casual Moto Jacket, designed for men who value both fashion and function. Perfect for autumn and winter, this jacket offers a modern biker-inspired look while keeping you comfortable throughout the day. Key Features: Premium Fabric Blend: Made from cotton, acetate, and polyester for durability and comfort. Moto & Biker Style: Solid color design with zipper accents for a sleek, edgy look. Functional Zipper Closure: Easy to wear and layer over any outfit. Turn-Down Collar & Conventional Cuffs: Classic touches for versatile styling. Regular Fit & Standard Thickness: Comfortable for daily wear without being bulky. Product Details: Closure: Zipper Clothing Length: Regular Sleeve Style: Regular Detachable Parts: None Hooded: No Lining Material: Polyester Origin: Mainland China Style Type: Casual, Moto & Biker Type: Loose Fit Perfect For: Casual outings, city rides, or adding an edgy touch to your everyday wardrobe. The M&T Wear Men’s Moto Jacket is your go-to choice for effortless style and comfort. Please note 1 cm = 0.39 inch,1 inch = 2.54 cm✅ S: Bust 102 cm ; Sleeve 61 cm ; Length 62 cm ; Weight 45-52.5 kg✅ M: Bust 106 cm ; Sleeve 62 cm ; Length 64 cm ; Weight 52.5-57.5 kg✅ L: Bust 110 cm ; Sleeve 63 cm ; Length 66 cm ; Weight 57.5-62.5 kg✅ XL: Bust 114 cm ; Sleeve 64 cm ; Length 68 cm ; Weight 62.5-67.5 kg✅ 2XL: Bust 116 cm ; Sleeve 65 cm ; Length 70 cm ; Weight 67.5-75 kg
-  Updated: 2026-03-14T11:12:28Z
+  Updated: 2026-03-22T00:49:28Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8256,7 +8256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S6877cea5932a4ba2945bcc188f7026142.webp?v=1756750330
     Price: €70.99 EUR
 - [M&T Wear - Men Outdoor Sport Leather Jacket Motorcycle Cool Coat Jacket Men Lapel Leather Jackets Mens Fashion Clothing Real Leather Coat](https://www.mtwear.store/products/men-outdoor-sport-leather-jacket-motorcycle-cool-coat-jacket-men-lapel-leather-jackets-mens-fashion-clothing-real-leather-coat): Upgrade your wardrobe with the M&T Wear Men’s PU Leather Jacket, a must-have for men who value style and comfort. Perfect for autumn and winter, this slim-fit jacket is designed to deliver a sleek, modern look without compromising on practicality. Key Features: Premium PU Leather: Smooth and durable for a timeless leather jacket style. Slim Fit Design: Tailored for a flattering silhouette while maintaining comfort. Functional Zipper Closure: Easy to wear and layer over any outfit. Turn-Down Collar: Adds a classic touch for versatile styling. Season-Ready: Ideal for autumn and winter, featuring a polyester lining for warmth. Product Details: Material: PU leather with polyester lining Closure: Zipper Collar: Turn-down Sleeve Length: Full Clothing Length: Regular Pattern Type: Solid Fit Type: Slim Thickness: Standard Hooded: No Origin: Mainland China Perfect For: Casual daily wear, motorcycle rides, or elevating your street style. The M&T Wear Men’s Leather Jacket is your go-to choice for effortless fashion and all-day comfort.
-  Updated: 2026-03-14T11:12:34Z
+  Updated: 2026-03-22T00:49:34Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8306,7 +8306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb4c4e8a54b324c0dbcddc89ce5195dade.webp?v=1756750333
     Price: €74.99 EUR
 - [M&T Wear - Locomotive Leather Jacket 2025 Europe America Autumn Winter New Loose Coat Fashion Cross-border Leather Jacket New Women's Coat](https://www.mtwear.store/products/locomotive-leather-jacket-2025-europe-america-autumn-winter-new-loose-coat-fashion-cross-border-leather-jacket-new-womens-coat): M&T Wear Women’s Office Lady Solid Jacket – Autumn/Winter Collection Step into effortless style with the M&T Wear Women’s Solid Jacket, perfect for the modern professional. Designed for comfort and elegance, this jacket features a classic turn-down collar, full-length sleeves, and a sleek solid-color finish—ideal for office days or casual outings. Its thick polyester construction keeps you warm while maintaining a polished silhouette. Key Features: Warm & Comfortable: Thick polyester material provides cozy insulation. Elegant & Versatile: Solid color and timeless design for office or casual wear. Functional Design: Full zipper closure for easy wear and layering. Perfect Fit: Regular fit with long sleeves for all-day comfort. Product Details: Material: Polyester Closure: Full zipper Collar: Turn-down collar Sleeve Style: Long sleeves, regular fit Clothing Length: Regular Pattern: Solid color Fit Type: Comfortable and casual Thickness: Thick, ideal for autumn & winter Season: Autumn/Winter Origin: Mainland China Available Sizes: S – 48 cm M – 49 cm L – 50 cm Upgrade your wardrobe with this chic, versatile jacket that blends comfort, warmth, and timeless style. Size Chart Size Shoulder Bust Sleeve Length Length CM CM CM CM S 48 118 53 63 M 49 122 54 64 L 50 126 55 65
-  Updated: 2026-03-14T11:12:37Z
+  Updated: 2026-03-22T00:49:38Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8336,7 +8336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S80623996e7f444b99246ef3b8a9255caw.webp?v=1756750332
     Price: €49.99 EUR
 - [M&T Wear - Biker Jaqueta Winter Men's Thick Fleece Long Leather Jacket Coat mens Outwear Fashion Leather Warm Casual Vintage Jackets](https://www.mtwear.store/products/biker-jaqueta-winter-mens-thick-fleece-long-leather-jacket-coat-mens-outwear-fashion-leather-warm-casual-vintage-jackets): modname=ckeditor
-  Updated: 2026-03-14T11:12:52Z
+  Updated: 2026-03-22T00:49:53Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8462,7 +8462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa1ed365035ae4d3eb2e188ac22a28558g.webp?v=1756750335
     Price: €99.99 EUR
 - [M&T Wear - Faux Leather Jacket Men Fashion Men's Hooded Jackets Autumn Winter Military Style Outwear Zipper Pockets Coat Detachable Hat](https://www.mtwear.store/products/faux-leather-jacket-men-fashion-mens-hooded-jackets-autumn-winter-military-style-outwear-zipper-pockets-coat-detachable-hat)
-  Updated: 2026-03-14T11:13:06Z
+  Updated: 2026-03-22T00:50:05Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8564,7 +8564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf542d8430d194859a01c4ade10d58d677.webp?v=1756750333
     Price: €74.99 EUR
 - [M&T Wear - Women's leather jacket for spring and autumn 2025, new high-end feel blazer, this year's popular short style for petite, vintage](https://www.mtwear.store/products/womens-leather-jacket-for-spring-and-autumn-2025-new-high-end-feel-blazer-this-years-popular-short-style-for-petite-vintage): Stay stylish and professional with the M&T Wear Women’s Casual Jacket, perfect for office wear or everyday outings. Featuring a classic single-breasted closure, full-length sleeves, and practical pockets, this short-length jacket offers a sleek, polished look while keeping comfort in mind. Its solid-color design makes it a versatile addition to any wardrobe. Key Features: Comfortable & Practical: Standard thickness polyester ensures all-day comfort. Timeless Design: Single-breasted closure and solid color for a polished, professional appearance. Functional Details: Includes pockets for convenience. Versatile Fit: Short-length cut suitable for layering over workwear or casual outfits. Product Details: Material: Polyester Closure: Single-breasted Collar: Classic style Sleeve Length: Full Clothing Length: Short (4–16 inches) Pattern: Solid color Season: Spring & Autumn Fit Type: Casual and comfortable Origin: Mainland China Available Sizes: S, M, L, XL Add this chic, office-ready jacket from M&T Wear to your wardrobe for a stylish, versatile look every day.
-  Updated: 2026-03-14T11:13:08Z
+  Updated: 2026-03-22T00:50:08Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8586,7 +8586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sde4ef549fb9c4568bfa9896fb03b1538n.webp?v=1756750333
     Price: €64.99 EUR
 - [M&T Wear - Rechargeable warm winter electric gloves, suitable for use in cold weather, keep hands away from the cold!](https://www.mtwear.store/products/rechargeable-warm-winter-electric-gloves-suitable-for-use-in-cold-weather-keep-hands-away-from-the-cold): Experience convenience and portability with this high-quality device, designed for everyday use. Compact, reliable, and ready to go—perfect for on-the-go situations. Key Features: Battery Included: Ready to use straight out of the box. Brand: Other Origin: Mainland China Safe & Reliable: Contains no high-concern chemicals. Perfect for: Daily use, travel, or as a handy backup device.
-  Updated: 2026-03-14T11:13:09Z
+  Updated: 2026-03-22T00:50:09Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8600,7 +8600,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf2f9d7b9f1f242acbcfe32bb24bcbc21L.webp?v=1756880022
     Price: €49.99 EUR
 - [M&T Wear - Winter Gloves Women Bear Elegant Windproof Waterproof Touch Screen Full Finger Hand Warm Skiing Outdoor Sports Mittens](https://www.mtwear.store/products/new-winter-gloves-women-bear-elegant-windproof-waterproof-touch-screen-full-finger-hand-warm-skiing-outdoor-sports-mittens): Stay warm and active this season with the M&T Wear Winter Gloves from M&T Wear. Designed for women who value both style and performance, these gloves are perfect for sports and daily outdoor activities. Key Features: Brand: M&T Wear Material: High-quality polyester for durability and comfort Design: Solid color, fashion-forward style with fourchettes for flexible movement Use: Ideal for sports, outdoor activities, and daily wear Origin: Mainland China Safe: No high-concern chemicals Why You’ll Love Them:These gloves combine warmth, flexibility, and fashion, making them a must-have accessory for autumn and winter. Perfect for gifting or treating yourself! gloves,warm gloves,ski gloves,winter gloves,
-  Updated: 2026-03-14T11:13:11Z
+  Updated: 2026-03-22T00:50:12Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8622,7 +8622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S705ef4829b4f4d79b29bd8ecd8fb1612u.webp?v=1756880022
     Price: €24.99 EUR
 - [M&T Wear - Winter Gloves Men Women Luxurious PU Leather Cashmere Warm Driving Gloves Black Touch Screen Waterproof Gloves Mittens](https://www.mtwear.store/products/hooldw-winter-gloves-men-women-luxurious-pu-leather-cashmere-warm-driving-gloves-black-touch-screen-waterproof-gloves-mittens): Stay stylish and comfortable this winter with M&T Wear Women’s Touchscreen Gloves. Designed for everyday wear, these full-finger gloves combine fashion, warmth, and practicality in one sleek design. Perfect for outdoor activities, commuting, or simply enjoying chilly days, they keep your hands cozy while allowing full touchscreen functionality. Key Features: Touchscreen Friendly: Easily use your smartphone or tablet without removing your gloves. Non-Slip Design: Provides a secure grip for safe handling of items in cold weather. Warm & Waterproof: Keeps your hands dry and cozy, even in wet or snowy conditions. High-Quality Material: Crafted from a premium blend of cashmere, microfiber, synthetic leather, and polyester for durability and comfort. Fashionable Style: Sleek solid-color design fits effortlessly with any outfit. Full Finger Coverage: Maximum warmth and protection for your hands. Material Composition: Cashmere, Microfiber, Synthetic Leather, PolyesterGloves Length: Wrist-lengthPattern: SolidIdeal For: Daily wear, sports, commuting, outdoor activitiesAvailable For: Women Upgrade your winter wardrobe with M&T Wear Touchscreen Winter Gloves—the perfect combination of style, warmth, and functionality.
-  Updated: 2026-03-14T11:13:14Z
+  Updated: 2026-03-22T00:50:14Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8644,7 +8644,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/H1f4a7423863b485d9cf4965cf88124e3h.webp?v=1756880023
     Price: €14.99 EUR
 - [M&T Wear - Winter New Solid Color Shawl Warm Women's Wool Neck Scarf Shawl Dual purpose Thickened Dress Shawl](https://www.mtwear.store/products/winter-new-solid-color-shawl-warm-womens-wool-neck-scarf-shawl-dual-purpose-thickened-dress-shawl): Wrap yourself in warmth and elegance with the M&T Wear Winter Shawl. Designed in a solid color with a chic minimalist style, this versatile piece works as both a scarf and shawl. Crafted from soft, thickened fabric, it’s perfect for keeping you cozy while adding a touch of understated sophistication to your winter wardrobe. Features: Material: Premium polyester blend Length: 135–175 cm Style: Dual-purpose scarf & shawl Pattern: Solid color Gender: Women Season: Winter Function: Thickened for extra warmth & comfort Why You’ll Love It:✔ 2-in-1 Design – Wear as a classic neck scarf or drape as a shawl✔ Soft & Thickened – Keeps you cozy on the coldest days✔ Minimalist Elegance – Low-key yet chic, perfect for casual or dressy outfits✔ Lightweight Warmth – Comfortable enough for daily wear, stylish enough for events Add a touch of unusual fashion and timeless charm to your winter style with the M&T Wear Solid Color Shawl – your go-to accessory for warmth and elegance.
-  Updated: 2026-03-14T11:13:18Z
+  Updated: 2026-03-22T00:50:18Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8670,7 +8670,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S85d22d62c16e4076b2676294136cfa34I.webp?v=1756880025
     Price: €29.99 EUR
 - [M&T Wear - Winter Scarf for Women Cashmere Warm Solid Pashmina Blanket Wraps Female Thick Soft Bufanda Big Tassel Shawl Long Poncho Echarpe](https://www.mtwear.store/products/winter-scarf-for-women-cashmere-warm-solid-pashmina-blanket-wraps-female-thick-soft-bufanda-big-tassel-shawl-long-poncho-echarpe): Stay warm and effortlessly stylish with the M&T Wear Thick Knit Winter Scarf. Designed with a luxurious cashmere-like texture, this scarf is soft, cozy, and perfect for chilly days. Its extra-long length (240cm) makes it versatile to wrap, drape, or style in multiple ways, while the elegant tassel details add sophistication to any outfit. Features: Material: Cashmere imitation (Viscose + Polyester) Size: 240 × 38 cm (1–3 cm error) Weight: Approx. 300g Pattern: Solid with large tassels Style: Fashionable scarf, shawl, or wrap Gender: Women Season: Winter, Autumn, Spring Package: Individually packed in OPP bag Why You’ll Love It:✔ Thick & Soft – Keeps you warm while feeling luxuriously soft✔ Versatile Styling – Oversized length allows multiple wrapping styles✔ Elegant Details – Tassels add a chic, designer-inspired finish✔ Everyday & Occasion Wear – Perfect for casual looks, travel, or dressy outfits Care Instructions:⚠ Not machine washable – Dry cleaning recommended for long-lasting quality. Add a touch of timeless winter elegance to your wardrobe with the M&T Wear Cashmere-Feel Scarf – where comfort meets style. ".
-  Updated: 2026-03-14T11:13:26Z
+  Updated: 2026-03-22T00:50:26Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8740,7 +8740,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S3703518275704426b0153217f8e9fff6Y.webp?v=1756880026
     Price: €19.99 EUR
 - [M&T Wear - Winter Hot  Women's Fur Collar Shawl Premium Quality Heavy Thick Knitting Shawl Luxury Designers Scarf Tassels Stoles](https://www.mtwear.store/products/winter-hot--womens-fur-collar-shawl-premium-quality-heavy-thick-knitting-shawl-luxury-designers-scarf-tassels-stoles): Add a touch of elegance and warmth to your winter wardrobe with the M&T Wear Women’s Luxury Fur Collar Shawl. Crafted from premium thick polyester knit, this shawl is soft, cozy, and designed to keep you warm in all seasons. Its square 90×90cm design with stylish tassels makes it versatile enough to wear as a scarf, shawl, or stole – perfect for casual outings, travel, or layering over your favorite winter outfits. Features: Material: High-quality polyester (soft, heavy-knit feel) Size: 90 × 90 cm Weight: Approx. 330g Pattern: Solid with tassels for a chic finish Colors: Available in 4 elegant shades Style: Fashionable shawl, scarf, or stole Season: Ideal for winter & year-round use Gender: Women Why Choose This Shawl?✔ Luxurious heavy-knit design for premium comfort✔ Multifunctional – wear it as a scarf, shawl, or wrap✔ Elegant tassel details for a designer-inspired look✔ Perfect for both everyday wear and special occasions Stay warm, stylish, and effortlessly chic with the M&T Wear Luxury Fur Collar Shawl – a must-have winter accessory.
-  Updated: 2026-03-14T11:13:27Z
+  Updated: 2026-03-22T00:50:28Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8754,7 +8754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sef946fb3c06e45a69bd9b24b5c2f6efdB.webp?v=1756880026
     Price: €29.99 EUR
 - [M&T Wear - Shawl Pashmina Thick Winter Warm Blanket Poncho Stoles Print Cashmere Scarf Women Travel Wraps Bufanda Female 2023 Luxury](https://www.mtwear.store/products/shawl-pashmina-thick-winter-warm-blanket-poncho-stoles-print-cashmere-scarf-women-travel-wraps-bufanda-female-2023-luxury): Wrap yourself in comfort and elegance with the M&T Wear Women’s Winter Printed Scarf & Shawl. Designed from premium polyester, this oversized scarf is soft, warm, and perfect for the chilly winter season. The stylish printed pattern adds a fashionable touch, making it versatile enough for both casual and dressy looks. Features: Material: High-quality polyester Size: 185 × 65 cm (extra length for versatile styling) Pattern: Chic printed design Style: Fashionable scarf or shawl Function: Lightweight, breathable & warm Season: Winter essential Gender: Women Why You’ll Love It:✔ Oversized design for endless styling possibilities✔ Perfect for daily wear, travel, or layering in cold weather✔ Combines fashion with function – cozy yet elegant Stay warm, stylish, and effortlessly chic with this winter printed scarf from M&T Wea
-  Updated: 2026-03-14T11:13:31Z
+  Updated: 2026-03-22T00:50:31Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8780,7 +8780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S96de23020a0244068bc614b7a52276ddL.webp?v=1756880027
     Price: €24.99 EUR
 - [M&T Wear - Luxury Designer Brand Winter Blanket Scarf Shawls for Women Warm Pashmina Cashmere Exquisite Floral Print Large Wrap Long Foular](https://www.mtwear.store/products/luxury-designer-brand-winter-blanket-scarf-shawls-for-women-warm-pashmina-cashmere-exquisite-floral-print-large-wrap-long-foular): Add a touch of elegance to your winter wardrobe with the M&T Wear Women’s Winter Floral Scarf & Shawl. Crafted from high-quality polyester, this lightweight yet warm accessory is perfect for travel, casual outings, and layering during cold weather. Its floral design adds sophistication, making it both a cozy and stylish choice. Features: Material: Premium polyester Length: Over 175 cm – versatile for styling as scarf or shawl Pattern: Elegant floral print Style: Fashionable, soft, and warm Season: Ideal for winter & travel Gender: Women Perfect For:✔ Daily wear✔ Travel and outdoor use✔ Pairing with coats, sweaters, or dresses Stay warm while looking chic with this floral winter essential from M&T Wear.
-  Updated: 2026-03-14T11:13:33Z
+  Updated: 2026-03-22T00:50:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8802,7 +8802,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S6a500174a6054544ad54ba52fc347c52t.webp?v=1756880026
     Price: €24.99 EUR
 - [M&T Wear - Winter New Bohemian Shawl Men Ponchos Cashmere Blend Cape Coat Fringe Poncho Vintage Tassel Scarf Hooded Wraps Outwear](https://www.mtwear.store/products/autumn-winter-new-bohemian-shawl-men-ponchos-cashmere-blend-cape-coat-fringe-poncho-vintage-tassel-scarf-hooded-wraps-outwear)
-  Updated: 2026-03-14T11:13:35Z
+  Updated: 2026-03-22T00:50:35Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8820,7 +8820,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S703d23e0fba94bd69704844520a5c223Y.webp?v=1756880028
     Price: €24.99 EUR
 - [M&T Wear - Wool Scarves Winter Soft Warm Cashmere Shawl Thickened Long Tassel Shawl Warm Scarf Fashion Solid Color Women Man Scarf](https://www.mtwear.store/products/wool-scarves-winter-soft-warm-cashmere-shawl-thickened-long-tassel-shawl-warm-scarf-fashion-solid-color-women-man-scarf): Wrap yourself in luxury with the M&T Wear Winter Cashmere Scarf & Shawl. Made with a soft blend of cashmere and polyester, this scarf offers unmatched warmth and comfort during the colder months. The solid color design makes it easy to pair with any outfit, while its versatile length allows you to wear it as a scarf or shawl for added style and coziness. Features: Material: Premium cashmere + polyester blend Size: 174 × 33 cm (approx.) Style: Solid color, timeless & elegant Type: Can be worn as a scarf or shawl Occasion: Ideal for winter, beach walks, casual outings & layering Gender: Women Package Includes: 1 × Scarf Note: Please allow 1–3 cm variation due to manual measurement. Colors may appear slightly different due to lighting and monitor settings. Stay warm, chic, and effortlessly stylish with this must-have winter essential from M&T Wear.
-  Updated: 2026-03-14T11:13:38Z
+  Updated: 2026-03-22T00:50:39Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8850,7 +8850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sfda109fb99244889bdee0e068dbed019F.webp?v=1756880027
     Price: €15.00 EUR
 - [M&T Wear - Korean Knitted Shawl Winter Air Conditioning Fake Collar Neck Guard Knit Thin Knotted Cape Shoulder Warm Scarf For Women](https://www.mtwear.store/products/korean-knitted-shawl-winter-air-conditioning-fake-collar-neck-guard-knit-thin-knotted-cape-shoulder-warm-scarf-for-women): Stay stylish and warm this winter with the M&T Wear Women’s Winter Scarf & Shawl. Designed with a blend of soft polyester and cotton, it delivers both comfort and durability, making it the perfect accessory for chilly days. The solid color design adds a touch of elegance, while its versatile size allows you to wear it as a scarf or shawl, depending on your look and occasion. Features: Material: Premium blend of polyester & cotton Style: Fashion-forward solid color design Type: Can be worn as a scarf or shawl Season: Ideal for Winter wear Category: Shawl & scarf accessory Occasion: Perfect for casual outings, daily wear, or layering with coats & jackets Wrap yourself in cozy elegance—whether you’re heading out for a walk, dressing up for a casual outing, or adding an extra touch of warmth to your outfit, this scarf from M&T Wear is your go-to winter essential.
-  Updated: 2026-03-14T11:13:41Z
+  Updated: 2026-03-22T00:50:42Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8880,7 +8880,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S66c22766752c40808993e74dfc9583d93.webp?v=1756880027
     Price: €19.99 EUR
 - [M&T Wear - Winter Coat Women Bright Surface  Large Collar Short Down Cotton Jacket Punk Style Slim](https://www.mtwear.store/products/winter-coat-women-bright-surface-large-collar-short-down-cotton-jacket-punk-style-slim): Beat the winter chill in style with the M&T Wear Women’s Slim Fit Winter Jacket. Crafted from high-quality polyester with spray-bonded wadding filling, it offers excellent warmth without unnecessary bulk. The sleek zipper closure, punk-inspired design, and slim-fit cut make it a perfect blend of edgy fashion and cozy comfort. Features: Material: Durable woven polyester with thick wadding filling Design: Slim fit with punk-style detailing Closure: Zipper (not fully open) Colors: Classic Black & Silver Gray Length: Regular cut for versatile wear Season: Designed for Winter Weight: 720g – warm yet lightweight Sizes: S, M, L, XL, XXL, XXXL, XXXXL, 5XL Whether you’re heading out for a casual day, night out, or streetwear statement look, this jacket keeps you warm while highlighting your unique style.
-  Updated: 2026-03-14T11:13:49Z
+  Updated: 2026-03-22T00:50:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -8934,7 +8934,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S1e90c93b45ff4e41b0dd0dd9df2bb7d6u.webp?v=1756880028
     Price: €39.99 EUR
 - [M&T Wear - Winter Coat For Women Fashion Solid Loose Lapel Double Breasted Trench Vintage Long Sleeve Jackets Warm Thick Woman New In Coats](https://www.mtwear.store/products/winter-coat-for-women-fashion-solid-loose-lapel-double-breasted-trench-vintage-long-sleeve-jackets-warm-thick-woman-new-in-coats): Stay effortlessly chic and warm this season with the M&T Wear Women’s Long Wool Coat. Designed with a double-breasted front and a classic turn-down collar, this coat blends timeless elegance with modern streetwear vibes. Its lantern sleeves add a stylish touch, while the thick polyester blend ensures comfort and warmth during chilly autumn and winter days. Features: Material: High-quality polyester wool blend Design: Double-breasted with button detailing Fit: Wide-waisted for a comfortable yet elegant silhouette Length: Extra-long for full coverage and sophistication Sleeves: Lantern style for a unique fashion-forward look Style: Streetwear with a touch of classic elegance Season: Autumn/Winter Closure: Full opening with secure buttons Available Sizes: S, M, L, XL, XXL Perfect for daily wear, office, street fashion, or evening outings, this coat is your go-to piece for both warmth and style.
-  Updated: 2026-03-14T11:14:13Z
+  Updated: 2026-03-22T00:51:12Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9095,7 +9095,7 @@
     Availability: Available
     Price: €59.99 EUR
 - [M&T Wear - Winter Gloves For Men Genuine Leather Gloves Outdoor Cycling Black Real Sheepskin Keep Warm Driving Motorcycle Gloves](https://www.mtwear.store/products/winter-gloves-for-men-genuine-leather-gloves-outdoor-cycling-black-real-sheepskin-keep-warm-driving-motorcycle-gloves): Gear up with M&T Wear Unisex Tactical Gloves, designed for outdoor adventures, driving, and everyday use. Crafted with high-quality microfiber, these gloves offer durability, comfort, and style. Features: Material: Premium microfiber for long-lasting wear and comfort. Design: Patchwork style, wrist-length, unisex fit. Type: Tactical gloves suitable for riding, driving, military use, and outdoor activities. Style: Novelty, versatile, and functional for men, women, and kids. Origin: Mainland China Perfect For: Motorcycling, driving, winter wear, tactical use, and casual daily activities.
-  Updated: 2026-03-14T11:14:13Z
+  Updated: 2026-03-22T00:51:13Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9109,7 +9109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc279a10fadf145738889a241aebf6165s.webp?v=1756880030
     Price: €19.99 EUR
 - [M&T Wear - Winter Gloves For Men Half Finger Writing Office Cycling Knitted Gloves Students Alpaca Wool Warm Thick Elastic Driving Gloves](https://www.mtwear.store/products/winter-gloves-for-men-half-finger-writting-office-cycling-knitted-gloves-students-alpaca-wool-warm-thick-elastic-driving-gloves): Keep your hands warm while staying active with M&T Wear Women’s Half-Finger Sports Gloves. Designed for comfort and functionality, these gloves are perfect for sports, workouts, or everyday use. Features: Material: Premium synthetic cashmere for a soft, cozy feel. Design: Half-finger style with fourchettes for better flexibility and movement. Length: Wrist-length for optimal coverage and comfort. Colors: Black, Light Gray, Navy Blue, Dark Gray – versatile and stylish. Function: Keeps hands warm without restricting movement. Size: 11 x 17.5 cm (1 pair). Gender: Women / UnisexPattern Type: SolidStyle: Fashionable and sportyOrigin: Mainland China Perfect for outdoor sports, casual wear, or chilly days, these gloves combine warmth, style, and functionality for an active lifestyle.
-  Updated: 2026-03-14T11:14:15Z
+  Updated: 2026-03-22T00:51:17Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9135,7 +9135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sac88e0cd2d38464ebfe5fd4bc820ae98p.webp?v=1756880029
     Price: €9.99 EUR
 - [M&T Wear - Winter Gloves for Men Women, Waterproof Thermal Snow Ski Gloves Outdoor - Work, Hiking, Skiing, Running, Biking, Riding Glove](https://www.mtwear.store/products/winter-gloves-for-men-women-waterproof-thermal-snow-ski-gloves-outdoor-work-hiking-skiing-running-biking-riding-glove): Hit the slopes or tackle winter activities with confidence with M&T Wear Malowgas Ski Gloves. Designed for adults and youth of all genders, these gloves combine comfort, warmth, and functionality. Key Features: Touchscreen Compatible: Stay connected without removing your gloves. All-Weather Protection: Windproof, waterproof, and breathable for ultimate comfort in cold conditions. Non-Slip Grip: Secure hold for skiing, snowboarding, or outdoor activities. Ambidextrous Design: Fits both left and right hands perfectly. Durable Material: Made from high-quality polyester for long-lasting wear. Age Range:  (Men, Women, Youth)Material: PolyesterSpecial Features: Touchscreen, Keep Warm, Breathable, Non-slip, Windproof, WaterproofModel Number: GL2401Origin: Mainland China Stay warm, stylish, and fully functional this winter with M&T Wear Malowgas Ski Gloves—perfect for all your snow adventures!
-  Updated: 2026-03-14T11:14:19Z
+  Updated: 2026-03-22T00:51:19Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9161,7 +9161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S60fba407d7664ce7b1d0f21fa9d3cb0cw.webp?v=1756880030
     Price: €19.99 EUR
 - [M&T Wear - Soft Winter Half Finger Gloves Women Warm Luxury Solid White Plush Knitted Fingerless Gloves Wrist Mittens Writting](https://www.mtwear.store/products/soft-winter-half-finger-gloves-women-warm-luxury-solid-white-plush-knitted-fingerless-gloves-wrist-mittens-writting): Stay warm, stylish, and active with M&T Wear Women’s Fingerless Gloves. Perfect for sports, outdoor activities, or casual wear, these gloves keep your hands cozy while allowing full finger mobility for texting, cycling, or handling equipment. Key Features: Fingerless Design: Provides flexibility and dexterity while keeping your hands warm. Soft & Plush Material: Made from a high-quality blend of polyester, imitation mink velvet, acrylic, and cotton for ultimate comfort. Fashionable & Versatile: Available in Black, White, Pink, and Camel to match any outfit. Wrist-Length Fit: Ensures warmth and a secure fit for everyday wear. Lightweight & Comfortable: Perfect for sports, commuting, or casual activities. Material Composition: Polyester, Imitation Mink Velvet, Acrylic, CottonGloves Length: WristSize: 16 × 8 cmPattern: SolidQuantity: 1 pairIdeal For: Sports, outdoor activities, casual wear Upgrade your winter accessory collection with M&T Wear Fingerless Plush Gloves—style, warmth, and functionality in one!
-  Updated: 2026-03-14T11:14:21Z
+  Updated: 2026-03-22T00:51:22Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9183,7 +9183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S77f6486a2a6141bd976bf70697ee25e5g.webp?v=1756880031
     Price: €19.99 EUR
 - [M&T Wear - Sexy Women's Satin Soft G-Strings Thongs T-Panties Low Waist Bow Briefs Shorts Comfortable Female Underwear Трусы Женские](https://www.mtwear.store/products/sexy-womens-satin-soft-g-strings-thongs-t-panties-low-waist-bow-briefs-shorts-comfortable-female-underwear-трусы-женские): Elevate your lingerie collection with the M&T Wear Satin Soft G-String Thongs. Crafted from luxurious nylon satin, these low-waist panties are soft, lightweight, and comfortable for all-day wear. The delicate bow detail adds a touch of charm, making them both sexy and elegant. Perfect for everyday wear, special occasions, or as a gift. Features: Material: Premium nylon satin Style: Low-rise G-string thongs Decoration: Bow accent for added elegance Gender: Women Pattern: Solid color Size: S–L (see size reference) Function: Comfortable, soft, and breathable Use: Everyday wear, romantic moments, special occasions Why You’ll Love It:✔ Luxury Satin Comfort – Soft on the skin and lightweight for all-day wear✔ Sexy & Elegant Design – Bow detail and low-rise cut enhance your silhouette✔ Adjustable & Versatile – Perfect fit for most body types✔ Multi-Purpose – Ideal for daily wear, lingerie sets, or intimate moments Add charm and comfort to your lingerie drawer with the M&T Wear Satin Soft G-String Thongs – where elegance meets sensuality. Size Chart (1 inch=2.54cm) Tag Size S M L Waist cm 64 68 72 Waist inch 25.2 26.8 28.3 Length cm 20 21 22 Length inch 7.9 8.3 8.7 Suitable weight 90-120kg 100-130kg 110-140kg Different measurement methods, please allow 1-2cm deviation трусы женские, lencerias sexy, lingeries sexy hot, sexy, ropa interior de mujer, sexy female lingerie, lingerie, lenceria, tangas mujeres, труси жіночі, ropa interior femenina, calzones para mujer, panties, tangas, underwear women, стринги женские, сексуальное белье женское, tangas mujeres hilitos, ropa interior sexy y femenina , g-string, сексуальные аксессуары, sexy panties, sexy tоy for women, білизна жіноча, bragas mujer, lencería, женские трусики, tanga, сексуальна білизна жіноче, penetration, трусы, lingerie ultra sexy, 여성 마이크로속옷, woman underwear, трусики женские, calcinhas feminina, нижнее белье женское, majtki damskie, Сексуальные, underwear, panties for woman, string femme, 일본여자 팬티, трусы женские хлопок, стринги, culotte femme, sous vêtements femmes, underwear woman, белье женское, stringi damskie, ropa interior, strings sexy hot, bragas, 팬티, нижнее бельё женское, белье женское сексуальное, 속옷, нижнее белье, lencería mujeres, bragas sexys, жіночі трусики, 섹시팬티, sexy lingеrie, ملابس داخليه للنساء ساخنه, ropa interior mujer, mini tangas, 섹시, 여성팬티, sexy underwears women, білизна сексуальна жіноча, bielizna damskie, 일본여성 팬티, lingеrie, сексуальное белье, ملابس داخلية نسائية, sexy lingerie, plus size woman, женское нижнее белье, perizomi donna
-  Updated: 2026-03-14T11:14:31Z
+  Updated: 2026-03-22T00:51:31Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9246,7 +9246,7 @@
     Availability: Available
     Price: €14.99 EUR
 - [M&T Wear - Women Ruffle Edge Sexy Lace Mesh Satin Transparent Underwear Thin Breathable High Elasticity Low Waist Seamless Panties Breifs](https://www.mtwear.store/products/women-ruffle-edge-sexy-lace-mesh-satin-transparent-underwear-thin-breathable-high-elasticity-low-waist-seamless-panties-breifs): Add a touch of comfort and charm to your everyday lingerie with these low-rise floral panties. Crafted from a soft and breathable blend of cotton, polyester, and nylon, they ensure all-day comfort while maintaining a flattering fit. Perfect for daily wear or lounging at home, these panties combine style, comfort, and practicality. Features: Material: Cotton, Polyester, Nylon Color/Pattern: Floral Panties Type: Briefs Rise Type: Low-Rise Gender: Women Style: Casual & Comfortable Origin: Mainland China Package Includes: 1 x Pair of Panties Note: Please refer to the size chart before purchasing for the best fit. Slight color differences may occur due to monitor settings. Manual measurement may allow for ±2 cm deviation.
-  Updated: 2026-03-14T11:14:39Z
+  Updated: 2026-03-22T00:51:39Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9312,7 +9312,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S479a2b3ab50745d1857b44c186571d3e4.webp?v=1757439947
     Price: €14.99 EUR
 - [M&T Wear - Summer Women Underwear Sexy See Through Invisible Tights Narrow Waist Edge High Elasticity Pantyhose Oil Glossy Shaping Hosiery](https://www.mtwear.store/products/summer-women-underwear-sexy-see-through-invisible-tights-narrow-waist-edge-high-elasticity-pantyhose-oil-glossy-shaping-hosiery): Upgrade your wardrobe with these high-elastic, oil-glossy tights—perfect for pole dance, clubwear, or everyday style. Designed with spandex, nylon, and polyester, they are ultra-thin, breathable, and stretch to fit your shape comfortably. The high waist design provides a flattering silhouette while the solid glossy finish adds a touch of shine to your look. Features: Material: Spandex, Nylon, Polyester Style: High Waist, Open Crotch, Pole Dance/Clubwear, Without Thongs Thickness: Thin Pattern Type: Solid Gender: Women Origin: Mainland China Size: One Size Fits S-L Height: 150–175 cm Weight: 40–65 kg Waist: 55–86 cm Hips: 65–100 cm Package Includes: 1 x Pair of Tights (Without Thongs) Notes: Please allow slight color differences due to monitor display. Stretchable fabric accommodates multiple sizes comfortably.
-  Updated: 2026-03-14T11:14:42Z
+  Updated: 2026-03-22T00:51:43Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9342,7 +9342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S59749ba500b5485d900bffc24b14f025V.webp?v=1757439946
     Price: €19.99 EUR
 - [M&T Wear - Shirts for Men Long Sleeve Printed Funny with Print Man Shirt Button Up Sleeves Fashion 2024 Elegant Hipster High Quality Luxury](https://www.mtwear.store/products/shirts-for-men-long-sleeve-printed-funny-with-print-man-shirt-button-up-sleeves-fashion-2024-elegant-hipster-high-quality-luxury): Elevate your office and smart-casual looks with this stylish printed shirt. Designed with a blend of comfort and sophistication, it’s perfect for spring and summer wear. ✅ Key Features: Material: Cotton, polyester, and spandex blend – breathable with a hint of stretch Collar: Classic turn-down collar for a sharp look Closure: Covered button, full opening for a neat finish Sleeves: Long sleeves, regular style for versatility Pattern: Modern print design, perfect balance of business and casual Fabric: Poplin weave with tat craft – smooth, durable, and comfortable Season: Ideal for spring and summer wear Occasion: Business meetings, office, semi-formal events, or smart daily wear Please note 1 cm = 0.39 inch,1 inch = 2.54 cm✅ M: Bust 96 cm ; Shoulder 42 cm ; Sleeve 61 cm ; Length 68 cm ; Weight 49-55 kg✅ L: Bust 100 cm ; Shoulder 43 cm ; Sleeve 62 cm ; Length 70 cm ; Weight 55.5-62.5 kg✅ XL: Bust 104 cm ; Shoulder 44 cm ; Sleeve 63 cm ; Length 72 cm ; Weight 64-68.5 kg✅ 2XL: Bust 108 cm ; Shoulder 45 cm ; Sleeve 64 cm ; Length 74 cm ; Weight 70.5-72.5 kg✅ 3XL: Bust 112 cm ; Shoulder 46 cm ; Sleeve 65 cm ; Length 76 cm ; Weight 74-80 kg✅ 4XL: Bust 116 cm ; Shoulder 47 cm ; Sleeve 66 cm ; Length 78 cm ; Weight 82.5-87.5 kg
-  Updated: 2026-03-14T11:14:49Z
+  Updated: 2026-03-22T00:51:49Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9396,7 +9396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Scf3bb0fd470c4d4a83700d9fa31bb179V.webp?v=1757439947
     Price: €34.99 EUR
 - [M&T Wear - Men Shirts New Print Button Shirt Fashion Stand Collar Loose Fitting Men's Shirts Casual Streetwear Comfortable](https://www.mtwear.store/products/men-shirts-new-print-button-shirt-fashion-stand-collar-loose-fitting-mens-shirts-casual-streetwear-comfortable): Stay cool and stylish on your summer trips or casual days with this lightweight men’s printed shirt. Designed for comfort and ease, it combines breathable fabric with quick-dry performance—perfect for warm weather. ✅ Key Features: Material: High-quality polyester – soft, lightweight & easy to care for Design: V-neck with buckle closure for a modern casual look Pattern: Trendy printed style, perfect for summer vibes Fabric: Broadcloth weave with tat craft – smooth and durable Sleeves: Short sleeve, regular fit Special Features: Breathable & quick-dry for all-day freshness Occasion: Ideal for summer trips, daily wear, beach days, or casual outings Care: Machine washable for easy maintenance SHORT SLEEVE:
-  Updated: 2026-03-14T11:15:14Z
+  Updated: 2026-03-22T00:52:15Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9582,7 +9582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S04e93f1734c241a3b25148f6f0c672305.webp?v=1757439950
     Price: €24.99 EUR
 - [M&T Wear - Men's Shirts Beer Shirts For Men Fashion Hawaiian Shirt Casual Vocation Beach Blouses Holiday Blouse Mens Clothing Camisa Summer](https://www.mtwear.store/products/mens-shirts-beer-shirts-for-men-fashion-hawaiian-shirt-casual-vocation-beach-blouses-holiday-blouse-mens-clothing-camisa-summer): Add a stylish edge to your wardrobe with this printed casual shirt. Designed with comfort and versatility in mind, it’s perfect for daily wear across all four seasons. ✅ Key Features: Material: Polyester + Spandex blend for durability and stretch Collar: Classic turn-down collar for a clean look Closure: Single-breasted, full opening Sleeves: Short sleeves (4–16 inch length), regular fit Pattern: Trendy printed design for casual styling Fabric: Broadcloth, non-woven weave – lightweight yet structured Season: Suitable for year-round wear Occasion: Ideal for casual outings, daily wear, or relaxed office days 📏 Available Sizes:S, M, L, XL, 2XL, 3XL, 4XL, 5XL – designed to fit comfortably. DETAILED:
-  Updated: 2026-03-14T11:15:31Z
+  Updated: 2026-03-22T00:52:32Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9716,7 +9716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S22d3d0f7aabd4f0ebd06543f4f881568E.webp?v=1757439951
     Price: €29.99 EUR
 - [M&T Wear - Spring and Autumn High-end Long-sleeved Men's Fancy Shirt Micro-Stretched Slim Personalized Fashion Printed Shirt](https://www.mtwear.store/products/spring-and-autumn-high-end-long-sleeved-mens-fancy-shirt-micro-stretched-slim-personalized-fashion-printed-shirt): Keep cool and stylish this summer with this lightweight men’s shirt designed for casual wear. Its clean design and breathable fabric make it a go-to choice for everyday outfits. ✅ Key Features: Material: Premium polyester, soft and easy to care for Style: Korean fashion-inspired casual shirt Closure: Single-breasted, full opening Sleeve Length: Full sleeves for a sleek, modern look Weaving: Non-woven finish for a smooth and lightweight feel Season: Perfect for summer wear – breathable and comfortable Occasion: Ideal for casual outings, coffee meetups, or smart daily wear
-  Updated: 2026-03-14T11:15:37Z
+  Updated: 2026-03-22T00:52:38Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9770,7 +9770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S231c1f13f21b43cea17215b653efcf63U.webp?v=1757439949
     Price: €29.99 EUR
 - [M&T Wear - Shirts for men Apricot Handsome Lapel Men Blouse Vacation Hollow Out Sexy Fashion Men Clothing Male Mesh Long-sleeved Shirts](https://www.mtwear.store/products/shirts-for-men-apricot-handsome-lapel-men-blouse-vacation-hollow-out-sexy-fashion-men-clothing-male-mesh-long-sleeved-shirts): Men’s Casual Turn-Down Collar Shirt – NoEnName_Null Step up your daily style with this lightweight and versatile men’s shirt, perfect for spring and summer wear. ✅ Key Features: Material: High-quality polyester for comfort and durability Design: Solid color with a casual, modern look Collar: Classic turn-down collar for a smart yet relaxed vibe Closure: Single-breasted, full opening Sleeves: Long sleeve with regular fit for everyday wear Fabric Type: Broadcloth with knit weaving for a smooth finish Style: Casual shirt that pairs effortlessly with jeans, chinos, or shorts 👔 Occasion: Perfect for daily wear, casual outings, office-casual, or relaxed evening events Product details Fast transportation, rest assured after 
-  Updated: 2026-03-14T11:15:40Z
+  Updated: 2026-03-22T00:52:40Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9792,7 +9792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S78b00921fe5b460b8c457d6e77586eafZ.webp?v=1757439950
     Price: €39.99 EUR
 - [M&T Wear - Men's Casual Shoes Feature A Breathable Mesh Upper and A Thick Sole Making Them Fashionable and Versatile for Casual Wear](https://www.mtwear.store/products/new-mens-casual-shoes-feature-a-breathable-mesh-upper-and-a-thick-sole-making-them-fashionable-and-versatile-for-casual-wear): Stay light on your feet with these stylish and durable men’s sports shoes, designed for all-day comfort and casual wear. ✅ Key Features: Breathable Air Mesh Upper – keeps your feet cool and fresh Height Increasing Design – adds subtle lift without compromising comfort Hard-Wearing Rubber Outsole – ensures long-lasting traction and durability Lace-Up Closure – secure and adjustable fit Lightweight PU Insole – cushioning support for daily wear Season Ready – perfect for Spring and Autumn True to Size Fit – easy to pick your exact size with confidence 👟 Style: Low-top sports shoes, not above the ankle, with classic solid color design. 📏 Available Sizes: EU 31 – 52 (US 1.5 – 14.5) with detailed length guide for a precise fit. Perfect for workouts, casual outings, or everyday wear – these shoes combine breathable comfort with a sporty edge.
-  Updated: 2026-03-14T11:15:51Z
+  Updated: 2026-03-22T00:52:51Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9882,7 +9882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sdabe40de339048e48142bd8acefda654q.webp?v=1757439952
     Price: €34.99 EUR
 - [M&T Wear - Shoes Men Casual  Comfort Men Shoes Denim Male Shoes  Footwear 2024 New  Loafers Canvas  Sneakers Driving](https://www.mtwear.store/products/shoes-men-casual-comfort-men-shoes-denim-male-shoes--footwear-2024-new-loafers-canvas-sneakers-driving): Classic, lightweight, and built for everyday wear. These canvas loafers combine comfort with effortless style, making them your go-to shoes for spring and autumn. Slip them on and stay cool, fresh, and confident all day. Features: Breathable & Sweat-Absorbent: Keeps feet cool and dry, even during long wear. Soft Comfort: Fabric insole and cotton lining with a cushioned feel. Durable Build: Hard-wearing rubber outsole with injection-molded technology. Odor-Free Freshness: Anti-odor and moisture-friendly materials. Effortless Slip-On: Easy to wear with a shallow opening for a comfortable fit. Stylish Details: Subtle rivets and stitching accents for a modern look. Details: Upper Material: Canvas Insole: Fabric Lining: Cotton Outsole: Rubber Toe Shape: Round Heel: Flat Closure: Slip-on Season: Spring / Autumn Fit: True to size Gender: Men Style: Loafers / Doug shoes Coverage: Below ankle
-  Updated: 2026-03-14T11:16:01Z
+  Updated: 2026-03-22T00:53:01Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -9960,7 +9960,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S20249fcc62b84056b2905fb52268feb2L.webp?v=1757439952
     Price: €39.99 EUR
 - [M&T Wear - New Casual Shoes for Men White Luxury Round Toe Men Ankle Boots Light Slip on Walking Shoes Outdoor Comfor Men High Top Sneakers](https://www.mtwear.store/products/new-casual-shoes-for-men-white-luxury-round-toe-men-ankle-boots-light-slip-on-walking-shoes-outdoor-comfor-men-high-top-sneakers): Built for everyday wear with a clean, versatile edge. These split-leather casual boots combine comfort and durability with a modern zip closure for easy on and off. Perfect for spring and autumn, they’re the kind of shoes you’ll want to live in. Features: Premium Upper: Made from durable split leather for a sleek look. Easy Access: Zip closure for quick wear and a secure fit. All-Day Comfort: Cushioned EVA insole keeps every step light. Strong Grip: Rubber outsole designed for traction and durability. Versatile Style: Casual boots that sit above the ankle, pairing easily with jeans or chinos. Details: Upper Material: Split Leather Insole: EVA Outsole: Rubber (non-slip, durable) Closure: Zip Lining: None Fit: True to size Coverage: Above ankle Gender: Men Season: Spring / Autumn
-  Updated: 2026-03-14T11:16:09Z
+  Updated: 2026-03-22T00:53:09Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10030,7 +10030,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sd6a08c9cfce4445484cb43debd0643b8P.webp?v=1757439953
     Price: €44.99 EUR
 - [M&T Wear - Men's Casual Shoes Men Casual and Comfortable Running Sneakers Durable Lace-Up Design Suitable for Outdoor Sports and Daily Wear](https://www.mtwear.store/products/mens-casual-shoes-men-casual-and-comfortable-running-sneakers-durable-lace-up-design-suitable-for-outdoor-sports-and-daily-wear): A timeless pair you can count on. These lace-up casual shoes are built for everyday comfort with a clean, versatile look that works for work, weekends, and everything in between. Features: Comfort First: EVA insole with cotton lining for cushioned, breathable wear. Durable & Lightweight: EVA outsole designed for flexibility and long-lasting comfort. Easy Fit: Classic lace-up closure keeps your foot secure. Everyday Style: Sleek artificial leather upper with a simple, versatile design. Season Ready: Perfect for spring and autumn wear. Details: Upper: Artificial Leather Lining: Cotton Insole: EVA Outsole: EVA (lightweight, non-slip) Fit: True to size Closure: Lace-up Gender: Men Coverage: Below ankle Toe Shape: Round Size Guide:Available from EU 34–50 (US 3–13.5). Check the size chart to match your foot length before ordering for the perfect fit. p{margin-block-start: 0; margin-block-end: 0}
-  Updated: 2026-03-14T11:16:21Z
+  Updated: 2026-03-22T00:53:21Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10132,7 +10132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc7b202e7446e456189be6addf4217833O.webp?v=1757439953
     Price: €49.99 EUR
 - [M&T Wear - Men Shoes New Casual Shoes Soft Casual Sneaker Breathable Running Shoes For Man Bohemian Style Canvas Shoes](https://www.mtwear.store/products/men-shoes-new-casual-shoes-soft-casual-sneaker-breathable-running-shoes-for-man-bohemian-style-canvas-shoes): Upgrade your everyday style with these casual slip-ons that don’t just look good—they also give you a subtle height boost. Designed for comfort, durability, and a unique fashion edge, these shoes are perfect for daily wear in spring and autumn. Features: Height Increasing: Adds a discreet lift while keeping comfort in check. Light & Breathable: Fabric upper keeps feet cool and relaxed. Comfort Inside: Soft fabric insole for all-day wear. Durable Grip: PVC outsole for flexibility and long-lasting use. Casual Yet Stylish: Unique totem-inspired design with mixed colors for a modern look. Easy Wear: Slip-on style with a round toe for a natural fit. Details: Upper Material: Fabric Insole: Fabric Outsole: PVC (non-slip, durable) Toe Shape: Round Pattern: Mixed colors / Totem detail Lining: None Fit: True to size Coverage: Below ankle Gender: Men Size Guide:Available in EU 39–46 (US 6.5–12). Check our size chart for exact foot length before ordering.
-  Updated: 2026-03-14T11:16:30Z
+  Updated: 2026-03-22T00:53:31Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10210,7 +10210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf37cb2a719dc4a97b814f22fd29534d4w.webp?v=1757439953
     Price: €59.99 EUR
 - [M&T Wear - Men's casual shoes four season light versatile fashion soft soled outdoor comfortable semi slippers wear-resistant casual shoes](https://www.mtwear.store/products/mens-casual-shoes-four-season-light-versatile-fashion-soft-soled-outdoor-comfortable-semi-slippers-wear-resistant-casual-shoes): Stay stylish and comfortable with these breathable slip-ons, perfect for everyday wear. Designed with a casual yet modern look, they’re versatile enough for work, outings, or laid-back weekends. Features: Breathable & Lightweight: Keeps your feet fresh and comfortable all day. Water-Resistant Design: PU upper provides light protection against splashes. Soft Comfort: EVA insole with cotton lining for extra cushioning. Durable Grip: Rubber outsole for stability and long-lasting wear. Effortless Style: Easy slip-on design with a casual skateboard shoe look. Perfect for Spring & Autumn: Ideal transitional shoes for everyday use. Details: Upper Material: PU Lining: Cotton Insole: EVA Outsole: Rubber (non-slip) Pattern: Gingham design Fit: True to size Gender: Men Coverage: Below ankle
-  Updated: 2026-03-14T11:16:42Z
+  Updated: 2026-03-22T00:53:41Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10276,7 +10276,7 @@
     Availability: Available
     Price: €49.99 EUR
 - [M&T Wear - New Shoes for Men Leather Casual Shoes Luxury Pointed Toe Party Dress Shoes Street Trend Slip-on Rhinestone Crown Loafers](https://www.mtwear.store/products/new-shoes-for-men-leather-casual-shoes-luxury-pointed-toe-party-dress-shoes-street-trend-slip-on-rhinestone-crown-loafers): Stay stylish and comfortable with these breathable slip-ons, perfect for everyday wear. Designed with a casual yet modern look, they’re versatile enough for work, outings, or laid-back weekends. Features: Breathable & Lightweight: Keeps your feet fresh and comfortable all day. Water-Resistant Design: PU upper provides light protection against splashes. Soft Comfort: EVA insole with cotton lining for extra cushioning. Durable Grip: Rubber outsole for stability and long-lasting wear. Effortless Style: Easy slip-on design with a casual skateboard shoe look. Perfect for Spring & Autumn: Ideal transitional shoes for everyday use. Details: Upper Material: PU Lining: Cotton Insole: EVA Outsole: Rubber (non-slip) Pattern: Gingham design Fit: True to size Gender: Men Coverage: Below ankle -----------------------------------------------------------------------------
-  Updated: 2026-03-14T11:16:50Z
+  Updated: 2026-03-22T00:53:50Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10330,7 +10330,7 @@
     Availability: Available
     Price: €54.99 EUR
 - [M&T Wear - Men's casual Sneakers Spring Autumn New trendy Shoes Breathable Solid Color shoes non slip Men Driving footwear Zapatos Homme](https://www.mtwear.store/products/mens-casual-sneakers-spring-autumn-new-trendy-shoes-breathable-solid-color-shoes-non-slip-men-driving-footwear-zapatos-homme): Step into everyday comfort and timeless style with these versatile men’s loafers. Whether you’re headed to work, a casual outing, or just want a reliable go-to pair, these shoes are designed to keep you looking sharp and feeling great. Features: Breathable & Comfortable: Lightweight design with a soft EVA insole for all-day wear. Durable Build: Hard-wearing rubber outsole for grip and long-lasting use. Fresh Feel: Anti-odor materials keep your feet feeling clean. Easy Wear: Slip-on or lace-up style for quick and convenient fit. Season-Ready: Perfect for spring and autumn days. Details: Upper Material: PU + PC blend Lining: PU Outsole: Rubber (non-slip, flexible) Fit: True to size Style: Casual loafers, ankle-low design Waterproof: No Gender: Men Size Guide:Available from EU 37–50 (US 5–13.5). Please check our size chart before ordering to ensure the perfect fit.
-  Updated: 2026-03-14T11:16:59Z
+  Updated: 2026-03-22T00:53:58Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10400,7 +10400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S0adc6279dd9547c8acb1caf5278e0f9eZ.webp?v=1757439955
     Price: €54.99 EUR
 - [M&T Wear - Fashion Casual Leather Shoes For Men Comfortable Slip On Loafers Men Summer High Quality Social Shoes Male Large Size Flat Shoes](https://www.mtwear.store/products/fashion-casual-leather-shoes-for-men-comfortable-slip-on-loafers-men-summer-high-quality-social-shoes-male-large-size-flat-shoes): Step into effortless style with the M&T Wear Men’s Casual Loafers. Designed with a pointed toe and patchwork detail, these shoes combine modern fashion with everyday comfort. The slip-on design makes them easy to wear, while the breathable and lightweight build keeps you comfortable throughout the day. Perfect for casual outings in spring and autumn. Features Upper Material: Flannel Closure: Slip-on Toe Shape: Pointed Pattern: Patchwork Outsole Material: Durable rubber Insole: EVA for comfort Fit: True to size Season: Spring & Autumn Occasion: Casual wear Coverage: Below ankle Waterproof: No Why You’ll Love It Stylish pointed-toe loafers with patchwork design Lightweight, breathable, and hard-wearing construction Easy slip-on style for quick wear and all-day comfort
-  Updated: 2026-03-14T11:17:03Z
+  Updated: 2026-03-22T00:54:05Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10446,7 +10446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S38e412fc2a734844874b772f9802670bV.webp?v=1757439956
     Price: €49.99 EUR
 - [M&T Wear - Shorts Men Urban Military Waterproof Cargo Tactical Shorts Male Outdoor Camo Breathable Quick Dry Pants Summer Casual Shorts](https://www.mtwear.store/products/shorts-men-urban-military-waterproof-cargo-tactical-shorts-male-outdoor-camo-breathable-quick-dry-pants-summer-casual-shorts): Stay comfortable and stylish in the M&T Wear Casual Button-Fly Shorts, designed for daily wear during spring and summer. Made from durable polyester, these knee-length shorts feature practical pockets and a regular fit, making them a go-to choice for casual outings. Features Material: Polyester Style: Casual, knee-length Closure: Button fly Fit Type: Regular Waist: Mid-rise Decoration: Functional pockets Pattern: Solid color Season: Spring & Summer Size Guide S: 78–82 cm / 30.71–32.28 in M: 82–87 cm / 32.28–34.25 in L: 86–91 cm / 33.86–35.83 in XL: 90–95 cm / 35.43–37.40 in XXL: 94–99 cm / 37.01–38.98 in XXXL: 98–103 cm / 38.58–40.55 in Why You’ll Love It Lightweight and breathable fabric for warm weather Classic casual style easy to pair with tees or polos Multiple sizes available for the perfect fit
-  Updated: 2026-03-14T11:17:16Z
+  Updated: 2026-03-22T00:54:16Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10548,7 +10548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S92a10d666d9749bdbc1f9f370d1a2a0fD.webp?v=1757496977
     Price: €29.99 EUR
 - [M&T Wear - Men's Cargo Shorts, Outdoor, Travel, Casual Sports, Large Pockets, Durable and Comfortable Fabrics, Thin Shorts for Outings 17](https://www.mtwear.store/products/mens-cargo-shorts-outdoor-travel-casual-sports-large-pockets-durable-and-comfortable-fabrics-thin-shorts-for-outings-17): Keep it simple and stylish with the M&T Wear Solid Summer Casual T-Shirt. Made from lightweight polyester, this tee is perfect for hot summer days, offering both comfort and breathability. Its minimal solid-color design makes it a versatile piece for any casual outfit. Features Material: Polyester Season: Summer Scene: Casual, everyday wear Pattern: Solid color Gender: Men Highlights Soft, breathable, and lightweight fabric Simple yet versatile style Easy to pair with shorts, jeans, or joggers Perfect for daily wear in warm weather
-  Updated: 2026-03-14T11:17:32Z
+  Updated: 2026-03-22T00:54:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10674,7 +10674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb26deabefbbf4706b427176f53bb69e7L.webp?v=1757496981
     Price: €29.99 EUR
 - [M&T Wear - Summer Running Shorts for Men Casual Jogging Sport Short Pants Wave Pattern Solid Color Drawstring Loose Dry Gym Sports Shorts](https://www.mtwear.store/products/summer-running-shorts-for-men-casual-jogging-sport-short-pants-wave-pattern-solid-color-drawstring-loose-dry-gym-sports-shorts): Stay cool and comfortable during warm-weather workouts or casual days out with the M&T Wear Summer Running Shorts. Designed with a relaxed fit and breathable polyester fabric, these shorts are perfect for training, running, or everyday wear. Features Material: Polyester Fit: Loose, smart casual style Closure: Adjustable drawstring waistband Length: Above the knee (shorts) Pattern: Solid color design Season: Spring & Summer Gender: Men Highlights Lightweight and breathable for hot weather Loose fit for ease of movement Drawstring closure for a secure, adjustable fit Versatile: ideal for workouts, running, or casual wear
-  Updated: 2026-03-14T11:17:42Z
+  Updated: 2026-03-22T00:54:43Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10764,7 +10764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S21381dc4d82549c7981827fbfe4e5603J.webp?v=1757496978
     Price: €29.99 EUR
 - [M&T Wear - Women Seamless Panties Underwear Female High Waist Brief Hip Lift Breathable Underpants Sexy Lingerie Body Shaper](https://www.mtwear.store/products/women-seamless-panties-underwear-female-high-waist-brief-hip-lift-underpanties-breathable-underpant-sexy-lingerie-body-shaper): Enhance your curves and feel confident all day with these hip-lifting thong briefs. Featuring semi-sheer floral lace and a T-shaped back, they provide a seductive, minimal-coverage look while offering comfort and style. ✨ Features Material: Nylon, Spandex Type: Briefs / Thong Rise: Low-Rise with Hip Lift Support Decoration: Lace Appliques Design: Sexy T-back, high-leg cut Gender: Women Origin: Mainland China Color: As pictured (slight variations possible) Package Weight: 30g Package Size: 25 × 20 × 5 cm 💎 Highlights Elastic Waistband – High stretch, keeps shape, fits comfortably. Seductive Lace Design – Sexy semi-sheer floral lace with a playful cut. Comfortable & Breathable – Soft cotton panel for all-day wear. Versatile – Perfect for daily wear, date nights, or as a gift. 📌 Notes Manual measurement may have a 1–3 mm error. Colors may vary slightly due to screen differences. Would you like me to also create a short, punchy marketing title + 3 bullet points version (like Amazon/Shopify style) so it attracts clicks instantly?
-  Updated: 2026-03-14T11:17:46Z
+  Updated: 2026-03-22T00:54:47Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10798,7 +10798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S7671413524fe46b3848e68695d0d509f0.webp?v=1757496979
     Price: €19.99 EUR
 - [M&T Wear - Silk Panties Nice Briefs Soft Underwear Women's Mid rise Elegance Girls Sexy Lingerie](https://www.mtwear.store/products/silk-panties-nice-briefs-soft-underwear-womens-mid-rise-elegance-girls-sexy-lingerie): Experience everyday comfort with these women’s mid-rise briefs, made from a soft and breathable blend of nylon and spandex. Designed for a smooth fit, they offer stretch, durability, and all-day ease. Features Material: Nylon, Spandex Type: Briefs Rise: Mid-Rise Pattern: Solid Gender: Women Highlights Soft, breathable fabric Flexible stretch fit Simple solid design Ideal for daily wear
-  Updated: 2026-03-14T11:18:03Z
+  Updated: 2026-03-22T00:55:02Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -10924,7 +10924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S83d1a0f0d6b54a71910845bb000f151e8.webp?v=1757496980
     Price: €14.99 EUR
 - [M&T Wear - Summer Thin Fitness Shorts Push Up Women Panty Sexy Gym Biker Shorts Short Feminino Leggings Workout Clothing Shorts Underwear](https://www.mtwear.store/products/summer-thin-fitness-shorts-push-up-women-panty-sexy-gym-biker-shorts-short-feminino-leggings-workout-clothing-shorts-underwear): Enhance your curves and feel confident all day with these high-waist, hip-lifting thong briefs. Designed with semi-sheer floral lace and a T-shaped back, these panties offer minimal coverage while shaping and lifting your hips for a seductive look. The elastic waistband and stretchable fabric ensure comfort without compromising style. Features: Material: Nylon, Spandex Panties Type: BRIEFS / Thong Rise Type: Low-Rise / High Waist Hip Lift Decoration: Lace Appliques Sexually Suggestive: Yes Gender: Women Origin: Mainland China Color: As pictured (slight variation possible due to monitor differences) Package Weight: 30g Package Size: 25x20x5 cm Highlights: Elastic Waistband: High stretch for a perfect fit that maintains shape. Sexy Thong Design: High leg cut with a playful T-shaped back. Breathable & Comfortable: Semi-sheer lace with a soft cotton panel. Versatile Usage: Perfect for daily wear, special occasions, or as a gift. Notes: Manual measurement may have a 1–3 mm error. Color may slightly vary from images due to monitor settings. Size Waist Recommended weight S 52cm/20.47'' 35-45kg M 56cm/22.05'' 45-55kg L 60cm/23.62'' 55-65kg XL 64cm/25.20'' 65-75kg Size:S Waist:52cm/20.47'' Recommended weight:35-45kg Size:M Waist:56cm/22.05'' Recommended weight:45-55kg Size:L Waist:60cm/23.62'' Recommended weight:55-65kg Size:XL Waist:64cm/25.20'' Recommended weight:65-75kg
-  Updated: 2026-03-14T11:18:27Z
+  Updated: 2026-03-22T00:55:27Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11082,7 +11082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S274245a2d8fc488aaa4dcee3a18d5d7eV.webp?v=1757496983
     Price: €19.99 EUR
 - [M&T Wear - Seamless Panties Shapewear Women High Waist Shaping Panties Breathable Body Shaper Slimming Tummy Underwear Butt Lifter](https://www.mtwear.store/products/seamless-panties-shaperwear-women-high-waist-shaping-panties-breathable-body-shaper-slimming-tummy-underwear-butt-lifter): Shape your body with confidence. The M&T Wear control panties are designed to smooth, slim, and lift – giving you a flawless silhouette whether it’s for daily wear or special occasions. ✅ Key Features: Type: Women’s shapewear control panties Material: Premium nylon – soft, stretchy & breathable Control Level: Medium compression for tummy control & waist shaping Design: Built-in butt lifter for natural enhancement Style: Wire-free, cupless, all-day comfort Fabric: Knit broadcloth for durability and flexibility Thickness: Standard – lightweight yet supportive Occasion: Ideal under dresses, skirts, jeans, or office outfits Effect: Slims waist, flattens tummy & lifts hips
-  Updated: 2026-03-14T11:18:28Z
+  Updated: 2026-03-22T00:55:30Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11097,7 +11097,7 @@
     Availability: Available
     Price: €19.99 EUR
 - [M&T Wear - Women's underwear sexy seamless lace hollow out gauze ribbon middle waist female panties ladies breathable comfortable lingerie](https://www.mtwear.store/products/womens-underwear-sexy-seamless-lace-hollow-out-gauze-ribbon-middle-waist-female-panties-ladies-breathable-comfortable-lingerie): Experience all-day comfort with these mid-rise women’s briefs, crafted from a soft and stretchy blend of 90% nylon and 10% spandex, with a cotton-blend crotch for extra breathability. The delicate lace decoration adds a touch of elegance while keeping the design simple and practical for daily wear. Features: Material: 90% Nylon, 10% Spandex; Crotch: 95% Cotton, 5% Spandex Type: Mid-Rise Briefs Gender: Women Decoration: Lace Origin: Mainland China Panties Type: BRIEFS Sexually Suggestive: No
-  Updated: 2026-03-14T11:18:38Z
+  Updated: 2026-03-22T00:55:38Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11157,7 +11157,7 @@
     Availability: Available
     Price: €14.99 EUR
 - [M&T Wear - Girls Thick Warm Fur Collar Down Coat](https://www.mtwear.store/products/childrens-winter-jacket-thick-warm-fur-collar-hood-beads-elastic-waist-teens-girls-down-coat-fashion-windproof-kids-overcoat): Keep her cozy, stylish, and warm all winter long with the M&T Wear Girls’ Hooded Down Coat. Featuring bead decorations for a cute, fashionable touch, this coat combines comfort with charm – perfect for school days, outdoor adventures, and special outings. ✨ Features 90% Down Content – Lightweight warmth without bulk. Hooded Design – Extra protection against cold winds. Bead Decoration – Adds a cute and stylish flair. Zipper Closure – Easy to wear and secure fit. Durable Polyester Fiber – Long-lasting and comfortable. Winter-Ready Build – Thick yet lightweight (0.65kg). 👧 Age Range: 7–13 Years🧥 Style: Girls’ Down Coat / Parka❄️ Season: Winter🎯 Fit: True to Size Available in multiple sizes (110–150), this jacket is a must-have winter essential for girls who love warmth and fashion in one.
-  Updated: 2026-03-14T11:18:49Z
+  Updated: 2026-03-22T00:55:49Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11228,7 +11228,7 @@
     Availability: Available
     Price: €110.00 EUR
 - [M&T Wear -  Unisex faux leather Locomotive Stylish Jacket](https://www.mtwear.store/products/3-12-years-old-girls-faux-leather-jacket-children-pu-coat-long-sleeve-zip-belt-locomotive-jacket-stylish-teen-kids-boys-jackets): Add a bold and stylish edge to your child’s wardrobe with the M&T Wear Kids’ Faux Leather Locomotive Jacket. Designed with a sleek zipper closure and classic turn-down collar, this jacket brings both comfort and attitude for kids who love to stand out. ✨ Features Faux Leather Material – Durable, stylish, and easy to care for. Turn-Down Collar – Classic design with a modern twist. Full-Zip Closure – Easy to wear and layer. Belted Style – Adds an extra touch of cool. Unisex Fit – Perfect for both boys and girls. Heavyweight Build – Ideal for autumn weather. 👦👧 Age Range: 3T – 12T (7–12Y fit)🧥 Style: Locomotive Faux Leather Jacket🍂 Season: Autumn🎯 Fit: True to Size Whether for school, family outings, or a stylish photoshoot, this jacket delivers a confident streetwear vibe that kids will love.
-  Updated: 2026-03-14T11:18:54Z
+  Updated: 2026-03-22T00:55:55Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11274,7 +11274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S3d4d6cc048094371acbdb7b51c149b003.webp?v=1758184902
     Price: €50.00 EUR
 - [M&T Wear - Unisex PU Leather Jacket](https://www.mtwear.store/products/brand-quliaty-girls-boys-pu-jackets-kids-baby-leather-jacket-spring-autumn-coat-children-clothes-overcoats-2-10t): Give your child’s wardrobe a stylish update with the M&T Wear Kids’ Faux Leather Jacket. Designed with a soft woolen lining and a trendy turn-down collar, this jacket is perfect for spring and autumn outings while keeping kids comfy and fashionable. ✨ Features Faux Leather Material – Durable and easy to clean. Woolen Lining – Provides warmth and comfort. Turn-Down Collar – Adds a touch of classic style. Unisex Design – Perfect for both boys and girls. All-Occasion Wear – Great for casual looks or dressing up. 👦👧 Age Range: 12M – 12 Years🧥 Style: Kids’ Faux Leather Jacket🌤️ Season: Spring & Autumn🎯 Fit: True to Size Size Guide (Height Reference): 12M → Fits ~85cm 18–24M → Fits ~95cm 3T → Fits ~105cm 4–5T → Fits ~115cm 6–7T → Fits ~125cm 8–9T → Fits ~135cm A versatile outerwear piece that combines fashion and function, making it a must-have jacket for kids’ seasonal wardrobes.
-  Updated: 2026-03-14T11:19:00Z
+  Updated: 2026-03-22T00:56:00Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11316,7 +11316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S63b8c4eb6b4d47a09ae6dd8dc02133daA.webp?v=1758184903
     Price: €65.00 EUR
 - [M&T Wear - Boys Denim 3 Piece Set](https://www.mtwear.store/products/kids-new-denim-jacket-boys-coat-toddler-sport-clothes-suit-clothing-set-cotton-jeans-coat-t-shirt-pants-star-tracksuit-children): Dress your little one in comfort and style with the M&T Wear Baby Boys’ Clothing Set. Made with soft polyester, this 3-piece set is perfect for all seasons, keeping your baby cozy and looking adorable. ✨ Features 3-Piece Set – Includes jacket, top, and bottoms for a complete outfit. Soft & Comfortable – Gentle polyester fabric suitable for delicate skin. Turn-Down Collar – Cute and classic design. Pullover Style – Easy to dress your baby without fuss. All-Season Wear – Lightweight yet cozy for year-round use. 👶 Age Range: 0–4 Years🧥 Item Type: Baby Boys’ Clothing Set (3 PCS)🌤️ Season: All Seasons🎯 Fit: True to Size Perfect for daily wear, outings, or as a thoughtful baby shower gift, this M&T Wear baby set blends comfort with casual fashion KIDS SIZE (CM) US SIZE Length Chest Pants Suggest Heigth 80=18M 36 52 47 75-85 90=2T 38 54 49 85-90 100=3T 40 56 51 90-95 110=4T 42 58 53 95-105 Notes:1.Please allow +/-2cm differences due to manual measurement .2.All measurement is in cm,1cm=0.3937 inch,1inch = 2.540cm.Please kindly refer to your kids actual height and the size chart before buying/bidding.
-  Updated: 2026-03-14T11:19:10Z
+  Updated: 2026-03-22T00:56:10Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11386,7 +11386,7 @@
     Availability: Available
     Price: €65.00 EUR
 - [M&T Wear - Handsome Cool Design Boys Leather Motor Jacket](https://www.mtwear.store/products/handsome-cool-design-boys-leather-motor-jacket-for-autumn-spring-kids-warm-coat-bomber-baby-toddler-winter-clothes-2-12-years): Give his winter wardrobe a bold and stylish upgrade with the M&T Wear Boys’ Winter Patchwork Jacket. Made from a durable polyester and faux leather blend with a satin finish, this heavyweight jacket is designed to keep him warm while looking effortlessly trendy. ✨ Features Patchwork Design – Modern and stylish look that stands out. Durable Materials – Made with polyester and faux leather for comfort and longevity. Heavyweight Warmth – Perfect for the colder winter months. Zipper Closure – Easy to wear and secure. Turn-Down Collar – Adds a touch of classic style to a modern jacket. 👦 Age Range: 3–12 Years🧥 Outerwear Type: Boys’ Jacket❄️ Season: Winter🎯 Fit: True to Size Perfect for school, outdoor adventures, or casual outings, this M&T Wear jacket combines warmth, durability, and fashion for active boys
-  Updated: 2026-03-14T11:19:19Z
+  Updated: 2026-03-22T00:56:19Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11464,7 +11464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S6bba9c90a954436fb3a4411ea43260a99.webp?v=1758184903
     Price: €99.00 EUR
 - [M&T Wear: Classic Retro Boys PU Leather Jacket](https://www.mtwear.store/products/childrens-pu-leather-jacket-boys-fashion-coat-girls-classic-retro-outerwear-autumn-kids-new-street-fashionable-casual-tops): Elevate your little one’s street style with this M&T Wear PU Leather Jacket. Designed for both boys and girls, this classic retro coat combines edgy street fashion with everyday comfort. Perfect for autumn weather, it features a durable, wind-resistant outer layer that keeps kids warm while looking effortlessly cool. Whether for a photo shoot, a casual day out, or a special event, this trendy top is the ultimate wardrobe staple for the fashion-forward child. Key Features: Style: Classic Retro / Street Fashion Material: High-quality PU Leather (Windproof & Durable) Season: Ideal for Autumn/Fall and mild Winter days Fit: Unisex design suitable for toddlers and young kids (1–5 Years) Occasion: Casual wear, parties, and outdoor activities Size Guide Please refer to the measurements below to ensure the perfect fit for your child. Size Tag Recommended Age Body Height Length Bust 80 12 Months (12M) ~80 cm 35 cm 72 cm 90 2 Years (2T) ~90 cm 37 cm 76 cm 100 3 Years (3T) ~100 cm 40 cm 80 cm 110 4 Years (4T) ~110 cm 43 cm 84 cm 120 5 Years (5T) ~120 cm 46 cm 92 cm
-  Updated: 2026-03-14T11:19:22Z
+  Updated: 2026-03-22T00:56:23Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11490,7 +11490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se07f601273c94d1eaa35d6f75ac94601A.webp?v=1758184903
     Price: €90.00 EUR
 - [M&T Wear - Girls Leather Motorcycle Style Jacket](https://www.mtwear.store/products/girls-jacket-leather-motorcycle-kids-coats-fleece-children-jacket-winter-autumn): Keep her cozy and stylish all season with the M&T Wear Girls’ Winter Faux Leather Jacket. Designed with a trendy turn-down collar and a sleek solid look, this heavyweight jacket is perfect for both warmth and fashion during the colder months. ✨ Features Classic Winter Style – A fashionable jacket that pairs effortlessly with any outfit. Faux Leather Material – Durable, stylish, and easy to maintain. Heavyweight Warmth – Ideal for chilly winter days. Turn-Down Collar & Zipper Closure – Comfortable and easy to wear. Fashionable & Versatile – Perfect for school, outings, or casual occasions. 👧 Age Range: 7–12 Years🧥 Outerwear Type: Girls’ Winter Jacket❄️ Season: Winter🎯 Fit: True to Size A must-have winter essential that blends comfort, durability, and fashion for young girls who love to stay warm without sacrificing style. SIZE CHARTsize 100, length 41cm, chest 44cm, sleeve 39cmsize 110, length 44cm, chest 46cm, sleeve 42cmsize 120, length 46cm, chest 47cm, sleeve 45cmsize 130, length 49cm, chest 49cm, sleeve 47cmsize 140, length 52cm, chest 51cm, sleeve 49cmsize 150, length 55cm, chest 53cm, sleeve 51cm
-  Updated: 2026-03-14T11:19:28Z
+  Updated: 2026-03-22T00:56:29Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11544,7 +11544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S37d144a481524b60a4e0aa8b4d128c15v.webp?v=1758184905
     Price: €39.99 EUR
 - [M&T Wear - Unisex Denim Jacket Anime Demon Hunter](https://www.mtwear.store/products/kids-denim-jacket-anime-kpop-demon-hunter-saja-boys-new-autumn-sweatshirts-hooded-coats-fashion--casual-streetwear-clothes): Give your child’s wardrobe a bold upgrade with the M&T Wear Kids’ Kpop Demon Hunter Denim Jacket. Inspired by anime and Kpop streetwear vibes, this jacket blends casual fashion with a playful cartoon design, making it perfect for autumn outings, birthdays, or even themed parties. ✨ Features K pop & Anime Inspired Design – Trendy cartoon details for a standout streetwear look. Single-Breasted Closure – Easy to wear and style. Heavyweight Denim Blend – Durable cotton-polyester fabric for comfort and long-lasting use. Casual & Versatile – Great for everyday wear, school, or Halloween costumes. All-Season Style – Best for autumn but versatile enough for different looks year-round. 👦👧 Age Range: 3–6Y, 7–12Y, 12+🧥 Outerwear Type: Denim Jacket🍂 Season: Autumn🎯 Fit: Slightly Larger Than Usual (check size chart before ordering) Perfect for kids who love Kpop, anime, and cool streetwear fashion – this jacket is as stylish as it is fun!
-  Updated: 2026-03-14T11:20:01Z
+  Updated: 2026-03-22T00:57:01Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11750,7 +11750,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4f670f6f265f4f398d60d689c6348b65p.webp?v=1758184910
     Price: €75.00 EUR
 - [M&T Wear - Boys Jeans Jackets Casual Zipper](https://www.mtwear.store/products/boys-jeans-jackets-spring-girls-fashion-hooded-coats-autumn-children-clothes-kids-casual-zipper-colorblocking-outerwear-1-10y): Keep your little one cozy and stylish, Designed with a soft polyester-denim blend, this lightweight jacket features a casual patchwork style that’s perfect for everyday wear in spring and autumn. The hooded design adds extra comfort and a sporty touch, making it a must-have outerwear piece for active kids. ✨ Features Trendy Hooded Design – Combines denim style with casual comfort. Patchwork Details – Adds a fun, fashionable look. Zipper Closure – Easy to wear and remove. Lightweight & Breathable – Perfect for layering in all seasons. Durable Material – Made with a polyester-denim blend for comfort and long-lasting wear. Full-Length Sleeves – Ideal for cool days. 👧👦 Age Range: 1–10 Years🧥 Style: Hooded Denim Jacket🌤️ Season: Spring, Autumn, and All Seasons🎯 Fit: True to Size✨ Condition: 100% Brand New Perfect for school, play, outings, or casual wear – this hooded denim jacket is a versatile wardrobe essential for boys and girls alike.
-  Updated: 2026-03-14T11:20:05Z
+  Updated: 2026-03-22T00:57:06Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11788,7 +11788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se4b9f91379e943ef99e1bd447af94757H.webp?v=1758184906
     Price: €59.99 EUR
 - [M&T Wear - Girls Jeans Jackets Embroidered Long Sleeve Button Denim Jackets](https://www.mtwear.store/products/2025-spring-summer-girls-jeans-jackets-kids-coats-outerwear-embroidered-long-sleeve-button-denim-jackets-for-girls-clothes-2-8): Give her everyday look a touch of charm with the FCLHDWKK Girls’ Embroidered Denim Jacket. Made from a comfy cotton-polyester blend, this jacket is stylish, durable, and perfect for year-round wear. The floral embroidery adds a sweet, fashionable detail that makes it stand out. ✨ Features Classic Denim Style – A timeless piece for layering. Floral Embroidery – Cute and trendy design for girls. Turn-Down Collar – Simple yet stylish finish. Single-Breasted Closure – Easy to put on and take off. Durable Cotton-Poly Fabric – Comfortable, breathable, and long-lasting. All-Season Wear – Great for spring, summer evenings, and autumn days. 👧 Age Range: 2–8 Years (3T–8)🧥 Style: Girls’ Denim Jacket🌤️ Season: All Seasons🎯 Fit: True to Size✨ Condition: 100% Brand New Perfect for school, playdates, parties, or family outings – this denim jacket is a must-have layering piece that combines both fashion and function for little girls.
-  Updated: 2026-03-14T11:20:12Z
+  Updated: 2026-03-22T00:57:12Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11842,7 +11842,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/HTB1Y3XyzxWYBuNjy1zkq6xGGpXaC.webp?v=1758184906
     Price: €44.99 EUR
 - [M&T Wear - Boys Jeans Jackets With Cartoon Embroidery](https://www.mtwear.store/products/kids-denim-jacket-boys-jeans-coat-clothing-fashion-baby-boy-denim-jacket-with-cartoon-embroidery-child-casual-streetwear-outfit): Give his wardrobe a cool, trendy upgrade with the M&T Wear Boys’ Denim Jacket. Crafted from a soft cotton-polyester blend, this jacket blends everyday streetwear vibes with playful cartoon embroidery, making it just right for both casual outings and special occasions. ✨ Features Classic Denim Look – Stylish and versatile for any outfit. Cartoon Embroidery – Brings fun and character to his style. Single-Breasted Closure – Easy to wear and layer. Turn-Down Collar – A timeless touch with a modern twist. Durable Cotton-Poly Blend – Comfortable, breathable, and long-lasting. All-Season Ready – Lightweight yet sturdy for year-round wear. 👦 Age Range: 7–13 Years🧥 Style: Boys’ Denim Jacket🌤️ Season: All Seasons🎯 Fit: True to Size From school days to parties, playdates, and family outings – this denim jacket is the go-to piece for boys who love both comfort and style.
-  Updated: 2026-03-14T11:20:16Z
+  Updated: 2026-03-22T00:57:15Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11872,7 +11872,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S88357d312b314c259a4c625afd96dd4eB.webp?v=1758184906
     Price: €40.00 EUR
 - [M&T Wear - Kids Basketball Shoes Comfortable Non-slip Students Running Shoes Soft Sole 2025 New Boys Girls Sports Shoes Hook&loop Trendy](https://www.mtwear.store/products/kids-basketball-shoes-comfortable-non-slip-students-running-shoes-soft-sole-2025-new-boys-girls-sports-shoes-hook-loop-trendy): Keep your kids moving safely and stylishly with M&T Wear’s PU Leather Casual Shoes. Designed for active children, these shoes offer anti-slip protection, all-day comfort, and a versatile design that works for both boys and girls. ✨ Features PU Leather Upper – Durable, easy to clean, and stylish. Anti-Slip Rubber Sole – Ensures safety on all surfaces. Breathable Mesh Lining – Keeps little feet cool and comfy. Hook & Loop Closure – Quick, secure, and kid-friendly. Unisex Design – Perfect for both boys and girls. All-Season Wear – Ideal for year-round use. 👟 Age Range: 7–13 Years👦👧 Gender: Unisex🌤️ Season: All Seasons🎯 Fit: True to Size
-  Updated: 2026-03-14T11:20:31Z
+  Updated: 2026-03-22T00:57:32Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -11998,7 +11998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sfff3655991ba488a8fe77ec3283e87e3P.webp?v=1758184910
     Price: €39.99 EUR
 - [M&T Wear - Kids Sneakers Boys Sports Running Shoes Anti-Skid Leather Fashion Tennis Walking Footwear Comfort Children Casual Athletic Shoes](https://www.mtwear.store/products/kids-sneakers-boys-sports-running-shoes-anti-skid-leather-fashion-tennis-walking-footwear-comfort-children-casual-athletic-shoes): Keep him active and comfortable all day with M&T Wear’s Boys’ Casual Leather Shoes. Designed with a sleek leather upper, breathable mesh lining, and lightweight EVA sole – these shoes are the perfect balance of style, comfort, and durability. ✨ Features Premium Leather Upper – Soft yet durable for long-lasting wear. Breathable Mesh Lining – Keeps feet cool and dry. Hook & Loop Strap – Easy for kids to put on and take off. Lightweight EVA Sole – Flexible and cushioned for comfort. Solid Color Design – Stylish and versatile for school, play, or outings. All-Season Wear – Perfect year-round choice. 👟 Item Type: Boys’ Casual Shoes👦 Age Range: 7–13 Years📏 Fit: True to Size (see chart below)🍂 Season: All Seasons
-  Updated: 2026-03-14T11:20:38Z
+  Updated: 2026-03-22T00:57:38Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12056,7 +12056,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sd390fda3d8ce49f08a8c2a2bf66943caL.webp?v=1758184907
     Price: €44.99 EUR
 - [M&T Wear - Kids' Athletic Shoes Children's Sneakers Active Footwear for Kids Comfortable Sports Shoes Stylish Boy's Trainers](https://www.mtwear.store/products/kids-athletic-shoes-childrens-sneakers-active-footwear-for-kids-comfortable-sports-shoes-stylish-boys-trainers): Keep your little one stylish and comfortable with M&T Wear’s Boys’ Casual Patchwork Shoes. Designed with a breathable fabric upper, cushioned PU insole, and durable rubber sole – these shoes are perfect for school, play, and everyday wear. ✨ Features Breathable Mesh Lining – Keeps feet fresh all day. Hook & Loop Closure – Easy for kids to wear and take off. Durable Rubber Sole – Non-slip and long-lasting. PU Insole Cushioning – Adds comfort for active kids. Trendy Patchwork Design – Stylish for casual outfits. All-Season Wear – Lightweight and versatile. 👟 Item Type: Boys’ Casual Shoes👦 Age Range: 4–6 Years🎨 Colors Available: Black, Brown
-  Updated: 2026-03-14T11:20:49Z
+  Updated: 2026-03-22T00:57:49Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12142,7 +12142,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S41878530569a4cfd91c6b6b1971819c0x.webp?v=1758184908
     Price: €49.99 EUR
 - [M&T Wear - Kids Sport Shoes Non-slip Fashion Toddler 2025 New Autumn Children Shoes for Boys Mesh Breathable Girls Sneakers Size 26-36](https://www.mtwear.store/products/kids-sport-shoes-non-slip-fashion-toddler-2025-new-autumn-children-shoes-for-boys-mesh-breathable-girls-sneakers-size-26-36): Step into comfort and style with M&T Wear’s Unisex Lace-Up Casual Shoes – perfect for active kids who need shoes that keep up with their adventures. Made with microfiber uppers, PU insoles, and rubber outsoles, these shoes deliver durability, breathability, and all-day comfort. ✨ Features Breathable Design – Keeps feet cool and comfortable. Microfiber Upper + Canvas Lining – Lightweight and stylish. Durable Rubber Sole – Provides stability and long wear. Lace-Up Closure – Ensures a snug, adjustable fit. Unisex Style – Designed for both boys and girls. Perfect for Autumn – Great for school, play, and outings. 👟 Item Type: Kids’ Casual Shoes👧👦 Age Range: 7–13 Years (Unisex)🍂 Season: Autumn⚖️ Fit: True to Size (check chart below)💡 Packing: 1 Pair of Shoes
-  Updated: 2026-03-14T11:21:06Z
+  Updated: 2026-03-22T00:58:06Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12280,7 +12280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S16b9d40d84644e10b8af3a59d86f4d1ba.webp?v=1758184910
     Price: €54.99 EUR
 - [M&T Wear - Kids Casual Boys Shoes Soft Sole Kids Shoes Non-slip Sneakers Shoes Outdoor Student's Children Pink Girls Sport Walking Footwear](https://www.mtwear.store/products/kids-casual-boys-shoes-soft-sole-kids-shoes-non-slip-sneakers-shoes-outdoor-students-children-pink-girls-sport-walking-footwear): Keep your kids comfortable and stylish every day with M&T Wear’s Unisex Breathable Casual Shoes. Designed with a polyester upper and durable cork outsole, these shoes are lightweight, flexible, and perfect for all-season wear. Whether it’s school, play, or outings, they’re a reliable choice for growing feet. ✨ Features Breathable Polyester Upper – Keeps feet cool and comfy. Durable Cork Outsole – Provides stability and long-lasting wear. Stitched Finish – Strong and secure construction. Unisex Style – Designed for both boys and girls. All-Season Wear – Perfect for school, outdoor play, or casual outings. 👟 Type: Kids’ Casual Shoes👧👦 Age Range: 7–13 Years (Unisex)🌀 Upper Coverage: Below Ankle🛡️ Waterproof: No⚖️ Fit: True to Size (check chart below) 📏 Size Guide (Insole Length Reference) 👉 Tip: Foot Length + (0.5–1cm) = Inside Length (cm) Size Insole Length (cm) Insole Length (inch) 25 16.0 cm 6.30 in 26 16.6 cm 6.54 in 27 17.2 cm 6.77 in 28 17.8 cm 7.01 in 29 18.4 cm 7.24 in 30 19.0 cm 7.48 in 31 19.7 cm 7.76 in 32 20.3 cm 7.99 in 33 21.0 cm 8.27 in 34 21.7 cm 8.54 in 35 22.3 cm 8.78 in 36 23.0 cm 9.06 in 37 23.6 cm 9.29 in 38 24.2 cm 9.53 in 39 24.9 cm 9.80 in 40 25.5 cm 10.04 in ⚠️ Notes: Allow 2–3% measurement deviation. Color may slightly vary due to lighting/screen differences. Always check the size chart before purchase for the best fit.
-  Updated: 2026-03-14T11:21:23Z
+  Updated: 2026-03-22T00:58:24Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12430,7 +12430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sdc36784a1e544e188b4efd8f18647457i.webp?v=1758184911
     Price: €49.99 EUR
 - [M&T Wear - Kids Sneakers Anti-skid Leather for Boys Orange Casual Children Shoes with Fashion Running Walking Lightweight Hamburger Pattern](https://www.mtwear.store/products/kids-sneakers-anti-skid-leather-for-boys-orange-casual-children-shoes-with-fashion-running-walking-lightweight-hamburger-pattern): Keep your kids active, comfy, and stylish Designed for children ages 7–13 years, these lightweight sneakers are breathable and versatile—perfect for school, play, or weekend outings. ✨ Features Breathable Upper – Keeps little feet cool and fresh all day. Low-Top Design – Easy movement and casual style. Lightweight Build – Perfect for all-season wear. True-to-Size Fit – Reliable comfort without guesswork. Unisex Style – Great for both boys and girls. 👟 Type: Sneakers (Children’s Shoes)👦👧 Age Range: 7–13 Years (Unisex)🌍 Origin: Fujian, Mainland China🌀 Upper Material: Breathable Synthetic🛡️ Outsole Material: Durable & Flexible☔ Waterproof: No (recommended for dry weather)🍃 Feature: Breathable – All-day comfort 📏 Size Information Please choose size according to FOOT LENGTH, not just age. ✅ Wide feet: Choose 1 size bigger. ✅ Narrow feet: Choose 1 size smaller. ❓ Unsure? Contact us—we’ll help you pick the perfect fit.
-  Updated: 2026-03-14T11:21:33Z
+  Updated: 2026-03-22T00:58:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12500,7 +12500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S94b3b4f6931340e4b620f30bada1e646d.webp?v=1758184910
     Price: €49.99 EUR
 - [M&T Wear - Kids Basketball Shoes Boys Student Sports Shoes School Daily Outdoor Running Sneakers High Top Children Basketball Sneakers](https://www.mtwear.store/products/2024-kids-basketball-shoes-boys-student-sports-shoes-school-daily-outdoor-running-sneakers-high-top-children-basketball-sneakers): Give your little champ the perfect pair of shoes for school, play, and the court! These Boys’ Basketball Shoes are built with durable PU uppers, a sturdy rubber outsole, and a waterproof design—making them reliable for all seasons. With ankle coverage for extra support and a comfortable stick-on closure, they’re as practical as they are stylish. ✨ Features Durable PU Upper – Long-lasting and easy to clean. Waterproof Design – Keeps feet dry in all conditions. Rubber Outsole – Strong grip for safe movement indoors & outdoors. Above-Ankle Coverage – Added stability for active kids. Easy Stick-On Closure – Hassle-free wear, no laces required. All-Season Comfort – Perfect for sports, school, and everyday wear. 👦 Department: Boys (Children)👟 Type: Basketball Shoes🌍 Origin: Mainland China (Fujian)🛡️ Metal Toe Cap: No⚙️ Professional Accessories: None
-  Updated: 2026-03-14T11:21:51Z
+  Updated: 2026-03-22T00:58:52Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12650,7 +12650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8484609710c94a17a87b39bac09446ccf.webp?v=1758184912
     Price: €60.00 EUR
 - [M&T Wear - Korean Style Short Sleeves Stripe Polo Shirt +Shorts](https://www.mtwear.store/products/korean-childrens-clothes-2025-summer-kids-clothes-boys-outfits-baby-thin-short-sleeves-stripe-polo-shirt-shorts-two-pieces-set): Keep her looking stylish, cozy, and confident this season with our Girls’ Autumn Letter Print Jacket. Crafted from lightweight yet durable polyester, this jacket is perfect for layering during cool autumn days—whether she’s heading to school, out on a playdate, or exploring the outdoors. ✨ Key Features Trendy Letter Print – Brings a fun, sporty touch to her wardrobe. Single-Breasted Closure – Easy to slip on and style over any outfit. Lightweight Comfort – Breathable fabric, ideal for autumn weather. Full Opening – Quick on-and-off convenience for active days. Versatile Style – Great for casual wear or sporty looks. 🍂 Season: Autumn👧 Fit: Girls (4–6 years)🎨 Pattern: Letter Print⚖️ Thickness: Standard – perfect for layering
-  Updated: 2026-03-14T11:22:23Z
+  Updated: 2026-03-22T00:59:23Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12856,7 +12856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf9d3e30167924e0faf3e8ff04189730at.webp?v=1758185042
     Price: €45.00 EUR
 - [M&T Wear - Girls Coat and Skirt Sports Suit](https://www.mtwear.store/products/kid-girl-4-8-years-old-long-sleeve-coat-and-skirt-sports-suit-outfit-toddler-infant-clothing-set-kids-wear-ootd-for-baby-girl): Keep her looking stylish and comfy this season with our Girls’ Autumn Letter Print Jacket. Designed with a lightweight yet durable fabric, this jacket is perfect for school, playdates, or outdoor adventures. ✨ Features: Trendy Letter Print – Adds a fun, active vibe to her outfit. Single-Breasted Closure – Easy to wear and layer over tees or dresses. Lightweight Polyester Fabric – Comfortable for autumn weather. Full Opening – Convenient for quick on-and-off wear. Active Style – Perfect for both casual and sporty looks. 🍂 Season: Autumn👧 Fit: Made for girls (ages 4–6 years)🎨 Pattern: Letter Print⚖️ Thickness: Standard – just right for layering
-  Updated: 2026-03-14T11:22:25Z
+  Updated: 2026-03-22T00:59:26Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12882,7 +12882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa81df64b46bb43039a3a5d0c7edc6849F.webp?v=1758185038
     Price: €40.00 EUR
 - [M&T Wear -  Piece Set Summer outfit](https://www.mtwear.store/products/kids-clothes-2-piece-set-summer-new-boys-casual-pockets-sports-suit-cotton-leisure-t-shirt-cute-clothing-solid-color-loungewear): Dress your little one in comfort and style with this Baby Boy Summer Outfit Set, made from soft combed cotton for a gentle touch on delicate skin. Perfect for warm days, this outfit keeps your baby cool while looking stylish. 👶 Features: 2-Piece Set – Includes a lightweight jacket + matching bottoms. Soft Combed Cotton Blend – Breathable, gentle, and durable for everyday wear. Short Sleeves – Designed for summer comfort. Solid Color Design – Classic and versatile style for any occasion. Easy Fit – True to size, made for active little ones. 📏 Available Sizes: 3M–6M → Length 30cm / 11.81in 6M–9M → Length 31.5cm / 12.40in 9M–12M → Length 33cm / 12.99in 12M–18M → Length 35cm / 13.78in 18M–24M → Length 37cm / 14.57in 🌞 Season: Summer🎨 Style: Fashionable & casual
-  Updated: 2026-03-14T11:22:28Z
+  Updated: 2026-03-22T00:59:29Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12908,7 +12908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa8773f112f4844faab1d908894d3b257Q.webp?v=1758185038
     Price: €44.99 EUR
 - [M&T Wear - Boys Autumn Heart Print Tracksuit](https://www.mtwear.store/products/tracksuits-for-kids-2025-autumn-heart-print-casual-school-boys-girls-hoodies-pants-suits-5-14years-teen-children-clothes-outfits): Bring comfort and style together with our Heart Print Kids Tracksuit – a perfect blend of sporty and casual wear. Whether it’s for school, outdoor play, parties, or casual outings, this hoodie and pants set keeps your child looking trendy while feeling comfortable all day long. ✨ Features: Complete Set – Includes hoodie + pants. Heart Print Design – Stylish and fun for both boys & girls. Soft Cotton-Polyester Blend – Breathable, durable, and easy to wash. All-Season Wear – Suitable for spring, autumn, and cooler summer evenings. True to Size Fit – Designed for everyday comfort. Versatile Use – Perfect for school, parties, outdoor activities, or casual wear. 📏 Available Sizes: Fits kids ages 5–14 years (size chart included for accurate fit).🎨 Style: Fashionable streetwear with a sporty twist.
-  Updated: 2026-03-14T11:22:36Z
+  Updated: 2026-03-22T00:59:35Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -12962,7 +12962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S221f3ff7c2ce4ee59e31f0acb352dc34A.webp?v=1758185040
     Price: €49.99 EUR
 - [M&T Wear - Kids Casual Hooded Tracksuit Set](https://www.mtwear.store/products/kids-tracksuit-boys-girls-sweatshirt-sweatpants-2-piece-suit-spring-autumn-children-hooded-sets-fashion-casual-hoodis): Keep your kids cozy and stylish this season with our Unisex Hooded Fleece Streetwear Set. Designed for comfort and everyday wear, this set blends warmth, durability, and a trendy streetwear look perfect for school, play, or casual outings. ✨ Features: Soft Fleece Interior – Warm and comfortable for autumn days. Trendy Hooded Design – Streetwear-inspired style for boys & girls. Full-Length Sleeves – Extra coverage for cooler weather. Unisex Fit – True to size and designed for all-day comfort. Durable Polyester Fabric – Easy to wash and built to last. 📏 Size Range: 7–13 Years (true to size).🍂 Season: Ideal for autumn wear.👕 Style: Streetwear casual. ⚠️ Note: Colors may appear slightly different due to screen settings.
-  Updated: 2026-03-14T11:23:25Z
+  Updated: 2026-03-22T01:00:25Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13168,7 +13168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S9005c5e8f3c147f2a3db7f116a4f1e5aT.webp?v=1758185046
     Price: €50.00 EUR
 - [M&T Wear - Kids Tracksuits Sweet Sleeveless T-shirt + Shorts](https://www.mtwear.store/products/kids-summer-tracksuits-sweet-sleeveless-letter-print-t-shirt-shorts-2-pcs-set-4-15-years-girls-casual-sports-style-clothes): Keep her cool and stylish this season with the Bear Leader Sporty Summer Outfit Set. Designed with breathable cotton-polyester fabric, this sleeveless top and shorts set is perfect for active girls who love fashion and comfort combined. The simple pullover O-neck design makes it easy to wear, while the trendy letter print adds a modern sporty vibe—ideal for school, playdates, or casual outings. ✨ Why You’ll Love It Light & Airy Fabric: Cotton blend keeps her comfortable in hot weather. Trendy Sporty Design: Letter print style for a fashionable look. Sleeveless Top + Matching Shorts: Easy-to-wear summer essential. True to Size Fit: Designed to match age and height accurately. Durable & Easy Care: Best hand washed to maintain quality. 📏 Size & Fit Guide: 4T: Height 100–106cm | Weight 15–18kg 5T: Height 106–112cm | Weight 16–20kg 7T: Height 118–124cm | Weight 20–26kg 9T: Height 128–134cm | Weight 24–34kg ⚠️ Please Note: Colors may slightly vary due to monitor differences and lighting. Allow 1–3cm difference due to manual measurement. 🎯 Best For: Summer outings, school, sports, and casual daily wear
-  Updated: 2026-03-14T11:23:33Z
+  Updated: 2026-03-22T01:00:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13230,7 +13230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S76addbe7f5c04008826078e02b69e13eq.webp?v=1758185043
     Price: €44.99 EUR
 - [M&T Wear - Boys Cotton Hooded Tracksuit Set](https://www.mtwear.store/products/kids-tracksuits-teen-boys-school-sweatsuits-fashion-cotton-hooded-tops-pants-set-soft-childrens-long-sleeve-sportswear): Bring effortless style and comfort to your boy’s wardrobe with the M&T Wear Patchwork Hooded Set. Designed for all-season wear, this casual 2-piece outfit includes a zip-up hooded jacket and matching pants, perfect for school, outings, or relaxed weekends. Made from a cotton-polyester blend, it offers breathable comfort, durability, and just the right amount of stretch. The patchwork design adds a trendy, modern look, while the professional stitching ensures it keeps up with everyday play. ✨ Why Parents & Kids Love It Stylish Patchwork Design: Modern and eye-catching. All-Season Comfort: Suitable for spring, autumn, and cooler days year-round. Durable Fabric Blend: Soft cotton with polyester for resilience. Full-Length Sleeves & Pants: Great for layering and comfort. True to Size Fit: Available in sizes 120–170. 📏 Available Sizes: 120, 130, 140, 150, 160, 170.🎯 Best For: School, outdoor play, casual outings, or travel wear.
-  Updated: 2026-03-14T11:23:46Z
+  Updated: 2026-03-22T01:00:46Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13321,7 +13321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/H9e345dd668d4416bbb08945977272fadR.webp?v=1758185043
     Price: €54.99 EUR
 - [M&T Wear - Boys Autumn Camouflage Tracksuit Set](https://www.mtwear.store/products/kids-sport-clothing-sets-boys-tracksuit-autumn-camouflage-children-tops-pants-2pcs-kit-outfit-teenager-boys-camouflage-tracksuit): Upgrade your little one’s wardrobe with the M&T Wear Boys Printed Outfit Set. This stylish 2-piece includes a lightweight printed coat and matching pants, perfect for casual wear, outings, or playtime. Crafted from a cotton-polyester blend, it’s soft, breathable, and durable—ideal for everyday comfort. The O-neck pullover style makes dressing easy, while the fun print adds a trendy touch. ✨ Why You’ll Love It Spring-Perfect Fabric: Thin and breathable for the season. Soft Cotton Blend: Comfortable yet long-lasting. Full-Length Sleeves & Pants: Extra coverage for breezy days. Fashionable Print Design: Fun and stylish for little boys. True to Size Fit: Designed for ages 4–6 years. ⚠️ Note: Pants in this set do not include pockets. Please consider this before placing your order. 📏 Available Size Range: 4–6Y🎯 Best For: Spring outings, school, or casual daily wear. Size Chart: Size Recommended Age Tops Length Bust Sleeve Length Pants Length 100 1-2 Years 38cm/15.0'' 58cm/22.8'' 36cm/14.2'' 55cm/21.7'' 110 2-3 Years 41cm/16.1'' 62cm/24.4'' 39cm/15.4'' 60cm/23.6'' 120 3-4 Years 44cm/17.3'' 66cm/26.0'' 41cm/16.1'' 63cm/24.8'' 130 4-5 Years 47cm/18.5'' 70cm/27.6'' 43cm/16.9'' 67cm/26.4'' 140 5-7 Years 50cm/19.7'' 74cm/29.1'' 46cm/17.3'' 72cm/28.3'' 150 7-9 Years 53cm/20.9'' 78cm/30.7'' 48cm/18.9'' 76cm/29.9'' 160 9-11 Years 56cm/22.0'' 82cm/32.3'' 50cm/19.7'' 82cm/32.3''
-  Updated: 2026-03-14T11:23:56Z
+  Updated: 2026-03-22T01:00:56Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13387,7 +13387,7 @@
     Availability: Available
     Price: €30.00 EUR
 - [M&T Wear - Boys Striped Cotton Summer Shorts Set](https://www.mtwear.store/products/kids-striped-summer-suit-for-boy-with-shorts-2-piece-cotton-clothing-set-children-top-and-bottom-clothes-set-tracksuit-age-5-14y): Keep your young trendsetter cool and comfortable with the M&T Wear Boys Summer Striped Set. Designed with a sporty, stylish vibe, this 2-piece outfit includes a striped short-sleeve top and matching shorts, making it the perfect pick for summer and autumn wear. Crafted from lightweight polyester, the fabric is breathable, quick-drying, and easy to maintain—ideal for active kids. Whether it’s a day out, sports, or casual wear, this set strikes the perfect balance between comfort and fashion. ✨ Why Parents & Kids Love It Breathable & Lightweight: Keeps kids fresh even on hot days. Trendy Striped Design: Sporty yet fashionable look for boys. 2-Piece Convenience: Easy pullover top with matching shorts. Durable Quality: Made for everyday play and outings. True to Size Fit: Designed for ages 7–13 years. 📏 Available Sizes: 4–5Y, 6–7Y, 8–9Y, 10–11Y, 12–13Y, 13–14Y.🎯 Best For: Summer wear, outdoor activities, sports, or casual outings.
-  Updated: 2026-03-14T11:24:02Z
+  Updated: 2026-03-22T01:01:03Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13441,7 +13441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sfde8c5711eb543b69c14bf4e36a2b2e16.webp?v=1758185043
     Price: €39.99 EUR
 - [M&T Wear - Boys Spring & Autumn Sports Tracksuit](https://www.mtwear.store/products/tracksuit-for-boy-2024-new-spring-autumn-kids-clothes-boys-sets-sports-suit-children-tracksuit-boys-kids-outfits): Refresh your little one’s wardrobe with the M&T Wear Boys Jacket & Pants Set, designed for stylish comfort during the spring season. Made from a cotton-polyester blend, this outfit is lightweight, breathable, and soft—keeping kids comfortable all day long. The single-breasted jacket with fun prints adds a fashionable touch, while the matching bottoms make it a complete, ready-to-wear set. Perfect for school, outings, or playtime. 💎 Why Parents Love It Light & Breathable: Cotton blend keeps kids cool yet comfy. Full Opening Jacket: Easy to wear and remove—great for independent dressing. Trendy Print Design: Fun look that kids enjoy wearing. Everyday Practicality: Ideal for spring weather—thin but durable. Complete Outfit: No need to mix and match; set includes jacket & bottoms. 📏 Available Sizes: 90–140 CM (fits approx. 4–6 years).
-  Updated: 2026-03-14T11:24:08Z
+  Updated: 2026-03-22T01:01:09Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13483,7 +13483,7 @@
     Availability: Available
     Price: €45.00 EUR
 - [M&T Wear - Kids Hoodie Tracksuit](https://www.mtwear.store/products/kids-autumn-spring-trend-casual-tracksuits-3-14-years-boys-and-girls-hoodie-pants-2pcs-suits-children-daily-outfits-clothes-sets): Let your kids move, play, and relax in total comfort with the M&T Wear Active Hoodie & Pants Set. Designed for boys and girls, this unisex outfit blends soft velvet warmth with durable polyester—perfect for everyday wear across all seasons. With its pullover hoodie, matching pants, and bold printed design, this set brings casual energy and sporty vibes to your child’s wardrobe. 💎 Why It’s a Must-Have All-Season Comfort: Lightweight yet cozy—ideal for layering or wearing solo. Velvet-Soft Inside: Gentle on skin, keeps kids warm without overheating. Active-Ready Fit: Flexible fabric allows easy movement for school, sports, or play. Trendy Design: Fun prints add a stylish edge kids love. Complete Outfit: Hoodie + pants = no more outfit stress for parents. 📏 Sizes Available: From 100 (3–4Y) up to 160 (12–13Y).⚠️ Note: Fits slightly smaller than usual—we recommend ordering one size up for the best comfort.
-  Updated: 2026-03-14T11:24:51Z
+  Updated: 2026-03-22T01:01:52Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13689,7 +13689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb835add862b3405582bee90f97e235583.webp?v=1758185048
     Price: €39.99 EUR
 - [M&T Wear - Kids GTA 5 Hooded Tracksuit](https://www.mtwear.store/products/kids-game-gta-5-2pcs-hooded-sweatshirt-jogging-pants-suits-3-13-years-boys-girls-spring-autumn-tracksuits-children-clothes-sets): Keep your kids cozy and stylish year-round with the M&T Wear Kids Hoodie & Pants Set. Designed for both boys and girls, this unisex set combines casual comfort with playful style, making it perfect for school, playdates, or lounging at home. Crafted from a premium polyester–velvet blend, it offers a soft, warm, and breathable feel that kids love. The pullover hoodie pairs perfectly with matching pants, featuring a fun printed design that adds personality to any outfit. ✨ Why Parents Love It All-Season Wear: Lightweight yet warm—great for spring, autumn, winter, or layering. Soft & Gentle Fabric: Velvet lining keeps kids cozy without irritation. Practical Design: Pullover hoodie for easy dressing and all-day comfort. Unisex Style: Designed for both boys and girls ages 7–13. Complete Outfit: Hoodie + pants set for a ready-to-go look. 📏 Sizes Available: From 3–4T up to 12–13T (please check size chart for best fit). ⚡ Perfect For: Everyday wear, outdoor play, school, or weekend outings.
-  Updated: 2026-03-14T11:25:40Z
+  Updated: 2026-03-22T01:02:41Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13895,7 +13895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf50199f525c0478bbb5217dd2523e7603.webp?v=1758185050
     Price: €34.99 EUR
 - [M&T Wear - Kids Hooded T-Shirt & Shorts Set](https://www.mtwear.store/products/children-summer-tracksuits-set-kids-short-sleeves-hooded-t-shirt-shorts-two-piece-set-solid-color-sportswear-sport-suit): Keep him cool and stylish this summer with this fashionable two-piece set. Made from soft, breathable cotton, this outfit features a short-sleeve hooded pullover paired with comfortable matching shorts. Perfect for daily wear, sports, or casual outings. Key Features: Material: 100% Cotton for breathability and comfort. Design: Solid color hooded tee with matching shorts. Fit: True to size (Standard thickness). Colors Available: Black, Green. Season: Ideal for Summer. Size Chart (cm): Size Top Length Bust Pants Length Waist Sleeve 130 54 50 47.5 25 15 140 57 52 50.0 26 16 150 60 54 52.5 27 17 160 63 56 55.0 28 18 170 66 58 57.5 29 19 180 69 60 60.0 30 20
-  Updated: 2026-03-14T11:25:48Z
+  Updated: 2026-03-22T01:02:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -13937,7 +13937,7 @@
     Availability: Available
     Price: €49.99 EUR
 - [M&T Wear - Youth Compression Set](https://www.mtwear.store/products/kids-fitness-tracksuits-youth-warm-pants-tops-underwear-tight-sports-clothes-for-boys-compression-running-basketball-sportswear): Get your little athlete ready for action with the M&T Wear Boys Sportswear Set. Designed for basketball, soccer, tennis, cycling, baseball, running, and training, this performance set delivers the perfect balance of comfort, durability, and style. Made from a premium blend of 90% polyester and 10% spandex, it’s lightweight, stretchy, and breathable—keeping kids cool and dry with its quick-dry, sweat-wicking fabric. Whether it’s practice, game day, or just active play, this set is built to keep up. ✨ Why It’s a Must-Have Quick-Dry Tech: Wicks sweat away to stay dry and comfortable. Breathable & Soft: Gentle on skin while providing full flexibility. Professional Stitching: Built tough to withstand daily training. Stylish & Sporty: Sleek design helps kids stand out on and off the field. All-in-One Set: Includes 1 long sleeve top + 1 pair of leggings. Two Options Available: Choose from Thin (lightweight) or Plush (warmer) versions. 📏 Fit Note: Runs smaller than usual. We recommend ordering one size up for the best fit. ⚡ Perfect For: Boys ages 4–14 (sports, training, or casual activewear).🎨 Available Styles: 11 unique designs
-  Updated: 2026-03-14T11:26:20Z
+  Updated: 2026-03-22T01:03:21Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -14143,7 +14143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se6e0f399af914ea0aa2706e3f24fe939J.webp?v=1758185050
     Price: €40.00 EUR
 - [M&T Wear - Boys  Winter Fleece Jackets](https://www.mtwear.store/products/kids-boys-girls-jackets-children-winter-fleece-down-coat-toddler-padded-warm-windproof-outerwear-boy-autumn-plus-velvet-clothes): Keep your little one warm, stylish, and comfortable through chilly days with the M&T Wear Winter Fleece Down Jacket. Designed with a turn-down collar and a sleek, solid-color look, this jacket is perfect for both daily wear and special outings. Crafted from a cotton-polyester blend with a woolen finish, it delivers heavyweight warmth without feeling bulky. The fleece-lined interior ensures soft comfort, while the zip-up closure makes it easy for kids to put on and take off. ✨ Why Parents Love It Ultra-Cozy Warmth: Fleece lining & heavyweight build protect against cold winds. Durable Material: Cotton + polyester blend ensures long-lasting wear. Stylish Design: Classic turn-down collar & solid colors for versatile outfits. Easy Wear: Smooth zipper closure designed for kids’ convenience. Perfect for All Occasions: School, play, casual outings, and travel. 📏 Size Guide (Approx.) 100 = 3T → Length 43cm | Bust 80cm (3 yrs) 110 = 4T → Length 46cm | Bust 84cm (4 yrs) 120 = 5T → Length 49cm | Bust 88cm (5 yrs) 130 = 6T → Length 52cm | Bust 92cm (6 yrs) 140 = 7–8T → Length 55cm | Bust 96cm (7–8 yrs) 150 = 9–10T → Length 58cm | Bust 100cm (9–10 yrs) 🎨 Available Colors: Green | Black🍂 Season: Autumn & Winter 🔖 Note: Please allow a slight 2–3cm difference due to manual measurement. Colors may appear slightly different depending on lighting and screen settings.
-  Updated: 2026-03-14T11:26:28Z
+  Updated: 2026-03-22T01:03:28Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -14197,7 +14197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S295d0ca993e04bea87e690ea923eadf9F.webp?v=1758185047
     Price: €49.99 EUR
 - [M&T Wear - Fur Hooded Girls Soft Coat](https://www.mtwear.store/products/2024-winter-warm-jackets-for-girls-fashion-fur-hooded-children-girls-waterproof-outwear-kids-cotton-lined-parkas): Stay stylish and cozy all winter long with the M&T Wear Girls’ Winter Parka. Designed for comfort, warmth, and durability, this long-length coat is lined with soft cotton filling and finished with a luxurious fur-trimmed hood—perfect for keeping the cold out in style. Made with a polyester-cotton blend and water-resistant outer fabric, this parka is built to handle chilly winds, light snow, and everyday winter adventures. Available in Black, Red, and Pink, it’s a versatile jacket that combines fashion with function. ✨ Why Moms & Kids Love It Ultra-Warm: Thick cotton filling keeps kids snug in freezing weather Fur Hooded Design: Stylish and protective against cold winds Water-Resistant: Perfect for school, play, and outdoor activities Durable Build: Made with polyester fiber & cotton blend for long-lasting wear Lightweight & Comfy: Warm but easy to move in Casual Everyday Style: Matches well with any winter outfit 📏 Available Sizes: 120 – 160 (fits ages 4T – 13 years)🎨 Colors: Black | Red | Pink⚖️ Weight: ~0.6kg
-  Updated: 2026-03-14T11:26:50Z
+  Updated: 2026-03-22T01:03:50Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -14383,7 +14383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S6ff1c3c8fb844a62aa8a40ab69cbcdb24.webp?v=1758185050
     Price: €49.99 EUR
 - [M&T Wear -  Baby Girls Winter Fleece Jacket](https://www.mtwear.store/products/kids-winter-coats-2025-new-children-outerwear-boy-warm-fleece-jacket-baby-girls-jackets-for-autumn-spring-children-clothing): Keep your little one cozy through every season with the M&T Wear Unisex Fleece Jacket. Designed with a soft cotton-polyester blend and lined with warm fleece, this jacket is perfect for spring breezes, autumn chills, and winter cold. The turtleneck collar gives extra warmth around the neck, while the regular fit and full sleeves make it easy for kids to move freely. A zipper closure ensures quick dressing and fuss-free wear. With its simple solid-color design, this jacket pairs effortlessly with any outfit, making it a go-to for everyday comfort and style. ✨ Why Parents Love It All-Season Wear: Perfect for spring, autumn, and winter Soft & Warm: Fleece lining keeps kids snug without overheating Easy to Wear: Zipper closure for quick on/off Unisex Design: Suitable for both boys and girls Durable Comfort: Made from a cotton-polyester blend for long-lasting use 📏 Available for Ages: 0–6 Years🧥 Style Options: Casual everyday wear, baby bomber jacket, Korean-style kids jacket ⚠️ Note: Due to batch variations, some size markings may differ from the actual size. This does not affect fit or usage. If you prefer, you can simply remove the label. Tag Size S/80/1,Suit for 6-12 months,Bust-30cm，length-33cm，sleeve-28cm Tag Size M/90/2,Suit for 18-24 months,Bust-33cm，length-36cm，sleeve-28cm Tag Size L/100/3,Suit for 3 years,Bust-34cm，length-38cm，sleeve-30cm Tag Size XL/110/4,Suit for 4 Years,Bust-35cm，length-39cm，sleeve-30cm Tag Size XXL/120/5,Suit for 5Years,Bust-35cm，length-43cm，sleeve-34cm Notes:1. Due to the different monitor and light effect, the actual color of the item might be slightly different from the color showed on the pictures. Thank you!2. Please allow 1-3cm measuring deviation due to manual measurement.
-  Updated: 2026-03-14T11:27:09Z
+  Updated: 2026-03-22T01:04:09Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -14529,7 +14529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S5e572e09ef354dd6b0f7d37e352727bfo.webp?v=1758185049
     Price: €40.00 EUR
 - [M&T Wear - Winter Kids Padded Jacket Children Thick Plus Velvet](https://www.mtwear.store/products/30-winter-kids-padded-jacket-children-thick-plus-velvet-warm-parkas-coat-boys-girls-fur-collar-hooded-cotton-clothes-outerwea): Beat the cold in style with the M&T Wear Long Winter Hooded Jacket—crafted for boys who need warmth, comfort, and durability all in one. This heavyweight jacket is made from a cotton-polyester blend with Oxford fabric, giving it a sleek look while keeping it tough against winter weather. With a long cut (26+ inches), it provides extra coverage to keep kids warm from head to thigh. The full zipper closure makes it easy to wear, and the insulated hood ensures extra protection on windy, frosty days. The simple solid-color design makes it versatile enough for school, play, or family outings. Why Parents Love It: Extra Warmth: Heavyweight, long-length design for full coverage Durable & Stylish: Oxford fabric exterior, built for daily wear Easy to Wear: Full front zipper for quick dressing Comfortable Fit: True to size with room for layering Everyday Essential: Perfect for winter school days, outdoor play, or travel Sizes Available: 120–160 (5Y to 12Y)Season: Winter With M&T Wear, you get the perfect balance of fashion, comfort, and lasting warmth for your child.
-  Updated: 2026-03-14T11:27:21Z
+  Updated: 2026-03-22T01:04:21Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -14635,7 +14635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sbb87af6194234f06a3bb53d6da1b39fe7.webp?v=1758185048
     Price: €49.99 EUR
 - [M&T Wear - Unisex Winter Hooded Jacket](https://www.mtwear.store/products/kids-down-jackets-for-3-14-years-autumn-winter-boys-girls-warm-solid-down-coats-teens-hooded-zipper-outerwear-children-clothing): Keep your little one warm, cozy, and stylish all season long with the M&T Wear Kids Winter Hooded Jacket. Designed for both boys and girls, this jacket blends fashion with function—perfect for chilly autumn days and freezing winter outings. Made with a durable cotton-polyester blend, it’s heavyweight yet breathable, keeping kids comfortable while protecting them from the cold. The full zipper closure makes it easy to wear, while the soft hood adds extra warmth when needed. Its clean solid-color design ensures it matches effortlessly with any outfit. Why Parents Love It: Warm & Cozy: Heavyweight fabric to keep kids snug in cold weather Practical Design: Full zipper for easy dressing Comfort Fit: True-to-size with room for layering Durable Fabric: Cotton-polyester blend, long-lasting wear Stylish Look: Simple, modern solid colors for everyday fashion Sizes Available: 3–4T (110) to 13–14Y (170)Seasons: Autumn & Winter With M&T Wear, your child gets the comfort they deserve and the quality you can trust.
-  Updated: 2026-03-14T11:27:47Z
+  Updated: 2026-03-22T01:04:47Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -14837,7 +14837,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf888377ab05e4574bdb3883df69cf14dK.webp?v=1758185052
     Price: €40.00 EUR
 - [M&T Wear - Kids Baby Feeding Bibs Waterproof Long Sleeve with Pocket](https://www.mtwear.store/products/kids-baby-feeding-bibs-waterproof-long-sleeve-apron-with-pocket-toddler-burp-cloth-boys-girls-anti-dirty-art-smock-baby-stuff): Mealtime can get messy, but the M&T Wear Baby Bib & Burp Cloth makes cleanup simple while keeping your little one looking cute. Designed for babies ages 1–3 years, this unisex accessory combines functionality with fashion, making it a must-have for every parent’s daily routine. Crafted from high-quality polyester, it’s lightweight, durable, and easy to wash. The soft fabric is gentle on sensitive skin, while the stylish design adds a touch of charm to everyday wear. Perfect for feeding, teething, or protecting outfits during on-the-go adventures. Material: Durable, easy-care polyester Style: Fashionable design that suits both boys and girls Function: Protects clothes from spills, dribbles, and mealtime mess Care: Machine washable, quick-drying fabric Age Range: Suitable for babies 1–3 years With M&T Wear, even the smallest essentials get the same attention to comfort, durability, and style—because parents deserve practical solutions that look good too.
-  Updated: 2026-03-14T11:28:06Z
+  Updated: 2026-03-22T01:05:06Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -14995,7 +14995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S10ef9185f2bc4511838e80a7a2381b08Q.webp?v=1758185280
     Price: €30.00 EUR
 - [M&T Wear - Boys 100% Cotton Soft Summer T-shirt Shorts](https://www.mtwear.store/products/fashion-kids-clothes-boys-girls-sets-top-shorts-2pcs-100-cotton-soft-summer-children-baby-cloths-t-shirt-shorts-toddler-suit): Made for warm days and endless play, the M&T Wear Boys Summer Cartoon Cotton Set keeps comfort and style at the front of the line. Designed for boys aged 4–6 years, this two-piece outfit includes a lightweight pullover T-shirt and breathable shorts—perfect for outdoor adventures, school, or everyday casual wear. Crafted from 100% pure cotton, the fabric is soft, skin-friendly, and designed to keep your child cool and comfortable in summer heat. With a fun cartoon print, elastic waistband, and easy pullover style, it’s a hassle-free outfit that both kids and parents love. Material: 100% cotton, breathable and gentle on skin Design: Cartoon print T-shirt with matching shorts Fit: True-to-size with a loose, flexible waistband Style: Fashionable yet practical summer set Care: Machine washable, fade-resistant, and durable Season: Ideal for summer wear With M&T Wear, you get more than just kids’ clothing—you get breathable comfort, playful designs, and quality that lasts through wash after wash.
-  Updated: 2026-03-14T11:28:21Z
+  Updated: 2026-03-22T01:05:21Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15113,7 +15113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4a67dc04038140efb041a4c834db05bb2.webp?v=1758185281
     Price: €24.99 EUR
 - [M&T Wear -  Boys Korean Style New York City Graphic Shirts](https://www.mtwear.store/products/korean-childrens-clothes-2025-summer-tops-art-new-york-city-graphic-t-shirts-cotton-baby-boys-short-sleeves-shirt-kids-clothes): Fun, comfy, and made for everyday adventures—the M&T Wear Kids Cartoon Print Cotton T-Shirt is a must-have for children ages 7–13. With its playful printed design and classic fit, this tee is perfect for school, weekend hangouts, or casual family outings. Crafted from 100% breathable cotton, it keeps kids cool and comfortable through all-day wear. The crew neck and short sleeves make it an easy go-to piece for summer wardrobes, while the versatile black and white color options pair effortlessly with jeans, shorts, or skirts. Material: 100% cotton for softness and breathability Design: Cartoon print with a casual, trendy style Fit: True-to-size, unisex cut for both boys and girls Season: Lightweight fabric perfect for summer Colors: Available in black and white Versatility: Great for school, play, or casual outings With M&T Wear, your child gets comfort they’ll love and style you’ll trust—everyday wear that’s durable, fun, and easy to match.
-  Updated: 2026-03-14T11:29:10Z
+  Updated: 2026-03-22T01:06:11Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15319,7 +15319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S79b951b9657e4caba33875bbec29d7aee.webp?v=1758185286
     Price: €34.99 EUR
 - [M&T Wear - Korean Style Cotton Solid Color Long Sleeve Loose Fit](https://www.mtwear.store/products/korean-childrens-clothes-2025-kids-boys-0-3y-baby-girls-cotton-solid-color-long-sleeve-loose-fit-base-layer-soft-wear-top): A wardrobe essential you’ll reach for again and again, the M&T Wear Kids Long-Sleeve Solid Cotton Tee is made for comfort, durability, and everyday style. Perfect for boys and girls aged 4–6, this top works just as well for school, playdates, or layering on cooler days. Crafted from a soft cotton-polyester blend, the fabric feels gentle on the skin while staying breathable and easy to wash. With a classic crew neck, relaxed fit, and simple solid colors, this tee pairs effortlessly with jeans, joggers, skirts, or overalls. Material: Cotton + polyester blend, soft and breathable Fit: True-to-size, relaxed cut for all-day comfort Design: Solid colors for versatile matching Sleeves: Full-length for autumn layering Care: Machine washable, keeps shape after repeated washes Season: Perfect for autumn or as a base layer in winter With M&T Wear, you get timeless basics that make dressing your child simple, stylish, and stress-free.
-  Updated: 2026-03-14T11:29:31Z
+  Updated: 2026-03-22T01:06:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15493,7 +15493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S79084db5b5ee4861a76ece02bcf516b9I.webp?v=1758185282
     Price: €19.99 EUR
 - [M&T Wear - Unisex Cotton Set Short Sleeve Suits for Summer](https://www.mtwear.store/products/kids-clothes-cotton-set-short-sleeve-suit-baby-girls-boys-set-summer-tops-short-childrens-wear-2024-new): Playdates, picnics, or just a sunny day at home—the M&T Wear Baby Summer Printed Shorts Set is made to keep your little one cool and stylish. Designed for both boys and girls aged 1–3 years, this lightweight outfit is equal parts comfort and cuteness. The pullover T-shirt features a soft round neckline for easy dressing, paired with breathable printed shorts that give a playful, fashion-forward look. Made from a cotton-polyester blend, the fabric is soft, durable, and perfect for warm-weather adventures. Material: Cotton + polyester blend for comfort and breathability Design: Fun printed T-shirt with matching shorts Fit: True-to-size with a relaxed cut for easy movement Closure: Pullover style for quick changes Season: Thin, lightweight fabric made for summer Unisex: Suitable for both boys and girls With M&T Wear, you get outfits designed to handle real life—comfortable for kids, easy for parents, and stylish enough for every summer moment.
-  Updated: 2026-03-14T11:29:47Z
+  Updated: 2026-03-22T01:06:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15619,7 +15619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se3e9a576d2404f9580b3c9469cec0ef8C.webp?v=1758185282
     Price: €30.00 EUR
 - [M&T Wear - Unisex Summer Cotton Cartoons outfits](https://www.mtwear.store/products/kids-clothes-set-baby-boy-girl-t-shirt-shorts-summer-clothing-cotton-cartoon-casual-boys-tracksuit-children-baby-clothes-set): Keep your little one cool, comfy, and picture-perfect in the M&T Wear Baby Summer Cotton Outfit Set. Designed for boys and girls aged 1–3 years, this two-piece set is crafted from pure combed cotton—soft, breathable, and gentle on delicate baby skin. The pullover T-shirt features a fun printed design and an easy round neckline, while the matching shorts complete the casual summer look. Whether it’s playtime, family outings, or just lounging at home, this set keeps your baby stylish and comfortable all day long. Material: 100% pure cotton, soft and breathable Design: Printed short-sleeve T-shirt with matching shorts Fit: True-to-size for babies 1–3 years Closure: Pullover style for quick and fuss-free dressing Season: Lightweight fabric, perfect for summer days Unisex: Suitable for both baby boys and baby girls With M&T Wear, you get baby clothes that are as durable as they are adorable. Because comfort shouldn’t come at the cost of style.
-  Updated: 2026-03-14T11:30:25Z
+  Updated: 2026-03-22T01:07:25Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15825,7 +15825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/H691bfbe8771943bebffc2b63940d9e0eQ.webp?v=1758185286
     Price: €30.00 EUR
 - [M&T Wear - Boys Korean Long Sleeve Shirt](https://www.mtwear.store/products/korean-childrens-clothes-2025-cotton-solid-color-long-sleeve-shirt-for-boy-2-6y-kids-blouse-for-girls-loose-fit-casual-shirt): Everyday style meets all-day comfort with the M&T Wear Toddler Cotton Solid Color Long-Sleeve Shirt. Designed for boys and girls ages 2–6, this wardrobe essential is soft, versatile, and made to handle both playtime chaos and picture-day moments. Crafted from a breathable cotton-polyester blend, the shirt feels gentle on sensitive skin and stays comfortable through hours of wear. A neat turn-down collar and button-front closure give it a polished look while making dressing quick and easy. Material: Soft cotton blend, skin-friendly and breathable Fit: Relaxed and flexible for active toddlers and kids Design: Classic solid colors for easy mix-and-match outfits Closure: Button-front for convenient dressing Season: Lightweight yet full-sleeved—ideal for year-round wear Sizes: 2–6 years (grows with your child) With M&T Wear, you don’t just get children’s clothing—you get durable, timeless pieces that make mornings easier and keep kids looking effortlessly stylish.
-  Updated: 2026-03-14T11:30:31Z
+  Updated: 2026-03-22T01:07:31Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15871,7 +15871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S630d696b2af34a048aba7b24344856dfz.webp?v=1758185281
     Price: €19.99 EUR
 - [M&T Wear - Girls Off-shoulder Long sleeve Top & Stripe Printing Pants](https://www.mtwear.store/products/kids-clothing-sets-for-girls-khaki-off-shoulder-long-sleeve-top-stripe-printing-pants-summer-resort-style-children-suits-ootd): Bring color and comfort into your child’s wardrobe with the M&T Wear Girls Casual Geometric Summer Set. Designed for ages 7–13, this two-piece outfit is perfect for everyday wear, school, or weekend outings. Lightweight, breathable, and stylish, it’s everything a summer outfit should be. The set includes a soft polyester T-shirt paired with stretch-friendly pants (95% polyester, 5% spandex) for easy movement and all-day comfort. A fun geometric print gives it a trendy edge, while the decorative rope detail adds a playful touch your child will love. Material: T-shirt: 100% polyester | Pants: 95% polyester, 5% elastane Style: Casual, thin fabric perfect for warm weather Design: Geometric pattern with decorative rope detail Fit: True-to-size with regular sleeves and flexible waistband Season: Made for summer days and easy layering in spring With M&T Wear, you can trust that style, comfort, and durability always go hand in hand. This set keeps your girl looking fresh, playful, and confident all season long
-  Updated: 2026-03-14T11:30:39Z
+  Updated: 2026-03-22T01:07:39Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15937,7 +15937,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa7641a0d17ef4dcea101f8628ad2409b1.webp?v=1758185281
     Price: €39.99 EUR
 - [M&T Wear - Girl school vest navy velour lining hooded](https://www.mtwear.store/products/kids-school-clothes-boy-girl-school-vest-navy-velour-lining-hooded-outside-jacket-front-zippers-and-embroided-heart-kids-tops): Keep your little one warm and looking adorable this season with the M&T Wear Kids Hooded Winter Set. Designed for boys and girls aged 4–6 years, this comfy outfit blends fashion with function, making it perfect for both autumn chills and winter winds. Crafted from a soft velour fabric (75% cotton, 25% polyester), the set feels gentle on the skin while keeping the warmth locked in. The hooded coat features a smooth front zipper plus stylish side zippers, giving it a modern edge that kids will love and parents will appreciate. Material: Premium cotton-polyester blend for warmth and comfort Fit: True-to-size, regular sleeve style for easy movement Design: Solid color with sleek zipper details for a trendy look Season: Ideal for autumn and winter wear Unisex: Perfect for both boys and girls With M&T Wear, you get durability, comfort, and style all wrapped into one set that keeps your kids happy and cozy.
-  Updated: 2026-03-14T11:30:42Z
+  Updated: 2026-03-22T01:07:43Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -15967,7 +15967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sd09bcf005bfb481693b404332f6faaaeB.webp?v=1758185282
     Price: €39.99 EUR
 - [M&T Wear - Winter Men's Long Overcoat Jackets Casual Hooded Cardigans Men Outwear Liner Thickened Warm Hoodies Oversize Winter Top Jacket](https://www.mtwear.store/products/winter-mens-long-overcoat-jackets-casual-hooded-cardigans-men-outwear-liner-thickened-warm-hoodies-oversize-winter-top-jacket): SPECIFICATIONS Applicable Scene: Daily Applicable Season: Autumn & Winter Brand Name: Urban Edge Wear Closure Type: Zipper Clothing Length: Regular Collar: With Hood Craft of Weaving: Knit Cuff Style: Conventional Gender: Men Hooded: Yes Item Type: Outerwear & Coats Lining Material: Polyester Material: Polyester Outerwear Type: Jackets Pattern Type: Solid Sleeve Style: Regular Style: Casual Thickness: Fleece Type: Regular Full Opening: Yes PRODUCT DETAILS 1. Premium Warmth & ComfortCrafted from high-quality fleece-lined knit fabric, this men’s long cardigan hoodie combines warmth and comfort in one. The full-length zipper allows for easy wear, while the hood delivers extra protection against chilly winds. 2. Stylish & VersatilePerfect for casual outings, whether it’s a coffee run, a park stroll, or meeting friends. Designed to balance comfort and style, this hoodie easily complements any wardrobe. The adjustable drawstring hood ensures a snug fit and shields you from cold gusts. 3. Perfect Fit for Every Body TypeWith its standard fit and thoughtful detailing, this hoodie flatters all body shapes. The durable polyester fabric maintains shape and color even after multiple washes, keeping it looking fresh and new every time. 4. Built to LastMade with strong, high-quality materials, this hoodie is tough enough to handle daily wear while maintaining timeless appeal. It’s machine washable for easy care, making it as practical as it is stylish. Whether for yourself or as a gift, this hoodie is a wardrobe essential. CARE & ATTENTION Manual measurement may result in a 1–3 cm difference (1cm = 0.39 inch). Colors may vary slightly due to different screen displays.
-  Updated: 2026-03-14T11:30:55Z
+  Updated: 2026-03-22T01:07:55Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16069,7 +16069,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S9d0b57e1778d4d20962097a99dc14628o.webp?v=1759056616
     Price: €95.00 EUR
 - [M&T Wear - Classic Washed Blue Denim Jeans for Men American Minimalist](https://www.mtwear.store/products/classic-washed-blue-denim-jeans-for-men-american-minimalist-loose-tapered-pants-versatile-for-outdoor-wear-elastic-waistband): Description:Relaxed, stylish, and built for comfort — these boyfriend jeans from M&T Wear are a must-have for casual everyday wear. Designed with a loose, straight cut and a trendy ankle-length finish, they bring an effortless street-style vibe. The elastic waist with a drawstring closure ensures a perfect fit, while the lightweight cotton blend with a hint of spandex gives you freedom to move without losing shape. Pair them with sneakers, hoodies, or crop tops for an easy smart-casual look that works all season. Features: Loose straight-leg fit with ankle-length cut Elastic waistband with drawstring closure for comfort Lightweight cotton blend with stretch for flexibility Bound cuffs for a trendy, modern style Perfect for spring and autumn casual wear Designed for youth-inspired, relaxed street fashion Specifications: Item Type: Jeans Fit Type: Loose / Boyfriend style Material: 91% Cotton, 8% Polyester, 1% Spandex Closure: Elastic waist with drawstring Length: Ankle-length Style: Smart Casual / Trendy Waist: Mid-rise Wash: Light Gender: Women Available Sizes: S, M, L, XL, 2XL, 3XL modname=ckeditor modname=ckeditor
-  Updated: 2026-03-14T11:30:58Z
+  Updated: 2026-03-22T01:07:59Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16099,7 +16099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S5053b0aaca9d427a90df4cd06848cc875.webp?v=1759056618
     Price: €49.99 EUR
 - [M&T Wear - Men's Jeans Large Denim Baggy Pants Men's Fashion Man Male Trendy Streetwear](https://www.mtwear.store/products/mens-jeans-large-denim-jeans-for-teens-trousers-for-men-jean-baggy-pants-mens-fashion-man-male-trendyol-streetwear-korean-men-s): Description:Bring a laid-back vibe to your everyday style with these wide-leg jeans from M&T Wear. Designed in a casual low-rise cut, they feature a button-fly closure and a relaxed full-length silhouette. The cotton-denim blend offers durability with just the right amount of stretch, keeping you comfortable whether you’re running errands, hanging out, or enjoying a summer day outdoors. The light wash finish adds a timeless touch, making them easy to pair with your favorite tees, shirts, or sneakers. Features: Wide-leg, relaxed fit for easy movement Low-rise waist with button-fly closure Made from a durable cotton-denim blend with slight stretch Light wash for a clean, versatile look Designed for casual, everyday wear Full-length cut for a classic style Specifications: Item Type: Jeans Fit Type: Wide Leg Material: Cotton, Denim blend Closure: Button Fly Waist: Low Length: Full Wash: Light Style: Casual Gender: Men Size Guide (Length): M: 70 cm / 27.56 in L: 74 cm / 29.13 in XL: 78 cm / 30.71 in XXL: 82 cm / 32.28 in XXXL: 86 cm / 33.86 in 4XL: 90 cm / 35.43 in
-  Updated: 2026-03-14T11:31:07Z
+  Updated: 2026-03-22T01:08:08Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16177,7 +16177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S9055c60453a04fb8bdcff0308f795deae.webp?v=1759056618
     Price: €54.99 EUR
 - [M&T Wear - Men Motorcycle Street Wear Skinny Casual Denim Pants Jeans Straight Trousers](https://www.mtwear.store/products/men-high-waist-fashion-jean-spring-summer-boyfriend-motorcycle-street-wear-skinny-casual-denim-pants-jeans-straight-trousers): Description:Step up your streetwear game with these slim-fit punk-inspired jeans from M&T Wear. Designed with a low-rise waist and ankle-length cut, they bring a modern edge to casual styling. The skinny silhouette creates a sleek look, while the durable cotton fabric ensures all-day comfort. Perfect for pairing with boots, oversized tees, or hoodies, these jeans are made for anyone who wants a bold, confident style year-round. Features: Slim, skinny fit with ankle-length cut Low-rise waist with button-fly closure Durable cotton fabric with no stretch for a structured fit Solid color for versatile styling Casual yet edgy design with a punk-inspired look Suitable for all seasons Specifications: Item Type: Jeans Fit Type: Slim / Skinny Material: Cotton blend Length: Ankle-length Closure: Button Fly Waist Type: Low Wash: Light Style: Casual / Punk-inspired Gender: Men Notes: Please check the size chart before ordering (1–3 cm variation may occur). Colors may slightly differ due to lighting and screen settings.
-  Updated: 2026-03-14T11:31:13Z
+  Updated: 2026-03-22T01:08:13Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16215,7 +16215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Safed1be90a514c90905cd4c90c5e5e1dm.webp?v=1759056616
     Price: €40.00 EUR
 - [M&T Wear -  Men's Classic Boyfriend Jeans](https://www.mtwear.store/products/trousers-male-male-jeans-pants-new-in-pants-jeans-elastic-simple-ripped-denim-sport-y2k-men-clothing--products-mens-man-set): modname=ckedi Description:Keep it casual and comfortable with these boyfriend jeans from M&T Wear. Designed with a relaxed fit and ankle-length cut, they’re perfect for spring and summer wear. The light-wash denim gives them a laid-back vibe, while the button-fly closure and low-rise waist add a classic touch. Easy to pair with tees, shirts, or sneakers, these jeans are made for everyday style whether you’re out shopping, hanging with friends, or keeping it casual. Features: Relaxed boyfriend fit for comfort and style Light-wash denim for a versatile casual look Low-rise waist with button-fly closure Slight stretch for added comfort Midweight fabric, ideal for spring and summer Ankle-length cut for a modern finish Specifications: Item Type: Jeans Fit Type: Regular / Boyfriend Material: Denim Length: Ankle-length Closure: Button Fly Waist Type: Low Thickness: Midweight Wash: Light Style: Casual Gender: Men Size Guide (Length): S: 78 cm / 30.71 in M: 82 cm / 32.28 in L: 87 cm / 34.25 in XL: 92 cm / 36.22 in 2XL: 97 cm / 38.19 in
-  Updated: 2026-03-14T11:31:16Z
+  Updated: 2026-03-22T01:08:15Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16241,7 +16241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S24af36a239c64fe1be730f06ce5f846be.webp?v=1759056616
     Price: €55.00 EUR
 - [M&T Wear – Men’s Slim Fit Straight Jeans](https://www.mtwear.store/products/men-white-jeans-fashion-casual-classic-style-slim-fit-soft-trousers-male-brand-advanced-stretch-pants): Description:Stay sharp and comfortable with these slim-fit straight jeans from M&T Wear. Designed for versatility, they pair just as well with a crisp shirt for a casual business look as they do with a tee for everyday wear. Made with a soft cotton blend and a touch of stretch, these lightweight jeans keep you comfortable through spring and autumn without compromising on style. Features: Slim fit with a modern straight-leg cut Lightweight fabric, perfect for spring and autumn Slight stretch for easy movement and comfort Mid-rise waist with classic zipper fly closure Medium wash for a clean, versatile look Suitable for daily wear, casual outings, or smart-casual style Specifications: Item Type: Jeans Fit Type: Slim / Straight Material: 79.9% Cotton, 18.3% Polyester, 1.8% Spandex Length: Full Closure: Zipper Fly Waist Type: Mid Thickness: Lightweight Wash: Medium Style: Casual / Business Casual Gender: Men Available Sizes (Length): 28: 71 cm / 27.95 in 29: 74 cm / 29.13 in 30: 77 cm / 30.31 in 31: 79 cm / 31.10 in 32: 81.5 cm / 32.09 in 33: 83.5 cm / 32.87 in 34: 86 cm / 33.86 in 36: 90 cm / 35.43 in 38: 96 cm / 37.80 in Unit of measurement: cm1. The size is Chinese size, pants size 32 = 32 inches waist = 81.5cm waist.Please tell us your height and weight, and we suggest a suitable size for you.2. The data is manually tiled measurement, there is an error of 1-3cm, please understand.3. Due to different shooting light and different monitor resolutions, slight chromatic aberration will be caused. Please refer to the actual color of the goods received.
-  Updated: 2026-03-14T11:31:20Z
+  Updated: 2026-03-22T01:08:21Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16283,7 +16283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/HTB1OjxcakWE3KVjSZSyq6xocXXah.webp?v=1759056616
     Price: €55.00 EUR
 - [M&T Wear – Men’s Casual Straight-Leg Elastic Waist Jeans](https://www.mtwear.store/products/mens-jeans-2025-overalls-men-pockets-casual-loose-long-denim-pants-slim-splice-straight-rompers-autumn-plus-size-long-jeans-men): Description:Enjoy effortless comfort and style with these casual straight-leg jeans from M&T Wear. Designed with a flexible elastic waistband, they give you the perfect balance of relaxed fit and everyday wearability. The ankle-length cut and midweight fabric make them ideal for autumn and winter, whether you’re heading out casually or lounging in comfort. Features: Elastic waistband for an easy, adjustable fit Straight-leg cut with a modern ankle-length design Midweight fabric, perfect for cooler weather Slight stretch for comfort and mobility Simple, solid design for versatile styling Suitable for casual, everyday wear Specifications: Item Type: Jeans Style: Casual / Straight Jeans Length: Ankle-Length Fit Type: Regular Material: Blended Fabric (Polyester + Cotton Mix) Closure: Elastic Waist Waist Type: Mid Elasticity: Slight Stretch Thickness: Midweight Wash: Medium Gender: Men
-  Updated: 2026-03-14T11:31:28Z
+  Updated: 2026-03-22T01:08:29Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16353,7 +16353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S3f598c41f805417998306647910b9bc0U.webp?v=1759056618
     Price: €65.00 EUR
 - [M&T Wear – Men’s Casual Slim Pencil Jeans](https://www.mtwear.store/products/new-men-classic-jeans-jean-homme-pantalones-hombre-men-mannen-soft-black-biker-masculino-denim-overalls-mens-pants-size-32-38): Description:Step out in style with these slim pencil jeans from M&T Wear, designed for everyday comfort and versatility. Crafted from soft cotton with a touch of stretch, they provide a sleek silhouette while allowing easy movement. Perfect for year-round wear, the mid-rise waist and ankle-length cut pair well with sneakers, boots, or casual loafers. Features: Slim-fit pencil jeans with a clean, modern look Soft cotton fabric with slight stretch for comfort Mid-rise waist with zipper fly closure Ankle-length design, versatile for casual styling Suitable for all seasons and daily wear Specifications: Item Type: Jeans Style: Casual / Slim Pencil Pants Fit Type: Slim Length: Ankle-Length Material: 100% Cotton Closure: Zipper Fly Waist Type: Mid Elasticity: Slight Stretch Thickness: Regular (All-season wear) Gender: Men Available Sizes: 28–40
-  Updated: 2026-03-14T11:31:51Z
+  Updated: 2026-03-22T01:08:52Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16535,7 +16535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sff1b1d70beca481e93a3d48cc1c9df93w.webp?v=1759056620
     Price: €39.99 EUR
 - [M&T Wear- BiggOrange – Y2K Vintage Wide Leg Jeans for Men & Women](https://www.mtwear.store/products/y2k-men-jeans-vintage-american-pattern-letter-jeans-streetwear-gothic-harajuku-hip-hop-men-women-fashion-casual-wide-leg-jeans): Description:Make a bold fashion statement with BiggOrange Y2K-inspired wide leg jeans. Designed with vintage American pattern prints and gothic streetwear vibes, these jeans blend Harajuku hip-hop culture with everyday casual wear. The loose fit and midweight denim offer comfort and style, making them perfect for daily wear, festivals, or street fashion looks. Features: Unisex wide leg jeans with vintage Y2K streetwear style Bold American pattern & letter print design Loose fit for maximum comfort and edgy style Ankle-length cut with wide slack bottom Durable midweight denim for year-round wear Perfect for hip-hop, Harajuku, gothic & casual fashion lovers Specifications: Item Type: Jeans Style: High Street / Y2K / Gothic / Harajuku Hip-Hop Fit Type: Loose Jeans Style: Wide Leg Material: Denim (Midweight) Closure: Button Fly Waist Type: Low Length: Ankle-Length Elasticity: Non-Stretch Gender: Men & Women (Unisex) Season: Four Seasons Size Chart (cm): S: Waist 78 | Hips 108 | Length 104 | Bottom 50 M: Waist 80 | Hips 110 | Length 105 | Bottom 52 L: Waist 84 | Hips 114 | Length 106 | Bottom 53 XL: Waist 88 | Hips 118 | Length 107 | Bottom 54 XXL: Waist 92 | Hips 122 | Length 108 | Bottom 55 (Note: Manual measurement may have 1–3cm error. 1cm = 0.39 inch)
-  Updated: 2026-03-14T11:31:55Z
+  Updated: 2026-03-22T01:08:56Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16573,7 +16573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa2f3608e85ee4421b3b7b9a85c015335t.webp?v=1759056619
     Price: €49.99 EUR
 - [M&T Wear - Men’s Hip Hop Wide-Leg Jeans – Streetwear Style](https://www.mtwear.store/products/mens-jeans-hip-hop-fashion-wide-leg-denim-pants-retro-baggy-trousers-high-street-multi-pocket-jeans-male-streetwear): Description:Step up your streetwear game with these stylish wide-leg jeans, designed for comfort and urban edge. Made from durable denim with a mid-rise waist and full-length cut, they feature a relaxed fit that pairs perfectly with hoodies, oversized tees, or street-style sneakers. The drawstring closure adds a casual touch while ensuring adjustable comfort, making them ideal for daily wear and hip hop fashion lovers. Features: Wide-leg silhouette for a bold, relaxed streetwear look Mid-rise waist with drawstring closure for a secure, adjustable fit Full-length cut – pairs easily with sneakers or boots Durable denim construction with a midweight feel Versatile solid-color design, easy to mix and match Perfect for hip hop, casual street style, or everyday wear Specifications: Item Type: Jeans Style: Hip Hop / Streetwear Fit Type: Regular / Wide Leg Length: Full Length Waist Type: Mid Closure: Drawstring Material: Denim Fabric Type: Knit, Coated Thickness: Midweight Pattern: Solid Applicable Scene: Daily Applicable Season: Four Seasons Gender: Men
-  Updated: 2026-03-14T11:32:02Z
+  Updated: 2026-03-22T01:09:02Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16619,7 +16619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4d18e23b69b94681a53c2efa089b8c946.webp?v=1759056619
     Price: €65.00 EUR
 - [M&T Wear - Men’s Slim Straight Jeans – Smart Casual Everyday Wear](https://www.mtwear.store/products/men-classic-advanced-fashion-brand-jeans-jean-homme-man-soft-stretch-black-biker-masculino-denim-trousers-mens-pants-overalls): Description:Upgrade your wardrobe with these classic slim straight jeans, crafted from high-quality denim for durability, comfort, and everyday versatility. Designed with a mid-waist fit and light wash finish, these jeans combine a clean modern look with timeless casual style. Perfect for workdays, daily errands, or casual nights out, they are an essential staple for every man’s closet. Features: Slim straight design for a sleek, flattering fit Light wash finish for a clean and modern style Mid-rise waist with zipper fly closure Functional pocket design for practicality Slight stretch denim for comfort and easy movement Ideal for smart casual looks, daily wear, and weekend outings Specifications: Item Type: Jeans Style: Smart Casual Fit Type: Slim Straight Length: Full Length Waist Type: Mid Closure: Zipper Fly Material: Denim Fabric Type: Stripe Knit Elasticity: Slight Stretch Thickness: Midweight Wash: Light Applicable Season: Four Seasons Applicable Scene: Daily Gender: Men Size Guide:Available in sizes 28–40 (Asian sizing).📌 Please note: Asian sizes run smaller. Manual measurements may have a 1–3 cm error. If unsure, contact us for a personalized size recommendation Unit of measurement: cm 1. The manufacturer is a China size,32 Size ≈ 32 inches Waist Please tell us your height and weight, and we suggest a suitable size for you. 2. The data is manually tiled measurement, there is an error of 1-3cm, please understand. 3. Due to different shooting light and different monitor resolutions, slight chromatic aberration will be caused. Please refer to the actual color of the goods received.
-  Updated: 2026-03-14T11:32:06Z
+  Updated: 2026-03-22T01:09:08Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16665,7 +16665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sd262f553f6414c568d0e6a837789747dV.webp?v=1759056620
     Price: €45.00 EUR
 - [M&T Wear - Men’s Knee-Length Straight Jeans – Smart Casual Style](https://www.mtwear.store/products/new-men-classics-business-pants-male-fashion-casual-straight-leg-blue-black-jeans-elastic-slim-fit-casual-work-pants-28-40): Description:Stay cool and stylish with these versatile knee-length jeans, perfect for year-round wear. Designed with a regular fit and mid-waist cut, they feature practical pockets and a light-wash finish for a relaxed yet refined look. Whether for casual outings, shopping, or weekend hangouts, these jeans combine comfort and smart casual style effortlessly. Features: Knee-length straight jeans for a modern casual look Regular fit with mid-waist design for comfort Light-wash finish with pocket detailing Durable knit fabric with slight stretch for flexibility Zipper fly closure for ease and security Great for daily wear, smart casual events, or weekend style Specifications: Item Type: Jeans Style: Smart Casual Fit Type: Regular Jeans Style: Straight Jeans Length: Knee-Length Waist Type: Mid Closure: Zipper Fly Material: Other (with slight stretch) Fabric Type: Plaid Knit Elasticity: Slight Stretch Pattern: Solid Wash: Light / No Wash Applicable Season: Four Seasons Gender: Men Size Options:Available in sizes 28–40(Please refer to the size chart; manual measurement may have a 1–3cm difference.)
-  Updated: 2026-03-14T11:32:23Z
+  Updated: 2026-03-22T01:09:23Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16791,7 +16791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf6e46fb46cb54a76a658e53f59cd59fcd.webp?v=1759056622
     Price: €60.00 EUR
 - [M&T Wear - Men’s Hooded Casual Trench Coat – Lightweight Autumn Windbreaker](https://www.mtwear.store/products/trendy-mens-overcoat-autumn-long-sleeve-fashionable-casual-hooded-trench-coat-comfortable-and-simple-multi-purpose-men-jacket): Step into effortless style this season with our Men’s Hooded Casual Trench Coat — the perfect mix of comfort, function, and streetwear appeal. Designed for autumn weather, this coat provides the ideal balance of warmth and breathability. The turn-down collar and zip-up front add a touch of classic sophistication, while the hooded design gives a modern, practical edge. Crafted from premium polyester fabric with a smooth inner lining, it ensures comfort all day long — whether you’re heading out for work, travel, or a casual evening stroll. ✨ Features: Stylish turn-down collar with a zip-up closure Lightweight and breathable polyester material Hooded design for wind and light rain protection Loose, comfortable fit for all-day wear Ideal for casual and semi-formal occasions Full-length sleeves with classic cuffs Durable stitching for long-lasting wear 📏 Size Information (Asian Sizes)Please note: Asian sizes run 2–3 sizes smaller than US/EU sizes.Allow 1–3 cm difference due to manual measurement. Size Length (cm/inch) M 93 / 36.61 L 95 / 37.40 XL 97 / 38.19 2XL 99 / 38.98 3XL 101 / 39.76 📋 Specifications: Applicable Scene: Casual Applicable Season: Autumn Closure Type: Zipper Collar: Turn-Down Collar Craft of Weaving: Non-Woven Cuff Style: Conventional Detachable Part: None Hooded: Yes Lining Material: Polyester Material: Polyester Outerwear Type: Trench Pattern Type: Solid Sleeve Length: Full Style: Casual Thickness: Standard Type: Loose Full Opening: Yes
-  Updated: 2026-03-14T11:32:27Z
+  Updated: 2026-03-22T01:09:28Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16837,7 +16837,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sea499559a19b4848a8094dece580fd44S.webp?v=1759056623
     Price: €80.00 EUR
 - [M&T Wear - Men’s Long Winter Down Jacket](https://www.mtwear.store/products/men-long-down-jackets-winter-coats-chaquetas-men-hooded-casual-winter-coats-and-jackets-high-quality-male-black-warm-parkas): Stay warm and stylish all winter long with this Men’s Long Down Jacket, designed for ultimate comfort in cold weather. Made from high-quality polyester fabric with cotton filling, it delivers excellent insulation without feeling heavy. The long length design and hooded collar provide extra warmth and wind protection, making it ideal for everyday wear or outdoor activities. Whether you’re commuting, traveling, or just taking a winter stroll, this casual yet sophisticated parka ensures you stay warm, dry, and effortlessly stylish. ✨ Features: Premium warm cotton filling for superior insulation Long-length design (26+ inches) for full-body warmth Durable polyester outer shell and smooth lining for comfort Adjustable hood for added protection against wind and cold Zipper and button closure for extra heat retention Spacious pockets to keep your essentials and hands warm Sleek slim-fit cut for a modern, refined look 📋 Specifications: Applicable Scene: Daily Applicable Season: Winter Closure Type: Zipper + Single Breasted Clothing Length: Long (26+ inches) Collar: Hooded Craft of Weaving: Tatting Decoration: Pockets Detachable Part: None Fabric Type: Broadcloth Filling: Cotton Lining Material: Polyester Material: Polyester Pattern Type: Solid Sleeve Style: Regular Style: Casual Thickness: Thick Type: Slim FitWeight: 1.2 kg Tops Size M L XL XXL 3XL 4XL Shoulder(cm) 42 43 44 45 46 48 Chest Width(cm) 104 108 112 116 120 124 Body Length(cm) 80 82 84 85 86 87 Sleeve Length(cm) 62 63 64 65 66 67 Weight Range(kg) 45-50 50-57 58-65 66-72 73-79 80-86
-  Updated: 2026-03-14T11:32:43Z
+  Updated: 2026-03-22T01:09:44Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16963,7 +16963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S56a765fd90b0499eaa421c8d0bb5a0bfL.webp?v=1759056623
     Price: €70.00 EUR
 - [M&T Wear - Kalenmos Men’s Faux Fur Coat](https://www.mtwear.store/products/men-faux-fur-long-coats-jackets-turn-down-collar-coat-thick-casual-loose-streetwear-jacket-work-outerwear-autumn-winter-2025): Stay warm and stylish this season with the Kalenmos Men’s Faux Fur Coat, designed for modern men who value both comfort and sophistication. Crafted from premium faux fur and polyester lining, this jacket provides excellent insulation and a luxurious feel — perfect for autumn and winter wear. With a turn-down collar and single-breasted closure, this coat blends classic elegance with a casual modern look, making it ideal for daily outings, casual events, or smart streetwear styling. ✨ Features: Soft and warm faux fur fabric with smooth polyester lining Turn-down collar for a refined and timeless style Single-breasted closure for easy wear and a clean look Regular fit — stylish yet comfortable for daily use Durable broadcloth fabric with fine tatting craftsmanship Perfect for autumn and winter seasons 📋 Specifications: Brand Name: Kalenmos Gender: Men Material: Faux Fur Lining Material: Polyester Closure Type: Single Breasted Clothing Length: Regular Collar: Turn-Down Collar Fabric Type: Broadcloth Craft of Weaving: Tatting Pattern Type: Solid Style: Casual Applicable Scene: Daily Applicable Season: Autumn & Winter Thickness: Standard Type: Regular Detachable Part: None Hooded: No Decoration: None
-  Updated: 2026-03-14T11:32:49Z
+  Updated: 2026-03-22T01:09:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -16996,7 +16996,7 @@
     Availability: Available
     Price: €80.00 EUR
 - [M&T Wear Men’s Vintage Long Trench Coat – Double-Breasted Business Overcoat](https://www.mtwear.store/products/men-overcoat-vintage-long-trench-coat-men-double-breasted-jacket-coats-mens-business-black-long-solid-windbreak-coat-outwear): Command attention in any setting with the M&T Wear Men’s Vintage Long Trench Coat, a timeless piece that blends classic sophistication with modern style. Designed for spring and autumn, this elegant overcoat offers a refined silhouette, making it ideal for both formal occasions and everyday wear. Crafted from premium polyester fabric with a smooth lining, this long trench provides lightweight warmth, structure, and comfort. Its double-breasted closure, turn-down collar, and tailored design give it a sleek, confident look that never goes out of style. Features: Classic Double-Breasted Design: A timeless statement of sophistication and power Premium Fabric: Smooth, durable polyester construction for lasting comfort Elegant Fit: Long, loose silhouette for a polished yet relaxed look Functional Details: Button decoration, full sleeves, and comfortable lining Versatile Wear: Perfect for business, travel, or casual city outings Specifications: Brand Name: M&T Wear Gender: Men Item Type: Outerwear & Coats Outerwear Type: Trench Material: Polyester Lining Material: Polyester Collar Type: Turn-Down Collar Closure Type: Double-Breasted Fit Type: Loose Clothing Length: Extra Long Pattern Type: Solid Style: Vintage / Business Casual Season: Spring & Autumn Hooded: No Sleeve Style: Regular Thickness: Standard Care Instructions:Dry clean or hand wash cold. Hang dry and iron on low heat. Step out in confidence and class with the M&T Wear Men’s Long Trench Coat — a refined essential that combines vintage elegance with modern practicality. SIZE BUST(cm) LENGTH (cm) SLEEEVE (cm) M 102 134 64 L 110 135 66 XL 118 136 68 2XL 126 137 70
-  Updated: 2026-03-14T11:32:57Z
+  Updated: 2026-03-22T01:09:58Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17050,7 +17050,7 @@
     Availability: Available
     Price: €60.00 EUR
 - [M&T Wear Men’s Thickened Winter Overcoat Hoodie](https://www.mtwear.store/products/mens-thickened-overcoat-jackets-winter-warm-zipper-hoodies-long-sleeve-sweatshirts-outdoor-casual-solid-color-streetwear-tops): Stay warm and stylish this season with the M&T Wear Men’s Thickened Winter Hoodie Jacket, crafted for unbeatable comfort and everyday wear. This fleece-lined jacket combines streetwear appeal with outdoor practicality, keeping you cozy in cold autumn and winter weather. Made from premium polyester knit fabric, it offers a perfect blend of softness, warmth, and durability. The zip-up front and adjustable drawstring hood make it ideal for layering, while its solid color design ensures effortless versatility with any outfit. Features: Warm Fleece Interior: Keeps you insulated and comfortable during chilly days Functional Design: Full zipper closure for easy wear, with a protective hood Versatile Style: Perfect for casual outings, work, or outdoor activities Durable Construction: Retains color and shape even after multiple washes Soft and Comfortable Fit: Smooth polyester fabric with standard tailoring Specifications: Brand Name: M&T Wear Gender: Men Item Type: Outerwear & Coats Outerwear Type: Jackets Material: Polyester Lining Material: Polyester (Fleece) Collar Type: Hooded Closure Type: Zipper Fit Type: Regular Pattern Type: Solid Style: Casual / Streetwear Season: Autumn & Winter Thickness: Thick (Fleece Lined) Sleeve Style: Regular Clothing Length: Regular Function: Wind Protection & Warmth Care Instructions:Machine wash cold. Do not bleach. Hang dry or tumble dry low. Iron on low if necessary. Embrace both comfort and confidence this winter with the M&T Wear Men’s Thickened Winter Hoodie Jacket — a wardrobe essential that combines practicality, warmth, and timeless streetwear style.
-  Updated: 2026-03-14T11:33:10Z
+  Updated: 2026-03-22T01:10:10Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17152,7 +17152,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S9350e6b494a2491aaba0225c866e6e3dz.webp?v=1759056625
     Price: €60.00 EUR
 - [M&T Wear Men’s Korean Style Hooded Windbreaker – Two-Piece Mid-Length Jacket](https://www.mtwear.store/products/mens-coat-hooded-new-two-pieces-korean-style-windbreaker-spring-autumn-mid-length): Step out in confidence and comfort with the M&T Wear Men’s Hooded Windbreaker, a stylish two-piece design blending modern Korean fashion with practical functionality. Ideal for spring, autumn, and mild winter weather, this mid-length jacket keeps you warm, protected, and effortlessly on-trend. Crafted from premium polyester fabric with a soft cotton lining, this jacket offers windproof, waterproof, and sun-resistant performance — perfect for both city life and outdoor adventures. Features: Contemporary Korean Style: Trendy mid-length design for a clean, modern look All-Weather Comfort: Windproof and waterproof protection for daily wear Soft Inner Lining: Cotton interior provides warmth and comfort Functional Design: Hooded neckline with button and zipper closure Versatile Use: Ideal for casual outings, commuting, or weekend trips Specifications: Brand Name: M&T Wear Gender: Men Item Type: Outerwear & Coats Outerwear Type: Jackets Material: Polyester Lining Material: Cotton Collar Type: Hooded Closure Type: Zipper & Button Style: Casual / Youth Fashion Fit Type: Loose Season: Spring, Autumn, Winter Thickness: Standard to Thickened Function: Windproof, Waterproof, Sun Protection Care Instructions:Hand wash or gentle machine wash cold. Avoid bleach. Hang dry and iron on low if needed. Stay protected and stylish wherever you go with the M&T Wear Men’s Hooded Windbreaker — the perfect blend of comfort, durability, and Korean-inspired fashion.
-  Updated: 2026-03-14T11:33:18Z
+  Updated: 2026-03-22T01:10:18Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17206,7 +17206,7 @@
     Availability: Available
     Price: €75.00 EUR
 - [M&T Wear - Men’s Autumn & Winter Woolen Coat – Casual Business Jacket](https://www.mtwear.store/products/autumn-and-winter-mens-trendy-coat-casual-business-jackets-man-warm-coat-outerwear-mens-british-style-long-sleeved-woolen-coat): Upgrade your wardrobe with the M&T Wear Men’s Trendy Woolen Coat, a perfect fusion of British sophistication and modern casual style. Designed for the autumn and winter seasons, this coat offers both warmth and elegance — ideal for business meetings, casual outings, or evening gatherings. Crafted from premium cotton-blend fabric with a soft lining, this coat ensures comfort while maintaining a refined silhouette. The turn-down collar and zipper closure add a timeless touch to its classic design. Features: Stylish British-Inspired Design: Modern look with a sleek, tailored fit Premium Fabric: Made from soft and durable cotton blend for warmth and comfort Comfortable Lining: Keeps you cozy during cold weather Versatile Wear: Perfect for business, travel, or daily use Functional Details: Long sleeves, zipper closure, and a refined finish Specifications: Brand Name: M&T Wear Gender: Men Item Type: Outerwear & Coats Material: Cotton Lining Material: Cotton Style: Casual / Business Collar: Turn-Down Collar Closure Type: Zipper Season: Autumn & Winter Fit Type: Slim Pattern Type: Solid Hooded: No Type: Jackets Care Instructions:Dry clean or gentle machine wash cold. Hang dry and iron on low heat if necessary. Stay warm and effortlessly stylish this season with the M&T Wear Men’s Woolen Coat — a must-have piece that combines comfort, durability, and timeless fashion.
-  Updated: 2026-03-14T11:33:27Z
+  Updated: 2026-03-22T01:10:27Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17284,7 +17284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S299d9b048f374862904c7a02e03e5c88X.webp?v=1759056623
     Price: €74.99 EUR
 - [M&T Wear - Men’s Loose Fit Harem Jeans – Casual Streetwear Style](https://www.mtwear.store/products/mens-tapered-jeans-fashion-streetwear-casual-pants-personality-vintage-blue-denim-trousers-hip-hop-high-quality-male-clothes): Description:Upgrade your streetwear look with these trendy harem-style jeans. Designed with a loose fit and ankle-length cut, these jeans bring comfort and fashion together. Featuring practical pocket detailing and a lightweight, breathable denim fabric, they’re perfect for casual daily wear or fashionable street style. Features: Loose-fit harem jeans with modern streetwear vibe Comfortable ankle-length design Durable denim with midweight thickness for year-round wear Stylish pocket detailing for utility and edge Zipper fly closure with low-waist fit Ideal for casual, daily, or street fashion looks Specifications: Item Type: Jeans Style: Casual / Streetwear Fit Type: Loose Jeans Style: Harem Pants Material: Denim Thickness: Midweight Waist Type: Low Elasticity: Non-Stretch Closure: Zipper Fly Pattern: Solid Length: Ankle-Length Applicable Season: Four Seasons Gender: Men Size Options:Available in sizes 28–38 (Loose Fit)(Please refer to the size chart; manual measurement may have 1–3cm difference.) Unit of measurement: cm1. The size is Asian size, smaller than US, UK, Australia, EU size. Please tell us your height and weight, and we will suggest a size that suits you.2. The data is mosaic manual measurement, there is 1-3cm error, please understand.3. Due to different shooting lights and different monitor resolutions, slight chromatic aberration will be caused. Please take the actual color of the goods as the standard.
-  Updated: 2026-03-14T11:33:32Z
+  Updated: 2026-03-22T01:10:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17326,14 +17326,14 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S161711937a20453a924a5cbd2edff82ev.webp?v=1759056814
     Price: €49.99 EUR
 - [M&T Wear -  Elegant Polyester Kurta for Women – Traditional Indian & Pakistani Style](https://www.mtwear.store/products/new-indian-womens-maroon-ethnic-kuta-three-piece-set): Step into timeless elegance with the M&T Wear Women’s Traditional Kurta, crafted to bring comfort and cultural sophistication together. Designed with high-quality polyester fabric, this kurta offers a lightweight, breathable, and smooth texture — perfect for both daily wear and special occasions. Whether styled with trousers, leggings, or a dupatta, this piece reflects the charm of Indian and Pakistani traditional fashion with a modern touch. Features: Classic Traditional Design: Inspired by South Asian elegance Soft & Comfortable Fabric: Made from premium polyester for all-day wear Versatile Style: Suitable for festivals, family gatherings, or casual outings Lightweight & Durable: Easy to care for and ideal for every season Specifications: Brand Name: M&T Wear Gender: Women Item Type: India & Pakistan Traditional Clothing Material: 100% Polyester Type: Kurta Model Number: 360 Special Use: Cultural & Festive Wear Care Instructions:Machine wash cold or hand wash. Line dry. Iron on low heat if needed. Bring tradition to life with the M&T Wear Elegant Polyester Kurta — a perfect blend of comfort, style, and culture.
-  Updated: 2026-03-14T11:33:34Z
+  Updated: 2026-03-22T01:10:34Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S89d8bfa518fe4b79907861b22194a8d1e.webp?v=1759056814
   Price: €150.00 EUR
 - [M&T Wear - Elegant Indian Embroidered Sari Shawl – 2025 Exotic Traditional Veil](https://www.mtwear.store/products/2025-indian-traditional-sari-gauze-embroidery-exotic-style-women-veil-ethnic-elegant-long-shawl-women-elegant-indian-shawl-s590): Elevate your traditional look with the M&T Wear 2025 Indian Embroidered Sari Shawl, a perfect blend of elegance, heritage, and timeless beauty. Crafted from premium lightweight gauze fabric, this long shawl is delicately adorned with intricate embroidery, offering a graceful drape for festive occasions, weddings, or cultural celebrations. Designed for the modern woman who values tradition and sophistication, this shawl can be styled as a veil, dupatta, or wrap, making it a versatile addition to your ethnic collection. Features: Elegant Embroidery: Adds a refined touch of traditional craftsmanship Soft & Lightweight Gauze Fabric: Ensures comfort and graceful flow Versatile Design: Perfect as a sari shawl, veil, or dupatta Cultural Elegance: Ideal for festive wear, weddings, and formal gatherings Timeless Style: Combines traditional Indian aesthetics with modern charm Specifications: Material: Premium Polyester Gauze Gender: Women Item Type: Asia & Pacific Islands Traditional Clothing Sleeve Length: Full Special Use: Traditional or Cultural Occasions Type: Sari Shawl / Veil Origin: Mainland China (Jiangsu) Care Instructions:Hand wash gently in cold water. Avoid bleach and direct sunlight for color preservation. Wrap yourself in elegance and tradition with M&T Wear’s Embroidered Indian Shawl — where cultural grace meets modern sophistication. 4231
-  Updated: 2026-03-14T11:33:35Z
+  Updated: 2026-03-22T01:10:35Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17347,7 +17347,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sf24c684fcb3941aaa4f15b2b11cabc73c.webp?v=1759056816
     Price: €70.00 EUR
 - [M&T Wear - Pakistani Cotton Floral Printed Kurti for Women](https://www.mtwear.store/products/indian-dress-kurtas-for-women-spring-summer-cotton-printed-floral-ethnic-style-kurti-top-south-asian-clothes): Celebrate timeless elegance and comfort with the M&T Wear Indian Cotton Floral Kurti, designed for the modern woman who values cultural beauty with everyday wearability. Made from soft cotton-polyester fabric, this Kurti ensures all-day comfort while keeping you stylish during the spring and summer seasons. The floral ethnic print reflects South Asian artistry, making it perfect for casual outings, festive gatherings, or daily office wear. Its lightweight fabric and breathable texture make it an essential piece in every wardrobe. Features: Elegant Ethnic Design: Inspired by traditional South Asian fashion Soft & Breathable Fabric: Crafted from premium cotton blend for all-day comfort Floral Print Detailing: Adds charm and femininity to your look Easy to Pair: Goes perfectly with leggings, trousers, or palazzos Lightweight & Durable: Ideal for warm weather and everyday wear Specifications: Material: Cotton + Polyester Blend Gender: Women Type: Kurti Top Origin: Mainland China (Zhejiang) Item Type: India & Pakistan Clothing Package Includes: Kurti Top × 1 Excludes: Pants Special Use: Traditional Clothing Season: Spring / Summer Care Instructions:Machine or hand wash gently in cold water. Avoid bleach. Line dry for long-lasting color and shape. Add a touch of ethnic grace to your wardrobe with M&T Wear — where culture meets comfort and style. Size Shoulder(cm) Bust(cm) Waist(cm) Length(cm) S 35 90 84 112 M 37 96 90 112 L 38 102 96 112 XL 39 106 100 112 2XL 41 112 106 112 There will be a discrepancy about 2-4cm because of manual measurement.
-  Updated: 2026-03-14T11:33:48Z
+  Updated: 2026-03-22T01:10:48Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17453,7 +17453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb16811716cfd421997a649e8adc63b9cN.webp?v=1759056817
     Price: €90.00 EUR
 - [M&T Wear - Pakistani Cotton Floral Printed Kurti Top for Women](https://www.mtwear.store/products/kurtas-for-women-spring-summer-womens-indian-dress-cotton-printed-floral-ethnic-style-kurti-top-south-asian-clothes): Step into effortless elegance with the M&T Wear Cotton Floral Printed Kurti, designed for women who appreciate the blend of traditional charm and modern comfort. Crafted from soft, breathable cotton-polyester fabric, this Kurti is ideal for spring and summer, offering a lightweight and airy feel perfect for everyday wear or festive gatherings. Featuring a beautiful ethnic floral print inspired by South Asian design, this versatile Kurti pairs easily with leggings, palazzos, or jeans — making it a must-have addition to your wardrobe. Features: Traditional Indian design: Inspired by South Asian ethnic wear Soft cotton fabric: Comfortable, breathable, and ideal for warm seasons Floral printed pattern: Adds a touch of elegance and cultural beauty Versatile styling: Perfect for daily wear, work, or casual occasions Lightweight and easy to care: Designed for comfort and durability Specifications: Material: Cotton + Polyester Blend Gender: Women Type: Kurti Top Origin: Mainland China (Guangdong) Package Includes: Kurti Top × 1 Excludes: Pants Special Use: Traditional / Ethnic Clothing Season: Spring / Summer Care Instructions:Hand wash or gentle machine wash in cold water. Do not bleach. Hang dry for best results. Express your individuality with M&T Wear — where cultural heritage meets modern elegance. Size Shoulder(cm) Bust(cm) Waist(cm) Length(cm) S 35 90 84 112 M 37 96 90 112 L 38 102 96 112 XL 39 106 100 112 2XL 41 112 106 112 There will be a discrepancy about 2-4cm because of manual measurement.
-  Updated: 2026-03-14T11:33:58Z
+  Updated: 2026-03-22T01:10:59Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17539,7 +17539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8bb7aa49d2ea4593afd49adead7ed776v.webp?v=1759056818
     Price: €99.00 EUR
 - [M&T Wear - Cotton Floral Punjabi Suit 3-Piece Set](https://www.mtwear.store/products/indian-womens-punjabi-suit-3-piece-set-cotton-floral-print-kurta-dupatta-ethnic-salwar-kameez-for-wedding-diwali-daily-wear): Experience timeless Indian elegance with the M&T Wear Cotton Floral Punjabi Suit, a beautifully designed 3-piece ensemble crafted for weddings, festive occasions, and everyday wear. This set reflects the charm of traditional Punjabi attire with a modern, breathable twist — combining comfort, color, and culture in one perfect outfit. The soft cotton-polyester blend ensures day-long comfort, while the delicate floral print adds a touch of feminine grace. Designed as a complete set with kurta, salwar, and dupatta, it’s ideal for festivals like Diwali, family gatherings, or casual daily wear. Features: Elegant 3-piece set: Includes Kurta (top), Salwar (bottom), and Dupatta (shawl) Floral printed cotton fabric: Lightweight, breathable, and soft against the skin Traditional meets modern: Designed for comfort, style, and cultural expression Perfect for all occasions: Suitable for weddings, festive wear, or everyday elegance Easy to care: Durable material with lasting color and shape Specifications: Material: Cotton + Polyester Blend Gender: Women Type: Salwar Kameez Set Origin: Mainland China (Zhejiang) Package Includes: Kurta × 1 Pants × 1 Dupatta × 1 Accessories: Not included Special Use: Traditional / Ethnic Clothing Season: All Seasons Care Instructions:Hand wash or gentle machine wash in cold water. Do not bleach. Line dry for best results. Celebrate your heritage with M&T Wear — where cultural tradition meets effortless elegance.
-  Updated: 2026-03-14T11:34:06Z
+  Updated: 2026-03-22T01:11:07Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17605,7 +17605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S374efee005ad426a819f45bb579aaab5Z.webp?v=1759056817
     Price: €199.00 EUR
 - [M&T Wear -Pakistani Style Embroidered Diamond Dress](https://www.mtwear.store/products/muslim-elegant-dress-middle-eastern-clothing-fashion-comfortable-design-dubai-women-loose-abaya-embroidered-diamond-tapered-robe): Elevate your modest wardrobe with the M&T Wear Embroidered Diamond Abaya Dress, a perfect blend of comfort, elegance, and Middle Eastern charm. Designed for women who appreciate both tradition and style, this abaya features intricate embroidery and delicate diamond detailing that add a touch of luxury to your everyday or festive look. Crafted from high-quality wool-blend polyester, it offers a soft texture with a loose, flowing fit for easy movement and graceful draping. The pullover style makes it convenient to wear while maintaining a refined, modest silhouette. Features: Elegant embroidery: Beautifully detailed craftsmanship with diamond accents Premium wool-blend fabric: Soft, comfortable, and durable for long wear Loose fit design: Ensures modest coverage with relaxed elegance Pullover style: Easy to wear and perfectly tailored for daily or formal use Versatile wear: Ideal for Eid, Ramadan, gatherings, or evening occasions Specifications: Material: High-quality Polyester (Woolen Texture) Fabric Type: Woolen Fit Type: Loose Elasticity: Non-Stretch Closure Type: Pullover Decoration: Embroidery with Diamond Details Style: Traditional / Elegant / Festive Thickness: Standard Length Options: M: 104 cm (40.9") L: 110 cm (43.3") XL: 116 cm (45.7") XXL: 122 cm (48.0") Season: All Seasons Release Date: Spring 2025 Collection Department:  Women Note:Minor variations in color or size may occur due to manual measurements and lighting conditions. Discover timeless modest fashion with M&T Wear — where tradition meets modern elegance.
-  Updated: 2026-03-14T11:34:10Z
+  Updated: 2026-03-22T01:11:11Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17643,7 +17643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sfd1036db997c48319dc6c7e5d090a8cfl.webp?v=1759056818
     Price: €59.99 EUR
 - [M&T Wear -  Floral Chiffon Abaya plus Dress with Belt](https://www.mtwear.store/products/muslim-dresses-for-women-elegant-middle-east-chiffon-abayas-with-flowers-and-belt-high-waist-round-neck-summer-robe): Bring effortless elegance to your wardrobe with the M&T Wear Floral Chiffon Abaya, designed for women who value grace and sophistication. Made from soft, breathable chiffon, this abaya features a flattering high waist and a matching belt that enhances your natural silhouette while maintaining a modest, refined look. The lightweight fabric and round neckline make it perfect for warm-weather wear, while the delicate floral detailing adds a gentle feminine touch. Whether for casual outings, festive gatherings, or special occasions, this abaya embodies comfort and class. Features: Soft chiffon fabric: Lightweight, smooth, and flowy for everyday comfort Elegant floral design: Subtle and stylish for a timeless feminine appeal Adjustable waist belt: Defines your figure while keeping a modest fit Non-stretch structure: Retains its shape and drape beautifully Perfect for all occasions: Ideal for Ramadan, Eid, or everyday wear Specifications: Material: High-quality Polyester Chiffon Fabric Type: Chiffon Fit Type: Regular Fit Elasticity: Non-Stretch Style: Modest / Elegant / Floral Neckline: Round Neck Waist Type: High Waist with Belt Season: All Seasons Release Date: Spring 2025 Collection Department:  Women Note:Slight color variations may occur due to lighting or screen settings.
-  Updated: 2026-03-14T11:34:16Z
+  Updated: 2026-03-22T01:11:17Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17689,7 +17689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8e64442304d2402eb7c221b952d7fa3an.webp?v=1759056818
     Price: €54.99 EUR
 - [M&T Wear - Pakistani Chiffon Diamond Dress](https://www.mtwear.store/products/muslim-dress-for-women-chiffon-diamond-party-abaya-dresses-arab-long-robe-morocco-dubai-kaftan-vestidos-jalabiya-ramadan-eid): Turn every occasion into a statement of elegance with the M&T Wear Chiffon Diamond Party Abaya Dress. This stunning abaya blends classic modesty with refined luxury, featuring delicate diamond embellishments on soft, flowing fabric. Designed for special gatherings, it’s the perfect choice for Ramadan, Eid, weddings, or evening celebrations. The high-quality polyester broadcloth offers a gentle stretch and a smooth drape, while the regular fit ensures comfort without compromising on grace. Every detail of this dress speaks of timeless sophistication and effortless charm. Features: Diamond embellishments: Adds a subtle sparkle for a refined, festive look Soft and breathable fabric: Smooth polyester with a light, elegant flow Slight stretch: Ensures comfort while maintaining a polished fit Full-length modest design: Ideal for formal and festive occasions Perfect for all seasons: Elegant, versatile, and easy to style year-round Specifications: Material: High-quality Polyester Fabric Type: Broadcloth Fit Type: Regular Fit Elasticity: Slight Stretch Decoration: Diamond Detailing Style: Gorgeous Party / Elegant Modest Sleeve Length: Long Sleeve Season: All Seasons Release Date: Spring 2025 Collection Department:  Women Note:The black color variant is currently out of stock. Please explore other available colors from M&T Wear. Step into the spotlight with M&T Wear — where modest fashion meets timeless beauty.
-  Updated: 2026-03-14T11:34:20Z
+  Updated: 2026-03-22T01:11:20Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17715,7 +17715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sa696c6d499144e65b89e7bb51a872e9eD.webp?v=1759056818
     Price: €54.99 EUR
 - [M&T Wear - Pakistani Elegant Floral Print Dress](https://www.mtwear.store/products/elegant-floral-print-abaya-dress-for-muslim-women-modest-full-length-ankle-grazing-maxi-robe-2025-summer-islamic-turkey-outfit): Step into effortless sophistication with the M&T Wear Elegant Floral Print Abaya Dress, designed for women who embrace modesty with style. This full-length maxi abaya features a graceful floral print that beautifully enhances its flowing silhouette—perfect for summer days, festive gatherings, and formal occasions alike. Crafted from soft, breathable polyester broadcloth, it offers a loose, comfortable fit while maintaining a refined, elegant look. Whether for prayer, Eid, or an evening event, this abaya captures the essence of modern modestwear. Features: Beautiful floral design: Soft, elegant prints that exude grace and charm Premium broadcloth fabric: Lightweight, smooth, and comfortable to wear Loose and flowing fit: Ensures modest coverage with an elegant drape Non-stretch fabric: Retains structure and sophistication in every movement All-season style: Ideal for Ramadan, Eid, prayers, and formal occasions Specifications: Material: High-quality Polyester Fabric Type: Broadcloth Fit Type: Loose Elasticity: Non-Stretch Closure Type: None Style: Modest / Floral / Elegant Sleeve Length: Long Sleeve Length: Full-Length / Ankle-Grazing Season: All Seasons (Spring, Summer, Autumn, Winter) Release Date: Summer 2025 Collection Department:  Women Note:Please allow slight color or size variations due to lighting and manual measurements. Redefine your modest wardrobe with M&T Wear — where elegance, comfort, and faith-inspired fashion come together beautifully.
-  Updated: 2026-03-14T11:34:32Z
+  Updated: 2026-03-22T01:11:32Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17817,7 +17817,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S4a203badbbba4e9bac7b2d139e616158d.webp?v=1759056821
     Price: €99.00 EUR
 - [M&T Wear -  Eid Ramadan Mubarak Diamond Abaya Dress](https://www.mtwear.store/products/eid-ramadan-mubarak-abayas-for-women-abaya-dubai-muslim-hijab-dress-jalabiya-caftan-marocain-turkish-evening-gown-islam-clothing): Celebrate the season in timeless elegance with the M&T Wear Eid Ramadan Mubarak Abaya Dress, designed to bring sophistication and grace to every occasion. This stunning abaya combines modest design with sparkling diamond embellishments, creating a perfect balance of tradition and luxury. Crafted from smooth, slightly stretchy polyester broadcloth, it drapes beautifully and feels soft against the skin. Whether for Ramadan gatherings, Eid celebrations, or special evenings, this abaya radiates charm and confidence. Features: Elegant diamond decoration: Adds a subtle sparkle for a luxurious touch Soft and breathable fabric: Comfortable polyester blend ideal for all seasons Flattering fit: Loose yet structured silhouette for effortless grace Slight stretch: Provides gentle flexibility and comfort Perfect for occasions: Ideal for Eid, Ramadan, weddings, or evening events Specifications: Material: High-quality Polyester Fabric Type: Broadcloth (Soft & Breathable) Elasticity: Slight Stretch Fit Type: Loose Decoration: Sparkling Diamond Details Style: Traditional / Festive / Modern Modest Season: All Seasons Department:  Women Notes: Please allow 1–2 cm variation due to manual measurement. Colors may appear slightly different depending on lighting or screen display. Bring your celebrations to life with M&T Wear — where modest fashion meets refined elegance.
-  Updated: 2026-03-14T11:34:39Z
+  Updated: 2026-03-22T01:11:40Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -17883,7 +17883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S9f1c7b9c6eb04abc85db39be95ff4ecfH.webp?v=1759056820
     Price: €59.99 EUR
 - [M&T Wear -  Embroidered High Waist Abaya Kaftan Dress](https://www.mtwear.store/products/women-muslim-abaya-dress-thobe-long-sleeve-high-waist-embroidery-caftan-dress-islamic-dubai-moroccan-kaftan-fancy-eid-dress)
-  Updated: 2026-03-14T11:34:56Z
+  Updated: 2026-03-22T01:11:55Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18009,7 +18009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sb0a453ab1b704f44bcdb132ef0aa69efU.webp?v=1759056823
     Price: €50.00 EUR
 - [M&T Wear - Leopard Print Chiffon Open Abaya with Zipper](https://www.mtwear.store/products/new-women-leopard-print-dress-chiffon-open-abaya-with-zipper-muslim-dress-islamic-clothing-cardigan-abaya-women-muslim-dress): Step into timeless elegance with the M&T Wear Leopard Print Chiffon Open Abaya, where modesty meets modern fashion. Designed for confident women, this abaya blends soft woven fabric with a bold leopard print and a smooth open-stitch design that adds effortless sophistication to your look. Features: Elegant leopard print: Adds a chic and fashionable edge to a modest silhouette Soft, lightweight fabric: Comfortable polyester chiffon that drapes beautifully Open-front design with zipper: Easy to wear, versatile for layering and styling Slight stretch fit: Offers comfort while maintaining a graceful shape Perfect for all occasions: Ideal for casual days, evening outings, or gatherings Specifications: Material: High-quality Polyester (Woven Chiffon) Closure Type: Open Stitch with Zipper Elasticity: Slight Stretch Fit Type: Loose Style: Casual / Modern Thickness: Thin and breathable Season: Autumn & Winter Release Date: Spring 2025 Collection Department:  Women Elevate your modest fashion with M&T Wear, where every design reflects elegance, comfort, and confidence.
-  Updated: 2026-03-14T11:34:58Z
+  Updated: 2026-03-22T01:11:59Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18035,7 +18035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sd60a3b9117cc48b1bbec8f1326dbf483L.webp?v=1759056822
     Price: €75.00 EUR
 - [M&T Wear - Modern Style Muslim Abaya Maxi Dress](https://www.mtwear.store/products/fashion-classic-embroidered-abaya-hijab-dress-kimono-coat-outwear-women-long-sleeve-loose-arabic-muslim-dubai-moroccan-caftan): Experience elegance and comfort with the M&T Wear Modern Style Muslim Abaya Maxi Dress, crafted from premium, soft polyester fabric that feels just like cotton. The material is lightweight, breathable, and perfect for all seasons—keeping you comfortable while maintaining a graceful look. Features: High-quality fabric: Soft, cool, and comfortable for everyday wear Stylish design: A modern take on the classic abaya silhouette Loose fit: Designed for modesty and ease of movement Beautiful embroidery: Adds a refined, elegant touch All-season wear: Ideal for casual outings or special occasions Specifications: Material: 100% Polyester (Cotton-feel) Fabric Type: Broadcloth Elasticity: Non-stretch Fit Type: Loose Style: Casual / Modern Length: 152 cm (One Size) Note:The chiffon scarf or hijab is sold separately. To complete the look, please purchase the abaya and matching scarf/hijab together from M&T Wear.
-  Updated: 2026-03-14T11:34:59Z
+  Updated: 2026-03-22T01:12:00Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18049,7 +18049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc6c3bb5538b145bbbbfcce4aa803615ef.webp?v=1759056820
     Price: €55.00 EUR
 - [M&T Wear –  Traditional Women’s Long Open-Front Cardigan](https://www.mtwear.store/products/floral-print-long-sleeved-loose-muslim-cardigan-elegant-high-street-swing-vacation-jackets-2025-new-womens-v-neck-autumn-coat): Description:Layer up in effortless style with this long open-front cardigan from M&T Wear. Designed with a loose fit and crafted from soft, lightweight polyester, it’s the perfect outerwear for autumn and winter. The simple, no-closure design makes it easy to throw on over your favorite tops, dresses, or casual outfits. With its versatile length and full sleeves, this cardigan offers both comfort and warmth while keeping your look chic and relaxed. Features: Open-front, no-closure design for easy layering Long length for a cozy, flattering fit Loose silhouette with slight stretch for comfort Full sleeves for added warmth Perfect for autumn and winter wear A versatile piece for casual or semi-formal styling Specifications: Item Type: Outerwear / Cardigan Fit Type: Loose Material: Polyester Clothing Length: Long Sleeve Length: Full Style: Casual Season: Autumn & Winter Thickness: Standard Gender: Women Size Guide (Length): S: 40 cm / 15.75 in M: 41 cm / 16.14 in L: 43 cm / 16.93 in XL: 44 cm / 17.32 in XXL: 45 cm / 17.72 in
-  Updated: 2026-03-14T11:35:07Z
+  Updated: 2026-03-22T01:12:08Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18115,7 +18115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S35c84f472f614533baffb7b9ddee318fE.webp?v=1759056822
     Price: €60.00 EUR
 - [M&T Wear - Pakistani Women's Embroidered Loose abaya Dresses Elegant Casual Kaftan](https://www.mtwear.store/products/2025-siskakia-ramadan-muslim-womens-embroidered-loose-abaya-dresses-for-women-gala-morocco-dubai-elegant-casual-kaftan): Description:Graceful, elegant, and effortlessly comfortable — this embroidered abaya dress from M&T Wear is designed for women who want a timeless look for both special occasions and everyday wear. Crafted from soft, lightweight fabric with a loose fit, it drapes beautifully and allows ease of movement. Intricate embroidery adds a touch of sophistication, making it perfect for Ramadan, festive gatherings, or casual elegance. Features: Loose, flowing silhouette for all-day comfort Beautiful embroidery detailing for an elegant touch Lightweight polyester fabric with slight stretch Full-length design with a modest, graceful style Perfect for Ramadan, cultural events, or casual wear Specifications: Item Type: Abaya / Kaftan Dress Fit: Loose, relaxed Material: Polyester Style: Traditional & Elegant Closure: None (pull-on style) Thickness: Standard Season: All seasons Gender: Women
-  Updated: 2026-03-14T11:35:15Z
+  Updated: 2026-03-22T01:12:14Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18169,7 +18169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S692d3cd56df94e2da08474c22b07681cB.webp?v=1759056823
     Price: €75.00 EUR
 - [M&T Wear - Mens Denim Pants Spring Casual Business Straight Fit Loose Elasticated Jeans Stylish Comfortable Pants for Work and Daily Wear](https://www.mtwear.store/products/mens-denim-pants-spring-casual-business-straight-fit-loose-elasticated-jeans-stylish-comfortable-pants-for-work-and-daily-wear): Description:Upgrade your everyday look with these slim-fit ankle-length jeans from M&T Wear. Designed with a breathable cotton blend and a touch of stretch, they balance comfort, durability, and a clean silhouette. The stonewashed finish adds a laid-back edge, making them easy to wear for travel, casual outings, or just a relaxed day out. Features: Slim-fit cut with ankle-length design Made with a cotton blend for comfort and flexibility Classic stonewashed finish for a modern casual style Mid-rise waist with zipper fly closure Lightweight and breathable, perfect for spring and autumn Versatile for travel, leisure, outdoor activities, or casual workdays Specifications: Fit Type: Slim Length: Ankle-length Material: Cotton blend Closure: Zipper Fly Style: Casual Waist Type: Mid Wash: Stonewashed Gender: Men Package Includes:1 × Pair of Men’s Casual Jeans
-  Updated: 2026-03-14T11:35:17Z
+  Updated: 2026-03-22T01:12:17Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18191,7 +18191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sbe5d3529c6cc454182c8070665b2e2385.webp?v=1759056823
     Price: €50.00 EUR
 - [M&T Wear - Men Denim Pants Old Blue Washed Male Jeans Straight Casual Menswear Loose Wide Leg Trousers New Fashion Korean High Street Denim](https://www.mtwear.store/products/men-denim-pants-old-blue-washed-male-jeans-straight-casual-menwear-loose-wide-leg-trousers-new-fashion-korean-high-street-denim): Description:Step into everyday comfort with these wide-leg denim jeans from M&T Wear. Designed for a relaxed fit, they’re perfect for all-day wear whether you’re hanging out with friends, heading to work, or just taking it easy. The soft denim fabric with a slight stretch moves with you, while the midweight feel makes them ideal for every season. A classic zipper fly closure, mid-rise waist, and practical pocket details complete the look. Features: Relaxed wide-leg design for all-day comfort Durable denim with a soft finish and slight stretch Mid-rise waist with zipper fly closure Functional pockets for everyday essentials Versatile casual style for any season Specifications: Fit Type: Loose Length: Full length Material: Denim Style: Casual Thickness: Midweight Waist Type: Mid Wash: Light Gender: Men Size Guide (Length): M: 70 cm / 27.56 in L: 74 cm / 29.13 in XL: 78 cm / 30.71 in XXL: 82 cm / 32.28 in XXXL: 86 cm / 33.86 in
-  Updated: 2026-03-14T11:35:22Z
+  Updated: 2026-03-22T01:12:23Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18237,7 +18237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S5134d9840dc149a4b17780c9d32c8444c.webp?v=1759056824
     Price: €50.00 EUR
 - [M&T Wear - Pakistani Evening Dress Robe Luxury Abaya](https://www.mtwear.store/products/kaftan-dubai-evening-dress-robe-luxury-abaya-2025-muslim-clothing-women-long-sleeve-embroiled-fashion-islamic-dresses-robe): SPECIFICATIONS Brand Name: M&T Wear Age Group: Junior / Women Item Type: Casual Dress Closure Type: Zipper Craft of Weaving: Tatting Fabric Type: Polyester (Synthetic Fiber) Material Composition: Polyester Blend Elasticity: Slight Stretch Fit Type: Loose Neckline: O-Neck Sleeve Length: Full Sleeve Style: Regular Silhouette: A-Line Profile Type: H Waistline: Natural Dress Length: Ankle-Length Pattern Type: Printed Decoration: None Season: Spring / Summer Style: Casual PRODUCT DETAILS 1. Effortless Everyday StyleThis ankle-length printed dress offers a relaxed, casual look while maintaining elegance. With its O-neck design and A-line silhouette, it’s easy to wear and flatters a variety of body types. 2. Lightweight & ComfortableMade from a soft polyester blend with slight stretch, the fabric ensures breathable comfort, making it perfect for spring and summer wear. 3. Practical DesignA zipper closure allows for easy wear, while the loose fit provides freedom of movement. Full-length sleeves add modest coverage without sacrificing style. 4. Versatile Wardrobe EssentialIdeal for casual outings, weekend wear, or vacation styling, this dress pairs well with sneakers for a laid-back look or heels for a more polished appearance.
-  Updated: 2026-03-14T11:35:29Z
+  Updated: 2026-03-22T01:12:29Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18291,7 +18291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sab90fa7ead854eae9ac19c24b31de8deS.webp?v=1759056950
     Price: €85.00 EUR
 - [M&T Wear - Traditional Clothing Sari Women's Elegant Dress Party Cosplay Dance Dress Stage Dress](https://www.mtwear.store/products/traditional-indian-clothing-pakistani-sari-womens-elegant-dress-party-cosplay-dance-dress-stage-dress): SPECIFICATIONS Brand Name: M&T Wear Origin: Mainland China (Zhejiang) Gender: Women Item Type: Traditional South Asian Clothing Type: Saree Material: Cotton & Polyester Blend Model Number: Women Special Use: Cultural & Festive Wear PRODUCT DETAILS 1. Classic South Asian EleganceThis saree embodies timeless tradition with a modern touch, making it a versatile choice for cultural celebrations, weddings, and festive gatherings. 2. Premium Fabric BlendCrafted from a durable cotton and polyester mix, the saree balances comfort with structure. Lightweight and breathable, it’s perfect for long wear without compromising style. 3. Versatile StylingDrape it traditionally for ceremonies or style it with contemporary blouses for a modern twist. Its adaptable design ensures it suits any occasion. 4. Lasting WearDesigned with quality stitching and fabric that holds its shape, this saree is made for repeated use while maintaining its beauty and color.
-  Updated: 2026-03-14T11:35:53Z
+  Updated: 2026-03-22T01:12:53Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18489,7 +18489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sadcc183049a94efda5e80414527aa3a3O.webp?v=1759056954
     Price: €120.00 EUR
 - [M&T Wear - Pakistani Clothing Women's Pure Cotton Embroidered Side Concealed Long Sleeved Shirt](https://www.mtwear.store/products/indian-clothing-womens-pure-cotton-embroidered-side-concealed-long-sleeved-shirt-pakistan): SPECIFICATIONS Brand Name: M&T Wear Origin: Mainland China Gender: Women Item Type: Traditional South Asian Clothing Type: Ethnic Blouses Material: 100% Cotton Model Number: 128 Special Use: Cultural & Festive Wear Harmful Chemicals: None PRODUCT DETAILS 1. Traditional EleganceThis women’s ethnic blouse highlights the beauty of Indian and Pakistani clothing traditions. Crafted from soft, breathable cotton, it combines cultural authenticity with comfort. 2. Versatile StylingPerfect to pair with lehengas, skirts, or shalwar kameez sets, this blouse is ideal for weddings, festivals, or everyday traditional wear. 3. Comfort & DurabilityThe high-quality cotton fabric ensures lasting wear while keeping you cool and comfortable. Its shape and color remain intact even after multiple washes. 4. A Wardrobe EssentialA timeless addition to any wardrobe, this ethnic blouse blends tradition with wearability, making it a must-have piece for festive and cultural occasions.
-  Updated: 2026-03-14T11:36:30Z
+  Updated: 2026-03-22T01:13:30Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18695,7 +18695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sd31ecdcdcb1749c383f8f4c706daa86fn.webp?v=1759056956
     Price: €80.00 EUR
 - [M&T Wear - Pakistani & Turkish Style Islamic Clothing Muslim Fashion Arabia Long Dress Kaftan Clothes](https://www.mtwear.store/products/new-dubai-muslim-dress-abayas-for-women-turkey-islam-clothing-muslim-fashion-arabia-long-dress-kaftan-clothes-for-muslim-women): SPECIFICATIONS Brand Name: Urban Edge Wear Age Group: Middle Age &  Item Type: Abaya Closure Type: Pullover Material: Polyester Fabric Type: Broadcloth Craft of Weaving: Tatting Elasticity: Slight Stretch Fit Type: Loose Decoration: Embroidery Style: Casual Modest Wear Season: All Seasons Thickness: Standard Opening: No full opening 温馨提示:此款为现货,欢迎下单采购,此款价格包含腰带. 产品皆为独家实拍图片,质量保证,已加入图片保护,欢迎新老客户索图,盗图同行必究
-  Updated: 2026-03-14T11:36:32Z
+  Updated: 2026-03-22T01:13:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18713,7 +18713,7 @@
     Availability: Available
     Price: €99.00 EUR
 - [M&T Wear - Customized Pakistani Dresses for Women](https://www.mtwear.store/products/customized-kuwait-prom-dresses-for-women-dubai-saudi-arabric-gala-bespoke-formal-party-gown-vestidos-de-fiesta-plus): SPECIFICATIONS Brand Name: Urban Edge Wear Origin: Mainland China (Anhui) Target Age: All Ages Item Type: Prom / Evening Dress Dress Type: Saudi Arabian Evening Gown Style: Classic, Vintage-Inspired Silhouette: Trumpet / Mermaid Neckline: Scoop Sleeve Length: Full-Length Sleeve Style: Sleeveless Length: Floor-Length with Court Train Waistline: Natural Decoration: Beading, Pleats Fabric Type: Satin Material: Bamboo Fiber & Polyester Built-in Bra: Yes Occasions: Prom, Graduation, Weddings, Gala, Special Events Size Range: 2 – 26W (see detailed size chart below) Unique Features: Bespoke tailoring for women, custom fit for special occasions PRODUCT DETAILS 1. Luxury CraftsmanshipThis bespoke evening gown blends vintage elegance with modern sophistication. Made from premium satin with delicate beadwork and pleated detailing, it’s designed to make an unforgettable entrance at any formal occasion. 2. Tailored for PerfectionWith a flattering trumpet/mermaid silhouette, scoop neckline, and natural waistline, the gown enhances your figure while offering timeless grace. A built-in bra ensures comfort and support throughout the evening. 3. Occasion ReadyPerfect for prom, graduations, galas, and weddings. Whether you’re stepping onto the dance floor or walking down the aisle, this gown radiates confidence and elegance. 4. Custom FitEach dress is made-to-order to ensure a flawless fit. Available in sizes 2 through 26W with detailed measurements provided for accuracy. IMPORTANT INFORMATION This gown is a customized item, which means it is not eligible for return without reason. Order cancellations must be requested within 24 hours of purchase. After that, fabric preparation begins, and cancellation fees may apply. Please confirm your size and details carefully before placing your order. We encourage you to contact us for additional guidance or clarification.
-  Updated: 2026-03-14T11:36:45Z
+  Updated: 2026-03-22T01:13:46Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18803,7 +18803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S843505ad96e44f038849f3488ffc3400m.webp?v=1759056953
     Price: €150.00 EUR
 - [M&T Wear - Traditional Women's Ethnic Dance Costume Sari Next  Chaabi Three Piece Set](https://www.mtwear.store/products/indian-womens-ethnic-dance-costume-sari-next-chabi-three-piece-set): SPECIFICATIONS Brand Name: Urban Edge Wear Origin: Mainland China Region Influence: India & Pakistan Gender: Women Item Type: Traditional Clothing Material: Polyester Model Number: 277 Style: Lehenga Choli Special Use: Cultural & Festive Wear Harmful Chemicals: None PRODUCT DETAILS 1. Elegant Traditional DesignThis women’s lehenga choli combines cultural artistry with modern comfort. Designed with attention to detail, it embodies the timeless charm of South Asian fashion. 2. Premium MaterialMade from high-quality polyester, the fabric ensures durability while remaining lightweight and easy to carry, perfect for long celebrations. 3. Perfect for Special OccasionsIdeal for weddings, festivals, and traditional gatherings, this lehenga choli makes a statement with its graceful silhouette and rich design. 4. Comfortable & PracticalThe outfit balances traditional aesthetics with wear ability, making it both stunning and convenient for extended wear.
-  Updated: 2026-03-14T11:37:05Z
+  Updated: 2026-03-22T01:14:06Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -18969,7 +18969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S13680e4392804dca930f4ca0277356a7h.webp?v=1759056955
     Price: €90.00 EUR
 - [M&T Wear - Men’s 3-Piece Peak Lapel Tuxedo Suit – Perfect for Weddings, Proms & Business Events](https://www.mtwear.store/products/mens-three-pieces-wedding-party-tuxedo-peak-lapel-one-button-suit-set-groom-business-tuxedos-men-suits-wedding-prom-suits): Images of the suits
-  Updated: 2026-03-14T11:37:11Z
+  Updated: 2026-03-22T01:14:11Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -19005,7 +19005,7 @@
     Availability: Available
     Price: €150.00 EUR
 - [M&T Wear - Men’s 3-Piece Solid Slim Fit Suit – Elegant Banquet & Party Attire](https://www.mtwear.store/products/three-piece-suit-solid-color-slim-fit-suitable-for-evening-banquets-and-parties-it-consists-a-waistcoat-a-jacket-and-trousers): Make a lasting impression with the M&T Wear 3-Piece Solid Slim Fit Suit, expertly tailored for sophistication and comfort. Designed for evening banquets, parties, and formal gatherings, this versatile suit includes a sleek jacket, waistcoat, and trousers—perfect for men who appreciate style with a modern edge. Features Stylish Solid Design: Clean, solid color for a polished, minimalist look suitable for both business and formal events. Slim Fit Cut: Tailored to enhance your shape while maintaining all-day comfort and flexibility. Complete 3-Piece Set: Includes jacket, waistcoat, and trousers—ideal for mix-and-match wear or a coordinated formal look. Quality Fabric Blend: Made from a premium mix of cotton, polyester, viscose, and acetate, offering a balance of breathability, softness, and durability. Comfortable for Warm Weather: Lightweight knit construction makes it ideal for spring and summer wear. Elegant Detailing: Closure Type: Single-breasted Pant Closure: Zipper fly Front Style: Flat Lapel Style: Classic notch Versatile Use: Perfect for business meetings, weddings, dinner events, or special occasions. Specifications Material: Cotton Blend (Cotton, Polyester, Viscose, Acetate) Fit Type: Slim Style: Smart Casual / Business Formal Applicable Scene: Business, Banquet, Party Applicable Season: Spring & Summer Origin: Mainland China (Guangdong) Included Items: Jacket, Waistcoat, Pants Care: Dry clean recommended Bring modern refinement to your wardrobe with the M&T Wear Slim Fit 3-Piece Suit—crafted for men who dress with confidence and class.
-  Updated: 2026-03-14T11:37:52Z
+  Updated: 2026-03-22T01:14:52Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -19161,7 +19161,7 @@
     Availability: Available
     Price: €180.00 EUR
 - [M&T Wear - 100% Wool 3-Piece Tweed Suit for Men – Premium Tailored Herringbone Gray Formal Attire](https://www.mtwear.store/products/100-wool-3-piece-suit-for-men-high-quality-custom-suit-men-tweed-suit-vintage-wool-men-tweed-jacket-gray-woollen-herringbone): Step into timeless sophistication with the M&T Wear 100% Wool 3-Piece Tweed Suit, crafted for men who appreciate fine tailoring and British-inspired style. Made from pure wool in a rich dark gray herringbone pattern, this high-end suit delivers elegance, comfort, and warmth—perfect for autumn and winter weddings, business meetings, or any formal event. Features Luxury Wool Fabric: Made from 100% premium wool tweed, offering softness, durability, and excellent insulation. Complete 3-Piece Set: Includes a single-breasted jacket, matching vest, and slim-fit trousers for a refined, cohesive look. Tailor-Made Fit: Custom sizing available for a perfect fit—crafted to match your exact body measurements. Elegant Design Details: Color: Dark gray herringbone Lapel: Wide peak lapel for a bold, modern presence Buttons: Two-button closure Pockets: Flap-style pockets Back Slit: Side slits for comfort and movement Trousers: Double waistband seam for structure and durability Expert Craftsmanship: Advanced stitching techniques ensure a flawless finish and long-lasting wear. Care: Dry clean only Specifications Material: 100% Wool Fit Type: Slim Style: Vintage / Tweed / English Formal Applicable Scene: Casual, Business, or Wedding Applicable Season: Spring & Autumn Pant Closure Type: Zipper Fly Included Items: Jacket, Vest, Pants Customization: Available upon request Refined, traditional, and built for confidence—the M&T Wear Wool Tweed 3-Piece Suit brings timeless elegance and craftsmanship to every occasion.
-  Updated: 2026-03-14T11:38:14Z
+  Updated: 2026-03-22T01:15:14Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -19347,7 +19347,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S3663a03b1e8c44849512a6edc0da881bw.webp?v=1760002090
     Price: €400.00 EUR
 - [M&T Wear Men’s 3-Piece Jacquard Suit – High-End Wedding & Party Attire](https://www.mtwear.store/products/mens-three-piece-jacquard-suit-set-real-images-fully-lined-high-end-wedding-groom-wear-jacket-vest-pants-set-party-wear-for-men): Command attention with the M&T Wear Three-Piece Jacquard Suit, a masterpiece designed for men who want to make a lasting impression. Perfect for weddings, formal dinners, and exclusive events, this fully lined set delivers a balance of luxury, comfort, and craftsmanship that defines true elegance. Features Premium Jacquard Fabric: Woven with intricate texture and detail, giving the suit a luxurious sheen and depth. Complete 3-Piece Ensemble: Includes a single-breasted blazer, matching vest, and tailored trousers for a sophisticated head-to-toe look. Slim Fit Tailoring: Designed to highlight your natural shape while maintaining sleek, comfortable wear. High-End Construction: Fully lined for structure, durability, and a premium feel inside and out. Versatile Elegance: Ideal for weddings, parties, business receptions, or any event where presence matters. Quick Dispatch: Processed and shipped within 12–72 hours. Specifications Closure Type: Single breasted Pant Closure Type: Zipper fly Fit Type: Slim Clothing Length: Regular Material: Acetate, cotton, polyester blend Colors Available: Solid white or black Applicable Scene: Dress / Wedding / Party / Formal Applicable Season: Four seasons Available Sizes: XS – XXXL (Standard & Plus Sizes) The M&T Wear Jacquard 3-Piece Suit embodies class and confidence—crafted for grooms, gentlemen, and anyone who takes their style seriously.
-  Updated: 2026-03-14T11:38:22Z
+  Updated: 2026-03-22T01:15:22Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -19409,7 +19409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S5512535013cc4d72964e58452a736c90t.webp?v=1760002086
     Price: €120.00 EUR
 - [M&T Wear Men’s 3-Piece Solid Suit Set – Peak Lapel Single-Breasted Formal Ensemble](https://www.mtwear.store/products/mens-3-piece-solid-suit-set-peak-lapel-single-breasted-blazer-vest-pants-business-wedding-groom-attire-casual-formal): Step into refined sophistication with the M&T Wear 3-Piece Solid Suit, a sleek and versatile set that blends modern tailoring with timeless appeal. Featuring a peak lapel blazer, matching vest, and perfectly cut trousers, this suit ensures a confident presence at business meetings, weddings, and all formal occasions. Features Peak Lapel Elegance: Adds structure and authority to your look while maintaining a stylish, contemporary profile. Complete 3-Piece Set: Includes blazer, vest, and trousers for a polished appearance from every angle. Slim Fit Silhouette: Designed to complement your frame, offering a clean and tailored shape. Versatile Formality: Ideal for business events, weddings, or any setting where confidence and class matter. All-Season Comfort: Lightweight yet durable fabric, suitable for year-round wear. Impeccable Craftsmanship: Fine tatting weave for a smooth finish and long-lasting shape retention. Specifications Closure Type: Single breasted Pant Closure Type: Zipper fly Fit Type: Slim Clothing Length: Regular Material: Premium blended fabric Applicable Scene: Daily / Business / Wedding / Formal Applicable Season: Four seasons Available Sizes: XXS – 6XL For the man who values sophistication and precision, the M&T Wear Solid 3-Piece Suit delivers effortless confidence and timeless style in one refined package.
-  Updated: 2026-03-14T11:38:51Z
+  Updated: 2026-03-22T01:15:50Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -19615,7 +19615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8977782911fe49efbbf516688223844eZ.webp?v=1760032172
     Price: €139.99 EUR
 - [M&T Wear - Men’s 3-Piece Striped Suit – High-Quality Wedding & Formal Set](https://www.mtwear.store/products/three-piece-striped-suit-high-quality-wedding-art-one-breasted-jackets-trousers-vests-suit-for-men-suits-men-s-suits-3-piece): Refined, versatile, and tailored to perfection, the M&T Wear Three-Piece Striped Suit delivers a confident and sophisticated look for weddings, business meetings, or formal occasions. Its clean one-breasted design and subtle striped pattern strike the perfect balance between timeless elegance and modern style. Features Classic Striped Design: Adds dimension and visual depth for a polished, professional appearance. Three-Piece Perfection: Includes a one-breasted jacket, tailored vest, and matching trousers for a complete ensemble. High-Quality Fabric Blend: Crafted from premium polyester and viscose, offering durability, comfort, and a smooth texture. Slim & Modern Fit: Designed to flatter your frame while ensuring freedom of movement. All-Season Wear: Lightweight yet structured enough for year-round use—ideal for weddings, office wear, and formal gatherings. Expert Craftsmanship: Fine tatting weave ensures every stitch meets M&T Wear’s high standards of quality. Specifications Closure Type: Single breasted Material: Polyester & viscose blend Fit Type: Slim / Tailored Clothing Length: Regular Front Style: Flat Applicable Scene: Daily / Wedding / Business / Formal Applicable Season: Four seasons Available Sizes: XXS – 6XL Step out in unmistakable style with the M&T Wear Striped 3-Piece Suit—a mark of taste, confidence, and craftsmanship built for men who demand more than ordinary.
-  Updated: 2026-03-14T11:39:07Z
+  Updated: 2026-03-22T01:16:07Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -19720,7 +19720,7 @@
     Availability: Available
     Price: €129.99 EUR
 - [M&T Wear Men’s 3-Piece Slim Fit Formal Suit – Solid Color Business & Wedding Set](https://www.mtwear.store/products/3pcs-suit-men-slim-formal-suit-solid-color-vest-pants-set-3-piece-mens-suit-business-suit-costume-homme-костюм-мужской): Elevate your presence with the M&T Wear 3-Piece Formal Suit, a timeless ensemble designed for the modern gentleman. This slim-fit suit combines a sleek blazer, a refined vest, and perfectly tailored trousers, giving you a sharp and confident look whether you're heading to a business meeting, wedding, or formal dinner. Features Elegant 3-Piece Design: Includes a single-breasted blazer, matching vest, and trousers for a complete professional look. Solid Color Sophistication: A clean, minimal aesthetic perfect for business, weddings, or any formal setting. Slim Fit Silhouette: Accentuates your frame with a smart, modern profile. Comfortable All-Season Fabric: Crafted from a premium polyester and cotton-blend for durability, comfort, and flexibility. Refined Korean-Inspired Style: Turndown collar and single-button closure offer understated elegance. Versatile Functionality: Ideal for weddings, prom, business events, and evening functions. Specifications Closure Type: Single breasted Pant Closure: Button fly with zipper Fit Type: Slim Material: Polyester & cotton blend Clothing Length: Regular Applicable Scene: Business / Formal / Wedding Applicable Season: Autumn & Winter Sleeve Length: Long sleeve Collar Type: Turndown Available Sizes: M – 5XL Package Includes 1 × Blazer 1 × Vest 1 × Pants The M&T Wear Slim Fit 3-Piece Suit is designed for men who value polish and confidence—where style meets precision tailoring.
-  Updated: 2026-03-14T11:39:22Z
+  Updated: 2026-03-22T01:16:22Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -19838,7 +19838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Ha18fd3e07c7b45d6bcc5f9a46d7013773.webp?v=1760002088
     Price: €99.00 EUR
 - [M&T Wear -  Men’s 3-Piece Tuxedo Suit with Lace Lapel – Stylish Party & Dinner Set](https://www.mtwear.store/products/3-piece-suit-set-for-men-tuxedo-suits-with-lace-lapel-and-one-button-stylish-solid-party-dinner-jacket-vest-pants-sets): Redefine sophistication with the M&T Wear 3-Piece Tuxedo Suit, crafted for men who appreciate style that stands out. Featuring a lace-trimmed lapel and a sleek one-button jacket, this set delivers effortless elegance for parties, dinners, and formal occasions. Features Elegant Lace Lapel: Adds a refined, distinctive touch that elevates any formal look. Three-Piece Ensemble: Includes jacket, vest, and trousers for a complete polished outfit. One-Button Design: Minimalist and sharp—perfect for both contemporary and traditional events. Comfortable Cotton Fabric: Soft, breathable, and suitable for year-round wear. Modern Fit: Tailored to provide a flattering silhouette without sacrificing comfort. Specifications Closure Type: Single breasted Material: Premium cotton Clothing Length: Regular Style: Casual elegance / Party / Formal Applicable Scene: Daily wear, dinner events, celebrations Applicable Season: Four seasons Fit Type: Modern slim Available Sizes: S – 6XL Step into every event with confidence in the M&T Wear Tuxedo Suit—a seamless blend of classic charm and contemporary flair.
-  Updated: 2026-03-14T11:39:53Z
+  Updated: 2026-03-22T01:16:53Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20044,7 +20044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sce83f35f098149ecb292d0ebafe50b3ft.webp?v=1760002095
     Price: €125.00 EUR
 - [M&T Wear Men’s 3-Piece Herringbone Suit – Luxury 2025 Edition](https://www.mtwear.store/products/mens-three-piece-suit-herringbone-pattern-single-breasted-slim-fit-suits-for-men-suit-set-luxury-2025-costumes-man-formal-suits): Step into sophistication with the M&T Wear Men’s Three-Piece Herringbone Suit, tailored for elegance, precision, and modern appeal. Designed for weddings, formal gatherings, and high-end events, this slim-fit suit delivers a refined silhouette that speaks confidence and class. Features Premium Herringbone Design: Distinct textured pattern for a timeless and luxurious look. Three-Piece Set: Includes a single-breasted jacket, matching vest, and tailored trousers for complete styling. Slim Fit Precision: Designed to contour your frame while ensuring comfort and ease of movement. All-Season Wear: Made from a balanced blend of polyester and wool, offering breathability and durability throughout the year. Custom Options Available: Contact M&T Wear for tailored sizes and color variations. Specifications Closure Type: Single breasted Pant Closure Type: Button fly Fit Type: Slim Clothing Length: Regular Material: Polyester & wool blend Applicable Scene: Wedding / Formal / Business Available Sizes: M – 6XL Production Time: Tailor work completed within 2–3 working days The M&T Wear Herringbone Suit defines modern luxury—crafted for men who appreciate fine details and a commanding presence wherever they go.
-  Updated: 2026-03-14T11:40:37Z
+  Updated: 2026-03-22T01:17:38Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20250,7 +20250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S413c62a7b533430b99e20020857281c5y.webp?v=1760002093
     Price: €150.00 EUR
 - [M&T Wear - Men’s 3-Piece Check Plaid Suit – Classic One Button Design](https://www.mtwear.store/products/mens-suits-3-piece-check-plaid-suit-single-breasted-one-button-jackets-formal-dress-party-prom-casual-tuxedo-suits-for-wedding): Make an unforgettable impression at weddings, formal events, or parties with this timeless 3-piece check plaid suit. Tailored with precision, it features a single-breasted one-button jacket, a matching vest, and flat-front trousers—designed for comfort, style, and confidence in every setting. Features Elegant Check Pattern: Sophisticated plaid design adds depth and modern charm to your formal look. Versatile Wear: Perfect for weddings, business meetings, prom nights, and upscale casual events. Comfortable Fit: Straight-cut tailoring allows easy movement while maintaining a sharp silhouette. All-Season Fabric: Crafted from high-quality polyester for a smooth finish and year-round comfort. Attention to Detail: Fine tatting craftsmanship, regular-length jacket, and durable zipper fly. Specifications Closure Type: Single breasted, one button Material: Premium polyester Pant Closure: Zipper fly Fit Type: Straight Style: Formal / Wedding / Prom / Business Origin: Jiangsu, China Available Sizes: XXS – 5XL Whether you’re walking down the aisle or into a boardroom, this suit delivers a polished look that speaks for itself. Shown in the table are the size of clothing size, not the size of the body. "Size measured by ourselves, sometimes has some errors, but always within 1-3cm."
-  Updated: 2026-03-14T11:41:03Z
+  Updated: 2026-03-22T01:18:04Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20456,7 +20456,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S9bbbeb97a3334b99b10bd329901d4855q.webp?v=1760002095
     Price: €104.99 EUR
 - [M&T Wear - 2-Piece Men’s Formal Suit – Slim Fit Wedding & Business Tuxedo](https://www.mtwear.store/products/mens-suit-2-piece-suit-jacket-pants-formal-wedding-tuxedo-groom-clothes-custom-color-blazer-xs-5xl)
-  Updated: 2026-03-14T11:41:49Z
+  Updated: 2026-03-22T01:18:49Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20662,7 +20662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8c5357cf5de8411e9238dd28f18bb2377.webp?v=1760002094
     Price: €150.00 EUR
 - [M&T Wear - 3-Piece Men's Wedding & Business Suit – British Style Slim Fit Tuxedo](https://www.mtwear.store/products/3-piece-men-wedding-suit-prom-dress-jacket-pants-vest-business-men-suit-set-slim-fit-groom-tuxedo-male-blazer-british-style): Command attention wherever you go with the M&T Wear 3-Piece Men's Wedding Suit, a perfect balance of elegance and sophistication. Designed in a refined British style, this full set includes a blazer, vest, and trousers—crafted for a slim, tailored fit that delivers timeless confidence whether you’re walking down the aisle, attending a prom, or sealing a  in the boardroom. Key Features: Complete Set: Includes jacket, vest, and trousers for a polished, ready-to-wear ensemble. Elegant Craftsmanship: Double-breasted design and smooth texture for a premium, professional look. Slim Fit Perfection: Designed to contour your body comfortably without compromising style. All-Season Wear: Lightweight yet structured fabric ideal for year-round occasions. Versatile Style: Perfect for weddings, formal events, parties, and business gatherings. Stand tall, look sharp, and feel unstoppable with M&T Wear, where every stitch reflects class, confidence, and quality. The standard size chart only means finished suit size, not body measurements. Showcase The Model and Product
-  Updated: 2026-03-14T11:42:16Z
+  Updated: 2026-03-22T01:19:17Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20868,7 +20868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S0ebd2cc3a6cc488fab352f044b75eb0cg.webp?v=1760002094
     Price: €119.99 EUR
 - [M&T Wear - Customized able Elegant Men's 3-Piece Suit – Luxury Slim Fit with Shawl Lapel](https://www.mtwear.store/products/elegant-black-mens-3-piece-suits-luxury-one-button-shawl-lapel-slim-fit-blazer-high-quality-wedding-jacket-pants-vest-full-sets): Step into sophistication with M&T Wear’s Elegant Black 3-Piece Suit, tailored for men who command attention with effortless style. This luxury ensemble includes a one-button shawl lapel blazer, matching vest, and trousers—crafted for a sleek slim fit that enhances your modern silhouette. Perfect for weddings, formal events, and even high-stakes interviews, this suit defines confidence and class all year round. Key Features: Timeless Design: One-button shawl lapel blazer with a refined, modern edge. Premium Quality: Expertly woven for a smooth, high-quality finish and lasting comfort. Complete Set: Includes jacket, vest, and trousers—ready to wear straight from the box. All-Season Comfort: Lightweight, breathable material ideal for any climate. Tailored Fit: Designed for a sharp, flattering silhouette that moves with you. Style Tip: Pair this suit with a crisp white shirt and polished shoes to make an unforgettable impression at your next big event. Standard Suits size
-  Updated: 2026-03-14T11:42:22Z
+  Updated: 2026-03-22T01:19:22Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20910,35 +20910,35 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Se845406d951b434e8def977c97c86636r.webp?v=1760002093
     Price: €150.00 EUR
 - [M&T Wear – Anti-Wrinkle Balm | Firming, Moisturizing & Brightening Multi Balm Stick (3g)](https://www.mtwear.store/products/anti-wrinkle-balm-anti-aging-reduce-fine-lines-moisturize-firming-repair-roughness-nourishing-brighten-dull-wrinkle-remover-balm): Experience smooth, youthful skin with M&T Wear – Anti-Wrinkle Balm, your go-to multi balm stick designed to reduce fine lines, tighten skin, and restore deep hydration. This compact, easy-to-use balm nourishes and repairs dull or rough skin, leaving your complexion visibly smoother, firmer, and naturally radiant. 🌿 Key Benefits Reduces Fine Lines & Wrinkles: Targets visible signs of aging to reveal a smoother, firmer appearance. Intense Moisturization: Deeply hydrates dry areas and strengthens the skin barrier for lasting softness. Firms & Tightens: Improves skin elasticity and supports natural collagen production. Repairs Roughness & Dullness: Nourishes tired skin to bring back a youthful glow. Portable Multi Balm: Easy to carry and apply anytime—perfect for on-the-go hydration and touch-ups. 💧 How to Use Twist the balm stick and apply directly to clean skin on the face, neck, or other dry areas. Gently massage until absorbed. Use daily—morning and night—for best results. ⚙️ Specifications Brand: M&T Wear Item Type: Anti-Wrinkle Multi Balm Stick Net Weight: 3g Shelf Life: 3 Years Skin Type: All Skin Types Main Ingredients: Natural Plant Extracts Effects: Anti-Aging, Moisturizing, Firming, Brightening, Repairing Roughness ✨ M&T Wear – Anti-Wrinkle Balm gives your skin a quick boost of hydration and firmness anytime, anywhere—keeping you glowing and confident all day long.
-  Updated: 2026-03-14T11:42:22Z
+  Updated: 2026-03-22T01:19:22Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S8d11455a748346a7a6be33e80ffe0f90B.webp?v=1760171309
   Price: €29.99 EUR
 - [M&T Wear – Reverse Aging Face Serum | Wrinkle-Free, Skin Brightening & Firming Anti-Aging Formula (30ml)](https://www.mtwear.store/products/reverse-aging-wrinkles-free): Turn back the clock with M&T Wear – Reverse Aging Face Serum, a powerful rejuvenating formula designed to visibly reduce fine lines, wrinkles, and dark circles while restoring your skin’s youthful radiance. This advanced serum deeply penetrates the skin to lift, tighten, and brighten, giving you a smooth, firm, and refreshed look. 🌟 Key Benefits Instant Wrinkle Reduction: Effectively targets eye wrinkles, forehead lines, neck wrinkles, and nasolabial folds. Skin Brightening & Whitening: Promotes a naturally luminous complexion by fading dark spots and dullness. Deep Firming & Tightening: Strengthens skin structure and restores elasticity for a lifted appearance. Hydrating & Nourishing: Keeps skin moisturized and supple without any greasy residue. Gentle for All Skin Types: Safe, non-irritating, and free from parabens or harsh chemicals. 💧 How to Use Cleanse your face and pat dry. Apply a few drops of M&T Wear – Reverse Aging Serum evenly to your face and neck. Gently massage until fully absorbed. Use daily, morning and night, for best results. ⚙️ Specifications Brand: M&T Wear Item Type: Anti-Aging Face Serum Formulation: Oil-Based Serum Gender: Unisex Shelf Life: 24 Months (Unopened) Skin Type: All Skin Types Effect: Anti-Aging, Whitening, Firming, Freckle Removal Net Volume: 30ml (per bottle recommended) 🌸 Recommended Usage Mild Wrinkles: 3 bottles Moderate Wrinkles: 5 bottles Severe Wrinkles: 10 bottles Long-Term Deep Wrinkles: 22 bottles Bring your youthful glow back with M&T Wear – Reverse Aging Serum, the perfect blend of science and skincare that helps your skin stay firm, radiant, and wrinkle-free.
-  Updated: 2026-03-14T11:42:23Z
+  Updated: 2026-03-22T01:19:23Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S805b4a4daeb74306a44253f4fe365a7ah.webp?v=1760171309
   Price: €39.99 EUR
 - [M&T Wear – Retinol Anti-Wrinkle Face Cream | Firming, Lifting & Moisturizing Anti-Aging Cream with Hyaluronic Acid & Vitamin E (20g)](https://www.mtwear.store/products/anti-wrinkle-remover-face-cream-firming-lifting-fade-fine-whitening-moisturizing-facial-creams-brighten-tighten-skin-care): Reveal your skin’s natural glow with M&T Wear – Retinol Anti-Wrinkle Face Cream, a deeply nourishing formula that reduces fine lines, firms the skin, and enhances elasticity. Powered by a 2.5% Retinol Complex blended with Hyaluronic Acid, Vitamin E, and Green Tea, this cream works to smooth texture, brighten dull skin, and improve overall skin tone. 🌟 Key Benefits Reduces Wrinkles & Fine Lines: Retinol helps fade visible signs of aging and promotes smoother, youthful-looking skin. Firms & Tightens: Lifts sagging skin while restoring firmness and elasticity. Hydrates Deeply: Hyaluronic Acid locks in moisture for lasting softness and radiance. Brightens Dull Skin: Improves uneven tone and boosts your natural glow. Light & Non-Greasy Formula: Absorbs quickly, leaving the skin refreshed and silky smooth. 💧 How to Use Cleanse your face and pat dry. Apply a small amount evenly to your face and neck. Use morning and night for best results. ⚙️ Specifications Brand: M&T Wear Item Type: Anti-Wrinkle Cream Net Weight: 20g Main Ingredients: 2.5% Retinol, Hyaluronic Acid, Vitamin E, Green Tea Skin Type: All Skin Types Gender: Unisex Effect: Firming, Lifting, Moisturizing, Whitening, Brightening Shelf Life: 3 Years (12 Months after Opening) 🌸 Package Includes 1 × M&T Wear – Retinol Anti-Wrinkle Face Cream (20g) Transform your daily skincare routine with M&T Wear’s Retinol Anti-Wrinkle Face Cream — a perfect balance of hydration, lifting, and rejuvenation for a visibly younger, brighter complexion
-  Updated: 2026-03-14T11:42:24Z
+  Updated: 2026-03-22T01:19:25Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S663963d2cb4c4e5aa7656f302d27f132M.webp?v=1760171309
   Price: €25.00 EUR
 - [M&T Wear – Anti-Wrinkle Face Cream | Firming, Lifting & Moisturizing Anti-Aging Formula for Face and Neck (50g)](https://www.mtwear.store/products/anti-wrinkle-face-cream-remove-facial-fine-lines-neck-wrinkles-firming-whitening-moisturizing-brightening-anti-aging-cream-new): Turn back time with M&T Wear – Anti-Wrinkle Face Cream, a rejuvenating formula designed to reduce fine lines, smooth wrinkles, and firm sagging skin on your face and neck. Infused with brightening and hydrating ingredients, it helps restore elasticity, even skin tone, and promote a youthful glow with every use. ✨ Key Benefits Reduces Fine Lines & Wrinkles: Targets visible signs of aging, smoothing skin texture and boosting firmness. Firms & Lifts: Helps tighten facial and neck skin, improving definition and elasticity. Deep Moisturization: Hydrates dry or mature skin, leaving it supple, plump, and refreshed. Brightens & Evens Skin Tone: Enhances skin radiance while diminishing dullness. Lightweight & Non-Greasy: Absorbs quickly without clogging pores — perfect for all skin types. 💧 How to Use Cleanse and pat dry your face and neck. Apply a small amount of cream and gently massage in circular motions until fully absorbed. Use morning and night for best results. ⚙️ Specifications Brand: M&T Wear Item Type: Anti-Wrinkle Cream Net Weight: 50g Skin Type: All Skin Types Gender: Female Feature: Firming, Moisturizing, Whitening, Anti-Aging Shelf Life: 3 Years
-  Updated: 2026-03-14T11:42:26Z
+  Updated: 2026-03-22T01:19:26Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sfd59d8b88c4b449e8b1f17a80fbedf2cK.webp?v=1760171310
   Price: €30.00 EUR
 - [M&T Wear – 3 Days to Look 20 Years Younger Eye Cream | Anti-Aging, Dark Circle & Puffiness Repair Formula](https://www.mtwear.store/products/3-days-to-make-you-20-years-younger): Discover the M&T Wear – 3 Days to Look 20 Years Younger Eye Cream, a revolutionary formula designed to rejuvenate tired eyes and restore youthful radiance in just a few days. This advanced eye cream deeply nourishes delicate skin, reducing puffiness, smoothing fine lines, and fading dark circles for a visibly refreshed and lifted look. ✨ Key Benefits Instant Youthful Lift: Noticeably smoother and firmer eye skin within 3 days. Reduces Puffiness & Dark Circles: Targets under-eye bags and pigmentation for a bright, rested appearance. Deep Hydration: Keeps the under-eye area moisturized, plump, and radiant all day. Anti-Aging Power: Smooths fine lines and wrinkles, restoring elasticity and vitality. Gentle & Effective: Safe for all skin types with a lightweight, non-greasy texture. 💧 How to Use After cleansing, apply a small amount around the eyes. Gently massage with your fingertips until absorbed. Use morning and night for best results. ⚙️ Specifications Brand: M&T Wear Type: Eye Cream Net Content: 15–30ml Gender: Unisex Skin Type: All Skin Types Feature: Anti-Aging, Anti-Puffiness, Moisturizing, Dark Circle Reduction Shelf Life: 3 Years 🌸 Package Includes 1 × M&T Wear – 3 Days to Look 20 Years Younger Eye Cream Say goodbye to tired eyes and hello to a brighter, younger-looking you — only with M&T Wear.
-  Updated: 2026-03-14T11:42:28Z
+  Updated: 2026-03-22T01:19:28Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20959,7 +20959,7 @@
     Availability: Available
     Price: €300.00 EUR
 - [M&T Wear - Collagen Peptide Anti-Aging Serum for Face | Brightening, Wrinkle Reduction & Skin Repair](https://www.mtwear.store/products/collagen-peptide-anti-aging-collagen-serum-for-face-skin-brightening-reduces-fine-lines-wrinkles-heals-and-repairs-skin): Experience the power of youth-restoring skincare with M&T Wear - Collagen Peptide Anti-Aging Serum, expertly formulated to reduce fine lines, firm the skin, and restore your natural glow. This advanced serum penetrates deep into your skin to boost collagen production, providing long-lasting hydration and visibly smoother, more radiant skin. 🌿 Key Benefits Reduces Wrinkles & Fine Lines: Enhances collagen synthesis to visibly minimize wrinkles and improve elasticity. Deep Hydration: Provides up to 48 hours of moisture without clogging pores, keeping your skin plump and dewy. Brightens & Evens Skin Tone: Targets dark spots and dullness for a naturally glowing complexion. Soothes & Repairs: Calms irritated skin while accelerating the repair process for a healthier barrier. Lightweight & Non-Greasy: Absorbs quickly, leaving your skin soft, smooth, and refreshed. 💧 Powerful Ingredients Infused with Collagen Peptides, Hyaluronic Acid, Vitamin E, and Natural Essential Oils, this serum works synergistically to firm, hydrate, and rejuvenate the skin from within. 🧴 How to Use Apply 2–3 drops onto clean, dry skin. Gently massage in circular motions until fully absorbed. Use morning and night before applying your moisturizer. ⚙️ Specifications Brand: M&T Wear Type: Collagen Serum Formulation: Oil-Based Net Content: 30ml Skin Type: All Skin Types (including sensitive) Effect: Anti-Aging, Moisturizing, Brightening, Freckle Removal, Pigmentation Correction Shelf Life: 36 Months Gender: Unisex
-  Updated: 2026-03-14T11:42:31Z
+  Updated: 2026-03-22T01:19:31Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20977,7 +20977,7 @@
     Availability: Available
     Price: €25.00 EUR
 - [M&T Wear - Anti-Wrinkle Firming & Lifting Cream for Face and Neck](https://www.mtwear.store/products/anti-wrinkles-cream-firming-lifting-face-neck-anti-aging-remove-fine-lines-night-day-moisturizing-whitening-skin-care): Reclaim youthful, radiant skin with M&T Wear - Anti-Wrinkle Firming & Lifting Cream, a deeply nourishing formula that targets fine lines, sagging skin, and uneven tone. Designed for both day and night use, this luxurious cream works to tighten, lift, and moisturize your skin, restoring firmness and elasticity for a smoother, more luminous look. Key Benefits: Firms & Lifts: Tightens sagging skin around the face and neck for a sculpted appearance Reduces Wrinkles: Smooths fine lines and revitalizes aging skin with powerful anti-aging ingredients Deep Hydration: Infused with hyaluronic acid and vitamin E to replenish moisture and softness Brightens & Evens Tone: Helps reduce dark spots and discoloration for a more radiant complexion Gentle for All Skin Types: Non-irritating and suitable for daily use on all skin types Ingredients:Water, Carbomer, Propylene Glycol, Silica Nanoparticles, Polypeptide, Vitamin E, Hyaluronic Acid, Collagen, MIT, Phenoxyethanol Specifications: Brand: M&T Wear Type: Face & Neck Cream Net Content: 5g / 15g / 30g / 50g Skin Type: All Skin Types Effect: Anti-Aging, Moisturizing, Firming, Whitening, Oil Control, Freckle Removal Shelf Life: 3 Years Gender: Unisex How to Use: Cleanse your face and neck thoroughly. Apply an appropriate amount of cream to your face and neck. Massage gently in upward circular motions until fully absorbed. Use both morning and night for best results. Package Includes: 1 × M&T Wear - Anti-Wrinkle Firming & Lifting Cream Rediscover your skin’s natural firmness and glow with M&T Wear, where advanced skincare meets timeless beauty.
-  Updated: 2026-03-14T11:42:33Z
+  Updated: 2026-03-22T01:19:33Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -20999,7 +20999,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc79b108ddb7a41489fd5a4d1b83aae89U.webp?v=1760171311
     Price: €19.99 EUR
 - [M&T Wear - 24ml Hydrating Gel-Based Face Primer](https://www.mtwear.store/products/24ml-primer-gel-based-hydrating-face-primer-for-smoothing-skin-pore-colorless-primes-long-lasting-hydrating-wear-cosmetics): Experience smooth, hydrated, and flawless skin with M&T Wear - 24ml Hydrating Gel-Based Face Primer. This lightweight, gel-textured primer preps your skin perfectly for makeup by minimizing pores, evening skin tone, and gripping your foundation for long-lasting wear. Key Benefits: Hydrating & Nourishing: Moisturizes your skin for a healthy, radiant glow Smooth Finish: Blurs pores and fine lines for a flawless base Long-Lasting Grip: Ensures your makeup stays in place all day Colorless & Lightweight: Invisible on the skin, suitable for all tones Gentle on All Skin Types: Safe and effective for daily use Specifications: Brand: M&T Wear Net Content: 24ml Formulation: Gel Type: Makeup Primer Skin Type: All Skin Types Shelf Life: 3 Years Weight: 50g How to Use: Apply a small amount to clean, moisturized skin before makeup. Blend evenly over your face. Wait 30 seconds for it to set before applying foundation. Package Includes: 1 × M&T Wear - 24ml Hydrating Gel-Based Face Primer Create a smooth, poreless, and long-lasting makeup base with M&T Wear’s Hydrating Gel Primer — your secret to fresh and flawless beauty all day long.
-  Updated: 2026-03-14T11:42:35Z
+  Updated: 2026-03-22T01:19:35Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -21013,7 +21013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/S9824d86c403541bfaa3e83518ee53f601.webp?v=1760171313
     Price: €21.00 EUR
 - [M&T Wear - 45ml Facial Base Makeup Primer](https://www.mtwear.store/products/primer-facial-base-makeup-restores-flawless-invisible-pores-smoothing-fine-line-makeup): Achieve a flawless, smooth, and radiant makeup base with M&T Wear - 45ml Facial Base Makeup Primer. This gel-based primer hydrates the skin, minimizes the appearance of pores, and smooths fine lines, creating the perfect canvas for long-lasting makeup. Its lightweight, oil-controlling formula ensures a fresh, natural finish all day. Key Benefits: Invisible Pores & Smooth Skin: Reduces the appearance of pores and fine lines for a flawless look Hydrating & Nourishing: Keeps skin soft, supple, and comfortable Oil-Control: Maintains a matte finish and prevents shine throughout the day Sun Protection: Includes sunblock to help protect skin during makeup wear Lightweight & Easy to Apply: Gel formula spreads evenly without heaviness Specifications: Net Weight: 45ml / 1.52 fl.oz Formulation: Gel Type: Makeup Primer Skin Type: All Skin Types Shelf Life: 36 months Sun Protection: Yes Weight: 46g Usage Instructions: Apply evenly to clean, moisturized skin before makeup Focus on areas with visible pores or fine lines Follow with foundation or other makeup products for a smooth, long-lasting finish Package Includes: 1 Bottle of M&T Wear - Facial Base Makeup Primer Create a smooth, hydrated, and pore-free base with M&T Wear - Facial Base Makeup Primer, the essential primer for a flawless and radiant makeup finish.
-  Updated: 2026-03-14T11:42:36Z
+  Updated: 2026-03-22T01:19:36Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
@@ -21027,7 +21027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/3160/1797/files/Sc5954ce32dd1400d81b3f13dbba4671b6.webp?v=1760171312
     Price: €25.00 EUR
 - [M&T Wear - Gel-Based Hydrating Face Primer](https://www.mtwear.store/products/primer-makeup-gel-based-hydrating-face-for-smoothing-skin-gripping-moisturizer-refreshing-texture-deep-hydration): Achieve smooth, flawless, and long-lasting makeup with M&T Wear - Gel-Based Hydrating Face Primer. This lightweight, refreshing gel primer hydrates and nourishes your skin while creating a perfect base for makeup. Its moisturizing and smoothing properties help even out skin tone, reduce the appearance of fine lines, and enhance makeup adherence for a natural, polished look. Key Benefits: Lightweight & Refreshing: Gel texture spreads easily without weighing down the skin Hydrating & Nourishing: Keeps skin soft, moisturized, and supple Long-Lasting Makeup: Controls oil and helps makeup stay fresh throughout the day Even Skin Tone: Smooths fine lines, blemishes, and uneven texture for a flawless base Improved Makeup Texture: Makes foundation and other makeup adhere better and appear more natural Specifications: Net Content: 1 Unit Formulation: Gel-Based Primer Size: 13 x 4 x 3cm Shelf Life: 3 years Gender: Unisex Usage Instructions: Apply a small amount to clean, moisturized skin Smooth evenly over face, focusing on areas where makeup tends to fade or skin tone needs evening Follow with foundation or your preferred makeup products Package Includes: 1 Bottle of M&T Wear - Gel-Based Hydrating Face Primer Create a smooth, hydrated, and long-lasting makeup base with M&T Wear - Gel-Based Hydrating Face Primer, perfect for enhancing your makeup’s adherence and finish
-  Updated: 2026-03-14T11:42:39Z
+  Updated: 2026-03-22T01:19:39Z
   Vendor: M&T Wear
   Product Type: 
   Availability: Available
