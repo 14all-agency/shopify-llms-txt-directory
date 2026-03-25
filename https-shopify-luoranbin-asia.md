@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-04T09:49:06Z
 - Contact Email: tech@35zh.cn
-- Updated At: 2026-03-17T08:50:23.563Z
+- Updated At: 2026-03-25T00:00:34.104Z
 
 ## Optional
 
@@ -1584,7 +1584,7 @@
 
 - [新闻](https://shopify.luoranbin.asia/blogs/新闻)
   - [123123](https://shopify.luoranbin.asia/blogs/新闻/123123)
-    Updated: 2026-03-17T08:49:59Z
+    Updated: 2026-03-20T07:29:33Z
     Author: ChengYuanMing
 
 ## Store Pages
