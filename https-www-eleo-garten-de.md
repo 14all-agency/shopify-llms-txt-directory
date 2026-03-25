@@ -6,13 +6,13 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2026-03-18T12:00:28.344Z
+- Updated At: 2026-03-25T12:00:29.785Z
 
 ## Products
 
 - [Metallherzen » Gartendekoration online kaufen | ELEO Garten](https://www.eleo-garten.de/products/dekoset-metallherz-vercelli-biella): Metallherzen-Set "Biella" und "Vercelli" aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-17T21:41:26Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:53Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Biella_Vercelli_unbeschichtet-01.png?v=1756703951
@@ -45,8 +45,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Biella_Vercelli_schokobraun.png?v=1763034906
     Price: 46,40 € EUR
 - [Metallsterne » Gartendekoration online kaufen | ELEO Garten](https://www.eleo-garten.de/products/metallsterne-set-novara): Metallsterne-Set "Novara" aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-19T15:16:48Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:52Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-Set_unbeschichtet.gif?v=1756703950
@@ -79,8 +79,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-Set_schokobraun.png?v=1763034815
     Price: 77,76 € EUR
 - [Metall Herz "Biella" » hochwertige Gartendeko | ELEO Garten](https://www.eleo-garten.de/products/metallherz-biella): schlichtes Metallherz "Biella": ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:41Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:47Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Biella_unbeschichtet.png?v=1756703948
@@ -110,8 +110,8 @@
     Availability: Available
     Price: 30,40 € EUR
 - [Gartendekoration » geschwungenes Herz kaufen | ELEO Garten](https://www.eleo-garten.de/products/metallherz-vercelli): geschwungenes Metallherz "Vercelli": ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-06T08:28:25Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:47Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Vercelli_unbeschichtet.png?v=1756703946
@@ -144,8 +144,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Vercelli_schokobraun.png?v=1763034876
     Price: 24,00 € EUR
 - [Metallstern, 35 cm » verschiedene Farben | ELEO Garten](https://www.eleo-garten.de/products/metallstern-novara-klein): Kleiner Metallstern "Novara" als Deko für Ihren Garten: ✓ rostig, silber oder anthrazit ✓ besonders dekorativ auch im Innenbereich ➤ Jetzt bestellen!
-  Updated: 2026-03-16T08:28:16Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:41Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-klein_unbeschichtet.png?v=1756703944
@@ -178,8 +178,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-klein_schokobraun.png?v=1763034750
     Price: 30,40 € EUR
 - [Hochwertiges Sternen-Dekoset online kaufen | ELEO Garten](https://www.eleo-garten.de/products/stern-set-tissano-novara): 3-teiliges Sternen: Gartenstecker Metall Tissano & Novara Set mit kleinem und großem Stern. Aus Schmiedeeisen: ✓ stabil ✓ dekorativ ➤ Direkt hier bestellen!
-  Updated: 2026-02-19T15:19:22Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:39Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-Set_Tissano_unbeschichtet_bg.png?v=1756703942
@@ -212,8 +212,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-Set_Tissano_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034793
     Price: 104,00 € EUR
 - [Hochbeet "Monterosso" aus Cortenstahl kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-monterosso-cortenstahl): Hochbeet "Monterosso" aus Schmiedeeisen: ✓ verschiedene Größen ✓ hochwertig ✓ stabil ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-02-12T09:08:36Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T19:43:09Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_14_Raised_Beds-Variants_14b_4__Eck_Baustein_II___2x_Zwinchen_Baustein_II.png?v=1756703940
@@ -238,8 +238,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_14_Raised_Beds-Variants_14e_4__Eck_Baustein_II___6x_Zwinchen_Baustein_II.png?v=1764064109
     Price: 559,00 € EUR
 - [Hochbeet aus Metall kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-monterosso-metall): Hochbeet "Monterosso" aus Schmiedeeisen: ✓ verschiedenste Größen ✓ hochwertig ✓ stabil ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-03-15T16:14:54Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T15:28:26Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Monterosso_450x900_pulverbeschichtet-anthrazit.png?v=1761032490
@@ -284,8 +284,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Monterosso_900x1350_feuerverzinkt.png?v=1761228637
     Price: 405,00 € EUR
 - [Cortenstahl Hochbeet online kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-manarola-cortenstahl): Hochbeet "Manarola" aus Cortenstahl: ✓ verschiedene Größen ✓ Sichtschutz ✓ langlebig ✓ stabil ➤ Hier direkt bestellen!
-  Updated: 2026-02-12T09:08:34Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:33Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_15_planter_variants_Kvetinovy_kbelik_400x1360x1000.png?v=1756703936
@@ -298,8 +298,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_15_planter_variants_Kvetinovy_kbelik_400x1360x1000.png?v=1756703936
     Price: 669,00 € EUR
 - [Modernes Hochbeet aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-manarola-metall): Hochbeet "Manarola": ✓ Sichtschutz ✓ hochwertig ✓ pulverbeschichtet oder feuerverzinkt ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:33Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:32Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Manerola_400x1360_pulverbeschichtet-anthrazit.png?v=1756703934
@@ -320,8 +320,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Manerola_400x1360_feuerverzinkt.png?v=1763034672
     Price: 485,00 € EUR
 - [Größenvariablen Pflanzkübel "Vernazza" kaufen | ELEO Garten](https://www.eleo-garten.de/products/pflanzkuebel-vernazza-cortenstahl): Niedriger Pflanzkübel aus Schmiedeeisen: ✓ größenvariabel ✓ hochwertig ✓ stabil ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-03-17T21:12:16Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:31Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_15_planter_variants_15a_4x_Eck_Baustein_II.png?v=1756703933
@@ -346,8 +346,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_15_planter_variants_15e_4x_Eck_Baustein_II___4x_Zwischen_Baustein_I.png?v=1756703933
     Price: 459,00 € EUR
 - [Pflanzkübel "Vernazza" kaufen | ELEO Garten](https://www.eleo-garten.de/products/pflanzkuebel-vernazza-metall): Niedriger Pflanzkübel aus Schmiedeeisen: ✓ verschiedene Größen ✓ hochwertig ✓ feuerverzinkt oder pulverbeschichtet ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-03-14T15:49:20Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:28Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Vernazza_400x400_puvlerbeschichtet-anthrazit.png?v=1756703930
@@ -392,8 +392,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Vernazza_800x1200_feuerverzinkt.png?v=1763034706
     Price: 335,00 € EUR
 - [Hochwertige Pflanzstütze "Arezzo" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/pflanzenstuetze-arezzo): Pflegeleichte Pflanzstütze "Arezzo": ✓ Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-15T09:58:24Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:34Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Arezzo_unbeschichtet.png?v=1756703927
@@ -426,8 +426,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_d1820564-4f69-4c13-a27f-87d82118c2dc.png?v=1763043459
     Price: 94,40 € EUR
 - [Pflanzenstütze "Grosetto" aus Metall online kaufen | ELEO](https://www.eleo-garten.de/products/pflanzenstuetze-grosetto): Pflegeleichte Pflanzenstütze "Grosetto": ✓ Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-10T06:25:45Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:20Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Grosetto_unbeschichtet.png?v=1756703924
@@ -460,8 +460,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_32b4cc24-985e-4616-b259-2927fc4e716f.png?v=1761229755
     Price: 142,40 € EUR
 - [Hochwertige Rankstäbe im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/gartensteckerset-metall-tissano): Rankstab 2er-Set  "Tissano" mit dekorativem Stern: ✓ aus Schmiedeeisen ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:24Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:12Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Tissano_unbeschichtet_bg.png?v=1756703916
@@ -494,8 +494,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Tissano_pulverbeschichtet-schokobraun_RAL8017.png?v=1756703917
     Price: 78,40 € EUR
 - [Beliebte Gartenstecker aus Metall im Set online kaufen | ELEO](https://www.eleo-garten.de/products/gartensteckerset-metall-tissano-treviso): Set von Gartensteckern aus Metall als Rankhilfe ➤ zwei verschiedene Modelle ✓ mit Herz und Stern ✓ verschiedene Farben ➤ Hier entdecken!
-  Updated: 2026-02-12T09:08:22Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:03Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RankstabTissanoTrevisounbeschichtet_bg.png?v=1756703913
@@ -528,8 +528,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Tissano_Treviso_pulverbeschichtet-schokobraun_RAL8017.png?v=1762343015
     Price: 78,40 € EUR
 - [Dekorative Gartenstecker aus Metall im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/gartensteckerset-metall-tissano-vicenza): Metall Gartenstecker 2er-Set "Tissano" und "Vicenza" aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ stilvoll ✓ und witterungsbeständig  ➤ Jetzt hier bestellen!
-  Updated: 2026-02-12T09:08:21Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:07Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Tissano_Vicenza_unbeschichtet_bg.png?v=1756703912
@@ -562,8 +562,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Tissano_Vicenza_pulverbeschichtet-schokobraun_RAL8017.png?v=1762343053
     Price: 78,40 € EUR
 - [Gartensteckerset aus hochwertigem Metall | ELEO Garten](https://www.eleo-garten.de/products/gartensteckerset-metall-tissano-treviso-vicenza): Gartenstecker Metall 3er-Set "Tissano", "Vicenza" & "Treviso" aus Schmiedeeisen: ✓ formstabil ✓ stilvoll ✓ langlebig ➤ Jetzt Ihr Unikat bestellen!
-  Updated: 2026-02-12T09:08:20Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:07Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Tissano_Treviso_Vicenza_unbeschichtet_bg.png?v=1756703910
@@ -596,8 +596,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Tissano_Treviso_Vicenza_pulverbeschichtet-schokobraun_RAL8017.png?v=1756703911
     Price: 110,40 € EUR
 - [Gartenstecker mit Herz im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/gartensteckerset-metall-treviso): Metall Gartenstecker "Treviso" im Set mit filigranem Herz: ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ witterungsbeständig ✓ dekorativ ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:18Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:58Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Treviso_unbeschichtet_bg.png?v=1756703908
@@ -630,8 +630,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Treviso_pulverbeschichtet-schokobraun_RAL8017.png?v=1762342716
     Price: 78,40 € EUR
 - [Gartenstecker aus Eisen im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/gartensteckerset-metall-treviso-vicenza): Set aus Metall Gartensteckern „Treviso“ und „Vicenza“ ✓ mit Herz und Spindel ✓ aus modernem Schmiedeeisen ✓ in verschiedenen Farben ►Hier bestellen!
-  Updated: 2026-02-12T09:08:17Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:56Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset-T_V_unbeschichtet.png?v=1756703906
@@ -664,8 +664,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset-T_V_schokobraun.png?v=1762342921
     Price: 78,40 € EUR
 - [Gartenstecker aus Metall im Set » mit Spindel | ELEO Garten](https://www.eleo-garten.de/products/gartensteckerset-metall-vicenza): Metall Gartenstecker 2er-Set "Vicenza" mit edler Spindel: ✓ aus robustem Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang im Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-27T13:18:06Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:56:09Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Vicenza_unbeschichtet_bg.png?v=1756703904
@@ -698,8 +698,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Rankstabset_Vicenza_pulverbeschichtet-schokobraun_RAL8017.png?v=1762342660
     Price: 78,40 € EUR
 - [Hochwertiges Rankgitter "Bari" kaufen | ELEO Garten](https://www.eleo-garten.de/products/rankgitter-bari): Hochwertiges Rankgitter "Bari": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:14Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:59Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Bari_unbeschichtet.png?v=1756703902
@@ -732,8 +732,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL8017_Schokobraun_f8649f0b-78da-4122-bf24-d4e060123c18.png?v=1763043042
     Price: 94,40 € EUR
 - [Hochwertiges Rankgitter "Brindisi" kaufen | ELEO Garten](https://www.eleo-garten.de/products/rankgitter-brindisi): Hochwertiges Rankgitter "Brindisi": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-07T21:28:16Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:54Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Brindisi_unbeschichtet.png?v=1756703900
@@ -766,8 +766,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL8017_Schokobraun_8e1bc406-df74-4f81-a862-aceed205866f.png?v=1762345946
     Price: 158,40 € EUR
 - [Rankgitter Tarent 100 x 170 cm kaufen | ELEO Garten](https://www.eleo-garten.de/products/rankgitter-tarent-gross): Großes Rankgitter Tarent | Maße: 100 x 170 cm | breites Rankgitter zur Wandmontage | aus stabilem Schmiedeeisen ➤ Hier bestellen!
-  Updated: 2026-03-14T13:41:18Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:52Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Tarent-gross_unbeschichtet.png?v=1756703898
@@ -800,8 +800,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_cfea4b22-82d6-4b09-b4df-a959acb8193f.png?v=1763042999
     Price: 254,40 € EUR
 - [Rankgitter Tarent 50 x 170 cm kaufen | ELEO Garten](https://www.eleo-garten.de/products/rankgitter-tarent-klein): Kleines Rankgitter Tarent | Maße: 50 x 170 cm | schmales Rankgitter zur Wandmontage | verschiedene Beschichtungen ➤ Hier bestellen!
-  Updated: 2026-03-14T13:41:18Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:51Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Tarent-klein_unbeschichtet.png?v=1756703896
@@ -834,8 +834,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_ae140dd6-4fb9-4995-a0be-915af3bc5629.png?v=1763042960
     Price: 94,40 € EUR
 - [Hochwertiges Wandgitter "Edera" kaufen | ELEO Garten](https://www.eleo-garten.de/products/wandgitter-edera): Hochwertiges Wandgitter "Edera": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-10T11:02:06Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:57Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Wandgitter-Edera_unbeschichtet.png?v=1756703894
@@ -868,8 +868,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_33629996-fc62-4a75-923c-6b7ff01a6122.png?v=1763043143
     Price: 206,40 € EUR
 - [Obelisk "Catania groß" für Rankpflanzen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-catania-gross): Hochwertiger Obelisk "Catania groß": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-15T14:51:38Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:47Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Catania-gross_unbeschichtet.png?v=1756703892
@@ -902,8 +902,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_02631b96-c1ec-4af8-b7d8-fbe37f5bf2ee.png?v=1763043396
     Price: 222,40 € EUR
 - [Obelisk "Catania klein" aus hochwertigem Metall | ELEO Garten](https://www.eleo-garten.de/products/obelisk-catania-klein): Hochwertiger Obelisk "Catania klein": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:08:05Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:49Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Catania-klein_unbeschichtet.png?v=1756703889
@@ -936,8 +936,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokbraun.png?v=1762347016
     Price: 184,00 € EUR
 - [Hochwertigen Obelisk "Enna" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-enna): Hochwertiger Obelisk "Enna": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-12T15:44:40Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:44Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Enna_unbeschichtet.png?v=1756703887
@@ -970,8 +970,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_689358f9-4068-4eef-b936-51c91d7362db.png?v=1762346988
     Price: 206,40 € EUR
 - [Obelisk aus Metall "Messina groß" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-messina-gross): Hochwertiger Obelisk "Messina groß": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-08T11:19:56Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:43Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rankobelisk-messina-gross-unbeschichtet_d6e48c4f-46cd-4ab9-bc6c-af6efa7b9c5d.png?v=1756703885
@@ -1004,8 +1004,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_f34c1ee3-2cb2-4918-b908-e510c213e8f1.png?v=1761229221
     Price: 222,40 € EUR
 - [Obelisk aus Metall "Messina klein" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-messina-klein): Hochwertiger Obelisk "Messina klein": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-22T16:41:01Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:43Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Messina-klein_unbeschichtet.png?v=1756703883
@@ -1038,8 +1038,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_8e48d89a-af8f-46ca-921f-81f1d4a83c56.png?v=1761229197
     Price: 184,00 € EUR
 - [Metall Obeliskenset "Catania" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obeliskenset-catania): Hochwertiges Obeliskenset "Catania": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-01T10:29:37Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:37Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Catania-Set_unbeschichtet.png?v=1756703881
@@ -1072,8 +1072,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Catania-Set_schokobraun.png?v=1761229177
     Price: 366,40 € EUR
 - [Obeliskenset "Messina" aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-messina-set): Hochwertiges Obeliskenset "Messina": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:07:59Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:34Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Messina-Set_unbeschichtet_320f8db7-81f2-4251-8805-735f193f5b82.png?v=1756703879
@@ -1106,8 +1106,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Messina-Set_schokobraun.png?v=1763043335
     Price: 366,40 € EUR
 - [Bank für Rosenbogen „Calabria“ online kaufen | ELEO Garten](https://www.eleo-garten.de/products/bank-calabria): Sitzbank aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht & langlebig ✓ für Rosenbogen „Calabria“ ► Jetzt bestellen!
-  Updated: 2026-02-12T09:07:57Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:33Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria_Bank_gerade_unbeschichtet.png?v=1756703877
@@ -1140,8 +1140,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria_Bank_gerade_pulverbeschichtet-schokobraun_RAL8017.png?v=1756703878
     Price: 286,40 € EUR
 - [Hochwertigen Rosenbogen "Calabria" hier kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-calabria): Rosenbogen aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ verschiedene Beschichtungen ➤ Jetzt ansehen!
-  Updated: 2026-03-18T10:37:07Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:31Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria_unbeschichtet_Schrauben.png?v=1759308111
@@ -1174,8 +1174,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_b7e9c17e-6c21-4cfa-8be9-39a652ccaddc.png?v=1761228088
     Price: 1.278,40 € EUR
 - [Rosenbogen mit Bank direkt online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-calabria-mit-bank): Rosenbogen aus Schmiedeeisen: ✓ stabil ✓ hochwertig ✓ langlebig ✓ direkt  vom Hersteller ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:07:54Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:37Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-1-Bank_unbeschichtet.png?v=1756703872
@@ -1208,8 +1208,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-1-Bank_pulverbeschichtet-schokobraun_RAL8017.png?v=1761228065
     Price: 1.438,40 € EUR
 - [Hochwertigen Rosenbogen im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-calabria-mit-bank-und-rueckwand): Rosenbogen "Calabria" mit Bank und Rückwand aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ romantisch ✓ pflegeleicht ➤ Jetzt bestellen!
-  Updated: 2026-02-18T08:40:08Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:33Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-mit-Ruckwand_1Bank_unbeschichtet.png?v=1756703869
@@ -1242,8 +1242,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-mit-Ruckwand_1Bank_pulverbeschichtet-schokobraun_RAL8017.png?v=1761228044
     Price: 1.838,40 € EUR
 - [Dekorativer Rosenbogen im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-calabria-mit-rueckwand): Rosenbogen "Calabria" mit Rückwand: ✓ dekorativ ✓ pflegeleicht ✓ langlebig ✓ verschiedene Designs ➤ Jetzt bestellen!
-  Updated: 2026-02-18T08:40:09Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:32Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-mit-Ruckwand_unbeschichtet.png?v=1756703867
@@ -1276,8 +1276,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-mit-Ruckwand_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034600
     Price: 1.598,40 € EUR
 - [Rosenbogen "Calabria" mit Tür online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-calabria-mit-tuer): Rosenbogen "Calabria" mit passender Tür: ✓ dekorativ ✓ pflegeleicht ✓ langlebig ✓ außergewöhnlicher Blickfang in Ihrem Garten ➤ Hier ansehen!
-  Updated: 2026-02-12T09:07:50Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:25Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-mit-Tur_unbeschichtet.png?v=1756703864
@@ -1310,8 +1310,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-mit-Tur_pulverbeschichtet-schokobraun_RAL8017.png?v=1761227935
     Price: 1.518,40 € EUR
 - [Rosenbogen Schmiedeeisen online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-cosenza): Geschmiedeter Rosenbogen "Cosenza" aus Metall ► in verschiedenen Farben ✓ 235 x 140 cm ✓ wirkungsvolle Rankhilfe ► Hier entdecken!
-  Updated: 2026-02-19T15:03:32Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:26Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Cosenza_unbeschichtet.png?v=1756703858
@@ -1344,8 +1344,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Cosenza_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034447
     Price: 446,40 € EUR
 - [Rosenbogen Matera aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-matera): Hochwertiger Rosenbogen aus Metall für Ihren Garten: » Dekorative Rankhilfe ✓ in verschiedenen Farben ✓ sehr stabil & langlebig ► Hier bestellen!
-  Updated: 2026-03-16T05:25:15Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:28Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Matera_unbeschichtet.png?v=1756703854
@@ -1378,8 +1378,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Matera_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034534
     Price: 446,40 € EUR
 - [Rückwand "Calabria" einfach online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rueckwand-calabria): Rückwand zum Rosenbogen "Calabria": ✓ verschiedene Designs ✓ pflegeleicht ✓ langlebig ✓ dekorativer Blickfang ➤ Jetzt hier bestellen!
-  Updated: 2026-02-12T09:07:46Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:26Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria_Ruckwand_gerade_unbeschichtet.png?v=1756703852
@@ -1412,8 +1412,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Frontal_Backwall.png?v=1761229130
     Price: 478,40 € EUR
 - [Gartentür "Calabria" einfach online kaufen | ELEO Garten](https://www.eleo-garten.de/products/tuer-calabria): Gartentür "Calabria" passend zu Ihrem Rosenbogen: ✓ stilvoll ✓ pflegeleicht ✓ langlebig ✓ dekorativ ➤ Direkt hier bestellen!
-  Updated: 2026-02-12T09:07:44Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:27Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria_Tur_frontal_unbeschichtet.png?v=1756703850
@@ -1446,8 +1446,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria_Tur_gerade_pulverbeschichtet-schokobraun_RAL8017.png?v=1761229109
     Price: 318,40 € EUR
 - [Großer Metallstern für den Garten online kaufen | ELEO Garten](https://www.eleo-garten.de/products/metallstern-novara-gross): Großer Stern aus Metall "Novara" aus Schmiedeeisen: ✓ dekorativ ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Hier bestellen!
-  Updated: 2026-03-16T08:28:15Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:23Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-gross_unbeschichtet.png?v=1756703848
@@ -1480,15 +1480,15 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-gross_schokobraun.png?v=1756703849
     Price: 40,00 € EUR
 - [Item Customizations](https://www.eleo-garten.de/products/product-customizer-item-customizations): *** This is a hidden product used by Product Customizer. Please do not modify or delete! *** In order to add priced options to the cart, this product must be Visible in the Online Store and set to Don't Track Inventory. Modifying these settings may prevent your shoppers from checking out. You may safely update the default Title and Image to better suit your shop. For questions, please contact us .
-  Updated: 2026-02-12T09:07:41Z
+  Updated: 2026-03-23T14:55:10Z
   Vendor: ELEO Garten
   Product Type: SHOPSTORM_HIDDEN_PRODUCT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/item-customizations-product-image.png?v=1756703846
   Price: 0,01 € EUR
 - [Rosenbogen Cremona | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-cremona): Rosenbogen aus Metall » ✓ handgefertigt ✓ modernes Design ✓ wetterfest und langlebig ► Hier entdecken!
-  Updated: 2026-03-16T09:12:25Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:11Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cremona-unbeschichtet.png?v=1756703839
@@ -1521,8 +1521,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cremona-pulverbeschichtet-schockobraun_RAL8017.png?v=1756703841
     Price: 270,40 € EUR
 - [Wandrosenbogen Cremona | ELEO Garten](https://www.eleo-garten.de/products/wandrosenbogen-cremona): Wandrosenbogen aus Metall »  ✓ handgefertigt ✓ modernes Design ✓ wetterfest und langlebig ► Hier entdecken!
-  Updated: 2026-02-19T15:05:36Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:11Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cremona-unbeschichtet-Wandbefestigung.png?v=1756703837
@@ -1555,8 +1555,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cremona-pulverbeschichtet-schockobraun_RAL8017-Wandbefestigung.png?v=1756703838
     Price: 206,40 € EUR
 - [Rosenbogen Savona | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-savona): Rosenbogen aus Metall » ✓ modernes, exklusives Design ✓ handgeschmiedet ✓ wetterfest und langlebig ► Jetzt bestellen!
-  Updated: 2026-03-16T09:31:17Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:09Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-savona-unbeschichtet.png?v=1756703832
@@ -1589,8 +1589,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-schockobraun_RAL8017.png?v=1756703835
     Price: 558,40 € EUR
 - [Wandrosenbogen Savona | ELEO Garten](https://www.eleo-garten.de/products/wandrosenbogen-savona): Wandrosenbogen aus Metall  » ✓ moderne Gartenzierde ✓ von Hand gefertigt ✓  wetterfest und langlebig ► Jetzt bestellen!
-  Updated: 2026-02-19T15:08:26Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:07Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-unbeschichtet-Wandbefestigung.png?v=1756703829
@@ -1623,8 +1623,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-schockobraun_RAL8017-Wandbefestigung.png?v=1761228167
     Price: 382,40 € EUR
 - [Rosenbogen Sorrento | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-sorrento): Moderner Rosenbogen aus Metall » ✓ schlichte, praktische Rankhilfe ✓ handgeschmiedet, witterungsbeständig ► Jetzt entdecken!
-  Updated: 2026-03-18T08:55:18Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:06Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-unbeschichtet.png?v=1759307431
@@ -1657,8 +1657,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-schockobraun_RAL8017.png?v=1761227973
     Price: 478,40 € EUR
 - [Wandrosenbogen Sorrento | ELEO Garten](https://www.eleo-garten.de/products/wandrosenbogen-sorrento): Wandrosenbogen aus Metall » ✓ exklusive Rankhilfe ✓ modernes Design ✓ handgefertigt & langlebig ► Jetzt bestellen!
-  Updated: 2026-03-02T08:25:53Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:06Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-unbeschichtet-Wandbefestigung.png?v=1756703824
@@ -1691,8 +1691,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-schockobraun_RAL8017-Wandbefestigung.png?v=1761228133
     Price: 318,40 € EUR
 - [Hochbeet "Monterosso" mit Sichtschutz Cortenstahl kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-sichtschutz-monterosso-cortenstahl): Hochbeet mit Sichtschutz "Monterosso" aus Metall ✓ verschiedene Größen & Motive ✓ hochwertig & langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-02-12T09:07:28Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:07Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Monterosso-Corstenstahl-mit-Sichtschutz-Arno.png?v=1756703821
@@ -1753,8 +1753,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Monterosso-Corstenstahl-mit-Sichtschutz-Amato.png?v=1761228589
     Price: 749,00 € EUR
 - [Hochbeet "Manarola" mit Sichtschutz Cortenstahl kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-manarola-sichtschutz-cortenstahl): Hochbeet mit Sichtschutz "Manarola" aus Metall ✓ verschiedene Größen & Motive ✓ hochwertig & langlebig ➤ Jetzt bestellen!
-  Updated: 2026-03-13T04:01:20Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:03Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Manarola-Cortenstahl-mit-Sichtschutz-Arno.png?v=1756703819
@@ -1815,8 +1815,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Manarola-Cortenstahl-mit-Sichtschutz-Amato.png?v=1756703819
     Price: 1.290,00 € EUR
 - [Pflanzkübel "Vernazza" mit Sichtschutz Cortenstahl I ELEO Garten](https://www.eleo-garten.de/products/pflanzkuebel-sichtschutz-vernazza-cortenstahl): Pflanzkübel mit Sichtschutz "Vernazza" aus wetterfestem Cortenstahl ✓ verschiedene Größen & Motive ✓ hochwertig & langlebig ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:07:26Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:06Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Vernazza-Cortensthal-mit-Sichtschutz-Arno.png?v=1756703816
@@ -1877,8 +1877,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Vernazza-Cortensthal-mit-Sichtschutz-Amato.png?v=1756703817
     Price: 489,50 € EUR
 - [Hochbeet "Monterosso" mit Sichtschutz Metall I ELEO Garten](https://www.eleo-garten.de/products/hochbeet-sichtschutz-monterosso-metall): Hochbeet mit Sichtschutz "Monterosso" aus wetterfestem Cortenstahl ✓ verschiedene Größen & Motive ✓ hochwertig & langlebig ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:07:25Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:07Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Monterosso-Metall-mit-Sichtschutz-Arno.png?v=1756703814
@@ -1939,8 +1939,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Monterosso-Metall-mit-Sichtschutz-Amato.png?v=1761228561
     Price: 825,00 € EUR
 - [Hochbeet "Manarola" mit Sichtschutz Metall kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-manarola-sichtschutz-metall): Hochbeet mit Sichtschutz "Manarola" aus wetterfestem Cortenstahl ✓ verschiedene Größen & Motive ✓ hochwertig & langlebig ➤ Jetzt bestellen!
-  Updated: 2026-03-01T22:11:38Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:04Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Manarola-Metall-mit-Sichtschutz-Arno.png?v=1756703811
@@ -2001,8 +2001,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Manarola-Metall-mit-Sichtschutz-Amato.png?v=1756703812
     Price: 1.390,00 € EUR
 - [Pflanzkübel "Vernazza" mit Sichtschutz Metall I ELEO Garten](https://www.eleo-garten.de/products/pflanzkuebel-vernazza-sichtschutz-metall): Pflanzkübel mit Sichtschutz "Vernazza" aus wetterfestem Cortenstahl ✓ verschiedene Größen & Motive ✓ hochwertig & langlebig ➤ Jetzt bestellen!
-  Updated: 2026-02-12T09:07:22Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:55:05Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Vernazza-Metall-mit-Sichtschutz-Arno.png?v=1756703809
@@ -2063,8 +2063,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Hochbeet-Vernazza-Metall-mit-Sichtschutz-Amato.png?v=1761228694
     Price: 529,00 € EUR
 - [Rosenbogen Caserta | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-caserta): Runder Rosenbogen aus Stahl » ✓ bietet Kletterpflanzen viel Platz ✓ wetterfest & langlebig ✓ Beschichtung nach Wahl ► Jetzt bestellen!
-  Updated: 2026-02-19T16:45:50Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:54:56Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-caserta-unbeschichtet.png?v=1756703805
@@ -2097,8 +2097,8 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-caserta-pulverbeschichtet-RAL8017-schokobraun.png?v=1763034488
     Price: 366,40 € EUR
 - [Rosenbogen Cesena | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-cesena): Klassischer Rosenbogen aus Metall » ✓ rundes Design ✓ wetterfest & langlebig ✓ Beschichtung frei wählbar ► Jetzt online bestellen!
-  Updated: 2026-03-18T10:36:55Z
-  Vendor: eleo-garten
+  Updated: 2026-03-24T02:54:54Z
+  Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-cesena-unbeschichtet-1920x1080.png?v=1756703803
@@ -2131,7 +2131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-cesena-pulverbeschichtet-RAL8017-schokobraun-1920x1080.png?v=1763034416
     Price: 415,00 € EUR
 - [Beetzaun Pescara | ELEO Garten](https://www.eleo-garten.de/products/beetzaun-pescara): Beetzaun Pescara aus hochwertigem Metall ✓ modernes X-Dekor ✓ schlichte Eleganz für Ihr Beet ✓ wetterfest & langlebig ►Jetzt kaufen!
-  Updated: 2026-02-12T09:07:19Z
+  Updated: 2026-03-23T14:54:46Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2165,7 +2165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-pescara-pulverbeschichtet-RAL7016-anthrazitgrau_png.png?v=1756703802
     Price: 46,40 € EUR
 - [Beetzaun » Modell  Rosa » | ELEO Garten](https://www.eleo-garten.de/products/beetzaun-rosa): Beetzaun Rosa aus hochwertigem Metall ✓ romantisch und dekorativ ✓ ideal für Staudenbeeten  ✓ leichte & schnelle Montage ► Jetzt entdecken!
-  Updated: 2026-02-12T09:07:18Z
+  Updated: 2026-03-23T14:54:45Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2199,7 +2199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-rosa-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1761033154
     Price: 56,00 € EUR
 - [Beetzaun » Modell Belluno » | ELEO Garten](https://www.eleo-garten.de/products/beetzaun-belluno): Metall Beetzaun Belluno ✓ mit Kreisdekoren ✓ zeitlose Eleganz ✓ Beschichtung nach Wahl ✓ wetterfest & langlebig ► Jetzt bestellen!
-  Updated: 2026-02-12T09:07:17Z
+  Updated: 2026-03-23T14:54:44Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2233,7 +2233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-belluno-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1761033142
     Price: 46,40 € EUR
 - [Beetzaun Balerna | ELEO Garten](https://www.eleo-garten.de/products/beetzaun-balerna): Beetzaun Balerna aus hochwertigem Metall ✓ mit verspielten S-Dekoren ✓ filigrane Schmiedearbeit ✓ wetterfest & langlebig ►Jetzt kaufen!
-  Updated: 2026-02-12T09:07:16Z
+  Updated: 2026-03-23T14:54:43Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2267,7 +2267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-balerna-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1754024647
     Price: 46,40 € EUR
 - [Beetzaun Set » Modell Balerna »| ELEO Garten](https://www.eleo-garten.de/products/beetzaun-balerna-set): Metall Beetzaun Balerna im günstigen Komplett-Set ✓ 5-teiliges Set aus 5x 52 cm langen Zaunelementen ✓ wetterfest & langlebig ► Jetzt bestellen!
-  Updated: 2026-02-12T09:07:15Z
+  Updated: 2026-03-23T14:54:42Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2301,7 +2301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-balerna-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033135
     Price: 206,40 € EUR
 - [Beetzaun Belluno im Set | ELEO Garten](https://www.eleo-garten.de/products/beetzaun-belluno-set): Beetzaun Belluno im günstigen Set ✓ aus hochwertigem Metall ✓ kreisrunde Ornamente ✓5 x 52cm ✓ leichte Montage ► Jetzt entdecken!
-  Updated: 2026-02-13T12:42:29Z
+  Updated: 2026-03-23T14:54:41Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2335,7 +2335,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-belluno-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033133
     Price: 206,40 € EUR
 - [Beetzaun Rosa im 5-teiligen Set | ELEO Garten](https://www.eleo-garten.de/products/beetzaun-rosa-set): Beetzaun Rosa aus Metall im Komplett-Set ✓ romantisch und dekorativ ✓ 5x 49,8 cm ✓ leichte & schnelle Montage► Jetzt online bestellen!
-  Updated: 2026-02-12T09:07:12Z
+  Updated: 2026-03-23T14:54:40Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2369,7 +2369,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-rosa-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033121
     Price: 238,40 € EUR
 - [Beetzaun Pescara im Set | ELEO Garten](https://www.eleo-garten.de/products/beetzaun-pescara-set): 5-teiliges Beetzaun-Set Pescara ✓ aus hochwertigem Metall ✓ moderne X-Dekoren ✓ 5x 52 cm ✓ wetterfest & langlebig  ► Jetzt bestellen!
-  Updated: 2026-02-12T09:07:11Z
+  Updated: 2026-03-23T14:54:39Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2403,7 +2403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-pescara-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033127
     Price: 206,40 € EUR
 - [Steckzaun Balerna aus Metall | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-balerna): Steckzaun aus Metall Balerna mit S-Dekoren ✓ filigranes Design ✓ Beschichtung nach Wahl ✓wetterfest & langlebig ► Jetzt bestellen!
-  Updated: 2026-02-12T09:07:10Z
+  Updated: 2026-03-23T14:54:38Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2436,7 +2436,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-balerna-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1761033221
     Price: 78,40 € EUR
 - [Romantischer Steckzaun Rosa aus Metall | ELEO](https://www.eleo-garten.de/products/steckzaun-rosa): Steckzaun Rosa aus hochwertigem Metall ✓ romantisch & dekorativ ✓ Beschichtung nach Wahl ✓ wetterfest & langlebig ► Jetzt bestellen!
-  Updated: 2026-03-15T02:18:23Z
+  Updated: 2026-03-23T14:54:37Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2469,7 +2469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-rosa-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1756703786
     Price: 88,00 € EUR
 - [Metall Steckzaun Belluno | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-belluno): Metall Steckzaun Belluno mit Kreisdekoren ✓ zeitlose Eleganz ✓ schmückende Zierspitze ✓ Beschichtung nach Wahl  ► Jetzt online bestellen!
-  Updated: 2026-02-12T09:07:08Z
+  Updated: 2026-03-23T14:54:37Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2502,7 +2502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-belluno-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1761033253
     Price: 78,40 € EUR
 - [Metall Steckzaun Lucca | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-lucca): Zaun Lucca zum Stecken aus Metall  ✓ eleganter Blickfang ✓  schnelle Montage ✓  stabil & wetterfest ► Jetzt online bestellen!
-  Updated: 2026-02-12T09:07:07Z
+  Updated: 2026-03-23T14:54:36Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2535,7 +2535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-lucca-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1761033278
     Price: 88,00 € EUR
 - [Steckzaun Ancona aus Metall | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-ancona): Steckzaun Ancona aus hochwertigem Metall ✓ schlicht & elegant ✓ Ideal für Blumenbeete & Gartenwege ✓ wetterfest & langlebig ► Jetzt entdecken!
-  Updated: 2026-02-12T09:07:06Z
+  Updated: 2026-03-23T14:54:35Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2569,7 +2569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-ancona-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1761212316
     Price: 78,40 € EUR
 - [Steckzaun Rosa im Set aus Metall | ELEO](https://www.eleo-garten.de/products/steckzaun-rosa-im-set): 5-teiliges Komplett-Set Steckzaun Rosa ✓ aus hochwertigem Metall ✓ mit romantischen C-Dekoren ✓ Beschichtung nach Wahl ► Jetzt entdecken!
-  Updated: 2026-02-12T09:07:05Z
+  Updated: 2026-03-23T14:54:34Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2603,7 +2603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-rosa-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1756703778
     Price: 392,00 € EUR
 - [Metall Steckzaun Belluno im Set | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-belluno-im-set): Steckzaun Belluno im günstigen Set ✓ aus hochwertigem Metall ✓ 5-teiliges Set aus Zaunelementen ✓ stabil & langlebig ►Jetzt kaufen!
-  Updated: 2026-02-12T09:07:04Z
+  Updated: 2026-03-25T10:44:28Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2637,7 +2637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-belluno-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033376
     Price: 350,40 € EUR
 - [Steckzaun Balerna Set aus Metall | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-balerna-im-set): Metall Steckzaun Balerna im günstigen Komplett-Set ✓ mit S-Dekoren ✓ leichte Montage ✓ wetterfest & langlebig ► Jetzt entdecken!
-  Updated: 2026-02-12T09:07:03Z
+  Updated: 2026-03-23T14:54:32Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2671,7 +2671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-balerna-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033413
     Price: 350,40 € EUR
 - [Steckzaun Ancona Set aus Metall | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-ancona-im-set): 5-teiliges Steckzaun-Set Ancona ✓ aus hochwertigem Metall mit Kugelstab ✓ Beschichtung nach Wahl ✓ schnell montiert ► Jetzt bestellen!
-  Updated: 2026-03-10T12:09:40Z
+  Updated: 2026-03-23T14:54:31Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2705,7 +2705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-ancona-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761212312
     Price: 350,40 € EUR
 - [Metall Steckzaun Lucca im Set | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-lucca-im-set): Metall Steckzaun Lucca im praktischen Set ✓ mit C-Dekoren und Kugellilie ✓5-teiliges Set aus Zaunelementen ✓ stabil ► Jetzt bestellen!
-  Updated: 2026-02-12T09:07:00Z
+  Updated: 2026-03-23T14:54:30Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2739,7 +2739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-lucca-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033461
     Price: 392,00 € EUR
 - [Windlichtsäule „Adda“ 78 cm » online entdecken! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-adda-78-cm): Design-Windlichtsäule aus Metall für stilvolle Beleuchtung ✓ geometrisches Muster ✓ rostfrei & langlebig ✓ edle Oberfläche wählbar ► jetzt bestellen!
-  Updated: 2026-02-12T09:06:59Z
+  Updated: 2026-03-23T14:54:29Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2753,7 +2753,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-adda-78cm-mattgrau.png?v=1762346651
     Price: 85,00 € EUR
 - [Windlichtsäule „Adda“ 100 cm » jetzt entdecken! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-adda-100-cm): Metall Windlichtsäule für Terrasse, Balkon & Garten ✓ kunstvolles Design ✓ mit Glaseinsatz ✓ in Rostoptik oder Pulverbeschichtung erhältlich
-  Updated: 2026-02-12T09:06:58Z
+  Updated: 2026-03-23T14:54:28Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2767,7 +2767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-adda-100cm-mattgrau.png?v=1762346675
     Price: 135,00 € EUR
 - [Windlichtsäule „Roya“ 78 cm » online entdecken! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-roya-78-cm): Windlichtsäule aus hochwertigem Metall für Garten, Terrasse & Balkon ✓ wetterfest ✓ Edelrost- oder Pulverbeschichtung  ► jetzt bestellen
-  Updated: 2026-02-12T09:06:57Z
+  Updated: 2026-03-23T14:54:28Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2781,7 +2781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-roya-78cm-mattgrau.png?v=1763043193
     Price: 85,00 € EUR
 - [Windlichtsäule „Roya“ 100 cm » gleich bestellen! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-roya-100-cm): Windlichtsäule Metall für stilvolle Akzente im Garten ✓ wetterfest & langlebig ✓ Edelrost- oder Pulverbeschichtung ✓ stabil & dekorativ ► gleich entdecken!
-  Updated: 2026-02-12T09:06:56Z
+  Updated: 2026-03-23T14:54:27Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2795,7 +2795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-roya-100cm-mattgrau.png?v=1763043212
     Price: 135,00 € EUR
 - [Windlichtsäule „Livenza“ 78 cm » jetzt entdecken! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-livenza-78-cm): Metall Windlichtsäule für Garten & Terrasse ✓ filigranes Motiv ✓ wählbare Oberfläche: Rost oder Pulverbeschichtung ✓ stabil & langlebig ► gleich bestellen!
-  Updated: 2026-02-19T15:20:57Z
+  Updated: 2026-03-23T14:54:26Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2809,7 +2809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-livenza-78cm-mattgrau.png?v=1762346690
     Price: 85,00 € EUR
 - [Windlichtsäule „Livenza“ 100 cm » hier kaufen! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-livenza-100-cm): Metall Windlichtsäule für Garten, Terrasse & Balkon ✓ 100 cm hoch ✓ wetterfest & pflegeleicht ✓ in Rostoptik oder Pulverbeschichtung ► jetzt bestellen!
-  Updated: 2026-02-19T15:21:33Z
+  Updated: 2026-03-23T14:54:25Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2823,49 +2823,49 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-livenza-100cm-mattgrau.png?v=1762346701
     Price: 135,00 € EUR
 - [Rostkugel Garten „Tivoli“ ⌀ 20 cm » jetzt entdecken! | ELEO](https://www.eleo-garten.de/products/rostkugel-garten-tivoli-20-cm): Dekokugel Rost aus Metall ✓ Ø 20 cm ✓ harmonisch im Garten oder Beet ✓ wetterfest & elegant ✓ Edelrostkugel für kreative Gestaltung ► online bestellen!
-  Updated: 2026-02-12T09:06:53Z
+  Updated: 2026-03-23T14:54:24Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Rostkugel_Tivoli_20cm.png?v=1756703760
   Price: 15,00 € EUR
 - [Rostkugel Garten „Tivoli“ ⌀ 25 cm » gleich bestellen! | ELEO](https://www.eleo-garten.de/products/rostkugel-garten-tivoli-25-cm): Rostige Gartenkugel Ø 25 cm ✓ aus Metall gefertigt ✓ schlichte Form mit Edelrost-Oberfläche ✓ für harmonische Gartengestaltung ► günstig kaufen!
-  Updated: 2026-02-12T09:06:53Z
+  Updated: 2026-03-23T14:54:24Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Rostkugel_Tivoli_25cm.png?v=1756703759
   Price: 19,00 € EUR
 - [Rostkugel Garten „Tivoli“ ⌀ 30 cm » günstig kaufen | ELEO Garten](https://www.eleo-garten.de/products/rostkugel-garten-tivoli-30-cm): Rostige Gartenkugel Ø 30 cm ✓ aus Metall mit Edelrost-Oberfläche ✓ langlebig & wetterfest ✓ Dekokugel Rost für Beet, Terrasse & Rasen ► online bestellen!
-  Updated: 2026-02-12T09:06:52Z
+  Updated: 2026-03-23T14:54:23Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Rostkugel_Tivoli_30cm.png?v=1756703758
   Price: 25,00 € EUR
 - [Rostkugel Garten „Tivoli“ ⌀ 40 cm » jetzt entdecken! | ELEO](https://www.eleo-garten.de/products/rostkugel-garten-tivoli-40-cm): Robuste Gartenkugel Ø 40 cm ✓ wetterfest & langlebig ✓ natürliche Rostoptik für Akzente im Außenbereich ✓ vielseitig einsetzbar ► gleich online entdecken!
-  Updated: 2026-02-12T09:06:51Z
+  Updated: 2026-03-23T14:54:23Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/RostkugelTivoli40cm.png?v=1756703757
   Price: 29,00 € EUR
 - [Metallsäule „Trapani“ 100 cm » gleich bestellen! | ELEO Garten](https://www.eleo-garten.de/products/metallsaeule-trapani-100-cm): Metallsäule mit 100 cm Höhe ✓ ideal als Pflanzsockel, Beetgestaltung oder Blickfang ✓ wetterfest ✓ Edelrost-Optik ► jetzt entdecken!
-  Updated: 2026-02-12T09:06:50Z
+  Updated: 2026-03-23T14:54:22Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Metallsaule_Trapani_100cm.png?v=1756703756
   Price: 139,00 € EUR
 - [Metallsäule „Trapani“ 80 cm » jetzt bestellen! | ELEO Garten](https://www.eleo-garten.de/products/metallsaeule-trapani-80-cm): Metallsäule mit 80 cm Höhe ✓ vielseitig einsetzbar als Pflanzsockel oder Gartendeko ✓ wetterfest & standfest ✓ Edelrost-Optik für stilvolle Akzente
-  Updated: 2026-02-12T09:06:49Z
+  Updated: 2026-03-23T14:54:21Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Metallsaule_Trapani_80cm.png?v=1756703755
   Price: 99,00 € EUR
 - [Windlichtsäule „Adda“ Set » hier kaufen! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-adda-set): Metall Windlichtsäulen im Art-Déco-Stil ✓ modernes Set-Design ✓ langlebig & wetterfest ✓ perfekte Kombi für Garten & Terrasse ► im Set günstiger bestellen!
-  Updated: 2026-02-12T09:06:48Z
+  Updated: 2026-03-23T14:54:20Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2879,7 +2879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-adda-set-mattgrau_png.png?v=1761228855
     Price: 199,00 € EUR
 - [Windlichtsäule „Roya“ Set » jetzt bestellen! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-roya-set): Zwei Windlichtsäulen im Set ✓ romantisches Design ✓ hochwertig & wetterfest ✓ Edelrost oder Pulverbeschichtung ✓ im Set sparen ► gleich entdecken!
-  Updated: 2026-03-10T11:01:47Z
+  Updated: 2026-03-23T14:54:20Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2893,7 +2893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-roya-set-mattgrau_png.png?v=1762346634
     Price: 199,00 € EUR
 - [Windlichtsäule „Livenza“ Set » jetzt bestellen! | ELEO Garten](https://www.eleo-garten.de/products/windlichtsaeule-livenza-set): Windlichtsäulen im Blattdesign ✓ wetterfest & hochwertig ✓ wählbar in Edelrost oder Pulverbeschichtung ✓ jetzt im Set sparen ► online entdecken!
-  Updated: 2026-02-19T15:21:58Z
+  Updated: 2026-03-23T14:54:19Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2907,28 +2907,28 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/windlichtsaule-livenza-set-mattgrau_png.png?v=1762346727
     Price: 199,00 € EUR
 - [Rostkugel Garten „Tivoli“ Set ⌀ 20 cm – 25 cm » gleich bestellen!](https://www.eleo-garten.de/products/rostkugel-garten-tivoli-set-20-cm-25-cm): Edelrostkugeln im Set ✓ Ø 20 & 25 cm ✓ wetterfest & stilvoll ✓ als Dekokugel Rost im Garten, Beet oder auf der Terrasse ✓ jetzt im Set sparen ► entdecken!
-  Updated: 2026-02-12T09:06:45Z
+  Updated: 2026-03-23T14:54:18Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Rostkugel_Tivoli_Set_20cm_25cm_png.png?v=1756703750
   Price: 29,00 € EUR
 - [Rostkugel Garten „Tivoli“ 4er Set » hier kaufen! | ELEO Garten](https://www.eleo-garten.de/products/rostkugel-garten-tivoli-4er-set): 4er-Set Gartenkugeln Ø 20–40 cm ✓ dekorativ & langlebig ✓ für harmonische Gartengestaltung ✓ Edelrostkugeln im Set kombinieren & sparen ► jetzt entdecken!
-  Updated: 2026-02-12T09:06:45Z
+  Updated: 2026-03-23T14:54:17Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Rostkugel_Tivoli_Set_1__png.png?v=1756703749
   Price: 79,00 € EUR
 - [Metallsäule „Trapani“ Set » gleich bestellen! | ELEO Garten](https://www.eleo-garten.de/products/metallsaule-trapani-set): Zwei Metallsäulen in Edelrost-Optik ✓ stabil & wetterfest ✓ ideal als Pflanzsockel oder Deko im Garten ✓ jetzt im Set kaufen & sparen ► stilvoll gestalten!
-  Updated: 2026-02-12T09:06:44Z
+  Updated: 2026-03-23T14:54:16Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Metallsaule_Trapani_set_png.png?v=1756703748
   Price: 199,00 € EUR
 - [Wanddeko Garten „Mondo di Rosa“ – Runde Metallkunst von ELEO Garten](https://www.eleo-garten.de/products/garten-wanddeko-mondo-di-rosa): Wanddeko Garten „Mondo di Rosa“ aus Metall: ✓ stilvoll ✓ wetterfest ✓ langlebig  - ein Highlight für Garten & Terrasse ➤ Jetzt bestellen!
-  Updated: 2026-03-10T11:01:45Z
+  Updated: 2026-03-23T14:54:16Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2942,7 +2942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Mondo_di_Rosa_pb_anthrazit.png?v=1761557434
     Price: 148,50 € EUR
 - [Gewindestange M8 | ELEO Garten](https://www.eleo-garten.de/products/gewindestange-m8): Mit den Gewindestangen zur Montage in der Erde können unsere Rosenbögen und Rankobelisken sicher verankert werden.
-  Updated: 2026-02-22T15:44:06Z
+  Updated: 2026-03-23T14:54:13Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2952,25 +2952,25 @@
 ## Collections
 
 - [Home page](https://www.eleo-garten.de/collections/frontpage)
-  Updated: 2026-03-18T11:09:45Z
+  Updated: 2026-03-22T11:08:43Z
   Total Products: 1
 - [Gartendeko aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallgartendeko): Metallgartendeko in vielen Designs ✓ stabil & wetterfest ✓ dekorativ & edel ✓ Beschichtung frei wählbar ➤ Jetzt bestellen!
-  Updated: 2026-03-18T11:09:45Z
+  Updated: 2026-03-22T11:08:43Z
   Total Products: 36
 - [Hochwertige Rosenbögen aus Metall – stilvoll & langlebig | ELEO](https://www.eleo-garten.de/collections/rosenbogen): Stabiler Rosenbogen: ✓ romantisch oder modern ✓ wetterfest ✓ ideal für Kletterpflanzen ➤ Jetzt den passenden Rosenbogen für Ihren Garten bestellen!
-  Updated: 2026-03-18T11:09:45Z
+  Updated: 2026-03-24T11:10:12Z
   Total Products: 20
 - [Rankobelisken aus Metall ➤ Jetzt online kaufen! | ELEO Garten](https://www.eleo-garten.de/collections/rankobelisken): Rankobelisken für Kletterpflanzen ✓ stabil ✓ dekorativ ✓ nützliches Gartenaccessoire ➤ jetzt Obelisk aus Metall bestellen!
-  Updated: 2026-03-16T11:08:58Z
+  Updated: 2026-03-24T11:10:12Z
   Total Products: 9
 - [Metall Rankgitter jetzt online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallrankgitter): Rankgitter für Ihre Hauswand ✓ massives Metall ✓ langlebig ✓ dekorativ ✓ verschiedene Beschichtungen ✓ inkl. Wandhalterung ➤ Jetzt bestellen!
   Updated: 2026-03-15T11:09:52Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2026-03-18T11:09:45Z
+  Updated: 2026-03-25T11:13:51Z
   Total Products: 108
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
-  Updated: 2026-03-18T11:09:45Z
+  Updated: 2026-03-25T11:13:51Z
   Total Products: 12
 - [Gartenstecker aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/gartenstecker-metall): Gartenstecker aus Metall: wunderschöne Deko für Ihre Blumenbeete!  ✓ aus hochwertigem Metall ✓ wetterfest ✓ besondere Designs ➤ Gleich bestellen!
   Updated: 2026-02-28T12:10:34Z
@@ -2979,7 +2979,7 @@
   Updated: 2026-02-18T19:07:14Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2026-03-18T11:09:45Z
+  Updated: 2026-03-24T11:10:12Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
   Updated: 2026-03-02T12:10:34Z
@@ -2991,10 +2991,10 @@
   Updated: 2026-03-16T11:08:58Z
   Total Products: 4
 - [Gartensäule aus Metall » Windlichtsäulen & Dekosäulen online kaufen](https://www.eleo-garten.de/collections/metall-gartensaeulen): Hochwertige Gartensäulen aus Metall in Rostoptik oder matt-grauem Finish ✓ Windlichtsäulen und Metallsäulen in verschiedenen Größen » Jetzt entdecken!
-  Updated: 2026-03-16T11:08:58Z
+  Updated: 2026-03-21T11:09:29Z
   Total Products: 19
 - [Garten-Sets aus Metall | ELEO Garten](https://www.eleo-garten.de/collections/sets): Perfekt abgestimmte Garten-Sets aus hochwertigem Metall. Zeitloses Design, langlebige Materialien und durchdachte Kombinationen von ELEO Garten.
-  Updated: 2026-03-18T11:09:45Z
+  Updated: 2026-03-22T11:08:43Z
   Total Products: 27
 
 ## Blogs
@@ -3269,7 +3269,7 @@
     Author: Jennifer Faatz
     Tags: Ratgeber
   - [Hochbeet mit Sichtschutz: Privatsphäre & Design für den Garten](https://www.eleo-garten.de/blogs/blog/hochbeet-mit-sichtschutz): Hochbeet mit Sichtschutz: Privatsphäre & Design für den Garten
-    Updated: 2026-02-26T15:09:05Z
+    Updated: 2026-03-23T08:12:09Z
     Author: Jennifer Faatz
     Tags: Gestaltungstipps, Hochbeet
   - [Pflegeleichter Garten – Ideen und Tipps für eine einfache Gartengestaltung](https://www.eleo-garten.de/blogs/blog/pflegeleichter-garten)
@@ -3280,6 +3280,14 @@
     Updated: 2026-03-18T10:57:58Z
     Author: Jennifer Faatz
     Tags: Rosenbogen
+  - [Giftige Gartenpflanzen für Kinder und Haustiere – was gehört nicht in den Garten?](https://www.eleo-garten.de/blogs/blog/giftige-gartenpflanzen)
+    Updated: 2026-03-19T10:53:01Z
+    Author: Annett Zahn
+    Tags: Garten & Pflanzen
+  - [Ameisen im Hochbeet: Die besten Hausmittel & Pflanzen-Tipps](https://www.eleo-garten.de/blogs/blog/ameisen-im-hochbeet): Ameisen im Hochbeet: Die besten Hausmittel & Pflanzen-Tipps
+    Updated: 2026-03-23T13:01:32Z
+    Author: Vivien Räder
+    Tags: Ratgeber
 
 ## Store Pages
 
