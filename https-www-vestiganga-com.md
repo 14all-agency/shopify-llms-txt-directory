@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2025-08-21T18:57:03Z
 - Contact Email: Vestiganga@gmail.com
-- Updated At: 2026-03-18T00:00:38.889Z
+- Updated At: 2026-03-25T00:00:43.371Z
 
 # LLMs.txt - Fuente oficial de información estructurada
 # Dominio: https://vestiganga.com
@@ -203,13 +203,6 @@ Canales oficiales disponibles en el sitio web.
   - [XL](https://www.vestiganga.com/products/top-de-dama-algodon-set-3-basico-ajustado-ref-2069-20?variant=47520141541601)
     Availability: Available
     Price: 49.990,00 $ COP
-- [Pijama para Mujer Set x3 Short Full Print](https://www.vestiganga.com/products/pijama-para-mujer-set-3-short-full-print): Pijama para Mujer Set x3 en piel de durazno. Incluye blusa y short. Fucsia, salmón y lila. Compra ahora.
-  Updated: 2026-02-11T12:11:16Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-para-mujer-de-short-full-print-set-x3-7460674.jpg?v=1770767349
-  Price: 59.990,00 $ COP
 - [Tanga Brasilera Estampada de Algodón Set x3](https://www.vestiganga.com/products/tanga-brasilera-estampada-algodon-set-3-mujer-ref-59-21): Set x3 de tanga brasilera estampada de algodón. Cómodas, elásticas y ajustadas. Beis, lila y fucsia. Compra ahora.
   Updated: 2026-03-10T19:18:07Z
   Vendor: Vestiganga
@@ -240,27 +233,6 @@ Canales oficiales disponibles en el sitio web.
   - [L](https://www.vestiganga.com/products/tanga-brasilera-algodon-set-3-mujer-ref-59-21?variant=47535576482017)
     Availability: Available
     Price: 39.990,00 $ COP
-- [Pijama Set X3 Unidades | Ref. 169-18 | Talla Única | Azul Cielo - Rosado - Amarillo](https://www.vestiganga.com/products/pijama-de-short-talla-unica-fucsia-salmon-lila-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades | Ref. 169-18 | Talla Única | Azul Cielo - Rosado - Amarillo Combinaciones de colores Trío U: Azul Cielo - Rosado - Amarillo Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Talla: Única Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Contiene: 3 Blusas 3 Short Garantía: 30 días por defectos de fabricación o cambios
-  Updated: 2026-03-14T23:46:38Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-set-x3-unidades-ref-169-18-talla-unica-azul-cielo-rosado-amarillo-8629942.jpg?v=1770767347
-  Price: 49.990,00 $ COP
-- [Pijama Set X3 Unidades | Ref. 169-18 | Talla Única | Blanca - Verde Menta - Lila](https://www.vestiganga.com/products/pijama-de-short-talla-unica-blanca-rosa-negra-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades – Ref. 169-18 | Talla Única | Blanca - Verde Menta - Lila Combinaciones de colores Trío U: Blanca - Verde Menta - Lila Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Contiene: 3 blusas y 3 Shorts Garantía: 30 días por defectos de fabricación o cambios
-  Updated: 2026-02-10T23:49:30Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-set-x3-unidades-ref-169-18-talla-unica-blanca-verde-menta-lila-9026443.jpg?v=1770767355
-  Price: 49.990,00 $ COP
-- [Pijama Set X3 Unidades| Ref. 169-18 | Talla Única | Azul - Rosa - Blanca](https://www.vestiganga.com/products/pijama-de-short-talla-unica-blanca-verde-menta-lila-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades – Ref. 169-18 | Talla Única | Azul - Rosa - Blanca Combinaciones de colores Trío U: Azul - Rosa - Blanca Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Contenido: 3 Blusas 3 Short Garantía: 30 días por defectos de fabricación o cambios
-  Updated: 2026-03-14T23:46:38Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-set-x3-unidades-ref-169-18-talla-unica-azul-rosa-blanca-5780613.jpg?v=1770767353
-  Price: 49.990,00 $ COP
 - [Tanga Brasilera Mujer x3 en Algodón](https://www.vestiganga.com/products/tanga-brasilera-mujer-x3-algodon): ¿Buscas tangas cómodas y suaves? Tanga brasilera mujer x3 en algodón fresco y discreto. ¡Renueva hoy!
   Updated: 2026-03-10T19:18:14Z
   Vendor: Vestiganga
@@ -291,42 +263,6 @@ Canales oficiales disponibles en el sitio web.
   - [L](https://www.vestiganga.com/products/tanga-brasilera-set-x3-algodon?variant=47535575924961)
     Availability: Available
     Price: 39.990,00 $ COP
-- [Pijama Mujer Set x3 Piel de Durazno](https://www.vestiganga.com/products/pijama-mujer-set-x3-piel-de-durazn): ¿Sin pijamas cómodas? Pijama Mujer Set x3 piel de durazno suave y fresco. Ahorra y renueva hoy. ¡Compra ahora!
-  Updated: 2026-03-10T19:18:18Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-mujer-set-x3-piel-de-durazno-9982551.jpg?v=1773170288
-  - [S](https://www.vestiganga.com/products/pijama-mujer-set-x3-piel-de-durazn?variant=47460573708513)
-    Availability: Available
-    Price: 69.990,00 $ COP
-  - [M](https://www.vestiganga.com/products/pijama-mujer-set-x3-piel-de-durazn?variant=47460573741281)
-    Availability: Available
-    Price: 69.990,00 $ COP
-  - [L](https://www.vestiganga.com/products/pijama-mujer-set-x3-piel-de-durazn?variant=47535574974689)
-    Availability: Available
-    Price: 69.990,00 $ COP
-  - [XL](https://www.vestiganga.com/products/pijama-mujer-set-x3-piel-de-durazn?variant=47460573806817)
-    Availability: Available
-    Price: 69.990,00 $ COP
-- [Pijama Short Estampada Mujer Set x3](https://www.vestiganga.com/products/pijama-short-mujer-set-3): Set x3 pijama short para mujer en piel de durazno. Incluye 3 blusas y 3 shorts. Azul, lila y rosado.
-  Updated: 2026-03-10T19:18:18Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-short-estampada-mujer-set-x3-5234672.png?v=1773170289
-  - [S](https://www.vestiganga.com/products/pijama-short-mujer-set-3?variant=47476536639713)
-    Availability: Available
-    Price: 69.990,00 $ COP
-  - [M](https://www.vestiganga.com/products/pijama-short-mujer-set-3?variant=47476536672481)
-    Availability: Available
-    Price: 69.990,00 $ COP
-  - [L](https://www.vestiganga.com/products/pijama-short-mujer-set-3?variant=47535570878689)
-    Availability: Available
-    Price: 69.990,00 $ COP
-  - [XL](https://www.vestiganga.com/products/pijama-short-mujer-set-3?variant=47476536738017)
-    Availability: Available
-    Price: 69.990,00 $ COP
 - [Batola Estampada para Niña Pack x3](https://www.vestiganga.com/products/batola-estampada-para-nina-pack-3): Pack x3 de batola estampada para niña. Cómodas y ligeras. Verde agua, rosado y lila.
   Updated: 2026-02-12T10:00:53Z
   Vendor: Vestiganga
@@ -708,42 +644,6 @@ Canales oficiales disponibles en el sitio web.
   - [14-16 / E](https://www.vestiganga.com/products/boxer-nino-2x1-algodon?variant=47510839492833)
     Availability: Available
     Price: 29.990,00 $ COP
-- [Pijama Paquete X3 Unidades | Ref 192-18 | Lila - Amarillo - Azul Cielo](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-azul-blanco-rosado-copia-4): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades | Ref. 192-18 | Lila - Amarillo - Rosado Combinaciones de colores Trío : Lila - Amarillo - Rosado Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Garantía: 30 días por defectos de fabricación o cambios
-  Updated: 2026-02-10T23:49:13Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-paquete-x3-unidades-ref-192-18-lila-amarillo-azul-cielo-6745030.jpg?v=1770767350
-  - [S](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-azul-blanco-rosado-copia-4?variant=47537023189217)
-    Availability: Available
-    Price: 59.990,00 $ COP
-  - [M](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-azul-blanco-rosado-copia-4?variant=47537023221985)
-    Availability: Available
-    Price: 59.990,00 $ COP
-  - [L](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-azul-blanco-rosado-copia-4?variant=47537023254753)
-    Availability: Available
-    Price: 59.990,00 $ COP
-  - [XL](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-azul-blanco-rosado-copia-4?variant=47537023287521)
-    Availability: Available
-    Price: 59.990,00 $ COP
-- [Pijama Paquete X3 Unidades | Ref 192-18 |Azul Cielo - Habano - Lila](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-lila-amarillo-azul-cielo-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades | Ref. 192-18 | Azul Cielo - Lila - Negro Combinaciones de colores Trío : Azul Cielo - Habano - Lila Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Garantía: 30 días por defectos de fabricación o cambios Contenido: 3 Blusas y 3 Shorts
-  Updated: 2026-03-03T19:14:08Z
-  Vendor: Vestiganga
-  Product Type: Pijama
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-paquete-x3-unidades-ref-192-18-azul-cielo-habano-lila-7268275.jpg?v=1770767349
-  - [S](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-lila-amarillo-azul-cielo-copia?variant=47546068599009)
-    Availability: Available
-    Price: 59.990,00 $ COP
-  - [M](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-lila-amarillo-azul-cielo-copia?variant=47546068631777)
-    Availability: Available
-    Price: 59.990,00 $ COP
-  - [L](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-lila-amarillo-azul-cielo-copia?variant=47546068664545)
-    Availability: Available
-    Price: 59.990,00 $ COP
-  - [XL](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-lila-amarillo-azul-cielo-copia?variant=47546068697313)
-    Availability: Available
-    Price: 59.990,00 $ COP
 - [Top Deportivo Set X2 Unidades| Ref  311 -631 |Azul - Rosado](https://www.vestiganga.com/products/top-de-dama-set-x3-unidades-verde-agua-gris-haspe-negro-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Top Deportivo – Ref 311 -631 | Azul - Rosado Combinaciones de colores Set X2 - Azul - Rosado Detalles técnicos y garantía Material: Algodón Silueta: Ajustada Tipo de prenda: Top básico Sección: Tops Deportivos – Mundo Dama Contiene: 2 Top Deportivos Garantía: 30 días por defectos de fabricación
   Updated: 2026-02-10T23:49:21Z
   Vendor: Vestiganga
@@ -845,7 +745,7 @@ Canales oficiales disponibles en el sitio web.
     Availability: Available
     Price: 125.990,00 $ COP
 - [Pijama Dama | Ref.192-18| Mayorista | 12 Unidades](https://www.vestiganga.com/products/pijama-dama-ref-192-18-mayorista-12-unidades-copia-2): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Dama | Ref.192-18| Mayorista | 12 Unidades Combinaciones de colores Surtidos Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada Tipo de prenda: Pijama de Blusa y short estampado Sección: Pijamas – Mundo Dama
-  Updated: 2026-02-10T23:49:24Z
+  Updated: 2026-03-18T23:59:38Z
   Vendor: Vestiganga
   Product Type: Pijama
   Availability: Available
@@ -1042,42 +942,174 @@ Canales oficiales disponibles en el sitio web.
   - [L](https://www.vestiganga.com/products/combo-pijama-ropa-interior-mujer-x2?variant=47784280817889)
     Availability: Available
     Price: 89.990,00 $ COP
-- [Pijama Dama Set x3 Azul-Lila-Amarillo](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado): ¿Buscas pijamas cómodas y modernas? Pijama dama set x3 Salmón-Lila-Rosado en piel de durazno. ¡Compra ahora!
-  Updated: 2026-03-16T19:57:17Z
+- [Batola Dama Andrea | Individual | Full Estampada |](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Batola DamaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia:11-18Contenido: 1 Batola
+  Updated: 2026-03-24T23:21:14Z
   Vendor: Vestiganga
-  Product Type: Pijama
+  Product Type: Batola
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-dama-set-x3-azul-lila-amarillo-9777289.jpg?v=1773170287
-  - [S](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964361953)
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Batola_dama_indv.png?v=1774373985
+  - [S / Rosa](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128329941217)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [S / Azul Cielo](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128329973985)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [S / Rosado Fuerte](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330006753)
     Availability: Available
-    Price: 59.990,00 $ COP
-  - [M](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964394721)
+    Price: 29.990,00 $ COP
+  - [S / lila](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330039521)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [M / Rosa](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330072289)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [M / Azul Cielo](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330105057)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [M / Rosado Fuerte](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330137825)
     Availability: Available
-    Price: 59.990,00 $ COP
-  - [L](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964427489)
+    Price: 29.990,00 $ COP
+  - [M / lila](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330170593)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [L / Rosa](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330203361)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [L / Azul Cielo](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330236129)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [L / Rosado Fuerte](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330268897)
     Availability: Available
-    Price: 59.990,00 $ COP
-  - [XL](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964460257)
+    Price: 29.990,00 $ COP
+  - [L / lila](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330301665)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [XL / Rosa](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330334433)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [XL / Azul Cielo](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330367201)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+  - [XL / Rosado Fuerte](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330399969)
     Availability: Available
-    Price: 59.990,00 $ COP
-- [Pijama Dama Paquete X3 Unidades | Talla Unica | Ref. 294-17 | Cafe - Azul - Amarillo](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-ref-192-18-azul-cielo-habano-lila-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Paquete X3 Unidades | Ref. 294-17 | Cafe - Azul - Amarillo Combinaciones de colores Trío : Cafe - Azul - Amarillo Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de Short Sublimado Sección: Pijamas – Mundo Dama Garantía: 30 días por defectos de fabricación o cambios Contenido: 3 Blusas y 3 Shorts
-  Updated: 2026-02-20T04:13:25Z
+    Price: 29.990,00 $ COP
+  - [XL / lila](https://www.vestiganga.com/products/batola-dama-andrea-full-estampada?variant=48128330432737)
+    Availability: Not Available
+    Price: 29.990,00 $ COP
+- [Batas Dama Andrea X 3 Und. | Estampada |](https://www.vestiganga.com/products/batas-dama-andrea-x-3-und-estampada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Batola DamaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia: 11-18Contenido: 3 Batolas
+  Updated: 2026-03-24T23:22:42Z
   Vendor: Vestiganga
-  Product Type: Pijama
+  Product Type: Batola
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-dama-paquete-x3-unidades-talla-unica-ref-294-17-cafe-azul-amarillo-6926205.jpg?v=1770767347
-  Price: 59.990,00 $ COP
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Batoladamax3.png?v=1774373985
+  - [S](https://www.vestiganga.com/products/batas-dama-andrea-x-3-und-estampada?variant=48128351011041)
+    Availability: Available
+    Price: 69.990,00 $ COP
+  - [M](https://www.vestiganga.com/products/batas-dama-andrea-x-3-und-estampada?variant=48128351043809)
+    Availability: Available
+    Price: 69.990,00 $ COP
+  - [L](https://www.vestiganga.com/products/batas-dama-andrea-x-3-und-estampada?variant=48128351076577)
+    Availability: Available
+    Price: 69.990,00 $ COP
+  - [XL](https://www.vestiganga.com/products/batas-dama-andrea-x-3-und-estampada?variant=48128351109345)
+    Availability: Available
+    Price: 69.990,00 $ COP
+- [Set Batas Dama Andrea X3 Und | Estampada |](https://www.vestiganga.com/products/set-batas-dama-andrea-x3-und-estampada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Batola DamaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia:11-18Contenido: 3 Batolas
+  Updated: 2026-03-24T21:21:55Z
+  Vendor: Vestiganga
+  Product Type: Batola
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Packx3.png?v=1774373818
+  - [S](https://www.vestiganga.com/products/set-batas-dama-andrea-x3-und-estampada?variant=48128361234657)
+    Availability: Available
+    Price: 69.990,00 $ COP
+  - [M](https://www.vestiganga.com/products/set-batas-dama-andrea-x3-und-estampada?variant=48128361267425)
+    Availability: Available
+    Price: 69.990,00 $ COP
+  - [L](https://www.vestiganga.com/products/set-batas-dama-andrea-x3-und-estampada?variant=48128361300193)
+    Availability: Available
+    Price: 69.990,00 $ COP
+  - [XL](https://www.vestiganga.com/products/set-batas-dama-andrea-x3-und-estampada?variant=48128361332961)
+    Availability: Available
+    Price: 69.990,00 $ COP
+- [Pijama Dama Paquete X3 Monica | Talla Unica | Sublimada |](https://www.vestiganga.com/products/pijama-dama-paquete-x3-monica-talla-unica-sublimada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Short y BlusaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia: 294-17Contenido: 3 Blusas y 3 Shorts
+  Updated: 2026-03-24T19:03:18Z
+  Vendor: Vestiganga
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Packx3_63f04a6e-ef4e-4552-bb72-a5a7992888d7.png?v=1774377423
+  Price: 69.990,00 $ COP
+- [Pijama Dama Monica Paquete X3 | Talla Unica | Sublimada |](https://www.vestiganga.com/products/pijama-dama-monica-paquete-x3-talla-unica-sublimada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Short y BlusaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia: 294-17Contenido: 3 Blusas y 3 Shorts
+  Updated: 2026-03-24T20:15:52Z
+  Vendor: Vestiganga
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Pijama_set_x_3_-_dama.png?v=1774380966
+  Price: 69.990,00 $ COP
+- [Pijama Dama Monica | Individual | Talla Unica | Sublimada |](https://www.vestiganga.com/products/pijama-dama-monica-paquete-individual-talla-unica-sublimada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Short y BlusaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia: 294-17Contenido: 1 Blusas y 1 Shorts
+  Updated: 2026-03-24T20:38:05Z
+  Vendor: Vestiganga
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/PijamaDamax3und.png?v=1774384684
+  - [Azul](https://www.vestiganga.com/products/pijama-dama-monica-paquete-individual-talla-unica-sublimada?variant=48128558203105)
+    Availability: Available
+    Price: 29.990,00 $ COP
+  - [Amarillo](https://www.vestiganga.com/products/pijama-dama-monica-paquete-individual-talla-unica-sublimada?variant=48128558235873)
+    Availability: Available
+    Price: 29.990,00 $ COP
+  - [Rosado Fuerte](https://www.vestiganga.com/products/pijama-dama-monica-paquete-individual-talla-unica-sublimada?variant=48128558268641)
+    Availability: Available
+    Price: 29.990,00 $ COP
+  - [Gris](https://www.vestiganga.com/products/pijama-dama-monica-paquete-individual-talla-unica-sublimada?variant=48128558301409)
+    Availability: Available
+    Price: 29.990,00 $ COP
+  - [Rosa](https://www.vestiganga.com/products/pijama-dama-monica-paquete-individual-talla-unica-sublimada?variant=48128558334177)
+    Availability: Available
+    Price: 29.990,00 $ COP
+- [Pijama Dama Set X3 Alejandra | Talla única | Tiras | Estampada |](https://www.vestiganga.com/products/pijama-dama-set-x3-alejandra-talla-unica-tiras-estampada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Short y BlusaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia: 192-18Contenido: 3 Blusas y 3 Shorts
+  Updated: 2026-03-24T20:36:22Z
+  Vendor: Vestiganga
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Portada_talla_unica.png?v=1774384581
+  Price: 69.990,00 $ COP
+- [Pijama Alejandra Set x3 | Talla Unica | Tiras Estampada |](https://www.vestiganga.com/products/pijama-alejandra-set-x3-talla-unica-tiras-estampada): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Short y BlusaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia: 192-18Contenido: 3 Blusas y 3 Shorts
+  Updated: 2026-03-24T21:12:17Z
+  Vendor: Vestiganga
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/PijamaDamax-3.png?v=1774385787
+  Price: 69.990,00 $ COP
+- [Pijama Alejandra Individual | Talla única | Tiras y short |](https://www.vestiganga.com/products/pijama-alejandra-individual-talla-unica-tiras-y-short): Material: Piel de duraznoSilueta: Delgada y ajustadaTipo de prenda: Short y BlusaSección: Pijamas – Mundo DamaGarantía: 30 días por defectos de fabricación o cambiosReferencia: 192-18Contenido: 1 Blusas y 1 Shorts
+  Updated: 2026-03-24T21:27:35Z
+  Vendor: Vestiganga
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Shortyblusa-x3.png?v=1774387306
+  - [Guayaba](https://www.vestiganga.com/products/pijama-alejandra-individual-talla-unica-tiras-y-short?variant=48128683213025)
+    Availability: Available
+    Price: 29.990,00 $ COP
+  - [Negro](https://www.vestiganga.com/products/pijama-alejandra-individual-talla-unica-tiras-y-short?variant=48128683180257)
+    Availability: Available
+    Price: 29.990,00 $ COP
+  - [lila](https://www.vestiganga.com/products/pijama-alejandra-individual-talla-unica-tiras-y-short?variant=48128683245793)
+    Availability: Available
+    Price: 29.990,00 $ COP
+  - [Azul Cielo](https://www.vestiganga.com/products/pijama-alejandra-individual-talla-unica-tiras-y-short?variant=48128683278561)
+    Availability: Available
+    Price: 29.990,00 $ COP
 
 ## Collections
 
 - [Tienda Online: Moda, Ropa y Accesorios](https://www.vestiganga.com/collections/tienda-online-ropa-accesorios): Visita nuestra tienda online: ropa y accesorios para mujer, hombre e infantil. ¡Explora y renueva tu estilo hoy!
-  Updated: 2026-03-17T11:25:56Z
+  Updated: 2026-03-24T21:24:54Z
   Total Products: 14
 - [Ropa Hombre: Camisetas, Boxers y Plus](https://www.vestiganga.com/collections/ropa-hombre-camisetas-boxers-plus): Compra ropa hombre: camisetas, boxers y tallas plus. Comodidad y estilo para todos. ¡Renueva tu look ya!
   Updated: 2026-03-17T15:27:02Z
   Total Products: 11
 - [Ropa Mujer: Pijamas, Deportivos y Más](https://www.vestiganga.com/collections/ropa-mujer-pijamas-deportivos-batolas): Compra ropa mujer: pijamas, deportivos y más. Solución para comodidad y estilo. ¡Renueva tu look hoy mismo!
-  Updated: 2026-03-17T11:25:56Z
+  Updated: 2026-03-24T21:29:41Z
   Total Products: 56
 - [Ropa Infantil: Moda y Comodidad para Niños](https://www.vestiganga.com/collections/infantil): Compra ropa infantil cómoda y moderna. Moda y durabilidad para niños y niñas. ¡Renueva su estilo hoy!
   Updated: 2026-02-13T20:14:46Z
@@ -1086,10 +1118,10 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T20:12:58Z
   Total Products: 14
 - [Pijamas Mujer y Hombre: Confort y Estilo](https://www.vestiganga.com/collections/pijamas): Compra pijamas cómodos para mujer y hombre. Estilo y confort garantizados. ¡Renueva tu descanso hoy mismo!
-  Updated: 2026-03-17T11:25:56Z
-  Total Products: 37
+  Updated: 2026-03-24T21:29:41Z
+  Total Products: 38
 - [Promociones: Ropa y Accesorios con Descuento](https://www.vestiganga.com/collections/promociones): Descubre promociones en ropa y accesorios. Descuentos y estilo garantizados. ¡Aprovecha hoy y renueva tu look!
-  Updated: 2026-03-11T02:16:12Z
+  Updated: 2026-03-19T11:28:21Z
   Total Products: 16
 - [Lo + Vendido: Top Ropa y Accesorios](https://www.vestiganga.com/collections/lo-lo-mas-vendido-ropa-accesorios): Descubre Lo + Vendido: ropa y accesorios top. Moda y comodidad garantizada. ¡Compra los favoritos antes que se agoten!
   Updated: 2026-02-13T20:09:48Z
@@ -1098,13 +1130,13 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T20:08:31Z
   Total Products: 0
 - [Más Vendidos: Ropa y Accesorios Top](https://www.vestiganga.com/collections/mas-vendidos): Descubre los más vendidos: ropa, pijamas y accesorios. Moda y comodidad garantizada. ¡Compra los favoritos hoy!
-  Updated: 2026-03-17T11:25:56Z
-  Total Products: 11
+  Updated: 2026-03-24T21:29:24Z
+  Total Products: 18
 - [Pijama Dama](https://www.vestiganga.com/collections/mujer-copia)
-  Updated: 2026-03-17T11:25:56Z
+  Updated: 2026-03-24T21:29:41Z
   Total Products: 34
 - [Pijamas Dama: Confort y Estilo](https://www.vestiganga.com/collections/pijamas-dama-confort-estilo): Compra pijamas dama cómodas y elegantes. Descanso con estilo y confort. ¡Renueva tu pijama hoy!
-  Updated: 2026-03-17T11:25:56Z
+  Updated: 2026-03-24T21:29:41Z
   Total Products: 27
 - [Ropa Interior Dama: Comodidad y Estilo](https://www.vestiganga.com/collections/ropa-interior-dama-inicio): Compra ropa interior dama: pantys, lencería y más. Confort y estilo garantizados. ¡Renueva tu look íntimo hoy!
   Updated: 2026-02-13T20:20:20Z
@@ -1122,11 +1154,11 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-03-11T02:16:49Z
   Total Products: 2
 - [Batolas Mujer: Confort y Elegancia](https://www.vestiganga.com/collections/batolas-mujer-confort-estilo): Compra batolas mujer cómodas y elegantes. Confort y estilo garantizados. ¡Renueva tu look de descanso hoy!
-  Updated: 2026-02-13T21:57:22Z
-  Total Products: 8
+  Updated: 2026-03-24T17:02:43Z
+  Total Products: 11
 - [Blusa y Short Mujer: Confort y Estilo](https://www.vestiganga.com/collections/blusa-short-mujer-confort-estilo): Compra blusa y short mujer: cómodos, modernos y versátiles. Confort y estilo garantizados. ¡Renueva tu look hoy!
-  Updated: 2026-03-17T11:25:56Z
-  Total Products: 19
+  Updated: 2026-03-24T21:29:41Z
+  Total Products: 25
 - [Promoción Niño: Ropa Infantil en Oferta](https://www.vestiganga.com/collections/promocion-nino): Promoción Niño: ropa infantil en oferta. Ahorra en pijamas, camisetas y más. ¡Compra hoy y viste a tus hijos con estilo!
   Updated: 2026-02-13T21:59:15Z
   Total Products: 3
@@ -1161,7 +1193,7 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T20:24:15Z
   Total Products: 2
 - [Mayorista Pijamas Dama: Stock y Variedad](https://www.vestiganga.com/collections/mayorista-pijamas-dama-stock-variedad): Compra mayorista pijamas dama: stock, variedad y calidad. ¡Aumenta tu inventario y vende con estilo hoy!
-  Updated: 2026-03-11T02:16:12Z
+  Updated: 2026-03-19T11:28:21Z
   Total Products: 6
 - [Mayoristas: Ropa y Accesorios al Por Mayor](https://www.vestiganga.com/collections/mayoristas): Compra al por mayor ropa y accesorios. Stock, variedad y calidad garantizados. ¡Renueva tu inventario hoy!
   Updated: 2026-03-17T15:25:06Z
@@ -1228,6 +1260,19 @@ Canales oficiales disponibles en el sitio web.
     Updated: 2026-03-14T00:58:29Z
     Author: VESTI GANGA
     Tags: Colombia, estampada, full print, guía de compra, Medellín, piel de durazno, pijamas dama, pijamas mujer, ropa de descanso, set x3
+  - [Pijamas Mujer Medellín con Envío a Domicilio | Vestiganga](https://www.vestiganga.com/blogs/noticias/pijamas-mujer-medellin-envio-domicilio): Pijamas Mujer Medellín con Envío a Domicilio | Vestiganga
+    Updated: 2026-03-18T02:40:51Z
+    Author: VESTI GANGA
+  - [Pijamas Set x3 Baratas en Colombia desde $49.990 | Vestiganga](https://www.vestiganga.com/blogs/noticias/pijamas-set-x3-baratas-colombia): Pijamas Set x3 Baratas en Colombia desde $49.990 | Vestiganga
+    Updated: 2026-03-18T22:18:55Z
+    Author: VESTI GANGA
+  - [Pijamas Piel de Durazno Mujer Colombia — Set x3 desde $49.990](https://www.vestiganga.com/blogs/noticias/pijamas-piel-de-durazno-mujer-colombia): Pijamas Piel de Durazno Mujer Colombia — Set x3 desde $49.990
+    Updated: 2026-03-20T19:32:54Z
+    Author: VESTI GANGA
+  - [Comprar Pijamas Dama Online Colombia — Guía Segura | Vestiganga](https://www.vestiganga.com/blogs/noticias/comprar-pijamas-dama-online-colombia)
+    Updated: 2026-03-24T04:14:06Z
+    Author: VESTI GANGA
+    Tags: comprar online Colombia, envío Colombia, guía de compra, Medellín, pijamas mujer, ropa de descanso, set x3
 
 ## Store Pages
 
