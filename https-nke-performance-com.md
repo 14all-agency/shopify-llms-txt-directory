@@ -5,24 +5,17 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-08-07T21:04:50Z
-- Updated At: 2026-03-17T00:00:40.174Z
+- Updated At: 2026-03-25T00:00:43.863Z
 
 ## Products
 
 - [NKE Single Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/nke-single-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Transform your car with the NKE Single Exhaust Flamer Kit. Easy installation, universal fit for petrol cars. Premium flame thrower kit with On/Off Switch. £160.
-  Updated: 2026-03-13T18:08:56Z
+  Updated: 2026-03-22T19:42:06Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/277D0239-6A62-429D-AC41-3DC98AAC5DD0.jpg?v=1771457051
   Price: £160.00 GBP
-- [NKE Dual Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/nke-dual-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Upgrade to dual flames with the NKE Dual Exhaust Flamer Kit. Professional installation, universal compatibility. Premium dual flame thrower system. £310.
-  Updated: 2026-02-24T04:48:12Z
-  Vendor: NKE Performance
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/4774100D-4F66-4149-8FBD-733E68A76E3D.jpg?v=1771457051
-  Price: £310.00 GBP
 - [NKE Quad Exhaust Flamer Kit - Ultimate Flame Thrower System for Petrol Cars UK](https://nke-performance.com/products/nke-quad-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Maximum impact with the NKE Quad Exhaust Flamer Kit. Four-flame system, universal fit for petrol cars. Ultimate flame thrower experience. £610.
   Updated: 2026-02-24T04:47:44Z
   Vendor: NKE Performance
@@ -38,7 +31,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/3F40A681-CD28-46B0-BAFE-AE534D0996D9.jpg?v=1771457051
   Price: £310.00 GBP
 - [Lexus Flamer Kit - Universal Performance Exhaust | NKE Performance](https://nke-performance.com/products/lexus-flamer-kit-universal): Premium exhaust flamer kit for Lexus models. Universal fit for IS, GS, RC, LC series. Professional-grade quality to match your Lexus performance.
-  Updated: 2026-02-24T04:47:23Z
+  Updated: 2026-03-24T13:18:31Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
@@ -401,33 +394,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_3c261c36-ada3-4e9c-9ff2-dbd82fa94dce.jpg?v=1772150430
   Price: £499.00 GBP
+- [NKE Dual Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/v2-nke-dual-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars-copy): Upgrade to dual flames with the NKE Dual Exhaust Flamer Kit. Professional installation, universal compatibility. Premium dual flame thrower system. £310.
+  Updated: 2026-03-22T00:54:29Z
+  Vendor: NKE Performance
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/4774100D-4F66-4149-8FBD-733E68A76E3D.jpg?v=1771457051
+  Price: £270.00 GBP
 
 ## Collections
 
 - [Home page](https://nke-performance.com/collections/frontpage)
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 - [Vauxhall Astra VXR Flamer Kits](https://nke-performance.com/collections/vauxhall-flamer-kits): Premium flamer kits for Vauxhall VXR models. Our UK engineered performance exhaust flamer kits create stunning flames for Corsa VXR and Astra VXR.Available in single and dual flamer configurations from NKE Performance.
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 - [Ford Flamer Kits](https://nke-performance.com/collections/ford-flamer-kits-1): Premium flamer kits designed specifically for Ford vehicles. Our UK engineered performance exhaust flamer kits deliver spectacular flames for Focus RS, Focus ST, Fiesta ST, and Sierra models. Transform your Ford with NKE Performance quality and engineering.
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 - [Nissan Flamer Kits](https://nke-performance.com/collections/nissan-flamer-kits): Premium quad flamer kits designed for the legendary Nissan GTR R35. Our UK engineered performance exhaust flamer kits deliver spectacular four-flame effects that match the power and prestige of your GTR. NKE Performance quality engineering.
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 - [Mazda Flamer Kits](https://nke-performance.com/collections/mazda-flamer-kits): Premium dual flamer kits designed for the iconic Mazda RX8 rotary engine. Our UK engineered performance exhaust flamer kits create stunning flame effects that complement the unique character of your rotary-powered RX8. NKE Performance engineering excellence.
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 - [BMW](https://nke-performance.com/collections/bmw)
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 - [Subaru Impreza Flamer Kits](https://nke-performance.com/collections/subaru-impreza-flamer-kits)
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 - [Corsa VXR Flamer Kits](https://nke-performance.com/collections/corsa-vxr-flamer-kits)
-  Updated: 2026-03-14T11:32:41Z
-  Total Products: 3
+  Updated: 2026-03-23T11:42:09Z
+  Total Products: 4
 
 ## Blogs
 
