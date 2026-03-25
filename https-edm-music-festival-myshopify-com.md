@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-28T12:26:13Z
 - Contact Email: masterbeat111@ukr.net
-- Updated At: 2026-03-17T14:04:29.864Z
+- Updated At: 2026-03-25T00:00:23.370Z
 
 ## Products
 
@@ -163,6 +163,10 @@ The abyss-black hand-waxed first layer leather strap with a butterfly folding cl
 
 - [Privacy Policy](https://edm-music-festival.myshopify.com/policies/privacy-policy)
   Updated: 2025-10-28T08:26:22-04:00
+- [Refund Policy](https://edm-music-festival.myshopify.com/policies/refund-policy)
+  Updated: 2026-03-24T04:13:02-04:00
+- [Terms of Service](https://edm-music-festival.myshopify.com/policies/terms-of-service)
+  Updated: 2026-03-24T04:12:49-04:00
 
 ## Optional
 
