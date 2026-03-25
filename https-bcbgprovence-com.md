@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2022-01-03T10:15:31Z
 - Contact Email: bcbgprovence@gmail.com
-- Updated At: 2026-03-18T00:00:43.507Z
+- Updated At: 2026-03-25T00:00:54.474Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika-Image_27b6f050-e99c-4786-8b07-ab97c93c7bd5.webp?v=1733423432
   Price: €35.00 EUR
 - ["Heartfelt Expressions" Sequin T-Shirt](https://bcbgprovence.com/products/heartfelt-expressions-sequin-t-shirt): Embrace love with this vibrant sequin t-shirt! Featuring a graffiti-style heart design with phrases like 'D&G is Love' and 'Free Love,' this soft, comfy tee is perfect for bold, creative spirits. Ideal for casual outings or making a statement. Let your style shine with this unique piece!
-  Updated: 2025-05-13T11:56:29Z
+  Updated: 2026-03-24T00:14:11Z
   Vendor: BCBGProvence
   Product Type: Ladies T-Shirts
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika-Image_10788ab7-79f5-4ebf-bfea-5ffb442f3f67.webp?v=1733423432
   Price: €35.00 EUR
 - [" Mickey Mouse Scramble"  T-Shirt](https://bcbgprovence.com/products/just-be-cool-mickey-mouse-t-shirt): Update your laid back look with this BCBG Provence t-shirt, which made of fine cotton for an ultra soft feel for all day comfort. The lightweight fabric of the t-shirt is superb quality thanks to soft and luxurious threads made of fine cotton yarn. This t-shirt features a ribbed crew neck, short sleeves, elastic trims and finished with a "Mickey Mouse Scrambles" transfer image and "Just be Cool" image on the back.
-  Updated: 2025-02-10T17:19:12Z
+  Updated: 2026-03-23T06:42:08Z
   Vendor: BCBGProvence
   Product Type: Ladies T-Shirts
   Availability: Available
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika-Image_4e0aecc0-f5ff-4120-a326-eecba8be8228.webp?v=1736758689
   Price: €25.00 EUR
 - ["Mona Lisa" Grey V-Neck T-Shirt For Woman Classic Fit](https://bcbgprovence.com/products/mona-lisa-selfie-t-shirt-1): The art is on your t-shirt .... something special about this top. Just the perfect thing for the summer, the piece captures all the attention with its unique colors, artistic flair, and form-fitting appearance.
-  Updated: 2025-01-13T21:37:45Z
+  Updated: 2026-03-18T03:45:51Z
   Vendor: BCBGProvence
   Product Type: Ladies T-Shirts
   Availability: Available
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/Botika-Image_c170286b-e79b-4aed-8fe3-cfcf06199e5f.webp?v=1736077190
   Price: €25.00 EUR
 - [Twill Silk Long Scarf "Medieval City"](https://bcbgprovence.com/products/twill-silk-long-scarf-medieval-city): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out. It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complete your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones on birthday, anniversary, Christmas or other special days.
-  Updated: 2025-01-08T01:46:53Z
+  Updated: 2026-03-23T02:23:37Z
   Vendor: BCBG Provence
   Product Type: Scarves
   Availability: Available
@@ -1113,7 +1113,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/products/FenecFox-PhotoRoom.png?v=1677673037
   Price: €25.00 EUR
 - [100% Twill Silk Scarf "Manège"](https://bcbgprovence.com/products/100-twill-silk-scarf-manege): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2026-03-11T04:56:46Z
+  Updated: 2026-03-24T15:52:32Z
   Vendor: BCBG Provence
   Product Type: Scarves & Shawls
   Availability: Available
@@ -1123,7 +1123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.54-Photoroom.png?v=1773161754
     Price: €75.00 EUR
   - [Yellow](https://bcbgprovence.com/products/100-twill-silk-scarf-manege?variant=41303442587787)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-24at17.50.54_5_-Photoroom.png?v=1773161754
     Price: €75.00 EUR
   - [Pink](https://bcbgprovence.com/products/100-twill-silk-scarf-manege?variant=41303442620555)
@@ -1475,7 +1475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/20240320_154932-Photoroom.png?v=1710949879
     Price: €90.00 EUR
 - [100% Twill Silk Scarf "Le Retour d'Ulysse"](https://bcbgprovence.com/products/100-twill-silk-scarf-le-retour-dulysse): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-12-10T00:32:07Z
+  Updated: 2026-03-24T15:51:31Z
   Vendor: BCBG Provence
   Product Type: Scarves & Shawls
   Availability: Available
@@ -1485,7 +1485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-10at13.39.52_3_-Photoroom.png?v=1765283518
     Price: €90.00 EUR
   - [White](https://bcbgprovence.com/products/100-twill-silk-scarf-le-retour-dulysse?variant=47814329827660)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-10at13.40.03-Photoroom.png?v=1765283518
     Price: €90.00 EUR
   - [Red](https://bcbgprovence.com/products/100-twill-silk-scarf-le-retour-dulysse?variant=47814329860428)
@@ -1671,13 +1671,41 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsApp_Image_2026-02-26_at_10.33_18.jpg?v=1772103102
   Price: €50.00 EUR
-[List Continued](https://bcbgprovence.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTYwMTE4NTAzMDQ3NiwibGFzdF92YWx1ZSI6IjE1NjAxMTg1MDMwNDc2In0=)
+- [Hand-Dyed Silk Chiffon Square Scarf — Turquoise & Grey, Made in India, 102x102cm](https://bcbgprovence.com/products/hand-dyed-silk-chiffon-square-scarf-turquoise-grey-made-in-india-102x102cm): Shop this unique 100% silk chiffon square scarf, hand-dyed by artisans in India. Electric turquoise & charcoal grey, 102x102cm. New with tags. Beautifully gift packaged. Free from machine printing — every piece is one of a kind.
+  Updated: 2026-03-24T14:49:57Z
+  Vendor: BCBG Provence
+  Product Type: Scarves & Shawls
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2026-03-24at10.47.59_1_ProductStaging.jpg?v=1774363796
+  Price: €45.00 EUR
+- [Hand-Dyed Silk Chiffon Square Scarf ,Made in India](https://bcbgprovence.com/products/hand-dyed-silk-chiffon-square-scarf-made-in-india): Shop this unique 100% silk chiffon square scarf, hand-dyed by artisans in India. Electric black & charcoal grey, 102x109cm. New with tags. Beautifully gift packaged. Free from machine printing — every piece is one of a kind.
+  Updated: 2026-03-24T14:49:57Z
+  Vendor: BCBG Provence
+  Product Type: Scarves & Shawls
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2026-03-24at10.48.01_3_ProductStaging.jpg?v=1774363796
+  Price: €45.00 EUR
+- [Hand-Dyed Silk Chiffon Square Scarf ,Made in India ,105x105cm](https://bcbgprovence.com/products/hand-dyed-silk-chiffon-square-scarf-made-in-india-copy): Shop this unique 100% silk chiffon square scarf, hand-dyed by artisans in India. Electric red & black 105x105cm. New with tags. Beautifully gift packaged. Free from machine printing — every piece is one of a kind.
+  Updated: 2026-03-24T14:50:09Z
+  Vendor: BCBG Provence
+  Product Type: Scarves & Shawls
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsApp_Image_2026-03-24_at_10.48.09_6_Virtual_Model.jpg?v=1774363797
+  Price: €45.00 EUR
+- [Hand-Dyed Silk Chiffon Square Scarf ,Made in India ,105x105cm](https://bcbgprovence.com/products/hand-dyed-silk-chiffon-square-scarf-made-in-india-105x105cm-copy): Shop this unique 100% silk chiffon square scarf, hand-dyed by artisans in India.Beige& brown 105x105cm. New with tags. Beautifully gift packaged. Free from machine printing — every piece is one of a kind.
+  Updated: 2026-03-24T17:10:37Z
+  Vendor: BCBG Provence
+  Product Type: Scarves & Shawls
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2026-03-24at10.48.06_ProductStaging.jpg?v=1774372235
+  Price: €45.00 EUR
+[List Continued](https://bcbgprovence.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY1MDgxNDA5OTc4OCwibGFzdF92YWx1ZSI6IjE1NjUwODE0MDk5Nzg4In0=)
 
 ## Collections
 
 - [New Arrivals](https://bcbgprovence.com/collections/new-arrivals)
-  Updated: 2026-03-14T15:51:49Z
-  Total Products: 90
+  Updated: 2026-03-24T14:40:57Z
+  Total Products: 94
 - [Mens Clothing](https://bcbgprovence.com/collections/mens-clothing): Discover unique and stylish men's clothing at BCBG Provence, featuring vibrant graphic tees and embroidered designs. Enjoy 30% off with the code SUMMER30 and free worldwide delivery. Elevate your wardrobe with bold, statement pieces inspired by Southern French fashion. Shop now!
   Updated: 2025-09-29T11:10:27Z
   Total Products: 9
@@ -1688,8 +1716,8 @@
   Updated: 2024-03-27T15:35:09Z
   Total Products: 9
 - [Accessories](https://bcbgprovence.com/collections/accessories)
-  Updated: 2026-03-14T15:51:49Z
-  Total Products: 95
+  Updated: 2026-03-24T14:40:57Z
+  Total Products: 99
 - [BCBG Vintage](https://bcbgprovence.com/collections/bcbg-vintage): BCBG Vintage Accessories brings together unique, timeless pieces that add a touch of character to any outfit. Each accessory is full of vintage charm, perfect for everyday style with a fun, effortless twist.
   Updated: 2026-02-26T10:55:30Z
   Total Products: 17
