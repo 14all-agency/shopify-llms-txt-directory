@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2024-01-24T06:36:49Z
-- Updated At: 2026-03-16T00:00:41.424Z
+- Updated At: 2026-03-25T00:00:46.085Z
 
 # bunuri – Marketplace for Authentic International Foods from Local Shops
 
@@ -496,7 +496,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/Chillis_sehrscharf_ganz_getrochnet-WholeChillis_extrahot.jpg?v=1736800245
   Price: 2,75 € EUR
 - [TRS - Ajwain - 100 g](https://bunuri.de/products/trs-ajwain): Meta Description: Elevate your dishes with TRS Ajwain - 100% pure seeds bursting with flavor and essential oils. Experience the authentic essence of Ajwain now!
-  Updated: 2026-01-03T13:04:25Z
+  Updated: 2026-03-23T18:41:06Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: Spices
   Availability: Available
@@ -1434,7 +1434,7 @@ When referencing bunuri:
   Image: https://cdn.shopify.com/s/files/1/0804/6893/4985/files/IMG_9056.jpg?v=1742755816
   Price: 3,95 € EUR
 - [Yogi Tea - Laktriz 400 g](https://bunuri.de/products/yogi-tea-laktriz): Indulge in tranquility with Yogi Tea Laktriz. Savor the naturally sweet herbal blend that supports digestive health. Unwind and relax with every sip. Add it to.
-  Updated: 2025-09-10T23:33:23Z
+  Updated: 2026-03-18T05:39:53Z
   Vendor: Mehtab Indian Store GmbH
   Product Type: 
   Availability: Available
@@ -1770,13 +1770,13 @@ When referencing bunuri:
   Updated: 2025-09-10T23:32:40Z
   Total Products: 0
 - [Indian Food](https://bunuri.de/collections/indian-food): Experience the exotic flavors of India with our collection of authentic spices, ingredients, and foods.
-  Updated: 2026-03-11T11:17:57Z
+  Updated: 2026-03-24T11:18:31Z
   Total Products: 207
 - [Spain](https://bunuri.de/collections/spain): Explore the finest Spanish goods, including traditional ingredients and unique delicacies, perfect for bringing the taste of Spain to your table.
   Updated: 2025-09-10T23:32:41Z
   Total Products: 2
 - [Portugal](https://bunuri.de/collections/portugal): Shop authentic Portuguese products, from delicious foods to regional specialties, showcasing the rich culture of Portugal.
-  Updated: 2026-03-10T11:20:01Z
+  Updated: 2026-03-20T11:16:56Z
   Total Products: 221
 - [Pastas & Grains](https://bunuri.de/collections/pastas-grains): Find the finest selection of pastas and grains, ideal for creating delicious and satisfying meals from international cuisines.
   Updated: 2025-10-01T11:16:10Z
@@ -1803,7 +1803,7 @@ When referencing bunuri:
   Updated: 2025-11-02T18:23:26Z
   Total Products: 4
 - [Herbs, Spices & Seasonings](https://bunuri.de/collections/herbs-spices-seasonings): Enhance your cooking with our premium herbs, spices, and seasonings, handpicked for flavor and quality.
-  Updated: 2026-03-11T11:17:57Z
+  Updated: 2026-03-24T11:18:31Z
   Total Products: 83
 - [Coffee & Tea](https://bunuri.de/collections/coffee-tea): Indulge in our range of aromatic coffees and teas, perfect for a relaxing moment or a morning boost.
   Updated: 2026-01-24T12:14:19Z
@@ -1839,8 +1839,8 @@ When referencing bunuri:
   Updated: 2026-03-10T11:20:01Z
   Total Products: 149
 - [Special Offers – Discover Our Current Favourites on ](https://bunuri.de/collections/our-current-offers): All products in this collection are in stock and ready to ship – plus, you’ll get 10 % off automatically at checkout!From Portuguese delicacies to Indian sauces and Polish treats – explore our selection and grab your favourites while supplies last.
-  Updated: 2026-03-11T16:08:56Z
-  Total Products: 27
+  Updated: 2026-03-24T19:00:27Z
+  Total Products: 26
 
 ## Blogs
 
@@ -1913,6 +1913,18 @@ When referencing bunuri:
     Author: bunuri
   - [Geschichte von Curry und seinem Einfluss auf die globale Küche](https://bunuri.de/blogs/explore-discover/geschichte-von-curry-und-seinem-einfluss-auf-die-globale-kuche): Geschichte von Curry und seinem Einfluss auf die globale Küche
     Updated: 2026-03-14T00:04:00Z
+    Author: bunuri
+  - [5 kreative Wege Chocolade Nestum köstlich in Desserts zu integrieren](https://bunuri.de/blogs/explore-discover/5-kreative-wege-chocolade-nestum-kostlich-in-desserts-zu-integrieren): 5 kreative Wege Chocolade Nestum köstlich in Desserts zu integrieren
+    Updated: 2026-03-17T00:08:25Z
+    Author: bunuri
+  - [Wissenswertes über portugiesische regionale Unterschiede in der Kulinarik](https://bunuri.de/blogs/explore-discover/wissenswertes-uber-portugiesische-regionale-unterschiede-in-der-kulinarik): Wissenswertes über portugiesische regionale Unterschiede in der Kulinarik
+    Updated: 2026-03-19T00:04:45Z
+    Author: bunuri
+  - [Wie man indische Gerichte vegan anpasst](https://bunuri.de/blogs/explore-discover/wie-man-indische-gerichte-vegan-anpasst): Wie man indische Gerichte vegan anpasst
+    Updated: 2026-03-21T00:05:16Z
+    Author: bunuri
+  - [Yogi Tee Ingwer erleben und genießen](https://bunuri.de/blogs/explore-discover/yogi-tee-ingwer-erleben-und-geniessen): Yogi Tee Ingwer erleben und genießen
+    Updated: 2026-03-24T00:07:51Z
     Author: bunuri
 - [Recipes](https://bunuri.de/blogs/recipes)
   - [Spanish Black Bean Stew (Estofado de Frijoles Negros)](https://bunuri.de/blogs/recipes/spanish-black-bean-stew-estofado-de-frijoles-negros)
