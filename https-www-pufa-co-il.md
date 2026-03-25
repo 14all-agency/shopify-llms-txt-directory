@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-07-15T15:45:27Z
 - Contact Email: Pufa.co.il@gmail.com
-- Updated At: 2026-03-18T00:00:33.993Z
+- Updated At: 2026-03-25T00:00:35.347Z
 
 ## Products
 
