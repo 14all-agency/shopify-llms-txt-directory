@@ -6,27 +6,29 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-05-09T11:07:06Z
 - Contact Email: info@farmmedix.com
-- Updated At: 2026-03-17T23:24:02.748Z
+- Updated At: 2026-03-25T00:00:21.722Z
+
+Farm Medix is New Zealand's leading provider of mastitis diagnostics and lameness management solutions for dairy farmers. Farm Medix helps farmers improve milk quality, reduce antibiotic use, and boost herd performance. We offer expert 7-day support to help you get the best results.
 
 ## Products
 
 - [Stride-On™ Equine Hoof Health Leg Band](https://www.farmmedix.nz/products/stride-on-equine-leg-band): Stride-On™ is an easy-to-use leg band that supports and protects your horse’s hooves, helping prevent and treat mild common hoof conditions.
-  Updated: 2026-03-10T01:36:19Z
+  Updated: 2026-03-24T02:19:18Z
   Vendor: Farm Medix
   Product Type: Stride-On™ for Equine
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On_Equine_ca49a57f-3ee8-4889-a0c3-ff7a064f94b1.jpg?v=1769478731
+  Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On-Equine-leg-band-5.jpg?v=1774318626
   - [Reusable / Single Band](https://www.farmmedix.nz/products/stride-on-equine-leg-band?variant=45711380185307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On.jpg?v=1769481237
+    Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On-equine-leg-band-6.jpg?v=1774318757
     Price: $120.00 NZD
   - [Reusable / 2 Pack Bands](https://www.farmmedix.nz/products/stride-on-equine-leg-band?variant=45718806659291)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On.jpg?v=1769481237
+    Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On-equine-leg-band-6.jpg?v=1774318757
     Price: $240.00 NZD
   - [Reusable / 4 Packs Bands](https://www.farmmedix.nz/products/stride-on-equine-leg-band?variant=45711380250843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On.jpg?v=1769481237
+    Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On-equine-leg-band-6.jpg?v=1774318757
     Price: $399.00 NZD
 
 ## Collections
@@ -43,6 +45,9 @@
 - [Mega Menu - Featured Products](https://www.farmmedix.nz/collections/mega-menu-featured-products)
   Updated: 2026-01-14T22:51:51Z
   Total Products: 0
+- [APPPlaza - Best Sellers](https://www.farmmedix.nz/collections/appplaza-best-sellers)
+  Updated: 2026-03-21T22:39:50Z
+  Total Products: 3
 
 ## Blogs
 
@@ -51,7 +56,7 @@
     Updated: 2025-12-08T22:27:04Z
     Author: Farm Medix
   - [Jenny’s Success with On-Farm Mastitis Testing | Farm Medix](https://www.farmmedix.nz/blogs/dairy-farmers/jenny-onfarm-mastitis-testing): Jenny’s Success with On-Farm Mastitis Testing | Farm Medix
-    Updated: 2025-12-08T02:37:06Z
+    Updated: 2026-03-21T22:54:46Z
     Author: Farm Medix
   - [Longburn Farms: Reducing Mastitis to Under 5% | Farm Medix](https://www.farmmedix.nz/blogs/dairy-farmers/longburn-farms-reduces-mastitis-below-5-percent): Longburn Farms: Reducing Mastitis to Under 5% | Farm Medix
     Updated: 2025-12-08T03:24:42Z
@@ -63,7 +68,7 @@
     Updated: 2025-12-08T03:00:29Z
     Author: Farm Medix
   - [Plantation Road Dairies: Fresh Cow Dry Cow® Success Story](https://www.farmmedix.nz/blogs/dairy-farmers/how-plantation-road-dairies-stays-ahead-of-mastitis): Plantation Road Dairies: Fresh Cow Dry Cow® Success Story
-    Updated: 2025-12-08T03:44:54Z
+    Updated: 2026-03-21T22:54:45Z
     Author: Farm Medix
   - [Mark Foster - Smarter Mastitis Management](https://www.farmmedix.nz/blogs/dairy-farmers/mark-foster-smarter-mastitis-management): <p><meta charset="utf-8">Mark Foster relies on Farm Medix’s Fresh Cow Dry Cow® to quickly identify mastitis pathogens, treat cows effectively the first time, and save money on vet costs and milk loss. </p>
     Updated: 2025-12-11T00:54:23Z
@@ -144,7 +149,7 @@
     Updated: 2025-12-08T22:59:06Z
     Author: Farm Medix
   - [Stride-On Equine Case Study: Mud Fever Prevention in France](https://www.farmmedix.nz/blogs/stride-on-equine/stride-on-equine-mud-fever-france): Stride-On Equine Case Study: Mud Fever Prevention in France
-    Updated: 2026-01-23T07:04:06Z
+    Updated: 2026-03-23T23:15:40Z
     Author: Farm Medix
     Tags: Equine hoof care
   - [Stride-On Equine Case Study: Managing Chronic Mud Fever in a Show Horse](https://www.farmmedix.nz/blogs/stride-on-equine/chronic-mud-fever-show-horse): Stride-On Equine Case Study: Managing Chronic Mud Fever in a Show Horse
@@ -178,7 +183,7 @@
 ## Store Pages
 
 - [Contact Us | Farm Medix](https://www.farmmedix.nz/pages/contact): Have a question or want to know more about our services and solutions? Get in touch with us — we’re happy to help.
-  Updated: 2026-02-06T06:33:33Z
+  Updated: 2026-03-22T09:23:46Z
 - [Shipping Policy | Farm Medix](https://www.farmmedix.nz/pages/shipping-policy): Shipping Options Shipping options are shown at checkout and will vary depending on the delivery address. Please check your spam folders if you have...
   Updated: 2026-02-06T07:18:18Z
 - [Farm Medix - Mastitis Reduction, Prevention & Support | Terms](https://www.farmmedix.nz/pages/terms-of-service): OVERVIEW This website is operated by Farm Medix Ltd. Throughout the site, the terms “we”, “us” and “our” refer to Farm Medix. Farm Medix offers thi...
@@ -192,39 +197,39 @@
 - [Farm Medix | Do Not  Or Share My Personal Information](https://www.farmmedix.nz/pages/data--opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2024-09-16T21:32:53Z
 - [Herdscreen Staph. aureus Test | Cow-Level Mastitis Control](https://www.farmmedix.nz/pages/mastitis-herdscreen): Fast, accurate whole-herd mastitis screening. Identify hidden Staph. aureus carriers, protect milk quality, and regain herd control – Farm Medix NZ.
-  Updated: 2026-03-04T09:08:07Z
+  Updated: 2026-03-24T23:43:14Z
 - [Stride-On Equine | Hoof Health Band for Horses](https://www.farmmedix.nz/pages/hoofcare-stride-on-equine): Stride-On™ is an easy-to-use hoof health band for horses. Supports healthy hooves and helps prevent lameness with CopperFlow™ technology.
-  Updated: 2026-03-06T03:21:17Z
+  Updated: 2026-03-23T22:58:14Z
 - [Stride-On Bovine | Lameness Leg Band for Dairy Cows](https://www.farmmedix.nz/pages/lameness-stride-on-bovine): Stride-On™ is an easy-to-use leg band for cows that supports healthy hooves and helps prevent lameness with advanced CopperFlow™ technology.
-  Updated: 2026-03-16T22:32:38Z
+  Updated: 2026-03-24T02:42:02Z
 - [Water  - Chlorination for Safer, Compliant Water](https://www.farmmedix.nz/pages/water-): Farm Chlor kills harmful bacteria in your water. It greatly improves your animal health & productivity, and plant hygiene. Treat your troughs and w...
-  Updated: 2026-02-22T20:35:08Z
+  Updated: 2026-03-24T02:45:21Z
 - [Microbiology Lab Services | Farm Medix](https://www.farmmedix.nz/pages/laboratory-services): Independent microbiology testing and product validation for dairy, veterinary, and hygiene industries—accurate, practical, and trusted analysis by ...
-  Updated: 2026-03-04T09:11:50Z
+  Updated: 2026-03-24T01:12:41Z
 - [Farm Medix - FIL | GEA role and partnership](https://www.farmmedix.nz/pages/partners-fil): Farm Medix and FIL have partnered globally to provide on-farm mastitis testing and helping farmers improve milk quality and reduce antibiotic use.
-  Updated: 2026-02-22T20:33:42Z
+  Updated: 2026-03-24T01:12:00Z
 - [On-Farm Mastitis Testing | Fresh Cow Dry Cow](https://www.farmmedix.nz/pages/mastitis-freshcowdrycow): Lab-quality mastitis testing on-farm. Fast, accurate results for targeted  and antibiotic reduction. Fresh Cow Dry Cow by Farm Medix NZ.
-  Updated: 2026-03-05T21:08:43Z
+  Updated: 2026-03-24T23:40:28Z
 - [Farm Medix Partners | Trusted Global Dairy Health Network](https://www.farmmedix.nz/pages/partners): Farm Medix partners with industry leaders worldwide to deliver mastitis management and herd health solutions farmers can trust.
-  Updated: 2026-02-22T20:32:54Z
+  Updated: 2026-03-24T01:11:24Z
 - [About Farm Medix - Diagnostics & Practical Science for Animal Health](https://www.farmmedix.nz/pages/about-us): Farm Medix combines lab-grade diagnostics, practical on-farm tools and 7-day specialist support to help farmers, vets and horse owners improve anim...
-  Updated: 2026-03-15T04:54:42Z
+  Updated: 2026-03-24T01:10:21Z
 - [Dairy & livestock Solutions | Farm Medix](https://www.farmmedix.nz/pages/dairy-herd-health): Farm Medix helps you lift herd health and milk quality through on-farm mastitis testing, lameness management, water- solutions, and microb...
-  Updated: 2026-02-22T20:35:44Z
+  Updated: 2026-03-24T23:35:34Z
 - [Science-Led Bovine Mastitis Management for Dairy Farmers | Farm Medix](https://www.farmmedix.nz/pages/mastitis-management): Mastitis costs milk, time and peace of mind. Farm Medix delivers lab-grade mastitis diagnostics, expert support and practical herd strategies to br...
-  Updated: 2026-02-22T20:36:19Z
+  Updated: 2026-03-24T23:38:20Z
 - [Bulk-Tank Mastitis Testing | Snapshot®](https://www.farmmedix.nz/pages/mastitis-snapshot): Find the real cause of high SCC and mastitis fast. Snapshot® provides a clear action plan to lower SCC, improve herd health, and boost returns.
-  Updated: 2026-03-06T00:04:05Z
+  Updated: 2026-03-24T23:45:19Z
 - [Sitemap | Farm Medix](https://www.farmmedix.nz/pages/html-sitemap): A complete index of Farm Medix website pages, designed to help search engines crawl and understand all pages visible in Google search results.
   Updated: 2026-02-06T06:44:24Z
 - [Contact Us | Farm Medix](https://www.farmmedix.nz/pages/contactus): Have questions about mastitis solutions, equine leg bands, or farm support? Contact Farm Medix - our team is ready to assist you wherever you are.
-  Updated: 2026-02-22T04:05:20Z
+  Updated: 2026-03-20T08:42:57Z
 - [Staph aureus Mastitis: ,  & Control](https://www.farmmedix.nz/pages/staph-aureus-mastitis): Staph aureus mastitis explained: symptoms, spread, SCC impact, and  limits. Learn evidence-based control and diagnostics with Snapshot®️, Fresh...
-  Updated: 2026-02-22T20:31:23Z
+  Updated: 2026-03-24T01:10:52Z
 - [Veterinarians Partner with Farm Medix for Mastitis Diagnostics](https://www.farmmedix.nz/pages/veterinary-partners): Partner with Farm Medix for veterinary mastitis diagnostics, lab support, and actionable herd management solutions.
-  Updated: 2026-02-19T23:10:25Z
+  Updated: 2026-03-24T02:51:16Z
 - [Mastitis Management Explained: From Detection to Action](https://www.farmmedix.nz/pages/mastitis-management-explained): Modern mastitis management goes beyond detection. Learn how alerts become diagnoses, targeted actions, and long-term prevention with Farm Medix.
-  Updated: 2026-02-20T09:55:28Z
+  Updated: 2026-03-24T02:49:58Z
 
 ## Policies
 
@@ -243,3 +248,5 @@
 
 - [robots.txt](https://www.farmmedix.nz/robots.txt)
 - [sitemap.xml](https://www.farmmedix.nz/sitemap.xml)
+
+Farm Medix proudly serves dairy farmers across New Zealand, Australia, France, Japan, Canada, the USA, and globally. Visit www.farmmedix.nz for mastitis diagnostics, lameness management tools, and 7-day expert support.
