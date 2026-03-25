@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-09-05T15:31:37Z
 - Contact Email: ezdorestore@gmail.com
-- Updated At: 2026-03-18T00:00:44.919Z
+- Updated At: 2026-03-25T00:00:46.533Z
 
 ## Products
 
@@ -433,6 +433,12 @@
     Author: User
   - [The VR versus AR Versus MR Showdown: Understanding Each Technology](https://ezdore.com/blogs/news/the-vr-versus-ar-versus-mr-showdown-understanding-each-technology): The VR versus AR Versus MR Showdown: Understanding Each Technology
     Updated: 2026-03-15T00:05:47Z
+    Author: User
+  - [Top 5 Mobile Payment Trends Shaping the Future of Finance](https://ezdore.com/blogs/news/top-5-mobile-payment-trends-shaping-the-future-of-finance): Top 5 Mobile Payment Trends Shaping the Future of Finance
+    Updated: 2026-03-18T00:27:17Z
+    Author: User
+  - [How Quantum Computing May Solve Today’s Intractable Problems](https://ezdore.com/blogs/news/how-quantum-computing-may-solve-today-s-intractable-problems): How Quantum Computing May Solve Today’s Intractable Problems
+    Updated: 2026-03-22T00:05:40Z
     Author: User
 
 ## Store Pages
