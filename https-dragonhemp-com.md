@@ -6,26 +6,26 @@
 - Timezone: America/New_York
 - Created At: 2021-09-02T21:46:58Z
 - Contact Email: info@dragonhemp.com
-- Updated At: 2026-03-18T00:00:29.107Z
+- Updated At: 2026-03-26T00:00:34.894Z
 
 ## Products
 
 - [Energy Gummies with Lion's Mane | Focus & No-Crash | Dragon Hemp](https://dragonhemp.com/products/energy): Sharpen focus and reclaim momentum with Lion’s Mane, Yerba Mate & THCV. A clean-burning, practitioner-formulated energy boost without the crash or jitters.
-  Updated: 2026-03-17T19:47:17Z
+  Updated: 2026-03-25T15:28:02Z
   Vendor: Dragon Hemp
   Product Type: Essential Wellbeing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/Productthumbnail-transparentw_floorshadowcopy.png?v=1760121766
   Price: $30.00 USD
 - [Calming Gummies with CBD for Stress & Anxiety | Full-Spectrum | Dragon Hemp](https://dragonhemp.com/products/calming-gummies): Quiet the mental noise and buffer daily stress. Our Full-Spectrum CBD gummies are practitioner-formulated to ground the nervous system and support a resilient reset without dulling your senses.
-  Updated: 2026-03-17T07:32:03Z
+  Updated: 2026-03-25T17:29:30Z
   Vendor: Dragon Hemp
   Product Type: Essential Wellbeing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/Calming-Productthumbnail-transparentw_floorshadow.png?v=1738347472
   Price: $30.00 USD
 - [Leisure Gummies with THC | Edibles for Socializing | Dragon Hemp](https://dragonhemp.com/products/leisure-gummies): A sophisticated, alcohol-free alternative for a balanced social uplift. These micro-dosed THC edibles are formulated with CBD and CBC to shift your perspective and enhance connection without the hangover.
-  Updated: 2026-03-17T19:48:06Z
+  Updated: 2026-03-25T23:16:56Z
   Vendor: Dragon Hemp
   Product Type: Essential Wellbeing
   Availability: Available
@@ -43,49 +43,49 @@
     Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/Leisure-Productthumbnail-transparentw_floorshadow.png?v=1761855208
     Price: $35.00 USD
 - [Wellness Tincture | Organic Full-Spectrum CBD | Dragon Hemp](https://dragonhemp.com/products/wellness-tincture): Build your baseline with our  Organic Wellness Tincture. A foundational daily ritual designed to support immune function and systemic balance for lasting resilience.
-  Updated: 2026-03-17T07:32:04Z
+  Updated: 2026-03-25T15:44:26Z
   Vendor: Dragon Hemp
   Product Type: Essential Wellbeing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/productthumb_wellnesstincture_680b5453-a3b8-41f1-b3d3-fccdf57708d3.png?v=1750173945
   Price: $45.00 USD
 - [Recovery Tincture | CBD & TCM Herbs for Muscles & Joints | Dragon Hemp](https://dragonhemp.com/products/recovery-tincture): A restorative ritual to bridge effort and resilience. Our Recovery Tincture uses nano-encapsulated cannabinoids and Chinese herbs to dissolve tension and restore momentum. Because your ability to bounce back shouldn’t be a bottleneck.
-  Updated: 2026-03-17T07:32:05Z
+  Updated: 2026-03-25T15:53:32Z
   Vendor: Dragon Hemp
   Product Type: Aches & Pains
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/productthumb_recoverytincture_ac2e73ba-ab70-4a08-a7f6-277cd182333c.png?v=1748184399
   Price: $45.00 USD
 - [Sleep Tincture (CBN & Chinese herbs) | Deep Sleep Drops | Dragon Hemp](https://dragonhemp.com/products/sleep-tincture): Deep sleep drops for uninterrupted rest. A fast-acting, melatonin-free tincture blending CBN with time-tested Chinese herbs for deep, restorative sleep.
-  Updated: 2026-03-17T16:31:49Z
+  Updated: 2026-03-25T21:24:27Z
   Vendor: Dragon Hemp
   Product Type: Rest & Restoration
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/productthumb_sleeptincture_8076610c-643b-4168-9cd0-bc0e2002331c.png?v=1749744451
   Price: $49.00 USD
 - [Warming Balm | CBD & Chinese Herbs for Stiff Muslces & Joints | Dragon Hemp](https://dragonhemp.com/products/warming-balm): Experience deep, soothing heat with Warming Balm, practitioner-formulated full-spectrum hemp and warming Chinese botanicals designed to rekindle dormant joints. Because finding your flow should be effortless.
-  Updated: 2026-03-17T07:32:06Z
+  Updated: 2026-03-25T15:39:24Z
   Vendor: Dragon Hemp
   Product Type: Aches & Pains
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/productthumb_warmingbalm_72ab3474-ea55-4e93-8111-50dd1d174444.png?v=1688647349
   Price: $59.00 USD
 - [Cooling Balm | CBD & Chinese Herbs for Sore Muscles & Joints | Dragon Hemp](https://dragonhemp.com/products/cooling-balm): An icy rush to comfort overworked muscles and joints, Cooling Balm pairs high-potency hemp with 'dit da jow' botanicals to diffuse heat. Keeping your cool shouldn't keep you frozen in place.
-  Updated: 2026-03-17T07:32:07Z
+  Updated: 2026-03-25T15:39:44Z
   Vendor: Dragon Hemp
   Product Type: Aches & Pains
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/productthumb_coolingbalm_10db7861-5cf9-49c6-abd2-6c60b924b9a3.png?v=1688648684
   Price: $59.00 USD
 - [Sleep Gummies (THC-Free) | CBN for Natural Sleep | Dragon Hemp](https://dragonhemp.com/products/sleep-gummies): Achieve natural sleep with our THC-free CBN gummies. A melatonin-free blend of Chinese herbs that helps you stay asleep longer and wake up clear-headed.
-  Updated: 2026-03-17T07:32:07Z
+  Updated: 2026-03-25T17:28:23Z
   Vendor: Dragon Hemp
   Product Type: Rest & Restoration
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/2339/1905/files/Productthumbnail-transparentw_floorshadow_ffed4870-ce80-4d07-9202-0d7a752e8828.png?v=1738351927
   Price: $40.00 USD
 - [Sleep Gummies+ (2.5mg THC) | Fall Asleep Faster | Dragon Hemp](https://dragonhemp.com/products/sleep-gummies-1): Fall asleep faster with 2.5mg THC, CBN & CBD. This melatonin-free formula quiets the mind for a quick transition to deep rest without morning grogginess.
-  Updated: 2026-03-17T20:23:47Z
+  Updated: 2026-03-25T19:51:07Z
   Vendor: Dragon Hemp
   Product Type: Rest & Restoration
   Availability: Available
@@ -101,46 +101,46 @@
 ## Collections
 
 - [Home page](https://dragonhemp.com/collections/frontpage)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 8
 - [Shop All Products](https://dragonhemp.com/collections/shop-all)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 8
 - [REST](https://dragonhemp.com/collections/rest)
   Updated: 2024-10-26T15:31:17Z
   Total Products: 1
 - [REACH](https://dragonhemp.com/collections/reach)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 5
 - [small_test_collection](https://dragonhemp.com/collections/small_test_collection)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 3
 - [CAPSULE](https://dragonhemp.com/collections/capsule)
   Updated: 2024-12-03T18:39:09Z
   Total Products: 3
 - [High-Bioavailability CBD Tinctures | Full-Spectrum | Dragon Hemp](https://dragonhemp.com/collections/tincture): Fast-acting sublingual formulas for systemic support. Choose Wellness, Sleep, or Recovery Tinctures to restore internal equilibrium.
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 3
 - [BALM](https://dragonhemp.com/collections/balm)
   Updated: 2024-08-27T20:25:20Z
   Total Products: 1
 - [FORM](https://dragonhemp.com/collections/form)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 7
 - [Best  Wellness Essentials | CBD & Chinese Herbs | Dragon Hemp](https://dragonhemp.com/collections/best-seller): The foundation of the Dragon Hemp ritual. Explore our community’s most-trusted formulas for sleep, stress, and physical recovery.
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 20
 - [BENEFIT](https://dragonhemp.com/collections/benefit)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 7
 - [BUNDLES](https://dragonhemp.com/collections/bundles)
   Updated: 2024-10-26T15:30:21Z
   Total Products: 1
 - [Landing Page Best Sellers](https://dragonhemp.com/collections/landing-page-best-sellers)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 11
 - [All Products](https://dragonhemp.com/collections/all-products)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 38
 - [Month Popular](https://dragonhemp.com/collections/month-popular)
   Updated: 2024-12-03T18:39:09Z
@@ -149,16 +149,16 @@
   Updated: 2024-08-27T20:25:21Z
   Total Products: 0
 - [LAUNCH LINE-UP](https://dragonhemp.com/collections/launch-line-up)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 14
 - [Aches & Pains | CBD & Chinese Herbs for Inflammation | Dragon Hemp](https://dragonhemp.com/collections/aches-pains): Targeted recovery for physical stagnation. Shop our Warming Balm, Cooling Balm, and Recovery Tinctures for clinical-grade inflammatory support.
-  Updated: 2026-03-16T11:15:08Z
+  Updated: 2026-03-24T11:13:31Z
   Total Products: 4
 - [Rest & Restoration | CBD, CBN & Chinese Herbs | Dragon Hemp](https://dragonhemp.com/collections/rest-restoration): Optimize your circadian rhythm with Sleep Gummies and Tinctures. Expertly formulated to address restlessness and promote deep restoration.
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 5
 - [Essential Wellbeing | Full-Spectrum CBD & Legal THC | Dragon Hemp](https://dragonhemp.com/collections/essential-wellness): Optimize your daily equilibrium with practitioner-formulated Wellness Tinctures and Gummies. Restore focus and calm the nervous system with clinical cannabinoids.
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 6
 - [Body Care | Discover The Liniment Collection](https://dragonhemp.com/collections/liniments): A fresh approach to body care centered on powerful relief. Crafted with the finest ingredients, Liniments provide a grounding experience, inviting you to embrace and celebrate self-care.
   Updated: 2025-08-07T11:09:04Z
@@ -179,10 +179,10 @@
   Updated: 2025-06-10T11:01:35Z
   Total Products: 8
 - [Practitioner-Formulated Full-Spectrum CBD Formulas | Dragon Hemp](https://dragonhemp.com/collections/cbd-1): Clinical-grade organically grown CBD. Shop our full collection designed to regulate the nervous system and support the ECS.
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 12
 - [Premium Legal THC | Hemp-Derived Delta-9 | Dragon Hemp](https://dragonhemp.com/collections/legal-thc): Discover the therapeutic benefits of legal, hemp-derived THC. Formulated for leisure and deep relaxation without the stoner stigma.
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 4
 - [Liniment Sets](https://dragonhemp.com/collections/liniment-sets)
   Updated: 2025-06-10T11:01:35Z
@@ -191,16 +191,16 @@
   Updated: 2025-08-07T11:09:04Z
   Total Products: 12
 - [Clinical Cannabinoid Gummies | Vegan & low-sugar | Dragon Hemp](https://dragonhemp.com/collections/gummies): Experience precise dosing and high bioavailability. Shop Sleep, Leisure, Calming and Energy Gummies formulated for systemic balance and relief.
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 5
 - [Leisure](https://dragonhemp.com/collections/leisure)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 1
 - [BODY LOTIONS](https://dragonhemp.com/collections/lotions)
   Updated: 2025-08-07T11:09:04Z
   Total Products: 4
 - [Topical Balms for Targeted Relief | Hemp Extract & Chinese Herbs | Dragon Hemp](https://dragonhemp.com/collections/balms): Powerful botanical topicals for joint and muscle support. Our Warming and Cooling Balms provide immediate relief for physical discomfort.
-  Updated: 2026-03-16T11:15:08Z
+  Updated: 2026-03-24T11:13:31Z
   Total Products: 2
 - [BODY OILS](https://dragonhemp.com/collections/body-oils)
   Updated: 2025-06-10T11:03:59Z
@@ -209,13 +209,13 @@
   Updated: 2025-06-10T11:03:13Z
   Total Products: 4
 - [In-Stock Products](https://dragonhemp.com/collections/in-stock-products)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 32
 - [Pair with Sleep Gummies+](https://dragonhemp.com/collections/pair-with-sleep-gummies)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 5
 - [Workplace Friendly (THC-Free)](https://dragonhemp.com/collections/workplace-friendly-thc-free)
-  Updated: 2026-03-17T11:12:38Z
+  Updated: 2026-03-25T11:13:43Z
   Total Products: 1
 
 ## Blogs
@@ -259,12 +259,12 @@
     Author: Dragon Hemp
     Tags: Estrogen, Joint Pain, Recovery Tincture
   - [Chinese Body Clock: Why You Wake Up at 3 AM & How to Fix It](https://dragonhemp.com/blogs/news/chinese-body-clock-sleep-disruption): Chinese Body Clock: Why You Wake Up at 3 AM & How to Fix It
-    Updated: 2026-03-09T21:24:58Z
+    Updated: 2026-03-25T17:53:54Z
     Author: Dragon Hemp
     Tags: Chinese body clock, Chinese Organ Clock, Circadian Rhythm, ECS, Sleep Tincture
 - [The Science of TCM & Cannabinoids | Dragon Hemp](https://dragonhemp.com/blogs/learn): Master your wellbeing with clinical guides on the Endocannabinoid System, Traditional Chinese , and plant-based recovery for sleep, pain, and stress.
   - [Is Delta 9 Legal in Florida? 2026 Guide to State Laws](https://dragonhemp.com/blogs/learn/are-delta-9-gummies-legal-in-florida): Is Delta 9 Legal in Florida? 2026 Guide to State Laws
-    Updated: 2026-03-05T12:32:12Z
+    Updated: 2026-03-22T09:06:32Z
     Author: Mike Terry
     Tags: Delta 9 THC
   - [ Alchemy: The Best Botanical Herbs to Mix with CBD](https://dragonhemp.com/blogs/learn/herbs-to-mix-with-):  Alchemy: The Best Botanical Herbs to Mix with CBD
@@ -272,21 +272,21 @@
     Author: Dragon Hemp
     Tags: Herbs
   - [Dragon’s Blood for Skin: Benefits & How to Use This Resin](https://dragonhemp.com/blogs/learn/how-to-use-dragons-blood-for-skin): Dragon’s Blood for Skin: Benefits & How to Use This Resin
-    Updated: 2026-03-05T12:40:09Z
+    Updated: 2026-03-22T09:10:19Z
     Author: Mike Terry
   - [CBD Buying Guide: 5 Essential Questions to Ask First](https://dragonhemp.com/blogs/learn/five-questions-you-should-ask-when-buying-cbd): CBD Buying Guide: 5 Essential Questions to Ask First
     Updated: 2026-03-05T12:43:22Z
     Author: KEVIN MENARD
     Tags: Cannabinoids, CBD
   - [THCV vs. THC: Understanding the "Diet " Cannabinoid](https://dragonhemp.com/blogs/learn/what-is-thcv-vs-thc): THCV vs. THC: Understanding the "Diet " Cannabinoid
-    Updated: 2026-03-05T12:51:45Z
+    Updated: 2026-03-22T09:04:55Z
     Author: Mike Terry
   - [The Physical Effects of CBC: TRP Receptors & Inflammation](https://dragonhemp.com/blogs/learn/cbc-cannabinoid-effects): The Physical Effects of CBC: TRP Receptors & Inflammation
     Updated: 2026-03-04T12:33:47Z
     Author: Dragon Hemp
     Tags: Cannabinoids
   - [What is THCV? Effects, Benefits, and Does It Get You High?](https://dragonhemp.com/blogs/learn/does-thcv-get-you-high): What is THCV? Effects, Benefits, and Does It Get You High?
-    Updated: 2026-03-05T12:43:21Z
+    Updated: 2026-03-22T09:08:28Z
     Author: Mike Terry
   - [Amplifying CBD: The Synergy of Cannabinoids & Chinese Herbs](https://dragonhemp.com/blogs/learn/how-we-make-cbd-more-effective-with-chinese-herbs): Amplifying CBD: The Synergy of Cannabinoids & Chinese Herbs
     Updated: 2026-03-05T12:36:02Z
@@ -695,8 +695,8 @@
   - [Embracing Autumn: 5 Fall Activities to Soothe Your Soul](https://dragonhemp.com/blogs/learn/embrace-the-magic-of-autumn-5-fall-activities-to-soothe-your-soul): Embracing Autumn: 5 Fall Activities to Soothe Your Soul
     Updated: 2024-10-17T21:41:04Z
     Author: Dragon Hemp
-  - [Microdosing THC for Sleep: Why 2.5mg is the Optimal Dose](https://dragonhemp.com/blogs/learn/the-best-thc-dose-for-sleep-why-25mg-of-thc-is-optimal): Microdosing THC for Sleep: Why 2.5mg is the Optimal Dose
-    Updated: 2026-03-05T12:45:55Z
+  - [How Much THC for Sleep? Why 2.5mg Is the Optimal Dose](https://dragonhemp.com/blogs/learn/the-best-thc-dose-for-sleep-why-25mg-of-thc-is-optimal): How Much THC for Sleep? Why 2.5mg Is the Optimal Dose
+    Updated: 2026-03-25T22:36:41Z
     Author: Dragon Hemp
   - [9 Ways You Can Boost Your Serotonin Levels, Naturally](https://dragonhemp.com/blogs/learn/9-ways-to-boost-serotonin-naturally): 9 Ways You Can Boost Your Serotonin Levels, Naturally
     Updated: 2024-11-06T22:19:15Z
@@ -761,7 +761,7 @@
     Updated: 2026-02-19T01:37:29Z
     Author: Dragon Hemp
   - [Can Stress Affect Your Sleep? Understanding the connection](https://dragonhemp.com/blogs/learn/can-stress-affect-your-sleep-understanding-the-connection-between-stress-and-sleep): Can Stress Affect Your Sleep? Understanding the connection
-    Updated: 2026-02-19T01:42:03Z
+    Updated: 2026-03-25T17:51:54Z
     Author: Dragon Hemp
   - [Federal Hemp Ban: How It Affects You and the Future of Hemp](https://dragonhemp.com/blogs/learn/the-new-federal-hemp-ban-what-it-means-for-you-and-the-future-of-the-hemp-industry): Federal Hemp Ban: How It Affects You and the Future of Hemp
     Updated: 2026-03-03T11:02:45Z
@@ -802,6 +802,30 @@
     Tags: CBD, Chinese Herbs, hormonal balance
   - [Muscle Pain Relief: Clinical Fixes for Lower Back Tightness](https://dragonhemp.com/blogs/learn/muscle-pain-relief-lower-back-tightness): Muscle Pain Relief: Clinical Fixes for Lower Back Tightness
     Updated: 2026-03-15T07:16:40Z
+    Author: Dragon Hemp
+  - [The Circadian Bookend: Energy & Deep Sleep Protocol](https://dragonhemp.com/blogs/learn/circadian-bookend-energy-sleep-protocol): The Circadian Bookend: Energy & Deep Sleep Protocol
+    Updated: 2026-03-20T19:37:13Z
+    Author: Dragon Hemp
+  - [Calming Tea: The Chinese Herbal Tea Guide for Stress & Sleep](https://dragonhemp.com/blogs/learn/calming-tea-chinese-herbal-tea-stress-sleep): Calming Tea: The Chinese Herbal Tea Guide for Stress & Sleep
+    Updated: 2026-03-25T17:58:55Z
+    Author: Dragon Hemp
+  - [What Is Chrysanthemum Tea? The TCM Guide to Ju Hua](https://dragonhemp.com/blogs/learn/what-is-chrysanthemum-tea-ju-hua-tcm): What Is Chrysanthemum Tea? The TCM Guide to Ju Hua
+    Updated: 2026-03-25T17:47:00Z
+    Author: Dragon Hemp
+  - [What Is Suan Zao Ren Tang? TCM's Gold Standard for Insomnia](https://dragonhemp.com/blogs/learn/what-is-suan-zao-ren-tang): What Is Suan Zao Ren Tang? TCM's Gold Standard for Insomnia
+    Updated: 2026-03-25T19:08:43Z
+    Author: Dragon Hemp
+  - [The Nightly Restoration Protocol | Dragon Hemp](https://dragonhemp.com/blogs/learn/nightly-restoration-protocol): The Nightly Restoration Protocol | Dragon Hemp
+    Updated: 2026-03-25T17:56:30Z
+    Author: Dragon Hemp
+  - [THC and REM Sleep — Why High Doses Hurt More Than They Help](https://dragonhemp.com/blogs/learn/thc-rem-sleep-dose-effects): THC and REM Sleep — Why High Doses Hurt More Than They Help
+    Updated: 2026-03-25T19:53:49Z
+    Author: Dragon Hemp
+  - [THC Tolerance for Sleep — How to Avoid Building Dependency](https://dragonhemp.com/blogs/learn/thc-tolerance-sleep-how-to-avoid): THC Tolerance for Sleep — How to Avoid Building Dependency
+    Updated: 2026-03-25T22:31:00Z
+    Author: Dragon Hemp
+  - [How Long Before Bed Should You Take THC for Sleep?](https://dragonhemp.com/blogs/learn/how-long-before-bed-take-thc-sleep): How Long Before Bed Should You Take THC for Sleep?
+    Updated: 2026-03-25T23:21:12Z
     Author: Dragon Hemp
 - [Press & Media: Dragon Hemp in the Clinical Spotlight](https://dragonhemp.com/blogs/press): Explore Dragon Hemp in the press. See why leading wellness authorities and practitioners trust our high-end apothecary for performance and recovery.
   - [Guest of a Guest : The Healing Power Of CBD in the Hamptons”](https://dragonhemp.com/blogs/press/guest-of-guest-august-2022): Guest of a Guest : The Healing Power Of CBD in the Hamptons”
@@ -885,11 +909,11 @@
 - [Dragon Hemp | Terms of Service](https://dragonhemp.com/pages/terms-of-service): Dragon Hemp LLC Terms of Service Please read these terms of service ("Terms", "terms of service") carefully before using the website (the "Service"...
   Updated: 2022-01-03T14:44:19Z
 - [Shipping, Returns & Quality Assurance | Dragon Hemp](https://dragonhemp.com/pages/return-policy): Our Practitioner's Promise At Dragon Hemp, we approach your wellness the same way our founder, Kevin Menard, LAc, approaches his patients in the cl...
-  Updated: 2026-03-07T00:37:50Z
+  Updated: 2026-03-24T11:59:54Z
 - [Dragon Hemp | Privacy Policy](https://dragonhemp.com/pages/privacy-policy): Dragon Hemp LLC Privacy Policy At Dragon Hemp LLC, we are committed to maintaining the accuracy, confidentiality, and security of your personal inf...
   Updated: 2022-01-03T14:45:01Z
 - [Dragon Hemp | FAQ | Dosing, Safety & Product Guide](https://dragonhemp.com/pages/faq): I. Apothecary, Ingredients & Formulas What does the name Dragon Hemp mean? It is the balance of two worlds. "Dragon" represents the active, Yang en...
-  Updated: 2026-03-07T01:41:47Z
+  Updated: 2026-03-22T13:35:42Z
 - [Lab Testing & COA: Clinical Transparency | Dragon Hemp](https://dragonhemp.com/pages/testing-results): See the following links to the Certificates of Analysis (COA) for Dragon Hemp products. Aches & Pains Collection Cooling Balm Recovery Tincture War...
   Updated: 2026-02-26T22:04:33Z
 - [Dragon Hemp | CBD Hemp & Chinese Herbs | For Recovery & Performance](https://dragonhemp.com/pages/dh-summer-22): Practitioner FormulatedCBD Hemp for Performance & Recovery Perform Better, Recover Faster & Sleep Sounder with Premium CBD amplified by Chinese Her...
