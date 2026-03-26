@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-03-31T14:23:41Z
 - Contact Email: Fluffy@hotcatgames.com
-- Updated At: 2026-03-19T00:00:38.313Z
+- Updated At: 2026-03-26T00:00:41.658Z
 
 Hot Cat Games makes strategic, replayable card games with a cat theme. Founded in the UK with a cat acting as CEO. Two games available: Fat Cats (a stock market  card game with 72 million possible markets) and Furball (a strategic card game with sabotage). Designed for adults and families, ages 8+.
 
