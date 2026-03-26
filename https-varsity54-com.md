@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-05-07T16:14:32Z
 - Contact Email: hello@varsity54.com
-- Updated At: 2026-03-16T00:00:35.478Z
+- Updated At: 2026-03-26T00:00:38.559Z
 
 ## Products
 
 - [University of Ghana Faded Blue Tee](https://varsity54.com/products/ug-faded-blue-tee): University of Ghana Faded Blue Tee with contrasting yellow vintage print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:04Z
+  Updated: 2026-03-25T14:42:48Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Ghana Faded Blue Hoodie](https://varsity54.com/products/ug-faded-blue-hoodie): University of Ghana Faded Blue Hoodie with contrasting yellow vintage print High-Quality Cotton Hoodie.
-  Updated: 2026-03-15T11:02:03Z
+  Updated: 2026-03-25T14:42:27Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -53,14 +53,14 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Ghana Faded Blue Baseball Hat](https://varsity54.com/products/ug-faded-blue-hat): University of Ghana Faded Blue hat with contrasting yellow embroidery High-Quality Cotton hat.
-  Updated: 2026-03-15T10:51:08Z
+  Updated: 2026-03-25T14:32:14Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/hatG-4.png?v=1711381901
   Price: $40.00 USD
 - [University of Ghana Heavy Faded Indigo Tee](https://varsity54.com/products/ug-heavy-faded-indigo-tee): University of Ghana Heavy Faded Indigo Tee with contrasting Blue/yellow print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:03:09Z
+  Updated: 2026-03-25T14:43:18Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Ghana Heavy Faded Indigo Tee](https://varsity54.com/products/ug-heavy-faded-bone-tee): University of Ghana Heavy Faded Bone Tee with contrasting yellow/blue vintage print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:58Z
+  Updated: 2026-03-25T14:43:14Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -102,7 +102,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Ghana Faded Blue Sweatshorts](https://varsity54.com/products/ug-faded-blue-sweatshorts): University of Ghana Faded Blue Sweatshorts with contrasting yellow vintage print High-Quality Cotton Sweatshorts
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:43:22Z
   Vendor: Varsity 54
   Product Type: Shorts
   Availability: Available
@@ -123,7 +123,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Ghana Heavy Faded Khaki Tee](https://varsity54.com/products/ug-heavy-faded-khaki-tee): University of Ghana Faded Khaki Tee with contrasting blue and yellow vintage print front and back High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:18Z
+  Updated: 2026-03-25T14:42:36Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -144,7 +144,7 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Ghana Premium Heather Hoodie](https://varsity54.com/products/ug-premium-hoodie-heather-grey): University of Ghana Premium Heather Hoodie with contrasting blue/yellow print High-Quality Cotton French Terry Hoodie.
-  Updated: 2026-03-15T11:02:58Z
+  Updated: 2026-03-25T14:43:14Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -165,7 +165,7 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Ghana Premium Heather Crew](https://varsity54.com/products/ug-premium-crew-heather-grey): University of Ghana Premium Heather Crew with contrasting blue/yellow print High-Quality Cotton French Terry Crew.
-  Updated: 2026-03-15T11:02:19Z
+  Updated: 2026-03-25T14:42:38Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -186,7 +186,7 @@
     Availability: Available
     Price: $52.00 USD
 - [University of Ghana Yellow Tee](https://varsity54.com/products/ug-yellow-tee-11): University of Ghana Yellow Tee with contrasting bold blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:24Z
+  Updated: 2026-03-25T14:42:25Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -207,7 +207,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Yellow Tee](https://varsity54.com/products/ug-yellow-tee-12): University of Ghana Yellow Tee with contrasting outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:03:19Z
+  Updated: 2026-03-25T14:42:40Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Yellow Tee](https://varsity54.com/products/ug-yellow-tee-13): University of Ghana Yellow Tee with contrasting outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:35Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -249,7 +249,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-heather-grey-tee-14): University of Ghana Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:03:18Z
+  Updated: 2026-03-25T14:42:39Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -270,7 +270,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-heather-grey-tee-15): University of Ghana Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:19Z
+  Updated: 2026-03-25T14:42:37Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -291,7 +291,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-heather-grey-tee-16): University of Ghana Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:03:12Z
+  Updated: 2026-03-25T14:43:28Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -312,7 +312,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-heather-grey-tee-17): University of Ghana Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:42:21Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -333,7 +333,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-heather-grey-tee-18): University of Ghana Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:03:17Z
+  Updated: 2026-03-25T14:42:39Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -354,7 +354,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-heather-grey-tee-19): University of Ghana Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:42:21Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -375,7 +375,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Faded Navy Tee](https://varsity54.com/products/ug-faded-navy-tee-20): University of Ghana Faded Navy Tee with contrasting print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:23Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -396,7 +396,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Faded Navy Tee](https://varsity54.com/products/ug-faded-navy-tee-21): University of Ghana Faded Navy Tee with contrasting print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:03:01Z
+  Updated: 2026-03-25T14:43:14Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -417,7 +417,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Navy Joggers](https://varsity54.com/products/ug-navy-joggers): University of Ghana Navy Joggers with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:03:01Z
+  Updated: 2026-03-25T14:42:25Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -438,7 +438,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana Premium Faded Navy Hoodie](https://varsity54.com/products/ug-premium-hoodie-faded-navy-24): University of Ghana Premium Faded Navy Hoodie with contrasting blue/yellow print High-Quality Cotton French Terry Hoodie.
-  Updated: 2026-03-15T11:01:55Z
+  Updated: 2026-03-25T14:42:42Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -459,7 +459,7 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Ghana Premium Faded Navy Hoodie](https://varsity54.com/products/ug-premium-hoodie-faded-navy-25): University of Ghana Premium Faded Navy Hoodie with contrasting blue/yellow print High-Quality Cotton French Terry Hoodie.
-  Updated: 2026-03-15T11:02:41Z
+  Updated: 2026-03-25T14:42:47Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -480,7 +480,7 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Ghana Premium Faded Navy Crew](https://varsity54.com/products/ug-premium-crew-faded-navy-26): University of Ghana Premium Faded Navy Crew with contrasting blue/yellow print High-Quality Cotton French Terry Crew.
-  Updated: 2026-03-15T11:02:24Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -501,7 +501,7 @@
     Availability: Available
     Price: $52.00 USD
 - [University of Ghana Premium Faded Navy Crew](https://varsity54.com/products/ug-premium-crew-faded-navy-27): University of Ghana Premium Faded Navy Crew with contrasting blue/yellow print High-Quality Cotton French Terry Crew.
-  Updated: 2026-03-15T11:02:41Z
+  Updated: 2026-03-25T14:42:39Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -522,7 +522,7 @@
     Availability: Available
     Price: $52.00 USD
 - [University of Ghana Premium Heather Grey Joggers](https://varsity54.com/products/ug-heather-grey-track-pants): University of Ghana UG PREMIUM HEATHER GREY JOGGERSs with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:01:40Z
+  Updated: 2026-03-25T14:42:43Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -543,7 +543,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana UG Heather Grey Joggers](https://varsity54.com/products/ug-heather-grey-joggers): University of Ghana UG Heather Grey Joggers with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:02:31Z
+  Updated: 2026-03-25T14:44:12Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -564,7 +564,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana Heather Grey Sweatshorts](https://varsity54.com/products/ug-heather-grey-sweatshorts): University of Ghana Heather Grey Sweatshorts with contrasting yellow vintage print High-Quality Cotton Sweatshorts
-  Updated: 2026-03-15T11:01:54Z
+  Updated: 2026-03-25T14:42:53Z
   Vendor: Varsity 54
   Product Type: Shorts
   Availability: Available
@@ -585,7 +585,7 @@
     Availability: Available
     Price: $36.00 USD
 - [University of Ghana Faded Blue Sweatpants](https://varsity54.com/products/ug-faded-blue-sweatpants): Experience comfort and heritage with our University of Ghana Faded Blue Sweatpants. Crafted for students and alumni, these vintage-inspired sweatpants feature a durable cotton blend, adjustable drawstring waist, and discreet emblem. Perfect for any occasion, they embody the spirit and possibilities of university life. Regular fit Mid-weight, 8.5 oz 80% cotton 20% polyester anti-pill fleece, Self-fabric elasticated waistband & hem cuffs, 2 side pockets, single pocket at back, tonal external drawcord, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:57Z
+  Updated: 2026-03-25T14:43:13Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -606,7 +606,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana Navy Tee](https://varsity54.com/products/ug-navy-tee): The University of Ghana Men's Navy Tee is the perfect embodiment of academia and community. With its University of Ghana logo, it exudes unity, achievement, and pride. Designed for modern students and alumni, this tee is versatile for any casual occasion. Its relaxed fit and soft, breathable material provide comfort and effortless style for all body types. Celebrate your academic journey with this distinctive tee that represents your university story. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 100% combed cotton Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T10:51:13Z
+  Updated: 2026-03-25T14:32:10Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -627,7 +627,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana WOMEN'S Faded Blue Tee](https://varsity54.com/products/ug-womens-faded-blue-tee): University of Ghana WOMEN'S Faded Blue Tee with contrasting yellow vintage print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:01:46Z
+  Updated: 2026-03-25T14:42:49Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -648,7 +648,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Ghana Women's Premium Heather Hoodie](https://varsity54.com/products/ug-womens-premium-hoodie-heather-grey): University of Ghana Women's Premium Heather Hoodie with contrasting blue/yellow print High-Quality Cotton French Terry Hoodie.
-  Updated: 2026-03-15T11:03:04Z
+  Updated: 2026-03-25T14:42:36Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -669,7 +669,7 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Ghana Women's Premium Heather Crew](https://varsity54.com/products/ug-womens-premium-crew-heather-grey): University of Ghana Women's Premium Heather Crew with contrasting blue/yellow print High-Quality Cotton French Terry Crew.
-  Updated: 2026-03-15T11:02:22Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -690,7 +690,7 @@
     Availability: Available
     Price: $52.00 USD
 - [University of Ghana Yellow Tee](https://varsity54.com/products/ug-womens-yellow-tee-5): University of Ghana Women's Yellow Tee with contrasting bold blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:15Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -711,7 +711,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-womens-heather-grey-tee-10): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:01Z
+  Updated: 2026-03-25T14:42:35Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -732,7 +732,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-womens-heather-grey-tee-11): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:39Z
+  Updated: 2026-03-25T14:42:39Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -753,7 +753,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-womens-heather-grey-tee-12): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:19Z
+  Updated: 2026-03-25T14:44:13Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -774,7 +774,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-womens-heather-grey-tee-13): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:32Z
+  Updated: 2026-03-25T14:42:34Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -795,7 +795,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Faded Navy Tee](https://varsity54.com/products/ug-womens-faded-navy-tee-14): University of Ghana Faded Navy Tee with contrasting print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:44Z
+  Updated: 2026-03-25T14:42:28Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -813,7 +813,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Faded Navy Tee](https://varsity54.com/products/ug-womens-faded-navy-tee-15): University of Ghana Faded Navy Tee with contrasting print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:01:55Z
+  Updated: 2026-03-25T14:42:41Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -834,7 +834,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Navy Tee](https://varsity54.com/products/ug-womens-navy-tee-16): University of Ghana Navy Tee with contrasting print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -855,7 +855,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Faded Navy Joggers](https://varsity54.com/products/ug-womens-faded-navy-joggers-17): University of Ghana Navy Joggers with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:01:32Z
+  Updated: 2026-03-25T14:42:27Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -876,7 +876,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana Cropped Heather Grey Tee](https://varsity54.com/products/ug-womens-cropped-heather-grey-tee-18): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:01:49Z
+  Updated: 2026-03-25T14:42:57Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -897,7 +897,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Cropped Heather Grey Tee](https://varsity54.com/products/ug-cropped-womens-heather-grey-tee-19): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:44:11Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -918,7 +918,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Navy Joggers](https://varsity54.com/products/ug-womens-navy-joggers-22): University of Ghana Navy Joggers with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:02:37Z
+  Updated: 2026-03-25T14:42:55Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -939,7 +939,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana Premium Heather Grey Joggers](https://varsity54.com/products/ug-womens-heather-grey-track-pants): University of Ghana UG PREMIUM HEATHER GREY JOGGERSs with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:01:43Z
+  Updated: 2026-03-25T14:42:48Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -960,7 +960,7 @@
     Availability: Available
     Price: $94.00 USD
 - [University of Ghana UG Heather Grey Joggers](https://varsity54.com/products/ug-womens-heather-grey-joggers): University of Ghana UG Heather Grey Joggers with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:02:27Z
+  Updated: 2026-03-25T14:43:21Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -981,7 +981,7 @@
     Availability: Available
     Price: $94.00 USD
 - [University of Ghana Yellow Tee](https://varsity54.com/products/ug-womens-yellow-tee-6): University of Ghana Women's Yellow Tee with contrasting bold blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:34Z
+  Updated: 2026-03-25T14:43:32Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1002,7 +1002,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Yellow Tee](https://varsity54.com/products/ug-womens-yellow-tee-7): University of Ghana Women's Yellow Tee with contrasting bold blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:03:10Z
+  Updated: 2026-03-25T14:43:26Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1023,7 +1023,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-womens-heather-grey-tee-08): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:01:49Z
+  Updated: 2026-03-25T14:43:15Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1044,7 +1044,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-womens-heather-grey-tee-09): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:26Z
+  Updated: 2026-03-25T14:43:20Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1065,7 +1065,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Heather Grey Tee](https://varsity54.com/products/ug-womens-heather-grey-and-navy-crop-raglan): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:18Z
+  Updated: 2026-03-25T14:44:12Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1086,7 +1086,7 @@
     Availability: Available
     Price: $39.00 USD
 - [Virunga National Park Tee Black](https://varsity54.com/products/virunga-national-park-tee): Embrace the wild beauty of Africa with our Virunga National Park Tee. Located in the Democratic Republic of the Congo, Virunga is a UNESCO World Heritage Site renowned for its stunning landscapes and rich biodiversity. From the snow-capped Rwenzori Mountains to the lush forests teeming with wildlife, this park is a sanctuary for endangered species like mountain gorillas. Wear our Tee proudly and show your support for conservation efforts in this iconic park. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:28Z
+  Updated: 2026-03-25T14:43:13Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1104,7 +1104,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Virunga National Park Tee Blue](https://varsity54.com/products/virunga-national-park-tee-blue): Embrace the wild beauty of Africa with our Virunga National Park Tee. Located in the Democratic Republic of the Congo, Virunga is a UNESCO World Heritage Site renowned for its stunning landscapes and rich biodiversity. From the snow-capped Rwenzori Mountains to the lush forests teeming with wildlife, this park is a sanctuary for endangered species like mountain gorillas. Wear our Tee proudly and show your support for conservation efforts in this iconic park. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:36Z
+  Updated: 2026-03-25T14:42:39Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1122,7 +1122,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Virunga National Park Tee Yellow](https://varsity54.com/products/virunga-national-park-tee-faded-yellow): Embrace the wild beauty of Africa with our Virunga National Park Tee. Located in the Democratic Republic of the Congo, Virunga is a UNESCO World Heritage Site renowned for its stunning landscapes and rich biodiversity. From the snow-capped Rwenzori Mountains to the lush forests teeming with wildlife, this park is a sanctuary for endangered species like mountain gorillas. Wear our Tee proudly and show your support for conservation efforts in this iconic park. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:00Z
+  Updated: 2026-03-25T14:42:35Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1140,7 +1140,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Virunga National Park Tee White](https://varsity54.com/products/virunga-national-park-tee-white): Embrace the wild beauty of Africa with our Virunga National Park Tee. Located in the Democratic Republic of the Congo, Virunga is a UNESCO World Heritage Site renowned for its stunning landscapes and rich biodiversity. From the snow-capped Rwenzori Mountains to the lush forests teeming with wildlife, this park is a sanctuary for endangered species like mountain gorillas. Wear our Tee proudly and show your support for conservation efforts in this iconic park. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:01Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1158,7 +1158,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Text Print Tee Charcoal](https://varsity54.com/products/sankara-text-print-tee-black): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:18Z
+  Updated: 2026-03-25T14:43:59Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1176,7 +1176,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Text Print Faded Yellow Tee](https://varsity54.com/products/sankara-text-print-faded-yellow-tee): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:48Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1194,7 +1194,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Text Print Faded Blue Tee](https://varsity54.com/products/sankara-text-print-faded-blue-tee): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:54Z
+  Updated: 2026-03-25T14:42:21Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1212,7 +1212,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Text Print White Tee](https://varsity54.com/products/copy-of-sankara-text-print-faded-blue-tee): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:29Z
+  Updated: 2026-03-25T14:42:46Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1230,7 +1230,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Bootleg Vintage Print Black Tee](https://varsity54.com/products/thomas-sankara-bootleg-vintage-print-black-tee): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:27Z
+  Updated: 2026-03-25T14:43:12Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1251,7 +1251,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Bootleg Vintage Print Faded Yellow Tee](https://varsity54.com/products/thomas-sankara-bootleg-vintage-print-faded-yellow-tee): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:52Z
+  Updated: 2026-03-25T14:42:49Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1269,7 +1269,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Bootleg Vintage Print Olive Tee](https://varsity54.com/products/thomas-sankara-bootleg-vintage-print-faded-blue-tee): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:34Z
+  Updated: 2026-03-25T14:42:21Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1287,7 +1287,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sankara Bootleg Vintage Print White Tee](https://varsity54.com/products/thomas-sankara-bootleg-vintage-print-white-tee): Embrace the legacy of Thomas Sankara with our Tribute Tee. Sankara, Burkina Faso's former president, was a revolutionary leader known for his anti-imperialist stance and commitment to pan-Africanism. Our Tee pays homage to his vision of self-government and liberation from colonial rule. Wear our Tribute Tee proudly to honor Sankara's ideals of empowerment and independence. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:28Z
+  Updated: 2026-03-25T14:42:13Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1305,7 +1305,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Patrice Lumumba Congo Blue Tee](https://varsity54.com/products/patrice-lumumba-congo-blue-tee): Lumumba, a visionary leader and the first Prime Minister of the Democratic Republic of the Congo, inspired a nation with his passionate advocacy for independence and unity. This shirt pays homage to Lumumba's legacy and his dedication to the sovereignty of the Congolese people. Join us in celebrating Lumumba's enduring impact and wear our Tribute Tee proudly as a symbol of solidarity and empowerment for the people of Congo. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:42:30Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1326,7 +1326,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Patrice Lumumba Congo Charcoal Tee](https://varsity54.com/products/patrice-lumumba-congo-grey-tee): Lumumba, a visionary leader and the first Prime Minister of the Democratic Republic of the Congo, inspired a nation with his passionate advocacy for independence and unity. This shirt pays homage to Lumumba's legacy and his dedication to the sovereignty of the Congolese people. Join us in celebrating Lumumba's enduring impact and wear our Tribute Tee proudly as a symbol of solidarity and empowerment for the people of Congo. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:23Z
+  Updated: 2026-03-25T14:42:26Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1347,7 +1347,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Patrice Lumumba Congo Yellow Tee](https://varsity54.com/products/patrice-lumumba-congo-teal-tee): Lumumba, a visionary leader and the first Prime Minister of the Democratic Republic of the Congo, inspired a nation with his passionate advocacy for independence and unity. This shirt pays homage to Lumumba's legacy and his dedication to the sovereignty of the Congolese people. Join us in celebrating Lumumba's enduring impact and wear our Tribute Tee proudly as a symbol of solidarity and empowerment for the people of Congo. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:29Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1368,7 +1368,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Chief Maqoma White Tee](https://varsity54.com/products/nelson-mandela-yellow-tee): Celebrate the legacy of Chief Maqoma with our Tribute Tee. Chief Maqoma was a Xhosa chief and military leader who bravely resisted British colonial expansion in 19th-century South Africa. His leadership in the Xhosa Wars embodies the spirit of defiance and pride in African heritage. Wear our Tee proudly to honor his legacy and stand in solidarity with his fight against colonialism. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:33Z
+  Updated: 2026-03-25T14:42:21Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1389,7 +1389,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Nelson Mandela Black Tee](https://varsity54.com/products/nelson-mandela-black-tee): Embrace the revolutionary spirit of Nelson Mandela with our Tribute Tee. This shirt embodies his unwavering fight for justice and freedom. Our Tee pays homage to Mandela's iconic struggle against apartheid. Wear our Tribute Tee proudly as a symbol of solidarity and defiance against oppression. Honor Mandela's legacy and inspire change. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:25Z
+  Updated: 2026-03-25T14:42:36Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1410,7 +1410,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Gaddafi White Tee](https://varsity54.com/products/gaddafi-faded-yellow-tee): Honor the legacy of Muammar Gaddafi with our Tribute Tee. Embrace the layers of controversy and contradiction surrounding Gaddafi's rule while acknowledging his contributions to Libya and the broader African continent. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:22Z
+  Updated: 2026-03-25T14:42:22Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1431,7 +1431,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Miriam Makeba Faded Yellow Tee](https://varsity54.com/products/miriam-makeba-tee): Celebrate the timeless legacy of Miriam Makeba with our exclusive Tribute Tee. This shirt honors the iconic South African singer and activist. Embrace Makeba's unparalleled talent and unwavering commitment to justice and equality by wearing our Tribute Tee proudly. Join the chorus of voices echoing her message of hope and unity. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:48Z
+  Updated: 2026-03-25T14:42:56Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1452,7 +1452,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Patrice Lumumba Bootleg Sky Tee](https://varsity54.com/products/patrice-lumumba-bootleg-sky-tee): Step into the revolutionary spirit with our bootleg-inspired Patrice Lumumba Tribute Tee. With bold graphics and vintage vibes reminiscent of 90s hip-hop style, this shirt pays homage to the iconic Congolese leader. Embrace Lumumba's indomitable spirit and wear our Tribute Tee proudly as a symbol of resistance and empowerment. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:00Z
+  Updated: 2026-03-25T14:42:23Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1473,7 +1473,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Patrice Lumumba Bootleg Pink Tee](https://varsity54.com/products/copy-of-patrice-lumumba-bootleg-pink-tee): Step into the revolutionary spirit with our bootleg-inspired Patrice Lumumba Tribute Tee. With bold graphics and vintage vibes reminiscent of 90s hip-hop style, this shirt pays homage to the iconic Congolese leader. Embrace Lumumba's indomitable spirit and wear our Tribute Tee proudly as a symbol of resistance and empowerment. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:10Z
+  Updated: 2026-03-25T14:42:23Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1494,7 +1494,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Patrice Lumumba Bootleg Black Tee](https://varsity54.com/products/patrice-lumumba-bootleg-black-tee): Step into the revolutionary spirit with our bootleg-inspired Patrice Lumumba Tribute Tee. With bold graphics and vintage vibes reminiscent of 90s hip-hop style, this shirt pays homage to the iconic Congolese leader. Embrace Lumumba's indomitable spirit and wear our Tribute Tee proudly as a symbol of resistance and empowerment. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:53Z
+  Updated: 2026-03-25T14:43:14Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1515,7 +1515,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Patrice Lumumba Bootleg White Tee](https://varsity54.com/products/patrice-lumumba-bootleg-white-tee): Step into the revolutionary spirit with our bootleg-inspired Patrice Lumumba Tribute Tee. With bold graphics and vintage vibes reminiscent of 90s hip-hop style, this shirt pays homage to the iconic Congolese leader. Embrace Lumumba's indomitable spirit and wear our Tribute Tee proudly as a symbol of resistance and empowerment. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:50Z
+  Updated: 2026-03-25T14:43:26Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1536,7 +1536,7 @@
     Availability: Available
     Price: $42.00 USD
 - [University of Rwanda Indigo Tee](https://varsity54.com/products/university-of-rwanda-indigo-tee): Crafted from 100% organic cotton for unparalleled comfort and sustainability, our University of Rwanda t-shirt is a one-of-a-kind piece brought to life through a traditional, natural indigo dye process that creates a vibrant indigo blue. Lightweight Fabric 100% Organic Cotton Fermented Natural Indigo Dye Please note this garment is naturally dyed. Color variations are to be expected and can vary in tone or hue from batch to batch.
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:42:32Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1563,7 +1563,7 @@
     Availability: Available
     Price: $65.00 USD
 - [African Safari Olive Tee](https://varsity54.com/products/african-safari): Embark on an African adventure with our Safari Big Five Tee. Featuring the majestic lion, elephant, buffalo, zebra, and rhinoceros, this shirt captures the essence of Africa's iconic wildlife. Wear our Tee proudly and immerse yourself in the untamed beauty of the African savannah. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:33Z
+  Updated: 2026-03-25T14:42:15Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1581,7 +1581,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Cape Town Pink Tee](https://varsity54.com/products/capetown-pink-tee): This shirt is a must-have for showing off your South African pride. Whether you're strolling through the streets of Cape Town or repping your homeland from afar, our tee keeps you connected to the vibrant spirit of CT. Get yours now and let the world know where your heart truly lies. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:59Z
+  Updated: 2026-03-25T14:43:32Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1602,7 +1602,7 @@
     Availability: Available
     Price: $42.00 USD
 - [University of Rwanda Tye Dye Indigo](https://varsity54.com/products/university-of-rwanda-indigo-tee-2): Crafted from 100% organic cotton for unparalleled comfort and sustainability, our University of Rwanda t-shirt is a one-of-a-kind piece brought to life through a traditional, twice-dipped natural indigo dye process that creates vibrant and diverse hues. Lightweight Fabric 100% Organic Cotton Fermented Natural Indigo Dye This t-shirt has been unevenly dipped 2 times in a fermented natural indigo dye vat to achieve bright and varied indigo hues.
-  Updated: 2026-03-15T11:02:53Z
+  Updated: 2026-03-25T14:42:10Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1629,7 +1629,7 @@
     Availability: Available
     Price: $24.00 USD
 - [University of Rwanda Tri Blend Heather Grey](https://varsity54.com/products/university-of-rwanda-tri-blend-heather-grey): Elevate your campus wardrobe with the University of Rwanda Heather Grey Crew T-shirt. This unisex gem features a premium viscose yarn that combines softness, durability, and lightweight comfort, making it perfect for the dynamic campus lifestyle. Its heather grey hue offers a classic, versatile look that captures the essence of collegiate apparel, blending seamlessly with any outfit for lectures, library sessions, or casual hangouts. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this heather grey T-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:25Z
+  Updated: 2026-03-25T14:43:14Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1653,7 +1653,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Rwanda White Tee](https://varsity54.com/products/university-of-rwanda-white-tee): Elevate your campus wardrobe with the University of Rwanda White Crew T-shirt. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this white T-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 100% combed cotton Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:16Z
+  Updated: 2026-03-25T14:42:26Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1677,7 +1677,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Rwanda White Tank Top](https://varsity54.com/products/university-of-rwanda-white-tank-tee): This stylish and comfortable tank top is made from lightweight material, perfect for the Rwandan climate or a sunny day on campus. Featuring a prominent University of Rwanda logo on the front, it proudly displays your connection to an institution known for its excellence and spirit of innovation. Designed for a unisex fit, this tank top suits all body types, offering both comfort and versatility. Whether you're hitting the gym, attending a lecture, or enjoying a casual meet-up with friends, this tank top fits seamlessly into any casual attire. Its clean, white background not only highlights the logo but also makes it a versatile piece that can be paired with any bottoms, from jeans to shorts, making it a staple in any student, alumni, or faculty wardrobe. Regular fit Regular tank shape Light weight, 4.4 oz, 34-singles 100% combed cotton Self-fabric bindings, double needle bottom hem, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:42:26Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1701,7 +1701,7 @@
     Availability: Available
     Price: $28.00 USD
 - [University of Rwanda Tri Blend Heather Grey 2](https://varsity54.com/products/university-of-rwanda-tri-blend-heather-grey-1): Elevate your campus wardrobe with the University of Rwanda Heather Grey Crew T-shirt. This unisex gem features a premium viscose yarn that combines softness, durability, and lightweight comfort, making it perfect for the dynamic campus lifestyle. Its heather grey hue offers a classic, versatile look that captures the essence of collegiate apparel, blending seamlessly with any outfit for lectures, library sessions, or casual hangouts. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this heather grey T-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:41Z
+  Updated: 2026-03-25T14:42:45Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1725,7 +1725,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Rwanda Indigo Pullover Hoodie](https://varsity54.com/products/university-of-rwanda-two-tone-hoody): Wrap yourself in the spirit of school pride with our University of Rwanda hoodie, a standout piece from our garment-dyed collection. Crafted with special dye and wash processes, this hoodie achieves an authentic look and feel that sets it apart. Each piece boasts unique and natural variances in texture, distress, and shade, making it as individual as the wearer. Beyond its distinctive aesthetic, this hoodie represents a deep connection to the University of Rwanda, embodying the pride and spirit of its community. Perfect for showing your school spirit, this hoodie is not just a piece of apparel—it's a testament to the vibrant life and culture of the University of Rwanda. Boxy Fit Garment Dyed 3-End Fleece 10 oz (340 GSM) 80% Cotton, 20% Polyester Oversized fit, 3-end fleece, heavyweight, pigment dyed and no drawcords. Two panel hood and double needle topstitch on all seams. 1x1 ribbing at cuff and waistband. CARE: Machine wash cold, tumble dry low
-  Updated: 2026-03-15T11:01:31Z
+  Updated: 2026-03-25T14:42:22Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1752,7 +1752,7 @@
     Availability: Available
     Price: $85.00 USD
 - [University of Rwanda Heather Grey Tank](https://varsity54.com/products/university-of-rwanda-white-terry-bucket-hat): This University of Rwanda tank combines comfort and style, perfect for both casual wear and showing your support for your alma mater. Whether you're hitting the gym, lounging on campus, or out with friends, let this tank be a reminder of the knowledge gained, friendships forged, and memories created during your time at the University of Rwanda. Wear it with pride, and let your academic journey continue to inspire those around you. Regular fit Regular tank shape Light weight, 4.4 oz, 34-singles 85% combed cotton 15% viscose Self-fabric bindings, double needle bottom hem, preshrunk to minimize shrinkage Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: Size Body Width (inches) Body Length (inches) SML 18.0 29.0 MED 19.5 30.5 LRG 20.5 31.5 XLG 22.0 33.0 2XL 23.0 34.0 3XL 24.0 35.0
-  Updated: 2026-03-15T11:03:25Z
+  Updated: 2026-03-25T14:43:10Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
@@ -1776,9 +1776,9 @@
     Availability: Available
     Price: $28.00 USD
 - [University of Rwanda Blue Tee](https://varsity54.com/products/copy-of-university-of-rwanda-white-terry-bucket-hat): Elevate your campus wardrobe with the University of Rwanda Blue Crew T-shirt. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this blue T-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 100% combed cotton Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:01Z
+  Updated: 2026-03-25T19:20:48Z
   Vendor: Varsity 54
-  Product Type: Hats & Caps
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Rwanda_Blue_TEE.png?v=1704382127
   - [XS](https://varsity54.com/products/copy-of-university-of-rwanda-white-terry-bucket-hat?variant=48325580030270)
@@ -1800,7 +1800,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Rwanda Mesh White Ghym Shorts](https://varsity54.com/products/copy-of-copy-of-university-of-rwanda-white-terry-bucket-hat): Elevate your game and style with our mid-length basketball-style shorts, designed specifically for the University of Rwanda's dynamic community. Crafted from durable polyester mesh, these shorts boast a subtle translucent look that adds a touch of modern style to your athletic or casual wear. With a generous width, they offer a breezy, comfortable fit, perfect for those intense games or relaxed days. Featuring two side pockets for your essentials and an adjustable drawcord waist for the perfect fit, these shorts blend functionality with fashion. Whether you're hitting the court or cheering from the sidelines, these basketball shorts symbolize school spirit and the pursuit of excellence. Men's/ Unisex Adjustable Waistband 100% Polyester
-  Updated: 2026-03-15T11:02:13Z
+  Updated: 2026-03-25T14:43:48Z
   Vendor: Varsity 54
   Product Type: Shorts
   Availability: Available
@@ -1821,28 +1821,28 @@
     Availability: Available
     Price: $34.00 USD
 - [University of Rwanda White Cap Hat](https://varsity54.com/products/university-of-rwanda-white-cap-hat): University of Rwanda White Cap Hat • Garment Washed Cotton Twill• Front: Raised Embroidery• Back: Flat Embroidery• Cotton Twill Sweatband• Imported
-  Updated: 2026-03-15T10:51:08Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/RwandaWhiteCap.png?v=1711537782
   Price: $40.00 USD
 - [University of Rwanda White Terry Bucket Hat](https://varsity54.com/products/copy-of-university-of-rwanda-white-terry-bucket-hat-1): Show your school pride in style with the University of Rwanda White Terry Bucket Hat! Made for comfort and versatility, this hat is the perfect accessory for sunny days on campus or weekend adventures. Let it be a symbol of your academic journey and a reminder of the friendships and memories made at the University of Rwanda. Wear it with pride and embrace your alma mater spirit! Bucket hat Reinforced brim with stitching detail, cotton lined body. Mid weight 100% cotton terry One size fits all
-  Updated: 2026-03-15T10:51:11Z
+  Updated: 2026-03-25T14:32:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/EMBROIDEREDRWANDA_TERRY_BUCKET_HAT_WHITE_08375558-e0eb-4323-a108-20cd161b6ed6.png?v=1711539759
   Price: $35.00 USD
 - [University of Rwanda Sky Denim Tote Bag](https://varsity54.com/products/rwanda-sky-denim-tote-bag): Carry your essentials in style while showcasing your University of Rwanda pride with our unisex tote bag. Crafted from durable 13oz Bull Denim, this tote is designed to withstand the rigors of daily life, making it perfect for students, faculty, and alumni alike. The robust fabric ensures that your belongings stay secure, whether you're navigating campus, heading to a study session, or exploring the city. Its spacious interior offers ample room for books, a laptop, and other essentials, while the minimalist design adorned with the University of Rwanda logo subtly communicates your affiliation and support for the institution. This versatile, eco-friendly tote bag is not just a practical accessory but also a symbol of unity and academic excellence at the University of Rwanda. Unisex Made in U.S.A. 13oz Bull Denim Opening: 15" Depth: 14 1/4" 1﻿00% Cotton
-  Updated: 2026-03-15T10:51:14Z
+  Updated: 2026-03-25T14:32:10Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/RwandaSkyDenimTotebag_06681432-a3b9-41d2-a511-dbbbcfa90af9.png?v=1704389248
   Price: $32.00 USD
 - [University of Lagos Yellow Tee](https://varsity54.com/products/unilag-heather-grey-tee): Elevate your campus wardrobe with the University of Lagos Yellow Crew T-shirt. This unisex gem features a premium combed cotton yarn that combines softness, durability, and lightweight comfort, making it perfect for the dynamic campus lifestyle. Its yellow color offers a colorful, versatile look that captures the essence of collegiate apparel, making you stand out in your lectures, library sessions, or casual hangouts. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this yellow t-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Mid weight, 5.3 oz, 28-singles 100% combed cotton Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:01:52Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1866,7 +1866,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Faded Burgundy Tee](https://varsity54.com/products/copy-of-university-of-lagos-heather-grey-tee): Explore the spirit of academic excellence with our elegant, washed-out burgundy tee. Created for the contemporary scholar, it seamlessly merges the softness of premium cotton with the classic charm of a weathered, vintage look. Featuring a worn emblem of Lagos prestigious university, this shirt is ideal for both campus activities and weekend adventures, representing a perfect blend of school spirit and sophistication. Regular fit Mid weight, 5.3 oz, 28-singles 100% combed cotton Neck ribbing, side seamed, neck seam twin needle stitch, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:01:51Z
+  Updated: 2026-03-25T14:42:46Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1890,7 +1890,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Lagos Faded Burgundy Tee 2](https://varsity54.com/products/copy-of-university-of-lagos-faded-burgundy-tee): Explore the spirit of academic excellence with our elegant, washed-out burgundy tee. Created for the contemporary scholar, it seamlessly merges the softness of premium cotton with the classic charm of a weathered, vintage look. Featuring a worn emblem of Lagos prestigious university, this shirt is ideal for both campus activities and weekend adventures, representing a perfect blend of school spirit and sophistication. Regular fit Mid weight, 5.3 oz, 28-singles 100% combed cotton Neck ribbing, side seamed, neck seam twin needle stitch, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:10Z
+  Updated: 2026-03-25T14:42:17Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1914,7 +1914,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Lagos Heather Grey Tee](https://varsity54.com/products/copy-of-university-of-lagos-heather-grey-tee-1): Elevate your campus wardrobe with the University of Lagos Heather Grey Crew T-shirt. This unisex gem features a premium viscose yarn that combines softness, durability, and lightweight comfort, making it perfect for the dynamic campus lifestyle. Its heather grey hue offers a classic, versatile look that captures the essence of collegiate apparel, blending seamlessly with any outfit for lectures, library sessions, or casual hangouts. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this heather grey t-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:01:37Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1938,7 +1938,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Heavy Faded Bone Tee](https://varsity54.com/products/copy-of-university-of-lagos-yellow-tee): The University of Lagos Heavy Faded Bone Tee is the perfect embodiment of academia and community. With its University of Lagos logo, it exudes unity, achievement, and pride. Designed for modern students and alumni, this tee is versatile for any casual occasion. Its relaxed fit and soft, breathable material provide comfort and effortless style for all body types. Celebrate your academic journey with this distinctive tee that represents your university story. Boxy, oversized fit with dropped shoulders Heavy weight, 7.1 oz, 16-singles 100% carded cotton Wide neck ribbing with twin stitching, side seamed, shoulder to shoulder tape, double needle hems, garment dyed, preshrunk to minimise shrinkage
-  Updated: 2026-03-15T11:03:25Z
+  Updated: 2026-03-25T14:42:57Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -1962,7 +1962,7 @@
     Availability: Available
     Price: $39.00 USD
 - [University of Lagos Burgundy Tee](https://varsity54.com/products/copy-of-university-of-lagos-heavy-faded-bone-tee): Elevate your campus wardrobe with the University of Lagos Burgundy Crew T-shirt. This unisex gem features a premium combed cotton yarn that combines softness, durability, and lightweight comfort, making it perfect for the dynamic campus lifestyle. Its Burgundy color offers a classic, versatile look that captures the essence of collegiate apparel, blending seamlessly with any outfit for lectures, library sessions, or casual hangouts. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this burgundy t-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Mid weight, 5.3 oz, 28-singles 100% combed cotton Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:01:50Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -1986,7 +1986,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Heather Grey Tank](https://varsity54.com/products/university-of-lagos-heather-grey-racerback-tee): A standout piece from our University of Lagos Collection for men. This tank top combines the casual ease of heather grey fabric with the proud display of your university's emblem front and center. Designed for comfort and style, it's the perfect choice for those warm days on campus, at the gym, or when you're just lounging at home. The breathable material ensures you stay cool, while the collegiate logo brings a touch of scholarly pride to your everyday wear. Ideal for alumni, students, and fans alike, this tank top is a versatile addition to any wardrobe, celebrating academic excellence in every stitch. Regular fit Light weight, 4.4 oz, 34-singles 100% combed cotton (heathers 15% viscose) Self-fabric bindings, double needle bottom hem, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:29Z
+  Updated: 2026-03-25T14:42:25Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2010,7 +2010,7 @@
     Availability: Available
     Price: $30.00 USD
 - [University of Lagos Burgundy/Heather Grey Raglan](https://varsity54.com/products/university-of-lagos-burgundy-heather-grey-raglan): Step up your campus wardrobe with the University of Lagos Raglan Tee, a symbol of both style and spirit. Inspired by classic baseball jerseys, this top features distinctive ¾ length raglan sleeves that offer a retro, athletic look perfect for showing off your university pride. The regular fit and curved tails ensure a contemporary silhouette, blending seamlessly with the timeless appeal of sportswear. Crafted from a premium blend of 85% combed cotton and 15% viscose, this lightweight (4.4 oz) tee promises not only superior comfort but also durability to stand up to the rigors of student life. It's designed with meticulous attention to detail—self-fabric binding on the neck, side seams for added strength, and double needle hems—to ensure it remains a staple of your wardrobe for years to come. Plus, it's preshrunk to guarantee a consistent fit wash after wash. Whether you're cheering from the stands, strolling across campus, or gathering with friends, the University of Lagos Baseball Tee is your go-to choice for effortless style and unwavering school pride. Regular fit Crew neck, ¾ length raglan sleeves, curved tails Light weight, 4.4 oz, 34-singles 85% combed cotton 15% viscose Self-fabric binding on neck, side seamed, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:01:37Z
+  Updated: 2026-03-25T14:42:30Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2034,7 +2034,7 @@
     Availability: Available
     Price: $38.00 USD
 - [University of Lagos Women's Heather Grey Crop Tee](https://varsity54.com/products/university-of-lagos-heather-grey-cropped-tee): Discover the collegiate charm of the University of Lagos with our Heather Grey Cropped Tee, designed for women. Made from soft, breathable fabric, this t-shirt offers a flattering, comfortable fit. The front displays the school's logo in vibrant colors, making it a stylish way to show your school spirit. Perfect for class, game days, or a casual outing, this versatile tee is a must-have in your wardrobe. Shop now and proudly wear your alma mater's heritage. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:28Z
+  Updated: 2026-03-25T14:42:25Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2058,7 +2058,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Mesh Burgundy Gym Shorts](https://varsity54.com/products/university-of-lagos-mesh-burgundy-gym-shorts): Elevate your game and style with our mid-length basketball-style shorts. Crafted from durable mesh, these shorts boast a subtle translucent look that adds a touch of modern style to your athletic or casual wear. With a generous width, they offer a breezy, comfortable fit, perfect for those intense games or relaxed days. Featuring two side pockets for your essentials and an adjustable drawcord waist for the perfect fit, these shorts blend functionality with fashion. Whether you're hitting the court or cheering from the sidelines, these basketball shorts symbolize school spirit and the pursuit of excellence. Men's/ Unisex Adjustable Waistband 100% Polyester
-  Updated: 2026-03-15T11:01:41Z
+  Updated: 2026-03-25T14:42:43Z
   Vendor: Varsity 54
   Product Type: Shorts
   Availability: Available
@@ -2079,35 +2079,35 @@
     Availability: Available
     Price: $34.00 USD
 - [University of Lagos Burgundy Hat](https://varsity54.com/products/university-of-lagos-burgundy-hat): University of Lagos Burgundy hat with contrasting yellow embroidery High-Quality Cotton hat.
-  Updated: 2026-03-15T10:51:07Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/LagosCapFinal_1f6ee667-4c2e-43a0-825d-c7f2b05bd287.png?v=1711539172
   Price: $40.00 USD
 - [University of Lagos Yellow Tote Bag](https://varsity54.com/products/copy-of-university-of-lagos-burgundy-hat): University of Lagos Yellow Tote Baf
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/UniversityofLagosyellowDenimTotebag.png?v=1704721946
   Price: $40.00 USD
 - [University of Lagos Pennant Flag](https://varsity54.com/products/copy-of-university-of-lagos-yellow-tote-bag): University of Lagos Pennant Flag
-  Updated: 2026-03-15T10:51:10Z
+  Updated: 2026-03-25T14:32:10Z
   Vendor: Varsity 54
   Product Type: Pennants & Memorabilia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/UniversityofLagos_CANVAS_PENNANT_FLAG_CREAM.png?v=1704723738
   Price: $40.00 USD
 - [University of Lagos Off White Hat](https://varsity54.com/products/university-of-lagos-off-white-hat): University of Lagos Burgundy hat with contrasting yellow embroidery High-Quality Cotton hat.
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:32:10Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Lagos_NYLON_BUCKET_HAT_ECRU.png?v=1704734605
   Price: $40.00 USD
 - [University of Lagos Ceramic White Mug](https://varsity54.com/products/copy-of-university-of-lagos-off-white-hat): University of Lagos Burgundy hat with contrasting yellow embroidery High-Quality Cotton hat.
-  Updated: 2026-03-15T11:02:52Z
+  Updated: 2026-03-25T14:43:20Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
@@ -2119,7 +2119,7 @@
     Availability: Available
     Price: $28.00 USD
 - [University of Nairobi Heather Grey Tee 2](https://varsity54.com/products/nairobi-heather-grey-tee): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:02:40Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2160,7 +2160,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Nairobi Sky Blue Tee](https://varsity54.com/products/university-of-nairobi-white-tank-top): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:02:40Z
+  Updated: 2026-03-25T14:42:44Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2181,7 +2181,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Nairobi White Tank Top](https://varsity54.com/products/copy-of-university-of-nairobi-white-tank-top): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:03:14Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2202,7 +2202,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Nairobi White Heather Tee](https://varsity54.com/products/copy-of-university-of-nairobi-sky-blue-tee): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:02:32Z
+  Updated: 2026-03-25T14:42:10Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2223,7 +2223,7 @@
     Availability: Available
     Price: $32.00 USD
 - [African Safari Faded Yellow Tee](https://varsity54.com/products/african-safari-yellow): Embark on an African adventure with our Safari Big Five Tee. Featuring the majestic lion, elephant, buffalo, zebra, and rhinoceros, this shirt captures the essence of Africa's iconic wildlife. Wear our Tee proudly and immerse yourself in the untamed beauty of the African savannah. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:20Z
+  Updated: 2026-03-25T14:42:20Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2241,7 +2241,7 @@
     Availability: Available
     Price: $42.00 USD
 - [African Safari White Tee](https://varsity54.com/products/copy-of-african-safari-faded-yellow): Embark on an African adventure with our Safari Big Five Tee. Featuring the majestic lion, elephant, buffalo, zebra, and rhinoceros, this shirt captures the essence of Africa's iconic wildlife. Wear our Tee proudly and immerse yourself in the untamed beauty of the African savannah. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:58Z
+  Updated: 2026-03-25T14:42:18Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2259,7 +2259,7 @@
     Availability: Available
     Price: $42.00 USD
 - [African Safari Khaki Tee](https://varsity54.com/products/african-safari-khaki-tee): Embark on an African adventure with our Safari Big Five Tee. Featuring the majestic lion, elephant, buffalo, zebra, and rhinoceros, this shirt captures the essence of Africa's iconic wildlife. Wear our Tee proudly and immerse yourself in the untamed beauty of the African savannah. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:40Z
+  Updated: 2026-03-25T14:42:15Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2277,7 +2277,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Serengeti National Park Tanzania Yellow Tee](https://varsity54.com/products/serengeti-faded-yellow-tee): Our Serengeti National Park Tee pays homage to one of the world's most iconic wildlife reserves, located in Tanzania. Home to the spectacular Great Migration and an abundance of wildlife including lions, elephants, and giraffes, the Serengeti is a treasure trove of natural wonders. Wear our Tee proudly and celebrate the beauty and biodiversity of this legendary park. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:57Z
+  Updated: 2026-03-25T14:42:26Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2295,7 +2295,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Maasai Mara National Reserve Kenya White Tee](https://varsity54.com/products/maasai-mara-national-reserve-kenya-white-tee): Located in Kenya, Masai Mara is renowned for its vast savannahs teeming with wildlife and the annual Great Migration spectacle. From majestic lions and graceful giraffes to towering elephants and elusive leopards, Masai Mara offers unparalleled opportunities for wildlife encounters. Wear our Tee proudly and celebrate the untamed beauty and rich biodiversity of Masai Mara National Reserve. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:09Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2313,35 +2313,35 @@
     Availability: Available
     Price: $42.00 USD
 - [Maasai Mara National Reserve Kenya Cap](https://varsity54.com/products/maasai-mara-national-reserve-kenya-cap): Embark on an adventure through the iconic landscapes of Masai Mara with our exclusive Dad Cap. Featuring an embroidered patch detail, this cap pays homage to the rich biodiversity and natural beauty of Kenya's famous reserve. Wear our cap proudly and showcase your love for wildlife conservation and African safari experiences. Mid profile, unstructured six panel capAdjustable fastener with metal clasp, tonal under-peak liningLight weightFlat Peak100% cottonOne size fits all
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:32:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Maasaimarahat.png?v=1705144962
   Price: $34.00 USD
 - [Kilimanjaro National Park Tanzania Cap](https://varsity54.com/products/kilimanjaro-national-park-tanzania-cap): Embark on a journey to the roof of Africa with our Kilimanjaro National Park Dad Cap. Featuring an intricately embroidered patch detail, this cap captures the majestic beauty of Tanzania's iconic mountain. Wear our cap proudly and show your admiration for Kilimanjaro's towering peaks and breathtaking landscapes. Mid profile, unstructured six panel capAdjustable fastener with metal clasp, tonal under-peak liningLight weightFlat Peak100% cottonOne size fits all
-  Updated: 2026-03-15T10:51:06Z
+  Updated: 2026-03-25T14:33:12Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/KilimanjaroNationalPark_HAT_COFFEE_FRONT.png?v=1705147292
   Price: $34.00 USD
 - [Lake Nakuru National Park Kenya Cap](https://varsity54.com/products/lake-nakuru-national-park-kenya-cap): Explore the vibrant landscapes and diverse wildlife of Lake Nakuru National Park with our exclusive National Park Africa Cap. Adorned with an intricately embroidered patch detail, this cap celebrates the natural beauty and conservation efforts of Kenya's renowned park. Wear our cap proudly and showcase your love for wildlife and nature conservation in Lake Nakuru National Park. Mid profile, unstructured six panel capAdjustable fastener with metal clasp, tonal under-peak liningLight weightFlat Peak100% cottonOne size fits all
-  Updated: 2026-03-15T10:51:08Z
+  Updated: 2026-03-25T14:32:12Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/LakeNakuruNationalParkKenyaJAMES_HAT_PETROL_BLUE_FRONT_1.png?v=1705168934
   Price: $34.00 USD
 - [Kruger National Park South Africa Sage Cap](https://varsity54.com/products/kruger-national-park-south-africa-cap): Embark on a safari adventure through the wilderness of South Africa with our Kruger National Park Cap. Featuring an embroidered patch detail, this cap pays homage to the iconic landscapes and rich biodiversity of one of Africa's largest game reserves. Wear our cap proudly and immerse yourself in the beauty of Kruger National Park's wildlife and landscapes. Mid profile, unstructured six panel capAdjustable fastener with metal clasp, tonal under-peak liningLight weightFlat Peak100% cottonOne size fits all
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:32:08Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/KrugerNational_CAP_EUCALYPTUS_FRONT.png?v=1705240673
   Price: $34.00 USD
 - [Dakar Sky blue Tee](https://varsity54.com/products/copy-of-capetown-pink-tee): Embrace your Senegalese pride with our Dakar Tee! Featuring sleek text that boldly declares your love for the capital city, this shirt is a must-have for representing your roots. Whether you're wandering the vibrant streets of Dakar or showing off your homeland pride from afar, our tee keeps you connected to the heartbeat of Senegal. Get yours now and let your Dakar spirit shine 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:26Z
+  Updated: 2026-03-25T14:42:15Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2362,7 +2362,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Mauritius Sea Blue Tee](https://varsity54.com/products/mauritius-pink-tee): Embrace the magic of Mauritius with our exclusive Mauritius Tee! With its sleek design and bold lettering, this shirt is more than just clothing—it's a declaration of love for the island's vibrant culture and natural beauty. Whether you're soaking up the sun on the pristine beaches of Grand Baie or savoring the flavors of Mauritian cuisine, our tee lets you carry a piece of paradise with you wherever you go. Get yours now and let your Mauritian spirit soar 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:48Z
+  Updated: 2026-03-25T14:42:10Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2383,7 +2383,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Zanzibar Lilac Tee](https://varsity54.com/products/zanzibar-lilac-tee): Whether you're wandering through the enchanting streets of Stone Town or lounging on the pristine beaches of Nungwi, our tee lets you carry the essence of Zanzibar with you wherever you go. Get yours now and let your Zanzibari spirit shine 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:53Z
+  Updated: 2026-03-25T14:42:51Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2404,7 +2404,7 @@
     Availability: Available
     Price: $42.00 USD
 - [University of Nairobi Grey Tank Top](https://varsity54.com/products/university-of-nairobi-grey-tank-top): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:01:48Z
+  Updated: 2026-03-25T14:42:18Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2425,7 +2425,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Nairobi Women's Heather Grey Crop Top](https://varsity54.com/products/university-of-nairobi-heather-grey-crop-top): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:02:08Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2446,7 +2446,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Nairobi Blue Tee](https://varsity54.com/products/university-of-nairobi-blue-tee): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:03:02Z
+  Updated: 2026-03-25T14:43:31Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2467,7 +2467,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Nairobi Heather Grey Tee](https://varsity54.com/products/copy-of-university-of-nairobi-white-tank-top-1): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:02:08Z
+  Updated: 2026-03-25T14:42:18Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -2508,21 +2508,21 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Nairobi Embroidered White Cap](https://varsity54.com/products/copy-of-university-of-nairobi-heather-grey-tee): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T10:51:14Z
+  Updated: 2026-03-25T14:32:11Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/NAIROBI_CAP_WHITE_FRONT.png?v=1710504042
   Price: $32.00 USD
 - [University of Nairobi White Water Bottle](https://varsity54.com/products/copy-of-university-of-nairobi-white-cap): University of Nairobi White Stainless Steel Water Bottle. Its double-wall construction makes it perfect for storing both hot and cold liquids. What’s better than taking that first sip of a coffee in the morning before class, or having a swig of icy-cold water after a workout? Enjoying your drinks from an easy-to-carry, beautifully designed, reusable bottle! High-grade stainless steel 17 oz (500 ml) Dimensions: 10.5″ × 2.85″ (27 × 7 cm) Vacuum flask Double-wall construction Bowling pin shape Glossy finish Odorless and leak-proof cap Insulated and suitable for hot and cold liquids (keeps the liquid hot or cold for 6 h) Hand-wash only Blank product sourced from China
-  Updated: 2026-03-15T10:51:11Z
+  Updated: 2026-03-25T14:33:11Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Nairobi-stainless-steel-water-bottle-white-17-oz_acace808-9a5b-4fce-8645-a5e75a39e78b.png?v=1705431205
   Price: $32.00 USD
 - [Kruger National Park South Africa Black Tee](https://varsity54.com/products/kruger-national-park-south-africa-black-tee): Showcase the majestic beauty of South Africa with our Black tee, featuring an intricate etching of Kruger National Park. This tee captures the essence of one of Africa's most iconic wildlife reserves. Ideal for nature enthusiasts and explorers, every purchase supports conservation and education initiatives across Africa. Wear your love for wildlife and African heritage with pride. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:51Z
+  Updated: 2026-03-25T14:42:29Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2540,7 +2540,7 @@
     Availability: Available
     Price: $44.00 USD
 - [Volcanoes National Park Rwanda Black Tee](https://varsity54.com/products/volcanoes-national-park-rwanda-black-tee): Volcanoes National Park Print on Garment Dyed Short Sleeve Shirt made of 100% ringspun cotton. Black tee has set-in sleeves and double-needle stitching on neck, sleeves and bottom hem with shoulder-to-shoulder taping.
-  Updated: 2026-03-15T11:01:18Z
+  Updated: 2026-03-25T14:42:23Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2558,7 +2558,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Mogadishu Track & Field Sky Blue Tee](https://varsity54.com/products/mogadishu-track-field-sky-blue-tee): Experience the adrenaline of running through the city and jumping over obstacles with our stylish and functional Mogadishu Track & Field Tee. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Our garment dye tees are made with a special technique, which gives them a vintage look and super-soft feel — so they’re already broken-in on day one. A good rule of thumb is to care for your garment-dyed items just as you would your denim. We recommend washing on the cold cycle and hanging to dry, since it’s better for the environment and protects your clothes. Pre-shrunk during the garment dye and wash processes for almost no shrinkage at home providing a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 FULL BODY LENGTH 27 28.5 30 31.5 32.75 SLEEVE LENGTH 8 8.25 9 9.5 9.75
-  Updated: 2026-03-15T11:02:38Z
+  Updated: 2026-03-25T14:42:32Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2579,7 +2579,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Dar es Salaam Yacht Club Tee](https://varsity54.com/products/daressalaamyachtclub): Inspired by the boundless horizons and maritime magic of Tanzania's coastal gem, our shirt captures the essence of adventure, elegance, and oceanic allure. Whether you're navigating the waves of the Indian Ocean or soaking in the sun-kissed ambiance of the yacht club's dockside, our Tee is your passport to nautical bliss. Set sail in sophistication and show your allegiance to the Dar es Salaam Yacht Club with our exclusive Tee. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:38Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2620,7 +2620,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Zanzibar Sailing Club Faded Yellow Tee](https://varsity54.com/products/zanzibar-sailing): Experience Zanzibar's nautical spirit with our Faded Yellow Tee. Embodying the island's sailing legacy and coastal lifestyle, this shirt is your ticket to paradise. Explore the tranquil waters with our Sailing Tee. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 FULL BODY LENGTH 27 28.5 30 31.5 32.75 SLEEVE LENGTH 8 8.25 9 9.5 9.75
-  Updated: 2026-03-15T11:02:10Z
+  Updated: 2026-03-25T14:42:47Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2641,7 +2641,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Senegal Wrestling Yellow Tee](https://varsity54.com/products/senegal-wrestling-washed-grey-tee): Step into the arena of Senegal's revered wrestling tradition with our exclusive tee, featuring a distressed vintage print for an authentic, time-worn look. Inspired by the strength and spirit of Senegalese wrestlers, each design embodies the essence of this beloved sport. Whether you're a fan or a fighter, this tee celebrates the power and passion of Senegal's wrestling culture. Embrace the legacy of champions and wear your pride with our Senegal Wrestling Tee! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:54Z
+  Updated: 2026-03-25T14:42:18Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2662,7 +2662,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Dakar Beach Gym Muscle Tee](https://varsity54.com/products/copy-of-dakar-beach-gym-heather-grey-tee): Capture the essence of Dakar's beachfront fitness culture with our exclusive Muscle Tee. Inspired by the sun-drenched shores and vibrant workout scene, each design radiates strength and vitality. Whether you're lifting weights or stretching on the sand, our tee is your ticket to embracing the coastal fitness lifestyle. Soak up the sun and unleash your inner powerhouse with our Dakar Beach Gym Muscle Tee! Tee is lightweight and made with 85% combed cotton and 15% viscose material, this tee also includes self-fabric bindings and a double needle bottom hem for durability. It is pre-shrunk to minimize any potential shrinkage. Size S M L XL 2XL Body Width 18 19 20.5 21.5 23 Body Length 29 30 31.5 32.5 34
-  Updated: 2026-03-15T11:02:35Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2703,7 +2703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/DakarMuscleBeach.png?v=1707170966
     Price: $32.00 USD
 - [Côte d'Ivoire Tennis Tee](https://varsity54.com/products/cote-divoire-tennis-white-tee): Inspired by the passion and energy of tennis culture in Côte d'Ivoire, our shirt embodies the spirit of athleticism, determination, and grace. Show your love for the game and represent Côte d'Ivoire's tennis scene in style with our premium Tennis Tee. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Our garment dye tees are made with a special technique, which gives them a vintage look and super-soft feel — so they’re already broken-in on day one. A good rule of thumb is to care for your garment-dyed items just as you would your denim. We recommend washing on the cold cycle and hanging to dry, since it’s better for the environment and protects your clothes. Pre-shrunk during the garment dye and wash processes for almost no shrinkage at home providing a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 FULL BODY LENGTH 27 28.5 30 31.5 32.75 SLEEVE LENGTH 8 8.25 9 9.5 9.75
-  Updated: 2026-03-15T11:02:46Z
+  Updated: 2026-03-25T14:42:10Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2744,7 +2744,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Senegal Wrestling Charcoal Tee 2](https://varsity54.com/products/senegal-wrestling-washed-grey-tee-2): Step into the arena of Senegal's revered wrestling tradition with our exclusive tee. Inspired by the strength and spirit of Senegalese wrestlers, each design embodies the essence of this beloved sport. Whether you're a fan or a fighter, our tee celebrates the power and passion of Senegal's wrestling culture. Embrace the legacy of champions and wear your pride on your sleeve with our Senegal Wrestling Tee! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:15Z
+  Updated: 2026-03-25T14:42:56Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2765,7 +2765,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Accra Tennis Club Tee](https://varsity54.com/products/accra-tennis-club-tee): Elevate your game on and off the court with our Accra Tennis Tee. Inspired by the vibrant energy of Accra's tennis scene, our shirt embodies the spirit of athleticism, competition, and style. Whether you're serving up aces on the courts of Labadi Beach or rallying with friends at the Accra Sports Stadium, our Tee is your go-to gear for embracing the dynamic world of Accra tennis. So, grab your racket, hit the courts, and showcase your passion for tennis in style with our Accra Tennis Tee. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Our garment dye tees are made with a special technique, which gives them a vintage look and super-soft feel — so they’re already broken-in on day one. A good rule of thumb is to care for your garment-dyed items just as you would your denim. We recommend washing on the cold cycle and hanging to dry, since it’s better for the environment and protects your clothes. Pre-shrunk during the garment dye and wash processes for almost no shrinkage at home providing a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 FULL BODY LENGTH 27 28.5 30 31.5 32.75 SLEEVE LENGTH 8 8.25 9 9.5 9.75
-  Updated: 2026-03-15T11:01:58Z
+  Updated: 2026-03-25T14:42:54Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2806,7 +2806,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Somalia Print On Sky Blue Tee](https://varsity54.com/products/copy-of-somalia-print-on-sky-blue-tee): This tee honors the tenacity and bravery of the Somali people, with a bold yet elegant design featuring the name of our beloved homeland. Amidst uncertainty and obstacles, let this tee be a symbol of our resolute dedication to creating a better tomorrow for Somalia. Wear it with pride and unite with our nation as we pursue peace, advancement, and success. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:08Z
+  Updated: 2026-03-25T14:43:13Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2847,7 +2847,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Ethiopia Cross Country White Marle Tee](https://varsity54.com/products/ethiopia-cross-country-tee): Uncover the timeless legacy of Ethiopia's long-distance running culture with the Cross Country White Marle Tee. This exclusive shirt encapsulates the awe-inspiring determination and resilience of Ethiopian athletes, serving as a reminder of their unparalleled achievements. Whether you're training on rigorous tracks or exploring new routes, embrace the rich tradition of the country's running culture with our tee as your symbol of strength and inspiration. Crafted from 95% Combed Cotton 5%Viscose and 180g/m² weight,, with features like side seams and shoulder-to-shoulder neck tape. The longer length and double needle hems deliver a luxurious high-end feel to this T-shirt. Size Chart: SIZE XS S M L XL 2XL HALF CHEST 16.5" 18.5" 20.5" 22" 24" 25" LENGTH 26.5" 28" 29.5" 31" 32" 33"
-  Updated: 2026-03-15T11:01:44Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2868,7 +2868,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Cairo Crew Charcoal Tee](https://varsity54.com/products/cairo-crew-tee): Discover Cairo's vibrant rowing culture with our exclusive Tee. Embrace the camaraderie and spirit of exploration that defines the city's riverside community. More than just apparel, it pays homage to the Nile's storied history. Become part of the movement and proudly wear our Cairo Crew Tee. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:51Z
+  Updated: 2026-03-25T14:42:51Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2909,7 +2909,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Cairo Crew Tank](https://varsity54.com/products/copy-of-dakar-beach-gym-muscle-tee): Discover Cairo's vibrant rowing culture with our exclusive tank. Embrace the camaraderie and spirit of exploration that defines the city's riverside community. More than just apparel, it pays homage to the Nile's storied history. Become part of the movement and proudly wear our Cairo Crew Tank. This T-shirt is made from 95% Combed Cotton and 5% Viscose, with side seams and shoulder-to-shoulder neck tape for added features. The longer length and double needle hems create a luxurious high-end feel. Weighing in at 180g/m² and crafted from 100% Cotton Single Jersey Knit fabric, it's a top-quality addition to any wardrobe, effortlessly blending style and comfort. SIZING XS S M L XL 2XL WIDTH (CM) 42 47 52 56.5 61 64 HEIGHT (CM) 67 71 75 78.5 82 83.5
-  Updated: 2026-03-15T11:01:57Z
+  Updated: 2026-03-25T14:42:15Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2930,7 +2930,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Accra Women's Tennis Club Crop Tee](https://varsity54.com/products/copy-of-accra-tennis-club-tee): The Accra Tennis Club Crop Tee features a comfortable, relaxed fit with a classic crew neck design. Made from a mid-weight 5.3 oz fabric with 28 singles, this tee is constructed of 86% combed cotton and 15% viscose. It also includes a short body, dropped shoulders, neck ribbing, and side seaming for a flattering fit. Completed with shoulder-to-shoulder tape and double needle hems, this tee is also preshrunk to minimize shrinkage.
-  Updated: 2026-03-15T11:02:11Z
+  Updated: 2026-03-25T14:42:25Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2951,7 +2951,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Nairobi Track & Field Charcoal Tee](https://varsity54.com/products/copy-of-cairo-crew-black-tee): Inspired by the speed and spirit of Kenyan athletes, each design captures the essence of this dynamic sport. Whether you're sprinting down the home stretch or soaring over hurdles, our tee celebrates the passion and dedication of Nairobi's track stars. Embrace the legacy of champions and show your love for the sport with our Nairobi Track & Field Tee featuring white distressed text for a vintage, worn-in look. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:26Z
+  Updated: 2026-03-25T14:43:52Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2975,7 +2975,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Tarkwa Bay Surf Club Nigeria Ringer Tee](https://varsity54.com/products/tarkwa-bay-surf-club-ringer-tee): Discover the vibrant spirit of Tarkwa Bay with our Ringer Tee, dip-dyed in natural indigo and chebula seed for a stunning green hue on the collar. This exclusive garment features an unbleached and undyed construction, showcasing the charming simplicity of this hidden surfing haven in Lagos, Nigeria. Accessible only by water taxi, Tarkwa Bay offers a unique mix of relaxation and adventure, surrounded by rustic huts and lively music. Uncover colonial relics, engage with locals, and immerse yourself in the rich culture of this coastal gem. Experience the magic of Tarkwa Bay and bring home a piece of its soul with our one-of-a-kind t-shirt designs! 🏄‍♂️🌊 Ringer T-shirt is made from 100% organic cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem Double-needle topstitched neckline Care Instructions: Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: Size S M L XL Shoulder 15" 17" 18" 24" Pit to pit 19.3" 20.5" 22.8" 24" Back 27.8" 28.8" 29.5" 30.3"
-  Updated: 2026-03-15T11:01:49Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -2999,7 +2999,7 @@
     Availability: Available
     Price: $72.00 USD
 - [Morocco Ski White Marle Tee](https://varsity54.com/products/morocco-ski-heather-grey-tee): Experience a touch of nostalgia with our Morocco Ski Heather Grey Tee. Made from high-quality Combed Cotton, this tee boasts a faded illustration and text for a vintage aesthetic.
-  Updated: 2026-03-15T11:02:07Z
+  Updated: 2026-03-25T14:43:13Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3020,7 +3020,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Kokrobite Beach Surf Ghana Charcoal Tee](https://varsity54.com/products/kokrobite-ghana-surf-club-tee): Discover the sun-drenched charm of Kokrobite Beach, Ghana, with our exclusive Surf Tee - a tribute to the effortless charm of coastal living. Drawing inspiration from the rhythmic movements of the waves and the relaxed refinement of West African surf culture, this tee captures the essence of coastal sophistication. Whether you're a seasoned surfer carving through the azure waves or a beachcomber soaking in the golden rays, our tee is the perfect fashion companion for all your coastal escapades. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Our garment dye tees are made with a special technique, which gives them a vintage look and super-soft feel — so they’re already broken-in on day one. A good rule of thumb is to care for your garment-dyed items just as you would your denim. We recommend washing on the cold cycle and hanging to dry, since it’s better for the environment and protects your clothes. Pre-shrunk during the garment dye and wash processes for almost no shrinkage at home providing a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:52Z
+  Updated: 2026-03-25T14:43:14Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3044,7 +3044,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Mozambique Surf Club Tee](https://varsity54.com/products/mozambique-surf-club-tee): Catch the vibe of Mozambique's surf scene with our vintage-inspired tee. Deep wine color sets the mood for the faded illustration featuring a classic longboard and iconic coastline. 'Mozambique Surf Club' weathered lettering adds retro charm. Soft cotton comfort meets East African surf cool. Perfect for wave-riders and beach dreamers alike. Embrace the laid-back spirit of Mozambique's golden surf era. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:57Z
+  Updated: 2026-03-25T14:42:54Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3068,7 +3068,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Club Morocco Tee](https://varsity54.com/products/club-morocco-tee): Embrace the effortless charm of Morocco from anywhere in the world with our Club Morocco Faded Heavy Tee, perfect for those who appreciate casual yet refined style. Boxy, oversized fit with dropped shoulders Heavy weight, 7.1 oz, 16-singles 100% carded cotton Wide neck ribbing with twin stitching, side seamed, shoulder to shoulder tape, double needle hems, garment dyed, preshrunk to minimise shrinkage Care Instructions: We strongly recommend washing these garments only with like-colored garments. Washing the garments in cold water will reduce the possibility of staining. Shade variations are inherent in the garment dyeing process. Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home. Pigment dye colors provide a vintage look that will remain for the life of the garment. Size XS S M L XL 2XL 3XL Body Width (in) 18.5 20.0 21.5 23.0 24.5 26.5 28.0 Body Length (in) 26.5 27.8 29.1 30.5 31.9 33.3 34.1
-  Updated: 2026-03-15T11:02:05Z
+  Updated: 2026-03-25T14:42:17Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3098,7 +3098,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/ClubMorocco_FADED_TEE_OLIVE-Recovered.png?v=1707520139
     Price: $44.00 USD
 - [Jefferys Bay Pink Surfing Tee](https://varsity54.com/products/copy-of-nairobi-track-field-faded-black-tee): Experience the essence of beachside elegance and laid-back style with our Pink Surfing Tee, inspired by South Africa's premier surf destination. Perfect for coastal adventures, our shirt adds a touch of trendy, surf-inspired fashion to any ensemble. Embrace the relaxed vibes of Jeffrey's Bay and make a statement with our exclusive design. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:50Z
+  Updated: 2026-03-25T14:42:28Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3122,7 +3122,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Kokrobite Surf Club Ghana Tee](https://varsity54.com/products/kokribite-surf-club-tye-dye-tee): Experience the stunning coastline of Ghana at Kokrobite Surf Beach, known for its pristine sands and exhilarating waves. Located just outside Accra, this dynamic beach community offers the perfect blend of surf culture and local charm. Whether you're diving into the turquoise waters, catching a wave, or simply relaxing on the sun-drenched shores, you'll be surrounded by the vibrant rhythms and cultural diversity of Ghana. Explore the bustling markets and lively beachfront bars, by taking home a piece of Kokrobite's soul with our unique t-shirt designs. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low Size Chart: SIZE XS S M L XL 2XL HALF CHEST 16.5" 18.5" 20.5" 22" 24" 25" LENGTH 26.5" 28" 29.5" 31" 32" 33"
-  Updated: 2026-03-15T11:02:00Z
+  Updated: 2026-03-25T14:42:48Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3176,7 +3176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/TYEDYEKOKROBITEGHANASURF.png?v=1718723183
     Price: $42.00 USD
 - [Jeffreys Bay South Africa Surfing IndigoTee](https://varsity54.com/products/jeffreys-bay-sout-africa-surfing-indigotee): Jeffrey's Bay: South Africa's premier surfing destination! Located on the Eastern Cape coastline, Jeffrey's Bay is known for its legendary waves and relaxed vibe. From novice to pro, surfers from around the world flock here to ride the perfect wave. Feel the energy of this coastal paradise. Get your J-Bay surf culture fix with our exclusive Indigo color Tee! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low Size Chart: SIZE XS S M L XL 2XL HALF CHEST 16.5" 18.5" 20.5" 22" 24" 25" LENGTH 26.5" 28" 29.5" 31" 32" 33"
-  Updated: 2026-03-15T11:02:25Z
+  Updated: 2026-03-25T14:43:54Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3200,7 +3200,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Mozambique Tofinho Point Surfing Navy Tee](https://varsity54.com/products/mozambique-tofinho-surfing-beach-navy-indigo-tee): Immerse yourself in the charm of Tofinho Beach Point with our exclusive Mozambique Tofinho Point Surfing Navy Tee. Capturing the essence of this hidden gem, each design embodies the spirit of Mozambique's surf culture, transporting you to the sun-drenched shores and limitless horizons of Tofinho Beach Point. Whether you're an experienced wave rider or an admirer of coastal beauty, our shirt invites you to embrace the relaxed vibes and lively energy of this premier surfing destination. No passport required – just slip on our tee and let the journey begin! 🏄‍♂️🌊 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low Size Chart: SIZE XS S M L XL 2XL HALF CHEST 16.5" 18.5" 20.5" 22" 24" 25" LENGTH 26.5" 28" 29.5" 31" 32" 33"
-  Updated: 2026-03-15T11:01:56Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3248,7 +3248,7 @@
     Availability: Available
     Price: $52.00 USD
 - [Mogadishu Sky Blue Tee](https://varsity54.com/products/mogadishu-sky-blue-tee): Embrace your Somali heritage no matter where life takes you with our Mogadishu Sky Blue Tee. Crafted in a soothing baby blue hue and adorned with crisp white lettering, this shirt captures the essence of Somalia's capital city in a subtle yet impactful way. Perfect for members of the Somali diaspora, our tee allows you to proudly represent your roots with every wear. Whether you're reminiscing about the bustling streets of Mogadishu or navigating new landscapes, let our tee be your connection to home and culture. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:01Z
+  Updated: 2026-03-25T14:43:30Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3269,7 +3269,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Maputo Pink Tee](https://varsity54.com/products/copy-of-mogadishu-sky-blue-tee): Capture the spirit of Mozambique's vibrant capital with our Maputo Pink Tee. Wear your Mozambican heritage with pride and elegance. Let our tee be your chic statement piece, connecting you to the heart of Maputo wherever life leads 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:12Z
+  Updated: 2026-03-25T14:43:30Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3290,7 +3290,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Mombasa Purple Tee](https://varsity54.com/products/copy-of-mozambique-pink-tee): From the lively vibe of the mitaani (streets) to the tantalizing flavors of pilau and mahamri, Mombasa is a hub of Swahili chic and coastal cool. Whether you're soaking up the sunshine at Nyali Beach or exploring the historic Old Town, our tee lets you carry a piece of Mombasa's vibez with you wherever you go. Let our shirt be your stylish link to the pulse of Mombasa life. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:54Z
+  Updated: 2026-03-25T14:43:22Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3311,7 +3311,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Dar es Salaam Tee](https://varsity54.com/products/dar-es-salaam-tee): Sport your Tanzania pride with our Dar es Salaam Tee! This shirt is a versatile and stylish way to showcase your heritage. Perfect for hanging out, exploring, and showing love for your country. Get your Dar es Salaam Tee now and let your spirit shine! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:10Z
+  Updated: 2026-03-25T14:42:32Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3352,7 +3352,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/DaresSalaampink.png?v=1708384019
     Price: $42.00 USD
 - [Abidjan Blue Tee](https://varsity54.com/products/abidjan-teal-tee): Channel the vibrant energy of Côte d'Ivoire with our Abidjan Tee! Featuring bold typography and sleek design, this shirt is more than just clothing—it's a symbol of pride for Côte d'Ivoire's bustling capital. Get yours now and let your Abidjanais pride shine! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:39Z
+  Updated: 2026-03-25T14:42:17Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3373,7 +3373,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Accra Tee](https://varsity54.com/products/accra-tee): Embrace the coastal charm of Accra with our Accra Logo Tee! With its sleek design and bold emblem, this shirt is more than just apparel—it's a connection to the vibrant rhythms of Ghana's coastal capital. Whether you're dreaming of palm-fringed beaches and ocean breezes or reminiscing about the bustling energy of Jamestown, our tee lets you carry the essence of Accra's coastal beauty with you wherever you go. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:09Z
+  Updated: 2026-03-25T14:42:32Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3414,7 +3414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Accra2_4e69d7a0-1b6e-4f62-bf14-435d5d031b7e.png?v=1708717737
     Price: $42.00 USD
 - [Mozambique Print on Purple Tee](https://varsity54.com/products/mozambique-print-on-blue-tee): Capture the spirit of Mozambique with our Mozambique Flag Tee! Whether you're dreaming of the historic streets of Maputo or the stunning beaches of Tofo, our tee lets you carry a piece of Mozambique's spirit with you wherever you go. Get yours now and let your Mozambican pride shine! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:48Z
+  Updated: 2026-03-25T14:42:51Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3475,7 +3475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Mozambique5.png?v=1708477904
     Price: $42.00 USD
 - [Lagos Faded Yellow Tee](https://varsity54.com/products/lagos-faded-yellow-tee): Embrace the hustle and bustle of Lagos with our This shirt is more than just apparel—it's a connection to the vibrant energy of Nigeria's bustling metropolis. Whether you're navigating the colorful markets of Balogun or dancing to the rhythms of Afrobeat in Surulere, our tee lets you carry the essence of Lagos with you wherever you go. Get yours now and let your Lagosian spirit shine 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:59Z
+  Updated: 2026-03-25T14:42:46Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3496,7 +3496,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Morocco Charcoal Tee](https://varsity54.com/products/freetown-coral-tee): Channel the vibrant energy of Côte d'Ivoire with our Abidjan Tee! Featuring bold typography and sleek design, this shirt is more than just clothing—it's a symbol of pride for Côte d'Ivoire's bustling capital. Get yours now and let your Abidjanais pride shine! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:52Z
+  Updated: 2026-03-25T14:42:17Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3517,7 +3517,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Sudan Blue Tee](https://varsity54.com/products/freetown-coral-tee-1): Embrace the essence of Sudan with our classic Sudan Tee—perfect for locals, diasporians, and visitors alike. Simple yet meaningful, this tee features a sleek design that proudly displays the name of our beloved country. Whether you're strolling through the streets of Khartoum, reminiscing about your Sudanese roots, or eager to take home a piece of your unforgettable journey, our Sudan Tee serves as the ideal memento. Wear it with pride and carry a piece of Sudan wherever you go. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:39Z
+  Updated: 2026-03-25T14:43:25Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3538,7 +3538,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Freetown Coral Tee](https://varsity54.com/products/freetown-coral-tee-2): Feel the spirit of Freetown with our Freetown Logo Tee! Featuring a bold emblem, this shirt is more than just apparel—it's a symbol of pride for Sierra Leone's dynamic capital. Our tee lets you carry a piece of Freetown's vibrant spirit with you wherever you go. Get yours now and let your Freetown pride shine 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:29Z
+  Updated: 2026-03-25T14:42:08Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3559,7 +3559,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Accra on Teal Tee](https://varsity54.com/products/accra-on-teal-tee): Embrace the coastal charm of Accra with our Accra Logo Tee! With its sleek design and bold emblem, this shirt is more than just apparel—it's a connection to the vibrant rhythms of Ghana's coastal capital. Whether you're dreaming of palm-fringed beaches and ocean breezes or reminiscing about the bustling energy of Jamestown, our tee lets you carry the essence of Accra's coastal beauty with you wherever you go. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:35Z
+  Updated: 2026-03-25T14:42:43Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3580,7 +3580,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Seychelles Faded Yellow Tee](https://varsity54.com/products/seychelles-faded-yellow-tee): Experience Seychelles wherever you go with our stylish tee! This shirt is more than apparel—it's a wearable escape to paradise. Whether you're a local missing home or a traveler cherishing memories, our tee lets you showcase your love for Seychelles in style. From the pristine beaches to vibrant markets, each wear celebrates the unique charm of this tropical paradise. Embrace Seychelles with our tee! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:25Z
+  Updated: 2026-03-25T14:42:42Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3601,7 +3601,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Madagascar Sky Blue Tee](https://varsity54.com/products/madagascar-sky-blue-tee): Embrace the enchantment of Madagascar with our exclusive tee! Whether you've roamed through the lush rainforests, marveled at the unique wildlife, or strolled along the pristine beaches, our tee serves as a cherished keepsake, capturing the essence of your Madagascar adventure. And for those yet to explore its treasures, let this tee ignite your wanderlust and serve as a reminder of the breathtaking experiences awaiting on this magical island. Take a piece of Madagascar with you, and let your journey begin! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:40Z
+  Updated: 2026-03-25T14:42:10Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3622,7 +3622,7 @@
     Availability: Available
     Price: $42.00 USD
 - [South Africa White Tee](https://varsity54.com/products/south-africa-white-tee): Whether you've danced to the rhythm of amapiano music, embarked on a safari in the Kruger National Park, or surfed the waves of Durban's beaches, our tee serves as a cherished memento, encapsulating the spirit of your South African adventures. And for those yet to explore its wonders, let this tee ignite your curiosity and serve as a beacon, beckoning you to discover the countless treasures this beautiful country has to offer. Wear your South African pride and let the journey begin! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:28Z
+  Updated: 2026-03-25T14:42:44Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3643,7 +3643,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Tunisia Purple Tee](https://varsity54.com/products/tunisia-purple-tee): Whether you've wandered through the ancient ruins of Carthage, marveled at the beauty of the Sahara Desert, or explored the enchanting streets of Tunis, our tee serves as a cherished keepsake, encapsulating the essence of your Tunisian adventures. And for those yearning to embark on their own journey, let this tee be the catalyst, igniting a sense of wanderlust and beckoning you to uncover the hidden treasures that await in this mesmerizing destination. Wear your Tunisian pride and let the exploration begin. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:54Z
+  Updated: 2026-03-25T14:42:25Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3664,7 +3664,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Zimbabwe Blue Tee](https://varsity54.com/products/zimbabwe-blue-tee): Journey into the heart of Africa's soul with our Zimbabwe text tee! A wearable ode to Zimbabwe's timeless allure. Whether you've marveled at the thundering Victoria Falls, wandered through the ancient ruins of Great Zimbabwe, or explored the vibrant streets of Harare, our tee serves as a cherished reminder of your Zimbabwean adventures. And for those yet to explore its wonders, let this tee be your guide, inspiring you to embark on a journey of discovery through this land of beauty and history. Wear your Zimbabwean pride and let the exploration commence! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:03Z
+  Updated: 2026-03-25T14:43:23Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3705,7 +3705,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Rwanda Tee](https://varsity54.com/products/rwanda-tee): Whether you've trekked through the misty forests of Volcanoes National Park to see the majestic mountain gorillas, explored the vibrant markets of Kigali, or paid homage at the Genocide Memorial, our tee serves as a cherished memento, capturing the essence of your Rwandan adventures. And for those yet to explore its wonders, let this tee be your invitation, inspiring you to delve into the depths of this remarkable country and uncover its hidden treasures. Wear your Rwandan pride and let the journey begin! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:35Z
+  Updated: 2026-03-25T14:42:45Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3746,7 +3746,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Nigeria Faded Yellow Tee](https://varsity54.com/products/nigeria-faded-yellow-tee): Our t-shirt is a wearable tribute to Nigeria's boundless energy and heritage. Whether you've danced to the rhythm of Afrobeat in Lagos, explored the bustling markets of Kano, or marveled at the natural wonders of the Osun-Osogbo Sacred Grove, our tee serves as a cherished memento, capturing the essence of your Nigerian adventures. And for those yet to explore its wonders, let this tee be your passport to discovery, inspiring you to embark on a journey through this remarkable nation and uncover its hidden treasures. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:48Z
+  Updated: 2026-03-25T14:42:30Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3787,7 +3787,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Ethiopia Yellow Tee](https://varsity54.com/products/ethiopia-yellow-tee): Whether you've hiked the rugged trails of the Simien Mountains, tasted the flavors of Ethiopian cuisine in Addis Ababa, or explored the ancient churches of Lalibela, our tee serves as a cherished keepsake, capturing the essence of your Ethiopian adventures. And for those yet to explore its wonders, let this tee be your guide, igniting a sense of wanderlust and inviting you to uncover the beauty and diversity of this remarkable nation. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:56Z
+  Updated: 2026-03-25T14:42:41Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3808,7 +3808,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Egypt Wine Tee](https://varsity54.com/products/egypt-plump-tee): Whether you've marveled at the wonders of the pyramids in Giza, sailed along the majestic Nile River, or explored the bustling bazaars of Cairo, our tee serves as a cherished memento, capturing the essence of your Egyptian adventures. Wear your Egyptian pride and let the adventure begin! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:55Z
+  Updated: 2026-03-25T14:42:55Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3829,7 +3829,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Tanzania Watermelon Tee](https://varsity54.com/products/tanzania-watermelon-tee): Whether you're exploring the majestic wildlife of the Serengeti, lounging on the pristine beaches of Zanzibar, or trekking through the lush forests of Kilimanjaro, our tee serves as a perfect companion, capturing the essence of your Tanzanian journey. For visitors, it's a memento of your incredible experiences and a reminder of the warmth and hospitality of our people. And for natives, it's a symbol of the pride and love for the homeland. So, whether you're planning your first trip to Tanzania or reminiscing about past adventures, wear your Tanzanian pride with our tee and let the spirit of this beautiful country accompany you wherever you go. Karibu Tanzania—welcome to Tanzania! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:33Z
+  Updated: 2026-03-25T14:42:42Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3850,7 +3850,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Namibia Purple Tee](https://varsity54.com/products/copy-of-sudan-blue-tee): This tee serves as a cherished memento of your Namibian experiences. Whether you're exploring the rugged beauty of the Namib Desert, immersing yourself in the rich cultural tapestry of Windhoek, or simply yearning for a piece of home, our Namibia Tee is your perfect companion. Wear it proudly and carry the essence of Namibia with you wherever you roam. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:12Z
+  Updated: 2026-03-25T14:43:49Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3871,7 +3871,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Kenya Print Tee](https://varsity54.com/products/copy-of-namibia-purple-tee): Embark on a journey through Kenya's vibrant landscapes and rich culture with our Kenya Tee—a stylish tribute for locals, diasporians, and adventurers alike. This tee exudes effortless charm with its sleek design featuring the iconic name of our beloved country. Whether you're savoring the flavors of Nairobi's bustling markets, basking in the golden savannas of the Maasai Mara, or simply yearning for a touch of Kenyan spirit, our Kenya Tee is your ticket to unforgettable memories. Embrace the allure of Kenya and wear your pride with every step. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:56Z
+  Updated: 2026-03-25T14:42:43Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3917,7 +3917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Kenya2.png?v=1719528610
     Price: $42.00 USD
 - [Botswana White Tee](https://varsity54.com/products/copy-of-kenya-teal-tee): Indulge in the untamed beauty of Botswana with our Botswana Tee—a true symbol of pride for locals, diasporians, and wanderers alike. This tee exudes rustic charm with its minimalist design featuring the name of our beloved country. Whether you're exploring the vast wilderness of the Okavango Delta, immersing yourself in the vibrant culture of Gaborone, or simply yearning for a piece of home, our Botswana Tee is your passport to cherished memories. Embrace the spirit of Botswana and wear it with pride wherever your adventures take you. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:19Z
+  Updated: 2026-03-25T14:42:44Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3938,7 +3938,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Cote d'Ivoire Blue Tee](https://varsity54.com/products/cote-divoire-blue-tee): Embrace the vibrant culture of Côte d'Ivoire with our Côte d'Ivoire Tee—a stylish homage to the beating heart of West Africa. This tee exudes sophistication with its sleek design featuring the name of our beloved country. Whether you're savoring the flavors of Abidjan's bustling markets, dancing to the rhythms of traditional music, or simply yearning for a touch of Ivorian flair, our Côte d'Ivoire Tee is your passport to cherished memories. Wear it proudly and let the spirit of Côte d'Ivoire accompany you on your journey. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:09Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -3959,7 +3959,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Algeria White Tee](https://varsity54.com/products/algeria-white-tee): Embrace the vibrant culture of Côte d'Ivoire with our Côte d'Ivoire Tee—a stylish homage to the beating heart of West Africa. This tee exudes sophistication with its sleek design featuring the name of our beloved country. Whether you're savoring the flavors of Abidjan's bustling markets, dancing to the rhythms of traditional music, or simply yearning for a touch of Ivorian flair, our Côte d'Ivoire Tee is your passport to cherished memories. Wear it proudly and let the spirit of Côte d'Ivoire accompany you on your journey. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:48Z
+  Updated: 2026-03-25T14:42:30Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4000,7 +4000,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Senegal Blue Tee](https://varsity54.com/products/senegal-blue-tee): Immerse yourself in the warmth of Senegal with our Senegal Tee—a vibrant tribute to the captivating rhythms of West Africa. This tee exudes effortless elegance with its clean design showcasing the name of our beloved country. Whether you're savoring the flavors of Dakar's bustling markets, dancing to the beats of traditional mbalax music, or simply yearning for a slice of Senegalese hospitality, our Senegal Tee is your gateway to unforgettable experiences. Wear it with pride and let the spirit of Senegal infuse your journey! Jërëjëf! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:47Z
+  Updated: 2026-03-25T14:42:29Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4036,7 +4036,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Democratic Republic of Congo Tee](https://varsity54.com/products/democratic-republic-of-congo-tee): Embrace the resilience of the Democratic Republic of the Congo with our Congo Tee—a solemn tribute to a nation in need of solidarity and support. As the DRC navigates through challenging times, may this tee serve as a reminder of the enduring spirit of the Congolese people. Wear it with pride and join us in advocating for positive change and progress in the DRC. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:55Z
+  Updated: 2026-03-25T14:42:42Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4092,7 +4092,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Burkina Faso Lilac Tee](https://varsity54.com/products/burkina-faso-lilac-tee): This tee symbolizes the strength and resilience of the Burkinabé people, with its striking color proudly displaying the name of this beloved country. As Burkina Faso forges its own path towards sovereignty and self-determination, let this tee be a symbol of unity and empowerment. Wear it with pride and join us in advocating for a future free from the shackles of colonialism. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:42Z
+  Updated: 2026-03-25T14:42:42Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4113,7 +4113,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Kwame Nkrumah Bootleg Charcoal Tee](https://varsity54.com/products/kwame-nkrumah-bootleg-white-tee): Embrace the legacy of Kwame Nkrumah with our tribute t-shirt. Inspired by the visionary leader who spearheaded Ghana's independence movement, this design embodies his spirit of resilience, unity, and Pan-Africanism. Our t-shirt pays homage to Nkrumah's unwavering commitment to freedom and liberation. Wear it proudly as a symbol of solidarity with the ongoing struggle for justice and equality worldwide. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:03:00Z
+  Updated: 2026-03-25T14:43:31Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4134,7 +4134,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Kwame Nkrumah Bootleg Faded Yellow Tee](https://varsity54.com/products/kwame-nkrumah-bootleg-faded-yellow-tee): Embrace the legacy of Kwame Nkrumah with our tribute t-shirt. Inspired by the visionary leader who spearheaded Ghana's independence movement, this design embodies his spirit of resilience, unity, and Pan-Africanism. Our t-shirt pays homage to Nkrumah's unwavering commitment to freedom and liberation. Wear it proudly as a symbol of solidarity with the ongoing struggle for justice and equality worldwide. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:22Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4155,105 +4155,105 @@
     Availability: Available
     Price: $42.00 USD
 - [University of Ghana Faded Blue Baseball Hat](https://varsity54.com/products/ug-blue-essential-tote-bag): University of Ghana Faded Blue hat with contrasting yellow embroidery High-Quality Cotton hat.
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/NavyEssentialToteBagUG_8f31ff93-4b17-40c3-826e-9a1d777c9a7b.png?v=1709045973
   Price: $40.00 USD
 - [University of Ghana Faded Blue Baseball Hat](https://varsity54.com/products/u-of-rwanda-sky-blue-gym-bag): University of Ghana Faded Blue hat with contrasting yellow embroidery High-Quality Cotton hat.
-  Updated: 2026-03-15T10:51:10Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/URwandaGymBag.png?v=1709052727
   Price: $46.00 USD
 - [Meerkat of the Kalahari Cap](https://varsity54.com/products/national-park): Inspired by the resilient and communal nature of the meerkats that roam the vast expanse of the African wilderness, our intricately embroidered cap pays homage to these fascinating creatures. Crafted with precision and attention to detail to bring a touch of its wild beauty to your everyday adventures. Wear it proudly as a symbol of your love for Africa's diverse landscapes and the majestic creatures that call it home. 100% Cotton Unstructured Soft Crown Lining 6 Panel Low Profile Dad Hat6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3" Style No. 18-692 - Dark Khaki
-  Updated: 2026-03-15T10:51:10Z
+  Updated: 2026-03-25T14:33:08Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/DarkKhakiHatMeerkat_c07304ca-98fe-4c71-89ab-817a38af1c47.png?v=1709166315
   Price: $34.00 USD
 - [Leopard of the Savannah Cap](https://varsity54.com/products/leopard-of-the-savannah-cap): Inspired by the stealth and grace of the leopard, our embroidered cap embodies the spirit of this iconic predator. Crafted with meticulous detail, each stitch captures the leopard's effortless elegance and powerful presence. As you don this cap, let it be a reminder of Africa's rich biodiversity and the majestic wildlife that roams its landscapes. Wear it with pride, knowing you carry a piece of Africa's wilderness wherever you go. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:13Z
+  Updated: 2026-03-25T14:33:13Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/DarkGreenLeopard.png?v=1709167599
   Price: $34.00 USD
 - [Zebra of the grasslands Cap](https://varsity54.com/products/zebra-of-the-grasslands-cap): Inspired by the striking beauty of the zebra, our embroidered cap captures the essence of this iconic creature. Each meticulously crafted stitch pays homage to the zebra's distinctive stripes, a symbol of nature's timeless elegance. As you don this cap, let it be a testament to Africa's remarkable wildlife and the captivating landscapes they inhabit. Wear it with pride, knowing you carry a piece of Africa's enchanting spirit with you wherever you go. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:10Z
+  Updated: 2026-03-25T14:33:08Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/GreyCapZebra.png?v=1709168231
   Price: $34.00 USD
 - [Guinea Fowl of Africa Cap](https://varsity54.com/products/guine-fowl-of-africa-cap): Inspired by the distinctive elegance of the guinea fowl, our meticulously embroidered cap pays homage to these iconic birds, endemic to Africa's diverse landscapes. Known for their striking plumage and distinctive calls, guinea fowl roam freely across the savannahs and woodlands, adding a touch of vibrancy to their surroundings. As you don this cap, envision yourself amidst Africa's vast expanses, the rhythmic beats of nature echoing in the distance. Wear it proudly as a tribute to Africa's rich biodiversity and the mesmerizing wildlife that call it home. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:13Z
+  Updated: 2026-03-25T14:33:13Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/GuineaFowlRedCap_0f7cbb04-5f58-449c-9d8e-a445b9750fea.png?v=1709169387
   Price: $34.00 USD
 - [African Lion of the Savannah Cap](https://varsity54.com/products/african-lion-of-the-savannah-cap): Crowning glory meets untamed elegance with our meticulously embroidered lion hat. This regal feline, rendered in intricate stitches, commands attention atop your favorite headwear. The lion's majestic mane and piercing gaze capture the essence of strength and nobility, making a bold statement whether you're exploring urban jungles or savoring outdoor adventures. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/SoftPinkCapLeopard.png?v=1709170145
   Price: $34.00 USD
 - [Rhino of the Serengeti Cap](https://varsity54.com/products/rhino-of-the-serengeti-cap): Roaming the savannahs and grasslands with unwavering determination, the rhinoceros stands as a testament to the harmony between power and grace. As you don this cap, envision yourself amidst the untamed beauty of Africa's plains, where the rhino's formidable silhouette commands respect and admiration. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:14Z
+  Updated: 2026-03-25T14:33:13Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/NavyCapRhino.png?v=1709170736
   Price: $34.00 USD
 - [Baboon of the Ethiopian Highlands Cap](https://varsity54.com/products/baboon-of-the-ethiopian-highlands-cap): Perched atop rocky outcrops and traversing steep cliffs with agility, the baboons of the Ethiopian highlands epitomize adaptability and resourcefulness. As you don this cap, envision yourself amidst the breathtaking vistas of Africa's elevated terrains, where the baboon's distinctive calls echo through the valleys, a symphony of wilderness. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed & Pigment dyedAdjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/CAP6PanelLowProfileDadHatGarmentWashedPigmentDyedCottonTwillYellow.png?v=1709171680
   Price: $34.00 USD
 - [Giraffe of the Serengeti Cap](https://varsity54.com/products/giraffe-of-the-serengeti-cap): Embark on a journey through the Serengeti's majestic plains with our National Parks Africa Collection. Adorned with an exquisite giraffe embroidery, our cap brings to life the iconic beauty of these graceful creatures. Crafted with meticulous detail, each stitch captures the giraffe's elegant form, making this cap a stylish celebration of Africa's enchanting wildlife. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:08Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/KhakiCapGiraffe_5215a742-a01c-4f8c-b6d9-46310e3524ca.png?v=1709221830
   Price: $34.00 USD
 - [Dhow Boat Blue Cap](https://varsity54.com/products/dhow-boat-blue-cap): Immerse yourself in the rich maritime heritage of Africa with our our blue cap adorned with intricate dhow boat embroidery. For centuries, the dhow has been an iconic symbol of trade, exploration, and cultural exchange across the African continent's vast coastlines. With each stitch of our embroidered dhows, we pay homage to this timeless tradition, celebrating the resilience and ingenuity of coastal communities.Whether you're strolling along the shores or navigating urban landscapes, our headwear serves as a stylish tribute to Africa's seafaring legacy. Join us in embracing the spirit of adventure and discovery, as we set sail into a world of endless possibilities. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:08Z
+  Updated: 2026-03-25T14:33:08Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/LakeBlueCapDhowSailing.png?v=1709222187
   Price: $44.00 USD
 - [Surf Ghana Turquoise Cap](https://varsity54.com/products/surf-ghana-turquoise-cap): Dive into the vibrant surf culture of Ghana with our embroidered cap featuring a 'Surf Ghana' motif. From the golden shores of Busua to the lively breaks of Kokrobite, Ghana's surf scene is a colorful tapestry of passion, camaraderie, and endless waves.Crafted for both style and functionality, our cap is the perfect companion for surfers and beach lovers alike. Whether you're catching waves at sunrise or chilling with friends at beachside cafes, our cap adds a touch of coastal cool to any outfit. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/TorquiseCapSurfGhana_93756796-900a-486c-bf82-4f9a7e0b4e41.png?v=1709309819
   Price: $44.00 USD
 - [Ghana Embroidered Neon Green Cap](https://varsity54.com/products/ghana-embroidered-neon-green-cap): Embrace the vibrant spirit of Ghana's capital city with our embroidered cap featuring 'Accra' text. Crafted with style and comfort in mind, our cap is the perfect accessory for exploring Accra's eclectic neighborhoods, vibrant nightlife, and rich cultural heritage. Whether you're navigating the colorful streets of Osu or sampling street food delights in Jamestown, our cap adds a touch of urban chic to any ensemble.100% CottonUnstructured Soft Crown Lining6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:10Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/AccraYellowCap.png?v=1709310394
   Price: $44.00 USD
 - [Flamingos of Lake Nakuru National Park Cap](https://varsity54.com/products/flamingos-of-lake-nakuru-national-park-cap): Transport yourself to the vibrant world of Lake Nakuru National Park with our breathtaking flamingo cap in color turquoise. Immerse yourself in the colorful beauty of Africa's wildlife and the iconic pink flamingos that call this park home. Our stunning hat captures the essence of this diverse avian paradise. Perfect for exploring the park's picturesque landscapes or embracing nature's wonders from afar, this hat is a stylish and inspiring addition to any outfit. 100% Cotton Unstructured Soft Crown Lining 6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:08Z
+  Updated: 2026-03-25T14:33:08Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/TorquiseCapFlamingoLakeNkaru.png?v=1709312803
   Price: $44.00 USD
 - [Patrice Lumumba Quote Charcoal Tee](https://varsity54.com/products/patrice-lumumba-quote-tee): Honor the legacy of Patrice Lumumba, the iconic African leader, with our charcoal-colored t-shirt featuring a powerful 'Africa Bleeding' design on the front and Lumumba's poignant quote, 'We won our independence by our own blood and effort,' boldly emblazoned on the back. Crafted with reverence and respect, our t-shirt serves as a wearable homage to Lumumba's unwavering commitment to African liberation and self-determination. The striking 'Africa Bleeding' design symbolizes the sacrifices made in the struggle for independence, while Lumumba's words echo the resilience and determination of the African people. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:23Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4274,28 +4274,28 @@
     Availability: Available
     Price: $42.00 USD
 - [Muizenberg Beach Embroidered Mint Cap](https://varsity54.com/products/south-africa-embroidered-mint-cap): Embrace the vibrant beauty of South Africa's Muizenberg Beach with our mint-colored hat featuring elegant 'South Africa' embroidery and a charming Muizenberg Beach image. Crafted with care and attention to detail, this hat is a stylish nod to one of South Africa's most iconic coastal destinations. Whether you're strolling along the famous colorful beach huts or simply soaking up the sun on the sandy shores, our hat is the perfect accessory for any adventure. The tranquil mint color adds a refreshing touch, while the embroidered text and image evoke the spirit of South African coastal living. 100% Cotton Unstructured Soft Crown Low-Fitting6 Panel Low Profile Dad Hat6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Superior Cotton Twill Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3" Style No. 18-772 - Mint
-  Updated: 2026-03-15T10:51:12Z
+  Updated: 2026-03-25T14:33:12Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/SouthAfricaMintCap.png?v=1709580691
   Price: $44.00 USD
 - [Morocco Marrakesh Embroidered Yellow Cap](https://varsity54.com/products/morocco-embroidered-yellow-cap): Embark on an enchanting journey to the heart of Morocco with our Marrakesh Embroidered Cap. Crafted for those who carry a piece of Morocco in their hearts or yearn to explore its mystic lands, this cap is more than just an accessory—it's a statement. Whether you're navigating the bustling souks of Marrakesh, wandering through the serene Atlas Mountains, or simply embracing the spirit of Morocco from afar, our cap ensures you do it in style. Whether you're a seasoned traveler, a proud member of the Moroccan diaspora, or simply someone who appreciates the beauty of global cultures, this cap is your passport to a world of Moroccan allure. Let it be a reminder of your travels, a symbol of your heritage, or an inspiration for your next adventure. 100% CottonUnstructured Soft Crown Lining6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/MoroccoMarrakeshyellowcap.png?v=1709742293
   Price: $44.00 USD
 - [Cape Town Embroidered Aqua Cap](https://varsity54.com/products/capetown-embroidered-aqua-cap): Indulge yourself in the stunning beauty of South Africa's beloved city with our embroidered cap featuring the Cape Town patch. This cap is more than just an accessory; it's a tribute to the awe-inspiring landscapes, rich culture, and vibrant energy of Cape Town. For those who have fallen in love with its charm or dream of exploring its picturesque vistas, this patch represents a symbol of wanderlust and admiration. But this cap offers even more - it's a conversation starter, a reminder of your journeys, and a symbol of your adventurous spirit. It's perfect for the wanderers, history buffs, nature enthusiasts, and anyone who feels pulled towards this remarkable city. 100% CottonUnstructured Soft Crown Lining6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:12Z
+  Updated: 2026-03-25T14:33:11Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/AquaCapCapetown_c587f011-f4d3-499d-bc04-9bd35374f76b.png?v=1709743261
   Price: $44.00 USD
 - [East African Wild Life Society Cap](https://varsity54.com/products/east-african-wild-life-society-cap): Embark on a journey into the heart of East Africa with our Safari Spirit Trucker Hat, adorned with a vintage East Africa Wildlife Society patch. This hat is not just a nod to the magnificent wildlife and breathtaking landscapes of East Africa; it's a tribute to the conservation efforts that protect this region's natural heritage. Designed for adventurers, wildlife enthusiasts, and conservationists alike, this trucker hat is your badge of honor and a symbol of your commitment to wildlife preservation. Front: 100% Cotton Back: 100% Polyester MeshGarment Washed Pigment Dyed Superior Cotton Twill w/ Soft Polyester Mesh Unstructured Soft Front PanelFlexible Fit6 Panel CapSeamed Front Panel without Buckram6 Sewn EyeletsPre Curved Visor6 Rows Stitching on VisorMatching Fabric UndervisorStretchable Performance Sweatband: Moisture Wicking / Anti-Odor / AntibacterialEnclosed Sizes: S/M (56cm -59cm/7 - 7 3/8 /22" -23.2") & L/XL (59cm - 62cm/7 3/8 - 7 3/4 /23.2" - 24.4") Style No. 169-1264
-  Updated: 2026-03-15T11:03:11Z
+  Updated: 2026-03-25T14:42:56Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
@@ -4307,28 +4307,28 @@
     Availability: Available
     Price: $44.00 USD
 - [Mount Kenya Navy/Khaki Cap](https://varsity54.com/products/mount-kenya-navy-khaki-cap): Elevate your adventure gear with our Mount Kenya Explorer Cap, a striking navy/khaki two-tone cap that carries the spirit of Africa's second-highest peak. Adorned with a vintage-inspired Mount Kenya patch, this cap is a testament to the timeless allure of one of the world's most majestic mountains. Designed for adventurers, mountaineers, and lovers of the great outdoors, this cap is your companion on the trails, in the city, and everywhere in between. 100% Cotton - Unstructured Soft Crown Low-FittingGarment Washed Pigment Dyed Cotton Twill Crown Split - Navy/Khaki 6 Panel Low Profile Dad Hat 6 Sewn Eyelets Pre Curved Visor 4 Rows Stitching on Visor Matching Fabric Under Visor Metal Press Buckle Size: OSFM -  (58cm/22.8") Style No. 18-202
-  Updated: 2026-03-15T10:51:12Z
+  Updated: 2026-03-25T14:33:13Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Mt.KenyaNavy_KhakiHat.png?v=1709755767
   Price: $44.00 USD
 - [Nairobi, Kenya Embroidered Dark Khaki Cap](https://varsity54.com/products/nairobi-kenya-embroidered-dark-khaki-cap): A tribute to the timeless beauty of Kenya's capital. This hat, with its simple yet evocative vintage lion patch, captures the spirit of Nairobi in a design that speaks volumes through its simplicity. Designed for those who appreciate the serene majesty of one of Africa's most iconic creatures, this hat is a subtle nod to Nairobi's rich wildlife heritage and its status as a gateway to Kenya's natural wonders. 100% CottonUnstructured Soft Crown Lining6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:10Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/DarkKhakiHatNairobiKenya_02192790-99ee-432b-8abe-87a8b02b2ad5.png?v=1709757766
   Price: $44.00 USD
 - [Namibia Embroidered Khaki Cap](https://varsity54.com/products/namibia-embroidered-khaki-cap): This exclusive hat, adorned with a vintage-inspired embroidery patch, is a tribute to Namibia's breathtaking landscapes and its iconic wildlife. Designed for the wanderlust-driven spirit, conservation enthusiasts, and admirers of the African wilderness, this hat is your silent storyteller of adventures in one of the world's most captivating settings. The patch on this hat is a simple yet evocative depiction of the Sossusvlei scene, where the gentle curves of the dunes meet the resilient oryx wandering the vast expanses. The minimalist design captures the essence of the Namibian landscape, highlighting the oryx's elegance against the backdrop of the towering dunes, under the vast African sky. 100% CottonUnstructured Soft Crown Lining6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:09Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/KhakiCapNamibia.png?v=1709827013
   Price: $44.00 USD
 - [Patrice Lumumba Retro Faded Yellow Tee](https://varsity54.com/products/patrice-lumumba-retro-faded-yellow-tee): Featuring a meticulously recreated print of a vintage stamp that once commemorated Lumumba's contributions to the DRC's liberation, this t-shirt is not just an item of clothing but a piece of history. The design captures the essence of Lumumba's vision, his unwavering commitment to his people, and his enduring legacy in the fight against colonial oppression. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:31Z
+  Updated: 2026-03-25T14:42:48Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4349,7 +4349,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Ghana Vintage Stamp Print Tee](https://varsity54.com/products/ghana-vintage-print-tee): This unique piece not only celebrates the iconic African elephant but also pays homage to Ghana's rich cultural heritage. Inspired by a vintage stamp, this T-shirt is a fusion of history, nature, and artistry, making it a must-have for anyone who cherishes the continent's enduring legacy. Featuring a striking print of a big elephant, symbolizing strength, wisdom, and the natural beauty of Africa, alongside the evocative text "African Elephant and Ghana," this T-shirt is a statement of pride, a nod to Ghana's vibrant culture, and a reminder of the continent's majestic wildlife. The vintage stamp design adds a touch of nostalgia, transporting you to a moment in time where every stamp told a story of distant lands and fascinating creatures. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:22Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4370,7 +4370,7 @@
     Availability: Available
     Price: $42.00 USD
 - [African National Parks Charcoal Tee](https://varsity54.com/products/list-of-national-parks-africa-faded-black-tee): Explore Africa’s renowned national parks with our 100% cotton Charcoal Tee. Featuring Kilimanjaro, Serengeti, and more, this tee is perfect for adventurers. Shop now!
-  Updated: 2026-03-15T11:02:17Z
+  Updated: 2026-03-25T14:42:36Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4388,7 +4388,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Serengeti National Park Faded Yellow Tee](https://varsity54.com/products/serengeti-national-park-faded-yellow-tee): Inspired by the boundless vistas of the Serengeti, this tee features a unique, hand-drawn design that evokes the rugged charm of vintage expedition sketches. The illustration focuses on the sprawling savannahs that are synonymous with the Serengeti, showcasing its diverse ecosystem where giraffes roam freely, silhouetted against the vast, open skies. This design not only celebrates the park's natural beauty but also its role as a sanctuary for millions of animals migrating across its plains annually. Crafted from the softest cotton blend for maximum comfort 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:36Z
+  Updated: 2026-03-25T14:42:42Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4406,7 +4406,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Visa Stamp Water Bottle Mint Green](https://varsity54.com/products/visa-stamp-water-bottle-mint-green): More than just a means to stay hydrated, this 32 Oz stainless steel water bottle is your personal travel companion, inviting you to mark and celebrate each African country you've visited with an exclusive set of visa stamp stickers for all 54 African nations. This water bottle is not just an accessory; it's a testament to your adventures, a bucket list in progress, and a motivation to explore the unseen corners of Africa. Whether you're a seasoned traveler or dreaming of your first African expedition, the African Explorer’s Journey Water Bottle becomes a personal diary of your travels, an interactive record that grows with every trip. Highlights: Track Your Travels: Comes with a unique visa sticker for every African country, allowing you to visually document your journey across the continent. Durable & Insulated: Crafted from high-grade stainless steel, with vacuum insulation that keeps your drinks cold or hot for hours. Eco-Friendly Design: BPA-free and built for sustainability, it's the perfect companion for eco-conscious travelers. Wide Mouth with Spout Lid: Easy filling and drinking, designed for adventurers on the go. Product Dimensions 4"W x 10.2"H Material Stainless Steel Included Components Lid Product Care Instructions Hand Wash Only Cap Type Loop Cap With Lid Yes Item Weight 1.06 pounds
-  Updated: 2026-03-15T11:02:34Z
+  Updated: 2026-03-25T14:42:11Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
@@ -4419,7 +4419,7 @@
     Availability: Available
     Price: $38.00 USD
 - [Travel Journal With Visa Stamps](https://varsity54.com/products/travel-journal-mint-green): Capture the essence of your African odyssey with our uniquely crafted African Adventure Visa Stamp Travel Journal. This isn't just a journal; it's a passport to the heart of Africa, offering you a creative way to document your travels across all 54 countries on the continent. Pu Outer Elastic closure Inner gusseted paper pocket Travel Journal with printed internals Budgeting and planning pages Packing checklists Journalling pages Composition: 83% Paper, 14% Polyurethane , 2% Latex, 1% Polyester. Size: Length x Width SOLID - 14.8 x 21.0 cm Care: Wipe outer with clean dry cloth.
-  Updated: 2026-03-15T11:02:31Z
+  Updated: 2026-03-25T14:42:41Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
@@ -4433,14 +4433,14 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/TravelJournalPeach.jpg?v=1733841514
     Price: $52.00 USD
 - [Cape Town Embroidered Coral Cap](https://varsity54.com/products/capetown-embroidered-coral-cap): Elevate your headwear collection with the vibrant spirit of South Africa's coastal gem, the Cape Town Spirit Trucker Foam Hat. This stylish accessory is not just a hat but a celebration of Cape Town's iconic landscapes, vibrant culture, and laid-back seaside vibe. Designed for explorers, city lovers, and everyone in between, this hat embodies the essence of one of the world's most beautiful cities. 100% Polyester Front 100% Polyester Mesh Back The Traditional Look 5-panel cap Seamless Foam Front Panel with Lining Matching Color Braid 8 Rows Stitching on Visor Matching Fabric Undervisor Matching Color Sweatband Plastic Adjustable Snap OSFM -  (6 1/2 - 7 5/8)
-  Updated: 2026-03-15T10:51:15Z
+  Updated: 2026-03-25T14:33:14Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Capetownmeshhatembriodery.png?v=1710166146
   Price: $44.00 USD
 - [Travel Journal With Ghanian Vintage Postal Stamps](https://varsity54.com/products/travel-journal-with-vintage-postal-stamps): Our travel journal and Ghana vintage stamp set offers a vibrant depiction of the country's rich heritage and history. The stamps serve as a key to unlocking stories and inspiring us to explore, learn, and connect. With a hint of nostalgia and a sense of wanderlust, these stamps bring a unique touch to personal journals, creating a timeless anthology of adventure and discovery. 192 pages total 189 pages of Plain or Lined Note 1 page of Personal Info A ribbon bookmark attached Hardcover wrapped with PU leather 100 gsm paper 7.87 x 5.71 x 0.63in.
-  Updated: 2026-03-15T11:02:22Z
+  Updated: 2026-03-25T14:42:34Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
@@ -4452,21 +4452,21 @@
     Availability: Available
     Price: $52.00 USD
 - [Botswana Wildlife Navy Cap](https://varsity54.com/products/botswana-wildlife-navy-cap): Our navy cap adorned with a detailed elephant embroidery patch that celebrates Botswana's majestic wildlife. Crafted for both durability and comfort, this cap not only adds a touch of wilderness charm to any outfit but also embodies a commitment to conservation, with a portion of proceeds supporting wildlife protection in Botswana. Perfect for nature enthusiasts and those with a keen eye for fashion, it's an eco-conscious choice that offers a blend of style, sustainability, and a deep appreciation for the natural world. Ideal as a thoughtful gift, this cap is a testament to the beauty of wildlife and the spirit of adventure. 100% Cotton Unstructured Soft Front Crown LiningLow Fitting6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Pigment Dyed Superior Combed Cotton TwillAdjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3" *Style No. 18-201 - Navy
-  Updated: 2026-03-15T10:51:08Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/BotswanaWildlife.png?v=1710506302
   Price: $44.00 USD
 - [Morocco Embroidered Faded Yellow Cap](https://varsity54.com/products/morocco-embroidered-faded-yellow-cap): Experience the vibrant essence of Morocco with our cap, featuring an intricately embroidered patch that weaves together the rich tapestry of Moroccan cityscapes and the serene beauty of its desert mountains. The detailed embroidery captures the unique blend of Morocco’s cultural heritage and natural splendor, making it a perfect piece for those who appreciate the artistry and diverse landscapes of this enchanting country. 100% CottonUnstructured Soft Crown Lining6 Panel Cap 6 eyelets Pre Curved Visor 6 Rows Stitching on Visor Garment Washed Adjustable Hook and Loop Closure Size: OSFM -  (6 1/2 - 7 5/8) Crown Height -  Low Profile: 8.25 cm - 8.4 cm / 3.2" - 3.3"
-  Updated: 2026-03-15T10:51:11Z
+  Updated: 2026-03-25T14:33:14Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/MoroccoCap.png?v=1710511334
   Price: $44.00 USD
 - [Patrice Lumumba Engraving Print Charcoal Tee](https://varsity54.com/products/patrice-lumumba-engraving-print-faded-black-tee): Our exclusive T-shirt pays tribute to Patrice Lumumba and his powerful legacy, featuring a captivating print by Arturo García Bustos, a renowned Mexican artist from the 1960s. This garment represents more than just a blend of history and art - it symbolizes independence, visionary leadership, and social justice. For those who love art, history, and advocating for important causes, this T-shirt is a must-have. It serves as a reminder of Lumumba's enduring impact and the ability of art to inspire and provoke thought. Whether worn as a statement piece or given as a meaningful gift, this T-shirt offers a unique connection to a pivotal moment in history through a celebrated artist's interpretation. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:23Z
+  Updated: 2026-03-25T14:43:50Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4487,7 +4487,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Travel Journal With Vintage Hotel Stickers](https://varsity54.com/products/travel-journal-with-vintage-hotel-stickers): Discover the charm of Africa's historic hotels with our Vintage African Hotel Stickers & Journal Set. This unique set pairs a sleek, durable travel journal with a collection of exclusive stickers featuring Africa's legendary hotels from yesteryears. Designed for travelers who appreciate the allure of the past, these stickers allow you to personalize your journal, creating a nostalgic journey through Africa's rich hospitality heritage.Whether you're a seasoned traveler, a lover of vintage art, or a collector of travel memorabilia, these stickers will inspire you to pen down your adventures or daydream about journeys yet to come. Use them to embellish your journal entries, scrapbook pages, or even your laptop and luggage, carrying with you the spirit of exploration and the nostalgia of Africa's storied past. 192 pages total 189 pages of Plain or Lined Note 1 page of Personal Info A ribbon bookmark attached Hardcover wrapped with PU leather 100 gsm paper 7.87 x 5.71 x 0.63in.
-  Updated: 2026-03-15T11:02:21Z
+  Updated: 2026-03-25T14:42:04Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
@@ -4499,7 +4499,7 @@
     Availability: Available
     Price: $52.00 USD
 - [University of Lagos Distressed Logo Heather Grey Tee](https://varsity54.com/products/university-of-lagos-distressed-logo-heather-grey-tee): Introducing our University of Lagos Distressed Logo Heather Grey T-Shirt, a must-have for any proud student, alumni, or fan of this prestigious institution. Crafted from high-quality, soft, athletic grey fabric, this T-shirt is designed to provide both comfort and style. The centerpiece of this piece is the expertly distressed logo, featuring the school's name in its iconic colors, capturing the spirit and heritage of the University of Lagos also known as UNILAG. 85% combed cotton 15% viscose Regular fitCrew neckMid weight, 5.3 oz, 28-singles Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage.
-  Updated: 2026-03-15T11:02:11Z
+  Updated: 2026-03-25T14:43:53Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4523,7 +4523,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Women's Heather Grey Tee](https://varsity54.com/products/university-of-lagos-heather-grey-tee): Embrace collegiate charm with our Heather Grey T-Shirt from the University of Lagos, designed specifically for women. Crafted from soft, breathable fabric, this t-shirt features a sleek, feminine fit that flatters and comforts. The front showcases the school's logo, vibrantly printed in the official school colors, making it a perfect way to show off your school spirit. Whether you're heading to class, a game, or just out for a casual day, this t-shirt is a versatile addition to your wardrobe, blending style with the pride of your alma mater. Shop now and wear your heritage with pride. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:02:22Z
+  Updated: 2026-03-25T14:43:50Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4547,7 +4547,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Women's Heather Grey Tee 2](https://varsity54.com/products/university-of-lagos-heather-grey-tee-2): Embrace collegiate charm with our Heather Grey T-Shirt from the University of Lagos, designed specifically for women. Crafted from soft, breathable fabric, this t-shirt features a sleek, feminine fit that flatters and comforts. The front showcases the school's logo, vibrantly printed in the official school colors, making it a perfect way to show off your school spirit. Whether you're heading to class, a game, or just out for a casual day, this t-shirt is a versatile addition to your wardrobe, blending style with the pride of your alma mater. Shop now and wear your heritage with pride. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:01:20Z
+  Updated: 2026-03-25T14:42:22Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4571,7 +4571,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Women's Yellow Tee](https://varsity54.com/products/university-of-lagos-yellow-tee): Show off your school spirit with our University of Lagos Yellow Tee, crafted for women. Made with soft, breathable fabric, this t-shirt offers a sleek, flattering fit. The front displays the school's logo in school colors, making it the perfect way to embrace your collegiate pride. Whether you're heading to class, a game, or simply out for the day, this versatile t-shirt is a must-have addition to your wardrobe. Shop now to show off your heritage with pride. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:01:54Z
+  Updated: 2026-03-25T14:42:14Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4595,7 +4595,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Women's Heather Grey Tank](https://varsity54.com/products/university-of-lagos-heather-grey-racerback-tee-1): A standout piece from our University of Lagos Collection for Women. This racerback tank top combines the casual ease of heather grey fabric with the proud display of your university's emblem front and center. Designed for comfort and style, it's the perfect choice for those warm days on campus, at the yoga class, or when you're just lounging at home. The breathable material ensures you stay cool, while the collegiate logo brings a touch of scholarly pride to your everyday wear. Ideal for alumni, students, and fans alike, this tank top is a versatile addition to any wardrobe, celebrating academic excellence in every stitch. Regular fit Crew neck Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:03:09Z
+  Updated: 2026-03-25T14:43:31Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4619,7 +4619,7 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Ghana Cropped Heather Grey Tee](https://varsity54.com/products/university-of-ghana-womens-heather-grey-tank): University of Ghana Women's Heather Grey Tee with contrasting top outline blue print High-Quality Cotton T-Shirt.
-  Updated: 2026-03-15T11:02:10Z
+  Updated: 2026-03-25T14:43:53Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4640,7 +4640,7 @@
     Availability: Available
     Price: $28.00 USD
 - [University of Ghana Mug](https://varsity54.com/products/university-of-ghana-mug): Our collection of custom University of Ghana mugs is designed for loyal fans of University of Ghana. These ceramic mugs feature the iconic UG logo in blue and yellow, showcasing your team spirit. Whether you're enjoying your morning coffee or cheering on the UG teams during game day, our personalized University of Ghana logo mugs are a must-have. They also make great gifts for fellow UG fans, alumni, and students. Elevate your beverage experience and show off your UG pride with these custom mugs. Ceramic. 11oz & 15oz. Easy-to-grip C-handle, Dishwasher, and Microwave SAFE! Can be used for both hot & cold beverages. *Please note that the actual colors may slightly vary from those seen in the listing photos due to monitor settings and the nature of handcrafting the product.
-  Updated: 2026-03-15T11:02:31Z
+  Updated: 2026-03-25T14:42:20Z
   Vendor: Varsity54
   Product Type: Accessories
   Availability: Available
@@ -4652,21 +4652,21 @@
     Availability: Available
     Price: $44.00 USD
 - [University of Ghana Water Bottle](https://varsity54.com/products/university-of-ghana-water-bottle): Elevate your hydration game with the University of Ghana 17-ounce Double-Walled Stainless Steel Water Bottle, a durable and stylish companion for your daily adventures. Designed to celebrate the spirit and resilience of the University of Ghana community, this water bottle is perfect for students, alumni, and faculty alike who appreciate functionality and school pride. Whether you're rushing to class on a sunny morning or studying late in the cooler evening hours, your drink will maintain its temperature, just the way you like it. The odor- and leak-proof cap guarantees a worry-free experience, allowing you to carry it in your bag without second thoughts. Its size fits perfectly in car cup holders and backpacks, ensuring you stay hydrated whether you're navigating campus, exploring the outdoors, or commuting to work. • High-grade stainless steel• 17 oz (500 ml)• Dimensions: 10.5″ × 2.85″ (27 × 7 cm)• Vacuum flask• Double-wall construction• Bowling pin shape• Glossy finish• Odorless and leak-proof cap• Insulated for hot and cold liquids (keeps the liquid hot or cold for 6 h)• Patented ORCA coating for vibrant colors• Hand-wash onlyDisclaimer: Keeping water in the bottle for over 24 hours is unhygienic and can result in an unpleasant smell.
-  Updated: 2026-03-15T10:51:08Z
+  Updated: 2026-03-25T14:33:10Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/UniversityofGhanaWaterBottle.png?v=1711381128
   Price: $38.00 USD
 - [University of Lagos Water Bottle](https://varsity54.com/products/university-of-lagos-water-bottle): Elevate your hydration game with the University of Ghana 17-ounce Double-Walled Stainless Steel Water Bottle, a durable and stylish companion for your daily adventures. Designed to celebrate the spirit and resilience of the University of Ghana community, this water bottle is perfect for students, alumni, and faculty alike who appreciate functionality and school pride. Whether you're rushing to class on a sunny morning or studying late in the cooler evening hours, your drink will maintain its temperature, just the way you like it. The odor- and leak-proof cap guarantees a worry-free experience, allowing you to carry it in your bag without second thoughts. Its size fits perfectly in car cup holders and backpacks, ensuring you stay hydrated whether you're navigating campus, exploring the outdoors, or commuting to work. • High-grade stainless steel• 17 oz (500 ml)• Dimensions: 10.5″ × 2.85″ (27 × 7 cm)• Vacuum flask• Double-wall construction• Bowling pin shape• Glossy finish• Odorless and leak-proof cap• Insulated for hot and cold liquids (keeps the liquid hot or cold for 6 h)• Patented ORCA coating for vibrant colors• Hand-wash onlyDisclaimer: Keeping water in the bottle for over 24 hours is unhygienic and can result in an unpleasant smell.
-  Updated: 2026-03-15T10:51:13Z
+  Updated: 2026-03-25T14:33:13Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/UniversityofLagosWaterBottle.png?v=1711383395
   Price: $38.00 USD
 - [University of Rwanda Vintage Blue Hoodie](https://varsity54.com/products/university-of-rwanda-vintage-blue-pigment-dye-hoodie): Embrace the timeless charm of collegiate style with our Vintage-Inspired Baby Blue Pigment Dye Hoodie. Crafted with a passion for the past and an eye for authenticity, this hoodie is a tribute to the classic, lived-in look that defined generations of campus life. Perfect for alumni looking to recapture a piece of their collegiate days and vintage enthusiasts seeking authentic, retro-inspired fashion. 80% cotton 20% polyester Pullover hood, raglan sleeves, kangaroo pocket, metal tipped tonal drawcord, hem and sleeve 2x2 ribbing, un-lined hood, cover stitching on seams
-  Updated: 2026-03-15T11:01:50Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Hoodies & Sweatshirts
   Availability: Available
@@ -4687,7 +4687,7 @@
     Availability: Available
     Price: $86.00 USD
 - [University of Rwanda Indigo Sweatpants](https://varsity54.com/products/university-of-rwanda-indigo-sweatpants): Complete your look with our Pullover Hoodie-matching sweatpants, designed for both comfort and durability. Weighing in at a substantial 10 oz, these sweatpants offer the perfect blend of heft and softness, ensuring they feel as good as they look. Their casually tailored fit strikes the ideal balance between slouchy and streamlined, ensuring they're neither too tight nor overly loose. Crafted with tightly spun fabric, they promise to maintain their integrity, wear after wear. These sweatpants aren’t just another pair; they’re your new all-day uniform, embodying the perfect mix of school pride and style for the University of Rwanda community. Relaxed Fit True to size 10 oz (340 GSM) 80% Cotton, 20% Polyester 3-end fleece, heavyweight, and garment dyed. Side pockets with extra internal YKK Zipper pockets for extra security. Elastic waistband and bottom cuff. Drawcords have metal tipping. CARE: Machine wash cold, tumble dry low
-  Updated: 2026-03-15T11:03:02Z
+  Updated: 2026-03-25T14:43:22Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -4714,14 +4714,14 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Rwanda Sky Denim Essential Tote Bag](https://varsity54.com/products/university-of-rwanda-sky-denim-essential-tote-bag): Carry your essentials in style while showcasing your University of Rwanda pride with our unisex essential tote bag. Crafted from durable 13oz Bull Denim, this tote is designed to withstand the rigors of daily life, making it perfect for students, faculty, and alumni alike. The robust fabric ensures that your belongings stay secure, whether you're navigating campus, heading to a study session, or exploring the city. Its spacious interior offers ample room for books, a laptop, and other essentials, while the minimalist design adorned with the University of Rwanda logo subtly communicates your affiliation and support for the institution. This versatile, eco-friendly tote bag is not just a practical accessory but also a symbol of unity and academic excellence at the University of Rwanda. Unisex Made in U.S.A. 13oz Bull Denim Bottom Width: 14.5" Depth: 14" Strap Length: 25" 1﻿00% Cotton
-  Updated: 2026-03-15T10:51:14Z
+  Updated: 2026-03-25T14:33:16Z
   Vendor: Varsity 54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/RwandaSkyEssentialDenimTotebag.png?v=1711530088
   Price: $52.00 USD
 - [University of Rwanda Cropped Heather Grey Tee](https://varsity54.com/products/university-of-rwanda-womens-heather-grey-tank): University of Rwanda Women's Heather Grey Tank
-  Updated: 2026-03-15T11:02:27Z
+  Updated: 2026-03-25T14:42:09Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4742,7 +4742,7 @@
     Availability: Available
     Price: $28.00 USD
 - [University of Rwanda Tank](https://varsity54.com/products/university-of-rwanda-womens-heather-grey-tank-2): University of Rwanda Women's White and Heather Grey Tank
-  Updated: 2026-03-15T11:02:48Z
+  Updated: 2026-03-25T14:42:17Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4778,7 +4778,7 @@
     Availability: Available
     Price: $28.00 USD
 - [University of Lagos Heather Grey Track Shorts](https://varsity54.com/products/copy-of-university-of-lagos-mesh-burgundy-gym-shorts): Inspire your campus look with the University of Lagos Heather Grey Track Shorts, where classic meets modern. These shorts add a touch of athleticism and nostalgia to your everyday wardrobe. Made from a soft, strong blend of cotton and anti-pill polyester French terry fleece, they provide both comfort and durability. Designed for both performance and fashion, these shorts are the perfect choice for showcasing your University of Lagos pride, whether in the gym or in the classroom. Regular fit Mid weight, 9.4 oz 82% cotton 18% polyester anti-pill french terry fleece 2 side and 1 back pocket, raw edges, elastic waistband, white external drawcord, stitching detail around pockets, preshrunk to minimize shrinkage Full short length (outseam): 19" Please note the above measurement is an indication of our 34/L size, smaller/larger sizes may vary slightly in length
-  Updated: 2026-03-15T11:01:36Z
+  Updated: 2026-03-25T14:42:16Z
   Vendor: Varsity 54
   Product Type: Shorts
   Availability: Available
@@ -4799,7 +4799,7 @@
     Availability: Available
     Price: $36.00 USD
 - [University of Lagos Letter Heather Grey Tee](https://varsity54.com/products/copy-of-university-of-lagos-heather-grey-tee-2): Elevate your campus wardrobe with the University of Lagos Heather Grey Crew T-shirt. This unisex gem features a premium viscose yarn that combines softness, durability, and lightweight comfort, making it perfect for the dynamic campus lifestyle. Its heather grey hue offers a classic, versatile look that captures the essence of collegiate apparel, blending seamlessly with any outfit for lectures, library sessions, or casual hangouts. Whether you're presenting in class, cheering on your university team, or unwinding with friends, this heather grey t-shirt stands as a testament to your dedication and pride. It’s the perfect choice for students, alumni, and faculty alike who value the blend of tradition, comfort, and collegiate style in their everyday wear. Regular fit Mid weight, 5.3 oz, 28-singles 85% combed cotton 15% viscose Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage
-  Updated: 2026-03-15T11:03:10Z
+  Updated: 2026-03-25T14:42:55Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4823,14 +4823,14 @@
     Availability: Available
     Price: $32.00 USD
 - [University of Lagos Yellow Tote Bag](https://varsity54.com/products/university-of-lagos-natural-tote-bag): University of Lagos Yellow Tote Baf
-  Updated: 2026-03-15T10:51:11Z
+  Updated: 2026-03-25T14:33:09Z
   Vendor: Varsity 54
   Product Type: Hats & Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/UniversityofLagosNaturaltote_bfbc9c6a-6b0b-4a88-9269-e2b5336c066d.png?v=1711633530
   Price: $40.00 USD
 - [University of Lagos Heather Grey Stadium Shorts](https://varsity54.com/products/university-of-lagos-heather-grey-shorts): Inspire your campus look with the University of Lagos (UNILAG) Heather Grey Stadium Shorts, where classic meets modern. These shorts add a touch of athleticism and nostalgia to your everyday wardrobe. Made from a soft, strong blend of cotton and anti-pill polyester French terry fleece, they provide both comfort and durability. Designed for both performance and fashion, these shorts are the perfect choice for showcasing your University of Lagos pride, whether in the gym or in the classroom. Regular fit Mid weight, 8.5 oz 80% cotton 20% polyester 2 side and 1 back pocket, 2X2 ribbed waistband, tonal flat external drawcord, double needle hems, preshrunk to minimise shrinkage. Full short length (outseam): 19"
-  Updated: 2026-03-15T11:02:15Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: Shorts
   Availability: Available
@@ -4851,7 +4851,7 @@
     Availability: Available
     Price: $36.00 USD
 - [University of Ghana Premium Heather Hoodie](https://varsity54.com/products/university-of-lagos-premium-hoodie-heather-grey): University of Ghana Premium Heather Hoodie with contrasting blue/yellow print High-Quality Cotton French Terry Hoodie.
-  Updated: 2026-03-15T11:02:02Z
+  Updated: 2026-03-25T14:42:56Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4872,7 +4872,7 @@
     Availability: Available
     Price: $55.00 USD
 - [University of Ghana Premium Heather Grey Joggers](https://varsity54.com/products/university-of-lagos-premium-heather-grey-joggers): University of Ghana UG PREMIUM HEATHER GREY JOGGERSs with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:01:48Z
+  Updated: 2026-03-25T14:42:48Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -4893,7 +4893,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana Premium Heather Grey Joggers](https://varsity54.com/products/university-of-lagos-heather-grey-joggers): University of Ghana UG PREMIUM HEATHER GREY JOGGERSs with contrasting print High-Quality Cotton Pants.
-  Updated: 2026-03-15T11:03:01Z
+  Updated: 2026-03-25T14:43:22Z
   Vendor: Varsity 54
   Product Type: Pants & Joggers
   Availability: Available
@@ -4914,7 +4914,7 @@
     Availability: Available
     Price: $53.00 USD
 - [University of Ghana Premium Heather Crew](https://varsity54.com/products/university-of-ghana-heather-grey-premium-crew-sweatshirt): University of Ghana Premium Heather Crew with contrasting blue/yellow print High-Quality Cotton French Terry Crew.
-  Updated: 2026-03-15T11:02:27Z
+  Updated: 2026-03-25T14:42:07Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4935,7 +4935,7 @@
     Availability: Available
     Price: $52.00 USD
 - [University of Nairobi Heather Grey Tee 3](https://varsity54.com/products/university-of-nairobi-heather-grey-tee-2): University of Nairobi Heather Grey Tee
-  Updated: 2026-03-15T11:02:38Z
+  Updated: 2026-03-25T14:42:09Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -4971,14 +4971,14 @@
     Availability: Available
     Price: $32.00 USD
 - [Ghana Beach Towel](https://varsity54.com/products/ghana-beach-towel): Elevate your beach outings with a touch of Ghanaian authenticity and embrace the coastal charm of this extraordinary West African treasure. Made from high-quality 100% cotton velour, our Ghana beach towel features a timeless vintage stamp design that truly captures the essence of the country's rich cultural heritage. Adorned with a majestic elephant emblem it celebrates the nation's magnificent wildlife legacy. Whether you're lounging on the golden sands of Labadi Beach or exploring the breathtaking beaches of the Cape Coast, this towel offers the perfect combination of style and comfort. Perfect for beach vacations and seaside getaways, its exceptional absorbency and generous size guarantee a luxurious experience at every shore. Product Details: 35″ x 60″ 351 GSM / 1 lbs. 100% Cotton Velour Hemmed Beach Towel Care instructions: Machine wash at 104°F Do not use bleach. Iron at a medium temperature Tumble dry at a regular temperature. Do not dry clean
-  Updated: 2026-03-15T10:51:12Z
+  Updated: 2026-03-25T14:33:10Z
   Vendor: Varsity54
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/GhanaBeachTowel.png?v=1713186879
   Price: $150.00 USD
 - [Zanzibar Sailing Faded Blossom Tee](https://varsity54.com/products/zanzibar-sailing-faded-blossom-tee): Immerse yourself in the serenity of Zanzibar's coastal charm with our luxurious Faded Blossom Tee. Channeling the island's illustrious seafaring legacy and lively maritime lifestyle, this shirt embodies the essence of sailing in paradise. Whether you're basking on a traditional dhow or sunbathing on unspoiled beaches, our tee is your ticket to the tranquility of Zanzibar's waters. Embrace the thrill of exploration and let our Sailing Tee transport you away to the idyllic shores of this tropical wonderland. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 FULL BODY LENGTH 27 28.5 30 31.5 32.75 SLEEVE LENGTH 8 8.25 9 9.5 9.75
-  Updated: 2026-03-15T11:01:26Z
+  Updated: 2026-03-25T14:42:21Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -4999,7 +4999,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Varsity54 Tennis Club Tee](https://varsity54.com/products/varsity54-tennis-club-tee): Embrace the spirit of sport and leisure with this Varsity54 t-shirt, featuring a stylish print of a tennis court under swaying palm trees.&nbsp;This design is a modern take on classic leisure tennis apparel, perfect for showcasing your sporty, laid-back style.
-  Updated: 2026-03-15T11:03:07Z
+  Updated: 2026-03-25T14:42:31Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -5040,7 +5040,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Benin's Ganvie Print Tee](https://varsity54.com/products/benins-ganvie-print-tee): Ganvie: Africa's Venice – This t-shirt features a print inspired by Ganvie, Benin's historic lake village in Lake Nokoué, known for its unique water-based community and rich heritage. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Color: Sand Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:59Z
+  Updated: 2026-03-25T14:43:28Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -5061,7 +5061,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Ghana Tee](https://varsity54.com/products/ghana-blue-tee): This Ghana Tee embodies the spirit of Ghana. It's more than just a shirt - it's a declaration. A symbol of home for locals and a vivid memento of incredible experiences for tourists. Show your pride and don this shirt with style. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:42Z
+  Updated: 2026-03-25T14:42:26Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -5082,7 +5082,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Cabo Verde Coral Tee](https://varsity54.com/products/cabo-verde-coral-tee): Discover the magic of Cabo Verde with our exclusive collegiate text print T-shirt. This isn't just apparel—it's an invitation to wanderlust and adventure. Whether you’re a local embracing your island roots or a traveler cherishing unforgettable moments, this tee is your perfect companion. Capture the essence of Cabo Verde. For those who dream of sun-drenched beaches and crystal-clear waters, this shirt is a stylish  of paradise found and adventures yet to come. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:30Z
+  Updated: 2026-03-25T14:42:15Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -5103,7 +5103,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Liberia Wine Tee](https://varsity54.com/products/liberia-wine-tee): Celebrate the vibrant spirit of Liberia with our collegiate text print T-shirt. It's not just a shirt—it's a statement of identity and pride. For locals, it’s a piece of home. For visitors, it’s a stylish reminder of unforgettable moments in a land rich with culture and history. Wear your pride. Wear Liberia. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T10:51:17Z
+  Updated: 2026-03-25T14:33:16Z
   Vendor: Varsity 54
   Product Type: Top
   Availability: Available
@@ -5149,7 +5149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/3375/4430/files/Liberiawhite.png?v=1719004380
     Price: $42.00 USD
 - [Libya Dusty Rose Tee](https://varsity54.com/products/libya): 🌸 Libya in Bloom: Dusty Rose Tee 💚 Embrace elegance with a twist. Our dusty rose tee, adorned with faded lime green "Libya" text, is more than just apparel—it's a statement of pride and style. Join the movement. Wear the legacy. 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:02:20Z
+  Updated: 2026-03-25T14:42:24Z
   Vendor: Varsity 54
   Product Type: T-Shirts
   Availability: Available
@@ -5170,7 +5170,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Chad Army Green Tee](https://varsity54.com/products/chad-army-green-tee): Embrace Chad with our army green tee, featuring faded red "Chad" text. It's more than apparel—it's a tribute to your roots and heritage. Get yours now and wear Chad with pride! 6.1 oz., 100% ring spun USA cotton Preshrunk, soft-washed, garment-dyed fabric Made with sustainably and fairly grown USA cotton and sewn with USA cotton thread Twill taped shoulder-to-shoulder Set-in sleeves Double-needle stitched sleeves and bottom hem 1 ribbed collar with double-needle topstitched neckline 50% less water than traditional pigment dye processes on pigment dye and color blast garments Care Instructions: Wash with like-colored garments Machine wash coldDo not bleach / Do not use stain removerHang dry or tumble dry low. Sizing: S M L XL 2XL 3XL BODY WIDTH 18.5 20.5 22.5 24.5 26.5 28 FULL BODY LENGTH 27 28.5 30 31.5 32.75 33 SLEEVE LENGTH 8 8.25 9 9.5 9.75 9.75
-  Updated: 2026-03-15T11:01:47Z
+  Updated: 2026-03-25T14:42:13Z
   Vendor: Varsity 54
   Product Type: Clothing
   Availability: Available
@@ -5195,7 +5195,7 @@
 ## Collections
 
 - [Where Sport Meets Story. Africa’s Athletic Heritage, Reimagined.](https://varsity54.com/collections/athletics): Showcase your athletic pride with Varsity54’s Athletics Collection—apparel inspired by Africa's rich sports heritage. Celebrate champions and iconic sports from across the continent in style
-  Updated: 2026-03-09T14:31:03Z
+  Updated: 2026-03-16T11:10:55Z
   Total Products: 71
 - [RUGBY](https://varsity54.com/collections/rugby): Shop African rugby apparel at Varsity54. Springbok-inspired tees, hoodies &amp; shorts celebrating South Africa's rugby heritage. Officially licensed, premium cotton. Free shipping.
   Updated: 2026-03-09T20:40:34Z
@@ -5237,32 +5237,32 @@
   Updated: 2026-03-09T14:30:59Z
   Total Products: 8
 - [Men's Clothing & Unisex Apparel | Tees, Jackets & More – Varsity54](https://varsity54.com/collections/mens): Shop men's and unisex tees, sweatshirts, jackets, denim, shorts & hats. Bold styles from heritage to streetwear — all in one place.
-  Updated: 2026-03-15T23:45:59Z
-  Total Products: 31675
+  Updated: 2026-03-25T20:34:48Z
+  Total Products: 32090
 - [TEES + POLOS](https://varsity54.com/collections/mens-tees-polos)
-  Updated: 2026-03-15T18:38:57Z
-  Total Products: 662
+  Updated: 2026-03-25T20:34:48Z
+  Total Products: 634
 - [SWEATSHIRTS](https://varsity54.com/collections/mens-sweatshirt)
   Updated: 2026-03-09T14:31:59Z
   Total Products: 21
 - [SHORTS](https://varsity54.com/collections/mens-shorts)
-  Updated: 2026-03-15T19:06:14Z
-  Total Products: 516
+  Updated: 2026-03-25T20:30:08Z
+  Total Products: 533
 - [SWEATPANTS](https://varsity54.com/collections/mens-sweatpant)
   Updated: 2026-03-09T14:26:26Z
   Total Products: 7
 - [Africa’s Finest Institutions. Your New Uniform.](https://varsity54.com/collections/colleges): From the lecture halls of the University of Lagos to the hillside campus of the University of Rwanda, Africa’s universities have shaped generations of leaders, thinkers, and creators. Our officially licensed collegiate collection brings that legacy to life through premium apparel you can wear with pride—whether you’re an alumnus, a current student, or someone who believes the future is being written on African campuses. Tees, hoodies, sweatshirts, caps, and accessories bearing the official crests of Africa’s most prestigious institutions.
-  Updated: 2026-03-09T14:33:47Z
+  Updated: 2026-03-25T19:20:49Z
   Total Products: 121
 - [Wear the Wild. National Parks Africa](https://varsity54.com/collections/national-parks): Explore Africa’s breathtaking landscapes with Varsity54’s National Parks Collection—apparel honoring the beauty and wildlife of Africa’s iconic parks. Wear the adventure and protect the legacy.
-  Updated: 2026-03-09T14:32:44Z
+  Updated: 2026-03-25T11:12:04Z
   Total Products: 54
 - [The Faces That Changed a Continent.](https://varsity54.com/collections/africanleaders): Some figures transcend borders. From revolutionary leaders to cultural pioneers, Africa’s icons have shaped not just a continent but the world. This collection pays tribute through wearable art—graphic tees and long sleeves featuring portraits, quotes, and design motifs inspired by the people who dared to rewrite history. Sankara. Lumumba. Fela. Traoré. Their legacies live on, and now you can carry them with you.
-  Updated: 2026-03-09T14:32:40Z
+  Updated: 2026-03-25T19:36:30Z
   Total Products: 44
 - [ACCESSORIES](https://varsity54.com/collections/mens-accessories)
-  Updated: 2026-03-15T19:08:37Z
-  Total Products: 1467
+  Updated: 2026-03-25T19:08:09Z
+  Total Products: 1472
 - [WOMENS TEES + POLOS](https://varsity54.com/collections/womens-tees-polos)
   Updated: 2026-03-09T14:30:33Z
   Total Products: 28
@@ -5270,13 +5270,13 @@
   Updated: 2026-02-15T17:43:52Z
   Total Products: 4
 - [WOMEN](https://varsity54.com/collections/women)
-  Updated: 2026-03-15T19:09:14Z
-  Total Products: 8764
+  Updated: 2026-03-25T17:51:18Z
+  Total Products: 8846
 - [WOMENS SWEATSHIRT](https://varsity54.com/collections/womens-sweatshirt)
   Updated: 2026-02-15T17:44:13Z
   Total Products: 2
 - [UNIVERSITY OF RWANDA](https://varsity54.com/collections/university-of-rwanda)
-  Updated: 2026-03-09T14:32:03Z
+  Updated: 2026-03-25T19:20:49Z
   Total Products: 19
 - [UNIVERSITY OF LAGOS](https://varsity54.com/collections/university-of-lagos)
   Updated: 2026-03-09T14:33:46Z
@@ -5306,10 +5306,10 @@
   Updated: 2026-03-09T14:31:22Z
   Total Products: 101
 - [HEADWEAR](https://varsity54.com/collections/headwear)
-  Updated: 2026-03-15T19:06:38Z
-  Total Products: 1420
+  Updated: 2026-03-25T19:08:09Z
+  Total Products: 1425
 - [WOMEN'S SHORTS](https://varsity54.com/collections/womens-shorts)
-  Updated: 2026-03-12T13:31:24Z
+  Updated: 2026-03-24T01:40:27Z
   Total Products: 32
 - [WOMEN'S OUTERWEAR](https://varsity54.com/collections/womens-outerwear)
   Updated: 2025-04-13T18:45:25Z
@@ -5330,8 +5330,8 @@
   Updated: 2026-02-15T17:38:35Z
   Total Products: 1
 - [OrderlyEmails - Recommended Products](https://varsity54.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-03-16T00:00:17Z
-  Total Products: 27323
+  Updated: 2026-03-25T23:50:18Z
+  Total Products: 26134
 - [Beach Towels](https://varsity54.com/collections/beach-towels)
   Updated: 2026-02-15T17:38:14Z
   Total Products: 1
@@ -5342,43 +5342,43 @@
   Updated: 2026-03-09T14:27:33Z
   Total Products: 5
 - [New Arrivals | Apparel, Hats & Accessories – Varsity54](https://varsity54.com/collections/new-in): Shop our latest drops — tees, sweatshirts, jackets, caps & more. Bold designs rooted in culture and heritage. Free shipping available.
-  Updated: 2026-03-14T10:10:03Z
+  Updated: 2026-03-25T19:36:30Z
   Total Products: 82
 - [Collegiate Sweatshirts](https://varsity54.com/collections/collegiate-sweatshirts)
-  Updated: 2026-03-14T14:18:25Z
+  Updated: 2026-03-24T01:41:15Z
   Total Products: 195
 - [RACING](https://varsity54.com/collections/racing)
-  Updated: 2026-03-09T14:26:13Z
+  Updated: 2026-03-16T11:10:55Z
   Total Products: 12
 - [New! Shopify performance sharing is now turned on](https://varsity54.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-03-15T23:45:59Z
-  Total Products: 41119
+  Updated: 2026-03-25T20:34:48Z
+  Total Products: 41630
 - [BRANDS](https://varsity54.com/collections/world-merch)
   Updated: 2026-03-09T14:25:19Z
   Total Products: 89
 - [Pennants](https://varsity54.com/collections/pennants)
-  Updated: 2026-03-11T16:37:28Z
+  Updated: 2026-03-20T11:12:03Z
   Total Products: 160
 - [Americana Memories | Vintage College Pennants & Memorabilia](https://varsity54.com/collections/americana-memories): Vintage college pennants, rare memorabilia & custom pieces from the 1890s to today. Perfect for dorm rooms, offices & collectors. Shop at Varsity54.
-  Updated: 2026-03-12T16:06:00Z
+  Updated: 2026-03-20T11:12:03Z
   Total Products: 493
 - [Boathouse](https://varsity54.com/collections/boathouse)
   Updated: 2025-11-18T12:39:48Z
   Total Products: 0
 - [SAINT PERRY](https://varsity54.com/collections/saint-perry)
-  Updated: 2026-02-19T03:44:46Z
+  Updated: 2026-03-25T11:12:04Z
   Total Products: 77
 - [UPSIDE](https://varsity54.com/collections/upside)
-  Updated: 2026-03-12T13:27:41Z
+  Updated: 2026-03-25T20:34:48Z
   Total Products: 253
 - [ABLISS](https://varsity54.com/collections/abliss)
   Updated: 2026-02-26T20:54:02Z
   Total Products: 16
 - [Oxford Pennant](https://varsity54.com/collections/oxford-pennant)
-  Updated: 2025-12-16T20:33:38Z
+  Updated: 2026-03-16T11:36:31Z
   Total Products: 106
 - [Denim](https://varsity54.com/collections/denim)
-  Updated: 2026-02-16T02:50:26Z
+  Updated: 2026-03-25T11:12:04Z
   Total Products: 519
 - [Shirts](https://varsity54.com/collections/shirts)
   Updated: 2026-02-19T17:57:35Z
@@ -5392,9 +5392,9 @@
 - [Cufflinks](https://varsity54.com/collections/cufflinks)
   Updated: 2026-02-28T00:20:11Z
   Total Products: 444
-- [Shop Curated Brands | Streetwear, Collegiate & More – Varsity54NDS](https://varsity54.com/collections/collective-brands): Explore our curated collection of brands — hoodies, tees, jackets, fitted hats, shorts & accessories. From collegiate to streetwear, all in one place.
-  Updated: 2026-03-15T11:13:41Z
-  Total Products: 1785
+- [Shop Curated Brands | Streetwear, Collegiate & More – Varsity54](https://varsity54.com/collections/collective-brands): Explore our curated collection of brands — hoodies, tees, jackets, fitted hats, shorts & accessories. From collegiate to streetwear, all in one place.
+  Updated: 2026-03-25T20:34:48Z
+  Total Products: 2361
 - [Japanese Denim Jeans](https://varsity54.com/collections/japanese-denim-jeans)
   Updated: 2026-02-10T15:48:40Z
   Total Products: 916
@@ -5414,16 +5414,16 @@
   Updated: 2026-02-11T14:49:14Z
   Total Products: 107
 - [Denim Exchange](https://varsity54.com/collections/denim-exchange)
-  Updated: 2026-02-15T08:26:46Z
-  Total Products: 121
+  Updated: 2026-03-23T19:16:20Z
+  Total Products: 176
 - [Good & Well Supply Co.](https://varsity54.com/collections/good-well-supply-co): Our candles celebrate the beauty of the great outdoors and spark the spirit of exploration.
   Updated: 2026-03-10T15:08:21Z
   Total Products: 189
 - [Heights District | Luxury Streetwear from Dallas TX — Varsity54](https://varsity54.com/collections/heights-district): Shop Heights District — handmade luxury streetwear designed and produced in Dallas, TX. Premium fabrics, limited drops. Available now on Varsity54.
-  Updated: 2026-03-11T16:02:31Z
+  Updated: 2026-03-23T19:24:43Z
   Total Products: 223
 - [The Just Brand | American-Made Apparel & Heritage Streetwear](https://varsity54.com/collections/the-just-brand): Shop The Just Brand on Varsity54. Premium custom apparel, headwear & coastal-inspired goods designed in Mystic, CT. Built for quality, not trends.
-  Updated: 2026-03-12T14:59:47Z
+  Updated: 2026-03-23T11:10:59Z
   Total Products: 22
 - [Love to Kleep](https://varsity54.com/collections/love-to-kleep)
   Updated: 2026-02-23T10:13:31Z
@@ -5432,32 +5432,32 @@
   Updated: 2026-03-15T11:11:27Z
   Total Products: 12
 - [Luetti 1980](https://varsity54.com/collections/luetti-1980)
-  Updated: 2026-03-12T14:38:48Z
+  Updated: 2026-03-25T17:25:43Z
   Total Products: 165
 - [DIALLO](https://varsity54.com/collections/diallo): Shop Diallo on Varsity54 — a lifestyle brand founded by Tyrod Taylor and Dex Robinson, blending classic American sportswear with modern athletic design. Based in the US and available to ship nationwide.
   Updated: 2026-03-11T15:51:39Z
   Total Products: 17
 - [Shop The Just Brand | Premium Collegiate & Coastal Apparel](https://varsity54.com/collections/the-just-brand-1): Shop The Just Brand on Varsity54. Premium custom apparel, headwear & coastal-inspired goods designed in Mystic, CT. Built for quality, not trends.
-  Updated: 2026-03-12T14:59:47Z
+  Updated: 2026-03-23T11:10:59Z
   Total Products: 22
 - [Ondine | Stylish UPF Sun Protective Clothing for Women](https://varsity54.com/collections/ondine): Ondine — chic UPF clothing for women who want sun protection without sacrificing style. Natural fabrics, breathable design, 98% UV coverage. Shop now.
-  Updated: 2026-03-12T13:23:39Z
+  Updated: 2026-03-25T11:12:04Z
   Total Products: 11
 - [Grassroots California | Hats, Apparel & Accessories – Varsity54](https://varsity54.com/collections/grassroots-california-1): Shop Grassroots California — bold fitted hats, hemp headwear & streetwear apparel. Eco-friendly designs rooted in creativity and self-expression.
-  Updated: 2026-03-12T16:02:10Z
+  Updated: 2026-03-25T19:08:09Z
   Total Products: 349
 - [Footxo | Football-Inspired Streetwear & Jerseys – Varsity54](https://varsity54.com/collections/footxo): Shop Footxo — Football fashion blending sport and street culture. Jerseys, tees & statement pieces designed for on and off the pitch.
-  Updated: 2026-03-15T11:15:09Z
+  Updated: 2026-03-25T11:12:04Z
   Total Products: 459
-- [Shaka Wear Heavyweight T-Shirts & Streetwear | Varsity54](https://varsity54.com/collections/shakawear): Shop Shaka Wear max heavyweight tees, hoodies, and streetwear essentials. Premium 7 oz cotton blanks built for durability and style. Free shipping available.
-  Updated: 2026-03-15T11:04:48Z
-  Total Products: 204
 - [Luosophy Designer Fashion for Men & Women | Varsity54](https://varsity54.com/collections/luosophy): Shop Luosophy designer clothing, bags, and shoes from top luxury brands like Gucci, Fendi, Saint Laurent, and Prada. Authentic pieces at accessible prices.
-  Updated: 2026-03-15T19:09:14Z
-  Total Products: 13807
+  Updated: 2026-03-25T13:54:27Z
+  Total Products: 13844
 - [Shoes](https://varsity54.com/collections/shoes)
-  Updated: 2026-03-15T19:09:02Z
-  Total Products: 1460
+  Updated: 2026-03-25T16:48:38Z
+  Total Products: 1494
+- [findmenowthel - Women's Clothing for Every Life Stage](https://varsity54.com/collections/findmenowthelabel): Thoughtfully designed women's apparel for the woman who's always evolving. Fabrics built for character, silhouettes that adapt between life stages. From NYC, with love.
+  Updated: 2026-03-25T17:49:35Z
+  Total Products: 23
 
 ## Blogs
 
