@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-02-10T20:10:07Z
 - Contact Email: munsieurclothing@gmail.com
-- Updated At: 2026-03-19T03:27:18.723Z
+- Updated At: 2026-03-27T00:00:36.540Z
 
 ## Products
 
@@ -349,7 +349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fashionable-leggings-for-women-red-front-view.jpg?v=1755116193
     Price: $39.96 USD
 - [Monk's Wisdom Hoodie | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/monks-wisdom-hoodie-munsieur): Monk's Wisdom Hoodie embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-07T18:27:46Z
+  Updated: 2026-03-19T18:35:41Z
   Vendor: -Personal Design
   Product Type: 
   Availability: Available
@@ -357,203 +357,203 @@
   - [White ffffff / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492330200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1755116278
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492362968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1755116320
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492395736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1755116268
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492428504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1755116296
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492461272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-navy-model.jpg?v=1755116262
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492494040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model-2.jpg?v=1755116327
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492526808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-yellow-model.jpg?v=1755116333
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Medium green-009134 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492559576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model.jpg?v=1755116256
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492592344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-orange-model-2.jpg?v=1755116338
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492625112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-pink-model.jpg?v=1755116344
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492657880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model.jpg?v=1755116349
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492690648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-grey-model.jpg?v=1755116354
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492723416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-cream-model.jpg?v=1755116360
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492756184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model-2.jpg?v=1755116365
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492788952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-grey-model.jpg?v=1755116370
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492821720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model-2.jpg?v=1755116376
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492854488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-maroon-model.jpg?v=1755116290
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492887256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1d34f6fa4827f7bf7d9cc1847b359dd1.jpg?v=1755116382
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492920024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6eb6a57295374828396d82f529319585.jpg?v=1755116245
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492952792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d2701511d15766a3718a0c9868640a.jpg?v=1755116387
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492985560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/410f4d6ad17f164a91f176fc43d58c34.jpg?v=1755116392
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Black / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493018328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db95d16afc91e68d6b0e32c6a9da3270.jpg?v=1755116285
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493051096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/43c1c2aa24b20e3eb167980b94efb09c.jpg?v=1755116397
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [White ffffff / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493083864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1755116278
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493116632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1755116320
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493149400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1755116268
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493182168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1755116296
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493214936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-navy-model.jpg?v=1755116262
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493247704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model-2.jpg?v=1755116327
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493280472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-yellow-model.jpg?v=1755116333
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Medium green-009134 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493313240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model.jpg?v=1755116256
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493346008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-orange-model-2.jpg?v=1755116338
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493378776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-pink-model.jpg?v=1755116344
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493411544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model.jpg?v=1755116349
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493444312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-grey-model.jpg?v=1755116354
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493477080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-cream-model.jpg?v=1755116360
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493509848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model-2.jpg?v=1755116365
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493542616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-grey-model.jpg?v=1755116370
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493575384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model-2.jpg?v=1755116376
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493608152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-maroon-model.jpg?v=1755116290
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493640920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1d34f6fa4827f7bf7d9cc1847b359dd1.jpg?v=1755116382
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493673688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6eb6a57295374828396d82f529319585.jpg?v=1755116245
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493706456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d2701511d15766a3718a0c9868640a.jpg?v=1755116387
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493739224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/410f4d6ad17f164a91f176fc43d58c34.jpg?v=1755116392
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Black / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493771992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db95d16afc91e68d6b0e32c6a9da3270.jpg?v=1755116285
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493804760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/43c1c2aa24b20e3eb167980b94efb09c.jpg?v=1755116397
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [White ffffff / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493837528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1755116278
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493870296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1755116320
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sky  Blue-00b7cb / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493903064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1755116268
-    Price: $29.95 USD
+    Price: $129.95 USD
   - [Sapphire blue-0a3e92 / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493935832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1755116296
-    Price: $29.95 USD
+    Price: $129.95 USD
 - [Cool Cat Graphic Tee | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt): Cool Cat Graphic Tee embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-03-07T18:27:48Z
   Vendor: Munsieur
@@ -761,7 +761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-2.jpg?v=1767330194
     Price: $125.00 USD
 - [Zodiac Guardian Hoodie | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur): Zodiac Guardian Hoodie embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-07T18:27:51Z
+  Updated: 2026-03-20T06:37:37Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -966,8 +966,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-blue-color.jpg?v=1767330546
     Price: $225.00 USD
-- [Signature Designer Hoodie | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie): Signature Designer Hoodie embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-07T18:27:52Z
+- [Signature Designer Hoodie | Premium Gothic Luxury | Munsieur](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie): The definitive Munsieur silhouette. Oversized heavyweight fleece with reinforced stitching, lined hood, and discreet ceremonial branding — the  piece that defines the collection.
+  Updated: 2026-03-19T18:38:32Z
   Vendor: -Personal Design
   Product Type: Outerwear
   Availability: Available
@@ -1655,7 +1655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-blue-front-back.jpg?v=1755117168
     Price: $150.00 USD
 - [Bold Statement Hoodie | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur): Bold Statement Hoodie embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-07T18:28:01Z
+  Updated: 2026-03-19T18:40:46Z
   Vendor: -Personal Design
   Product Type: 
   Availability: Available
@@ -1663,205 +1663,205 @@
   - [White ffffff / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575266008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1755117326
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575298776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1755117332
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575331544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-aqua-front-back.jpg?v=1755117337
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575364312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-blue-front-back.jpg?v=1755117342
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575397080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-navy-front-back.jpg?v=1755117347
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575429848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-front-back.jpg?v=1755117285
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575462616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-yellow-front-back.jpg?v=1755117274
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Medium green-009134 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575495384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-green-front-back.jpg?v=1755117353
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575528152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-orange-front-back.jpg?v=1755117358
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575560920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-pink-front-back.jpg?v=1755117364
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575593688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-purple-front-back.jpg?v=1755117371
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575626456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-gray-front-back.jpg?v=1755117377
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575659224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-beige-front-back.jpg?v=1755117382
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575691992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-light-green-front-back.jpg?v=1755117279
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575724760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-grey-front-back.jpg?v=1755117387
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575757528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-purple-front-back.jpg?v=1755117393
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575790296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-red-front-back.jpg?v=1755117398
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575823064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-black-front-back.jpg?v=1755117403
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575855832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ab04cb24d85d145d5af42a64b63bb129.jpg?v=1755117408
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575888600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a2c81635e924ddbfef7f86c6b38922ff.jpg?v=1755117415
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575921368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4e30155cac5caf4f33c93c969998627f.jpg?v=1755117420
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Bordeaux-9f1d2a / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575954136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/19387c045830b58bf1a6fe5efe50b7c7.jpg?v=1755117426
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Black / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575986904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ebe60c20e65e1aadf5d1ea1dce3cd346.jpg?v=1755117432
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576019672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88412801e73dc2f9333c80f557c8e8c2.jpg?v=1755117439
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [White ffffff / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576052440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1755117326
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576085208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1755117332
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576117976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-aqua-front-back.jpg?v=1755117337
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576150744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-blue-front-back.jpg?v=1755117342
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576183512)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-navy-front-back.jpg?v=1755117347
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576216280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-front-back.jpg?v=1755117285
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576249048)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-yellow-front-back.jpg?v=1755117274
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Medium green-009134 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576281816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-green-front-back.jpg?v=1755117353
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576314584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-orange-front-back.jpg?v=1755117358
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576347352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-pink-front-back.jpg?v=1755117364
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576380120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-purple-front-back.jpg?v=1755117371
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576412888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-gray-front-back.jpg?v=1755117377
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576445656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-beige-front-back.jpg?v=1755117382
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576478424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-light-green-front-back.jpg?v=1755117279
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576511192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-grey-front-back.jpg?v=1755117387
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576543960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-purple-front-back.jpg?v=1755117393
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576576728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-red-front-back.jpg?v=1755117398
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576609496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-black-front-back.jpg?v=1755117403
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576642264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ab04cb24d85d145d5af42a64b63bb129.jpg?v=1755117408
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576675032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a2c81635e924ddbfef7f86c6b38922ff.jpg?v=1755117415
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576707800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4e30155cac5caf4f33c93c969998627f.jpg?v=1755117420
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Bordeaux-9f1d2a / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576740568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/19387c045830b58bf1a6fe5efe50b7c7.jpg?v=1755117426
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Black / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576773336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ebe60c20e65e1aadf5d1ea1dce3cd346.jpg?v=1755117432
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576806104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88412801e73dc2f9333c80f557c8e8c2.jpg?v=1755117439
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [White ffffff / L](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576838872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1755117326
-    Price: $35.00 USD
+    Price: $135.00 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576871640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1755117332
-    Price: $35.00 USD
-- [Urban Design Hoodie | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur): Urban Design Hoodie embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-07T18:28:02Z
+    Price: $135.00 USD
+- [Urban Design Hoodie | Dark Luxury Streetwear | Munsieur](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur): Where urban architecture meets gothic craft. The Urban Design Hoodie features a structured heavyweight silhouette with intentional design details — built for the city, engineered to outlast it.
+  Updated: 2026-03-19T18:42:32Z
   Vendor: -Personal Design
   Product Type: 
   Availability: Available
@@ -1869,203 +1869,203 @@
   - [White ffffff / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637263064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-white-front-back.jpg?v=1755117519
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637295832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-blue-front-back.jpg?v=1755117526
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637328600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-turquoise-front-back.jpg?v=1755117445
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637361368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-royal-blue-front-back.jpg?v=1755117533
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637394136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-navy-front-back.jpg?v=1755117540
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637426904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-aqua-front-back.jpg?v=1755117546
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637459672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-yellow-front-back.jpg?v=1755117475
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Medium green-009134 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637492440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-green-front-back.jpg?v=1755117552
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637525208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-orange-front-back.jpg?v=1755117558
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637557976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-pink-front-back.jpg?v=1755117463
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637590744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-purple-front-back.jpg?v=1755117473
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637623512)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-grey-front-back.jpg?v=1755117451
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637656280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-cream-front-back.jpg?v=1755117564
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637689048)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-bright-green-front-back.jpg?v=1755117570
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637721816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-teal-front-back.jpg?v=1755117575
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637754584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-purple-2-front-back.jpg?v=1755117580
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637787352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-red-front-back.jpg?v=1755117586
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637820120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e98bb618ec2f85c60662ea435a2ef2d2.jpg?v=1755117591
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637852888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1ea5ba340f7dc805c766df2fa09a94c5.jpg?v=1755117596
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637885656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/219590436be96c8713cb00be2881a713.jpg?v=1755117601
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637918424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dab00f26542c8a15895198717a32e55b.jpg?v=1755117607
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Bordeaux-9f1d2a / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637951192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50b9b28f85f101386afd92aaa1c38f9d.jpg?v=1755117614
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Black / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154637983960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-black-front-back.jpg?v=1755117475
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638016728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eb8e398ab277992f933dc35839ec9c6d.jpg?v=1755117620
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [White ffffff / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638049496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-white-front-back.jpg?v=1755117519
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638082264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-blue-front-back.jpg?v=1755117526
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638115032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-turquoise-front-back.jpg?v=1755117445
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638147800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-royal-blue-front-back.jpg?v=1755117533
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638180568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-navy-front-back.jpg?v=1755117540
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638213336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-aqua-front-back.jpg?v=1755117546
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638246104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-yellow-front-back.jpg?v=1755117475
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Medium green-009134 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638278872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-green-front-back.jpg?v=1755117552
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638311640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-orange-front-back.jpg?v=1755117558
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638344408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-pink-front-back.jpg?v=1755117463
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638377176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-purple-front-back.jpg?v=1755117473
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638409944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-grey-front-back.jpg?v=1755117451
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638442712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-cream-front-back.jpg?v=1755117564
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638475480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-bright-green-front-back.jpg?v=1755117570
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638508248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-teal-front-back.jpg?v=1755117575
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638541016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-purple-2-front-back.jpg?v=1755117580
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638573784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-red-front-back.jpg?v=1755117586
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638606552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e98bb618ec2f85c60662ea435a2ef2d2.jpg?v=1755117591
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638639320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1ea5ba340f7dc805c766df2fa09a94c5.jpg?v=1755117596
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638672088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/219590436be96c8713cb00be2881a713.jpg?v=1755117601
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638704856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dab00f26542c8a15895198717a32e55b.jpg?v=1755117607
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Bordeaux-9f1d2a / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638737624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50b9b28f85f101386afd92aaa1c38f9d.jpg?v=1755117614
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Black / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638770392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-black-front-back.jpg?v=1755117475
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638803160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eb8e398ab277992f933dc35839ec9c6d.jpg?v=1755117620
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [White ffffff / L](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638835928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-white-front-back.jpg?v=1755117519
-    Price: $65.00 USD
+    Price: $165.00 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur?variant=50154638868696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-urban-fashion-hoodie-blue-front-back.jpg?v=1755117526
-    Price: $65.00 USD
+    Price: $165.00 USD
 - [Munsieur Skull Design Hoodie for Urban Fashion | Gothic C...](https://munsieur.com/products/munsieur-skull-design-hoodie-winged-skull): Munsieur Skull Design Hoodie for Urban Fashion embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-03-03T17:20:22Z
   Vendor: -Personal Design
@@ -9359,7 +9359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/118365e8-3a68-4c16-aa8e-cd118e26c95e-Min.jpg?v=1755796846
     Price: $30.00 USD
 - [Vervet by Flying Monkey Full Size Allie 90's Dad Jean | G...](https://munsieur.com/products/vervet-by-flying-monkey-full-size-allie-90s-dad-jean): Vervet by Flying Monkey Full Size Allie 90's Dad Jean embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:18:18Z
+  Updated: 2026-03-20T12:10:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9385,7 +9385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/58762031b5d94795920e6efcc0980d2a-Min.jpg?v=1739823415
     Price: $59.99 USD
   - [Light / 18](https://munsieur.com/products/vervet-by-flying-monkey-full-size-allie-90s-dad-jean?variant=50162819170520)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/58762031b5d94795920e6efcc0980d2a-Min.jpg?v=1739823415
     Price: $59.99 USD
   - [Light / 22](https://munsieur.com/products/vervet-by-flying-monkey-full-size-allie-90s-dad-jean?variant=50162819203288)
@@ -9531,7 +9531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50ceedbc-db83-4b9c-a475-cb437032a287-Min.jpg?v=1739823903
     Price: $44.99 USD
 - [Backless Leopard Long Sleeve Mini Dress | Gothic Ceremoni...](https://munsieur.com/products/backless-leopard-long-sleeve-mini-dress): Backless Leopard Long Sleeve Mini Dress embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:18:23Z
+  Updated: 2026-03-22T08:30:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9597,7 +9597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
     Price: $52.99 USD
 - [MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jum...](https://munsieur.com/products/double-take-full-size-texture-sleeveless-romper): MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jumpsuit for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-03-17T04:15:23Z
+  Updated: 2026-03-23T15:30:27Z
   Vendor: Trendsi
   Product Type: Dresses
   Availability: Available
@@ -9723,7 +9723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/da4613a6-b36e-461c-9abf-6459731450a1-Min.jpg?v=1739824863
     Price: $51.99 USD
 - [Double Take Full Size Printed Tie Back Wide Leg Jumpsuit ...](https://munsieur.com/products/double-take-full-size-printed-tie-back-wide-leg-jumpsuit): Double Take Full Size Printed Tie Back Wide Leg Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned ...
-  Updated: 2026-03-16T03:31:37Z
+  Updated: 2026-03-25T04:39:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9855,7 +9855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/341d298e-7052-4df8-a3ee-085c191bbb78-Min.jpg?v=1739824919
     Price: $44.99 USD
 - [Double Take Full Size V-Neck Sleeveless Jumpsuit with Poc...](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets): Double Take Full Size V-Neck Sleeveless Jumpsuit with Pockets embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cro...
-  Updated: 2026-03-18T17:15:27Z
+  Updated: 2026-03-26T21:30:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9909,7 +9909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2c83aa6a351b46afa124ff6ed462abc9-Min.jpg?v=1739824960
     Price: $82.99 USD
   - [Army Green / S](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets?variant=50162975932632)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9fb47846ec6e441193eb03b9a9ee9c11-Min.jpg?v=1739824960
     Price: $82.99 USD
   - [French Blue / L](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets?variant=50162975965400)
@@ -10061,7 +10061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce886420-a78c-4d90-9e61-69f90493f4a2-Min.jpg?v=1739824960
     Price: $82.99 USD
 - [Smocked Printed Wide Strap Jumpsuit | Gothic Ceremonial |...](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit): Smocked Printed Wide Strap Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-19T01:39:07Z
+  Updated: 2026-03-25T01:59:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10099,7 +10099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b15685d8-a548-4543-9e1f-3d8d5ef8145f-Min.jpg?v=1739825042
     Price: $107.99 USD
 - [Full Size V-Neck Wide Strap Jumpsuit | Gothic Ceremonial ...](https://munsieur.com/products/full-size-v-neck-wide-strap-jumpsuit): Full Size V-Neck Wide Strap Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-14T18:20:09Z
+  Updated: 2026-03-26T01:15:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10341,7 +10341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/21b86514-1906-4d0d-9054-cbf3f6e76979-Min.jpg?v=1739825337
     Price: $58.99 USD
 - [Striped Half Sleeve Tie Waist Romper | Gothic Ceremonial ...](https://munsieur.com/products/striped-half-sleeve-tie-waist-romper): Striped Half Sleeve Tie Waist Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-11T06:19:15Z
+  Updated: 2026-03-21T01:10:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10691,7 +10691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7484e996-ad7f-4815-ac25-5f37061c13d6-Min.jpg?v=1739825539
     Price: $59.99 USD
 - [Women's Striped Romper summer outfit | Gothic Ceremonial ...](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper): Women's Striped Romper summer outfit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:19:30Z
+  Updated: 2026-03-26T11:20:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10809,7 +10809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7e1283a-29e9-4e84-8ec3-b57e9bf31c88-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Pink / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028885720)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7e1283a-29e9-4e84-8ec3-b57e9bf31c88-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Pink / L](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028918488)
@@ -10825,7 +10825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1723f287-c222-412c-8899-3f5f215303a6-Min.jpg?v=1739825550
     Price: $53.99 USD
 - [Bow Striped Kimono Sleeve Romper | Gothic Ceremonial | MU...](https://munsieur.com/products/bow-striped-kimono-sleeve-romper): Bow Striped Kimono Sleeve Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:19:31Z
+  Updated: 2026-03-19T10:00:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11043,7 +11043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4f619de3-0318-4a67-a6bc-a61646945f77-Min.jpg?v=1739826024
     Price: $32.99 USD
 - [Women's Front Button Slit Maxi Denim Skirt | Gothic Cerem...](https://munsieur.com/products/front-button-slit-midi-denim-skirt): Women's Front Button Slit Maxi Denim Skirt embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-14T08:22:18Z
+  Updated: 2026-03-24T07:38:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11195,7 +11195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8e2f2f05-2c54-4b2f-8ca0-1144b0fd44be-Min.jpg?v=1772232490
     Price: $52.50 USD
 - [MUNSIEUR Frill Maxi Skirt - Luxury Designer Skirt with Po...](https://munsieur.com/products/frill-midi-skirt-with-pockets): MUNSIEUR Frill Maxi Skirt - Luxury Designer Skirt with Pockets for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-03-19T01:34:27Z
+  Updated: 2026-03-26T02:06:07Z
   Vendor: Trendsi
   Product Type: Bottoms
   Availability: Available
@@ -11217,7 +11217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
     Price: $36.99 USD
 - [MUNSIEUR Floral Maxi Skirt - Luxury Elastic Waist Skirt f...](https://munsieur.com/products/floral-elastic-waist-maxi-skirt): MUNSIEUR Floral Maxi Skirt - Luxury Elastic Waist Skirt for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR...
-  Updated: 2026-03-08T18:19:39Z
+  Updated: 2026-03-22T13:50:47Z
   Vendor: Trendsi
   Product Type: Bottoms
   Availability: Available
@@ -11239,13 +11239,13 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0f6af0ee-95c5-4f3d-ab51-e39ef3a39c68-Min.jpg?v=1755798501
     Price: $29.99 USD
 - [MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt f...](https://munsieur.com/products/lace-tiered-midi-skirt): MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR...
-  Updated: 2026-03-14T08:21:59Z
+  Updated: 2026-03-26T05:40:48Z
   Vendor: Trendsi
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3559137e-f28a-4135-8a17-ef4d334865ef-Min.jpg?v=1739827045
   - [Ivory / S](https://munsieur.com/products/lace-tiered-midi-skirt?variant=50163128271064)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3559137e-f28a-4135-8a17-ef4d334865ef-Min.jpg?v=1739827045
     Price: $52.50 USD
   - [Ivory / M](https://munsieur.com/products/lace-tiered-midi-skirt?variant=50163128303832)
@@ -11367,7 +11367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a6038326-7a59-4db2-bedd-de2ba3200478-Min.jpg?v=1739827152
     Price: $26.00 USD
 - [Tiered Button-Fly Denim Skirt | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/tiered-button-fly-denim-skirt): Tiered Button-Fly Denim Skirt embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-15T14:42:37Z
+  Updated: 2026-03-24T14:42:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11481,7 +11481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14ec3c8f-5e9e-4da4-b09d-124503d87f36-Min.jpg?v=1739827275
     Price: $42.00 USD
 - [PU Leather Open Toe Sandals | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/pu-leather-open-toe-sandals): PU Leather Open Toe Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-14T11:52:54Z
+  Updated: 2026-03-23T14:25:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12939,7 +12939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/259a6d9d-a65f-4245-9a79-183ba8e898e4-Min.jpg?v=1739828293
     Price: $49.99 USD
 - [Contrast Lace Up Round Toe Sneakers | Gothic Ceremonial |...](https://munsieur.com/products/contrast-lace-up-round-toe-sneakers): Contrast Lace Up Round Toe Sneakers embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:20:58Z
+  Updated: 2026-03-24T05:38:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14021,7 +14021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8f34be1-79a1-4199-9783-8366c5204a37-Min.webp?v=1739828434
     Price: $57.99 USD
 - [Block Heel Ankle Boots | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/block-heel-ankle-boots): Block Heel Ankle Boots embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:21:12Z
+  Updated: 2026-03-24T23:46:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14561,7 +14561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5f8a87b-cd14-4999-afe9-f0fd722269b2-Min.jpg?v=1739828517
     Price: $34.99 USD
 - [Lace Up Round Toe Slip-Ons | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/lace-up-round-toe-slip-ons): Lace Up Round Toe Slip-Ons embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:22:12Z
+  Updated: 2026-03-20T01:45:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18610,7 +18610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6c888739-9f6e-4fae-a571-cf17c91c5ece-Min.jpg?v=1739833001
     Price: $2,210.99 USD
 - [925 Sterling Silver Moissanite Hoop Drop Earrings | Gothi...](https://munsieur.com/products/925-sterling-silver-moissanite-hoop-drop-earrings): 925 Sterling Silver Moissanite Hoop Drop Earrings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:33:57Z
+  Updated: 2026-03-22T20:13:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18872,7 +18872,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cf948268-abd1-4bf5-a6b7-e84f10ba43a3-Min.jpg?v=1739833715
     Price: $16.99 USD
 - [Stainless Agate Shell Bead Necklace | Gothic Ceremonial |...](https://munsieur.com/products/stainless-steel-agate-shell-bead-necklace): Stainless Agate Shell Bead Necklace embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:34:09Z
+  Updated: 2026-03-23T06:58:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19131,7 +19131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f8b9529-88bc-48c1-adde-42957cc5db6b-Min.jpg?v=1739834677
     Price: $12.00 USD
 - [Polycarbonate Frame Cat-Eye Sunglasses | Gothic Ceremonia...](https://munsieur.com/products/polycarbonate-frame-cat-eye-sunglasses): Polycarbonate Frame Cat-Eye Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-03-08T18:32:02Z
+  Updated: 2026-03-26T18:02:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19274,52 +19274,66 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/726c6ab6999d4a249bbec6653b2195c0-Min.jpg?v=1739835173
     Price: $15.00 USD
-[List Continued](https://munsieur.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODE0NTY2NzY4ODU2LCJsYXN0X3ZhbHVlIjoiODgxNDU2Njc2ODg1NiJ9)
+- [UV400 Rhinestone Trim Cat-Eye Sunglasses | Gothic Ceremon...](https://munsieur.com/products/uv400-rhinestone-trim-cat-eye-sunglasses): UV400 Rhinestone Trim Cat-Eye Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
+  Updated: 2026-03-08T18:36:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/26ecbf58b66c41ac84cd7b62ee088fab-Min.jpg?v=1739835218
+  - [Brown / One Size](https://munsieur.com/products/uv400-rhinestone-trim-cat-eye-sunglasses?variant=50163557794008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/26ecbf58b66c41ac84cd7b62ee088fab-Min.jpg?v=1739835218
+    Price: $35.00 USD
+  - [Black / One Size](https://munsieur.com/products/uv400-rhinestone-trim-cat-eye-sunglasses?variant=50163557826776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0023ad12e48d460fb87b942820c0ba49-Min.jpg?v=1739835218
+    Price: $35.00 USD
+[List Continued](https://munsieur.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODE0NTY2OTMyNjk2LCJsYXN0X3ZhbHVlIjoiODgxNDU2NjkzMjY5NiJ9)
 
 ## Collections
 
 - [Munsieur: Premium Urban Fashion Clothing for Modern Style - Munsieur](https://munsieur.com/collections/munsieur-premium-urban-fashion-clothing): Welcome to Munsieur, the place where urban fashion seamlessly merges with luxury. Discover the exciting world of Munsieur - premium urban fashion clothing. We are dedicated to bringing you a collection that is both stylish and refined. Our collection is a celebration of boldness and creativity. You will find an impressive selection of premium urban wear that speaks volumes about your unique style. From bold skull hoodies to intricate dragon designs, each piece in our collection tells a story. The Munsieur - premium urban fashion clothing collection features a diverse range of styles. Whether you're drawn to edgy streetwear or elegant fashion statements, we've got you covered. Every piece is crafted with precision, ensuring both comfort and sophistication. Urban fashion enthusiasts will revel in the rich textures and detailed artistry present in our material choices. The designs offer a blend of contemporary flair and timeless appeal. At Munsieur, quality materials meet flawless craftsmanship, resulting in garments that exude luxury. It’s not just about clothing, it's about redefining your entire look. The Munsieur - premium urban fashion clothing collection allows you to express your individuality with every wear. When you wear Munsieur, you not only make a style statement, but you also become part of an exclusive community. Whether it's a casual outing or a statement event, Munsieur provides the perfect clothing options. Our collection is meticulously curated to ensure it complements any occasion. Indulge in the elegance and attitude of our collection and embrace the true essence of premium urban fashion. Explore Munsieur - premium urban fashion clothing today and transform your wardrobe into one that echoes sophistication and style. Find diverse options, all crafted for the urban fashion aficionado. Dive into the luxury and attitude that only Munsieur can offer. Your style redefined at Munsieur.com. - Munsieur
   Updated: 2026-03-07T18:29:53Z
   Total Products: 2
-- [Munsieur Men's Hoodies: Urban Luxury Meets Bold Design - Munsieur](https://munsieur.com/collections/premium-streetwear-hoodies-mens): Discover Munsieur's men's hoodies collection. Urban luxury meets bold design. Premium fabrics, superior comfort, statement streetwear pieces.
-  Updated: 2026-03-17T02:44:32Z
+- [Men's Premium Heavyweight Hoodies | Munsieur Gothic Streetwear](https://munsieur.com/collections/premium-streetwear-hoodies-mens): Shop Munsieur men's premium heavyweight hoodies. 400–500 GSM fleece, couture embroidery & structured fit. Gothic luxury streetwear built to last a lifetime.
+  Updated: 2026-03-19T20:05:36Z
   Total Products: 103
 - [Women's Urban Fashion Sweatshirts for : Bold Styles Await - Munsieur](https://munsieur.com/collections/urban-fashion-sweatshirts-for-): Shop Munsieur's women's urban fashion sweatshirts. Bold styles, premium comfort, luxury streetwear. Elevate your casual wardrobe.
-  Updated: 2026-03-16T17:20:41Z
-  Total Products: 89
+  Updated: 2026-03-23T19:16:10Z
+  Total Products: 180
 - [Premium Graphic Tees for Men: Urban Elegance Unleashed - Munsieur](https://munsieur.com/collections/premium-graphic-tees-for-men): Shop Munsieur's premium graphic tees for men. Bold designs, luxury cotton, superior craftsmanship. Urban streetwear that makes a statement.
   Updated: 2026-03-16T18:53:23Z
   Total Products: 217
-- [Luxury Women's Graphic T-Shirts: Elevate Your Urban Wardrobe - Munsieur](https://munsieur.com/collections/luxury-womens-t-shirts): Shop Munsieur's luxury women's graphic tees. Bold designs, premium cotton, superior craftsmanship. Elevate your urban streetwear wardrobe.
-  Updated: 2026-03-19T03:15:57Z
-  Total Products: 194
+- [Women's Luxury Graphic Tees | Munsieur Premium Streetwear](https://munsieur.com/collections/luxury-womens-t-shirts): Shop Munsieur women's luxury graphic tees. Heavyweight cotton, bold prints & couture embroidery. Premium gothic streetwear for women who dress with intention.
+  Updated: 2026-03-24T15:32:36Z
+  Total Products: 200
 - [Designer Streetwear Jackets for Women: Urban Luxury Style - Munsieur](https://munsieur.com/collections/designer-streetwear-jackets-for-women): - Munsieur
-  Updated: 2026-03-19T03:17:09Z
-  Total Products: 79
-- [Urban Style: Premium Men's Streetwear Coats Collection - Munsieur](https://munsieur.com/collections/premium-mens-streetwear-coats): - Munsieur
-  Updated: 2026-03-19T03:17:09Z
-  Total Products: 79
+  Updated: 2026-03-23T19:14:10Z
+  Total Products: 87
+- [Men's Premium Streetwear Coats | Munsieur Luxury Outerwear](https://munsieur.com/collections/premium-mens-streetwear-coats): Shop Munsieur men's premium streetwear coats. Heavy outerwear, ceremonial design & dark-luxury aesthetic. Gothic luxury fashion for the discerning few.
+  Updated: 2026-03-23T16:54:10Z
+  Total Products: 80
 - [Munsieur: Bold Style Fashion Hats for Urban Elegance - Munsieur](https://munsieur.com/collections/bold-style-fashion-hats): - Munsieur
   Updated: 2026-03-16T12:55:00Z
   Total Products: 76
 - [Women's Premium Streetwear Rompers, Jumpsuits, and Lounge suits: Elevate Your Urban Style - Munsieur](https://munsieur.com/collections/premium-streetwear-rompers-suits): - Munsieur
-  Updated: 2026-03-16T13:02:45Z
-  Total Products: 83
+  Updated: 2026-03-24T12:24:26Z
+  Total Products: 286
 - [Trendy Picks: Buy Women's Streetwear-Inspired Swimwear - Munsieur](https://munsieur.com/collections/buy-womens-streetwear-inspired-swimwear): - Munsieur
-  Updated: 2026-03-16T12:55:54Z
-  Total Products: 115
-- [Elevate Your Look with Premium Streetwear Joggers and Sets for Men at Munsieur.com - Munsieur](https://munsieur.com/collections/premium-streetwear-joggers-mens): - Munsieur
-  Updated: 2026-03-11T14:23:18Z
+  Updated: 2026-03-24T11:40:20Z
+  Total Products: 116
+- [Men's Premium Streetwear Joggers | Munsieur Luxury Fleece](https://munsieur.com/collections/premium-streetwear-joggers-mens): Shop Munsieur men's premium streetwear joggers. Heavy fleece, tapered fit & refined details. Luxury gothic streetwear joggers built to last. Shop now.
+  Updated: 2026-03-19T20:00:45Z
   Total Products: 73
 - [Trendy Women's Designer Leggings Online for Every Style - Munsieur](https://munsieur.com/collections/designer-leggings-online-womens): Discover Munsieur's luxury leggings and joggers collection. Premium materials, bold designs, superior craftsmanship. Wearable luxury streetwear for women.
-  Updated: 2026-03-16T16:30:34Z
-  Total Products: 187
+  Updated: 2026-03-23T23:06:20Z
+  Total Products: 190
 - [Stylish Essentials: Premium Backpacks for Urban Fashion - Munsieur](https://munsieur.com/collections/premium-backpacks-for-urban-fashion): Shop Munsieur's premium backpacks collection. Stylish urban fashion essentials, durable materials, bold designs. Functional luxury for everyday use.
   Updated: 2026-03-17T02:46:22Z
   Total Products: 13
 - [Munsieur Women's Premium Handbags in Streetwear Style - Munsieur](https://munsieur.com/collections/premium-handbags-streetwear-style): Discover Munsieur's women's premium handbags. Streetwear-inspired luxury accessories, bold designs, superior craftsmanship. Statement pieces.
-  Updated: 2026-03-19T03:20:04Z
-  Total Products: 76
+  Updated: 2026-03-24T11:40:30Z
+  Total Products: 78
 - [Bold Fragrance for Street Style: Urban Elegance Unleashed - Munsieur](https://munsieur.com/collections/bold-fragrance-for-street-style): - Munsieur
   Updated: 2026-03-07T18:30:20Z
   Total Products: 15
@@ -19327,26 +19341,26 @@
   Updated: 2026-03-07T18:30:23Z
   Total Products: 19
 - [Munsieur: Luxury Streetwear Art Collection for Bold Style - Munsieur](https://munsieur.com/collections/luxury-streetwear-art-collection): Explore Munsieur's luxury streetwear art collection. Bold artistic designs, premium materials, cultural storytelling. Statement pieces for bold style.
-  Updated: 2026-03-19T03:19:15Z
-  Total Products: 90
+  Updated: 2026-03-24T15:31:39Z
+  Total Products: 91
 - [Urban Fashion New Arrivals: Luxury Streetwear Essentials - Munsieur](https://munsieur.com/collections/urban-fashion-new-arrivals): Shop Munsieur's latest luxury streetwear arrivals. Fresh designs, premium quality, bold graphics. Discover the newest additions to our collection.
-  Updated: 2026-03-07T18:30:37Z
-  Total Products: 78
+  Updated: 2026-03-24T09:04:44Z
+  Total Products: 82
 - [Buy Stylish Men's Shoes Online: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-mens-shoes-online): Shop Munsieur's stylish men's shoes collection. Elevate your urban look with premium footwear, bold designs, superior comfort and quality.
-  Updated: 2026-03-16T18:41:39Z
-  Total Products: 73
+  Updated: 2026-03-24T09:07:31Z
+  Total Products: 69
 - [Elevate Your Style with Elegant Women's Shoes Collection - Munsieur](https://munsieur.com/collections/elegant-womens-shoes-footwear-collection): Elevate your style with Munsieur's elegant women's shoes collection. Premium footwear, bold designs, superior comfort. Luxury streetwear shoes.
   Updated: 2026-03-16T18:11:44Z
   Total Products: 24
 - [Women's Chic Summer Collection: Stylish Flats, Slip-Ons, and Sandals for Summer - Munsieur](https://munsieur.com/collections/stylish-flat-sandals-for-summer): - Munsieur
-  Updated: 2026-03-16T13:07:31Z
-  Total Products: 144
+  Updated: 2026-03-24T09:04:14Z
+  Total Products: 142
 - [Stylish Men's Sandals for Urban Fashion: Premium Collection - Munsieur](https://munsieur.com/collections/stylish-mens-sandals-for-urban-fashion): - Munsieur
   Updated: 2026-03-07T18:30:46Z
   Total Products: 19
-- [Chic Premium Women's City Style Boots for Urban Elegance - Munsieur](https://munsieur.com/collections/premium-womens-city-style-boots): - Munsieur
-  Updated: 2026-03-16T18:46:11Z
-  Total Products: 84
+- [Women's City Style Boots | Munsieur Urban Luxury Footwear](https://munsieur.com/collections/premium-womens-city-style-boots): Shop Munsieur women's city-style boots. Structured silhouettes, premium materials & dark-luxury finishing. Urban luxury footwear built for the streets.
+  Updated: 2026-03-24T09:07:03Z
+  Total Products: 82
 - [Shop Premium Men's Boots Online for Stylish Comfort - Munsieur](https://munsieur.com/collections/premium-mens-boots-online): - Munsieur
   Updated: 2026-03-07T18:30:49Z
   Total Products: 16
@@ -19354,26 +19368,26 @@
   Updated: 2026-03-07T18:30:55Z
   Total Products: 22
 - [Buy Stylish Women's High Heels: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-womens-high-heels): Shop Munsieur's stylish women's high heels. Elevate your urban look with premium footwear, bold designs, superior comfort and style.
-  Updated: 2026-03-16T18:41:39Z
-  Total Products: 89
-- [Luxury Women's Dresses: Effortless Elegance for Every Occasion - Munsieur](https://munsieur.com/collections/luxury-womens-dresses-skirts): Discover Munsieur's luxury women's dresses. Effortless elegance, premium fabrics, bold designs. Streetwear-inspired dresses for every occasion.
-  Updated: 2026-03-16T18:41:39Z
-  Total Products: 273
-- [Buy High-Quality Jeans for Women Online - Munsieur](https://munsieur.com/collections/high-quality-jeans-for-women-online): Shop Munsieur's premium women's jeans collection. High-quality denim, bold designs, superior fit. Luxury streetwear jeans built to last.
-  Updated: 2026-03-16T13:03:29Z
+  Updated: 2026-03-24T11:40:30Z
   Total Products: 92
+- [Luxury Women's Dresses: Effortless Elegance for Every Occasion - Munsieur](https://munsieur.com/collections/luxury-womens-dresses-skirts): Discover Munsieur's luxury women's dresses. Effortless elegance, premium fabrics, bold designs. Streetwear-inspired dresses for every occasion.
+  Updated: 2026-03-23T14:39:40Z
+  Total Products: 275
+- [Buy High-Quality Jeans for Women Online - Munsieur](https://munsieur.com/collections/high-quality-jeans-for-women-online): Shop Munsieur's premium women's jeans collection. High-quality denim, bold designs, superior fit. Luxury streetwear jeans built to last.
+  Updated: 2026-03-23T23:07:00Z
+  Total Products: 96
 - [Munsieur Collection: Designer Jeans for Men - Munsieur](https://munsieur.com/collections/designer-jeans-for-men-munsieur): Shop Munsieur's designer jeans for men. Premium denim, bold designs, superior fit. Luxury streetwear jeans built to last.
-  Updated: 2026-03-17T02:48:23Z
-  Total Products: 198
+  Updated: 2026-03-23T14:47:40Z
+  Total Products: 199
 - [Buy Stylish Bottoms Online: Chic Skirts, Skorts, and Shorts for Women - Munsieur](https://munsieur.com/collections/buy-stylish-bottoms-online): - Munsieur
-  Updated: 2026-03-16T12:55:26Z
-  Total Products: 66
+  Updated: 2026-03-23T23:07:00Z
+  Total Products: 73
 - [Munsieur's Stylish Men's Shorts for Summer Adventures - Munsieur](https://munsieur.com/collections/stylish-mens-shorts-for-summer): - Munsieur
   Updated: 2026-03-16T13:03:03Z
   Total Products: 91
 - [Buy Munsieur Fashion Accessories: Urban Luxury Essentials - Munsieur](https://munsieur.com/collections/buy-munsieur-fashion-accessories): Shop Munsieur's fashion accessories collection. Urban luxury essentials, bold designs, premium quality. Complete your streetwear look.
-  Updated: 2026-03-17T02:47:37Z
-  Total Products: 123
+  Updated: 2026-03-23T18:05:50Z
+  Total Products: 124
 - [Luxury Urban Fashion for St. Patrick's Day Celebrations - Munsieur](https://munsieur.com/collections/luxury-urban-fashion-for-st-patricks-day): - Munsieur
   Updated: 2026-03-07T00:46:41Z
   Total Products: 31
@@ -19384,7 +19398,7 @@
   Updated: 2026-01-29T21:17:40Z
   Total Products: 0
 - [Women's Blouses Flowy for Her Munsieur Crowned Design - Munsieur](https://munsieur.com/collections/womens-blouses-flowy-for-her-munsieur-crowned-design): Women's Blouses for all occasions. Flowy and Comfortable with many different styles. - Munsieur
-  Updated: 2026-03-19T03:15:41Z
+  Updated: 2026-03-20T08:28:51Z
   Total Products: 118
 - [Shop The Look Featured Collection - Munsieur](https://munsieur.com/collections/shop-the-look-featured-collection): - Munsieur
   Updated: 2026-03-06T21:33:35Z
@@ -19408,20 +19422,20 @@
   Updated: 2026-02-24T18:32:29Z
   Total Products: 11
 - [Valentine's Day Streetwear Collection | Premium Tees & Leggings - Munsieur](https://munsieur.com/collections/munsieur-valentines-day-collection): Shop Munsieur's exclusive Valentine's Day luxury streetwear collection. Bold graphics, premium quality tees, leggings & dresses. Limited edition designs.
-  Updated: 2026-03-06T01:30:12Z
-  Total Products: 57
+  Updated: 2026-03-23T19:15:10Z
+  Total Products: 59
 - [Munsieur Thanksgiving Day Collection - Munsieur](https://munsieur.com/collections/munsieur-thanksgiving-day-collection): Shop Munsieur's Thanksgiving luxury streetwear collection. Festive designs, premium quality apparel. Limited edition pieces for the holiday season.
   Updated: 2026-02-24T15:51:35Z
   Total Products: 10
 - [Munsieur Christmas Day Collection - Munsieur](https://munsieur.com/collections/munsieur-christmas-day-collection): Shop Munsieur's Christmas luxury streetwear collection. Festive designs, premium quality apparel. Limited edition holiday pieces for the season.
-  Updated: 2026-03-16T12:54:58Z
-  Total Products: 11
+  Updated: 2026-03-24T11:40:21Z
+  Total Products: 14
 - [Munsieur New Years Collection - Munsieur](https://munsieur.com/collections/munsieur-new-years-collection): Shop Munsieur's New Year's luxury streetwear collection. Celebrate in style with bold designs, premium quality apparel. Limited edition pieces.
   Updated: 2026-02-18T23:22:48Z
   Total Products: 0
 - [Munsieur Veterans Day Collection - Munsieur](https://munsieur.com/collections/munsieur-veterans-day-collection): Shop Munsieur's Veterans Day luxury streetwear collection. Honor service with bold designs, premium quality apparel. Limited edition pieces.
-  Updated: 2026-02-18T23:23:25Z
-  Total Products: 0
+  Updated: 2026-03-24T15:32:36Z
+  Total Products: 2
 - [Munsieur Cinco De Mayo Collection - Munsieur](https://munsieur.com/collections/munsieur-cinco-de-mayo-collection): Shop Munsieur's Cinco de Mayo luxury streetwear collection. Celebrate with vibrant designs, premium quality apparel. Limited edition pieces.
   Updated: 2026-02-24T15:54:17Z
   Total Products: 2
@@ -19456,31 +19470,31 @@
   Updated: 2026-03-08T23:12:32Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on - Munsieur](https://munsieur.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Munsieur
-  Updated: 2026-03-19T03:20:22Z
-  Total Products: 3045
+  Updated: 2026-03-24T15:32:36Z
+  Total Products: 3419
 - [Buy Skirts for Women Exclusively at MUNSIEUR - Munsieur](https://munsieur.com/collections/buy-skirts-for-women-exclusively-at-munsieur): ... - Munsieur
-  Updated: 2026-03-17T02:45:47Z
-  Total Products: 90
+  Updated: 2026-03-23T23:06:40Z
+  Total Products: 105
 - [Gothic Luxury Outerwear | Premium Leather Coats & Jackets - MUNSIEUR](https://munsieur.com/collections/outerwear): Ceremonial outerwear. Leather coats, embroidered jackets, heavyweight construction. Gothic luxury streetwear engineered for discipline. MUNSIEUR.
-  Updated: 2026-03-19T03:17:09Z
-  Total Products: 316
+  Updated: 2026-03-23T19:16:10Z
+  Total Products: 415
 - [Gothic Luxury Tops & Tees | Premium Streetwear - MUNSIEUR](https://munsieur.com/collections/tops): Embroidered tees, graphic tops, and ceremonial streetwear. Heavyweight cotton, fractured glyphs, crowned motifs. Restrained luxury for the disciplined.
-  Updated: 2026-03-19T03:15:57Z
-  Total Products: 517
+  Updated: 2026-03-24T15:32:36Z
+  Total Products: 523
 - [Luxury Gothic Dresses | Premium Streetwear Dresses for Women - MUNSIEUR](https://munsieur.com/collections/dresses): Ceremonial dresses. Gothic luxury design, premium construction, restrained elegance. Embroidered details, fractured graphics. MUNSIEUR streetwear.
-  Updated: 2026-03-17T02:45:47Z
-  Total Products: 360
+  Updated: 2026-03-23T23:06:40Z
+  Total Products: 377
 - [Luxury Streetwear Bottoms | Premium Joggers & Pants - MUNSIEUR](https://munsieur.com/collections/bottoms): Gothic luxury bottoms. Premium joggers, pants, and ceremonial streetwear. Heavyweight construction, restrained branding. Discipline over excess.
-  Updated: 2026-03-17T02:48:23Z
-  Total Products: 623
+  Updated: 2026-03-23T23:07:00Z
+  Total Products: 637
 - [Statement Pieces | Bold Gothic Luxury Streetwear - MUNSIEUR](https://munsieur.com/collections/statement-pieces): Ceremonial statement pieces. Embroidered hoodies, leather outerwear, crowned motifs. Gothic luxury engineered for impact. Restrained. Bold. MUNSIEUR.
-  Updated: 2026-03-19T03:20:04Z
-  Total Products: 134
+  Updated: 2026-03-24T11:40:30Z
+  Total Products: 136
 - [Luxury Graphic Tees | Fractured Glyphs & Gothic Streetwear - MUNSIEUR](https://munsieur.com/collections/luxury-graphic-tees): Premium graphic tees with fractured glyphs, skull iconography, crowned motifs. Heavyweight cotton, ceremonial design. Gothic luxury streetwear. MUNSIEUR.
   Updated: 2026-03-08T23:17:55Z
   Total Products: 0
 - [Best Heavyweight Hoodies - Munsieur](https://munsieur.com/collections/best-heavyweight-hoodies): Discover the finest heavyweight hoodies at Munsieur, your destination for premium gothic streetwear. Our curated collection features heavyweight hoodies crafted with exceptional attention to detail, combining dark aesthetic with luxury quality that stands the test of time. Why Heavyweight Hoodies MatterWhen it comes to premium streetwear, fabric weight makes all the difference. Our heavyweight hoodies feature 345GSM construction, delivering superior warmth, durability, and that coveted premium feel that sets designer pieces apart from fast fashion. Each hoodie in this collection is engineered for those who demand both quality and edge. Premium Quality & Designer CraftsmanshipAt Munsieur, we specialize in heavyweight hoodies that blend gothic elegance with contemporary streetwear. Every piece is designed with meticulous attention to detail, from reinforced stitching to premium hardware. Our heavyweight construction ensures your hoodie maintains its shape, color, and comfort wash after wash. Gothic Luxury Meets StreetwearOur heavyweight hoodies collection showcases the perfect fusion of dark aesthetic and modern design. Whether you're searching for oversized fits, embroidered details, or minimalist gothic style, our heavyweight hoodies deliver unmatched versatility. Layer them over graphic tees for maximum impact or wear solo for a clean, powerful look. Why Choose Munsieur Heavyweight Hoodies345GSM Premium Fabric: Superior weight and durabilityDesigner Aesthetic: Gothic luxury meets contemporary streetwearPerfect Fit: Oversized and regular fits availableLimited Production: Exclusive designs you won't find anywhere elseFast Shipping: Free shipping on orders over $100 Style Your Heavyweight HoodieHeavyweight hoodies are the cornerstone of any gothic streetwear wardrobe. Pair with our premium leggings for a complete athleisure look, or style with designer denim for elevated casual wear. The versatility of heavyweight construction means these pieces transition seamlessly from street to studio. Shop our best heavyweight hoodies collection and experience the perfect blend of dark aesthetic and designer quality. With limited stock and exclusive designs, our heavyweight hoodies  out quickly. Explore the collection now and elevate your streetwear game. - Munsieur
-  Updated: 2026-03-17T02:44:32Z
+  Updated: 2026-03-19T18:42:32Z
   Total Products: 103
 - [Premium Gothic Collection - Munsieur](https://munsieur.com/collections/premium-gothic-collection): Couture-grade embroidery. Heavyweight construction. Designed to last 5-10+ years. Our Premium Gothic Collection features luxury streetwear with intricate embroidered designs, 400-500GSM heavyweight fleece, and construction that outlasts mass-market alternatives by decades. Each piece is crafted in limited production runs for those who refuse to compromise between style and quality. What Makes This Collection Premium: Embroidered Artwork: Permanent threadwork that improves with age, not screen prints that crack and fade Heavyweight Fabrics: 400-500GSM fleece and 200+ GSM cotton for substantial feel and structure  Pieces: Designed for 5-10+ years of wear, not seasonal disposal Limited Production: Small-batch releases ensure exclusivity and quality control Gothic Luxury: Dark aesthetic sophistication meets premium streetwear Use code GOTHIC20 for 20% off your first purchase from this collection. Limited availability. Uncertain restock timing. These pieces represent the pinnacle of gothic streetwear craftsmanship. - Munsieur
   Updated: 2026-03-16T16:30:34Z
@@ -19489,47 +19503,47 @@
 ## Blogs
 
 - [News](https://munsieur.com/blogs/news)
-  - [Shop the Best Premium Streetwear Online at Munsieur - Munsieur](https://munsieur.com/blogs/news/premium-streetwear-online): Shop the Best Premium Streetwear Online at Munsieur - Munsieur
-    Updated: 2025-12-07T14:32:19Z
+  - [Shop Premium Streetwear Online | Munsieur](https://munsieur.com/blogs/news/premium-streetwear-online): Shop Premium Streetwear Online | Munsieur
+    Updated: 2026-03-19T18:26:05Z
     Author: James Veasley
-  - [Top Urban Fashion Trends to Watch in 2025 - Munsieur](https://munsieur.com/blogs/news/top-urban-fashion-trends-to-watch-in-2025): Top Urban Fashion Trends to Watch in 2025 - Munsieur
-    Updated: 2025-12-07T14:32:31Z
+  - [Top Urban Fashion Trends 2025 | Munsieur](https://munsieur.com/blogs/news/top-urban-fashion-trends-to-watch-in-2025): Top Urban Fashion Trends 2025 | Munsieur
+    Updated: 2026-03-19T18:27:08Z
     Author: Munsieur
     Tags: bold graphic tees, luxury streetwear, retro urban fashion, street style icons, sustainable fashion, urban fashion trends 2025
-  - [Must-Have Trending Pieces for Women This Season | Munsieur - Munsieur](https://munsieur.com/blogs/news/must-have-trending-pieces-for-women-this-season-munsieur): Must-Have Trending Pieces for Women This Season | Munsieur - Munsieur
-    Updated: 2025-12-07T14:32:34Z
+  - [Must-Have Women's Streetwear Pieces This Season | Munsieur](https://munsieur.com/blogs/news/must-have-trending-pieces-for-women-this-season-munsieur): Must-Have Women's Streetwear Pieces This Season | Munsieur
+    Updated: 2026-03-19T18:27:28Z
     Author: Munsieur
     Tags: comfortable chic styles, graphic hoodies for women, luxury streetwear, seasonal fashion must-haves, trending women's urban wear, urban fashion influencers
-  - [Christmas Gift Ideas: Luxury Streetwear Shopping Online at Munsieur - Munsieur](https://munsieur.com/blogs/news/christmas-gift-ideas-luxury-streetwear-shopping-online-at-munsieur): Christmas Gift Ideas: Luxury Streetwear Shopping Online at Munsieur - Munsieur
-    Updated: 2025-12-07T14:32:38Z
+  - [Christmas Gift Ideas: Luxury Streetwear | Munsieur](https://munsieur.com/blogs/news/christmas-gift-ideas-luxury-streetwear-shopping-online-at-munsieur): Christmas Gift Ideas: Luxury Streetwear | Munsieur
+    Updated: 2026-03-19T18:27:46Z
     Author: Munsieur
     Tags: Christmas gift ideas for fashion lovers, designer hoodies gift ideas, holiday fashion shopping online, luxury streetwear shopping online, stylish winter streetwear gifts, urban fashion holiday deals
-  - [What Makes Premium Streetwear Different: Quality and Craftsmanship in Urban Luxury Graphic T-Shirts - Munsieur](https://munsieur.com/blogs/news/what-makes-premium-streetwear-different-quality-and-craftsmanship-in-urban-luxury-graphic-t-shirts): What Makes Premium Streetwear Different: Quality and Craftsmanship in Urban Luxury Graphic T-Shirts - Munsieur
-    Updated: 2025-12-07T14:32:42Z
+  - [What Makes Premium Streetwear Different? | Munsieur](https://munsieur.com/blogs/news/what-makes-premium-streetwear-different-quality-and-craftsmanship-in-urban-luxury-graphic-t-shirts): What Makes Premium Streetwear Different? | Munsieur
+    Updated: 2026-03-19T18:28:05Z
     Author: Munsieur
     Tags: comparison of urban luxury graphic t-shirts, ethical production urban clothing, graphic t-shirt durability, luxury graphic t-shirt materials, print quality on graphic tees, urban streetwear styling tips
-  - [How Luxury Meets Streetwear: Discover Premium Urban Fashion Trends 2025 - Munsieur](https://munsieur.com/blogs/news/how-luxury-meets-streetwear-discover-premium-urban-fashion-trends-2025): How Luxury Meets Streetwear: Discover Premium Urban Fashion Trends 2025 - Munsieur
-    Updated: 2025-12-07T14:32:46Z
+  - [How Luxury Meets Streetwear | Urban Fashion Trends 2025](https://munsieur.com/blogs/news/how-luxury-meets-streetwear-discover-premium-urban-fashion-trends-2025): How Luxury Meets Streetwear | Urban Fashion Trends 2025
+    Updated: 2026-03-19T18:28:26Z
     Author: Munsieur
     Tags: designer streetwear online, luxury streetwear shopping online, premium streetwear brands, skull hoodies luxury, urban fashion trends 2025, where to buy luxury streetwear online
-  - [Shop Luxury Streetwear Online: Stylish Halloween Outfits at Munsieur - Munsieur](https://munsieur.com/blogs/news/shop-luxury-streetwear-online-stylish-halloween-outfits-at-munsieur): Shop Luxury Streetwear Online: Stylish Halloween Outfits at Munsieur - Munsieur
-    Updated: 2025-12-07T14:32:50Z
+  - [Luxury Streetwear Halloween Outfits | Munsieur](https://munsieur.com/blogs/news/shop-luxury-streetwear-online-stylish-halloween-outfits-at-munsieur): Luxury Streetwear Halloween Outfits | Munsieur
+    Updated: 2026-03-19T18:28:45Z
     Author: Munsieur
     Tags: dragon design apparel, exclusive hoodies online, Halloween streetwear styles, luxury streetwear shopping online, stylish Halloween outfits, urban fashion trends 2025
-  - [A Comparison of Urban Luxury Graphic T-Shirts for Easter | Munsieur - Munsieur](https://munsieur.com/blogs/news/a-comparison-of-urban-luxury-graphic-t-shirts-for-easter-munsieur): A Comparison of Urban Luxury Graphic T-Shirts for Easter | Munsieur - Munsieur
-    Updated: 2025-12-07T14:32:54Z
+  - [Best Urban Luxury Graphic Tees for Easter | Munsieur](https://munsieur.com/blogs/news/a-comparison-of-urban-luxury-graphic-t-shirts-for-easter-munsieur): Best Urban Luxury Graphic Tees for Easter | Munsieur
+    Updated: 2026-03-19T18:29:11Z
     Author: Munsieur
     Tags: best graphic t-shirts for festivals, bold graphic t-shirt styles, comparison of urban luxury graphic t-shirts, eco-friendly streetwear brands, premium streetwear brands, urban streetwear styling tips
-  - [Black Friday Deals 2025: Luxury Streetwear Shopping Online at Munsieur - Munsieur](https://munsieur.com/blogs/news/black-friday-deals-2025-luxury-streetwear-shopping-online-at-munsieur): Black Friday Deals 2025: Luxury Streetwear Shopping Online at Munsieur - Munsieur
-    Updated: 2025-12-07T14:32:58Z
+  - [Black Friday Luxury Streetwear Deals 2025 | Munsieur](https://munsieur.com/blogs/news/black-friday-deals-2025-luxury-streetwear-shopping-online-at-munsieur): Black Friday Luxury Streetwear Deals 2025 | Munsieur
+    Updated: 2026-03-19T18:29:49Z
     Author: Munsieur
     Tags: affordable luxury streetwear online, best Black Friday deals on streetwear, black friday streetwear discounts, luxury streetwear shopping online, men’s streetwear Black Friday specials, premium streetwear Black Friday 
   - [Christmas Sales: Best Luxury Streetwear Shopping Online at Munsieur - Munsieur](https://munsieur.com/blogs/news/christmas-sales-best-luxury-streetwear-shopping-online-at-munsieur): Christmas Sales: Best Luxury Streetwear Shopping Online at Munsieur - Munsieur
     Updated: 2025-12-07T14:33:02Z
     Author: Munsieur
     Tags: best luxury streetwear online stores, exclusive Christmas streetwear deals, fashionable Christmas outfit ideas, holiday discounts on streetwear, limited edition streetwear Christmas, luxury streetwear shopping online
-  - [St Patrick's Day  at Munsieur | Luxury Streetwear Shopping Online - Munsieur](https://munsieur.com/blogs/news/st-patrick-s-day--at-munsieur-luxury-streetwear-shopping-online): St Patrick's Day  at Munsieur | Luxury Streetwear Shopping Online - Munsieur
-    Updated: 2025-12-07T14:33:08Z
+  - [St. Patrick's Day Luxury Streetwear | Munsieur](https://munsieur.com/blogs/news/st-patrick-s-day--at-munsieur-luxury-streetwear-shopping-online): St. Patrick's Day Luxury Streetwear | Munsieur
+    Updated: 2026-03-19T18:30:49Z
     Author: Munsieur
     Tags: exclusive streetwear collections, luxury streetwear shopping online, men's luxury hoodies, online streetwear shopping deals, premium streetwear discounts, St Patrick's Day fashion deals
   - [The Philosophy of Concealment in Fashion | MUNSIEUR](https://munsieur.com/blogs/news/the-philosophy-of-concealment-in-fashion): The Philosophy of Concealment in Fashion | MUNSIEUR
@@ -19556,11 +19570,11 @@
     Updated: 2026-02-19T13:54:18Z
     Author: Munsieur Clothing
     Tags: avant-garde design, dark avant-garde fashion, dark luxury, gothic embroidery, gothic fashion, gothic luxury fashion house, luxury gothic, MUNSIEUR
-  - [How to Style Luxury Streetwear for Any Occasion | Munsieur](https://munsieur.com/blogs/news/how-to-style-luxury-streetwear-for-any-occasion-munsieur)
-    Updated: 2026-02-19T14:17:16Z
+  - [How to Style Luxury Streetwear for Any Occasion | Munsieur](https://munsieur.com/blogs/news/how-to-style-luxury-streetwear-for-any-occasion-munsieur): How to Style Luxury Streetwear for Any Occasion | Munsieur
+    Updated: 2026-03-19T18:31:06Z
     Author: Munsieur Clothing
-  - [Valentine's Day Streetwear: Bold Looks That Make a Statement](https://munsieur.com/blogs/news/valentines-day-streetwear-bold-looks-that-make-a-statement)
-    Updated: 2026-02-19T14:19:34Z
+  - [Valentine's Day Streetwear: Bold Looks | Munsieur](https://munsieur.com/blogs/news/valentines-day-streetwear-bold-looks-that-make-a-statement): Valentine's Day Streetwear: Bold Looks | Munsieur
+    Updated: 2026-03-19T18:31:19Z
     Author: Munsieur Clothing
   - [The Story Behind Our 917 Signature Collection | Munsieur](https://munsieur.com/blogs/news/the-story-behind-our-917-signature-collection): The Story Behind Our 917 Signature Collection | Munsieur
     Updated: 2026-02-19T14:23:05Z
@@ -19923,14 +19937,78 @@
     Updated: 2026-03-16T18:04:55Z
     Author: Munsieur Clothing
     Tags: alternative fashion, fashion history, gothic aesthetic, gothic fashion history, gothic style, luxury streetwear, subculture fashion
+  - [How Much Does It Cost to Start a Clothing Brand? (Honest Breakdown)](https://munsieur.com/blogs/news/how-much-does-it-cost-to-start-a-clothing-brand): How Much Does It Cost to Start a Clothing Brand? (Honest Breakdown)
+    Updated: 2026-03-19T15:24:48Z
+    Author: Munsieur Clothing
+    Tags: clothing brand, clothing line cost, entrepreneurship, fashion business, start a clothing brand
+  - [The Best Designer Leggings for Dark Luxury Wardrobes](https://munsieur.com/blogs/news/the-best-designer-leggings-for-dark-luxury-wardrobes): The Best Designer Leggings for Dark Luxury Wardrobes
+    Updated: 2026-03-19T15:29:53Z
+    Author: Munsieur Clothing
+    Tags: dark luxury fashion, designer leggings, gothic streetwear, luxury leggings, wardrobe essentials
+  - [Honoring MLK Through Intentional Fashion | Munsieur](https://munsieur.com/blogs/news/the-legacy-of-style-honoring-dr-martin-luther-king-jr-through-intentional-fashion): Honoring MLK Through Intentional Fashion | Munsieur
+    Updated: 2026-03-19T15:34:12Z
+    Author: Munsieur Clothing
+    Tags: cultural fashion, dark luxury, graphic tee, intentional dressing, martin luther king shirt, MLK collection
+  - [How to Dress for St. Patrick's Day Without Looking Like a Costume](https://munsieur.com/blogs/news/how-to-dress-for-st-patricks-day-without-looking-like-a-costume): How to Dress for St. Patrick's Day Without Looking Like a Costume
+    Updated: 2026-03-19T15:41:25Z
+    Author: Munsieur Clothing
+    Tags: dark luxury, graphic tee, green outfit, holiday fashion, luxury streetwear, St. Patrick's Day
+  - [Best St. Patrick's Day Graphic Tees 2026 — Premium Quality That Lasts](https://munsieur.com/blogs/news/the-best-st-patricks-day-graphic-tees-for-2026-that-dont-look-cheap): Best St. Patrick's Day Graphic Tees 2026 — Premium Quality That Lasts
+    Updated: 2026-03-19T15:58:58Z
+    Author: Munsieur Clothing
+    Tags: dark luxury, holiday fashion, premium graphic tee, St. Patrick's Day graphic tee, St. Patrick's Day shirt
+  - [How to Dress for Easter with Intention — Dark Luxury Style Guide](https://munsieur.com/blogs/news/how-to-dress-for-easter-with-intention-a-dark-luxury-perspective): How to Dress for Easter with Intention — Dark Luxury Style Guide
+    Updated: 2026-03-19T16:13:52Z
+    Author: Munsieur Clothing
+    Tags: dark luxury, Easter collection, Easter fashion, Easter outfit, intentional dressing, premium streetwear
+  - [Best Easter Graphic Tees 2026 — Premium Quality Worth Keeping](https://munsieur.com/blogs/news/the-best-easter-graphic-tees-for-2026-premium-quality-not-pastel-novelty): Best Easter Graphic Tees 2026 — Premium Quality Worth Keeping
+    Updated: 2026-03-19T16:14:41Z
+    Author: Munsieur Clothing
+    Tags: dark luxury, Easter collection, Easter fashion 2026, Easter graphic tee, Easter shirt, premium graphic tee
+  - [The Fabric Doesn't Lie: Why GSM Is the Only Honest Measure of Quality](https://munsieur.com/blogs/news/the-fabric-doesnt-lie): The Fabric Doesn't Lie: Why GSM Is the Only Honest Measure of Quality
+    Updated: 2026-03-19T16:48:05Z
+    Author: Munsieur Clothing
+    Tags: brand authority, fabric quality, GSM, heavyweight streetwear, luxury fashion, premium construction
+  - [Dressed for the Occasion: The Lost Art of Holiday Dressing](https://munsieur.com/blogs/news/dressed-for-the-occasion-the-lost-art-of-holiday-dressing): Dressed for the Occasion: The Lost Art of Holiday Dressing
+    Updated: 2026-03-19T16:48:40Z
+    Author: Munsieur Clothing
+    Tags: brand authority, dark luxury, Easter fashion, holiday dressing, intentional style, St. Patrick's Day
+  - [Why Dark Luxury Is the Most Honest Aesthetic in Fashion Right Now](https://munsieur.com/blogs/news/why-dark-luxury-is-the-most-honest-aesthetic-in-fashion-right-now): Why Dark Luxury Is the Most Honest Aesthetic in Fashion Right Now
+    Updated: 2026-03-19T16:50:29Z
+    Author: Munsieur Clothing
+    Tags: brand manifesto, dark luxury, fashion philosophy, gothic luxury, luxury streetwear, premium fashion
+  - [The Graphic Tee as Cultural Artifact — A History of Fashion's Most Powerful Garment](https://munsieur.com/blogs/news/the-graphic-tee-as-cultural-artifact): The Graphic Tee as Cultural Artifact — A History of Fashion's Most Powerful Garment
+    Updated: 2026-03-19T16:51:04Z
+    Author: Munsieur Clothing
+    Tags: brand authority, cultural fashion, dark luxury, fashion history, graphic tee, holiday graphic tee, MLK
+  - [Spring Renewal: How the Best Dressers Actually Approach Easter](https://munsieur.com/blogs/news/spring-renewal-how-the-seasons-best-dressers-actually-approach-easter): Spring Renewal: How the Best Dressers Actually Approach Easter
+    Updated: 2026-03-19T16:52:40Z
+    Author: Munsieur Clothing
+    Tags: brand authority, dark luxury, Easter collection, Easter fashion, intentional dressing, spring style
+  - [The Green That Doesn't Fade: A St. Patrick's Day Style Manifesto](https://munsieur.com/blogs/news/the-green-that-doesnt-fade-a-st-patricks-day-style-manifesto): The Green That Doesn't Fade: A St. Patrick's Day Style Manifesto
+    Updated: 2026-03-19T16:40:56Z
+    Author: Munsieur Clothing
+    Tags: brand manifesto, dark luxury, green outfit, holiday fashion, luxury streetwear, St. Patrick's Day
+  - [Easter Fashion for People Who Don't Do Pastels | Dark Luxury Spring 2026](https://munsieur.com/blogs/news/easter-fashion-for-people-who-dont-do-pastels-dark-luxury-spring-dressing-2026): Easter Fashion for People Who Don't Do Pastels | Dark Luxury Spring 2026
+    Updated: 2026-03-19T18:16:52Z
+    Author: Munsieur Clothing
+    Tags: anti-pastel, avant-garde fashion, ceremonial style, dark luxury, easter fashion, gothic streetwear, luxury streetwear, spring 2026
+  - [Cinco de Mayo Outfit Ideas That Aren't a Costume | Avant-Garde 2026](https://munsieur.com/blogs/news/how-to-dress-for-cinco-de-mayo-without-looking-like-a-costume-avant-garde-edition-2026): Cinco de Mayo Outfit Ideas That Aren't a Costume | Avant-Garde 2026
+    Updated: 2026-03-19T18:23:57Z
+    Author: Munsieur Clothing
+    Tags: avant-garde, cinco de mayo, dark luxury, festival fashion, gothic streetwear, graphic tees, luxury streetwear, premium fashion, spring 2026
+  - [Gothic Outerwear Guide: Dark Luxury Coats & Jackets for Men & Women](https://munsieur.com/blogs/news/gothic-outerwear-guide-how-to-build-a-dark-luxury-coat-collection): Gothic Outerwear Guide: Dark Luxury Coats & Jackets for Men & Women
+    Updated: 2026-03-24T00:11:54Z
+    Author: Munsieur Clothing
+    Tags: dark luxury, dark luxury jackets, gothic coats, gothic outerwear, outerwear guide
 - [0](https://munsieur.com/blogs/0)
-  - [How to Style Men's Ripped Jeans: Trendy Tips & Tricks - Munsieur](https://munsieur.com/blogs/0/how-to-style-mens-ripped-jeans): How to Style Men's Ripped Jeans: Trendy Tips & Tricks - Munsieur
-    Updated: 2025-12-07T14:32:23Z
+  - [How to Style Men's Ripped Jeans | Munsieur](https://munsieur.com/blogs/0/how-to-style-mens-ripped-jeans): How to Style Men's Ripped Jeans | Munsieur
+    Updated: 2026-03-19T18:26:28Z
     Author: Mira
     Tags: Fashion, Men's Clothing, Ripped Jeans, Slim-fit Pants, Trendy Wear
 - [Munsieur Year of the Dog Hoodie | Fierce Loyalty & Zodiac Style for Men](https://munsieur.com/blogs/munsieur-year-of-the-dog-hoodie-fierce-loyalty-zodiac-style-for-men)
-  - [5 Bold Hoodie Designs to Elevate Your Urban Style - Munsieur](https://munsieur.com/blogs/munsieur-year-of-the-dog-hoodie-fierce-loyalty-zodiac-style-for-men/bold-hoodie-designs-munsieur): 5 Bold Hoodie Designs to Elevate Your Urban Style - Munsieur
-    Updated: 2025-12-07T14:32:26Z
+  - [5 Bold Hoodie Designs for Urban Style | Munsieur](https://munsieur.com/blogs/munsieur-year-of-the-dog-hoodie-fierce-loyalty-zodiac-style-for-men/bold-hoodie-designs-munsieur): 5 Bold Hoodie Designs for Urban Style | Munsieur
+    Updated: 2026-03-19T18:26:48Z
     Author: Mira
     Tags: casual wear, hoodie, mens fashion, Munsieur, zodiac style
 
@@ -19994,6 +20072,8 @@
   Updated: 2026-02-25T02:25:07Z
 - [Size Guide - Munsieur](https://munsieur.com/pages/size-guide): Size Guide Our leggings are crafted for precision fit and uncompromising comfort. Each piece is designed with heavy, premium fabrics that sculpt an...
   Updated: 2026-03-14T03:47:32Z
+- [FAQ — Munsieur](https://munsieur.com/pages/faq): ShippingHow long does shipping take?Standard orders ship within 2–5 business days. Expedited options are available at checkout. Once shipped, you'l...
+  Updated: 2026-03-19T19:03:25Z
 
 ## Policies
 
