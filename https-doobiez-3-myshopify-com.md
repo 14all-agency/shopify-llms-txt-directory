@@ -6,12 +6,12 @@
 - Timezone: America/Denver
 - Created At: 2026-02-18T18:47:33Z
 - Contact Email: izattdarcy@gmail.com
-- Updated At: 2026-03-17T00:00:28.880Z
+- Updated At: 2026-03-27T00:00:34.803Z
 
 ## Products
 
 - [Sit n Toke](https://doobiez-3.myshopify.com/products/sit-n-toke): Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Vendor: Doobiez
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0732/5522/3350/files/ninjapod_12388572_f_G500_ai_f.jpg?v=1773002217
     Price: $16.68 USD
 - [Sit n Toke Hat](https://doobiez-3.myshopify.com/products/sit-n-toke-hat): Product: Yupoong Y6007  5-Panel Cotton Twill Snapback Cap 100% cotton 5-panel, Structured, high-profile Eight-row stitching on flat visor 3¾" crown Hard buckram backed front panels Four sewn eyelets Green undervisor Plastic adjustable closure Size Hat size Crown height ONE SIZE OSFA" 3 3/4""
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Vendor: Doobiez
   Product Type: Snap back with design
   Availability: Available
@@ -179,7 +179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0732/5522/3350/files/ninjapod_12388749_f_Y6007_09_f.jpg?v=1773002377
     Price: $21.80 USD
 - [Sit n Toke bag](https://doobiez-3.myshopify.com/products/sit-n-toke-bag): Product: Port Authority BG613 Port Authority ® Fast Break Cinch Pack. BG613 210 denier polyester Drawcord closure Front zippered pocket Side mesh pocket Side slip pocket Dimensions: 16"h x 13"w
-  Updated: 2026-03-15T04:22:25Z
+  Updated: 2026-03-18T20:02:49Z
   Vendor: Doobiez
   Product Type: 
   Availability: Available
@@ -197,7 +197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0732/5522/3350/files/ninjapod_12389375_f_BG613_c5f8_f.jpg?v=1773003229
     Price: $13.77 USD
 - [Sit n Toke Hoodie](https://doobiez-3.myshopify.com/products/sit-n-toke-hoodie): Product: Gildan G185  Heavy Blend 8 oz., 50/50 Hood 8 oz., 50% cotton 50% polyester blend Heather Sport colors: 60% polyester, 40% cotton Pill-resistant air jet yarn Classic fit he Double-lined hood with color-matched drawcord 1 x 1 rib with spandex for enhanced stretch and recovery Pouch pocket Tear away label Size Body length Full body length Body width Sleeve length XS 26" 26" 18" 32 1/2" S 27" 27" 20" 33" M 28" 28" 22" 34" L 29" 29" 24" 35" XL 30" 30" 26" 36" 2XL 31" 31" 28" 37" 3XL 32" 32" 30" 38" 4XL 33" 33" 32" 39" 5XL 34" 30" 34" 40"
-  Updated: 2026-03-16T03:04:16Z
+  Updated: 2026-03-18T20:02:50Z
   Vendor: Doobiez
   Product Type: Hoodie
   Availability: Available
@@ -341,31 +341,31 @@
 ## Collections
 
 - [Home page](https://doobiez-3.myshopify.com/collections/frontpage)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 1
 - [General Clothes example products](https://doobiez-3.myshopify.com/collections/general-clothes-example-products)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 0
 - [Other example products](https://doobiez-3.myshopify.com/collections/other-example-products)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 0
 - [Bongs](https://doobiez-3.myshopify.com/collections/bongs)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 0
 - [Pipes](https://doobiez-3.myshopify.com/collections/pipes)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 0
 - [Grinders](https://doobiez-3.myshopify.com/collections/grinders)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 0
 - [Smoking needs](https://doobiez-3.myshopify.com/collections/smoking-needs)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 0
 - [Vaperizors](https://doobiez-3.myshopify.com/collections/vaperizors)
-  Updated: 2026-03-15T04:22:24Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 0
 - [Clothing](https://doobiez-3.myshopify.com/collections/clothing)
-  Updated: 2026-03-15T04:22:25Z
+  Updated: 2026-03-18T20:02:49Z
   Total Products: 4
 
 ## Store Pages
