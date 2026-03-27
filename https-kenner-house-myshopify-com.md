@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-12-07T21:38:41Z
 - Contact Email: kennerhouseon98@gmail.com
-- Updated At: 2026-03-20T00:00:40.583Z
+- Updated At: 2026-03-27T00:00:44.608Z
 
 ## Products
 
@@ -2307,7 +2307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S1f8c4498748f48798c7a0d6a958713e7P.webp?v=1771612002
     Price: $6.99 USD
 - [European American Sunglass Women Fashion Polygon Shape UV400 Protection Men Women Glasses Vintage Retro Women Sunglasses](https://kenner-house.myshopify.com/products/european-american-sunglass-women-fashion-polygon-shape-uv400-protection-men-women-glasses-vintage-retro-women-sunglasses): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: abnathyDepartment Name: AdultElement type: Trendy and FashionableEyewear Type: SunglassesFrame Material: PolycarbonateGender: WomenHigh-concerned chemical: NoneItem Type: EYEWEARLens Height: 53mmLens Width: 64mmLenses Material: AcrylicLenses Optical Attribute: Anti-reflective,UV400Model Number: DL20231112Origin: Mainland ChinaPlace Of Origin: China (mainland)Product Type: Fashion SunglassesStyle type: Square
-  Updated: 2026-03-13T15:48:49Z
+  Updated: 2026-03-22T00:59:23Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2655,7 +2655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa20e9d2ca837491588c3c7f3ac1b967aw.webp?v=1771612005
     Price: $41.99 USD
 - [New Fashionable High-definition Cat Eye Glasses with Large Frame Color Blocking Design and Multi-color Anti Blue Light Glasses](https://kenner-house.myshopify.com/products/new-fashionable-high-definition-cat-eye-glasses-with-large-frame-color-blocking-design-and-multi-color-anti-blue-light-glasses): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: ZRGAECertification: NoneChoice: yesCoating: HMCElement type: Trendy and FashionableEyewear Type: Reading glassesFrame Material: PlasticGender: Women,Men,UnisexHigh-concerned chemical: NoneItem Type: EYEWEARLenses Color: TransparentLenses Material: PlasticLenses Optical Attribute: MIRROROrigin: Mainland ChinaPlace Of Origin: China (mainland)Product Type: Regular reading glassesStyle type: CAT EYEsemi_Choice: yes
-  Updated: 2026-03-13T13:03:56Z
+  Updated: 2026-03-22T00:58:30Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2789,7 +2789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sd14fae3cf8994311a22ee094225a2c20c.webp?v=1771618413
     Price: $6.99 USD
 - [Elegant cat eye reading glasses for women-fashionable color block design, anti-blue light, 1.0 to 4.0 strength](https://kenner-house.myshopify.com/products/elegant-cat-eye-reading-glasses-for-women-fashionable-color-block-design-anti-blue-light-1-0-to-4-0-strength): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: KLASSNUMCertification: NoneChoice: yesCoating: HMCElement type: Basic ClassicEyewear Type: Reading glassesFeature 1: Reading glasses womanFeature 2: women's grade glassesFeature 3: glasses womanFeature 4: LensesFeature 5: glassesFrame Material: PlasticGender: Women,Men,UnisexHigh-concerned chemical: NoneItem Type: EYEWEARLenses Color: ClearLenses Material: PolycarbonateLenses Optical Attribute: polarizedModel Number: Reading GlassesOrigin: Mainland ChinaProduct Type: Regular reading glassesStyle type: Gogglesemi_Choice: yes
-  Updated: 2026-03-13T13:04:03Z
+  Updated: 2026-03-22T00:57:12Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2907,7 +2907,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S117f4de54a144cf0a79e13ba41cffdb7z.webp?v=1771618413
     Price: $4.99 USD
 - [Elegant Cat Eye Glasses for Women - Vintage-Inspired Gradient, Full Frame, Lightweight & Durable, Blue Light Blocking Clear Lens](https://kenner-house.myshopify.com/products/elegant-cat-eye-glasses-for-women-vintage-inspired-gradient-full-frame-lightweight-durable-blue-light-blocking-clear-lens): SPECIFICATIONSBrand Name: VIGNYBURKEChoice: yesElement type: Trendy and FashionableEye glasses Type: SpectaclesEye glasses frame type: Full RimFrame Material: Acetate,PC (polycarbonate)Frame Shape: Cat EyeGender: WomenHigh-concerned chemical: NoneLens Material: PC (polycarbonate)Lenses Material: PolycarbonateModel Number: WF86095Origin: Mainland China,ZhejiangChinaPlace Of Origin: China (mainland)Style: ElegantStyle type: Oval
-  Updated: 2026-03-13T13:03:57Z
+  Updated: 2026-03-22T00:56:07Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -2933,7 +2933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S890e6d506ee8494585861961c2dfb967Z.webp?v=1771618413
     Price: $8.99 USD
 - [Women's Makeup Glasses High definition Fashion Magnifying Glass Makeup Presbyopia Glasses Personalized Single piece Rotating](https://kenner-house.myshopify.com/products/womens-makeup-glasses-high-definition-fashion-magnifying-glass-makeup-presbyopia-glasses-personalized-single-piece-rotating): SPECIFICATIONSApplicable Scenarios: HomeBrand Name: ZUXUBChoice: yesElement type: Basic ClassicEyewear Type: Reading glassesFrame Material: PlasticGender: MenHigh-concerned chemical: NoneItem Type: EYEWEARLenses Color: ClearLenses Material: PlasticLenses Optical Attribute: Anti-reflectiveOrigin: Mainland ChinaProduct Type: Regular reading glassesStyle type: Oval
-  Updated: 2026-03-13T15:54:07Z
+  Updated: 2026-03-22T00:54:36Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3139,7 +3139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S66b494e5160443db95f6e0d97d01f2f94.webp?v=1771618415
     Price: $4.99 USD
 - [2 pairs of fashionable trend-surrounding glasses with texture, suitable for both men and women](https://kenner-house.myshopify.com/products/2-pairs-of-fashionable-trend-surrounding-glasses-with-texture-suitable-for-both-men-and-women): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: HindfieldChoice: yesDepartment Name: AdultElement type: Trendy and FashionableEyewear Type: SunglassesFrame Material: PolycarbonateGender: UnisexHigh-concerned chemical: NoneItem Type: EYEWEARLenses Material: PolycarbonateLenses Optical Attribute: MIRRORModel Number: TM63733Origin: Mainland ChinaProduct Type: Fashion SunglassesProfessional Type: Basic SunglassesStyle type: Special-Shaped
-  Updated: 2026-03-13T13:04:04Z
+  Updated: 2026-03-22T00:53:25Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3157,7 +3157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S8a0e6e70528e462b820b22be0963fa74K.webp?v=1771618413
     Price: $24.99 USD
 - [Luxury Anti Blue Light Optical Cat Eye Glasses Women Vintage Brand Designer Myopia  Sexy Ladies Eye Glasses Frame](https://kenner-house.myshopify.com/products/luxury-anti-blue-light-optical-cat-eye-glasses-women-vintage-brand-designer-myopia--sexy-ladies-eye-glasses-frame): SPECIFICATIONSBrand Name: BUYUTEENCertification: CEElement type: SweetFrame Material: PlasticGender: WomenHigh-concerned chemical: NoneLens Height: 46mmLens Width: 54mmLenses Material: PlasticModel Number: B6283Origin: Mainland ChinaPlace Of Origin: China (mainland)Style type: CAT EYE
-  Updated: 2026-03-13T13:04:16Z
+  Updated: 2026-03-22T00:52:30Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3183,7 +3183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S23d12d8305f84cd4aad6bc7b185819abU.webp?v=1771618414
     Price: $10.99 USD
 - [Stylish Transparent Eye Glasses Sunglasses Soft Case Box Portable Protector Holder](https://kenner-house.myshopify.com/products/stylish-transparent-eye-glasses-sunglasses-soft-case-box-portable-protector-holder): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesColor: TransparentEyewear Accessories: Cases & BagsGender: UnisexHigh-concerned chemical: NoneItem Diameter: Please refer to the descriptionItem Height: 1.5Item Length: 14.5Item Type: Eyewear AccessoriesItem Weight: 20Item Width: Please refer to the description,5.6Material: Rayon,PlasticModel Number: E06E2S41007Origin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Product Type: Plastic eyeglass caseSize: app.14.5cmx5.6cmx1.5cm/5.71''x2.20''x0.59''semi_Choice: yes
-  Updated: 2026-03-13T13:04:15Z
+  Updated: 2026-03-22T00:51:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3702,7 +3702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/7adffb50-7654-4308-9d3b-7d00a423b8cf.jpg?v=1771782237
     Price: $4.99 USD
 - [Chic Coffee & Donut Print Pajama Set - Comfy Short Sleeve & Stretch Waist Sleepwear for Women](https://kenner-house.myshopify.com/products/chic-coffee-donut-print-pajama-set-comfy-short-sleeve-stretch-waist-sleepwear-for-women): SPECIFICATIONSApplicable People: AdultCollar Style: Crew NeckComposition: 95% Polyester;5% ElastaneFabric Elasticity: Micro ElasticityItem ID: XE82809Material: PolyesterOperation Instruction: Machine wash or professional dry cleanPajama Type: Flame resistantPattern: PrintPrinting Type: Positioning PrintingSeason: AllSheer: NoStyle: CasualType: Pajama SetsWeaving Method: Knit Fabric
-  Updated: 2026-03-13T15:51:31Z
+  Updated: 2026-03-26T13:52:06Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -5890,7 +5890,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S9c6a52a4dc86491eb3dd96dddb543d3bL.webp?v=1771890481
     Price: $26.99 USD
 - [Thank You Gifts for Neighbor Christmas Ornament Old New Neighbor Welcome Gift for Neighbors Birthday Neighbor Moving Away Gifts](https://kenner-house.myshopify.com/products/thank-you-gifts-for-neighbor-christmas-ornament-old-new-neighbor-welcome-gift-for-neighbors-birthday-neighbor-moving-away-gifts): SPECIFICATIONSBrand Name: NONEChoice: yesElectronic: NoHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-13T13:07:07Z
+  Updated: 2026-03-20T22:04:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6452,7 +6452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc333ba8bc16e43a4828a0a843a89de25j.webp?v=1772117426
     Price: $52.99 USD
 - [2026 Girls Mary Jane Shoes Spring Autumn New Lace Trim Bow Children Fashion Princess Flat Shoes Wedding Party Kids Dress Shoes](https://kenner-house.myshopify.com/products/2026-girls-mary-jane-shoes-spring-autumn-new-lace-trim-bow-children-fashion-princess-flat-shoes-wedding-party-kids-dress-shoes): SPECIFICATIONSAge Range: 3-6Y,7-12YBrand Name: JGSHOWKITOCN: ZhejiangDepartment Name: ChildrenDressing style: Formal WearFeature: Anti-SlipperyFit: True to SizeGender: girlsHeel Type: Flat withHigh-concerned chemical: NoneLeather Shoes Type: Fashion ShoesOrigin: Mainland ChinaOutsole Material: RubberSeason: all seasonsUpper Material: PU LeatherUpper coverage: Not above ankleUpper fixing method: stitchingWhether waterproof: No
-  Updated: 2026-03-13T16:00:02Z
+  Updated: 2026-03-20T22:04:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6822,7 +6822,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sd00ae2bce5e747a2a970e1271c363984x.webp?v=1772117429
     Price: $65.99 USD
 - [Summer Fashion Slippers For Men Sport Outdoor Sandals Bathroom Non-skid Indoor And Home Sandals For Women Couple Lovers Shoes](https://kenner-house.myshopify.com/products/summer-fashion-slippers-for-men-sport-outdoor-sandals-bathroom-non-skid-indoor-and-home-sandals-for-women-couple-lovers-shoes): SPECIFICATIONSAge Range: 7-12YBrand Name: QS QISIONCN: GuangdongChoice: yesDepartment Name: ChildrenFeature: BreathableFit: True to SizeGender: UnisexHeel Shape: Flat HeelsHigh-concerned chemical: NoneItem Type: slippersLining Material: PVCOrigin: Mainland ChinaOutsole Material: PVCPattern Type: Mixed colorsSeason: all seasonsShoes Length: 23cm,24cm,25cm,26cm,27cmUpper Material: PVCUpper fixing method: Injection moldingWhether Plugged: Yessize_info: {"sizeInfoList":[{"length":{"cm":"23","inch":"9.06"},"size":"36-37","vid":-1},{"length":{"cm":"24","inch":"9.45"},"size":"38-39","vid":-2},{"length":{"cm":"25","inch":"9.84"},"size":"40-41","vid":-3},{"length":{"cm":"26","inch":"10.24"},"size":"42-43","vid":-4},{"length":{"cm":"27","inch":"10.63"},"size":"44-45","vid":-5}]}
-  Updated: 2026-03-13T16:00:19Z
+  Updated: 2026-03-20T22:04:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6908,7 +6908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sc613b25db19441e8bfec0b69ee821b8d1.webp?v=1772117426
     Price: $17.99 USD
 - [New 2026 high-quality fashionable casual shoes sports shoes running shoes men's lightweight outdoor men's breathable shoes](https://kenner-house.myshopify.com/products/new-2026-high-quality-fashionable-casual-shoes-sports-shoes-running-shoes-mens-lightweight-outdoor-mens-breathable-shoes): SPECIFICATIONSBrand Name: NONEChoice: yesDepartment Name: AdultFeature: Breathable,Anti-odorFit: True to SizeGender: MenHigh-concerned chemical: NoneInsole Material: FabricItem Type: Casual ShoesLining Material: NylonModel Number: a730Origin: Mainland ChinaOutsole Material: RubberPattern Type: GeometricSeason: Spring/AutumnShoes Type: BasicUpper Material: CottonUpper coverage: Not above ankleUpper fixing method: stitchingWhether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : None
-  Updated: 2026-03-13T13:07:52Z
+  Updated: 2026-03-20T22:04:13Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -6962,7 +6962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa855cb37fce443eb9d22ca7729de45f35.webp?v=1772117425
     Price: $14.99 USD
 - [Y Black Silver Orange 36-42 New Fashion Outside Ladies Stiletto Heels Heeled Sandals Closed Pointed Toe Diamond Women Shoes](https://kenner-house.myshopify.com/products/y-black-silver-orange-36-42-new-fashion-outside-ladies-stiletto-heels-heeled-sandals-closed-pointed-toe-diamond-women-shoes): SPECIFICATIONSBrand Name: MSFeature: Fashion TrendLining Material: PuMidsole Material: PuModel Number: A2335-5Outsole Material: RubberPlace of Origin: Guangdong, ChinaSandal Type: Fashionable sandalsSeason: SummerStyle: Lace-upToe Style: Closed ToeUpper Material: Pu
-  Updated: 2026-03-13T16:01:28Z
+  Updated: 2026-03-20T22:04:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7052,7 +7052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H98c10d8aee094cc2a5f9c4c9181d35fa6.webp?v=1772117427
     Price: $24.99 USD
 - [New Hot Best  Glitter Shinning Women Shoes Big Size 41 42 43 Flat Fashion Rose Gold Sneaker Bling Bling Party Shoe Quality](https://kenner-house.myshopify.com/products/new-hot-best--glitter-shinning-women-shoes-big-size-41-42-43-flat-fashion-rose-gold-sneaker-bling-bling-party-shoe-quality): SPECIFICATIONSBrand Name: OEMClosure Type: LaceFeature: Fashion TrendLining Material: MeshMidsole Material: EVAModel Number: B001Outsole Material: PuPlace of Origin: Fujian, ChinaSeason: All SeasonsStyle: Chunky,low topToe Style: Round ToeUpper Material: Pu
-  Updated: 2026-03-13T15:59:59Z
+  Updated: 2026-03-20T22:04:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7154,7 +7154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H49d8e515d4814f608cb6d62cc79814a52.webp?v=1772117428
     Price: $18.99 USD
 - [New Memory Foam Breathable Massage Insoles for Women Shoes Inner Sole Shoe Insert Lift Heel Comfort Heightening Insoles](https://kenner-house.myshopify.com/products/new-memory-foam-breathable-massage-insoles-for-women-shoes-inner-sole-shoe-insert-lift-heel-comfort-heightening-insoles): SPECIFICATIONSBrand Name: FASTLACESColor: 3 ColorsInsole type: Sport Insole Running InsoleItem Type: Shock-AbsorbantItem name: Memory foam InsolesMaterial: Memory FoamModel Number: XD-15Place of Origin: Guangdong, ChinaProduct name: Sneakers InsolesStyle: Comfort Sports Insolestype: Shoe Insoles,Comfort Insoles,Sports Insoles,Warm Insole
-  Updated: 2026-03-13T15:58:54Z
+  Updated: 2026-03-20T22:04:14Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7208,7 +7208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/He6a47ae587a54032b2fa0c24e369c2c2S.webp?v=1772117428
     Price: $1.00 USD
 - [Lady's Shoes Shos for Women Shoes for Women New Styles Sneakers Women](https://kenner-house.myshopify.com/products/ladys-shoes-shos-for-women-shoes-for-women-new-styles-sneakers-women): SPECIFICATIONSFeature: CushioningLining Material: Cotton FabricMidsole Material: EVAModel Number: 1Outsole Material: PuPlace of Origin: ChinaSeason: Summer,SpringStyle: Monk StrapToe Style: Peep ToeUpper Material: Cotton Fabric
-  Updated: 2026-03-13T16:00:47Z
+  Updated: 2026-03-20T22:04:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7342,7 +7342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H7af013aef44a44fc96ef6028c02b3e717.webp?v=1772117428
     Price: $10.99 USD
 - [TMA EYES Modische Slipper 2023 New Design Summer Fashion Items Comfortable Leisure Breathable  Waterproof  Women Shoes](https://kenner-house.myshopify.com/products/tma-eyes-modische-slipper-2023-new-design-summer-fashion-items-comfortable-leisure-breathable-waterproof-women-shoes): SPECIFICATIONSColors: 44 ColorsFeature: Fashion Trend,Light Weight,Waterproof,Anti-Slip,Anti-static,Quick Dry,Hard-WearingLining Material: Genuine Leather,PlushLogo: customizedMidsole Material: WoodModel Number: 2332Outsole Material: EVAPacking: customizedPlace of Origin: Anhui, ChinaQuality: 100%inspectionSeason: Winter,Summer,SpringStyle: outdoor slippersType: women shoesUpper Material: Genuine Leathercharacteristic: Hand sewing threadinsole: Cowhide velvetinstep: leathersize: Plus-sizestyle: slippers
-  Updated: 2026-03-13T13:08:48Z
+  Updated: 2026-03-20T22:04:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7402,7 +7402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Heb61eb724d1e43be8c5608e15b7e1dbca.webp?v=1772117428
     Price: $24.99 USD
 - [Women's Summer Fashion EVA Slipper Bohemian Satin Ribbon Female Flip Flop 2022 Bronzing Beach Simple Leisure Women Shoes](https://kenner-house.myshopify.com/products/womens-summer-fashion-eva-slipper-bohemian-satin-ribbon-female-flip-flop-2022-bronzing-beach-simple-leisure-women-shoes): SPECIFICATIONSBrand Name: NonColor: 4 colorsDesign: FashioableFeature: Cushioning,Fashion Trend,EVERGREENLining Material: PVCMOQ: NO MOQMaterial: PVC+PVCMidsole Material: PVC,Plush FurModel Number: nonOutsole Material: PVCPacking: Opp BagPlace of Origin: Zhejiang, ChinaProduct name: Summer SlippersSeason: Summer,Spring,AutumnSize: 7 8 9 10Style: outdoor slippers,WARM SLIPPERSToe Style: GoodUpper Material: PVCUsage: Indoor Home Outdoor Beach
-  Updated: 2026-03-13T16:02:12Z
+  Updated: 2026-03-20T22:04:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7480,7 +7480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Hb2b9e57b8fa44296bece3c36f18fa749T.webp?v=1772117430
     Price: $2.49 USD
 - [Summer Women Shoes Lightweight Breathable Mesh Casual Shoes Women Sneakers Walking Shoes Woman](https://kenner-house.myshopify.com/products/summer-women-shoes-lightweight-breathable-mesh-casual-shoes-women-sneakers-walking-shoes-woman): SPECIFICATIONSBrand Name: LBColor: Customized ColorFeature: Cushioning,Fashion Trend,EVERGREEN,Sweat-Absorbant,Anti-Odor,Light Weight,Disposable,Round,Massage,Breathable,Anti-Slippery,Anti-Slip,ARCH SUPPORT,Anti-static,Lighted,Quick Dry,Hard-Wearing,Height Increasing,Electrically Heated,Shock Resistant,slip resistant,Anitmicrobial,Cushioned,Soft,Abrasion Resistance,Flexible,comfortFunction: Breathable Lightweight Durable SportKey words: Comfortable Sneakers Casual ShoesLining Material: Mesh,Cotton FabricLogo: Accept Customized LogoMOQ: 1000Material: Mesh UpperMidsole Material: PVCModel Number: LBWSVS00257Outsole Material: PVC,Rubber,TPUPacking: Shoe BoxPlace of Origin: Henan, ChinaProduct name: Women Casual SneakerSeason: Summer,Spring,AutumnSize: 36-41 CustomStyle: Running shoes,Walking Shoes,Court Sneakers,Lace-up,Air CushionToe Style: Round Toe,Closed ToeType: Running Shoes Walking ShoesUpper Material: Mesh
-  Updated: 2026-03-13T16:02:12Z
+  Updated: 2026-03-20T22:04:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7582,7 +7582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H05cb9c23fc8143bba240f825002e5adcm.webp?v=1772117430
     Price: $10.99 USD
 - [ZAZB Brand Designer Custom for Women Shoes and Sandals Luxury Ladies slippers Colored Rhinestone Sandales Chaussures Pour Femmes](https://kenner-house.myshopify.com/products/zazb-brand-designer-custom-for-women-shoes-and-sandals-luxury-ladies-slippers-colored-rhinestone-sandales-chaussures-pour-femmes): SPECIFICATIONSBrand Name: ZAZBFeature: Fashion Trend,Anti-Odor,Light Weight,Breathable,Anti-Slippery,Anti-Slip,Hard-Wearing,slip resistant,Abrasion Resistance,FlexibleLining Material: PuMidsole Material: Ultra fine fiber leatherModel Number: X2405-039Outsole Material: plasticsPlace of Origin: Guangdong, ChinaSeason: Summer,SpringStyle: Shiny rhinestone shoesToe Style: Peep Toe,Pointed ToeUpper Material: Knitted woolen fabric
-  Updated: 2026-03-13T15:58:34Z
+  Updated: 2026-03-20T22:04:15Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7620,7 +7620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H2201e79a89604d839fdfd5f380341b474.webp?v=1772117431
     Price: $24.99 USD
 - [Women Shoes Fish Mouth Shape Sandals Ladies Crystal Thick Heel Summer Plus Size Slippers](https://kenner-house.myshopify.com/products/women-shoes-fish-mouth-shape-sandals-ladies-crystal-thick-heel-summer-plus-size-slippers): SPECIFICATIONSBrand Name: otherDecoration: EmbroideryFeature: Fashion Trend,Light Weight,Massage,Breathable,Anti-Slip,Hard-Wearing,Height IncreasingLining Material: PuMidsole Material: RubberModel Number: A130Outsole Material: RubberPattern: CheckeredPlace of Origin: Fujian, ChinaSeason: All SeasonsStyle: outdoor slippersToe Style: Round ToeUpper Material: Pu,Microfiber Fabrics
-  Updated: 2026-03-13T16:01:25Z
+  Updated: 2026-03-20T22:04:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -7876,7 +7876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/H04006b432b5541208c50394cdb07fc29K.webp?v=1772117433
     Price: $11.99 USD
 - [Latest Models Flat Luxury Designer Bling Diamond Women Shoes Sandals Ladies Casual Fashion Guangzhou Factory Zapatos](https://kenner-house.myshopify.com/products/latest-models-flat-luxury-designer-bling-diamond-women-shoes-sandals-ladies-casual-fashion-guangzhou-factory-zapatos): SPECIFICATIONSBrand Name: OEMFeature: Fashion Trend,DisposableLining Material: PVCMidsole Material: PVCModel Number: L387Outsole Material: PuPattern: LeopardPlace of Origin: Fujian, ChinaSeason: Winter,Summer,Spring,AutumnStyle: outdoor slippersToe Style: Open ToeUpper Material: PVC
-  Updated: 2026-03-13T16:02:37Z
+  Updated: 2026-03-20T22:04:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8252,7 +8252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S73d2ba5badfc4406aedf9259d0f76b70s.webp?v=1772117625
     Price: $5.99 USD
 - [2026 Women Square Scarf Silk Imitation Floral Print Neckerchief Bandana Lady Shawl Scarves Wrap Head Hair Band Ties](https://kenner-house.myshopify.com/products/2026-women-square-scarf-silk-imitation-floral-print-neckerchief-bandana-lady-shawl-scarves-wrap-head-hair-band-ties): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: GeschillyChoice: yesCraft of Weaving: TattingDepartment Name: AdultFashion print: Women headbandsFeature: MultifunctionGender: WomenHigh-concerned chemical: NoneItem Type: ScarvesMaterial: POLYESTEROrigin: Mainland ChinaPattern Type: PrintScarves Length: 60cm-80cmScarves Type: ScarfSize: about 65-70cmStyle: Fashion
-  Updated: 2026-03-13T16:05:05Z
+  Updated: 2026-03-20T22:04:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8274,14 +8274,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S58ef4e334e0a4e9c92dc911aabddd6b7x.webp?v=1772117626
     Price: $4.99 USD
 - [10pcs Aluminium Smart Rfid Blocking Bank Sleeve Wallet, RFID Protection Simple Card Holder](https://kenner-house.myshopify.com/products/10pcs-aluminium-smart-rfid-blocking-bank-sleeve-wallet-rfid-protection-simple-card-holder): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-03-13T13:09:51Z
+  Updated: 2026-03-20T22:04:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Secf63a3aef4748c997c5b0c206b59574o.webp?v=1772117625
   Price: $2.99 USD
 - [Magnetic Wallet &Card Holder with RFID Blocking Function for iPhone 17 16 15 14 Pro/ Pro Max/13 Pro Max/13 12 Pro MagSafe Wallet](https://kenner-house.myshopify.com/products/magnetic-wallet-card-holder-with-rfid-blocking-function-for-iphone-17-16-15-14-pro-pro-max-13-pro-max-13-12-pro-magsafe-wallet): SPECIFICATIONSApplicable models: iphone 15 Pro,iphone 15 Pro Max,iphone 14 Pro,iphone 14 Pro Max,iphone 13 Pro,iphone 13 Pro MaxBrand Name: PROfezzionCharger: NoChoice: yesColor: Black/ Pink/ Brown/ Blue/ WhiteCompatible Brand: UniversalFeatures: MagneticHas Speaker: NoHigh-concerned chemical: NoneMaterial: ABS+Silicone+MetalModel Number: PMSW-SW1Net Weight: 100gOrigin: Mainland ChinaType: Magnetic Holder
-  Updated: 2026-03-13T16:00:37Z
+  Updated: 2026-03-20T22:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8337,7 +8337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Se422cbc596974d5eb337ecdf20651ffbU.webp?v=1772117627
     Price: $12.99 USD
 - [RFID Blocking Car Key & Cell Phone Signal Shield Faraday Wallet with GPS Protection & Anti-Theft Privacy Pouch](https://kenner-house.myshopify.com/products/rfid-blocking-car-key-cell-phone-signal-shield-faraday-wallet-with-gps-protection-anti-theft-privacy-pouch): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneMaterial: NylonOrigin: Mainland China
-  Updated: 2026-03-13T13:09:55Z
+  Updated: 2026-03-20T22:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -8697,7 +8697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S0ab7d48129544685b3020c15f8e221cc7.webp?v=1772117629
     Price: $3.29 USD
 - [Spring 2025 Women's Faion Versatile Slimming Denim Vest High Waist Pants Set 25-35 Years Old Spring Collection 377702](https://kenner-house.myshopify.com/products/spring-2025-womens-faion-versatile-slimming-denim-vest-high-waist-pants-set-25-35-years-old-spring-collection-377702): SPECIFICATIONSAge: 25-35 years oldBrand Name: others
-  Updated: 2026-03-13T16:04:22Z
+  Updated: 2026-03-20T22:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9553,7 +9553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sbb37ed827b91490a89060c6c3774c63bO.webp?v=1772133130
     Price: $20.99 USD
 - [Fashionable style, elegant and luxurious handbag in the shape of a bucket, versatile and suitable for all occasions, single-shou](https://kenner-house.myshopify.com/products/fashionable-style-elegant-and-luxurious-handbag-in-the-shape-of-a-bucket-versatile-and-suitable-for-all-occasions-single-shou): SPECIFICATIONSApplicable Scenario: Daily StylingBag Shape: Bucket ShapeBag Size: MediumBrand Name: NONECN: GuangdongChoice: yesClosure Type: HaspGender: WomenHardness: Medium-SoftHigh-concerned chemical: NoneLining Material: POLYESTER,PUMain Material: PUMaterial: PUNumber of Shoulder Straps: Double StrapsOpening Method: Magnetic BuckleOrigin: Mainland ChinaPlace Of Origin: Guangdong ProvincePopular Element: LetterShape: Half MoonTrendy Bag Style: Bucket BagWith Compartment: Yes
-  Updated: 2026-03-13T13:11:10Z
+  Updated: 2026-03-20T22:04:17Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9571,7 +9571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Scae8fa7da8ab489f8ac1d41687e24b4eq.webp?v=1772133129
     Price: $56.99 USD
 - [Simple Handbag For Women PU Leather Shoulder Bag Fashion Small Handle Bag Designer Crossbody Bag Daily Lady Shopping Hand Pouch](https://kenner-house.myshopify.com/products/simple-handbag-for-women-pu-leather-shoulder-bag-fashion-small-handle-bag-designer-crossbody-bag-daily-lady-shopping-hand-pouch): SPECIFICATIONSBrand Name: YaLePuckCN: HebeiClosure Type: ZipperDecoration: NoneExterior: Silt PocketGender: WomenHandbags Type: Messenger BagsHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Slot Pocket,Cell Phone Pocket,Interior Zipper Pocket,Interior CompartmentLining Material: POLYESTERMain Material: PUModel Number: Simple Handbag For Women PU Leather Shoulder Bag Fashion Small HandleNumber of Handles/Straps: SingleOccasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Hebei Province,HE BEI ProvinceShape: Casual ToteStyle: Casual
-  Updated: 2026-03-13T16:04:48Z
+  Updated: 2026-03-20T22:04:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9597,14 +9597,14 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S9cb69244999243b5980c9eb58df3a8a0i.webp?v=1772133130
     Price: $48.99 USD
 - [Bag Set: Tote Bag With Matching Purse,Designer Wing Style Women Underarm Shoulder Bag,Large Capacity Spacious Handbag,Burgundy](https://kenner-house.myshopify.com/products/bag-set-tote-bag-with-matching-purse-designer-wing-style-women-underarm-shoulder-bag-large-capacity-spacious-handbag-burgundy): SPECIFICATIONSBrand Name: NONECN: GuangdongDecoration: NoneGender: WomenHardness: SOFTHigh-concerned chemical: NoneInterior: Interior Zipper PocketLining Material: POLYESTERMain Material: Microfiber Synthetic LeatherOrigin: Mainland ChinaPlace Of Origin: Guangdong Province,Guangdong ProvinceShape: Casual ToteStyle: Fashion
-  Updated: 2026-03-13T13:11:12Z
+  Updated: 2026-03-20T22:04:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S894d49f34a4c4e95bbce5580b96e9126Q.webp?v=1772133131
   Price: $31.99 USD
 - [Boston Women's Bag 2025 New Fashionable and Versatile Handheld Soft Leather Casual Large Capacity Bag](https://kenner-house.myshopify.com/products/boston-womens-bag-2025-new-fashionable-and-versatile-handheld-soft-leather-casual-large-capacity-bag): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesGender: WomenHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: POLYESTEROrigin: Mainland ChinaPlace Of Origin: Guangdong ProvinceShape: Bucket
-  Updated: 2026-03-13T13:11:12Z
+  Updated: 2026-03-20T22:04:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10002,7 +10002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S7b0c93aec6ba4c5f9f512012cfc9108bt.webp?v=1772133299
     Price: $52.99 USD
 - [New Tote bag hand bill of lading shoulder women's bag retro simple large bag Tote bag](https://kenner-house.myshopify.com/products/new-tote-bag-hand-bill-of-lading-shoulder-womens-bag-retro-simple-large-bag-tote-bag): SPECIFICATIONSBrand Name: HejukCN: HebeiChoice: yesClosure Type: HaspGender: WomenHardness: HARDHigh-concerned chemical: NoneLining Material: POLYESTERMain Material: PUModel Number: HEF139Occasion: VersatileOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: Hebei Province,HE BEI ProvinceShape: Casual ToteStyle: Fashion
-  Updated: 2026-03-13T16:05:44Z
+  Updated: 2026-03-20T22:04:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -10358,147 +10358,142 @@
 ## Collections
 
 - [Home page](https://kenner-house.myshopify.com/collections/frontpage)
-  Updated: 2026-03-09T17:11:45Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 0
 - [Mugs - Coffee Mugs & Drinkware - Kenner House Emporium](https://kenner-house.myshopify.com/collections/mugs): Shop our collection of quality mugs and drinkware. Perfect for coffee, tea, and hot beverages. Find your new favorite mug today.
-  Updated: 2026-03-18T01:29:22Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [Coffee](https://kenner-house.myshopify.com/collections/coffee-grinders)
-  Updated: 2026-03-18T01:29:22Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [Espresso Machines](https://kenner-house.myshopify.com/collections/espresso-machines)
-  Updated: 2026-03-18T01:29:22Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [French Presses](https://kenner-house.myshopify.com/collections/french-presses)
-  Updated: 2026-03-18T01:29:22Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [Tumblers](https://kenner-house.myshopify.com/collections/tumblers)
-  Updated: 2026-03-18T01:29:22Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [T-Shirts](https://kenner-house.myshopify.com/collections/t-shirts)
-  Updated: 2026-03-18T04:09:23Z
-  Total Products: 109
+  Updated: 2026-03-22T15:02:13Z
+  Total Products: 123
 - [Coffee Dispensers](https://kenner-house.myshopify.com/collections/coffee-dispensers)
-  Updated: 2026-03-18T01:29:22Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [Electric Kettles](https://kenner-house.myshopify.com/collections/electric-kettles)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [Thermoses](https://kenner-house.myshopify.com/collections/thermoses)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 44
 - [Dried Flowers](https://kenner-house.myshopify.com/collections/dried-flowers)
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 19
 - [Gifts](https://kenner-house.myshopify.com/collections/gift-boxes-tins)
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-20T22:04:12Z
   Total Products: 19
 - [Special Effects](https://kenner-house.myshopify.com/collections/special-effects)
-  Updated: 2026-03-09T17:11:46Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 19
 - [Instant Coffee](https://kenner-house.myshopify.com/collections/instant-coffee)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Scoops](https://kenner-house.myshopify.com/collections/scoops)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Coffee Maker Water Filters](https://kenner-house.myshopify.com/collections/coffee-maker-water-filters)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Coffee Maker & Espresso Machine Accessories](https://kenner-house.myshopify.com/collections/coffee-maker-espresso-machine-accessories)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Measuring Cups](https://kenner-house.myshopify.com/collections/measuring-cups)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Clothing](https://kenner-house.myshopify.com/collections/sleepwear-loungewear)
-  Updated: 2026-03-18T04:09:23Z
-  Total Products: 109
+  Updated: 2026-03-22T15:02:13Z
+  Total Products: 123
 - [Coffee Filter Baskets](https://kenner-house.myshopify.com/collections/coffee-filter-baskets)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Beverages](https://kenner-house.myshopify.com/collections/beverages)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Beverage Warmers](https://kenner-house.myshopify.com/collections/beverage-warmers)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Measuring Spoons](https://kenner-house.myshopify.com/collections/measuring-spoons)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Flasks](https://kenner-house.myshopify.com/collections/flasks)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Kitchen Tools & Utensils](https://kenner-house.myshopify.com/collections/kitchen-tools-utensils)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Drinkware Holders](https://kenner-house.myshopify.com/collections/drinkware-holders)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Dual Coffee Makers](https://kenner-house.myshopify.com/collections/drip-coffee-makers)
-  Updated: 2026-03-18T01:29:23Z
+  Updated: 2026-03-20T22:04:13Z
   Total Products: 44
 - [Toys](https://kenner-house.myshopify.com/collections/children)
-  Updated: 2026-03-19T20:05:11Z
-  Total Products: 139
+  Updated: 2026-03-25T15:14:51Z
+  Total Products: 195
 - [Shoes](https://kenner-house.myshopify.com/collections/shoes)
-  Updated: 2026-03-18T22:56:56Z
-  Total Products: 90
-- [EyeGlasses](https://kenner-house.myshopify.com/collections/eye-glasses)
-  Updated: 2026-03-09T17:11:47Z
+  Updated: 2026-03-24T22:20:02Z
+  Total Products: 91
+- [Coffee & Tea](https://kenner-house.myshopify.com/collections/teas)
+  Updated: 2026-03-21T13:14:02Z
   Total Products: 9
-- [Teas](https://kenner-house.myshopify.com/collections/teas)
-  Updated: 2026-03-09T17:11:47Z
-  Total Products: 4
 - [Animal & Pet Supplies](https://kenner-house.myshopify.com/collections/animal-pet-supplies)
-  Updated: 2026-03-17T18:42:03Z
-  Total Products: 12
+  Updated: 2026-03-24T21:34:15Z
+  Total Products: 28
 - [Health & Beauty](https://kenner-house.myshopify.com/collections/health-beauty)
-  Updated: 2026-03-18T22:49:03Z
-  Total Products: 40
+  Updated: 2026-03-24T12:59:14Z
+  Total Products: 46
 - [Baby & Toddler Outfits](https://kenner-house.myshopify.com/collections/baby-toddler-outfits)
-  Updated: 2026-03-18T04:16:56Z
-  Total Products: 68
-- [Home & Garden](https://kenner-house.myshopify.com/collections/home-garden)
-  Updated: 2026-03-18T13:00:37Z
+  Updated: 2026-03-25T14:10:32Z
   Total Products: 86
+- [Home & Garden](https://kenner-house.myshopify.com/collections/home-garden)
+  Updated: 2026-03-24T22:52:45Z
+  Total Products: 114
 - [Handbags](https://kenner-house.myshopify.com/collections/handbags)
-  Updated: 2026-03-18T22:56:55Z
-  Total Products: 37
+  Updated: 2026-03-22T13:43:44Z
+  Total Products: 38
 - [Apparel & Accessories](https://kenner-house.myshopify.com/collections/apparel-accessories)
-  Updated: 2026-03-19T20:10:56Z
-  Total Products: 71
+  Updated: 2026-03-24T22:20:02Z
+  Total Products: 97
 - [Fitness & General Exercise](https://kenner-house.myshopify.com/collections/fitness-general-exercise)
-  Updated: 2026-03-18T12:59:19Z
+  Updated: 2026-03-20T22:04:14Z
   Total Products: 26
 - [Emergency Preparedness](https://kenner-house.myshopify.com/collections/emergency-preparedness)
-  Updated: 2026-03-09T17:11:47Z
+  Updated: 2026-03-20T22:04:14Z
   Total Products: 22
 - [Hair Care](https://kenner-house.myshopify.com/collections/hair-care)
-  Updated: 2026-03-18T04:20:04Z
-  Total Products: 46
+  Updated: 2026-03-22T16:29:33Z
+  Total Products: 37
 - [Clothing](https://kenner-house.myshopify.com/collections/clothing)
-  Updated: 2026-03-18T04:10:40Z
+  Updated: 2026-03-25T14:14:12Z
   Total Products: 95
 - [Needoh Stress Relief & Sensory Squeeze Toys - Kenner House Emporium](https://kenner-house.myshopify.com/collections/needoh-stress-relief-toys): Shop Needoh sensory fidget toys and stress relief cubes. Squishy, satisfying squeeze toys perfect for anxiety relief, focus, and fun for kids and adults.
-  Updated: 2026-03-16T20:34:27Z
+  Updated: 2026-03-20T22:04:14Z
   Total Products: 3
 - [Jellycat Plush Toys & Soft Stuffed Animals - Kenner House Emporium](https://kenner-house.myshopify.com/collections/jellycat-plush-toys): Shop adorable Jellycat plush toys including bunnies, bears, dragons, and whimsical food-themed stuffed animals. Perfect gifts and home decor.
-  Updated: 2026-03-16T20:37:11Z
+  Updated: 2026-03-20T22:04:14Z
   Total Products: 18
 - [Premium Coffee - Specialty Roasts & Blends - Kenner House Emporium](https://kenner-house.myshopify.com/collections/premium-coffee): Shop premium brewable coffee including mushroom-infused medium roast, cold brew, flavored blends, and instant coffee. Quality coffee for every taste.
-  Updated: 2026-03-18T01:29:59Z
+  Updated: 2026-03-20T22:04:14Z
   Total Products: 5
 
 ## Blogs
 
 - [News](https://kenner-house.myshopify.com/blogs/news)
-  - [Toys Galore](https://kenner-house.myshopify.com/blogs/news/kenner-house-emporium-toys-galore)
-    Updated: 2026-03-09T21:00:02Z
+  - [Needoh Stress Relief Toys & Dumpling Squeeze Toy | Kenner House Emporium](https://kenner-house.myshopify.com/blogs/news/two-must-have-stress-relief-toys-needoh-the-dumpling-squeeze-toy): Needoh Stress Relief Toys & Dumpling Squeeze Toy | Kenner House Emporium
+    Updated: 2026-03-22T16:50:06Z
     Author: Jo E Porter
-  - [15 Must-Have Items for First-Time Parents](https://kenner-house.myshopify.com/blogs/news/15-must-have-items-for-first-time-parents): 15 Must-Have Items for First-Time Parents
-    Updated: 2026-03-14T16:00:29Z
-    Author: Kenner House Emporium
+    Tags: anxiety relief, dumpling, fidget toys, gifts, needoh, sensory toys, squeeze toy, stress relief
 
 ## Store Pages
 
