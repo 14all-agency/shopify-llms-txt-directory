@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-10-28T07:24:43Z
 - Contact Email: godigitalstar@gmail.com
-- Updated At: 2026-03-20T00:00:32.632Z
+- Updated At: 2026-03-27T00:00:37.223Z
 
 ## Products
 
@@ -119,59 +119,59 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Exclusive Pink Overdye Asos](https://vibesmilano.com/products/new-balance-nb-9060-rosa): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: TEMPI DI SPEDIZIONE 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-14T01:39:04Z
+  Updated: 2026-03-25T15:12:17Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_58fd6be1-5d5e-4067-9105-95269a8b8045.jpg?v=1773408651
   - [36](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50857425174869)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [37](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50507423678805)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [37,5](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308005941589)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [38](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50507423744341)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [38,5](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308005974357)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [39](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308006007125)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [40](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50507423809877)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [40,5](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308006039893)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [41](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308006072661)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [42](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50507423875413)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [42,5](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308006105429)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [43](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50507423908181)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [44](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50507423940949)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [44,5](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308006138197)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=50507423973717)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
   - [46,5](https://vibesmilano.com/products/new-balance-nb-9060-rosa?variant=53308006170965)
     Availability: Available
-    Price: 145,00 € EUR
+    Price: 169,00 € EUR
 - [Salomon XT-6 nero](https://vibesmilano.com/products/salomon-xt-6-nero): Le sneakers Salomon XT-6 sono perfette per correre su tutti i tipi di terreno. Sono avvolte da un composto in mesh traspirante e resistente pellicola in TPU, per consentirti di percorrere grandi distanze agevolmente. L'intersuola è stata imbottita in EVA mentre il battistrada ha motivi geometrici. La suola è in gomma per garantire un'aderenza perfetta e per percorrere in sicurezza anche le strade più impegnative Caratteristiche della Salomon XT-6: Struttura affusolata e impermeabile Rivestimento in mesh e TPU sulla tomaia Sistema di allacciatura Quicklace Rivestimento in tessuto Suola interna in tessuto Ammortizzazione in EVA Struttura per la corsa in discesa e suola in gomma con scanalature geometriche Tempi di consegna: 10-12 giorni
   Updated: 2026-02-19T13:14:35Z
   Vendor: VIBES MILANO
@@ -1478,7 +1478,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle bianco](https://vibesmilano.com/products/adidas-gazelle-bianco): Sneakers Adidas modello Gazelle uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. NB: a causa dell'alto costo delle spese di spedizione internazionali (le calzature sono di importazione), le calzature verranno spedite prive della loro scatola e imballate con pluriball e confezionamento esterno. Questo al fine di garantirvi il miglior prezzo sul mercato!
-  Updated: 2026-02-19T13:14:39Z
+  Updated: 2026-03-26T02:27:42Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5521,54 +5521,54 @@
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-green-white?variant=50809331253589)
     Availability: Available
     Price: 145,00 € EUR
-- [New Balance NB 9060 oatmeal (farina d'avena)](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-02-19T13:14:51Z
+- [New Balance NB 9060 Oatmeal (farina d'avena)](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
+  Updated: 2026-03-25T05:22:56Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_0a8d6f56-08da-4296-a646-17a2a4ab3976.jpg?v=1749748030
   - [36](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358090581)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [37](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358123349)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [37,5](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358156117)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [38](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358188885)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [38,5](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358221653)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [39,5](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358254421)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [40](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358287189)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [40,5](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358319957)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [41,5](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358352725)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [42](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358385493)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [42,5](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358418261)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [43](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358451029)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [44](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358483797)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena?variant=50809358516565)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
 - [New Balance NB 9060 Navy & Mushroom](https://vibesmilano.com/products/new-balance-nb-9060-navy-mushroom): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
   Updated: 2026-02-19T13:14:51Z
   Vendor: VIBES MILANO
@@ -5672,7 +5672,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Emerging Brown Pack](https://vibesmilano.com/products/new-balance-nb-9060-red-grey): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-02-19T13:14:51Z
+  Updated: 2026-03-23T09:58:09Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7187,7 +7187,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG rosa nero unisex](https://vibesmilano.com/products/puma-speedcat-og-rosa-nero-unisex): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-02-19T13:14:56Z
+  Updated: 2026-03-23T02:42:00Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9686,7 +9686,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Originals Campus 00s V2 W](https://vibesmilano.com/products/adidas-originals-campus-00s-v2-w): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-02-19T13:15:03Z
+  Updated: 2026-03-24T03:32:52Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10535,7 +10535,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 NB9 Violet by Joe Freshgoods](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-02-19T13:15:06Z
+  Updated: 2026-03-26T06:27:38Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10630,54 +10630,60 @@
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-gbn-red-blue?variant=50836197441877)
     Availability: Available
     Price: 159,00 € EUR
-- [New Balance NB 9060 Lunar New Year](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-02-19T13:15:06Z
+- [New Balance NB 9060 Lunar New Year](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
+  Updated: 2026-03-25T21:45:25Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_9f58fa85-2a12-4e6d-86f3-0f53cb1cab4a.jpg?v=1748196504
   - [36](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211269973)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [37](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211302741)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
+  - [37,5](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=53543364297045)
+    Availability: Not Available
+    Price: 179,00 € EUR
   - [38](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211335509)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [38,5](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211368277)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [39](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211401045)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [40](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211433813)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [40,5](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211466581)
     Availability: Available
-    Price: 159,00 € EUR
-  - [41,5](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211499349)
+    Price: 179,00 € EUR
+  - [41](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=53543364329813)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [42](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211532117)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [42,5](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211564885)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [43](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211597653)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [44](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211630421)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [44,5](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211663189)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=50836211695957)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 179,00 € EUR
+  - [46,5](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year?variant=53543364362581)
+    Availability: Available
+    Price: 179,00 € EUR
 - [New Balance NB 9060 Rich Oack Burgundy Pink](https://vibesmilano.com/products/new-balance-nb-9060-burgundy-pink): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
   Updated: 2026-03-14T14:53:26Z
   Vendor: VIBES MILANO
@@ -10874,7 +10880,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Prism Violet](https://vibesmilano.com/products/new-balance-nb-9060-prism-violet): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-02-19T13:15:06Z
+  Updated: 2026-03-21T20:22:05Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10973,7 +10979,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Vashed Burgundy](https://vibesmilano.com/products/new-balance-nb-9060-vashed-burgundy): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-12T01:28:57Z
+  Updated: 2026-03-21T17:52:31Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11535,22 +11541,22 @@
 ## Collections
 
 - [Sneakers](https://vibesmilano.com/collections/sneakers)
-  Updated: 2026-03-19T17:19:35Z
-  Total Products: 1056
+  Updated: 2026-03-25T15:44:03Z
+  Total Products: 1081
 - [Profumi di nicchia](https://vibesmilano.com/collections/profumi): Profumi arabi di nicchia
-  Updated: 2026-02-26T07:47:16Z
+  Updated: 2026-03-20T10:29:09Z
   Total Products: 16
 - [Scarpe](https://vibesmilano.com/collections/scarpe): Scarpe uomo e donna dei migliori brand
-  Updated: 2026-03-19T17:19:35Z
-  Total Products: 767
+  Updated: 2026-03-24T11:19:06Z
+  Total Products: 791
 - [New Balance](https://vibesmilano.com/collections/new-balance)
-  Updated: 2026-03-15T11:17:48Z
-  Total Products: 240
+  Updated: 2026-03-25T15:44:03Z
+  Total Products: 241
 - [Nike](https://vibesmilano.com/collections/nike): sneakers Nike
-  Updated: 2026-03-13T10:08:31Z
-  Total Products: 197
+  Updated: 2026-03-24T09:15:10Z
+  Total Products: 200
 - [Adidas](https://vibesmilano.com/collections/adidas-sneakers): SNEAKERS ADIDAS
-  Updated: 2026-03-19T11:19:30Z
+  Updated: 2026-03-23T11:18:43Z
   Total Products: 115
 - [PUMA](https://vibesmilano.com/collections/puma): SNEAKERS PUMA SPEEDCAT
   Updated: 2026-02-26T07:47:17Z
@@ -11559,7 +11565,7 @@
   Updated: 2026-02-26T07:47:17Z
   Total Products: 4
 - [MONCLER](https://vibesmilano.com/collections/moncler): SNEAKERS MONCLER
-  Updated: 2026-03-19T17:19:35Z
+  Updated: 2026-03-20T11:18:22Z
   Total Products: 35
 - [DSQUARED2](https://vibesmilano.com/collections/dsquared2): SNEAKERS DSQUARED2
   Updated: 2026-02-26T07:47:17Z
@@ -11571,8 +11577,8 @@
   Updated: 2026-02-26T07:47:17Z
   Total Products: 34
 - [NB 9060](https://vibesmilano.com/collections/nb-9060)
-  Updated: 2026-03-15T11:17:48Z
-  Total Products: 153
+  Updated: 2026-03-25T15:44:03Z
+  Total Products: 154
 - [NB 530](https://vibesmilano.com/collections/nb-530)
   Updated: 2026-02-26T07:47:17Z
   Total Products: 10
@@ -11622,7 +11628,7 @@
   Updated: 2026-02-26T07:47:18Z
   Total Products: 20
 - [ASICS GEL KAYANO 14](https://vibesmilano.com/collections/asics-gel-kayano-14)
-  Updated: 2026-02-26T07:47:18Z
+  Updated: 2026-03-24T11:19:06Z
   Total Products: 11
 - [ASICS GEL NYC](https://vibesmilano.com/collections/asics-gel-nyc): Sneakers ASICS gel NYC
   Updated: 2026-02-26T07:47:18Z
@@ -11637,8 +11643,8 @@
   Updated: 2026-02-26T07:47:18Z
   Total Products: 20
 - [ON CLOUD RUNNING](https://vibesmilano.com/collections/on-cloud-running): Scarpe da running
-  Updated: 2026-03-16T11:18:49Z
-  Total Products: 20
+  Updated: 2026-03-23T18:58:48Z
+  Total Products: 41
 - [Air Max Dn8](https://vibesmilano.com/collections/air-max-dn8): Sneakers Nike Air Max Dn8
   Updated: 2026-02-26T07:47:18Z
   Total Products: 7
@@ -11742,7 +11748,7 @@
   Updated: 2026-03-07T12:19:42Z
   Total Products: 4
 - [Best seller](https://vibesmilano.com/collections/best-seller)
-  Updated: 2026-03-15T11:17:48Z
+  Updated: 2026-03-25T15:45:00Z
   Total Products: 16
 - [New Balance 204L Kith](https://vibesmilano.com/collections/new-balance-204l-kith)
   Updated: 2026-02-26T07:47:19Z
@@ -11799,50 +11805,57 @@
   Updated: 2026-02-26T07:47:20Z
   Total Products: 12
 - [Tang Jacket](https://vibesmilano.com/collections/tang-jacket)
-  Updated: 2026-03-19T11:19:30Z
+  Updated: 2026-03-23T11:18:43Z
   Total Products: 5
 - [Air Jordan 5](https://vibesmilano.com/collections/air-jordan-5)
-  Updated: 2026-03-13T10:08:31Z
+  Updated: 2026-03-24T09:08:30Z
   Total Products: 12
 - [XLG Runner Deluxe](https://vibesmilano.com/collections/xlg-runner-deluxe)
   Updated: 2026-03-16T10:45:10Z
   Total Products: 18
+- [Mind 001 scarpe recovery & relax](https://vibesmilano.com/collections/mind-001-scarpe-recovery-relax)
+  Updated: 2026-03-24T09:15:10Z
+  Total Products: 3
 
 ## Blogs
 
 - [Notizie](https://vibesmilano.com/blogs/notizie)
   - [Perchè scegliere la New Balance 9060](https://vibesmilano.com/blogs/notizie/perche-scegliere-la-new-balance-9060): <p>La New Balance 9060 è stata progettata per fornirvi il supporto, il comfort e lo stile di cui avete bisogno per vincere qualsiasi sfida vi si presenti. </p>
-    Updated: 2025-04-18T07:57:42Z
+    Updated: 2026-03-20T10:29:12Z
     Author: Barcel Coschiera
     Tags: New Balance, New Balance 9060, Sneakers
   - [Tutti i vantaggi e le caratteristiche della New Balance 9060](https://vibesmilano.com/blogs/notizie/tutti-i-vantaggi-e-le-caratteristiche-della-new-balance-9060): <p>La New Balance 9060 è una delle scarpe più iconiche e di tendenza del momento. Andiamo a scoprire quali sono le sue caratteristiche tecniche e le sue specificità e perchè è così amata dal pubblico.</p>
-    Updated: 2025-04-18T08:21:58Z
+    Updated: 2026-03-20T10:29:14Z
     Author: Barcel Coschiera
     Tags: New Balance, New Balance 9060, Sneakers
   - [Le New Balance 9060: fenomeno culturale del 2025](https://vibesmilano.com/blogs/notizie/le-new-balance-9060-fenomeno-culturale-del-2025)
-    Updated: 2025-09-24T09:14:32Z
+    Updated: 2026-03-20T10:29:18Z
     Author: Barcel Coschiera
     Tags: New Balance, New Balance 9060, Sneakers
   - [Importazione diretta e streetwear: i benefici di comprare sneakers senza intermediari](https://vibesmilano.com/blogs/notizie/importazione-diretta-e-streetwear-i-benefici-di-comprare-sneakers-senza-intermediari)
-    Updated: 2025-12-22T18:52:20Z
+    Updated: 2026-03-20T10:29:21Z
     Author: Barcel Coschiera
     Tags: Sneakers, sneakers d'importazione, sneakers in offerta
   - [Perché la Adidas Tang Jacket Chinese New Year è diventata il capo virale del momento](https://vibesmilano.com/blogs/notizie/perche-la-adidas-tang-jacket-chinese-new-year-e-diventata-il-capo-virale-del-momento)
-    Updated: 2026-02-02T16:33:45Z
+    Updated: 2026-03-20T10:29:25Z
     Author: Barcel Coschiera
     Tags: adidas chinese jacket, adidas chinese new year jacket, adidas cny, adidas italia, adidas limited edition, adidas originals tang, adidas tang jacket, felpa adidas premium, felpa adidas stile cinese, felpa uomo donna, felpa virale adidas, giacca adidas tang, giacca streetwear, moda streetwear, streetwear adidas, streetwear orientale, tang jacket adidas, trend streetwear, vibes milano
   - [Nike Air Max 95: perché sono diventate icone di stile e perché nel 2026 saranno tra le sneakers più ricercate](https://vibesmilano.com/blogs/notizie/nike-air-max-95-perche-sono-diventate-icone-di-stile-e-perche-nel-2026-saranno-tra-le-sneakers-piu-ricercate)
-    Updated: 2026-02-04T17:46:29Z
+    Updated: 2026-03-20T10:29:30Z
     Author: Barcel Coschiera
     Tags: Air Max 95, Air Max OG, Big Bubble Air Max 95, moda streetwear, Nike Air Max 95, Nike lifestyle, scarpe Nike, sneaker culture, sneaker iconiche, sneakerhead, sneakers 2026, sneakers anni 90, sneakers donna, sneakers Nike, sneakers uomo, streetwear Italia, streetwear sneakers, tendenze sneakers
   - [Adidas Tang Jacket: storia, ispirazione e perché è diventata un’icona streetwear](https://vibesmilano.com/blogs/notizie/adidas-tang-jacket-storia-ispirazione-e-perche-e-diventata-un-icona-streetwear)
-    Updated: 2026-02-10T16:01:33Z
+    Updated: 2026-03-20T10:29:33Z
     Author: Barcel Coschiera
     Tags: adidas abbigliamento sportivo, adidas abbigliamento uomo, adidas blog, adidas giacca tange, adidas heritage, adidas jacket uomo, adidas lifestyle, adidas moda streetwear, adidas outfit, adidas outfit uomo, adidas streetwear, adidas tange jacket, adidas urban style, giacca adidas originale, giacca mezza stagione adidas, giacca sportiva adidas, giacca streetwear, giacca tecnica adidas, streetwear adidas italia, vibes milano adidas
   - [Sneakers Premiata: caratteristiche, qualità e perché sono diventate uno status symbol](https://vibesmilano.com/blogs/notizie/sneakers-premiata-caratteristiche-qualita-e-perche-sono-diventate-uno-status-symbol)
-    Updated: 2026-03-03T07:33:55Z
+    Updated: 2026-03-20T10:29:36Z
     Author: Barcel Coschiera
     Tags: calzature di design, nuove collezioni premiata, premiata, scarpe premiata, sneakers di lusso, sneakers donna, sneakers italian design, sneakers moda, sneakers premiata, sneakers premium, sneakers uomo, status symbol, streetwear, urban style, vibes milano
+  - [Tendenze Sneakers Primavera Estate 2026: i Trend da Non Perdere](https://vibesmilano.com/blogs/notizie/tendenze-sneakers-primavera-estate-2026-i-trend-da-non-perdere)
+    Updated: 2026-03-23T09:24:24Z
+    Author: Barcel Coschiera
+    Tags: chunky sneakers, moda streetwear, nuove collezioni sneakers, nuove sneakers 2026, outfit estate 2026, outfit primavera 2026, scarpe di moda, scarpe primavera 2026, sneaker casual, sneaker donna 2026, sneaker fashion, sneaker lifestyle, sneaker minimal, sneaker must have, sneaker outfit idee, sneaker trend 2026, sneaker uomo 2026, sneaker vintage, sneakers colorate, sneakers di tendenza, sneakers eleganti, sneakers moda 2026, sneakers neutre, sneakers premium, sneakers primavera estate 2026, sneakers retro, sneakers versatili, streetwear 2026, tendenze sneakers 2026, vibes milano sneakers
 
 ## Store Pages
 
