@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-08-27T15:57:48Z
 - Contact Email: info@kingmungo.nl
-- Updated At: 2026-03-19T00:00:26.173Z
+- Updated At: 2026-03-27T00:00:35.312Z
 
 ## Products
 
 - [Drinkfles 1 Liter Lekvrije Drinkbus Lila King Mungo BPA-vrij](https://www.kingmungo.nl/products/drinkfles_1_liter_drinkbus_lila): Drinkfles 1 liter lekvrije drinkbus van lila Tritan. Ideale waterfles voor sport of kantoor. Jarenlange kwaliteit, BPA vrij.
-  Updated: 2026-03-13T13:08:37Z
+  Updated: 2026-03-20T13:05:38Z
   Vendor: King Mungo
   Product Type: KMDF052 1 Liter drinkfles
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/led_hoofdlamp_USB_oplaadbare_hoofdlampen_zwart_King_Mungo_KMHL009_-_1.jpg?v=1773222969
   Price: € 28,95 EUR
 - [Beste Noodpakket Zaklamp Oplaadbaar (1500 Lumen) - King Mungo KM-L12](https://www.kingmungo.nl/products/king-mungo-km-l12-tactische-zaklamp-oplaadbaar): ✅ Zoekt u een zaklamp voor uw noodpakket? ✅ De KM-L12 is tactisch, oplaadbaar én werkt op AAA batterijen (Dual-Fuel). ✅ Complete set met fietshouder & holster.
-  Updated: 2026-03-16T09:38:33Z
+  Updated: 2026-03-24T09:33:26Z
   Vendor: King Mungo
   Product Type: KM-L12
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/dienbladgrootrondzwart50cm.jpg?v=1773222906
   Price: € 53,00 EUR
 - [Groot Rond Dienblad Zwart 60 cm - XXL Houten Plateau King Mungo](https://www.kingmungo.nl/products/groot-rond-dienblad-hout-60cm-rond-xxl-zwart-decoratief-plateau): Groot Rond Dienblad: Transformeer je interieur met het XXL King Mungo dienblad van 60cm. Dit grote, ronde plateau van zwart hout is de perfecte blikvanger voor je tafel of hocker.
-  Updated: 2026-03-11T09:55:14Z
+  Updated: 2026-03-19T21:17:26Z
   Vendor: King Mungo
   Product Type: 60cm rond zwart
   Availability: Available
@@ -148,25 +148,25 @@
 ## Collections
 
 - [King Mungo: Drinkflessen, Verlichting & Houten Dienbladen](https://www.kingmungo.nl/collections/king-mungo): Op zoek naar kwaliteit die lang meegaat? Ontdek onze King Mungo lekvrije drinkflessen, krachtige LED-verlichting en stijlvolle houten dienbladen. Vandaag besteld = morgen in huis.
-  Updated: 2026-03-14T11:23:14Z
+  Updated: 2026-03-21T11:23:04Z
   Total Products: 6
 - [Hoofdlampen Led Oplaadbaar - Professioneel - King Mungo](https://www.kingmungo.nl/collections/led-hoofdlampen): LED Hoofdlampen oplaadbaar zeer fel. Als Hoge kwaliteit telt kies dan voor King Mungo, professionele hoofdlampen die jaren meegaan.
   Updated: 2026-03-16T11:25:29Z
   Total Products: 4
 - [Zaklampen LED oplaadbaar van hoge kwaliteit - King Mungo](https://www.kingmungo.nl/collections/led-zaklampen): Hoge kwaliteit LED Zaklampen met gratis verzending! Oplaadbare robuuste zaklampen van hoge kwaliteit. King Mungo zaklampen gaan jaren mee.
-  Updated: 2026-03-16T11:25:29Z
+  Updated: 2026-03-24T11:26:07Z
   Total Products: 2
 - [Drinkflessen 1 Liter - 100% Lekvrij & BPA-vrij | King Mungo](https://www.kingmungo.nl/collections/drinkflessen): Stop met die lekkende waterfles! De King Mungo 1 liter drinkflessen van Tritan, 100% lekvrij & BPA-vrij. Geniet van puur water zonder plastic smaak. Voor 15u besteld morgen in huis. Gratis verzending.
-  Updated: 2026-03-14T11:23:14Z
+  Updated: 2026-03-21T11:23:04Z
   Total Products: 12
 - [Houten Dienblad Kopen? Groot formaat 50, 60 & 70 cm | King Mungo](https://www.kingmungo.nl/collections/houten-dienblad): Maak je interieur af! Onze grote, decoratieve houten dienbladen (50-70 cm) creëren direct rust en sfeer op elke tafel. Gemaakt van kwalitatief hout. Voor 15u besteld, morgen in huis Gratis verzending.
   Updated: 2026-03-12T06:14:46Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.kingmungo.nl/collections/avada-best-sellers)
-  Updated: 2026-03-16T11:25:29Z
+  Updated: 2026-03-24T11:26:07Z
   Total Products: 21
 - [APPPlaza - Best Sellers](https://www.kingmungo.nl/collections/appplaza-best-sellers)
-  Updated: 2026-03-16T11:25:29Z
+  Updated: 2026-03-24T11:26:07Z
   Total Products: 21
 
 ## Blogs
@@ -516,6 +516,46 @@
     Updated: 2026-03-18T09:23:04Z
     Author: Michiel K
     Tags: 2000 lumen zaklamp, felle zaklamp aa batterijen, king mungo, king mungo km-mg51, noodpakket zaklamp, tactische zaklamp batterijen, zaklamp hond uitlaten
+  - [Oplaadbare LED Hoofdlamp KM-HL81 Breedstraler | King Mungo](https://www.kingmungo.nl/blogs/news/oplaadbare-led-hoofdlamp-breedstraler): Oplaadbare LED Hoofdlamp KM-HL81 Breedstraler | King Mungo
+    Updated: 2026-03-19T08:34:01Z
+    Author: Michiel K
+    Tags: 1800 mah hoofdlamp, beste hoofdlamp voor klussen, felle hoofdlamp breedstraler, hardloopverlichting oplaadbaar, hoofdlamp led oplaadbaar, king mungo, king mungo km-hl81, lichtgewicht hoofdlamp
+  - [KM-HL81 Breedstraler Hoofdlamp: Geen Tunnelvisie Meer | King Mungo](https://www.kingmungo.nl/blogs/news/oplaadbare-hoofdlamp-breedstraler-kmhl81): KM-HL81 Breedstraler Hoofdlamp: Geen Tunnelvisie Meer | King Mungo
+    Updated: 2026-03-20T09:14:02Z
+    Author: Michiel K
+    Tags: breedstraler led hoofdband, felle hoofdlamp breedstraler, hardloopverlichting, hoofdlamp led oplaadbaar, king mungo, king mungo km-hl81, oplaadbare hoofdlamp wandelen
+  - [Sterke LED Zaklamp KM-MG51 | Ideaal Cadeau voor Man](https://www.kingmungo.nl/blogs/news/sterke-led-zaklamp-cadeau-man): Sterke LED Zaklamp KM-MG51 | Ideaal Cadeau voor Man
+    Updated: 2026-03-21T10:57:01Z
+    Author: Michiel K
+    Tags: felle zaklamp aa batterijen, king mungo, king mungo km-mg51, outdoor gereedschap, sterkste zaklamp kopen, zaklamp cadeau man, zaklamp klussen, zaklamp met zoomfunctie
+  - [KM_HL003 Hoofdlamp inclusief batterijen kopen? | King Mungo](https://www.kingmungo.nl/blogs/news/hoofdlamp_batterijen_kmhl003): KM_HL003 Hoofdlamp inclusief batterijen kopen? | King Mungo
+    Updated: 2026-03-22T11:02:01Z
+    Author: Michiel K
+    Tags: felle hoofdlamp klussen, hoofdlamp inclusief batterijen, king mungo, king mungo hoofdlamp, km_hl003, led hoofdlamp batterijen
+  - [Zakelijk cadeau: KM_HL003 hoofdlamp voor personeel | King Mungo](https://www.kingmungo.nl/blogs/news/zakelijk_cadeau_hoofdlamp_personeel_mungo): Zakelijk cadeau: KM_HL003 hoofdlamp voor personeel | King Mungo
+    Updated: 2026-03-23T12:10:01Z
+    Author: Michiel K
+    Tags: hoofdlamp B2B kopen, king mungo, King Mungo KM_HL003, personeelsgeschenk veiligheid, relatiegeschenk hoofdlamp, zakelijk cadeau
+  - [King Mungo Drinkfles 1 Liter Lekvrij | Sport & Hyrox](https://www.kingmungo.nl/blogs/news/drinkfles_1_liter_lekvrij_king_mungo): King Mungo Drinkfles 1 Liter Lekvrij | Sport & Hyrox
+    Updated: 2026-03-21T08:52:48Z
+    Author: Michiel K
+    Tags: bpa vrije fles, duurzame drinkbus, fitness fles 1l, hyrox drinkfles, king mungo, lekvrije waterfles, sportfles padel, tritan waterfles, waterfles met vergrendeling
+  - [Anatomie van de perfecte 1 liter drinkfles | King Mungo Specialisme](https://www.kingmungo.nl/blogs/news/anatomie_perfete_1_liter_drinkfles_tritan): Anatomie van de perfecte 1 liter drinkfles | King Mungo Specialisme
+    Updated: 2026-03-24T06:40:44Z
+    Author: Michiel K
+    Tags: duurzame drinkbus, engineering drinkfles, king mungo, king mungo drinkfles, king mungo drinkflessen, King Mungo expertise, lekvrije waterfles, sportfles hygiëne, tactische hydratatie, Tritan drinkfles, waterfles met fruitfilter
+  - [Lekvrije 1 liter drinkfles kopen | Nooit meer een natte tas](https://www.kingmungo.nl/blogs/news/lekvrije_1_liter_drinkfles_kopen): Lekvrije 1 liter drinkfles kopen | Nooit meer een natte tas
+    Updated: 2026-03-25T08:53:02Z
+    Author: Michiel K
+    Tags: BPA vrije sportfles, duurzame waterfles, grote waterfles voor werk, hydratatie 2026, king mungo, King Mungo waterfles, lekvrije drinkfles 1 liter, mat grijze drinkfles, rugzak drinkfles, Tritan drinkbus
+  - [King Mungo KM-MG51: Felle LED zaklamp op AA batterijen](https://www.kingmungo.nl/blogs/news/felle_led_zaklamp_aa_batterijen): King Mungo KM-MG51: Felle LED zaklamp op AA batterijen
+    Updated: 2026-03-26T08:12:02Z
+    Author: Michiel K
+    Tags: aa batterijen zaklamp, felle led zaklamp, king mungo, king mungo km_mg51, kwaliteit zaklamp, noodpakket verlichting, tactische zaklamp, verlichting hond uitlaten
+  - [King Mungo 1L Drinkfles Test: Beter dan Dopper en Air Up](https://www.kingmungo.nl/blogs/news/vergelijking-drinkfles-dopper-air-up): King Mungo 1L Drinkfles Test: Beter dan Dopper en Air Up
+    Updated: 2026-03-24T11:35:02Z
+    Author: Michiel K
+    Tags: air up alternatief, beste drinkfles test, dopper vs king mungo, drinkfles zonder rietje, grote drinkfles kopen, king mungo, king mungo drinkfles, kwaliteits drinkfles
 
 ## Store Pages
 
