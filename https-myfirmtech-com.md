@@ -6,51 +6,51 @@
 - Timezone: America/Denver
 - Created At: 2021-07-05T19:09:57Z
 - Contact Email: customerservice@myfirmtech.com
-- Updated At: 2026-03-20T00:00:35.103Z
+- Updated At: 2026-03-27T00:00:37.199Z
 
 ## Collections
 
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/frontpage): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 3
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/firmtech): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 14
 - [Accessories – Comfort, Design, & Tech Innovation | FirmTech](https://myfirmtech.com/collections/current-collection): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 3
 - [FirmTech Comfort Ring – Ergonomic & Adjustable Fit | FirmTech](https://myfirmtech.com/collections/tech-ring): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 1
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/max-pr-and-fpr): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 2
 - [Merch](https://myfirmtech.com/collections/merch): Firmtech fun hats
   Updated: 2026-02-24T12:14:26Z
   Total Products: 2
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech](https://myfirmtech.com/collections/health-rings): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 1
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/pleasure-rings): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 2
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech | HSA/FSA](https://myfirmtech.com/collections/hsa-fsa): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear. Covered by HSA or FSA using Flex at checkout
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 5
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech](https://myfirmtech.com/collections/techring-and-techring-bundles): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 6
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech](https://myfirmtech.com/collections/techring-and-techring-bundles-1): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 3
 - [Innovative Tech for Everyday Use | FirmTech](https://myfirmtech.com/collections/ringmate-bundles): Discover FirmTech accessories that merge innovation and style. Enhance your wearable lifestyle today.
   Updated: 2026-01-14T19:03:34Z
   Total Products: 3
 - [Wholesale](https://myfirmtech.com/collections/wholesale)
-  Updated: 2026-03-19T11:14:15Z
+  Updated: 2026-03-26T11:16:47Z
   Total Products: 8
 - [FirmTech Bundles](https://myfirmtech.com/collections/firmtech-bundles)
-  Updated: 2026-03-17T11:14:04Z
+  Updated: 2026-03-23T11:12:46Z
   Total Products: 7
 
 ## Blogs
@@ -258,7 +258,7 @@
 - [Results](https://myfirmtech.com/pages/results)
   Updated: 2025-06-06T13:02:39Z
 - [Result Load](https://myfirmtech.com/pages/result-load)
-  Updated: 2026-03-19T21:38:08Z
+  Updated: 2026-03-26T23:13:29Z
 - [GDPR](https://myfirmtech.com/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
   Updated: 2026-02-18T22:24:28Z
 - [APPI](https://myfirmtech.com/pages/appi): #form-appi-edit-account-request, #form-appi-requests-request, #form-appi-personal-information-request, #form-appi-orders-request, #form-appi-person...
