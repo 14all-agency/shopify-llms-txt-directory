@@ -9,12 +9,12 @@
 - Created At: 2025-07-03T08:08:45Z
 - Contact Email: info@altruvera.com
 - Address: 2801 Ocean Park Blvd 1080 Santa Monica California 90405
-- Updated At: 2026-03-20T00:00:28.430Z
+- Updated At: 2026-03-27T00:00:33.296Z
 
 ## Products
 
-- [Susteinable Slippers](https://altruvera.com/products/susteinable-slippers): Experience the perfect blend of artisanal craftsmanship and eco-conscious design. These handmade sustainable shoes are crafted from premium organic canvas and feature a durable, hand-braided jute sole. Eco-Friendly Materials: Made with renewable plant-based fibers and low-impact dyes. Artisanal Detail: Features delicate, hand-embroidered leaf motifs that celebrate nature. Breathable Design: Lightweight and airy, perfect for mindful daily wear. Ethically Made: Every pair supports traditional shoemaking techniques and fair labor practices. Step into a lighter footprint without compromising on style
-  Updated: 2026-03-12T09:31:58Z
+- [Susteinable Slippers | Apparel](https://altruvera.com/products/susteinable-slippers): Experience the perfect blend of artisanal craftsmanship and eco-conscious design. These handmade sustainable shoes are crafted from premium organic canvas and feature a durable, hand-braided jute sole. Eco-Friendly Materials: Made with renewable plant-based fibers and low-impact dyes. Artisanal Detail: Features delicate, hand-embroidered leaf motifs that celebrate nature. Breathable Design: Lightweight and airy, perfect for mindful daily wear. Ethically Made: Every pair supports traditional shoemaking techniques and fair labor practices. Step into a lighter footprint without compromising on style
+  Updated: 2026-03-25T07:02:45Z
   Vendor: Nicole Brand Test
   Product Type: Apparel & Accessories
   Availability: Available
