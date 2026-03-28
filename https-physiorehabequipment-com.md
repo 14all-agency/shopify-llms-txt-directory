@@ -6,40 +6,40 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-08-30T10:06:19Z
 - Contact Email: physiorehabequipments@gmail.com
-- Updated At: 2026-03-21T00:00:38.631Z
+- Updated At: 2026-03-28T00:00:40.806Z
 
 ## Products
 
-- [TRACTION BED THREE FOLD](https://physiorehabequipment.com/products/traction-bed-three-fold): Key Features & Specifications Feature Description Frame Material Heavy-duty powder-coated MS (Mild Steel) Mattress Type High-density foam with rexin cover Design Three-fold (head, middle, and leg section) Adjustability Manual adjustment for backrest inclination Traction Pulley System Compatible with cervical/lumbar traction kits Cushion Color -grade blue (easy to clean) Bed Dimensions (LxW) Approx. 183 cm x 61 cm (6ft x 2ft) Height Approx. 24–28 inches Foldable No (fixed structure with sectional folding) Weight Bearing Capacity Up to 120–150 kg Assembly Delivered in semi-assembled condition
-  Updated: 2026-03-14T08:16:54Z
+- [TRACTION BED THREE FOLD](https://physiorehabequipment.com/products/traction-bed-three-fold): Heavy-duty Traction Bed Three Fold with adjustable sections & traction system. Ideal for cervical & lumbar physiotherapy treatments.
+  Updated: 2026-03-25T11:57:06Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/traction_bed_three_fold_product.webp?v=1773172265
   Price: ₹10,200.00 INR
-- [TRACTION BED FOUR FOLD WITH BASE](https://physiorehabequipment.com/products/traction-bed-four-fold-with-base): Features Effectiveness: Designed for lumbar  with adjustable features for better comfort. Durable finish standards: Made with high-quality materials for long-lasting use. Versatile designs: Suitable for a wide range of therapeutic applications and easy adjustments. Specifications Adjustable Sections: The table comes with adjustable lower and head sections to accommodate various needs. Separate Lumber Section: The lumbar section is separate to eliminate friction during lumbar . Quality Construction: The table has four sections with heavy foam and a high-quality Rexene cover.
-  Updated: 2026-03-14T08:16:55Z
+- [TRACTION BED FOUR FOLD WITH BASE](https://physiorehabequipment.com/products/traction-bed-four-fold-with-base): Traction Bed Four Fold with Base for lumbar therapy. Adjustable, durable & ideal for advanced physiotherapy clinics.
+  Updated: 2026-03-25T12:13:47Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/Traction_Bed_Four_Fold_product.webp?v=1773172303
   Price: ₹18,500.00 INR
-- [MANUAL TILT TABLE](https://physiorehabequipment.com/products/manual-tilt-table): Product Details The patient firmly holds to three straps provided This table also has heavyduty wheels Two gripping handles are also there for various activities Specifications Tilt Angles 0 to 90 degree Size 61 cm x 195 cm long x 80 cm high Tube Legs 10 cm Made of 35 mm steel
-  Updated: 2026-03-14T08:16:55Z
+- [MANUAL TILT TABLE](https://physiorehabequipment.com/products/manual-tilt-table): Manual Tilt Table with 0–90° adjustment, safety straps & sturdy steel frame. Perfect for rehabilitation & mobility therapy sessions.
+  Updated: 2026-03-25T12:04:24Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/manual_tilt_table_medical_product.webp?v=1773172329
   Price: ₹18,999.00 INR
-- [MOTORIZED TILT TABLE](https://physiorehabequipment.com/products/motorized-tilt-table): Key Features: Motorized elevation for smooth tilting Sturdy and stable construction with heavy-duty wheels for mobility Soft cushioned top for patient comfort Safety straps to secure the patient Adjustable tilt angles for progressive therapy User-friendly remote control for effortless operation Specifications: Frame Material: Powder-coated steel Cushion Material: High-density foam with synthetic leather cover Tilt Range: 0° to 90° Load Capacity: Up to 150 kg Motor: Heavy-duty electric motor Safety: Locking wheels and safety harness Control: Hand-held remote for tilt adjustments Dimensions: Standard size with adjustable height How to Use: Position the tilt table in a safe, spacious area and lock the wheels. Help the patient lie down on the cushioned surface and secure them with the safety straps. Use the remote control to adjust the tilt angle as per the therapy requirement. Monitor the patient’s response and comfort throughout the session. After use, gradually return the table to a horizontal position before unfastening the straps. Precautions: Always ensure that the safety straps are fastened securely. Gradually increase the tilt angle to avoid dizziness or discomfort. Check the stability of the table before every use. Do not exceed the maximum load capacity. Ensure regular maintenance of the motor and frame. Manufacturer Details Manufacturer Importer Marketed By:PHYSIO REHAB EQUIPMENTS, House No-50, Block-A, Prem Nagar Phase-II, Kirari Suleman Nagar, Delhi-110086 Contact: 9292923992, 8447056684
-  Updated: 2026-03-14T08:16:55Z
+- [MOTORIZED TILT TABLE](https://physiorehabequipment.com/products/motorized-tilt-table): Motorized Tilt Table with smooth elevation, safety straps & remote control. Designed for progressive rehabilitation therapy.
+  Updated: 2026-03-25T12:14:41Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/motorized_tilt_table_product.jpg?v=1773223643
   Price: ₹30,499.00 INR
-- [HI LOW MOTORIZED TILT TABLE](https://physiorehabequipment.com/products/hi-low-motorized-tilt-table): Product Description This premium therapy couch features three independently adjustable sections, providing precise patient positioning. Both ends can be manually or electrically adjusted (optional configuration), offering a full range of motion. Head Section: Equipped with a breathing hole, it can be adjusted up to 45° upwards and 90° downwards for versatile therapy postures. Leg/Foot Section: Can be tilted up to 90° upwards for better elevation during procedures or treatments. Height Adjustment: Couch height can be electrically controlled from 22 inches to 40 inches, using a noiseless hand-held remote. Designed for patient comfort and therapist efficiency, the couch reduces pressure on sensitive areas like the sinuses and offers smooth transitions between positions. Key Features Three-Section Design with independent tilting head and leg sections Electrically Operated Height Adjustment (22" to 40") with hand-held controller Breathing Hole in headrest for face-down treatments Noise-Free Motor for smooth and quiet operation Durable Construction with powder-coated frame High-Density Foam Padding covered in premium-quality rexine Comfort-First Design that supports sensitive areas and multiple therapy positions Ideal For Physiotherapy and rehabilitation clinics Orthopedic and chiropractic centers Hospitals and day-care  facilities Massage and wellness centers
-  Updated: 2026-03-14T08:16:55Z
+- [HI LOW MOTORIZED TILT TABLE](https://physiorehabequipment.com/products/hi-low-motorized-tilt-table): Hi Low Motorized Tilt Table with adjustable sections & smooth positioning. Designed for advanced rehab therapy.
+  Updated: 2026-03-25T12:23:41Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -52,43 +52,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/ROWING_MACHINE_WITH_SLIDING_SEAT.jpg?v=1773223639
   Price: ₹8,499.00 INR
-- [EXAMINATION COUCH META](https://physiorehabequipment.com/products/examination-couch-meta): This examination table provides a stable and hygienic surface for general clinical examinations. Constructed from tubular steel with epoxy coating, it resists corrosion and is easy to maintain. The 3 cm thick cushioned mattress ensures basic comfort during short procedures and checkups. Compact, lightweight, and easy to clean, it is a must-have for facilities requiring affordable reliability. Technical Specifications Specification Details Product Examination Couch (Plain) Overall Size Approx. 180L x 55W x 80H cm Frame Material Epoxy-Coated Tubular Steel Tube Diameter Approx. 3 cm Mattress Thickness Approx. 3 cm Leg Tips Rubber-Capped for Grip Weight Capacity 120 kg Usage Clinics, Hospitals, Outpatient Centers
-  Updated: 2026-03-14T08:16:56Z
+- [EXAMINATION COUCH META](https://physiorehabequipment.com/products/examination-couch-meta): Durable Examination Couch with cushioned top & steel frame. Ideal for clinics, checkups &  exams.
+  Updated: 2026-03-25T12:25:49Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/examination_couch_plai_webp.jpg?v=1773223593
   Price: ₹8,499.00 INR
-- [FOOT STEPPER](https://physiorehabequipment.com/products/foot-stepper): Key Features: Double-Step Design: Offers two levels of elevation to assist users in reaching higher areas with ease. High-Quality Plyboard Construction: Ensures durability and stability for long-term use. Natural Wood Finish: Provides an aesthetic appeal that complements various interior settings. Non-Woven Matting: Fitted with non-woven matting on each step to enhance grip and prevent slipping. Specifications: Material: Plyboard with natural wood finish. Steps: Two steps with non-woven matting. Dimensions: Standard size suitable for most applications. Weight Capacity: Designed to support the average  weight. Applications: Home Use: Assists in reaching high shelves or cabinets safely. Clinical Settings: Provides patients with assistance in examination rooms or therapy sessions. Hospitals: Aids  professionals in accessing elevated areas or equipment. Benefits: Safety: Non-woven matting reduces the risk of slipping, ensuring user safety. Durability: Robust construction withstands regular use in various environments. Versatility: Suitable for multiple settings, including homes, clinics, and hospitals.
-  Updated: 2026-03-14T08:16:56Z
+- [FOOT STEPPER](https://physiorehabequipment.com/products/foot-stepper): Foot Stepper with double-step design & non-slip matting. Durable plyboard build for balance & lower limb therapy.
+  Updated: 2026-03-25T12:38:54Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/wooden_foot_stool_stepper.jpg?v=1773223393
   Price: ₹1,799.00 INR
-- [QUADRICEPS EXERCISER CHAIR](https://physiorehabequipment.com/products/quadriceps-exerciser-chair): Key Features Heavy duty powder coated steel frame Padded seat and backrest for enhanced comfort Adjustable resistance via weights Dual purpose for both quadriceps and hamstring strengthening Ankle roller with smooth rotation mechanism Armrests for additional support and stability Compact and easy to use in clinics or home setups Specifications Brand Physio Rehab Equipments Product Type Exercise and Rehab Chair Frame Material Powdercoated Mild Steel Seat Backrest Padding Highdensity foam with washable cover Functionality For Quadriceps and Hamstring exercises Resistance Mechanism Disc weight loading system Color Red or Blue based on availability cushion with white frame Dimensions 110 x 85 x 35 CM Included Weights 4 weight plates of 1 Kg each Load Capacity Upto 100 kg user weight Prepaid or Partial COD Options are available for this product. Please call or WhatsApp us at 9292923992 Manufacturer Details Manufacturer Importer Marketed By: Physio Rehab Equipments, House No-50, Block-A, Prem Nagar Phase-II, Kirari Suleman Nagar, Delhi-110086 Contact: 9292923992, 8447056684 ( Timing 9:00AM - 6:30PM )
-  Updated: 2026-03-14T08:16:56Z
+- [QUADRICEPS EXERCISER CHAIR](https://physiorehabequipment.com/products/quadriceps-exerciser-chair): Quadriceps Exerciser Chair with adjustable resistance & padded seat. Ideal for quad & hamstring strengthening.
+  Updated: 2026-03-25T12:58:56Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/medansh_Exercise_Quadriceps_Chair.jpg?v=1773223615
   Price: ₹8,499.00 INR
-- [MULTI EXERCISER CHAIR WITH QUADRICEPS EXERCISER](https://physiorehabequipment.com/products/multi-exerciser-chair-with-quadriceps-exerciser): Accessories: T Pully Shoulder Pully Leg Pully Also you can attach extra items Quadricep Exercise Shoulder Wheel Compact Wrist Rotary Finger Ladder Specifications: Accessory Inclusions T Pully Shoulder Pully Leg Pully and additional attachment options Quadricep Exercise Tailored for targeted quadricep workouts Compact Design Ensures space efficiency Affordable Highquality products at budgetfriendly rates Manufacturer Importer Marketed By Brand Name Physio Rehab Equipments Address of Entity Physio Rehab Equipments, House No-50, Block-A, Prem Nagar Phase-II, Kirari Suleman Nagar, Delhi-110086 Phone Number 9292923992, 8447056684
-  Updated: 2026-03-14T08:16:56Z
+- [MULTI EXERCISER CHAIR WITH QUADRICEPS EXERCISER](https://physiorehabequipment.com/products/multi-exerciser-chair-with-quadriceps-exerciser): Shop Multi Exerciser Chair with Quadriceps Exerciser for targeted rehab workouts. Includes pulleys & attachments for versatile therapy use.
+  Updated: 2026-03-25T11:56:06Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/multi_exercise_chair.jpg?v=1756924635
   Price: ₹19,499.00 INR
-- [RELAXATION CP CHAIR WITH ADJUSTABLE INCLINE & TRAY FOR CHILD](https://physiorehabequipment.com/products/relaxation-cp-chair-with-adjustable-incline-tray-for-child): ( Prepaid or Partial COD Options are available for this product. Please call or WhatsApp us at 9292923992 ) Hardwood & ply board constructed, naturally finished Chair reclines through an arc and can be adjusted to any desired position.Comes with adjustable foam padded Headrest which can be formed & reformed as needed.High back support holds the child with wide belt. Country of Origin : India Manufacturer/Importer/Marketed By : Physio Rehab Equipments, House No-50, Block-A, Prem Nagar Phase-II, Kirari Suleman Nagar, Delhi-110086, Phone No-9292923992
-  Updated: 2026-03-14T08:16:57Z
+- [RELAXATION CP CHAIR WITH ADJUSTABLE INCLINE & TRAY FOR CHILD](https://physiorehabequipment.com/products/relaxation-cp-chair-with-adjustable-incline-tray-for-child): Relaxation CP Chair for child with adjustable incline tray & headrest. Durable design for therapy, comfort & daily activities.
+  Updated: 2026-03-25T12:07:27Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/RELAXATION_CP_CHAIR_WITH_ADJUSTABLE_INCLINE_TRAY_FOR_CHILD.webp?v=1757009123
   Price: ₹11,499.00 INR
-- [RELAXATION CP CHAIR ](https://physiorehabequipment.com/products/relaxation-cp-chair-): Product Description Prepaid or Partial COD Options are available for this product. Please call or WhatsApp us at 9292923992. Made by best quality Hardwood and ply board and painted Natural woodpolish finish. Laminated activity Tray size 56cm x 63cm with polished wooden tray for eating meals having fun and learning in standing or sitting position. Adjustable Comfortable Seat and Foot board are 38 cm wide. Manufacturer Importer Marketed By Country of Origin India Manufacturer Importer Marketed By Physio Rehab Equipments Address of Entity Physio Rehab Equipments, House No-50, Block-A, Prem Nagar Phase-II, Kirari Suleman Nagar, Delhi-110086 Phone Number 9292923992, 8447056684
-  Updated: 2026-03-14T08:16:57Z
+- [RELAXATION CP CHAIR ](https://physiorehabequipment.com/products/relaxation-cp-chair-): Relaxation CP Chair  with laminated tray & natural wood finish. Designed for comfort & therapy support.
+  Updated: 2026-03-25T12:57:35Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -108,22 +108,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/METALLICSTANDINGINFRAMEADULT1.jpg?v=1757778430
   Price: ₹10,499.00 INR
-- [CP CHAIR WITH STANDING FRAME CHILD](https://physiorehabequipment.com/products/cp-chair-with-standing-frame-child): Specification: Product - CP Chair With Standing Frame Material - Mild Steel Color - Color May Very Wheel Type - Castor Wheel Diameter - 75mm Approx Seat - Children Adjustable Feature CP Chair for ChildrenThis chair is specially designed for children. Standing FrameThe chair features a standing frame, which can provide support for the child in a standing position. Mild Steel ConstructionThe chair is made of mild steel, which provides durability and strength. Adjustable SeatThe seat is adjustable to accommodate children up to 4 ft in height. Castor WheelsEquipped with castor wheels for easy mobility and maneuverability.
-  Updated: 2026-03-14T08:16:58Z
+- [CP CHAIR WITH STANDING FRAME CHILD](https://physiorehabequipment.com/products/cp-chair-with-standing-frame-child): CP Chair with Standing Frame Child offers adjustable support, castor wheels & sturdy frame for pediatric therapy use.
+  Updated: 2026-03-25T12:30:43Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/cp_chair_with_standing_frame.webp?v=1757778786
   Price: ₹10,499.00 INR
-- [CP CHAIR WITH STANDING FRAME ](https://physiorehabequipment.com/products/cp-chair-with-standing-frame-): Specifications Brand: Physio Rehab Equipments Product Type:  Cerebral Palsy Chair – Deluxe Model Frame: Powder-coated MS Steel Padding: PU foam with washable rexine cover Backrest: Adjustable with head and neck support Tray: Wooden laminated activity tray, angle and height adjustable Footrest: Cushioned and adjustable Safety Features: Pelvic strap, padded side supports Wheels: 4 heavy-duty castor wheels with brakes Dimensions: Approx. 110 x 60 x 140 cm Weight Capacity: Up to 100 kg Use Case: Indoor use for therapy, meals, or desk work Key Benefits and Features Designed specifically for  CP patients Adjustable tray for multi-purpose use – meals, therapy, study Comfortable backrest and head support with soft PU padding Side guards and pelvic strap for enhanced safety Easily movable with 4 lockable wheels Durable design and easy-to-clean materials Precautions Always lock brakes before seating the user Regularly inspect tray and straps for secure fitting Do not exceed the weight capacity Keep away from water or damp environments
-  Updated: 2026-03-15T05:44:56Z
+- [CP CHAIR WITH STANDING FRAME ](https://physiorehabequipment.com/products/cp-chair-with-standing-frame-): CP Chair with Standing Frame  offers adjustable support, tray & sturdy frame. Perfect for therapy & posture control.
+  Updated: 2026-03-25T12:20:16Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/adult_cp_chair_delux_quality.jpg?v=1757779143
   Price: ₹11,499.00 INR
-- [CP Corner Chair Delux Quality](https://physiorehabequipment.com/products/cp-corner-chair-delux-quality): Key Features Ergonomic SupportProvides optimal postural control for children requiring special seating assistance. Adjustable SeatAllows flexibility to meet the individual comfort and therapeutic needs of the child. Portable DesignLightweight and easy to reposition across rooms for therapy or playtime. Durable BuildConstructed from strong, child-safe wood for long-lasting use. Color VariabilityComes in assorted colors, adding a touch of personalization.
-  Updated: 2026-03-14T08:16:58Z
+- [CP Corner Chair Delux Quality](https://physiorehabequipment.com/products/cp-corner-chair-delux-quality): CP Corner Chair Delux Quality with ergonomic support & adjustable seating. Ideal for children requiring therapy seating.
+  Updated: 2026-03-25T12:21:05Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -136,8 +136,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/SMOOTHEXERCISETABLE1.webp?v=1757848152
   Price: ₹9,999.00 INR
-- [HAND EXERCISER TABLE](https://physiorehabequipment.com/products/hand-exerciser-table): Product Type & Material Attribute Details Type Exercise Equipment Material Wooden; MS (Mild Steel) Usage Household / Clinical Surface Finish Polished Product Features High-Quality Hardwood TableSturdy construction with a laminated top surface Integrated Pulley SystemIncludes 6 pulleys fitted in a steel frame, with leather loops and nylon cords for resistance-based motion Targeted Muscle ActivationEffective for fingers, hands, wrists, and forearms—specifically beneficial for metacarpophalangeal and interphalangeal joints Additional AttachmentsComes with supinator/pronator and wrist circumduction wheel to assist with full wrist rotation exercises Adjustable ResistanceIncludes five sets of weights, each designed for gradual progression and tailored therapy needs Ideal For Post-surgical rehabilitation Stroke recovery therapy Occupational and physiotherapy clinics Home-based therapy sessions
-  Updated: 2026-03-14T08:16:58Z
+- [HAND EXERCISER TABLE](https://physiorehabequipment.com/products/hand-exerciser-table): Hand Exerciser Table with integrated pulleys & sturdy wooden top. Ideal for upper limb rehabilitation therapy.
+  Updated: 2026-03-25T12:49:19Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -192,15 +192,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/ProneCrawlingScooterBoard4.webp?v=1757955779
     Price: ₹3,099.00 INR
-- [SCOOTER BOARD RAMP](https://physiorehabequipment.com/products/scooter-board-ramp): Key Features: Stores and transports easily Easy to assemble and disassemble Increases body strength and improves balance Features a lip that makes for a smooth ride down the ramp Wide design allows the scooter to turn completely
-  Updated: 2026-03-14T08:17:00Z
+- [SCOOTER BOARD RAMP](https://physiorehabequipment.com/products/scooter-board-ramp): Scooter Board Ramp for balance & strength training. Easy assembly with smooth ride design for therapy use.
+  Updated: 2026-03-25T13:17:17Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/SCOOTERBOARDRAMP1.jpg?v=1757957434
   Price: ₹13,999.00 INR
-- [WOODEN EXERCISE CORNER STAIR CASE THERAPY](https://physiorehabequipment.com/products/wooden-exercise-corner-stair-case-therapy): Key Features: High-Quality Material: Made from the best quality ply board, ensuring durability and stability. Natural Wood Finish: Painted with a natural wood-polish finish, adding elegance and a refined touch. Non-Slip Matting: Covered with non-slip matting to ensure safety during use. Solid Wood Handrails: Handrails are made from solid wood, constructed with a sturdy frame and finished with natural wood polish. Versatile Steps: Features 4 x 24cm high risers on one side and 6 x 15cm high risers on the other side, leading to a platform of 60cm x 60cm for easy access. Convenient Dimensions: Steps are 60cm wide and 23cm deep for comfortable usage. Adjustable Handrails: Equipped with two sets of handrails at different heights to accommodate both adults and children. Convertible Design: The stairs can be easily converted from a straight line configuration to a 90-degree corner configuration f
-  Updated: 2026-03-14T08:17:00Z
+- [WOODEN EXERCISE CORNER STAIR CASE THERAPY](https://physiorehabequipment.com/products/wooden-exercise-corner-stair-case-therapy): Wooden Exercise Corner Stair Case Therapy with non-slip surface & handrails. Ideal for balance rehab training.
+  Updated: 2026-03-25T13:09:18Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -220,8 +220,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/METALLICEXERCISECORNERSTAIRCASEWITHRAMP1.webp?v=1757958586
   Price: ₹17,499.00 INR
-- [PARALLEL WALKING BAR](https://physiorehabequipment.com/products/parallel-walking-bar): Key Benefits of Using a Parallel Bar System: Improves coordination and balance Enhances muscle strength and flexibility Supports mobility recovery Boosts patient confidence and independence Essential for physiotherapy and rehabilitation programs Product Features and Specifications: Available in Three Sizes: 6 Feet 8 Feet 10 Feet Premium Construction and Adjustability: High Quality Railing System Sturdy steel rails with adjustable height and width levers for customized support NonSlip Handrails Ensures a firm grip for enhanced safety Stable Plywood Base Improves traction and patient confidence Durable and Reliable Ideal for hospitals rehabilitation centers and physiotherapy clinics Product Details Product Details Specifications Brand Physio Rehab Equipments Country of Origin India Suitable For Adults and Children Portable No Reusable Yes Used For Physiotherapy and Recovery Available Sizes 6 Feet, 8 Feet, 10 Feet, 12 Feet Used In Hospitals and Clinics
-  Updated: 2026-03-14T08:17:01Z
+- [PARALLEL WALKING BAR](https://physiorehabequipment.com/products/parallel-walking-bar): Parallel Walking Bar for balance, coordination & mobility recovery. Essential equipment for physiotherapy clinics.
+  Updated: 2026-03-25T13:15:24Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -259,15 +259,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/WallBarsforPhysiotherapyandGymnastics1.webp?v=1758125817
   Price: ₹10,999.00 INR
-- [ACTIVITY FUN GYM EXERCISER](https://physiorehabequipment.com/products/activity-fun-gym-exerciser): Developmental Benefits The Activity Fun Gym Indoor supports: Motor Skills & Coordination: Enhances arm and shoulder strength, improving overall motor coordination. Balance & Spatial Awareness: Activities that challenge balance and spatial perception. Body Awareness: Exercises that help children understand body positioning. Cooperation Skills: Encourages group play, fostering teamwork and social interaction. Cognitive & Affective Skills: Stimulates problem-solving and emotional development through interactive play. Key Components The gym includes: Stationary Ladders: Two fixed ladders for climbing activities. Removable Ladder: One detachable ladder for varied exercises. Monkey Bars Frame: A frame to develop upper body strength. Ramp & Roll System: Includes a rope and a padded board with wheels for dynamic movement. Rope Ladder: A six-rung ladder (45 cm wide) to enhance climbing skills. Climbing Wall: Fourteen handholds adjustable to different heights for climbing challenges. Framework: Constructed from hardwood with oval-shaped rungs for better grip. Wall Boards: Two boards for secure wall attachment. Safety Mattresses: Two 10 cm thick mattresses to ensure safety during play
-  Updated: 2026-03-14T08:17:02Z
+- [ACTIVITY FUN GYM EXERCISER](https://physiorehabequipment.com/products/activity-fun-gym-exerciser): Activity Fun Gym Exerciser boosts motor skills, balance & coordination. Ideal for pediatric therapy & indoor play.
+  Updated: 2026-03-25T12:41:47Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/ACTIVITYFUNGYMEXERCISER1.webp?v=1773222304
   Price: ₹84,999.00 INR
-- [Walker Rollator Child](https://physiorehabequipment.com/products/walker-rollator-child): Specifications Construction: Light weight foldable walker, constructed of ERW steel tubing. Mounting: Mounted on Two 10cm dia. front wheels and Two safety PVC tips on rear legs. Fixed front wheels eliminate side motion. Height Adjustment: Handles adjust from 50cm to 65cm. Each handlebar is individually adjustable for an exact fit. Finish: Powder coated finish. Key Features Light weight and foldable design for easy storage and portability. Front fixed wheels for enhanced stability and eliminating side motion. Adjustable height for a comfortable fit. Durable ERW steel tubing construction for long-lasting use. Safety PVC tips on rear legs for added stability and grip. Ideal for children and easy to use with independent handlebar adjustment.
-  Updated: 2026-03-14T08:17:02Z
+- [Walker Rollator Child](https://physiorehabequipment.com/products/walker-rollator-child): Walker Rollator Child with adjustable height & sturdy wheels. Lightweight, foldable design for pediatric mobility support.
+  Updated: 2026-03-25T13:10:09Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -322,15 +322,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/TRAMPOLINEWITHSUPPORT_BALANCECOORDINATIONUNIT_120CM1.webp?v=1758384752
   Price: ₹8,299.00 INR
-- [VESTIBULAR SWING SYSTEM](https://physiorehabequipment.com/products/vestibular-swing-system): Product Description Immerse your therapy sessions in a world of dynamic possibilities with our Vestibular Swing System. This system, equipped with five different types of swings, offers an extensive range of therapeutic applications, including Neuro-developmental and Sensory Integration therapy. Crafted from durable materials, this system introduces vertical stimulation, direct flexion, linear acceleration, rotational experiences, and a complete range of motion exercises. Specifications All over Dimension(LXB): 6.5 x 6.5 feet Platform Swing(LXB): 24 x 36 Inch Vestibular Swing System with 5 different types of swings, provides a wide range of therapy including Neuro-developmental and Sensory Integration therapy, vertical stimulation, direct flexion, linear acceleration, rotational experiences, and complete range of motion exercises. Made with Mild Steel square pipe (50mm) and 38mm round tubes, with required hooks and floor plates for robust construction. Rotational Bar: Ball-bearing loaded 360-degree vertical rotation system for smooth, unrestricted movement creating vertical and rotational stimulation simultaneously. Five different swing attachments: Platform Swing, Disk Swing, Bolster Swing, Toddler Swing, and Prone Net Swing (Hammock), 45cm wide. Swings come with suitable ropes & ascenders. Key Features Versatile Therapy: The Vestibular Swing System facilitates Neuro-developmental and Sensory Integration therapy, catering to a wide spectrum of therapeutic needs. Durable Construction: Crafted from Mild Steel square pipe (50mm) and 38mm round tubes, this system ensures robustness and longevity. Swing Variety: With five different types of swings, the system provides vertical stimulation, direct flexion, linear acceleration, rotational experiences, and a comprehensive range of motion exercises. 360-Degree Rotation: The rotational bar features a ball-bearing loaded system, enabling smooth and unrestricted 360-degree vertical rotation for simultaneous vertical and rotational stimulation. Safety Assurance: The inclusion of a mattress enhances the safety of children during therapy sessions.
-  Updated: 2026-03-14T08:17:03Z
+- [VESTIBULAR SWING SYSTEM](https://physiorehabequipment.com/products/vestibular-swing-system): Vestibular Swing System with multiple swing options for sensory integration & neurodevelopmental therapy.
+  Updated: 2026-03-25T13:07:21Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/VESTIBULARSWINGSYSTEM1.jpg?v=1758299583
   Price: ₹34,999.00 INR
-- [PLATEFORM SWING](https://physiorehabequipment.com/products/plateform-swing): Product Description Elevate your outdoor experience with the Platform Swing Deluxe Quality. With a spacious 24 inch x 36 inch seat it accommodates two people making it perfect for sensory therapy and outdoor fun. Platform Swing Deluxe Quality is a type of outdoor swing that can accommodate up to 2 people. It is designed with a blue color and has a wide seat of 24 inches and a length of 36 inches. The swing is made from highquality vinyl material that is durable and longlasting. It comes with adjustable ropes that make it easy to adjust the swing height to suit the user's preferences. The swing is an essential tool in sensory integration therapy which is a type of therapy that helps individuals with sensory processing issues to improve their ability to receive and respond to sensory information. The Platform Swing Deluxe Quality can be used both indoors and outdoors and it provides a fun and safe way for individuals to improve their balance coordination and spatial awareness. It is also a great way to relax and have fun with friends and family. Specifications: Specification Details Size 24 inches wide and 36 inches long Capacity Accommodates up to 2 people Material Highquality durable vinyl Color Vibrant blue Adjustable Ropes Easily customize the swing height
-  Updated: 2026-03-14T08:17:04Z
+- [PLATEFORM SWING](https://physiorehabequipment.com/products/plateform-swing): Platform Swing with spacious seat for sensory therapy & balance training. Durable design for clinics & schools.
+  Updated: 2026-03-25T13:16:33Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -371,8 +371,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/TUBESWING1.jpg?v=1758298736
   Price: ₹4,800.00 INR
-- [TYRE SWING](https://physiorehabequipment.com/products/tyre-swing): Key Features: Sturdy & Safe: Made from reinforced, recycled rubber with smooth edges for safe swinging Heavy-Duty Ropes/Chains: High-quality suspension ropes or galvanized chains ensure strength and stability Weather-Resistant Finish: Designed to withstand outdoor elements – no cracking, fading, or rusting Comfortable Seating: Rounded and contoured for a secure yet comfortable swing experience Easy to Install: Can be hung from a tree, swing set, or sturdy overhead support\ Ideal For: Home backyards Schools and playgrounds Occupational therapy centers Sensory integration and balance training Let kids swing, spin, and soar with the Deluxe Tyre Swing – where play meets safety and durability!
-  Updated: 2026-03-14T08:17:05Z
+- [TYRE SWING](https://physiorehabequipment.com/products/tyre-swing): Tyre Swing made from reinforced rubber with heavy-duty ropes. Safe, weather-resistant & ideal for sensory play.
+  Updated: 2026-03-25T13:18:25Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -385,15 +385,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/ACTIVITYMATTRESSFOROCCUPATIONALTHERAPY1.jpg?v=1773222314
   Price: ₹4,199.00 INR
-- [ANKLE EXERCISER](https://physiorehabequipment.com/products/ankle-exerciser): Product Overview The ankle exerciser is a powerful tool for maintaining regular foot movement. It features an aluminum boot with a strap, positioning your foot at the correct angle. Mounted on a laminated base, it allows you to stand straight without bending your knees. Equipped with two springs at the base, it is specially designed to enhance ankle mobility. Through resisted dorsi-flexion and plantar-flexion workouts, the device becomes a true game-changer in rehabilitation and recovery. Whether you are recovering from an injury or facing long-term disability, this tool is highly recommended across ages by clinicians and physiotherapists alike. Key Features Allows Better FlexionMaintains regular flexion of the feet at a consistent 90-degree angle Increases MobilityImproves the range of motion through consistent, gentle exercises Safe to UseUser-friendly and hassle-free, promoting a return to normal activity Doctor RecommendedWidely prescribed by  professionals for ankle mobility training Universal ApplicationSuitable for patients of all ages and genders
-  Updated: 2026-03-14T08:17:05Z
+- [ANKLE EXERCISER](https://physiorehabequipment.com/products/ankle-exerciser): Ankle Exerciser with aluminum boot & spring resistance. Supports ankle mobility & strengthening therapy.
+  Updated: 2026-03-25T12:48:25Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/ANKLEEXERCISER1.jpg?v=1773222326
   Price: ₹1,899.00 INR
-- [Heel Exerciser with Wooden Base](https://physiorehabequipment.com/products/heel-exerciser-with-wooden-base): Product Description The Heel Exerciser is especially beneficial for individuals with weaker superior extremity muscles around the heel and ankle. Designed with thoughtful engineering, it allows users to strengthen their heel muscles effectively, even while sitting. Its laminated wooden base ensures durability and a snug fit, allowing for repetitive, comfortable use. Whether used during home physiotherapy or as part of a daily exercise routine, this tool is built for long-lasting performance and versatility. Key Features Laminated Wooden BaseProvides sturdy support and long-term durability. Versatile UsabilityCan be used comfortably in both active and seated positions, making it ideal for home-based therapy or rehabilitation routines. Excellent Value for MoneyA budget-friendly yet effective tool for daily therapy and strengthening exercises. High-Performance DesignConstructed using premium components that enhance its therapeutic value, ensuring a seamless and reliable user experience. Ideal For Individuals with heel and Achilles tendon weakness Physiotherapy clinics and rehabilitation centers Home exercise and elderly care routines Pain relief and mobility support for heel-related conditions
-  Updated: 2026-03-14T08:17:05Z
+- [Heel Exerciser with Wooden Base](https://physiorehabequipment.com/products/heel-exerciser-with-wooden-base): Heel Exerciser with Wooden Base for strengthening heel & ankle muscles. Durable design for seated rehab exercises.
+  Updated: 2026-03-25T12:17:57Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -406,8 +406,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/MULTI-ACTIVITIESWORKSTATION_UPPEREXTREMITIES_1.jpg?v=1758297799
   Price: ₹40,000.00 INR
-- [HAND GYM KIT BOARD](https://physiorehabequipment.com/products/hand-gym-kit-board): Key Specifications Premium QualityMade from high-grade materials to ensure long-lasting use and consistent performance. Versatile KitIncludes a variety of hand and finger exercise tools, offering a full range of motion exercises. Ergonomic DesignAll components are designed with comfort in mind for a smooth and supportive therapy experience. Suitable for All AgesIdeal for children, adults, and seniors in need of strengthening or rehabilitation. PortableLightweight and compact—perfect for travel or mobile therapy sessions.
-  Updated: 2026-03-14T08:17:06Z
+- [HAND GYM KIT BOARD](https://physiorehabequipment.com/products/hand-gym-kit-board): Hand Gym Kit Board with versatile tools for grip strength & finger rehab. Durable design for clinical use.
+  Updated: 2026-03-25T12:21:53Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -420,29 +420,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/FINGERDEXTERITYTESTBOARD_100HOLESTWEEZERS_1.webp?v=1758217419
   Price: ₹2,500.00 INR
-- [DOOR LATCH BOARD](https://physiorehabequipment.com/products/door-latch-board): Key Features: Six Laminated Doors: The board features six different doors, each opening in unique directions to challenge and engage the user. Reward System: Each door opens into a shelf where a reward or toy can be placed, creating a motivating environment. Variety of Hardware: The doors are equipped with various types of common hardware typically found in the home, familiarizing the user with different latching mechanisms. Durable Construction: Made from high-quality materials, ensuring longevity and resistance to wear and tear. Applications: Ideal for therapeutic activities and occupational therapy. Helps in developing fine motor skills, dexterity, and hand strength. Suitable for both adults and children, particularly in rehabilitation and learning environments.
-  Updated: 2026-03-14T08:17:06Z
+- [DOOR LATCH BOARD](https://physiorehabequipment.com/products/door-latch-board): Door Latch Board with six functional doors to enhance motor skills & coordination. Ideal for occupational therapy.
+  Updated: 2026-03-25T12:40:35Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/DOORLATCHBOARD1.webp?v=1758217325
   Price: ₹4,699.00 INR
-- [Shoulder exerices Ladder](https://physiorehabequipment.com/products/shoulder-exerices-ladder): Product Description The working surface measures 18.5 inches wide x 23.5 inches high; constructed of durable Birch wood Can be adjusted to 3 different angles 70 degrees 65 degrees and 55 degrees Includes a 36 inch movable dowel rod; ladder can be folded down for easy storage Designed to increase a user's range of motion strength and flexibility Difficulty can be increased by adding a weighted cuff (not included) to the dowel rod
-  Updated: 2026-03-14T08:17:07Z
+- [Shoulder exerices Ladder](https://physiorehabequipment.com/products/shoulder-exerices-ladder): Shoulder Exercises Ladder with adjustable angles & movable dowel. Designed to improve shoulder mobility & ROM.
+  Updated: 2026-03-25T13:13:00Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/Shoulder_exerices_Ladder_1.webp?v=1758217244
   Price: ₹5,199.00 INR
-- [HAND EXERCISE BOARD (VELCRO)](https://physiorehabequipment.com/products/hand-exercise-board-velcro): Key Features Durable wooden construction for long-lasting use Velcro strips for secure and adjustable hand placement Ideal for rehabilitation and hand strength exercises Helps improve dexterity, flexibility, and grip strength Compact and portable, easy to store and carry Premium quality materials for a comfortable user experience
-  Updated: 2026-03-14T08:17:07Z
+- [HAND EXERCISE BOARD (VELCRO)](https://physiorehabequipment.com/products/hand-exercise-board-velcro): Hand Exercise Board Velcro with durable wood & secure straps. Ideal for improving grip strength, flexibility & hand rehab.
+  Updated: 2026-03-25T12:29:51Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/HANDEXERCISEBOARD_VELCRO_.1.webp?v=1758217115
   Price: ₹3,299.00 INR
-- [DEPTH PERCEPTION PEG BOARD SET](https://physiorehabequipment.com/products/depth-perception-peg-board-set): Product Features Dual-Level Coordination TrainingStimulates depth perception and eye-hand coordination through precise peg placement. Board Dimensions30 cm square board with 25 holes (each 12 mm in diameter). Included PegsComes with 20 chrome-plated solid iron rod pegs for therapeutic placement activities. Use CaseIdeal for fine motor training, rehabilitation exercises, and occupational therapy sessions.
-  Updated: 2026-03-14T08:17:07Z
+- [DEPTH PERCEPTION PEG BOARD SET](https://physiorehabequipment.com/products/depth-perception-peg-board-set): Depth Perception Peg Board Set to improve hand-eye coordination & motor skills. Ideal for therapy & rehab sessions.
+  Updated: 2026-03-25T12:19:06Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -455,36 +455,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/MAGNETICPEGBOARD_25METALPEGS_1.webp?v=1758216872
   Price: ₹6,499.00 INR
-- [BALANCE BOARD](https://physiorehabequipment.com/products/balance-board): Key Benefits Tones Muscles – Helps strengthen and tone various muscle groups Targets Multiple Muscle Groups – Engages core, legs, and stabilizing muscles simultaneously Portable and Lightweight – Easy to carry anywhere and use on the go Burns Calories – Increases energy expenditure, aiding in weight loss Activates Core and Legs – Enhances balance and posture while you stabilize Non-Slip Surface – Clear, textured adhesive on top prevents slipping Supports Fitness Goals – A reliable companion in your journey toward better health Key Features Builds muscle strength Aids in injury recovery Improves posture Enhances balance and stability Versatile usage – from rehab to full-body workouts Effective calorie burner Safe and efficient for daily use Non-slip grips for added safety Made from premium quality wood Ideal fitness equipment for all levels
-  Updated: 2026-03-14T08:17:07Z
+- [BALANCE BOARD](https://physiorehabequipment.com/products/balance-board): Balance Board for core strength, muscle toning & stability training. Lightweight & ideal for rehab workouts.
+  Updated: 2026-03-25T12:28:45Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/BALANCEBOARD1.webp?v=1773222326
   Price: ₹1,499.00 INR
-- [WOBBLE BOARD](https://physiorehabequipment.com/products/wobble-board): Key Features Material: Made from high-quality eucalyptus wood Finish: Sealed with an anti-humidity protective coating Base: Covered with corrugated rubber to provide grip and prevent slipping Use Level: Recommended for beginner and intermediate level balance training Exercise Benefit: Supports dynamic balance training, improves stabilization, and enhances proprioception Specifications Diameter: 20 inches Shape: Circular
-  Updated: 2026-03-14T08:17:08Z
+- [WOBBLE BOARD](https://physiorehabequipment.com/products/wobble-board): Wobble Board made from eucalyptus wood with anti-slip base. Supports balance training & core stability exercises.
+  Updated: 2026-03-25T13:12:13Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/WOBBLEBOARD1.webp?v=1758209154
   Price: ₹1,599.00 INR
-- [HAND TOOL TEST BOARD](https://physiorehabequipment.com/products/hand-tool-test-board): Product Description This test frame includes a set of standard mechanical tools and two vertical uprights fitted with bolts. The task requires the user to disassemble all bolts from one upright and reassemble them on the corresponding rows of the second upright, ensuring that the heads of the bolts face inward. This test challenges and enhances: Hand-eye coordination Tool-handling skills Fine motor control Speed and accuracy in mechanical assembly tasks It replicates the types of tasks commonly performed in automotive, manufacturing, and assembly line roles, making it an essential training tool for skill-building programs. Applications Industrial skill development Mechanical aptitude testing Vocational and technical training programs Occupational therapy and rehabilitation Factory and assembly line job preparation
-  Updated: 2026-03-14T08:17:08Z
+- [HAND TOOL TEST BOARD](https://physiorehabequipment.com/products/hand-tool-test-board): Hand Tool Test Board for coordination & mechanical skill training. Ideal for rehab therapy & motor skill improvement.
+  Updated: 2026-03-25T12:22:41Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/HANDTOOLTESTBOARD1.webp?v=1758209048
   Price: ₹2,899.00 INR
-- [FINGER PREHENSION DEVICE](https://physiorehabequipment.com/products/finger-prehension-device): Finger Perhension Board Heal, evaluate and develop finger dexterity with this 12"x12" Finger prehension device Four steel threaded rods from 1/4" to 3/4" offer a span of test possibilities Patient threads a large coupler from one end of a rod to the other & then progress to a smaller diameter
-  Updated: 2026-03-14T08:17:08Z
+- [FINGER PREHENSION DEVICE](https://physiorehabequipment.com/products/finger-prehension-device): Finger Prehension Device to improve dexterity & fine motor skills. Ideal for hand therapy & rehabilitation.
+  Updated: 2026-03-25T12:24:36Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/FINGERPREHENSIONDEVICE1.webp?v=1758208950
   Price: ₹3,499.00 INR
-- [FOOT PLACEMENT LADDER](https://physiorehabequipment.com/products/foot-placement-ladder): Key Features Balance Training AidEncourages early walking development and improves balance and posture. Adjustable DividersOffers flexibility in configuring various walking patterns. Alternating Step DesignSteps can be placed in equal or alternating patterns to simulate right-left progression, essential for walking training. Durable Wooden ConstructionBuilt to withstand frequent use in clinical and home environments. Customizable Therapy ToolSuitable for a range of walking and gait training exercises. Ideal For Pediatric physiotherapy Post-injury rehabilitation Gait training in elderly patients Balance and coordination exercises
-  Updated: 2026-03-14T08:17:08Z
+- [FOOT PLACEMENT LADDER](https://physiorehabequipment.com/products/foot-placement-ladder): Foot Placement Ladder for balance training & walking pattern development. Adjustable design for rehab therapy.
+  Updated: 2026-03-25T12:45:02Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -504,8 +504,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/NestedClimbingStoolFourSizes2_4_6_8InchHigh1.webp?v=1758131145
   Price: ₹6,499.00 INR
-- [QUADRICEPS BOARD](https://physiorehabequipment.com/products/quadriceps-board): Key Features: Material: Made of durable eucalyptus wood for a sturdy and reliable structure. Protection: Painted with an anti-humidity sealer to prevent moisture damage and ensure longevity. Convenience: Equipped with straps for added comfort and ease during exercises. Versatility: Suitable for use on a bed, mat platform, or  table, offering flexibility in exercise settings. Start exercising today with the Wooden Quadriceps Board and take a step toward better muscle strength and recovery!
-  Updated: 2026-03-14T08:17:09Z
+- [QUADRICEPS BOARD](https://physiorehabequipment.com/products/quadriceps-board): Quadriceps Board made from durable wood with straps. Ideal for strengthening exercises in physiotherapy rehab.
+  Updated: 2026-03-25T13:14:33Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -532,15 +532,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/NetTunnelforOccpuationalTherapy1.webp?v=1758130464
   Price: ₹2,200.00 INR
-- [Foam Blocks With Tunnel](https://physiorehabequipment.com/products/foam-blocks-with-tunnel): Foam Blocks with Tunnel are thoughtfully designed to harness this creativity, offering children a fun, safe, and engaging way to play. Whether used in early learning centers, therapy sessions, or home play areas, this modular setup encourages imaginative exploration, motor skill development, and social interaction. Key Benefits Encourages creative play and spatial awareness Enhances gross motor skills through crawling, climbing, and balancing Ideal for group activities, sensory exploration, and therapy settings Safe, lightweight, and easy to assemble or reposition Made from child-friendly foam with soft yet durable covers Suitable For Early childhood education centers Pediatric therapy or sensory rooms Indoor play zones at home or schools
-  Updated: 2026-03-14T08:17:10Z
+- [Foam Blocks With Tunnel](https://physiorehabequipment.com/products/foam-blocks-with-tunnel): Foam Blocks with Tunnel for sensory play & motor skill growth. Safe, durable & perfect for therapy sessions.
+  Updated: 2026-03-25T12:46:10Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/FoamBlocksWithTunnel1.webp?v=1758130224
   Price: ₹25,999.00 INR
-- [BOLSTER ROLLER](https://physiorehabequipment.com/products/bolster-roller): Specifications Material: High-Density PU Foam Core Outer Cover: Easy-clean, water-resistant, and durable synthetic leather Shape: Cylindrical Colors: Blue with support strap Available Sizes: 6 inch × 12 inch 6 inch × 18 inch 7 inch × 24 inch 8 inch × 30 inch 8 inch × 36 inch Weight: Varies by size Made For: Physiotherapy clinics, home rehab, fitness studios, yoga practitioners How to Use For Spine Alignment: Place the roller lengthwise along your spine and gently lie on it to improve posture. For Stretching: Use it under knees, ankles, or back to support static or dynamic stretches. In Physiotherapy: Assists in exercises for stroke rehab, orthopedic recovery, or neurological therapy. Yoga Practice: Use as a prop for backbends, chest openers, or restorative poses. Core Training: Incorporate into pilates and core strengthening routines. Precautions Always use under guidance of a  or fitness professional, especially post-injury or surgery. Avoid standing or jumping on the bolster. Place on a non-slip surface during use to avoid sliding. Clean only with a damp cloth; do not machine wash. Keep away from direct sunlight and sharp objects to maintain cover life.
-  Updated: 2026-03-14T08:17:10Z
+- [BOLSTER ROLLER](https://physiorehabequipment.com/products/bolster-roller): High-density Bolster Roller with PU foam core & washable cover. Perfect for physiotherapy support & positioning exercises.
+  Updated: 2026-03-25T12:09:02Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -581,8 +581,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/PyramidSquareMultiColor_10PIECES_1_be8cb1c2-0164-4f63-96d6-fc57d2df5c66.webp?v=1758129411
   Price: ₹2,999.00 INR
-- [Wedges for Occupational Therapy](https://physiorehabequipment.com/products/wedges-for-occupational-therapy): Key Features Diverse Range: Available in various sizes and angles. High-Quality Materials: Made from durable, easy-to-clean foam or other materials. Non-Slip Design: Ensures stability and safety during therapy. Versatile Applications: Aid in posture control, balance, and therapeutic exercises. Ideal for All Ages: Suitable for pediatric and  therapy sessions.
-  Updated: 2026-03-14T08:17:11Z
+- [Wedges for Occupational Therapy](https://physiorehabequipment.com/products/wedges-for-occupational-therapy): Wedges for Occupational Therapy to improve posture, balance & positioning. Durable, non-slip & easy to clean.
+  Updated: 2026-03-25T13:06:08Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -596,8 +596,8 @@
   - [Large](https://physiorehabequipment.com/products/wedges-for-occupational-therapy?variant=46922168434862)
     Availability: Available
     Price: ₹5,499.00 INR
-- [Z- TROLLEY](https://physiorehabequipment.com/products/z-trolley): Key Benefits of the Z Trolley Stable Metal Structure – Provides a load capacity of 30 kg, ensuring long-lasting durability and reliability. Waterproof and Wear-Resistant – Because of its premium finish, the trolley is easy to clean, resistant to water, fading, and daily wear. Unique Z-Shape Design – In addition to stability, this modern design adds a sleek and professional aesthetic to any workspace. Movable with 4 Wheels – Easily relocate the trolley whenever needed, without any hassle. Contemporary Desk Style – Crafted with high-quality materials, it balances functionality with elegance. Optimum Finish – Delivers a smooth and refined surface, enhancing its professional appeal. Longer Service Life – Built to last for years with minimal maintenance required. Rust-Free – Specially coated to prevent rust, keeping the trolley looking new over time. Key Features Optimum Finish Low Maintenance Longer Service Life Easy to Use No Rust Attack Convenient and Attractive Design Sturdy and Durable Cost-Effective
-  Updated: 2026-03-14T08:17:11Z
+- [Z- TROLLEY](https://physiorehabequipment.com/products/z-trolley): Strong Z Trolley with 30kg load capacity, waterproof finish & unique Z-shape design. Ideal for clinics &  storage.
+  Updated: 2026-03-25T12:08:13Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -610,8 +610,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/WEIGHTCUFFSET_0.5_1_2_3KG_2.webp?v=1758131700
   Price: ₹2,999.00 INR
-- [ BALL](https://physiorehabequipment.com/products/-ball): Key Benefits Upper and Lower Body Workouts: Ideal for a range of exercises targeting both upper and lower body Core Strength: Helps develop core strength, balance, and coordination Sturdy Construction: Made of durable rubber that can bounce off hard surfaces Superior Grip: Textured finish provides an excellent grip during intense workouts Versatile: Perfect for use at home or in a gym setting
-  Updated: 2026-03-14T08:17:12Z
+- [ BALL](https://physiorehabequipment.com/products/-ball): Buy durable  ball for core strength, balance & full-body workouts. Textured grip, sturdy rubber build & ideal for rehab training.
+  Updated: 2026-03-25T11:53:56Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -659,15 +659,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/POWERWEB14INCH1.webp?v=1758127526
   Price: ₹2,399.00 INR
-- [Finger Exerciser](https://physiorehabequipment.com/products/finger-exerciser): Key Benefits Long-Term DurabilityCrafted with a metal base for extended, reliable use. Ergonomic & User-FriendlyDesigned for easy handling and suitable for users of all ages. Targeted Pain ReliefAlleviates finger, wrist, and hand pain caused by repetitive strain or muscular injuries. Customizable ResistanceUsers can adjust spring points to control pressure levels for progressive training. Premium Build QualityMade from superior materials to ensure safe and effective rehabilitation. Portable & LightweightCompact design makes it easy to carry—ideal for use at home, in clinics, or while traveling. Ideal For Individuals with carpal tunnel syndrome Patients recovering from wrist or hand surgery Athletes and musicians looking to improve grip strength Office workers experiencing RSI (Repetitive Strain Injury) Use in physiotherapy centers and home rehabilitation routines
-  Updated: 2026-03-14T08:17:12Z
+- [Finger Exerciser](https://physiorehabequipment.com/products/finger-exerciser): Finger Exerciser with adjustable resistance for hand strength & pain relief. Durable design for rehab use.
+  Updated: 2026-03-25T12:47:17Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/Finger_Exerciser_1.png?v=1758388008
   Price: ₹699.00 INR
-- [Wooden Dumbbell Stand (Without Dumbells)](https://physiorehabequipment.com/products/wooden-dumbbell-stand-without-dumbells): Key Features: Sturdy Wooden Frame: Made from 12mm ply, ensuring durability and long-lasting use. Efficient Storage: Helps organize dumbbells in a tidy manner, keeping your workout area clean and clutter-free. Elegant Design: The sleek wooden finish adds an aesthetic appeal to your home or gym. Space-Saving: Compact design makes it ideal for small spaces, whether at home or in a gym setting. Easy Assembly: Simple to set up, providing quick storage solutions for your equipment. Ideal For: Home Gyms: Keeps your dumbbells organized and within reach. Fitness Centers: Offers a professional storage option for gym equipment. Personal Workouts: Perfect for keeping your workout area neat and tidy.
-  Updated: 2026-03-14T08:17:13Z
+- [Wooden Dumbbell Stand (Without Dumbells)](https://physiorehabequipment.com/products/wooden-dumbbell-stand-without-dumbells): Wooden Dumbbell Stand Without Dumbbells made from durable ply. Organize your gym space with compact storage.
+  Updated: 2026-03-25T13:01:03Z
   Vendor: Physio Rehab Equipments
   Product Type: 
   Availability: Available
@@ -715,8 +715,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/WhatsAppImage2025-11-01at10.53.34PM.jpg?v=1762018062
   Price: ₹2,649.00 INR
-- [Physiotherapy CPM Machine for knee Rehabilitation after knee surgery (Continuous Passive Motion) with 1 year warranty](https://physiorehabequipment.com/products/physiotherapy-cpm-machine-for-knee-rehabilitation-after-knee-surgery-continuous-passive-motion-with-1-year-warranty): Effective Post-Surgical Rehabilitation for Knees and Joints The CPM Machine is a vital rehabilitation tool designed for post-operative recovery. Therefore, it offers pain-free joint movement therapy for patients recovering from knee surgery, joint replacement, or those experiencing limited mobility. Moreover, it is ideal for use in physiotherapy clinics, home visits, and hospitals, since it supports a smooth and safe path to recovery. In fact, it combines convenience with  efficiency, making it a trusted choice for rehabilitation. Accelerates Recovery – Consequently, it improves joint mobility and prevents post-surgical stiffness. Reduces Pain and Swelling – As a result, patients experience smooth, controlled motion without strain on healing joints. Customizable  Plans – In addition, the adjustable angle control from 0° to 120° meets varying patient needs. Portable and Lightweight – Furthermore, weighing only 10 kg, it is easy to carry for home visits and clinical use. Safe and Comfortable – Finally, it features a built-in safety switch and cushioned leg rest for maximum patient comfort. Ideal For Hospitals & Rehabilitation Centers – Thus, it enhances post-operative recovery protocols and improves patient outcomes. Physiotherapy Clinics – Moreover, it provides advanced recovery support that complements professional therapy sessions. Home  Providers – In fact, it is easy to transport and reliable for in-home care, offering patients consistent  at home. Technical Specifications In addition to its practical design, the CPM Machine includes the following technical details: Feature Details Operational Voltage 220V, 50Hz Angle Control Adjustable from 0° to 110° Hold Time Adjustable from 0 to 10 seconds Rest Time Adjustable from 0 to 10 seconds Weight 10 kg Dimensions 320 mm x 335 mm x 150 mm Warranty 12 months
-  Updated: 2026-03-14T08:17:14Z
+- [Physiotherapy CPM Machine for knee Rehabilitation after knee surgery (Continuous Passive Motion) with 1 year warranty](https://physiorehabequipment.com/products/physiotherapy-cpm-machine-for-knee-rehabilitation-after-knee-surgery-continuous-passive-motion-with-1-year-warranty): Advanced Physiotherapy CPM Machine for knee rehab after surgery. Ensures smooth joint motion & faster recovery with 1-year warranty.
+  Updated: 2026-03-25T12:10:00Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -751,7 +751,7 @@
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/WhatsAppImage2025-11-02at12.14.13AM-Photoroom.png?v=1762022776
   Price: ₹3,649.00 INR
 - [Digital Cervical and Lumbar Traction with 1 year warranty](https://physiorehabequipment.com/products/digital-cervical-and-lumbar-traction-with-1-year-warranty): Key Benefits Memory Function Store up to 30  patterns in nonvolatile memory Adjustable Traction Force 5 kg to 60 kg up to 90 kg with a dabbler pulley Custom Hold Time 0 to 99 seconds traction and base hold time  Timer Adjustable from 0 to 99 minutes with an alert and automatic force reduction Digital LED Display Shows traction force base force hold time  time and mode graph Auto Tension Adjustment Ensures the set force is maintained throughout therapy Patient Safety Comes with a handheld Patient Stop Switch for emergency use. Technical Specifications Hold Time Electronic 10 20 40 60 80 sec Rotary adjustment Rest Time 1 5 10 20 25 sec Rotary adjustment Timer 0 to 99 min continuous adjustment Therapy Modes Static Intermittent Tension Weight 5 to 60 kg up to 90 kg with dabbler pulley Power Supply 220240 V AC use with stabilizer for safety. Key Features CostEffective solution for traction therapy HighQuality build with reliable performance LED Display for realtime  monitoring Time Display for easy control Multiple Modes Static and Intermittent Dual Purpose Suitable for Cervical and Lumbar Traction Electric Operation for hasslefree use 6Month Warranty for peace of mind UserFriendly Design for smooth operation
-  Updated: 2026-03-14T08:17:15Z
+  Updated: 2026-03-21T22:07:47Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -828,8 +828,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/ift-45-program-digital-with-1-year-warranty-5260658.png?v=1773172570
   Price: ₹9,849.00 INR
-- [Physio Studio Machine 6 in 1 IFT MS TENS Russian Ultrasonic Laser Deep Heat with 1 Year Warranty](https://physiorehabequipment.com/products/physio-studio-machine-6-in-1-ift-ms-tens-russian-ultrasonic-laser-deep-heat-with-1-year-warranty): Product Description Experience comprehensive electrotherapy with the Physio Studio 6in1 machine combining IFT MS TENS deep heat ultrasound and laser therapies. Crafted with precision it boasts a fiber body lightweight design and a sophisticated LCD for ultrasound programs. Features: Versatile Therapy Offers IFT MS TENS deep heat ultrasound and laser therapies Efficient Pain Management Designed for joint muscle and nerve pain relief Rehabilitation Support Aids in muscle reeducation and relaxation Targeted Relief Ideal for shoulder hip knee acute and chronic pain UserFriendly Design Lightweight userfriendly and visually appealing
-  Updated: 2026-03-14T08:17:17Z
+- [Physio Studio Machine 6 in 1 IFT MS TENS Russian Ultrasonic Laser Deep Heat with 1 Year Warranty](https://physiorehabequipment.com/products/physio-studio-machine-6-in-1-ift-ms-tens-russian-ultrasonic-laser-deep-heat-with-1-year-warranty): Physio Studio Machine 6 in 1 with IFT, MS, TENS, ultrasound & laser therapy. Complete electrotherapy solution with warranty.
+  Updated: 2026-03-25T12:11:49Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -856,8 +856,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/longwave-diathermy-physiotherapy-equipment-with-1-year-warranty-5352064.jpg?v=1773172571
   Price: ₹15,499.00 INR
-- [Hydrocollator Machine Delux](https://physiorehabequipment.com/products/hydrocollator-machine-delux): Hydrocollator Machine Deluxe – Hot Therapy for Joint Pain Relief Say goodbye to joint pain and discomfort with the Hydrocollator Machine Deluxe. Built from high-quality steel, this durable and long-lasting device delivers consistent and effective hot therapy, making it ideal for relieving joint stiffness, chronic pain, and muscle tension. Whether used at home or in a clinical setting, it's specially designed to offer reliable, -oriented therapeutic heat . Key Features Size Variants: Available in 4 Pack and 8 Pack configurations depending on your clinical or personal needs.  Use Design: Tailored for adults to support joint and muscle pain therapy effectively. Steel Construction: High-quality steel build ensures long-term durability. Reliable Heat Application: Ensures even and consistent heating for safe and effective . Portable Design: Easy to move and use, ideal for both home and professional environments.
-  Updated: 2026-03-14T08:17:18Z
+- [Hydrocollator Machine Delux](https://physiorehabequipment.com/products/hydrocollator-machine-delux): Hydrocollator Machine Delux for effective hot therapy. Relieves joint pain, stiffness & supports physiotherapy care.
+  Updated: 2026-03-25T13:04:24Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -889,8 +889,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/Pedo_Cycle_Digital_mini_pedal_exerciser_front_view_with_LCD.webp?v=1762031152
   Price: ₹1,799.00 INR
-- [ Skull Model Life Size](https://physiorehabequipment.com/products/-skull-model-life-size): Perfect for  classrooms, clinics, and physiotherapy demonstrations, this model features color-coded vertebrae for easy identification and enhanced understanding of spinal anatomy. Key Features Color-Coded Segments Each section of the spine is distinctly colored to enhance educational value and visibility from a distance. Realistic Vertebral Count Includes all key components: cervical (7), thoracic (12), lumbar (5), sacrum, and coccyx. Highly Flexible Design Demonstrates natural spine movement, helping explain posture, injury mechanisms, and alignment. Classroom & Clinic Ready An excellent tool for anatomy lessons and patient education in orthopedic or chiropractic settings. Benefits Makes spinal anatomy easy to understand with color segmentation Helps instructors clearly explain vertebral structure and function Enhances visual learning in classrooms and training environments Flexible enough to demonstrate motion without breaking or cracking
-  Updated: 2026-03-14T08:17:19Z
+- [ Skull Model Life Size](https://physiorehabequipment.com/products/-skull-model-life-size):  Skull Model Life Size with detailed anatomy. Perfect educational tool for  classrooms & clinics.
+  Updated: 2026-03-25T12:15:40Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -952,8 +952,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/Diseased_Hemorrohids_Anatomy_Education_Model.webp?v=1762033133
   Price: ₹2,299.00 INR
-- [Deluxe Brain Model 8 Parts](https://physiorehabequipment.com/products/deluxe-brain-model-8-parts): This life-size model of a human brain is an excellent tool for  training and educational purposes. The model is anatomically accurate and can be divided in the medial plane along the longitudinal fissure for detailed study. It is made up of 8 parts: Frontal and Parietal Lobes, the Brain Stem, the Cerebellum, and the Basilar Artery. The model also shows the arterial blood supply and important anatomical structures in great detail, all displayed on a base tray. Product Specifications: Size: Life Size Material: PVC Usage:  Training
-  Updated: 2026-03-14T08:17:21Z
+- [Deluxe Brain Model 8 Parts](https://physiorehabequipment.com/products/deluxe-brain-model-8-parts): Deluxe Brain Model 8 Parts with accurate anatomy for  education & detailed neurological study.
+  Updated: 2026-03-25T12:26:54Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -980,8 +980,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/human-skull-model.webp?v=1762033566
   Price: ₹2,999.00 INR
-- [ Skull Model Colored](https://physiorehabequipment.com/products/-skull-model-colored): The Life-Sized Colored Skull Model is an essential anatomical study tool designed for in-depth learning of human skull anatomy. Featuring realistic coloring, this model allows for a clear understanding of the relationship and position of all skull structures. The skullcap is removable, offering a detailed internal view, and the articulated mandible can be detached for additional study, making this model an invaluable asset for  students, professionals, and educators in various health-related fields. Realistic Coloring: Enhances visibility of anatomical structures for effective study. Removable Skullcap & Mandible: Facilitates examination of the internal skull features and further study of jaw mechanics. Life-Sized Model: Accurately represents the human skull to ensure realistic learning experiences. Durable & High-Quality Material: Made from strong, long-lasting plastic, ideal for continuous use in classrooms and professional settings. Versatile Educational Tool: Perfect for  education, dental training, and patient demonstrations, making it an excellent tool for students and professionals alike. Product Specifications: Size: 20 × 13.5 × 15.5 cm Weight: 0.6 kg (lightweight and portable) Material: High-quality, durable plastic Usage: Ideal for classroom teaching,  demonstrations, and patient education.
-  Updated: 2026-03-14T08:17:22Z
+- [ Skull Model Colored](https://physiorehabequipment.com/products/-skull-model-colored):  Skull Model Colored with removable skullcap & realistic detailing. Perfect for anatomical study & training.
+  Updated: 2026-03-25T12:39:43Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -1022,8 +1022,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/hand-joint-with-ligaments-model.webp?v=1766497231
   Price: ₹1,899.00 INR
-- [Giant Ear Model Delux Model](https://physiorehabequipment.com/products/giant-ear-model-delux-model): Giant Ear Model Deluxe – Detailed Ear Anatomy for Educational Use The Giant Ear Model Deluxe is an essential tool for teaching and understanding the anatomy of the human ear. This anatomically accurate model is designed to demonstrate the outer, middle, and inner ear structures in great detail. Key Features: Detailed Anatomy: Demonstrates the three main structural parts of the ear: outer ear, middle ear, and inner ear, providing a comprehensive view of ear anatomy. Dissectible Design: The model can be dissected into 6 parts, allowing for in-depth study of each section of the ear and its components. High-Quality Material: Made of durable PVC plastic, ensuring longevity and ease of handling in educational settings. Realistic Size: The model measures 33x 15x 23 cm, providing a life-sized view for a better understanding of the ear’s structure. Specifications: Material: PVC Plastic Size: 33 x 15 x 23 cm Parts: Dissectible into 6 parts
-  Updated: 2026-03-14T08:17:24Z
+- [Giant Ear Model Delux Model](https://physiorehabequipment.com/products/giant-ear-model-delux-model): Giant Ear Model Delux Model with detailed outer, middle & inner ear anatomy. Perfect for classroom demonstrations.
+  Updated: 2026-03-25T12:27:41Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -1092,15 +1092,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/female_urogenital_medical_1.webp?v=1766499000
   Price: ₹3,449.00 INR
-- [Lung Pathological Model](https://physiorehabequipment.com/products/lung-pathological-model): Product Description Set of two life-size, two-sided lung anatomy models, featuring 4 cutaway sections. The lung pathology model illustrates normal anatomy compared to a diseased lung. The effects of COPD (Chronic Obstructive Pulmonary Disease), lung cancer, and asthma are demonstrated on the lung model and in the key card included. Key Features Material: Made of high-quality PVC material. Color: Natural color for a realistic appearance. Type: Pathological model, perfect for illustrating lung diseases. Set Includes: Two life-size, two-sided lung anatomy models, featuring 4 cutaway sections, and an educational card explaining lung pathologies. Pathologies Demonstrated: COPD, lung cancer, and asthma effects are shown on the model and explained in the included key card. Ideal for Patient Education: Designed to aid in educating patients about lung diseases and for  professionals to use in teaching. Included Base: The model comes with a base for easy display and observation.
-  Updated: 2026-03-14T08:17:27Z
+- [Lung Pathological Model](https://physiorehabequipment.com/products/lung-pathological-model): Lung Pathological Model showing normal vs diseased lungs. Ideal for  training & respiratory education.
+  Updated: 2026-03-25T13:11:10Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/lung_pathological_model.webp?v=1766499413
   Price: ₹8,499.00 INR
-- [New Born Neonate Intubation Training Model](https://physiorehabequipment.com/products/new-born-neonate-intubation-training-model): Realistic anatomy of neonate Oral and nasal intubation Life like material Directly observe the expansion of lungs and stomach by insufflating air into the tube and stomach so as to verify if the tube position is right
-  Updated: 2026-03-14T08:17:27Z
+- [New Born Neonate Intubation Training Model](https://physiorehabequipment.com/products/new-born-neonate-intubation-training-model): New Born Neonate Intubation Training Model with realistic anatomy. Ideal for neonatal airway management practice.
+  Updated: 2026-03-25T13:03:27Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -1127,8 +1127,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/professional--training-manikin-with-cpr-monitor-3600652.webp?v=1773172571
   Price: ₹31,999.00 INR
-- [Prestan Infant CPR Manikin with Rate Monitor](https://physiorehabequipment.com/products/prestan-infant-cpr-manikin-with-rate-monitor): Product Description This infant CPR training manikin features sculpted body contours and a realistic skin feel to help students prepare for real-life rescue scenarios. Its lightweight design and simple setup make it ideal for classroom and field training. Product Key Features Realistic body contours and skin texture for lifelike training Lightweight with fast and simple setup CPR Rate Monitor provides instant rate and depth feedback for instructors and students Easy-to-insert lung bag speeds up manikin setup Simulates realistic infant head movement Tiltable head demonstrates proper airway opening techniques Audible click confirms correct compression depth AHA and ARC  Resistant to dirt, grime, and grease
-  Updated: 2026-03-14T08:17:28Z
+- [Prestan Infant CPR Manikin with Rate Monitor](https://physiorehabequipment.com/products/prestan-infant-cpr-manikin-with-rate-monitor): Prestan Infant CPR Manikin with Rate Monitor for realistic CPR training. Ideal for classrooms &  practice.
+  Updated: 2026-03-25T13:02:17Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -1155,20 +1155,34 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/multifunctional-female-nursing-manikin-500x500.webp?v=1766501041
   Price: ₹13,499.00 INR
-- [Model of the Ovaries](https://physiorehabequipment.com/products/model-of-the-ovaries): Ovarian Model for Reproductive Education Specifications: Material: PVC Type: Anatomical Model Color: Natural Key Features: Lifelike Representation: Accurately depicts the size, shape, and position of ovaries. Educational Tool: Ideal for teaching reproductive biology and gynecology. Size: Life-sized for detailed examination and learning. Versatile Use: Suitable for  training, patient education, and clinical presentations. Detailed Description: Consists of 8 parts, mounted on a stand. The model shows the ovary, primary and secondary ovarian follicles, ovium, ovulation, ovum, corpus luteum, and corpus albicans. It demonstrates the procedure of ovum’s development. The model shows 10 positions and is made of advanced PVC material.
-  Updated: 2026-03-14T08:17:29Z
+- [Model of the Ovaries](https://physiorehabequipment.com/products/model-of-the-ovaries): Life-size Model of the Ovaries made from durable PVC. Ideal anatomical tool for reproductive education & gynecology training.
+  Updated: 2026-03-25T12:05:57Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/model_of_ovaries.webp?v=1766501393
   Price: ₹21,999.00 INR
-- [Gynecological Model F30S](https://physiorehabequipment.com/products/gynecological-model-f30s): Gynecological Model F30S – Ideal for  Training & Education The Gynecological Model F30S is a high-quality, realistic training tool that provides hands-on practice for  students, educators, and  professionals. This model is specifically designed to enhance learning and proficiency in gynecological procedures, making it an essential asset for  training in gynecology. Key Features: Palpation Practice: Simulates both normal and pregnant uterus palpation for comprehensive training. Comprehensive Pelvic Examination: Supports bi-manual and tri-manual techniques, allowing practitioners to practice pelvic examinations accurately. Contraceptive Training: Enables the practice of inserting and removing contraceptive devices and instruments. Detailed Anatomical Structure: Observes the uterus, ovaries, fallopian tubes, and ligaments in great detail, enhancing anatomical understanding. Specifications: Model Name: Gynecological Model F30S Material: (Not specified) Size: (Not mentioned) Usage: Ideal for Educational and Training Purposes in  schools, hospitals, and clinics.
-  Updated: 2026-03-14T08:17:29Z
+- [Gynecological Model F30S](https://physiorehabequipment.com/products/gynecological-model-f30s): Gynecological Model F30S for realistic  training. Ideal for students & professionals to practice clinical procedures.
+  Updated: 2026-03-25T12:11:03Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/gynecological_model_1.webp?v=1766501767
   Price: ₹73,599.00 INR
+- [G 5 Full Body Massager Sliming Beauty Machine](https://physiorehabequipment.com/products/g-5-full-body-massager-sliming-beauty-machine): G5 Vibration Massager Machine High-Frequency Therapy for Slimming & Pain Relief The G5 Vibration Massager Machine is a professional-grade high-frequency physical therapy device designed to deliver deep tissue vibration massage. Commonly used in physiotherapy clinics, slimming centers, and beauty salons, it offers powerful muscle stimulation, effective body contouring, and comprehensive relaxation. With interchangeable massage heads and adjustable intensity settings, the G5 machine is ideal for fat reduction, blood circulation improvement, muscle recovery, and lymphatic drainage. Key Benefits Assists in body slimming and contouring Promotes blood circulation and oxygen flow Relaxes muscles and reduces postural fatigue Supports nervous system balance and stress relief Helps regulate endocrine function Alleviates muscle soreness and fatigue How to Use Plug in and turn on the machine. Select and attach the desired massage head. Adjust speed or intensity using the control panel. Gently move the applicator in circular or linear motions over the target area. Use for 10–20 minutes per session depending on your therapy goal.
+  Updated: 2026-03-22T14:45:29Z
+  Vendor: #1 Physio Rehab Equipments Supplier in India
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/g-5-full-body-massager-sliming-beauty-machine-1038900.webp?v=1773172572
+  Price: ₹15,299.00 INR
+- [Wooden Examination Table for Clinic Physio Use](https://physiorehabequipment.com/products/wooden-examination-table-for-clinic-physio-use): An examination table plays an important role in every clinic and physiotherapy setup. It helps keep patients safe during checkups while also supporting proper body position during  and therapy. Because patient safety matters, choosing the right table becomes important. Therefore, this Wooden Examination Table for Clinic | Physio Use is made for strength and comfort. Moreover, it works well as a physio  table wooden design and also as a dependable wooden therapy table for clinics, hospitals, and supervised home care. Product Overview This examination table wooden model comes with a strong wooden frame that provides steady support during use. As a result, patient movement stays controlled and safe. Also, the flat surface offers comfort during exams and therapy. Because of this balanced design, daily checkups become easier. At the same time, physiotherapy sessions remain stable. Therefore, this wooden examination table for clinic use works smoothly as a physio  table wooden unit and a multi-purpose wooden therapy table. Key Features / Highlights Feature Description Table Type Examination table for clinics and physiotherapy Frame Material Solid wooden construction Surface Design Flat surface for patient comfort Stability Firm structure for safe use Clinical Use Suitable for OPD, physio, and rehab Maintenance Easy to clean and maintain Daily Usage Designed for regular professional use Appearance Clean wooden finish for  rooms Benefits for Different Users Doctors and Physiotherapists First of all, it provides a stable examination table for clear .Also, it works smoothly as a physio  table wooden option during therapy.At the same time, it supports safe patient movement and positioning.Therefore,  sessions remain controlled and efficient. Hospitals and Clinics To begin with, the strong wooden structure reduces repair and replacement needs.Moreover, one examination table can be used as both an exam table and a wooden therapy table.In addition, easy cleaning supports daily hygiene routines.As a result, the professional look improves patient confidence. Home and Rehabilitation Users Firstly, it allows clinic-style therapy at home under supervision.Also, it functions well as a physio  table wooden setup.Because of its stable build, supervised use stays safe.Finally, it offers comfort for long-term recovery sessions.
+  Updated: 2026-03-22T14:45:07Z
+  Vendor: #1 Physio Rehab Equipments Supplier in India
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/wooden-examination-table-for-clinic-physio-use-7989484.webp?v=1773172569
+  Price: ₹12,799.00 INR
 - [Table Top Pulseoximeter for use in Clinics and Hospitals](https://physiorehabequipment.com/products/table-top-pulseoximeter-for-use-in-clinics-and-hospitals): Product description 70A Pulse Oximeter adopts Photoelectric Oxyhemoglobin Inspection Technology integrated with Capacity Pulse Scanning & Recording Technology, which can be used to measure human oxygen saturation and pulse rate through finger. The device is suitable for use in family, hospital, oxygen bar, community  and physical care in sports, etc. (It can be used before or after exercise, but not recommended to use during exercising). Product Details:- SpO2 value display Pulse rate value display, bar graph display PI value display Pulse waveform display Battery power display Low-power indication: low-power indication symbol appears before working abnormity which is due to low-power. Review function Screen brightness can be adjusted Volume can be adjusted Display mode can be adjusted Pulse sound indication With alarm function,the patient could set alarm limit. With real-time data uploading function. With clock function With two kinds of power supply mode(alternating current and internal electrical power source)
   Updated: 2026-03-14T08:17:31Z
   Vendor: Physio Rehab Equipments
@@ -1379,37 +1393,44 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/advanced_adult_cpr1.webp?v=1773405283
   Price: ₹77,999.00 INR
-[List Continued](https://physiorehabequipment.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDQ2MTAxNTU3NDIyLCJsYXN0X3ZhbHVlIjoiOTA0NjEwMTU1NzQyMiJ9)
+- [Finger Ladder Shoulder Ladder for Hand Exercises](https://physiorehabequipment.com/products/finger-ladder-shoulder-ladder-for-hand-exercises): The finger ladder is a simple rehabilitation exercise tool. It is widely used in physiotherapy and recovery programs. This helps restore shoulder movement and reduce pain. The shoulder ladder is also known as a shoulder ladder. It supports controlled stretching exercises. It is suitable for clinics, hospitals, and home use. Introduction to Finger Ladder Therapy Limited shoulder movement affects daily activities. Pain and stiffness often develop after injury or illness. The shoulder ladder supports safe recovery. Frozen shoulder is a common condition. It causes stiffness and restricted movement. ladder exercises help improve flexibility. Regular finger ladder use supports gradual recovery. It allows slow and controlled motion. This reduces discomfort. Why Finger Ladder Exercises Are Important Shoulder joints need regular movement. Without exercise, stiffness increases.ladder exercises prevent this. The finger ladder promotes active participation. Patients control their movement. This improves confidence. Controlled movement reduces injury risk. The finger ladder supports safe stretching. Who Can Use a Ladder The finger ladder is suitable for many users. It is designed for rehabilitation support. Patients with frozen shoulder Patients after shoulder injury Stroke rehabilitation patients People with joint stiffness Physiotherapy patients Benefits of Ladder Exercises Improves Range of Motion The ladder helps improve joint flexibility. Each session increases movement. This supports daily activities Technical Specifications Specification Details Product Name Finger Ladder Also Known As Shoulder Ladder Application Shoulder and Hand Rehabilitation Exercise Type Range of Motion Exercises Height Adjustable Yes Usage Area Hospital, Clinic, Home
+  Updated: 2026-03-22T15:00:27Z
+  Vendor: #1 Physiotherapy Equipment Manufacturers & Suppliers in India
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/finger_ladder.webp?v=1774191560
+  Price: ₹649.00 INR
+[List Continued](https://physiorehabequipment.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDUxNzEwMzU3Njc4LCJsYXN0X3ZhbHVlIjoiOTA1MTcxMDM1NzY3OCJ9)
 
 ## Collections
 
-- [Latest Products](https://physiorehabequipment.com/collections/latest-products)
-  Updated: 2026-03-14T11:27:30Z
+- [Latest Products](https://physiorehabequipment.com/collections/latest-products): Browse our latest products in physiotherapy & rehabilitation equipment. Innovative, high-performance  solutions.
+  Updated: 2026-03-25T11:41:00Z
   Total Products: 85
-- [Occupational Equipments](https://physiorehabequipment.com/collections/occupational-equipments)
-  Updated: 2026-03-14T11:27:30Z
-  Total Products: 89
-- [Popular Products](https://physiorehabequipment.com/collections/popular-products)
-  Updated: 2026-03-14T11:27:30Z
+- [Occupational Equipments](https://physiorehabequipment.com/collections/occupational-equipments): Buy premium occupational equipments for therapy, rehabilitation & motor skill development. Ideal for clinics & therapy centers.
+  Updated: 2026-03-25T11:03:34Z
+  Total Products: 90
+- [Popular Products](https://physiorehabequipment.com/collections/popular-products): Discover our popular products in physiotherapy & rehab equipment. Trusted, high-quality solutions for clinics & hospitals.
+  Updated: 2026-03-25T11:30:37Z
   Total Products: 99
-- [Manikin](https://physiorehabequipment.com/collections/manikin)
-  Updated: 2026-03-14T08:16:55Z
+- [Manikin](https://physiorehabequipment.com/collections/manikin): Shop realistic Manikin models for CPR, nursing &  training. Durable, lifelike designs for hands-on learning.
+  Updated: 2026-03-25T11:31:39Z
   Total Products: 50
-- [Modalities](https://physiorehabequipment.com/collections/modalities)
-  Updated: 2026-03-14T08:16:55Z
+- [Modalities](https://physiorehabequipment.com/collections/modalities): Explore advanced therapy modalities including electrotherapy & rehabilitation equipment for effective patient care.
+  Updated: 2026-03-25T11:45:27Z
   Total Products: 33
-- [Operating Room](https://physiorehabequipment.com/collections/operating-room)
-  Updated: 2026-03-14T11:27:30Z
+- [Operating Room](https://physiorehabequipment.com/collections/operating-room): Find essential operating room equipment designed for safety, durability & advanced  procedures.
+  Updated: 2026-03-25T11:44:58Z
   Total Products: 19
-- [Patient Room](https://physiorehabequipment.com/collections/patient-room)
-  Updated: 2026-03-14T08:16:55Z
+- [Patient Room](https://physiorehabequipment.com/collections/patient-room): Shop patient room equipment built for comfort, safety & clinical efficiency in hospitals & care centers.
+  Updated: 2026-03-25T11:45:50Z
   Total Products: 30
 - [Physiotherapy Equipment Manufacturers & Suppliers in India](https://physiorehabequipment.com/collections/physiotherapy-equipment): Buy premium physiotherapy equipment in India. Trusted manufacturers & suppliers for rehab, portable, and advanced physiotherapy devices online.
   Updated: 2026-03-14T08:16:55Z
   Total Products: 0
 - [APPPlaza - Best Sellers](https://physiorehabequipment.com/collections/appplaza-best-sellers)
-  Updated: 2026-03-14T11:27:30Z
-  Total Products: 202
+  Updated: 2026-03-22T15:00:44Z
+  Total Products: 203
 
 ## Blogs
 
@@ -1436,10 +1457,10 @@
 
 ## Store Pages
 
-- [Contact Us](https://physiorehabequipment.com/pages/contact)
-  Updated: 2025-08-30T14:26:01Z
-- [About Us](https://physiorehabequipment.com/pages/about-us)
-  Updated: 2025-08-31T10:02:10Z
+- [Contact Us](https://physiorehabequipment.com/pages/contact): 
+  Updated: 2026-03-25T11:50:00Z
+- [About Us](https://physiorehabequipment.com/pages/about-us): 
+  Updated: 2026-03-25T11:33:21Z
 - [Terms & Conditions](https://physiorehabequipment.com/pages/terms-conditions): TERMS OF SERVICE This document constitutes an electronic record within the meaning of Section 2(t) of the Information Technology Act, 2000 and the ...
   Updated: 2025-10-31T17:46:14Z
 - [Return & Refund Policy](https://physiorehabequipment.com/pages/return-refund-policy): Your satisfaction is our priority at Physio Rehab Equipments. If you are not completely satisfied with your purchase, we’re here to help. Returns P...
