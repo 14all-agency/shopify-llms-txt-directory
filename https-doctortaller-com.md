@@ -10,12 +10,12 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-03-21T00:00:43.762Z
+- Updated At: 2026-03-28T04:00:25.620Z
 
 ## Products
 
 - [Doctor Taller, For Children (8+) and Teens, 60 Vegan Capsules](https://doctortaller.com/products/doctor-taller-growth-height-pill-for-children-and-teenagers-vegan-capsules-823129): Doctor Taller height growth supplement for kids (8+) and teens. 60 vegan capsules with vitamins, minerals & herbs to support natural growth and development.
-  Updated: 2026-02-22T16:46:08Z
+  Updated: 2026-03-26T16:16:12Z
   Vendor: Doctor Taller™
   Product Type: Capsule
   Availability: Available
@@ -37,7 +37,7 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4486/4903/files/doctortaller-4pack_93c9d5b4-0603-44a9-825f-72796e404493.png?v=1759886759
     Price: $191.00 USD
 - [Doctor Taller Kids, Grape Multivitamins, Ages 2-9, 90 Vegan Chewables](https://doctortaller.com/products/doctor-taller-kids-multivitamins-and-multi-minerals-for-kids-ages-2-to-9-vegan-chewable-996229): Multivitamins & minerals for kids ages 2-9: Expertly formulated with 17 vital vitamins, minerals, and nutrients for healthy bone growth, and overall health of little kids
-  Updated: 2025-10-21T09:44:01Z
+  Updated: 2026-03-26T16:16:12Z
   Vendor: Doctor Taller™
   Product Type: Chewable Tablet
   Availability: Available
@@ -59,7 +59,7 @@
     Image: https://cdn.shopify.com/s/files/1/0587/4486/4903/files/doctortallerkids90-4pack_ceb24049-fc6b-45db-9b5a-74c608b33c1c.png?v=1759886766
     Price: $191.00 USD
 - [Doctor Taller Kids Multivitamins & Multi Minerals for Kids Ages 2 to 9 vegan Chewable](https://doctortaller.com/products/doctor-taller-kids-multivitamins-and-multi-minerals-for-kids-ages-2-to-9-vegan-chewable-920108): Boost your child's health with our expertly formulated multivitamins & minerals for kids aged 2-9. 17 essential nutrients for strong bones, immunity, and energy.
-  Updated: 2025-10-21T09:43:28Z
+  Updated: 2026-03-26T16:16:12Z
   Vendor: Doctor Taller™
   Product Type: Chewable Tablet
   Availability: Available
@@ -84,7 +84,7 @@
 ## Collections
 
 - [Shop all](https://doctortaller.com/collections/shop): Doctor Taller is a height growth supplement researched and formulated by the U.S.  Doctors. It contains vital nutrients and precious herbs to maximize height.
-  Updated: 2026-02-23T12:13:19Z
+  Updated: 2026-03-26T16:16:12Z
   Total Products: 3
 
 ## Blogs
