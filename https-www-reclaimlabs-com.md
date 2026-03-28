@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-05-09T19:56:24Z
 - Contact Email: ron@reclaimlabs.com
-- Updated At: 2026-03-19T00:00:32.216Z
+- Updated At: 2026-03-28T00:00:34.868Z
 
 ## Products
 
@@ -186,8 +186,8 @@
     Updated: 2024-02-29T11:29:48Z
     Author: Ron Lev
     Tags: Broad Spectrum
-  - [CBD Oil vs Gummies: Which is Better?](https://www.reclaimlabs.com/blogs/news/cbd-oil-vs-gummies-which-is-better): CBD Oil vs Gummies: Which is Better?
-    Updated: 2024-02-29T11:29:46Z
+  - [CBD Oil vs Gummies: Why Oil Wins (2026 Guide)](https://www.reclaimlabs.com/blogs/news/cbd-oil-vs-gummies-which-is-better): CBD Oil vs Gummies: Why Oil Wins (2026 Guide)
+    Updated: 2026-03-25T17:17:17Z
     Author: Ron Lev
     Tags: anti-inflammatory, CBD, Hemp
   - [Living with Arthritis: Tips and Tricks](https://www.reclaimlabs.com/blogs/news/living-with-arthritis-tips-and-tricks): Living with Arthritis: Tips and Tricks
