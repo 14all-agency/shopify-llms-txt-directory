@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2026-03-08T16:56:05Z
-- Updated At: 2026-03-18T00:00:27.532Z
+- Updated At: 2026-03-28T00:00:35.378Z
 
 ## Products
 
