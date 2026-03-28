@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-26T21:21:43Z
 - Contact Email: sales@detekthome.com
-- Updated At: 2026-03-21T00:00:34.044Z
+- Updated At: 2026-03-28T00:00:37.265Z
 
 ## Products
 
 - [Blue Green Algae Test Kit - Pond & Lake Water Test](https://detekthome.com/products/blue-green-algae-toxin-test): Detect harmful blue green algae toxins in ponds & lakes in just 10 minutes. 99% accurate cyanobacteria test kit trusted by EPA. No lab fees. Made in USA.
-  Updated: 2026-03-20T13:54:50Z
+  Updated: 2026-03-25T19:10:31Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -43,7 +43,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Baby_Prep_Amazon_Images_V3-01.png?v=1761753561
   Price: $37.79 USD
 - [Water Bacteria Test Kit - E Coli & Coliform Test](https://detekthome.com/products/water-bacteria-test-kit): Detect E. coli, coliform bacteria & mold in well water and drinking water. Lab-grade DIY test kit with accurate results. No lab required. Made in USA by Detekt.
-  Updated: 2026-03-18T14:14:58Z
+  Updated: 2026-03-23T19:16:06Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Bacteria_in_Water_Amazon_Images_DIPSLIDES_V4-08.png?v=1760979166
     Price: $19.99 USD
 - [Bacteria Test Kit for Surfaces - Home & Kitchen](https://detekthome.com/products/home-sanitation-test-kit): DIY bacteria test kit for surfaces detects coliforms, Salmonella & mold on kitchen counters, cutting boards & appliances. Lab-grade microbial testing at home.
-  Updated: 2026-03-16T12:34:17Z
+  Updated: 2026-03-25T15:41:08Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -104,7 +104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/MOLDDipslideAmazonImagesV1-07.png?v=1761239927
   Price: $39.99 USD
 - [Lead Water Test Kit - DIY Drinking Water Lead Test](https://detekthome.com/products/lead-in-water-test-kit): Test tap water for lead in just 5 minutes. Lab-grade DIY lead water test kit detects contamination at home. USA-trusted accuracy. Protect your family today!
-  Updated: 2026-03-16T21:04:18Z
+  Updated: 2026-03-25T19:10:34Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -164,40 +164,40 @@
 ## Collections
 
 - [Lead Test Kit - Water & Surface Lead Detection](https://detekthome.com/collections/lead): Lead test kits detect toxic lead in drinking water, paint & surfaces. Results in 10 minutes. EPA-level sensitivity at 5ppb. 99% accurate. Made in USA.
-  Updated: 2026-03-20T11:16:57Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 4
 - [Algae Test Kit - Blue Green Algae & Cyanobacteria](https://detekthome.com/collections/algae-toxin): Algae test kit detects toxic blue green algae & cyanobacteria in ponds, lakes & reservoirs. Results in 10 minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-09T18:03:26Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 1
 - [Home Air Quality Test Kit - Mold & Radon Detection](https://detekthome.com/collections/air-quality): Home air quality test kits detect mold spores, radon gas & indoor air contaminants. Results in minutes. 99% accurate. EPA trusted. Lab-grade. Made in USA.
   Updated: 2026-03-11T11:18:16Z
   Total Products: 3
 - [Bacteria Test Kit - Water & Surface Microbial Test](https://detekthome.com/collections/bacteria): Bacteria test kits detect E. coli, coliform & harmful microbes in water, kitchen & home surfaces. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-19T11:17:51Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 4
 - [Water Quality](https://detekthome.com/collections/water-quality)
-  Updated: 2026-03-20T11:16:57Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 6
 - [Radon Test Kit - Home Radon Gas Detection & Testing](https://detekthome.com/collections/radon-gas): Radon test kits detect dangerous radon gas in your home basement & living spaces. DIY radon testing with results in minutes. 99% accurate. EPA trusted. Made in USA.
   Updated: 2026-03-10T11:18:49Z
   Total Products: 2
 - [Mold Test Kit - Home Air Quality & DIY Mold Detection](https://detekthome.com/collections/mold): Mold test kits detect airborne mold spores & indoor air quality issues in your home. Lab-grade results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-19T11:17:51Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 4
 - [Water Purity Test Kit - Drinking Water & Well Water Testing](https://detekthome.com/collections/water-purity): Water test kits detect bacteria, lead & contaminants in drinking water, well water & tap water. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-20T11:16:57Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 4
 - [Leak Monitoring](https://detekthome.com/collections/leak-monitoring)
   Updated: 2026-03-10T11:18:49Z
   Total Products: 1
 - [Best Sellers](https://detekthome.com/collections/best-sellers)
-  Updated: 2026-03-20T11:16:57Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 9
 - [Full Home Tests](https://detekthome.com/collections/full-home-tests)
   Updated: 2026-03-20T11:16:57Z
   Total Products: 3
 - [Sanitation](https://detekthome.com/collections/sanitation)
-  Updated: 2026-03-19T11:17:51Z
+  Updated: 2026-03-26T11:18:20Z
   Total Products: 2
 - [Mold](https://detekthome.com/collections/mold-1)
   Updated: 2026-03-11T11:18:16Z
@@ -230,6 +230,9 @@
     Author: Detekt Rapid Tests
   - [Airplane Water Is Gross—Here’s What a New Study Found](https://detekthome.com/blogs/news/airplane-water-is-gross): <p>A new airline water quality study reveals bacterial contamination risks on U.S. flights, exposing major differences in how airlines manage onboard drinking water.</p>
     Updated: 2026-01-21T20:42:56Z
+    Author: Lily Alsup
+  - [Toxic Algae Blooms—Changing Fishing, Water Safety, and Ecosystems](https://detekthome.com/blogs/news/toxic-algae-blooms-changing-fishing-water-safety-and-ecosystems): <p>Recent reporting and field observations highlighted by <em data-start="593" data-end="616">Kayak Angler Magazine</em> point to a growing concern among anglers and conservationists: harmful algal blooms are no longer isolated events. They are becoming a persistent, dangerous condition in many waterways.</p>
+    Updated: 2026-03-25T14:54:01Z
     Author: Lily Alsup
 
 ## Store Pages
