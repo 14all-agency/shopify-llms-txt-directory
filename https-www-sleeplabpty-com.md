@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-02-05T14:37:51Z
 - Contact Email: informacionsleeplab@gmail.com
-- Updated At: 2026-03-19T11:16:35.607Z
+- Updated At: 2026-03-28T00:00:27.903Z
 
 ## Products
 
@@ -155,68 +155,68 @@
     Availability: Available
     Price: 1879,99 $ USD
 - [Colchón Híbrido iSeries IS3000 Pillow Top para Confort](https://www.sleeplabpty.com/products/hybrid-is3000-pillow-top): Experimenta confort acolchado con el colchón iSeries Hybrid IS3000 Pillow Top. Soporte zonificado, espuma viscoelástica y gel para un sueño profundo.
-  Updated: 2026-03-19T07:32:28Z
+  Updated: 2026-03-26T22:08:30Z
   Vendor: Sleeplab
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/0087/1739/files/4_ad076781-eee7-4c84-9ce0-c9e010651a6e.png?v=1770737867
   - [Twin](https://www.sleeplabpty.com/products/hybrid-is3000-pillow-top?variant=43198539530299)
     Availability: Available
-    Price: 699,99 $ USD
+    Price: 1099,99 $ USD
   - [Twin XL](https://www.sleeplabpty.com/products/hybrid-is3000-pillow-top?variant=43209910911035)
     Availability: Available
-    Price: 699,99 $ USD
+    Price: 1199,99 $ USD
   - [Full](https://www.sleeplabpty.com/products/hybrid-is3000-pillow-top?variant=43198539563067)
     Availability: Available
-    Price: 859,99 $ USD
+    Price: 1249,99 $ USD
   - [Queen](https://www.sleeplabpty.com/products/hybrid-is3000-pillow-top?variant=43198539595835)
     Availability: Available
-    Price: 999,99 $ USD
+    Price: 1399,99 $ USD
   - [King](https://www.sleeplabpty.com/products/hybrid-is3000-pillow-top?variant=43198539628603)
     Availability: Available
-    Price: 1299,99 $ USD
+    Price: 1599,99 $ USD
 - [Colchón Híbrido iSeries IS2000 Pillow Top para Soporte](https://www.sleeplabpty.com/products/hybrid-is2000-pillow-top): Colchón iSeries Hybrid IS2000 Pillow Top. Confort medio-firme, soporte ergonómico, materiales frescos y alivio de presión para un sueño estable y reparador.
-  Updated: 2026-03-19T07:32:54Z
+  Updated: 2026-03-26T22:07:52Z
   Vendor: Sleeplab
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/0087/1739/files/2_3eebf9c8-0530-4a1a-b4a3-bedb0b4dee74.png?v=1770737859
   - [Twin](https://www.sleeplabpty.com/products/hybrid-is2000-pillow-top?variant=43198539857979)
     Availability: Available
-    Price: 599,99 $ USD
+    Price: 949,99 $ USD
   - [Twin XL](https://www.sleeplabpty.com/products/hybrid-is2000-pillow-top?variant=43209910648891)
     Availability: Available
-    Price: 629,99 $ USD
+    Price: 999,99 $ USD
   - [Full](https://www.sleeplabpty.com/products/hybrid-is2000-pillow-top?variant=43198539890747)
     Availability: Available
-    Price: 729,99 $ USD
+    Price: 1099,99 $ USD
   - [Queen](https://www.sleeplabpty.com/products/hybrid-is2000-pillow-top?variant=43198539923515)
     Availability: Available
-    Price: 849,99 $ USD
+    Price: 1199,99 $ USD
   - [King](https://www.sleeplabpty.com/products/hybrid-is2000-pillow-top?variant=43198539956283)
     Availability: Available
-    Price: 1099,99 $ USD
+    Price: 1399,99 $ USD
 - [Colchón Híbrido iSeries IS1000 Tight Top para Confort](https://www.sleeplabpty.com/products/hybrid-is1000-tight-top): Duerme cómodamente con el colchón iSeries Hybrid IS1000 Tight Top. Soporte firme, materiales frescos y diseño híbrido para alineación estable y descanso.
-  Updated: 2026-03-19T07:33:25Z
+  Updated: 2026-03-26T22:06:56Z
   Vendor: Sleeplab
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/0087/1739/files/3_b19f1b3a-9691-41f7-9a01-4d6c7c5575fb.png?v=1770737843
   - [Twin](https://www.sleeplabpty.com/products/hybrid-is1000-tight-top?variant=43198540480571)
     Availability: Available
-    Price: 499,99 $ USD
+    Price: 799,99 $ USD
   - [Full](https://www.sleeplabpty.com/products/hybrid-is1000-tight-top?variant=43198540513339)
     Availability: Available
-    Price: 579,99 $ USD
+    Price: 899,99 $ USD
   - [Twin XL](https://www.sleeplabpty.com/products/hybrid-is1000-tight-top?variant=43209860284475)
     Availability: Available
-    Price: 519,99 $ USD
+    Price: 849,99 $ USD
   - [Queen](https://www.sleeplabpty.com/products/hybrid-is1000-tight-top?variant=43198540546107)
     Availability: Available
-    Price: 699,99 $ USD
+    Price: 999,99 $ USD
   - [King](https://www.sleeplabpty.com/products/hybrid-is1000-tight-top?variant=43198540578875)
     Availability: Available
-    Price: 899,99 $ USD
+    Price: 1199,99 $ USD
 - [Colchón Híbrido Harmony Lux Ocean Reef Plush Pillow Top](https://www.sleeplabpty.com/products/lux-hybrid-ocean-reef-plush-pillow-top): Experimenta lujo con el colchón Harmony Lux Ocean Reef Plush. Confort acolchado, alivio de presión, soporte fresco y reducción de movimiento para dormir.
   Updated: 2026-03-19T07:33:56Z
   Vendor: Sleeplab
@@ -349,11 +349,17 @@
   - [Twin](https://www.sleeplabpty.com/products/protector-simmons-ultra-fresh?variant=43274941431867)
     Availability: Available
     Price: 67,00 $ USD
+- [prueba](https://www.sleeplabpty.com/products/prueba)
+  Updated: 2026-03-26T14:00:57Z
+  Vendor: Sleeplab
+  Product Type: 
+  Availability: Available
+  Price: 1,00 $ USD
 
 ## Collections
 
 - [Colección de Colchones | Colchones SleepLab Premium](https://www.sleeplabpty.com/collections/colchon): Colección de colchones SleepLab con opciones premium híbridas, pillow top y soporte firme para cada estilo de sueño. Confort y calidad que te encantarán siempre
-  Updated: 2026-03-19T07:27:09Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 19
 - [Colección de bases de cama | Soporte premium SleepLab](https://www.sleeplabpty.com/collections/bases-de-cama): Explora la colección de bases de cama SleepLab, ajustables y clásicas, diseñadas para ofrecer soporte confiable y mejorar el rendimiento y comodidad del colchón
   Updated: 2026-03-19T06:27:12Z
@@ -362,13 +368,13 @@
   Updated: 2026-03-19T06:27:45Z
   Total Products: 3
 - [Más vendidos | Colchones y productos de sueño SleepLab](https://www.sleeplabpty.com/collections/los-mas-vendidos): Colección de más vendidos de SleepLab con colchones, bases y accesorios mejor valorados, seleccionados por su confort, calidad y satisfacción del cliente.
-  Updated: 2026-03-19T06:28:14Z
+  Updated: 2026-03-26T22:07:53Z
   Total Products: 8
 - [Novedades | Últimos Colchones y Ropa de Cama SleepLab](https://www.sleeplabpty.com/collections/novedades): Descubre los productos más recientes de SleepLab: colchones premium, bases y accesorios para dormir. Innovaciones para un mejor confort y descanso.
-  Updated: 2026-03-19T06:28:43Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 14
 - [Colchones Serta | Confort Premium en SleepLab Panamá](https://www.sleeplabpty.com/collections/serta): Colchones Serta en SleepLab Panamá. Soluciones de sueño de alta calidad con soporte avanzado, funciones de enfriamiento y confort para cada descanso.
-  Updated: 2026-03-19T06:29:16Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 13
 - [Colchones Simmons | Selección Premium SleepLab Panamá](https://www.sleeplabpty.com/collections/simmons): Colchones Simmons en SleepLab Panamá. Disfruta de confort, soporte y durabilidad de alta calidad con diseños confiables para un sueño reparador cada noche.
   Updated: 2026-03-19T06:29:47Z
@@ -383,19 +389,19 @@
   Updated: 2026-03-19T06:31:13Z
   Total Products: 1
 - [Colecciones de colchones SleepLab | Sueño premium](https://www.sleeplabpty.com/collections/collection): Descubre las colecciones de colchones SleepLab. Alta calidad, comodidad y soporte para una experiencia de sueño más reparadora y placentera.
-  Updated: 2026-03-19T06:33:40Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 19
 - [Tamaños de colchones y camas | Guía SleepLab](https://www.sleeplabpty.com/collections/size): Explora la colección de colchones y camas SleepLab. Opciones Twin, Queen, King y más, adaptadas a tu espacio y necesidades de sueño con calidad y confort.
-  Updated: 2026-03-19T06:34:11Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 20
 - [Marcas de Colchones y Camas | Selección SleepLab Panamá](https://www.sleeplabpty.com/collections/marca): Explora la colección de marcas de SleepLab Panamá, con las principales marcas de colchones y bases. Comodidad, calidad y soporte para tu descanso.
-  Updated: 2026-03-19T06:34:41Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 10
 - [Opciones de Firmeza de Colchones | Guía SleepLab Panamá](https://www.sleeplabpty.com/collections/firmeza): Explora la colección de firmeza de colchones SleepLab. Opciones suaves, medias y firmes, adaptadas a tu estilo de sueño para confort y mejor descanso.
-  Updated: 2026-03-19T06:35:10Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 13
 - [Tipos de Colchones | Guía de Colección SleepLab Panamá](https://www.sleeplabpty.com/collections/tipo): Explora la colección de tipos de colchones SleepLab: híbridos, pillow top, tight top y más, diseñados para brindar comodidad, soporte y mejor descanso.
-  Updated: 2026-03-19T06:35:41Z
+  Updated: 2026-03-26T22:08:31Z
   Total Products: 22
 - [Protectores de colchón | Fundas impermeables SleepLab](https://www.sleeplabpty.com/collections/protector-de-colchon): Protege tu colchón con fundas impermeables SleepLab. Evita derrames, polvo y alérgenos, manteniendo comodidad y prolongando la vida útil del colchón.
   Updated: 2026-03-19T06:36:09Z
@@ -409,6 +415,19 @@
 - [Colección de Toallas | Toallas Suaves y Absorbentes](https://www.sleeplabpty.com/collections/toallas): Toallas de alta calidad en SleepLab Panamá. Suaves, absorbentes y duraderas, perfectas para baño, spa o invitados, brindando comodidad prolongada.
   Updated: 2026-03-19T06:37:33Z
   Total Products: 2
+
+## Blogs
+
+- [Blog SleepLab Panamá: Consejos de sueño y colchones](https://www.sleeplabpty.com/blogs/news): Lee el blog de SleepLab Panamá para consejos sobre sueño, guías de colchones, tips de comodidad y noticias que te ayudarán a mejorar tu descanso.
+  - [¿Cada cuánto cambiar un colchón? Señales que no debes ignorar](https://www.sleeplabpty.com/blogs/news/cada-cuanto-cambiar-un-colchon-senales-que-no-debes-ignorar)
+    Updated: 2026-03-21T13:25:58Z
+    Author: Sway Ecom
+  - [Colchón firme vs. colchón suave: ¿cuál es mejor para tu espalda?](https://www.sleeplabpty.com/blogs/news/colchon-firme-vs-colchon-suave-cual-es-mejor-para-tu-espalda)
+    Updated: 2026-03-21T13:30:29Z
+    Author: Sway Ecom
+  - [Guía definitiva para comprar tu cama completa (colchón + base + almohada) en Panamá](https://www.sleeplabpty.com/blogs/news/guia-definitiva-para-comprar-tu-cama-completa-colchon-base-almohada-en-panama)
+    Updated: 2026-03-21T13:30:58Z
+    Author: Sway Ecom
 
 ## Store Pages
 
