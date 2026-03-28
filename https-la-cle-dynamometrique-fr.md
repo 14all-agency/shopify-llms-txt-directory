@@ -6,117 +6,117 @@
 - Timezone: Europe/Paris
 - Created At: 2025-12-05T09:56:45Z
 - Contact Email: contact@la-cle-dynamometrique.fr
-- Updated At: 2026-03-21T00:00:41.899Z
+- Updated At: 2026-03-28T00:00:46.208Z
 
 ## Products
 
 - [Clé Dynamométrique Coffret Kit Auto, Moto & Vélo](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-coffret-kit-auto-moto-velo): L'atelier complet en une boîte. 3 clés certifiées ±3% + 3 rallonges pour couvrir 5 à 220 N.m. La solution unique pour tout faire, du moteur aux roues.
-  Updated: 2026-02-14T20:14:02Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_13fb3ac2-5c66-4a60-84f6-4fdac9590c0a.webp?v=1768082754
   Price: 197,99 € EUR
 - [Clé Dynamométrique 1/4" Spécial Vélo & Carters](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-4-special-velo-carters): La précision professionnelle (<3%) pour vos serrages délicats. Plage de couple de 5-25 N.m et fiabilité mécanique totale.
-  Updated: 2026-02-11T16:32:03Z
+  Updated: 2026-03-24T11:44:55Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_9b889b0e-e074-4034-8a8b-56c13f6f8345.webp?v=1768035988
   Price: 61,97 € EUR
 - [Clé Dynamométrique 1/2" L'Outil Unique Auto & Moto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-2-loutil-unique-auto-moto): Pourquoi acheter deux clés ? Couvrez tout de 10 à 210 N.m avec un seul outil robuste. Idéale pour bougies, vidanges et roues. Précision ±4% et finition Chrome Miroir.
-  Updated: 2026-02-11T16:32:43Z
+  Updated: 2026-03-24T11:44:57Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/01.webp?v=1768035673
   Price: 79,27 € EUR
 - [Clé Dynamométrique 1/2" L'Indispensable Maintenance Roues & Châssis](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-2-lindispensable-maintenance-roues-chassis): La puissance indispensable (28-210 N.m) pour vos roues et suspensions. Carré 1/2", levier important et déclenchement net. Sécurisez votre train roulant dès aujourd'hui.
-  Updated: 2026-02-11T16:34:02Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/01_23192967-c66a-4240-b2ee-dcbd2f6bc5b5.webp?v=1768035742
   Price: 79,50 € EUR
 - [Clé Dynamométrique 1/4" Sécurité Vélo Carbone & Alu](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-4-securite-velo-carbone-alu): La précision indispensable (2-24 N.m) pour le carbone et l'alu. Tête compacte, mécanisme fiable et compatibilité 1/4". L'outil essentiel pour ne rien casser.
-  Updated: 2026-02-11T16:34:35Z
+  Updated: 2026-03-24T11:44:55Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/02_dd7ccbc4-1ef5-4e0e-9cad-21d56c22aeae.webp?v=1768035942
   Price: 51,17 € EUR
 - [Clé Dynamométrique 1/4" Kit Spécial Vélo & Carbone](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-4-kit-special-velo-carbone): Le kit complet (2-24 N.m) pour sécuriser votre vélo carbone et vos accessoires moto. 15 pièces incluses (Hex, Torx) pour une précision absolue sans casse.
-  Updated: 2026-02-11T16:35:02Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/01_b7e147b7-a0a6-4912-8542-544a2fe14ea3.webp?v=1768035857
   Price: 64,80 € EUR
 - [Clé Dynamométrique Digitale 3/8" Spécial Moteur & Moto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-3-8-special-moteur-moto): La clé ultime pour vos réfections moteurs (1-60 N.m). Carré 3/8" compact pour passer partout. Précision ±2%, alertes sonores et mémoire pour une sécurité totale.
-  Updated: 2026-02-11T16:35:59Z
+  Updated: 2026-03-24T11:44:52Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_87afcc03-70e1-4f54-8e51-c18d99ab8e97.webp?v=1768117917
   Price: 140,97 € EUR
 - [Clé Dynamométrique Digitale 1/2" Précision Auto Moteur & Châssis](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-1-2-precision-auto-moteur-chassis): L'incroyable polyvalence : carré 1/2" avec une plage de 1 à 100 N.m. Précision ±2%, mémorisation des données et alertes sonores pour sécuriser du carter plastique jusqu'au châssis.
-  Updated: 2026-02-11T16:36:22Z
+  Updated: 2026-03-24T11:44:57Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_87afcc03-70e1-4f54-8e51-c18d99ab8e97.webp?v=1768117917
   Price: 152,50 € EUR
 - [Clé Dynamométrique 1/4" Précision Vélo & Petite Visserie](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-4-precision-velo-petite-visserie): La précision indispensable (5-25 N.m) pour vélo carbone et périphériques moteur. Sécurisez couvre-culasses, carters alu et pièces carbone sans risque de casse.
-  Updated: 2026-02-11T16:36:46Z
+  Updated: 2026-03-24T11:44:57Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_e0aa1df2-c34b-4931-b357-d84c6308060e.webp?v=1768119634
   Price: 53,47 € EUR
 - [Clé Dynamométrique Digitale 1/4" Kit Précision Ultime](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-1-4-kit-precision-ultime): Le kit de précision absolue (1.5-30 N.m) pour vélo carbone et électronique moteur. Précision ±2%, écran LED et 40 embouts inclus. La sécurité digitale pour le très petit couple.
-  Updated: 2026-02-11T16:37:17Z
+  Updated: 2026-03-24T11:44:55Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_f3e4b6f7-8d32-4b33-97c7-1ae607ac4a74.webp?v=1768118720
   Price: 175,35 € EUR
 - [Clé Dynamométrique Coffret Kit Atelier Complet](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-coffret-kit-atelier-complet): L'atelier complet en une boîte. 3 clés mécaniques couvrant 5 à 220 N.m pour tout faire : moteur, cycles, roues et châssis ainsi que 3 rallonges. Précision ±3% certifiée.
-  Updated: 2026-02-14T20:14:34Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/01_e7f5c654-037b-4d76-a751-b71abbaa91e9.webp?v=1768082856
   Price: 201,99 € EUR
 - [Clé Dynamométrique 3/8" Serrage Précis Vélo & Moto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-serrage-precis-velo-et-moto): Sécurisez vos réfections moteurs avec la clé 5-60 N.m. Précision de ±3% indispensable pour les carters alu et la visserie fragile. Fiabilité 100% mécanique sans électronique.
-  Updated: 2026-02-11T16:39:34Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_0556a316-ac36-40f4-b942-86880b2533b9.webp?v=1768058276
   Price: 64,28 € EUR
 - [Clé Dynamométrique 3/8" Maintenance Cycle & Moto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-maintenance-cycle-moto): Sécurisez la partie cycle de votre moto (10-60 N.m). Clé robuste pour Tés de fourche, guidon et freins. Précision ±3% et fiabilité mécanique.
-  Updated: 2026-02-11T16:39:58Z
+  Updated: 2026-03-24T11:44:55Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_0556a316-ac36-40f4-b942-86880b2533b9.webp?v=1768058276
   Price: 64,28 € EUR
 - [Clé dynamométrique 3/8" Polyvalence auto et moto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-polyvalence-auto-et-moto): Le kit polyvalent 10-60 N.m pour l'atelier. Clé robuste avec adaptateurs pour couvrir Auto et Moto. Fiabilité mécanique et précision ±3%.
-  Updated: 2026-02-11T16:40:28Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_0556a316-ac36-40f4-b942-86880b2533b9.webp?v=1768058276
   Price: 65,70 € EUR
 - [Clé dynamométrique 3/8" Mécanique polyvalente](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-mecanique-polyvalente): Le kit complet 5-60 N.m pour ne jamais être bloqué. Précision ±3% pour moto et moteur. Inclus adaptateurs pour douilles 1/4" et 1/2".
-  Updated: 2026-02-11T08:24:14Z
+  Updated: 2026-03-24T11:44:57Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_0556a316-ac36-40f4-b942-86880b2533b9.webp?v=1768058276
   Price: 98,97 € EUR
 - [Clé Dynamométrique 3/8" Standard Universel Atelier](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-standard-universel-atelier): La clé indispensable (19-110 N.m) pour 90% de votre mécanique générale. Sécurisez bougies, vidanges et roues avec un outil robuste et durable.
-  Updated: 2026-02-11T16:41:35Z
+  Updated: 2026-03-24T11:44:55Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
@@ -138,42 +138,42 @@
     Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_ae374f41-90e0-40d4-b316-a305eabe5707.webp?v=1768116423
     Price: 52,50 € EUR
 - [Clé Dynamométrique 3/8" Spécial Visserie Sensible](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-special-visserie-sensible): La précision chirurgicale (10-60 N.m) pour votre maintenance moto. Certifiée <3% d'erreur pour sécuriser l'aluminium.
-  Updated: 2026-02-11T16:45:35Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_52a85131-60b6-49fc-b877-712ac7b250d8.webp?v=1768084100
   Price: 63,50 € EUR
 - [Clé Dynamométrique 3/8" Standard Pro Maintenance](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-standard-pro-maintenance): La clé à tout faire (10-110 N.m) pour 90% de votre maintenance. Sécurisez bougies, carters et châssis avec une précision certifiée <3%.
-  Updated: 2026-02-11T16:46:19Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/04_60de50fa-ff6d-4ce6-a514-62de7580e453.webp?v=1768083510
   Price: 106,43 € EUR
 - [Clé Dynamométrique 3/8" Maintenance Moto & Auto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-maintenance-moto-auto): La clé universelle (19-110 N.m) pour 90% de vos maintenances. Sécurisez bougies, vidanges et étriers avec la fiabilité d'un mécanisme éprouvé et durable.
-  Updated: 2026-02-11T16:46:50Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/03_c0bfc5e6-4a87-4925-a8d3-704fdea75f96.webp?v=1768083293
   Price: 72,49 € EUR
 - [Clé Dynamométrique 3/8" Protection Filetages Aluminium](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-protection-filetages-aluminium): La précision indispensable pour les serrages délicats (5-60 N.m). Sécurisez vos carters alu, bougies et cycles avec une fiabilité mécanique durable.
-  Updated: 2026-02-11T16:33:27Z
+  Updated: 2026-03-24T11:44:57Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/03_c0bfc5e6-4a87-4925-a8d3-704fdea75f96.webp?v=1768083293
   Price: 61,25 € EUR
 - [Clé Dynamométrique 3/8" L'Universelle Auto & Moto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-3-8-luniverselle-auto-moto): La clé à tout faire (10-140 N.m). De la bougie aux roues, sécurisez 90% de votre maintenance auto/moto avec la fiabilité d'un mécanisme 100% acier.
-  Updated: 2026-02-11T16:48:14Z
+  Updated: 2026-03-24T11:44:53Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/03_c0bfc5e6-4a87-4925-a8d3-704fdea75f96.webp?v=1768083293
   Price: 62,99 € EUR
 - [Clé Dynamométrique 1/4" Précision Vélo Carbone](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-4-precision-velo-carbone): Sécurisez vos assemblages carbone et alu (2-24 N.m). Déclenchement par "clic" sensitif pour une précision ressentie physiquement, sans risque d'erreur.
-  Updated: 2026-02-16T21:00:26Z
+  Updated: 2026-03-24T11:44:57Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
@@ -199,133 +199,133 @@
     Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/11.webp?v=1768116550
     Price: 49,99 € EUR
 - [Clé Dynamométrique 1/2" Roues & Mécanique Générale](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-2-roues-mecanique-generale): La clé à tout faire pour l'auto (30-210 N.m). Serrage de roues et mécanique générale avec la fiabilité d'un mécanisme 100% acier.
-  Updated: 2026-02-11T16:50:07Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_6e43134d-fcbf-426f-853f-6ce3795e16c4.webp?v=1768036389
   Price: 114,96 € EUR
 - [Clé Dynamométrique 1/2" Spécial Roues & Châssis Renforcée](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-2-special-roues-chassis-renforcee): La clé indispensable pour vos roues et trains roulants (60-330 N.m). Mécanisme renforcé 72 dents et précision ±3% pour les serrages de sécurité.
-  Updated: 2026-02-11T16:50:37Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/05_5231298b-3396-4fe8-94c3-b980337e0421.webp?v=1768042874
   Price: 121,42 € EUR
 - [Clé Dynamométrique Digitale 1/2" Polyvalence Moteur & Roues](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-1-2-polyvalence-moteur-roues): L'outil unique pour 90% de votre mécanique (7-135 N.m). Du carter moteur aux jantes alu, une précision digitale ±2% avec une seule clé.
-  Updated: 2026-02-11T16:51:15Z
+  Updated: 2026-03-24T11:44:51Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/03_7428d5b3-a618-4068-bd24-cbf9076d739a.webp?v=1768073599
   Price: 210,98 € EUR
 - [Clé Dynamométrique Digitale 1/2" Mécanique Lourde & Roues](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-1-2-mecanique-lourde-roues): La clé ultime pour la grosse mécanique (17-340 N.m). Sécurisez vos roues, culasses et trains roulants avec une précision digitale de ±2%.
-  Updated: 2026-02-11T16:53:12Z
+  Updated: 2026-03-24T11:44:52Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/08.webp?v=1768073503
   Price: 297,85 € EUR
 - [Clé Dynamométrique Digitale 3/8" Entretien Moto et Vélo](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-3-8-entretien-moto-et-velo): La clé idéale pour de la maintenance moto (3-60 N.m). Précision ±2% pour tés de fourche, étriers et carters sans casser l'alu.
-  Updated: 2026-02-11T16:53:42Z
+  Updated: 2026-03-24T11:44:55Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_f3e4b6f7-8d32-4b33-97c7-1ae607ac4a74.webp?v=1768118720
   Price: 149,86 € EUR
 - [Clé Dynamométrique Digitale 3/8" Serrage Polyvalent Moto & Moteur](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-3-8-serrage-polyvalent-moto-moteur): La clé indispensable pour 90% de vos serrages moteur et châssis (4-85 N.m). Précision digitale ±2% pour bougies, vidanges et culasses sans foirer les filetages.
-  Updated: 2026-02-11T17:07:00Z
+  Updated: 2026-03-24T11:44:52Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_f3e4b6f7-8d32-4b33-97c7-1ae607ac4a74.webp?v=1768118720
   Price: 164,28 € EUR
 - [Clé Dynamométrique Digitale 1/4" Précision Micro-Serrage Vélo](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-velo-precision-1-10-nm): Sécurisez vos composants les plus fragiles (1-10 N.m). Précision digitale ±2% pour potences et cintres carbone sans risque d'écrasement.
-  Updated: 2026-02-11T17:07:54Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_87afcc03-70e1-4f54-8e51-c18d99ab8e97.webp?v=1768117917
   Price: 123,02 € EUR
 - [Clé Dynamométrique Digitale 1/4" Vélo Carbone & VTT](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-1-4-velo-carbone-1-30nm): Sécurisez vos serrages carbone et carters alu avec une précision de ±2% sur la plage 1-30 N.m. Lecture directe et alerte sonore anti-casse.
-  Updated: 2026-02-11T17:08:36Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/00_87afcc03-70e1-4f54-8e51-c18d99ab8e97.webp?v=1768117917
   Price: 120,16 € EUR
 - [Clé Dynamométrique 1/4" Kit Entretien Vélo & Moto](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-4-kit-entretien-velo-moto): Le kit tout-en-un pour votre vélo. Clé de précision 2-24 N.m livrée avec 14 embouts (Allen, Torx, Cruci). Alliage Nickel-Chrome pro. Ne cherchez plus vos outils, tout est là.
-  Updated: 2026-02-11T17:09:11Z
+  Updated: 2026-03-24T11:44:56Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/1.webp?v=1770537765
   Price: 64,99 € EUR
 - [Clé Dynamométrique 1/2" Moteur & Trains Roulants](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-2-moteur-trains-roulants): L'outil ultime pour le mécanicien : couvre tout de 14 à 204 N.m. Précision ±3% certifiée, construction tout acier inusable et coffret complet inclus.
-  Updated: 2026-02-11T17:09:37Z
+  Updated: 2026-03-24T11:44:55Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/3-3.webp?v=1770550206
   Price: 72,05 € EUR
 - [Clé Dynamométrique 1/2" Précision Certifiée](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-2-precision-certifiee-coffret): Fiabilisez vos serrages moteur et châssis avec cette clé 1/2" (14-204 N.m). Précision ±3% certifiée pour mécaniciens exigeants. Coffret avec adaptateurs inclus.
-  Updated: 2026-02-11T17:10:03Z
+  Updated: 2026-03-24T11:44:53Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/3-3.webp?v=1770550206
   Price: 75,90 € EUR
 - [Clé Dynamométrique Digitale 1/2" Haute Capacité & Précision](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-digitale-1-2-haute-capacite-precision): La puissance alliée à la technologie. Clé Digitale 1/2" (34-340 N.m) avec écran rétroéclairé et précision ±2%. Idéale pour serrages lourds et précis.
-  Updated: 2026-02-11T17:10:31Z
+  Updated: 2026-03-24T11:45:07Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/S080489cca3bf4ed093d886279cb7ddebG_de42ccc8-a177-40f5-8425-81813bd6a5c8.webp?v=1769874705
   Price: 207,50 € EUR
 - [Clé Dynamométrique 1/2" Auto et Précision Certifiée](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-2-auto-et-precision-certifiee): Sécurisez vos serrages de roues et transmissions avec cette clé 1/2" (34-340 N.m). Précision ±3% certifiée et bras de levier optimisé pour l'effort. Coffret complet.
-  Updated: 2026-02-11T17:11:02Z
+  Updated: 2026-03-24T11:45:07Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/3-3.webp?v=1770550206
   Price: 99,97 € EUR
 - [Clé Dynamométrique 1/4" Spéciale Vélo Kit Carbone](https://la-cle-dynamometrique.fr/products/cle-dynamometrique-1-4-speciale-velo-kit-carbone): Protégez vos cadres carbone et périphériques. Clé 1/4" (2-20 N.m) avec jeu d'embouts complet (Allen/Torx). Précision certifiée pour l'atelier vélo.
-  Updated: 2026-02-11T17:11:28Z
+  Updated: 2026-03-24T11:45:06Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/4_707349fc-f071-4b5a-bc20-22df42b1cf37.webp?v=1770537777
   Price: 49,97 € EUR
 - [Coffret de douilles Torx 1/2" et 3/8" Acier Haute Résistance](https://la-cle-dynamometrique.fr/products/coffret-de-douilles-torx-1-2-et-3-8-acier-haute-resistance): Équipez-vous pro : Coffret douilles Torx Femelle (Type E) 1/2" & 3/8". Acier Cr-V haute résistance. Rangement organisé et durable.
-  Updated: 2026-02-11T08:24:49Z
+  Updated: 2026-03-24T11:45:06Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/2-1.webp?v=1769930214
   Price: 62,82 € EUR
 - [Coffret de douilles 1/2" et 3/8" Pro Acier Résistant](https://la-cle-dynamometrique.fr/products/coffret-de-douilles-1-2-et-3-8-pro-acier-resistant): L'ultime coffret Impact : 59 douilles en acier Cr-Mo indestructible. Duo 1/2" & 3/8" couvrant du 6 au 32mm. Résiste aux clés à chocs les plus puissantes.
-  Updated: 2026-02-11T08:24:57Z
+  Updated: 2026-03-24T11:45:09Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/1-1_569f62f9-731b-4a6c-b834-23de807e20d1.webp?v=1769940977
   Price: 150,47 € EUR
 - [Coffret de douilles embouts Torx 1/4", 3/8" et 1/2" Acier Renforcé](https://la-cle-dynamometrique.fr/products/coffret-de-douilles-embouts-torx-1-4-3-8-et-1-2-acier-renforce): Ne foirez plus vos vis. Coffret Torx complet (T8 à T60). Embouts en Acier S2 haute dureté indéformables. Qualité Pro pour mécanique auto.
-  Updated: 2026-02-11T08:24:57Z
+  Updated: 2026-03-24T11:45:07Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/1_10658fb6-8662-40ce-a14c-d9dca617fb79.webp?v=1770542897
   Price: 35,00 € EUR
 - [Kit adaptateurs et réducteurs 1/4", 3/8" et 1/2"](https://la-cle-dynamometrique.fr/products/kit-adaptateurs-et-reducteurs-1-4-3-8-et-1-2): Connectez n'importe quel cliquet à n'importe quelle douille. Jeu de 6 adaptateurs/réducteurs (1/4" à 1/2"). Acier Cr-V robuste. Compatibilité totale garantie.
-  Updated: 2026-02-16T21:00:32Z
+  Updated: 2026-03-24T11:45:05Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/0872/3787/files/S42da553d241f4a9fb9ec1f7ced1225163.webp?v=1770544302
   Price: 10,00 € EUR
 - [Coffret de douilles 1/2" Renforcées](https://la-cle-dynamometrique.fr/products/coffret-de-douilles-1-2-renforcees): Résistez aux chocs. Coffret douilles impact 1/2" (4 variantes : 8mm à 32mm). Acier Carbone Trempé 8-32mm. Profil 6 pans pour déboulonneuse.
-  Updated: 2026-02-11T08:24:58Z
+  Updated: 2026-03-24T11:45:07Z
   Vendor: La Clé Dynamométrique™
   Product Type: 
   Availability: Available
@@ -350,13 +350,13 @@
 ## Collections
 
 - [Toutes les clés dynamométriques](https://la-cle-dynamometrique.fr/collections/all): Sélection complète de clés dynamométriques pour auto, moto, vélo et maintenance. Différents carrés, plages de couple et formats adaptés à chaque usage.
-  Updated: 2026-02-17T12:31:01Z
+  Updated: 2026-03-24T11:36:10Z
   Total Products: 50
 - [Clé dynamométrique 1/2" | Couples élevés](https://la-cle-dynamometrique.fr/collections/cle-dynamometrique-1-2): Clés dynamométriques 1/2" pour serrages forts en automobile et mécanique lourde. Idéal pour roues, châssis et assemblages sollicités.
   Updated: 2026-02-14T20:14:35Z
   Total Products: 18
 - [Clé dynamométrique 1/4" | Haute précision](https://la-cle-dynamometrique.fr/collections/cle-dynamometrique-1-4): Clés dynamométriques 1/4" conçues pour les serrages fins et précis. Parfait pour vélo, moto et composants sensibles à faible couple.
-  Updated: 2026-02-17T12:31:01Z
+  Updated: 2026-03-24T11:36:10Z
   Total Products: 14
 - [Clé dynamométrique 3/8" | Usage polyvalent](https://la-cle-dynamometrique.fr/collections/cle-dynamometrique-3-8): Clés dynamométriques 3/8" pour travaux mécaniques courants. Équilibre idéal entre précision, accessibilité et plage de couple étendue.
   Updated: 2026-02-14T20:14:35Z
@@ -365,7 +365,7 @@
   Updated: 2026-02-11T17:10:32Z
   Total Products: 17
 - [Clé dynamométrique vélo | Protection carbone](https://la-cle-dynamometrique.fr/collections/cle-dynamometrique-velo): Clés dynamométriques adaptées au vélo pour éviter le sur-serrage. Idéal pour carbone, potences, tiges de selle et composants sensibles.
-  Updated: 2026-02-17T12:31:01Z
+  Updated: 2026-03-24T11:36:10Z
   Total Products: 14
 - [Clé dynamométrique moto | Serrage sécurisé](https://la-cle-dynamometrique.fr/collections/cle-dynamometrique-moto): Clés dynamométriques pour moto garantissant un serrage fiable. Réduit les risques de desserrage, vibration et dommages mécaniques.
   Updated: 2026-02-17T12:31:01Z
@@ -374,10 +374,10 @@
   Updated: 2026-02-11T17:11:04Z
   Total Products: 23
 - [Coffret clé dynamométrique | Kit complet](https://la-cle-dynamometrique.fr/collections/cle-dynamometrique-coffret): Coffrets de clés dynamométriques avec douilles et accessoires. Solution complète pour interventions mécaniques variées et organisation optimale.
-  Updated: 2026-02-14T20:14:35Z
+  Updated: 2026-03-24T11:36:10Z
   Total Products: 5
 - [Tous Les Accessoires](https://la-cle-dynamometrique.fr/collections/accessoires): Maximisez la polyvalence de votre clé dynamométrique avec nos accessoires pro : adaptateurs, rallonges rigides et douilles spécifiques. Compatibilité Auto, Moto & Vélo.
-  Updated: 2026-02-17T12:31:01Z
+  Updated: 2026-03-24T11:36:10Z
   Total Products: 5
 - [Douilles](https://la-cle-dynamometrique.fr/collections/douilles): Set de douilles haute précision pour couvrir tous vos besoins en mécanique auto et moto. check_circle Profil hexagonal sans arrondir les têtes de vis. check_circle Assortiment métrique complet. check_circle Finition chromée résistante.
   Updated: 2026-02-09T12:36:15Z
@@ -386,10 +386,10 @@
   Updated: 2026-02-08T10:31:24Z
   Total Products: 1
 - [Adaptateurs](https://la-cle-dynamometrique.fr/collections/adaptateurs): Pack de conversion universel pour connecter n'importe quelle douille à votre outillage existant. check_circle Jeu complet de réducteurs et augmentateurs (1/4", 3/8", 1/2"). check_circle Cardans articulés pour angles difficiles. check_circle Acier Chrome-Vanadium résistant.
-  Updated: 2026-02-17T12:31:01Z
+  Updated: 2026-03-24T11:36:10Z
   Total Products: 1
 - [2 - 20 N.m](https://la-cle-dynamometrique.fr/collections/2-20-n-m): Clé dynamométrique 2-20 N.m : l'outil de précision indispensable pour les serrages délicats sur vélos carbone, motos et petits mécanismes. Protégez vos pièces.
-  Updated: 2026-02-17T12:31:01Z
+  Updated: 2026-03-24T11:36:10Z
   Total Products: 36
 - [20 - 60 N.m](https://la-cle-dynamometrique.fr/collections/20-60-n-m): Clé dynamométrique 20-60 N.m : la clé polyvalente par excellence pour l'entretien courant moto et auto légère. Idéale pour bougies, freins et vidanges.
   Updated: 2026-02-14T20:14:35Z
