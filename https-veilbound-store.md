@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-10-05T08:19:06Z
 - Contact Email: team@veilbound.store
-- Updated At: 2026-03-21T00:00:38.475Z
+- Updated At: 2026-03-28T00:00:41.930Z
 
 ## Products
 
 - [DEATHLINE I SHIRT (Wraith Black) 300 GSM. DENSE.](https://veilbound.store/products/deathline-i-shirt-wraith-black): WRAITH BLACK drips with spectral energy. White ink clawing through obsidian cotton like a scream from the void. Same mirrored chaos. Same intricate hellscape. New darkness. 300 GSM heavyweight cotton Double-stitched & pre-shrunk Oversized box fit Front & full back high-detail DTF print Color: Wraith Black Designed to leave a mark. Built to hold weight. MADE TO ORDER This item is produced after purchase. Please allow several weeks for production before shipment.
-  Updated: 2026-03-16T17:26:47Z
+  Updated: 2026-03-26T14:35:15Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Deathline II Zip Up Hoodie (Wraith Black) 500GSM](https://veilbound.store/products/deathline-ii-hoodie): One of our darkest yet. Aggressive in print. Heavy in presence. This heavyweight full-zip hoodie features an oversized back design built from chaos a visceral tangle of skulls, skeletons, and winged beasts. Front and sleeve prints layer in more intensity without saying a word. Made to hold up under pressure, inside or out. Details: -500 GSM heavyweight cotton-blend fleece -Oversized full-back graphic -Chest and sleeve detailing -Double-layer hood and front pockets -Relaxed fit with dropped shoulders MADE TO ORDER This item is produced after purchase. Please allow several weeks for production before shipment.
-  Updated: 2026-03-14T18:40:05Z
+  Updated: 2026-03-26T14:35:16Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Not Available
     Price: $110.00 USD
 - [OBLIVION_01 Un-Cuffed Sweatpants (Wraith Black) 500GSM. STRUCTURED.](https://veilbound.store/products/oblivion-i-un-cuffed-sweatpants-wraith-black): Silent in tone. Loud in weight. These 500 GSM sweatpants are crafted from dense, no-compromise fleece and designed with a relaxed, un-cuffed silhouette that drapes clean from waist to floor. Detailed with full-leg spectral prints and deep utility pockets, they deliver a cold presence that matches the hoodie and holds its own. This is weight you feel—and wear with intent. Details: -500 GSM ultra-heavy cotton-blend fleece -Un-cuffed, straight-leg silhouette -Oversized spectral artwork down both legs -Deep front pockets -Relaxed, structured fit -drawcord waistband MADE TO ORDER This item is produced after purchase. Please allow several weeks for production before shipment.
-  Updated: 2026-03-20T02:05:12Z
+  Updated: 2026-03-27T15:09:19Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -84,7 +84,7 @@
     Price: $80.00 USD
 - [ETERNAL SOVEREIGN I RIBBED TANK
 Wraith Black — 230 GSM Heavyweight Cotton](https://veilbound.store/products/copy-ascension-tank-obsidian-black): A heavier tank built with purpose. The Eternal Sovereign I Tank is constructed from 230 GSM 100% cotton, delivering a dense, durable fabric that holds structure far better than standard tanks. The heavier weight gives the piece a premium feel while maintaining comfort during training. Designed with a tight, compression-style fit, the silhouette naturally emphasizes the chest, shoulders, and arms while keeping a clean, tapered profile through the waist. The result is a tank that moves with you while maintaining its form. The centerpiece graphic features the Veilbound Sovereign Crest, surrounded by skeletal blades and gothic detailing. Above it sits the Eternal Sovereign sigil, creating a sharp layered contrast that gives the piece its aggressive visual identity. Built for intensity. Engineered to last. Specifications 230 GSM heavyweight cotton 100% cotton construction Tight compression-style fit High-detail front graphic Durable heavyweight fabric MADE TO ORDER This item is produced after purchase. Please allow several weeks for production before shipment.
-  Updated: 2026-03-15T21:24:18Z
+  Updated: 2026-03-27T13:31:17Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -105,7 +105,7 @@ Wraith Black — 230 GSM Heavyweight Cotton](https://veilbound.store/products/co
     Availability: Available
     Price: $45.00 USD
 - [ETERNAL SOVEREIGN I RIBBED TANK Ivory Ash — 230 GSM Heavyweight Cotton](https://veilbound.store/products/eternal-sovereign-i-ribbed-tank-ivory-ash-230-gsm-heavyweight-cotton): A heavier tank built with purpose. The Eternal Sovereign I Tank is constructed from 230 GSM 100% cotton, delivering a dense, durable fabric that holds structure far better than standard tanks. The heavier weight gives the piece a premium feel while maintaining comfort during training. Designed with a tight, compression-style fit, the silhouette naturally emphasizes the chest, shoulders, and arms while keeping a clean, tapered profile through the waist. The result is a tank that moves with you while maintaining its form. The centerpiece graphic features the Veilbound Sovereign Crest, surrounded by skeletal blades and gothic detailing. Above it sits the Eternal Sovereign sigil, creating a sharp layered contrast that gives the piece its aggressive visual identity. Built for intensity. Engineered to last. Specifications 230 GSM heavyweight cotton 100% cotton construction Tight compression-style fit High-detail front graphic Durable heavyweight fabric MADE TO ORDER This item is produced after purchase. Please allow several weeks for production before shipment.
-  Updated: 2026-03-13T12:10:32Z
+  Updated: 2026-03-26T14:35:27Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@ Wraith Black — 230 GSM Heavyweight Cotton](https://veilbound.store/products/co
     Availability: Available
     Price: $45.00 USD
 - [ETERNAL SOVEREIGN I RIBBED TANK Crimson Sacrament — 230 GSM Heavyweight Cotton](https://veilbound.store/products/copy-eternal-sovereign-i-ribbed-tank-crimson-sacrament-230-gsm-heavyweight-cotton): A heavier tank built with purpose. The Eternal Sovereign I Tank is constructed from 230 GSM 100% cotton, delivering a dense, durable fabric that holds structure far better than standard tanks. The heavier weight gives the piece a premium feel while maintaining comfort during training. Designed with a tight, compression-style fit, the silhouette naturally emphasizes the chest, shoulders, and arms while keeping a clean, tapered profile through the waist. The result is a tank that moves with you while maintaining its form. The centerpiece graphic features the Veilbound Sovereign Crest, surrounded by skeletal blades and gothic detailing. Above it sits the Eternal Sovereign sigil, creating a sharp layered contrast that gives the piece its aggressive visual identity. Built for intensity. Engineered to last. Specifications 230 GSM heavyweight cotton 100% cotton construction Tight compression-style fit High-detail front graphic Durable heavyweight fabric MADE TO ORDER This item is produced after purchase. Please allow several weeks for production before shipment.
-  Updated: 2026-03-16T04:07:48Z
+  Updated: 2026-03-26T14:35:27Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -148,14 +148,14 @@ Wraith Black — 230 GSM Heavyweight Cotton](https://veilbound.store/products/co
     Price: $45.00 USD
 - [SOVEREIGN RELIC PENDANT
 Included Free on Orders Over $100](https://veilbound.store/products/sovereign-relic-pendant): A symbolic piece forged to reflect authority and endurance. The Sovereign Relic Pendant features a sculpted winged sword design centered with a dark stone, representing strength carried through silence and pressure. Cast in durable stainless steel, the pendant is resistant to tarnish and built for everyday wear. Suspended from a 50 cm stainless steel chain, the piece sits naturally at the chest and pairs easily with both training and streetwear. Each pendant is included free with qualifying Veilbound orders. Details • Stainless steel construction • Dark stone centerpiece • 50 cm chain length • Corrosion and tarnish resistant • Included free with qualifying orders
-  Updated: 2026-03-20T02:05:18Z
+  Updated: 2026-03-27T15:09:18Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/49759433-DBC1-48BE-9CD0-AC704D41D128.png?v=1773394729
   Price: $0.00 USD
 - [ASCENSION 220 GSM Compression Shirt – Obsidian Black | Fitted Gym Top](https://veilbound.store/products/eternal-sovereign-i-obsidian-black-compression-shirt): Built from 220 GSM fabric, the ETERNAL SOVEREIGN I compression shirt is designed with a tight athletic fit that sits close to the body. The artwork extends across the front, back, and sleeves, allowing the full design to wrap around the garment instead of being limited to a single placement. The heavier fabric weight gives the shirt a more structured feel while still allowing stretch and movement. The printing process preserves the fine lines and intricate detail of the artwork. Available in two finishes: Wraith Black — white artwork on black Obsidian Black — tonal black-on-black artwork Details 220 GSM compression fabric Tight athletic fit Front, back, and sleeve artwork High-detail print Made To Order This item is made to order after purchase. Production begins once your order is placed so each piece can be produced with full attention to detail. Because of this process, fulfillment may take longer than standard ready-to-ship items.
-  Updated: 2026-03-20T02:05:10Z
+  Updated: 2026-03-26T14:35:30Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -164,7 +164,7 @@ Included Free on Orders Over $100](https://veilbound.store/products/sovereign-re
     Availability: Not Available
     Price: $65.00 USD
   - [M](https://veilbound.store/products/eternal-sovereign-i-obsidian-black-compression-shirt?variant=44744405123151)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 USD
   - [L](https://veilbound.store/products/eternal-sovereign-i-obsidian-black-compression-shirt?variant=44744405155919)
     Availability: Available
@@ -176,7 +176,7 @@ Included Free on Orders Over $100](https://veilbound.store/products/sovereign-re
     Availability: Available
     Price: $65.00 USD
 - [ASCENSION 220 GSM Compression Shirt – Obsidian Black | Fitted Gym Top](https://veilbound.store/products/eternal-sovereign-i-wraith-black-compression-shirt): Built from 220 GSM fabric, the ETERNAL SOVEREIGN I compression shirt is designed with a tight athletic fit that sits close to the body. The artwork extends across the front, back, and sleeves, allowing the full design to wrap around the garment instead of being limited to a single placement. The heavier fabric weight gives the shirt a more structured feel while still allowing stretch and movement. The printing process preserves the fine lines and intricate detail of the artwork. Available in two finishes: Wraith Black — white artwork on black Obsidian Black — tonal black-on-black artwork Details 220 GSM compression fabric Tight athletic fit Front, back, and sleeve artwork High-detail print Made To Order This item is made to order after purchase. Production begins once your order is placed so each piece can be produced with full attention to detail. Because of this process, fulfillment may take longer than standard ready-to-ship items.
-  Updated: 2026-03-20T16:52:27Z
+  Updated: 2026-03-26T14:35:31Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -197,13 +197,13 @@ Included Free on Orders Over $100](https://veilbound.store/products/sovereign-re
     Availability: Available
     Price: $65.00 USD
 - [ETERNAL SOVEREIGN I — Wraith Black 300 GSM Heavyweight Oversized Shirt](https://veilbound.store/products/untitled-mar13_01-37): Built from 300 GSM cotton with a drop shoulder oversized fit, the Wraith Black shirt is designed with a heavier structure and a wider silhouette. The front features a sharp high-detail white graphic layered over tonal artwork beneath it, while the back is centered by the Veilbound crest framed with the same darker underlayer for added depth. The contrast between the bright upper print and the shadowed tonal artwork gives the piece a heavier visual feel without losing detail. Cut with a boxier shape and stronger drape, it’s made to sit oversized rather than close to the body. Details 300 GSM cotton Drop shoulder oversized fit Wraith Black colorway Front and back artwork Layered white and tonal print High-detail finish
-  Updated: 2026-03-19T21:46:18Z
+  Updated: 2026-03-26T23:47:27Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/FBCC6876-54C1-48EF-91B2-C86376CF758E.png?v=1773399421
   - [S](https://veilbound.store/products/untitled-mar13_01-37?variant=44745536438351)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 USD
   - [M](https://veilbound.store/products/untitled-mar13_01-37?variant=44745536471119)
     Availability: Available
@@ -221,7 +221,7 @@ Included Free on Orders Over $100](https://veilbound.store/products/sovereign-re
     Availability: Not Available
     Price: $65.00 USD
 - [ETERNAL SOVEREIGN I — Wraith Black 500 GSM Heavyweight Zip Hoodie](https://veilbound.store/products/eternal-sovereign-i-wraith-black-zip-hoodie): The Eternal Sovereign I Zip Hoodie is built from 500 GSM heavyweight cotton, giving it a dense structure and premium feel. Designed with a drop shoulder oversized fit, the hoodie carries a heavy silhouette with a strong drape and relaxed shape. The front features a sharp high-detail chest graphic layered over darker tonal artwork, while the back is dominated by the twin skull composition framed by intricate detailing. Sleeve graphics extend the design across the garment, with a cross detail placed at the back of the hood. The contrast between bold white artwork and shadowed tonal layering gives the piece depth while keeping the graphics sharp and defined. Details 500 GSM heavyweight cotton Zip hoodie Drop shoulder oversized fit Front, back, and sleeve artwork Tonal layered underprint Cross detail on hood Wraith Black colorway Made to Order This item is made to order after purchase. Each piece is produced specifically for your order rather than pulled from pre-made inventory. Because of this, production and fulfillment may take additional time before shipping.
-  Updated: 2026-03-19T21:46:09Z
+  Updated: 2026-03-27T15:09:17Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -245,14 +245,14 @@ Included Free on Orders Over $100](https://veilbound.store/products/sovereign-re
     Availability: Not Available
     Price: $115.00 USD
 - [VEILBOUND ART PRINT — ETERNAL SOVEREIGN](https://veilbound.store/products/veilbound-art-card-eternal-sovereign): 18 × 30 cm premium Veilbound art card printed on thick 250g matte stock. Designed to accompany the Eternal Sovereign collection.
-  Updated: 2026-03-18T22:30:59Z
+  Updated: 2026-03-26T14:35:32Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/4C092AE4-DF2F-4C77-A66C-5599EC5AEEA8.png?v=1773399821
   Price: $20.00 USD
 - [VEILBOUND ART PRINT — ETERNAL SOVEREIGN — Free with orders over $50](https://veilbound.store/products/veilbound-art-card-eternal-sovereign-1): 18 × 30 cm Veilbound art print from the Eternal Sovereign collection. Printed on 250g premium matte stock for deep contrast and sharp detail. Each print features the Eternal Sovereign sigil artwork and is included free with orders over $50.
-  Updated: 2026-03-20T16:52:28Z
+  Updated: 2026-03-27T15:09:18Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -262,49 +262,49 @@ Included Free on Orders Over $100](https://veilbound.store/products/sovereign-re
 ## Collections
 
 - [Tees](https://veilbound.store/collections/hymns-beneath-a-dying-moon-tee)
-  Updated: 2026-03-11T21:10:32Z
+  Updated: 2026-03-26T14:35:07Z
   Total Products: 18
 - [Sweatpants](https://veilbound.store/collections/hymns-beneath-a-dying-moon-un-cuffed-sweatpants)
-  Updated: 2026-03-20T11:24:15Z
+  Updated: 2026-03-26T14:35:07Z
   Total Products: 13
 - [220 GSM Beaters](https://veilbound.store/collections/220-gsm-beaters)
-  Updated: 2026-01-21T02:30:21Z
+  Updated: 2026-03-26T14:35:07Z
   Total Products: 12
 - [230 gsm compression shirt](https://veilbound.store/collections/230-gsm-compression-shirt)
-  Updated: 2026-03-12T21:51:38Z
+  Updated: 2026-03-26T14:35:07Z
   Total Products: 4
 - [Women’s Wear](https://veilbound.store/collections/women-s-wear)
-  Updated: 2025-09-21T07:48:42Z
+  Updated: 2026-03-26T14:35:07Z
   Total Products: 2
 - [Hoodies and Sweatpants](https://veilbound.store/collections/deathline-ii-hoodie)
-  Updated: 2026-03-13T06:24:53Z
+  Updated: 2026-03-26T14:35:07Z
   Total Products: 23
 - [VEILBOUND JEWELRY](https://veilbound.store/collections/veilbound-jewelry)
-  Updated: 2026-02-21T04:54:36Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 4
 - [Bestsellers](https://veilbound.store/collections/new-and-bestsellers)
-  Updated: 2026-03-20T11:24:15Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 12
 - [3.0 BLACKOUT](https://veilbound.store/collections/3-0-blackout)
-  Updated: 2026-03-11T21:10:42Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 6
 - [TFD I](https://veilbound.store/collections/tfd-i)
-  Updated: 2026-03-11T21:39:01Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 5
 - [TFD II](https://veilbound.store/collections/tfd-ii)
-  Updated: 2026-03-11T21:11:00Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 20
 - [Bundle](https://veilbound.store/collections/hoodies)
-  Updated: 2026-02-21T04:52:51Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 1
 - [Ghosts to Life’s Parade](https://veilbound.store/collections/ghosts-to-life-s-parade)
-  Updated: 2026-02-21T04:53:33Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 8
 - [777](https://veilbound.store/collections/777)
-  Updated: 2026-03-13T07:59:20Z
+  Updated: 2026-03-26T14:35:08Z
   Total Products: 4
 - [ETERNAL SOVEREIGN I](https://veilbound.store/collections/eternal-sovereign-i)
-  Updated: 2026-03-20T11:24:15Z
+  Updated: 2026-03-27T11:23:46Z
   Total Products: 16
 
 ## Store Pages
