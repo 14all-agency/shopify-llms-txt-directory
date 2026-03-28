@@ -9,12 +9,12 @@
 - Created At: 2025-04-03T14:53:17Z
 - Contact Email: clientcare@bluegreenmagic.com
 - Contact Phone: 1(800) 525-7768
-- Updated At: 2026-03-21T00:00:38.728Z
+- Updated At: 2026-03-28T00:00:41.926Z
 
 ## Products
 
 - [Encaps Carpet Cleaning Chemical - 1 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps): Explore Bluegreen Magic Encaps, our premium encapsulating carpet cleaning chemical, risk free. Love it or your money back.* Free shipping on orders over $400.
-  Updated: 2026-03-20T10:20:40Z
+  Updated: 2026-03-27T03:59:11Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -28,7 +28,7 @@
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/Mockup.png?v=1746714210
   Price: $10.00 USD
 - [Newscents Premium Carpet Deodorizer 1-6 Qt | Bluegreen Magic](https://bluegreenmagic.com/products/newscents-carpet-deodorizer): Purchase Newscents Premium Carpet Deodorizer today. Fast delivery, shipping is FREE on orders over $400. Shop Bluegreen Magic.
-  Updated: 2026-03-10T17:58:27Z
+  Updated: 2026-03-25T21:02:51Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -107,7 +107,7 @@
     Availability: Available
     Price: $36.00 USD
 - [Encaps 8oz Sample](https://bluegreenmagic.com/products/encaps-8oz-sample): A powerful, professional-grade low moisture carpet cleaner meant to lift stains and soiling, and leaving carpet refreshed and like new. Encaps is the best in the industry with premium crystallization qualities, and a residue free result. All soil is removed during next vacuum. Try adding Newscents to give a refreshing scent to your carpet cleaning job! Premium crystallization technology bonds to soil and prevents it from reattaching to the carpet Does not require hot water extraction, improving efficiency Dries quickly Easy to vacuum Watch it work: Sorry, your browser doesn't support embedded videos.
-  Updated: 2026-03-20T10:20:41Z
+  Updated: 2026-03-27T03:59:11Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -144,7 +144,7 @@
 ## Collections
 
 - [Carpet Cleaning Chemicals](https://bluegreenmagic.com/collections/carpet-cleaning-chemicals): Explore Bluegreen Magic carpet cleaning chemicals made for professionals. Our top of the line products our  to leave carpet clean and refreshed.*
-  Updated: 2026-03-20T11:32:16Z
+  Updated: 2026-03-26T11:31:53Z
   Total Products: 13
 - [Starter Packs & Samples](https://bluegreenmagic.com/collections/starter-packs-samples)
   Updated: 2026-03-19T11:35:36Z
