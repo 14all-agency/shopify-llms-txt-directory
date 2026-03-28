@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T11:22:33Z
 - Contact Email: care@silvilus.com
-- Updated At: 2026-03-21T00:00:29.543Z
+- Updated At: 2026-03-28T00:00:35.995Z
 
 We  Silver Lab grown diamond jewellery that can be wore on any occation and also daily in work environment it will stay long wont tarnish 
 
@@ -20,7 +20,7 @@ We  Silver Lab grown diamond jewellery that can be wore on any occation and also
   Image: https://cdn.shopify.com/s/files/1/0747/6723/7340/files/Multi_Hexagonal_Earring.jpg?v=1770359362
   Price: ₹15,999.00 INR
 - [Diamond Rain](https://silvilus.com/products/ajer0826): Specification Details Design No AJER0826 Metal STERLING SILVER Metal Color WHITE Gross Weight 4.6g Diamond Weight 0.307ct Diamond Pieces 6 Quality VVS-VS Diamond Color EF Disclaimer: Diamond weight is subject to minor changes.
-  Updated: 2026-03-20T07:52:14Z
+  Updated: 2026-03-21T04:45:45Z
   Vendor: Silvilus
   Product Type: EARRINGS
   Availability: Available
@@ -539,14 +539,14 @@ We  Silver Lab grown diamond jewellery that can be wore on any occation and also
   Image: https://cdn.shopify.com/s/files/1/0747/6723/7340/files/YG-2-6ebde61b-1392-4543-9e83-46c0f4d34546-_1.png?v=1758356090
   Price: ₹7,999.00 INR
 - [Flower Diamond Cluster Pendant - 18Kt Gold vermeil](https://silvilus.com/products/sl20010p): Specification Details Design No SL20010P Metal 18KT GOLD VERMEIL Metal Color YELLOW Gross Weight 1.1g Diamond Weight 0.609ct Diamond Pieces 5 Quality VVS-VS Diamond Color EF Disclaimer: Diamond weight is subject to minor changes.
-  Updated: 2026-03-20T07:58:39Z
+  Updated: 2026-03-21T21:46:07Z
   Vendor: Silvilus
   Product Type: PENDENTS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0747/6723/7340/files/NCM03648.jpg?v=1773993518
   Price: ₹15,999.00 INR
 - [Good Luck Diamond Pendant - 18Kt Gold vermeil](https://silvilus.com/products/sl20012p): Specification Details Design No SL20012P Metal 18KT GOLD VERMEIL Metal Color YELLOW Gross Weight 0.92g Diamond Weight 0.203ct Diamond Pieces 1 Quality VVS-VS Diamond Color EF Disclaimer: Diamond weight is subject to minor changes.
-  Updated: 2026-02-21T12:11:49Z
+  Updated: 2026-03-24T05:49:50Z
   Vendor: Silvilus
   Product Type: PENDENTS
   Availability: Available
@@ -644,7 +644,7 @@ We  Silver Lab grown diamond jewellery that can be wore on any occation and also
   Image: https://cdn.shopify.com/s/files/1/0747/6723/7340/files/PIK01064.jpg?v=1770786485
   Price: ₹6,999.00 INR
 - [Sun Star Pendant - 18Kt Gold vermeil](https://silvilus.com/products/sl2007p): Specification Details Design No SL2007P Metal 18KT GOLD VERMEIL Metal Color YELLOW Gross Weight 1.47g Diamond Weight 0.203ct Diamond Pieces 1 Quality VVS-VS Diamond Color EF Disclaimer: Diamond weight is subject to minor changes.
-  Updated: 2026-03-20T07:56:52Z
+  Updated: 2026-03-21T19:35:47Z
   Vendor: Silvilus
   Product Type: PENDENTS
   Availability: Available
@@ -709,7 +709,7 @@ We  Silver Lab grown diamond jewellery that can be wore on any occation and also
     Image: https://cdn.shopify.com/s/files/1/0747/6723/7340/files/5_cb76d761-2116-4ee7-aa29-10253d5c14ad.webp?v=1770616750
     Price: ₹3,999.00 INR
 - [Twisted Diamond Flower Ring - 18Kt Gold Vermeil](https://silvilus.com/products/sl40015): Specification Details Design No SL40015 Metal 18KT GOLD VERMEIL Metal Color YELLOW Gross Weight 1.73g Diamond Weight 0.14ct Diamond Pieces 1 Quality VVS-VS Diamond Color EF Disclaimer: Diamond weight is subject to minor changes.
-  Updated: 2026-03-20T07:57:53Z
+  Updated: 2026-03-21T22:53:45Z
   Vendor: Silvilus
   Product Type: RINGS
   Availability: Available
@@ -1948,6 +1948,18 @@ We  Silver Lab grown diamond jewellery that can be wore on any occation and also
   - [Oxidized Silver Jewelry Styling and Care Tips | silvilus](https://silvilus.com/blogs/silvilus/oxidized-silver-jewelry-styling-and-care-for-everyday-wear): Oxidized Silver Jewelry Styling and Care Tips | silvilus
     Updated: 2026-03-20T04:30:05Z
     Author: silvilus
+  - [The Fascinating Evolution of Spark Circle Diamond Earrings Exploring Lab Grown CVD Diamond and Gold Vermeil Fashion by Silvilus](https://silvilus.com/blogs/silvilus/the-fascinating-evolution-of-spark-circle-diamond-earrings-exploring-lab-grown-cvd-diamond-and-gold-vermeil-fashion-by-silvilus): The Fascinating Evolution of Spark Circle Diamond Earrings Exploring Lab Grown CVD Diamond and Gold Vermeil Fashion by Silvilus
+    Updated: 2026-03-21T00:51:33Z
+    Author: Rakesh pansuriya
+    Tags: cvd diamond, diamond, earrings, fashion, gold vermeil jewelry, lab grown, spark circle, sustainable diamond earrings
+  - [Discover the Grace of Silvilus Butterfly Diamond Ring Featuring Lab Grown CVD Diamond in Sterling Silver Gold Vermeil](https://silvilus.com/blogs/silvilus/discover-the-grace-of-silvilus-butterfly-diamond-ring-featuring-lab-grown-cvd-diamond-in-sterling-silver-gold-vermeil): Discover the Grace of Silvilus Butterfly Diamond Ring Featuring Lab Grown CVD Diamond in Sterling Silver Gold Vermeil
+    Updated: 2026-03-24T00:33:33Z
+    Author: Rakesh pansuriya
+    Tags: butterfly, cvd diamond, diamond, diamond ring design, elegant butterfly ring, jewelry, lab grown, sterling silver
+  - [Elevate Everyday Elegance with Trinity Gleam Diamond Studs Showcasing Lab Grown CVD Diamond in Sterling Silver and Gold Vermeil by Silvilus](https://silvilus.com/blogs/silvilus/elevate-everyday-elegance-with-trinity-gleam-diamond-studs-showcasing-lab-grown-cvd-diamond-in-sterling-silver-and-gold-vermeil-by-silvilus): Elevate Everyday Elegance with Trinity Gleam Diamond Studs Showcasing Lab Grown CVD Diamond in Sterling Silver and Gold Vermeil by Silvilus
+    Updated: 2026-03-26T00:32:36Z
+    Author: Rakesh pansuriya
+    Tags: diamond, diamond studs, elegance, jewelry, lab diamond jewelry, lab grown, luxury everyday accessories, sterling silver
 - [Timeless Beauty with Silver Diamond Jewelry – Style That Lasts](https://silvilus.com/blogs/timeless-beauty-with-silver-diamond-jewelry-style-that-lasts)
   - [Demi fine jewelry buying tips – Save and sparkle | silvilus](https://silvilus.com/blogs/timeless-beauty-with-silver-diamond-jewelry-style-that-lasts/smart-ways-to-buy-demi-fine-jewelry-that-lasts-longer): Demi fine jewelry buying tips – Save and sparkle | silvilus
     Updated: 2025-09-20T04:30:02Z
@@ -1983,8 +1995,6 @@ We  Silver Lab grown diamond jewellery that can be wore on any occation and also
   Updated: 2025-08-28T05:21:51Z
 - [Exchange & Buyback Policy](https://silvilus.com/pages/exchange-buyback-policy): We take pride in our craftsmanship and want you to be completely satisfied with your purchase. Exchange Policy: · Requests for exchange must be mad...
   Updated: 2026-01-20T10:42:04Z
-- [About Us](https://silvilus.com/pages/about-us)
-  Updated: 2025-05-19T04:13:17Z
 - [Return policy](https://silvilus.com/pages/return-policy): Return & Refund Policy At Silvlius, we take pride in the quality of our jewellery and aim to ensure your complete satisfaction. If for any reason y...
   Updated: 2025-09-23T09:35:48Z
 - [OTP Login](https://silvilus.com/pages/otp-login)
@@ -1995,6 +2005,8 @@ We  Silver Lab grown diamond jewellery that can be wore on any occation and also
   Updated: 2026-02-25T07:55:06Z
 - [Search Results](https://silvilus.com/pages/search-results-page): (function(window, undefined) { var snize_search_results_page = '/pages/search-results-page'; if ( window.location.pathname.indexOf(snize_search_res...
   Updated: 2025-10-28T06:51:57Z
+- [About Silvilus | Fine Jewellery in Sterling Silver, Gold & Rose Gold Vermeil](https://silvilus.com/pages/about-us): .slv-wrap { background-color: #e8eef7; background-image: radial-gradient(ellipse at 20% 20%, rgba(180,200,235,0.45) 0%, transparent 60%), radial-gr...
+  Updated: 2026-03-23T07:47:46Z
 
 ## Policies
 
