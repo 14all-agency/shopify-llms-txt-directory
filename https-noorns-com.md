@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-02T08:02:20Z
 - Contact Email: info@noorns.com
-- Updated At: 2026-03-20T09:07:38.627Z
+- Updated At: 2026-03-28T00:00:25.048Z
 
 ## Products
 
 - [Diet & Methylation Report](https://noorns.com/products/diet-methylation-report): Build steadier energy, mood, and detox capacity by addressing the methylation pathways that matter most for you. Ideal first step if you’re new to nutrigenomics or you’re troubleshooting fatigue, low mood, or stubborn plateaus. What you’ll learn: Your key methylation/detox pinch points and ideal B-vitamin forms. What you’ll do: Prioritize foods and supplements that match your genes; avoid the ones that backfire. Why it helps: Targets the pathways most likely to move the needle for you. Pairs with: HPA-Axis & Methylation.
-  Updated: 2026-03-19T06:26:17Z
+  Updated: 2026-03-27T22:00:47Z
   Vendor: Noorns
   Product Type: Digital Nutrigenomics Nutrition Report
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0972/8183/5353/files/HPA-Axis-and-Methylation-Report.png?v=1772010007
   Price: €29.00 EUR
 - [Diet & Longevity: Macro + Micronutrients](https://noorns.com/products/diet-longevity-macro-micronutrients): Add healthy years by matching your macronutrient balance and micronutrient priorities to your genetics. Great for healthspan-focused individuals who want a clear, sustainable food blueprint instead of fads. What you’ll learn: Genes influencing carb/fat/protein tolerance, satiety, glucose and lipid handling, and key micronutrient needs. What you’ll do: Set your ideal macro ranges, staple foods, and timing; plug true micronutrient gaps. Why it helps: Replaces trial-and-error diets with a personalized, long-game plan. Pairs with: Methylation & Diet.
-  Updated: 2026-03-19T06:23:16Z
+  Updated: 2026-03-26T19:19:08Z
   Vendor: Noorns
   Product Type: Digital Nutrigenomics Nutrition Report
   Availability: Available
@@ -133,13 +133,13 @@
 ## Collections
 
 - [Home page](https://noorns.com/collections/frontpage)
-  Updated: 2026-03-12T11:33:54Z
+  Updated: 2026-03-27T11:36:09Z
   Total Products: 15
 - [All Products](https://noorns.com/collections/all-nutrigenomics-reports)
-  Updated: 2026-03-12T11:33:54Z
+  Updated: 2026-03-27T11:36:09Z
   Total Products: 17
 - [Nutrigenomics Tests](https://noorns.com/collections/nutrition-reports)
-  Updated: 2026-03-12T11:33:54Z
+  Updated: 2026-03-27T11:36:09Z
   Total Products: 15
 - [Consultations](https://noorns.com/collections/consultations)
   Updated: 2026-02-25T08:50:16Z
