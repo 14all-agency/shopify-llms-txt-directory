@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-06-11T13:43:53Z
 - Contact Email: esthera@esthera.com
-- Updated At: 2026-03-22T00:00:43.911Z
+- Updated At: 2026-03-29T00:00:46.188Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/1111_shoulderbag_areia_01_9228a5de-7244-44b2-a8ed-8cde7f193d33.png?v=1755189226
   Price: $518.00 USD
 - [2PM handbag Brown](https://esthera.com/products/2pm-handbag-brown): The 2PM handbag Brown is crafted from lightly textured lambskin and accented with sophisticated stainless steel details and a signature metal button. A magnetic closure offers versatility in use, providing both security and ease of access to your essentials. This piece is ideal for those who appreciate the combination of premium, soft materials and iconic brand elements in a compact, elegant design
-  Updated: 2026-01-24T02:59:04Z
+  Updated: 2026-03-24T20:19:59Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
@@ -94,22 +94,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/7pm_areia_fur_frente_b5acd0f8-4217-4bd8-89b8-2e20252e2fad.png?v=1755189213
   Price: $586.00 USD
-- [4PM maxi handbag Caramel](https://esthera.com/products/4pm-maxi-handbag-caramel): The 4PM maxi handbag Caramel redefines the classic tote with its striking architectural design and richly textured suede finish. At the heart of its construction are the fixed tubular handles, centered by a beautifully crafted hourglass element that serves as both a brand signature and a functional pivot. This allows the bag to be worn in two distinct ways, providing unmatched versatility and comfort for any occasion. Designed for those who appreciate innovative craftsmanship and a bold silhouette, it is a masterclass in contemporary luxury.
-  Updated: 2026-02-23T19:45:17Z
-  Vendor: Esthera US
-  Product Type: Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/4PM_maxi_handbag_castanho_frente_1_6d5dfbb7-69e7-4ea2-b7d9-6d204e9ec73b.png?v=1755189211
-  Price: $725.00 USD
 - [1PM shoulder bag Caramel](https://esthera.com/products/1pm-shoulder-bag-caramel): The 1PM Esthera Caramel shoulder bag features a geometric design with expandable sides for versatility. Includes a long strap with an Esthera star buckle.
-  Updated: 2026-02-24T16:52:29Z
+  Updated: 2026-03-24T20:19:59Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/1PM_shoulderbag_castanho_frente.png?v=1755189208
   Price: $294.00 USD
 - [1PM crossbody bag Silver](https://esthera.com/products/1pm-shoulder-bag-silver): The 1PM Esthera Silver shoulder bag: structured, geometric design with expandable sides. Comfortable belt-style strap and star buckle for lightweight wear.
-  Updated: 2026-02-23T19:45:18Z
+  Updated: 2026-03-24T20:19:58Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
@@ -150,7 +143,7 @@
   Availability: Available
   Price: $0.01 USD
 - [Gift Card](https://esthera.com/products/gift-card): SWAP Gift Card Product
-  Updated: 2026-01-19T18:19:00Z
+  Updated: 2026-03-24T20:20:02Z
   Vendor: Swap Upgraded V2
   Product Type: Gift Card
   Availability: Available
@@ -198,7 +191,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/3pm_burgundy_costas_1.png?v=1761933806
   Price: $360.00 USD
 - [AMPM reversible belt](https://esthera.com/products/ampm-reversible-belt): Made from genuine leather, the AMPM reversible belt features a flat construction and a double-faced design for maximum versatility. It includes a functional adjustment and dual-colored keepers to customize your look effortlessly. Finished with the signature Esthera star buckle in brushed gold, this piece embodies subtle elegance and a timeless aesthetic.
-  Updated: 2026-01-24T02:59:03Z
+  Updated: 2026-03-25T18:47:18Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
@@ -254,7 +247,7 @@
   Availability: Available
   Price: $0.00 USD
 - [AMPM suede belt](https://esthera.com/products/ampm-suede-belt): Made from genuine suede leather, the AMPM suede belt features a flat design and a soft, velvety texture for a sophisticated look. It is detailed with a polished metal star buckle — a signature Esthera icon — and an adjustable length, ensuring both comfort and versatility across different styles.
-  Updated: 2026-02-01T02:59:04Z
+  Updated: 2026-03-25T18:47:18Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
@@ -300,21 +293,21 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/5PM_castanho_frente.png?v=1755196576
   Price: $513.00 USD
 - [Esthera Webbing Strap Wine + Orange with Gold](https://esthera.com/products/webbing-strap-wine-orange-with-gold): The Webbing Strap Esthera Wine with Gold: Substantial webbing strap with leather end tabs and gold hardware. Comfortable and versatile for everyday style.
-  Updated: 2026-01-19T18:19:01Z
+  Updated: 2026-03-24T20:20:03Z
   Vendor: Esthera US
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/all_day_strap_ceramica_burgundy_04.webp?v=1758835868
   Price: $118.00 USD
 - [Esthera Webbing Strap Wine + Orange with Silver](https://esthera.com/products/webbing-strap-wine-orange-with-silver): The Webbing Strap Esthera Wine + Orange with Silver: Substantial and soft accessory. Clip it on for all-day comfort and instant personalization of select bags.
-  Updated: 2026-01-19T18:19:01Z
+  Updated: 2026-03-24T20:20:04Z
   Vendor: Esthera US
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/all_day_strap_ceramica_burgundy_01_42e6920b-28c3-4075-9849-8c02bb5622ff.webp?v=1758836043
   Price: $118.00 USD
 - [Esthera Webbing Strap Lemon Green with Silver](https://esthera.com/products/webbing-strap-lemon-green-with-silver): The Webbing Strap Esthera Lemon Green with Silver is the easy way to personalize your bag. Wear it crossbody or shoulder;
-  Updated: 2026-01-19T18:19:01Z
+  Updated: 2026-03-24T20:20:03Z
   Vendor: Esthera US
   Product Type: 
   Availability: Available
@@ -328,14 +321,14 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/5pm_preto_frente.png?v=1755196577
   Price: $413.00 USD
 - [Esthera Hat No Ordinary Life Burgundy](https://esthera.com/products/gift-esthera-hat-no-ordinary-life-burgundy): The No Ordinary Life Esthera Burgundy Hat: A premium accessory, included as a special complimentary gift with your purchase. Limited availability.
-  Updated: 2026-01-21T18:14:50Z
+  Updated: 2026-03-25T18:48:09Z
   Vendor: Esthera
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/bone_10.webp?v=1761149376
   Price: $50.00 USD
 - [Esthera Hat No Ordinary Life Gray](https://esthera.com/products/gift-esthera-hat-no-ordinary-life-gray): The No Ordinary Life Esthera Gray Hat: Receive this exclusive, high-quality accessory as a complimentary gift included with your next qualifying purchase.
-  Updated: 2026-02-06T15:17:59Z
+  Updated: 2026-03-25T18:48:09Z
   Vendor: Esthera
   Product Type: 
   Availability: Available
@@ -363,26 +356,26 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/EBN000001CE099_green_02.webp?v=1769558408
   Price: $172.00 USD
 - [LUNA Shoulder bag Green](https://esthera.com/products/luna-shoulder-bag-green): Half-moon shaped bag, crafted in lightweight material with leather details that reinforce thebrand’s identity. The adjustable strap with shoulder pad provides comfort during extended use and allows switching between shoulder or crossbody styles.
-  Updated: 2026-02-27T18:11:21Z
+  Updated: 2026-03-26T15:05:23Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/EBN000002CE099_green_01.webp?v=1769558503
-  Price: $172.00 USD
+  Price: $189.00 USD
 - [LUNA Shoulder bag Black](https://esthera.com/products/luna-shoulder-bag-black): Half-moon shaped bag, crafted in lightweight material with leather details that reinforce thebrand’s identity. The adjustable strap with shoulder pad provides comfort during extended use and allows switching between shoulder or crossbody styles.
-  Updated: 2026-02-27T17:48:37Z
+  Updated: 2026-03-26T15:05:16Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/luna_pret_frente.webp?v=1769558797
-  Price: $172.00 USD
+  Price: $189.00 USD
 - [LUNA Shoulder bag Merlot Red](https://esthera.com/products/luna-shoulder-bag-merlot-red): Half-moon shaped bag, crafted in lightweight material with leather details that reinforce thebrand’s identity. The adjustable strap with shoulder pad provides comfort during extended use and allows switching between shoulder or crossbody styles.
-  Updated: 2026-02-27T17:48:30Z
+  Updated: 2026-03-26T15:05:10Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/luna_vermelho_frente.webp?v=1769559002
-  Price: $172.00 USD
+  Price: $189.00 USD
 - [11 PM Shoulder bag Black](https://esthera.com/products/11-pm-shoulder-bag-black): Asymmetrical bag made of genuine leather with a design that fits perfectly on theshoulder. It has a chain strap with a leather shoulder pad. Metal details contour the front flap. Magnetic closure.
   Updated: 2026-02-27T17:54:12Z
   Vendor: Esthera US
@@ -440,22 +433,22 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/10AM_M_PRETO_FRENTE.webp?v=1772143993
   Price: $395.00 USD
 - [10 AM MAXI Shoulder Bag Black](https://esthera.com/products/10-am-maxi-shoulder-bag-blush-pink-copia): The 10AM bag is made of genuine leather.It features an asymmetrical design, with an easy-opening invisible magnetic closure andzipper for security. Comes with a wide, soft shoulder strap that can become a belt.
-  Updated: 2026-03-06T19:54:00Z
+  Updated: 2026-03-26T18:09:17Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/10ambelted_preto_frente.webp?v=1771875787
   Price: $423.00 USD
 - [CUBE GOLD-BUCKLE BELT 20MM BLACK](https://esthera.com/products/cube-gold-buckle-belt-20mm-m): Leather belt with padded structure.Finished with our new cube buckle in metal alloy.
-  Updated: 2026-02-27T20:29:24Z
+  Updated: 2026-03-26T13:27:54Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_gold_20_preto.webp?v=1772146623
-  - [Black / XS](https://esthera.com/products/cube-gold-buckle-belt-20mm-m?variant=43932526379068)
+  - [Black / XS](https://esthera.com/products/cube-gold-buckle-belt-20mm-m?variant=44148179173436)
     Availability: Available
     Price: $77.00 USD
-  - [Black / S](https://esthera.com/products/cube-gold-buckle-belt-20mm-m?variant=43932526411836)
+  - [Black / S](https://esthera.com/products/cube-gold-buckle-belt-20mm-m?variant=44145615765564)
     Availability: Available
     Price: $77.00 USD
   - [Black / M](https://esthera.com/products/cube-gold-buckle-belt-20mm-m?variant=43932526444604)
@@ -465,12 +458,12 @@
     Availability: Available
     Price: $77.00 USD
 - [CUBE GOLD-BUCKLE BELT 20MM CARAMEL](https://esthera.com/products/cube-gold-buckle-belt-20mm-caramel): Leather belt with padded structure.Finished with our new cube buckle in metal alloy.
-  Updated: 2026-03-19T14:38:10Z
+  Updated: 2026-03-26T13:53:49Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_gold_20_marrom.webp?v=1772146640
-  - [Caramel / XS](https://esthera.com/products/cube-gold-buckle-belt-20mm-caramel?variant=44127979044924)
+  - [Caramel / XS](https://esthera.com/products/cube-gold-buckle-belt-20mm-caramel?variant=44148201324604)
     Availability: Available
     Price: $77.00 USD
   - [Caramel / S](https://esthera.com/products/cube-gold-buckle-belt-20mm-caramel?variant=44127979077692)
@@ -481,24 +474,6 @@
     Price: $77.00 USD
   - [Caramel / L](https://esthera.com/products/cube-gold-buckle-belt-20mm-caramel?variant=43932529033276)
     Availability: Available
-    Price: $77.00 USD
-- [CUBE SILVER-BUCKLE BELT 20MM BLACK](https://esthera.com/products/cube-silver-buckle-belt-20mm-caramel): Leather belt with padded structure.Finished with our new cube buckle in metal alloy.
-  Updated: 2026-02-26T22:59:32Z
-  Vendor: Esthera US
-  Product Type: Belts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_silver_20_preto_01.webp?v=1772146757
-  - [Black / XS](https://esthera.com/products/cube-silver-buckle-belt-20mm-caramel?variant=43932533129276)
-    Availability: Available
-    Price: $77.00 USD
-  - [Black / S](https://esthera.com/products/cube-silver-buckle-belt-20mm-caramel?variant=43932533162044)
-    Availability: Not Available
-    Price: $77.00 USD
-  - [Black / M](https://esthera.com/products/cube-silver-buckle-belt-20mm-caramel?variant=43932533194812)
-    Availability: Not Available
-    Price: $77.00 USD
-  - [Black / L](https://esthera.com/products/cube-silver-buckle-belt-20mm-caramel?variant=43932533227580)
-    Availability: Not Available
     Price: $77.00 USD
 - [WOOL SCARF Gray](https://esthera.com/products/wool-scarf): Soft wool scarf with the Esthera logo woven into the edges.
   Updated: 2026-02-24T16:38:27Z
@@ -550,33 +525,26 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/9pm_cafe_frente.webp?v=1771880239
   Price: $373.00 USD
 - [1AM ENVELOPE BAG BLACK](https://esthera.com/products/1am-envelope-bag): Envelope bag in leather with gold chain. Can be used as a shoulder bag or clutch.
-  Updated: 2026-02-27T15:39:59Z
+  Updated: 2026-03-25T18:51:08Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/1AM_preto_frente.webp?v=1771942695
   Price: $245.00 USD
 - [1AM ENVELOPE BAG BURGUNDY](https://esthera.com/products/1am-envelope-bag-burgundy): Envelope bag in leather with gold chain. Can be used as a shoulder bag or clutch.
-  Updated: 2026-02-27T14:04:30Z
+  Updated: 2026-03-26T18:04:58Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/1AM_burgundy_frente.webp?v=1771942777
   Price: $245.00 USD
 - [1AM ENVELOPE BAG Gold](https://esthera.com/products/1am-envelope-bag-gold): Envelope bag in leather with gold chain. Can be used as a shoulder bag or clutch.
-  Updated: 2026-02-27T15:46:49Z
+  Updated: 2026-03-25T18:51:08Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/1AM_dourado_frente.webp?v=1771942661
   Price: $245.00 USD
-- [10 AM MAXI Shoulder Bag Caramel](https://esthera.com/products/10-am-maxi-shoulder-bag-caramel): The 10AM bag is made of genuine leather.It features an asymmetrical design, with an easy-opening invisible magnetic closure andzipper for security. Comes with a wide, soft shoulder strap that can become a belt.
-  Updated: 2026-02-27T17:46:05Z
-  Vendor: Esthera US
-  Product Type: Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/10ambelted_caramelo_frente.webp?v=1771875972
-  Price: $423.00 USD
 - [10 AM MAXI Shoulder Bag Coffee Brown](https://esthera.com/products/10-am-maxi-shoulder-bag-coffee-brown): The 10AM bag is made of genuine leather.It features an asymmetrical design, with an easy-opening invisible magnetic closure andzipper for security. Comes with a wide, soft shoulder strap that can become a belt.
   Updated: 2026-02-27T17:45:56Z
   Vendor: Esthera US
@@ -585,15 +553,15 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/10ambelted_cafe_frente.webp?v=1771875740
   Price: $423.00 USD
 - [12AM REVERSIBLE BELT 20MM Black + Sand](https://esthera.com/products/12am-reversible-belt-20mm): 20 mm leather belt with flat and reversible structure for use in two colors.Finished with our star buckle, Esthera’s iconic symbol.
-  Updated: 2026-03-03T15:28:23Z
+  Updated: 2026-03-26T14:02:39Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/12am_reversible_04_6c319f45-81ad-4a6a-b856-c4df6f7f6ee0.webp?v=1772551665
-  - [Black + Sand / XS](https://esthera.com/products/12am-reversible-belt-20mm?variant=43981278412860)
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/12am_reversible_04_d6869738-071b-438d-b6d2-35198cd565ab.webp?v=1774388378
+  - [Black + Sand / XS](https://esthera.com/products/12am-reversible-belt-20mm?variant=44148208271420)
     Availability: Available
     Price: $69.00 USD
-  - [Black + Sand / S](https://esthera.com/products/12am-reversible-belt-20mm?variant=43981278445628)
+  - [Black + Sand / S](https://esthera.com/products/12am-reversible-belt-20mm?variant=44145623695420)
     Availability: Available
     Price: $69.00 USD
   - [Black + Sand / M](https://esthera.com/products/12am-reversible-belt-20mm?variant=43981278478396)
@@ -603,15 +571,15 @@
     Availability: Available
     Price: $69.00 USD
 - [12AM REVERSIBLE BELT 20MM Caramel + Navy Blue](https://esthera.com/products/12am-reversible-belt-20mm-caramel-navy-blue): 20 mm leather belt with flat and reversible structure for use in two colors.Finished with our star buckle, Esthera’s iconic symbol.
-  Updated: 2026-03-04T06:05:57Z
+  Updated: 2026-03-26T14:00:36Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/12am_reversible_02_9492dcc1-372f-459d-8806-f414ecb86307.webp?v=1772551650
-  - [Caramel + Navy blue / XS](https://esthera.com/products/12am-reversible-belt-20mm-caramel-navy-blue?variant=43981288865852)
+  - [Caramel + Navy blue / XS](https://esthera.com/products/12am-reversible-belt-20mm-caramel-navy-blue?variant=44148205420604)
     Availability: Available
     Price: $69.00 USD
-  - [Caramel + Navy blue / S](https://esthera.com/products/12am-reversible-belt-20mm-caramel-navy-blue?variant=43981288898620)
+  - [Caramel + Navy blue / S](https://esthera.com/products/12am-reversible-belt-20mm-caramel-navy-blue?variant=44145621205052)
     Availability: Available
     Price: $69.00 USD
   - [Caramel + Navy blue / M](https://esthera.com/products/12am-reversible-belt-20mm-caramel-navy-blue?variant=43981288931388)
@@ -621,15 +589,12 @@
     Availability: Available
     Price: $69.00 USD
 - [12AM REVERSIBLE BELT 20MM Blush Pink + Coffee Brown](https://esthera.com/products/12am-reversible-belt-20mm-blush-pink-coffee-brown): 20 mm leather belt with flat and reversible structure for use in two colors.Finished with our star buckle, Esthera’s iconic symbol.
-  Updated: 2026-03-20T19:41:47Z
+  Updated: 2026-03-26T13:58:49Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/12am_reversible_09_dae97692-6d9c-4a75-a59d-30221a1f711b.webp?v=1772551735
-  - [Blush Pink + Coffee Brown / XS](https://esthera.com/products/12am-reversible-belt-20mm-blush-pink-coffee-brown?variant=43981293813820)
-    Availability: Available
-    Price: $69.00 USD
-  - [Blush Pink + Coffee Brown / S](https://esthera.com/products/12am-reversible-belt-20mm-blush-pink-coffee-brown?variant=43981293846588)
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/12am_reversible_09_925c00b0-e95d-4a4e-b62b-9ecc61645e07.webp?v=1774388345
+  - [Blush Pink + Coffee Brown / S](https://esthera.com/products/12am-reversible-belt-20mm-blush-pink-coffee-brown?variant=44145619861564)
     Availability: Available
     Price: $69.00 USD
   - [Blush Pink + Coffee Brown / M](https://esthera.com/products/12am-reversible-belt-20mm-blush-pink-coffee-brown?variant=43981293879356)
@@ -638,16 +603,16 @@
   - [Blush Pink + Coffee Brown / L](https://esthera.com/products/12am-reversible-belt-20mm-blush-pink-coffee-brown?variant=43981293912124)
     Availability: Available
     Price: $69.00 USD
+  - [Blush Pink + Coffee Brown / XS](https://esthera.com/products/12am-reversible-belt-20mm-blush-pink-coffee-brown?variant=44148204240956)
+    Availability: Available
+    Price: $69.00 USD
 - [12AM REVERSIBLE BELT 20MM Burgundy + Caramel](https://esthera.com/products/12am-reversible-belt-20mm-burgundy-caramel): 20 mm leather belt with flat and reversible structure for use in two colors.Finished with our star buckle, Esthera’s iconic symbol.
-  Updated: 2026-03-04T06:06:47Z
+  Updated: 2026-03-26T13:56:33Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/12am_reversible_12_2063fc9a-3d0b-4123-8703-7d74e73ff0a5.webp?v=1772551791
-  - [Burgundy + Caramel / XS](https://esthera.com/products/12am-reversible-belt-20mm-burgundy-caramel?variant=43981298532412)
-    Availability: Available
-    Price: $69.00 USD
-  - [Burgundy + Caramel / S](https://esthera.com/products/12am-reversible-belt-20mm-burgundy-caramel?variant=43981298565180)
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/12am_reversible_91966cb0-b96b-435b-b5c9-3f18a7a5c3c9.webp?v=1774388463
+  - [Burgundy + Caramel / S](https://esthera.com/products/12am-reversible-belt-20mm-burgundy-caramel?variant=44145618124860)
     Availability: Available
     Price: $69.00 USD
   - [Burgundy + Caramel / M](https://esthera.com/products/12am-reversible-belt-20mm-burgundy-caramel?variant=43981298597948)
@@ -656,16 +621,19 @@
   - [Burgundy + Caramel / L](https://esthera.com/products/12am-reversible-belt-20mm-burgundy-caramel?variant=43981298630716)
     Availability: Available
     Price: $69.00 USD
+  - [Burgundy + Caramel / XS](https://esthera.com/products/12am-reversible-belt-20mm-burgundy-caramel?variant=44148202864700)
+    Availability: Available
+    Price: $69.00 USD
 - [CUBE GOLD-BUCKLE BELT 35MM Black](https://esthera.com/products/cube-gold-buckle-belt-35mm): Leather belt with padded structure.Finished with our new cube buckle in metal alloy
-  Updated: 2026-03-06T10:30:14Z
+  Updated: 2026-03-26T13:45:18Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_gold_35_preto_ab8ffeb6-b874-4fa9-a816-571d4f766fa1.webp?v=1772749809
-  - [Black / XS](https://esthera.com/products/cube-gold-buckle-belt-35mm?variant=43981300760636)
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_gold_35_preto_19818415-9440-457c-b17f-d0f3c4cf59dc.webp?v=1774388613
+  - [Black / XS](https://esthera.com/products/cube-gold-buckle-belt-35mm?variant=44148195393596)
     Availability: Available
     Price: $77.00 USD
-  - [Black / S](https://esthera.com/products/cube-gold-buckle-belt-35mm?variant=43981300793404)
+  - [Black / S](https://esthera.com/products/cube-gold-buckle-belt-35mm?variant=44145588961340)
     Availability: Available
     Price: $77.00 USD
   - [Black / M](https://esthera.com/products/cube-gold-buckle-belt-35mm?variant=43981300826172)
@@ -675,15 +643,15 @@
     Availability: Available
     Price: $77.00 USD
 - [CUBE GOLD-BUCKLE BELT 35MM  Caramel](https://esthera.com/products/cube-gold-buckle-belt-35mm-caramel): Leather belt with padded structure.Finished with our new cube buckle in metal alloy
-  Updated: 2026-03-06T10:29:38Z
+  Updated: 2026-03-26T13:50:10Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_gold_35_marrom_9a3aea76-08bf-4806-893e-99b85976a66d.webp?v=1772749773
-  - [Caramel / XS](https://esthera.com/products/cube-gold-buckle-belt-35mm-caramel?variant=43981310263356)
-    Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_gold_35_marrom_de4eb1b2-7b42-401f-92b0-8dccef048b43.webp?v=1774388632
+  - [Caramel / XS](https://esthera.com/products/cube-gold-buckle-belt-35mm-caramel?variant=44148197818428)
+    Availability: Not Available
     Price: $77.00 USD
-  - [Caramel / S](https://esthera.com/products/cube-gold-buckle-belt-35mm-caramel?variant=43981310296124)
+  - [Caramel / S](https://esthera.com/products/cube-gold-buckle-belt-35mm-caramel?variant=44145587224636)
     Availability: Available
     Price: $77.00 USD
   - [Caramel / M](https://esthera.com/products/cube-gold-buckle-belt-35mm-caramel?variant=43981310328892)
@@ -693,15 +661,15 @@
     Availability: Available
     Price: $77.00 USD
 - [CUBE SILVER-BUCKLE BELT 35MM Black](https://esthera.com/products/cube-silver-buckle-belt-35mm-caramel): Leather belt with padded structure.Finished with our new cube buckle in metal alloy
-  Updated: 2026-03-06T12:47:35Z
+  Updated: 2026-03-26T13:04:33Z
   Vendor: Esthera US
   Product Type: Belts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_silver_35_preto_3fa9a957-b0c1-45f4-8a08-a7aa19528fbd.webp?v=1772749855
-  - [Black / XS](https://esthera.com/products/cube-silver-buckle-belt-35mm-caramel?variant=43981314261052)
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cube_silver_35_preto_bbfba746-0f94-4a8a-b2cf-e8c25a92d371.webp?v=1774388004
+  - [Black / XS](https://esthera.com/products/cube-silver-buckle-belt-35mm-caramel?variant=44148160954428)
     Availability: Available
     Price: $77.00 USD
-  - [Black / S](https://esthera.com/products/cube-silver-buckle-belt-35mm-caramel?variant=43981314293820)
+  - [Black / S](https://esthera.com/products/cube-silver-buckle-belt-35mm-caramel?variant=44145575166012)
     Availability: Available
     Price: $77.00 USD
   - [Black / M](https://esthera.com/products/cube-silver-buckle-belt-35mm-caramel?variant=43981314326588)
@@ -781,56 +749,56 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/passportholder_burgundy_frente.webp?v=1771943717
   Price: $79.00 USD
 - [CARD HOLDER Burgundy](https://esthera.com/products/card-holder-black): Card Holder in genuine leather, compact and functional.It has card slots on both sides and a central compartment.
-  Updated: 2026-02-24T16:29:30Z
+  Updated: 2026-03-25T18:51:07Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cardholder_burgundy_frente.webp?v=1771873189
   Price: $28.00 USD
 - [CARD HOLDER Black](https://esthera.com/products/card-holder-black-1): Card Holder in genuine leather, compact and functional.It has card slots on both sides and a central compartment.
-  Updated: 2026-02-24T16:29:31Z
+  Updated: 2026-03-25T18:51:07Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cardholder_preto_frente.webp?v=1771872997
   Price: $28.00 USD
 - [CARD HOLDER Orange](https://esthera.com/products/card-holder-orange): Card Holder in genuine leather, compact and functional.It has card slots on both sides and a central compartment.
-  Updated: 2026-02-24T16:29:00Z
+  Updated: 2026-03-25T18:51:07Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cardholder_laranja_frente.webp?v=1771872971
   Price: $28.00 USD
 - [CARD HOLDER Blush Pink](https://esthera.com/products/card-holder-orange-blush-pink): Card Holder in genuine leather, compact and functional.It has card slots on both sides and a central compartment.
-  Updated: 2026-02-24T16:28:43Z
+  Updated: 2026-03-25T18:51:07Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/cardholder_rosa_frente.webp?v=1771872941
   Price: $28.00 USD
 - [MODULAR WALLET Sand Multi](https://esthera.com/products/modular-wallet): Modular Wallet in genuine leather with 100% polyester lining.Versatile and functional, it features a removable pocket and compartments for coins,cards, and essential items.
-  Updated: 2026-03-20T17:30:25Z
+  Updated: 2026-03-25T12:05:25Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/MODULAR_WALLET_AREIA_FRENTE.webp?v=1772144900
   Price: $68.00 USD
 - [MODULAR WALLET Blue Multi](https://esthera.com/products/modular-wallet-blue-multi): Modular Wallet in genuine leather with 100% polyester lining.Versatile and functional, it features a removable pocket and compartments for coins,cards, and essential items.
-  Updated: 2026-03-20T17:30:41Z
+  Updated: 2026-03-25T12:07:56Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/MODULAR_WALLET_AZUL_FRENTE.webp?v=1772144698
   Price: $68.00 USD
 - [MODULAR WALLET Burgundy Multi](https://esthera.com/products/modular-wallet-burgundy-multi): Modular Wallet in genuine leather with 100% polyester lining.Versatile and functional, it features a removable pocket and compartments for coins,cards, and essential items.
-  Updated: 2026-03-20T17:30:51Z
+  Updated: 2026-03-25T12:05:09Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/MODULAR_WALLET_BURGUNDY_FRENTE.webp?v=1772144830
   Price: $68.00 USD
 - [MODULAR WALLET Orange Multi](https://esthera.com/products/modular-wallet-orange-multi): Modular Wallet in genuine leather with 100% polyester lining.Versatile and functional, it features a removable pocket and compartments for coins,cards, and essential items.
-  Updated: 2026-03-20T17:31:00Z
+  Updated: 2026-03-25T12:04:46Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
@@ -883,43 +851,43 @@
 ## Collections
 
 - [Bags](https://esthera.com/collections/bag): Discover the perfect Esthera bag for every moment. Explore sophisticated designs, functional features, and premium quality crafted for modern life.
-  Updated: 2026-03-06T14:29:12Z
+  Updated: 2026-03-27T06:15:38Z
   Total Products: 79
 - [Shoulder Bags](https://esthera.com/collections/shoulder-bags): The Esthera Shoulder Bags Collection offers spacious yet structured styles. Discover the perfect blend of daily practicality and timeless elegance.
-  Updated: 2026-03-07T07:18:25Z
+  Updated: 2026-03-27T06:15:37Z
   Total Products: 66
 - [Crossbody Bags](https://esthera.com/collections/crossbody-bags): Shop the Esthera Crossbody Bags Collection. Discover versatile, hands-free designs that blend modern style with ultimate comfort for everyday use.
-  Updated: 2026-03-07T07:18:26Z
+  Updated: 2026-03-27T06:15:38Z
   Total Products: 36
 - [Travel Bags](https://esthera.com/collections/travel-bags): The Esthera Travel Bags Collection: Find elegant, practical accessories for short trips or daily commutes. Crafted for durability and effortless style.
   Updated: 2026-02-09T02:59:05Z
   Total Products: 1
 - [Accessories](https://esthera.com/collections/accessories): Complete your look with the Esthera Accessories Collection. Discover unique belts, straps, and high-quality pieces designed to enhance your signature style.
-  Updated: 2026-03-20T17:31:01Z
+  Updated: 2026-03-27T06:15:36Z
   Total Products: 40
 - [Home | Esthera](https://esthera.com/collections/home)
   Updated: 2025-12-05T17:38:52Z
   Total Products: 0
 - [AM | PM Collection](https://esthera.com/collections/am-pm-collection): AM|PM Esthera Collection reflects our belief in sophisticated design. Find versatile bags built for contemporary life and perfect day-to-night use.
-  Updated: 2026-03-20T17:31:01Z
+  Updated: 2026-03-27T06:15:38Z
   Total Products: 100
 - [Crab Limited Collection](https://esthera.com/collections/crab-limited-collection): The Crab Limited Collection: Embrace unique, distinctive designs in this exclusive capsule. Sophisticated accessories available by Esthera.
   Updated: 2026-02-26T15:35:36Z
   Total Products: 5
-- [New in](https://esthera.com/collections/new-in): The Esthera New Arrivals are here! Discover the newest bags, belts, and accessories, crafted with our signature sophistication and modern functionality.
-  Updated: 2026-03-20T17:31:01Z
+- [Acessories](https://esthera.com/collections/new-in): The Esthera New Arrivals are here! Discover the newest bags, belts, and accessories, crafted with our signature sophistication and modern functionality.
+  Updated: 2026-03-27T19:34:38Z
   Total Products: 65
 - [Belts](https://esthera.com/collections/belt): Complete your look with the Esthera Belts Collection. Discover premium leather and sophisticated designs that blend function and elevated style.
-  Updated: 2026-03-20T11:20:05Z
+  Updated: 2026-03-27T06:15:35Z
   Total Products: 12
 - [Hand Bags](https://esthera.com/collections/hand-bag): Discover the Esthera Hand Bags Collection. Find polished designs crafted for ultimate elegance, meant to be carried by hand or gracefully on the forearm.
-  Updated: 2026-03-06T07:18:03Z
+  Updated: 2026-03-24T20:20:00Z
   Total Products: 25
 - [Straps](https://esthera.com/collections/straps): Personalize your bag with the Esthera Straps Collection. Explore versatile leather and webbing straps for style, comfort, and unique customization.
   Updated: 2025-12-16T17:55:37Z
   Total Products: 4
 - [All](https://esthera.com/collections/all): Explore the entire Esthera range. Find every functional and elegant piece, from handbags to belts, crafted with distinctive identity and lasting quality.
-  Updated: 2026-03-20T17:31:01Z
+  Updated: 2026-03-27T06:15:39Z
   Total Products: 121
 - [10 AM](https://esthera.com/collections/10-am): The AM|PM Esthera Collection reflects our belief in sophisticated design. Find versatile bags built for contemporary life and perfect day-to-night use.
   Updated: 2026-02-26T15:36:50Z
@@ -937,10 +905,10 @@
   Updated: 2026-01-24T02:59:05Z
   Total Products: 1
 - [3 PM](https://esthera.com/collections/3-pm): The 10 AM | PM Esthera Collection: Discover bags that combine sophisticated design with daily functionality. Your perfect contemporary companion, day or night.
-  Updated: 2026-02-20T22:20:59Z
+  Updated: 2026-03-24T20:20:00Z
   Total Products: 3
 - [4 PM](https://esthera.com/collections/4-pm): Sophisticated, functional, contemporary: The AM|PM Esthera Collection has bags designed to transition effortlessly from morning through evening events.
-  Updated: 2026-02-09T03:00:08Z
+  Updated: 2026-03-24T19:55:25Z
   Total Products: 6
 - [5 PM](https://esthera.com/collections/5-pm): Shop the AM|PM Esthera Collection: Find your perfect sophisticated bag for any time of day. We believe in functional, contemporary, and lasting design.
   Updated: 2026-02-09T02:59:05Z
@@ -955,28 +923,28 @@
   Updated: 2026-02-09T03:00:07Z
   Total Products: 9
 - [GIFTS](https://esthera.com/collections/gifts): Choose Your Hat
-  Updated: 2026-03-20T11:20:05Z
+  Updated: 2026-03-24T19:54:27Z
   Total Products: 4
 - [BLACK FRIDAY ESTHERA 2025](https://esthera.com/collections/black-friday-esthera-2025): Every constellation tells a story — and this season, yours begins with extraordinary design.For those who don’t live an ordinary life, our Black Friday brings exclusive offers on signature pieces that merge style, craftsmanship and Brazilian authenticity. Explore our most desired styles — crafted to elevate your everyday moments.Because there’s nothing ordinary about you, and there shouldn’t be anything ordinary about your bag. Up to 40% OFF select styles. Free shipping on orders over $200. Limited quantities available — once they’re gone, they’re gone. No Ordinary Life. No Ordinary Bag.Esthera — Brazilian Design for Real People.
   Updated: 2026-02-09T03:00:07Z
   Total Products: 12
 - [ Esthera](https://esthera.com/collections/-esthera)
-  Updated: 2026-03-21T06:17:54Z
-  Total Products: 31
+  Updated: 2026-03-28T06:15:49Z
+  Total Products: 29
 - [Collection Esthera](https://esthera.com/collections/collection-esthera)
-  Updated: 2026-03-21T06:17:53Z
+  Updated: 2026-03-28T06:15:48Z
   Total Products: 8
 - [NEW COLLECTION AM | PM 2](https://esthera.com/collections/new-collection-am-pm-2): Esthera is for those who seek the extraordinary in every moment,transforming routine into a memorable experience.A fusion of style and functionality.Everyday objects, reimagined with Brazilian design.For those who don’t live an ordinary life.Esthera. No ordinary life, no ordinary bags.
-  Updated: 2026-03-21T06:17:55Z
+  Updated: 2026-03-28T06:15:50Z
   Total Products: 65
 - [Small Leather Goods](https://esthera.com/collections/small-leather-goods)
   Updated: 2026-03-20T17:31:01Z
   Total Products: 18
 - [Scarfs](https://esthera.com/collections/scarfs)
-  Updated: 2026-03-21T06:17:55Z
+  Updated: 2026-03-28T06:15:50Z
   Total Products: 3
 - [Clutches](https://esthera.com/collections/clutches)
-  Updated: 2026-03-21T06:17:57Z
+  Updated: 2026-03-28T06:15:51Z
   Total Products: 6
 
 ## Store Pages
