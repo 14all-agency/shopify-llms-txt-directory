@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-01-14T21:49:54Z
 - Contact Email: perfumeyami@gmail.com
-- Updated At: 2026-03-22T00:00:35.835Z
+- Updated At: 2026-03-29T00:00:40.004Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/306d5c.webp?v=1768841508
   Price: R 350.00 ZAR
 - [Tobacco Gourmand by Fragrance World](https://perfume-yami.myshopify.com/products/tobacco-gourmand-by-fragrance-world): 🔥 Tobacco Gourmand by Fragrance World – Now Available! 🔥 Indulge your senses with Tobacco Gourmand — a warm, inviting fragrance that blends sweetness and spice in perfect harmony. A scent made for moments when you want to feel cozy, confident, and completely irresistible. 🌿 Notes & Vibe: Smooth tobacco leaf wrapped in warm vanilla Hints of caramel and praline for a deliciously sweet touch A woody base that lingers with class and confidence 💫 Perfect For: Evening outings, date nights, or anyone who loves rich, gourmand-style perfumes that leave a lasting impression. 💰 Price: Only R380 📦 Available now at Perfume Yami – Where quality is identity.
-  Updated: 2026-03-14T16:32:58Z
+  Updated: 2026-03-28T04:26:36Z
   Vendor: Perfume Yami 
   Product Type: 
   Availability: Available
