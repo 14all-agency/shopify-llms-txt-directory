@@ -6,7 +6,7 @@
 - Timezone: Etc/UTC
 - Created At: 2025-09-21T10:34:42Z
 - Contact Email: handavinnubarinn@handavinnubarinn.is
-- Updated At: 2026-03-22T00:00:34.926Z
+- Updated At: 2026-03-29T00:00:39.080Z
 
 Our online store features carefully crafted items from our own workshop, a wide range of knitting, crochet, and craft products, as well as yarn and other handcraft supplies. The goal is to create a community for handcraft makers and everyone who loves creating with their hands. 
 
@@ -836,7 +836,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Not Available
     Price: 300,00 kr. ISK
 - [Málband](https://www.handavinnubarinn.is/products/malband): Svart málband úr plasti. Borðinn er einnig svartur með hvítum prentstöfum. Mælir bæði cm og inch. Létt og meðfærilegt málband sem dregst saman með takka fyrir miðju á annari hlið málbandsins og helst stöðugt þegar borðinn er dreginn út.
-  Updated: 2026-02-09T17:18:06Z
+  Updated: 2026-03-28T07:59:38Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -924,7 +924,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/2_9e37167d-d75e-4936-9d93-234a5cd760bf.jpg?v=1766009010
   Price: 890,00 kr. ISK
 - [Stjörnumerkja umferðateljari](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari): Umferðateljarinn/ Prjónafiskurinn er tól sem hentar fyrir alla þá sem bæði prjóna, hekla eða stunda handavinnu sem þarfnast þess að muna hvar maður staddur í umferðum. Umferðateljararnir koma með stjörnumerki sem einnig er framvindumerki til að minna mann á hvar maður er staddur í umferðunum.
-  Updated: 2026-02-21T13:13:27Z
+  Updated: 2026-03-28T12:24:27Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -1339,7 +1339,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/0164FDD4-23AE-4552-81F4-589311B0477B.jpg?v=1773694609
     Price: 1.790,00 kr. ISK
 - [Pickles Mjuk Merino](https://www.handavinnubarinn.is/products/pickles-mjuk-merino): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Með Pickles Soft Merino höfum við fullkomnað merino garn. Það er örlítið þykkara og stöðugra en jafnframt jafnmjúkt og teygjanlegt. Garnið er algjörlega stinglaust og má nota beint á húð barna og ungbarna. Klassískt extra fine merino garn sem hentar fullkomlega í barnaföt og teppi. Spunaaðferðin tryggir að flíkur haldi lögun og sígi ekki. 100% merino frá Perú (án mulesing)50 g dokkur | 125 mPrjónastærð: 3–4,5 mmPrjónfesta á 10 cm: 18–23 lykkjur / 26–32 umferðirHandþvottur Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Soft merino er að finna Hér
-  Updated: 2026-03-17T20:21:04Z
+  Updated: 2026-03-27T14:24:47Z
   Vendor: Handavinnubarinn
   Product Type: Garn
   Availability: Available
@@ -1589,7 +1589,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/E16B8DCD-E484-4A32-A808-E3BE01C28A99.jpg?v=1772924112
     Price: 2.490,00 kr. ISK
 - [Pickles Silk Mohair](https://www.handavinnubarinn.is/products/pickles-silk-mohair): FORPÖNTUN Við bjóðum þetta garn í forpöntun og pöntum beint frá framleiðanda þegar pantanir berast.Áætlaður afhendingartími er 7–10 virkir dagar. Þessi leið gerir okkur kleift að bjóða meira úrval, halda verðinu hagstæðu og forðast að sitja á stórum lager. Ef lágmarksfjöldi pantana næst ekki í lok hverrar viku, verður pöntunin annað hvort send með næstu sendingu eða endurgreidd að fullu. Pickles Silk Mohair garnið er fallegt Kid mohair sem spunnið er utan um hreinan silkiþráð. Gefur hverju verki lúxusblæ. 70% móhair, 30% silki25 g hespur | 200 mPrjónastærð: 3–4 mmPrjónfesta á 10 cm: 16–25 lykkjur / 28–34 umferðirHandþvottur Hægt að nota eitt og sér, tvöfalt eða sem fylgiþráð. Við mælum með handþvotti í köldu eða ylvolgu vatni. Hægt er að vinda flíkina í þvottavél (athugið að velja aðeins vindustillingu, ekki skolun) til að ná mestu vatninu úr. Leggið flíkina síðan flata og mótið hana í rétta lögun. Hún þornar á nokkrum klukkustundum. Uppskriftir sem notast er við Silk mohair er að finna Hér
-  Updated: 2026-03-17T21:07:49Z
+  Updated: 2026-03-22T14:15:56Z
   Vendor: Handavinnubarinn
   Product Type: Garn
   Availability: Available
@@ -2015,23 +2015,45 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/9A73D50B-7F61-467C-9207-BBC07537775D.jpg?v=1773827166
     Price: 790,00 kr. ISK
+- [Krossasaums páskaföndur](https://www.handavinnubarinn.is/products/untitled-mar24_15-33): Gefðu sköpunargleðinni lausan tauminn um páskana með litlu og sætu krossasaumssetti! Í stað hefðbundins striga saumar þú beint í við sem gefur verkinu einstakt og náttúrulegt útlit. Þegar þú hefur lokið við saumaskapinn geturðu smellt formunum í meðfylgjandi standa og skreytt heimilið. Settið inniheldur: 2x Viðarform, 1 egg og 1 kanínu með stöndum. Mynstur Útsaumsþræði Útsaumsnál Fullkomið í páskaeggjaleitina eða sem notaleg samverustund yfir kaffibolla í frítímanum. Hægt er að velja um 4 týpur af litasetti. Málin á hvoru formi er um 6x5cm.
+  Updated: 2026-03-26T06:44:52Z
+  Vendor: Handavinnubarinn
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/IMG-5317.png?v=1774464391
+  - [Bleikt/gult egg & bleik kanína](https://www.handavinnubarinn.is/products/untitled-mar24_15-33?variant=48409716392151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/4DD10E4D-203B-47E1-816D-BBA67F43787F.jpg?v=1774464391
+    Price: 2.490,00 kr. ISK
+  - [Grænt/gult egg & græn kanína](https://www.handavinnubarinn.is/products/untitled-mar24_15-33?variant=48409716424919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/0D4EE44F-A48C-4345-B4C3-633827A4CCF1.jpg?v=1774464391
+    Price: 2.490,00 kr. ISK
+  - [Blátt/hvítt egg & blá kanína](https://www.handavinnubarinn.is/products/untitled-mar24_15-33?variant=48409716457687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/394F1822-9540-4072-A932-C62477ACDAFB.jpg?v=1774464391
+    Price: 2.490,00 kr. ISK
+  - [Fjólublátt/hvítt egg & fjólublá kanína](https://www.handavinnubarinn.is/products/untitled-mar24_15-33?variant=48409716490455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/CB35C687-3759-4B59-AA1D-2DFC697894CB.jpg?v=1774464183
+    Price: 2.490,00 kr. ISK
 
 ## Collections
 
 - [Allar vörur](https://www.handavinnubarinn.is/collections/products)
-  Updated: 2026-03-18T09:15:07Z
-  Total Products: 66
+  Updated: 2026-03-28T11:28:09Z
+  Total Products: 67
 - [Forpöntun](https://www.handavinnubarinn.is/collections/forsala): ATH þessar vörur eru einungis í forpöntun.
-  Updated: 2026-03-17T20:21:09Z
+  Updated: 2026-03-27T11:27:39Z
   Total Products: 19
 - [B Kind Handverk](https://www.handavinnubarinn.is/collections/b-kind-handverk)
-  Updated: 2026-03-11T11:25:11Z
+  Updated: 2026-03-28T11:28:09Z
   Total Products: 9
 - [Föndurvörur](https://www.handavinnubarinn.is/collections/fondurvorur)
-  Updated: 2026-03-10T09:30:58Z
+  Updated: 2026-03-28T11:28:09Z
   Total Products: 18
 - [Fylgihlutir](https://www.handavinnubarinn.is/collections/fylgihlutir)
-  Updated: 2026-03-18T08:59:55Z
+  Updated: 2026-03-28T11:28:09Z
   Total Products: 41
 - [FeaturedProducts](https://www.handavinnubarinn.is/collections/featuredproducts)
   Updated: 2026-03-10T09:35:13Z
@@ -2043,16 +2065,16 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-01-16T12:19:38Z
   Total Products: 0
 - [Garn](https://www.handavinnubarinn.is/collections/garn)
-  Updated: 2026-03-17T20:21:09Z
+  Updated: 2026-03-27T11:27:39Z
   Total Products: 9
 - [Pickles](https://www.handavinnubarinn.is/collections/pickles)
-  Updated: 2026-03-17T20:21:09Z
+  Updated: 2026-03-27T11:27:39Z
   Total Products: 10
 - [Ístex](https://www.handavinnubarinn.is/collections/istex)
   Updated: 2026-02-12T17:34:00Z
   Total Products: 0
 - [Prjónamerki](https://www.handavinnubarinn.is/collections/prjonamerki)
-  Updated: 2026-03-11T11:25:11Z
+  Updated: 2026-03-28T11:28:09Z
   Total Products: 4
 - [Heklunálar](https://www.handavinnubarinn.is/collections/heklunalar)
   Updated: 2026-02-22T12:21:58Z
@@ -2067,7 +2089,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-03-18T09:15:07Z
   Total Products: 5
 - [Umferðateljarar](https://www.handavinnubarinn.is/collections/umferdateljarar)
-  Updated: 2026-03-11T11:25:11Z
+  Updated: 2026-03-28T11:28:09Z
   Total Products: 3
 - [Prjónfestu-og prjónamælar](https://www.handavinnubarinn.is/collections/prjonfestu-og-prjonamaelar)
   Updated: 2026-03-10T09:28:10Z
@@ -2088,10 +2110,10 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-03-10T09:24:12Z
   Total Products: 7
 - [Útsaumur](https://www.handavinnubarinn.is/collections/utsaumur)
-  Updated: 2026-03-10T09:35:48Z
-  Total Products: 1
+  Updated: 2026-03-25T18:45:08Z
+  Total Products: 2
 - [Allir fylgihlutir](https://www.handavinnubarinn.is/collections/allir-fylgihlutir)
-  Updated: 2026-03-18T09:15:07Z
+  Updated: 2026-03-28T11:28:09Z
   Total Products: 47
 - [Gigtarvörur](https://www.handavinnubarinn.is/collections/gigtarvorur)
   Updated: 2026-03-18T09:27:17Z
