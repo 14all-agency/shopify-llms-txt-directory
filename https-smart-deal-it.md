@@ -6,82 +6,82 @@
 - Timezone: Europe/Rome
 - Created At: 2026-01-06T16:36:52Z
 - Contact Email: info@smart-.it
-- Updated At: 2026-03-22T00:00:34.146Z
+- Updated At: 2026-03-29T00:00:37.543Z
 
 ## Products
 
 - [Samsung SM-S938 S25 Ultra 12+512GB 6.9" 5G Titanium Black EU - Smart ](https://smart-.it/products/samsung-sm-s938-s25-ultra-12-512gb-6-9-5g-titanium-black-eu): Il Samsung SM-S938 S25 Ultra è uno smartphone di punta pensato per chi cerca potenza, grande schermo e ampio spazio di archiviazione, in un design elegante Titanium Black EU. Con 12 GB di RAM, 512 GB di memoria interna e connettività 5G, offre fluidità multitasking, esperienze multimediali immersive e download rapidi, tutto in un esclusivo formato europeo. Caratteristiche principali Modello: Samsung SM-S938 S25 Ultra RAM: 12 GB Storage: 512 GB Display: schermo da 6,9 pollici per una visione ampia e coinvolgente Connettività: 5G per streaming, gaming online e trasferimenti veloci Colore: Titanium Black Versione: EU, garantendo compatibilità reti europee e aggiornamenti mirati Benefici Questo dispositivo è ideale per chi gestisce molte app contemporaneamente, archivia librerie di foto e video ad alta risoluzione e desidera un’immersione totale in contenuti multimediali grazie al display generoso. Prestazioni costanti: 12 GB di RAM assicurano multitasking fluido, editing di documenti, videochiamate e giochi pesanti senza rallentamenti. Ampio spazio di archiviazione: 512 GB permettono di conservare app, film, serie e progetti senza dover spesso ricorrere a soluzioni di archiviazione esterne. Esperienza di rete avanzata: la connettività 5G migliora streaming ad alta definizione, download immediati e condivisioni rapide, ovunque tu sia. Stile e versatilità: la finitura Titanium Black conferisce un look moderno e professionale, adatto a contesti personali e di lavoro. Compatibilità europea: versione EU pensata per reti e aggiornamenti locali, con supporto mirato alle bande e alle normative del mercato europeo. - Smart 
-  Updated: 2026-03-18T16:11:26Z
+  Updated: 2026-03-27T16:09:56Z
   Vendor: bigeshop
   Product Type: Telefonia/Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/SMASMSAM2132.jpg?v=1772013151
   Price: 936,92 € EUR
 - [Honor Magic V3 12+512GB 6.43" 5G Black DS OPT - Smart ](https://smart-.it/products/honor-magic-v3-12-512gb-6-43-5g-black-ds-opt): Lo Honor Magic V3 rappresenta l'eccellenza nel segmento dei pieghevoli premium. Con il suo display interno da 6,43 pollici e processore flagship, offre prestazioni senza compromessi per multitasking e gaming. I 12GB di RAM garantiscono fluidità totale, mentre i 512GB di storage soddisfano anche gli utenti più esigenti. La connettività 5G assicura velocità di download e streaming superiori. Il design elegante in nero, con supporto dual SIM, lo rende ideale per chi ricerca innovazione e affidabilità in un dispositivo pieghevole di ultima generazione. - Smart 
-  Updated: 2026-03-20T16:06:49Z
+  Updated: 2026-03-24T20:01:48Z
   Vendor: bigeshop
   Product Type: Telefonia/Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/SMASMHNO0087.jpg?v=1772013178
   Price: 987,77 € EUR
 - [LG 48" OLED OLED48B56LA Ultra-HD 4K HDR Smart TV AI - Smart ](https://smart-.it/products/lg-48-oled-oled48b56la-ultra-hd-4k-hdr-smart-tv-ai): - Smart 
-  Updated: 2026-03-21T05:04:25Z
+  Updated: 2026-03-26T16:08:49Z
   Vendor: bigeshop
   Product Type: TV e Audio/Video/TV OLED
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/OLETVLGE0024.jpg?v=1772013187
   Price: 668,17 € EUR
 - [Xiaomi Watch Smart Band 10 Midnight Black - Smart ](https://smart-.it/products/xiaomi-watch-smart-band-10-midnight-black): Scopri la tecnologia indossabile di con lo Band 10 in Midnight Black. Questo smartwatch combina un display AMOLED luminoso con un design elegante e compatto, perfetto per chi vuole monitorare la propria salute senza compromessi. Traccia frequenza cardiaca, ossigeno nel sangue e qualità del sonno in tempo reale. Con autonomia estesa e resistenza all'acqua, è il compagno ideale per il tuo stile di vita attivo. Sincronizzazione istantanea con lo smartphone per notifiche, messaggi e controllo della musica. Elegante, affidabile, essenziale. - Smart 
-  Updated: 2026-03-19T16:06:38Z
+  Updated: 2026-03-24T20:00:27Z
   Vendor: bigeshop
   Product Type: Telefonia/Indossabili
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/WRBSMXIA0054.jpg?v=1772013189
   Price: 50,35 € EUR
+- [Samsung SM-S931 S25 12+128GB 6.2" 5G Silver Shadow ITA - Smart ](https://smart-.it/products/samsung-sm-s931-s25-12-128gb-6-2-5g-silver-shadow-ita): Samsung Galaxy S25 rappresenta l'eccellenza tecnologica nel palmo della tua mano. Con processore flagship, display AMOLED da 6.2 pollici e 12GB di RAM, offre prestazioni fluide per multitasking e gaming senza compromessi. La fotocamera intelligente cattura dettagli straordinari in qualsiasi condizione di luce, mentre la connettività 5G garantisce velocità di download e streaming superiori. La batteria avanzata assicura autonomia affidabile durante l'intera giornata. Disponibile in elegante Silver Shadow, questo smartphone combina design premium e innovazione tecnologica per chi non scende a compromessi. - Smart 
+  Updated: 2026-03-28T16:05:48Z
+  Vendor: bigeshop
+  Product Type: Telefonia/Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/SMASMSAM2128.jpg?v=1772013195
+  Price: 547,63 € EUR
 - [Switch 2 Console Black + Mario Kart World - Smart ](https://smart-.it/products/switch-2-console-black-mario-kart-world): La nuova evoluzione di Nintendo Switch è qui!Insieme, dove e quando vuoiPorta in vita i tuoi giochi grazie allo schermo più grande a 1080p, oppure collega la console a una TV per giocare a una risoluzione massima di 4K*. Grazie al supporto all’HDR e al frame rate fino a 120 fps potrai goderti colori brillanti, una grafica più definita e un gioco più fluido. Fai scattare i nuovi controller Joy-Con 2 in posizione, grazie ai connettori magnetici. Nei giochi compatibili, entrambi i controller possono anche essere usati come dei mouse. Divertiti con nuovi giochi esclusivi per Nintendo Switch 2, come Mario Kart World. Puoi inoltre giocare ai titoli per Nintendo Switch compatibili**. Contenuto della confezione: Console Nintendo Switch 2 x1 256 GB di memoria di sistema totale. Nota: una parte dello spazio a disposizione è riservata ai dati di sistema. Joy-Con 2 (L) x1 Joy-Con 2 (R) x1 Laccetto per Joy-Con 2 x2 Base per Nintendo Switch 2 x1 Impugnatura Joy-Con 2 x1 Blocco alimentatore per Nintendo Switch 2 x1 Cavo HDMI™ ad altissima velocità x1 Libretto Informazioni importanti per Nintendo Switch 2 x1  per versione digitale Mario Kart World Lingue supportate dalla console Nintendo Switch 2:Inglese (Regno Unito), inglese (USA), francese, francese (Canada), tedesco, spagnolo, spagnolo (America Latina), italiano, olandese, portoghese, portoghese (Brasile), russo, giapponese, cinese (tradizionale), cinese (semplificato), coreano. Dimensioni: circa 166 mm x 272 mm x 13,9 mm (con i Joy-Con 2 collegati)Lo spessore massimo dalla sommità dei control stick alle parti sporgenti dei pulsanti ZL/ZR è di 30,7 mm. Peso: circa 401 g (con i Joy-Con 2 collegati: circa 534 g)Nintendo Switch 2 è compatibile soltanto con le schede microSD Express. *TV e gioco devono essere compatibili con la risoluzione 4K. Con la risoluzione 4K il frame rate è limitato a un massimo di 60 fps.**Nintendo Switch 2 è compatibile sia con la versione su scheda sia con la versione scaricabile dei giochi per Nintendo Switch. Alcuni giochi per Nintendo Switch potrebbero non essere supportati o pienamente compatibili con Nintendo Switch 2. Gli iscritti a Nintendo Switch Online potranno continuare a utilizzare il servizio con Nintendo Switch 2. - Smart 
-  Updated: 2026-03-20T16:08:48Z
+  Updated: 2026-03-24T20:02:21Z
   Vendor: bigeshop
   Product Type: Videogiochi e Toys/Console
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/c95d3b2742d911f0878d901b0ecbd5bf_c95d3b2842d911f0878d901b0ecbd5bf.jpg?v=1772013196
   Price: 504,51 € EUR
-- [OPPO A5 Pro 8+256GB 6.67" 5G Black Brown DS TIM - Smart ](https://smart-.it/products/oppo-a5-pro-8-256gb-6-67-5g-black-brown-ds-tim): OPPO A5 Pro è lo smartphone pensato per chi cerca prestazioni affidabili, ampio spazio di archiviazione e connettività 5G. Con 8 GB di RAM e 256 GB di memoria interna, offre fluidità nel multitasking e spazio a sufficienza per foto, video e app. Caratteristiche Schermo da 6,67 pollici per un'esperienza visiva coinvolgente. RAM 8 GB e memoria interna 256 GB per multitasking rapido e archiviazione ampia. Connettività 5G per download veloci, streaming stabile e videochiamate di qualità. DS TIM: Dual SIM con supporto per l'operatore TIM. Colore Black Brown: finitura a due tonalità elegante e neutra, adatta a ogni stile. Benefici Prestazioni fluide grazie agli 8 GB di RAM che consentono di passare da un'app all'altra senza rallentamenti, anche con giochi leggeri e applicazioni di produttività aperti in contemporanea. 256 GB di memoria interna offrono spazio vitale per foto ad alta risoluzione, video offline, app di lavoro e media, riducendo la necessità di cancellare contenuti o espandere la memoria. 5G significa velocità di download, streaming in alta qualità e conferenze video più affidabili quando sei in movimento, rendendo OPPO A5 Pro una scelta solida per chi lavora o studia da remoto. La configurazione dual SIM permette di gestire due numeri o piani dati sullo stesso dispositivo, utile per distinguere uso personale e professionale o per viaggiare senza cambiare telefono. Il design Nero-Marrone conferisce al device un aspetto moderno e versatile, adatto sia a contesti formali sia a uso quotidiano. Ideale per studenti, professionisti e chi cerca un telefono affidabile con ampio spazio di archiviazione e connettività avanzata. - Smart 
-  Updated: 2026-03-21T05:05:15Z
-  Vendor: bigeshop
-  Product Type: Telefonia/Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/SMASMOPP0243.jpg?v=1772013198
-  Price: 160,50 € EUR
 - [TwoTrees TTC 3018 Pro Metal Milling - Smart ](https://smart-.it/products/twotrees-ttc-3018-pro-metal-milling): PRODOTTO VENDUTO IN KIT DA ASSEMBLARE N.B. E' UN PRODOTTO DIY, NON VERRA' FORNITO ALCUN SUPPORTO TRAINING SULL'UTILIZZO DEL PRODOTTO Descrizione Prodotto Il TwoTrees TTC3018 Pro è una macchina CNC desktop compatta e versatile, perfetta per chi cerca una soluzione precisa per incisioni e tagli di alta qualità. La solida struttura in alluminio e il design intuitivo la rendono ideale sia per principianti sia per maker esperti. Grazie alla testa di fresatura metallica robusta e al motore passo-passo Nema17 affidabile, il TTC3018 Pro garantisce incisioni dettagliate e pulite con vibrazioni ridotte al minimo. La sua ampia compatibilità con materiali come legno, acrilico, PCB e metalli morbidi la rende uno strumento polivalente per progetti di prototipazione, educativi e artigianali. Il controller MKS DLC32 V2.0 basato su ESP32 integra connettività Wi-Fi, USB, TF card ed Ethernet, permettendo un controllo versatile e semplice con firmware compatibile GRBL e software CNC come ArtCAM, Fusion360 ed Easel. Caratteristiche Tecniche / Peculiarità Area di lavoro: 300 × 180 × 40 mm Dimensioni compatte: 420 × 355 × 280 mm, peso 6.8 kg Testa di fresatura completamente metallica per stabilità a lungo termine Motore passo-passo Nema17 per precisione e dettagli nitidi Accuratezza posizionamento XY: 0,1 mm Controller MKS DLC32 V2.0 con connettività Wi-Fi, USB, Ethernet, TF card Firmware GRBL compatibile con ArtCAM, Fusion360, Easel e altri Lavorazione materiali: legno, acrilico, PCB, metalli morbidi come alluminio - Smart 
-  Updated: 2026-03-20T20:03:16Z
+  Updated: 2026-03-28T20:02:55Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/33371.jpg?v=1772213155
   Price: 219,99 € EUR
 - [TwoTrees TTC6050 CNC-Machine - Smart ](https://smart-.it/products/twotrees-ttc6050-cnc-machine): PRODOTTO VENDUTO IN KIT DA ASSEMBLAREN.B. È UN PRODOTTO DIY, NON VERRA' FORNITO ALCUN SUPPORTO TRAINING SULL'UTILIZZO DEL PRODOTTO. La Twotrees 6050 CNC è una fresatrice compatta e potente, pensata per hobbisti avanzati e officine professionali che cercano alta precisione e versatilità su un'ampia area di lavoro. Il solido telaio in alluminio, combinato a un mandrino da 500 W e a funzionalità di sicurezza avanzate come sensori a infrarossi e arresto immediato, garantisce risultati affidabili e una lunga durata. Touch Intelligente Controllo senza sforzo a portata di mano Controllo Multi-Funzione | Intaglio Offline Protezione da Arresto di Emergenza | Protezione da Cambio Utensile Realizzato con Pensiero Industriale Tre assi con guide lineari e viti a sfera Motore Potente, Trasmissione di Precisione Motore potente e design ad alta coppiagarantiscono un taglio e un'incisione efficienti. Il motore è dotato di undado a serraggio manuale per una facile e precisa regolazione della posizione manuale. Velocità massima 5000mm/min Area di Intaglio Maggiore Ampia area di incisione, che offre più spazio di design per compiti complessi di incisione e taglio, sbloccando infinite possibilità creative.600mm( 23.6in ) x 500mm( 19.7in ) x 100mm( 4in ) Rilevamento Infrarosso, Doppia Sicurezza Protezione Automatica: Monitoraggio in tempo reale dell'area di intaglio, il mandrino si ferma entro un secondo per garantire la sicurezza Velocità Massima 12000 RPM 500lm Faretto Impostazione dello strumento in 1 minuto Morsetto ad Alta Rigidezza Zoccolo in MDF Sostituibile Design Economico e Pratico, Ideale per Tagliare Legno, Plastica e Lamiere Metalliche Unità a prova di polvere, stabile e durevole Il design a prova di polvere garantisce stabilità e affidabilità a lungo termine dei componenti di trasmissione, proteggendoli da detriti e usura, prolungando la vita utile della macchina. Espansione Conveniente, Facile Adattamento Aspirapolvere Compatibile A seconda delle esigenze di lavorazione, l'aspirapolvere raccoglie efficacemente polvere e detriti durante il processo, garantendo un ambiente di lavoro pulito e sicuro. 20W Laser Compatibile Il laser da 20W eccelle nella creazione di incisioni di texture fini e intricate con alta precisione. Il suo fascio focalizzato consente di realizzare motivi e texture dettagliati su una varietà di materiali, tra cui legno, pelle e acrilico. Asse Rotativo Compatibile L'Asse Rotativo trasforma il tuo router CNC in una macchina versatile a 4 assi, consentendo incisioni e intagli precisi su oggetti cilindrici o di forma irregolare. 800W Mandrino Compatibile Il mandrino da 800W raggiunge una velocità massima di 30000 RPM, offrendo flessibilità per soddisfare diverse esigenze di lavorazione. La sua gamma di velocità regolabile gli consente di gestire in modo efficiente sia applicazioni leggere che pesanti. Tabella Specifiche Tecniche Twotrees 6050 CNC Voce Dettaglio Area lavoro 600 x 500 x 100 mm Dimensioni macchina 811 x 769 x 530 mm (escl. control box) Peso netto 35.9 kg Struttura Alluminio Mandrino 500W (motore a spazzole 775) Velocità mandrino 8.000–30.000 RPM (alcune fonti: 12.000 max) Diametro utensili 0.5–7 mm (colletto ER11) Display Touchscreen 3.5” IPS (480 x 320 px) Velocità di fresatura max 5.000 mm/min Accelerazione max 500 mm/s² Sistemi operativi Windows, Mac OS, Linux Connessioni USB, WiFi (WLAN) Software supportati Artcam, Fusion360, EASEL, Carveco Maker Firmware GRBL (open source), CNC/laser Materiali lavorabili Legno, MDF, acrilico, fibra di carbonio, alluminio, rame, acciaio inox Piattaforma Profili in alluminio + pannelli MDF intercambiabili Tensione 24V Potenza consumata 110W (standby 15W) Carving layer height Non-metallo: 0.1–20 mm, Metallo: 0.1–0.2 mm Certificazioni CE, FCC, RoHS Funzionalità sicurezza Sensore infrarossi, arresto rapido mandrino Illuminazione Spot integrato 500lm - Smart 
-  Updated: 2026-03-19T14:28:45Z
+  Updated: 2026-03-26T15:06:06Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/TwoTrees-TTC6050-CNC-Fraesmaschine-31388.jpg?v=1772013208
   Price: 1474,99 € EUR
 - [Macchina fresatrice CNC TwoTrees TTC-H80 - Smart ](https://smart-.it/products/macchina-fresatrice-cnc-twotrees-ttc-h80): PRODOTTO VENDUTO IN KIT DA ASSEMBLAREN.B. È UN PRODOTTO DIY, NON VERRA' FORNITO ALCUN SUPPORTO TRAINING SULL'UTILIZZO DEL PRODOTTO. La TTC-H80 è una fresatrice CNC ad alta capacità, studiata per chi necessita di un'area di lavoro più ampia e di maggiore potenza. Grazie al suo robusto telaio in lega di alluminio e al mandrino standard da 500W (espandibile), garantisce lavorazioni stabili e profonde su un gran numero di materiali, tra cui legno duro, MDF, plastica, acrilico e metalli teneri. Il pannello di controllo touchscreen, il supporto Wi-Fi e la compatibilità con software GRBL la rendono una soluzione versatile sia per officine semi-professionali che per utenti avanzati alla ricerca di precisione su larga scala. Caratteristiche principali Struttura rinforzata in lega di alluminio per ridurre vibrazioni e aumentare la precisione Ampia area di lavoro: 460 x 460 x 80 mm, adatta anche a grandi pannelli e progetti complessi Mandrino standard: 500W brushless, fino a 3000W opzionale, regolazione della velocità 8000~30000 RPM Controllo touchscreen 3.5" resistivo per funzionamento offline e impostazioni rapide Connessioni: USB, Wi-Fi 2.4GHz, TF Card per la massima flessibilità di utilizzo Compatibilità software: GRBL open source, Vectric, Fusion360, Carveco Maker, EASEL e altri Lavorazione di legno, MDF, acrilico, fibra di carbonio, alluminio, rame e acciaio inossidabile Sistema colletto ER11, supporta utensili da 0.5 a 7 mm Massima precisione incisione: ±0.05 mm Certificazioni: CE, FCC, RoHS Tabella Specifiche Tecniche TTC-H80 Voce Dettaglio Area lavoro 460 x 460 x 80 mm Dimensioni macchina 772 x 727 x 425 mm Peso netto 19.5 kg Struttura Lega di alluminio Mandrino 500W brushless (Opz: 800W/1.5kW/3kW) Velocità mandrino 8000~30000 RPM Alimentazione 216W doppio canale, ingresso 100-240V AC Controllo Touchscreen 3.5" (480x320px) Tipi file supportati GRBL, CNC e laser open source Colletto ER11 (0.5 - 7 mm) Materiali lavorabili Legno, MDF, acrilico, alluminio, acciaio Accur. incisione ±0.05 mm Software compatibile Vectric, Fusion360, EASEL, Carveco Maker Connessioni USB, Wi-Fi 2.4G, TF Card Sistemi operativi Windows, MacOS, Linux Certificazioni CE, FCC, RoHS La TTC-H80 offre eccellente espandibilità e adattabilità: può essere aggiornata con mandrini più potenti e accessori CNC e laser, risultando ideale per makers, piccoli laboratori e officine digitali che desiderano la massima libertà applicativa in uno spazio contenuto. - Smart 
-  Updated: 2026-03-18T20:03:18Z
+  Updated: 2026-03-26T20:03:35Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/TwoTrees-TTC-H40-H80-CNC-Router-Machine-32641_3.jpg?v=1771776212
   Price: 2139,99 € EUR
 - [Carvera Air Desktop CNC Machine - Smart ](https://smart-.it/products/carvera-air-desktop-cnc-machine): Carvera Air è una macchina CNC da tavolo intelligente e versatile, progettata per artigiani, insegnanti e piccole imprese. Grazie alle sue dimensioni compatte e alle sue potenti funzionalità, offre elevata precisione e flessibilità per un'ampia gamma di materiali e applicazioni. Caratteristiche principali Area di lavoro 30 cm (X) 20 cm (Y) 13 cm (Z) Potenza del mandrino 200W con velocità fino a 13.000 giri/min Precisione eccentricità mandrino <0,01 mm risoluzione motore 0,005 mm Sistema di movimento Viti a sfere con guide lineari Servomotori per assi X/Y/Z Compatibilità software Makera CAM, Fusion 360, VCarve Pro e altro Materiali supportati Legno, plastica, metalli non ferrosi e altro Alta precisione e prestazioni Carvera Air è dotata di un mandrino da 200 W con controllo a circuito chiuso, che raggiunge velocità fino a 13.000 giri/min. Il suo sistema di movimento preciso, che utilizza viti a ricircolo di sfere e guide lineari, garantisce risultati accurati e uniformi su diversi materiali. Con un'eccentricità del mandrino inferiore a 0,01 mm e una risoluzione del motore di 0,005 mm, offre una precisione eccezionale per progetti dettagliati. Compatibilità software versatile Progettato per integrarsi perfettamente con i software CAM più diffusi, Carvera Air supporta Makera CAM, Fusion 360, VCarve Pro e altri ancora. Questa compatibilità consente agli utenti di scegliere il software più adatto al proprio flusso di lavoro, che si tratti di progetti 2D, 3D o laser. Makera CAM, attualmente in versione beta, offre un'interfaccia intuitiva, pensata appositamente per le macchine Carvera, semplificando il processo di lavorazione. Ampio supporto materiale Carvera Air è in grado di lavorare una vasta gamma di materiali, tra cui vari tipi di legno, plastica e metalli non ferrosi come alluminio e ottone. Questa versatilità la rende adatta a un ampio spettro di applicazioni, dalla prototipazione alla didattica, fino alla produzione su piccola scala. Che siate hobbisti desiderosi di dare vita alle vostre idee o professionisti alla ricerca di una macchina CNC affidabile e precisa, Carvera Air offre gli strumenti e le funzionalità necessarie per soddisfare le vostre esigenze. Il suo design compatto, unito a potenti funzionalità, la rende una scelta eccellente per chiunque desideri espandere le proprie capacità di fabbricazione. - Smart 
-  Updated: 2026-03-18T20:03:35Z
+  Updated: 2026-03-25T20:03:26Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Carvera-Air-Desktop-CNC-Machine-32549.jpg?v=1771776213
   Price: 3129,00 € EUR
 - [Polymaker HT-PLA-GF 1,75 mm 1 kg - Smart ](https://smart-.it/products/polymaker-ht-pla-gf-1-75-mm-1-kg): Il filamento Polymaker HT PLA-GF rappresenta l’evoluzione del PLA tradizionale, combinando la facilità di stampa di questo materiale con una straordinaria resistenza termica e meccanica grazie al rinforzo in fibra di vetro. Ideale per chi cerca un PLA ad alte prestazioni senza sacrificare la semplicità tipica del PLA, HT PLA-GF consente di realizzare pezzi più rigidi, stabili e durevoli nel tempo con una finitura impeccabile. Grazie all’adozione di polimeri termoplastiche avanzate e al 20% di fibra di vetro, questo materiale offre una resistenza al calore superiore a 90°C (HDT) e una grande rigidità che lo rendono adatto a componenti tecnici, prototipi funzionali, parti di supporto, oggetti da esposizione e articoli industriali leggeri. La fibra di vetro inoltre conferisce un effetto estetico opaco e tecnico che valorizza la stampa. Il filamento mantiene la facilità di utilizzo del PLA, con limitata deformazione e nessun bisogno di camera riscaldata, mentre la confezione sottovuoto con essiccante garantisce una lunga conservazione e prestazioni costanti. Specifiche tecniche Diametro filamento: 1,75mm (tolleranza ±0,03mm) Composizione: PLA + 20% fibra di vetro Peso netto: 1kg Temperatura di stampa consigliata: 210–230°C Temperatura piano riscaldato: non obbligatorio, consigliato 50–60°C Velocità di stampa consigliata: 40–70mm/s Resistenza alla trazione: 65MPa Modulo di Young: 5.350MPa Allungamento a rottura: 3,5% Temperatura di distorsione termica (HDT): 90°C Densità: 1,2g/cm³ Colore: naturale/opaco, effetto fibra vetro Conservazione: confezionato sottovuoto con essiccante, asciugabile se necessario Compatibilità: stampanti FDM comuni, ideale per stampa senza camera chiusa Consigli d’uso Utilizzare ugelli in acciaio temprato per preservare la lentezza e la qualità di stampa. Ottimo per prototipi funzionali ed estetici con bisogno di resistenza termica superiore al PLA. In caso di umidità, asciugare a 50–60°C per 4–6h. - Smart 
-  Updated: 2026-03-20T20:03:16Z
+  Updated: 2026-03-27T08:03:07Z
   Vendor: 3Digital
   Product Type: Filamento
   Availability: Available
@@ -123,13 +123,13 @@
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Polymaker-HT-PLA-GF-32728_20.jpg?v=1771776227
     Price: 44,99 € EUR
 - [Elegoo PLA Filament 1,75 mm 1 kg - Smart ](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg): Il filamento PLA Elegoo è realizzato in PLA di alta qualità, offrendo un'eccellente stampabilità e risultati sorprendenti per i tuoi progetti di stampa 3D. Il PLA è uno dei materiali termoplastici più diffusi nella stampa 3D grazie alla sua facilità d'uso, alla bassa temperatura di fusione e alla deformazione minima, che lo rendono un'ottima scelta sia per i principianti che per gli utenti esperti. Caratteristiche principali PLA di alta qualità per una stampa fluida e affidabile Forte legame degli strati per stampe durevoli Dimensioni uniformi per stampe accurate Bobina ecologica e anti-groviglio Compatibile con la maggior parte delle stampanti 3D FDM da 1,75 mm Forte legame tra strati Questo filamento PLA di alta qualità presenta un'elevata adesione degli strati, riducendo il rischio di separazione degli stessi durante la stampa e garantendo stampe durevoli con una finitura superficiale liscia. Presenta inoltre una ridotta deformazione e restringimento, il che lo rende ideale per modelli e progetti dettagliati. Dimensioni precise e coerenti Con tolleranze rigorose e una precisione dimensionale di +/- 0,02 mm, questo filamento PLA garantisce una stampa fluida e stabile con un intasamento minimo degli ugelli. Il diametro costante si traduce in tassi di successo di stampa più elevati e una qualità di stampa superiore. Bobina ordinata e senza grovigli Il filamento PLA di Elegoo è avvolto ordinatamente su una bobina di cartone, ecologica e che si degrada più velocemente rispetto alle bobine di plastica. La bobina è inoltre dotata di tre fori per il monitoraggio del filamento rimanente, in modo da poter vedere facilmente quando è il momento di sostituirlo. L'avvolgimento completamente meccanico e la rigorosa ispezione manuale garantiscono che il filamento sia privo di grovigli e pronto all'uso. Ampiamente compatibile Il PLA Elegoo è compatibile con la maggior parte delle stampanti 3D FDM da 1,75 mm, il che lo rende un filamento versatile per una varietà di esigenze di stampa. Grazie alle sue prestazioni eccezionali e alla precisione dimensionale, fornisce risultati affidabili su un'ampia gamma di stampanti 3D. - Smart 
-  Updated: 2026-03-21T20:03:15Z
+  Updated: 2026-03-28T20:03:08Z
   Vendor: 3Digital
   Product Type: Filamento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_1.webp?v=1771776226
   - [Nero](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233857843524)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_1.webp?v=1771776226
     Price: 29,99 € EUR
   - [Bianco](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233857876292)
@@ -137,11 +137,11 @@
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_3_fea142fa-7c8c-4f1f-be56-57f890ebcb3c.webp?v=1771776227
     Price: 29,99 € EUR
   - [Rosso](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233857909060)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313.webp?v=1771776229
     Price: 29,99 € EUR
   - [Giallo](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233857941828)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_2.webp?v=1771776228
     Price: 29,99 € EUR
   - [Grigio](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233857974596)
@@ -149,42 +149,42 @@
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_4.webp?v=1771776233
     Price: 29,99 € EUR
   - [Arancione](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233858007364)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_5.webp?v=1771776234
     Price: 29,99 € EUR
   - [viola](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233858040132)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_6.webp?v=1771776233
     Price: 29,99 € EUR
   - [Marrone](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233858072900)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_7.webp?v=1771776238
     Price: 29,99 € EUR
   - [Rosa](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233858105668)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_8.webp?v=1771776237
     Price: 29,99 € EUR
   - [Blu](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233858138436)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_11.webp?v=1771776237
     Price: 29,99 € EUR
   - [Beige](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233858171204)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_9.webp?v=1771776241
     Price: 29,99 € EUR
   - [Neon Green](https://smart-.it/products/elegoo-pla-filament-1-75-mm-1-kg?variant=56233858203972)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Elegoo-PLA-Filament-32313_12.webp?v=1771776240
     Price: 29,99 € EUR
 - [CNC TTC-3018S TwoTrees - Smart ](https://smart-.it/products/cnc-ttc-3018s-twotrees): PRODOTTO VENDUTO IN KIT DA ASSEMBLARE N.B. E' UN PRODOTTO DIY, NON VERRA' FORNITO ALCUN SUPPORTO TRAINING SULL'UTILIZZO DEL PRODOTTO La macchina CNC TwoTrees TTC3018S è una soluzione di incisione in miniatura versatile e compatta, progettata per soddisfare un'ampia gamma di esigenze artigianali e industriali. Questa macchina multifunzionale combina le capacità di incisione laser e CNC in un unico potente strumento, rendendola adatta sia ai principianti che agli utenti esperti. Per una maggiore sicurezza, il TTC3018S è dotato di una protezione della piastra principale e di un interruttore di arresto di emergenza, che consente agli utenti di interrompere le operazioni in modo sicuro quando necessario. Il telaio del profilo delle macchine è progettato con fori filettati, eliminando la necessità di dadi a T e semplificando il processo di assemblaggio, mentre il kit di pre-assemblaggio garantisce un'esperienza di installazione fluida, anche per i principianti. La macchina CNC TTC3018S supporta l'incisione e il taglio su vari materiali morbidi come plastica, legno, acrilico, PVC, PCB e altro. È perfetta per attività tra cui: Aree di applicazione Lettering acrilico Taglio del legno Lettere in legno Taglio PVC Taglio del pannello isolante Lettering in bambù Lettering in legno chiaro Caratteristiche e specifiche del prodotto Software di controllo: Candela Area di lavoro: 300 x 180 x 40 mm Alimentazione: 24 V (110 V-240 V) Dimensioni della cornice: 420 x 355 x 280 mm Material Carving: Supporta materiali di forma standard, cilindri e superfici curve. I materiali di forma speciale (non standard) non possono essere intagliati. Compatibilità con il sistema operativo: Windows XP / 7 / 8 / 10, Linux Questa macchina offre prestazioni affidabili con il suo giunto e il design a doppio dado per una maggiore tolleranza e stabilità, senza la necessità di parti di collegamento. La TTC3018S supporta una gamma di progetti, dalle incisioni dettagliate al taglio profondo, rendendola la scelta ideale per gli utenti che desiderano lavorare con materiali e design diversi. Grazie alla struttura robusta e al software intuitivo, la macchina CNC TTC3018S è una soluzione efficiente e conveniente per l'incisione e il taglio in progetti personali o professionali. - Smart 
-  Updated: 2026-03-17T23:17:25Z
+  Updated: 2026-03-27T08:03:07Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/cnc-ttc-3018s-twotrees-3digital-droni-e-stampanti-3d-1.webp?v=1771776240
   Price: 209,99 € EUR
 - [TwoTrees Kit Mandrino da 500 W per TTC450 - Smart ](https://smart-.it/products/twotrees-kit-mandrino-da-500-w-per-ttc450): Caratteristiche e proprietà Voltaggio 230V Click-and-Install Velocità di 12.000 giri al minuto Ideale per metalli e altri materiali Con questo kit mandrino da 500 W Click-and-Install di TwoTrees puoi equipaggiare la tua fresatrice CNC con un potente mandrino ad alta velocità da 500 watt. Il mandrino da 500 watt raggiunge una velocità di 12.000 giri al minuto e garantisce una dissipazione del calore silenziosa e veloce per un'incisione fluida. È ideale per incidere metalli o altri materiali. Grazie alla funzione Smart Termination, il mandrino si ferma automaticamente non appena il lavoro è terminato. Nota: il kit viene fornito con una pinza ER11 standard. Suggerimento: l'eccentricità del mandrino è 0,01-0,033. Dati tecnici: Prestazione 500W Velocità 12.000 giri al minuto Coppia massima 0,6 Nm Resistenza dielettrica 400 V Resistenza di isolamento > 2 MΩ Peso netto del mandrino 1,4 kg Lunghezza totale del motore 199 mm (con motore e ventola) - Smart 
-  Updated: 2026-03-18T20:03:37Z
+  Updated: 2026-03-25T20:03:27Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
@@ -205,14 +205,14 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/twotrees-20w-laser-module-per-ttc450-3digital-droni-e-stampanti-3d-1.jpg?v=1771776261
   Price: 444,99 € EUR
 - [Rotary Module Kit 4th Axis per CNC TTC450 - Smart ](https://smart-.it/products/rotary-module-kit-4th-axis-per-cnc-ttc450): Sblocca la precisione: kit modulo rotante CNC 4° asse per TTC450: ridefinizione dell'artigianato Aumenta l'efficienza del CNC con il nostro kit modulo rotativo del 4° asse per TTC450. Esplora la lavorazione versatile, la maestria tridimensionale e l'artigianato di precisione. Artigianato ridefinito per un'impareggiabile maestria CNC! Diametro massimo di bloccaggio per cilindri tondi: 60 mmDiametro minimo di bloccaggio per cilindri tondi: 4 mmLunghezza massima di bloccaggio per cilindri tondi: A seconda della lunghezza di lavoro della macchina. (La distanza occupata dal kit mandrino e dal kit perno superiore deve essere sottratta.)Lunghezza minima di bloccaggio per cilindri tondi: A seconda della testa utensile della macchina. Rapporto di riduzione del mandrino: 4:1Altezza centrale: 50 mm, Altezza totale: 76,5 mmVantaggi: processo di rivestimento resistente alla ruggine, struttura stabile del mandrino a tre griffe, pregevole fattura, ganasce robuste e pratiche, eccellente fattura per massimizzare la durata della vita.Applicazioni: Il quarto asse può essere utilizzato per la lavorazione tridimensionale di cilindri, tubi piegati e cerchi. La macchina per incidere a quarto asse può essere utilizzata per intagliare spirali, cicatrici, giunture di bambù, ecc. - Smart 
-  Updated: 2026-03-20T20:03:16Z
+  Updated: 2026-03-26T20:03:47Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/rotary-module-kit-4th-axis-per-cnc-ttc450-3digital-droni-e-stampanti-3d-1.webp?v=1771776268
   Price: 159,99 € EUR
 - [TWOTREES TTC450 PRO CNC](https://smart-.it/products/twotrees-ttc450-pro-cnc): PRODOTTO VENDUTO IN KIT DA ASSEMBLARE N.B. E' UN PRODOTTO DIY, NON VERRA' FORNITO ALCUN SUPPORTO TRAINING SULL'UTILIZZO DEL PRODOTTO TTC 450 Pro di Two Trees è una fresatrice CNC perfetta sia per gli hobbisti che per i professionisti con caratteristiche come precisione, versatilità e facilità d'uso. Grazie ad una generosa area di lavoro di 460 x 460 x 80 mm e robusti profili in alluminio, è adatta per una gran varietà di materiali, dal legno alla plastica, compresi l'alluminio e il PVB. Ampia area di lavoro Come il modello precedente, TTC 450, la versione Pro della fresatrice CNC ha un'area di lavoro di 460 x 460 x 80 mm. Ciò consente di realizzare facilmente la maggior parte dei progetti di incisione e una varietà di applicazioni. Con un modulo di rotazione per una maggiore versatilità TTC 450 Pro è compatibile con il modulo di rotazione CNC a quattro assi. Se la fresatrice è dotata del quarto asse, può essere utilizzata per intagliare forme e contorni complessi. Facile passaggio dalla fresatura CNC all'incisione laser Cambia accessori e passa dalla fresatura CNC all'incisione laser (o viceversa). È così facile! Aggiornamenti rispetto a TTC 450 ► Le piastre laterali del portale di TTC 450 Pro sono state rinforzate da 6 mm a 8 mm per garantire stabilità e robustezza ancora maggiori. ► L'asse X di TTC 450 Pro è stato dotato di un motore più potente e più grande (60 mm). ► Per una sicurezza ancora maggiore la fresatrice è dotata di una protezione del mandrino che protegge dalle ustioni. ► Il finecorsa può essere aggiornato per prevenire incidenti e danni al dispositivo. Suggerimento: TTC 450 Pro è pre-assemblata al 95% e può essere installata con semplici passaggi e in soli 10 minuti. Altre caratteristiche: potente scheda madre per controllare più accessori contemporaneamente, facile calibrazione tramite vite di regolazione in ottone. Specifiche tecniche: TTC 450 TTC 450 Pro Dimensioni del dispositivo 782x670x390 mm 742x689x413 mm Area di incisione 460x460x80 mm Materiale profili in alluminio, plastica Dimensioni e tipo della vite di comando T8 passo 2 mm, passo 4 mm, vite di comando a 5 ingranaggi T8 passo 2 mm, passo 4 mm, vite di comando a 5 ingranaggi Metodo di regolazione dell'altezza regolazione automatica del modulo di sollevamento Motore passo-passo A4988, 1,3 A / 17HS8401S, NEMA23 20 mN.m Velocità di incisione 800 mm/min Mandrino 80 W, 8000 giri/min500 W, 12.000 giri/min (opzionale) 80 W, 8000 giri/min500 W, 12.000 giri/min (opzionale) Metodo di incisione connessione USBappsito webdisconnesso connessione USBWi-Fi 2,4 GHz Materiale da intaglio plastica, alluminio morbido, legno, acrilico, PVC, PVB Formato di riconoscimento del software NC, DXF, BMP, JPG, PNG, GCODE Periodo di lavoro continuativo ≤ 6 ore Modalità di incisione incisione grafica, incisione di file, incisione di scansione, incisione di contorni, incisione di pixel Alimentazione 24 V 5 A 120 W Sistemi operativi supportati Windows, macOS Software di supporto Laser GRBL, LightBurn Candle, Carvco, Artcam, Easel Lingua dell'interfaccia utente mandarino, inglese, italiano, francese, tedesco mandarino, inglese, italiano, francese, tedesco, russo, portoghese, spagnolo, giapponese, coreano, turco
-  Updated: 2026-03-18T20:03:33Z
+  Updated: 2026-03-25T20:03:27Z
   Vendor: 3Digital
   Product Type: CNC
   Availability: Available
@@ -240,14 +240,14 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Immagine_7b64c82a-28d4-4055-8160-44e1dd74091f.jpg?v=1771776315
   Price: 89,90 € EUR
 - [Visions of Mana Ps5 Videogioco Playstation 5 Pal Ita Gioco Nuovo Sigillato](https://smart-.it/products/visions-of-mana-ps5-videogioco-playstation-5-pal-ita-gioco-nuovo-sigillato): Una nuova avventura inizia in Visions of Mana, il primo capitolo della serie principale Mana in oltre 15 anni! Immergiti nella vivace grafica di questo stupendo mondo, in cui il potere della natura si combina con le caratteristiche elementali del mana per dare vita a un ricco ecosistema. Visita luoghi incantati, con transizioni quasi prive di interruzioni in uno scenario semi-aperto tutto da scoprire. Preparati a battaglie intense e multidimensionali per arricchire la tua esperienza di combattimento. Usa la magia degli Elementals per esplorare a piacimento questo vasto mondo!
-  Updated: 2026-02-27T16:39:39Z
+  Updated: 2026-03-28T16:42:38Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/visions-of-mana-ps5.jpg?v=1771776323
   Price: 49,90 € EUR
 - [Funko Pop! Marvel Daredevil Born Again (1543) Daredevil (Bobblehead)](https://smart-.it/products/funko-pop-marvel-daredevil-born-again-1543-daredevil-bobblehead): Funko Pop Realizzate in PVC (Vinile), queste miniature sono resistenti e curate nei minimi dettagli.Una versione stilizzata – e ironica – dei tuoi personaggi preferiti: film, cartoni animati, libri, fumetti, programmi televisivi e molto altro!Un oggetto da collezione moderno e simpatico, dallo stile inconfondibile.Un'iconica statuina funko pop vinyl alto circa 10cm ed inserita all'interno di una scatola trarente da collezione
-  Updated: 2026-03-18T10:51:07Z
+  Updated: 2026-03-27T17:30:22Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -331,7 +331,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Immagine_b0dd7961-aca1-49c1-856f-7865e4410cae.jpg?v=1771776463
   Price: 17,90 € EUR
 - [No Man'S Sky Beyond Ps5 Gioco Eu Ita Playstation 5 Psvr2 Compatibile Nuovo](https://smart-.it/products/no-mans-sky-beyond-ps5-gioco-eu-ita-playstation-5-psvr2-compatibile-nuovo): Descrizione: Esplora un vasto mondo aperto nei panni di Kaku, un ragazzo in missione per ristabilire l'equilibrio nel suo mondo. In questo Action RPG vestirai i panni di Kaku, un giovane ragazzo solitario che vive tra le montagne innevate, improvvisamente coinvolto in un’avventura leggendaria da un’antica profezia dimenticata. Il mondo che esplorerai era un tempo modellato dal potente Creatore Saga — un essere divino che manteneva l’equilibrio attraverso i quattro elementi. Ma un giorno, una forza misteriosa proveniente da un altro reame portò il cataclisma: Saga scomparve e le anime elementali furono disperse. Il mondo si frantumò in quattro regioni ostili, ciascuna governata da un signore elementale corrotto. Guidato da questa antica profezia e accompagnato da Piggy, il suo fedele e sorprendentemente utile maialino volante, Kaku è l’unico in grado di riportare l’equilibrio nel mondo. Esplora continenti dimenticati, affronta le sfide delle Rovine, combatti nemici titanici e svela i misteri del Creatore Saga in un viaggio tanto epico quanto introspettivo. Caratteristiche principali: PADRONEGGIA UN SISTEMA DI COMBATTIMENTO DINAMICO Personalizza il tuo stile di lotta grazie a profondi alberi delle abilità, azioni basate su combo e potenti equipaggiamenti. SCATENA IL POTERE DIVINO Risveglia il leggendario potere del Creatore Saga, sblocca trasformazioni straordinarie e scatena abilità devastanti in scontri epici. ESPLORA UN VASTO MONDO ANTICO Viaggia attraverso biomi diversi — le montagne innevate alle paludi tossiche — ricchi di segreti da scoprire. SFIDA LE ROVINE Entra in antichi templi pieni di trappole, enigmi ingegnosi e pericoli, per conquistare tesori rari.
-  Updated: 2026-02-27T16:41:58Z
+  Updated: 2026-03-23T12:19:37Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -548,7 +548,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/1_f7618aba-cb0a-4ce3-b516-f71381eb20ca.jpg?v=1771776756
   Price: 61,90 € EUR
 - [The Elder Scrolls IV: Oblivion Remastered Deluxe Edition Ps5 ITA Playstation 5](https://smart-.it/products/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition-ps5-ita-playstation-5): The Elder Scrolls IV: Oblivion™ Remastered offre una versione modernizzata del Gioco dell’Anno 2006 con una strabiliante grafica rinnovata e meccaniche di gioco affinate. Esplora il vasto territorio di Cyrodiil come mai prima d’ora e impedisci alle forze dell’Oblivion di prenderne il controllo in uno dei più grandi GdR mai realizzati dagli acclamati Bethesda Game Studios.Riscopri CyrodiilAttraversa il vasto mondo di Tamriel e combatti sui piani dell’Oblivion. Tutti i particolari realizzati a mano sono stati meticolosamente ricreati per rendere mozzafiato ogni momento dell’esplorazione.Vivi la “tua” storiaCrea il tuo percorso, sia esso quello di un nobile guerriero, un sinistro assassino, uno stregone avvizzito o un fabbro combattivo, e gioca nel modo che desideri.Lanciati in un’avventura epicaTuffati in un universo pieno di storie affascinanti e incontra una serie di personaggi indimenticabili. Padroneggia l’arte della spada e utilizza potenti incantesimi nella tua lotta per salvare Tamriel dall’invasione daedrica.La storia completaSperimenta tutto ciò che Oblivion ha da offrire con le espansioni Shivering Isles e Knights of the Nine, già pubblicate in precedenza, e i contenuti scaricabili aggiuntivi inclusi in The Elder Scrolls IV: Oblivion Remastered.***The Elder Scrolls IV: Oblivion Remastered - Standard Edition include:• Il gioco base in versione digitale• Le espansioni della storia Shivering Isles e Knights of the Nine• Contenuti scaricabili aggiuntivi: Fighter’s Stronghold, Spell Tome Treasures, Vile Lair, Mehrunes’ Razor, The Thieves Den, Wizard’s Tower, Orrery e Horse Pack Armor Piattaforma: PS5 Uscita: 22/4/2025 Editore: Bethesda Generi: Giochi di ruolo Voce: Inglese Lingue schermo: Cinese (semplificato), Francese (Francia), Giapponese, Inglese, Italiano, Polacco, Portoghese (Brasile), Spagnolo, Tedesco
-  Updated: 2026-03-20T07:12:55Z
+  Updated: 2026-03-26T17:07:41Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -583,7 +583,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/abcbcbImmagine.png?v=1771776817
   Price: 97,90 € EUR
 - [Syberia Remastered - Limited Edition Ps5 Gioco Italiano Nuovo Sigillato](https://smart-.it/products/syberia-remastered-limited-edition-ps5-gioco-italiano-nuovo-sigillato): UNA REMASTERED FEDELE E SBALORDITIVA Incontra i personaggi iconici di Syberia completamente ridisegnati ed esplora le ambientazioni più emblematiche del gioco, riportate in vita con una grafica 3D magnificamente migliorata. ENIGMI MECCANICI RIVISITATI Goditi una nuova interpretazione degli intricati rompicapi del gioco, riprogettati per offrire un’esperienza più fluida e intuitiva, pur mantenendo il loro ruolo essenziale nello svelare i segreti del genio di Voralberg. Gare alla Lasagna con gli Amici! Sfida fino a otto giocatori online in tutto il mondo, oppure divertiti con la modalità multigiocatore locale per un massimo di quattro giocatori in split-screen! Perfetto per competizioni frenetiche tra amici o per le serate di gioco in famiglia. UN’ESPERIENZA DI GIOCO MODERNIZZATA Riscopri il viaggio di Kate Walker con un’interfaccia utente aggiornata, una navigazione 3D migliorata e controlli più fluidi, adattati agli standard odierni, senza compromettere l’anima contemplativa e narrativa del gioco. UN MONDO RICCO E IMMERSIVO Dalla cittadina alpina di Valadilène fino ai confini ghiacciati della Russia orientale, Syberia ti trasporta in un mondo di mistero, automi e macchine poetiche. Vivi un’avventura clockpunk dove il realismo si fonde armoniosamente con la meraviglia onirica.
-  Updated: 2026-02-27T16:41:02Z
+  Updated: 2026-03-26T15:31:32Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -632,14 +632,14 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Fasca_d_etaltiQuantita_per_pro_44.png?v=1771776882
   Price: 33,90 € EUR
 - [Project Motor Racing Ps5 Gioco Corse Italiano Playstation 5 Simulatore Corsa](https://smart-.it/products/project-motor-racing-ps5-gioco-corse-italiano-playstation-5-simulatore-corsa): Project Motor Racing accende tutta la passione, la bellezza e l'intensità del racing professionale. Combinando le auto più iconiche, le serie leggendarie e i circuiti di fama mondiale con modalità di gioco emozionanti e un motore fisico appositamente costruito. Questo è il nuovo punto di riferimento nella simulazione di corse! Funzionalità e dettagli SIMULAZIONE DI ULTIMA GENERAZIONE: Testa la maneggevolezza e la precisione del più recente e avanzato motore fisico per le corse simulate, alimentato dal GIANTS Engine 10, mod-friendly. Ogni auto è stata meticolosamente testata da piloti di simulazione e del mondo reale attraverso il Factory Driver Program. COMPETIZIONE A OGNI ANGOLO: Gareggia con i vertici di ogni epoca delle corse automobilistiche con più di 70 auto ricreate in 10 classi iconiche su 27 tracciati globali: ogni pista è stata scansionata per garantire la massima precisione e autenticità. Ogni auto rappresenta l'apice delle corse automobilistiche. Nessun riempitivo, solo contenuti premium su licenza dei marchi più elitari del mondo, come Lamborghini, Audi e altri ancora. GAMEPLAY MIGLIORATO: Dalla Carriera per giocatore singolo alle Classifiche online native che non richiedono abbonamento. Da tutta l'adrenalina di un weekend di gara completo al Cross-Play integrato. Da 3 tipi di classifiche asincrone a gare multi-classe di 4 classi. Questo è il brivido delle corse per ogni livello di abilità e per ogni stile di gioco.
-  Updated: 2026-03-20T00:16:37Z
+  Updated: 2026-03-28T11:16:58Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/81lWBsKL2oL._AC_SL1500.jpg?v=1771776886
   Price: 49,90 € EUR
 - [Hisense Smart TV 32" 2025 32E43QT HDR VIDAA U8 Airplay2 Game Mode Alexa](https://smart-.it/products/hisense-smart-tv-32-2025-32e43qt-hdr-vidaa-u8-airplay2-game-mode-alexa): Smart TV HD Ready 32", Risoluzione 1280x720 Smart TV VIDAA U8 con +1000 APP Audio DTS HD Uscita Cuffie Doppio Audio Sintonizzatore TV T2/S2 HEVC + Hotel Mode Un'immagine nera in modo uniformeLa tecnologia Direct Full Array di Hisense trasforma il tuo schermo in una tela di precisione. Ogni angolo garantisce meticolosamente i colori più ricchi e i neri più profondi per un'immagine costantemente straordinaria su tutto il display.Colore migliorato. Riproduzione fedele.Natural Color Enhancer massimizza la riproduzione dei colori del tuo TV per assicurarti la migliore esperienza. Non importa il contenuto, che tu stia godendo di sport, film o abbuffandoti di un cofanetto, guarda tutti i tuoi contenuti con colori realistici migliorati, nel modo in cui dovevano essere visti.Senti l'atmosfera con un audio coinvolgenteFilm, programmi TV, sport, musica: l'intrattenimento che ami è ancora migliore quando lo ascolti su Hisense TV con DTS® Virtual:X™ e Dolby Audio. La sua chiarezza cristallina, i dialoghi facili da ascoltare, gli ottimi dettagli e gli effetti sonori surround realistici si uniscono per aumentare l'impatto delle tue scene ed eventi preferiti.Easy. Fast. Secure. Global and Local EntertainmentPowered by the latest VIDAA Smart platform it offers the most intuitive, fully customisable and secure OS, allowing you to watch your favourite content your way. Access all the entertainment you love from Disney+, Netflix, Prime Video, YouTube, and many more.Ottieni il posto migliore dello stadioEntra in azione con la Sports Mode in cui ogni filo d'erba, ogni nota nella voce del commentatore e ogni applauso del pubblico prendono vita con sorprendente chiarezza. Sport coinvolgenti, pensati in modo intelligente per un'esperienza da stadio comodamente da casa tua.Scala le classificheMettiti in pole position con la modalità Game Mode, che ti offre un gioco estremamente fluido con un basso ritardo di input. Lascia che la tua TV Hisense ti aiuti a portare i tuoi giochi al livello successivo dandoti saldamente il controllo.Dati tecnici Design Materiale della scoccaPlasticaColore del prodottoNeroMontaggio standard VESASìPanel mounting interface 24/5000 Interfaccia per montaggio a pannello200 x 200 mm Peso e dimensioni Larghezza supporto81,1 cmClasse climatica18,6 cmAltezza (con supporto)565 mmProfondità (con supporto)186 mmPeso (con supporto)5,4 kgLarghezza (senza supporto)900 mmAltezza(senza supporto)515 mmProfondità (senza supporto)85 mm TV Smart Smart TVSìInternet TVSìSistema operativo inclusoVIDAAApplicazioni VideoAmazon Prime Video, DAZN, Disney+, Netflix, Rakuten TV, YouTubeSupporto Apple AirPlay 2No Dati su imballaggio Peso dell'imballo7,9 kgTipo di imballoScatolaLarghezza imballo1008 mmAltezza imballo615 mmProfondità imballo129 mm TV tuner Formato del segnale digitaleDVB-C, DVB-S, DVB-S2, DVB-T, DVB-T2Tipo sintonizzatoreAnalogico e digitale Networking Wi-FiSìBluetoothNoCollegamento ethernet LANSìStandard Wi-Fi802.11b, 802.11g, Wi-Fi 4 (802.11n) Gestione energetica Tensione di ingresso AC100 - 240 VClasse di efficienza energetica (SDR)FConsumi (modalità stand-by)0,5 WConsumo di energia (SDR) per 1000 ore39 kWhConsumo energetico (max)74 W Audio Numero di altoparlanti2Potenza in uscita (RMS)14 WFormato audio integratoDTS Virtual:X, DTS-HDEqualizzatoreSì Connettività Common interface Plus (CI+)SìAudio Return Channel (ARC)SìQuantità porte HDMI2Versione HDMI1.4Ingressi audio (L,R)1Uscite per cuffie1Uscita audio digitale ottico1Quantità porte USB 2.02Quantità porte Ethernet LAN (RJ-45)1 Caratteristiche speciali Tecnologie Hisense (AV/TV)DTS Virtual: X™ Prestazione Controllo genitoriSìFormati video supportatiAVC, AVI, FLV, HEVC, MKV, MOV, MP4, MPEG, MPG, TS, VOB, WEBM, WMVFormati audio supportatiAAC, FLAC, MP3, MPEG, OPUS, WAV, WMAFormati immagini supportatiBMP, GIF, JPEG, PNG Display Dimensioni diagonale schermo(32")Tipologia HDHDRapporto d'aspetto nativo16:9Forma dello schermoPiattoRisoluzione del display1280 x 720 PixelAngolo di visualizzazione (orizzontale)178°Angolo di visualizzazione (verticale)178°Frequenza di aggiornamento nativo60 HzLuminosità schermo200 cd/m²Tempo di risposta9,5 msRapporto di contrasto5000:1Tipo di retroilluminazione LEDDirect-LED
-  Updated: 2026-03-20T16:18:07Z
+  Updated: 2026-03-27T15:24:16Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -667,7 +667,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/81-RQzX6dhL._AC_SL1500.jpg?v=1771776918
   Price: 31,90 € EUR
 - [Life Is Strange - Double Exposure Nintendo Switch Gioco Italiano Pal Ita Nuovo](https://smart-.it/products/life-is-strange-double-exposure-nintendo-switch-gioco-italiano-pal-ita-nuovo): Max Caulfield, fotografa ospite alla prestigiosa Università Caledon, trova la sua nuova migliore amica, Safi, morta nella neve. È stata uccisa. Per salvarla, Max prova a riavvolgere il tempo, un potere che non usa da anni. Questo non funziona, ma al suo posto Max apre un portale per una sequenza temporale parallela in cui Safi è ancora viva, seppur in pericolo! Max capisce che l'assassino colpirà di nuovo, in entrambe le realtà. Grazie al suo nuovo potere con cui riesce a passare da una sequenza temporale all'altra, Max riuscirà a risolvere ed evitare lo stesso omicidio? Caratteristiche: UNA RAGAZZA ORDINARIA CON UN POTERE STRAORDINARIO Max si ritrova coinvolta in un elettrizzante giallo sovrannaturale, con ancora più pericoli che mai! ESPLORA DUE SEQUENZE TEMPORALI Cerca degli alleati e indaga sui sospetti in due realtà diverse, mentre cambi il corso di entrambe le sequenze temporali con delle scelte difficili da dimenticare. UNA CORSA CONTRO IL TEMPO Un insistente detective non perde mai di vista Max, che con ogni indizio scoperto è sempre più vicina a rivelare l'assassino di Safi. Max riuscirà a cavarsela abbastanza a lungo per fare l'impossibile? DECIDI IL DESTINO DELLA CALEDON Esplora due versioni di un dinamico campus universitario, ognuna ricolma di indizi, segreti e decisioni difficili. UNA COLONNA SONORA ESCLUSIVA Un'incredibile colonna sonora originale, delle nuove canzoni e degli emozionanti brani con licenza!
-  Updated: 2026-02-27T16:39:37Z
+  Updated: 2026-03-28T16:40:14Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -709,7 +709,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/resize_img_34_0e4d3120-7c56-4064-8657-88195c0c519b.jpg?v=1771776961
   Price: 14,90 € EUR
 - [Painkiller Ps5 Videogioco Playstation 5 EU Italiano Gioco Nuovo Sigillato](https://smart-.it/products/painkiller-ps5-videogioco-playstation-5-eu-italiano-gioco-nuovo-sigillato): Questa riedizione moderna della classica saga di Painkiller offre sia il gioco offline, sia la modalità coop online fino a tre giocatori. Preparati ad affrontare orde di demoni e terrori titanici in dettagliatissime ambientazioni gotiche! Ti trovi in Purgatorio, condannato alla pena eterna per le tue trasgressioni contro il Paradiso. Ma la Voce del Creatore ti offre una possibilità di redenzione: in qualità di uno dei Campioni, dovrai fermare l'angelo caduto Azazel, che sta per scatenare le sue armate demoniache contro la Terra. Affronterai orde di nemici, demoni con poteri unici e i tre mostruosi figli di Azazel, i nefilim. Riuscirai a completare la missione e conquistare la salvezza? Il Purgatorio è il tuo parco giochi - Salta, scatta e fai acrobazie in enormi ambienti gotici mentre affronti i nemici con un arsenale di armi vecchie e nuove. Ti attendono orrori grotteschi - Sfida un esercito di nemici differenti, dalle orde di piccoli demoni ai terrori titanici. Scatena il dolore - Usa le carte dei tarocchi per potenziare le tue abilità e combinarle con quelle degli altri giocatori per annientare i nemici. Personaggi unici - Scegli fra quattro personaggi (Ink, Void, Sol e Roch) le cui abilità hanno diversi valori di energia, salute, potenza e danno. Piattaforma:PS5Uscita:9/10/2025Editore:Saber Interactive, IncGeneri:AzioneCOPERTINA:EU
-  Updated: 2026-03-16T14:30:58Z
+  Updated: 2026-03-23T11:49:27Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -842,7 +842,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/1_f2977106-f917-4053-ab25-a27ae0498b2c.jpg?v=1768066782
   Price: 29,90 € EUR
 - [Paladone Lampada Marvel XmenLogo Light Led Luce Illuminazione Tavolo Parete](https://smart-.it/products/paladone-lampada-marvel-xmenlogo-light-led-luce-illuminazione-tavolo-parete): Lampada Logo X-Men. Due opzioni di montaggio: a muro o con il supporto da tavolo. Incluso il cavo di ricarica USB, richiede 3 batterie AAA (NON incluse). Misura: 27cm
-  Updated: 2026-02-27T16:30:24Z
+  Updated: 2026-03-25T15:11:40Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -926,7 +926,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/1_9dc0aea6-ec62-4ed3-a2f1-80d476d48776.jpg?v=1771777244
   Price: 154,90 € EUR
 - [Funko Pop ! Animation - Jujutsu Kaisen (2128) Mahoraga Vinyl 15cm](https://smart-.it/products/funko-pop-animation-jujutsu-kaisen-2128-mahoraga-vinyl-15cm): Realizzate in PVC (Vinile), queste miniature sono resistenti e curate nei minimi dettagli. Esclusiva Funko Una versione stilizzata – e ironica – dei tuoi personaggi preferiti: film, cartoni animati, libri, fumetti, programmi televisivi e molto altro! Un oggetto da collezione moderno e simpatico, dallo stile inconfondibile. Un'iconica statuina funko pop vinile alto circa 10cm ed inserita all'interno di una scatola trarente da collezione
-  Updated: 2026-03-16T16:43:33Z
+  Updated: 2026-03-25T00:26:16Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -982,7 +982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/ua43.jpg?v=1771777288
   Price: 309,90 € EUR
 - [The Precinct Ps5 Gioco Eu Italiano Police Playstation 5 Videogioco ITA](https://smart-.it/products/the-precinct-ps5-gioco-eu-italiano-police-playstation-5-videogioco-ita): Sei l'agente Nick Cordell Jr. Sei un poliziotto in erba appena uscito dall'accademia, e per questo sei in prima linea nella difesa dei cittadini di Averno City. Tuffati in un mondo di inseguimenti elettrizzanti, crimini generati proceduralmente e una buona dose di noir in stile anni 80, mentre proteggi la popolazione e risolvi il mistero dell'omicidio di tuo padre.Scendi in stradaThe Precinct è una lettera d'amore ai classici film polizieschi, che si mescola con lo spettacolo del sandbox d'azione. Pattuglia le strade e rispondi alle chiamate per combattere criminali meschini e potenti. Scegli le tue tattiche durante gli inseguimenti e le sparatorie. Segui gli slittamenti del potere tra le gang di Averno City, in una città viva e ricca di crimini generati proceduralmente, dalle soste vietate alle rapine in banca, fino alle corse per strada dietro agli spacciatori.Inseguimenti emozionantiSfreccia nella città in inseguimenti frenetici in auto o in elicottero e bracca i criminali attraverso vicoli intricati, prima di consegnarli alla giustizia. Non devi agire in solitaria: i migliori agenti di Averno City possono darti supporto, con un sistema di dettagliato che ti consente di chiamare volanti, posti di blocco, strisce chiodate e molto altro ancora.Una città che non dorme maiEsplora il mondo criminale in continuo movimento di Averno City. Affronta yuppie, vagabondi, venditori ambulanti e autisti di taxi furiosi dalle zone residenziali fino al quartiere finanziario. Insegui i delinquenti attraverso vicoli illuminati al neon, strade bagnate dalla pioggia e immensi parcheggi abbandonati, tutti soggetti al ciclo giorno/notte e al tempo atmosferico dinamico. Ecco la Costa est degli anni '80 in tutta la sua gloria al neon.Caratteristiche principali- Esplora una città vivace a piedi, a bordo di un'auto della polizia o su un elicottero- Rispondi a crimini generati proceduralmente che spaziano dalla sosta vietata alle sparatorie tra gang- Partecipa a inseguimenti frenetici in ambienti distruttibili- Vai in solitaria o chiama i rinforzi con un sistema di supporto dettagliato- Indaga sulle gang che governano la città e sulle oscure cospirazioni che le mantengono al comando- Ciclo giorno/notte con tempo atmosferico dinamico Uscita: 13/05/2025Editore: Kwalee LtdGeneri: Azione
-  Updated: 2026-02-27T16:30:25Z
+  Updated: 2026-03-25T18:20:35Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1010,7 +1010,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/71ewCsrOiBL._AC_SL1500.jpg?v=1771777312
   Price: 25,90 € EUR
 - [DJI Drone Mini Con Fotocamera 4K + Radiocomando RC-N1 Camera UHD 10Km](https://smart-.it/products/dji-drone-mini-con-fotocamera-4k-radiocomando-rc-n1-camera-uhd-10km): DJI Mini 4K | Minidrone con fotocamera 4K Peso inferiore a 249 g, Certificazione Classe C0 - Essendo ultraleggero, Mini 4K è autorizzato a volare nelle categorie A1 e A3. Gli operatori non devono sostenere alcun test. 4K in Ultra HD e stabilizzatore a 3 assi per riprese di qualità cinematografica - Cattura momenti straordinari con qualsiasi luce: albe, tramonti e scene notturne. Grazie allo stabilizzatore a 3 assi puoi ottenere riprese di qualità cinematografica. Resistenza a venti fino a 38 km/h (livello 5) - I motori brushless migliorano la potenza e consentono il decollo ad altitudini fino a 4.000 metri. Inoltre, la distanza di trasmissione raggiunge i 10 km. [2] Creatività senza fine, grazie all'estesa durata della batteria - Puoi scegliere fra tre set diversi: set con 1 batteria (31 min), set con 2 batterie (62 min) o set con 3 batterie (93 min). [3] Niente più ansia da batteria scarica. Ideale per i principianti, sicuro - DJI Mini 4K supporta decollo e atterraggio a un tocco, Return to Home (RTH) GPS e stazionamento ultra stabile, azionamento semplice one-touch Ulteriori risorse di apprendimento in-app, per padroneggiare subito il volo. Aumenta l'ispirazione con i QuickShots intelligenti - Con pochi tocchi, Mini 4K cattura automaticamente video di livello professionale utilizzando i QuickShots Spirale, Dronie, Rocket, Circle e Boomerang. Include DJI Mini 4K, 1 batteria, un RC-N1C e tutto il necessario per facili voli in 4K. Una scelta eccellente e conveniente per i principianti. Note: I requisiti normativi applicabili possono variare a seconda del modo in cui si utilizza il drone. Per la tua sicurezza, controlla sempre e rispetta rigorosamente le leggi e le regolamentazioni locali prima di volare.
-  Updated: 2026-03-04T14:03:27Z
+  Updated: 2026-03-25T22:05:08Z
   Vendor: Luemm Store
   Product Type: Drone
   Availability: Available
@@ -1059,7 +1059,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Fascad_etaltiQuantitaperpro_50.png?v=1771777356
   Price: 17,90 € EUR
 - [Philips Pc Monitor 24" Led Full Hd 100hz 4ms Vga/Hdmi 24e2n1100lb/00](https://smart-.it/products/philips-pc-monitor-24-led-full-hd-100hz-4ms-vga-hdmi-24e2n1100lb-00): Marca ‎Philips Monitors Produttore ‎Philips colore ‎Black Dimensioni prodotto ‎18 x 54,1 x 41,6 cm; 4,08 kg Numero modello articolo ‎24E2N1100LB Dimensione schermo ‎23,8 Pollici Risoluzione schermo ‎1920x1080 Risoluzione ‎1920 x 1080 Pixel Peso articolo ‎4,08 Kilograms Aggiornamenti software garantiti fino a ‎sconosciuto
-  Updated: 2026-03-07T20:30:21Z
+  Updated: 2026-03-24T10:43:11Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1227,7 +1227,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/resize_img_3_ab40bd82-1d3d-4829-a74f-164f1c73536e.jpg?v=1771777449
   Price: 9,90 € EUR
 - [Funko Pop ! Animation Dragon Ball Gt - (2074) Super Saiyan 4 Gogeta (Chase)](https://smart-.it/products/funko-pop-animation-dragon-ball-gt-2074-super-saiyan-4-gogeta-chase): Funko ExclusiveRealizzate in PVC (Vinile), queste miniature sono resistenti e curate nei minimi dettagli. Funko Exclusive Una versione stilizzata – e ironica – dei tuoi personaggi preferiti: film, cartoni animati, libri, fumetti, programmi televisivi e molto altro!Un oggetto da collezione moderno e simpatico, dallo stile inconfondibile.Un'iconica statuina funko pop vinyl alto circa 10cm ed inserita all'interno di una scatola trarente da collezione
-  Updated: 2026-02-27T16:31:33Z
+  Updated: 2026-03-26T21:11:25Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1262,7 +1262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/2e6e252007537cb16e03c4b5498ac1c2.jpg?v=1771777469
   Price: 99,90 € EUR
 - [PANINI Stickers Skifidol BRAINROT Album Collection Figurine Ufficiale ITA](https://smart-.it/products/panini-stickers-skifidol-brainrot-album-collection-figurine-ufficiale-ita): Album da 48 pagine. Benvenuto nell’universo più folle e no-sense mai creato!Skifidol™ Italian Brainrot è la collezione definitiva di 300 figurinepsichedeliche, con 100 sticker brillanti che trasformano ogni pagina in un'esplosione di umorismo assurdo e cultura pop.Ogni personaggio è una caricatura grottesca e geniale, nata da una crepa tra il mondo reale e quello digitale. Dalle serie Universo Psichedelico e Allucinazione Cosmica, ogni sticker racconta una microstoria virale che ti farà ridere, collezionare e condividere.Ideale per chi ama il collezionismo irriverente, i meme visivi e l’estetica nonsense.Non sono semplici adesivi: sono oggetti di culto.Colleziona. Scambia. Attacca. Skifidol™ Italian Brainrot è caos creativo.
-  Updated: 2026-02-27T16:42:35Z
+  Updated: 2026-03-25T21:55:03Z
   Vendor: Luemm Store
   Product Type: Album
   Availability: Available
@@ -1283,7 +1283,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/1_68a96d6a-c17b-40a5-9f50-8edfac902a78.webp?v=1771777484
   Price: 14,90 € EUR
 - [PANINI Stickers Skifidol BRAINROT Ecoblister 5 Buste 25 Figurine Album Ufficiale ITA](https://smart-.it/products/panini-stickers-skifidol-brainrot-ecoblister-5-buste-25-figurine-album-ufficiale-ita): Album da 48 pagine. L'Ecoblister contiene 5 bustine da 5 figurine ciascuna.Skifidol™ Italian Brainrot è la collezione definitiva di 300 figurine psichedeliche, con 100 sticker brillanti che trasformano ogni pagina in un'esplosione di umorismo assurdo e cultura pop.Ogni personaggio è una caricatura grottesca e geniale, nata da una crepa tra il mondo reale e quello digitale. Dalle serie Universo Psichedelico e Allucinazione Cosmica, ogni sticker racconta una microstoria virale che ti farà ridere, collezionare e condividere.Ideale per chi ama il collezionismo irriverente, i meme visivi e l’estetica nonsense.Non sono semplici adesivi: sono oggetti di culto.Colleziona. Scambia. Attacca. Skifidol™ Italian Brainrot è caos creativo.
-  Updated: 2026-02-27T16:41:59Z
+  Updated: 2026-03-25T21:55:06Z
   Vendor: Luemm Store
   Product Type: Album
   Availability: Available
@@ -1318,7 +1318,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/resize_img_3_b1e32e51-e7e5-4286-a27f-844255c58210.jpg?v=1771777511
   Price: 3,90 € EUR
 - [Philips Monitor Pc 27" Led 100hz Full Hd Hdmi/Vga 27e2n1100l](https://smart-.it/products/philips-monitor-pc-27-led-100hz-full-hd-hdmi-vga-27e2n1100l): Marca ‎Philips Monitors Produttore ‎Philips serie ‎Philips 27E2N1100L colore ‎Black Dimensioni prodotto ‎20 x 61,4 x 45,7 cm; 5,2 kg Numero modello articolo ‎27E2N1100L Dimensione schermo ‎27 Pollici Risoluzione schermo ‎1920x1080 Risoluzione ‎1920 x 1080 Pixel Numero di porte HDMI ‎1 Voltaggio ‎220 Volt (CA) Peso articolo ‎5,2 Kilograms Aggiornamenti software garantiti fino a ‎sconosciuto
-  Updated: 2026-03-16T16:43:40Z
+  Updated: 2026-03-24T10:43:36Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1402,7 +1402,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/images_1.jpg?v=1771777559
   Price: 20,99 € EUR
 - [Legacy of Kain Soul Reaver 1&2 Remaster PS5 Gioco Italiano Eu PlayStation 5](https://smart-.it/products/legacy-of-kain-soul-reaver-1-2-remaster-ps5-gioco-italiano-eu-playstation-5): Celebra il 25° anniversario di Soul Reaver! Vivi l'epico conflitto tra Kain e Raziel in versione originale o con grafica rimasterizzata. Giochi Inclusi: Legacy of Kain: Soul Reaver; Legacy of Kain: Soul Reaver 2. CARATTERISTICHE PRINCIPALI: Goditi una storia ormai leggendaria: Il tuo vecchio padrone, Kain, ti ha tradito e giustiziato. Secoli dopo, risorgi con un implacabile desiderio di vendetta. Sfrutta i poteri da Spettro: Uccidi i tuoi ex fratelli vampiri con gli artigli, dardi di energia telecinetica e la Mietitrice d'Anime elementale, e diventa più forte divorando le anime dei nemici. Passa da un regno all'altro: Il Dio Anziano ti ha donato l'abilità di passare dal Regno Spettrale a quello Materiale. Esplora queste terre desolate, risolvi enigmi, svela nuovi percorsi e sconfiggi i tuoi nemici.
-  Updated: 2026-02-27T16:42:32Z
+  Updated: 2026-03-27T17:25:34Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1528,7 +1528,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/Progettosenzatitolo_19_17ea8c54-0810-47a6-9494-13ecff281a7d.png?v=1771777668
   Price: 17,90 € EUR
 - [Funko Pop ! Plus - Jujutsu Kaisen (2125) Aoi Todo (Kick) Glow Vinyl 9cm](https://smart-.it/products/funko-pop-plus-jujutsu-kaisen-2125-aoi-todo-kick-glow-vinyl-9cm): Realizzate in PVC (Vinile), queste miniature sono resistenti e curate nei minimi dettagli. Esclusiva Funko Una versione stilizzata – e ironica – dei tuoi personaggi preferiti: film, cartoni animati, libri, fumetti, programmi televisivi e molto altro! Un oggetto da collezione moderno e simpatico, dallo stile inconfondibile. Un'iconica statuina funko pop vinile alto circa 10cm ed inserita all'interno di una scatola trarente da collezione
-  Updated: 2026-03-04T14:11:51Z
+  Updated: 2026-03-23T15:50:28Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1591,7 +1591,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/demon-slayer-framed-print-key-art.jpg?v=1771777711
   Price: 24,90 € EUR
 - [Samsung Smart Tv LED HDR Full HD 32" Pollici 32H5002F Wi-Fi Pure Color Ps5  2025 - Hyper Real Processor, HDR & Pur Color, Smart Experience, OTS Lite & Adaptive Sound, SlimLook Design, 2025](https://smart-.it/products/samsung-smart-tv-led-hdr-full-hd-32-pollici-32h5002f-wi-fi-pure-color-ps5-2025-hyper-real-processor-hdr-pur-color-smart-experience-ots-lite-adaptive-sound-slimlook-design-2025): Smart tv 32 pollici, Processore Hyper Real, Tecnologia PurColor per una resa cromatica precisa, Slim Look Design per goderti la visione dei tuoi contenuti in un TV dal design minimalista che porta dritto nel cuore della scena Qualità di immagine HDR: scene buie e luminose più nitide per seguire l’azione fin nei minimi particolari, Contrast Enhancer per ottimizzare profondità e colore, Samsung Tizen per goderti i canali televisivi in diretta e migliaia di film OTS Lite: Audio surround 3D sincronizzato con l'azione per un’esperienza immersiva, Q-Symphony per una perfetta armonia tra la soundbar (non inclusa) e gli altoparlanti del televisore, Adaptive Sound per un suono calibrato in base ai contenuti Smart Hub riunisce film, giochi e programmi in un unico posto, Gaming Hub ti permette di accedere alle migliori piattaforme di gaming, Smart Things di controllare tutti i tuoi dispositivi dalla TV Contenuto: 1x Samsung Smart TV 32'' Serie H5000, Full HD, Include 1 telecomando, cavo di alimentazione e manuale di istruzioni, Dimensioni con base (LxAxP): 90,63 x 54,6 x 15,76 cm, Colore: Black
-  Updated: 2026-03-13T16:17:26Z
+  Updated: 2026-03-24T12:36:20Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1639,15 +1639,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/TM-MOVE-SILVGREEN-2_v4tCzJrUaTJs_large_aff7bbdd-37f9-418f-b44c-eba54821ece0.jpg?v=1771777747
   Price: 54,90 € EUR
-- [Resident Evil 3 Remake Ps5 Videogioco Italiano Playstation 5 Gioco Nuovo Pal Ita](https://smart-.it/products/resident-evil-3-remake-ps5-videogioco-italiano-playstation-5-gioco-nuovo-pal-ita): Una serie di strane sparizioni si sono verificate negli Stati Uniti medio occidentali, in una città chiamata Raccoon City. Una squadra specializzata delle forze di polizia nota come S.T.A.R.S. ha indagato, stabilendo che la società farmaceutica Umbrella e la sua arma biologica, il  T, sono la causa dell'incidente che ha provocato la scomparsa di alcuni membri. Jill Valentine e gli altri sopravvissuti S.T.A.R.S. provano a far conoscere questa verità, ma scoprono che lo stesso dipartimento di polizia è sotto il controllo della Umbrella e che i loro rapporti vengono respinti. Tuttavia, presto emergono notizie di macabri episodi di cannibalismo, e cani rabbiosi iniziano a vagare per le strade. Con il male che si diffonde per tutta la città, Jill è determinata a sopravvivere. All'insaputa di Jill, però, un inseguitore estremamente potente è già stato inviato per eliminarla. Resident Evil 3 è ambientato durante lo scoppio dell’epidemia del  T, un'arma biologica sviluppata dalla società farmaceutica Umbrella Corporation. Il gioco segna il debutto di Nemesis – un’imponente arma biologica umanoide dotata di una smisurata brutalità quanto di una grande intelligenza - la cui ostinata caccia del membro degli S.T.A.R.S. Jill Valentine lo ha reso un'icona della serie Resident Evil™. Dotato di un arsenale di armi devastante e avvolto in un abito nero per nascondere i suoi lineamenti mutilati, Nemesis dilanierà, polverizzerà o distruggerà qualsiasi ostacolo che si frapponga tra lui e il suo bersaglio. La straziante fuga di Jill si svolge nelle ore di panico che precedono e seguono gli eventi di Resident Evil 2. Combattimenti intensi e risoluzione di puzzle si combinano nell’emozionante capitolo finale della distruzione di Raccoon City. A completare l’esaltante campagna single player troviamo Resident Evil Resistance, un gioco multiplayer asimmetrico 4 contro 1: nei panni di un Mastermind che agisce dietro le quinte, i giocatori potranno assumere il ruolo di personaggi chiave della saga Resident Evil, come ad esempio Annette Birkin, e dilettarsi con esperimenti mortali.
-  Updated: 2026-03-16T16:47:38Z
-  Vendor: Luemm Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/8261-resid_1733224238_wG4MWh59zHCj_large_659aca56-05bb-4bdf-a148-c2edf348bf2f.jpg?v=1771777760
-  Price: 25,90 € EUR
 - [Resident Evil 4 Remake Gold Edition Ps5 Gioco Playstation 5 Italiano Videogioco](https://smart-.it/products/resident-evil-4-remake-gold-edition-ps5-gioco-playstation-5-italiano-videogioco): Resident Evil 4 Gold Edition include Resident Evil 4 e due contenuti aggiuntivi: Separate Ways, in potrai vivere la storia attraverso la prospettiva di Ada Wong, e l'Extra DLC Pack, che contiene costumi aggiuntivi per i personaggi, armi e oggetti utili. La sopravvivenza è solo l'inizio. Resident Evil 4 è un remake dell'omonimo titolo del 2005, rivisitato in chiave moderna per offrire un survival horror all'avanguardia. Resident Evil 4 mantiene l'essenza del gioco originale, introducendo allo stesso tempo un gameplay più attuale, una trama riconcepita e una grafica vivida e dettagliata. Grazie a questi elementi, potrai immergerti in un survival horror in cui vita e morte, terrore e catarsi si intersecano. Sono passati sei anni dal disastro biologico dell'incidente di Raccoon City. Leon S. Kennedy, uno dei sopravvissuti, è stato assegnato come agente speciale governativo al presidente degli Stati Uniti. Grazie all'esperienza maturata in tante missioni passate, gli viene affidato l'incarico di cercare la figlia del presidente, che è stata rapita. Segue le sue tracce fino ad arrivare a un isolato villaggio europeo, ma c'è qualcosa di molto strano nella gente del posto... Nonostante il suo addestramento e tutta la sua esperienza, niente avrebbe potuto preparare Leon agli orrori che lo stavano aspettando. Si alza il sipario su questa missione di salvataggio, una storia di sopravvivenza e orrori estenuanti. Strade diverse (Separate Ways) Gioca nei panni di Ada Wong in questo scenario aggiuntivo, rispondendo alle domande senza risposta poste nella storia principale. Con la missione di recuperare l'Ambra che incombe su di lei, quale strada sceglierà? Pacchetto DLC extra: · Costumi di Leon e Ashley: 'Casual' · Costumi di Leon e Ashley: 'Romantici' · Costume e filtro Leon: "Eroe" · Costume e filtro Leon: 'Cattivo' · Accessorio Leon: 'Occhiali da sole (sportivi)' · Arma Deluxe: "Sentinel Nine" · Arma Deluxe: "Skull Shaker" · 'Original Ver.' Soundtrack SwapCopertina PAL - UKGIOCO IN ITALIANO
-  Updated: 2026-02-27T16:43:06Z
+  Updated: 2026-03-23T21:08:38Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1661,7 +1654,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/142186_omFFGBNvMSLV_large_aefd6f3d-947d-472f-af43-eeda923b525f.jpg?v=1771777773
   Price: 342,91 € EUR
 - [Resident Evil 4 Remake Ps5 Gioco Playstation 5 Italiano Re4 Remastered Nuovo](https://smart-.it/products/resident-evil-4-remake-ps5-gioco-playstation-5-italiano-re4-remastered-nuovo): La sopravvivenza è solo l'inizio. Resident Evil 4 è un remake dell'omonimo titolo del 2005, rivisitato in chiave moderna per offrire un survival horror all'avanguardia. Resident Evil 4 mantiene l'essenza del gioco originale, introducendo allo stesso tempo un gameplay più attuale, una trama riconcepita e una grafica vivida e dettagliata. Grazie a questi elementi, potrai immergerti in un survival horror in cui vita e morte, terrore e catarsi si intersecano. STORIA Sono passati sei anni dal disastro biologico dell'incidente di Raccoon City. Leon S. Kennedy, uno dei sopravvissuti, è stato assegnato come agente speciale governativo al presidente degli Stati Uniti. Grazie all'esperienza maturata in tante missioni passate, gli viene affidato l'incarico di cercare la figlia del presidente, che è stata rapita. Segue le sue tracce fino ad arrivare a un isolato villaggio europeo, ma c'è qualcosa di molto strano nella gente del posto... Nonostante il suo addestramento e tutta la sua esperienza, niente avrebbe potuto preparare Leon agli orrori che lo stavano aspettando. Si alza il sipario su questa missione di salvataggio, una storia di sopravvivenza e orrori estenuanti.
-  Updated: 2026-03-19T12:16:28Z
+  Updated: 2026-03-26T19:30:26Z
   Vendor: Luemm Store
   Product Type: 
   Availability: Available
@@ -1807,44 +1800,37 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/94693B_VveCMZQI2jxD_large_3ecba437-6126-41a0-9206-d456d580421e.jpg?v=1771777943
   Price: 129,90 € EUR
-- [Sedia Gaming X Rocker Nintendo Pieghevole Super Mario All-Star Princess Peach](https://smart-.it/products/sedia-gaming-x-rocker-nintendo-pieghevole-super-mario-all-star-princess-peach): Questa sedia da gioco pieghevole è perfetta per i fan e giocatori più giovani di Nintendo! Testate e realizzate secondo i più alti standard possibili, ognuna delle nostre sedie da gioco con licenza Super Mario Bros presenta illustrazioni iconiche in modo che i fan di Nintendo possano godersi i giochi nel massimo comfort e stile. La sedia è facile da piegare per riporla. Interno in schiuma X-Cool L sedia rimane fresca con la schiuma termoregolatrice X-Cool che assorbe la temperatura mentre ti siedi e la rilascia quando ti alzi. Compatto e pieghevole Costruito in un telaio compatto e pieghevole pronto per giocare quando lo sei tu.
-  Updated: 2026-02-27T16:31:23Z
-  Vendor: Luemm Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/1537/6964/files/XRocker-X-Rocker--Nintendo-Sedia-Rocker-S-Mario-AllStar-Princess-Peach-Gaming-Chair_mvhtt1I0Wmbh_large_1b1d2dd3-8a06-415f-a905-f8892e8c3191.jpg?v=1771777948
-  Price: 66,95 € EUR
-[List Continued](https://smart-.it/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQyODQ5NDA2NTk4OCwibGFzdF92YWx1ZSI6IjE1NDI4NDk0MDY1OTg4In0=)
+[List Continued](https://smart-.it/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQyODQ5NDAzMzIyMCwibGFzdF92YWx1ZSI6IjE1NDI4NDk0MDMzMjIwIn0=)
 
 ## Collections
 
 - [Action figures and Funko Pop: Colleziona il tuo mondo](https://smart-.it/collections/action-figure): Scopri Action figures e Funko Pop. Collezionare personaggi iconici è un'avventura affascinante. Unisciti ora alla comunità dei collezionisti!
-  Updated: 2026-03-20T10:11:20Z
+  Updated: 2026-03-27T16:22:21Z
   Total Products: 8925
 - [Smartphone: Il Tuo Compagno Tecnologico Ideale](https://smart-.it/collections/smartphone-e-accessori): Scopri come scegliere il tuo Smartphone ideale. Approfondisci le caratteristiche e i vantaggi dei smartphone per una vita moderna e connessa.
-  Updated: 2026-03-20T16:07:03Z
+  Updated: 2026-03-27T16:22:23Z
   Total Products: 111
 - [Accessori per console | Console e accessori di alta qualità](https://smart-.it/collections/console-e-accessori): Scopri i migliori accessori per console per migliorare la tua esperienza di gioco. Dai controller a cuffie, trovi tutto per il massimo divertimento!
-  Updated: 2026-03-21T12:10:37Z
-  Total Products: 584
+  Updated: 2026-03-27T16:22:24Z
+  Total Products: 587
 - [Smart TV: Scopri Le Migliori Offerte e Funzioni](https://smart-.it/collections/smart-tv): Scopri tutto sulle smart tv: funzionalità, vantaggi e le migliori offerte del mercato. Rinnova la tua esperienza di visione con una smart tv adesso!
   Updated: 2026-03-20T16:07:00Z
   Total Products: 123
 - [Videogiochi: Scopri il Futuro del Divertimento Interattivo](https://smart-.it/collections/videogiochi): Scopri i videogiochi e la loro evoluzione. Approfondisci la loro storia, impatto sociale e futuro nel mondo del divertimento interattivo.
-  Updated: 2026-03-20T16:06:32Z
+  Updated: 2026-03-27T16:22:30Z
   Total Products: 4541
 - [Abbigliamento Uomo e Donna | Moda e Stile per Tutti](https://smart-.it/collections/abbigliamento): Scopri la nostra collezione di abbigliamento uomo e donna. Moda inclusiva, stili moderni e sostenibili per esprimere il tuo carattere con eleganza.
   Updated: 2026-03-14T17:24:10Z
   Total Products: 636
 - [Piccoli elettrodomestici e accessori da cucina | Accessori da cucina](https://smart-.it/collections/accessori-da-cucina): Scopri l'importanza di piccoli elettrodomestici e accessori da cucina per rendere la tua esperienza culinaria unica e creativa. Migliora la tua cucina oggi!
-  Updated: 2026-03-20T16:06:33Z
+  Updated: 2026-03-27T16:22:18Z
   Total Products: 628
 - [Orologi Decorativi e Sveglie - Design e Funzionalità in Casa](https://smart-.it/collections/orologi-e-sveglie): Scopri la nostra collezione di orologi decorativi e sveglie per unire stile e funzionalità. Arreda la tua casa con il tempo che scorre con eleganza.
-  Updated: 2026-03-20T17:22:16Z
+  Updated: 2026-03-27T16:22:25Z
   Total Products: 130
 - [Lampade: Scopri le Migliori Lampade per Ogni Ambiente](https://smart-.it/collections/lampade): Esplora la nostra selezione di lampade di design. Le lampade sono fondamentali per ogni casa e offrono non solo luce, ma anche stile e atmosfera.
-  Updated: 2026-03-21T14:30:02Z
-  Total Products: 235
+  Updated: 2026-03-27T07:51:41Z
+  Total Products: 240
 - [manga fumetti e libri: esplora il mondo narrativo unico](https://smart-.it/collections/manga-fumetti-e-libri): Scopri il mondo di manga fumetti e libri; una narrativa visiva che unisce lettori, culture e generi unici per un'esperienza indimenticabile.
   Updated: 2026-03-06T16:58:51Z
   Total Products: 107
@@ -1861,11 +1847,11 @@
   Updated: 2026-03-10T11:35:26Z
   Total Products: 46
 - [Monitor display per computer: Guida agli acquisti e caratteristiche](https://smart-.it/collections/monitor): Scopri i migliori monitor display per computer. Analizziamo risoluzioni, dimensioni e caratteristiche per aiutarti a scegliere il monitor ideale per le tue esigenze.
-  Updated: 2026-03-21T12:10:34Z
-  Total Products: 120
+  Updated: 2026-03-27T16:44:46Z
+  Total Products: 131
 - [Tastiera e Mouse per PC - Scopri Le Migliori Opzioni Disponibili](https://smart-.it/collections/tastiere-e-mouse): Scopri le migliori tastiere e mouse per PC. Guida all'acquisto per tastiera e mouse per pc con informazioni essenziali e consigli utili.
-  Updated: 2026-03-21T12:15:14Z
-  Total Products: 105
+  Updated: 2026-03-27T16:40:18Z
+  Total Products: 110
 - [Mousepad classici e personalizzati - La scelta perfetta per il tuo spazio](https://smart-.it/collections/mousepad): Scopri i mousepad classici e personalizzati per migliorare la tua esperienza al computer. Trova il modello ideale per il tuo stile e le tue esigenze.
   Updated: 2026-03-21T12:11:41Z
   Total Products: 113
@@ -1876,17 +1862,17 @@
   Updated: 2026-03-21T11:47:49Z
   Total Products: 131
 - [Smartwatch e orologi da polso di lusso | Tecnologie e Stile](https://smart-.it/collections/smartwatch): Esplora la nostra collezione di smartwatch e orologi da polso di lusso. Scopri come tecnologia e stile si uniscono in un solo dispositivo.
-  Updated: 2026-03-20T17:22:16Z
+  Updated: 2026-03-27T16:22:25Z
   Total Products: 95
 - [Accessori - Smart ](https://smart-.it/collections/accessori): - Smart 
-  Updated: 2026-03-21T12:14:34Z
-  Total Products: 403
+  Updated: 2026-03-27T16:22:24Z
+  Total Products: 406
 - [Iphone 16 - Smart ](https://smart-.it/collections/iphone-16): - Smart 
-  Updated: 2026-03-20T10:11:22Z
+  Updated: 2026-03-24T09:51:43Z
   Total Products: 47
 - [Pc gaming e computer portatili: trova il tuo dispositivo ideale](https://smart-.it/collections/pc-gaming-e-computer): Scopri i migliori pc gaming e computer portatili per elevate prestazioni e portabilità. Scegli il dispositivo perfetto per le tue esigenze di gioco.
-  Updated: 2026-03-21T14:30:02Z
-  Total Products: 289
+  Updated: 2026-03-27T16:44:46Z
+  Total Products: 306
 - [Software e Sistemi Operativi - Smart ](https://smart-.it/collections/software-e-sistemi-operativi): - Smart 
   Updated: 2026-03-14T17:25:23Z
   Total Products: 63
@@ -1897,23 +1883,23 @@
   Updated: 2026-03-14T17:25:08Z
   Total Products: 257
 - [Nuovi arrivi - Smart ](https://smart-.it/collections/catalogo): - Smart 
-  Updated: 2026-03-21T23:54:05Z
-  Total Products: 13726
+  Updated: 2026-03-28T22:11:50Z
+  Total Products: 13781
 - [Mattoncini, portafogli, portachiavi e tanti prodotti personalizzati](https://smart-.it/collections/prodotti-personalizzati): Meta description: Scopri i nostri prodotti personalizzati: mattoncini, portafogli, portachiavi, tazze, puzzle, lampade, plettri e tanti altri articoli unici con foto, nome o frase. Tante idee regalo.
-  Updated: 2026-03-14T18:44:21Z
-  Total Products: 73
+  Updated: 2026-03-27T08:45:43Z
+  Total Products: 90
 - [Ultimi pezzi - Smart ](https://smart-.it/collections/ultimi-pezzi): - Smart 
-  Updated: 2026-03-21T22:07:15Z
-  Total Products: 5039
+  Updated: 2026-03-28T22:11:50Z
+  Total Products: 5017
 - [Idea regalo festa del papà: Regali unici per il tuo papà speciale](https://smart-.it/collections/festa-del-papa): Scopri la nostra guida su idea regalo festa del papà, ricca di suggerimenti originali per rendere questa giornata unica e indimenticabile per il tuo papà.
   Updated: 2026-03-14T18:44:19Z
   Total Products: 102
 - [Giochi di Carte](https://smart-.it/collections/giochi-di-carte): Scopri la nostra collezione di Carte da Gioco! Dai mazzi collezionabili alle carte da sfida, trova tutto il necessario per le tue strategie e attacchi vincenti. Entra nel mondo dei board games e Shop Now!
-  Updated: 2026-03-16T16:43:38Z
-  Total Products: 431
+  Updated: 2026-03-26T15:20:33Z
+  Total Products: 462
 - [Componenti PC Gaming](https://smart-.it/collections/componenti-pc-gaming): Assembla il PC dei tuoi sogni con i migliori componenti PC Gaming! Dalle schede video RTX di ultima generazione ai processori ultra-veloci e memorie RGB. Potenza, velocità e stile per prestazioni extreme. Shop Now!
-  Updated: 2026-03-21T12:10:39Z
-  Total Products: 161
+  Updated: 2026-03-27T16:40:04Z
+  Total Products: 205
 
 ## Store Pages
 
