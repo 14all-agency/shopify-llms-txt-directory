@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-01-18T10:32:09Z
 - Contact Email: info@afdelingriemen.nl
-- Updated At: 2026-03-21T15:35:16.587Z
+- Updated At: 2026-03-29T00:00:29.835Z
 
 ## Products
 
@@ -167,7 +167,7 @@
     Availability: Available
     Price: € 49,95 EUR
 - [Bruine suede heren riem](https://afdelingriemen.nl/products/bruine-suede-heren-riem): Bruine suede heren riem 4cm. breed. Afgewerkt met oranje stiksel. De riemen van het merk Bellido Sport hebben een mooie uitstraling. Het fraaie en softe suede en de verdere materialen zijn van hoogwaardige kwaliteit. Deze riem staat vooral mooi in een jeans of chino.
-  Updated: 2026-03-21T13:42:48Z
+  Updated: 2026-03-21T20:45:59Z
   Vendor: Miguel Bellido Sport
   Product Type: 
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Not Available
     Price: € 49,95 EUR
 - [Bruine suede jeans riem](https://afdelingriemen.nl/products/bruine-suede-jeans-riem): Bruine suede jeansriem 4cm. breed. Afgewerkt met een lichtblauwe stiknaad.De riemen van het merk Bellido Sport zijn riemen met een stijlvolle uitstraling. Het fraaie en softe suede is van hoogwaardige kwaliteit. Deze riem staat vooral mooi in een jeans of chino maar kan ook gedragen worden in een pantalon.
-  Updated: 2026-03-21T13:42:49Z
+  Updated: 2026-03-21T20:47:12Z
   Vendor: Miguel Bellido Sport
   Product Type: 
   Availability: Available
@@ -1052,7 +1052,7 @@
     Availability: Available
     Price: € 44,95 EUR
 - [Jeans riem vintage bruin](https://afdelingriemen.nl/products/jeans-riem-vintage-bruin): Vintage bruine jeans riem 4cm. breed. Deze vintage bruine riem heeft een stoere uitstraling en is van soepel leer. De vierkante matte platte gesp met dikke doorn past hier perfect bij. Vooral geschikt voor in een pantalon of op jeans of chino.
-  Updated: 2026-03-21T13:42:55Z
+  Updated: 2026-03-23T06:57:57Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1061,7 +1061,7 @@
     Availability: Not Available
     Price: € 32,95 EUR
   - [95](https://afdelingriemen.nl/products/jeans-riem-vintage-bruin?variant=43491775447110)
-    Availability: Available
+    Availability: Not Available
     Price: € 32,95 EUR
   - [100](https://afdelingriemen.nl/products/jeans-riem-vintage-bruin?variant=43491775479878)
     Availability: Available
@@ -1073,7 +1073,7 @@
     Availability: Available
     Price: € 32,95 EUR
 - [Donkere taupe heren riem](https://afdelingriemen.nl/products/donkere-taupe-heren-riem): Donkere taupe heren riem. Deze riem is 4cm breed en heeft een silver satinato kleurige gesp. Gratis verzending!
-  Updated: 2026-03-21T13:42:55Z
+  Updated: 2026-03-26T07:43:01Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1431,13 +1431,13 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding zoals een jurk
     Availability: Not Available
     Price: € 32,95 EUR
 - [Taupe nubuck dames riem](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem): Taupekleurige nubuck dames ceintuur 2,5 cm. Chique eigentijdse dames ceintuur van nubuck leer met aan beide zijden een mooie stiknaad. Uitstekend te dragen op een pantalon of bij andere casual kleding zoals een jurk.
-  Updated: 2026-03-21T13:42:58Z
+  Updated: 2026-03-25T16:36:16Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/520-taupe.jpg?v=1751290824
   - [85](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem?variant=43491781476422)
-    Availability: Not Available
+    Availability: Available
     Price: € 32,95 EUR
   - [90](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem?variant=43491781509190)
     Availability: Available
@@ -1528,17 +1528,17 @@ Een geweldige riem op een kostuum of in een pantalon.
   - [105](https://afdelingriemen.nl/products/camel-kleurige-nubuck-dames-ceintuur?variant=43491782983750)
     Availability: Not Available
     Price: € 32,95 EUR
-- [Bruine unisexriem](https://afdelingriemen.nl/products/bruine-unisexriem): Bruine unisexriem  4 cm breed
-  Updated: 2026-03-21T13:42:59Z
+- [Bruine unisex riem -4 cm](https://afdelingriemen.nl/products/bruine-unisexriem): Bruine unisexriem  4 cm breed
+  Updated: 2026-03-27T01:33:36Z
   Vendor: Miguel Bellido Sport
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/971-40-bruin.jpg?v=1751290813
   - [90](https://afdelingriemen.nl/products/bruine-unisexriem?variant=43491783278662)
     Availability: Available
-    Price: € 49,95 EUR
+    Price: € 42,46 EUR
   - [95](https://afdelingriemen.nl/products/bruine-unisexriem?variant=43491783311430)
-    Availability: Available
+    Availability: Not Available
     Price: € 49,95 EUR
   - [100](https://afdelingriemen.nl/products/bruine-unisexriem?variant=43491783344198)
     Availability: Not Available
@@ -2064,7 +2064,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 32,95 EUR
 - [Bruine jeans riem met gleufjes](https://afdelingriemen.nl/products/bruine-jeans-riem-met-gleufjes): Bruine jeansriem met gleufjes. Deze gleufjes zitten over de hele lengte van de riem en daarom past deze stoere riem altijd. De breedte van de riem is 4cm. Deze riem heeft een stoere vintage gesp in een geborstelde zilveren kleur. Uitstekend te dragen bij je casual kleding.
-  Updated: 2026-03-21T13:43:05Z
+  Updated: 2026-03-26T07:51:43Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2286,7 +2286,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 39,95 EUR
 - [Dames ceintuur groen leopard](https://afdelingriemen.nl/products/dames-ceintuur-groen-leopard): Dames ceintuur groen met leopard print. Toffe eigentijdse dames ceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-03-21T13:43:07Z
+  Updated: 2026-03-28T09:44:22Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2712,7 +2712,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 47,95 EUR
 - [Dames ceintuur zebra wit](https://afdelingriemen.nl/products/dames-ceintuur-zebra-wit): Mooie dames ceintuur zebra in de kleur wit/donker bruin. Deze leuke eigentijdse riem is 3cm. breed en heeft een rechthoekige zilveren gesp. De gesp is van hoogwaardig materiaal en nikkelvrij. Comfortabel te dragen op al je favoriete kleding.
-  Updated: 2026-03-21T13:43:11Z
+  Updated: 2026-03-24T07:02:05Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2767,7 +2767,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 22,36 EUR
 - [Dames riem grijs suede](https://afdelingriemen.nl/products/dames-riem-grijs-suede): Dames ceintuur grijs met zilveren spikkels. Van het merk A-Zone. Deze toffe eigentijdse dames riem is 3cm. breed. Een leuke ceintuur op een pantalon of bij andere casual kleding.
-  Updated: 2026-03-21T13:43:11Z
+  Updated: 2026-03-21T20:49:46Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3092,7 +3092,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 49,95 EUR
 - [Dames riem wit](https://afdelingriemen.nl/products/dames-riem-wit-1): Toffe witte dames ceintuur 4cm. breed met een dubbele (grote) gesp. De mooie gesp met ronde hoeken is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Kek te dragen in een jeans of pantalon of op al je favorites.
-  Updated: 2026-03-21T13:43:14Z
+  Updated: 2026-03-24T05:40:35Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -3125,7 +3125,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 47,95 EUR
 - [Luxe pantalon riem bruin](https://afdelingriemen.nl/products/luxe-pantalon-riem-bruin): Luxe bruine lederen pantalon riem 3cm. breed. De riem is afgewerkt met een mooie stiknaad aan beide kanten. Deze riem heeft een zilveren gesp en op de lus staat de letter "B" van Bellido. Het leer is van soepele en duurzame kwaliteit en de voering is van nubuck leder. Een mooie riem op een kostuum of pantalon.
-  Updated: 2026-03-21T13:43:14Z
+  Updated: 2026-03-23T07:12:14Z
   Vendor: Miguel Bellido Classic
   Product Type: 
   Availability: Available
@@ -3149,7 +3149,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 47,95 EUR
 - [Zwarte broekriem unisex](https://afdelingriemen.nl/products/zwarte-broekriem-unisex): Nette zwarte riem 3,5cm. breed. Deze riem heeft een stijlvolle uitstraling. Het fraaie en soepele leer en de verdere materialen zijn van hoogwaardige kwaliteit en deze riem heeft een zilverkleurige en nikkelvrije gesp. De riem is vooral geschikt in een pantalon of bij andere nette kleding. Geschikt voor zowel een dame
-  Updated: 2026-03-21T13:43:14Z
+  Updated: 2026-03-28T01:27:57Z
   Vendor: Miguel Bellido Sport
   Product Type: 
   Availability: Available
@@ -3347,7 +3347,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 34,95 EUR
 - [Dames riem zwart/bruin met fantasieprint](https://afdelingriemen.nl/products/dames-riem-zwart-bruin-met-fantasieprint): Mooie zwarte dames riem met bruine en zilveren fantasieprint. De riem is 4cm. breed en van het merk A-Zone. Uitstekend te dragen op een jeans maar kan ook mooi zijn op een jurkje.
-  Updated: 2026-03-21T13:43:17Z
+  Updated: 2026-03-23T00:44:10Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3620,7 +3620,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames ceintuur rood zebra look](https://afdelingriemen.nl/products/dames-ceintuur-rood-zebra-look): Mooie damesceintuur rood met zebra look van het bekende merk A-Zone. Deze ceintuur is 3cm. breed. De riem is uitstekend te dragen op een pantalon of andere casual kleding zoals b.v. een jurkje. Een leuke vrolijke riem met een mooi rechthoekig gespje dat zilverkleurig is en nikkelvrij.
-  Updated: 2026-03-21T13:43:19Z
+  Updated: 2026-03-24T07:03:10Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -4089,7 +4089,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 32,95 EUR
 - [Zwart lak dames riem](https://afdelingriemen.nl/products/zwart-lak-dames-riem-2): Nette 4cm. brede zwart lak dames ceintuur. De riem is rond gesneden waardoor deze mooi op de heupen valt. Mooie riem op al je favoriete feestkleding speciaal voor de feestdagen.
-  Updated: 2026-03-21T13:43:24Z
+  Updated: 2026-03-26T07:58:54Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -4243,13 +4243,13 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 39,95 EUR
 - [Dames riem cognac gelaserd](https://afdelingriemen.nl/products/dames-riem-cognac-gelaserd): Mooie 4 cm brede soepele lederen riem met laser print. Deze riem heeft over de hele lengte gelaserde kruisjes. 100% echt leder.
-  Updated: 2026-03-21T13:43:25Z
+  Updated: 2026-03-25T08:06:57Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/img-1409.jpg?v=1751290501
   - [85](https://afdelingriemen.nl/products/dames-riem-cognac-gelaserd?variant=43491829252166)
-    Availability: Available
+    Availability: Not Available
     Price: € 39,95 EUR
   - [90](https://afdelingriemen.nl/products/dames-riem-cognac-gelaserd?variant=43491829284934)
     Availability: Not Available
@@ -4261,7 +4261,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 39,95 EUR
   - [105](https://afdelingriemen.nl/products/dames-riem-cognac-gelaserd?variant=43491829383238)
-    Availability: Not Available
+    Availability: Available
     Price: € 39,95 EUR
 - [Dames ceintuur zwart](https://afdelingriemen.nl/products/dames-ceintuur-zwart): Sportieve dames riem met bronskleurige motieven. Deze leuke dames ceintuur is 4cm. breed. Uitstekend te dragen op een jeans of pantalon en bij andere casual kleding en ook heel leuk op een jurkje. De rechthoekige gesp is brons-kleurig en heeft een bewerking.
   Updated: 2026-03-21T13:43:26Z
@@ -4351,7 +4351,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 26,95 EUR
 - [Leren kinderriem donker roest](https://afdelingriemen.nl/products/leren-kinderriem-donker-roest): Mooie roest kleurige leren kinderriem van 3cm. breed. De riem is gemaakt van dik en stevig vol nerf leer, zodat hij tegen een stootje kan!Â Het ronde bronzen gespje maakt de riem af. Een leuke riem op een jeans of andere vrijetijdsbroek.
-  Updated: 2026-03-21T13:43:26Z
+  Updated: 2026-03-24T01:49:38Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -4602,51 +4602,30 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   - [105](https://afdelingriemen.nl/products/dames-riem-rood?variant=43491833774150)
     Availability: Available
     Price: € 34,95 EUR
-- [Dames riem blauw](https://afdelingriemen.nl/products/dames-riem-blauw): Mooie blauwe lederen dames riem riem 4cm. breed. Deze riem is gemaakt van mooi soepel leder. De dubbele gesp is glimmend en zilverkleurig . Een mooie riem op je jeans of andere vrijetijdsbroek.
-  Updated: 2026-03-21T13:43:30Z
-  Vendor: JV Belts
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/img-1401.jpg?v=1751290471
-  - [85](https://afdelingriemen.nl/products/dames-riem-blauw?variant=43491833806918)
-    Availability: Available
-    Price: € 34,95 EUR
-  - [90](https://afdelingriemen.nl/products/dames-riem-blauw?variant=43491833839686)
-    Availability: Available
-    Price: € 34,95 EUR
-  - [95](https://afdelingriemen.nl/products/dames-riem-blauw?variant=43491833872454)
-    Availability: Available
-    Price: € 34,95 EUR
-  - [100](https://afdelingriemen.nl/products/dames-riem-blauw?variant=43491833905222)
-    Availability: Available
-    Price: € 34,95 EUR
-  - [105](https://afdelingriemen.nl/products/dames-riem-blauw?variant=43491833937990)
-    Availability: Available
-    Price: € 34,95 EUR
-[List Continued](https://afdelingriemen.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODg3MzI1NjI2NDM4LCJsYXN0X3ZhbHVlIjoiNzg4NzMyNTYyNjQzOCJ9)
+[List Continued](https://afdelingriemen.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODg3MzI1NTkzNjcwLCJsYXN0X3ZhbHVlIjoiNzg4NzMyNTU5MzY3MCJ9)
 
 ## Collections
 
 - [Heren riemen kopen? Gratis verzonden en 300+ modellen op voorraad!](https://afdelingriemen.nl/collections/heren-riemen): Heren riemen kopen? Ontdek leren riemen in zwart, bruin en cognac. Van nette pantalon riemen tot casual jeans riemen.
-  Updated: 2026-03-21T14:45:25Z
-  Total Products: 345
+  Updated: 2026-03-27T16:21:02Z
+  Total Products: 333
 - [Dames riemen kopen | Voor elke outfit hebben we een riem](https://afdelingriemen.nl/collections/dames-riemen): Ontdek onze dames riemen van smal tot breed in talloze kleuren. Perfect voor jurken, jeans en elke outfit. Gratis verzonden.
-  Updated: 2026-03-21T14:49:15Z
-  Total Products: 860
-- [Heren jeans riemen](https://afdelingriemen.nl/collections/heren-jeans-riemen): Stoere studs riemen, ruig leer of ruige gesp, wij hebben een uitgebreid aanbod topkwaliteit jeans riemen in alle kleuren en maten. Gratis verzonden!
-  Updated: 2026-03-21T13:42:47Z
-  Total Products: 171
+  Updated: 2026-03-28T13:37:55Z
+  Total Products: 866
+- [Heren jeans riemen | Stoere leren riemen](https://afdelingriemen.nl/collections/heren-jeans-riemen): Heren jeans riemen kopen? Ontdek stoere leren riemen van 4-5 cm breed met stevige gesp en vintage look. Perfect voor jeans en casual outfits.
+  Updated: 2026-03-27T16:21:02Z
+  Total Products: 170
 - [Brede dames riemen kopen | Perfect voor jurken & taille](https://afdelingriemen.nl/collections/dames-brede-riemen): Brede dames riemen kopen? Ideaal voor jurken en taille. Ontdek leren riemen in zwart, bruin en cognac in diverse stijlen en maten.
-  Updated: 2026-03-21T15:15:25Z
-  Total Products: 212
+  Updated: 2026-03-27T08:57:11Z
+  Total Products: 214
 - [Jeans riemen dames | Stoer & casual in alle kleuren en stijlen](https://afdelingriemen.nl/collections/dames-jeans-riemen): Dames jeans riemen kopen? Ontdek stoere leren riemen met prints en opvallende gespen. Perfect voor een casual outfit.
-  Updated: 2026-03-21T15:12:14Z
-  Total Products: 405
+  Updated: 2026-03-28T11:17:22Z
+  Total Products: 409
 - [Smalle dames riemen | Perfect voor jurken & taille](https://afdelingriemen.nl/collections/smalle-dames-riemen): Smalle dames riemen kopen? Ontdek stijlvolle riemen in zwart, cognac en meer kleuren. Perfect voor jurken en een subtiel accent.
-  Updated: 2026-03-21T15:02:17Z
-  Total Products: 78
+  Updated: 2026-03-28T10:03:00Z
+  Total Products: 81
 - [Nappa dames riemen kopen | Comfortabele zachte leren riemen](https://afdelingriemen.nl/collections/nappa-dames-riemen): Nappa dames riemen kopen? Ontdek soepele leren riemen met hoog draagcomfort. Perfect voor jurken en dagelijks gebruik.
-  Updated: 2026-03-21T15:20:08Z
+  Updated: 2026-03-28T13:37:55Z
   Total Products: 16
 - [Dames lak riemen](https://afdelingriemen.nl/collections/dames-lak-riemen): Een lak riem voor dames is een feestelijk item, zeker met de feestdagen in het vooruitzicht. Maar eigenlijk zijn deze riemen het hele jaar door een elegante blikvanger. Bij ons ben je op het juiste adres. We hebben smalle en brede zwarte lak riemen voor d
   Updated: 2026-03-21T13:42:47Z
@@ -4658,14 +4637,14 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T13:42:47Z
   Total Products: 7
 - [Basic dames riemen | Altijd goed & makkelijk te combineren](https://afdelingriemen.nl/collections/basic-dames-riemen): Basic dames riemen kopen? Tijdloze riemen in zwart, bruin en meer kleuren. Perfect voor dagelijks gebruik en elke outfit.
-  Updated: 2026-03-21T15:32:58Z
+  Updated: 2026-03-26T11:17:14Z
   Total Products: 30
 - [Zwarte leren dames riemen | In alle maten & stijlen](https://afdelingriemen.nl/collections/zwarte-dames-riemen): Zwarte dames riemen kopen? Ontdek onze collectie in diverse stijlen en maten. Gratis verzending binnen NL en voor 16:00 besteld, vandaag verzonden.
-  Updated: 2026-03-21T13:42:48Z
-  Total Products: 166
+  Updated: 2026-03-27T16:23:35Z
+  Total Products: 169
 - [Bruine dames riemen](https://afdelingriemen.nl/collections/bruine-dames-riemen): Met een bruine leren dames riem leg je een prachtig accent! Bekijk ons uitgebreide aanbod. Voor 16.00 betseld is dezelfde dag GRATIS verzonden!
-  Updated: 2026-03-21T13:42:48Z
-  Total Products: 107
+  Updated: 2026-03-27T16:20:24Z
+  Total Products: 108
 - [Gevlochten dames riemen](https://afdelingriemen.nl/collections/gevlochten-dames-riemen): Gevlochten dames riemen; Een onmisbaar accessoire Gevlochten damesriemen zijn al jarenlang een onmisbaar accessoire in de garderobe van de modebewuste vrouw. Dankzij hun veelzijdigheid en tijdloze uitstraling vormen ze de perfecte balans tussen functionaliteit en stijl. De karakteristieke vlechtstructuur, meestal gemaakt van leer, zorgt niet alleen voor een elegante look, maar ook voor extra flexibiliteit: de gesp kan namelijk door elke spleet van de vlecht worden gestoken, waardoor je de riem eenvoudig en nauwkeurig kunt verstellen zonder gebruik te hoeven maken van voorgestanste gaatjes. Van smal en subtiel naar bredere statementmodellen Er bestaan verschillende varianten gevlochten riemen, van smalle, subtiele exemplaren die net dat beetje extra chic aan een zomerjurkje geven, tot bredere, statementmodellen die je taille accentueren bij een blouse en pantalon. Ze combineren ze moeiteloos met zakelijke outfits; in suède of gevlochten stof zijn ze juist perfect voor een bohemian of casual look. Populaire kleuren zoals cognac, zwart en donkerbruin blijven klassiek, maar ook pastel- en metallictinten winnen aan terrein voor vrouwen die durven opvallen. Stylingtips: Draag een brede, gevlochten riem over een oversized trui of blazer om je silhouet te benadrukken. Kies voor een smalle variant bij een maxi- of midi-jurk voor een subtiel accent. Combineer een leren vlechtriem met een paar gevlochte leren sandalen voor een gecoördineerde zomerse outfit. Experimenteer met kleuren: een olijfgroene of bordeauxrode riem kan een neutrale jeans-look helemaal opfrissen. Kortom, damesvlechtriemen zijn dankzij hun flexibiliteit, variatie in breedte en kleur én hun stijlvolle uitstraling een must-have voor elke modebewuste vrouw. Of je nu op zoek bent naar een subtiel detail of een krachtig mode-item: met een gevlochten riem geef je je outfit direct een stijlvolle upgrade. Nog veel meer kleuren en modellen naast gevlochten dames riemen Gevlochten dames riemen; Een onmisbaar accessoire Gevlochten damesriemen zijn al jarenlang een onmisbaar accessoire in de garderobe van de modebewuste vrouw. Dankzij hun veelzijdigheid en tijdloze uitstraling vormen ze de perfecte balans tussen functionaliteit en stijl. De karakteristieke vlechtstructuur, meestal gemaakt van leer, zorgt niet alleen voor een elegante look, maar ook voor extra flexibiliteit: de gesp kan namelijk door elke spleet van de vlecht worden gestoken, waardoor je de riem eenvoudig en nauwkeurig kunt verstellen zonder gebruik te hoeven maken van voorgestanste gaatjes. Van smal en subtiel naar bredere statementmodellen Er bestaan verschillende varianten gevlochten riemen, van smalle, subtiele exemplaren die net dat beetje extra chic aan een zomerjurkje geven, tot bredere, statementmodellen die je taille accentueren bij een blouse en pantalon. Ze combineren ze moeiteloos met zakelijke outfits; in suède of gevlochten stof zijn ze juist perfect voor een bohemian of casual look. Populaire kleuren zoals cognac, zwart en donkerbruin blijven klassiek, maar ook pastel- en metallictinten winnen aan terrein voor vrouwen die durven opvallen. Stylingtips: Draag een brede, gevlochten riem over een oversized trui of blazer om je silhouet te benadrukken. Kies voor een smalle variant bij een maxi- of midi-jurk voor een subtiel accent. Combineer een leren vlechtriem met een paar gevlochte leren sandalen voor een gecoördineerde zomerse outfit. Experimenteer met kleuren: een olijfgroene of bordeauxrode riem kan een neutrale jeans-look helemaal opfrissen. Kortom, damesvlechtriemen zijn dankzij hun flexibiliteit, variatie in breedte en kleur én hun stijlvolle uitstraling een must-have voor elke modebewuste vrouw. Of je nu op zoek bent naar een subtiel detail of een krachtig mode-item: met een gevlochten riem geef je je outfit direct een stijlvolle upgrade. Nog veel meer kleuren en modellen naast gevlochten dames riemen een jeansriem, die er vaak stoer uitziet en wat breder is; een basic riem, die vaak glad is afgewerkt en past op een (nette) broek of rok; een heupriem of brede riem, die wat lager op de heupen valt en goed past bij een strak jurkje; een smalle riem met bijvoorbeeld perforaties, die functioneert als blikvanger van je outfit; riemen met slangen-, luipaard- of krokoprint voor een trendy uitstraling; riemen van lakleer, glad leer of suède. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
   Updated: 2026-03-21T13:42:48Z
   Total Products: 20
@@ -4673,25 +4652,25 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T13:42:48Z
   Total Products: 1
 - [Cognac dames riemen](https://afdelingriemen.nl/collections/cognac-dames-riemen): Cognac dames riemen in verschillende soorten, prints, maten en breedtes. ✅Gratis verzending ✅Voor 16.00 besteld dezelfde dag verzonden!
-  Updated: 2026-03-21T13:42:48Z
-  Total Products: 78
+  Updated: 2026-03-27T16:21:40Z
+  Total Products: 82
 - [Witte dames riemen](https://afdelingriemen.nl/collections/witte-dames-riemen): Witte dames riemen voor een stijlvolle look. Veel verschillende modellen van smalle tot brede riemen. Voor 16.00 besteld is vandaag GRATIS verzonden!
-  Updated: 2026-03-21T13:42:48Z
+  Updated: 2026-03-28T13:37:55Z
   Total Products: 38
 - [Rode dames riemen](https://afdelingriemen.nl/collections/rode-dames-riemen): Een rode dames riem maakt elke outfit af Met een rode dames riem kies je voor een stijlvol accessoire dat je outfit op een vurige manier afwerkt. Bij Afdelingriemen.nl heb je de keuze uit een ruim assortiment aan rode riemen. Of je nu op zoek bent naar een opvallend model of een subtiele riem met een trendy design; bij ons vind je het allemaal! Het unieke karakter van een rode dames riem Waar riemen vroeger eerder een praktische functie hadden, zijn ze tegenwoordig uitgegroeid tot een onmisbaar accessoire voor vrouwen dat stijl en klasse uitstraalt. Met een modieuze rode dames riem kies je bovendien voor een echte eyecatcher. Deze passionele kleur trekt alle aandacht naar zich toe en geeft een uniek karakter aan je outfit.Rood is sexy en spannend. Met een riem in het rood voor vrouwen til je je broeken en je jurken naar een ander niveau. Vind je een jeansbroek saai of wil je leven aan je zwarte jurkjes geven? Rood is altijd een juiste keuze. Deze vurige kleur geeft een enorme boost aan je garderobe en tovert zelfs de saaiste outfit om tot een modieuze en elegante uitrusting! Rode dames riemen in alle mogelijke uitvoeringen Bij Afdelingriemen.nl willen we voor elke outfit een gepaste oplossing aanbieden. We hebben daarom een zeer ruim en gevarieerd assortiment samengesteld. Eerst en vooral hebben we ervoor gezorgd dat we rode riemen in diverse tinten hebben. Zo vind je in onze collectie zowel sensuele felrode ontwerpen als elegante bordeauxrode en natuurlijke rood-roze modellen terug.Verder hebben we ook rode riemen in alle mogelijke uitvoeringen in ons aanbod opgenomen. We beschikken over smalle ontwerpen voor broeken en bredere modellen die mooi op jurkjes passen. Onze gevlochten riemen stralen fashion en comfort uit, terwijl de modellen met een zilveren gesp voor elegantie staan.In ons assortiment vind je naast de standaard leren riem ook suède modellen terug. De luxueuze riemen van leer zijn stevig en duurzaam. Suede riemen voelen iets zachter aan, maar hebben wel meer onderhoud nodig. Met welke outfit kan je rood combineren? Het effect van rood op een outfit is uniek. Je kan er zowel een speelse als een sensuele of een elegante look mee creëren. Een elegante rode riem past mooi bij een zwarte stijlvolle jurk of een modieuze donkere broek. Voor een jeansbroek kies je eerder voor een dun riempje of een gevlochten model. Rood kan ook bij opvallende kleuren gedragen worden. Een rood ontwerp in combinatie met een groene of blauwe uitrusting doorbreekt het geheel en geeft er zo een speels karakter aan.Het is altijd leuk als je ook nog andere rode accessoires draagt. Zo kan je bijvoorbeeld kiezen voor bijpassende schoenen of oorbellen. Ook als er rood in je outfit verwerkt is, is een riem met rood een prachtige keuze! Een rode riem bestellen doe je bij Afdelingriemen.nl Rode riemen kopen doe je bij Afdelingriemen.nl. We beschikken namelijk een online winkel met een zeer ruim assortiment. Kwaliteit staat centraal bij ons. Al onze riemen worden uit leer van de beste kwaliteit vervaardigd en zijn handgemaakt. Bovendien bestaat ons aanbod uit diverse stijlen, uitvoeringen en lengtes.Onze webshop staat niet alleen bekend om de uitstekende kwaliteit, maar ook om de optimale dienstverlening. We verwerken elke bestelling meteen en we leveren ontzettend snel. Orders die we voor 16:00 ontvangen, versturen we dezelfde dag nog. Bij ons betaal je ook helemaal geen verzendkosten. Alle bestelling worden volledig gratis geleverd.Heb je een leuk rood model voor vrouwen in onze collectie gevonden? Aarzel dan niet langer! Plaats je bestelling vandaag nog online, zodat je morgen al met je nieuwe riem kan pronken! De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk een 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Hebt u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-03-21T13:42:48Z
-  Total Products: 30
+  Updated: 2026-03-21T22:18:50Z
+  Total Products: 31
 - [Grijze dames riemen](https://afdelingriemen.nl/collections/grijze-dames-riemen): Leren dames riemen in de kleur grijs Een grijze damesriem van stevig, soepel leer nodig? Wij hebben mooie damesriemen die met de hand zijn gemaakt van echt leer. Grijs is een veelzijdige kleur, waarmee je een stijlvolle en elegante look creëert. De kleur past echter ook goed bij een casual of stoere outfit. Leren riemen in diverse tinten grijs zijn bovendien het hele jaar door te dragen. Wij hebben exemplaren die goed passen bij je zakelijke kleding of feestkleding, maar ook modellen voor bij je jeans of pastelkleurige zomerjurk met bloemen. Zoek een riem uit om je outfit compleet te maken! Grijze leren dames riemen voor elke look Onze riemen hebben uiteenlopende grijstinten, van lichtgrijs tot antracietgrijs. Ook riemen met een print, zoals een slangenprint of een Schotse ruit, zijn echte blikvangers. Met merken als Thimbly Belts, JV Belts en A-Zone ben je verzekerd van een hoge kwaliteit. Wil je graag je taille accentueren, kies dan een brede riem uit. Ook bij een jeans staat een brede jeansriem erg mooi. Een smalle riem zorgt voor een subtiel effect en past goed bij een elegante pantalon, een jurkje of blazer.Weet je al welk merk je nodig hebt? Selecteer dan het merk van je keuze in ons menu. Zo heeft A-Zone veel fashionable damesriemen en exemplaren met een bijzondere print. Bij JV Belts vind je prachtige grijze heupriemen, die goed staan op een lange trui, gebreide jurk of rok. Op zoek naar glitter en glamour voor een feestelijke gelegenheid? Een heupriem van nappaleer of een ceintuur met glanzende accenten van Thimbly Belts zorgen voor een glamourous effect. Collectie riemen voor dames in diverse stijlen Wij hebben grijze riemen in alle soorten en maten met moderne en klassieke gespen, die meestal zilverkleurig zijn. Je kan bij ons terecht voor een wisselend assortiment, waaraan vaak nieuwe damesriemen worden toegevoegd. Maak je keuze uit de volgende soorten riemen: riem van glad leer, nubuck of suède donkergrijze en lichtgrijze riemen brede damesriemen smalle damesriemen heupriemen riem met stras (imitatiediamantjes), ruitjes, krokoprint of luipaardprint damesriem met een metaal-look of met perforaties Makkelijk en snel een riem kopen via het menu Of je nu houdt van een opvallende of ingetogen stijl, onze riemen zijn gemaakt voor vrouwen die het leuk vinden om met accessoires de finishing touch aan te brengen. Hiervoor kan je in ons assortiment kiezen uit damesriemen met een breedte tussen de 2 cm en 6 cm. De lengte van onze broek- en rokriemen ligt tussen de 75 cm en 125 cm. Maak gebruik van ons vragenlijstje, dat vanzelf verschijnt als je een product aanklikt. Hiermee bepaal je snel de maat die je nodig hebt. Vink in ons menu de kleur, breedtemaat en lengtemaat aan, dan zie je een selectie van de items die bij je passen. Het is ook de moeite waard om een kijkje te nemen bij onze andere kleuren. Denk bijvoorbeeld aan damesriemen in de kleur taupe. Grijze dames riem online uitzoeken bij Afdelingriemen.nl Onze riemen zijn er in uiteenlopende uitvoeringen. Zo kan je bij ons terecht voor een basic model in zachtgrijs, maar ook voor een toffe afhangceintuur met een ringsluiting. Wat onze producten gemeen hebben, is dat ze een goede prijs-kwaliteitverhouding hebben. Hierdoor heb je er lang plezier van. Bestellen gaat bij ons snel en simpel, zodat je het item van je keuze vaak binnen één of twee werkdagen al kan verwachten. Geef een mooie twist aan je favoriete outfit met een grijze leren riem! De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk een 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-03-21T13:42:48Z
-  Total Products: 27
+  Updated: 2026-03-27T16:17:26Z
+  Total Products: 28
 - [Beige dames riemen](https://afdelingriemen.nl/collections/beige-dames-riemen): Bekijk ons uitgebreide aanbod van beige riemen voor elke gelegenheid! Voor 16.00 besteld is dezelfde dag nog GRATIS verzonden!
-  Updated: 2026-03-21T13:42:48Z
+  Updated: 2026-03-25T13:00:35Z
   Total Products: 18
 - [Blauwe dames riemen](https://afdelingriemen.nl/collections/blauwe-dames-riemen): Verschillende tinten blauwe dames riemen Onze collectie leren riemen in de kleur blauw biedt altijd een exemplaar in de stijl die je zoekt! Wij hebben namelijk dames riemen in diverse kleuren blauw, van lichtblauw tot donkerblauw en van een blauwe slangenprint tot subtiele blauwe motiefjes. Zoek je een riem van leer voor een bepaalde gelegenheid, zoals een feest of een zakelijke afspraak? Wij hebben veel verschillende uitvoeringen, zodat je precies de klassieke, frisse of elegante uitstraling vindt die je voor ogen hebt. Met merken als JV Belts, A-Zone en Thimbly Belts hebben wij een ruime keuze. Hoe draag je blauwe leren riemen voor dames? Zoek je een neutrale kleur voor bij je zakelijke kleding of damespak, dan is donkerblauw een goede keuze. Deze kleur is tijdloos en geeft je een stijlvolle uitstraling. Wil je een lichtgekleurde of gebloemde rok of zomerjurk combineren met een riem, dan hebben wij diverse lichtblauwe en hemelsblauwe riemen die een goede match vormen met je kleding. Ben je op zoek naar een echte eyecatcher voor je jaren 80-feest? Dan is een metallickleurige riem een goed idee. Laat je inspireren door ons aanbod en bedenk met welke kleuren je je riem wil combineren. Over het algemeen past blauw goed bij kleuren als wit, bruin of rood. Indigoblauw geeft bovendien een mooi accent aan een zwarte outfit. Blauwe leren riemen: diverse uitvoeringen Een broekriem is uiteraard een functioneel accessoire, dat de taak heeft om je spijkerbroek of pantalon aan te snoeren. Daarnaast is een riem ideaal om te dragen op een jurk die breed valt. Met een ceintuur of brede damesriem accentueer je toch je taille en zorg je voor een slank silhouet. Wij hebben diverse soorten blauwe dames riemen: een jeansriem, die er vaak stoer uitziet en wat breder is; een basic riem, die vaak glad is afgewerkt en past op een (nette) broek of rok; een heupriem of brede riem, die wat lager op de heupen valt en goed past bij een strak jurkje; een smalle riem met bijvoorbeeld perforaties, die functioneert als blikvanger van je outfit; riemen met slangen-, luipaard- of krokoprint voor een trendy uitstraling; riemen van glad leer of suède. Een passende dames riem online uitzoeken Bij je keuze voor een riem kijk je uiteraard naar de kleur. Ook de kleur en het design van de gesp zijn van belang. Een zilverkleurige gesp zorgt voor een moderner effect, terwijl een goudkleurige gesp meer bij een klassieke look past. Weet je al precies wat je zoekt, maak dan gebruik van ons menu. Hier vink je bijvoorbeeld je favoriete merk, materiaal of kleur aan. Onze breedtematen gaan van 2 cm tot 6 cm, zodat er altijd een smal, standaard of breed model voor je bij is. Bij elk product staat bovendien een vragenlijstje waarmee je de juiste lengtemaat bepaalt. Heb je liever een andere kleur dan blauw? Wij hebben ook talloze andere populaire tinten, zoals damesriemen in de kleur cognac. Dames riemen en ceintuurs kopen bij Afdelingriemen.nl Wij bieden talloze broek- en rokriemen voor vrouwen, waarmee je een opvallende of juist ingetogen look creëert. Bestellen gaat bij ons heel eenvoudig en je hebt je items vaak binnen één of twee werkdagen al in huis. Onze damesriemen zijn handgemaakt van hoogwaardig leer en je treft regelmatig nieuwe exemplaren aan in de collectie. Allemaal redenen om eens uitgebreid rond te kijken in ons aanbod. Zo vind je snel de riem die je nodig hebt. Zoek je een hippe donkerblauwe ceintuur of een felblauwe damesriem die contrasteert met je outfit? Laat je inspireren door onze blauwe leren riemen! De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk een 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-03-21T13:42:48Z
-  Total Products: 26
+  Updated: 2026-03-25T12:54:58Z
+  Total Products: 27
 - [Zilveren dames riemen](https://afdelingriemen.nl/collections/zilveren-dames-riemen): Zilveren dames riemen: een vleugje glamour en moderniteit Zilveren dames riemen zijn dé manier om direct een dosis glamour en een moderne touch aan je outfit toe te voegen. De koele, glanzende uitstraling van zilver maakt het een echte eyecatcher die zowel subtiel als opvallend kan zijn, afhankelijk van het ontwerp. Een zilveren riem is niet zomaar een accessoire; het is een statement piece dat licht vangt en reflecteert, waardoor het een dynamisch element aan je look toevoegt. Perfect voor feestelijke gelegenheden, een avondje uit, maar ook verrassend stijlvol om een alledaagse outfit net dat beetje extra flair te geven. Denk aan een slanke zilveren riem die je taille accentueert in een 'little black dress', of een stoerdere metallic riem die je jeans een upgrade geeft. Zilver straalt luxe en een futuristische elegantie uit die nooit onopgemerkt blijft. Diverse stijlen en materialen De wereld van zilveren damesriemen is verrassend divers. Je vindt ze in allerlei breedtes, van flinterdunne, delicate riempjes die perfect zijn om een taille te accentueren in een jurk of over een blouse, tot brede statement riemen die een stoere jeans of een eenvoudige tuniek transformeren. Ook kettingriemen in zilverkleur zijn populair, variërend van fijne schakels tot robuuste designs die laag op de heupen worden gedragen. Qua materiaal kun je denken aan leer met een metallic zilveren finish, synthetische materialen met een zilveren coating, of zelfs volledig metalen riemen. De gespen variëren eveneens sterk: van minimalistisch en strak tot opvallend groot, versierd met strass-steentjes, gravures of unieke vormen. Er is dus altijd een zilveren riem die past bij jouw persoonlijke stijl en de gelegenheid. Veelzijdig combineren met zilveren accenten Hoewel zilver een opvallende kleur is, zijn zilveren dames riemen verrassend veelzijdig. Ze vormen een prachtig contrast met donkere kleuren zoals zwart, marineblauw of dieppaars, waardoor de riem echt naar voren springt. Ook bij lichtere tinten zoals wit, grijs of pastels kan een zilveren riem een frisse, sprankelende touch geven. Metallic zilver werkt uitstekend als accentkleur en kan gemakkelijk worden gecombineerd met andere zilveren sieraden of details in je outfit, zoals knopen of ritsen, voor een samenhangend geheel. Of je nu gaat voor een ton-sur-ton look met grijstinten of juist een kleurrijk ensemble wilt voorzien van een modern accent, een zilveren riem biedt talloze stylingmogelijkheden. Naast zilveren riemen nog veel meer uitvoeringen! Een riem is uiteraard een functioneel accessoire, dat de taak heeft om je spijkerbroek of pantalon aan te snoeren. Daarnaast is een riem ideaal om te dragen op een jurk die breed valt. Met een ceintuur of brede damesriem accentueer je toch je taille en zorg je voor een slank silhouet. Wij hebben diverse soorten damesriemen in allerlei kleuren en stijlen: Een jeansriem, die er vaak stoer uitziet en wat breder is; Een pantalonriem, die vaak glad is afgewerkt en past op een nette broek of rok; Een heupriem, die wat lager op de heupen valt en goed past bij een strak jurkje of tuniek; Een vlechtriem van gevlochten leer of ander materiaal; Een riem met perforaties, studs of andere details die functioneert als blikvanger; Riemen met slangen-, luipaard- of krokoprint voor een trendy uitstraling; Riemen van glad leer, suède of textiel. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-03-21T13:42:48Z
+  Updated: 2026-03-23T11:16:25Z
   Total Products: 17
 - [Gouden dames riemen](https://afdelingriemen.nl/collections/gouden-dames-riemen): Gouden dames riemen: een symbool van luxe en warmte Gouden dames riemen zijn de ultieme keuze om direct een gevoel van luxe en warme elegantie aan je outfit toe te voegen. De rijke, stralende glans van goud maakt het een tijdloze favoriet die zowel klassiek als modieus is. Een gouden riem is meer dan een functioneel item; het is een accessoire dat weelde en verfijning uitstraalt. Het vangt het licht op een warme manier, wat een vleugje glamour toevoegt aan zowel eenvoudige als uitbundige looks. Ideaal voor speciale gelegenheden, bruiloften of feestdagen, maar net zo effectief om een zakelijke outfit of zelfs een casual ensemble een chique upgrade te geven. Denk aan een subtiele gouden riem die je taille benadrukt in een elegante jurk, of een opvallende gouden kettingriem die een statement maakt op een simpele jumpsuit. Goud straalt een klassieke, onmiskenbare luxe uit. Diverse stijlen en materialen De variatie in gouden damesriemen is groot, waardoor er voor elke smaak en gelegenheid wel een passende optie is. Je vindt ze in diverse breedtes: van smalle, verfijnde riempjes die perfect zijn voor over een blouse of jurk, tot brede, opvallende riemen die een krachtig accent geven aan een broek of rok. Gouden kettingriemen zijn ook een populaire keuze, beschikbaar in fijne, delicate schakels of juist robuuste, trendy ontwerpen. Qua materiaal kun je denken aan leer met een prachtige goudkleurige metallic finish, hoogwaardige synthetische materialen met een gouden glans, of riemen met echt vergulde of goudkleurige metalen onderdelen. De gespen lopen uiteen van minimalistisch en strak tot sierlijk en gedecoreerd, soms ingelegd met steentjes of voorzien van unieke vormen die de luxe uitstraling versterken. Stijlvol combineren met gouden accenten Gouden dames riemen zijn verrassend goed te combineren en voegen een warme gloed toe aan vele outfits. Ze staan prachtig bij klassieke kleuren zoals zwart, wit en crème, waar ze een luxueus contrast vormen. Ook met diepe juweeltinten zoals smaragdgroen, robijnrood of saffierblauw creëert goud een rijke en koninklijke uitstraling. Daarnaast passen gouden riemen uitstekend bij aardetinten zoals bruin, beige en olijfgroen. Een gouden riem kan perfect gecombineerd worden met andere gouden sieraden – zoals oorbellen, een ketting of armband – voor een harmonieus en gepolijst geheel. Gebruik een gouden riem om de taille te accentueren, een outfit op te waarderen of simpelweg als een stralend focuspunt. Naast gouden riemen nog veel meer uitvoeringen! Een riem is uiteraard een functioneel accessoire, dat de taak heeft om je spijkerbroek of pantalon aan te snoeren. Daarnaast is een riem ideaal om te dragen op een jurk die breed valt. Met een ceintuur of brede damesriem accentueer je toch je taille en zorg je voor een slank silhouet. Wij hebben diverse soorten damesriemen in allerlei kleuren en stijlen: een jeansriem, die er vaak stoer uitziet en wat breder is; een basic riem, die vaak glad is afgewerkt en past op een (nette) broek of rok; een heupriem of brede riem, die wat lager op de heupen valt en goed past bij een strak jurkje; een smalle riem met bijvoorbeeld perforaties, die functioneert als blikvanger van je outfit; riemen met slangen-, luipaard- of krokoprint voor een trendy uitstraling; riemen van glad leer. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
   Updated: 2026-03-21T13:42:48Z
@@ -4700,53 +4679,53 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T13:42:48Z
   Total Products: 13
 - [Groene dames riemen](https://afdelingriemen.nl/collections/groene-dames-riemen): Ruim aanbod van topkwaliteit groene dames riemen in verschillende soorten, maten en breedtes. ✓Gratis verzending ✓Voor 16.00 besteld morgen in huis!
-  Updated: 2026-03-21T13:42:48Z
-  Total Products: 31
+  Updated: 2026-03-28T11:17:22Z
+  Total Products: 34
 - [Dames riemen 85 cm](https://afdelingriemen.nl/collections/dames-riemen-85-cm): Dames riem 85 cm: Welke kledingmaten passen hier bij? Een dames riem van 85 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 34 Maat 36 Maat 38 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Als je tailleomtrek bijvoorbeeld dichter bij 80 cm ligt dan bij 85 cm, zou je ook kunnen overwegen om een riem van 80 cm te nemen. De riem zal dan een iets kortere overslag hebben. Vice versa geldt dit uiteraard wanneer je dichter bij 90 cm zit. In dat geval kun je kiezen om een maat 90 te nemen. Dit is een persoonlijke voorkeur; sommigen vinden een kortere overslag mooier, terwijl anderen de voorkeur geven aan een langere. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Als je bijvoorbeeld 87 cm meet, kun je het beste een riem van 85 cm bestellen. Als je 88 cm meet, is een riem van 90 cm waarschijnlijk een betere keuze, afhankelijk van of je liever een strakkere of lossere pasvorm hebt en hoeveel overslag je wenst. Als je twijfelt of de riem is niet beschikbaar in maat 90, dan kies je maat 85. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeans merken anders rekenen. Over het algemeen kloppen deze maten. Klaar om te bestellen? Heb je de perfecte maat gevonden? We hebben het gemakkelijk gemaakt om snel al onze rimen te bekijken die in jouw maat beschikbaar zijn. Bekijk hier onze collectie dames riemen in maat 85 cm. Als je nog steeds twijfelt neem dan contact met onze klantenservice op!
-  Updated: 2026-03-21T13:42:48Z
+  Updated: 2026-03-27T08:57:11Z
   Total Products: 419
 - [Dames riemen 95 cm](https://afdelingriemen.nl/collections/dames-riemen-95-cm): Dames riem 95 cm: Welke kledingmaten passen hier bij? Een dames riem van 95 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 38 Maat 40 Maat 42 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Als je tailleomtrek bijvoorbeeld dichter bij 90 cm ligt dan bij 95 cm, zou je ook kunnen overwegen om een riem van 90 cm te nemen. De riem zal dan een iets kortere overslag hebben. Vice versa geldt dit uiteraard wanneer je dichter bij 100 cm zit. In dat geval kun je kiezen om een maat 100 te nemen. Dit is een persoonlijke voorkeur; sommigen vinden een kortere overslag mooier, terwijl anderen de voorkeur geven aan een langere. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Als je bijvoorbeeld 97 cm meet, kun je het beste een riem van 95 cm bestellen. Als je 98 cm meet, is een riem van 100 cm waarschijnlijk een betere keuze, afhankelijk van of je liever een strakkere of lossere pasvorm hebt en hoeveel overslag je wenst. Als je twijfelt of de riem is niet beschikbaar in maat 100, dan kies je maat 95. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeans merken anders rekenen. Over het algemeen kloppen deze maten. Klaar om te bestellen? Heb je de perfecte maat gevonden? We hebben het gemakkelijk gemaakt om snel al onze rimen te bekijken die in jouw maat beschikbaar zijn. Bekijk hier onze collectie dames riemen in maat 95 cm. Als je nog steeds twijfelt neem dan contact met onze klantenservice op!
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 593
+  Updated: 2026-03-28T13:37:55Z
+  Total Products: 596
 - [Dames riemen 105 cm](https://afdelingriemen.nl/collections/dames-riemen-105-cm): Dames riem 105 cm: Welke kledingmaten passen hier bij? Een dames riem van 95 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 42 Maat 44 Maat 46 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Als je tailleomtrek bijvoorbeeld dichter bij 100 cm ligt dan bij 105 cm, zou je ook kunnen overwegen om een riem van 100 cm te nemen. De riem zal dan een iets kortere overslag hebben. Vice versa geldt dit uiteraard wanneer je dichter bij 110 cm zit. In dat geval kun je kiezen om een maat 110 te nemen. Dit is een persoonlijke voorkeur; sommigen vinden een kortere overslag mooier, terwijl anderen de voorkeur geven aan een langere. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Als je bijvoorbeeld 107 cm meet, kun je het beste een riem van 105 cm bestellen. Als je 108 cm meet, is een riem van 110 cm waarschijnlijk een betere keuze, afhankelijk van of je liever een strakkere of lossere pasvorm hebt en hoeveel overslag je wenst. Als je twijfelt of de riem is niet beschikbaar in maat 100, dan kies je maat 105. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeans merken anders rekenen. Over het algemeen kloppen deze maten. Klaar om te bestellen? Heb je de perfecte maat gevonden? We hebben het gemakkelijk gemaakt om snel al onze rimen te bekijken die in jouw maat beschikbaar zijn. Bekijk hier onze collectie dames riemen in maat 105 cm. Als je nog steeds twijfelt neem dan contact met onze klantenservice op!
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 372
+  Updated: 2026-03-28T13:37:55Z
+  Total Products: 375
 - [Dames riemen 75 cm](https://afdelingriemen.nl/collections/dames-riemen-75-cm): Dames riem 75 cm: Welke kledingmaten passen hier bij? Een dames riem van 75 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 30 Maat 32 Maat 34 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Als je tailleomtrek bijvoorbeeld dichter bij 70 cm ligt dan bij 75 cm, zou je ook kunnen overwegen om een riem van 70 cm te nemen. De riem zal dan een iets kortere overslag hebben. Vice versa geldt dit uiteraard wanneer je dichter bij 80 cm zit. In dat geval kun je kiezen om een maat 80 te nemen. Dit is een persoonlijke voorkeur; sommigen vinden een kortere overslag mooier, terwijl anderen de voorkeur geven aan een langere. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Als je bijvoorbeeld 77 cm meet, kun je het beste een riem van 75 cm bestellen. Als je 78 cm meet, is een riem van 80 cm waarschijnlijk een betere keuze, afhankelijk van of je liever een strakkere of lossere pasvorm hebt en hoeveel overslag je wenst. Als je twijfelt of de riem is niet beschikbaar in maat 80, dan kies je maat 75. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeans merken anders rekenen. Over het algemeen kloppen deze maten. Klaar om te bestellen? Heb je de perfecte maat gevonden? We hebben het gemakkelijk gemaakt om snel al onze rimen te bekijken die in jouw maat beschikbaar zijn. Bekijk hier onze collectie dames riemen in maat 75 cm. Als je nog steeds twijfelt neem dan contact met onze klantenservice op!
   Updated: 2026-03-21T13:42:49Z
   Total Products: 0
-- [Basic heren riemen](https://afdelingriemen.nl/collections/basic-heren-riemen)
-  Updated: 2026-03-21T13:42:49Z
+- [Basic heren riemen kopen | Tijdloos & veelzijdig](https://afdelingriemen.nl/collections/basic-heren-riemen): Basic heren riemen kopen? Ontdek tijdloze leren riemen in zwart, bruin en cognac. Perfect voor dagelijks gebruik en elke outfit.
+  Updated: 2026-03-21T15:43:26Z
   Total Products: 27
 - [Dames riemen 115 cm](https://afdelingriemen.nl/collections/dames-riemen-115-cm): Dames riem 115 cm: Welke kledingmaten passen hier bij? Een dames riem van 115 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 46 Maat 48 Maat 50 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Als je tailleomtrek bijvoorbeeld dichter bij 110 cm ligt dan bij 115 cm, zou je ook kunnen overwegen om een riem van 110 cm te nemen. De riem zal dan een iets kortere overslag hebben. Vice versa geldt dit uiteraard wanneer je dichter bij 120 cm zit. In dat geval kun je kiezen om een maat 120 te nemen. Dit is een persoonlijke voorkeur; sommigen vinden een kortere overslag mooier, terwijl anderen de voorkeur geven aan een langere. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Als je bijvoorbeeld 117 cm meet, kun je het beste een riem van 115 cm bestellen. Als je 118 cm meet, is een riem van 120 cm waarschijnlijk een betere keuze, afhankelijk van of je liever een strakkere of lossere pasvorm hebt en hoeveel overslag je wenst. Als je twijfelt of de riem is niet beschikbaar in maat 120, dan kies je maat 115. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeans merken anders rekenen. Over het algemeen kloppen deze maten. Klaar om te bestellen? Heb je de perfecte maat gevonden? We hebben het gemakkelijk gemaakt om snel al onze rimen te bekijken die in jouw maat beschikbaar zijn. Bekijk hier onze collectie dames riemen in maat 115 cm. Als je nog steeds twijfelt neem dan contact met onze klantenservice op!
-  Updated: 2026-03-21T13:42:49Z
+  Updated: 2026-03-25T13:00:35Z
   Total Products: 48
 - [Elastische heren riemen, praktisch en mooi](https://afdelingriemen.nl/collections/elastische-heren-riemen): Comfort en geschikt voor alle maten. We hebben een uitgebreid aanbod van kleuren en modellen elastische riemen van echt leer. GRATIS verzonden!
   Updated: 2026-03-21T13:42:49Z
   Total Products: 10
 - [Suède heren riemen](https://afdelingriemen.nl/collections/suede-heren-riemen): Suède heren riemen, een must have accessoire! Suède herenriemen zijn een populaire mode accessoire voor mannen. Een suède broekriem staat eigenlijk altijd mooi. Helemaal als je deze laat matchen met je suede schoenen. Je bestelt bij afdelingriemen.nl eenvoudig online een suede heren riem. Je vind bij ons een ruim aanbod van in verschillende kleuren, maten en breedtes. Een suède riem staat op allerlei kleding mooi. Je kunt deze riem zowel dragen op casual kleding en zakelijke nette kleding. Als je de suede riem laat matchen met je schoenen is je outfit helemaal af. Als je de riem daarnaast goed verzorgd kun je er ook nog eens jaren plezier van hebben. Aangezien er veel kleuren suede schoenen zijn vind je bij Afdelingriemen.nl ook veel gekleurde suède riemen. Zo vind je bijvoorbeeld een bruine suède riem met oranje stiksel of een donkerblauwe suède riem met wit stiksel voor wanneer je voor de net wat sportievere look gaat. Ga je voor meer gekleed dan hebben we ook een donkerblauwe suède riem met blauw stiksel. Voor elk wat wils. Suède heren riemen, hoe wordt dat gemaakt? Het leer dat wordt gebruikt voor suède komt van de binnenkant van de huid van een rund. Doordat de binnenkant wordt gebruikt is deze zijde ook veel zachter en minder dik dan de buitenkant. Suede heeft veel weg van velours of fluweel. Het leer wordt vervolgens gereinigd en gelooid zodat het bruikbaar wordt voor verwerking in mode accessoires, schoenen, tassen en riemen. Wil je meer lezen over de verschillende leersoorten? Lees dan vooral ons artikel daar over. Doordat suède leer wat minder dik is is het ook veel vatbaarder voor vlekken. Regen, sneeuw en hagel zijn niet persé slecht voor een suède riem maar hoe minder je deze blootstelt aan water hoe beter omdat je anders vlekken kunt krijgen. Er zijn echter hulpmiddelen beschikbaar die je suède riem beschermen tegen water. Deze sprays kun je bijvoorbeeld voor een paar euro kopen bij een schoenenzaak of speciaalzaak. Topkwaliteit suède heren riem kopen? Nu je weet wat suede is is het tijd om kennis te maken met de de suède heren riemen van Afdelingriemen.nl. Die nette riem of casual riem, we hebben het allemaal. Vind snel je weg in deze categorie door gebruik te maken van de product filters bovenaan deze pagina. We hebben suède heren riemen in verschillende maten. Van de kleinste maat 85cm tot grotere maten als 115cm, 120cm of zelfs 125cm. Ook hebben we verschillende breedtes, zoals 3cm, 3.5cm of 4cm. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 10
+  Updated: 2026-03-21T20:47:42Z
+  Total Products: 12
 - [Gevlochten heren riemen](https://afdelingriemen.nl/collections/gevlochten-heren-riemen): Gevlochten heren riemen in verschillende soorten, prints, maten en breedtes. ✅Gratis verzending ✅Voor 16.00 besteld dezelfde dag verzonden!
   Updated: 2026-03-21T13:42:49Z
   Total Products: 6
-- [Pantalon heren riemen nodig?](https://afdelingriemen.nl/collections/heren-pantalon-riemen): Nette heren riemen in verschillende soorten, prints, maten en breedtes. ✅Gratis verzending ✅Voor 16.00 besteld dezelfde dag verzonden!
-  Updated: 2026-03-21T13:42:49Z
+- [Heren pantalon riemen kopen | Nette leren riemen](https://afdelingriemen.nl/collections/heren-pantalon-riemen): Heren pantalon riemen kopen? Ontdek nette leren riemen voor pak en chino. Stijlvol, smal en perfect voor zakelijke outfits.
+  Updated: 2026-03-21T16:48:34Z
   Total Products: 56
-- [2 Heren riemen voor de prijs van 1?](https://afdelingriemen.nl/collections/draaibare-heren-riemen): Draaibare riemen voor mannen Wie wil dat nou niet, 2 riemen voor de prijs van 1! Gratis verzonden  en voor 16.00 besteld is de volgende dag in huis!
-  Updated: 2026-03-21T13:42:49Z
+- [Draaibare heren riemen | Dubbelzijdige toppers](https://afdelingriemen.nl/collections/draaibare-heren-riemen): Draaibare riemen voor mannen Wie wil dat nou niet, 2 riemen voor de prijs van 1! Gratis verzonden  en voor 16.00 besteld is de volgende dag in huis!
+  Updated: 2026-03-21T15:49:36Z
   Total Products: 22
-- [Extra lange riemen voor heren](https://afdelingriemen.nl/collections/lange-heren-riemen): Uitgebreid aanbod lange riemen. Veel kleuren, lengtes en breedtes. Vandaag besteld morgen bezorgd en altijd GRATIS verzending!
-  Updated: 2026-03-21T13:42:49Z
+- [Lange heren riemen kopen | XL riemen tot 170 cm](https://afdelingriemen.nl/collections/lange-heren-riemen): Lange heren riemen kopen? Ontdek XL riemen tot maat 170 cm van stevig leer. Perfecte pasvorm en gratis verzonden.
+  Updated: 2026-03-21T16:41:11Z
   Total Products: 19
 - [Zwarte heren riemen kopen | In alle stijlen & maten](https://afdelingriemen.nl/collections/zwarte-heren-riemen): Zwarte heren riemen kopen? Bekijk stijlvolle leren riemen voor elke outfit. Voor 16:00 besteld, vandaag gratis verzonden.
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 48
+  Updated: 2026-03-25T16:16:07Z
+  Total Products: 49
 - [Bruine heren riemen kopen | In alle tinten & maten](https://afdelingriemen.nl/collections/bruine-heren-riemen): Bruine heren riemen kopen? Bekijk stijlvolle leren riemen in diverse bruine tinten en maten. Voor 16:00 besteld, vandaag gratis verzonden.
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 93
+  Updated: 2026-03-27T16:21:02Z
+  Total Products: 94
 - [Cognac heren riemen | Stijlvol leer & suède](https://afdelingriemen.nl/collections/cognac-heren-riemen): Cognac heren riemen kopen? Ontdek stijlvolle riemen in leer en suède, perfect voor casual en zakelijke outfits. In diverse maten en stijlen.
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 54
+  Updated: 2026-03-21T22:42:49Z
+  Total Products: 52
 - [Blauwe heren riemen nodig?](https://afdelingriemen.nl/collections/blauwe-heren-riemen): Blauwe heren riemen in verschillende soorten, prints, maten en breedtes. ✅ Gratis verzending ✅ Voor 16.00 besteld dezelfde dag verzonden!
   Updated: 2026-03-21T13:42:49Z
   Total Products: 18
@@ -4757,11 +4736,11 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T13:42:49Z
   Total Products: 6
 - [Rode heren riemen nodig?](https://afdelingriemen.nl/collections/rode-heren-riemen): Ruim aanbod van topkwaliteit rode heren riemen in verschillende soorten, maten en breedtes. ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 11
+  Updated: 2026-03-21T22:18:50Z
+  Total Products: 10
 - [Camel heren riemen nodig?](https://afdelingriemen.nl/collections/camel-heren-riemen): Ruim aanbod van topkwaliteit camelkleurige heren riemen in verschillende soorten, maten en breedtes. ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-03-21T13:42:49Z
-  Total Products: 8
+  Updated: 2026-03-21T22:45:03Z
+  Total Products: 7
 - [Beige heren riemen nodig?](https://afdelingriemen.nl/collections/beige-heren-riemen): Ruim aanbod van topkwaliteit beige heren riemen in verschillende soorten, maten en breedtes. ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
   Updated: 2026-03-21T13:42:49Z
   Total Products: 3
@@ -4771,19 +4750,19 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Total Products: 51
 - [Heren riem 95 cm nodig?](https://afdelingriemen.nl/collections/heren-riemen-95-cm): Ruim aanbod van topkwaliteit heren riemen in verschillende soorten, prints en breedtes. 
 ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-03-21T13:42:50Z
-  Total Products: 260
+  Updated: 2026-03-27T16:21:02Z
+  Total Products: 261
 - [Heren riem 105 cm nodig?](https://afdelingriemen.nl/collections/heren-riemen-105-cm): Ruim aanbod van topkwaliteit heren riemen in verschillende soorten, prints en breedtes. 
 ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-03-21T13:42:50Z
+  Updated: 2026-03-27T11:18:00Z
   Total Products: 215
 - [Heren riem 115 cm nodig?](https://afdelingriemen.nl/collections/heren-riemen-115-cm): Ruim aanbod van topkwaliteit heren riemen in verschillende soorten, prints en breedtes. 
 ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-03-21T13:42:50Z
+  Updated: 2026-03-27T11:18:00Z
   Total Products: 164
 - [Leren tassen](https://afdelingriemen.nl/collections/leren-tassen)
-  Updated: 2026-03-21T13:42:50Z
-  Total Products: 9
+  Updated: 2026-03-21T22:52:18Z
+  Total Products: 16
 - [Kinderriemen](https://afdelingriemen.nl/collections/kinderriemen): Kinderriemen in verschillende soorten, kleuren, maten en breedtes. ✅ Gratis verzending ✅ Voor 16.00 besteld morgen in huis!
   Updated: 2026-03-21T13:42:50Z
   Total Products: 24
@@ -4791,13 +4770,13 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T15:25:02Z
   Total Products: 10
 - [A-Zone](https://afdelingriemen.nl/collections/a-zone)
-  Updated: 2026-03-21T13:42:50Z
-  Total Products: 422
+  Updated: 2026-03-28T13:37:55Z
+  Total Products: 420
 - [Gilmart](https://afdelingriemen.nl/collections/gilmart)
   Updated: 2026-03-21T13:42:50Z
   Total Products: 47
 - [JV Belts](https://afdelingriemen.nl/collections/jv-belts)
-  Updated: 2026-03-21T13:42:50Z
+  Updated: 2026-03-26T17:08:10Z
   Total Products: 215
 - [Miguel Bellido Classic](https://afdelingriemen.nl/collections/miguel-bellido-classic)
   Updated: 2026-03-21T13:42:50Z
@@ -4806,25 +4785,25 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T13:42:50Z
   Total Products: 2
 - [Miguel Bellido Sport](https://afdelingriemen.nl/collections/miguel-bellido-sport)
-  Updated: 2026-03-21T13:42:50Z
+  Updated: 2026-03-27T11:18:00Z
   Total Products: 24
 - [Possum](https://afdelingriemen.nl/collections/possum)
   Updated: 2026-03-21T13:42:50Z
   Total Products: 5
 - [Thimbly Belts](https://afdelingriemen.nl/collections/thimbly-belts)
-  Updated: 2026-03-21T13:42:50Z
+  Updated: 2026-03-28T11:17:22Z
   Total Products: 518
 - [Puma](https://afdelingriemen.nl/collections/puma)
   Updated: 2026-03-21T13:42:50Z
   Total Products: 1
 - [Afdelingriemen.nl](https://afdelingriemen.nl/collections/afdelingriemen-nl)
-  Updated: 2026-03-21T13:42:50Z
-  Total Products: 2
+  Updated: 2026-03-28T10:03:00Z
+  Total Products: 98
 - [Esprit](https://afdelingriemen.nl/collections/esprit)
   Updated: 2026-03-21T13:42:50Z
   Total Products: 0
 - [Suède dames riemen](https://afdelingriemen.nl/collections/dames-suede-riemen)
-  Updated: 2026-03-21T13:42:50Z
+  Updated: 2026-03-21T20:50:16Z
   Total Products: 11
 - [Nubuck heren riemen](https://afdelingriemen.nl/collections/nubuck-heren-riemen)
   Updated: 2026-03-21T13:42:50Z
@@ -4854,26 +4833,20 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T13:42:51Z
   Total Products: 0
 - [Dames riemen  | Stijlvolle riemen met korting](https://afdelingriemen.nl/collections/-dames-riemen): Dames riemen met korting kopen? Ontdek leren en casual riemen in onze . Snelle levering en ruime keuze in stijlen en maten.
-  Updated: 2026-03-21T13:42:51Z
-  Total Products: 324
+  Updated: 2026-03-28T13:38:24Z
+  Total Products: 327
 - [Heren riemen  | Stijlvolle leren riemen met korting](https://afdelingriemen.nl/collections/-heren-riemen): Heren riemen met ? Ontdek leren en casual riemen in onze . Geschikt voor zowel nette als casual outfits. In diverse maten en stijlen. Snelle verzending.
-  Updated: 2026-03-21T13:42:51Z
-  Total Products: 70
+  Updated: 2026-03-27T16:21:02Z
+  Total Products: 58
 - [ kinderriemen](https://afdelingriemen.nl/collections/-kinderriemen)
   Updated: 2026-03-21T13:42:51Z
   Total Products: 12
 - [Riemen in de  | Stijlvolle riemen met korting](https://afdelingriemen.nl/collections/-riemen): Riemen  kopen? Bekijk riemen voor dames, heren en kinderen met minimaal 15% korting. Voor 16:00 besteld, vandaag verzonden.
-  Updated: 2026-03-21T13:42:51Z
-  Total Products: 436
+  Updated: 2026-03-28T13:38:24Z
+  Total Products: 425
 - [Zwarte brede dames riemen kopen | Perfect voor jurken](https://afdelingriemen.nl/collections/zwarte-brede-dames-riemen): Zwarte brede dames riemen kopen? Ideaal voor jurken en langere tops. Ontdek stijlvolle brede riemen in zwart leer. Snelle levering en gratis verzonden in NL.
-  Updated: 2026-03-21T13:42:51Z
+  Updated: 2026-03-25T11:17:44Z
   Total Products: 63
-- [Leren tassen groot](https://afdelingriemen.nl/collections/leren-tassen-groot)
-  Updated: 2026-03-21T13:42:51Z
-  Total Products: 0
-- [Leren tassen klein](https://afdelingriemen.nl/collections/leren-tassen-klein)
-  Updated: 2026-03-21T13:42:51Z
-  Total Products: 0
 
 ## Blogs
 
