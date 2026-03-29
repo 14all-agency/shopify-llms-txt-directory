@@ -10,7 +10,7 @@
 - Contact Email: preezy360@gmail.com
 - Contact Phone: 0681111423
 - Address: 10936 Ayethu Street
-- Updated At: 2026-03-22T00:00:24.408Z
+- Updated At: 2026-03-29T00:00:34.490Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/2489/0158/files/8563AA866F74D72DBB068FB120A6A283.jpg?v=1683358117
     Price: R 851.16 ZAR
 - [New Waterproof SUN POWER Solar Charger 5V21W Solar Folding Bag Mobile Phone Charging](https://surprisecraft.myshopify.com/products/new-waterproof-sun-power-solar-charger-5v21w-solar-folding-bag-mobile-phone-charging): Solar panel peak power: 21WWorking voltage and current: 5V/2.1A (Max)Solar energy conversion rate: 22%- 25%Output interface: dual USB output interfaceExpanded size: 590* 288*20mmFolded size: 288* 163*36cmMaterial: PVC waterproof fabricOutdoor charging and folding storage designThe product can be folded and unfolded, and at the same time there is a storage bag inside the product,When charging, you can directly place the mobile phone and digital device in theCharge your phone and tablet at the same timeCharge two devices at the same time, lightweight design concept, born for ALICE outdoorsSmart Compatible Phone/TabletAdopt Fit charge intelligent matching technology, can intelligently matchMost mobile phones and tablet devices in the market such as Apple, Samsung, Xiaomi, oppo, Huawei, etc.
-  Updated: 2026-03-18T07:22:40Z
+  Updated: 2026-03-24T07:39:51Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -197,7 +197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/2489/0158/files/5BA158698126367639460518C134A818.jpg?v=1683359607
     Price: R 200.00 ZAR
 - [Q02S Remote Control Bluetooth Selfie Stick All-In-One Tripod Selfie Live Broadcast Fill Light Mobile Phone Bracket Selfie Stick](https://surprisecraft.myshopify.com/products/q02s-remote-control-bluetooth-selfie-stick-all-in-one-tripod-selfie-live-broadcast-fill-light-mobile-phone-bracket-selfie-stick): Model: Q02SMaterial: Stainless steelWhether with remote control: withMobile phone tripod + selfie stickHorizontal and vertical shooting with fill light1045mm, 7-section telescopic rodBluetooth remote control,Key to take picturesMake beauty more naturalHigh color rendering LED lamp beads, a new selfie experience, softer light perception more delicateBluetooth remote control,Free handsSupport 10 meters remote control, one-key shootingLightweight and portableEasy to store, record and shoot as you likeHorizontal and vertical free rotationMulti-angle fill lightControl at will to achieve multi-angle shootingWireless bluetoothOne-click photo 120mAh battery Bluetooth V4.0 Can be carried on the planeStable landing and strong anti-shake7-segment 1045mm framing is widerWireless bluetooth control,Smooth snapshot3 mode 6 color temperatureCreate a different atmosphereBluetooth remote control, easier to enter the mirrorAnytime, anywhereTake photos easily
-  Updated: 2026-03-18T07:22:41Z
+  Updated: 2026-03-23T04:08:30Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -233,14 +233,14 @@
     Image: https://cdn.shopify.com/s/files/1/0758/2489/0158/files/C29DC65309C6EA5C7D2B242F530950D1.jpg?v=1683360062
     Price: R 120.00 ZAR
 - [Car Multi-Functional Plastic Phone Folding Bracket Car Navigation Bracket Cell Phone Navigation Car Phone Bracket](https://surprisecraft.myshopify.com/products/car-multi-functional-plastic-phone-folding-bracket-car-navigation-bracket-cell-phone-navigation-car-phone-bracket): Type: StretchedModel: plastic mobile phone rackApplicable brand: GeneralApplicable model: universalApplicable scenario: generalRechargeable: not rechargeableInstallation position: instrument panelUniversal mobile phone holderComfortable handle 1, one hand access | reserved charging portEasy single hand operationPress and hold the button on the back of the bracket to open the arm clampEasy access to mobile phones, convenient and fastSemi automatic design ● simple and fast operationPress the back button of the bottom bracket gently,Automatic opening of clamping armThe reserved charging port is convenient for chargingThe contact part between the support and the mobile phone is equipped with a silicone anti-skid pad to protect the mobile phone from scratches, dropping and affecting the charging
-  Updated: 2026-03-18T07:22:41Z
+  Updated: 2026-03-23T01:01:07Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/2489/0158/files/4FA1172AC91672473F08DE38AFBA3FF5.jpg?v=1683360080
   Price: R 159.99 ZAR
 - [Plush Toy Doll Schoolbag Pendant Accessories Clothing Accessories Gift Key Chain Shy Blush Bear](https://surprisecraft.myshopify.com/products/plush-toy-doll-schoolbag-pendant-accessories-clothing-accessories-gift-key-chain-shy-blush-bear): Category:Plush dollModeling category: animalWhether the shape is cartoon, animation: yesAnimal classification:BearFilling material: PP cottonPlush classification: PlushGoods number: Knuckle BearCartoon, Anime Type: Knuckle BearColor: dense hair 11cm bead chain joint bear, dense hair 12cm one-piece blush bearHeight: 11mThick Hair 12cm Conjoined Blush Bear The real picture is as followsThick Hair 11cm Joint Blush BearThe hands and feet can move as follows
-  Updated: 2026-03-18T07:22:41Z
+  Updated: 2026-03-23T23:50:27Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -390,7 +390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/2489/0158/files/F2FB8B7D2FCFE562FEBFA6B9B11943F8.jpg?v=1684176533
     Price: R 369.00 ZAR
 - [Foldable Multi-Function 12-Function 14-Function Push-Up Board Bracket Fitness Equipment Exercise Abs Board](https://surprisecraft.myshopify.com/products/foldable-multi-function-12-function-14-function-push-up-board-bracket-fitness-equipment-exercise-abs-board): Is it foldable: yesScope of application: office, homeApplicable scene: fitness equipment, sports trend, fitness and body
-  Updated: 2026-03-18T07:22:42Z
+  Updated: 2026-03-23T06:58:38Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
