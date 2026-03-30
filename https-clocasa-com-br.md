@@ -6,54 +6,54 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2024-05-07T18:24:38Z
 - Contact Email: atendimento@clocasa.com.br
-- Updated At: 2026-03-22T00:00:45.331Z
+- Updated At: 2026-03-30T00:00:43.795Z
 
 ## Products
 
 - [Capa de Almofada Clocasa Retangular com Bordado em Juta 40x60](https://clocasa.com.br/products/almofada-decorativa-40x60): Capa Clocasa decorativa retangular em algodão com bordado artesanal em juta. Sofisticação, sustentabilidade e praticidade com algodão certificado pela BCI.
-  Updated: 2026-03-20T02:24:57Z
+  Updated: 2026-03-25T17:10:10Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-retangular-com-bordado-em-juta-40x60-5860674.webp?v=1769124849
   Price: R$ 299,00 BRL
 - [Capa de Almofada Clocasa Quadrada com Bordado em Juta 50x50](https://clocasa.com.br/products/almofada-decorativa-50x50): Capa de Almofada Clocasa Quadrada em algodão com bordado artesanal em juta. Elegância, sustentabilidade e praticidade com algodão certificado pela BCI.
-  Updated: 2026-03-19T08:47:44Z
+  Updated: 2026-03-25T17:10:16Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-quadrada-com-bordado-em-juta-50x50-3231563.webp?v=1773884408
   Price: R$ 299,00 BRL
 - [Capa de Almofada Clocasa com Bordado Geométrico em Juta 40x60](https://clocasa.com.br/products/almofada-decorativa-40x60-1): Capa Clocasa decorativa em algodão sustentável e juta. Estilo rústico e elegante para sua decoração.
-  Updated: 2026-03-19T09:21:43Z
+  Updated: 2026-03-25T17:10:15Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-bordado-geometrico-em-juta-40x60-4809577.webp?v=1773884407
   Price: R$ 376,00 BRL
 - [Capa de Almofada Clocasa com Bordado Geométrico em Juta 45x45](https://clocasa.com.br/products/almofada-decorativa-45x45): Capa Clocasa com bordado geométrico em juta. Elegância, textura e equilíbrio entre estilo e natureza.
-  Updated: 2026-03-16T14:34:18Z
+  Updated: 2026-03-25T17:10:10Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-bordado-geometrico-em-juta-45x45-8051909.webp?v=1769124850
   Price: R$ 350,00 BRL
 - [Capa de Almofada Clocasa Quadrada com Bordado Central em Juta 50x50](https://clocasa.com.br/products/almofada-decorativa-50x50-1): Capa Clocasa decorativa em algodão sustentável com juta trançada. Beleza artesanal e sofisticação natural.
-  Updated: 2026-03-16T17:52:02Z
+  Updated: 2026-03-25T17:10:11Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-quadrada-com-bordado-central-em-juta-50x50-2872246.webp?v=1769124849
   Price: R$ 249,00 BRL
 - [Capa de Almofada Clocasa com Faixas Laterais Bordadas em Juta 30x80](https://clocasa.com.br/products/almofada-decorativa-30x80): Capa Clocasa decorativa com juta e algodão sustentável. Beleza artesanal e elegância para ambientes acolhedores.
-  Updated: 2026-03-16T14:43:30Z
+  Updated: 2026-03-27T02:23:02Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-faixas-laterais-bordadas-em-juta-30x80-3435033.webp?v=1769124850
   Price: R$ 267,50 BRL
 - [Capa de Almofada Clocasa Retangular Oversized Tufting 30x115](https://clocasa.com.br/products/almofada-decorativa-30x115): Capa Clocasa decorativa retangular em algodão sustentável. Design geométrico, elegância e responsabilidade ambiental.
-  Updated: 2026-03-21T02:22:57Z
+  Updated: 2026-03-25T17:10:12Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
@@ -67,28 +67,28 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/manta-de-algodao-com-textura-estilo-waffle-mostarda-130x170-1715092.webp?v=1769124849
   Price: R$ 365,00 BRL
 - [Capa de Almofada Clocasa Retangular com Listras Tufting 35x75](https://clocasa.com.br/products/almofada-decorativa-35x75): Capa Clocasa decorativa em algodão com textura listrada. Sofisticação e versatilidade para compor ambientes elegantes.
-  Updated: 2026-03-16T17:58:04Z
+  Updated: 2026-03-25T17:10:12Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-retangular-com-listras-tufting-35x75-9502133.webp?v=1769124850
   Price: R$ 222,50 BRL
 - [Capa de Almofada Clocasa Quadrada com Ondas Tufting 45x45](https://clocasa.com.br/products/almofada-decorativa-45x45-1): Capa Clocasa decorativa quadrada com ondas bordadas. Ideal para quem busca estilo, aconchego e design contemporâneo.
-  Updated: 2026-03-21T02:23:02Z
+  Updated: 2026-03-25T17:10:13Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-quadrada-com-ondas-tufting-45x45-5012552.webp?v=1769124849
   Price: R$ 165,00 BRL
 - [Capa de Almofada Clocasa Retangular com Arcos Tufting 30x50](https://clocasa.com.br/products/almofada-decorativa-30x50): Capa Clocasa decorativa retangular em algodão tramado com bordado em alto relevo. Elegância e textura para destacar sua decoração.
-  Updated: 2026-03-16T17:56:15Z
+  Updated: 2026-03-25T17:10:14Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-retangular-com-arcos-tufting-30x50-2788693.webp?v=1769124850
   Price: R$ 150,00 BRL
 - [Capa de Almofada Clocasa em Jacquard Estonado Terracota 45x45](https://clocasa.com.br/products/almofada-jacquard-45x45): Capa Clocasa decorativa em jacquard terracota com acabamento em algodão. Versátil, elegante e de alta qualidade.
-  Updated: 2026-03-16T16:54:28Z
+  Updated: 2026-03-25T17:10:14Z
   Vendor: clocasa
   Product Type: Almofada
   Availability: Available
@@ -108,13 +108,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/manta-texturizada-em-boucle-duo-mostarda-130x170-6764793.webp?v=1769124847
   Price: R$ 370,00 BRL
-- [Capa de Almofada Clocasa com Estampa Floral em Block Print 30x50](https://clocasa.com.br/products/almofada-estampada-30x50): Capa de Almofada Clocasa Floral Elegance com block print e borlas. Design artesanal e cores sofisticadas para decorar com estilo.
-  Updated: 2026-03-21T02:22:57Z
-  Vendor: clocasa
-  Product Type: Almofada
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-estampa-floral-em-block-print-30x50-8669464.png?v=1768928135
-  Price: R$ 97,50 BRL
 - [Tapete Clocasa de Algodão com Alto Relevo Étnico e Tom Natural 120x180](https://clocasa.com.br/products/tapete-algodao-decorativo-m): Tapete Clocasa Étnico Sustentável com alto relevo. Toque suave e tons neutros para decorar com charme e propósito.
   Updated: 2026-03-16T19:03:46Z
   Vendor: clocasa
@@ -130,63 +123,63 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-de-algodao-soft-com-flores-em-alto-relevo-creme-50x80-7933249.jpg?v=1768928135
   Price: R$ 180,00 BRL
 - [Tapete Clocasa com Trançado Soft em Alto Relevo e Tom Neutro 50x80](https://clocasa.com.br/products/tapete-misto-decorativo-p): Tapete Clocasa Trançado Soft com alto relevo. Toque macio e design elegante para compor ambientes acolhedores.
-  Updated: 2026-03-20T18:13:25Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: clocasa
   Product Type: Tapete
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-com-trancado-soft-em-alto-relevo-e-tom-neutro-50x80-9196676.webp?v=1768928135
   Price: R$ 255,00 BRL
 - [Capa de Almofada Clocasa com Listras e Medalhão em Block Print 45x45](https://clocasa.com.br/products/almofada-estampada-45x45): Capa Clocasa decorativa Medalhão Block Print em algodão. Tons de azul e vinho com charme artesanal e sofisticação.
-  Updated: 2026-03-19T15:21:26Z
+  Updated: 2026-03-28T02:22:42Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-listras-e-medalhao-em-block-print-45x45-6570736.png?v=1768928139
   Price: R$ 115,00 BRL
 - [Capa de Almofada Clocasa em Veludo e Detalhe Floral Block Print 45x45](https://clocasa.com.br/products/almofada-estampada-45x45-1): Capa Clocasa decorativa em veludo azul com vivo floral. Toque macio, zíper prático e sofisticação para sua decoração.
-  Updated: 2026-03-21T15:07:51Z
+  Updated: 2026-03-28T21:10:20Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-e-detalhe-floral-block-print-45x45-8462969.png?v=1768928139
   Price: R$ 125,00 BRL
 - [Tapete de Algodão Clocasa Infantil com Lateral Ondulada e Floral 50x80](https://clocasa.com.br/products/tapete-algodao-infantil-p): Tapete Clocasa Infantil Floral com flores coloridas. Delicado e funcional, ideal para um quarto infantil aconchegante.
-  Updated: 2026-03-16T19:06:03Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Tapete
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-de-algodao-infantil-com-lateral-ondulada-e-floral-50x80-2731924.png?v=1768928139
   Price: R$ 185,00 BRL
 - [Tapete de Algodão Clocasa Infantil com Borda Floral Colorido 50x80](https://clocasa.com.br/products/tapete-algodao-infantil-p-1): Tapete Clocasa Infantil Floral com flores coloridas. Toque macio e design alegre para um ambiente acolhedor e criativo.
-  Updated: 2026-03-16T19:05:21Z
+  Updated: 2026-03-25T02:23:57Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Tapete
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-de-algodao-infantil-com-borda-floral-colorido-50x80-3268210.webp?v=1768928139
   Price: R$ 200,00 BRL
 - [Tapete de Algodão Clocasa para Banheiro com Alto Relevo 50x80](https://clocasa.com.br/products/tapete-algodao-decorativo-p-1): Tapete Clocasa Bath em algodão. Design sofisticado, tons neutros e toque suave para decorar o banheiro com charme.
-  Updated: 2026-03-16T19:06:51Z
+  Updated: 2026-03-27T10:50:04Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Tapete
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-de-algodao-para-banheiro-com-alto-relevo-50x80-7292329.jpg?v=1768928139
   Price: R$ 152,50 BRL
 - [Tapete de Algodão Clocasa com Borda Listrada em Tom Natural 50x80](https://clocasa.com.br/products/tapete-algodao-decorativo-p-2): Tapete Clocasa Borda Listrada em algodão. Sofisticado, lavável e antiderrapante, ideal para ambientes modernos e aconchegantes.
-  Updated: 2026-03-16T19:04:51Z
+  Updated: 2026-03-25T10:23:17Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Tapete
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-de-algodao-com-borda-listrada-em-tom-natural-50x80-2451776.jpg?v=1768928140
+  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tap_borda_listrada_50x80_natural_01_41f831ee-6ad8-4128-862e-ca537931276f-Photoroom.png?v=1774295875
   Price: R$ 160,00 BRL
 - [Tapete de Algodão Clocasa Soft com Folhagem Neutra 50x80](https://clocasa.com.br/products/tapete-algodao-decorativo-p-50x80): Tapete Clocasa Soft Folhagem em algodão. Antiderrapante e lavável, traz textura e elegância para sua decoração.
-  Updated: 2026-03-20T18:13:26Z
+  Updated: 2026-03-24T02:10:10Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Tapete
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-de-algodao-soft-com-folhagem-neutra-50x80-1480530.webp?v=1768928139
   Price: R$ 165,00 BRL
 - [Tapete Clocasa Infantil com Tema Astronauta Colorido 120x180](https://clocasa.com.br/products/tapete-misto-infantil-m-120x180): Tapete Clocasa Infantil Astronauta em alto relevo. Toque macio e design lúdico para um ambiente criativo e acolhedor.
-  Updated: 2026-03-16T19:30:58Z
+  Updated: 2026-03-25T17:10:15Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Tapete
   Availability: Available
@@ -200,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-listrado-em-tom-natural-de-la-em-juta-60x90-9550607.png?v=1768928139
   Price: R$ 200,00 BRL
 - [Tapete Clocasa Trançado em Listras de Tom Natural e Lã em Juta 60x90](https://clocasa.com.br/products/tapete-natural-decorativo-p-60x90-1): Tapete Clocasa Natural Trançado em juta, lã e algodão com alto relevo. Rústico e elegante, ideal para decorar espaços acolhedores e sofisticados.
-  Updated: 2026-03-16T19:34:26Z
+  Updated: 2026-03-24T02:10:16Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Tapete
   Availability: Available
@@ -214,14 +207,14 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-com-listras-finas-em-tom-natural-de-la-em-juta-60x90-1158663.png?v=1768928143
   Price: R$ 215,00 BRL
 - [Enchimento de Almofada Clocasa com Forro em Microfibra 40x60](https://clocasa.com.br/products/enchimento-de-almofada-40x60): Enchimento de almofada Clocasa 40x60 com forro em microfibra: conforto e sofisticação para transformar sua decoração com qualidade e maciez incomparável.
-  Updated: 2026-03-17T02:22:36Z
+  Updated: 2026-03-29T02:07:45Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Enchimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/enchimento-de-almofada-com-forro-em-microfibra-40x60-4392745.png?v=1768928143
   Price: R$ 46,00 BRL
 - [Enchimento de Almofada Clocasa com Forro em Microfibra 30x80](https://clocasa.com.br/products/enchimento-de-almofada-30x80): Enchimento de almofada Clocasa 30x80 com forro em microfibra. Conforto, maciez e sofisticação para valorizar sua decoração.
-  Updated: 2026-03-16T18:23:03Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Enchimento
   Availability: Available
@@ -242,14 +235,14 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/enchimento-de-almofada-com-forro-em-microfibra-35x75-5826815.png?v=1768928143
   Price: R$ 46,00 BRL
 - [Enchimento de Almofada Clocasa com Forro em Microfibra 45x45](https://clocasa.com.br/products/enchimento-de-almofadas-45x45-clocasa): Enchimento de almofada Clocasa 45x45 em microfibra. Perfeito para valorizar capas decorativas com elegância e aconchego.
-  Updated: 2026-03-18T14:50:12Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Enchimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/enchimento-de-almofada-com-forro-em-microfibra-45x45-2389057.webp?v=1773802689
   Price: R$ 50,60 BRL
 - [Capa de Almofada Clocasa em Jacquard Estonado Mostarda 45x45](https://clocasa.com.br/products/capa-de-almofada-algodao-jacquard-estonado): Capa Clocasa decorativa em jacquard estonado mostarda. Textura suave, zíper prático e elegância para compor ambientes modernos.
-  Updated: 2026-03-19T10:10:36Z
+  Updated: 2026-03-27T02:22:57Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Almofada
   Availability: Available
@@ -263,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-de-algodao-brancopreto-50x50-5640766.webp?v=1768928143
   Price: R$ 265,00 BRL
 - [Capa de Almofada Clocasa em Veludo com Bordado de Tigre 50X50](https://clocasa.com.br/products/capa-de-almofada-em-veludo-com-bordado-de-tigre): Capa Clocasa decorativa tigre em veludo de algodão branco. Estilo artístico, elegância e algodão responsável certificado BCI.
-  Updated: 2026-03-16T16:55:47Z
+  Updated: 2026-03-28T21:10:20Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -277,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-com-bordado-geometrico-30x50-1781490.webp?v=1768928143
   Price: R$ 255,00 BRL
 - [Capa de Almofada Clocasa Terracota com Bordado de Palmeira 50X50](https://clocasa.com.br/products/capa-de-almofada-terracota-com-bordado-de-palmeira-50x50): Capa Clocasa terracota com palmeira bordada. Beleza natural, conforto e consciência ambiental para uma decoração elegante.
-  Updated: 2026-03-16T17:59:14Z
+  Updated: 2026-03-29T14:24:18Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -305,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-etnica-com-pachwork-de-poa-bordado-40x60-6439832.webp?v=1768928147
   Price: R$ 399,00 BRL
 - [Capa de Almofada Clocasa Listrada com Pompom Rosa 50X50](https://clocasa.com.br/products/capa-de-almofada-listrada-com-pompom-rosa-50x50): Capa Clocasa decorativa com listras e pompons rosa. Estilo, conforto e responsabilidade ambiental para sua decoração.
-  Updated: 2026-03-16T17:45:46Z
+  Updated: 2026-03-29T12:51:17Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -326,14 +319,14 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-bordado-geometrico-azul-30x50-6494249.webp?v=1768928147
   Price: R$ 225,00 BRL
 - [Capa de Almofada Clocasa com Bordado Geométrico Areia 30X50](https://clocasa.com.br/products/capa-de-almofada-com-bordado-geometrico-areia-30x50): Capa Clocasa decorativa em algodão e veludo areia. Bordado geométrico, textura suave e algodão responsável certificado BCI.
-  Updated: 2026-03-16T14:30:38Z
+  Updated: 2026-03-29T14:24:19Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-bordado-geometrico-areia-30x50-7551520.webp?v=1768928147
   Price: R$ 225,00 BRL
 - [Capa de Almofada Clocasa com Bordado Geométrico Mostarda 30X50](https://clocasa.com.br/products/capa-de-almofada-com-bordado-geometrico-mostarda-30x50): Capa Clocasa decorativa com bordado geométrico mostarda. Conforto, estilo e algodão sustentável para uma decoração moderna e consciente.
-  Updated: 2026-03-21T02:22:58Z
+  Updated: 2026-03-25T02:23:57Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -347,14 +340,14 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-lisa-com-vivo-listrado-azul-40x60-5001603.webp?v=1768928147
   Price: R$ 189,00 BRL
 - [Capa de Almofada Clocasa Lisa com Vivo Listrado Areia 40X60](https://clocasa.com.br/products/capa-de-almofada-lisa-com-vivo-listrado-areia-40x60): Capa Clocasa em algodão e veludo areia com vivo listrado. Toque macio e estilo contemporâneo para uma decoração acolhedora.
-  Updated: 2026-03-21T02:22:57Z
+  Updated: 2026-03-29T14:24:18Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-lisa-com-vivo-listrado-areia-40x60-8114757.webp?v=1768928148
   Price: R$ 189,00 BRL
 - [Capa de Almofada Clocasa Lisa com Vivo Listrado Mostarda 40X60](https://clocasa.com.br/products/capa-de-almofada-lisa-com-vivo-listrado-mostarda-40x60): Capa Clocasa decorativa em algodão e veludo mostarda. Estilo, conforto e responsabilidade ambiental para uma decoração elegante.
-  Updated: 2026-03-21T02:22:57Z
+  Updated: 2026-03-29T02:07:41Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -368,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-de-algodao-preto-50x50-3934191.webp?v=1768928151
   Price: R$ 230,00 BRL
 - [Capa de Almofada Clocasa de Algodão com Listra em Veludo 45X45](https://clocasa.com.br/products/capa-de-almofada-de-algodao-com-listra-em-veludo-45x45): Capa Clocasa decorativa em algodão e veludo preto. Conforto, textura e contraste elegante para sala, quarto ou escritório.
-  Updated: 2026-03-16T16:43:14Z
+  Updated: 2026-03-26T02:19:56Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -417,14 +410,14 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-de-algodao-vinho-50x50-2958690.webp?v=1768928151
   Price: R$ 190,00 BRL
 - [Capa de Almofada Clocasa em Veludo de Algodão Terracota 50X50](https://clocasa.com.br/products/capa-de-almofada-em-veludo-de-algodao-terracota-50x50): Capa Clocasa decorativa em veludo de algodão lavado terracota. Conforto, elegância e estilo natural para sala e quarto.
-  Updated: 2026-03-16T17:16:50Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-de-algodao-terracota-50x50-5483148.webp?v=1768928155
   Price: R$ 190,00 BRL
 - [Capa de Almofada Clocasa em Veludo Lavado 50X50 Mostarda](https://clocasa.com.br/products/capa-de-almofada-em-veludo-lavado-50x50-mostarda): Capa Clocasa decorativa em veludo de algodão lavado mostarda. Conforto, elegância e personalidade para sala e quarto.
-  Updated: 2026-03-21T02:22:57Z
+  Updated: 2026-03-25T02:23:57Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -452,21 +445,21 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-de-algodao-marinho-50x50-4148740.webp?v=1768928155
   Price: R$ 190,00 BRL
 - [Capa de Almofada Clocasa Listrada Verde 45X45](https://clocasa.com.br/products/capa-de-almofada-listrada-verde-45x45): Capa de almofada Clocasa em algodão e veludo verde. Textura, conforto e elegância artesanal para uma decoração sofisticada.
-  Updated: 2026-03-21T02:23:02Z
+  Updated: 2026-03-29T14:24:18Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-listrada-verde-45x45-4190905.webp?v=1768928155
   Price: R$ 180,00 BRL
 - [Capa de Almofada Clocasa Listrada Terracota 45X45](https://clocasa.com.br/products/capa-de-almofada-listrada-terracota-45x45): Capa Clocasa em algodão e veludo lavado terracota. Patchwork listrado e acabamento refinado para compor ambientes elegantes.
-  Updated: 2026-03-21T02:22:58Z
+  Updated: 2026-03-28T21:10:20Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-listrada-terracota-45x45-3870857.webp?v=1768928155
   Price: R$ 180,00 BRL
 - [Capa de Almofada Clocasa Listrada Azul 45X45](https://clocasa.com.br/products/capa-de-almofada-listrada-azul-45x45): Capa Clocasa decorativa em algodão natural com patchwork de veludo azul. Toque macio e estilo moderno para sala e quarto.
-  Updated: 2026-03-21T02:23:07Z
+  Updated: 2026-03-28T18:29:07Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -487,14 +480,14 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/almofada-candy-listrada-azul-40x50-2322288.webp?v=1773802688
   Price: R$ 190,00 BRL
 - [Capa de Almofada Clocasa Veludo com Folhagem em Tufting 30X50 Verde](https://clocasa.com.br/products/capa-de-almofada-em-veludo-bordado-folhagem-30x50-verde): A capa de almofada Clocasa é confeccionada em veludo lavado na cor verde, apresentando um exclusivo bordado de folhagem em tufting que adiciona relevo, tridimensionalidade e autenticidade ao design. Produzida em 100% algodão, a peça prioriza o toque das fibras naturais, unindo a sofisticação do veludo à riqueza dos detalhes artesanais. Uma escolha que une conforto, estilo e inspiração orgânica, o modelo conta com um verso em algodão natural que equilibra a composição com suavidade e leveza. Com dimensões de 30x50cm e peso de 155g, seu formato retangular é ideal para criar pontos de destaque e texturas marcantes em sofás, poltronas ou camas. O design inspirado na natureza transforma a peça em um elemento central para quem busca um visual sofisticado e acolhedor. O uso de materiais nobres e o acabamento primoroso do bordado consolidam este item como uma opção indispensável para decorações que valorizam a harmonia entre o luxo e o toque natural. *Não inclui enchimento.
-  Updated: 2026-03-21T02:23:07Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-em-veludo-bordado-folhagem-30x50-verde-6425460.webp?v=1768928155
   Price: R$ 210,00 BRL
 - [Capa de Almofada Clocasa com Textura Bouclé Duo Verde 45x45](https://clocasa.com.br/products/capa-de-almofada-com-textura-boucle-duo-verde-45x45): Capa decorativa Clocasa em bouclé 45x45 verde. Toque macio, design sofisticado e versatilidade para sala e quarto.
-  Updated: 2026-03-21T02:22:57Z
+  Updated: 2026-03-27T02:22:57Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -508,35 +501,35 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-textura-boucle-duo-terracota-45x45-5695547.webp?v=1768928159
   Price: R$ 125,00 BRL
 - [Capa de Almofada Clocasa com Textura Bouclé Natural 45x45](https://clocasa.com.br/products/capa-de-almofada-com-textura-boucle-duo-mostarda-45x45): Capa Clocasa decorativa em bouclé 45x45 natural. Toque macio, design sofisticado e versatilidade para sala e quarto.
-  Updated: 2026-03-21T02:23:07Z
+  Updated: 2026-03-25T09:07:57Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-com-textura-boucle-natural-45x45-9256373.webp?v=1768928160
   Price: R$ 125,00 BRL
 - [Manta Clocasa Texturizada em Bouclé Duo Verde 130x170](https://clocasa.com.br/products/manta-texturizada-em-boucle-duo-verde-130x170): Manta Clocasa decorativa em bouclé duo verde com franjas. Toque macio, textura sofisticada e design artesanal para sala, quarto e decoração.
-  Updated: 2026-03-21T02:22:57Z
+  Updated: 2026-03-27T02:23:02Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Manta
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/manta-texturizada-em-boucle-duo-verde-130x170-2514405.webp?v=1768928159
   Price: R$ 370,00 BRL
 - [Manta Clocasa Texturizada em Bouclé Duo Terracota 130x170](https://clocasa.com.br/products/manta-texturizada-em-boucle-duo-terracota-130x170): Manta Clocasa decorativa terracota em bouclé com franjas. Toque macio, textura sofisticada e design artesanal para casa e sala.
-  Updated: 2026-03-20T17:27:26Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Manta
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/manta-texturizada-em-boucle-duo-terracota-130x170-6196957.webp?v=1768928159
   Price: R$ 370,00 BRL
 - [Manta Clocasa Texturizada em Bouclé Natural 130x170](https://clocasa.com.br/products/manta-texturizada-em-boucle-natural-130x170): Manta Clocasa decorativa em bouclé com franjas. Toque macio, textura sofisticada e design artesanal para casa e sala.
-  Updated: 2026-03-18T19:19:37Z
+  Updated: 2026-03-27T19:27:27Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Manta
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/manta-texturizada-em-boucle-natural-130x170-3222471.webp?v=1768928159
   Price: R$ 370,00 BRL
 - [Manta Clocasa Tramada Bege 130x170](https://clocasa.com.br/products/manta-tramada-bege-130x170): Manta Clocasa tramada com textura dupla e franjas. Conforto, sofisticação e toque artesanal para casa e decoração.
-  Updated: 2026-03-20T17:27:25Z
+  Updated: 2026-03-22T20:37:37Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Manta
   Availability: Available
@@ -550,7 +543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-trancado-em-listras-de-tom-natural-e-la-em-juta-60x180-8013717.webp?v=1769124848
   Price: R$ 430,00 BRL
 - [Tapete Clocasa com Listras Finas em Tom Natural de Lã em Juta 60x180](https://clocasa.com.br/products/tapete-com-listras-finas-em-tom-natural-de-la-em-juta-60x180): Tapete Clocasa decorativo em juta e algodão natural. Textura, sofisticação e charme rústico para sua casa e sala de estar.
-  Updated: 2026-03-16T19:02:00Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Tapete
   Availability: Available
@@ -571,7 +564,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/tapete-juta-tramado-60x180-natural-5526113.webp?v=1773802688
   Price: R$ 430,00 BRL
 - [Tapete Clocasa Floral Orgânico 50X80 Natural](https://clocasa.com.br/products/tapete-floral-organico-50x80-natural): Tapete Clocasa Floral Orgânico Clocasa 50x80 Natural. Conforto, textura macia e estilo artesanal para transformar sua decoração com elegância e aconchego.
-  Updated: 2026-03-19T13:43:46Z
+  Updated: 2026-03-27T02:23:07Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Tapete
   Availability: Available
@@ -585,7 +578,7 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/almofada-candy-listrada-rose-40x50-5590747.webp?v=1773884406
   Price: R$ 190,00 BRL
 - [Capa de Almofada Clocasa Listrada Rose 50X50](https://clocasa.com.br/products/capa-de-almofada-listrada-rose-50x50): A capa de almofada Clocasa é confeccionada em algodão branco, apresentando um patchwork listrado em veludo de algodão lavado rosé, que adiciona charme e suavidade à decoração. Produzida em 100% algodão, a peça prioriza o uso de fibras naturais, garantindo um toque macio e uma estética que une o frescor do algodão ao luxo delicado do veludo. Uma escolha refinada para quem busca beleza atemporal com conforto, o modelo se destaca pelo seu acabamento em vivo no mesmo tom, que valoriza os detalhes e reforça a harmonia visual da peça. Com dimensões de 50x50cm e peso de 260g, a capa possui uma estrutura encorpada e resistente, sendo perfeita para composições modernas que exploram tons suaves e texturas aconchegantes. O contraste entre o fundo branco e as listras aveludadas em rosé torna esta peça um elemento versátil para salas e dormitórios. A alta qualidade do material e o design sofisticado consolidam este item como uma opção indispensável para quem deseja criar ambientes que exalam elegância e bem-estar. *Não inclui enchimento.
-  Updated: 2026-02-27T02:24:23Z
+  Updated: 2026-03-29T14:24:18Z
   Vendor: Clocasa | Além do Conforto
   Product Type: Almofada
   Availability: Available
@@ -599,18 +592,18 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-de-algodao-com-listra-vinho-veludo-30x50-1772702.webp?v=1773884407
   Price: R$ 170,00 BRL
 - [Capa de Almofada Clocasa Algodão com Listra Mostarda em Veludo 30X50](https://clocasa.com.br/products/capa-de-almofada-de-algodao-com-listra-em-veludo-mostarda-30x50): A capa de almofada Clocasa é confeccionada em algodão natural e traz uma listra central em veludo mostarda, que adiciona um contraste sofisticado e cheio de estilo ao ambiente. Produzida em 100% algodão, a peça prioriza a excelência das fibras naturais, garantindo um toque macio e uma estética que equilibra a sobriedade da base com a energia da cor vibrante. Uma escolha elegante para quem busca simplicidade com identidade, a combinação entre a textura suave do veludo e o tecido natural cria uma peça extremamente versátil. Com dimensões de 30x50cm e peso de 118g, seu formato retangular é perfeito para destacar composições modernas e aconchegantes, funcionando como um ponto focal em sofás, poltronas ou camas postas. O design minimalista valoriza a geometria e a riqueza dos materiais, tornando esta almofada o elemento ideal para renovar a decoração com um toque contemporâneo. O uso de materiais nobres e o acabamento cuidadoso consolidam este item como uma opção indispensável para quem preza por harmonia visual e conforto sensorial. *Não inclui enchimento.
-  Updated: 2026-03-19T10:14:00Z
+  Updated: 2026-03-29T02:07:46Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Almofada
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-de-algodao-com-listra-mostarda-em-veludo-30x50-9163537.webp?v=1773884407
   Price: R$ 170,00 BRL
 - [Capa de Almofada de Algodão com Listra Verde Matcha Veludo 30X50](https://clocasa.com.br/products/capa-de-almofada-de-algodao-com-listra-em-veludo-matcha-30x50): Capa Clocasa em algodão natural com listra central em veludo. Conforto, durabilidade e design. Ideal para sua almofada retangular e decoração da sala.
-  Updated: 2026-03-21T02:41:20Z
+  Updated: 2026-03-24T19:46:08Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Almofada
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/cap_almof_alg_listra_vel_30x50_matcha_copiar.webp?v=1773863844
+  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-de-algodao-com-listra-verde-matcha-em-veludo-30x50-8986880.webp?v=1774381567
   Price: R$ 170,00 BRL
 - [Capa de Almofada Clocasa Algodão com listra Azul Marinho Veludo 30X50](https://clocasa.com.br/products/capa-de-almofada-de-algodao-com-listra-em-veludo-azul-marinho-30x50): Capa Clocasa em algodão natural com listra de veludo marinho. Uma almofada retangular com design elegante para sua decoração chique.
   Updated: 2026-03-16T14:25:35Z
@@ -634,126 +627,126 @@
   Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/capa-de-almofada-de-algodao-linho-50x50-7173972.webp?v=1768928163
   Price: R$ 200,00 BRL
 - [Enchimento de Almofada Clocasa com Forro em Microfibra 35x55](https://clocasa.com.br/products/enchimento-de-almofada-com-forro-em-microfibra-30x50-copia): Enchimento Clocasa 35x55 com forro em microfibra. Este preenchimento para almofadas garante maciez, conforto e durabilidade para a sua decoração.
-  Updated: 2026-03-20T18:13:26Z
+  Updated: 2026-03-29T15:57:48Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Enchimento
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/enchimento-de-almofada-com-forro-em-microfibra-35x55-6068801.jpg?v=1768928163
+  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/enchimento-de-almofada-com-forro-em-microfibra-40x60-4392745.png?v=1768928143
   Price: R$ 41,40 BRL
 - [Enchimento de Almofada Clocasa com Forro em Microfibra 55x55](https://clocasa.com.br/products/enchimento-de-almofada-com-forro-em-microfibra-45x65-copia): Enchimento de almofada 55x55 Clocasa com forro em microfibra. Mais conforto, maciez e durabilidade para sua decoração.
-  Updated: 2026-03-19T02:22:47Z
+  Updated: 2026-03-24T17:48:07Z
   Vendor: clocasa - sinta o bem viver
   Product Type: Enchimento
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/enchimento-de-almofada-com-forro-em-microfibra-55x55-3200349.jpg?v=1768928115
+  Image: https://cdn.shopify.com/s/files/1/0576/0175/3184/files/enchimento-de-almofada-com-forro-em-microfibra-45x45-2389057.webp?v=1773802689
   Price: R$ 62,00 BRL
 
 ## Collections
 
 - [Todos os Produtos | Clocasa – Almofadas, Tapetes e Mantas](https://clocasa.com.br/collections/todos-os-produtos): Veja todos os produtos da Clocasa em um só lugar: almofadas, mantas, tapetes e enchimentos exclusivos. Renove sua casa com conforto e estilo.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:24Z
   Total Products: 46
 - [Almofadas](https://clocasa.com.br/collections/almofadas): Almofadas Clocasa: encontre o equilíbrio entre conforto tátil e design exclusivo. Modelos em algodão natural, texturas em alto relevo e cores versáteis.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:24Z
   Total Products: 79
 - [Mantas](https://clocasa.com.br/collections/mantas): Mantas Clocasa: transforme seu ambiente com peças de acabamento premium e toque macio. Opções versáteis em cores neutras e tramas exclusivas.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-28T11:15:02Z
   Total Products: 9
 - [Tapetes](https://clocasa.com.br/collections/tapetes): Tapetes: elegância e versatilidade em diversos estilos. Designs sofisticados, antiderrapantes e práticos para decorar e transformar seus ambientes.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-28T11:15:02Z
   Total Products: 20
 - [Enchimentos para Almofadas Clocasa](https://clocasa.com.br/collections/enchimento): Forro para almofada Clocasa: conforto e volume ideal para dar suporte e realçar a beleza das suas capas favoritas.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 11
 - [Tapetes Infantis](https://clocasa.com.br/collections/tapetes-infantis): Tapetes Infantis Clocasa: o toque de estímulo sensorial que seu filho precisa. Modelos fáceis de limpar, seguros e confortáveis para o quarto infantil.
-  Updated: 2026-03-16T11:12:50Z
+  Updated: 2026-03-27T11:15:51Z
   Total Products: 3
 - [Tapetes de Algodão](https://clocasa.com.br/collections/algodao): Tapetes de Algodão: conforto, elegância e praticidade. Designs em alto relevo, antiderrapantes e laváveis para decorar ambientes com estilo único.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-28T11:15:02Z
   Total Products: 12
 - [Tapetes de Banheiro](https://clocasa.com.br/collections/banho): Tapetes para Banheiro Clocasa: a união perfeita entre decoração e funcionalidade. Peças em algodão de alta qualidade, antiderrapantes e com toque macio.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-28T11:15:02Z
   Total Products: 9
 - [Tapetes de Juta](https://clocasa.com.br/collections/tapete-juta): Tapetes de Juta Clocasa: descubra a união perfeita entre o estilo rústico e a maciez superior. Peças em fibra natural com design sustentável e sofisticado
-  Updated: 2026-03-18T11:13:41Z
+  Updated: 2026-03-27T18:00:55Z
   Total Products: 7
 - [Tapetes Decorativo](https://clocasa.com.br/collections/tapetes-decorativo): Tapetes Decorativos Clocasa: transforme seu lar com o conforto das fibras naturais. Modelos em algodão e juta, com texturas em relevo e design confortável.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-28T11:15:02Z
   Total Products: 15
 - [Tapetes de Algodão](https://clocasa.com.br/collections/tapetes-de-algodao): Tapetes de Algodão: designs elegantes e confortáveis em alto relevo, antiderrapantes e laváveis. Perfeitos para decorar com sofisticação e praticidade.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-24T11:14:58Z
   Total Products: 2
 - [NATURAIS](https://clocasa.com.br/collections/naturais): Tecidos Naturais: beleza, conforto e sustentabilidade. Feitos com fibras naturais, trazem leveza e sofisticação para sua decoração com qualidade e estilo.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-25T17:10:17Z
   Total Products: 19
 - [Capa de Almofada](https://clocasa.com.br/collections/capa-de-almofada): Capas de Almofada Clocasa: a solução ideal para a renovação de ambiente. Modelos em algodão premium, estilo boho e estampas que trazem sofisticação ao seu sofá.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:38Z
   Total Products: 68
 - [Block Print](https://clocasa.com.br/collections/block-print): Block Prints Clocasa: a beleza da estamparia tradicional indiana em sua casa. Peças exclusivas com várias estampas e cores para um décor único.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:23Z
   Total Products: 3
 - [Coleção Festiva](https://clocasa.com.br/collections/colecao-festiva): Uma seleção especial da Clocasa, pensada para seu conforto e bem estar, nessa época mágica!
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:24Z
   Total Products: 7
 - [Coleção Jacquard](https://clocasa.com.br/collections/colecao-jacquard): Sofisticação em cada detalhe. A coleção Jacquard da Clocasa combina texturas marcantes e tons terrosos, trazendo conforto e elegância atemporal aos seus ambientes.
-  Updated: 2026-03-20T11:14:52Z
+  Updated: 2026-03-25T17:10:17Z
   Total Products: 4
-- [Juta Clocasa: Móveis de Design em Fibra Natural](https://clocasa.com.br/collections/colecao-juta): A coleção Juta da Clocasa combina fibras naturais e design rústico sofisticado. Perfeita para criar ambientes aconchegantes com elegância sofisticada.
-  Updated: 2026-03-03T12:14:36Z
+- [Coleção Juta: Design em Fibra Natural](https://clocasa.com.br/collections/colecao-juta): A coleção Juta da Clocasa combina fibras naturais e design rústico sofisticado. Perfeita para criar ambientes aconchegantes com elegância sofisticada.
+  Updated: 2026-03-25T17:10:17Z
   Total Products: 9
 - [AVADA - Best Sellers](https://clocasa.com.br/collections/avada-best-sellers)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:24Z
   Total Products: 114
 - [Coleção Dia das Mulheres](https://clocasa.com.br/collections/colecao-dia-das-mulheres): Comemore a beleza e a força feminina com nossa coleção especial para o Dia das Mulheres. Encontre itens únicos para seu lar!
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:24Z
   Total Products: 6
 - [Mais Vendidos](https://clocasa.com.br/collections/mais-vendidos): Descubra os produtos mais vendidos da Clocasa: almofadas, mantas, tapetes e enchimentos que combinam conforto e estilo. Frete grátis em compras acima de R$ 150!
-  Updated: 2026-03-21T11:13:04Z
-  Total Products: 109
+  Updated: 2026-03-29T15:58:28Z
+  Total Products: 107
 - [Clocasa e Estúdio Mais](https://clocasa.com.br/collections/clocasa-e-estudio-mais)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:24Z
   Total Products: 46
 - [Seleção Dia dos Namorados](https://clocasa.com.br/collections/selecao-dia-dos-namorados): Presentes especiais para surpreender neste Dia dos Namorados. Descubra a seleção romântica da Clocasa e celebre com amor e estilo.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-25T17:10:17Z
   Total Products: 11
 - [Kits de Decoração | Clocasa – Almofadas, Mantas e Tapetes](https://clocasa.com.br/collections/kits): Conheça os kits Clocasa: combinações exclusivas de almofadas, mantas e tapetes que trazem estilo e conforto para sua casa.
   Updated: 2026-03-20T17:51:36Z
   Total Products: 7
 - [Todos os Produtos | Clocasa – Almofadas, Tapetes e Mantas](https://clocasa.com.br/collections/todos-os-produtos-1): Explore a coleção completa da Clocasa: almofadas, tapetes, mantas e enchimentos para deixar sua casa mais aconchegante. Frete grátis em compras acima de R$ 150!
-  Updated: 2026-03-21T11:13:04Z
-  Total Products: 109
+  Updated: 2026-03-29T15:58:28Z
+  Total Products: 107
 - [Decoração, Almofadas, Tapetes e Mantas](https://clocasa.com.br/collections/all): Navegue por toda a coleção da Clocasa: almofadas, mantas, tapetes e itens de decoração com frete grátis acima de R$ 250. Encontre o estilo ideal para sua casa!
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:37Z
   Total Products: 114
 - [Linha Infantil Clocasa: para Bebês e Crianças](https://clocasa.com.br/collections/linha-infantil): Decoração e móveis infantis que inspiram. Descubra a Linha Clocasa: design, segurança e conforto para o quarto do seu filho. Veja as novidades!
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-25T17:10:16Z
   Total Products: 10
 - [Lançamentos Clocasa: Nova Coleção de Móveis](https://clocasa.com.br/collections/lancamentos-clocasa): Descubra os lançamentos Clocasa! Novas coleções e móveis de design que combinam tendência e bem-estar para o seu lar. Confira as novidades!
-  Updated: 2026-03-21T11:13:04Z
-  Total Products: 19
+  Updated: 2026-03-26T11:14:27Z
+  Total Products: 11
 - [Coleção 002 - Clocasa | Além do Conforto](https://clocasa.com.br/collections/colecao-002): Coleção 002 Clocasa: Design moderno e sofisticação que vai Além do Conforto. Móveis autênticos para criar ambientes únicos e elegantes. Descubra!
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 35
 - [Pré-Venda Clocasa](https://clocasa.com.br/collections/pre-venda-clocasa): Renove sua casa para 2026 com as almofadas Clocasa, feitas com design exclusivo e acabamento de alta qualidade.Nesta pré-venda especial, você garante acesso antecipado aos lançamentos. Envio a partir de 17/11/2025. Aproveite para transformar seus espaços e começar o novo ano com uma casa mais acolhedora, moderna e cheia de estilo.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-28T11:15:02Z
   Total Products: 24
 - [Almofadas 45X45](https://clocasa.com.br/collections/almofadas-45x45)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 22
 - [Almofadas 50X50](https://clocasa.com.br/collections/almofadas-50x50)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 15
 - [Almofadas 40X60](https://clocasa.com.br/collections/almofadas-40x60)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 7
 - [Almofadas 30X50](https://clocasa.com.br/collections/almofadas-30x50)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 20
 - [Almofadas 30X80](https://clocasa.com.br/collections/almofadas-30x80)
-  Updated: 2026-01-13T02:59:06Z
+  Updated: 2026-03-25T17:10:12Z
   Total Products: 1
 - [Almofadas 30X115](https://clocasa.com.br/collections/almofadas-30x80-copia)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-25T17:10:13Z
   Total Products: 1
 - [Kit Clocasa Tufting - Segunda](https://clocasa.com.br/collections/kit-tufting-segunda): ÚLTIMA CHANCE! Garanta seu Kit de almofadas Clocasa  Tufting com 40% OFF hoje -Segunda Black Week. Oferta por 24h!
   Updated: 2025-12-08T15:21:56Z
@@ -770,71 +763,89 @@ Garanta seu kit completo de Almofadas Clocasa Jacquard com 40% OFF hoje! Peças 
   Total Products: 1
 - [Cyber Monday Clocasa](https://clocasa.com.br/collections/cyber-monday-clocasa): Aproveite para entrar no clima da Cyber Monday e escolher com calma tudo o que vai deixar sua casa ainda mais bonita, funcional e cheia de boas sensações.
 Descontos por tempo limitado.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 21
 - [Festas](https://clocasa.com.br/collections/festas): Uma seleção especial para quem quer receber com conforto e aconchego!
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:25Z
   Total Products: 40
 - [Almofadas Bouclé Clocasa](https://clocasa.com.br/collections/almofadas-boucle): Almofadas Bouclé Clocasa, textura macia e design nórdico para adicionar aconchego e sofisticação à sua sala. Compre agora!
-  Updated: 2026-03-21T05:09:28Z
+  Updated: 2026-03-29T05:04:27Z
   Total Products: 5
 - [Mais avaliados](https://clocasa.com.br/collections/mais-avaliados): Confira os itens mais avaliados Clocasa, para quem busca conforto e sofisticação. Transforme seu ambiente com a textura favorita do momento!
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-25T17:10:15Z
   Total Products: 8
 - [Clocasa Yellow Day](https://clocasa.com.br/collections/yellow-day): Yellow Day Clocasa: Design e Sofisticação Além do Conforto O Yellow Day chegou para iluminar a sua casa com uma curadoria que vai muito além do conforto.A Clocasa separou um dia para uma campanha que une a funcionalidade essencial à estética apurada das maiores tendências de decoração. Inspirada no visual clean e orgânico, nós selecionamos produtos especiais que traz o equilíbrio perfeito entre o aconchego e elegância . É o momento de transformar seu espaço com peças que expressam personalidade e elevam sua sofisticação em conforto.
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T05:04:27Z
   Total Products: 4
 - [Entre Sofás e Histórias](https://clocasa.com.br/collections/entre-sofas-e-historias)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 8
-- [Terracota](https://clocasa.com.br/collections/terracota)
-  Updated: 2026-03-21T11:13:04Z
+- [Coleção Terracota Clocasa](https://clocasa.com.br/collections/terracota): Coleção Terracota Clocasa: traga o calor das tonalidades terrosas para seu lar. Peças em algodão natural que criam um ambiente acolhedor e sofisticado.
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 8
-- [Mostarda](https://clocasa.com.br/collections/mostarda)
-  Updated: 2026-03-21T11:13:04Z
+- [Coleção Mostarda Clocasa](https://clocasa.com.br/collections/mostarda): Almofadas e Mantas Mostarda Clocasa: a energia do mostarda com o toque do algodão natural. Peças em estilo boho e contemporâneo para um ambiente acolhedor. Veja!
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 8
-- [Almofada Bege](https://clocasa.com.br/collections/almofada-bege)
-  Updated: 2026-03-21T05:09:32Z
+- [Almofadas Bege Clocasa](https://clocasa.com.br/collections/almofada-bege): Almofadas Bege Clocasa: a base perfeita para sua decoração de interiores. Modelos em algodão natural, texturas em alto relevo e linho. Confira!
+  Updated: 2026-03-29T05:04:30Z
   Total Products: 2
-- [Paleta Calma](https://clocasa.com.br/collections/paleta-calma)
-  Updated: 2026-03-21T11:13:04Z
+- [Paleta Calma Clocasa](https://clocasa.com.br/collections/paleta-calma): Coleção Paleta Calma Decorativa Clocasa: traga o conforto visual e a sofisticação das cores suaves. Almofadas e mantas com texturas macias e toque leve. Veja!
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 32
-- [Terrosos](https://clocasa.com.br/collections/terrosos)
-  Updated: 2026-03-21T11:13:04Z
+- [Coleção Terrosos Clocasa](https://clocasa.com.br/collections/terrosos): Coleção Terrosos Clocasa: traga o equilíbrio do design biofílico para seu lar. Peças em algodão natural com a sofisticação das tonalidades terrosas. Confira!
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 25
-- [Tapetes Florais](https://clocasa.com.br/collections/tapetes-florais)
-  Updated: 2026-03-21T11:13:04Z
+- [Tapetes Florais Clocasa](https://clocasa.com.br/collections/tapetes-florais): Tapetes Florais Clocasa: a beleza do design botânico em fibras naturais. Estampas exclusivas que trazem o frescor da natureza para sua decoração de sala.
+  Updated: 2026-03-29T05:04:32Z
   Total Products: 5
 - [Almofadas Florais](https://clocasa.com.br/collections/almofadas-florais)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T16:01:25Z
   Total Products: 5
 - [Tapetes para Banheiro](https://clocasa.com.br/collections/tapetes-para-banheiro)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T05:04:33Z
   Total Products: 5
 - [Tapete Passadeira](https://clocasa.com.br/collections/tapete-passadeira)
-  Updated: 2026-03-21T05:09:35Z
+  Updated: 2026-03-29T05:04:33Z
   Total Products: 3
-- [Juta](https://clocasa.com.br/collections/almofadas-juta)
-  Updated: 2026-03-21T05:09:36Z
+- [Almofadas Juta Clocasa](https://clocasa.com.br/collections/almofadas-juta): Almofadas de Juta Clocasa: o toque rustic chic que falta na sua decoração. Feitas com fibras naturais de alta qualidade e textura orgânica única. Confira!
+  Updated: 2026-03-29T05:04:34Z
   Total Products: 6
-- [Jacquard](https://clocasa.com.br/collections/jacquard)
-  Updated: 2026-03-21T05:09:37Z
+- [Almofadas Jacquard Clocasa](https://clocasa.com.br/collections/jacquard): Almofadas Jacquard Clocasa: a elegância da trama encorpada e dos desenhos em relevo. Peças com alta durabilidade e acabamento de luxo para sua sala. Confira!
+  Updated: 2026-03-29T05:04:34Z
   Total Products: 2
-- [Almofadas Veludo](https://clocasa.com.br/collections/almofadas-veludo)
-  Updated: 2026-03-21T11:13:04Z
+- [Almofadas Veludo Clocasa](https://clocasa.com.br/collections/almofadas-veludo): Almofadas de Veludo Clocasa: traga o brilho sofisticado e a elegância do veludo para sua sala. Modelos com toque macio e cores vibrantes ou neutras. Confira!
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 20
-- [Manta Bouclé Duo](https://clocasa.com.br/collections/manta-boucle-duo)
-  Updated: 2026-03-21T11:13:04Z
+- [Manta Bouclé Duo Clocasa](https://clocasa.com.br/collections/manta-boucle-duo): Manta Bouclé Duo Clocasa: a suavidade do toque de lã com o visual icônico do bouclé. Design contemporâneo e conforto térmico em uma peça versátil. Confira!
+  Updated: 2026-03-29T05:04:35Z
   Total Products: 3
 - [Favoritos da Casa](https://clocasa.com.br/collections/favoritos-da-casa)
-  Updated: 2026-03-21T11:13:04Z
+  Updated: 2026-03-29T11:18:39Z
   Total Products: 11
-- [Tufting](https://clocasa.com.br/collections/almofadas-tufting)
-  Updated: 2026-03-21T11:13:04Z
+- [Almofadas Tufting Clocasa](https://clocasa.com.br/collections/almofadas-tufting): Almofadas Tufting Decorativas Clocasa: eleve o décor com o autêntico estilo boho. Modelos em algodão natural com detalhes em tufting artesanal. Veja mais!
+  Updated: 2026-03-27T11:15:51Z
   Total Products: 8
-- [](https://clocasa.com.br/collections/)
-  Updated: 2026-03-21T05:09:39Z
-  Total Products: 1
+- [ | Clocasa](https://clocasa.com.br/collections/): Ofertas exclusivas na Clocasa! Almofadas e tapetes selecionados com até 30% OFF. Garanta mais conforto para seu ambiente com descontos especiais. Estoque limitado!
+  Updated: 2026-03-29T05:04:36Z
+  Total Products: 13
+- [Dias Frios, Casa Quente](https://clocasa.com.br/collections/dias-frios-casa-quente): Renove seu lar com a Coleção de Outono CLocasa. Encontre peças exclusivas que trazem o conforto e a elegância da estação para sua decoração. Confira agora!
+  Updated: 2026-03-28T11:15:02Z
+  Total Products: 11
+- [Abril: Hora de Mudar](https://clocasa.com.br/collections/abril-hora-de-mudar): Abril chegou! Aproveite a seleção exclusiva para renovar seu décor. Encontre móveis e objetos de design com entrega rápida e condições especiais. Confira e mude agora!
+  Updated: 2026-03-28T11:15:02Z
+  Total Products: 8
+- [Sua Casa em Foco | Clocasa](https://clocasa.com.br/collections/sua-casa-em-foco): Destaque o que há de melhor no seu lar. Curadoria em decoração contemporânea para todos os cômodos. Veja as peças que estão em destaque este mês da Clocasa.
+  Updated: 2026-03-28T11:15:02Z
+  Total Products: 10
+- [Essência de Casa| Clocasa](https://clocasa.com.br/collections/essencia-de-casa): Descubra peças da Clocasa que trazem alma e históriapara sua casa. Da iluminação ao acabamento, encontre o que define sua essência. Compre com até 6x sem juros.
+  Updated: 2026-03-29T11:18:39Z
+  Total Products: 10
+- [Refúgio Particular| Clocasa](https://clocasa.com.br/collections/refugio-particular): Transforme sua casa em um verdadeiro refúgio. Seleção Clocasa com itens confortáveis  para os dias mais frescos de abril. Frete grátis nas comprar acima de R$150.
+  Updated: 2026-03-29T11:18:39Z
+  Total Products: 9
+- [Casa Viva | Clocasa](https://clocasa.com.br/collections/casa-viva): Décor que inspira vida! Encontre soluções criativas e modernas na Clocasa para deixar sua casa mais vibrante e organizada. Frete Grátis nas compras acima de R$150
+  Updated: 2026-03-29T11:18:39Z
+  Total Products: 13
 
 ## Blogs
 
@@ -852,7 +863,7 @@ Descontos por tempo limitado.
     Author: Renan Silva
     Tags: além do conforto, artigos de decoração, bem-estar, Casas que Acolhem, conforto, decor, decoração, dicas, estilo de vida, iluminação, life style, meio ambiente, tendencias2025, tranquilidade
   - [Tendências de Decoração 2025: Conforto e Estilo](https://clocasa.com.br/blogs/blog-alem-do-conforto/decoracao-2025-as-principais-tendencias-que-transformarao-sua-casa-em-um-refugio-de-conforto-e-sustentabilidade): Tendências de Decoração 2025: Conforto e Estilo
-    Updated: 2026-03-18T02:39:25Z
+    Updated: 2026-03-25T11:15:14Z
     Author: Miréia Chimenez
     Tags: além do conforto, artigos de decoração, bem-estar, conforto, decor, decoração, dicas, estilo de vida, life style, Lifestyle & Casa, meio ambiente, natural, natureza, paz, tendencias2025, tranquilidade
   - [Segredos para transformar ambientes pequenos](https://clocasa.com.br/blogs/blog-alem-do-conforto/segredos-para-transformar-ambientes-pequenos)
@@ -892,7 +903,7 @@ Descontos por tempo limitado.
     Author: Miréia Chimenez
     Tags: Casas que Acolhem, Lifestyle & Casa
   - [Decoração Boho Chic para o seu Ano Novo Clocasa](https://clocasa.com.br/blogs/blog-alem-do-conforto/ano-novo-boho-chic-celebre-com-toque-aconchegante-e-sofisticacao): Decoração Boho Chic para o seu Ano Novo Clocasa
-    Updated: 2026-03-17T16:25:58Z
+    Updated: 2026-03-25T11:15:21Z
     Author: Miréia Chimenez
     Tags: Lifestyle & Casa
   - [5 Dicas para montar a Cozinha dos Sonhos](https://clocasa.com.br/blogs/blog-alem-do-conforto/5-dicas-para-montar-a-cozinha-dos-sonhos)
@@ -903,8 +914,8 @@ Descontos por tempo limitado.
     Updated: 2026-03-18T02:39:39Z
     Author: Miréia Chimenez
     Tags: Casas que Acolhem, Lifestyle & Casa
-  - [6 Plantas para ter em Apartamento que melhoram o Bem-Estar](https://clocasa.com.br/blogs/blog-alem-do-conforto/6-plantas-para-ter-em-apartamento-que-melhoram-o-bem-estar)
-    Updated: 2026-03-18T02:39:41Z
+  - [6 Plantas para ter em Apartamento que melhoram o Bem-Estar - Clocasa](https://clocasa.com.br/blogs/blog-alem-do-conforto/6-plantas-para-ter-em-apartamento-que-melhoram-o-bem-estar): 6 Plantas para ter em Apartamento que melhoram o Bem-Estar - Clocasa
+    Updated: 2026-03-25T18:59:47Z
     Author: Miréia Chimenez
     Tags: Afeto & Memória, Casas que Acolhem, Lifestyle & Casa
   - [Tapetes irregulares podem ser Peças-Chave na sua Decoração](https://clocasa.com.br/blogs/blog-alem-do-conforto/tapetes-irregulares-podem-ser-pecas-chave-na-sua-decoracao)
@@ -919,8 +930,8 @@ Descontos por tempo limitado.
     Updated: 2026-03-17T20:19:26Z
     Author: Miréia Chimenez
     Tags: Casas que Acolhem, Lifestyle & Casa
-  - [Cantinho do Autocuidado: Dicas práticas para montar o seu em casa](https://clocasa.com.br/blogs/blog-alem-do-conforto/cantinho-do-autocuidado-dicas-praticas-para-montar-o-seu-em-casa)
-    Updated: 2026-03-18T02:39:45Z
+  - [Cantinho do Autocuidado: Dicas práticas para montar o seu - Clocasa](https://clocasa.com.br/blogs/blog-alem-do-conforto/cantinho-do-autocuidado-dicas-praticas-para-montar-o-seu-em-casa): Cantinho do Autocuidado: Dicas práticas para montar o seu - Clocasa
+    Updated: 2026-03-25T18:59:49Z
     Author: Miréia Chimenez
     Tags: Casas que Acolhem, Lifestyle & Casa
   - [Como criar um Home Office Elegante, Funcional e Feminino](https://clocasa.com.br/blogs/blog-alem-do-conforto/como-criar-um-home-office-elegante-funcional-e-feminino)
@@ -972,7 +983,7 @@ Descontos por tempo limitado.
     Author: Miréia Chimenez
     Tags: Lifestyle & Casa
   - [Dia da Mulher: Invenções feitas por mulheres que mudaram os lares para sempre](https://clocasa.com.br/blogs/blog-alem-do-conforto/dia-da-mulher-invencoes-feitas-por-mulheres-que-mudaram-os-lares-para-sempre)
-    Updated: 2026-03-18T02:39:55Z
+    Updated: 2026-03-25T18:59:51Z
     Author: Miréia Chimenez
     Tags: #diadasmulheres, #EspaçosPequenos, #InteriorDesign, #MóveisFuncionais, Afeto & Memória, além do conforto, artigos de decoração, bem-estar, conforto, decor, decoração, dicas, estilo de vida, familia, iluminação, life style, meio ambiente, natural, natureza, paz, tendencias2025, tranquilidade
   - [Decoração sofisticada: 3 itens que não podem faltar](https://clocasa.com.br/blogs/blog-alem-do-conforto/decoracao-sofisticada-3-itens-que-nao-podem-faltar)
@@ -984,7 +995,7 @@ Descontos por tempo limitado.
     Author: Miréia Chimenez
     Tags: #designweekend, #DW, além do conforto, artigos de decoração, bem-estar, conforto, decor, decoração, dicas, estilo de vida, iluminação, life style, Lifestyle & Casa, meio ambiente, natural, natureza, paz, tendencias2025, tranquilidade
   - [Color Drenching: Como usar a tendência monocromática para transformar sua casa](https://clocasa.com.br/blogs/blog-alem-do-conforto/color-drenching-como-usar-a-tendencia-monocromatica-para-transformar-sua-casa)
-    Updated: 2026-03-18T02:39:59Z
+    Updated: 2026-03-25T18:59:52Z
     Author: Miréia Chimenez
     Tags: Lifestyle & Casa, Refúgios Masculinos
   - [Você sabe combinar Sofá, tapetes e Cortinas?](https://clocasa.com.br/blogs/blog-alem-do-conforto/voce-sabe-combinar-sofa-tapetes-e-cortinas): Você sabe combinar Sofá, tapetes e Cortinas?
@@ -992,7 +1003,7 @@ Descontos por tempo limitado.
     Author: Miréia Chimenez
     Tags: #designweekend, #diadasmulheres, #DW, #EspaçosPequenos, #InteriorDesign, #MóveisFuncionais, além do conforto, artigos de decoração, bem-estar, Casas que Acolhem, conforto, decor, decoração, dicas, estilo de vida, familia, iluminação, life style, Lifestyle & Casa, meio ambiente, natural, natureza, paz, tendencias2025, tranquilidade
   - [Tufting: Decoração aconchegante com tapeçarias](https://clocasa.com.br/blogs/blog-alem-do-conforto/tufting-decoracao-aconchegante-com-tapecarias): Tufting: Decoração aconchegante com tapeçarias
-    Updated: 2026-03-17T16:44:25Z
+    Updated: 2026-03-25T11:15:46Z
     Author: Miréia Chimenez
     Tags: Casas que Acolhem, Lifestyle & Casa
   - [Sabia que a cortina pode transformar um ambiente?](https://clocasa.com.br/blogs/blog-alem-do-conforto/sabia-que-a-cortina-pode-transformar-um-ambiente): Sabia que a cortina pode transformar um ambiente?
@@ -1003,12 +1014,12 @@ Descontos por tempo limitado.
     Updated: 2026-03-18T02:40:04Z
     Author: Miréia Chimenez
     Tags: Lifestyle & Casa
-  - [Impacto dos Aromas na Decoração de Ambientes](https://clocasa.com.br/blogs/blog-alem-do-conforto/impacto-dos-aromas-na-decoracao-de-ambientes): Impacto dos Aromas na Decoração de Ambientes
-    Updated: 2026-03-18T02:40:05Z
+  - [Impacto dos Aromas na Decoração de Ambientes - Clocasa](https://clocasa.com.br/blogs/blog-alem-do-conforto/impacto-dos-aromas-na-decoracao-de-ambientes): Impacto dos Aromas na Decoração de Ambientes - Clocasa
+    Updated: 2026-03-25T12:05:54Z
     Author: Marketing Promexdecor
     Tags: Afeto & Memória, Casas que Acolhem, Lifestyle & Casa
-  - [Como evitar e reparar riscos e arranhões em piso de madeira](https://clocasa.com.br/blogs/blog-alem-do-conforto/como-evitar-e-reparar-riscos-e-arranhoes-em-piso-de-madeira): Como evitar e reparar riscos e arranhões em piso de madeira
-    Updated: 2026-03-18T02:40:06Z
+  - [Como evitar e reparar riscos e arranhões em piso de madeira - Clocasa](https://clocasa.com.br/blogs/blog-alem-do-conforto/como-evitar-e-reparar-riscos-e-arranhoes-em-piso-de-madeira): Como evitar e reparar riscos e arranhões em piso de madeira - Clocasa
+    Updated: 2026-03-25T18:59:53Z
     Author: Marketing Promexdecor
     Tags: Lifestyle & Casa, Refúgios Masculinos
   - [Como escolher o sofá ideal para sua casa](https://clocasa.com.br/blogs/blog-alem-do-conforto/como-escolher-o-sofa-ideal-para-sua-casa): Como escolher o sofá ideal para sua casa
@@ -1016,7 +1027,7 @@ Descontos por tempo limitado.
     Author: Marketing Promexdecor
     Tags: Casas que Acolhem, Lifestyle & Casa
   - [Dicas de decoração para casais jovens](https://clocasa.com.br/blogs/blog-alem-do-conforto/dicas-de-decoracao-para-casais-jovens): Dicas de decoração para casais jovens
-    Updated: 2026-03-17T14:53:45Z
+    Updated: 2026-03-25T11:15:41Z
     Author: Marketing Promexdecor
     Tags: Lifestyle & Casa
   - [Conforto e estilo para quem tem animais em casa](https://clocasa.com.br/blogs/blog-alem-do-conforto/conforto-e-estilo-para-quem-tem-animais-em-casa)
@@ -1039,8 +1050,8 @@ Descontos por tempo limitado.
     Updated: 2026-03-17T15:14:54Z
     Author: Franciane Felix
     Tags: Afeto & Memória
-  - [Receber com aconchego: da decoração ao aroma de biscoitos natalinos.](https://clocasa.com.br/blogs/blog-alem-do-conforto/receber-com-aconchego-da-decoracao-ao-aroma-de-biscoitos-natalinos)
-    Updated: 2026-03-17T16:31:19Z
+  - [Receber com aconchego: da decoração ao aroma dos biscoitos - Clocasa](https://clocasa.com.br/blogs/blog-alem-do-conforto/receber-com-aconchego-da-decoracao-ao-aroma-de-biscoitos-natalinos): Receber com aconchego: da decoração ao aroma dos biscoitos - Clocasa
+    Updated: 2026-03-25T12:06:25Z
     Author: Franciane Felix
     Tags: Casas que Acolhem
   - [3 Micro Renovações para Transformar Sua Casa em Minutos e Receber 2026 com Leveza](https://clocasa.com.br/blogs/blog-alem-do-conforto/3-micro-renovacoes-para-transformar-sua-casa-em-minutos-e-receber-2026-com-leveza)
@@ -1052,7 +1063,7 @@ Descontos por tempo limitado.
     Author: Franciane Felix
     Tags: Lifestyle & Casa
   - [Iluminação Aconchegante: 3 Pontos de Luz que Transformam a Sala](https://clocasa.com.br/blogs/blog-alem-do-conforto/iluminacao-aconchegante-3-pontos-de-luz-que-transformam-a-sala): Iluminação Aconchegante: 3 Pontos de Luz que Transformam a Sala
-    Updated: 2026-03-19T01:37:10Z
+    Updated: 2026-03-25T11:16:07Z
     Author: Franciane Felix
     Tags: Casas que Acolhem, Lifestyle & Casa
   - [Guia 2026: Como Combinar Tapete, Almofadas e Manta sem Errar (em 4 Passos)](https://clocasa.com.br/blogs/blog-alem-do-conforto/guia-2026-como-combinar-tapete-almofadas-e-manta-sem-errar-em-4-passos)
@@ -1079,8 +1090,8 @@ Descontos por tempo limitado.
     Updated: 2026-03-18T17:41:22Z
     Author: Franciane Felix
     Tags: Afeto & Memória
-  - [Estações do Ano e Emoções: Como Atualizar a Casa Sem Reforma](https://clocasa.com.br/blogs/blog-alem-do-conforto/estacoes-do-ano-e-emocoes-como-atualizar-a-casa-sem-reforma): <p>Sinta o bem-estar: renove sua casa a cada estação sem reformas. Use texturas naturais, camadas e cores que abraçam. Transforme seu lar no seu refúgio essencial. Confira nossas dicas!</p>
-    Updated: 2026-03-19T01:37:16Z
+  - [Estações do Ano e Emoções: Como Atualizar a Casa Sem Reforma - Clocasa](https://clocasa.com.br/blogs/blog-alem-do-conforto/estacoes-do-ano-e-emocoes-como-atualizar-a-casa-sem-reforma): Estações do Ano e Emoções: Como Atualizar a Casa Sem Reforma - Clocasa
+    Updated: 2026-03-25T18:59:55Z
     Author: Franciane Felix
     Tags: Lifestyle & Casa
   - [Páscoa além do óbvio: rituais à mesa que viram memória (e não decoração)](https://clocasa.com.br/blogs/blog-alem-do-conforto/pascoa-alem-do-obvio-rituais-a-mesa-que-viram-memoria-e-nao-decoracao): <p>Páscoa além do óbvio: troque o excesso por rituais com significado. Invista em mesas acolhedoras, texturas naturais e memórias que ficam. Transforme sua casa em um abraço. Confira!</p>
@@ -1091,6 +1102,9 @@ Descontos por tempo limitado.
     Updated: 2026-03-19T01:37:19Z
     Author: Franciane Felix
     Tags: #diadoconsumidor, artigos de decoração, bem-estar, conforto, decor, decoração, Lifestyle & Casa
+  - [Casa Sensorial: Como Texturas e Materiais Influenciam o Bem-Estar](https://clocasa.com.br/blogs/blog-alem-do-conforto/casa-sensorial-como-texturas-e-materiais-influenciam-o-bem-estar)
+    Updated: 2026-03-25T19:00:00Z
+    Author: Franciane Felix
 
 ## Store Pages
 
