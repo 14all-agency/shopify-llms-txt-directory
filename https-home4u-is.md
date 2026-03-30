@@ -6,7 +6,7 @@
 - Timezone: Atlantic/Reykjavik
 - Created At: 2024-05-12T17:01:36Z
 - Contact Email: Home4u@home4u.is
-- Updated At: 2026-03-23T00:00:36.350Z
+- Updated At: 2026-03-30T00:00:39.501Z
 
 ## Products
 
@@ -22,18 +22,6 @@
   - [140x80](https://home4u.is/products/lagos-fix-badthil?variant=48710617268545)
     Availability: Available
     Price: kr 58,900.00 ISK
-- [Lagos Mobile Hreyfanlegt Baðþil](https://home4u.is/products/lagos-mobile-hreyfanlegt-badthil): Einföld og falleg hönnun frá REA. Hægt hreyfa eins og hurð. ​ Stærð: Lengd: 700mm Hæð:​ 1400mm ​ Einnig Fáanleg í 80cm lengd. Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-02-11T16:27:46Z
-  Vendor: Rea
-  Product Type: baðþil
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/lagos70cm01_01f16af0-3f6b-4b1b-9d3e-f54ed692c291.webp?v=1716396791
-  - [140x70](https://home4u.is/products/lagos-mobile-hreyfanlegt-badthil?variant=48710660161857)
-    Availability: Available
-    Price: kr 58,900.00 ISK
-  - [140x80](https://home4u.is/products/lagos-mobile-hreyfanlegt-badthil?variant=48710660194625)
-    Availability: Not Available
-    Price: kr 68,900.00 ISK
 - [Lagos-1 Fix Baðþil](https://home4u.is/products/lagos-fix-badthil-1): Einföld og falleg hönnun frá REA. ​ Stærð: Lengd: 700mm Hæð:​ 1400mm ​ Einnig Fáanleg í 80cm lengd. ​ ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
   Updated: 2026-01-19T12:08:28Z
   Vendor: Rea
@@ -124,7 +112,7 @@
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/LiviaStone3_jfif.webp?v=1716402884
   Price: kr 54,900.00 ISK
 - [Bler sturtugler](https://home4u.is/products/bler-sturtugler): Glæsileg, stílhrein hönnun sem hefur vakið mikla athygli hjá okkur í Home4U. ​ Glerið er 8mm öryggisglerFestingar fylgjaHægt að setja upp með eða án sturtubotnEfni: Aluminum ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-10-23T11:39:46Z
+  Updated: 2026-03-27T12:30:47Z
   Vendor: Rea
   Product Type: Sturtugler
   Availability: Available
@@ -142,7 +130,7 @@
     Availability: Available
     Price: kr 117,900.00 ISK
   - [110x195](https://home4u.is/products/bler-sturtugler?variant=48721550180673)
-    Availability: Not Available
+    Availability: Available
     Price: kr 132,900.00 ISK
   - [120x195](https://home4u.is/products/bler-sturtugler?variant=48721550213441)
     Availability: Available
@@ -346,7 +334,7 @@
     Availability: Not Available
     Price: kr 0.00 ISK
 - [LINE PRO - Built in fyrir flísina niðurfall](https://home4u.is/products/line-pro-built-in-fyrir-flisina-nidurfall): Einstaklega vönduð og falleg vara.12 litir/ útfærslur í boði, einnig hægt að setja flís í brautina.Dýpt fyrir samsetningu: 49mmFlæði: 0,85 l / sek Nútímaleg hönnun Dýpt í gólf 49mm Mikið flæði 0,85 lítrar á sek / 51 líter á mín Hægt að skipta um cover eftir samsetningu / lit Stíflast ekki, þarf sjaldan að þrífa Lyktalaus tækni / Anti smell system Vatnslásinn er búinn til úr 1mm þykku AISI 304 ryðfríu stál Margir litir í boði Einnig hægt að setja flís í brautina með og án ramma Ekkert mál að skiptu um coverið / litina eftir á Data Sheet Installation guide Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-02-13T09:31:41Z
+  Updated: 2026-03-27T12:30:47Z
   Vendor: Ced'or
   Product Type: niðurfall
   Availability: Available
@@ -424,7 +412,7 @@
     Availability: Not Available
     Price: kr 0.00 ISK
 - [Ottawa Comfort Hvítt Glans Skál og hæglokandi seta 54x36,5](https://home4u.is/products/ottawa-skal-og-haeglokandi-seta): Einstaklega vönduð og falleg hönnun Hæglokandi seta fylgir með Silent smart OTTAWAMWBP Festing | 18cm Teikningar skál hér Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-10-14T22:50:25Z
+  Updated: 2026-03-27T12:30:48Z
   Vendor: Omnires
   Product Type: salerni
   Availability: Available
@@ -758,52 +746,52 @@
   Updated: 2024-10-21T16:19:32Z
   Total Products: 1
 - [Handlaugatæki](https://home4u.is/collections/handlaugataeki)
-  Updated: 2026-02-24T12:21:20Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 37
 - [Baðtæki](https://home4u.is/collections/badtaekin)
   Updated: 2026-03-13T07:38:54Z
   Total Products: 59
 - [Sturtusett](https://home4u.is/collections/sturtusett)
-  Updated: 2026-03-12T09:58:51Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 39
 - [Baðkör Frístandandi og veggfest](https://home4u.is/collections/fristandandi-badkor): Glæsileg Úrval af Frístandandi Baðkörum
   Updated: 2026-02-23T12:02:40Z
   Total Products: 24
 - [Baðþil](https://home4u.is/collections/badthil)
-  Updated: 2026-02-26T13:12:59Z
+  Updated: 2026-03-26T11:21:59Z
   Total Products: 6
 - [Handlaugar](https://home4u.is/collections/handlaugar)
-  Updated: 2026-03-11T11:19:52Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 38
 - [Sturtubotnar](https://home4u.is/collections/sturtubotnar)
   Updated: 2025-11-11T14:30:18Z
   Total Products: 4
 - [Sturtugler](https://home4u.is/collections/sturtugler)
-  Updated: 2026-02-12T12:18:15Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 18
 - [Ofnar](https://home4u.is/collections/ofnar)
   Updated: 2025-12-17T12:21:20Z
   Total Products: 8
 - [Niðurföll](https://home4u.is/collections/nidurfoll)
-  Updated: 2026-02-01T12:18:06Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 12
 - [Salerni](https://home4u.is/collections/salerni)
-  Updated: 2026-03-12T09:25:38Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 25
 - [Blöndunartæki Baðherbergi](https://home4u.is/collections/blondunartaeki)
-  Updated: 2026-03-13T07:38:54Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 113
 - [Baðherbergið](https://home4u.is/collections/badherbergid)
-  Updated: 2026-03-21T11:18:23Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 275
 - [Y Collection Omnires](https://home4u.is/collections/y-collection-omnires)
   Updated: 2026-03-13T07:38:54Z
   Total Products: 102
 - [Contour Collection Omnires](https://home4u.is/collections/contour-collection-omnires)
-  Updated: 2026-03-12T09:58:51Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 33
 - [Ovo Línan](https://home4u.is/collections/ovo-linan): Ekki bara handlaugar, heldur einnig einstök frístandandi baðkör. OVO M baðkörin eru að mestu leiti úr dolomite rock eða dólómítsteinefni sem er gríðarlega sterkt og endingargott efni.
-  Updated: 2026-02-24T12:21:20Z
+  Updated: 2026-03-28T11:22:04Z
   Total Products: 26
 - [Eldhúsvaskar](https://home4u.is/collections/eldhusvaskar)
   Updated: 2026-03-14T12:35:53Z
@@ -836,7 +824,7 @@
   Updated: 2025-10-03T15:54:51Z
   Total Products: 4
 - [SOME](https://home4u.is/collections/some): Glæsilegar vöru frá SOME.
-  Updated: 2026-02-24T12:21:20Z
+  Updated: 2026-03-26T10:32:52Z
   Total Products: 29
 - [SOME speglar](https://home4u.is/collections/some-speglar)
   Updated: 2025-12-26T12:13:17Z
@@ -857,7 +845,7 @@
   Updated: 2025-06-11T09:45:57Z
   Total Products: 0
 - [SOME handlaugar](https://home4u.is/collections/some-handlaugar)
-  Updated: 2026-02-01T12:18:06Z
+  Updated: 2026-03-26T07:13:50Z
   Total Products: 7
 
 ## Store Pages
