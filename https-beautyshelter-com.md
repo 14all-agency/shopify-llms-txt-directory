@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-05-31T19:38:40Z
 - Contact Email: officialbeautyshelter@gmail.com
-- Updated At: 2026-03-22T11:17:42.166Z
+- Updated At: 2026-03-30T00:00:27.377Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/God-Heals-Unisex-Hoodie_09.jpg?v=1767215359
     Price: $64.99 USD
 - [God First Unisex Hoodie - Revelation 22:13 Alpha Omega Christian Sweatshirt](https://beautyshelter.com/products/god-first-unisex-hoodie-revelation-22-13-alpha-omega-christian-sweatshirt): Premium God First Christian hoodie with Revelation 22:13. Icicle blue, super soft unisex fit. Put God first. Alpha & Omega message. Shop faith apparel now!
-  Updated: 2026-03-21T18:05:18Z
+  Updated: 2026-03-29T22:23:57Z
   Vendor: Beauty Shelter
   Product Type: Hoodie
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/God-First-Unisex-Hoodie_01.jpg?v=1767215359
     Price: $49.99 USD
 - [Do You Know Jesus Unisex Hoodie - John 3:16 Christian Sweatshirt Gift](https://beautyshelter.com/products/do-you-know-jesus-unisex-hoodie-john-3-16-christian-sweatshirt-gift): Premium Do You Know Jesus Christian hoodie with John 3:16. Skywriting blue, super soft unisex fit. Share the Gospel. Perfect evangelism apparel. Shop now!
-  Updated: 2026-03-19T02:20:56Z
+  Updated: 2026-03-25T23:30:57Z
   Vendor: Beauty Shelter
   Product Type: Hoodie
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/Do-You-Know-Jesus-Unisex-Hoodie_01.jpg?v=1767215359
     Price: $49.99 USD
 - [House of the Lord Unisex Hoodie - Psalm 122:1 Christian Sweatshirt](https://beautyshelter.com/products/house-of-the-lord-unisex-hoodie-psalm-122-1-christian-sweatshirt-gift): Premium House of the Lord Christian hoodie with Psalm 122:1. Black, super soft unisex fit. Rejoice in worship. Perfect church apparel. Shop faith clothing!
-  Updated: 2026-03-20T21:21:18Z
+  Updated: 2026-03-29T13:56:30Z
   Vendor: Beauty Shelter
   Product Type: Hoodie
   Availability: Available
@@ -131,7 +131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/House-of-the-Lord-Unisex-Hoodie_01.jpg?v=1767215364
     Price: $64.99 USD
 - [I Hope You Know Unisex Hoodie - John 15:9 Christian Sweatshirt Gift](https://beautyshelter.com/products/i-hope-you-know-unisex-hoodie-john-15-9-christian-sweatshirt-gift): Premium I Hope You Know Christian hoodie with John 15:9. Garment-dyed black, super soft unisex fit. Remain in God's love. Perfect faith apparel. Shop now!
-  Updated: 2026-03-19T02:49:00Z
+  Updated: 2026-03-26T03:12:58Z
   Vendor: Beauty Shelter
   Product Type: Hoodie
   Availability: Available
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/I-Hope-You-Know-Unisex-Hoodie_01_7cb6009d-9184-4d1c-96ea-3680989a8251.jpg?v=1767227488
     Price: $64.99 USD
 - [Our World Needs Jesus Unisex Hoodie - John 12:46 Christian Sweatshirt](https://beautyshelter.com/products/our-world-needs-jesus-unisex-hoodie-john-12-46-christian-sweatshirt-gift): Premium Our World Needs Jesus Christian hoodie with John 12:46. Green ombre dip-dye, super soft unisex fit. Be the light. Perfect evangelism apparel. Shop now!
-  Updated: 2026-03-20T15:19:56Z
+  Updated: 2026-03-29T22:40:37Z
   Vendor: Beauty Shelter
   Product Type: Hoodie
   Availability: Available
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/Our-World-Needs-Jesus-Unisex-Hoodie_01_cb97391a-8d2b-4011-a2ec-d653aaf1ac8f.jpg?v=1767227488
     Price: $64.99 USD
 - [Psalm 27:13 I Have Seen The Goodness of God Canvas - Christian Wall Art](https://beautyshelter.com/products/psalm-27-13-i-have-seen-the-goodness-of-god-canvas-christian-faith-wall-art): Reflect on God's faithfulness with this beautiful Psalm 27:13 I Have Seen The Goodness of God Faith Canvas Sign.
-  Updated: 2026-03-19T02:17:31Z
+  Updated: 2026-03-27T22:42:07Z
   Vendor: Tailored Canvases
   Product Type: Canvas
   Availability: Available
@@ -281,7 +281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/NON-4509-LR2_4d340e2d-8a53-40ec-9a8c-360b7434676a.jpg?v=1767227668
     Price: $399.99 USD
 - [Be Still And Know That I Am God Canvas - Psalm 46:10 Christian Wall Art](https://beautyshelter.com/products/be-still-and-know-that-i-am-god-canvas-christian-faith-wall-art-sign-decor): Create a sanctuary of calm with this beautiful Be Still And Know That I Am God Faith Canvas Sign featuring Psalm 46:10.
-  Updated: 2026-03-19T02:22:09Z
+  Updated: 2026-03-28T16:04:08Z
   Vendor: Beauty Shelter
   Product Type: Canvas
   Availability: Available
@@ -317,7 +317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/m1_5_a750dab8-777a-4efe-be40-56db2490f8a4.jpg?v=1767227659
     Price: $129.99 USD
 - [When All Else Fails God Doesn't T-Shirt - Psalm 73:26 Christian Comfort](https://beautyshelter.com/products/when-all-else-fails-god-doesnt-t-shirt-psalm-73-26-christian-comfort-gift): Draw comfort from God's unwavering presence with this powerful When All Else Fails God Doesn't T-Shirt
-  Updated: 2026-03-19T02:25:41Z
+  Updated: 2026-03-26T13:16:14Z
   Vendor: Beauty Shelter
   Product Type: T-shirt
   Availability: Available
@@ -631,7 +631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/5048/9329/files/faith-fear-unisex-pigment-dyed-hoodie-sweatshirt-8690953.jpg?v=1767228291
     Price: $49.00 USD
 - [Cross Unisex Garment-Dyed T-Shirt - Christian Faith Religious Tee Gift](https://beautyshelter.com/products/cross-unisex-garment-dyed-t-shirt-christian-faith-religious-tee-gift): Make a bold statement of faith with this premium Cross Unisex Garment-Dyed T-Shirt.
-  Updated: 2026-03-19T13:14:27Z
+  Updated: 2026-03-29T06:03:58Z
   Vendor: Beauty Shelter
   Product Type: 
   Availability: Available
@@ -946,6 +946,18 @@
     Updated: 2026-03-22T11:15:26Z
     Author: User
     Tags: bible verse wall art, christian home sanctuary, creative home transformations, decor, faith, faith home decor, gift ideas, home decor, prayer, prayer corner decor, prayer corner ideas, prayer room ideas, spiritual gifts, spiritual home decor
+  - [Transform Your Living Space: Faith Home Decor Essentials](https://beautyshelter.com/blogs/news/transform-your-living-space-faith-home-decor-essentials): Transform Your Living Space: Faith Home Decor Essentials
+    Updated: 2026-03-23T02:27:01Z
+    Author: User
+    Tags: bible verse wall art, christian home sanctuary, decor, decoration, faith, faith home decor, faith-based gifts, home decor, inspirational home decor ideas, meaningful faith gifts, prayer corner decor, prayer room ideas, religious home items, spiritual home decor
+  - [Finding Peace and Purpose: Creating a Christian Home Sanctuary](https://beautyshelter.com/blogs/news/finding-peace-and-purpose-creating-a-christian-home-sanctuary): Finding Peace and Purpose: Creating a Christian Home Sanctuary
+    Updated: 2026-03-25T02:11:42Z
+    Author: User
+    Tags: bible verse wall art, christian gifts, christian home sanctuary, create a sanctuary, faith, faith home decor, finding purpose in faith, gift, peace ideas, prayer corner decor, prayer room ideas, sanctuary, spiritual home, spiritual home decor
+  - [Beautiful Bible Verse Wall Art Beginnings](https://beautyshelter.com/blogs/news/beautiful-bible-verse-wall-art-beginnings): Beautiful Bible Verse Wall Art Beginnings
+    Updated: 2026-03-27T01:29:25Z
+    Author: User
+    Tags: art, bible verse wall art, bible verses, christian home decoration, christian home sanctuary, faith, faith home decor, gifts, meaningful gifts, prayer corner decor, prayer room ideas, spiritual decor ideas, spiritual home decor, wall art
 
 ## Store Pages
 
