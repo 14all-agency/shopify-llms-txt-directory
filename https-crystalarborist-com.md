@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-03-23T00:00:33.988Z
+- Updated At: 2026-03-30T00:00:38.111Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1952,9 +1952,17 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Action & Adventure, Ancient powers, Defying Fate, Dragons, emotional, High stakes, mortal vs Gods, Nautical, Prophesy, Quest, Romantasy, Strong female lead
   - [Shadowlight: Death, Life, & Love (Book 4)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-book-4): <p><em><strong>A Journey to the Fire Realm. A reunion with the Past. Devastating Loss. A Love that Chooses Hope even in the darkest moments. Book 4 of the Shadowlight saga.</strong></em></p>
-    Updated: 2026-03-18T17:31:48Z
+    Updated: 2026-03-26T04:44:09Z
     Author: Callie Hitchcock
     Tags: Adventure, Character-driven, epic, Fantasy, Found family, gods and mortals, Grief and Loss, nautical fantasy, Redemption, Romance
+  - [Shadowlight: Fire & Light (Book 5)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-fire-light-book-5): <p>His memories were taken. His love for her erased. But some things run deeper than memory — and Marina had never stopped fighting for what they were.</p>
+    Updated: 2026-03-26T05:13:34Z
+    Author: Callie Hitchcock
+    Tags: Fantasy, Love, Magic, Memories, Nautical, Romance, Slow burn
+  - [Starlight Cove: Shadowlight Voyages](https://crystalarborist.com/blogs/short-stories-self-help/starlight-cove-shadowlight-edition): <p><em><strong>Starlight Cove is Home. The Sea is everything else. Follow Shadowlight's first Voyages, a Story about Love, Prophecy, and what it means to Belong somewhere.</strong></em></p>
+    Updated: 2026-03-28T14:13:29Z
+    Author: Callie Hitchcock
+    Tags: Belonging, Heartfelt, Love and loyalty, Maritime fiction, Mythic, nautical fiction, Prophecy
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
