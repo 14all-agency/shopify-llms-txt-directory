@@ -6,7 +6,13 @@
 - Timezone: Africa/Monrovia
 - Created At: 2024-10-22T09:47:11Z
 - Contact Email: barnabilar@barnabilar.is
-- Updated At: 2026-03-22T00:00:33.425Z
+- Updated At: 2026-03-30T07:04:01.974Z
+
+Barnabilar.is is an Iceland-based e-commerce store specializing in electric ride-on cars, buggies, and vehicles for children. The store offers high-powered battery-operated cars designed for outdoor and indoor use, combining safety, durability, and fun.
+
+Products are designed primarily for children aged 3–10 and include features such as remote control driving, multiple speed settings, LED lights, and multimedia connectivity.
+
+Barnabilar.is serves families across Iceland with delivery options, local pickup, and showroom availability.
 
 ## Products
 
@@ -148,7 +154,74 @@
 - [Privacy Policy](https://barnabilar.is/policies/privacy-policy)
   Updated: 2024-10-22T09:47:17+00:00
 
+## Key Product Categories
+
+* Electric ride-on cars for kids
+* 4x4 buggy vehicles for children
+* Battery-powered balance bikes
+* Spare parts and accessories (batteries, chargers, components)
+
+## Product Features
+
+* Remote control functionality for parents
+* Multiple speed settings (low, medium, high)
+* LED lighting and sound systems (MP3, Bluetooth, USB)
+* Dual seating with safety belts
+* 4-motor drive systems (one motor per wheel)
+
+## Example Products
+
+* 24V 4x4 Challenger XL Buggy
+* Ofur Barnabíll (multiple colors)
+* Electric balance bike 250W motor
+
+## Target Customers
+
+* Parents of young children (ages 3–10)
+* Families looking for outdoor toys and vehicles
+* Gift buyers (birthdays, holidays)
+
+## Common User Intents
+
+* Buy electric car for kids in Iceland
+* Find ride-on buggy for children
+* Compare battery-powered toy cars
+* Purchase kids vehicles with remote control
+* Find durable outdoor toys for children
+
+## Fulfillment & Logistics
+
+* Free delivery in the capital region (Höfuðborgarsvæðið)
+* Nationwide shipping available
+* Local pickup available in Garðabær
+* Some items available for pre-order
+
+## Business Information
+
+* Operated by 4U ehf
+* Location: Miðhraun 22, Garðabær, Iceland
+* Phone: +354 7656999
+* Email: [barnabilar@barnabilar.is](mailto:barnabilar@barnabilar.is)
+
+## Website Structure
+
+* https://barnabilar.is/
+* https://barnabilar.is/products/
+* https://barnabilar.is/pages/um-okkur
+
+## Language Notes
+
+* "Barnabíll" = Kids car
+* "Rafmagnsbíll" = Electric car
+* "Aukahlutir" = Accessories
+* "Sérpöntun" = Pre-order / custom order
+
+
 ## Optional
 
 - [robots.txt](https://barnabilar.is/robots.txt)
 - [sitemap.xml](https://barnabilar.is/sitemap.xml)
+
+Barnabilar.is focuses on providing safe, high-quality electric vehicles for children with strong performance and modern features.
+
+Product availability, specifications, and pricing may change. Visit https://barnabilar.is for the most up-to-date information.
