@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-03-22T02:08:02.768Z
+- Updated At: 2026-03-30T00:00:31.806Z
 
 Welcome to Crafted Cocktail Toppers' LLMS.txt. This file helps AI assistants understand our store structure and offerings.
 
@@ -17,7 +17,7 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Products
 
 - [Custom Edible Monogram Toppers | Cocktail Garnishes](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Elevate your cocktails with custom edible monogram toppers. Perfect for weddings, parties & events. Premium quality, fast shipping. Order 50-1000 pieces!
-  Updated: 2026-03-21T09:34:36Z
+  Updated: 2026-03-29T10:54:57Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Accessories
   Availability: Available
@@ -387,7 +387,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $33.00 USD
 - [Edible Baby Shower Drink Toppers – Custom & Instagram-Worthy](https://craftedcocktailtoppers.com/products/edible-drink-toppers-baby-shower): Personalized edible drink toppers for baby showers, gender reveals & sprinkles. Elevate your drinks with custom designs that impress guests—order now!
-  Updated: 2026-03-13T02:56:04Z
+  Updated: 2026-03-28T22:46:20Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -936,7 +936,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $150.00 USD
 - [Personalized Digital Design Service | Custom Art Creation | Tailored Digital Art | Unique Graphic Design for Any Occasion](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion): Unlock your creativity with our Custom Digital Design Service, where your vision meets professional artistry. Whether you need personalized art for a special occasion, unique graphic design for your brand, or a custom illustration to bring your ideas to life, we have you covered. Our tailored digital artwork services are perfect for those seeking one-of-a-kind designs. We work closely with you to ensure every detail aligns with your vision, delivering a final product that exceeds your expectations. From custom photo editing to bespoke illustrations, we transform your concepts into stunning digital art pieces. Why choose our Custom Digital Design Service? Personalization: Every design is tailored to your specific needs, ensuring a unique and personal touch. Professional Quality: With years of experience in digital art, we guarantee high-quality, polished designs that stand out. Versatility: Whether it‘s for personal use, branding, or gifting, our designs are perfect for any occasion. Ready to bring your ideas to life? Place your custom order today and let us create something extraordinary just for you!
-  Updated: 2026-03-13T02:49:54Z
+  Updated: 2026-03-22T21:52:17Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
@@ -978,7 +978,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $500.00 USD
 - [Custom Pet Photo Cocktail Stirrers | Personalized Acrylic Drink Sticks](https://craftedcocktailtoppers.com/products/personalized-pet-photo-cocktail-stirrers): Celebrate every sip with custom pet photo cocktail stirrers! 🎉 Personalized acrylic drink sticks are perfect for weddings, parties, and holidays.
-  Updated: 2026-03-18T00:16:19Z
+  Updated: 2026-03-29T10:53:41Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -1695,25 +1695,25 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-03-21T11:20:48Z
+  Updated: 2026-03-29T11:35:36Z
   Total Products: 1
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
   Updated: 2026-02-14T02:21:46Z
   Total Products: 0
 - [AVADA - Best Sellers](https://craftedcocktailtoppers.com/collections/avada-best-sellers)
-  Updated: 2026-03-21T11:20:48Z
-  Total Products: 23
+  Updated: 2026-03-29T11:35:36Z
+  Total Products: 24
 - [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers)
-  Updated: 2026-03-21T11:20:48Z
+  Updated: 2026-03-29T11:35:36Z
   Total Products: 5
 - [Cocktail Decorations & Edible Drink Toppers - Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-03-18T11:18:47Z
+  Updated: 2026-03-29T11:35:36Z
   Total Products: 4
 - [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins)
   Updated: 2026-02-16T12:17:07Z
   Total Products: 9
 - [New Arrivals](https://craftedcocktailtoppers.com/collections/new-arrivals)
-  Updated: 2026-03-18T11:18:47Z
+  Updated: 2026-03-29T11:35:36Z
   Total Products: 1
 - [Gift Sets](https://craftedcocktailtoppers.com/collections/gift-sets)
   Updated: 2026-02-14T02:21:46Z
@@ -2291,6 +2291,15 @@ LLMS sections below provide additional context for our content, policies, and re
     Author: Che Che
   - [Explore the World of Edible Drink Topper Machines and Their Potential](https://craftedcocktailtoppers.com/blogs/news/explore-the-world-of-edible-drink-topper-machines-and-their-potential): Explore the World of Edible Drink Topper Machines and Their Potential
     Updated: 2026-03-18T02:12:18Z
+    Author: Che Che
+  - [A Journey into Edible Drink Toppers for Custom Birthday Cocktails](https://craftedcocktailtoppers.com/blogs/news/a-journey-into-edible-drink-toppers-for-custom-birthday-cocktails): A Journey into Edible Drink Toppers for Custom Birthday Cocktails
+    Updated: 2026-03-23T00:27:02Z
+    Author: Che Che
+  - [Questions Answered: What Are Edible Drink Toppers Made Of?](https://craftedcocktailtoppers.com/blogs/news/questions-answered-what-are-edible-drink-toppers-made-of): Questions Answered: What Are Edible Drink Toppers Made Of?
+    Updated: 2026-03-24T01:02:01Z
+    Author: Che Che
+  - [Edible Drink Toppers for a Baby Shower Celebration Experience](https://craftedcocktailtoppers.com/blogs/news/edible-drink-toppers-for-a-baby-shower-celebration-experience): Edible Drink Toppers for a Baby Shower Celebration Experience
+    Updated: 2026-03-25T02:23:18Z
     Author: Che Che
 
 ## Store Pages
