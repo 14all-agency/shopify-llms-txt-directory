@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-06-16T18:27:32Z
 - Contact Email: sparesdirect2015ltd@gmail.com
-- Updated At: 2026-03-22T00:00:39.726Z
+- Updated At: 2026-03-30T00:00:42.570Z
 
 ## Products
 
@@ -494,7 +494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_538bf39b-23b5-484b-bf26-acc1b596b972.jpg?v=1751227996
   Price: £30.23 GBP
 - [Genuine Thermostat WDFE28C-L2](https://spares-direct-oldham.co.uk/products/genuine-thermostat-wdfe28c-l2): Genuine Thermostat WDFE28C-L2
-  Updated: 2025-07-01T17:54:28Z
+  Updated: 2026-03-29T04:19:40Z
   Vendor: Genuine
   Product Type: 
   Availability: Available
@@ -1045,7 +1045,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_253241a4-be1a-4421-a8ca-099615a5130f.jpg?v=1751228506
   Price: £9.99 GBP
 - [SMEG Genuine Oven Cooker Function Selector Switch Commutator 811730195](https://spares-direct-oldham.co.uk/products/smeg-genuine-oven-cooker-function-selector-switch-commutator-811730195): SMEG Genuine Oven Cooker Selector Switch Unit Brand new, genuine original replacement oven cooker selector switch for your Smeg oven / cooker. Fits models: SMEG A1, A1.1, A1.1K, A1A, A1A.1, A1AD, A1AD.1, A1B, A1B.1, A1C, A1C.1, A1CA, A1CA.1, A1CER, A1D, A1D.1, A1G, A1G.1, A1P.1, A1VA, A1VA.1, A1VAD, A1VG, A1VG.1, A1VGD, A2, A2A, A2AD, A2D, A3, A3A, A3D, A3SX, A41, A41A, A41D, CS120, CS120NL, CS18A, CS18A2F1, CS18A2F1DR, CS18NLA1, CS18V, CS18V2F1, CS18V2F1DR, CS19, CS192F1, CS19A, CS19A2F1, CS19B, CS19B2F1, CS19NL, CS19NLA, CS19NLA1, CS19NLVA, CS19P2F1, CS19V, CS19V2F1, CS20, CS20FB, CS20NL, CS20NLA, CS71, CS71BE, CS71NL, CSA19, CSA196, CSA196A, CSA196XLP, CSA19A, CSA19B, CSA19XLP, CSA20, SBA1, W1
-  Updated: 2025-12-05T11:36:21Z
+  Updated: 2026-03-24T00:45:39Z
   Vendor: SMEG
   Product Type: 
   Availability: Available
@@ -1066,7 +1066,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_10ec45e1-4e08-4ee3-baf4-bf3f2eb94ca4.jpg?v=1751228519
   Price: £31.31 GBP
 - [Replacement Philips Ambilight TV Remote Control For 75PUS8807/12](https://spares-direct-oldham.co.uk/products/replacement-philips-ambilight-tv-remote-control-for-75pus8807-12): BRAND NEW QUALITY AFTERMARKET REPLACEMENT REMOTE CONTROL WILL ONLY WORK SPECIFIC MODELS EMAIL YOUR MODEL NUMBER TO CHECK IF IT WILL WORK
-  Updated: 2025-07-01T17:55:42Z
+  Updated: 2026-03-28T05:02:21Z
   Vendor: S.D
   Product Type: 
   Availability: Available
@@ -1752,7 +1752,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_9a2b24de-f658-4190-9746-e27559145c09.jpg?v=1751267106
   Price: £209.79 GBP
 - [Buy Linsar TV Remote Control Online | Spares Direct Oldham](https://spares-direct-oldham.co.uk/products/genuine-hisense-tv-remote-control-for-65a7gqtuk): Buy a replacement TV remote control for Linsar 24LED5000. Brand new and easy to use — fast delivery from Spares Direct Oldham. Order your remote today
-  Updated: 2026-03-12T04:17:12Z
+  Updated: 2026-03-24T17:04:32Z
   Vendor: Hisense
   Product Type: 
   Availability: Available
@@ -1766,7 +1766,7 @@
   Updated: 2025-07-22T09:41:53Z
   Total Products: 2
 - [Other](https://spares-direct-oldham.co.uk/collections/other)
-  Updated: 2026-03-21T11:27:06Z
+  Updated: 2026-03-29T11:35:57Z
   Total Products: 18554
 - [TV REMOTE CONTROLS](https://spares-direct-oldham.co.uk/collections/tv-remote-controls)
   Updated: 2026-03-11T11:30:34Z
