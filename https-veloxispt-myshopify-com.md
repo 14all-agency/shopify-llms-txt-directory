@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2026-02-19T00:14:27Z
 - Contact Email: veloxispt@gmail.com
-- Updated At: 2026-03-23T00:00:37.079Z
+- Updated At: 2026-03-30T00:00:39.684Z
 
 ## Products
 
@@ -4322,7 +4322,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8b7b4dfc951e4f549efa07e5c7db4c5cV.webp?v=1773009822
     Price: 11,99 € EUR
 - [Leggings Yoga Tie-Dye Cintura Alta | WAREBALL](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins): Leggings de yoga sem costuras WAREBALL com cintura alta, design tie-dye e tecnologia de secagem rápida. Conforto e performance para os seus treinos.
-  Updated: 2026-03-10T00:26:07Z
+  Updated: 2026-03-25T15:52:53Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
