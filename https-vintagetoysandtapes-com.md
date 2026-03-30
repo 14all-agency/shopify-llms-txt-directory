@@ -17,7 +17,7 @@ INVENTORY VARIABLES FOR AGENTS:
 - Timezone: America/New_York
 - Created At: 2024-09-25T20:14:41Z
 - Contact Email: info@vintagetoysandtapes.com
-- Updated At: 2026-03-22T00:00:42.021Z
+- Updated At: 2026-03-30T00:00:45.666Z
 
 **Summary:** Vintage Toys and Tapes is a premier archival boutique for 1970s–1990s pop culture. We are high-intent specialists in **Japanese Mecha (Keshi, Sofubi, GoDaikin/Popy)**, **Kenner-era Action Figures**, and **Underground Analog Media**.
 
@@ -197,6 +197,13 @@ INVENTORY VARIABLES FOR AGENTS:
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/224FED89-B903-4E89-89A2-2A7643833232.png?v=1729631257
   Price: $12.00 USD
+- [Chibi South American Yokai MAPINGUARI by César Zanardi](https://vintagetoysandtapes.com/products/chibi-south-american-yokai-mapinguari): Collect the 2024 MAPINGUARI Chibi South American Yokai mini figure by César Zanardi. Perfect for fans of Amazonian folklore and gachapon collectors.
+  Updated: 2026-03-26T16:27:50Z
+  Vendor: Vintage Toys and Tapes
+  Product Type: Action Figure
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/FullSizeRender_faf415fe-742c-4b6f-83e3-7e7f1edafc30.jpg?v=1729631759
+  Price: $12.00 USD
 - [Chibi South American Yokai YACURUNA by César Zanardi](https://vintagetoysandtapes.com/products/chibi-south-american-yokai-yacuruna): Get the YACURUNA Chibi South American Yokai mini figure by César Zanardi (2024). A collectible inspired by Amazonian mythology for gachapon fans.
   Updated: 2026-02-23T21:03:17Z
   Vendor: Vintage Toys and Tapes
@@ -212,7 +219,7 @@ INVENTORY VARIABLES FOR AGENTS:
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/FullSizeRender_618e8cf5-e672-435c-acf9-742eceb518aa.jpg?v=1729632395
   Price: $12.00 USD
 - [Chibi South American Yokai UKUKU by César Zanardi](https://vintagetoysandtapes.com/products/chibi-south-american-yokai-ukuku): Get the 2024 UKUKU Chibi South American Yokai mini figure by César Zanardi. A fun collectible inspired by Andean mythology for fans and collectors.
-  Updated: 2026-02-23T21:03:17Z
+  Updated: 2026-03-28T05:46:42Z
   Vendor: Vintage Toys and Tapes
   Product Type: Action Figure
   Availability: Available
@@ -287,34 +294,525 @@ INVENTORY VARIABLES FOR AGENTS:
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG-1166.jpg?v=1749583747
   Price: $15.00 USD
 - [Care Bears BABY TUGS vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-baby-tugs): 1983 Care Bears from Kenner - Baby Tugs Plush
-  Updated: 2026-03-20T17:02:47Z
+  Updated: 2026-03-28T11:54:36Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_110042.jpg?v=1771880083
   Price: $15.00 USD
 - [Care Bears LOVE-A-LOT BEAR vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-love-a-lot-bear): 1983 Care Bears Vintage 13" Plush from Kenner - Love A Lot Bear
-  Updated: 2026-03-20T17:02:47Z
+  Updated: 2026-03-28T11:14:19Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_09fa3885-660d-438c-b2f3-87c283c444ff.jpg?v=1771880089
   Price: $15.00 USD
 - [Care Bears BABY HUGS vintage plush toy (Kenner, 1983)](https://vintagetoysandtapes.com/products/care-bears-plush-baby-hugs): 1983 Care Bears Vintage 13" Plush from Kenner - Baby Hugs Bear
-  Updated: 2026-03-20T17:02:47Z
+  Updated: 2026-03-28T11:57:43Z
   Vendor: burriscomics
   Product Type: Plush & Stuffed Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_eab5e4a5-4b8d-4368-9729-89b6353a7988.jpg?v=1771880089
   Price: $16.00 USD
+- [PVC figure - Soggy (Cap'n Crunch)](https://vintagetoysandtapes.com/products/pvc-figure-soggy-capn-crunch): 1986 PVC figure from Quaker Oats - Soggy from Cap'n Crunch. Glows in the dark.
+  Updated: 2026-03-28T11:18:21Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_02179673-e695-4370-9cf9-1747a49abb4b.jpg?v=1771883280
+  Price: $4.00 USD
+- [Teddy Ruxpin HC Book - Teddy Ruxpin's Birthday](https://vintagetoysandtapes.com/products/teddy-ruxpin-hc-book-teddy-ruxpins-birthday): 1985 Teddy Ruxpin book from Worlds of Wonder - Teddy Ruxpin's Birthday.
+  Updated: 2026-03-28T11:25:23Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20241203_201138_3.jpg?v=1771883284
+  Price: $5.00 USD
+- [Flintstones PVC figure set - Fruity Pebbles Dinosaurs](https://vintagetoysandtapes.com/products/flintstones-pvc-figure-set-fruity-pebbles-dinosaurs): Set of 8 Flintstones PVC figures from Post Fruity Pebbles cereal.
+  Updated: 2026-03-28T11:18:18Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_66c2a585-68e2-40a8-851d-5c72899381d9.jpg?v=1771883284
+  Price: $20.00 USD
+- [Fraggle Rock HC Book - Danger: Boober Cooking](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-danger-boober-cooking): 1984 Fraggle Rock book from Weekly Reader Books - Danger: Boober Cooking
+  Updated: 2026-03-28T11:51:13Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132318.jpg?v=1771883292
+  Price: $3.00 USD
+- [Strawberry Shortcake Doll - Lime Chiffon](https://vintagetoysandtapes.com/products/strawberry-shortcake-doll-lime-chiffon): Strawberry Shortcake Doll from Kenner - Lime Chiffon. Loose, includes parrot.
+  Updated: 2026-03-28T11:30:59Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240619_152306_569.jpg?v=1771883292
+  Price: $25.00 USD
+- [Fraggle Rock HC Book - What Do Doozers Do?](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-what-do-doozers-do): 1984 Fraggle Rock book from Weekly Reader Books - What Do Doozers Do?
+  Updated: 2026-03-28T11:51:15Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132249.jpg?v=1771883292
+  Price: $3.00 USD
+- [Fraggle Rock HC Book - The Cave of the Lost Fraggle](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-the-cave-of-the-lost-fraggle): 1985 Fraggle Rock book from Weekly Reader Books - The Cave of the Lost Fraggle
+  Updated: 2026-03-28T11:51:16Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132232.jpg?v=1771883292
+  Price: $3.00 USD
+- [Fraggle Rock HC Book - Waggleby of Fraggle Rock](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-waggleby-of-fraggle-rock): 1985 Fraggle Rock book from Weekly Reader Books - Waggleby of Fraggle Rock
+  Updated: 2026-03-28T11:51:22Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132141.jpg?v=1771883292
+  Price: $3.00 USD
+- [Fraggle Rock HC Book - Mokey's Birthday Present](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-mokeys-birthday-present): 1985 Fraggle Rock book from Weekly Reader Books - Mokey's Birthday Present
+  Updated: 2026-03-28T11:51:14Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132259.jpg?v=1771883292
+  Price: $3.00 USD
+- [Fraggle Rock HC Book - Traveling Matt's Adventures in Outer Space](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-traveling-matts-adventures-in-outer-space): 1984 Fraggle Rock book from Weekly Reader Books - Traveling Matt's Adventures in Outer Space
+  Updated: 2026-03-28T11:51:15Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132241.jpg?v=1771883292
+  Price: $3.00 USD
+- [Strawberry Shortcake Doll - Ballerina Outfit](https://vintagetoysandtapes.com/products/strawberry-shortcake-doll-ballerina-outfit): Strawberry Shortcake Doll from Kenner - Ballerina Outfit. Loose, missing 1 shoe.
+  Updated: 2026-03-28T11:30:59Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240619_135902_001.jpg?v=1771883292
+  Price: $23.00 USD
+- [Teddy Ruxpin HC Book - The Mushroom Forest](https://vintagetoysandtapes.com/products/teddy-ruxpin-hc-book-the-mushroom-forest): 1985 Teddy Ruxpin book from Worlds of Wonder - The Mushroom Forest.
+  Updated: 2026-03-28T11:25:26Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20241219_200844_2.jpg?v=1771883292
+  Price: $5.00 USD
+- [Pound Puppies Newborns - Grey Puppy](https://vintagetoysandtapes.com/products/pound-puppies-newborns-grey-puppy): 1986 Pound Puppies Newborns from Tonka - Grey Puppy.
+  Updated: 2026-03-28T11:30:52Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_090648_372.jpg?v=1771883292
+  Price: $4.00 USD
+- [Care Bears keychain - Funshine Bear](https://vintagetoysandtapes.com/products/care-bears-keychain-funshine-bear): Care Bears keychain - Funshine Bear.
+  Updated: 2026-03-28T11:30:20Z
+  Vendor: burriscomics
+  Product Type: Pins & Keychains
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_092838_734.jpg?v=1771883292
+  Price: $7.00 USD
+- [Fraggle Rock HC Book - Best Friends](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-best-friends): 1984 Fraggle Rock book from Weekly Reader Books - Best Friends
+  Updated: 2026-03-28T11:51:17Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132215.jpg?v=1771883293
+  Price: $3.00 USD
+- [Care Bears mini figure - Friend Bear (with popcicle)](https://vintagetoysandtapes.com/products/care-bears-mini-figure-friend-bear-with-popcicle): Care Bears mini figure - Friend Bear with popcicle.
+  Updated: 2026-03-28T11:30:30Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_092451_403.jpg?v=1771883292
+  Price: $5.00 USD
+- [Fraggle Rock HC Book - If I Were King of the Universe](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-if-i-were-king-of-the-universe): 1984 Fraggle Rock book from Weekly Reader Books - If I Were King of the Universe
+  Updated: 2026-03-28T11:51:23Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132130.jpg?v=1771883293
+  Price: $3.00 USD
+- [Care Bears mini figure - Cloud Keeper (with trophy)](https://vintagetoysandtapes.com/products/care-bears-mini-figure-cloud-keeper-with-trophy): 1984 Care Bears mini figure - Cloud Keeper with trophy.
+  Updated: 2026-03-28T11:30:27Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_092812_522.jpg?v=1771883292
+  Price: $7.00 USD
+- [Fraggle Rock HC Book - Sprocket, Dog Detective](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-sprocket-dog-detective): 1985 Fraggle Rock book from Weekly Reader Books - Sprocket, Dog Detective
+  Updated: 2026-03-28T11:51:24Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132119.jpg?v=1771883292
+  Price: $3.00 USD
+- [Fraggle Rock HC Book - Goodnight Wembley Fraggle](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-goodnight-wembley-fraggle): 1985 Fraggle Rock book from Weekly Reader Books - Goodnight Wembley Fraggle
+  Updated: 2026-03-28T11:51:13Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132306.jpg?v=1771883293
+  Price: $3.00 USD
+- [Fraggle Rock HC Book - Fraggle Countdown](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-fraggle-countdown): 1985 Fraggle Rock book from Weekly Reader Books - Fraggle Countdown
+  Updated: 2026-03-28T11:51:11Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132327.jpg?v=1771883292
+  Price: $3.00 USD
+- [Disney PVC figure set - Chip N' Dale Rescue Rangers](https://vintagetoysandtapes.com/products/disney-pvc-figure-set-chip-n-dale-rescue-rangers): 1991 set of 3 Disney PVC figures from Kellogg cereal - Chip, Dale, and Monterey Jack from Chip N' Dale Rescue Rangers.
+  Updated: 2026-03-28T11:18:37Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_ea353d68-18e1-4798-8135-a9e37fa0bd04.jpg?v=1771883292
+  Price: $6.00 USD
+- [Strawberry Shortcake Doll - Apricot (with bunny)](https://vintagetoysandtapes.com/products/strawberry-shortcake-doll-apricot-with-bunny): Strawberry Shortcake Doll from Kenner - Apricot. Loose, includes bunny.
+  Updated: 2026-03-28T11:31:00Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240619_140104_516.jpg?v=1771883292
+  Price: $22.00 USD
+- [Transformers action figure - Autobot Rollout (Action Masters)](https://vintagetoysandtapes.com/products/transformers-action-figure-autobot-rollout-action-masters): 1990 Transformers action figure from Hasbro - Autobot Rollout (Action Master). Loose, no accessories.
+  Updated: 2026-03-28T11:22:42Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/rn-image_picker_lib_temp_6c0c7c7a-c2ad-4f69-be39-ef694a6a8310.jpg?v=1771883292
+  Price: $9.00 USD
+- [Pound Puppies Plush - Brown Spotted Dog](https://vintagetoysandtapes.com/products/pound-puppies-plush-brown-spotted-dog): 1986 Pound Puppies Plush from Tonka - Brown Spotted Dog. No collar.
+  Updated: 2026-03-28T11:30:56Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_090638_360.jpg?v=1771883292
+  Price: $4.00 USD
+- [Fingertronic Puppet - California Raisins](https://vintagetoysandtapes.com/products/fingertronic-puppet-california-raisins): 1987 Fingertronic Puppet from Bendy Toys - California Raisins. Still in original packaging. Box in rough shape.
+  Updated: 2026-03-28T11:44:27Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20230407_121423.jpg?v=1771883292
+  Price: $19.00 USD
+- [Fraggle Rock HC Book - No One Knows Where Gobo Goes](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-no-one-knows-where-gobo-goes): 1984 Fraggle Rock book from Weekly Reader Books - No One Knows Where Gobo Goes
+  Updated: 2026-03-28T11:51:11Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132029.jpg?v=1771883293
+  Price: $3.00 USD
+- [Wuzzles Book and Tape - Bumbelion's Funny Money](https://vintagetoysandtapes.com/products/wuzzles-book-and-tape-bumbelions-funny-money): 1985 Wuzzles Book and Tape - Bumbelion's Funny Money. Includes 24 pg. book and read-along cassette.
+  Updated: 2026-03-28T11:41:36Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20230530_180415_2.jpg?v=1771883292
+  Price: $12.00 USD
+- [Care Bears HC Book - The Witch Down The Street](https://vintagetoysandtapes.com/products/care-bears-hc-book-the-witch-down-the-street): 1983 Care Bears HC Book - The Witch Down The Street from Parker Brothers.
+  Updated: 2026-03-28T11:25:37Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20241219_201152_2.jpg?v=1771883292
+  Price: $5.00 USD
+- [Pound Purries Newborns - Striped Cat](https://vintagetoysandtapes.com/products/pound-purries-newborns-striped-cat): 1986 Pound Purries Newborn from Tonka - Striped Cat.
+  Updated: 2026-03-28T11:30:50Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_090605_577_9029a49d-11d3-4543-9972-2d6fabd59127.jpg?v=1771883293
+  Price: $7.00 USD
+- [Strawberry Shortcake Doll - Apple Dumplin](https://vintagetoysandtapes.com/products/strawberry-shortcake-doll-apple-dumplin): Strawberry Shortcake Doll from Kenner - Apple Dumplin. Loose, includes tea time turtle.
+  Updated: 2026-03-28T11:31:01Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240619_140007_041.jpg?v=1771883292
+  Price: $22.00 USD
+- [Fraggle Rock HC Book - What's a Fraggle?](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-whats-a-fraggle): 1984 Fraggle Rock book from Weekly Reader Books - What's a Fraggle?
+  Updated: 2026-03-28T11:51:18Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132205.jpg?v=1771883292
+  Price: $3.00 USD
+- [Strawberry Shortcake Doll - Butter Cookie](https://vintagetoysandtapes.com/products/strawberry-shortcake-doll-butter-cookie): Strawberry Shortcake Doll from Kenner - Butter Cookie. Loose, includes bear.
+  Updated: 2026-03-28T11:30:59Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240619_135755_981.jpg?v=1771883292
+  Price: $20.00 USD
+- [Fraggle Rock HC Book - The Legend of the Doozer Who Didn't](https://vintagetoysandtapes.com/products/fraggle-rock-hc-book-the-legend-of-the-doozer-who-didnt): 1984 Fraggle Rock book from Weekly Reader Books - The Legend of the Doozer Who Didn't
+  Updated: 2026-03-28T11:51:21Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221104_132150.jpg?v=1771883292
+  Price: $3.00 USD
+- [Strawberry Shortcake Doll - Blueberry Muffin](https://vintagetoysandtapes.com/products/strawberry-shortcake-doll-blueberry-muffin): Strawberry Shortcake Doll from Kenner - Blueberry Muffin. Loose, includes cheesecake and hat, missing 1 shoe.
+  Updated: 2026-03-28T11:31:01Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240619_140312_852.jpg?v=1771883292
+  Price: $26.00 USD
+- [Strawberry Shortcake Doll - Raspberry Tart](https://vintagetoysandtapes.com/products/strawberry-shortcake-doll-raspberry-tart): Strawberry Shortcake Doll from Kenner - Raspberry Tart. Loose, includes monkey.
+  Updated: 2026-03-28T11:30:58Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240619_140454_301.jpg?v=1771883292
+  Price: $27.00 USD
+- [Care Bears keychain - Tenderheart Bear](https://vintagetoysandtapes.com/products/care-bears-keychain-tenderheart-bear): 1985 Care Bears keychain - Tenderheart Bear.
+  Updated: 2026-03-28T11:30:21Z
+  Vendor: burriscomics
+  Product Type: Pins & Keychains
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_092345_833.jpg?v=1771883292
+  Price: $9.00 USD
+- [Teddy Ruxpin HC Book - The Sign Of A Friend](https://vintagetoysandtapes.com/products/teddy-ruxpin-hc-book-the-sign-of-a-friend): 1985 Teddy Ruxpin book from Worlds of Wonder - The Sign Of A Friend.
+  Updated: 2026-03-28T11:25:24Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20241219_200905_2.jpg?v=1771883292
+  Price: $5.00 USD
+- [Care Bears mini figure - Love-A-Lot Bear](https://vintagetoysandtapes.com/products/care-bears-mini-figure-love-a-lot-bear): Care Bears mini figure - Love-A-Lot Bear.
+  Updated: 2026-03-28T11:30:25Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/IMG_20240708_092502_961.jpg?v=1771883292
+  Price: $8.00 USD
+- [Smurfs PVC figure - Amour (Valentine) Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-amour-valentine-smurf): 1981 Smurfs figure - Amour (Valentine) Smurf. Peyo Schleich figure, 2.0128
+  Updated: 2026-03-28T11:52:32Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20230102_141250.jpg?v=1771883479
+  Price: $6.00 USD
+- [PVC figure - Snoopy Come Home](https://vintagetoysandtapes.com/products/pvc-figure-snoopy-come-home): 1972 Snoopy Come Home PVC figure w/Woodstock
+  Updated: 2026-03-28T11:52:16Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20230102_141219.jpg?v=1771883479
+  Price: $8.00 USD
+- [Smurfs PVC figure - Smurfette (Secretary)](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-smurfette-secretary): 1981 Smurfs figure - Secretary Smurfette. Peyo Schleich figure, 2.0140, white dress
+  Updated: 2026-03-28T11:52:21Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121924.jpg?v=1771883479
+  Price: $5.00 USD
+- [Smurfs PVC figure - Smurfette (Christmas)](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-smurfette-christmas): 1984 Smurfs figure - Christmas Smurfette. Peyo Schleich figure, 2.0200
+  Updated: 2026-03-28T11:52:27Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121216.jpg?v=1771883479
+  Price: $8.00 USD
+- [Care Bears mini figure - Birthday Bear (with hat)](https://vintagetoysandtapes.com/products/care-bears-mini-figure-birthday-bear-with-hat): Care Bears mini figure - Birthday Bear with hat.
+  Updated: 2026-03-28T11:54:46Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_102120.jpg?v=1771883479
+  Price: $4.00 USD
+- [Smurfs PVC figure - Skateboard Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-skateboard-smurf): 1978 Smurfs figure - Skateboard Smurf. Peyo Schleich figure, 4.0204, no skateboard
+  Updated: 2026-03-28T11:52:20Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_122030.jpg?v=1771883479
+  Price: $2.00 USD
+- [Care Bears mini figure - Cloud Keeper (with broom)](https://vintagetoysandtapes.com/products/care-bears-mini-figure-cloud-keeper-with-broom): 1984 Care Bears mini figure - Cloud Keeper with broom.
+  Updated: 2026-03-28T11:54:44Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_102312.jpg?v=1771883479
+  Price: $8.00 USD
+- [Smurfs PVC figure - Ice Skater Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-ice-skater-smurf): 1979 Smurfs figure - Ice Skater Smurf. Peyo Schleich figure, 2.0121
+  Updated: 2026-03-28T11:52:24Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121632.jpg?v=1771883479
+  Price: $4.00 USD
+- [Care Bears PVC figure - Wish Bear](https://vintagetoysandtapes.com/products/care-bears-pvc-figure-wish-bear): 1983 Care Bears PVC figure - Wish Bear
+  Updated: 2026-03-28T11:54:26Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221103_110201.jpg?v=1771883479
+  Price: $10.00 USD
+- [Smurfs PVC figure - Smurfette (Easter Bunny)](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-smurfette-easter-bunny): 1982 Smurfs figure - Easter Bunny Smurfette. Peyo Schleich figure, 2.0497
+  Updated: 2026-03-28T11:52:25Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121508.jpg?v=1771883479
+  Price: $7.00 USD
+- [Care Bears mini figure - Cozy Heart Penguin (with skates)](https://vintagetoysandtapes.com/products/care-bears-mini-figure-cozy-heart-penguin-with-skates): Care Bears mini figure - Cozy Heart Penguin with skates.
+  Updated: 2026-03-28T11:54:41Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_102359.jpg?v=1771883479
+  Price: $7.00 USD
+- [Care Bears PVC figure - Friend Bear](https://vintagetoysandtapes.com/products/care-bears-pvc-figure-friend-bear): 1983 Care Bears PVC figure - Friend Bear
+  Updated: 2026-03-28T11:54:32Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221103_105824.jpg?v=1771883479
+  Price: $14.00 USD
+- [Wuzzles PVC figure - Rhinokey](https://vintagetoysandtapes.com/products/wuzzles-pvc-figure-rhinokey): 1985 Wuzzles poseable 3.75" PVC figure - Rhinokey. Wear commiserates with age, slight paint loss on tail and front.
+  Updated: 2026-03-28T12:01:29Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/Rhinokey1.jpg?v=1771883479
+  Price: $8.00 USD
+- [Smurfs PVC figure - Surfer Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-surfer-smurf): 1982 Smurfs figure - Surfer Smurf. Peyo Schleich figure, 2.0137, no board
+  Updated: 2026-03-28T11:52:19Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_122104.jpg?v=1771883479
+  Price: $4.00 USD
+- [Smurfs PVC figure - CB Operator Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-cb-operator-smurf): 1981 Smurfs figure - CB Operator Smurf. Peyo Schleich figure, 2.0143, w/silver cord
+  Updated: 2026-03-28T11:52:28Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121131.jpg?v=1771883479
+  Price: $8.00 USD
+- [Smurfs PVC figure - Smurfette (Mermaid)](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-smurfette-mermaid): 1981 Smurfs figure - Mermaid Smurfette. Peyo Schleich figure, 2.0142, green fin
+  Updated: 2026-03-28T11:52:24Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121659.jpg?v=1771883479
+  Price: $7.00 USD
+- [Wuzzles PVC figure - Bumblelion](https://vintagetoysandtapes.com/products/wuzzles-pvc-figure-bumblelion): 1985 Wuzzles poseable 3.75" PVC figure - Bumblelion. Wear commiserates with age...slight paint loss on wings, tail, belly, face.
+  Updated: 2026-03-28T12:01:30Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/Bumblelion1.jpg?v=1771883479
+  Price: $6.00 USD
+- [Care Bears PVC figure - Gram Bear](https://vintagetoysandtapes.com/products/care-bears-pvc-figure-gram-bear): 1983 Care Bears PVC figure - Gram Bear
+  Updated: 2026-03-28T11:54:29Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221103_105956.jpg?v=1771883479
+  Price: $10.00 USD
+- [Smurfs PVC figure - Baby Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-baby-smurf): 1984 Smurfs figure - Baby Smurf with red rattle. Peyo Schleich figure, 2.0203
+  Updated: 2026-03-28T11:52:31Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_120712.jpg?v=1771883479
+  Price: $7.00 USD
+- [Smurfs PVC figure - Cowboy Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-cowboy-smurf): 1981 Smurfs figure - Cowboy Smurf. Peyo Schleich figure, 2.0122, paint missing
+  Updated: 2026-03-28T11:52:27Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121306.jpg?v=1771883479
+  Price: $2.00 USD
+- [Transformers Read-Along Book – The Great Car Rally](https://vintagetoysandtapes.com/products/transformers-read-along-book-the-great-car-rally): Transformers: The Great Car Rally book by Dwight Jon Zimmerman. Some discoloration on cover.
+  Updated: 2026-03-28T12:02:48Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/3010408543_187a6020-e098-4fa0-a13d-b4a1b6aa5839.jpg?v=1771883480
+  Price: $3.00 USD
+- [Care Bears PVC figure - Love-A-Lot Bear](https://vintagetoysandtapes.com/products/care-bears-pvc-figure-love-a-lot-bear): 1983 Care Bears PVC figure - Love-A-Lot Bear
+  Updated: 2026-03-28T11:54:27Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221103_110124.jpg?v=1771883479
+  Price: $8.00 USD
+- [My Little Pony Thermos](https://vintagetoysandtapes.com/products/my-little-pony-thermos): My Little Pony Thermos.
+  Updated: 2026-03-28T11:52:58Z
+  Vendor: burriscomics
+  Product Type: Food and Beverage Carriers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221117_100209.jpg?v=1771883479
+  Price: $8.00 USD
+- [Wuzzles HC Book - Eleroo's Big Surprise](https://vintagetoysandtapes.com/products/wuzzles-hc-book-eleroos-big-surprise): 1984 Wuzzles book - Eleroo's Big Surprise
+  Updated: 2026-03-28T11:51:53Z
+  Vendor: burriscomics
+  Product Type: Books and Graphic Novels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221128_165021.jpg?v=1771883479
+  Price: $8.00 USD
+- [Smurfs PVC figure - Discus Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-discus-smurf): 1979 Smurfs figure - Discus Smurf. Peyo Schleich figure, 4.0503
+  Updated: 2026-03-28T11:52:26Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121431.jpg?v=1771883479
+  Price: $8.00 USD
+- [Smurfs PVC figure - Smurfette (Valentine)](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-smurfette-valentine): 1982 Smurfs PVC figure - Valentine Smurfette (Peyo Schleich figure, 2.0156)
+  Updated: 2026-03-28T11:52:17Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20230106_142913.jpg?v=1771883479
+  Price: $9.00 USD
+- [Smurfs PVC figure - Brainy Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-brainy-smurf): 1969 Smurfs figure - Brainy Smurf. Peyo Schleich figure, 2.0006
+  Updated: 2026-03-28T11:52:31Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_121058.jpg?v=1771883479
+  Price: $5.00 USD
+- [Care Bears mini figure - Funshine Bear (leading parade)](https://vintagetoysandtapes.com/products/care-bears-mini-figure-funshine-bear-leading-parade): Care Bears mini figure - Funshine Bear leading parade.
+  Updated: 2026-03-28T11:54:40Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_102454.jpg?v=1771883479
+  Price: $4.00 USD
+- [Care Bears PVC figure - Tenderheart Bear](https://vintagetoysandtapes.com/products/care-bears-pvc-figure-tenderheart-bear): 1983 Care Bears poseable 3.75" PVC figure - Tenderheart Bear. Wear commiserates with age, slight paint loss on belly.
+  Updated: 2026-03-28T12:01:32Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/CBTenderheart1.jpg?v=1771883480
+  Price: $8.00 USD
+- [Care Bears mini figure - Wish Bear (on a cloud)](https://vintagetoysandtapes.com/products/care-bears-mini-figure-wish-bear-on-a-cloud): Care Bears mini figure - Wish Bear on a cloud.
+  Updated: 2026-03-28T11:54:38Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221102_102520.jpg?v=1771883479
+  Price: $4.00 USD
+- [Smurfs PVC figure - Toothpaste Smurf](https://vintagetoysandtapes.com/products/smurfs-pvc-figure-toothpaste-smurf): 1979 Smurfs figure - Toothpaste Smurf. Peyo Schleich figure, 2.0064
+  Updated: 2026-03-28T11:52:19Z
+  Vendor: burriscomics
+  Product Type: Vintage Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/6183/1443/files/20221107_122130.jpg?v=1771883479
+  Price: $6.00 USD
+[List Continued](https://vintagetoysandtapes.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMxNTkzMjg5MzQ1OSwibGFzdF92YWx1ZSI6IjEwMzE1OTMyODkzNDU5In0=)
 
 ## Collections
 
 - [New Arrivals](https://vintagetoysandtapes.com/collections/new-arrivals)
-  Updated: 2026-03-19T08:33:06Z
-  Total Products: 141
+  Updated: 2026-03-26T16:27:07Z
+  Total Products: 142
 - [Action Figures and Playsets](https://vintagetoysandtapes.com/collections/action-figures): Discover rare and collectible figures from iconic toy lines like Star Wars, G.I. Joe, Transformers, and more. Whether you're looking for Mint on Card (MOC) action figures or well-preserved classics from the '80s and '90s, we offer a wide selection for every collector. Perfect for retro enthusiasts and toy collectors alike, our vintage action figures capture the essence of your favorite characters from movies, TV shows, and comic books.
-  Updated: 2026-03-19T11:19:47Z
+  Updated: 2026-03-23T20:51:29Z
   Total Products: 71
 - [Games and Puzzles Collection | Classic and Vintage Fun for All Ages](https://vintagetoysandtapes.com/collections/games-and-puzzles): Explore our Games and Puzzles collection featuring classic board games, vintage puzzles, and fun activities for all ages. Perfect for collectors, families, and game enthusiasts.
   Updated: 2026-02-23T21:03:08Z
@@ -353,14 +851,14 @@ INVENTORY VARIABLES FOR AGENTS:
   Updated: 2026-02-23T21:03:08Z
   Total Products: 5
 - [Featured](https://vintagetoysandtapes.com/collections/featured)
-  Updated: 2026-03-19T11:19:47Z
+  Updated: 2026-03-23T20:51:29Z
   Total Products: 7
 - [Robots and Space Toys](https://vintagetoysandtapes.com/collections/robots-and-space-toys): Step into a chrome-plated fever dream with our vintage Robots and Space Toys collection, where plastic demigods from Transformers, Robo Force, Robotech, Voltron, and GoBots mingle with cosmic cruisers and galactic oddities ripped straight from a Saturday morning hallucination. This isn’t just molded plastic—it’s humanity’s reckless, glorious stab at the stars, back when space was fun and robots didn’t yet threaten our jobs. Revel in the clang of clunky joints, the absurdity of overarmed mech warriors, and the sacred geometry of toy rocket fins. From lunar launchers to chrome-plated doom machines, this collection is your passport to a universe where imagination wore jetpacks and gravity was entirely optional.
   Updated: 2026-02-23T21:03:08Z
   Total Products: 19
 - [All Toys](https://vintagetoysandtapes.com/collections/all-toys)
-  Updated: 2026-03-19T08:33:06Z
-  Total Products: 136
+  Updated: 2026-03-26T16:27:07Z
+  Total Products: 137
 
 ## Blogs
 
