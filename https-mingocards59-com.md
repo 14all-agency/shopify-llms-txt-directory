@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-21T23:22:10Z
 - Contact Email: mingocards59@gmail.com
-- Updated At: 2026-03-24T00:00:38.669Z
+- Updated At: 2026-03-31T00:00:41.740Z
 
 ## Products
 
@@ -59,8 +59,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/ScottiePippen-JerseyFusion_F.jpg?v=1756163914
   Price: $25.00 USD
-- [Pete Crow-Armstrong Mojo Rookie RC Refractor Cubs Prospect Chrome SP 🔥](https://mingocards59.com/products/pete-crow-armstrong-mojo-rookie-rc-refractor-cubs-prospect-chrome-sp-🔥): Step up your collection with the Pete Crow-Armstrong Mojo Rookie RC Refractor Cubs Prospect Chrome SP 🔥! This shiny gem ✨ highlights one of the most exciting future stars 🌟 of the Cubs. With its shimmering refractor finish and scarce SP status, it’s perfect for fans ready to cheer 📣 on a rising talent. Add some flair 🎉 to your lineup and watch this prospect shine brighter with every game ⚾.
-  Updated: 2026-01-25T21:06:52Z
+- [Pete Crow-Armstrong Mojo Rookie RC Refractor Cubs Prospect Chrome SP](https://mingocards59.com/products/pete-crow-armstrong-mojo-rookie-rc-refractor-cubs-prospect-chrome-sp-🔥): Step up your collection with the Pete Crow-Armstrong Mojo Rookie RC Refractor Cubs Prospect Chrome SP 🔥! This shiny gem ✨ highlights one of the most exciting future stars 🌟 of the Cubs. With its shimmering refractor finish and scarce SP status, it’s perfect for fans ready to cheer 📣 on a rising talent. Add some flair 🎉 to your lineup and watch this prospect shine brighter with every game ⚾.
+  Updated: 2026-03-30T07:58:01Z
   Vendor: Mingo Cards 59
   Product Type: 
   Availability: Available
@@ -108,15 +108,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/2024DonrussStephonCastleNo.P-244_raywave_F.jpg?v=1756158509
   Price: $50.00 USD
-- [2024 PANINI PRIZM WNBA BLUE PULSAR #145 CAITLIN CLARK 118/199 PSA 8 Fever 🔥🏀](https://mingocards59.com/products/2024-panini-prizm-wnba-blue-pulsar-145-caitlin-clark-118-199-psa-8-fever-🔥🏀): Celebrate the rise of a WNBA superstar with the 2024 PANINI PRIZM WNBA BLUE PULSAR #145 Caitlin Clark card. Numbered 118/199 and graded PSA 8, this collectible highlights the #1 overall draft pick and heralds the future of women’s basketball. A must-have for serious collectors and fans, it captures the excitement of a promising career just beginning to shine. Secure your piece of WNBA history today.
-  Updated: 2026-03-14T15:51:04Z
+- [2024 PANINI PRIZM WNBA BLUE PULSAR #145 CAITLIN CLARK 118/199 PSA 8 Fever](https://mingocards59.com/products/2024-panini-prizm-wnba-blue-pulsar-145-caitlin-clark-118-199-psa-8-fever-🔥🏀): Celebrate the rise of a WNBA superstar with the 2024 PANINI PRIZM WNBA BLUE PULSAR #145 Caitlin Clark card. Numbered 118/199 and graded PSA 8, this collectible highlights the #1 overall draft pick and heralds the future of women’s basketball. A must-have for serious collectors and fans, it captures the excitement of a promising career just beginning to shine. Secure your piece of WNBA history today.
+  Updated: 2026-03-30T07:57:37Z
   Vendor: Mingo Cards 59
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/2024PrizmWNBACaitlinClarkBluePulsaroutof199PSA8_F_B.jpg?v=1756158374
   Price: $299.00 USD
-- [2023 Panini Donruss Optic #257 Rashee Rice CGC 10 Gem💎Mint](https://mingocards59.com/products/2023-panini-donruss-optic-257-rashee-rice-cgc-10-gem💎mint): Elevate your collection with the 2023 Panini Donruss Optic #257 Rashee Rice graded CGC 10 Gem Mint. This pristine card showcases Rashee Rice's dynamic rookie season with sharp imagery and flawless condition, making it a standout piece for any serious collector. Secure this gem to celebrate rising talent and add exceptional value to your sports memorabilia.
-  Updated: 2026-01-25T21:06:54Z
+- [2023 Panini Donruss Optic #257 Rashee Rice CGC 10 Gem Mint](https://mingocards59.com/products/2023-panini-donruss-optic-257-rashee-rice-cgc-10-gem💎mint): Elevate your collection with the 2023 Panini Donruss Optic #257 Rashee Rice graded CGC 10 Gem Mint. This pristine card showcases Rashee Rice's dynamic rookie season with sharp imagery and flawless condition, making it a standout piece for any serious collector. Secure this gem to celebrate rising talent and add exceptional value to your sports memorabilia.
+  Updated: 2026-03-30T07:57:46Z
   Vendor: Mingo Cards 59
   Product Type: Football Rookie
   Availability: Available
@@ -293,22 +293,22 @@
   Updated: 2026-03-15T18:37:03Z
   Total Products: 21
 - [Graded - NBA & WNBA](https://mingocards59.com/collections/graded-nba-wnba-1)
-  Updated: 2026-03-15T23:25:16Z
+  Updated: 2026-03-29T19:57:32Z
   Total Products: 3
 - [Jersey Fusion - All Sports](https://mingocards59.com/collections/jersey-fusion-all-sports)
-  Updated: 2026-01-25T21:06:51Z
+  Updated: 2026-03-29T19:57:16Z
   Total Products: 2
 - [Raw - MLB](https://mingocards59.com/collections/raw-mlb)
-  Updated: 2026-03-15T17:21:11Z
+  Updated: 2026-03-29T19:57:56Z
   Total Products: 9
 - [Graded - MLB](https://mingocards59.com/collections/graded-mlb)
-  Updated: 2026-01-25T21:06:51Z
+  Updated: 2026-03-29T19:56:47Z
   Total Products: 3
 - [Complete Sets](https://mingocards59.com/collections/complete-sets)
   Updated: 2026-02-05T12:23:21Z
   Total Products: 6
 - [Pop Culture](https://mingocards59.com/collections/pop-culture): Unique collector cards from movies etc.
-  Updated: 2026-03-16T18:58:12Z
+  Updated: 2026-03-29T19:56:12Z
   Total Products: 2
 - [Featured Products](https://mingocards59.com/collections/featured-products): Top desirable cards
   Updated: 2026-03-15T17:21:11Z
