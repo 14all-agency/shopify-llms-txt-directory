@@ -6,7 +6,7 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2025-12-22T23:29:53Z
 - Contact Email: support@noirval.com
-- Updated At: 2026-03-22T00:00:28.539Z
+- Updated At: 2026-03-31T00:00:34.263Z
 
 ## Products
 
@@ -183,7 +183,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Royal Blue Arabic](https://noirval.com/products/seiko-datejust-royal-blue-arabic)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-03-25T19:51:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -219,7 +219,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Seamaster Blue](https://noirval.com/products/seiko-seamaster-blue)
-  Updated: 2026-03-14T14:48:01Z
+  Updated: 2026-03-25T17:17:56Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
