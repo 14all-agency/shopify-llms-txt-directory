@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-16T21:32:26Z
 - Contact Email: sales@texaspowerpaddle.com
-- Updated At: 2026-03-24T00:00:33.320Z
+- Updated At: 2026-03-31T00:00:37.637Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/IMG_6151fixed.png?v=1711143135
     Price: $25.00 USD
 - [Throttle Clip for Hobie Kayaks](https://shop.texaspowerpaddle.com/products/throttle-clip-for-hobie-compass): Replacement throttle clip that slides over rudder handle and attaches to the throttle control for the propulsion system. Can be mounted on left or right rudder handle. This part allows you to steer and adjust the throttle with one hand. Does not include the throttle cable or knob. Select the appropriate kayak model
-  Updated: 2026-03-20T17:47:01Z
+  Updated: 2026-03-27T00:43:47Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -113,7 +113,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Motor Refurbishment Kit](https://shop.texaspowerpaddle.com/products/motor-tune-up-kit): If your motor is still operating but has extensive wear, is making excessive noise and needs some love this is what you need. This kit includes a new prop, prop shaft, bearings and magnetic rotor (propeller mounts to this) along with dielectric grease for your connectors. You can do this refurbishment yourself by following the online videos but we suggest you first confirm that you can remove the rotor from the motor prior to ordering. If you would like to return the motor for us to refurbish follow the link below: The send in service option requires filling out the following service/return request form to expedite the process Click Here Once we receive your motor we can typically have it shipped back to you within 7-10 business days In cases where motors have frozen props, rotors that cannot be removed due to corrosion, damaged cables or connectors, broken housings, or other excessive damage will need to be completely replaced. Order a complete motor replacement if this is your case.
-  Updated: 2025-08-29T02:42:26Z
+  Updated: 2026-03-24T16:39:36Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -143,17 +143,17 @@
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/files/image_38a6b1dd-48e1-4c61-92d1-652918fd640c.jpg?v=1756156736
     Price: $350.00 USD
 - [Integrated Rudder Propulsion System for Hobie Kayaks w/o battery control case](https://shop.texaspowerpaddle.com/products/propulsion-system): For those of you who already have a complete TPP system with a drive control case you can now order our rudder mounted propulsion system to outfit your other Hobie kayaks. This will replace your existing rudder in either an Outback, ProAngler, or Compass. You will need to use your existing drive control case and throttle to power the unit.
-  Updated: 2026-03-19T06:56:43Z
+  Updated: 2026-03-25T18:17:51Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/IMG_2880.png?v=1670278795
   - [Outback/Compass](https://shop.texaspowerpaddle.com/products/propulsion-system?variant=39274765779042)
     Availability: Available
-    Price: $595.00 USD
+    Price: $525.00 USD
   - [ProAngler](https://shop.texaspowerpaddle.com/products/propulsion-system?variant=39274765844578)
     Availability: Available
-    Price: $595.00 USD
+    Price: $525.00 USD
 - [Cable Clips- Assorted Pack](https://shop.texaspowerpaddle.com/products/cable-clips): Assorted pack of 3 custom 3M adhesive cable clips, 3 double cable clips, and 3 hot glue-able clips to help secure and route your throttle and motor cables on your kayak deck. *Pro Tip- double cable clips snap to bungee cord and screw-in pad eye on rear deck. Hot glue clips are best used under the waterline near the rudder- let glue run through holes in clip. Adhesive clips can be used anywhere- prep surface with alcohol pad and scuff lightly to promote adhesion
   Updated: 2025-07-20T04:13:35Z
   Vendor: Texas Power Paddle
@@ -279,13 +279,6 @@
   - [2](https://shop.texaspowerpaddle.com/products/control-case-connector-cover?variant=39834168361058)
     Availability: Available
     Price: $14.99 USD
-- [Transducer Mounted Propulsion System for Hobie Kayaks w/o battery control case](https://shop.texaspowerpaddle.com/products/remora-for-lynx-propulsion-system-for-hobie-kayaks-w-o-battery-control-case): For those of you who already have a complete TPP system with a drive control case you can now order our Remora propulsion system to outfit your Hobie Lynx or PassPort 12. This will replace your transducer plate. You will need to use your existing drive control case and throttle to power the unit.
-  Updated: 2025-12-11T15:01:54Z
-  Vendor: Texas Power Paddle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/products/Lynx-02.png?v=1670278860
-  Price: $675.00 USD
 - [Universal Rudder Mounted Propulsion System for all Kayaks w/ steerable rudders w/o battery case](https://shop.texaspowerpaddle.com/products/copy-of-mako-universal-rudder-mounted-propulsion-system-for-all-kayaks-w-steerable-rudders): For those of you who already have a complete TPP system with a drive control case you can now order our Mako universal rudder mounted propulsion system to outfit your other kayaks. You will need to use your existing drive control case and throttle to power the unit. Compatible with optional  guard *Only available to customers who have purchased a complete system previously and rudder is not included* The Texas Power Paddle system is now compatible with Stand-Up paddle boards and many more types of kayaks using our universal rudder mounted propulsion system. Compatible with Hobie Twist & Stow, Hobie Passport, Jackson FD, Hoodoo, Native Watercraft and many other models.
   Updated: 2026-03-12T20:42:56Z
   Vendor: Texas Power Paddle
@@ -392,7 +385,7 @@
     Availability: Available
     Price: $25.00 USD
 - [PRO Ductless Integrated Rudder Propulsion System for Hobie Kayaks w/o battery control case](https://shop.texaspowerpaddle.com/products/ductless-integrated-rudder-propulsion-system-for-hobie-kayaks-w-o-battery-control-case): Works with Gen 2 and Gen 3 PRO control cases ONLY. Not compatible with the Gen 3 XL case. Gen 3 XL customers wanting to upgrade to PRO motor, contact sales@texaspowerpaddle.com for assistance. For those of you who already have a complete TPP system with a compatible drive control case you can now order our rudder mounted ductless propulsion system to outfit your other Hobie kayaks. This will replace your existing rudder in either an Outback, ProAngler, or Compass. You will need to use your existing drive control case and throttle to power the unit. This ductless unit offers superior  cutting performance and power.
-  Updated: 2026-01-20T22:00:51Z
+  Updated: 2026-03-30T22:56:47Z
   Vendor: Texas Power Paddle
   Product Type: 
   Availability: Available
@@ -400,11 +393,11 @@
   - [Outback/Compass](https://shop.texaspowerpaddle.com/products/ductless-integrated-rudder-propulsion-system-for-hobie-kayaks-w-o-battery-control-case?variant=40520473411682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/files/OB_GEN_3_PRO_01-01.png?v=1739896000
-    Price: $625.00 USD
+    Price: $575.00 USD
   - [ProAngler](https://shop.texaspowerpaddle.com/products/ductless-integrated-rudder-propulsion-system-for-hobie-kayaks-w-o-battery-control-case?variant=40520473444450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0272/0189/6546/files/PA_GEN_3_PRO_01-01.png?v=1739896000
-    Price: $625.00 USD
+    Price: $575.00 USD
 - [Powder Coated Aluminum Rudder](https://shop.texaspowerpaddle.com/products/upgraded-metal-rudder): For the Gen 2 & 3 integrated rudder systems we now offer an upgraded streamlined powder coated metal rudder. Custom cut from aluminum and half the thickness and twice the strength as the stock rudder. This improved design offers decreased drag, increased strength and stiffness and provides crisper steering control. Each rudder comes with an adapter to accommodate the original motor mounts that are used for the plastic rudders.
   Updated: 2025-12-15T06:01:38Z
   Vendor: Texas Power Paddle
@@ -455,13 +448,13 @@
   Updated: 2024-07-12T16:21:17Z
   Total Products: 0
 - [Kayak Propulsion Systems](https://shop.texaspowerpaddle.com/collections/propulsion-systems): Electric propulsion systems for Hobie kayaks and any other brand with a steerable rudder. Our patented electric kayak motors install in minutes, retract and deploy automatically and do not require any permanent changes to your kayak. Electrify your kayak experience today!
-  Updated: 2026-03-23T11:15:17Z
+  Updated: 2026-03-24T11:15:20Z
   Total Products: 12
 - [Accessories](https://shop.texaspowerpaddle.com/collections/accesories): Protect your  with accessories to keep your system in top running shape
-  Updated: 2026-03-21T11:14:40Z
+  Updated: 2026-03-27T11:17:17Z
   Total Products: 16
 - [Swag](https://shop.texaspowerpaddle.com/collections/freebies): We have what you need to add some flare to your rig. Quality custom designed, printed and cut in-house.
-  Updated: 2025-12-01T22:48:03Z
+  Updated: 2026-03-24T11:15:20Z
   Total Products: 15
 - [Apparel & Dog Gear](https://shop.texaspowerpaddle.com/collections/apparel): Soft cotton tees and tanks for the ladies- don't forget about your best fishing buddy too...
   Updated: 2023-10-27T16:38:55Z
@@ -476,22 +469,22 @@
   Updated: 2022-10-11T15:08:06Z
   Total Products: 0
 - [Sales & Bundles](https://shop.texaspowerpaddle.com/collections/sales): Hot Deals on package bundles, closeout items and limited stock! Get-em while you can...
-  Updated: 2026-03-23T11:15:17Z
-  Total Products: 20
+  Updated: 2026-03-28T11:16:08Z
+  Total Products: 23
 - [Replacement Propulsion Units](https://shop.texaspowerpaddle.com/collections/upgrades-kits): These propulsions units require our waterproof battery control case to operate properly. Ideal for easily adding a motor to another kayak in your fleet.
-  Updated: 2026-03-13T11:16:46Z
+  Updated: 2026-03-28T11:16:08Z
   Total Products: 5
 - [Deals & Favorites](https://shop.texaspowerpaddle.com/collections/icast-favorites): A few of our favorite extras we like good enough to share with you. Check back monthly for new selections. If you have something you unique you want to see in our store let us know- we love to support other kayak and fishing related businesses!
   Updated: 2025-02-21T17:21:37Z
   Total Products: 4
 - [Gen 2 Systems have been replaced by Gen 3 XL and Pro](https://shop.texaspowerpaddle.com/collections/gen-2-systems): Shop Gen 3: All the great Gen 2 features plus up to 30% more power, thrust & battery capacity that doesn't fade. Our upgraded 18.5 Volt 42Ah / 777 Wh battery provides upgraded performance for the dedicated kayak angler.
-  Updated: 2026-03-23T11:15:17Z
+  Updated: 2026-03-24T11:15:20Z
   Total Products: 7
 - [Gen 3 Hobie Systems- Get Ready for Spring!](https://shop.texaspowerpaddle.com/collections/gen-3-systems): Featuring up to 30% more power, thrust & battery capacity that doesn't fade. Our upgraded 18.5 Volt 42Ah / 777 Wh battery provides enhanced performance for the dedicated kayak angler.
-  Updated: 2026-03-23T11:15:17Z
+  Updated: 2026-03-24T11:15:20Z
   Total Products: 5
 - [Preventative Maintenance](https://shop.texaspowerpaddle.com/collections/preventative-maintenance)
-  Updated: 2026-03-21T11:14:40Z
+  Updated: 2026-03-25T11:15:02Z
   Total Products: 4
 
 ## Store Pages
