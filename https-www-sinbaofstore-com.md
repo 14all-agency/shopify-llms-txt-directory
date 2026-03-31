@@ -6,7 +6,7 @@
 - Timezone: America/Lima
 - Created At: 2025-07-15T00:32:01Z
 - Contact Email: sinbaoficialcl@gmail.com
-- Updated At: 2026-03-24T00:00:36.360Z
+- Updated At: 2026-03-31T00:00:39.196Z
 
 ## Products
 
@@ -281,7 +281,7 @@
     Availability: Not Available
     Price: 59,90 PEN PEN
 - [Arma tu Conjunto SINBA - 1 Compresor + 1 Short (doble capa) + Bividi Regalo | Oferta](https://www.sinbaofstore.com/products/pack-2-compresores-mc-bividi-de-regalo): Personaliza tu conjunto deportivo SINBA. Elige 1 compresores MC + 1 short con licra + bividi de regalo. Precio especial S/109.90. Ahorra S/30. Perú.
-  Updated: 2026-03-21T21:51:36Z
+  Updated: 2026-03-27T22:15:06Z
   Vendor: SINBA
   Product Type: Pack Promocional
   Availability: Available
