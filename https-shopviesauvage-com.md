@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-03-29T16:50:51Z
 - Contact Email: Info.viesauvage@gmail.com
-- Updated At: 2026-03-23T00:00:41.684Z
+- Updated At: 2026-03-31T00:00:44.992Z
 
 ## Products
 
@@ -781,7 +781,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $399.00 USD
 - [Veronica Dress | Crystal Plunge Blouson Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1147-veronica-dress): Double-layer jersey mini with relaxed crystal-trim sleeves, lace-up plunge, and fitted skirt. Handmade in Las Vegas; custom colors available.
-  Updated: 2026-03-12T04:04:42Z
+  Updated: 2026-03-27T21:28:06Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -4923,7 +4923,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $395.00 USD
 - [VS1007 Mini ultra low back](https://shopviesauvage.com/products/vs1007-mini-ultra-low-back): Ami Dress
-  Updated: 2024-11-27T09:29:14Z
+  Updated: 2026-03-28T09:49:31Z
   Vendor: Vie Sauvage LV
   Product Type: 
   Availability: Available
@@ -4965,7 +4965,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $70.00 USD
 - [V Neck Black SSS](https://shopviesauvage.com/products/v-neck-black-sss): 201601050002
-  Updated: 2026-02-28T02:58:57Z
+  Updated: 2026-03-24T01:24:21Z
   Vendor: Maceoo
   Product Type: 
   Availability: Available
@@ -5151,7 +5151,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Jessica Crop Top | Crystal Strap Wrap Bustier | Vie Sauvage LV](https://shopviesauvage.com/products/vs1049croptop-jessica): Stretch jersey crop top with wrap front, crystal straps, and side cutouts. Handmade in Las Vegas; pair with any high-waist bottom.
-  Updated: 2026-03-12T04:04:48Z
+  Updated: 2026-03-27T21:27:38Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -5343,7 +5343,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Jennifer Dress | Crystal Lattice Long-Sleeve Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1064-jennifer-dress): Stretch Venezia jersey mini with plunging crystal neckline, side cutouts, and open lattice back. Handmade in Las Vegas and available in multiple variations.
-  Updated: 2026-03-12T04:04:49Z
+  Updated: 2026-03-28T01:15:29Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5433,7 +5433,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $450.00 USD
 - [Dallas Birdcage](https://shopviesauvage.com/products/vs1076-dallas-birdcage): Vie Sauvage dresses come in these different colors. First pick a size and then pick a color from our color chart at no extra charge. Ship within 7-14 days after you place your order.
-  Updated: 2026-03-20T07:51:56Z
+  Updated: 2026-03-30T22:36:36Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5613,7 +5613,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $75.00 USD
 - [Mia Mini Skirt | Overlay High-Waist Mini | Vie Sauvage](https://shopviesauvage.com/products/vskt1003): Mia is the asymmetrical overlay mini that smooths every torso—double-layer stretch with a draped panel that hides any midsection texture.
-  Updated: 2026-03-21T23:18:08Z
+  Updated: 2026-03-30T01:55:47Z
   Vendor: Vie Sauvage LV
   Product Type: Skirts
   Availability: Available
@@ -5776,12 +5776,6 @@ Alt-Text Suggestions
   Price: $0.00 USD
 - [Vs1072 Long Riri Gown](https://shopviesauvage.com/products/vs1072-long-riri-gown): Halter Backless Gown with Lon...
   Updated: 2025-09-12T10:16:36Z
-  Vendor: Vie Sauvage LV
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Vs1028 Olga](https://shopviesauvage.com/products/vs1028-olga): Mini Open Back Dress With Cry...
-  Updated: 2026-01-04T00:49:31Z
   Vendor: Vie Sauvage LV
   Product Type: 
   Availability: Available
@@ -6082,7 +6076,7 @@ Alt Text
   Availability: Available
   Price: $175.00 USD
 - [Kali Brown Turquoise Dress Shir](https://shopviesauvage.com/products/kali-brown-turquoise-dress-shir): 201502010049
-  Updated: 2024-12-26T03:42:01Z
+  Updated: 2026-03-29T03:28:32Z
   Vendor: Vie Sauvage LV
   Product Type: 
   Availability: Available
@@ -6160,7 +6154,7 @@ Alt Text
   Availability: Available
   Price: $175.00 USD
 - [Blazer Socrat Blue](https://shopviesauvage.com/products/blazer-socrat-blue): 2014020300177
-  Updated: 2026-02-28T02:59:03Z
+  Updated: 2026-03-30T23:28:13Z
   Vendor: Maceoo
   Product Type: 
   Availability: Available
@@ -6486,7 +6480,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Jennifer Halter Mini | Crystal Plunge Bodycon | Vie Sauvage](https://shopviesauvage.com/products/vs1064hl-jeniffer): Stretch jersey halter mini with crystal-trim plunge, lace-up front, and open back. Handmade in Las Vegas; custom colors/prints available.
-  Updated: 2026-03-12T04:04:50Z
+  Updated: 2026-03-30T01:55:48Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -7046,13 +7040,13 @@ Alt-Text Suggestions
   Availability: Available
   Price: $488.00 USD
 - [Shoe Maceoo Black Square](https://shopviesauvage.com/products/shoe-maceoo-black-square): 201502070005
-  Updated: 2026-01-26T02:33:04Z
+  Updated: 2026-03-26T18:52:15Z
   Vendor: Vie Sauvage LV
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Shoe Maceoo Navy Square](https://shopviesauvage.com/products/shoe-maceoo-navy-square): 201502070007
-  Updated: 2025-08-29T20:44:56Z
+  Updated: 2026-03-26T18:52:15Z
   Vendor: Vie Sauvage LV
   Product Type: 
   Availability: Available
@@ -7117,7 +7111,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $119.00 USD
 - [Polo L Navy Blue Dot](https://shopviesauvage.com/products/polo-l-navy-blue-dot): 201602020005
-  Updated: 2026-02-28T02:59:09Z
+  Updated: 2026-03-24T16:13:26Z
   Vendor: Maceoo
   Product Type: 
   Availability: Available
@@ -7237,7 +7231,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $175.00 USD
 - [Crystal Single-Strap Belt | Adjustable Rhinestone Sash | Vie Sauvage LV](https://shopviesauvage.com/products/crystal-belt): Slim crystal belt with Mesh ribbon ties, available in silver, gold, or black hematite. Perfect for cinching gowns or elevating everyday looks.
-  Updated: 2026-03-21T23:11:16Z
+  Updated: 2026-03-29T05:04:14Z
   Vendor: Vie Sauvage LV
   Product Type: belts
   Availability: Available
@@ -7429,7 +7423,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Sasha Gown | Crystal Lapel Illusion Column | Vie Sauvage LV](https://shopviesauvage.com/products/vs1046-sasha): Power-shoulder gown with mesh plunge, crystal lapels, and thigh-high slit. Handmade in Las Vegas; custom colors available, ships in 48 hours.
-  Updated: 2026-03-18T19:37:25Z
+  Updated: 2026-03-27T21:38:17Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -7523,7 +7517,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Ariana Dress | Crystal Lace-Up Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1095rs-ariana-custom): Venezia jersey mini with crystal-trim plunge, lace-up sides, and body-sculpting fit. Handmade in Las Vegas and available in multiple variations.
-  Updated: 2026-03-17T02:54:37Z
+  Updated: 2026-03-29T05:04:14Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -7631,7 +7625,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Sable Bolero | Rhinestone Sleeve Shrug | Vie Sauvage LV](https://shopviesauvage.com/products/vs1097bolero-cover-top): Stretch jersey bolero with slit sleeves, rhinestone cuffs. Handmade in Las Vegas; perfect over minis or gowns.
-  Updated: 2026-03-12T04:04:52Z
+  Updated: 2026-03-27T21:31:26Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -8071,12 +8065,6 @@ Alt-Text Suggestions
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [vs1028Long Olga](https://shopviesauvage.com/products/vs1028long-olga): VS1028Long Olga Gown with dee...
-  Updated: 2024-11-26T21:37:36Z
-  Vendor: Vie Sauvage LV
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [VS1107Short Jasmine](https://shopviesauvage.com/products/vs1107short-jasmine): VS1107 Short Jasmine WIth mys...
   Updated: 2025-09-19T17:38:00Z
   Vendor: Vie Sauvage LV
@@ -8084,7 +8072,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [VS1074LongMesh Morrigan](https://shopviesauvage.com/products/vs1074longmesh-morrigan): VS1074LongMesh Morrigan Baby ...
-  Updated: 2024-12-27T16:09:11Z
+  Updated: 2026-03-24T15:38:33Z
   Vendor: Vie Sauvage LV
   Product Type: 
   Availability: Available
@@ -8389,16 +8377,28 @@ Alt-Text Suggestions
   - [L / Custom Color/Print / Silver Setting](https://shopviesauvage.com/products/vs1111-ferrah?variant=45009606115624)
     Availability: Available
     Price: $445.00 USD
-[List Continued](https://shopviesauvage.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjA2NjMzMjM4ODI0LCJsYXN0X3ZhbHVlIjoiODIwNjYzMzIzODgyNCJ9)
+- [VSKT1006](https://shopviesauvage.com/products/vskt1006): VSKT1006 Long Skirt Long maxi...
+  Updated: 2025-07-20T04:47:49Z
+  Vendor: Vie Sauvage LV
+  Product Type: Skirts
+  Availability: Available
+  Price: $189.00 USD
+- [v-neck s blue white paisly](https://shopviesauvage.com/products/v-neck-s-blue-white-paisly): 201701050034
+  Updated: 2026-02-28T02:59:15Z
+  Vendor: Maceoo
+  Product Type: 
+  Availability: Available
+  Price: $75.00 USD
+[List Continued](https://shopviesauvage.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjA2NjMzMzA0MzYwLCJsYXN0X3ZhbHVlIjoiODIwNjYzMzMwNDM2MCJ9)
 
 ## Collections
 
 - [Maceoo Men Collection | Engineered Fit Menswear at Vie Sauvage](https://shopviesauvage.com/collections/maceoo-men): Shop Paris-designed Maceoo shirts, blazers, and jackets cut with the MIT algorithm fit. Italian fabrics, posture-enhancing tailoring, in-store at Vie Sauvage LV
-  Updated: 2026-03-22T11:13:57Z
-  Total Products: 274
+  Updated: 2026-03-29T11:14:55Z
+  Total Products: 286
 - [Vie Sauvage](https://shopviesauvage.com/collections/vie-sauvage): Vie Sauvage dresses come in these different colors. First pick a size and then pick a color from our color chart at no extra charge. need help to decide. call us we are here to help. add your choice on notes at checkout. Ship within 7 days after you place your order.
-  Updated: 2026-03-22T19:44:09Z
-  Total Products: 267
+  Updated: 2026-03-30T11:13:51Z
+  Total Products: 269
 - [Sandals](https://shopviesauvage.com/collections/mystique): Hand-Made & Made to Order. Leather Sole and Leather Upper Lined with Suede For Added Comfort Embellished with Czech Crystals & Rhinestone Chain Ankle Strap with Buckle Closure Bottom Strap Height: 5 Inch Top Strap Height: 7.5 Inch ½ Inch Heel Made in Bali, Shipped From Los Angeles.
   Updated: 2026-03-06T00:10:32Z
   Total Products: 34
@@ -8409,16 +8409,16 @@ Alt-Text Suggestions
   Updated: 2026-03-12T04:04:41Z
   Total Products: 1
 - [Short Dresses](https://shopviesauvage.com/collections/short-dresses): Vie Sauvage Mini Dresses Meet the minis that started our cult following—handmade in Las Vegas, cut from double-layer Venezia jersey, and finished with the crystal hardware you won’t find anywhere else. Each silhouette is engineered to cinch the waist, lift the seat, and move with you from dinner to the dance floor. Choose from plunging halters, long-sleeve crystals, or convertible strap details, then customize the color or print to match your mood. Need help styling or ordering a custom size? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call the showroom at 702‑331‑5853.
-  Updated: 2026-03-22T11:13:57Z
+  Updated: 2026-03-30T11:13:51Z
   Total Products: 121
 - [Gowns](https://shopviesauvage.com/collections/gowns): Vie Sauvage Gowns Every Vie Sauvage gown is handmade in Las Vegas from our signature double-layer Venezia jersey, so it feels like sculpting shapewear while looking like red-carpet couture. Expect plunging crystal collars, convertible sleeves, and thigh-high slits that can be tailored to your heel height. Whether you’re shopping for galas, weddings, or the Strip’s hottest nights, each silhouette can be cut in any solid, metallic, or custom print. Need a bespoke fit or fabric consultation? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call the showroom at 702‑331‑5853.
-  Updated: 2026-03-21T11:13:38Z
-  Total Products: 68
+  Updated: 2026-03-29T16:10:07Z
+  Total Products: 70
 - [Jumpsuits](https://shopviesauvage.com/collections/jumpsuits): Vie Sauvage Jumpsuits Our jumpsuits are the rebels of the collection—cut from the same double-layer Venezia jersey as our gowns, but built with split legs, crystal harnesses, and convertible straps that turn one piece into a full look. They cinch the waist, elongate the legs, and give you gown-level drama without sacrificing movement. From halter catsuits to draped genie silhouettes, every style can be ordered in any solid, metallic, or custom print. Need a specific inseam or color match? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call 702‑331‑5853 for a custom fitting.
-  Updated: 2026-03-12T04:04:41Z
+  Updated: 2026-03-23T11:13:02Z
   Total Products: 9
 - [Atelier Edit](https://shopviesauvage.com/collections/atelier-edit): The Atelier Edit is where all the finishing pieces live—corset tops, boleros, statement belts, and crystal-trim jackets that pull every Vie Sauvage look together. Each piece is handmade in Las Vegas from our signature double-layer jersey or mesh, sculpting the waist without boning and layering easily over minis, jumpsuits, or denim. Mix and match corsets with Lolita skirts, throw a Devon bolero over a gown, or grab a crystal belt to convert a dress into a two-piece moment. Need help styling or ordering a custom size/color? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call 702‑331‑5853.
-  Updated: 2026-03-22T19:44:09Z
+  Updated: 2026-03-30T11:13:51Z
   Total Products: 61
 
 ## Blogs
@@ -8475,6 +8475,24 @@ Alt-Text Suggestions
   - [9 Best Dresses for Nightclub Nights](https://shopviesauvage.com/blogs/news/best-dresses-for-nightclub-nights): 9 Best Dresses for Nightclub Nights
     Updated: 2026-03-22T21:00:12Z
     Author: Admin
+  - [Luxury Holiday Party Dresses That Turn Heads](https://shopviesauvage.com/blogs/news/luxury-holiday-party-dresses): Luxury Holiday Party Dresses That Turn Heads
+    Updated: 2026-03-24T19:02:09Z
+    Author: Admin
+  - [Why Handmade Evening Gowns USA Matter](https://shopviesauvage.com/blogs/news/why-handmade-evening-gowns-usa-matter): Why Handmade Evening Gowns USA Matter
+    Updated: 2026-03-26T17:04:11Z
+    Author: Admin
+  - [12 Example Birthday Dinner Outfits to Wear](https://shopviesauvage.com/blogs/news/example-birthday-dinner-outfits): 12 Example Birthday Dinner Outfits to Wear
+    Updated: 2026-03-26T17:04:15Z
+    Author: Admin
+  - [Nightlife Fashion Trends 2026 to Wear Now](https://shopviesauvage.com/blogs/news/nightlife-fashion-trends-2026): Nightlife Fashion Trends 2026 to Wear Now
+    Updated: 2026-03-27T16:05:07Z
+    Author: Admin
+  - [Luxury Clubwear Dresses That Own the Night](https://shopviesauvage.com/blogs/news/luxury-clubwear-dresses-that-own-the-night): Luxury Clubwear Dresses That Own the Night
+    Updated: 2026-03-29T14:07:10Z
+    Author: Admin
+  - [Best Dresses for Bottle Service Nights](https://shopviesauvage.com/blogs/news/best-dresses-for-bottle-service-nights): Best Dresses for Bottle Service Nights
+    Updated: 2026-03-30T20:45:22Z
+    Author: Admin
 
 ## Store Pages
 
@@ -8484,10 +8502,10 @@ Alt-Text Suggestions
   Updated: 2026-03-08T15:53:23Z
 - [Vie Sauvage Las Vegas | Miracle Mile Shops Showroom](https://shopviesauvage.com/pages/locations): Visit us inside Miracle Mile Shops at Planet Hollywood Vie Sauvage LV 3663 Las Vegas Blvd South, Suite 475 Miracle Mile Shops at Planet Hollywood L...
   Updated: 2026-03-08T15:51:32Z
-- [Vie Sauvage Journal |  Styling Tips & Vegas Atelier News](https://shopviesauvage.com/pages/journal): The Vie Sauvage Journal is where our Las Vegas atelier shares styling tips, custom-order stories, and behind-the-scenes peeks at how we cut and cry...
-  Updated: 2026-03-08T15:42:30Z
-- [Contact Vie Sauvage Couture](https://shopviesauvage.com/pages/contact-info): Questions about sizing, rush orders, or private fittings? Share your info and one of our stylists will reach out within a few hours. • Showroom: Vi...
-  Updated: 2026-03-19T19:20:55Z
+- [Vie Sauvage Journal |  Styling Tips & Vegas Atelier News](https://shopviesauvage.com/pages/journal): Discover Couture Styling Tips Find exclusive tips and tricks on how to elevate your couture styling game with our Vie Sauvage Journal. Explore the ...
+  Updated: 2026-03-23T02:57:07Z
+- [Contact Vie Sauvage Couture information page](https://shopviesauvage.com/pages/contact-info): Questions about sizing, rush orders, or private fittings? Share your info and one of our stylists will reach out within a few hours. • Showroom: Vi...
+  Updated: 2026-03-23T02:55:01Z
 
 ## Policies
 
