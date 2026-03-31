@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-02-17T03:07:22Z
 - Contact Email: thewellness87@gmail.com
-- Updated At: 2026-03-20T00:00:37.031Z
+- Updated At: 2026-03-31T00:00:41.704Z
 
 ## Products
 
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0983/6891/3706/files/6d1fec3d-0b11-4c67-8a61-2303b7158c9e.jpg?v=1771339214
   Price: $21.30 USD
 - [Dopamine Capsules](https://www.thewellnessco.com.co/products/dopamine-capsules): 🧠 Dopamine Capsules — Product Summary Product: Dopamine Capsules Format: Capsules (sold in small sets like 2 pcs or 3 pcs) The page shows the item with images and the option to add it to cart but does not include a detailed description of what the product does or its ingredients on the visible part of the page. From what’s shown, the site only lists the name, price, and buy options – there’s no clear ingredient list or claimed benefits written on that page itself. ⚠️ Important Note Most “dopamine supplements” on the market typically contain precursors or nutrients that support the body’s natural dopamine production (like L-tyrosine or vitamin B6), but they do not contain dopamine itself and are not regulated medicines.
-  Updated: 2026-02-28T13:54:23Z
+  Updated: 2026-03-29T13:29:17Z
   Vendor: The Wellness Co.
   Product Type: Supplement
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0983/6891/3706/files/42588097315114-e7f9b70e-ad9d-4ba4-a7e6-59916892ddf2.jpg?v=1771594114
   Price: $15.30 USD
 - [Vibration Exercise Machine](https://www.thewellnessco.com.co/products/1pc-vibration-exercise-machine-with-resistant-bands-remote-control-whole-body-vibration-platform-workout-equipment-home-fitness-training-equipment-for-weight-loss-fat-burner): Vibration Plate Exercise Machine – Whole-Body Vibration Fitness Platform With Remote Control & Resistance Bands Overview:This is a home whole-body vibration exercise machine designed to help support weight loss, muscle toning, fat burning, and overall fitness in a compact footprint. Whole body vibration (WBV) platforms work by transmitting rapid vibrations through your body while you stand, squat, or perform exercises — stimulating muscle contractions and increasing engagement compared to standing alone. Key Features: Vibration Modes & Speed Levels: Multiple vibration intensity levels (often up to ~120 levels), with pre-set modes like walking, jogging, and running to vary workout effort. Remote Control Included: Allows easy control of speed, mode, and timer without bending down; also typically includes a simple LED display to show time and speed. Resistance Training Bands: Comes with 2 resistance bands so you can incorporate upper-body and strength work while the platform vibrates. Home-Friendly Design: Compact size and suction cup/anti-slip feet help keep the machine stable during use and make it easy to store when not in use. Additional Health & Fitness Benefits: Regular vibration sessions can help stimulate metabolism, improve circulation, support muscle activation and balance, and may aid in relaxation or recovery when used carefully. User Experience Notes:These machines are usually best for low-impact workouts, short vibration sessions (~10–20 minutes), and can be used in conjunction with other exercises like squats, lunges, or stretch routines for enhanced effects. The vibration does not replace cardio or strength training but can supplement your fitness routine, especially for muscle activation and warm-up. *Specifications*: Product Type: Vibration Exercise Machine Material: ABS Color: Black Voltage: 110V/60HZ Power: 200W Control Method: Button Control, Remote Control Vibration Level: 1-120Levels Vibration Mode: Walking, Jogging, Running Timer Setting: 1-20Mins Remote Power Supply: 2Pcs AAA Batteries(Not Included) Load Capacity: 150KG/331LBS Power Cord Length: 140cm/55.11in Item Size: 46*30*13cm/18.11*11.81*5.11in Item Weight: 4.4kg/9.7lbs Package Size: 47*15*37cm/18.50*5.90*14.56in Package Weight: 5250g/11.5lbs *Package Lists*: 1x Vibration Exercise Machine 2x Resistance Bands 1x Remote 1x Power Cord 1x User Manual Actual Product Photo
-  Updated: 2026-03-19T22:27:35Z
+  Updated: 2026-03-27T22:27:52Z
   Vendor: The Wellness Co.
   Product Type: workout
   Availability: Available
@@ -175,7 +175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0983/6891/3706/files/42591646089514-e47f7af0-9c42-44fa-b1c9-3982a43c59b9.jpg?v=1771594110
     Price: $75.68 USD
   - [1Pc Blue](https://www.thewellnessco.com.co/products/1pc-vibration-exercise-machine-with-resistant-bands-remote-control-whole-body-vibration-platform-workout-equipment-home-fitness-training-equipment-for-weight-loss-fat-burner?variant=51162632061226)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0983/6891/3706/files/42591646122282-92d104e9-93ac-4f9d-89f6-27e288cfb2de_7a49a411-06a8-457f-9eae-9f4be8d13504.jpg?v=1771594112
     Price: $75.20 USD
 - [Many Kinds Of Herb Health Gummies Skin Beauty Gummy](https://www.thewellnessco.com.co/products/many-kinds-of-herb-health-gummies-skin-beauty-gummy): Product information: Packing specifications: apple vinegar gum, Ashwagandha gum, skin whitening gum, hip and hip strengthening gum, vitamin C gum, seaweed gum, collagen gum, hair skin nail vitamin gum, weight gain gum, bbl breast curve glue, probiotics glue, sleep glue, weight loss glue, biotin glue, L-glutathione 13 1 glue, anti-aging glue, vitamin E glue, lutein eye gel, curve maca glue, Calcium D3 glue, PMS relief hormone balance glue Purpose: non-wedding candy Packing list: Beauty gummies X1 Product Image:
