@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2024-06-13T07:22:17Z
 - Contact Email: info@tvbuy.vn
-- Updated At: 2026-03-21T00:00:45.273Z
+- Updated At: 2026-03-31T00:00:43.876Z
 
 ## Products
 
@@ -85,7 +85,7 @@
     Updated: 2025-06-11T09:50:51Z
     Author: Quốc Hưng
   - [Nhóm thực phẩm gây hại cho xương và cản trở tăng chiều cao](https://nubesttall.vn/blogs/thuc-pham-tang-chieu-cao/nhom-cac-thuc-pham-khong-tot-cho-xuong-va-qua-trinh-tang-chieu-cao-34949): Nhóm thực phẩm gây hại cho xương và cản trở tăng chiều cao
-    Updated: 2025-07-04T06:28:08Z
+    Updated: 2026-03-24T02:31:38Z
     Author: Kim Ngân
   - [Loại rau giúp trẻ càng ăn càng cao, mẹ không thể bỏ qua](https://nubesttall.vn/blogs/thuc-pham-tang-chieu-cao/cac-loai-rau-con-cang-an-cang-lon-cac-me-khong-the-bo-qua-34951): Loại rau giúp trẻ càng ăn càng cao, mẹ không thể bỏ qua
     Updated: 2025-04-16T08:27:00Z
@@ -287,7 +287,7 @@
     Updated: 2025-07-04T07:45:20Z
     Author: Nguyễn Hoàng
   - [Trẻ 2 tuổi cao bao nhiêu là đạt chuẩn?](https://nubesttall.vn/blogs/cach-tang-chieu-cao/tre-2-tuoi-cao-bao-nhieu-la-dat-chuan): <p>Với ba mẹ, một trong những câu hỏi phổ biến nhất là "Trẻ 2 tuổi cao bao nhiêu là đạt chuẩn?". Dựa trên các nghiên cứu khoa học và số liệu từ WHO, sau đây là thông tin chính xác về chiều cao chuẩn của trẻ, kèm theo đó là hướng dẫn chi tiết giúp trẻ phát triển chiều cao.</p>
-    Updated: 2025-08-05T02:43:17Z
+    Updated: 2026-03-24T07:56:19Z
     Author: Nguyễn Hoàng
   - [Cao 1m55 nặng bao nhiêu là đạt chuẩn?](https://nubesttall.vn/blogs/cach-tang-chieu-cao/cao-1m55-nang-bao-nhieu-la-dat-chuan): Cao 1m55 nặng bao nhiêu là đạt chuẩn?
     Updated: 2025-08-05T01:46:43Z
@@ -455,7 +455,7 @@
     Updated: 2025-04-26T04:24:34Z
     Author: Nguyễn Hoàng
   - [Bóng chuyền có giúp tăng chiều cao không?](https://nubesttall.vn/blogs/phuong-phap-tang-chieu-cao/bong-chuyen-co-giup-tang-chieu-cao-khong): Bóng chuyền có giúp tăng chiều cao không?
-    Updated: 2025-08-05T01:37:00Z
+    Updated: 2026-03-24T07:58:20Z
     Author: Nguyễn Hoàng
   - [Tập Squat có giúp tăng chiều cao không?](https://nubesttall.vn/blogs/phuong-phap-tang-chieu-cao/tap-squat-co-giup-tang-chieu-cao-khong): Tập Squat có giúp tăng chiều cao không?
     Updated: 2025-04-29T03:21:40Z
