@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-05T09:50:06Z
 - Contact Email: support@luluvia.com
-- Updated At: 2026-03-24T07:25:21.740Z
+- Updated At: 2026-04-01T00:00:28.274Z
 
 ## Products
 
@@ -1562,7 +1562,7 @@
     Author: Yiming Yan
     Tags: Beyond Human, Cat Lifestyle, Dog Lifestyle, LA Design, Limited Edition, Luluvia, New Arrivals, Pet Fashion
   - [The Softest Pet Clothes for Sensitive Skin | LULUVIA](https://www.luluvia.com/blogs/news/the-softest-thing-weve-ever-felt): The Softest Pet Clothes for Sensitive Skin | LULUVIA
-    Updated: 2026-03-24T07:00:30Z
+    Updated: 2026-03-30T10:04:25Z
     Author: Yiming Yan
     Tags: Beyond Human, Cat Lifestyle, Dog Lifestyle, LA Design, Limited Edition, Luluvia, New Arrivals, Pet Fashion
   - [Why Everyday Comfort Matters for Your Pet | Luluvia](https://www.luluvia.com/blogs/news/more-than-a-walk-in-the-park): Why Everyday Comfort Matters for Your Pet | Luluvia
@@ -1574,19 +1574,19 @@
     Author: YanYiming
     Tags: Beyond Human, Cat Lifestyle, Dog Lifestyle, LA Design, Limited Edition, Luluvia, New Arrivals, Pet Fashion
   - [Why the Right Fit Matters in Pet Clothing Sizes | Luluvia](https://www.luluvia.com/blogs/news/the-right-fit-matters-more-than-you-think): Why the Right Fit Matters in Pet Clothing Sizes | Luluvia
-    Updated: 2026-03-24T06:01:47Z
+    Updated: 2026-03-30T08:39:00Z
     Author: YanYiming
     Tags: Beyond Human, Cat Lifestyle, Dog Lifestyle, LA Design, Limited Edition, Luluvia, New Arrivals, Pet Fashion
   - [Pet Clothing Guide by Season | What Your Pet Needs](https://www.luluvia.com/blogs/news/dressing-for-the-seasons-what-your-pet-actually-needs): Pet Clothing Guide by Season | What Your Pet Needs
-    Updated: 2026-03-24T06:02:12Z
+    Updated: 2026-03-30T10:03:53Z
     Author: YanYiming
     Tags: Beyond Human, Cat Lifestyle, Dog Lifestyle, LA Design, Limited Edition, Luluvia, New Arrivals, Pet Fashion
   - [How to Care for Pet Clothes & Make Them Last Longer](https://www.luluvia.com/blogs/news/how-to-care-for-your-pets-clothes-so-they-last): How to Care for Pet Clothes & Make Them Last Longer
-    Updated: 2026-03-24T06:02:36Z
+    Updated: 2026-03-30T10:32:19Z
     Author: YanYiming
     Tags: Beyond Human, Cat Lifestyle, Dog Lifestyle, LA Design, Limited Edition, Luluvia, New Arrivals, Pet Fashion
   - [Pet Fashion Benefits | Comfort, Protection & Style](https://www.luluvia.com/blogs/news/why-pet-fashion-is-more-than-just-a-trend): Pet Fashion Benefits | Comfort, Protection & Style
-    Updated: 2026-03-24T06:02:58Z
+    Updated: 2026-03-30T08:38:27Z
     Author: YanYiming
     Tags: Beyond Human, Cat Lifestyle, Dog Lifestyle, LA Design, Limited Edition, Luluvia, New Arrivals, Pet Fashion
 
@@ -1599,7 +1599,7 @@
 - [About Luluvia | Designer Pet Apparel & Premium Pet Clothes](https://www.luluvia.com/pages/about-us): 
   Updated: 2026-03-24T05:45:23Z
 - [Designer Dog Clothes FAQ | Luluvia Pet Apparel](https://www.luluvia.com/pages/frequently-asked-questions): 
-  Updated: 2026-03-24T05:47:12Z
+  Updated: 2026-03-24T08:19:15Z
 - [Luluvia Lookbook List | Pet Style Collections](https://www.luluvia.com/pages/lookbook-list): 
   Updated: 2026-03-24T06:43:23Z
 - [Luluvia Pet Lookbook | Stylish Dog & Cat Outfits](https://www.luluvia.com/pages/lookbook-detail): 
@@ -1624,8 +1624,6 @@
   Updated: 2026-03-24T05:53:30Z
 - [Measure Your Dog with Luluvia’s Centimeter Size Guide](https://www.luluvia.com/pages/dog-size-cm): SIZE NECK CHEST LENGTH XS1.4 – 2.3 kg 20 - 23 cm 25 - 31 cm 18 - 25 cm S2.3 – 2.9 kg 23 - 25 cm 31 - 36 cm 25 - 31 cm M2.9 – 3.6 kg 25 - 28 cm 36 -...
   Updated: 2026-03-24T06:11:54Z
-- [Dog Size Chart](https://www.luluvia.com/pages/dog-size-inch的副本): SIZE IN INCH SIZE NECK CHEST LENGTH XS3 - 5 lbs 8 - 9 in 10 - 12 in 7 - 10 in S5 - 6.5 Ibs 9 - 10 in 12 - 14 in 10 - 12 in M6.5 - 8 Ibs 10 - 11 in ...
-  Updated: 2026-03-21T08:41:45Z
 
 ## Policies
 
