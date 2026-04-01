@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-03-25T16:00:27.045Z
+- Updated At: 2026-04-01T20:00:26.901Z
 
 ## Products
 
@@ -866,6 +866,9 @@
     Author: User
   - [Innovative Ways to Integrate Sustainability into Your Daily Routine](https://jones-jm.myshopify.com/blogs/news/innovative-ways-to-integrate-sustainability-into-your-daily-routine): Innovative Ways to Integrate Sustainability into Your Daily Routine
     Updated: 2026-03-23T00:00:54Z
+    Author: User
+  - [Tackling Food Waste: Simple Changes with Big Impact](https://jones-jm.myshopify.com/blogs/news/tackling-food-waste-simple-changes-with-big-impact): Tackling Food Waste: Simple Changes with Big Impact
+    Updated: 2026-03-30T00:00:52Z
     Author: User
 
 ## Store Pages
