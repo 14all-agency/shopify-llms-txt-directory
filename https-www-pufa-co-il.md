@@ -6,14 +6,14 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-07-15T15:45:27Z
 - Contact Email: Pufa.co.il@gmail.com
-- Updated At: 2026-03-25T00:00:35.347Z
+- Updated At: 2026-04-01T00:00:37.881Z
 
 ## Products
 
 - [PUFA מתנה מיוחדת - תכשיטים בהפתעה: שרשראות, עגילים, צמידים - כסף וזהב](https://www.pufa.co.il/products/lucky-scoop): גלה את תכשיטי לאקי סקופ, מתנה מיוחדת שתשמח כל אחד. תכשיטים בהפתעה של פופה, מתנה ליום הולדת,מתנה לאישה,מתנה לילדה,
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-03-15T14:56:10Z
+  Updated: 2026-03-31T04:26:57Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
@@ -74,7 +74,7 @@ PUFA
   Updated: 2026-01-14T14:58:53Z
   Total Products: 0
 - [◈ Lucky Scoop ◈ - Pufa](https://www.pufa.co.il/collections/lucky-scoop): מחפשים מתנה ייחודית או מתנה ליום הולדת שתשחרר אתכם מבעיות של מידות וסטייל? בקולקציה של PUFA Lucky  - Pufa
-  Updated: 2026-03-09T11:25:42Z
+  Updated: 2026-03-31T11:22:33Z
   Total Products: 6
 
 ## Blogs
@@ -130,6 +130,21 @@ PUFA
     Author: מאיה איסקוב
   - [תכשיטי מתנה מוכנים בחירה מושלמת | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטי-מתנה-מוכנים-לבחירה-מושלמת-לכל-אירוע-ולכל-מי-שאוהב): תכשיטי מתנה מוכנים בחירה מושלמת | Pufa
     Updated: 2026-03-04T08:00:08Z
+    Author: איסקוב נועה
+  - [תכשיטים מינימליסטיים לנשים – מראה נקי מודרני | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטים-מינימליסטיים-לנשים-סגנון-נקי-אלגנטיות-יומיומית-וטעם-מודרני): תכשיטים מינימליסטיים לנשים – מראה נקי מודרני | Pufa
+    Updated: 2026-03-28T07:00:06Z
+    Author: איסקוב נועה
+  - [Statement Jewelry for Women – Elevate Your Look | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטי-אמירה-לנשים-בחירה-מעוצבת-לשילוב-מראה-בולט-ואלגנטי): Statement Jewelry for Women – Elevate Your Look | Pufa
+    Updated: 2026-03-29T07:00:07Z
+    Author: איסקוב נועה
+  - [תכשיטי טרנדיים לנשים – מראה עדכני ומושלם | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטי-טרנדיים-לנשים-בחירה-חכמה-למראה-יומיומי-וזוהר): תכשיטי טרנדיים לנשים – מראה עדכני ומושלם | Pufa
+    Updated: 2026-03-30T07:00:12Z
+    Author: איסקוב נועה
+  - [Special Gift Ideas to Delight Recipients | Pufa](https://www.pufa.co.il/blogs/pufa-blog/איך-לבחור-מתנה-מיוחדת-שתשמח-כל-מי-שמקבל-אותה-בכל-הזדמנות): Special Gift Ideas to Delight Recipients | Pufa
+    Updated: 2026-03-30T22:00:05Z
+    Author: מאיה איסקוב
+  - [תכשיטי תקציב למתחילים: טיפים לבחירה חכמה | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטי-תקציב-למתחילים-בחירה-חכמה-לסגנון-יומיומי-לכל-תקציב): תכשיטי תקציב למתחילים: טיפים לבחירה חכמה | Pufa
+    Updated: 2026-03-31T07:00:04Z
     Author: איסקוב נועה
 
 ## Store Pages
