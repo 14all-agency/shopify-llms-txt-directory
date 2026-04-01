@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-10-17T13:09:35Z
 - Contact Email: juleeGlow@gmail.com
-- Updated At: 2026-03-25T00:00:33.021Z
+- Updated At: 2026-04-01T00:00:35.632Z
 
 ## Products
 
 - [Anse La Ray Body Butter | Natural Organic Luxury Skincare](https://juleeglow.com/products/anse-la-ray-body-butter): Anse La Ray Body Butter with shea, coconut & rosehip oil, Manuka honey, jojoba & more. 100% organic formula to hydrate, nourish, & restore radiant skin. Shop now.
-  Updated: 2026-03-19T23:48:31Z
+  Updated: 2026-03-27T08:58:35Z
   Vendor: Julée Glow
   Product Type: Body Butter
   Availability: Available
@@ -60,6 +60,10 @@
   - [Medicinal Plants for Skin Health (Part 2)](https://juleeglow.com/blogs/news/medicinal-plants-for-skin-health-part-2)
     Updated: 2026-03-23T04:56:45Z
     Author: Julietta Fiscella M.D., CPE, FCAP.
+  - [Which Microorganisms Affect the Skin? Causes and Care Tips](https://juleeglow.com/blogs/news/which-microorganisms-affect-the-skin-causes-and-care-tips)
+    Updated: 2026-03-27T08:31:40Z
+    Author: Julietta Fiscella M.D., CPE, FCAP.
+    Tags: Anse La Ray Body Butter, non toxic body butter, organic skin care products
 
 ## Store Pages
 
