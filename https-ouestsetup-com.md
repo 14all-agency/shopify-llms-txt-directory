@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-03-03T19:51:28Z
 - Contact Email: ouest.contact72@gmail.Com
-- Updated At: 2026-03-24T16:52:50.412Z
+- Updated At: 2026-04-01T00:00:24.085Z
 
 ## Products
 
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T163315.331.png?v=1772567619
   Price: 7,99 € EUR
 - [Enceinte Bluetooth Alaxe Mini RGB Son Immersif RGB](https://ouestsetup.com/products/alaxe-small-bluetooth-speaker-outdoor-wireless-bluetooth-generation-mini-rgb-speaker-home-subwoofer-spherical): Profitez de l’enceinte enceinte Bluetooth Alaxe Mini RGB : son immersif, éclairage RGB dynamique, format compact et connexion rapide pour vos musiques partout.
-  Updated: 2026-03-24T10:36:23Z
+  Updated: 2026-03-30T07:56:40Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -135,7 +135,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S63b2421da2f64bdea7dda3b75252296bO.webp?v=1773588569
     Price: 15,41 € EUR
 - [TANCHJIM RITA Casque HiFi Bluetooth ANC](https://ouestsetup.com/products/tanchjim-rita-hifi-bluetooth-headset-wireless-wired-ldac-anc-enc-40mm-dmt5-dynamic-driver-bluetooth-6-0-3-5mm-gaming-over-ear-1): Découvrez le casque TANCHJIM RITA casque HiFi Bluetooth ANC: Bluetooth 6.0, réduction de bruit ANC, son immersif et confort premium pour une écoute optimale.
-  Updated: 2026-03-24T10:31:09Z
+  Updated: 2026-03-30T07:56:40Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -149,7 +149,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S84fddfa9d2794566b06205d38dfe45bad_f8f0cd66-c58c-45d7-b5c2-5e75a0d4a524.webp?v=1773590528
     Price: 129,65 € EUR
 - [Redmi Buds 4 Active TWS Bluetooth Réduction de Bruit](https://ouestsetup.com/products/new-xiaomi-redmi-buds-4-active-tws-noise-cancelling-earphone-bluetooth-5-3-mic-wireless-headphone-sport-headset): Redmi Buds 4 Active TWS Bluetooth réduction de bruit écouteurs TWS Bluetooth avec réduction de bruit, son puissant, connexion stable et confort idéal quotidien.
-  Updated: 2026-03-23T16:53:55Z
+  Updated: 2026-03-30T07:56:40Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -175,7 +175,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sf7044458413d43eb994145b41eb82f16c.webp?v=1773765702
     Price: 30,00 € EUR
 - [EDC Fidget Slider Magnétique Push Egg à Cliquet](https://ouestsetup.com/products/edc-fidget-sliders-fidget-toys-tuning-fork-fidget-spinner-magnetic-push-egg-mechanical-ratchet-slider-crisp-sound): EDC Fidget Slider Magnétique Push Egg à Cliquet : un spinner EDC à cliquet, compact et relaxant, idéal pour réduire le stress et améliorer la concentration.
-  Updated: 2026-03-23T14:47:08Z
+  Updated: 2026-03-30T07:56:40Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -229,11 +229,11 @@
 - [Shipping Policy](https://ouestsetup.com/policies/shipping-policy)
   Updated: 2026-03-08T16:54:32+01:00
 - [Refund Policy](https://ouestsetup.com/policies/refund-policy)
-  Updated: 2026-03-16T13:07:54+01:00
+  Updated: 2026-03-25T14:15:51+01:00
 - [Terms of Service](https://ouestsetup.com/policies/terms-of-service)
-  Updated: 2026-03-11T13:22:14+01:00
+  Updated: 2026-03-25T14:17:52+01:00
 - [Contact Information](https://ouestsetup.com/policies/contact-information)
-  Updated: 2026-03-11T13:12:22+01:00
+  Updated: 2026-03-25T14:18:22+01:00
 
 ## Optional
 
