@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2026-03-25T12:00:29.785Z
+- Updated At: 2026-04-01T16:00:28.943Z
 
 ## Products
 
 - [Metallherzen » Gartendekoration online kaufen | ELEO Garten](https://www.eleo-garten.de/products/dekoset-metallherz-vercelli-biella): Metallherzen-Set "Biella" und "Vercelli" aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:56:53Z
+  Updated: 2026-03-29T17:11:25Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-Set_schokobraun.png?v=1763034815
     Price: 77,76 € EUR
 - [Metall Herz "Biella" » hochwertige Gartendeko | ELEO Garten](https://www.eleo-garten.de/products/metallherz-biella): schlichtes Metallherz "Biella": ✓ stabil ✓ pflegeleicht ✓ langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:56:47Z
+  Updated: 2026-03-28T10:39:39Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -212,7 +212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Novara-Set_Tissano_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034793
     Price: 104,00 € EUR
 - [Hochbeet "Monterosso" aus Cortenstahl kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-monterosso-cortenstahl): Hochbeet "Monterosso" aus Schmiedeeisen: ✓ verschiedene Größen ✓ hochwertig ✓ stabil ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-03-24T19:43:09Z
+  Updated: 2026-03-29T11:32:57Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -238,7 +238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_14_Raised_Beds-Variants_14e_4__Eck_Baustein_II___6x_Zwinchen_Baustein_II.png?v=1764064109
     Price: 559,00 € EUR
 - [Hochbeet aus Metall kaufen | ELEO Garten](https://www.eleo-garten.de/products/hochbeet-monterosso-metall): Hochbeet "Monterosso" aus Schmiedeeisen: ✓ verschiedenste Größen ✓ hochwertig ✓ stabil ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-03-24T15:28:26Z
+  Updated: 2026-03-31T19:52:04Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -346,7 +346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Main_Rust_15_planter_variants_15e_4x_Eck_Baustein_II___4x_Zwischen_Baustein_I.png?v=1756703933
     Price: 459,00 € EUR
 - [Pflanzkübel "Vernazza" kaufen | ELEO Garten](https://www.eleo-garten.de/products/pflanzkuebel-vernazza-metall): Niedriger Pflanzkübel aus Schmiedeeisen: ✓ verschiedene Größen ✓ hochwertig ✓ feuerverzinkt oder pulverbeschichtet ✓ langlebig ➤ Jetzt online bestellen!
-  Updated: 2026-03-24T02:56:28Z
+  Updated: 2026-03-28T12:27:41Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -392,7 +392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Vernazza_800x1200_feuerverzinkt.png?v=1763034706
     Price: 335,00 € EUR
 - [Hochwertige Pflanzstütze "Arezzo" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/pflanzenstuetze-arezzo): Pflegeleichte Pflanzstütze "Arezzo": ✓ Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:56:34Z
+  Updated: 2026-04-01T14:37:07Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -426,7 +426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_d1820564-4f69-4c13-a27f-87d82118c2dc.png?v=1763043459
     Price: 94,40 € EUR
 - [Pflanzenstütze "Grosetto" aus Metall online kaufen | ELEO](https://www.eleo-garten.de/products/pflanzenstuetze-grosetto): Pflegeleichte Pflanzenstütze "Grosetto": ✓ Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:56:20Z
+  Updated: 2026-03-28T20:46:00Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -732,7 +732,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL8017_Schokobraun_f8649f0b-78da-4122-bf24-d4e060123c18.png?v=1763043042
     Price: 94,40 € EUR
 - [Hochwertiges Rankgitter "Brindisi" kaufen | ELEO Garten](https://www.eleo-garten.de/products/rankgitter-brindisi): Hochwertiges Rankgitter "Brindisi": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:55:54Z
+  Updated: 2026-03-29T18:54:46Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -766,7 +766,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL8017_Schokobraun_8e1bc406-df74-4f81-a862-aceed205866f.png?v=1762345946
     Price: 158,40 € EUR
 - [Rankgitter Tarent 100 x 170 cm kaufen | ELEO Garten](https://www.eleo-garten.de/products/rankgitter-tarent-gross): Großes Rankgitter Tarent | Maße: 100 x 170 cm | breites Rankgitter zur Wandmontage | aus stabilem Schmiedeeisen ➤ Hier bestellen!
-  Updated: 2026-03-24T02:55:52Z
+  Updated: 2026-03-29T17:11:26Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -834,7 +834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_ae140dd6-4fb9-4995-a0be-915af3bc5629.png?v=1763042960
     Price: 94,40 € EUR
 - [Hochwertiges Wandgitter "Edera" kaufen | ELEO Garten](https://www.eleo-garten.de/products/wandgitter-edera): Hochwertiges Wandgitter "Edera": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:55:57Z
+  Updated: 2026-03-26T07:20:46Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -970,7 +970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_689358f9-4068-4eef-b936-51c91d7362db.png?v=1762346988
     Price: 206,40 € EUR
 - [Obelisk aus Metall "Messina groß" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-messina-gross): Hochwertiger Obelisk "Messina groß": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:55:43Z
+  Updated: 2026-03-29T15:40:56Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -1004,7 +1004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_f34c1ee3-2cb2-4918-b908-e510c213e8f1.png?v=1761229221
     Price: 222,40 € EUR
 - [Obelisk aus Metall "Messina klein" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-messina-klein): Hochwertiger Obelisk "Messina klein": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-03-24T02:55:43Z
+  Updated: 2026-03-31T07:12:26Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -1344,7 +1344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Cosenza_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034447
     Price: 446,40 € EUR
 - [Rosenbogen Matera aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-matera): Hochwertiger Rosenbogen aus Metall für Ihren Garten: » Dekorative Rankhilfe ✓ in verschiedenen Farben ✓ sehr stabil & langlebig ► Hier bestellen!
-  Updated: 2026-03-24T02:55:28Z
+  Updated: 2026-03-28T21:15:27Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -1487,7 +1487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/item-customizations-product-image.png?v=1756703846
   Price: 0,01 € EUR
 - [Rosenbogen Cremona | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-cremona): Rosenbogen aus Metall » ✓ handgefertigt ✓ modernes Design ✓ wetterfest und langlebig ► Hier entdecken!
-  Updated: 2026-03-24T02:55:11Z
+  Updated: 2026-03-29T09:00:56Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -1555,39 +1555,95 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cremona-pulverbeschichtet-schockobraun_RAL8017-Wandbefestigung.png?v=1756703838
     Price: 206,40 € EUR
 - [Rosenbogen Savona | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-savona): Rosenbogen aus Metall » ✓ modernes, exklusives Design ✓ handgeschmiedet ✓ wetterfest und langlebig ► Jetzt bestellen!
-  Updated: 2026-03-24T02:55:09Z
+  Updated: 2026-03-27T21:22:20Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-savona-unbeschichtet.png?v=1756703832
-  - [Unbeschichtet](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899294019)
+  - [Unbeschichtet / 110 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899294019)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-savona-unbeschichtet.png?v=1756703832
     Price: 349,00 € EUR
-  - [Feuerverzinkt](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899326787)
+  - [Unbeschichtet / 160 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523658051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-feuerverzinkt.png?v=1756703834
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Uncoated_1_Dachteil_Savona_160cm.png?v=1774619039
+    Price: 399,00 € EUR
+  - [Unbeschichtet / 180 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523690819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Uncoated_2_Dachteil_Savona_180cm.png?v=1774619039
+    Price: 449,00 € EUR
+  - [Feuerverzinkt / 110 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899326787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-feuerverzinkt.png?v=1774619074
     Price: 471,15 € EUR
-  - [Pulverbeschichtet anthrazit](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899359555)
+  - [Feuerverzinkt / 160 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523723587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-anthrazit.png?v=1756703834
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Galvanized_1_Dachteil_Savona_160cm.png?v=1774619039
+    Price: 538,65 € EUR
+  - [Feuerverzinkt / 180 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523756355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Galvanized_2_Dachteil_Savona_180cm.png?v=1774619039
+    Price: 606,15 € EUR
+  - [Pulverbeschichtet anthrazit / 110 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899359555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-anthrazit.png?v=1774619074
     Price: 523,50 € EUR
-  - [Pulverbeschichtet RAL 9001 Cremeweiß](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899392323)
+  - [Pulverbeschichtet anthrazit / 160 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523789123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-cremeweiss_RAL9001.png?v=1756703835
-    Price: 558,40 € EUR
-  - [Pulverbeschichtet RAL 6009 Tannengrün](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899425091)
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Anthracite_1_Dachteil_Savona_160cm.png?v=1774619039
+    Price: 598,50 € EUR
+  - [Pulverbeschichtet anthrazit / 180 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523821891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-tannengruen_RAL6009.png?v=1756703835
-    Price: 558,40 € EUR
-  - [Pulverbeschichtet RAL 9005 Tiefschwarz](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899457859)
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Anthracite_2_Dachteil_Savona_180cm.png?v=1774619039
+    Price: 673,50 € EUR
+  - [Pulverbeschichtet RAL 9001 Cremeweiß / 110 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899392323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-tiefschwarz_RAL9005.png?v=1756703835
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-cremeweiss_RAL9001.png?v=1774619074
     Price: 558,40 € EUR
-  - [Pulverbeschichtet RAL 8017 Schokobraun](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899490627)
+  - [Pulverbeschichtet RAL 9001 Cremeweiß / 160 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523854659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-schockobraun_RAL8017.png?v=1756703835
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cream_RAL9001_1_Dachteil_Savona_160cm.png?v=1774619039
+    Price: 638,40 € EUR
+  - [Pulverbeschichtet RAL 9001 Cremeweiß / 180 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523887427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cream_RAL9001_2_Dachteil_Savona_180cm.png?v=1774619039
+    Price: 718,40 € EUR
+  - [Pulverbeschichtet RAL 6009 Tannengrün / 110 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899425091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-tannengruen_RAL6009.png?v=1774619074
     Price: 558,40 € EUR
+  - [Pulverbeschichtet RAL 6009 Tannengrün / 160 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523920195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Green_RAL6009_1_Dachteil_Savona_160cm.png?v=1774619039
+    Price: 638,40 € EUR
+  - [Pulverbeschichtet RAL 6009 Tannengrün / 180 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523952963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Green_RAL6009_2_Dachteil_Savona_180cm.png?v=1774619039
+    Price: 718,40 € EUR
+  - [Pulverbeschichtet RAL 9005 Tiefschwarz / 110 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899457859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-tiefschwarz_RAL9005.png?v=1774619074
+    Price: 558,40 € EUR
+  - [Pulverbeschichtet RAL 9005 Tiefschwarz / 160 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307523985731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Black_RAL9005_1_Dachteil_Savona_160cm.png?v=1774619039
+    Price: 638,40 € EUR
+  - [Pulverbeschichtet RAL 9005 Tiefschwarz / 180 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307524018499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Black_RAL9005_2_Dachteil_Savona_180cm.png?v=1774619039
+    Price: 718,40 € EUR
+  - [Pulverbeschichtet RAL 8017 Schokobraun / 110 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=46787899490627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-schockobraun_RAL8017.png?v=1774619074
+    Price: 558,40 € EUR
+  - [Pulverbeschichtet RAL 8017 Schokobraun / 160 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307524051267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Brown_RAL8017_1_Dachteil_Savona_160cm.png?v=1774619039
+    Price: 638,40 € EUR
+  - [Pulverbeschichtet RAL 8017 Schokobraun / 180 cm](https://www.eleo-garten.de/products/rosenbogen-savona?variant=54307524084035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Brown_RAL8017_2_Dachteil_Savona_180cm.png?v=1774619039
+    Price: 718,40 € EUR
 - [Wandrosenbogen Savona | ELEO Garten](https://www.eleo-garten.de/products/wandrosenbogen-savona): Wandrosenbogen aus Metall  » ✓ moderne Gartenzierde ✓ von Hand gefertigt ✓  wetterfest und langlebig ► Jetzt bestellen!
   Updated: 2026-03-24T02:55:07Z
   Vendor: ELEO Garten
@@ -1623,39 +1679,95 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Savona-pulverbeschichtet-schockobraun_RAL8017-Wandbefestigung.png?v=1761228167
     Price: 382,40 € EUR
 - [Rosenbogen Sorrento | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-sorrento): Moderner Rosenbogen aus Metall » ✓ schlichte, praktische Rankhilfe ✓ handgeschmiedet, witterungsbeständig ► Jetzt entdecken!
-  Updated: 2026-03-24T02:55:06Z
+  Updated: 2026-03-27T21:23:44Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-unbeschichtet.png?v=1759307431
-  - [Unbeschichtet](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943596355)
+  - [Unbeschichtet / 110 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943596355)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-unbeschichtet.png?v=1759307431
     Price: 299,00 € EUR
-  - [Feuerverzinkt](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943629123)
+  - [Unbeschichtet / 160 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665150275)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-feuerverzinkt.png?v=1761227973
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Uncoated_3_Dachteil_Sorrento_160cm.png?v=1774619007
+    Price: 369,00 € EUR
+  - [Unbeschichtet / 180 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665183043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Uncoated_4_Dachteil_Sorrento_180cm.png?v=1774619007
+    Price: 419,00 € EUR
+  - [Feuerverzinkt / 110 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943629123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-feuerverzinkt.png?v=1774619007
     Price: 403,65 € EUR
-  - [Pulverbeschichtet anthrazit](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943661891)
+  - [Feuerverzinkt / 160 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665215811)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-anthrazit.png?v=1761227973
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Galvanized_3_Dachteil_Sorrento_160cm.png?v=1774619007
+    Price: 498,15 € EUR
+  - [Feuerverzinkt / 180 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665248579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Galvanized_4_Dachteil_Sorrento_180cm.png?v=1774619007
+    Price: 565,65 € EUR
+  - [Pulverbeschichtet anthrazit / 110 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943661891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-anthrazit.png?v=1774619007
     Price: 448,50 € EUR
-  - [Pulverbeschichtet RAL 9001 Cremeweiß](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943694659)
+  - [Pulverbeschichtet anthrazit / 160 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665281347)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-cremeweiss_RAL9001.png?v=1761227973
-    Price: 478,40 € EUR
-  - [Pulverbeschichtet RAL 6009 Tannengrün](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943727427)
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Anthracite_3_Dachteil_Sorrento_160cm.png?v=1774619007
+    Price: 553,50 € EUR
+  - [Pulverbeschichtet anthrazit / 180 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665314115)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-tannengruen_RAL6009.png?v=1761227973
-    Price: 478,40 € EUR
-  - [Pulverbeschichtet RAL 9005 Tiefschwarz](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943760195)
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Anthracite_4_Dachteil_Sorrento_180cm.png?v=1774619007
+    Price: 628,50 € EUR
+  - [Pulverbeschichtet RAL 9001 Cremeweiß / 110 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943694659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-tiefschwarz_RAL9005.png?v=1761227973
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-cremeweiss_RAL9001.png?v=1774619007
     Price: 478,40 € EUR
-  - [Pulverbeschichtet RAL 8017 Schokobraun](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943792963)
+  - [Pulverbeschichtet RAL 9001 Cremeweiß / 160 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665346883)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-schockobraun_RAL8017.png?v=1761227973
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cream_RAL9001_3_Dachteil_Sorrento_160cm.png?v=1774619007
+    Price: 590,40 € EUR
+  - [Pulverbeschichtet RAL 9001 Cremeweiß / 180 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665379651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Cream_RAL9001_4_Dachteil_Sorrento_180cm.png?v=1774619007
+    Price: 670,40 € EUR
+  - [Pulverbeschichtet RAL 6009 Tannengrün / 110 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943727427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-tannengruen_RAL6009.png?v=1774619007
     Price: 478,40 € EUR
+  - [Pulverbeschichtet RAL 6009 Tannengrün / 160 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665412419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Green_RAL6009_3_Dachteil_Sorrento_160cm.png?v=1774619007
+    Price: 590,40 € EUR
+  - [Pulverbeschichtet RAL 6009 Tannengrün / 180 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665445187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Green_RAL6009_4_Dachteil_Sorrento_180cm.png?v=1774619007
+    Price: 670,40 € EUR
+  - [Pulverbeschichtet RAL 9005 Tiefschwarz / 110 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943760195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-tiefschwarz_RAL9005.png?v=1774619007
+    Price: 478,40 € EUR
+  - [Pulverbeschichtet RAL 9005 Tiefschwarz / 160 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665477955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Black_RAL9005_3_Dachteil_Sorrento_160cm.png?v=1774619007
+    Price: 590,40 € EUR
+  - [Pulverbeschichtet RAL 9005 Tiefschwarz / 180 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665510723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Black_RAL9005_4_Dachteil_Sorrento_180cm.png?v=1774619007
+    Price: 670,40 € EUR
+  - [Pulverbeschichtet RAL 8017 Schokobraun / 110 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=46787943792963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Sorrento-pulverbeschichtet-schockobraun_RAL8017.png?v=1774619007
+    Price: 478,40 € EUR
+  - [Pulverbeschichtet RAL 8017 Schokobraun / 160 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665543491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Brown_RAL8017_3_Dachteil_Sorrento_160cm.png?v=1774619007
+    Price: 590,40 € EUR
+  - [Pulverbeschichtet RAL 8017 Schokobraun / 180 cm](https://www.eleo-garten.de/products/rosenbogen-sorrento?variant=54307665576259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/Brown_RAL8017_4_Dachteil_Sorrento_180cm.png?v=1774619007
+    Price: 670,40 € EUR
 - [Wandrosenbogen Sorrento | ELEO Garten](https://www.eleo-garten.de/products/wandrosenbogen-sorrento): Wandrosenbogen aus Metall » ✓ exklusive Rankhilfe ✓ modernes Design ✓ handgefertigt & langlebig ► Jetzt bestellen!
   Updated: 2026-03-24T02:55:06Z
   Vendor: ELEO Garten
@@ -2097,7 +2209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/rosenbogen-caserta-pulverbeschichtet-RAL8017-schokobraun.png?v=1763034488
     Price: 366,40 € EUR
 - [Rosenbogen Cesena | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-cesena): Klassischer Rosenbogen aus Metall » ✓ rundes Design ✓ wetterfest & langlebig ✓ Beschichtung frei wählbar ► Jetzt online bestellen!
-  Updated: 2026-03-24T02:54:54Z
+  Updated: 2026-04-01T09:52:23Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2403,7 +2515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/beetzaun-pescara-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033127
     Price: 206,40 € EUR
 - [Steckzaun Balerna aus Metall | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-balerna): Steckzaun aus Metall Balerna mit S-Dekoren ✓ filigranes Design ✓ Beschichtung nach Wahl ✓wetterfest & langlebig ► Jetzt bestellen!
-  Updated: 2026-03-23T14:54:38Z
+  Updated: 2026-03-28T03:19:11Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2671,7 +2783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-balerna-pulverbeschichtet-RAL7016-anthrazitgrau-set.png?v=1761033413
     Price: 350,40 € EUR
 - [Steckzaun Ancona Set aus Metall | ELEO Garten](https://www.eleo-garten.de/products/steckzaun-ancona-im-set): 5-teiliges Steckzaun-Set Ancona ✓ aus hochwertigem Metall mit Kugelstab ✓ Beschichtung nach Wahl ✓ schnell montiert ► Jetzt bestellen!
-  Updated: 2026-03-23T14:54:31Z
+  Updated: 2026-03-27T14:38:02Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -2952,25 +3064,25 @@
 ## Collections
 
 - [Home page](https://www.eleo-garten.de/collections/frontpage)
-  Updated: 2026-03-22T11:08:43Z
+  Updated: 2026-03-30T11:19:10Z
   Total Products: 1
 - [Gartendeko aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallgartendeko): Metallgartendeko in vielen Designs ✓ stabil & wetterfest ✓ dekorativ & edel ✓ Beschichtung frei wählbar ➤ Jetzt bestellen!
-  Updated: 2026-03-22T11:08:43Z
+  Updated: 2026-03-30T11:19:10Z
   Total Products: 36
 - [Hochwertige Rosenbögen aus Metall – stilvoll & langlebig | ELEO](https://www.eleo-garten.de/collections/rosenbogen): Stabiler Rosenbogen: ✓ romantisch oder modern ✓ wetterfest ✓ ideal für Kletterpflanzen ➤ Jetzt den passenden Rosenbogen für Ihren Garten bestellen!
-  Updated: 2026-03-24T11:10:12Z
+  Updated: 2026-04-01T11:12:27Z
   Total Products: 20
 - [Rankobelisken aus Metall ➤ Jetzt online kaufen! | ELEO Garten](https://www.eleo-garten.de/collections/rankobelisken): Rankobelisken für Kletterpflanzen ✓ stabil ✓ dekorativ ✓ nützliches Gartenaccessoire ➤ jetzt Obelisk aus Metall bestellen!
-  Updated: 2026-03-24T11:10:12Z
+  Updated: 2026-03-31T11:13:18Z
   Total Products: 9
 - [Metall Rankgitter jetzt online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallrankgitter): Rankgitter für Ihre Hauswand ✓ massives Metall ✓ langlebig ✓ dekorativ ✓ verschiedene Beschichtungen ✓ inkl. Wandhalterung ➤ Jetzt bestellen!
-  Updated: 2026-03-15T11:09:52Z
+  Updated: 2026-03-30T11:19:10Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2026-03-25T11:13:51Z
+  Updated: 2026-04-01T11:12:27Z
   Total Products: 108
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
-  Updated: 2026-03-25T11:13:51Z
+  Updated: 2026-04-01T11:12:27Z
   Total Products: 12
 - [Gartenstecker aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/gartenstecker-metall): Gartenstecker aus Metall: wunderschöne Deko für Ihre Blumenbeete!  ✓ aus hochwertigem Metall ✓ wetterfest ✓ besondere Designs ➤ Gleich bestellen!
   Updated: 2026-02-28T12:10:34Z
@@ -2979,22 +3091,22 @@
   Updated: 2026-02-18T19:07:14Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2026-03-24T11:10:12Z
+  Updated: 2026-03-30T11:19:10Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
   Updated: 2026-03-02T12:10:34Z
   Total Products: 6
 - [Steckzaun aus Metall für Ihren Garten » hier bestellen](https://www.eleo-garten.de/collections/steckzaun): Hochwertiger Steckzaun in Premium-Qualität ✓ formschöne Designs ✓ Beschichtung nach Wahl ✓ besonders stabil » Jetzt entdecken!
-  Updated: 2026-03-11T11:10:21Z
+  Updated: 2026-03-28T11:12:50Z
   Total Products: 18
 - [Test collection](https://www.eleo-garten.de/collections/test-collection)
-  Updated: 2026-03-16T11:08:58Z
+  Updated: 2026-03-28T11:12:50Z
   Total Products: 4
 - [Gartensäule aus Metall » Windlichtsäulen & Dekosäulen online kaufen](https://www.eleo-garten.de/collections/metall-gartensaeulen): Hochwertige Gartensäulen aus Metall in Rostoptik oder matt-grauem Finish ✓ Windlichtsäulen und Metallsäulen in verschiedenen Größen » Jetzt entdecken!
-  Updated: 2026-03-21T11:09:29Z
+  Updated: 2026-03-31T11:13:18Z
   Total Products: 19
 - [Garten-Sets aus Metall | ELEO Garten](https://www.eleo-garten.de/collections/sets): Perfekt abgestimmte Garten-Sets aus hochwertigem Metall. Zeitloses Design, langlebige Materialien und durchdachte Kombinationen von ELEO Garten.
-  Updated: 2026-03-22T11:08:43Z
+  Updated: 2026-03-30T11:19:10Z
   Total Products: 27
 
 ## Blogs
