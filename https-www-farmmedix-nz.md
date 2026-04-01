@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-05-09T11:07:06Z
 - Contact Email: info@farmmedix.com
-- Updated At: 2026-03-25T00:00:21.722Z
+- Updated At: 2026-04-01T00:00:33.004Z
 
 Farm Medix is New Zealand's leading provider of mastitis diagnostics and lameness management solutions for dairy farmers. Farm Medix helps farmers improve milk quality, reduce antibiotic use, and boost herd performance. We offer expert 7-day support to help you get the best results.
 
@@ -141,6 +141,9 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
   - [NZ Dairy Expo 2026 | Farm Medix](https://www.farmmedix.nz/blogs/news/nz-dairy-expo-2026): NZ Dairy Expo 2026 | Farm Medix
     Updated: 2026-02-20T02:29:01Z
     Author: Farm Medix
+  - [From Invisible to Unstoppable: How Farm Medix Is Redefining Dairy Herd Health](https://www.farmmedix.nz/blogs/news/from-invisible-to-unstoppable-how-farm-medix-is-redefining-dairy-herd-health): <p><meta charset="utf-8">Dairy farms run on visible systems — and invisible microbial ones. Farm Medix helps farmers identify and manage hidden infections like mastitis and lameness, reducing antibiotics, improving herd health, and delivering better outcomes for cows, farmers, and the industry.</p>
+    Updated: 2026-03-30T21:10:43Z
+    Author: Farm Medix
 - [Stride-On Equine](https://www.farmmedix.nz/blogs/stride-on-equine)
   - [Lucy Laxon’s Mud Fever Success with Stride-On Equine](https://www.farmmedix.nz/blogs/stride-on-equine/mud-fever-lucy-laxon): <p><meta charset="utf-8"><meta charset="utf-8">Winters in Waikato made mud fever a constant struggle for Lucy Laxon — until she found Stride-On. Within weeks, her mares’ legs healed completely. The bands made care effortless, safe, and stress-free.<br></p>
     Updated: 2025-12-08T22:58:00Z
@@ -199,9 +202,9 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
 - [Herdscreen Staph. aureus Test | Cow-Level Mastitis Control](https://www.farmmedix.nz/pages/mastitis-herdscreen): Fast, accurate whole-herd mastitis screening. Identify hidden Staph. aureus carriers, protect milk quality, and regain herd control – Farm Medix NZ.
   Updated: 2026-03-24T23:43:14Z
 - [Stride-On Equine | Hoof Health Band for Horses](https://www.farmmedix.nz/pages/hoofcare-stride-on-equine): Stride-On™ is an easy-to-use hoof health band for horses. Supports healthy hooves and helps prevent lameness with CopperFlow™ technology.
-  Updated: 2026-03-23T22:58:14Z
+  Updated: 2026-03-25T00:46:52Z
 - [Stride-On Bovine | Lameness Leg Band for Dairy Cows](https://www.farmmedix.nz/pages/lameness-stride-on-bovine): Stride-On™ is an easy-to-use leg band for cows that supports healthy hooves and helps prevent lameness with advanced CopperFlow™ technology.
-  Updated: 2026-03-24T02:42:02Z
+  Updated: 2026-03-30T20:42:30Z
 - [Water  - Chlorination for Safer, Compliant Water](https://www.farmmedix.nz/pages/water-): Farm Chlor kills harmful bacteria in your water. It greatly improves your animal health & productivity, and plant hygiene. Treat your troughs and w...
   Updated: 2026-03-24T02:45:21Z
 - [Microbiology Lab Services | Farm Medix](https://www.farmmedix.nz/pages/laboratory-services): Independent microbiology testing and product validation for dairy, veterinary, and hygiene industries—accurate, practical, and trusted analysis by ...
@@ -213,13 +216,13 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
 - [Farm Medix Partners | Trusted Global Dairy Health Network](https://www.farmmedix.nz/pages/partners): Farm Medix partners with industry leaders worldwide to deliver mastitis management and herd health solutions farmers can trust.
   Updated: 2026-03-24T01:11:24Z
 - [About Farm Medix - Diagnostics & Practical Science for Animal Health](https://www.farmmedix.nz/pages/about-us): Farm Medix combines lab-grade diagnostics, practical on-farm tools and 7-day specialist support to help farmers, vets and horse owners improve anim...
-  Updated: 2026-03-24T01:10:21Z
+  Updated: 2026-03-31T03:46:52Z
 - [Dairy & livestock Solutions | Farm Medix](https://www.farmmedix.nz/pages/dairy-herd-health): Farm Medix helps you lift herd health and milk quality through on-farm mastitis testing, lameness management, water- solutions, and microb...
-  Updated: 2026-03-24T23:35:34Z
+  Updated: 2026-03-25T00:44:42Z
 - [Science-Led Bovine Mastitis Management for Dairy Farmers | Farm Medix](https://www.farmmedix.nz/pages/mastitis-management): Mastitis costs milk, time and peace of mind. Farm Medix delivers lab-grade mastitis diagnostics, expert support and practical herd strategies to br...
-  Updated: 2026-03-24T23:38:20Z
+  Updated: 2026-03-30T20:25:47Z
 - [Bulk-Tank Mastitis Testing | Snapshot®](https://www.farmmedix.nz/pages/mastitis-snapshot): Find the real cause of high SCC and mastitis fast. Snapshot® provides a clear action plan to lower SCC, improve herd health, and boost returns.
-  Updated: 2026-03-24T23:45:19Z
+  Updated: 2026-03-25T00:45:33Z
 - [Sitemap | Farm Medix](https://www.farmmedix.nz/pages/html-sitemap): A complete index of Farm Medix website pages, designed to help search engines crawl and understand all pages visible in Google search results.
   Updated: 2026-02-06T06:44:24Z
 - [Contact Us | Farm Medix](https://www.farmmedix.nz/pages/contactus): Have questions about mastitis solutions, equine leg bands, or farm support? Contact Farm Medix - our team is ready to assist you wherever you are.
@@ -229,7 +232,7 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
 - [Veterinarians Partner with Farm Medix for Mastitis Diagnostics](https://www.farmmedix.nz/pages/veterinary-partners): Partner with Farm Medix for veterinary mastitis diagnostics, lab support, and actionable herd management solutions.
   Updated: 2026-03-24T02:51:16Z
 - [Mastitis Management Explained: From Detection to Action](https://www.farmmedix.nz/pages/mastitis-management-explained): Modern mastitis management goes beyond detection. Learn how alerts become diagnoses, targeted actions, and long-term prevention with Farm Medix.
-  Updated: 2026-03-24T02:49:58Z
+  Updated: 2026-03-30T20:46:36Z
 
 ## Policies
 
