@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-02-08T09:51:34Z
 - Contact Email: Mudassarhussain38021@gmail.com
-- Updated At: 2026-03-24T00:00:39.785Z
+- Updated At: 2026-04-01T00:00:42.446Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/6700/4183/files/S74674dbe29f04a0c9516b612a8ad6da6c.webp?v=1770901131
     Price: €24.50 EUR
 - [Vuria® Heat Box Pro – 60W Electric Lunch Box | 1.5L Stainless Steel | Home & Car](https://www.vuria.it/products/1-5l-60w-electric-portable-lunch-box-food-warmer-leak-proof-food-heater-for-car-or-home-lunch-heating-microwave-for-truckers): Enjoy Hot Meals Anywhere, Anytime. The Vuria Heat Box Pro is a powerful 60W Electric Lunch Box designed for people on the go. Whether you’re driving, at the office, or traveling, you can turn your meal into a hot, fresh dish within minutes. Why Choose Heat Box Pro? 60W Fast Heating Power: Stronger than standard 40W lunch boxes — heats food up to 30% faster.Dual Power Convenience: Includes Home Plug + 12V/24V Car Plug — perfect for office workers, drivers, and travelers.Leak-Proof Secure Lock: Upgraded silicone seals and heavy-duty clips prevent spills and mess.Large 1.5L Stainless Steel Tray: Made from 304 food-grade steel, removable and dishwasher safe.No Microwave Needed: Enjoy warm homemade food anytime without waiting in lines or eating cold meals. Quick Specs:Power: 60W High-EfficiencyVoltage: 110V–220V / 12V–24V (Universal)Material: Food-Grade PP + 304 Stainless SteelPortability: Reinforced Carry Handle + Leak-Proof Lid
-  Updated: 2026-03-05T22:20:16Z
+  Updated: 2026-03-30T10:14:10Z
   Vendor: My Store
   Product Type: 
   Availability: Available
