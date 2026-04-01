@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-06-30T14:48:59Z
 - Contact Email: info@amrneighbors.com
-- Updated At: 2026-03-24T00:00:47.831Z
+- Updated At: 2026-04-01T00:00:47.279Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Picture4_e5c7918c-a1e0-461c-b535-3a0d69f58390.jpg?v=1662905367
   Price: $74.95 USD
 - [Cream Bed Blanket – Queen Size | American Neighbors](https://www.amrneighbors.com/products/cream-blanket-queen-size): Add warmth and vibrancy to your bedroom with this queen-size cream bed blanket by American Neighbors. Crafted from soft, breathable cotton for comfort and style.
-  Updated: 2025-10-19T20:04:07Z
+  Updated: 2026-03-28T23:27:55Z
   Vendor: DOQU home
   Product Type: Blankets
   Availability: Available
@@ -200,7 +200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/https-doquhome-mncdn-com-mnresize-1280-720-img-image-tr-2q9yrgfspm0040000-1.jpg?v=1663683335
   Price: $64.95 USD
 - [White Microfiber Quilt – Queen Size | Soft & Durable Bedding](https://www.amrneighbors.com/products/white-microfiber-quilt-queen-size): Experience comfort with the White Microfiber Quilt (77×85 in). Made from 100% microfiber with 100% fiber fill, it's soft, durable, and easy to maintain.
-  Updated: 2025-10-16T15:10:44Z
+  Updated: 2026-03-26T17:53:47Z
   Vendor: DOQU home
   Product Type: Quilts & Comforters
   Availability: Available
@@ -425,7 +425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/4_fb189c55-c323-456e-8afa-bfb38a346796.jpg?v=1672555922
     Price: $19.99 USD
 - [Red Bath Towel | American Neighbors](https://www.amrneighbors.com/products/red-bath-towel): Refresh your bathroom with this red bath towel from American Neighbors. Soft, absorbent, and designed for everyday spa-style comfort.
-  Updated: 2025-10-25T13:00:23Z
+  Updated: 2026-03-24T07:52:05Z
   Vendor: DOQU home
   Product Type: Towels
   Availability: Available
@@ -572,7 +572,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/IMG_20220923_195006.png?v=1664027171
   Price: $55.00 USD
 - [Colourful Handmade Canvas Painting | American Neighbours](https://www.amrneighbors.com/products/colourful-handmade-painting-arts-6): Enhance your space with this vibrant, handcrafted canvas painting. Framed and ready to hang, it brings a unique touch of artistic craftsmanship to any room.
-  Updated: 2025-10-19T12:17:46Z
+  Updated: 2026-03-24T07:04:55Z
   Vendor: ColorTablo
   Product Type: Paint
   Availability: Available
@@ -670,7 +670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/f28c5cfe-748a-46eb-b0b8-a2a1b0728680_size1856x1856.jpg?v=1664207077
   Price: $29.95 USD
 - [Handmade Rug – 31×59 in | Jute Floor Mat by American Neighbors](https://www.amrneighbors.com/products/rug-double-sided-handmade-1): Shop the 31×59 in Handmade Jute Rug by American Neighbors. Yarn-dyed, eco-friendly jute with no harmful dyes — a stylish and natural touch for any room.
-  Updated: 2025-10-19T11:57:57Z
+  Updated: 2026-03-26T06:46:07Z
   Vendor: Bella Maison
   Product Type: Flooring & Carpet
   Availability: Available
@@ -684,7 +684,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/e7bb223d-781f-44b1-b261-838ffd9f448d_size1856x1856.jpg?v=1664273004
   Price: $44.95 USD
 - [Yellow Nina Kilim Rug | Handmade Flat-Weave Statement Piece](https://www.amrneighbors.com/products/rug-handmade-4): Discover the Yellow Nina Kilim Rug by American Neighbors. Flat-weave, vibrant yellow tones and artisan craftsmanship—perfect for adding style & warmth to any space.
-  Updated: 2025-10-19T11:59:20Z
+  Updated: 2026-03-31T08:15:23Z
   Vendor: Bella Maison
   Product Type: Flooring & Carpet
   Availability: Available
@@ -810,14 +810,14 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/TLS219.jpg?v=1664788977
   Price: $33.00 USD
 - [Stoneware Textured Vase Handmade](https://www.amrneighbors.com/products/stoneware-textured-vase-handmade-5): Shop our exquisite collection of handmade stoneware textured vases. These unique pieces add a touch of artistry and style to your home decor. Discover the perfect vase to elevate your space today.
-  Updated: 2025-07-01T21:38:01Z
+  Updated: 2026-03-30T01:06:38Z
   Vendor: ipek
   Product Type: Sculptures & Statues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/TLS212.jpg?v=1664789179
   Price: $27.00 USD
 - [Stoneware Textured Vase Handmade](https://www.amrneighbors.com/products/stoneware-textured-vase-handmade-6): Shop our exquisite collection of handmade stoneware textured vases. These unique pieces add a touch of artistry and style to your home decor. Discover the perfect vase to elevate your space today.
-  Updated: 2025-07-01T21:38:00Z
+  Updated: 2026-03-24T01:30:14Z
   Vendor: ipek
   Product Type: Sculptures & Statues
   Availability: Available
@@ -1399,7 +1399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Aniseed-Powder01.webp?v=1674321338
   Price: $5.99 USD
 - [Organic Fennel Seed | 0.19 lb](https://www.amrneighbors.com/products/organic-fennel-seed-0-19-lb): Discover the delightful flavor of Organic Fennel Seed | 0.19 lb. Perfect for enhancing your dishes with a hint of sweetness and a subtle licorice-like taste.
-  Updated: 2026-03-13T00:36:28Z
+  Updated: 2026-03-25T17:55:47Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -1412,13 +1412,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Fennel-Powder01.jpg?v=1674321659
   Price: $5.99 USD
-- [Organic Ceylon Cinnamon Sticks from Sri Lanka](https://www.amrneighbors.com/products/organic-ceylon-cinnamon-sticks-0-085-lb): Experience the rich aroma and subtle spiciness of our Organic Ceylon Cinnamon Sticks handcrafted in Sri Lanka. Sourced from the inner bark of cinnamon trees, these Grade C5 cinnamon sticks offer maximum flavor and numerous health benefits. Elevate your meals and well-being with our genuine and sustainable cinnamon sticks today.
-  Updated: 2026-03-22T15:04:12Z
-  Vendor: Holistic Corner
-  Product Type: spices
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/files/Organic-Ceylon-Cinnamon-Sticks-Front.webp?v=1696347773
-  Price: $7.99 USD
 - [American Neighbor's Unisex Cotton-Blend Fleece Hooded Sweatshirt](https://www.amrneighbors.com/products/american-neighbors-unisex-cotton-blend-fleece-hooded-sweatshirt): Discover lasting comfort with the American Neighbor's Unisex Cotton-Blend Fleece Hoodie. Crafted from a premium cotton-poly blend, it offers warmth and breathability. With tearaway tags and double-needle stitching, it's durable yet cozy. Elevate your style effortlessly with this timeless essential.
   Updated: 2025-08-25T15:14:05Z
   Vendor: American Neighbor's
@@ -2102,7 +2095,7 @@
   Updated: 2025-07-01T21:39:57Z
   Total Products: 6
 - [Queen Size - Quilts](https://www.amrneighbors.com/collections/queen-size): Experience elegance and warmth with our queen size quilts. Choose from a variety of designs and materials for a cozy and stylish bedroom.
-  Updated: 2025-09-21T18:01:21Z
+  Updated: 2026-03-27T11:21:53Z
   Total Products: 12
 - [King Size - Quilts](https://www.amrneighbors.com/collections/king-size): Experience luxury and comfort with our king size quilts. Choose from a variety of designs and materials for a stylish and cozy bedroom upgrade.
   Updated: 2025-11-19T12:19:56Z
@@ -2120,16 +2113,16 @@
   Updated: 2025-10-25T13:29:59Z
   Total Products: 6
 - [New Arrivals](https://www.amrneighbors.com/collections/new-arrivals): Discover the latest trends and must-have products in our New Arrivals collection. Stay stylish and up-to-date with our newest additions.
-  Updated: 2026-03-23T11:18:08Z
+  Updated: 2026-03-27T11:21:53Z
   Total Products: 267
 - [Living Room](https://www.amrneighbors.com/collections/living-room): Enhance your living room with our collection of rugs, vases, paintings, candles, TV blankets, and cushions. Elevate comfort and style.
   Updated: 2025-11-23T12:17:00Z
   Total Products: 60
 - [Bed Room](https://www.amrneighbors.com/collections/bed-room): Transform your bedroom into a cozy sanctuary with our collection of bed sheets, candles, quilts, slippers, blankets, pillows, and rugs. Create comfort and style.
-  Updated: 2025-11-19T12:19:56Z
+  Updated: 2026-03-27T11:21:53Z
   Total Products: 87
 - [Quilts](https://www.amrneighbors.com/collections/quilts): Discover the beauty and warmth of our Quilts collection. Meticulously crafted designs that add charm and comfort to your living space.
-  Updated: 2025-11-19T12:19:56Z
+  Updated: 2026-03-27T11:21:53Z
   Total Products: 23
 - [Bath Robe](https://www.amrneighbors.com/collections/b-robe): Experience ultimate comfort and luxury with our bath robes. Wrap yourself in softness and relaxation after every bath or shower.
   Updated: 2026-03-20T11:21:28Z
@@ -2177,13 +2170,13 @@
   Updated: 2025-07-01T21:37:02Z
   Total Products: 6
 - [Recommended products (Seguno)](https://www.amrneighbors.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-03-23T11:18:08Z
-  Total Products: 227
+  Updated: 2026-03-27T11:21:53Z
+  Total Products: 226
 - [Holistic Corner](https://www.amrneighbors.com/collections/holistic-corner): Nourish your body and elevate your well-being with our Holistic Corner collection. Discover wholesome grains, herbs, snacks, and spices for a healthy lifestyle.
-  Updated: 2026-03-23T11:18:08Z
+  Updated: 2026-03-26T11:21:17Z
   Total Products: 33
 - [Spices](https://www.amrneighbors.com/collections/spices): Discover a world of flavor with our exquisite collection of spices. Elevate your culinary creations and delight your taste buds.
-  Updated: 2026-03-23T11:18:08Z
+  Updated: 2026-03-26T11:21:17Z
   Total Products: 18
 - [Herbs](https://www.amrneighbors.com/collections/herbs): Enhance your culinary creations with our aromatic and flavorful herb collection. Explore a world of fresh flavors and elevate your dishes.
   Updated: 2026-03-10T11:37:17Z
