@@ -6,12 +6,12 @@
 - Timezone: Asia/Singapore
 - Created At: 2025-05-08T03:29:25Z
 - Contact Email: marketing@sevencleanseas.com
-- Updated At: 2026-03-25T00:00:45.591Z
+- Updated At: 2026-04-02T00:00:46.807Z
 
 ## Products
 
 - [Organic Cotton T Shirts – Limited Edition OG Yellow Tee](https://shop.sevencleanseas.com/products/organic-cotton-t-shirts-impact-5-tee): Organic cotton t shirts made from GOTS  cotton. This limited edition tee celebrates ocean cleanup milestones and ethical production.
-  Updated: 2026-02-13T16:46:26Z
+  Updated: 2026-03-31T16:28:20Z
   Vendor: Seven Clean Seas
   Product Type: T-Shirts
   Availability: Available
@@ -45,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/mockup-e16618b0dfd3f7a9aa7ab9fb781a22c2.png?v=1755057062
     Price: $24.99 USD
 - [Organic Cotton T Shirts – OG White Sustainable Tee](https://shop.sevencleanseas.com/products/organic-cotton-t-shirts-impact-lite-tee): Organic cotton t shirts made from GOTS  cotton. This special edition tee celebrates ocean cleanup milestones and ethical production.
-  Updated: 2026-02-13T23:25:38Z
+  Updated: 2026-03-31T16:30:10Z
   Vendor: Seven Clean Seas
   Product Type: T-Shirts
   Availability: Available
@@ -91,7 +91,7 @@
     Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/mockup-a33dad077d4bc06de3889e193bc68247.png?v=1755056826
     Price: $24.99 USD
 - [Organic Cotton T Shirts – Sea Turtle Graphic Drift Tee](https://shop.sevencleanseas.com/products/organic-cotton-t-shirts-drift-tee): Organic cotton t shirts inspired by ocean conservation. This sea turtle graphic tee supports cleaner oceans and is made from GOTS  organic cotton.
-  Updated: 2026-02-13T03:19:27Z
+  Updated: 2026-03-31T16:30:49Z
   Vendor: Seven Clean Seas
   Product Type: T-Shirts
   Availability: Available
@@ -125,14 +125,14 @@
     Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/mockup-a1ae89513d2ba3c157968ddcf662f970.png?v=1755153429
     Price: $24.99 USD
 - [Tote Bag – Utility Canvas Tote Bag for Everyday Carry](https://shop.sevencleanseas.com/products/utility-tote-bag): Tote bag designed for daily use. This utility canvas tote bag features laptop storage, multiple pockets, and supports ocean plastic removal.
-  Updated: 2026-03-11T03:33:06Z
+  Updated: 2026-03-31T16:30:49Z
   Vendor: Seven Clean Seas
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/BRY005162.jpg?v=1753940818
   Price: $19.99 USD
 - [Eco Friendly Carabiner Clips from Recycled Plastic](https://shop.sevencleanseas.com/products/recycled-carabiners): Stay organized with our versatile carabiners clips! Clip, carry, and hang your essentials with ease. Perfect for your everyday adventures!
-  Updated: 2026-03-04T18:10:22Z
+  Updated: 2026-03-31T16:31:32Z
   Vendor: Seven Clean Seas
   Product Type: Carabiners
   Availability: Available
@@ -159,21 +159,21 @@
     Availability: Available
     Price: $12.99 USD
 - [Eco Friendly Insulated Stainless Steel Tumbler With Handle](https://shop.sevencleanseas.com/products/clean-cup): Stay hydrated with our insulated stainless steel tumbler with handle. Durable, stylish, and eco-friendly—every purchase helps remove ocean plastic.
-  Updated: 2026-02-16T21:01:33Z
+  Updated: 2026-03-31T16:31:44Z
   Vendor: Seven Clean Seas
   Product Type: Bottles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/ClutchBottle.jpg?v=1755144503
   Price: $29.99 USD
 - [Stainless Steel Tumbler with Handle – Sippy Reusable Cup (32 oz)](https://shop.sevencleanseas.com/products/clean-bottle-coral): Stainless steel tumbler with handle designed for everyday hydration. Reusable, BPA-free, and spill-resistant. Each purchase removes 15 kg of ocean plastic.
-  Updated: 2026-02-13T01:51:31Z
+  Updated: 2026-03-31T16:31:44Z
   Vendor: Seven Clean Seas
   Product Type: Bottles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7113/6176/files/SippyBottle_1.jpg?v=1754903839
   Price: $24.99 USD
 - [Eco Recycled Plastic Coaster Set | Sustainable Homeware](https://shop.sevencleanseas.com/products/recycled-coasters): Protect your surfaces with our recycled plastic coaster set made from 100% ocean-bound plastic. Each set includes four unique coasters crafted sustainably in our materials recovery facility.
-  Updated: 2026-03-04T18:10:22Z
+  Updated: 2026-03-31T16:32:30Z
   Vendor: Seven Clean Seas
   Product Type: Coasters
   Availability: Available
@@ -200,7 +200,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Stainless Steel Tumbler with Handle – Reusable Drinkware (32 oz)](https://shop.sevencleanseas.com/products/clean-bottle-carbon): Stainless steel tumbler with handle designed for everyday hydration. Reusable, BPA-free, and spill-resistant. Each purchase removes 15 kg of ocean plastic.
-  Updated: 2026-02-12T19:31:09Z
+  Updated: 2026-03-31T16:32:36Z
   Vendor: Seven Clean Seas
   Product Type: Bottles
   Availability: Available
@@ -213,7 +213,7 @@
   Updated: 2026-02-13T02:22:40Z
   Total Products: 6
 - [Accessories](https://shop.sevencleanseas.com/collections/accessories)
-  Updated: 2026-03-11T11:37:26Z
+  Updated: 2026-03-27T11:25:46Z
   Total Products: 6
 - [Digital Goods VAT Tax](https://shop.sevencleanseas.com/collections/digital-goods-vat-tax)
   Updated: 2025-07-10T11:46:22Z
@@ -225,7 +225,7 @@
   Updated: 2026-03-05T01:36:17Z
   Total Products: 1
 - [Featured Products (Manually Selected)](https://shop.sevencleanseas.com/collections/featured-products-manually-selected)
-  Updated: 2026-03-11T11:37:26Z
+  Updated: 2026-03-27T11:25:46Z
   Total Products: 10
 
 ## Blogs
