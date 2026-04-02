@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-01-06T00:09:01Z
 - Contact Email: christine@amiepads.ca
-- Updated At: 2026-03-26T08:00:27.976Z
+- Updated At: 2026-04-02T12:00:26.381Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_5601.jpg?v=1613177222
   Price: $119.00 CAD
 - [Basic Reusable Pad Starter Set | Cloth Pads](https://amiepads.ca/products/basic-reusable-pad-starter-set): Looking to start using reusable pads right away without having to wrap your head around which ones to choose?!  This basic starter set will be a fabulous beginning to your reusable pad journey to help you narrow down your faves.  Click over to learn more!
-  Updated: 2026-03-13T13:40:24Z
+  Updated: 2026-03-27T15:52:47Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_5600.jpg?v=1613178481
   Price: $235.00 CAD
 - [Interlabial Pad Boosters](https://amiepads.ca/products/interlabial-pad-boosters): Reusable interlabial pad boosters (set of 5 or 10) for periods or bladder leaks. Worn between the labia to slow and direct flow. Learn how they can help.
-  Updated: 2026-03-12T04:45:57Z
+  Updated: 2026-04-01T20:30:31Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/12_inch_pad_marbleverse_21eed927-5406-4e5c-87e7-319aa0a1ad6c.jpg?v=1628208807
     Price: $23.00 CAD
 - [Pad Wrapper | Mini Wet Bag | Reusable Pads](https://amiepads.ca/products/pad-wrapper-mini-wet-bag): Cloth on the go is a easy-peasy with this little pad wrapper tucked into your purse or bag!  Simply take a clean pad with you and place the soiled one back in the pouch for easy transport home.  Click over to check out how easy reusable pads can be!
-  Updated: 2026-02-27T14:39:36Z
+  Updated: 2026-03-27T23:07:46Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -127,7 +127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_4159.jpg?v=1613095768
     Price: $7.00 CAD
 - [Small Wet Bag | Reusable Pads on the Go](https://amiepads.ca/products/small-wet-bag): Looking for something quick and easy to toss in your purse or backpack? This little guy has a waterproof inner layer, a zipper closure and will hold 2 pads. You can take along a clean pad and bring home a soiled one. Click over to see lots of other ideas for making your life easier with these wet bags!
-  Updated: 2026-02-24T03:29:07Z
+  Updated: 2026-03-29T21:06:16Z
   Vendor: Amie Reusable Pads
   Product Type: Diaper Wet Bags
   Availability: Available
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/small_wet_bag_Citrus.jpg?v=1755125431
     Price: $9.50 CAD
 - [Medium Wet Bag | Reusable Pad Storage](https://amiepads.ca/products/medium-wet-bag): Looking for something to hold your cloth pads when you are away for the day or overnight?  This bag is perfect for holding 4-6 pads and both a wet and dry pocket,  which will fit easily into your backpack making reusables on the go a breeze! Click over to see!
-  Updated: 2026-03-16T13:04:56Z
+  Updated: 2026-04-01T19:40:26Z
   Vendor: Amie Reusable Pads
   Product Type: Diaper Wet Bags
   Availability: Available
@@ -195,7 +195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/wildflowers_medium_wet_bag.png?v=1771873728
     Price: $15.00 CAD
 - [Large Wet Bag | Reusable Pads](https://amiepads.ca/products/large-wet-bag): Where do you put your soiled pads during your cycle while they await washing?  Made by our friends at Colibri Canada, this bag will hold a whole cycle's worth of pads and features both a larger waterproof pocket and a second dry pocket, both with zipper closures. Click over to see!
-  Updated: 2026-02-23T19:14:51Z
+  Updated: 2026-03-29T14:12:37Z
   Vendor: Amie Reusable Pads
   Product Type: Diaper Wet Bags
   Availability: Available
@@ -221,7 +221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_Penny_Lane.jpg?v=1771874091
     Price: $30.00 CAD
   - [citrus](https://amiepads.ca/products/large-wet-bag?variant=46783718883502)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_Citrus.jpg?v=1755125139
     Price: $30.00 CAD
   - [abby rose](https://amiepads.ca/products/large-wet-bag?variant=46783718916270)
@@ -233,7 +233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_whispering_pine.png?v=1771874091
     Price: $30.00 CAD
 - [Reusable Liner Surprise Bundle | Washable Pantyliners](https://amiepads.ca/products/reusable-liner-surprise-bundle): Love surprises and love reusables?!  Then, you'll love this set of four reusable liners in surprise prints. Come on over to see for yourself!
-  Updated: 2026-03-12T16:27:59Z
+  Updated: 2026-03-27T09:04:22Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -372,526 +372,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_5542.png?v=1613267206
     Price: $23.00 CAD
-- [Secret  Long Heavy Absorbency Reusable Pads](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads): You will love our heavy absorbency reusable pads handmade with love, these pads have excellent absorbency and will serve you well on your heavier cycle days or for mild to heavy bladder incontinence. Visit our site for more info!
-  Updated: 2026-03-20T19:07:12Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/FlowerStickerresizedforFBProfileImage_3e2fd5b9-25d1-47c9-9182-0f3c2194ab33.png?v=1695558734
-  - [twinkle](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=46891631181998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6892-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [fireworks](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087634606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6908-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [gnome](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087667374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6906-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [planting time](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087700142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6907-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [antique bouquet](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087732910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6905-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [purple galaxy](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087765678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6899-Photoroom.png?v=1773779433
-    Price: $19.00 CAD
-  - [vintage fungi](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087798446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6891-Photoroom_1ce88ae1-38d1-4d13-aacd-63c5fb7d5e8a.png?v=1773779447
-    Price: $19.00 CAD
-  - [yule floral](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087831214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6898-Photoroom.png?v=1773779433
-    Price: $19.00 CAD
-  - [monstera](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087863982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6890-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [black & white floral](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087896750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6897-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [iris](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087929518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6896-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [summer gnome](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087962286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6904-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [pineapple](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643087995054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6903-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [Canadiana](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088027822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6895-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [red star](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088060590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6902-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [moody floral](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088093358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6889-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [purple pineapple](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088126126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6894-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [neon monstera](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088158894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6901-Photoroom.png?v=1773779433
-    Price: $19.00 CAD
-  - [navy floral](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088191662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6893-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [nature study](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088224430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6846-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-  - [bloom](https://amiepads.ca/products/secret--long-heavy-absorbency-reusable-pads?variant=47643088257198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6900-Photoroom.png?v=1773779447
-    Price: $19.00 CAD
-- [Secret  Extra Long Heavy Absorbency Reusable Pads](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads): You will love our heavy absorbency reusable pads handmade with love, these pads have excellent absorbency and will serve you well on your heavier cycle days or for mild to heavy bladder incontinence. Visit our site for more info!
-  Updated: 2026-03-20T19:08:30Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/FlowerStickerresizedforFBProfileImage_368039fd-d5b9-4ec3-b9e4-b44190bfa47b.png?v=1695558539
-  - [twinkle](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=46891237703854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6838-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [nature study](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066564782)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6845-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [sketchy mushroom](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066597550)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6833-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [iris](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066630318)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6834-Photoroom.png?v=1773779315
-    Price: $22.00 CAD
-  - [sketchy flower](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066663086)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6839-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [winter pine](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066695854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6840-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [painted flower](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066728622)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6835-Photoroom.png?v=1773779315
-    Price: $22.00 CAD
-  - [pineapple](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066761390)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6836-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [antique bouquet](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066794158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6841-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [navy floral](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066826926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6843-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-  - [monstera](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066859694)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Photoroom_20260317_131107.jpg?v=1773779315
-    Price: $22.00 CAD
-  - [vintage fungi](https://amiepads.ca/products/secret--extra-long-heavy-absorbency-reusable-pads?variant=47643066892462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6842-Photoroom.png?v=1773779088
-    Price: $22.00 CAD
-- [Secret  Standard Short Liners](https://amiepads.ca/products/secret--standard-short-liners): Trim, discreet and comfy, Amie Reusable Pantyliners, are the perfect zero-waste solution for for menstrual cup back-up or daily wear. Click to check us out!
-  Updated: 2026-03-21T06:56:53Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/FlowerStickerresizedforFBProfileImage_d25af409-3a3a-46f8-a176-066151472905.png?v=1757701116
-  - [purple pineapple](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059552430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6974-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [painted flower](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059585198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6973-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [winter pine](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059617966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6972-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [sketchy floral](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059650734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6971-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [monstera](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059683502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6970-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [halloween](https://amiepads.ca/products/secret--standard-short-liners?variant=46891250155694)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Photoroom_013_20250916_171322.jpg?v=1773778455
-    Price: $8.00 CAD
-  - [summer gnome](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059716270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6968-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [nerdy flamingo](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059749038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6967-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [moody floral](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059781806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6966-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [purple galaxy](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059814574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6965-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [twinkle](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059847342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6963-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [red star](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059880110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6962-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [vintage fungi](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059912878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6961-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [piggies](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059945646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6960-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [bloom](https://amiepads.ca/products/secret--standard-short-liners?variant=47643059978414)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6959-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [yule floral](https://amiepads.ca/products/secret--standard-short-liners?variant=47643060011182)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6958-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [nature study](https://amiepads.ca/products/secret--standard-short-liners?variant=47643060043950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6957-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [navy floral](https://amiepads.ca/products/secret--standard-short-liners?variant=47643060076718)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6956-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-  - [pastel succulents](https://amiepads.ca/products/secret--standard-short-liners?variant=47643060109486)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6964-Photoroom.png?v=1773778455
-    Price: $8.00 CAD
-- [Secret  Light Absorbency Reusable Pads](https://amiepads.ca/products/secret--light-absorbency-reusable-pads): Are you looking for some lighter protection that won't be overkill? Our light absorbency reusable pads are going to be right up your alley! Terrific menstrual cup back-up or protection on your lighter flow days, our signature shape offers exceptional wing-coverage.  Come on over to see for yourself!
-  Updated: 2026-03-18T15:01:56Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/FlowerStickerresizedforFBProfileImage_f7f67f9d-2dec-4bb3-a6b9-3e7fa049f496.png?v=1711565789
-  - [sketchy floral](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=46891261526190)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6953-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [summer gnome](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=46891264114862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6954-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [piggies](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=46891264147630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6952-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [twinkle](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643045363886)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6951-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [nature study](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=46891264540846)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6950-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [periodic table](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643042873518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6948-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [snowman](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643042906286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6947-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [tie dye](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643042939054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6946-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [yule floral](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643042971822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6945-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [planting time](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043004590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6944-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [sleeping fox](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043037358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6943-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [vintage fungi](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043070126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6942-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [sketchy mushroom](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043102894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6938-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [watercolour floral](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043135662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6937-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [purple galaxy](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043168430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6936-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [iris](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043201198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6935-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [monstera](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043233966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6934-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [moody floral](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043266734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6941-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [bloom](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043299502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6949-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [flamingo](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043332270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6940-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [purple pineapple](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043365038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6939-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [sage cactus](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043397806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6933-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-  - [kiwi](https://amiepads.ca/products/secret--light-absorbency-reusable-pads?variant=47643043430574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6932-Photoroom.png?v=1773777810
-    Price: $12.00 CAD
-- [Moderate Absorbency Reusable Pads: Secret ](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads): Moderate absorbency pads are a fabulous place to start either for light incontinence or for your period. Check out our awesome  on terrific prints!
-  Updated: 2026-03-18T14:29:14Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/FlowerStickerresizedforFBProfileImage_4ea4f28b-475d-4516-a3c1-d78459b6af44.png?v=1695558865
-  - [sushi cat](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=46891379032238)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6917-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [iris](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013447854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6916-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [planting time](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013480622)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6915-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [monstera](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013513390)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6914-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [moody floral](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013546158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6913-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [sketchy floral](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013578926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6912-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [nature study](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013611694)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6923-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [summer gnome](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013644462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6922-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [painted flower](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013677230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6921-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [navy floral](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643030978734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6931-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [nerdy flamingo](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013709998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6930-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [twinkle](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013742766)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6929-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [pastel succulent](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013775534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6920-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [vintage fungi](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013808302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6911-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [neon monstera](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013841070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6910-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [yule floral](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013873838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6928-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [piggies](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013906606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6919-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [bloom](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013939374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6927-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [pineapple](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643013972142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6909-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [black & white floral](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643014004910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6926-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [purple galaxy](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643014037678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6918-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [purple pineapple](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643014070446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6925-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-  - [winter pine](https://amiepads.ca/products/secret--standard-moderate-absorbency-reusable-pads?variant=47643014103214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6924-Photoroom.png?v=1773777093
-    Price: $15.00 CAD
-- [Moderate Absorbency Reusable Pads: Geo Floral](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads): If you are new to reusable pads and prefer to choose some à la carte instead of buying a kit, you will probably want to start here, with our moderate absorbency pads.  Click over to bring a little fabulous to your period!
-  Updated: 2026-03-18T14:51:07Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/FlowerStickerresizedforFBProfileImage_05cfb96b-eabf-42cf-a983-0777c2277bd3.png?v=1695558849
-  - [nerdy flamingo](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=46891498438830)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6997-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [nature study](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=46891498504366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6996-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [butterfly](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=46891498569902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6995-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [iris](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=46891498832046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6994-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [vintage fungi](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991362222)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6891-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [moody floral](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991394990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6992-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [summer gnome](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991427758)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6991-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [neon monstera](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991460526)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6990-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [black & white floral](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991493294)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6985-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [navy floral](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991526062)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6984-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [red star](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991558830)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6983-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [purple galaxy](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991591598)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6982-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [sketchy floral](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991624366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6981-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [bloom](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991657134)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6989-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [purple pineapple](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991689902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6980-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [antique bouquet](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991722670)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6979-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [yule floral](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991755438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6988-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [pineapple](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991788206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6978-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [fireworks](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991820974)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6987-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [monstera](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991853742)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6977-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [sage cactus](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991886510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6976-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [twinkle](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991919278)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6986-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
-  - [Canadiana](https://amiepads.ca/products/secret--long-moderate-absorbency-reusable-pads?variant=47642991952046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_6975-Photoroom.png?v=1773776496
-    Price: $16.50 CAD
 - [Postpartum/Super Absorbency Reusable Pads](https://amiepads.ca/products/reusable-postpartum-pads): Our Reusable Postpartum Pads will have you literally covered for just about anything you can throw at them! These are topped with undyed bamboo velour, which handles gushy flow very well, perfect for postpartum use, for very heavy menstrual bleeding or heavy-moderate incontinence.  Come on over to see for yourself!
   Updated: 2026-03-23T23:29:47Z
   Vendor: Amie Reusable Pads
@@ -905,7 +385,7 @@
     Availability: Available
     Price: $235.00 CAD
 - [Heavy Absorbency Reusable Pads | Wicking Jersey](https://amiepads.ca/products/heavy-absorbency-reusable-pads-amie-active): Athletic topped, super-easy care, heavy absorbency reusable pads with a stay-dry, stay-cool feel, even after exercising or in the summer heat. Amie Active pads are stain resistant, meaning there is no need to soak soiled pads. Just toss them in the washer with your regular laundry.  Visit our site for more info!
-  Updated: 2026-03-13T19:48:17Z
+  Updated: 2026-03-27T00:47:35Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -925,7 +405,7 @@
     Availability: Available
     Price: $115.00 CAD
 - [Moderate Reusable Pads | Athletic Wicking Jersey](https://amiepads.ca/products/moderate-absorbency-reusable-pads-amie-active): Athletic topped, super-easy care, moderate absorbency reusable pads with a stay-dry, stay-cool feel, even after exercising or in the summer heat. Our black wicking jersey is stain resistant, meaning there is no need to soak soiled pads. Just toss them in the washer with your regular laundry.  Visit our site for more info!
-  Updated: 2026-03-03T13:22:16Z
+  Updated: 2026-03-27T15:26:37Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -989,15 +469,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/AmieActive-27resized2048.jpg?v=1623270099
   Price: $63.00 CAD
-- [Pad Wrapper](https://amiepads.ca/products/secret--pad-wrapper-mini-wet-bag): Cloth on the go is a easy-peasy with this little pad wrapper tucked into your purse or bag!  Simply take a clean pad with you and place the soiled one back in the pouch for easy transport home.  Click over to check out how easy reusable pads can be!
-  Updated: 2026-03-18T14:40:21Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Amieflowersticker-whitewithtransparentbackground.png?v=1773775883
-  Price: $3.50 CAD
 - [Reusable Pad Set | Periods | Bladder Incontinence](https://amiepads.ca/products/single-absorbency-reusable-pad-starter-sets): Looking to start using reusable pads but only need one absorbency?!  Whether you want washable incontinence pads for bladder leaks or reusable period pads. This is the place for you!
-  Updated: 2026-03-20T11:55:47Z
+  Updated: 2026-03-27T20:33:29Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1167,7 +640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_9465.jpg?v=1658173301
     Price: $31.00 CAD
 - [Reusable Pad Set | New Prints](https://amiepads.ca/products/new-prints-reusable-pads-sampler-sets): Reusable pad set for periods or bladder leaks. Choose your absorbency and get 4 pads in our newest prints—Water Lily, Dragonfly, and more. Come on over and try them today!
-  Updated: 2026-03-15T15:15:13Z
+  Updated: 2026-03-29T18:52:07Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1197,14 +670,14 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/new_prints_sampler_set_liners.png?v=1753717846
     Price: $45.00 CAD
 - [Reusable Pad Drying Strap | Periods | Incontinence](https://amiepads.ca/products/pad-drying-strap): Caring for your reusable pads is super-easy. You can put them in the washer and dryer if you like, but if you like to hang them to dry, this handy-dandy drying strap is sure to be your new BFF. Click to check it out!
-  Updated: 2026-03-20T20:38:12Z
+  Updated: 2026-04-01T19:40:26Z
   Vendor: Amie Pads
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_1704.jpg?v=1685989399
   Price: $6.00 CAD
 - [Reusable Pad Set | Floral Prints](https://amiepads.ca/products/floral-prints-reusable-pads-sampler-sets): Love florals and looking to start using reusable pads but only need one absorbency? Whether you want washable incontinence pads for bladder leaks or reusable period pads...this is the place for you!
-  Updated: 2026-03-22T00:54:48Z
+  Updated: 2026-03-29T18:52:18Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1290,7 +763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_2236.jpg?v=1698008315
     Price: $23.00 CAD
 - [Heavy Absorbency Reusable Pads: Hydrangea](https://amiepads.ca/products/heavy-absorbency-reusable-pads-hydrangea): In a beautiful hydrangea print, our heavy absorbency reusable pads, with excellent absorbency to serve you well on your heavier cycle days or for moderate to heavy bladder incontinence. Visit our site for more info!
-  Updated: 2025-11-13T00:27:49Z
+  Updated: 2026-03-29T18:52:18Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1304,7 +777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_2238.jpg?v=1698008508
     Price: $31.00 CAD
 - [Heavy Absorbency Reusable Pads: Pansy](https://amiepads.ca/products/heavy-absorbency-reusable-pads-pansy): In a stunning pansy print, you'll love our heavy absorbency reusable pads, with excellent absorbency to serve you well on your heavier cycle days or for moderate to heavy bladder incontinence. Visit our site for more info!
-  Updated: 2026-03-10T01:10:27Z
+  Updated: 2026-03-29T18:52:06Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1360,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/extra_long_mushroom.png?v=1731446245
     Price: $31.00 CAD
 - [Active Reusable Pad Set | Periods | Bladder Incontinence](https://amiepads.ca/products/amie-active-single-absorbency-reusable-pad-starter-set): Looking to start using reusable pads but only need one absorbency?!  You'll love this set of our easy-care Amie Active pads for bladder leaks or periods.
-  Updated: 2026-03-12T04:45:57Z
+  Updated: 2026-03-27T20:33:29Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1386,7 +859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/amie_active_extra_long_reusable_pad_set.png?v=1747069576
     Price: $115.00 CAD
 - [Reusable Liner - Amie Active Dragonfly](https://amiepads.ca/products/reusable-liner-amie-active-dragonfly): Stay-dry, stay-cool reusable liners in our sporty Dragonfly print. Stain-resistant, breathable, and easy to wash—perfect for daily freshness, cup back-up, or tiny bladder leaks.
-  Updated: 2026-02-13T21:29:36Z
+  Updated: 2026-04-01T19:40:27Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1400,7 +873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/dragonfly_liner.png?v=1751302381
     Price: $45.00 CAD
 - [Light Absorbency Reusable Pads – Amie Active Dragonfly](https://amiepads.ca/products/light-absorbency-reusable-pads-amie-active-dragonfly): Stay-cool, stay-dry light absorbency pads—perfect for cup backup, light flow, or minor bladder leaks. Athletic top, no soak needed, just wash and reuse.
-  Updated: 2026-02-07T15:43:56Z
+  Updated: 2026-04-01T19:40:26Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1414,7 +887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/dragonfly_light.png?v=1751302615
     Price: $66.50 CAD
 - [Moderate Reusable Pads | Athletic Wicking Jersey](https://amiepads.ca/products/moderate-absorbency-reusable-pads-amie-active-dragonfly): Reusable pads for moderate flow or light incontinence. Cool, dry feel with a sporty dragonfly print. No soaking—just wash and reuse. Try them today.
-  Updated: 2026-03-16T18:33:26Z
+  Updated: 2026-03-28T14:45:26Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1436,7 +909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/dragonfly_long.png?v=1755734273
     Price: $87.00 CAD
 - [Heavy Absorbency Reusable Pads | Wicking Jersey | Dragonfly](https://amiepads.ca/products/heavy-absorbency-reusable-pads-amie-active-dragonfly): Reusable pads for heavy periods or moderate bladder leaks. Cool, dry, and highly absorbent with no soaking needed. Feel confident—try them today.
-  Updated: 2026-03-04T00:08:37Z
+  Updated: 2026-03-27T15:52:49Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1500,7 +973,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/water_lily_extra-long.png?v=1755734604
     Price: $31.00 CAD
 - [Active Reusable Pad Set - Dragonfly | Periods | Bladder Incontinence](https://amiepads.ca/products/amie-active-dragonfly-single-absorbency-reusable-pad-starter-set): Looking to start using reusable pads but only need one absorbency?!  You'll love this set of our easy-care Amie Active pads for bladder leaks or periods in a fabulous dragonfly print!
-  Updated: 2026-03-11T03:32:56Z
+  Updated: 2026-03-30T15:02:12Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1525,6 +998,58 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/dragonfly_active_extra_long_set.png?v=1770654592
     Price: $115.00 CAD
+- [Amie Active Reusable Pad Incontinence Essentials Set](https://amiepads.ca/products/amie-active-reusable-pad-incontinence-essentials-set): Everything you need for reusable pad bladder leak protection — 7 pads, two wet bags, a drying strap, and more. Easy-care Amie Active black starter kit.
+  Updated: 2026-04-02T00:06:21Z
+  Vendor: Amie Reusable Pads
+  Product Type: Feminine Sanitary Supplies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/standard_amie_active_incontinence_essentials_set.png?v=1774643854
+  - [Light](https://amiepads.ca/products/amie-active-reusable-pad-incontinence-essentials-set?variant=47668787904686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/light_amie_active_incontinence_essentials_set.png?v=1774643854
+    Price: $162.00 CAD
+  - [Standard Moderate](https://amiepads.ca/products/amie-active-reusable-pad-incontinence-essentials-set?variant=47668787937454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/standard_amie_active_incontinence_essentials_set.png?v=1774643854
+    Price: $183.00 CAD
+  - [Long Moderate](https://amiepads.ca/products/amie-active-reusable-pad-incontinence-essentials-set?variant=47668787970222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/long_amie_active_incontinence_essentials_set.png?v=1774643854
+    Price: $197.00 CAD
+  - [Long Heavy](https://amiepads.ca/products/amie-active-reusable-pad-incontinence-essentials-set?variant=47668788002990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/long_amie_active_incontinence_essentials_set.png?v=1774643854
+    Price: $228.00 CAD
+  - [Extra-Long Heavy](https://amiepads.ca/products/amie-active-reusable-pad-incontinence-essentials-set?variant=47668788035758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/extra_long_amie_active_incontinence_essentials_set.png?v=1774643854
+    Price: $250.00 CAD
+- [Floral Print Incontinence Essentials Reusable Pad Set](https://amiepads.ca/products/floral-print-reusable-pad-incontinence-essentials-set): A complete reusable pad starter kit for bladder leaks, in gorgeous floral prints. 7 pads, two wet bags, a drying strap, and more — all in one place.
+  Updated: 2026-04-02T00:05:53Z
+  Vendor: Amie Reusable Pads
+  Product Type: Feminine Sanitary Supplies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Standard_Floral_Incontinence_Essentials_Set.png?v=1774643649
+  - [Light](https://amiepads.ca/products/floral-print-reusable-pad-incontinence-essentials-set?variant=47668799078574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/light_floral_incontinence_essentials_set.png?v=1774643649
+    Price: $162.00 CAD
+  - [Standard Moderate](https://amiepads.ca/products/floral-print-reusable-pad-incontinence-essentials-set?variant=47668799111342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Standard_Floral_Incontinence_Essentials_Set.png?v=1774643649
+    Price: $183.00 CAD
+  - [Long Moderate](https://amiepads.ca/products/floral-print-reusable-pad-incontinence-essentials-set?variant=47668799144110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Long_Floral_Incontinence_Essentials_Set.png?v=1774643649
+    Price: $197.00 CAD
+  - [Long Heavy](https://amiepads.ca/products/floral-print-reusable-pad-incontinence-essentials-set?variant=47668799176878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Long_Floral_Incontinence_Essentials_Set.png?v=1774643649
+    Price: $228.00 CAD
+  - [Extra-Long Heavy](https://amiepads.ca/products/floral-print-reusable-pad-incontinence-essentials-set?variant=47668799209646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Extra-Long_Floral_Incontinence_Essentials_Set.png?v=1774643649
+    Price: $250.00 CAD
 
 ## Collections
 
@@ -1532,28 +1057,28 @@
   Updated: 2022-09-22T16:20:27Z
   Total Products: 0
 - [Reusable Pantyliners](https://amiepads.ca/collections/reusable-pantyliners): Can't stop buying reusable pads?! Reusable liners to the rescue!! You can wear them every day!! Collect them all!!!
-  Updated: 2026-03-23T11:12:49Z
+  Updated: 2026-04-02T11:17:16Z
   Total Products: 25
 - [Heavy Absorbency Reusable Pads](https://amiepads.ca/collections/heavy-absorbency-reusable-pads): You know...we can't all be that girl who has the oh-so-barely-there monthly cycle. Humpf to her, anyway! Some of us need a pad with a little more fortitude.
-  Updated: 2026-03-26T01:30:49Z
+  Updated: 2026-03-31T11:15:16Z
   Total Products: 36
 - [Light Absorbency Reusable Pads](https://amiepads.ca/collections/light-absorbency-reusable-pads): We'll make this short and light, just like our light absorbency pads. Get it?! 😂
-  Updated: 2026-03-26T01:30:49Z
+  Updated: 2026-04-02T11:17:16Z
   Total Products: 36
 - [Moderate Absorbency Reusable Pads](https://amiepads.ca/collections/moderate-absorbency-reusable-pads): Looking for a good ol' middle of the road place to start with your reusable pads? You have arrived...right here in the middle of the reusable pad absorbency road...Huh?!
-  Updated: 2026-03-26T01:30:49Z
+  Updated: 2026-03-31T11:15:16Z
   Total Products: 49
 - [Postpartum/Super Absorbency Pads](https://amiepads.ca/collections/postpartum-pads): Colossal postpartum flow, super-heavy period flow or heavy-moderate bladder incontinence? These beefy and awesome pads have got your backside!
   Updated: 2026-03-24T11:14:05Z
   Total Products: 3
 - [Starter Sets | Exceptional Reusable Pads](https://amiepads.ca/collections/starter-kits-and-sets): Do we have so many awesome choices that it is giving you decision-fatigue?! No worries!! We understand. Check out our starter sets and let us do the choosing for you.
-  Updated: 2026-03-26T01:30:49Z
+  Updated: 2026-03-31T11:15:16Z
   Total Products: 15
 - [Newest Releases | Reusable Pads](https://amiepads.ca/collections/newest-releases): Whether reusable pads for periods or washable pads for incontinence, build your stash with our freshest awesomeness right here!  Click to drool over them all!
-  Updated: 2026-03-26T01:30:49Z
+  Updated: 2026-04-02T11:17:16Z
   Total Products: 37
 - [Wet Bags and Accessories](https://amiepads.ca/collections/wet-bags): Wondering how to make your cloth pads effortless on the go?! Great wetbags are your answer! Available in four sizes, these wetbags will take you and your cloth pads wherever you want to go without any fuss. Click over to see for yourself!
-  Updated: 2026-03-21T11:13:10Z
+  Updated: 2026-04-02T11:17:16Z
   Total Products: 8
 - [Custom Orders: For Members of the WWC Private Facebook Group Only](https://amiepads.ca/collections/custom-orders-for-members-of-the-wwc-private-facebook-group-only): This is a collection only available at this time for members of the Wishy-Washy Cloth Private Facebook group who are on the custom waitlist. We'd love to have you join our group where you'll have a chance to get onto the custom order list!
   Updated: 2021-02-14T21:17:34Z
@@ -1568,19 +1093,19 @@
   Updated: 2022-04-27T00:55:25Z
   Total Products: 12
 - [All Pads Collection | Periods | Incontinence](https://amiepads.ca/collections/all-pads): Be comfy, confident and planet-friendly with beautiful reusable pads.  Whether you need pads for your cycle or, like thousands of other women, for bladder incontinence, Amie Reusable Pads has you literally covered with fabulous, quality pads made in Canada.
-  Updated: 2026-03-26T01:30:49Z
+  Updated: 2026-03-31T11:15:16Z
   Total Products: 6
 - [Interlabial Pad Boosters | Reusable Pads](https://amiepads.ca/collections/interlabial-pads): Period flow or bladder leaks gushing over your pad before they have a chance to absorb? Interlabial pads (ILPs) are here to save the day! Worn externally, ILPs slow down flow, including bladder leaks, and direct it to the centre of the pad to help your reusable pad perform its very best!
-  Updated: 2026-03-12T11:15:16Z
+  Updated: 2026-03-31T11:15:16Z
   Total Products: 1
 - [The Padscription | A Fun Subscription](https://amiepads.ca/collections/the-padscription): If you love surprises and are looking to build your reusable pad stash, the padscription will be right up your alley!  Guilt-free, super-fun happy mail will be on its way to you in no time!
   Updated: 2026-03-17T11:17:22Z
   Total Products: 1
 - [Secret ](https://amiepads.ca/collections/secret-): The March 2026 Secret  is now live!! A huge welcome to you, our email subscribers! If you are seeing this, the secret  is ON!! You'll find, in this collection, lots of goodies at terrific prices...enjoy!! 🥰
-  Updated: 2026-03-20T19:07:13Z
+  Updated: 2026-03-30T11:14:26Z
   Total Products: 22
 - [Amie Active | Athletic Fabric Reusable Pads](https://amiepads.ca/collections/amie-active): Athletic topped super-easy care reusable pads with a stay-dry, stay-cool feel, even after exercising or in the summer heat. Our black wicking jersey is stain resistant, meaning there is no need to soak soiled pads.  Just toss them in the washer with your regular laundry.  Click to check them out!
-  Updated: 2026-03-26T01:40:57Z
+  Updated: 2026-04-02T11:17:16Z
   Total Products: 13
 - [Special Preorder](https://amiepads.ca/collections/special-preorder): We run a special preorder from time to time, which allows you to purchase semi-custom pads, liners and occasionally other reusables
   Updated: 2023-03-24T00:00:41Z
@@ -1589,7 +1114,7 @@
   Updated: 2026-02-21T13:13:43Z
   Total Products: 2
 - [Best Sellers](https://amiepads.ca/collections/best-sellers): 🌿 Best Sellers Our most-loved reusable pads for periods and bladder leaks. Comfortable, leakproof, and made with care in Canada.
-  Updated: 2026-03-26T01:30:49Z
+  Updated: 2026-04-02T11:17:16Z
   Total Products: 75
 
 ## Blogs
@@ -1652,7 +1177,7 @@
     Author: Christine Gayfer
     Tags: camping, cloth on the go, reusable pad tips, reusable pads, user tips
   - [Using Reusable Pads for Bladder Incontinence](https://amiepads.ca/blogs/news-1/using-reusable-pads-for-incontinence): Using Reusable Pads for Bladder Incontinence
-    Updated: 2025-11-24T19:59:13Z
+    Updated: 2026-04-01T23:49:40Z
     Author: Christine Gayfer
   - [Sustainable Overnight Period Protection](https://amiepads.ca/blogs/news-1/overnight-period-protection): Sustainable Overnight Period Protection
     Updated: 2025-11-24T20:08:29Z
@@ -1702,10 +1227,10 @@
     Author: Christine Gayfer
     Tags: cloth pads, period care, planet-friendly, zero-waste
   - [Managing Menopause-Related Incontinence: The Essential Guide](https://amiepads.ca/blogs/news-1/managing-menopause-related-incontinence)
-    Updated: 2025-11-24T20:03:37Z
+    Updated: 2026-04-02T00:00:27Z
     Author: Christine Gayfer
   - [The Benefits of Using Reusable Pads for Bladder Leaks](https://amiepads.ca/blogs/news-1/benefits-of-reusable-pads-for-bladder-leaks)
-    Updated: 2025-11-24T20:04:51Z
+    Updated: 2026-04-02T00:00:03Z
     Author: Christine Gayfer
 
 ## Store Pages
@@ -1729,7 +1254,7 @@
 - [SMS Subscribe | Amie Reusable Pads | Washable Pads](https://amiepads.ca/pages/sms-subscribe): (If you're on this page and you're not seeing a place to enter your mobile number, you are likely already a subscriber. If you aren't sure, just se...
   Updated: 2025-01-23T02:12:24Z
 - [All About Washable Pads for Incontinence](https://amiepads.ca/pages/washable-pads-for-incontinence): If you have struggled with bladder leakage or urinary incontinence, you probably know very well that disposable pads can add up quickly...both in t...
-  Updated: 2024-10-02T16:36:53Z
+  Updated: 2026-04-01T23:43:42Z
 - [All About Reusable Pads for Periods](https://amiepads.ca/pages/reusable-pads-for-periods): If you are thinking of making the switch to reusable period pads, we'd like to give you a big ol' planet-friendly high-five! Besides being much gen...
   Updated: 2024-06-13T00:18:45Z
 - [thank-you | watch for an email from us](https://amiepads.ca/pages/thank-you-landing): Thank-you!! Please make sure you see an email from us so we can contact you if you win! (If you have been on our email list before, you're all good...
@@ -1744,6 +1269,8 @@
   Updated: 2025-10-08T23:34:37Z
 - [5 Everyday Habits that Make Incontinence Worse](https://amiepads.ca/pages/incontinence-guide): 
   Updated: 2026-02-26T01:24:49Z
+- [Find Your Reusable Incontinence Pad | Quiz](https://amiepads.ca/pages/find-your-reusable-incontinence-pad): .amie-quiz { max-width: 600px; } .amie-quiz-heading { font-size: 22px; font-weight: 600; line-height: 1.4; margin-bottom: 1.5rem; } .amie-prog-bar ...
+  Updated: 2026-04-01T23:36:52Z
 
 ## Policies
 
