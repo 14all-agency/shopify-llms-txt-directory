@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2025-04-17T06:58:27Z
 - Contact Email: contact@ceylononlineservices.com
-- Updated At: 2026-03-26T00:00:37.663Z
+- Updated At: 2026-04-02T00:00:40.858Z
 
 ## Products
 
 - [Asiri Hospital Kandy Online Consultation | Sri Lankan Doctors Telehealth](https://ceylononlineservices.com/products/asiri-hospital-kandy-online-consultation): Book online  consultation with specialist doctors at Asiri Hospital Kandy. Premium Sri Lankan  via telehealth for diaspora worldwide. $40 USD / $65 NZD.
-  Updated: 2026-02-22T17:27:36Z
+  Updated: 2026-04-01T20:54:59Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -541,6 +541,15 @@
     Author: Ceylon Online Services
   - [Modern Networking Tips to Elevate Your E-commerce in Sri Lanka](https://ceylononlineservices.com/blogs/news/modern-networking-tips-to-elevate-your-e-commerce-in-sri-lanka): Modern Networking Tips to Elevate Your E-commerce in Sri Lanka
     Updated: 2026-03-25T01:51:09Z
+    Author: Ceylon Online Services
+  - [How to Navigate Common Pitfalls in Sri Lankan E-commerce](https://ceylononlineservices.com/blogs/news/how-to-navigate-common-pitfalls-in-sri-lankan-e-commerce): How to Navigate Common Pitfalls in Sri Lankan E-commerce
+    Updated: 2026-03-28T00:29:59Z
+    Author: Ceylon Online Services
+  - [The Future of Online Shopping in Ceylon — Key Predictions](https://ceylononlineservices.com/blogs/news/the-future-of-online-shopping-in-ceylon-key-predictions): The Future of Online Shopping in Ceylon — Key Predictions
+    Updated: 2026-03-30T01:44:42Z
+    Author: Ceylon Online Services
+  - [Best Practices for Optimizing Your Online Store on Ceylon](https://ceylononlineservices.com/blogs/news/best-practices-for-optimizing-your-online-store-on-ceylon): Best Practices for Optimizing Your Online Store on Ceylon
+    Updated: 2026-04-01T01:48:20Z
     Author: Ceylon Online Services
 
 ## Store Pages
