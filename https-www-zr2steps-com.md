@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-09-08T02:47:30Z
 - Contact Email: store@snapsteps.ca
-- Updated At: 2026-03-23T00:00:22.014Z
+- Updated At: 2026-04-02T00:00:33.377Z
 
 ## Products
 
@@ -50,7 +50,7 @@ These steps have been specifically designed to work independently, but also in c
 If you prefer a fixed emplacement, the inner channel allows a piece of weather strip (included) to be adhered which will effectively prevent them from being adjustable in position.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-03-19T22:52:57Z
+  Updated: 2026-03-30T21:12:03Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -69,7 +69,7 @@ This is the big beefy duality! Sometimes you want a boost in, and sometimes you 
 If you prefer a fixed emplacement, the inner channel allows a piece of weather strip (included) to be adhered which will effectively prevent them from being adjustable in position.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-03-19T22:52:53Z
+  Updated: 2026-03-30T21:12:04Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -89,7 +89,7 @@ This is the original, cantilever, high quality, high ground  Snap-On Side step. 
 The Classic variant (4") is a little more compact than the standard step (5"), but just as sturdy. Specifically designed to fit that middle gap on your sliders, but just as useful everywhere else.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-03-19T22:52:57Z
+  Updated: 2026-03-25T15:53:47Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -123,7 +123,7 @@ Our Snap-On side steps product line, characterized by tool-free and hardware-fre
     Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/Screenshot_2025-10-11_233644.jpg?v=1773960606
     Price: $600.00 CAD
 - [Colorado ZR2 & Canyon AT4X Snap-On Side Steps 2016-2022 Mid Height](https://www.zr2steps.com/products/colorado-zr2-canyon-at4x-snap-on-side-steps-2016-2022-gen2-mid-height): Patent-pending snap-on side steps for 2016-2022 Chevy Colorado ZR2 & GMC Canyon AT4X. Mid-height design: tool-free install, quick-remove for off-road , durable carbon fiber-reinforced PETG, self-righting on impact.
-  Updated: 2026-03-21T16:35:14Z
+  Updated: 2026-03-31T20:31:37Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -147,7 +147,7 @@ Fitment - GM OEM rock sliders by AEV for - 2023-2025 Colorado ZR2/Canyon AT4X
 This step has been designed to provide a 4 inch drop from the High Step. These are meant to aid with entry and exit of the vehicle, while maintaining a minimalist profile that installs easily without tools or hardware. 
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-03-19T22:53:04Z
+  Updated: 2026-03-30T21:12:07Z
   Vendor: 3DPSQ
   Product Type: Accessory
   Availability: Available
@@ -177,7 +177,7 @@ Fitment - Chevy Silverado ZR2 and Bison WITH AEV rock sliders.
 Made of composite thermoplastic and infused with carbon fibers for an ideal profile of toughness, these steps install easily on your rock sliders without tools or hardware. We are the original inventors of the Snap-On side step in 2023. 
 
 Our expanding product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-03-19T22:53:07Z
+  Updated: 2026-03-30T21:33:37Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -287,25 +287,25 @@ Our Snap-On side steps product line, characterized by tool-free and hardware-fre
 ## Collections
 
 - [ZR2/ATX4 Snap-On Side Steps](https://www.zr2steps.com/collections/zr2-atx4-snap-steps)
-  Updated: 2026-03-19T11:15:48Z
+  Updated: 2026-04-01T11:17:39Z
   Total Products: 7
 - [Gen 2 ZR2/AT4X Snap-On Side Steps](https://www.zr2steps.com/collections/gen-2-zr2-snap-steps)
-  Updated: 2026-03-19T11:15:48Z
+  Updated: 2026-04-01T11:17:39Z
   Total Products: 4
 - [Gen 3 ZR2/AT4X Snap-On Side Steps](https://www.zr2steps.com/collections/gen-3-zr2-snap-steps-2023-2025)
-  Updated: 2026-03-15T20:42:50Z
+  Updated: 2026-03-26T11:16:20Z
   Total Products: 3
 - [Silverado ZR2 AEV Bison Snap-On Side Steps](https://www.zr2steps.com/collections/silverado-zr2-aev-bison)
-  Updated: 2026-03-15T20:43:10Z
+  Updated: 2026-03-31T11:17:00Z
   Total Products: 2
 - [Toyota Snap-On Side Steps](https://www.zr2steps.com/collections/toyota)
   Updated: 2026-03-15T20:43:48Z
   Total Products: 3
 - [AVADA - Best Sellers](https://www.zr2steps.com/collections/avada-best-sellers)
-  Updated: 2026-03-19T11:15:48Z
+  Updated: 2026-04-01T11:17:39Z
   Total Products: 12
 - [Featured Products Snap-On Side Steps](https://www.zr2steps.com/collections/featured-products)
-  Updated: 2026-03-15T20:43:59Z
+  Updated: 2026-03-31T11:17:00Z
   Total Products: 7
 - [Modularity Snap-On Side Steps](https://www.zr2steps.com/collections/modularity): Our V2 lineup of extra utility next gen designs.
   Updated: 2026-03-15T20:43:32Z
@@ -355,8 +355,8 @@ Our Snap-On side steps product line, characterized by tool-free and hardware-fre
   Updated: 2026-03-15T19:03:26Z
 - [Contact ZR2STEPS](https://www.zr2steps.com/pages/contact-zr2steps)
   Updated: 2025-12-18T04:58:09Z
-- [Frequently Asked Questions](https://www.zr2steps.com/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
-  Updated: 2026-03-15T17:55:40Z
+- [Frequently Asked Questions](https://www.zr2steps.com/pages/faq): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
+  Updated: 2026-03-29T23:04:19Z
 - [Your Privacy Choices](https://www.zr2steps.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-03-05T05:10:34Z
 - [Pick Year/Gen](https://www.zr2steps.com/pages/choose-your-year-gen)
