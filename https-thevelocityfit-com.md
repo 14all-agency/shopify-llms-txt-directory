@@ -6,14 +6,14 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-07-21T22:22:47Z
 - Contact Email: info@thevelocityfit.com
-- Updated At: 2026-03-25T13:34:37.198Z
+- Updated At: 2026-04-02T00:00:24.185Z
 
 TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  oversized t-shirts and hoodies featuring bold automotive graphics. Our motto is "Build To Conquer." We ship globally and are based in the Netherlands.
 
 ## Products
 
 - [Heavy GPR Oversized Hoodie - Comfortable and Stylish Streetwear](https://thevelocityfit.com/products/gpr-oversized-hoodie): Elevate your style with our Heavy GPR Oversized Hoodie. This cozy, stylish hoodie offers comfort and versatility for any occasion. Get yours today and stand out!
-  Updated: 2026-03-25T08:26:29Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -67,7 +67,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222909059-7403880496.png?v=1753222931
     Price: €75.00 EUR
 - [Heavy S1000RR Oversized Hoodie for Ultimate Comfort and Style](https://thevelocityfit.com/products/heavy-s1000rr-oversized-hoodie): Discover ultimate comfort with our Heavy S1000RR Oversized Hoodie. Perfect for layering, it combines style and warmth, making it a must-have for any fan. Shop now!
-  Updated: 2026-03-25T08:26:16Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222849340-2699915166.png?v=1753222872
     Price: €75.00 EUR
 - [Heavy EVO Oversized Hoodie - Comfort and Style in One Essential Piece](https://thevelocityfit.com/products/heavy-evo-oversized-hoodie): Elevate your style with our Heavy EVO Oversized Hoodie. Crafted for comfort and designed for a bold look, this hoodie is perfect for any casual occasion. Shop now!
-  Updated: 2026-03-25T08:29:26Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -175,7 +175,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222779704-2144647886.png?v=1753222801
     Price: €75.00 EUR
 - [Heavy GT500 Oversized Hoodie - Premium Comfort and Style for All](https://thevelocityfit.com/products/heavy-gt500-oversized-hoodie): Stay cozy and stylish with our Heavy GT500 Oversized Hoodie. This comfortable hoodie features a bold design and premium materials, perfect for any casual outfit. Shop now!
-  Updated: 2026-03-25T08:32:35Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -229,7 +229,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222720384-2560366639.png?v=1753222743
     Price: €75.00 EUR
 - [Heavy Supra MK5 Oversized Hoodie - Stylish Comfort for Every Occasion](https://thevelocityfit.com/products/heavy-supra-mk5-oversized-hoodie): Upgrade your wardrobe with the Heavy Supra MK5 Oversized Hoodie. Perfect for style and comfort, this hoodie offers a trendy fit and premium quality for any occasion.
-  Updated: 2026-03-25T08:33:39Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -283,7 +283,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222465738-7416965546.png?v=1753222487
     Price: €75.00 EUR
 - [Heavy XT660 Oversized Hoodie - Comfort and Style for Every Occasion](https://thevelocityfit.com/products/heavy-xt660-oversized-hoodie): Stay cozy and stylish with the Heavy XT660 Oversized Hoodie. Perfect for any casual occasion, this hoodie offers ultimate comfort and a trendy oversized fit. Grab yours today!
-  Updated: 2026-03-25T08:34:16Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -337,7 +337,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222401002-8046225650.png?v=1753222423
     Price: €75.00 EUR
 - [Heavy XT660 Oversized Shirt - Comfortable Fit for Everyday Style](https://thevelocityfit.com/products/heavy-xt660-oversized-shirt): Discover the Heavy XT660 Oversized Shirt, designed for comfort and style. Perfect for casual outings, this shirt combines a relaxed fit with premium quality. Upgrade your wardrobe today!
-  Updated: 2026-03-25T08:34:50Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -443,7 +443,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222309153-4609604315.png?v=1753222334
     Price: €45.00 EUR
 - [Heavy Supra MK5 Oversized Shirt - Stylish Comfort & Unique Design](https://thevelocityfit.com/products/heavy-supra-mk5-oversized-shirt): Elevate your style with the Heavy Supra MK5 Oversized Shirt. This trendy and comfortable shirt offers a perfect fit and a modern look. Shop now for ultimate fashion!
-  Updated: 2026-03-25T08:35:20Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -569,7 +569,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222231719-2923160935.png?v=1753222258
     Price: €45.00 EUR
 - [Heavy GT500 Oversized Shirt - Comfort & Style for Every Occasion](https://thevelocityfit.com/products/heavy-gt500-oversized-shirt): Elevate your style with the Heavy GT500 Oversized Shirt. Perfect for comfort and fashion, this shirt combines quality and a trendy fit to enhance your wardrobe. Shop now!
-  Updated: 2026-03-25T08:35:59Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -675,7 +675,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222156017-5992986004.png?v=1753222181
     Price: €45.00 EUR
 - [Heavy EVO Oversized Shirt | Stylish Comfort for Every Occasion](https://thevelocityfit.com/products/heavy-evo-oversized-shirt): Elevate your style with the Heavy EVO Oversized Shirt. Designed for comfort and versatility, this shirt is perfect for any occasion. Shop now and redefine your wardrobe!
-  Updated: 2026-03-25T08:36:31Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -801,7 +801,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753222059133-8388103191.png?v=1753222650
     Price: €45.00 EUR
 - [Heavy S1000RR Oversized Shirt - Stylish Comfort for Every Occasion](https://thevelocityfit.com/products/heavy-s1000rr-oversized-shirt): Discover the Heavy S1000RR Oversized Shirt, combining comfort and style. Perfect for motorsport enthusiasts who value quality and design. Grab yours today!
-  Updated: 2026-03-25T08:37:17Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -927,7 +927,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753221995702-5418450471.png?v=1753222272
     Price: €45.00 EUR
 - [Heavy GPR Oversized Shirt - Stylish Comfort for Every Occasion](https://thevelocityfit.com/products/heavy-gpr-oversized-shirt): Elevate your style with our Heavy GPR Oversized Shirt. Crafted for comfort and trend, this shirt is perfect for any occasion. Shop now for a bold statement piece!
-  Updated: 2026-03-25T08:37:51Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1033,7 +1033,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1753221942364-1331512190.png?v=1753222609
     Price: €45.00 EUR
 - [Heavy JDM Oversized T-Shirt - Stylish Comfort for Car Enthusiasts](https://thevelocityfit.com/products/heavy-jdm-oversized-t-shirt-2): Elevate your streetwear game with our Heavy JDM Oversized T-Shirt. Perfect for car enthusiasts, this stylish tee combines comfort and bold design. Shop now for a perfect fit!
-  Updated: 2026-03-25T08:38:29Z
+  Updated: 2026-04-01T10:41:13Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1139,7 +1139,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1731105428848-5964521489_79e550c7-a865-4af6-9534-6bc6d898184f.png?v=1753223111
     Price: €45.00 EUR
 - [Heavy Monaco Oversized T-Shirt - Stylish Comfort for Every Occasion](https://thevelocityfit.com/products/heavy-monaco-oversized-t-shirt-2): Meta description: Elevate your wardrobe with the Heavy Monaco Oversized T-Shirt. Made from premium materials, this stylish tee offers ultimate comfort and a trendy fit for any occasion.
-  Updated: 2026-03-25T08:39:40Z
+  Updated: 2026-04-01T09:39:08Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1205,7 +1205,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1731105490451-3863764435_47a7ab3f-ec85-48b4-9974-fc88e6b721e2.png?v=1753223175
     Price: €45.00 EUR
 - [Heavy Porsche Oversized T-Shirt - Stylish Comfort for Porsche Fans](https://thevelocityfit.com/products/heavy-porsche-oversized-t-shirt-2): Elevate your wardrobe with our Heavy Porsche Oversized T-Shirt. Crafted for comfort and style, this tee is perfect for car enthusiasts and casual wear. Shop now!
-  Updated: 2026-03-25T08:40:20Z
+  Updated: 2026-04-01T09:37:46Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1311,7 +1311,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1731105188810-5994666859_efefdcab-dd50-4c77-939a-5a0c423d0d89.png?v=1753223456
     Price: €45.00 EUR
 - [Heavy JDM Oversized Hoodie - Stylish & Comfortable Streetwear Apparel](https://thevelocityfit.com/products/heavy-jdm-oversized-hoodie-2): Elevate your streetwear game with our Heavy JDM Oversized Hoodie. Featuring a stylish design and unmatched comfort, it's perfect for JDM enthusiasts. Shop now!
-  Updated: 2026-03-25T08:41:03Z
+  Updated: 2026-04-01T21:10:27Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1365,7 +1365,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1731105520933-6944282278.png?v=1753223571
     Price: €75.00 EUR
 - [Heavy Monaco Oversized Hoodie - Comfortable & Stylish Hoodie for All](https://thevelocityfit.com/products/heavy-monaco-oversized-hoodie-2): Stay cozy and stylish with our Heavy Monaco Oversized Hoodie. Perfect for layering, this hoodie offers comfort and a trendy look for any occasion. Shop now and elevate your wardrobe!
-  Updated: 2026-03-25T08:42:04Z
+  Updated: 2026-04-01T09:35:18Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1419,7 +1419,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1731105548894-5620337152.png?v=1753223666
     Price: €75.00 EUR
 - [Heavy Porsche Oversized Hoodie for Ultimate Comfort and Style](https://thevelocityfit.com/products/heavy-porsche-oversized-hoodie-2): Elevate your style with our Heavy Porsche Oversized Hoodie. This cozy, fashionable hoodie combines comfort and luxury, perfect for any casual outing. Shop now!
-  Updated: 2026-03-25T08:42:40Z
+  Updated: 2026-04-01T09:28:32Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1489,7 +1489,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1731105577073-6746280940.png?v=1753223741
     Price: €75.00 EUR
 - [Heavy Drifting Oversized Hoodie - Stylish Comfort for Everyday Wear](https://thevelocityfit.com/products/heavy-drifting-oversized-hoodie-1): Elevate your style with our Heavy Drifting Oversized Hoodie. Perfect for cozy comfort and trendy looks, this hoodie is a must-have for your wardrobe. Shop now!
-  Updated: 2026-03-25T08:43:12Z
+  Updated: 2026-04-01T18:17:06Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1543,7 +1543,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1727124410775-4724065784.png?v=1753223822
     Price: €75.00 EUR
 - [Heavy Classic Car Oversized Hoodie - Ultimate Comfort & Style](https://thevelocityfit.com/products/heavy-classic-car-oversized-hoodie-1): Discover ultimate comfort with our Heavy Classic Car Oversized Hoodie. Perfect for car enthusiasts, this cozy hoodie combines style and warmth. Shop now for a classic look!
-  Updated: 2026-03-25T08:43:50Z
+  Updated: 2026-04-01T09:31:47Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1597,7 +1597,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1727111529548-3426191617.png?v=1753224132
     Price: €75.00 EUR
 - [Heavy Classic Car Oversized T-shirt - Stylish Comfort for Car Lovers](https://thevelocityfit.com/products/heavy-classic-car-oversized-t-shirt-1): Rev up your style with our Heavy Classic Car Oversized T-shirt. Perfect for car enthusiasts, this comfortable tee combines classic design with a relaxed fit. Shop now!
-  Updated: 2026-03-25T08:48:53Z
+  Updated: 2026-04-01T10:41:08Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1723,7 +1723,7 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1726521050215-2664227081_ee172c93-d47f-4cdc-9602-41164317c5aa.png?v=1753224245
     Price: €45.00 EUR
 - [Heavy Muscle Car Oversized T-Shirt - Perfect for Car Enthusiasts](https://thevelocityfit.com/products/heavy-muscle-car-oversized-t-shirt-1): Unleash your style with our Heavy Muscle Car Oversized T-Shirt. Designed for comfort and durability, this tee is perfect for car enthusiasts. Get yours today!
-  Updated: 2026-03-25T08:49:37Z
+  Updated: 2026-04-01T09:18:34Z
   Vendor: TheVelocityFit
   Product Type: 
   Availability: Available
@@ -1828,29 +1828,135 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722439688534-0500188859_aadb9802-3b9c-4810-bac9-9ceb90c670ce.png?v=1753224325
     Price: €45.00 EUR
+- [Heavy Drifting Oversized T-Shirt - Comfortable & Stylish Streetwear](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1): Elevate your streetwear game with our Heavy Drifting Oversized T-Shirt. Designed for comfort and style, this tee is perfect for effortless layering or solo statements.
+  Updated: 2026-04-01T10:41:08Z
+  Vendor: TheVelocityFit
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/1753224345479-1334710698.png?v=1753224391
+  - [Americano / S](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55090550833487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-6147157353_10f7f904-c9a5-4e71-a2e5-50d70a440046.png?v=1753224391
+    Price: €45.00 EUR
+  - [Black / S](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877531983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353339-1517292887_ed99ee00-9576-486c-85d5-b4d0f2d6ed37.png?v=1753224391
+    Price: €45.00 EUR
+  - [Medium Jungle Green / S](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877564751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-5010521013_be3d7b1a-5a6c-46fc-bfc6-36a5ce03b79c.png?v=1753224391
+    Price: €45.00 EUR
+  - [Dark Brown / S](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877597519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-4439742100_4bacd191-46cd-4b99-9128-3b9a30474754.png?v=1753224391
+    Price: €45.00 EUR
+  - [Slate / S](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877630287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-7467071274_94cff77d-8405-46c7-9a17-2d5bb4d78c77.png?v=1753224391
+    Price: €45.00 EUR
+  - [Black / M](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877663055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353339-1517292887_ed99ee00-9576-486c-85d5-b4d0f2d6ed37.png?v=1753224391
+    Price: €45.00 EUR
+  - [Americano / M](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877695823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-6147157353_10f7f904-c9a5-4e71-a2e5-50d70a440046.png?v=1753224391
+    Price: €45.00 EUR
+  - [Medium Jungle Green / M](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877728591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-5010521013_be3d7b1a-5a6c-46fc-bfc6-36a5ce03b79c.png?v=1753224391
+    Price: €45.00 EUR
+  - [Dark Brown / M](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877761359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-4439742100_4bacd191-46cd-4b99-9128-3b9a30474754.png?v=1753224391
+    Price: €45.00 EUR
+  - [Slate / M](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877794127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-7467071274_94cff77d-8405-46c7-9a17-2d5bb4d78c77.png?v=1753224391
+    Price: €45.00 EUR
+  - [Black / L](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877826895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353339-1517292887_ed99ee00-9576-486c-85d5-b4d0f2d6ed37.png?v=1753224391
+    Price: €45.00 EUR
+  - [Americano / L](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877859663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-6147157353_10f7f904-c9a5-4e71-a2e5-50d70a440046.png?v=1753224391
+    Price: €45.00 EUR
+  - [Medium Jungle Green / L](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877892431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-5010521013_be3d7b1a-5a6c-46fc-bfc6-36a5ce03b79c.png?v=1753224391
+    Price: €45.00 EUR
+  - [Dark Brown / L](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877925199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-4439742100_4bacd191-46cd-4b99-9128-3b9a30474754.png?v=1753224391
+    Price: €45.00 EUR
+  - [Slate / L](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877957967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-7467071274_94cff77d-8405-46c7-9a17-2d5bb4d78c77.png?v=1753224391
+    Price: €45.00 EUR
+  - [Black / XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595877990735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353339-1517292887_ed99ee00-9576-486c-85d5-b4d0f2d6ed37.png?v=1753224391
+    Price: €45.00 EUR
+  - [Americano / XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878023503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-6147157353_10f7f904-c9a5-4e71-a2e5-50d70a440046.png?v=1753224391
+    Price: €45.00 EUR
+  - [Medium Jungle Green / XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878056271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-5010521013_be3d7b1a-5a6c-46fc-bfc6-36a5ce03b79c.png?v=1753224391
+    Price: €45.00 EUR
+  - [Dark Brown / XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878089039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-4439742100_4bacd191-46cd-4b99-9128-3b9a30474754.png?v=1753224391
+    Price: €45.00 EUR
+  - [Slate / XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878121807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-7467071274_94cff77d-8405-46c7-9a17-2d5bb4d78c77.png?v=1753224391
+    Price: €45.00 EUR
+  - [Black / 2XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878154575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353339-1517292887_ed99ee00-9576-486c-85d5-b4d0f2d6ed37.png?v=1753224391
+    Price: €45.00 EUR
+  - [Americano / 2XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878187343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-6147157353_10f7f904-c9a5-4e71-a2e5-50d70a440046.png?v=1753224391
+    Price: €45.00 EUR
+  - [Medium Jungle Green / 2XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878220111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-5010521013_be3d7b1a-5a6c-46fc-bfc6-36a5ce03b79c.png?v=1753224391
+    Price: €45.00 EUR
+  - [Dark Brown / 2XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878252879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-4439742100_4bacd191-46cd-4b99-9128-3b9a30474754.png?v=1753224391
+    Price: €45.00 EUR
+  - [Slate / 2XL](https://thevelocityfit.com/products/heavy-drifting-oversized-t-shirt-1?variant=55595878285647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0862/4406/5615/files/store-1722436353363-7467071274_94cff77d-8405-46c7-9a17-2d5bb4d78c77.png?v=1753224391
+    Price: €45.00 EUR
 
 ## Collections
 
 - [Car Inspired Gym Clothing | TheVelocityFit Automotive Streetwear](https://thevelocityfit.com/collections/frontpage): Rev up your workouts with TheVelocityFit's car inspired gym clothing. Explore our automotive streetwear collection designed for style and performance. Shop now!
-  Updated: 2026-03-25T08:55:29Z
+  Updated: 2026-03-30T02:03:47Z
   Total Products: 0
 - [All Products Collection - Shop Our Complete Range Today Online](https://thevelocityfit.com/collections/all): Discover our All Products Collection and shop our complete range today! Find the perfect items for your needs and enjoy quality and variety in one place. Don't miss out!
-  Updated: 2026-03-25T08:57:31Z
+  Updated: 2026-04-01T09:37:49Z
   Total Products: 44
 - [Oversized Shirts - Trendy and Comfortable Styles for Every Occasion](https://thevelocityfit.com/collections/oversized-shirts): Discover our Oversized Shirts Collection, featuring trendy and comfortable styles perfect for any occasion. Elevate your wardrobe with chic oversized shirts today!
-  Updated: 2026-03-25T08:58:32Z
-  Total Products: 9
+  Updated: 2026-04-01T09:37:49Z
+  Total Products: 21
 - [Oversized Hoodie Collection - Trendy, Comfortable Styles for All](https://thevelocityfit.com/collections/oversized-hoodie): Shop our cozy and stylish Oversized Hoodies, perfect for layering or a relaxed look. Embrace comfort and fashion with our exclusive collection today!
-  Updated: 2026-03-25T08:59:21Z
-  Total Products: 8
+  Updated: 2026-04-01T09:31:05Z
+  Total Products: 19
 - [Streetwear Collection: Elevate Your Style with Trendsetting Fashion](https://thevelocityfit.com/collections/streetwear-1): Elevate your style with our exclusive streetwear collection. Perfect for trendsetters, discover unique pieces that showcase your individuality and make a statement. Shop now!
-  Updated: 2026-03-25T09:00:19Z
+  Updated: 2026-03-30T02:03:05Z
   Total Products: 17
 - [Best  Products Collection - Discover Our Top Sellers Today!](https://thevelocityfit.com/collections/appplaza-best-sellers): Discover our Best  Products Collection, featuring top-rated items that customers love. Shop now to find your favorites and experience premium quality today!
-  Updated: 2026-03-25T09:01:33Z
+  Updated: 2026-04-01T09:37:49Z
   Total Products: 42
 - [Best Sellers - Explore Our Top Picks You Can't Miss Today!](https://thevelocityfit.com/collections/avada-best-sellers): Discover our Best Sellers Collection – top picks you can't miss! Shop now for the most popular items loved by customers and elevate your style with these must-have products.
-  Updated: 2026-03-25T09:02:48Z
+  Updated: 2026-04-01T09:37:49Z
   Total Products: 42
 
 ## Blogs
@@ -1988,6 +2094,18 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
     Updated: 2026-03-25T13:28:43Z
     Author: TheVelocityFit
     Tags: activewear, best gymwear brands, comfortable gym outfits, fitness, gymwear, high-performance gear, training clothes, workout
+  - [Dominate Your Workout With Sleek Street-Style Gymwear](https://thevelocityfit.com/blogs/news/dominate-your-workout-with-sleek-street-style-gymwear): Dominate Your Workout With Sleek Street-Style Gymwear
+    Updated: 2026-03-27T01:30:36Z
+    Author: TheVelocityFit
+    Tags: apparel, best workout outfits, fitness, gymwear, street style gymwear, stylish activewear, trendy gym clothes, workout clothes
+  - [Built for Velocity: Gymwear That Matches Your Drive](https://thevelocityfit.com/blogs/news/built-for-velocity-gymwear-that-matches-your-drive): Built for Velocity: Gymwear That Matches Your Drive
+    Updated: 2026-03-30T01:26:36Z
+    Author: TheVelocityFit
+    Tags: activewear, athletic apparel, best gymwear for athletes, essential gymwear for strength training, fitness, gymwear, performance gear, workout clothes
+  - [Elevate Your Regimen with Raw Performance Gymwear](https://thevelocityfit.com/blogs/news/elevate-your-regimen-with-raw-performance-gymwear): Elevate Your Regimen with Raw Performance Gymwear
+    Updated: 2026-04-01T01:28:43Z
+    Author: TheVelocityFit
+    Tags: apparel, athletic wear, best gymwear brands, comfortable gym clothing, fitness, gymwear, performance gear, workout clothes
 - [Guest post](https://thevelocityfit.com/blogs/guest-post)
   - [Blending Style and Performance: How Automotive Design Influences Fitness Fashion](https://thevelocityfit.com/blogs/guest-post/blending-style-and-performance-how-automotive-design-influences-fitness-fashion)
     Updated: 2025-02-17T14:42:51Z
@@ -2056,6 +2174,10 @@ TheVelocityFit is a streetwear gym clothing brand inspired by car culture. We  o
   Updated: 2026-03-25T09:44:23Z
 - [ registration](https://thevelocityfit.com/pages/-registration)
   Updated: 2026-03-25T10:43:00Z
+- [Customer Reviews](https://thevelocityfit.com/pages/reviews): .main-page-title.page-title { display: none; } .page-width--narrow { max-width: 100vw; padding-top: 0; } #vstar-all-reviews { max-width: 100vw; }
+  Updated: 2026-03-31T08:37:53Z
+- [Collabs](https://thevelocityfit.com/pages/collab)
+  Updated: 2026-04-01T12:50:03Z
 
 ## Policies
 
