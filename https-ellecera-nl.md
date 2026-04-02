@@ -8,7 +8,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-02-27T13:58:36Z
 - Contact Email: hello@ellecera.nl
-- Updated At: 2026-03-26T00:00:33.637Z
+- Updated At: 2026-04-02T00:00:35.986Z
 
 ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geïnspireerd door Korean beauty. Ontwikkeld voor de Nederlandse en Belgische huid. Alle producten zijn dierproefvrij en dermatologisch getest. ElleCera staat voor verzorging die de huid ondersteunt in plaats van corrigeert. Assortiment: serums, foundation, oogpatches, microneedling sets, cupping apparaten, body oil en haarproducten. Gratis verzending NL/BE. 30 dagen tevredenheidsgarantie. Betaling via iDEAL, Klarna, Bancontact, Apple Pay en creditcard.
 
@@ -30,12 +30,12 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Price: € 34,95 EUR
 - [Korean Peptide Serum Kopen – Lifting voor Strakker Gezicht | ElleCera](https://ellecera.nl/products/korean-silk-lifting-peptide-ampoule): Geconcentreerd Korean lifting serum met peptiden en collageen. Strakker gezicht, minder rimpels. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-03-25T20:13:56Z
+  Updated: 2026-04-01T20:13:56Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/peptide-ampoule-verpakking-1plus1-gratis.svg?v=1773146083
-  Price: € 34,95 EUR
+  Price: € 29,95 EUR
 - [Haarlijn Poeder Kopen – Volle Haarlijn Zonder Kale Plekken | ElleCera](https://ellecera.nl/products/hairlineperfect-poeder): Dek kale plekken en dunne haarlijn direct bij. Waterbestendig haarlijn poeder in 10 tinten. ✓Natuurlijk ogend ✓1+1 gratis ✓Gratis verzending ✓30 dagen garantie
   Updated: 2026-03-14T21:31:45Z
   Vendor: ElleCera.
@@ -83,7 +83,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarlijn-poeder-verpakking-wit-tint.avif?v=1773144808
     Price: € 34,95 EUR
 - [Cupping Massage Apparaat Kopen – Minder Cellulite Thuis | ElleCera](https://ellecera.nl/products/elektrisch-massage-cupping-apparaat): Elektrisch cupping apparaat met warmte, vacuüm en red light. Gladdere huid en minder cellulite thuis. ✓ Geen salon nodig ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-03-25T22:37:18Z
+  Updated: 2026-03-28T17:07:56Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -91,86 +91,102 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
   Price: € 69,95 EUR
 - [Gold Silk Body Oil Kopen – Droge Hydraterende Body Oil | ElleCera](https://ellecera.nl/products/gold-silk-body-oil): Lichte body oil die snel absorbeert en huid zijdezacht maakt. Geen plakkerig gevoel. 
 ✓ 1+1 gratis ✓ Stralende huid ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-03-25T19:09:40Z
+  Updated: 2026-03-26T12:17:53Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/body-oil-gold-silk-verpakking-1plus1-gratis.svg?v=1773143636
   Price: € 39,95 EUR
 - [ReviveBrush – Elektrische Hoofdhuidmassage met Haarolie Dispenser](https://ellecera.nl/products/3-in-1-electric-hair-scalp-care-tool): 3-in-1 elektrische massageborstel met ingebouwde haarolie-dispenser. Gezondere hoofdhuid, minder haaruitval. ✓Salon thuis ✓Gratis verzending ✓30 dagen garantie
-  Updated: 2026-03-25T22:35:39Z
+  Updated: 2026-03-31T15:32:18Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarverzorging-tool-verpakking-3in1-elektrisch.webp?v=1773142676
   - [Deep Red](https://ellecera.nl/products/3-in-1-electric-hair-scalp-care-tool?variant=56775669416313)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarverzorging-tool-design-detail-rood-zwart.webp?v=1773142767
     Price: € 59,95 EUR
   - [Intense Grey](https://ellecera.nl/products/3-in-1-electric-hair-scalp-care-tool?variant=56775669449081)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarverzorging-tool-gebruik-styling-resultaat.webp?v=1773142782
     Price: € 59,95 EUR
 - [Microneedling Set Thuis Kopen – Gladdere Huid Zonder Kliniek | ElleCera](https://ellecera.nl/products/microneedling-set-thuis): Professionele microneedling thuis. Minder fijne lijntjes, gladdere huidtextuur & meer glow in 5 min. Geen kliniek nodig. ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-03-25T10:34:31Z
+  Updated: 2026-03-26T00:19:03Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/microneedling-set-thuis-kopen-ellecera.svg?v=1773137290
   Price: € 49,95 EUR
+- [DetoxPatch™ - Trekt olie & vuil uit je poriën](https://ellecera.nl/products/salicylic-acid-nose-pore-strips-oil-control-hydrocolloid-nose-patches-for-nose-blackheads-pimples-removal-refines-pores-non-tigh2026-02-25-17-20-23): Korean Beauty TechnologieErvaar de kracht van DetoxPatch™ Neus Patches. Deze hydrocolloid patches trekken olie, talg en vuil uit je poriën terwijl je huid wordt beschermd en herstelt. Direct zichbaar resultaat.
+  Updated: 2026-04-01T16:13:58Z
+  Vendor: NicheBay
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/THE_SCIENCE_BEHIND_IT.png?v=1775059502
+  - [8pcs Boxed](https://ellecera.nl/products/salicylic-acid-nose-pore-strips-oil-control-hydrocolloid-nose-patches-for-nose-blackheads-pimples-removal-refines-pores-non-tigh2026-02-25-17-20-23?variant=56792005149049)
+    Availability: Available
+    Price: € 29,95 EUR
+  - [2 x 8pcs Boxed](https://ellecera.nl/products/salicylic-acid-nose-pore-strips-oil-control-hydrocolloid-nose-patches-for-nose-blackheads-pimples-removal-refines-pores-non-tigh2026-02-25-17-20-23?variant=56792005181817)
+    Availability: Available
+    Price: € 100,00 EUR
+  - [3 x 8pcs Boxed](https://ellecera.nl/products/salicylic-acid-nose-pore-strips-oil-control-hydrocolloid-nose-patches-for-nose-blackheads-pimples-removal-refines-pores-non-tigh2026-02-25-17-20-23?variant=56792005214585)
+    Availability: Available
+    Price: € 100,00 EUR
 - [Oogpatches Tegen Wallen Kopen – Collageen HydroGel Patches | ElleCera](https://ellecera.nl/products/hydrogel-collagen-eye-patches-wallen): Minder wallen en donkere kringen in 10 minuten. Collageen hydrogel oogpatches voor dagelijks gebruik. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-03-25T22:33:43Z
+  Updated: 2026-04-01T16:48:53Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/oogpatches-collageen-verpakking-hydrogel.png?v=1773140331
   Price: € 29,95 EUR
 - [MicroLift Pro™ - De 3-in-1 microstroom facelift voor een zichtbaar strakkere huid.](https://ellecera.nl/products/microlift-pro-microstroom-facelift-apparaat): Train je gezichtsspieren, stimuleer collageenproductie en geef je kaaklijn zichtbaar terug. Red Light Therapy + microstroom. Thuis in 10 minuten.
-  Updated: 2026-03-25T18:59:14Z
+  Updated: 2026-03-31T22:43:15Z
   Vendor: NicheBay
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/4.png?v=1774445525
   - [Ivory Whtite](https://ellecera.nl/products/microlift-pro-microstroom-facelift-apparaat?variant=56792014324089)
     Availability: Available
-    Price: € 74,95 EUR
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/2.png?v=1774445525
+    Price: € 69,95 EUR
   - [Deep Black](https://ellecera.nl/products/microlift-pro-microstroom-facelift-apparaat?variant=56792014291321)
     Availability: Available
-    Price: € 74,95 EUR
-- [GlowLift™ Overnight Collageen Masker. Wakker worden met Stralende Huid](https://ellecera.nl/products/glowlift-overnight-collageen-masker): Overnight masker met collageen peptiden, hyaluronzuur en niacinamide. Vermindert rimpels, wallen en fijne lijntjes. Zichtbaar resultaat na één nacht. Gratis verzending.
-  Updated: 2026-03-25T12:18:30Z
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/3.png?v=1774445525
+    Price: € 69,95 EUR
+- [GlowLift™ Collageen Nachtmasker | Wakker Worden met Stralende Huid](https://ellecera.nl/products/glowlift-overnight-collageen-masker): Koreaans collageen nachtmasker met peptiden en hyaluronzuur. Vermindert rimpels, wallen en fijne lijntjes terwijl je slaapt. Gratis verzending. 1+1 Gratis.
+  Updated: 2026-04-01T13:53:22Z
   Vendor: NicheBay
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/1.svg?v=1774364738
-  - [1 doosje (4 stuks)](https://ellecera.nl/products/glowlift-overnight-collageen-masker?variant=56792027332985)
+  - [4PCS](https://ellecera.nl/products/glowlift-overnight-collageen-masker?variant=56939762450809)
     Availability: Available
     Price: € 29,95 EUR
-  - [1+1 doosjes (8 stuks) (meest gekozen)](https://ellecera.nl/products/glowlift-overnight-collageen-masker?variant=56792027431289)
+  - [8 PCS](https://ellecera.nl/products/glowlift-overnight-collageen-masker?variant=56792027332985)
     Availability: Available
-    Price: € 59,90 EUR
-  - [2+2 doosjes (16 stuks) (hoogste korting)](https://ellecera.nl/products/glowlift-overnight-collageen-masker?variant=56792027201913)
-    Availability: Available
-    Price: € 119,80 EUR
+    Price: € 29,95 EUR
 
 ## Collections
 
 - [Alle Skincare & Beauty Producten – Korean Beauty Webshop | ElleCera](https://ellecera.nl/collections/frontpage): Bekijk het volledige ElleCera assortiment. Skincare, make-up en beauty tools geïnspireerd door Korean beauty. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-03-25T18:59:15Z
-  Total Products: 10
+  Updated: 2026-04-01T17:06:00Z
+  Total Products: 12
 - [Best Sellers | Populaire Huidverzorging & Make-Up | ElleCera](https://ellecera.nl/collections/best-sellers): Shop onze best verkochte huidverzorging en make-up. Ontdek waarom vrouwen kiezen voor producten die de huid ondersteunen en comfortabel laten aanvoelen.
-  Updated: 2026-03-25T18:59:15Z
-  Total Products: 10
+  Updated: 2026-04-01T17:06:00Z
+  Total Products: 12
 - [Make-Up Kopen – Natuurlijke Korean Beauty Make-Up | ElleCera](https://ellecera.nl/collections/make-up): Natuurlijke make-up die je huid ondersteunt en niet maskeert. Korean beauty geïnspireerde formules voor een stralende look.✓Gratis verzending ✓30 dagen garantie
-  Updated: 2026-03-25T12:09:57Z
+  Updated: 2026-04-01T17:06:00Z
   Total Products: 4
 - [Skincare Kopen – Korean Beauty Huidverzorging Nederland | ElleCera](https://ellecera.nl/collections/skincare): Korean beauty skincare voor droge, gevoelige en uit balans geraakte huid. Serums, oogpatches en meer. ✓ Dierproefvrij ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-03-25T18:59:15Z
-  Total Products: 8
+  Updated: 2026-04-01T17:06:00Z
+  Total Products: 10
 - [Beauty Tools Kopen – Elektrische Huidverzorging Apparaten | ElleCera](https://ellecera.nl/collections/accessoires): Elektrische beauty tools voor thuis. Microneedling, cupping massage, hoofdhuidmassage en meer. ✓ Professioneel resultaat ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-03-25T18:59:15Z
-  Total Products: 5
+  Updated: 2026-04-01T16:13:59Z
+  Total Products: 7
 - [Skincare Bundels Kopen – 1+1 Gratis Beauty Sets | ElleCera](https://ellecera.nl/collections/bundels): Combineer je favoriete ElleCera producten voordelig. Skincare en beauty tool bundels met 1+1 gratis aanbieding. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-03-25T12:09:57Z
-  Total Products: 5
+  Updated: 2026-04-01T17:11:06Z
+  Total Products: 7
 
 ## Blogs
 
