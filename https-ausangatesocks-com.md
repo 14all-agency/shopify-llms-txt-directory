@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-06-01T17:25:06Z
 - Contact Email: hello@ausangatesocks.com
-- Updated At: 2026-03-26T00:00:46.577Z
+- Updated At: 2026-04-02T00:00:47.585Z
 
 ## Products
 
 - [Alpaca All Purpose Performance Socks](https://ausangatesocks.com/products/ausangate-socks-alpaca-all-purpose-socks): Stay warm and cozy while enjoying winter sports with Ausangate Classic Lines alpaca socks, perfect for backpacking trips and relaxing weekends on the slopes.
-  Updated: 2026-01-21T13:01:36Z
+  Updated: 2026-04-01T18:52:15Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/Classic_lines_alpaca_socks_with_black_srtipes.jpg?v=1765402848
     Price: $39.99 USD
 - [Ausangate Alpaca Mid-Calf Ribbed Hiking Socks](https://ausangatesocks.com/products/ausangate-socks-alpaca-wool-medium-weight-ribbed-hiking-socks): Try the ultimate in hiking comfort with Ausangate Socks. Crafted from soft alpaca wool, these medium-weight ribbed socks are designed for durability and warmth.
-  Updated: 2026-01-21T13:07:12Z
+  Updated: 2026-04-01T18:52:15Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -82,7 +82,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/alpaca_ribbed_mid_calf_hiking_socks_in_gray_black_pair_view.png?v=1765481277
     Price: $39.99 USD
 - [Ausangate Alpaca Mid-Calf Performance Hiking Socks](https://ausangatesocks.com/products/alpaca-mid-calf-hiking-socks): Premium alpaca mid-calf hiking socks. Perfect with work boots for all-day comfort. Ideal for backpacking, hiking, cycling & outdoor adventures.
-  Updated: 2026-01-22T21:34:06Z
+  Updated: 2026-04-01T18:52:16Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/Alpaca_mid_calf_socks_in_sand_brown.jpg?v=1768516227
     Price: $25.99 USD
 - [Ausangate Alpaca Quarter Crew Athletic Socks](https://ausangatesocks.com/products/ausangate-socks-alpaca-quarter-crew-socks): Premium alpaca quarter crew athletic socks. All-sport performance with smooth fit, superior comfort and breathability. Perfect for active lifestyles.
-  Updated: 2026-02-08T20:48:50Z
+  Updated: 2026-04-01T18:52:17Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -185,7 +185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/Gray_black_quarter_crew_socks_with_black_stripes..png?v=1768514968
     Price: $19.99 USD
 - [Ausangate No-Show Alpaca Socks | Athletic All - Sport Socks](https://ausangatesocks.com/products/ausangate-alpaca-no-peek-socks): Explore ultimate comfort with Ausangate Alpaca No-Show athletic socks. Perfectly knit for sports, these socks provide support, comfort & unparalleled softness.
-  Updated: 2026-01-19T20:15:41Z
+  Updated: 2026-04-01T18:52:17Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -243,7 +243,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/IMG_2521.png?v=1763669277
     Price: $19.99 USD
 - [Ausangate Alpaca Heel Tab Socks | All Sports Alpaca Socks](https://ausangatesocks.com/products/ausangate-socks-alpaca-yarn-low-cut-heel-tab-socks): Update your outdoor gear with Ausangate Alpaca Heel Tab Socks offering comfort, performance and versatility. Comfortable socks are must for any activity.
-  Updated: 2026-01-23T03:38:13Z
+  Updated: 2026-04-01T18:52:18Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -285,7 +285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/heel_tab_alpaca-Ssocks_red_white_blue.jpg?v=1767732159
     Price: $19.99 USD
 - [Ausangate Alpaca High - Calf Hiking Socks | Designed For Performance](https://ausangatesocks.com/products/alpaca-high-calf-hiking-socks): Try our high-calf alpaca performance hiking socks. Enjoy warmth, breathability, blister-free hiking or long days on your feet at work.
-  Updated: 2026-01-30T20:18:07Z
+  Updated: 2026-04-01T18:52:20Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -339,7 +339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/alpaaca_high_calf_performance_socks_in_sand_brown.png?v=1769459878
     Price: $29.99 USD
 - [Purchase An Ausangate Alpaca Socks Gift Card For A Friend](https://ausangatesocks.com/products/ausangate-alpaca-socks-gift-card): Send an Ausangate Alpaca Socks Gift Card when you are unsure of size and what the gift recipient would prefer. Alpaca socks are a great purchase.
-  Updated: 2026-01-17T02:57:50Z
+  Updated: 2026-04-01T18:52:21Z
   Vendor: Ausangate Socks
   Product Type: 
   Availability: Available
@@ -357,7 +357,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Geometric Style Alpaca Beanie Hat | Elegance & Comfort](https://ausangatesocks.com/products/alpaca-geometric-beanie-hat): Our alpaca Geometric Beanie Hat features artful & textural mix of colors and  accentuated by five distinct bands, creating a visually dynamic apparel accessory.
-  Updated: 2026-02-12T03:11:59Z
+  Updated: 2026-04-01T18:52:22Z
   Vendor: Ausangate Socks
   Product Type: Hats
   Availability: Available
@@ -383,7 +383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/Azure_Blue_Alpaca_Geometric_pattern_Beanie.jpg?v=1766447198
     Price: $22.99 USD
 - [Alpaca Cable Knit Beanie Pom Hat](https://ausangatesocks.com/products/alpaca-cable-knit-beanie-hat-in-petal-pink): Our handcrafted alpaca cable knit beanie pom hat is a classic, timeless style in a shifting display of beautiful shades of pink.
-  Updated: 2026-01-17T06:40:16Z
+  Updated: 2026-04-01T18:52:23Z
   Vendor: Ausangate Socks
   Product Type: Hats
   Availability: Available
@@ -393,22 +393,22 @@
 ## Collections
 
 - [Alpaca Fiber Vintage Style Hats](https://ausangatesocks.com/collections/alpaca-hats): Discover stylish alpaca hats perfect for everyday wear and travel. Experience warmth and comfort while making a fashion statement wherever you go.
-  Updated: 2026-02-12T12:28:01Z
+  Updated: 2026-04-01T18:52:10Z
   Total Products: 3
 - [Alpaca Socks](https://ausangatesocks.com/collections/alpaca-socks): Upgrade your sock game with our soft, warm alpaca fiber socks. Perfect for athletes seeking comfort and style without compromise—step up your performance today.
-  Updated: 2026-02-09T12:26:45Z
+  Updated: 2026-04-01T18:52:11Z
   Total Products: 6
 - [Alpaca Shorty Socks](https://ausangatesocks.com/collections/shorty-socks): Our shorty alpaca fiber blend socks are perfect for trail running, walking, tennis,   golf and for the gym. Add our alpaca athletic socks to your sports gear.
-  Updated: 2026-02-09T12:26:45Z
+  Updated: 2026-04-01T18:52:11Z
   Total Products: 3
 - [Ausangate Mid - Calf Alpaca Hiking Socks](https://ausangatesocks.com/collections/mid-calf-alpaca-hiking-socks): Experience unparalleled comfort on your hikes with our premium alpaca mid-calf hiking socks, crafted to pair perfectly with your hiking boots and outdoor gear.
-  Updated: 2026-01-21T13:07:13Z
+  Updated: 2026-04-01T18:52:11Z
   Total Products: 2
 - [Ausangate Alpaca High-Calf Performance Socks](https://ausangatesocks.com/collections/high-calf-socks): Alpaca High Calf Performance Socks. All-season adventure companion for your feet whether in hiking or winter boots. Great for trails or snow sports adventure.
-  Updated: 2026-01-31T12:25:26Z
+  Updated: 2026-04-01T18:52:11Z
   Total Products: 2
 - [Alpaca Scarves](https://ausangatesocks.com/collections/scarves): Explore our elegant, lightweight hand loomed alpaca scarves with colors inspired by nature. The ultimate accessory to style any outfit.
-  Updated: 2026-01-25T12:21:50Z
+  Updated: 2026-04-01T18:52:12Z
   Total Products: 1
 
 ## Store Pages
