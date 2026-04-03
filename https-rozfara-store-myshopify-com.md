@@ -6,19 +6,19 @@
 - Timezone: America/Toronto
 - Created At: 2026-01-03T01:46:20Z
 - Contact Email: nunka9318@gmail.com
-- Updated At: 2026-03-26T00:00:23.335Z
+- Updated At: 2026-04-03T00:00:32.792Z
 
 ## Products
 
 - [Capsules Or Vitamine C Hydratantes – LUXURYTO](https://rozfara-store.myshopify.com/products/deep-vitamin-c-golden-capsule-hydrating-face-moisturizer-antioxidant-protection-lightweight-daily-skincare): Capsules dorées à la Vitamine C pour hydrater, illuminer et unifier votre teint. Formule unisexe, sans substances préoccupantes.
-  Updated: 2026-03-20T03:12:23Z
+  Updated: 2026-04-02T18:53:15Z
   Vendor: Rozfara Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/8615/0341/files/S99ca1be2d0e74651b7c3d7d2e21b3854b.webp?v=1771610387
   Price: $10.90 CAD
 - [Set LAIKOU Vitamine C (3pcs) – Coffret Soin Visage](https://rozfara-store.myshopify.com/products/3pcs-set-laikou-vitamin-c-facial-set-for-hydrating-moisturizing-whitening-and-brightening): Coffret 3 produits LAIKOU à la Vitamine C pour hydrater, éclaircir et illuminer votre teint. Formule unisexe, sans substances préoccupantes.
-  Updated: 2026-03-20T13:29:15Z
+  Updated: 2026-04-02T18:57:07Z
   Vendor: Rozfara Store
   Product Type: 
   Availability: Available
@@ -36,14 +36,14 @@
     Image: https://cdn.shopify.com/s/files/1/0756/8615/0341/files/S069d8ae7ee6e49b481dfa946c86ba2d8J.webp?v=1771610388
     Price: $8.39 CAD
 - [Sérum Vitamine C 23% Anti-âge SANENDI – Teint Lumineux](https://rozfara-store.myshopify.com/products/23-vitamin-c-face-serum-for-dark-spot-removal-and-skin-brightening-anti-aging-face-serum-whitening-formula-glass-skin-care): Sérum visage à 23% de Vitamine C pour réduire les rides, effacer les taches et illuminer le teint. Certifié CPNP, formule unisexe.
-  Updated: 2026-03-19T23:08:46Z
+  Updated: 2026-04-02T18:57:48Z
   Vendor: Rozfara Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/8615/0341/files/S71eb098629d64e8cac12400962a0e7e0K.webp?v=1771610399
   Price: $3.78 CAD
 - [Sérum Blanchissant Vitamine C Anti-taches PWYUMAN](https://rozfara-store.myshopify.com/products/vitamin-c-whitening-serum-effective-remove-dark-spots-freckles-fade-melanin-anti-wrinkle-brightening-nourishing-face-skin-care): Sérum visage à la Vitamine C pour effacer les taches, unifier le teint et retrouver une peau lumineuse. Formule douce sans substances préoccupantes.
-  Updated: 2026-03-19T19:29:29Z
+  Updated: 2026-04-02T19:03:26Z
   Vendor: Rozfara Store
   Product Type: 
   Availability: Available
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/8615/0341/files/Sd944f07b1a1d48e09d3ee9b9735f1b95p.webp?v=1771610400
     Price: $37.48 CAD
 - [Sérum Vitamine C + Rétinol Anti-âge (2pcs) – YOUNGCOME](https://rozfara-store.myshopify.com/products/2pcs-vitamin-c-and-retinol-fortified-serum-rich-in-vc-keep-skin-hydrated-and-smooth-smooth-fine-lines-and-wrinkles-delicate-skin): Duo de sérums Vitamine C et Rétinol pour illuminer le teint, réduire les rides et hydrater la peau. Certifié CPNP.
-  Updated: 2026-03-20T01:14:06Z
+  Updated: 2026-04-02T19:10:56Z
   Vendor: Rozfara Store
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/8615/0341/files/S2c3c73076e954047b9e7b586a4965a77r.webp?v=1771610400
     Price: $13.47 CAD
 - [Vitamine E 1000 IU 450mg Bcuelov – Antioxydant Peau & Immunité](https://rozfara-store.myshopify.com/products/bcuelov-vitamin-e-1000-iu-450mg-for-skin-hair-circulatory-health-immune-system-support-antioxidant-supplement): Supplément Vitamine E 1000 IU pour la santé de la peau, des cheveux et du système immunitaire. Formule antioxydante puissante pour adultes.
-  Updated: 2026-03-19T20:39:45Z
+  Updated: 2026-04-02T19:20:57Z
   Vendor: Rozfara Store
   Product Type: 
   Availability: Available
@@ -105,7 +105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/8615/0341/files/S01c066a79ea549c895f15c27b92ee873E.webp?v=1771610401
     Price: $35.67 CAD
 - [COSRX 6 Peptide Skin Booster 150ml – Essence Raffermissante](https://rozfara-store.myshopify.com/products/cosrx-the-6-peptide-skin-booster-150ml-firming-brightening-essence-with-niacinamide-hyaluronic-acid-for-all-skin-types-face-care): Essence 150ml aux 6 peptides, Niacinamide et Acide Hyaluronique pour raffermir, hydrater et illuminer tous les types de peau.
-  Updated: 2026-03-20T15:25:47Z
+  Updated: 2026-04-02T19:22:02Z
   Vendor: Rozfara Store
   Product Type: 
   Availability: Available
