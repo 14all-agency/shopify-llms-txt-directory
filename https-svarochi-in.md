@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-19T18:04:56Z
 - Contact Email: info@svarochi.in
-- Updated At: 2026-03-27T00:00:40.679Z
+- Updated At: 2026-04-03T00:00:41.976Z
 
 ## Products
 
@@ -604,6 +604,44 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/Gemini_Generated_Image_7phrff7phrff7phr.png?v=1768558273
   Price: ₹2,499.00 INR
+- [Rangrez Radiance Farshi Salwar Set](https://svarochi.in/products/rangrez-radiance-farshi-salwar-set): Embrace timeless elegance with the Rangrez Radiance Farshi Salwar Set. This exquisite ensemble features a gracefully draped farshi design that flows with sophistication and comfort. Crafted with premium fabrics and vibrant Rangrez dyes, each piece showcases rich, authentic colors that celebrate traditional Indian craftsmanship. The set includes a beautifully tailored salwar, a flowing dupatta, and a intricately designed kurta that flatters every silhouette. Perfect for festive occasions, celebrations, or everyday wear, this salwar set blends heritage aesthetics with contemporary style. The breathable fabric ensures all-day comfort while the detailed embellishments add a touch of understated luxury. Ideal for those who appreciate authentic Indian fashion with a modern sensibility.
+  Updated: 2026-03-31T15:50:25Z
+  Vendor: Svarochi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/GiGPEnPd_9MGPLNJ88N_2026-02-18_1.webp?v=1774970781
+  Price: ₹1,899.00 INR
+- [Noir Raha Embroidered Kurta Set](https://svarochi.in/products/noir-raha-embroidered-kurta-set): Elevate your ethnic wardrobe with the Noir Raha Embroidered Kurta Set. This sophisticated ensemble features intricate embroidery work on a luxurious noir base, perfect for festive occasions, celebrations, or elevated everyday wear. The kurta's elegant design combines traditional craftsmanship with contemporary silhouettes, offering comfort without compromising on style. Ideal for those who appreciate refined details and timeless elegance.
+  Updated: 2026-03-31T15:50:10Z
+  Vendor: Svarochi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/SUi4CooW_WNVWMQVSND_2026-01-29_1.webp?v=1774971652
+  Price: ₹1,899.00 INR
+- [White Chikankari Kurti](https://svarochi.in/products/white-chikankari-kurti): Elevate your everyday wardrobe with the timeless elegance of our White Short Chikankari Kurti. Handcrafted with intricate threadwork on premium 100% pure cotton, this piece strikes the perfect balance between traditional craftsmanship and modern silhouettes.
+  Updated: 2026-04-01T10:00:32Z
+  Vendor: Svarochi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/Gemini_Generated_Image_af4dpsaf4dpsaf4d.png?v=1775036506
+  - [Cotton / XS](https://svarochi.in/products/white-chikankari-kurti?variant=46915807215769)
+    Availability: Available
+    Price: ₹899.00 INR
+  - [Cotton / S](https://svarochi.in/products/white-chikankari-kurti?variant=46915807379609)
+    Availability: Available
+    Price: ₹899.00 INR
+  - [Cotton / M](https://svarochi.in/products/white-chikankari-kurti?variant=46915807412377)
+    Availability: Available
+    Price: ₹899.00 INR
+  - [Cotton / L](https://svarochi.in/products/white-chikankari-kurti?variant=46915807445145)
+    Availability: Available
+    Price: ₹899.00 INR
+  - [Cotton / XL](https://svarochi.in/products/white-chikankari-kurti?variant=46915807477913)
+    Availability: Available
+    Price: ₹899.00 INR
+  - [Cotton / 2XL](https://svarochi.in/products/white-chikankari-kurti?variant=46915807510681)
+    Availability: Available
+    Price: ₹899.00 INR
 
 ## Collections
 
@@ -611,8 +649,8 @@
   Updated: 2026-02-28T01:28:29Z
   Total Products: 45
 - [Kurta Sets](https://svarochi.in/collections/kurta-sets): Designer Kurta Sets
-  Updated: 2026-03-10T09:03:49Z
-  Total Products: 10
+  Updated: 2026-04-02T05:56:42Z
+  Total Products: 13
 - [Chikankari](https://svarochi.in/collections/chikankari): Fine Lucknow Chikankari Kurtis and Kurta sets, all handwork
   Updated: 2026-02-28T01:27:40Z
   Total Products: 12
@@ -674,6 +712,15 @@
     Author: Svarochi
   - [How Chikankari Designs Elevate Your Bridal Lehenga Experience](https://svarochi.in/blogs/news/how-chikankari-designs-elevate-your-bridal-lehenga-experience): How Chikankari Designs Elevate Your Bridal Lehenga Experience
     Updated: 2026-03-25T01:20:31Z
+    Author: Svarochi
+  - [Educational Insights on the Crafting of Chikankari and Bridal Wear](https://svarochi.in/blogs/news/educational-insights-on-the-crafting-of-chikankari-and-bridal-wear): Educational Insights on the Crafting of Chikankari and Bridal Wear
+    Updated: 2026-03-27T01:22:13Z
+    Author: Svarochi
+  - [Exploring Indo Western Kurta Options for Contemporary Brides](https://svarochi.in/blogs/news/exploring-indo-western-kurta-options-for-contemporary-brides): Exploring Indo Western Kurta Options for Contemporary Brides
+    Updated: 2026-03-30T01:12:41Z
+    Author: Svarochi
+  - [Editorial on the Role of Ethnic Wear in Modern Indian Weddings](https://svarochi.in/blogs/news/editorial-on-the-role-of-ethnic-wear-in-modern-indian-weddings): Editorial on the Role of Ethnic Wear in Modern Indian Weddings
+    Updated: 2026-04-01T01:13:34Z
     Author: Svarochi
 
 ## Store Pages
