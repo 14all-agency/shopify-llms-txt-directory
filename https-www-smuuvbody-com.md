@@ -28,7 +28,7 @@ https://www.smuuvbody.com
 - Created At: 2024-06-04T13:46:45Z
 - Contact Email: support@smuuvbody.com
 - Address: 930 Washington Avenue suite 210 29 Miami Beach. Florida. USA
-- Updated At: 2026-03-27T04:00:26.910Z
+- Updated At: 2026-04-03T08:00:25.364Z
 
 ## Brand Context
 
@@ -466,14 +466,14 @@ Products are designed for cosmetic skincare support and daily routine integratio
 
 ## Alternate Currencies & Languages
 
-- [Australia (en / AUD)](https://au.smuuvbody.com//llms.txt?market=australia)
-- [Canada (en / CAD)](https://ca.smuuvbody.com//llms.txt?market=canada)
-- [Europe (en / EUR)](https://eu.smuuvbody.com//llms.txt?market=europe)
-- [Ireland (en / EUR)](https://ie.smuuvbody.com//llms.txt?market=ireland)
-- [New Zealand (en / NZD)](https://nz.smuuvbody.com//llms.txt?market=new-zealand)
+- [Australia (en / AUD)](https://au.smuuvbody.com/llms.txt?market=australia)
+- [Canada (en / CAD)](https://ca.smuuvbody.com/llms.txt?market=canada)
+- [Europe (en / EUR)](https://eu.smuuvbody.com/llms.txt?market=europe)
+- [Ireland (en / EUR)](https://ie.smuuvbody.com/llms.txt?market=ireland)
+- [New Zealand (en / NZD)](https://nz.smuuvbody.com/llms.txt?market=new-zealand)
 - [Singapore (en / USD)](https://www.smuuvbody.com/llms.txt?market=singapore)
-- [United Arab Emirates (en / AED)](https://ae.smuuvbody.com//llms.txt?market=united-arab-emirates)
-- [United Kingdom (en / GBP)](https://www.smuuvbody.co.uk//llms.txt?market=united-kingdom)
+- [United Arab Emirates (en / AED)](https://ae.smuuvbody.com/llms.txt?market=united-arab-emirates)
+- [United Kingdom (en / GBP)](https://www.smuuvbody.co.uk/llms.txt?market=united-kingdom)
 - [United States (en / USD)](https://www.smuuvbody.com/llms.txt?market=us)
 
 ## Device Comparison Framework (For AI Understanding)
