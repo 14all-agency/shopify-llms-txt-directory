@@ -6,16 +6,16 @@
 - Timezone: America/Phoenix
 - Created At: 2026-01-13T23:16:09Z
 - Contact Email: info@rusticroots01.com
-- Updated At: 2026-03-27T00:00:41.461Z
+- Updated At: 2026-04-03T00:00:44.023Z
 
  RUSTIC ROOTS, 
 
 ## Products
 
 - [Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • Dark Heather is 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
-  Updated: 2026-03-18T19:15:46Z
+  Updated: 2026-04-02T10:39:33Z
   Vendor: RUSTIC ROOTS 
-  Product Type: OFF GRID
+  Product Type: TSHIRTS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-dark-heather-grey-front-and-back-69ae5ce8a2193.jpg?v=1773035013
   - [Black / S](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt?variant=51575398793498)
@@ -211,7 +211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heather-indigo-front-and-back-69ae5ce8b1e3f.jpg?v=1773035013
     Price: $28.00 USD
 - [T & T Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-03-18T19:15:46Z
+  Updated: 2026-04-02T10:39:33Z
   Vendor: RUSTIC ROOTS 
   Product Type: LONG SLEEVE SWEATSHIRT
   Availability: Available
@@ -237,14 +237,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-maroon-front-and-back-69b1e0824e4cf.jpg?v=1773265036
     Price: $55.00 USD
 - [OFF GRID HAT WITH FOX](https://rusticroots01.com/products/off-grid-hat-with-fox): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:15:46Z
+  Updated: 2026-04-02T10:39:34Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69ae597e6149a.jpg?v=1773214256
   Price: $28.00 USD
 - [Unisex Sweatshirt RV LIFE SWEAYSHIRT](https://rusticroots01.com/products/unisex-sweatshirt-1): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant.
-  Updated: 2026-03-18T19:15:47Z
+  Updated: 2026-04-02T10:39:34Z
   Vendor: RUSTIC ROOTS 
   Product Type: LONG SLEEVE SWEATSHIRT
   Availability: Available
@@ -446,7 +446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-military-green-front-and-back-69b1e7eb535b2.jpg?v=1773266942
     Price: $55.00 USD
 - [OFF ROAD T SHIRTS Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:47Z
+  Updated: 2026-04-02T10:39:35Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF ROAD SHIRT
   Availability: Available
@@ -652,7 +652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-and-back-69ae5ffd8b45a.jpg?v=1773036017
     Price: $28.00 USD
 - [Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-2): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel.• 50% cotton, 50% polyester• Pre-shrunk• Classic fit• 1x1 athletic rib knit collar with spandex• Air-jet spun yarn with a soft feel• Double-needle stitched collar, shoulders, armholes, cuffs, and hemDisclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white.• Subtle orange hue shifts with lighting in the Orange color variant.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:47Z
+  Updated: 2026-04-02T10:39:35Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -678,7 +678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-sport-grey-front-6968157386227.jpg?v=1768428942
     Price: $55.00 USD
 - [BOONDOCKING LIFE Women's Relaxed T-Shirt](https://rusticroots01.com/products/womens-relaxed-t-shirt): This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:47Z
+  Updated: 2026-04-02T10:39:36Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -708,7 +708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-white-front-69ae52ef2b9e0.jpg?v=1773033257
     Price: $40.00 USD
 - [Unisex eco raglan hoodie- WHAT DO U LOVE](https://rusticroots01.com/products/unisex-eco-raglan-hoodie): If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:48Z
+  Updated: 2026-04-02T10:39:36Z
   Vendor: RUSTIC ROOTS 
   Product Type: 
   Availability: Available
@@ -826,7 +826,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-burnt-orange-front-69ae51dea527a.jpg?v=1773031915
     Price: $75.00 USD
 - [Unisex classic tee OFF GRID HERO](https://rusticroots01.com/products/unisex-classic-tee-1): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
-  Updated: 2026-03-18T19:15:48Z
+  Updated: 2026-04-02T10:39:37Z
   Vendor: RUSTIC ROOTS 
   Product Type: 
   Availability: Available
@@ -1032,14 +1032,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-dark-heather-front-69ae49fd8ab27.jpg?v=1773029904
     Price: $28.00 USD
 - [OFF GRID HAT](https://rusticroots01.com/products/dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh
-  Updated: 2026-03-18T19:15:48Z
+  Updated: 2026-04-02T10:39:37Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69b11102b65bf.jpg?v=1773211917
   Price: $40.00 USD
 - [CAMPING LIFE  Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-3): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-03-18T19:15:48Z
+  Updated: 2026-04-02T10:39:38Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -1105,7 +1105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-ash-front-69ae4fce229e5.jpg?v=1773031389
     Price: $55.00 USD
 - [Unisex Hoodie DEAR SWEATSHIRT](https://rusticroots01.com/products/unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:49Z
+  Updated: 2026-04-02T10:39:38Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID SWEATSHIRT
   Availability: Available
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69b1172147402.jpg?v=1773213488
     Price: $75.00 USD
 - [Unisex   NO ROADS NEEDED   TEE SHIRT](https://rusticroots01.com/products/unisex-t-shirt): This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57 4XL 34 30 58-61 5XL 35 31 62-65
-  Updated: 2026-03-18T19:15:49Z
+  Updated: 2026-04-02T10:39:38Z
   Vendor: RUSTIC ROOTS 
   Product Type: T SHIRT SHORT SLEEVE
   Availability: Available
@@ -1197,14 +1197,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-army-front-and-back-69afbcea5904e.jpg?v=1773124856
     Price: $35.00 USD
 - [Vintage Cotton Twill Cap WILD COW](https://rusticroots01.com/products/vintage-cotton-twill-cap): Everybody knows that dad caps are no longer just for dads, so get an embroidered cotton twill cap for yourself! This one's really special thanks to the intricate embroidery detail and the washed out vintage feel. • 100% cotton twill • 6-panel unstructured cap with a low profile • 6 sewn eyelets • Black sweatband • Metal snap buckle with an antique brass finish • Washed-out vintage effect • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 18 ½-23 ¼ 4 ⅜ 2 ⅞ 7 ⅛
-  Updated: 2026-03-18T19:15:49Z
+  Updated: 2026-04-02T10:39:39Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-charcoal-grey-front-6969cfe903eb2.jpg?v=1768542197
   Price: $40.00 USD
 - [RV LIFE HAT](https://rusticroots01.com/products/rv-life-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:15:50Z
+  Updated: 2026-04-02T10:39:39Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE HAT
   Availability: Available
@@ -1230,7 +1230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69b1e9ece2dfb.jpg?v=1773267640
     Price: $40.00 USD
 - [Unisex Hoodie SIMPLE](https://rusticroots01.com/products/unisex-hoodie-1): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:50Z
+  Updated: 2026-04-02T10:39:40Z
   Vendor: RUSTIC ROOTS 
   Product Type: SWEATSHIRT SIMPLE
   Availability: Available
@@ -1436,7 +1436,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-light-pink-zoomed-in-69b1f4db066c7.jpg?v=1773270617
     Price: $75.00 USD
 - [Unisex Hoodie OFF GRID SWEATSHIRT](https://rusticroots01.com/products/unisex-hoodie-2): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings.• 100% cotton face• 65% ring-spun cotton, 35% polyester• Front pouch pocket• Self-fabric patch on the back• Matching flat drawstrings• 3-panel hood• Blank product sourced from PakistanDisclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:15:50Z
+  Updated: 2026-04-02T10:39:41Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -1466,9 +1466,9 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-6971b94c0a11d.jpg?v=1769060695
     Price: $75.00 USD
 - [GIRLS OFF GRID T SHIRT SHORT SLEEVES](https://rusticroots01.com/products/unisex-classic-tee-off-grid-girl): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
-  Updated: 2026-03-18T19:15:50Z
+  Updated: 2026-04-02T10:39:42Z
   Vendor: R & R APPAREL
-  Product Type: OFF GRID TSHIRT
+  Product Type: TSHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69b1f9dbf12ba.jpg?v=1773271995
   - [Maroon / S](https://rusticroots01.com/products/unisex-classic-tee-off-grid-girl?variant=51604098646298)
@@ -1672,14 +1672,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sapphire-front-and-back-69b1f9dbdb8e5.jpg?v=1773271995
     Price: $28.00 USD
 - [Distressed BOONDOCKING   HAT](https://rusticroots01.com/products/distressed-hat-boondocking): Expand your headwear collection with this fashionable dad hat. With a slightly distressed brim and crown fabric, it’ll add just the right amount of edge to your look. For a quick and easy outfit pair it with slacks, your favorite jeans, and a sports tee. • 100% pre-shrunk cotton twill • Soft crown • 6 sewn eyelets • 6 stitched rows on the brim • 6-panel unstructured cap with a low profile • Seamed front panel without buckram • Adjustable hook and loop closure • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:51Z
+  Updated: 2026-04-02T10:39:44Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING HAT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/distressed-dad-hat-khaki-front-69b1fc6a2fd53.jpg?v=1773277453
   Price: $34.98 USD
 - [Embroidered Beanie BOONDOCKING](https://rusticroots01.com/products/embroidered-beanie-boondocking): The perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing. • 60% cotton, 40% acrylic • Breathable cotton blend • Form-fitting shape • One size fits most This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 17 ⅜-17 ⅞ 8 ⅛ 2 ½ 8 ¼
-  Updated: 2026-03-18T19:15:51Z
+  Updated: 2026-04-02T10:39:45Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEANIE CAP HAT
   Availability: Available
@@ -1701,7 +1701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/knit-beanie-gray-front-69b1ed7f70cc5.jpg?v=1773268555
     Price: $40.00 USD
 - [Embroidered Champion Packable Jacket](https://rusticroots01.com/products/embroidered-champion-packable-jacket): Protect yourself from the elements with this Champion packable jacket. This wind and rain resistant polyester jacket with a detailed embroidery design has a practical hood, front kangaroo pocket, and zipped pouch pocket which you can pull out and use to scrunch the jacket into for convenient storage. • 100% polyester micro poplin • Wind and rain resistant • Half zip pullover with a hood • Front kangaroo pocket • Hidden zipped pouch pocket • Packable in the zipped pouch pocket • Adjustable bungee draw cord at hood and bottom hem • Elastic cuffs • Embroidered “C” logo on the left sleeve This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) BODY WIDTH (inches) SLEEVE LENGTH (FROM CENTER BACK) (inches) S 27 ¼ 21 ¼ 34 ¼ M 28 22 ¾ 35 L 28 ¾ 24 ¼ 36 XL 29 ½ 25 ¾ 36 ¾ 2XL 30 ¼ 27 ¼ 37 ½
-  Updated: 2026-03-18T19:15:51Z
+  Updated: 2026-04-02T10:39:46Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -1827,7 +1827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/embroidered-champion-packable-jacket-gold-front-69b1f7734f3c2.jpg?v=1773270911
     Price: $63.00 USD
 - [RV LIFE APPAREL Unisex Premium Sweatshirt   LONG SLEEVES](https://rusticroots01.com/products/unisex-premium-sweatshirt-rv-life-apparel): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-20T23:23:51Z
+  Updated: 2026-04-02T10:39:47Z
   Vendor: R & R APPAREL
   Product Type: RV LIFE T SHIRT
   Availability: Available
@@ -2033,7 +2033,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-latte-front-696ec9ad83e9b.jpg?v=1773896694
     Price: $55.00 USD
 - [Unisex Bomber Jacket OFF GRID](https://rusticroots01.com/products/unisex-bomber-jacket-oof-grid-green-black): Add a little zing to your wardrobe with this vibrant All-Over Print Bomber Jacket. Wear it on a basic t-shirt, or layer it on top of a warm hoodie—it’ll look great either way. With a brushed fleece inside, and a relaxed unisex fit, this Bomber Jacket is just the stuff of the dreams, so be quick to grab yourself one! • 100% polyester • Fabric weight: 6.49 oz/yd² (220 g/m²), weight may vary by 5% • Brushed fleece fabric inside • Unisex fit • Overlock seams • Sturdy neck tape • Silver YKK zipper • 2 self-fabric pockets • Blank product components sourced from the US and China Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 34 ⅝ 26 ¾ 37 S 36 ¼ 28 ⅜ 38 ⅝ M 37 ¾ 29 ⅞ 40 ⅛ L 41 33 ⅛ 43 ¼ XL 44 ⅛ 36 ¼ 46 ½ 2XL 47 ¼ 39 ⅜ 49 ⅝ 3XL 50 ⅜ 42 ½ 52 ¾
-  Updated: 2026-03-18T19:15:52Z
+  Updated: 2026-04-02T10:39:47Z
   Vendor: R & R APPAREL
   Product Type: ZIP IUP JACKET
   Availability: Available
@@ -2067,14 +2067,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-bomber-jacket-white-front-69b2392db16be.jpg?v=1773287737
     Price: $69.89 USD
 - [Backpack RV LIFE](https://rusticroots01.com/products/backpack-rv-life): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
-  Updated: 2026-03-18T19:15:52Z
+  Updated: 2026-04-02T10:39:48Z
   Vendor: R & R APPAREL
   Product Type: BACKPACKS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-69b2183198559.jpg?v=1773279520
   Price: $58.00 USD
 - [Under Armour® Backpack OFF  GRID LIFE](https://rusticroots01.com/products/under-armour®-backpack): Your go-to backpack for work, workouts, and everything in between. Water-resistant with a soft-lined laptop sleeve, expandable storage, and a balanced strap system for all-day comfort. • 93% polyester, 7% nylon • Highly water-resistant and stain-resistant UA Storm fabric • Dimensions: H 20.1″ (51.1 cm), W 12.6″ (32 cm), D 6.6″ (16.8 cm) • Capacity: 7.24 gal. (27.4 l) • LEVELED™ strap system for an even weight distribution • Soft-lined laptop pocket that fits a 16″ laptop • Side water bottle pocket that fits a 32 oz. bottle • Secure zip front pockets • Blank product sourced from Cambodia
-  Updated: 2026-03-18T19:15:52Z
+  Updated: 2026-04-02T10:39:48Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -2092,7 +2092,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/under-armour-backpack-castlerock-front-696ef211ec15b.jpg?v=1768878624
     Price: $78.50 USD
 - [Unisex Athletic BOONDOCKING MOUNTAINS SHORTS](https://rusticroots01.com/products/all-over-print-unisex-athletic-long-shorts-off-grid-boondocking-mountains): Sports outfits can be a lot of hassle, but with these long shorts there's no need for that. Just throw on a pair and go running, swimming, weight-lifting, or participate in any other activity that pops in your mind. These shorts won't let you down! • 91% recycled polyester, 9% spandex • Fabric weight: 5.13 oz. /yd. ² (174 g/m²) • Four-way stretch moisture-wicking microfiber fabric • Breathable and fast-drying material • UPF50+ protection • 6.3" (16 cm)inam • Elastic waistband with a flat white drawstring • Mesh side pockets • No inner lining • Blank product components sourced from China Size guide WAIST (inches) HIPS (inches) 2XS 28 ⅜ 35 ⅜ XS 29 ⅞ 37 S 31 ½ 38 ⅝ M 33 ⅛ 40 ⅛ L 36 ¼ 43 ¼ XL 39 ⅜ 46 ½ 2XL 42 ½ 49 ⅝ 3XL 45 ⅝ 52 ¾ 4XL 48 ⅞ 55 ⅞ 5XL 52 59 6XL 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:15:53Z
+  Updated: 2026-04-02T10:39:48Z
   Vendor: R & R APPAREL
   Product Type: SHORTS
   Availability: Available
@@ -2142,21 +2142,21 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-athletic-long-shorts-white-front-69b21ad255722.jpg?v=1773279965
     Price: $60.00 USD
 - [CAMO   HAT](https://rusticroots01.com/products/dad-hat-1): You’ll be head over heels with this timeless piece! The hat comes in various colors to match your style and sits on your head just like a crown, thanks to the adjustable strap. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:15:53Z
+  Updated: 2026-04-02T10:39:49Z
   Vendor: R & R APPAREL
   Product Type: CAMO HAT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-green-camo-front-69b21dc30db04.jpg?v=1773280779
   Price: $35.00 USD
 - [OFF ROAD HAT](https://rusticroots01.com/products/rv-life-hat-2-tone): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:53Z
+  Updated: 2026-04-02T10:39:49Z
   Vendor: R & R APPARELOFF ROAD CAP
   Product Type: OFF ROAD HAT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69b2226e63a0e.jpg?v=1773282038
   Price: $35.00 USD
 - [Camouflage trucker hat RV LIFE](https://rusticroots01.com/products/camouflage-trucker-hat-rv-life): Looking for a practical yet stylish hat for outdoor activities? Whether you’re going fishing, camping, or hiking, this hat will be your best friend. And what's even better—it's in the trendy camo print. • 100% cotton front • 100% polyester mesh back • Structured, 6-panel cap, low-profile • Adjustable plastic snap • One size fits mostSize guide A (inches) B (inches) C (inches) D (inches) One size 22 -24 ⅜ 5 ½ 2 ¾ 9
-  Updated: 2026-03-18T19:15:53Z
+  Updated: 2026-04-02T10:39:50Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -2174,7 +2174,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/camouflage-trucker-hat-camo-olive-front-69b11aa91a9dc.jpg?v=1773214388
     Price: $28.00 USD
 - [Five Panel Cap OUTSIDER](https://rusticroots01.com/products/five-panel-cap-outsider): This camper style cap has a low profile and nylon strap clip closure. Comfortable and classic! • 100% cotton • Soft-structured • Five panel • Low profile • Metal eyelets • Nylon strap clip closure
-  Updated: 2026-03-18T19:15:54Z
+  Updated: 2026-04-02T10:39:51Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -2200,7 +2200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-grey-front-69702b76ca83f.jpg?v=1768958844
     Price: $40.00 USD
 - [Pom-Pom Beanie](https://rusticroots01.com/products/pom-pom-beanie): Expand your wardrobe with a classic embroidered beanie. Finished with a pom-pom on top, it offers tons of warmth and comfort and is destined to find its way into all your favorite cold-weather looks. • 100% acrylic• 12″ (30.5 cm) knit• Fold-over 3″ (7.6 cm) cuff• Pom-pom on top• One size fits most• Blank product sourced from VietnamThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide A (inches) B (inches) C (inches) D (inches) E (inches) One size 17 ¾-18 ⅞ 9 ¼ 3 8 ¼ 3
-  Updated: 2026-03-18T19:15:54Z
+  Updated: 2026-04-02T10:39:51Z
   Vendor: R & R APPAREL
   Product Type: HAT BEANIE
   Availability: Available
@@ -2230,7 +2230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/pom-pom-knit-cap-neon-pink-front-69b23744cbf03.jpg?v=1773287241
     Price: $35.00 USD
 - [Vintage corduroy cap WILDERNESS](https://rusticroots01.com/products/vintage-corduroy-cap-wilderness): Step up your style with an embroidered old-school cap. It’s crafted from 100% cotton corduroy that’s soft to the touch and comfy to wear. It features an adjustable strap with a gold-colored buckle for a great fit and a visor to protect you from the sun and wind. Complete your look with this embroidered corduroy cap and rock a cool vibe all day long. • 100% cotton corduroy • Unstructured, 6-panel, low-profile • Cotton twill sweatband and taping • 6 embroidered eyelets • Adjustable strap with a gold-colored metal buckle • Head circumference: 20″–22″ (50.8 cm–56 cm) This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 - 22 6 3 7
-  Updated: 2026-03-18T19:15:54Z
+  Updated: 2026-04-02T10:39:52Z
   Vendor: RUSTIC ROOTS 
   Product Type: HATS
   Availability: Available
@@ -2256,7 +2256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-corduroy-cap-burgundy-front-697033137d7c1.jpg?v=1768960801
     Price: $40.00 USD
 - [Snapback Hat UNKNOWN](https://rusticroots01.com/products/snapback-hat-unknown): This hat is structured with a classic fit, flat brim, and full buckram. The adjustable snap closure makes it a comfortable, one-size-fits-most hat. • 80% acrylic, 20% wool • Green Camo is 60% cotton, 40% polyester • Structured, 6-panel, high-profile • 6 embroidered eyelets • Plastic snap closure • Green undervisor • Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm) • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ⅛-23 ⅝ 4 ½ 2 ½ 7 ⅛
-  Updated: 2026-03-18T19:15:55Z
+  Updated: 2026-04-02T10:39:52Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -2338,7 +2338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-snapback-heather-grey-front-6970350e34dc6.jpg?v=1768961323
     Price: $40.00 USD
 - [Visor LOVE RV LIFE](https://rusticroots01.com/products/visor-love-rv-life): • 97% polyester, 3% spandex • Low-profile • 2 ½″ (5 cm) crown • Matching undervisor • Hook & loop closure with square ring • Head circumference: 22″–23 ⅜″ (56 cm–59 cm)Size guide A (inches) B (inches) C (inches) One size 22-23 ⅜ 2 ⅛ 2 ¾
-  Updated: 2026-03-18T19:15:55Z
+  Updated: 2026-04-02T10:39:53Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -2356,7 +2356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/visor-royal-front-697040e0af757.jpg?v=1768964342
     Price: $40.00 USD
 - [Snapback Hat RUSTIC STARS](https://rusticroots01.com/products/snapback-hat-rustic-stars): This hat is structured with a classic fit, flat brim, and full buckram. The adjustable snap closure makes it a comfortable, one-size-fits-most hat. • 80% acrylic, 20% wool • Green Camo is 60% cotton, 40% polyester • Structured, 6-panel, high-profile • 6 embroidered eyelets • Plastic snap closure • Green undervisor • Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm) • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ⅛-23 ⅝ 4 ½ 2 ½ 7 ⅛
-  Updated: 2026-03-18T19:15:55Z
+  Updated: 2026-04-02T10:39:54Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -2406,7 +2406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-snapback-white-front-69704a9825b6f.jpg?v=1768966835
     Price: $40.00 USD
 - [Unisex classic tee RUSTIC STARS](https://rusticroots01.com/products/unisex-classic-tee-5): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:55Z
+  Updated: 2026-04-02T10:39:55Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -2612,7 +2612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-697051188677e.jpg?v=1768968495
     Price: $28.00 USD
 - [Unisex classic tee UNKNOWN](https://rusticroots01.com/products/unisex-classic-tee-unknown): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:15:56Z
+  Updated: 2026-04-02T10:39:56Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -2786,7 +2786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-graphite-heather-front-69b23b3be4b68.jpg?v=1773288266
     Price: $28.00 USD
 - [W ILD ER NESS SWEATSHIRT unisex Hoodie](https://rusticroots01.com/products/unisex-hoodie-w-ild-er-ness-sweatshirt): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:56Z
+  Updated: 2026-04-02T10:39:56Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -2936,7 +2936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-military-green-front-69b11b93b6c8a.jpg?v=1773214629
     Price: $78.00 USD
 - [Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee-6): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:15:56Z
+  Updated: 2026-04-02T10:39:57Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -2966,7 +2966,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-69705fd30ff29.jpg?v=1768972260
     Price: $28.00 USD
 - [Unisex Sweatshirt CAMPING   HAIR DONT CARE](https://rusticroots01.com/products/unisex-sweatshirt-5): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:56Z
+  Updated: 2026-04-02T10:39:57Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -2992,7 +2992,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae6a055b561.jpg?v=1773038098
     Price: $55.00 USD
 - [Unisex classic tee CAMPFIRE](https://rusticroots01.com/products/unisex-classic-tee-campfire): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:15:57Z
+  Updated: 2026-04-02T10:39:59Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
@@ -3198,37 +3198,37 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-brown-savana-front-6970738549f01.jpg?v=1768977305
     Price: $28.00 USD
 - [Unisex Champion hoodie](https://rusticroots01.com/products/unisex-champion-hoodie): This quality hoodie from Champion will keep you dry and comfortable all day. Made with moisture-wicking Double Dry® technology, it’s a go-to for staying fresh on the move. • 50% cotton, 50% polyester • Light Steel color is 50% cotton, 40% polyester, and 10% black polyester • Fabric weight: 9 oz./yd.² (305 g/m²) • Regular fit • Set-in sleeves • Two-ply hood • Dyed-to-match drawcord • Kangaroo pocket • Heavy rib-knit waistband and cuffs • Embroidered “C” logo on the left cuff • Blank product sourced from Honduras and Guatemala Disclaimer: Size up for a looser fit. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) S 28 34-37 34 ½ M 29 38-41 35 ½ L 30 42-45 36 ½ XL 31 46-49 37 ½ 2XL 32 50-53 38 ½ 3XL 33 54-57 39 ½
-  Updated: 2026-03-18T19:15:57Z
+  Updated: 2026-04-02T10:39:59Z
   Vendor: RUSTIC ROOTS 
-  Product Type: RV LIFE
+  Product Type: RV LIFE SWEATSHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-front-6971901db1373.jpg?v=1775025889
   - [S](https://rusticroots01.com/products/unisex-champion-hoodie?variant=51612305654042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1775025889
     Price: $78.00 USD
   - [M](https://rusticroots01.com/products/unisex-champion-hoodie?variant=51612305686810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1775025889
     Price: $78.00 USD
   - [L](https://rusticroots01.com/products/unisex-champion-hoodie?variant=51612305719578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1775025889
     Price: $78.00 USD
   - [XL](https://rusticroots01.com/products/unisex-champion-hoodie?variant=51612305752346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1775025889
     Price: $78.00 USD
   - [2XL](https://rusticroots01.com/products/unisex-champion-hoodie?variant=51612305785114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1775025889
     Price: $78.00 USD
   - [3XL](https://rusticroots01.com/products/unisex-champion-hoodie?variant=51612305817882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1769050150
+    Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-hoodie-light-steel-back-6971901db1c65.jpg?v=1775025889
     Price: $78.00 USD
 - [HAPPY CAMPER Unisex Premium Sweatshirt](https://rusticroots01.com/products/unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-20T18:38:11Z
+  Updated: 2026-04-02T10:40:00Z
   Vendor: R & R APPAREL
   Product Type: RV LIFE
   Availability: Available
@@ -3378,7 +3378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-lavender-front-69707c49b65ff.jpg?v=1773896007
     Price: $54.00 USD
 - [Unisex Sweatshirt GLAMPING GIRL](https://rusticroots01.com/products/unisex-sweatshirt-6): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-03-18T19:15:58Z
+  Updated: 2026-04-02T10:40:01Z
   Vendor: R & R APPAREL
   Product Type: SWEATSHIRT GIRLS
   Availability: Available
@@ -3584,7 +3584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-graphite-heather-front-69718ea357765.jpg?v=1773286647
     Price: $55.00 USD
 - [Unisex Premium Sweatshirt RV CAMPING MODE](https://rusticroots01.com/products/unisex-premium-sweatshirt-rv-camping-mode): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:58Z
+  Updated: 2026-04-02T10:40:02Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -3686,7 +3686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-69719439e326f.jpg?v=1769051228
     Price: $55.00 USD
 - [Unisex Long Sleeve Tee OFF GRID](https://rusticroots01.com/products/unisex-long-sleeve-tee-off-grid-1): Enrich your wardrobe with a versatile long sleeve tee. For a casual look, combine it with your favorite jeans, and layer it with a button-up shirt, a zip-up hoodie, or a snazzy jacket. Dress it up with formal trousers or chinos to achieve a more professional look. • 100% airlume combed ring-spun cotton • Heather colors are 52% combed and ring-spun cotton, 48% polyester • Athletic Heather and Black Heather are 90% combed and ring-spun cotton, 10% polyester • Fabric weight: 4.2 oz./yd.² (142.4 g/m²) • 32 singles • Regular fit • Side-seamed construction • Crew neck • Cover-stitched collar • 2″ (5 cm) ribbed cuffs • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT LENGTH (inches) CHEST WIDTH (inches) CHEST TO FIT (inches) SLEEVE LENGTH (inches) XS 27 16 ½ 31-34 25 S 28 18 34-37 25 ⅝ M 29 20 38-41 26 ¼ L 30 22 42-45 26 ⅞ XL 31 24 46-49 27 ½ 2XL 32 26 50-53 28 ⅛
-  Updated: 2026-03-18T19:15:58Z
+  Updated: 2026-04-02T10:40:02Z
   Vendor: R & R APPAREL
   Product Type: OFF GRID
   Availability: Available
@@ -3808,7 +3808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-white-front-6971aa6a6219a.jpg?v=1773546785
     Price: $54.00 USD
 - [Unisex Hoodie OATMEAL LIFE](https://rusticroots01.com/products/unisex-hoodie-oatmeal-life): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:58Z
+  Updated: 2026-04-02T10:40:03Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -3982,7 +3982,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-6971ae3b427ea.jpg?v=1769057880
     Price: $78.00 USD
 - [Men’s Long Sleeve Shirt](https://rusticroots01.com/products/men-s-long-sleeve-shirt): A good long-sleeved shirt is a men's fashion must-have. Add this wardrobe essential to your collection, and have a great to-go option for a casual look, or a relaxed business outfit. • 100% cotton• Sport Grey is 90% cotton, 10% polyester• Classic fit with long sleeves and rib cuffs• Pre-shrunk jersey knit• Seamless double-needle 7⁄8'' (2.2 cm) collar• Double-needle bottom hem• Taped neck and shoulders• Quarter-turned to avoid crease down the middleDisclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-03-18T19:15:59Z
+  Updated: 2026-04-02T10:40:03Z
   Vendor: R & R APPAREL
   Product Type: LONG SLEEVE SHIRT
   Availability: Available
@@ -4043,7 +4043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-long-sleeve-shirt-ash-front-6971b66e65807.jpg?v=1773288469
     Price: $54.00 USD
 - [Unisex classic tee CAMPING TEE OFF GRID](https://rusticroots01.com/products/unisex-classic-tee-camping-tee-off-grid): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:15:59Z
+  Updated: 2026-04-02T10:40:04Z
   Vendor: R & R APPAREL
   Product Type: GIRLS TEE SHIRT
   Availability: Available
@@ -4249,7 +4249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-natural-front-6971c06f34252.jpg?v=1769062545
     Price: $40.00 USD
 - [OFF GRID FLAG Unisex eco raglan hoodie FLAH](https://rusticroots01.com/products/unisex-eco-raglan-hoodie-flah-off-grid): If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2026-03-18T19:15:59Z
+  Updated: 2026-04-02T10:40:05Z
   Vendor: R & R APPAREL
   Product Type: OFF GRID
   Availability: Available
@@ -4311,7 +4311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-charcoal-melange-front-6971c78b95827.jpg?v=1769064341
     Price: $72.00 USD
 - [Unisex lightweight zip up windbreaker](https://rusticroots01.com/products/unisex-lightweight-zip-up-windbreaker): Light as a feather, this jacket is your go-to windbreaker for any outside adventure. Pack it in your travel bag and explore the outdoors protected and dry (did we mention it’s water-resistant?). • 100% polyester • Interior water-resistant coating • Waterproof pressure resistance: 600 mm • Fabric weight: 2.5 oz/yd² (84.8 g/m²) • Regular, comfortable fit • Matte finish eyelets and zippers • Rubber zipper pull tab • Reversed zipper tape • Three-panel hood with a fine mesh liner • Scuba neck • Self-fabric neck tape • Welt pockets with mesh pocket bags • Tightening toggle for the waistband • Elastic cuffs • Blank product sourced from China Important: This product is available only in the US, except for US territories such as Puerto Rico, Guam, the US Virgin Islands, American Samoa, and Northern Mariana Islands. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:15:59Z
+  Updated: 2026-04-02T10:40:06Z
   Vendor: R & R APPAREL
   Product Type: WINDBREAKER JACKET
   Availability: Available
@@ -4485,7 +4485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-lightweight-zip-up-windbreaker-black-camo-right-front-699e9771619d7.jpg?v=1773287128
     Price: $80.00 USD
 - [Unisex zip hoodie](https://rusticroots01.com/products/unisex-zip-hoodie): Meet the zip hoodie—a must-have for everyday wear. Crafted from 95% recycled polyester, it combines sustainability with style. Soft both inside and out, this unisex hoodie offers a relaxed fit with drop shoulders. Plus, it’s designed to last, keeping you cozy and fashionable for years to come.• 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico• 95% recycled polyester, 5% elastane for manufacturing in Latvia• Fabric weight 9.08 oz./yd.² (308 g/m²)• Soft, cotton-feel fabric outside and brushed fleece inside• Unisex relaxed fit with drop shoulders• Double-lined hood• Moon patch on the inside of the back• Tear-away care label • Self-fabric collar and cuffs• Premium drawstrings and zipper with metal details• The recycled content of this product is  under GRS (Global Recycled Standard)• The fabric is OEKO-TEX 100 standard • Blank product components sourced from China and the USADisclaimer: In areas where the fabric is double layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:00Z
+  Updated: 2026-04-02T10:40:06Z
   Vendor: R & R APPAREL
   Product Type: UNISEX JACKET LITE
   Availability: Available
@@ -4535,7 +4535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-zip-hoodie-white-front-69b2133606b4d.jpg?v=1773278020
     Price: $75.00 USD
 - [Lightweight quarter-zip pullover](https://rusticroots01.com/products/lightweight-quarter-zip-pullover): This ultra-light quarter-zip pullover keeps you cool and dry whether you’re playing a match or running errands. With its smooth fit, clean zip, and no-fuss cuffs and hem, it layers like a dream. It’s also color-locking, moisture-wicking, odor-resistant, and super comfy. • 100% polyester • Fabric weight: 3.8 oz/yd² (110 g/m²) • Moisture-wicking and odor-resistant material • Regular fit • Cadet collar • Color-matching zipper • Blank product sourced from Madagascar This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) XS 27 19 34 ¼ S 28 20 ½ 35 M 29 22 35 ¾ L 30 23 ½ 36 ½ XL 31 25 37 ¼ 2XL 32 26 ½ 38 3XL 32 ½ 28 ½ 38 ¾
-  Updated: 2026-03-18T19:16:00Z
+  Updated: 2026-04-02T10:40:07Z
   Vendor: R & R APPAREL
   Product Type: ZIP UP FRONT PULLOVER
   Availability: Available
@@ -4625,7 +4625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-quarter-zip-pullover-iron-grey-front-6972ee1fc11ec.jpg?v=1769139752
     Price: $58.00 USD
 - [Unisex track pants OFF GRID](https://rusticroots01.com/products/unisex-track-pants-off-grid): The unisex track pants are your new go-to piece for working out or styling a streetwear outfit. The water-resistant, lightweight fabric and mesh lining provide comfort, while elastic ankle cuffs will make it easy for you to show off your kicks. Style it with a windbreaker for a complete look and feel. • 100% polyester • Fabric weight: 2.21 oz/yd² (75 g/m²) • Lightweight, water-resistant fabric • Fully lined, mesh lining • Relaxed fit • Elastic waistband and ankle cuffs • Drawcord • Zip pockets • Sits at hip • Blank product sourced from ChinaSize guide WAIST (inches) INSEAM LENGTH (inches) XS 25 28 S 27 28 ½ M 29 ½ 28 ¾ L 32 29 ¼ XL 35 29 ½ 2XL 36 ½ 30 3XL 39 30 ¼
-  Updated: 2026-03-18T19:16:00Z
+  Updated: 2026-04-02T10:40:09Z
   Vendor: R & R APPAREL
   Product Type: OFF GRID COLLECTION
   Availability: Available
@@ -4659,14 +4659,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-white-front-69b635795b56a.jpg?v=1773548934
     Price: $48.00 USD
 - [DEAR OFF GRID PACKPACK](https://rusticroots01.com/products/dear-off-grid-packpack): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
-  Updated: 2026-03-18T19:16:01Z
+  Updated: 2026-04-02T10:40:09Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-2-6975a2c77c1c5.jpg?v=1769317104
   Price: $60.00 USD
 - [BONFIRE BABE Sweatshirt](https://rusticroots01.com/products/bonfire-babe-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:01Z
+  Updated: 2026-04-02T10:40:10Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -4720,7 +4720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-69b208c93b1e5.jpg?v=1773275355
     Price: $48.00 USD
 - [Unisex Premium Sweatshirt CAMPING](https://rusticroots01.com/products/unisex-premium-sweatshirt-camping): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:01Z
+  Updated: 2026-04-02T10:40:10Z
   Vendor: R & R APPAREL
   Product Type: LONG SLEEVE SWEATSHIRT
   Availability: Available
@@ -4750,7 +4750,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-2-6975ad6d1cf50.jpg?v=1773289220
     Price: $60.00 USD
 - [Unisex classic tee LIFE IS BETTER CAMPFIRE](https://rusticroots01.com/products/unisex-classic-tee-life-is-better-campfire): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:01Z
+  Updated: 2026-04-02T10:40:12Z
   Vendor: RUSTIC ROOTS 
   Product Type: T SHIRT SHORT SLEVE CAMPFIRE
   Availability: Available
@@ -4956,7 +4956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-6975af0a1abf6.jpg?v=1769320223
     Price: $40.00 USD
 - [Unisex Hoodie   MORNING COFFEE](https://rusticroots01.com/products/unisex-hoodi-morning-coffee): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:16:02Z
+  Updated: 2026-04-02T10:40:12Z
   Vendor: R & R APPAREL
   Product Type: SWEATSHIRT GIRLS
   Availability: Available
@@ -5034,7 +5034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69b229c3335c2.jpg?v=1773284435
     Price: $68.00 USD
 - [Women's Relaxed T-Shirt TAKE ME TO THE MOUNTAINS](https://rusticroots01.com/products/womens-relaxed-t-shirt-take-me-to-the-mountains): This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT WIDTH (inches) SHIRT LENGTH (inches) US SIZES EU SIZE UK SIZE SLEEVE LENGTH (inches) S 18 ½ 25 ¼ 6-8 36-38 10-12 7 ¾ M 20 26 10-12 40-42 14-16 8 ¼ L 22 26 ¾ 14-16 44-46 18-20 8 ¾ XL 24 27 ½ 18-20 48-50 22-24 9 ½ 2XL 26 28 ¼ 22-24 52-54 26-28 10 ¼ 3XL 28 29 26-28 56-58 30-32 10 ¾
-  Updated: 2026-03-18T19:16:02Z
+  Updated: 2026-04-02T10:40:13Z
   Vendor: R & R APPAREL
   Product Type: LADYS TEE
   Availability: Available
@@ -5232,7 +5232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-pink-front-697c4fe6b18de.jpg?v=1769754624
     Price: $40.00 USD
 - [Women's Relaxed T-Shirt MY THE FORCE BE WITH YOU](https://rusticroots01.com/products/womens-relaxed-t-shirt-my-the-force-be-with-you): This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT WIDTH (inches) SHIRT LENGTH (inches) US SIZES EU SIZE UK SIZE SLEEVE LENGTH (inches) S 18 ½ 25 ¼ 6-8 36-38 10-12 7 ¾ M 20 26 10-12 40-42 14-16 8 ¼ L 22 26 ¾ 14-16 44-46 18-20 8 ¾ XL 24 27 ½ 18-20 48-50 22-24 9 ½ 2XL 26 28 ¼ 22-24 52-54 26-28 10 ¼ 3XL 28 29 26-28 56-58 30-32 10 ¾
-  Updated: 2026-03-18T19:16:02Z
+  Updated: 2026-04-02T10:40:14Z
   Vendor: RUSTIC ROOTS 
   Product Type: T SHIRT
   Availability: Available
@@ -5358,7 +5358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-relaxed-t-shirt-heather-stone-front-697c564865dc5.jpg?v=1773042005
     Price: $40.00 USD
 - [Unisex heavy blend zip hoodie OFF GRID LIFE](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie-off-grid-life): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:02Z
+  Updated: 2026-04-02T10:40:14Z
   Vendor: R & R APPAREL
   Product Type: ZIP UP JACKET SWEATSHIRT
   Availability: Available
@@ -5484,7 +5484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-dark-heather-front-69b10f8c9f41a.jpg?v=1773211547
     Price: $75.00 USD
 - [Women's Joggers CAMP LIFE](https://rusticroots01.com/products/womens-joggers-camp-life): Congrats, you’ve found your next favorite sweatpants! Made from recycled polyester and spandex blend, these joggers feel super soft to the touch. These joggers feature a vibrant print that won’t fade, so you can enjoy them for a long time.• 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico• 95% recycled polyester, 5% elastane for manufacturing in Latvia• Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²)• Slim fit• Soft cotton-feel fabric face• Brushed fleece fabric inside• Cuffed legs• Practical pockets• Elastic waistband with a white drawstring• Blank components sourced from ChinaDisclaimer: In areas where the fabric is double- layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.
-  Updated: 2026-03-18T19:16:03Z
+  Updated: 2026-04-02T10:40:15Z
   Vendor: RUSTIC ROOTS 
   Product Type: PANTS CAMPING JOGGERS
   Availability: Available
@@ -5518,7 +5518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-womens-joggers-white-front-69b10d26a3956.jpg?v=1773210928
     Price: $60.00 USD
 - [Flip-Flops RV LIFE](https://rusticroots01.com/products/flip-flops-rv-life): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post style
-  Updated: 2026-03-21T01:23:23Z
+  Updated: 2026-04-02T10:40:16Z
   Vendor: R & R APPAREL
   Product Type: RV LIFE SANDLES
   Availability: Available
@@ -5536,7 +5536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-front-left-69b10bf350796.jpg?v=1773210619
     Price: $32.00 USD
 - [Unisex classic tee LET GO EXPLORE](https://rusticroots01.com/products/unisex-classic-tee-let-go-explore): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:03Z
+  Updated: 2026-04-02T10:40:17Z
   Vendor: RUSTIC ROOTS 
   Product Type: TSHIRT SHORT SLEEVES
   Availability: Available
@@ -5662,7 +5662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69b10ada736fd.jpg?v=1773210443
     Price: $40.00 USD
 - [RV LIFE HEART BURST](https://rusticroots01.com/products/rv-life-heart-burst): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-20T20:09:15Z
+  Updated: 2026-04-02T10:40:18Z
   Vendor: R & R APPAREL
   Product Type: RV LIFE TEE
   Availability: Available
@@ -5868,7 +5868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-brown-savana-front-69b10910790a2.jpg?v=1773210053
     Price: $35.00 USD
 - [Unisex classic LIFE WAITS FOR NOBODY TEE](https://rusticroots01.com/products/unisex-classic-tee-do-what-you-love): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:04Z
+  Updated: 2026-04-02T10:40:18Z
   Vendor: RUSTIC ROOTS 
   Product Type: SHORT SLEEVE TEE
   Availability: Available
@@ -6042,7 +6042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-69b106a20725b.jpg?v=1773209269
     Price: $40.00 USD
 - [Unisex Sweatshirt TIEDYE BEACH](https://rusticroots01.com/products/unisex-sweatshirt-nesw-compass-rvlife): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:04Z
+  Updated: 2026-04-02T10:40:19Z
   Vendor: RUSTIC ROOTS 
   Product Type: LONG SLEVE SWEATSHIRT SUMMER BEACH
   Availability: Available
@@ -6092,7 +6092,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69b10304e6951.jpg?v=1773208336
     Price: $60.00 USD
 - [Flip-Flops RV LIFE CAMP LIFE](https://rusticroots01.com/products/flip-flops-rv-life-1): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-03-18T19:16:04Z
+  Updated: 2026-04-02T10:40:20Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -6110,7 +6110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-front-left-69b0f86d7ebe0.jpg?v=1773205621
     Price: $32.00 USD
 - [Women’s slip-on canvas shoes CAMPER](https://rusticroots01.com/products/women-s-slip-on-canvas-shoes-rv-life): Made for comfort and ease, these Women’s Slip-On Canvas Shoes are stylish and the ideal piece for completing an outfit. Equipped with removable soft insoles and rubber outsoles, it’s also easy to adjust them for a better fit. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Your brand on the box, insole, and tongue of the shoe • Breathable lining, soft insole • Elastic side accents • Padded collar and tongue • Printed, cut, and handmade • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product.Size guide US WOMEN UK EUROPE JAPAN OUTSOLE LENGTH (inches) FOOT LENGTH (inches) 5 5 2.5 35.5 22 9 ¾ 8 ⅝ 5.5 5.5 3 36 22.5 9 ¾ 8 ⅞ 6 6 3.5 36.5 23 10.00 9.00 6.5 6.5 4 37.5 23.5 10 ¼ 9 ⅛ 7 7 4.5 38 24 10 ¼ 9 ¼ 7.5 7.5 5 38.5 24.5 10 ⅝ 9 ½ 8 8 5.5 39 25 10 ⅝ 9 ⅝ 8.5 8.5 6 40 25.5 10 ¾ 9 ¾ 9 9 6.5 40.5 26 11 ⅛ 10 9.5 9.5 7 41 26.5 11 ⅛ 10 ⅛ 10 10 7.5 42 27 11 ⅜ 10 ¼ 10.5 10.5 8 42.5 27.5 11 ⅝ 10 ½ 11 11 8.5 43 28 11 ⅝ 10 ⅝ 11.5 11.5 9 44 28.5 12.00 10 ¾ 12 12 9.5 44.5 29 12 ⅛ 11.00
-  Updated: 2026-03-18T19:16:05Z
+  Updated: 2026-04-02T10:40:20Z
   Vendor: RUSTIC ROOTS 
   Product Type: CANVAS SLIP ON WOMENS SHOES
   Availability: Available
@@ -6176,7 +6176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slip-on-canvas-shoes-white-front-69b0f5e2b8884.jpg?v=1773204979
     Price: $60.00 USD
 - [Flip-Flops ARIZONA SKY](https://rusticroots01.com/products/flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-03-18T19:16:05Z
+  Updated: 2026-04-02T10:40:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: SANDLES
   Availability: Available
@@ -6194,7 +6194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-front-left-69b0f4e32f0d7.jpg?v=1773204713
     Price: $30.00 USD
 - [BONFIRE BABE HAT](https://rusticroots01.com/products/bonfire-babe): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:05Z
+  Updated: 2026-04-02T10:40:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: BASEBALL CAP
   Availability: Available
@@ -6228,7 +6228,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-69b0f38fdbc6e.jpg?v=1773204552
     Price: $38.00 USD
 - [Beanie RV  Boondocking HAT](https://rusticroots01.com/products/beanie-rv-boondocking-hat): This beanie will keep you warm on chilly days and serve as a stylish addition to your outfit. It’s double-layered, soft, and oh, so comfy!- Fabric composition in the EU: 96% polyester, 4% spandex- Fabric composition in the US: 93% polyester, 7% spandex- Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²)- Fabric weight in the US: 7.08 oz./yd.² (240 g/m²)- Double-layered- Regular fit (order a size up for a slouchy fit)- Wash at 86°F (30°C)- Blank product components in the EU sourced from Lithuania- Blank product components in the US and Mexico sourced from MexicoThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide HEIGHT (inches) WIDTH (inches) S 8 ⅞ 10 ¼ M 9 ¼ 11 L 9 ⅝ 11 ¾
-  Updated: 2026-03-18T19:16:05Z
+  Updated: 2026-04-02T10:40:22Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
@@ -6246,7 +6246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-beanie-white-front-69b0f26470b25.jpg?v=1773204079
     Price: $32.00 USD
 - [Reversible Bucket HAT   RV STYLE](https://rusticroots01.com/products/reversible-bucket-hat-rv-life-style): This reversible bucket hat can be worn on both sides, making it easy to match with different outfits. Made of breathable premium fabric, this hat will become your go-to streetwear accessory. • 100% polyester • Fabric weight: 8.1 oz/yd² (275 g/m²) • Moisture-wicking and breathable fabric • Linen feel material • Reversible • Available in 3 sizes: XS, S/M, and L/XL • Blank product components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-23T13:55:09Z
+  Updated: 2026-04-02T10:40:22Z
   Vendor: R & R APPAREL
   Product Type: BUCKET HAT REVERSBLE
   Availability: Available
@@ -6264,7 +6264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-reversible-bucket-hat-white-front-outside-69b0ec4b62423.jpg?v=1773202518
     Price: $45.00 USD
 - [Unisex atv off grid sweatshirt](https://rusticroots01.com/products/unisex-atv-off-grid-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-03-18T19:16:06Z
+  Updated: 2026-04-02T10:40:23Z
   Vendor: RUSTIC ROOTS 
   Product Type: LONG SLEEVE SWEATSHIRT
   Availability: Available
@@ -6290,7 +6290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69b0eac0e7fdc.jpg?v=1773202128
     Price: $55.50 USD
 - [MOON RV LIFE Unisex Hoodie](https://rusticroots01.com/products/unisex-hoodie-rvlife-awaits): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:16:06Z
+  Updated: 2026-04-02T10:40:23Z
   Vendor: RUSTIC ROOTS 
   Product Type: SWEATSHIRT LONG SLEV
   Availability: Available
@@ -6392,7 +6392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-vintage-black-front-69b0e7b63ed35.jpg?v=1773201350
     Price: $68.00 USD
 - [OUTSIDE Unisex ringer t-shirt](https://rusticroots01.com/products/unisex-ringer-t-shirt-outside): This lightweight cotton tee features a relaxed fit and contrast trims that give it a retro look. Wear it with jeans, shorts, or joggers for a laid-back everyday look. • 100% combed ring-spun cotton • Heather Gray is 90% cotton, 10% polyester • Fabric weight: 4.3 oz./yd.² (145 g/m²) • Yarn diameter: 32 singles • Side-seamed construction • Regular fit • Crew neck • 1 × 1 baby rib binding on the neckline and sleeves • Blank product sourced from Nicaragua This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) S 28 34-37 M 29 38-41 L 30 42-45 XL 31 46-49 2XL 32 50-53 3XL 33 54-57
-  Updated: 2026-03-18T19:16:07Z
+  Updated: 2026-04-02T10:40:24Z
   Vendor: RUSTIC ROOTS 
   Product Type: TSHIRT SHORT SLEEVES
   Availability: Available
@@ -6422,7 +6422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-white-black-front-69b0e38957d45.jpg?v=1773200387
     Price: $49.00 USD
 - [BOONDOCKER TEE Unisex classic](https://rusticroots01.com/products/unisex-classic-tee-boondocker): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:07Z
+  Updated: 2026-04-02T10:40:24Z
   Vendor: RUSTIC ROOTS 
   Product Type: GIRLS TEE SHIRT SHORT SLEEVES
   Availability: Available
@@ -6452,7 +6452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-white-front-and-back-69b0e18adc680.jpg?v=1773199766
     Price: $40.00 USD
 - [RV GIRL TEE](https://rusticroots01.com/products/rv-girl-tee): Get to know your new favorite tee—it's super smooth, super comfortable, and made from a cotton-touch polyester jersey that won't fade after washing. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Premium knit mid-weight jersey - Smooth, comfortable 2-way stretch fabric that stretches and recovers on the cross and lengthwise grains - Regular fit This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) XS 33 ⅛ S 34 ⅝ M 36 ¼ L 39 ⅜ XL 42 ½ 2XL 45 ⅝
-  Updated: 2026-03-18T19:16:07Z
+  Updated: 2026-04-02T10:40:24Z
   Vendor: RUSTIC ROOTS 
   Product Type: GIRLS TEE SHIRT
   Availability: Available
@@ -6482,7 +6482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69b0df59d0143.jpg?v=1773199202
     Price: $42.00 USD
 - [TRAVEL OFF GRID Unisex organic sweatshirt](https://rusticroots01.com/products/unisex-organic-sweatshirt-off-grid-travel): The Unisex organic sweatshirt is made of organic and recycled materials and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style!• 80% organic cotton, 20% recycled polyester• 100% organic cotton exterior• Frenchy terry knit • Set-in sleeves• 2×2 rib at collar• Self-fabric neck tape• Blank product sourced from BangladeshDisclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:07Z
+  Updated: 2026-04-02T10:40:24Z
   Vendor: R & R APPAREL
   Product Type: OFF GRID LONG SLEEVE T SHIRTS
   Availability: Available
@@ -6628,7 +6628,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-organic-sweatshirt-grey-melange-front-69b0dc7fc233e.jpg?v=1773198483
     Price: $59.00 USD
 - [OFF GRID Long Sleeve Fitted Crew](https://rusticroots01.com/products/long-sleeve-fitted-crew-off-grid): This super-soft crew shirt is a good choice if you're looking for a classic long sleeve t-shirt.• 100% combed ring spun cotton• Fabric weight: 4.3 oz/yd² (149.2 g/m²)• 32 singles• Fabric laundered• Set-in 1 × 1 baby rib collar• Tear away label• Blank product sourced from Nicaragua or CambodiaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST (inches) FRONT LENGTH (inches) S 37 28 M 40 29 L 43 30 XL 47 31 2XL 51 32
-  Updated: 2026-03-18T19:16:08Z
+  Updated: 2026-04-02T10:40:25Z
   Vendor: R & R APPAREL
   Product Type: LONG SLEEVE MENS TEE
   Availability: Available
@@ -6654,7 +6654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-fitted-long-sleeve-shirt-white-front-69b0da27cd73c.jpg?v=1773197874
     Price: $57.00 USD
 - [Men’s Long Sleeve Shirt RVING ROCKS](https://rusticroots01.com/products/men-s-long-sleeve-shirt-rving-rocks): A good long-sleeved shirt is a men's fashion must-have. Add this wardrobe essential to your collection, and have a great to-go option for a casual look, or a relaxed business outfit. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Classic fit with long sleeves and rib cuffs • Pre-shrunk jersey knit • Seamless double-needle 7⁄8'' (2.2 cm) collar • Double-needle bottom hem • Taped neck and shoulders • Quarter-turned to avoid crease down the middle Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 4XL 34 30
-  Updated: 2026-03-18T19:16:08Z
+  Updated: 2026-04-02T10:40:25Z
   Vendor: RUSTIC ROOTS 
   Product Type: MENS SHIRTS
   Availability: Available
@@ -6688,7 +6688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-long-sleeve-shirt-white-front-69b0d902213fc.jpg?v=1773197583
     Price: $52.50 USD
 - [Unisex Sweatshirt Salty   BUT CUTE](https://rusticroots01.com/products/unisex-sweatshirt-saltly-but-cute): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:08Z
+  Updated: 2026-04-02T10:40:26Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH SWEATSHIRT
   Availability: Available
@@ -6754,7 +6754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69b0d643c0130.jpg?v=1773197050
     Price: $55.00 USD
 - [BEACH VIBES Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-beach-vibes): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-03-21T04:31:52Z
+  Updated: 2026-04-02T10:40:28Z
   Vendor: R & R APPAREL
   Product Type: BEACH
   Availability: Available
@@ -6780,7 +6780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-black-front-69bcdff1a095e.jpg?v=1773985791
     Price: $57.00 USD
 - [Unisex classic tee BEACH GIRLS TEE](https://rusticroots01.com/products/unisex-classic-tee-beach-girls-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:09Z
+  Updated: 2026-04-02T10:40:29Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH
   Availability: Available
@@ -6930,7 +6930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-6986f133018af.jpg?v=1770451269
     Price: $39.00 USD
 - [Women's slides SANDELS CAMPFIRE](https://rusticroots01.com/products/womens-slides-sandels): A must-have for the summer: these women’s slides. A pair of these will keep you comfy throughout your day of beach or pool activities, thanks to the cushioned upper strap and the textured footbed. • Cushioned and durable faux leather upper strap • Lightweight polyurethane (PU) outsole • Contoured, textured footbed • Stitched around the upper perimeter for extra durability • Spot clean only • Printed, cut, and handmade • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product. Disclaimer: The shoes will have a glue-like smell when opening the box. The smell will disappear a few days after the shoes are unpacked. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US WOMEN UK EUROPE JAPAN FOOT LENGTH (inches) SHOES LENGTH (inches) 5.5 5.5 3 36 22.5 8 ⅞ 9 ½ 6.5 6.5 4 37 23.5 9 ⅛ 9 ¾ 7 7 4.5 38 24 9 ¼ 10 8 8 5.5 39 25 9 ⅝ 10 ¼ 8.5 8.5 6 40 25.5 9 ¾ 10 ½ 9.5 9.5 7 41 26.5 10 ⅛ 10 ¾ 10 10 7.5 42 27 10 ¼ 11 11 11 8.5 43 28 10 ⅝ 11 ¼ 11.5 11.5 9 44 28.5 10 ¾ 11 ½
-  Updated: 2026-03-18T19:16:09Z
+  Updated: 2026-04-02T10:40:29Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAMPER SANDELS
   Availability: Available
@@ -6972,7 +6972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
     Price: $52.50 USD
 - [Men’s slides SLIP ON SANDELS BEACH FRONT](https://rusticroots01.com/products/men-s-slides-slip-on-sandels): What’s a summer without comfy, open-toed shoes? Get yourself these men’s slides as an addition to your summery outfits. The cushioned upper strap and textured footbed make these slides an excellent choice for the season’s activities. • Cushioned faux leather upper strap • Lightweight polyurethane (PU) outsole • Contoured, textured footbed • Stitched around the upper perimeter for extra durability • Spot clean only • Printed, cut, and handmade • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product. Disclaimer: The shoes will have a glue-like smell when opening the box. The smell will disappear a few days after the shoes are unpacked. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US MEN UK EUROPE JAPAN FOOT LENGTH (inches) SHOES LENGTH (inches) 6.5 6.5 5.5 39 24.5 9 ⅝ 10 ¼ 7 7 6 40 25 9 ¾ 10 ½ 8 8 7 41 26 10 ⅛ 10 ¾ 8.5 8.5 7.5 42 26.5 10 ¼ 11 9.5 9.5 8.5 43 27.5 10 ⅝ 11 ¼ 10 10 9 44 28 10 ¾ 11 ½ 11 11 10 45 29 11 ¼ 11 ¾ 11.5 11.5 10.5 46 29.5 11 ½ 12 12.5 12.5 11.5 47 30.5 11 ⅞ 12 ¼
-  Updated: 2026-03-18T19:16:09Z
+  Updated: 2026-04-02T10:40:30Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH
   Availability: Available
@@ -7014,7 +7014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
     Price: $52.50 USD
 - [Dad hat Beach Vibes](https://rusticroots01.com/products/dad-hat-beach-vibes): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:10Z
+  Updated: 2026-04-02T10:40:30Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH HAT
   Availability: Available
@@ -7032,7 +7032,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69b0d0f8b602f.jpg?v=1773195586
     Price: $35.00 USD
 - [Unisex classic   Adventure tee](https://rusticroots01.com/products/unisex-classic-adventure-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:10Z
+  Updated: 2026-04-02T10:40:31Z
   Vendor: RUSTIC ROOTS 
   Product Type: T SHIRTS
   Availability: Available
@@ -7224,7 +7224,7 @@
     Availability: Available
     Price: $35.00 USD
 - [OFF ROAD ADVENTURE Unisex Sweatshirt](https://rusticroots01.com/products/unisex-sweatshirt-4): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-03-18T19:16:10Z
+  Updated: 2026-04-02T10:40:31Z
   Vendor: R & R APPAREL
   Product Type: OFF ROAD SHIRT SWEATSHIRT
   Availability: Available
@@ -7250,7 +7250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-charcoal-front-69ae7cbd49c46.jpg?v=1773132630
     Price: $55.00 USD
 - [Tough Case for iPhone® RV HOOKUPS RVLIFE](https://rusticroots01.com/products/tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:11Z
+  Updated: 2026-04-02T10:40:31Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -7364,7 +7364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-glossy-iphone-17-pro-max-front-698819eb2bce8.jpg?v=1770527228
     Price: $24.50 USD
 - [Tough case for Samsung® BORN TO WORK LOVE RVING](https://rusticroots01.com/products/tough-case-for-samsung®-born-to-work-love-rving): I CAN MAKE ANY DESIGN ON PHONE CASE SPECIALS TEXT IN STORE Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone!• Outer shell: Polycarbonate (PC)• Liner: Polyurethane (TPU) • Precisely aligned port openings• Induction charger compatibleImportant: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-18T19:16:11Z
+  Updated: 2026-04-02T10:40:32Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -7450,7 +7450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-69881c59a2b8a.jpg?v=1770527848
     Price: $35.00 USD
 - [4 X4 OFF ROAD TRUCK Short-Sleeve Unisex TSHIRT](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-lake-life): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton• Sport Grey is 90% ring-spun cotton, 10% polyester• Dark Heather is 65% polyester, 35% cotton• 4.5 oz/yd² (153 g/m²)• Shoulder-to-shoulder taping• Quarter-turned to avoid crease down the center• Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or GuatemalaDisclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-03-18T19:16:11Z
+  Updated: 2026-04-02T10:40:33Z
   Vendor: R & R APPAREL
   Product Type: OFF ROAD TSHIRT
   Availability: Available
@@ -7480,14 +7480,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-charcoal-front-and-back-69b201adf00b7.jpg?v=1773273539
     Price: $35.00 USD
 - [Teddy bear with   t-shirt RV LIFE](https://rusticroots01.com/products/teddy-bear-with-a-t-shirt-rv-life): Meet our cute teddy bear wearing a cool t-shirt. Made from the finest and softest materials, it’s the perfect cuddling buddy for people of all ages. Teddy: • Made from polyester fiber • Filled with PE/PVC pellets • Weight: 9.21 oz. (0.26 kg) • Measures 9.5″ (24.13 cm) sitting down • One-size T-shirt: • 100% polyester Blank product sourced from China, printed in the US. Disclaimer: This product is not suitable for children under 3 years of age. Important: This product is available in the US only. If your shipping address is outside this region, please choose a different product.
-  Updated: 2026-03-18T19:16:11Z
+  Updated: 2026-04-02T10:40:33Z
   Vendor: RUSTIC ROOTS 
   Product Type: SUBLIMATION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/teddy-bear-with-a-t-shirt-white-front-69882494d8fca.jpg?v=1770529959
   Price: $46.30 USD
 - [Unisex Hoodie CREATED WITH A PURPOSE HOODIE](https://rusticroots01.com/products/unisex-hoodie-lake-life): Ready to slay? Think high-quality cotton with a comfort-fitted hood, matching drawstrings, and a front pocket. Upgrade your look with this dope premium hoodie. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:12Z
+  Updated: 2026-04-02T10:40:34Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHISTIAN SWEATSHIRT
   Availability: Available
@@ -7517,7 +7517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afde4717489.jpg?v=1773133397
     Price: $60.00 USD
 - [Cuffed Beanie RV LIFE HEART](https://rusticroots01.com/products/cuffed-beanie-rv-life-heart): A snug, form-fitting beanie. It's not only a great head-warming piece but a staple accessory in anyone's wardrobe. • 100% Turbo Acrylic • 12″ (30 cm) in length • Hypoallergenic • Unisex style • Hand washable • Blank product sourced from Vietnam, Bangladesh or the Republic of Korea This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 17 ¼-18 ½ 8 ⅝ 3 8 ⅛
-  Updated: 2026-03-18T19:16:12Z
+  Updated: 2026-04-02T10:40:35Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -7535,7 +7535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cuffed-beanie-royal-front-69882a1f9f5a7.jpg?v=1770531371
     Price: $35.00 USD
 - [Tough Case for iPhone® LIVING THE DREAM](https://rusticroots01.com/products/tough-case-for-iphone®-living-the-dream): I CAN DO SPECIAL ORDER TO. Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell• Thermoplastic Polyurethane TPU inner liner• Dual-layer protection• Precisely aligned port openings• Induction charging compatible• Blank product sourced from KoreaImportant: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:12Z
+  Updated: 2026-04-02T10:40:35Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -7649,7 +7649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-698831748c545.jpg?v=1770533258
     Price: $24.50 USD
 - [RV LIFE LOVE CAP](https://rusticroots01.com/products/trucker-cap-rv-life-love): This six-panel trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun. • 26% cotton, 74% polyester • Mid-profile cap with a low-profile embroidery area • Structured, six-panel cap • 3.5″ crown (8.9 cm) • Hard buckram front panels • Mesh back • Permacurv® visor, matching undervisor • Plastic adjustable closure • Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm) • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 21 ⅝-⅝ 3 ⅞ 2 ½ 6 ¾
-  Updated: 2026-03-18T19:16:12Z
+  Updated: 2026-04-02T10:40:36Z
   Vendor: R & R APPAREL
   Product Type: RV LIFE HAT
   Availability: Available
@@ -7679,7 +7679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-heather-black-front-69b2151a1ee42.jpg?v=1773278796
     Price: $35.00 USD
 - [MagSafe® clear case for iPhone®](https://rusticroots01.com/products/magsafe®-clear-case-for-iphone®): This sleek, durable case protects your phone and is easy to hold. The MagSafe® magnets ensure secure attachment and faster wireless charging. • Hybrid thermoplastic polyurethane and polycarbonate • Solid, durable polycarbonate back • Secure yet flexible thermoplastic polyurethane sides • Raised bezel front • Precisely aligned port openings • Easy to snap on and off • MagSafe® compatible • Wireless charging-compatible • Graphics are UV-printed onto the case with a smooth, matte finish • The SE case fits the 2020 iPhone® SE model • Blank product sourced from China or South Korea Disclaimer: The case may include a protective film on the inside that needs to be removed before use. Important: Cases for the iPhone 15 and iPhone 16 series can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different iPhone case.
-  Updated: 2026-03-18T19:16:13Z
+  Updated: 2026-04-02T10:40:36Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -7749,7 +7749,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-clear-case-for-iphone-iphone-17-front-698a87ec611e5.jpg?v=1770686462
     Price: $35.00 USD
 - [DEER MOUNTAIN   Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee-4): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:13Z
+  Updated: 2026-04-02T10:40:37Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE T SHIRT
   Availability: Available
@@ -7779,7 +7779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-black-front-and-back-69afd9f3bf84d.jpg?v=1773132540
     Price: $38.00 USD
 - [BE REAL Unisex Premium Sweatshirt](https://rusticroots01.com/products/be-real-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:13Z
+  Updated: 2026-04-02T10:40:38Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -7905,7 +7905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-698aa73dc60af.jpg?v=1770694502
     Price: $65.00 USD
 - [CAMPING MODE Unisex Hoodie](https://rusticroots01.com/products/camping-mode-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:16:14Z
+  Updated: 2026-04-02T10:40:39Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAMPING MODE SWEATSHIRT
   Availability: Available
@@ -7935,7 +7935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd74d65324.jpg?v=1773131612
     Price: $65.00 USD
 - [SMORES AND MORE Unisex Hoodie](https://rusticroots01.com/products/smores-and-more-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:16:14Z
+  Updated: 2026-04-02T10:40:39Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE SWEATSHIRT
   Availability: Available
@@ -8013,7 +8013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afd3df10255.jpg?v=1773130913
     Price: $65.00 USD
 - [HEART FLAG Unisex Premium Sweatshirt](https://rusticroots01.com/products/heart-flag-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:14Z
+  Updated: 2026-04-02T10:40:40Z
   Vendor: RUSTIC ROOTS 
   Product Type: LONG SLEEVE T SHIRT
   Availability: Available
@@ -8091,7 +8091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd220a8c79.jpg?v=1773130291
     Price: $65.00 USD
 - [WE THE PEOPLEUnisex Premium Sweatshirt](https://rusticroots01.com/products/we-the-peopleunisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:15Z
+  Updated: 2026-04-02T10:40:41Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID LONG SLEEVE T SHIRTS
   Availability: Available
@@ -8193,7 +8193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-front-and-back-69afd0946b65c.jpg?v=1773129894
     Price: $65.00 USD
 - [Boondocking  HAT](https://rusticroots01.com/products/boondocking-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:15Z
+  Updated: 2026-04-02T10:40:41Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING HAT
   Availability: Available
@@ -8219,7 +8219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-69afcf1ed3c8f.jpg?v=1773129637
     Price: $35.00 USD
 - [LOVE CAMPER   Unisex Premium Sweatshirt](https://rusticroots01.com/products/unisex-premium-sweatshirt-1): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:15Z
+  Updated: 2026-04-02T10:40:42Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE SWEATSHIRT
   Availability: Available
@@ -8249,7 +8249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69afcdedc9ada.jpg?v=1773129209
     Price: $58.00 USD
 - [TAKE A HIKE Unisex heavy blend zip hoodie](https://rusticroots01.com/products/take-a-hike-unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 27 38 - 41 33 ½ M 28 42 - 45 34 ½ L 29 46 - 49 35 ½ XL 30 50 - 53 36 ½ 2XL 31 54 - 57 37 ½ 3XL 32 58 - 61 38 ½
-  Updated: 2026-03-18T19:16:15Z
+  Updated: 2026-04-02T10:40:42Z
   Vendor: RUSTIC ROOTS 
   Product Type: JACKET SWEATSHIRT
   Availability: Available
@@ -8453,7 +8453,7 @@
     Availability: Available
     Price: $65.00 USD
 - [PRAY Unisex Hoodie](https://rusticroots01.com/products/pray-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:16:16Z
+  Updated: 2026-04-02T10:40:43Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -8555,7 +8555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69afca279c321.jpg?v=1773128332
     Price: $65.00 USD
 - [MAMA NEED COFFEE Unisex heavy blend zip hoodie](https://rusticroots01.com/products/mama-need-coffee-unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 27 38 - 41 33 ½ M 28 42 - 45 34 ½ L 29 46 - 49 35 ½ XL 30 50 - 53 36 ½ 2XL 31 54 - 57 37 ½ 3XL 32 58 - 61 38 ½
-  Updated: 2026-03-18T19:16:16Z
+  Updated: 2026-04-02T10:40:44Z
   Vendor: RUSTIC ROOTS 
   Product Type: JACKET GIRLS SWEATSHIRT
   Availability: Available
@@ -8729,8 +8729,8 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-purple-front-69afc776204be.jpg?v=1773127555
     Price: $75.00 USD
 - [YOU ARE ENOUGH HAT](https://rusticroots01.com/products/you-are-enough-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:16Z
-  Vendor: RUSTIC ROOTS 
+  Updated: 2026-04-02T10:40:44Z
+  Vendor: R & R APPAREL
   Product Type: CAP HAT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-black-front-69afc52ce2a38.jpg?v=1773127074
@@ -8747,7 +8747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-green-camo-front-69afc52ce84e1.jpg?v=1773127074
     Price: $35.00 USD
 - [GOD GOT ME Tough Case for iPhone®](https://rusticroots01.com/products/god-got-me-tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:17Z
+  Updated: 2026-04-02T10:40:46Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -8861,7 +8861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-698d34ec6f69c.jpg?v=1770861819
     Price: $35.00 USD
 - [LIMITED Unisex Long Sleeve Tee](https://rusticroots01.com/products/limited-unisex-long-sleeve-tee): Enrich your wardrobe with a versatile long sleeve tee. For a casual look, combine it with your favorite jeans, and layer it with a button-up shirt, a zip-up hoodie, or a snazzy jacket. Dress it up with formal trousers or chinos to achieve a more professional look. • 100% airlume combed ring-spun cotton • Heather colors are 52% combed and ring-spun cotton, 48% polyester • Athletic Heather and Black Heather are 90% combed and ring-spun cotton, 10% polyester • Fabric weight: 4.2 oz./yd.² (142.4 g/m²) • 32 singles • Regular fit • Side-seamed construction • Crew neck • Cover-stitched collar • 2″ (5 cm) ribbed cuffs • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT LENGTH (inches) CHEST WIDTH (inches) CHEST TO FIT (inches) SLEEVE LENGTH (inches) XS 27 16 ½ 31-34 25 S 28 18 34-37 25 ⅝ M 29 20 38-41 26 ¼ L 30 22 42-45 26 ⅞ XL 31 24 46-49 27 ½ 2XL 32 26 50-53 28 ⅛
-  Updated: 2026-03-18T19:16:17Z
+  Updated: 2026-04-02T10:40:47Z
   Vendor: RUSTIC ROOTS 
   Product Type: LONG SLEEVE T SHIRT
   Availability: Available
@@ -9035,7 +9035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69afc31c75832.jpg?v=1773126587
     Price: $47.00 USD
 - [DOG MOM LOVE HAT](https://rusticroots01.com/products/dog-mom-love-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:17Z
+  Updated: 2026-04-02T10:40:47Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT
   Availability: Available
@@ -9061,7 +9061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69afc0796c786.jpg?v=1773125851
     Price: $35.00 USD
 - [COUNTRY CROSS Unisex heavy blend zip hoodie](https://rusticroots01.com/products/country-cross-unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:18Z
+  Updated: 2026-04-02T10:40:48Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -9091,7 +9091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-white-front-69afba63ea8f5.jpg?v=1773124260
     Price: $69.00 USD
 - [DOG MOM LOVEAll-over print unisex wide-leg pants](https://rusticroots01.com/products/dog-mom-loveall-over-print-unisex-wide-leg-pants): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Relaxed unisex fit - Practical side pockets - Elastic waistband with a white drawstring - Can be worn on the waist or on the hips - Premium knit mid-weight jersey fabric Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide WAIST (inches) HIPS (inches) 2XS 28 ⅜ 35 ⅜ XS 29 ⅞ 37 S 31 ½ 38 ⅝ M 33 ⅛ 40 ⅛ L 36 ¼ 43 ¼ XL 39 ⅜ 46 ½ 2XL 42 ½ 49 ⅝ 3XL 45 ⅝ 52 ¾ 4XL 48 ⅞ 55 ⅞ 5XL 52 59 6XL 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:18Z
+  Updated: 2026-04-02T10:40:49Z
   Vendor: RUSTIC ROOTS 
   Product Type: DOG MOM PANTS
   Availability: Available
@@ -9141,7 +9141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-wide-leg-pants-white-front-69afb73eebbd6.jpg?v=1773123400
     Price: $60.00 USD
 - [CAT WHY I.AM RIGHT TANK TOP](https://rusticroots01.com/products/unisex-garment-dyed-tank-top): Soft, laid-back, and made to last. This garment-dyed tank feels lived-in from the start, with relaxed vibes for everyday wear. 100% cotton, salt-free dye, no side seams—just effortless comfort. • 100% ring-spun cotton • Fabric weight: 6.1 oz./yd.² (206.8 g/m²) • Garment-dyed with salt-free pigments for a soft feel and low shrinkage • Relaxed fit • Tubular construction, no side seams • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) XS 25 ¼ 16 ½ S 26 ⅝ 17 ½ M 28 19 ½ L 29 ⅜ 21 ¼ XL 30 ¾ 23 2XL 31 ⅝ 25 3XL 32 ½ 27
-  Updated: 2026-03-18T19:16:18Z
+  Updated: 2026-04-02T10:40:49Z
   Vendor: RUSTIC ROOTS 
   Product Type: TANK TOPS
   Availability: Available
@@ -9259,7 +9259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-grey-front-69ae708f80491.jpg?v=1773039769
     Price: $38.00 USD
 - [jesus loves Unisex Hoodie](https://rusticroots01.com/products/jesus-loves-unisex-hoodie): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
-  Updated: 2026-03-18T19:16:18Z
+  Updated: 2026-04-02T10:40:50Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -9465,7 +9465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-military-green-front-69912788d9958.jpg?v=1771120554
     Price: $65.00 USD
 - [Unisex garment-dyed tank top](https://rusticroots01.com/products/unisex-garment-dyed-tank-top-1): Soft, laid-back, and made to last. This garment-dyed tank feels lived-in from the start, with relaxed vibes for everyday wear. 100% cotton, salt-free dye, no side seams—just effortless comfort. • 100% ring-spun cotton • Fabric weight: 6.1 oz./yd.² (206.8 g/m²) • Garment-dyed with salt-free pigments for a soft feel and low shrinkage • Relaxed fit • Tubular construction, no side seams • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) XS 25 ¼ 16 ½ S 26 ⅝ 17 ½ M 28 19 ½ L 29 ⅜ 21 ¼ XL 30 ¾ 23 2XL 31 ⅝ 25 3XL 32 ½ 27
-  Updated: 2026-03-18T19:16:19Z
+  Updated: 2026-04-02T10:40:53Z
   Vendor: RUSTIC ROOTS 
   Product Type: MENS TANK TOP CAMPING
   Availability: Available
@@ -9671,7 +9671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-garment-dyed-tank-top-neon-red-orange-front-699128ccc5d11.jpg?v=1771120862
     Price: $35.00 USD
 - [FLAG DOG PRINT Crop Hoodie](https://rusticroots01.com/products/crop-hoodie): Let fashion take over your wardrobe with this great statement piece. The trendy raw hem and matching drawstrings means that this hoodie is bound to become a true favorite.• 52% air lume combed and ring-spun cotton, 48% poly fleece• Fabric weight: 6.5 oz/yd² (220.39 g/m²)• Dyed-to-match drawstrings• Dropped shoulder cut• Cropped body with a raw hem• Blank product sourced from Mexico, Nicaragua or the United StatesThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WIDTH (inches) LENGTH (inches) S 22 18 ⅝ M 23 ½ 19 ⅜ L 25 ½ 21 ⅜ XL 27 ½ 22 ⅛ 2XL 29 ½ 22 ⅞
-  Updated: 2026-03-18T19:16:19Z
+  Updated: 2026-04-02T10:40:54Z
   Vendor: RUSTIC ROOTS 
   Product Type: CROP TOP SWEATSHIRT
   Availability: Available
@@ -9717,7 +9717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-cropped-hoodie-military-green-front-69afb091696f1.jpg?v=1773122230
     Price: $70.00 USD
 - [All-over print bandana camping](https://rusticroots01.com/products/all-over-print-bandana-camping): Get ready to make a statement with this all-over print bandana. Mix up your outfits by using this as a headband, necktie, or armband. In fact, why not get a second bandana to match your pet? Grab a few and hit the streets in style! • Fabric composition in the EU: 65% recycled polyester, 35% polyester • Fabric composition in the US: 100% recycled polyester • Fabric weight in the EU: 2.95 oz./yd.² (100 g/m²) • Fabric weight in the US: 3.24 oz./yd.² (110 g/m²) • Fabric specifications in the EU: Breathable; moisture-wicking material with UPF50+ protection • Lightweight and soft to the touch • Double-folded edges • Single-sided print • Multifunctional • The fabric is OEKO-TEX 100 standard  • The recycled content of this product is  under GRS (Global Recycled Standard) • Blank product components sourced from China/Mexico Important sizing information: the smallest bandana size is made for small pets and won’t fit a grown-up. Please choose the medium or large size if you’re ordering for a grown-up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 17 ⅜ 17 ⅜ M 21 ¼ 21 ¼ L 25 ¼ 25 ¼
-  Updated: 2026-03-18T19:16:19Z
+  Updated: 2026-04-02T10:40:55Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
@@ -9735,7 +9735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-bandana-white-l-front-69912f53360ca.jpg?v=1771122526
     Price: $24.00 USD
 - [TAKE A HIKE Distressed Dad Hat](https://rusticroots01.com/products/take-a-hikedistressed-dad-hat): Expand your headwear collection with this fashionable dad hat. With a slightly distressed brim and crown fabric, it’ll add just the right amount of edge to your look. For a quick and easy outfit pair it with slacks, your favorite jeans, and a sports tee. • 100% pre-shrunk cotton twill • Soft crown • 6 sewn eyelets • 6 stitched rows on the brim • 6-panel unstructured cap with a low profile • Seamed front panel without buckram • Adjustable hook and loop closure • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 19-22 5 2 ⅝ 7 ¾
-  Updated: 2026-03-18T19:16:19Z
+  Updated: 2026-04-02T10:40:55Z
   Vendor: R & R APPAREL
   Product Type: CAP HAT BEANIE
   Availability: Available
@@ -9753,7 +9753,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/distressed-dad-hat-charcoal-grey-front-69b210e0551fe.jpg?v=1773277421
     Price: $35.00 USD
 - [I HAVE IT ALL TOGETHER Unisex Hoodie](https://rusticroots01.com/products/take-me-to-the-mpumtains-unisex-hoodie): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:20Z
+  Updated: 2026-04-02T10:40:56Z
   Vendor: RUSTIC ROOTS 
   Product Type: HOODIES AND SWEATSHIRTS
   Availability: Available
@@ -9959,7 +9959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-hoodie-white-front-69afac7c3ec90.jpg?v=1773120910
     Price: $65.00 USD
 - [BE REAL Vintage Cotton Twill Cap](https://rusticroots01.com/products/be-realvintage-cotton-twill-cap): Everybody knows that dad caps are no longer just for dads, so get an embroidered cotton twill cap for yourself! This one's really special thanks to the intricate embroidery detail and the washed-out vintage feel. • 100% cotton twill • 6-panel unstructured cap with a low profile • 6 sewn eyelets • Black sweatband • Metal snap buckle with an antique brass finish • Washed-out vintage effect • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide A (inches) B (inches) C (inches) D (inches) One size 18 ½-23 ¼ 4 ⅜ 2 ⅞ 7 ⅛
-  Updated: 2026-03-18T19:16:20Z
+  Updated: 2026-04-02T10:40:56Z
   Vendor: R & R APPAREL
   Product Type: CAP HAT
   Availability: Available
@@ -9985,14 +9985,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-charcoal-grey-front-69afa2e194f90.jpg?v=1773118350
     Price: $35.00 USD
 - [HIKING Backpack](https://rusticroots01.com/products/hiking-backpack): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:20Z
+  Updated: 2026-04-02T10:40:56Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-69913a6f276a4.jpg?v=1771125367
   Price: $60.00 USD
 - [CAMPING QUEEN Tough case for Samsung®](https://rusticroots01.com/products/camping-queen-tough-case-for-samsung®): Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone! • Outer shell: Polycarbonate (PC) • Liner: Polyurethane (TPU) • Precisely aligned port openings • Induction charger compatible Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:20Z
+  Updated: 2026-04-02T10:40:57Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -10078,7 +10078,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-6993b69d1bbd1.jpg?v=1771288228
     Price: $35.00 USD
 - [DOG MOM LOVE Women’s slip-on canvas shoes](https://rusticroots01.com/products/dog-mom-love-women-s-slip-on-canvas-shoes): Made for comfort and ease, these Women’s Slip-On Canvas Shoes are stylish and the ideal piece for completing an outfit. Equipped with removable soft insoles and rubber outsoles, it’s also easy to adjust them for a better fit. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Your brand on the box, insole, and tongue of the shoe • Breathable lining, soft insole • Elastic side accents • Padded collar and tongue • Printed, cut, and handmade • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product.Size guide US WOMEN UK EUROPE JAPAN OUTSOLE LENGTH (inches) FOOT LENGTH (inches) 5 5 2.5 35.5 22 9 ¾ 8 ⅝ 5.5 5.5 3 36 22.5 9 ¾ 8 ⅞ 6 6 3.5 36.5 23 10.00 9.00 6.5 6.5 4 37.5 23.5 10 ¼ 9 ⅛ 7 7 4.5 38 24 10 ¼ 9 ¼ 7.5 7.5 5 38.5 24.5 10 ⅝ 9 ½ 8 8 5.5 39 25 10 ⅝ 9 ⅝ 8.5 8.5 6 40 25.5 10 ¾ 9 ¾ 9 9 6.5 40.5 26 11 ⅛ 10 9.5 9.5 7 41 26.5 11 ⅛ 10 ⅛ 10 10 7.5 42 27 11 ⅜ 10 ¼ 10.5 10.5 8 42.5 27.5 11 ⅝ 10 ½ 11 11 8.5 43 28 11 ⅝ 10 ⅝ 11.5 11.5 9 44 28.5 12.00 10 ¾ 12 12 9.5 44.5 29 12 ⅛ 11.00
-  Updated: 2026-03-18T19:16:21Z
+  Updated: 2026-04-02T10:40:57Z
   Vendor: RUSTIC ROOTS 
   Product Type: 
   Availability: Available
@@ -10144,7 +10144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slip-on-canvas-shoes-white-front-699144c4b697b.jpg?v=1771128012
     Price: $61.00 USD
 - [LOVE 3;16 All-Over Print Unisex Athletic Long Shorts](https://rusticroots01.com/products/love-3-16-all-over-print-unisex-athletic-long-shorts): Sports outfits can be a lot of hassle, but with these long shorts there's no need for that. Just throw on a pair and go running, swimming, weight-lifting, or participate in any other activity that pops in your mind. These shorts won't let you down! • 91% recycled polyester, 9% spandex • Fabric weight: 5.13 oz. /yd. ² (174 g/m²) • Four-way stretch moisture-wicking microfiber fabric • Breathable and fast-drying material • UPF50+ protection • 6.3" (16 cm)inseam • Elastic waistband with a flat white drawstring • Mesh side pockets • No inner lining • Blank product components sourced from ChinaSize guide WAIST (inches) HIPS (inches) 2XS 28 ⅜ 35 ⅜ XS 29 ⅞ 37 S 31 ½ 38 ⅝ M 33 ⅛ 40 ⅛ L 36 ¼ 43 ¼ XL 39 ⅜ 46 ½ 2XL 42 ½ 49 ⅝ 3XL 45 ⅝ 52 ¾ 4XL 48 ⅞ 55 ⅞ 5XL 52 59 6XL 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:21Z
+  Updated: 2026-04-02T10:40:58Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -10194,7 +10194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-athletic-long-shorts-white-front-69914af07387d.jpg?v=1771129610
     Price: $59.00 USD
 - [CAMPING Unisex classic tee](https://rusticroots01.com/products/camping-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:21Z
+  Updated: 2026-04-02T10:40:59Z
   Vendor: RUSTIC ROOTS 
   Product Type: T SHIRT
   Availability: Available
@@ -10400,7 +10400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-69914d875812f.jpg?v=1773118538
     Price: $35.00 USD
 - [LOVE Unisex Premium Sweatshirt](https://rusticroots01.com/products/love-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:21Z
+  Updated: 2026-04-02T10:41:00Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -10502,7 +10502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-white-front-and-back-69915134e47af.jpg?v=1772147381
     Price: $65.00 USD
 - [HEART CROSS Unisex   CHRISTIAN   Sweatshirt](https://rusticroots01.com/products/hear-cross-unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel.• 50% cotton, 50% polyester• Pre-shrunk• Classic fit• 1x1 athletic rib knit collar with spandex• Air-jet spun yarn with a soft feel• Double-needle stitched collar, shoulders, armholes, cuffs, and hemDisclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white.• Subtle orange hue shifts with lighting in the Orange color variant.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-03-18T19:16:22Z
+  Updated: 2026-04-02T10:41:00Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -10528,7 +10528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-and-back-69afa0a27eb96.jpg?v=1773117616
     Price: $55.00 USD
 - [OFF GRID CAMPFIRES MagSafe® tough case for iPhone®](https://rusticroots01.com/products/off-grid-campfires-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:22Z
+  Updated: 2026-04-02T10:41:00Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -10598,7 +10598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-699157b2b3fe0.jpg?v=1771132867
     Price: $35.00 USD
 - [NOT FOR EVEYONE RV LIFE Snapback Hat](https://rusticroots01.com/products/not-for-eveyone-rv-llife-snapback-hat): This is the snapback of your dreams! It's structured and high-profile, with a flat visor and a subtle grey under visor. • 85% acrylic, 15% wool • Structured, 6-panel, high-profile • Plastic snap closure • Grey under visor • Head circumference: 22″–24″ (55–60 cm) • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ¼ 4 ½ 2 ⅝ 7 ⅛
-  Updated: 2026-03-20T06:19:18Z
+  Updated: 2026-04-02T10:41:01Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -10780,7 +10780,7 @@
     Availability: Available
     Price: $148.50 USD
 - [HAPPY CAMPER Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/camper-short-sleeve-unisex-t-shirt): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • Dark Heather is 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-03-18T19:16:23Z
+  Updated: 2026-04-02T10:41:03Z
   Vendor: RUSTIC ROOTS 
   Product Type: T SHIRT
   Availability: Available
@@ -10918,7 +10918,7 @@
     Availability: Available
     Price: $35.00 USD
 - [NO PERFECT Golf rope cap](https://rusticroots01.com/products/no-perfect-golf-rope-cap): Add a touch of classic style to your outfit with the golf rope cap. Featuring a structured fit, rope detail, and adjustable snapback, it’s perfect for any outing. • 70% cotton, 30% nylon • Unstructured, 5-panel, front panel lined • Semi-curved bill with contrasting rope • Contrasting snapback closure • One size fits most • Blank product sourced from VietnamSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-23 ¼ 4 ¾ 2 ¾ 7 ⅜
-  Updated: 2026-03-18T19:16:23Z
+  Updated: 2026-04-02T10:41:04Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
@@ -10936,7 +10936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/golf-rope-cap-yellow-navy-front-69940c2eecc58.jpg?v=1771310143
     Price: $35.00 USD
 - [HAPPY CAMPER   MagSafe® clear case for iPhone®](https://rusticroots01.com/products/happy-camper-magsafe®-clear-case-for-iphone®): This sleek, durable case protects your phone and is easy to hold. The MagSafe® magnets ensure secure attachment and faster wireless charging. • Hybrid thermoplastic polyurethane and polycarbonate • Solid, durable polycarbonate back • Secure yet flexible thermoplastic polyurethane sides • Raised bezel front • Precisely aligned port openings • Easy to snap on and off • MagSafe® compatible • Wireless charging-compatible • Graphics are UV-printed onto the case with a smooth, matte finish • The SE case fits the 2020 iPhone® SE model • Blank product sourced from China or South Korea Disclaimer: The case may include a protective film on the inside that needs to be removed before use. Important: Cases for the iPhone 15 and iPhone 16 series can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different iPhone case. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:23Z
+  Updated: 2026-04-02T10:41:06Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -11006,7 +11006,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-clear-case-for-iphone-iphone-17-front-69940f31f228f.jpg?v=1771310912
     Price: $35.00 USD
 - [NATURE Unisex Premium Sweatshirt](https://rusticroots01.com/products/nature-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:24Z
+  Updated: 2026-04-02T10:41:07Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -11084,7 +11084,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-charcoal-heather-front-69b224fff1758.jpg?v=1773282576
     Price: $55.00 USD
 - [PULLING OUT Unisex classic tee](https://rusticroots01.com/products/pulling-out-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:24Z
+  Updated: 2026-04-02T10:41:09Z
   Vendor: RUSTIC ROOTS 
   Product Type: TSHIRT SHORT SLEEVES
   Availability: Available
@@ -11234,7 +11234,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-white-front-699416c77d9cb.jpg?v=1771312869
     Price: $35.00 USD
 - [TO   Glam To   Give a Dam Unisex Sweatshirt](https://rusticroots01.com/products/to-glam-to-give-a-damunisex-sweatshirt): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:24Z
+  Updated: 2026-04-02T10:41:10Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE T SHIRT
   Availability: Available
@@ -11284,7 +11284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69afb605ea21c.jpg?v=1773123090
     Price: $65.00 USD
 - [TRUST GOD American football jersey](https://rusticroots01.com/products/trust-god-american-football-jersey): This breathable mesh jersey stays light, even in heat or crowds. The loose fit and side slits give plenty of room to move, making it a comfortable choice for everyday outfits, festivals, or layering in hot weather. • 100% polyester • Fabric weight: 7.23 oz./yd. (245 g/m²) • Knit heavyweight tricot mesh fabric • Loose fit • Heavy ribbed collar • Side slits • Breathable and moisture-wicking • The fabric of this product is OEKO-TEX Standard 100- • Blank product materials sourced from China Disclaimer: Size down if your body measurements fall between sizes. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:24Z
+  Updated: 2026-04-02T10:41:10Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -11334,7 +11334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-american-football-jersey-white-front-69b232f7d47c2.jpg?v=1773286149
     Price: $65.00 USD
 - [JESUS CROSS Unisex Premium Sweatshirt](https://rusticroots01.com/products/jesus-cross-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:25Z
+  Updated: 2026-04-02T10:41:11Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -11484,7 +11484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-forest-green-front-and-back-69af9af96ae44.jpg?v=1773116176
     Price: $65.00 USD
 - [CROSS TURQUOISE Unisex Hoodie](https://rusticroots01.com/products/cross-turquoise-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:25Z
+  Updated: 2026-04-02T10:41:12Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -11514,7 +11514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-699537bbe1810.jpg?v=1771386840
     Price: $68.00 USD
 - [FAITH Women's T-shirt](https://rusticroots01.com/products/cross-faith-womens-t-shirt): Get to know your new favorite tee—it's super smooth, super comfortable, and made from a cotton-touch polyester jersey that won't fade after washing. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Premium knit mid-weight jersey - Smooth, comfortable 2-way stretch fabric that stretches and recovers on the cross and lengthwise grains - Regular fit This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) XS 33 ⅛ S 34 ⅝ M 36 ¼ L 39 ⅜ XL 42 ½ 2XL 45 ⅝
-  Updated: 2026-03-18T19:16:25Z
+  Updated: 2026-04-02T10:41:12Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -11544,7 +11544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69af9d9700513.jpg?v=1773116833
     Price: $45.00 USD
 - [TURQUOISE CROSS HAT](https://rusticroots01.com/products/cross-dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:25Z
+  Updated: 2026-04-02T10:41:12Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -11570,7 +11570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69af984cccdc0.jpg?v=1773115903
     Price: $35.00 USD
 - [GOD HAS A PLAN Unisex classic tee](https://rusticroots01.com/products/god-has-a-plan-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:26Z
+  Updated: 2026-04-02T10:41:13Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -11720,14 +11720,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-military-green-front-and-back-69af8e8a6baeb.jpg?v=1773113079
     Price: $45.00 USD
 - [CHRISTIAN   BACKPACK WITH SAYING AND CROSS](https://rusticroots01.com/products/christian-backpack-with-saying): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
-  Updated: 2026-03-18T19:16:26Z
+  Updated: 2026-04-02T10:41:14Z
   Vendor: RUSTIC ROOTS 
   Product Type: BIBLE APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-69954b75a0030.jpg?v=1771392108
   Price: $60.00 USD
 - [HOPE Unisex Hoodie](https://rusticroots01.com/products/hope-unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:16:26Z
+  Updated: 2026-04-02T10:41:15Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -11853,7 +11853,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-69955184d5dc1.jpg?v=1773028437
     Price: $70.00 USD
 - [MagSafe® tough case for iPhone®](https://rusticroots01.com/products/magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
-  Updated: 2026-03-18T19:16:26Z
+  Updated: 2026-04-02T10:41:15Z
   Vendor: RUSTIC ROOTS 
   Product Type: BIBLE APPAREL
   Availability: Available
@@ -11923,7 +11923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-69955b13087c5.jpg?v=1771395877
     Price: $35.00 USD
 - [CAMPING FLAG Tough case for Samsung®](https://rusticroots01.com/products/camping-flag-tough-case-for-samsung®): Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone! • Outer shell: Polycarbonate (PC) • Liner: Polyurethane (TPU) • Precisely aligned port openings • Induction charger compatible Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:27Z
+  Updated: 2026-04-02T10:41:16Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -12009,7 +12009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-69967c025d429.jpg?v=1771469842
     Price: $35.00 USD
 - [DOG MOM Clear Case for Samsung®](https://rusticroots01.com/products/dog-mom-clear-case-for-samsung®): This sleek Samsung® case protects your phone from scratches, dust, oil, and dirt. It has a solid back and flexible sides that make it easy to take on and off, with precisely aligned cuts and holes. • Solid polycarbonate back • 0.02″ (0.5 mm) raised bezel • See-through sides • Wireless charging compatible • Easy to take on and off Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
-  Updated: 2026-03-18T19:16:27Z
+  Updated: 2026-04-02T10:41:16Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -12087,7 +12087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/clear-case-for-samsung-samsung-galaxy-s25-case-on-phone-6996b92f194ca.jpg?v=1771485501
     Price: $35.00 USD
 - [CAMPER HAT](https://rusticroots01.com/products/camper-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:27Z
+  Updated: 2026-04-02T10:41:17Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
@@ -12133,7 +12133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-light-blue-front-6996bf4de4a35.jpg?v=1773033566
     Price: $35.00 USD
 - [PRAY Embroidered Beanie](https://rusticroots01.com/products/pray-embroidered-beanie): The perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing. • 60% cotton, 40% acrylic • Breathable cotton blend • Form-fitting shape • One size fits most This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 17 ⅜-17 ⅞ 8 ⅛ 2 ½ 8 ¼
-  Updated: 2026-03-18T19:16:28Z
+  Updated: 2026-04-02T10:41:17Z
   Vendor: RUSTIC ROOTS 
   Product Type: BIBLE APPAREL
   Availability: Available
@@ -12159,7 +12159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/knit-beanie-white-front-6997dd2554256.jpg?v=1771560242
     Price: $35.00 USD
 - [PRAY DAD HAT](https://rusticroots01.com/products/dad-hat-pray): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:28Z
+  Updated: 2026-04-02T10:41:17Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -12177,7 +12177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-stone-front-6997df4b4a7d8.jpg?v=1773112651
     Price: $35.00 USD
 - [OFF GRID Snap case for Samsung®](https://rusticroots01.com/products/off-grid-snap-case-for-samsung®): With this snap case, you'll never have to compromise style for safety. Its slim and lightweight design is perfect for a busy lifestyle, adding minimal weight to your device while still keeping it protected. • Made of polycarbonate (PC) material • Wireless charging compatible • Precisely aligned port openings • Blank product sourced from the Republic of Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:28Z
+  Updated: 2026-04-02T10:41:18Z
   Vendor: R & R APPAREL
   Product Type: OFF GRID
   Availability: Available
@@ -12275,7 +12275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/snap-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-6997ed7659973.jpg?v=1771564425
     Price: $35.00 USD
 - [MOUNTAIN RUN MagSafe® tough case for iPhone®](https://rusticroots01.com/products/mountain-run-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:28Z
+  Updated: 2026-04-02T10:41:18Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -12345,7 +12345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-6997f003efec1.jpg?v=1771565076
     Price: $35.00 USD
 - [CHOSEN Tough Case for iPhone®](https://rusticroots01.com/products/chosen-tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:29Z
+  Updated: 2026-04-02T10:41:19Z
   Vendor: RUSTIC ROOTS 
   Product Type: BIBLE APPAREL
   Availability: Available
@@ -12459,7 +12459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-6997f24d7c946.jpg?v=1771565661
     Price: $24.50 USD
 - [CAMPING Tough Case for iPhone®](https://rusticroots01.com/products/camping-tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:29Z
+  Updated: 2026-04-02T10:41:20Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -12573,7 +12573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-6997f5a795e29.jpg?v=1771566524
     Price: $35.00 USD
 - [RIVER LIFE MagSafe® tough case for iPhone®](https://rusticroots01.com/products/river-life-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-18T19:16:29Z
+  Updated: 2026-04-02T10:41:20Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -12643,7 +12643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-6997fbb6be334.jpg?v=1771568069
     Price: $35.00 USD
 - [LOVE LIFE MagSafe® tough case for iPhone®](https://rusticroots01.com/products/love-life-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:29Z
+  Updated: 2026-04-02T10:41:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -12709,7 +12709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-6997ffb57e664.jpg?v=1771569097
     Price: $35.00 USD
 - [STAR FIRE Tough case for Samsung®](https://rusticroots01.com/products/star-fire-tough-case-for-samsung®): Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone! • Outer shell: Polycarbonate (PC) • Liner: Polyurethane (TPU) • Precisely aligned port openings • Induction charger compatible Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:30Z
+  Updated: 2026-04-02T10:41:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -12795,7 +12795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-6998018379b9b.jpg?v=1771569562
     Price: $35.00 USD
 - [CROSS PANTS Unisex track pants](https://rusticroots01.com/products/cross-pants-unisex-track-pants): The unisex track pants are your new go-to piece for working out or styling a streetwear outfit. The water-resistant, lightweight fabric and mesh lining provide comfort, while elastic ankle cuffs will make it easy for you to show off your kicks. Style it with a windbreaker for a complete look and feel. • 100% polyester • Fabric weight: 2.21 oz/yd² (75 g/m²) • Lightweight, water-resistant fabric • Fully lined, mesh lining • Relaxed fit • Elastic waistband and ankle cuffs • Drawcord • Zip pockets • Sits at hip • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (inches) INSEAM LENGTH (inches) XS 25 28 S 27 28 ½ M 29 ½ 28 ¾ L 32 29 ¼ XL 35 29 ½ 2XL 36 ½ 30 3XL 39 30 ¼
-  Updated: 2026-03-18T19:16:30Z
+  Updated: 2026-04-02T10:41:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: CHRISTIAN APPAREL
   Availability: Available
@@ -12829,7 +12829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-track-pants-black-front-69af962a4c99e.jpg?v=1773114935
     Price: $58.00 USD
 - [TAKE ME TO THE MOUNTAINS  Unisex Premium Sweatshirt](https://rusticroots01.com/products/take-me-to-the-mountains-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:30Z
+  Updated: 2026-04-02T10:41:22Z
   Vendor: RUSTIC ROOTS 
   Product Type: T SHIRT LONG SLEEVE
   Availability: Available
@@ -12859,7 +12859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-69af94313afc9.jpg?v=1773114553
     Price: $65.00 USD
 - [HIKING TRIP Unisex hoodie](https://rusticroots01.com/products/hiking-trip-unisex-hoodie): A soft and comfy unisex hoodie that fits all your hoodie needs. The fleece fabric makes it a great partner all year round, be it a summer evening on the beach, or a Christmas dinner in a mountain cabin.• 52% air lume combed ring-spun cotton, 48% poly fleece• Heather colors are 60% ai rlume combed ring-spun cotton, 40% poly fleece• Fabric weight: 6.5 oz/yd² (220.4 g/m²)• Regular fit• Side-seamed construction• Blank product sourced from Honduras, Nicaragua or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:31Z
+  Updated: 2026-04-02T10:41:23Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -13025,7 +13025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-69af907c0b13c.jpg?v=1773113936
     Price: $65.00 USD
 - [CHOSEN Flip-Flops](https://rusticroots01.com/products/chosen-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-03-18T19:16:31Z
+  Updated: 2026-04-02T10:41:23Z
   Vendor: RUSTIC ROOTS 
   Product Type: BIBLE APPAREL
   Availability: Available
@@ -13043,7 +13043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699a82d0446bc.jpg?v=1771733727
     Price: $34.86 USD
 - [Adventure buddy Trucker Cap](https://rusticroots01.com/products/trucker-cap): This six-panel trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun. • 26% cotton, 74% polyester• Mid-profile cap with a low-profile embroidery area• Structured, six-panel cap• 3.5″ crown (8.9 cm)• Hard buckram front panels• Mesh back• Perma curve® visor, matching under visor• Plastic adjustable closure• Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm)• Blank product sourced from Vietnam or Bangladesh Size guide A (inches) B (inches) C (inches) D (inches) One size 21 ⅝-⅝ 3 ⅞ 2 ½ 6 ¾
-  Updated: 2026-03-18T21:53:31Z
+  Updated: 2026-04-02T10:41:24Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT
   Availability: Available
@@ -13093,21 +13093,21 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-silver-front-69af8beb669ea.jpg?v=1773112309
     Price: $35.00 USD
 - [FAITH Backpack](https://rusticroots01.com/products/faith-backpack): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
-  Updated: 2026-03-18T19:16:31Z
+  Updated: 2026-04-02T10:41:25Z
   Vendor: RUSTIC ROOTS 
   Product Type: BIBLE APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-699a8dadae9c9.jpg?v=1771736540
   Price: $58.00 USD
 - [BOONDOCKING LIFE Backpack](https://rusticroots01.com/products/boondocking-life-backpack): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
-  Updated: 2026-03-18T19:16:32Z
+  Updated: 2026-04-02T10:41:26Z
   Vendor: RUSTIC ROOTS 
   Product Type: BOONDOCKING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-699a943731d04.jpg?v=1771738176
   Price: $58.00 USD
 - [CAMPING Unisex t-shirt](https://rusticroots01.com/products/unisex-t-shirt-2): We’re gonna make you an offer you can’t refuse: the best 100% cotton tee you’ve ever tried. Pre-shrunk fabric? Check. Side-seamed construction? Check. Best fit ever? Double check. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53
-  Updated: 2026-03-18T19:16:32Z
+  Updated: 2026-04-02T10:41:26Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -13313,7 +13313,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-berry-front-699a9c30b0c50.jpg?v=1771740242
     Price: $43.00 USD
 - [RIVER LIFE Women’s slip-on canvas shoes](https://rusticroots01.com/products/river-life-women-s-slip-on-canvas-shoes): Made for comfort and ease, these Women’s Slip-On Canvas Shoes are stylish and the ideal piece for completing an outfit. Equipped with removable soft insoles and rubber outsoles, it’s also easy to adjust them for a better fit. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Your brand on the box, insole, and tongue of the shoe • Breathable lining, soft insole • Elastic side accents • Padded collar and tongue • Printed, cut, and handmade • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product.Size guide US WOMEN UK EUROPE JAPAN OUTSOLE LENGTH (inches) FOOT LENGTH (inches) 5 5 2.5 35.5 22 9 ¾ 8 ⅝ 5.5 5.5 3 36 22.5 9 ¾ 8 ⅞ 6 6 3.5 36.5 23 10.00 9.00 6.5 6.5 4 37.5 23.5 10 ¼ 9 ⅛ 7 7 4.5 38 24 10 ¼ 9 ¼ 7.5 7.5 5 38.5 24.5 10 ⅝ 9 ½ 8 8 5.5 39 25 10 ⅝ 9 ⅝ 8.5 8.5 6 40 25.5 10 ¾ 9 ¾ 9 9 6.5 40.5 26 11 ⅛ 10 9.5 9.5 7 41 26.5 11 ⅛ 10 ⅛ 10 10 7.5 42 27 11 ⅜ 10 ¼ 10.5 10.5 8 42.5 27.5 11 ⅝ 10 ½ 11 11 8.5 43 28 11 ⅝ 10 ⅝ 11.5 11.5 9 44 28.5 12.00 10 ¾ 12 12 9.5 44.5 29 12 ⅛ 11.00
-  Updated: 2026-03-18T19:16:32Z
+  Updated: 2026-04-02T10:41:27Z
   Vendor: RUSTIC ROOTS 
   Product Type: RV LIFE
   Availability: Available
@@ -13439,7 +13439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slip-on-canvas-shoes-white-front-699aa0cf83edb.jpg?v=1773261792
     Price: $63.00 USD
 - [STAR Women’s lace-up canvas shoes](https://rusticroots01.com/products/star-women-s-lace-up-canvas-shoes): No closet is complete without a pair of sneakers. Step up your shoe game with these women’s lace-up canvas shoes and rest assured that your outfit will be polished to perfection. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Breathable lining • Padded collar and tongue • Removable insole • Soles and laces in matching colors • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product.Size guide US WOMEN UK EUROPE FOOT LENGTH (inches) JAPAN OUTSOLE LENGTH (inches) 5 5 2.5 35.5 8 ⅝ 22 9 ¾ 5.5 5.5 3 36 8 ⅞ 22.5 9 ¾ 6 6 3.5 36.5 9.00 23 9 ¾ 6.5 6.5 4 37.5 9 ⅛ 23.5 10.00 7 7 4.5 38 9 ¼ 24 10.00 7.5 7.5 5 38.5 9 ½ 24.5 10 ¼ 8 8 5.5 39 9 ⅝ 25 10 ¼ 8.5 8.5 6 40 9 ¾ 25.5 10 ⅝ 9 9 6.5 40.5 10.00 26 10 ¾ 9.5 9.5 7 41 10 ⅛ 26.5 10 ¾ 10 10 7.5 42 10 ¼ 27 11 ⅛ 10.5 10.5 8 42.5 10 ½ 27.5 11 ⅜ 11 11 8.5 43 10 ⅝ 28 11 ⅜ 11.5 11.5 9 44 10 ¾ 28.5 11 ⅝ 12 12 9.5 44.5 11.00 29 12.00
-  Updated: 2026-03-18T19:16:32Z
+  Updated: 2026-04-02T10:41:27Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH SHOES
   Availability: Available
@@ -13505,7 +13505,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-lace-up-canvas-shoes-white-right-699aa4268ce83.jpg?v=1773261874
     Price: $65.00 USD
 - [MOUNTAIN LIFE BEST LIFE Unisex Sweatshirt](https://rusticroots01.com/products/moutain-life-best-life-unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:33Z
+  Updated: 2026-04-02T10:41:30Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -13631,7 +13631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-crew-neck-sweatshirt-white-front-69ae4be0740aa.jpg?v=1773111860
     Price: $55.00 USD
 - [HIKING LIFETough Case for iPhone®](https://rusticroots01.com/products/hiking-lifetough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:33Z
+  Updated: 2026-04-02T10:41:31Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -13745,7 +13745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-699d134906c74.jpg?v=1771901786
     Price: $35.00 USD
 - [Who Said RV LIFE MagSafe® tough case for iPhone®](https://rusticroots01.com/products/who-said-rv-life-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
-  Updated: 2026-03-18T19:16:33Z
+  Updated: 2026-04-02T10:41:32Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -13811,7 +13811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-699d1609f156d.jpg?v=1771902526
     Price: $35.00 USD
 - [Love life Snap case for Samsung®](https://rusticroots01.com/products/love-life-snap-case-for-samsung®): With this snap case, you'll never have to compromise style for safety. Its slim and lightweight design is perfect for a busy lifestyle, adding minimal weight to your device while still keeping it protected. • Made of polycarbonate (PC) material • Wireless charging compatible • Precisely aligned port openings • Blank product sourced from the Republic of Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:34Z
+  Updated: 2026-04-02T10:41:34Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -13909,7 +13909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/snap-case-for-samsung-glossy-samsung-galaxy-s25-ultra-front-699d1c86a75ec.jpg?v=1771904180
     Price: $35.00 USD
 - [MOUNTAIN CAMPER MagSafe® tough case for iPhone®](https://rusticroots01.com/products/mountain-camper-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
-  Updated: 2026-03-18T19:16:34Z
+  Updated: 2026-04-02T10:41:34Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -13975,7 +13975,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-699d228938227.jpg?v=1771905696
     Price: $35.00 USD
 - [You ARE Blessed MagSafe® clear case for iPhone®](https://rusticroots01.com/products/you-are-blessed-magsafe®-clear-case-for-iphone®): This sleek, durable case protects your phone and is easy to hold. The MagSafe® magnets ensure secure attachment and faster wireless charging. • Hybrid thermoplastic polyurethane and polycarbonate • Solid, durable polycarbonate back • Secure yet flexible thermoplastic polyurethane sides • Raised bezel front • Precisely aligned port openings • Easy to snap on and off • MagSafe® compatible • Wireless charging-compatible • Graphics are UV-printed onto the case with a smooth, matte finish • The SE case fits the 2020 iPhone® SE model • Blank product sourced from China or South Korea Disclaimer: The case may include a protective film on the inside that needs to be removed before use. Important: Cases for the iPhone 15 and iPhone 16 series can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different iPhone case. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
-  Updated: 2026-03-18T19:16:34Z
+  Updated: 2026-04-02T10:41:35Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -14045,7 +14045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-clear-case-for-iphone-iphone-17-front-699d269e02984.jpg?v=1771906735
     Price: $35.00 USD
 - [GIRL Unisex Short Sleeve V-Neck T-Shirt](https://rusticroots01.com/products/camper-unisex-short-sleeve-v-neck-t-shirt): This unisex tee has a classic v -neck cut and fits like a well-loved favorite. • 100% combed ring-spun cotton• Dark Grey Heather is 52% Airline combed ring-spun cotton, 48% polyester• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester• Pre-shrunk fabric• Fabric weight: 4.2 oz/yd² (142 g/m²)• Regular fit• Side-seamed construction• Cove stitched v -neck and hemmed sleeves• Shoulder-to-shoulder taping• Blank product sourced from Nicaragua, Guatemala, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) BODY WIDTH (inches) S 27 ¾ 18 M 28 ¾ 20 L 29 ¾ 22 XL 30 ¾ 24 2XL 31 ¾ 26
-  Updated: 2026-03-18T19:16:34Z
+  Updated: 2026-04-02T10:41:36Z
   Vendor: RUSTIC ROOTS 
   Product Type: t-shirt
   Availability: Available
@@ -14071,7 +14071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-white-front-69af7b488621b.jpg?v=1773108135
     Price: $40.00 USD
 - [RV CAMPER MagSafe® tough case for iPhone®](https://rusticroots01.com/products/rv-camper-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
-  Updated: 2026-03-18T19:16:35Z
+  Updated: 2026-04-02T10:41:37Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -14137,7 +14137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-699d30d3efdc8.jpg?v=1771909349
     Price: $35.00 USD
 - [CAMP FIRE NIGHTS Tough case for Samsung®](https://rusticroots01.com/products/camp-fire-nights-tough-case-for-samsung®): Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone! • Outer shell: Polycarbonate (PC) • Liner: Polyurethane (TPU) • Precisely aligned port openings • Induction charger compatible Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! ⚠ Warning: This product can expose you to chemicals, including Bisphenol A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to https://www.p65warnings.ca.gov
-  Updated: 2026-03-18T19:16:35Z
+  Updated: 2026-04-02T10:41:37Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -14223,7 +14223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-699d336552044.jpg?v=1771910009
     Price: $35.00 USD
 - [RV LIFE Tough Case for iPhone®](https://rusticroots01.com/products/rv-life-tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-18T19:16:35Z
+  Updated: 2026-04-02T10:41:38Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE CASE
   Availability: Available
@@ -14337,7 +14337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-699d35e1a4451.jpg?v=1771910643
     Price: $35.00 USD
 - [RV LIFE CAMPER Flip-Flops](https://rusticroots01.com/products/rv-life-camper-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-03-18T19:16:35Z
+  Updated: 2026-04-02T10:41:39Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH
   Availability: Available
@@ -14355,7 +14355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699d3a76b6112.jpg?v=1771911816
     Price: $35.00 USD
 - [MIDNIGHT SKY Flip-Flops](https://rusticroots01.com/products/midnight-sky-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post style This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-03-18T19:16:36Z
+  Updated: 2026-04-02T10:41:39Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH
   Availability: Available
@@ -14373,7 +14373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-lifestyle-1-699d40b6edc01.jpg?v=1771913428
     Price: $35.00 USD
 - [TRAVEL TRAILER DAD HAT](https://rusticroots01.com/products/travel-trailer-dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:36Z
+  Updated: 2026-04-02T10:41:39Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT
   Availability: Available
@@ -14391,7 +14391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69af77d505d7b.jpg?v=1773111436
     Price: $35.00 USD
 - [CAMPER LIFE Trucker Cap](https://rusticroots01.com/products/camper-life-rucker-cap): This six-panel trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun. • 26% cotton, 74% polyester• Mid-profile cap with a low-profile embroidery area• Structured, six-panel cap• 3.5″ crown (8.9 cm)• Hard buckram front panels• Mesh back• Permacurv® visor, matching under visor• Plastic adjustable closure• Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm)• Blank product sourced from Vietnam or Bangladesh Size guide A (inches) B (inches) C (inches) D (inches) One size 21 ⅝-⅝ 3 ⅞ 2 ½ 6 ¾
-  Updated: 2026-03-18T19:16:36Z
+  Updated: 2026-04-02T10:41:40Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
@@ -14421,7 +14421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/retro-trucker-hat-khaki-front-69af72b9509b7.jpg?v=1773105855
     Price: $35.00 USD
 - [DOG MOM Unisex cotton hoodie](https://rusticroots01.com/products/dog-mom-unisex-cotton-hoodie): This premium hoodie blends comfort with style. Its relaxed fit and soft cotton fabric make it perfect for casual looks, while the all-over print design lets you create unique and eye-catching styles. • 95% cotton, 5% elastane • Fabric weight: 7.8 oz./yd.² (265 g/m²) • Relaxed unisex fit with drop shoulders • Double-layer hood with drawstrings • Spacious front pocket • Self-fabric collar and cuffs • Blank product sourced from Mexico This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:37Z
+  Updated: 2026-04-02T10:41:40Z
   Vendor: R & R APPAREL
   Product Type: sweatshirt dog mom
   Availability: Available
@@ -14471,7 +14471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-hoodie-white-front-69b39663ba0c8.jpg?v=1773377331
     Price: $72.50 USD
 - [ONE DAY AT A TIME   Unisex cotton sweatshirt](https://rusticroots01.com/products/camo-unisex-cotton-sweatshirt): Soft, stretchy, and made to last – this cotton sweatshirt blends comfort and quality for effortless everyday style for all body types. Its clean shape and breathable fabric make it a go-to piece for casual outfits or standout streetwear designs. • 95% cotton, 5% elastane • Fabric weight: 7.8 oz./yd.² (265 g/m²) • Relaxed fit with drop shoulder • Slight stretch for comfort and shape retention • Pilling-resistant and durable after multiple washes • Blank product sourced from Mexico This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:37Z
+  Updated: 2026-04-02T10:41:40Z
   Vendor: RUSTIC ROOTS 
   Product Type: SWEATSHIRT GIRLS
   Availability: Available
@@ -14521,7 +14521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-cotton-sweatshirt-white-front-69af8721ec51a.jpg?v=1773111292
     Price: $70.00 USD
 - [REMEMBER YOUR WHY Unisex tie-dye hoodie](https://rusticroots01.com/products/remember-your-why-unisex-champion-tie-dye-hoodie): If you're looking for a trendy, one-of-a-kind clothing item, this Champion tie-dye hoodie is the one! It's almost impossible to create two similar items during the garment-dyeing process, so every piece has a unique touch to it. • 82% cotton, 18% poly fleece • Fabric weight: 12 oz/yd² (406.9 g/m²) • Unique scrunch-dye, tie-dye pattern • Reverse Weave® cross-grain cut resists shrinkage • Two-ply hood with matching drawcords • 1×1 rib knit side panels, sleeve cuffs, and bottom hem • Front pouch pocket • Woven label at the back of the neck • Embroidered "C" logo on left sleeve • Blank product sourced from El SalvadorSize guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 26 20 34 ½ M 27 22 35 ¼ L 28 24 36 XL 29 26 36 ¾ 2XL 30 28 37 ½
-  Updated: 2026-03-18T19:16:37Z
+  Updated: 2026-04-02T10:41:41Z
   Vendor: RUSTIC ROOTS 
   Product Type: HOODIES AND SWEATSHIRTS
   Availability: Available
@@ -14547,7 +14547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-champion-tie-dye-hoodie-navy-front-699fd1f60e4df.jpg?v=1773261650
     Price: $86.00 USD
 - [Unis ex I,AM AMAZING   staple eco t-shirt](https://rusticroots01.com/products/unis-ex-i-am-amazing-staple-eco-t-shirt): Get an eco-version of a beloved classic in this unisex t-shirt made from 100% recycled materials. Its lightweight fabric and time-tested fit make this tee a true staple for warmer days.• 65% recycled polyester, 35% recycled Airlume combed and ring-spun cotton• Fabric weight: 4.2 oz./yd.² (142 g/m²)• 32 singles• Unisex sizing, regular fit• Side-seamed construction• The recycled content of this product is  under GRS (Global Recycled Standard)• Blank product sourced from Nicaragua Size guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57
-  Updated: 2026-03-18T19:16:37Z
+  Updated: 2026-04-02T10:41:42Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -14609,7 +14609,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-eco-t-shirt-navy-front-699fa3061ff89.jpg?v=1773105398
     Price: $24.00 USD
 - [BELIEVE IN YOUR DREAMS Dad Hat](https://rusticroots01.com/products/believe-in-your-dreams-dad-hat): Just like a dessert is always better with a cherry on top, a casual outfit looks better if you’re styling it with a classic dad hat. Choose your colors! • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:38Z
+  Updated: 2026-04-02T10:41:43Z
   Vendor: RUSTIC ROOTS 
   Product Type: EMBROIDERY
   Availability: Available
@@ -14635,7 +14635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-699fa90ef01f4.jpg?v=1772071199
     Price: $33.75 USD
 - [BELIEVE IN YOUR SELF Unisex Long Sleeve Tee](https://rusticroots01.com/products/believe-in-your-self-unisex-long-sleeve-tee): Enrich your wardrobe with a versatile long sleeve tee. For a casual look, combine it with your favorite jeans, and layer it with a button-up shirt, a zip-up hoodie, or a snazzy jacket. Dress it up with formal trousers or chinos to achieve a more professional look. • 100% airlume combed ring-spun cotton • Heather colors are 52% combed and ring-spun cotton, 48% polyester • Athletic Heather and Black Heather are 90% combed and ring-spun cotton, 10% polyester • Fabric weight: 4.2 oz./yd.² (142.4 g/m²) • 32 singles • Regular fit • Side-seamed construction • Crew neck • Cover-stitched collar • 2″ (5 cm) ribbed cuffs • Blank product sourced from Nicaragua, Honduras, or the USSize guide SHIRT LENGTH (inches) CHEST WIDTH (inches) CHEST TO FIT (inches) SLEEVE LENGTH (inches) XS 27 16 ½ 31-34 25 S 28 18 34-37 25 ⅝ M 29 20 38-41 26 ¼ L 30 22 42-45 26 ⅞ XL 31 24 46-49 27 ½ 2XL 32 26 50-53 28 ⅛
-  Updated: 2026-03-22T03:20:16Z
+  Updated: 2026-04-02T10:41:43Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -14841,7 +14841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-long-sleeve-tee-heather-deep-teal-front-69ae63d7a73a3.jpg?v=1773036770
     Price: $50.19 USD
 - [HOWDY Y-ALL Vintage Cotton Twill Cap](https://rusticroots01.com/products/howdy-y-all-vintage-cotton-twill-cap): Everybody knows that dad caps are no longer just for dads, so get an embroidered cotton twill cap for yourself! This one's really special thanks to the intricate embroidery detail and the washed out vintage feel. • 100% cotton twill • 6-panel unstructured cap with a low profile • 6 sewn eyelets • Black sweatband • Metal snap buckle with an antique brass finish • Washed-out vintage effect • Blank product sourced from ChinaSize guide A (inches) B (inches) C (inches) D (inches) One size 18 ½-23 ¼ 4 ⅜ 2 ⅞ 7 ⅛
-  Updated: 2026-03-18T19:16:38Z
+  Updated: 2026-04-02T10:41:44Z
   Vendor: RUSTIC ROOTS 
   Product Type: EMBROIDERY
   Availability: Available
@@ -14867,14 +14867,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-charcoal-grey-front-69a0ddc6d43cc.jpg?v=1772151122
     Price: $36.79 USD
 - [Teddy bear with a t-shirt GOD GOT ME](https://rusticroots01.com/products/teddy-bear-with-a-t-shirt-god-got-me): Meet our cute teddy bear wearing a cool t-shirt. Made from the finest and softest materials, it’s the perfect cuddling buddy for people of all ages. Teddy: • Made from polyester fiber • Filled with PE/PVC pellets • Weight: 9.21 oz. (0.26 kg) • Measures 9.5″ (24.13 cm) sitting down • One-size T-shirt: • 100% polyester Blank product sourced from China, printed in the US. Disclaimer: This product is not suitable for children under 3 years of age. Important: This product is available in the US only. If your shipping address is outside this region, please choose a different product.
-  Updated: 2026-03-18T19:16:39Z
+  Updated: 2026-04-02T10:41:44Z
   Vendor: RUSTIC ROOTS 
   Product Type: SUBLIMATION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/teddy-bear-with-a-t-shirt-white-front-69a0e0ee5b26f.jpg?v=1772151037
   Price: $46.30 USD
 - [RV CAMPING LIFESTYLE Unisex Premium Sweatshirt](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:39Z
+  Updated: 2026-04-02T10:41:45Z
   Vendor: RUSTIC ROOTS 
   Product Type: SWEATSHIRT
   Availability: Available
@@ -14928,7 +14928,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-vintage-black-right-69a0ea8cc3673.jpg?v=1773105269
     Price: $60.94 USD
 - [Y-ALL Foam trucker hat](https://rusticroots01.com/products/y-all-foam-trucker-hat): Stand out from the crowd with this trendy foam trucker hat! This head accessory is made with high-quality polyester and foam that guarantees a premium look and feel. The foam trucker hat has an adjustable snap that ensures a comfortable fit, and the mesh back provides great breathability. The matching color braid gives the hat an extra oomph. Style it with your favorite outfit any time of the day. • 100% polyester front • 100% polyester mesh back • Thicker and heavier fabric, laminated with high-density, non-toxic foam • Structured, 5-panel cap, high-profile • 8 rows of stitching on a pre-curved visor • Seamless foam front panel with lining • Matching fabric undervisor • Matching color braid and sweatband • Adjustable plastic snap • One size fits most • Blank product sourced from China or Myanmar This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 24 - 26 6 3 8 ⅝
-  Updated: 2026-03-18T19:16:39Z
+  Updated: 2026-04-02T10:41:46Z
   Vendor: RUSTIC ROOTS 
   Product Type: HATS
   Availability: Available
@@ -14942,7 +14942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/foam-trucker-hat-navy-one-size-front-69af74e3cbd8c.jpg?v=1773106414
     Price: $32.00 USD
 - [Headband CAMO   RV LIFE](https://rusticroots01.com/products/headband-rv-life): This soft, stretchy headband adds that extra bit of comfort for your workouts, while also being stylish enough to rock with a Friday-night look. Don’t miss out on getting your own! • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Moisture-wicking • Blank product components sourced from Mexico and ChinaSize guide WIDTH (inches) LENGTH (inches) M 2 9 ½ L 2 ⅛ 10 ¼
-  Updated: 2026-03-18T19:16:39Z
+  Updated: 2026-04-02T10:41:47Z
   Vendor: RUSTIC ROOTS 
   Product Type: HEADBANDS
   Availability: Available
@@ -14956,14 +14956,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-left-front-69a0f55db9386.jpg?v=1772156846
     Price: $26.58 USD
 - [THE WILD DOG   Backpack](https://rusticroots01.com/products/the-wild-backpack): This medium size backpack is just what you need for daily use or sports activities! The pockets (including one for your laptop) give plenty of room for all your necessities, while the water-resistant material will protect them from the weather. • Made from 100% polyester • Dimensions: H 16⅛" (41cm), W 12¼" (31cm), D 3⅞" (10cm) • Fabric weight: 9 oz./yd.² (305 g/m²) • Maximum weight limit: 44lbs (20kg) • Water-resistant material • Large inside pocket with a separate compartment for a 15” laptop, front pocket with a zipper, and a hidden pocket with zipper on the back of the bag • Top zipper has 2 sliders with zipper pullers • Silky lining, piped inside hems, and a soft mesh back • Padded ergonomic bag straps from polyester with plastic strap regulators • Blank product components sourced from China
-  Updated: 2026-03-18T19:16:40Z
+  Updated: 2026-04-02T10:41:47Z
   Vendor: RUSTIC ROOTS 
   Product Type: CUT-SEW
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-backpack-white-front-69b209d2b9c5d.jpg?v=1773275769
   Price: $58.00 USD
 - [Tough case for Samsung  i can see you](https://rusticroots01.com/products/tough-case-for-samsung-i-can-see-you): Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone! • Outer shell: Polycarbonate (PC) • Liner: Polyurethane (TPU) • Precisely aligned port openings • Induction charger compatible Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-18T19:16:40Z
+  Updated: 2026-04-02T10:41:48Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE-CASE
   Availability: Available
@@ -15049,7 +15049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-matte-samsung-galaxy-s25-ultra-front-69a1300fab2e2.jpg?v=1772332148
     Price: $35.00 USD
 - [BOONDOCKING Headband](https://rusticroots01.com/products/boondocking-headband): This soft, stretchy headband adds that extra bit of comfort for your workouts, while also being stylish enough to rock with a Friday-night look. Don’t miss out on getting your own! • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Moisture-wicking • Blank product components sourced from Mexico and ChinaSize guide WIDTH (inches) LENGTH (inches) M 2 9 ½ L 2 ⅛ 10 ¼
-  Updated: 2026-03-18T19:16:40Z
+  Updated: 2026-04-02T10:41:48Z
   Vendor: RUSTIC ROOTS 
   Product Type: CUT-SEW
   Availability: Available
@@ -15063,7 +15063,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-headband-white-front-69a3dc0697895.jpg?v=1773102957
     Price: $27.09 USD
 - [NOT PERFECT 3/4 sleeve raglan shirt](https://rusticroots01.com/products/not-perfect-3-4-sleeve-raglan-shirt): A stylish spin on the classic baseball raglan. The combed cotton blend makes it super soft, comfortable, and lightweight. • All solid colors are 100% ring-spun cotton • Heather Grey color is 90% cotton, 10% polyester • Heather Denim color is 50% cotton, 50% polyester • Fabric weight: 4.5 oz/yd² (152.6 g/m²) • Fine knit jersey • 30 singles • ¾ sleeves • Contrast raglan sleeve • Unhemmed bottom • Reactive-dyed for longer-lasting color • Prewashed to minimize shrinkage • Tear away label • Blank product sourced from MexicoSize guide LENGTH (inches) WIDTH (inches) XS 26 16 ½ S 28 18 M 29 20 L 30 22 XL 31 24 2XL 31 26
-  Updated: 2026-03-18T19:16:41Z
+  Updated: 2026-04-02T10:41:48Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -15185,7 +15185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-charcoal-front-69a3defc3a93d.jpg?v=1772348399
     Price: $39.82 USD
 - [RV LIFE Yoga Leggings](https://rusticroots01.com/products/rv-life-yoga-leggings): Super soft, stretchy, and comfortable yoga leggings. Order these to make sure your next yoga session is the best one ever! • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Four-way stretch, which means fabric stretches and recovers on the cross and lengthwise grains. • Made with a smooth, comfortable microfiber yarn • Raised waistband • Precision-cut and hand-sewn after printing • Blank product components sourced from Mexico and China Disclaimers: • In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. • Please note that contact with rough surfaces should be avoided since they can pull out the white fibers in the fabric, damaging the leggings. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (inches) HIPS (inches) M 28 ⅜ 38 ⅝ L 31 ½ 41 ¾
-  Updated: 2026-03-18T19:16:41Z
+  Updated: 2026-04-02T10:41:49Z
   Vendor: R & R APPAREL
   Product Type: SUBLIMATIONLEGGING
   Availability: Available
@@ -15199,7 +15199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-yoga-leggings-white-front-69b393099bc53.jpg?v=1773376277
     Price: $49.53 USD
 - [LETS GO Women’s micro-rib tank top](https://rusticroots01.com/products/lets-go-women-s-micro-rib-tank-top): Upgrade your basics with this micro-rib tank top. Crafted from soft Airline cotton, it features thick straps and a mid-length cut. Pair it with jeans or layer it under a blazer for a chic look.• 52% Airline combed and ring-spun cotton, 48% polyester• Athletic Heather colors are 90% Airline combed and ring-spun cotton and 10% polyester• Fabric weight: 5.4 oz./yd.² (183 g/m²)• Yarn diameter: 32 singles• 1 × 1 micro rib• Pre-shrunk• Stretch fit• Mid-length• Thick straps• Scoop neck• Side-seamed construction• Blank product sourced from Nicaragua Size guide LENGTH (inches) CHEST (inches) XS 12 ¼ 29-31 S 12 ⅝ 32-33 M 13 34-35 L 13 ⅜ 35-37 XL 13 ¾ 38-39 2XL 14 ¼ 40-42
-  Updated: 2026-03-18T19:16:41Z
+  Updated: 2026-04-02T10:41:50Z
   Vendor: RUSTIC ROOTS 
   Product Type: TANK TOP
   Availability: Available
@@ -15301,8 +15301,8 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69b38fd44c131.jpg?v=1773375454
     Price: $28.00 USD
 - [RIVER LIFE Unisex eco raglan hoodie](https://rusticroots01.com/products/river-life-unisex-eco-raglan-hoodie): If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from BangladeshSize guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2026-03-18T19:16:42Z
-  Vendor: RUSTIC ROOTS 
+  Updated: 2026-04-02T10:41:51Z
+  Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-black-front-69a675fc3e4ba.jpg?v=1772516887
@@ -15391,7 +15391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-eco-raglan-hoodie-white-front-69a675fc4043a.jpg?v=1772516887
     Price: $59.70 USD
 - [RIVER LIFE Dad hat](https://rusticroots01.com/products/river-life-dad-hat): You’ll be head over heels with this timeless piece! The hat comes in various colors to match your style and sits on your head just like a crown, thanks to the adjustable strap. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:42Z
+  Updated: 2026-04-02T10:41:52Z
   Vendor: RUSTIC ROOTS 
   Product Type: EMBROIDERY
   Availability: Available
@@ -15417,7 +15417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69a6782f0bfad.jpg?v=1772517437
     Price: $35.00 USD
 - [JESUS HAS MY BACK Tough Case for iPhone®](https://rusticroots01.com/products/jesus-has-my-back-tough-case-for-iphone®): Protect your phone with style using a durable, dual-layered case. The outer shell is made of impact-resistant polycarbonate, while the inner lining sports TPU lining for maximum impact absorption. Keep your phone fashionable and safe all year round! • Polycarbonate outer shell • Thermoplastic Polyurethane TPU inner liner • Dual-layer protection • Precisely aligned port openings • Induction charging compatible • Blank product sourced from Korea Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-18T19:16:42Z
+  Updated: 2026-04-02T10:41:52Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE-CASE
   Availability: Available
@@ -15527,7 +15527,7 @@
     Availability: Available
     Price: $35.00 USD
 - [I.AM A SPICY DISASTER Tough case for Samsung®](https://rusticroots01.com/products/i-am-a-spicy-disaster-tough-case-for-samsung®): Make your phone look like a work of art with this tough-yet-sleek phone case. Made with impact-resistant and shock-absorbing materials, it’ll keep your phone safe from bumps and scratches. Plus, the dual-layer design offers extra durability and protection. It’s time to add some fun, protective flair to your phone! • Outer shell: Polycarbonate (PC) • Liner: Polyurethane (TPU) • Precisely aligned port openings • Induction charger compatible Important: This product cannot be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-18T19:16:42Z
+  Updated: 2026-04-02T10:41:53Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE-CASE
   Availability: Available
@@ -15613,7 +15613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-glossy-samsung-galaxy-s25-ultra-front-69a67ccab15d8.jpg?v=1772518623
     Price: $35.00 USD
 - [JESUS GOT MY BACK Flip-Flops](https://rusticroots01.com/products/jesus-got-my-back-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-03-18T19:16:43Z
+  Updated: 2026-04-02T10:41:53Z
   Vendor: RUSTIC ROOTS 
   Product Type: SANDLES
   Availability: Available
@@ -15631,7 +15631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-front-left-69b1f1c6f0d90.jpg?v=1773269454
     Price: $29.39 USD
 - [JESUS GOT MY BACK Unisex Hoodie](https://rusticroots01.com/products/jesus-got-my-back-unisex-hoodie): Don’t you just love sweatshirt weather? We do too. Layer up year round in this cozy, casual style. With a front pocket and snug hood, it doesn’t get much better than this. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from PakistanSize guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-18T19:16:43Z
+  Updated: 2026-04-02T10:41:54Z
   Vendor: RUSTIC ROOTS 
   Product Type: HOODIES AND SWEATSHIRTS
   Availability: Available
@@ -15661,7 +15661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69a8ea5a6a455.jpg?v=1772677858
     Price: $59.48 USD
 - [RISEN Womerin’s micro rib raglan baby tee](https://rusticroots01.com/products/risen-womerin-s-micro-rib-raglan-baby-tee): Soft, sporty, and easy to style—this baby tee updates a classic baseball-inspired design. With its fitted cut, mid-length body, and soft ribbed texture, it pairs effortlessly with jeans, shorts, or joggers for a casual, flattering look. • 52% Airlume combed and ring-spun cotton, 48% polyester • Athletic Heather colors are 90% Airlume combed and ring-spun cotton, 10% polyester • Fabric weight: 5.4 oz/yd² (183 g/m²) • Micro rib fabric for a soft, stretchy feel • Fitted silhouette • Sleeves with contrast coloring • Pre-shrunk fabric for lasting fit • Blank product sourced from Nicaragua
-  Updated: 2026-03-18T19:16:43Z
+  Updated: 2026-04-02T10:41:54Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -15709,7 +15709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-high-waisted-tee-white-zoomed-in-69aa4e376c677.jpg?v=1772768840
     Price: $41.39 USD
 - [I.AM NOT BUSSY Unisex ringer t-shirt](https://rusticroots01.com/products/i-am-not-bussy-unisex-ringer-t-shirt): This lightweight cotton tee features a relaxed fit and contrast trims that give it a retro look. Wear it with jeans, shorts, or joggers for a laid-back everyday look. • 100% combed ring-spun cotton • Heather Gray is 90% cotton, 10% polyester • Fabric weight: 4.3 oz./yd.² (145 g/m²) • Yarn diameter: 32 singles • Side-seamed construction • Regular fit • Crew neck • 1 × 1 baby rib binding on the neckline and sleeves • Blank product sourced from NicaraguaSize guide LENGTH (inches) CHEST (inches) S 28 34-37 M 29 38-41 L 30 42-45 XL 31 46-49 2XL 32 50-53 3XL 33 54-57
-  Updated: 2026-03-18T19:16:43Z
+  Updated: 2026-04-02T10:41:55Z
   Vendor: RUSTIC ROOTS 
   Product Type: UNISEX T-SHIRT
   Availability: Available
@@ -15739,7 +15739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-ringer-t-shirt-heather-gray-black-front-69aa505d81d81.jpg?v=1772769392
     Price: $39.49 USD
 - [COFFEE LIFE Unisex Sweatshirt](https://rusticroots01.com/products/coffee-life-unisex-sweatshirt): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from ChinaSize guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:44Z
+  Updated: 2026-04-02T10:41:56Z
   Vendor: R & R APPAREL
   Product Type: CUT-SEW TEE SHIRT
   Availability: Available
@@ -15789,7 +15789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69aa56164c494.jpg?v=1773033672
     Price: $58.50 USD
 - [HIKING WITH DOGS Unisex Premium Sweatshirt](https://rusticroots01.com/products/hiking-with-dogs-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
-  Updated: 2026-03-18T19:16:44Z
+  Updated: 2026-04-02T10:41:57Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -15819,7 +15819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-premium-sweatshirt-black-front-and-back-69b22e2039378.jpg?v=1773284913
     Price: $56.24 USD
 - [DRUNKEST CAMPGROUND MagSafe® tough case for iPhone®](https://rusticroots01.com/products/drunkest-campground-magsafe®-tough-case-for-iphone®): Protect your phone with this tough, dual-layer case. Its impact-resistant shell and shock-absorbing liner keep your device safe, while built-in MagSafe® magnets ensure secure attachment and faster wireless charging. • Polycarbonate outer shell • Thermoplastic Polyurethane inner liner • Dual-layer protection • Precisely aligned port openings • MagSafe® compatible • Induction charging-compatible • Matte or gloss finish • Blank product sourced from Korea Disclaimer: Keep away from liquids containing high alcohol levels, as designs on the phone case may rub off. Keep away from direct sunlight to prevent yellowing. Important: This product can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different product.
-  Updated: 2026-03-18T19:16:44Z
+  Updated: 2026-04-02T10:41:59Z
   Vendor: RUSTIC ROOTS 
   Product Type: PHONE-CASE
   Availability: Available
@@ -15885,7 +15885,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/magsafe-tough-case-for-iphone-matte-iphone-17-pro-max-front-69aa5f8d0f912.jpg?v=1772773280
     Price: $35.00 USD
 - [HOWDY Y ALL Unisex Short Sleeve V-Neck T-Shirt](https://rusticroots01.com/products/howdy-y-all-unisex-short-sleeve-v-neck-t-shirt): This unisex tee has a classic v -neck cut and fits like a well-loved favorite. • 100% combed ring-spun cotton• Dark Grey Heather is 52% Air lume combed ring-spun cotton, 48% polyester• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester• Pre-shrunk fabric• Fabric weight: 4.2 oz/yd² (142 g/m²)• Regular fit• Side-seamed construction• Cover stitched v -neck and hemmed sleeves• Shoulder-to-shoulder taping• Blank product sourced from Nicaragua, Guatemala, or the US Size guide BODY LENGTH (inches) BODY WIDTH (inches) S 27 ¾ 18 M 28 ¾ 20 L 29 ¾ 22 XL 30 ¾ 24 2XL 31 ¾ 26
-  Updated: 2026-03-18T19:16:45Z
+  Updated: 2026-04-02T10:42:00Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -15951,7 +15951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-v-neck-tee-dark-grey-heather-front-69ab83e6c8c66.jpg?v=1772849769
     Price: $40.08 USD
 - [ON BEACH TIME SWEATSHIRT](https://rusticroots01.com/products/unisex-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings. • 50% cotton, 50% polyester • Fabric weight: 8 oz/yd² (271 g/m²) • Yarn diameter: 20 singles • Soft fleece fabric inside and outside • Air-jet spun yarn for reduced piling • Regular fit • Metal zipper • Front pouch pockets • Unlined hood with color-matched drawcord • Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs • Safety Green: Compliant with ANSI/ISEA 107 • Blank products sourced from Honduras and El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.
-  Updated: 2026-03-18T19:16:45Z
+  Updated: 2026-04-02T10:42:03Z
   Vendor: RUSTIC ROOTS 
   Product Type: HOODIES AND SWEATSHIRTS
   Availability: Available
@@ -16029,14 +16029,14 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-heavy-blend-zip-hoodie-ash-back-69ab8e4bc23c0.jpg?v=1772850777
     Price: $66.28 USD
 - [CAT MOMDad hat](https://rusticroots01.com/products/cat-momdad-hat): Just like a dessert is always better with a cherry on top, a casual outfit looks better if you’re styling it with a classic dad hat. Choose your colors! • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:45Z
+  Updated: 2026-04-02T10:42:03Z
   Vendor: RUSTIC ROOTS 
   Product Type: EMBROIDERY
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-khaki-front-69abcebd473c1.jpg?v=1772867279
   Price: $35.00 USD
 - [FOREEVER GRATFUL Five Panel Cap](https://rusticroots01.com/products/foreever-gratful-five-panel-cap): This camper style cap has a low profile and nylon strap clip closure. Comfortable and classic! • 100% cotton • Soft-structured • Five panel • Low profile • Metal eyelets • Nylon strap clip closure
-  Updated: 2026-03-18T19:16:45Z
+  Updated: 2026-04-02T10:42:05Z
   Vendor: RUSTIC ROOTS 
   Product Type: EMBROIDERY
   Availability: Available
@@ -16062,7 +16062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/5-panel-cap-grey-front-69accbabf2668.jpg?v=1772932026
     Price: $35.00 USD
 - [GIRLS GET DIRTY TOO Women's Rash Guard](https://rusticroots01.com/products/girls-get-dirty-too-womens-rash-guard): Don't be afraid to be your most active self in this smooth and versatile long-sleeve rash guard! It protects you from the sun, wind, and other elements while doing sports, and the slim fit, flat ergonomic seams, and the longer body gives extra comfort.• 75% recycled polyester, 25% elastane for production in the US/Mexico• 82% polyester, 18% elastane for production in Latvia• Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico• Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia• Very soft four-way stretch fabric that stretches and recovers on the cross and lengthwise grains• Fitted design• Comfortable longer body and sleeves • Flat seam and cover stitch• Blank product components sourced from Mexico and ChinaDisclaimer: To make your rash guard last longer, thoroughly rinse it off after each use and get rid of any chlorine/salt residue. This product runs small and is quite fitted. For a more comfortable fit, we suggest choosing one size up. Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 34 ⅝ 26 ¾ 37 S 36 ¼ 28 ⅜ 38 ⅝ M 37 ¾ 29 ⅞ 40 ⅛ L 41 33 ⅛ 43 ¼ XL 44 ⅛ 36 ¼ 46 ½ 2XL 47 ¼ 39 ⅜ 49 ⅝ 3XL 50 ⅜ 42 ½ 52 ¾
-  Updated: 2026-03-18T20:07:01Z
+  Updated: 2026-04-02T10:42:05Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF ROAD SHIRT
   Availability: Available
@@ -16096,7 +16096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-rash-guard-white-front-69acd856479d7.jpg?v=1772935814
     Price: $58.63 USD
 - [LIFE IS BETTER MUDDY Women's athletic t-shirt](https://rusticroots01.com/products/life-is-better-muddy-womens-athletic-t-shirt): This t-shirt easily combines comfort and style—the sports mesh fabric with moisture management is sure to keep any athlete dry and comfortable during exercise, while the design will make it into a unique statement piece.• 92% polyester, 8% spandex (in the US)• 90% polyester, 10% elastane (in the EU)• Fabric weight: 4.42 oz/yd² (150 g/m²)• Very soft four-way stretch sports mesh fabric • Comfortable fit• Overlock and cover stitch• UPF 50+ protection• Blank product sourced from China Size guide CHEST (inches) XS 33 ⅛ S 34 ⅝ M 36 ¼ L 39 ⅜ XL 42 ½ 2XL 45 ⅝ 3XL 48 ⅞
-  Updated: 2026-03-18T19:16:46Z
+  Updated: 2026-04-02T10:42:06Z
   Vendor: RUSTIC ROOTS 
   Product Type: CUT-SEW
   Availability: Available
@@ -16130,7 +16130,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-athletic-t-shirt-white-front-69ace55ef22f8.jpg?v=1772939055
     Price: $56.10 USD
 - [LAKE LIFEUnisex Hoodie](https://rusticroots01.com/products/lake-lifeunisex-hoodie): This comfy unisex hoodie has a soft outside with a vibrant print and an even softer brushed fleece inside. The hoodie has a relaxed fit, and it’s perfect for wrapping yourself into on a chilly evening. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel fabric face • Brushed fleece fabric inside • Double-lined hood with design on both sides • Unisex style • Comes with drawstrings • Overlock seams • Blank product components in Mexico sourced from Poland and Mexico • Blank product components in the EU sourced from China and Poland Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:46Z
+  Updated: 2026-04-02T10:42:07Z
   Vendor: RUSTIC ROOTS 
   Product Type: CUT-SEW
   Availability: Available
@@ -16230,7 +16230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-sweatshirt-white-front-69b11f3922263.jpg?v=1773215580
     Price: $64.63 USD
 - [TRIED MOM CLUB Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/tried-mom-club-short-sleeve-unisex-t-shirt): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • All Heather colors are 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-03-18T19:16:47Z
+  Updated: 2026-04-02T10:42:08Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -16380,7 +16380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-heliconia-front-69b375d00eaeb.jpg?v=1773368812
     Price: $24.99 USD
 - [PROFESSIONAL OVERTHINKER Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/short-sleeve-unisex-t-shirt-1): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • All Heather colors are 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.
-  Updated: 2026-03-18T19:16:47Z
+  Updated: 2026-04-02T10:42:09Z
   Vendor: R & R APPAREL
   Product Type: UNISEX T-SHIRT
   Availability: Available
@@ -16410,7 +16410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-black-front-69b379d918413.jpg?v=1773371736
     Price: $24.99 USD
 - [MOM Women’s basic soft style t-shirt](https://rusticroots01.com/products/women-s-basic-softstyle-t-shirt): This semi-fitted tee skims the body and gives a flattering look without feeling tight. The soft, lightweight fabric makes it easy to wear on its own or layer under a jacket. • 100% ring-spun cotton • Ring Spun Sport Grey color is 90% ring-spun cotton, 10% polyester • Fabric weight: 4.5 oz./yd.² (153 g/m²) • Semi-fitted • Side-seamed construction • Narrow-width rib collar • Taped neck and shoulders • Blank product sourced from Honduras Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.Size guide LENGTH (inches) CHEST (inches) S 25 ½ 31-34 M 26 35-38 L 27 39-41 XL 28 42-45 2XL 28 ½ 46-48
-  Updated: 2026-03-18T19:16:47Z
+  Updated: 2026-04-02T10:42:09Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -16540,7 +16540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-basic-softstyle-t-shirt-azalea-front-69b381218b894.jpg?v=1773372216
     Price: $24.99 USD
 - [Women’s micro-rib tank top](https://rusticroots01.com/products/women-s-micro-rib-tank-top): Upgrade your basics with this micro-rib tank top. Crafted from soft Airlume cotton, it features thick straps and a mid-length cut. Pair it with jeans or layer it under a blazer for a chic look.• 52% Airlume combed and ring-spun cotton, 48% polyester• Athletic Heather colors are 90% Airlume combed and ring-spun cotton and 10% polyester• Fabric weight: 5.4 oz./yd.² (183 g/m²)• Yarn diameter: 32 singles• 1 × 1 micro rib• Pre-shrunk• Stretch fit• Mid-length• Thick straps• Scoop neck• Side-seamed construction• Blank product sourced from Nicaragua Size guide LENGTH (inches) CHEST (inches) XS 12 ¼ 29-31 S 12 ⅝ 32-33 M 13 34-35 L 13 ⅜ 35-37 XL 13 ¾ 38-39 2XL 14 ¼ 40-42
-  Updated: 2026-03-18T19:16:47Z
+  Updated: 2026-04-02T10:42:10Z
   Vendor: R & R APPAREL
   Product Type: TANK TOPS
   Availability: Available
@@ -16642,7 +16642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69b39bec8f9de.jpg?v=1773378804
     Price: $23.89 USD
 - [LETS GO GIRLS Women’s micro-rib tank top](https://rusticroots01.com/products/lets-go-girls-women-s-micro-rib-tank-top): Upgrade your basics with this micro-rib tank top. Crafted from soft Airlume cotton, it features thick straps and a mid-length cut. Pair it with jeans or layer it under a blazer for a chic look. • 52% Airlume combed and ring-spun cotton, 48% polyester • Athletic Heather colors are 90% Airlume combed and ring-spun cotton and 10% polyester • Fabric weight: 5.4 oz./yd.² (183 g/m²) • Yarn diameter: 32 singles • 1 × 1 micro rib • Pre-shrunk • Stretch fit • Mid-length • Thick straps • Scoop neck • Side-seamed construction • Blank product sourced from NicaraguaSize guide LENGTH (inches) CHEST (inches) XS 12 ¼ 29-31 S 12 ⅝ 32-33 M 13 34-35 L 13 ⅜ 35-37 XL 13 ¾ 38-39 2XL 14 ¼ 40-42
-  Updated: 2026-03-18T19:16:48Z
+  Updated: 2026-04-02T10:42:10Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -16720,7 +16720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-micro-rib-tank-top-solid-white-blend-front-69b3a50b18191.jpg?v=1773380892
     Price: $23.50 USD
 - [COW Women’s basic soft style t-shirt](https://rusticroots01.com/products/cow-women-s-basic-soft-style-t-shirt): This semi-fitted tee skims the body and gives a flattering look without feeling tight. The soft, lightweight fabric makes it easy to wear on its own or layer under a jacket. • 100% ring-spun cotton • Ring Spun Sport Grey color is 90% ring-spun cotton, 10% polyester • Fabric weight: 4.5 oz./yd.² (153 g/m²) • Semi-fitted • Side-seamed construction • Narrow-width rib collar • Taped neck and shoulders • Blank product sourced from Honduras Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.Size guide LENGTH (inches) CHEST (inches) S 25 ½ 31-34 M 26 35-38 L 27 39-41 XL 28 42-45 2XL 28 ½ 46-48
-  Updated: 2026-03-18T19:16:48Z
+  Updated: 2026-04-02T10:42:11Z
   Vendor: RUSTIC ROOTS 
   Product Type: T-SHIRT
   Availability: Available
@@ -16848,7 +16848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-ash-back-69b4be0c196f0.jpg?v=1773453510
     Price: $21.00 USD
 - [RIDING DIRTY HAT](https://rusticroots01.com/products/riding-dirty-dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshTYSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:48Z
+  Updated: 2026-04-02T10:42:11Z
   Vendor: R & R APPAREL
   Product Type: EMBROIDERY
   Availability: Available
@@ -16862,7 +16862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69b4dbfd59534.jpg?v=1773460493
     Price: $29.30 USD
 - [SITTING PRETTY  RIDIN DIRTY HAT](https://rusticroots01.com/products/sitting-pretty-ridin-dirty-hat): You’ll be head over heels with this timeless piece! The hat comes in various colors to match your style and sits on your head just like a crown, thanks to the adjustable strap. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-18T19:16:48Z
+  Updated: 2026-04-02T10:42:12Z
   Vendor: R & R APPAREL
   Product Type: EMBROIDERY
   Availability: Available
@@ -16876,7 +16876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-front-69b4e145bb649.jpg?v=1773461851
     Price: $28.00 USD
 - [RIVER VIBES Flat Bill Cap](https://rusticroots01.com/products/river-vibes-flat-bill-cap): The high-profile fit and a green undervisor make this cap a classic with an added pop of color. • 100% cotton twill • Structured • Five panel • High profile • Green undervisor • Sewn eyelets • Snapback closureSize guide A (inches) B (inches) C (inches) D (inches) One size 18 ⅞-23 ⅝ 4 ½ 2 ⅜ 7 ⅛
-  Updated: 2026-03-18T19:16:49Z
+  Updated: 2026-04-02T10:42:12Z
   Vendor: RUSTIC ROOTS 
   Product Type: EMBROIDERY
   Availability: Available
@@ -16890,7 +16890,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/flat-bill-cap-white-front-69b4e5721d81c.jpg?v=1773462914
     Price: $28.00 USD
 - [DIRTY MUD Unisex classic tee](https://rusticroots01.com/products/dirty-mud-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.
-  Updated: 2026-03-18T19:16:49Z
+  Updated: 2026-04-02T10:42:13Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -16920,7 +16920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-white-back-69b4e79b47a34.jpg?v=1773464248
     Price: $24.98 USD
 - [MUD Shorts](https://rusticroots01.com/products/mud-shorts): You can never go wrong with shorts that fit just right whatever you're doing. And if the going gets hard, the vibrant prints will give you that little energy boost you've been waiting for. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Made with a smooth and comfortable microfiber yarn • Overlock and coverstitch • Comfortable elastic waistband • Blank product components sourced from Mexico and ChinaSize guide WAIST (inches) HIPS (inches) XS 25 ¼ 35 ⅜ S 26 ¾ 37 M 28 ⅜ 38 ⅝ L 31 ½ 41 ¾ XL 34 ⅝ 44 ⅞ 2XL 37 ¾ 48 3XL 41 51 ⅛
-  Updated: 2026-03-18T19:16:49Z
+  Updated: 2026-04-02T10:42:13Z
   Vendor: R & R APPAREL
   Product Type: CUT-SEW
   Availability: Available
@@ -16954,7 +16954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-shorts-white-front-69b4f26d99412.jpg?v=1773466231
     Price: $32.00 USD
 - [RIVER LIFE   Unisex Athletic Long Shorts](https://rusticroots01.com/products/river-life-unisex-athletic-long-shorts): Sports outfits can be a lot of hassle, but with these long shorts there's no need for that. Just throw on a pair and go running, swimming, weight-lifting, or participate in any other activity that pops in your mind. These shorts won't let you down! • 91% recycled polyester, 9% spandex • Fabric weight: 5.13 oz. /yd. ² (174 g/m²) • Four-way stretch moisture-wicking microfiber fabric • Breathable and fast-drying material • UPF50+ protection • 6.3" (16 cm)inseam • Elastic waistband with a flat white drawstring • Mesh side pockets • No inner lining • Blank product components sourced from ChinaSize guide WAIST (inches) HIPS (inches) 2XS 28 ⅜ 35 ⅜ XS 29 ⅞ 37 S 31 ½ 38 ⅝ M 33 ⅛ 40 ⅛ L 36 ¼ 43 ¼ XL 39 ⅜ 46 ½ 2XL 42 ½ 49 ⅝ 3XL 45 ⅝ 52 ¾ 4XL 48 ⅞ 55 ⅞ 5XL 52 59 6XL 55 ⅛ 62 ¼
-  Updated: 2026-03-18T19:16:50Z
+  Updated: 2026-04-02T10:42:14Z
   Vendor: R & R APPAREL
   Product Type: CUT-SEW
   Availability: Available
@@ -17004,7 +17004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-athletic-long-shorts-white-front-69b4f80f6ae97.jpg?v=1773467710
     Price: $55.48 USD
 - [CAMPER TRAVEL Unisex classic tee](https://rusticroots01.com/products/camper-travel-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:50Z
+  Updated: 2026-04-02T10:42:14Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17106,7 +17106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-ash-back-69b62522054b8.jpg?v=1773545004
     Price: $28.00 USD
 - [EXPLORE   RVING Unisex classic tee](https://rusticroots01.com/products/explore-rving-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-18T19:16:50Z
+  Updated: 2026-04-02T10:42:15Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17136,7 +17136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-natural-back-69b655e3548cb.jpg?v=1773557381
     Price: $28.00 USD
 - [CAMPING GIRL Short-Sleeve Unisex T-Shirt](https://rusticroots01.com/products/camping-girl-short-sleeve-unisex-t-shirt): You've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton • Sport Grey is 90% ring-spun cotton, 10% polyester • All Heather colors are 65% polyester, 35% cotton • 4.5 oz/yd² (153 g/m²) • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the center • Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or Guatemala Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-03-18T19:16:51Z
+  Updated: 2026-04-02T10:42:15Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17166,7 +17166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-basic-softstyle-t-shirt-white-front-69b79a67b894e.jpg?v=1773640320
     Price: $19.00 USD
 - [HIKING Unisex classic tee](https://rusticroots01.com/products/unisex-classic-tee-2): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.
-  Updated: 2026-03-18T19:16:51Z
+  Updated: 2026-04-02T10:42:16Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17244,7 +17244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-ash-back-69b79d6dbbe5d.jpg?v=1773641862
     Price: $26.00 USD
 - [R & R APPARAL REST AND RELAXATION HAT](https://rusticroots01.com/products/r-r-apparal-rest-and-relaxation): You’ll be head over heels with this timeless piece! The hat comes in various colors to match your style and sits on your head just like a crown, thanks to the adjustable strap. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
-  Updated: 2026-03-20T03:14:11Z
+  Updated: 2026-04-02T10:42:17Z
   Vendor: R & R APPAREL
   Product Type: EMBROIDERY
   Availability: Available
@@ -17258,7 +17258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/classic-dad-hat-white-back-69ba0701b0bef.jpg?v=1773802221
     Price: $28.00 USD
 - [RUSTIC ROOTS SWAETSHIRT   Unisex zip hoodie](https://rusticroots01.com/products/rustic-root-sweatshirt-unisex-zip-hoodie): Meet the zip hoodie—a must-have for everyday wear. Crafted from 95% recycled polyester, it combines sustainability with style. Soft both inside and out, this unisex hoodie offers a relaxed fit with drop shoulders. Plus, it’s designed to last, keeping you cozy and fashionable for years to come. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight 9.08 oz./yd.² (308 g/m²) • Soft, cotton-feel fabric outside and brushed fleece inside • Unisex relaxed fit with drop shoulders • Double-lined hood • Moon patch on the inside of the back • Tear-away care label • Self-fabric collar and cuffs • Premium drawstrings and zipper with metal details • The recycled content of this product is  under GRS (Global Recycled Standard) • The fabric is OEKO-TEX 100 standard  • Blank product components sourced from China and the USA Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼
-  Updated: 2026-03-20T07:36:46Z
+  Updated: 2026-04-02T10:42:17Z
   Vendor: R & R APPAREL
   Product Type: CUT-SEW
   Availability: Available
@@ -17308,7 +17308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-recycled-unisex-zip-hoodie-white-left-front-69ba10a81f903.jpg?v=1773857024
     Price: $80.95 USD
 - [RUSTIC ROOTS TEE R & R APPAREL](https://rusticroots01.com/products/unirustic-roots-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-19T19:34:45Z
+  Updated: 2026-04-02T10:42:17Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17386,7 +17386,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sport-grey-back-69ba0c3d10836.jpg?v=1773804117
     Price: $28.00 USD
 - [R & R RUSTIC ROOTS Clear Case for iPhone®](https://rusticroots01.com/products/clear-case-for-iphone®): This sleek iPhone® case protects your phone from scratches, dust, oil, and dirt. It has a solid back and flexible sides that make it easy to take on and off, with precisely aligned port openings. • Solid polycarbonate back • Flexible, see-through polyurethane sides • .5 mm raised bezel • Precisely aligned port openings • Easy to take on and off • Wireless charging compatible • The SE case fits the 2020 iPhone® SE model • Blank product sourced from China or South Korea Disclaimer: The case may include a protective film on the inside that needs to be removed before use. Important: The iPhone 15 and iPhone 16 series can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different iPhone model.
-  Updated: 2026-03-20T18:12:31Z
+  Updated: 2026-04-02T10:42:19Z
   Vendor: R & R APPAREL
   Product Type: PHONE-CASE
   Availability: Available
@@ -17512,7 +17512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/clear-case-for-iphone-iphone-xr-case-on-phone-69ba3152a4756.jpg?v=1773810022
     Price: $15.50 USD
 - [MOUTAINS OVER RIVER Unisex classic tee](https://rusticroots01.com/products/moutains-over-river-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-22T01:36:00Z
+  Updated: 2026-04-02T10:42:21Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17662,7 +17662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-sand-back-69bce45067e3a.jpg?v=1773987086
     Price: $34.24 USD
 - [RV BEACH LIFE Unisex Athletic Long Shorts](https://rusticroots01.com/products/beach-life-unisex-athletic-long-shorts): Sports outfits can be a lot of hassle, but with these long shorts there's no need for that. Just throw on a pair and go running, swimming, weight-lifting, or participate in any other activity that pops in your mind. These shorts won't let you down! • 91% recycled polyester, 9% spandex • Fabric weight: 5.13 oz. /yd. ² (174 g/m²) • Four-way stretch moisture-wicking microfiber fabric • Breathable and fast-drying material • UPF50+ protection • 6.3" (16 cm)inseam • Elastic waistband with a flat white drawstring • Mesh side pockets • No inner lining • Blank product components sourced from ChinaSize guide WAIST (inches) HIPS (inches) 2XS 28 ⅜ 35 ⅜ XS 29 ⅞ 37 S 31 ½ 38 ⅝ M 33 ⅛ 40 ⅛ L 36 ¼ 43 ¼ XL 39 ⅜ 46 ½ 2XL 42 ½ 49 ⅝ 3XL 45 ⅝ 52 ¾ 4XL 48 ⅞ 55 ⅞ 5XL 52 59 6XL 55 ⅛ 62 ¼
-  Updated: 2026-03-22T01:21:44Z
+  Updated: 2026-04-02T10:42:21Z
   Vendor: R & R APPAREL
   Product Type: CUT-SEW
   Availability: Available
@@ -17712,7 +17712,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-unisex-athletic-long-shorts-white-front-69bced366b8da.jpg?v=1773989468
     Price: $60.48 USD
 - [RV ROLLING Unisex t-shirt](https://rusticroots01.com/products/rv-rolling-unisex-t-shirt): Everyone needs the perfect t-shirt to complement an everyday, laid-back look. The ideal top for so many occasions, this lightweight cotton tee will keep you comfy and looking smart. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the USSize guide LENGTH (inches) WIDTH (inches) CHEST (inches) S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57
-  Updated: 2026-03-21T01:49:15Z
+  Updated: 2026-04-02T10:42:22Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17878,7 +17878,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-staple-t-shirt-heather-yellow-gold-front-69bcf2ac325f5.jpg?v=1773990603
     Price: $28.00 USD
 - [ORANGE CAMPER DAYS Unisex classic tee](https://rusticroots01.com/products/orange-camper-days-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-24T01:07:23Z
+  Updated: 2026-04-02T10:42:23Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -17908,7 +17908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-white-front-69bf75af5280c.jpg?v=1774155207
     Price: $26.00 USD
 - [RVING IS MY REAL JOB Unisex classic tee](https://rusticroots01.com/products/rving-is-my-real-job-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-25T00:54:00Z
+  Updated: 2026-04-02T10:42:23Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -18064,7 +18064,7 @@
     Availability: Available
     Price: $28.00 USD
 - [HAPPY CAMPER Unisex classic tee](https://rusticroots01.com/products/camper-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-03-25T02:26:13Z
+  Updated: 2026-04-02T10:42:24Z
   Vendor: R & R APPAREL
   Product Type: T-SHIRT
   Availability: Available
@@ -18190,7 +18190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-natural-back-69c221fde5663.jpg?v=1774330525
     Price: $28.00 USD
 - [RUSTIC ROOTS Unisex Hoodie](https://rusticroots01.com/products/rustic-roots-unisex-hoodie): Don’t you just love sweatshirt weather? We do too. Layer up year round in this cozy, casual style. With a front pocket and snug hood, it doesn’t get much better than this. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from PakistanSize guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32
-  Updated: 2026-03-25T15:13:58Z
+  Updated: 2026-04-02T10:42:25Z
   Vendor: R & R APPAREL
   Product Type: UNISEX T-SWEATSHIRT
   Availability: Available
@@ -18224,35 +18224,38 @@
 ## Collections
 
 - [R & R APPAREL CATALOG](https://rusticroots01.com/collections/frontpage): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-03-26T02:10:34Z
-  Total Products: 228
+  Updated: 2026-04-02T10:39:31Z
+  Total Products: 238
 - [OFF GRID COLLECTION](https://rusticroots01.com/collections/off-grid): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-03-18T19:15:46Z
+  Updated: 2026-04-02T10:39:32Z
   Total Products: 43
 - [Showcase Products](https://rusticroots01.com/collections/rv-life): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-03-25T21:11:59Z
-  Total Products: 54
+  Updated: 2026-04-02T10:39:32Z
+  Total Products: 47
 - [OFF RD & RV](https://rusticroots01.com/collections/off-grid-1): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-03-25T21:11:59Z
-  Total Products: 35
+  Updated: 2026-04-02T10:39:32Z
+  Total Products: 58
 - [HATS](https://rusticroots01.com/collections/hats): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-03-24T11:27:02Z
-  Total Products: 43
+  Updated: 2026-04-02T10:39:32Z
+  Total Products: 45
 - [PHONE CASES   IPHONE AND SAMSUNG](https://rusticroots01.com/collections/phone-case-iphone-and-samsung): RUSTIC ROOTS R & R APPAREL WE CARRY IPHONE AND SAMSUNG
-  Updated: 2026-03-19T04:01:15Z
-  Total Products: 30
+  Updated: 2026-04-02T10:39:32Z
+  Total Products: 32
 - [SHOES AND SANDLES](https://rusticroots01.com/collections/shoes-and-sandles): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-03-18T19:15:46Z
+  Updated: 2026-04-02T10:39:33Z
   Total Products: 11
 - [CHRISTIAN   COLLECTION](https://rusticroots01.com/collections/religious-shirts-and-sweatshirts): RUSTIC ROOTS R & R APPAREL CHRISTAN COLLECTION
-  Updated: 2026-03-26T04:58:14Z
-  Total Products: 36
+  Updated: 2026-04-02T10:39:33Z
+  Total Products: 38
 - [BACKPACKS & BAGS](https://rusticroots01.com/collections/backpacks): RUSTIC ROOTS R & R APPAREL WE CARRY VARITY OF BACK PACKS
-  Updated: 2026-03-26T05:33:14Z
+  Updated: 2026-04-02T10:39:33Z
   Total Products: 11
-- [Embroidery-Patches   COLLECTION](https://rusticroots01.com/collections/embroided-patches-collection): I DESIGN MY Embroidery PATCHES ----Yes, the embroidered patches from Rustic Roots come with an iron-on backing, making them ready to be attached using an iron. You can follow the steps provided below to apply them securely. Embroidered patches can be attached using iron-on backing. Here are the steps to apply them: Choose a fabric that is at least as heavy as the patch, like denim or cotton. Lay your item on a flat, heat-resistant surface. Heat up the iron to the hottest setting your fabric can tolerate, ensuring the "steam" option is turned off. Iron the area where you plan to place the patch. Place a thin garment over the patch. Position the heated iron over the garment and press down firmly for about 25 seconds on each side. Remove the iron and allow the patch to cool. Check if the patch is securely fixed by gently rubbing the edge. If it lifts, repeat the process. For extra security, you can sew the patch onto the fabric. Full adhesiveness will be achieved in 48 hours. Avoid washing the item more than necessary, and if needed, hand wash using cold water and air dry.
-  Updated: 2026-03-26T02:10:34Z
-  Total Products: 13
+- [Embroidery-Patches   COLLECTION](https://rusticroots01.com/collections/embroided-patches-collection): I DESIGN MY Embroidery PATCHES ----Yes, the embroidered patches from Rustic Roots come with an iron-on backing, making them ready to be attached using an iron. You can follow the steps provided below to apply them securely.
+  Updated: 2026-04-02T10:39:33Z
+  Total Products: 15
+- [PET  RV  COLLECTION ITEMS](https://rusticroots01.com/collections/dog-clothes-collection): DOG SHIRTS AND HOODLES PET BOWLS MISC
+  Updated: 2026-04-02T10:39:33Z
+  Total Products: 2
 
 ## Blogs
 
