@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuching
 - Created At: 2025-12-14T08:22:05Z
 - Contact Email: ryontech3@gmail.com
-- Updated At: 2026-03-26T01:27:45.919Z
+- Updated At: 2026-04-03T00:00:22.872Z
 
 ## Products
 
@@ -1935,7 +1935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/2360/0859/files/WfrklEAMcJjScdBt.webp?v=1769917398
     Price: RM 77.07 MYR
 - [Kids Smart Watch Gift for Boys Ages 3-12 IP67 Waterproof 32 Puzzle Games HD Touchscreen Dual Camera Video Pedometer Music Player Kids Watch Toy Birthday Gifts for Boys Ages 5 6 7 8 9 10 (Blue)](https://ryon-tech.store/products/kids-smart-watch-gift-for-boys-ages-3-12-ip67-waterproof-32-puzzle-games-hd-touchscreen-dual-camera-video-pedometer-music-player-kids-watch-toy-birthday-gifts-for-boys-ages-5-6-7-8-9-10-blue): [【Multi-Functional Smart Watch for Kids】: Kids smart watch with 32 puzzle games HD dual camera video music player voice recorder pedometer alarm stopwatch theme calculator calendar flashlight audiobooks learn card habit tracker parental control etc. The kids watch offers a wide range of activities to bring children new experiences and enjoyment. "【Upgrade: IP67 Waterproof & Games】: The kids smart watch features an encrypted and waterproof design. Dont worry about it getting wet during any activities like washing hands swimming or taking a shower. The kids watch is upgraded with more suitable games for kids 4-12 which helping exercise logical thinking reaction and hand-eye coordination. It also has parental control and habit tracking to manage childrens playtime and help them develop good living habits." 【HD Dual Camera & Video】: Allows taking photos and videos with HD pixels to capture every wonderful moment in their life. Built-in 10 interesting stickers kids can take some funny photos or videos adding more fun and creativity to their playtime and stimulating their interest in photography. "【Powerful Battery & Service Life】: Without frequent recharging the rechargeable battery will last about 7 days for one full charge allowing kids to enjoy uninterrupted use. Designed with a durable aluminum frame and coming with 2 screen protectors. Dont worry daily bumps that will damage the watch." 【Ideal Gift for Kids】: Features a large 1.54" IPS touch screen making it easy for small hands to operate. Comes with a lanyard that can be worn around the neck ensuring that the smartwatch is with the child at any time without worrying about losing it. The watch provides educational value and entertainment for children. Perfect birthday Christmas festival and holiday gifts for little one ages 6~10.]
-  Updated: 2026-03-26T01:06:39Z
+  Updated: 2026-03-30T08:12:16Z
   Vendor: Ry-On Tech
   Product Type: 
   Availability: Available
