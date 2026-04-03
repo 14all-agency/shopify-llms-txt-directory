@@ -5,47 +5,54 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-08-07T21:04:50Z
-- Updated At: 2026-03-25T00:00:43.863Z
+- Updated At: 2026-04-03T00:00:42.907Z
 
 ## Products
 
 - [NKE Single Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/nke-single-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Transform your car with the NKE Single Exhaust Flamer Kit. Easy installation, universal fit for petrol cars. Premium flame thrower kit with On/Off Switch. £160.
-  Updated: 2026-03-22T19:42:06Z
+  Updated: 2026-04-02T23:28:56Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/277D0239-6A62-429D-AC41-3DC98AAC5DD0.jpg?v=1771457051
   Price: £160.00 GBP
+- [NKE Dual Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/nke-dual-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Upgrade to dual flames with the NKE Dual Exhaust Flamer Kit. Professional installation, universal compatibility. Premium dual flame thrower system. £310.
+  Updated: 2026-04-02T20:17:26Z
+  Vendor: NKE Performance
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/4774100D-4F66-4149-8FBD-733E68A76E3D.jpg?v=1771457051
+  Price: £310.00 GBP
 - [NKE Quad Exhaust Flamer Kit - Ultimate Flame Thrower System for Petrol Cars UK](https://nke-performance.com/products/nke-quad-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Maximum impact with the NKE Quad Exhaust Flamer Kit. Four-flame system, universal fit for petrol cars. Ultimate flame thrower experience. £610.
-  Updated: 2026-02-24T04:47:44Z
+  Updated: 2026-04-02T20:17:11Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/AD7DDCCC-972B-4392-B9DD-F12F82379913.jpg?v=1771457051
   Price: £610.00 GBP
 - [Seat Leon Flamer Kit - Dual Exhaust Mk2 | NKE Performance](https://nke-performance.com/products/seat-leon-flamer-kit-dual): Premium dual exhaust flamer kit for Seat Leon Mk2. Professional-grade components with easy installation. Add impressive flame effects to your Seat Leon.
-  Updated: 2026-02-24T04:47:48Z
+  Updated: 2026-04-02T20:17:01Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/3F40A681-CD28-46B0-BAFE-AE534D0996D9.jpg?v=1771457051
   Price: £310.00 GBP
 - [Lexus Flamer Kit - Universal Performance Exhaust | NKE Performance](https://nke-performance.com/products/lexus-flamer-kit-universal): Premium exhaust flamer kit for Lexus models. Universal fit for IS, GS, RC, LC series. Professional-grade quality to match your Lexus performance.
-  Updated: 2026-03-24T13:18:31Z
+  Updated: 2026-04-02T20:16:50Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/E385275D-C36E-4E04-8BB7-9E4CBB4C8BFA.jpg?v=1771457051
   Price: £160.00 GBP
 - [Mercedes AMG Flamer Kit - Performance Exhaust | NKE Performance](https://nke-performance.com/products/mercedes-amg-flamer-kit): Premium exhaust flamer kit for Mercedes-AMG models. Track-tested performance with aggressive flame effects. Professional-grade quality for AMG vehicles.
-  Updated: 2026-02-24T04:47:14Z
+  Updated: 2026-04-02T20:16:32Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/84A58C4D-8C35-4C40-BD85-E5B23E4B8ED2.jpg?v=1771458236
   Price: £610.00 GBP
 - [Corsa VXR Flamer Kit - Dual Exhaust System | NKE Performance](https://nke-performance.com/products/corsa-vxr-flamer-kit-dual): Dual exhaust flamer kit designed for Vauxhall Corsa VXR. Perfect fit with high-quality components. Add dramatic flame effects to your VXR hot hatch.
-  Updated: 2026-02-24T04:46:54Z
+  Updated: 2026-04-02T20:16:21Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
@@ -72,20 +79,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_7790452d-0779-4cff-b3a5-3a46a4ffa642.jpg?v=1771502649
   Price: £25.00 GBP
-- [2015 FORD TRANSIT CONNECT 1.5 TURBO DIESEL MK2 FRONT BONNET WHITE](https://nke-performance.com/products/2015-ford-transit-connect-1-5-turbo-diesel-mk2-front-bonnet-white): 2015 FORD TRANSIT CONNECT 1.5 TURBO DIESEL MK2 FRONT BONNET WHITEIn very good conditionSmall stone dent as shown in pictureComplete van being stripped for partsPlease message us for info on any other parts you require and we can list them on eBay for you to purchase
-  Updated: 2026-02-20T01:16:59Z
-  Vendor: FORD
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_65695d67-9009-4a00-924c-5cadb7cccba0.jpg?v=1771502658
-  Price: £150.00 GBP
-- [2015 FORD TRANSIT CONNECT MK2 NS LEFT PASSENGERS FRONT SEATS TWIN DOUBLE SEATS](https://nke-performance.com/products/2015-ford-transit-connect-mk2-ns-left-passengers-front-seats-twin-double-seats): In very good condition and full working orderComplete Transit Connect being stripped for partsPlease drop us a message for info on any other parts you require and we can list them on EBay for you to buyThanks
-  Updated: 2026-02-20T01:15:19Z
-  Vendor: FORD
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_9dfcc28e-699f-4d4a-b3d7-9f6c86495c02.jpg?v=1771502671
-  Price: £120.00 GBP
 - [20mm ENGINE SPACERS FOR 1.8T & 1.9TDI AUDI A3  VW GOLF  SKODA OCTAVIA  SEAT LEON](https://nke-performance.com/products/20mm-engine-spacers-for-1-8t-1-9tdi-audi-a3-vw-golf-skoda-octavia-seat-leon): The engine spacers are 20mm and made from aluminium (please note holes are off set will only fit one way). These engine spacers are used to raise your sump on a lowered to get the drive shafts at a better angle and also by raising the engine slightly you will have less chance of damaging your sump on speed bumps etc.This kit comes complete with 2 precision machined engine spacersModels Covered- Audi A3- VW Golf MK4- Seat LeonFor 1.8T & 1.9TDI Engines with these Engine CodesAGN AGP AGR AGU AHF AHWAJM AKQ ALH AMK APE APKAPX AQM AQY ARL ARZ ASVASZ ATD AUA AUM AUQ AUYAWP AWW AXP AXR BAM BCA
   Updated: 2026-02-20T01:06:50Z
   Vendor: Creation Motorsport
@@ -212,13 +205,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_62fe2bc7-0e02-40c9-972a-85a280e90855.jpg?v=1771502779
   Price: £130.00 GBP
-- [FORD TRANSIT CONNECT 2013-2024 MK2 V408 Load Partition / Bulkhead Black](https://nke-performance.com/products/ford-transit-connect-2013-2024-mk2-v408-load-partition-bulkhead-black): FORD TRANSIT CONNECT 2013-2024 MK2 V408 Load Partition / Bulkhead BlackIn very good conditionComplete van being stripped for parts
-  Updated: 2026-02-20T01:10:49Z
-  Vendor: Ford
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_ea44dc25-a951-40d7-9657-42638e28f2dd.jpg?v=1771502782
-  Price: £99.99 GBP
 - [FORD TRANSIT CONNECT MK2 2013-2017 DASHBOARD LOOM SECTION USB DV6T-15K857-CD](https://nke-performance.com/products/ford-transit-connect-mk2-2013-2017-dashboard-loom-section-usb-dv6t-15k857-cd): FORD TRANSIT CONNECT MK2 2013-2017 DASHBOARD LOOM SECTION USB DV6T-15K857-CDIn perfect working conditionComplete van being stripped for partsPlease contact us for info on any other parts you require and we can list them on eBay for you to purchaseThanks
   Updated: 2026-02-20T00:42:46Z
   Vendor: FORD
@@ -268,13 +254,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_0417b3b5-4adb-43c8-bd5d-59562c4428d5.jpg?v=1771502820
   Price: £9.99 GBP
-- [LAND ROVER RANGE ROVER L322 BMW X5 M57D30 ENGINE 3.0 DIESEL COMPLETE 2002-2007](https://nke-performance.com/products/land-rover-range-rover-l322-bmw-x5-m57d30-engine-3-0-diesel-complete-2002-2007): LAND ROVER RANGE ROVER L322 BMW X5 M57D30 ENGINE 3.0 DIESEL COMPLETE 2002-2007In perfect working condition‘Turbo is not included with this ’Please see pictures of the engine to see exactly what comes with itComplete Range Rover being stripped for partsPlease drop us a message if there’s any other parts you require and we will list them on Ebay for you to purchase Thanks
-  Updated: 2026-02-22T09:02:48Z
-  Vendor: Range Rover
-  Product Type: Engine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_de0bfea0-5c4f-432d-a066-08349ae6b62e.jpg?v=1771502831
-  Price: £300.00 GBP
 - [Intake Manifold Control Solenoid Valve 037906283C for Audi Seat Skoda VW Golf](https://nke-performance.com/products/intake-manifold-control-solenoid-valve-037906283c-for-audi-seat-skoda-vw-golf): Intake Manifold Control Solenoid Valve 037906283C for Audi Seat Skoda VW GolfIn perfect working conditionWe are a VW/AUDI Breakers. Please message us for info on any other parts you require and we will list them on eBay for you to purchase
   Updated: 2026-02-22T09:01:56Z
   Vendor: Unbranded
@@ -352,13 +331,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_59bb23bb-a64e-4f19-af78-de15776a016d.jpg?v=1771502901
   Price: £60.00 GBP
-- [VOLKSWAGEN GOLF BONNET MK5 2004-2008 FRONT HOOD LC9Z BLACK](https://nke-performance.com/products/volkswagen-golf-bonnet-mk5-2004-2008-front-hood-lc9z-black): VOLKSWAGEN GOLF BONNET MK5 2004-2008 FRONT HOOD LC9Z BLACKIn very good conditionFew scratches as show in pics but no rust dents or bendsWe are a VW/AUDI Breakers. Please message us for info on any other parts you require and we will list them on eBay for you to purchase
-  Updated: 2026-02-22T08:45:05Z
-  Vendor: VW
-  Product Type: Bonnet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_693e6e5a-c209-4284-a010-efc024d583ca.jpg?v=1771502902
-  Price: £60.00 GBP
 - [Volkswagen Golf MK5 + R32 2003-2009 Drivers Side Storage Cubby Tray 1K2857919D](https://nke-performance.com/products/volkswagen-golf-mk5-r32-2003-2009-drivers-side-storage-cubby-tray-1k2857919d): Volkswagen Golf MK5 + R32 2003-2009 Drivers Side Storage Cubby Tray 1K2857919DIn perfect working conditionLoads in stockWe are a VW/AUDI Breakers. Please message us for info on any other parts you require and we will list them on eBay for you to purchase
   Updated: 2026-02-22T08:43:52Z
   Vendor: Volkswagen
@@ -387,46 +359,53 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_db00ea7b-dbd8-441f-a6d4-fe548945b7ef.jpg?v=1772150426
   Price: £180.00 GBP
-- [LAND ROVER RANGE ROVER L322 BMW X5 M57D30 ENGINE 3.0 DIESEL COMPLETE 2002-2007](https://nke-performance.com/products/land-rover-range-rover-l322-bmw-x5-m57d30-engine-3-0-diesel-complete-2002-2008): LAND ROVER RANGE ROVER L322 BMW X5 M57D30 ENGINE 3.0 DIESEL COMPLETE 2002-2007In perfect working condition‘Turbo is not included with this ’Please see pictures of the engine to see exactly what comes with itComplete Range Rover being stripped for partsPlease drop us a message if there’s any other parts you require and we will list them on Ebay for you to purchase Thanks
-  Updated: 2026-02-28T00:48:22Z
-  Vendor: Range Rover
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_3c261c36-ada3-4e9c-9ff2-dbd82fa94dce.jpg?v=1772150430
-  Price: £499.00 GBP
 - [NKE Dual Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/v2-nke-dual-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars-copy): Upgrade to dual flames with the NKE Dual Exhaust Flamer Kit. Professional installation, universal compatibility. Premium dual flame thrower system. £310.
-  Updated: 2026-03-22T00:54:29Z
+  Updated: 2026-04-02T20:16:07Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/4774100D-4F66-4149-8FBD-733E68A76E3D.jpg?v=1771457051
   Price: £270.00 GBP
+- [Vauxhall Corsa D VXR Throttle Body Hose White](https://nke-performance.com/products/vauxhall-corsa-d-vxr-throttle-body-hose-white): Vauxhall Corsa D VXR Throttle Body Hose WhiteIn perfect working condition Thousands of VXR’s and Parts in stockNew and UsedStandard and ModifiedDrop us a message if you have a VXR to  as we buy the dailyRunner or Non RunnerDrop us a message for any parts you require and we will list them on eBay for you to purchase ThanksNKE Performance
+  Updated: 2026-03-31T17:26:58Z
+  Vendor: JS Performance
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_dddb72d4-7a5e-44a3-a466-6efe354ce3d7.jpg?v=1774934814
+  Price: £45.00 GBP
+- [Vauxhall Corsa D VXR Bootlid Complete With Spoiler Black](https://nke-performance.com/products/vauxhall-corsa-d-vxr-bootlid-complete-with-spoiler-black): Vauxhall Corsa D VXR Bootlid Complete With Spoiler BlackIn very good condition2 small dents but will probably pop outThousands of VXR’s and Parts in stockNew and UsedStandard and ModifiedDrop us a message if you have a VXR to  as we buy the dailyRunner or Non RunnerDrop us a message for any parts you require and we will list them on eBay for you to purchase ThanksNKE Performance
+  Updated: 2026-03-31T17:27:20Z
+  Vendor: Corsa
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_cc16cc08-7dfa-47c5-b0a0-9e6efd53ddd1.jpg?v=1774934836
+  Price: £120.00 GBP
 
 ## Collections
 
 - [Home page](https://nke-performance.com/collections/frontpage)
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 - [Vauxhall Astra VXR Flamer Kits](https://nke-performance.com/collections/vauxhall-flamer-kits): Premium flamer kits for Vauxhall VXR models. Our UK engineered performance exhaust flamer kits create stunning flames for Corsa VXR and Astra VXR.Available in single and dual flamer configurations from NKE Performance.
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 - [Ford Flamer Kits](https://nke-performance.com/collections/ford-flamer-kits-1): Premium flamer kits designed specifically for Ford vehicles. Our UK engineered performance exhaust flamer kits deliver spectacular flames for Focus RS, Focus ST, Fiesta ST, and Sierra models. Transform your Ford with NKE Performance quality and engineering.
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 - [Nissan Flamer Kits](https://nke-performance.com/collections/nissan-flamer-kits): Premium quad flamer kits designed for the legendary Nissan GTR R35. Our UK engineered performance exhaust flamer kits deliver spectacular four-flame effects that match the power and prestige of your GTR. NKE Performance quality engineering.
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 - [Mazda Flamer Kits](https://nke-performance.com/collections/mazda-flamer-kits): Premium dual flamer kits designed for the iconic Mazda RX8 rotary engine. Our UK engineered performance exhaust flamer kits create stunning flame effects that complement the unique character of your rotary-powered RX8. NKE Performance engineering excellence.
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 - [BMW](https://nke-performance.com/collections/bmw)
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 - [Subaru Impreza Flamer Kits](https://nke-performance.com/collections/subaru-impreza-flamer-kits)
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 - [Corsa VXR Flamer Kits](https://nke-performance.com/collections/corsa-vxr-flamer-kits)
-  Updated: 2026-03-23T11:42:09Z
+  Updated: 2026-04-01T11:43:12Z
   Total Products: 4
 
 ## Blogs
