@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-03-14T05:07:15Z
 - Contact Email: kalcrzrz@gmail.com
-- Updated At: 2026-03-24T00:00:21.969Z
+- Updated At: 2026-04-03T00:00:33.974Z
 
 ## Products
 
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0827/2737/0992/files/philodendron-bip-aurea-4-inch-houseplant-139.jpg?v=1773699917
   Price: $21.99 USD
 - [Pink Christmas Cactus 4-inch | Riverside Greenhouses](https://riversidegreenhousesllc.com/products/pink-christmas-cactus-4-inch): The Pink Christmas Cactus features vibrant pink blossoms and lush green foliage, making it a popular choice for holiday decor. Easy to care for, it adds a touch of color to any indoor space.
-  Updated: 2026-03-18T10:58:50Z
+  Updated: 2026-04-01T23:33:55Z
   Vendor: Riverside Greenhouses
   Product Type: Houseplant
   Availability: Available
@@ -509,6 +509,18 @@
     Author: User
   - [The Ultimate Care Guide For Plants A Journey For Beginners](https://riversidegreenhousesllc.com/blogs/plant-care/the-ultimate-care-guide-for-plants-a-journey-for-beginners): The Ultimate Care Guide For Plants A Journey For Beginners
     Updated: 2026-03-23T01:32:16Z
+    Author: User
+  - [A Comprehensive Plants Care Checklist For Busy Plant Lovers](https://riversidegreenhousesllc.com/blogs/plant-care/a-comprehensive-plants-care-checklist-for-busy-plant-lovers): A Comprehensive Plants Care Checklist For Busy Plant Lovers
+    Updated: 2026-03-25T01:28:55Z
+    Author: User
+  - [An Educational Dive Into The History Of Plant Care Techniques](https://riversidegreenhousesllc.com/blogs/plant-care/an-educational-dive-into-the-history-of-plant-care-techniques): An Educational Dive Into The History Of Plant Care Techniques
+    Updated: 2026-03-27T01:27:30Z
+    Author: User
+  - [Trendy Plant Care Hacks Everyone Should Know](https://riversidegreenhousesllc.com/blogs/plant-care/trendy-plant-care-hacks-everyone-should-know): Trendy Plant Care Hacks Everyone Should Know
+    Updated: 2026-03-30T01:24:22Z
+    Author: User
+  - [Explaining The Science Behind Successful Plants Care](https://riversidegreenhousesllc.com/blogs/plant-care/explaining-the-science-behind-successful-plants-care): Explaining The Science Behind Successful Plants Care
+    Updated: 2026-04-01T01:25:15Z
     Author: User
 
 ## Store Pages
