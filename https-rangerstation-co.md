@@ -12,40 +12,33 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
 - Created At: 2016-02-18T18:18:57Z
 - Contact Email: hello@rangerstation.co
 - Address: 316 Bleecker St. New York, NY 10014
-- Updated At: 2026-03-27T14:30:12.235Z
+- Updated At: 2026-04-04T00:00:23.549Z
 
 ## Products
 
 - [Tobac + Musk Candle - Ranger Station](https://rangerstation.co/products/tobac-musk-candle): The most interesting scent in the world. Tobac + Musk smells like sweet pipe tobacco, blue musk, clove and amber. Imagine smoking a great cigar seated in a leather chair, enjoying an enriching conversation with a close friend, all in a dark, hardwood-covered lounge room; that's what we’ve bottled here.
-  Updated: 2026-03-27T04:22:57Z
+  Updated: 2026-04-03T23:48:24Z
   Vendor: sweet pipe tobacco / blue musk / clove / amber
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Tobacco_MuskCandleSolo.jpg?v=1731095565
   Price: $39.00 USD
 - [Oakmoss Candle - Ranger Station](https://rangerstation.co/products/oakmoss-candle): A fragrance inspired by the most peculiar of places, Oakmoss smells like moss, cedarwood, amber and bergamot. Laid with a base of warm wood, it’s tied together with a touch of lavender to accentuate a brighter, botanical quality.
-  Updated: 2026-03-26T17:15:10Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: moss / cedarwood / amber / bergamot
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-OakmossCandleSolo.jpg?v=1731095666
   Price: $39.00 USD
 - [Santalum Candle - Ranger Station](https://rangerstation.co/products/santalum-candle): A modern classic with a cult following, Santalum smells like: sandalwood, amber resin, iris and leather. It’s our character statement: a scent that stands on its own with some of the most hyped and exclusive fragrances on the market, but without the markup.
-  Updated: 2026-03-27T13:20:52Z
+  Updated: 2026-04-03T23:52:42Z
   Vendor: sandalwood / amber resin / iris / leather
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-SantalumCandleSolo.jpg?v=1731095672
   Price: $39.00 USD
-- [Birch Bark Candle - Ranger Station](https://rangerstation.co/products/birch-bark-candle): A flick of the match as you light the fire underneath an expertly-set stack of fresh firewood: Birch Bark smells like birch tar, charred cedar, sandalwood and pine needles. Pure, unadulterated wood + smoke - grab a drink, kick back, and watch those flames dance.
-  Updated: 2026-03-27T05:08:27Z
-  Vendor: birch tar / charred cedar / sandalwood / pine needles
-  Product Type: Candle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Birch_Bark_Candle_Solo.jpg?v=1736505832
-  Price: $39.00 USD
 - [Santalum Perfume - Ranger Station](https://rangerstation.co/products/santalum-perfume): A modern classic with a cult following, Santalum smells like: sandalwood, amber resin, iris and leather. It’s our character statement: a scent that stands on its own with some of the most hyped and exclusive fragrances on the market, but without the markup.
-  Updated: 2026-03-27T04:26:59Z
+  Updated: 2026-04-03T22:51:21Z
   Vendor: sandalwood / amber resin / iris / leather
   Product Type: Perfume
   Availability: Available
@@ -57,7 +50,7 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [Leather + Pine Perfume - Ranger Station](https://rangerstation.co/products/leather-pine-perfume): Inspired by coming of age in the Minnesota north woods, Leather + Pine smells like tanned leather, pine sap, amber and sandalwood. This is the candle that started it all and is still one of our all-time best sellers: a pioneering blend of sticky, sweet, and savory notes.
-  Updated: 2026-03-27T13:27:38Z
+  Updated: 2026-04-03T22:51:21Z
   Vendor: tanned leather / pine sap / amber / sandalwood
   Product Type: Perfume
   Availability: Available
@@ -69,7 +62,7 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [Oakmoss Perfume - Ranger Station](https://rangerstation.co/products/oakmoss-perfume): A fragrance inspired by the most peculiar of places, Oakmoss smells like moss, cedarwood, amber and bergamot. Laid with a base of warm wood, it's tied together with a touch of lavender to accentuate a brighter, botanical quality.
-  Updated: 2026-03-27T04:26:59Z
+  Updated: 2026-04-03T21:53:10Z
   Vendor: moss / cedarwood / amber / bergamot
   Product Type: Perfume
   Availability: Available
@@ -81,7 +74,7 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [Tobac + Musk Perfume - Ranger Station](https://rangerstation.co/products/tobac-musk-perfume): The most interesting scent in the world. Tobac + Musk smells like sweet pipe tobacco, blue musk, clove and amber. Imagine smoking a great cigar seated in a leather chair, enjoying an enriching conversation with a close friend, all in a dark, hardwood-covered lounge room; that's what we’ve bottled here.
-  Updated: 2026-03-27T14:26:43Z
+  Updated: 2026-04-03T22:53:38Z
   Vendor: sweet pipe tobacco / blue musk / clove / amber
   Product Type: Perfume
   Availability: Available
@@ -93,14 +86,14 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [Leather + Pine Reed Diffuser - Ranger Station](https://rangerstation.co/products/leather-pine-reed-diffuser): Inspired by coming of age in the Minnesota north woods, Leather + Pine smells like tanned leather, pine sap, amber and sandalwood. This is the scent that started it all and is still one of our all-time best sellers: a pioneering blend of sticky, sweet, and savory notes.
-  Updated: 2026-03-27T02:53:56Z
+  Updated: 2026-04-03T17:27:31Z
   Vendor: tanned leather / pine sap / amber / sandalwood
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Leather_PineReedDiffuser-solo.jpg?v=1731105122
   Price: $55.00 USD
 - [Oakmoss Reed Diffuser - Ranger Station](https://rangerstation.co/products/oakmoss-reed-diffuser): A fragrance inspired by the most peculiar of places, Oakmoss smells like moss, cedarwood, amber and bergamot. Laid with a base of warm wood, it’s tied together with a touch of lavender to accentuate a brighter, botanical quality.
-  Updated: 2026-03-27T11:17:08Z
+  Updated: 2026-04-03T21:27:32Z
   Vendor: moss / cedarwood / amber / bergamot
   Product Type: Reed Diffuser
   Availability: Available
@@ -114,14 +107,14 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Tobacco_MuskReedDiffuser-solo.jpg?v=1731105338
   Price: $55.00 USD
 - [Leather + Pine Candle - Ranger Station](https://rangerstation.co/products/leather-pine-candle): Inspired by coming of age in the Minnesota north woods, Leather + Pine smells like tanned leather, pine sap, amber and sandalwood. This is the candle that started it all and is still one of our all-time best sellers: a pioneering blend of sticky, sweet, and savory notes.
-  Updated: 2026-03-27T13:36:08Z
+  Updated: 2026-04-03T22:17:55Z
   Vendor: tanned leather / pine sap / amber / sandalwood
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Leather_PineCandleSolo.jpg?v=1731095630
   Price: $39.00 USD
 - [Personal Fragrance Discovery Set](https://rangerstation.co/products/personal-fragrance-discovery-set): Try all of our fine personal fragrances at once!
-  Updated: 2026-03-27T14:14:55Z
+  Updated: 2026-04-03T23:42:12Z
   Vendor: our best- scents / all at once
   Product Type: Discovery
   Availability: Available
@@ -135,56 +128,56 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Image: https://cdn.shopify.com/s/files/1/1174/9088/files/Artboard_3_1.jpg?v=1759442627
     Price: $39.00 USD
 - [Old Fashioned Candle - Ranger Station](https://rangerstation.co/products/old-fashioned-candle): Our love letter to the classic cocktail: rich body, sweetness, citrus, charred oak. This candle smells like the process of crafting a perfect Old Fashioned: oak barrels, demerara sugar, lemon and orange. All there’s left to do is grab your Ranger glass and take a sip.
-  Updated: 2026-03-27T13:40:37Z
+  Updated: 2026-04-03T22:26:00Z
   Vendor: oak barrels / demerara sugar / lemon / orange
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-OldFashionedCandleSolo.jpg?v=1731095628
   Price: $39.00 USD
 - [Nashville Candle - Ranger Station](https://rangerstation.co/products/nashville-candle): A tribute to our city that made us: the Nashville candle mixes southern roots with the undercurrent of the city’s creative energy and identity. Our experience of Nashville is complex, and so is this scent: Nashville smells like magnolia, dogwood, amber and musk.
-  Updated: 2026-03-27T11:46:10Z
+  Updated: 2026-04-03T21:16:52Z
   Vendor: magnolia / dogwood / amber / musk
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-NashvilleCandleSolo.jpg?v=1731095581
   Price: $39.00 USD
 - [Woodland Rose Candle - Ranger Station](https://rangerstation.co/products/woodland-rose-candle): A classic scent, often under-executed. Woodland Rose smells like rose, sandalwood, amber and musk; we traded the headachey sweetness of what’s typical for sandalwood, amber, and musk to create a dark, warm, unisex take on this classic fragrance.
-  Updated: 2026-03-27T02:00:06Z
+  Updated: 2026-04-03T21:13:07Z
   Vendor: rose petals / sandalwood / amber / musk
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-WoodlandRoseCandleSolo.jpg?v=1731095610
   Price: $39.00 USD
 - [Oakmoss Room + Linen Spray - Ranger Station](https://rangerstation.co/products/oakmoss-room-linen-spray): A fragrance inspired by the most peculiar of places, Oakmoss smells like moss, cedarwood, amber and bergamot. Laid with a base of warm wood, it’s tied together with a touch of lavender to accentuate a brighter, botanical quality.
-  Updated: 2026-03-25T04:28:13Z
+  Updated: 2026-04-01T17:17:12Z
   Vendor: moss / cedarwood / amber / bergamot
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-OakmossRoomSpray-soloMASTER.jpg?v=1730952588
   Price: $39.00 USD
 - [Leather + Pine Room + Linen Spray - Ranger Station](https://rangerstation.co/products/leather-pine-room-linen-spray): Inspired by coming of age in the Minnesota north woods, Leather + Pine smells like tanned leather, pine sap, amber and sandalwood. This is the candle that started it all and is still one of our all-time best sellers: a pioneering blend of sticky, sweet, and savory notes.
-  Updated: 2026-03-27T01:08:09Z
+  Updated: 2026-04-03T15:02:07Z
   Vendor: tanned leather / pine sap / amber / sandalwood
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Leather_PineRoomSpray-soloMASTER.jpg?v=1730952575
   Price: $39.00 USD
 - [Santalum Room + Linen Spray - Ranger Station](https://rangerstation.co/products/santalum-room-linen-spray): A modern classic with a cult following, Santalum smells like: sandalwood, amber resin, iris and leather. It’s our character statement: a scent that stands on its own with some of the most hyped and exclusive fragrances on the market, but without the markup.
-  Updated: 2026-03-27T00:55:44Z
+  Updated: 2026-04-03T22:23:16Z
   Vendor: sandalwood / amber resin / iris / leather
   Product Type: Room Spray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-SantalumRoomSpray-soloMASTER.jpg?v=1730952414
   Price: $39.00 USD
 - [SANDALWOOD + BERGAMOT CANDLE - RANGER STATION](https://rangerstation.co/products/sandalwood-bergamot-candle): 8 oz. premium soy wax blend. Hand poured &amp; packaged in Nashville, TN. 40-50 hour burn time. $5 shipping to anywhere within the United States.
-  Updated: 2026-03-27T13:53:19Z
+  Updated: 2026-04-03T23:55:09Z
   Vendor: sandalwood, cedarwood, bergamot, incense, vetiver
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Sandalwood_BergamotCandleSolo.jpg?v=1731095709
   Price: $39.00 USD
 - [Sandalwood + Bergamot Perfume - Ranger Station](https://rangerstation.co/products/sandalwood-bergamot-perfume): Rugged yet refined, Sandalwood + Bergamot smells like sandalwood, bergamot, vetiver and smoke. Combining the old-world classicism of sharp, citrusy bergamot with the depth and heaviness of Australian sandalwood, this scent is our rebellious take on one of the most storied archetypes in the world of fine fragrance.
-  Updated: 2026-03-27T01:57:48Z
+  Updated: 2026-04-02T11:32:17Z
   Vendor: sandalwood / bergamot / vetiver / smoke
   Product Type: Perfume
   Availability: Available
@@ -196,7 +189,7 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [Woodland Rose Perfume - Ranger Station](https://rangerstation.co/products/woodland-rose-perfume): A classic scent, often under-executed. Woodland Rose smells like rose, sandalwood, amber and musk; we traded the headachey sweetness of what’s typical for sandalwood, amber, and musk to create a dark, warm, unisex take on this classic fragrance.
-  Updated: 2026-03-25T16:56:27Z
+  Updated: 2026-04-03T16:28:34Z
   Vendor: rose / sandalwood / amber / musk
   Product Type: Perfume
   Availability: Available
@@ -208,49 +201,49 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [Hinoki Rituals Candle - Ranger Station](https://rangerstation.co/products/hinoki-rituals-candle): Hinoki Rituals smells like amber, black pepper, jasmine and birch tar. Fresh cypress is mellowed by a dark, honey-like sweetness to create a cozy, enveloping atmosphere; the perfect companion to grab a blanket and watch the raindrops roll down your window.
-  Updated: 2026-03-27T12:11:18Z
+  Updated: 2026-04-03T19:39:27Z
   Vendor: amber / black pepper / jasmine / birch tar
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Hinoki_Rituals_Candle_Solo.jpg?v=1757546750
   Price: $39.00 USD
 - [Leather + Pine Mammoth Candle - Ranger Station](https://rangerstation.co/products/leather-pine-mammoth-candle): Inspired by coming of age in the Minnesota north woods, Leather + Pine smells like tanned leather, pine sap, amber and sandalwood. This is the candle that started it all and is still one of our all-time best sellers: a pioneering blend of sticky, sweet, and savory notes.
-  Updated: 2026-03-27T04:26:59Z
+  Updated: 2026-04-02T23:47:22Z
   Vendor: tanned leather / pine sap / amber / sandalwood
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Leather_PineMammothCandle-solounlitMASTER.jpg?v=1730952536
   Price: $94.00 USD
+- [Lumberjack Candle - Ranger Station](https://rangerstation.co/products/lumberjack-candle): Born around a campfire and raised on the legend of Paul Bunyan, Lumberjack smells like fresh-cut cedar, leather, musk and juniper. It's a perfect companion for bonfire season. Leather and musk complement notes of cedar and juniper to bring the smoky delight of a great fire to you anywhere – no sparks required.
+  Updated: 2026-04-03T19:51:13Z
+  Vendor: fresh-cut cedar / leather / musk / juniper
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-LumberjackCandleSolo.jpg?v=1731095636
+  Price: $39.00 USD
 - [Oakmoss Mammoth Candle - Ranger Station](https://rangerstation.co/products/oakmoss-mammoth-candle): A fragrance inspired by the most peculiar of places, Oakmoss smells like moss, cedarwood, amber and bergamot. Laid with a base of warm wood, it’s tied together with a touch of lavender to accentuate a brighter, botanical quality.
-  Updated: 2026-03-27T12:45:48Z
+  Updated: 2026-04-03T19:51:13Z
   Vendor: moss / cedarwood / amber / bergamot
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-OakmossMammothCandle-solounlitMASTER.jpg?v=1730952533
   Price: $94.00 USD
 - [Old Fashioned Mammoth Candle - Ranger Station](https://rangerstation.co/products/old-fashioned-mammoth-candle): Our love letter to the classic cocktail: rich body, sweetness, citrus, charred oak. This candle smells like the process of crafting a perfect Old Fashioned: oak barrels, demerara sugar, lemon and orange. All there’s left to do is grab your Ranger glass and take a sip.
-  Updated: 2026-03-27T11:13:12Z
+  Updated: 2026-04-02T20:07:52Z
   Vendor: oak barrels / demerara sugar / lemon / orange
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-OldFashionedMammothCandle-solounlitMASTER.jpg?v=1730952502
   Price: $94.00 USD
 - [Santalum Mammoth Candle - Ranger Station](https://rangerstation.co/products/santalum-mammoth-candle): A modern classic with a cult following, Santalum smells like: sandalwood, amber resin, iris and leather. It’s our character statement: a scent that stands on its own with some of the most hyped and exclusive fragrances on the market, but without the markup.
-  Updated: 2026-03-27T02:34:39Z
+  Updated: 2026-04-03T18:32:00Z
   Vendor: sandalwood / amber resin / iris / leather
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-SantalumMammothCandle-solounlitMASTER.jpg?v=1730952753
   Price: $94.00 USD
-- [Yippee Ki-Yay Candle - Ranger Station](https://rangerstation.co/products/yippee-ki-yay-candle): Designed in collaboration with drummer Jake Goss as a perfume and reinvented as a candle, Yippee Ki-Yay smells like smoked wood, honey, cedarwood, clove and rose. Notes of whiskey, tobacco, and tanned leather form a scent that tells the tale of a hardworking, hardwearing dude with a taste for the finer things.
-  Updated: 2026-03-26T23:04:56Z
-  Vendor: smoked wood / honey / cedarwood / clove / rose
-  Product Type: Candle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-YippeeKi-YayCandleSolo.jpg?v=1731095645
-  Price: $39.00 USD
 - [Yippee Ki-Yay Perfume - Ranger Station](https://rangerstation.co/products/yippee-ki-yay-perfume): Designed in collaboration with drummer Jake Goss as a perfume and reinvented as a candle, Yippee Ki-Yay smells like smoked wood, honey, cedarwood, clove and rose. Notes of whiskey, tobacco, and tanned leather form a scent that tells the tale of a hardworking, hardwearing dude with a taste for the finer things.
-  Updated: 2026-03-26T14:18:14Z
+  Updated: 2026-04-02T11:16:34Z
   Vendor: smoked wood / honey / cedarwood / clove / rose
   Product Type: Perfume
   Availability: Available
@@ -262,7 +255,7 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [SEASONAL CANDLE CLUB](https://rangerstation.co/products/seasonal-candle-club): The season's freshest scents, delivered straight to your doorstep! Our Seasonal Candle Club Subscription lets you subscribe on a monthly or bi-monthly cadence, save 15% with each order, and look forward to the surprise seasonal candle delivered right to your door. One, 8 oz premium soy wax blend candle 30-hour burn time (or more) Every candle comes with a perfectly paired cocktail recipe to enjoy once the candle is burned through Subscribing lets you save 15% with each order To manage your subscription, simply create an account or log in to your existing account and click ‘Manage Subscriptions.’ Your subscription will automatically renew based on the delivery frequency you selected. Note – evergreen discounts do not apply
-  Updated: 2026-03-27T14:18:38Z
+  Updated: 2026-04-03T16:27:13Z
   Vendor: a surprise scent every month
   Product Type: Subscription
   Availability: Available
@@ -482,7 +475,7 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Image: https://cdn.shopify.com/s/files/1/1174/9088/files/route-package-protection-logo-v3.png?v=1742431988
     Price: $14.58 USD
 - [Two Trick Pony Perfume - Ranger Station](https://rangerstation.co/products/two-trick-pony-perfume): Smells like: amber, ambroxan, woods, musk. Conceived as an Eau de Parfum and further developed into a candle, Two Trick Pony is one of our most versatile scents to date: base notes of amber, ambroxan, woods, and musk coalesce into a simple, elegant, and long-lasting aroma which can stand on its own or add dimension and depth to any other fragrance.
-  Updated: 2026-03-27T09:04:00Z
+  Updated: 2026-04-03T21:38:14Z
   Vendor: amber / ambroxan / woods / musk
   Product Type: Perfume
   Availability: Available
@@ -494,14 +487,14 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
     Availability: Available
     Price: $144.00 USD
 - [WICK TRIMMERS](https://rangerstation.co/products/wick-trimmers-1): The ultimate candle accessory, our custom-engraved 'Ranger Station' wick trimmers will keep your candles burning slow and clean, and your space feeling elevated.Remember to trim your wicks 1/4 of an inch before every burn.
-  Updated: 2026-03-27T13:25:18Z
+  Updated: 2026-04-03T16:54:32Z
   Vendor: Ranger Station
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/products/SSS02308.jpg?v=1664453728
   Price: $20.00 USD
 - [CANDLE DISCOVERY SET](https://rangerstation.co/products/ranger-favorites-shot-glass-set): Discover the very best of Ranger Station with this mini set of our best- scents. Whether you're new to Ranger Station or just want to give the greatest gift ever, the Candle Discovery Set is your answer! Set includes our three best- candles poured into shot glasses that allows you to test our scents quickly before committing to a larger candle. The Best Seller Set Includes: Leather + Pine Candle Santalum Candle Old Fashioned Candle
-  Updated: 2026-03-27T05:03:31Z
+  Updated: 2026-04-03T19:38:08Z
   Vendor: Smells like: Bangers Only
   Product Type: Candles
   Availability: Available
@@ -510,7 +503,7 @@ Positioned as the everyman's luxury, Ranger Station fills the space between mass
 - [HIGH HORSE CANDLE - RANGER STATION](https://rangerstation.co/products/high-horse-candle): Notes: citrus / patchouli / cedarwood / musk
 
 Boasting one of the freshest scent profiles in the Ranger Station collection, High Horse is ready to carry you up to your next mountaintop. Notes of citrus and patchouli will keep you calm, cool and collected as you ride, while a base of cedarwood and musk hold steady like the ground beneath you - grab your spurs and hop in the saddle, because it’s all up from here.
-  Updated: 2026-03-27T01:39:11Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: citrus / patchouli / cedarwood / musk
   Product Type: Candle
   Availability: Available
@@ -519,7 +512,7 @@ Boasting one of the freshest scent profiles in the Ranger Station collection, Hi
 - [HIGH HORSE PERFUME - RANGER STATION](https://rangerstation.co/products/high-horse-perfume): Notes: citrus / patchouli / cedarwood / musk
 
 Boasting one of the freshest scent profiles in the Ranger Station collection, High Horse is ready to carry you up to your next mountaintop. Notes of citrus and patchouli will keep you calm, cool and collected as you ride, while a base of cedarwood and musk hold steady like the ground beneath you - grab your spurs and hop in the saddle, because it’s all up from here.
-  Updated: 2026-03-27T14:20:26Z
+  Updated: 2026-04-03T23:51:18Z
   Vendor: citrus / patchouli / cedarwood / musk
   Product Type: EDP
   Availability: Available
@@ -531,14 +524,14 @@ Boasting one of the freshest scent profiles in the Ranger Station collection, Hi
     Availability: Available
     Price: $144.00 USD
 - [SUPERBLOOM CANDLE - RANGER STATION](https://rangerstation.co/products/superbloom-candle): Smells like: Jasmine / Tuberose / Petitgrain / Citrus / Woods Our new candle scent, SUPERBLOOM, captures the essence of the American West with a luxurious blend of delicate floral notes of neroli and jasmine, balanced with warm and earthy scents of sandalwood and cedar. Top notes of bright citrus add a refreshing twist to this exquisite scent, evoking the vibrant colors and sweet aroma of spring blooming in the open plains.
-  Updated: 2026-03-27T12:11:21Z
+  Updated: 2026-04-03T23:47:17Z
   Vendor: fresh linen / citrus / sunshine
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-SUPERBLOOMCandleSolo.jpg?v=1741817034
   Price: $39.00 USD
 - [SHAMPOO - RANGER STATION](https://rangerstation.co/products/shampoo): Brand new + improved formula! Our Shampoo works hard, so that you can leave dust on the trail where it belongs. Pair with our Body Wash + Conditioner for an all-around clean at the end of every adventure. Scent Profiles: New Signature Atlas Cedar: atlas cedar / frankincense / bergamot Santalum: sandalwood / amber resin / iris/ leather
-  Updated: 2026-03-26T15:49:17Z
+  Updated: 2026-04-03T02:39:31Z
   Vendor: Brand new + improved formula
   Product Type: Shampoo
   Availability: Available
@@ -552,7 +545,7 @@ Boasting one of the freshest scent profiles in the Ranger Station collection, Hi
     Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Shampoo_solo_AC_55bbd099-61c0-4e2c-a2e7-08def6cca663.jpg?v=1744161852
     Price: $39.00 USD
 - [BODY WASH - RANGER STATION](https://rangerstation.co/products/body-wash): Brand new + improved formula! Our Body Wash works hard, so that you can leave dust on the trail where it belongs. Pair with our Shampoo + Conditioner for an all-around clean at the end of every adventure. Scent Profiles: New Signature Atlas Cedar: atlas cedar / frankincense / bergamot Santalum: sandalwood / amber resin / iris/ leather This new Body Wash formula features Peptides, Niacinamide, Vitamins C + E, and Oat Extract to nourish and protect your skin with every wash. Clean, safe, and sustainable ingredients Free from: sulfates, parabens, and phthalates Formula features Peptides, Niacinamide, Vitamins C + E, and Oat Extract INGREDIENTS: Water, Sodium C14-16 Olefin Sulfonate (Sulfate-Free Cleanser), Lauramidopropyl Betaine, Cocamide Methyl MEA, Sodium Taurine Cocoyl Methyltaurate, Cocamidopropyl Betaine, Citric Acid, Sodium Cocoyl Glycinate, Polyquaternium-7, Niacinamide (Vitamin B3), 3-o-Ethyl Ascorbic Acid (Vitamin C Antioxidant), Citrus Aurantium Amara (Bitter Orange) Flower Water, Citrus Limon (Lemon) Fruit Extract, Olea Europaea (Olive) Leaf Extract, Camellia Japonica Flower Extract, Palmitoyl Tripeptide-5 (Anti-Aging Peptide), Coco-Glucoside, Sodium Benzoate, Propylene Glycol Laurate, Sodium Lauroyl Sarcosinate, Potassium Cocoyl Hydrolyzed Oat Protein (Oat Extract), Potassium Chloride, Sodium Lauroyl Glutamate, Tocopherol (Vitamin E), Limnanthes Alba (Meadowfoam) Seed Oil, Propanediol, Glyceryl Lauratel, Glyceryl Caprylate, Hydroxyacetophenone, Ethylhexylglycerin, Arginine, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, Fragrance.
-  Updated: 2026-03-26T21:34:10Z
+  Updated: 2026-04-02T21:27:39Z
   Vendor: Brand new + improved formula
   Product Type: Body Wash
   Availability: Available
@@ -566,7 +559,7 @@ Boasting one of the freshest scent profiles in the Ranger Station collection, Hi
     Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Body_Wash_solo_SL.jpg?v=1744069395
     Price: $39.00 USD
 - [CONDITIONER - RANGER STATION](https://rangerstation.co/products/conditioner): Smells like: Eucalyptus / Oakmoss / Santalum How do you want to start your day? Condition your hair with naturally derived ingredients.
-  Updated: 2026-03-25T19:56:32Z
+  Updated: 2026-04-03T02:39:30Z
   Vendor: Brand new + improved formula
   Product Type: Conditioners
   Availability: Available
@@ -589,7 +582,7 @@ Part of Ranger Station's features. collection, this program offers artist-collab
 10% of all sales given to Porter's Call, a counseling center in Nashville that provides support attuned to the needs of musicians
 Poured and packaged by hand in Nashville, TN
 30+ hour burn time
-  Updated: 2026-03-27T13:44:04Z
+  Updated: 2026-04-03T23:34:58Z
   Vendor: inspired by the best- album stick season
   Product Type: Candle
   Availability: Available
@@ -619,7 +612,7 @@ Ranger Station started with a single candle: Leather + Pine. Inspired by Steve�
 8 oz. premium soy wax blend
 Poured and packaged by hand in Nashville, TN
 30+ hour burn time
-  Updated: 2026-03-23T17:25:30Z
+  Updated: 2026-04-03T22:55:05Z
   Vendor: tanned leather / whiskey and water / lake superior bonfire
   Product Type: Candle
   Availability: Available
@@ -630,7 +623,7 @@ Poured and packaged by hand in Nashville, TN
 Paraben-free
 Available in 10ml roll on + 50ml
 Hand-mixed to order using the highest quality fragrance and essential oils
-  Updated: 2026-03-27T14:14:54Z
+  Updated: 2026-04-03T21:38:13Z
   Vendor: sandalwood / ambergris / cedarwood / rose / jasmine
   Product Type: Personal Fragrance
   Availability: Available
@@ -641,19 +634,8 @@ Hand-mixed to order using the highest quality fragrance and essential oils
   - [100 ML](https://rangerstation.co/products/jordans-perfume-anniversary-edition?variant=42734793883709)
     Availability: Available
     Price: $144.00 USD
-- [OUD RANCH CANDLE - RANGER STATION](https://rangerstation.co/products/oud-ranch-candle): Smells like: palo santo / oud wood / cedar / pepper
-
-Introducing: OUD RANCH (like dude ranch). Whether you’re a city slicker or a rough-riding cowboy, this scent was designed to help you kick up your boots whenever you need a break. 
-
-What started with the simple idea to introduce a new scent rooted in our favorite woody, smoky scents like oud wood and palo santo quickly became a much larger vision of a place we can go in our minds whenever this scent is nearby; thus, OUD RANCH was born. We hope you enjoy it as much as we do - welcome to the Ranch.
-  Updated: 2026-03-27T01:07:59Z
-  Vendor: palo santo / oud wood / cedar / pepper
-  Product Type: Candle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Oud_Ranch_Candle_Solo.jpg?v=1737100864
-  Price: $39.00 USD
 - [LEATHER + PINE QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/leather-pine-quickdraw-perfume): Inspired by coming of age in the Minnesota north woods, Leather + Pine smells like tanned leather, pine sap, amber and sandalwood. This is the candle that started it all and is still one of our all-time best sellers: a pioneering blend of sticky, sweet, and savory notes.
-  Updated: 2026-03-27T01:58:00Z
+  Updated: 2026-04-03T17:20:43Z
   Vendor: tanned leather / pine sap / amber / sandalwood
   Product Type: Perfume
   Availability: Available
@@ -662,7 +644,7 @@ What started with the simple idea to introduce a new scent rooted in our favorit
 - [HIGH HORSE QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/high-horse-quickdraw-perfume): Notes: citrus / patchouli / cedarwood / musk
 
 Boasting one of the freshest scent profiles in the Ranger Station collection, High Horse is ready to carry you up to your next mountaintop. Notes of citrus and patchouli will keep you calm, cool and collected as you ride, while a base of cedarwood and musk hold steady like the ground beneath you - grab your spurs and hop in the saddle, because it’s all up from here.
-  Updated: 2026-03-27T12:11:17Z
+  Updated: 2026-04-03T11:43:27Z
   Vendor: citrus / patchouli / cedarwood / musk
   Product Type: EDP
   Availability: Available
@@ -673,63 +655,63 @@ Boasting one of the freshest scent profiles in the Ranger Station collection, Hi
 Paraben-free
 Available in 10ml roll on + 50ml + 100ml
 Hand-mixed to order using the highest quality fragrance and essential oils
-  Updated: 2026-03-27T12:44:57Z
+  Updated: 2026-04-03T23:47:17Z
   Vendor: sandalwood / ambergris / cedarwood / rose / jasmine
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Jordan_sPerfumeQuickdrawPerfume-soloMASTER.jpg?v=1731020856
   Price: $39.00 USD
 - [OAKMOSS QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/oakmoss-quickdraw-perfume): A fragrance inspired by the most peculiar of places, Oakmoss smells like moss, cedarwood, amber and bergamot. Laid with a base of warm wood, it's tied together with a touch of lavender to accentuate a brighter, botanical quality.
-  Updated: 2026-03-27T03:28:55Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: moss / cedarwood / amber / bergamot
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-OakmossQuickdrawPerfume-soloMASTER.jpg?v=1731014876
   Price: $39.00 USD
 - [SANDALWOOD + BERGAMOT QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/sandalwood-bergamot-quickdraw-perfume): Rugged yet refined, Sandalwood + Bergamot smells like sandalwood, bergamot, vetiver and smoke. Combining the old-world classicism of sharp, citrusy bergamot with the depth and heaviness of Australian sandalwood, this scent is our rebellious take on one of the most storied archetypes in the world of fine fragrance.
-  Updated: 2026-03-27T02:34:39Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: sandalwood / bergamot / vetiver / smoke
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Sandalwood_BergamotQuickdrawPerfume-soloMASTER.jpg?v=1731020156
   Price: $39.00 USD
 - [SANTALUM QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/santalum-quickdraw-perfume): A modern classic with a cult following, Santalum smells like: sandalwood, amber resin, iris and leather. It’s our character statement: a scent that stands on its own with some of the most hyped and exclusive fragrances on the market, but without the markup.
-  Updated: 2026-03-27T13:24:52Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: sandalwood / amber resin / iris / leather
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-SantalumQuickdrawPerfume-soloMASTER.jpg?v=1731020339
   Price: $39.00 USD
 - [TOBAC + MUSK QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/tobac-musk-quickdraw-perfume): The most interesting scent in the world. Tobac + Musk smells like sweet pipe tobacco, blue musk, clove and amber. Imagine smoking a great cigar seated in a leather chair, enjoying an enriching conversation with a close friend, all in a dark, hardwood-covered lounge room; that's what we’ve bottled here.
-  Updated: 2026-03-27T01:57:48Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: sweet pipe tobacco / blue musk / clove / amber
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Tobacco_MuskQuickdrawPerfume-soloMASTER.jpg?v=1731014810
   Price: $39.00 USD
 - [TWO TRICK PONY QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/two-trick-pony-quickdraw-perfume): Smells like: amber, ambroxan, woods, musk. Conceived as an Eau de Parfum and further developed into a candle, Two Trick Pony is one of our most versatile scents to date: base notes of amber, ambroxan, woods, and musk coalesce into a simple, elegant, and long-lasting aroma which can stand on its own or add dimension and depth to any other fragrance.
-  Updated: 2026-03-27T14:26:43Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: amber / ambroxan / woods / musk
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-TwoTrickPonyQuickdrawPerfume-soloMASTER.jpg?v=1731020259
   Price: $39.00 USD
 - [WOODLAND ROSE QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/woodland-rose-quickdraw-perfume): A classic scent, often under-executed. Woodland Rose smells like rose, sandalwood, amber and musk; we traded the headachey sweetness of what’s typical for sandalwood, amber, and musk, to create a dark, warm, unisex take on this classic fragrance.
-  Updated: 2026-03-25T19:56:56Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: rose / sandalwood / amber / musk
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-WoodlandRoseQuickdrawPerfume-soloMASTER.jpg?v=1731014514
   Price: $39.00 USD
 - [YIPPEE KI-YAY QUICKDRAW PERFUME](https://rangerstation.co/products/yippee-ki-yay-quickdraw-perfume): Designed in collaboration with drummer Jake Goss as a perfume and reinvented as a candle, Yippee Ki-Yay smells like smoked wood, honey, cedarwood, clove and rose. Notes of whiskey, tobacco, and tanned leather form a scent that tells the tale of a hardworking, hardwearing dude with a taste for the finer things.
-  Updated: 2026-03-25T07:08:47Z
+  Updated: 2026-04-02T11:16:34Z
   Vendor: smoked wood / honey / cedarwood / clove / rose
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-YippeeKi-YayQuickdrawPerfume-soloMASTER.jpg?v=1731014694
   Price: $39.00 USD
 - [Cowboy Christmas Reed Diffuser - Ranger Station](https://rangerstation.co/products/cowboy-christmas-reed-diffuser): CRISP BALSAM CEDAR, COMBINED WITH THE EARTHY SAP OF THE FRASIER FIR, BRINGS YOU A WINTER CANDLE SCENT THAT’S BOTH WOODY AND FRESH. Lasts 3 months Hand mixed to order in Nashville, TN.
-  Updated: 2026-03-23T17:24:57Z
+  Updated: 2026-04-03T21:13:07Z
   Vendor: amber / montana juniper / frankincense / whiskey
   Product Type: Reed Diffuser
   Availability: Available
@@ -740,28 +722,28 @@ Hand-mixed to order using the highest quality fragrance and essential oils
 This exclusive new candle is a continued collaboration with Love One International, a non-profit organization with a stateside Nashville team on a mission to provide life-saving  care to critically ill babies in Uganda. 
 
 The Love One candle was developed with help from the Love One team, but it does more than just smell amazing - 50% of all proceeds will go directly to Love One. It's a true gift that will keep giving long after the candle becomes a cocktail glass!
-  Updated: 2026-03-26T19:14:28Z
+  Updated: 2026-04-03T19:51:18Z
   Vendor: 50% of all proceeds given to Love One
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-TheLoveOneCandleSolo.jpg?v=1731095633
   Price: $45.00 USD
 - [DAISY | A PERFUME BY LAUREN AKINS - RANGER STATION](https://rangerstation.co/products/daisy-by-lauren): Introducing Daisy: A Perfume by Lauren Akins. Born from Lauren's love of our fragrance Two Trick Pony, Daisy is simple, but far from ordinary - wear it on its own or combine with Cowboy: A Perfume by Lauren Akins (for TR) to create something truly unique! 50% of every purchase from Daisy + Cowboy: A Perfume Collection by Lauren Akins also gives back to Love One International, an incredible organization that provides life-saving  care to children in Uganda - a cause that's near and dear to Lauren.
-  Updated: 2026-03-27T14:22:45Z
+  Updated: 2026-04-03T23:43:07Z
   Vendor: ambergris / sandalwood
   Product Type: Perfume & Cologne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Daisy50mlSolo.jpg?v=1730952395
   Price: $94.00 USD
 - [COWBOY | A PERFUME BY LAUREN AKINS - RANGER STATION](https://rangerstation.co/products/cowboy-by-lauren): Introducing Cowboy: A Perfume by Lauren Akins (for TR). Born from Lauren's love of our fragrance Two Trick Pony, Cowboy is simple, but far from ordinary - wear it on its own or combine with Daisy: A Perfume by Lauren Akins to create something truly unique! 50% of every purchase from Daisy + Cowboy: A Perfume Collection by Lauren Akins also gives back to Love One International, an incredible organization that provides life-saving  care to children in Uganda - a cause that's near and dear to Lauren.
-  Updated: 2026-03-27T03:13:17Z
+  Updated: 2026-04-03T18:07:01Z
   Vendor: ambergris / leather
   Product Type: EDP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-Cowboy50mlSolo.jpg?v=1730952723
   Price: $94.00 USD
 - [Oud Wood Perfume - Ranger Station](https://rangerstation.co/products/oud-ranch-perfume): Spicy and resinous, this is our unique take on a Palo Santo type scent. Oud Wood smells like: palo santo, oud wood, cedar and pepper. It rebels against the typical by bringing out a dry and smoky quality in the classic fragrance.
-  Updated: 2026-03-24T17:51:05Z
+  Updated: 2026-04-03T01:56:57Z
   Vendor: palo santo / oud wood / cedar / pepper
   Product Type: Perfume
   Availability: Available
@@ -773,7 +755,7 @@ The Love One candle was developed with help from the Love One team, but it does 
     Availability: Available
     Price: $144.00 USD
 - [Speak Easy Vanilla-Based 50ML Perfume by Ranger Station - Cedar, Vanilla Bitters, Demerara, Sandalwood & Musk Scent](https://rangerstation.co/products/speak-easy-perfume): Indulge in the unique aroma of SPEAK EASY Vanilla-Based Unisex Perfume by Ranger Station. This meticulously crafted fragrance combines the earthy tones of cedar with the indulgent sweetness of vanilla bitters, elevated by the exotic spice of demerara. The luxurious depth of sandalwood and the seductive whisper of musk complete this sophisticated scent profile. Perfect for anyone seeking a distinctive, gender-neutral perfume that makes a statement. Embrace the essence of elegance and mystery with Ranger Station's SPEAK EASY. Ideal for fragrance enthusiasts eager to explore a blend that's both classic and contemporary."
-  Updated: 2026-03-27T01:18:30Z
+  Updated: 2026-04-03T19:03:40Z
   Vendor: cedar / vanilla bitters / demerara / sandalwood / musk
   Product Type: Perfume
   Availability: Available
@@ -785,28 +767,28 @@ The Love One candle was developed with help from the Love One team, but it does 
     Availability: Available
     Price: $187.00 USD
 - [Speak Easy Vanilla-Based 10ML Perfume by Ranger Station - Cedar, Vanilla Bitters, Demerara, Sandalwood & Musk Scent](https://rangerstation.co/products/speak-easy-quickdraw-perfume): Indulge in the unique aroma of SPEAK EASY Vanilla-Based Unisex Perfume by Ranger Station. This meticulously crafted fragrance combines the earthy tones of cedar with the indulgent sweetness of vanilla bitters, elevated by the exotic spice of demerara. The luxurious depth of sandalwood and the seductive whisper of musk complete this sophisticated scent profile. Perfect for anyone seeking a distinctive, gender-neutral perfume that makes a statement. Embrace the essence of elegance and mystery with Ranger Station's SPEAK EASY. Ideal for fragrance enthusiasts eager to explore a blend that's both classic and contemporary.
-  Updated: 2026-03-27T12:11:21Z
+  Updated: 2026-04-03T19:03:40Z
   Vendor: cedar / vanilla bitters / demerara / sandalwood / musk
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-SpeakEasyQuickdrawPerfume-soloMASTER.jpg?v=1731015365
   Price: $45.00 USD
 - [TENNESSEE TOMATO CANDLE - RANGER STATION](https://rangerstation.co/products/tennessee-tomato-candle): Introducing the new "Tennessee Tomato" candle, crafted to evoke the heritage and memories of a family's summer garden. This scent captures the nostalgia of sunny days spent in the company of your hands tending to the earth. With notes of vine-ripened tomato, the fresh scent of wet earth, and a subtle undertone reminiscent of dirt under your nails, it's a fragrance that's both grounding and refreshing yet you can feel the warmth of a Tennessee Summer.
-  Updated: 2026-03-27T14:14:55Z
+  Updated: 2026-04-03T23:48:25Z
   Vendor: vine-ripened tomato, wet earth, dirt
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_TN_Tomato_Candle_Solo_ac97a615-c29c-4878-8cf9-91a1ba945c91.jpg?v=1747851319
   Price: $39.00 USD
 - [DAISY BY LAUREN AKINS QUICKDRAW PERFUME - RANGER STATION](https://rangerstation.co/products/daisy-by-lauren-akins-quickdraw-perfume): Introducing Daisy: A Perfume by Lauren Akins. Born from Lauren's love of our fragrance Two Trick Pony, Daisy is simple, but far from ordinary - wear it on its own or combine with Cowboy: A Perfume by Lauren Akins (for TR) to create something truly unique! 50% of every purchase from Daisy + Cowboy: A Perfume Collection by Lauren Akins also gives back to Love One International, an incredible organization that provides life-saving  care to children in Uganda - a cause that's near and dear to Lauren.
-  Updated: 2026-03-27T12:44:58Z
+  Updated: 2026-04-03T22:28:28Z
   Vendor: ambergris / sandalwood
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-DaisyQuickdrawPerfume-soloMASTER.jpg?v=1731014405
   Price: $39.00 USD
 - [HOSS (feat. WAYLON JENNINGS) - RANGER STATION](https://rangerstation.co/products/hoss-feat-waylon-jennings): An olfactory biography of Waylon Jennings by Ranger Station Introducing "A Scent Called Hoss": A tribute fragrance crafted by Shooter Jennings in honor of his father, Waylon Jennings. This Father's Day, embrace the essence of classic fragrance masculinity with a nod to Waylon's favorite musky scents infused with outlaw country spirit. With rugged notes of musk, leather, and tobacco, "A Scent Called Hoss" captures the rebel soul of outlaw country. Top: Bergamot, Star Anise Heart: Tobacco, Incense, Geranium, Base: Moss, Vetiver, Vanilla This fragrance is more than a scent; it's a homage to Waylon's enduring legacy—a reminder to live boldly and authentically, just like the man himself.
-  Updated: 2026-03-27T14:06:20Z
+  Updated: 2026-04-03T17:52:38Z
   Vendor: classic musk cologne
   Product Type: Perfume & Cologne
   Availability: Available
@@ -815,14 +797,14 @@ The Love One candle was developed with help from the Love One team, but it does 
 - [SEA SALT PERFUME - RANGER STATION](https://rangerstation.co/products/sea-salt-perfume): Smells like: ozone / salt water / rose / lily / jasmine
 
 Ready for a summer vacation? Us too - Sea Salt is the scent to hold you over for whatever plans you have once the sun starts shining and winter is officially over. Airy and clean with a strikingly salty impact at first, Sea Salt is inspired by coastal getaways on the West Coast, where jasmine blossom floats along on the salty air and  citrusy bergamot blends with lily and rose for a fragrance that feels like the summer trip we're already looking forward to.
-  Updated: 2026-03-26T17:15:10Z
+  Updated: 2026-03-31T16:42:47Z
   Vendor: ozone / salt water / rose / lily / jasmine
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/FREELANCESESSION0049.jpg?v=1718762020
   Price: $94.00 USD
 - [RANGER STATION - CAR AIR FRESHENERS - 3 PACK](https://rangerstation.co/products/car-cologne-3-pack): Hit the road with Car Cologne! Your favorite Ranger Station scents are now available for the car, so you can bring them with you on every adventure. Each of our best- scents comes in a Car Cologne 3-Pack to elevate your driving experience and keep you and your car smelling great, no matter where the trail takes you.¬† Each scent comes in a pack of 3 Drive safe + smell good Scents available: Santalum Leather + Pine Oakmoss High Horse Old Fashioned Tobacco & Musk Cowboy Christmas* Balsam Fir* *Holiday Exclusives Note: For the longest-lasting scent throw, we recommend leaving each Car Cologne card in the plastic packaging and only exposing a little at a time, as needed. Personally, we like to hang one from the mirror and keep one in the packaging under the seat, so you get all the vibes plus long-lasting scent (and still have one card to spare!).
-  Updated: 2026-03-27T11:46:10Z
+  Updated: 2026-04-03T20:34:54Z
   Vendor: Our best scents for your car
   Product Type: Personal Fragrance
   Availability: Available
@@ -848,35 +830,35 @@ Ready for a summer vacation? Us too - Sea Salt is the scent to hold you over for
     Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Santalum_Car_Cologne_-_packed.jpg?v=1730952372
     Price: $27.00 USD
 - [RANGER STATION x NOAH KAHAN CAR AIR FRESHENER](https://rangerstation.co/products/stick-season-car-cologne-feat-noah-kahan): Discover the essence of New England with our Stick Season Car Air Fresheners, inspired by Noah Kahan's hit album. Enjoy scents of Vermont pine, campfire whiskey, and your favorite flannel. Part of Ranger Station's artist-collaborative collection, this scent is a love letter to small-town living. Drive safe and smell great with 1 scent in 3 unique designs. Experience scent-driven storytelling every time you hit the road.
-  Updated: 2026-03-27T11:15:57Z
+  Updated: 2026-04-03T23:43:07Z
   Vendor: vermont pine / campfire whiskey / your favorite flannel
   Product Type: Hand + Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/FREELANCE_SESSION0042_4.jpg?v=1730366875
   Price: $27.00 USD
 - [BARK RANGER SHAMPOO](https://rangerstation.co/products/bark-ranger-shampoo): Discover the Bark Ranger Limited Edition Pet Collection by Ranger Station and Wags & Walks, featuring a luxurious blend of oakmoss, clary sage, sandalwood, and cedar atlas. Crafted with care in Nashville, TN, this collection is free from sulfates, SLS, SLES, and parabens, and made with 74% organic materials in post-consumer recycled bottles. Each purchase supports Wags & Walks' mission to rescue and rehome dogs.
-  Updated: 2026-03-26T01:39:32Z
+  Updated: 2026-04-02T21:53:19Z
   Vendor: Oakmoss / Clary Sage / Sandalwood / Cedar Atlas
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-BarkRangerShampoo.jpg?v=1730952428
   Price: $39.00 USD
 - [BARK RANGER PET DEODORIZING SPRAY - RANGER STATION](https://rangerstation.co/products/bark-ranger-deodorizing-spray): Keep your dog fresh between baths with our odor-neutralizing spray, featuring notes of Oakmoss, Clary Sage, Sandalwood, and Cedar Atlas. Made with 74% organic materials and bottled in recycled packaging, this 8.1 fl. oz spray is free from sulfates, SLS, SLES, and parabens. Plus, 10% of profits support Wags & Walks in their mission to rescue dogs. Handcrafted in Nashville, TN.
-  Updated: 2026-03-27T04:33:39Z
+  Updated: 2026-04-03T21:36:27Z
   Vendor: Oakmoss / Clary Sage / Sandalwood / Cedar Atlas
   Product Type: Room Spray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-BarkRangerDeodorizingSpray.jpg?v=1730952582
   Price: $29.00 USD
 - [BARK RANGER PET CANDLE - RANGER STATION](https://rangerstation.co/products/bark-ranger-candle): Keep your dog fresh between baths with our odor-neutralizing spray, featuring notes of Oakmoss, Clary Sage, Sandalwood, and Cedar Atlas. Made with 74% organic materials and bottled in recycled packaging, this 8.1 fl. oz spray is free from sulfates, SLS, SLES, and parabens. Plus, 10% of profits support Wags & Walks in their mission to rescue dogs. Handcrafted in Nashville, TN.
-  Updated: 2026-03-27T05:03:31Z
+  Updated: 2026-04-03T22:17:55Z
   Vendor: Oakmoss / Clary Sage / Sandalwood / Cedar Atlas
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-BarkRangercandleunlit.jpg?v=1730952434
   Price: $45.00 USD
 - [RANGER STATION - HAND WASH](https://rangerstation.co/products/hand-wash-1): Treat your hands after a long day on the trails (or at the office). Available in some of our best- scents, our Hand Wash lathers well and is gentle on skin for a rejuvenating clean. It looks great on your counter, too!
-  Updated: 2026-03-27T14:04:53Z
+  Updated: 2026-04-03T19:11:22Z
   Vendor: Brand new + improved formula
   Product Type: Hand + Body
   Availability: Available
@@ -894,7 +876,7 @@ Ready for a summer vacation? Us too - Sea Salt is the scent to hold you over for
     Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Hand_Wash_solo_LP_0ca04815-88fd-4eba-a9f3-e40e952fd429.jpg?v=1736637611
     Price: $39.00 USD
 - [RANGER STATION - HAND CREAM](https://rangerstation.co/products/hand-cream-2): Treat your hands after a long day on the trails (or at the office). Available in some of our best- scents, our Hand Cream helps repair damage with a non-greasy finish. Contains Sunflower Oil, which is rich in Vitamin E and helps regenerate skin, as well as Allantoin, which is thought to help heal wounds and stimulate growth of healthy tissue. It looks great on your counter, too!
-  Updated: 2026-03-27T14:04:53Z
+  Updated: 2026-04-03T19:38:08Z
   Vendor: Brand new + improved formula
   Product Type: Hand + Body
   Availability: Available
@@ -912,7 +894,7 @@ Ready for a summer vacation? Us too - Sea Salt is the scent to hold you over for
     Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-HandCreamsolo.jpg?v=1730952422
     Price: $45.00 USD
 - [HAND WASH + HAND CREAM SET - RANGER STATION](https://rangerstation.co/products/hand-wash-cream-set-1): Smells like: atlas cedar / frankincense / bergamot Introducing the new and improved Hard Working Hands Collection, featuring an upgraded 16.9oz Hand Wash + Hand Cream set. These products combine high-quality, sustainable ingredients with a focus on caring for both your skin and the environment. Scent Profiles: New Signature Atlas Cedar: atlas cedar / frankincense / bergamot Santalum: sandalwood / amber resin / iris/ leather Leather + Pine: tanned leather / pine sap / amber / sandalwood Hand Wash Formula: Features peptides, niacinamide, vitamins C + E, and oat extract to nourish, cleanse, and protect your skin for every adventure Hand Cream Formula: Enriched with aloe vera, almond oil, vitamins B5 + E, and green tea extract, this cream provides long-lasting hydration, leaving your hands soft and resilient after every use. Safe & Clean: Paraben-free, phthalate-free, sulfate-free, crafted with sustainable, clean ingredients to nourish and protect your skin. Sustainability Commitment: The new bottles are made from 100% post-consumer recycled material, contributing to a more sustainable future by reducing waste. All ingredients are safe, sustainable, and environmentally conscious, ensuring that each product is not only effective but also kind to both you and the planet.
-  Updated: 2026-03-27T14:18:38Z
+  Updated: 2026-04-03T19:11:22Z
   Vendor: scent accessories for your sink
   Product Type: Hand + Body
   Availability: Available
@@ -937,14 +919,14 @@ Ready for a summer vacation? Us too - Sea Salt is the scent to hold you over for
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/BarkRangerdogtoy1.jpg?v=1733427761
   Price: $24.00 USD
 - [HOSS (feat. WAYLON JENNINGS) - RANGER STATION](https://rangerstation.co/products/hoss-candle-feat-waylon-jennings): An olfactory biography of Waylon Jennings by Ranger Station Introducing "A Candle Called Hoss": A tribute candle crafted by Shooter Jennings in honor of his father, Waylon Jennings. Embrace the essence of classic fragrance masculinity with a nod to Waylon's favorite musky scents infused with outlaw country spirit. With rugged notes of musk, leather, and tobacco, "A Candle Called Hoss" captures the rebel soul of outlaw country. Top: Bergamot, Star Anise Heart: Tobacco, Incense, Geranium, Base: Moss, Vetiver, Vanilla This fragrance is more than a scent; it's a homage to Waylon's enduring legacy—a reminder to live boldly and authentically, just like the man himself.
-  Updated: 2026-03-26T19:06:20Z
+  Updated: 2026-04-03T17:52:37Z
   Vendor: inspired by a classic musk cologne
   Product Type: Perfume & Cologne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-HOSS_feat.WaylonJennings_CandleSolo.jpg?v=1733560372
   Price: $45.00 USD
 - [Bluebird Days Candle - Ranger Station](https://rangerstation.co/products/bluebird-days-candle)
-  Updated: 2026-03-27T13:25:18Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: fresh snow / warm sun / black tea / vetiver / woods
   Product Type: Candles
   Availability: Available
@@ -960,14 +942,14 @@ Part of Ranger Station's features. collection, this program offers artist-collab
 10% of all sales given to Porter's Call, a counseling center in Nashville that provides support attuned to the needs of musicians
 Poured and packaged by hand in Nashville, TN
 30+ hour burn time
-  Updated: 2026-03-26T20:55:07Z
+  Updated: 2026-04-03T17:51:32Z
   Vendor: inspired by the best- album stick season
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Stick_Season_Mammoth_Candle_-_solo_unlit.jpg?v=1738187949
   Price: $94.00 USD
 - [SPEAK EASY CANDLE - RANGER STATION](https://rangerstation.co/products/candle-8oz-speakeasy): Introducing Speak Easy: a special occasion scent by Ranger Station. Originally designed as a perfume, Speak Easy has become a sought-after fan favorite scent - so we're pleased to offer it as a candle, as well! From having friends over to a date night at home, Speak Easy is an elevated vanilla scent done the Ranger Station way - the perfect fragrance to make every moment special. In crafting Speak Easy, we used only the finest ingredients we could source, from Ranger Station classics like cedar, sandalwood, and musk, all the way to rare, single-origin vanilla bean imported from Madagascar. The result? A rarified complexity that lingers - we can't wait for you to experience it.
-  Updated: 2026-03-27T12:11:21Z
+  Updated: 2026-04-03T21:07:18Z
   Vendor: cedar / vanilla bitters / demerara / sandalwood / musk
   Product Type: Candle
   Availability: Available
@@ -981,28 +963,28 @@ Poured and packaged by hand in Nashville, TN
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-anniversarycandlelit.jpg?v=1753921645
   Price: $45.00 USD
 - [COWBOY QUICKDRAW PERFUME](https://rangerstation.co/products/roll-on-cowboy): Introducing Cowboy: A Perfume by Lauren Akins (for TR). Born from Lauren's love of our fragrance Two Trick Pony, Cowboy is simple, but far from ordinary - wear it on its own or combine with Daisy: A Perfume by Lauren Akins to create something truly unique!
-  Updated: 2026-03-27T00:55:44Z
+  Updated: 2026-04-03T22:28:27Z
   Vendor: ambergris / leather
   Product Type: Perfume & Cologne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Cowboy_Quickdraw_Perfume_-_solo_MASTER.jpg?v=1754695821
   Price: $39.00 USD
 - [DARLING BLUE CANDLE (feat. MARCUS KING)](https://rangerstation.co/products/candle-8oz-rs-x-marcus-king): A candle inspired by the Blue Ridge Mountains and the soul of Marcus King’s new album, Darling Blue. “This record’s all about being back home,” Marcus shares. “It’s about the love I have for the area of the country and the people I come from.” Darling Blue is that love, distilled into scent form. Drawing from the Blue Ridge Mountains where Marcus was raised, the fragrance was designed around his core memories from childhood and early years cutting his teeth as a touring musician. The scent opens with clean, airy aldehyde and bright, sharp rhubarb—an intro that clears space for what’s to come. At its heart, you’ll find grounding notes of fir needle and frankincense which bring to mind evergreen trees lining hollers, paired with the distinct, gritty minerality of the oil which keeps his Hammond organ running right. Notes of musk, patchouli, cedar, and balsam underpin the scent with a woody, earthen familiarity, and the sweet warmth of tobacco feels like home. All together, Darling Blue is a celebration of the scents that have shaped Marcus King. From oakmoss and smoky amber to worn leather and the nostalgia of Hammond oil, this candle carries both grit and grace—and for Marcus, it’s more than a fragrance: it’s home. Top: Aldehyde, RhubarbMiddle: Fir Needle, FrankincenseBottom: Musk, Patchouli, Tobacco, Cedar, Balsam
-  Updated: 2026-03-26T14:19:01Z
+  Updated: 2026-04-03T20:55:46Z
   Vendor: inspired by his album Darling Blue
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/RS_-_Darling_Blue_x_MK_packaging_mockup_V2.jpg?v=1758214345
   Price: $45.00 USD
 - [BURN THE BAGGAGE CANDLE (feat. KELSEA BALLERINI)](https://rangerstation.co/products/candle-8oz-kelsea-ballerini-x-rs): Let your past melt away with every burn. As a part of Ranger Station’s features. Music collaboration collection and Inspired by Kelsea Ballerini’s song “Baggage,” this candle embodies the journey of navigating heartbreak, all the way from emotional release to new beginnings. Fragrance Notes: Tennessee Iris — Tennessee’s state flower brings an unexpected floral note that even those who don’t love floral will enjoy. Orris – the aged root of iris, aging allows compounds to develop, producing a violet-like, woody, and slightly creamy aroma. Sandalwood — warm and grounding, this familiar and steady base note keeps the fragrance balanced from first light to final burn.
-  Updated: 2026-03-27T12:21:05Z
+  Updated: 2026-04-03T19:42:48Z
   Vendor: Tennessee Iris / Orris / Sandalwood / Breaking Patterns
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/RS_-_Burn_the_Baggage_x_KB_candle_-_group_shot_V2.3.jpg?v=1760475837
   Price: $45.00 USD
 - [STUDIO RESERVE – PINE (ANTI-PUMPKIN CAR COLOGNE EDITION)](https://rangerstation.co/products/accessory-car-cologne-3pk-anti-pumpkin): Hit the road with Car Cologne! Your favorite fall scent is now available for the car, so you can bring it with you on every adventure. Anti Pumpkin Car Cologne comes in a 3-Pack to elevate your driving experience and keep you and your car smelling great, no matter where the trail takes you.
-  Updated: 2026-03-25T15:29:53Z
+  Updated: 2026-03-31T14:41:00Z
   Vendor: pine needles / crisp morning air / falling leaves and a hint of petrichor
   Product Type: Car Cologne
   Availability: Available
@@ -1030,7 +1012,7 @@ Poured and packaged by hand in Nashville, TN
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/Screenshot_2026-03-03_at_10.34.38_AM.jpg?v=1772578759
   Price: $141.00 USD
 - [Noah Kahan Vinyl - Stick Season](https://rangerstation.co/products/custom-noah-kahan-vinyl-stick-season)
-  Updated: 2026-03-23T18:03:02Z
+  Updated: 2026-04-03T17:55:43Z
   Vendor: Ranger Station
   Product Type: Accessory
   Availability: Available
@@ -1042,7 +1024,7 @@ Poured and packaged by hand in Nashville, TN
   Availability: Available
   Price: $25.00 USD
 - [Marcus King "Darling Blue" Vinyl](https://rangerstation.co/products/accessory-marcus-king-darling-blue-vinyl)
-  Updated: 2026-03-09T15:52:54Z
+  Updated: 2026-04-03T20:36:57Z
   Vendor: Ranger Station
   Product Type: Accessory
   Availability: Available
@@ -1211,35 +1193,35 @@ Poured and packaged by hand in Nashville, TN
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/Screenshot2026-03-17at12.00.55PM.jpg?v=1773787732
   Price: $10,000.00 USD
 - [LADY LUCK PERFUME](https://rangerstation.co/products/50-ml-lady-luck): smells like: amber / jasmine / cedar / smoke / good fortune Allow us to introduce you to Lady Luck: a scent of quiet confidence and irresistible appeal. Anchored in warm notes of worn cedar wood, serene smoke, and intoxicating amber, Lady Luck strikes a balance between smoky and sweet with the addition of jasmine; she's magnetic, yet understated, but you'll always know where she's been. Inspired in part by customer requests to make a perfume out of our fan favorite Hinoki Rituals candle, Lady Luck is a complex character: whether a lucky whiff signals your arrival to those around you, or they just catch her wafting behind you as you leave, you can be sure that wherever the trail takes you, you'll have luck on your side. You’ll notice mein the air before something changes.In the pause before a door gives.I travel light —a coin in my palm,leather worn soft from being carried.Sometimes I linger in a jacket pocket.Sometimes I move through a room so gentlyyou think the feeling was yours all along.I don’t make promises.I don’t grant wishes.But I leave a trace —a quiet shift in your favor.By the time you notice, I’m gone.That’s how you’ll knowI was here.— Lady Luck
-  Updated: 2026-03-27T05:03:31Z
+  Updated: 2026-04-03T22:11:43Z
   Vendor: amber / jasmine / cedar / smoke / good fortune
   Product Type: Personal Fragrance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-LadyLuck50mlSolo.jpg?v=1770073714
   Price: $94.00 USD
 - [LADY LUCK QUICKDRAW PERFUME](https://rangerstation.co/products/roll-on-lady-luck): Allow us to introduce you to Lady Luck: a scent of quiet confidence and irresistible appeal. Anchored in warm notes of worn cedar wood, serene smoke, and intoxicating amber, Lady Luck strikes a balance between smoky and sweet with the addition of jasmine; she's magnetic, yet understated, but you'll always know where she's been. Inspired in part by customer requests to make a perfume out of our fan favorite Hinoki Rituals candle, Lady Luck is a complex character: whether a lucky whiff signals your arrival to those around you, or they just catch her wafting behind you as you leave, you can be sure that wherever the trail takes you, you'll have luck on your side. You’ll notice mein the air before something changes.In the pause before a door gives.I travel light —a coin in my palm,leather worn soft from being carried.Sometimes I linger in a jacket pocket.Sometimes I move through a room so gentlyyou think the feeling was yours all along.I don’t make promises.I don’t grant wishes.But I leave a trace —a quiet shift in your favor.By the time you notice, I’m gone.That’s how you’ll knowI was here.— Lady Luck
-  Updated: 2026-03-27T13:59:26Z
+  Updated: 2026-04-03T23:47:18Z
   Vendor: amber / jasmine / cedar / smoke / good fortune
   Product Type: Personal Fragrance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24-LadyLuckQuickdrawPerfume-soloMASTER_14df6f02-33f3-489f-a322-0e805bbe3a8f.jpg?v=1770073699
   Price: $39.00 USD
-- [SMOOTH OPERATOR QUICKDRAW PERFUME](https://rangerstation.co/products/roll-on-smooth-operator): He reads the paper, but he drinks Coors. He wears a tailored tux with the same confidence as a Canadian one. He's not materialistic, but he wears a Rolex and he cares what kind of car he drives. He's just as at-home camping in a tent or staying in a 5-star hotel; he's the kind of guy who doesn't need it, but knows he can have it if he wants it. Smooth Operator: he's classic, clean and he's the guy every guy dreams of being.
-  Updated: 2026-03-27T14:12:51Z
+- [SMOOTH OPERATOR QUICKDRAW PERFUME](https://rangerstation.co/products/roll-on-smooth-operator): He reads the paper, but he drinks Coors. He wears a tailored tux with the same confidence as a Canadian one. He's not materialistic, but he wears a Rolex and he cares what kind of car he drives. He's just as at-home camping in a tent or staying in a 5-star hotel; he's the kind of guy who doesn't need it, but knows he can have it if he wants it. Smooth Operator: he's classic, clean and he's the guy every guy dreams of being. TOP: Bergamot, Pepper, EucalyptusMIDDLE: Fir Needle, Jasmine, MossBASE: Amber, Cedarwood, Sandalwood, Musk​​​​​​​​​​​​​​​​
+  Updated: 2026-04-03T23:47:18Z
   Vendor: Magnum 'stache / Classic clean / Trying to pronounce "Fougère"
   Product Type: Personal Fragrance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/10ml.webp?v=1774561426
   Price: $39.00 USD
-- [SMOOTH OPERATOR CANDLE](https://rangerstation.co/products/candle-8oz-smooth-operator): He reads the paper, but he drinks Coors. He wears a tailored tux with the same confidence as a Canadian one. He's not materialistic, but he wears a Rolex and he cares what kind of car he drives. He's just as at-home camping in a tent or staying in a 5-star hotel; he's the kind of guy who doesn't need it, but knows he can have it if he wants it. Smooth Operator: he's classic, clean and he's the guy every guy dreams of being.
-  Updated: 2026-03-27T13:52:22Z
+- [SMOOTH OPERATOR CANDLE](https://rangerstation.co/products/candle-8oz-smooth-operator): He reads the paper, but he drinks Coors. He wears a tailored tux with the same confidence as a Canadian one. He's not materialistic, but he wears a Rolex and he cares what kind of car he drives. He's just as at-home camping in a tent or staying in a 5-star hotel; he's the kind of guy who doesn't need it, but knows he can have it if he wants it. Smooth Operator: he's classic, clean and he's the guy every guy dreams of being. TOP: Bergamot, Pepper, EucalyptusMIDDLE: Fir Needle, Jasmine, MossBASE: Amber, Cedarwood, Sandalwood, Musk​​​​​​​​​​​​​​​​
+  Updated: 2026-04-03T18:19:35Z
   Vendor: Magnum 'stache / Classic clean / Trying to pronounce "Fougère"
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/PDP24_-_Smooth_Operator_Candle_Lit.jpg?v=1774561335
   Price: $39.00 USD
-- [SMOOTH OPERATOR PERFUME](https://rangerstation.co/products/50-ml-smooth-operator): He reads the paper, but he drinks Coors. He wears a tailored tux with the same confidence as a Canadian one. He's not materialistic, but he wears a Rolex and he cares what kind of car he drives. He's just as at-home camping in a tent or staying in a 5-star hotel; he's the kind of guy who doesn't need it, but knows he can have it if he wants it. Smooth Operator: he's classic, clean and he's the guy every guy dreams of being.
-  Updated: 2026-03-27T12:47:43Z
+- [SMOOTH OPERATOR PERFUME](https://rangerstation.co/products/50-ml-smooth-operator): He reads the paper, but he drinks Coors. He wears a tailored tux with the same confidence as a Canadian one. He's not materialistic, but he wears a Rolex and he cares what kind of car he drives. He's just as at-home camping in a tent or staying in a 5-star hotel; he's the kind of guy who doesn't need it, but knows he can have it if he wants it. Smooth Operator: he's classic, clean and he's the guy every guy dreams of being. TOP: Bergamot, Pepper, EucalyptusMIDDLE: Fir Needle, Jasmine, MossBASE: Amber, Cedarwood, Sandalwood, Musk​​​​​​​​​​​​​​​​
+  Updated: 2026-04-03T22:00:23Z
   Vendor: Magnum 'stache / Classic clean / Trying to pronounce "Fougère"
   Product Type: Personal Fragrance
   Availability: Available
@@ -1253,7 +1235,7 @@ Poured and packaged by hand in Nashville, TN
   Image: https://cdn.shopify.com/s/files/1/1174/9088/files/Screenshot_2026-03-03_at_10.34.38_AM_c974a0d4-4284-4352-ba7b-3f9b1021b1c1.jpg?v=1772578774
   Price: $107.00 USD
 - [Build Your Own Bundle - 2 Products](https://rangerstation.co/products/build-your-own-bundle-2-products)
-  Updated: 2026-03-18T19:24:20Z
+  Updated: 2026-03-30T15:03:23Z
   Vendor: RANGER STATION
   Product Type: 
   Availability: Available
@@ -1264,7 +1246,7 @@ Poured and packaged by hand in Nashville, TN
 ## Collections
 
 - [Home page](https://rangerstation.co/collections/frontpage)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 9
 - [Warehouse ](https://rangerstation.co/collections/warehousesale): Help us make some room for new products this year!UP TO 40% OFF. EXTREMELY LIMITED QUANTITIES. *All items are Final . Products are at their very best price, so no additional discounts apply.
   Updated: 2026-03-21T11:04:25Z
@@ -1273,7 +1255,7 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-18T19:23:58Z
   Total Products: 1
 - [Home Fragrance](https://rangerstation.co/collections/home-fragrance): Shop all of our candles!
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 32
 - [Wholesale](https://rangerstation.co/collections/wholesale): Scents are sold in multiples of 4. Minimum order 16. Shipping will be calculated and charged at time of shipment. Choose $5 flat rate shipping at checkout and it will be subtracted from your total shipping. If you would like a tester candle with your order, please let us know in the notes section at checkout! We offer 1 free tester per 16 candles purchased. They are $9 after that. We recommend a tester for each scent as the boxes are held shut with labels.
   Updated: 2026-03-18T19:23:58Z
@@ -1282,16 +1264,16 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-18T19:23:58Z
   Total Products: 0
 - [Subscriptions](https://rangerstation.co/collections/subscriptions): As many candles as you want, whenever you want them. The best part... you get to keep more in your wallet!
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 1
 - [New Candles](https://rangerstation.co/collections/new-candles)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 10
 - [OrderlyEmails - Recommended Products](https://rangerstation.co/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and go into the "Marketing" section of the editor. Note: This collection is "hidden", it is not be visible on your website.
   Updated: 2025-12-11T13:50:45Z
   Total Products: 0
 - [Personal Fragrance](https://rangerstation.co/collections/personal-fragrance)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 38
 - [TRY](https://rangerstation.co/collections/try)
   Updated: 2026-03-18T19:23:58Z
@@ -1300,49 +1282,49 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2025-12-11T13:50:45Z
   Total Products: 7
 - [SHOP ALL](https://rangerstation.co/collections/shop-all-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 185
 - [YOUR CREDIT HAS BEEN APPLIED! JUST CHOOSE A CANDLE BELOW.](https://rangerstation.co/collections/candle-try-at-home)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 12
 - [Personal Fragrance Email](https://rangerstation.co/collections/personal-fragrance-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 18
 - [REED DIFFUSERS](https://rangerstation.co/collections/reed-diffusers)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [Gift With Purchase](https://rangerstation.co/collections/gift-items-1)
   Updated: 2026-03-18T19:23:59Z
   Total Products: 0
 - [Ranger Station Candles](https://rangerstation.co/collections/candles)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 83
 - [For Her](https://rangerstation.co/collections/for-her): A collection of items she is  to love this Valentine's Day!
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 25
 - [For Him](https://rangerstation.co/collections/for-him): A collection of items he is  to love this Valentine's Day!
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 13
 - [Diffusers](https://rangerstation.co/collections/diffusers)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 9
 - [Travel Candles](https://rangerstation.co/collections/travel-candles)
   Updated: 2026-03-18T19:23:59Z
   Total Products: 0
 - [SANTALUM COLLECTION](https://rangerstation.co/collections/santalum)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 10
 - [Winter Warehouse ](https://rangerstation.co/collections/winter-warehouse-): HELP US MAKE SOME ROOM FOR NEW PRODUCTS THIS YEAR!
   Updated: 2026-03-18T19:23:59Z
   Total Products: 5
 - [OAKMOSS COLLECTION](https://rangerstation.co/collections/oakmoss)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [TOBAC + MUSK COLLECTION](https://rangerstation.co/collections/tobac-musk)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [OUD RANCH COLLECTION - RANGER STATION](https://rangerstation.co/collections/oud-ranch-collection): What started with the simple idea to introduce a new scent rooted in our favorite woody, smoky scents like oud wood and palo santo quickly became a much larger vision of a place we can go in our minds whenever this scent is nearby; thus, OUD RANCH was born. We hope you enjoy it as much as we do - welcome to the Ranch.
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 3
 - [Copal](https://rangerstation.co/collections/copal)
   Updated: 2026-03-18T19:23:59Z
@@ -1354,97 +1336,85 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-18T19:23:59Z
   Total Products: 1
 - [Cocktail Candles](https://rangerstation.co/collections/whiskey-glass-candles-1): Candles hand-poured into a reusable cocktail glass, complete with a cocktail recipe to say 'cheers'.
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 44
 - [Travel Candles](https://rangerstation.co/collections/travel-candles-1)
   Updated: 2026-03-18T19:23:59Z
   Total Products: 0
 - [BEST SELLERS](https://rangerstation.co/collections/best-sellers)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 45
 - [ROLL ON](https://rangerstation.co/collections/roll-on)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 30
 - [Fall Collection](https://rangerstation.co/collections/fall-scents): Handpicked scents perfect for any occasion this fall! SCROLL DOWN TO SHOP
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 7
 - [Winter Scents](https://rangerstation.co/collections/winter-scents)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [SUBSCRIBE](https://rangerstation.co/collections/subscribe)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 27
-- [SPO-filter-3f960fec865dab23adfdf47ad0079f8a](https://rangerstation.co/collections/spo-filter-3f960fec865dab23adfdf47ad0079f8a)
-  Updated: 2025-12-11T13:50:47Z
-  Total Products: 0
-- [SPO-filter-cee5b992b0d8b661e96cfd7c427e3b13](https://rangerstation.co/collections/spo-filter-cee5b992b0d8b661e96cfd7c427e3b13)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 180
-- [All Products](https://rangerstation.co/collections/all)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 471
 - [HAND + BODY - RANGER STATION](https://rangerstation.co/collections/hand-body): Personal care products, carefully concocted using our signature scents to clean, refresh and restore hand + body. Always poured + packaged by hand in Nashville, TN.
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 44
 - [everything but hand sanitizer](https://rangerstation.co/collections/everything-but-hand-sanitizer)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 77
 - [City Series](https://rangerstation.co/collections/city-series)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [PERSONAL FRAGRANCE](https://rangerstation.co/collections/spray)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 34
 - [](https://rangerstation.co/collections/)
   Updated: 2026-03-18T19:24:00Z
   Total Products: 1
 - [EVERYTHING NOT ON ](https://rangerstation.co/collections/everything-not-on-)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 217
 - [Hand Sanitizer](https://rangerstation.co/collections/hand-sanitizer)
   Updated: 2026-03-18T19:24:00Z
   Total Products: 3
 - [Hand Wash + Cream](https://rangerstation.co/collections/hand-wash-cream)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 20
 - [UNTITLED](https://rangerstation.co/collections/untitled)
   Updated: 2026-03-18T19:24:00Z
   Total Products: 2
 - [Smell Good at Home](https://rangerstation.co/collections/smell-good-at-home)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 42
 - [WOODLAND ROSE](https://rangerstation.co/collections/woodland-rose-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 15
 - [ROOM + LINEN SPRAY](https://rangerstation.co/collections/room-linen-spray)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 7
 - [Hand Wash & Hand Cream](https://rangerstation.co/collections/hand-wash-hand-cream)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 15
 - [Spring](https://rangerstation.co/collections/spring)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 27
-- [Spring Unisex Perfumes](https://rangerstation.co/collections/spring-unisex-perfumes)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 10
-- [SANDALWOOD + BERGAMOT](https://rangerstation.co/collections/sandalwood-bergamot)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 12
+- [Spring Scents that WOW](https://rangerstation.co/collections/spring-unisex-perfumes)
+  Updated: 2026-04-03T11:04:25Z
+  Total Products: 18
 - [Handpicked for Mom](https://rangerstation.co/collections/handpicked-for-mom)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 34
 - [Graduation Gifts Under $50](https://rangerstation.co/collections/graduation-gifts-under-50)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - [Father's Day Gifts Under $100](https://rangerstation.co/collections/fathers-day-gifts-under-100)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [Gifts for the Bride](https://rangerstation.co/collections/gifts-for-the-bride)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 19
 - [Gifts for the Groom](https://rangerstation.co/collections/gifts-for-the-groom)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 17
 - [Wedding Party Gifts Under $50](https://rangerstation.co/collections/wedding-party-gifts-under-50)
   Updated: 2026-03-18T19:24:01Z
@@ -1453,43 +1423,37 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-18T19:24:01Z
   Total Products: 0
 - [HELLO SUMMER](https://rangerstation.co/collections/hello-summer): OUR TOP PICKS FOR SUMMER 20% site-wide with code 'HELLOSUMMER'
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 28
 - [Add To Cart Test](https://rangerstation.co/collections/add-to-cart-test): window.__shgCategoryInits = window.__shgCategoryInits || new Array(); window.__shgProductInits = window.__shgProductInits || new Array(); window.__shgProductCallbacks = window.__shgProductCallbacks || {}; window.__shgProductComponent = window.__shgProductComponent || {}; window.__shgProductCallbacks["s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8"] = new Array(); window.__shgProductCallbacks["s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8"].push({ cb: "image", data: { uuid: "s-be6a8904-2ad2-4e4f-85e5-2498a7a4e05d", imageOffsetTop: 453, LAZY_LOAD_OFFSET_TOP: 750, LAZY_LOAD_ENABLED: true } }); window.__shgProductCallbacks["s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8"].push({ cb: "title", data: { uuid: "s-ee9189cd-693b-4a77-920e-3697ed14528a" } }); Sold out window.__shgProductCallbacks["s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8"].push({ cb: "price", data: { uuid: "s-f614c445-fab6-4766-a401-0a6e00ff89ae", hasComparePrice: false } }); window.__shgProductCallbacks["s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8"].push({ cb: "reviews", data: { uuid: "s-45fb2e28-8e7d-4182-873c-6c3a2b06b2da", reviewsApiUrl: "https://reviews.getshogun.com", reviewsQueryParams: { platform: "shopify_reviews", site: { external_id: "3caa1ee6-ab05-40fa-8210-54b14624513f", domain: "ranger-station-supply-co.myshopify.com" } }, reviewsPerPage: 3, showCollectionPageStars: true } }); window.__shgProductCallbacks["s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8"].push({ cb: "addToCart", data: { uuid: "s-09848a14-64d1-444b-bfde-f5437048d08d", siteId: "3caa1ee6-ab05-40fa-8210-54b14624513f", pageId: "60b7c980647e3200d1022e90", pageVersionId: "60b7d8bd5a238c00d618593c", parentGroupUuid: "s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8", action: "/cart/add.js", behavior: "stay", buttonText: "Add to Cart", successText: "Added to your cart", soldOutText: "Sold out", unavailableText: "Unavailable" } }); window.__shgProductInits.push({ uuid: "s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8", platform: "shopify", currency: "USD", moneyFormat: {"USD":{"currency":"USD","currency_symbol":"$","currency_symbol_location":"left","decimal_places":2,"decimal_separator":".","thousands_separator":","}}, manual: true }); window.__shgProductCallbacks["s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8"].push({ cb: "box", data: { uuid: "s-943dca1f-30d3-4e9d-a41f-922ea6b1c9b8" } }); window.__shgProductInits = window.__shgProductInits || new Array(); window.__shgProductCallbacks = window.__shgProductCallbacks || {}; window.__shgProductComponent = window.__shgProductComponent || {}; window.__shgProductCallbacks["s-abfff8d0-3771-4c40-990d-4f9dacfc0997"] = new Array(); window.__shgProductCallbacks["s-abfff8d0-3771-4c40-990d-4f9dacfc0997"].push({ cb: "image", data: { uuid: "s-f60824f5-49e4-482d-b59d-9b4ec77744cd", imageOffsetTop: 453, LAZY_LOAD_OFFSET_TOP: 750, LAZY_LOAD_ENABLED: true } }); window.__shgProductCallbacks["s-abfff8d0-3771-4c40-990d-4f9dacfc0997"].push({ cb: "addToCart", data: { uuid: "s-762f603c-52a1-4409-a8ad-28f92d58c208", siteId: "3caa1ee6-ab05-40fa-8210-54b14624513f", pageId: "60b7c980647e3200d1022e90", pageVersionId: "60b7d8bd5a238c00d618593c", parentGroupUuid: "s-abfff8d0-3771-4c40-990d-4f9dacfc0997", action: "/cart/add", behavior: "go", buttonText: "Add to Cart", successText: "Added to your cart", soldOutText: "Sold out", unavailableText: "Unavailable" } }); window.__shgProductCallbacks["s-abfff8d0-3771-4c40-990d-4f9dacfc0997"].push({ cb: "reviews", data: { uuid: "s-a86f65b0-aa6f-49d4-acd0-4f3dcdd3b4b9", reviewsApiUrl: "https://reviews.getshogun.com", reviewsQueryParams: { platform: "shopify_reviews", site: { external_id: "3caa1ee6-ab05-40fa-8210-54b14624513f", domain: "ranger-station-supply-co.myshopify.com" } }, reviewsPerPage: 1, showCollectionPageStars: true } }); window.__shgProductInits.push({ uuid: "s-abfff8d0-3771-4c40-990d-4f9dacfc0997", platform: "shopify", currency: "USD", moneyFormat: {"USD":{"currency":"USD","currency_symbol":"$","currency_symbol_location":"left","decimal_places":2,"decimal_separator":".","thousands_separator":","}}, manual: true }); window.__shgProductCallbacks["s-abfff8d0-3771-4c40-990d-4f9dacfc0997"].push({ cb: "box", data: { uuid: "s-abfff8d0-3771-4c40-990d-4f9dacfc0997" } }); window.__shgCategoryInits.push({ uuid: "s-541d2acc-91a5-48b1-9808-da626f63eb8f", handle: "add-to-cart-test", apiUrl: "https://getshogun.com/api/categories/60b7c95e7fafcd0004fb7a71/products?site_id=3caa1ee6-ab05-40fa-8210-54b14624513f", platform: "shopify", authToken: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzaXRlX2lkIjoiM2NhYTFlZTYtYWIwNS00MGZhLTgyMTAtNTRiMTQ2MjQ1MTNmIiwiY2F0ZWdvcnlfaWQiOiI2MGI3Yzk1ZTdmYWZjZDAwMDRmYjdhNzEifQ.6xXxzmz0jnce-m2kKgBaVwp7JvPcMl05Bp6Io_hSJUg", selectedVariants: JSON.parse("{\"10609454029\":\"31728654483517\",\"803759947837\":\"8235465179197\"}") });
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [Summer 2021](https://rangerstation.co/collections/summer-2021): SCROLL DOWN TO SHOP
   Updated: 2026-03-18T19:24:01Z
   Total Products: 4
 - [Causebox](https://rangerstation.co/collections/causebox): Welcome to the Ranger Station fam! Shop 15% off your first order with code "RSxCausebox". We make nature-inspired fragrances that are handpoured into cocktail glasses. Experience is our first priority - always - which is why we also make personal fragrances, room sprays, and personal care items so you can take the memories that scent instills in you anywhere.
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 33
-- [Shower](https://rangerstation.co/collections/shower)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 19
-- [MAMMOTH CANDLES](https://rangerstation.co/collections/mammoth-candles)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 13
 - [DEALS](https://rangerstation.co/collections/gift-sets)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 26
 - [Fine Fragrance & Personal Care](https://rangerstation.co/collections/fine-fragrance-personal-care)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 79
 - [The Valentine's Day Collection](https://rangerstation.co/collections/valentines-day)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 43
 - [The Sandalwood Collection](https://rangerstation.co/collections/the-sandalwood-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - [Latest creations](https://rangerstation.co/collections/latest-creations)
   Updated: 2026-03-18T19:24:02Z
   Total Products: 5
 - [Explore The Classics](https://rangerstation.co/collections/explore-the-classics)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [Discover your scent](https://rangerstation.co/collections/discover-your-scent)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 5
 - [The Fresh Set](https://rangerstation.co/collections/the-fresh-set): Life is demanding. And with spring just around the corner, we’ve been eagerly anticipating something fresh – to spruce up our homes we’ve been living in through the cold months, to feel rejuvenated from the daily grind, and to inspire us with a fresh perspective amidst the stress that life brings. That’s why we’ve created The Fresh Set – to help you find a moment to breathe amidst the busy, and to usher in the spring season we all eagerly await.
   Updated: 2026-03-18T19:24:02Z
@@ -1498,34 +1462,34 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-18T19:24:02Z
   Total Products: 3
 - [SO WHAT IS THE  WITH PAPPY? WATCH THIS VIDEO TO LEARN MORE.](https://rangerstation.co/collections/so-what-is-the--with-pappy-watch-this-video-to-learn-more)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 5
 - [New Reed Diffusers](https://rangerstation.co/collections/new-reed-diffusers)
   Updated: 2026-03-21T11:04:25Z
   Total Products: 3
 - [Sandalwood + Bergamot Personal Care](https://rangerstation.co/collections/sandalwood-bergamot-personal-care)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 8
 - [Mother's Day](https://rangerstation.co/collections/mothers-day)
   Updated: 2025-12-11T13:50:49Z
   Total Products: 4
 - [Lemon Oil](https://rangerstation.co/collections/lemon-oil)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 21
 - [Cedarwood](https://rangerstation.co/collections/cedarwood)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 44
 - [Jasmine](https://rangerstation.co/collections/jasmine)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 28
 - [Leather + Pine](https://rangerstation.co/collections/leather-pine-2)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 17
 - [Sandalwood](https://rangerstation.co/collections/sandalwood)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 40
 - [Vetiver](https://rangerstation.co/collections/vetiver): What it is: Also called Khus oil, Vetiver oil is extracted from the Vetiver plant, a green grass also in the same family as Lemongrass and Citronella. Where it comes from: India How it benefits you: Calming
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 28
 - [Jake White Prints](https://rangerstation.co/collections/jake-white-prints): Ranger Station, in support of Jake White. 100% of print proceeds will go to Jake and his wife, Morgan, to help with  expenses.
   Updated: 2026-03-18T19:24:03Z
@@ -1533,140 +1497,110 @@ Poured and packaged by hand in Nashville, TN
 - [New Summer Nostalgia Candles](https://rangerstation.co/collections/new-summer-nostalgia-candles): With nostalgic blends of citrus, herb, wood and rose, these limited-edition candles are an ode to summer’s past, and the summer to come.
   Updated: 2026-03-18T19:24:03Z
   Total Products: 6
-- [Best  Products](https://rangerstation.co/collections/best--products)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 491
-- [Newest Products](https://rangerstation.co/collections/newest-products)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 491
 - [Limited-Edition Father's Day Candles](https://rangerstation.co/collections/limited-edition-fathers-day-candles): Cheers to dad with scents (and sips) in our limited-edition 'dad' glasses.
   Updated: 2025-12-11T13:50:50Z
   Total Products: 3
 - [THE TWO TRICK PONY COLLECTION](https://rangerstation.co/collections/two-trick-pony)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [FRESH SCENTS](https://rangerstation.co/collections/fresh-scents): GET 'EM BEFORE THEY'RE GONE ON 7/02/22
   Updated: 2026-03-18T19:24:03Z
   Total Products: 4
 - [Ticalle's Favorites](https://rangerstation.co/collections/ticalles-favorites)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 7
 - [Travel Selects](https://rangerstation.co/collections/summer-travel-selects)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 30
 - [Discovery Sets](https://rangerstation.co/collections/discovery-sets)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [Jim's Favorites](https://rangerstation.co/collections/jims-favorites)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [Sandalwood + Bergamot Family](https://rangerstation.co/collections/sandalwood-bergamot-family)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 11
 - [Two Trick Pony Summer Pairings](https://rangerstation.co/collections/two-trick-pony-pairings)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 15
 - [DISCOVERY SETS](https://rangerstation.co/collections/discovery-sets-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 2
 - [Lacy's Favorites](https://rangerstation.co/collections/lacys-favorites)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 2
 - [Jon's Favorites](https://rangerstation.co/collections/jons-favorites)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
-- [FRESH](https://rangerstation.co/collections/fresh)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 101
-- [FRUIT](https://rangerstation.co/collections/fruit)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 33
-- [AMBER](https://rangerstation.co/collections/amber)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 112
-- [SMOKE](https://rangerstation.co/collections/smoke)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 72
-- [WOOD](https://rangerstation.co/collections/wood)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 104
-- [SPICE](https://rangerstation.co/collections/spice)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 84
-- [CORE](https://rangerstation.co/collections/core)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 68
-- [SEASONAL](https://rangerstation.co/collections/seasonal)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 33
 - [BIRCH BARK](https://rangerstation.co/collections/birch-bark)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-02T11:05:34Z
   Total Products: 4
 - [Sea Salt](https://rangerstation.co/collections/sea-salt)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 6
 - [OLD FASHIONED COLLECTION](https://rangerstation.co/collections/old-fashioned)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [YIPPEE KI-YAY](https://rangerstation.co/collections/yippee-ki-yay)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 7
 - [NASHVILLE COLLECTION](https://rangerstation.co/collections/nashville)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 1
 - [Our Favorite $75+ Combos](https://rangerstation.co/collections/our-favorite-75-combos): Candles with reed diffusers, reed diffusers and linen spray, eau de parfums... here's our list to get you to a FREE Fall Candle Discovery Set
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - [FRESH](https://rangerstation.co/collections/fresh-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 40
 - [WOOD](https://rangerstation.co/collections/wood-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 69
 - [AMBER](https://rangerstation.co/collections/amber-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 28
 - [SPICE](https://rangerstation.co/collections/spice-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 28
 - [FLORAL](https://rangerstation.co/collections/floral)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 23
 - [SMOKE](https://rangerstation.co/collections/smoke-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 29
 - [FRUIT](https://rangerstation.co/collections/fruit-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 29
 - [CORE](https://rangerstation.co/collections/core-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 64
 - [SEASONAL](https://rangerstation.co/collections/seasonal-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 33
 - [WAREHOUSE ](https://rangerstation.co/collections/studio-)
   Updated: 2026-03-17T20:00:37Z
   Total Products: 10
 - [THE FALL CANDLE COLLECTION](https://rangerstation.co/collections/limited-edition-fall-candles)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [FAVES UNDER $49](https://rangerstation.co/collections/ranger-station-under-49)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 52
 - [LIMITED-TIME FESTIVE SCENTS](https://rangerstation.co/collections/holiday-collection-2022)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 14
 - [THE DEFINED DISH FAVES](https://rangerstation.co/collections/alex-snodgrass-defineddish-favorites)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [BALSAM FIR COLLECTION (LIMITED EDITION)](https://rangerstation.co/collections/balsam-fir-hand-body-limited-edition)
   Updated: 2026-03-18T19:24:05Z
   Total Products: 5
 - [LIMITED-EDITION SCENT SUBSCRIPTIONS](https://rangerstation.co/collections/limited-edition-scent-subscriptions)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [THE BIRCH BARK COLLECTION](https://rangerstation.co/collections/the-birch-bark-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 2
 - [COWBOY CHRISTMAS COLLECTION (LIMITED EDITION)](https://rangerstation.co/collections/cowboy-christmas-collection-limited-edition): Heavy amber and montana juniper give classic frankincense a Ranger edge, and we round it out with just a touch of the whiskey we know you’re cracking open once the young’uns go to bed. Break out the eggnog and gather ‘round, y’all: it’s Cowboy Christmas.
   Updated: 2026-03-18T19:24:05Z
@@ -1675,58 +1609,55 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-18T19:24:05Z
   Total Products: 3
 - [THE COWBOY CHRISTMAS COLLECTION](https://rangerstation.co/collections/the-cowboy-christmas-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [THE NORTH POLE COLLECTION](https://rangerstation.co/collections/the-north-pole-collection)
   Updated: 2026-03-18T19:24:05Z
   Total Products: 3
 - [THE BALSAM FIR COLLECTION](https://rangerstation.co/collections/the-balsam-fir-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [Holiday '22 Bundles](https://rangerstation.co/collections/holiday-22-bundles)
   Updated: 2025-12-11T13:50:52Z
   Total Products: 7
 - [SETS](https://rangerstation.co/collections/candle-sets)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 17
 - [100ML PERFUME](https://rangerstation.co/collections/100ml-perfume)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 10
 - [BLACK FRIDAY PICKS FOR HIM](https://rangerstation.co/collections/black-friday-picks-for-him)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 17
 - [BLACK FRIDAY PICKS FOR HER](https://rangerstation.co/collections/black-friday-picks-for-her)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 17
 - [BLACK FRIDAY PICKS FOR YOU](https://rangerstation.co/collections/black-friday-picks-for-you)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - [STOCKING STUFFERS](https://rangerstation.co/collections/stocking-stuffers)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 14
 - [BLACK FRIDAY PICKS FOR THE 'IDK WHAT TO GET' GIFT](https://rangerstation.co/collections/black-friday-picks-for-the-idk-what-to-get-gift)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [LOW STOCK FAVES](https://rangerstation.co/collections/low-stock-faves)
   Updated: 2026-03-18T19:24:06Z
   Total Products: 0
 - [FOUNDER'S FAVORITES](https://rangerstation.co/collections/founders-favorites)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 13
 - [YOUR CYBER MONDAY SHOPPING LIST](https://rangerstation.co/collections/your-cyber-monday-shopping-list)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 5
 - [BLACK FRIDAY TEAM FAVES](https://rangerstation.co/collections/black-friday-team-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 9
-- [Bundle Builder Products](https://rangerstation.co/collections/bundle-builder-products): Products created using Bundle Builder app
-  Updated: 2026-03-03T19:01:21Z
-  Total Products: 7
 - [TRIED-AND-TRUE CANDLES](https://rangerstation.co/collections/tried-and-true-candles)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [Consider the Wldflwrs 2022](https://rangerstation.co/collections/consider-the-wldflwrs-2022)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [RANGER MERCH](https://rangerstation.co/collections/ranger-merch)
   Updated: 2026-03-18T19:24:06Z
@@ -1735,67 +1666,67 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-18T19:24:06Z
   Total Products: 6
 - [JANUARY FAVES](https://rangerstation.co/collections/january-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 5
 - [2023 SCENTS OF THE YEAR](https://rangerstation.co/collections/2022-year-in-review)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 12
 - [FINAL 2022 SCENTS](https://rangerstation.co/collections/final-2022-scents)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [WINTER FAVORITES](https://rangerstation.co/collections/winter-favorites)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 7
 - [NOT A CANDLE](https://rangerstation.co/collections/not-candles)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 100
 - [1/20 SUNSET COLLECTION](https://rangerstation.co/collections/1-20-sunset-collection)
   Updated: 2026-02-19T12:03:26Z
   Total Products: 6
 - [A VALENTINE'S GIFT GUIDE](https://rangerstation.co/collections/a-valentines-gift-guide)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 8
 - [WOODLAND ROSE PERFUME](https://rangerstation.co/collections/woodland-rose-perfume)
-  Updated: 2026-03-26T11:04:30Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [THE WOODLAND ROSE COLLECTION](https://rangerstation.co/collections/the-woodland-rose-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 15
 - [WINTER FAVES](https://rangerstation.co/collections/winter-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 5
 - [VALENTINE'S DAY SECRET MENU](https://rangerstation.co/collections/valentines-day-secret-menu)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 3
 - [ALEX + CLAYTON'S VALENTINE'S FAVES](https://rangerstation.co/collections/alex-claytons-valentine-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 10
 - [VALENTINE'S FRAGRANCE FAVES](https://rangerstation.co/collections/valentines-fragrance-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 16
 - [CHRIS + CORTNEY'S VALENTINE FAVES](https://rangerstation.co/collections/chris-cortneys-valentine-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - [JORDAN + STEVE'S VALENTINE'S COLLECTION](https://rangerstation.co/collections/jordan-steves-valentines-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 18
 - [3 SCENTS FOR SELF LOVE](https://rangerstation.co/collections/3-scents-for-self-love): CALM YOUR MIND WITH THE FLORAL NOTES OF HINOKI RITUALS, CLEANSE YOUR SPACE WITH THE CITRUS OF OAKMOSS, AND ENERGIZE YOUR SPIRIT WITH THE WOODS OF SANTALUM.
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [SEA SALT COLLECTION](https://rangerstation.co/collections/sea-salt-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 15
 - [HIGH HORSE COLLECTION](https://rangerstation.co/collections/high-horse-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 5
 - [HIGH HORSE PERFUME](https://rangerstation.co/collections/high-horse-perfume)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [CORT'S FAVE SCENTS](https://rangerstation.co/collections/corts-fave-scents)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [CORT'S MOTHER'S DAY FAVES](https://rangerstation.co/collections/corts-mothers-day-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 10
 - [ELLIE'S MOTHER'S DAY FAVES](https://rangerstation.co/collections/ellies-mothers-day-faves)
   Updated: 2025-12-11T13:50:54Z
@@ -1803,216 +1734,267 @@ Poured and packaged by hand in Nashville, TN
 - [No ](https://rangerstation.co/collections/no-)
   Updated: 2026-03-18T19:24:07Z
   Total Products: 2
-- [Items on ](https://rangerstation.co/collections/items-on-)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 137
-- [Non- items](https://rangerstation.co/collections/non--items)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 491
 - [SODERHOME SETS](https://rangerstation.co/collections/soderhome-sets)
   Updated: 2026-03-18T19:24:07Z
   Total Products: 2
 - [ELLIE'S MOTHER'S DAY FAVES](https://rangerstation.co/collections/ellies-mothers-day-faves-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [JULIE'S MOTHER'S DAY FAVES](https://rangerstation.co/collections/julies-mothers-day-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 7
 - [Studio Reserve](https://rangerstation.co/collections/studio-reserve)
-  Updated: 2026-03-18T19:24:07Z
+  Updated: 2026-03-31T21:45:07Z
   Total Products: 5
 - [RANGER STATION MOTHER'S DAY FAVES](https://rangerstation.co/collections/ranger-station-mothers-day-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 7
 - [MOTHER'S DAY FAVES](https://rangerstation.co/collections/mothers-day-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 14
 - [THE SUPERBLOOM COLLECTION](https://rangerstation.co/collections/the-superbloom-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 2
 - [GIFTING PICKS](https://rangerstation.co/collections/gifting-picks)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 15
 - [THE FATHER'S DAY COLLECTION](https://rangerstation.co/collections/the-fathers-day-collection)
-  Updated: 2025-12-11T13:50:55Z
+  Updated: 2026-03-31T21:45:07Z
   Total Products: 4
 - [JULIE'S FATHER'S DAY FAVES](https://rangerstation.co/collections/julies-father-day-faves)
   Updated: 2026-03-18T19:24:07Z
   Total Products: 1
 - [CORT'S FATHER'S DAY FAVES](https://rangerstation.co/collections/corts-fathers-day-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [SUMMER'S FATHER'S DAY FAVES](https://rangerstation.co/collections/summers-fathers-day-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 7
 - [SUMMER SCENT COLLECTION](https://rangerstation.co/collections/summer-scent-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 16
 - [features.](https://rangerstation.co/collections/features)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 11
 - [CORT'S ANNIVERSARY FAVES – USE CODE "CHEESEGAL"](https://rangerstation.co/collections/corts-anniversary-faves)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 14
 - [ANNIVERSARY SPECIAL EDITION COLLECTION](https://rangerstation.co/collections/anniversary-special-edition-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 6
 - [ANNIVERSARY BEST SELLERS – USE CODE "CHEERS25"](https://rangerstation.co/collections/anniversary-best-sellers)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 13
 - [THE LEATHER + PINE COLLECTION](https://rangerstation.co/collections/the-leather-pine-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 10
 - [CORT'S FALL FAVES – USE CODE 'CHEESEGAL'](https://rangerstation.co/collections/corts-fall-faves-use-code-cheesegal)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
 - [THE FALL COLLECTION](https://rangerstation.co/collections/the-fall-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [THE DARK (feat. THE BAND CAMINO)](https://rangerstation.co/collections/band-camino)
   Updated: 2026-03-18T19:24:08Z
   Total Products: 2
 - [THE HOLIDAY COLLECTION](https://rangerstation.co/collections/the-holiday-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [QUICKDRAW PERFUME](https://rangerstation.co/collections/quickdraw-perfume)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 18
 - [SAY GOODBYE TO HOLIDAY '23](https://rangerstation.co/collections/holiday-23)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 15
 - [COWBOY CHRISTMAS AT HOME](https://rangerstation.co/collections/cowboy-christmas-at-home)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 13
 - [CORT'S HOLIDAY FAVES – USE CODE 'CHEESEGAL'](https://rangerstation.co/collections/corts-holiday-faves-use-code-cheesegal)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-01T11:04:43Z
   Total Products: 8
-- [Trending Black Friday Scents](https://rangerstation.co/collections/bfcm-best-sellers)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 26
 - [Last Chance Seasonal Scents](https://rangerstation.co/collections/last-chance-seasonal-scents)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 12
 - [Porter's Call](https://rangerstation.co/collections/porters-call)
   Updated: 2026-03-18T19:24:08Z
   Total Products: 1
 - [Daisy & Cowboy | A Perfume Collection by Lauren Akins](https://rangerstation.co/collections/daisy-cowboy)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 6
 - [Best Gifts Under $50](https://rangerstation.co/collections/best-gifts-under-50)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 38
 - [DAISY + COWBOY | A PERFUME COLLECTION BY LAUREN AKINS](https://rangerstation.co/collections/daisy-cowboy-a-perfume-collection-by-lauren-akins)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 6
 - [Tecovas Residency](https://rangerstation.co/collections/tecovas-residency)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 12
 - [Last-Minute Gifts](https://rangerstation.co/collections/last-minute-gifts)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - [Warehouse  2025](https://rangerstation.co/collections/warehouse--2024)
   Updated: 2026-03-17T20:00:37Z
   Total Products: 10
 - [SPEAK EASY PERFUME COLLECTION](https://rangerstation.co/collections/speak-easy-perfume-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 3
 - [Scents For Spring](https://rangerstation.co/collections/scents-for-spring)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 19
-- [Gifts Under $100](https://rangerstation.co/collections/gifts-under-100)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 457
-- [Gifts Over $125](https://rangerstation.co/collections/gifts-over-125)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 43
-- [Ranger Station Perfume Collection](https://rangerstation.co/collections/ranger-station-perfume-collection)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 48
 - [Jordan's Perfume](https://rangerstation.co/collections/jordans-perfume)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 2
 - [PARACHUTE](https://rangerstation.co/collections/parachute): Pop-up 5/11/2024
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 13
 - [1992 (feat. ERNEST) Collection](https://rangerstation.co/collections/1992-collection)
   Updated: 2026-03-18T19:24:09Z
   Total Products: 2
-- [Deep & Woodsy Notes](https://rangerstation.co/collections/deep-woodsy-notes)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 54
 - [Fathers Day 2024](https://rangerstation.co/collections/fathers-day-2024)
-  Updated: 2026-03-27T11:05:55Z
-  Total Products: 10
-- [New Arrivals](https://rangerstation.co/collections/new-arrivals)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 10
 - [TRENDING SUMMER SCENTS](https://rangerstation.co/collections/trending-summer-scents)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 13
 - [CAR COLOGNE](https://rangerstation.co/collections/car-cologne)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 4
-- [BLUE SKIES (feat. COLONY HOUSE)](https://rangerstation.co/collections/blue-skies-feat-colony-house)
-  Updated: 2026-03-18T19:24:09Z
-  Total Products: 2
 - [Bark Ranger Collection](https://rangerstation.co/collections/bark-ranger-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 4
 - [Smells like Fall, Actually](https://rangerstation.co/collections/smells-like-fall-actually)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - ["HARD WORKING HANDS" HAND + BODY COLLECTION](https://rangerstation.co/collections/hard-working-hands-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 5
 - [Loyalty 2X Points Collection](https://rangerstation.co/collections/loyalty-2x-points-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 14
 - [So Long Summer Scents](https://rangerstation.co/collections/so-long-summer-scents)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [Fall Favorites Collection](https://rangerstation.co/collections/fall-favorites-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 21
 - [THE STICK SEASON COLLECTION (Noah Kahan x Ranger Station)](https://rangerstation.co/collections/the-stick-season-feat-noah-kahan-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [GET AHEAD ON GIFTING COLLECTION: HOLIDAY '24](https://rangerstation.co/collections/get-ahead-on-gifting-collection-holiday-24)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 8
 - [THE SAINT NICK'S PIPE COLLECTION](https://rangerstation.co/collections/the-saint-nicks-pipe-collection)
   Updated: 2026-03-18T19:24:10Z
   Total Products: 2
 - [GIVING TUESDAY COLLECTION](https://rangerstation.co/collections/giving-tuesday-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 15
 - [Holiday Collection](https://rangerstation.co/collections/holiday-collection)
   Updated: 2026-03-19T21:20:39Z
   Total Products: 5
 - [Valentine's Scents](https://rangerstation.co/collections/valentines-scents)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 6
 - [SPEAK EASY COLLECTION](https://rangerstation.co/collections/speak-easy-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 3
 - [BEST SELLERS DISCOVERY SET COLLECTION](https://rangerstation.co/collections/best-sellers-discovery-set-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 12
 - [NEW FAVORITES DISCOVERY SET COLLECTION](https://rangerstation.co/collections/new-favorites-discovery-set-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 12
 - [OAKMOSS COLLECTION](https://rangerstation.co/collections/oak-moss-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 6
 - [YIPPEE-KI-YAY COLLECTION](https://rangerstation.co/collections/yippee-ki-yay-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:25Z
   Total Products: 3
 - [SPEAK EASY COLLECTION](https://rangerstation.co/collections/speak-easy-collection-1)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 4
 - [GIFT SET COLLECTION](https://rangerstation.co/collections/gift-set-collection)
-  Updated: 2026-03-27T11:05:55Z
+  Updated: 2026-04-03T11:04:27Z
   Total Products: 4
+- [HOSS ((feat. WAYLON JENNINGS)](https://rangerstation.co/collections/hoss-feat-waylon-jennings)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 2
+- [BODY CARE - RANGER STATION](https://rangerstation.co/collections/body-care): Brand new + improved Body Care formulas that work hard, so that you can leave dust on the trail where it belongs - use our Shampoo, Body Wash + Conditioner for an all-around clean at the end of every adventure.
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 3
+- [HAND + BODY COLLECTION](https://rangerstation.co/collections/hand-body-collection)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 4
+- [Oud Ranch + Birch Bark](https://rangerstation.co/collections/oud-ranch-birch-bark)
+  Updated: 2026-04-02T11:05:34Z
+  Total Products: 2
+- [Jordan's Mother's Day Favorites](https://rangerstation.co/collections/jordans-mothers-day-favorites)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 10
+- [RANGER STATION x NĒMAH](https://rangerstation.co/collections/ranger-station-x-nemah): Shop our exclusive collection from the Nēmah x Shopify pop-up in NYC, May 2-4 2025.
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 12
+- [Subscription Collection](https://rangerstation.co/collections/subscription-collection): Subscribe to one of your favorite candles or sign up for our Seasonal Candle Club and be surprised with a monthly candle, selected by us here at Ranger Station.
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 32
+- [NYC Favorites](https://rangerstation.co/collections/nyc-favorites)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 33
+- [Seasonal Favorites](https://rangerstation.co/collections/seasonal-favorites)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 22
+- [RICH 90s DAD](https://rangerstation.co/collections/rich-90s-dad)
+  Updated: 2026-03-31T21:45:07Z
+  Total Products: 2
+- [RICH 90S DAD COLLECTION](https://rangerstation.co/collections/rich-90s-dad-1)
+  Updated: 2026-03-31T21:45:07Z
+  Total Products: 2
+- [Steve's Father's Day Favorites](https://rangerstation.co/collections/steves-fathers-day-favorites)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 26
+- [OUR ROUTINE](https://rangerstation.co/collections/our-routine)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 23
+- [Hostess Gifts](https://rangerstation.co/collections/made-in-u-s-a)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 21
+- [Landlocked Surfer Hotline](https://rangerstation.co/collections/landlocked-surfer-hotline)
+  Updated: 2026-03-18T19:24:11Z
+  Total Products: 2
+- [Landlocked Surfer Hotline Collection](https://rangerstation.co/collections/landlocked-surfer-hotline-collection)
+  Updated: 2026-03-18T19:24:11Z
+  Total Products: 3
+- [Cowboy + Daisy Quickdraw Collection](https://rangerstation.co/collections/cowboy-daisy-quickdraw-collection)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 2
+- [Ranger Station Discovery Sets](https://rangerstation.co/collections/ranger-station-discovery-sets)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 2
+- [Summer Collection](https://rangerstation.co/collections/summer-collection)
+  Updated: 2026-03-23T20:52:24Z
+  Total Products: 4
+- [Discovery Sets](https://rangerstation.co/collections/discovery-sets-2)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 2
+- [Core Collection](https://rangerstation.co/collections/core-collection)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 21
+- [NEW ARRIVALS FOR FALL](https://rangerstation.co/collections/new-arrivals-for-fall)
+  Updated: 2026-04-03T11:04:25Z
+  Total Products: 3
+- [Anti-Pumpkin Spice Candle Club](https://rangerstation.co/collections/anti-pumpkin-spice-candle-club)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 6
+- [HOLIDAY HOSTING COLLECTION](https://rangerstation.co/collections/holiday-hosting-collection)
+  Updated: 2026-04-03T11:04:27Z
+  Total Products: 17
+- [HOLIDAY GIFT WITH PURCHASE](https://rangerstation.co/collections/holiday-gift-with-purchase)
+  Updated: 2026-03-18T19:24:12Z
+  Total Products: 3
+- [GIFT SET RELATED COLLECTION](https://rangerstation.co/collections/gift-set-related-collection)
+  Updated: 2026-03-18T19:24:12Z
+  Total Products: 5
 
 ## Store Pages
 
@@ -2274,6 +2256,8 @@ Poured and packaged by hand in Nashville, TN
   Updated: 2026-03-23T16:24:22Z
 - [VPAT® 2.5 Accessibility Conformance Report (ACR) Ranger Station Website](https://rangerstation.co/pages/vpat-2-5-accessibility-conformance-report-acr-ranger-station-website): VPAT® 2.5 Accessibility Conformance Report (ACR) Ranger Station Website Product Information Product Name: Ranger Station E-Commerce Website Product...
   Updated: 2026-03-25T21:55:27Z
+- [Ranger Station Press Page](https://rangerstation.co/pages/ranger-station-press-page)
+  Updated: 2026-04-02T15:45:36Z
 
 ## Policies
 
