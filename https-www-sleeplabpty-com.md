@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-02-05T14:37:51Z
 - Contact Email: informacionsleeplab@gmail.com
-- Updated At: 2026-03-28T00:00:27.903Z
+- Updated At: 2026-04-04T00:00:32.419Z
 
 ## Products
 
@@ -134,7 +134,7 @@
     Availability: Available
     Price: 559,99 $ USD
 - [Colchón Híbrido Harmony Maui Plush Pillow Top para Confort](https://www.sleeplabpty.com/products/harmony-maui-plush-pillow-top): Duerme con lujo con el colchón híbrido Harmony Maui Plush Pillow Top. Confort acolchado, alivio de presión, reducción de movimiento y soporte fresco.
-  Updated: 2026-03-19T07:31:51Z
+  Updated: 2026-04-01T07:41:21Z
   Vendor: Sleeplab
   Product Type: 
   Availability: Available
@@ -218,7 +218,7 @@
     Availability: Available
     Price: 1199,99 $ USD
 - [Colchón Híbrido Harmony Lux Ocean Reef Plush Pillow Top](https://www.sleeplabpty.com/products/lux-hybrid-ocean-reef-plush-pillow-top): Experimenta lujo con el colchón Harmony Lux Ocean Reef Plush. Confort acolchado, alivio de presión, soporte fresco y reducción de movimiento para dormir.
-  Updated: 2026-03-19T07:33:56Z
+  Updated: 2026-03-30T22:12:26Z
   Vendor: Sleeplab
   Product Type: 
   Availability: Available
@@ -257,7 +257,7 @@
     Availability: Available
     Price: 999,99 $ USD
 - [Colchón Híbrido Harmony Maui Med Pillow Top para Confort](https://www.sleeplabpty.com/products/maui-med-pillow-top): Duerme equilibradamente con el colchón Harmony Maui Med Pillow Top. Soporte medio-firme, espumas con gel y reducción de movimiento para noches frescas.
-  Updated: 2026-03-19T07:35:29Z
+  Updated: 2026-03-30T22:11:12Z
   Vendor: Sleeplab
   Product Type: 
   Availability: Available
@@ -278,7 +278,7 @@
     Availability: Available
     Price: 1389,99 $ USD
 - [Colchón Híbrido Harmony Maui FRM Tight Top para Soporte](https://www.sleeplabpty.com/products/maui-frm-tight-top): Duerme firme y equilibrado con el colchón Harmony Maui FRM Tight Top. Espumas de alta densidad, resortes encapsulados y diseño fresco para dormir reparador.
-  Updated: 2026-03-19T07:36:16Z
+  Updated: 2026-03-30T22:11:49Z
   Vendor: Sleeplab
   Product Type: 
   Availability: Available
@@ -349,17 +349,11 @@
   - [Twin](https://www.sleeplabpty.com/products/protector-simmons-ultra-fresh?variant=43274941431867)
     Availability: Available
     Price: 67,00 $ USD
-- [prueba](https://www.sleeplabpty.com/products/prueba)
-  Updated: 2026-03-26T14:00:57Z
-  Vendor: Sleeplab
-  Product Type: 
-  Availability: Available
-  Price: 1,00 $ USD
 
 ## Collections
 
 - [Colección de Colchones | Colchones SleepLab Premium](https://www.sleeplabpty.com/collections/colchon): Colección de colchones SleepLab con opciones premium híbridas, pillow top y soporte firme para cada estilo de sueño. Confort y calidad que te encantarán siempre
-  Updated: 2026-03-26T22:08:31Z
+  Updated: 2026-03-28T18:39:31Z
   Total Products: 19
 - [Colección de bases de cama | Soporte premium SleepLab](https://www.sleeplabpty.com/collections/bases-de-cama): Explora la colección de bases de cama SleepLab, ajustables y clásicas, diseñadas para ofrecer soporte confiable y mejorar el rendimiento y comodidad del colchón
   Updated: 2026-03-19T06:27:12Z
@@ -368,16 +362,16 @@
   Updated: 2026-03-19T06:27:45Z
   Total Products: 3
 - [Más vendidos | Colchones y productos de sueño SleepLab](https://www.sleeplabpty.com/collections/los-mas-vendidos): Colección de más vendidos de SleepLab con colchones, bases y accesorios mejor valorados, seleccionados por su confort, calidad y satisfacción del cliente.
-  Updated: 2026-03-26T22:07:53Z
+  Updated: 2026-03-28T18:39:31Z
   Total Products: 8
 - [Novedades | Últimos Colchones y Ropa de Cama SleepLab](https://www.sleeplabpty.com/collections/novedades): Descubre los productos más recientes de SleepLab: colchones premium, bases y accesorios para dormir. Innovaciones para un mejor confort y descanso.
-  Updated: 2026-03-26T22:08:31Z
+  Updated: 2026-03-28T18:39:15Z
   Total Products: 14
 - [Colchones Serta | Confort Premium en SleepLab Panamá](https://www.sleeplabpty.com/collections/serta): Colchones Serta en SleepLab Panamá. Soluciones de sueño de alta calidad con soporte avanzado, funciones de enfriamiento y confort para cada descanso.
   Updated: 2026-03-26T22:08:31Z
   Total Products: 13
 - [Colchones Simmons | Selección Premium SleepLab Panamá](https://www.sleeplabpty.com/collections/simmons): Colchones Simmons en SleepLab Panamá. Disfruta de confort, soporte y durabilidad de alta calidad con diseños confiables para un sueño reparador cada noche.
-  Updated: 2026-03-19T06:29:47Z
+  Updated: 2026-03-28T18:39:31Z
   Total Products: 5
 - [Bases de Cama Serta | Soporte y Confort SleepLab Panamá](https://www.sleeplabpty.com/collections/bases-serta): Bases para colchones Serta en SleepLab Panamá. Encuentra bases confiables y de soporte, diseñadas para mejorar el rendimiento del colchón y tu sueño.
   Updated: 2026-03-19T06:30:16Z
@@ -389,44 +383,47 @@
   Updated: 2026-03-19T06:31:13Z
   Total Products: 1
 - [Colecciones de colchones SleepLab | Sueño premium](https://www.sleeplabpty.com/collections/collection): Descubre las colecciones de colchones SleepLab. Alta calidad, comodidad y soporte para una experiencia de sueño más reparadora y placentera.
-  Updated: 2026-03-26T22:08:31Z
+  Updated: 2026-03-28T18:39:31Z
   Total Products: 19
 - [Tamaños de colchones y camas | Guía SleepLab](https://www.sleeplabpty.com/collections/size): Explora la colección de colchones y camas SleepLab. Opciones Twin, Queen, King y más, adaptadas a tu espacio y necesidades de sueño con calidad y confort.
-  Updated: 2026-03-26T22:08:31Z
+  Updated: 2026-03-28T18:39:31Z
   Total Products: 20
 - [Marcas de Colchones y Camas | Selección SleepLab Panamá](https://www.sleeplabpty.com/collections/marca): Explora la colección de marcas de SleepLab Panamá, con las principales marcas de colchones y bases. Comodidad, calidad y soporte para tu descanso.
   Updated: 2026-03-26T22:08:31Z
   Total Products: 10
 - [Opciones de Firmeza de Colchones | Guía SleepLab Panamá](https://www.sleeplabpty.com/collections/firmeza): Explora la colección de firmeza de colchones SleepLab. Opciones suaves, medias y firmes, adaptadas a tu estilo de sueño para confort y mejor descanso.
-  Updated: 2026-03-26T22:08:31Z
+  Updated: 2026-03-28T18:39:31Z
   Total Products: 13
 - [Tipos de Colchones | Guía de Colección SleepLab Panamá](https://www.sleeplabpty.com/collections/tipo): Explora la colección de tipos de colchones SleepLab: híbridos, pillow top, tight top y más, diseñados para brindar comodidad, soporte y mejor descanso.
-  Updated: 2026-03-26T22:08:31Z
+  Updated: 2026-03-28T18:39:31Z
   Total Products: 22
 - [Protectores de colchón | Fundas impermeables SleepLab](https://www.sleeplabpty.com/collections/protector-de-colchon): Protege tu colchón con fundas impermeables SleepLab. Evita derrames, polvo y alérgenos, manteniendo comodidad y prolongando la vida útil del colchón.
   Updated: 2026-03-19T06:36:09Z
   Total Products: 2
 - [Accesorios de Sueño | Almohadas, Protectores y Ropa de Cama](https://www.sleeplabpty.com/collections/accesorios): Colección de accesorios SleepLab Panamá con almohadas, protectores y artículos de cama para mejorar comodidad y soporte y lograr tu mejor descanso.
-  Updated: 2026-03-19T06:36:37Z
-  Total Products: 5
+  Updated: 2026-03-28T21:48:58Z
+  Total Products: 8
 - [Colección de Almohadas | Selección de Confort SleepLab Panamá](https://www.sleeplabpty.com/collections/almohadas): Encuentra almohadas premium en SleepLab Panamá. Opciones suaves y de soporte para mejorar comodidad, alineación y ayudarte a dormir más descansado.
   Updated: 2026-03-19T06:37:06Z
   Total Products: 1
 - [Colección de Toallas | Toallas Suaves y Absorbentes](https://www.sleeplabpty.com/collections/toallas): Toallas de alta calidad en SleepLab Panamá. Suaves, absorbentes y duraderas, perfectas para baño, spa o invitados, brindando comodidad prolongada.
-  Updated: 2026-03-19T06:37:33Z
-  Total Products: 2
+  Updated: 2026-03-28T21:48:58Z
+  Total Products: 4
+- [Sabanas para Cama - Sleeplab](https://www.sleeplabpty.com/collections/sabanas): Descubre nuestra colección de sábanas en Sleeplab. Calidad y confort para tu descanso.
+  Updated: 2026-03-28T21:48:29Z
+  Total Products: 1
 
 ## Blogs
 
 - [Blog SleepLab Panamá: Consejos de sueño y colchones](https://www.sleeplabpty.com/blogs/news): Lee el blog de SleepLab Panamá para consejos sobre sueño, guías de colchones, tips de comodidad y noticias que te ayudarán a mejorar tu descanso.
   - [¿Cada cuánto cambiar un colchón? Señales que no debes ignorar](https://www.sleeplabpty.com/blogs/news/cada-cuanto-cambiar-un-colchon-senales-que-no-debes-ignorar)
-    Updated: 2026-03-21T13:25:58Z
+    Updated: 2026-04-02T08:33:31Z
     Author: Sway Ecom
   - [Colchón firme vs. colchón suave: ¿cuál es mejor para tu espalda?](https://www.sleeplabpty.com/blogs/news/colchon-firme-vs-colchon-suave-cual-es-mejor-para-tu-espalda)
-    Updated: 2026-03-21T13:30:29Z
+    Updated: 2026-04-02T08:33:35Z
     Author: Sway Ecom
   - [Guía definitiva para comprar tu cama completa (colchón + base + almohada) en Panamá](https://www.sleeplabpty.com/blogs/news/guia-definitiva-para-comprar-tu-cama-completa-colchon-base-almohada-en-panama)
-    Updated: 2026-03-21T13:30:58Z
+    Updated: 2026-04-03T11:13:23Z
     Author: Sway Ecom
 
 ## Store Pages
