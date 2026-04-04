@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-10T10:50:54Z
 - Contact Email: cvpcreations.ce@gmail.com
-- Updated At: 2026-03-27T00:00:31.761Z
+- Updated At: 2026-04-04T00:00:34.056Z
 
 ## Products
 
 - [Personalized Photo Light Lamp - Custom Gift | CVP Creations](https://cvpcreations.com/products/personalized-photo-light-lamp-home-gift-decor): Turn your favourite memories into a beautiful glowing decor piece 💡 Perfect for bedrooms, living rooms, kids' rooms. Unique personalized gift idea.
-  Updated: 2026-03-18T11:15:06Z
+  Updated: 2026-03-29T07:43:05Z
   Vendor: CVP Creations
   Product Type: 
   Availability: Available
@@ -182,7 +182,7 @@
 ## Collections
 
 - [Home page](https://cvpcreations.com/collections/frontpage)
-  Updated: 2026-03-18T11:28:47Z
+  Updated: 2026-03-29T11:29:24Z
   Total Products: 1
 - [Other example products](https://cvpcreations.com/collections/other-example-products)
   Updated: 2026-02-20T13:31:32Z
@@ -209,7 +209,7 @@
   Updated: 2026-03-18T11:13:34Z
   Total Products: 0
 - [Best Sellers](https://cvpcreations.com/collections/best-sellers)
-  Updated: 2026-03-18T11:28:47Z
+  Updated: 2026-03-29T11:29:24Z
   Total Products: 9
 - [New Arrivals](https://cvpcreations.com/collections/new-arrivals)
   Updated: 2026-03-18T11:13:42Z
@@ -347,7 +347,7 @@
   Updated: 2026-03-16T11:30:52Z
   Total Products: 5
 - [Custom Home Decor](https://cvpcreations.com/collections/custom-home-decor)
-  Updated: 2026-03-18T11:28:47Z
+  Updated: 2026-03-29T11:29:24Z
   Total Products: 6
 - [Personalized Anniversary Gifts - Custom & Handmade - CVP Creations](https://cvpcreations.com/collections/birthday-gifts): Find unique personalized anniversary gifts including custom 3D printed items and handcrafted keepsakes. Celebrate your special milestone with CVP Creations.
   Updated: 2026-03-18T10:47:18Z
@@ -400,11 +400,34 @@
 - [Badge Collection - Custom Button Badges & Pins | CVP Creations](https://cvpcreations.com/collections/badge-collection): Shop our premium badge collection featuring custom button badges and pins. High-quality designs, durable construction, perfect for gifts and personal expression.
   Updated: 2026-03-17T11:27:17Z
   Total Products: 2
+- [Wholesale & Bulk Personalized Gifts – CVP Creations](https://cvpcreations.com/collections/wholesale-bulk-orders): Order personalized gifts and 3D printed products in bulk at wholesale prices. Explore CVP Creations' wholesale collection.
+  Updated: 2026-03-30T09:54:35Z
+  Total Products: 0
+- [Wholesale Personalized Gifts Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-personalized-gifts): Order personalized gifts in bulk at wholesale prices. Packs of 10, 25, 50, 100. Corporate & event gifting specialists.
+  Updated: 2026-03-30T11:12:29Z
+  Total Products: 0
+- [Wholesale 3D Printed Products Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-3d-printed-products): Order 3D printed products in bulk at wholesale prices. Keychains, figurines, decor & more. Packs of 10, 25, 50, 100.
+  Updated: 2026-03-30T11:14:34Z
+  Total Products: 0
+- [Wholesale Stickers Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-stickers): Order stickers in bulk at wholesale prices. Vinyl, custom, wedding, kids & more. Packs of 10, 25, 50, 100.
+  Updated: 2026-03-30T11:14:52Z
+  Total Products: 0
+- [Wholesale Craft Blanks Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-craft-blanks): Order craft blanks in bulk at wholesale prices. MDF, acrylic, wooden, leather & more. Packs of 10, 25, 50, 100.
+  Updated: 2026-03-30T11:15:12Z
+  Total Products: 0
+- [Wholesale Corporate Gifts Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-corporate-gifts): Order corporate gifts in bulk at wholesale prices. Branded merchandise, badges, accessories & more. Packs of 10, 25, 50, 100.
+  Updated: 2026-03-30T11:15:35Z
+  Total Products: 0
+- [Wholesale Home Decor Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-home-decor-others): Order home decor & spiritual items in bulk at wholesale prices. Epoxy resin, decor, accessories & more. Packs of 10, 25, 50, 100.
+  Updated: 2026-03-30T11:16:10Z
+  Total Products: 0
 
 ## Store Pages
 
 - [Contact](https://cvpcreations.com/pages/contact)
   Updated: 2026-02-10T10:50:58Z
+- [CVP Enterprises – Wholesale & Bulk Orders](https://cvpcreations.com/pages/wholesale): Welcome to CVP Enterprises WholesaleWe offer special pricing on bulk and wholesale orders for personalized gifts, 3D printed products, stickers, cr...
+  Updated: 2026-03-30T11:19:27Z
 
 ## Policies
 
