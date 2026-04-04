@@ -9,33 +9,33 @@
 - Created At: 2025-04-03T14:53:17Z
 - Contact Email: clientcare@bluegreenmagic.com
 - Contact Phone: 1(800) 525-7768
-- Updated At: 2026-03-28T00:00:41.926Z
+- Updated At: 2026-04-04T00:00:50.876Z
 
 ## Products
 
 - [Encaps Carpet Cleaning Chemical - 1 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps): Explore Bluegreen Magic Encaps, our premium encapsulating carpet cleaning chemical, risk free. Love it or your money back.* Free shipping on orders over $400.
-  Updated: 2026-03-27T03:59:11Z
+  Updated: 2026-04-03T12:34:58Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/encaps-gallon-mockup.png?v=1747248031
   Price: $65.00 USD
 - [Spot & Blot Aerosol Spot Stain Remover | Bluegreen Magic](https://bluegreenmagic.com/products/spot-blot-stain-remover): Purchase Spot & Blot Aerosol Spot Stain Remover today. Fast delivery, shipping is FREE on orders over $400. Shop Bluegreen Magic.
-  Updated: 2026-03-19T18:17:43Z
+  Updated: 2026-04-03T12:34:58Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/Mockup.png?v=1746714210
   Price: $10.00 USD
 - [Newscents Premium Carpet Deodorizer 1-6 Qt | Bluegreen Magic](https://bluegreenmagic.com/products/newscents-carpet-deodorizer): Purchase Newscents Premium Carpet Deodorizer today. Fast delivery, shipping is FREE on orders over $400. Shop Bluegreen Magic.
-  Updated: 2026-03-25T21:02:51Z
+  Updated: 2026-03-31T23:31:18Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/newscents-quart-mockup_42a03fe6-7fff-409f-83a7-48e6b8bb00e8.png?v=1746714249
   Price: $25.00 USD
 - [Sole' Premium Nylon/Olefin Solution](https://bluegreenmagic.com/products/sole): Sole' is a high-performance carpet cleaning solution specially formulated for solution-dyed nylon and Olefin fibers. With a powerful pH of 11.5, it tackles tough soils and oily residues with ease. To ensure fiber safety, always follow with Neutrex Premium Neutralizing Agent to restore proper pH balance and leave carpets fresh and clean.
-  Updated: 2026-02-24T17:57:35Z
+  Updated: 2026-03-31T23:31:19Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Boost-It Premium Boosting Agent](https://bluegreenmagic.com/products/boost-it): Boost-It is a powerful carpet cleaning booster designed to supercharge the performance of Sole' for extreme restoration jobs. Formulated for use on heavily soiled carpets, Boost-It helps break through stubborn grease, grime, and embedded soils without compromising carpet safety. When mixed with Sole', it delivers aggressive cleaning action while remaining fiber-safe, making it the perfect solution for restoring even the most neglected carpets to a clean, fresh state.
-  Updated: 2026-02-24T17:57:41Z
+  Updated: 2026-03-31T23:31:19Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $36.00 USD
 - [Neutrex Premium Neutralizing Agent](https://bluegreenmagic.com/products/neutrex): Neutrex Premium Neutralizing Agent sets a new standard for professional cleaning, delivering powerful results with a pH of 2.50. Safe for all fiber types, it leaves carpets and upholstery soft, fresh, and residue-free. Neutrex captures soils and minerals for a deeper, longer-lasting clean while preventing sticky residues and re-soiling. Add Neutrex to your restorative carpet cleaning jobs for unmatched results. Residue free formula leaves carpet soft and refreshed, while preventing sticky residues and re-soiling. Works on all fiber types Safe to use with all carpet equipment, preventing negative effects on truck mounts, portables, etc.
-  Updated: 2026-02-24T17:57:40Z
+  Updated: 2026-03-31T23:31:19Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Available
     Price: $36.00 USD
 - [6.6 Premium Nylon Solution](https://bluegreenmagic.com/products/6-6): 6.6 Premium Nylon Solution is specially engineered for cleaning today's advanced 6.6 nylon carpet fibers. Based on the proven formula of our popular Encaps product, this water-extracted version features our Premium Crystallization Technology, delivering deep soil removal and superior encapsulation performance. Designed for hot water extraction systems, 6.6 Premium Nylon Solution lifts and traps soils while leaving carpets clean, residue-free, and resistant to rapid re-soiling—perfect for maintaining the beauty and performance of high-end nylon carpets.
-  Updated: 2026-02-13T19:18:53Z
+  Updated: 2026-03-31T23:31:20Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Availability: Available
     Price: $36.00 USD
 - [Salt-Out Premium Salt Removal Solution](https://bluegreenmagic.com/products/salt-out): Salt-Out Premium Salt Removal Solution is a powerful acid-based pre-spray specifically designed to break down and remove stubborn salt deposits from carpet. Ideal for winter restoration and de-icing salt cleanup, Salt-Out effectively dissolves salt crystals and prevents long-term fiber damage. Must always be rinsed thoroughly with Neutrex Premium Neutralizing Agent, ensuring a clean, safe finish without residue.
-  Updated: 2026-02-13T19:18:53Z
+  Updated: 2026-03-31T23:31:20Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Premium Carpet Defoaming Solution](https://bluegreenmagic.com/products/defoamer): Premium Carpet Defoaming Solution quickly eliminates foam buildup in carpet extraction systems, ensuring maximum vacuum efficiency and preventing equipment damage. Easy to use and highly effective, it keeps your cleaning process smooth and helps produce quality results.
-  Updated: 2026-02-13T19:18:53Z
+  Updated: 2026-03-31T23:31:20Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -107,14 +107,14 @@
     Availability: Available
     Price: $36.00 USD
 - [Encaps 8oz Sample](https://bluegreenmagic.com/products/encaps-8oz-sample): A powerful, professional-grade low moisture carpet cleaner meant to lift stains and soiling, and leaving carpet refreshed and like new. Encaps is the best in the industry with premium crystallization qualities, and a residue free result. All soil is removed during next vacuum. Try adding Newscents to give a refreshing scent to your carpet cleaning job! Premium crystallization technology bonds to soil and prevents it from reattaching to the carpet Does not require hot water extraction, improving efficiency Dries quickly Easy to vacuum Watch it work: Sorry, your browser doesn't support embedded videos.
-  Updated: 2026-03-27T03:59:11Z
+  Updated: 2026-04-03T03:46:13Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/8oz-sample-encaps.png?v=1747152496
   Price: $10.00 USD
 - [Starter Pack](https://bluegreenmagic.com/products/starter-pack): Starter Pack Bundle – Deep Clean Essentials The Starter Pack Bundle combines two powerhouse products trusted by professionals and homeowners alike: Encaps Premium Drycleaning Carpet Solution – Our flagship low-moisture premium crystallization formula that lifts dirt, neutralizes stains, and leaves carpets looking revitalized with no sticky residue. Spot & Blot Aerosol Spot Remover – A fast-acting aerosol designed to tackle tough spots and spills on contact. Just spray, blot, and watch stains disappear. Whether you're refreshing high-traffic areas or handling unexpected messes, this dynamic combo gives you everything you need for a cleaner, fresher space—right from the start.
-  Updated: 2026-03-19T18:17:56Z
+  Updated: 2026-04-03T12:35:13Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -127,14 +127,14 @@
   Availability: Available
   Price: $23.75 USD
 - [Encaps -  Premium Encapsulation Carpet Cleaner 4 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps-4-gal): Purchase Encaps Premium Carpet Cleaner in bulk today. Fast delivery, orders over $400 get FREE shipping. Shop Bluegreen Magic today.
-  Updated: 2026-03-10T17:45:41Z
+  Updated: 2026-04-03T12:35:09Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/encaps-gallon-mockup.png?v=1747248031
   Price: $250.00 USD
 - [Spot & Blot Aerosol Spot Stain Remover - Case of 12 | Bluegreen Magic](https://bluegreenmagic.com/products/spot-blot-12-case): Purchase Spot & Blot Aerosol Spot Stain Remover in bulk today. Fast delivery, shipping is FREE on orders over $400. Shop Bluegreen Magic.
-  Updated: 2026-03-19T18:17:58Z
+  Updated: 2026-04-03T12:35:13Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -144,10 +144,10 @@
 ## Collections
 
 - [Carpet Cleaning Chemicals](https://bluegreenmagic.com/collections/carpet-cleaning-chemicals): Explore Bluegreen Magic carpet cleaning chemicals made for professionals. Our top of the line products our  to leave carpet clean and refreshed.*
-  Updated: 2026-03-26T11:31:53Z
+  Updated: 2026-03-31T23:31:18Z
   Total Products: 13
 - [Starter Packs & Samples](https://bluegreenmagic.com/collections/starter-packs-samples)
-  Updated: 2026-03-19T11:35:36Z
+  Updated: 2026-03-31T23:31:18Z
   Total Products: 2
 
 ## Blogs
