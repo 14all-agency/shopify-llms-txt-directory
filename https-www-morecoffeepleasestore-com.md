@@ -1,44 +1,22 @@
-# GLOW (https://www.morecoffeepleasestore.com)
+# More Coffee Please  (https://www.morecoffeepleasestore.com)
 
-> GLOW is a premium specialty beverage brand built for those who take their cup seriously. We offer a carefully curated collection of loose-leaf teas and single origin specialty coffees — each one sourced from the world's most celebrated growing regions and selected for its exceptional quality, traceability and flavor.
-Our Teas We believe tea is more than a drink — it's a ritual. Our tea collection spans the full spectrum of the world's finest traditions:
-Hojicha — a rare Japanese roasted green tea with toasty cereal notes and a naturally low caffeine content, perfect for any time of day
-Matcha — ceremonial grade, stone-milled Japanese green tea bursting with antioxidants and a smooth, earthy depth
-Jasmine — delicate Chinese green tea hand-scented with fresh jasmine blossoms, light and floral
-Moroccan Mint — a refreshing caffeine-free blend of green tea and spearmint, inspired by North African tea culture
-Earl Grey — a classic bergamot-infused black tea, bold, aromatic and timeless
-English Breakfast — a full-bodied, malty black tea blend built for mornings that mean business
-Masala Chai — a warming spiced black tea with cardamom, ginger, cinnamon and clove, straight from Indian tradition
-Hibiscus Berry Tea — a vibrant caffeine-free herbal blend of hibiscus and sweet berries, rich in antioxidants
-Apple Cider Rooibos — a cozy South African rooibos with crisp apple cider notes, naturally caffeine-free
-Mango Treat — a tropical caffeine-free herbal tea with juicy, sun-ripened mango flavor
-Peach Paradise — a sweet, fruity herbal blend with the taste of fresh peaches, perfect hot or iced
-Our Coffees Every coffee at GLOW tells the story of its origin. Our single origin arabica beans are sourced directly from the world's most celebrated coffee-growing regions — no blends, no shortcuts:
-Ethiopia Natural — naturally processed with extraordinary complexity; blueberry, jasmine and a wine-like finish
-Bali Blue — a rare Indonesian arabica from the highlands of Bali, earthy and herbal with a smooth, full body
-Colombia — a classic South American arabica with caramel sweetness, red fruit and smooth milk chocolate
-Costa Rica — bright and clean with honey sweetness and crisp citrus acidity, a true specialty standout
-Guatemala — bold and complex with dark chocolate, warm spice and a bright citrus finish
-Honduras — rich and full-bodied with deep dark chocolate and brown sugar notes
-Mexico — smooth and balanced with nuts, cocoa and a gentle citrus brightness
-Nicaragua — well-balanced with bright acidity, caramel sweetness and a clean, lingering finish
-Brazil Santos — a low-acidity classic with nuts, chocolate and caramel; the perfect espresso base
-Our Promise At GLOW, every product is chosen with intention. We work with producers who share our commitment to quality, sustainability and transparency. No fillers, no compromises — just pure, premium beverages that make every sip count.
-We ship to Greece, Cyprus, Europe and the USA.
+> More Coffee Please is a premium specialty beverage retailer serving customers across Europe, the United States, and select international destinations. The brand curates a focused catalog of single origin coffees and artisan loose-leaf teas, sourced directly from renowned growing regions — from the highlands of Ethiopia, Colombia, and Guatemala to the tea gardens of Japan and Morocco.
+Every coffee is traceable to its origin, available in five sizes (12oz to 12LB) and four grind options (Espresso, Standard, Coarse, Whole Bean), making it suitable for home brewers and wholesale buyers alike. The tea range spans ceremonial matcha, Moroccan mint, hojicha, masala chai, hibiscus blends, and more — covering green, black, herbal, and rooibos varieties.
+More Coffee Please stands for transparency, craftsmanship, and intentional consumption — no mass-market blends, no shortcuts. Just honest, exceptional beverages with a clear origin story behind every cup.
+Website: www.morecoffeepleasestore.com Contact: infoglownewyork@gmail.com Currency: EUR Shipping: Europe, USA, and select international destinations
 
 - Domain: https://www.morecoffeepleasestore.com
 - Locale: en
 - Currency: EUR
 - Timezone: Europe/Athens
 - Created At: 2026-02-15T13:02:04Z
-- Contact Email: infoglownewyork@gmail.com
-- Updated At: 2026-03-28T00:00:32.121Z
+- Updated At: 2026-04-05T00:00:35.127Z
 
 ## Products
 
-- [Bali Blue Single Origin Coffee – Indonesian Arabica | GLOW](https://www.morecoffeepleasestore.com/products/bali-blue): Bali Blue single-origin coffee from Indonesia — earthy, full-bodied, low acidity. Wet-hulled for bold depth. Shop GLOW.
-  Updated: 2026-03-27T21:59:51Z
-  Vendor: GLOW
+- [Bali Blue Single Origin Coffee – Indonesian Arabica | More Coffee Please](https://www.morecoffeepleasestore.com/products/bali-blue): Bali Blue single-origin coffee from Indonesia — earthy, full-bodied, low acidity. Wet-hulled for bold depth. Shop More Coffee Please .
+  Updated: 2026-03-29T04:55:51Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag.jpg?v=1774359827
@@ -102,9 +80,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/bali-blue?variant=57141187674460)
     Availability: Available
     Price: €160.00 EUR
-- [Brazil Santos Coffee – Smooth Single Origin Arabica | GLOW](https://www.morecoffeepleasestore.com/products/brazil-santos): Brazil Santos single-origin coffee — smooth, naturally sweet, with chocolate and nut notes. Low acidity, medium roast. Shop GLOW.
-  Updated: 2026-03-27T21:59:31Z
-  Vendor: GLOW
+- [Brazil Santos Coffee – Smooth Single Origin Arabica | More Coffee Please](https://www.morecoffeepleasestore.com/products/brazil-santos): Brazil Santos single-origin coffee — smooth, naturally sweet, with chocolate and nut notes. Low acidity, medium roast. Shop More Coffee Please .
+  Updated: 2026-03-29T04:55:21Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_8aaccac6-656b-41dc-aa76-4bc37101066c.jpg?v=1774360457
@@ -168,9 +146,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/brazil-santos?variant=57141236531548)
     Availability: Available
     Price: €160.00 EUR
-- [Colombia Single Origin Coffee – Andean Arabica Beans | GLOW](https://www.morecoffeepleasestore.com/products/colombia): Colombian single-origin coffee — bright, balanced, with caramel and red fruit notes. Washed process, medium roast. Shop GLOW.
-  Updated: 2026-03-27T21:59:14Z
-  Vendor: GLOW
+- [Colombia Single Origin Coffee – Andean Arabica Beans | More Coffee Please](https://www.morecoffeepleasestore.com/products/colombia): Colombian single-origin coffee — bright, balanced, with caramel and red fruit notes. Washed process, medium roast. Shop More Coffee Please .
+  Updated: 2026-03-29T04:54:23Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_5742ae47-fcee-4f2d-b21e-98add6a5f349.jpg?v=1774360467
@@ -234,9 +212,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/colombia?variant=57141237940572)
     Availability: Available
     Price: €160.00 EUR
-- [Costa Rica Single Origin Coffee – Premium Arabica | GLOW](https://www.morecoffeepleasestore.com/products/costa-rica): Costa Rica single-origin coffee — clean, bright, with honey and stone fruit notes. Volcanic terroir, exceptional quality. Shop GLOW.
-  Updated: 2026-03-27T21:58:55Z
-  Vendor: GLOW
+- [Costa Rica Single Origin Coffee – Premium Arabica | More Coffee Please](https://www.morecoffeepleasestore.com/products/costa-rica): Costa Rica single-origin coffee — clean, bright, with honey and stone fruit notes. Volcanic terroir, exceptional quality. Shop More Coffee Please .
+  Updated: 2026-03-29T04:53:18Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_68bca5ca-effe-4c7a-b67f-24060aa0a01a.jpg?v=1774360473
@@ -300,9 +278,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/costa-rica?variant=57141239120220)
     Availability: Available
     Price: €160.00 EUR
-- [Ethiopia Natural Coffee – Fruity Single Origin Arabica | GLOW](https://www.morecoffeepleasestore.com/products/ethiopia-natural): Ethiopia Natural single-origin coffee — blueberry, jasmine, and tropical fruit notes. Sun-dried, light roast, extraordinary complexity. Shop GLOW.
-  Updated: 2026-03-27T21:58:30Z
-  Vendor: GLOW
+- [Ethiopia Natural Coffee – Fruity Single Origin Arabica | More Coffee Please](https://www.morecoffeepleasestore.com/products/ethiopia-natural): Ethiopia Natural single-origin coffee — blueberry, jasmine, and tropical fruit notes. Sun-dried, light roast, extraordinary complexity. Shop More Coffee Please .
+  Updated: 2026-03-29T04:52:13Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_e5d099d2-190c-4d92-a2fa-36ef9492b6c9.jpg?v=1774360480
@@ -366,9 +344,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/ethiopia-natural?variant=57141240267100)
     Availability: Available
     Price: €160.00 EUR
-- [Guatemala Single Origin Coffee – Volcanic Arabica Beans | GLOW](https://www.morecoffeepleasestore.com/products/guatemala): Guatemala single-origin coffee — rich, full-bodied with dark chocolate and brown sugar notes. Volcanic terroir, washed process. Shop GLOW.
-  Updated: 2026-03-27T21:57:56Z
-  Vendor: GLOW
+- [Guatemala Single Origin Coffee – Volcanic Arabica Beans | More Coffee Please](https://www.morecoffeepleasestore.com/products/guatemala): Guatemala single-origin coffee — rich, full-bodied with dark chocolate and brown sugar notes. Volcanic terroir, washed process. Shop More Coffee Please .
+  Updated: 2026-03-29T04:51:35Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_49cfd899-121d-4e54-8ff0-5d3ea3eb34e7.jpg?v=1774360512
@@ -419,7 +397,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €160.00 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/guatemala?variant=57141242921308)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/guatemala?variant=57141242954076)
     Availability: Available
     Price: €31.99 EUR
@@ -431,10 +409,10 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/guatemala?variant=57141243052380)
     Availability: Available
-    Price: €165.99 EUR
-- [Mexico Single Origin Coffee – Chiapas Arabica Beans | GLOW](https://www.morecoffeepleasestore.com/products/mexico): Mexico single-origin coffee from Chiapas — smooth, sweet, with chocolate and almond notes. Shade-grown, washed process. Shop GLOW.
-  Updated: 2026-03-27T21:57:31Z
-  Vendor: GLOW
+    Price: €160.00 EUR
+- [Mexico Single Origin Coffee – Chiapas Arabica Beans | More Coffee Please](https://www.morecoffeepleasestore.com/products/mexico): Mexico single-origin coffee from Chiapas — smooth, sweet, with chocolate and almond notes. Shade-grown, washed process. Shop More Coffee Please .
+  Updated: 2026-03-29T04:50:58Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_041823ce-42b4-4e80-b647-07a57bb9006e.jpg?v=1774360545
@@ -498,9 +476,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/mexico?variant=57141245837660)
     Availability: Available
     Price: €160.00 EUR
-- [Honduras Single Origin Coffee – Highland Arabica Beans | GLOW](https://www.morecoffeepleasestore.com/products/honduras): Honduras single-origin coffee — sweet, balanced, with peach and caramel notes. High-altitude, washed process. A hidden gem. Shop GLOW.
-  Updated: 2026-03-27T21:57:09Z
-  Vendor: GLOW
+- [Honduras Single Origin Coffee – Highland Arabica Beans | More Coffee Please](https://www.morecoffeepleasestore.com/products/honduras): Honduras single-origin coffee — sweet, balanced, with peach and caramel notes. High-altitude, washed process. A hidden gem. Shop More Coffee Please .
+  Updated: 2026-03-29T04:50:20Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_639ea7fc-4b47-4b66-b081-7825e3818732.jpg?v=1774360554
@@ -564,9 +542,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/honduras?variant=57141247148380)
     Availability: Available
     Price: €160.00 EUR
-- [Nicaragua Single Origin Coffee – Highland Arabica Beans | GLOW](https://www.morecoffeepleasestore.com/products/nicaragua): Nicaragua single-origin coffee — smooth, sweet, with brown sugar and hazelnut notes. Shade-grown, washed process. Shop GLOW.
-  Updated: 2026-03-27T21:56:41Z
-  Vendor: GLOW
+- [Nicaragua Single Origin Coffee – Highland Arabica Beans | More Coffee Please](https://www.morecoffeepleasestore.com/products/nicaragua): Nicaragua single-origin coffee — smooth, sweet, with brown sugar and hazelnut notes. Shade-grown, washed process. Shop More Coffee Please .
+  Updated: 2026-03-29T04:49:39Z
+  Vendor: More Coffee Please
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_703a7aa3-6c81-44da-a138-3a7ffb469b46.jpg?v=1774360566
@@ -630,86 +608,86 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/nicaragua?variant=57141248688476)
     Availability: Available
     Price: €160.00 EUR
-- [Matcha Green Tea Powder – Ceremonial Grade | GLOW](https://www.morecoffeepleasestore.com/products/matcha): Premium ceremonial matcha — smooth, antioxidant-rich, and vegan. Calm, focused energy without the crash. Shop GLOW.
-  Updated: 2026-03-27T22:19:30Z
-  Vendor: GLOW
+- [Matcha Green Tea Powder – Ceremonial Grade | More Coffee Please](https://www.morecoffeepleasestore.com/products/matcha): Premium ceremonial matcha — smooth, antioxidant-rich, and vegan. Calm, focused energy without the crash. Shop More Coffee Please .
+  Updated: 2026-03-29T04:49:07Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest.jpg?v=1774362261
   Price: €30.00 EUR
-- [Jasmine Green Tea – Floral Scented Loose Leaf Blend | GLOW](https://www.morecoffeepleasestore.com/products/jasmine): Delicate jasmine green tea naturally scented with real jasmine blossoms. Vegan, calming, and beautifully fragrant. Shop GLOW.
-  Updated: 2026-03-27T22:16:08Z
-  Vendor: GLOW
+- [Jasmine Green Tea – Floral Scented Loose Leaf Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/jasmine): Delicate jasmine green tea naturally scented with real jasmine blossoms. Vegan, calming, and beautifully fragrant. Shop More Coffee Please .
+  Updated: 2026-03-29T04:48:30Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_719968b6-f5d3-437f-9d08-9fa5f939db5e.jpg?v=1774362293
   Price: €25.00 EUR
-- [Masala Chai Tea – Authentic Spiced Indian Blend | GLOW](https://www.morecoffeepleasestore.com/products/masala-chai): Authentic masala chai with real warming spices — vegan, natural, and perfect as a latte. Bold, aromatic, comforting. Shop GLOW.
-  Updated: 2026-03-27T22:15:50Z
-  Vendor: GLOW
+- [Masala Chai Tea – Authentic Spiced Indian Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/masala-chai): Authentic masala chai with real warming spices — vegan, natural, and perfect as a latte. Bold, aromatic, comforting. Shop More Coffee Please .
+  Updated: 2026-03-29T04:47:49Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_e5242c25-81d5-4954-bb24-3ad3b6c9ad40.jpg?v=1774362300
   Price: €25.00 EUR
-- [English Breakfast Tea – Bold Black Tea Blend | GLOW](https://www.morecoffeepleasestore.com/products/english-breakfast): Rich, malty English Breakfast black tea — vegan, natural, and energizing. The bold morning brew you deserve. Shop GLOW.
-  Updated: 2026-03-27T22:15:11Z
-  Vendor: GLOW
+- [English Breakfast Tea – Bold Black Tea Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/english-breakfast): Rich, malty English Breakfast black tea — vegan, natural, and energizing. The bold morning brew you deserve. Shop More Coffee Please .
+  Updated: 2026-03-29T04:47:03Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_d052c0b8-9496-4de5-b65f-c98b1c18366d.jpg?v=1774362305
   Price: €25.00 EUR
-- [Peach Paradise Herbal Tea – Fruity Caffeine-Free Blend | GLOW](https://www.morecoffeepleasestore.com/products/peach-paradise): Sweet peach herbal tea — naturally flavored, caffeine-free, and vegan. Delicious hot or iced. Your fruity escape. Shop GLOW.
-  Updated: 2026-03-27T22:14:50Z
-  Vendor: GLOW
+- [Peach Paradise Herbal Tea – Fruity Caffeine-Free Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/peach-paradise): Sweet peach herbal tea — naturally flavored, caffeine-free, and vegan. Delicious hot or iced. Your fruity escape. Shop More Coffee Please .
+  Updated: 2026-03-29T04:46:17Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_2741be8e-aa31-4d95-a359-b246349e4b47.jpg?v=1774362312
   Price: €25.00 EUR
-- [Mango Treat Herbal Tea – Tropical Fruit Blend | GLOW](https://www.morecoffeepleasestore.com/products/mango-treat): Juicy mango herbal tea — naturally flavored, vegan, and caffeine-free. A tropical treat hot or iced. Shop GLOW.
-  Updated: 2026-03-27T22:14:31Z
-  Vendor: GLOW
+- [Mango Treat Herbal Tea – Tropical Fruit Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/mango-treat): Juicy mango herbal tea — naturally flavored, vegan, and caffeine-free. A tropical treat hot or iced. Shop More Coffee Please.
+  Updated: 2026-03-29T04:57:42Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_5e5365c3-6faa-46a6-8cea-406d0b7d58e1.jpg?v=1774362317
   Price: €25.00 EUR
-- [Apple Cider Rooibos Tea – Caffeine-Free Herbal Blend | GLOW](https://www.morecoffeepleasestore.com/products/apple-cider-rooibos): Cozy apple cider rooibos tea — naturally caffeine-free, antioxidant-rich, and vegan. Warm, fruity, and clean. Shop GLOW.
-  Updated: 2026-03-27T22:14:03Z
-  Vendor: GLOW
+- [Apple Cider Rooibos Tea – Caffeine-Free Herbal Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/apple-cider-rooibos): Cozy apple cider rooibos tea — naturally caffeine-free, antioxidant-rich, and vegan. Warm, fruity, and clean. Shop More Coffee Please .
+  Updated: 2026-03-29T04:44:25Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_905ae4b1-d1fa-4474-8083-bfa07abf7723.jpg?v=1774362322
   Price: €25.00 EUR
-- [Hibiscus Berry Tea – Antioxidant Herbal Blend | GLOW](https://www.morecoffeepleasestore.com/products/hibiscus-berry-tea): Caffeine-free hibiscus berry tea packed with antioxidants and natural flavor. Vegan, clean, and vibrant. Shop GLOW.
-  Updated: 2026-03-27T22:13:41Z
-  Vendor: GLOW
+- [Hibiscus Berry Tea – Antioxidant Herbal Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/hibiscus-berry-tea): Caffeine-free hibiscus berry tea packed with antioxidants and natural flavor. Vegan, clean, and vibrant. Shop More Coffee Please .
+  Updated: 2026-03-29T04:41:32Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_572aa9cd-f10f-462d-8570-e9520da5db93.jpg?v=1774362329
   Price: €25.00 EUR
-- [Earl Grey Tea – Classic Bergamot Black Tea | GLOW](https://www.morecoffeepleasestore.com/products/earl-grey): Premium Earl Grey tea with natural bergamot — aromatic, smooth, and vegan. The timeless classic, elevated. Shop GLOW.
-  Updated: 2026-03-27T22:12:51Z
-  Vendor: GLOW
+- [Earl Grey Tea – Classic Bergamot Black Tea | More Coffee Please](https://www.morecoffeepleasestore.com/products/earl-grey): Premium Earl Grey tea with natural bergamot — aromatic, smooth, and vegan. The timeless classic, elevated. Shop More Coffee Please .
+  Updated: 2026-03-29T04:40:25Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_eacab3d0-61aa-448d-983b-457827b0cdf0.jpg?v=1774362335
   Price: €25.00 EUR
-- [Moroccan Mint Tea – Caffeine-Free Herbal Blend | GLOW](https://www.morecoffeepleasestore.com/products/moroccan-mint): Crisp, cooling Moroccan mint tea — caffeine-free, vegan, and naturally digestive. Hot or iced, it's pure refreshment. Shop GLOW.
-  Updated: 2026-03-27T22:12:15Z
-  Vendor: GLOW
+- [Moroccan Mint Tea – Caffeine-Free Herbal Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/moroccan-mint): Crisp, cooling Moroccan mint tea — caffeine-free, vegan, and naturally digestive. Hot or iced, it's pure refreshment. Shop More Coffee Please .
+  Updated: 2026-03-29T04:39:37Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_decb786e-ffdd-40d5-8e05-e23ac20b7dac.jpg?v=1774362342
   Price: €25.00 EUR
-- [Hojicha Roasted Japanese Green Tea – GLOW](https://www.morecoffeepleasestore.com/products/hojicha): Low-caffeine Japanese hojicha with a smooth, roasted flavor. Vegan, natural, and perfect for evenings. Shop GLOW.
-  Updated: 2026-03-27T22:11:47Z
-  Vendor: GLOW
+- [Hojicha Roasted Japanese Green Tea – More Coffee Please](https://www.morecoffeepleasestore.com/products/hojicha): Low-caffeine Japanese hojicha with a smooth, roasted flavor. Vegan, natural, and perfect for evenings. Shop More Coffee Please .
+  Updated: 2026-03-29T04:38:59Z
+  Vendor: More Coffee Please
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/kraft_blank_final_latest_9913a855-b836-4c58-a94c-901a8842a7bd.jpg?v=1774362348
   Price: €25.00 EUR
-- [Candy Cane Coffee – Peppermint Flavored Coffee Blend | GLOW](https://www.morecoffeepleasestore.com/products/candy-cane): Candy cane peppermint flavored coffee — cool, refreshing, and naturally flavored. Vegan-friendly and festively delicious all year. Shop GLOW.
-  Updated: 2026-03-27T21:54:37Z
-  Vendor: GLOW
+- [Candy Cane Coffee – Peppermint Flavored Coffee Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/candy-cane): Candy cane peppermint flavored coffee — cool, refreshing, and naturally flavored. Vegan-friendly and festively delicious all year. Shop More Coffee Please .
+  Updated: 2026-03-29T04:38:14Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_69e39a24-3c59-4d01-918f-199642cd9742.jpg?v=1774372848
@@ -764,9 +742,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/candy-cane?variant=57144003658076)
     Availability: Available
     Price: €89.99 EUR
-- [French Vanilla Coffee – Creamy Smooth Flavored Blend | GLOW](https://www.morecoffeepleasestore.com/products/french-vanilla): French vanilla flavored coffee — silky, creamy, and naturally sweet. Vegan-friendly and perfect as a latte. Elegant simplicity. Shop GLOW.
-  Updated: 2026-03-27T21:54:07Z
-  Vendor: GLOW
+- [French Vanilla Coffee – Creamy Smooth Flavored Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/french-vanilla): French vanilla flavored coffee — silky, creamy, and naturally sweet. Vegan-friendly and perfect as a latte. Elegant simplicity. Shop More Coffee Please .
+  Updated: 2026-03-29T04:37:01Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_c242a88c-3897-4af3-9f18-4224fc9b28b0.jpg?v=1774372855
@@ -830,9 +808,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/french-vanilla?variant=57144004870492)
     Availability: Available
     Price: €160.00 EUR
-- [Hazelnut Flavored Coffee – Smooth Nutty Coffee Blend | GLOW](https://www.morecoffeepleasestore.com/products/hazelnut): Hazelnut flavored coffee with warm, toasty nut notes. Naturally flavored, vegan-friendly, and smooth. The timeless classic. Shop GLOW.
-  Updated: 2026-03-27T21:53:51Z
-  Vendor: GLOW
+- [Hazelnut Flavored Coffee – Smooth Nutty Coffee Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/hazelnut): Hazelnut flavored coffee with warm, toasty nut notes. Naturally flavored, vegan-friendly, and smooth. The timeless classic. Shop More Coffee Please .
+  Updated: 2026-03-29T04:36:17Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_835f6456-381c-406b-b4d1-d20d28f1ee31.jpg?v=1774372860
@@ -896,9 +874,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/hazelnut?variant=57144005853532)
     Availability: Available
     Price: €160.00 EUR
-- [Chocolate Hazelnut Coffee – Nutty Dessert Blend | GLOW](https://www.morecoffeepleasestore.com/products/chocolate-hazelnut): Chocolate hazelnut flavored coffee — rich dark chocolate meets toasted hazelnut. Naturally flavored, vegan-friendly, deeply indulgent. Shop GLOW.
-  Updated: 2026-03-27T21:53:30Z
-  Vendor: GLOW
+- [Chocolate Hazelnut Coffee – Nutty Dessert Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/chocolate-hazelnut): Chocolate hazelnut flavored coffee — rich dark chocolate meets toasted hazelnut. Naturally flavored, vegan-friendly, deeply indulgent. Shop More Coffee Please .
+  Updated: 2026-03-29T04:35:10Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_c191830e-2e4f-4c57-beb9-9d67ba11cdec.jpg?v=1774372876
@@ -962,9 +940,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/chocolate-hazelnut?variant=57144008769884)
     Availability: Available
     Price: €160.00 EUR
-- [Caramel Flavored Coffee – Smooth Sweet Coffee Blend | GLOW](https://www.morecoffeepleasestore.com/products/caramel): Caramel flavored coffee with rich, buttery sweetness. Naturally flavored, vegan-friendly, and perfect as a latte. The timeless classic. Shop GLOW.
-  Updated: 2026-03-27T21:53:09Z
-  Vendor: GLOW
+- [Caramel Flavored Coffee – Smooth Sweet Coffee Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/caramel): Caramel flavored coffee with rich, buttery sweetness. Naturally flavored, vegan-friendly, and perfect as a latte. The timeless classic. Shop More Coffee Please .
+  Updated: 2026-03-29T04:34:30Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_8000e87c-3a07-4525-8499-24f68a8ed330.jpg?v=1774372885
@@ -1028,9 +1006,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/caramel?variant=57144010047836)
     Availability: Available
     Price: €160.00 EUR
-- [Pumpkin Spice Flavored Coffee – Autumn Spice Blend | GLOW](https://www.morecoffeepleasestore.com/products/pumpkin-spice): Pumpkin spice flavored coffee with cinnamon, nutmeg, and clove notes. Naturally flavored, vegan-friendly, cozy all year round. Shop GLOW.
-  Updated: 2026-03-27T21:52:51Z
-  Vendor: GLOW
+- [Pumpkin Spice Flavored Coffee – Autumn Spice Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/pumpkin-spice): Pumpkin spice flavored coffee with cinnamon, nutmeg, and clove notes. Naturally flavored, vegan-friendly, cozy all year round. Shop More Coffee Please .
+  Updated: 2026-03-29T04:33:25Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_114bb063-a9f5-4eea-9840-63c00ee3e5b7.jpg?v=1774372906
@@ -1094,9 +1072,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/pumpkin-spice?variant=57144013357404)
     Availability: Available
     Price: €160.00 EUR
-- [Pecan Pie Flavored Coffee – Nutty Dessert Blend | GLOW](https://www.morecoffeepleasestore.com/products/pecan-pie): Pecan pie flavored coffee with toasted pecan, brown sugar, and vanilla notes. Naturally flavored, vegan-friendly, and utterly comforting. Shop GLOW.
-  Updated: 2026-03-27T21:52:06Z
-  Vendor: GLOW
+- [Pecan Pie Flavored Coffee – Nutty Dessert Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/pecan-pie): Pecan pie flavored coffee with toasted pecan, brown sugar, and vanilla notes. Naturally flavored, vegan-friendly, and utterly comforting. Shop More Coffee Please .
+  Updated: 2026-03-29T04:32:42Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_25e595ae-d542-45c1-be12-3efa6f65dfb7.jpg?v=1774372916
@@ -1148,9 +1126,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/pecan-pie?variant=57144014504284)
     Availability: Available
     Price: €89.99 EUR
-- [Mocha Flavored Coffee – Chocolate Coffee Blend | GLOW](https://www.morecoffeepleasestore.com/products/mocha): Rich mocha flavored coffee — bold coffee meets smooth chocolate. Naturally flavored, vegan-friendly, perfect as a latte. Shop GLOW.
-  Updated: 2026-03-27T21:51:49Z
-  Vendor: GLOW
+- [Mocha Flavored Coffee – Chocolate Coffee Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/mocha): Rich mocha flavored coffee — bold coffee meets smooth chocolate. Naturally flavored, vegan-friendly, perfect as a latte. Shop More Coffee Please .
+  Updated: 2026-03-29T04:31:49Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_bb1972c6-d9a7-4f1d-94d6-f2dd93af7203.jpg?v=1774372924
@@ -1214,9 +1192,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/mocha?variant=57144015782236)
     Availability: Available
     Price: €160.00 EUR
-- [Dubai Chocolate Coffee – Chocolate Pistachio Flavored Blend | GLOW](https://www.morecoffeepleasestore.com/products/dubai-chocolate): Dubai chocolate flavored coffee with rich chocolate and pistachio notes. Bold, smooth, vegan-friendly. The viral flavor, now in your cup. Shop GLOW.
-  Updated: 2026-03-27T21:51:32Z
-  Vendor: GLOW
+- [Dubai Chocolate Coffee – Chocolate Pistachio Flavored Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/dubai-chocolate): Dubai chocolate flavored coffee with rich chocolate and pistachio notes. Bold, smooth, vegan-friendly. The viral flavor, now in your cup. Shop More Coffee Please .
+  Updated: 2026-03-29T04:30:39Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_50e2b76b-d7bd-4d75-b053-a8193f7dbc86.jpg?v=1774372933
@@ -1268,9 +1246,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/dubai-chocolate?variant=57144016863580)
     Availability: Available
     Price: €89.99 EUR
-- [Cinnabun Flavored Coffee – Sweet Cinnamon Blend | GLOW](https://www.morecoffeepleasestore.com/products/cinnabun): Indulgent cinnamon roll flavored coffee — naturally flavored, vegan-friendly, and perfect as a latte. Sweet mornings start here. Shop GLOW.
-  Updated: 2026-03-27T21:51:13Z
-  Vendor: GLOW
+- [Cinnabun Flavored Coffee – Sweet Cinnamon Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/cinnabun): Indulgent cinnamon roll flavored coffee — naturally flavored, vegan-friendly, and perfect as a latte. Sweet mornings start here. Shop More Coffee Please .
+  Updated: 2026-03-29T04:29:36Z
+  Vendor: More Coffee Please
   Product Type: Flavored Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_c38b4754-f263-4a93-b393-9b659048456d.jpg?v=1774428274
@@ -1334,9 +1312,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/cinnabun?variant=57144021483868)
     Availability: Available
     Price: €160.00 EUR
-- [Blonde Espresso Blend – Sweet Light Roast Coffee | GLOW](https://www.morecoffeepleasestore.com/products/blonde): A sweet, smooth blonde espresso blend from Central America & Africa. Perfect for lattes & sweet espresso drinks. Shop Blonde at GLOW.
-  Updated: 2026-03-27T21:50:52Z
-  Vendor: GLOW
+- [Blonde Espresso Blend – Sweet Light Roast Coffee | More Coffee Please](https://www.morecoffeepleasestore.com/products/blonde): A sweet, smooth blonde espresso blend from Central America & Africa. Perfect for lattes & sweet espresso drinks. Shop Blonde at More Coffee Please .
+  Updated: 2026-03-29T04:28:14Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_20b5a5da-5240-415b-ad47-21302fc5f762.jpg?v=1774520390
@@ -1391,9 +1369,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/blonde?variant=57181793976668)
     Availability: Available
     Price: €88.99 EUR
-- [Italian Roast Coffee – Darkest Arabica & Robusta Blend | GLOW](https://www.morecoffeepleasestore.com/products/italian-roast): Our darkest roast — slow-roasted specialty Arabica & Robusta blend. Bold, smoky & intense with exceptional crema. Shop Italian Roast at GLOW.
-  Updated: 2026-03-27T21:50:32Z
-  Vendor: GLOW
+- [Italian Roast Coffee – Darkest Arabica & Robusta Blend | More Coffee Please](https://www.morecoffeepleasestore.com/products/italian-roast): Our darkest roast — slow-roasted specialty Arabica & Robusta blend. Bold, smoky & intense with exceptional crema. Shop Italian Roast at More Coffee Please .
+  Updated: 2026-03-29T04:27:36Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_e348a09f-51d2-4347-9fc6-5f7044534a5b.jpg?v=1774520398
@@ -1448,9 +1426,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/italian-roast?variant=57181794730332)
     Availability: Available
     Price: €88.99 EUR
-- [Cold Brew Coffee Blend – Dark French Roast, 100% Pure | GLOW](https://www.morecoffeepleasestore.com/products/cold-brew-coffee): Specially crafted dark French roast for perfect cold brew every time. 100% pure coffee, no additives, extra coarse grind. Shop at GLOW.
-  Updated: 2026-03-27T21:49:58Z
-  Vendor: GLOW
+- [Cold Brew Coffee Blend – Dark French Roast, 100% Pure | More Coffee Please](https://www.morecoffeepleasestore.com/products/cold-brew-coffee): Specially crafted dark French roast for perfect cold brew every time. 100% pure coffee, no additives, extra coarse grind. Shop at More Coffee Please .
+  Updated: 2026-03-29T04:26:56Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/LABEL5_12oz_on_bag.jpg?v=1774520411
@@ -1466,9 +1444,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Coarse / 5 LB](https://www.morecoffeepleasestore.com/products/cold-brew-coffee?variant=57181795254620)
     Availability: Available
     Price: €88.99 EUR
-- [Breakfast Blend – Smooth South American Medium Roast | GLOW](https://www.morecoffeepleasestore.com/products/breakfast-blend): A smooth, balanced medium roast South American breakfast coffee. Clean, consistent & comforting. The perfect morning cup. Shop at GLOW.
-  Updated: 2026-03-27T21:49:33Z
-  Vendor: GLOW
+- [Breakfast Blend – Smooth South American Medium Roast | More Coffee Please](https://www.morecoffeepleasestore.com/products/breakfast-blend): A smooth, balanced medium roast South American breakfast coffee. Clean, consistent & comforting. The perfect morning cup. Shop at More Coffee Please .
+  Updated: 2026-03-29T04:26:17Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_eb4b3560-ed7a-4bd1-ad70-db78cb7af6db.jpg?v=1774520419
@@ -1535,15 +1513,15 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/breakfast-blend?variant=57181796303196)
     Availability: Available
     Price: €160.00 EUR
-- [African Espresso Blend – Medium Dark Roast Coffee | GLOW](https://www.morecoffeepleasestore.com/products/african-espresso): Bold medium-dark roast from Kenya, Tanzania & Ethiopia. Rich, bright & complex — perfect for espresso lovers. Shop African Espresso at GLOW.
-  Updated: 2026-03-27T21:49:04Z
-  Vendor: GLOW
+- [African Espresso Blend – Medium Dark Roast Coffee | More Coffee Please](https://www.morecoffeepleasestore.com/products/african-espresso): Bold medium-dark roast from Kenya, Tanzania & Ethiopia. Rich, bright & complex — perfect for espresso lovers. Shop African Espresso at More Coffee Please .
+  Updated: 2026-03-29T04:25:36Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_4b6aa6c3-380a-4e34-ac7c-c2ce3c837bc3.jpg?v=1774520431
   - [Coarse / 12oz](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798334812)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Coarse / 1 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798367580)
     Availability: Available
     Price: €32.99 EUR
@@ -1555,10 +1533,10 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Coarse / 12 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798465884)
     Availability: Available
-    Price: €175.99 EUR
+    Price: €160.00 EUR
   - [Espresso / 12oz](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798498652)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Espresso / 1 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798531420)
     Availability: Available
     Price: €32.99 EUR
@@ -1570,10 +1548,10 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Espresso / 12 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798629724)
     Availability: Available
-    Price: €175.99 EUR
+    Price: €160.00 EUR
   - [Standard / 12oz](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798662492)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Standard / 1 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798695260)
     Availability: Available
     Price: €32.99 EUR
@@ -1585,10 +1563,10 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Standard / 12 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798793564)
     Availability: Available
-    Price: €175.99 EUR
+    Price: €160.00 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798826332)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798859100)
     Availability: Available
     Price: €32.99 EUR
@@ -1600,16 +1578,16 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/african-espresso?variant=57181798957404)
     Availability: Available
-    Price: €175.99 EUR
-- [Cowboy Blend Coffee – Dark & Medium Roast with Cocoa & Caramel | GLOW](https://www.morecoffeepleasestore.com/products/cowboy-blend): A bold dark & medium roast blend with cocoa, caramel & vanilla notes. Rich, smooth & full-bodied. Shop Cowboy Blend coffee at GLOW.
-  Updated: 2026-03-27T21:48:27Z
-  Vendor: GLOW
+    Price: €160.00 EUR
+- [Cowboy Blend Coffee – Dark & Medium Roast with Cocoa & Caramel | More Coffee Please](https://www.morecoffeepleasestore.com/products/cowboy-blend): A bold dark & medium roast blend with cocoa, caramel & vanilla notes. Rich, smooth & full-bodied. Shop Cowboy Blend coffee at More Coffee Please .
+  Updated: 2026-03-29T04:24:51Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_8858b43d-fe26-40c0-9a85-09b1251267af.jpg?v=1774520440
   - [Coarse / 12oz](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799350620)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Coarse / 1 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799383388)
     Availability: Available
     Price: €32.99 EUR
@@ -1621,10 +1599,10 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Coarse / 12 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799481692)
     Availability: Available
-    Price: €175.99 EUR
+    Price: €160.00 EUR
   - [Espresso / 12oz](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799514460)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Espresso / 1 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799547228)
     Availability: Available
     Price: €32.99 EUR
@@ -1636,10 +1614,10 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Espresso / 12 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799645532)
     Availability: Available
-    Price: €175.99 EUR
+    Price: €160.00 EUR
   - [Standard / 12oz](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799678300)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Standard / 1 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799711068)
     Availability: Available
     Price: €32.99 EUR
@@ -1654,10 +1632,10 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €14.99 EUR
   - [Standard / 12 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799842140)
     Availability: Available
-    Price: €175.99 EUR
+    Price: €160.00 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799874908)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181799907676)
     Availability: Available
     Price: €32.99 EUR
@@ -1669,16 +1647,16 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/cowboy-blend?variant=57181800005980)
     Availability: Available
-    Price: €175.99 EUR
-- [Latin American Blend Coffee – Medium Dark Roast, Nutty & Cocoa | GLOW](https://www.morecoffeepleasestore.com/products/latin-american-blend): A rich medium-dark roast from Central America & the Amazon with nutty, fruity & cocoa notes. Shade-grown, washed. Shop Latin American Blend at GLOW.
-  Updated: 2026-03-27T21:47:29Z
-  Vendor: GLOW
+    Price: €160.00 EUR
+- [Latin American Blend Coffee – Medium Dark Roast, Nutty & Cocoa | More Coffee Please](https://www.morecoffeepleasestore.com/products/latin-american-blend): A rich medium-dark roast from Central America & the Amazon with nutty, fruity & cocoa notes. Shade-grown, washed. Shop Latin American Blend at More Coffee Please .
+  Updated: 2026-03-29T04:24:15Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/LABEL5_12oz_on_bag_7e665d21-33e3-489e-85da-94e4c414482d.jpg?v=1774520448
   - [Espresso / 12oz](https://www.morecoffeepleasestore.com/products/latin-american-blend?variant=57181800169820)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Espresso / 1 LB](https://www.morecoffeepleasestore.com/products/latin-american-blend?variant=57181800202588)
     Availability: Available
     Price: €32.99 EUR
@@ -1690,7 +1668,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Standard / 12oz](https://www.morecoffeepleasestore.com/products/latin-american-blend?variant=57181800300892)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Standard / 1 LB](https://www.morecoffeepleasestore.com/products/latin-american-blend?variant=57181800333660)
     Availability: Available
     Price: €32.99 EUR
@@ -1702,7 +1680,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/latin-american-blend?variant=57181800431964)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/latin-american-blend?variant=57181800464732)
     Availability: Available
     Price: €32.99 EUR
@@ -1712,15 +1690,15 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/latin-american-blend?variant=57181800530268)
     Availability: Available
     Price: €88.99 EUR
-- [Asian Plateau Blend – Full-Bodied Medium Roast Coffee | GLOW](https://www.morecoffeepleasestore.com/products/asian-plateau-blend): A full-bodied medium roast from Southeast Asia with herbal, earthy notes and a strong aroma. Washed & sun-grown. Shop Asian Plateau Blend at GLOW.
-  Updated: 2026-03-27T21:46:59Z
-  Vendor: GLOW
+- [Asian Plateau Blend – Full-Bodied Medium Roast Coffee | More Coffee Please](https://www.morecoffeepleasestore.com/products/asian-plateau-blend): A full-bodied medium roast from Southeast Asia with herbal, earthy notes and a strong aroma. Washed & sun-grown. Shop Asian Plateau Blend at More Coffee Please .
+  Updated: 2026-03-29T04:23:25Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/LABEL5_12oz_on_bag_26c35684-fb14-46d4-8d2d-8d5faea13cc3.jpg?v=1774520461
   - [Espresso / 12oz](https://www.morecoffeepleasestore.com/products/asian-plateau-blend?variant=57181801251164)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Espresso / 1 LB](https://www.morecoffeepleasestore.com/products/asian-plateau-blend?variant=57181801283932)
     Availability: Available
     Price: €32.99 EUR
@@ -1732,7 +1710,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Standard / 12oz](https://www.morecoffeepleasestore.com/products/asian-plateau-blend?variant=57181801382236)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Standard / 1 LB](https://www.morecoffeepleasestore.com/products/asian-plateau-blend?variant=57181801415004)
     Availability: Available
     Price: €32.99 EUR
@@ -1744,7 +1722,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/asian-plateau-blend?variant=57181801513308)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/asian-plateau-blend?variant=57181801546076)
     Availability: Available
     Price: €32.99 EUR
@@ -1754,15 +1732,15 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/asian-plateau-blend?variant=57181801611612)
     Availability: Available
     Price: €88.99 EUR
-- [African Kahawa Blend – Complex Medium Dark Roast | GLOW](https://www.morecoffeepleasestore.com/products/african-kahawa-blend): A rich medium-dark African coffee blend with notes of toffee, chocolate, cherry & floral finish. Hand-processed, sun-dried. Shop at GLOW.
-  Updated: 2026-03-27T21:46:45Z
-  Vendor: GLOW
+- [African Kahawa Blend – Complex Medium Dark Roast | More Coffee Please](https://www.morecoffeepleasestore.com/products/african-kahawa-blend): A rich medium-dark African coffee blend with notes of toffee, chocolate, cherry & floral finish. Hand-processed, sun-dried. Shop at More Coffee Please .
+  Updated: 2026-03-29T04:21:46Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/LABEL5_12oz_on_bag_fe12a6d0-cb61-469a-b3ef-9874d5c5778a.jpg?v=1774520470
   - [Espresso / 12oz](https://www.morecoffeepleasestore.com/products/african-kahawa-blend?variant=57181802004828)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Espresso / 1 LB](https://www.morecoffeepleasestore.com/products/african-kahawa-blend?variant=57181802037596)
     Availability: Available
     Price: €32.99 EUR
@@ -1774,7 +1752,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Standard / 12oz](https://www.morecoffeepleasestore.com/products/african-kahawa-blend?variant=57181802135900)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Standard / 1 LB](https://www.morecoffeepleasestore.com/products/african-kahawa-blend?variant=57181802168668)
     Availability: Available
     Price: €32.99 EUR
@@ -1786,7 +1764,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/african-kahawa-blend?variant=57181802266972)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/african-kahawa-blend?variant=57181802299740)
     Availability: Available
     Price: €32.99 EUR
@@ -1796,15 +1774,15 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/african-kahawa-blend?variant=57181802365276)
     Availability: Available
     Price: €88.99 EUR
-- [House Blend Coffee – Smooth Medium Roast from Central & South America | GLOW](https://www.morecoffeepleasestore.com/products/house-blend): A smooth, clean medium roast from Central & South America with nutty, chocolate & citrus notes. Sustainably processed. Shop House Blend at GLOW.
-  Updated: 2026-03-27T21:46:27Z
-  Vendor: GLOW
+- [House Blend Coffee – Smooth Medium Roast from Central & South America | More Coffee Please](https://www.morecoffeepleasestore.com/products/house-blend): A smooth, clean medium roast from Central & South America with nutty, chocolate & citrus notes. Sustainably processed. Shop House Blend at More Coffee Please .
+  Updated: 2026-03-29T04:21:07Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/LABEL5_12oz_on_bag_fc3dfadf-7fa0-4366-9cb4-904b55d030a6.jpg?v=1774520478
   - [Espresso / 12oz](https://www.morecoffeepleasestore.com/products/house-blend?variant=57181803348316)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Espresso / 1 LB](https://www.morecoffeepleasestore.com/products/house-blend?variant=57181803381084)
     Availability: Available
     Price: €32.99 EUR
@@ -1816,7 +1794,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Standard / 12oz](https://www.morecoffeepleasestore.com/products/house-blend?variant=57181803479388)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Standard / 1 LB](https://www.morecoffeepleasestore.com/products/house-blend?variant=57181803512156)
     Availability: Available
     Price: €32.99 EUR
@@ -1828,7 +1806,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/house-blend?variant=57181803610460)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/house-blend?variant=57181803643228)
     Availability: Available
     Price: €32.99 EUR
@@ -1838,15 +1816,15 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/house-blend?variant=57181803708764)
     Availability: Available
     Price: €88.99 EUR
-- [Breakfast Blend Light Roast – Walnut, Apple & Toffee Notes | GLOW](https://www.morecoffeepleasestore.com/products/breakfast-blend-1): A light South American breakfast blend with walnut, apple & toffee notes. Sun-dried, washed & mountain-grown. Shop Sunrise Roast at GLOW.
-  Updated: 2026-03-27T21:46:02Z
-  Vendor: GLOW
+- [Breakfast Blend Light Roast – Walnut, Apple & Toffee Notes | More Coffee Please](https://www.morecoffeepleasestore.com/products/breakfast-blend-1): A light South American breakfast blend with walnut, apple & toffee notes. Sun-dried, washed & mountain-grown. Shop Sunrise Roast at More Coffee Please .
+  Updated: 2026-03-29T04:19:58Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/LABEL5_12oz_on_bag_652bcd42-7574-4b6a-ab96-6cab44625a5b.jpg?v=1774520486
   - [Espresso / 12oz](https://www.morecoffeepleasestore.com/products/breakfast-blend-1?variant=57181804200284)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Espresso / 1 LB](https://www.morecoffeepleasestore.com/products/breakfast-blend-1?variant=57181804233052)
     Availability: Available
     Price: €32.99 EUR
@@ -1858,7 +1836,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Standard / 12oz](https://www.morecoffeepleasestore.com/products/breakfast-blend-1?variant=57181804331356)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Standard / 1 LB](https://www.morecoffeepleasestore.com/products/breakfast-blend-1?variant=57181804364124)
     Availability: Available
     Price: €32.99 EUR
@@ -1870,7 +1848,7 @@ We ship to Greece, Cyprus, Europe and the USA.
     Price: €88.99 EUR
   - [Whole Bean / 12oz](https://www.morecoffeepleasestore.com/products/breakfast-blend-1?variant=57181804462428)
     Availability: Available
-    Price: €26.99 EUR
+    Price: €23.00 EUR
   - [Whole Bean / 1 LB](https://www.morecoffeepleasestore.com/products/breakfast-blend-1?variant=57181804495196)
     Availability: Available
     Price: €32.99 EUR
@@ -1880,9 +1858,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/breakfast-blend-1?variant=57181804560732)
     Availability: Available
     Price: €88.99 EUR
-- [Holiday Blend Coffee – Festive Brazil, Peru & India Roast | GLOW](https://www.morecoffeepleasestore.com/products/holiday-blend): A warm, festive coffee blend from Brazil, Peru & India. Smooth, sweet & subtly spiced — perfect for the holiday season. Shop at GLOW.
-  Updated: 2026-03-27T21:45:43Z
-  Vendor: GLOW
+- [Holiday Blend Coffee – Festive Brazil, Peru & India Roast | More Coffee Please](https://www.morecoffeepleasestore.com/products/holiday-blend): A warm, festive coffee blend from Brazil, Peru & India. Smooth, sweet & subtly spiced — perfect for the holiday season. Shop at More Coffee Please .
+  Updated: 2026-03-29T04:19:20Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_9978aa55-0abe-4712-95ba-31f87d9fb5dc.jpg?v=1774520537
@@ -1937,9 +1915,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/holiday-blend?variant=57181807083868)
     Availability: Available
     Price: €88.99 EUR
-- [Max Caf Blend – High Caffeine Tanzania & India Robusta Coffee | GLOW](https://www.morecoffeepleasestore.com/products/max-caf-blend): Maximum caffeine coffee blend from Tanzania & India Robusta. Bold, strong & full-bodied — built for those who need serious fuel. Shop at GLOW.
-  Updated: 2026-03-27T21:45:15Z
-  Vendor: GLOW
+- [Max Caf Blend – High Caffeine Tanzania & India Robusta Coffee | More Coffee Please](https://www.morecoffeepleasestore.com/products/max-caf-blend): Maximum caffeine coffee blend from Tanzania & India Robusta. Bold, strong & full-bodied — built for those who need serious fuel. Shop at More Coffee Please .
+  Updated: 2026-03-29T04:17:12Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_501e1f4d-7882-418a-a72c-6ec7943efecc.jpg?v=1774520575
@@ -2003,9 +1981,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/max-caf-blend?variant=57181812883804)
     Availability: Available
     Price: €160.00 EUR
-- [Kopi Safari Coffee – Lively Post-Roast Blend with Bright Depth | GLOW](https://www.morecoffeepleasestore.com/products/kopi-safari): A lively, grounding post-roast coffee blend with perfect harmony of brightness & depth. Adventurous & complex. Shop Kopi Safari at GLOW.
-  Updated: 2026-03-27T21:44:53Z
-  Vendor: GLOW
+- [Kopi Safari Coffee – Lively Post-Roast Blend with Bright Depth | More Coffee Please](https://www.morecoffeepleasestore.com/products/kopi-safari): A lively, grounding post-roast coffee blend with perfect harmony of brightness & depth. Adventurous & complex. Shop Kopi Safari at More Coffee Please.
+  Updated: 2026-03-29T04:58:02Z
+  Vendor: More Coffee Please
   Product Type: Coffee Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_a1c59d6c-3a31-422b-9780-91aae743d8b3.jpg?v=1774520613
@@ -2057,9 +2035,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 5 LB](https://www.morecoffeepleasestore.com/products/kopi-safari?variant=57181816258908)
     Availability: Available
     Price: €88.99 EUR
-- [Peru Single Origin Coffee – Salted Caramel & Citrus Medium Roast | GLOW](https://www.morecoffeepleasestore.com/products/peru): Single origin Peru coffee with salted caramel, silky sweet & citrus notes. Medium roast, 1,100-1,700m altitude. Shop multiple sizes at GLOW.
-  Updated: 2026-03-27T21:44:29Z
-  Vendor: GLOW
+- [Peru Single Origin Coffee – Salted Caramel & Citrus Medium Roast | More Coffee Please](https://www.morecoffeepleasestore.com/products/peru): Single origin Peru coffee with salted caramel, silky sweet & citrus notes. Medium roast, 1,100-1,700m altitude. Shop multiple sizes at More Coffee Please
+  Updated: 2026-03-29T04:17:55Z
+  Vendor: More Coffee Please
   Product Type: Single Origin Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_9e62eb0d-6405-4c60-bad9-1a0ca8be53e6.jpg?v=1774522514
@@ -2123,9 +2101,9 @@ We ship to Greece, Cyprus, Europe and the USA.
   - [Whole Bean / 12 LB](https://www.morecoffeepleasestore.com/products/peru?variant=57182001201500)
     Availability: Available
     Price: €160.00 EUR
-- [Peru Decaf Coffee – Swiss Water Process, Medium Roast | GLOW](https://www.morecoffeepleasestore.com/products/peru-decaf): Smooth Peru Decaf with caramel, citrus & silky body. Swiss Water Process, single origin from 1,100-1,700m. Shop in multiple sizes at GLOW.
-  Updated: 2026-03-27T21:42:29Z
-  Vendor: GLOW
+- [Peru Decaf Coffee – Swiss Water Process, Medium Roast | More Coffee Please](https://www.morecoffeepleasestore.com/products/peru-decaf): Smooth Peru Decaf with caramel, citrus & silky body. Swiss Water Process, single origin from 1,100-1,700m. Shop in multiple sizes at More Coffee Please
+  Updated: 2026-03-29T04:17:36Z
+  Vendor: More Coffee Please
   Product Type: Decaf Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/label5_on_bag_8c67a462-a2aa-4202-a4c3-d149873aeb96.jpg?v=1774522737
@@ -2195,33 +2173,45 @@ We ship to Greece, Cyprus, Europe and the USA.
 
 ## Collections
 
-- [Best  Wellness Products – GLOW](https://www.morecoffeepleasestore.com/collections/avada-best-sellers): Shop GLOW's best- coffee, tea, and wellness blends — customer favorites with clean, vegan formulations. Find your new ritual.
-  Updated: 2026-03-27T16:52:49Z
+- [Best  Coffee & Tea Products | More Coffee Please](https://www.morecoffeepleasestore.com/collections/avada-best-sellers): Shop More Coffee Please's best- coffees and teas — customer favourites sourced from the world's finest growing regions. Premium quality, every sip.
+  Updated: 2026-03-28T18:35:04Z
   Total Products: 46
-- [Premium Wellness Tea Collection – GLOW](https://www.morecoffeepleasestore.com/collections/tea): Shop GLOW's premium wellness teas — clean, vegan blends crafted to support digestion, relaxation, and immunity. Ritual in every sip.
-  Updated: 2026-03-24T18:41:58Z
+- [Premium Loose Leaf Tea Collection | More Coffee Please](https://www.morecoffeepleasestore.com/collections/tea): Explore More Coffee Please's premium tea collection — green, black, herbal & specialty teas sourced from the world's finest gardens. Find your perfect cup.
+  Updated: 2026-03-28T16:03:36Z
   Total Products: 11
-- [Premium Coffee Beans & Ground Coffee – GLOW](https://www.morecoffeepleasestore.com/collections/coffee-beans-ground-coffee): Shop GLOW's premium coffee beans and ground coffee — single-origin and blended roasts for every brew method. Elevate your daily ritual.
-  Updated: 2026-03-27T16:49:41Z
+- [Single Origin Coffee Beans from Around the World | More Coffee Please](https://www.morecoffeepleasestore.com/collections/coffee-beans-ground-coffee): Shop More Coffee Please's single origin coffees — traceable, premium Arabica beans from Ethiopia, Colombia, Brazil, Bali & more. Taste the difference.
+  Updated: 2026-03-28T16:05:04Z
   Total Products: 10
-- [Flavored Drinks & Blends Collection – GLOW](https://www.morecoffeepleasestore.com/collections/flavored): Explore GLOW's flavored collection — natural, vegan-friendly blends with bold, clean flavors. Wellness that tastes as good as it feels.
-  Updated: 2026-03-27T16:31:55Z
+- [Flavored Coffee Blends – Natural & Indulgent | More Coffee Please](https://www.morecoffeepleasestore.com/collections/flavored): Shop More Coffee Please's flavoured coffees — premium Arabica beans with natural flavours like vanilla, caramel, hazelnut & more. Indulge your cup.
+  Updated: 2026-03-28T16:05:40Z
   Total Products: 10
-- [Premium Coffee Blends – Rich & Expertly Roasted | GLOW](https://www.morecoffeepleasestore.com/collections/blends): Shop GLOW's premium coffee blends — expertly roasted, rich in flavor. Find your perfect cup from smooth to bold espresso profiles.
-  Updated: 2026-03-27T16:48:03Z
+- [Premium Coffee Blends – Espresso, Dark & Breakfast Roasts | More Coffee Please](https://www.morecoffeepleasestore.com/collections/blends): Shop More Coffee Please's premium coffee blends — expertly roasted espresso, breakfast, and dark roast blends for every brew method. Consistent quality every cup.
+  Updated: 2026-03-28T18:35:04Z
   Total Products: 14
-- [Premium Decaf Coffee Collection – Full Flavor, No Caffeine | GLOW](https://www.morecoffeepleasestore.com/collections/decaf): Shop GLOW's premium decaf coffee collection. Rich, full-bodied flavor without the caffeine — perfect for any time of day.
-  Updated: 2026-03-27T16:52:49Z
+- [Premium Decaf Coffee – Swiss Water Process | More Coffee Please](https://www.morecoffeepleasestore.com/collections/decaf): Shop More Coffee Please's decaf coffee — Swiss Water Process, 100% chemical-free, full-flavour Arabica beans. Great coffee, without the caffeine.
+  Updated: 2026-03-28T16:07:05Z
   Total Products: 1
 
 ## Blogs
 
 - [News](https://www.morecoffeepleasestore.com/blogs/news)
   - [The Ultimate Guide to Choosing Between Coffee Espresso and Tea](https://www.morecoffeepleasestore.com/blogs/news/the-ultimate-guide-to-choosing-between-coffee-espresso-and-tea): The Ultimate Guide to Choosing Between Coffee Espresso and Tea
-    Updated: 2026-03-26T11:37:05Z
+    Updated: 2026-03-28T17:12:39Z
     Author: User
   - [Exploring the Health Benefits of Coffee Espresso and Tea](https://www.morecoffeepleasestore.com/blogs/news/exploring-the-health-benefits-of-coffee-espresso-and-tea): Exploring the Health Benefits of Coffee Espresso and Tea
     Updated: 2026-03-27T01:41:06Z
+    Author: User
+  - [How to Brew the Perfect Cup: Coffee Espresso and Tea Tips](https://www.morecoffeepleasestore.com/blogs/news/how-to-brew-the-perfect-cup-coffee-espresso-and-tea-tips): How to Brew the Perfect Cup: Coffee Espresso and Tea Tips
+    Updated: 2026-03-28T01:07:33Z
+    Author: User
+  - [Common Problems and Solutions for Making Espresso at Home](https://www.morecoffeepleasestore.com/blogs/news/common-problems-and-solutions-for-making-espresso-at-home): Common Problems and Solutions for Making Espresso at Home
+    Updated: 2026-04-02T00:08:34Z
+    Author: User
+  - [Comparing the Flavors: Why Coffee Tea and Espresso Are Unique](https://www.morecoffeepleasestore.com/blogs/news/comparing-the-flavors-why-coffee-tea-and-espresso-are-unique): Comparing the Flavors: Why Coffee Tea and Espresso Are Unique
+    Updated: 2026-04-03T01:32:50Z
+    Author: User
+  - [The Historical Journey of Coffee and Tea Cultivation](https://www.morecoffeepleasestore.com/blogs/news/the-historical-journey-of-coffee-and-tea-cultivation): The Historical Journey of Coffee and Tea Cultivation
+    Updated: 2026-04-04T01:22:53Z
     Author: User
 
 ## Store Pages
@@ -2230,12 +2220,12 @@ We ship to Greece, Cyprus, Europe and the USA.
   Updated: 2026-03-20T07:39:14Z
 - [Your Privacy Choices](https://www.morecoffeepleasestore.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-02-18T14:43:07Z
-- [About GLOW | Premium Tea & Single Origin Coffee](https://www.morecoffeepleasestore.com/pages/about-us): Welcome to More Coffee Please At More Coffee Please , we believe that what you drink shapes how you feel. That's why we've curated a collection of ...
-  Updated: 2026-03-26T21:45:31Z
-- [FAQ | GLOW — Your Matcha Questions, Answered](https://www.morecoffeepleasestore.com/pages/faq): Frequently Asked Questions About Our Products What types of products does More Coffee Please offer? More Coffee Please offers two premium product l...
-  Updated: 2026-03-27T13:03:55Z
+- [About More Coffee Please | Premium Tea & Single Origin Coffee](https://www.morecoffeepleasestore.com/pages/about-us): Welcome to More Coffee Please At More Coffee Please, we believe that what you drink shapes how you feel. That's why we've curated a collection of t...
+  Updated: 2026-03-28T17:06:53Z
+- [FAQ | More Coffee Please — Your Matcha Questions, Answered](https://www.morecoffeepleasestore.com/pages/faq): Frequently Asked Questions About Our Products What types of products does More Coffee Please offer? More Coffee Please offers two premium product l...
+  Updated: 2026-03-28T17:08:53Z
 - [What is Matcha ?](https://www.morecoffeepleasestore.com/pages/what-is-matcha): Matcha is grounded green tea in its purest form, but contains more secondary plant substances ( color, fragrance, and flavor) and is therefore bett...
-  Updated: 2026-03-19T09:10:05Z
+  Updated: 2026-03-28T17:25:35Z
 - [Tea](https://www.morecoffeepleasestore.com/pages/tea)
   Updated: 2026-03-24T14:36:07Z
 - [About Our Coffee](https://www.morecoffeepleasestore.com/pages/coffee-beans-ground-coffee-matcha): Our Coffee Collection At (More Coffee Please), we source exceptional single-origin and specialty coffees from the world's finest growing regions. E...
@@ -2252,9 +2242,9 @@ We ship to Greece, Cyprus, Europe and the USA.
 - [Refund Policy](https://www.morecoffeepleasestore.com/policies/refund-policy)
   Updated: 2026-03-25T20:11:24+02:00
 - [Terms of Service](https://www.morecoffeepleasestore.com/policies/terms-of-service)
-  Updated: 2026-03-26T20:46:56+02:00
+  Updated: 2026-03-28T19:30:43+02:00
 - [Contact Information](https://www.morecoffeepleasestore.com/policies/contact-information)
-  Updated: 2026-03-25T20:09:30+02:00
+  Updated: 2026-03-28T19:18:35+02:00
 
 ## Optional
 
