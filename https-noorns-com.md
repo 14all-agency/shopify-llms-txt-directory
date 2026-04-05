@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-02T08:02:20Z
 - Contact Email: info@noorns.com
-- Updated At: 2026-03-28T00:00:25.048Z
+- Updated At: 2026-04-05T00:00:33.138Z
 
 ## Products
 
 - [Diet & Methylation Report](https://noorns.com/products/diet-methylation-report): Build steadier energy, mood, and detox capacity by addressing the methylation pathways that matter most for you. Ideal first step if you’re new to nutrigenomics or you’re troubleshooting fatigue, low mood, or stubborn plateaus. What you’ll learn: Your key methylation/detox pinch points and ideal B-vitamin forms. What you’ll do: Prioritize foods and supplements that match your genes; avoid the ones that backfire. Why it helps: Targets the pathways most likely to move the needle for you. Pairs with: HPA-Axis & Methylation.
-  Updated: 2026-03-27T22:00:47Z
+  Updated: 2026-04-02T12:02:36Z
   Vendor: Noorns
   Product Type: Digital Nutrigenomics Nutrition Report
   Availability: Available
@@ -133,13 +133,13 @@
 ## Collections
 
 - [Home page](https://noorns.com/collections/frontpage)
-  Updated: 2026-03-27T11:36:09Z
+  Updated: 2026-04-03T11:44:47Z
   Total Products: 15
 - [All Products](https://noorns.com/collections/all-nutrigenomics-reports)
-  Updated: 2026-03-27T11:36:09Z
+  Updated: 2026-04-03T11:44:47Z
   Total Products: 17
 - [Nutrigenomics Tests](https://noorns.com/collections/nutrition-reports)
-  Updated: 2026-03-27T11:36:09Z
+  Updated: 2026-04-03T11:44:47Z
   Total Products: 15
 - [Consultations](https://noorns.com/collections/consultations)
   Updated: 2026-02-25T08:50:16Z
@@ -211,17 +211,20 @@ Should your DNA file stay on your device or be uploaded? Learn the trade‑offs 
     Author: Noorns Editorial Team
     Tags: Category_Genetic Nutrition, Category_Methylation
   - [Nutrition Dark Matter and Your Epigenome](https://noorns.com/blogs/articles/nutrition-dark-matter-hidden-food-molecules-epigenome): Most of us grew up thinking about food in grams of protein, carbs, and fat. Yet every bite of a blueberry, cup of tea, or spoonful of curry also carries thousands of tiny molecules that talk to our cells. Scientists call this “nutrition dark matter” – the hidden chemistry of food that can nudge gene activity, shape our epigenome, and influence how we age. This piece explores what that means in everyday life.
-    Updated: 2026-02-20T12:39:35Z
+    Updated: 2026-03-28T08:24:02Z
     Author: Noorns Editorial Team
     Tags: Category_Genetic Nutrition, Category_Methylation
   - [COMT Warrior vs Worrier: Why Supplements Feel Amazing or Awful](https://noorns.com/blogs/articles/comt-warrior-vs-worrier-supplement-sensitivity): Some people take methylfolate or green tea and feel clear and calm. Others feel wired, anxious, or unable to sleep. This webinar companion breaks down why those reactions can happen through a simple COMT and methylation lens. You will learn a practical two levers model, common signs a supplement is too activating, and a low risk experiment checklist you can screenshot and use.
-    Updated: 2026-02-20T12:17:56Z
+    Updated: 2026-03-28T08:22:02Z
     Author: Noorns Editorial Team
     Tags: Category_Methylation, Category_Nutrigenomics
   - [Inflammation - What to Measure, Eat, and Where Genes Fit](https://noorns.com/blogs/articles/inflammation-genes-anti-inflammatory-diet): Inflammation is not the villain. It is the cleanup crew. The problem is when the cleanup crew never clocks out. This guide explains inflammation in plain language, why CRP shows up on labs, and how IL-6 and TNF-α fit into the story. Then it turns that into a food-first plan you can actually follow, with gene-informed priorities that help you decide what to do first without overreacting to a single SNP.
-    Updated: 2026-02-20T12:41:18Z
+    Updated: 2026-03-28T08:19:33Z
     Author: Noorns Editorial Team
     Tags: Category_Genetic Nutrition, Category_Nutrigenomics
+  - [How Your DNA Can Help You Choose Supplements](https://noorns.com/blogs/articles/how-your-dna-can-help-you-choose-supplements): <p dir="ltr"><span>There is no universal supplement stack that fits everyone well. What matters more is knowing where to start. </span><span>That is where </span><span>nutrigenomics</span><span> can help. A good DNA-based nutrition report can help you narrow the field.</span></p>
+    Updated: 2026-03-30T07:05:51Z
+    Author: Noorns Editorial Team
 
 ## Store Pages
 
