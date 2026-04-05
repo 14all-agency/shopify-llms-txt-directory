@@ -26,12 +26,12 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
 - Contact Email: sales@oldwhippersnappers.com
 - Contact Phone: 860-993-1092
 - Address: 35-31 Talcottville Road, #234, Vernon, C 06066
-- Updated At: 2026-03-27T00:00:38.799Z
+- Updated At: 2026-04-05T00:00:42.734Z
 
 ## Products
 
 - [Tallow Soap: Pure Tallow Soap Bar Loaf for Nourished Skin](https://www.oldwhippersnappers.com/products/tallow-soap-loaf): Tallow Soap: Pure Tallow Soap Bar Loaf for Nourished Skin This premium tallow soap loaf weighs approximately 2.90 lb and arrives sealed in food-grade shrink wrap.
-  Updated: 2026-03-21T18:20:33Z
+  Updated: 2026-04-02T10:35:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -41,7 +41,7 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/tallow-soap-loaf?variant=48724653113584)
     Availability: Available
 - [Pine tar soap loaf weighs approximately 2.90 lb, sealed in shrink wrap](https://www.oldwhippersnappers.com/products/pine-tar-soap-loaf): Pine Tar Soap This premium pine tar soap loaf weighs approximately 2.90 lb and arrives sealed in food-grade shrink wrap.
-  Updated: 2026-03-24T21:42:47Z
+  Updated: 2026-04-02T10:35:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -51,31 +51,31 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/pine-tar-soap-loaf?variant=48724664189168)
     Availability: Available
 - [Tallow Shampoo, Hand, & Body Soap, Gallon Size Container](https://www.oldwhippersnappers.com/products/tallow-shampoo): Tallow Shampoo: Pure Tallow Gallon Liquid Shampoo, Hand, & Body Soap This tallow shampoo & liquid body soap only comes in a 128 oz (Gallon) Clear Food Grade Clear Plastic Bottle.
-  Updated: 2026-03-24T22:18:43Z
+  Updated: 2026-04-02T10:35:30Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/liquidtallow2.jpg?v=1770436719
 - [Lard Shampoo, Hand, & Body Soap, Gallon Size Container](https://www.oldwhippersnappers.com/products/lard-shampoo): Lard Shampoo & Liquid Body Soap: Natural Cleanliness and Nourishment This Lard Shampoo and Liqiuid Body Soap only comes in a 128 oz (Gallon) Clear Food Grade Plastic Bottle.
-  Updated: 2026-03-25T16:49:43Z
+  Updated: 2026-04-04T21:03:18Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/liquidlard2.jpg?v=1770436743
 - [Pine Tar Shampoo, Hand, & Body Soap, in Gallon Liquid Container](https://www.oldwhippersnappers.com/products/pine-tar-shampoo): Pine Tar Shampoo: Nature's Solution for Healthy Skin and Hair This Pine tar Shampoo & body soap only comes in a 128 oz (Gallon) Clear Food Grade Plastic Bottle.
-  Updated: 2026-03-24T19:17:36Z
+  Updated: 2026-04-02T10:35:31Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/liquidpinetar2.jpg?v=1770436767
 - [Tea Tree Shampoo, Hand, and Body Soap Gallon Liquid](https://www.oldwhippersnappers.com/products/tea-tree-shampoo): Tea Tree Shampoo: Revitalize Your Hair and Skin This Tea Tree Shampoo & Liquid Body Soap only comes in a 128 oz (Gallon) Clear Food Grade Plastic Bottle.
-  Updated: 2026-03-24T19:17:59Z
+  Updated: 2026-04-03T13:22:18Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Handmade Liquid Shampoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/tea_treeliquid2.jpg?v=1770436793
 - [Tea Tree Soap Loaf: Nature's Solution for Clean Skin](https://www.oldwhippersnappers.com/products/tea-tree-soap-loaf): Tea Tree Soap: Nature's Solution for Clean Skin This premium tea tree soap loaf weighs approximately 2.90 lb and arrives sealed in food-grade shrink wrap.
-  Updated: 2026-03-26T02:54:36Z
+  Updated: 2026-04-02T10:35:31Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -85,7 +85,7 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/tea-tree-soap-loaf?variant=48724663337200)
     Availability: Available
 - [Sulfur Soap Bar Loaf: The Ultimate Solution for Skin Care](https://www.oldwhippersnappers.com/products/sulfur-soap-loaf): Sulfur Soap: The Ultimate Solution for Skin Care This premium sulfur soap loaf weighs approximately 2.90 lb and arrives sealed in food-grade shrink wrap.
-  Updated: 2026-03-23T14:07:57Z
+  Updated: 2026-04-03T03:23:18Z
   Vendor: Old Whippersnapper's Natural Handmade Manly Soaps
   Product Type: Our Premium Original Handmade Bar Soaps
   Availability: Available
@@ -95,25 +95,25 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
   - [Cut Loaf (or Loaves) Into Ten Bars 1" Thick Each](https://www.oldwhippersnappers.com/products/sulfur-soap-loaf?variant=48724661534960)
     Availability: Available
 - [Soap Saver - Prolongs Soap Life - Made in USA -  Pack Of 3](https://www.oldwhippersnappers.com/products/soap-saver): Enhance Your Soap Life with Our Premium Cedar Soap Saver Sold In Packs Of 3 - You Get 3 Per Order The soap saver is an essential accessory for anyone who values their soap bars.
-  Updated: 2026-03-23T17:36:40Z
+  Updated: 2026-04-02T10:35:32Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/products/soap1.jpg?v=1769642108
 - [16 oz Clear Plastic Bottles With Disc Cap - Lot of 3](https://www.oldwhippersnappers.com/products/16-oz-clear-plastic-bottles): 16 oz Clear Plastic Bottles With Disc Caps - Lot of 3 Introducing our premium 16 oz Clear Plastic Bottles with Disc Caps. Made from high-quality, durable plastic.
-  Updated: 2026-03-24T18:46:41Z
+  Updated: 2026-04-02T10:35:32Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/3bottles16oz.jpg?v=1769642100
 - [8 oz Clear Plastic Bottles With Hand Pumps - Lot of 3](https://www.oldwhippersnappers.com/products/8-oz-clear-plastic-bottles): 8 oz Clear Plastic Bottles With Hand Pumps - Lot of 3 Discover the perfect solution for your storage needs with our 8 oz Clear Plastic Bottles With Hand Pumps.
-  Updated: 2026-03-23T19:05:05Z
+  Updated: 2026-04-02T10:35:32Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0040/7535/6278/files/3liquidhand.jpg?v=1769642100
 - [Soap Cutter: The Essential Tool for Every Soap Loaf Buyer](https://www.oldwhippersnappers.com/products/soap-cutter): Soap Cutter: The Essential Tool for Every Soap Loaf Buyer When it comes to cutting custom sized soap bars from loaves of soap, a soap cutter is an indispensable tool.
-  Updated: 2026-03-24T21:42:40Z
+  Updated: 2026-04-02T10:35:33Z
   Vendor: Old Whippersnapper's® Natural Handmade Manly Soaps
   Product Type: 
   Availability: Available
@@ -122,28 +122,28 @@ The main ingredients for our vegan soaps include coconut oil, 100% extra virgin 
 ## Collections
 
 - [Best Seller (internal use)](https://www.oldwhippersnappers.com/collections/best-seller-internal-use)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-04T11:05:29Z
   Total Products: 16
 - [All Products For Exit page](https://www.oldwhippersnappers.com/collections/all-products-for-exit-page)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-04T11:05:29Z
   Total Products: 8
 - [All](https://www.oldwhippersnappers.com/collections/all)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-04T11:05:29Z
   Total Products: 12
 - [Best Sellers - Our Premium Handmade Bar Soap Loaves](https://www.oldwhippersnappers.com/collections/best-sellers-our-premium-handmade-bar-soaps)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-02T20:28:52Z
   Total Products: 3
 - [More Premium Handmade Bar Soap Loaves](https://www.oldwhippersnappers.com/collections/more-premium-handmade-bar-soaps)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-02T20:28:52Z
   Total Products: 4
 - [Best Sellers - Our Premium Handmade Liquid Shampoo, Hand, & Body Soap](https://www.oldwhippersnappers.com/collections/best-sellers-our-premium-handmade-liquid-shampoos)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-04T11:05:29Z
   Total Products: 4
 - [More Premium Handmade Liquid Shampoo, Hand, & Body Soap](https://www.oldwhippersnappers.com/collections/more-premium-handmade-liquid-shampoos)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-04T11:05:29Z
   Total Products: 4
 - [Accessories](https://www.oldwhippersnappers.com/collections/accessories)
-  Updated: 2026-03-25T11:04:58Z
+  Updated: 2026-04-02T20:28:52Z
   Total Products: 5
 
 ## Blogs
