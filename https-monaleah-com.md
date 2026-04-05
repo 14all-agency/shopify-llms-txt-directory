@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-07-30T03:16:35Z
 - Contact Email: care@monaleah.com
-- Updated At: 2026-03-27T00:00:40.861Z
+- Updated At: 2026-04-05T00:00:43.388Z
 
 ## Products
 
 - [Personalized Dog Memorial Stone with Photo - Custom Pet Loss Sympathy Gift](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift): Honor your pet with a personalized dog memorial stone featuring their photo. Join 5,000+ happy customers who trust our 5-star handcrafted sympathy gifts
-  Updated: 2026-03-21T17:15:50Z
+  Updated: 2026-04-03T20:39:48Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -217,14 +217,14 @@
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_13.png?v=1767625287
     Price: $39.90 USD
 - [Item Personalization](https://monaleah.com/products/item-personalization): *** This is a hidden product used by Product Personalizer. You can modify everything except Price,Product availability and Product handle. Use app settings to change the Price. More details : https://productpersonalizer.com/docs/how-options-with-costs-are-displayed-in-the-cart-checkout
-  Updated: 2025-11-21T21:05:25Z
+  Updated: 2026-04-01T19:09:53Z
   Vendor: My Store
   Product Type: PPLR_HIDDEN_PRODUCT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/item-personalization.png?v=1722837458
   Price: $0.01 USD
 - [Personalized Cross Memorial Garden Stone - Christian Sympathy Gift](https://monaleah.com/products/personalized-cross-memorial-garden-stone): A beautiful, personalized cross memorial stone to honor a loved one's faith. Customize their name & date. The perfect, hopeful Christian sympathy gift.
-  Updated: 2026-01-26T18:21:23Z
+  Updated: 2026-04-01T19:09:54Z
   Vendor: My Store
   Product Type: Memorial Stone
   Availability: Available
@@ -242,7 +242,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Dog Memorial Photo Frame - Custom Pet Sympathy Gift](https://monaleah.com/products/personalized-dog-memorial-photo-frame-gift): Honor your loyal dog with a personalized photo memorial frame. Customize their full-color photo, name & dates. A beautiful sympathy gift on a lasting stone plaque.
-  Updated: 2026-01-26T18:21:23Z
+  Updated: 2026-04-01T19:09:54Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -368,7 +368,7 @@
     Availability: Available
     Price: $39.90 USD
 - [Personalized Photo Pet Memorial Plaque - Custom Dog Sympathy Gift](https://monaleah.com/products/personalized-photo-pet-memorial-plaque-dog-gift): Honor your beloved dog with a personalized photo memorial plaque. Customize their picture, name & dates on this beautiful "If love could have saved you" sympathy gift.
-  Updated: 2026-01-26T18:21:23Z
+  Updated: 2026-04-01T19:09:54Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -494,7 +494,7 @@
     Availability: Available
     Price: $39.90 USD
 - [Personalized Grandma's Garden Stone - Custom Birth Flowers & Names](https://monaleah.com/products/personalized-grandmas-garden-stone-birth-flowers): #1 Christmas Gift for Grandma! Create her personalized Garden Stone with birth flowers & all her grandchildren's names. A beautiful, custom family keepsake she'll treasure every Holiday.
-  Updated: 2026-01-26T18:21:23Z
+  Updated: 2026-04-01T19:09:55Z
   Vendor: Monaleah
   Product Type: Garden Stone
   Availability: Available
@@ -512,7 +512,7 @@
     Availability: Available
     Price: $39.90 USD
 - [Grandma's Garden Stone - Personalized Birth Flowers & Names Gift](https://monaleah.com/products/grandma-stone-birth-flowers): The ultimate Christmas gift for Grandma! Personalize with birth flowers & names of her grandchildren. A custom stone that's "Blooming in Love." Order your unique holiday keepsake!
-  Updated: 2026-01-26T18:21:22Z
+  Updated: 2026-04-01T19:09:55Z
   Vendor: Monaleah
   Product Type: Garden Stone
   Availability: Available
@@ -530,7 +530,7 @@
     Availability: Available
     Price: $39.90 USD
 - ["Dear Mama" Elephant Heart Stone - Personalized New Mom Christmas Gift](https://monaleah.com/products/personalized-dear-mama-elephant-stone-new-mom-gift): The perfect Christmas gift for new moms! Personalized "Dear Mama" heart stone with elephants & a touching poem. A cherished baby's first Christmas keepsake.
-  Updated: 2026-01-26T18:21:22Z
+  Updated: 2026-04-01T19:09:55Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -548,7 +548,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Grandpa's Team Plaque - Custom Fist Bump Christmas Gift](https://monaleah.com/products/personalized-grandpas-team-fist-bump-plaque): The #1 sentimental Christmas gift for Grandpa! Personalized slate plaque featuring the Fist Bump design & up to 15 names. A treasured family keepsake.
-  Updated: 2026-01-26T18:21:22Z
+  Updated: 2026-04-01T19:09:56Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -566,7 +566,7 @@
     Availability: Available
     Price: $39.00 USD
 - [Personalized Dad's Fist Bump Plaque - Custom Team Christmas Gift](https://monaleah.com/products/personalized-dads-fist-bump-plaque): The #1 sentimental Christmas Gift for Dad! Personalized slate plaque featuring the Fist Bump design & up to 15 names. A treasured keepsake.
-  Updated: 2026-01-26T18:21:22Z
+  Updated: 2026-04-01T19:09:56Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -584,7 +584,7 @@
     Availability: Available
     Price: $39.00 USD
 - [Personalized Birth Flower Plaque - Custom Name Garden Gift](https://monaleah.com/products/personalized-birth-flower-garden-plaque-gift): A stunning personalized birth flower plaque! Custom-engrave a name and date for a unique garden or indoor display. The perfect birthday or Christmas gift.
-  Updated: 2026-01-26T18:21:21Z
+  Updated: 2026-04-01T19:09:56Z
   Vendor: Monaleah
   Product Type: Garden Stone
   Availability: Available
@@ -602,7 +602,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Birth Flower Gardening Stone - Custom Outdoor Decor](https://monaleah.com/products/personalized-birth-flower-gardening-stone-outdoor-decor): A unique, personalized gardening stone to honor a loved one's birth month. Weather-resistant for permanent outdoor decor. The perfect sentimental gift!
-  Updated: 2026-01-26T18:21:21Z
+  Updated: 2026-04-01T19:09:56Z
   Vendor: Monaleah
   Product Type: Garden Stone
   Availability: Available
@@ -620,7 +620,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Cat Memorial Stone - Silhouette Sympathy Gift for Loss of Cat](https://monaleah.com/products/personalized-cat-silhouette-memorial-stone-sympathy-gift): Honor your beloved cat with a personalized silhouette memorial stone. Custom-print their name and dates on this beautiful, timeless sympathy gift. A lasting keepsake to cherish their memory.
-  Updated: 2026-01-26T18:21:21Z
+  Updated: 2026-04-01T19:09:57Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -638,7 +638,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Paw Print Pet Memorial Stone - "Forever In Our Hearts" Gift](https://monaleah.com/products/personalized-paw-print-memorial-stone-forever-hearts): Honor your loyal companion with a personalized paw print memorial stone. Customize their name & dates on this beautiful "Forever In Our Hearts" sympathy gift.
-  Updated: 2026-01-26T18:21:21Z
+  Updated: 2026-04-01T19:09:57Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -656,7 +656,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Cardinal Memorial Plaque - Sympathy Gift for Loss of Loved One](https://monaleah.com/products/personalized-cardinal-memorial-plaque-sympathy-gift): Honor a loved one with our personalized cardinal memorial plaque. Features the hopeful "Those we love don't go away" quote. A beautiful, custom sympathy gift.
-  Updated: 2026-01-26T18:21:20Z
+  Updated: 2026-04-01T19:09:57Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -674,7 +674,7 @@
     Availability: Available
     Price: $39.90 USD
 - [Personalized Rabbit Memorial Stone - Bunny Garden Sympathy Gift](https://monaleah.com/products/personalized-rabbit-memorial-garden-stone): Honor your beloved rabbit with a personalized floral bunny memorial stone. Customize their name & dates on this beautiful, hopeful garden sympathy gift.
-  Updated: 2026-01-26T18:21:20Z
+  Updated: 2026-04-01T19:09:57Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -692,7 +692,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Forget-Me-Not Baby Loss Memorial Stone - Miscarriage Sympathy Gift](https://monaleah.com/products/forget-me-not-baby-loss-memorial-stone-gift): A hopeful, personalized infant loss memorial stone featuring a forget-me-not flower. Customize with your baby's name & date. A gentle sympathy gift.
-  Updated: 2026-02-04T14:27:09Z
+  Updated: 2026-04-01T19:09:58Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -710,7 +710,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Baby Girl Memorial Stone - Pink Floral Sympathy Gift](https://monaleah.com/products/baby-girl-memorial-stone-pink-floral-gift): A hopeful, personalized memorial stone for a baby girl. Features a delicate pink floral design. Customize with her name & date. A gentle sympathy gift.
-  Updated: 2026-01-26T18:21:20Z
+  Updated: 2026-04-01T19:09:58Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -728,14 +728,14 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Mom Memorial Stone - Butterfly Sympathy Gift for Loss of Mother](https://monaleah.com/products/mom-memorial-stone-butterfly-sympathy-gift): A hopeful, personalized mom memorial stone with a delicate butterfly. Customize with her name & dates. A beautiful sympathy gift for loss of a mother.
-  Updated: 2026-02-04T13:41:57Z
+  Updated: 2026-04-01T19:09:58Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Update_5_1.jpg?v=1770169303
   Price: $24.90 USD
 - [Rainbow Bridge Pet Memorial Stone - Personalized Sympathy Gift](https://monaleah.com/products/rainbow-bridge-pet-memorial-stone-gift): A hopeful, personalized Rainbow Bridge memorial stone. Customize with your pet's name & date. A beautiful sympathy gift for a pet "knowing they were loved."
-  Updated: 2026-02-04T14:34:59Z
+  Updated: 2026-04-01T19:09:59Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -753,7 +753,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Classic Rainbow Bridge Pet Memorial Stone - Personalized Sympathy Gift](https://monaleah.com/products/classic-rainbow-bridge-pet-memorial-stone): Honor your pet with our Classic Rainbow Bridge Memorial Stone. Customize with their name & date. A beautiful, hopeful sympathy gift for any pet lover.
-  Updated: 2026-01-26T18:21:19Z
+  Updated: 2026-04-01T19:09:59Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -771,7 +771,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Dog Memorial Stone - Paw Print "Forever In Our Hearts" Gift](https://monaleah.com/products/dog-memorial-stone-paw-print-forever-hearts): Honor your loyal dog with a personalized paw print memorial stone. Customize their name & dates on this beautiful "Forever In Our Hearts" sympathy gift.
-  Updated: 2026-02-04T14:39:46Z
+  Updated: 2026-04-01T19:09:59Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -789,7 +789,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Pet Memorial Heart Stone - Paw Print Sympathy Gift](https://monaleah.com/products/pet-memorial-heart-stone-paw-print-gift): Honor your pet with a personalized memorial heart stone. Features a beautiful paw print with a heart. Customize their name & dates. A hopeful sympathy gift.
-  Updated: 2026-01-26T18:21:18Z
+  Updated: 2026-04-01T19:09:59Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -807,7 +807,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Cat Memorial Stone - "If Love Could Have Saved You" Gift](https://monaleah.com/products/cat-memorial-stone-if-love-could-have-saved-you): Honor your beloved cat with a personalized memorial heart stone. Features the quote, "If love could have saved you..." Customize with their name & dates. A hopeful sympathy gift.
-  Updated: 2026-02-04T14:45:41Z
+  Updated: 2026-04-01T19:10:00Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -825,7 +825,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Cat Memorial Heart Stone - "Forever In Our Hearts" Gift](https://monaleah.com/products/sitting-cat-memorial-heart-stone-gift): Honor your beloved cat with a personalized memorial heart stone. Features a classic sitting cat silhouette and "Forever In Our Hearts" quote. A hopeful sympathy gift.
-  Updated: 2026-01-26T18:21:18Z
+  Updated: 2026-04-01T19:10:00Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -843,7 +843,7 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Rabbit Memorial Stone - Bunny Sympathy Gift](https://monaleah.com/products/bunny-memorial-stone-you-hopped-into-my-heart): Honor your beloved bunny with a personalized floral rabbit memorial stone. Customize their name & date. A beautiful, hopeful sympathy gift.
-  Updated: 2026-01-26T18:21:18Z
+  Updated: 2026-04-01T19:10:00Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -861,7 +861,7 @@
     Availability: Not Available
     Price: $35.90 USD
 - [Winds of Heaven Dandelion Memorial Plaque](https://monaleah.com/products/dandelion-memorial-plaque-winds-of-heaven-gift): This beautiful personalized memorial plaque offers a gentle and lasting way to honor a cherished loved one. It features the silhouette of a dandelion, a timeless symbol of wishes and remembrance, alongside the comforting quote, "May the winds of heaven blow softly..." We will customize this dark, slate-look plaque with your loved one's name and their significant dates. This lasting, elegant design serves as a permanent keepsake for a quiet indoor space, gently celebrating a life well-loved.
-  Updated: 2026-01-26T18:21:17Z
+  Updated: 2026-04-01T19:10:00Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@
     Availability: Available
     Price: $39.90 USD
 - [Personalized Photo Memorial Plaque with Quotes - Custom Sympathy Gift](https://monaleah.com/products/personalized-photo-memorial-plaque-sympathy-gift): Honor a loved one with this personalized photo memorial plaque. Customize with their full-color photo, name & dates, and choose from 6 hopeful quotes. A beautiful sympathy gift.
-  Updated: 2026-01-26T18:21:17Z
+  Updated: 2026-04-01T19:10:01Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -921,7 +921,7 @@
     Availability: Available
     Price: $39.90 USD
 - [Personalized Horse Memorial Photo Plaque - Equestrian Sympathy Gift](https://monaleah.com/products/horse-memorial-photo-plaque-equestrian-gift): Honor a beloved horse with a personalized photo memorial plaque. Customize with their full-color photo, name, dates, and choose from 3 hopeful quotes. A beautiful equestrian sympathy gift.
-  Updated: 2026-01-26T18:21:17Z
+  Updated: 2026-04-01T19:10:01Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -963,14 +963,14 @@
     Availability: Available
     Price: $39.90 USD
 - [Premium Sympathy Card](https://monaleah.com/products/premium-sympathy-card)
-  Updated: 2026-03-16T15:14:07Z
+  Updated: 2026-04-01T19:10:01Z
   Vendor: Monaleah
   Product Type: Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/card_1_1.jpg?v=1769761855
   Price: $5.00 USD
 - [Metal Display Stand for 6 or 8 inch Stones and Plaques](https://monaleah.com/products/metal-display-stand-for-6-or-8-inch-stones-and-plaques): Complete your memorial with a display designed for elegance and stability. This premium iron stand provides a secure, graceful resting place for your stone.
-  Updated: 2026-03-17T21:19:18Z
+  Updated: 2026-04-01T19:10:02Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -985,19 +985,19 @@
 ## Collections
 
 - [All Products](https://monaleah.com/collections/all)
-  Updated: 2026-03-21T11:22:22Z
+  Updated: 2026-04-04T11:20:20Z
   Total Products: 30
 - [Memorial Stones](https://monaleah.com/collections/memorial-stones)
-  Updated: 2026-03-21T11:22:22Z
+  Updated: 2026-04-04T11:20:20Z
   Total Products: 7
 - [Garden Stones](https://monaleah.com/collections/garden-stones)
-  Updated: 2026-01-24T19:14:28Z
+  Updated: 2026-04-01T19:09:54Z
   Total Products: 4
 - [Rainbow Remembrance](https://monaleah.com/collections/rainbow-remembrance)
-  Updated: 2026-01-24T19:18:37Z
+  Updated: 2026-04-01T19:09:55Z
   Total Products: 2
 - [Baby & Infant Loss](https://monaleah.com/collections/baby-infant-loss)
-  Updated: 2026-01-24T19:16:19Z
+  Updated: 2026-04-01T19:09:56Z
   Total Products: 5
 
 ## Store Pages
