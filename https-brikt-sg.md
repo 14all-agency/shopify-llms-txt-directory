@@ -6,7 +6,7 @@
 - Timezone: Asia/Singapore
 - Created At: 2025-12-30T03:00:54Z
 - Contact Email: goomesinternational@gmail.com
-- Updated At: 2026-03-29T00:00:40.875Z
+- Updated At: 2026-04-05T00:00:40.945Z
 
 Brik't Singapore is a local brand started by a group of friends that were tired of overly sweet or processed tea options, and so they set out to create something better!
 
@@ -14,36 +14,36 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
 
 ## Products
 
-- [Strawberry Peach Oolong Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-strawberry-peach-oolong-freeze-dried-fruit-tea-bricks-7-pack-low-calories)
-  Updated: 2026-03-19T06:39:58Z
+- [[B1F1] Strawberry Peach Oolong Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-strawberry-peach-oolong-freeze-dried-fruit-tea-bricks-7-pack-low-calories): Limited-Time  (Worth SGD$37.80!) 2 Strawberry Peach Oolong Boxes at the price of 1! Couple it with our website-exclusive promotions* (Worth SGD$43.80!): Min. Order $40 - FREE SHIPPINGMin. Order $60 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE Min. Order $80 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE + VARIETY BOX*Automatically applied at checkout
+  Updated: 2026-03-31T14:54:26Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Strawberry_1_a35a4e2a-ed31-454c-a1cb-7d9488a31d2f.webp?v=1770795110
   Price: $18.90 SGD
 - [[BRIK'T OFFICIAL] Orange Pineapple Freeze-Dried Fruit Tea Bricks 7-Pack](https://brikt.sg/products/bundle--brikt-official-orange-pineapple-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient): [Bundle ] [BRIK'T OFFICIAL] Orange Pineapple Freeze-Dried Fruit Tea Bricks 7-Pack「Low Calories & Convenient」
-  Updated: 2026-03-19T06:39:58Z
+  Updated: 2026-03-31T14:53:39Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Orange_1_1993f66e-7980-479d-9658-eb6f3dd82d29.webp?v=1770795137
   Price: $18.90 SGD
-- [Coconut Mango Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-coconut-mango-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient)
-  Updated: 2026-03-19T06:39:59Z
+- [[B1F1] Coconut Mango Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-coconut-mango-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient): Limited-Time  (Worth SGD$37.80!) 2 Coconut Mango Boxes at the price of 1! Couple it with our website-exclusive promotions* (Worth SGD$43.80!): Min. Order $40 - FREE SHIPPINGMin. Order $60 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE Min. Order $80 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE + VARIETY BOX*Automatically applied at checkout
+  Updated: 2026-03-31T14:46:42Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Coconut_1_98d7284d-14af-4f73-a56c-50c841984fcf.webp?v=1770795102
   Price: $18.90 SGD
-- [Jasmine Grapefruit (7 Servings)](https://brikt.sg/products/bundle--brikt-official-jasmine-grapefruit-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient)
-  Updated: 2026-03-19T06:39:59Z
+- [[B1F1] Jasmine Grapefruit (7 Servings)](https://brikt.sg/products/bundle--brikt-official-jasmine-grapefruit-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient): Limited-Time  (Worth SGD$37.80!) 2 Jasmine Grapefruit Boxes at the price of 1! Couple it with our website-exclusive promotions* (Worth SGD$43.80!): Min. Order $40 - FREE SHIPPINGMin. Order $60 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE Min. Order $80 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE + VARIETY BOX*Automatically applied at checkout
+  Updated: 2026-03-31T14:46:28Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Jasmine_1_724fdf49-2328-477f-9ff5-9ea4aa8bbb57.webp?v=1770795074
   Price: $18.90 SGD
-- [Variety Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-variety-box-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient)
-  Updated: 2026-03-19T06:39:59Z
+- [[B1F1] Variety Box (7 Servings)](https://brikt.sg/products/bundle--brikt-official-variety-box-freeze-dried-fruit-tea-bricks-7-pack-low-calories-convenient): Limited-Time  (Worth SGD$37.80!) 2 Variety Boxes at the price of 1! Couple it with our website-exclusive promotions* (Worth SGD$43.80!): Min. Order $40 - FREE SHIPPINGMin. Order $60 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE Min. Order $80 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE + VARIETY BOX*Automatically applied at checkout
+  Updated: 2026-04-01T09:13:47Z
   Vendor: Brikt
   Product Type: 
   Availability: Available
@@ -67,6 +67,57 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
   - [Orange Pineapple (Single Pack)](https://brikt.sg/products/brikt-official-freeze-dried-fruit-tea-bricks-1-pack-randomly-picked-convenient-portable-real-fruit-fiber-1?variant=52717962985839)
     Availability: Available
     Price: $4.00 SGD
+- [[B1F1] x2 Savings Bundle (Any Flavours)](https://brikt.sg/products/variety-box-7-servings-copy): Limited-Time  (Worth SGD$37.80!) 4 Boxes at the price of 2! Couple it with our website-exclusive promotions* (Worth SGD$43.80!): Min. Order $40 - FREE SHIPPINGMin. Order $60 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE Min. Order $80 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE + VARIETY BOX*Automatically applied at checkout
+  Updated: 2026-03-31T15:15:50Z
+  Vendor: Brikt
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/x2_Bundle.webp?v=1771897375
+  - [1 Variety + 1 Variety](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047555439)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Variety + 1 Jasmine Grapefruit](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047588207)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Variety + 1 Orange Pineapple](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047620975)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Variety + 1 Strawberry Peach Oolong](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047653743)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Variety + 1 Coconut Mango](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047686511)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Jasmine Grapefruit + 1 Jasmine Grapefruit](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047719279)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Jasmine Grapefruit + 1 Orange Pineapple](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047752047)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Jasmine Grapefruit + 1 Strawberry Peach Oolong](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047784815)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Jasmine Grapefruit + 1 Coconut Mango](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047817583)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Orange Pineapple + 1 Orange Pineapple](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047850351)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Orange Pineapple + 1 Strawberry Peach Oolong](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047883119)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Orange Pineapple + 1 Coconut Mango](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047915887)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Strawberry Peach Oolong + 1 Strawberry Peach Oolong](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047948655)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Strawberry Peach Oolong + 1 Coconut Mango](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803047981423)
+    Availability: Available
+    Price: $29.90 SGD
+  - [1 Coconut Mango + 1 Coconut Mango](https://brikt.sg/products/variety-box-7-servings-copy?variant=52803048014191)
+    Availability: Available
+    Price: $29.90 SGD
 - [Brikky Plushie Keychain](https://brikt.sg/products/brikky-plushie-keychain)
   Updated: 2026-03-19T06:40:00Z
   Vendor: Brikt
@@ -74,41 +125,122 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/Plushie_Front.webp?v=1771912590
   Price: $19.90 SGD
-- [x6 Savings Bundle (Any Flavours)](https://brikt.sg/products/x6-savings-bundle-1)
-  Updated: 2026-03-03T05:58:37Z
-  Vendor: Brik't
-  Product Type: JTDL: Bundles & Discounts
+- [[B1F1] x4 Savings Bundle (Any Flavours)](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours): Limited-Time  (Worth SGD$75.60!) 4 Boxes at the price of 2! Couple it with our website-exclusive promotions* (Worth SGD$43.80!): Min. Order $40 - FREE SHIPPINGMin. Order $60 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE Min. Order $80 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE + VARIETY BOX*Automatically applied at checkout
+  Updated: 2026-03-31T15:22:54Z
+  Vendor: Brikt
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/x6_Bundle_57302c07-1552-48ad-ba9e-08e5f46ed6a4.webp?v=1772175251
-  Price: $78.90 SGD
-- [x4 Savings Bundle (Any Flavour)](https://brikt.sg/products/x4-savings-bundle)
-  Updated: 2026-03-03T05:58:37Z
-  Vendor: Brik't
-  Product Type: JTDL: Bundles & Discounts
+  Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/x4_Bundle_87eb651d-7f5d-4791-8101-32e75bb30cb6.webp?v=1774927365
+  - [2 Variety + 2 Variety](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803064889711)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Variety + 2 Jasmine Grapefruit](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803064922479)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Variety + 2 Orange Pineapple](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803064955247)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Variety + 2 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803064988015)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Variety + 2 Coconut Mango](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065020783)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Jasmine Grapefruit + 2 Jasmine Grapefruit](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065053551)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Jasmine Grapefruit + 2 Orange Pineapple](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065086319)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Jasmine Grapefruit + 2 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065119087)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Jasmine Grapefruit + 2 Coconut Mango](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065151855)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Orange Pineapple + 2 Orange Pineapple](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065184623)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Orange Pineapple + 2 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065217391)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Orange Pineapple + 2 Coconut Mango](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065250159)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Strawberry Peach Oolong + 2 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065282927)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Strawberry Peach Oolong + 2 Coconut Mango](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065315695)
+    Availability: Available
+    Price: $29.90 SGD
+  - [2 Coconut Mango + 2 Coconut Mango](https://brikt.sg/products/b1f1-x4-savings-bundle-any-flavours?variant=52803065348463)
+    Availability: Available
+    Price: $29.90 SGD
+- [[B1F1] x6 Savings Bundle (Any Flavours)](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours): Limited-Time  (Worth SGD$113.40!) 6 Boxes at a DISCOUNTED price of 3! Couple it with our website-exclusive promotions* (Worth SGD$43.80!): Min. Order $40 - FREE SHIPPINGMin. Order $60 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE Min. Order $80 - FREE SHIPPING + PREMIUM BRIKKY PLUSHIE + VARIETY BOX*Automatically applied at checkout
+  Updated: 2026-03-31T15:24:53Z
+  Vendor: Brikt
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/x4_Bundle_87eb651d-7f5d-4791-8101-32e75bb30cb6.webp?v=1772177833
-  Price: $53.90 SGD
-- [x2 Savings Bundle (Any Flavour)](https://brikt.sg/products/x2-savings-bundle-any-flavour)
-  Updated: 2026-03-03T05:58:37Z
-  Vendor: Brik't
-  Product Type: JTDL: Bundles & Discounts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/x2_Bundle_7b78773b-8bbf-4a8a-ba51-1102d06401a4.webp?v=1772178561
-  Price: $29.90 SGD
+  Image: https://cdn.shopify.com/s/files/1/0949/9272/8431/files/x6_Bundle_57302c07-1552-48ad-ba9e-08e5f46ed6a4.webp?v=1774927825
+  - [3 Variety + 3 Variety](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068428655)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Variety + 3 Jasmine Grapefruit](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068461423)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Variety + 3 Orange Pineapple](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068494191)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Variety + 3 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068526959)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Variety + 3 Coconut Mango](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068559727)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Jasmine Grapefruit + 3 Jasmine Grapefruit](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068592495)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Jasmine Grapefruit + 3 Orange Pineapple](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068625263)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Jasmine Grapefruit + 3 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068658031)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Jasmine Grapefruit + 3 Coconut Mango](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068690799)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Orange Pineapple + 3 Orange Pineapple](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068723567)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Orange Pineapple + 3 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068756335)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Orange Pineapple + 3 Coconut Mango](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068789103)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Strawberry Peach Oolong + 3 Strawberry Peach Oolong](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068821871)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Strawberry Peach Oolong + 3 Coconut Mango](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068854639)
+    Availability: Available
+    Price: $78.90 SGD
+  - [3 Coconut Mango + 3 Coconut Mango](https://brikt.sg/products/b1f1-x6-savings-bundle-any-flavours?variant=52803068887407)
+    Availability: Available
+    Price: $78.90 SGD
 
 ## Collections
 
 - [Freeze-Dried Fruit Teas](https://brikt.sg/collections/all-products): Check out all our delicious options!
-  Updated: 2026-03-19T06:50:39Z
+  Updated: 2026-04-01T11:29:02Z
   Total Products: 6
 - [Savings Bundle Deals](https://brikt.sg/collections/bundle-deals)
-  Updated: 2026-03-19T06:50:39Z
+  Updated: 2026-03-31T03:25:56Z
   Total Products: 6
 - [Merchandise](https://brikt.sg/collections/merchandise)
   Updated: 2026-03-19T06:50:39Z
   Total Products: 1
 - [All Products](https://brikt.sg/collections/all-products-1)
-  Updated: 2026-03-19T06:50:39Z
+  Updated: 2026-04-01T11:29:02Z
   Total Products: 13
 
 ## Blogs
@@ -298,6 +430,13 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
     Updated: 2026-03-25T00:10:40Z
     Author: Brik't Singapore
     Tags: brik't, competitive advantage, enhance work efficiency, innovative products, office essentials, productivity, quality office supplies, supplies
+  - [Common Mistakes When Brewing Freeze-Dried Fruit Tea and How to Avoid Them](https://brikt.sg/blogs/our-blogs/common-mistakes-when-brewing-freeze-dried-fruit-tea-and-how-to-avoid-them): Common Mistakes When Brewing Freeze-Dried Fruit Tea and How to Avoid Them
+    Updated: 2026-03-30T00:10:12Z
+    Author: Brik't Singapore
+  - [Environmental Impact Made Fun with Brik't Eco-Friendly Toys](https://brikt.sg/blogs/our-blogs/environmental-impact-made-fun-with-brikt-eco-friendly-toys): Environmental Impact Made Fun with Brik't Eco-Friendly Toys
+    Updated: 2026-04-01T00:11:09Z
+    Author: Brik't Singapore
+    Tags: brik't products, eco-conscious play options, eco-friendly, environmental impact, fun toys, playful learning activities, sustainable, toys
 - [Recipes](https://brikt.sg/blogs/recipes)
   - [Miss Perilla Peach](https://brikt.sg/blogs/recipes/miss-perilla-peach)
     Updated: 2026-01-20T05:01:58Z
@@ -335,6 +474,10 @@ By using freeze-drying technology, the pure essence of fruits at its peak ripene
     Updated: 2026-03-27T10:03:01Z
     Author: Brik't Singapore
     Tags: cooking, cooking for friends, delicious, easy cooking recipes, family, family recipes, friends, ingredients, recipe ideas, recipes, refreshing, refreshing meals
+  - [Historical Dishes with a Delicious Twist to Delight Your Family and Friends](https://brikt.sg/blogs/recipes/historical-dishes-with-a-delicious-twist-to-delight-your-family-and-friends): Historical Dishes with a Delicious Twist to Delight Your Family and Friends
+    Updated: 2026-04-03T10:01:58Z
+    Author: Brik't Singapore
+    Tags: cooking, delicious, delightful recipes, family, family meals, friends, historical cooking methods, history, recipes, refreshing, traditional dishes, twist on classics
 
 ## Store Pages
 
