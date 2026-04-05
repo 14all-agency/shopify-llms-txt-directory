@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-02-13T04:38:29Z
 - Contact Email: support@mindcypress.com
-- Updated At: 2026-03-29T00:00:43.479Z
+- Updated At: 2026-04-05T00:09:42.904Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/Advanced-financial-modeling_0027868c-1b0e-4dae-883f-a732b5083868.png?v=1683609734
   Price: $799.00 USD
 - [Human Resource Analytics (hr analytics) Certification Training Course](https://mindcypress.com/products/human-resource-analytics-instructor-led-online-training): Online Human Resource Analytics Certification Course Training by MindCypress prepares professionals for making decisions based on data analytics in Human Resources. The course is for anyone who is interested in HR field.
-  Updated: 2026-03-26T09:44:17Z
+  Updated: 2026-03-31T10:01:21Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/-manager-of-quality.png?v=1683611812
   Price: $799.00 USD
 - [Enhance Your Financial Skills With Our ACCA IFRS Certification](https://mindcypress.com/products/dip-ifrs-acca-uk-instructor-led-online-training): You can become job ready by acquiring the right knowledge and expertise in IFRS. Attend our Dip IFRS classes to learn about the rules, guidelines, and reporting requirements of IFRS.
-  Updated: 2026-03-27T15:14:37Z
+  Updated: 2026-04-02T08:26:38Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/DIp-ifrs.png?v=1683612952
   Price: $1,199.00 USD
 - [Project Management Professional Certification Training Courses](https://mindcypress.com/products/project-management-professional-instructor-led-online-training): Online PMP Exam Certification Training by MindCypress has helped thousands of professionals achieve their career goals in Project Management. The exam prep training program is well-structured by expert industry leaders.
-  Updated: 2026-03-26T18:00:34Z
+  Updated: 2026-04-03T13:11:41Z
   Vendor: MindCypress
   Product Type: LVC
   Availability: Available
@@ -522,7 +522,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/CMQ_224146e2-b88b-46d7-985d-9d2f28d98c65.png?v=1683289589
   Price: $499.00 USD
 - [DIP IFRS ACCA UK Prerecorded Training](https://mindcypress.com/products/dip-ifrs-acca-uk-prerecorded-training): Course Objective For financial professionals operating or planning to work in an environment that requires accounting and reporting using IFRS, a diploma in IFRS is beneficial. The Diploma IFRS programme helps professionals get ready for work in an IFRS environment by expanding a person's knowledge of IFRS, giving them an understanding of the concepts and principles that underpin them and their application in the global economy. The International Accounting Standards Board's (IASB) International Financial Reporting Standards (IFRS) are quickly becoming the standard for the accounting industry. Prerequisites Basic accounting understanding Target Audience Candidates for the ACCA SBR Examinations Candidates for the ACCA DipIFR Test Candidates for the ACCA Cert IFRS Exam. Working individuals who are in charge of creating financial reports in accordance with IFRS - International Financial Reporting Standards Training Outcomes This course is in accordance with the course outline for the ACCA Dip-IFR test and is based on the IFRS syllabus recommended by the ACCA (Association of  Chartered Accountants). In order to prepare financial statements for entities, including consolidated financial statements, participants are expected to acquire knowledge, skills, and an understanding of international financial reporting standards. Modules IAS Standards Covered IAS 1: Presentation of Financial Statement IAS 8: Accounting Policies, Change in accounting estimates and Errors IAS 10: Events after the reporting period to Complete Option IAS 2: Inventories IAS 16: Property Plant & Equipment IAS 23: Borrowing Cost IAS 20: Government Grants IAS 33: Earning Per Share IAS 37: Provisions, Contingents Liabilities & Contingent Assets Employee Benefits IAS 21: The Effect of change in Foreign Reserve IAS 12: Income Taxes IAS 24: Related Party Disclosure IAS 27: Separate Financial Statements IAS 28:  in Associates & Joint Venture IAS 34: Interim Financial Reporting IAS 36: Impairment IAS 38: Intangible Assets IAS 40:  Property IAS 41: Inventories IFRS Standards Covered IFRS 1: First Time Adoption IFRS 2: Share Based Payment IFRS 3: Business Combination IFRS 5: Non current Assets held for  & Discontinued Operations IFRS 8: Operating Segments IFRS 9: Financial Instruments IFRS 10: Consolidated Financial Statements IFRS 11: Joint Arrangements IFRS 13: Fair Value Measurement IFRS 15: Revenue IFRS 16: Leases FAQs How is IFRS different from US GAAP? The scope of the specific distinctions between IFRS and GAAP has been decreasing as a result of ongoing convergence projects between the IASB and the FASB. But, there are still some important variances, and depending on the sector a firm operates in as well as specific facts and circumstances, any one of these could lead to considerably different reported results. For instance, IFRS prohibits Last In, First Out (LIFO). Why IFRS requires capitalization of development expenditures after specific qualifying criteria are met, whereas U.S. GAAP uses a two-step procedure for impairment write-downs, increasing the likelihood of write-downs. U.S. GAAP normally requires development costs to be written off as they are incurred, with the exception of costs associated with the creation of computer software, which must be capitalized after certain conditions are met. Can a CA intern do a diploma in IFRS? Accounting professionals and CAs are eligible to apply for Diploma in the IFRS course. A relevant degree with two years of work experience in the accounting field.
-  Updated: 2026-02-23T09:03:37Z
+  Updated: 2026-03-30T16:40:56Z
   Vendor: MindCypress
   Product Type: Prerecorded Trainings
   Availability: Available
@@ -673,24 +673,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/64a253d9e4b01c64da03239a_scaled_cover.png?v=1771845577
   Price: $599.00 USD
+- [PMP Certification Training in Dubai | Online PMP Course Dubai | UAE](https://mindcypress.com/products/pmp-certification-training-in-dubai): PMP Certification Training in Dubai by MindCypress. Join online PMP certification
+Dubai, expert-led PMP course in Dubai & project management training. Prepare for PMP exam in Dubai,
+UAE.
+  Updated: 2026-04-01T08:29:27Z
+  Vendor: MindCypress
+  Product Type: Online Training
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/PMP_Certification_Training_in_Dubai.png?v=1774873033
+  Price: $699.00 USD
+- [PMP Certification Training in Kenya | Online PMP Course | Nairobi](https://mindcypress.com/products/pmp-certification-training-in-kenya): Enroll in PMP Certification Training in Kenya with MindCypress. Get expert-
+led online PMP courses, exam preparation, and project management training in Nairobi and
+across Kenya.
+  Updated: 2026-04-01T21:25:07Z
+  Vendor: MindCypress
+  Product Type: Online Training
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/PMPCertificationTraininginKenya.png?v=1775035440
+  Price: $699.00 USD
+- [PMP Certification Training in Congo | Online & Kinshasa PMP Course](https://mindcypress.com/products/pmp-certification-training-in-congo): Join MindCypress for PMP Certification Training in Congo. Enroll in online PMP Certification in Congo
+or PMP course in Kinshasa. Expert-led project management training and PMP exam guidance.
+  Updated: 2026-04-03T19:46:27Z
+  Vendor: MindCypress
+  Product Type: Congo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/2099/2063/files/PMPCertificationTraininginCongo.png?v=1775203053
+  Price: $699.00 USD
 
 ## Collections
 
 - [Home page](https://mindcypress.com/collections/frontpage)
-  Updated: 2026-03-28T11:09:04Z
+  Updated: 2026-04-02T11:12:01Z
   Total Products: 11
 - [Information Technology](https://mindcypress.com/collections/information-technology): Find opportunities for a diverse field of careers in engineering, statistics, and business with a degree in data science. Working as a data scientist can be intellectually challenging, analytically satisfying, and put you at the forefront of new advances in technology. Data scientists have become more common and in demand, as big data continues to be increasingly important to the way organizations make decisions.
   Updated: 2025-02-17T12:24:40Z
   Total Products: 41
 - [Business](https://mindcypress.com/collections/business)
-  Updated: 2026-03-26T11:08:58Z
+  Updated: 2026-03-31T11:09:03Z
   Total Products: 6
 - [Marketing](https://mindcypress.com/collections/marketing)
   Updated: 2025-02-17T12:24:40Z
   Total Products: 4
 - [Project Management](https://mindcypress.com/collections/project-management)
-  Updated: 2026-03-27T11:08:20Z
-  Total Products: 6
+  Updated: 2026-04-04T11:09:30Z
+  Total Products: 9
 - [Quality Management](https://mindcypress.com/collections/quality-management)
   Updated: 2025-11-25T12:07:17Z
   Total Products: 10
@@ -701,29 +727,29 @@
   Updated: 2026-03-11T11:07:52Z
   Total Products: 1
 - [Upcoming Trainings](https://mindcypress.com/collections/upcoming-trainings)
-  Updated: 2026-03-28T11:09:04Z
-  Total Products: 11
+  Updated: 2026-04-04T11:09:30Z
+  Total Products: 14
 - [Finance & Accounting](https://mindcypress.com/collections/finance-accounting)
-  Updated: 2026-03-28T11:09:04Z
+  Updated: 2026-04-02T11:12:01Z
   Total Products: 13
 - [Instructor Led Trainings](https://mindcypress.com/collections/all)
-  Updated: 2026-03-28T11:09:04Z
+  Updated: 2026-04-04T11:09:30Z
   Total Products: 42
 - [MQA  Trainings](https://mindcypress.com/collections/mqa--trainings)
   Updated: 2025-02-17T12:24:41Z
   Total Products: 7
 - [Prerecorded Trainings](https://mindcypress.com/collections/prerecorded-trainings)
-  Updated: 2026-03-26T11:08:58Z
+  Updated: 2026-03-31T11:09:03Z
   Total Products: 10
 - [AVADA Email Marketing - Best Sellers](https://mindcypress.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-03-28T11:09:04Z
-  Total Products: 97
+  Updated: 2026-04-04T11:09:30Z
+  Total Products: 100
 - [AVADA Email Marketing - Newest Products](https://mindcypress.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-03-28T11:09:04Z
-  Total Products: 97
+  Updated: 2026-04-04T11:09:30Z
+  Total Products: 100
 - [Eid Offer](https://mindcypress.com/collections/eid-offer)
-  Updated: 2026-03-27T11:08:20Z
-  Total Products: 3
+  Updated: 2026-04-04T11:09:30Z
+  Total Products: 6
 
 ## Blogs
 
