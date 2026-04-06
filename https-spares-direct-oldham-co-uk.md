@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-06-16T18:27:32Z
 - Contact Email: sparesdirect2015ltd@gmail.com
-- Updated At: 2026-03-30T00:00:42.570Z
+- Updated At: 2026-04-06T00:00:44.499Z
 
 ## Products
 
@@ -1157,7 +1157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_a69e7f56-0e11-4e82-941c-d187a2a3d91b.jpg?v=1751266982
   Price: £23.09 GBP
 - [Genuine Microwave Glass Turntable Plate For Panasonic NN-GD361MEPG](https://spares-direct-oldham.co.uk/products/genuine-panasonic-microwave-glass-turntable-plate-for-nn-gd361mepg): Genuine Glass Turntable Plate This part is 100% Genuine for Panasonic. The Image shows actual part supplied. Email us your model number if you are not sure it will fit
-  Updated: 2025-12-05T10:54:37Z
+  Updated: 2026-03-31T07:55:46Z
   Vendor: Panasonic
   Product Type: 
   Availability: Available
@@ -1192,7 +1192,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_d5fd7c72-0fba-449c-97d5-fd29e67cc4ed.jpg?v=1751228687
   Price: £29.51 GBP
 - [Replacement Remote Control For Hitachi TV 32HB4T41 32HB4T61 32HB4T61-Z](https://spares-direct-oldham.co.uk/products/replacement-remote-control-for-hitachi-tv-32hb4t41-32hb4t61-32hb4t61-z): BRAND NEW Aftermarket REMOTE CONTROL
-  Updated: 2025-07-01T17:55:58Z
+  Updated: 2026-03-30T05:52:17Z
   Vendor: Spares-Direct
   Product Type: 
   Availability: Available
@@ -1765,11 +1765,11 @@
 - [Home page](https://spares-direct-oldham.co.uk/collections/frontpage)
   Updated: 2025-07-22T09:41:53Z
   Total Products: 2
-- [Other](https://spares-direct-oldham.co.uk/collections/other)
-  Updated: 2026-03-29T11:35:57Z
+- [Other Parts](https://spares-direct-oldham.co.uk/collections/other): other spare parts
+  Updated: 2026-04-05T11:34:16Z
   Total Products: 18554
 - [TV REMOTE CONTROLS](https://spares-direct-oldham.co.uk/collections/tv-remote-controls)
-  Updated: 2026-03-11T11:30:34Z
+  Updated: 2026-03-31T15:27:49Z
   Total Products: 1932
 
 ## Blogs
@@ -1790,6 +1790,14 @@
 
 - [Privacy Policy](https://spares-direct-oldham.co.uk/policies/privacy-policy)
   Updated: 2025-06-16T19:27:45+01:00
+- [Shipping Policy](https://spares-direct-oldham.co.uk/policies/shipping-policy)
+  Updated: 2026-03-31T16:34:40+01:00
+- [Refund Policy](https://spares-direct-oldham.co.uk/policies/refund-policy)
+  Updated: 2026-03-31T16:33:50+01:00
+- [Terms of Service](https://spares-direct-oldham.co.uk/policies/terms-of-service)
+  Updated: 2026-03-31T16:33:59+01:00
+- [Contact Information](https://spares-direct-oldham.co.uk/policies/contact-information)
+  Updated: 2026-03-31T16:35:26+01:00
 
 ## Optional
 
