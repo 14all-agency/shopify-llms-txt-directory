@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-26T21:21:43Z
 - Contact Email: sales@detekthome.com
-- Updated At: 2026-03-28T00:00:37.265Z
+- Updated At: 2026-04-06T00:00:40.458Z
 
 ## Products
 
@@ -43,7 +43,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Baby_Prep_Amazon_Images_V3-01.png?v=1761753561
   Price: $37.79 USD
 - [Water Bacteria Test Kit - E Coli & Coliform Test](https://detekthome.com/products/water-bacteria-test-kit): Detect E. coli, coliform bacteria & mold in well water and drinking water. Lab-grade DIY test kit with accurate results. No lab required. Made in USA by Detekt.
-  Updated: 2026-03-23T19:16:06Z
+  Updated: 2026-04-02T17:16:20Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Bacteria_in_Water_Amazon_Images_DIPSLIDES_V4-08.png?v=1760979166
     Price: $19.99 USD
 - [Bacteria Test Kit for Surfaces - Home & Kitchen](https://detekthome.com/products/home-sanitation-test-kit): DIY bacteria test kit for surfaces detects coliforms, Salmonella & mold on kitchen counters, cutting boards & appliances. Lab-grade microbial testing at home.
-  Updated: 2026-03-25T15:41:08Z
+  Updated: 2026-04-04T21:03:45Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -97,7 +97,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/r.png?v=1756925912
   Price: $29.99 USD
 - [Home Mold Test Kit - DIY Indoor Air Quality Test](https://detekthome.com/products/mold-test-kit): Detect mold, bacteria & fungus in your home with our lab-grade DIY mold test kit. Get visual results in 72hours. Expert consultation. Made in USA. No lab fees!
-  Updated: 2026-03-10T15:54:36Z
+  Updated: 2026-04-04T01:14:06Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -170,37 +170,37 @@
   Updated: 2026-03-26T11:18:20Z
   Total Products: 1
 - [Home Air Quality Test Kit - Mold & Radon Detection](https://detekthome.com/collections/air-quality): Home air quality test kits detect mold spores, radon gas & indoor air contaminants. Results in minutes. 99% accurate. EPA trusted. Lab-grade. Made in USA.
-  Updated: 2026-03-11T11:18:16Z
+  Updated: 2026-04-04T11:17:36Z
   Total Products: 3
 - [Bacteria Test Kit - Water & Surface Microbial Test](https://detekthome.com/collections/bacteria): Bacteria test kits detect E. coli, coliform & harmful microbes in water, kitchen & home surfaces. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-26T11:18:20Z
+  Updated: 2026-04-05T11:16:15Z
   Total Products: 4
 - [Water Quality](https://detekthome.com/collections/water-quality)
-  Updated: 2026-03-26T11:18:20Z
+  Updated: 2026-04-03T11:18:54Z
   Total Products: 6
 - [Radon Test Kit - Home Radon Gas Detection & Testing](https://detekthome.com/collections/radon-gas): Radon test kits detect dangerous radon gas in your home basement & living spaces. DIY radon testing with results in minutes. 99% accurate. EPA trusted. Made in USA.
   Updated: 2026-03-10T11:18:49Z
   Total Products: 2
 - [Mold Test Kit - Home Air Quality & DIY Mold Detection](https://detekthome.com/collections/mold): Mold test kits detect airborne mold spores & indoor air quality issues in your home. Lab-grade results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-26T11:18:20Z
+  Updated: 2026-04-05T11:16:15Z
   Total Products: 4
 - [Water Purity Test Kit - Drinking Water & Well Water Testing](https://detekthome.com/collections/water-purity): Water test kits detect bacteria, lead & contaminants in drinking water, well water & tap water. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-26T11:18:20Z
-  Total Products: 4
+  Updated: 2026-04-03T11:18:54Z
+  Total Products: 5
 - [Leak Monitoring](https://detekthome.com/collections/leak-monitoring)
   Updated: 2026-03-10T11:18:49Z
   Total Products: 1
 - [Best Sellers](https://detekthome.com/collections/best-sellers)
-  Updated: 2026-03-26T11:18:20Z
+  Updated: 2026-04-05T11:16:15Z
   Total Products: 9
 - [Full Home Tests](https://detekthome.com/collections/full-home-tests)
   Updated: 2026-03-20T11:16:57Z
   Total Products: 3
 - [Sanitation](https://detekthome.com/collections/sanitation)
-  Updated: 2026-03-26T11:18:20Z
+  Updated: 2026-04-05T11:16:15Z
   Total Products: 2
 - [Mold](https://detekthome.com/collections/mold-1)
-  Updated: 2026-03-11T11:18:16Z
+  Updated: 2026-04-04T11:17:36Z
   Total Products: 1
 - [Bulk & Wholesale](https://detekthome.com/collections/bulk-wholesale)
   Updated: 2026-03-12T20:19:32Z
@@ -489,6 +489,12 @@
   Updated: 2026-03-09T20:12:39Z
 - [Wholesale & Bulk Product](https://detekthome.com/pages/wholesale-bulk-product)
   Updated: 2026-03-10T18:27:17Z
+- [Detekt Home Pool & Hottub Resource Hub](https://detekthome.com/pages/detekt-home-pool-hottub-resource-hub)
+  Updated: 2026-04-02T18:53:14Z
+- [Detekt Home RV & Marine Hub](https://detekthome.com/pages/detekt-home-rv-marine-hub)
+  Updated: 2026-04-02T19:09:53Z
+- [Detekt Home Travel & Camping Resource Hub](https://detekthome.com/pages/detekt-home-travel-camping-resource-hub)
+  Updated: 2026-04-02T19:18:44Z
 
 ## Policies
 
