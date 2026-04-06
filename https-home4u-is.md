@@ -1,12 +1,22 @@
 # Home4u (https://home4u.is)
 
+> Home4u is an Iceland-based e-commerce store specializing in bathroom, kitchen, and home improvement products. The store offers a wide selection of high-quality fixtures, fittings, and interior solutions for residential projects.
+
 - Domain: https://home4u.is
 - Locale: en
 - Currency: ISK
 - Timezone: Atlantic/Reykjavik
 - Created At: 2024-05-12T17:01:36Z
 - Contact Email: Home4u@home4u.is
-- Updated At: 2026-03-30T00:00:39.501Z
+- Contact Phone: +354 7656999
+- Address: Miðhraun 22, Garðabær, Iceland
+- Updated At: 2026-04-06T00:00:42.996Z
+
+Home4u is a leading Icelandic e-commerce store specializing in premium bathroom, kitchen, and home improvement products. We offer a curated selection of high-quality European brands, focusing on modern Scandinavian design, durability, and functionality.
+
+Our catalog includes bathtubs, sinks, faucets, showers, tiles, windows, doors, and interior solutions for both residential and professional construction projects in Iceland.
+
+We serve homeowners, contractors, designers, and developers looking for reliable, stylish, and long-lasting home solutions.
 
 ## Products
 
@@ -105,7 +115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/LiviaB3_jfif.webp?v=1716402555
   Price: kr 54,900.00 ISK
 - [Livia Stone handlaug](https://home4u.is/products/livia-stone-handlaug): Einstaklega falleg hönnun. Stærð: Lengd: 465mm Breidd: 335mm Hæð: 135mm TAPPI FYLGIR EKKI MEÐ Litir í boði: Chrome, matt svartur, gun metal & gull Efni: Sanitary ceramics Þrif: Þennan vask er einstaklega auðvelt að þrífa. Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-11-14T01:02:48Z
+  Updated: 2026-03-31T16:22:56Z
   Vendor: Rea
   Product Type: handlaug
   Availability: Available
@@ -761,7 +771,7 @@
   Updated: 2026-03-26T11:21:59Z
   Total Products: 6
 - [Handlaugar](https://home4u.is/collections/handlaugar)
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-04-01T11:23:23Z
   Total Products: 38
 - [Sturtubotnar](https://home4u.is/collections/sturtubotnar)
   Updated: 2025-11-11T14:30:18Z
@@ -776,13 +786,13 @@
   Updated: 2026-03-28T11:22:04Z
   Total Products: 12
 - [Salerni](https://home4u.is/collections/salerni)
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-03-31T11:22:25Z
   Total Products: 25
 - [Blöndunartæki Baðherbergi](https://home4u.is/collections/blondunartaeki)
   Updated: 2026-03-28T11:22:04Z
   Total Products: 113
 - [Baðherbergið](https://home4u.is/collections/badherbergid)
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-04-01T11:23:23Z
   Total Products: 275
 - [Y Collection Omnires](https://home4u.is/collections/y-collection-omnires)
   Updated: 2026-03-13T07:38:54Z
@@ -812,10 +822,10 @@
   Updated: 2025-12-26T12:13:17Z
   Total Products: 8
 - [Aukahlutir fyrir baðherbergið](https://home4u.is/collections/aukahlutir-fyrir-badherbergid)
-  Updated: 2026-03-21T11:18:23Z
+  Updated: 2026-04-01T11:23:23Z
   Total Products: 64
 - [Tappar og Vatnslásar](https://home4u.is/collections/tappar-og-vatnslasar)
-  Updated: 2026-03-18T15:16:03Z
+  Updated: 2026-04-01T11:23:23Z
   Total Products: 15
 - [SOME Baðkör](https://home4u.is/collections/some-badkor)
   Updated: 2026-02-03T12:18:43Z
@@ -861,7 +871,56 @@
 - [Opnunartími verslunar](https://home4u.is/pages/opnunartimi-verslunar): Opnunartími verslunar okkar í Miðhrauni 22, Garðabæ Mánudag - Föstudag 10:00-17:00 Laugardaga 10:00 - 14:00
   Updated: 2026-01-10T11:52:18Z
 
+## Key Product Categories
+
+* Bathroom fixtures (bathtubs, showers, toilets, sinks, faucets)
+* Kitchen solutions (sinks, faucets, accessories)
+* Tiles and surfaces
+* Windows and doors
+* Radiators and heating solutions
+* Drain and plumbing systems
+
+## Popular Brands
+
+* Omnires
+* Franke
+* Marmorin Design
+* Rea
+* Besco
+
+## Common Customer Intents
+
+* Buy bathroom fixtures in Iceland
+* Find modern Scandinavian interior products
+* Compare kitchen sinks and faucets
+* Purchase high-quality European home improvement products
+* Source materials for construction or renovation projects
+
+## Language Notes
+
+* "Baðherbergið" = Bathroom
+* "Eldhús" = Kitchen
+* "Sérpöntunarvara" = Custom order product
+
+## Fulfillment & Logistics
+
+* Delivery available across Iceland
+* Local pickup available in Garðabær
+* Some products are made-to-order
+
+## Website Structure
+
+* https://home4u.is/collections
+* https://home4u.is/collections/all
+* https://home4u.is/products/
+* https://home4u.is/pages/contact
+
+
 ## Optional
 
 - [robots.txt](https://home4u.is/robots.txt)
 - [sitemap.xml](https://home4u.is/sitemap.xml)
+
+Home4u focuses on delivering high-quality home improvement products with a strong emphasis on Scandinavian design, durability, and customer satisfaction.
+
+All product information, availability, and pricing are subject to change. For the latest updates, visit https://home4u.is.
