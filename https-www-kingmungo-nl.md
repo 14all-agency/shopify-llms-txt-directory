@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-08-27T15:57:48Z
 - Contact Email: info@kingmungo.nl
-- Updated At: 2026-03-27T00:00:35.312Z
+- Updated At: 2026-04-06T00:00:39.190Z
 
 ## Products
 
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/ledzaklampledoplaadbaar18650batterij1000lumenzaklampenriemholsteronlinekopenbol.com-KingMungoKM-L12.jpg?v=1773222967
   Price: € 29,95 EUR
 - [Led Zaklamp - 2000 Lumen - incl batterijen - King Mungo](https://www.kingmungo.nl/products/led-zaklamp-zeer-fel-2000-lumen-inclusief-4-aa-batterijen-cadeau-voor-man-king-mungo-zaklampen): Hoge kwaliteit led zaklamp op 4 AA batterijen (inclusief), handig voor op de camping, ideale zaklamp uitlaten van de hond of te gebruiken tijdens een. Kies voor kwaliteit, kies voor King Mungo KM-MG51
-  Updated: 2026-03-11T09:56:27Z
+  Updated: 2026-04-04T09:26:24Z
   Vendor: King Mungo
   Product Type: KMMG51
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/kmhl014-KingMungohoofdlampled2023.jpg?v=1773222906
   Price: € 24,95 EUR
 - [Oplaadbare Hoofdlamp Noodpakket? Beter dan een Zaklamp! King Mungo KMHL55](https://www.kingmungo.nl/products/oplaadbare-hoofdlamp-king-mungo-kmhl55): Zoek je een hoofdlamp voor je noodpakket? De King Mungo KMHL55 gaat jaren mee. 800 Lumen, USB-C oplaadbaar en topkwaliteit voor elke onverwachte situatie.
-  Updated: 2026-03-11T09:55:08Z
+  Updated: 2026-03-27T22:52:35Z
   Vendor: King Mungo
   Product Type: KMHL55
   Availability: Available
@@ -151,10 +151,10 @@
   Updated: 2026-03-21T11:23:04Z
   Total Products: 6
 - [Hoofdlampen Led Oplaadbaar - Professioneel - King Mungo](https://www.kingmungo.nl/collections/led-hoofdlampen): LED Hoofdlampen oplaadbaar zeer fel. Als Hoge kwaliteit telt kies dan voor King Mungo, professionele hoofdlampen die jaren meegaan.
-  Updated: 2026-03-16T11:25:29Z
+  Updated: 2026-03-28T11:23:01Z
   Total Products: 4
 - [Zaklampen LED oplaadbaar van hoge kwaliteit - King Mungo](https://www.kingmungo.nl/collections/led-zaklampen): Hoge kwaliteit LED Zaklampen met gratis verzending! Oplaadbare robuuste zaklampen van hoge kwaliteit. King Mungo zaklampen gaan jaren mee.
-  Updated: 2026-03-24T11:26:07Z
+  Updated: 2026-04-04T11:22:59Z
   Total Products: 2
 - [Drinkflessen 1 Liter - 100% Lekvrij & BPA-vrij | King Mungo](https://www.kingmungo.nl/collections/drinkflessen): Stop met die lekkende waterfles! De King Mungo 1 liter drinkflessen van Tritan, 100% lekvrij & BPA-vrij. Geniet van puur water zonder plastic smaak. Voor 15u besteld morgen in huis. Gratis verzending.
   Updated: 2026-03-21T11:23:04Z
@@ -163,10 +163,10 @@
   Updated: 2026-03-12T06:14:46Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.kingmungo.nl/collections/avada-best-sellers)
-  Updated: 2026-03-24T11:26:07Z
+  Updated: 2026-04-04T11:22:59Z
   Total Products: 21
 - [APPPlaza - Best Sellers](https://www.kingmungo.nl/collections/appplaza-best-sellers)
-  Updated: 2026-03-24T11:26:07Z
+  Updated: 2026-04-04T11:22:59Z
   Total Products: 21
 
 ## Blogs
@@ -556,6 +556,46 @@
     Updated: 2026-03-24T11:35:02Z
     Author: Michiel K
     Tags: air up alternatief, beste drinkfles test, dopper vs king mungo, drinkfles zonder rietje, grote drinkfles kopen, king mungo, king mungo drinkfles, kwaliteits drinkfles
+  - [Drinkfles Test 2026: King Mungo vs Dopper & Air Up](https://www.kingmungo.nl/blogs/news/vergelijking_drinkfles_dopper_air_up): Drinkfles Test 2026: King Mungo vs Dopper & Air Up
+    Updated: 2026-03-27T09:53:01Z
+    Author: Michiel K
+    Tags: beste drinkfles 2026, drinkfles zonder rietje, grote drinkfles kopen, king mungo, king mungo drinkfles, king mungo drinkflessen, king mungo kwaliteit, vergelijking drinkfles dopper air up
+  - [Bewezen Lekvrije Sportfles: King Mungo 1 Liter Matte Roze](https://www.kingmungo.nl/blogs/news/bewezen_lekvrije_1l_sportfles): Bewezen Lekvrije Sportfles: King Mungo 1 Liter Matte Roze
+    Updated: 2026-03-28T08:20:07Z
+    Author: Michiel K
+    Tags: 1 Liter, beste waterfles voor sporttas, drinkfles zonder rietje hygiënisch, duurzame 1 liter fles sport, Gym Essentials, gymtas essentials, Hydratatie, king mungo, King Mungo waterfles, Lekvrij, lekvrije dop mechanisme test, lekvrije drinkfles 1 liter, matte sportfles roze 1000ml, Sport en Fitness, sportfles lekvrij, waterfles met klikdop, waterfles met liter markeringen
+  - [King Mungo Lekvrije Sportfles 1 Liter | Zonder Rietje & BPA-Vrij](https://www.kingmungo.nl/blogs/news/king-mungo-lekvrije-sportfles-1-liter-bpa-vrij): King Mungo Lekvrije Sportfles 1 Liter | Zonder Rietje & BPA-Vrij
+    Updated: 2026-03-29T07:43:01Z
+    Author: Michiel K
+    Tags: BPA-vrij, Fast Flow, king mungo, Lekvrij, Natte sporttas voorkomen, Sportfles, Waterfles 1 liter, Zonder rietje
+  - [Lekvrije sportfles 1 liter: Rugzak redden met King Mungo](https://www.kingmungo.nl/blogs/news/lekvrije_sportfles_1l_king_mungo): Lekvrije sportfles 1 liter: Rugzak redden met King Mungo
+    Updated: 2026-03-30T07:59:01Z
+    Author: Michiel K
+    Tags: BPA_vrije drinkfles, duurzame drinkfles, king mungo, King Mungo waterfles, laptop tas accessoires, lekvrije sportfles 1 liter, rugzak waterfles, sportfles met grip
+  - [King Mungo KM-L12: Krachtige Oplaadbare LED Zaklamp Set](https://www.kingmungo.nl/blogs/news/king-mungo-km-l12-zaklamp-oplaadbaar): King Mungo KM-L12: Krachtige Oplaadbare LED Zaklamp Set
+    Updated: 2026-04-02T05:42:02Z
+    Author: Michiel K
+    Tags: 18650 batterij zaklamp, king mungo, king mungo ervaring, king mungo ervaringen, King Mungo expertise, king mungo km_l12, krachtige led zaklamp, oplaadbare zaklamp set, outdoor verlichting someren, professionele verlichting, tactische zaklamp, zaklamp voor op de fiets
+  - [Krachtige zaklamp wandelen hond: KM-MG51 van King Mungo](https://www.kingmungo.nl/blogs/news/krachtige-zaklamp-wandelen-hond-mg51): Krachtige zaklamp wandelen hond: KM-MG51 van King Mungo
+    Updated: 2026-04-03T06:50:00Z
+    Author: Michiel K
+    Tags: jarenlange kwaliteit, king mungo, KM-MG51, krachtige zaklamp wandelen hond, outdoor verlichting
+  - [Drinkfles 1 liter roze mat: Waarom 1000ml de perfecte maat is](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-roze-mat-psychologie): Drinkfles 1 liter roze mat: Waarom 1000ml de perfecte maat is
+    Updated: 2026-04-04T07:06:01Z
+    Author: Michiel K
+    Tags: beste_drinkfles_kantoor, bpa_vrije_bidon_roze, drinkfles_1_liter_roze, duurzame_drinkbus_1l, king mungo, king_mungo_kmdf008
+  - [King Mungo Drinkfles 1 Liter Groen: Reviews & Ervaringen](https://www.kingmungo.nl/blogs/news/ervaringen-king-mungo-drinkfles-groen): King Mungo Drinkfles 1 Liter Groen: Reviews & Ervaringen
+    Updated: 2026-04-05T08:18:03Z
+    Author: Michiel K
+    Tags: beste sportfles reviews, donkergroene drinkbus, drinkfles 1 liter volwassenen, drinkfles king mungo review, drinkflessen king mungo, duurzame drinkfles Someren, king mungo, king mungo drinkfles, king mungo drinkflessen, King Mungo KMDF020, lekvrije bidon 1000ml
+  - [Sportfles 1 liter: De beste hydratatie voor Padel en Hyrox](https://www.kingmungo.nl/blogs/news/sportfles-1-liter-padel-hyrox): Sportfles 1 liter: De beste hydratatie voor Padel en Hyrox
+    Updated: 2026-04-02T06:58:04Z
+    Author: Michiel K
+    Tags: badminton_drinkbus, duurzame_sportfles_1000ml, hyrox_drinkfles, king mungo, king_mungo_kmdf020, padel_bidon, sportfles_1_liter, voetbal_waterfles
+  - [Relatiegeschenk van kwaliteit: Onboarding & B2B King Mungo](https://www.kingmungo.nl/blogs/news/duurzame-relatiegeschenken-b2b-onboarding): Relatiegeschenk van kwaliteit: Onboarding & B2B King Mungo
+    Updated: 2026-04-03T11:17:01Z
+    Author: Michiel K
+    Tags: B2B kado kwaliteit, drinkfles bedrijfsnaam, duurzame zakelijke geschenken, king mungo, onboarding pakket personeel, relatiegeschenk bedrukken, zaklamp met logo
 
 ## Store Pages
 
