@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-06T04:21:41Z
 - Contact Email: Contactdescan@gmail.com
-- Updated At: 2026-03-28T00:00:43.595Z
+- Updated At: 2026-04-06T00:00:49.807Z
 
 ## Products
 
 - [Women's Official Trouble Zip-Up - Descan](https://descan-2.myshopify.com/products/fashion-embroidery-zip-up-hoodies-women-autumn-long-sleeve-tops-loose-hood-shirt-harajuku-y2k-clothes-female-sweatshirt-jacket): Green Gungchi Trouble jacket Women - Descan
-  Updated: 2026-02-18T04:46:27Z
+  Updated: 2026-04-02T21:45:28Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -447,7 +447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S43970ba98ee44f1fafa82830c5885b906.webp?v=1771120636
     Price: $35.00 USD
 - [OFFICIAL 4TUNE Zip-Ups - Descan](https://descan-2.myshopify.com/products/plussize-clothes-star-letter-print-retro-oversized-hoodie-women-y2k-street-hip-hop-color-harajuku-casual-zipper-women-sweatshirt): The OFFICIAL 4TUNE Zip-Up delivers streetwear authenticity with premium comfort at its core. Engineered for those who demand both style and functionality, this jacket features a structured fit that works across casual and elevated looks. The quality construction ensures durability through regular wear, while the classic zip-up design offers versatile layering options. Whether you're building a signature aesthetic or upgrading your everyday rotation, this piece bridges the gap between statement wear and wearable comfort. A foundational piece for any modern wardrobe._ - Descan
-  Updated: 2026-02-15T16:33:58Z
+  Updated: 2026-04-02T21:56:58Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -525,7 +525,7 @@
     Availability: Available
     Price: $70.00 USD
 - [OFFICIAL A.S.S.C T-Shirts - Descan](https://descan-2.myshopify.com/products/2025-summer-mens-cotton-clothing-luxury-graphic-lettering-print-ass-womens-casual-sports-round-neck-street-fashion-streetwear): Authentic streetwear crafted for those who understand the culture. This official A.S.S.C tee represents genuine urban style with its bold graphic presence and premium construction. Built from quality cotton, the relaxed fit delivers comfort without compromising the sharp aesthetic that defines contemporary street fashion. The signature lettering establishes immediate credibility within the streetwear community, while the versatile design pairs seamlessly with any wardrobe foundation. Whether you're navigating city streets or connecting with like-minded enthusiasts, this piece communicates authenticity and cultural awareness. A staple for collectors and style-conscious individuals who value substance over trends. _ p{margin-block-start: 0; margin-block-end: 0} - Descan
-  Updated: 2026-02-15T17:46:06Z
+  Updated: 2026-04-02T22:19:18Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -701,7 +701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/1e6b4109-3f95-4221-bb2b-f92912af53bb.jpg?v=1771141918
     Price: $60.00 USD
 - [OFFICIAL That's A Lot Of C****  Syrup V2 Hoodie - Descan](https://descan-2.myshopify.com/products/flame-star-print-thats-a-awful-lot-of-cough-syrup-hoodie-sweatshirts-men-women-black-red-loose-streetwear-hooded-pullovers): Discover comfort meets street style with this official hoodie designed for those who refuse to compromise on either front. Engineered with soft, breathable fabric, it provides all-day wearability without sacrificing the aesthetic edge that defines contemporary streetwear. The relaxed yet intentional fit adapts to layering while maintaining a polished silhouette. Whether you're navigating urban environments or settling into downtime, this hoodie delivers the cozy embrace and visual impact that elevates your everyday rotation. - Descan
-  Updated: 2026-02-16T19:31:27Z
+  Updated: 2026-04-02T22:29:11Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -803,7 +803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/Se340a65511e24a76b868f6c9f9e903c2T.webp?v=1771143524
     Price: $100.00 USD
 - [Denim Tear Hoodies+Pants](https://descan-2.myshopify.com/products/denim-tears-brand-hot--new-fashionable-cotton-foam-printed-hoodie-european-and-american-trendy-mens-sports-suit): Denim Tear hoodies represent a refined approach to contemporary streetwear, crafted from premium cotton for lasting comfort and durability. Each piece features the brand's signature aesthetic—bold, intentional design that bridges high fashion and urban culture. The substantial cotton construction ensures breathability and a natural feel against the skin, while the thoughtful tailoring delivers a flattering silhouette suitable for layering or standalone wear. Perfect for those who appreciate quality craftsmanship and distinctive style, these hoodies have become a staple in modern streetwear collections. An  piece that transcends seasonal trends.
-  Updated: 2026-02-16T20:02:28Z
+  Updated: 2026-04-02T22:52:30Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -929,7 +929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S5a740a9745b8436384195aed18e4bb71e.webp?v=1771178268
     Price: $130.00 USD
 - [OFFICIAL Hellstar VVS Rhinestone Hoodie](https://descan-2.myshopify.com/products/official-hellstar-vvs-rhinestone-hoodie): Elevate your streetwear collection with this premium Hellstar VVS Rhinestone Hoodie, featuring meticulously placed rhinestone embellishments that catch light with every movement. Crafted from high-quality materials, this official piece combines luxury aesthetics with everyday comfort. The striking VVS diamond-inspired design delivers bold visual impact while maintaining the refined craftsmanship Hellstar is known for. Perfect for those who demand both style and substance in their wardrobe essentials.
-  Updated: 2026-02-16T22:48:49Z
+  Updated: 2026-04-02T22:53:09Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -951,7 +951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/Sd803998d980f44edb671bdef9b537431Q.webp?v=1771215626
     Price: $100.00 USD
 - [I Love Awful Lot Of Syrup Hoodie](https://descan-2.myshopify.com/products/i-love-awful-lot-of-cough-syrup-hoodie): This limited-edition piece from the Valentine’s Day collection features a bold, graphic-heavy design synonymous with modern streetwear. The centerpiece is a large cupid (cherub) graphic on the chest holding a stylized  bottle, paired with the brand's signature phrase, "I LOVE AWFUL LOT OF COUGH SYRUP".
-  Updated: 2026-02-16T19:28:00Z
+  Updated: 2026-04-02T22:57:39Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -989,7 +989,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/Se95c7de1015b47e1b9e40f8b775027f7M.webp?v=1771217529
     Price: $100.00 USD
 - [Hellstar Hats - Descan](https://descan-2.myshopify.com/products/hellstar-hats): Hellstar Hats represent the pinnacle of authentic headwear craftsmanship. Each piece is meticulously constructed using premium materials and time-honored techniques, delivering the quality and prestige you expect from a name brand . Whether you're seeking a statement accessory or a versatile everyday essential, these hats combine superior construction with distinctive design. The attention to detail in every stitch reflects genuine brand heritage and uncompromising standards. Elevate your collection with headwear that commands respect and endures through seasons of wear.
-  Updated: 2026-02-17T07:36:38Z
+  Updated: 2026-04-02T23:01:29Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1039,7 +1039,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S6a18ed2b34a8404cb69e3eb9e9b461439.webp?v=1771226765
     Price: $100.00 USD
 - [HS NASCAR](https://descan-2.myshopify.com/products/hs-nascar): HS NASCAR Hellstar Tee Experience motorsport heritage meets contemporary streetwear with this official NASCAR Hellstar collaboration. Crafted from premium cotton, this luxury tee delivers exceptional comfort and durability for everyday wear. The iconic design captures the raw energy of racing culture while maintaining the refined aesthetic that defines Hellstar's elevated streetwear collection. Perfect for enthusiasts who appreciate authentic brand partnerships and quality construction. A statement piece that transcends casual fashion, blending sports passion with high-end style sensibilities.
-  Updated: 2026-02-18T08:37:56Z
+  Updated: 2026-04-02T23:03:54Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1061,7 +1061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S8605d323402d4c44bfa9da5f29ca57d5b.webp?v=1771266919
     Price: $30.00 USD
 - [HS Links T-Shirt](https://descan-2.myshopify.com/products/hs-links-t-shirt): The HS Links T-Shirt delivers understated sophistication with its carefully curated design aesthetic. Crafted from premium cotton blend fabric, this piece offers superior comfort and durability for everyday wear. The minimalist links graphic showcases refined branding that appeals to discerning collectors and style enthusiasts. Perfect for layering or standalone wear, this versatile tee transitions seamlessly from casual settings to elevated streetwear looks. Built to withstand regular washing while maintaining its shape and color integrity, it's an essential addition to any contemporary wardrobe.
-  Updated: 2026-02-17T06:35:22Z
+  Updated: 2026-04-02T23:06:12Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1083,7 +1083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S60c8ca1f023d4eb194eb16f20d9bcfcci.webp?v=1771266919
     Price: $45.00 USD
 - [OFFICIAL HS Path 2 Paradise Hoodie](https://descan-2.myshopify.com/products/official-hs-path-2-paradise-hoodie): Crafted from premium organic heavyweight cotton, the OFFICIAL HS Path 2 Paradise Hoodie delivers exceptional durability and comfort. This limited-edition piece features authentic branding and superior construction that withstands regular wear. The substantial fabric weight provides warmth without excess bulk, making it ideal for layering or standalone wear. Secure this exclusive design while availability lasts—a timeless addition to any collection that combines quality materials with distinctive style.
-  Updated: 2026-02-18T20:00:06Z
+  Updated: 2026-04-02T23:06:42Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1105,7 +1105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S58752b5d18d7433f82bdf1fcea0a4711b.webp?v=1771398852
     Price: $100.00 USD
 - [OFFICIAL HS T-Shirts](https://descan-2.myshopify.com/products/official-hs-t-shirts): OFFICIAL HS T-Shirts deliver premium comfort through high-quality cotton construction. Crafted from durable, breathable fabric, these name-brand tees offer a perfect fit for everyday wear. The classic design ensures versatility across casual settings, while superior stitching and colorfastness maintain their appearance wash after wash. An essential wardrobe staple that combines reliability with timeless style.
-  Updated: 2026-02-18T20:00:05Z
+  Updated: 2026-04-02T23:19:49Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1239,7 +1239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S9bf0ae19511a4aa887b1161406530a04r.webp?v=1771398833
     Price: $60.00 USD
 - [Custom Your Cough Syrup Matters T-Shirt](https://descan-2.myshopify.com/products/custom-your-cough-syrup-matters): Crafted from premium cotton, this custom t-shirt combines comfort with purpose. Designed to support mental health awareness, it features a thoughtfully curated message that sparks meaningful conversations. The high-quality fabric ensures durability and a soft feel against skin, making it ideal for everyday wear. Perfect for individuals passionate about mental wellness advocacy or those seeking a wearable reminder of self-care importance. Express your values while enjoying superior comfort and lasting quality. p{margin-block-start: 0; margin-block-end: 0}
-  Updated: 2026-02-18T20:00:07Z
+  Updated: 2026-04-02T23:29:48Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1329,7 +1329,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S21a72af92bf94b3ebccf4eb432fc1242v.webp?v=1771398880
     Price: $25.00 USD
 - [VERSACE Eros Flame EDP](https://descan-2.myshopify.com/products/versace-eros-flame-edp): Passionate, confident and utterly masculine, Eros Flame is a spicy, woody and aromatic fragrance from the design house of Versace. Launched in 2018, this deep fragrance opens with the top notes of Rosemary, Black Pepper, Lemon, Chinotto and Mandarin Orange. The middle is a combination of Geranium, Rose and Pepper. The base is an intensity of fragrances from Sandalwood, Tonka Bean, Oakmoss, Cedar and Patchouli.
-  Updated: 2026-02-19T18:25:53Z
+  Updated: 2026-04-02T23:20:10Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1343,7 +1343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S7a0db59e67ea4b708309f50027c7e389S.webp?v=1771398839
     Price: $80.00 USD
 - [VERSACE Eros for Men 100ml/200ml  Tree Long Lasting Eau De Toilette Gift - Descan](https://descan-2.myshopify.com/products/versace-eros-for-men-100ml-200ml-tree-long-lasting-eau-de-toilette-gift): SPECIFICATIONSAlcohol Concentration: 60Alcohol Content: AlcoholicBrand Name: VersaceFlavor Concentration: EDTFragrance Note: WoodyGender: MaleHign-concerned Chemical: Acetaldehyde,Ethyl alcohol in alcoholic beveragesNET WT: 100mlOrigin: IT(Origin)The passionate and intoxicating scent of Eros is a captivating fragrance for men from the design house of Versace. At the start of this 2012 scent are invigorating fragrances from lemon, green apple and mint. The heart is energetic with notes from geranium, tonka bean and ambroxan, while the base is filled with notes from virginia cedar, atlas cedar, vetiver, oakmoss and Madagascar vanilla. - Descan
-  Updated: 2026-02-19T09:55:31Z
+  Updated: 2026-04-02T23:20:41Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1357,35 +1357,35 @@
     Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/Scaaf5d4647ff4cd4939727fd83469d40K.webp?v=1771398839
     Price: $90.00 USD
 - [Afnan 9 PM Elixir](https://descan-2.myshopify.com/products/afnan-9-pm-elixir): Afnan 9 PM Elixir delivers sophisticated fragrance excellence at an accessible price point. This unisex extrait de parfum showcases pure, high-quality ingredients that create a smooth, captivating scent profile. The organic composition ensures a clean, refined aroma that appeals to discerning fragrance enthusiasts. At 3.4 fl. oz, this premium offering from the respected Afnan name brand provides lasting performance and versatility for any occasion. Experience luxury without compromise.
-  Updated: 2026-02-18T19:13:57Z
+  Updated: 2026-04-02T23:30:02Z
   Vendor: Descan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/Sa4032db347ec4b2ca5dd1eb483fd329ba.webp?v=1771398840
   Price: $30.00 USD
 - [Jean Paul Gaultier](https://descan-2.myshopify.com/products/jean-paul-gaultier-1): Jean Paul Gaultier Le Male Eau de Toilette is a legendary fragrance celebrated for its bold, unmistakable presence. This iconic scent delivers a powerful olfactory experience with rich, warm notes that command attention. Perfect for those who appreciate a fragrance with substantial projection and longevity, Le Male combines aromatic lavender and vanilla undertones to create a signature aroma that lingers throughout the day. An essential choice for fragrance enthusiasts seeking a statement scent with authentic designer quality and enduring appeal.
-  Updated: 2026-02-18T20:01:24Z
+  Updated: 2026-04-02T23:30:10Z
   Vendor: Descan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/Scd45e462cbff42a5897f02ea0dad641dp.webp?v=1771398857
   Price: $85.00 USD
 - [Jean Paul Gaultier Les Males De Le Beau Le Parfum Eau De Parfum Powerful Perfume 125ml / 4.2oz - Descan](https://descan-2.myshopify.com/products/jean-paul-gaultier-men-le-beau): Jean Paul Gaultier Men Le Beau captures masculine elegance through a refined aromatic composition. This fragrance delivers a soft, smooth scent profile that balances sophistication with approachability, making it an ideal choice for the discerning man. The carefully crafted blend creates a lasting impression suitable for both everyday wear and special occasions. Experience the signature quality that defines this iconic men's fragrance.
-  Updated: 2026-02-19T03:24:13Z
+  Updated: 2026-04-02T23:30:14Z
   Vendor: Descan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S18a6ad428f534551ba1036b2aa3d6ab8T.webp?v=1771398861
   Price: $125.00 USD
 - [Jean Paul Gaultier](https://descan-2.myshopify.com/products/jean-paul-gaultier): Jean Paul Gaultier Le MALE ELIXIR is a sophisticated fragrance crafted for the discerning man. This luxurious cologne delivers a rich, complex scent profile that commands attention and leaves a lasting impression. With its expertly blended composition, it combines warmth and depth, making it ideal for both everyday wear and special occasions. The elixir formulation ensures longevity and projection, allowing the fragrance to evolve beautifully throughout the day. Experience the signature excellence of Jean Paul Gaultier at an exceptional value.
-  Updated: 2026-02-19T03:23:06Z
+  Updated: 2026-04-02T23:30:30Z
   Vendor: Descan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/8562/7441/files/S93c78e14952b42189f299d3731302631G.webp?v=1771398849
   Price: $80.00 USD
 - [That's A Awful Lot of C**** Syrup Zip-Up](https://descan-2.myshopify.com/products/thats-a-awful-lot-of-cough-syrup-1): That's A Awful Lot of premium zip-up combines durable cotton and vinyl construction for lasting wear and easy maintenance. The official brand quality ensures reliable performance, whether you're layering for warmth or making a statement piece. The secure zip closure provides convenient fastening, while the breathable cotton blend keeps you comfortable throughout the day. A versatile essential that delivers both style and functionality.
-  Updated: 2026-02-18T20:00:05Z
+  Updated: 2026-04-02T23:31:19Z
   Vendor: Descan
   Product Type: 
   Availability: Available
@@ -1519,6 +1519,18 @@
     Updated: 2026-03-27T01:13:33Z
     Author: Descan Supply
     Tags: best teen fashion gear, cough syrup hoodie, custom hoodie, hoodie, motion drive, streetwear, streetwear culture, teenagers, thug, unique streetwear hoodies., y2k
+  - [Unlock Y2K Streetwear Brilliance with Clints Leather Jacket and Hoodie for Teens](https://descan-2.myshopify.com/blogs/news/unlock-y2k-streetwear-brilliance-with-clints-leather-jacket-and-hoodie-for-teens): Unlock Y2K Streetwear Brilliance with Clints Leather Jacket and Hoodie for Teens
+    Updated: 2026-03-30T01:11:11Z
+    Author: Descan Supply
+    Tags: 2026 youth trends, cool outfits, cough syrup hoodie, fashion hoodie, hoodie, leather jacket, streetwear, teenagers, teens, vintage street style, y2k
+  - [Clints Leather Jacket: Discover the Streetwear Essential with Y2K Cough Syrup Hoodie Appeal for Teenagers](https://descan-2.myshopify.com/blogs/news/clints-leather-jacket-discover-the-streetwear-essential-with-y2k-cough-syrup-hoodie-appeal-for-teenagers): Clints Leather Jacket: Discover the Streetwear Essential with Y2K Cough Syrup Hoodie Appeal for Teenagers
+    Updated: 2026-04-01T01:11:50Z
+    Author: Descan Supply
+    Tags: clints leather jacket, cough syrup hoodie, hoodie, jacket, leather, streetwear, style guide, teenager fashion, teenagers, y2k, y2k hoodie, youth streetwear trends
+  - [Epic Y2K Appeal: How Clints Leather Jacket and Cough Syrup Hoodie Transform Teen Streetwear](https://descan-2.myshopify.com/blogs/news/epic-y2k-appeal-how-clints-leather-jacket-and-cough-syrup-hoodie-transform-teen-streetwear): Epic Y2K Appeal: How Clints Leather Jacket and Cough Syrup Hoodie Transform Teen Streetwear
+    Updated: 2026-04-03T01:13:27Z
+    Author: Descan Supply
+    Tags: cough syrup hoodie, hoodie, hoodies, iconic 2026s clothing, leather jacket, retro style trends, streetwear, teen fashion, teenagers, transformation, y2k
 
 ## Store Pages
 
