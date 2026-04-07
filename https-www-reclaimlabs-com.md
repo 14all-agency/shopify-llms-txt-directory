@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-05-09T19:56:24Z
 - Contact Email: ron@reclaimlabs.com
-- Updated At: 2026-03-28T00:00:34.868Z
+- Updated At: 2026-04-07T00:00:37.834Z
 
 ## Products
 
@@ -806,9 +806,9 @@
   - [Pain Relief Oil Guide: Effective Solutions for 2026](https://www.reclaimlabs.com/blogs/news/pain-relief-oil): Discover the top pain relief oil solutions for 2026 Explore ingredients application tips safety and the latest trends to find effective relief for any pain type
     Updated: 2026-01-05T02:57:26Z
     Author: Ron Lev
-  - [CBD for Plantar Fasciitis: A Complete Guide](https://www.reclaimlabs.com/blogs/news/cbd-for-plantar-fasciitis): CBD for Plantar Fasciitis: A Complete Guide
-    Updated: 2025-12-09T20:27:36Z
-    Author: Ron Lev
+  - [CBD for Plantar Fasciitis: Relief for Heel Pain](https://www.reclaimlabs.com/blogs/news/cbd-for-plantar-fasciitis): CBD for Plantar Fasciitis: Relief for Heel Pain
+    Updated: 2026-04-06T05:29:16Z
+    Author: Reclaim Labs
   - [Guide to Muscle Patches for Pain Relief: Expert Tips 2026](https://www.reclaimlabs.com/blogs/news/muscle-patches-for-pain-relief): Discover expert advice on muscle patches for pain relief in 2026. Learn how to choose, apply, and maximize results for effective, targeted pain management.
     Updated: 2026-01-04T16:07:30Z
     Author: Ron Lev
