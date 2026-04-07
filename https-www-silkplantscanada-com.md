@@ -10,7 +10,7 @@
 - Contact Email: sales@silkplantscanada.com
 - Contact Phone: 18778147455
 - Address: 599 Clifton Road
-- Updated At: 2026-03-31T00:00:43.704Z
+- Updated At: 2026-04-07T00:00:56.443Z
 
 ## Products
 
@@ -456,14 +456,14 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/Artificial-Silk-Philodendron-in-Rattan-Container-Silk-Plants-Canada-1663797468.jpg?v=1764788081
   Price: $49.99 CAD
 - [60 inch Artificial PVC Pampus Grass for Indoor and Outdoor](https://www.silkplantscanada.com/products/60-inch-artificial-pvc-pampus-grass-for-indoor-and-outdoor): Elevate your space with our 60 inch Artificial PVC Pampus Grass - perfect for both indoor and outdoor use. Add a touch of nature to your décor today!
-  Updated: 2026-02-13T08:49:19Z
+  Updated: 2026-04-04T00:16:45Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Flora
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/60-inch-PVC-Pampus-Grass-for-Indoor-and-Outdoor-Silk-Plants-Canada-1659716408.jpg?v=1741453084
   Price: $20.00 CAD
 - [Decorative Metal Container Table Top with Stand in Black](https://www.silkplantscanada.com/products/decorative-metal-container-table-top-with-stand-in-black): Elevate your space with this stunning Decorative Metal Container Table Top with Stand in Black. Perfect blend of style and functionality.
-  Updated: 2026-02-13T08:49:19Z
+  Updated: 2026-04-06T09:00:10Z
   Vendor: Silk Plants Canada
   Product Type: Accessories
   Availability: Available
@@ -1345,7 +1345,7 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/Set-of-2-round-copper-shallow-containers-w-handles-Silk-Plants-Canada-73036613.jpg?v=1732745654
   Price: $49.99 CAD
 - [8" Decorative Metal Container with Handle Chocolate Brown](https://www.silkplantscanada.com/products/8-decorative-metal-container-with-handle-chocolate-brown): Elevate your decor with this stunning 8 Decorative Metal Container with Handle Chocolate Brown. Stylish, functional, and a must-have for your home.
-  Updated: 2026-02-13T08:49:39Z
+  Updated: 2026-04-06T00:58:48Z
   Vendor: Silk Plants Canada
   Product Type: Decorative Metal Container
   Availability: Available
