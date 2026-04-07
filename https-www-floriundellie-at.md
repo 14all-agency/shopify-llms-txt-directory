@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Vienna
 - Created At: 2025-08-02T08:47:20Z
-- Updated At: 2026-03-29T00:00:48.595Z
+- Updated At: 2026-04-07T00:00:44.866Z
 
 ## Products
 
@@ -606,6 +606,12 @@
   Total Products: 6
 - [Personalisierte T-Shirts](https://www.floriundellie.at/collections/personalisierte-t-shirts)
   Updated: 2026-03-25T07:23:08Z
+  Total Products: 0
+- [Geburtsposter](https://www.floriundellie.at/collections/geburtsposter)
+  Updated: 2026-04-02T12:49:45Z
+  Total Products: 1
+- [Kinderposter](https://www.floriundellie.at/collections/kinderposter)
+  Updated: 2026-04-02T11:39:56Z
   Total Products: 0
 
 ## Policies
