@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-04-01T20:00:26.901Z
+- Updated At: 2026-04-08T20:00:28.082Z
 
 ## Products
 
@@ -869,6 +869,15 @@
     Author: User
   - [Tackling Food Waste: Simple Changes with Big Impact](https://jones-jm.myshopify.com/blogs/news/tackling-food-waste-simple-changes-with-big-impact): Tackling Food Waste: Simple Changes with Big Impact
     Updated: 2026-03-30T00:00:52Z
+    Author: User
+  - [The Science Behind Snowfall Explained](https://jones-jm.myshopify.com/blogs/news/the-science-behind-snowfall-explained): The Science Behind Snowfall Explained
+    Updated: 2026-04-04T01:21:46Z
+    Author: User
+  - [An Explainer on the Impact of Fast Fashion on the Environment](https://jones-jm.myshopify.com/blogs/news/an-explainer-on-the-impact-of-fast-fashion-on-the-environment): An Explainer on the Impact of Fast Fashion on the Environment
+    Updated: 2026-04-06T00:01:03Z
+    Author: User
+  - [The Ultimate Guide to Snowboarding for Beginners](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-snowboarding-for-beginners): The Ultimate Guide to Snowboarding for Beginners
+    Updated: 2026-04-06T02:05:45Z
     Author: User
 
 ## Store Pages
