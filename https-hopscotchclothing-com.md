@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-26T02:57:48Z
 - Contact Email: support@hopscotchclothing.com
-- Updated At: 2026-04-02T00:00:45.336Z
+- Updated At: 2026-04-09T00:00:44.518Z
 
 At Hopscotch Clothing design kids' clothing with fewer seams than any other kids clothing brand, creating ultra-comfortable pieces that move better and look cooler.
 
@@ -49,7 +49,7 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Availability: Available
     Price: $10.00 USD
 - [No Seam Tee - Oatmeal Beige](https://hopscotchclothing.com/products/no-seam-tee-beige): • Constructed entirely from cotton• True to age• Seamless Design; without armhole or shoulder seams that allow for a unrestricted feel• Oversized, box style fit with ample arm openings for easy dressing
-  Updated: 2026-04-01T19:00:43Z
+  Updated: 2026-04-07T19:52:21Z
   Vendor: Hopscotch
   Product Type: 
   Availability: Available
@@ -339,6 +339,18 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Author: Admin
   - [Neutral Toddler Clothing That Actually Works](https://hopscotchclothing.com/blogs/news/neutral-toddler-clothing-that-actually-works): Neutral Toddler Clothing That Actually Works
     Updated: 2026-03-31T01:55:51Z
+    Author: Admin
+  - [How to Dress Active Toddlers Well](https://hopscotchclothing.com/blogs/news/how-to-dress-active-toddlers): How to Dress Active Toddlers Well
+    Updated: 2026-04-02T02:05:31Z
+    Author: Admin
+  - [Why Buy Modern Kids Basics Online](https://hopscotchclothing.com/blogs/news/why-buy-modern-kids-basics-online): Why Buy Modern Kids Basics Online
+    Updated: 2026-04-04T02:05:25Z
+    Author: Admin
+  - [Are Toddler Capsule Wardrobes Worth It?](https://hopscotchclothing.com/blogs/news/are-toddler-capsule-wardrobes-worth-it): Are Toddler Capsule Wardrobes Worth It?
+    Updated: 2026-04-06T02:10:25Z
+    Author: Admin
+  - [Toddler Basics vs Trendy Clothes: What Wins?](https://hopscotchclothing.com/blogs/news/toddler-basics-vs-trendy-clothes): Toddler Basics vs Trendy Clothes: What Wins?
+    Updated: 2026-04-08T02:20:28Z
     Author: Admin
 
 ## Store Pages
