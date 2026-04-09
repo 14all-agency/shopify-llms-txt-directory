@@ -6,14 +6,14 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-07-15T15:45:27Z
 - Contact Email: Pufa.co.il@gmail.com
-- Updated At: 2026-04-01T00:00:37.881Z
+- Updated At: 2026-04-09T00:00:40.081Z
 
 ## Products
 
 - [PUFA מתנה מיוחדת - תכשיטים בהפתעה: שרשראות, עגילים, צמידים - כסף וזהב](https://www.pufa.co.il/products/lucky-scoop): גלה את תכשיטי לאקי סקופ, מתנה מיוחדת שתשמח כל אחד. תכשיטים בהפתעה של פופה, מתנה ליום הולדת,מתנה לאישה,מתנה לילדה,
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-03-31T04:26:57Z
+  Updated: 2026-04-08T23:24:02Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
@@ -45,14 +45,14 @@ PUFA
 את מקבלת קפסולות סגורות, פותחת לבד, ומגלה תכשיטים הכי יפים וטרנדיים שמתאימים בול לסטייל שאת אוהבת
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-03-13T14:32:56Z
+  Updated: 2026-04-08T23:12:52Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/PufaStyleMatch_-_3.jpg?v=1772540532
   Price: ‏30.00 ‏₪ ILS
 - [PUFA מתנה מיוחדת לגברים - תכשיטים בהפתעה: שרשראות, צמידים וטבעות](https://www.pufa.co.il/products/lucky-scoop-men): גלה את לאקי סקופ לגברים של PUFA - תכשיטים בהפתעה: שרשראות, צמידים וטבעות בשחור, כסף, זהב או צבעוני. מתנה מושלמת לגבר.
-  Updated: 2026-03-13T14:32:56Z
+  Updated: 2026-04-08T23:27:47Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
@@ -74,7 +74,7 @@ PUFA
   Updated: 2026-01-14T14:58:53Z
   Total Products: 0
 - [◈ Lucky Scoop ◈ - Pufa](https://www.pufa.co.il/collections/lucky-scoop): מחפשים מתנה ייחודית או מתנה ליום הולדת שתשחרר אתכם מבעיות של מידות וסטייל? בקולקציה של PUFA Lucky  - Pufa
-  Updated: 2026-03-31T11:22:33Z
+  Updated: 2026-04-07T11:24:02Z
   Total Products: 6
 
 ## Blogs
@@ -145,6 +145,9 @@ PUFA
     Author: מאיה איסקוב
   - [תכשיטי תקציב למתחילים: טיפים לבחירה חכמה | Pufa](https://www.pufa.co.il/blogs/pufa-blog/תכשיטי-תקציב-למתחילים-בחירה-חכמה-לסגנון-יומיומי-לכל-תקציב): תכשיטי תקציב למתחילים: טיפים לבחירה חכמה | Pufa
     Updated: 2026-03-31T07:00:04Z
+    Author: איסקוב נועה
+  - [Jewelry care tips for lasting shine | Pufa](https://www.pufa.co.il/blogs/pufa-blog/טיפים-מעשיים-לשמירה-על-תכשיטי-כסף-וזהב-לאורך-זמן-וברק): Jewelry care tips for lasting shine | Pufa
+    Updated: 2026-04-01T07:00:05Z
     Author: איסקוב נועה
 
 ## Store Pages
