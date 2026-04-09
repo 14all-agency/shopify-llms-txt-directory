@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2026-04-02T00:00:37.885Z
+- Updated At: 2026-04-09T00:00:40.332Z
 
 ## Products
 
@@ -761,7 +761,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeOrangeFloralSuitSet_1_f987ef9c-9cba-4496-a701-d7b5a35e1b14.png?v=1765952532
   Price: ₹1,295.00 INR
 - [Pink Bandhani Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-bandhani-cotton-suit-set): Comfort-led cotton with our Pink Bandhani Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2026-03-17T15:43:36Z
+  Updated: 2026-04-02T19:11:47Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -799,7 +799,7 @@
     Availability: Available
     Price: ₹1,294.00 INR
 - [Rose Red Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/rose-red-floral-cotton-suit-set): Serenity in every stitch with our Rose Red Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2026-03-04T16:43:07Z
+  Updated: 2026-04-02T19:11:37Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -987,7 +987,7 @@
   Updated: 2026-02-04T06:47:37Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
-  Updated: 2026-03-31T11:24:38Z
+  Updated: 2026-04-03T11:24:25Z
   Total Products: 62
 - [Plus Size Night Gowns for Women | Sleepwear up to 10XL – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-nightwear): Shop Comfy and Stylish Plus Size Night Gowns for Women in soft, breathable fabrics. Sizes from XL to 10XL. Perfect for restful nights at budget-friendly prices.
   Updated: 2026-02-09T12:21:17Z
