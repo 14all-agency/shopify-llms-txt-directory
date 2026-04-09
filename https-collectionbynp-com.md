@@ -6,33 +6,33 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-02-28T00:00:45.373Z
+- Updated At: 2026-04-09T19:39:19.245Z
 
 ## Products
 
 - [Kimberly Headband](https://collectionbynp.com/products/short-sleeve): Add a touch of drama to your wedding or next event with our hand beaded Kimberly Headband. The velvet base is adorned with faux ivory and white pearls and accented with silver bugle beads. Make a statement with this comfortable, yet stylish accessory. Hand beaded in Beacon, NY, one size. This style is made to order, two week lead time.
-  Updated: 2026-02-14T01:10:07Z
+  Updated: 2026-03-26T15:04:10Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/KimberlyMain.jpg?v=1682881587
   Price: $45.00 USD
 - [Kaia Garter](https://collectionbynp.com/products/garter-1): Our Kaia Garter gives dimension with a double layer of Chantilly and intricate Venice lace. The hand beaded lace center and satin ribbon detail add a focal point to this timeless accessory. Easy to slip on, this garter has elastic for stretch and comfort to keep on the entire night or if you prefer, take off after your ceremony. It's the perfect keepsake from your wedding. For size, please measure around your thigh where you would like to wear the garter; usually mid thigh. At check out there will be a comment section, please fill add in your measurement size. Kindly send measurement in inches. Handmade in Beacon, NY. This style is made to order, lead time is 2 weeks.
-  Updated: 2026-02-14T01:57:41Z
+  Updated: 2026-03-26T15:04:10Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Garters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/KaiaSide.jpg?v=1701317567
   Price: $65.00 USD
 - [Xena Garter](https://collectionbynp.com/products/garter-2): For the modern bride that wants to add a touch of hidden romance, our Xena Garter is the perfect accessory. Handmade with Chantilly black and white lace, this garter is timeless, yet contemporary. A satin ribbon and a black bead in the center add depth and dimension to this wedding staple. The garter features elastic for stretch and comfort. Wear it all night long or take it off after the ceremony. For size, please measure around your thigh where you would like to wear the garter; usually mid thigh. At check out there will be a comment section, please fill add in your measurement size. Kindly send measurement in inches. Handmade in USA. This style is made to order, lead time is 2 weeks.
-  Updated: 2026-02-14T01:10:07Z
+  Updated: 2026-03-26T15:04:10Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Garters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/XenaSide.jpg?v=1701316881
   Price: $65.00 USD
 - [Rue Glove](https://collectionbynp.com/products/glove-1): Our Rue Gloves are sheer elegance. Starting from your fingertips traveling up your arm, this style can be worn full length or gathered to the length you desire. Made from stretch mesh material, these gloves are so smooth and comfortable you'll forget you're wearing them. Available in black and white, the Rue Glove makes the perfect accessory for the bride, bridal party or guest. We recommend you *don't* forget them if you're having a boudoir shoot - these gloves are sure to bring out the sexy confidence in you! Stretchy knit mesh material, one size fits most. Length when laid flat: 21" from tip of middle finger to glove opening Palm Width: 3" Arm Opening: 4"
-  Updated: 2026-02-14T05:50:59Z
+  Updated: 2026-03-26T15:04:10Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Gloves
   Availability: Available
@@ -46,35 +46,81 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/RueGlove.jpg?v=1682873623
     Price: $40.00 USD
 - [Tessa Glove](https://collectionbynp.com/products/glove-2): No matter what color dress you're wearing, our Tessa lace gloves will add the perfect amount of elegance and drama. Accentuated with a Venise Lace detail and ruffle trim at the wrist, the gloves are complete with elastic to hold them in place. You can keep them on all night long or just add a touch of romance for your ceremony and pictures. Lace piece is hand appliquéd in USA. This is a delicate item. Gathering at wrist to slightly stretch while putting the glove on. One size fits most. Length when laid flat: 9" from tip of middle finger to glove opening Palm Width: 3 1/4" Arm Opening: 4" at max stretch This style is made to order, 2 week lead time.
-  Updated: 2026-02-14T01:10:07Z
+  Updated: 2026-03-26T15:04:11Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Gloves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/TessaonJill.jpg?v=1692302638
   Price: $45.00 USD
 - [Ophelia Beaded Cap Veil](https://collectionbynp.com/products/veil-1): Add a touch of vintage romance to your bridal look with our Ophelia Tulle Cap Veil. This veil features delicate hand-beaded lace accents on each side of the head. Gathered tulle is held together by two mini (silver) clips, designed to push upwards into the bridal hairstyle. This allows the veil to sit securely in place while creating a cage-like silhouette around the head, which can be a stunning and unique addition to an updo hairstyle. Angularly cut, this veil cascades downward from the shoulders, creating a unique and modern drape with a hand appliqued lace bottom edge finish. Our Ophelia Cap Veil is the perfect choice for brides who want to create a dreamy and ethereal aesthetic on their wedding day. Single layer, cap veil style, handmade. About 56" long from top of head. Soft polyester tulle veil. All lace is hand appliquéd and hand beaded in Beacon, NY. This style is made to order, 1 month lead time.
-  Updated: 2026-02-14T01:10:06Z
+  Updated: 2026-03-26T15:04:11Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/OpheliaNew2.jpg?v=1738161487
   Price: $315.00 USD
 - [Celine Beaded Cathedral Veil](https://collectionbynp.com/products/veil-2): For the opulent bride who likes beaded details, our Celine Cathedral Veil is a luxurious and stunning accessory to add to your bridal look. The trim on this veil is a corded lace, accented with beading. Starting from mid thigh, the lace continues as an edge finish towards the back of the veil. Delicately hand sewn, the alencon floral lace motif adds a romantic and feminine feel. This long length veil creates a dramatic, timeless and sophisticated look for the bride. It pairs well with a variety of wedding dresses, from classic ball gowns to more modern, minimalist styles. Single layer, cathedral style veil, handmade. 118" long. Soft polyester tulle veil. All lace is hand appliquéd in Beacon, NY. This style is made to order, 1 month lead time.
-  Updated: 2026-02-14T07:47:57Z
+  Updated: 2026-03-26T15:04:11Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/CelineJill2.jpg?v=1701228000
   Price: $415.00 USD
 - [Mara Cape Veil](https://collectionbynp.com/products/veil-3): Our Mara Cape Veil is a unique and non-traditional bridal accessory that adds a touch of daring individuality. The Mara Cape Veil is designed with a detachable feature, made with safety brooch style pins that can easily be attached to the top of your dress straps. The pins are hidden with delicate, hand appliquéd lace pieces. It is the best way to change up your style from ceremony to reception. A deep V cutout on the upper back tulle fabric creates a dramatic drape, perfect to show off any back dress detail or reveal an open back silhouette. A beautiful corded, floral lace trim adds to the drama, running along the long length of this cape. The rich black color and intricate, corded floral motif adds a dark yet romantic touch to the overall design. This type of veil is designed with an unconventional aesthetic that appeals to brides who want to stand out from the crowd and make a bold statement on their wedding day. Single layer, cape veil style, handmade. 118" long. Soft polyester tulle veil with Nylon lace. All lace is hand appliquéd in Beacon, NY. This style is made to order, 1 month lead time.
-  Updated: 2026-02-14T01:10:06Z
+  Updated: 2026-03-26T15:04:11Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/MaraMain.jpg?v=1682880694
   Price: $475.00 USD
+- [Aria Robe](https://collectionbynp.com/products/robe-1): The Aria Robe is your next wardrobe must-have. Handmade with luxurious, fine lace and finished with a delicate, scalloped eyelash edge. The detail in this intricate, sheer lace is specifically cut to turn heats. The easy fit of this robe is comfortable to wear all day long. Carefully hand sewn, this piece is finished with French seaming for a flawless look. Features an adjustable tie at waist to compliment all of your beautiful curves. This versatile piece is perfect for the bride to be, great gift for bridesmaids, spice up your honeymoon or enjoy a romantic evening at home. The Aria robe is the ultimate item to treat yourself. **Please note, this is for the lace robe only, set featured underneath in photos not included. Handmade in New York. 60% Cotton poly, 40% Nylon. Dry Clean Only. SIZE GUIDE:  sizes XS suits sizes 0-2, S suits sizes 2-4, M suits sizes 6-8, L suits sizes 10-12, XL suits size 14. All sizes have a comfort fit for a better drape with the lace fabric. The belt adds both functionality and style to this robe, allowing for a customizable fit.
+  Updated: 2026-03-26T15:04:11Z
+  Vendor: PERCACCIOLO COLLECTION
+  Product Type: ROBE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaRobeBlack2.jpg?v=1738163443
+  - [Black / XS](https://collectionbynp.com/products/robe-1?variant=43988847001834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaRobeBlack1callout.jpg?v=1738805463
+    Price: $225.00 USD
+  - [Black / S](https://collectionbynp.com/products/robe-1?variant=43988847034602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaRobeBlack1callout.jpg?v=1738805463
+    Price: $225.00 USD
+  - [Black / M](https://collectionbynp.com/products/robe-1?variant=43988847067370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaRobeBlack1callout.jpg?v=1738805463
+    Price: $225.00 USD
+  - [Black / L](https://collectionbynp.com/products/robe-1?variant=43988847100138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaRobeBlack1callout.jpg?v=1738805463
+    Price: $225.00 USD
+  - [Black / XL](https://collectionbynp.com/products/robe-1?variant=44926973313258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaRobeBlack1callout.jpg?v=1738805463
+    Price: $225.00 USD
+  - [White / XS](https://collectionbynp.com/products/robe-1?variant=43988846870762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaSide2.jpg?v=1738163443
+    Price: $225.00 USD
+  - [White / S](https://collectionbynp.com/products/robe-1?variant=43988846903530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaSide2.jpg?v=1738163443
+    Price: $225.00 USD
+  - [White / M](https://collectionbynp.com/products/robe-1?variant=43988846936298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaSide2.jpg?v=1738163443
+    Price: $225.00 USD
+  - [White / L](https://collectionbynp.com/products/robe-1?variant=43988846969066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaSide2.jpg?v=1738163443
+    Price: $225.00 USD
+  - [White / XL](https://collectionbynp.com/products/robe-1?variant=44926973346026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaSide2.jpg?v=1738163443
+    Price: $225.00 USD
 - [Dex Beanie](https://collectionbynp.com/products/dexy-beanie): Choose our Dex Beanie as your main accessory this season. Classic beanie shape with turn up cuff. The a-symmetrical design features a hand embroidered x stitch on half of the hat. See photos for details, half embroidered at turn up cuff and side seam/ half plain. Your choice of 7 colors and two special editions. All colors have a-symmetrical X embroidery design. For best frontal view of embroidery, see color BEIGE. One size () 100% acrylic Stretch knit for comfort Photos show beanie colors in both natural sunlight (on model) and LED light (on skull). Colors may vary due to lighting; colors may seem slightly darker in person. Hand embroidered in Beacon, NY. Hat made in China.
-  Updated: 2026-02-14T01:10:08Z
+  Updated: 2026-03-26T15:04:11Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Beanies
   Availability: Available
@@ -108,7 +154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/DEXWHITESKULL.jpg?v=1725588682
     Price: $25.00 USD
 - [Billie Beanie](https://collectionbynp.com/products/alex-beanie): Keep warm this winter with our hand embroidered Billie Beanie. Classic beanie shape with turn up cuff featuring hand embroidery. Your choice of 4 colors. All colors have hand stitched X embroidery design across the front. One size () 100% acrylic Stretch knit for comfort Compare to the Dex Beanie - this Billie Beanie has a tighter/smaller knit stitch. Still very comfortable and soft to wear. COLOR DESCRIPTIONS: Black with Red embroidery Pink with White embroidery White with Pink embroidery Black with Light Pink (almost white) embroidery Photos show beanie colors in natural sunlight. Colors may vary due to lighting; pink color may seem slightly lighter in person. Hand embroidered in Beacon, NY. Hat made in China.
-  Updated: 2026-02-14T01:10:06Z
+  Updated: 2026-03-26T15:04:12Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Beanies
   Availability: Available
@@ -132,8 +178,8 @@
   - [White/Teal](https://collectionbynp.com/products/alex-beanie?variant=45637358944490)
     Availability: Available
     Price: $25.00 USD
-- [Mara Cathedral Veil](https://collectionbynp.com/products/mara-cathedral-veil): Searching for the Victorian Gothic aesthetic for your wedding look? Designed to turn heads, Mara Cathedral Veil is a testament to breaking tradition. Available in both red and white tulle with hand sewn black, corded lace trim. The red color tulle is tailored for the bold bride. Red and black together create a romantic look, designed to both captivate and enchant. The white tulle option is for the bride that wants a little edge paired with traditional sophistication. A beautiful corded, floral lace trim adds to the drama, running along the length of this veil. The rich black color and intricate, floral motif adds a dark romantic touch to both color options. Whether you're walking down the aisle in a grand cathedral or exchanging vows in an intimate garden setting, this Mara Cathedral Veil is sure to make a lasting impression. Details: Single layer, silver comb, red tulle or white tulle with black corded, floral lace trim, handmade. Content: 100% polyester Length: 118" Lace hand appliquéd in Beacon, NY. This style is made to order, 1 month lead time.
-  Updated: 2026-02-14T01:10:05Z
+- [Mara Cathedral Veil](https://collectionbynp.com/products/mara-cathedral-veil): Searching for the Victorian Gothic aesthetic for your wedding look? Designed to turn heads, Mara Cathedral Veil is a testament to breaking tradition. Available in both red and white tulle with hand sewn black, corded lace trim. The red color tulle is tailored for the bold bride. Red and black together create a romantic look, designed to both captivate and enchant. The white tulle option is for the bride that wants a little edge paired with traditional sophistication. A beautiful corded, floral lace trim adds to the drama, running along the length of this veil. The rich black color and intricate, floral motif adds a dark romantic touch to both color options. Whether you're walking down the aisle in a grand cathedral or exchanging vows in an intimate garden setting, this Mara Cathedral Veil is sure to make a lasting impression. Details: Single layer, silver comb, red tulle or white tulle with black corded, floral lace trim, handmade. Content: Tulle: 100% polyester, Lace: 100% nylon (corded, eyelash fringe) Length: 118" Lace hand appliquéd in Beacon, NY. This style is made to order, 1 month lead time.
+  Updated: 2026-04-02T04:53:06Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
@@ -147,21 +193,31 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/MARACATHEDRAL1.jpg?v=1711747288
     Price: $435.00 USD
 - [Lydia Beaded Fingertip Veil](https://collectionbynp.com/products/lydia-fingertip-veil): Lydia Fingertip Veil is made from luxurious red tulle and adorned with red beads. This veil captures the essence of timeless beauty and modern romance. Angularly cut, this silhouette drapes effortlessly over the shoulders. However, it's the hand beaded design that truly sets this veil apart. Various sized red beads are scattered around the head starting at the crown and down the front sides of the veil. Each detail is hand beaded with artful precision. With its graceful silhouette and striking design, Lydia is the epitome of bridal perfection. Whether paired with a traditional gown or a modern ensemble, it effortlessly elevates any bridal look. Details: One layer, silver comb, red tulle, various sized hand beading, handmade. Tulle Content: 100% nylon Length: 40" Hand beaded in Beacon, NY. This style is made to order, 1 month lead time.
-  Updated: 2026-02-14T01:10:05Z
+  Updated: 2026-03-26T15:04:12Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Lydia9.jpg?v=1719410189
-  Price: $275.00 USD
+  - [Red](https://collectionbynp.com/products/lydia-fingertip-veil?variant=45869748420842)
+    Availability: Available
+    Price: $275.00 USD
+  - [White](https://collectionbynp.com/products/lydia-fingertip-veil?variant=45869748453610)
+    Availability: Not Available
+    Price: $275.00 USD
 - [LILITH RED GOTH WEDDING VEIL | COLLECTION BY NP](https://collectionbynp.com/products/lilith-2-tier-veil): The vibrant red wedding veil incorporates a pop of color, making this a bold statement as you walk down the aisle with exquisite hand stitched lace detail.
-  Updated: 2026-02-14T01:57:40Z
+  Updated: 2026-03-26T15:04:12Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Lilith1.jpg?v=1711592826
-  Price: $455.00 USD
+  - [Red](https://collectionbynp.com/products/lilith-2-tier-veil?variant=45869748257002)
+    Availability: Available
+    Price: $455.00 USD
+  - [Black](https://collectionbynp.com/products/lilith-2-tier-veil?variant=45869748355306)
+    Availability: Available
+    Price: $455.00 USD
 - [Lyla Veil](https://collectionbynp.com/products/lyla-veil): Step into timeless elegance with our Lyla Veil. This style incorporates a traditional blusher, adding an air of mystery and anticipation as you make your entrance. Pleated to add fullness and volume, the two-tiers cascade to just above elbow length. A hand-sewn trim of delicate, floral lace adorns the edges of this veil. The curved scalloped finish adds a touch of charm. Whether paired with a classic ballgown or a modern, short silhouette, this Lyla Veil embodies the essence of romance and sophistication. Making it the perfect finishing touch for your special day. Available in both Black and White. Details: 2 layers, silver comb, white or black tulle with soft lace edge finish. Content: 100% nylon tulle Lace hand appliquéd in Beacon, NY. This style is made to order, 1 month lead time.
-  Updated: 2026-02-14T01:10:04Z
+  Updated: 2026-03-26T15:04:12Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
@@ -175,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/LylaBlack1.jpg?v=1719587159
     Price: $245.00 USD
 - [Emery Tote](https://collectionbynp.com/products/emery-tote): Elevate your everyday or bridal style with the Emery Tote. Made from durable, high quality Jelly PVC and faux leather; the perfect blend of sustainability and sophistication. The spacious design makes it ideal for business, shopping trips, bridal tote and more. The innovative design features a removable inner pouch, giving you added versatility and organization. This pouch can be used separately, interchangeable as a clutch or to keep your smaller essentials neatly tucked away. Zero Waste Inner Pouch Design: What sets this handbag apart is its commitment to eco-friendly fashion with the inner, removable pouch. This insert is made with a Zero Waste design - there is no textile waste during the production process. A sustainable, conscious design to keep fabric out of landfills. More info on our socials to see how this pouch was designed: @percacciolocollection *Ivory color of Jelly tote is a milky, clear color. Black color is less transparent. Pouch Dimensions: 10"L x 13.5" W x 2.75" D, zipper closure Tote Dimensions: 11" L x 18" W x 5.25" D, Handle Height: 12", silver snap closure Pouch: handmade in Beacon, NY, Tote: made and printed in China. Pouch: Faux Leather 50% PU (face side) 50% cotton (inside). Tote: 100% PVC Care Instructions: Spot Clean.
-  Updated: 2026-02-14T01:53:12Z
+  Updated: 2026-03-26T15:04:13Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Handbags
   Availability: Available
@@ -189,21 +245,21 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/IvoryEmory1_e4297ae0-69d5-42f0-8a35-0133269ffad7.jpg?v=1725586898
     Price: $75.00 USD
 - [Morgana Chain Necklace](https://collectionbynp.com/products/morgana-chain-necklace): Unleash your edgy style with the Morgana Chain Necklace. One of a kind asymmetrical design from Percacciolo Collection, handmade with stainless steel materials by themoonsalibi collection. The asymmetrical design is adorned with spike details and a bold industrial bar, combining alternating chain sizes for texture and dimension. Crafted with care in the USA, it’s perfect for those who want to make a statement. Features: Material: Durable stainless steel Design: Asymmetrical with alternating chain sizes Details: Spikes and industrial bar for an edgy touch Length: Adjustable clasp for the perfect fit Perfect For:Layering with other pieces or making a statement on its own, this unisex accessory is ideal for anyone who loves darkwear and industrial fashion. Care Instructions:To maintain its shine, clean with a soft cloth and store in a dry place. Avoid exposure to harsh chemicals. Made from stainless steel materials in USA.
-  Updated: 2026-02-14T02:03:43Z
+  Updated: 2026-03-26T15:04:13Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/IMG_9737.heic?v=1729219338
   Price: $55.00 USD
 - [Dahlia Headband](https://collectionbynp.com/products/dahlia-headband): Born from midnight blooms, wear your darkness like a crown with our hand made Dahlia Headband. The white velvet base is adorned with black floral lace and accented with circular rhinestones. Make a statement with this comfortable, yet stylish accessory. Hand made in Beacon, NY, one size. This style is made to order, one week lead time.
-  Updated: 2026-02-14T04:03:37Z
+  Updated: 2026-03-26T15:04:13Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/FinalDahliaHeadband.jpg?v=1746755622
   Price: $45.00 USD
 - [Astra Bag](https://collectionbynp.com/products/astra-bag): Crafted for the cosmic misfits. The Astra Bag is handmade from durable, cruelty-free PVC faux leather, featuring an all over star print. The adjustable strap lets you wear this sleek silhouette your way—crossbody, shoulder, however you prefer to style it. Your next go-to accessory for concerts, late-night adventures, errands; the perfect staple piece for any outfit. Details: Extremely lightweight Material: 100% High-quality PVC faux leather Print: All-over star design Adjustable strap (wear it crossbody or shoulder) Secure top metal zipper closure Dimensions: Height 5 1/2", Width: 8 1/4", Depth: 2 3/4" This product is handmade, dimensions may slightly vary. Care: Can use a damp cloth with mild soap and water, tap to spot clean. Wipe dry afterward. Avoid harsh chemicals, direct sunlight and heat sources for a long period of time as these can cause fading and damage. Keep in dust bag and stuffed to maintain shape when storing. Handmade in USA Colors: white has black star print, black has white star print, pink has black star print, purple has black star print and special edition has embossed stars in a metallic purple color.
-  Updated: 2026-02-14T01:05:29Z
+  Updated: 2026-03-26T15:04:13Z
   Vendor: Percacciolo Collection
   Product Type: Handbags
   Availability: Available
@@ -229,7 +285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/E9A2370C-DE12-4C89-8BCD-EE6041CA5E5E.jpg?v=1761097266
     Price: $45.00 USD
 - [Lenore Lace Earrings](https://collectionbynp.com/products/lenore-lace-earrings): Lenore Lace Earrings made from hand cut delicate floral lace. Hand adorned with meticulously placed beads. Inspired by the brilliant tortured mind of Edgar Allen Poe; dark and fragile, yet poetically beautiful. To maintain the quality of the beads and lace, avoid contact with water. Store in a cool, dry place and gently clean with a soft cloth if needed. If possible, keep hung on the black paper tag the earrings are shipped with. Handle with care to preserve the delicate design. Details: Black Lace Earrings Hand beaded with 2 bead options: crystal and red colored beads Lightweight, dangling design Hypoallergenic hooks, made from zinc alloy material with silicone backing. Hand cut and assembled in USA
-  Updated: 2026-02-14T01:10:06Z
+  Updated: 2026-03-26T15:04:13Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
@@ -243,14 +299,14 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Red2.jpg?v=1761013216
     Price: $20.00 USD
 - [Isolde Lace Earrings](https://collectionbynp.com/products/isolde-large-lace-earrings): Step into the shadows with the Isolde Lace Earrings. Each piece is hand cut and hand beaded with red beads and rhinestone accents. Limited quantity, handmade. To maintain the quality of the beads and lace, avoid contact with water. Store in a cool, dry place and gently clean with a soft cloth if needed. If possible, keep hung on the black paper tag the earrings are shipped with. Handle with care to preserve the delicate design. Details: Large/wide Black Lace Earrings Hand beaded with rhinestones and red colored beads Lightweight, dangling design Hypoallergenic hooks, made from zinc alloy material with silicone backing. Hand cut and assembled in USA
-  Updated: 2026-02-14T01:10:03Z
+  Updated: 2026-03-26T15:04:14Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Isolde1.jpg?v=1761014930
   Price: $30.00 USD
 - [Bag Charm](https://collectionbynp.com/products/bag-charm): AVAILABLE FRIDAY, OCTOBER 24th. Accessorize your Astra Bag (or any bag) with the new Bag Charms! Each charm features a bronze colored skeleton moth charm, black velvet tab, and black floral lace charm. All on a matte black key ring with swivel hook made from stainless steel. Choose from 3 options: heart, skeleton cross and coffin design. Each with bronze colored finishing.
-  Updated: 2026-02-14T02:26:07Z
+  Updated: 2026-03-26T15:04:14Z
   Vendor: Percacciolo Collection
   Product Type: Key Chains
   Availability: Available
@@ -268,14 +324,42 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/skullcoffin.jpg?v=1761017531
     Price: $15.00 USD
 - [Luna Earrings](https://collectionbynp.com/products/luna-earrings): Channel celestial energy with our Luna Earrings. Crafted with gold-colored hardware, each earring features a dangling crescent moon made from purple/ blue toned resin with gold speckled accents. Lightweight and comfortable for all-day (or all-night) wear, these earrings are perfect for the witchy, alternative soul. Details: Gold-colored metal hardware (not real gold) Purple/blue resin moon beads with gold accents Lightweight, dangling design Hypoallergenic hooks, made from alloy material that is lead free and nickel free with silicone backing. Hand assembled in USA
-  Updated: 2026-02-14T02:26:07Z
+  Updated: 2026-03-26T15:04:14Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Luna1.jpg?v=1761056647
   Price: $20.00 USD
+- [Elena Mantilla Veil](https://collectionbynp.com/products/elena-mantilla-veil): The Elena Mantilla is a romantic reinterpretation of the classic Spanish mantilla. Crafted from airy, taupe colored tulle and finished with delicate, hand sewn taupe lace. Draped from the front of the head, the Elena Mantilla frames the face, shoulders and waist beautifully with a cathedral length flowing behind you. The lace edging is carefully hand stitched with clear thread. Creating a seamless finish as if the eyelash lace is floating along the edge of the veil. In warm neutral tones, this mantilla offers a refined alternative to traditional ivory veils. The subtle taupe palette pairs beautifully with earthy bridal looks, silk gowns, and natural outdoor settings. Details Mantilla silhouette Cathedral length Soft taupe tulle Delicate taupe eyelash lace edging Lace is hand sewn with clear thread for an invisible finish Hand wrapped silver colored comb Tulle Content: 90% Polyester, 10% Lycra, Lace: 100% Cotton Full Length from comb at top front of the veil: 118” Handmade in Beacon, NY. This style is made to order, 1 month lead time.
+  Updated: 2026-03-26T15:04:14Z
+  Vendor: Percacciolo Collection
+  Product Type: Veil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/ElenaMantillaIMG_3771_891cc668-209d-4773-9cfc-179ac57ce4e4.jpg?v=1773283412
+  Price: $405.00 USD
+- [Sienna Veil](https://collectionbynp.com/products/sienna-veil): Meet the Sienna Veil, designed for the soft alternative bride. A modern silhouette in two unexpected colors. This two tier veil is hand cut and hand draped from ultra lightweight, airy tulle. The layered design creates dimension within a soft silhouette. Finished with a simple raw cut edge that floats beautifully with every step. The Sienna Veil comes in two neautral tones: taupe and chocolate. Offering a warm, earthy palette that moves away from traditional white while still feeling timeless and bridal. This veil pairs beautifully with bohemian gowns, minimal silhouettes, and non-traditional bridal looks. It’s especially perfect for desert weddings, outdoor ceremonies, and brides seeking something unique yet elegant. Colors: Taupe is the lighter mocha/beige color. Chocolate is the darker brown shade. Details Two-tier veil for soft volume and movement Ultra-lightweight, soft tulle Colors: Taupe and chocolate Hand wrapped silver colored comb Ideal for desert, bohemian, and alternative bridal styles Content: 90% Polyester, 10% Lycra Front Length from Comb (blusher): 32 1/2" Back Length from Comb: 46 1/2" Handmade in Beacon, NY. This style is made to order, 1 month lead time.
+  Updated: 2026-03-26T16:01:58Z
+  Vendor: Percacciolo Collection
+  Product Type: Veil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/SiennaTaupeIMG_3221.jpg?v=1773279413
+  - [Taupe](https://collectionbynp.com/products/sienna-veil?variant=45819424407786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/SiennaTaupeIMG_3221.jpg?v=1773279413
+    Price: $110.00 USD
+  - [Chocolate](https://collectionbynp.com/products/sienna-veil?variant=45819424440554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/SiennaChocIMG_3564.jpg?v=1773280006
+    Price: $110.00 USD
+- [Celeste Veil](https://collectionbynp.com/products/celeste-cathedral-veil): The Celeste Veil is soft, ethereal, and quietly unconventional. Designed for the bride who embraces romance with a slight alternative edge. Part of our Desert Veil Collection, this piece is handmade from delicate ivory tulle and finished with taupe eyelash fringe lace. The neutral tone of the lace creates texture and movement along the veil's edge. Chapel length veil with a shorter, draped blusher: the two-tiered silhouette adds dimension and volume. The shorter layer can be worn over the face as a blusher or pulled back. Angularly cut, the scalloped lace edge cascades around the shoulders, down the arms and hips creating a mesmerizing silhouette. Perfect for the bride who wants something classic, but not exactly traditional. Lightweight and airy, the Celeste Veil drapes beautifully and complements a wide range of gowns from solid silk slip dresses to full lace vintage-inspired dresses. Details Soft ivory tulle Taupe eyelash fringe lace trim Hand cut and sewn Lightweight and airy drape Chapel Length Short, pleated blusher Content: Tulle: 100% polyester, Lace: 100% Cotton Length: Chapel 90" Lace hand appliquéd in Beacon, NY. This style is made to order, 1 month lead time.
+  Updated: 2026-03-26T15:04:15Z
+  Vendor: Percacciolo Collection
+  Product Type: Veil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/CelesteIMG_4016.jpg?v=1773284371
+  Price: $415.00 USD
 - [Gift Card](https://collectionbynp.com/products/gift-card)
-  Updated: 2026-02-14T02:00:35Z
+  Updated: 2026-03-26T15:04:15Z
   Vendor: Percacciolo Collection
   Product Type: Gift Card
   Availability: Available
@@ -299,38 +383,44 @@
 ## Collections
 
 - [Home page](https://collectionbynp.com/collections/frontpage)
-  Updated: 2025-02-06T00:51:07Z
+  Updated: 2026-03-26T15:04:09Z
   Total Products: 0
 - [Veils](https://collectionbynp.com/collections/veils): Experience the dramatic beauty of our Veil Collection, designed to enhance your bridal look and create an unforgettable impression.
-  Updated: 2026-02-13T13:10:03Z
+  Updated: 2026-03-27T11:10:57Z
   Total Products: 11
 - [Garters](https://collectionbynp.com/collections/garters): Add a touch of elegance to your bridal collection with our intricate handmade lace garters.
-  Updated: 2026-02-13T13:10:03Z
+  Updated: 2026-03-26T15:04:09Z
   Total Products: 3
 - [Gloves](https://collectionbynp.com/collections/gloves): Make a statement on your wedding day with our bridal glove collection, a standout accessory that will enhance your bridal look.
-  Updated: 2026-02-13T13:10:03Z
+  Updated: 2026-03-26T15:04:09Z
   Total Products: 4
 - [Headbands](https://collectionbynp.com/collections/headbands): Our hand-beaded headband collection is a beautiful and versatile accessory that will complement any style.
-  Updated: 2026-02-13T13:10:03Z
+  Updated: 2026-03-26T15:04:10Z
   Total Products: 2
-- [Robes](https://collectionbynp.com/collections/robes): ARIA ROBE WILL BE AVAILABLE FEBRUARY 2026
-  Updated: 2026-01-29T00:19:52Z
+- [Robes](https://collectionbynp.com/collections/robes)
+  Updated: 2026-03-26T15:04:10Z
   Total Products: 2
 - [All Products](https://collectionbynp.com/collections/all-products): Step into the shadows, where intricate lace meets edgy style.
-  Updated: 2026-02-13T13:10:03Z
-  Total Products: 35
+  Updated: 2026-03-27T11:10:57Z
+  Total Products: 38
 - [Bridal](https://collectionbynp.com/collections/bridal)
-  Updated: 2026-02-13T13:10:03Z
+  Updated: 2026-03-27T11:10:57Z
   Total Products: 17
 - [Handbags](https://collectionbynp.com/collections/handbags)
-  Updated: 2026-02-13T13:10:01Z
+  Updated: 2026-03-26T15:04:10Z
   Total Products: 3
 - [Beanies](https://collectionbynp.com/collections/beanies)
-  Updated: 2026-02-13T13:10:02Z
+  Updated: 2026-03-26T15:04:10Z
   Total Products: 2
 - [Jewelry](https://collectionbynp.com/collections/jewelry): BARB EARRINGS WILL BE AVAILABLE SOON.
-  Updated: 2026-02-13T13:10:01Z
+  Updated: 2026-03-26T15:04:10Z
   Total Products: 4
+- [Darkwear Accessories](https://collectionbynp.com/collections/darkwear-accessories)
+  Updated: 2026-03-26T15:04:10Z
+  Total Products: 11
+- [Desert Veil Collection](https://collectionbynp.com/collections/desert-veil-collection): Modern Veil Silhouettes in unexpected neutral tones.
+  Updated: 2026-03-26T16:01:59Z
+  Total Products: 3
 
 ## Blogs
 
@@ -365,6 +455,8 @@
   Updated: 2026-02-16T13:05:42Z
 - [Email & SMS Signup](https://collectionbynp.com/pages/email-sms-signup)
   Updated: 2025-06-13T19:33:36Z
+- [Something Borrowed](https://collectionbynp.com/pages/something-borrowed): Bring your vision to life. Add Custom Couture elements to your bridal look with our one of a kind designed pieces. CUSTOM REPURPOSED ITEMS - lookin...
+  Updated: 2026-04-09T19:24:26Z
 
 ## Policies
 
