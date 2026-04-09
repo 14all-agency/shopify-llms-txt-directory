@@ -7,7 +7,7 @@
 - Created At: 2025-10-11T15:22:31Z
 - Contact Email: orders@bcubsauces.com
 - Contact Phone: 832-632-2520
-- Updated At: 2026-04-02T00:00:38.922Z
+- Updated At: 2026-04-09T00:00:42.591Z
 
 B'Cubs® Sauces is a premium sauce and condiment brand based in Texas, specializing in bold, artisan flavors led by our signature Voodoo Peanut Sauce (available in multiple heat levels) and Classic Honey Mustard. We package our products in 12 oz glass bottles with a rustic Texas premium aesthetic, offering both single bottles and value 2-packs.
 
@@ -18,7 +18,7 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
 ## Products
 
 - [B'Cubs® Voodoo Peanut Sauce: Endless Possibilities](https://bcubsauces.com/products/voodoo-peanut-sauce): One sauce, endless possibilities. Bold, nutty, sweet with a spicy kick. Mild, Medium & Hot. Perfect for grilling, dipping & more. Texas-made!
-  Updated: 2026-04-01T15:18:48Z
+  Updated: 2026-04-08T02:45:30Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
@@ -36,35 +36,35 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
     Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/BCubs_Voodoo_Peanut_Sauce_Hot_fc61123d-6866-4225-bc9a-ab658f0c9907.png?v=1769789453
     Price: $9.95 USD
 - [B'Cubs® Classic Honey Mustard: Sweet & Tangy, Texas-Made](https://bcubsauces.com/products/classic-honey-mustard): Not your ordinary honey mustard. B’Cubs® Classic Honey Mustard is sweet, tangy & bold with real clover honey. Perfect for dipping, glazing & more. Texas-made.
-  Updated: 2026-03-28T19:02:03Z
+  Updated: 2026-04-06T03:33:26Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/B_CubsClassicHoneyMustard.png?v=1762090596
   Price: $9.95 USD
 - [Voodoo Peanut Sauce Mild 2-Pack | B'Cubs Sauces](https://bcubsauces.com/products/voodoo-peanut-sauce-mild-2-pack): Save with our Mild Voodoo Peanut Sauce 2-pack. Bold, nutty Asian-style peanut sauce with gentle heat. Perfect for stir-fries, satay & marinades. Two 12 oz bottles.
-  Updated: 2026-03-30T23:07:37Z
+  Updated: 2026-04-02T18:21:40Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/bcubs-voodoo-peanut-sauce-2-pack_aeba79ed-7248-4484-be90-e3bf1b466b30.png?v=1769489610
   Price: $20.90 USD
 - [B’Cubs® Voodoo Peanut Sauce Medium (Original) 2-Pack](https://bcubsauces.com/products/voodoo-peanut-sauce-medium-2-pack): Save with our Medium Voodoo Peanut Sauce 2-pack. Bold, nutty peanut sauce with balanced heat. Perfect for stir-fries, wings & marinades. Two 12oz bottles.
-  Updated: 2026-03-29T23:27:30Z
+  Updated: 2026-04-02T18:21:40Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/bcubs-voodoo-peanut-sauce-medium-2-pack_cf996faa-cb46-43ba-89c6-5116ed9052de.png?v=1769489347
   Price: $20.90 USD
 - [B’Cubs® Voodoo Peanut Sauce Hot 2-Pack](https://bcubsauces.com/products/voodoo-peanut-sauce-hot-2-pack): Save with our Hot Voodoo Peanut Sauce 2-pack. Bold, nutty peanut sauce with spicy kick. Perfect for stir-fries, wings & marinades. Two 12oz bottles.
-  Updated: 2026-03-28T19:02:03Z
+  Updated: 2026-04-02T18:21:40Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/8650/1695/files/bcubs-voodoo-peanut-sauce-hot-2-pack_6477708f-66fe-498e-8b3e-f76c46eb5c21.png?v=1769488576
   Price: $20.90 USD
 - [B’Cubs® Classic Honey Mustard 2-Pack: Sweet & Tangy](https://bcubsauces.com/products/classic-honey-mustard-2-pack): Save with our Classic Honey Mustard 2-Pack! Two 12oz bottles of sweet, tangy Texas-made sauce with real clover honey. Perfect for sandwiches, pretzels & more.
-  Updated: 2026-03-28T19:02:04Z
+  Updated: 2026-04-02T18:21:41Z
   Vendor: B'Cubs® Sauces
   Product Type: Sauces & Condiments
   Availability: Available
@@ -74,13 +74,13 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
 ## Collections
 
 - [Home page](https://bcubsauces.com/collections/frontpage)
-  Updated: 2026-04-01T11:31:26Z
+  Updated: 2026-04-08T11:33:36Z
   Total Products: 2
 - [All Sauces | B'Cubs® Premium Texas-Made Sauces](https://bcubsauces.com/collections/all-sauces): Shop B'Cubs® premium Texas-made sauces: Voodoo Peanut Sauce (Mild, Medium, Hot) & Classic Honey Mustard with real clover honey. Bold flavors for every dish.
-  Updated: 2026-04-01T11:31:26Z
+  Updated: 2026-04-08T11:33:36Z
   Total Products: 2
 - [Sauce 2-Packs - Stock Up & Save | B'Cubs® Premium Sauces](https://bcubsauces.com/collections/2-packs): Save with B'Cubs® sauce 2-packs! Voodoo Peanut Sauce (Mild, Medium, Hot) & Classic Honey Mustard. Two 12oz bottles per pack. Stock up on bold Texas flavor.
-  Updated: 2026-03-31T11:29:37Z
+  Updated: 2026-04-02T18:21:40Z
   Total Products: 4
 
 ## Blogs
@@ -121,6 +121,8 @@ Our brand emphasizes quality ingredients, bold editorial imagery, and a commitme
   Updated: 2026-02-03T19:24:20Z
 - [Contact Us | B'Cubs® Sauces Customer Support](https://bcubsauces.com/pages/contact-us): 
   Updated: 2026-02-03T19:02:36Z
+- [Collabs](https://bcubsauces.com/pages/collab)
+  Updated: 2026-04-07T18:28:07Z
 
 ## Policies
 
