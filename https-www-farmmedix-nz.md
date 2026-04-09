@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-05-09T11:07:06Z
 - Contact Email: info@farmmedix.com
-- Updated At: 2026-04-01T00:00:33.004Z
+- Updated At: 2026-04-09T00:00:35.625Z
 
 Farm Medix is New Zealand's leading provider of mastitis diagnostics and lameness management solutions for dairy farmers. Farm Medix helps farmers improve milk quality, reduce antibiotic use, and boost herd performance. We offer expert 7-day support to help you get the best results.
 
@@ -200,13 +200,13 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
 - [Farm Medix | Do Not  Or Share My Personal Information](https://www.farmmedix.nz/pages/data--opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2024-09-16T21:32:53Z
 - [Herdscreen Staph. aureus Test | Cow-Level Mastitis Control](https://www.farmmedix.nz/pages/mastitis-herdscreen): Fast, accurate whole-herd mastitis screening. Identify hidden Staph. aureus carriers, protect milk quality, and regain herd control – Farm Medix NZ.
-  Updated: 2026-03-24T23:43:14Z
+  Updated: 2026-04-08T21:47:21Z
 - [Stride-On Equine | Hoof Health Band for Horses](https://www.farmmedix.nz/pages/hoofcare-stride-on-equine): Stride-On™ is an easy-to-use hoof health band for horses. Supports healthy hooves and helps prevent lameness with CopperFlow™ technology.
-  Updated: 2026-03-25T00:46:52Z
+  Updated: 2026-04-06T23:10:12Z
 - [Stride-On Bovine | Lameness Leg Band for Dairy Cows](https://www.farmmedix.nz/pages/lameness-stride-on-bovine): Stride-On™ is an easy-to-use leg band for cows that supports healthy hooves and helps prevent lameness with advanced CopperFlow™ technology.
   Updated: 2026-03-30T20:42:30Z
 - [Water  - Chlorination for Safer, Compliant Water](https://www.farmmedix.nz/pages/water-): Farm Chlor kills harmful bacteria in your water. It greatly improves your animal health & productivity, and plant hygiene. Treat your troughs and w...
-  Updated: 2026-03-24T02:45:21Z
+  Updated: 2026-04-08T22:15:16Z
 - [Microbiology Lab Services | Farm Medix](https://www.farmmedix.nz/pages/laboratory-services): Independent microbiology testing and product validation for dairy, veterinary, and hygiene industries—accurate, practical, and trusted analysis by ...
   Updated: 2026-03-24T01:12:41Z
 - [Farm Medix - FIL | GEA role and partnership](https://www.farmmedix.nz/pages/partners-fil): Farm Medix and FIL have partnered globally to provide on-farm mastitis testing and helping farmers improve milk quality and reduce antibiotic use.
@@ -233,6 +233,8 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
   Updated: 2026-03-24T02:51:16Z
 - [Mastitis Management Explained: From Detection to Action](https://www.farmmedix.nz/pages/mastitis-management-explained): Modern mastitis management goes beyond detection. Learn how alerts become diagnoses, targeted actions, and long-term prevention with Farm Medix.
   Updated: 2026-03-30T20:46:36Z
+- [Dry-Off Preparation for NZ Dairy Farms | Farm Medix](https://www.farmmedix.nz/pages/herd-dry-off-preparation): Walk into dry-off prepared. Farm Medix mastitis diagnostics help NZ dairy farmers and vets plan selective dry cow therapy with confidence. Since 2010.
+  Updated: 2026-04-08T23:40:25Z
 
 ## Policies
 
