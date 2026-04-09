@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2010-04-30T15:23:34Z
 - Contact Email: sales@maiden-art.com
-- Updated At: 2026-04-02T00:00:46.093Z
+- Updated At: 2026-04-09T00:00:49.000Z
 
 ## Products
 
@@ -747,168 +747,168 @@
     Availability: Available
     Price: €79.00 EUR
 - [Serenity Spice: A Vanilla Infusion - Candle for Mindfulness &](https://www.maiden-art.com/products/serenity-spice-a-vanilla-infusion-candle-aromatherapy-candle): Experience Serenity with Our Premium Aromatherapy Candle Available in the following scents: Vanilla  - Maiden-Art
-  Updated: 2026-02-16T10:55:23Z
+  Updated: 2026-04-02T20:11:04Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/f1e140da32cb5d727243bbed53f9df81.png?v=1726563269
   Price: €49.00 EUR
 - [Serenity Sea: Mindful Citrus Breeze - Candle for Mindfulness &](https://www.maiden-art.com/products/serenity-sea-mindful-citrus-breeze-candle): Serenity  Candle: Mindful Citrus Breeze for Meditation Candle: Available in the following scents:  - Maiden-Art
-  Updated: 2026-02-16T10:55:23Z
+  Updated: 2026-04-02T20:11:06Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/3cc1d9503843ec0f4517915d730f50cb.png?v=1726563274
   Price: €49.00 EUR
 - [Zen Spice: Spiced Pumpkin Ginger - aromatherapy candle - Maiden-Art](https://www.maiden-art.com/products/zen-spice-spiced-pumpkin-ginger-candle-aromatherapy-candle): Aromatherapy Candle: The Enchantg Zen Spice - Spiced Pumpk Gger Aromatherapy Candle: Available  - Maiden-Art
-  Updated: 2026-02-16T10:55:23Z
+  Updated: 2026-04-02T20:11:07Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/7f8f93f55dec57d7648e129d41db70c3.png?v=1726563277
   Price: €49.00 EUR
 - [Soul Soothe: Comfort Spice - Candle for Mindfulness & Meditation -](https://www.maiden-art.com/products/soul-soothe-comfort-spice-candle-for-mindfulness-meditation): Spice Candle for Mindfulness &amp; Meditation Candle: Available in the following scents  - Maiden-Art
-  Updated: 2026-02-16T10:55:23Z
+  Updated: 2026-04-02T20:11:08Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/dda8050e305f586dad17fe5e4913dbbf.png?v=1726563281
   Price: €49.00 EUR
 - [Pink Grapefruit Meditation Blend - mindfulness candle - Maiden-Art](https://www.maiden-art.com/products/pink-grapefruit-meditation-blend-mindfulness-candle): Mindfulness Candle: Pink Grapefruit Meditation Blend Mindfulness Candle: Available in the following  - Maiden-Art
-  Updated: 2026-02-16T10:55:23Z
+  Updated: 2026-04-02T20:11:56Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/ffcedfaed66062084e01531cf379f7a3.png?v=1726563284
   Price: €49.00 EUR
 - [Woodsy Balsam Oasis - Candle for Mindfulness & Meditation -](https://www.maiden-art.com/products/woodsy-balsam-oasis-candle-for-mindfulness-meditation-aromatherapy-candle): Experience Tranquility with Our Aromatherapy Candle Aromatherapy Candle: Available in the following  - Maiden-Art
-  Updated: 2026-02-16T10:55:23Z
+  Updated: 2026-04-02T20:11:59Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/e34541b49ed70299a28412dc8a62c13a.png?v=1726563288
   Price: €49.00 EUR
 - [Meditation Candle - Eucalyptus Lavender Tranquility - Candle for](https://www.maiden-art.com/products/eucalyptus-lavender-tranquility-candle-for-mindfulness-meditation-candle): Meditation Candle - Eucalyptus Lavender Tranquility Meditation Candle: Available in the following  - Maiden-Art
-  Updated: 2026-03-24T05:11:21Z
+  Updated: 2026-04-02T20:12:00Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/8b52528f19d088ea706ec6faf2aeb62d.png?v=1726563291
   Price: €49.00 EUR
 - [Citrus Glow Elixir - Vitamin C Serum - Maiden-Art](https://www.maiden-art.com/products/citrus-glow-elixir-mindful-vitamin-c-serum): Experience Radiance with Our Vitamin C  Vitamin C : Citrus Glow Elixir Mindful Vitamin C  - Maiden-Art
-  Updated: 2026-02-16T10:55:24Z
+  Updated: 2026-04-02T19:49:22Z
   Vendor: Selfnamed
   Product Type: vitamin c serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/A6ZDTMePpLgvdw4e9VFpe737luLntdeu.jpg?v=1726646453
   Price: €59.00 EUR
 - [Mindful Renewal Essence - Collagen Serum - Maiden-Art](https://www.maiden-art.com/products/collagen-renewal-essence-mindful-collagen-serum): Experience the Power of Collagen Serum with Mindful Renewal Essence Collagen Serum:  Renewal Essence  - Maiden-Art
-  Updated: 2026-03-18T08:38:57Z
+  Updated: 2026-04-02T19:49:24Z
   Vendor: Selfnamed
   Product Type: collagen serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/M9oi2iEPTKiX0HjvhrG7_ZK_J_a5_E6.jpg?v=1726646465
   Price: €59.00 EUR
 - [Youthful Glow Infusion - Botox Like Peptide Smoothing Serum -](https://www.maiden-art.com/products/youthful-glow-infusion-mindful-peptide-smoothing-serum): Peptide Smoothing Serum for a Youthful Glow Peptide Smoothing Serum: Youthful Glow Infusion -  - Maiden-Art
-  Updated: 2026-02-16T10:55:24Z
+  Updated: 2026-04-02T19:50:30Z
   Vendor: Selfnamed
   Product Type: Botox-Like Peptide Smoothing Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/pYed3-MMTtwQhd9-0qSKqbHOxbxxBafQ.jpg?v=1726646490
   Price: €59.00 EUR
 - [Radiant Glow - Luminous Foundation N.07 - Maiden-Art](https://www.maiden-art.com/products/radiant-glow-embrace-your-true-beauty-with-luminous-foundation-n-07): Radiant Glow - Luminous Foundation N.07: Your Perfect Luminous Foundation Radiant Glow: Embrace Your  - Maiden-Art
-  Updated: 2026-02-16T10:55:24Z
+  Updated: 2026-04-02T19:51:03Z
   Vendor: Selfnamed
   Product Type: foundation
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/hSyzbJXMHHxXkmyCPWzKuRFwN4Xp0AsT.jpg?v=1726646500
   Price: €49.00 EUR
 - [Radiant Glow - Luminous Foundation N.10 - Maiden-Art](https://www.maiden-art.com/products/empower-your-glow-luminous-foundation-n-10-in-rich-tones): Radiant Glow Luminous  N.10 - The Ultimate Luminous  Empower Your Glow: Luminous  - Maiden-Art
-  Updated: 2026-02-16T10:55:24Z
+  Updated: 2026-04-02T19:51:06Z
   Vendor: Selfnamed
   Product Type: foundation
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/zPyDOs13jDA_1Vzbz6bYj1QJZIh4kDlA.jpg?v=1726646538
   Price: €49.00 EUR
 - [Glowing From Within - Micellar Cleansing Water - Maiden-Art](https://www.maiden-art.com/products/glowing-from-within-embrace-self-love-with-micellar-cleansing-water): Cleansing Water: The Secret to Glowing Skin Glowing From Within: Embrace Self-Love with  - Maiden-Art
-  Updated: 2026-02-16T10:55:24Z
+  Updated: 2026-04-02T19:51:36Z
   Vendor: Selfnamed
   Product Type: Micellar Cleansing Water
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Yxz33Eu1b5HvVzZQJy_61_6ezRf7rdII.jpg?v=1726646565
   Price: €29.00 EUR
 - [Radiant Skin - Cleansing Milk - Maiden-Art](https://www.maiden-art.com/products/nourishing-self-care-embrace-radiant-skin-with-our-gentle-cleansing-milk): Experience Radiant Skin with Our Cleansing Milk Nourishing Self-Care: Embrace Radiant Skin with Our  - Maiden-Art
-  Updated: 2026-02-16T10:55:24Z
+  Updated: 2026-04-02T19:51:38Z
   Vendor: Selfnamed
   Product Type: Cleansing Milk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/OZwume51g-fywN1wiKZShwxsUPqynGqH.jpg?v=1726646586
   Price: €39.00 EUR
 - [Self-Love Bliss - Moisturising Body Lotion - Maiden-Art](https://www.maiden-art.com/products/self-love-bliss-hydrate-your-skin-elevate-your-spirit-moisturising-body-lotion): Moisturising Body Lotion: Experience Self-Love Bliss  Moisturising Body Lotion: Self-Love Bliss -  - Maiden-Art
-  Updated: 2026-02-16T10:55:25Z
+  Updated: 2026-04-02T19:51:39Z
   Vendor: Selfnamed
   Product Type: body lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/eo2nkZCnMjfujVUax2dPXUiIrOq8f5tH.jpg?v=1726646633
   Price: €29.00 EUR
 - [Hydrating Toner - Radiant Revival - Maiden-Art](https://www.maiden-art.com/products/radiant-revival-hydrating-toner): Toner for Radiant Skin  Toner: Radiant Revival - Elevate Your Skincare with Our  - Maiden-Art
-  Updated: 2026-02-16T10:55:25Z
+  Updated: 2026-04-02T19:51:40Z
   Vendor: Selfnamed
   Product Type: Hydrating Toner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/7yzjNw_LzWo0SrK5ntbVexpjhVkJ6TWa.jpg?v=1726646644
   Price: €39.00 EUR
 - [Hydrating Skin Cream - Glow from Within - Moisturising Day Cream -](https://www.maiden-art.com/products/hydrating-skin-cream-glow-from-within-moisturising-day-cream): Experience Ultimate Hydration with Our Hydrating Skin Cream Hydrating Skin Cream: Glow from Within:  - Maiden-Art
-  Updated: 2026-02-16T10:55:25Z
+  Updated: 2026-04-02T19:51:41Z
   Vendor: Selfnamed
   Product Type: Moisturising Day Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/xM29dUSzFv_2G0X5K47FuGwMOnpMwmoI.jpg?v=1726646667
   Price: €59.00 EUR
 - [Cleansing Foam - Pure Serenity - Maiden-Art](https://www.maiden-art.com/products/cleansing-foam-pure-serenity): Cleansing Foam - Pure Serenity Cleansing Foam: This mild and light cleansing foam helps remove  - Maiden-Art
-  Updated: 2026-02-16T10:55:25Z
+  Updated: 2026-04-02T19:51:42Z
   Vendor: Selfnamed
   Product Type: toners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/KlmKMNuWXHX-n3w47nXnZU67kYujORN.jpg?v=1726646694
   Price: €29.00 EUR
 - [Hydration Boost - Radiant Reflections - Double Hydration Boost Gel -](https://www.maiden-art.com/products/radiant-reflections-double-hydration-boost-gel): Experience the Ultimate Hydration Boost with Our Double Hydration Boost Gel Hydration Boost: Radiant  - Maiden-Art
-  Updated: 2026-02-16T10:55:25Z
+  Updated: 2026-04-02T19:52:48Z
   Vendor: Selfnamed
   Product Type: Double Hydration Boost Gel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/DBIxpppHWnVhkDcJfWE6r-P7Hov8lUQr.jpg?v=1726646701
   Price: €49.00 EUR
 - [Sunrise Serenity - Sunscreen SPF30, with tint - Maiden-Art](https://www.maiden-art.com/products/sunrise-serenity-sunscreen-spf30-with-tint): Experience Superior Protection with Sunrise Serenity Sunscreen Sunscreen: Sunrise Serenity - Embrace  - Maiden-Art
-  Updated: 2026-02-16T10:55:25Z
+  Updated: 2026-04-02T19:52:50Z
   Vendor: Selfnamed
   Product Type: Sunscreen SPF30, with tint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/fmhDGmkJBRrBEKfmXEVWzf0j9msY3kjH.jpg?v=1726646738
   Price: €39.00 EUR
 - [Reflective Reverie - Brightening Eye Cream - Maiden-Art](https://www.maiden-art.com/products/reflective-reverie-brightening-eye-cream): Discover the Benefits of Brightening Eye  Ginkgo Booster: Reflective Reverie: Brightening Eye  - Maiden-Art
-  Updated: 2026-02-16T10:55:25Z
+  Updated: 2026-04-02T19:53:26Z
   Vendor: Selfnamed
   Product Type: Brightening Eye Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/BO8K-RodYKfLP688qxqKTEHeBNP40LyE.jpg?v=1726646767
   Price: €49.00 EUR
 - [Ginkgo Booster - Mindful Radiance - Antioxidant Ginkgo Gel Booster -](https://www.maiden-art.com/products/mindful-radiance-antioxidant-ginkgo-gel-booster): Ginkgo Booster: A Path to  Radiance Ginkgo Glow: Antioxidant Gel Booster for Self-Love and  - Maiden-Art
-  Updated: 2026-02-16T10:55:26Z
+  Updated: 2026-04-02T19:53:28Z
   Vendor: Selfnamed
   Product Type: Antioxidant Ginkgo Gel Booster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/midJbaQDZQdC_9ZS9WapuLEWHqtlyCJ.jpg?v=1726646783
   Price: €49.00 EUR
 - [Caffeine gel - Revive & Rejuvenate - Caffeine Gel Booster - Maiden-Art](https://www.maiden-art.com/products/caffeine-gel-revive-rejuvenate): Revive and Rejuvenate with Gel Caffeine - The Ultimate Caffeine Gel Booster Caffeine gel :  Revive  - Maiden-Art
-  Updated: 2026-02-16T10:55:26Z
+  Updated: 2026-04-02T19:53:29Z
   Vendor: Selfnamed
   Product Type: Caffeine Gel Booster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Y-vdfQbboy5XSz_-2zQNxufs2wRonXln.jpg?v=1726646814
   Price: €49.00 EUR
 - [Sensitive skin cleanser - Gentle Harmony - Sensitive Skin Face & Body](https://www.maiden-art.com/products/sensitive-skin-cleanser-gentle-harmony-sensitive-skin-face-body-cleanser): Sensitive Skin Cleanser - Gentle Harmony Sensitive skin cleanser : Gentle Harmony: Sensitive Skin  - Maiden-Art
-  Updated: 2026-03-20T01:07:55Z
+  Updated: 2026-04-02T19:53:30Z
   Vendor: Selfnamed
   Product Type: Sensitive Skin Face & Body Cleanser
   Availability: Available
@@ -2067,7 +2067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-relaxed-t-shirt-dark-grey-heather-front-66155e522ff6d.jpg?v=1726647211
     Price: €69.00 EUR
 - [Women's tshirt F*CK NORMAL I WANT MAGIC Women’s highwaisted tshirt](https://www.maiden-art.com/products/womens-t-shirt-f-ck-normal-i-want-magic-women-s-high-waisted-t-shirt): Stylish and Bold Women's T-Shirt Women's : Made of 100% combed and ring-spun cotton, this  - Maiden-Art
-  Updated: 2026-02-16T10:55:29Z
+  Updated: 2026-04-05T03:00:36Z
   Vendor: Maiden-Art
   Product Type: Women’s high-waisted t-shirt
   Availability: Available
@@ -2214,21 +2214,21 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/vintage-cap-charcoal-grey-front-661aa892af552.jpg?v=1726647317
     Price: €59.00 EUR
 - [Nourish Shampoo Mindful Hair Care Nourish and Volumize Shampoo -](https://www.maiden-art.com/products/nourish-shampoo-mindful-hair-care-nourish-volumize-shampoo): Nourish Shampoo for Mindful Hair Care Mindful Hair Care - Nourish &amp; Volumize Shampoo cleanses  - Maiden-Art
-  Updated: 2026-02-16T10:55:30Z
+  Updated: 2026-04-02T19:54:00Z
   Vendor: Selfnamed
   Product Type: Nourish & Volumize Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/H7npmWFnElWVoVqrDcPdvx_EhzrxuQzO.jpg?v=1726647571
   Price: €39.00 EUR
 - [Mindful Hair Care - Moisturising Conditioner - Maiden-Art](https://www.maiden-art.com/products/mindful-hair-care-moisturising-conditioner): Experience Ultimate Hydration with Our Moisturising  Mindful Hair Care - Moisturising  - Maiden-Art
-  Updated: 2026-02-16T10:55:30Z
+  Updated: 2026-04-02T19:54:02Z
   Vendor: Selfnamed
   Product Type: Moisturising Conditioner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1j3022IVHuAiUnYBJJrSl75UULBC7pJ5.jpg?v=1726647597
   Price: €39.00 EUR
 - [Embrace Self-Love - Hydrating Hand Cream - Maiden-Art](https://www.maiden-art.com/products/embrace-self-love-hydrating-hand-cream): Embrace Self-Love with Hydrating Hand Cream Embrace Self-Love - Hydrating Hand Cream. Vitamin E  - Maiden-Art
-  Updated: 2026-02-16T10:55:31Z
+  Updated: 2026-04-02T19:54:34Z
   Vendor: Selfnamed
   Product Type: Hydrating Hand Cream
   Availability: Available
@@ -2249,7 +2249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr.jpg?v=1726647669
   Price: €69.00 EUR
 - [925 Sterling Silver Necklace Red Heart Pendant - Maiden-Art](https://www.maiden-art.com/products/925-sterling-silver-necklace): 925 Sterling Silver Necklace with Red Heart Pendant 925 sterling silver necklace: Rhodium Plated  - Maiden-Art
-  Updated: 2026-03-06T23:02:17Z
+  Updated: 2026-04-04T02:31:24Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
@@ -2340,7 +2340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_89b7db00-6091-4a51-bc15-8bb3696d665c.jpg?v=1726647830
   Price: €69.00 EUR
 - [Cotton Sweatshirt - Self Love Sweatshirt – Eco-Friendly](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt): Embrace Yourself with the Organic Cotton Sweatshirt  Self Love Sweatshirt Organic Cotton Sweatshirt  - Maiden-Art
-  Updated: 2026-03-12T14:54:51Z
+  Updated: 2026-04-06T15:38:58Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -2358,7 +2358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-french-navy-front-66e97c1c1e40f.jpg?v=1726577892
     Price: €139.00 EUR
   - [French Navy / XL](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt?variant=49135867068759)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-french-navy-front-66e97c1c1e40f.jpg?v=1726577892
     Price: €139.00 EUR
   - [French Navy / XXL](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt?variant=49135867101527)
@@ -3016,7 +3016,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-long-sleeve-tee-gold-back-670551cba6dff.jpg?v=1728402097
     Price: €89.00 EUR
 - [Self Love Premium pique polo shirt with Old Gold Embroidery -](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt): Elevate Your Wardrobe with a Premium Pique Polo Shirt This polo is made from thick, soft fabric and  - Maiden-Art
-  Updated: 2026-03-12T14:54:46Z
+  Updated: 2026-04-02T15:21:02Z
   Vendor: Maiden-Art
   Product Type: polos t-shirt
   Availability: Available
@@ -3062,7 +3062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-navy-front-6706882dd924d.jpg?v=1728481438
     Price: €69.00 EUR
   - [Navy / L](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt?variant=49258459890007)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-navy-front-6706882dd924d.jpg?v=1728481438
     Price: €69.00 EUR
   - [Navy / XL](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt?variant=49258459922775)
@@ -3106,7 +3106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-mouse-grey-front-6706882dd9852.jpg?v=1728481443
     Price: €69.00 EUR
 - [Self Love Premium pique polo shirt with Old Gold Embroidery -](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery): Self Love Premium Pique Polo Shirt with Old Gold Embroidery Pique polo shirt: this polo is made from  - Maiden-Art
-  Updated: 2026-03-30T12:58:11Z
+  Updated: 2026-04-06T15:39:01Z
   Vendor: Maiden-Art
   Product Type: polos t-shirt
   Availability: Available
@@ -3160,7 +3160,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-sand-front-670687df53a50.jpg?v=1728481421
     Price: €69.00 EUR
   - [Sand / L](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501439831)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-sand-front-670687df53a50.jpg?v=1728481421
     Price: €69.00 EUR
   - [Sand / XL](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501472599)
@@ -3700,7 +3700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-pigment-dyed-hoodie-pigment-slate-blue-front-67069d8c44474.jpg?v=1728486995
     Price: €179.00 EUR
 - [Own Your Glow Unisex  tie-dye hoodie with Embroidery |](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie): Experience the Superior Comfort with Champion Hoodie If you're looking for a trendy, one-of-a-kind  - Maiden-Art
-  Updated: 2026-03-16T15:05:15Z
+  Updated: 2026-04-07T15:39:46Z
   Vendor: Maiden-Art
   Product Type: Unisex Champion tie-dye hoodie
   Availability: Available
@@ -3742,7 +3742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-navy-front-6706a1ee290e7.jpg?v=1728488104
     Price: €189.00 EUR
   - [Navy / 2XL](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie?variant=49259111579991)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-navy-front-6706a1ee290e7.jpg?v=1728488104
     Price: €189.00 EUR
   - [Mulled Berry / S](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie?variant=49259111612759)
@@ -3766,14 +3766,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-mulled-berry-front-6706a1ee21d35.jpg?v=1728487949
     Price: €189.00 EUR
 - [Acne Spot Care - Clear Skin, Pure Self-Love - Maiden-Art](https://www.maiden-art.com/products/acne-spot-care): Acne  Care Acne  Care: offer your customers quick solution from unwanted breakouts. Acne  - Maiden-Art
-  Updated: 2026-02-16T10:55:36Z
+  Updated: 2026-04-02T19:56:13Z
   Vendor: Selfnamed
   Product Type: acne  and treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/qwPYkcd62thDe-f8qYQGfA72usYsTgbA.jpg?v=1728746802
   Price: €49.00 EUR
 - [Purifying Mousse - Refresh Your Skin, Renew Your Self-Love -](https://www.maiden-art.com/products/purifying-mousse): Experience the Benefits of Purifying Foam Purifying Mousse: innovative texture cleanser dissolves  - Maiden-Art
-  Updated: 2026-02-16T10:55:36Z
+  Updated: 2026-04-02T19:56:50Z
   Vendor: Selfnamed
   Product Type: Purifying Mousse
   Availability: Available
@@ -3906,28 +3906,28 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-6711218753c44.jpg?v=1729175978
     Price: €159.00 EUR
 - [Ceramide Hydrating Night Cream  Hydrate & Heal  ceramide night cream](https://www.maiden-art.com/products/ceramide-hydrating-night-cream-hydrate-heal-ceramide-night-cream): Experience the Benefits of Our Ceramide Night Cream Ceramide night cream: night creams play a  - Maiden-Art
-  Updated: 2026-03-31T08:30:31Z
+  Updated: 2026-04-02T19:56:52Z
   Vendor: Selfnamed
   Product Type: ceramide night cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/6UZ25rxp3oYL2lwW_JKxaceqDFVFuzjD.jpg?v=1729333300
   Price: €59.00 EUR
 - [Soothing After-Sun Lotion - Mindful Protection - Maiden-Art](https://www.maiden-art.com/products/soothing-after-sun-lotion-mindful-protection): Soothing After-Sun Lotion - Mindful Protection After-sun lotion: a must-have addition to your  - Maiden-Art
-  Updated: 2026-02-16T10:55:38Z
+  Updated: 2026-04-02T19:56:53Z
   Vendor: Selfnamed
   Product Type: after sun lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/IVURjCpvzUffLhJ4HvOzYWxyTyWy_q3I.jpg?v=1729344044
   Price: €59.00 EUR
 - [Self Love Glow: Glycolic Acid Liquid Exfoliator - glycolic acid](https://www.maiden-art.com/products/self-love-glow-glycolic-acid-liquid-exfoliator-glycolic-acid-exfoliator): Experience Unmatched Radiance with Our Glycolic Acid Exfoliator Glycolic acid exfoliator: integrate  - Maiden-Art
-  Updated: 2026-03-13T05:30:33Z
+  Updated: 2026-04-02T19:56:54Z
   Vendor: Selfnamed
   Product Type: Glycolic Acid Liquid Exfoliator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/wlCRA2FWG6maszVbkh0HHQk2om5yYyIZ.jpg?v=1729344762
   Price: €49.00 EUR
 - [Glow & Nourish: Niacinamide Gel Moisturiser - Maiden-Art](https://www.maiden-art.com/products/glow-nourish-niacinamide-gel-moisturiser): Glow &amp; Nourish: Niacinamide Gel Moisturiser Niacinamide Gel Moisturiser: hydrating facial gel,  - Maiden-Art
-  Updated: 2026-02-16T10:55:38Z
+  Updated: 2026-04-02T19:59:40Z
   Vendor: Selfnamed
   Product Type: Niacinamide Gel Moisturiser
   Availability: Available
@@ -4255,7 +4255,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Khol_Eyeliner_png.png?v=1737369037
   Price: €49.00 EUR
 - [Dual Tip Eye Definer Pen - Black - eye liner - Maiden-Art](https://www.maiden-art.com/products/dual-tip-eye-definer-pen-black-eye-liner): Unleash Your Creative Side with the Dual Tip Eye Definer Pen - Black - Eye Liner Our dual tip eye  - Maiden-Art
-  Updated: 2026-02-16T10:55:41Z
+  Updated: 2026-04-06T06:17:03Z
   Vendor: Maiden-Art
   Product Type: eyeliner
   Availability: Available
@@ -5549,7 +5549,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/A15281A2-47D9-4DB9-A742-070AE14C2306.png?v=1745846502
   Price: €10.00 EUR
 - [Antioxidant Ginkgo Gel Booster](https://www.maiden-art.com/products/antioxidant-ginkgo-gel-booster): Ginkgo biloba extract concentrate in private label face gel is high in antioxidants that help minimize the damage caused by free radicals and protect the skin from pollution or other environmental factors. Dull and tired skin regains freshness and youthful look. Mix face gel into your face or body moisturiser.
-  Updated: 2026-02-16T10:55:44Z
+  Updated: 2026-04-02T19:59:43Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -6373,7 +6373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S5f563267a18146bc9956efa0530d0183J.webp?v=1759317090
     Price: €27.00 EUR
 - [Punk Irregular Geometric Ear Cuff Earrings for Women Non-Piercing Metal Ear Clip Earring Fake Cartilage Fashion Jewelry Party](https://www.maiden-art.com/products/punk-irregular-geometric-ear-cuff-earrings-for-women-non-piercing-metal-ear-clip-earring-fake-cartilage-fashion-jewelry-party)
-  Updated: 2026-02-23T11:22:29Z
+  Updated: 2026-04-07T09:31:04Z
   Vendor: MAIDEN-ART
   Product Type: earrings
   Availability: Available
@@ -7469,7 +7469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S93feb9e514ef41ef9d505275edb3b08b5.webp?v=1759317766
     Price: €24.90 EUR
 - [MAYJAM 10ML Lavender Lemongrass Jasmine Vanilla Eucalyptus Rose Lemon Essential Oil For Humidifier Diffuser Candle Making](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making): About Our Essential Oil : MAYJAM Pure Plant Extrat Essential Armatherapy Oil No additive, No Fillers, Just Pure Essential oil.Unwavering commitment to the highest quality products. Perfect Essential Oils set for Aromatherapy oils,Oil for diffusers,Humidifier oils,Oil Burners,Spa and Air Purifier. Each essential oils comes with 10ml amber brown bottles. This will keep the oils fresh and help against light degradation. Wonderful Essential oils gift set option,which is fashion enough and would be wonderful to send it to family or friends Package includes:1 x Bottle 10ML MAYJAM Essential OilHow Best To Use These Oils:There are many, many ways to use our Essential Oils, here are just a few...Oil Burners- One of the most popular ways is using them with an oil burner. Adding a few drops to your oil burner will create a lasting beautiful aroma, you can also mix oils to create your own smell.Bath- Adding a few drops of our oils to your bath creates a heavenly, natural and pure aroma, and is proven to be a highly effective way get the most our of essential oils.Massage- Our oils are strong, so please do not use them directly on your skin. Adding a few drops to a carrier oils (such as Grapeseed oil), and then massaging it on to your forehead, palms, neck, back, feet or other affected areas work wonders. Making your own- Many of you like create your own soaps, candles and beauty products, and these oils are perfect for that. Others- Other popular ways apart from the above include, diffusers, on your pillow at night, meditation, car air fresheners and in steam / saunas.Warning:* Do not use essential oil internally.* Do not apply directly to skin; always dilute with carrier oil.* Keep out of reach of children.* Avoid contact with eyes and mucous membranes.* Do not use citrus oils before exposure to UV light.* Use only pure essential oils; avoid synthetic fragrances.* Avoid prolonged exposure without ventilation.* Store essential oils and carrier oils properly to avoid degradation and rancidity.
-  Updated: 2026-02-16T10:55:52Z
+  Updated: 2026-04-02T09:27:09Z
   Vendor: Maiden-Art
   Product Type: Essential oil
   Availability: Available
@@ -7477,115 +7477,115 @@
   - [Cypress / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573534551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S3fbfb60a66f44c5b8b0b3ff595badb06l.webp?v=1759317782
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Clary Sage / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573567319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S83e27649493149f8bbc9c5cd6edd00742.webp?v=1759317782
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Black Pepper / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573600087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S5143e7337788437f812479e3e5ac32b6M.webp?v=1759317784
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Basil / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573632855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S10f4868656504e919ed4b96abb44a135e.webp?v=1759317784
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Camphor / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573665623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sef25dbee15404fd8af39c37c102b8b45Y.webp?v=1759317786
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Cajeput / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573698391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sa940cc53bbcd46a482debfe77db74e29A.webp?v=1759317787
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Lemongrass / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573731159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S5cb38de46d9344eb834a42c1a1ced0e3K.webp?v=1759317788
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Clove / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573763927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S6015c49b7c8149eca393c86a8865bbaem.webp?v=1759317789
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Rosemary / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573796695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S864a6d4f5e164586bd018db3ccd91cf8b.webp?v=1759317791
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Patchouli / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573829463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S75ee42181ceb46a0a27c375a3cfb5974c.webp?v=1759317797
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Rose / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573862231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S824c03485a214418a6ae7344a12d8781l.webp?v=1759317799
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Lemon / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573894999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S01db0b9443194f279be4e4744003be4dB.webp?v=1759317800
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Tea tree / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573927767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sf317ad54623d4bccb4361dddab34fde7I.webp?v=1759317800
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Bergamot / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573960535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S36a967a314e34a469ed91181f0f9a192e.webp?v=1759317802
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Cedarwood / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816573993303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Saff81fd2fbcc4b22bec149acefee5aa2F.webp?v=1759317804
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Fennel / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574026071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S542cb02ed6694426b8824e082d368eebO.webp?v=1759317806
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Juniper / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574058839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sfa37adc0f0724343bda88f00cfe87c21t.webp?v=1759317809
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Citronella / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574091607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sf95752d220224ccb88c2fa9562d0eb89V.webp?v=1759317809
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Cinnamon / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574124375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sc49e8053861748a184c3a1acac829491F.webp?v=1759317817
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Lavender / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574157143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S14dfd0342c59409ebf6d8cb3272a2ad5T_5f2c9192-69a7-447c-89d2-1dd579a9ce7e.webp?v=1759317818
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Frankincense / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574189911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S98c8317aad634d90b07b54fb1d139b8bl.webp?v=1759317821
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Sandalwood / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574222679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sacfd2f5a33864a0ebc74551feddc53f38.webp?v=1759317822
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Ylang Ylang / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574255447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S4f443bfdc4b841149287f6005c88f338k.webp?v=1759317824
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Sweet Orange / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574288215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S87de0f50ea6849228214f2182f9cee903.webp?v=1759317824
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Eucalyptus / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574320983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S0991305dbd414f1b8e4c781a894d424f0.webp?v=1759317825
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Jasmine / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574353751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S068ea22287e14e0da7308070ae56beb3l.webp?v=1759317827
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Peppermint / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574386519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sc2feb8d74a5c4b48b801e6444b533e6de.webp?v=1759317835
-    Price: €14.90 EUR
+    Price: €27.00 EUR
   - [Vanilla / 10ml](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making?variant=51816574419287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sbb62ddc4d01746f99213008b4e72a9aah.webp?v=1759317836
-    Price: €14.90 EUR
+    Price: €27.00 EUR
 - [Highlighting&Bronzer Stick Face Brightening Blusher Rouge Concealer Pen Long Lasting Corrector Nose Shadow Contouring Cosmetics](https://www.maiden-art.com/products/highlighting-bronzer-stick-face-brightening-blusher-rouge-concealer-pen-long-lasting-corrector-nose-shadow-contouring-cosmetics): Specification:Shelf life: 3 yearsProduction date: RecentNet content: 6gEffect: Embellish face, lighten face, create soft blushSuitable for: All skin typesProducts include: 1* multifunctional cosmetic stick
   Updated: 2026-02-16T10:55:52Z
   Vendor: Maiden-Art
@@ -9160,76 +9160,76 @@
 ## Collections
 
 - [All Fashion Products - Maiden-Art](https://www.maiden-art.com/collections/fashion-products): All Fashion Products Maiden-Art style described by VOGUE ITALIA  Fashion Products: "Her creations  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 469
+  Updated: 2026-04-08T20:49:07Z
+  Total Products: 471
 - [Online gift cards - Maiden-Art](https://www.maiden-art.com/collections/online-gift-cards): Why Choose Online Gift Cards? Shopping for someone else but not sure what to give m? Give m  - Maiden-Art
-  Updated: 2026-03-25T13:38:09Z
+  Updated: 2026-04-08T20:49:07Z
   Total Products: 2
 - [New Arrivals - Maiden-Art](https://www.maiden-art.com/collections/new-arrivals): Discover Our New Arrivals You will find the latest releases from Maiden Art here. We specialise in  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 433
+  Updated: 2026-04-08T20:49:08Z
+  Total Products: 435
 - [Spently - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/recommended-products): Recommended Products at Spently Recommended products This collection is used by the Spently app, to  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 459
+  Updated: 2026-04-08T20:49:08Z
+  Total Products: 460
 - [Mindful Chic Sustainable Fashion - Maiden-Art](https://www.maiden-art.com/collections/mindful-chic-sustainable-fashion): Mindful Chic Sustainable Fashion Mindful Chic Sustainable Fashion. Indulge  senses and elevate  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 426
+  Updated: 2026-04-08T20:49:07Z
+  Total Products: 428
 - [Jewelry - Maiden-Art](https://www.maiden-art.com/collections/personalized-jewelry-self-love-confidence): Jewelry Collections Discover the perfect jewelry to celebrate self-love and boost confidence. Our  - Maiden-Art
-  Updated: 2026-03-31T11:00:11Z
+  Updated: 2026-04-08T20:49:07Z
   Total Products: 115
 - [Natural Skincare - Maiden-Art](https://www.maiden-art.com/collections/natural-skincare-self-love-skincare-collection-luxury-care): Embrace the Benefits of Natural Skincare Discover Maiden-Art's Self Love Skincare Collection, a  - Maiden-Art
-  Updated: 2026-03-25T13:38:09Z
+  Updated: 2026-04-08T20:49:08Z
   Total Products: 36
 - [Scented Candles - Maiden-Art](https://www.maiden-art.com/collections/scented-candles-mindfulness-meditation-candle-collection): Explore Our Scented Candles Collection Scented Candles: Immerse yourself in tranquility with  - Maiden-Art
-  Updated: 2026-03-25T13:38:09Z
+  Updated: 2026-04-08T20:49:08Z
   Total Products: 8
 - [Vitamins Supplements - Maiden-Art](https://www.maiden-art.com/collections/mindfulness-meditation-vitamins-supplements-collection): Boost Your Health with Vitamins  Elevate your well-being with Maiden-Art's Vitamins &amp;  - Maiden-Art
   Updated: 2025-12-29T10:33:36Z
   Total Products: 22
 - [Ebooks - Maiden-Art](https://www.maiden-art.com/collections/self-love-mindfulness-ebooks-collection): Understanding  and Their Impact on Reading  : Dive into self-discovery with Maiden-Art's  - Maiden-Art
-  Updated: 2026-03-25T13:38:09Z
+  Updated: 2026-04-08T20:49:08Z
   Total Products: 9
 - [Apparel - Maiden-Art](https://www.maiden-art.com/collections/apparel-self-love-mindfulness-clothes-accessories-collection): Explore Our Premium Apparel Collection Elevate your style and spirit with Maiden-Art's Clothes &amp;  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 156
+  Updated: 2026-04-08T20:49:08Z
+  Total Products: 158
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-recommended-products): Recommended Products This collection is used by the UpOrder app, to make product recommendations in  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 459
+  Updated: 2026-04-08T13:45:41Z
+  Total Products: 460
 - [Natural Makeup - Maiden-Art](https://www.maiden-art.com/collections/natural-makeup-for-mindful-fashionistas-clean-beauty-for-confidence-self-love): Natural Makeup Discover our collection of natural makeup for mindful fashionistas at Maiden-Art.  - Maiden-Art
-  Updated: 2026-03-27T11:00:04Z
+  Updated: 2026-04-08T20:49:08Z
   Total Products: 36
 - [Home & Living - Maiden-Art](https://www.maiden-art.com/collections/home-living-for-mindful-fashionistas-eco-friendly-decor-self-love-essentials): Explore Our Home &amp; Living Collection Transform your space with our eco-friendly home &amp;  - Maiden-Art
-  Updated: 2026-03-25T13:38:09Z
+  Updated: 2026-04-08T20:49:09Z
   Total Products: 40
 - [Fashion Accessories - Maiden-Art](https://www.maiden-art.com/collections/fashion-accessories): Discover the Best Fashion Accessories Complete your look with our collection of accessories for  - Maiden-Art
-  Updated: 2026-03-25T13:38:09Z
+  Updated: 2026-04-08T20:49:09Z
   Total Products: 46
 - [UpOrder Products - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-uporder-products): UpOrder Products Explore the Best UpOrder Products This collection is used by the UpOrder app, to  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 459
+  Updated: 2026-04-08T13:45:41Z
+  Total Products: 460
 - [Holiday Gift Guide - holiday gift ideas - Maiden-Art](https://www.maiden-art.com/collections/holiday-gift-guide-holiday-gift-ideas): Best Holiday Gift Ideas Explore Maiden-Art's Holiday Gift Guide 2024 for one-of-a-kind clothes,  - Maiden-Art
-  Updated: 2026-03-25T13:38:09Z
+  Updated: 2026-04-08T20:49:09Z
   Total Products: 46
 - [Catalog - online catalog - Maiden-Art](https://www.maiden-art.com/collections/all-online-catalog): Explore Our Online Catalog for a Seamless Shopping Experience What is an Online Catalog? An online  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 549
+  Updated: 2026-04-08T13:47:45Z
+  Total Products: 551
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify  - Maiden-Art
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 459
+  Updated: 2026-04-08T13:45:41Z
+  Total Products: 460
 - [Valentine's Day Collection - Maiden-Art](https://www.maiden-art.com/collections/valentine-s-day-collection): Discover Our Valentine's Day Collection Discover Maiden-Art’s Valentine's Day Collection:  - Maiden-Art
-  Updated: 2026-03-25T13:38:10Z
+  Updated: 2026-04-08T20:49:09Z
   Total Products: 26
 - [Beach Collection](https://www.maiden-art.com/collections/self-love-beach-collection-bold-unique-swimwear-for-rebel-hearts-maiden-art): Discover the Self Love Beach Collection at Maiden-Art — bold bikinis and one-piece swimsuits designed for rebel hearts who love themselves loudly. Embrace summer with empowering prints, ethical handmade quality, and vibrant self-love vibes. Shop now and shine like the summer sun!
-  Updated: 2026-03-25T13:38:10Z
+  Updated: 2026-04-08T20:49:09Z
   Total Products: 34
 - [Faire Smart Collection (Do Not Edit)](https://www.maiden-art.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire to support product performance reporting on Shopify. Please do not modify or delete this collection, as it is used for analytics and sales insights.
-  Updated: 2026-04-01T14:04:28Z
-  Total Products: 549
+  Updated: 2026-04-08T13:47:45Z
+  Total Products: 551
 - [Secret Toys - Luxury Design](https://www.maiden-art.com/collections/secret-toys-luxury-design): Secret Toys – Where Desire Meets Elegance Step into the world of Secret Toys, where luxury and intimacy intertwine. Our curated collection of high-end  toys transforms personal pleasure into an art form, blending exquisite design with premium materials. Each piece is crafted to elevate your sensual experiences, offering sophistication, discretion, and indulgence in equal measure. From elegantly minimalist vibrators to intricately designed couples’ toys, Secret Toys is where your private desires meet unparalleled quality and refinement. Indulge in your fantasies with confidence—because luxury isn’t just seen; it’s felt.
   Updated: 2025-12-12T11:16:07Z
   Total Products: 5
 - [Self-Love Fashion](https://www.maiden-art.com/collections/self-love-fashion)
-  Updated: 2026-03-25T13:38:10Z
+  Updated: 2026-04-08T20:49:09Z
   Total Products: 0
 
 ## Blogs
