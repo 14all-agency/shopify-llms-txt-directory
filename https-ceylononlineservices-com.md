@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2025-04-17T06:58:27Z
 - Contact Email: contact@ceylononlineservices.com
-- Updated At: 2026-04-02T00:00:40.858Z
+- Updated At: 2026-04-10T00:00:47.760Z
 
 ## Products
 
@@ -174,7 +174,7 @@
     Availability: Available
     Price: $1,625.00 USD
 - [Black Tea](https://ceylononlineservices.com/products/black-tea): This premium collection showcases Ceylon black teas from Sri Lanka's prestigious regions. From high-altitude Pedro Estate (6,000 feet) in Nuwara Eliya—the "Champagne of Ceylon Tea"—to renowned Dimbula and Uva highlands, each offers distinctive seasonal characteristics. Featuring Orthodox grades (BOP, BOPF, OP1, Pekoe) with profiles ranging from mellow to full-bodied. Seasonal specialties like rare Pinnacle of Uva (July-August) provide mint notes, while Dimbula teas peak March-May with golden orange liquor. Low-grown Kiruwanaganga varieties offer sweet caramel to strong notes. Best enjoyed straight to appreciate terroir or with Kithul jaggery. This collection represents Ceylon excellence from delicate high-grown to robust.
-  Updated: 2025-06-16T21:22:45Z
+  Updated: 2026-04-08T05:42:24Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -435,7 +435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_0175.jpg?v=1761775176
     Price: $75.00 USD
 - [Custom 3D Printing Service – PLA/PETG, Prototypes, Fast Quote](https://ceylononlineservices.com/products/3d-printing-service): Get custom 3D printed prototypes, parts, decor in PLA/PETG and many colors. Fast quotes, reliable service, trusted by Sri Lankan diaspora. Special colors available.
-  Updated: 2025-10-29T22:37:30Z
+  Updated: 2026-04-06T17:08:23Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -491,7 +491,7 @@
   Updated: 2025-09-08T09:22:05Z
   Total Products: 4
 - [Plaques Plus](https://ceylononlineservices.com/collections/plaques-plus): Turning thoughts into tangible treasures
-  Updated: 2025-10-29T22:22:23Z
+  Updated: 2026-04-06T05:09:20Z
   Total Products: 2
 
 ## Blogs
@@ -550,6 +550,15 @@
     Author: Ceylon Online Services
   - [Best Practices for Optimizing Your Online Store on Ceylon](https://ceylononlineservices.com/blogs/news/best-practices-for-optimizing-your-online-store-on-ceylon): Best Practices for Optimizing Your Online Store on Ceylon
     Updated: 2026-04-01T01:48:20Z
+    Author: Ceylon Online Services
+  - [Historical Evolution of E-commerce in Ceylon and Its Impacts](https://ceylononlineservices.com/blogs/news/historical-evolution-of-e-commerce-in-ceylon-and-its-impacts): Historical Evolution of E-commerce in Ceylon and Its Impacts
+    Updated: 2026-04-04T00:33:06Z
+    Author: Ceylon Online Services
+  - [Educational Insights on Increasing Web Traffic in Ceylon E-commerce](https://ceylononlineservices.com/blogs/news/educational-insights-on-increasing-web-traffic-in-ceylon-e-commerce): Educational Insights on Increasing Web Traffic in Ceylon E-commerce
+    Updated: 2026-04-06T01:49:06Z
+    Author: Ceylon Online Services
+  - [Comparing Traditional Retail with Online Marketplaces in Sri Lanka](https://ceylononlineservices.com/blogs/news/comparing-traditional-retail-with-online-marketplaces-in-sri-lanka): Comparing Traditional Retail with Online Marketplaces in Sri Lanka
+    Updated: 2026-04-08T01:44:00Z
     Author: Ceylon Online Services
 
 ## Store Pages
