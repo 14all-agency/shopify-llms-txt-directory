@@ -28,7 +28,7 @@ https://www.smuuvbody.com
 - Created At: 2024-06-04T13:46:45Z
 - Contact Email: support@smuuvbody.com
 - Address: 930 Washington Avenue suite 210 29 Miami Beach. Florida. USA
-- Updated At: 2026-04-03T08:00:25.364Z
+- Updated At: 2026-04-10T08:00:26.700Z
 
 ## Brand Context
 
@@ -250,7 +250,7 @@ Products are designed for cosmetic skincare support and daily routine integratio
     Image: https://cdn.shopify.com/s/files/1/0584/7213/6803/files/SMUUV_GIFT_CARD.png?v=1754961262
     Price: $1,000.00 USD
 - [Smuuv Shipping Protection](https://www.smuuvbody.com/products/smuuv-shipping-protection): The Smuuv Shipping Protection add-on is our optional in-house order replacement coverage that protects your order against loss, theft, or damage during transit. If something goes wrong, we’ll send a replacement—no hassle. We understand how disappointing shipping mishaps can be, so this option is here for your peace of mind. Shipping Protection is not automatically selected by default at checkout, but you can easily add it to your order if you’d like extra security.
-  Updated: 2026-02-21T09:23:48Z
+  Updated: 2026-04-04T23:05:36Z
   Vendor: Smuuv Body
   Product Type: Shipping Insurance
   Availability: Available
@@ -278,7 +278,7 @@ Products are designed for cosmetic skincare support and daily routine integratio
 ## Collections
 
 - [All](https://www.smuuvbody.com/collections/all-1)
-  Updated: 2026-03-15T11:18:28Z
+  Updated: 2026-04-05T11:17:57Z
   Total Products: 7
 - [Hair Removal](https://www.smuuvbody.com/collections/hair-removal)
   Updated: 2026-02-25T12:20:05Z
