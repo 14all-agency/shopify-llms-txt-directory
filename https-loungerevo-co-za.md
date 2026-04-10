@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2023-11-07T16:28:21Z
 - Contact Email: info@loungerevo.co.za
-- Updated At: 2026-04-02T15:11:45.252Z
+- Updated At: 2026-04-10T00:00:22.575Z
 
 ## Products
 
@@ -330,7 +330,7 @@
     Availability: Available
     Price: R 5,999.00 ZAR
 - [Chiaro 2 Seater L Shape Couch](https://loungerevo.co.za/products/chiaro-2-seater-l-shape-couch): Elevate your living space with our brand new versatile 2-seater sofa featuring a convenient daybed, upholstered in a chic light oatmeal-colored designer fabric. This modern piece measures 2.5M x 1.6M, providing ample seating and lounging space without overwhelming your room. Designed for comfort and functionality, the right-hand daybed orientation ensures a relaxing experience whether you're lounging solo or hosting guests. The high-quality construction and durable materials guarantee long-lasting use, making it a practical and stylish addition to your home. Transform your space with this elegant sofa, perfect for modern and classic interiors alike. Don't miss out on this exceptional offer at only R4999. Standard price R8499. Order now and enjoy the ultimate blend of style and comfort!
-  Updated: 2026-03-12T09:46:08Z
+  Updated: 2026-04-07T07:58:46Z
   Vendor: Lounge Revo
   Product Type: 
   Availability: Available
@@ -395,7 +395,7 @@
   Image: https://cdn.shopify.com/s/files/1/0629/4470/6734/files/rn-image_picker_lib_temp_bb1e4732-1d6a-4481-b9c3-130dc5938ffd.png?v=1730999325
   Price: R 14,999.00 ZAR
 - [Divani U-Shaped 6 Seater With Daybed](https://loungerevo.co.za/products/divani-u-shaped-6-seater-with-daybed): Divani U-Shaped Slouch Sofa – 6 Seater with Daybed Transform your living space with the Divani U-Shaped Slouch Sofa, the perfect blend of style, comfort, and practicality. Designed with a spacious U-shaped layout and an integrated daybed, this 6-seater offers plenty of room for lounging, relaxing, and entertaining. Size: 1.8m x 3.9m x 2.5m Seating: Deep, plush cushions for ultimate comfort Customisable: Available in a wide range of colours and premium fabrics to suit your style Modular Design: Perfect for both small and large living rooms Whether you're hosting guests or enjoying a cosy night in, the Divani Slouch Sofa offers unbeatable comfort and modern elegance at a price that makes sense. 📦 Made to order
-  Updated: 2026-04-01T16:22:47Z
+  Updated: 2026-04-04T07:31:27Z
   Vendor: Lounge Revo
   Product Type: 
   Availability: Available
@@ -435,7 +435,7 @@
 ## Collections
 
 - [Home page](https://loungerevo.co.za/collections/frontpage)
-  Updated: 2026-04-02T11:27:27Z
+  Updated: 2026-04-07T11:26:31Z
   Total Products: 12
 - [Pillows](https://loungerevo.co.za/collections/pillows)
   Updated: 2024-11-06T16:09:02Z
@@ -459,7 +459,7 @@
   Updated: 2024-11-06T16:09:03Z
   Total Products: 3
 - [Lounge Revo – 2026](https://loungerevo.co.za/collections/lounge-revo-2025): Discover the perfect blend of comfort and craftsmanship with Lounge Revo, your ultimate destination for quality lounge suites and stylish couches.
-  Updated: 2026-04-02T11:27:27Z
+  Updated: 2026-04-07T11:26:31Z
   Total Products: 6
 
 ## Blogs
