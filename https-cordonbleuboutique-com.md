@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-02-10T12:42:35Z
 - Contact Email: info@blueribbon.biz
-- Updated At: 2026-04-03T00:00:30.884Z
+- Updated At: 2026-04-10T00:00:34.076Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105048_gift_set_4.jpg?v=1749574810
   Price: €39.99 EUR
 - [SET OF A BISCUIT NOTEBOOK & A PENCIL CASE](https://cordonbleuboutique.com/products/stationery-gift-set-notebook-pencil-case)
-  Updated: 2026-04-02T11:57:44Z
+  Updated: 2026-04-09T12:12:09Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Goodies
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/20250501115.jpg?v=1746365740
   Price: €44.99 EUR
 - [Cooler Bag Gift Set - Blue & White Cooler Bags](https://cordonbleuboutique.com/products/cooler-bag-gift-set-blue-white): Keep your food and drinks cool with the Le Cordon Bleu Cooler Bag Gift Set. This versatile set includes a Blue Cooler Bag and a White Cooler Bag, making it ideal for picnics, beach trips, and outdoor adventures. Designed for convenience and durability, these bags ensure that your refreshments stay fresh and chilled wherever you go. Blue Cooler Bag Large - (35L X 30W X 38H CM) White Cooler Bag Small - (25L X 18.5 X 26.5H CM)
-  Updated: 2026-04-02T11:57:44Z
+  Updated: 2026-04-09T12:12:10Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Gift Sets
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/BLUE_COOLER_BAG_BIG_9d903ff5-d30b-4de7-976b-fc8dc41e38f6.jpg?v=1740417220
   Price: €24.99 EUR
 - [Cooler Bags](https://cordonbleuboutique.com/products/cooler-bag): This compact white cooler bag, measuring 25 cm in length, 18.5 cm in width, and 26.5 cm in height, is ideal for keeping your items chilled on the go.
-  Updated: 2026-04-02T11:57:44Z
+  Updated: 2026-04-09T12:12:10Z
   Vendor: Le Cordon Bleu
   Product Type: Goodies
   Availability: Available
@@ -190,14 +190,14 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105045giftset1.jpg?v=1740838656
   Price: €44.99 EUR
 - [Anchovy, Artichoke & Sun-Dried Tomato Creams - Le Cordon Bleu](https://cordonbleuboutique.com/products/anchovy-artichoke-sun-dried-tomato-creams-le-cordon-bleu): This flavorful set includes Anchovy Cream, Artichoke Cream, and Sun-Dried Tomato Cream—crafted for food lovers who enjoy rich, bold flavors. Ideal for appetizers, dips, or gourmet gift sets.
-  Updated: 2026-04-02T11:57:46Z
+  Updated: 2026-04-09T12:12:12Z
   Vendor: Le Cordon Bleu Boutique EU
   Product Type: Foodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105078jpg.jpg?v=1741183833
   Price: €23.99 EUR
 - [Tapenade, Red Pepper & Olive-Caper Cream Set - Le Cordon Bleu](https://cordonbleuboutique.com/products/tapenade-red-pepper-olive-caper-cream-set-le-cordon-bleu): Elevate appetizers with Le Cordon Bleu's Tapenade, Red Pepper & Olive Caper Cream Set. The perfect gourmet trio for entertaining. Order your set today!
-  Updated: 2026-04-02T11:57:46Z
+  Updated: 2026-04-09T12:12:12Z
   Vendor: Le Cordon Bleu Boutique EU
   Product Type: Gourmet
   Availability: Available
@@ -218,7 +218,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/20250501125.jpg?v=1746365941
   Price: €109.99 EUR
 - [Le Cordon Bleu Hoodie Blue](https://cordonbleuboutique.com/products/hoodie-cotton-380gsm-embroidered-logo-navy-blue-unisex-xl): Upgrade your wardrobe with the Le Cordon Bleu Navy Blue Unisex Hoodie. Premium 380gsm cotton featuring an embroidered logo. Shop yours in size today!
-  Updated: 2026-04-02T12:14:37Z
+  Updated: 2026-04-09T12:12:14Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Apparel
   Availability: Available
@@ -299,21 +299,21 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105081setof3spicepots1.jpg?v=1754032135
   Price: €20.99 EUR
 - [Vinegar Pinot Grigio 375Ml + Wholegrain Mustard 200G](https://cordonbleuboutique.com/products/vinegar-pinot-grigio-375ml-wholegrain-mustard-200g): Refine your recipes with Le Cordon Bleu’s Pinot Grigio Vinegar (375ml) & Wholegrain Mustard (200g). An elegant gourmet duo—shop the set online today!
-  Updated: 2026-04-02T11:57:44Z
+  Updated: 2026-04-09T12:12:13Z
   Vendor: Le Cordon Bleu
   Product Type: Gourmet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105082.jpg?v=1739209641
   Price: €23.99 EUR
 - [Vinegar Piccante 375Ml And Mustard Provence Herbs 200G](https://cordonbleuboutique.com/products/vinegar-piccante-375ml-and-mustard-provence-herbs-200g): Add a spicy, herbal kick to your dishes with Le Cordon Bleu's Piccante Vinegar (375ml) & Provence Herbs Mustard (200g). Shop this gourmet duo today!
-  Updated: 2026-04-02T11:57:44Z
+  Updated: 2026-04-09T12:12:14Z
   Vendor: Le Cordon Bleu
   Product Type: Gourmet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105083.jpg?v=1739209707
   Price: €25.99 EUR
 - [Gran Cuvee 375Ml And Mustard Extra Strong Dijon 200G](https://cordonbleuboutique.com/products/gran-cuvee-375ml-and-mustard-extra-strong-dijon-200g): Elevate your meals with Le Cordon Bleu's Gran Cuvee (375ml) & Extra Strong Dijon Mustard (200g). The perfect gourmet duo for your kitchen—shop the set now!
-  Updated: 2026-04-02T11:57:44Z
+  Updated: 2026-04-09T12:12:09Z
   Vendor: Le Cordon Bleu
   Product Type: Gourmet
   Availability: Available
@@ -348,35 +348,35 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/WOODEN_CORKSCREW_GB.jpg?v=1763131653
   Price: €53.99 EUR
 - [Petit Chef Blue Kid Hoodie 10-11 years](https://cordonbleuboutique.com/products/petit-chef-blue-kid-hoodie): Inspire your little one's culinary dreams with the Le Cordon Bleu Petit Chef Blue Kid Hoodie. Cozy, fun, and perfect for young cooks. Order today!
-  Updated: 2026-04-02T11:57:46Z
+  Updated: 2026-04-09T12:12:13Z
   Vendor: La Boutique Le Cordon Bleu
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/Image_11.jpg?v=1763150688
   Price: €46.99 EUR
 - [Petit Chef Blue Kid Hoodie 12-13 years](https://cordonbleuboutique.com/products/petit-chef-blue-kid-hoodie-12-13-years): Inspire your aspiring cook with the Le Cordon Bleu Petit Chef Blue Kid Hoodie (Size 12-13 years). Cozy, stylish, and perfect for teens! Order yours today.
-  Updated: 2026-04-02T11:57:46Z
+  Updated: 2026-04-09T12:12:13Z
   Vendor: La Boutique Le Cordon Bleu
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/Image_11.jpg?v=1763150688
   Price: €46.99 EUR
 - [Petit Chef Blue Kid Hoodie 8-9 years](https://cordonbleuboutique.com/products/petit-chef-blue-kid-hoodie-10-11-years-copy): Dress your little chef in the Le Cordon Bleu Petit Chef Blue Kid Hoodie (Size 8-9 years). Cozy, stylish, and perfect for aspiring cooks! Order yours today.
-  Updated: 2026-04-02T11:57:46Z
+  Updated: 2026-04-09T12:12:13Z
   Vendor: La Boutique Le Cordon Bleu
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/Image_11.jpg?v=1763150688
   Price: €46.99 EUR
 - [Petit Chef Blue Kid Hoodie 6-7 years](https://cordonbleuboutique.com/products/petit-chef-blue-kid-hoodie-6-7-years): Dress your aspiring cook in the Le Cordon Bleu Petit Chef Blue Kid Hoodie (Size 6-7 years). Cozy, fun, and perfect for the kitchen! Order yours today.
-  Updated: 2026-04-02T11:57:46Z
+  Updated: 2026-04-09T12:12:13Z
   Vendor: La Boutique Le Cordon Bleu
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/Image_11.jpg?v=1763150688
   Price: €46.99 EUR
 - [Le Cordon Bleu Hoodie White](https://cordonbleuboutique.com/products/le-cordon-bleu-hoodie-white): Upgrade your wardrobe with the Le Cordon Bleu Navy Blue Unisex Hoodie. Premium 380gsm cotton featuring an embroidered logo. Shop yours in size today!
-  Updated: 2026-04-02T11:57:45Z
+  Updated: 2026-04-09T12:12:14Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Apparel
   Availability: Available
@@ -395,7 +395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/Hoodie-White.jpg?v=1755258160
     Price: €58.99 EUR
 - [Le Cordon Bleu Hoodie Blue (Copy)](https://cordonbleuboutique.com/products/le-cordon-bleu-hoodie-blue-copy): Upgrade your wardrobe with the Le Cordon Bleu Navy Blue Unisex Hoodie. Premium 380gsm cotton featuring an embroidered logo. Shop yours in size today!
-  Updated: 2026-04-02T11:57:45Z
+  Updated: 2026-04-09T12:12:14Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Apparel
   Availability: Available
