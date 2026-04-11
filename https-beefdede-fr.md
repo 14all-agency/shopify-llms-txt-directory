@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-03T10:55:48Z
 - Contact Email: contact@beefdede.fr
-- Updated At: 2026-04-02T15:07:44.000Z
+- Updated At: 2026-04-11T00:00:25.419Z
 
 ## Products
 
@@ -26,21 +26,21 @@
     Availability: Available
     Price: 11,50 € EUR
 - [Beef Dede Biltong - Sport Pack (3x70g)](https://beefdede.fr/products/mix-bundle): The perfect pack for sporty and hungry people!3 × 70 g bags – a balanced mix to fuel your day naturally. 2x Original 1x Chilli 🌶️ High in protein, no added sugar, made from 100% French beef.
-  Updated: 2026-04-02T13:41:26Z
+  Updated: 2026-04-10T22:42:25Z
   Vendor: BEEFDEDE
   Product Type: Pack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/4822/7398/files/rn-image_picker_lib_temp_085f4715-14d0-4988-9768-64ea391a82e0.png?v=1765225655
   Price: 18,50 € EUR
 - [Beef Dede Biltong - Discovery Pack (2x40g)](https://beefdede.fr/products/original-bundle): Discover the unique taste of Beef Dede biltong with this Discovery Pack!Includes 2 × 40 g bags: 1x Original 1x Chilli 🌶️ Perfect to try both flavours, gift, or take on the go.No added sugar, high in protein, 100% French beef.
-  Updated: 2026-04-01T11:47:50Z
+  Updated: 2026-04-10T08:57:09Z
   Vendor: BEEFDEDE
   Product Type: Pack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/4822/7398/files/rn-image_picker_lib_temp_0b8e424d-d939-459c-ae74-de092207bb3e.png?v=1765225644
   Price: 7,50 € EUR
 - [Beef Dede Biltong – Chilli](https://beefdede.fr/products/chili-sliced-biltong-spicy-protein-snack): A touch of fire for your feats. Beef Dede Chilli Biltong blends tender French beef with a bold, spicy seasoning. Just the right kick to spark your taste buds and your energy — a premium snack for those who crave adventure with character.
-  Updated: 2026-03-31T18:30:51Z
+  Updated: 2026-04-02T16:22:01Z
   Vendor: BEEFDEDE
   Product Type: Biltong
   Availability: Available
@@ -55,14 +55,14 @@
     Availability: Available
     Price: 11,50 € EUR
 - [Beef Dede Biltong - Family Pack (6x70g)](https://beefdede.fr/products/family-pack-6x70g): The perfect pack to share or stock up on protein!6 × 70 g bags – for family, friends, or busy weeks. 3x Original 3x Chilli 🌶️ High in protein, no added sugar, made from 100% French beef.Perfect for sports, travel, or healthy snacking at home.
-  Updated: 2026-04-01T11:47:50Z
+  Updated: 2026-04-03T18:47:55Z
   Vendor: BEEFDEDE
   Product Type: Pack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/4822/7398/files/rn-image_picker_lib_temp_f4e52136-8e70-4735-a605-f049eeaf975b.png?v=1765225633
   Price: 40,00 € EUR
 - [Chilli Beef Biltong | High-Protein Snack | Beef Dede](https://beefdede.fr/products/authentic-beef-biltong-high-protein-snack-beef-dede): Fuel your day with the ultimate savoury snack. Our Artisanal Beef Biltong is crafted for those who demand more from their food. More flavour, more protein, and zero compromise. Made from premium cuts of beef, marinated in traditional spices, and air-dried to perfection, this isn't just dried meat, it's a gourmet experience. Whether you're hitting the gym, hiking, or looking for a healthy office snack, we have the perfect pack for you. Chilli Flavour: For those who like a kick. Infused with a balanced heat that builds without overpowering the meat. Beef Dede Biltong is proudly manufactured in France using 100% premium French beef.
-  Updated: 2026-04-02T14:30:06Z
+  Updated: 2026-04-09T07:31:57Z
   Vendor: BEEFDEDE
   Product Type: Biltong
   Availability: Available
@@ -77,7 +77,7 @@
     Availability: Available
     Price: 11,50 € EUR
 - [Authentic Beef Biltong | High-Protein Snack |  Beef Dede](https://beefdede.fr/products/authentic-beef-biltong-high-protein-snack-copy): Fuel your day with the ultimate savoury snack. Our Artisanal Beef Biltong is crafted for those who demand more from their food. More flavour, more protein, and zero compromise. Made from premium cuts of beef, marinated in traditional spices, and air-dried to perfection, this isn't just dried meat, it's a gourmet experience. Whether you're hitting the gym, hiking, or looking for a healthy office snack, we have the perfect pack for you. Beef Dede Biltong is proudly manufactured in France using 100% premium French beef.
-  Updated: 2026-04-02T14:54:23Z
+  Updated: 2026-04-09T07:31:57Z
   Vendor: BEEFDEDE
   Product Type: Biltong
   Availability: Available
@@ -92,8 +92,8 @@
     Availability: Available
     Price: 11,50 € EUR
 - [Biltong Family Pack (6x70g) | 100% French Beef | High Protein | Beef Dede](https://beefdede.fr/products/biltong-family-pack-6x70g): Stock up on premium, air-dried Biltong. 6 bags (Original & Chilli) made with 100% French beef. No added sugar, Keto-friendly, and packed with protein. Perfect for travel, gym, or healthy snacking. Shop Beef Dede now!
-  Updated: 2026-04-02T13:43:06Z
-  Vendor: BEEF DEDE
+  Updated: 2026-04-09T07:32:10Z
+  Vendor: BEEFDEDE
   Product Type: Biltong
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0957/4822/7398/files/rn-image_picker_lib_temp_b78f83d5-41ba-4fef-8c34-5c1b312e44c6.png?v=1770555700
@@ -102,11 +102,30 @@
 ## Collections
 
 - [Home page](https://beefdede.fr/collections/frontpage)
-  Updated: 2026-04-02T14:54:24Z
+  Updated: 2026-04-10T11:45:08Z
   Total Products: 4
 - [Normal](https://beefdede.fr/collections/normal)
-  Updated: 2026-04-02T14:54:24Z
+  Updated: 2026-04-10T11:45:08Z
   Total Products: 4
+
+## Blogs
+
+- [News](https://beefdede.fr/blogs/news)
+  - [Guide ultime du Biltong de boeuf Pourquoicem snack de viande séchée conquiert le monde](https://beefdede.fr/blogs/news/guide-ultime-du-biltong-de-boeuf-pourquoicem-snack-de-viande-sechee-conquiert-le-monde): Guide ultime du Biltong de boeuf Pourquoicem snack de viande séchée conquiert le monde
+    Updated: 2026-04-02T15:47:36Z
+    Author: Beef Dede
+  - [10 Raisons pour Adopter le Biltong de Boeuf comme Snack Protéiné](https://beefdede.fr/blogs/news/10-raisons-pour-adopter-le-biltong-de-boeuf-comme-snack-proteine): 10 Raisons pour Adopter le Biltong de Boeuf comme Snack Protéiné
+    Updated: 2026-04-03T17:04:10Z
+    Author: Beef Dede
+  - [Comment le Biltong Sud-Africain Est Devenu l'Apéro Original par Excellence](https://beefdede.fr/blogs/news/comment-le-biltong-sud-africain-est-devenu-lapero-original-par-excellence): Comment le Biltong Sud-Africain Est Devenu l'Apéro Original par Excellence
+    Updated: 2026-04-06T19:59:15Z
+    Author: Beef Dede
+  - [Le Biltong vs les Barres Protéinées: Quelle Charcuterie Saine Choisir?](https://beefdede.fr/blogs/news/le-biltong-vs-les-barres-proteinees-quelle-charcuterie-saine-choisir): Le Biltong vs les Barres Protéinées: Quelle Charcuterie Saine Choisir?
+    Updated: 2026-04-09T17:00:32Z
+    Author: Beef Dede
+  - [Biltong de Boeuf Séché Artisanal: L'Alternative Riche en Protéines pour les Amateurs de Musculation](https://beefdede.fr/blogs/news/biltong-de-boeuf-seche-artisanal-lalternative-riche-en-proteines-pour-les-amateurs-de-musculation): Biltong de Boeuf Séché Artisanal: L'Alternative Riche en Protéines pour les Amateurs de Musculation
+    Updated: 2026-04-10T17:04:33Z
+    Author: Beef Dede
 
 ## Store Pages
 
