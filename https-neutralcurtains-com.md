@@ -6,42 +6,42 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-02-26T14:41:32Z
 - Contact Email: support@neutralcurtains.com
-- Updated At: 2026-04-04T00:00:35.416Z
+- Updated At: 2026-04-11T00:00:37.741Z
 
 Neutral Curtains is a premium manufacturer and supplier of high-quality custom window treatments. We specialize in Bamboo Shades, Roman Shades, Motorized Blinds, and luxury curtains. Our products are designed for both retail (B2C) and wholesale (B2B) customers looking for sustainable and stylish home decor solutions
 
 ## Products
 
 - [#1908-3 Sand Beige](https://neutralcurtains.com/products/3-sand-beige-1)
-  Updated: 2026-04-03T15:23:28Z
+  Updated: 2026-04-10T19:48:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/3SandBeige.jpg?v=1711031021
   Price: $0.00 USD
 - [#1908-6 Grey Beige](https://neutralcurtains.com/products/6-grey-beige)
-  Updated: 2026-04-03T02:00:27Z
+  Updated: 2026-04-10T19:48:26Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/lu1nf6-06-grey-beige-1908-6-ymq.png?v=1768556464
   Price: $0.00 USD
 - [#1908-16 Carbon Grey](https://neutralcurtains.com/products/16-carbon-grey-1)
-  Updated: 2026-04-01T18:36:46Z
+  Updated: 2026-04-06T14:01:29Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/16CarbonGrey.jpg?v=1711031027
   Price: $0.00 USD
 - [#1908-19 Pink Lemonade](https://neutralcurtains.com/products/19-pink-lemonade)
-  Updated: 2026-03-31T23:09:07Z
+  Updated: 2026-04-09T15:56:36Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/19PinkLemonade.jpg?v=1711031030
   Price: $0.00 USD
 - [#1908-26 Orange Copper](https://neutralcurtains.com/products/26-orange-copper)
-  Updated: 2026-04-03T15:23:27Z
+  Updated: 2026-04-08T20:28:01Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -55,14 +55,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/31Peacock.jpg?v=1711031042
   Price: $0.00 USD
 - [#1908-35 Aegean Blue](https://neutralcurtains.com/products/35-aegean-blue)
-  Updated: 2026-04-02T10:22:27Z
+  Updated: 2026-04-10T00:34:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/35AegeanBlue.jpg?v=1711031048
   Price: $0.00 USD
 - [#1908-02 Ivory White](https://neutralcurtains.com/products/2-ivory-white-1)
-  Updated: 2026-04-03T15:23:27Z
+  Updated: 2026-04-10T19:48:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -76,70 +76,70 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/29JadeGreenOlive.jpg?v=1711031056
   Price: $0.00 USD
 - [#1908-0 Snow White](https://neutralcurtains.com/products/1908-0-snow-white)
-  Updated: 2026-04-03T04:05:59Z
+  Updated: 2026-04-10T19:48:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/snow-white-1908-0.webp?v=1711031059
   Price: $0.00 USD
 - [#1908-1 Beige White](https://neutralcurtains.com/products/1908-1-beige-white)
-  Updated: 2026-04-03T02:00:26Z
+  Updated: 2026-04-10T19:48:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/beige-white-1908-1.webp?v=1711031062
   Price: $0.00 USD
 - [#1908-4 Light Khaki](https://neutralcurtains.com/products/1908-4-light-khaki)
-  Updated: 2026-04-03T00:21:19Z
+  Updated: 2026-04-10T19:48:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/light-khaki-1908-4.webp?v=1711031066
   Price: $0.00 USD
 - [#1908-5 Burlywood Birch](https://neutralcurtains.com/products/1908-5-birch)
-  Updated: 2026-04-03T02:00:27Z
+  Updated: 2026-04-10T19:48:28Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/birch-1908-5.webp?v=1711031069
   Price: $0.00 USD
 - [#1908-7 Tapioca](https://neutralcurtains.com/products/1908-7-tapioca)
-  Updated: 2026-04-03T15:23:27Z
+  Updated: 2026-04-10T19:48:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/tapioca-1908-7.webp?v=1711031072
   Price: $0.00 USD
 - [#1908-8 Taupe Grey](https://neutralcurtains.com/products/1908-8-taupe-grey)
-  Updated: 2026-04-02T20:45:40Z
+  Updated: 2026-04-09T15:40:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/108sbpq-08-taupe-grey-1908-8-ymq.jpg?v=1768556466
   Price: $0.00 USD
 - [#1908-9 Rust Brown](https://neutralcurtains.com/products/1908-9-rust-brown)
-  Updated: 2026-04-03T02:00:30Z
+  Updated: 2026-04-09T15:40:26Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/rust-brown-1908-9.webp?v=1711031079
   Price: $0.00 USD
 - [#1908-10 Oak Dim Gray](https://neutralcurtains.com/products/1908-10-oak-dim-gray)
-  Updated: 2026-04-02T20:45:41Z
+  Updated: 2026-04-06T01:57:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/oak-1908-10.webp?v=1711031082
   Price: $0.00 USD
 - [#1908-11 Grey](https://neutralcurtains.com/products/1908-11-grey)
-  Updated: 2026-04-03T00:21:19Z
+  Updated: 2026-04-09T14:22:46Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/light-grey-1908-11.webp?v=1711031086
   Price: $0.00 USD
 - [#1908-12 Rock Grey](https://neutralcurtains.com/products/1908-12-rock-grey)
-  Updated: 2026-04-02T20:28:52Z
+  Updated: 2026-04-08T20:27:58Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -153,14 +153,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/chocolate-tart-1908-13.webp?v=1711031093
   Price: $0.00 USD
 - [#1908-14 Sepia Ebony](https://neutralcurtains.com/products/1908-14-sepia-ebony)
-  Updated: 2026-04-01T20:22:06Z
+  Updated: 2026-04-07T03:46:36Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/sepia-1908-14.webp?v=1711031096
   Price: $0.00 USD
 - [#1908-15 Pure Cashmere](https://neutralcurtains.com/products/1908-15-pure-cashmere)
-  Updated: 2026-04-01T02:29:17Z
+  Updated: 2026-04-05T18:52:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -181,70 +181,70 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/fog-1908-18.webp?v=1711031107
   Price: $0.00 USD
 - [#1908-20 Parchment](https://neutralcurtains.com/products/1908-20-parchment)
-  Updated: 2026-04-02T13:12:06Z
+  Updated: 2026-04-08T20:27:58Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/parchment-1908-20.webp?v=1711031110
   Price: $0.00 USD
 - [#1908-22 Burgundy Red](https://neutralcurtains.com/products/1908-22-burgundy-red)
-  Updated: 2026-04-03T04:06:00Z
+  Updated: 2026-04-06T01:57:58Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/burgundy-red-1908-22.webp?v=1711031118
   Price: $0.00 USD
 - [#1908-27 Khaki Yellow](https://neutralcurtains.com/products/1908-27-khaki-yellow)
-  Updated: 2026-04-01T12:27:28Z
+  Updated: 2026-04-08T14:43:48Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/khaki-yellow-1908-27.webp?v=1711031124
   Price: $0.00 USD
 - [#1908-28 Khaki](https://neutralcurtains.com/products/1908-28-khaki)
-  Updated: 2026-04-03T02:00:27Z
+  Updated: 2026-04-08T16:49:43Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/khaki-1908-28.webp?v=1711031128
   Price: $0.00 USD
 - [#1908-30 Green](https://neutralcurtains.com/products/1908-30-green)
-  Updated: 2026-04-02T10:22:26Z
+  Updated: 2026-04-06T01:57:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/green-1908-30.webp?v=1711031132
   Price: $0.00 USD
 - [#1908-33 Pale Blue Aqua](https://neutralcurtains.com/products/1908-33-pale-blue-aqua)
-  Updated: 2026-04-01T00:02:17Z
+  Updated: 2026-04-06T23:12:23Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/pale-blue-1908-33.webp?v=1711031136
   Price: $0.00 USD
 - [#1908-36 Navy Blue](https://neutralcurtains.com/products/1908-36-navy-blue)
-  Updated: 2026-04-02T10:22:26Z
+  Updated: 2026-04-06T01:57:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/navy-blue-1908-36.webp?v=1711031143
   Price: $0.00 USD
 - [J401-1 White](https://neutralcurtains.com/products/401-1-white)
-  Updated: 2026-04-03T00:21:25Z
+  Updated: 2026-04-10T15:02:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/401-1White_0fdd830f-6547-4c85-9f97-9e3532985ff4.jpg?v=1711032168
   Price: $0.00 USD
 - [J401-2 Ivory Beige](https://neutralcurtains.com/products/401-2-ivory-beige)
-  Updated: 2026-04-03T00:21:17Z
+  Updated: 2026-04-10T15:02:58Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/401-2IvoryBeige.jpg?v=1711032171
   Price: $0.00 USD
 - [J401-3 Oatmeal](https://neutralcurtains.com/products/401-3-oatmeal)
-  Updated: 2026-04-03T02:00:28Z
+  Updated: 2026-04-08T16:49:47Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -258,7 +258,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/401-4Walnut.jpg?v=1711032178
   Price: $0.00 USD
 - [J401-5 Gray](https://neutralcurtains.com/products/401-5-gray)
-  Updated: 2026-04-02T13:12:06Z
+  Updated: 2026-04-06T14:01:28Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -272,28 +272,28 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/401-6Midnight.jpg?v=1711032185
   Price: $0.00 USD
 - [J401-7 Off White](https://neutralcurtains.com/products/401-7-off-white)
-  Updated: 2026-04-02T19:52:48Z
+  Updated: 2026-04-08T17:00:16Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/J401-7OffWhite.webp?v=1711032190
   Price: $0.00 USD
 - [J401-8  Sand Beige](https://neutralcurtains.com/products/401-8-sand-beige)
-  Updated: 2026-04-03T02:00:27Z
+  Updated: 2026-04-06T14:29:05Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/J401-8SandBeige.webp?v=1711032194
   Price: $0.00 USD
 - [J401-9 Birch](https://neutralcurtains.com/products/401-9-birch)
-  Updated: 2026-04-01T22:37:57Z
+  Updated: 2026-04-06T14:29:13Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/J401-9Birch.webp?v=1711032202
   Price: $0.00 USD
 - [J401-10 Greyish Beige](https://neutralcurtains.com/products/401-10-greyish-beige)
-  Updated: 2026-04-02T13:12:07Z
+  Updated: 2026-04-06T14:29:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -307,14 +307,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/J401-11LightGray.webp?v=1711032211
   Price: $0.00 USD
 - [J401-12 Dark Gray](https://neutralcurtains.com/products/401-12-dark-gray)
-  Updated: 2026-03-16T17:33:27Z
+  Updated: 2026-04-06T14:01:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/J401-12DarkGray.webp?v=1711032214
   Price: $0.00 USD
 - [J401-13 Mustard Yellow](https://neutralcurtains.com/products/401-13-mustard-yellow)
-  Updated: 2026-03-29T03:45:19Z
+  Updated: 2026-04-10T00:34:58Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -335,7 +335,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/J401-15HunterGreen.webp?v=1711032226
   Price: $0.00 USD
 - [J401-16 Pink](https://neutralcurtains.com/products/401-16-pink)
-  Updated: 2026-04-01T01:55:27Z
+  Updated: 2026-04-09T15:56:36Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -349,7 +349,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/J401-17Burgundy.webp?v=1711032236
   Price: $0.00 USD
 - [J401-18 Deep Blue](https://neutralcurtains.com/products/401-18-deep-blue)
-  Updated: 2026-03-31T15:06:49Z
+  Updated: 2026-04-10T23:19:09Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -363,21 +363,21 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-35-Royal-Blue.jpg?v=1711033347
   Price: $0.00 USD
 - [#7084-40 Navy](https://neutralcurtains.com/products/7084-40-navy)
-  Updated: 2026-03-23T19:33:27Z
+  Updated: 2026-04-10T23:19:09Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-40-Navy.jpg?v=1711033350
   Price: $0.00 USD
 - [#7084-0 Paper White](https://neutralcurtains.com/products/7084-0-paper-white)
-  Updated: 2026-04-03T00:24:37Z
+  Updated: 2026-04-08T05:15:47Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-0-Paper-White.jpg?v=1711033353
   Price: $0.00 USD
 - [#7084-1 Flax](https://neutralcurtains.com/products/7084-1-flax)
-  Updated: 2026-04-01T01:55:27Z
+  Updated: 2026-04-05T18:52:28Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -391,7 +391,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-2-Flame.jpg?v=1711033360
   Price: $0.00 USD
 - [#7084-6 Ivory](https://neutralcurtains.com/products/7084-6-ivory)
-  Updated: 2026-04-01T02:00:59Z
+  Updated: 2026-04-04T15:22:17Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -405,14 +405,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-7-Gardenia.jpg?v=1711033369
   Price: $0.00 USD
 - [#7084-8 Bone White](https://neutralcurtains.com/products/7084-8-bone-white)
-  Updated: 2026-03-22T13:24:28Z
+  Updated: 2026-04-05T18:52:18Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-8-Bone-White.jpg?v=1711033372
   Price: $0.00 USD
 - [#7084-9 Seedpearl](https://neutralcurtains.com/products/7084-9-seedpearl)
-  Updated: 2026-04-02T20:45:42Z
+  Updated: 2026-04-09T15:55:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -440,14 +440,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-13-Tan.jpg?v=1711033385
   Price: $0.00 USD
 - [#7084-16 Winter Sky](https://neutralcurtains.com/products/7084-16-winter-sky)
-  Updated: 2026-03-31T14:40:47Z
+  Updated: 2026-04-08T17:02:26Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-16-Winter-Sky.jpg?v=1711033388
   Price: $0.00 USD
 - [#7084-18 Smoke Blue](https://neutralcurtains.com/products/7084-18-smoke-blue)
-  Updated: 2026-04-02T13:12:06Z
+  Updated: 2026-04-06T23:52:56Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -475,7 +475,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-22-Forrest.jpg?v=1711033405
   Price: $0.00 USD
 - [#7084-25 Hunter Green](https://neutralcurtains.com/products/7084-25-hunter-green)
-  Updated: 2026-03-19T00:04:56Z
+  Updated: 2026-04-08T14:43:47Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -489,14 +489,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-28Aqua-Haze.jpg?v=1711033414
   Price: $0.00 USD
 - [#7084-32 Sea Port](https://neutralcurtains.com/products/7084-32-sea-port)
-  Updated: 2026-03-15T18:53:39Z
+  Updated: 2026-04-06T23:11:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-32-Sea-Port.jpg?v=1711033417
   Price: $0.00 USD
 - [#7084-38 Purple](https://neutralcurtains.com/products/7084-38-purple)
-  Updated: 2026-04-03T04:06:05Z
+  Updated: 2026-04-05T03:51:37Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -517,14 +517,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-44-Orange.jpg?v=1711033430
   Price: $0.00 USD
 - [#7084-46 Pink](https://neutralcurtains.com/products/7084-46-pink)
-  Updated: 2026-03-17T15:22:58Z
+  Updated: 2026-04-07T21:31:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-46-Pink.jpg?v=1711033433
   Price: $0.00 USD
 - [#7084-47 Coral](https://neutralcurtains.com/products/7084-47-coral)
-  Updated: 2026-04-02T00:03:06Z
+  Updated: 2026-04-07T21:31:03Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -552,56 +552,56 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-60-Black.jpg?v=1711033446
   Price: $0.00 USD
 - [#7084-4 Beige White](https://neutralcurtains.com/products/7084-4-beige-white)
-  Updated: 2026-04-03T00:24:38Z
+  Updated: 2026-04-10T16:20:19Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/XY7084-4.jpg?v=1711033448
   Price: $0.00 USD
 - [K1011 White](https://neutralcurtains.com/products/1011-white)
-  Updated: 2026-04-03T00:24:37Z
+  Updated: 2026-04-08T17:02:17Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1011White.jpg?v=1711034100
   Price: $0.00 USD
 - [K1012 Beige](https://neutralcurtains.com/products/1012-beige)
-  Updated: 2026-04-01T20:22:06Z
+  Updated: 2026-04-09T15:55:29Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1012Beige.jpg?v=1711034103
   Price: $0.00 USD
 - [K1013 Walnut](https://neutralcurtains.com/products/1013-walnut)
-  Updated: 2026-03-27T17:36:38Z
+  Updated: 2026-04-10T00:34:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1013Walnut.jpg?v=1711034106
   Price: $0.00 USD
 - [K1014 Gray](https://neutralcurtains.com/products/1014-gray)
-  Updated: 2026-03-24T00:04:57Z
+  Updated: 2026-04-06T14:01:25Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1014Gray.jpg?v=1711034110
   Price: $0.00 USD
 - [K1015 Midnight](https://neutralcurtains.com/products/1015-midnight)
-  Updated: 2026-03-30T11:16:27Z
+  Updated: 2026-04-10T23:19:09Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1015Midnight.jpg?v=1711034113
   Price: $0.00 USD
 - [K1016 Flax](https://neutralcurtains.com/products/1016-flax)
-  Updated: 2026-04-01T23:22:49Z
+  Updated: 2026-04-10T11:11:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1016Flax.jpg?v=1711034116
   Price: $0.00 USD
 - [K1021 Off white (ivory)](https://neutralcurtains.com/products/1011-white-的副本)
-  Updated: 2026-04-03T00:24:38Z
+  Updated: 2026-04-10T15:02:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -622,49 +622,49 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1019Turquoise.jpg?v=1711034127
   Price: $0.00 USD
 - [K1020 Burgundy](https://neutralcurtains.com/products/1019-turquoise-的副本)
-  Updated: 2026-03-30T11:16:27Z
+  Updated: 2026-04-10T00:34:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1020Burgundy.jpg?v=1711034130
   Price: $0.00 USD
 - [K1009 Warm White](https://neutralcurtains.com/products/k1021-off-white)
-  Updated: 2026-04-03T00:21:17Z
+  Updated: 2026-04-10T15:02:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1009.webp?v=1711034133
   Price: $0.00 USD
 - [K1022 Sand Beige](https://neutralcurtains.com/products/1022-sand-beige)
-  Updated: 2026-04-01T01:55:26Z
+  Updated: 2026-04-08T14:43:47Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1022_1_4_1.jpg?v=1768985206
   Price: $0.00 USD
 - [K1023 Greyish Beige](https://neutralcurtains.com/products/1023-greyish-beige)
-  Updated: 2026-04-03T00:24:37Z
+  Updated: 2026-04-09T15:55:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1023.jpg?v=1711034140
   Price: $0.00 USD
 - [K1024 Light Gray](https://neutralcurtains.com/products/1024-light-gray)
-  Updated: 2026-04-03T00:24:33Z
+  Updated: 2026-04-09T15:55:28Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1024.jpg?v=1711034144
   Price: $0.00 USD
 - [K1025 Medium Gray](https://neutralcurtains.com/products/1025-medium-gray)
-  Updated: 2026-03-31T22:02:27Z
+  Updated: 2026-04-07T03:46:36Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1025.jpg?v=1711034147
   Price: $0.00 USD
 - [K1026 Mustard Yellow](https://neutralcurtains.com/products/1026-mustard-yellow)
-  Updated: 2026-03-22T23:22:07Z
+  Updated: 2026-04-08T16:49:47Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -678,14 +678,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1027.jpg?v=1711034153
   Price: $0.00 USD
 - [K1028 Pink](https://neutralcurtains.com/products/1028-pink)
-  Updated: 2026-03-31T23:09:08Z
+  Updated: 2026-04-07T21:31:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1028.jpg?v=1711034157
   Price: $0.00 USD
 - [K1029 Navy Blue](https://neutralcurtains.com/products/1029-navy-blue)
-  Updated: 2026-03-23T23:54:17Z
+  Updated: 2026-04-10T23:19:08Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -699,7 +699,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/K1030.jpg?v=1711034163
   Price: $0.00 USD
 - [MJ11-2 Cashmer](https://neutralcurtains.com/products/11-2-cashmer): 11-2 Cashmer  a soft, warm cashmere-tone neutral with elegant texture and graceful drape. Ideal for custom curtains or Roman shades that suit refined interiors.
-  Updated: 2026-03-25T23:00:17Z
+  Updated: 2026-04-06T23:50:02Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -748,21 +748,21 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-17Jave.jpg?v=1712220534
   Price: $0.00 USD
 - [MJ11-22 Yellow](https://neutralcurtains.com/products/11-22-yellow): Let your windows glow with the vibrancy of 11-22 Yellow a beautifully saturated shade designed to bring warmth, sophistication, and personality to any space.
-  Updated: 2026-03-23T05:21:40Z
+  Updated: 2026-04-10T00:34:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-22Yellow.jpg?v=1712220540
   Price: $0.00 USD
 - [MJ11-26 Wheat](https://neutralcurtains.com/products/11-26-wheat): 11-26 Wheat  a soft, warm wheat tone with natural texture and gentle drape. Perfect for custom curtains or roman shades that bring calm and warmth.
-  Updated: 2026-04-01T17:08:41Z
+  Updated: 2026-04-08T16:49:47Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-26Wheat.jpg?v=1712220542
   Price: $0.00 USD
 - [MJ11-34 Coral](https://neutralcurtains.com/products/11-34-coral): 11-34 Coral  a vibrant, elegant coral shade with soft texture and flowing drape. Perfect for custom curtains  Roman shades that inject modern charm
-  Updated: 2026-03-16T09:23:34Z
+  Updated: 2026-04-06T23:50:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -804,14 +804,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-57Ivory.jpg?v=1712220565
   Price: $0.00 USD
 - [MJ11-63 Sky Blue](https://neutralcurtains.com/products/11-63-sky-blue): 11-63 Sky Blue  a tranquil sky-tone blue with airy texture and elegant drape. Ideal for custom curtains or Roman shades that breathe
-  Updated: 2026-03-20T12:43:29Z
+  Updated: 2026-04-10T23:19:09Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-63SkyBlue.jpg?v=1712220568
   Price: $0.00 USD
 - [MJ11-64 Teal](https://neutralcurtains.com/products/11-64-teal): 11-64 Teal  a rich, deep teal tone with elegant texture and smooth drape. Ideal for custom curtains or Roman shades that bring bold elegance and calm sophistication
-  Updated: 2026-03-20T12:43:28Z
+  Updated: 2026-04-06T23:50:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -839,14 +839,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-81Chocolate.jpg?v=1712220581
   Price: $0.00 USD
 - [MJ11-89 Fawn](https://neutralcurtains.com/products/11-89-fawn): 11-89 Fawn  a soft, warm fawn tone with subtle golden undertones finely textured elegantly draped Ideal for custom curtains Roman shades that bring timeless comfort.
-  Updated: 2026-03-20T12:43:28Z
+  Updated: 2026-04-10T00:34:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-89Fawn.jpg?v=1712220586
   Price: $0.00 USD
 - [MJ11-99 Blue](https://neutralcurtains.com/products/11-99-blue): 11-99 Blue a rich, true blue tone with elegant texture and smooth drape. Ideal for custom curtains or Roman shades that bring clarity and calm to any space.
-  Updated: 2026-04-03T04:06:04Z
+  Updated: 2026-04-06T23:50:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -874,7 +874,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MJ11-111WarmBlack.jpg?v=1712220607
   Price: $0.00 USD
 - [Lily Linen Curtains & Drapes Pleated](https://neutralcurtains.com/products/lily-linen-curtains-drapes-pleated): Discover the Linen Pleated Drape at Texture Curtains. Elegant design meets quality. Perfect for modern homes. Shop now .
-  Updated: 2026-04-03T13:16:57Z
+  Updated: 2026-04-10T16:47:58Z
   Vendor: Neutral
   Product Type: curtains & drapes
   Availability: Available
@@ -2147,42 +2147,42 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/111WarmBlack_2.webp?v=1759995471
     Price: $65.99 USD
 - [Lily linen books](https://neutralcurtains.com/products/lily-linen-books): Description: Lily-R,Lily-C Made of 80% polyester and 20% linen blend,350 gsm. the Pandora Color Palette,True Colors, Premium Weight, Superior Weave. silky smooth and wrinkle free. Shading:80%. Dry Clean. 18 colors options for Lily-R 13 colors options for Lily-C Buy 1 Get 1 Free Lining Book Shipping: Lead Time: 3-5 days Learn more about Shipping. The shipping time provided on our website is a guide only and represents the time frame that 95% of orders are filled within.Once orders are shipped, you'll receive a tracking number to follow up with carrier. Worldwide shipping. Return: Sample books are not returnable. Learn more about Return Policy.
-  Updated: 2026-04-03T18:12:10Z
+  Updated: 2026-04-10T01:48:27Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/lilyRC.webp?v=1766392472
   Price: $0.99 USD
 - [Jenna linen book](https://neutralcurtains.com/products/jenna-linen-books): Explore the Jenna Linen Book featuring premium linen fabrics with natural texture and timeless appeal. Ideal for curtains, upholstery, and décor
-  Updated: 2026-03-29T19:46:10Z
+  Updated: 2026-04-10T00:31:27Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/compressed_Jenna.jpg?v=1765966128
   Price: $2.49 USD
 - [Kelly linen book](https://neutralcurtains.com/products/kelly-linen-books): Description: Made of 10% Linen and 90% polyester blend,240 gsm. Shading:70%. Dry Clean. 20 colors options. Buy 1 Get 1 Free Lining Book Shipping: Lead Time:5-7 days Learn more about Shipping. The shipping time provided on our website is a guide only and represents the time frame that 95% of orders are filled within.Once orders are shipped, you'll receive a tracking number to follow up with carrier. Worldwide shipping. Return: Sample books are not returnable. Learn more about Return Policy.
-  Updated: 2026-03-31T14:36:01Z
+  Updated: 2026-04-09T01:06:09Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/compressed_kelly_1.jpg?v=1765966052
   Price: $2.49 USD
 - [Bella Cotton Books](https://neutralcurtains.com/products/bella-cotton-books): Description: Bella-R,Bella-C Made of 50% cotton and 50% polyester blend, 500 gsm. Shading: 90%. Dry Clean. 29 colors options in total. Buy 1 Get 1 Free Lining Book Shipping: Lead Time: 3-5 days. Learn more about Shipping. The shipping time provided on our website is a guide only and represents the time frame that 95% of orders are filled within.Once orders are shipped, you'll receive a tracking number to follow up with carrier. Worldwide shipping. Return: Sample books are not returnable. Learn more about Return Policy.
-  Updated: 2026-04-01T21:01:06Z
+  Updated: 2026-04-10T23:23:03Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Bella_RC.jpg?v=1766392399
   Price: $1.99 USD
 - [Maillard Velvet Books](https://neutralcurtains.com/products/maillard-velvet-books): Explore the Maillard Velvet Book  a premium collection of luxurious velvet fabrics, perfect for creating elegant curtains and sophisticated home
-  Updated: 2026-04-01T17:59:46Z
+  Updated: 2026-04-08T09:33:29Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Maillard_71d91f1a-b273-4dd1-ba1e-0075b98f2ac5.jpg?v=1773392472
   Price: $0.99 USD
 - [Ramie Bamboo book](https://neutralcurtains.com/products/bamboo-books): Shop the Ramie Bamboo Book for premium eco-friendly fabrics. Durable, stylish, and ideal for window treatments and interior design projects.
-  Updated: 2026-04-03T20:33:48Z
+  Updated: 2026-04-10T23:27:13Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
@@ -2196,14 +2196,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/14_00a39c75-8397-4e22-b569-9f48e8644ac1.jpg?v=1716531132
   Price: $2.49 USD
 - [All Fabric Collection](https://neutralcurtains.com/products/neutral-fabric-collection): Neutral Fabric Collection
-  Updated: 2026-04-03T23:53:58Z
+  Updated: 2026-04-10T11:11:57Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Group1261153339.png?v=1747211370
   Price: $1.59 USD
 - [Ramie Woven Bamboo Blinds & Shades | Beige](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-beige): Ramie Woven Bamboo Blinds & Shades combine natural fibers with durable weaving, offering soft light control, eco-friendly style, and a warm
-  Updated: 2026-04-01T13:58:29Z
+  Updated: 2026-04-10T15:46:57Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
@@ -2368,7 +2368,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/37_01_3d743b0a-bfb4-43ce-a7c0-75e0f2b77981.jpg?v=1759990450
     Price: $59.99 USD
 - [Jenna Linen Curtains & Drapes Pleated|Neutral Curtains](https://neutralcurtains.com/products/jenna-linen-and-cotton-blend-curtains-drapes-pleate): Custom Linen Cotton Curtain Pleated. Add a touch of elegance to your home with our high-quality curtains. Shop now and enjoy free shipping!
-  Updated: 2026-04-02T18:15:10Z
+  Updated: 2026-04-06T23:29:36Z
   Vendor: Neutral
   Product Type: curtains & drapes
   Availability: Available
@@ -2460,7 +2460,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/j401-22midnightgreen.png?v=1769499819
     Price: $79.99 USD
 - [Flax Linen Curtains & Drapes Pinch Pleated | Kelly](https://neutralcurtains.com/products/kelly-flax-linen-curtains-drapes-pleated): Faux Linen Drapery Get the perfect window  for your home
-  Updated: 2026-04-03T20:26:27Z
+  Updated: 2026-04-10T14:56:08Z
   Vendor: Neutral
   Product Type: curtains & drapes
   Availability: Available
@@ -2546,7 +2546,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Deep-Blue.webp?v=1770626452
     Price: $49.99 USD
 - [Cotton Blend Curtains & Drapes | Neutral Curtains](https://neutralcurtains.com/products/bella-cotton-blend-curtains-drapes-pleated): Shop the Cotton Blend Drapery at Neutral Curtains. Experience luxury, durability, and elegance for your home's aesthetic.
-  Updated: 2026-03-26T22:27:47Z
+  Updated: 2026-04-07T17:11:09Z
   Vendor: Neutral
   Product Type: curtains & drapes
   Availability: Available
@@ -2695,7 +2695,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/60__01.webp?v=1774517865
     Price: $79.99 USD
 - [Lily Linen Roman Shades & Blinds | Neutral Curtains](https://neutralcurtains.com/products/lily-linen-roman-shades-blinds): Our Silk Fabric Collection features luxurious textures, rich colors, and elegant drape, offering premium quality textiles perfect for curtains
-  Updated: 2026-04-03T20:48:58Z
+  Updated: 2026-04-10T18:23:28Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -3005,21 +3005,21 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/111WarmBlack.webp?v=1759995472
     Price: $65.99 USD
 - [Ramie Woven Bamboo Blinds & Shades | Woven](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-woven): Ramie Woven Bamboo Blinds & Shades in Woven design combine eco-friendly bamboo, durable construction, and soft light filtering
-  Updated: 2026-04-02T21:50:08Z
+  Updated: 2026-04-10T18:14:57Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/b58ce7b99582c961375527c3c6b27ebb_4c6da300-f9a7-4177-bcfd-39588122f09c.png?v=1774598399
   Price: $122.50 USD
 - [Ramie Woven Bamboo Blinds & Shades | Ivory](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-ivory): Enhance your windows with Ramie woven bamboo blinds. Natural textures, durable craftsmanship, and elegant design for every room
-  Updated: 2026-04-02T19:36:38Z
+  Updated: 2026-04-10T11:32:07Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1_cd2bcab2-dbdc-4a12-bce1-4692f5843151.png?v=1774598399
   Price: $122.50 USD
 - [Jenna Linen Plain Fold Roman Shades & Blinds | Neutral Curtains](https://neutralcurtains.com/products/jenna-linen-roman-shades-blinds-plain-fold): Discover Jenna Linen Plain Fold Roman Shades crafted with premium linen fabric for a clean, tailored look. Perfect for any modern or classic
-  Updated: 2026-04-02T05:26:06Z
+  Updated: 2026-04-09T17:35:33Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -3109,7 +3109,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Availability: Available
     Price: $74.99 USD
 - [Kelly Linen Roman Shades & Blinds | Neutral Curtains](https://neutralcurtains.com/products/kelly-linen-roman-shades-blinds-plain-fold): Enjoy a seamless design and beautiful texture with this high-end linen construction. Effortless cordless operation keeps windows looking neat and tidy. Perfect for any room or style. Width range: 20-55 inches; Length range: 32-70 inches. Blinds roman comes with a header and hardware. Made of 90% polyester and 10% linen blend. Headrail size： Long as roman shade width, 1-1/4''h x 1-3/8''d. Inside Mounted: Measure the window inside width and height. Deduct 3/8 inch on the window width to get the shade width to ensure a proper fit inside the window frame, shade height could be the same as the window height. Ensure you have enough window depth, at least 2 inches. Outside Mounted: Measure the window frame width and height. Add 3-6 inches to the window frame width and 8-10 inches to the window frame height. Install on the frame, shade size could be the same or slightly smaller than the window size. The aluminum headrail and rod is detachable and can be removed to clean the curtain. After washing, it is recommended to iron and level the assembly.
-  Updated: 2026-04-02T15:17:17Z
+  Updated: 2026-04-10T22:51:34Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -3195,7 +3195,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/k1030_741b18e7-d73e-41e2-a4e1-89600b04595d.png?v=1767490548
     Price: $49.99 USD
 - [Bella Cotton Plain Fold  Roman Shades & Blinds | Neutral Curtains](https://neutralcurtains.com/products/bella-cotton-plain-fold-roman-shades-blinds): Enjoy a seamless design and beautiful texture with this high-end linen construction. Effortless cordless operation keeps windows looking neat and tidy. Perfect for any room or style. Width range: 20-55 inches; Length range: 32-70 inches. Blinds roman comes with a header and hardware. Made of 90% polyester and 10% linen blend. Headrail size： Long as roman shade width, 1-1/4''h x 1-3/8''d. Inside Mounted: Measure the window inside width and height. Deduct 3/8 inch on the window width to get the shade width to ensure a proper fit inside the window frame, shade height could be the same as the window height. Ensure you have enough window depth, at least 2 inches. Outside Mounted: Measure the window frame width and height. Add 3-6 inches to the window frame width and 8-10 inches to the window frame height. Install on the frame, shade size could be the same or slightly smaller than the window size. The aluminum headrail and rod is detachable and can be removed to clean the curtain. After washing, it is recommended to iron and level the assembly.
-  Updated: 2026-04-03T14:38:19Z
+  Updated: 2026-04-10T17:15:10Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -3499,28 +3499,28 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/111_e429f72a-cafc-4038-8590-67e4fb29cbbc.png?v=1752639973
     Price: $49.99 USD
 - [Ramie Woven Bamboo Blinds & Shades | Coconut](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-coconut): Ramie Woven Bamboo Blinds & Shades in Coconut offer a natural, eco-friendly design with durable bamboo, smooth operation, and soft
-  Updated: 2026-04-03T15:08:49Z
+  Updated: 2026-04-10T18:12:27Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/d8671724c723e7301b2df12248a6e921_ae3f21ad-b692-4555-abba-62fa23b12885.png?v=1774598399
   Price: $122.50 USD
 - [Ramie Woven Bamboo Blinds & Shades | Marble White](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-marble-white): Ramie Woven Bamboo Blinds & Shades in Marble White offer a light, natural look with durable bamboo, eco-friendly design, and soft light
-  Updated: 2026-04-03T14:05:49Z
+  Updated: 2026-04-10T20:03:35Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/0589c0b00a1972628077dc0270e200fe_7d06f48f-4b31-444a-bc8c-eb177be5ad4a.jpg?v=1774598399
   Price: $122.50 USD
 - [Ramie Woven Bamboo Blinds & Shades | Cinnamon](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-cinnamon): Ramie Woven Bamboo Blinds & Shades in Cinnamon offer eco-friendly bamboo, durable design, and soft light filtering, bringing a warm,
-  Updated: 2026-04-02T15:12:56Z
+  Updated: 2026-04-07T18:27:06Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/55_2_2.jpg?v=1774598399
   Price: $122.50 USD
 - [Ramie Woven Bamboo Blinds & Shades | Cashew](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-cashew): Ramie Woven Bamboo Blinds & Shades in Cashew feature eco-friendly bamboo, durable construction, and soft light filtering, adding natural
-  Updated: 2026-03-29T21:37:47Z
+  Updated: 2026-04-06T19:17:17Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
@@ -3534,35 +3534,35 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/2_5e97f0d5-8cf2-43b6-843a-245827ba3866.png?v=1774598399
   Price: $98.50 USD
 - [Ramie Woven Bamboo Blinds & Shades | Beige White](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-beige-white): Ramie Woven Bamboo Blinds & Shades in Beige White offer a natural, eco-friendly design with smooth operation, durable bamboo,
-  Updated: 2026-04-03T15:55:07Z
+  Updated: 2026-04-04T21:02:07Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/lQDPKc2OIaIW0MfNAtDNAtCwD5fbpyy6VtwHqGoaMyvRAA_720_720.jpg?v=1774598399
   Price: $149.89 USD
 - [Ramie Woven Bamboo Blinds & Shades | Beige Brown](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-beige-brown): Ramie Woven Bamboo Blinds & Shades in Beige Brown feature eco-friendly bamboo, durable construction, and soft light filtering, adding
-  Updated: 2026-03-18T07:26:57Z
+  Updated: 2026-04-04T16:52:18Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/9_beba6c50-af85-4abb-a628-dbdb6a5cf258.jpg?v=1774598399
   Price: $98.50 USD
 - [Ramie Woven Bamboo Blinds & Shades | Almond](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-almond): Ramie Woven Bamboo Blinds & Shades in Almond offer eco-friendly bamboo, natural woven texture, and soft light filtering for warm elegant, and timeless
-  Updated: 2026-04-01T00:32:36Z
+  Updated: 2026-04-10T20:10:39Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/2_8c83500c-31fe-420f-8faf-65bd534e9d1d.png?v=1774598399
   Price: $98.50 USD
 - [Ramie Woven Bamboo Blinds & Shades | Honeynut](https://neutralcurtains.com/products/ramie-woven-bamboo-blinds-shades-honeynut): Ramie Woven Bamboo Blinds & Shades in Honeynut provide eco-friendly bamboo design, durable construction, and soft light filtering for a warm
-  Updated: 2026-03-30T19:15:17Z
+  Updated: 2026-04-09T20:35:30Z
   Vendor: Neutral Curtains
   Product Type: bamboo shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/30f3c3373fe230a093b634a021da0a29_1_83ad3e95-e7d3-4535-b21a-924260cf1ace.jpg?v=1774598399
   Price: $135.00 USD
 - [Bella Cotton Relaxed Roman Shades & Blinds | Neutral Curtains](https://neutralcurtains.com/products/bella-cotton-roman-shades-blinds-relaxed): Enjoy a seamless design and beautiful texture with this high-end linen construction. Effortless cordless operation keeps windows looking neat and tidy. Perfect for any room or style. Width range: 20-55 inches; Length range: 32-70 inches. Blinds roman comes with a header and hardware. Made of 90% polyester and 10% linen blend. Headrail size： Long as roman shade width, 1-1/4''h x 1-3/8''d. Inside Mounted: Measure the window inside width and height. Deduct 3/8 inch on the window width to get the shade width to ensure a proper fit inside the window frame, shade height could be the same as the window height. Ensure you have enough window depth, at least 2 inches. Outside Mounted: Measure the window frame width and height. Add 3-6 inches to the window frame width and 8-10 inches to the window frame height. Install on the frame, shade size could be the same or slightly smaller than the window size. The aluminum headrail and rod is detachable and can be removed to clean the curtain. After washing, it is recommended to iron and level the assembly.
-  Updated: 2026-03-27T13:05:49Z
+  Updated: 2026-04-07T21:26:07Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -3712,7 +3712,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/60_84b14220-f13d-4be7-9cb6-bef7dcdb848c.png?v=1773391366
     Price: $70.99 USD
 - [Lily Linen Relaxed Roman Shades & Blinds | Neutral Curtains](https://neutralcurtains.com/products/lily-linen-roman-shades-blinds-relaxed): Discover Lily Linen Relaxed Roman Shades & Blinds for a soft, natural look. Elegant fabrics and relaxed design for timeless window décor
-  Updated: 2026-04-03T15:55:09Z
+  Updated: 2026-04-10T12:53:40Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -3870,7 +3870,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1908-37_4e040986-6736-4e20-b4d8-2ab3a3029ee3.jpg?v=1774432202
     Price: $39.99 USD
 - [Kelly Relaxed Linen Roman Shades & Blinds | Neutral Curtains](https://neutralcurtains.com/products/kelly-linen-roman-shades-blinds-relaxed): Enjoy a seamless design and beautiful texture with this high-end linen construction. Effortless cordless operation keeps windows looking neat and tidy. Perfect for any room or style. Width range: 20-55 inches; Length range: 32-70 inches. Blinds roman comes with a header and hardware. Made of 90% polyester and 10% linen blend. Headrail size： Long as roman shade width, 1-1/4''h x 1-3/8''d. Inside Mounted: Measure the window inside width and height. Deduct 3/8 inch on the window width to get the shade width to ensure a proper fit inside the window frame, shade height could be the same as the window height. Ensure you have enough window depth, at least 2 inches. Outside Mounted: Measure the window frame width and height. Add 3-6 inches to the window frame width and 8-10 inches to the window frame height. Install on the frame, shade size could be the same or slightly smaller than the window size. The aluminum headrail and rod is detachable and can be removed to clean the curtain. After washing, it is recommended to iron and level the assembly.
-  Updated: 2026-03-30T13:37:33Z
+  Updated: 2026-04-10T18:17:10Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -4328,7 +4328,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/1908-7.jpg?v=1768531539
     Price: $49.99 USD
 - [Linen Curtains & Drapes Ripple Fold  | Lily](https://neutralcurtains.com/products/lily-linen-curtains-drapes-ripple-fold): Discover the Linen Serpentine Drape at Texture Curtains. Elegant design meets quality. Perfect for modern homes. Shop now with Free Shipping!
-  Updated: 2026-03-10T04:11:03Z
+  Updated: 2026-04-09T22:08:47Z
   Vendor: Neutral
   Product Type: curtains & drapes
   Availability: Available
@@ -4817,35 +4817,35 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Availability: Available
     Price: $81.99 USD
 - [#BLJ17-0 Paper White](https://neutralcurtains.com/products/blj17-0-paper-white)
-  Updated: 2026-04-03T00:21:18Z
+  Updated: 2026-04-08T17:02:16Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-0.png?v=1728886846
   Price: $0.00 USD
 - [#BLJ17-1 Ivory White](https://neutralcurtains.com/products/blj17-1-ivory-white)
-  Updated: 2026-04-02T20:28:58Z
+  Updated: 2026-04-08T17:32:09Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-1.png?v=1728887359
   Price: $0.00 USD
 - [#BLJ17-2 Light Khaki](https://neutralcurtains.com/products/blj17-2-light-khaki)
-  Updated: 2026-04-01T12:27:27Z
+  Updated: 2026-04-10T11:11:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-2.png?v=1728887412
   Price: $0.00 USD
 - [#BLJ17-3 Taupe Gray](https://neutralcurtains.com/products/blj17-3-taupe-gray)
-  Updated: 2026-03-16T16:55:09Z
+  Updated: 2026-04-10T00:34:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-3.png?v=1728887872
   Price: $0.00 USD
 - [#BLJ17-4 Sepia Ebony](https://neutralcurtains.com/products/blj17-4-sepia-ebony)
-  Updated: 2026-03-31T22:02:26Z
+  Updated: 2026-04-05T03:51:38Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -4866,91 +4866,91 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-6.png?v=1728888104
   Price: $0.00 USD
 - [#BLJ17-7  Yellow](https://neutralcurtains.com/products/blj17-7-yellow)
-  Updated: 2026-04-03T04:06:01Z
+  Updated: 2026-04-10T00:34:54Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-7.png?v=1728888131
   Price: $0.00 USD
 - [#BLJ17-8 Mustard](https://neutralcurtains.com/products/blj17-8-mustard)
-  Updated: 2026-03-22T23:22:07Z
+  Updated: 2026-04-10T00:34:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-8.png?v=1728888148
   Price: $0.00 USD
 - [#BLJ17-9 Olive Green](https://neutralcurtains.com/products/blj17-9-olive-green)
-  Updated: 2026-03-11T01:53:16Z
+  Updated: 2026-04-06T23:45:26Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-9.png?v=1728888176
   Price: $0.00 USD
 - [#BLJ17-10 Grass Green](https://neutralcurtains.com/products/blj17-10-grass-green)
-  Updated: 2026-03-30T21:19:17Z
+  Updated: 2026-04-06T23:45:51Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-10.png?v=1728888214
   Price: $0.00 USD
 - [#BLJ17-11 Peacock](https://neutralcurtains.com/products/blj17-11-peacock)
-  Updated: 2026-04-03T04:06:02Z
+  Updated: 2026-04-06T23:45:26Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-11.png?v=1728888258
   Price: $0.00 USD
 - [#BLJ17-13 Matcha Color](https://neutralcurtains.com/products/blj17-13-matcha-color)
-  Updated: 2026-03-26T04:12:27Z
+  Updated: 2026-04-06T23:45:26Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-13.png?v=1728888278
   Price: $0.00 USD
 - [#BLJ17-16 Everglade Teal](https://neutralcurtains.com/products/blj17-16-everglade-teal)
-  Updated: 2026-04-01T00:02:18Z
+  Updated: 2026-04-10T23:19:08Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-16.png?v=1728888322
   Price: $0.00 USD
 - [#BLJ17-18 Sky Blue](https://neutralcurtains.com/products/blj17-18-sky-blue)
-  Updated: 2026-04-02T10:22:26Z
+  Updated: 2026-04-08T16:49:48Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-18.png?v=1728888413
   Price: $0.00 USD
 - [#BLJ17-20 Pink](https://neutralcurtains.com/products/blj17-20-pink)
-  Updated: 2026-04-02T00:03:05Z
+  Updated: 2026-04-09T15:56:36Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-20.png?v=1728889481
   Price: $0.00 USD
 - [#BLJ17-24 Tan](https://neutralcurtains.com/products/blj17-24-tan)
-  Updated: 2026-03-30T11:16:25Z
+  Updated: 2026-04-06T01:57:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-24.png?v=1728892037
   Price: $0.00 USD
 - [#BLJ17-25 Pale](https://neutralcurtains.com/products/blj17-25-pale)
-  Updated: 2026-03-30T21:32:36Z
+  Updated: 2026-04-07T06:29:07Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-25.png?v=1728893483
   Price: $0.00 USD
 - [#BLJ17-26 Light Gray](https://neutralcurtains.com/products/blj17-26-light-gray)
-  Updated: 2026-04-02T20:28:57Z
+  Updated: 2026-04-06T14:01:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-26.png?v=1728892148
   Price: $0.00 USD
 - [#BLJ17-27 Dark Gray](https://neutralcurtains.com/products/blj17-27-dark-gray)
-  Updated: 2026-04-02T20:28:58Z
+  Updated: 2026-04-06T14:01:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -4971,7 +4971,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-30.png?v=1728892228
   Price: $0.00 USD
 - [#BLJ17-36 Raw White](https://neutralcurtains.com/products/blj17-36-raw-white)
-  Updated: 2026-04-02T20:28:57Z
+  Updated: 2026-04-09T15:56:36Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -4985,28 +4985,28 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-39.png?v=1728892307
   Price: $0.00 USD
 - [#BLJ17-43 Medium Gray](https://neutralcurtains.com/products/blj17-43-medium-gray)
-  Updated: 2026-04-02T20:28:57Z
+  Updated: 2026-04-06T14:01:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-43.png?v=1728892356
   Price: $0.00 USD
 - [#BLJ17-45 Dark Green](https://neutralcurtains.com/products/blj17-45-dark-green)
-  Updated: 2026-04-01T18:36:47Z
+  Updated: 2026-04-06T23:50:05Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-45.png?v=1728892391
   Price: $0.00 USD
 - [#BLJ17-52 Emperor Yellow](https://neutralcurtains.com/products/blj17-52-emperor-yellow)
-  Updated: 2026-03-11T01:53:16Z
+  Updated: 2026-04-06T23:50:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BLJ17-52.png?v=1728892420
   Price: $0.00 USD
 - [#BLJ17-55  Dark Blue](https://neutralcurtains.com/products/blj17-55-dark-blue)
-  Updated: 2026-03-31T15:06:48Z
+  Updated: 2026-04-10T23:19:10Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -5728,21 +5728,21 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/17-55_919ccc99-436c-4242-80ce-64fd7b67a7b5.jpg?v=1758012627
     Price: $69.99 USD
 - [Liz Linen Herringbone](https://neutralcurtains.com/products/liz-fabric): Description: Made of 20% linen and 80% polyester blend, 350 gsm. Eco-friendly dye,the classic herringbone fabric. Dry Clean. 14 color options for each book. Buy 1 Get 1 Free Lining Book Shipping: Lead Time: 3-5 days. Learn more about Shipping. The shipping time provided on our website is a guide only and represents the time frame that 95% of orders are filled within.Once orders are shipped, you'll receive a tracking number to follow up with carrier. Worldwide shipping. Return: Sample books are not returnable. Learn more about Return Policy.
-  Updated: 2026-04-02T12:14:37Z
+  Updated: 2026-04-10T00:31:28Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Liz-RC.jpg?v=1763975601
   Price: $1.50 USD
 - [B701 White](https://neutralcurtains.com/products/b701-white)
-  Updated: 2026-04-03T00:24:34Z
+  Updated: 2026-04-10T15:02:57Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/White.jpg?v=1773733601
   Price: $0.00 USD
 - [B702 Off white](https://neutralcurtains.com/products/b702-off-white)
-  Updated: 2026-04-03T00:24:37Z
+  Updated: 2026-04-09T15:55:27Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -5756,14 +5756,14 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/beige_bddaaa36-59bc-4500-aa71-b88844f79168.png?v=1773733667
   Price: $0.00 USD
 - [B704 Oatmeal](https://neutralcurtains.com/products/b704-oatmeal)
-  Updated: 2026-03-31T11:05:20Z
+  Updated: 2026-04-09T15:55:28Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Oatmeal.jpg?v=1773733687
   Price: $0.00 USD
 - [B705 Eucalyptus](https://neutralcurtains.com/products/b705-eucalyptus)
-  Updated: 2026-04-02T20:45:41Z
+  Updated: 2026-04-10T11:11:58Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -5777,28 +5777,28 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Camel.jpg?v=1773733735
   Price: $0.00 USD
 - [B707 Walnut](https://neutralcurtains.com/products/b707-walnut)
-  Updated: 2026-04-01T23:22:47Z
+  Updated: 2026-04-10T11:11:58Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/walnut.jpg?v=1773733756
   Price: $0.00 USD
 - [B708 Tobacco](https://neutralcurtains.com/products/b708-tobacco)
-  Updated: 2026-03-28T17:07:46Z
+  Updated: 2026-04-07T21:31:06Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Tobacco.jpg?v=1773733779
   Price: $0.00 USD
 - [B709 Prussian blue](https://neutralcurtains.com/products/b709-prussian-blue)
-  Updated: 2026-03-31T15:06:43Z
+  Updated: 2026-04-10T23:19:09Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Prussianblue.png?v=1773733810
   Price: $0.00 USD
 - [B710 Midnight](https://neutralcurtains.com/products/b710-midnight)
-  Updated: 2026-03-23T21:05:49Z
+  Updated: 2026-04-06T14:01:29Z
   Vendor: Neutral
   Product Type: Fabric Swatches
   Availability: Available
@@ -5923,7 +5923,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Availability: Available
     Price: $89.99 USD
 - [Belgian Flax Linen Roman Shades & Blinds](https://neutralcurtains.com/products/belgian-linen-roman-shades-blinds): Custom Belgian Linen Plain Fold Roman Shades. Add a touch of elegance to your home with our high-quality curtains. Shop now and enjoy free shipping!
-  Updated: 2026-04-03T22:13:27Z
+  Updated: 2026-04-09T23:39:17Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
@@ -5995,50 +5995,50 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/EucalyptusB705_2.jpg?v=1774341501
     Price: $99.99 USD
 - [Belgian Flax Linen Roman Shades & Blinds | Relaxed](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed): Custom Belgian Linen Relaxed Roman Shades. Add a touch of elegance to your home with our high-quality curtains. Shop now and enjoy free shipping!
-  Updated: 2026-04-03T20:05:08Z
+  Updated: 2026-04-10T18:58:17Z
   Vendor: Neutral
   Product Type: roman shades
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/2_3174435e-3b03-4264-aee7-3f8656c760e3.jpg?v=1769761222
   - [White B701](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745413418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/White_B701.jpg?v=1774340595
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/White_B701.jpg?v=1775814774
     Price: $99.99 USD
   - [Off white B702](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745446186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/off_white_B702.jpg?v=1774340595
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/off_white_B702.jpg?v=1775814774
     Price: $99.99 USD
   - [Beige B703](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745478954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BeigeB703.jpg?v=1774340595
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/BeigeB703.jpg?v=1775814774
     Price: $99.99 USD
   - [Oatmeal B704](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745511722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/OatmealB704_c868d19b-5eb2-4b07-a9d5-e284eed5a86a.jpg?v=1774340595
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/OatmealB704_c868d19b-5eb2-4b07-a9d5-e284eed5a86a.jpg?v=1775814774
     Price: $99.99 USD
   - [Eucalyptus B705](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745544490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/EucalyptusB705.jpg?v=1774340595
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/EucalyptusB705.jpg?v=1775814774
     Price: $99.99 USD
   - [Camel B706](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745577258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/CamelB706.jpg?v=1774340595
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/CamelB706.jpg?v=1775814774
     Price: $99.99 USD
   - [walnut B707](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745610026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Walnut_B707.jpg?v=1774340595
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Walnut_B707.jpg?v=1775814774
     Price: $99.99 USD
   - [Tobacco B708](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745642794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Tobacco_B708.jpg?v=1774340411
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Tobacco_B708.jpg?v=1775814774
     Price: $99.99 USD
   - [Prussian blue B709](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745675562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Prussian_blue_B709.jpg?v=1774340411
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/Prussian_blue_B709.jpg?v=1775814774
     Price: $99.99 USD
   - [Midnight B710](https://neutralcurtains.com/products/belgian-linen-flax-roman-shades-blinds-cord-lift-relaxed?variant=49463745708330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MidnightB710.jpg?v=1774340411
+    Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/MidnightB710.jpg?v=1775814774
     Price: $99.99 USD
 - [Belgian Flax Linen Curtains & Drapes Ripple Fold](https://neutralcurtains.com/products/belgian-flax-linen-curtains-drapes-ripple-fold): Discover the Belgian Linen Ripple Fold Drape at Texture Curtains. Elegant design meets quality. Perfect for modern homes. Shop now with Free Shipping!
   Updated: 2026-03-31T14:27:20Z
@@ -6077,21 +6077,21 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Availability: Available
     Price: $125.99 USD
 - [Belgian Flax Linen Book](https://neutralcurtains.com/products/belgian-flax-linen): Discover the Belgian Flax Linen Book a curated collection of premium linen fabrics perfect for creating elegant, durable, and stylish curtains  home décor
-  Updated: 2026-04-03T20:32:00Z
+  Updated: 2026-04-10T04:00:43Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/belgain_1.webp?v=1765965899
   Price: $2.49 USD
 - [WS118 Beige Fog](https://neutralcurtains.com/products/ws118)
-  Updated: 2026-03-26T00:04:26Z
+  Updated: 2026-04-10T00:57:17Z
   Vendor: Neutral Curtains
   Product Type: Fabric Swatches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/ws118.jpg?v=1730684279
   Price: $0.00 USD
 - [W118 White Carbon](https://neutralcurtains.com/products/w118)
-  Updated: 2026-03-26T00:04:26Z
+  Updated: 2026-04-10T00:57:17Z
   Vendor: Neutral Curtains
   Product Type: Fabric Swatches
   Availability: Available
@@ -6467,21 +6467,21 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Availability: Available
     Price: $69.99 USD
 - [Vivienne Fabric](https://neutralcurtains.com/products/vivienne-fabric): Discover Vivienne Fabric, a luxurious collection featuring refined textures and timeless patterns. Perfect for curtains, upholstery, and décor projects
-  Updated: 2026-04-02T12:14:50Z
+  Updated: 2026-04-07T00:52:26Z
   Vendor: Neutral Curtains
   Product Type: fabric books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/compressed_vivi_1.jpg?v=1765965867
   Price: $2.49 USD
 - [KOL Order Only](https://neutralcurtains.com/products/kol-order-only)
-  Updated: 2026-04-03T09:36:00Z
+  Updated: 2026-04-10T08:05:06Z
   Vendor: Neutral Curtains
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/IMG_3528__1_82f9b404-7e9d-4aac-843f-31652315073d.jpg?v=1757312856
   Price: $0.00 USD
 - [Lily Linen Blackout Curtains & Drapes](https://neutralcurtains.com/products/lily-linen-blackout-curtains-drapes): Discover the blackout Linen drape at texture curtains. Elegant design meets quality. Perfect for modern homes. Shop now .
-  Updated: 2026-03-31T16:21:27Z
+  Updated: 2026-04-07T09:46:32Z
   Vendor: Neutral
   Product Type: curtains & drapes
   Availability: Available
@@ -6637,7 +6637,7 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
     Image: https://cdn.shopify.com/s/files/1/0863/4200/9130/files/37.jpg?v=1772266236
     Price: $59.99 USD
 - [Kelly Faux Linen Durable Blackout Curtain | Neutral Curtains](https://neutralcurtains.com/products/kelly-faux-linen-blackout-curtains-drapes): This kelly curtain is made of faux linen fabric. Due to the addition of polyester fiber, the curtains are durable and elastic, not easily deformed, and very beautiful.
-  Updated: 2026-03-10T04:11:23Z
+  Updated: 2026-04-09T15:22:58Z
   Vendor: Neutral
   Product Type: curtain
   Availability: Available
@@ -6727,241 +6727,241 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
 ## Collections
 
 - [Liz Linen curtains](https://neutralcurtains.com/collections/tex-swatches): liz linen
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 39
 - [Jenna Fabric](https://neutralcurtains.com/collections/jar)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 23
 - [Bella Fabric](https://neutralcurtains.com/collections/bella): isabella
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 38
 - [Kelly Fabric](https://neutralcurtains.com/collections/kelly-linen)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 20
 - [Custom Bamboo Shades By Netural Curtains](https://neutralcurtains.com/collections/bamboo-shades): Bamboo Shades offer natural style, eco-friendly materials, and soft light filtering, providing warm texture, durable quality any room or decor
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 207
 - [Custom Linen Curtains By Neutral Curtains](https://neutralcurtains.com/collections/linen-curtains): Shop Linen Curtains for  natural, elegant look. Discover breathable, high-quality linen fabrics that add timeless charm
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 45
 - [Cotton Curtains](https://neutralcurtains.com/collections/cotton-curtains): Shop Cotton Curtains for a light, airy, and elegant touch. Discover soft, durable fabrics that bring natural beauty and comfort to any space.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [Maillard Fabric](https://neutralcurtains.com/collections/maillard): Maillard Fabric offers premium quality, soft texture, and durable performance, perfect for upholstery, curtains, and home décor projects
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 37
 - [Velvet Curtains](https://neutralcurtains.com/collections/velvet-curtains): Indulge in luxury with velvet curtains plush fabrics rich texture elegant drape  optional blackout liner for timeless style and premium comfort in any room
-  Updated: 2026-04-02T11:23:24Z
+  Updated: 2026-04-08T11:30:48Z
   Total Products: 7
 - [Grommet Curtains](https://neutralcurtains.com/collections/grommet): Shop Grommet Curtains  stylish and easy-to-hang curtains with durable grommets, perfect for adding a modern and elegant touch to any room.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 15
 - [Soft Top Curtains](https://neutralcurtains.com/collections/soft-top): Shop Soft Top curtains  elegant drape style, linen & cotton fabrics, optional blackout liners, and effortless movement tailored for timeless interiors.
   Updated: 2026-03-30T11:22:23Z
   Total Products: 13
 - [Lily Collection](https://neutralcurtains.com/collections/lily-collection): Transform your space with Lily Linen Curtains — crafted from a blend of 80% polyester and 20% linen, offering warmth, serenity, and timeless elegance for your home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 39
 - [Jenna Collection](https://neutralcurtains.com/collections/jenna-collection): Elevate your home decor with the Jenna Linen Curtains — expertly crafted from a luxuriously soft blend of 73% linen and 27% cotton for a refined
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 28
 - [Kelly Collection](https://neutralcurtains.com/collections/kelly-collection): Expertly crafted from a high-quality blend of 90% polyester and 10% linen, the Kelly Linen offers a stylish and practical window covering solution.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 25
 - [maillard collection](https://neutralcurtains.com/collections/maillard-collection): Discover the Maillard collection  luxurious velvet fabrics with softness rich textures & elegant drape. Ideal for custom curtains & shades with timeless beauty.
-  Updated: 2026-04-02T11:23:24Z
+  Updated: 2026-04-08T11:30:52Z
   Total Products: 23
 - [Fabric Books](https://neutralcurtains.com/collections/fabric-books): Explore our fabric books receive sample sets of premium curtain fabrics, compare finishes and textures, choose confidently for your custom drapery
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 37
 - [All Bamboo books](https://neutralcurtains.com/collections/bamboo-books): All Bamboo books Our factory will make a 3/8" deduction from the total width. Please do not make your own deductions, and do not add
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 9
 - [Pleated Curtains](https://neutralcurtains.com/collections/pleat): Pleated Curtains add classic elegance and structured style to any room, offering smooth folds, versatile light control, and timeless design for modern
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 31
 - [25% Off  on Neutral Curtains](https://neutralcurtains.com/collections/): Enjoy 25% Off  on Neutral Curtains. Shop elegant, modern & premium quality curtains to enhance your home décor at discounted prices.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 498
 - [Pleat curtains](https://neutralcurtains.com/collections/pleat-curtains)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 31
 - [Roman Shades Modern Design by Netural Curtains](https://neutralcurtains.com/collections/roman-shades): Roman Shades provide a unique living experience with personalized color matching and expert guidance on color and fabric choices for Roman shades
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 207
 - [Flat Fold Roman Shades](https://neutralcurtains.com/collections/flat-fold-roman-shades): Extra Wide Bamboo Shades offer eco-friendly, natural window coverings with smooth operation, durable design, and versatile light control
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 58
 - [Ripple Fold Curtains](https://neutralcurtains.com/collections/ripple-fold-header): Shop Ripple Fold Curtains   sleek, modern, and easy-to-use curtains that create uniform folds for a stylish and contemporary window .
-  Updated: 2026-04-01T11:24:27Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 11
 - [Liz Fabric](https://neutralcurtains.com/collections/liz-fabric)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 28
 - [New](https://neutralcurtains.com/collections/new): Discover what’s New  explore the latest arrivals in curtains, fabrics, and shades featuring fresh designs, premium materials modern styles for your home
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 145
 - [Liz Linen Curtains](https://neutralcurtains.com/collections/liz-linen-curtains): Liz Linen Curtains offer a soft, natural drape with breathable linen fabric, providing elegant style, gentle light filtering
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [French Pleated Curtains](https://neutralcurtains.com/collections/french-pleated-header)
-  Updated: 2026-03-25T11:20:59Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 15
 - [Belgian Linen Fabric](https://neutralcurtains.com/collections/belgian-linen)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 10
 - [Belgian Flax Collection](https://neutralcurtains.com/collections/belgian-flax-collection): Natural European flax, breathable and durable. Modern designs with timeless elegance. Learn About Belgian Linen
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 28
 - [Vivienne Fabric](https://neutralcurtains.com/collections/vivienne)
-  Updated: 2026-04-02T11:23:24Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 14
 - [Plaid Striped Roman Shades](https://neutralcurtains.com/collections/plaid-striped-collection): Delivery Time: 7-9 Days
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 23
 - [Buyer Protection  exclusion](https://neutralcurtains.com/collections/buyer-protection--exclusion): Buyer Protection items are excluded from discounts. Shop custom curtains with transparent pricing, secure checkout and reliable service.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 980
 - [Bestsellers](https://neutralcurtains.com/collections/best-sellers): Explore our Best Sellers top-rated curtains and fabrics loved by customers for their style, quality, and timeless appeal. Find your perfect pick today!
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 72
 - [all products](https://neutralcurtains.com/collections/all-products): Shop all custom window treatments linen, cotton & silk curtains, roman shades, and bamboo blinds crafted to bring warmth and style to every space.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 592
 - [Annie](https://neutralcurtains.com/collections/annie): Provide complete light blockage, ensuring better sleep and privacy. Delivery time 7-9 days
-  Updated: 2026-03-30T11:22:27Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 20
 - [Blackout Curtains](https://neutralcurtains.com/collections/blackout-cutains): Provide complete light blockage, ensuring better sleep and privacy.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 19
 - [Premium Blackout Roman Shades by Neutral Curtains](https://neutralcurtains.com/collections/blackout-roman-shades): Achieve a unique living experience with personalized color matching and expert guidance on color and fabric choices for Roman blinds.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 15
 - [Annie Polyester Curtains](https://neutralcurtains.com/collections/annie-curtains): Dimensions Provide complete light blockage, ensuring better sleep and privacy.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 10
 - [Annie Fabric](https://neutralcurtains.com/collections/annie-fabric)
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 13
 - [drapery](https://neutralcurtains.com/collections/drapery): Shop our custom drapery collection at Neutral Curtains  tailored linen, cotton  silk fabrics, versatile header styles and liners for elegant window designs
   Updated: 2026-03-10T04:10:14Z
   Total Products: 0
 - [Liner-Fabric](https://neutralcurtains.com/collections/liner-fabric)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 10
 - [Extra Wide Bamboo Shades](https://neutralcurtains.com/collections/extra-wide-roman-shade): Extra Wide Bamboo Shades offer eco-friendly, natural window coverings with smooth operation, durable design, and versatile light control
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 207
 - [Extra Wide Roman Shades](https://neutralcurtains.com/collections/extra-wide-roman-shades): Extra Wide Roman Shades provide elegant, soft-fold designs for large windows, offering smooth operation, versatile light control, and a stylish
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 194
 - [Top Down Bamboo](https://neutralcurtains.com/collections/top-down-bottom-up-bamboo-shade)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 69
 - [Pattern Curtains](https://neutralcurtains.com/collections/vivienne-curtains): Shop Pattern Curtains  stylish designs and vibrant prints that bring character, elegance, and personality to every room in your home.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-07T11:24:45Z
   Total Products: 7
 - [Ivy Bamboo Shades](https://neutralcurtains.com/collections/ivy-bamboo): Ivy Bamboo Shades bring natural elegance to your windows with eco-friendly bamboo, smooth operation, and versatile light control, adding style
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 59
 - [Cafe Curtains](https://neutralcurtains.com/collections/cafe-curtains): Cafe Curtains add charm and privacy to your kitchen or dining space with stylish, light-filtering fabrics that create a cozy, inviting,
-  Updated: 2026-03-28T11:23:54Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 8
 - [Ramie Bamboo Shades](https://neutralcurtains.com/collections/ramie): Ramie Bamboo Shades—naturally woven, eco-chic textures that filter sunlight softly while adding organic warmth to modern spaces.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 52
 - [No-drill Shades](https://neutralcurtains.com/collections/no-drill-shades)
   Updated: 2026-03-22T11:21:52Z
   Total Products: 2
 - [Premium No-Drill Bamboo Shades | Easy & Instant Installation](https://neutralcurtains.com/collections/no-drill-bamboo-shades): Shop our premium No-Drill Bamboo Shades for a natural, eco-friendly look. Designed for easy 30-second installation without tools.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 200
 - [Top Down Bottom Up Bamboo No-Drill Shades](https://neutralcurtains.com/collections/no-drill-top-down-bottom-up-bamboo-shades): ETD: 3-5 Days
   Updated: 2026-03-10T04:10:15Z
   Total Products: 48
 - [No-Drill Roman Shades](https://neutralcurtains.com/collections/no-drill-roman-shades): Upgrade your windows with No Drill Roman Shades  stylish, easy-to-install shades that provide elegance and privacy without the need for drilling
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 88
 - [Silk Roman Shades](https://neutralcurtains.com/collections/silk-roman-shades): Silk Roman Shades combine luxurious fabric, elegant soft folds, and smooth operation to provide refined style, gentle light control,
-  Updated: 2026-03-31T11:22:48Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 9
 - [Mona Fabric](https://neutralcurtains.com/collections/mona-fabric)
   Updated: 2026-03-10T04:10:15Z
   Total Products: 12
 - [Lora Fabric](https://neutralcurtains.com/collections/lora-fabric)
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 18
 - [Rina Fabric](https://neutralcurtains.com/collections/rina-fabric)
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 18
 - [Flame Retardant Curtains](https://neutralcurtains.com/collections/flame-retardant-curtains): Shop Flame Retardant Curtains  safe, stylish, and high-quality curtains designed to provide fire resistance while enhancing the elegance of your home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 12
 - [Buy 1 Get 1](https://neutralcurtains.com/collections/buy-one-get-one)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 25
 - [linen fabric](https://neutralcurtains.com/collections/linen-fabric)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 10
 - [cotton fabric](https://neutralcurtains.com/collections/cotton-fabric)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 10
 - [Velvet fabric](https://neutralcurtains.com/collections/velvet-fabric)
-  Updated: 2026-04-02T11:23:24Z
+  Updated: 2026-04-08T11:30:48Z
   Total Products: 1
 - [bamboo fabric](https://neutralcurtains.com/collections/bamboo-fabric): Explore our bamboo fabric best collection  sustainable breathable natural textiles perfect for curtains shades. Discover elegant eco-friendly options today
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 8
 - [Polyester fabric](https://neutralcurtains.com/collections/polyester-fabric)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 1
 - [Mona Fabric](https://neutralcurtains.com/collections/mona-fabric-1)
   Updated: 2026-03-10T04:10:16Z
   Total Products: 12
 - [Lora Fabric](https://neutralcurtains.com/collections/lora-fabric-1)
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 18
 - [Rina Fabric](https://neutralcurtains.com/collections/rina-fabric-1)
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 18
 - [Top Down Bottom Up No-Drill Roman Shades](https://neutralcurtains.com/collections/no-drill-roman-shades-1): ETD: 3-5 Days.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-06T11:19:02Z
   Total Products: 11
 - [Silk Fabric](https://neutralcurtains.com/collections/silk-fabric)
-  Updated: 2026-03-28T11:23:54Z
+  Updated: 2026-04-07T11:24:45Z
   Total Products: 5
 - [Single Fabric Books](https://neutralcurtains.com/collections/single-fabric-books): Explore Single Fabric Books   a curated collection of high-quality fabrics perfect for curtains, upholstery, and home décor projects.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 27
 - [Booklet Collection](https://neutralcurtains.com/collections/booklet-collection): Explore our Booklet Collection – a curated range of fabric and curtain samples, helping you choose the perfect designs and textures for your home décor
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 9
 - [Ready-Made Curtains](https://neutralcurtains.com/collections/ready-made-curtains-shades): Up to 63% Off Production Time: 1-2 days Delivery Time: 3-5 business days by UPS, DHL and FedEx
   Updated: 2026-04-01T11:24:27Z
   Total Products: 6
 - [Flame Retardant Roman Shades](https://neutralcurtains.com/collections/flame-retardant-roman-shades): Flame Retardant Roman Shades provide stylish, safe window coverings with soft folds, smooth operation, and effective fire resistance, ensuring elegance
-  Updated: 2026-03-30T11:22:27Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 8
 - [87 off over 300](https://neutralcurtains.com/collections/87-off-over-300): 87 off over 300 Discover high-quality custom curtains with stylish designs and affordable pricing at Neutral Curtains.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 591
 - [Nomi Bamboo Shades](https://neutralcurtains.com/collections/nomi-bamboo): Enhance your windows with Nomi Bamboo Shades  eco-friendly, stylish, and durable shades that add natural beauty and privacy to any room
-  Updated: 2026-04-02T11:23:24Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 52
 - [Vivienne Collection](https://neutralcurtains.com/collections/vivienne-collection): Made from a durable 80% polyester and 20% linen blend, it features a timeless plaid stripe design that combines classic charm with modern versatility.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-07T11:24:45Z
   Total Products: 21
 - [Liz Collection](https://neutralcurtains.com/collections/liz-collection): Transform your living room with a refined sense of style and privacy. The timeless herringbone pattern introduces an air of elegance, while the pleated design guarantees a tidy and sophisticated appearance. Made from a durable blend of 20% linen and 80% polyester, it combines comfort with lasting quality.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 28
 - [Natural Jute & Hemp Shades](https://neutralcurtains.com/collections/natural-jute-hemp-shades): Jute & Hemp shades are a stylish and environmentally conscious choice, giving windows a handcrafted, warm, and natural finish.
-  Updated: 2026-03-29T11:27:54Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 43
 - [Aura](https://neutralcurtains.com/collections/aura-fabric)
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 11
 - [Sheer Curtains](https://neutralcurtains.com/collections/sheer): Sheer curtains are lightweight, translucent window coverings that gently filter light while adding a soft, elegant touch to any room.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 2
 - [Same Color Lining](https://neutralcurtains.com/collections/same-color-lining): The same color lining ensures that both the front and back of the shade share a uniform appearance, making it an ideal choice for a polished look in any space.
   Updated: 2026-03-10T04:10:18Z
@@ -6970,49 +6970,49 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Updated: 2026-03-28T11:23:54Z
   Total Products: 18
 - [French Door Roman Shades by Neutral Curtains](https://neutralcurtains.com/collections/french-door): Elegant and practical, French door shades provide soft light filtering or full privacy. Choose from tailored fabrics to complement
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 11
 - [Soft Fold & Pleated Fold Roman Shades](https://neutralcurtains.com/collections/fold-roman-shades): Fold Roman shades offer elegant, space-saving window treatments with versatile light control and a timeless aesthetic.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 51
 - [Linen Roman Shades](https://neutralcurtains.com/collections/linen-roman-shades): Linen Roman Shades offer a natural, elegant look with soft fabric folds, smooth operation, and versatile light control
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 121
 - [Velvet Roman Shades](https://neutralcurtains.com/collections/velvet-roman-shades): Velvet Roman Shades offer luxurious soft folds, elegant texture, and smooth operation, providing refined light control and timeless style
-  Updated: 2026-03-15T11:23:58Z
+  Updated: 2026-04-08T11:30:52Z
   Total Products: 16
 - [Cotton Roman Shades](https://neutralcurtains.com/collections/cotton-roman-shades): Cotton Roman Shades combine natural, breathable fabric with elegant soft folds, smooth operation, and versatile light control
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 43
 - [Silk Roman Shades](https://neutralcurtains.com/collections/silk-roman-shades-1): Silk Roman Shades offer luxurious, soft folds with elegant draping, smooth operation, and perfect light control, adding sophistication
-  Updated: 2026-03-31T11:22:48Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 9
 - [Polyester Roman Shades](https://neutralcurtains.com/collections/polyester-roman-shades): Product Description Low-maintenance polyester curtains—fade-resistant, lightweight, and perfect for modern living.
   Updated: 2026-03-30T11:22:27Z
   Total Products: 11
 - [Lily Roman Shades](https://neutralcurtains.com/collections/lily-roman-shades): Lily Roman Shades offer stylish, soft-fold designs with smooth operation, perfect light control, and a timeless look to enhance the elegance
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 36
 - [Jenna Roman Shades](https://neutralcurtains.com/collections/jenna-roman-shades): Jenna linen shades—airy, earthy sophistication for sunlit serenity at home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 25
 - [Kelly Roman Shades](https://neutralcurtains.com/collections/kelly-roman-shades): Kelly linen shades—effortless style meets earthy charm for airy living.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 22
 - [Belgian Flax Roman Shades](https://neutralcurtains.com/collections/belgian-flax-roman-shades): Belgian Flax linen—artisan-woven, sun-kissed drapery with effortless continental sophistication. Learn About Belgian Linen
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 21
 - [Liz Roman Shades](https://neutralcurtains.com/collections/liz-roman-shades): Liz Herringbone linen—artisanal weave meets relaxed refinement in natural light.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [Vivienne Roman Shades](https://neutralcurtains.com/collections/vivienne-roman-shades): Vivienne Roman Shades bring timeless elegance and functional design with soft fabric folds, effortless operation and customizable light
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 20
 - [Maillard Roman Shades](https://neutralcurtains.com/collections/maillard-roman-shades): Maillard Velvet—deep-pile grandeur for dramatic warmth and noise-reducing elegance.
-  Updated: 2026-03-15T11:23:58Z
+  Updated: 2026-04-08T11:30:52Z
   Total Products: 16
 - [Bella Roman Shades](https://neutralcurtains.com/collections/bella-roman-shades): Bella cotton shades—sunlit simplicity meets laid-back comfort at home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 23
 - [Mona Roman Shades](https://neutralcurtains.com/collections/mona-roman-shades): Mona Roman Shades combine elegant soft folds with smooth operation and versatile light control, adding timeless style, comfort
   Updated: 2026-03-10T04:10:20Z
@@ -7021,61 +7021,61 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Updated: 2026-03-27T11:24:56Z
   Total Products: 3
 - [Rina Roman Shades](https://neutralcurtains.com/collections/rina-roman-shades): Rina silk blend—breathable sheen meets relaxed sophistication.
-  Updated: 2026-03-31T11:22:48Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 3
 - [Fold Roman Shade](https://neutralcurtains.com/collections/plain-fold-roman-shades): Fold Roman Shade sleek, space-saving elegance with crisp folds for tailored light control and modern minimalist style.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 78
 - [Relaxed Roman Shades](https://neutralcurtains.com/collections/relaxed-roman-shades): Relaxed Roman Shade—soft, cascading folds for a casually elegant look with gentle light control and organic texture.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [Tie Roman Shades](https://neutralcurtains.com/collections/tie-roman-shades): Tie Roman Shade—charmingly adjustable with fabric ties, offering rustic elegance and customizable light control for cozy interiors.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 71
 - [Swag Roman Shades by Neutral Curtains](https://neutralcurtains.com/collections/swag-roman-shades): Swag Roman Shade artfully draped with flowing fabric swags for romantic elegance and softly diffused natural light.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 64
 - [Motorized Roman Shades](https://neutralcurtains.com/collections/motorized-roman-shades): Whether greeting the day with soft sunlight, setting the mood for a relaxed evening, or ensuring privacy with one touch smart control makes it seamless.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 56
 - [Standard and Flat Fold Jute & Hemp Shades](https://neutralcurtains.com/collections/flat-fold-jute-hemp-shades): Jute & Hemp shades are a stylish and environmentally conscious choice, giving windows a handcrafted, warm, and natural finish.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [Top Down Bottom Up Jute & Hemp Shades](https://neutralcurtains.com/collections/top-down-bottom-up-jute-hemp-shades): Jute & Hemp shades are a stylish and environmentally conscious choice, giving windows a handcrafted, warm, and natural finish.
   Updated: 2026-03-27T11:24:56Z
   Total Products: 10
 - [No-drill Jute & Hemp Shades](https://neutralcurtains.com/collections/no-drill-jute-hemp-shades): Jute & Hemp shades are a stylish and environmentally conscious choice, giving windows a handcrafted, warm, and natural finish.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 44
 - [Motorized Jute & Hemp Shades](https://neutralcurtains.com/collections/motorized-jute-hemp-shades): Jute & Hemp shades are a stylish and environmentally conscious choice, giving windows a handcrafted, warm, and natural finish.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [Standard Bamboo Shades](https://neutralcurtains.com/collections/standard-bamboo-shades): Standard Bamboo Shades—naturally durable and eco-friendly, offering timeless texture and gentle light control for a serene, organic ambiance.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 108
 - [Top Down Bottom Up Bamboo Shades](https://neutralcurtains.com/collections/top-down-bottom-up-bamboo-shades): Shop Top Down Bottom Up Bamboo Shades  stylish, eco-friendly window coverings that offer natural light control, privacy, and a modern look for any room
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 103
 - [Motorized Bamboo Shades](https://neutralcurtains.com/collections/motorized-bamboo-shades): Upgrade your windows with motorized bamboo shades  handcrafted natural textures with quiet automation  remote control for modern eco-luxury living timeless
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 108
 - [Lily Curtains](https://neutralcurtains.com/collections/lily-curtains): Discover Lily Curtains  beautifully crafted designs that bring elegance, softness, and timeless charm to any room in your home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 13
 - [Jenna Curtains](https://neutralcurtains.com/collections/jenna-curtains): Jenna linen curtains airy, earthy sophistication for sunlit serenity at home.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-07T11:24:45Z
   Total Products: 9
 - [Kelly Curtains](https://neutralcurtains.com/collections/kelly-curtains): Kelly linen curtains—effortless style meets earthy charm for airy living.
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 7
 - [Bella Curtains](https://neutralcurtains.com/collections/bella-curtains): Discover Bella Curtains – premium quality curtains that bring elegance, style, and comfort to your home. Explore our wide range of designs and fabrics today
-  Updated: 2026-03-25T11:20:59Z
+  Updated: 2026-04-08T11:30:52Z
   Total Products: 10
 - [Belgian Flax Linen Curtains](https://neutralcurtains.com/collections/belgian-flax-linen-curtains): Belgian Flax linen—artisan-woven, sun-kissed drapery with effortless continental sophistication. Learn About Belgian Linen to Buy Now.
-  Updated: 2026-04-01T11:24:27Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 7
 - [Liz Curtains](https://neutralcurtains.com/collections/liz-curtains): Shop Liz Curtains  elegant, high-quality curtains designed to bring style, comfort, and sophistication to any room in your home.
-  Updated: 2026-03-30T11:22:27Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 8
 - [Vivienne Curtains](https://neutralcurtains.com/collections/vivienne-curtains-1): Elevate your home décor with Vivienne Curtains  luxurious stylish, and crafted for elegance. Explore premium fabrics  that bring sophistication
   Updated: 2026-03-25T11:20:59Z
@@ -7093,181 +7093,181 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Updated: 2026-03-28T11:23:54Z
   Total Products: 6
 - [Top Down Bottom Up Roman Shades](https://neutralcurtains.com/collections/top-down-bottom-up-roman-shades): Top Down Bottom Up Roman Shades provide versatile light control and privacy, allowing you to adjust from the top or bottom while adding elegance
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 31
 - [Hardware](https://neutralcurtains.com/collections/hardware): Get essentials for your windows - Mounting bracket & Adjust Pin Hooks.
-  Updated: 2026-03-20T03:27:22Z
+  Updated: 2026-04-05T11:23:15Z
   Total Products: 6
 - [Annie Roman Shades](https://neutralcurtains.com/collections/annie-roman-shades): Enhance your windows with Annie Roman Shades  stylish, custom-fit shades that combine elegance and functionality for a perfect home décor update.
   Updated: 2026-03-30T11:22:27Z
   Total Products: 11
 - [Shades](https://neutralcurtains.com/collections/shades): Discover amazing deals on discounted base price products – shop now for unbeatable savings!
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 456
 - [Curtains](https://neutralcurtains.com/collections/curtains): Shop Curtains in a variety of styles, fabrics, colors. Discover high-quality designs that add elegance, comfort, and personality  every room in your home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 108
 - [Limited-time ](https://neutralcurtains.com/collections/select-): Discover amazing deals on discounted base price products – shop now for unbeatable savings!
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 50
 - [Best Seller](https://neutralcurtains.com/collections/best-sellers-1)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 70
 - [Price adjuster](https://neutralcurtains.com/collections/price-adjuster): Use our price adjuster to customize curtain pricing based on size, fabric and style. Get the perfect fit at the best value for your home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 23
 - [All Curtains](https://neutralcurtains.com/collections/all-curtains): Explore our full range of custom curtains  from linen  silk to blackout and light-filtering styles. Find the perfect texture, colour and fit for your space.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 107
 - [Best- Fabric](https://neutralcurtains.com/collections/best--fabric): Discover our Best- Fabrics – high-quality, stylish, and perfect for curtains, upholstery, and home décor projects. Shop top favorites today!
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 11
 - [Pleated Fold Roman Shades](https://neutralcurtains.com/collections/pleated-fold-roman-shades): Pleated Fold Roman Shades combine classic elegance with functional design, offering precise light control, smooth operation
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 56
 - [Soft Fold Roman Shades](https://neutralcurtains.com/collections/soft-fold-roman-shades): Soft Fold Roman Shades offer elegant, layered fabric designs with smooth operation, light control, and a stylish, timeless look for any modern
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 56
 - [Plain Fold Roman Shades](https://neutralcurtains.com/collections/plain-fold-roman-shades-1): Feature crisp, flat folds for a tailored look with a compact stack height. Ideal for modern spaces seeking clean lines and efficient light control.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 60
 - [Bamboo Edge Binding Fabric](https://neutralcurtains.com/collections/bamboo-edge-binding-fabric)
   Updated: 2026-03-10T04:10:23Z
   Total Products: 10
 - [Composite Fabric](https://neutralcurtains.com/collections/composite-fabric): Composite fabric combine layers (e.g., fabric + lining), giving the shade a more structured shape. Ideal for insulation, and high-performance applications.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 2
 - [All (not included ready-made&Shipping Protection)](https://neutralcurtains.com/collections/all-not-included-ready-made)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 953
 - [Cove Curtains](https://neutralcurtains.com/collections/cove-curtains): Soft and versatile the Cove fabric blends 80% cotton 20% polyester, offering a natural feel with added durability for effortless everyday elegance.
-  Updated: 2026-03-31T11:22:48Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 5
 - [Cove Cotton Collection](https://neutralcurtains.com/collections/new-cove-cotton-collection): Explore the Cove Cotton Collection with soft, breathable fabrics, timeless designs, and durable quality perfect for adding comfort and style to any room
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 22
 - [Cove Collection](https://neutralcurtains.com/collections/cove-collection)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 8
 - [Cove Roman Shades](https://neutralcurtains.com/collections/cove-roman-shades): Soft and versatile, the Cove fabric blends 80% cotton and 20% polyester, offering a natural feel with added durability for effortless everyday elegance.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 20
 - [Willow Bamboo Shade](https://neutralcurtains.com/collections/willow-bamboo-shade): Explore natural willow bamboo shades that bring warmth, texture, and eco-friendly style to any room. Durable, elegant, and easy to install
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 26
 - [Bamboo shade(not including fabric book)](https://neutralcurtains.com/collections/bamboo-shadenot-including-fabric-book)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 201
 - [Green](https://neutralcurtains.com/collections/green)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 10
 - [willow bamboo shade standard](https://neutralcurtains.com/collections/willow-bamboo-shade-standard)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 14
 - [willow top down bottom up](https://neutralcurtains.com/collections/willow-top-down-bottom-up): Willow Top Down Bottom Up Shades provide versatile light control and privacy, allowing adjustment from top or bottom, with elegant design
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 12
 - [Bella-R](https://neutralcurtains.com/collections/bella-r)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 13
 - [French Door Bamboo Shade](https://neutralcurtains.com/collections/french-door-bamboo-shade): Elegant and practical, French door shades provide soft light filtering or full privacy. Choose from tailored fabrics to complement your doors’ timeless charm.For French doors, we don’t recommend corded or motorized shades—corded styles pose safety risks and motorized headrails are too wide.
-  Updated: 2026-04-02T11:23:24Z
+  Updated: 2026-04-09T11:26:27Z
   Total Products: 6
 - [Vista Roman Shades](https://neutralcurtains.com/collections/vista-roman-shades): Physical Blackout • Flame-Retardant • Eco-Friendly Fabric Soft, Elegant Drape • Ideal for Hotels, Hospitals, Schools & More Cotton Shades combine safety and sustainability with timeless elegance, bringing comfort and functionality to any space.
-  Updated: 2026-03-23T11:20:16Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 3
 - [Vista Curtains](https://neutralcurtains.com/collections/vista-curtains): Physical Blackout • Flame-Retardant • Eco-Friendly Fabric Soft, Elegant Drape • Ideal for Hotels, Hospitals, Schools & More Cotton Shades combine safety and sustainability with timeless elegance, bringing comfort and functionality to any space.
   Updated: 2026-04-03T11:25:56Z
   Total Products: 4
 - [Vista Collection](https://neutralcurtains.com/collections/vista-collection): Physical Blackout • Flame-Retardant • Eco-Friendly Fabric Soft, Elegant Drape • Ideal for Hotels, Hospitals, Schools & More Cotton Shades combine safety and sustainability with timeless elegance, bringing comfort and functionality to any space.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 9
 - [Vista Fabric](https://neutralcurtains.com/collections/vista-fabric): Physical Blackout • Flame-Retardant • Eco-Friendly Fabric Soft, Elegant Drape • Ideal for Hotels, Hospitals, Schools & More Cotton Shades combine safety and sustainability with timeless elegance, bringing comfort and functionality to any space.
-  Updated: 2026-03-28T11:23:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 9
 - [Exclusive Savings](https://neutralcurtains.com/collections/exclusive-savings): Enjoy up to 50% off savings with both base price reductions and an extra 25% off code.Use Code: Halo
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 31
 - [Thermal Curtains](https://neutralcurtains.com/collections/thermal-curtains): Thermal-Insulated • Energy-Efficient • Eco-Friendly Fabric Blocks Heat & Cold • Keeps Rooms Cozy Year-Round Designed for Comfort and Efficiency in Every Space
   Updated: 2026-04-03T11:25:56Z
   Total Products: 4
 - [Thermal Roman Shade](https://neutralcurtains.com/collections/thermal-roman-shade): Thermal-Insulated • Energy-Efficient • Eco-Friendly Fabric Blocks Heat & Cold • Keeps Rooms Cozy Year-Round Designed for Comfort and Efficiency in Every Space
-  Updated: 2026-03-23T11:20:16Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 3
 - [All (not included Shipping Protection)](https://neutralcurtains.com/collections/all-not-included-shipping-protection): Browse all Collections explore a wide range of premium curtains, fabrics, and shades designed to suit every style, space, and home décor theme.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 962
 - [Flash ](https://neutralcurtains.com/collections/flash-): Don’t miss our Flash ! Enjoy limited-time discounts on top-quality products, grab exclusive deals, and save big before time runs out
-  Updated: 2026-04-01T11:24:33Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 30
 - [Loxley Yarn-Dyed Fabric](https://neutralcurtains.com/collections/loxley-yarn-dyed-fabric): Yarn-dyed craftsmanshipLong-lasting colors with natural depth. 60% Cotton × 40% PolyesterSoft, durable, and easy to care for. Vintage StripesAdd natural, pastoral charm to your home.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 7
 - [Loxley Yarn-Dyed Collection](https://neutralcurtains.com/collections/loxley-yarn-dyed-collection): Yarn-dyed craftsmanshipLong-lasting colors with natural depth. 60% Cotton × 40% PolyesterSoft, durable, and easy to care for. Vintage StripesAdd natural, pastoral charm to your home.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 17
 - [Loxley Yarn-Dyed Roman Shades](https://neutralcurtains.com/collections/loxley-yarn-dyed-roman-shades): Yarn-dyed craftsmanshipLong-lasting colors with natural depth. 60% Cotton × 40% PolyesterSoft, durable, and easy to care for. Vintage StripesAdd natural, pastoral charm to your home.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 7
 - [New Drop](https://neutralcurtains.com/collections/new-drop): Explore 40+ New Arrivals
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 69
 - [Loxley Yarn-Dyed Curtains](https://neutralcurtains.com/collections/loxley-yarn-dyed-curtains): Yarn-dyed craftsmanshipLong-lasting colors with natural depth. 60% Cotton × 40% PolyesterSoft, durable, and easy to care for. Vintage StripesAdd natural, pastoral charm to your home.
-  Updated: 2026-03-30T11:22:23Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 5
-- [Day Night Roman Shade](https://neutralcurtains.com/collections/day-night-roman-shade): A dual-layer Roman shade offering flexible light control and privacy from day to night.
-  Updated: 2026-04-02T11:23:24Z
+- [Dual-layer Day Night Roman Shade](https://neutralcurtains.com/collections/day-night-roman-shade): A dual-layer Roman shade offering flexible light control and privacy from day to night.
+  Updated: 2026-04-10T01:36:06Z
   Total Products: 1
 - [](https://neutralcurtains.com/collections/): Shop our  section for amazing deals on high-quality products. Enjoy discounted prices, limited-time offers, and the chance to grab
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 12
 - [Roman Shades | Multiple Shades on 1 Headrail](https://neutralcurtains.com/collections/2-shades-on-1-headrail-roman): Struggling to cover an oversized window with one shade? Try using two blinds on one headrail to create a seamless, beautifully balanced look.
-  Updated: 2026-03-31T11:22:48Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 14
 - [Bamboo Shades | Multiple Shades on 1 Headrail](https://neutralcurtains.com/collections/2-shades-on-1-headrail-bamboo): Struggling to cover an oversized window with one shade? Try using two blinds on one headrail to create a seamless, beautifully balanced look.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 12
 - [Pillow](https://neutralcurtains.com/collections/pillow): Shop premium pillows designed for comfort, support, and better sleep. Explore soft, firm, and ergonomic options for every sleeper
   Updated: 2026-03-27T11:24:56Z
   Total Products: 2
 - [Bella Collection](https://neutralcurtains.com/collections/bella-collection): Discover Bella Curtains premium quality curtains that bring elegance, style, and comfort to your home. Explore our wide range of designs and fabrics today
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:27Z
   Total Products: 30
 - [Curtains with Trim Border](https://neutralcurtains.com/collections/curtains-with-trim-border): Explore elegant curtains with trim border designs that add style and sophistication to any room. Shop premium fabrics and modern finishes
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 29
 - [Roman Shades with Trim Border](https://neutralcurtains.com/collections/roman-shade-with-trim-border): Enhance your windows with Roman shades featuring stylish trim borders. Elegant designs, premium fabrics, and a perfect fit for any décor
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 30
 - [Aura Roman Shade](https://neutralcurtains.com/collections/aura-roman-shade)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-08T11:30:52Z
   Total Products: 2
 - [Plaid & striped Collection](https://neutralcurtains.com/collections/plaid-striped-collection-1): Discover our Plaid & Striped Collection featuring stylish patterns, versatile designs, and quality fabrics that add charm, texture,
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 41
 - [Hazel bamboo Shade](https://neutralcurtains.com/collections/hazel-bamboo-shade)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [Hazel Bamboo Shade Standard](https://neutralcurtains.com/collections/hazel-bamboo-shade-standard)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 13
 - [Hazel top down bottom up](https://neutralcurtains.com/collections/hazel-top-down-bottom-up)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 11
 - [Multi-Relaxed Roman Shades](https://neutralcurtains.com/collections/multi-relaxed-roman-shades)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 24
 - [Ramie & Ramie Bamboo Blend Shade](https://neutralcurtains.com/collections/ramie-shade)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 47
 - [Red Ramie Blend Shade](https://neutralcurtains.com/collections/red-ramie-blend)
-  Updated: 2026-03-30T11:22:27Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 8
 - [Flax Bamboo Blend Shade](https://neutralcurtains.com/collections/flax-bamboo-blend)
   Updated: 2026-04-01T11:24:33Z
   Total Products: 12
 - [Jute & Jute Bamboo Blend Shade](https://neutralcurtains.com/collections/jute-jute-bamboo-blend)
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-09T11:26:26Z
   Total Products: 13
 - [Flax & Jute Flax Blend Shade](https://neutralcurtains.com/collections/flax-jute-flax-blend)
   Updated: 2026-03-18T09:18:56Z
@@ -7279,52 +7279,52 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Updated: 2026-03-27T11:24:56Z
   Total Products: 7
 - [Rina Collection](https://neutralcurtains.com/collections/rina-collection)
-  Updated: 2026-03-31T11:22:48Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 7
 - [Woven Wood](https://neutralcurtains.com/collections/woven-wood-bamboo-shades): Woven wood bamboo shades bring natural texture and relaxed warmth to any space.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 100
 - [Bamboo](https://neutralcurtains.com/collections/bamboo): 100% Bamboo Material — naturally beautiful, naturally durable.
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 33
 - [Plaid & Striped Curtains](https://neutralcurtains.com/collections/plaid-striped-curtains)
-  Updated: 2026-03-30T11:22:23Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 11
 - [Solid Curtains](https://neutralcurtains.com/collections/solid-curtains): 70+ Solid Curtain Options Available Linen, cotton, silk & more quality fabrics Perfect solids for modern living
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 73
 - [Bestselling Curtains](https://neutralcurtains.com/collections/bestselling-curtains): Best- curtains in linen, cotton, Belgian flax & more Multiple header styles to suit every window
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 17
 - [Curtains for Living Room](https://neutralcurtains.com/collections/curtains-for-living-room): Designed to elevate comfort and style in your living room Available in versatile fabrics and elegant header styles
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 41
 - [Top Down Bottom Up Shades](https://neutralcurtains.com/collections/top-down-bottom-up-shades): Shop Top Down Bottom Up Bamboo Shades  stylish, eco-friendly window coverings that offer natural light control, privacy, and a modern look for any room
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 145
 - [French Door Shades](https://neutralcurtains.com/collections/french-door-shades): French Door Shades offer a sleek, space-saving design with smooth operation, light control, and privacy, perfectly suited for glass doors
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 17
 - [Curtains for Bedroom](https://neutralcurtains.com/collections/curtains-for-bedroom): Header styles available for both modern and classic interiors. Fabric options available in a variety of colors, textures, and materials.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:49Z
   Total Products: 43
 - [Curtains for Dining Room](https://neutralcurtains.com/collections/curtains-for-dining-room): Multiple header styles available to suit different window types and design preferences. A wide selection of fabrics to match various styles, textures, and light control needs.
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 38
 - [Curtains for Nursery](https://neutralcurtains.com/collections/curtains-for-nursery): Curtains for Nursery offer soft fabrics, gentle light filtering, and safe designs to create a calm, cozy, and comfortable space for babies
-  Updated: 2026-04-03T11:25:56Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 36
 - [Curtains for Kitchen](https://neutralcurtains.com/collections/curtains-for-kitchen): Variety of Fabric Selection Suitable for modern, classic, and casual interiors. Ideal for Kitchen Windows A practical and stylish solution for kitchens and breakfast nooks.
-  Updated: 2026-03-28T11:23:54Z
+  Updated: 2026-04-04T11:24:01Z
   Total Products: 8
 - [Curtains for Home Theater](https://neutralcurtains.com/collections/curtains-for-home-theater): Curtains for Home Theater provide light blocking, sound absorption, and a luxurious look, helping create an immersive,  experience at home.
   Updated: 2026-04-03T11:25:56Z
   Total Products: 8
 - [Accessories](https://neutralcurtains.com/collections/accessories)
-  Updated: 2026-04-02T09:50:30Z
+  Updated: 2026-04-05T11:23:15Z
   Total Products: 10
 - [Spring Picks](https://neutralcurtains.com/collections/spring-picks)
-  Updated: 2026-04-03T11:25:53Z
+  Updated: 2026-04-10T11:23:51Z
   Total Products: 39
 - [Sold by Yard](https://neutralcurtains.com/collections/sold-by-yard)
   Updated: 2026-04-02T10:10:21Z
@@ -7582,6 +7582,8 @@ Neutral Curtains is a premium manufacturer and supplier of high-quality custom w
   Updated: 2026-03-30T08:28:53Z
 - [Easter ](https://neutralcurtains.com/pages/easter-)
   Updated: 2026-04-01T06:49:20Z
+- [Pet](https://neutralcurtains.com/pages/pet)
+  Updated: 2026-04-08T10:12:22Z
 
 ## Policies
 
