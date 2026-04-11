@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-05T14:28:04Z
 - Contact Email: shop@sitzfleisch.eu
-- Updated At: 2026-04-03T12:40:26.772Z
+- Updated At: 2026-04-11T00:00:30.407Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-cb500-antislip-black.jpg?v=1735994220
     Price: 99,99 € EUR
 - [APRILIA Pegaso 650 Sitzbank Bezug](https://www.sitzfleisch.eu/products/aprilia-pegaso-650-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support!BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. Passend für alle original Sitzbänke folgender Modelle: APRILIA Pegaso 650 (1997-2000) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-26T12:25:45Z
+  Updated: 2026-04-10T16:20:35Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -51,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/aprilia-pegaso650-diamond-black_f1d1966d-54d0-42cd-b2e8-8de0ac94e959.jpg?v=1753861651
     Price: 89,99 € EUR
 - [BMW F650 Sitzbank Bezug](https://www.sitzfleisch.eu/products/bmw-f650-f650st-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke folgender Modelle: BMW F 650 Typ 169 (1993-1999) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-29T14:55:43Z
+  Updated: 2026-04-10T16:20:36Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -69,7 +69,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-f650-antislip-black.jpg?v=1753812937
     Price: 99,99 € EUR
 - [BMW F650GS Sitzbank Bezug](https://www.sitzfleisch.eu/products/bmw-f650gs-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps.Passend für alle original Sitzbänke folgender Modelle: BMW F 650 GS / F 650 CS (2000-2007) BMW G 650 GS (2009-2015)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-18T09:10:06Z
+  Updated: 2026-04-10T16:16:40Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -105,7 +105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-f800gs-basic-seat-cover.jpg?v=1753285314
     Price: 89,99 € EUR
 - [BMW K1200RS Sitzbank Bezug](https://www.sitzfleisch.eu/products/bmw-k1200rs-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet.Passend für alle original Sitzbänke folgender Modelle: BMW K 1200 RS (1996-2008)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-31T07:53:37Z
+  Updated: 2026-04-10T16:16:28Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -119,7 +119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-k1200rs-basic-black.jpg?v=1753285475
     Price: 74,99 € EUR
 - [BMW R850GS / R1100GS / R1150GS Sitzbank Bezug](https://www.sitzfleisch.eu/products/bmw-r850-1100-1150gs-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet.Passend für alle original Sitzbänke folgender Modelle: BMW R850GS / R1100GS / R1150GS (1994-2003)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-01T18:02:35Z
+  Updated: 2026-04-06T23:49:36Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -141,7 +141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-r1100gs-pil-basic-black.jpg?v=1734198226
     Price: 69,99 € EUR
 - [BMW R1200GS K25 Sitzbank Bezug](https://www.sitzfleisch.eu/products/bmw-r1200gs-k25-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche des Fahrersitzes ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet.Passend für alle original Sitzbänke folgender Modelle: BMW R 1200 GS K25 (2004-2012)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-26T22:49:35Z
+  Updated: 2026-04-10T16:16:15Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -163,7 +163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-r1200gs-k25-drv-basic-black.jpg?v=1753808667
     Price: 69,99 € EUR
 - [BMW R1200GS K50 Sitzbank Bezug](https://www.sitzfleisch.eu/products/bmw-r1200gs-k50-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. Passend für alle original Sitzbänke folgender Modelle: BMW R 1200 GS K50 Fahrer-Sitzbank (2013-2018)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2025-12-16T23:43:45Z
+  Updated: 2026-04-10T16:15:50Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -211,7 +211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-r1150r-drv-diamond-black.jpg?v=1734020950
     Price: 94,99 € EUR
 - [BMW R1100RS / R1150RS Sitzbank Bezug](https://www.sitzfleisch.eu/products/bmw-r1100-1150rs-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. Passend für alle original Sitzbänke folgender Modelle: BMW R1100RS / R1150RS Fahrer Sitzbank (1993-2005)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-25T11:43:09Z
+  Updated: 2026-04-10T16:14:16Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -263,7 +263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-r1100rt-socius-basic-black.jpg?v=1734198557
     Price: 69,99 € EUR
 - [DUCATI Monster (1993-2007) Sitzbank Bezug](https://www.sitzfleisch.eu/products/ducati-monster-1993-2007-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Alles was du benötigst ist unser Bezug, ein Handtacker und ein bisschen Zeit. Bei Fragen zur Montage sind wir für dich da – kontaktiere unseren Support! BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke folgender Modelle: DUCATI Monster (1993-2007)Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-02T15:24:26Z
+  Updated: 2026-04-07T14:58:12Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -401,7 +401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-cb600fpc36-antislip-black.jpg?v=1735996060
     Price: 99,99 € EUR
 - [HONDA CB 600 F HORNET PC41 Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-cb600f-hornet-pc41-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps.Passend für alle original Sitzbänke folgender Modelle:HONDA CB 600 F HORNET PC41 (2007-2013) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-19T18:57:39Z
+  Updated: 2026-04-04T07:14:16Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-cb600fpc41-antislip-black.jpg?v=1735996386
     Price: 99,99 € EUR
 - [HONDA CB 750 SevenFifty Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-cb750-sevenfifty-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps.Passend für alle original Sitzbänke folgender Modelle:HONDA CB 750 Sevenfifty (1992-2002) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-31T12:13:16Z
+  Updated: 2026-04-05T22:27:25Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -561,7 +561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-cbr600pc25-basic-black.jpg?v=1734094254
     Price: 69,99 € EUR
 - [HONDA CBR 600 F PC31 Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-cbr600f-pc31-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Passend für alle original Sitzbänke folgender Modelle:HONDA CBR 600 F PC31 (1995-1998) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2025-07-27T11:39:54Z
+  Updated: 2026-04-05T19:51:17Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -575,7 +575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-cbr600pc31-basic-black.jpg?v=1734094477
     Price: 69,99 € EUR
 - [HONDA CBR 600 F PC35 Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-cbr600f-pc35-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Passend für alle original Sitzbänke folgender Modelle:HONDA CBR 600 F PC35 (1999-2006) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-30T06:30:07Z
+  Updated: 2026-04-05T17:01:55Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -617,7 +617,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-cbr1000fsc24-basic-black.jpg?v=1734093355
     Price: 69,99 € EUR
 - [HONDA CBR 1100 XX Super Blackbird Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-cbr1100xx-super-blackbird-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke folgender Modelle:HONDA CBR 1100 XX (1996-2007) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-31T13:50:13Z
+  Updated: 2026-04-05T15:41:26Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-cbr1100xx-antislip-black.jpg?v=1736005248
     Price: 99,99 € EUR
 - [HONDA NTV 650 RC33 Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-ntv-650-rc33-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt.Passend für alle original Sitzbänke folgender Modelle:HONDA NTV 650 RC33 (1988-1997) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-20T18:20:17Z
+  Updated: 2026-04-04T20:21:55Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-ntv650rc47-diamond-black.jpg?v=1734095194
     Price: 89,99 € EUR
 - [HONDA ST 1100 Pan European Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-st1100-pan-european-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke folgender Modelle:HONDA ST 1100 Pan European (1990-2001) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-19T12:39:06Z
+  Updated: 2026-04-04T07:57:37Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -725,7 +725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-vfr750rc36-1-diamond-black_ebaa5dae-09e4-42eb-a831-16515c81f986.jpg?v=1734097022
     Price: 99,99 € EUR
 - [HONDA VFR 750 F RC36/2 Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-vfr750f-rc36-ii-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt.Passend für alle original Sitzbänke folgender Modelle:HONDA VFR 750 F RC36 II (1994-1997) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-19T20:58:57Z
+  Updated: 2026-04-08T10:12:48Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -743,7 +743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-vfr750rc36-2-diamond-black.jpg?v=1734097165
     Price: 89,99 € EUR
 - [HONDA VFR 800 RC46/1 Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-vfr-800-rc46-i-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt.Passend für alle original Sitzbänke folgender Modelle:HONDA VFR 800 RC46/I (1998-2001) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-25T11:22:57Z
+  Updated: 2026-04-07T11:37:47Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -779,7 +779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-vfr800rc46-2-diamond-black.jpg?v=1734097424
     Price: 89,99 € EUR
 - [HONDA XL 600 V Transalp Sitzbank Bezug](https://www.sitzfleisch.eu/products/honda-xl600v-transalp-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke folgender Modelle:HONDA XL600V Transalp (1987-2000) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-30T18:14:38Z
+  Updated: 2026-04-09T20:25:56Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -839,7 +839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/honda-xrv750-basic-black.jpg?v=1734098462
     Price: 89,99 € EUR
 - [KAWASAKI ER 6 Sitzbank Bezug](https://www.sitzfleisch.eu/products/kawasaki-er-6-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. Passend für alle original Sitzbänke:KAWASAKI ER 6 N/F (2006-2011) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-01T09:24:06Z
+  Updated: 2026-04-08T10:11:08Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -931,7 +931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/kawasaki-z750-diamond-black.jpg?v=1734182184
     Price: 89,99 € EUR
 - [KAWASAKI Zephyr 550 Sitzbank Bezug](https://www.sitzfleisch.eu/products/kawasaki-zephyr-zr550-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet.Passend für alle original Sitzbänke:KAWASAKI Zephyr 550 (1990-1999) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-03T04:33:46Z
+  Updated: 2026-04-08T11:19:13Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -952,7 +952,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/kawasaki-zr550-belt-black.jpg?v=1734183249
   Price: 19,99 € EUR
 - [KAWASAKI Zephyr 750 Sitzbank Bezug](https://www.sitzfleisch.eu/products/kawasaki-zephyr-zr750-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps.Passend für alle original Sitzbänke folgender Modelle:KAWASAKI Zephyr 750 (1991-1999) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-02T11:28:06Z
+  Updated: 2026-04-09T19:35:35Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -988,7 +988,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/kawasaki-zephyr1100-basic-black.jpg?v=1734182533
     Price: 69,99 € EUR
 - [KAWASAKI ZR 7 Sitzbank Bezug](https://www.sitzfleisch.eu/products/kawasaki-zr7-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke:KAWASAKI ZR 7 / ZR 7S (1999-2004) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-25T18:29:08Z
+  Updated: 2026-04-08T10:23:09Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1028,7 +1028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/kawasaki-zrx1100-antislip-black.jpg?v=1736006943
     Price: 99,99 € EUR
 - [SUZUKI DL 650 / DL 1000 V-Strom (2002-2011) Sitzbank Bezug](https://www.sitzfleisch.eu/products/suzuki-dl650-1000-v-strom): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke:SUZUKI DL 650 / DL 1000 V-Strom (2002-2011) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-02T23:31:06Z
+  Updated: 2026-04-10T20:12:47Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1096,7 +1096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/suzuki-bandit-kult-w-diamond-black.jpg?v=1734185212
     Price: 89,99 € EUR
 - [SUZUKI GSF 600 1200 Bandit Pop WVA8 WVA9 Sitzbank Bezug](https://www.sitzfleisch.eu/products/suzuki-gsf-bandit-pop-wva8-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt.Passend für alle original Sitzbänke:SUZUKI GSF 600/1200 Bandit Pop WVA8/WVA9 (2000-2004) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-24T09:42:16Z
+  Updated: 2026-04-06T11:34:28Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1114,7 +1114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/suzuki-bandit-pop-diamond-black.jpg?v=1734185466
     Price: 89,99 € EUR
 - [SUZUKI GSF 650 1250 Bandit / GSX Sitzbank Bezug](https://www.sitzfleisch.eu/products/suzuki-gsf-bandit-650-1250-gsx-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt.Passend für alle original Sitzbänke:SUZUKI GSF 650 1250 Bandit / GSX Sitzbank (ab 2004) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-01-26T16:39:47Z
+  Updated: 2026-04-10T17:04:47Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1144,7 +1144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/suzuki-gsf1250-socius-diamond-black_52c1e7e8-623c-46a8-9700-54a80e28a0a0.jpg?v=1767989841
     Price: 89,99 € EUR
 - [SUZUKI GSR 600 Sitzbank Bezug](https://www.sitzfleisch.eu/products/suzuki-gsr-600-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. Passend für alle original Sitzbänke:SUZUKI GSR 600 (2006-2010) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-01T17:14:57Z
+  Updated: 2026-04-09T04:20:16Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1162,7 +1162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/suzuki-gsr600-diamond-black.jpg?v=1734186216
     Price: 89,99 € EUR
 - [SUZUKI GSX 600 GSX 750 Sitzbank Bezug](https://www.sitzfleisch.eu/products/suzuki-gsx-600-f-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Passend für alle original Sitzbänke:SUZUKI GSX 600 F (1998-2003)SUZUKI GSX 750 F (1998-2006) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-02T09:54:24Z
+  Updated: 2026-04-09T17:01:11Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1226,7 +1226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/yamaha-bt1100-bulldog-antislip-black.jpg?v=1772106852
     Price: 99,99 € EUR
 - [YAMAHA FZS 600 Fazer Sitzbank Bezug](https://www.sitzfleisch.eu/products/yamaha-fzs600-fazer-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Unser Topmodell. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. Passend für alle original Sitzbänke:YAMAHA FZS 600 Fazer (1998-2004) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-31T23:35:33Z
+  Updated: 2026-04-09T08:46:47Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1262,7 +1262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/yamaha-fzs1000-diamond-black.jpg?v=1734193812
     Price: 89,99 € EUR
 - [YAMAHA FZ6 Fazer Sitzbank Bezug](https://www.sitzfleisch.eu/products/yamaha-fz6-fazer-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet.Passend für alle original Sitzbänke:YAMAHA FZ6 Fazer (2004-2009) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-20T08:32:36Z
+  Updated: 2026-04-08T04:30:05Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1276,7 +1276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/yamaha-fazerfz6-basic-black.jpg?v=1734193594
     Price: 69,99 € EUR
 - [YAMAHA FJ 1100 / FJ 1200 Sitzbank Bezug](https://www.sitzfleisch.eu/products/yamaha-fj1100-1200-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet.Passend für alle original Sitzbänke:YAMAHA FJ 1100 / FJ 1200 (1984-1994) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-26T19:12:37Z
+  Updated: 2026-04-10T08:41:03Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1304,7 +1304,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/yamaha-tdm8503vd-basic-black.jpg?v=1734194340
     Price: 69,99 € EUR
 - [YAMAHA TDM 850 4TX Sitzbank Bezug](https://www.sitzfleisch.eu/products/yamaha-tdm-850-4tx-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Passend für alle original Sitzbänke:YAMAHA TDM 850 4TX (1996-2001) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-02-12T11:13:37Z
+  Updated: 2026-04-08T05:34:48Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1332,7 +1332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/yamaha-tdm900-basic-black.jpg?v=1734195525
     Price: 69,99 € EUR
 - [YAMAHA XJ 600 / 900 Diversion Sitzbank Bezug](https://www.sitzfleisch.eu/products/yamaha-xj600-900-diversion-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Passend für alle original Sitzbänke:YAMAHA XJ 600/900 Diversion (1992-2003) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-04-02T09:03:56Z
+  Updated: 2026-04-10T10:24:05Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1364,7 +1364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/yamaha-xj6-diamond-black.jpg?v=1734194713
     Price: 89,99 € EUR
 - [YAMAHA XJR 1200 / 1300 4PU / SP / RP02 Sitzbank Bezug](https://www.sitzfleisch.eu/products/yamaha-xjr-1200-1300-bezug): Du möchtest deine Sitzbank neu beziehen, deinen Fahrkomfort erhöhen und dein Motorrad veredeln? Dann haben wir die passende Lösung für dich. BASIC: Du erhältst einen Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank. Robustes Outdoor-Kunstleder genäht mit wasserfestem Garn. COMFORT: Dir ist Sitzkomfort wichtig, dann ist dieser Bezug genau die richtige Wahl. Ein Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. DIAMANT: Einfach edel. Deutsche Herstellung, perfekte Passform, robustes Outdoor-Kunstleder, wasserfestes Garn, die Sitzfläche ist mit einem 6mm starken Schaumstoff ausgestattet und mit unserem DIAMANT-Dekor veredelt. ANTISLIP: Eine stabile Sitzposition bei jeder Fahrt. Der Antislip-Bezug aus deutscher Herstellung in perfekter Passform für deine Sitzbank, robustes Outdoor-Kunstleder kombiniert mit rutschfestem Velour, vernäht mit wasserfestem Garn, die Sitzfläche ist zusätzlich mit einem 6mm starken Schaumstoff ausgestattet und mit unserem Stepp-Dekor vollendet. Bitte beachte, dass Velour pflegeintensiver ist als unser Outdoorkunstleder, mehr Infos zur Pflege findest du in unseren Pflegetipps. Passend für alle original Sitzbänke:YAMAHA XJR 1200 / 1300 4PU / SP / RP02 (1994-2001) Das Angebot beinhaltet einen Sitzbezug, keine komplette Sitzbank.
-  Updated: 2026-03-20T23:04:46Z
+  Updated: 2026-04-09T12:21:06Z
   Vendor: SITZFLEISCH
   Product Type: Sitzbezug
   Availability: Available
@@ -1429,7 +1429,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/vespa-gts-comfort-black.jpg?v=1734193021
   Price: 109,99 € EUR
 - [Gelpad](https://www.sitzfleisch.eu/products/gelpad): Das SITZFLEISCH Gelpad besteht aus einem handlaminierten Hochleistungssilikon und ist damit deutlich belastbarer und dauerhafter als herkömmliche Gelpads, dazu ist unsere Geleinlage auch für Sitzheizungen geeignet. Das Körpergewicht wird gleichmäßig verteilt, Vibrationen und Erschütterungen werden absorbiert, Taubheitsgefühle und Durchblutungsstörungen auf langen Ausfahrten werden vermindert. SITZFLEISCH Gelpad (20cm x 17,5cm)
-  Updated: 2026-04-02T11:16:07Z
+  Updated: 2026-04-09T17:00:58Z
   Vendor: SITZFLEISCH
   Product Type: Gelpad
   Availability: Available
@@ -1480,7 +1480,7 @@
     Availability: Available
     Price: 69,99 € EUR
 - [Montageservice](https://www.sitzfleisch.eu/products/montageservice-bezug): Wenn du möchtest montieren wir unseren Bezug für dich. Schicke deine Sitzbank nach erfolgreicher Kaufabwicklung in einem geeigneten Karton an unsere Geschäftsstelle (Hagenstraße 65, D-68623 Lampertheim), wir montieren unsere Produkte innerhalb von 5 Werktagen und schicken die frisch bezogene und imprägnierte Sitzbank an dich zurück. Lege in deinen Warenkorb:Deinen gewünschten Bezug + Gelpad (optional) + Montageservice WICHTIG: Wir bieten die Montage an der unveränderten original Sitzbank an, die Montage an auf- oder abgepolsterten Sitzbänken ist leider nicht möglich. Wenn du dir unsicher bist, ob deine Sitzbank im Originalzustand ist, kannst du uns gerne vorab kontaktieren. Starke Beschädigungen des original Schaumstoffs können wir nicht im Rahmen des Montageservices reparieren, gerne schicken wir dir ein Angebot zur Reparatur falls möglich. Wenn Du einen Fahrer- und Soziusbezug im Set kaufst, musst Du nur einmal den Montageservice bezahlen. Unser Montageservice ist nur für Bestellungen innerhalb Deutschlands verfügbar, Sitzbank Einsendungen insbesondere von ausserhalb der EU können wir nicht annehmen.
-  Updated: 2026-03-31T10:55:12Z
+  Updated: 2026-04-09T17:00:56Z
   Vendor: SITZFLEISCH
   Product Type: Installation
   Availability: Available
@@ -1506,14 +1506,14 @@
     Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/bmw-r1100r-pil-comfort-black.jpg?v=1733652561
     Price: 79,99 € EUR
 - [Sitzkissen - Made in Germany](https://www.sitzfleisch.eu/products/langstrecken-sitzkissen): Das Sitzfleisch Komfort Sitzkissen wurde entwickelt, um jede Fahrt spürbar angenehmer zu machen – ganz gleich, auf welchem Motorrad du unterwegs bist. Dank seiner universellen Passform lässt sich das Kissen mit seinen Klettbändern mühelos auf jede Motorradsitzbank montieren. Die innovative Polstertechnologie verteilt den Druck optimal, reduziert Ermüdung und beugt unangenehmen Druckstellen vor – ideal für lange Touren, Pendelstrecken oder anspruchsvolle Tagesetappen. Hochwertige, rutschfeste Materialien sorgen für stabilen Halt, während die wasserfeste Oberfläche für ein ausgeglichenes Sitzklima sorgt - bei jedem Wetter. Ob Abenteuertour, Wochenendtrip oder tägliche Fahrt zur Arbeit – das Sitzfleisch Komfort Sitzkissen verwandelt jede Strecke in ein entspannteres Fahrerlebnis. Mehr Komfort. Mehr Ausdauer. Mehr Fahrfreude. Maße (L/B/H): 36cm x 27cm x 4cm WICHTIG: Das Angebot enthält das Sitzkissen - KEINE komplette Sitzbank. Der im Sitzkissen verbaute Schaumstoff ist sehr weich und verändert deine gewohnte Sitzposition nicht.
-  Updated: 2026-02-13T16:55:52Z
+  Updated: 2026-04-10T16:17:17Z
   Vendor: SITZFLEISCH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/7298/6693/files/sitzfleisch-booster-hero-1_021d22d8-c0ec-462e-b800-b97a24a2f6bc.jpg?v=1765218517
   Price: 99,99 € EUR
 - [Sitzbankerhöhung 35mm - Made in Germany](https://www.sitzfleisch.eu/products/sitzerhohung): Du möchtest höher sitzen, ohne deine Sitzbank aufzupolstern? Das Sitzfleisch Booster Sitzkissen erhöht deine Sitzposition um 35mm und sorgt für eine entspannte Haltung und mehr Übersicht, während der dreifache Komfortaufbau auch lange Touren spürbar angenehmer macht – ganz gleich, auf welchem Motorrad du unterwegs bist. Dank seiner universellen Passform lässt sich das Kissen mit seinen Klettbändern mühelos auf jede Motorradsitzbank montieren. Maße (L/B/H): 36cm x 27cm x 3,5cm WICHTIG: Das Angebot enthält das Sitzkissen - KEINE komplette Sitzbank.
-  Updated: 2026-03-29T15:44:17Z
+  Updated: 2026-04-10T16:17:07Z
   Vendor: SITZFLEISCH
   Product Type: 
   Availability: Available
@@ -1522,60 +1522,84 @@
 
 ## Collections
 
-- [Startseite](https://www.sitzfleisch.eu/collections/frontpage)
-  Updated: 2026-04-03T11:31:33Z
+- [Startseite](https://www.sitzfleisch.eu/collections/frontpage): Hochwertige Motorrad Sitzbankbezüge, Gelpads und Sitzkissen — handgefertigt in Deutschland. Wir verwenden ausschließlich abriebfestes, wasserdichtes Outdoor-Kunstleder und verarbeiten es mit wasserfestem Garn an der jeweiligen Original-Sitzbank. Für über 200 Motorradmodelle von Aprilia bis Yamaha. Passgenau, langlebig, montierbar ohne Sattler.
+  Updated: 2026-04-03T13:24:32Z
   Total Products: 3
-- [Sitzbezüge](https://www.sitzfleisch.eu/collections/sitzbezuege): Unsere Sitzfleisch Bezüge. Sorgfältig handgemacht in Deutschland.
-  Updated: 2026-04-03T11:31:33Z
+- [Sitzbezüge](https://www.sitzfleisch.eu/collections/sitzbezuege): Jeder unserer Sitzbankbezüge wird in Deutschland von Hand gefertigt und an der jeweiligen Original-Sitzbank entwickelt. Das Ergebnis: eine passgenaue Form, die sich ohne Sattler mit einem Tacker montieren lässt. Unser Outdoor-Kunstleder ist UV-beständig, wasserdicht und hoch abriebfest — REACH-konform, DMF-frei und antibakteriell zertifiziert. Erhältlich als Basic, Comfort mit zusätzlicher Schaumstoffpolsterung oder Diamond mit Steppnaht-Design. Aktuell für über 200 Modelle von zwölf Herstellern verfügbar.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 88
-- [Bekleidung](https://www.sitzfleisch.eu/collections/bekleidung)
-  Updated: 2026-03-20T11:15:47Z
+- [Bekleidung](https://www.sitzfleisch.eu/collections/bekleidung): Sitzfleisch zum Anziehen. Hoodies und T-Shirts für Motorradfahrer, die wissen, dass gutes Sitzfleisch über alles entscheidet. Premium-Qualität, designed in Deutschland.
+  Updated: 2026-04-03T13:32:08Z
   Total Products: 2
-- [Zubehör](https://www.sitzfleisch.eu/collections/zubehor)
-  Updated: 2026-03-30T11:24:45Z
+- [Zubehör](https://www.sitzfleisch.eu/collections/zubehor): Ergänzungen zu unseren Sitzbankbezügen und Gelpads: Werkzeug, Pflegeprodukte und alles, was die Montage und den Erhalt einfacher macht. Von uns getestet und auf unsere Produkte abgestimmt.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 5
-- [BMW](https://www.sitzfleisch.eu/collections/bmw)
-  Updated: 2026-04-03T11:31:33Z
+- [BMW](https://www.sitzfleisch.eu/collections/bmw): Sitzbankbezüge für BMW Motorräder — von der luftgekühlten R 850 über die F 650 GS bis zur R 1200 GS. Jeder Bezug wird an der Original-BMW-Sitzbank entwickelt und in Deutschland handgefertigt. Passgenaue Schnitte für Fahrer- und Soziussitz, erhältlich als Basic, Comfort und Diamond. Besonders beliebt bei Fahrern der GS-Baureihe, die ihre Sitzbank nach Jahren auf Tour erneuern wollen, ohne die Bank zum Sattler zu geben.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 12
-- [Ducati](https://www.sitzfleisch.eu/collections/ducati)
-  Updated: 2026-04-03T11:31:33Z
+- [Ducati](https://www.sitzfleisch.eu/collections/ducati): Sitzbankbezüge für Ducati Motorräder. Ducati-Sitzbänke sind oft schmal geschnitten und verlangen eine besonders präzise Verarbeitung. Unsere Bezüge werden deshalb direkt an der jeweiligen Original-Ducati-Sitzbank entwickelt und in Deutschland von Hand gefertigt. Wasserdichtes Outdoor-Kunstleder, passgenaue Form, montierbar ohne Sattler.
+  Updated: 2026-04-08T11:23:38Z
   Total Products: 5
-- [Honda](https://www.sitzfleisch.eu/collections/honda)
-  Updated: 2026-04-03T11:31:33Z
+- [Honda](https://www.sitzfleisch.eu/collections/honda): Sitzbankbezüge für Honda Motorräder — von der CB 750 SevenFifty über die CBR 600 F bis zur Africa Twin und CBR 1100 XX Super Blackbird. Honda-Sitzbänke verlieren über die Jahre oft Grip und Polsterung. Unsere Bezüge bringen beides zurück: frische Optik und spürbar mehr Komfort, ohne den Originalcharakter des Motorrads zu verändern. Handgefertigt in Deutschland, montierbar mit Tacker und Anleitung.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 29
-- [Kawasaki](https://www.sitzfleisch.eu/collections/kawasaki)
-  Updated: 2026-04-01T11:20:35Z
+- [Kawasaki](https://www.sitzfleisch.eu/collections/kawasaki): Sitzbankbezüge für Kawasaki Motorräder — passend für Modelle wie die ZR-7, ZX-6R, ER-6 und Versys-Baureihe. Jeder Bezug wird an der Original-Kawasaki-Sitzbank entwickelt, um eine saubere Passform ohne Falten zu gewährleisten. Robustes Outdoor-Kunstleder, wasserfestes Garn, handgefertigt in Deutschland. Erhältlich in den Ausführungen Basic, Comfort und Diamond.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 12
-- [Suzuki](https://www.sitzfleisch.eu/collections/suzuki)
-  Updated: 2026-04-03T11:31:33Z
+- [Suzuki](https://www.sitzfleisch.eu/collections/suzuki): Sitzbankbezüge für Suzuki Motorräder — für Modelle wie die GSF Bandit, DL 650 und DL 1000 V-Strom, SV 650 und GSX-R. Suzuki-Fahrer kennen das Problem: der originale Bezug wird rissig, rutschig oder durchgesessen. Unsere handgefertigten Bezüge passen exakt auf die jeweilige Suzuki-Sitzbank und sind aus wasserdichtem, UV-beständigem Kunstleder gefertigt. Einfach selbst montierbar.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 10
-- [Yamaha](https://www.sitzfleisch.eu/collections/yamaha)
-  Updated: 2026-04-02T11:28:53Z
+- [Yamaha](https://www.sitzfleisch.eu/collections/yamaha): Sitzbankbezüge für Yamaha Motorräder — vom Klassiker XJR 1300 über die TDM 850 bis zur FJ 1200. Yamaha-Modelle mit ihren oft stark beanspruchten Sitzbänken profitieren besonders von unserem robusten Outdoor-Kunstleder. Jeder Bezug wird an der jeweiligen Yamaha-Sitzbank passgenau entwickelt. Verfügbar als Basic, Comfort mit Schaumstoffeinlage oder Diamond mit Steppnähten.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 12
-- [Aprilia](https://www.sitzfleisch.eu/collections/aprilia)
-  Updated: 2026-03-27T11:18:44Z
+- [Aprilia](https://www.sitzfleisch.eu/collections/aprilia): Sitzbankbezüge für Aprilia Motorräder. Italienische Sportlichkeit, deutsche Handarbeit: Unsere Bezüge werden passgenau an der jeweiligen Original-Aprilia-Sitzbank entwickelt. Robustes Outdoor-Kunstleder, wasserfest vernäht, selbst montierbar. Verfügbar als Basic, Comfort mit Polsterung oder Diamond mit Steppnaht-Design.
+  Updated: 2026-04-03T13:28:48Z
   Total Products: 1
-- [KTM](https://www.sitzfleisch.eu/collections/ktm)
-  Updated: 2024-04-19T22:55:20Z
+- [KTM](https://www.sitzfleisch.eu/collections/ktm): Sitzbankbezüge für KTM Motorräder. Ob Adventure, Duke oder Enduro — KTM-Sitzbänke sind auf Funktion ausgelegt, nicht auf Langstreckenkomfort. Mit unseren Comfort- und Diamond-Bezügen lässt sich das ändern: zusätzliche Polsterung, griffiges Material und eine Passform, die an der Original-KTM-Sitzbank entwickelt wurde. Handgefertigt in Deutschland.
+  Updated: 2026-04-03T13:27:48Z
   Total Products: 1
-- [Harley Davidson](https://www.sitzfleisch.eu/collections/harley-davidson)
-  Updated: 2024-04-19T22:56:38Z
+- [Harley Davidson](https://www.sitzfleisch.eu/collections/harley-davidson): Sitzbankbezüge für Harley-Davidson Motorräder. Lange Touren verlangen eine Sitzbank, die mithält. Unsere Bezüge für Harley-Davidson Modelle sind aus strapazierfähigem Outdoor-Kunstleder gefertigt, wasserdicht vernäht und an der jeweiligen Original-Sitzbank entwickelt. Die Comfort-Variante mit Schaumstoffeinlage macht besonders auf Highway-Etappen den Unterschied.
+  Updated: 2026-04-03T13:28:24Z
   Total Products: 1
-- [Triumph](https://www.sitzfleisch.eu/collections/triumph)
-  Updated: 2024-04-19T22:58:00Z
+- [Triumph](https://www.sitzfleisch.eu/collections/triumph): Sitzbankbezüge für Triumph Motorräder. Britisches Design verdient eine saubere Verarbeitung — unsere Bezüge werden an der jeweiligen Original-Triumph-Sitzbank passgenau entwickelt und in Deutschland handgefertigt. Abriebfestes, wasserdichtes Outdoor-Kunstleder mit UV-Beständigkeit. Erhältlich als Basic, Comfort oder Diamond mit Steppnaht.
+  Updated: 2026-04-03T13:28:06Z
   Total Products: 1
-- [Piaggio](https://www.sitzfleisch.eu/collections/piaggio)
-  Updated: 2026-02-04T15:47:08Z
+- [Piaggio](https://www.sitzfleisch.eu/collections/piaggio): Sitzbankbezüge für Piaggio Roller und Motorräder. Piaggio-Sitzbänke sind Wind und Wetter ausgesetzt — unser UV-beständiges, wasserdichtes Outdoor-Kunstleder ist dafür gemacht. Jeder Bezug wird an der Original-Piaggio-Sitzbank entwickelt und in Deutschland von Hand gefertigt. Montage ohne Sattler, mit Tacker und Anleitung.
+  Updated: 2026-04-03T13:29:48Z
   Total Products: 2
-- [Vespa](https://www.sitzfleisch.eu/collections/vespa)
-  Updated: 2026-04-03T11:31:33Z
+- [Vespa](https://www.sitzfleisch.eu/collections/vespa): Sitzbankbezüge für Vespa Roller. Eine verschlissene Sitzbank verändert den gesamten Eindruck — unsere Vespa-Bezüge bringen die Optik zurück, ohne den Charakter des Rollers zu verändern. Passgenau entwickelt, handgefertigt in Deutschland aus wasserdichtem Outdoor-Kunstleder. Einfache Montage mit Tacker und unserer bebilderten Anleitung.
+  Updated: 2026-04-03T13:29:08Z
   Total Products: 1
-- [Sitzkissen](https://www.sitzfleisch.eu/collections/sitzkissen): Unsere Sitzkissen wurden entwickelt, um jede Fahrt spürbar angenehmer zu machen – ganz gleich, auf welchem Motorrad du unterwegs bist. Dank der universellen Passform lassen sich unsere Kissen mit Klettbändern mühelos auf jede Motorradsitzbank montieren. Du möchtest höher sitzen, ohne deine Sitzbank aufzupolstern? Das Sitzfleisch Booster Sitzkissen erhöht deine Sitzposition um 35mm und sorgt für eine entspannte Haltung und mehr Übersicht, während der dreifache Komfortaufbau auch lange Touren spürbar angenehmer macht
-  Updated: 2026-03-30T11:24:45Z
+- [Sitzkissen](https://www.sitzfleisch.eu/collections/sitzkissen): Unsere Sitzkissen wurden entwickelt, um jede Fahrt spürbar angenehmer zu machen — ohne die Sitzbank umbauen zu müssen. Einfach auflegen, fixieren, losfahren. Die Kissen sind aus denselben hochwertigen Materialien gefertigt wie unsere Bezüge: wasserdichtes Outdoor-Kunstleder, robust und pflegeleicht. Eine gute Lösung für Fahrer, die mehr Komfort wollen, aber ihren originalen Sitzbankbezug behalten möchten.
+  Updated: 2026-04-05T11:21:17Z
   Total Products: 2
-- [Gelpads](https://www.sitzfleisch.eu/collections/gelpads): Unsere Sitzfleisch Gelpads bestehen aus einem handlaminierten Hochleistungssilikon und sind deutlich belastbarer und dauerhafter als herkömmliche Gelpads, dazu sind unsere Geleinlagen auch für Sitzheizungen geeignet. Das Körpergewicht wird gleichmäßig verteilt, Vibrationen und Erschütterungen werden absorbiert, Taubheitsgefühle und Durchblutungsstörungen auf langen Ausfahrten werden vermindert.
-  Updated: 2026-03-27T11:18:44Z
+- [Gelpads](https://www.sitzfleisch.eu/collections/gelpads): Unsere Sitzfleisch Gelpads bestehen aus handlaminiertem Hochleistungssilikon — deutlich belastbarer und langlebiger als handelsübliche Gel-Einlagen. Das Gelpad wird zwischen Schaumstoff und Bezug eingelegt und verteilt den Sitzdruck gleichmäßig über die gesamte Sitzfläche. Entwickelt für Motorradfahrer, die regelmäßig Strecken über 200 Kilometer am Stück fahren. Passend für nahezu jede Sitzbank, unabhängig vom Hersteller.
+  Updated: 2026-04-10T11:21:11Z
   Total Products: 1
+
+## Blogs
+
+- [Motorrad Sitzbank Ratgeber — SITZFLEISCH Magazin](https://www.sitzfleisch.eu/blogs/magazin): Ratgeber rund um Motorrad-Sitzbänke: Bezug montieren, Gelpad nachrüsten, Komfort verbessern, Material-Tipps und Pflegeanleitung. Von Sitzfleisch — Sitzbankbezüge handgefertigt in Deutschland.
+  - [Motorrad Sitzbank neu beziehen — Anleitung für Selbermacher](https://www.sitzfleisch.eu/blogs/magazin/motorrad-sitzbank-neu-beziehen-anleitung): Motorrad Sitzbank neu beziehen — Anleitung für Selbermacher
+    Updated: 2026-04-03T17:59:15Z
+    Author: Severin Hamm
+    Tags: Anleitung, DIY, Montage
+  - [Motorrad Sitzbank Komfort verbessern — 4 Methoden im Vergleich](https://www.sitzfleisch.eu/blogs/magazin/motorrad-sitzbank-komfort-verbessern): Motorrad Sitzbank Komfort verbessern — 4 Methoden im Vergleich
+    Updated: 2026-04-03T17:48:51Z
+    Author: Severin Hamm
+    Tags: Komfort, Langstrecke, Ratgeber
+  - [Gelpad für die Motorrad Sitzbank — lohnt sich das?](https://www.sitzfleisch.eu/blogs/magazin/gelpad-motorrad-sitzbank-ratgeber): Gelpad für die Motorrad Sitzbank — lohnt sich das?
+    Updated: 2026-04-03T17:53:46Z
+    Author: Severin Hamm
+    Tags: Gelpad, Komfort, Ratgeber
+  - [Kunstleder oder Echtleder für die Motorrad-Sitzbank - was ist besser?](https://www.sitzfleisch.eu/blogs/magazin/kunstleder-echtleder-motorrad-sitzbank): Kunstleder oder Echtleder für die Motorrad-Sitzbank - was ist besser?
+    Updated: 2026-04-03T17:55:17Z
+    Author: Severin Hamm
+    Tags: Material, Ratgeber, Wissen
+  - [Motorrad Sitzbank Pflege — so hält der Bezug jahrelang](https://www.sitzfleisch.eu/blogs/magazin/motorrad-sitzbank-pflegen-tipps): Motorrad Sitzbank Pflege — so hält der Bezug jahrelang
+    Updated: 2026-04-03T17:49:25Z
+    Author: Severin Hamm
+    Tags: Anleitung, Pflege, Tipps
 
 ## Store Pages
 
