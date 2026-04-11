@@ -6,14 +6,14 @@
 - Timezone: Etc/UTC
 - Created At: 2024-01-21T18:30:06Z
 - Contact Email: comfyballs@comfyballs.is
-- Updated At: 2026-04-04T00:00:40.009Z
+- Updated At: 2026-04-11T00:00:40.723Z
 
 Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfyballs. Við bjóðum hágæða nærbuxur fyrir karla og konur með einstakri PackageFront® tækni sem tryggir stuðning, góða öndun og þægindi. Öll efni eru Oeko-Tex vottuð og saumar eru flatir (flatlock) til að koma í veg fyrir núning. Stærðir frá S til XXXL.
 
 ## Products
 
 - [Navy Tangerine Cotton](https://comfyballs.is/products/navy-tangerine-cotton-1): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað sku 10-06
-  Updated: 2026-04-03T09:52:07Z
+  Updated: 2026-04-10T16:47:06Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -67,7 +67,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/10-06_front-2-900x900.jpg?v=1739459157
     Price: kr 3,890.00 ISK
 - [Ghost Black Cotton](https://comfyballs.is/products/ghost-black-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 6.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað sku 10-07
-  Updated: 2026-04-03T20:26:27Z
+  Updated: 2026-04-10T16:18:57Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/10-07_om_rp-900x900.jpg?v=1739459146
     Price: kr 3,890.00 ISK
 - [Charcoal Vintage Red Comfycel](https://comfyballs.is/products/charcoal-vintage-red-comfycel): Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Eiginleikar PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað sku 90-01
-  Updated: 2026-04-03T09:52:07Z
+  Updated: 2026-04-10T16:47:03Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -229,7 +229,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/90-44_front-1200x1200-1-900x900.jpg?v=1739459125
     Price: kr 3,990.00 ISK
 - [Pitch Black Performance](https://comfyballs.is/products/pitch-black-performance): Performance -- Nærföt fyrir hámarks árangur! Performance henta einstaklega vel fyrir allar íþróttir og hreyfingu. Mjúkar léttar og þola erfiðustu æfingar. Efnið þornar mjög fljótt þar sem raki er fluttur frá húðinni fyrir aukin þægindi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Sérhannaðar fyrir íþróttir og hreyfingu PackageFront® 40mm micropolyester mittisband Þorna mjög fljótt og mjög endingargóðar 84% polyester, 16% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 6.000 eða meira PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað sku 40-08 41-08
-  Updated: 2026-04-02T22:20:29Z
+  Updated: 2026-04-10T14:30:23Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -283,7 +283,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/40-08_om_front-1200x1200-1-900x900.jpg?v=1739459110
     Price: kr 4,190.00 ISK
 - [Navy Racing Red Performance](https://comfyballs.is/products/navy-racing-red-performance): Performance -- Nærföt fyrir hámarks árangur! Performance henta einstaklega vel fyrir allar íþróttir og hreyfingu. Mjúkar léttar og þola erfiðustu æfingar. Efnið þornar mjög fljótt þar sem raki er fluttur frá húðinni fyrir aukin þægindi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Sérhannaðar fyrir íþróttir og hreyfingu PackageFront® 40mm micropolyester mittisband Þorna mjög fljótt og mjög endingargóðar 84% polyester, 16% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað sku 40-19 41-19
-  Updated: 2026-04-03T15:03:57Z
+  Updated: 2026-04-10T19:54:44Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -337,7 +337,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/40-19_om_front-1200x1200-1-900x900.jpg?v=1739459078
     Price: kr 4,190.00 ISK
 - [Charcoal Viper Performance](https://comfyballs.is/products/charcoal-viper-performance): Performance -- Nærföt fyrir hámarks árangur! Performance henta einstaklega vel fyrir allar íþróttir og hreyfingu. Mjúkar léttar og þola erfiðustu æfingar. Efnið þornar mjög fljótt þar sem raki er fluttur frá húðinni fyrir aukin þægindi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Sérhannaðar fyrir íþróttir og hreyfingu PackageFront® 40mm micropolyester mittisband Þorna mjög fljótt og mjög endingargóðar 84% polyester, 16% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Eiginleikar: PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað sku 40-26 41-26
-  Updated: 2026-04-01T23:30:48Z
+  Updated: 2026-04-10T11:06:46Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -351,7 +351,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/41-26_om_front-900x900.jpg?v=1768738857
     Price: kr 4,190.00 ISK
   - [Long / L](https://comfyballs.is/products/charcoal-viper-performance?variant=41560539365469)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/41-26_om_front-900x900.jpg?v=1768738857
     Price: kr 4,190.00 ISK
   - [Long / XL](https://comfyballs.is/products/charcoal-viper-performance?variant=41560539398237)
@@ -391,7 +391,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/40-26_om_front-1200x1200-1-900x900.jpg?v=1768738164
     Price: kr 4,190.00 ISK
 - [Spruce Green Cotton](https://comfyballs.is/products/spruce-green-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað sku 10-73
-  Updated: 2026-04-03T17:13:50Z
+  Updated: 2026-04-07T12:42:17Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/ComfyballsSpruceGreenCotton.png?v=1739459051
     Price: kr 2,723.00 ISK
   - [Long / M](https://comfyballs.is/products/spruce-green-cotton?variant=41601686306909)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/ComfyballsSpruceGreenCotton.png?v=1739459051
     Price: kr 2,723.00 ISK
   - [Long / L](https://comfyballs.is/products/spruce-green-cotton?variant=41601686339677)
@@ -445,7 +445,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/10-73_front-2-950x950.jpg?v=1739459030
     Price: kr 2,723.00 ISK
 - [Blue Comfycel](https://comfyballs.is/products/blue-comfycel): Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira sku 90-x40 91-x40
-  Updated: 2026-04-01T15:04:37Z
+  Updated: 2026-04-09T12:30:06Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -499,7 +499,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/90-X40frontjpg-950x950.jpg?v=1739459014
     Price: kr 3,990.00 ISK
 - [Comfy Ghost Black Hipster Performance](https://comfyballs.is/products/comfy-ghost-black-hipster-performance): Klassískar svartar, ghost black logo Performance -- Nærföt fyrir hámarks árangur! Performance henta einstaklega vel fyrir allar íþróttir og hreyfingu eða sem hversdags nærbuxur. Mjög mjúkar, léttar og þola erfiðustu æfingar, efnið þornar mjög fljótt, halda raka frá húðinni. Innhalda ekki Polygiene eða önnur aukaefni. 91% polyamide, 9% Lycra® Hipster nærbuxur með flottri hönnun og ótrúleg þægindi í fyrirrúmi, þessar nærbuxur eru gerðar í samráði við óskir kvenna. Hipster er grunnflík með nútímalegu sniði, flottri hönnun sem er einnig mjög hagnýt. Eiginleikar Breitt og teygjanlegt mittisband (35 mm) Nærbuxurnar sitja um mjöðmina Ósýnileg mjaðma teygja Þrýstast ekki upp og skerast ekki í húðina Sérsniðnir flatir saumar Loftslagshlutlausar Frí póstsending ef pantað er fyrir 6.000 eða meira Aðeins er notað hágæða efni fyrir hámarks þægindi og endingu. Ótrúlega mjúkar og þægilegar, Lycra® er í öllum okkar efnisblöndum ásamt alvöru Flat-Lock saumum. Allar Comfy vörur eru hannaðar fyrir hámarks þægindi og hreyfifrelsi. Öll nærfötin eru Oeko-Tex vottuð, að auki loftslagshlutlaus í samvinnu með ClimatePartner GmbH, sem þýðir að búið er að reikna út heildarlosun koltvísýrings þar til varan er komin í hendur viðskiptavina og erum nú að jafna hann með þáttöku í tveimur kolefnisjöfnunarverkefnum sku 73-10
-  Updated: 2026-03-28T15:18:28Z
+  Updated: 2026-04-07T14:06:57Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -523,7 +523,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 3,390.00 ISK
 - [Black Hipster Comfycel](https://comfyballs.is/products/black-hipster-comfycel): Hipster nærbuxur með flottri hönnun og ótrúleg þægindi í fyrirrúmi, þessar nærbuxur eru gerðar í samráði við óskir kvenna. Hipster er grunnflík með nútímalegu sniði, flottri hönnun sem er einnig mjög hagnýt. Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Eiginleikar Breitt og teygjanlegt mittisband (35 mm) Nærbuxurnar sitja um mjöðmina Ósýnileg mjaðma teygja Þrýstast ekki upp og skerast ekki í húðina Sérsniðnir flatir saumar Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Aðeins er notað hágæða efni fyrir hámarks þægindi og endingu. Ótrúlega mjúkar og þægilegar, Lycra® er í öllum okkar efnisblöndum ásamt alvöru Flat-Lock saumum. Allar Comfy vörur eru hannaðar fyrir hámarks þægindi og hreyfifrelsi. Öll nærfötin eru Oeko-Tex vottuð, að auki loftslagshlutlaus í samvinnu með ClimatePartner GmbH, sem þýðir að búið er að reikna út heildarlosun koltvísýrings þar til varan er komin í hendur viðskiptavina og erum nú að jafna hann með þáttöku í tveimur kolefnisjöfnunarverkefnum sku 38-13
-  Updated: 2026-04-03T17:50:40Z
+  Updated: 2026-04-10T18:04:42Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -565,7 +565,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 3,290.00 ISK
 - [Ghost Black String Performance](https://comfyballs.is/products/ghost-black-string-performance): Elegant nærbuxur með hærra mitti og ósýnilegum saumum Performance -- Nærföt fyrir hámarks árangur! Performance henta einstaklega vel fyrir allar íþróttir og hreyfingu eða sem hversdags nærbuxur. Mjög mjúkar, léttar og þola erfiðustu æfingar, efnið þornar mjög fljótt, halda raka frá húðinni. Innhalda ekki Polygiene eða önnur aukaefni. Loftslagshlutlausar Frí póstsending ef pantað er fyrir 6.000 eða meira Aðeins er notað hágæða efni fyrir hámarks þægindi og endingu. Ótrúlega mjúkar og þægilegar, Lycra® er í öllum okkar efnisblöndum ásamt alvöru Flat-Lock saumum. Allar Comfy vörur eru hannaðar fyrir hámarks þægindi og hreyfifrelsi. Öll nærfötin eru Oeko-Tex vottuð, að auki loftslagshlutlaus í samvinnu með ClimatePartner GmbH, sem þýðir að búið er að reikna út heildarlosun koltvísýrings þar til varan er komin í hendur viðskiptavina og erum nú að jafna hann með þáttöku í tveimur kolefnisjöfnunarverkefnum sku 77-10
-  Updated: 2026-03-31T14:20:18Z
+  Updated: 2026-04-09T14:02:08Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -589,7 +589,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 2,790.00 ISK
 - [Black String Comfycel](https://comfyballs.is/products/black-string-comfycel): Elegant nærbuxur, miðlungsháar í mittið með ósýnilegum saum Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóð Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Aðeins er notað hágæða efni fyrir hámarks þægindi og endingu. Ótrúlega mjúkar og þægilegar, Lycra® er í öllum okkar efnisblöndum ásamt alvöru Flat-Lock saumum. Allar Comfy vörur eru hannaðar fyrir hámarks þægindi og hreyfifrelsi. Öll nærfötin eru Oeko-Tex vottuð, að auki loftslagshlutlaus í samvinnu með ClimatePartner GmbH, sem þýðir að búið er að reikna út heildarlosun koltvísýrings þar til varan er komin í hendur viðskiptavina og erum nú að jafna hann með þáttöku í tveimur kolefnisjöfnunarverkefnum sku 39-13
-  Updated: 2026-04-02T18:11:08Z
+  Updated: 2026-04-10T17:34:42Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -694,7 +694,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 3,790.00 ISK
 - [Svartur bolur Comfycel](https://comfyballs.is/products/svartur-bolur-comfycel): Comfyballs stuttermabolur – hámarks þægindi og stílhreint útlit Við hjá Comfyballs vitum að þægindi skipta máli. Vegna mikillar eftirspurnar bjóðum við nú upp á tengdar vörur eins og stuttermaboli, sokka, jogging buxur, peysur og sundbuxur, oft í takmörkuðu magni. Þessar vörur eru framleiddar úr okkar hágæða Comfycel® efni sem tryggir mýkt, öndun og endingu. Af hverju að velja Comfyballs stuttermabol? Mjúkt og létt efni – einstaklega þægilegt að vera í allan daginn, um helmingi mýkra efni en bómull. Klassískt snið með hringhálsmáli – passar við allt, frá hversdagsfatnaði til íþrótta Stílhreint útlit – virkar sem lykilflík eða sem þægilegt innsta lag, auðvelt að dressa upp með t.d. jakka. Þetta er stuttermabolurinn sem þú nærð alltaf í, hvort sem er í vinnu, frístund eða bara heima að slaka á. Hann er bæði endingargóður og stílhreinn, og hentar vel allt árið um kring. Þægilegt snið, ótrúlega mjúkt efni sem andar. Módelið á myndinni er 185cm og notar L stærð. Fríar póstsendingar yfir 6.000 Loftslagshlutlaus
-  Updated: 2026-04-01T14:21:45Z
+  Updated: 2026-04-10T14:22:32Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -742,7 +742,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 8,490.00 ISK
 - [Comfyballs Fyrir þá sem elska Cotton (6 stk) Long](https://comfyballs.is/products/comfyballs-fyrir-tha-sem-elska-cotton-6-stk-long): Þessi pakki er fyrir þá sem elska bómullar boxera ! Þessi pakki inniheldur Long útgáfuna sem er síðari en Regular Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Þá verður þú að prófa Cotton boxerana frá Comfyballs, hversdags boxerar framleiddir úr mýkstu bómullunni okkar. Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Einnig tilvalin gjöf Pakkinn inniheldur - 6 Boxer nærbuxur 3 stk Ghost Black Cotton 3 stk Navy Tangerine Cotton Cotton92% cotton, 8%Lycra 3 Navy Tangerine Cotton 3 Spruce Green Cotton LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T20:26:38Z
+  Updated: 2026-04-10T16:47:18Z
   Vendor: Comfyballs
   Product Type: tilboð
   Availability: Available
@@ -856,7 +856,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 17,505.00 ISK
 - [COMFYBALLS FYRIR ÞÁ SEM ELSKA COTTON (6 STK) Regular](https://comfyballs.is/products/comfyballs-fyrir-tha-sem-elska-cotton-6-stk-regular): Þessi pakki er fyrir þá sem elska bómullar boxera ! Þessi pakki inniheldur Regular útgáfuna sem er styttri en Long Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Þá verður þú að prófa Cotton boxerana frá Comfyballs, hversdags boxerar framleiddir úr mýkstu bómullunni okkar. Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Einnig tilvalin gjöf Pakkinn inniheldur - 6 Boxer nærbuxur 3 Navy Tangerine Cotton 3 Ghost Black Cotton Cotton:92% cotton, 8%Lycra LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T14:21:53Z
+  Updated: 2026-04-10T11:14:28Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -970,7 +970,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 17,505.00 ISK
 - [Black Seamless cheeky Performance](https://comfyballs.is/products/black-seamless-cheeky-performance): Saumlausar nærbuxur sem eru nánast ósýnilegar undir fötum og þrengja hvergi að Performance -- Nærföt fyrir hámarks árangur! Performance henta einstaklega vel fyrir allar íþróttir og hreyfingu eða sem hversdags nærbuxur. Mjög mjúkar, léttar og þola erfiðustu æfingar, efnið þornar mjög fljótt, halda raka frá húðinni. Innhalda ekki Polygiene eða önnur aukaefni. Eiginleikar Saumlausar Laser skornar skálmar Efni með gott grip Performance útgáfa Fullkomnar fyrir íþróttir eða hversdags notkun Fljótar að þorna Anda vel Efnið er mjúkt, létt og einstaklega endingargott Lycra®️ 79% polyamide, 21% lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 6.000 eða meira Aðeins er notað hágæða efni fyrir hámarks þægindi og endingu. Ótrúlega mjúkar og þægilegar, Lycra® er í öllum okkar efnisblöndum ásamt alvöru Flat-Lock saumum. Allar Comfy vörur eru hannaðar fyrir hámarks þægindi og hreyfifrelsi. Öll nærfötin eru Oeko-Tex vottuð, að auki loftslagshlutlaus í samvinnu með ClimatePartner GmbH, sem þýðir að búið er að reikna út heildarlosun koltvísýrings þar til varan er komin í hendur viðskiptavina og erum nú að jafna hann með þáttöku í tveimur kolefnisjöfnunarverkefnum sku 75-21
-  Updated: 2026-03-25T18:05:38Z
+  Updated: 2026-04-10T17:35:19Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -991,7 +991,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 3,190.00 ISK
 - [Comfy Black Top Comfycel + Black Hipster Comfycel Tilboð](https://comfyballs.is/products/comfy-black-top-comfycel-black-hipster-comfycel-tilbod): Tilboð á Black Top Comfycel og Black Hipster Comfycel Comfy Toppur Stillanlegur hlýrar. 35mm teygja. Fullkominn toppur fyrir hversdags notkun Comfycel® -- Extra mjúkt og umhverfisvænt ! Okkar eigið einstaka efni Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Comfy Hipster nærbuxur Hipster nærbuxur með flottri hönnun og ótrúleg þægindi í fyrirrúmi, þessar nærbuxur eru gerðar í samráði við óskir kvenna. Hipster er grunnflík með nútímalegu sniði, flottri hönnun sem er einnig mjög hagnýt. Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Eiginleikar Breitt og teygjanlegt mittisband (35 mm) Nærbuxurnar sitja um mjöðmina Ósýnileg mjaðma teygja Þrýstast ekki upp og skerast ekki í húðina Sérsniðnir flatir saumar Loftslagshlutlausar Frí póstsending ef pantað er fyrir 6.000 eða meira Aðeins er notað hágæða efni fyrir hámarks þægindi og endingu. Ótrúlega mjúkar og þægilegar, Lycra® er í öllum okkar efnisblöndum ásamt alvöru Flat-Lock saumum. Allar Comfy vörur eru hannaðar fyrir hámarks þægindi og hreyfifrelsi. Öll nærfötin eru Oeko-Tex vottuð, að auki loftslagshlutlaus í samvinnu með ClimatePartner GmbH, sem þýðir að búið er að reikna út heildarlosun koltvísýrings þar til varan er komin í hendur viðskiptavina og erum nú að jafna hann með þáttöku í tveimur kolefnisjöfnunarverkefnum
-  Updated: 2026-04-03T17:50:51Z
+  Updated: 2026-04-10T18:04:59Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1153,7 +1153,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 5,310.00 ISK
 - [White Comfycel](https://comfyballs.is/products/white-comfycel): Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Eiginleikar PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-03-30T14:42:38Z
+  Updated: 2026-04-10T15:45:27Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1207,7 +1207,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/90-43_3-1200x1200-1-4-1200x1200.jpg?v=1745424856
     Price: kr 3,990.00 ISK
 - [Ghost Black Cotton Brief (2 stk í pakka)](https://comfyballs.is/products/ghost-black-cotton-brief-2-stk-i-pakka): 2 stykki brief nærbuxur í pakka Cotton -- Hinar fullkomnu hversdags nærbuxur! Ótrúlega þægilegar Brief nærbuxur ! Brief nærbuxurnar eru líka með byltingarkenndu Packagefront® hönnunni Packagefront leiðir búnaðinn okkar áfram og í burtu frá lærunum. Þessar skara framúr öllum öðrum vörumerkjum og tegundum brief nærbuxna. Fullkomar nærbuxur fyrir þá sem vilja styttri nærbuxur. Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Bómullartrefjarnar eru greiddar í gegn áður en þær eru spunnar í þráð, þannig að stuttu trefjarnar og önnur óhreinindi eru fjarlægð. Þetta gerir efnið einstaklega mjúkt en eykur jafnframt endingu þess. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað LoftslagshlutlausarFrí póstsending ef pantað er fyrir 6.000 eða meira
-  Updated: 2026-03-29T07:03:06Z
+  Updated: 2026-04-09T22:14:16Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1255,7 +1255,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 4,790.00 ISK
 - [Leopard Cotton](https://comfyballs.is/products/leopard-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað sku 11-X41
-  Updated: 2026-04-01T12:05:07Z
+  Updated: 2026-04-10T16:08:16Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1351,7 +1351,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 3,890.00 ISK
 - [Comfy Sokkar Everyday (3-pack)](https://comfyballs.is/products/comfy-sokkar-everyday-3-pack): 3 pör af Comfy everyday svörtum sokkum Virkilega góðir og þægilegir svartir sokkar frá Comfyballs, fullkomnir fyrir hversdags athafnir (vinnu, skrifstofu, leik) Viskósublanda með mjög fínum saum sem þú finnur ekki fyrir að framan við tærnar. Styrktur hæll tryggir endingargóða sokka. Efnið þornar mjög fljótt, hefur góða öndun og ótrúlega mjúkt. Þessir sokkar eru fyrir þá sem eru að leita sér að þægilegum sokkum með góða endingu Þessir verða pottþétt í uppáhaldi hjá þér Eiginleikar Hversdags sokkar Mjög góð gæði Mjúkt efni Efnið þornar mjög fljótt Mjög fínir saumar að innanverðu við tærnar Styrktur hæll 3 pör af sokkum í pakka 75% viscose, 23% polyamide and 2% elastane Allar Comfyballs vörurnar eru loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-03-31T15:33:40Z
+  Updated: 2026-04-10T14:22:52Z
   Vendor: Comfyballs
   Product Type: sokkar
   Availability: Available
@@ -1381,7 +1381,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 2,390.00 ISK
 - [Hvítur bolur Comfycel](https://comfyballs.is/products/hvitur-bolur-comfycel): Comfyballs stuttermabolur – hámarks þægindi og stílhreint útlit Við hjá Comfyballs vitum að þægindi skipta máli. Vegna mikillar eftirspurnar bjóðum við nú upp á tengdar vörur eins og stuttermaboli, sokka, jogging buxur, peysur og sundbuxur, oft í takmörkuðu magni. Þessar vörur eru framleiddar úr okkar hágæða Comfycel® efni sem tryggir mýkt, öndun og endingu. Af hverju að velja Comfyballs stuttermabol? Mjúkt og létt efni – einstaklega þægilegt að vera í allan daginn, um helmingi mýkra efni en bómull. Klassískt snið með hringhálsmáli – passar við allt, frá hversdagsfatnaði til íþrótta Stílhreint útlit – virkar sem lykilflík eða sem þægilegt innsta lag, auðvelt að dressa upp með t.d. jakka. Þetta er stuttermabolurinn sem þú nærð alltaf í, hvort sem er í vinnu, frístund eða bara heima að slaka á. Hann er bæði endingargóður og stílhreinn, og hentar vel allt árið um kring. Þægilegt snið, ótrúlega mjúkt efni sem andar. Módelið á myndinni er 185cm og notar L stærð. Fríar póstsendingar yfir 8.000 Loftslagshlutlaus
-  Updated: 2026-03-23T20:51:16Z
+  Updated: 2026-04-10T14:22:36Z
   Vendor: Comfyballs
   Product Type: 
   Availability: Available
@@ -1405,7 +1405,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 3,990.00 ISK
 - [Long Ghost Black Cotton Chilly (Extra síðar)](https://comfyballs.is/products/long-ghost-black-cotton-chilly-extra-sidar): Extra síðar nærbuxur Þessi sídd er fyrir þá sem vilja að efnið teygi sig enn lengra niður fæturna, þær ná rétt fyrir ofan hné. 23cm innsaumur. Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-03-26T13:39:08Z
+  Updated: 2026-04-04T10:59:57Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1525,7 +1525,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 3,790.00 ISK
 - [Comfy Sokkar Active Blue](https://comfyballs.is/products/comfy-sokkar-active-blue): Sportleg hönnun með Frotte sóla sem gefur auka þykkt undir fótinn án þess að vera of þykkir til að passa í flesta skó og án þess að þrengja að. Þessir sokkar henta mjög vel fyrir fólk sem stunda hreyfingu eða íþróttir Sokkarnir fara uppað miðjum kálfanum. Þeir eru hannaðir til að styðja vel við og henta betur í íþróttir frekar en venjulegir sokkar. Þú finnur innsaumaða sveigjanlega teygju sem fer um miðfótinn (metatarsus) og þykkari teygjanlegri hluta við hælbeinið. Þetta gefur þér aukinn stuðning og meiri þægindi. Þykkari, sveigjanlegri og þægilegri en sambærilegir sokkar. Þessir sokkar geta hjálpað til við að koma í veg fyrir blöðrur veita auka þrýsting sem getur haft jákvæð áhrif á blóðrásina. 80% Bómull, 18% Pólýester og 2% Elastine Sokkarnir okkar eru ótrúlega þægilegir og fullkomnir fyrir vinnu, skrifstofuna eða leik. Styrktur hæll tryggir langlífann sokk. Þessir sokkar þorna fljótt og eru mjög vandaðir, þeir halda þér vel við hvað sem þú ert að gera ! LoftslagshlutlausirFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-04-03T16:25:24Z
+  Updated: 2026-04-10T16:47:06Z
   Vendor: Comfyballs
   Product Type: sokkar
   Availability: Available
@@ -1540,7 +1540,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 1,190.00 ISK
 - [Active Blue Sokkar tilboð (3 stk)](https://comfyballs.is/products/active-blue-sokkar-tilbod-3-stk): Tilboðið inniheldur 3 stk Comfy Sokkar Active Blue 3X Comfy Sokkar Active Blue Sportleg hönnun með Frotte sóla sem gefur auka þykkt undir fótinn án þess að vera of þykkir til að passa í flesta skó og án þess að þrengja að. Þessir sokkar henta mjög vel fyrir fólk sem stunda hreyfingu eða íþróttir Sokkarnir fara uppað miðjum kálfanum. Þeir eru hannaðir til að styðja vel við og henta betur í íþróttir frekar en venjulegir sokkar. Þú finnur innsaumaða sveigjanlega teygju sem fer um miðfótinn (metatarsus) og þykkari teygjanlegri hluta við hælbeinið. Þetta gefur þér aukinn stuðning og meiri þægindi. Þykkari, sveigjanlegri og þægilegri en sambærilegir sokkar. Þessir sokkar geta hjálpað til við að koma í veg fyrir blöðrur veita auka þrýsting sem getur haft jákvæð áhrif á blóðrásina. 80% Bómull, 18% Pólýester og 2% Elastine Sokkarnir okkar eru ótrúlega þægilegir og fullkomnir fyrir vinnu, skrifstofuna eða leik. Styrktur hæll tryggir langlífann sokk. Þessir sokkar þorna fljótt og eru mjög vandaðir, þeir halda þér vel við hvað sem þú ert að gera ! LoftslagshlutlausirFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-04-03T16:25:32Z
+  Updated: 2026-04-10T16:47:16Z
   Vendor: Comfyballs.is
   Product Type: sokkar
   Availability: Available
@@ -1549,13 +1549,13 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 2,856.00 ISK
   - [41-43](https://comfyballs.is/products/active-blue-sokkar-tilbod-3-stk?variant=43020932808797)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,856.00 ISK
   - [44-46](https://comfyballs.is/products/active-blue-sokkar-tilbod-3-stk?variant=43020932841565)
     Availability: Available
     Price: kr 2,856.00 ISK
 - [Long Ghost Black Cotton Raised Waist (Hærri í mittið)](https://comfyballs.is/products/long-ghost-black-cotton-raised-waist-haerri-i-mittid): Þessar nærbuxur eru með hærra mitti, Comfyballs leggur mikinn metnað í að búa til nærbuxur sem henta öllum, þessi útgáfa er með hærra mitti fyrir þá sem vilja að teygjan liggi hærra en hefðbundnar Comfyballs nærbuxur. Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað
-  Updated: 2026-03-31T15:10:04Z
+  Updated: 2026-04-10T10:36:52Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1579,7 +1579,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 3,890.00 ISK
 - [Long Ghost Navy Cotton Chilly (Extra síðar)](https://comfyballs.is/products/long-ghost-navy-cotton-chilly-extra-sidar): Extra síðar nærbuxur Þessi sídd er fyrir þá sem vilja að efnið teygi sig enn lengra niður fæturna, þær ná rétt fyrir ofan hné. 23cm innsaumur. Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-03-31T15:19:28Z
+  Updated: 2026-04-10T14:33:26Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1594,7 +1594,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 3,890.00 ISK
   - [Longer / XL](https://comfyballs.is/products/long-ghost-navy-cotton-chilly-extra-sidar?variant=43038274027613)
-    Availability: Not Available
+    Availability: Available
     Price: kr 3,890.00 ISK
   - [Longer / 2XL](https://comfyballs.is/products/long-ghost-navy-cotton-chilly-extra-sidar?variant=43038274060381)
     Availability: Available
@@ -1741,7 +1741,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 2,723.00 ISK
 - [Comfy Sokkar Active All White](https://comfyballs.is/products/comfy-sokkar-active-all-white): Sportleg hönnun með Frotte sóla sem gefur auka þykkt undir fótinn án þess að vera of þykkir til að passa í flesta skó og án þess að þrengja að. Þessir sokkar henta mjög vel fyrir fólk sem stunda hreyfingu eða íþróttir Sokkarnir fara uppað miðjum kálfanum. Þeir eru hannaðir til að styðja vel við og henta betur í íþróttir frekar en venjulegir sokkar. Þú finnur innsaumaða sveigjanlega teygju sem fer um miðfótinn (metatarsus) og þykkari teygjanlegri hluta við hælbeinið. Þetta gefur þér aukinn stuðning og meiri þægindi. Þykkari, sveigjanlegri og þægilegri en sambærilegir sokkar. Þessir sokkar geta hjálpað til við að koma í veg fyrir blöðrur veita auka þrýsting sem getur haft jákvæð áhrif á blóðrásina. 80% Bómull, 18% Pólýester og 2% Elastine Sokkarnir okkar eru ótrúlega þægilegir og fullkomnir fyrir vinnu, skrifstofuna eða leik. Styrktur hæll tryggir langlífann sokk. Þessir sokkar þorna fljótt og eru mjög vandaðir, þeir halda þér vel við hvað sem þú ert að gera ! LoftslagshlutlausirFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-03-29T07:02:51Z
+  Updated: 2026-04-07T13:27:06Z
   Vendor: Comfyballs
   Product Type: sokkar
   Availability: Available
@@ -1771,7 +1771,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 1,190.00 ISK
 - [White Comfycel bolur + 2 stk Comfycel White nærbuxur](https://comfyballs.is/products/white-comfycel-bolur-2-stk-comfycel-white-naerbuxur): Pakkatilboð á 2 stk White Comfycel nærbuxum og 1 stk Hvítur bolur Comfycel 25% Afsláttur Bæði nærbuxurnar og bolurinn eru framleidd úr okkar eigin einstaka efni, Comfycel® Einstaklega mjúkt og þægilegt efni. LoftslagshlutlaustFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-03-30T14:42:50Z
+  Updated: 2026-04-10T15:45:38Z
   Vendor: Comfyballs.is
   Product Type: nærbuxur og bolur tilboð
   Availability: Available
@@ -1927,7 +1927,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 8,977.00 ISK
 - [Ocean Blue Performance SL Superlight](https://comfyballs.is/products/ocean-blue-performance-sl-superlight): Ljósbláar boxer nærbuxur með dökkbláu mittisbandi og ljósbláu lógói. Léttasta Mesh efni í heimi. Hinar fullkomnu keppnis nærbuxur. Örlítið þrengra snið en venjulegar Performance nærbuxur. Léttustu nærbuxurnar okkar, örtrefja Mesh efni með teygju í 4 áttir, vegur um 135 grömm á hvern fermetra. Sérlega góð rakastýring og yfirburða öndun. Efnið er laust við nanóagnir, Polygiene og önnur efni sem oft eru bætt í. Performance-línan hentar öllum íþróttum og æfingum. Efnið er mjúkt, létt og þolir erfiðustu átök. Rakinn flyst hratt frá húðinni og efnið þornar á methraða, svo þú haldist þurr og ferskur. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Sérhannaðar fyrir íþróttir og virka hreyfingu PackageFront® tækni sem heldur öllu á sínum stað 40 mm mjúkt mittisband úr örtrefjuðum pólýester Þorna hratt og er einstaklega slitsterkar 84% pólýester, 16% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað Umhverfisvæn framleiðsla Allar Comfyballs nærbuxur eru Oeko-Tex vottaðar, sem tryggir að engin skaðleg efni séu notuð í framleiðslunni.Að auki eru allar Comfyballs nærbuxur kolefnishlutlausar í samstarfi við ClimatePartner GmbH. Við höfum reiknað út alla kolefnislosun sem verður til frá upphafi framleiðsluferlisins og þar til varan berst til viðskiptavinarins. Þessa losun jöfnum við síðan út með þátttöku í tveimur umhverfisverkefnum sem miða að kolefnisjöfnun.
-  Updated: 2026-03-30T23:05:49Z
+  Updated: 2026-04-06T19:55:22Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -1981,7 +1981,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/comfyballssuperlightnaerbuxurblaar_lettarnaerbuxur_framan_regularsidd.jpg?v=1746262417
     Price: kr 4,190.00 ISK
 - [Plasma Red Performance SL Superlight](https://comfyballs.is/products/plasma-red-performance-sl-superlight): Skær-rauðar boxer nærbuxur Léttasta Mesh efni í heimi. Hinar fullkomnu keppnis nærbuxur. Örlítið þrengra snið en venjulegar Performance nærbuxur. Léttustu nærbuxurnar okkar, örtrefja Mesh efni með teygju í 4 áttir, vegur um 135 grömm á hvern fermetra. Sérlega góð rakastýring og yfirburða öndun. Efnið er laust við nanóagnir, Polygiene og önnur efni sem oft eru bætt í. Performance-línan hentar öllum íþróttum og æfingum. Efnið er mjúkt, létt og þolir erfiðustu átök. Rakinn flyst hratt frá húðinni og efnið þornar á methraða, svo þú haldist þurr og ferskur. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Sérhannaðar fyrir íþróttir og virka hreyfingu PackageFront® tækni sem heldur öllu á sínum stað 40 mm mjúkt mittisband úr örtrefjuðum pólýester Þorna hratt og er einstaklega slitsterkar 84% pólýester, 16% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað Umhverfisvæn framleiðsla Allar Comfyballs nærbuxur eru Oeko-Tex vottaðar, sem tryggir að engin skaðleg efni séu notuð í framleiðslunni.Að auki eru allar Comfyballs nærbuxur kolefnishlutlausar í samstarfi við ClimatePartner GmbH. Við höfum reiknað út alla kolefnislosun sem verður til frá upphafi framleiðsluferlisins og þar til varan berst til viðskiptavinarins. Þessa losun jöfnum við síðan út með þátttöku í tveimur umhverfisverkefnum sem miða að kolefnisjöfnun.
-  Updated: 2026-03-30T09:25:38Z
+  Updated: 2026-04-04T22:27:31Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -2035,7 +2035,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/comfyballsnaerbuxur_plasmaredlitur_superlight_thaegilegarnaerbuxur_ithrottanaerbuxur_keppnisnaerbuxur_regularsiddnaerbuxur.jpg?v=1746264729
     Price: kr 4,190.00 ISK
 - [Navy Stripe Cotton](https://comfyballs.is/products/navy-stripe-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað Umhverfisvæn framleiðsla Allar Comfyballs nærbuxur eru Oeko-Tex vottaðar, sem tryggir að engin skaðleg efni séu notuð í framleiðslunni.Að auki eru allar Comfyballs nærbuxur kolefnishlutlausar í samstarfi við ClimatePartner GmbH. Við höfum reiknað út alla kolefnislosun sem verður til frá upphafi framleiðsluferlisins og þar til varan berst til viðskiptavinarins. Þessa losun jöfnum við síðan út með þátttöku í tveimur umhverfisverkefnum sem miða að kolefnisjöfnun.
-  Updated: 2026-04-01T13:08:27Z
+  Updated: 2026-04-06T14:00:18Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -2073,7 +2073,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/comfyballsnaerbuxur_navyblaarmedhvitumrondum_thaegilegarnaerbuxurfyrirkarla_naerbuxurkarlar_regularsidd_vorumynd.jpg?v=1749142287
     Price: kr 2,723.00 ISK
   - [Regular / L](https://comfyballs.is/products/navy-stripe-cotton?variant=43364747018333)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/comfyballsnaerbuxur_navyblaarmedhvitumrondum_thaegilegarnaerbuxurfyrirkarla_naerbuxurkarlar_regularsidd_vorumynd.jpg?v=1749142287
     Price: kr 2,723.00 ISK
   - [Regular / XL](https://comfyballs.is/products/navy-stripe-cotton?variant=43364747051101)
@@ -2179,7 +2179,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Comfyballssundbuxur_marina_sundbuxurmedrennilasavasa_rennilasavasa_vorumyndadframan.jpg?v=1746364273
     Price: kr 7,990.00 ISK
 - [Pitch Black Sundbuxur + Ghost Black Cotton Nærbuxur - Tilboð](https://comfyballs.is/products/pitch-black-sundbuxur-ghost-black-cotton-naerbuxur-tilbod): Pakkatilboð á 1 stk Pitch Black Sundbuxum og 1 stk Ghost Black Cotton nærbuxum. 20% Afsláttur Sundbuxurnar: Flottar sundbuxur frá Comfyballs, framleiddar úr efni sem hentar vel í sund og þorna mjög fljótt. Efnið er mjúkt og mjög létt. Sundbuxurnar eru með klassísku sniði sem er hannað með sund í huga. Í mittinu er reim sem auðvelt er að stilla eftir eigin þörfum, á annarri hliðinni er renndur vasi - fullkominn fyrir ýmsa smáhluti, síma, kort, lykla og fleira. Að innanverðu eru sundbuxurnar með innra nærbuxnasniði með PackageFront® tækninni - sem heldur öllu á sínum stað og lyftir búnaðinum frá lærunum. Þetta kemur í veg fyrir óþarfa hitamyndun og veitir aukin þægindi. Sundbuxurnar henta vel fyrir sund, ströndina eða bara á röltinu á Spáni. Flestir karlmenn geta notað 2 stærðir, t.d. ef þú notar stærðina Large í nærbuxum og íþróttabuxum þá er Large stærðin meira aðþrengdara snið og XLarge meira lausara snið. Ef þú ert á milli stærða þá mælum við með að taka stærri stærðina. Hægt er að koma og máta sundbuxurnar í verslun Daría, 1.hæð í Verslunarmiðstöðinni Fjörður Hafnarfirði. Helstu eiginleikar: Sundbuxur Klassískt og þægilegt snið Teygja í mitti með stillanlegri reim Rennilásvasi á vinstri hlið, opinn vasi á hægri hlið og opinn rassvasi Miðlungs sídd Innra stuttbuxnasnið með PackageFront® tækni 100% pólýester Nærbuxurnar: Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-04-03T20:26:41Z
+  Updated: 2026-04-10T16:19:07Z
   Vendor: Comfyballs
   Product Type: Sundbuxur og nærbuxur tilboð
   Availability: Available
@@ -2335,7 +2335,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 9,504.00 ISK
 - [White Comfycel Bolur + Marina Sundbuxur - Tilboð](https://comfyballs.is/products/white-comfycel-bolur-marina-sundbuxur-tilbod): Pakkatilboð á 1stk White Comfycel bol og 1stk Marina sundbuxum 20% Afsláttur Sundbuxurnar: Flottar sundbuxur frá Comfyballs, framleiddar úr efni sem hentar vel í sund og þorna mjög fljótt. Efnið er mjúkt og mjög létt. Sundbuxurnar eru með klassísku sniði sem er hannað með sund í huga. Í mittinu er reim sem auðvelt er að stilla eftir eigin þörfum, á annarri hliðinni er renndur vasi - fullkominn fyrir ýmsa smáhluti, síma, kort, lykla og fleira. Að innanverðu eru sundbuxurnar með innra nærbuxnasniði með PackageFront® tækninni - sem heldur öllu á sínum stað og lyftir búnaðinum frá lærunum. Þetta kemur í veg fyrir óþarfa hitamyndun og veitir aukin þægindi. Sundbuxurnar henta vel fyrir sund, ströndina eða bara á röltinu á Spáni. Flestir karlmenn geta notað 2 stærðir, t.d. ef þú notar stærðina Large í nærbuxum og íþróttabuxum þá er Large stærðin meira aðþrengdara snið og XLarge meira lausara snið. Ef þú ert á milli stærða þá mælum við með að taka stærri stærðina. Hægt er að koma og máta sundbuxurnar í verslun Daría, 1.hæð í Verslunarmiðstöðinni Fjörður Hafnarfirði. Helstu eiginleikar: Sundbuxur Klassískt og þægilegt snið Teygja í mitti með stillanlegri reim Rennilásvasi á vinstri hlið, opinn vasi á hægri hlið og opinn rassvasi Miðlungs sídd Innra stuttbuxnasnið með PackageFront® tækni 100% pólýester Bolurinn Þessi stuttermabolur er framleiddur úr okkar eigin efni, Comfycel®. Fullkomin hversdags flík sem þú getur t.d. bæði notað sem innra lag eða dressað þig upp með jakka yfir. Módelið á myndinni er 186 cm og notar stærð Medium. Þægilegt snið, ótrúlega mjúkt efni sem andar. Fríar póstsendingar yfir 8.000Loftslagshlutlaus
-  Updated: 2026-03-28T20:10:25Z
+  Updated: 2026-04-10T14:22:47Z
   Vendor: Comfyballs
   Product Type: tilboð
   Availability: Available
@@ -2503,7 +2503,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/dokkblaar_ithrottanaerbuxur_performance_naerbuxur_comfyballs_naerbuxur_fyrir_karla_regular_sidd.jpg?v=1761483245
     Price: kr 4,190.00 ISK
 - [Navy No-Show Cotton](https://comfyballs.is/products/navy-no-show-cotton): Fyrir þá sem vilja fljúga undir radar, Navy blue nærbuxur án logo. Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T19:57:48Z
+  Updated: 2026-04-10T13:57:39Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -2611,7 +2611,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Svartarnaerbuxurmedhvitulogo_comfycelnaerbuxur_thaegilegarnaerbuxur_regularsidd.jpg?v=1761487866
     Price: kr 3,990.00 ISK
 - [Ghost Moss Forest Cotton](https://comfyballs.is/products/ghost-moss-forest-cotton): Ljósgrænar með grænu logo á teygju. Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T17:33:39Z
+  Updated: 2026-04-10T13:57:41Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -2665,7 +2665,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/graenarnaerbuxur_comfyballsnaerbuxur_thaegilegarcotton_regularsidd.jpg?v=1761489127
     Price: kr 3,890.00 ISK
 - [Teal Comfycel](https://comfyballs.is/products/teal-comfycel): Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Eiginleikar PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-03-30T09:25:37Z
+  Updated: 2026-04-04T14:17:47Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -2675,7 +2675,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Comfyballs_teal_naerbuxur_thaegilegar_naerbuxur.jpg?v=1765485635
     Price: kr 2,793.00 ISK
   - [Long / M](https://comfyballs.is/products/teal-comfycel?variant=43888210804829)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Comfyballs_teal_naerbuxur_thaegilegar_naerbuxur.jpg?v=1765485635
     Price: kr 2,793.00 ISK
   - [Long / L](https://comfyballs.is/products/teal-comfycel?variant=43888210837597)
@@ -2719,7 +2719,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Comfyballs_teal_naerbuxur_thaegilegar_naerbuxur_graenar_naerbuxur.png?v=1765485632
     Price: kr 2,793.00 ISK
 - [Stóri Comfycel og Cotton pakkinn (10 stk) Long sidd](https://comfyballs.is/products/stori-comfycel-og-cotton-pakkinn-10-stk-long-sidd): Þessi pakki er fyrir þá sem eru búnir að átta sig á hversu þægilegar Comfyballs nærbuxurnar eru og gömlu nærbuxurnar eru á leiðinni í ruslið Tilboðið inniheldur 10 nærbuxur í síddinni Long 5 stk Navy Tangerine Cotton 5 stk Charcoil Vintage Red Comfycel Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóð Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. LoftslagshlutlausarFrí póstsending ef pantað er fyrir 6.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T09:52:19Z
+  Updated: 2026-04-10T16:47:19Z
   Vendor: Comfyballs
   Product Type: tilboð
   Availability: Available
@@ -2833,7 +2833,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 27,580.00 ISK
 - [Stóri Comfycel og Cotton pakkinn (10 stk) Regular sidd](https://comfyballs.is/products/stori-comfycel-og-cotton-pakkinn-10-stk-regular-sidd): Þessi pakki er fyrir þá sem eru búnir að átta sig á hversu þægilegar Comfyballs nærbuxurnar eru og gömlu nærbuxurnar eru á leiðinni í ruslið Tilboðið inniheldur 10 nærbuxur í síddinni Long 5 stk Navy Tangerine Cotton 5 stk Charcoil Vintage Red Comfycel Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóð Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. LoftslagshlutlausarFrí póstsending ef pantað er fyrir 6.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T14:21:56Z
+  Updated: 2026-04-10T11:07:01Z
   Vendor: Comfyballs
   Product Type: tilboð
   Availability: Available
@@ -2983,7 +2983,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 3,990.00 ISK
 - [Charcoal Flame Orange Cotton](https://comfyballs.is/products/charcoal-flame-orange-cotton): Kolgrátt efni með appelsínugulu logo. Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúk og heldur sér á sínum stað
-  Updated: 2026-04-02T13:13:10Z
+  Updated: 2026-04-10T13:57:32Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -3037,7 +3037,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Comfyballsnaerbuxur_charcoalflame.jpg?v=1768496820
     Price: kr 3,890.00 ISK
 - [Comfyballs topp 3 pakki - Regular Sídd](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-regular-sidd): Þessi pakki er fullkominn fyrir þá sem vilja prófa þrjár vinsælustu efnistegundirnar okkar: Cotton, Comfycel® og Performance. Performance frá Comfyballs hentar sérstaklega vel í alls konar íþróttir. Cotton er vinsælasta línan okkar - og það af góðri ástæðu. Comfycel® er sérþróað efni frá Comfyballs og er langmjúkasta línan. Efnið í nærbuxunum er mjúkt, létt og einstaklega slitsterkt, og heldur „búnaðinum“ frá lærunum. Efnið þornar hratt þar sem raki er fluttur frá húðinni. Pakkinn inniheldur - 3 Boxer nærbuxur í Regular sídd, Regular síddin er styttri en Long útgáfan Sjá leiðbeiningar 1 stk Navy Tangerine Cotton 1 stk Vintage red Comfycel 1 stk Charcoil Viper Performance Eiginleikar: PackageFront® heldur „búnaðinum“ á sínum stað og lyftir honum frá lærunum. Kemur í veg fyrir óþarfa hitamyndun og eykur þægindi. Hágæða trefjar fyrir hámarks þægindi og endingu. Ofurmjúkt, rakadrægt teygjuband með góðu lóðréttu haldi og framúrskarandi teygjanleika. Nærbuxurnar eru jafn þægilegar að innan og þær eru fallegar að utan. Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Allar nærbuxur eru Oeko-Tex vottaðar. Að auki kolefnisjöfnum við allar Comfyballs í samstarfi við ClimatePartner GmbH. Það þýðir að við höfum reiknað heildarlosun kolefnis fram að því að varan er komin í hendur viðskiptavinar og bætum hana nú upp með þátttöku í tveimur kolefnisjöfnunarverkefnum.
-  Updated: 2026-04-01T23:30:59Z
+  Updated: 2026-04-10T11:07:03Z
   Vendor: Comfyballs
   Product Type: tilboð
   Availability: Available
@@ -3193,7 +3193,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 9,656.00 ISK
 - [Comfyballs topp 3 pakki - Long Sídd](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd): Þessi pakki er fullkominn fyrir þá sem vilja prófa þrjár vinsælustu efnistegundirnar okkar: Cotton, Comfycel® og Performance. Performance frá Comfyballs hentar sérstaklega vel í alls konar íþróttir. Cotton er vinsælasta línan okkar - og það af góðri ástæðu. Comfycel® er sérþróað efni frá Comfyballs og er langmjúkasta línan. Efnið í nærbuxunum er mjúkt, létt og einstaklega slitsterkt, og heldur „búnaðinum“ frá lærunum. Efnið þornar hratt þar sem raki er fluttur frá húðinni. Pakkinn inniheldur - 3 Boxer nærbuxur í Long sídd, Long eru síðari en Regular útgáfan Sjá leiðbeiningar 1 stk Navy Tangerine Cotton 1 stk Vintage red Comfycel 1 stk Charcoal Viper Performance Eiginleikar: PackageFront® heldur „búnaðinum“ á sínum stað og lyftir honum frá lærunum. Kemur í veg fyrir óþarfa hitamyndun og eykur þægindi. Hágæða trefjar fyrir hámarks þægindi og endingu. Ofurmjúkt, rakadrægt teygjuband með góðu lóðréttu haldi og framúrskarandi teygjanleika. Nærbuxurnar eru jafn þægilegar að innan og þær eru fallegar að utan. Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Allar nærbuxur eru Oeko-Tex vottaðar. Að auki kolefnisjöfnum við allar Comfyballs í samstarfi við ClimatePartner GmbH. Það þýðir að við höfum reiknað heildarlosun kolefnis fram að því að varan er komin í hendur viðskiptavinar og bætum hana nú upp með þátttöku í tveimur kolefnisjöfnunarverkefnum.
-  Updated: 2026-04-03T09:52:22Z
+  Updated: 2026-04-10T16:47:24Z
   Vendor: Comfyballs
   Product Type: tilboð
   Availability: Available
@@ -3235,22 +3235,22 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 9,656.00 ISK
   - [S / L / S](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138778165341)
-    Availability: Available
+    Availability: Not Available
     Price: kr 9,656.00 ISK
   - [S / L / M](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138778198109)
-    Availability: Available
+    Availability: Not Available
     Price: kr 9,656.00 ISK
   - [S / L / L](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138778230877)
-    Availability: Available
+    Availability: Not Available
     Price: kr 9,656.00 ISK
   - [S / L / XL](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138778263645)
-    Availability: Available
+    Availability: Not Available
     Price: kr 9,656.00 ISK
   - [S / L / 2XL](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138778296413)
     Availability: Not Available
     Price: kr 9,656.00 ISK
   - [S / L / 3XL](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138778329181)
-    Availability: Available
+    Availability: Not Available
     Price: kr 9,656.00 ISK
   - [S / XL / S](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138778361949)
     Availability: Not Available
@@ -3343,10 +3343,10 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Price: kr 9,656.00 ISK
   - [M / L / S](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138779344989)
-    Availability: Available
+    Availability: Not Available
     Price: kr 9,656.00 ISK
   - [M / L / M](https://comfyballs.is/products/comfyballs-topp-3-pakki-viper-long-sidd?variant=44138779377757)
-    Availability: Available
+    Availability: Not Available
     Price: kr 9,656.00 ISK
 - [Valentines '26 Cotton](https://comfyballs.is/products/valentines-26-cotton): Valentínusar nærbuxurnar í ár frá Comfyballs Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
   Updated: 2026-03-29T07:03:31Z
@@ -3403,7 +3403,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/10-A23jpg-1200x1200.jpg?v=1770807573
     Price: kr 2,723.00 ISK
 - [Valentines '26 Hipster Cotton](https://comfyballs.is/products/valentines-26-hipster-cotton): Valentínusar Hipster nærbuxurnar frá Comfy Ofurmjúkt og létt efni með óaðfinnanlegum saumum. Comfy eru fullkomin nærföt fyrir hvert tækifæri, þessar verða þínar uppáhalds. Eiginleikar: Breitt og reygjanlegt mittisband (35 mm) Þrýstir ekki uppávið og sker ekki í húðina Mjög mjúkt efni Sérsniðnir flatir saumar Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Aðeins er notað hágæða efni fyrir hámarks þægindi og endingu. Ótrúlega mjúkar og þægilegar, Lycra® er í öllum okkar efnisblöndum ásamt alvöru Flat-Lock saumum. Allar Comfy vörur eru hannaðar fyrir hámarks þægindi og hreyfifrelsi. Öll nærfötin eru Oeko-Tex vottuð, að auki loftslagshlutlaus í samvinnu með ClimatePartner GmbH, sem þýðir að búið er að reikna út heildarlosun koltvísýrings þar til varan er komin í hendur viðskiptavina og erum nú að jafna hann með þáttöku í tveimur kolefnisjöfnunarverkefnum
-  Updated: 2026-04-02T18:38:33Z
+  Updated: 2026-04-08T20:23:38Z
   Vendor: Comfy
   Product Type: hipster nærbuxur
   Availability: Available
@@ -3424,7 +3424,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 2,303.00 ISK
 - [Easter '26 Cotton](https://comfyballs.is/products/easter-26-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-02T22:54:59Z
+  Updated: 2026-04-07T20:32:58Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -3478,7 +3478,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/easterballs_regular.jpg?v=1774567018
     Price: kr 3,890.00 ISK
 - [Orange Comfycel](https://comfyballs.is/products/orange-comfycel): Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Eiginleikar PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T19:40:59Z
+  Updated: 2026-04-10T16:08:17Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -3531,236 +3531,8 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/appelsinugularcomfycel_comfyballs_regularsidd.jpg?v=1774429102
     Price: kr 3,990.00 ISK
-- [Páskatilboð - Easter '26 Cotton og Orange Comfycel (2 Stk) Long sídd](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd): Tilboð á 2 stk Comfyballs nærbuxum í Long síddinni 1stk Easter ´26 Cotton 1stk Orange Comfycel Hafðu það extra þægilegt um páskana í Comfyballs ! Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-04-02T22:55:09Z
-  Vendor: Comfyballs
-  Product Type: nærbuxur tilboð
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Paskanaerbuxur_2NAERBUXUR_BOXER_easterballsogorangecomfycel_Longsidd.png?v=1774428132
-  - [S / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052055133)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [S / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052087901)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052120669)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052153437)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052186205)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052218973)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052251741)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [M / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052284509)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052317277)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052350045)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052382813)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052415581)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052448349)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [L / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052481117)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052513885)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052546653)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052579421)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052612189)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052644957)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [XL / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052677725)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052710493)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052743261)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052776029)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052808797)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052841565)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [2XL / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052874333)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052907101)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052939869)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306052972637)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306053005405)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [3XL / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306053038173)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [3XL / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306053070941)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [3XL / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306053103709)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [3XL / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306053136477)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [3XL / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306053169245)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [3XL / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-long-sidd?variant=44306053202013)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-- [Páskatilboð - Easter '26 Cotton og Orange Comfycel (2 Stk) Regular Sídd](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd): Tilboð á 2 stk Comfyballs nærbuxum í Regular síddinni 1stk Easter ´26 Cotton 1stk Orange Comfycel Hafðu það extra þægilegt um páskana Comfyballs ! Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-04-01T15:15:54Z
-  Vendor: Comfyballs
-  Product Type: nærbuxur tilboð
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Paskanaerbuxur_2NAERBUXUR_BOXER_easterballsogorangecomfycel_regularsidd.png?v=1774428836
-  - [S / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074501213)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074533981)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074566749)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074599517)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074632285)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [S / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074665053)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [M / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074697821)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074730589)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074763357)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074796125)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074828893)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [M / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074861661)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [L / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074894429)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074927197)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074959965)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306074992733)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075025501)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [L / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075058269)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [XL / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075091037)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075123805)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075156573)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075189341)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075222109)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [XL / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075254877)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [2XL / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075287645)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075320413)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075353181)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075385949)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075418717)
-    Availability: Available
-    Price: kr 6,698.00 ISK
-  - [2XL / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075451485)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [3XL / S](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075484253)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [3XL / M](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075517021)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [3XL / L](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075549789)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [3XL / XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075582557)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [3XL / 2XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075615325)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
-  - [3XL / 3XL](https://comfyballs.is/products/paskatilbod-easter-26-cotton-og-orange-comfycel-2-stk-regular-sidd?variant=44306075648093)
-    Availability: Not Available
-    Price: kr 6,698.00 ISK
 - [Green Performance](https://comfyballs.is/products/green-performance): Performance -- Nærföt fyrir hámarks árangur! Performance henta einstaklega vel fyrir allar íþróttir og hreyfingu. Mjúkar léttar og þola erfiðustu æfingar. Efnið þornar mjög fljótt þar sem raki er fluttur frá húðinni fyrir aukin þægindi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Sérhannaðar fyrir íþróttir og hreyfingu PackageFront® 40mm micropolyester mittisband Þorna mjög fljótt og mjög endingargóðar 84% polyester, 16% Lycra® Loftslagshlutlausar Frí póstsending ef pantað er fyrir 8.000 eða meira Eiginleikar: PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T18:49:40Z
+  Updated: 2026-04-10T16:47:08Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -3814,7 +3586,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/graenarnaerbuxur_performanceithrottanaerbuxur_comfyballs_regularsidd.jpg?v=1774429943
     Price: kr 4,190.00 ISK
 - [Banana Green Cotton](https://comfyballs.is/products/banana-green-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T20:53:34Z
+  Updated: 2026-04-08T17:18:30Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -3868,7 +3640,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/10-X46_1.jpg?v=1774518114
     Price: kr 3,890.00 ISK
 - [Paisley Blue Cotton](https://comfyballs.is/products/paisley-blue-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T14:21:46Z
+  Updated: 2026-04-09T16:23:56Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -3916,7 +3688,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/paisleyblue_comfyballsnaerbuxur_regularsidd.jpg?v=1774520390
     Price: kr 3,890.00 ISK
 - [Pizza Cotton](https://comfyballs.is/products/pizza-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T20:53:35Z
+  Updated: 2026-04-10T13:00:26Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -3970,7 +3742,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Pizzacomfyballsnaerbuxur_regularsidd_comfyballs.is.jpg?v=1774522126
     Price: kr 3,890.00 ISK
 - [Donut Cotton](https://comfyballs.is/products/donut-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T20:53:36Z
+  Updated: 2026-04-10T13:24:01Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -4024,7 +3796,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/doughnutcomfyballsnaerbuxur_regularsidd_comfyballs.is.png?v=1774523674
     Price: kr 3,890.00 ISK
 - [Blue Checkered Cotton](https://comfyballs.is/products/blue-checkered-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T16:25:27Z
+  Updated: 2026-04-10T16:33:03Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -4078,7 +3850,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/bluecheckeredcomfyballsnaerbuxur_regularsidd_comfyballs.is.png?v=1774527493
     Price: kr 3,890.00 ISK
 - [Green Checkered Cotton](https://comfyballs.is/products/green-checkered-cotton): Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T16:25:29Z
+  Updated: 2026-04-10T16:08:16Z
   Vendor: Comfyballs
   Product Type: nærbuxur
   Availability: Available
@@ -4180,7 +3952,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 8,490.00 ISK
 - [Köflótt tilboð - (4 stk) Long sídd](https://comfyballs.is/products/koflott-tilbod-4-stk-long-sidd): Tilboð á 4 stk köflóttum Comfyballs Checkered Cotton í Long síddinni. 20% Afsláttur Tilboðið inniheldur 2stk Green checkered cotton 2stk Blue checkered cotton Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T16:25:40Z
+  Updated: 2026-04-10T16:33:12Z
   Vendor: Comfyballs
   Product Type: nærbuxur tilboð
   Availability: Available
@@ -4294,7 +4066,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 12,448.00 ISK
 - [Köflótt tilboð - (4 STK) Regular sídd](https://comfyballs.is/products/koflott-tilbod-4-stk-regular-sidd): Tilboð á 4 stk köflóttum Comfyballs Checkered Cotton í Regular síddinni. 20% Afsláttur Tilboðið inniheldur 2stk Green checkered cotton 2stk Blue checkered cotton Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-03-31T10:48:41Z
+  Updated: 2026-04-10T15:56:48Z
   Vendor: Comfyballs
   Product Type: nærbuxur tilboð
   Availability: Available
@@ -4408,7 +4180,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 12,448.00 ISK
 - [Donut - Banana - Pizza Tilboð (3 STK) Long sídd](https://comfyballs.is/products/donut-banana-pizza-tilbod-3-stk-long-sidd): Þessi pakki er hannaður fyrir þá sem vilja litríkar og flottar nærbuxur! 20% Afsláttur Tilboðið inniheldur 3 nærbuxur í long síddinni 1stk Donut Cotton 1stk Pizza Cotton 1stk Banana Cotton Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-03T20:53:53Z
+  Updated: 2026-04-10T13:24:18Z
   Vendor: Comfyballs
   Product Type: nærbuxur tilboð
   Availability: Available
@@ -4564,7 +4336,7 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
     Availability: Available
     Price: kr 9,336.00 ISK
 - [Donut - Banana - Pizza Tilboð (3 STK) Regular sídd](https://comfyballs.is/products/donut-banana-pizza-tilbod-3-stk-regular-sidd): Þessi pakki er hannaður fyrir þá sem vilja litríkar og flottar nærbuxur! 20% Afsláttur Tilboðið inniheldur 3 nærbuxur í Regular síddinni 1stk Donut Cotton 1stk Pizza Cotton 1stk Banana Cotton Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira Lesa meira um Comfyballs PackageFront® -- er lykillinn að einstökum þægindum - heldur búnaðinum þínum á réttum stað og lyftir frá innanverðum lærum. Kemur í veg fyrir óþarfa núning og veitir aukin þægindi. Speedcut -- Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Ofurmjúk efni -- Aðeins er notað hágæða efni í framleiðslu á Comfyballs, extra mjúkt með Flat-Lock saumum og hámarks öndun. Þægilegt mittisband -- Ofurmjúkt og heldur sér á sínum stað
-  Updated: 2026-04-01T22:27:21Z
+  Updated: 2026-04-05T10:54:13Z
   Vendor: Comfyballs
   Product Type: nærbuxur tilboð
   Availability: Available
@@ -4719,48 +4491,318 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
   - [M / L / M](https://comfyballs.is/products/donut-banana-pizza-tilbod-3-stk-regular-sidd?variant=44310018850909)
     Availability: Available
     Price: kr 9,336.00 ISK
-- [Páskatilboð - tvennutilboð á easterballs (2 stk)](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1): Tilboð á 2 stk Comfyballs nærbuxum í Long síddinni 2stk Easter ´26 Cotton Hafðu það extra þægilegt um páskana í Comfyballs ! Cotton -- Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu; Comfyballs boxerar eru einstaklega mjúkir, anda vel, lyfta búnaðinum frá lærunum og hafa góða endingu. Þessir boxerar halda þér gangandi á hverjum degi. Við viljum benda á að síddin Long er vinsælli heldur en Regular, Regular hentar vel fyrir þá sem vilja hafa nærbuxurnar aðeins styttri en venjulega nærbuxur. Sjá leiðbeiningar Eiginleikar Hversdags nærbuxur og einnig fyrir allskonar hreyfingu PackageFront® 40mm micropolyester mittisband Mjúkar og einnig mjög sterkar 92% cotton, 8% Lycra® Comfycel® -- Extra mjúkar og umhverfisvænar ! Okkar eigið einstaka efni Combed cotton - Combed Cotton er langtrefjuð bómull sem er mýkri og sterkari en hefðbundin bómull, í bland við nýjust kynslóðar Tencel® og Lycra® Einstaklega mjúkt og mjög endingargott. Náttúrulegur raki er fluttur frá húðinni fyrir aukin þægindi. Comfycell dregur meira í sig heldur venjulegur bómull. LoftslagshlutlausarFrí póstsending ef pantað er fyrir 8.000 eða meira
-  Updated: 2026-04-02T22:55:01Z
+- [Topp 3 pakki - Long sídd](https://comfyballs.is/products/topp-3-pakki-long-sidd): Þessi pakki er fullkominn fyrir þá sem vilja prófa þrjár vinsælustu efnistegundirnar okkar: Cotton, Comfycel® og Performance. Performance frá Comfyballs hentar sérstaklega vel í alls konar íþróttir. Cotton er vinsælasta línan okkar - og það af góðri ástæðu. Comfycel® er sérþróað efni frá Comfyballs og er langmjúkasta línan. Efnið í nærbuxunum er mjúkt, létt og einstaklega slitsterkt, og heldur „búnaðinum“ frá lærunum. Efnið þornar hratt þar sem raki er fluttur frá húðinni. Pakkinn inniheldur - 3 Boxer nærbuxur í Long sídd, Long eru síðari en Regular útgáfan Sjá leiðbeiningar 1 stk Navy Tangerine Cotton 1 stk Vintage red Comfycel 1 stk Green Performance Eiginleikar: PackageFront® heldur „búnaðinum“ á sínum stað og lyftir honum frá lærunum. Kemur í veg fyrir óþarfa hitamyndun og eykur þægindi. Hágæða trefjar fyrir hámarks þægindi og endingu. Ofurmjúkt, rakadrægt teygjuband með góðu lóðréttu haldi og framúrskarandi teygjanleika. Nærbuxurnar eru jafn þægilegar að innan og þær eru fallegar að utan. Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Allar nærbuxur eru Oeko-Tex vottaðar. Að auki kolefnisjöfnum við allar Comfyballs í samstarfi við ClimatePartner GmbH. Það þýðir að við höfum reiknað heildarlosun kolefnis fram að því að varan er komin í hendur viðskiptavinar og bætum hana nú upp með þátttöku í tveimur kolefnisjöfnunarverkefnum.
+  Updated: 2026-04-10T16:47:25Z
   Vendor: Comfyballs
-  Product Type: nærbuxur tilboð
+  Product Type: tilboð
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Paskanaerbuxur_2NAERBUXUR_BOXER_easterballs_comfyballs.is_0484b842-d1a1-422a-8664-c20b630cc88a.png?v=1774567299
-  - [Long / S](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643343453)
+  Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Comfyballsnaerbuxur_tilbod_cotton-comfycel-performance-comfyballs.is.png?v=1775581345
+  - [S / S / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644239453)
     Availability: Not Available
-    Price: kr 6,613.00 ISK
-  - [Long / M](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643376221)
+    Price: kr 9,656.00 ISK
+  - [S / S / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644272221)
     Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Long / L](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643408989)
+    Price: kr 9,656.00 ISK
+  - [S / S / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644304989)
     Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Long / XL](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643441757)
+    Price: kr 9,656.00 ISK
+  - [S / S / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644337757)
     Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Long / 2XL](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643474525)
+    Price: kr 9,656.00 ISK
+  - [S / S / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644370525)
     Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Long / 3XL](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643507293)
+    Price: kr 9,656.00 ISK
+  - [S / S / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644403293)
     Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Regular / S](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643540061)
-    Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Regular / M](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643572829)
-    Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Regular / L](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643605597)
-    Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Regular / XL](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643638365)
-    Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Regular / 2XL](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643671133)
-    Availability: Available
-    Price: kr 6,613.00 ISK
-  - [Regular / 3XL](https://comfyballs.is/products/paskatilbod-tvennutilbod-a-easterballs-2-stk-1?variant=44310643703901)
+    Price: kr 9,656.00 ISK
+  - [S / M / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644436061)
     Availability: Not Available
-    Price: kr 6,613.00 ISK
+    Price: kr 9,656.00 ISK
+  - [S / M / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644468829)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644501597)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644534365)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644567133)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644599901)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644632669)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / L / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644665437)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644698205)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644730973)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644763741)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644796509)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644829277)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644862045)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644894813)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644927581)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644960349)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344644993117)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645025885)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645058653)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645091421)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645124189)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645156957)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645189725)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645222493)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645255261)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645288029)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645320797)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645353565)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645386333)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645419101)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [M / S / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645451869)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645484637)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645517405)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645550173)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645582941)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645615709)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [M / M / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645648477)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / L](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645681245)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645714013)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / 2XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645746781)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / 3XL](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645779549)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / L / S](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645812317)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [M / L / M](https://comfyballs.is/products/topp-3-pakki-long-sidd?variant=44344645845085)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+- [Topp 3 pakki - Regular sídd](https://comfyballs.is/products/topp-3-pakki-regular-sidd): Þessi pakki er fullkominn fyrir þá sem vilja prófa þrjár vinsælustu efnistegundirnar okkar: Cotton, Comfycel® og Performance. Performance frá Comfyballs hentar sérstaklega vel í alls konar íþróttir. Cotton er vinsælasta línan okkar - og það af góðri ástæðu. Comfycel® er sérþróað efni frá Comfyballs og er langmjúkasta línan. Efnið í nærbuxunum er mjúkt, létt og einstaklega slitsterkt, og heldur „búnaðinum“ frá lærunum. Efnið þornar hratt þar sem raki er fluttur frá húðinni. Pakkinn inniheldur - 3 Boxer nærbuxur í Regular sídd, Regular síddin er styttri en Long útgáfan Sjá leiðbeiningar 1 stk Navy Tangerine Cotton 1 stk Orange Comfycel 1 stk Charcoil Viper Performance Eiginleikar: PackageFront® heldur „búnaðinum“ á sínum stað og lyftir honum frá lærunum. Kemur í veg fyrir óþarfa hitamyndun og eykur þægindi. Hágæða trefjar fyrir hámarks þægindi og endingu. Ofurmjúkt, rakadrægt teygjuband með góðu lóðréttu haldi og framúrskarandi teygjanleika. Nærbuxurnar eru jafn þægilegar að innan og þær eru fallegar að utan. Allar Comfyballs nærbuxur eru frekar lágar í mittið og örlítið lægri að framan en að aftan, gert fyrir hámarks þægindi og hreyfifrelsi. Allar nærbuxur eru Oeko-Tex vottaðar. Að auki kolefnisjöfnum við allar Comfyballs í samstarfi við ClimatePartner GmbH. Það þýðir að við höfum reiknað heildarlosun kolefnis fram að því að varan er komin í hendur viðskiptavinar og bætum hana nú upp með þátttöku í tveimur kolefnisjöfnunarverkefnum.
+  Updated: 2026-04-10T16:08:30Z
+  Vendor: Comfyballs
+  Product Type: tilboð
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/2478/6781/files/Comfyballsnaerbuxur_tilbod_cotton-comfycel-performance-regularsidd-comfyballs.is.png?v=1775583451
+  - [S / S / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011306589)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / S / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011339357)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / S / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011372125)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / S / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011404893)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / S / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011437661)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / S / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011470429)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / M / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011503197)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011535965)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011568733)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011601501)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011634269)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / M / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011667037)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / L / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011699805)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011732573)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011765341)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011798109)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011830877)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / L / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011863645)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011896413)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011929181)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011961949)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345011994717)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012027485)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / XL / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012060253)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012093021)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012125789)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012158557)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012191325)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012224093)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 2XL / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012256861)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012289629)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012322397)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012355165)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012387933)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012420701)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [S / 3XL / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012453469)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [M / S / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012486237)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012519005)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012551773)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012584541)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012617309)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / S / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012650077)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [M / M / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012682845)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012715613)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / L](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012748381)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012781149)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / 2XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012813917)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / M / 3XL](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012846685)
+    Availability: Not Available
+    Price: kr 9,656.00 ISK
+  - [M / L / S](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012879453)
+    Availability: Available
+    Price: kr 9,656.00 ISK
+  - [M / L / M](https://comfyballs.is/products/topp-3-pakki-regular-sidd?variant=44345012912221)
+    Availability: Available
+    Price: kr 9,656.00 ISK
 
 ## Collections
 
@@ -4768,49 +4810,49 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
   Updated: 2026-03-29T07:03:42Z
   Total Products: 0
 - [Cotton nærbuxur - bómullar nærbuxur - þægilegar nærbuxur - Comfyballs](https://comfyballs.is/collections/cotton-naerbuxur): Bómullar nærbuxur Hinar fullkomnu hversdags nærbuxur! Cotton er vinsælasta týpan hjá okkur og ekki að ástæðulausu. Þessir boxerar halda þér gangandi á hverjum degi.
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 27
 - [Vinsælustu vörurnar](https://comfyballs.is/collections/vinsaelustu-vorurnar)
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 48
 - [COMFYCEL® Nærbuxur - extra mjúkar nærbuxur - Comfyballs](https://comfyballs.is/collections/comfycel-naerbuxur): Comfycel ® nærbuxur Comfycel® -- Extra mjúkar og umhverfisvænar nærbuxur ! Okkar eigið einstaka efni, einkaleyfisverndað
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 7
 - [Performance íþróttanærbuxur - Æfinga nærbuxur - Comfyballs](https://comfyballs.is/collections/performance-ithrottanaerbuxur): Performance Nærföt fyrir hámarks árangur ! Henta mjög vel fyrir allar íþróttir og þjálfun. Mjúkar, léttar og þola erfiðistu æfingar. Efnið þornar mjög fljótt þar sem það hrindir frá sér raka.
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 7
 - [Brief nærbuxur - þægilegar brief nærbuxur - Comfyballs](https://comfyballs.is/collections/brief-naerbuxur): Comfyballs brief nærbuxur fyrir karla. Styttri en boxerar, með háu sniði í fótaopum og PackageFront® tækni sem kemur í veg fyrir núning. Fáanlegar í Cotton og Performance. Frí sending yfir 8.000 kr.
-  Updated: 2026-03-29T11:19:57Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 2
 - [Tilboð á nærbuxum og nærfötum | Comfyballs.is](https://comfyballs.is/collections/tilbod): Nýttu þér tilboð á Comfyballs nærbuxum og nærfötum. Allt að 30% afsláttur af úrvali pakkatilboða. Hágæða þægindi á góðu verði - verslaðu núna með fríu flutningsgjaldi.
-  Updated: 2026-03-29T07:03:53Z
-  Total Products: 59
+  Updated: 2026-04-07T17:43:05Z
+  Total Products: 58
 - [Hipster nærbuxur - Þægilegar nærbuxur - Comfy](https://comfyballs.is/collections/hipster-naerbuxur): Hipster nærbuxur Hipsters eru blanda af tveimur undirfatastílum, bikini og boxer, mjög þægileg snið. Bæði til í Comfycel og Performance útgáfu
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-09T11:18:52Z
   Total Products: 5
 - [Konur nærföt - Þægileg nærföt - Comfy](https://comfyballs.is/collections/konur-naerfot): Konu nærbuxur frá Comfyballs: þægindi án málamiðlana. Verslaðu toppa og nærbuxur í samstæðum settum. Frí sending yfir 6.000 kr
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 30
 - [String - G strengir - Þægilegar nærbuxur - Comfy](https://comfyballs.is/collections/string-g-strengir): Þægilegir g-strengir fyrir konur frá Comfy. Fáanlegt í Cotton, Comfycel® og Performance efnum. Mjúkir, fallegir og hannaðir fyrir dagleg þægindi. Frí sending yfir 8.000 kr.
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 9
 - [Saumlausar nærbuxur - Þægilegar nærbuxur - Comfy](https://comfyballs.is/collections/saumlausar-naerbuxur): Saumlausar nærbuxur Efnið Þornar mjög fljótt, er mjög mjúkt og ótrúlega létt. Saumlaust er nánast ósýnilegt undir fötum og þrengja hvergi að
-  Updated: 2026-03-29T07:03:50Z
+  Updated: 2026-04-05T11:15:43Z
   Total Products: 2
 - [Toppar - Þægilegir toppar - Comfy](https://comfyballs.is/collections/toppar): Comfy toppar Þægilegir hversdags toppar
-  Updated: 2026-04-01T11:20:27Z
+  Updated: 2026-04-04T11:17:48Z
   Total Products: 6
 - [Comfy fatnaður fyrir karla | Bolir, buxur og sokkar | Comfyballs.is](https://comfyballs.is/collections/comfy-fatnadur-menn): ComfyWear hversdagsfatnaður fyrir karla. Bolir, buxur, sokkar og fleira frá Comfyballs. Þægileg og óformleg kósý föt sem henta bæði heima og úti. Frí sending yfir 8.000 kr
-  Updated: 2026-04-02T11:18:22Z
+  Updated: 2026-04-09T11:18:52Z
   Total Products: 18
 - [Karlar nærföt - nærbuxur - þægilegar nærbuxur - Comfyballs](https://comfyballs.is/collections/karlar-naerfot): Skoðaðu úrval Comfyballs nærbuxna fyrir karla. Cotton, Performance og Comfycel í boði. Einstök PackageFront® tækni fyrir hámarks þægindi. Fríar póstsendingar yfir 8.000 kr.
-  Updated: 2026-04-03T11:17:37Z
-  Total Products: 108
+  Updated: 2026-04-10T11:21:30Z
+  Total Products: 110
 - [Konur tilboð](https://comfyballs.is/collections/konur-tilbod)
   Updated: 2026-03-29T07:03:46Z
   Total Products: 9
 - [Nýjustu vörurnar - nærbuxur - fatnaður - Comfyballs](https://comfyballs.is/collections/nyjasta-nytt): Nýjar vörur frá Comfyballs: þægilegar nærbuxur og fatnaður fyrir daginn og æfingar. Skoðaðu nýjustu vörurnar. Frí sending yfir 6.000 kr
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 50
 - [gjafabréf](https://comfyballs.is/collections/gjafabref)
   Updated: 2026-03-29T07:03:41Z
@@ -4819,28 +4861,28 @@ Comfyballs Ísland - Opinber íslensk netverslun norska nærbuxnamerkisins Comfy
   Updated: 2026-03-29T07:03:43Z
   Total Products: 14
 - [Valentínusardagur 25](https://comfyballs.is/collections/valentinusardagur-25): Limited edition Valentínusarlínan frá Comfyballs og Comfy er tilvalin Valentínusargjöf. Gefðu þægilegustu gjöfina í ár !
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-09T11:18:52Z
   Total Products: 16
 - [Outlet - Útsala](https://comfyballs.is/collections/outlet-utsala): Hér færðu þægilegustu nærbuxur í heimi á ótrúlegu verði ! Rýmum fyrir nýjum vörum
-  Updated: 2026-04-02T11:18:22Z
+  Updated: 2026-04-10T11:21:30Z
   Total Products: 5
 - [Superlight nærbuxur - íþróttanærbuxur - léttar nærbuxur - Comfyballs](https://comfyballs.is/collections/superlight-naerbuxur): Léttustu nærbuxurnar okkar, örtrefja Mesh efni með teygju í 4 áttir, vegur um 135 grömm á hvern fermetra.
-  Updated: 2026-03-31T11:18:04Z
+  Updated: 2026-04-07T11:20:04Z
   Total Products: 2
 - [Sundbuxur  með renndum vasa - Comfyballs](https://comfyballs.is/collections/sundbuxur): Comfyballs sundbuxur - stílhreinar, þægilegar og hannaðar fyrir karla Sundbuxur með PackageFront® tækni, sem veitir aukin þægindi og stuðning þar sem það skiptir mestu máli. Hvort sem þú ert að slaka á við sundlaugina, njóta sólarinnar á ströndinni eða rölta um í bænum á heitum sumardegi – þá finnur þú réttu sundbuxurnar hjá okkur.
-  Updated: 2026-04-02T11:18:22Z
+  Updated: 2026-04-04T11:17:48Z
   Total Products: 3
 - [Fatnaður Konur](https://comfyballs.is/collections/fatnadur-konur)
   Updated: 2026-04-02T11:18:22Z
   Total Products: 1
 - [Smart Products Filter Index - Do not delete](https://comfyballs.is/collections/globofilter-best--products-index)
-  Updated: 2026-04-03T11:17:37Z
-  Total Products: 145
+  Updated: 2026-04-10T11:21:30Z
+  Total Products: 147
 - [Outlet útsala á Comfyballs nærbuxum | Comfyballs.is](https://comfyballs.is/collections/outlet): Skoðaðu Comfyballs outlet útsöluna. Hágæða nærbuxur og nærföt á lækkuðu verði. Takmarkað úrval, þannig að vertu fljót/ur að tryggja þér þína stærð
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-09T11:18:52Z
   Total Products: 9
 - [páskar](https://comfyballs.is/collections/paskar)
-  Updated: 2026-04-03T11:17:37Z
+  Updated: 2026-04-08T11:21:33Z
   Total Products: 5
 
 ## Blogs
