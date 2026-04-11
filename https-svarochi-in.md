@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-19T18:04:56Z
 - Contact Email: info@svarochi.in
-- Updated At: 2026-04-03T00:00:41.976Z
+- Updated At: 2026-04-11T00:00:45.449Z
 
 ## Products
 
@@ -721,6 +721,18 @@
     Author: Svarochi
   - [Editorial on the Role of Ethnic Wear in Modern Indian Weddings](https://svarochi.in/blogs/news/editorial-on-the-role-of-ethnic-wear-in-modern-indian-weddings): Editorial on the Role of Ethnic Wear in Modern Indian Weddings
     Updated: 2026-04-01T01:13:34Z
+    Author: Svarochi
+  - [Historical Overview of Indian Ethnic Kurti Trends for Brides](https://svarochi.in/blogs/news/historical-overview-of-indian-ethnic-kurti-trends-for-brides): Historical Overview of Indian Ethnic Kurti Trends for Brides
+    Updated: 2026-04-03T01:22:25Z
+    Author: Svarochi
+  - [Comparing Bridal Lehengas: Traditional vs Modernized Styles](https://svarochi.in/blogs/news/comparing-bridal-lehengas-traditional-vs-modernized-styles): Comparing Bridal Lehengas: Traditional vs Modernized Styles
+    Updated: 2026-04-06T01:22:35Z
+    Author: Svarochi
+  - [A Tutorial on Mixing and Matching Ethnic Accessories with Bridal Wear](https://svarochi.in/blogs/news/a-tutorial-on-mixing-and-matching-ethnic-accessories-with-bridal-wear): A Tutorial on Mixing and Matching Ethnic Accessories with Bridal Wear
+    Updated: 2026-04-08T01:11:38Z
+    Author: Svarochi
+  - [10 Indo Western Lehenga Styles Every Bride Should Consider](https://svarochi.in/blogs/news/10-indo-western-lehenga-styles-every-bride-should-consider): 10 Indo Western Lehenga Styles Every Bride Should Consider
+    Updated: 2026-04-10T01:09:34Z
     Author: Svarochi
 
 ## Store Pages
