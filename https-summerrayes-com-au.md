@@ -14,7 +14,7 @@ Based in Queensland, Australia, and inspired by the Whitsundays, Summer Rayes co
 - Timezone: Australia/Brisbane
 - Created At: 2025-04-03T08:16:52Z
 - Contact Email: nikki@summerrayes.com.au
-- Updated At: 2026-04-03T22:47:06.402Z
+- Updated At: 2026-04-11T00:00:24.121Z
 
 Summer Rayes is an Australian-made natural skincare brand designed specifically for teens and tweens. Our mission is to simplify skincare for young, sensitive, and breakout-prone skin using gentle, effective, and clean formulations.
 
@@ -72,14 +72,14 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Sun_Veil_OA1.jpg?v=1769115786
   Price: $34.00 AUD
 - [Clear Start Trio | Teen Anti-Blemish Routine | Summer Rayes](https://summerrayes.com.au/products/clear-start-trio): Best- teen skincare trio | Cleanser, toner & lotion to fight breakouts & hydrate | Natural, Aussie-made & gentle on young skin
-  Updated: 2026-03-30T10:49:49Z
+  Updated: 2026-04-09T07:14:29Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Clear_Start_Trio_OA1_1.jpg?v=1769281509
   Price: $95.00 AUD
 - [Sunset Skin Quad | Teen Anti-Blemish Routine | Summer Rayes](https://summerrayes.com.au/products/sunset-skin-quad): Clear, calm & radiant skin for teens & tweens | 4-step natural skincare routine fights blemishes & boosts glow | Aussie-made, gentle & effective
-  Updated: 2026-04-03T01:22:02Z
+  Updated: 2026-04-09T07:13:03Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
@@ -93,7 +93,7 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
   Image: https://cdn.shopify.com/s/files/1/0586/4613/4913/files/Dream_Glow_Duo_-_front_image.png?v=1756306040
   Price: $63.00 AUD
 - [Fresh Face Trio | Teen Hydration Set | Summer Rayes Skincare](https://summerrayes.com.au/products/fresh-face-trio): Hydrating skincare routine for teens & tweens | Cleanser, mist & moisturiser | Natural, Australian made skincare set for soft, dewy, glowing skin
-  Updated: 2026-03-29T02:48:16Z
+  Updated: 2026-04-09T07:14:09Z
   Vendor: Summer Rayes
   Product Type: skincare bundle
   Availability: Available
@@ -152,19 +152,19 @@ We focus on easy daily routines powered by natural ingredients and Australian bo
 ## Collections
 
 - [Teen Skincare Routines & Bundles | Summer Rayes](https://summerrayes.com.au/collections/bundles): Simple skincare routines for teens. Save on clean, gentle sets designed to hydrate, calm, and fight blemishes naturally.
-  Updated: 2026-04-03T11:08:27Z
+  Updated: 2026-04-07T11:10:36Z
   Total Products: 7
 - [New Teen Skincare Products | Summer Rayes](https://summerrayes.com.au/collections/new-arrivals): Discover the latest in teen skincare. Clean, safe, and natural new arrivals designed to hydrate, balance, and glow.
   Updated: 2026-03-22T11:05:29Z
   Total Products: 9
 - [Best Teen Skincare Products | Summer Rayes Best Sellers](https://summerrayes.com.au/collections/best-sellers): Shop our best- teen skincare - gentle, natural, and effective. Clear, calm, confident skin powered by Australian fruits and botanicals.
-  Updated: 2026-04-03T11:08:27Z
+  Updated: 2026-04-07T11:10:36Z
   Total Products: 6
 - [Skincare for Teens | Australian Made | Summer Rayes Skincare](https://summerrayes.com.au/collections/skincare): Clean, safe, and effective skincare made for teens and tweens. From daily basics to targeted treatments, every product is designed to nurture young skin.
-  Updated: 2026-04-03T11:08:27Z
+  Updated: 2026-04-07T11:10:36Z
   Total Products: 19
 - [Natural Anti-Blemish Skincare for Teens](https://summerrayes.com.au/collections/anti-blemish-natural-skincare-for-teens): A skincare collection made for teens and tweens navigating oily, blemish-prone skin. Each product helps clear, calm, and restore confidence.
-  Updated: 2026-04-03T11:08:27Z
+  Updated: 2026-04-06T11:05:14Z
   Total Products: 8
 - [Anti-Blemish Teen Skincare | Australian Made](https://summerrayes.com.au/collections/anti-blemish-collection-copy): A skincare collection made for teen and tween boys navigating oily, blemish-prone skin. Each product helps clear, calm, and restore confidence.
   Updated: 2026-03-22T11:05:29Z
