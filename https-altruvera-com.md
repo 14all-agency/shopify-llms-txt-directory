@@ -9,7 +9,7 @@
 - Created At: 2025-07-03T08:08:45Z
 - Contact Email: info@altruvera.com
 - Address: 2801 Ocean Park Blvd 1080 Santa Monica California 90405
-- Updated At: 2026-04-03T00:00:34.772Z
+- Updated At: 2026-04-11T00:00:37.496Z
 
 ## Products
 
@@ -232,6 +232,8 @@
   Updated: 2025-09-03T06:51:43Z
 - [Terms of service](https://altruvera.com/pages/terms-of-service): OVERVIEW Welcome to Altruvera. The terms “we”, “us”, and “our” refer to Altruvera. Altruvera operates this store and website, including all related...
   Updated: 2025-09-03T06:54:27Z
+- [Charity](https://altruvera.com/pages/charity)
+  Updated: 2026-04-06T14:38:45Z
 
 ## Policies
 
