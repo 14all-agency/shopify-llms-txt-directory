@@ -5,40 +5,40 @@
 - Currency: CAD
 - Timezone: America/Los_Angeles
 - Created At: 2016-01-20T04:41:52Z
-- Updated At: 2026-04-01T00:00:42.646Z
+- Updated At: 2026-04-11T00:00:48.284Z
 
 ## Products
 
 - [Samlex SEC-1235M 30A Switching Power Supply | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/samlexamerica-30a-desktop-switching-power-supply-with-volt-amp-meters): Get the Samlex SEC-1235M, a 30A (35A peak) switching power supply with analogue volt/amp meters for your 100W ham radio. Ships fast from Canada.
-  Updated: 2026-03-29T01:36:59Z
+  Updated: 2026-04-05T01:48:38Z
   Vendor: Samlex America
   Product Type: Power Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/samlexamerica-sec-1235m-30a-desktop-switching-power-supply-with-volt-amp-meters-supplies-933.webp?v=1768996938
   Price: $329.99 CAD
 - [VHF/UHF SWR & Watt Meter Kit (MOD 104) | Fleetwood Digital](https://www.fleetwooddp.com/products/workman-electronics-vhf-uhf-swr-watt-meter): Shop the Workman MOD 104 SWR/Watt meter kit. Includes a 3ft jumper cable! The perfect tool for 2m/70cm ham and GMRS radios. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:00Z
+  Updated: 2026-04-05T01:48:39Z
   Vendor: Workman Electronics
   Product Type: SWR Meter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/workman-electronics-mod-104-vhf-uhf-swr-watt-meter-with-jumper-cable-vhf-uhf-wattmeter-840.webp?v=1768996940
   Price: $79.99 CAD
 - [Astatic PDC1 SWR Meter Kit | Fleetwood Digital](https://www.fleetwooddp.com/products/astatic-pdc1-hf-swr-rf-power-watt-meter-full-kit-qrp-100w-max-includes-jumper-dummy-load): Shop the Astatic PDC1 SWR/Watt meter. This complete kit includes a 30W dummy load and 3ft PL259 jumper cable. Perfect for 10m/CB. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:01Z
+  Updated: 2026-04-05T01:48:39Z
   Vendor: Astatic
   Product Type: SWR Meter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/astatic-pdc1-hf-swr-rf-power-watt-meter-full-kit-qrp-100w-max-includes-jumper-dummy-580.webp?v=1768996951
   Price: $99.99 CAD
 - [Astatic PDC2 SWR/Power/FS Meter Kit | Fleetwood Digital](https://www.fleetwooddp.com/products/astatic-pdc2-swr-power-field-strength-meter-full-kit-includes-jumper-dummy-load): Shop the Astatic PDC2 3-in-1 meter. This complete kit includes a 30W dummy load, jumper cable, and FS antenna. Perfect for CB/10m. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:02Z
+  Updated: 2026-04-05T01:48:40Z
   Vendor: Astatic
   Product Type: SWR Meter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/astatic-pdc2-swr-power-field-strength-meter-full-kit-includes-jumper-dummy-load-black-223.webp?v=1768996956
   Price: $119.99 CAD
 - [Ham Radio Gift Card](https://www.fleetwooddp.com/products/gift-card): Fleetwood Digital gift cards are the perfect gift for the amateur ham radio operator in your life. Gift cards are delivered by email and have no fees.
-  Updated: 2026-03-29T01:37:03Z
+  Updated: 2026-04-05T01:48:42Z
   Vendor: Fleetwood Digital
   Product Type: Gift Card
   Availability: Available
@@ -62,70 +62,70 @@
     Availability: Available
     Price: $100.00 CAD
 - [BNC-Male to SMA-Female Adapter | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/bnc-to-sma-f-antenna-adapter-converts-bnc-radio-to-sma): Connect an SMA-Male antenna (Yaesu, Signal Stick) to your scanner or Icom HT (BNC). This BNC-Male to SMA-Female adapter is a must-have. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:04Z
+  Updated: 2026-04-05T01:48:43Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/bnc-to-sma-female-antenna-adapter-converts-radio-157.webp?v=1768996983
   Price: $9.99 CAD
 - [BNC-Male to SO-239 (UHF-Female) Adapter | Canada](https://www.fleetwooddp.com/products/bnc-to-so239-antenna-adapter): Connect your scanner or HT (BNC) to a PL-259 coax cable. This BNC-Male to SO-239 adapter is essential for external antennas. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:05Z
+  Updated: 2026-04-05T01:48:43Z
   Vendor: Generic
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/61HTAnc_G4S._AC_SL1001.jpg?v=1768990451
   Price: $12.99 CAD
 - [SMA-Female to BNC-Female Adapter | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/sma-f-bnc-antenna-adapter): Connect a BNC antenna to your Baofeng or Quansheng radio. This SMA-Female to BNC-Female adapter is a must-have for scanner antennas. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:06Z
+  Updated: 2026-04-05T01:48:44Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/sma-female-to-bnc-antenna-adapter-688.webp?v=1768996985
   Price: $9.99 CAD
 - [SMA-Female to SMA-Female Adapter | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/sma-f-sma-f-converts-chinese-sma-to-north-american-sma): The essential adapter to connect a Yaesu or Signal Stick antenna (SMA-Male) to your Baofeng or Quansheng UV-5R style radio (SMA-Male). Ships fast from Canada.
-  Updated: 2026-03-29T01:37:07Z
+  Updated: 2026-04-05T01:48:45Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/61waqBSVk4L._AC_SL1001.jpg?v=1768990460
   Price: $12.99 CAD
 - [SMA-Male to BNC-Female Adapter (Fits Yaesu) | Canada](https://www.fleetwooddp.com/products/sma-m-bnc-antenna-adapter-icom-yaesu-kenwood): Connect your Yaesu, Icom, or Retevis RT85 to a BNC antenna. This SMA-Male (pin) to BNC-Female adapter is perfect for SDRs. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:07Z
+  Updated: 2026-04-05T01:48:46Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/sma-male-to-bnc-antenna-adapter-icom-yaesu-kenwood-two-856.webp?v=1768996992
   Price: $9.99 CAD
 - [SMA-Female to SO-239 (UHF-Female) Adapter | Canada](https://www.fleetwooddp.com/products/sma-f-to-so239-f-antenna-adapter): Connect your Baofeng UV-5R or Quansheng UV-K5 to a PL-259 coax cable. This SMA-Female adapter fits radios with a center pin. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:08Z
+  Updated: 2026-04-05T01:48:46Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/815TiTrQToL._AC_SL1500.jpg?v=1768990465
   Price: $12.99 CAD
 - [SMA-Male to SO-239 Adapter (Fits Icom / RT85) | Canada](https://www.fleetwooddp.com/products/sma-m-to-so239-f-antenna-adapter): Connect a PL-259 coax to your Yaesu, Icom, Kenwood, RT85. This SMA-Male (Pin) adapter fits radios with a center hole antenna port. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:09Z
+  Updated: 2026-04-05T01:48:47Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/71eS6Zu-yyL._AC_SL1500.jpg?v=1768990474
   Price: $12.99 CAD
 - [SO-239 to SO-239 UHF Barrel Connector | Canada](https://www.fleetwooddp.com/products/so239-so239-barrel-connector): Need to connect two PL-259 coax cables? This SO-239 to SO-239 barrel adapter (UHF double female) is the perfect coupler. Ships fast from Canada. Pick-up in Van.
-  Updated: 2026-03-29T01:37:10Z
+  Updated: 2026-04-05T01:48:48Z
   Vendor: TCC Industries
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/so239-to-uhf-barrel-antenna-connector-adapter-two-shiny-metal-860.webp?v=1768997003
   Price: $12.99 CAD
 - [A28 Lightning Arrestor PL259 Coax Protector](https://www.fleetwooddp.com/products/workman-electronics-a28-male-to-female-lightning-arrestor): Workman Electronics A28 PL259 Male to Female Spark Chamber Lightning Arrestor. Silver coaxial cable connector. UHF male to UHF female. Protects against high voltage.
-  Updated: 2026-03-29T01:37:11Z
+  Updated: 2026-04-05T01:48:49Z
   Vendor: Workman Electronics
   Product Type: Lightning Arrestor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/workman-electronics-a28-pl259-male-to-female-spark-chamber-lightning-arrestor-silver-729.webp?v=1768997030
   Price: $9.99 CAD
 - [DistribuComm COMM530B 2' "Twist-Tune" CB Antenna Kit | Canada](https://www.fleetwooddp.com/products/distribucomm-comm530b-2-foot-twist-tune-cb-antenna-kit): Shop the DistribuComm COMM530B, a 2-foot "Twist-Tune" CB antenna kit. This Canadian brand is low-profile and includes a mount. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:12Z
+  Updated: 2026-04-05T01:48:51Z
   Vendor: Distribucomm
   Product Type: CB Antenna
   Availability: Available
@@ -150,49 +150,49 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/k40-k30-mag-mount-cb-antenna-623.webp?v=1768997065
   Price: $89.99 CAD
 - [Uniden BCD436HP Digital Scanner | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/uniden-bcd436hp-homepatrol-series-provoice-police-scanner): The Uniden BCD436HP brings HomePatrol ease-of-use to a handheld. Monitors P25 Phase 1 & 2. Simply enter your postal code to start scanning. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:14Z
+  Updated: 2026-04-05T01:48:52Z
   Vendor: Uniden
   Product Type: Radio Scanner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/uniden-bcd436hp-homepatrol-series-digital-police-radio-scanner-radio-scanner-748.webp?v=1768997080
   Price: $949.99 CAD
 - [3 Finger CB Microphone Hanger Holder with Screws](https://www.fleetwooddp.com/products/3-finger-mic-holder-with-screws): Fleetwood Digital offers the 3 Finger CB Microphone Hanger Holder. This metal microphone hanger holder with screws is designed for mobile mics with a back button or top loop/ring.
-  Updated: 2026-03-29T01:37:15Z
+  Updated: 2026-04-05T01:48:53Z
   Vendor: Distribucomm
   Product Type: Microphone Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/3-finger-cb-microphone-hanger-holder-with-screws-metal-clip-809.webp?v=1768997090
   Price: $4.99 CAD
 - [Retevis 3.5mm Listen-Only Earpiece | Covert Acoustic Tube for Speaker Mics](https://www.fleetwooddp.com/products/acoustic-tube-secret-service-surveillance-earphone-3-5mm): Add private listening to your two-way radio speaker mic. This 3.5mm listen-only acoustic tube earpiece delivers crystal clear audio in loud environments. Compatible with Motorola, Kenwood, Baofeng, and Retevis.
-  Updated: 2026-03-29T01:37:15Z
+  Updated: 2026-04-05T01:48:54Z
   Vendor: Retevis
   Product Type: Speaker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/c9049a-1_20250812180504_2421.jpg?v=1772517235
   Price: $14.99 CAD
 - [Hand Held Radio Wrist Strap Lanyard](https://www.fleetwooddp.com/products/hand-held-radio-wrist-strap-lanyard): Fleetwood Digital offers a Hand Held Radio Wrist Strap Lanyard. This black strap lanyard features an adjustable slider and universal fit. Replace a lost or broken wrist strap.
-  Updated: 2026-03-29T01:37:16Z
+  Updated: 2026-04-05T01:48:55Z
   Vendor: Generic
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/hand-held-radio-wrist-strap-lanyard-parts-black-adjustable-102.webp?v=1768997108
   Price: $9.99 CAD
 - [PL259 Antenna Coax Connector for RG8/U Cable](https://www.fleetwooddp.com/products/pl259-connector-solder-on): Fleetwood Digital offers PL259 antenna coax connectors for RG8/U cable. This solder-on PL259 antenna connector fits ~10mm coax. Includes shield and plug.
-  Updated: 2026-03-29T01:37:17Z
+  Updated: 2026-04-05T01:48:55Z
   Vendor: TCC Industries
   Product Type: PL259 Coax Connector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pl259-antenna-coax-connector-10mm-rg8-u-solder-on-silver-gold-coaxial-345.webp?v=1768997112
   Price: $9.99 CAD
 - [Baofeng Programming Software (UV-5R / UV-82 Etc...) - For  Canada](https://www.fleetwooddp.com/products/baofeng-programming-software): * * * DIGITAL DOWNLOAD 65MB * * * * * * PHYSICAL MEDIA NOT INCLUDED * * * EZ-2-INSTALL All software is organized by directory based on radio model.
-  Updated: 2026-03-29T01:37:18Z
+  Updated: 2026-04-05T01:48:56Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/baofeng-programming-software-uv-5r-82-434.webp?v=1768997118
   Price: $0.00 CAD
 - [Wouxun Baofeng TYT OEM Radio Belt Clip - For  Canada](https://www.fleetwooddp.com/products/wouxun-baofeng-oem-radio-belt-clip): Have multiple batteries and want belt clips for all of them? Need to replace a lost belt clip for your Wouxun radio? Need to replace a broken belt.
-  Updated: 2026-03-29T01:37:21Z
+  Updated: 2026-04-05T01:48:59Z
   Vendor: Fleetwood Digital
   Product Type: Battery
   Availability: Available
@@ -225,14 +225,14 @@
     Availability: Available
     Price: $14.99 CAD
 - [Uniden BCD325P2 Digital Scanner (P25 Phase 2) | Canada](https://www.fleetwooddp.com/products/uniden-bcd325p2-handheld-trunktracker-v-scanner): The Uniden BCD325P2 is a compact TrunkTracker V handheld scanner. Monitors P25 Phase 1 & 2 out of the box. 25,000 channels. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:22Z
+  Updated: 2026-04-05T01:49:00Z
   Vendor: Uniden
   Product Type: Radio Scanner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/uniden-bcd325p2-handheld-trunktracker-v-scanner-radio-244.webp?v=1768997156
   Price: $749.99 CAD
 - [President Electronics Virginia Magnet Mount CB Antenna](https://www.fleetwooddp.com/products/president-new-york-premium-magnet-mount-cb-antenna): Discover the President Electronics New Virginia Magnet Mount CB Antenna, a compact and powerful solution for reliable CB radio communication.
-  Updated: 2026-03-29T01:37:23Z
+  Updated: 2026-04-05T01:49:00Z
   Vendor: President
   Product Type: CB Antenna
   Availability: Available
@@ -253,49 +253,49 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/solarcon-antron-99-17-foot-cb-base-station-antenna-fiberglass-omnidirectional-white-pole-528.webp?v=1768997184
   Price: $249.99 CAD
 - [Stainless Steel CB Antenna Stud 3/8 x 24](https://www.fleetwooddp.com/products/stainless-steel-cb-antenna-stud-3-8-x-24-so239): Fleetwood Digital offers a Stainless Steel CB Antenna Stud 3/8 x 24 SO239. This steel cb antenna mount eliminates inefficient antenna connections. Durable stainless steel construction prevents rust for reliable performance.
-  Updated: 2026-03-29T01:37:23Z
+  Updated: 2026-04-05T01:49:01Z
   Vendor: Highway Man
   Product Type: Antenna Mount
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/stainless-steel-cb-antenna-stud-3-8-x-24-so239-mount-metal-threaded-119.webp?v=1768997185
   Price: $14.99 CAD
 - [Type N-Male to SO-239 Adapter | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/type-n-to-so239-uhf-antenna-adapter): Connect a standard PL-259 coax cable to a Type N antenna or radio. This Type N-Male to SO-239 adapter is essential for base stations. Ships fast.
-  Updated: 2026-03-29T01:37:24Z
+  Updated: 2026-04-05T01:49:02Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/type-n-to-so239-uhf-antenna-adapter-303.webp?v=1768997194
   Price: $12.99 CAD
 - [Type N-Male to BNC-Female Adapter | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/type-n-to-bnc-antenna-adapter): Convert a Type N port to BNC. This high-quality Type N-Male to BNC-Female adapter is perfect for test equipment and commercial antennas. Ships fast.
-  Updated: 2026-03-29T01:37:25Z
+  Updated: 2026-04-05T01:49:03Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/type-n-to-bnc-antenna-adapter-321.webp?v=1768997200
   Price: $12.99 CAD
 - [Repair Return Processed Canada](https://www.fleetwooddp.com/products/repair-return): Fleetwood Digital Repair Return: Your device has been processed and is on its way back to you. Serving Canada.
-  Updated: 2026-03-29T01:37:26Z
+  Updated: 2026-04-05T01:49:04Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/repair-return-man-device-134.webp?v=1768997202
   Price: $0.00 CAD
 - [President McKinley SSB CB Radio | Fleetwood Digital](https://www.fleetwooddp.com/products/president-mckinley-usa-am-ssb-cb-radio): Shop the legendary President McKinley AM/SSB CB radio. This rugged 12/24V rig has a built-in SWR meter, 3-colour display, and 7 weather channels. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:27Z
+  Updated: 2026-04-05T01:49:05Z
   Vendor: President
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-mckinley-usa-am-ssb-cb-radio-black-520.webp?v=1768997207
   Price: $279.99 CAD
 - [BNC-Male to SMA-Male Adapter | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/bnc-to-sma-m-antenna-adapter): Connect your BNC scanner or SDR to an SMA-Female antenna (Baofeng/Quansheng style). This BNC-Male to SMA-Male adapter is a must-have. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:28Z
+  Updated: 2026-04-05T01:49:05Z
   Vendor: Fleetwood Digital
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/bnc-to-sma-male-antenna-adapter-712.webp?v=1768997216
   Price: $9.99 CAD
 - [Dummy Placeholder AA AAA Battery Case Shell](https://www.fleetwooddp.com/products/dummy-placeholder-aa-aaa-battery): Fleetwood Digital offers Dummy Placeholder AA / AAA Battery Case Shells. These yellow cylindrical battery cases lower voltage in battery strings, ideal for using Alkaline batteries in devices designed for rechargeable batteries.
-  Updated: 2026-03-29T01:37:29Z
+  Updated: 2026-04-05T01:49:06Z
   Vendor: Generic
   Product Type: Battery
   Availability: Available
@@ -307,7 +307,7 @@
     Availability: Available
     Price: $6.99 CAD
 - [BC and Canada Forestry Freeway Highway and Walkie Talkie Frequencies - For ](https://www.fleetwooddp.com/products/bc-forestry-freeway-highway-and-walkie-talkie-frequencies): * * Nothing in this PDF is proprietary or secretive. * * All information has been pulled from public websites, and simply organized into a single PDF.
-  Updated: 2026-03-29T01:37:30Z
+  Updated: 2026-04-05T14:24:19Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
@@ -321,42 +321,35 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/Shipping_b611095e-d5f7-4311-96c4-53d9d0930b87.jpg?v=1630771304
   Price: $0.00 CAD
 - [SMA-Female to SO-239 Pigtail Cable | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/sma-to-so-239-pl-259-pigtail-antenna-adapter): This SMA-Female to SO-239 pigtail protects your handheld. Connect your Baofeng or Quansheng to a PL-259 cable with no port stress. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:31Z
+  Updated: 2026-04-05T01:49:08Z
   Vendor: ShengDa Com
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/71RFzJKBxPL._SL1500.jpg?v=1768997229
   Price: $14.99 CAD
-- [MCX-Male to SMA-Female Adapter | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/mcx-to-sma-sdr-dongle-antenna-adapter): Connect your RTL-SDR dongle to a high-gain SMA-Male antenna (Yaesu/Icom style). This MCX-Male to SMA-Female adapter is a must-have. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:31Z
-  Vendor: Fleetwood Digital
-  Product Type: Antenna Adapter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1133/9674/files/mcx-to-sma-sdr-dongle-antenna-adapter-coaxial-cable-906.webp?v=1768997231
-  Price: $14.99 CAD
 - [PL259 Antenna Coax Reducer for RG59 RG8X](https://www.fleetwooddp.com/products/pl259-antenna-coax-connector-reducer-rg59-rg8x): Fleetwood Digital offers the PL259 Antenna Coax Connector Reducer for RG59/RG8X. This antenna coax reducer adapts smaller RG8X or RG59 coax to a PL259 antenna connector.
-  Updated: 2026-03-29T01:37:33Z
+  Updated: 2026-04-05T01:49:10Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pl259-antenna-coax-connector-reducer-rg59-rg8x-shiny-metal-pipe-807.webp?v=1768997255
   Price: $1.99 CAD
 - [On-Glass Dual-Band Ham Antenna (WEP2000) | Fleetwood Digital](https://www.fleetwooddp.com/products/workman-electronics-wep2000-on-glass-dual-band-vhf-uhf-50w-mobile-amateur-ham-radio-antenna): Shop the Workman WEP2000 on-glass ham radio antenna. The perfect no-drill, no-magnet solution for cars, trucks (even aluminum), & apartments. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:34Z
+  Updated: 2026-04-05T01:49:11Z
   Vendor: Workman Electronics
   Product Type: Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/workman-electronics-wep2000-glass-mount-dual-band-vhf-uhf-50w-mobile-apartment-amateur-255.webp?v=1768997267
   Price: $59.99 CAD
 - [Workman BS1HAM Multi Band Ham Radio Dipole Antenna](https://www.fleetwooddp.com/products/workman-electronics-bs1ham-20m-to-uhf-multi-band-dipole-antenna): Fleetwood Digital offers the Workman Electronics BS1HAM multi-band ham radio dipole antenna.
-  Updated: 2026-03-29T01:37:34Z
+  Updated: 2026-04-05T01:49:12Z
   Vendor: Workman Electronics
   Product Type: Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/workman-electronics-bs1ham-40m-to-10-meter-multi-band-hf-amateur-ham-radio-dipole-antenna-361.webp?v=1768997282
   Price: $89.99 CAD
 - [Workman T601 Wide-Band Discone Antenna (Scanner/Ham)](https://www.fleetwooddp.com/products/workman-electronics-t601-discone-multiband-vhf-220-uhf-amateur-ham-radio-antenna): Shop the Workman T601 Discone Antenna. Get 25-1300MHz receive for your scanner, plus 2m/1.25m/70cm ham transmit. Perfect for apartments. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:35Z
+  Updated: 2026-04-05T01:49:13Z
   Vendor: Workman Electronics
   Product Type: Antenna
   Availability: Available
@@ -370,21 +363,21 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/ebook-how-to-program-baofeng-dm-5r-dmr-digital-amateur-ham-radio-book-419.webp?v=1768997309
   Price: $0.00 CAD
 - [eBook - How to Program Baofeng DM-1701 DMR Digital Amateur Ham Radio - For ](https://www.fleetwooddp.com/products/ebook-how-to-program-baofeng-dm-1701-dmr-digital-amateur-ham-radio): Take the guess work out of codeplug creation with this Baofeng DM-1701 codeplug manual written in house by Fleetwood Digital. The DM-1701 shares many.
-  Updated: 2026-03-29T01:37:36Z
+  Updated: 2026-04-05T01:49:13Z
   Vendor: Fleetwood Digital
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/ebook-how-to-program-baofeng-dm-1701-dmr-digital-amateur-ham-radio-book-765.webp?v=1768997311
   Price: $0.00 CAD
 - [eBook - How to Program Baofeng DM-1801 DMR Digital Amateur Ham Radio - For ](https://www.fleetwooddp.com/products/ebook-how-to-program-baofeng-dm-1801-dmr-digital-amateur-ham-radio): Take the guess work out of codeplug creation with this Baofeng DM-1801 codeplug manual written in house by Fleetwood Digital. The DM-1801 shares many.
-  Updated: 2026-03-29T01:37:37Z
+  Updated: 2026-04-05T01:49:14Z
   Vendor: Fleetwood Digital
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/ebook-how-to-program-baofeng-dm-1801-dmr-digital-amateur-ham-radio-book-133.webp?v=1768997312
   Price: $0.00 CAD
 - [Retevis Digital DMR RT3S Programming Cable](https://www.fleetwooddp.com/products/tyt-digital-dmr-md-380-md-390-programming-cable): Retevis Digital DMR Windows Programming Cable for RT3S radios. This black Retevis programming cable offers USB connectivity for Windows PC or laptop, compatible with Retevis RT3S DMR Tier II radios.
-  Updated: 2026-03-29T01:37:38Z
+  Updated: 2026-04-05T01:49:15Z
   Vendor: Retevis
   Product Type: Programming Cable
   Availability: Available
@@ -397,14 +390,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-digital-dmr-windows-programming-cable-k-plug-rt3s-international-busy-port-940.webp?v=1768997317
     Price: $24.99 CAD
 - [eBook - How To Program & Understand The Baofeng UV-5R Amateur Ham Radio - For](https://www.fleetwooddp.com/products/ebook-how-to-program-the-baofeng-uv-5r-amateur-ham-radio): Is your UV-5R getting the best of you? Are you stuck with troubleshooting a USB cable? Are you confused about the basic memory settings in Chirp? Or.
-  Updated: 2026-03-29T01:37:38Z
+  Updated: 2026-04-05T01:49:16Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/ebook-how-to-program-understand-the-baofeng-uv-5r-amateur-ham-radio-723.webp?v=1768997319
   Price: $0.00 CAD
 - [Workman WEP144 VHF Rubber Duck Antenna](https://www.fleetwooddp.com/products/workman-electronics-wep144-sma-vhf-2m-amateur-ham-radio-antenna): Workman Electronics WEP144 SMA VHF 2M 144 Amateur Ham Radio Antenna replaces lost or broken rubber duck antennas. Restore your signal with this fishing float style rubber duck antenna.
-  Updated: 2026-03-29T01:37:39Z
+  Updated: 2026-04-05T01:49:17Z
   Vendor: Workman Electronics
   Product Type: Antenna
   Availability: Available
@@ -418,77 +411,77 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/Repair-Return-250g_ba913351-fe18-40ea-83fc-c78ec5fe65bc.jpg?v=1667104978
   Price: $0.00 CAD
 - [TYT TH-9800 USB Windows Programming Cable](https://www.fleetwooddp.com/products/tyt-th-8600-th-9800-th-7800-usb-windows-programming-cable): TYT TH-9800 USB Windows Programming Cable for TH-7800/TH-8600. Program your TYT mobile radio with this essential USB Windows programming cable. Easily update firmware and settings via TYT software.
-  Updated: 2026-03-29T01:37:41Z
+  Updated: 2026-04-05T01:49:18Z
   Vendor: TYT
   Product Type: Programming Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tyt-th-9800-7800-8600-usb-windows-programming-cable-driver-976.webp?v=1768997330
   Price: $25.00 CAD
 - [Uniden Atlantis 275 IPX8 Submersible Marine Radio](https://www.fleetwooddp.com/products/uniden-atlantis-275-ipx8-submersible-floating-vhf-marine-two-way-radio): Discover the Uniden Atlantis 275, an IPX8 submersible floating VHF marine two way radio with NOAA channels and superior waterproof performance.
-  Updated: 2026-03-29T01:37:41Z
+  Updated: 2026-04-05T01:49:19Z
   Vendor: Uniden
   Product Type: Marine VHF Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/uniden-atlantis-275-ipx8-submersible-floating-vhf-marine-two-way-radio-black-handheld-411.webp?v=1768997338
   Price: $249.99 CAD
 - [PL259 Antenna Coax Connector for RG58](https://www.fleetwooddp.com/products/pl259-antenna-coax-connector-reducer-rg58): Fleetwood Digital offers the PL259 Antenna Coax Connector Reducer for RG58. This antenna coax reducer adapts smaller RG58 coax to PL259 antenna connectors, ensuring secure connections.
-  Updated: 2026-03-29T01:37:42Z
+  Updated: 2026-04-05T01:49:20Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pl259-antenna-coax-connector-reducer-rg58-shiny-metal-pipe-760.webp?v=1768997347
   Price: $1.99 CAD
 - [Maxon America Radio Programming 49 BC RR & LADD](https://www.fleetwooddp.com/products/maxon-america-radio-programming-40-bc-rr-10-ladd-channels): Maxon America Radio Programming for 49 BC RR and 10 Western Canada LADD channels. This programming fee covers setup for Maxon America radios and is valid at the time of purchase.
-  Updated: 2026-03-29T01:37:43Z
+  Updated: 2026-04-05T01:49:20Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/maxon-america-radio-programming-49-bc-rr-10-ladd-channels-red-white-semi-truck-226.webp?v=1768997352
   Price: $59.99 CAD
 - [Baofeng UV-82 Spare Battery for Amateur Ham Radio](https://www.fleetwooddp.com/products/baofeng-uv-82-standard-capacity-battery): Baofeng UV-82 Standard Capacity Battery. Black spare battery for Baofeng UV-82 Amateur Ham Radio. OEM 1800 mAh battery.
-  Updated: 2026-03-29T01:37:44Z
+  Updated: 2026-04-05T01:49:21Z
   Vendor: Baofeng
   Product Type: Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/baofeng-uv-82-standard-capacity-battery-black-radio-812.webp?v=1768997354
   Price: $19.99 CAD
 - [Workman B100 Saturn Base Antenna (10m/11m) | Fleetwood Digital](https://www.fleetwooddp.com/products/workman-electronics-b100-saturn-10m-11m-cb-base-station-antenna): Shop the compact Workman B100 Saturn base antenna. This 39-inch "no ground plane" antenna handles 500W and covers 10m/11m bands. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:44Z
+  Updated: 2026-04-05T01:49:22Z
   Vendor: Workman Electronics
   Product Type: CB Base Station Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/saturn-b100-10m-11m-cb-base-station-antenna-black-gold-pole-461.webp?v=1768997357
   Price: $99.99 CAD
 - [T734 Discone Scanner & Ham/CB Antenna | Fleetwood Digital](https://www.fleetwooddp.com/products/workman-electronics-t734-discone-multiband-10m-cb-6m-vhf-220-uhf-amateur-ham-radio-antenna): Shop the T734 Discone. Get 25-1300MHz receive, plus 10m/11m/6m/2m/1.25m/70cm transmit. The one-antenna solution. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:45Z
+  Updated: 2026-04-08T03:24:37Z
   Vendor: Workman Electronics
   Product Type: Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/workman-electronics-t734-discone-multiband-cb-10m-6m-vhf-220-uhf-amateur-ham-radio-175.webp?v=1768997368
   Price: $119.99 CAD
 - [Samlex SEC-1212 10A Switching Power Supply | Canada](https://www.fleetwooddp.com/products/samlexamerica-sec-1212-10a-desktop-switching-power-supply): Get the Samlex SEC-1212, a 10A (12A peak) switching power supply. It's lightweight, compact, and clean, perfect for 50W mobile or ham radios. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:47Z
+  Updated: 2026-04-05T01:49:24Z
   Vendor: Samlex America
   Product Type: Power Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/samlex-america-sec-1212-10a-desktop-switching-power-supply-supplies-472.webp?v=1768997392
   Price: $269.99 CAD
 - [Ham Radio Walkie Talkie Repair Wrench](https://www.fleetwooddp.com/products/two-way-amateur-ham-radio-walkie-talkie-repair-tool-separation-wrench): Fleetwood Digital offers a metal Two Way Amateur Ham Radio Walkie Talkie repair tool separation wrench. This multi-tool with toothed and slotted ends separates PCBs from cases and removes control knobs.
-  Updated: 2026-03-29T01:37:47Z
+  Updated: 2026-04-05T01:49:25Z
   Vendor: Generic
   Product Type: Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/two-way-amateur-ham-radio-walkie-talkie-repair-tool-separation-wrench-tools-metal-multi-896.webp?v=1768997396
   Price: $14.99 CAD
 - [TYT TH-UV88 / RT85 Battery Eliminator | Fleetwood Digital](https://www.fleetwooddp.com/products/tyt-th-uv88-battery-eliminator): Run your TYT TH-UV88 or Retevis RT85 all day with our 12V battery eliminator. Replaces your battery for in-car use. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:48Z
+  Updated: 2026-04-08T14:55:43Z
   Vendor: Retevis
   Product Type: Eliminator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rt85-th-uv88-12v-cigarette-lighter-power-port-battery-eliminator-car-charger-739.webp?v=1768997407
   Price: $19.99 CAD
 - [TYT TH-350 Tri Band Amateur Ham Radio](https://www.fleetwooddp.com/products/tyt-th-350-tri-band-vhf-220-uhf-pure-amateur-ham-radio): The TYT TH-350 amateur ham radio is a rugged tri-band handheld transceiver. It provides reliable performance across the VHF, 220, and UHF amateur bands.
-  Updated: 2026-03-29T01:37:49Z
+  Updated: 2026-04-05T01:49:28Z
   Vendor: TYT
   Product Type: Amateur Ham Radio
   Availability: Available
@@ -501,21 +494,21 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tyt-th-350-tri-band-vhf-220-uhf-amateur-ham-radio-international-port-cargo-ship-971.webp?v=1768997417
     Price: $129.99 CAD
 - [TYT TH-350 Lithium Ion Battery 7.4V 1600mAh](https://www.fleetwooddp.com/products/tyt-th-350-battery): The TYT TH-350 LB-75L(350) lithium ion battery provides long-lasting 7.4V 1600mAh power for your ham radio. This rechargeable ion battery offers reliable performance.
-  Updated: 2026-03-29T01:37:50Z
+  Updated: 2026-04-05T01:49:28Z
   Vendor: TYT
   Product Type: Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tyt-th-350-lb-75l-350-7-4v-1600mah-lithium-ion-battery-rechargeable-pack-140.webp?v=1768997419
   Price: $29.99 CAD
 - [Uniden SDS100 True I/Q Digital Scanner | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/uniden-sds100-true-i-q-digital-handheld-police-scanner): The Uniden SDS100 is the ultimate digital scanner. Features True I/Q for perfect simulcast decoding, P25 Phase 1 & 2, and a color screen. Ships fast from Canada.
-  Updated: 2026-03-29T01:37:51Z
+  Updated: 2026-04-05T01:49:29Z
   Vendor: Uniden
   Product Type: Radio Scanner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/uniden-sds100-true-iq-digital-handheld-police-scanner-radio-441.webp?v=1768997422
   Price: $1,099.99 CAD
 - [TYT MD-380 RT3S Amateur Ham Radio Charger](https://www.fleetwooddp.com/products/tyt-md-380-110v-ac-desktop-battery-charger): Fleetwood Digital offers the TYT MD-380, MD-UV-380, and RT3S Amateur Ham Radio 110V AC desktop battery charger. This black two-way radio charger includes a power adapter.
-  Updated: 2026-03-29T01:37:53Z
+  Updated: 2026-04-05T01:49:31Z
   Vendor: TYT
   Product Type: Charger
   Availability: Available
@@ -536,14 +529,14 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/baofeng-uv-82-amateur-ham-radio-programming-software-580.webp?v=1768997475
   Price: $0.00 CAD
 - [TYT TH-9000(D) Amateur Ham Radio Programming Software & Manual](https://www.fleetwooddp.com/products/tyt-th-9000d-amateur-ham-radio-programming-software-manual): TYT TH-9000 / TH-9000D Amateur Ham Radio Programming Software & Manual IMPORTANT - PLEASE READKindly provide your email address and agree to receive emails from Fleetwood Digital so we may send you the link to download the software and or manual. Fleetwood Digital does not  personal information and will only use it subject to our privacy policy. For example but no limited to providing an address for a shipping label or an account for QSO rewards.
-  Updated: 2026-03-29T01:37:54Z
+  Updated: 2026-04-05T01:49:33Z
   Vendor: TYT
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/TYT-TH-9000D-Amateur-Ham-Radio-Programming-Software-Manual_9815cac8-71f1-4c8c-8192-5cae103019c2.jpg?v=1628787263
   Price: $0.00 CAD
 - [40cm High Gain Tri Band SMA Male Ham Radio Antenna](https://www.fleetwooddp.com/products/shengda-com-sd-771t-sma-m-tri-band-amateur-ham-radio-antenna-144-220-440): This 40cm tri-band ham radio antenna offers high gain performance for 144/220/440 MHz. A flexible whip design with an SMA male connector for TYT and Wouxun radios.
-  Updated: 2026-03-29T01:37:55Z
+  Updated: 2026-04-05T01:49:33Z
   Vendor: ShengDa Com
   Product Type: Ham Radio Antenna
   Availability: Available
@@ -564,91 +557,91 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/helida-cp-uv2000-amateur-ham-radio-programming-software-how-to-manually-program-341.webp?v=1768997505
   Price: $0.00 CAD
 - [Workman Electronics FH5 Inline Fuse Holder](https://www.fleetwooddp.com/products/workman-electronics-fh5-20-gauge-2a-inline-fuse-holder): Protect your electronics with the Workman Electronics FH5 20 Gauge 2A Inline Fuse Holder.
-  Updated: 2026-03-29T01:37:55Z
+  Updated: 2026-04-05T01:49:34Z
   Vendor: Workman Electronics
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/workman-electronics-fh5-20-gauge-2a-inline-fuse-holder-parts-red-wire-white-710.webp?v=1768997514
   Price: $4.99 CAD
 - [GX16 4 Pin Male CB HAM Microphone Connector Socket](https://www.fleetwooddp.com/products/gx16-4-pin-male-cb-ham-radio-microphone-pcb-chassis-connector-socket-jack): Fleetwood Digital offers the GX16 4 Pin Male CB HAM Radio microphone connector socket. This silver metal connector socket is a common PCB microphone connector found on CB and some Ham Radios.
-  Updated: 2026-03-29T01:37:57Z
+  Updated: 2026-04-05T01:49:35Z
   Vendor: Generic
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/gx16-4-pin-male-cb-ham-radio-microphone-pcb-chassis-connector-socket-jack-parts-silver-229.webp?v=1768997519
   Price: $4.99 CAD
 - [TYT MD-UV380 Amateur Ham Radio Programming Software And Manual](https://www.fleetwooddp.com/products/tyt-md-uv380-amateur-ham-radio-programming-software): TYT MD-UV380 Amateur Ham Radio Programming Software. Only compatible with the new dual band MD-UV380 Contains owners user instruction manual in PDF. IMPORTANT - PLEASE READKindly provide your email address and agree to receive emails from Fleetwood Digital so we may send you the link to download the software and or manual. Fleetwood Digital does not  personal information and will only use it subject to our privacy policy. For example but no limited to providing an address for a shipping label or an account for QSO rewards.
-  Updated: 2026-03-29T01:37:58Z
+  Updated: 2026-04-05T01:49:36Z
   Vendor: TYT
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/TYT-MD-UV380-Amateur-Ham-Radio-Programming-Software-And-Manual_96f3f477-c791-4419-b218-a4187eb72b2b.jpg?v=1628787813
   Price: $0.00 CAD
 - [Baofeng Waterproof Speaker Microphone UV-9R Adapter](https://www.fleetwooddp.com/products/baofeng-waterproof-audio-adapter-bf-a58-uv-9r-wp): Baofeng Waterproof Speaker Microphone Audio Adapter BF-A58 for UV-9R radios. Connects K-plug speaker mics to waterproof Baofeng audio ports. Includes secure install screw.
-  Updated: 2026-03-29T01:37:59Z
+  Updated: 2026-04-05T01:49:38Z
   Vendor: Generic
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/baofeng-waterproof-speaker-microphone-audio-adapter-bf-a58-uv-9r-wp-parts-black-802.webp?v=1768997527
   Price: $24.99 CAD
 - [Radio Programming & Ham Radio Repair Services Canada](https://www.fleetwooddp.com/products/technical-service-radio-programming): Fleetwood Digital provides technical service and radio programming for amateur ham radios in Canada and GMRS radios in the USA/Canada. We also offer repair services and miscellaneous parts.
-  Updated: 2026-03-29T01:37:59Z
+  Updated: 2026-04-05T01:49:38Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/technical-service-misc-parts-radio-programming-man-equipment-446.jpg?v=1752764897
   Price: $65.00 CAD
 - [Maxon America Canada UHF GMRS Radio Programming](https://www.fleetwooddp.com/products/maxon-america-radio-programming-22-canada-uhf-gmrs-channels): Fleetwood Digital offers Maxon America radio programming for 15 Canada UHF GMRS channels. This service covers setup fees for Maxon America job-site two-way radios.
-  Updated: 2026-03-29T01:38:00Z
+  Updated: 2026-04-05T01:49:39Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/maxon-america-radio-programming-15-canada-uhf-gmrs-channels-worker-high-visibility-safety-220.webp?v=1768997541
   Price: $65.00 CAD
 - [USB Ham Radio Charger 12V DC for Wouxun/TYT](https://www.fleetwooddp.com/products/usb-amateur-ham-radio-charger-12v-dc-5-5mm): Fleetwood Digital offers a USB Amateur Ham Radio Charger. This 12V DC 5.5mm USB to DC power cable is compatible with Wouxun and TYT ham radio chargers. Power your radio via USB for emergency preparedness or camping.
-  Updated: 2026-03-29T01:38:02Z
+  Updated: 2026-04-05T01:49:40Z
   Vendor: Generic
   Product Type: Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/usb-amateur-ham-radio-charger-12v-dc-5-5mm-wouxun-tyt-power-888.webp?v=1768997543
   Price: $14.99 CAD
 - [T Connector Mobile Amateur Ham Radio Power Socket](https://www.fleetwooddp.com/products/t-connector-mobile-amateur-ham-radio-male-female-dc-power-socket): Fleetwood Digital offers T Connector Mobile Amateur Ham Radio male and female DC power sockets.
-  Updated: 2026-03-29T01:38:03Z
+  Updated: 2026-04-05T01:49:42Z
   Vendor: Generic
   Product Type: Power Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/t-connector-mobile-amateur-ham-radio-male-female-dc-power-socket-parts-electrical-set-750.webp?v=1768997545
   Price: $12.99 CAD
 - [18ft RG58 PL-259 Coax Antenna Cable | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/distribucomm-18ft-rg58-pl-259-antenna-coax-cable-95-shielded): Get this 18-foot RG58 coaxial antenna cable with PL-259 connectors. The standard length for mobile installs. Features 95% copper shielding. Ships fast.
-  Updated: 2026-03-29T01:38:04Z
+  Updated: 2026-04-05T01:49:42Z
   Vendor: Distribucomm
   Product Type: Coax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/4129-500x500-2.jpg?v=1768997556
   Price: $24.99 CAD
 - [12ft RG58 PL-259 Coax Patch Cable | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/distribucomm-12ft-rg58-pl-259-patch-cable-95-shielded): Get this 12-foot RG58 coaxial patch cable with PL-259 connectors. Features premium 95% copper shielding for low noise. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:04Z
+  Updated: 2026-04-05T01:49:43Z
   Vendor: Distribucomm
   Product Type: Coax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/4129-500x500.jpg?v=1768997558
   Price: $14.99 CAD
 - [Browning BR-180 | NMO Antenna | Dual Band VHF/UHF](https://www.fleetwooddp.com/products/tram-browning-br180-dual-band-vhf-uhf-100w-mobile-nmo-amateur-ham-radio-antenna): Bundle and Save! Upgrade your mobile rig with the Browning BR-180. This 37" NMO antenna handles 100W of power with 2.4/5.5 dB gain. Balance size & performance.
-  Updated: 2026-03-29T01:38:06Z
+  Updated: 2026-04-05T01:49:44Z
   Vendor: Tram-Browning
   Product Type: Ham Radio Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tram-browning-br180-dual-band-vhf-uhf-100w-mobile-nmo-amateur-ham-radio-antenna-none-111.webp?v=1768997567
   Price: $79.99 CAD
 - [Tram G1239 NMO Magnet Mount with 17' Coax Cable](https://www.fleetwooddp.com/products/tram-g1239-nmo-antenna-magnet-mount-with-17-rg58-pl259-coax): Securely mount antennas with the Tram G1239 NMO Antenna Magnet Mount. It features a strong magnet base and a 17' RG58 coax cable for reliable performance.
-  Updated: 2026-03-29T01:38:07Z
+  Updated: 2026-04-05T01:49:46Z
   Vendor: Tram-Browning
   Product Type: Antenna Mount
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/tram-g1239-nmo-antenna-magnet-mount-with-17-rg58-pl259-coax-473.webp?v=1768997586
   Price: $54.99 CAD
 - [TYT Replacement Battery Ham Radio Belt Clip](https://www.fleetwooddp.com/products/tyt-replacement-battery-ham-radio-belt-clip): TYT replacement battery ham radio belt clip. This genuine OEM TYT part is a black plastic belt clip with included mounting screws. Two styles available. Select the correct replacement battery ham radio belt clip before ordering.
-  Updated: 2026-03-29T01:38:08Z
+  Updated: 2026-04-05T01:49:47Z
   Vendor: Retevis
   Product Type: Accessories
   Availability: Available
@@ -662,76 +655,76 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-tyt-replacement-battery-ham-radio-belt-clip-th-uv8200-accessories-black-564.webp?v=1768997597
     Price: $9.99 CAD
 - [PL259 UHF Male Connector for LMR400 Coax Cable](https://www.fleetwooddp.com/products/pl259-antenna-coax-connector-lmr400-screw-on): Fleetwood Digital offers PL259 UHF male connectors for LMR400 coax cable. These screw-on PL259 connectors feature silver plating for superior conductivity. Sold individually for LMR400 coax.
-  Updated: 2026-03-29T01:38:09Z
+  Updated: 2026-04-05T01:49:47Z
   Vendor: TCC Industries
   Product Type: PL259 Coax Connector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pl259-uhf-male-antenna-coax-connector-lmr400-screw-on-shiny-chrome-ramune-123.webp?v=1768997602
   Price: $9.99 CAD
 - [3ft RG58 PL-259 Coax Patch Cable | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/distribucomm-3-rg58-pl259-coax-antenna-cable): Get this 3-foot RG58 coaxial patch cable with PL-259 connectors. Features premium 95% copper shielding for low noise and RFI protection. Ships fast.
-  Updated: 2026-03-29T01:38:10Z
+  Updated: 2026-04-05T01:49:48Z
   Vendor: Distribucomm
   Product Type: Coax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/4123-500x500-2.jpg?v=1768997606
   Price: $9.99 CAD
 - [DistribuComm COMM20 Low-Profile CB Antenna | Canada](https://www.fleetwooddp.com/products/comm20-magnetic-mount-1-4-wave-low-profile-mobile-cb-radio-antenna): Get the Canadian-brand DistribuComm COMM20. This low-profile mag-mount CB antenna offers similar performance to premium brands at a fraction of the cost. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:12Z
+  Updated: 2026-04-05T01:49:49Z
   Vendor: Distribucomm
   Product Type: CB Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/comm20-mag-mount-low-profile-10m-11m-12m-amateur-ham-radio-cb-antenna-black-base-628.webp?v=1768997617
   Price: $69.99 CAD
 - [Tram 1181 | Compact 18.5" NMO Antenna | Wide Band VHF/UHF](https://www.fleetwooddp.com/products/tram-1181-dual-band-mobile-amateur-ham-radio-antenna): The Tram 1181 is a compact 18.5" NMO antenna covering 140-170 MHz and 430-470 MHz. Perfect for Ham, GMRS, and Commercial use. Unity Gain VHF / 2.5 dBd UHF.
-  Updated: 2026-03-29T01:38:12Z
+  Updated: 2026-04-05T01:49:51Z
   Vendor: Tram-Browning
   Product Type: Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tram-1181-dual-band-vhf-uhf-land-mobile-nmo-amateur-ham-radio-antenna-none-black-cb-977.webp?v=1768997622
   Price: $59.99 CAD
 - [President Ronald FCC 10 Meter CB Style Mobile Radio](https://www.fleetwooddp.com/products/president-ronald-10m-mobile-am-fm-amateur-ham-radio): Discover the President Ronald FCC, a compact and powerful 10+ Meter CB style mobile AM/FM amateur ham radio, expertly tuned for peak performance.
-  Updated: 2026-03-29T01:38:13Z
+  Updated: 2026-04-05T01:49:52Z
   Vendor: President
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-ronald-10-meter-cb-style-mobile-am-fm-amateur-ham-radio-black-841.webp?v=1768997648
   Price: $279.99 CAD
 - [President Richard 10 Meter CB Style Mobile Radio](https://www.fleetwooddp.com/products/president-richard-10m-mobile-am-fm-amateur-ham-radio): Discover the President Richard 10+ Meter CB Style Mobile AM/FM Amateur Ham Radio, expertly inspected for peak performance and tuned for your communication needs.
-  Updated: 2026-03-29T01:38:14Z
+  Updated: 2026-04-05T01:49:53Z
   Vendor: President
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-richard-10-meter-cb-style-mobile-am-fm-amateur-ham-radio-black-730.webp?v=1768997653
   Price: $319.99 CAD
 - [Heavy Duty 3 Hole CB Microphone Button Style Holder](https://www.fleetwooddp.com/products/3-hole-cb-microphone-button-style-holder-with-screws): Fleetwood Digital offers a heavy duty, 3 hole CB microphone button style holder. Securely mount your mobile microphone with this durable metal bracket and included screws.
-  Updated: 2026-03-29T01:38:16Z
+  Updated: 2026-04-05T01:49:53Z
   Vendor: Generic
   Product Type: Microphone Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/3-hole-cb-microphone-button-style-holder-with-screws-heavy-duty-metal-bracket-holes-794.webp?v=1768997656
   Price: $4.99 CAD
 - [Pyramid PS12KX 10A Linear Power Supply | Canada](https://www.fleetwooddp.com/products/pyramid-ps12kx-linear-regulated-12v-10a-dc-power-supply): Get the Pyramid PS12KX. This 10A (12A peak) linear power supply provides clean, quiet 13.8V DC power for your 50W mobile or CB radio. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:17Z
+  Updated: 2026-04-05T01:49:56Z
   Vendor: Pyramid
   Product Type: Power Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pyramid-ps12kx-linear-regulated-12v-10a-dc-power-supply-supplies-black-236.webp?v=1768997688
   Price: $149.99 CAD
 - [Samlex SEC-1223 23A Switching Power Supply | Canada](https://www.fleetwooddp.com/products/samlex-america-sec-1223-desktop-23a-switching-power-supply): The Samlex SEC-1223 is the perfect 23A (25A peak) power supply for your 100W HF ham radio. Lightweight, compact, and provides clean power. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:18Z
+  Updated: 2026-04-05T01:49:57Z
   Vendor: Samlex America
   Product Type: Power Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/samlex-america-sec-1223-desktop-23a-switching-power-supply-supplies-black-775.webp?v=1768997692
   Price: $329.99 CAD
 - [Baofeng P11UV Logging Road Radio | BC RR & LADD Channels | Canada](https://www.fleetwooddp.com/products/baofeng-pofung-p11uv-logging-road-backcountry-walkie-talkie): Pre-programmed for BC Resource Roads! The Baofeng P11UV comes ready with RR 1-35, Loading 1-14, and LADD 1-4. Available in 1, 2, or 4-packs for your whole crew.
-  Updated: 2026-03-29T01:38:20Z
+  Updated: 2026-04-10T02:11:01Z
   Vendor: Baofeng
   Product Type: Logging Road Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pofung-by-baofeng-p11uv-fsr-edition-bc-rr-logging-road-back-country-overlanding-radio-924.webp?v=1768997702
   - [1 Pack](https://www.fleetwooddp.com/products/baofeng-pofung-p11uv-logging-road-backcountry-walkie-talkie?variant=47352338809111)
-    Availability: Not Available
+    Availability: Available
     Price: $119.99 CAD
   - [2 Pack](https://www.fleetwooddp.com/products/baofeng-pofung-p11uv-logging-road-backcountry-walkie-talkie?variant=47352338841879)
     Availability: Available
@@ -742,28 +735,28 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/P11UV4Pack.jpg?v=1774403943
     Price: $399.99 CAD
 - [Tram BR-167-S | No-Tune VHF Antenna | 136-174 MHz | Spring Base](https://www.fleetwooddp.com/products/tram-br-167-s-spring-loaded-136-174-mhz-vhf-broadband-land-mobile-two-way-radio-nmo-antenna): 💰 Bundle & Save. A rugged, spring-loaded NMO antenna. Pre-tuned for the entire 136-174 MHz VHF band (Ham, Marine, Commercial). No cutting required. 160W
-  Updated: 2026-03-29T01:38:25Z
+  Updated: 2026-04-05T01:50:02Z
   Vendor: Tram-Browning
   Product Type: Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/tram-br-167-s-spring-loaded-136-174-mhz-vhf-broadband-land-mobile-two-way-radio-nmo-561.webp?v=1768997734
   Price: $119.99 CAD
 - [Tram 1185 Dual Band VHF UHF 50W Mobile Antenna](https://www.fleetwooddp.com/products/tram-1185-dual-band-vhf-uhf-50w-mobile-magnet-mount-amateur-ham-radio-antenna): Get the Tram 1185 Dual Band VHF UHF 50W mobile magnet mount antenna for seamless communication. Ideal for amateurs with a frequency range of 144-450 MHz.
-  Updated: 2026-03-29T01:38:25Z
+  Updated: 2026-04-05T01:50:04Z
   Vendor: Tram-Browning
   Product Type: Ham Radio Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tram-1185-dual-band-vhf-uhf-50w-mobile-magnet-mount-amateur-ham-radio-antenna-ham-radio-664.webp?v=1768997737
   Price: $59.99 CAD
 - [Maxon America Radio Programming LADD Channels](https://www.fleetwooddp.com/products/maxon-america-radio-programming-10-ladd-channels-appendix-b1): Maxon America Radio Programming for 10 Western Canada LADD channels (ISED Appendix B1). This additional programming service covers Maxon America radios and applies setup fees.
-  Updated: 2026-03-29T01:38:26Z
+  Updated: 2026-04-05T01:50:05Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/maxon-america-radio-programming-10-ladd-channels-appendix-b1-red-flatbed-semi-truck-653.webp?v=1768997741
   Price: $25.00 CAD
-- [Retevis RT85 BC RR LADD Land Mobile Logging Road Overlanding Radio](https://www.fleetwooddp.com/products/retevis-rt85-land-mobile-logging-road-overlanding-radio): Retevis RT85 BC RR LADD Land Mobile Radio: Robust dual-band FM handheld radio with LCD, enhanced audio, durable case, and 5W output. Ideal for backcountry use!
-  Updated: 2026-03-31T16:05:58Z
+- [Retevis RT85 / TYT TH-UV88 BC RR LADD Land Mobile Logging Road Overlanding Radio](https://www.fleetwooddp.com/products/retevis-rt85-land-mobile-logging-road-overlanding-radio): Retevis RT85 BC RR LADD Land Mobile Radio: Robust dual-band FM handheld radio with LCD, enhanced audio, durable case, and 5W output. Ideal for backcountry use!
+  Updated: 2026-04-10T19:46:57Z
   Vendor: Retevis
   Product Type: Logging Road Radio
   Availability: Available
@@ -785,35 +778,35 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rt85-bc-rr-ladd-land-mobile-logging-road-overlanding-radio-10-pack-handheld-987.webp?v=1769947646
     Price: $899.99 CAD
 - [Uniden PC78LTX CB Radio (SWR) | Fleetwood Digital](https://www.fleetwooddp.com/products/uniden-pc78ltx-40-channel-trucker-cb-radio-with-swr-meter): Shop the legendary Uniden PC78LTX trucker's CB radio. This classic 40-channel rig features a built-in SWR meter, mic gain, and PA function. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:29Z
+  Updated: 2026-04-05T01:50:08Z
   Vendor: Uniden
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/uniden-pc78ltx-40-channel-trucker-cb-radio-with-swr-meter-silver-675.webp?v=1769947653
   Price: $219.99 CAD
 - [TCC Industries Universal Antenna Connector Kit](https://www.fleetwooddp.com/products/tcc-industries-30-piece-universal-antenna-connector-adapter-kit-25-ak-30-tgn): TCC Industries 30 Piece Universal Antenna Connector Adapter Kit 25-AK-30-TGN offers 144 combinations.
-  Updated: 2026-03-29T01:38:31Z
+  Updated: 2026-04-05T01:50:09Z
   Vendor: TCC Industries
   Product Type: Antenna Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tcc-industries-30-piece-144-in-one-universal-antenna-connector-adapter-kit-25-ak-tgn-open-683.webp?v=1769947672
   Price: $179.99 CAD
 - [TYT TH-9000D VHF Logging Road Radio British Columbia](https://www.fleetwooddp.com/products/tyt-th-9000d-vhf-land-mobile-logging-road-radio): The TYT TH-9000D Plus radio offers 60W VHF power for commercial use across British Columbia and the Canada-United States border. ISED  for RR LADD.
-  Updated: 2026-03-29T01:38:32Z
+  Updated: 2026-04-05T01:50:11Z
   Vendor: TYT
   Product Type: Logging Road Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tyt-th-9000d-plus-edition-vhf-land-mobile-logging-road-radio-bc-rr-ladd-ham-black-two-way-948.jpg?v=1760037035
   Price: $349.99 CAD
 - [Solarcon MAXOPTIMZER 24' Base Antenna | Fleetwood Digital](https://www.fleetwooddp.com/products/solarcon-maxoptimizer-5-8-wave-heavy-duty-fiberglass-omnidirectional-cb-base-station-antenna): Shop the 24-foot Solarcon MAXOPTIMZER. This high-power (5000W) 5/8 wave fiberglass antenna is built for 10, 11, & 12m. Ships from Canada.
-  Updated: 2026-03-29T01:38:33Z
+  Updated: 2026-04-05T01:50:12Z
   Vendor: Solarcon
   Product Type: CB Base Station Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/solarcon-maxoptimizer-imax-2000-cb-base-station-antenna-fiberglass-omnidirectional-tall-128.webp?v=1769947700
   Price: $399.99 CAD
 - [Alfatronix 24V to 12V Converters | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/alfatronix-powerverter-24vdc-12vdc-voltage-converter): Need to power 12V CB radios, GPS, or electronics from a 24V system? Alfatronix PowerVerters are the mission-critical choice. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:35Z
+  Updated: 2026-04-05T01:50:14Z
   Vendor: Alfatronix
   Product Type: Power Supplies
   Availability: Available
@@ -846,70 +839,70 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/Parts.jpg?v=1649606307
   Price: $1.00 CAD
 - [Uniden BC355N 300-Channel Analog Scanner | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/uniden-bc355n-800mhz-base-mobile-analog-radio-scanner): The Uniden BC355N is the perfect analog scanner for Aviation, Marine, Rail, and Racing. 300 channels, Close Call RF capture, and 800MHz coverage. Ships fast.
-  Updated: 2026-03-29T01:38:37Z
+  Updated: 2026-04-05T01:50:15Z
   Vendor: Uniden
   Product Type: Radio Scanner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/BC355N_c316752d-00bb-4793-bec4-ef0be9bcb918_png.webp?v=1769947726
   Price: $219.99 CAD
 - [Workman W58 18ft Base Antenna (10m/11m) | Fleetwood Digital](https://www.fleetwooddp.com/products/workman-electronics-w58-high-gain-base-station-cb-antenna): Shop the Workman W58, a full 18-foot 5/8 wave base antenna. Handles 500W, includes ground radials, and covers 10m ham & 11m CB. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:39Z
+  Updated: 2026-04-05T01:50:18Z
   Vendor: Workman Electronics
   Product Type: CB Base Station Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/workman-electronics-w58-high-gain-cb-base-station-antenna-vertical-collapsible-540.webp?v=1769947746
   Price: $259.99 CAD
 - [President Randy III Handheld CB Radio | Fleetwood Digital](https://www.fleetwooddp.com/products/president-randy-ii-fcc-v2-portable-handheld-40-channel-am-fm-cb-radio-with-mobile-car-kit): Shop the President Randy III, the handheld CB radio with a full mobile car kit. Features AM/FM, 7-colour display, and ANL/NB filters. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:39Z
+  Updated: 2026-04-05T01:50:18Z
   Vendor: President
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/president-randy-ii-fcc-portable-handheld-40-channel-am-fm-cb-radio-with-mobile-car-kit-768.webp?v=1769947751
   Price: $279.99 CAD
 - [Pofung P11UV Desktop Battery Charger by Baofeng](https://www.fleetwooddp.com/products/pofung-by-baofeng-chr-uv11-desktop-battery-charger-for-p11uv): Fleetwood Digital offers the Pofung by Baofeng CHR-UV11 Desktop Battery Charger for P11UV radios. This black desktop battery charger includes an AC adapter and is a replacement power solution for Baofeng and Pofung P11.
-  Updated: 2026-03-29T01:38:41Z
+  Updated: 2026-04-05T01:50:19Z
   Vendor: Baofeng
   Product Type: Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pofung-by-baofeng-chr-uv11-desktop-battery-charger-for-p11uv-black-two-way-radio-631.webp?v=1769947769
   Price: $19.99 CAD
 - [RM Italy KL203 100W 10-Meter Amplifier | Canada](https://www.fleetwooddp.com/products/rm-italy-kl203p-10m-200w-linear-amateur-radio-rf-power-amplifier): Get 100W+ from your QRP radio. The RM Italy KL203 is a 12V 10-Meter amp for 0.5-10W rigs. For licensed amateur radio operators only. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:42Z
+  Updated: 2026-04-05T01:50:20Z
   Vendor: RM Italy
   Product Type: Linear Amplifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/rm-italy-kl203-10m-100w-linear-amateur-10-meter-mobile-radio-rf-power-amplifier-booster-995.png?v=1748715613
   Price: $169.99 CAD
 - [RM Italy KL300P 250W 10-Meter Amplifier | Canada](https://www.fleetwooddp.com/products/rm-italy-kl300p-10m-300w-linear-amateur-radio-rf-power-amplifier): Get 250W+ from your QRP rig. The RM Italy KL300P is a 12V amp with a 25dB preamp for 10m/12m. For licensed amateur radio operators. Ships from Canada.
-  Updated: 2026-03-29T01:38:43Z
+  Updated: 2026-04-05T01:50:21Z
   Vendor: RM Italy
   Product Type: Linear Amplifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/rm-italy-kl300p-10m-250w-linear-amateur-10-meter-mobile-radio-rf-power-amplifier-booster-808.png?v=1748716095
   Price: $449.99 CAD
 - [President Bill III AM/FM CB Radio | Fleetwood Digital](https://www.fleetwooddp.com/products/president-bill-iii-40-channel-compact-am-fm-cb-radio-usb): Shop the new President Bill III compact CB radio. Features AM/FM, a 7-colour display, and a front USB 5V charging port. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:44Z
+  Updated: 2026-04-05T01:50:23Z
   Vendor: President
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-bill-iii-fcc-40-channel-am-fm-cb-radio-black-712.webp?v=1769947790
   Price: $219.99 CAD
 - [DistribuComm COMM36 (Little Wil) Antenna | Canada](https://www.fleetwooddp.com/products/comm36-deluxe-mag-mount-10m-11m-cb-radio-antenna): Shop the DistribuComm COMM36, the Canadian-brand alternative to the Wilson Little Wil. Get great 10m/11m performance for a fraction of the price. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:44Z
+  Updated: 2026-04-05T01:50:23Z
   Vendor: Distribucomm
   Product Type: CB Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/comm36-deluxe-mag-mount-10m-11m-cb-radio-antenna-compare-to-wilson-little-wil-black-254.webp?v=1769947793
   Price: $69.99 CAD
 - [Workman BS1 Indoor CB Base Antenna Dipole](https://www.fleetwooddp.com/products/workman-electronics-bs1-27-mhz-11m-cb-radio-dipole-antenna): Workman Electronics BS1 27 MHz 11M indoor CB base antenna dipole. This base antenna dipole kit includes cables, connectors, and a 1/2 wave 50 Ohm center-fed conductor.
-  Updated: 2026-03-29T01:38:46Z
+  Updated: 2026-04-05T01:50:24Z
   Vendor: Workman Electronics
   Product Type: CB Base Station Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/workman-electronics-bs1-27-mhz-11m-indoor-cb-base-antenna-dipole-station-kit-cables-901.webp?v=1769947801
   Price: $59.99 CAD
 - [Wilson W1000 Magnet Mount Mobile CB Antenna Kit](https://www.fleetwooddp.com/products/wilson-w1000-series-magnet-mount-mobile-cb-antenna-kit-with-62-5-whip): Discover the Wilson W1000 Series Magnet Mount Mobile CB Antenna Kit featuring a 62.5 whip and exceptional power gain, perfect for your mobile communication needs.
-  Updated: 2026-03-29T01:38:47Z
+  Updated: 2026-04-05T01:50:25Z
   Vendor: Wilson
   Product Type: Antenna
   Availability: Available
@@ -923,14 +916,14 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pl259-rg8-screw-on-connector-with-rg58-reducer-antenna-adapter-two-metal-rca-793.webp?v=1769947842
   Price: $10.00 CAD
 - [Surecom UV-5R WP CA Waterproof USB Programming Cable - For  Canada](https://www.fleetwooddp.com/products/surecom-uv-5r-wp-ca-waterproof-usb-programming-cable): Compatible with Baofeng BF-A58 / BF-9700 / UV-9R and Surecom UV-5R WP this USB Programming Cable screws into the side of waterproof style radios.
-  Updated: 2026-03-29T01:38:48Z
+  Updated: 2026-04-05T01:50:27Z
   Vendor: Surecom
   Product Type: Programming Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/surecom-uv-5r-wp-ca-waterproof-usb-programming-cable-379.webp?v=1769947868
   Price: $39.99 CAD
 - [Canadian Amateur Ham Radio Study Notes & Question Bank](https://www.fleetwooddp.com/products/ham-radio-study-notes-for-the-canadian-basic-exam-with-question-bank-ron-kolody-ve7bgk): Fleetwood Digital presents Ham Radio Study Notes for the Canadian Amateur Basic Exam by Ron Kolody. This Canadian Amateur ham radio study guide and question bank helps prepare students for their Basic Qualification exam.
-  Updated: 2026-03-29T01:38:48Z
+  Updated: 2026-04-05T01:50:27Z
   Vendor: Ron Kolody
   Product Type: Book
   Availability: Available
@@ -943,168 +936,168 @@
   Availability: Available
   Price: $0.00 CAD
 - [3 Pin Cigarette Lighter 12V Radio Power Cord](https://www.fleetwooddp.com/products/3-pin-cigarette-lighter-12v-port-cb-radio-power-cord-16-gauge-4-amps): Fleetwood Digital offers a 3 Pin Cigarette Lighter 12V Radio Power Cord. This 16 gauge, 4 amp power cord is designed for CB radios and fits standard cigarette lighter or 12v ports.
-  Updated: 2026-03-29T01:38:50Z
+  Updated: 2026-04-05T01:50:28Z
   Vendor: Distribucomm
   Product Type: Power Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/3-pin-cigarette-lighter-12v-port-cb-radio-power-cord-16-gauge-4-amps-cable-black-red-160.webp?v=1769947904
   Price: $17.99 CAD
 - [Solarcon Ground Plane Kit for A99 Antennas](https://www.fleetwooddp.com/products/solarcon-ground-plane-kit-for-model-a99-cb-base-station-antennas): Solarcon Ground Plane Kit for A99 CB Base Station Antennas. This ground plane kit includes four 6-foot fiberglass radials, ensuring optimal signal quality. Enhance transmit strength with Solarcon.
-  Updated: 2026-03-29T01:38:51Z
+  Updated: 2026-04-05T01:50:29Z
   Vendor: Solarcon
   Product Type: Ground Plane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/solarcon-ground-plane-kit-for-model-a99-cb-base-station-antennas-fiberglass-driveway-150.webp?v=1769947909
   Price: $99.99 CAD
 - [DistribuComm 2 Pin 4 Amp Power Cord](https://www.fleetwooddp.com/products/distribucomm-2-pin-20-gauge-4-amp-power-cord): Fleetwood Digital offers the DistribuComm 2 Pin 20 Gauge 4 Amp Power Cord. This red and black power cord features two square pins, 20 gauge wire, and a 4 amp fuse for safe and reliable power.
-  Updated: 2026-03-29T01:38:52Z
+  Updated: 2026-04-05T01:50:30Z
   Vendor: Distribucomm
   Product Type: Power Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/distribucomm-2-pin-20-gauge-4-amp-power-cord-cable-red-black-electrical-793.webp?v=1769947914
   Price: $9.99 CAD
 - [10-Metre Ham Radio Amplifier (KL203P) | Fleetwood Digital](https://www.fleetwooddp.com/products/rm-italy-kl203p-10m-200w-linear-amateur-10-meter-mobile-radio-rf-power-amplifier-booster): Boost your 10m ham radio to 200W PEP. The RM Italy KL203P is a compact SSB/AM/FM amplifier with a built-in pre-amp. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:53Z
+  Updated: 2026-04-08T03:24:36Z
   Vendor: RM Italy
   Product Type: Linear Amplifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/rm-italy-kl203p-10m-100w-linear-amateur-10-meter-mobile-radio-rf-power-amplifier-booster-438.webp?v=1769947919
   Price: $179.99 CAD
 - [MaxComm MC-UR2 GMRS Radio Set Power License Free](https://www.fleetwooddp.com/products/maxcomm-mc-ur2-premium-license-free-gmrs-radio-set): MaxComm MC-UR2 Premium Full Power License Free GMRS Radio Set: Orange-trimmed black walkie-talkie.
-  Updated: 2026-03-29T01:38:53Z
+  Updated: 2026-04-05T01:50:32Z
   Vendor: Distribucomm
   Product Type: License Free Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/maxcomm-mc-ur2-premium-full-power-license-free-gmrs-radio-set-orange-trimmed-black-walkie-397.webp?v=1769947924
   Price: $149.99 CAD
 - [MaxComm MC-UC2 Premium GMRS Radio Set](https://www.fleetwooddp.com/products/maxcomm-mc-uc2-premium-license-free-gmrs-radio-set): MaxComm MC-UC2 Premium Full Power License Free GMRS Radio Set: This high-performance GMRS radio set offers clear communication up to 10 miles. Includes two ergonomic GMRS radios for personal and commercial use.
-  Updated: 2026-03-29T01:38:55Z
+  Updated: 2026-04-05T01:50:33Z
   Vendor: Distribucomm
   Product Type: License Free Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/maxcomm-mc-uc2-premium-full-power-license-free-gmrs-radio-set-two-black-walkie-talkies-542.webp?v=1769947932
   Price: $129.99 CAD
 - [President Walker III AM/FM CB Radio | Fleetwood Digital](https://www.fleetwooddp.com/products/president-walker-iii-am-fm-40-channel-cb-radio): Shop the new President Walker III AM/FM CB Radio. Features a 7-colour display, built-in SWR meter, and front USB port. Ships fast from Canada.
-  Updated: 2026-03-29T01:38:56Z
+  Updated: 2026-04-05T01:50:34Z
   Vendor: President
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-walker-iii-am-fm-40-channel-cb-radio-black-795.webp?v=1769947944
   Price: $269.99 CAD
 - [Genuine FTDI USB Programming Cable for BTECH Radios](https://www.fleetwooddp.com/products/ydc-tech-ftdi-genuine-usb-programming-cable-for-btech-baofeng-kenwood-and-anytone-radio): Fleetwood Digital offers the YDC TECH™ FTDI Genuine USB Programming Cable for BTECH, BaoFeng, Kenwood, and AnyTone Radios.
-  Updated: 2026-03-29T01:38:58Z
+  Updated: 2026-04-05T01:50:37Z
   Vendor: YDC Tech
   Product Type: Programming Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/ydc-tech-ftdi-genuine-usb-programming-cable-for-btech-baofeng-kenwood-and-anytone-radio-689.webp?v=1769947984
   Price: $34.99 CAD
 - [YDC TECH MR-36M Waterproof VHF Marine Radio](https://www.fleetwooddp.com/products/ydc-tech-mr-36m-handheld-waterproof-vhf-marine-radio): Discover the YDC TECH MR-36M Handheld Waterproof VHF Marine Radio, featuring a large display, glow-in-the-dark seals, and two power settings for safety at sea.
-  Updated: 2026-03-29T01:39:00Z
+  Updated: 2026-04-05T01:50:38Z
   Vendor: YDC Tech
   Product Type: VHF Marine Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/ydc-tech-r-mr-36m-handheld-waterproof-vhf-marine-radio-black-238.webp?v=1769948004
   Price: $199.99 CAD
 - [YDC TECH Elite Whip Antenna for Baofeng Radios](https://www.fleetwooddp.com/products/ydc-tech-yt-l71-15-6-inch-elite-whip-antenna-sma-female-dual-band-antenna-144-430mhz-for-baofeng-radios): YDC TECH YT-L71 15.6-Inch Elite Whip Antenna. This SMA-Female Dual Band 144/430MHz Elite Whip boosts Baofeng radio performance with its extended telescopic design for enhanced signal.
-  Updated: 2026-03-29T01:39:01Z
+  Updated: 2026-04-08T23:16:58Z
   Vendor: YDC Tech
   Product Type: Extended Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/ydc-tech-r-yt-l71-15-6-inch-elite-whip-antenna-sma-female-dual-band-144-430mhz-for-baofeng-644.webp?v=1769948020
   Price: $19.99 CAD
 - [YDC Tech YMC-110 Heavy Duty Speaker Mic](https://www.fleetwooddp.com/products/ydc-tech-ymc-110-2-pin-heavy-duty-ipx54-rainproof-speaker-mic-with-3-5mm-audio-jack): YDC TECH YMC-110 heavy duty speaker mic: IPX54 rainproof, 2-pin design. Compatible with Wouxun, Baofeng, TYT, Puxing, Quansheng, Kenwood and more.
-  Updated: 2026-03-29T01:39:02Z
+  Updated: 2026-04-05T01:50:41Z
   Vendor: Baofengradioca
   Product Type: Speaker Microphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/products/ydc-tech-ymc-110-2-pin-heavy-duty-ipx54-rainproof-speaker-mic-with-3-5mm-audio-jack-699.webp?v=1769948064
   Price: $34.99 CAD
 - [BF-F8RT Dual Band Ham Radio 2 Pack High Power](https://www.fleetwooddp.com/products/bftech-bf-f8rtuv-5r-4rd-gen-model-uv-5x-8-watt-dual-band-two-way-radio-136-174mhz-vhf-400-520mhz-uhf-2-pcs): Discover the BF-TECH CA BF-F8RT UV-5R Dual Band Ham Radio 2 Pack featuring 8W power for clear communication across 2M and 70CM frequencies.
-  Updated: 2026-03-29T01:39:03Z
+  Updated: 2026-04-07T18:37:16Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-f8rt-uv-5x-8w-high-power-dual-band-amateur-ham-radio-2-pack-black-handheld-325.webp?v=1769948093
   Price: $199.99 CAD
 - [BF-TECH DC-8-6 Multi-Position Charger for UV-82 Series](https://www.fleetwooddp.com/products/bftech-dc-8-6-6-way-gang-charger-for-uv-82hp-uv-82rt-gmrs-v1-murs-v1-uv-82c-baofeng-uv-82-bl-8-battery): Charge up to six batteries simultaneously with the BF-TECH CA Baofeng BL-8 UV-82 6-Way Gang Charger designed for the UV-82 Series and equipped with multi-position battery support.
-  Updated: 2026-03-29T01:39:03Z
+  Updated: 2026-04-05T01:50:42Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-bl-8-uv-82-6-way-gang-charger-high-power-82hp-accessories-black-880.webp?v=1769948113
   Price: $69.99 CAD
 - [BF-F8X3 Tri-Band Amateur Ham Radio with DTMF Remote](https://www.fleetwooddp.com/products/bftech-bf-f8x3-tri-band-8-watt-vhf-1-25m-uhf-136-174-220-260-400-520mhz-portable-amateur-ham-two-way-radio): Discover the BF-TECH CA Baofeng BF-F8X3 Tri-Band Amateur Ham Radio featuring DTMF remote commands and support for VHF and UHF bands for versatile communication.
-  Updated: 2026-03-29T01:39:05Z
+  Updated: 2026-04-05T01:50:43Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-f8x3-high-power-tri-band-amateur-ham-radio-black-handheld-two-way-733.webp?v=1769948124
   Price: $79.99 CAD
 - [DC-5-6 Multi-Position Charger for UV-5R Series Radios](https://www.fleetwooddp.com/products/bftech-dc-5-6-6-way-gang-charger-for-bf-f8rt-bf-f8hp-uv-5riii-bf-f5xt-bf-f5xp-bf-f8-baofeng-uv-5r-bl-5-battery): Discover the BF-TECH CA Baofeng BL-5 UV-5R 6-Way Gang Charger featuring the DC-5-6 multi-position design for efficient charging of UV-5R series batteries.
-  Updated: 2026-03-29T01:39:06Z
+  Updated: 2026-04-05T01:50:44Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-bl-5-uv-5r-6-way-gang-charger-v2-5rq-f8-f8-f9-f8hp-dm-accessories-207.webp?v=1769948143
   Price: $69.99 CAD
 - [BFTECH BF-V8S Two Way Radio Walkie Talkie 2PK](https://www.fleetwooddp.com/products/bftech-bf-v8s-walkie-talkie-rechargeable-16-channel-handheld-two-way-radios-ic--25769-bfv8s-2-pack): Discover the BFTECH BF-V8S 16 Channel Business Band Two Way Radio Walkie Talkie 2PK, perfect for clear communication with its reliable features and accessories.
-  Updated: 2026-03-29T01:39:07Z
+  Updated: 2026-04-05T01:50:46Z
   Vendor: BAOFENGBFTECH
   Product Type: Business Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-v8s-16-channel-business-band-two-way-radio-walkie-talkie-2pk-black-handheld-397.jpg?v=1769948154
   Price: $59.99 CAD
 - [BF-TECH FTDI USB Programming Cable for Wouxun Baofeng](https://www.fleetwooddp.com/products/bftech-ftdi-pc01-genuine-usb-programming-cable-dual-pin-for-bftech-baofeng-kenwood-and-anytone-radio): Discover the BF-TECH CA FTDI USB Programming Cable, designed for Wouxun, Baofeng, TYT, and Quansheng radios with genuine chipset and no driver issues.
-  Updated: 2026-03-29T01:39:08Z
+  Updated: 2026-04-05T01:50:46Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-ftdi-pc01-genuine-usb-programming-cable-k-style-wouxun-baofeng-tyt-quansheng-460.webp?v=1769948178
   Price: $34.99 CAD
 - [BF-FTECH BF-F8RT 8-Watt Dual Band Ham Radio](https://www.fleetwooddp.com/products/bftech-bf-f8rtuv-5r-4rd-gen-model-uv-5x-8-watt-dual-band-two-way-radio-with-high-gain-na-772r-stretchable-antenna): Discover the BF-TECH CA BF-F8RT 8-Watt Dual Band Ham Radio, a compact and powerful choice for amateur radio enthusiasts seeking reliable communication.
-  Updated: 2026-03-29T01:39:08Z
+  Updated: 2026-04-05T01:50:47Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-f8rt-uv-5x-8w-high-power-amateur-ham-radio-black-two-way-374.webp?v=1769948200
   Price: $119.99 CAD
 - [BF-TECH Platinum Series Heavy Duty Speaker Mic](https://www.fleetwooddp.com/products/bftech-mc-301-platinum-series-ip54-rainproof-shoulder-speaker-mic-for-baofeng-bftech-kenwood-radios): Discover the BF-TECH CA MC-301 Platinum Series Heavy Duty Speaker Mic, designed for rugged use in construction and industrial environments, IP54 rainproof.
-  Updated: 2026-03-29T01:39:11Z
+  Updated: 2026-04-05T01:50:50Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-mc-301-platinum-series-ip54-rainproof-speaker-mic-2-pin-k-style-wouxun-733.webp?v=1769948234
   Price: $34.99 CAD
 - [BF-TECH CA Baofeng UV-9R High Power Dual Band Radio](https://www.fleetwooddp.com/products/bftech-uv-9r-handheld-walkie-talkie-8w-uhf-vhf-uv-dual-band-ip67-waterproof-two-way-radio): Discover the BF-TECH CA Baofeng UV-9R+ High Power Dual Band Amateur Ham Radio, IP57 weatherproof and designed for demanding conditions with essential features.
-  Updated: 2026-03-29T01:39:12Z
+  Updated: 2026-04-05T01:50:51Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-9r-high-power-dual-band-ip57-weatherproof-amateur-ham-radio-water-387.webp?v=1769948259
   Price: $99.99 CAD
 - [BF-TECH CA NA-771 Dual Band Ham Radio Antenna](https://www.fleetwooddp.com/products/bftech-na-771-a-15-6-inch-dual-band-antenna-144-430mhz-sma-female-high-gain-handheld-antenna): Enhance your communication with the BF-TECH CA NA-771 high gain dual band ham radio antenna, designed for various handheld radios and perfect for outdoor use.
-  Updated: 2026-03-29T01:39:13Z
+  Updated: 2026-04-05T01:50:51Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-na-771-sma-female-40cm-high-gain-dual-band-amateur-ham-radio-antenna-chinese-288.webp?v=1769948275
   Price: $19.99 CAD
 - [BF-TECH CA NA-772R High Gain Antenna for UV-9R](https://www.fleetwooddp.com/products/bftech-na-772-r-adjustable-max-14-inch-dual-band-antenna-144-430mhz-sma-female-high-gain-handheld-antenna): Upgrade your communication with the BF-TECH CA NA-772R Retractable Antenna for Baofeng UV-9R. Experience better signals and improved performance for ham radio use.
-  Updated: 2026-03-29T01:39:15Z
+  Updated: 2026-04-05T01:50:53Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-na-772r-retractable-sma-female-40cm-high-gain-dual-band-amateur-ham-radio-249.webp?v=1769948312
   Price: $24.99 CAD
 - [BF-TECH Waterproof Earphone Mic for UV-9R and More](https://www.fleetwooddp.com/products/headset-earphone-mic-for-baofeng-uv-9r-bf-9700-bf-a58-bf-r760-gt-3wp-radios): Discover the BF-TECH CA Waterproof Earphone Mic, designed for UV-9R and other models. Enjoy high-quality sound with a reliable waterproof feature.
-  Updated: 2026-03-29T01:39:16Z
+  Updated: 2026-04-05T01:50:55Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-waterproof-earphone-mic-uv-9r-r760-9700-a58-gt-3wp-retevis-rt6-accessories-887.webp?v=1769948332
   Price: $19.99 CAD
 - [BF-TECH CA HP-1000 Covert Acoustic Tube Earpiece Mic](https://www.fleetwooddp.com/products/bftech-hp1000-2-pin-ptt-mic-covert-acoustic-tube-earpiece-headset-for-kenwood-tyt-baofeng-uv5r-888s-retevis-bftech-f8rt-radio): Discover the BF-TECH CA HP-1000 Acoustic Tube Earpiece featuring a covert design and built-in mic, perfect for Baofeng, Wouxun, and TYT radios.
-  Updated: 2026-03-29T01:39:18Z
+  Updated: 2026-04-05T01:50:56Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
@@ -1117,182 +1110,182 @@
     Availability: Available
     Price: $39.99 CAD
 - [BF-TECH USB Programming Cable for QYT KT-8900](https://www.fleetwooddp.com/products/usb-programming-cable-for-qyt-kt-8900-kt-uv980-kt8900r-kt-8900r-dual-band-mini-mobile-car-ham-radio): Enhance your QYT KT-8900 with the BF-TECH CA QYT Mini Mobile Radio USB Programming Cable for easy, efficient programming and customization of your radio frequencies.
-  Updated: 2026-03-29T01:39:19Z
+  Updated: 2026-04-05T01:50:56Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-qyt-mini-mobile-radio-usb-programming-cable-kt-8900-uv980-8900r-kt8900-133.webp?v=1769948373
   Price: $24.99 CAD
 - [BFTECH PC03 USB Programming Cable for Baofeng Kenwood](https://www.fleetwooddp.com/products/bftech-pc03-ftdi-genuine-usb-programming-cable-dual-pin-for-bftech-baofeng-kenwood-and-anytone-radio): The BFTECH PC03 is a genuine FTDI USB programming cable with a K-type connector for Baofeng, Kenwood, and Anytone radios, including compatible UV-5R models.
-  Updated: 2026-03-29T01:39:19Z
+  Updated: 2026-04-05T01:50:58Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bftech-pc03-ftdi-genuine-usb-programming-cable-dual-pin-for-baofeng-kenwood-and-anytone-556.webp?v=1769948386
   Price: $39.99 CAD
 - [BF-TECH CA Baofeng UV-82RT Dual Band Amateur Radio](https://www.fleetwooddp.com/products/bftech-uv-82rt-high-power-8-watt-dual-band-radio-vhf-uhf-amateur-ham-portable-two-way): Discover the BF-TECH CA Baofeng UV-82RT High Power 8W Dual Band Amateur Ham Radio, featuring improved range, accuracy, and a powerful 1 watt speaker.
-  Updated: 2026-03-29T01:39:20Z
+  Updated: 2026-04-05T01:50:59Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-82rt-high-power-8w-dual-band-amateur-ham-radio-black-two-way-327.webp?v=1769948408
   Price: $99.99 CAD
 - [BF-TECH QYT KT-8900 Dual Band Mini Mobile Radio](https://www.fleetwooddp.com/products/bf-tech-ca-qyt-kt-8900-dual-band-mini-mobile-25w-amateur-ham-radio): Discover the BF-TECH CA QYT KT-8900 Dual Band Mini Mobile 25W Amateur Ham Radio, a lightweight and portable solution for UHF and VHF communication.
-  Updated: 2026-03-29T01:39:21Z
+  Updated: 2026-04-05T01:51:00Z
   Vendor: BAOFENGBFTECH
   Product Type: Mobile
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-qyt-kt-8900-dual-band-mini-mobile-25w-amateur-ham-radio-black-690.webp?v=1769948431
   Price: $149.99 CAD
 - [TYT TH-9000D Plus VHF 2M Mobile Amateur Ham Radio](https://www.fleetwooddp.com/products/tyt-th-9000d-plus-mobile-car-radio-vhf-144-148mh-65w-200-channels-vehicle-transceiveric-certification-id-10337a-th-9000dv): The TYT TH-9000D Plus amateur ham radio at Fleetwood Digital. This mobile rig offers 60W RF, 200 memories, and die-cast metal housing for repeater-ready use.
-  Updated: 2026-03-29T01:39:23Z
+  Updated: 2026-04-05T01:51:00Z
   Vendor: BAOFENGBFTECH
   Product Type: Mobile Ham Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tyt-th-9000d-plus-vhf-2m-144-148-mhz-mobile-amateur-ham-radio-black-934.webp?v=1769948450
   Price: $249.99 CAD
 - [White Air Acoustic Tube Headset for Kenwood and Baofeng](https://www.fleetwooddp.com/products/2-pin-white-air-acoustic-tube-radio-headset-earpiece-for-kenwood-puxing-baofeng-uv-5r-uv-5ra-888s-retevis-rt27-h777-rt-5r-2-way-radio): Discover the 2 Pin White Air Acoustic Tube Radio Headset Earpiece designed for Kenwood, Baofeng UV-5R, and more for clear, private communication.
-  Updated: 2026-03-29T01:39:24Z
+  Updated: 2026-04-05T01:51:01Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/2-pin-white-air-acoustic-tube-radio-headset-earpiece-for-kenwood-puxing-baofeng-uv-5r-5ra-937.webp?v=1769948475
   Price: $14.99 CAD
 - [BF-TECH 12V Car Charger Cable for Baofeng Radios](https://www.fleetwooddp.com/products/baofeng-12v-car-charger-cable-for-baofeng-uv-5r-uv-82-uv-9r-two-way-radio): Upgrade your Baofeng experience with the BF-TECH 12V Car Charger Cable, compatible with popular models and perfect for any vehicle, featuring an indicator light.
-  Updated: 2026-03-29T01:39:24Z
+  Updated: 2026-04-06T07:11:04Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-12v-car-charger-cable-for-desktop-amateur-ham-radio-battery-526.webp?v=1769948493
   Price: $14.99 CAD
 - [Baofeng UV-82L Replacement Amateur Ham Radio Battery](https://www.fleetwooddp.com/products/baofeng-2800mah-7-4v-bl-8-rechargeable-replacement-battery-pack-for-baofeng-uv-82-uv-82x-uv-82c-bftech-uv-82rt-two-way-radio): Discover the BF-TECH CA Baofeng UV-82 2800mah battery, a perfect replacement for UV-82L and UV-82 models, designed for amateur ham radio enthusiasts.
-  Updated: 2026-03-29T01:39:25Z
+  Updated: 2026-04-05T01:51:04Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-82-2800mah-7-4v-bl-8-replacement-amateur-ham-radio-battery-high-444.webp?v=1769948516
   Price: $29.99 CAD
 - [Baofeng DM-1701 Replacement Battery 2200mAh](https://www.fleetwooddp.com/products/baofeng-dm-1-7-4v-2200mah-battery-for-dm-1701dual-band-dual-time-slot-dmr-digital-ham-radio): Discover the BF-TECH CA Baofeng DM-1 7.4V 2200mAh replacement battery for your DM-1701 Walkie Talkie, ensuring reliable performance for all your communication needs.
-  Updated: 2026-03-29T01:39:26Z
+  Updated: 2026-04-05T01:51:05Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-dm-1-7-4v-2200mah-amateur-ham-radio-1701-replacement-battery-340.webp?v=1769948534
   Price: $34.99 CAD
 - [BF-TECH Baofeng Light Duty UV-5R Speaker Microphone](https://www.fleetwooddp.com/products/baofeng-original-accessories-speaker-mic-for-baofeng-bf-f8hp-bf-888s-uv-5r-uv-5ra-uv-5rb-uv-5rc-uv-5re): Discover the BF-TECH CA Baofeng Light Duty UV-5R Speaker Microphone, designed for handheld radios and compatible with various Baofeng models.
-  Updated: 2026-03-29T01:39:28Z
+  Updated: 2026-04-05T01:51:05Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-light-duty-uv-5r-amateur-ham-radio-speaker-microphone-v2-5rq-f8-f8-610.webp?v=1769948541
   Price: $19.99 CAD
 - [Baofeng UV-82 Dual Band Amateur Ham Radio 8W](https://www.fleetwooddp.com/products/baofeng-uv-82-8-watt-vhf-uhf-dual-ptt-band-fm-ham-walkie-talkie-two-way-radio-transceiver): Discover the Baofeng UV-82 High Power 8W Dual Band Amateur Ham Radio, featuring improved sound, durability, and advanced performance for all your communication needs.
-  Updated: 2026-03-31T15:07:10Z
+  Updated: 2026-04-05T01:51:07Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/baofeng-uv-82-high-power-8w-dual-band-amateur-ham-radio-black-handheld-241.webp?v=1769948561
   Price: $74.99 CAD
 - [Baofeng UV-82 Dual PTT Speaker Microphone](https://www.fleetwooddp.com/products/baofeng-dual-ptt-speaker-microphone-for-uv-82-uv-82hp-uv-82l-uv-8d-gt-5-two-way-radio): This BF-TECH dual ptt speaker microphone is for Baofeng UV-82 and UV-82HP radios. The wired ptt speaker has a 2-pin jack and a 3.5mm earpiece socket.
-  Updated: 2026-03-29T01:39:29Z
+  Updated: 2026-04-05T01:51:08Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-82-dual-ptt-speaker-microphone-high-power-82hp-accessories-black-831.webp?v=1769948579
   Price: $19.99 CAD
 - [Baofeng Speaker Mic 2 Pack for Kenwood Wouxun Radios](https://www.fleetwooddp.com/products/baofeng-original-accessories-speaker-mic-for-baofeng-bf-f8hp-bf-888s-uv-5r-uv-5ra-uv-5rb-uv-5rc-uv-5re-2-pack): This BF-TECH 2-pack Baofeng speaker mic for UV-5R radios features two-pin plugs and belt clips. The accessory for Baofeng and Wouxun radio offer excellent timbre.
-  Updated: 2026-03-29T01:39:30Z
+  Updated: 2026-04-05T01:51:09Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-2-pack-light-duty-uv-5r-amateur-ham-radio-speaker-microphone-v2-5rq-239.webp?v=1769948593
   Price: $29.99 CAD
 - [BF-TECH USB Programming Cable for UV-9R Walkie Talkies](https://www.fleetwooddp.com/products/baofeng-original-usb-programming-cable-for-baofeng-uv-9r-bf-r760-bf-9700-bf-a58-gt-3wp-retevis-rt6): Discover the BF-TECH CA Baofeng Original Waterproof USB Programming Cable for UV-9R, BF-R760, and more. Compatible with various Baofeng models for easy programming.
-  Updated: 2026-03-29T01:39:31Z
+  Updated: 2026-04-05T01:51:09Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-original-waterproof-usb-programming-cable-uv-9r-r760-9700-a58-gt-3wp-429.webp?v=1769948609
   Price: $24.99 CAD
 - [BF-TECH CA Baofeng Desktop Charger 100v-240v](https://www.fleetwooddp.com/products/baofeng-desktop-charger-li-ion-battery-charging-for-uv-5r-5ra-5rb-5rc-5rd-5re-5replus-and-bf-f8-radios): Discover the BF-TECH CA Baofeng Amateur Ham Radio Desktop Charger, a 100v-240v battery charger designed for the UV-5R and BF-F8+ models.
-  Updated: 2026-03-29T01:39:33Z
+  Updated: 2026-04-05T01:51:10Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-amateur-ham-radio-desktop-charger-uv-5r-f8-accessories-black-dock-uk-365.webp?v=1769948624
   Price: $19.99 CAD
 - [BF-TECH Baofeng DM-1701 Ham Radio Desktop Charger](https://www.fleetwooddp.com/products/baofeng-dm-1701-us-plug-battery-charger-for-baofemg-dmr-dm-1701-walkie-talkie-dm-1701): Discover the BF-TECH CA Baofeng DM-1701, a reliable ham radio desktop battery charger designed for optimal performance with your Amateur Ham Radio.
-  Updated: 2026-03-29T01:39:34Z
+  Updated: 2026-04-05T01:51:12Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-dm-1701-amateur-ham-radio-desktop-charger-accessories-two-way-cradle-790.webp?v=1769948633
   Price: $29.99 CAD
 - [BF-TECH CA UV5R Extended 3800mah Ham Radio Battery](https://www.fleetwooddp.com/products/baofeng-batterie-3800mah-li-ion-battery-foruv-5r-v2-uv5rq-bf-f8-bf-f8-bf-f9-bf-f8hp-dm-5r-two-way-radio-walkie-talkie): Enhance your communication with the BF-TECH CA Baofeng UV-5R Extended 3800mah Amateur Ham Radio Battery, compatible with multiple UV5R models for reliable power.
-  Updated: 2026-03-29T01:39:34Z
+  Updated: 2026-04-05T01:51:13Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-5r-extended-3800mah-amateur-ham-radio-battery-v2-5rq-f8-f8-f9-590.webp?v=1769948641
   Price: $34.99 CAD
 - [BF-TECH Baofeng Waterproof Battery Charger for Walkie Talkies](https://www.fleetwooddp.com/products/baofeng-uv-9r-waterproof-battery-charger-for-baofeng-uv-xr-a-58-uv-9r-plus-uv-9r-era-gt-3wp-uv-5s-retevis-rt6-waterproof-walkie-talkie): Discover the BF-TECH CA Baofeng Original Waterproof Battery Charger, perfect for UV-9R, BF-R760, GT-3WP and more. Reliable charging for your Baofeng walkie talkie.
-  Updated: 2026-03-29T01:39:35Z
+  Updated: 2026-04-05T01:51:14Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-original-waterproof-battery-charger-uv-9r-r760-9700-a58-gt-3wp-529.webp?v=1769948659
   Price: $19.99 CAD
 - [UV-82 Desktop Charger 100-240V by Baofeng](https://www.fleetwooddp.com/products/baofeng-desktop-charger-with-adapter-for-baofeng-radio-uv-82-uv-82l-uv-8d-uv-82hp-uv-82hx-uv-82_c5): Fleetwood Digital offers the BF-TECH CA Baofeng UV-82 desktop charger for UV-82/UV-82HP amateur ham radios.
-  Updated: 2026-03-29T01:39:36Z
+  Updated: 2026-04-05T01:51:14Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-amateur-ham-radio-desktop-charger-uv-82-high-power-82hp-accessories-388.webp?v=1769948669
   Price: $19.99 CAD
 - [BF-TECH Dual Band Amateur Ham Radio BF-F5XP 5W](https://www.fleetwooddp.com/products/bftech-bf-f5xp-5-watt-dual-band-radio-vhf-uhf-amateur-ham-portable-two-way-radio-ic--25769-bfuv8988): Discover the BF-TECH CA BF-F5XP 5W Dual Band Amateur Ham Radio with advanced features, delivering unmatched performance and audio quality for enthusiasts.
-  Updated: 2026-03-29T01:39:38Z
+  Updated: 2026-04-05T01:51:16Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-f5xp-5w-dual-band-amateur-ham-radio-black-two-way-172.webp?v=1769948677
   Price: $69.99 CAD
 - [BF-TECH BL-5 1800mAh Battery for UV-5R Series](https://www.fleetwooddp.com/products/baofeng-original-bl-5-1800mah-li-ion-battery-for-uv-5r-series): Upgrade your Baofeng setup with the BF-TECH CA Baofeng Original UV-5R BL-5 1800mAh battery for reliable power in UV-5R, UV-5RA, and UV-5RE radios.
-  Updated: 2026-03-29T01:39:39Z
+  Updated: 2026-04-05T01:51:17Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-original-uv-5r-bl-5-1800mah-amateur-ham-radio-battery-v2-5rq-f8-f8-216.webp?v=1769948695
   Price: $19.99 CAD
 - [Baofeng DMR USB Programming Cable for DM-5R Series](https://www.fleetwooddp.com/products/baofeng-usb-programming-cable-for-baofeng-dmr-tier-2-dm-5r-rd-5d-dm-1701-dm-1801-dm-1702-dm-1703): Shop the BF-TECH CA Baofeng Original DMR USB Programming Cable compatible with DM-5R and other Baofeng DMR radios for easy programming and connectivity.
-  Updated: 2026-03-29T01:39:39Z
+  Updated: 2026-04-05T01:51:18Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-original-dmr-usb-programming-cable-dm-5r-rd-1701-1801-1702-1703-652.webp?v=1769948709
   Price: $19.99 CAD
 - [Baofeng BF-F8+ Dual Band Amateur Ham Radio Model](https://www.fleetwooddp.com/products/baofeng-bf-f8-vhf-uhf-ham-radio-fm-two-way-radio): Discover the Baofeng BF-F8+ Dual Band Amateur Ham Radio with upgraded components for optimal communication on VHF and UHF frequencies. Enjoy reliable range and performance.
-  Updated: 2026-03-29T01:39:40Z
+  Updated: 2026-04-05T01:51:18Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/baofeng-bf-f8-dual-band-amateur-ham-radio-black-handheld-two-way-632.webp?v=1769948719
   Price: $69.99 CAD
 - [Baofeng UV-5R 8W High Power Dual Band Amateur Radio](https://www.fleetwooddp.com/products/baofeng-uv-5r-8w-vhf-uhf-dual-band-radio-transceiver): The BF-TECH Baofeng UV-5R is an 8W high power dual band amateur radio. It features a genuine chipset for superior VHF/UHF range and computer programming.
-  Updated: 2026-03-29T01:39:42Z
+  Updated: 2026-04-08T23:16:06Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-5r-8w-high-power-dual-band-amateur-ham-radio-black-two-way-606.webp?v=1769948741
   Price: $74.99 CAD
 - [BFTECH BF-F5XT Dual Band Two-Way Radio 5W](https://www.fleetwooddp.com/products/bftech-bf-f5xt-two-way-radio-transceiver-dual-band-144-148-430-450-mhz-chipsets-upgraded-ic--25769-bfuv8988): Discover the BFTECH BF-F5XT 5W Dual Band Amateur Ham Radio featuring dual frequency display and 128 channels for enhanced communication. Ideal for two-way radio enthusiasts.
-  Updated: 2026-03-29T01:39:43Z
+  Updated: 2026-04-05T01:51:22Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-f5xt-5w-dual-band-amateur-ham-radio-black-two-way-236.webp?v=1769948767
   Price: $59.99 CAD
 - [Original Baofeng USB Programming Cable for UV-5R Series](https://www.fleetwooddp.com/products/baofeng-usb-programming-cable-for-radio-dual-for-uv-5r-5ra-5r-plus-5re-uv3r-plus-bf-888s-with): Discover the Original Baofeng USB Programming Cable for UV-5R Series and BF-888S. Connect your radio to a computer for efficient data transfer.
-  Updated: 2026-03-29T01:39:44Z
+  Updated: 2026-04-05T01:51:23Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
@@ -1306,21 +1299,21 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-original-baofeng-uv-5-usb-windows-programming-cable-2pcs-accessories-black-437.webp?v=1769948793
     Price: $28.99 CAD
 - [Baofeng UV-82 3800mAh Li-ion Battery BL-8 Replacement](https://www.fleetwooddp.com/products/baofeng-uv-82-bl-8-7-4v-3800mah-li-ion-battery-for-baofeng-walkie-talkie-bf-uv82-series-two-way-radio-uv-82-radio): Upgrade your Baofeng UV-82 with this 3800mAh Li-ion battery, designed for reliable performance in your amateur ham radio communications.
-  Updated: 2026-03-29T01:39:47Z
+  Updated: 2026-04-05T01:51:25Z
   Vendor: BAOFENGBFTECH
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-82-3800mah-7-4v-bl-8-replacement-amateur-ham-radio-battery-high-482.webp?v=1769948814
   Price: $29.99 CAD
 - [Baofeng UV-5R 5W Dual Band Amateur Ham Radio](https://www.fleetwooddp.com/products/baofeng-uv-5r-5w-vhf-uhf-dual-band-radio-transceiver): The Baofeng UV-5R is a 5W VHF / UHF dual band amateur radio from Fleetwood Digital. This programmable ham radio features an original chipset for reliable communication.
-  Updated: 2026-03-29T01:39:48Z
+  Updated: 2026-04-05T01:51:26Z
   Vendor: BAOFENGBFTECH
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/bf-tech-ca-baofeng-uv-5r-4w-dual-band-amateur-ham-radio-black-166.webp?v=1769948826
   Price: $69.99 CAD
 - [Shipping Protection by Route Add Route Canada](https://www.fleetwooddp.com/products/routeins): Fleetwood Digital offers Shipping Protection by Route. Add Route at checkout for package protection against loss, theft, and damage. Route makes shipping carbon neutral.
-  Updated: 2026-03-30T11:02:56Z
+  Updated: 2026-04-07T11:02:48Z
   Vendor: Route
   Product Type: Insurance
   Availability: Available
@@ -1340,7 +1333,7 @@
   - [1.55](https://www.fleetwooddp.com/products/routeins?variant=45255668367639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $2.15 CAD
+    Price: $2.16 CAD
   - [1.75](https://www.fleetwooddp.com/products/routeins?variant=45255668400407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
@@ -1360,11 +1353,11 @@
   - [2.55](https://www.fleetwooddp.com/products/routeins?variant=45255668531479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $3.54 CAD
+    Price: $3.55 CAD
   - [2.75](https://www.fleetwooddp.com/products/routeins?variant=45255668564247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $3.82 CAD
+    Price: $3.83 CAD
   - [2.95](https://www.fleetwooddp.com/products/routeins?variant=45255668597015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
@@ -1380,11 +1373,11 @@
   - [3.55](https://www.fleetwooddp.com/products/routeins?variant=45255668695319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $4.93 CAD
+    Price: $4.94 CAD
   - [3.75](https://www.fleetwooddp.com/products/routeins?variant=45255668728087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $5.21 CAD
+    Price: $5.22 CAD
   - [3.95](https://www.fleetwooddp.com/products/routeins?variant=45255668760855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
@@ -1400,15 +1393,15 @@
   - [4.55](https://www.fleetwooddp.com/products/routeins?variant=45255668859159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $6.32 CAD
+    Price: $6.33 CAD
   - [4.75](https://www.fleetwooddp.com/products/routeins?variant=45255668891927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $6.60 CAD
+    Price: $6.61 CAD
   - [4.95](https://www.fleetwooddp.com/products/routeins?variant=45255668924695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $6.88 CAD
+    Price: $6.89 CAD
   - [5.15](https://www.fleetwooddp.com/products/routeins?variant=45255668957463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
@@ -1420,15 +1413,15 @@
   - [5.55](https://www.fleetwooddp.com/products/routeins?variant=45255669022999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $7.71 CAD
+    Price: $7.72 CAD
   - [5.75](https://www.fleetwooddp.com/products/routeins?variant=45255669055767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $7.99 CAD
+    Price: $8.00 CAD
   - [5.95](https://www.fleetwooddp.com/products/routeins?variant=45255669088535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $8.27 CAD
+    Price: $8.28 CAD
   - [6.15](https://www.fleetwooddp.com/products/routeins?variant=45255669121303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
@@ -1440,19 +1433,19 @@
   - [6.55](https://www.fleetwooddp.com/products/routeins?variant=45255669186839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $9.10 CAD
+    Price: $9.11 CAD
   - [6.75](https://www.fleetwooddp.com/products/routeins?variant=45255669219607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $9.38 CAD
+    Price: $9.39 CAD
   - [6.95](https://www.fleetwooddp.com/products/routeins?variant=45255669252375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $9.66 CAD
+    Price: $9.67 CAD
   - [7.15](https://www.fleetwooddp.com/products/routeins?variant=45255669285143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $9.94 CAD
+    Price: $9.95 CAD
   - [7.35](https://www.fleetwooddp.com/products/routeins?variant=45255669317911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
@@ -1460,19 +1453,19 @@
   - [7.55](https://www.fleetwooddp.com/products/routeins?variant=45255669350679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $10.49 CAD
+    Price: $10.50 CAD
   - [7.75](https://www.fleetwooddp.com/products/routeins?variant=45255669383447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $10.77 CAD
+    Price: $10.78 CAD
   - [7.95](https://www.fleetwooddp.com/products/routeins?variant=45255669416215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $11.05 CAD
+    Price: $11.06 CAD
   - [8.15](https://www.fleetwooddp.com/products/routeins?variant=45255669448983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $11.33 CAD
+    Price: $11.34 CAD
   - [8.35](https://www.fleetwooddp.com/products/routeins?variant=45255669481751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
@@ -1480,53 +1473,53 @@
   - [8.55](https://www.fleetwooddp.com/products/routeins?variant=45255669514519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $11.88 CAD
+    Price: $11.89 CAD
   - [8.75](https://www.fleetwooddp.com/products/routeins?variant=45255669547287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $12.16 CAD
+    Price: $12.17 CAD
   - [8.95](https://www.fleetwooddp.com/products/routeins?variant=45255669580055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $12.44 CAD
+    Price: $12.45 CAD
   - [9.38](https://www.fleetwooddp.com/products/routeins?variant=45255669612823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $13.04 CAD
+    Price: $13.05 CAD
   - [10.03](https://www.fleetwooddp.com/products/routeins?variant=45255669645591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $13.94 CAD
+    Price: $13.95 CAD
   - [10.68](https://www.fleetwooddp.com/products/routeins?variant=45255669678359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $14.85 CAD
+    Price: $14.86 CAD
   - [11.33](https://www.fleetwooddp.com/products/routeins?variant=45255669711127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $15.75 CAD
+    Price: $15.76 CAD
   - [11.98](https://www.fleetwooddp.com/products/routeins?variant=45255669743895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $16.65 CAD
+    Price: $16.66 CAD
   - [12.63](https://www.fleetwooddp.com/products/routeins?variant=45255669776663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $17.56 CAD
+    Price: $17.57 CAD
   - [13.28](https://www.fleetwooddp.com/products/routeins?variant=45255669809431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $18.46 CAD
+    Price: $18.47 CAD
   - [13.93](https://www.fleetwooddp.com/products/routeins?variant=45255669842199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $19.36 CAD
+    Price: $19.38 CAD
   - [14.58](https://www.fleetwooddp.com/products/routeins?variant=45255669874967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shipping-protection-by-route-0-98-insurance-box-checkmark-694.webp?v=1769948859
-    Price: $20.27 CAD
+    Price: $20.28 CAD
 - [Wouxun KG-UV8D+ Amateur Ham Radio](https://www.fleetwooddp.com/products/wouxun-kg-uv8dplus-dual-bands-voice-encryption-amateur-radio-144-148-mhz-430-450-mhz): Wouxun KG-UV8D+ Dual Band Amateur Ham Radio. 144-148/430-450 MHz coverage. Feature-rich handheld transceiver for amateur ham radio enthusiasts. Black.
-  Updated: 2026-03-29T01:39:48Z
+  Updated: 2026-04-06T16:53:22Z
   Vendor: Wouxun
   Product Type: Amateur Radio
   Availability: Available
@@ -1547,14 +1540,14 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/shtf-survivalist-prepper-333-radio-frequency-operations-guide-8-12-x-11-laminated-full-268_ca198df6-6005-4740-9110-7f72ca05c34e.webp?v=1769948881
   Price: $15.00 CAD
 - [DistribuComm COMMille Antenna (1000W) | Canada](https://www.fleetwooddp.com/products/comm-1000-magnet-mount-mobile-cb-antenna-kit-with-57-whip): Shop the DistribuComm COMMille, the 1000W magnetic mount antenna. This Canadian-brand "Wilson 1000" competitor is built for 10m/11m. Ships fast from Canada.
-  Updated: 2026-03-29T01:39:50Z
+  Updated: 2026-04-05T01:51:28Z
   Vendor: Distribucomm
   Product Type: Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/comm-1000-magnet-mount-mobile-cb-antenna-kit-with-57-whip-compare-to-wilson-1000-black-832.webp?v=1769948882
   Price: $124.99 CAD
 - [CommDK Ultra Low Profile CB Radio Antenna](https://www.fleetwooddp.com/products/comm20-ultra-low-profile-mag-mount-cb-radio-antenna): Fleetwood Digital offers the CommDK Ultra Low Profile Mag Mount CB Radio Antenna. Ideal for short distances, this low profile antenna features a magnetic mount and flexible rubber whip.
-  Updated: 2026-03-29T01:39:51Z
+  Updated: 2026-04-05T01:51:30Z
   Vendor: Distribucomm
   Product Type: CB Antenna
   Availability: Available
@@ -1568,7 +1561,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pre-order-quansheng-uv-k58-upgrade-version-portable-multiband-amateur-ham-radio-394_9180d546-deec-4b2e-8128-196476cd1338.webp?v=1769948905
   Price: $129.99 CAD
 - [Quansheng Battery Eliminator 12V for UV-K5/K6](https://www.fleetwooddp.com/products/quansheng-uv-k5-uv-k58-uv-k6-battery-eliminator-12v): Fleetwood Digital offers the Quansheng UV-K5/UV-K5(8)/UV-K6 Battery Eliminator 12V Retevis RA79. This Quansheng battery eliminator ensures continuous radio power via a 1.
-  Updated: 2026-03-29T01:39:52Z
+  Updated: 2026-04-05T01:51:30Z
   Vendor: Quansheng
   Product Type: Eliminator
   Availability: Available
@@ -1596,7 +1589,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/quansheng-uv-5r-plus-dual-band-amateur-ham-radio-846_3fea682c-b07d-473a-ac01-67d53c58b8d8.webp?v=1769948961
   Price: $60.00 CAD
 - [Retevis RT85 Land Mobile Radio Northern Ontario Logging Roads](https://www.fleetwooddp.com/products/n9-northern-ontario-fsr-edition-logging-road-back-country-walkie-talkie-two-way-radio-ic-25962-p11uv): Retevis RT85 N9 Northern Ontario FSR Edition land mobile radio for logging roads. Durable, stronger audio, modern LCD. Outperforms Baofeng.
-  Updated: 2026-03-31T16:06:06Z
+  Updated: 2026-04-02T23:16:57Z
   Vendor: Retevis
   Product Type: Logging Road Radio
   Availability: Available
@@ -1618,98 +1611,98 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rt85-n9-northern-ontario-fsr-edition-logging-road-back-country-walkie-talkie-two-394.webp?v=1769948972
     Price: $899.99 CAD
 - [President DigiMike | NRC Noise Reduction CB Microphone | 6-Pin](https://www.fleetwooddp.com/products/president-electronics-digimike-nrc-noise-reduction-cb-microphone): 💰 Bundle & Save. Eliminate cab noise with the President DigiMike. Features 5-level active NRC noise reduction for crystal clear transmissions.
-  Updated: 2026-03-29T01:39:52Z
+  Updated: 2026-04-05T01:51:31Z
   Vendor: President
   Product Type: Microphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-electronics-digimike-nrc-noise-reduction-cb-microphone-171.webp?v=1769948994
   Price: $89.99 CAD
 - [Pyramid PS3KX 2.5A Linear Power Supply | Canada](https://www.fleetwooddp.com/products/pyramid-ps3kx-3-amp-12-volt-dc-power-supply): Get the Pyramid PS3KX, a 2.5A (3A peak) linear power supply. Ideal for radio scanners and other low-power 12V devices. Ships fast from Canada.
-  Updated: 2026-03-29T01:39:54Z
+  Updated: 2026-04-05T01:51:32Z
   Vendor: Pyramid
   Product Type: Power Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pyramid-ps3kx-3-amp-12-volt-dc-power-supply-supplies-black-747.webp?v=1769949024
   Price: $89.99 CAD
 - [Pyramid PS7KX 5A Linear Power Supply | Canada](https://www.fleetwooddp.com/products/pyramid-ps7kx-7-amp-12-volt-dc-power-supply): Get the Pyramid PS7KX, a 5A (7A peak) linear power supply. This RF-quiet 13.8V DC supply is perfect for CB radios and scanners. Ships fast from Canada.
-  Updated: 2026-03-29T01:39:55Z
+  Updated: 2026-04-05T01:51:34Z
   Vendor: Pyramid
   Product Type: Power Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pyramid-ps7kx-7-amp-12-volt-dc-power-supply-supplies-black-regulated-620.webp?v=1769949028
   Price: $99.99 CAD
 - [Pyramid PS9KX 5A Linear Power Supply | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/pyramid-ps9kx-7-amp-12-volt-dc-power-supply-with-cigarette-lighter-port): Get the Pyramid PS9KX. This 5A linear supply provides clean, quiet 12V power for your CB radio, scanner, or other low-power device. Ships from Canada.
-  Updated: 2026-03-29T01:39:56Z
+  Updated: 2026-04-05T01:51:34Z
   Vendor: Pyramid
   Product Type: Power Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pyramid-ps9kx-7-amp-12-volt-dc-power-supply-with-cigarette-lighter-port-supplies-black-374.webp?v=1769949032
   Price: $119.99 CAD
 - [President MLA-145 5/8 Wave Mag-Mount Antenna | Canada](https://www.fleetwooddp.com/products/president-electronics-mla-145-premium-magnetic-mobile-cb-radio-antenna): Shop the premium President MLA-145. This 62-inch, 5/8 wave magnetic antenna handles 500W PEP and unlocks a 5-year radio warranty. Ships fast from Canada.
-  Updated: 2026-03-29T01:39:57Z
+  Updated: 2026-04-05T01:51:35Z
   Vendor: President
   Product Type: CB Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-electronics-mla-145-premium-magnetic-mobile-cb-radio-antenna-black-silver-180.webp?v=1769949044
   Price: $179.99 CAD
 - [Amateur Ham Band Plan HF PDF Digital Download](https://www.fleetwooddp.com/products/digital-download-amateur-ham-band-plan-hf-pdf): Fleetwood Digital provides the Amateur Ham Band Plan (HF) PDF. This digital download delivers a quick ham band plan reference for amateur ham enthusiasts. Requires valid email address.
-  Updated: 2026-03-29T01:39:57Z
+  Updated: 2026-04-05T01:51:36Z
   Vendor: Fleetwood Digital
   Product Type: Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/digital-download-amateur-ham-band-plan-hf-pdf-manual-hf-714.webp?v=1769949055
   Price: $0.00 CAD
 - [Amateur Ham Band Plan VHF UHF Digital Download PDF](https://www.fleetwooddp.com/products/digital-download-amateur-ham-band-plan-vhf-uhf-pdf): Fleetwood Digital offers a Digital Download of the Amateur Ham Band Plan (VHF/UHF) in PDF. This ham band plan provides a quick reference for amateur ham radio enthusiasts.
-  Updated: 2026-03-29T01:39:59Z
+  Updated: 2026-04-05T01:51:37Z
   Vendor: Fleetwood Digital
   Product Type: Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/digital-download-amateur-ham-band-plan-vhf-uhf-pdf-manual-vhf-uhf-338.webp?v=1769949057
   Price: $0.00 CAD
 - [CB Radio Quick Reference Guide PDF](https://www.fleetwooddp.com/products/digital-download-cb-radio-quick-reference-guide-printed-and-laminated-pdf): Fleetwood Digital offers a Digital Download CB Radio Quick Reference Guide PDF. This handy guide for CB radio newcomers covers common topics. Perfect for on-screen viewing or printing.
-  Updated: 2026-03-29T01:40:00Z
+  Updated: 2026-04-05T01:51:39Z
   Vendor: Fleetwood Digital
   Product Type: Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/digital-download-cb-radio-quick-reference-guide-pdf-manual-frequency-707.webp?v=1769949060
   Price: $0.00 CAD
 - [SHTF Survivalist Prepper Radio Frequency Guide PDF](https://www.fleetwooddp.com/products/digital-download-shtf-survivalist-prepper-333-radio-frequency-operations-guide-pdf): Fleetwood Digital presents the SHTF Survivalist Prepper 333 Radio Frequency & Operations Guide.
-  Updated: 2026-03-29T01:40:01Z
+  Updated: 2026-04-06T21:48:16Z
   Vendor: Fleetwood Digital
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/digital-download-shtf-survivalist-prepper-333-radio-frequency-operations-guide-pdf-book-595.webp?v=1769949062
   Price: $0.00 CAD
 - [Scanner Frequencies Digital Download PDF Valid Email](https://www.fleetwooddp.com/products/digital-download-scanner-frequencies-bc-rr-ladd-gmrs-frs-murs-noaa-pdf): Fleetwood Digital offers a Digital Download - Scanner Frequencies (BC RR / LADD / GMRS / FRS / MURS / NOAA) PDF. This digital download scanner frequencies guide requires a valid email address.
-  Updated: 2026-03-29T01:40:02Z
+  Updated: 2026-04-06T21:42:47Z
   Vendor: Fleetwood Digital
   Product Type: Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/digital-download-scanner-frequencies-bc-rr-ladd-gmrs-frs-murs-noaa-pdf-manual-list-560.webp?v=1769949065
   Price: $0.00 CAD
 - [Quansheng Official Programming Software Digital Download](https://www.fleetwooddp.com/products/quansheng-uv-k5-uv-k58-uv-k6-programming-software-manual-qs-firmware): Fleetwood Digital offers Quansheng official programming software for UV-K5/UV-K5(8)/UV-K6 as a 150MB digital download. Includes software, manuals, and firmware. No physical media.
-  Updated: 2026-03-31T14:54:47Z
+  Updated: 2026-04-06T12:27:48Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/quansheng-official-uv-k5-uv-k5-8-k6-programming-software-manual-qs-firmware-blue-321.webp?v=1769949096
   Price: $0.00 CAD
 - [AnyTone Official Programming Software AT-D578UV](https://www.fleetwooddp.com/products/anytone-official-programming-software-manual-firmware): Fleetwood Digital offers AnyTone Official Programming Software, firmware, and manuals.
-  Updated: 2026-03-31T22:27:57Z
+  Updated: 2026-04-05T01:51:43Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/anytone-official-programming-software-manual-firmware-blue-download-button-824.webp?v=1769949098
   Price: $0.00 CAD
 - [Wouxun Official Amateur Ham Radio Software 2023](https://www.fleetwooddp.com/products/wouxun-official-amateur-ham-radio-uv-series-programming-software-manual-2023): Wouxun Official Amateur Ham Radio UV Series Programming Software. 2023 digital download for KG-UV9D and other models. No physical media.
-  Updated: 2026-03-29T01:40:05Z
+  Updated: 2026-04-05T01:51:43Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/wouxun-official-amateur-ham-radio-uv-series-programming-software-manual-2023-blue-940.webp?v=1769949100
   Price: $0.00 CAD
 - [Baofeng Official Programming Software Digital Download](https://www.fleetwooddp.com/products/baofeng-official-programming-software-2023): Baofeng Official Programming Software digital download for BF/UV/GT/DM series, including UV-5R. 900+ MB zipped folder with drivers and basic install guide. 2023 version.
-  Updated: 2026-03-29T01:40:07Z
+  Updated: 2026-04-05T01:51:44Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
@@ -1723,42 +1716,42 @@
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/tyt-official-programming-software-2023-blue-download-button-729.webp?v=1769949102
   Price: $0.00 CAD
 - [YDC Tech YT-26L Battery for UV-5R Radios](https://www.fleetwooddp.com/products/ydc-tech-yt-26l-thick-usb-c-chargable-2600mah-real-capacity-replacement-battery-for-bf-f8hp-uv5r-uv-5x3-uv-5rtp-uv-5ra-and-more-type-c): Discover the YDC Tech YT-26L Ultimate Upgrade Battery for UV-5R radios, featuring 2600mAh capacity and convenient USB-C charging for superior performance.
-  Updated: 2026-03-29T01:40:08Z
+  Updated: 2026-04-05T01:51:45Z
   Vendor: Baofengradioca
   Product Type: Batteries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/ydc-tech-yt-26l-ultimate-upgrade-battery-baofeng-uv-5r-charges-via-usb-c-ultra-capacity-715.webp?v=1769949105
   Price: $34.99 CAD
 - [SD30VU VHF UHF Mini Ham Radio Antenna](https://www.fleetwooddp.com/products/black-friday-sd30vu-sma-f-vhf-uhf-mini-mag-mount-amateur-ham-radio-antenna): Fleetwood Digital offers the SD30VU SMA-F VHF/UHF Mini Mag Mount Ham Radio Antenna. This car antenna with magnetic base and coiled cable increases the range of your handheld ham radio.
-  Updated: 2026-03-29T01:40:08Z
+  Updated: 2026-04-05T01:51:47Z
   Vendor: ShengDa Com
   Product Type: Ham Radio Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/sd30vu-sma-f-vhf-uhf-mini-mag-mount-amateur-ham-radio-antenna-car-magnetic-951.webp?v=1769949134
   Price: $7.49 CAD
 - [President George AM/FM/SSB CB Radio | Fleetwood Digital](https://www.fleetwooddp.com/products/president-george-fcc-40-channel-am-fm-ssb-cb-radio): Shop the new President George AM/FM/SSB CB radio. This all-mode rig has a 7-colour display, built-in SWR meter, and 12/24V input. Ships fast from Canada.
-  Updated: 2026-03-29T01:40:09Z
+  Updated: 2026-04-05T01:51:48Z
   Vendor: President
   Product Type: CB Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/president-george-fcc-40-channel-am-fm-ssb-cb-radio-black-998.webp?v=1769949165
   Price: $399.99 CAD
 - [Baofeng UV-5R Software & CHIRP Driver | Fleetwood Digital](https://www.fleetwooddp.com/products/baofeng-official-uv-5r-programming-software-uv-series-2023): Get the free programming software (CPS) & CHIRP drivers for your Baofeng UV-5R, BF-F8HP, & more. Don't forget the programming cable! Free downloads.
-  Updated: 2026-03-29T01:40:10Z
+  Updated: 2026-04-05T01:51:48Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/baofeng-official-uv-5r-programming-software-series-2023-blue-download-button-689.webp?v=1769949182
   Price: $0.00 CAD
 - [Ailunce HD1 DMR CPS Programming Software Download](https://www.fleetwooddp.com/products/ailunce-hd1-dmr-official-programming-software): Fleetwood Digital offers Ailunce HD1 DMR CPS programming software. This digital download includes HD1 DMR and HD1 GPS DMR CPS programming software and USB drivers.
-  Updated: 2026-03-29T01:40:12Z
+  Updated: 2026-04-05T01:51:49Z
   Vendor: Fleetwood Digital
   Product Type: Programming Software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/ailunce-hd1-dmr-official-cps-programming-software-blue-download-button-627.webp?v=1769949183
   Price: $0.00 CAD
 - [Lunar Baseball Diamond Home Run Art Print](https://www.fleetwooddp.com/products/lunar-baseball-baseball-diamond-on-the-moon-full-colour-glossy-print): Lunar Baseball from Fleetwood Digital: A baseball diamond on the moon in a full color glossy print. This unique artwork makes a perfect gift for any baseball fan or moon enthusiast.
-  Updated: 2026-03-29T01:40:13Z
+  Updated: 2026-04-05T02:15:39Z
   Vendor: Fleetwood Digital
   Product Type: Artwork
   Availability: Available
@@ -1773,7 +1766,7 @@
     Availability: Available
     Price: $19.99 CAD
 - [Retevis RA79 (UV-K5) Multiband Radio w/ Freq. Counter | Canada](https://www.fleetwooddp.com/products/retevis-ra79-uv-k5-portable-handheld-multiband-amateur-ham-radio-transceiver-scanner-frequency-counter): Get the Retevis RA79 (UV-K5) radio from Canada. Features 50-600MHz wideband reception, frequency counter, air band, and USB-C. Ships fast from Fleetwood Digital.
-  Updated: 2026-03-29T01:40:15Z
+  Updated: 2026-04-05T01:51:52Z
   Vendor: Retevis
   Product Type: Amateur Radio
   Availability: Available
@@ -1786,7 +1779,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-ra79-uv-k5-portable-handheld-multiband-amateur-ham-radio-transceiver-scanner-451.webp?v=1772367027
     Price: $59.99 CAD
 - [Retevis RT85 UV88 Dual Band Amateur Ham Radio](https://www.fleetwooddp.com/products/retevis-rt85-uv88-dual-band-two-way-radio): Retevis RT85 (UV88) Dual Band Amateur Ham Radio: Robust FM dual bander with modern LCD, stronger audio, durable case, and 5W output. Outperforms Baofeng UV-5R/UV-82 in.
-  Updated: 2026-03-29T01:40:16Z
+  Updated: 2026-04-05T01:51:54Z
   Vendor: Retevis
   Product Type: Amateur Radio
   Availability: Available
@@ -1799,7 +1792,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rt85-uv88-dual-band-amateur-ham-radio-international-busy-port-746.webp?v=1772367046
     Price: $59.99 CAD
 - [Retevis RT5R 5W Dual Band Ham Radio | Fleetwood Digital Canada](https://www.fleetwooddp.com/products/retevis-rt5r-uv-5r-dual-band-amateur-ham-radio-usb-charger): Get the Retevis RT5R (UV-5R), the perfect 5W dual-band starter ham radio. 128 channels and USB charging. For licensed amateurs. Ships from Canada.
-  Updated: 2026-03-29T01:40:20Z
+  Updated: 2026-04-05T01:51:59Z
   Vendor: Retevis
   Product Type: Amateur Radio
   Availability: Available
@@ -1837,7 +1830,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rt5r-uv-5r-ic-23137-dual-band-amateur-ham-radio-usb-charger-international-451.webp?v=1772367068
     Price: $599.99 CAD
 - [Retevis K1 USB Programming Cable | Fleetwood Digital](https://www.fleetwooddp.com/products/usb-programming-cable-for-retevis-analog-radios): Program your Retevis, Baofeng, or Quansheng radio with our K1 USB cable. Uses a modern Prolific chip for Windows & macOS. Ships fast from Canada.
-  Updated: 2026-03-29T01:40:23Z
+  Updated: 2026-04-05T01:52:01Z
   Vendor: Retevis
   Product Type: Programming Cable
   Availability: Available
@@ -1850,14 +1843,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-usb-programming-cable-for-handheld-analog-amateur-ham-radios-wouxun-baofeng-491.webp?v=1772367081
     Price: $19.99 CAD
 - [Retevis K1 2-Pin Speaker Mic | Fleetwood Digital](https://www.fleetwooddp.com/products/speaker-microphone-for-retevis-two-way-radios): Shop the standard Retevis K1 2-pin speaker mic. Fits Baofeng UV-5R, Quansheng UV-K5 & Retevis RT22 radios. Features a 3.5mm earpiece jack. Ships fast from Canada.
-  Updated: 2026-03-29T01:40:23Z
+  Updated: 2026-04-05T01:52:01Z
   Vendor: Retevis
   Product Type: Speaker Microphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-mini-ptt-speaker-microphone-for-handheld-amateur-ham-radios-c9021a-black-389.webp?v=1772367084
   Price: $14.99 CAD
 - [Retevis RHD-771 Ham Radio Antenna (SMA-M) | Canada](https://www.fleetwooddp.com/products/sma-m-40cm-upgrade-antenna-for-retevis-two-way-radios): Boost your Yaesu, Icom, or Kenwood radio's range with the RHD-771 high-gain antenna. This 40cm SMA-Male whip fits Japanese-style radios. Ships fast from Canada.
-  Updated: 2026-03-29T01:40:24Z
+  Updated: 2026-04-10T06:00:46Z
   Vendor: Retevis
   Product Type: Antenna
   Availability: Available
@@ -1870,7 +1863,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rhd-771-sma-m-40cm-upgrade-antenna-for-handheld-two-way-amateur-ham-radios-105.webp?v=1772367113
     Price: $14.99 CAD
 - [Retevis RHD-771 Ham Radio Antenna (SMA-F) | Canada](https://www.fleetwooddp.com/products/sma-f-40cm-upgrade-antenna-for-retevis-two-way-radios): Boost your handheld ham radio's range with the Retevis RHD-771 high-gain antenna. This 39cm SMA-Female whip is perfect for Baofeng UV-5R & more. Ships from Canada.
-  Updated: 2026-03-29T01:40:26Z
+  Updated: 2026-04-05T01:52:04Z
   Vendor: Retevis
   Product Type: Antenna
   Availability: Available
@@ -1883,7 +1876,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rhd-771-sma-f-40cm-elite-upgrade-antenna-for-handheld-two-way-amateur-ham-radios-888.webp?v=1772367127
     Price: $14.99 CAD
 - [Retevis RA89 10W IP68 Waterproof Ham Radio | Canada](https://www.fleetwooddp.com/products/retevis-ra89-fcc-high-power-dual-band-ip68-waterproof-ham-radio): Shop the Retevis RA89 10W High-Power IP68 Waterproof Ham Radio. Features intelligent noise reduction & USB-C charging. Ships fast from Fleetwood Digital in Canada.
-  Updated: 2026-03-29T01:40:27Z
+  Updated: 2026-04-06T21:35:04Z
   Vendor: Retevis
   Product Type: Amateur Radio
   Availability: Available
@@ -1896,7 +1889,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-ra89-fcc-high-power-dual-band-ip68-waterproof-amateur-ham-radio-international-309.webp?v=1772367154
     Price: $99.99 CAD
 - [Retevis RT95 25W Mobile Ham Radio | Fleetwood Digital](https://www.fleetwooddp.com/products/retevis-rt95-fcc-dual-band-mobile-amateur-ham-radio): Shop the Retevis RT95 25W mobile ham radio in Canada. This compact rig features Chirp programming, 200 channels, and CTCSS/DCS. Ships fast.
-  Updated: 2026-03-31T03:08:42Z
+  Updated: 2026-04-05T01:52:08Z
   Vendor: Retevis
   Product Type: Amateur Radio
   Availability: Available
@@ -1909,7 +1902,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-rt95-fcc-dual-band-mobile-amateur-ham-radio-international-busy-port-506.webp?v=1772367174
     Price: $169.99 CAD
 - [Retevis MR100 Mag-Mount Ham Radio Antenna | Canada](https://www.fleetwooddp.com/products/mr100-50cm-dual-band-mobile-antenna-for-retevis-amateur-ham-radio): Get the Retevis MR100 mag-mount antenna. This complete dual-band ham radio antenna includes a 4m cable with PL259 plug. No drilling needed. Ships fast from Canada.
-  Updated: 2026-03-29T01:40:30Z
+  Updated: 2026-04-05T01:52:08Z
   Vendor: Retevis
   Product Type: Antenna
   Availability: Available
@@ -1922,7 +1915,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-mr100-50cm-dual-band-mobile-magnet-mount-amateur-ham-radio-antenna-international-561.webp?v=1772367190
     Price: $59.99 CAD
 - [Retevis RT95 J9129A USB Programming Cable Canada](https://www.fleetwooddp.com/products/usb-programming-cable-for-retevis-rt95): Fleetwood Digital offers the USB Programming Cable J9129A for Retevis RT95 radios. This cable provides reliable programming and Windows compatibility for enhanced radio management.
-  Updated: 2026-03-31T03:08:42Z
+  Updated: 2026-04-05T01:52:10Z
   Vendor: Retevis
   Product Type: Programming Cable
   Availability: Available
@@ -1935,7 +1928,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/usb-programming-cable-for-retevis-rt95-j9129a-international-busy-port-947.webp?v=1772367196
     Price: $24.99 CAD
 - [Retevis RT85, TYT TH-UV88 Extra Rechargeable Li-Ion Battery](https://www.fleetwooddp.com/products/extra-battery-for-retevis-rt85): Fleetwood Digital offers an Extra High Capacity Battery for Retevis RT85/TYT TH-UV88. This 3200mAh, 7.4V Rechargeable Li-ion battery provides extended operating time for your radio.
-  Updated: 2026-03-29T01:40:33Z
+  Updated: 2026-04-05T01:52:11Z
   Vendor: Retevis
   Product Type: Battery
   Availability: Available
@@ -2002,7 +1995,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/radiowave-activewear-classic-mouse-parody-hot-dog-unisex-hoodie-white-s-cartoon-324.webp?v=1772367205
     Price: $52.50 CAD
 - [RadioWave ActiveWear Classic Mouse Parody Tank](https://www.fleetwooddp.com/products/radiowave-activewear-classic-mouse-parody-hot-dog-sublimation-cut-sew-tank-top): RadioWave ActiveWear Classic Mouse Parody tank top from Fleetwood Digital. This body-hugging athletic top features four-way stretch fabric and a comfortable microfiber feel.
-  Updated: 2026-03-01T12:13:28Z
+  Updated: 2026-04-04T00:16:20Z
   Vendor: Fleetwood Digital
   Product Type: 
   Availability: Available
@@ -2028,49 +2021,49 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/radiowave-activewear-classic-mouse-parody-hot-dog-sublimation-cut-sew-tank-top-xs-woman-653.webp?v=1772367207
     Price: $35.50 CAD
 - [Vintage CB Radio GE 3-5976A Tangible Piece](https://www.fleetwooddp.com/products/own-a-piece-of-history-vintage-cb-radio): Own a tangible piece of history with this vintage CB radio, a GE 3-5976A. This vintage black and gray walkie-talkie evokes BC logging roads and Canadian nostalgia.
-  Updated: 2026-03-29T01:40:35Z
+  Updated: 2026-04-05T01:52:12Z
   Vendor: Fleetwood Digital
   Product Type: Used Vintage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/own-a-piece-of-history-vintage-cb-radio-ge-3-5976a-used-black-gray-839.webp?v=1772367208
   Price: $9.99 CAD
 - [Vintage CB Radio Radio Shack Canada Tangible Piece](https://www.fleetwooddp.com/products/copy-of-own-a-piece-of-history-vintage-cb-radio-radio-shack): Fleetwood Digital offers a tangible piece of history: a vintage CB radio from Radio Shack. Own this used, vintage walkie-talkie and experience the nostalgia of citizen band radio.
-  Updated: 2026-03-29T01:40:38Z
+  Updated: 2026-04-05T01:52:16Z
   Vendor: Fleetwood Digital
   Product Type: Used Vintage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/own-a-piece-of-history-vintage-cb-radio-shack-used-black-realistic-walkie-talkie-523.webp?v=1772367236
   Price: $9.99 CAD
 - [Stay Safe & Connected with Our Handheld Waterproof VHF Marine Radio!](https://www.fleetwooddp.com/products/ydc-tech-mr-50m-handheld-waterproof-vhf-marine-radio-long-range-usb-charging-floating-ipx7-waterproof): Stay afloat (literally!) with the YDC TECH® MR-50M Handheld Waterproof VHF Marine Radio - the ultimate communication buddy for all your aquatic escapades!
-  Updated: 2026-03-29T01:40:38Z
+  Updated: 2026-04-05T01:52:16Z
   Vendor: Baofengradioca
   Product Type: VHF Marine Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/ydc-tech-r-mr-50m-handheld-waterproof-vhf-marine-radio-long-range-usb-charging-floating-324.webp?v=1772367241
   Price: $229.99 CAD
 - [Quansheng UV-K5(8) Amateur Ham Radio](https://www.fleetwooddp.com/products/quansheng-uv-k58-amateur-radio-noaa-emergency-weather-receiver-ic-): Quansheng UV-K5(8) Amateur Ham Radio: Dual band handheld transceiver (144-148/430-450 MHz), 5W power, NOAA weather, USB-C charging, and enhanced speaker
-  Updated: 2026-03-29T01:40:40Z
+  Updated: 2026-04-07T03:45:03Z
   Vendor: Baofengradioca
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/quansheng-uv-k5-8-amateur-ham-radio-black-handheld-two-way-111.webp?v=1772367252
   Price: $74.99 CAD
 - [Upgrade Antenna For Wouxun KG-UV8D+](https://www.fleetwooddp.com/products/retevis-rhd-771-two-way-radio-antenna-sma-m-dual-band-antenna-elite-whip-antenna-144-430-mhz-for-tyt-uv88-1): Two-way radio antenna fit for dual-band; connector is SMA - Male; length approx is 14.8inches Dual frequency136-174/400-480MHz; widely used in Two-Way radios Gain 2.15db and extend the range of your communication The longer the high gain antenna is the better the antenna is capable of boosting weak frequencies This super-whip antenna can take a lot more abuse than the standard whip antennas. It is a MUST have an antenna for your radios - it will boost the signal of your radio dramatically. Just try and enjoy itSpecification: V.S.W.R: <1.5 Impedance: 50ohmGain 2.15db: Stubborn and durable, will allow you to get longer range on your handheld radioMax power: 20W Apply to the 2 way radio less than 20WDual-Band: 144/430Mhz(136-174+400-470)MHz; It can be widely used in different Two-way radio and HT.
-  Updated: 2026-03-23T12:04:21Z
+  Updated: 2026-04-05T01:30:25Z
   Vendor: Baofengradioca
   Product Type: Extended Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/1_6736dc54-1c4d-4403-86c1-9886de97d7bd.jpg?v=1768991814
   Price: $24.99 CAD
 - [Unlock Amateur Radio Fun with POFUNG BAOFENG UV-5RIC UHF 430-450 MHz](https://www.fleetwooddp.com/products/pofung-baofeng-uv-5ric-vhf-144-148-mhz-uhf-430-450-mhz-dual-band-two-way-ham-radio-classic-black): Get ready to ham it up with the POFUNG BAOFENG UV-5RIC VHF 144-148 MHz UHF 430-450 MHz dual-band radio! Dual display, manual English/French, and more.
-  Updated: 2026-03-29T01:40:41Z
+  Updated: 2026-04-10T13:38:52Z
   Vendor: Baofeng
   Product Type: Amateur Radio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/9674/files/pofung-baofeng-uv-5ric-dual-band-vhf-uhf-ham-radio-ic--canada-4w-handheld-689.webp?v=1772367280
   Price: $59.99 CAD
 - [Retevis RS-112 Heavy-Duty Speaker Mic (K1) | Canada](https://www.fleetwooddp.com/products/retevis-rs-112-ip54-heavy-duty-weatherproof-speaker-microphone): Upgrade your radio with the Retevis RS-112 heavy-duty speaker mic. IP54 weatherproof with clear audio. Fits Kenwood, Baofeng & more (K1 plug). Ships fast from Canada.
-  Updated: 2026-03-29T01:40:42Z
+  Updated: 2026-04-05T01:52:20Z
   Vendor: Retevis
   Product Type: Speaker Microphone
   Availability: Available
@@ -2083,7 +2076,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-medium-duty-speaker-microphone-k-plug-c9050a-international-busy-port-398.webp?v=1772367305
     Price: $24.99 CAD
 - [DistribuComm COMM848V | Wide Band VHF Antenna | No Ground Plane](https://www.fleetwooddp.com/products/distribucomm-comm848v-wide-band-vhf-nmo-mobile-antenna): The DistribuComm COMM848V covers 136-174MHz with a massive 24MHz bandwidth. Perfect for running 2M Ham and BC Resource Roads on a single antenna. No ground plane required.
-  Updated: 2026-03-29T01:40:44Z
+  Updated: 2026-04-05T01:52:22Z
   Vendor: Distribucomm
   Product Type: Antenna
   Availability: Available
@@ -2095,7 +2088,7 @@
     Availability: Available
     Price: $64.99 CAD
 - [Retevis RA89 2500mAh Battery (USB-C) | Fleetwood Digital](https://www.fleetwooddp.com/products/battery-for-retevis-ra89-2500mah-7-4v-li-ion): Get the genuine 2500mAh spare battery for your Retevis RA89 ham radio. Features a built-in USB-C port for easy, cradle-free charging. Ships fast from Canada.
-  Updated: 2026-03-29T01:40:45Z
+  Updated: 2026-04-05T01:52:23Z
   Vendor: Retevis
   Product Type: Battery
   Availability: Available
@@ -2108,7 +2101,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/battery-for-retevis-ra89-2500mah-7-4v-li-ion-c9264a-international-busy-port-203.webp?v=1772367312
     Price: $39.99 CAD
 - [Retevis EZTalk2 IP67 Waterproof Hunting Radio](https://www.fleetwooddp.com/products/retevis-ip67-waterproof-two-way-hunting-radio): Retevis EZTalk2 IP67 waterproof two way hunting radio at Fleetwood Digital. Camouflage handheld with Hunting Calls, USB-C charging, Whisper Mode, and FM radio.
-  Updated: 2026-03-29T01:40:47Z
+  Updated: 2026-04-05T01:52:25Z
   Vendor: Retevis
   Product Type: Amateur Radio
   Availability: Available
@@ -2121,7 +2114,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-eztalk2-ip67-waterproof-two-way-hunting-radio-international-amateur-busy-port-429.webp?v=1772367344
     Price: $119.99 CAD
 - [Retevis HA06 VHF Logging Antenna (SMA-M) | Canada](https://www.fleetwooddp.com/products/retevis-ha06-sma-m-logging-road-antenna-for-retevis-pofung-logging-road-radios): Get the Retevis HA06, the perfect VHF antenna for Canadian logging roads (152MHz). This 40cm SMA-Male whip fits Retevis RT85, RT87 & more. Ships fast.
-  Updated: 2026-03-29T01:40:48Z
+  Updated: 2026-04-05T01:52:26Z
   Vendor: Retevis
   Product Type: Antenna
   Availability: Available
@@ -2133,27 +2126,40 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-ha06-sma-m-logging-road-antenna-for-pofung-radios-international-busy-port-137.webp?v=1772367363
     Price: $19.99 CAD
-[List Continued](https://www.fleetwooddp.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Mzg5NjUwOTY4ODU1LCJsYXN0X3ZhbHVlIjoiOTM4OTY1MDk2ODg1NSJ9)
+- [Retevis 1400mAh Battery for RT5R RT5V](https://www.fleetwooddp.com/products/retevis-1400mah-7-4v-original-li-ion-battery-for-rt5r-rt5v): Retevis 1400mAh 7.4V Li-Ion Battery for RT5R/RT5V (Baofeng UV-5R compatible). Original Retevis battery provides long-lasting power and reliable performance for your radio.
+  Updated: 2026-04-05T01:52:28Z
+  Vendor: Retevis
+  Product Type: Battery
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-1400mah-7-4v-original-li-ion-battery-for-rt5r-rt5v-baofeng-uv-5r-compatible-469.webp?v=1772367366
+  - [Canada](https://www.fleetwooddp.com/products/retevis-1400mah-7-4v-original-li-ion-battery-for-rt5r-rt5v?variant=50309394202903)
+    Availability: Not Available
+    Price: $19.99 CAD
+  - [International](https://www.fleetwooddp.com/products/retevis-1400mah-7-4v-original-li-ion-battery-for-rt5r-rt5v?variant=50309394235671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1133/9674/files/retevis-1400mah-7-4v-original-li-ion-battery-for-rt5r-rt5v-baofeng-uv-5r-compatible-784.webp?v=1772367370
+    Price: $24.99 CAD
+[List Continued](https://www.fleetwooddp.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Mzg5NjU3OTgxMjA3LCJsYXN0X3ZhbHVlIjoiOTM4OTY1Nzk4MTIwNyJ9)
 
 ## Collections
 
 - [Say goodbye to driver nightmares with our USB programming cables!](https://www.fleetwooddp.com/collections/amateur-ham-radio-usb-programming-cables): Fleetwood Digital offers USB programming cables for amateur ham radios. Find TYT USB programming, Retevis, and other compatible USB programming cables for various handheld models including Wouxun.
-  Updated: 2026-03-25T11:02:26Z
-  Total Products: 9
+  Updated: 2026-04-02T05:06:35Z
+  Total Products: 10
 - [Power Up Your Amateur Ham Radio with Alkaline Battery Cases!](https://www.fleetwooddp.com/collections/amateur-ham-radio-batteries): Fleetwood Digital offers amateur ham radio batteries for Wouxun, Baofeng, TYT, and Retevis radios. Find walkie talkie batteries, including high-capacity and alkaline options.
   Updated: 2026-03-27T11:03:03Z
   Total Products: 20
 - [Get Loud with Fleetwood Digital’s Microphones in Canada](https://www.fleetwooddp.com/collections/microphones): Fleetwood Digital offers Retevis microphones for amateur ham radios Canada and GMRS radios USA/Canada. Find speaker, throat, and covert acoustic tube microphones.
-  Updated: 2026-03-26T11:02:43Z
-  Total Products: 38
+  Updated: 2026-04-07T11:02:46Z
+  Total Products: 40
 - [Get rid of pesky batteries with our Amateur Ham Radio Battery Eliminators!](https://www.fleetwooddp.com/collections/amateur-ham-radio-battery-eliminators): Fleetwood Digital offers amateur ham radio battery eliminators for Pofung P11 Land, Baofeng, Puxing, Quansheng, Retevis, TYT, Wouxun KG-UV8D, and more.
-  Updated: 2026-03-22T11:02:12Z
+  Updated: 2026-04-09T11:02:01Z
   Total Products: 5
 - [Handheld Ham Radio (HT) Antenna Upgrades | Canada](https://www.fleetwooddp.com/collections/amateur-ham-radio-antennas-handheld-radios): Boost your handheld radio's range. Shop the best HT antennas for Baofeng, Quansheng, & Retevis. SMA-F & SMA-M upgrades available. Ships fast from Canada.
-  Updated: 2026-03-20T11:01:56Z
+  Updated: 2026-04-10T11:01:47Z
   Total Products: 19
 - [Mobile Ham Radio Antennas for  | Fleetwood Digital](https://www.fleetwooddp.com/collections/mobile-ham-radio-antennas-cars-trucks-4x4-suv): Shop the best mobile ham radio antennas in Canada. We stock NMO, PL259, and magnetic mounts for your car, truck, or 4x4. Ships fast from Canada.
-  Updated: 2026-03-22T11:02:12Z
+  Updated: 2026-04-04T11:01:30Z
   Total Products: 27
 - [Find the Perfect Ham Radio Antenna Mount at Fleetwood Digital](https://www.fleetwooddp.com/collections/mobile-amateur-ham-radio-antenna-mounts): Fleetwood Digital offers mobile amateur ham radio antenna mounts. Find stainless steel CB antenna studs, mirror mounts, coax cables, and magnetic roof mounts for your ham radio antenna.
   Updated: 2026-02-28T23:27:07Z
@@ -2165,10 +2171,10 @@
   Updated: 2026-02-28T23:27:07Z
   Total Products: 8
 - [CB Radios & 10-Metre Radios for  | Fleetwood Digital](https://www.fleetwooddp.com/collections/cb-radios-handheld-mobile-single-sideband-ssb-am-fm): Shop the best CB & 10-Metre radios in Canada. We carry AM, FM, & SSB mobiles from President, Uniden & more. Ships fast from Canada.
-  Updated: 2026-02-28T23:27:07Z
-  Total Products: 63
+  Updated: 2026-04-02T19:37:41Z
+  Total Products: 64
 - [Radio Scanners | Uniden & Retevis | Digital & Analog | Canada](https://www.fleetwooddp.com/collections/radio-scanners): Shop Canada's best selection of scanners. From Uniden Digital P25 police scanners to affordable Retevis analog radios. We have the right radio for you.
-  Updated: 2026-02-28T23:27:07Z
+  Updated: 2026-04-10T11:01:47Z
   Total Products: 19
 - [Stay Afloat with Top-notch VHF Marine Radios from Fleetwood Digital](https://www.fleetwooddp.com/collections/vhf-marine-radios): Fleetwood Digital offers a selection of VHF marine radios, including handheld and fixed mount options like the Retevis RM01 and RM20. Ensure safe communication on the water with a VHF marine radio.
   Updated: 2026-02-28T23:27:07Z
@@ -2177,7 +2183,7 @@
   Updated: 2026-03-25T11:02:26Z
   Total Products: 9
 - [Get Funky with Base Station Accessories for Amateur Ham Radio](https://www.fleetwooddp.com/collections/mobile-radio-base-station-accessories): Fleetwood Digital offers Mobile Radio / Base Station Accessories including CB microphone holders, power cords, amateur ham radio mounts, and a 10 Meter mobile radio amplifier.
-  Updated: 2026-03-28T11:02:09Z
+  Updated: 2026-04-08T11:02:24Z
   Total Products: 29
 - [Keep Your Ham Radios Safe: Protective Cases for Amateur Hams](https://www.fleetwooddp.com/collections/protective-ham-radio-cases): Fleetwood Digital offers protective cases for ham radios including Wouxun and Tytera models. Find leather, silicone, and universal fit options to keep your amateur ham radios safe.
   Updated: 2026-02-28T23:27:07Z
@@ -2186,10 +2192,10 @@
   Updated: 2026-03-10T11:01:40Z
   Total Products: 38
 - [Ham Radio Antenna Adapters | Fleetwood Digital Canada](https://www.fleetwooddp.com/collections/amateur-ham-radio-walkie-talkie-antenna-adapters): Get the right SMA, BNC, or SO-239 adapter for your ham radio. In stock in Surrey for local pickup or fast shipping from Canada.
-  Updated: 2026-03-22T11:02:12Z
+  Updated: 2026-04-05T18:32:08Z
   Total Products: 21
 - [Get Wired: Amateur Ham Radio Programming Software](https://www.fleetwooddp.com/collections/amateur-ham-radio-programming-software-manuals): Fleetwood Digital offers amateur ham radio programming software and manuals. Find Retevis, Ailunce, Baofeng, TYT, and more radio programming software for your ham radio.
-  Updated: 2026-03-31T11:02:09Z
+  Updated: 2026-04-09T11:02:01Z
   Total Products: 34
 - [CB Radio Antennas for  in Canada | Fleetwood Digital](https://www.fleetwooddp.com/collections/cb-radio-antennas): Shop the best CB & 10m antennas in Canada. We stock mag-mounts, fiberglass whips, and NMO/PL259 kits from President, DistribuComm & more. Ships fast from Canada.
   Updated: 2026-03-25T11:02:26Z
@@ -2204,28 +2210,28 @@
   Updated: 2026-02-28T23:27:07Z
   Total Products: 1
 - [Get Great Reception with Base Station Dipole & Vertical Ham Radio Antennas](https://www.fleetwooddp.com/collections/base-station-dipole-discone-vertical-cb-vhf-ham-radio-antennas): Fleetwood Digital offers base station dipole, discone, and vertical ham radio antennas. Shop Retevis and Workman Electronics base antennas for CB, VHF, and UHF.
-  Updated: 2026-03-29T11:04:46Z
+  Updated: 2026-04-03T11:02:28Z
   Total Products: 24
 - [Ham Radios for  in Canada | Fleetwood Digital](https://www.fleetwooddp.com/collections/amateur-ham-radios): Shop the best ham radios in Canada. We stock handhelds (HTs), mobile rigs, HF transceivers & DMR radios from Ailunce, Retevis & more. Ships fast from Canada.
-  Updated: 2026-03-31T11:02:09Z
-  Total Products: 27
+  Updated: 2026-04-10T11:01:47Z
+  Total Products: 28
 - [Get Your Hands on Top-Quality Ham & Base Station Radios Now!](https://www.fleetwooddp.com/collections/mobile-base-amateur-ham-radios-business-professional-drivers): Fleetwood Digital offers base station radios, amateur ham radios, and mobile radios for professional drivers. Find Retevis, President, and more.
   Updated: 2026-03-31T11:02:09Z
   Total Products: 19
 - [10-Meter Amps & Cell Phone Signal Boosters | Fleetwood Digital](https://www.fleetwooddp.com/collections/10-meter-mobile-radio-cell-phone-linear-amplifiers-signal-boosters): Maximize your range with 10-Meter linear amplifiers and cellular signal boosters for home, RV, and vehicle. Shop Canadian inventory with expert pre-sales support.
-  Updated: 2026-03-30T11:02:45Z
+  Updated: 2026-04-08T11:02:24Z
   Total Products: 12
 - [Antennas for Amateur Ham Radio in Canada](https://www.fleetwooddp.com/collections/antennas-handheld-mobile-cb-radio-hf-base-station): Fleetwood Digital offers handheld, mobile, CB radio, and HF base station antennas. Find dual band VHF and other ham radio antenna options for amateur ham radios in Canada.
-  Updated: 2026-03-29T11:04:46Z
+  Updated: 2026-04-10T11:01:47Z
   Total Products: 109
 - [Maxon America - Handheld and Mobile, Business, Jobsite, & Logging Road RR Radios](https://www.fleetwooddp.com/collections/maxon-america-handheld-and-mobile-business-jobsite-logging-road-rr-radios): Maxon America’s history started in Seoul South Korea in 1974 as a manufacturer of consumer electronics and quickly became a leader in OEM.
   Updated: 2026-01-27T00:18:41Z
   Total Products: 0
 - [Amateur Ham Radio Books and Exam Guides Canada](https://www.fleetwooddp.com/collections/amateur-ham-radio-books-exam-study-guides): Fleetwood Digital offers amateur ham radio books and exam study guides. Resources cover band plans, Canadian amateur ham radios, and more by Ron Kolody.
-  Updated: 2026-03-27T11:03:03Z
+  Updated: 2026-04-07T11:02:46Z
   Total Products: 10
 - [Get Your Baofeng Ham Radio Fix in Canada Today!](https://www.fleetwooddp.com/collections/baofeng-radios-ship-canada): Fleetwood Digital offers Baofeng ham radios and ham radio accessories like programming cables, antennas, and microphones, all shipping from Canada.
-  Updated: 2026-03-01T12:02:27Z
+  Updated: 2026-04-07T11:02:46Z
   Total Products: 71
 - [Laugh Out Loud with Fujian ShengDa’s Leading Communication Solutions](https://www.fleetwooddp.com/collections/shengda-communication-antennas-mounts-accessories): Fleetwood Digital offers ShengDa Com communication antennas, mounts, and accessories. Find VHF/UHF antennas, adapters, mounts, and more from Fujian ShengDa Communication.
   Updated: 2026-02-28T23:27:08Z
@@ -2237,16 +2243,16 @@
   Updated: 2026-02-28T23:27:08Z
   Total Products: 56
 - [BandPlans for Amateur Ham in Canada by Fleetwood Digital](https://www.fleetwooddp.com/collections/bandplans): Fleetwood Digital BandPlans offer Canadian forestry, highway, and amateur ham radio frequencies. Find BC scanner, amateur ham radios Canada, GMRS/FRS/MURS, and CB radio band plan PDFs.
-  Updated: 2026-03-27T11:03:03Z
+  Updated: 2026-04-07T11:02:46Z
   Total Products: 8
 - [Most Popular Land Mobile Logging Gear in Canada](https://www.fleetwooddp.com/collections/most-popular): Fleetwood Digital presents its most popular land mobile logging and logging road overlanding radios. Shop the Retevis RT85 and President Randy II FCC handheld amateur ham radios Canada.
-  Updated: 2026-03-29T11:04:46Z
+  Updated: 2026-04-10T19:47:00Z
   Total Products: 9
 - [Get Connected with High Frequency Radio Communication Devices](https://www.fleetwooddp.com/collections/hf-radios): Fleetwood Digital offers a selection of HF radios, including the Retevis HS4, Ailunce LPA1 amplifier, and President Washington. Explore our collection of high frequency radio communication devices.
   Updated: 2026-02-28T23:27:08Z
   Total Products: 11
 - [Buy On-Line & Ship to Fleetwood Digital Office for Pick-Up!](https://www.fleetwooddp.com/collections/ship-fleetwood-digital-pick-up): Fleetwood Digital offers online purchases of VHF/UHF SWR meters, HF power meters, antennas, and RF amplifiers. Ship to Fleetwood Digital office for convenient pick-up.
-  Updated: 2026-03-30T11:02:45Z
+  Updated: 2026-04-08T11:02:24Z
   Total Products: 168
 - [Baofeng UV-5R Free Shipping ](https://www.fleetwooddp.com/collections/baofeng-uv-5r-free-shipping-): Free shipping valid on these items only, for the month of November 2023 only. Canada only excluding remote locations.
   Updated: 2026-01-21T11:01:51Z
@@ -2267,13 +2273,13 @@
   Updated: 2026-03-01T02:38:10Z
   Total Products: 0
 - [Retevis Radios & Accessories | Fleetwood Digital Canada](https://www.fleetwooddp.com/collections/retevis): Get the best value in radio. We're Canada's source for Retevis Ham, GMRS (license-free), and Business (Logging) radios. Ships fast from Canada.
-  Updated: 2026-03-31T11:02:09Z
-  Total Products: 130
+  Updated: 2026-04-10T19:48:19Z
+  Total Products: 135
 - [Used Ham Radio and Accessories in Canada](https://www.fleetwooddp.com/collections/used-ham-radio-cb-radios-accessories): Fleetwood Digital offers used ham radios, vintage CB radios, and accessories including Radio Shack Micronta, Viking low pass filters, and more. Explore our collection.
   Updated: 2026-02-28T23:27:08Z
   Total Products: 8
 - [Quebec Warehouse for Amateur Ham Radio Equipment](https://www.fleetwooddp.com/collections/quebec-warehouse): Fleetwood Digital Quebec Warehouse offers amateur ham radios, dual band VHF SWR meters, antennas, and amplifiers from Workman Electronics, Astatic, and RM Italy for Canadian amateur ham radio enthusiasts.
-  Updated: 2026-03-30T11:02:45Z
+  Updated: 2026-04-08T11:02:24Z
   Total Products: 168
 - [ : Limited Treasures in Canada](https://www.fleetwooddp.com/collections/): Fleetwood Digital : Find limited treasures for amateur ham radios Canada, including SMA, SO239, BNC, and PL259 adapters for CB and 10-meter mobile radios.
   Updated: 2026-03-10T11:01:40Z
@@ -2291,28 +2297,28 @@
   Updated: 2026-03-21T11:01:33Z
   Total Products: 8
 - [Land Mobile Logging Road Radios](https://www.fleetwooddp.com/collections/land-mobile-logging-road-search-rescue-business-two-way-walkie-talkie): Fleetwood Digital offers land mobile two-way radios ideal for logging road, search and rescue, and business use. Shop Retevis RT85 and RT29 walkie talkies for reliable long-range communication.
-  Updated: 2026-03-29T21:44:25Z
+  Updated: 2026-04-10T19:47:00Z
   Total Products: 10
 - [President Summer GMRS Radio Bundles](https://www.fleetwooddp.com/collections/president-summer-bundles): Fleetwood Digital offers President Summer bundles featuring amateur ham radios and accessories. Find President Jerry and Ted FCC AM/FM CB radios, antennas, and more.
   Updated: 2026-02-28T23:27:08Z
   Total Products: 3
 - [Retevis VHF UHF Radios Vancouver Warehouse Stock](https://www.fleetwooddp.com/collections/retevis-vancouver-stock): Fleetwood Digital offers Retevis Vancouver stock including VHF UHF amateur ham radios Canada, ideal for commercial operators. Find RT85 radios, antennas, microphones.
-  Updated: 2026-03-29T21:44:25Z
-  Total Products: 110
+  Updated: 2026-04-10T19:48:19Z
+  Total Products: 114
 - [Digital DMR Amateur Ham Radios Canada](https://www.fleetwooddp.com/collections/digital-dmr-amateur-ham-radios): Fleetwood Digital offers DMR radios for amateur ham enthusiasts. Explore our selection of mobile DMR, GPS, and dual band DMR radio models from Retevis and Ailunce.
-  Updated: 2026-03-29T21:44:25Z
+  Updated: 2026-04-01T05:23:36Z
   Total Products: 16
 - [High Visibility Reflective Safety Vests CSA ](https://www.fleetwooddp.com/collections/professional-high-visibility-vests-lightweight-reflective-csa-): Professional high-visibility safety vests with lightweight designs and bright reflective stripes. Our collection includes CSA  surveyor and traffic vests.
   Updated: 2026-02-28T23:27:09Z
   Total Products: 8
 - [Canadian Shop for Helium Hotspots and GEODNET Miners](https://www.fleetwooddp.com/collections/canadian-shop-for-helium-hotspots-geodnet-miners-and-accessories): Fleetwood Digital is the Canadian shop for Helium hotspots, GEODNET miners, antennas, and accessories from SenseCAP, Nebra, RAKwireless, and McGill Microwave.
-  Updated: 2026-03-21T05:25:30Z
+  Updated: 2026-04-09T15:51:02Z
   Total Products: 42
 - [Professional Business Radios for  | Fleetwood Digital](https://www.fleetwooddp.com/collections/business-radios-for-retail-hospitality-job-sites-warehouse-farming-more): Shop the best business radios in Canada. We have durable walkie-talkies for construction, retail, warehouses, and restaurants. Ships fast from Canada.
-  Updated: 2026-03-29T21:44:25Z
-  Total Products: 26
+  Updated: 2026-04-10T19:48:19Z
+  Total Products: 27
 - [Featured Staff Picks](https://www.fleetwooddp.com/collections/featured-staff-picks)
-  Updated: 2026-02-28T23:27:09Z
+  Updated: 2026-04-02T11:01:47Z
   Total Products: 5
 - [Field Optics](https://www.fleetwooddp.com/collections/field-optics): 📡 Rugged field optics for hunters, overlanders, and radio operators. Shop high-performance Svbony spotting scopes and binoculars.
   Updated: 2026-02-28T23:27:09Z
@@ -2946,6 +2952,18 @@
   - [Unlock the World of Communication: How to Get Started with Amateur Radio](https://www.fleetwooddp.com/blogs/news/unlock-the-world-of-communication-how-to-get-started-with-amateur-radio): Unlock the World of Communication: How to Get Started with Amateur Radio
     Updated: 2026-03-28T11:32:26Z
     Author: Fleetwood Digital
+  - [Common Problems and Solutions When Implementing Walkie Talkies for Business](https://www.fleetwooddp.com/blogs/news/common-problems-and-solutions-when-implementing-walkie-talkies-for-business): Common Problems and Solutions When Implementing Walkie Talkies for Business
+    Updated: 2026-04-02T11:32:29Z
+    Author: Fleetwood Digital
+  - [Frequently Asked Questions About Amateur Radio and Their Answers](https://www.fleetwooddp.com/blogs/news/frequently-asked-questions-about-amateur-radio-and-their-answers): Frequently Asked Questions About Amateur Radio and Their Answers
+    Updated: 2026-04-04T11:33:16Z
+    Author: Fleetwood Digital
+  - [The Ultimate Checklist for Choosing Walkie Talkies for Business Needs](https://www.fleetwooddp.com/blogs/news/the-ultimate-checklist-for-choosing-walkie-talkies-for-business-needs): The Ultimate Checklist for Choosing Walkie Talkies for Business Needs
+    Updated: 2026-04-09T11:33:04Z
+    Author: Fleetwood Digital
+  - [Essential Checklist for Setting Up Your First Amateur Radio Station](https://www.fleetwooddp.com/blogs/news/essential-checklist-for-setting-up-your-first-amateur-radio-station): Essential Checklist for Setting Up Your First Amateur Radio Station
+    Updated: 2026-04-10T17:01:52Z
+    Author: Fleetwood Digital
 - [The Zero-Beat Journal: North American Ham Radio News & DXpedition](https://www.fleetwooddp.com/blogs/the-zero-beat-journal): The Zero-Beat Journal from Fleetwood Digital. Your North American ham radio news source for DXpedition updates, Solar Cycle trends, RAC updates, and ARRL news.
   - [Mid-November 2025 - 📡 The Zero-Beat Journal](https://www.fleetwooddp.com/blogs/the-zero-beat-journal/mid-november-2025-the-zero-beat-journal)
     Updated: 2025-11-18T19:18:04Z
@@ -2966,7 +2984,7 @@
 - [Amateur Ham Radio Licensing Courses](https://www.fleetwooddp.com/pages/ham-radio-licensing): /* --- Hero Banner CSS --- */ .fd-hero-banner { padding: 2.5em 1.5em; background-color: #f8f8f8; /* A light grey background */ border-bottom: 1px s...
   Updated: 2025-11-11T18:08:01Z
 - [Ham Radio Store Surrey & Vancouver | Fleetwood Digital Canada](https://www.fleetwooddp.com/pages/ham-radio-store-surrey-vancouver-pop-up-shop): /* Hero Banner Styles */ .fd-hero-banner { padding: 2.5em 1.5em; background-color: #f8f8f8; border-bottom: 1px solid #ddd; text-align: center; marg...
-  Updated: 2026-03-19T20:53:38Z
+  Updated: 2026-04-02T00:31:46Z
 - [HF Shortwave Band Propagation Conditions](https://www.fleetwooddp.com/pages/hf-shortwave-band-conditions): HF Shortwave Band Propagation Conditions
   Updated: 2025-08-06T21:53:53Z
 - [License-Free FRS & GMRS Radios in Canada | Fleetwood Digital](https://www.fleetwooddp.com/pages/frs-gmrs-frequencies): /* --- Hero Banner CSS --- */ .fd-hero-banner { padding: 2.5em 1.5em; background-color: #f8f8f8; /* A light grey background */ border-bottom: 1px s...
