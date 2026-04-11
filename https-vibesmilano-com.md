@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-10-28T07:24:43Z
 - Contact Email: godigitalstar@gmail.com
-- Updated At: 2026-04-04T00:00:40.287Z
+- Updated At: 2026-04-11T00:00:43.736Z
 
 ## Products
 
@@ -173,7 +173,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Salomon XT-6 nero](https://vibesmilano.com/products/salomon-xt-6-nero): Le sneakers Salomon XT-6 sono perfette per correre su tutti i tipi di terreno. Sono avvolte da un composto in mesh traspirante e resistente pellicola in TPU, per consentirti di percorrere grandi distanze agevolmente. L'intersuola è stata imbottita in EVA mentre il battistrada ha motivi geometrici. La suola è in gomma per garantire un'aderenza perfetta e per percorrere in sicurezza anche le strade più impegnative Caratteristiche della Salomon XT-6: Struttura affusolata e impermeabile Rivestimento in mesh e TPU sulla tomaia Sistema di allacciatura Quicklace Rivestimento in tessuto Suola interna in tessuto Ammortizzazione in EVA Struttura per la corsa in discesa e suola in gomma con scanalature geometriche Tempi di consegna: 10-12 giorni
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-05T04:38:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3524,7 +3524,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike New Dunk SB Supreme bianco](https://vibesmilano.com/products/nike-new-dunk-sb-low-green): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:07Z
+  Updated: 2026-04-07T03:06:51Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5126,7 +5126,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold blue](https://vibesmilano.com/products/adidas-originals-gazelle-bold-blue-1): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:19Z
+  Updated: 2026-04-08T02:12:25Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5156,7 +5156,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold ghiaccio rosa](https://vibesmilano.com/products/adidas-originals-gazelle-bold-ghiaccio-rosa): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:20Z
+  Updated: 2026-04-06T03:26:16Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7334,7 +7334,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG azzurro rosa donna](https://vibesmilano.com/products/puma-speedcat-og-azzurro-rosa-donna): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:35Z
+  Updated: 2026-04-05T09:03:05Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10289,11 +10289,11 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Ivory Cream & Pink Sand](https://vibesmilano.com/products/new-balance-nb-9060-ivory-cream): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:51Z
+  Updated: 2026-04-09T15:07:34Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/7_7d4e71a9-8e75-4023-8d25-16ca67dea4d8.jpg?v=1770456151
+  Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_da80e846-a18c-4826-beb7-a92761f16146.jpg?v=1775747238
   - [36](https://vibesmilano.com/products/new-balance-nb-9060-ivory-cream?variant=50836143407445)
     Availability: Available
     Price: 189,00 € EUR
@@ -10928,7 +10928,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Pink Lavender](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:54Z
+  Updated: 2026-04-05T23:49:55Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11036,7 +11036,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Nightwatch Purple](https://vibesmilano.com/products/new-balance-nb-9060-nightwatch-purple): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:55Z
+  Updated: 2026-04-05T07:50:45Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11541,19 +11541,19 @@
 ## Collections
 
 - [Sneakers](https://vibesmilano.com/collections/sneakers)
-  Updated: 2026-04-03T11:31:30Z
-  Total Products: 1082
+  Updated: 2026-04-10T11:23:36Z
+  Total Products: 1085
 - [Profumi di nicchia](https://vibesmilano.com/collections/profumi): Profumi arabi di nicchia
   Updated: 2026-03-30T21:25:45Z
   Total Products: 16
 - [Scarpe](https://vibesmilano.com/collections/scarpe): Scarpe uomo e donna dei migliori brand
-  Updated: 2026-03-30T21:25:45Z
-  Total Products: 792
+  Updated: 2026-04-10T11:23:36Z
+  Total Products: 795
 - [New Balance](https://vibesmilano.com/collections/new-balance)
-  Updated: 2026-04-03T11:31:30Z
-  Total Products: 241
+  Updated: 2026-04-10T11:23:36Z
+  Total Products: 244
 - [Nike](https://vibesmilano.com/collections/nike): sneakers Nike
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-07T11:22:34Z
   Total Products: 200
 - [Adidas](https://vibesmilano.com/collections/adidas-sneakers): SNEAKERS ADIDAS
   Updated: 2026-03-30T21:25:46Z
@@ -11577,8 +11577,8 @@
   Updated: 2026-03-30T21:25:46Z
   Total Products: 34
 - [NB 9060](https://vibesmilano.com/collections/nb-9060)
-  Updated: 2026-04-03T11:31:30Z
-  Total Products: 154
+  Updated: 2026-04-10T11:23:36Z
+  Total Products: 157
 - [NB 530](https://vibesmilano.com/collections/nb-530)
   Updated: 2026-03-30T21:25:46Z
   Total Products: 10
@@ -11601,7 +11601,7 @@
   Updated: 2026-03-30T21:25:46Z
   Total Products: 33
 - [AIR FORCE 1](https://vibesmilano.com/collections/air-force-1)
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-05T11:24:50Z
   Total Products: 46
 - [AIR JORDAN 4](https://vibesmilano.com/collections/air-jordan-4)
   Updated: 2026-03-30T21:25:47Z
@@ -11631,7 +11631,7 @@
   Updated: 2026-03-30T21:25:47Z
   Total Products: 11
 - [ASICS GEL NYC](https://vibesmilano.com/collections/asics-gel-nyc): Sneakers ASICS gel NYC
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-07T11:22:34Z
   Total Products: 4
 - [GUCCI](https://vibesmilano.com/collections/gucci)
   Updated: 2026-03-30T21:25:47Z
@@ -11745,7 +11745,7 @@
   Updated: 2026-03-30T21:25:49Z
   Total Products: 4
 - [Best seller](https://vibesmilano.com/collections/best-seller)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-10T10:22:11Z
   Total Products: 16
 - [New Balance 204L Kith](https://vibesmilano.com/collections/new-balance-204l-kith)
   Updated: 2026-03-30T21:25:49Z
@@ -11757,10 +11757,10 @@
   Updated: 2026-03-30T21:25:49Z
   Total Products: 12
 - [Nike JA 3](https://vibesmilano.com/collections/nike-ja-3)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-04T11:19:33Z
   Total Products: 7
 - [Nike Vomero Plus](https://vibesmilano.com/collections/nike-vomero-3-plus)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-07T11:22:34Z
   Total Products: 14
 - [Mizuno Wave Prophecy](https://vibesmilano.com/collections/mizuno-wave-prophecy)
   Updated: 2026-03-30T21:25:50Z
