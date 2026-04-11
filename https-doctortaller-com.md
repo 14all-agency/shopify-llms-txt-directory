@@ -10,7 +10,7 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-04-04T04:00:26.358Z
+- Updated At: 2026-04-11T08:00:25.981Z
 
 ## Products
 
@@ -211,7 +211,7 @@
   - [Do Energy Drinks Stunt Your Growth?](https://doctortaller.com/blogs/science-insight/do-energy-drinks-stunt-your-growth): Do Energy Drinks Stunt Your Growth?
     Updated: 2025-11-04T06:13:36Z
   - [Who Is The Tallest Person In The World?](https://doctortaller.com/blogs/science-insight/who-is-the-tallest-person-in-the-world): Who Is The Tallest Person In The World?
-    Updated: 2025-11-04T06:17:00Z
+    Updated: 2026-04-06T02:41:58Z
   - [Average Height In Japan](https://doctortaller.com/blogs/science-insight/average-height-in-japan): Average Height In Japan
     Updated: 2025-11-04T06:12:16Z
   - [Can stress affect a child’s height? A parent’s personal experience and insights](https://doctortaller.com/blogs/science-insight/can-stress-affect-a-childs-height): Can stress affect a child’s height? A parent’s personal experience and insights
@@ -242,6 +242,8 @@
     Updated: 2025-10-30T07:46:01Z
   - [World ranking of average heights by country [2026 Update]](https://doctortaller.com/blogs/science-insight/world-ranking-of-average-heights-by-country): World ranking of average heights by country [2026 Update]
     Updated: 2026-02-23T01:33:11Z
+  - [Who Is The Tallest Person In The World Right Now? (2026 Update)](https://doctortaller.com/blogs/science-insight/who-is-the-tallest-person-in-the-world-right-now): <p>Do you know who is the tallest person in the world right now? Although many people around the world are known for their incredible height as "giants," only one man currently holds the official title of the tallest living man in the world. In this article, we will explore interesting facts about his height, and the science behind the extraordinary height of other record-breaking giants.</p>
+    Updated: 2026-04-06T07:19:35Z
 - [Growth Tips](https://doctortaller.com/blogs/growth-tips): Just discover genius tips and expert advice on nutrition, sleep and exercise - all about things that help you get taller naturally and effectively.
   - [How To Grow Taller At 16?](https://doctortaller.com/blogs/growth-tips/how-to-grow-taller-at-16): How To Grow Taller At 16?
     Updated: 2025-11-04T03:40:51Z
@@ -265,8 +267,8 @@
     Updated: 2025-11-04T04:34:14Z
   - [What is the average height for a 4th grader?](https://doctortaller.com/blogs/growth-tips/what-is-the-average-height-for-a-4th-grader): What is the average height for a 4th grader?
     Updated: 2025-11-10T08:29:56Z
-  - [Average Weight and Growth Chart for Babies](https://doctortaller.com/blogs/growth-tips/average-weight-and-growth-chart-for-babies): Average Weight and Growth Chart for Babies
-    Updated: 2026-03-07T03:10:43Z
+  - [Average Weight and Growth Chart for Babies (0-12 Months)](https://doctortaller.com/blogs/growth-tips/average-weight-and-growth-chart-for-babies): Average Weight and Growth Chart for Babies (0-12 Months)
+    Updated: 2026-04-08T01:54:43Z
   - [Does losing weight make you taller?](https://doctortaller.com/blogs/growth-tips/does-losing-weight-make-you-taller): Does losing weight make you taller?
     Updated: 2026-03-16T03:11:13Z
   - [What is the average height of children?](https://doctortaller.com/blogs/growth-tips/what-is-the-average-height-of-children): What is the average height of children?
@@ -325,6 +327,8 @@
     Updated: 2026-01-31T03:10:22Z
   - [How to increase height for teens naturally?](https://doctortaller.com/blogs/growth-tips/how-to-increase-height-for-teens-naturally): How to increase height for teens naturally?
     Updated: 2026-02-14T03:46:20Z
+  - [Complete Guide to Kids’ Height and Weight Charts](https://doctortaller.com/blogs/growth-tips/complete-guide-to-kids-height-and-weight-charts): <p>Do you often wonder whether your child is growing normally? Every child follows a unique developmental path, and this process is affected by a number of factors. However, there is no need to worry excessively, as you can proactively and closely monitor your child's height and weight over time to detect potential health issues early on and intervene promptly. In this article, we will explore how to effectively utilize a height weight chart for kids, as well as how you can support your child's growth potential.</p>
+    Updated: 2026-04-08T07:03:45Z
 - [Author](https://doctortaller.com/blogs/author): Meet the Doctor Taller blog authors: expert health & wellness writers sharing science-backed insights on nutrition, growth, and parenting for kids & teens.
   - [Doctor Taller Editors](https://doctortaller.com/blogs/author/doctortaller)
     Updated: 2026-01-02T06:57:45Z
