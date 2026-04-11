@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-01-02T11:56:48Z
 - Contact Email: contact@sunteg.nl
-- Updated At: 2026-04-04T08:04:43.987Z
+- Updated At: 2026-04-11T12:00:25.376Z
 
 ## Products
 
@@ -294,7 +294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0924/6149/8714/files/sunteg-7-0-kw-lg-plafondcassette-a-7-0-kw-inbouw-airco-cassette-met-smart-control-53039470870874.webp?v=1775030151
   Price: € 2.595,00 EUR
 - [Sunteg Ares MTH Serie Hybride Omvormer voor Duurzaam Energie](https://sunteg.nl/products/sunteg-ares-mth): Maximize energy efficiency with the Sunteg Ares MTH Series Hybrid Inverter. Compact design and cutting-edge technology for optimal performance.
-  Updated: 2026-03-28T17:12:36Z
+  Updated: 2026-04-05T07:19:02Z
   Vendor: Sunteg
   Product Type: 
   Availability: Available
@@ -572,7 +572,7 @@
   Updated: 2026-03-25T19:06:17Z
   Total Products: 38
 - [Zonnepanelen - Sunteg](https://sunteg.nl/collections/solar-panels): Het is altijd de belangrijkste behoefte! Niet zo bekend als voorheen, maar als je een huis koopt, is het een grote behoefte om energie te besparen - Sunteg
-  Updated: 2026-03-25T19:06:44Z
+  Updated: 2026-04-04T11:34:38Z
   Total Products: 15
 - [Laadpalen - Sunteg](https://sunteg.nl/collections/ev-chargers): Wees altijd voorzichtig met deze kleine laders, want u moet weten of uw auto geschikt is voor de snellader. Normaal gesproken 2 jaar garantie op onze producten. - Sunteg
   Updated: 2026-03-25T19:06:27Z
@@ -590,7 +590,7 @@
   Updated: 2026-03-25T19:06:37Z
   Total Products: 5
 - [Zonnepanelen - Sunteg](https://sunteg.nl/collections/zonnepanelen): - Sunteg
-  Updated: 2026-03-25T19:06:46Z
+  Updated: 2026-04-04T11:34:38Z
   Total Products: 15
 - [Airconditioners - Sunteg](https://sunteg.nl/collections/aircos): - Sunteg
   Updated: 2026-03-25T19:06:18Z
@@ -599,7 +599,7 @@
   Updated: 2026-04-02T11:38:17Z
   Total Products: 9
 - [Alle Producten - Sunteg](https://sunteg.nl/collections/all-products): - Sunteg
-  Updated: 2026-03-25T19:06:20Z
+  Updated: 2026-04-04T11:34:38Z
   Total Products: 104
 - [Laadpalen - Sunteg](https://sunteg.nl/collections/laadpalen): - Sunteg
   Updated: 2026-03-25T19:06:29Z
@@ -608,10 +608,10 @@
   Updated: 2026-03-25T19:06:33Z
   Total Products: 10
 - [Solar Panels - Sunteg](https://sunteg.nl/collections/solar-panels-1): - Sunteg
-  Updated: 2026-03-25T19:06:48Z
+  Updated: 2026-04-04T11:34:38Z
   Total Products: 8
 - [AVADA - Best Sellers - Sunteg](https://sunteg.nl/collections/avada-best-sellers): - Sunteg
-  Updated: 2026-04-01T07:57:04Z
+  Updated: 2026-04-04T11:34:38Z
   Total Products: 104
 
 ## Blogs
@@ -649,6 +649,18 @@
     Author: My Store Admin
   - [Laadpaal thuis – Slimme Easee laadpaal uitleg en installatie](https://sunteg.nl/blogs/news/laadpaal-thuis-easee-installatie-slim-laden-4834-95): Laadpaal thuis – Slimme Easee laadpaal uitleg en installatie
     Updated: 2026-04-03T04:24:54Z
+    Author: My Store Admin
+  - [Kosten voor een thuisbatterij: prijs, installatie & rendement 2026](https://sunteg.nl/blogs/news/kosten-voor-een-thuisbatterij-gids-2026-5057-21): Kosten voor een thuisbatterij: prijs, installatie & rendement 2026
+    Updated: 2026-04-05T17:23:37Z
+    Author: My Store Admin
+  - [Warmtepomp in combinatie met vloerverwarming | Gids 2026](https://sunteg.nl/blogs/news/warmtepomp-in-combinatie-met-vloerverwarming-5058-39): Warmtepomp in combinatie met vloerverwarming | Gids 2026
+    Updated: 2026-04-05T17:51:01Z
+    Author: My Store Admin
+  - [Voordelen van een warmtepomp: Bespaar energie en verhoog comfort](https://sunteg.nl/blogs/news/voordelen-van-een-warmtepomp-5104-64): Voordelen van een warmtepomp: Bespaar energie en verhoog comfort
+    Updated: 2026-04-06T10:16:33Z
+    Author: My Store Admin
+  - [Warmtepomp en energiebesparing: bespaar energie en verlaag kosten](https://sunteg.nl/blogs/news/warmtepomp-en-energiebesparing-gids-2026-5434-14): Warmtepomp en energiebesparing: bespaar energie en verlaag kosten
+    Updated: 2026-04-09T22:56:42Z
     Author: My Store Admin
 
 ## Store Pages
@@ -692,6 +704,8 @@
   Updated: 2026-03-04T09:21:26+01:00
 - [Contact Information](https://sunteg.nl/policies/contact-information)
   Updated: 2025-12-02T22:48:56+01:00
+
+https://sunteg.nl/
 
 ## Optional
 
