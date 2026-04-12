@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-12-07T21:38:41Z
 - Contact Email: kennerhouseon98@gmail.com
-- Updated At: 2026-04-05T00:00:47.697Z
+- Updated At: 2026-04-12T00:00:48.776Z
 
 ## Products
 
@@ -146,12 +146,12 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sb33ccc06d9db44fe8d7f5f62c884ffa8M.webp?v=1770306989
     Price: $8.99 USD
 - [Coffee Machine Replaces Water Filter with 12 Activated Carbon Filters and Carbon Filters News](https://kenner-house.myshopify.com/products/coffee-machine-replaces-water-filter-with-12-activated-carbon-filters-and-carbon-filters-news): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesHigh-concerned chemical: NoneMaterial: AcrylOrigin: Mainland China
-  Updated: 2026-03-30T13:42:57Z
+  Updated: 2026-04-05T13:50:08Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S993ee03f30a04ca1af7801d897e3354dn.webp?v=1770306989
-  Price: $19.59 USD
+  Price: $17.99 USD
 - [Coffee Bean Measuring Cup Ceramic Weighing Tray Coffee Powder Dosage Tray Suitable for Home Cafe Simple Coffee Tray Accessories](https://kenner-house.myshopify.com/products/coffee-bean-measuring-cup-ceramic-weighing-tray-coffee-powder-dosage-tray-suitable-for-home-cafe-simple-coffee-tray-accessories): SPECIFICATIONSBrand Name: NONECN: GuangdongChoice: yesColor: Black/WhiteHigh-concerned chemical: NoneMaterial: CeramicOrigin: Mainland ChinaStyle: Simple
   Updated: 2026-03-30T13:42:58Z
   Vendor: Kenner House Emporium
@@ -3469,12 +3469,12 @@
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/Sa92d602e56914711bef4acdfac2b43bcv.webp?v=1771732582
   Price: $10.99 USD
 - [1pc,Gigi Gift,Gigi Coffee Mug, Birthday Gift for Gigi, Mother's Day, Holiday Gift for Gigi, Granddaughter, Grandchild, Unique Gigi Gift, 14oz](https://kenner-house.myshopify.com/products/1pc-gigi-gift-gigi-coffee-mug-birthday-gift-for-gigi-mothers-day-holiday-gift-for-gigi-granddaughter-grandchild-unique-gigi-gift-14oz): SPECIFICATIONSItem ID: CR55393Major Material: 304 Stainless SteelOrigin: Hunan,ChinaPower Mode: UnchargedSpecial Features: Shatterproof;InsulatedSurface Type: Glossy Finish
-  Updated: 2026-03-30T13:45:14Z
+  Updated: 2026-04-05T13:48:47Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/728a3833bfb38865b9c39a1dfa687b8a_iA57vASKP05dv.jpg?v=1771782237
-  Price: $16.27 USD
+  Price: $30.99 USD
 - [304 Stainless Steel Coffee Cup, Portable Simple Water Cup, Suitable For Outdoor Camping Travel](https://kenner-house.myshopify.com/products/304-stainless-steel-coffee-cup-portable-simple-water-cup-suitable-for-outdoor-camping-travel): SPECIFICATIONSItem ID: NL132983Liner Material: 304 Stainless SteelMajor Material: 304 Stainless Steel
   Updated: 2026-03-30T13:45:24Z
   Vendor: Kenner House Emporium
@@ -11765,31 +11765,31 @@
   Updated: 2026-03-27T15:03:49Z
   Total Products: 0
 - [Mugs - Coffee Mugs & Drinkware - Kenner House Emporium](https://kenner-house.myshopify.com/collections/mugs): Shop our collection of quality mugs and drinkware. Perfect for coffee, tea, and hot beverages. Find your new favorite mug today.
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Coffee](https://kenner-house.myshopify.com/collections/coffee-grinders)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Espresso Machines](https://kenner-house.myshopify.com/collections/espresso-machines)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [French Presses](https://kenner-house.myshopify.com/collections/french-presses)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Tumblers](https://kenner-house.myshopify.com/collections/tumblers)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [T-Shirts](https://kenner-house.myshopify.com/collections/t-shirts)
-  Updated: 2026-04-04T15:22:08Z
-  Total Products: 122
+  Updated: 2026-04-10T16:26:31Z
+  Total Products: 133
 - [Coffee Dispensers](https://kenner-house.myshopify.com/collections/coffee-dispensers)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Electric Kettles](https://kenner-house.myshopify.com/collections/electric-kettles)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Thermoses](https://kenner-house.myshopify.com/collections/thermoses)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Dried Flowers](https://kenner-house.myshopify.com/collections/dried-flowers)
   Updated: 2026-03-27T15:03:50Z
@@ -11801,62 +11801,62 @@
   Updated: 2026-03-27T15:03:50Z
   Total Products: 19
 - [Instant Coffee](https://kenner-house.myshopify.com/collections/instant-coffee)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Scoops](https://kenner-house.myshopify.com/collections/scoops)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Coffee Maker Water Filters](https://kenner-house.myshopify.com/collections/coffee-maker-water-filters)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Coffee Maker & Espresso Machine Accessories](https://kenner-house.myshopify.com/collections/coffee-maker-espresso-machine-accessories)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Measuring Cups](https://kenner-house.myshopify.com/collections/measuring-cups)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Clothing](https://kenner-house.myshopify.com/collections/sleepwear-loungewear)
-  Updated: 2026-04-04T15:22:08Z
-  Total Products: 122
+  Updated: 2026-04-10T16:26:31Z
+  Total Products: 133
 - [Coffee Filter Baskets](https://kenner-house.myshopify.com/collections/coffee-filter-baskets)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Beverages](https://kenner-house.myshopify.com/collections/beverages)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Beverage Warmers](https://kenner-house.myshopify.com/collections/beverage-warmers)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Measuring Spoons](https://kenner-house.myshopify.com/collections/measuring-spoons)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Flasks](https://kenner-house.myshopify.com/collections/flasks)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Kitchen Tools & Utensils](https://kenner-house.myshopify.com/collections/kitchen-tools-utensils)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Drinkware Holders](https://kenner-house.myshopify.com/collections/drinkware-holders)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Dual Coffee Makers](https://kenner-house.myshopify.com/collections/drip-coffee-makers)
-  Updated: 2026-03-29T18:48:41Z
+  Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Toys](https://kenner-house.myshopify.com/collections/children)
-  Updated: 2026-03-30T12:37:46Z
+  Updated: 2026-04-05T14:06:54Z
   Total Products: 194
 - [Shoes](https://kenner-house.myshopify.com/collections/shoes)
-  Updated: 2026-04-04T15:27:00Z
-  Total Products: 94
+  Updated: 2026-04-07T20:01:30Z
+  Total Products: 121
 - [Animal & Pet Supplies](https://kenner-house.myshopify.com/collections/animal-pet-supplies)
-  Updated: 2026-04-04T15:04:34Z
-  Total Products: 28
+  Updated: 2026-04-08T15:19:20Z
+  Total Products: 29
 - [Health & Beauty](https://kenner-house.myshopify.com/collections/health-beauty)
-  Updated: 2026-03-31T14:20:15Z
-  Total Products: 47
+  Updated: 2026-04-07T16:06:02Z
+  Total Products: 49
 - [Baby & Toddler Outfits](https://kenner-house.myshopify.com/collections/baby-toddler-outfits)
-  Updated: 2026-04-04T15:30:49Z
-  Total Products: 86
+  Updated: 2026-04-09T15:22:31Z
+  Total Products: 97
 - [Home & Garden](https://kenner-house.myshopify.com/collections/home-garden)
   Updated: 2026-04-04T15:44:55Z
   Total Products: 114
@@ -11864,8 +11864,8 @@
   Updated: 2026-03-27T15:03:51Z
   Total Products: 38
 - [Apparel & Accessories](https://kenner-house.myshopify.com/collections/apparel-accessories)
-  Updated: 2026-04-04T15:08:47Z
-  Total Products: 98
+  Updated: 2026-04-08T15:12:50Z
+  Total Products: 100
 - [Fitness & General Exercise](https://kenner-house.myshopify.com/collections/fitness-general-exercise)
   Updated: 2026-03-27T15:03:51Z
   Total Products: 26
@@ -11873,11 +11873,11 @@
   Updated: 2026-03-27T15:03:51Z
   Total Products: 22
 - [Hair Care](https://kenner-house.myshopify.com/collections/hair-care)
-  Updated: 2026-03-27T15:03:51Z
-  Total Products: 37
+  Updated: 2026-04-07T16:52:11Z
+  Total Products: 51
 - [Clothing](https://kenner-house.myshopify.com/collections/clothing)
-  Updated: 2026-04-04T15:22:08Z
-  Total Products: 94
+  Updated: 2026-04-10T16:26:01Z
+  Total Products: 105
 
 ## Blogs
 
@@ -11891,6 +11891,9 @@
     Author: Kenner House Emporium
   - [How to Foster Positive Eating Habits in Toddlers](https://kenner-house.myshopify.com/blogs/news/how-to-foster-positive-eating-habits-in-toddlers): How to Foster Positive Eating Habits in Toddlers
     Updated: 2026-04-04T16:00:30Z
+    Author: Kenner House Emporium
+  - [Top Toddler Potty Training Tips](https://kenner-house.myshopify.com/blogs/news/top-toddler-potty-training-tips): Top Toddler Potty Training Tips
+    Updated: 2026-04-11T16:00:22Z
     Author: Kenner House Emporium
 
 ## Store Pages
