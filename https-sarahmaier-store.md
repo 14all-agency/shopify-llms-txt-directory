@@ -9,7 +9,7 @@
 - Created At: 2020-11-02T16:08:42Z
 - Contact Email: claudiamadaleno@sarahmaier.store
 - Contact Phone: +351913522163
-- Updated At: 2026-04-02T00:00:29.382Z
+- Updated At: 2026-04-12T00:00:38.367Z
 
 ## Products
 
@@ -1832,7 +1832,7 @@ Heel measures approximately 110mm.
 - [Denim Dark Boots](https://sarahmaier.store/products/denim-dark-boots): Denim dark blue with rhinestones. Zip fastening along side the boots.                                                               Fits true to size, take your normal size Italian sizing.
 Heel measures of  DENIM BOOTS are approximately 110 mm
 They are a good investement because of comfort and elegance.
-  Updated: 2026-03-25T12:38:16Z
+  Updated: 2026-04-05T03:14:25Z
   Vendor: Sarah Maier
   Product Type: BOOTS
   Availability: Available
@@ -1982,7 +1982,7 @@ They are a good investement because of comfort and elegance.
     Availability: Available
     Price: €350.00 EUR
 - [KATE GILDED - Gold Leather Mules with Square Toe | Sarah Maier](https://sarahmaier.store/products/kate-sandals): Handcrafted in Italy from shimmering gold leather, the Kate Gilded mules feature a modern square toe and a 60mm heel. We designed this elegant slide to be the perfect finishing touch for any look, from denim to dresses.
-  Updated: 2026-04-01T12:39:28Z
+  Updated: 2026-04-11T12:41:31Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
