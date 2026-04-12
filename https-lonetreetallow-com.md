@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-01T04:16:49Z
 - Contact Email: melissa@lonetreetallow.com
-- Updated At: 2026-04-04T00:00:37.238Z
+- Updated At: 2026-04-12T00:00:39.862Z
 
 The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare brand rooted in five generations of South Dakota prairie heritage. Founded and formulated by Melissa Goodwin, a chemist and formulator. Specializing in tallow skincare, barrier repair, and high-performance botanical formulas. Pro-aging philosophy - we help skin look like you, with a healthy glow.
 
@@ -41,7 +41,7 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-9678.jpg?v=1761859934
   Price: $32.00 USD
 - [Wild Yarrow Lip Balm](https://lonetreetallow.com/products/wild-yarrow-lip-shield): Wild Yarrow Lip BalmPrairie-born. Barrier-strong. Meet the Wild Yarrow Lip Balm, a tallow lip balm crafted with South Dakota pasture raised tallow and prairie botanicals for lips that stay soft, soothed, and protected. Infused with high–linoleic sunflower oil and wild yarrow, this natural lip balm repairs the barrier while delivering long-lasting moisture and a clean, non-petroleum finish. 🌿 Why it works Beef Tallow – Rich in skin-mimicking lipids and vitamins A, D, E & K. Wild Yarrow Infusion – Calms, restores, and connects you to the prairie. Shea + Jojoba – Smooth glide and deep hydration without greasiness. Sunflower Wax – Breathable protection against wind, cold, and sun. Vitamin E – Antioxidant defense for delicate skin. Signature Scents – Choose Roman Chamomile, Sage + Sweet Orange or Prairie Mint for a refreshing lift. ✨ Perfect for:Daily lip care, outdoor adventures, and anyone looking for a yarrow-infused, tallow-based lip balm that feels as natural as it is effective. Heritage Batch • Small-Batch • Prairie RootedNet Wt. 0.15 oz / 4.2 g
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-10T19:07:13Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -66,14 +66,14 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-9686.jpg?v=1761859754
   Price: $28.00 USD
 - [Sun & Row Tallow Face Balm for Barrier Repair | Lone Tree Tallow](https://lonetreetallow.com/products/sun-and-row-tallow-face-balm): Non-comedogenic tallow face balm handcrafted in South Dakota. Sun & Row repairs the skin barrier, calms irritation, and deeply hydrates with restorative prairie oils.
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-11T02:12:52Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-9737.jpg?v=1761856828
   Price: $42.00 USD
 - [Tallgrass Tallow Lotion](https://lonetreetallow.com/products/tallgrass-tallow-lotion): Tallgrass Tallow Lotion is a thick, emollient moisturizer that locks in moisture, repairs dry skin, and restores resilience with tallow and prairie botanicals.
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-07T23:41:11Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -118,7 +118,7 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-9670.jpg?v=1763861617
   Price: $48.00 USD
 - [Blue Hour Tallow Balm | Bakuchiol + Blue Tansy | Lone Tree Tallow](https://lonetreetallow.com/products/blue-hour-tallow-balm): Chemist-formulated bakuchiol tallow face balm with blue tansy and heritage grass-fed tallow. Designed for post -35 skin changes, fine lines, and sensitivity. Handcrafted on the Prairie. Free shipping $100+.
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-05T03:09:47Z
   Vendor: Lone Tree Tallow
   Product Type: Face Balm
   Availability: Available
@@ -139,14 +139,14 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-9751-Edit.jpg?v=1770430292
   Price: $79.00 USD
 - [Cactus Water Hydrating Mist | Pure Botanical Face Spray](https://lonetreetallow.com/products/products-cactus-water-hydrating-mist): Refresh and hydrate with pure cactus hydrolat. A soothing face and body mist that calms skin and boosts absorption for your tallow balms and oils.
-  Updated: 2026-04-01T09:21:14Z
+  Updated: 2026-04-07T23:41:11Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot_2026-03-29_at_11.22.18_PM.png?v=1774846375
   Price: $18.00 USD
 - [Blue Hour Ritual Bundle | Tallow Barrier Repair Set](https://lonetreetallow.com/products/the-blue-hour-ritual-set): Complete 3-step ritual: Rose Water Mist + Field Glow Oil + Blue Hour Balm. Tallow-based barrier repair for hormonal skin changes. Free shipping. $110 value.
-  Updated: 2026-04-02T23:25:12Z
+  Updated: 2026-04-05T03:09:47Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -160,7 +160,7 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
     Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot_2026-03-29_at_11.37.48_PM.png?v=1774845555
     Price: $104.00 USD
 - [Little Bloomers Balm](https://lonetreetallow.com/products/little-bloomers-balm): All-Natural Baby Balm for Tiny Cheeks, Folds, and Diaper Time A simple, safe, effective balm to rave about. Little Bloomers Balm is a soft, scoopable, completely fragrance-free formula made with just four deeply nourishing ingredients: slow-rendered beef tallow, calendula-infused sunflower oil, beeswax, and vitamin E. Nothing unnecessary. Nothing harsh. Just pure, gentle comfort for the tiniest skin. This balm melts effortlessly into a breathable barrier that protects, soothes, and supports your little one’s natural skin function. Use it for diaper changes, dry cheeks, winter irritation, neck rolls, chubby folds, cradle cap, and any spot that needs a little extra love. Crafted in small batches in Sioux Falls, South Dakota, Little Bloomers Balm blends prairie heritage with modern natural chemistry - offering a simple product that truly does what it's meant to do. Perfect for:• Diaper area• Winter cheeks & windburn• Dry patches• Neck rolls & folds• Cradle cap softening• Sensitive or reactive skin ✨ Why Parents Trust It A Breathable, Protective Barrier Our blend creates a soft, cushiony layer that shields delicate skin while allowing it to breathe and recover naturally. Gentle Enough for Newborns No essential oils, no fragrances, no unnecessary extras — just ingredients chosen for their safety and skin compatibility. Scoopable, Melty Texture Never draggy or waxy. It melts beautifully on contact and glides over even the most sensitive areas. Prairie-Born, Mom- Rooted in five generations of South Dakota land stewardship, Lone Tree Tallow is skincare with substance - simple formulas that rely on the purity of whole ingredients, not fillers.
-  Updated: 2026-04-01T09:21:14Z
+  Updated: 2026-04-07T23:41:22Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -181,7 +181,7 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot_2026-03-29_at_11.22.07_PM.png?v=1774846375
   Price: $18.00 USD
 - [Prairie Pup Relief Balm | Natural Dog Hot Spot ](https://lonetreetallow.com/products/prairie-pup-relief-balm-natural-dog-hot-spot-): Lick-safe, essential oil-free dog balm with tallow, oatmeal & calendula. Soothes hot spots, itchy skin & dry paws. Prairie-crafted in South Dakota.
-  Updated: 2026-04-01T09:21:14Z
+  Updated: 2026-04-07T23:41:22Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -195,14 +195,14 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/wild-yarrow-set-graphic-v3.jpg?v=1769997449
   Price: $21.00 USD
 - [Rinse No. 1 Oil Cleanser | Lone Tree Performance Botanicals](https://lonetreetallow.com/products/rinse-no-1-oil-cleanser): A pure cleansing oil that melts makeup and buildup without stripping your skin. No emulsifiers, no castor oil. Wipe clean with a warm cloth. Handcrafted in Sioux Falls, SD.
-  Updated: 2026-04-01T09:21:15Z
+  Updated: 2026-04-11T02:12:57Z
   Vendor: Lone Tree Performance Botanicals
   Product Type: Facial Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot_2026-03-29_at_11.47.44_PM.png?v=1774846222
   Price: $26.00 USD
 - [Blue Horizon Evening Ritual | Tallow Skincare Set for Perimenopause](https://lonetreetallow.com/products/blue-horizon-evening-ritual-4-step-tallow-skincare-set-for-hormonal-skin): A complete 4-step evening skincare ritual for perimenopause and menopause. Cleansing oil, rose water mist, glow oil, and Blue Hour Tallow Balm — formulated by a chemist on the prairie. Free cleansing oil included.
-  Updated: 2026-04-01T09:21:15Z
+  Updated: 2026-04-10T19:10:48Z
   Vendor: The Lone Tree Tallow Co.
   Product Type: Bundle
   Availability: Available
@@ -215,44 +215,51 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot_2026-03-29_at_10.29.46_PM.png?v=1774845108
     Price: $110.00 USD
+- [The Night Work Kit | Men's Tallow Face Care Set](https://lonetreetallow.com/products/the-night-work-kit-mens-tallow-face-care-set): All natural oil cleanser, antioxidant facial oil, and tallow face balm. A complete men's face care kit built for weathered skin. Made small-batch on the Prairie. No synthetics.
+  Updated: 2026-04-07T11:09:48Z
+  Vendor: Lone Tree Tallow
+  Product Type: Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot2026-04-06at5.52.11PM_5ae92a9c-762b-4bec-a64e-1e3fc91b2c6e.png?v=1775517167
+  Price: $98.00 USD
 
 ## Collections
 
 - [All Products](https://lonetreetallow.com/collections/frontpage): Discover The Lone Tree Tallow Co. — nutrient-dense skincare rooted in prairie heritage and elevated with modern science. From tallow balms and anti-aging creams to hydrating serums and facial oils, every formula blends grass-fed tallow with botanicals and proven actives like niacinamide, bakuchiol, and tremella mushroom. Small-batch, sustainable, and crafted to repair, soothe, and restore your skin barrier.
-  Updated: 2026-04-03T11:27:07Z
-  Total Products: 16
+  Updated: 2026-04-11T11:24:03Z
+  Total Products: 17
 - [New Arrivals | Lone Tree Tallow](https://lonetreetallow.com/collections/new-arrivals): Discover our newest small-batch releases - from tallow balms to antioxidant elixirs.
 Honoring the balance between earth, craft, and chemistry.
-  Updated: 2026-04-01T09:21:12Z
+  Updated: 2026-04-08T11:26:03Z
   Total Products: 7
 - [Tallow + Barrier Repair](https://lonetreetallow.com/collections/tallow-barrier-repair): Your skin’s strength begins at the barrier. This collection is built around our hero ingredient - nutrient-rich tallow, paired with soothing botanicals and modern actives that help skin rebuild what stress and weather strip away. Each balm, cream, and lotion works to restore balance from the inside out - replenishing lipids, locking in moisture, and supporting the skin’s natural rhythm of repair. Rooted in prairie simplicity, elevated by science.Honoring the balance between earth, craft, and chemistry.
-  Updated: 2026-04-01T09:21:12Z
-  Total Products: 10
+  Updated: 2026-04-11T11:24:03Z
+  Total Products: 11
 - [Men's Collection](https://lonetreetallow.com/collections/mens-collection): Built for men who spend time in the elements. Our men’s collection restores what wind, sun, and long days take away — strengthening skin with nutrient-rich tallow, natural oils, and barrier-repairing actives. From daily face creams to field-ready balms, each formula is crafted to absorb quickly, work hard, and leave nothing behind but clean, healthy skin. Simple. Honest. Effective.Honoring the balance between earth, craft, and chemistry.
-  Updated: 2026-04-01T09:21:12Z
-  Total Products: 4
+  Updated: 2026-04-06T23:13:12Z
+  Total Products: 5
 - [Rituals + Bundles](https://lonetreetallow.com/collections/holiday-bundles)
-  Updated: 2026-04-03T11:27:07Z
-  Total Products: 4
+  Updated: 2026-04-06T23:13:12Z
+  Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://lonetreetallow.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-04-03T11:27:07Z
-  Total Products: 17
+  Updated: 2026-04-11T11:24:03Z
+  Total Products: 18
 - [Hydrosols + Hyrdrolats](https://lonetreetallow.com/collections/hydrosols-hyrdrolats)
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-08T11:26:03Z
   Total Products: 2
 - [Face Care](https://lonetreetallow.com/collections/face-care)
-  Updated: 2026-04-03T11:27:07Z
+  Updated: 2026-04-11T11:24:03Z
   Total Products: 6
 - [Hormonal Skin](https://lonetreetallow.com/collections/hormonal-skin)
-  Updated: 2026-04-03T11:27:07Z
+  Updated: 2026-04-11T11:24:03Z
   Total Products: 7
 - [Best Sellers | Lone Tree Heritage Tallow](https://lonetreetallow.com/collections/best-sellers): Blue hour tallow balm with bakuchiol and blue tansy. little bloomers fragrance free barrier repair with calendula infused sunflower oil.
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-11T11:24:03Z
   Total Products: 6
 - [Best Face Balm for Perimenopause Skin | The Lone Tree Tallow Co.](https://lonetreetallow.com/collections/best-face-balm-for-perimenopause): Tallow-based face balms formulated for perimenopausal skin by a 
 chemist. Replaces lipids estrogen decline takes away. 
 Tallow, squalane, bakuchiol, bisabolol.
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-05T11:22:17Z
   Total Products: 3
 
 ## Blogs
