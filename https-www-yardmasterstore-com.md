@@ -6,12 +6,12 @@
 - Timezone: Etc/UTC
 - Created At: 2025-06-18T07:19:40Z
 - Contact Email: info@yardmaster.co.uk
-- Updated At: 2026-04-04T00:00:34.576Z
+- Updated At: 2026-04-12T00:00:38.646Z
 
 ## Products
 
 - [Store-All Pent Shed 6ft x 4ft for Efficient Outdoor Storage Solutions](https://www.yardmasterstore.com/products/store-all-pz-6ft-x4ft-en): Optimize your outdoor storage with the Store-All Pent Shed 6ft x 4ft. Perfect for maximizing space, this durable shed offers practical solutions for all your storage needs.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -41,7 +41,7 @@
     Availability: Available
     Price: £389.96 GBP
 - [Store-All Pent Shed 8ft x 4ft - Durable Garden Storage Solution for You](https://www.yardmasterstore.com/products/store-all-pz-8ft-x-4ft-en): Discover the Store-All Pent Shed 8ft x 4ft, your durable garden storage solution. Perfect for keeping tools and equipment organized. Shop now for quality storage!
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Available
     Price: £429.96 GBP
 - [Store-All Pent Tent 10ft x 4ft - Ultimate Storage Solution for All Needs](https://www.yardmasterstore.com/products/store-all-pz-10ft-x-4ft-en): Meta description: Discover the Store-All Pent Tent 10ft x 4ft for ultimate storage solutions. Perfect for organizing your outdoor space, it's durable, spacious, and easy to set up!
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -101,7 +101,7 @@
     Availability: Available
     Price: £474.96 GBP
 - [Emerald Pent 6ft x 4ft Metal Shed](https://www.yardmasterstore.com/products/pent-metal-gpz-6ft-x-4ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -131,7 +131,7 @@
     Availability: Available
     Price: £394.96 GBP
 - [Emerald Pent 8ft x 4ft Metal Shed](https://www.yardmasterstore.com/products/pent-metal-gpz-8ft-x-4ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -161,37 +161,37 @@
     Availability: Available
     Price: £434.96 GBP
 - [Emerald Pent 10ft x 4ft Metal Shed](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-11T14:28:21Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/ChatGPT_Image_Mar_3_2026_02_58_23_PM_1.webp?v=1772553873
   - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=55734277406985)
     Availability: Available
-    Price: £254.99 GBP
+    Price: £289.99 GBP
   - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=56646354010377)
     Availability: Available
-    Price: £294.98 GBP
+    Price: £329.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=55734277341449)
     Availability: Available
-    Price: £329.98 GBP
+    Price: £364.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=56646354043145)
     Availability: Available
-    Price: £369.97 GBP
+    Price: £404.97 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=55734277275913)
     Availability: Available
-    Price: £324.98 GBP
+    Price: £359.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=56646354075913)
     Availability: Available
-    Price: £364.97 GBP
+    Price: £399.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=55734277210377)
     Availability: Available
-    Price: £399.97 GBP
+    Price: £434.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/pent-metal-gpz-10ft-x-4ft?variant=56646354108681)
     Availability: Available
-    Price: £434.96 GBP
+    Price: £474.96 GBP
 - [Emerald Deluxe Apex 6ft x 5ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-6ft-x-5ft-en): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -221,7 +221,7 @@
     Availability: Available
     Price: £404.96 GBP
 - [Emerald Deluxe Apex 6ft x 6ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-6ft-x-6ft-en): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -251,7 +251,7 @@
     Availability: Available
     Price: £459.96 GBP
 - [Emerald Deluxe Apex 6ft x 7ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-6ft-x-7ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -281,7 +281,7 @@
     Availability: Available
     Price: £479.96 GBP
 - [Emerald Deluxe Apex 8ft x 7ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-7ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-11T20:39:36Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -310,38 +310,8 @@
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-7ft?variant=56646617006345)
     Availability: Available
     Price: £539.96 GBP
-- [Emerald Deluxe Apex 8ft x 9ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
-  Vendor: vendor-unknown
-  Product Type: By Size
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/89GEYZ_2850cf2a-a6cf-4ab3-9367-f47ae0eaff9a.webp?v=1773321905
-  - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=55734300344585)
-    Availability: Available
-    Price: £384.99 GBP
-  - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=56646693257481)
-    Availability: Available
-    Price: £424.99 GBP
-  - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=55734300311817)
-    Availability: Available
-    Price: £459.98 GBP
-  - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=56646693290249)
-    Availability: Available
-    Price: £499.97 GBP
-  - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=55734300279049)
-    Availability: Available
-    Price: £479.98 GBP
-  - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=56646693323017)
-    Availability: Available
-    Price: £519.97 GBP
-  - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=55734300246281)
-    Availability: Available
-    Price: £554.97 GBP
-  - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-8ft-x-9ft?variant=56646693355785)
-    Availability: Available
-    Price: £594.96 GBP
 - [Emerald Deluxe Apex 10ft x 8ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-8ft-new): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -371,97 +341,97 @@
     Availability: Available
     Price: £609.96 GBP
 - [Emerald Deluxe Apex 10ft x 10ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/1010GEYZ.webp?v=1764153528
   - [No Floor Frame Required / No Shelf Unit Required / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=55734302572809)
     Availability: Available
-    Price: £469.99 GBP
+    Price: £419.99 GBP
   - [No Floor Frame Required / No Shelf Unit Required / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=56646480625929)
     Availability: Available
-    Price: £509.98 GBP
+    Price: £459.98 GBP
   - [No Floor Frame Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=55734302540041)
     Availability: Available
-    Price: £544.98 GBP
+    Price: £494.98 GBP
   - [No Floor Frame Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=56646480658697)
     Availability: Available
-    Price: £584.97 GBP
+    Price: £534.97 GBP
   - [Steel Floor Frame / No Shelf Unit Required / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=55734302507273)
     Availability: Available
-    Price: £574.98 GBP
+    Price: £524.98 GBP
   - [Steel Floor Frame / No Shelf Unit Required / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=56646480691465)
     Availability: Available
-    Price: £614.97 GBP
+    Price: £564.97 GBP
   - [Steel Floor Frame / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=55734302474505)
     Availability: Available
-    Price: £649.97 GBP
+    Price: £599.97 GBP
   - [Steel Floor Frame / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-10ft-main?variant=56646480724233)
     Availability: Available
-    Price: £689.96 GBP
+    Price: £639.96 GBP
 - [Emerald Deluxe Apex 10ft x 13ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/1013GEYZ.webp?v=1764158907
   - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=55734304375049)
     Availability: Available
-    Price: £499.99 GBP
+    Price: £559.99 GBP
   - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=56646247350537)
     Availability: Available
-    Price: £539.98 GBP
+    Price: £599.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=55734304342281)
     Availability: Available
-    Price: £574.98 GBP
+    Price: £634.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=56646247383305)
     Availability: Available
-    Price: £614.97 GBP
+    Price: £674.97 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=55734304309513)
     Availability: Available
-    Price: £629.98 GBP
+    Price: £689.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=56646247416073)
     Availability: Available
-    Price: £669.97 GBP
+    Price: £729.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=55734304276745)
     Availability: Available
-    Price: £704.97 GBP
+    Price: £764.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/emerald-deluxe-geyz-10ft-x-13ft-new?variant=56646247448841)
     Availability: Available
-    Price: £744.96 GBP
+    Price: £804.96 GBP
 - [Store-All Apex Metal Storage Shed - 6ft x 8ft Outdoor Storage Solution](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/68ZGEY.webp?v=1764163297
   - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=55734307782921)
     Availability: Available
-    Price: £299.99 GBP
+    Price: £269.99 GBP
   - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=56646428721417)
     Availability: Available
-    Price: £339.98 GBP
+    Price: £309.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=55734307750153)
     Availability: Available
-    Price: £354.98 GBP
+    Price: £324.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=56646428754185)
     Availability: Available
-    Price: £414.97 GBP
+    Price: £384.97 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=55734307717385)
     Availability: Available
-    Price: £389.98 GBP
+    Price: £359.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=56646428786953)
     Availability: Available
-    Price: £429.97 GBP
+    Price: £399.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=55734307684617)
     Availability: Available
-    Price: £464.97 GBP
+    Price: £434.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/apex-zgey-6ft-x-8ft?variant=56646428819721)
     Availability: Available
-    Price: £504.96 GBP
+    Price: £474.96 GBP
 - [Store-All Apex 10ft x 13ft Metal Shed](https://www.yardmasterstore.com/products/apex-zgey-10ft-x-13ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -491,7 +461,7 @@
     Availability: Available
     Price: £874.96 GBP
 - [Shiplap Apex 8ft x 6ft Metal Shed](https://www.yardmasterstore.com/products/shiplap-tbsl-8ft-x-6ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Integrated gutter system - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-11T08:57:46Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -509,7 +479,7 @@
     Availability: Available
     Price: £559.97 GBP
 - [Shiplap Apex 10ft x 6ft Metal Shed](https://www.yardmasterstore.com/products/shiplap-tbsl-10ft-x-6ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Integrated gutter system - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T15:13:26Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -527,25 +497,25 @@
     Availability: Available
     Price: £614.97 GBP
 - [Shiplap Apex 10ft x 8ft Metal Shed](https://www.yardmasterstore.com/products/shiplap-tbsl-10ft-x-8ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Integrated gutter system - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/108TBSL.webp?v=1764153528
   - [No Floor Frame required / No Shelf Unit](https://www.yardmasterstore.com/products/shiplap-tbsl-10ft-x-8ft?variant=55734316105993)
     Availability: Available
-    Price: £519.99 GBP
+    Price: £454.99 GBP
   - [No Floor Frame required / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/shiplap-tbsl-10ft-x-8ft?variant=56647964033289)
     Availability: Available
-    Price: £559.98 GBP
+    Price: £494.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit](https://www.yardmasterstore.com/products/shiplap-tbsl-10ft-x-8ft?variant=55734316073225)
     Availability: Available
-    Price: £614.98 GBP
+    Price: £549.98 GBP
   - [Steel Floor Frame Kit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/shiplap-tbsl-10ft-x-8ft?variant=56647964066057)
     Availability: Available
-    Price: £654.97 GBP
+    Price: £589.97 GBP
 - [Shiplap Apex 10ft x 12ft Metal Shed](https://www.yardmasterstore.com/products/shiplap-tbsl-10ft-x-12ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Integrated gutter system - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -563,35 +533,23 @@
     Availability: Available
     Price: £749.97 GBP
 - [Woodview Premium Apex 6ft x 5ft Metal Shed](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/ChatGPT_Image_Jan_19_2026_02_28_26_PM.png?v=1769092973
-  - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=55734329377033)
+  - [No Floor Frame Kit Required / No Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=55734329377033)
     Availability: Available
     Price: £264.99 GBP
-  - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56646626935049)
+  - [No Floor Frame Kit Required / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56646626935049)
     Availability: Available
     Price: £304.98 GBP
-  - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56648283652361)
-    Availability: Available
-    Price: £339.98 GBP
-  - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56648283685129)
-    Availability: Available
-    Price: £379.97 GBP
-  - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=55734329344265)
+  - [Steel Floor Frame Kit / No Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=55734329344265)
     Availability: Available
     Price: £329.98 GBP
-  - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56646627033353)
+  - [Steel Floor Frame Kit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56646627033353)
     Availability: Available
     Price: £369.97 GBP
-  - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56648283717897)
-    Availability: Available
-    Price: £404.97 GBP
-  - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/woodview-premium-wgy-6ft-x-5ft?variant=56648283750665)
-    Availability: Available
-    Price: £444.96 GBP
 - [Castleton Apex 6ft x 5ft Metal Shed](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en): Yardmaster’s 65AEYZ metal shed easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, it’s&nbsp;anthracite finish offers a tasteful and compact storage solution.&nbsp;
 
 - Weather-Resistant and Maintenance-Free&nbsp;
@@ -599,67 +557,67 @@
 - Delivery Time: 7 - 14 days
 
 - Includes Free Anchor Kit
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/65AEYZ.webp?v=1764153528
   - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=55734331310345)
     Availability: Available
-    Price: £269.99 GBP
+    Price: £219.99 GBP
   - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=56646660260105)
     Availability: Available
-    Price: £319.98 GBP
+    Price: £269.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=55734331277577)
     Availability: Available
-    Price: £344.98 GBP
+    Price: £289.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=56646660292873)
     Availability: Available
-    Price: £384.97 GBP
+    Price: £329.97 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=55734331244809)
     Availability: Available
-    Price: £334.98 GBP
+    Price: £279.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=56646660325641)
     Availability: Available
-    Price: £374.97 GBP
+    Price: £319.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=55734331212041)
     Availability: Available
-    Price: £419.97 GBP
+    Price: £364.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-5ft-en?variant=56646660358409)
     Availability: Available
-    Price: £449.96 GBP
+    Price: £394.96 GBP
 - [Castleton Apex 6ft x 7ft Metal Shed](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/67AEYZ.webp?v=1764153529
   - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=55734333112585)
     Availability: Available
-    Price: £279.99 GBP
+    Price: £315.99 GBP
   - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=56646643482889)
     Availability: Available
-    Price: £319.98 GBP
+    Price: £355.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=55734333079817)
     Availability: Available
-    Price: £354.98 GBP
+    Price: £390.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=56646643515657)
     Availability: Available
-    Price: £394.97 GBP
+    Price: £430.97 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=55734333047049)
     Availability: Available
-    Price: £359.98 GBP
+    Price: £395.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=56646643548425)
     Availability: Available
-    Price: £399.97 GBP
+    Price: £435.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=55734333014281)
     Availability: Available
-    Price: £434.97 GBP
+    Price: £470.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-6ft-x-7ft?variant=56646643581193)
     Availability: Available
-    Price: £474.96 GBP
+    Price: £510.96 GBP
 - [Castleton Apex 10ft x 8ft Metal Shed](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-10ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -689,41 +647,41 @@
     Availability: Available
     Price: £629.96 GBP
 - [Castleton Apex 10ft x 13ft Metal Shed](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-11T14:49:08Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/1013AEYZ.webp?v=1764153529
   - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=56459761549577)
     Availability: Available
-    Price: £574.99 GBP
+    Price: £519.99 GBP
   - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=55734342254857)
     Availability: Available
-    Price: £614.98 GBP
+    Price: £559.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=56459761516809)
     Availability: Available
-    Price: £649.98 GBP
+    Price: £594.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=55734342222089)
     Availability: Available
-    Price: £689.97 GBP
+    Price: £634.97 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=56459761484041)
     Availability: Available
-    Price: £704.98 GBP
+    Price: £649.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=55734342189321)
     Availability: Available
-    Price: £744.97 GBP
+    Price: £689.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=56459761451273)
     Availability: Available
-    Price: £779.97 GBP
+    Price: £724.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-13ft?variant=55734342156553)
     Availability: Available
-    Price: £819.96 GBP
+    Price: £764.96 GBP
 - [Floor Support Frame](https://www.yardmasterstore.com/products/floor-support-frame): Floor Support Frame
-  Updated: 2026-04-02T06:53:56Z
+  Updated: 2026-04-10T17:38:55Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/floor_kit.webp?v=1764153495
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/floor_kit.webp?v=1775733800
   - [For sheds size 5 x 4 ft](https://www.yardmasterstore.com/products/floor-support-frame?variant=55734343303433)
     Availability: Available
     Price: £84.99 GBP
@@ -776,7 +734,7 @@
     Availability: Available
     Price: £139.99 GBP
 - [Yardmaster Garage T 10ft x 17ft](https://www.yardmasterstore.com/products/yardmaster-garage-t-10ft-x-17ft): Yardmaster Garage T 10ft x 17ft
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Range
   Availability: Available
@@ -788,93 +746,93 @@
     Availability: Available
     Price: £1,034.98 GBP
 - [3-Tier Wall Mounted Shelf Unit](https://www.yardmasterstore.com/products/three-tier-shelf-unit): Three-tier Shelf Unit
-  Updated: 2026-04-03T14:24:48Z
+  Updated: 2026-04-11T14:49:07Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/three_tier_shelf.webp?v=1775226287
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/three_tier_shelf.webp?v=1775733816
   Price: £74.99 GBP
 - [Door Slider Kit](https://www.yardmasterstore.com/products/bag-15): Bag 15 Quantity: 4x door sliders 4x compatible screws
-  Updated: 2026-03-25T11:46:06Z
+  Updated: 2026-04-09T11:19:30Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/bag_15.webp?v=1764153628
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/bag_15.webp?v=1775733569
   Price: £19.99 GBP
 - [Black Washers](https://www.yardmasterstore.com/products/black-washers): Black Washers
-  Updated: 2026-03-26T10:32:30Z
+  Updated: 2026-04-09T15:23:10Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/black_washers.webp?v=1764153628
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/black_washers.webp?v=1775733551
   Price: £12.99 GBP
 - [8mm x 9mm self-tapping screws](https://www.yardmasterstore.com/products/bag-1): Bag 1 Thread Length: 10mm Quantity: 590 screws
-  Updated: 2026-03-24T10:17:52Z
+  Updated: 2026-04-09T15:23:04Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/bag_1.webp?v=1764153628
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/bag_1.webp?v=1775733557
   Price: £14.99 GBP
 - [8mm x 12mm self-tapping screws](https://www.yardmasterstore.com/products/bag-2): Bag 2 Thread Length: 13mm Quantity: 45 screws
-  Updated: 2026-03-24T10:18:54Z
+  Updated: 2026-04-09T11:19:01Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/bag_2.webp?v=1764153628
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/bag_2.webp?v=1775733540
   Price: £15.99 GBP
 - [Door Handles](https://www.yardmasterstore.com/products/door-handles): Door Handles
-  Updated: 2026-03-25T18:50:16Z
+  Updated: 2026-04-09T11:19:22Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/door_handles.webp?v=1764153629
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/door_handles.webp?v=1775733561
   Price: £19.99 GBP
 - [Tall Store All Pent Metal Shed](https://www.yardmasterstore.com/products/tall-store-all-pz-6ft-x4ft-en): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/64TPZ.webp?v=1764153528
   - [No Floor Frame Kit Required / No Shelf Unit](https://www.yardmasterstore.com/products/tall-store-all-pz-6ft-x4ft-en?variant=55734374629641)
     Availability: Available
-    Price: £234.99 GBP
+    Price: £199.99 GBP
   - [No Floor Frame Kit Required / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/tall-store-all-pz-6ft-x4ft-en?variant=56646724747529)
     Availability: Available
-    Price: £274.98 GBP
+    Price: £239.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit](https://www.yardmasterstore.com/products/tall-store-all-pz-6ft-x4ft-en?variant=55734374596873)
     Availability: Available
-    Price: £299.98 GBP
+    Price: £264.98 GBP
   - [Steel Floor Frame Kit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/tall-store-all-pz-6ft-x4ft-en?variant=56646724845833)
     Availability: Available
-    Price: £339.97 GBP
+    Price: £304.97 GBP
 - [Name Plate and Gutter End Caps (White)](https://www.yardmasterstore.com/products/name-plate-and-gutter-end-caps): Parts 507 x 25081 x 25091 x 2
-  Updated: 2026-03-24T10:23:10Z
+  Updated: 2026-04-09T11:12:25Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/nameplate_white.webp?v=1764153628
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/nameplate_white.webp?v=1775733144
   Price: £19.99 GBP
 - [Name Plate and Gutter End Caps (Black)](https://www.yardmasterstore.com/products/name-plate-and-gutter-end-caps-black): Parts 507 x 2 5081 x 2 5091 x 2 **All parts are black
-  Updated: 2026-03-24T10:22:43Z
+  Updated: 2026-04-09T11:19:07Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/nameplate_black.webp?v=1764153628
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/nameplate_black.webp?v=1775733546
   Price: £19.99 GBP
 - [Top Light Metal Shed 85SP18](https://www.yardmasterstore.com/products/top-light-metal-shed-85sp18): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/ChatGPT_Image_Mar_3_2026_04_40_39_PM.webp?v=1772556248
   - [No Shelf-Unit](https://www.yardmasterstore.com/products/top-light-metal-shed-85sp18?variant=55734379381001)
     Availability: Available
-    Price: £299.99 GBP
+    Price: £349.99 GBP
   - [5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/top-light-metal-shed-85sp18?variant=56648433795337)
     Availability: Available
-    Price: £339.98 GBP
+    Price: £389.98 GBP
 - [Castleton Pent 6ft x 4ft Metal Shed](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-64apz): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -904,37 +862,37 @@
     Availability: Available
     Price: £414.96 GBP
 - [Castleton Pent 8ft x 4ft Metal Shed](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/ChatGPT_Image_Mar_10_2026_04_01_31_PM.webp?v=1773234841
   - [No Floor Frame Kit Required / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=55734389702921)
     Availability: Available
-    Price: £239.99 GBP
+    Price: £274.99 GBP
   - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=56648579481865)
     Availability: Available
-    Price: £279.98 GBP
+    Price: £314.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=55734389670153)
     Availability: Available
-    Price: £314.98 GBP
+    Price: £349.98 GBP
   - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=56648579514633)
     Availability: Available
-    Price: £354.97 GBP
+    Price: £389.97 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=55734389637385)
     Availability: Available
-    Price: £304.98 GBP
+    Price: £339.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=56648579547401)
     Availability: Available
-    Price: £344.97 GBP
+    Price: £379.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / No Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=55734389604617)
     Availability: Available
-    Price: £379.97 GBP
+    Price: £414.97 GBP
   - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-84apz?variant=56648579580169)
     Availability: Available
-    Price: £419.96 GBP
+    Price: £454.96 GBP
 - [Castleton Pent 10ft x 4ft Metal Shed](https://www.yardmasterstore.com/products/castleton-pent-metal-shed-104apz): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -964,7 +922,7 @@
     Availability: Available
     Price: £489.96 GBP
 - [Metal Garden Shed - Store-All Pent Metal Shed 54PEZ for Outdoor Storage](https://www.yardmasterstore.com/products/store-all-pent-metal-shed-54pez): Discover the Store-All Pent Metal Shed 54PEZ, a durable metal garden shed perfect for secure outdoor storage. Protect your tools and garden essentials with style and strength.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: Yardmaster Store
   Product Type: 
   Availability: Available
@@ -994,7 +952,7 @@
     Availability: Available
     Price: £369.96 GBP
 - [Castleton Apex 10ft x 10ft Metal Shed](https://www.yardmasterstore.com/products/castleton-aeyz-10ft-x-10ft-1): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-11T14:49:10Z
   Vendor: Yardmaster Store
   Product Type: 
   Availability: Available
@@ -1024,7 +982,7 @@
     Availability: Available
     Price: £704.96 GBP
 - [Store-All Apex 10ft x 10ft Metal Shed](https://www.yardmasterstore.com/products/apex-zgey-10ft-x-10ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1054,7 +1012,7 @@
     Availability: Available
     Price: £749.96 GBP
 - [Store-All Apex 10ft x 8ft Metal Shed](https://www.yardmasterstore.com/products/store-all-apex-10ft-x-8ft): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1084,14 +1042,14 @@
     Availability: Available
     Price: £669.96 GBP
 - [5-Tier Metal Freestanding Shelf Unit](https://www.yardmasterstore.com/products/5-tier-metal-freestanding-shelf-unit-1): Three-tier Shelf Unit
-  Updated: 2026-04-03T14:24:29Z
+  Updated: 2026-04-09T11:23:46Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/five_tier_shelf.webp?v=1775226268
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/five_tier_shelf.webp?v=1775733825
   Price: £49.99 GBP
 - [Store-All Pent Shed 8ft x 4ft - Durable Garden Storage Solution for You](https://www.yardmasterstore.com/products/geratehaus-titanium-8ft-x-4ft-pz): Discover the Store-All Pent Shed 8ft x 4ft, your durable garden storage solution. Perfect for keeping tools and equipment organized. Shop now for quality storage!
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1103,7 +1061,7 @@
     Availability: Available
     Price: £304.98 GBP
 - [Store-All Pent Shed 6ft x 4ft for Efficient Outdoor Storage Solutions](https://www.yardmasterstore.com/products/geratehaus-titanium-6ft-x-4ft-pz): Optimize your outdoor storage with the Store-All Pent Shed 6ft x 4ft. Perfect for maximizing space, this durable shed offers practical solutions for all your storage needs.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:24Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1115,7 +1073,7 @@
     Availability: Available
     Price: £264.98 GBP
 - [Gerätehaus Konstanz 65 WGY](https://www.yardmasterstore.com/products/geratehaus-konstanz-6ft-x-5ft-wgy): Dieses 65 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in Holzoptik mit braunen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) und vertikalen Stahlpaneelen fügt sich wunderbar in Ihre Gartengestaltung ein. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 14-21 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1127,7 +1085,7 @@
     Availability: Available
     Price: £329.98 GBP
 - [Gerätehaus Heidelberg 67 AEYZ](https://www.yardmasterstore.com/products/geratehaus-heidelberg-6ft-x-7ft-aeyz): Dieses 67 Yardmaster Metallgerätehaus in Grau wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Anthrazit mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die überlappenden Doppleschiebetüren welche optimal vor Schnee und Regen schützen sowie das GRATIS Bodenverankerungs-Set welches die sichere Verankerung von dem Geräteschuppen im Fundament gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1145,7 +1103,7 @@
 - Delivery Time: 7 - 14 days
 
 - Includes Free Anchor Kit
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1157,7 +1115,7 @@
     Availability: Available
     Price: £314.98 GBP
 - [Gerätehaus Heidelberg 108 AEYZ](https://www.yardmasterstore.com/products/geratehaus-heidelberg-10ft-x-8ft-aeyz): Dieses 108 Yardmaster Metallgerätehaus in Grau wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Anthrazit mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die überlappenden Doppleschiebetüren welche optimal vor Schnee und Regen schützen sowie das GRATIS Bodenverankerungs-Set welches die sichere Verankerung von dem Geräteschuppen im Fundament gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1169,7 +1127,7 @@
     Availability: Available
     Price: £510.98 GBP
 - [Gerätehaus Heidelberg 1013 AEYZ](https://www.yardmasterstore.com/products/geratehaus-heidelberg-10ft-x-13ft-aeyz): Dieses 1013 Yardmaster Metallgerätehaus in Grau wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Anthrazit mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die überlappenden Doppleschiebetüren welche optimal vor Schnee und Regen schützen sowie das GRATIS Bodenverankerungs-Set welches die sichere Verankerung von dem Geräteschuppen im Fundament gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 7-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1181,7 +1139,7 @@
     Availability: Available
     Price: £564.99 GBP
 - [Gerätehaus Brandenburg 86 TBSL](https://www.yardmasterstore.com/products/geratehaus-brandenburg-8ft-x-6ft-tbsl): Dieses 86 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Taupe mit braunen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die durchsichtigen Dachpaneele für einen helleren Innenraum sowie die Regenrinnen, welche für saubere Außenwände sorgen und die Ableitung von Regenwasser gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1193,7 +1151,7 @@
     Availability: Available
     Price: £519.98 GBP
 - [Gerätehaus Brandenburg 108 TBSL](https://www.yardmasterstore.com/products/geratehaus-brandenburg-10ft-x-8ft-tbsl): Dieses 108 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Taupe mit braunen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die durchsichtigen Dachpaneele für einen helleren Innenraum sowie die Regenrinnen, welche für saubere Außenwände sorgen und die Ableitung von Regenwasser gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1205,7 +1163,7 @@
     Availability: Available
     Price: £614.98 GBP
 - [Gerätehaus Brandenburg 106 TBSL](https://www.yardmasterstore.com/products/geratehaus-brandenburg-106-tbsl): Dieses 106 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Taupe mit braunen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die durchsichtigen Dachpaneele für einen helleren Innenraum sowie die Regenrinnen, welche für saubere Außenwände sorgen und die Ableitung von Regenwasser gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1217,7 +1175,7 @@
     Availability: Available
     Price: £574.98 GBP
 - [Gerätehaus Brandenburg 1012 TBSL](https://www.yardmasterstore.com/products/geratehaus-brandenburg-10ft-x-12ft-tbsl): Dieses 1012 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Taupe mit braunen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die durchsichtigen Dachpaneele für einen helleren Innenraum sowie die Regenrinnen, welche für saubere Außenwände sorgen und die Ableitung von Regenwasser gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1229,7 +1187,7 @@
     Availability: Available
     Price: £709.98 GBP
 - [Gerätehaus Bayern 66 GEYZ](https://www.yardmasterstore.com/products/geratehaus-bayern-66-geyz): Dieses 66 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Grün mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 7-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1241,7 +1199,7 @@
     Availability: Available
     Price: £344.98 GBP
 - [Gerätehaus Bayern 65 GEYZ](https://www.yardmasterstore.com/products/geratehaus-bayern-6ft-x-5ft-geyz): Dieses 65 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Grün mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 7-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1253,7 +1211,7 @@
     Availability: Available
     Price: £284.98 GBP
 - [Gerätehaus Bayern 108 GEYZ](https://www.yardmasterstore.com/products/geratehaus-bayern-10ft-x-8ft-geyz): Dieses 108 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Grün mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 7-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1265,7 +1223,7 @@
     Availability: Available
     Price: £494.98 GBP
 - [Gerätehaus Bayern 1013 GEYZ](https://www.yardmasterstore.com/products/geratehaus-bayern-10ft-x-13ft-geyz): Dieses 1013 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Grün mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Zusätzliche Besonderheiten sind die durchsichtigen Dachpaneele für einen helleren Innenraum sowie die Regenrinnen, welche für saubere Außenwände sorgen und die Ableitung von Regenwasser gewährleisten. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1277,7 +1235,7 @@
     Availability: Available
     Price: £679.98 GBP
 - [Gerätehaus Bayern 1010 GEYZ](https://www.yardmasterstore.com/products/geratehaus-bayern-10ft-x-10ft-geyz): Dieses 1010 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Grün mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 5-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1289,7 +1247,7 @@
     Availability: Available
     Price: £574.98 GBP
 - [Gerätehaus Bayern 87 GEYZ](https://www.yardmasterstore.com/products/emerald-deluxe-8ft-x-7ft-copy): Dieses 87 Yardmaster Gerätehaus aus Metall wird aus hochfestem feuerverzinktem Stahl hergestellt, welches mit einer siebenfachen Schutzschicht gegen Korrision versiegelt wurde. Die einbrennlackierte Oberfächenbeschichtung von dem Metallgerätehaus in der Grundfarbe Grün mit silbernen Akzenten (Dach, Tür, Türrahmen und Seitenaufschläge) fügt sich wunderbar in Ihre Gartengestaltung ein. Die Anlieferung erfolgt kostenlos "Frei Bordsteinkante" zum Deutschem Festland innerhalb von 7-10 Werktagen. Zudem erhalten Sie von uns eine 15-Jährige Herstellergarantie gegen Rost.
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1301,14 +1259,14 @@
     Availability: Available
     Price: £424.98 GBP
 - [Additional Anchor Brackets](https://www.yardmasterstore.com/products/bag-2-copy): Pack contains: 407EA x4 M8 x 50mm x4 M8 x 19mm x4 M10 x 50mm x4
-  Updated: 2026-04-03T06:24:46Z
+  Updated: 2026-04-10T07:33:51Z
   Vendor: vendor-unknown
   Product Type: Parts and Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/additional_anchor_brackets_1.jpg?v=1771949035
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/additional_anchor_brackets.webp?v=1775734431
   Price: £24.99 GBP
 - [Shiplap Apex 10ft x 12ft Metal Shed](https://www.yardmasterstore.com/products/shiplap-tasl-10ft-x-12ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Integrated gutter system - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:05Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
@@ -1326,23 +1284,41 @@
     Availability: Available
     Price: £694.97 GBP
 - [Tall Store All Pent Metal Shed](https://www.yardmasterstore.com/products/tall-platinum-stone-grey-6ft-x-7ft): Special Features - Includes two translucent roof panels - Roof ventilation - Overlapping doors - Extra height - Weather resistant - Maintenance free - Free anchor kit included
-  Updated: 2026-04-03T14:24:17Z
+  Updated: 2026-04-09T11:24:29Z
   Vendor: vendor-unknown
   Product Type: By Size
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/67TYZN.webp?v=1772552567
   - [No Floor Frame Kit Required / No Shelf Unit](https://www.yardmasterstore.com/products/tall-platinum-stone-grey-6ft-x-7ft?variant=56855296016649)
     Availability: Available
-    Price: £233.99 GBP
+    Price: £259.99 GBP
   - [No Floor Frame Kit Required / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/tall-platinum-stone-grey-6ft-x-7ft?variant=56855296049417)
     Availability: Available
-    Price: £273.98 GBP
+    Price: £299.98 GBP
   - [Steel Floor Frame Kit / No Shelf Unit](https://www.yardmasterstore.com/products/tall-platinum-stone-grey-6ft-x-7ft?variant=56855296082185)
     Availability: Available
-    Price: £313.98 GBP
+    Price: £399.98 GBP
   - [Steel Floor Frame Kit / 5-Tier Freestanding Shelf Unit](https://www.yardmasterstore.com/products/tall-platinum-stone-grey-6ft-x-7ft?variant=56855296114953)
     Availability: Available
-    Price: £353.97 GBP
+    Price: £379.97 GBP
+- [Emerald Deluxe Apex 8ft x 9ft Metal Shed](https://www.yardmasterstore.com/products/emerald-deluxe-apex-8ft-x-9ft-metal-shed-new): Special Features - Roof ventilation - Overlapping doors - Weather resistant - Maintenance free - Free anchor kit included
+  Updated: 2026-04-09T11:24:29Z
+  Vendor: vendor-unknown
+  Product Type: By Size
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/9877/1465/files/89_FEE_SHELF.webp?v=1775732706
+  - [No Floor Frame Kit Required / No Shelf Unit / 5-Tier Freestanding Shelf Unit - FREE](https://www.yardmasterstore.com/products/emerald-deluxe-apex-8ft-x-9ft-metal-shed-new?variant=56932930650377)
+    Availability: Available
+    Price: £419.99 GBP
+  - [No Floor Frame Kit Required / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit - FREE](https://www.yardmasterstore.com/products/emerald-deluxe-apex-8ft-x-9ft-metal-shed-new?variant=56932930715913)
+    Availability: Available
+    Price: £494.98 GBP
+  - [Steel Floor Frame Kit / No Shelf Unit / 5-Tier Freestanding Shelf Unit - FREE](https://www.yardmasterstore.com/products/emerald-deluxe-apex-8ft-x-9ft-metal-shed-new?variant=56932930781449)
+    Availability: Available
+    Price: £514.98 GBP
+  - [Steel Floor Frame Kit / 3-Tier Wall Mounted Shelf Unit / 5-Tier Freestanding Shelf Unit - FREE](https://www.yardmasterstore.com/products/emerald-deluxe-apex-8ft-x-9ft-metal-shed-new?variant=56932930846985)
+    Availability: Available
+    Price: £589.97 GBP
 
 ## Collections
 
@@ -1362,55 +1338,55 @@
   Updated: 2026-03-25T15:55:33Z
   Total Products: 0
 - [Small Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/small-metal-sheds): Shop YardMaster’s selection of robust small metal sheds to meet your storage needs. For your tools and gardening supplies or winter storage requirements, we have a range of styles and sizes for you to choose from. - YardMaster International
-  Updated: 2026-03-26T08:38:42Z
+  Updated: 2026-04-09T07:37:09Z
   Total Products: 14
 - [Medium Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/medium-metal-sheds): Shop YardMaster’s selection of robust medium metal sheds to meet your storage needs. For your tools and gardening supplies or winter storage requirements, we have a range of styles and sizes for you to choose from. - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 17
 - [Large Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/large-metal-sheds): Shop YardMaster’s selection of robust large metal sheds to meet your storage needs. For your tools and gardening supplies or winter storage requirements, we have a range of styles and sizes for you to choose from. - YardMaster International
-  Updated: 2026-04-02T14:12:06Z
+  Updated: 2026-04-09T11:50:09Z
   Total Products: 25
 - [Green Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/green-metal-sheds): - YardMaster International
-  Updated: 2026-04-02T14:12:06Z
+  Updated: 2026-04-09T11:50:09Z
   Total Products: 19
 - [Brown Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/brown-metal-sheds): - YardMaster International
-  Updated: 2026-03-29T11:44:31Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 8
 - [Grey Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/grey-metal-sheds): - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-09T11:50:09Z
   Total Products: 19
 - [Woodgrain Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/woodgrain-metal-sheds): - YardMaster International
   Updated: 2026-03-25T15:55:33Z
   Total Products: 2
 - [Pent Roof Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/pent-roof): - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-09T07:37:09Z
   Total Products: 16
 - [Apex Roof Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/apex-roof): - YardMaster International
-  Updated: 2026-04-02T14:12:06Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 43
 - [Shiplap - YardMaster International](https://www.yardmasterstore.com/collections/shiplap): Yardmaster’s Shiplap metal sheds easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, its brown and taupe finish offers a tasteful and compact storage solution. - YardMaster International
-  Updated: 2026-04-01T11:47:16Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 9
 - [Emerald Deluxe - YardMaster International](https://www.yardmasterstore.com/collections/emerald-deluxe): Yardmaster’s Emerald Deluxe metal sheds easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, it’s green finish offers a tasteful and compact storage solution. - YardMaster International
-  Updated: 2026-04-02T14:12:06Z
+  Updated: 2026-04-09T11:50:09Z
   Total Products: 19
 - [Castleton - YardMaster International](https://www.yardmasterstore.com/collections/castleton): Yardmaster’s Castleton metal sheds easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, it’s green finish offers a tasteful and compact storage solution. - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-09T11:50:09Z
   Total Products: 13
 - [Garage - YardMaster International](https://www.yardmasterstore.com/collections/garages): This Yardmaster garage is constructed from zinc plated steel that has been finished with a clear resin bonding for protection and is offered with a manufacturer's 15 year guarantee. - YardMaster International
   Updated: 2026-04-02T12:14:43Z
   Total Products: 1
 - [Silver Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/silver-metal-sheds): - YardMaster International
-  Updated: 2026-04-02T12:14:43Z
+  Updated: 2026-04-09T07:36:18Z
   Total Products: 10
 - [Parts and Accessories - YardMaster International](https://www.yardmasterstore.com/collections/parts-and-accessories): - YardMaster International
-  Updated: 2026-04-02T12:14:43Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 5
 - [Floor Frame Kits - YardMaster International](https://www.yardmasterstore.com/collections/floor-frame-kits): - YardMaster International
-  Updated: 2026-04-02T12:14:43Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 2
 - [All Metal Sheds - YardMaster International](https://www.yardmasterstore.com/collections/all-metal-sheds): Shop YardMaster’s selection of robust small metal sheds to meet your storage needs. For your tools and gardening supplies or winter storage requirements, we have a range of styles and sizes for you to choose from. - YardMaster International
-  Updated: 2026-04-02T14:12:06Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 59
 - [Pent PEZ - YardMaster International](https://www.yardmasterstore.com/collections/pent-pez): - YardMaster International
   Updated: 2026-02-26T15:37:35Z
@@ -1422,10 +1398,10 @@
   Updated: 2026-02-26T15:37:35Z
   Total Products: 0
 - [ - YardMaster International](https://www.yardmasterstore.com/collections/-and-): Weather-resistant and long-lasting Yardmaster Metal Sheds are extremely popular with homeowners across Europe. Made of the highest quality, hot dipped galvanised steel, they provide convenient and reliable outdoor storage on your property. High gables offer generous headroom and storage while overlapping doors make it easy to access your garden items, outdoor equipment and other stored items. The robust steel frame and strong panels with 7 layers of protection against corrosion keep your metal shed and belongings secure in all kinds of weather. You will be happy to know that other than occasional cleaning, your Yardmaster garden shed requires no maintenance. No painting, preservatives or rustproofing is ever needed because of our high quality finish and superior corrosion resistance. Robust materials and construction also eliminate the risk of blistering, cracking, splitting, swelling, warping and damage from bugs or pests. As with all other YardMaster metal garden sheds, they are designed for simple DIY assembly. Complete with frame, panels, rust resistant zinc-plated screws plus a free anchor kit to secure it to the surface, you can assemble your shed (with the help of another person) in approximately 3 to 6 hours. Our well-illustrated and multi-lingual assembly manual is easy to follow plus we have local helplines to provide you with technical assistance. Backed by YardMaster’s superior quality spanning over 30 years, you will enjoy years of additional storage space just outside your home. Advantages of YardMaster’s Emerald Deluxe Metal Shed Choice of 8 popular sizes: 6’x5’, 6’x6’, 6’x7’, 8’x7’, 8’x9’, 10’x8’, 10’x10’, 10’x13’ Secure doors and locking system: The internally mounted double doors have lockable handles for the padlock (not provided) of your choice. Anti-tamper bolts offer secure outdoor storage for garden items, equipment, furniture and other items. 25% heavier and stronger: Robust fire-retardant materials and quality construction combine with a proven 7-layered rust protection process to make our sheds last longer than other non-European brands. Maintenance-free: You never have to worry about painting or rustproofing your metal shed. A superior painted-on finish keeps it looking great for years. There is no blistering, cracking, splitting, swelling or warping and no damage from bugs or pests to take care of either. Unique 15-year manufacturer guarantee: We will replace free of charge any undamaged panel which has been perforated by rust within 15 years of purchase. Read our Yardmaster guarantee for more information. Easy assembly: With the help of another person and our well-illustrated manual, you can easily assemble your metal shed in approximately 3 to 6 hours. We also have local helplines to provide any setup assistance that you might require. As Europe’s no.1 metal shed manufacturer, customer satisfaction is a top priority with Yardmaster. Lasting quality accounts for our top position in the market. Purchase your Metal Shed directly from YardMaster. We offer manufacturer-direct pricing and fast response. A dedicated distribution network provides an efficient delivery service to the address of your choice. There is no currency fluctuation, import taxes or VAT payable on entry to worry about either. Should you require any technical assistance, or have a question about metal shed parts or delivery, we have local helplines to serve you. Shop Online Now - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 19
 - [ - YardMaster International](https://www.yardmasterstore.com/collections/): - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 19
 - [Shelf Unit - YardMaster International](https://www.yardmasterstore.com/collections/shelf-unit): - YardMaster International
   Updated: 2026-03-25T15:55:34Z
@@ -1434,7 +1410,7 @@
   Updated: 2026-03-25T15:55:34Z
   Total Products: 2
 - [Spare Parts - YardMaster International](https://www.yardmasterstore.com/collections/spare-parts): - YardMaster International
-  Updated: 2026-04-03T11:40:49Z
+  Updated: 2026-04-10T11:51:22Z
   Total Products: 9
 - [Other Products - YardMaster International](https://www.yardmasterstore.com/collections/other-products): - YardMaster International
   Updated: 2026-02-26T15:37:38Z
@@ -1443,7 +1419,7 @@
   Updated: 2026-02-26T15:37:39Z
   Total Products: 0
 - [Store-All - YardMaster International](https://www.yardmasterstore.com/collections/store-all-1): Yardmaster’s Store-All metal sheds easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, it’s light metallic resin finish offers a tasteful and compact storage solution. - YardMaster International
-  Updated: 2026-04-01T11:47:16Z
+  Updated: 2026-04-09T07:36:18Z
   Total Products: 10
 - [Help - YardMaster International](https://www.yardmasterstore.com/collections/help): yeeeeeeeeeeeeeoooooooo - YardMaster International
   Updated: 2026-03-25T15:55:34Z
@@ -1455,52 +1431,52 @@
   Updated: 2026-03-25T15:55:34Z
   Total Products: 1
 - [Best Sellers - YardMaster International](https://www.yardmasterstore.com/collections/best-sellers): - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-09T11:50:09Z
   Total Products: 8
 - [Castleton Pent 6ft x 4ft - YardMaster International](https://www.yardmasterstore.com/collections/castleton-pent-6ft-x-4ft): - YardMaster International
   Updated: 2026-03-25T15:55:34Z
   Total Products: 0
 - [Shiplap TBSL 10ft x 12ft - YardMaster International](https://www.yardmasterstore.com/collections/shiplap-tbsl-10ft-x-12ft): - YardMaster International
-  Updated: 2026-04-01T11:47:16Z
+  Updated: 2026-04-09T07:34:23Z
   Total Products: 3
 - [Castleton AEYZ 10ft x 8ft - YardMaster International](https://www.yardmasterstore.com/collections/castleton-aeyz-10ft-x-8ft): - YardMaster International
-  Updated: 2026-04-02T12:14:42Z
+  Updated: 2026-04-09T11:50:09Z
   Total Products: 2
 - [Platinum Tall - YardMaster International](https://www.yardmasterstore.com/collections/platinum-tall): Yardmaster’s Platinum Tall metal sheds easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, its brown and taupe finish offers a tasteful and compact storage solution. - YardMaster International
-  Updated: 2026-03-29T11:44:31Z
+  Updated: 2026-04-09T07:37:09Z
   Total Products: 4
 - [Woodview - YardMaster International](https://www.yardmasterstore.com/collections/woodview-1): Yardmaster’s Woodview Premium metal shed easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, it’s woodgrain finish offers a tasteful and compact storage solution. - YardMaster International
   Updated: 2026-03-25T15:55:34Z
   Total Products: 2
 - [Tall Platinum Stone Grey 6ft x 4ft - YardMaster International](https://www.yardmasterstore.com/collections/tall-platinum-stone-grey-6ft-x-4ft): - YardMaster International
-  Updated: 2026-03-26T08:38:42Z
+  Updated: 2026-04-09T07:37:09Z
   Total Products: 2
 - [All Products - YardMaster International](https://www.yardmasterstore.com/collections/all-metal-sheds-copy): Shop YardMaster’s selection of robust small metal sheds to meet your storage needs. For your tools and gardening supplies or winter storage requirements, we have a range of styles and sizes for you to choose from. - YardMaster International
-  Updated: 2026-04-03T11:40:49Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 70
 - [Alle Gerätehäuser - YardMaster International](https://www.yardmasterstore.com/collections/alle-geratehauser): - YardMaster International
   Updated: 2026-03-25T15:55:34Z
   Total Products: 17
 - [Special Offers - YardMaster International](https://www.yardmasterstore.com/collections/special-offers): - YardMaster International
-  Updated: 2026-04-02T14:12:06Z
-  Total Products: 13
+  Updated: 2026-04-09T07:55:51Z
+  Total Products: 12
 - [Store-All (Copy) - YardMaster International](https://www.yardmasterstore.com/collections/store-all-copy): Yardmaster’s Store-All metal sheds easily accommodates all types of tools, bicycles and garden equipment. Made from hot dipped galvanised steel, it’s light metallic resin finish offers a tasteful and compact storage solution. - YardMaster International
-  Updated: 2026-04-01T11:47:16Z
+  Updated: 2026-04-09T07:36:18Z
   Total Products: 8
 - [YEOOPA - YardMaster International](https://www.yardmasterstore.com/collections/yeoopa): - YardMaster International
-  Updated: 2026-03-29T11:44:31Z
+  Updated: 2026-04-08T07:39:40Z
   Total Products: 2
 - [Featured Products - YardMaster International](https://www.yardmasterstore.com/collections/featured-products): - YardMaster International
-  Updated: 2026-04-01T11:47:16Z
+  Updated: 2026-04-09T07:34:23Z
   Total Products: 4
 - [AVADA - Best Sellers - YardMaster International](https://www.yardmasterstore.com/collections/avada-best-sellers): - YardMaster International
-  Updated: 2026-04-03T11:40:49Z
+  Updated: 2026-04-11T11:42:58Z
   Total Products: 89
 - [Special Offers (Copy) - YardMaster International](https://www.yardmasterstore.com/collections/special-offers-copy): - YardMaster International
-  Updated: 2026-04-02T14:12:06Z
-  Total Products: 9
+  Updated: 2026-04-09T07:38:43Z
+  Total Products: 8
 - [Special Offers (Copy) - YardMaster International](https://www.yardmasterstore.com/collections/special-offers-copy-1): - YardMaster International
-  Updated: 2026-04-01T11:47:16Z
+  Updated: 2026-04-09T07:37:46Z
   Total Products: 4
 
 ## Blogs
@@ -1535,6 +1511,18 @@
     Updated: 2026-04-03T12:07:16Z
     Author: YardMaster International
     Tags: durable, garden, garden organization, garden storage solutions, installing metal shed, large metal sheds, medium metal sheds, metal sheds, outdoor garden storage solutions, outdoor metal garden storage solutions, outdoor storage, sheds, small metal sheds, weather resistant
+  - [The Extensive Benefits of Large Metal Sheds for Garden Storage Needs](https://www.yardmasterstore.com/blogs/news/the-extensive-benefits-of-large-metal-sheds-for-garden-storage-needs): The Extensive Benefits of Large Metal Sheds for Garden Storage Needs
+    Updated: 2026-04-06T12:06:38Z
+    Author: YardMaster International
+    Tags: benefits of garden sheds, durable, garden, garden organization, garden storage solutions, large metal sheds, large metal sheds benefits, medium metal sheds, metal sheds, outdoor metal garden storage solutions, outdoor storage, sheds, small metal sheds, storage, weather resistant
+  - [Comparing Metal Sheds and Other Garden Storage Solutions](https://www.yardmasterstore.com/blogs/news/comparing-metal-sheds-and-other-garden-storage-solutions): Comparing Metal Sheds and Other Garden Storage Solutions
+    Updated: 2026-04-08T12:05:36Z
+    Author: YardMaster International
+    Tags: comparing garden shed options, durable, garden organisation ideas, garden storage, garden storage solutions, large metal sheds, medium metal sheds, metal sheds, metal versus wood sheds, outdoor metal garden storage solutions, outdoor solutions, sheds, small metal sheds, storage, weather resistant
+  - [Expert Tips on Maintaining Your Outdoor Metal Shed](https://www.yardmasterstore.com/blogs/news/expert-tips-on-maintaining-your-outdoor-metal-shed): Expert Tips on Maintaining Your Outdoor Metal Shed
+    Updated: 2026-04-10T12:06:57Z
+    Author: YardMaster International
+    Tags: best outdoor metal sheds, durable, garden, garden storage solutions, large metal sheds, medium metal sheds, metal, metal sheds, outdoor metal garden storage solutions, outdoor sheds, shed, shed maintenance, small metal sheds, storage solution, tips for garden shed care, weather resistant
 
 ## Store Pages
 
