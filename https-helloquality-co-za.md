@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2021-06-22T16:20:57Z
 - Contact Email: sales@helloquality.co.za
-- Updated At: 2026-03-11T00:00:48.684Z
+- Updated At: 2026-04-12T00:03:47.068Z
 
 ## Products
 
@@ -51,7 +51,7 @@
     Availability: Available
     Price: R 10,000.00 ZAR
 - [Rudo & Patent Desire Combo](https://helloquality.co.za/products/rudo-desire-combo): Hello Quality Equestrian gaiter & jodhpurs boots combo
-  Updated: 2026-01-25T19:12:31Z
+  Updated: 2026-04-05T02:34:47Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -287,7 +287,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/products/Danai_2_2253d1d4-d811-4fb2-9f28-c458ca335db0.jpg?v=1680013552
   Price: R 0.00 ZAR
 - [Men's Long Leather Riding Boots | Hello Quality Equestrian](https://helloquality.co.za/products/destiny): The Men's Long Leather Riding Boots are perfect for those who love to ride their motorcycle. They feature an oiled pull-up leather upper with waterproofing properties,
-  Updated: 2026-01-25T19:12:33Z
+  Updated: 2026-03-30T07:55:41Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -329,7 +329,7 @@
     Availability: Available
     Price: R 6,950.00 ZAR
 - [Ladies Madrid Detailed Leather Belt](https://helloquality.co.za/products/genuine-leather-padded-belts): Full grain double leather Padded with latex padding brass buckle Detailed stitching
-  Updated: 2026-01-25T19:12:33Z
+  Updated: 2026-03-30T07:28:42Z
   Vendor: Hello Quality Equestrian
   Product Type: Leather Riding Boots
   Availability: Available
@@ -428,7 +428,7 @@
   Availability: Available
   Price: R 0.01 ZAR
 - [Bernet Chukka Boots](https://helloquality.co.za/products/bernet-chukka): Bernet chukka boots are warmer and insulated than synthetical chukka boots thanks to the soft Napa leather lining on the inside, it look masculine thanks to its genuine leather on the exterior. In addition, they have a thick rubber sole that provides plenty of traction, making these a perfect addition to your wardrobe.
-  Updated: 2026-01-25T19:12:33Z
+  Updated: 2026-03-18T12:35:28Z
   Vendor: Hello Quality Collection
   Product Type: Men's Leather Boot
   Availability: Available
@@ -449,7 +449,7 @@
     Availability: Available
     Price: R 1,899.00 ZAR
 - [Candy](https://helloquality.co.za/products/candy-ankle-boots): Candy women's leather ankle boots These boots are designed in an ankle length and offer a side zipper closure. The block heel adds character while remaining a comfortable fit. DETAILS Above the ankle back loop Zipper at the side leg Padded inner for comfort.
-  Updated: 2026-01-25T19:12:33Z
+  Updated: 2026-04-05T00:35:15Z
   Vendor: Hello Quality Collection
   Product Type: Ladies Leather Boots
   Availability: Available
@@ -504,7 +504,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/CrocCurveSparkle.jpg?v=1686124594
   Price: R 1,495.00 ZAR
 - [Top Option - Coral Patent Brogue](https://helloquality.co.za/products/coral-patent-brogue): Patent top with brogue detail.
-  Updated: 2026-01-25T19:12:33Z
+  Updated: 2026-03-28T09:32:07Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -567,7 +567,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Patent_Wave.jpg?v=1686126823
   Price: R 895.00 ZAR
 - [Top Option - Seagul curve](https://helloquality.co.za/products/seagul-curve): Same leather or contast colour
-  Updated: 2026-01-25T19:12:34Z
+  Updated: 2026-03-26T07:56:05Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -616,7 +616,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_wafer_patent.jpg?v=1686130912
   Price: R 1,695.00 ZAR
 - [Top Option - Wafer hotmelt & patent](https://helloquality.co.za/products/wafer-hotmelt-patent): Hotmelt and patent detail
-  Updated: 2026-01-25T19:12:34Z
+  Updated: 2026-03-12T06:27:40Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -630,7 +630,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_closed_vamp.jpg?v=1686142449
   Price: R 795.00 ZAR
 - [Lace Option - Mayfair vamp](https://helloquality.co.za/products/mayfair-vamp): Enclose front with elasticated panel
-  Updated: 2026-01-25T19:12:34Z
+  Updated: 2026-03-20T20:38:14Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -658,7 +658,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_speed_lacing.jpg?v=1686143253
   Price: R 695.00 ZAR
 - [Toe Option - Full brogue](https://helloquality.co.za/products/full-brogue-1): Full brogue on toe joint and vamp
-  Updated: 2026-01-25T19:12:35Z
+  Updated: 2026-03-14T00:01:22Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -672,7 +672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_brogue3.jpg?v=1686143453
   Price: R 395.00 ZAR
 - [Toe Option - Straight brogue & piping](https://helloquality.co.za/products/straight-brogue-piping): Brogue and piping on toe joint, choose contrast colour of choice
-  Updated: 2026-01-25T19:12:35Z
+  Updated: 2026-03-26T03:31:56Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -686,7 +686,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_toe_cap_piping.jpg?v=1686143682
   Price: R 495.00 ZAR
 - [Toe Option - Straight plain](https://helloquality.co.za/products/straight-plain): Straight toe cap
-  Updated: 2026-01-25T19:12:35Z
+  Updated: 2026-04-05T07:13:52Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -885,21 +885,21 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Tororo_Kids.jpg?v=1686755594
   Price: R 499.00 ZAR
 - [Kids Bonolo Economy](https://helloquality.co.za/products/kids-bonolo-economy): Introducing the Kids Soft Leather Long Riding Boots: the perfect choice for your little one’s equestrian adventures. Crafted from premium quality leather, these boots features a soft texture and flexible fit, providing superior comfort and an extra boost of confidence for aspiring riders. From the show ring to the countryside, these boots are designed to stand out with effortless elegance. Soft leather uppers Fabric lined Cushioned footbed Rear sturdy YKK zip
-  Updated: 2026-01-25T19:12:36Z
+  Updated: 2026-04-06T08:24:52Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/4D9A9890.jpg?v=1721992849
   Price: R 3,499.00 ZAR
 - [Kids Stunner Curve](https://helloquality.co.za/products/kids-stunner-curve): These beautiful, hand-crafted riding boots are the ultimate expression of quality and style. With their superior craftsmanship and durable construction, they provide superb comfort and protection for the young rider. Perfect for completing any equestrian ensemble, these luxurious boots will bring poise and elegance to the track. Soft leather uppers Top patent detail Rear sturdy Ykkzips Elastic gusset parallel to the zip
-  Updated: 2026-01-25T19:12:36Z
+  Updated: 2026-03-24T14:38:57Z
   Vendor: Hello Quality Equestrian
   Product Type: Kids Riding Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/KidsStunnerCurve_1.jpg?v=1687715155
   Price: R 4,499.00 ZAR
 - [Yaku demo Work Boots Waterproof](https://helloquality.co.za/products/yaku-green-waterproof): Introducing the Yaku Green Waterproof Work Boot, crafted with premium materials to ensure superior durability and comfort. Featuring a secure fit and unparalleled protection, these custom boots will deliver reliable and stylish performance, no matter the conditions. Feel confident with every step in your Yaku Green Waterproof Work Boot.
-  Updated: 2026-01-31T14:31:01Z
+  Updated: 2026-03-20T08:54:37Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -994,13 +994,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/rn-image_picker_lib_temp_2bc5281a-4dfc-478d-808e-2dcb4dab702a.jpg?v=1764619548
   Price: R 5,219.00 ZAR
-- [Bonolo Gen 2 -  Size 7](https://helloquality.co.za/products/bonolo-gen-2--size-7): Size: UK/ SA 7 (40) Colour: Wheat Height: 45cm Calf: 35cm Can be altered to fit
-  Updated: 2026-02-06T12:01:19Z
-  Vendor: Hello Quality Equestrian
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Screenshot2023-11-12at20.15.28.png?v=1764691843
-  Price: R 6,199.00 ZAR
 - [Jedda Fudge Demo](https://helloquality.co.za/products/jeda): Size: 4 Height: 43cm Calf: 33cm Colour: Tan Indulge in the opulence of Jeda, our luxurious equestrian riding boots made with exquisite South African leather. Handcrafted with care, these long boots exude elegance and sophistication. Perfect for the discerning rider, Jeda is the epitome of luxury and style. Product Details: Genuine leather uppers Leather-lined Sturdy front YKK zipper Zip Guards Soft padded footbed Durable rubber soles CAN BE ADJUSTED TO FIT
   Updated: 2026-01-25T19:12:37Z
   Vendor: Hello Quality Equestrian
@@ -1029,13 +1022,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Hello-Quality-Equestrian_leatherridingbootsforsaleSouthAfrica_253.jpg?v=1767089785
   Price: R 4,999.00 ZAR
-- [Polo Boots - Size 3](https://helloquality.co.za/products/polo-boots-size-3): Size: 3 Height: 39cm Calf: 35cm Colour: Navy Indulge in luxury with our exquisite Polo Boots in size 3. Handcrafted using the finest South African leather, these long boots are a symbol of sophistication. Experience the ultimate comfort and style with these luxurious boots. Elevate your wardrobe and treat yourself to the best. Product Details: Genuine leather uppers Leather-lined Sturdy YKK zipper Zip Guards for extra protection Soft padded footbed Durable rubber soles CAN BE ADJUSTED TO FIT
-  Updated: 2026-01-25T19:12:38Z
-  Vendor: Hello Quality Equestrian
-  Product Type: Polo Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/IMG_7005.jpg?v=1706694293
-  Price: R 6,799.00 ZAR
 - [Polo Boots - Size 7](https://helloquality.co.za/products/polo-boots-size-5): Size: 7 Height: 46cm Calf: 37,5cm Colour: Dark brown Can be adjusted to fit
   Updated: 2026-01-25T19:12:38Z
   Vendor: Hello Quality Equestrian
@@ -1203,7 +1189,7 @@
     Availability: Not Available
     Price: R 2,064.00 ZAR
 - [Kepler Hiker](https://helloquality.co.za/products/keplar-hiker): Inspire admiration with the Kepler Hiker—premium, all-weather leather work boots engineered for durability, comfort, and style. These luxuriously crafted boots feature a timeless silhouette and superior construction, ensuring a reliable, fashionable choice for your next outdoor adventure.
-  Updated: 2026-01-25T19:12:40Z
+  Updated: 2026-03-13T01:49:02Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boots
   Availability: Available
@@ -1217,7 +1203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/20240204_181437.jpg?v=1709199065
   Price: R 2,699.00 ZAR
 - [Monti](https://helloquality.co.za/products/monti): Elevate your everyday look with Monti's luxurious leather fashion boots. Handcrafted from premium leather, these stylish boots boast an elevated sense of sophistication perfect for adding a touch of class to your professional or casual wardrobe. Experience the timeless luxury of Monti today.
-  Updated: 2026-01-25T19:12:40Z
+  Updated: 2026-04-05T02:42:10Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boots
   Availability: Available
@@ -1267,7 +1253,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/20240204_183859.jpg?v=1709036137
   Price: R 1,999.00 ZAR
 - [Dave](https://helloquality.co.za/products/dave-1): Introducing the Dave mens leather fashion boot, providing a sophisticated and stylish look that will turn heads. Crafted from premium leather and detailed with a sleek, modern design, these boots offer an on-trend style that stands out. A must-have addition to your wardrobe, these boots are sure to become a staple. Product Details Genuine leather uppers Napa lining and padded ankles Laced front panels Rubber outsoles
-  Updated: 2026-01-25T19:12:40Z
+  Updated: 2026-03-28T00:11:37Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boots
   Availability: Available
@@ -1281,14 +1267,14 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/ChukkaCommandoDarkBrownSuede1.jpg?v=1708166651
   Price: R 999.00 ZAR
 - [Chukka Fire Two-Tone Leather Boots](https://helloquality.co.za/products/chukka-fire): Stylish and strong, Chukka Fire Men's Leather Fashion Boot is perfect for any occasion. Its timeless design is crafted from premium quality materials to ensure long-lasting comfort and durability. The sleek look of the Chukka Fire makes it the perfect complement to any outfit. With its understated luxury, the Chukka Fire is sure to stand out from the crowd. Genuine leather uppers Soft padded footbed Lace-up front Rubber outsoles
-  Updated: 2026-01-25T19:12:40Z
+  Updated: 2026-04-05T09:51:45Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/ChukkaFireBarcelonaBrownBlack1.jpg?v=1708156270
   Price: R 1,349.00 ZAR
 - [Chukka Two-Tone Leather Boots](https://helloquality.co.za/products/chukka-two-tone): Experience the height of sophistication in Chukka two-tone men's leather fashion boots. Crafted from the finest materials to achieve an eye-catching two-tone design, these boots exude luxury and elegance. Step out in style while enjoying the perfect blend of comfort and durability. Experience the height of sophistication in Chukka two-tone men's leather boots.﻿​Product Details Two-tone leather uppers Fabric lining Lace-up front Crepe rubber soles
-  Updated: 2026-01-25T19:12:40Z
+  Updated: 2026-04-07T01:28:08Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boots
   Availability: Available
@@ -1302,7 +1288,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/ChukkaCommandoBarcelonaBrown5.jpg?v=1708171263
   Price: R 1,249.00 ZAR
 - [Chukka Commando Leather Boots](https://helloquality.co.za/products/chukka-commando-2): Introducing Chukka Commando: a cutting-edge leather fashion boot that offers a unique combination of elegance and edge. The luxuriously soft leather and commanding design make it the perfect shoe for contemporary stylish individuals searching for a bold and sophisticated look. Product Details Genuine Leather uppers Soft padded leather foot-bed Finished with rubber out-soles. Handcrafted in SA
-  Updated: 2026-01-25T19:12:40Z
+  Updated: 2026-03-31T09:10:39Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boots
   Availability: Available
@@ -1323,7 +1309,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/BernetteChukkaBarcelonaBrown1.jpg?v=1708164400
   Price: R 1,349.00 ZAR
 - [The Bok Vellie](https://helloquality.co.za/products/the-bok-vellie): Named after our famous Discover classic style and refined comfort with The Bok vellie, crafted from oil-treated leather and designed to elevate any look for a sophisticated finish. Experience the pleasure of elegant leather vellies and add a touch of luxury to your wardrobe. ﻿Product Details: Oil-treated leather uppers Handstitched stitch down construction 2-way lace-up Soft padded leather footbed Crepe rubber outsoles
-  Updated: 2026-01-25T19:12:40Z
+  Updated: 2026-03-13T23:54:48Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boots
   Availability: Available
@@ -1907,7 +1893,7 @@
     Availability: Available
     Price: R 2,999.00 ZAR
 - [Dural Jodhpur Boots](https://helloquality.co.za/products/dural-men): Indulge in luxury with the 'Dural' jodhpur boots. Hand crafted in South Africa, these exquisite leather boots offer unparalleled elegance and quality. Perfect for any occasion, the Dural boots make a statement of sophistication and refinement. Elevate your wardrobe with these one-of-a-kind boots. Product Details: Unisex Bovine leather Leather lined Soft padded footbed Sturdy YKK zip Durable rubber soles
-  Updated: 2026-02-07T01:14:06Z
+  Updated: 2026-03-17T11:30:27Z
   Vendor: Hello Quality Equestrian
   Product Type: Jodhpur Boots
   Availability: Available
@@ -3123,7 +3109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/4D9A9497_94a6b544-e08c-4d98-b3ef-8ef98dd19ef5.jpg?v=1725883566
   Price: R 1,749.00 ZAR
 - [Lowana Two-tone](https://helloquality.co.za/products/lowana-two-tone): Experience ultimate comfort and style with the Lowana Two-tone soft leather gaiters. Crafted with premium leather, these gaiters provide a snug fit while offering protection and support for your legs. Perfect for outdoor activities, these gaiters are a must-have for any adventure seeker.
-  Updated: 2026-01-25T19:12:44Z
+  Updated: 2026-03-24T14:08:07Z
   Vendor: Hello Quality Equestrian
   Product Type: Leather Gaiters
   Availability: Available
@@ -3873,7 +3859,7 @@
     Availability: Available
     Price: R 8,599.00 ZAR
 - [Bonolo Contact Ladies Long Riding Boots](https://helloquality.co.za/products/bonolo-contact-ladies): Elevate your riding experience with Bonolo Contact. These premium long boots, made from full-grain bovine leather, provide superior comfort and durability. As a variant of the Bonolo Gen 2, these handcrafted boots from South Africa boast top-quality materials for an elegant and exclusive touch, the inside leg suede panels ensure your leg sticks to the saddle like glue. Product Details: Full-grain bovine leather uppers Interior Napa-leather lining Elastic gussets Sturdy rear YKK zipper Zip lock & guards Soft padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!
-  Updated: 2026-01-25T19:12:45Z
+  Updated: 2026-03-31T08:34:12Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -6646,7 +6632,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HelloQualityEquestria_shandcraftedleatherboots_cowboyboots_cusualwear_Stylishleatherbootsforeverydayuseandsport.MadeinCapeTownSouthAfrica_23.jpg?v=1723111786
   Price: R 5,529.00 ZAR
 - [Firoz Cowboy / Western Boots (Unisex)](https://helloquality.co.za/products/firoz-cowboy-boots): Discover the ultimate cowboy boots - Firoz. These boots are a must-have for western riders and polocrosse trainers alike. With their popularity in the industry, you can trust their quality and performance. Step into comfort and style with Firoz. This model is suitable for dressing up and can be made with or without Cuban heels and our very famous Rhodesian rending. Product Details Oil-treated leather uppers Soft leather lined Cushioned for comfort Rubber outsoles with grip Low heel 3,5cm
-  Updated: 2026-01-25T19:12:47Z
+  Updated: 2026-03-31T05:57:41Z
   Vendor: Hello Quality Equestrian
   Product Type: Cowboy Boots
   Availability: Available
@@ -6743,7 +6729,7 @@
     Availability: Available
     Price: R 2,559.00 ZAR
 - [Chukka Work Boots](https://helloquality.co.za/products/chukka-work-boots): Chukka Work leather boots are a sophisticated way to add a touch of style to any look. Crafted from luxury leather, these boots combine elegance and durability for fashion-forward footwear that will stay looking sharp no matter the terrain. For men who want a touch of sophistication and exclusivity, Chukka Work is the perfect choice.Product Details: Genuine Leather uppers Leather lining Soft padded leather foot-bed Handcrafted in SA
-  Updated: 2026-01-25T19:12:47Z
+  Updated: 2026-04-06T03:26:49Z
   Vendor: Hello Quality Equestrian
   Product Type: Work Boots
   Availability: Available
@@ -6762,308 +6748,6 @@
     Availability: Available
     Price: R 2,399.00 ZAR
 [List Continued](https://helloquality.co.za/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkyMzA5MzcxMDYzLCJsYXN0X3ZhbHVlIjoiNzc5MjMwOTM3MTA2MyJ9)
-
-## Collections
-
-- [Home page](https://helloquality.co.za/collections/horse-riding-boots-riding-boots-near-me-riding-boots-cape-town-hello-quality): Indulge in the sophisticated world of equestrianism with Hello Quality's premium brand. Crafted with exquisite attention to detail, our products provide the ultimate luxury for horse riders alike. Elevate your equestrian experience with Hello Quality Equestrian.
-  Updated: 2026-02-15T16:47:08Z
-  Total Products: 7
-- [Custom Gaiters](https://helloquality.co.za/collections/custom-gaiters-chaps-tack-shop): Gaiters are similar to half chaps in appearance as well as purpose. They are however made from smooth leather, as opposed to the suede or other materials used for half chaps. The smooth leather gives the gaiters a smart finish and disguises your short boots even more so. Due to the smart appearance, as well as the difference in price, gaiters are now frequently used for showing purposes.
-  Updated: 2025-11-06T17:27:50Z
-  Total Products: 3
-- [Custom Riding Boots](https://helloquality.co.za/collections/custom-boots-gaiters): Create the perfect fit for your riding needs with HQE Custom Riding Boots. These boots are tailored specifically for you, providing unmatched comfort and support for your equestrian adventures. Say goodbye to blisters and discomfort and say hello to a ride that feels like a dream. Expertly crafted to your exact specifications, our Custom Riding Boots combine superior quality and comfort for the ultimate equestrian experience. Made with the finest materials and tailored to your measurements, each pair is a perfect fit. Dominate the competition with confidence in your personalized boots. Long Riding boots help to enhance your control and connection with your horse, so  in your ride with Custom Riding Boots. Quick guide on how to measure for custom: measuring guide. For a quick no-obligation quote, please send your leg length & calf size with your quote request on any style of your choice.
-  Updated: 2026-01-20T13:41:03Z
-  Total Products: 29
-- [Smart Products Filter Index - Do not delete](https://helloquality.co.za/collections/globofilter-best--products-index)
-  Updated: 2026-03-10T11:15:24Z
-  Total Products: 510
-- [Gift Ideas](https://helloquality.co.za/collections/gift-ideas)
-  Updated: 2026-01-04T10:01:27Z
-  Total Products: 2
-- [Country boots](https://helloquality.co.za/collections/work-boots-and-the-country-boots): Introducing our luxurious Country boots, crafted for the refined and sophisticated individual. Made with the highest quality materials, these boots provide comfort and style for any countryside excursion. Elevate your outdoor adventures with our exclusive Country boots.
-  Updated: 2026-03-08T16:54:00Z
-  Total Products: 13
-- [Cowboy Boots](https://helloquality.co.za/collections/ready-to-wear-cowboy): Stride in Style: Cowboy Boot Collection Step into the Wild West with our Cowboy Boot Collection! Made with high-quality materials, these boots are perfect for any adventure. From rodeos to line dancing, these boots will keep you comfortable and stylish. Don't miss out on adding this must-have collection to your wardrobe! These are ready to ship and can be made to order if your size is not available. Please contact us!
-  Updated: 2026-01-28T12:12:01Z
-  Total Products: 24
-- [Work Boots](https://helloquality.co.za/collections/work-boots)
-  Updated: 2026-01-31T11:23:56Z
-  Total Products: 27
-- [Jodhpur Boots](https://helloquality.co.za/collections/jodhpur-boots): HQE Jodhpur boots will become an integral part of your daily activities. Whether you are seeking a pair for training or competition, you can always trust on HQE riding boots for comfort and durability.
-  Updated: 2026-03-10T11:15:24Z
-  Total Products: 31
-- [Midcalf & Long Boots](https://helloquality.co.za/collections/midcalf-long-boots)
-  Updated: 2026-02-13T12:13:20Z
-  Total Products: 18
-- [Pre-order HQE assorted luggage & accessories](https://helloquality.co.za/collections/accessories-updated): Welcome to Hello Quality Equestrian's Everyday Essentials Collection We understand that equestrian life is not just about riding, but about the little things that make a big difference. That's why we've curated a range of accessories designed to solve your everyday needs, from riding and grooming to horse care and travel. Our collection is built on the belief that great quality and style go hand in hand. Each piece is carefully crafted to provide functional solutions while elevating your equestrian style. Whether you're a seasoned pro or just starting, our Everyday Essentials Collection has everything you need to ride, care, and live confidently.
-  Updated: 2026-01-04T09:52:56Z
-  Total Products: 15
-- [Leather Care](https://helloquality.co.za/collections/leather-care-updated): Leather care is crucial to maintain the durability, appearance, and longevity of leather products, such as boots, shoes, and bags. Here are some key reasons why leather care is important: Protection: Leather care products create a barrier against water, dirt, and other harmful elements that can damage the leather. Conditioning: Leather care helps to keep the leather supple and soft, preventing it from drying out and cracking. Cleaning: Regular cleaning removes dirt and grime that can accumulate and cause damage. Preservation: Leather care helps preserve the natural oils and fibres in the leather, maintaining its strength and flexibility. Appearance: Proper leather care can restore and maintain the leather's original colour and finish, keeping it looking its best. Extended lifespan: Regular leather care can significantly extend the lifespan of leather products, making them last longer and perform better. Prevents cracking: Leather care helps prevent cracking and fading, keeping the leather looking healthy and vibrant. Enhances performance: Well-cared-for leather products perform better, providing better support, comfort, and durability. Remember, different types of leather require specific care products and techniques, so it's essential to choose the right products and follow the manufacturer's instructions and guidelines.
-  Updated: 2026-03-10T11:15:24Z
-  Total Products: 4
-- [Pre Order Men Jodhpur boots](https://helloquality.co.za/collections/men): A premium-selected collection of the most loved models in our product range. All items available on pre-order are made within 5 - 14 working days.
-  Updated: 2026-02-02T12:11:23Z
-  Total Products: 7
-- [Women's Pre-order jodhpur Boots](https://helloquality.co.za/collections/womens-pre-order): A premium-selected collection of the most loved models in our product range. All items available on pre-order are made within 5 - 14 working days.
-  Updated: 2025-11-06T17:27:51Z
-  Total Products: 6
-- [Pre-order ladies' Work Boots](https://helloquality.co.za/collections/women-pre-order): Introducing Hello Quality Equestrian's Ladies Work Boots Collection Designed for the hardworking woman who spends long hours in the saddle or on her feet, our range of ladies' work boots prioritizes whole-day comfort without compromising on style. Crafted with premium materials and attention to detail, our boots are built to keep up with your demanding equestrian lifestyle. From riding and grooming to working on the farm or stable, our boots provide the support, durability, and comfort you need to power through your day. Features of our Ladies Work Boots Collection include - Soft, breathable linings for reduced fatigue - Cushioned insoles for superior comfort - Durable outsoles for traction and stability - And stylish designs to keep you looking great. Whether you're a professional rider, equine professional, or simply a passionate horse owner, our Ladies Work Boots Collection has the perfect pair to keep you comfortable and confident all day long. Shop now and experience the Hello Quality Equestrian difference.
-  Updated: 2026-03-03T05:40:22Z
-  Total Products: 17
-- [Pre order Men work boots](https://helloquality.co.za/collections/mens-work-pre-order): Uncompromising Protection for the Modern Worker Our collection of men's work boots is designed for the hardworking individual who demands durability, comfort, and protection on the job site. Engineered to withstand the toughest conditions, our boots feature: - Reinforced toe caps - Padded ankle for comfort, stability and security. - Waterproof membranes to keep you dry in harsh environments. - High-quality materials for exceptional durability- Slip-resistant outsoles for traction on any terrain Whether you're on a construction site, in a warehouse, or tackling outdoor projects, our work boots have got you covered. With a focus on comfort, support, and protection, you can trust our boots to work as hard as you do. Browse our collection today and find the perfect pair to keep you safe and performing at your best.
-  Updated: 2026-03-03T05:39:55Z
-  Total Products: 18
-- [Pre-order kids Standard Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-kids): Introducing the FutureFit Collection. Give your child the gift of growing confidence in the saddle with our innovative FutureFit Kids' Long Riding Boots. Designed to adapt to their changing foot and leg size, these boots can be easily resized up to two to three sizes, extending their wearability and saving you money in the long run. With a focus on comfort, safety, and style, our FutureFit boots feature: - High-quality materials for durability and support - Adjustable lacing and elastic panels for a secure fit - Rear zipper for easy on-and-off - Resizable design to accommodate growing feet  in a pair that will keep up with your child's growth and passion for riding. Explore the FutureFit Collection today!
-  Updated: 2026-02-15T17:51:56Z
-  Total Products: 3
-- [Ladies Pre-order Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-ladies): Timeless Elegance for the Discerning Rider Introducing HQE's Standard Range of Long Riding Boots, expertly crafted for the classic equestrian look. This essential collection offers: - High-quality materials for durability and comfort- Traditional design with a sleek, sophisticated finish- Standard sizes for a comfortable, secure fit Available in a few versatile colours: To ensure you receive your preferred colour, please note your choice (Black, Brown / Navy) in the checkout notes. Our Standard Range Long Riding Boots are a wardrobe staple for any serious rider. Shop now and experience the perfect blend of style, comfort, and functionality.
-  Updated: 2026-03-03T05:40:22Z
-  Total Products: 13
-- [Pre-order Men Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-men): Ride with Confidence, Comfort, and Style At HQE, we believe that men's riding boots should combine fashion, function, and durability. Our collection is designed to provide a comfortable, secure fit and exceptional performance in the saddle. Our boots feature: - Sturdy YKK zips for reliable closure and ease of use- Stitched rubber outsoles for added strength and traction- High-quality materials for durability and comfort- Carefully crafted designs for a stylish, equestrian look Whether you're a seasoned rider or just starting out, our boots are designed to keep up with your passion for riding. With a focus on comfort, durability, and style, HQE has got you covered. Browse our collection today and find the perfect pair to elevate your riding experience.
-  Updated: 2026-03-03T05:39:55Z
-  Total Products: 7
-- [Demo Long Riding Boots Promo](https://helloquality.co.za/collections/may-): Browse our collection today and step up your style with our handcrafted leather boots on . Designed for comfort, durability, and timeless equestrian elegance, these boots offer exceptional value without compromising on quality.
-  Updated: 2026-03-08T16:51:35Z
-  Total Products: 89
-- [PRE-ORDER](https://helloquality.co.za/collections/pre-order): A premium-selected collection of the most loved models in our product range. All items available on pre-order are made within 5 - 14 working days.
-  Updated: 2026-03-08T11:16:18Z
-  Total Products: 97
-- [Pre-order Leather gaiters / Half Chaps](https://helloquality.co.za/collections/pre-order-leather-gaiters): Hello Quality's range of gaiters available on pre-order. All our gaiters are made from supple leather and can be worn by both sexes in exception to those with shiny details or embellishments
-  Updated: 2026-03-08T11:16:18Z
-  Total Products: 8
-- [Pre-order Kids Jodhpur Boots.](https://helloquality.co.za/collections/kids-jodhpur-boots): Safe Riding in the Saddle At HQE, we prioritize the safety and well-being of young riders. Our collection of kids' protective riding boots is designed to provide superior protection, support, and comfort in the stirrups. We understand that a proper fit is crucial for optimal safety and performance. That's why we offer a range of sizes and styles to ensure you find the perfect pair for your child. Our boots feature: - High-quality materials for durability and protection- Anatomical design for comfortable support- Slip-resistant soles for added stability Choose HQE for your child's riding boots and give them the confidence to ride with freedom. Select a pair that fits well, and let them take the reins with safety and style.
-  Updated: 2026-02-16T20:19:19Z
-  Total Products: 7
-- [Dressage Boots](https://helloquality.co.za/collections/dressage-boots): PRE-ORDER READY TO WEAR
-  Updated: 2025-11-06T17:27:52Z
-  Total Products: 2
-- [Showjumping Boots](https://helloquality.co.za/collections/showjumping-boots)
-  Updated: 2025-11-06T17:27:52Z
-  Total Products: 5
-- [Polo & Polocrosse Boots](https://helloquality.co.za/collections/polo-polocrosse-boots)
-  Updated: 2025-12-30T18:43:04Z
-  Total Products: 6
-- [Showing & Hunting Boots](https://helloquality.co.za/collections/showing-hunting-boots)
-  Updated: 2025-11-06T17:27:52Z
-  Total Products: 4
-- [Pre-order Leather Cowboy Boots](https://helloquality.co.za/collections/leather-cowboy-boots): Saddle Up with Authentic Style Immerse yourself in the spirit of the Wild West with our unique and authentic cowboy boots, where form, function, and local flair come together in perfect harmony. Handcrafted with precision and passion, our boots showcase: - Timeless designs inspired by the rugged beauty of the American frontier- High-quality materials and exceptional craftsmanship for durability and comfort- Distinctive details that reflect the character and charm of local heritage From rodeos to ranches, our cowboy boots are designed to keep up with your adventurous lifestyle while making a statement. Experience the authentic essence of the Wild West with every step. Browse our collection today and discover your perfect pair.
-  Updated: 2026-01-03T15:28:35Z
-  Total Products: 21
-- [New arrival](https://helloquality.co.za/collections/new-arrival)
-  Updated: 2026-03-08T16:53:02Z
-  Total Products: 21
-- [Polo Boots](https://helloquality.co.za/collections/polo-boots)
-  Updated: 2026-01-02T16:22:53Z
-  Total Products: 7
-- [Bespoke Designs](https://helloquality.co.za/collections/bespoke-designs): Discover the perfect blend of customization and luxury with our customer-designed riding boots. Each pair is uniquely crafted to showcase your personal style and elevate your wardrobe. With a sense of exclusivity, these boots are a must-have for any equestrian enthusiast.
-  Updated: 2025-11-06T17:27:53Z
-  Total Products: 0
-- [Hot New Favourites](https://helloquality.co.za/collections/hot-new-favourite): Shop our hot new favourite items online!
-  Updated: 2026-02-12T16:57:01Z
-  Total Products: 21
-- [Kids Riding Boots](https://helloquality.co.za/collections/kids-riding-boots): PRE-ORDER CHILDREN RIDING BOOTS - Typically ready between 7 - 14 working days.
-  Updated: 2026-02-16T20:07:51Z
-  Total Products: 6
-- [Kids Jodhpur Boots](https://helloquality.co.za/collections/kids-jodhpur-boots-1)
-  Updated: 2026-02-16T20:19:19Z
-  Total Products: 10
-- [Kids Riding boots](https://helloquality.co.za/collections/kids-riding-boots-1): Kids Riding boots collection with paddock boots, showing boots and long riding boots for children up to size 3
-  Updated: 2026-02-16T20:19:19Z
-  Total Products: 9
-- [Gaiter Combo Special](https://helloquality.co.za/collections/gaiter-combo-special): Enjoy 20% Off when you order a combination of gaiters and short riding boots.
-  Updated: 2026-03-08T11:16:18Z
-  Total Products: 8
-- [Custom Add On](https://helloquality.co.za/collections/custom-add-on)
-  Updated: 2026-01-20T08:06:52Z
-  Total Products: 12
-- [Pre-order Country Boots](https://helloquality.co.za/collections/pre-order-country-boots): Shop HQE country boots available on pre-order
-  Updated: 2026-02-28T09:51:36Z
-  Total Products: 14
-- [Best  Products](https://helloquality.co.za/collections/best--products)
-  Updated: 2026-03-10T11:15:24Z
-  Total Products: 510
-- [New Leather Riding Boots | Hello Quality Equestrian](https://helloquality.co.za/collections/new-leather-riding-boots-arrivals): Shop new leather riding boots by Hello Quality Equestrian. Handcrafted in South Africa from full grain leather. Explore latest arrivals, ready-to-wear.
-  Updated: 2026-03-10T11:15:24Z
-  Total Products: 510
-- [The Chapungu Range](https://helloquality.co.za/collections/the-chapungu-range): Our newest range Chapungu riding boots
-  Updated: 2025-12-09T22:14:01Z
-  Total Products: 0
-- [Foot Ad ons](https://helloquality.co.za/collections/foot-ad-ons)
-  Updated: 2026-01-19T20:11:23Z
-  Total Products: 15
-- [Pre-Order | Junior Riders Standard Long Riding Boots](https://helloquality.co.za/collections/junior-riders-standard-long-riding-boots): Built for young riders ready to ride with confidence, our Junior Riders Standard Long Riding Boots combine elegant design with everyday performance. Crafted from premium leather and produced using our trusted standard fit system, these boots provide the support, comfort, and durability developing riders need in the saddle. Available on pre-order, each pair is freshly made to ensure consistent quality and a refined riding silhouette — perfect for training, competition, and the growing rider’s journey. Designed to Grow With Your RiderAll HQE boots can be professionally resized, allowing adjustments as young riders grow while maintaining proper fit, comfort, and performance. It’s a long-term  built to last beyond a single season. Why Choose Pre-Order• Extended junior sizing availability• Newly crafted boots made for your order• HQE standard fit precision• Fully resizable construction for growing riders• Ideal for the upcoming riding season Confidence starts with the right fit — from the very first ride.
-  Updated: 2026-02-13T18:08:02Z
-  Total Products: 2
-- [Kids Gaiters / Half chaps](https://helloquality.co.za/collections/kids-gaiters-half-chaps): Smart, practical, and rider- — our Kids Leather Gaiters give young riders the look and feel of tall boots with added flexibility and comfort. A perfect stepping stone before custom or full riding boots.
-  Updated: 2026-02-16T20:07:51Z
-  Total Products: 2
-- [Standard Youth Gaiters](https://helloquality.co.za/collections/standard-youth-gaiters): Our Standard Youth Gaiters are designed for young riders seeking comfort, support, and a smart competition-ready look. Made from quality leather and shaped for developing leg proportions, they provide the appearance and stability of tall boots while offering greater flexibility for everyday riding. Perfect for schooling, training, and competition, youth gaiters pair easily with paddock boots and follow the HQE standard sizing system for a secure and reliable fit. Key Features: Youth-specific ergonomic fit Durable leather construction Comfortable, supportive leg contact Easy zip closure for everyday use Designed to grow with transitioning riders If your measurements fall outside the standard range, our Custom Fit option offers a precision alternative.
-  Updated: 2026-02-15T19:08:34Z
-  Total Products: 2
-
-## Blogs
-
-- [News](https://helloquality.co.za/blogs/news)
-  - [HOW TO KEEP YOUR BOOTS IN SHOW CONDITION THE HELLO QUALITY WAY!](https://helloquality.co.za/blogs/news/hqe-1st-blog-how-to-keep-your-boots-clean-cleaning-riding-boots)
-    Updated: 2022-03-11T07:41:30Z
-    Author: Hello Quality
-  - [Custom Riding Boots South Africa | Hello Quality Equestrian](https://helloquality.co.za/blogs/news/custom-riding-boots-south-africa-your-perfect-fit): Custom Riding Boots South Africa | Hello Quality Equestrian
-    Updated: 2026-01-30T15:53:59Z
-    Author: Hello Quality
-    Tags: Horse riding boots SA, Riding boots
-  - [Custom Riding Boots South Africa | Hello Quality Equestrian](https://helloquality.co.za/blogs/news/custom-riding-boots-your-perfect-fit-awaits): Custom Riding Boots South Africa | Hello Quality Equestrian
-    Updated: 2026-01-27T20:48:52Z
-    Author: Hello Quality
-- [Quality Equestrian’s](https://helloquality.co.za/blogs/quality-equestrian-s)
-  - [Quality Equestrian’s](https://helloquality.co.za/blogs/quality-equestrian-s/quality-equestrian-s)
-    Updated: 2021-07-05T15:47:51Z
-    Author: Hello Quality
-
-## Store Pages
-
-- [About us](https://helloquality.co.za/pages/about-us): About Hello Quality Equestrian Founded in 2014, Hello Quality Equestrian (HQE) is a family-owned brand dedicated to the design and manufacture of a...
-  Updated: 2026-01-17T11:50:17Z
-- [Ambassadors](https://helloquality.co.za/pages/ambassadors)
-  Updated: 2021-07-02T13:27:13Z
-- [Custom Boots Order Form](https://helloquality.co.za/pages/return-policy): Customise your boots . HQE offers 6 standard options for custom boots, clients have an option of choosing a colour outside our standard range, howe...
-  Updated: 2022-03-10T09:07:45Z
-- [Terms & Conditions](https://helloquality.co.za/pages/terms-conditions)
-  Updated: 2021-07-03T06:28:29Z
-- [Custom Gaiters](https://helloquality.co.za/pages/custom-gaiters): It is very quick and easy to order custom gaiters, all you do is fill in the order form below and send it to us. We revert to you with a quote with...
-  Updated: 2022-03-19T07:45:34Z
-- [HQE LEATHER](https://helloquality.co.za/pages/hqe-leather): HQE offers 6 standard options for custom boots, clients have an option of choosing a colour outside our standard range, however it comes with a s...
-  Updated: 2022-01-30T12:57:31Z
-- [How To Measure For Custom Boots](https://helloquality.co.za/pages/hqe-order-process): Please click below to access CUSTOM BOOTS MEASURING GUIDE & CUSTOM BOOTS ORDER FORM.Hello Quality Equestrian is proud to offer the service of made ...
-  Updated: 2023-02-13T17:11:45Z
-- [Custom Gaiters Size Guide](https://helloquality.co.za/pages/custom-gaiters-size-guide): EXAMPLE 38cm length & 36cm calf = Medium-short
-  Updated: 2021-09-10T13:03:28Z
-- [Hello Quality Equestrian Custom Boots Measuring Guide](https://helloquality.co.za/pages/custom-boots-measuring-guide): 
-  Updated: 2023-07-20T18:03:21Z
-- [Meet the Brand Ambassadors..](https://helloquality.co.za/pages/ambassador): Get to know Cass & Jump Jet Cassidy Clarke: What an incredible journey it has been with my best four-legged friend “Jump Jet” Together we started i...
-  Updated: 2021-07-24T13:15:19Z
-- [Privacy Policy](https://helloquality.co.za/pages/privacy-policy): This Privacy Policy describes how www.helloquality.co.za ,collects uses, and discloses your Personal Information when you visit or make a purchase ...
-  Updated: 2021-08-31T16:41:04Z
-- [Return Policy](https://helloquality.co.za/pages/return-policy-1): We have a 14-day return policy, which means you have 14 days after receiving your item to request a return. To be eligible for a return, your item ...
-  Updated: 2023-07-26T19:27:18Z
-- [HTML sitemap](https://helloquality.co.za/pages/avada-sitemap): Products Rosa sheep skin Dark Brown Delight Brogue Bonolo Hybrid Drassage Patent Leather Boots Gaiters & Jodhpur Combo Namaste Tow-tone Delight Hyb...
-  Updated: 2022-03-02T17:13:59Z
-- [HTML sitemap for articles](https://helloquality.co.za/pages/avada-sitemap-articles): Blog Posts Quality Equestrian’s HOW TO KEEP YOUR BOOTS IN SHOW CONDITION THE HELLO QUALITY WAY! .avada-sitemap-row { margin-bottom: 2rem; } .avada-...
-  Updated: 2022-02-11T11:02:50Z
-- [HTML sitemap for blogs](https://helloquality.co.za/pages/avada-sitemap-blogs): Blogs News Quality Equestrian’s .avada-sitemap-row { margin-bottom: 2rem; } .avada-sitemap-row a { color: inherit; } .avada-sitemap-row > h3 { marg...
-  Updated: 2022-02-11T11:02:50Z
-- [HTML sitemap for pages](https://helloquality.co.za/pages/avada-sitemap-pages): Pages HTML sitemap for products HTML sitemap for collections HTML sitemap for pages HTML sitemap for blogs HTML sitemap for articles HTML sitemap R...
-  Updated: 2022-02-11T11:02:50Z
-- [HTML sitemap for collections](https://helloquality.co.za/pages/avada-sitemap-collections): Collections Available Stock Children's Boots Custom Boots Custom Gaiters Custom Riding Boots Dressage Boots Everyday Training Boots Home page Jodhp...
-  Updated: 2022-02-11T11:02:50Z
-- [HTML sitemap for products](https://helloquality.co.za/pages/avada-sitemap-products): Products Rosa sheep skin Dark Brown Delight Brogue Bonolo Hybrid Drassage Patent Leather Boots Gaiters & Jodhpur Combo Namaste Tow-tone Delight Hyb...
-  Updated: 2022-03-02T17:13:59Z
-- [Custom Boots order form](https://helloquality.co.za/pages/custom-boots-order-form)
-  Updated: 2023-05-18T10:32:35Z
-- [Contact marketing/partnerships](https://helloquality.co.za/pages/contact-marketing-partnerships)
-  Updated: 2023-05-18T10:32:05Z
-- [Contact Us](https://helloquality.co.za/pages/contact-us-page): If value is at the core of your desires, HQE is just a phone call away! Cell: (+27) 078 867 7666 Email: sales@helloquality.co.za Visit Hello Qualit...
-  Updated: 2025-10-30T20:03:23Z
-- [pre-order form](https://helloquality.co.za/pages/pre-order-form)
-  Updated: 2023-05-18T10:31:22Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-1)
-  Updated: 2023-04-24T10:40:54Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-2)
-  Updated: 2023-04-24T10:43:23Z
-- [SC-RAQ-QUOTE-LIST](https://helloquality.co.za/pages/sc-raq-quote-list)
-  Updated: 2023-04-27T13:57:31Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-3)
-  Updated: 2023-04-28T11:28:47Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-4)
-  Updated: 2023-04-28T12:27:56Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-5)
-  Updated: 2023-04-28T12:32:01Z
-- [calendar](https://helloquality.co.za/pages/calendar)
-  Updated: 2023-05-14T15:57:53Z
-- [calendar](https://helloquality.co.za/pages/calendar-1)
-  Updated: 2023-05-14T15:57:54Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-6)
-  Updated: 2023-05-16T10:30:24Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-7)
-  Updated: 2023-05-16T10:31:36Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-8)
-  Updated: 2023-05-16T10:35:15Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-9)
-  Updated: 2023-05-16T10:43:57Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-10)
-  Updated: 2023-05-16T11:25:38Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-11)
-  Updated: 2023-05-16T11:26:17Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-12)
-  Updated: 2023-05-16T12:18:40Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-13)
-  Updated: 2023-05-16T12:22:20Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-14)
-  Updated: 2023-05-16T13:19:02Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-15)
-  Updated: 2023-05-16T15:06:46Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-16)
-  Updated: 2023-05-16T15:09:06Z
-- [custom-boots-order form](https://helloquality.co.za/pages/custom-boots-order-form-17)
-  Updated: 2023-05-18T10:30:51Z
-- [Shoe Repair & Alteration Online](https://helloquality.co.za/pages/our-shoe-repair-services): Thank you very much for your interest in our 'Boot Repair & Alteration' service. Please fill in the brief form below and we'll contact you to discu...
-  Updated: 2024-07-05T18:03:14Z
-- [Request for quote](https://helloquality.co.za/pages/request-for-quote)
-  Updated: 2023-11-09T16:57:42Z
-- [Quote history](https://helloquality.co.za/pages/quotes-history)
-  Updated: 2023-11-09T16:57:42Z
-- [HQE LEATHER FOOTWEAR](https://helloquality.co.za/pages/hqe-leather-footwear): EQUESTRIAN FOOTWEAR We have a vast range of footwear to suit all your equestrian needs, whether it is riding boots for competition or schooling, ve...
-  Updated: 2024-02-15T14:31:20Z
-- [Appointment Booking](https://helloquality.co.za/pages/appointment-booking)
-  Updated: 2024-03-11T19:12:05Z
-- [Product Disclaimer](https://helloquality.co.za/pages/product-disclaimer): Leather Product Please be aware that because leather is a natural material, slight discolouration, blemishes, imperfections, scratches, or changes ...
-  Updated: 2024-05-18T16:21:27Z
-- [Disclaimer on Repairs and alterations](https://helloquality.co.za/pages/disclaimer-on-repairs-and-alterations): *Disclaimer: Repair and Alteration of all Leather Equestrian Products* By leaving your leather equestrian product with us for repair or alteration,...
-  Updated: 2024-05-18T16:31:02Z
-- [Size Chart Infants](https://helloquality.co.za/pages/size-chart-infants): Please See Below the Size Chart reference for all sizes. Toddler Shoe Sizes (2 to 5 Years) There’s nothing cuter than tiny shoes for tiny humans, b...
-  Updated: 2025-08-08T17:48:33Z
-- [Size Chart Kids](https://helloquality.co.za/pages/size-chart-kids): Kids Shoe Size Chart (5 years - 8 years) If you’re not sure what size pair of HQE boots or shoes to add to your cart, you can consult the SA/UK sho...
-  Updated: 2024-06-17T20:33:35Z
-- [Size Chart Women](https://helloquality.co.za/pages/size-chart-women): Shoe Size Chart Women Size conversion between the US, EU, and UK/SA may initially seem overwhelming. But when it comes to women’s shoes, US sizes a...
-  Updated: 2024-06-18T19:47:47Z
-- [Size Chat Men](https://helloquality.co.za/pages/size-chat-men): Shoes Size Chart Men Whether you’re looking for men’s sandals, shoes, or a pair of riding boots, getting the right fit for your feet is an importan...
-  Updated: 2024-06-17T20:37:47Z
-- [FAQs](https://helloquality.co.za/pages/pushdaddy-faq-1): Your FAQ content here
-  Updated: 2024-06-20T18:03:14Z
-- [Standard Guide](https://helloquality.co.za/pages/standard-long-boots-guide): Long Riding Boots Standard Guide Three essential parts of the leg need to be measured to get the right fit. To achieve this, please use the guide b...
-  Updated: 2024-08-24T17:34:28Z
-- [Customer Reviews - Hello Quality](https://helloquality.co.za/pages/customer-reviews): 
-  Updated: 2024-06-28T11:27:00Z
-- [Shoe Size Chart (All Sizes)](https://helloquality.co.za/pages/shoe-size-chart-all-sizes): Size conversion between the US, EU, and UK/SA may seem overwhelming. However, when it comes to shoes and boots, getting the right fit does require ...
-  Updated: 2025-08-08T17:45:40Z
-- [Standard Gaiters Guide](https://helloquality.co.za/pages/standard-gaiters-guide): Long Riding Boots Standard Guide Three essential parts of the leg need to be measured to get the right fit. To achieve this, please use the guide b...
-  Updated: 2025-04-04T19:09:03Z
-- [End of year ](https://helloquality.co.za/pages/closingsale): HOW TO ORDER 01. Choose a pair Scroll on different products and collections to get a pair available in your size and add to cart or buy now. 02. Ge...
-  Updated: 2025-12-28T08:06:44Z
-- [Promo Page](https://helloquality.co.za/pages/promo-page)
-  Updated: 2024-12-15T19:52:32Z
-- [ Dashboard](https://helloquality.co.za/pages/)
-  Updated: 2025-06-13T18:55:05Z
-- [End of Year ](https://helloquality.co.za/pages/end-of-year-)
-  Updated: 2025-12-29T16:12:25Z
-- [Repairs & Alterations Service](https://helloquality.co.za/pages/repairs-alterations-service)
-  Updated: 2026-01-17T12:46:58Z
-- [HQE LEATHER OPTIONS](https://helloquality.co.za/pages/hqe-leather-options)
-  Updated: 2026-01-17T16:21:44Z
-- [Custom Leather Riding Boots - Hello Quality](https://helloquality.co.za/pages/696e5870a0fc58c90f069ce2): 
-  Updated: 2026-02-03T21:12:22Z
-
-## Policies
-
-- [Privacy Policy](https://helloquality.co.za/policies/privacy-policy)
-  Updated: 2023-07-26T19:47:48+02:00
-- [Shipping Policy](https://helloquality.co.za/policies/shipping-policy)
-  Updated: 2023-07-26T19:50:57+02:00
-- [Refund Policy](https://helloquality.co.za/policies/refund-policy)
-  Updated: 2024-07-13T23:59:02+02:00
-- [Terms of Service](https://helloquality.co.za/policies/terms-of-service)
-  Updated: 2023-07-26T19:47:48+02:00
-- [Contact Information](https://helloquality.co.za/policies/contact-information)
-  Updated: 2023-07-26T19:50:57+02:00
 
 ## Optional
 
