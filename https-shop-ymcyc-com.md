@@ -6,96 +6,96 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-08T14:26:58Z
 - Contact Email: hello@ymcyc.com
-- Updated At: 2026-04-04T19:38:44.246Z
+- Updated At: 2026-04-12T00:00:22.870Z
 
 ## Products
 
-- [Retro Vibes – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/retro-vibes-100-climbs-edition-din-a1): Throwback meets Peak Performance! Die „Retro Vibes“ Edition im Vintage-Style macht aus deinem Poster ein Kunstwerk. Die große „100“ in der Mitte bringt den Look auf den Punkt, während die legendären Anstiege rundherum nach Höhenmetern sortiert sind. Auf dem hochwertigen Offset Naturpapier kannst du zeigen, welche Berge du schon gerockt hast – und welche als nächstes dran sind.
-  Updated: 2026-02-21T15:03:25Z
+- [Retro Vibes – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/retro-vibes-100-climbs-edition-din-a1): 100 legendäre Climbs im Retro-Design als DIN A1 Poster. Vintage-Farbpalette trifft präzise Steigungsdaten. Für Rennradfahrer mit Stilgefühl.
+  Updated: 2026-04-08T10:55:48Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/retro-vibes-100-climbs-edition-din-a1-359749.jpg?v=1731875654
   Price: 42,00 € EUR
-- [Epic Climbs – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/epic-climbs-black-edition-din-a1): Setz ein Statement an deiner Wand! Unser „Epic Climbs“ Poster in der Black Edition zeigt die 100 legendärsten Anstiege Europas in cleanem Weiß auf sattem Schwarz. Stylisch und funktional: Auf dem hochwertigen Offset Naturpapier kannst du deine absolvierten Climbs abhaken und gleichzeitig deine Ziele im Blick behalten. Für alle, die sich vom nächsten großen Abenteuer inspirieren lassen wollen.
-  Updated: 2026-02-21T15:03:25Z
+- [Epic Climbs – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/epic-climbs-black-edition-din-a1): 100 Climbs auf tiefem Schwarz. Das DIN A1 Poster für alle, die es dunkel und episch mögen. Alle Steigungsdaten, minimalistisches Design.
+  Updated: 2026-04-04T20:13:42Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/epic-climbs-black-edition-din-a1-940563.jpg?v=1731875655
   Price: 42,00 € EUR
-- [Climb Goals – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/pure-data-100-climbs-edition-din-a1): Minimalismus meets Bergkult: Die „Pure Edition“ bringt Klarheit und Style in deine vier Wände. Die 100 ikonischen Climbs in schwarz-weißem Look, geordnet nach Höhenmetern – perfekt für alle, die auf Übersicht und Ästhetik stehen. Mit 250 g/m² Offset Naturpapier ist das Poster bereit für deine Markierungen. Erklimm die Liste und setze dir neue Ziele!
-  Updated: 2026-03-01T16:20:45Z
+- [Climb Goals – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/pure-data-100-climbs-edition-din-a1): 100 legendäre Rennrad-Anstiege auf purem Weiß. Minimalistisches DIN A1 Poster mit Steigungsdaten und Platz für persönliche Notizen.
+  Updated: 2026-04-04T20:13:19Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/climb-goals-pure-data-edition-din-a1-987766.jpg?v=1731875652
   Price: 42,00 € EUR
-- [Polka Power – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/polka-power-king-of-the-mountain-edition-din-a1): Tribut an die Könige der Berge! Die „Polka Power“ Edition mit dem ikonischen Punktmuster ist ein Muss für alle, die auf Bergtrikots und epische Höhenmeter stehen. Die Top 100 Climbs der Welt, ready für deine persönlichen Markierungen. Gedruckt auf stabilem 250 g/m² Offset Naturpapier, lässt dieses Poster dich deine Erfolge feiern und deine nächsten Kletterziele festhalten.
-  Updated: 2026-02-21T15:03:25Z
+- [Polka Power – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/polka-power-king-of-the-mountain-edition-din-a1): 100 Climbs im Bergtrikot-Design als DIN A1 Poster. Gepunkteter Hingucker mit allen Steigungsdaten. Für echte King-of-the-Mountain-Fans.
+  Updated: 2026-04-04T20:12:49Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/polka-power-king-of-the-mountain-edition-din-a1-862830.jpg?v=1731875652
   Price: 42,00 € EUR
-- [Vintage Fifty – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/vintage-fifty-retro-edition-din-a2): Ein Hauch Nostalgie für echte Climbingfans! Die „Vintage Fifty“ Edition zeigt die legendären 50 Climbs in einem lässigen Retro-Look. Die große „50“ in der Mitte zieht alle Blicke auf sich – und mit jedem abgehakten Anstieg wird dieses Poster zu deinem ganz persönlichen Klettertagebuch. Hochwertig gedruckt und immer bereit für dein nächstes Ziel.
-  Updated: 2026-02-21T15:03:25Z
+- [Vintage Fifty – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/vintage-fifty-retro-edition-din-a2): 50 Rennrad-Anstiege im Retro-Look als DIN A2 Poster. Vintage-Ästhetik trifft präzise Climb-Daten. Zeitloser Wandschmuck für Radfahrer.
+  Updated: 2026-04-10T08:41:46Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/vintage-fifty-retro-edition-din-a2-829363.jpg?v=1731875653
   Price: 36,00 € EUR
-- [Dotty Dreams – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/dotty-dreams-50-climbs-edition-din-a2): Bergfieber trifft Polka Dot! Die „Dotty Dreams“ Edition ist dein täglicher Motivator, inspiriert vom Bergtrikot der großen Rundfahrten. Die Top 50 Climbs, ready für deine persönlichen Markierungen. Gedruckt auf 250 g/m² Offset Naturpapier, macht dieses Poster Lust auf neue Höhenmeter und bringt Style in dein Zuhause.
-  Updated: 2026-03-09T17:39:16Z
+- [Dotty Dreams – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/dotty-dreams-50-climbs-edition-din-a2): 50 legendäre Climbs im Dotty-Design als DIN A2 Poster. Verspielt, datenreich und ideal als Geschenk für Rennrad-Enthusiasten.
+  Updated: 2026-04-04T20:11:58Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/dotty-dreams-50-climbs-edition-din-a2-358403.jpg?v=1731875654
   Price: 36,00 € EUR
-- [50 Must-Rides – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/50-must-rides-black-compact-edition-din-a2): Stylisch, kompakt und voller Power: Die „Black Compact Edition“ zeigt die 50 krassesten Anstiege weltweit auf schwarzem Hintergrund. Mit weißem Text und minimalistischer Gestaltung sieht’s nicht nur gut aus, sondern lässt dir Platz, deine Berg-Erfolge abzuhaken. Für alle, die ihre Ziele im Auge behalten und das nächste Abenteuer planen wollen.
-  Updated: 2026-02-21T15:03:26Z
+- [50 Must-Rides – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/50-must-rides-black-compact-edition-din-a2): 50 Must-Ride Climbs auf schwarzem DIN A2 Poster. Kompaktes Design mit allen Steigungsdaten. Perfekt für Rennradfahrer mit großen Zielen.
+  Updated: 2026-04-04T20:11:34Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/50-must-rides-black-compact-edition-din-a2-809322.jpg?v=1739180338
   Price: 36,00 € EUR
-- [Finisher-Stickerbogen Dusty Rose für Climb Poster](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-dusty-rose): Climb Stickerbogen 100 Dusty Rose. Ideal zur Markierung bereits gemeisterter Anstiege. Die perfekte Ergänzung für gerahmte aber auch ungerahmte Poster.
-  Updated: 2026-03-09T17:39:16Z
+- [Climb Finisher-Sticker Dusty Rose (100 Stk.)](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-dusty-rose): 100 Finisher-Sticker in Dusty Rose für dein Climb-Poster. Perfekt auf helle Poster abgestimmt. Recyclingpapier, vorgestanzt, DIN A4.
+  Updated: 2026-04-05T08:16:33Z
   Vendor: YMCYC
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/legendary-climbs-stickerbogen-100-sticker-122531.jpg?v=1766839736
   Price: 12,00 € EUR
-- [Black & White 50 – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/black-white-50-classic-edition-din-a2-poster): Reduktion auf das Wesentliche: Die „Black &amp; White 50: Classic Edition“ zeigt 50 legendäre Anstiege in schlichter Schwarz-Weiß-Ästhetik.
-  Updated: 2026-02-21T15:03:26Z
+- [Black & White 50 – Radsport Poster (DIN A2) | 50 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/black-white-50-classic-edition-din-a2-poster): Die 50 wichtigsten Rennrad-Pässe Europas als DIN A2 Poster. Mit Steigungsprofilen und Daten. Die Bucket List für dein Wohnzimmer.
+  Updated: 2026-04-04T20:10:53Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/black-white-50-classic-edition-din-a2-poster-4434119.jpg?v=1762832394
   Price: 36,00 € EUR
-- [Black & White 100 – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/black-white-100-grand-tour-edition-din-a1-poster): Die volle Distanz: Die „Grand Tour Edition“ vereint 100 der legendärsten Anstiege Europas – klar strukturiert, schwarz auf weiß, im großzügigen DIN A1 Format.
-  Updated: 2026-02-28T15:19:56Z
+- [Black & White 100 – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/black-white-100-grand-tour-edition-din-a1-poster): 100 legendäre Rennrad-Anstiege als minimalistisches DIN A1 Poster. Steigungsdaten, Höhenmeter, Bucket List zum Abhaken. Designed in München.
+  Updated: 2026-04-09T14:35:35Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/black-white-100-grand-tour-edition-din-a1-poster-4822026.jpg?v=1762832398
   Price: 42,00 € EUR
-- [Finisher-Stickerbogen Carbon Black für Climb Poster](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-carbon-black): Kaufe die Carbon Black Sticker für dein Climb Poster. Perfekt zum Markieren deiner Pässe auf Glas.
-  Updated: 2026-02-21T15:03:26Z
+- [Climb Finisher-Sticker Carbon Black (100 Stk.)](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-carbon-black): 100 Finisher-Sticker in Carbon Black für dein Climb-Poster. Ideal für gerahmte Poster mit Glas. Recyclingpapier, vorgestanzt, DIN A4.
+  Updated: 2026-04-05T08:16:54Z
   Vendor: YMCYC
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/legendary-climbs-stickerbogen-100-sticker-8469601.jpg?v=1766841495
   Price: 12,00 € EUR
-- [Finisher-Stickerbogen Light Rose für Climb Poster](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-light-rose): Setze subtile, stilvolle Akzente. Die Light Rose Edition kombiniert sanfte Farbtöne mit klarem weißen Hintergrund. 100 Sticker zum Abhaken.
-  Updated: 2026-03-01T16:20:46Z
+- [Climb Finisher-Sticker Light Rose (100 Stk.)](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-light-rose): 100 Finisher-Sticker in Light Rose für dein Climb-Poster. Zarte Farbgebung für helle Designs. Recyclingpapier, vorgestanzt, DIN A4.
+  Updated: 2026-04-05T08:16:13Z
   Vendor: YMCYC
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/sticker-curved-light.jpg?v=1766867003
   Price: 12,00 € EUR
-- [Finisher-Stickerbogen Summit White für Climb Poster](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-summit-white): Lass deine Meilensteine auf allen Hintergründen strahlen. Der Stickerbogen in Summit White ist die Lösung, um persönliche Bergchronik hervorzuheben.
-  Updated: 2026-02-21T15:03:26Z
+- [Climb Finisher-Sticker Summit White (100 Stk.)](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-summit-white): 100 Finisher-Sticker in Summit White für dein Climb-Poster. Minimalistisch auf dunklen Designs. Recyclingpapier, vorgestanzt, DIN A4.
+  Updated: 2026-04-05T08:15:50Z
   Vendor: YMCYC
   Product Type: Sticker
   Availability: Available
@@ -104,23 +104,23 @@
 
 ## Collections
 
-- [Epic Black](https://shop.ymcyc.com/collections/epic-black): Für alle, die es stilvoll und mutig lieben: Die Epic Black Collection vereint die ikonischsten Anstiege der Welt in einem kraftvollen Design. Mit tiefschwarzem Hintergrund und prägnantem weißen Text setzt diese Kollektion ein starkes Statement an deiner Wand. Jedes Poster ist nicht nur eine Hommage an die legendärsten Climbs, sondern auch ein persönliches Tagebuch deiner Erfolge. Auf hochwertigem Offset Naturpapier gedruckt und bereit für deine Markierungen – die Epic Black Collection inspiriert dich, über deine Grenzen zu gehen und neue Gipfel zu erklimmen. Hol dir die ultimative Challenge nach Hause und feiere jeden Höhenmeter mit Style.
-  Updated: 2026-02-21T15:03:25Z
+- [Epic Black](https://shop.ymcyc.com/collections/epic-black): Climb-Poster auf tiefem Schwarz: intensiv, markant, unverwechselbar. 100 legendäre Anstiege mit allen Daten. Für die dunkle Seite.
+  Updated: 2026-04-05T10:28:56Z
   Total Products: 2
-- [Pure White](https://shop.ymcyc.com/collections/pure-white): Klar, clean und voller Abenteuerlust: Die Pure White Collection bringt die Faszination der höchsten Anstiege in einem minimalistischen Weiß-Schwarz-Design direkt zu dir. Perfekt für alle, die eine ästhetische und übersichtliche Darstellung schätzen, vereinen die Poster dieser Kollektion ikonische Climbs, geordnet nach Höhenmetern, auf hochwertigem Offset Naturpapier. Halte fest, welche Berge du bereits erobert hast, und setze dir neue Ziele – die Pure White Collection ist der perfekte Begleiter für deinen Weg zu den Gipfeln und macht sich dabei einfach nur gut an deiner Wand.
-  Updated: 2026-03-10T11:40:03Z
+- [Pure White](https://shop.ymcyc.com/collections/pure-white): Climb-Poster auf purem Weiß: minimalistisch, klar, zeitlos. 50 oder 100 Anstiege mit Steigungsdaten. Die ruhige Variante für deine Wand.
+  Updated: 2026-04-10T11:33:52Z
   Total Products: 7
-- [50 Essential Climbs](https://shop.ymcyc.com/collections/50-essential-climbs): Kompakt, stylisch und auf das Wesentliche fokussiert: Die DIN A2 Poster bieten dir eine handliche Übersicht der 50 bedeutendsten Climbs. Halb so groß wie das DIN A1 Format, ist diese Größe ideal für kleinere Räume oder eine dezente Präsentation deiner Kletterziele. Die sorgfältige Auswahl der 50 wichtigsten Anstiege gibt dir genug Inspiration für neue Abenteuer und lässt sich gleichzeitig praktisch und platzsparend in Szene setzen. Das DIN A2 Format ist der perfekte Begleiter für alle, die sich auf die wesentlichen Highlights konzentrieren möchten.
-  Updated: 2026-03-10T11:40:03Z
+- [50 Essential Climbs](https://shop.ymcyc.com/collections/50-essential-climbs): Die 50 wichtigsten Rennrad-Pässe als DIN A2 Poster. Von Galibier bis Mortirolo — kompakt, datenreich, ab 36 €. Designed in München.
+  Updated: 2026-04-10T11:33:52Z
   Total Products: 4
-- [100 Legendary Climbs](https://shop.ymcyc.com/collections/100-legendary-climbs): Groß, beeindruckend und voller Ziele: Unsere DIN A1 Poster bringen dir die epischen 100 Climbs der Welt in einem Format, das wirklich ins Auge sticht. Mit 100 ikonischen Anstiegen, sorgfältig nach Höhenmetern geordnet, bietet dieses Format die volle Auswahl an legendären Strecken und lässt dich deine Fortschritte ganz einfach dokumentieren. Ob als Highlight im Wohnzimmer oder Motivationsquelle im Trainingsraum – das DIN A1 Format ist perfekt für alle, die große Ziele und viel Platz zum Markieren ihrer Erfolge wollen.
-  Updated: 2026-03-02T12:31:56Z
+- [100 Legendary Climbs](https://shop.ymcyc.com/collections/100-legendary-climbs): Die 100 legendärsten Rennrad-Anstiege Europas als DIN A1 Poster. Stelvio, Ventoux, Alpe d'Huez — alle auf einem Print. Ab 42 €.
+  Updated: 2026-04-10T11:33:52Z
   Total Products: 5
 - [Climb Sticker](https://shop.ymcyc.com/collections/poster-accessories-sticker): Climb Sticker – Die perfekte Ergänzung für dein Climb Poster. Markiere absolvierte Anstiege mit praktischen Stickern. Erhältlich in dunklen und hellen Varianten
-  Updated: 2026-03-10T11:40:03Z
+  Updated: 2026-04-04T20:16:51Z
   Total Products: 4
 - [All Legendary Climbs Prints](https://shop.ymcyc.com/collections/all-prints): Entdecke die exklusive Kollektion von Rennrad-Postern bei YMCYC. Von der Pure Data Edition bis zum Retro-Look – das ideale Geschenk für Radsportler, um 100 legendäre Anstiege als interaktive Bucket List festzuhalten.
-  Updated: 2026-03-10T11:40:03Z
+  Updated: 2026-04-10T11:33:52Z
   Total Products: 9
 
 ## Blogs
