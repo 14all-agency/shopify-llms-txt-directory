@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-14T11:11:55Z
 - Contact Email: hello@georginazafeiri.com
-- Updated At: 2026-04-04T00:00:21.609Z
+- Updated At: 2026-04-12T00:00:31.415Z
 
 ## Products
 
@@ -1326,27 +1326,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/8926/4199/files/IMG_8031.jpg?v=1760717833
   Price: £600.00 GBP
-- [Private art tuition in Woodbridge, UK](https://www.georginazafeiri.com/products/private-art-tuition-in-woodbridge-uk): FOR CHILDREN Does your child need some art tuition? I'm a professional artist and art teacher with a Master of Arts in Drawing. I can help with home-ed, GCSEs, A levels, a skill for DofE awards. I can help your child learn to paint with watercolours or acrylic paint and learn to draw with pencil, charcoal or pastels. If your child is interested in learning to draw a particular topic such as portraiture or fashion drawing, not a problem - just ask! FOR ADULTS Private art tuition in Woodbridge, UK Perhaps you were discouraged as a child to pursue a career as an artist or you've started an art project but you're not sure how to develop it. I can help you by showing you different painting and drawing techniques and by helping you to approach your creativity in a new positive way. Read this blog post to find out more about how private tuition can help to develop your artistic talents. I can travel to you in Woodbridge. I have an enhanced DBS and 16 hour first aid training. I charge £30 per hour and recommend a minimum of an hour and 30 minutes for adults and 1 hour for children per session. All classes must be paid upfront. Bookings are non refundable but it may be possible to transfer to another date, I kindly request a minimum of 48 hours notice in order to do this. Photo credits Photos 1-13: Carole Baker Photos 14-19: Penny Cook
-  Updated: 2026-03-25T21:20:47Z
-  Vendor: Georgina Zafeiri
-  Product Type: Art tuition
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/8926/4199/files/IMG_9445.jpg?v=1770812165
-  - [1 hour - children only](https://www.georginazafeiri.com/products/private-art-tuition-in-woodbridge-uk?variant=53313146519879)
-    Availability: Available
-    Price: £30.00 GBP
-  - [1.5 hours](https://www.georginazafeiri.com/products/private-art-tuition-in-woodbridge-uk?variant=53313146552647)
-    Availability: Available
-    Price: £45.00 GBP
-  - [2 hours](https://www.georginazafeiri.com/products/private-art-tuition-in-woodbridge-uk?variant=53313146585415)
-    Availability: Available
-    Price: £60.00 GBP
-  - [2.5 hours](https://www.georginazafeiri.com/products/private-art-tuition-in-woodbridge-uk?variant=53313146618183)
-    Availability: Available
-    Price: £75.00 GBP
-  - [3](https://www.georginazafeiri.com/products/private-art-tuition-in-woodbridge-uk?variant=53313146650951)
-    Availability: Available
-    Price: £90.00 GBP
 - [Private art tuition in Suffolk for adults and children](https://www.georginazafeiri.com/products/private-art-tuition-in-suffolk-for-adults-and-children): Private art tuition in Suffolk for adults and children FOR CHILDREN Does your child need some art tuition? I'm a professional artist and art teacher with a Master of Arts in Drawing. I can help with home-ed, GCSEs, A levels, a skill for DofE awards. I can help your child learn to paint with watercolours or acrylic paint and learn to draw with pencil, charcoal or pastels. If your child is interested in learning to draw a particular topic such as portraiture or fashion drawing, not a problem - just ask! FOR ADULTS Perhaps you were discouraged as a child to pursue a career as an artist or you've started an art project but you're not sure how to develop it. I can help you by showing you different painting and drawing techniques and by helping you to approach your creativity in a new positive way. Read this blog post to find out more about how private tuition can help to develop your artistic talents. I am based in Beccles but can also travel to you. I have an enhanced DBS and 16 hour first aid training. I charge £30 per hour and recommend a minimum of an hour and 30 minutes for adults and 1 hour for children per session. All classes must be paid upfront. Bookings are non refundable but it may be possible to transfer to another date, I kindly request a minimum of 48 hours notice in order to do this. Photo credits Photos 1-13: Carole Baker Photos 14-19: Penny Cook
   Updated: 2026-03-25T21:17:58Z
   Vendor: Georgina Zafeiri
@@ -1664,9 +1643,9 @@
 - [Books](https://www.georginazafeiri.com/collections/books): Books written and illustrated by contemporary artist Georgina Zafeiri
   Updated: 2026-03-02T08:34:36Z
   Total Products: 3
-- [Private art tuition](https://www.georginazafeiri.com/collections/private-art-tuition): Private art children for adults and children in Beccles, Woodbridge, Suffolk and Norfolk with Georgina Zafeiri, contemporary artist
-  Updated: 2026-03-25T09:25:25Z
-  Total Products: 4
+- [Private art tuition](https://www.georginazafeiri.com/collections/private-art-tuition): Private art children for adults and children in Beccles, Suffolk and Norfolk with Georgina Zafeiri, contemporary artist
+  Updated: 2026-04-05T16:42:17Z
+  Total Products: 3
 - [Latest artworks](https://www.georginazafeiri.com/collections/latest-artworks): Here you can see the latest artworks by contemporary artist Georgina Zafeiri
   Updated: 2026-02-27T20:39:39Z
   Total Products: 18
@@ -1727,8 +1706,8 @@
   Updated: 2025-08-14T13:15:04Z
 - [Artist Statement - Inten-city](https://www.georginazafeiri.com/pages/artist-statement): (ci-dessous en français et Deutsch) My work is about the intensity of the city and how we navigate through it with symbols, images, maps and sounds...
   Updated: 2026-02-24T08:09:16Z
-- [Biography](https://www.georginazafeiri.com/pages/biography): Exhibitions Group Exhibition (IM)Material at BobCat Gallery in London, 01/2026 Group exhibition Surrealism at Open Gallery in Halifax, 11/2025 Grou...
-  Updated: 2026-02-24T08:13:37Z
+- [Biography](https://www.georginazafeiri.com/pages/biography): Exhibitions Group online exhibition After the Rains curated by Cista Arts, 4/2026 Group Exhibition (IM)Material at BobCat Gallery in London, 01/202...
+  Updated: 2026-04-07T20:19:27Z
 - [Your Privacy Choices](https://www.georginazafeiri.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T15:54:57Z
 - [Videos](https://www.georginazafeiri.com/pages/videos): Watch below to find out more about Georgina Zafeiri's creative process
@@ -1755,7 +1734,7 @@
 - [Terms of Service](https://www.georginazafeiri.com/policies/terms-of-service)
   Updated: 2025-08-20T11:05:43+01:00
 - [Contact Information](https://www.georginazafeiri.com/policies/contact-information)
-  Updated: 2025-08-20T11:03:01+01:00
+  Updated: 2026-04-07T20:35:23+01:00
 
 ## Optional
 
