@@ -6,251 +6,251 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-06-27T19:16:57Z
 - Contact Email: info@nutrazek.com
-- Updated At: 2026-04-05T13:06:21.588Z
+- Updated At: 2026-04-13T00:00:22.776Z
 
 ## Products
 
-- [Premium Shilajit Gummies 1000mg - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/products/premium-shilajit-gummies-1000-vitamin-c-b6-b12-60-stk): Premium Shilajit Gummies 1000mg mit 50% Fulvinsäure in Schweizer Apothekerqualität. Mit Vitamin C, B6, B12. Vegan, zuckerfrei. Jetzt bestellen!
-  Updated: 2026-04-02T18:35:19Z
+- [Shilajit Gummies 1000mg + Vitamine – 500mg Fulvinsäure | NUTRAZEK](https://nutrazek-official.com/products/premium-shilajit-gummies-1000-vitamin-c-b6-b12-60-stk): Shilajit Gummies mit 1000mg Extrakt & 500mg Fulvinsäure pro Tagesdosis. Mit Vitamin C, B6 & B12. Vegan, 30 Tagesdosen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:08:50Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/57e5c002-6f84-4876-a059-bd54b8ca15bf.jpg?v=1757851941
-  Price: 39,90 CHF CHF
-- [Premium Ashwagandha Gummies 300mg - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/products/premium-ashwagandha-gummies-300-vitamin-b6-60-stk): Premium Ashwagandha Gummies 300mg mit 5% Withanoliden in Schweizer Apothekerqualität. Mit Vitamin B6, Melisse, Kamille. Vegan. Jetzt bestellen!
-  Updated: 2026-04-02T18:35:59Z
+  Price: 21,90 CHF CHF
+- [Ashwagandha Gummies 300mg + B6 – Withanolide & Pflanzenkomplex | NUTRAZEK](https://nutrazek-official.com/products/premium-ashwagandha-gummies-300-vitamin-b6-60-stk): Ashwagandha Gummies mit 300mg Extrakt (5% Withanolide), Zitronenmelisse, Kamille & Vitamin B6. Vegan, 30 Tagesdosen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:12:15Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/8e6e07ce-8084-46f1-958f-ce468974642c.jpg?v=1757932370
-  Price: 34,90 CHF CHF
-- [Löwenmähne Gummies + Vitamin B6 - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/products/lowenmahne-vitamin-b6-gummies-60-stk): Löwenmähne Gummies mit Vitamin B6 in Schweizer Apothekerqualität. Lions Mane Pilz für Konzentration. Vegan, zuckerfrei. 60 Stück. Jetzt bestellen!
-  Updated: 2026-04-02T18:36:16Z
+  Price: 21,90 CHF CHF
+- [Löwenmähne Gummies + B6 – Hericium erinaceus mit Beta-Glucanen | NUTRAZEK](https://nutrazek-official.com/products/lowenmahne-vitamin-b6-gummies-60-stk): Löwenmähne Gummies mit 200mg Hericium-Extrakt, 8mg Beta-Glucane & Vitamin B6. Vegan, 30 Tagesdosen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:16:31Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/e026a62c-bbd4-4001-a3b2-c482bf9a37ba.jpg?v=1757940909
-  Price: 37,90 CHF CHF
-- [Kreatin Gummies 90 Stück - Vegan & Zuckerfrei - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/products/kreatin-gummies-90-stk): Premium Kreatin Gummies in Schweizer Apothekerqualität. 90 vegane Gummies ohne Zucker für Muskelaufbau & Kraft. 30 Tage Vorrat. Jetzt bestellen!
-  Updated: 2026-04-02T18:36:17Z
+  Price: 21,90 CHF CHF
+- [Kreatin Gummies 3g – Kreatin-Monohydrat ohne Pulver | NUTRAZEK](https://nutrazek-official.com/products/kreatin-gummies-90-stk): Kreatin Gummies mit 3g Kreatin-Monohydrat pro Tagesdosis. Ohne Pulver, natürliche Zutaten, 30 Tagesdosen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:19:06Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/0278a392-2ea3-498f-babc-1c9078f82a17_362b5150-44c2-4937-8fb2-d1f0244ebf1d.jpg?v=1757942847
-  Price: 34,90 CHF CHF
-- [Elderberry Vitamin C Zink Gummies 60 Stück - Immunsystem Gummies - NUTRAZEK](https://nutrazek-official.com/products/elderberry-vitamin-c-zink-gummies-60-stk): Elderberry Vitamin C Zink Gummies 60 Stück - Leckere Fruchtgummis mit schwarzem Holunder für das Immunsystem. 30 Tage Vorrat. Jetzt bestellen!
-  Updated: 2026-04-02T18:37:38Z
+  Price: 32,90 CHF CHF
+- [Elderberry Gummies + Vitamin C & Zink – Holunderbeere | NUTRAZEK](https://nutrazek-official.com/products/elderberry-vitamin-c-zink-gummies-60-stk): Elderberry Gummies mit 100mg Holunderbeeren-Extrakt, 90mg Vitamin C & 7.5mg Zink. Vegan, 30 Tagesdosen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:21:20Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/a193f082-1d93-4e2a-961b-da0e18b07454.jpg?v=1757944365
-  Price: 32,90 CHF CHF
-- [Vita Shield Immunsystem Shots 500ml - Vitamin C, D3, Zink - Orange - NUTRAZEK](https://nutrazek-official.com/products/vita-shield-plus-shots-fresh-orange-500ml): Vita Shield PLUS+ Immunsystem Shots mit Vitamin C, D3 & Zink. Frischer Orangen-Geschmack. 50 Portionen. Schweizer Apothekerqualität. Jetzt bestellen!
-  Updated: 2026-04-02T18:37:55Z
+  Price: 21,90 CHF CHF
+- [Immun Matrix PLUS+ Shots – Vitamin C, D3 & Zink | 50 Shots | NUTRAZEK](https://nutrazek-official.com/products/vita-shield-plus-shots-fresh-orange-500ml): Immun Matrix Shots mit 200mg Vitamin C, 20µg Vitamin D3 & 4mg Zink. 50 vegane Shots à 10ml, Geschmack Orange. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:47:45Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/30831059-bd2a-4e46-871b-6cee58bad6e9_c0040f67-0a28-4bc1-8181-db379525205b.jpg?v=1762852268
-  Price: 34,90 CHF CHF
-- [Vita Complete Multivitamin Shots 500ml - 50 Portionen - Vegan - Orange - NUTRAZEK](https://nutrazek-official.com/products/vita-complete-plus-50-vegane-shots-fresh-orange-500ml): Vita Complete PLUS+ Multivitamin Shots mit Vitaminen, Mineralien, Amino & Green Blend. 50 vegane Shots, Orangen-Geschmack. Schweizer Qualität. Jetzt bestellen!
-  Updated: 2026-04-02T18:38:07Z
+  Price: 21,90 CHF CHF
+- [VitaSync Complete Shots – 26 Vitamine & Mineralien | 50 Shots | NUTRAZEK](https://nutrazek-official.com/products/vita-complete-plus-50-vegane-shots-fresh-orange-500ml): VitaSync Shots mit 26 Vitaminen, Amino Boost & Super Green Mischung. 50 vegane Shots à 10ml, Geschmack Orange. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:51:24Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/831821c1-2f9b-4eef-9b6e-658f7135fe27_5fc6dda8-8465-4063-bb19-bee7e35df0f1.jpg?v=1762854338
-  Price: 48,90 CHF CHF
+  Price: 34,20 CHF CHF
 - [Collagen Complex  Shots - Wild Berry - 500ml](https://nutrazek-official.com/products/kollagen-vital-plus-shots-wild-berry-500ml): Collagen Complex Shots – hochdosiertes Kollagen für strahlende Haut, kräftige Haare und starke Nägel im leckeren Wildbeeren-Geschmack. Deine Vorteile: Hochdosiertes Kollagen-Hydrolysat Für Haut, Haare & Nägel Mit Vitamin C & Biotin 50 Portionen pro Flasche Leckerer Wildbeeren-Geschmack Schweizer Apothekerqualität Anwendung: Täglich 10ml (1 Shot) pur oder mit Wasser verdünnt einnehmen.
-  Updated: 2026-04-02T18:38:56Z
+  Updated: 2026-04-08T13:12:33Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/7384ce73-5fe6-42ac-93fd-9d389ffdbcc4.jpg?v=1762855233
-  Price: 49,90 CHF CHF
+  Price: 39,90 CHF CHF
 - [Kollagen Marine Shots - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/products/kollagen-marine-plus-50-shots-wildbeere-500ml): Kollagen Marine Plus+ Shots mit Fischkollagen, Hyaluronsäure und Vitaminen in Schweizer Apothekerqualität. 50 Shots für Haut und Beauty. Jetzt bestellen!
-  Updated: 2026-04-02T18:38:56Z
+  Updated: 2026-04-08T13:13:07Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/ece56d50-4c03-4e3c-8e69-1ec8a23f7444.jpg?v=1762857822
-  Price: 49,90 CHF CHF
+  Price: 39,90 CHF CHF
 - [Pre-Workout Booster Apfel 520g - Training Booster - NUTRAZEK](https://nutrazek-official.com/products/pre-workout-booster-apfel-520g): Pre-Workout Booster Apfel 520g - Hochintensiver Trainingsbooster mit Beta-Alanin, Kreatin und Koffein. 80 Portionen, Apfelgeschmack. Jetzt bestellen!
-  Updated: 2026-04-02T18:39:14Z
+  Updated: 2026-04-08T13:10:25Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/8810a207-3c25-474e-bbcf-2476cb8b80b7_63ad971e-a2d7-4a16-a83c-4b3848e0a20c.jpg?v=1761039845
-  Price: 34,90 CHF CHF
+  Price: 44,90 CHF CHF
 - [Mariendistel Artischocke Löwenzahn Komplex 120 Kapseln - Leberkomplex - NUTRAZEK](https://nutrazek-official.com/products/mariendistel-artischocke-lowenzahn-komplex-120-kapseln): Mariendistel Artischocke Löwenzahn Komplex 120 Kapseln - Traditioneller Kräuterkomplex für Leber und Verdauung. 4 Monate Vorrat. Jetzt bestellen!
-  Updated: 2026-04-05T12:58:23Z
+  Updated: 2026-04-08T13:24:13Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/40320bb4-e97a-4eea-bfa4-652115154556.jpg?v=1765918674
-  Price: 39,90 CHF CHF
+  Price: 29,90 CHF CHF
 - [L-Tryptophan 500mg - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/products/l-tryptophan-90-kapseln): L-Tryptophan 500mg in Schweizer Apothekerqualität. Essentielle Aminosäure für Wohlbefinden und Entspannung. Vegan, 90 Kapseln. Jetzt bestellen!
-  Updated: 2026-04-02T18:43:00Z
+  Updated: 2026-04-08T13:22:16Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/cadfdb04-cdbb-409c-b004-de037bb31685.jpg?v=1761062336
-  Price: 32,90 CHF CHF
+  Price: 24,90 CHF CHF
 - [Ägyptisches Schwarzkümmelöl 240 vegane Softgels - Nigella sativa - NUTRAZEK](https://nutrazek-official.com/products/agyptisches-schwarzkummelol-240-vegane-softgels): Ägyptisches Schwarzkümmelöl 240 vegane Softgels - 100% reines Schwarzkümmelöl aus Ägypten. Traditionelle Heilpflanze, 120 Tage Vorrat. Jetzt bestellen!
-  Updated: 2026-04-02T18:43:43Z
+  Updated: 2026-04-08T13:13:21Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/5c360e8a-8a96-47b5-a172-f0fbc2ec7723.jpg?v=1760998668
-  Price: 44,90 CHF CHF
+  Price: 34,90 CHF CHF
 - [Omega 3 Triglyceride 18/12 Halal 140 Softgels - EPA DHA - NUTRAZEK](https://nutrazek-official.com/products/omega-3-triglyceride-18-12-halal-gelatine-140-softgels): Omega 3 Triglyceride 18/12 mit Halal-Gelatine 140 Softgels - 18% EPA, 12% DHA in natürlicher Triglycerid-Form. 70 Tage Vorrat. Jetzt bestellen!
-  Updated: 2026-04-02T18:45:59Z
+  Updated: 2026-04-08T13:13:48Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/a2e0526f-0629-4a85-92a8-fd3af57e05eb.jpg?v=1761245536
-  Price: 36,90 CHF CHF
-- [Clear Whey Protein Eistee Zitrone 500g - Molkenproteinisolat - NUTRAZEK](https://nutrazek-official.com/products/clear-whey-protein-eistee-zitrone-500g): Clear Whey Protein Eistee Zitrone 500g - 96,2% Molkenproteinisolat, Cross Flow mikrofiltriert. Erfrischender Geschmack, 16+ Portionen. Jetzt bestellen!
-  Updated: 2026-04-02T18:53:24Z
+  Price: 29,90 CHF CHF
+- [Clear Whey Protein Eistee Pfirsich 500g – 82g Protein pro 100g | NUTRAZEK](https://nutrazek-official.com/products/clear-whey-protein-eistee-pfirsich-500g): Clear Whey Isolat Eistee Pfirsich mit 82.3g Protein/100g, 0.1g Fett. Klar löslich, 16 Portionen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:41:18Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/22278dfc-a302-4638-bc2e-43b5b0be7127.jpg?v=1761305540
-  Price: 41,60 CHF CHF
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/ecbaaa0b-34a1-4830-a740-04d525b1c6e0.jpg?v=1761304308
+  Price: 37,90 CHF CHF
 - [Kreatin Monohydrat 1000g - Mikronisiert - NUTRAZEK](https://nutrazek-official.com/products/kreatin-monohydrat-1000g-doypack): Kreatin Monohydrat 1000g - 100% reines mikronisiertes Kreatin. 200er Sieb, 200 Portionen, für Kraft und Muskelaufbau. Jetzt bestellen!
-  Updated: 2026-04-02T18:54:13Z
+  Updated: 2026-04-08T13:26:22Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/958decd5-e527-436a-b514-ffaf8c1b9b1a.jpg?v=1761291029
-  Price: 49,90 CHF CHF
+  Price: 39,90 CHF CHF
 - [Kollagen Hydrolysat Pulver 500g - Haut Haare Gelenke - NUTRAZEK](https://nutrazek-official.com/products/kollagen-hydrolysat-pulver-500g-doypack): Kollagen Hydrolysat Pulver 500g - 100% reines Kollagen für Haut, Haare und Gelenke. Hohe Bioverfügbarkeit, 33+ Portionen. Jetzt bestellen!
-  Updated: 2026-04-02T18:54:42Z
+  Updated: 2026-04-08T13:27:50Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/0464e4d5-27c2-47e6-95f1-696038bf6c1a.jpg?v=1761298142
-  Price: 49,90 CHF CHF
+  Price: 39,90 CHF CHF
 - [Ashwagandha Pulver 500g - Ayurvedische Heilpflanze - NUTRAZEK](https://nutrazek-official.com/products/ashwagandha-pulver-500g-doypack): Ashwagandha Pulver 500g - 100% reine ayurvedische Heilpflanze. Adaptogen für Vitalität und Wohlbefinden. 166+ Portionen. Jetzt bestellen!
-  Updated: 2026-04-02T19:04:43Z
+  Updated: 2026-04-08T13:28:09Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/754c5a3c-b0b7-48f7-b6ba-78eb4a110743.jpg?v=1761252276
-  Price: 34,90 CHF CHF
+  Price: 24,90 CHF CHF
 - [MSM Pulver 500g - Methylsulfonylmethan - NUTRAZEK](https://nutrazek-official.com/products/msm-pulver-500g): MSM Pulver 500g - 100% reines Methylsulfonylmethan in pharmazeutischer Qualität. 125 Portionen, für Gelenke und Bindegewebe. Jetzt bestellen!
-  Updated: 2026-04-02T19:05:12Z
+  Updated: 2026-04-08T13:28:31Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/b7ab76a6-8c3f-464a-bd46-5e8030904f70.jpg?v=1761252200
-  Price: 32,90 CHF CHF
+  Price: 21,90 CHF CHF
 - [Pre-Workout Booster Himbeere 520g - Premium Trainings-Booster - NUTRAZEK](https://nutrazek-official.com/products/pre-workout-booster-himbeere-520g): Pre-Workout Booster Himbeere 520g - Premium Trainings-Booster mit Kreatin, Beta-Alanin, Koffein. Apotheker-Qualität, 80+ Portionen. Jetzt bestellen!
-  Updated: 2026-04-05T12:12:16Z
+  Updated: 2026-04-12T23:33:57Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/9418ca7b-c9c1-4e24-8251-692ba83a1c9b.jpg?v=1770719994
-  Price: 59,90 CHF CHF
-- [Premium Whey Protein Schokolade 1000g - 78% Protein Apotheker-Qualität - NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-schokolade-1-000g): Premium Whey Protein Schokolade 1000g mit 78% Protein in Apotheker-Qualität. Reichhaltiger Schokoladen-Geschmack, 33 Portionen. Für optimalen Muskelaufbau. Jetzt bestellen!
-  Updated: 2026-04-02T19:06:58Z
+  Price: 44,90 CHF CHF
+- [Premium Whey Protein Schokolade 1kg – 78g Protein pro 100g | NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-schokolade-1-000g): Premium Whey Protein Schokolade mit 78g Protein/100g & vollständigem Aminosäureprofil. 1kg, ca. 33 Portionen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:26:14Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/4805c876-abab-4417-9d0f-628bbbba935d_b47f250f-5d6d-44b2-a9d0-8cf7f10c7395.jpg?v=1761046557
-  Price: 69,90 CHF CHF
+  Price: 37,90 CHF CHF
 - [Pre-Workout Booster Orange 520g - Premium Trainings-Booster - NUTRAZEK](https://nutrazek-official.com/products/pre-workout-booster-orange-520g): Pre-Workout Booster Orange 520g - Premium Trainings-Booster mit Kreatin, Beta-Alanin, Koffein. Apotheker-Qualität, 80+ Portionen. Jetzt bestellen!
-  Updated: 2026-04-02T19:07:06Z
+  Updated: 2026-04-08T13:10:52Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/c6cdb4a9-3c2b-49f5-b41b-930798d51a79_079d5e49-e038-4d2c-8b9e-1670dfdbfd9b.jpg?v=1761035565
-  Price: 59,90 CHF CHF
+  Price: 44,90 CHF CHF
 - [Pre-Workout Booster Tutti Frutti 520g - Premium Trainings-Booster - NUTRAZEK](https://nutrazek-official.com/products/pre-workout-booster-tutti-frutti-520g): Pre-Workout Booster Tutti Frutti 520g - Premium Trainings-Booster mit Kreatin, Beta-Alanin, Koffein. Apotheker-Qualität, 80+ Portionen. Jetzt bestellen!
-  Updated: 2026-04-02T19:07:38Z
+  Updated: 2026-04-08T13:11:07Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/f6c00628-ae09-4a56-80ae-2de8a375af4b_0cb24fe1-6d75-40b5-bb10-b2d2c004b48a.jpg?v=1761040076
-  Price: 59,90 CHF CHF
-- [Premium Whey Protein Cookies 1000g - 78% Protein Apotheker-Qualität - NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-cookies-1-000g): Premium Whey Protein Cookies 1000g mit 78% Protein in Apotheker-Qualität. Leckerer Cookies-Geschmack, 33 Portionen. Für optimalen Muskelaufbau. Jetzt bestellen!
-  Updated: 2026-04-05T12:12:16Z
+  Price: 44,90 CHF CHF
+- [Premium Whey Protein Cookies 1kg – 78g Protein pro 100g | NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-cookies-1-000g): Premium Whey Protein Cookies mit 78g Protein/100g & vollständigem Aminosäureprofil. 1kg, 33 Portionen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-12T23:33:57Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/51d499a5-91ae-49aa-aafe-6c3056492d60.jpg?v=1769202385
-  Price: 69,90 CHF CHF
-- [Premium Whey Protein Erdbeere 1000g - 78% Protein Apotheker-Qualität - NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-erdbeere-1-000g): Premium Whey Protein Erdbeere 1000g mit 78% Protein in Apotheker-Qualität. Natürlicher Erdbeer-Geschmack, 33 Portionen. Für optimalen Muskelaufbau. Jetzt bestellen!
-  Updated: 2026-04-02T19:07:50Z
+  Price: 37,90 CHF CHF
+- [Premium Whey Protein Erdbeere 1kg – 78g Protein pro 100g | NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-erdbeere-1-000g): Premium Whey Protein Erdbeere mit 78g Protein/100g & vollständigem Aminosäureprofil. 1kg, 33 Portionen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:35:23Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/e380bbcf-dd50-449e-afae-d14459a7858f_9470fafa-5155-41e1-a04f-6e50d26b5baf.jpg?v=1761044569
-  Price: 69,90 CHF CHF
-- [Whey Protein Vanille 1000g - 78% Protein Apotheker-Qualität - NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-vanille-1-000g): Whey Protein Vanille 1000g mit 78% Protein in Apotheker-Qualität. 33 Portionen, vollständiges Aminosäuren-Profil. Für optimalen Muskelaufbau. Jetzt bestellen!
-  Updated: 2026-04-02T19:07:55Z
+  Price: 37,90 CHF CHF
+- [Premium Whey Protein Vanille 1kg – 78g Protein pro 100g | NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-vanille-1-000g): Premium Whey Protein Vanille mit 78g Protein/100g & vollständigem Aminosäureprofil. 1kg, 33 Portionen. Jetzt bei NUTRAZEK.
+  Updated: 2026-04-11T01:37:30Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/c741412d-e8fc-436b-b1b9-416d7e59b2bc.jpg?v=1761045252
-  Price: 69,90 CHF CHF
+  Price: 37,90 CHF CHF
 - [Vitamin D3 + K2 Tropfen 1000 I.E. - 1700 Tropfen Apotheker-Qualität - NUTRAZEK](https://nutrazek-official.com/products/vitamin-d3-k2-1-700-tropfen-1-000-i-e-50ml): Vitamin D3 + K2 Tropfen 1000 I.E. - 1700 Tropfen in Apotheker-Qualität. Das Power-Duo für starke Knochen & Immunsystem. 4+ Jahre Vorrat. Jetzt bestellen!
-  Updated: 2026-04-02T19:08:04Z
+  Updated: 2026-04-09T10:32:33Z
   Vendor: ChanceToBrand
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/1f759145-853e-46e9-9f1a-0ac02231e586_c5a145a6-9e5a-427b-8555-8f9b69263d4d.jpg?v=1761048122
-  Price: 69,90 CHF CHF
+  Price: 49,90 CHF CHF
 - [Lux Arcana D3 – Vitamin D3 4.000 IE | Premium Qualität](https://nutrazek-official.com/products/vitamin-d3-4-000-ie-180-softgels): Hochdosiertes Vitamin D3 (4.000 IE) in Premium-Qualität. Unterstützt Immunsystem, Knochen & Muskeln. 180 Softgel-Kapseln. Laborgeprüft. Jetzt bestellen!
-  Updated: 2026-04-02T19:08:41Z
+  Updated: 2026-04-09T01:22:02Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/b6803bbb-75a1-4db5-85d6-d5107e3ff967.jpg?v=1768926868
-  Price: 32,90 CHF CHF
+  Price: 24,90 CHF CHF
 - [Neurocharge 33 Shots 500 ml – Energie & Konzentration | NUTRAZEK](https://nutrazek-official.com/products/ginseng-power-plus-33-shots-500ml): Neurocharge 33 Shots mit Ginseng, Koffein, Vitamin B12 & C – 33 Portionen à 15 ml für mentale Energie und Konzentration. Pharmazeutisch entwickelt.
-  Updated: 2026-04-02T19:09:58Z
+  Updated: 2026-04-08T13:30:21Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/8f4161cb-24f2-4102-b508-d10d506c11cb.jpg?v=1775055654
-  Price: 39,90 CHF CHF
+  Price: 29,90 CHF CHF
 
 ## Collections
 
 - [Alle Produkte](https://nutrazek-official.com/collections/alle-produkte)
-  Updated: 2026-03-07T09:24:43Z
+  Updated: 2026-04-10T13:35:16Z
   Total Products: 5
 - [Premium Gummies & Fruchtgummis - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/gummies-fruchtgummis): Premium Gummies in Schweizer Apothekerqualität. Vegan, zuckerfrei, mit Kreatin, Ashwagandha, Shilajit, Multivitamin. Jetzt entdecken!
-  Updated: 2026-03-07T09:24:43Z
+  Updated: 2026-04-10T13:21:14Z
   Total Products: 7
 - [Kollagen & Beauty Produkte - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/kollagen-beauty): Premium Kollagen für Haut, Haare & Nägel in Schweizer Apothekerqualität. Shots, Kapseln & Pulver mit Hyaluronsäure. Jetzt entdecken!
-  Updated: 2026-03-07T09:24:44Z
+  Updated: 2026-04-08T13:27:52Z
   Total Products: 1
 - [Premium Protein & Fitness - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/protein-fitness): Premium Whey Protein & Fitness-Produkte in Schweizer Apothekerqualität. 78% Protein, Clear Whey, EAA. Für Muskelaufbau. Jetzt bestellen!
-  Updated: 2026-03-23T19:08:34Z
+  Updated: 2026-04-10T13:44:22Z
   Total Products: 6
 - [Pre-Workout Booster - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/pre-workout-training): Premium Pre-Workout Booster in Schweizer Apothekerqualität. Mit Beta-Alanin, Kreatin, Koffein. 4 Geschmacksrichtungen. Jetzt bestellen!
-  Updated: 2026-03-07T09:24:44Z
+  Updated: 2026-04-08T13:11:06Z
   Total Products: 4
 - [Vitamine & Mineralien - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/vitamine-mineralien): Premium Vitamine & Mineralien in Schweizer Apothekerqualität. Vitamin D3+K2, Vitamin C, Magnesium, Multivitamin. Jetzt bestellen!
-  Updated: 2026-03-07T09:24:44Z
+  Updated: 2026-04-10T13:21:14Z
   Total Products: 9
 - [Omega 3 & Premium Öle - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/omega-oele): Premium Omega 3 & Öle in Schweizer Apothekerqualität. Omega 3 Triglyceride, Schwarzkümmelöl. Für Herz & Gehirn. Jetzt bestellen!
-  Updated: 2026-03-07T09:24:44Z
+  Updated: 2026-04-08T13:13:48Z
   Total Products: 2
 - [Immunsystem stärken - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/immunsystem): Premium Immunsystem-Produkte in Schweizer Apothekerqualität. Vitamin C, D3, Zink, Elderberry. Natürliche Abwehrkräfte. Jetzt bestellen!
-  Updated: 2026-03-07T09:24:44Z
+  Updated: 2026-04-10T13:21:14Z
   Total Products: 1
 - [Gelenke & Bewegung - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/gelenke-bewegung): Premium Gelenk-Produkte in Schweizer Apothekerqualität. Glucosamin, Chondroitin, MSM, Kollagen. Für gesunde Gelenke. Jetzt bestellen!
-  Updated: 2026-03-23T19:09:07Z
+  Updated: 2026-04-08T13:25:02Z
   Total Products: 2
 - [Aminosäuren & Pulver - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/collections/aminosaeuren-pulver): Premium Aminosäuren & Pulver in Schweizer Apothekerqualität. L-Glutamin, Kreatin, MSM, Glucosamin. 100% rein. Jetzt bestellen!
-  Updated: 2026-03-23T19:12:36Z
-  Total Products: 6
+  Updated: 2026-04-08T13:30:24Z
+  Total Products: 5
 - [Bestseller Nahrungsergänzung & Supplements - NUTRAZEK Essentials](https://nutrazek-official.com/collections/bestseller): Entdecke unsere meistverkauften Supplements: Vitamin D3+K2, Magnesium, Premium Whey Protein & Pre-Workout Booster in Apotheker-Qualität. Jetzt bestellen!
-  Updated: 2026-03-07T09:24:44Z
+  Updated: 2026-04-10T13:37:24Z
   Total Products: 13
 - [Beispielprodukte Vitamine und Nahrungsergänzungsmittel](https://nutrazek-official.com/collections/vitamins-and-supplements-example-products)
-  Updated: 2026-03-24T16:20:14Z
+  Updated: 2026-04-08T13:28:08Z
   Total Products: 4
 
 ## Blogs
@@ -338,8 +338,8 @@
   Updated: 2025-12-02T15:34:27Z
 - [Über uns](https://nutrazek-official.com/pages/uber-uns): Die Geschichte hinter NutrazekVon der Klostermedizin zur modernen NahrungsergänzungMein Name ist Gjem Adam Zekaj, und ich bin der Gründer von Nutra...
   Updated: 2025-12-09T10:37:38Z
-- [Qualität](https://nutrazek-official.com/pages/qualitat): Qualität Qualität steht bei uns an erster Stelle. Wir verwenden nur hochwertige Zutaten, verzichten auf künstliche Zusatzstoffe und halten uns an w...
-  Updated: 2025-12-02T18:21:55Z
+- [Qualität | NUTRAZEK – Pharmazeutische Standards für Nahrungsergänzungsmittel](https://nutrazek-official.com/pages/qualitat): Qualität — unser höchster Massstab Bei NUTRAZEK ist Qualität kein Marketingversprechen, sondern ein messbarer Standard. Jedes Produkt entsteht unte...
+  Updated: 2026-04-09T11:33:21Z
 - [über Nutrazek](https://nutrazek-official.com/pages/uber-nutrazek): Über Nutrazek Nutrazek ist ein Schweizer Unternehmen mit Sitz in Muri bei Bern, das aus der Vision des Apothekers Gjem Zekaj entstanden ist. Als Ap...
   Updated: 2025-12-02T19:04:53Z
 - [Swiss Quality Standards](https://nutrazek-official.com/pages/swiss-quality-standards): Swiss Quality Standards Als Schweizer Unternehmen sind wir stolz darauf, unsere Produkte nach den höchsten Schweizer Qualitätsstandards herzustelle...
