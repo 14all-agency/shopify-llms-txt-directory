@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2017-03-06T15:06:31Z
 - Contact Email: info@mediflow.ca
-- Updated At: 2026-04-03T00:00:25.158Z
+- Updated At: 2026-04-13T00:00:33.436Z
 
 ## Products
 
 - [The Water Pillow by Mediflow Elite Fibre | Reduces neck pain and improves quality of sleep](https://www.mediflow.ca/products/elite-fiberfill-pillow): Mediflow's Water Pillow is CLINICALLY PROVEN to reduce neck pain and improve sleep quality. Over 17,500 5-star reviews speak to the health benefits mentioning effective in relieving neck pain, shoulder pain, headaches, migraines and more! Recommended by over 10,0000 chiropractors and physical therapists worldwide.
-  Updated: 2026-04-02T09:30:56Z
+  Updated: 2026-04-10T21:08:47Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -39,14 +39,14 @@
   Image: https://cdn.shopify.com/s/files/1/1825/6017/products/FreeGuide_v1.png?v=1755527493
   Price: $5.00 CAD
 - [Cap and Funnel - Replacement Parts - The Water Pillow by Mediflow](https://www.mediflow.ca/products/replacement-parts): The Water Pillow offers replacement parts such as water caps and funnels for your waterbase pillow, the only pillow clinically proven to improve quality of sleep. You can purchase replacement water funnels with wrench or replacement water caps separately.
-  Updated: 2026-03-15T06:18:48Z
+  Updated: 2026-04-11T01:06:48Z
   Vendor: Mediflow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1825/6017/products/Cap_Funnel_900x_6ca5a30c-aa62-4685-8cd6-415446b2cf4f.webp?v=1755527493
   Price: $6.50 CAD
 - [Travel Size Pillow - Therapeutic Pillows | The Water Pillow by Mediflow](https://www.mediflow.ca/products/travel-pillow): The Water Pillow's travel size pillow features a top layer of fiber that floats on a thin layer of water for responsive support. Our travel pillows are clinically proven to reduce neck pain and improve quality of sleep.
-  Updated: 2026-04-02T09:30:56Z
+  Updated: 2026-04-06T20:00:38Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -122,14 +122,14 @@
     Availability: Available
     Price: $39.95 CAD
 - [Cotton Quilted Pillow Covers - Protector | The Water Pillow by Mediflow](https://www.mediflow.ca/products/cotton-quilted-pillow-cover): The Water Pillow's Cotton Quilted Pillow Covers can be used with any of our water pillows. These luxury padded cotton quilted pillow protectors are both durable and comfortable.  3 layer construction provides extra comfort.
-  Updated: 2026-04-02T06:58:16Z
+  Updated: 2026-04-10T15:54:49Z
   Vendor: Mediflow
   Product Type: Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1825/6017/files/QPP-1-Tall.png?v=1755527497
   Price: $31.00 CAD
 - [Anti-Allergen Pillow Covers - Protector | The Water Pillow by Mediflow](https://www.mediflow.ca/products/allergy-pillow-protector): The Water Pillow's Allergy Pillow Covers are an essential solution to improving your quality of sleep. The allergy pillow protector protects against bacteria and mites. These protective covers allow patients who suffer from allergies to enjoy the full benefits of Mediflow Waterbase pillows.
-  Updated: 2026-04-02T06:58:18Z
+  Updated: 2026-04-05T13:26:29Z
   Vendor: Mediflow
   Product Type: Covers
   Availability: Available
@@ -150,7 +150,7 @@
     Image: https://cdn.shopify.com/s/files/1/1825/6017/files/GoogleShopOrginalDownJPGTwin_928faa65-48af-4052-a99e-73b59321642f.jpg?v=1755527501
     Price: $315.00 CAD
 - [Mediflow Original Fibre Water Pillow - Reduces neck pain and improves sleep quality](https://www.mediflow.ca/products/original-fiberfill-pillow): Clinically proven to reduce neck pain and improve sleep quality, Mediflow's Original Fiber Water Pillow offers exceptional comfort and consistent support for your head and neck. The Mediflow Water Pillow is recommended by over 10,000  professionals worldwide as the solution for relieving neck pain during sleep.
-  Updated: 2026-04-02T09:30:56Z
+  Updated: 2026-04-12T21:00:47Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -196,7 +196,7 @@
     Availability: Available
     Price: $100.00 CAD
 - [Anti-Allergen Pillow Covers | The Water Pillow by Mediflow](https://www.mediflow.ca/products/aloe-vera-pillow-cover): The Water Pillow's Allergy Pillow Covers are an essential solution to improving your quality of sleep. The allergy pillow protector protects against bacteria and mites. These protective covers allow patients who suffer from allergies to enjoy the full benefits of Mediflow Waterbase pillows.
-  Updated: 2026-03-28T17:42:06Z
+  Updated: 2026-04-09T19:49:37Z
   Vendor: Mediflow
   Product Type: Covers
   Availability: Available
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/1825/6017/files/GoogleShopEliteDownAlternativeJPGTwin_3ca93e1d-3008-43ad-ad3b-9b29a5164087.jpg?v=1755527509
     Price: $209.00 CAD
 - [Elite Cooling Gel Memory Foam Water Pillow | The Water Pillow by Mediflow](https://www.mediflow.ca/products/the-water-pillow-by-mediflow-cooling-gel-memory-foam): The Water Pillow's Elite Cooling Gel Memory Foam Pillow features an ample layer of ventilated memory foam with high airflow pockets and a cooling-gel infusion to regulate body temperature. Perfect for those who run hot at night, the result is the most comfortable, therapeutic sleep designed to have you waking up rested and refreshed. The memory foam conforms to the unique shape of your head and neck for responsive support and comfort, while the Waterbase moves as you move through the night.
-  Updated: 2026-03-27T04:25:17Z
+  Updated: 2026-04-11T17:48:18Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -245,7 +245,7 @@
     Image: https://cdn.shopify.com/s/files/1/1825/6017/files/GoogleShopEliteCoolingMemoryFoamJPGTwin_258cf6bf-7fcd-41cb-8075-d10ea37a918d.jpg?v=1755527511
     Price: $257.00 CAD
 - [Cooling Gel Memory Foam Water Pillow | The Water Pillow by Mediflow](https://www.mediflow.ca/products/the-water-pillow-by-mediflow-cooling-gel-memory-foam-1): The Water Pillow's Cooling Gel Memory Foam pillow is softer, cooler, and fully adjustable. Everything lacking in regular memory foam pillows! The extra soft top layer of foam is cooling-gel infused and then ventilated to allow air to circulate completely through the foam and away from the head for cooling comfort. When paired with our award-winning Waterbase Technology, the result is the best night's sleep you have ever had.
-  Updated: 2026-03-19T04:23:57Z
+  Updated: 2026-04-08T21:51:07Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -259,7 +259,7 @@
     Image: https://cdn.shopify.com/s/files/1/1825/6017/files/GoogleShopOrignalCoolingMemoryFoamJPGTwin_c2f55c18-0108-41e4-88bc-2765b2bb6be2.jpg?v=1755527512
     Price: $239.00 CAD
 - [Mediflow Water Pillow - Elite Memory Foam](https://www.mediflow.ca/products/the-water-pillow-by-mediflow-elite-memory-foam): Experience the Benefits of Mediflow's Elite Memory Foam Water Pillow • CLINICALLY STUDIED FOR NECK PAIN: Experience The Mediflow Water Pillow, a clinically studied water pillow that is shown to support neck comfort. An independent Johns Hopkins study backs findings of improved neck pain and sleep quality. • ELITE MEMORY FOAM & INNOVATIVE WATERBASE DESIGN: Dive into the unparalleled design of the Mediflow Elite Memory Foam Water Pillow. Boasting larger holes in its foam structure, this pillow promises enhanced airflow and impeccable temperature regulation. Beneath this layer, our Waterbase™ Technology shines, delivering tailored support that aligns naturally with your head and neck. Every elite memory foam fill is designed to maximize the effectiveness of the Waterbase™, ensuring both superior comfort and support. • FULLY AJUSTABLE FOR ALL SLEEPING POSITIONS: Mediflow’s adjustable pillow design allows you to easily add or remove water to alter the pillow’s firmness (Soft, Medium or Firm) and height. This flexibility makes Mediflow the adaptable bed pillow for side sleepers, stomach sleepers, and back sleepers. • TRUSTED BY  PROFESSIONALS: Mediflow Water Pillow is chosen by thousands of doctors, Chiropractors, Physical Therapists, and other  Professionals worldwide as the bed pillow for neck pain relief and improved sleep quality. • TRUSTED LEGACY & RESULTS: With a trusted legacy of over 25 years in water pillow technology, Mediflow isn't just a name, it's a promise of quality. Our water pillows have been studied and recognized for their role in improving sleep quality and supporting neck comfort. CUSTOMIZE YOUR SUPPORT: Completely adjustable: Add or remove water for desired firmness
-  Updated: 2026-03-31T15:23:17Z
+  Updated: 2026-04-11T05:26:06Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -290,70 +290,70 @@
 ## Collections
 
 - [Fibre Pillows - Therapeutic Pillows | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/fiberfill-pillows): Shop our collection of Fiber Pillows. The Water Pillow's Fiberfill pillows provides exceptional comfort and support. The fiber floats on a thin layer of water for responsive support. The Water Pillow is clinically proven to reduce neck pain and improve quality of sleep.
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 3
 - [Shop Water Pillows - Therapeutic | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/water-pillows): Shop our collection of Water Pillows. Our therapeutic pillows offer unparalleled comfort and support. Choose from: down, down alternative, fiber, and memory foam. Our water pillows are clinically proven to improve quality of sleep and reduce neck pain.
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 18
 - [Gel Memory Foam Pillows - Therapeutic | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/gel-memory-foam-pillows): Shop the best Gel Memory Foam Pillows from the Water Pillow by Mediflow. The Water Pillow's Gel Memory Foam pillows are softer, cooler, and fully adjustable. Everything lacking in regular memory foam pillows!
-  Updated: 2026-03-27T11:08:22Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 2
 - [Pillow Accessories | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/accessories): Shop our collection of pillow accessories. The Water Pillow by Mediflow offers water pillow accessories for our clinically proven pillows including replacement parts, anti-allergen covers and cotton mattress pads.
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-11T11:07:30Z
   Total Products: 3
 - [Shop Pillow Protectors - Pillow Covers | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/pillow-covers): Shop from our collection of pillow covers and pillow protectors. The Water Pillow's Cotton Quilted Pillow Covers can be used with any of our water pillows. The Water Pillow's Anti-Allergy Pillow Protectors are an essential solution to improving your quality of sleep. Get yours today and improve your quality of sleep!
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-11T11:07:30Z
   Total Products: 3
 - [Down Pillow - Therapeutic Pillows | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/down-filled-pillows): Shop the best Down Filled Pillows from the Water Pillow by Mediflow.  Our down filled pillows offer unparalleled soft support with all-natural hypoallergenic materials. The water pillow's are made with a fully sealed and insulated water pouch, along with Mediflow’s down comfort layer on top, encased in a cotton shell.
   Updated: 2024-04-10T13:58:48Z
   Total Products: 0
 - [Shop Replacement Parts | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/replacement-parts): The Water Pillow offers replacement parts such as water caps and funnels for your waterbase pillow, the only pillow clinically proven to improve quality of sleep. You can purchase replacement water funnels with wrench or replacement water caps separately.
-  Updated: 2026-01-13T12:07:18Z
+  Updated: 2026-04-11T11:07:30Z
   Total Products: 1
 - [Shop All Products - Therapeutic Pillows | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/all): Shop a diverse range of water pillows  and accessories from The Water Pillow by Mediflow.  The Water Pillow by Mediflow offers a line of therapeutic pillows that come with a variety of fills. Choose from: down, down alternative, fiber, and memory foam. Our water pillows are clinically proven to improve quality of sleep and reduce neck pain.
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 29
 - [Floating Comfort™ Pillows - Therapeutic | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/floating-comfort-pillows): Shop our collection of Floating Comfort Pillows. Choose from our down alternative, fiber or Gel Memory Foam water pillows. Floating comfort pillows offer supreme comfort and support. Our water pillows are clinically proven to improve quality of sleep and reduce neck pain.
   Updated: 2024-04-10T13:58:48Z
   Total Products: 1
 - [Shop Our Catalog - Therapeutic Pillows | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/catalog): Shop a diverse range of water pillows from our catalog. The Water Pillow by Mediflow offers a line of therapeutic pillows that come with a variety of fills. Choose from: down, down alternative, fiber, and memory foam. Our water pillows are clinically proven to improve quality of sleep and reduce neck pain.
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 22
 - [Google Shopping](https://www.mediflow.ca/collections/google-shopping)
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 21
 - [THE ELITE LINE](https://www.mediflow.ca/collections/the-elite-line)
   Updated: 2024-04-10T13:58:48Z
   Total Products: 0
 - [Original Collection Water Pillows](https://www.mediflow.ca/collections/original)
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 5
 - [Shop Fibre Water Pillows](https://www.mediflow.ca/collections/shop-fibre-water-pillows): Shop Fibre Water Pillows
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 4
 - [Elite Collection Water Pillows](https://www.mediflow.ca/collections/elite)
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 5
 - [ Price](https://www.mediflow.ca/collections/): Experience Ultimate Comfort with Mediflow!
   Updated: 2026-03-20T12:30:42Z
   Total Products: 12
 - [Shop Memory Foam Water Pillows](https://www.mediflow.ca/collections/memory-foam-water-pillows): Shop Memory Foam Water Pillows and Cooling Gel Memory Foam Water Pillows. The memory foam conforms to the unique shape of your head and neck for responsive support and comfort, while the Waterbase moves as you move.
-  Updated: 2026-04-01T11:09:04Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 4
 - [Shop Down Water Pillows](https://www.mediflow.ca/collections/shop-down-water-pillows)
   Updated: 2026-04-02T11:08:46Z
   Total Products: 2
 - [travel-pillows](https://www.mediflow.ca/collections/travel-pillows)
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-07T11:09:02Z
   Total Products: 1
 - [](https://www.mediflow.ca/collections/-collection): Experience Ultimate Comfort with Mediflow!
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 10
 - [Cozy savings event](https://www.mediflow.ca/collections/cozy-savings-event)
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 4
 - [Shop Our Catalog - Therapeutic Pillows | The Water Pillow by Mediflow](https://www.mediflow.ca/collections/black-friday--copy): Shop a diverse range of water pillows from our catalog. The Water Pillow by Mediflow offers a line of therapeutic pillows that come with a variety of fills. Choose from: down, down alternative, fiber, and memory foam. Our water pillows are clinically proven to improve quality of sleep and reduce neck pain.
-  Updated: 2026-04-02T11:08:46Z
+  Updated: 2026-04-12T11:07:23Z
   Total Products: 22
 
 ## Blogs
@@ -394,6 +394,9 @@
     Updated: 2026-03-27T17:49:48Z
     Author: Qianyi Huang
     Tags: best pillow, Neck Pain, quality of sleep, water pillow
+  - [Best Pillow for Neck Pain: Why Water-Based Support Works Better](https://www.mediflow.ca/blogs/mediflow/best-pillow-for-neck-pain-why-water-based-support-works-better): <p data-start="114" data-end="303">Water pillows provide adaptive support that adjusts to your head and neck throughout the night, helping maintain proper alignment and reduce neck pain compared to traditional pillows.</p>
+    Updated: 2026-04-07T19:01:51Z
+    Author: Qianyi Huang
 
 ## Store Pages
 
