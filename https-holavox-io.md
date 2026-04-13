@@ -6,40 +6,40 @@
 - Timezone: Europe/Paris
 - Created At: 2025-10-19T15:48:08Z
 - Contact Email: contact@holavox.io
-- Updated At: 2026-04-05T12:33:25.861Z
+- Updated At: 2026-04-13T00:00:21.013Z
 
 Traducteur vocal instantané HOLAVOX
 
 ## Products
 
 - [Traducteur vocal instantané portable - HOLAVOX](https://holavox.io/products/holavox-traducteur-vocal-instantane-portable): Traducteur vocal instantané portable - HOLAVOX. Traduction en ligne ou en mode hors-ligne, carte SIM intégrée. Simple, rapide et précis
-  Updated: 2026-03-31T05:12:21Z
+  Updated: 2026-04-12T21:25:36Z
   Vendor: Holavox
   Product Type: traducteur vocal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/1_image_traducteur_avec_logo_premium_noir.jpg?v=1770933736
   Price: 139,90 € EUR
 - [Ecouteurs traducteurs sans fil](https://holavox.io/products/ecouteurs-traducteurs-sans-fil): Ecouteurs traducteurs sans fil Traduction instantanée de nombreuses langues en Bluetooth ou tout simplement pour écouter de la musique. Traduction instantanée
-  Updated: 2026-03-31T05:31:20Z
+  Updated: 2026-04-06T03:57:05Z
   Vendor: Holavox
   Product Type: écouteurs de traduction
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/1_boitier_ecouteur_premium.jpg?v=1767913176
   Price: 34,90 € EUR
 - [Etui premium en cuir pu pour traducteur HOLAVOX](https://holavox.io/products/etui-premium-en-cuir-pu-pour-traducteur-holavox): Etui premium en cuir pu pour traducteur HOLAVOX, clip de ceinture rotatif à 360 degrés permettant d'accrocher son étui à la ceinture
-  Updated: 2026-04-02T22:04:05Z
+  Updated: 2026-04-06T04:01:35Z
   Vendor: Holavox
   Product Type: accessoire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/etui_face_et_cote-cmpr.png?v=1767089423
   Price: 19,90 € EUR
 - [Le guide ultime du voyageur à l'étranger - Ebook HOLAVOX](https://holavox.io/products/ebook-le-guide-ultime-du-voyageur-a-letranger): Découvrez Le guide ultime du voyageur à l'étranger pour des conseils essentiels avant de partir et maximiser votre expérience de voyage.
-  Updated: 2026-04-01T21:03:02Z
+  Updated: 2026-04-06T03:39:49Z
   Vendor: Holavox
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/ebook-mockup-hero-SMwYgvnyNw8X8KPaiW9inM_1.webp?v=1774898502
-  Price: 6,90 € EUR
+  Price: 4,90 € EUR
 
 ## Blogs
 
@@ -71,14 +71,17 @@ Traducteur vocal instantané HOLAVOX
   - [Accident de voiture à l'étranger : conseils et solutions](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/accident-de-voiture-a-letranger): Accident de voiture à l'étranger : conseils et solutions
     Updated: 2026-03-26T23:43:59Z
     Author: Laurent PLANCHON
-  - [Douleurs soudaines sans traducteur : Guide en Italie](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/douleurs-soudaines-en-italie): Douleurs soudaines sans traducteur : Guide en Italie
-    Updated: 2026-03-26T23:39:14Z
+  - [Douleurs soudaines sans traducteur : Guide en Italie](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/douleurs-soudaines-sans-traducteur-italie): Douleurs soudaines sans traducteur : Guide en Italie
+    Updated: 2026-04-12T21:06:55Z
     Author: Laurent PLANCHON
   - [Le traducteur vocal : Mon sauveur au Brésil](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/vol-de-portefeuille-au-bresil-traducteur-vocal): Le traducteur vocal : Mon sauveur au Brésil
     Updated: 2026-03-26T23:37:28Z
     Author: Laurent PLANCHON
   - [Passage à l'hopital en Espagne avec le traducteur vocal](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/passage-hopital-espagne-traducteur-vocal): Passage à l'hopital en Espagne avec le traducteur vocal
     Updated: 2026-04-05T12:17:03Z
+    Author: Laurent PLANCHON
+  - [Louer une voiture à l'étranger](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/louer-une-voiture-a-l-etranger): Louer une voiture à l'étranger
+    Updated: 2026-04-12T21:04:45Z
     Author: Laurent PLANCHON
 
 ## Store Pages
