@@ -6,19 +6,19 @@
 - Timezone: Pacific/Auckland
 - Created At: 2020-08-19T03:32:16Z
 - Contact Email: info@bode-lana.co.nz
-- Updated At: 2025-12-19T00:00:42.544Z
+- Updated At: 2026-04-13T00:00:25.405Z
 
 ## Products
 
 - [Wild Tussock](https://bode-lana.co.nz/products/wild-tussock): All Bode Lana throw rugs are made from 100% natural cotton. This makes them both soft and durable. The rugs are woven on a jacquard loom, giving them good air permeability and the ability to handle sand well. This makes them versatile and suitable for indoors and out. Every rug is made with a combination of recycled cotton coloured cotton yarns. This means that when the final design is made, the rug will have a reversible side with contrasting colours. Two rugs in one! Measures approximately 160 x 200cm / 1.4kg. Exclusively designed by us in New Zealand Machine washable on cold / hang to dry / will soften with each wash Fits a double bed From picnics to the beach. In the mountains and on the road, we take our Bode Lana rugs everywhere with us and hope you will too. Tag us @bode.lana so we can see how you use your throws and the chance to be featured on our account. Please note colours may appear slightly different in pictures.
-  Updated: 2025-09-22T01:24:03Z
+  Updated: 2026-03-10T21:16:26Z
   Vendor: Bode Lana
   Product Type: Rug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0457/8266/3324/products/IMG_5042.jpg?v=1668327685
   Price: $129.00 NZD
 - [Teal Peak](https://bode-lana.co.nz/products/teal): All Bode Lana throw rugs are made from 100% natural cotton. This makes them both soft and durable. The rugs are woven on a jacquard loom, giving them good air permeability and the ability to handle sand well. This makes them versatile and suitable for indoors and out. Every rug is made with a combination of recycled cotton coloured cotton yarns. This means that when the final design is made, the rug will have a reversible side with contrasting colours. Two rugs in one! Measures approximately 160 x 200cm / 1.4kg. Exclusively designed by us in New Zealand Machine washable on cold / hang to dry / will soften with each wash Fits a double bed From picnics to the beach. In the mountains and on the road, we take our Bode Lana rugs everywhere with us and hope you will too. Tag us @bode.lana so we can see how you use your throws and the chance to be featured on our account. Please note colours may appear slightly different in pictures.
-  Updated: 2025-09-07T23:09:16Z
+  Updated: 2026-01-05T12:04:40Z
   Vendor: Bode Lana
   Product Type: Rug
   Availability: Available
@@ -39,14 +39,14 @@
   Image: https://cdn.shopify.com/s/files/1/0457/8266/3324/products/7F021A0E-6418-43CF-B2E7-BA623840132E.jpg?v=1668328383
   Price: $129.00 NZD
 - [Seafoam](https://bode-lana.co.nz/products/seafoam-throw): All Bode Lana throw rugs are made from 100% natural cotton. This makes them both soft and durable. The rugs are woven on a jacquard loom, giving them good air permeability and the ability to handle sand well. This makes them versatile and suitable for indoors and out. Every rug is made with a combination of recycled cotton coloured cotton yarns. This means that when the final design is made, the rug will have a REVERSIBLE side with contrasting colours. Two rugs in one! Measures approximately 160 x 200cm / 1.4kg. Exclusively designed by us in New Zealand Machine washable on cold / hang to dry / will soften with each wash Fits a double bed From picnics to the beach. In the mountains and on the road, we take our Bode Lana rugs everywhere with us and hope you will too. Tag us @bode.lana so we can see how you use your throws and the chance to be featured on our account. Please note colours may appear slightly different in pictures.
-  Updated: 2025-09-07T23:09:16Z
+  Updated: 2026-03-26T04:23:43Z
   Vendor: Bode Lana
   Product Type: Rug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0457/8266/3324/products/DAE467BC-1FAB-4372-91C8-CF193D0DD338_1_201_a.jpg?v=1629003775
   Price: $129.00 NZD
 - [Sage](https://bode-lana.co.nz/products/sage): All Bode Lana throw rugs are made from 100% natural cotton. This makes them both soft and durable. The rugs are woven on a jacquard loom, giving them good air permeability and the ability to handle sand well. This makes them versatile and suitable for indoors and out. Every rug is made with a combination of recycled cotton coloured cotton yarns. This means that when the final design is made, the rug will have a REVERSIBLE side with contrasting colours. Two rugs in one! Measures approximately 160 x 200cm / 1.4kg. Exclusively designed by us in New Zealand Machine washable on cold / hang to dry / will soften with each wash Fits a double bed From picnics to the beach. In the mountains and on the road, we take our Bode Lana rugs everywhere with us and hope you will too. Tag us @bode.lana so we can see how you use your throws and the chance to be featured on our account. Please note colours may appear slightly different in pictures.
-  Updated: 2025-09-07T23:09:16Z
+  Updated: 2026-03-18T08:29:44Z
   Vendor: Bode Lana
   Product Type: Rug
   Availability: Available
@@ -113,10 +113,10 @@
   Updated: 2025-11-07T12:10:00Z
   Total Products: 7
 - [Throws](https://bode-lana.co.nz/collections/throws)
-  Updated: 2025-12-05T12:10:45Z
+  Updated: 2026-01-05T12:09:04Z
   Total Products: 7
 - [Featured Collection](https://bode-lana.co.nz/collections/featured-collection)
-  Updated: 2025-12-05T12:10:45Z
+  Updated: 2026-01-05T12:09:04Z
   Total Products: 4
 
 ## Store Pages
