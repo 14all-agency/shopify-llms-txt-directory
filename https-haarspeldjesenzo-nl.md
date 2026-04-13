@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-27T18:38:27Z
 - Contact Email: info@haarspeldjesenzo.nl
-- Updated At: 2026-04-05T09:53:07.219Z
+- Updated At: 2026-04-13T00:00:27.727Z
 
 ## Products
 
@@ -347,126 +347,126 @@
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415591315.jpg?v=1766752243
   Price: € 9,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 5 cm speldjes - glitter - zilver en goud](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-5-cm-speldjes-glitter-zilver-en-goud-p799331731): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 5 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:16Z
+  Updated: 2026-04-10T07:40:02Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415572993.jpg?v=1766752243
   Price: € 12,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 5 cm speldjes - glimmend - goud en roze](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-5-cm-speldjes-glimmend-goud-en-roze-p799351060): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 5 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:16Z
+  Updated: 2026-04-10T07:40:00Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415584550.jpg?v=1766752243
   Price: € 11,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 5 cm speldjes - glimmend - zilver, blauw en roze](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-5-cm-speldjes-glimmend-zilver-blauw-en-roze-p799348138): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 5 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:17Z
+  Updated: 2026-04-10T07:40:01Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415584538.jpg?v=1766752243
   Price: € 11,95 EUR
 - [Haarspeldje hearts - hartjes - glamour - kerst - decembercollectie - najaar - 5 cm speldjes - glitters - roze](https://haarspeldjesenzo.nl/products/haarspeldje-hearts-hartjes-glamour-kerst-decembercollectie-najaar-5-cm-speldjes-glitters-roze-p799351057): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 5 cm met daarop mooie hartjes bevestigd. Worden verkocht in setjes van vier…
-  Updated: 2026-02-13T12:25:17Z
+  Updated: 2026-04-10T07:40:01Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415581284.jpg?v=1766752244
   Price: € 10,95 EUR
 - [Haarspeldje hearts - hartjes - glamour - kerst - decembercollectie - najaar - 5 cm speldjes - glimmend - grijs, goud en blauw](https://haarspeldjesenzo.nl/products/haarspeldje-hearts-hartjes-glamour-kerst-decembercollectie-najaar-5-cm-speldjes-glimmend-grijs-goud-en-blauw-p799348135): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 5 cm met daarop mooie hartjes bevestigd. Worden verkocht in setjes van zes…
-  Updated: 2026-02-13T12:25:17Z
+  Updated: 2026-04-10T07:40:01Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415554990.jpg?v=1766752244
   Price: € 11,95 EUR
 - [Haarspeldje hearts - hartjes - glamour - kerst - decembercollectie - najaar - 5 cm speldjes - glitters - goud en rood](https://haarspeldjesenzo.nl/products/haarspeldje-hearts-hartjes-glamour-kerst-decembercollectie-najaar-5-cm-speldjes-glitters-goud-en-rood-p799331727): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 5 cm met daarop mooie hartjes bevestigd. Worden verkocht in setjes van vier…
-  Updated: 2026-02-13T12:25:18Z
+  Updated: 2026-04-10T07:40:01Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415572800.jpg?v=1766752245
   Price: € 10,95 EUR
 - [Haarspeldje christmas - kerstman - kerstboom - rendier - kerst - decembercollectie - najaar - 5 cm speldjes - glitter](https://haarspeldjesenzo.nl/products/haarspeldje-christmas-kerstman-kerstboom-rendier-kerst-decembercollectie-najaar-5-cm-speldjes-glitter-p799348114): Wil je kerstmis dit jaar in stijl vieren!? Shop dat hier deze te leuke haarspeldjes met een kerstman, kerstboom en rendier erop. Helemaal 'glitter and glamour'. Je shopt hier de speldjes van 5 cm groot.
-  Updated: 2026-02-13T12:25:18Z
+  Updated: 2026-04-10T07:40:00Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415554928.jpg?v=1766752245
   Price: € 9,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 3 cm speldjes - glitter - goud en zilver](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-3-cm-speldjes-glitter-goud-en-zilver-p799348106): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 3 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:18Z
+  Updated: 2026-04-10T07:39:59Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415467622.jpg?v=1766752245
   Price: € 8,95 EUR
 - [Haarspeldje christmas - kerstman - kerstboom - rendier - kerst - decembercollectie - najaar - 3 cm speldjes - glitter](https://haarspeldjesenzo.nl/products/haarspeldje-christmas-kerstman-kerstboom-rendier-kerst-decembercollectie-najaar-3-cm-speldjes-glitter-p799348334): Wil je kerstmis dit jaar in stijl vieren!? Shop dat hier deze te leuke haarspeldjes met een kerstman, kerstboom en rendier erop. Helemaal 'glitter and glamour'. Je shopt hier de speldjes van 3 cm groot.
-  Updated: 2026-02-13T12:25:19Z
+  Updated: 2026-04-10T07:40:02Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415446496.jpg?v=1766752246
   Price: € 7,95 EUR
 - [Haarspeldje christmas - kerstman - kerstboom - rendier - kerst - decembercollectie - najaar - 4 cm speldjes - glitter](https://haarspeldjesenzo.nl/products/haarspeldje-christmas-kerstman-kerstboom-rendier-kerst-decembercollectie-najaar-4-cm-speldjes-glitter-p799331713): Wil je kerstmis dit jaar in stijl vieren!? Shop dat hier deze te leuke haarspeldjes met een kerstman, kerstboom en rendier erop. Helemaal 'glitter and glamour'. Je shopt hier de speldjes van 4 cm groot.
-  Updated: 2026-02-13T12:25:19Z
+  Updated: 2026-04-10T07:40:00Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415459102.jpg?v=1766752246
   Price: € 8,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glitter - roze](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glitter-roze-p799348102): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:19Z
+  Updated: 2026-04-10T07:39:59Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415467568.jpg?v=1766752246
   Price: € 9,95 EUR
 - [Haarspeldje hearts - hartjes - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glimmend - roze](https://haarspeldjesenzo.nl/products/haarspeldje-hearts-hartjes-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glimmend-roze-p799348322): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie hartjes bevestigd. Worden verkocht in setjes van vier…
-  Updated: 2026-02-13T12:25:20Z
+  Updated: 2026-04-10T07:39:58Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415459078.jpg?v=1766752247
   Price: € 9,95 EUR
 - [Haarspeldje hearts - hartjes - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glitters - goud en rood](https://haarspeldjesenzo.nl/products/haarspeldje-hearts-hartjes-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glitters-goud-en-rood-p799331712): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie hartjes bevestigd. Worden verkocht in setjes van vier…
-  Updated: 2026-02-13T12:25:20Z
+  Updated: 2026-04-10T07:40:01Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415467538.jpg?v=1766752247
   Price: € 9,95 EUR
 - [Haarspeldje hearts - hartjes - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glimmend - grijs, goud en blauw](https://haarspeldjesenzo.nl/products/haarspeldje-hearts-hartjes-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glimmend-grijs-goud-en-blauw-p799351046): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie hartjes bevestigd. Worden verkocht in setjes van zes…
-  Updated: 2026-02-13T12:25:20Z
+  Updated: 2026-04-10T07:39:59Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415446400.jpg?v=1766752247
   Price: € 11,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glimmend - zilver, blauw en roze](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glimmend-zilver-blauw-en-roze-p799348319): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:21Z
+  Updated: 2026-04-10T07:39:59Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415446356.jpg?v=1766752248
   Price: € 11,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glimmend - goud en roze](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glimmend-goud-en-roze-p799351045): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:21Z
+  Updated: 2026-04-10T07:39:58Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415444550.jpg?v=1766752248
   Price: € 11,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glitter - zilver en goud](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glitter-zilver-en-goud-p799348089): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:21Z
+  Updated: 2026-04-10T07:39:58Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415446326.jpg?v=1766752248
   Price: € 11,95 EUR
 - [Haarspeldje stars - sterren - glamour - kerst - decembercollectie - najaar - 4 cm speldjes - glitter - zwart en roze](https://haarspeldjesenzo.nl/products/haarspeldje-stars-sterren-glamour-kerst-decembercollectie-najaar-4-cm-speldjes-glitter-zwart-en-roze-p799348318): We gaan richting het najaar en dus ook naar de herfstige kleuren en feestelijke decembercollectie met glitter en glamour! Hoe leuk is het dan om alvast deze parels te shoppen voor je dochter? Een mooi setje met speldjes van 4 cm met daarop mooie glittersterren bevestigd. Worden verkocht in setjes…
-  Updated: 2026-02-13T12:25:22Z
+  Updated: 2026-04-10T07:39:58Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
@@ -1187,49 +1187,49 @@
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5405751122.jpg?v=1766752290
   Price: € 8,95 EUR
 - [Diadeem met vlinder - khaki diadeem - velvet - wit](https://haarspeldjesenzo.nl/products/diadeem-met-vlinder-khaki-diadeem-velvet-wit-p798709563): Een mooie diadeem met tandjes in de kleur khaki van 7/8 mm breed. Op de diadeem is een mooie elegante vlinder bevestigd met kleine pareltjes in het midden. Ideaal omdat ze goed blijven zitten in de haren. Leuk om in losse haren te dragen, maar ook leuk om met bijvoorbeeld een hoge knot te dragen.…
-  Updated: 2026-02-13T12:25:49Z
+  Updated: 2026-04-10T06:41:04Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5404469925.jpg?v=1766752291
   Price: € 8,95 EUR
 - [Diadeem met vlinder - khaki diadeem - velvet - roze](https://haarspeldjesenzo.nl/products/diadeem-met-vlinder-khaki-diadeem-velvet-roze-p798686992): Een mooie diadeem met tandjes in de kleur khaki van 7/8 mm breed. Op de diadeem is een mooie elegante vlinder bevestigd met kleine pareltjes in het midden. Ideaal omdat ze goed blijven zitten in de haren. Leuk om in losse haren te dragen, maar ook leuk om met bijvoorbeeld een hoge knot te dragen.…
-  Updated: 2026-02-13T12:25:49Z
+  Updated: 2026-04-10T06:41:19Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5404469919.jpg?v=1766752291
   Price: € 8,95 EUR
 - [Diadeem met vlinder - khaki diadeem - velvet - khaki/bruin](https://haarspeldjesenzo.nl/products/diadeem-met-vlinder-khaki-diadeem-velvet-khaki-bruin-p798709561): Een mooie diadeem met tandjes in de kleur khaki van 7/8 mm breed. Op de diadeem is een mooie elegante vlinder bevestigd met kleine pareltjes in het midden. Ideaal omdat ze goed blijven zitten in de haren. Leuk om in losse haren te dragen, maar ook leuk om met bijvoorbeeld een hoge knot te dragen.…
-  Updated: 2026-02-13T12:25:49Z
+  Updated: 2026-04-10T06:41:35Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5404480834.jpg?v=1766752291
   Price: € 8,95 EUR
 - [Diadeem met vlinder - khaki diadeem - velvet - lichtroze](https://haarspeldjesenzo.nl/products/diadeem-met-vlinder-khaki-diadeem-velvet-lichtroze-p798709560): Een mooie diadeem met tandjes in de kleur khaki van 7/8 mm breed. Op de diadeem is een mooie elegante vlinder bevestigd met kleine pareltjes in het midden. Ideaal omdat ze goed blijven zitten in de haren. Leuk om in losse haren te dragen, maar ook leuk om met bijvoorbeeld een hoge knot te dragen.…
-  Updated: 2026-02-13T12:25:49Z
+  Updated: 2026-04-10T06:52:02Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5404490754.jpg?v=1766752291
   Price: € 8,95 EUR
 - [Diadeem met vlinder - khaki diadeem - velvet - oudroze](https://haarspeldjesenzo.nl/products/diadeem-met-vlinder-khaki-diadeem-velvet-oudroze-p798715348): Een mooie diadeem met tandjes in de kleur khaki van 7/8 mm breed. Op de diadeem is een mooie elegante vlinder bevestigd met kleine pareltjes in het midden. Ideaal omdat ze goed blijven zitten in de haren. Leuk om in losse haren te dragen, maar ook leuk om met bijvoorbeeld een hoge knot te dragen.…
-  Updated: 2026-02-13T12:25:49Z
+  Updated: 2026-04-10T06:51:43Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5404469871.jpg?v=1766752292
   Price: € 8,95 EUR
 - [Diadeem met vlinders - khaki diadeem - velvet - beige](https://haarspeldjesenzo.nl/products/diadeem-met-vlinders-khaki-diadeem-velvet-beige-p798686987): Een mooie diadeem met tandjes in de kleur khaki van 7/8 mm breed. Op de diadeem zijn mooie 'velvet' vlinders bevestigd. Ideaal omdat ze goed blijven zitten in de haren. Leuk om in losse haren te dragen, maar ook leuk om met bijvoorbeeld een hoge knot te dragen. Hartstikke leuk voor je kleine meid!
-  Updated: 2026-02-13T12:25:50Z
+  Updated: 2026-04-10T06:43:01Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5404480786.jpg?v=1766752292
   Price: € 8,95 EUR
 - [Diadeem met vlinders - khaki diadeem - velvet - bruin](https://haarspeldjesenzo.nl/products/diadeem-met-vlinders-khaki-diadeem-velvet-bruin-p798715347): Een mooie diadeem met tandjes in de kleur khaki van 7/8 mm breed. Op de diadeem zijn mooie 'velvet' vlinders bevestigd. Ideaal omdat ze goed blijven zitten in de haren. Leuk om in losse haren te dragen, maar ook leuk om met bijvoorbeeld een hoge knot te dragen. Hartstikke leuk voor je kleine meid!
-  Updated: 2026-02-13T12:25:50Z
+  Updated: 2026-04-10T06:43:25Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
@@ -1444,13 +1444,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5343092949.jpg?v=1766752306
-  Price: € 3,95 EUR
-- [Bananen klem - bananen clip - haarklem - zwart](https://haarspeldjesenzo.nl/products/bananen-klem-bananen-clip-haarklem-zwart-p794068537): Een haarclip in een mooie matte kleur. De clip heeft een sluiting en allemaal dunne pennetjes zodat het goed in je haar blijft zitten, een zogenoemde bananenklem. Verkrijgbaar in verschillende kleuren en maten. Deze bananenklem is 7 cm groot waardoor hij dus geschikt is voor de kleinere staartjes/…
-  Updated: 2026-02-20T22:31:47Z
-  Vendor: Haarspeldjes & zo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5343082441.jpg?v=1766752307
   Price: € 3,95 EUR
 - [Bananen klem - bananen clip - haarklem - hartje - khaki](https://haarspeldjesenzo.nl/products/bananen-klem-bananen-clip-haarklem-hartje-khaki-p794068533): Een haarclip in een mooie matte kleur in de vorm van een hartje. De clip heeft een sluiting en allemaal dunne pennetjes zodat het goed in je haar blijft zitten, een zogenoemde bananenklem. Verkrijgbaar in verschillende kleuren en maten. Deze bananenklem is 10 cm groot.
   Updated: 2026-02-13T12:25:58Z
@@ -1760,7 +1753,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321639629.jpg?v=1766752329
   Price: € 9,95 EUR
-[List Continued](https://haarspeldjesenzo.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2NTA3NjcxOTk5OSwibGFzdF92YWx1ZSI6IjE1NDY1MDc2NzE5OTk5In0=)
+- [Baby haarspeldjes - mini - 2cm groot - voor de eerste lokjes haar - imitatieleer - bloemetjes - hartjes - sterretjes - bruin](https://haarspeldjesenzo.nl/products/baby-haarspeldjes-mini-2cm-groot-voor-de-eerste-lokjes-haar-imitatieleer-bloemetjes-hartjes-sterretjes-bruin-p792690188): Weinig winkels verkopen ze! Haarspeldjes voor de aller eerste lokjes van je kleine meisje. De meeste haarspeldjes zijn 3, 4 of 5 cm groot. Maar deze mini-speldjes zijn 2 cm groot en daardoor ideaal voor jouw baby'tje! Op het klik-klak haarspeldje zit een leuke applicatie bevestigd zoals een bloem of…
+  Updated: 2026-02-13T12:26:11Z
+  Vendor: Haarspeldjes & zo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321611940_59be73f5-3659-4b1f-8e65-200b83dbd1e1.jpg?v=1766752330
+  Price: € 9,95 EUR
+[List Continued](https://haarspeldjesenzo.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2NTA3Njc1Mjc2NywibGFzdF92YWx1ZSI6IjE1NDY1MDc2NzUyNzY3In0=)
 
 ## Collections
 
@@ -1777,8 +1777,8 @@
   Updated: 2026-03-20T20:20:20Z
   Total Products: 40
 - [Diademen bekleed met stof](https://haarspeldjesenzo.nl/collections/diademen-bekleed-met-stof): Stijlvolle diademen bekleed met zachte stof. Perfect voor een elegante look!
-  Updated: 2026-04-04T12:21:29Z
-  Total Products: 115
+  Updated: 2026-04-09T18:44:05Z
+  Total Products: 118
 - [Diademen met imitatieleer](https://haarspeldjesenzo.nl/collections/diademen-met-imitatieleer): Trendy diademen met imitatieleer voor een stoere, moderne uitstraling.
   Updated: 2026-03-30T12:44:48Z
   Total Products: 10
@@ -1789,16 +1789,16 @@
   Updated: 2026-03-22T11:39:23Z
   Total Products: 44
 - [Diadeem Flower](https://haarspeldjesenzo.nl/collections/diadeem-flower): Romantische diademen versierd met bloemen. Perfect voor een speelse, vrouwelijke look!
-  Updated: 2026-03-23T20:49:29Z
+  Updated: 2026-04-09T18:51:56Z
   Total Products: 124
-- [Diadeem bridesmaid (bruidsmeisje)](https://haarspeldjesenzo.nl/collections/diadeem-bridesmaid-bruidsmeisje): Elegante diademen speciaal voor bruidsmeisjes. Maak de grote dag extra bijzonder!
-  Updated: 2026-03-01T13:05:21Z
+- [Diadeem bridesmaid en baby haarbandje (bruidsmeisje)](https://haarspeldjesenzo.nl/collections/diadeem-bridesmaid-bruidsmeisje): Elegante diademen speciaal voor bruidsmeisjes. Maak de grote dag extra bijzonder!
+  Updated: 2026-04-09T18:38:22Z
   Total Products: 4
 - [Baby-hoofdbanden](https://haarspeldjesenzo.nl/collections/baby-hoofdbanden): Zachte hoofdbanden speciaal voor baby's. Schattig en comfortabel!
-  Updated: 2026-04-04T12:05:31Z
+  Updated: 2026-04-12T11:56:14Z
   Total Products: 33
 - [Baby haarbandjes](https://haarspeldjesenzo.nl/collections/baby-haarbandjes): Lieve haarbandjes voor de allerkleinsten. Zacht en veilig voor baby's!
-  Updated: 2026-03-23T11:59:00Z
+  Updated: 2026-04-09T18:50:37Z
   Total Products: 31
 - [Scrunchies](https://haarspeldjesenzo.nl/collections/scrunchies): Trendy scrunchies in verschillende kleuren en materialen. Een musthave voor je collectie!
   Updated: 2026-03-20T21:06:50Z
@@ -1810,7 +1810,7 @@
   Updated: 2026-03-20T21:27:47Z
   Total Products: 15
 - [Haarklemmen en bananenklemmen](https://haarspeldjesenzo.nl/collections/haarklemmen): Handige haarklemmen en bananenklemmen in verschillende maten en kleuren. Voor elke haarstijl!
-  Updated: 2026-04-01T12:06:02Z
+  Updated: 2026-04-11T11:59:19Z
   Total Products: 101
 - [Bandeau haarbanden met ijzerdraad](https://haarspeldjesenzo.nl/collections/bandeau-haarbanden-met-ijzerdraad): Vintage bandeau haarbanden met ijzerdraad. Verstelbaar en stijlvol!
   Updated: 2026-03-22T21:03:07Z
@@ -1834,8 +1834,8 @@
   Updated: 2026-03-27T12:06:31Z
   Total Products: 52
 - [Sjaals, mutsen en handschoenen (voor kinderen)](https://haarspeldjesenzo.nl/collections/sjaals-mutsen-en-handschoenen-voor-kinderen): Complete wintersets voor kinderen met muts, sjaal en handschoenen. Warm en gezellig!
-  Updated: 2026-04-03T12:10:42Z
-  Total Products: 31
+  Updated: 2026-04-10T13:28:21Z
+  Total Products: 37
 - [Oorwarmers (voor kinderen)](https://haarspeldjesenzo.nl/collections/oorwarmers-voor-kinderen): Zachte oorwarmers speciaal voor kinderen. Houd de oortjes warm!
   Updated: 2026-03-20T21:25:47Z
   Total Products: 76
@@ -1843,7 +1843,7 @@
   Updated: 2026-04-04T12:18:01Z
   Total Products: 16
 - [Lente & Zomer Accessoires - Haarspeldjes & zo](https://haarspeldjesenzo.nl/collections/lente-zomer): Shop zomer accessoires: strandtassen, zonnebrillen, zonnehoedjes, petjes en meer. Stijlvol de zomer door!
-  Updated: 2026-04-04T12:48:10Z
+  Updated: 2026-04-11T11:59:19Z
   Total Products: 86
 - [Strandtassen](https://haarspeldjesenzo.nl/collections/strandtassen-en-zonnehoeden-vrouw): Stijlvolle strandtassen voor dames. Perfect voor een dagje strand of zomerse uitjes!
   Updated: 2026-03-22T21:11:18Z
@@ -1855,32 +1855,32 @@
   Updated: 2026-03-22T21:40:54Z
   Total Products: 3
 - [Zomerhoedjes (en tasjes) voor kids](https://haarspeldjesenzo.nl/collections/zomerhoedjes-en-tasjes-voor-kids): Schattige zomerhoedjes en tasjes voor kinderen. Bescherming tegen de zon met een speelse twist!
-  Updated: 2026-04-04T12:48:10Z
+  Updated: 2026-04-11T11:59:19Z
   Total Products: 23
 - [Petjes voor kinderen](https://haarspeldjesenzo.nl/collections/petjes-voor-kinderen): Stoere en leuke petjes voor kinderen. Perfect voor zonnige dagen!
   Updated: 2026-03-22T21:21:35Z
   Total Products: 0
 - [December Specials Haaraccessoires - Haarspeldjes & zo](https://haarspeldjesenzo.nl/collections/december-specials-haaraccessoires): Shop december specials: adventskalenders, diademen, baby haarbandjes en meer feestelijke haaraccessoires voor de gezelligste maand van het jaar!
-  Updated: 2026-02-13T12:25:05Z
+  Updated: 2026-04-09T19:20:53Z
   Total Products: 0
 - [Diademen](https://haarspeldjesenzo.nl/collections/diademen): Elegante diademen in verschillende stijlen en kleuren. Voor elke gelegenheid!
   Updated: 2026-04-04T13:23:10Z
   Total Products: 62
 - [Baby haarbandjes](https://haarspeldjesenzo.nl/collections/baby-haarbandjes-1): Zachte haarbandjes voor baby's met bloemetjes en andere lieve details!
-  Updated: 2026-03-23T11:59:00Z
+  Updated: 2026-04-09T18:50:37Z
   Total Products: 31
 - [Baby haarspeldjes mini en clips (2 cm)](https://haarspeldjesenzo.nl/collections/baby-haarspeldjes-mini-en-clips-2-cm): Mini haarspeldjes en clips speciaal voor baby's, slechts 2 cm groot. Perfect voor fijn babyhaar!
-  Updated: 2026-04-02T13:51:21Z
+  Updated: 2026-04-08T12:27:15Z
   Total Products: 132
 - [Antislip haarspeldjes](https://haarspeldjesenzo.nl/collections/antislip-haarspeldjes): Antislip haarspeldjes die goed blijven zitten, perfect voor baby's en kinderen met fijn haar!
-  Updated: 2026-04-03T12:10:42Z
+  Updated: 2026-04-06T11:49:38Z
   Total Products: 120
 - [Haarspeldjes met imitatieleer](https://haarspeldjesenzo.nl/collections/haarspeldjes-met-imitatieleer): Stoere haarspeldjes met imitatieleer details. Trendy en stijlvol!
   Updated: 2026-03-30T12:44:48Z
   Total Products: 10
 - [Haarspeldjes met applicaties](https://haarspeldjesenzo.nl/collections/haarspeldjes-met-applicaties): Leuke haarspeldjes versierd met applicaties zoals bloemetjes, sterretjes en meer!
-  Updated: 2026-04-03T12:10:42Z
-  Total Products: 166
+  Updated: 2026-04-09T19:40:21Z
+  Total Products: 173
 - [French Barrette spelden](https://haarspeldjesenzo.nl/collections/alligatorclips-en-french-barrette-spelden): Stevige French Barrette spelden in verschillende maten voor een goede grip in het haar!
   Updated: 2026-03-20T20:53:37Z
   Total Products: 23
@@ -1891,17 +1891,17 @@
   Updated: 2026-03-22T21:45:45Z
   Total Products: 7
 - [Scrunchies en elastiekjes](https://haarspeldjesenzo.nl/collections/scrunchies-en-elastiekjes): Trendy scrunchies en elastiekjes voor elke dag. Haarschonend en stijlvol!
-  Updated: 2026-04-04T12:18:01Z
-  Total Products: 186
+  Updated: 2026-04-09T18:50:37Z
+  Total Products: 154
 - [Haarspeldjes & Haarclips - Haarspeldjes & zo](https://haarspeldjesenzo.nl/collections/haarspeldjes-haarclips): Shop haarspeldjes en haarclips in alle soorten: antislip, mini, met bloemen, leer en meer. Voor baby's, kinderen en volwassenen!
-  Updated: 2026-04-04T12:20:43Z
-  Total Products: 982
+  Updated: 2026-04-11T08:43:40Z
+  Total Products: 950
 - [Antislip haarspeldjes](https://haarspeldjesenzo.nl/collections/antislip-haarspeldjes-1): Antislip haarspeldjes die perfect blijven zitten, ideaal voor baby's en kinderen met fijn haar!
-  Updated: 2026-04-03T12:10:42Z
+  Updated: 2026-04-06T11:49:38Z
   Total Products: 104
 - [Mini haarspeldjes (2 cm)](https://haarspeldjesenzo.nl/collections/mini-haarspeldjes-2-cm): Extra kleine haarspeldjes van slechts 2 cm, perfect voor baby's en peuters met fijn haar!
-  Updated: 2026-03-05T21:47:32Z
-  Total Products: 0
+  Updated: 2026-04-09T19:20:24Z
+  Total Products: 132
 - [Haarspeldje Lott](https://haarspeldjesenzo.nl/collections/haarspeldje-lott): Haarspeldjes uit de Lott serie in verschillende kleuren en maten!
   Updated: 2026-03-22T21:34:32Z
   Total Products: 64
@@ -1909,31 +1909,31 @@
   Updated: 2026-03-22T21:38:43Z
   Total Products: 34
 - [Haarspeldje Liz](https://haarspeldjesenzo.nl/collections/haarspeldje-liz): Golvende haarspeldjes uit de Liz serie in verschillende kleuren en maten!
-  Updated: 2026-04-04T12:20:43Z
+  Updated: 2026-04-11T08:43:10Z
   Total Products: 75
 - [Haarspeldje Noor](https://haarspeldjesenzo.nl/collections/haarspeldje-noor): Golvende open haarspeldjes uit de Noor serie in verschillende kleuren en maten!
-  Updated: 2026-03-22T21:00:19Z
+  Updated: 2026-04-11T08:43:40Z
   Total Products: 67
 - [Haarspeldje Fluffy, Teddy, Rib, Velvet](https://haarspeldjesenzo.nl/collections/haarspeldje-fluffy-teddy-rib-velvet): Zachte haarspeldjes in fluffy, teddy, rib en velvet materialen. Extra zacht en comfortabel!
-  Updated: 2026-02-13T12:25:07Z
-  Total Products: 69
+  Updated: 2026-04-09T19:39:33Z
+  Total Products: 28
 - [MIX try-out setjes](https://haarspeldjesenzo.nl/collections/mix-try-out-setjes): Mix setjes om verschillende haarspeldjes uit te proberen. Perfect om je favorieten te ontdekken!
-  Updated: 2026-04-04T12:20:20Z
-  Total Products: 227
-- [Haarspeldje Blossom Wol flower](https://haarspeldjesenzo.nl/collections/haarspeldje-blossom-wol-flower): Haarspeldjes met wollen bloemen uit de Blossom serie. Zacht en stijlvol!
-  Updated: 2026-02-13T12:25:07Z
-  Total Products: 0
+  Updated: 2026-04-09T19:43:18Z
+  Total Products: 210
+- [Haarspeldje Blossom & Wol flower](https://haarspeldjesenzo.nl/collections/haarspeldje-blossom-wol-flower): Haarspeldjes met wollen bloemen uit de Blossom serie. Zacht en stijlvol!
+  Updated: 2026-04-09T19:17:09Z
+  Total Products: 33
 - [Haarspeldje Flower](https://haarspeldjesenzo.nl/collections/haarspeldje-flower): Haarspeldjes met bloemetjes in verschillende kleuren en maten!
-  Updated: 2026-03-16T11:57:18Z
+  Updated: 2026-04-09T19:15:19Z
   Total Products: 76
 - [Haarspeldje Leather flower](https://haarspeldjesenzo.nl/collections/haarspeldje-leather-flower): Haarspeldjes met leren bloemetjes. Stoer en trendy!
   Updated: 2026-03-22T21:42:13Z
   Total Products: 7
 - [Haarspeldje Pearly Flower & Butterfly](https://haarspeldjesenzo.nl/collections/haarspeldje-pearly-flower-butterfly): Haarspeldjes met parels, bloemen en vlinders. Elegant en speels!
-  Updated: 2026-04-02T13:51:21Z
-  Total Products: 6
+  Updated: 2026-04-09T19:45:27Z
+  Total Products: 2
 - [Haarclip hearts](https://haarspeldjesenzo.nl/collections/haarclip-hearts): Haarclips met hartjes. Lief en speels!
-  Updated: 2026-02-13T12:25:07Z
+  Updated: 2026-04-09T18:36:06Z
   Total Products: 13
 - [French Barrette](https://haarspeldjesenzo.nl/collections/french-barrette): French Barrette haarspelden voor een stevige grip en elegante look!
   Updated: 2026-03-22T21:58:44Z
@@ -1962,6 +1962,9 @@
 - [ - Haarspeldjes & zo](https://haarspeldjesenzo.nl/collections/): Shop haaraccessoires en sieraden in de . Mooie kortingen op diademen, haarspeldjes, scrunchies en meer!
   Updated: 2026-02-13T12:25:08Z
   Total Products: 0
+- [Sjaaltjes](https://haarspeldjesenzo.nl/collections/sjaaltjes): Deze mini sjaals zijn de finishing touch voor jouw look!
+  Updated: 2026-04-10T13:28:21Z
+  Total Products: 6
 
 ## Blogs
 
