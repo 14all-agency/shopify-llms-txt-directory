@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-06-25T16:09:13Z
 - Contact Email: kontakt.boxdlapsa@gmail.com
-- Updated At: 2026-04-03T00:00:23.717Z
+- Updated At: 2026-04-13T00:00:34.771Z
 
 ## Products
 
@@ -73,13 +73,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/jagniecina-z-cukinia-15.jpg?v=1767784495
   Price: 43,90 zł PLN
-- [Karma mokra  Kaczka z jabłkiem 400g](https://boxdlapsa.pl/products/karma-mokra-kaczka-z-jablkiem-400g): Karma mokra Kaczka z jabłkiem (Duck&Apple) 400g Paka Zwierzaka Idealnie zbilansowana mokra karma superpremium dla psów w każdym wieku. Kompletny posiłek pozbawiony zbóż, glutenu, konserwantów i sztucznych barwników. Najwyższej jakości mięso kaczki oraz dodatek jabłek sprawiają, że karma jest pyszna i lekkostrawna. Starannie dobrana formuła dla psów z wrażliwym żołądkiem. Karma ma w składzie tylko jedno źródło białka zwierzęcego. Idealnie sprawdzi się u psów posiadających objawy alergiczne oraz delikatny przewód pokarmowy. Skład: Kaczka 96,7% (w tym 68% mięso kacze i podroby, 28,7% rosół z kaczki), jabłka 2%, minerały i witaminy 1%, olej z łososia 0,2%, małża nowozelandzka 0,1%. Składniki analityczne: Białko 10,8%, tłuszcz 1,3%, surowy popiół 1,39%, surowe włókno 0,6%, wilgotność 83%, wapń 0,3%, fosfor 0,2% Energia metaboliczna: 88 kcal/100 g Dodatki żywieniowe: Witamina A 2670 j.m, witamina D3 290 j.m., witamina E 50 mg, jodnowodny siarczan cynku 42 mg Dodatkowe informacje: Przechowuj w suchym i chłodnym miejscu, z dala od światła słonecznego. Podawaj w temperaturze pokojowej. Po otwarciu przechowywać w lodówce maksymalnie do 48 godzin. Stosować zgodnie z przeznaczeniem.
-  Updated: 2026-03-10T14:03:36Z
-  Vendor: Boxdlapsa
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/kaczka-z-jablkiem-1.webp?v=1767784570
-  Price: 12,50 zł PLN
 - [Miska M Fiboo – pojemność 400 ml](https://boxdlapsa.pl/products/miska-m-fiboo-pojemnosc-400-ml): Miska M Fiboo – pojemność 400 ml Najważniejsze cechy:- Pojemność: 400 ml – odpowiednia porcja dla średnich pupili- Wymiary: 172 x 172 x 48 mm – praktyczny rozmiar na każdy dzień - Gumki antypoślizgowe – stabilność podczas jedzenia- Wykonana z materiału pochodzącego w 100% z recyklingu - Nie nadaje się do mycia w zmywarce - W 100% nadaje się do ponownego przetworzenia
   Updated: 2026-01-07T23:19:30Z
   Vendor: Boxdlapsa
@@ -143,20 +136,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/PERRO-Indyk-z-cukinia-monobialkowa-formula-dla-psow-doroslych-410g__1033__780.jpg?v=1773160669
   Price: 12,90 zł PLN
-- [Karma sucha Kaczka z jabłkiem "M" 1,5 kg](https://boxdlapsa.pl/products/karma-sucha-kaczka-z-jablkiem-m-1-5-kg): Karma sucha Kaczka z jabłkiem "M" 1,5 kgDoskonale zbilansowana sucha karma pozbawiona zbóż, grochu, kukurydzy, soi, konserwantów i sztucznych barwników. Najwyższej jakości mięso kaczki, jabłek, warzyw i zioła pozyskiwane od lokalnych dostawców zapewnią wysoką smakowitość i łatwą przyswajalność. Idealna formuła dla psów z delikatnym żołądkiem i nietolerancją na zboża.Skład: Kaczka i jabłko 39% ( w tym suszone mięso kaczki 35%, jabłko 4%), ziemniaki 20%, skrobia ziemniaczana, zioła 9% (siemię lniane, ostropest, lucerna, szałwia, cykoria, dzika róża, pokrzywa, czystek) olej z łososia 8%, wysłodki buraczane, suszone drożdze piwne, minerały i witaminy, małże nowozelandzkie, MOS, glukozamina, chondroityna.Składniki analityczne: Białko surowe (29%), Tłuszcz surowy (16%), Popiół surowy (11%), Włókno surowe (4%), Wilgotność (9%), Wapń (1,2%), Fosfor (1%) Dodatki: Witamina A (E672) 12000 j.m., witamina D3 (E671) 1200 j.m., witamina E (3a700) 70 j.m., cynk (siarczan cynku, jednowodny) 36 mg, żelazo (siarczan żelaza (II) monohydrat) 24 mg, mangan (siarczan manganowy, monohydrat) 24 mg, miedź (siarczan miedzi, pentahydrat: E4) 10 mg, jod (bezwodny jodan wapnia) 0,4 mg, selen (selenin sodu) 0,2 mg, antyutleniacz 0,01% Energia metaboliczna: 347,33 kcal/100g
-  Updated: 2026-03-02T11:30:26Z
-  Vendor: Boxdlapsa
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/kaczka-z-jablkiem-15.jpg?v=1767783819
-  Price: 40,90 zł PLN
-- [Karma sucha Jagnięcina i dzika róża"L" Junior 1,5 kg](https://boxdlapsa.pl/products/karma-sucha-jagniecina-i-dzika-rozal-junior-1-5-kg): Karma sucha Jagnięcina i dzika róża "L" Junior 1,5 kg Skład: Jagnięcina i dzika róża 38% (w tym suszone mięso jagnięce 35%, dzika róża 3%), ziemniaki 26%, skrobia ziemniaczana, olej z łososia 10%, zioła 6% (siemię lniane, ostropest, pokrzywa, cykoria, czystek), suszone drożdże piwne, wysłodki buraczane, jabłko, marchewka, minerały i witaminy, MOS, glukozamina, chondroityna. Składniki analityczne: Białko surowe (31%), Tłuszcz surowy (17%), Popiół surowy (11%), Włókno surowe (4%), Wapń (1,2%), Fosfor (1%).Energia metaboliczna: 348 kcal/100g Dodatki żywieniowe: Witamina A (3a672a) 30000 j.m. witamina D3 (3a671) 2700 j.m., witamina E 750mg, witamina K3 1,5 mg., witamina B1 3 mg., witamina B2 4,5 mg., witamina B6 7,5 mg., witamina B12 30 μg., biotyna 900 μg., niacyna 30 mg., kwas pantotenowy 6 mg., kwas foliowy 0,54 mg., chlorek choliny 24 mg., żelazo (siarczan żelaza (II) monohydrat; 3b103) 36 mg., jod (bezwodny jodan wapnia 3b202) 0,6 mg., miedź (siarczan miedzi, pentahy- drat:E4) 15 mg., mangan (siarczan manganowy, monohydrat; 3b503) 36 mg., cynk (siarczan cynku, jednowodny; 3b605) 54 mg, selen (selenin sodu E8) 0,3.
-  Updated: 2026-02-17T17:08:37Z
-  Vendor: Boxdlapsa
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/jagniecian-roza-15.jpg?v=1767783763
-  Price: 48,90 zł PLN
 - [Kiełbaska kaczka 200 g](https://boxdlapsa.pl/products/kielbaska-kaczka-200-g): Kiełbaska kaczka 200 g Wyjątkowa kiełbaska treningowa dla psa zawiera aż 97% mięsa z kaczki oraz 3% bezglutenowej, lekkostrawnej tapioki. Zwarta i jędrna konsystencja pozwala łatwo kroić ją na małe kawałki, które mogą zostać wykorzystane jako idealna nagroda podczas treningów. Kiełbaska może również stanowić urozmaicenie codziennej diety lub uzupełnienie posiłków.Mięso kaczki dostarcza wielu ważnych witamin i minerałów, takich jak witamina B12, żelazo, cynk, selen oraz witaminy z grupy B. Zawiera zdrowe tłuszcze, w tym kwasy tłuszczowe omega-3 i omega-6, które mają pozytywny wpływ na układ sercowo-naczyniowy oraz wspierają funkcje mózgu. Tapioka jest naturalnie bezglutenowa, lekkostrawna, głównie składa się z węglowodanów, co czyni ją dobrym źródłem energii. Jest szczególnie przydatna w diecie psów aktywnych. Skład: 97% mięsa z kaczki, 3% tapioka.Składniki analityczne: Białko (14,6%), tłuszcz (10,9%), błonnik (0,3%), popiół (2%) wilgotność (67,7%).
   Updated: 2026-01-07T07:57:08Z
   Vendor: Boxdlapsa
@@ -269,13 +248,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/kaczka.jpg?v=1767805266
   Price: 19,50 zł PLN
-- [Mata antypoślizgowa pod miski – 47×30 cm](https://boxdlapsa.pl/products/mata-antyposlizgowa-pod-miski-47-30-cm): Mata antypoślizgowa pod miski – 47×30 cmNajważniejsze cechy: - Antypoślizgowa – zapewnia stabilność misek, zapobiegając ich przesuwaniu podczas jedzenia lub picia.- Idealna do różnych misek – mieści 2 miski M.- Bez toksycznych substancji – wykonana z materiałów bezpiecznych dla zdrowia Twojego psa.- W 100% nadaje się do ponownego przetworzenia – ekologiczna opcja, dbająca o środowisko. Dla kogo jest ten produkt? - Dla właścicieli psów – idealna do użytku w domu, gdzie miski, miskomaty lub maty lizakowe mogą zostać stabilnie umieszczone.- Dla osób dbających o porządek – zapobiega przesuwaniu się misek, utrzymując przestrzeń czystą i uporządkowaną.- Dla osób ceniących ekologiczne rozwiązania – wykonana z materiałów nadających się do recyklingu, przyjazna dla środowiska.- Dla zwierząt o różnych preferencjach żywieniowych – wystarczająco przestronna, aby pomieścić różnorodne akcesoria do karmienia.
-  Updated: 2026-01-28T22:49:06Z
-  Vendor: Fiboo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/pol_il_Mata-antyposlizgowa-pod-miski-47x30-cm-1045.png?v=1767810184
-  Price: 42,90 zł PLN
 - [Antypoślizgowa miska spowalniająca jedzenie](https://boxdlapsa.pl/products/antyposlizgowa-miska-spowalniajaca-jedzenie-1): Antypoślizgowa miska spowalniająca jedzenie - rozmiar 19 cm Fiboo Najważniejsze cechy:- Spowalnia jedzenie – Specjalnie zaprojektowane wypustki i żłobienia wydłużają czas spożywania posiłku, zapobiegając problemom gastrycznym.- Bezpieczny i trwały materiał – Wykonana z innowacyjnego tworzywa pochodzącego z recyklingu, wzbogaconego o naturalne włókna drzewne. Przyjazna dla środowiska i w 100% bezpieczna dla zwierząt.- Antypoślizgowa podstawa – Zapewnia stabilność miski podczas jedzenia, zapobiegając jej przesuwaniu się po podłodze.- Łatwa w czyszczeniu – Można myć ręcznie lub w zmywarce, co ułatwia utrzymanie higieny.- Nowoczesny design – Elegancka forma i naturalne kolory sprawiają, że miska doskonale komponuje się z wnętrzem każdego domu.
   Updated: 2026-01-28T22:48:00Z
   Vendor: Fiboo
@@ -424,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/IMG_2958.heic?v=1772570973
   Price: 79,90 zł PLN
 - [Box Niespodzianka](https://boxdlapsa.pl/products/box-niespodzianka-kaczka): Chcesz sprawić swojemu psu prawdziwą frajdę? Nasz Box Niespodzianka to idealne połączenie pysznych smakołyków i ekscytującej zabawki, które razem gwarantują jedno: radość! W środku czeka starannie dobrana niespodzianka – coś na smaczne nagrody i coś do szalonej zabawy. Każdy box to nowa przygoda, nowe zapachy, nowe emocje… i ten błysk w psich oczach, którego nie da się podrobić 🥹💛 ✨ Idealny na prezent✨ Świetny sposób, by rozpieszczać pupila bez okazji✨ 100% radości, 0% nudy Bo Twój pies zasługuje na coś więcej niż zwykły spacer.Podaruj mu niespodziankę, którą pokocha od pierwszego otwarcia! 🐕🎉
-  Updated: 2026-04-01T23:50:24Z
+  Updated: 2026-04-03T21:25:15Z
   Vendor: Boxdlapsa
   Product Type: 
   Availability: Available
@@ -610,10 +582,10 @@
   Updated: 2026-01-28T21:48:14Z
   Total Products: 1
 - [Gotowe boxy](https://boxdlapsa.pl/collections/wszystkie-boxy)
-  Updated: 2026-04-02T13:10:08Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 18
 - [Nowości](https://boxdlapsa.pl/collections/nowosci)
-  Updated: 2026-04-02T13:10:08Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 46
 - [Wybierz box](https://boxdlapsa.pl/collections/wybierz-box)
   Updated: 2026-01-29T16:12:38Z
@@ -622,25 +594,25 @@
   Updated: 2026-01-29T16:11:12Z
   Total Products: 4
 - [Produkty](https://boxdlapsa.pl/collections/produkty)
-  Updated: 2026-04-02T13:10:08Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 75
 - [Smaczki](https://boxdlapsa.pl/collections/smaczki)
   Updated: 2026-03-17T13:38:27Z
   Total Products: 33
 - [Akcesoria](https://boxdlapsa.pl/collections/akcesoria)
-  Updated: 2026-04-02T13:10:08Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 11
 - [Karma mokra](https://boxdlapsa.pl/collections/karma-mokra)
   Updated: 2026-03-10T16:59:08Z
   Total Products: 10
 - [Karma sucha](https://boxdlapsa.pl/collections/karma-sucha)
-  Updated: 2026-03-16T12:08:13Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 10
 - [Trenerki](https://boxdlapsa.pl/collections/trenerki)
   Updated: 2026-03-10T17:05:10Z
   Total Products: 6
 - [Pojedyncze produkty](https://boxdlapsa.pl/collections/pojedyncze-produkty)
-  Updated: 2026-04-02T13:10:08Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 93
 - [Polecany mix](https://boxdlapsa.pl/collections/polecany-mix)
   Updated: 2026-01-29T16:12:38Z
@@ -658,13 +630,13 @@
   Updated: 2026-03-10T16:56:54Z
   Total Products: 11
 - [Oferta specjalna](https://boxdlapsa.pl/collections/oferta-specjalna)
-  Updated: 2026-02-24T17:13:36Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 5
 - [Boxy akcesoryjne](https://boxdlapsa.pl/collections/boxy-akcesoryjne)
   Updated: 2026-03-15T11:51:05Z
   Total Products: 4
 - [Najczęściej wybierane](https://boxdlapsa.pl/collections/najczesciej-wybierane)
-  Updated: 2026-04-02T13:10:08Z
+  Updated: 2026-04-04T11:50:27Z
   Total Products: 6
 - [Owoce i warzywa liofilizowane](https://boxdlapsa.pl/collections/owoce-i-warzywa-liofilizowane)
   Updated: 2026-03-10T14:13:47Z
