@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-02-10T20:10:07Z
 - Contact Email: munsieurclothing@gmail.com
-- Updated At: 2026-04-05T00:00:41.336Z
+- Updated At: 2026-04-13T00:00:41.386Z
 
 ## Products
 
@@ -9597,7 +9597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
     Price: $52.99 USD
 - [MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jum...](https://munsieur.com/products/double-take-full-size-texture-sleeveless-romper): MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jumpsuit for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-04-03T13:55:40Z
+  Updated: 2026-04-11T07:30:26Z
   Vendor: Munsieur
   Product Type: Dresses
   Availability: Available
@@ -9723,7 +9723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/da4613a6-b36e-461c-9abf-6459731450a1-Min.jpg?v=1739824863
     Price: $51.99 USD
 - [Double Take Full Size Printed Tie Back Wide Leg Jumpsuit ...](https://munsieur.com/products/double-take-full-size-printed-tie-back-wide-leg-jumpsuit): Double Take Full Size Printed Tie Back Wide Leg Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned ...
-  Updated: 2026-04-03T13:55:38Z
+  Updated: 2026-04-07T18:15:36Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -9855,7 +9855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/341d298e-7052-4df8-a3ee-085c191bbb78-Min.jpg?v=1739824919
     Price: $44.99 USD
 - [Double Take Full Size V-Neck Sleeveless Jumpsuit with Poc...](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets): Double Take Full Size V-Neck Sleeveless Jumpsuit with Pockets embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cro...
-  Updated: 2026-04-03T20:00:36Z
+  Updated: 2026-04-12T12:30:27Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -9949,7 +9949,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a1e4fe1190c344dba62ba8acce343be2-Min.jpg?v=1739824960
     Price: $82.99 USD
   - [Khaki / M](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets?variant=50162976260312)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a1e4fe1190c344dba62ba8acce343be2-Min.jpg?v=1739824960
     Price: $82.99 USD
   - [Hot Pink / S](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets?variant=50162976293080)
@@ -10061,7 +10061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce886420-a78c-4d90-9e61-69f90493f4a2-Min.jpg?v=1739824960
     Price: $82.99 USD
 - [Smocked Printed Wide Strap Jumpsuit | Gothic Ceremonial |...](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit): Smocked Printed Wide Strap Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:35Z
+  Updated: 2026-04-12T02:00:47Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10249,7 +10249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/89f74d91-693e-4d29-a73b-d6c088cf38e1-Min.jpg?v=1739825172
     Price: $44.99 USD
 - [Tied Printed Grecian Neck Jumpsuit | Gothic Ceremonial | ...](https://munsieur.com/products/tied-printed-grecian-neck-jumpsuit): Tied Printed Grecian Neck Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:33Z
+  Updated: 2026-04-06T16:41:48Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10691,7 +10691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7484e996-ad7f-4815-ac25-5f37061c13d6-Min.jpg?v=1739825539
     Price: $59.99 USD
 - [Women's Striped Romper summer outfit | Gothic Ceremonial ...](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper): Women's Striped Romper summer outfit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-04T10:40:57Z
+  Updated: 2026-04-12T12:01:01Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10769,7 +10769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/33f109d2-b738-4412-9744-73b92cdf847f-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Gray / L](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028558040)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/33f109d2-b738-4412-9744-73b92cdf847f-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Gray / XL](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028590808)
@@ -10777,7 +10777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/33f109d2-b738-4412-9744-73b92cdf847f-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Stripe / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028623576)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/93db986f-93b1-48b7-b0f0-f5fba40751e1-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Blue / S](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028656344)
@@ -10785,11 +10785,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/865967b7-c956-48c0-8c96-dc28ba64e88d-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Blue / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028689112)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/865967b7-c956-48c0-8c96-dc28ba64e88d-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Blue / L](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028721880)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/865967b7-c956-48c0-8c96-dc28ba64e88d-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Blue / XL](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028754648)
@@ -10825,7 +10825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1723f287-c222-412c-8899-3f5f215303a6-Min.jpg?v=1739825550
     Price: $53.99 USD
 - [Bow Striped Kimono Sleeve Romper | Gothic Ceremonial | MU...](https://munsieur.com/products/bow-striped-kimono-sleeve-romper): Bow Striped Kimono Sleeve Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:24Z
+  Updated: 2026-04-09T06:46:17Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -11109,7 +11109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4a66bd22-cf64-44a5-9fde-c16d930156cd-Min.jpg?v=1761488101
     Price: $36.90 USD
 - [Women's High-Waist Raw Hem Asymmetry Denim Skirt | Gothic...](https://munsieur.com/products/high-waist-raw-hem-asymmetry-denim-skirt): Women's High-Waist Raw Hem Asymmetry Denim Skirt embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:20Z
+  Updated: 2026-04-11T19:21:26Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -11217,7 +11217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
     Price: $36.99 USD
 - [MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt f...](https://munsieur.com/products/lace-tiered-midi-skirt): MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR...
-  Updated: 2026-04-03T13:55:14Z
+  Updated: 2026-04-05T02:08:47Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -11345,7 +11345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a6038326-7a59-4db2-bedd-de2ba3200478-Min.jpg?v=1739827152
     Price: $26.00 USD
 - [Tiered Button-Fly Denim Skirt | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/tiered-button-fly-denim-skirt): Tiered Button-Fly Denim Skirt embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T21:40:17Z
+  Updated: 2026-04-12T01:19:23Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -11879,7 +11879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8d9fd728-d234-4818-8607-0126ab543f97-Min.jpg?v=1739827911
     Price: $32.99 USD
 - [knitted Slip-On Flats with Bow | Gothic Ceremonial | MUNS...](https://munsieur.com/products/knitted-slip-on-flats-with-bow): knitted Slip-On Flats with Bow embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:00Z
+  Updated: 2026-04-08T14:09:08Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -15399,7 +15399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0c01d8d1-0841-4910-8f3d-e221b868ab96-Min.jpg?v=1739828922
     Price: $22.99 USD
 - [PU Leather Leopard Point Toe Pumps | Gothic Ceremonial | ...](https://munsieur.com/products/pu-leather-leopard-point-toe-pumps): PU Leather Leopard Point Toe Pumps embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:20Z
+  Updated: 2026-04-08T12:00:19Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -15571,7 +15571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b6430944-e39b-4719-8eb2-2ab608d1dfe8-Min.jpg?v=1739828950
     Price: $36.99 USD
 - [Sequin Round Toe Flat Sneakers | Gothic Ceremonial | MUNS...](https://munsieur.com/products/sequin-round-toe-flat-sneakers): Sequin Round Toe Flat Sneakers embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:18Z
+  Updated: 2026-04-12T19:20:59Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -16663,7 +16663,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09592e76-d8dc-4714-b60f-a0d8108be4b6-Min.jpg?v=1739830894
     Price: $20.99 USD
 - [Furry Suede Round Toe Flat Sneakers | Gothic Ceremonial |...](https://munsieur.com/products/furry-suede-round-toe-flat-sneakers): Furry Suede Round Toe Flat Sneakers embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:09Z
+  Updated: 2026-04-09T01:04:08Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -17938,108 +17938,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fb03f063-b36e-4438-973c-b26abcd75319-Min.jpg?v=1739831774
     Price: $26.99 USD
-- [Buckle Trim Open Toe Sandals | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/buckle-trim-open-toe-sandals): Buckle Trim Open Toe Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:54Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-  - [Silver / 36(US5)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407225048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Silver / 37(US6)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407257816)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Silver / 38(US7)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407290584)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Silver / 39(US8)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407323352)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Silver / 40(US9)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407356120)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Silver / 41(US10)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407388888)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Silver / 42(US10.5)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407421656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [White / 35(US4)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407454424)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [White / 36(US5)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407487192)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [White / 37(US6)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407519960)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Black / 35(US4)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407552728)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [White / 38(US7)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407585496)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [White / 39(US8)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407618264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [White / 40(US9)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407651032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [White / 41(US10)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407683800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [White / 42(US10.5)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407716568)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/73461f75-f7bb-4833-8f07-8235cc3cd53e-Min.jpg?v=1739831788
-    Price: $64.99 USD
-  - [Black / 36(US5)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407749336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [Black / 37(US6)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407782104)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [Black / 38(US7)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407814872)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [Black / 39(US8)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407847640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [Black / 40(US9)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407880408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [Black / 41(US10)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407913176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [Black / 42(US10.5)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407945944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db195603-bff0-4f5a-a626-efec516293ae-Min.jpg?v=1739831787
-    Price: $64.99 USD
-  - [Silver / 35(US4)](https://munsieur.com/products/buckle-trim-open-toe-sandals?variant=50163407978712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/46b24b25-d0d6-4790-a6d8-23f7c4bfb4a0-Min.jpg?v=1739831788
-    Price: $64.99 USD
 - [Open Toe Back Zipper Flat Sandals | Gothic Ceremonial | M...](https://munsieur.com/products/open-toe-back-zipper-flat-sandals): Open Toe Back Zipper Flat Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-04-03T13:53:53Z
   Vendor: Munsieur
@@ -18539,7 +18437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bc2edd645b334e559952a65b157422bb-Min.jpg?v=1739832896
     Price: $649.00 USD
 - [925 Sterling Silver 1 Carat Moissanite 4-Prong Stud Earri...](https://munsieur.com/products/925-sterling-silver-1-carat-moissanite-4-prong-stud-earrings): 925 Sterling Silver 1 Carat Moissanite 4-Prong Stud Earrings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crow...
-  Updated: 2026-04-03T13:53:48Z
+  Updated: 2026-04-10T16:46:09Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -18692,7 +18590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a218cbf2-8ccd-47aa-bbac-99f708ab6b80-Min.jpg?v=1739833078
     Price: $249.00 USD
 - [Teardrop Shape Natural Stone Dangle Earrings | Gothic Cer...](https://munsieur.com/products/teardrop-shape-natural-stone-dangle-earrings): Teardrop Shape Natural Stone Dangle Earrings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:39Z
+  Updated: 2026-04-11T00:40:19Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19071,13 +18969,13 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f1adc37d-07b5-4518-96ae-88482c361c1a-Min.jpg?v=1739834412
     Price: $425.00 USD
 - [Cat Eye Polycarbonate Frame Sunglasses | Gothic Ceremonia...](https://munsieur.com/products/cat-eye-polycarbonate-frame-sunglasses): Cat Eye Polycarbonate Frame Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:13Z
+  Updated: 2026-04-09T07:11:48Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eef4c08-e03c-442e-98ed-ca943b08ed1e-Min.jpg?v=1739834678
   - [Blush Pink / One Size](https://munsieur.com/products/cat-eye-polycarbonate-frame-sunglasses?variant=50163536462040)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eef4c08-e03c-442e-98ed-ca943b08ed1e-Min.jpg?v=1739834678
     Price: $12.00 USD
   - [Lavender / One Size](https://munsieur.com/products/cat-eye-polycarbonate-frame-sunglasses?variant=50163536494808)
@@ -19161,7 +19059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/337c8f83c71c47dfbb74927ceac9af79-Min.jpg?v=1739834853
     Price: $10.00 USD
 - [Polycarbonate Frame Square Sunglasses | Gothic Ceremonial...](https://munsieur.com/products/polycarbonate-frame-square-sunglasses-1): Polycarbonate Frame Square Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:10Z
+  Updated: 2026-04-09T23:03:50Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19235,7 +19133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3d9e63f8b9ad41a39fb29f781d615e83-Min.jpg?v=1739835160
     Price: $15.00 USD
 - [Chain Detail Cat-Eye Sunglasses | Gothic Ceremonial | MUN...](https://munsieur.com/products/chain-detail-cat-eye-sunglasses): Chain Detail Cat-Eye Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:07Z
+  Updated: 2026-04-07T21:58:06Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19266,7 +19164,14 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0023ad12e48d460fb87b942820c0ba49-Min.jpg?v=1739835218
     Price: $35.00 USD
-[List Continued](https://munsieur.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODE0NTY2OTMyNjk2LCJsYXN0X3ZhbHVlIjoiODgxNDU2NjkzMjY5NiJ9)
+- [Tortoiseshell Acetate Frame Sunglasses | Gothic Ceremonia...](https://munsieur.com/products/tortoiseshell-acetate-frame-sunglasses): Tortoiseshell Acetate Frame Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
+  Updated: 2026-04-03T13:53:05Z
+  Vendor: Munsieur
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/49adcc6734664752818e347991f5901a-Min.jpg?v=1739835247
+  Price: $40.00 USD
+[List Continued](https://munsieur.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODE0NTY3MDk2NTM2LCJsYXN0X3ZhbHVlIjoiODgxNDU2NzA5NjUzNiJ9)
 
 ## Collections
 
@@ -19274,44 +19179,44 @@
   Updated: 2026-03-31T23:01:33Z
   Total Products: 2
 - [Men's Premium Heavyweight Hoodies | Munsieur Gothic Streetwear](https://munsieur.com/collections/premium-streetwear-hoodies-mens): Shop Munsieur men's premium heavyweight hoodies. 400–500 GSM fleece, couture embroidery & structured fit. Gothic luxury streetwear built to last a lifetime.
-  Updated: 2026-04-02T21:26:42Z
-  Total Products: 114
+  Updated: 2026-04-12T23:57:30Z
+  Total Products: 110
 - [Women's Urban Fashion Sweatshirts for : Bold Styles Await - Munsieur](https://munsieur.com/collections/urban-fashion-sweatshirts-for-): Shop Munsieur's women's urban fashion sweatshirts. Bold styles, premium comfort, luxury streetwear. Elevate your casual wardrobe.
-  Updated: 2026-04-04T05:59:29Z
-  Total Products: 182
+  Updated: 2026-04-07T16:58:20Z
+  Total Products: 189
 - [Premium Graphic Tees for Men: Urban Elegance Unleashed - Munsieur](https://munsieur.com/collections/premium-graphic-tees-for-men): Shop Munsieur's premium graphic tees for men. Bold designs, luxury cotton, superior craftsmanship. Urban streetwear that makes a statement.
-  Updated: 2026-04-02T20:49:15Z
+  Updated: 2026-04-07T16:09:16Z
   Total Products: 222
 - [Women's Luxury Graphic Tees | Munsieur Premium Streetwear](https://munsieur.com/collections/luxury-womens-t-shirts): Shop Munsieur women's luxury graphic tees. Heavyweight cotton, bold prints & couture embroidery. Premium gothic streetwear for women who dress with intention.
-  Updated: 2026-04-02T21:15:06Z
-  Total Products: 200
+  Updated: 2026-04-07T18:05:20Z
+  Total Products: 208
 - [Designer Streetwear Jackets for Women: Urban Luxury Style - Munsieur](https://munsieur.com/collections/designer-streetwear-jackets-for-women): - Munsieur
-  Updated: 2026-03-31T23:01:33Z
-  Total Products: 87
-- [Men's Premium Streetwear Coats | Munsieur Luxury Outerwear](https://munsieur.com/collections/premium-mens-streetwear-coats): Shop Munsieur men's premium streetwear coats. Heavy outerwear, ceremonial design & dark-luxury aesthetic. Gothic luxury fashion for the discerning few.
-  Updated: 2026-04-03T13:53:41Z
+  Updated: 2026-04-12T23:21:20Z
   Total Products: 80
+- [Men's Premium Streetwear Coats | Munsieur Luxury Outerwear](https://munsieur.com/collections/premium-mens-streetwear-coats): Shop Munsieur men's premium streetwear coats. Heavy outerwear, ceremonial design & dark-luxury aesthetic. Gothic luxury fashion for the discerning few.
+  Updated: 2026-04-12T23:21:49Z
+  Total Products: 65
 - [Munsieur: Bold Style Fashion Hats for Urban Elegance - Munsieur](https://munsieur.com/collections/bold-style-fashion-hats): - Munsieur
   Updated: 2026-03-31T23:01:33Z
   Total Products: 76
 - [Women's Premium Streetwear Rompers, Jumpsuits, and Lounge suits: Elevate Your Urban Style - Munsieur](https://munsieur.com/collections/premium-streetwear-rompers-suits): - Munsieur
-  Updated: 2026-04-03T13:48:54Z
-  Total Products: 287
+  Updated: 2026-04-12T23:57:56Z
+  Total Products: 306
 - [Trendy Picks: Buy Women's Streetwear-Inspired Swimwear - Munsieur](https://munsieur.com/collections/buy-womens-streetwear-inspired-swimwear): - Munsieur
-  Updated: 2026-04-03T14:25:10Z
-  Total Products: 118
+  Updated: 2026-04-12T23:57:37Z
+  Total Products: 165
 - [Men's Premium Streetwear Joggers | Munsieur Luxury Fleece](https://munsieur.com/collections/premium-streetwear-joggers-mens): Shop Munsieur men's premium streetwear joggers. Heavy fleece, tapered fit & refined details. Luxury gothic streetwear joggers built to last. Shop now.
   Updated: 2026-04-03T13:28:02Z
   Total Products: 73
 - [Trendy Women's Designer Leggings Online for Every Style - Munsieur](https://munsieur.com/collections/designer-leggings-online-womens): Discover Munsieur's luxury leggings and joggers collection. Premium materials, bold designs, superior craftsmanship. Wearable luxury streetwear for women.
-  Updated: 2026-04-03T13:47:59Z
+  Updated: 2026-04-07T18:26:50Z
   Total Products: 194
 - [Stylish Essentials: Premium Backpacks for Urban Fashion - Munsieur](https://munsieur.com/collections/premium-backpacks-for-urban-fashion): Shop Munsieur's premium backpacks collection. Stylish urban fashion essentials, durable materials, bold designs. Functional luxury for everyday use.
   Updated: 2026-03-31T23:01:33Z
   Total Products: 13
 - [Munsieur Women's Premium Handbags in Streetwear Style - Munsieur](https://munsieur.com/collections/premium-handbags-streetwear-style): Discover Munsieur's women's premium handbags. Streetwear-inspired luxury accessories, bold designs, superior craftsmanship. Statement pieces.
-  Updated: 2026-03-31T23:01:33Z
-  Total Products: 76
+  Updated: 2026-04-12T12:32:40Z
+  Total Products: 78
 - [Bold Fragrance for Street Style: Urban Elegance Unleashed - Munsieur](https://munsieur.com/collections/bold-fragrance-for-street-style): - Munsieur
   Updated: 2026-03-31T23:01:33Z
   Total Products: 15
@@ -19319,53 +19224,53 @@
   Updated: 2026-03-31T23:01:34Z
   Total Products: 19
 - [Munsieur: Luxury Streetwear Art Collection for Bold Style - Munsieur](https://munsieur.com/collections/luxury-streetwear-art-collection): Explore Munsieur's luxury streetwear art collection. Bold artistic designs, premium materials, cultural storytelling. Statement pieces for bold style.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 91
+  Updated: 2026-04-10T12:56:13Z
+  Total Products: 79
 - [Urban Fashion New Arrivals: Luxury Streetwear Essentials - Munsieur](https://munsieur.com/collections/urban-fashion-new-arrivals): Shop Munsieur's latest luxury streetwear arrivals. Fresh designs, premium quality, bold graphics. Discover the newest additions to our collection.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 82
+  Updated: 2026-04-09T01:29:34Z
+  Total Products: 84
 - [Buy Stylish Men's Shoes Online: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-mens-shoes-online): Shop Munsieur's stylish men's shoes collection. Elevate your urban look with premium footwear, bold designs, superior comfort and quality.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 67
+  Updated: 2026-04-12T23:44:55Z
+  Total Products: 52
 - [Elevate Your Style with Elegant Women's Shoes Collection - Munsieur](https://munsieur.com/collections/elegant-womens-shoes-footwear-collection): Elevate your style with Munsieur's elegant women's shoes collection. Premium footwear, bold designs, superior comfort. Luxury streetwear shoes.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 23
+  Updated: 2026-04-09T13:56:33Z
+  Total Products: 24
 - [Women's Chic Summer Collection: Stylish Flats, Slip-Ons, and Sandals for Summer - Munsieur](https://munsieur.com/collections/stylish-flat-sandals-for-summer): - Munsieur
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 142
+  Updated: 2026-04-10T12:56:13Z
+  Total Products: 139
 - [Stylish Men's Sandals for Urban Fashion: Premium Collection - Munsieur](https://munsieur.com/collections/stylish-mens-sandals-for-urban-fashion): - Munsieur
   Updated: 2026-03-31T23:01:34Z
   Total Products: 19
 - [Women's City Style Boots | Munsieur Urban Luxury Footwear](https://munsieur.com/collections/premium-womens-city-style-boots): Shop Munsieur women's city-style boots. Structured silhouettes, premium materials & dark-luxury finishing. Urban luxury footwear built for the streets.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 87
+  Updated: 2026-04-12T23:34:21Z
+  Total Products: 72
 - [Shop Premium Men's Boots Online for Stylish Comfort - Munsieur](https://munsieur.com/collections/premium-mens-boots-online): - Munsieur
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 17
+  Updated: 2026-04-09T13:50:30Z
+  Total Products: 18
 - [Bold, Upscale Fashion Watches for the Urban Elite - Munsieur](https://munsieur.com/collections/bold-upscale-fashion-watches): Shop Munsieur's bold, upscale fashion watches for the urban elite. Premium timepieces, statement designs, luxury streetwear accessories.
   Updated: 2026-03-31T23:01:34Z
   Total Products: 22
 - [Buy Stylish Women's High Heels: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-womens-high-heels): Shop Munsieur's stylish women's high heels. Elevate your urban look with premium footwear, bold designs, superior comfort and style.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 97
+  Updated: 2026-04-12T23:44:26Z
+  Total Products: 89
 - [Luxury Women's Dresses: Effortless Elegance for Every Occasion - Munsieur](https://munsieur.com/collections/luxury-womens-dresses-skirts): Discover Munsieur's luxury women's dresses. Effortless elegance, premium fabrics, bold designs. Streetwear-inspired dresses for every occasion.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 282
+  Updated: 2026-04-12T23:50:13Z
+  Total Products: 288
 - [Buy High-Quality Jeans for Women Online - Munsieur](https://munsieur.com/collections/high-quality-jeans-for-women-online): Shop Munsieur's premium women's jeans collection. High-quality denim, bold designs, superior fit. Luxury streetwear jeans built to last.
-  Updated: 2026-04-03T13:49:37Z
-  Total Products: 101
-- [Munsieur Collection: Designer Jeans for Men - Munsieur](https://munsieur.com/collections/designer-jeans-for-men-munsieur): Shop Munsieur's designer jeans for men. Premium denim, bold designs, superior fit. Luxury streetwear jeans built to last.
-  Updated: 2026-04-03T13:50:06Z
-  Total Products: 198
-- [Buy Stylish Bottoms Online: Chic Skirts, Skorts, and Shorts for Women - Munsieur](https://munsieur.com/collections/buy-stylish-bottoms-online): - Munsieur
-  Updated: 2026-04-03T14:24:24Z
-  Total Products: 94
-- [Munsieur's Stylish Men's Shorts for Summer Adventures - Munsieur](https://munsieur.com/collections/stylish-mens-shorts-for-summer): - Munsieur
-  Updated: 2026-03-31T23:01:34Z
+  Updated: 2026-04-07T18:00:40Z
   Total Products: 96
+- [Munsieur Collection: Designer Jeans for Men - Munsieur](https://munsieur.com/collections/designer-jeans-for-men-munsieur): Shop Munsieur's designer jeans for men. Premium denim, bold designs, superior fit. Luxury streetwear jeans built to last.
+  Updated: 2026-04-07T16:42:24Z
+  Total Products: 206
+- [Buy Stylish Bottoms Online: Chic Skirts, Skorts, and Shorts for Women - Munsieur](https://munsieur.com/collections/buy-stylish-bottoms-online): - Munsieur
+  Updated: 2026-04-09T05:19:20Z
+  Total Products: 104
+- [Munsieur's Stylish Men's Shorts for Summer Adventures - Munsieur](https://munsieur.com/collections/stylish-mens-shorts-for-summer): - Munsieur
+  Updated: 2026-04-05T21:07:56Z
+  Total Products: 93
 - [Buy Munsieur Fashion Accessories: Urban Luxury Essentials - Munsieur](https://munsieur.com/collections/buy-munsieur-fashion-accessories): Shop Munsieur's fashion accessories collection. Urban luxury essentials, bold designs, premium quality. Complete your streetwear look.
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 125
+  Updated: 2026-04-09T01:19:21Z
+  Total Products: 127
 - [Luxury Urban Fashion for St. Patrick's Day Celebrations - Munsieur](https://munsieur.com/collections/luxury-urban-fashion-for-st-patricks-day): - Munsieur
   Updated: 2026-03-31T23:01:34Z
   Total Products: 31
@@ -19376,8 +19281,8 @@
   Updated: 2026-03-31T23:01:35Z
   Total Products: 0
 - [Women's Blouses Flowy for Her Munsieur Crowned Design - Munsieur](https://munsieur.com/collections/womens-blouses-flowy-for-her-munsieur-crowned-design): Women's Blouses for all occasions. Flowy and Comfortable with many different styles. - Munsieur
-  Updated: 2026-03-31T23:01:35Z
-  Total Products: 174
+  Updated: 2026-04-12T23:57:08Z
+  Total Products: 197
 - [Shop The Look Featured Collection - Munsieur](https://munsieur.com/collections/shop-the-look-featured-collection): - Munsieur
   Updated: 2026-03-31T23:01:35Z
   Total Products: 2
@@ -19391,14 +19296,14 @@
   Updated: 2025-08-14T14:02:28Z
   Total Products: 0
 - [Munsieur Halloween Collection - Munsieur](https://munsieur.com/collections/munsieur-halloween-collection): Shop Munsieur's Halloween luxury streetwear collection. Bold spooky designs, premium quality apparel. Limited edition pieces for the season.
-  Updated: 2026-03-31T23:01:35Z
-  Total Products: 53
+  Updated: 2026-04-09T01:29:05Z
+  Total Products: 50
 - [Munsieur Independence Day Collection - Munsieur](https://munsieur.com/collections/munsieur-independence-day-collection): Shop Munsieur's 4th of July luxury streetwear collection. Patriotic designs, premium quality apparel. Limited edition Independence Day pieces.
   Updated: 2026-04-04T17:55:17Z
   Total Products: 14
 - [Munsieur Easter Collection - Munsieur](https://munsieur.com/collections/munsieur-easter-collection): Shop Munsieur's exclusive Easter luxury streetwear collection. Bold spring designs, premium quality apparel. Limited edition pieces for the season.
-  Updated: 2026-03-31T23:01:35Z
-  Total Products: 11
+  Updated: 2026-04-05T03:38:06Z
+  Total Products: 12
 - [Valentine's Day Streetwear Collection | Premium Tees & Leggings - Munsieur](https://munsieur.com/collections/munsieur-valentines-day-collection): Shop Munsieur's exclusive Valentine's Day luxury streetwear collection. Bold graphics, premium quality tees, leggings & dresses. Limited edition designs.
   Updated: 2026-03-31T23:01:35Z
   Total Products: 59
@@ -19406,8 +19311,8 @@
   Updated: 2026-03-31T23:01:35Z
   Total Products: 10
 - [Munsieur Christmas Day Collection - Munsieur](https://munsieur.com/collections/munsieur-christmas-day-collection): Shop Munsieur's Christmas luxury streetwear collection. Festive designs, premium quality apparel. Limited edition holiday pieces for the season.
-  Updated: 2026-03-31T23:01:35Z
-  Total Products: 14
+  Updated: 2026-04-07T18:07:00Z
+  Total Products: 17
 - [Munsieur New Years Collection - Munsieur](https://munsieur.com/collections/munsieur-new-years-collection): Shop Munsieur's New Year's luxury streetwear collection. Celebrate in style with bold designs, premium quality apparel. Limited edition pieces.
   Updated: 2026-03-31T23:01:35Z
   Total Products: 0
@@ -19427,8 +19332,8 @@
   Updated: 2026-04-02T20:25:34Z
   Total Products: 1
 - [Munsieur Birthday Collection - Munsieur](https://munsieur.com/collections/munsieur-birthday-collection): Shop Munsieur's Birthday luxury streetwear collection. Celebrate in style with bold designs, premium quality apparel. Limited edition pieces.
-  Updated: 2026-03-31T23:01:35Z
-  Total Products: 5
+  Updated: 2026-04-07T18:23:21Z
+  Total Products: 6
 - [Munsieur Lost Tribe Collection - Munsieur](https://munsieur.com/collections/munsieur-lost-tribe-collection): Explore Munsieur's Lost Tribe Collection - where cultural storytelling meets premium streetwear. Bold graphics, luxury materials, statement pieces.
   Updated: 2026-03-31T23:01:35Z
   Total Products: 5
@@ -19448,34 +19353,34 @@
   Updated: 2026-03-31T23:01:36Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on - Munsieur](https://munsieur.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Munsieur
-  Updated: 2026-04-04T05:59:29Z
-  Total Products: 3580
+  Updated: 2026-04-12T23:57:56Z
+  Total Products: 3699
 - [Buy Skirts for Women Exclusively at MUNSIEUR - Munsieur](https://munsieur.com/collections/buy-skirts-for-women-exclusively-at-munsieur): ... - Munsieur
-  Updated: 2026-03-31T23:01:36Z
-  Total Products: 124
+  Updated: 2026-04-12T23:27:28Z
+  Total Products: 152
 - [Gothic Luxury Outerwear | Premium Leather Coats & Jackets - MUNSIEUR](https://munsieur.com/collections/outerwear): Ceremonial outerwear. Leather coats, embroidered jackets, heavyweight construction. Gothic luxury streetwear engineered for discipline. MUNSIEUR.
-  Updated: 2026-04-04T05:59:29Z
-  Total Products: 428
+  Updated: 2026-04-12T23:57:30Z
+  Total Products: 429
 - [Gothic Luxury Tops & Tees | Premium Streetwear - MUNSIEUR](https://munsieur.com/collections/tops): Embroidered tees, graphic tops, and ceremonial streetwear. Heavyweight cotton, fractured glyphs, crowned motifs. Restrained luxury for the disciplined.
-  Updated: 2026-04-02T21:15:06Z
-  Total Products: 584
+  Updated: 2026-04-12T23:57:08Z
+  Total Products: 615
 - [Luxury Gothic Dresses | Premium Streetwear Dresses for Women - MUNSIEUR](https://munsieur.com/collections/dresses): Ceremonial dresses. Gothic luxury design, premium construction, restrained elegance. Embroidered details, fractured graphics. MUNSIEUR streetwear.
-  Updated: 2026-03-31T23:01:36Z
-  Total Products: 400
+  Updated: 2026-04-12T23:50:13Z
+  Total Products: 432
 - [Luxury Streetwear Bottoms | Premium Joggers & Pants - MUNSIEUR](https://munsieur.com/collections/bottoms): Gothic luxury bottoms. Premium joggers, pants, and ceremonial streetwear. Heavyweight construction, restrained branding. Discipline over excess.
-  Updated: 2026-04-03T14:24:24Z
-  Total Products: 668
+  Updated: 2026-04-09T05:19:21Z
+  Total Products: 685
 - [Statement Pieces | Bold Gothic Luxury Streetwear - MUNSIEUR](https://munsieur.com/collections/statement-pieces): Ceremonial statement pieces. Embroidered hoodies, leather outerwear, crowned motifs. Gothic luxury engineered for impact. Restrained. Bold. MUNSIEUR.
-  Updated: 2026-03-31T23:01:36Z
-  Total Products: 135
+  Updated: 2026-04-12T12:32:40Z
+  Total Products: 141
 - [Luxury Graphic Tees | Fractured Glyphs & Gothic Streetwear - MUNSIEUR](https://munsieur.com/collections/luxury-graphic-tees): Premium graphic tees with fractured glyphs, skull iconography, crowned motifs. Heavyweight cotton, ceremonial design. Gothic luxury streetwear. MUNSIEUR.
-  Updated: 2026-03-31T23:01:36Z
+  Updated: 2026-04-08T21:12:27Z
   Total Products: 0
 - [Best Heavyweight Hoodies - Munsieur](https://munsieur.com/collections/best-heavyweight-hoodies): Discover the finest heavyweight hoodies at Munsieur, your destination for premium gothic streetwear. Our curated collection features heavyweight hoodies crafted with exceptional attention to detail, combining dark aesthetic with luxury quality that stands the test of time. Why Heavyweight Hoodies MatterWhen it comes to premium streetwear, fabric weight makes all the difference. Our heavyweight hoodies feature 345GSM construction, delivering superior warmth, durability, and that coveted premium feel that sets designer pieces apart from fast fashion. Each hoodie in this collection is engineered for those who demand both quality and edge. Premium Quality & Designer CraftsmanshipAt Munsieur, we specialize in heavyweight hoodies that blend gothic elegance with contemporary streetwear. Every piece is designed with meticulous attention to detail, from reinforced stitching to premium hardware. Our heavyweight construction ensures your hoodie maintains its shape, color, and comfort wash after wash. Gothic Luxury Meets StreetwearOur heavyweight hoodies collection showcases the perfect fusion of dark aesthetic and modern design. Whether you're searching for oversized fits, embroidered details, or minimalist gothic style, our heavyweight hoodies deliver unmatched versatility. Layer them over graphic tees for maximum impact or wear solo for a clean, powerful look. Why Choose Munsieur Heavyweight Hoodies345GSM Premium Fabric: Superior weight and durabilityDesigner Aesthetic: Gothic luxury meets contemporary streetwearPerfect Fit: Oversized and regular fits availableLimited Production: Exclusive designs you won't find anywhere elseFast Shipping: Free shipping on orders over $100 Style Your Heavyweight HoodieHeavyweight hoodies are the cornerstone of any gothic streetwear wardrobe. Pair with our premium leggings for a complete athleisure look, or style with designer denim for elevated casual wear. The versatility of heavyweight construction means these pieces transition seamlessly from street to studio. Shop our best heavyweight hoodies collection and experience the perfect blend of dark aesthetic and designer quality. With limited stock and exclusive designs, our heavyweight hoodies  out quickly. Explore the collection now and elevate your streetwear game. - Munsieur
-  Updated: 2026-04-02T21:26:42Z
-  Total Products: 114
+  Updated: 2026-04-12T23:57:30Z
+  Total Products: 110
 - [Premium Gothic Collection - Munsieur](https://munsieur.com/collections/premium-gothic-collection): Couture-grade embroidery. Heavyweight construction. Designed to last 5-10+ years. Our Premium Gothic Collection features luxury streetwear with intricate embroidered designs, 400-500GSM heavyweight fleece, and construction that outlasts mass-market alternatives by decades. Each piece is crafted in limited production runs for those who refuse to compromise between style and quality. What Makes This Collection Premium: Embroidered Artwork: Permanent threadwork that improves with age, not screen prints that crack and fade Heavyweight Fabrics: 400-500GSM fleece and 200+ GSM cotton for substantial feel and structure  Pieces: Designed for 5-10+ years of wear, not seasonal disposal Limited Production: Small-batch releases ensure exclusivity and quality control Gothic Luxury: Dark aesthetic sophistication meets premium streetwear Use code GOTHIC20 for 20% off your first purchase from this collection. Limited availability. Uncertain restock timing. These pieces represent the pinnacle of gothic streetwear craftsmanship. - Munsieur
-  Updated: 2026-03-31T23:01:36Z
+  Updated: 2026-04-08T21:12:27Z
   Total Products: 8
 
 ## Blogs
