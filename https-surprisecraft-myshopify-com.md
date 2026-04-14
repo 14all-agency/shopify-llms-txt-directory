@@ -10,7 +10,7 @@
 - Contact Email: preezy360@gmail.com
 - Contact Phone: 0681111423
 - Address: 10936 Ayethu Street
-- Updated At: 2026-04-06T00:00:37.393Z
+- Updated At: 2026-04-14T00:00:36.665Z
 
 ## Products
 
@@ -91,7 +91,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/2489/0158/files/0CE8321AB9CB1C1868EFA7C51232683D.jpg?v=1683358293
     Price: R 899.99 ZAR
 - [Universal Large Truck Extended Suction Cup Type Car Holder Fixed Shockproof Mobile Phone Stand Big Joint GPS Navigation Holder](https://surprisecraft.myshopify.com/products/universal-large-truck-extended-suction-cup-type-car-holder-fixed-shockproof-mobile-phone-stand-big-joint-gps-navigation-holder): Product Description[Product Name]: Car phone holder【 Product Color 】: Black GreenProduct size: approximately 30 * 11.5cm【 Product Material 】: PC+ABS+Metal Steel+Silicone[Net weight of product]: approximately 277g[Gross weight of product]: approximately 320gProduct packaging: approximately 15 * 8.7 * 11.4cm【 Outer box size 】: approximately 59 * 47 * 61cmGross weight of packaging: approximately 33.5kg【 Number of boxes 】: 140/piece[Suitable for vehicle model]: Universal【 Product Usage 】: Place mobile navigation【 Product Features 】: Placing mobile phones, safe navigation, compatible with multiple devices, anti slip without damaging the device, not blocking the line of sight, compact and portable!:Product size: Suitable for 4.7-6.8 inch mobile phones
-  Updated: 2026-04-02T13:11:52Z
+  Updated: 2026-04-08T02:18:56Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
