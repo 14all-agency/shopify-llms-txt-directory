@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-04-06T00:00:39.737Z
+- Updated At: 2026-04-14T00:00:39.969Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1964,9 +1964,13 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Belonging, Heartfelt, Love and loyalty, Maritime fiction, Mythic, nautical fiction, Prophecy
   - [Shadowlight: Unwavering (Book 6)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-6): <p><em><strong>The truth is out, the Presence is watching, and the crew must face what's coming. Some things bend. Some things break &amp; some things hold, no matter what. </strong></em></p>
-    Updated: 2026-04-05T13:33:22Z
+    Updated: 2026-04-06T22:29:05Z
     Author: Callie Hitchcock
     Tags: Fantasy, Fire Magic, Individuality, Reborn king, Strength, Sword fight, Swords
+  - [Shadowlight: Steadfast & True (Book 7)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-steadfast-true): <p><em><strong>Aidan Bollard has spent a Lifetime wondering if he is Enough. With an ancient Dragon, a Fortress full of fractured Loyalties, and a Riddle he can't quite solve, the Answer is closer than he Thinks.</strong></em></p>
+    Updated: 2026-04-09T20:00:27Z
+    Author: Callie Hitchcock
+    Tags: Ancient Order, Dragons, Fire Magic, Memories, Prophecy, Self worth, Swords
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
