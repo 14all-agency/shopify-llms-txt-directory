@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-04-06T00:00:35.117Z
+- Updated At: 2026-04-14T00:00:35.523Z
 
 Welcome to Crafted Cocktail Toppers' LLMS.txt. This file helps AI assistants understand our store structure and offerings.
 
@@ -17,7 +17,7 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Products
 
 - [Custom Edible Monogram Toppers | Cocktail Garnishes](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Elevate your cocktails with custom edible monogram toppers. Perfect for weddings, parties & events. Premium quality, fast shipping. Order 50-1000 pieces!
-  Updated: 2026-04-05T16:13:58Z
+  Updated: 2026-04-13T23:55:48Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Accessories
   Availability: Available
@@ -87,7 +87,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6000475256_3sm7.webp?v=1746560972
     Price: $18.21 USD
 - [Custom Cocktail Topper Design Setup – $35 Pre-Production Fee](https://craftedcocktailtoppers.com/products/set-up-fee-for-pre-production-design-transfer): Initiate your personalized cocktail topper design with a $35 setup fee. Ensure precise pre-production design transfer for standout event garnishes.
-  Updated: 2026-04-02T10:38:43Z
+  Updated: 2026-04-10T19:52:13Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -387,7 +387,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $33.00 USD
 - [Edible Baby Shower Drink Toppers – Custom & Instagram-Worthy](https://craftedcocktailtoppers.com/products/edible-drink-toppers-baby-shower): Personalized edible drink toppers for baby showers, gender reveals & sprinkles. Elevate your drinks with custom designs that impress guests—order now!
-  Updated: 2026-04-02T10:38:44Z
+  Updated: 2026-04-10T13:41:09Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -429,7 +429,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $33.00 USD
 - [Personalized Napkins for Wedding, Anniversary, Engagement | Custom Monogram Cocktail Napkins | Printed Luncheon & Dinner Guest Napkins](https://craftedcocktailtoppers.com/products/personalized-napkins-for-wedding-anniversary-engagement-custom-monogram-cocktail-napkins-printed-luncheon-dinner-guest-napkins): Elevate your special occasions with our Personalized Napkins, perfect for weddings, anniversaries, and engagements. Our custom napkins, featuring elegant monograms and high-quality printing, are designed to add a touch of sophistication to your events. These custom printed napkins are ideal for cocktail, beverage, luncheon, and dinner settings, making them versatile for any guest arrangement. Why Choose Our Personalized Napkins? Custom Monogram Design: Each napkin is printed with your chosen monogram, ensuring a personal touch that your guests will remember. High-Quality Printing: We use top-notch printing techniques to ensure clarity and durability. Versatile Usage: Suitable for cocktail hours, beverages, luncheons, and dinners, these napkins are perfect for all parts of your event. Perfect for Any Event: Ideal for weddings, anniversaries, engagements, and other special celebrations. Our personalized napkins not only enhance the aesthetic appeal of your event but also serve as a memorable keepsake for your guests. Whether you are hosting a wedding reception, an anniversary party, or an engagement celebration, these napkins are a must-have. Order your Personalized Napkins today and make your event unforgettable with a touch of personalized elegance.
-  Updated: 2026-04-02T10:38:44Z
+  Updated: 2026-04-09T15:39:47Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
@@ -978,7 +978,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $500.00 USD
 - [Custom Pet Photo Cocktail Stirrers | Personalized Acrylic Drink Sticks](https://craftedcocktailtoppers.com/products/personalized-pet-photo-cocktail-stirrers): Celebrate every sip with custom pet photo cocktail stirrers! 🎉 Personalized acrylic drink sticks are perfect for weddings, parties, and holidays.
-  Updated: 2026-04-05T21:10:28Z
+  Updated: 2026-04-06T00:41:28Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -1008,7 +1008,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $101.98 USD
 - [Personalized Acrylic Cocktail Stirrers | Custom Drink Decor](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-04-02T10:38:46Z
+  Updated: 2026-04-12T15:03:47Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Decorations
   Availability: Available
@@ -1695,25 +1695,25 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-04-05T11:21:53Z
+  Updated: 2026-04-13T11:22:15Z
   Total Products: 1
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
   Updated: 2026-04-02T10:38:43Z
   Total Products: 0
 - [AVADA - Best Sellers](https://craftedcocktailtoppers.com/collections/avada-best-sellers)
-  Updated: 2026-04-05T11:21:53Z
+  Updated: 2026-04-13T11:22:15Z
   Total Products: 24
 - [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers)
-  Updated: 2026-04-05T11:21:53Z
+  Updated: 2026-04-13T11:22:15Z
   Total Products: 5
 - [Cocktail Decorations & Edible Drink Toppers - Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-04-02T11:23:32Z
+  Updated: 2026-04-13T11:22:15Z
   Total Products: 4
 - [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins)
-  Updated: 2026-04-02T10:38:43Z
+  Updated: 2026-04-10T11:24:10Z
   Total Products: 9
 - [New Arrivals](https://craftedcocktailtoppers.com/collections/new-arrivals)
-  Updated: 2026-04-02T10:38:43Z
+  Updated: 2026-04-06T11:18:39Z
   Total Products: 1
 - [Gift Sets](https://craftedcocktailtoppers.com/collections/gift-sets)
   Updated: 2026-04-02T10:38:43Z
@@ -2309,6 +2309,18 @@ LLMS sections below provide additional context for our content, policies, and re
     Author: Che Che
   - [Mastering the Use of Custom Edible Drink Toppers in Baby Showers](https://craftedcocktailtoppers.com/blogs/news/mastering-the-use-of-custom-edible-drink-toppers-in-baby-showers): Mastering the Use of Custom Edible Drink Toppers in Baby Showers
     Updated: 2026-04-01T02:13:27Z
+    Author: Che Che
+  - [Exploring Edible Drink Toppers: How They’re Revolutionizing Modern Cocktails](https://craftedcocktailtoppers.com/blogs/news/exploring-edible-drink-toppers-how-they-re-revolutionizing-modern-cocktails): Exploring Edible Drink Toppers: How They’re Revolutionizing Modern Cocktails
+    Updated: 2026-04-06T00:28:07Z
+    Author: Che Che
+  - [Crafting Edible Drink Toppers at Home: A DIY Guide for Cocktail Lovers](https://craftedcocktailtoppers.com/blogs/news/crafting-edible-drink-toppers-at-home-a-diy-guide-for-cocktail-lovers): Crafting Edible Drink Toppers at Home: A DIY Guide for Cocktail Lovers
+    Updated: 2026-04-07T00:49:54Z
+    Author: Che Che
+  - [From Vision to Creation: Custom Edible Drink Toppers for Special Events](https://craftedcocktailtoppers.com/blogs/news/from-vision-to-creation-custom-edible-drink-toppers-for-special-events): From Vision to Creation: Custom Edible Drink Toppers for Special Events
+    Updated: 2026-04-08T02:07:05Z
+    Author: Che Che
+  - [Bespoke Celebrations: Custom Edible Drink Toppers for Weddings](https://craftedcocktailtoppers.com/blogs/news/bespoke-celebrations-custom-edible-drink-toppers-for-weddings): Bespoke Celebrations: Custom Edible Drink Toppers for Weddings
+    Updated: 2026-04-13T00:26:09Z
     Author: Che Che
 
 ## Store Pages
