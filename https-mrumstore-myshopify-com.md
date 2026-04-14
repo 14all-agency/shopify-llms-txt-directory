@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-12-13T20:37:18Z
 - Contact Email: abusiammaram@gmail.com
-- Updated At: 2026-02-18T00:00:42.104Z
+- Updated At: 2026-04-14T21:06:21.459Z
 
 ## Products
 
@@ -1442,6 +1442,65 @@
   - [3 in 1](https://mrumstore.myshopify.com/products/activeplay-3-in-1-jump-ring-machine?variant=42488239325246)
     Availability: Available
     Price: $59.99 USD
+- [Smart Posture Reminder Belt - Vibrating Posture Corrector for Back & Neck Pain](https://mrumstore.myshopify.com/products/smart-posture-reminder-belt): Improve your posture naturally with gentle vibration alerts. Reduce back and neck pain from slouching. Comfortable, discreet design for all-day wear. Perfect for desk workers.
+  Updated: 2026-02-20T09:58:10Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_125_1771536325726-37840027-62052638-15258951_0.webp?v=1771536438
+  Price: $34.99 USD
+- [QuickPull Retractable Clothesline Wall-Mount Indoor](https://mrumstore.myshopify.com/products/quickpull-retractable-clothesline-wall-mount-indoor): Transform your laundry routine with the QuickPull Retractable Clothesline – the space-saving drying solution designed for modern homes. This wall-mounted retractable clothesline combines durability with convenience, featuring a heavy-duty design that holds substantial loads while retracting neatly when not in use. Perfect for apartments, laundry rooms, bathrooms, or balconies where space is at a premium. Key Features: Retractable design saves space and keeps your home looking tidy Heavy-load capacity for drying multiple garments at once Quick-drying airflow helps clothes dry faster indoors Easy wall-mount installation with included hardware Durable construction for long-lasting performance Ideal for indoor use in any room Say goodbye to bulky drying racks and hello to efficient, space-smart laundry drying. The QuickPull retracts smoothly when not needed, maintaining your home's clean aesthetic while always being ready when you need it.
+  Updated: 2026-02-28T09:10:01Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_912_1772224214163-97525284-79175169-20194456_0.webp?v=1772226274
+  - [F](https://mrumstore.myshopify.com/products/quickpull-retractable-clothesline-wall-mount-indoor?variant=42513762943038)
+    Availability: Available
+    Price: $79.99 USD
+  - [J](https://mrumstore.myshopify.com/products/quickpull-retractable-clothesline-wall-mount-indoor?variant=42513762975806)
+    Availability: Available
+    Price: $79.99 USD
+  - [B](https://mrumstore.myshopify.com/products/quickpull-retractable-clothesline-wall-mount-indoor?variant=42513763008574)
+    Availability: Available
+    Price: $79.99 USD
+- [LiftMate Pet Support Comfort Sling](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling): Give your beloved pet the support they need with the LiftMate Pet Support Comfort Sling – the gentle, hands-free solution for dogs with mobility challenges. Designed for senior dogs, post-surgery recovery, or pets with hind-leg weakness, this comfortable support sling helps you assist your dog during walks, bathroom breaks, stair climbing, and getting in and out of vehicles – all without straining your back or causing discomfort to your pet. Key Features: Hands-free design reduces strain on your back and arms Gentle hind-leg support for dogs with mobility issues Comfortable, breathable fabric won't irritate your pet's skin Adjustable fit for dogs of various sizes Perfect for senior dogs, post-surgery recovery, or arthritis Makes walks, travel, and daily care easier and safer Durable construction for long-lasting support Whether your dog is recovering from surgery, dealing with age-related mobility issues, or needs extra support during daily activities, the LiftMate provides the assistance they need while keeping both of you comfortable and safe. Help your furry friend maintain their independence and quality of life with compassionate, practical support.
+  Updated: 2026-02-28T09:13:18Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_189_1772226202025-98777599-26230792-55579577_0.webp?v=1772226691
+  - [S / Brown](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766711358)
+    Availability: Available
+    Price: $69.99 USD
+  - [S / Green](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766744126)
+    Availability: Available
+    Price: $69.99 USD
+  - [M / Brown](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766776894)
+    Availability: Available
+    Price: $69.99 USD
+  - [M / Green](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766809662)
+    Availability: Available
+    Price: $69.99 USD
+  - [XS（old） / Brown](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766842430)
+    Availability: Available
+    Price: $69.99 USD
+  - [XS（old） / Green](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766875198)
+    Availability: Available
+    Price: $69.99 USD
+  - [L / Brown](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766907966)
+    Availability: Available
+    Price: $69.99 USD
+  - [L / Green](https://mrumstore.myshopify.com/products/liftmate-pet-support-comfort-sling?variant=42513766940734)
+    Availability: Available
+    Price: $69.99 USD
+- [Smart Study Alarm Clock](https://mrumstore.myshopify.com/products/smart-study-alarm-clock): Transform your study routine with intelligent time management.The Smart Study Alarm Clock combines gentle voice control with focus-building features to help students and professionals maximize productivity. Set custom study intervals, manage break times, and build consistent habits—all with simple voice commands.Key Features: Voice-activated controls for hands-free operation Customizable study timers and break reminders Gentle alarm tones designed to maintain focus Sleek, modern design fits any desk setup Perfect for Pomodoro technique and time-blocking Whether you're preparing for exams, working on projects, or building better time management skills, this smart alarm clock keeps you on track without disrupting your flow.
+  Updated: 2026-02-28T09:44:09Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_390_1772228045998-86823722-72596916-91480889_0.webp?v=1772228492
+  Price: $54.99 USD
 
 ## Collections
 
@@ -1455,11 +1514,11 @@
   Updated: 2026-02-13T15:05:12Z
   Total Products: 0
 - [Tech & Electronics - Smart Gadgets & Accessories | M](https://mrumstore.myshopify.com/collections/tech-electronics): Shop innovative tech gadgets, wireless chargers, earbuds, phone accessories, and smart electronics. Premium quality tech products for your modern lifestyle.
-  Updated: 2026-02-13T15:05:12Z
-  Total Products: 12
+  Updated: 2026-02-27T21:46:54Z
+  Total Products: 13
 - [Home & Kitchen Gadgets - Smart Home Solutions | M](https://mrumstore.myshopify.com/collections/home-kitchen): Shop innovative home and kitchen gadgets including air monitors, LED lights, cleaning tools, and kitchen appliances. Upgrade your home with smart solutions.
-  Updated: 2026-02-13T15:05:12Z
-  Total Products: 8
+  Updated: 2026-02-27T21:47:47Z
+  Total Products: 9
 - [Beauty & Personal Care - Hair, Skincare & Grooming Tools | M](https://mrumstore.myshopify.com/collections/beauty-personal-care): Shop beauty and personal care essentials including hair brushes, styling tools, skincare, and grooming accessories. Premium beauty products for your daily routine.
   Updated: 2026-02-13T15:05:12Z
   Total Products: 6
@@ -1467,8 +1526,8 @@
   Updated: 2026-02-13T15:05:12Z
   Total Products: 3
 - [Health & Wellness Products - Fitness & Relief Tools | M](https://mrumstore.myshopify.com/collections/health-wellness): Shop health and wellness products including migraine relief, fitness tools, and nutritional supplements. Support your wellbeing with quality health essentials.
-  Updated: 2026-02-13T15:05:12Z
-  Total Products: 5
+  Updated: 2026-02-19T21:29:20Z
+  Total Products: 6
 - [Pet Care Products - Grooming & Pet Accessories | M](https://mrumstore.myshopify.com/collections/pet-care): Shop pet care essentials including grooming tools and pet accessories. Quality products to keep your pets happy and healthy.
   Updated: 2026-02-13T15:05:12Z
   Total Products: 0
@@ -1482,28 +1541,6 @@
   - [nline Shopping Store for Trending Gadgets & Everyday Essentials | MRUM Store](https://mrumstore.myshopify.com/blogs/news/nline-shopping-store-for-trending-gadgets-everyday-essentials-mrum-store)
     Updated: 2026-01-28T11:01:57Z
     Author: Maram Abusiam
-
-## Store Pages
-
-- [Contact](https://mrumstore.myshopify.com/pages/contact)
-  Updated: 2025-12-13T20:37:21Z
-- [Your Privacy Choices](https://mrumstore.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T17:45:41Z
-- [About Us - M | Quality Home & Lifestyle Products](https://mrumstore.myshopify.com/pages/about-us): Welcome to Mstore We're passionate about bringing you practical, high-quality products that make everyday life easier and more enjoyable. From inno...
-  Updated: 2026-01-01T22:27:18Z
-
-## Policies
-
-- [Privacy Policy](https://mrumstore.myshopify.com/policies/privacy-policy)
-  Updated: 2025-12-13T22:37:29+02:00
-- [Shipping Policy](https://mrumstore.myshopify.com/policies/shipping-policy)
-  Updated: 2025-12-28T20:05:50+02:00
-- [Refund Policy](https://mrumstore.myshopify.com/policies/refund-policy)
-  Updated: 2025-12-20T01:46:01+02:00
-- [Terms of Service](https://mrumstore.myshopify.com/policies/terms-of-service)
-  Updated: 2025-12-20T01:47:02+02:00
-- [Contact Information](https://mrumstore.myshopify.com/policies/contact-information)
-  Updated: 2025-12-28T20:08:15+02:00
 
 ## Optional
 
