@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-01-19T13:12:44Z
 - Contact Email: serviceclient@flerisse.com
-- Updated At: 2026-04-07T00:00:21.668Z
+- Updated At: 2026-04-14T00:00:32.850Z
 
 Flérisse est une marque de soins capillaires naturels dédiée aux cheveux texturés (afro, bouclés, frisés). Nos produits sont formulés avec des ingrédients naturels pour nourrir, hydrater et sublimer vos boucles.
 
