@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-26T21:21:43Z
 - Contact Email: sales@detekthome.com
-- Updated At: 2026-04-06T00:00:40.458Z
+- Updated At: 2026-04-14T00:00:38.928Z
 
 ## Products
 
 - [Blue Green Algae Test Kit - Pond & Lake Water Test](https://detekthome.com/products/blue-green-algae-toxin-test): Detect harmful blue green algae toxins in ponds & lakes in just 10 minutes. 99% accurate cyanobacteria test kit trusted by EPA. No lab fees. Made in USA.
-  Updated: 2026-03-25T19:10:31Z
+  Updated: 2026-04-12T16:12:30Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -43,7 +43,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Baby_Prep_Amazon_Images_V3-01.png?v=1761753561
   Price: $37.79 USD
 - [Water Bacteria Test Kit - E Coli & Coliform Test](https://detekthome.com/products/water-bacteria-test-kit): Detect E. coli, coliform bacteria & mold in well water and drinking water. Lab-grade DIY test kit with accurate results. No lab required. Made in USA by Detekt.
-  Updated: 2026-04-02T17:16:20Z
+  Updated: 2026-04-11T14:25:06Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -97,14 +97,14 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/r.png?v=1756925912
   Price: $29.99 USD
 - [Home Mold Test Kit - DIY Indoor Air Quality Test](https://detekthome.com/products/mold-test-kit): Detect mold, bacteria & fungus in your home with our lab-grade DIY mold test kit. Get visual results in 72hours. Expert consultation. Made in USA. No lab fees!
-  Updated: 2026-04-04T01:14:06Z
+  Updated: 2026-04-12T17:28:28Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/MOLDDipslideAmazonImagesV1-07.png?v=1761239927
   Price: $39.99 USD
 - [Lead Water Test Kit - DIY Drinking Water Lead Test](https://detekthome.com/products/lead-in-water-test-kit): Test tap water for lead in just 5 minutes. Lab-grade DIY lead water test kit detects contamination at home. USA-trusted accuracy. Protect your family today!
-  Updated: 2026-03-25T19:10:34Z
+  Updated: 2026-04-11T12:49:27Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -164,43 +164,43 @@
 ## Collections
 
 - [Lead Test Kit - Water & Surface Lead Detection](https://detekthome.com/collections/lead): Lead test kits detect toxic lead in drinking water, paint & surfaces. Results in 10 minutes. EPA-level sensitivity at 5ppb. 99% accurate. Made in USA.
-  Updated: 2026-03-26T11:18:20Z
+  Updated: 2026-04-12T11:18:43Z
   Total Products: 4
 - [Algae Test Kit - Blue Green Algae & Cyanobacteria](https://detekthome.com/collections/algae-toxin): Algae test kit detects toxic blue green algae & cyanobacteria in ponds, lakes & reservoirs. Results in 10 minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-26T11:18:20Z
+  Updated: 2026-04-13T11:17:19Z
   Total Products: 1
 - [Home Air Quality Test Kit - Mold & Radon Detection](https://detekthome.com/collections/air-quality): Home air quality test kits detect mold spores, radon gas & indoor air contaminants. Results in minutes. 99% accurate. EPA trusted. Lab-grade. Made in USA.
-  Updated: 2026-04-04T11:17:36Z
+  Updated: 2026-04-13T11:17:19Z
   Total Products: 3
 - [Bacteria Test Kit - Water & Surface Microbial Test](https://detekthome.com/collections/bacteria): Bacteria test kits detect E. coli, coliform & harmful microbes in water, kitchen & home surfaces. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-05T11:16:15Z
+  Updated: 2026-04-13T11:17:19Z
   Total Products: 4
 - [Water Quality](https://detekthome.com/collections/water-quality)
-  Updated: 2026-04-03T11:18:54Z
+  Updated: 2026-04-13T11:17:19Z
   Total Products: 6
 - [Radon Test Kit - Home Radon Gas Detection & Testing](https://detekthome.com/collections/radon-gas): Radon test kits detect dangerous radon gas in your home basement & living spaces. DIY radon testing with results in minutes. 99% accurate. EPA trusted. Made in USA.
   Updated: 2026-03-10T11:18:49Z
   Total Products: 2
 - [Mold Test Kit - Home Air Quality & DIY Mold Detection](https://detekthome.com/collections/mold): Mold test kits detect airborne mold spores & indoor air quality issues in your home. Lab-grade results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-05T11:16:15Z
+  Updated: 2026-04-13T11:17:19Z
   Total Products: 4
 - [Water Purity Test Kit - Drinking Water & Well Water Testing](https://detekthome.com/collections/water-purity): Water test kits detect bacteria, lead & contaminants in drinking water, well water & tap water. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-03T11:18:54Z
+  Updated: 2026-04-12T11:18:43Z
   Total Products: 5
 - [Leak Monitoring](https://detekthome.com/collections/leak-monitoring)
   Updated: 2026-03-10T11:18:49Z
   Total Products: 1
 - [Best Sellers](https://detekthome.com/collections/best-sellers)
-  Updated: 2026-04-05T11:16:15Z
+  Updated: 2026-04-13T11:17:19Z
   Total Products: 9
 - [Full Home Tests](https://detekthome.com/collections/full-home-tests)
   Updated: 2026-03-20T11:16:57Z
   Total Products: 3
 - [Sanitation](https://detekthome.com/collections/sanitation)
-  Updated: 2026-04-05T11:16:15Z
+  Updated: 2026-04-12T11:18:43Z
   Total Products: 2
 - [Mold](https://detekthome.com/collections/mold-1)
-  Updated: 2026-04-04T11:17:36Z
+  Updated: 2026-04-13T11:17:19Z
   Total Products: 1
 - [Bulk & Wholesale](https://detekthome.com/collections/bulk-wholesale)
   Updated: 2026-03-12T20:19:32Z
