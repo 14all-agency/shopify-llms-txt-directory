@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-06-16T18:27:32Z
 - Contact Email: sparesdirect2015ltd@gmail.com
-- Updated At: 2026-04-06T00:00:44.499Z
+- Updated At: 2026-04-14T00:00:44.857Z
 
 ## Products
 
@@ -1689,7 +1689,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/5963/1692/files/10_4fb51d06-c6e7-4246-8b1a-2c37403a9dac.jpg?v=1751267102
   Price: £43.20 GBP
 - [Budget Replacement For Toshiba TV Remote Control 43L3653DB 43L3653DB 49U6663DB](https://spares-direct-oldham.co.uk/products/budget-replacement-for-toshiba-tv-remote-control-43l3653db-43l3653db-49u6663db): BRAND NEW AFTERMARKET BUDGET REPLACEMENT REMOTE CONTROL FOR TOSHIBA TV,S THAT USE CT8069
-  Updated: 2025-07-01T17:57:09Z
+  Updated: 2026-04-06T07:32:54Z
   Vendor: Unbranded
   Product Type: 
   Availability: Available
@@ -1766,7 +1766,7 @@
   Updated: 2025-07-22T09:41:53Z
   Total Products: 2
 - [Other Parts](https://spares-direct-oldham.co.uk/collections/other): other spare parts
-  Updated: 2026-04-05T11:34:16Z
+  Updated: 2026-04-13T11:36:21Z
   Total Products: 18554
 - [TV REMOTE CONTROLS](https://spares-direct-oldham.co.uk/collections/tv-remote-controls)
   Updated: 2026-03-31T15:27:49Z
