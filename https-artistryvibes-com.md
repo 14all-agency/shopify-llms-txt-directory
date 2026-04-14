@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-26T21:23:11Z
 - Contact Email: artistryvibes816@gmail.com
-- Updated At: 2026-04-07T00:00:25.217Z
+- Updated At: 2026-04-14T00:00:35.867Z
 
 Artistry Vibes is a design company that puts designs from real artists onto different drop shipped products. Every design is unique. You can even request a design from our artists.
 
@@ -4859,7 +4859,7 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
     Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-24x36-front-69a212d17c573.jpg?v=1772229406
     Price: $24.50 USD
 - [Godzilla's Feelin' Cute](https://artistryvibes.com/products/godzillas-feelin-cute): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
-  Updated: 2026-03-31T08:48:38Z
+  Updated: 2026-04-11T00:34:39Z
   Vendor: Artistry Vibes
   Product Type: 
   Availability: Available
@@ -6442,7 +6442,7 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
     Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-white-front-69a728a28f841.jpg?v=1772562614
     Price: $16.99 USD
 - [Youth Spoiled](https://artistryvibes.com/products/youth-spoiled): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX  low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) CHEST (inches) XS 20 ½ 16 S 22 17 M 23 ½ 18 L 25 19 XL 26 ½ 20
-  Updated: 2026-03-31T08:41:13Z
+  Updated: 2026-04-11T00:33:48Z
   Vendor: Artistry Vibes
   Product Type: 
   Availability: Available
@@ -7023,366 +7023,212 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8713041766758107256_2048.jpg?v=1773188675
     Price: $33.99 USD
-- [Customizable Print It Your Way T-Shirt](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt): S M L XL 2XL 3XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 This heavyweight, garment-dyed tee feels lived-in from the first wear. The soft, broken-in texture and relaxed cut make it a go-to layer for everyday life — whether you’re sketching ideas at a café, packing for a weekend road trip, or printing your own bold design across the chest. Built to age gracefully, the tubular knit and double-needle seams keep the silhouette clean while the pre-shrunk ring-spun cotton holds shape through washes. Choose from a wide palette of colors and sizes to match your vibe and let this tee carry whatever message or artwork you put on it.Product features- 100% ring-spun US cotton — soft, durable, pre-shrunk- Garment-dyed after construction for a lived-in texture and subtle color depth- Heavyweight (6.1 oz/yd²) with a relaxed fit for substantial, comfortable wear- Tubular knit construction without side seams and double-needle stitching for clean lines and durability- Sizes S–4XL available; sewn-in label and 58 color optionsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Comfort Colors® 1717, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Honduras Care instructions: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2026-03-31T08:39:47Z
+- [Unisex Customizable Tee](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way): S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.23 8.50 8.74 9.02 9.25 9.49 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 This lightweight crew-neck tee feels like a calm morning — clean, breathable, and quietly confident. The smooth ring-spun cotton drapes naturally, so it layers easily under a jacket or stands on its own for everyday wear. Subtle details like the ribbed collar and shoulder tape keep the shape after repeated washes. The plain front and back make it a blank canvas for personal prints or thoughtful custom designs, and the tear-away label keeps the neck comfortable all day. Wear it when you want something simple that still looks considered.Product features- 100% ring-spun cotton (lightweight 153 g/m²) for soft, breathable comfort- Tubular knit without side seams for a clean silhouette and reduced fabric waste- Ribbed collar and shoulder tape to maintain shape and prevent stretching- Pearlized, tear-away label for itch-free wearing comfort- DTG and DTF-compatible: supports sleeve and neck label printing methods for customizationCare instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 64000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Bangladesh Care instructions: Machine wash: cold (max 30C or 90F), with similar colors , Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean
+  Updated: 2026-04-13T03:21:00Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11647107420030571238_2048.jpg?v=1773188894
-  - [Black / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125486659)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10446296972618759442_2048.jpg?v=1773188905
-    Price: $32.99 USD
-  - [White / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125519427)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11647107420030571238_2048.jpg?v=1773188894
-    Price: $32.99 USD
-  - [Bay / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125552195)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14179779418393905327_2048.jpg?v=1773188900
-    Price: $33.99 USD
-  - [Berry / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125584963)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7506848216091144706_2048.jpg?v=1773188909
-    Price: $32.99 USD
-  - [Blue Jean / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125617731)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1625760633483920625_2048.jpg?v=1773188902
-    Price: $32.99 USD
-  - [Seafoam / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125650499)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17810594124982046498_2048.jpg?v=1773188901
-    Price: $32.99 USD
-  - [Grey / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125683267)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2627673756079918267_2048.jpg?v=1773188898
-    Price: $31.99 USD
-  - [True Navy / S](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125716035)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/200277158833660641_2048.jpg?v=1773188903
-    Price: $32.99 USD
-  - [Black / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125748803)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10446296972618759442_2048.jpg?v=1773188905
-    Price: $32.99 USD
-  - [White / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125781571)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11647107420030571238_2048.jpg?v=1773188894
-    Price: $33.99 USD
-  - [Bay / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125814339)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14179779418393905327_2048.jpg?v=1773188900
-    Price: $32.99 USD
-  - [Berry / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125847107)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7506848216091144706_2048.jpg?v=1773188909
-    Price: $33.99 USD
-  - [Blue Jean / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125879875)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1625760633483920625_2048.jpg?v=1773188902
-    Price: $32.99 USD
-  - [Seafoam / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125912643)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17810594124982046498_2048.jpg?v=1773188901
-    Price: $32.99 USD
-  - [Grey / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125945411)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2627673756079918267_2048.jpg?v=1773188898
-    Price: $32.99 USD
-  - [Pepper / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033125978179)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9021000902623866214_2048.jpg?v=1773188897
-    Price: $32.99 USD
-  - [True Navy / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126010947)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/200277158833660641_2048.jpg?v=1773188903
-    Price: $32.99 USD
-  - [Violet / M](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126043715)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7517672258213973796_2048.jpg?v=1773188906
-    Price: $32.99 USD
-  - [Black / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126076483)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10446296972618759442_2048.jpg?v=1773188905
-    Price: $32.99 USD
-  - [White / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126109251)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11647107420030571238_2048.jpg?v=1773188894
-    Price: $33.99 USD
-  - [Bay / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126142019)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14179779418393905327_2048.jpg?v=1773188900
-    Price: $32.99 USD
-  - [Berry / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126174787)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7506848216091144706_2048.jpg?v=1773188909
-    Price: $33.99 USD
-  - [Blue Jean / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126207555)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1625760633483920625_2048.jpg?v=1773188902
-    Price: $32.99 USD
-  - [Seafoam / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126240323)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17810594124982046498_2048.jpg?v=1773188901
-    Price: $32.99 USD
-  - [Grey / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126273091)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2627673756079918267_2048.jpg?v=1773188898
-    Price: $32.99 USD
-  - [Ivory / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126305859)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8304122510475161123_2048.jpg?v=1773188896
-    Price: $32.99 USD
-  - [Pepper / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126338627)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9021000902623866214_2048.jpg?v=1773188897
-    Price: $32.99 USD
-  - [True Navy / L](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126371395)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/200277158833660641_2048.jpg?v=1773188903
-    Price: $32.99 USD
-  - [Black / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126404163)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10446296972618759442_2048.jpg?v=1773188905
-    Price: $32.99 USD
-  - [White / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126436931)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11647107420030571238_2048.jpg?v=1773188894
-    Price: $33.99 USD
-  - [Bay / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126469699)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14179779418393905327_2048.jpg?v=1773188900
-    Price: $33.99 USD
-  - [Berry / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126502467)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7506848216091144706_2048.jpg?v=1773188909
-    Price: $33.99 USD
-  - [Blossom / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126535235)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17902928845639862752_2048.jpg?v=1773188907
-    Price: $32.99 USD
-  - [Blue Jean / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126568003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1625760633483920625_2048.jpg?v=1773188902
-    Price: $32.99 USD
-  - [Seafoam / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126600771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17810594124982046498_2048.jpg?v=1773188901
-    Price: $32.99 USD
-  - [Grey / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126633539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2627673756079918267_2048.jpg?v=1773188898
-    Price: $32.99 USD
-  - [Ivory / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126666307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8304122510475161123_2048.jpg?v=1773188896
-    Price: $32.99 USD
-  - [Pepper / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126699075)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9021000902623866214_2048.jpg?v=1773188897
-    Price: $32.99 USD
-  - [True Navy / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126731843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/200277158833660641_2048.jpg?v=1773188903
-    Price: $32.99 USD
-  - [Violet / XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126764611)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7517672258213973796_2048.jpg?v=1773188906
-    Price: $32.99 USD
-  - [Black / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126797379)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10446296972618759442_2048.jpg?v=1773188905
-    Price: $33.99 USD
-  - [White / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126830147)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11647107420030571238_2048.jpg?v=1773188894
-    Price: $33.99 USD
-  - [Bay / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126862915)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14179779418393905327_2048.jpg?v=1773188900
-    Price: $33.99 USD
-  - [Berry / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126895683)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7506848216091144706_2048.jpg?v=1773188909
-    Price: $34.99 USD
-  - [Blossom / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126928451)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17902928845639862752_2048.jpg?v=1773188907
-    Price: $33.99 USD
-  - [Blue Jean / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126961219)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1625760633483920625_2048.jpg?v=1773188902
-    Price: $33.99 USD
-  - [Seafoam / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033126993987)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17810594124982046498_2048.jpg?v=1773188901
-    Price: $34.99 USD
-  - [Grey / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033127026755)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2627673756079918267_2048.jpg?v=1773188898
-    Price: $33.99 USD
-  - [Ivory / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033127059523)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8304122510475161123_2048.jpg?v=1773188896
-    Price: $33.99 USD
-  - [Pepper / 2XL](https://artistryvibes.com/products/customizable-print-it-your-way-t-shirt?variant=43033127092291)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9021000902623866214_2048.jpg?v=1773188897
-    Price: $33.99 USD
-- [Unisex Customizable White Tee — "Print it your way"](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way): S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.23 8.50 8.74 9.02 9.25 9.49 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 This lightweight crew-neck tee feels like a calm morning — clean, breathable, and quietly confident. The smooth ring-spun cotton drapes naturally, so it layers easily under a jacket or stands on its own for everyday wear. Subtle details like the ribbed collar and shoulder tape keep the shape after repeated washes. The plain front and back make it a blank canvas for personal prints or thoughtful custom designs, and the tear-away label keeps the neck comfortable all day. Wear it when you want something simple that still looks considered.Product features- 100% ring-spun cotton (lightweight 153 g/m²) for soft, breathable comfort- Tubular knit without side seams for a clean silhouette and reduced fabric waste- Ribbed collar and shoulder tape to maintain shape and prevent stretching- Pearlized, tear-away label for itch-free wearing comfort- DTG and DTF-compatible: supports sleeve and neck label printing methods for customizationCare instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 64000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Bangladesh Care instructions: Machine wash: cold (max 30C or 90F), with similar colors , Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2026-03-31T08:38:48Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16095214159908252426_2048.jpg?v=1773189181
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412025409-1f1361ae-084f-6a5c-8970-222a5d168185.png?v=1776007254
   - [Light Blue / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129648195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1464308242442311624_2048.jpg?v=1773189186
-    Price: $26.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6684059765772338478_2048.jpg?v=1776007256
+    Price: $19.76 USD
   - [Red / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129680963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1259719636368345457_2048.jpg?v=1773189190
-    Price: $27.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1783819389098800011_2048.jpg?v=1776007258
+    Price: $19.76 USD
   - [Royal / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129713731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1301873961047305395_2048.jpg?v=1773189187
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15952049343903501439_2048.jpg?v=1776007257
+    Price: $19.76 USD
   - [Sport Grey / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129746499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14884433208807085507_2048.jpg?v=1773189183
-    Price: $27.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412025409-1f1361ae-084f-6a5c-8970-222a5d168185.png?v=1776007254
+    Price: $19.76 USD
   - [White / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129779267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16095214159908252426_2048.jpg?v=1773189181
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9528241199713589717_2048.jpg?v=1776007254
+    Price: $19.76 USD
   - [Military Green / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129812035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8143842550572768944_2048.jpg?v=1773189184
-    Price: $26.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16354041975640149773_2048.jpg?v=1776007255
+    Price: $19.76 USD
+  - [Heather Red / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189071427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/131168318664404473_2048.jpg?v=1776007267
+    Price: $19.76 USD
   - [Dark Heather / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129844803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15829632080238224933_2048.jpg?v=1773189185
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4082475274309069215_2048.jpg?v=1776007255
+    Price: $19.76 USD
+  - [Natural / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189104195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16561711239266622565_2048.jpg?v=1776007261
+    Price: $19.76 USD
+  - [Gold / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189136963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2226959037032726090_2048.jpg?v=1776007260
+    Price: $19.76 USD
+  - [Heather Indigo / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189169731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10795658178448711124_2048.jpg?v=1776007264
+    Price: $19.76 USD
+  - [Graphite Heather / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189202499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5372424974425686253_2048.jpg?v=1776007262
+    Price: $19.76 USD
+  - [Sand / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189235267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16094591780554198623_2048.jpg?v=1776007259
+    Price: $19.76 USD
+  - [Light Pink / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189268035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10937630591035776896_2048.jpg?v=1776007266
+    Price: $19.76 USD
+  - [Heather Galapagos Blue / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189300803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8459703554116179530_2048.jpg?v=1776007263
+    Price: $19.76 USD
+  - [Heather Maroon / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189333571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1000852995545958694_2048.jpg?v=1776007266
+    Price: $19.76 USD
+  - [Paragon / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189366339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4271655334175944209_2048.jpg?v=1776007265
+    Price: $19.76 USD
+  - [Sage / S](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189399107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13096193908199247800_2048.jpg?v=1776007262
+    Price: $19.76 USD
   - [Light Blue / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129877571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1464308242442311624_2048.jpg?v=1773189186
-    Price: $26.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6684059765772338478_2048.jpg?v=1776007256
+    Price: $19.76 USD
   - [Red / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129910339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1259719636368345457_2048.jpg?v=1773189190
-    Price: $26.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1783819389098800011_2048.jpg?v=1776007258
+    Price: $19.76 USD
   - [Royal / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129943107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1301873961047305395_2048.jpg?v=1773189187
-    Price: $27.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15952049343903501439_2048.jpg?v=1776007257
+    Price: $19.76 USD
   - [Sport Grey / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033129975875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14884433208807085507_2048.jpg?v=1773189183
-    Price: $26.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412025409-1f1361ae-084f-6a5c-8970-222a5d168185.png?v=1776007254
+    Price: $19.76 USD
   - [White / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130008643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16095214159908252426_2048.jpg?v=1773189181
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9528241199713589717_2048.jpg?v=1776007254
+    Price: $19.76 USD
   - [Military Green / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130041411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8143842550572768944_2048.jpg?v=1773189184
-    Price: $26.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16354041975640149773_2048.jpg?v=1776007255
+    Price: $19.76 USD
+  - [Heather Red / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189431875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/131168318664404473_2048.jpg?v=1776007267
+    Price: $19.76 USD
   - [Dark Heather / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130074179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15829632080238224933_2048.jpg?v=1773189185
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4082475274309069215_2048.jpg?v=1776007255
+    Price: $19.76 USD
+  - [Natural / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189464643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16561711239266622565_2048.jpg?v=1776007261
+    Price: $19.76 USD
+  - [Gold / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189497411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2226959037032726090_2048.jpg?v=1776007260
+    Price: $19.76 USD
+  - [Heather Indigo / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189530179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10795658178448711124_2048.jpg?v=1776007264
+    Price: $19.76 USD
+  - [Graphite Heather / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189562947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5372424974425686253_2048.jpg?v=1776007262
+    Price: $19.76 USD
+  - [Sand / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189595715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16094591780554198623_2048.jpg?v=1776007259
+    Price: $19.76 USD
+  - [Light Pink / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189628483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10937630591035776896_2048.jpg?v=1776007266
+    Price: $19.76 USD
+  - [Heather Galapagos Blue / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189661251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8459703554116179530_2048.jpg?v=1776007263
+    Price: $19.76 USD
+  - [Heather Maroon / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189694019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1000852995545958694_2048.jpg?v=1776007266
+    Price: $19.76 USD
+  - [Sage / M](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189726787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13096193908199247800_2048.jpg?v=1776007262
+    Price: $19.76 USD
   - [Light Blue / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130106947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1464308242442311624_2048.jpg?v=1773189186
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6684059765772338478_2048.jpg?v=1776007256
+    Price: $19.76 USD
   - [Red / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130139715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1259719636368345457_2048.jpg?v=1773189190
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1783819389098800011_2048.jpg?v=1776007258
+    Price: $19.76 USD
   - [Royal / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130172483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1301873961047305395_2048.jpg?v=1773189187
-    Price: $27.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15952049343903501439_2048.jpg?v=1776007257
+    Price: $19.76 USD
   - [Sport Grey / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130205251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14884433208807085507_2048.jpg?v=1773189183
-    Price: $29.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412025409-1f1361ae-084f-6a5c-8970-222a5d168185.png?v=1776007254
+    Price: $19.76 USD
   - [White / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130238019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16095214159908252426_2048.jpg?v=1773189181
-    Price: $28.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9528241199713589717_2048.jpg?v=1776007254
+    Price: $19.76 USD
+  - [Heather Red / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189759555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/131168318664404473_2048.jpg?v=1776007267
+    Price: $19.76 USD
   - [Dark Heather / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130270787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15829632080238224933_2048.jpg?v=1773189185
-    Price: $28.99 USD
-  - [Light Blue / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130303555)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4082475274309069215_2048.jpg?v=1776007255
+    Price: $19.76 USD
+  - [Natural / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189792323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1464308242442311624_2048.jpg?v=1773189186
-    Price: $28.99 USD
-  - [Red / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130336323)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16561711239266622565_2048.jpg?v=1776007261
+    Price: $19.76 USD
+  - [Gold / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189825091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1259719636368345457_2048.jpg?v=1773189190
-    Price: $28.99 USD
-  - [Royal / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130369091)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2226959037032726090_2048.jpg?v=1776007260
+    Price: $19.76 USD
+  - [Heather Indigo / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189857859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1301873961047305395_2048.jpg?v=1773189187
-    Price: $27.99 USD
-  - [Sport Grey / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130401859)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10795658178448711124_2048.jpg?v=1776007264
+    Price: $19.76 USD
+  - [Graphite Heather / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189890627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14884433208807085507_2048.jpg?v=1773189183
-    Price: $27.99 USD
-  - [White / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130434627)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5372424974425686253_2048.jpg?v=1776007262
+    Price: $19.76 USD
+  - [Sand / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189923395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16095214159908252426_2048.jpg?v=1773189181
-    Price: $28.99 USD
-  - [Military Green / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130467395)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16094591780554198623_2048.jpg?v=1776007259
+    Price: $19.76 USD
+  - [Light Pink / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189956163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8143842550572768944_2048.jpg?v=1773189184
-    Price: $26.99 USD
-  - [Heather Navy / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130500163)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10937630591035776896_2048.jpg?v=1776007266
+    Price: $19.76 USD
+  - [Heather Galapagos Blue / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136189988931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6286287987752192737_2048.jpg?v=1773189189
-    Price: $27.99 USD
-  - [Dark Heather / XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130532931)
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8459703554116179530_2048.jpg?v=1776007263
+    Price: $19.76 USD
+  - [Heather Maroon / L](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43136190021699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15829632080238224933_2048.jpg?v=1773189185
-    Price: $28.99 USD
-  - [Light Blue / 2XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130565699)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1464308242442311624_2048.jpg?v=1773189186
-    Price: $29.99 USD
-  - [Red / 2XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130598467)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1259719636368345457_2048.jpg?v=1773189190
-    Price: $30.99 USD
-  - [Royal / 2XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130631235)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1301873961047305395_2048.jpg?v=1773189187
-    Price: $31.99 USD
-  - [Sport Grey / 2XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130664003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14884433208807085507_2048.jpg?v=1773189183
-    Price: $28.99 USD
-  - [White / 2XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130696771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16095214159908252426_2048.jpg?v=1773189181
-    Price: $29.99 USD
-  - [Military Green / 2XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130729539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8143842550572768944_2048.jpg?v=1773189184
-    Price: $27.99 USD
-  - [Dark Heather / 2XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130762307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15829632080238224933_2048.jpg?v=1773189185
-    Price: $28.99 USD
-  - [Red / 3XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130795075)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1259719636368345457_2048.jpg?v=1773189190
-    Price: $31.99 USD
-  - [Royal / 3XL](https://artistryvibes.com/products/unisex-customizable-white-tee-print-it-your-way?variant=43033130827843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1301873961047305395_2048.jpg?v=1773189187
-    Price: $31.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1000852995545958694_2048.jpg?v=1776007266
+    Price: $19.76 USD
 - [Eternal Nightmare](https://artistryvibes.com/products/eternal-nightmare): Grace thought her life was falling into place—a great boyfriend, college plans, and a baby on the way. As a psychology student, she begins research for a paper for a class in which she journals about her dreams that become more nightmarish and vivid. When her insomnia worsens and nightmares blur into her waking world, her grip on reality starts to unravel. Plagued by hallucinations she can’t explain and shadowy figures at the edge of her vision. She doesn't know if her home is haunted or if there is something even more sinister happening. Amidst her turmoil, she finds herself in the middle of a  trafficking ring and a murder investigation. The evidence brings back long forgotten memories—and the more she tries to piece together what’s real and what’s imagined, the more tangled the truth becomes. Now, just as she thought she was piecing her life back together, Grace discovers she may hold the key to solving the crime—but only if she can trust her fractured mind long enough to uncover the answers.
   Updated: 2026-03-31T08:38:09Z
   Vendor: Artistry Vibes
@@ -8960,19 +8806,23 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/travel-mug-with-a-handle-white-40-oz-front-69d297c66fbe7.jpg?v=1775409117
     Price: $29.20 USD
-- [Adjustable Flat Bar Bracelet (Custom Engraving)](https://artistryvibes.com/products/adjustable-flat-bar-bracelet-custom-engraving): One Size Chain length, in 7.99 Bar length, in 1.50 Bar width, in 0.24 Elevate your style with the Adjustable Flat Bar Bracelet, a sleek and versatile piece perfect for any occasion. Crafted from durable 316L surgical-grade stainless steel, it resists tarnish, fading, and skin irritation. Personalize it with an engraved message for a meaningful, one-of-a-kind accessory. Its minimalist design and adjustable chain make it both fashionable and comfortable for everyday wear. .: Material: 316L Surgical Grade Stainless Steel with additional PVD coating options.: Strong, durable, and won't easily break.: Waterproof and tarnish-resistant.: Hypoallergenic material.: Comes in a White Jewelry Boxes with non-tarnish cotton fiber to protect jewelry EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from China, For adults Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
-  Updated: 2026-04-06T05:34:49Z
+- [Adjustable Flat Bar Bracelet (Custom Engraving)](https://artistryvibes.com/products/adjustable-flat-bar-bracelet-custom-engraving): One Size Chain lenght, in 7.99 Bar lenght, in 1.50 Bar width, in 0.24 Elevate your style with the Adjustable Flat Bar Bracelet, a sleek and versatile piece perfect for any occasion. Crafted from durable 316L surgical-grade stainless steel, it resists tarnish, fading, and skin irritation. Personalize it with an engraved message for a meaningful, one-of-a-kind accessory. Its minimalist design and adjustable chain make it both fashionable and comfortable for everyday wear..: Material: 316L Surgical Grade Stainless Steel with additional PVD coating options.: Strong, durable, and won't easily break.: Waterproof and tarnish-resistant.: Hypoallergenic material.: Comes in a White Jewelry Boxes with non-tarnish cotton fiber to protect jewelryEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from China, For adults Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
+  Updated: 2026-04-11T09:51:30Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405172348-1f131143-4d7f-6552-9db6-724eceaf7e3a.png?v=1775410483
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405172348-1f131143-4d7f-6552-9db6-724eceaf7e3a.png?v=1775857884
   - [18K Gold PVD coating / One Size](https://artistryvibes.com/products/adjustable-flat-bar-bracelet-custom-engraving?variant=43117541228611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1575666690707717354_2048.jpg?v=1775410491
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1575666690707717354_2048.jpg?v=1775857886
     Price: $32.25 USD
   - [18K Rose Gold PVD coating / One Size](https://artistryvibes.com/products/adjustable-flat-bar-bracelet-custom-engraving?variant=43117541261379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14814697198933864727_2048.jpg?v=1775410486
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14814697198933864727_2048.jpg?v=1775857885
+    Price: $32.25 USD
+  - [Stainless Steel / One Size](https://artistryvibes.com/products/adjustable-flat-bar-bracelet-custom-engraving?variant=43133204136003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405172348-1f131143-4d7f-6552-9db6-724eceaf7e3a.png?v=1775857884
     Price: $32.25 USD
 - [Personalized Natural Stone Stretch Bracelet — 'Wear Your Imagination' Bar](https://artistryvibes.com/products/engraved-natural-stone-stretch-bracelet-wear-your-imagination-bar): A tactile stretch bracelet that balances gentle earth tones with a sleek engraved bar. Smooth natural stone beads—soft greens, creams, and marble-like whites—wrap comfortably around the wrist, while a polished stainless steel bar carries a crisp engraved message. Lightweight and durable, this bracelet layers easily with everyday looks and adds a quiet, personal touch to moments like thoughtful gatherings or reflective solo walks. It arrives in a white gloss jewelry box lined with non-tarnish cotton, so it feels ready to give or keep as a small ritual of meaning.Product features- 316L surgical-grade stainless steel with 18K PVD gold option for lasting finish- Natural stone stretch beads for comfortable, flexible fit- Permanent engraved stainless steel bar—won’t fade or peel- Hypoallergenic and skin-safe materials- Packaged in white gloss jewelry box with non-tarnish cotton liningCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.
   Updated: 2026-04-06T05:44:24Z
@@ -9025,20 +8875,20 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12462307570060756290_2048.jpg?v=1775411059
     Price: $38.58 USD
-- [Hidden Message Sliding Bar Necklace — Engraved Customizable Pendant](https://artistryvibes.com/products/hidden-message-sliding-bar-necklace-engraved-customizable-pendant): A slim sliding bar necklace that hides a personalized message inside its polished column. The two-tone pendant slips open to reveal an engraved strip — a private line, a date, or a secret word — that stays tucked away until you choose to show it. Lightweight and quietly elegant, the chain sits close to the collarbone and the stainless core keeps the piece gleaming through daily wear. It arrives in a white jewelry box with protective, non-tarnish cotton, ready to feel like a small, personal ritual every time it’s worn or gifted.Wear it alone for a subtle, intimate statement, or layer it with other chains for a modern stacked look. The sliding mechanism is smooth and durable, designed for everyday life: shower-friendly, resistant to tarnish, and gentle on sensitive skin thanks to surgical-grade stainless steel with an 18K PVD gold finish. This necklace suits anyone who values quiet details and meaningful keepsakes — a wearable secret close to the heart.Product features- 316L surgical-grade stainless steel core with 18K PVD gold coating for long-lasting shine- Hidden sliding bar reveals a custom engraving for a private message- Chain length 16" + 2" extender for adjustable, collarbone placement- Waterproof, tarnish-resistant, and hypoallergenic — safe for sensitive skin- Packaged in a white jewelry box with non-tarnish cotton for protectionCare instructions- Clean with a polishing cloth to restore the shine of the jewelryEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from China, For adults Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
-  Updated: 2026-04-06T05:56:22Z
+- [Personalized Hidden Message Sliding Bar Necklace](https://artistryvibes.com/products/hidden-message-sliding-bar-necklace-engraved-customizable-pendant): One Size Chain lenght, in 16.00 Pendant lenght , in 1.26 Pendant width, in 0.24 Hidden pendant lenght, in 1.14 Hidden pendant width, in 0.16 A slim sliding bar necklace that hides a personalized message inside its polished column. The two-tone pendant slips open to reveal an engraved strip — a private line, a date, or a secret word — that stays tucked away until you choose to show it. Lightweight and quietly elegant, the chain sits close to the collarbone and the stainless core keeps the piece gleaming through daily wear. It arrives in a white jewelry box with protective, non-tarnish cotton, ready to feel like a small, personal ritual every time it’s worn or gifted.Wear it alone for a subtle, intimate statement, or layer it with other chains for a modern stacked look. The sliding mechanism is smooth and durable, designed for everyday life: shower-friendly, resistant to tarnish, and gentle on sensitive skin thanks to surgical-grade stainless steel with an 18K PVD gold finish. This necklace suits anyone who values quiet details and meaningful keepsakes — a wearable secret close to the heart.Product features- 316L surgical-grade stainless steel core with 18K PVD gold coating for long-lasting shine- Hidden sliding bar reveals a custom engraving for a private message- Chain length 16" + 2" extender for adjustable, collarbone placement- Waterproof, tarnish-resistant, and hypoallergenic — safe for sensitive skin- Packaged in a white jewelry box with non-tarnish cotton for protectionCare instructions- Clean with a polishing cloth to restore the shine of the jewelryEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from China, For adults Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
+  Updated: 2026-04-11T12:25:31Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405175408-1f131187-1d8b-6780-9520-c60cac091835.png?v=1775411777
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405175408-1f131187-1d8b-6780-9520-c60cac091835.png?v=1775867130
   - [18K Gold PVD Coating / Stainless Steel / One Size](https://artistryvibes.com/products/hidden-message-sliding-bar-necklace-engraved-customizable-pendant?variant=43117547061315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405175408-1f131187-1d8b-6780-9520-c60cac091835.png?v=1775411777
-    Price: $48.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405175408-1f131187-1d8b-6780-9520-c60cac091835.png?v=1775867130
+    Price: $42.99 USD
   - [Stainless Steel  / 18K Gold PVD Coating / One Size](https://artistryvibes.com/products/hidden-message-sliding-bar-necklace-engraved-customizable-pendant?variant=43117547094083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/366586221458755100_2048.jpg?v=1775411779
-    Price: $48.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/366586221458755100_2048.jpg?v=1775867131
+    Price: $42.99 USD
 - [Personalized Corgi Garden Flag - "Welcome to Paddie's Domain" Decorative House Banner](https://artistryvibes.com/products/personalized-corgi-garden-flag-welcome-to-paddies-domain-decorative-house-banner): Bright, playful garden banner that announces a warm, pet-loving welcome. Lightweight poly poplin-canvas brings the illustrated corgi and paw-print pattern to life with vivid, crisp colors that hold up outdoors. The design reads smoothly from either side (printed on both faces) and slips easily onto a standard garden pole through the top sleeve. It adds a personal, cheerful touch to a porch, garden bed, or walkway and feels like a small celebration of home and furry companionship.Product features- 100% poly poplin-canvas fabric for a lightweight, durable finish- Vibrant, crisp color printing that captures detailed artwork- Top sleeve fits standard flagpoles or garden stands- Printed on both sides with a flipped long-edge layout- Available in two sizes: 12" × 18" and 24.5" × 32" (pole/hooks not included)Care instructions- Clean by wiping with a soft, damp cloth.
   Updated: 2026-04-06T06:11:04Z
   Vendor: Printify
@@ -9046,162 +8896,6 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260405181014-1f1311ab-1bd0-63d6-a061-aece9a8b8c81.png?v=1775412659
   Price: $18.99 USD
-- [Personalized Unisex Jersey Tee](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee): The Bella Canvas 3001 is a classic unisex jersey short sleeve tee that fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have ribbed knit collars to bolster shaping. The shoulders are tapered for a better fit over time, and dual side seams hold the garment's shape for longer.Disclaimer:- Sleeve prints and neck labels are produced using DTF (Direct-to-Film) printing technology. This applies only to products fulfilled by the print providers OPT OnDemand and Shirt Monkey among the providers offering this item..: Made with 100% Airlume combed and ring-spun cotton, the Bella Canvas 3001 is a lightweight fabric (4.2 oz/yd² (142 g/m²)) that's breathable and easy to layer. Perfect for active and leisure wear..: The retail fit that is perfect for casual and semi-formal settings. The crew neckline adds a classic, neat style that's perfect for accessorizing..: Bella+Canvas manufactures all its products in the US and internationally in humane, no-sweat-shop, sustainable way and is part of the Fair Labor Association as well as Platinum WRAP . .: The tear-away label minimizes skin irritations..: Fabric blends: Ash and Heather Prism colors - 99% cotton, 1% polyester; Heather and Solid Blend colors - 52% cotton, 48% polyester; Athletic Heather and Black Heather - 90% cotton, 10% polyester.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CYProduct information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/ECWarnings, Hazard: For adults, Blank product sourced from HondurasCare instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2026-04-06T06:26:25Z
-  Vendor: Artistry Vibes
-  Product Type: physical
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/il_fullxfull.7928964115_lh83.jpg?v=1775413573
-  - [S / Athletic Heather](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551321155)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / Red](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551353923)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / White](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551386691)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / Ash](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551419459)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / Heather Peach](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551452227)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / Heather Aqua](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551484995)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / Mauve](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551517763)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / Heather Prism Lilac](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551550531)
-    Availability: Available
-    Price: $24.00 USD
-  - [S / Mustard](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551583299)
-    Availability: Available
-    Price: $0.00 USD
-  - [M / Athletic Heather](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551616067)
-    Availability: Available
-    Price: $24.00 USD
-  - [M / Red](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551648835)
-    Availability: Available
-    Price: $24.00 USD
-  - [M / White](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551681603)
-    Availability: Available
-    Price: $24.00 USD
-  - [M / Ash](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551714371)
-    Availability: Available
-    Price: $0.00 USD
-  - [M / Heather Peach](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551747139)
-    Availability: Available
-    Price: $24.00 USD
-  - [M / Heather Aqua](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551779907)
-    Availability: Available
-    Price: $24.00 USD
-  - [M / Mauve](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551812675)
-    Availability: Available
-    Price: $24.00 USD
-  - [M / Heather Prism Lilac](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551845443)
-    Availability: Available
-    Price: $0.00 USD
-  - [M / Mustard](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551878211)
-    Availability: Available
-    Price: $0.00 USD
-  - [L / Athletic Heather](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551910979)
-    Availability: Available
-    Price: $24.00 USD
-  - [L / Red](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551943747)
-    Availability: Available
-    Price: $24.00 USD
-  - [L / White](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117551976515)
-    Availability: Available
-    Price: $24.00 USD
-  - [L / Ash](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552009283)
-    Availability: Available
-    Price: $24.00 USD
-  - [L / Heather Peach](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552042051)
-    Availability: Available
-    Price: $24.00 USD
-  - [L / Heather Aqua](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552074819)
-    Availability: Available
-    Price: $24.00 USD
-  - [L / Mauve](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552107587)
-    Availability: Available
-    Price: $24.00 USD
-  - [L / Heather Prism Lilac](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552140355)
-    Availability: Available
-    Price: $0.00 USD
-  - [L / Mustard](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552173123)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / Athletic Heather](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552205891)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / Red](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552238659)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / White](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552271427)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / Ash](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552304195)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / Heather Peach](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552336963)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / Heather Aqua](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552369731)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / Mauve](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552402499)
-    Availability: Available
-    Price: $24.00 USD
-  - [XL / Heather Prism Lilac](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552435267)
-    Availability: Available
-    Price: $0.00 USD
-  - [XL / Mustard](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552468035)
-    Availability: Available
-    Price: $24.00 USD
-  - [2XL / Athletic Heather](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552500803)
-    Availability: Available
-    Price: $29.02 USD
-  - [2XL / Red](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552533571)
-    Availability: Available
-    Price: $29.02 USD
-  - [2XL / White](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552566339)
-    Availability: Available
-    Price: $29.02 USD
-  - [2XL / Ash](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552599107)
-    Availability: Available
-    Price: $29.02 USD
-  - [2XL / Heather Peach](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552631875)
-    Availability: Available
-    Price: $29.02 USD
-  - [2XL / Heather Aqua](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552664643)
-    Availability: Available
-    Price: $29.02 USD
-  - [2XL / Mauve](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552697411)
-    Availability: Available
-    Price: $29.02 USD
-  - [2XL / Heather Prism Lilac](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552730179)
-    Availability: Available
-    Price: $0.00 USD
-  - [2XL / Mustard](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552762947)
-    Availability: Available
-    Price: $0.00 USD
-  - [3XL / Athletic Heather](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552795715)
-    Availability: Available
-    Price: $33.57 USD
-  - [3XL / Red](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552828483)
-    Availability: Available
-    Price: $0.00 USD
-  - [3XL / White](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552861251)
-    Availability: Available
-    Price: $33.57 USD
-  - [3XL / Ash](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552894019)
-    Availability: Available
-    Price: $0.00 USD
-  - [3XL / Heather Peach](https://artistryvibes.com/products/unisex-jersey-short-sleeve-tee?variant=43117552926787)
-    Availability: Available
-    Price: $0.00 USD
 - [Cup-O-Pug Throw Blanket](https://artistryvibes.com/products/cup-o-pug-throw-blanket): Do you feel that your home is missing an eye-catching, yet practical design element? Solve this problem with a soft silk touch throw blanket that's ideal for lounging on the couch during chilly evenings. • 100% polyester • Soft silk touch fabric • Printing on one side • White reverse side • Machine-washable • Hypoallergenic • Flame retardant • Blank product sourced from China Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates, BPA, azo dyes and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
   Updated: 2026-04-06T07:37:16Z
   Vendor: Artistry Vibes
@@ -9627,27 +9321,6498 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-20x30-front-69d2e05a3a4c7.jpg?v=1775427695
     Price: $20.50 USD
+- [Natural Stone Stretch Bar Bracelet "I am enough"](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough): One Size Metal bar (width), in 1.34 Metal bar (height), in 0.22 This unique bracelet is crafted from genuine semi-precious natural stone, providing an aesthetically elevated look for customers. The stretch design ensures a comfortable fit for most wrist sizes, making it a versatile choice for a wide range of customers. Please Note: Due to their natural origin, semi-precious stones exhibit unique variations in color, pattern, and texture. These inherent differences enhance the individuality of each stone, making every piece distinctively one-of-a-kind.Please note: This product has some limitations and specifics you should know. Before creating this product, please visit the link here..: Material: 316L Surgical Grade Stainless Steel with additional PVD coating options.: Strong, durable, and won't easily break.: Hypoallergenic.: Comes in a White Gloss Jewelry Boxes with non-tarnish cotton fiber to protect jewelry..: 5% product  has been applied
+  Updated: 2026-04-10T06:46:32Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260306011146-1f118f97-228e-62fa-87d0-9641aef27d26.png?v=1775760386
+  - [Stainless Steel (No coating) / Amazonite / One Size](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough?variant=43127803609155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260306011146-1f118f97-228e-62fa-87d0-9641aef27d26.png?v=1775760386
+    Price: $32.99 USD
+  - [Stainless Steel (No coating) / Howlite / One Size](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough?variant=43127803641923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/258194782894620014_2048.jpg?v=1775760390
+    Price: $32.99 USD
+  - [Stainless Steel (No coating) / Onyx / One Size](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough?variant=43127803674691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10951320437591298363_2048.jpg?v=1775760393
+    Price: $32.99 USD
+  - [Stainless Steel (No coating) / Picture Jasper / One Size](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough?variant=43127803707459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1795101155706322934_2048.jpg?v=1775760397
+    Price: $32.99 USD
+  - [Stainless Steel (No coating) / Rose Quartz / One Size](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough?variant=43127803740227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7640542432226366718_2048.jpg?v=1775760401
+    Price: $32.99 USD
+  - [Stainless Steel (No coating) / Sodalite / One Size](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough?variant=43127803772995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2544020176726088718_2048.jpg?v=1775760405
+    Price: $32.99 USD
+  - [Stainless Steel (No coating) / Turquoise / One Size](https://artistryvibes.com/products/natural-stone-stretch-bar-bracelet-i-am-enough?variant=43127803805763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3017808911240560524_2048.jpg?v=1775760409
+    Price: $32.99 USD
+- ["I am Worthy" Adjustable Flat Bar Bracelet (Engraving)](https://artistryvibes.com/products/adjustable-flat-bar-bracelet-engraving): Elevate your style with the Adjustable Flat Bar Bracelet, a sleek and versatile piece perfect for any occasion. Crafted from durable 316L surgical-grade stainless steel, it resists tarnish, fading, and skin irritation. Personalize it with an engraved message for a meaningful, one-of-a-kind accessory. Its minimalist design and adjustable chain make it both fashionable and comfortable for everyday wear..: Material: 316L Surgical Grade Stainless Steel with additional PVD coating options.: Strong, durable, and won't easily break.: Waterproof and tarnish-resistant.: Hypoallergenic material.: Comes in a White Jewelry Boxes with non-tarnish cotton fiber to protect jewelryEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CYProduct information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/ECWarnings, Hazard: Blank product sourced from China, For adultsCare instructions: Clean with a polishing cloth to restore the shine of the jewelry
+  Updated: 2026-04-10T06:47:02Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2825153371128338944_2048.jpg?v=1775760417
+  Price: $29.99 USD
+- [Personalized Birthstone Circle Charm — Engraved Initial Pendant](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant): One Size Charm diameter , in 0.51 A small, engraved circle charm that carries a quiet, personal touch. The polished 13mm disk takes a single engraved initial beside a sparkling cubic zirconia birthstone — a delicate accent that catches the light. Made from hypoallergenic 316L surgical stainless steel (optionally finished with 18K gold PVD), the charm resists rust and tarnish so the engraved letter and stone stay clear and bright. It arrives as the charm only; add a favorite chain or bracelet to make it your everyday keepsake. Wear it alone for subtle meaning, or layer it with other charms to tell a longer story.Product features- 316L surgical grade stainless steel (hypoallergenic)- Optional 18K gold PVD coating- Charm diameter 13mm (1/2")- Single cubic zirconia birthstone- Engraved initial; chain not includedCare instructions- Clean with a polishing cloth to restore the shine of the jewelryEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from the China Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
+  Updated: 2026-04-11T09:50:10Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409185033-1f13444f-d18b-6eb0-8ebb-baa17bb95f32.png?v=1775857801
+  - [Stainless Steel (No coating) / Alexandrite / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831167043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9828523209703869636_2048.jpg?v=1775857803
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Amethyst / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831199811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3144971625605825781_2048.jpg?v=1775857803
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Aquamarine / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831232579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1677132631783638407_2048.jpg?v=1775857804
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Blue Zircon / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831265347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15189471356794439377_2048.jpg?v=1775857805
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Diamond / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831298115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11343229762875260408_2048.jpg?v=1775857806
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Emerald / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831330883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11676764590254008484_2048.jpg?v=1775857806
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Garnet / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831363651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17747996047830150330_2048.jpg?v=1775857807
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Peridot / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831396419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1781998692593822344_2048.jpg?v=1775857808
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Ruby / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831429187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2527942392925561608_2048.jpg?v=1775857809
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Sapphire / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831461955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409185033-1f13444f-d18b-6eb0-8ebb-baa17bb95f32.png?v=1775857801
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Topaz / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831494723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6188927447647442977_2048.jpg?v=1775857810
+    Price: $24.99 USD
+  - [Stainless Steel (No coating) / Tourmaline / One Size](https://artistryvibes.com/products/personalized-birthstone-circle-charm-engraved-initial-pendant?variant=43127831527491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2823670732070232714_2048.jpg?v=1775857811
+    Price: $24.99 USD
+- [Engravable Heart Cutout Necklace — Personalized Sterling Pendant Gift](https://artistryvibes.com/products/engravable-heart-cutout-necklace-personalized-sterling-pendant-gift): One Size Chain length, in 18.00 - 20.00 A delicate heart cutout necklace designed to sit softly at the collarbone, carrying a small engraved heart pendant that catches the light. The layered look—a tiny heart charm overlapping a subtle open circle—feels intimate and understated. Lightweight and hypoallergenic, its surgical-grade 316L stainless steel body keeps the shine without tarnish, so the engraved detail remains clear over time. Wear it alone for a quiet, personal touch or layer with other chains to create a gathered, lived-in look that tells a small story every day.Product features- 316L surgical-grade stainless steel for long-lasting shine and corrosion resistance- Hypoallergenic build, gentle on sensitive skin- Durable construction with PVD coating option to resist scratches and discoloration- Layered design: small engraved heart charm paired with an open circle cutout- Designed for adults; lightweight and everyday-wear friendlyCare instructionsEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from China
+  Updated: 2026-04-11T09:49:13Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409185720-1f13445e-fbeb-6caa-abca-12cf167bac54.png?v=1775857748
+  Price: $29.99 USD
+- [Engravable Heart Signet Ring — Personalized Stainless Steel Gift](https://artistryvibes.com/products/engravable-heart-signet-ring-personalized-stainless-steel-gift): 6 Diameter, in 0.65 This 18K gold PVD heart signet ring carries a quiet, personal charm — a small, warm emblem you can wear every day. Brushed gold hugs a rounded heart face, engraved with delicate initials that catch the light when you move. It feels substantial without being bulky: smooth inner band, gentle shoulders with subtle grooves, and a low-profile silhouette that slips under sleeves and pairs easily with stacked rings. Made from surgical-grade 316L stainless steel, it resists tarnish and holds its shape so the engraved detail stays crisp through showers, swims, and daily wear. Packaged in a white jewelry box with non-tarnish cotton fiber, it arrives ready to be tucked into a jewelry dish or slipped into a pocket for safekeeping.Product features- 316L surgical-grade stainless steel — durable and bend-resistant- 18K gold PVD finish — tarnish-resistant, waterproof- Hypoallergenic — gentle on sensitive skin- Available in US sizes 6–8- Includes white jewelry box with non-tarnish cotton fiberCare instructions- Clean with a polishing cloth to restore the shine of the jewelryEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from China Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
+  Updated: 2026-04-11T09:45:37Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409190310-1f13446c-0632-6a76-990d-9e6c2c292026.png?v=1775857533
+  - [6 / 18K Gold PVD coating](https://artistryvibes.com/products/engravable-heart-signet-ring-personalized-stainless-steel-gift?variant=43127864328259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409190310-1f13446c-0632-6a76-990d-9e6c2c292026.png?v=1775857533
+    Price: $26.99 USD
+  - [7 / 18K Gold PVD coating](https://artistryvibes.com/products/engravable-heart-signet-ring-personalized-stainless-steel-gift?variant=43133182574659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409190310-1f13446c-0632-6a76-990d-9e6c2c292026.png?v=1775857533
+    Price: $26.99 USD
+  - [8 / 18K Gold PVD coating](https://artistryvibes.com/products/engravable-heart-signet-ring-personalized-stainless-steel-gift?variant=43128861458499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409190310-1f13446c-0632-6a76-990d-9e6c2c292026.png?v=1775857533
+    Price: $26.99 USD
+- [Personalize it! Youth T-Shirt “TWO years of awesomeness” Birthday Tee](https://artistryvibes.com/products/kids-t-shirt-two-years-of-awesomeness-birthday-tee): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 Soft, simple, and joyful — this kids tee celebrates a little milestone with low-key charm. The front reads “TWO” in playful, bold lettering with a small script line beneath: “years of awesomeness.” Lightweight midweight cotton drapes gently on small frames and keeps active toddlers comfortable during playdates, cake sessions, and family photos. The classic crew neck and straight cut give it an everyday silhouette that layers well under sweaters or wears on its own for sunny outings. Ethically grown cotton and careful construction mean the shirt looks crisp wash after wash while staying kind to sensitive skin. Let this shirt be the quiet, happy piece that marks year-two curiosity, mischief, and big tiny personalities.Product features- 100% midweight US cotton (heather blends vary) — soft, breathable, season-ready- No side seams & shoulder twill tape — stable shape and reduced fabric waste- Ribbed collar and classic crew neckline — retains shape and comfy fit- DTF inner neck labels + pearlized tear-away labels — scratch-free comfort- REACH & Oeko-Tex ; age-appropriate sizing for toddlersCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-10T07:10:10Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9214196046909581886_2048.jpg?v=1775761806
+  - [White / XS](https://artistryvibes.com/products/kids-t-shirt-two-years-of-awesomeness-birthday-tee?variant=43127875436611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9214196046909581886_2048.jpg?v=1775761806
+    Price: $28.99 USD
+  - [White / S](https://artistryvibes.com/products/kids-t-shirt-two-years-of-awesomeness-birthday-tee?variant=43127875469379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9214196046909581886_2048.jpg?v=1775761806
+    Price: $30.99 USD
+  - [White / M](https://artistryvibes.com/products/kids-t-shirt-two-years-of-awesomeness-birthday-tee?variant=43127875502147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9214196046909581886_2048.jpg?v=1775761806
+    Price: $28.99 USD
+  - [White / L](https://artistryvibes.com/products/kids-t-shirt-two-years-of-awesomeness-birthday-tee?variant=43127875534915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9214196046909581886_2048.jpg?v=1775761806
+    Price: $27.99 USD
+  - [White / XL](https://artistryvibes.com/products/kids-t-shirt-two-years-of-awesomeness-birthday-tee?variant=43127875567683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9214196046909581886_2048.jpg?v=1775761806
+    Price: $30.99 USD
+- [Personalize it! Engraved 40oz Insulated Tumbler – "Bad days are not failures" Travel Mug](https://artistryvibes.com/products/engraved-40oz-insulated-tumbler-bad-days-are-not-failures-travel-mug): 40oz Height, in 9.56 Diameter, in 3.94 Width with handle, in 5.31 This 40oz insulated tumbler carries thoughtful, everyday resilience in a sleek, engraved finish. Built from recycled 304 stainless steel with a glossy outer coat, it keeps coffee hot or iced beverages cold for hours thanks to double-wall vacuum insulation. A large, comfortable handle and tapered base make it easy to carry and cup-holder friendly. The press-fit slider lid with matching straw reduces spills while letting you sip on the go. Engraving gives the design a subtle, long-lasting look that won’t fade, and the recycled materials make it feel good to use every day. Hand wash to preserve the finish.Product features- 40oz double-wall vacuum insulated stainless steel body- Press-fit slider lid with matching straw for spill-resistant sipping- Large comfort handle and tapered base for easy carrying and cup-holder compatibility- Made with 90% recycled 304 stainless steel and 100% recycled plastic- Engraved print on a glossy finish; hand wash onlyCare instructions- Hand wash onlyEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Koozie Group® 46434, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Hand wash only
+  Updated: 2026-04-10T07:24:10Z
+  Vendor: Printify
+  Product Type: Mug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14397744499014076103_2048.jpg?v=1775762644
+  Price: $45.99 USD
+- [Engravable Natural Stone Stretch Bracelet — Bar Bead Bracelet ("I am enough")](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough): One Size Metal bar (width), in 1.34 Metal bar (height), in 0.22 Soft, grounding, and quietly confident — this natural stone stretch bar bracelet blends smooth, cool beads with a polished stainless steel bar engraved with a subtle message. The muted, earthy tones of the stones sit comfortably against the wrist while the surgical-grade 316L bar keeps the look refined and durable. It slips on easily and layers with daily wear, serving as a gentle reminder or personal talisman for someone who values mindful style and low-fuss elegance. Arrives tucked in a white gloss jewelry box with non-tarnish cotton, ready to be carried in a bag or placed on a bedside tray.Product features- 316L surgical-grade stainless steel base for long-lasting wear- 18K PVD gold coating available on gold variants- Hypoallergenic construction to reduce skin irritation- Precision engraved stainless steel bar with permanent etching- Packaged in a white gloss jewelry box with non-tarnish cottonCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from China Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-10T07:27:52Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260306012847-1f118fbd-2657-6af0-8f2b-4e2f9f006c67.png?v=1775762866
+  - [18K Gold PVD coating / Amazonite / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916003395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260306012847-1f118fbd-2657-6af0-8f2b-4e2f9f006c67.png?v=1775762866
+    Price: $31.99 USD
+  - [18K Gold PVD coating / Howlite / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916036163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15138719880432789969_2048.jpg?v=1775762899
+    Price: $31.99 USD
+  - [18K Gold PVD coating / Onyx / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916068931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11441668741766498116_2048.jpg?v=1775762903
+    Price: $31.99 USD
+  - [18K Gold PVD coating / Picture Jasper / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916101699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9256031715911578084_2048.jpg?v=1775762907
+    Price: $31.99 USD
+  - [18K Gold PVD coating / Rose Quartz / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916134467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7764863447541721019_2048.jpg?v=1775762911
+    Price: $31.99 USD
+  - [18K Gold PVD coating / Sodalite / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916167235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8882465247824881771_2048.jpg?v=1775762914
+    Price: $31.99 USD
+  - [18K Gold PVD coating / Turquoise / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916200003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15969682174954854750_2048.jpg?v=1775762918
+    Price: $31.99 USD
+  - [Stainless Steel (No coating) / Amazonite / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916232771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2080515598571770527_2048.jpg?v=1775762871
+    Price: $31.99 USD
+  - [Stainless Steel (No coating) / Howlite / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916265539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4856766426946473645_2048.jpg?v=1775762875
+    Price: $31.99 USD
+  - [Stainless Steel (No coating) / Onyx / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916298307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2737640441482585664_2048.jpg?v=1775762879
+    Price: $31.99 USD
+  - [Stainless Steel (No coating) / Picture Jasper / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916331075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14365389011040183527_2048.jpg?v=1775762883
+    Price: $31.99 USD
+  - [Stainless Steel (No coating) / Rose Quartz / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916363843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2243570671318191957_2048.jpg?v=1775762887
+    Price: $31.99 USD
+  - [Stainless Steel (No coating) / Sodalite / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916396611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13129266809072173408_2048.jpg?v=1775762891
+    Price: $31.99 USD
+  - [Stainless Steel (No coating) / Turquoise / One Size](https://artistryvibes.com/products/engravable-natural-stone-stretch-bracelet-personalized-bar-bead-bracelet-i-am-enough?variant=43127916429379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9225952854735123792_2048.jpg?v=1775762895
+    Price: $31.99 USD
+- [Rolled Poster — "Healing Isn't Pretty" Inspirational Art Print (Mental Health, Recovery Motivation)](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation): 5" x 7" (Vertical) 8″ x 10″ (Vertical) 11″ x 14″ (Vertical) 12" x 16" (Vertical) 12″ x 18″ (Vertical) 16" x 20" (Vertical) Width, in 5.00 8.00 11.00 12.00 12.00 16.00 Height, in 7.00 10.00 14.00 16.00 18.00 20.00 A rolled art poster that speaks to messy, real recovery. Bold brushstrokes in teal and sea-glass blues form a textured backdrop for the handwritten message “Healing isn’t Pretty.” The look balances grit and gentleness — watercolor-like marks with rough-edged lettering — so it feels like a quiet confession on your wall, not a polished slogan. Choose fine art paper for a tactile, museum-quality surface; semi-gloss for vivid color and crisp detail; or matte for a softer, understated finish. Offered in multiple sizes and orientations so it fits a cozy recovery corner, a therapist’s waiting room, or a bedroom where growth is still in progress.Product features- Giclée prints with bright, fade-resistant inks- Three paper choices: Fine Art (textured archival), Semi-Glossy (vivid satin), Matte (soft, low-glare)- Multiple sizes and horizontal/vertical orientation options- Paper weights: Fine Art 285 g/m²; Semi-Glossy 180–260 g/m²; Matte 189–200 g/m²- Rolled shipment from USA (JONDO) or Japan (Printify Choice)Care instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from USA (JONDO) and Japan (Printify Choice) Care instructions: If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.
+  Updated: 2026-04-10T09:36:05Z
+  Vendor: Printify
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/235884631170964770_2048.jpg?v=1775771609
+  - [5" x 7" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128530829379)
+    Availability: Available
+    Price: $8.87 USD
+  - [5" x 7" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128530862147)
+    Availability: Available
+    Price: $8.87 USD
+  - [8″ x 10″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128530894915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1088617481184743514_2048.jpg?v=1775771611
+    Price: $10.09 USD
+  - [8″ x 10″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128530927683)
+    Availability: Available
+    Price: $10.09 USD
+  - [11″ x 14″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128530960451)
+    Availability: Available
+    Price: $8.27 USD
+  - [11″ x 14″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128530993219)
+    Availability: Available
+    Price: $8.27 USD
+  - [12" x 16" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128531025987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/235884631170964770_2048.jpg?v=1775771609
+    Price: $23.38 USD
+  - [12" x 16" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128531058755)
+    Availability: Available
+    Price: $23.38 USD
+  - [12″ x 18″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128531091523)
+    Availability: Available
+    Price: $17.64 USD
+  - [12″ x 18″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128531124291)
+    Availability: Available
+    Price: $17.64 USD
+  - [16" x 20" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128531157059)
+    Availability: Available
+    Price: $11.07 USD
+  - [16" x 20" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-healing-isnt-pretty-inspirational-art-print-mental-health-recovery-motivation?variant=43128531189827)
+    Availability: Available
+    Price: $11.07 USD
+- [Rolled Poster — "Growth Is Messy" Botanical Wall Art Print](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print): 5" x 7" (Vertical) 8″ x 10″ (Vertical) 11″ x 14″ (Vertical) 12" x 16" (Vertical) 12″ x 18″ (Vertical) 16" x 20" (Vertical) Width, in 5.00 8.00 11.00 12.00 12.00 16.00 Height, in 7.00 10.00 14.00 16.00 18.00 20.00 Rolled posters printed on archival-quality papers that celebrate slow, imperfect growth. A soft botanical sketch in muted olive greens is paired with hand-lettered text: "GROWTH IS Messy." The design feels like a quiet daily reminder — gentle, honest, and tactile — that small changes and messy edges are part of becoming. Hang it where you brew coffee, plan your week, or pace yourself through projects. The restrained palette and textured paper options give the image a handmade, studio-print feeling that works with minimalist, cottage, or plant-filled interiors.Product features- Giclée printing for bright, long-lasting color- Three paper choices: Fine Art (textured), Matte (lightweight), Semi-Glossy (satin finish)- Archival-quality fine art paper option with 285 g/m² thickness- Multiple sizes and horizontal/vertical orientations available- Rolled shipment for safe delivery; sourced blanks from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from USA (JONDO) and Japan (Printify Choice) Care instructions: If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.
+  Updated: 2026-04-10T09:39:38Z
+  Vendor: Printify
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8344363050991131903_2048.jpg?v=1775771533
+  - [5" x 7" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128549998659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6487452704852293762_2048.jpg?v=1775771544
+    Price: $8.87 USD
+  - [5" x 7" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550031427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4892184127337125399_2048.jpg?v=1775771534
+    Price: $8.87 USD
+  - [8″ x 10″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550064195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8343150168023491035_2048.jpg?v=1775771545
+    Price: $10.09 USD
+  - [8″ x 10″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550096963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13744407281360780224_2048.jpg?v=1775771536
+    Price: $10.09 USD
+  - [11″ x 14″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550129731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15560274591640588393_2048.jpg?v=1775771547
+    Price: $8.27 USD
+  - [11″ x 14″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550162499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5966777877864628945_2048.jpg?v=1775771538
+    Price: $8.27 USD
+  - [12" x 16" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550195267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8344363050991131903_2048.jpg?v=1775771533
+    Price: $23.38 USD
+  - [12" x 16" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550228035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18141896130198432282_2048.jpg?v=1775771539
+    Price: $23.38 USD
+  - [12″ x 18″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550260803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11574720065248238778_2048.jpg?v=1775771550
+    Price: $17.64 USD
+  - [12″ x 18″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550293571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7010268828038498078_2048.jpg?v=1775771541
+    Price: $17.64 USD
+  - [16" x 20" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550326339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/65595177674051262_2048.jpg?v=1775771552
+    Price: $11.07 USD
+  - [16" x 20" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-growth-is-messy-botanical-wall-art-print?variant=43128550359107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1356634202223424607_2048.jpg?v=1775771542
+    Price: $11.07 USD
+- [Progress Over Perfection Rolled Poster – Motivational Wall Art for Office, Studio & Classroom](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom): 5" x 7" (Vertical) 8″ x 10″ (Vertical) 11″ x 14″ (Vertical) 12" x 16" (Vertical) 12″ x 18″ (Vertical) 16" x 20" (Vertical) Width, in 5.00 8.00 11.00 12.00 12.00 16.00 Height, in 7.00 10.00 14.00 16.00 18.00 20.00 A rolled art poster that brings bold color and a quiet reminder into a creative space. Thick, textured brushstrokes in magenta, coral, yellow and soft blue form a lively backdrop for the hand-lettered headline: “Progress OVER Perfection …seriously.” It reads like a note from a friend—gentle, direct, and encouraging—so this poster sits naturally above a desk, in a studio corner, or on a bedroom wall where motivation matters more than comparison. Choose archival fine art paper for painterly texture and longevity, or semi-gloss/matte photo papers when you want brighter saturation or a subtler, low-sheen finish. Available in horizontal or vertical orientations and multiple sizes, the rolled format ships safe and simple and is easy to frame or hang as-is.Product features- Giclée printing for vivid, fade-resistant color- Three paper finishes: Fine Art (textured), Semi-Glossy (satin), Matte (low-sheen)- Multiple sizes and horizontal/vertical orientation options- Paper weights from 180–285 g/m² depending on choice for durable feel- Ships rolled for safe, easy framing or hangingCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from USA (JONDO) and Japan (Printify Choice) Care instructions: If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.
+  Updated: 2026-04-10T09:43:20Z
+  Vendor: Printify
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11618262352350858483_2048.jpg?v=1775771462
+  - [5" x 7" (Vertical) / Semi Glossy](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571330627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7377465596027382566_2048.jpg?v=1775771472
+    Price: $8.87 USD
+  - [5" x 7" (Vertical) / Matte](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571363395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16547909262901422986_2048.jpg?v=1775771464
+    Price: $8.87 USD
+  - [8″ x 10″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571396163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14522228348823038669_2048.jpg?v=1775771473
+    Price: $10.09 USD
+  - [8″ x 10″ (Vertical) / Matte](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571428931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3038598672422871371_2048.jpg?v=1775771465
+    Price: $10.09 USD
+  - [11″ x 14″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571461699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2268266726816487315_2048.jpg?v=1775771474
+    Price: $8.27 USD
+  - [11″ x 14″ (Vertical) / Matte](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571494467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3046291675051801609_2048.jpg?v=1775771467
+    Price: $8.27 USD
+  - [12" x 16" (Vertical) / Semi Glossy](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571527235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11618262352350858483_2048.jpg?v=1775771462
+    Price: $23.38 USD
+  - [12" x 16" (Vertical) / Matte](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571560003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9152251254723053221_2048.jpg?v=1775771468
+    Price: $23.38 USD
+  - [12″ x 18″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571592771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11073527386633776602_2048.jpg?v=1775771475
+    Price: $17.64 USD
+  - [12″ x 18″ (Vertical) / Matte](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571625539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12094727076209441518_2048.jpg?v=1775771470
+    Price: $17.64 USD
+  - [16" x 20" (Vertical) / Semi Glossy](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571658307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13799357628677056228_2048.jpg?v=1775771477
+    Price: $11.07 USD
+  - [16" x 20" (Vertical) / Matte](https://artistryvibes.com/products/progress-over-perfection-rolled-poster-motivational-wall-art-for-office-studio-classroom?variant=43128571691075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18434214812560006171_2048.jpg?v=1775771471
+    Price: $11.07 USD
+- [Rolled Poster — "Small Steps Still Count" Motivational Wall Art](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art): 5" x 7" (Vertical) 8″ x 10″ (Vertical) 11″ x 14″ (Vertical) 12" x 16" (Vertical) 12″ x 18″ (Vertical) 16" x 20" (Vertical) Width, in 5.00 8.00 11.00 12.00 12.00 16.00 Height, in 7.00 10.00 14.00 16.00 18.00 20.00 A rolled art poster that brings quiet encouragement into a room. Soft peach watercolor blooms behind hand-lettered script read “Small steps still Count,” blending gentle color with bold, uplifting type. Choose fine art paper for a textured, archival feel; or go matte or semi-glossy for a smoother, photographic finish. Lightweight and rolled for safe shipping, it arrives ready to frame or hang and adds a calm, intentional note to workspaces, nurseries, or cozy corners where progress—no matter the pace—matters.Product features- Giclée printing for vibrant, fade-resistant color- Three paper choices: Fine Art (textured/archival), Matte (low sheen), Semi-Glossy (satin finish)- Multiple sizes and horizontal/vertical orientation options- Paper weights from 180–285 g/m² depending on type and source- Shipped rolled for secure delivery; blank product sourced from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from USA (JONDO) and Japan (Printify Choice) Care instructions: If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.
+  Updated: 2026-04-10T09:46:42Z
+  Vendor: Printify
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3168754504753577597_2048.jpg?v=1775771459
+  - [5" x 7" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128582963267)
+    Availability: Available
+    Price: $8.87 USD
+  - [5" x 7" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128582996035)
+    Availability: Available
+    Price: $8.87 USD
+  - [8″ x 10″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583028803)
+    Availability: Available
+    Price: $10.09 USD
+  - [8″ x 10″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583061571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7764430698631671676_2048.jpg?v=1775771460
+    Price: $10.09 USD
+  - [11″ x 14″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583094339)
+    Availability: Available
+    Price: $8.27 USD
+  - [11″ x 14″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583127107)
+    Availability: Available
+    Price: $8.27 USD
+  - [12" x 16" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583159875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3168754504753577597_2048.jpg?v=1775771459
+    Price: $23.38 USD
+  - [12" x 16" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583192643)
+    Availability: Available
+    Price: $23.38 USD
+  - [12″ x 18″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583225411)
+    Availability: Available
+    Price: $17.64 USD
+  - [12″ x 18″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583258179)
+    Availability: Available
+    Price: $17.64 USD
+  - [16" x 20" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583290947)
+    Availability: Available
+    Price: $11.07 USD
+  - [16" x 20" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-small-steps-still-count-motivational-wall-art?variant=43128583323715)
+    Availability: Available
+    Price: $11.07 USD
+- [Rolled Poster — “Feel It Then Let It Go” Inspirational Wall Art](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art): 5" x 7" (Vertical) 8″ x 10″ (Vertical) 11″ x 14″ (Vertical) 12" x 16" (Vertical) 12″ x 18″ (Vertical) 16" x 20" (Vertical) Width, in 5.00 8.00 11.00 12.00 12.00 16.00 Height, in 7.00 10.00 14.00 16.00 18.00 20.00 A rolled art print that gently speaks to quiet resilience. Soft watercolor petals in warm rose tones scatter from the left while the words “feel it then Let it go” invite a slow breath and release. Printed with archival-quality inks on your choice of fine art, semi-glossy, or matte paper, this poster keeps its color and texture over time. Choose a vertical or horizontal layout and a size that fits your wall — it arrives rolled for safe, easy framing or casual display. This piece fits a peaceful corner, a meditation nook, or a bedside wall where small reminders matter most.Product features- Giclée print with fade-resistant, vivid color- Three paper choices: Fine Art (textured archival), Semi-Glossy (satin finish), Matte (soft, low-glare)- Multiple sizes available in vertical and horizontal orientations- Paper weight options: Fine Art 285 g/m²; Semi-Glossy and Matte options 180–260 g/m² depending on source- Ships rolled for protection; blank product sourced from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from USA (JONDO) and Japan (Printify Choice) Care instructions: If the print does gather any dust, you may wipe it off gently with a clean, dry cloth.
+  Updated: 2026-04-10T09:47:48Z
+  Vendor: Printify
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4937649623197590289_2048.jpg?v=1775771262
+  - [5" x 7" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595447875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8241630400207301276_2048.jpg?v=1775771288
+    Price: $8.87 USD
+  - [5" x 7" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595480643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4865147983202622624_2048.jpg?v=1775771267
+    Price: $8.87 USD
+  - [8″ x 10″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595513411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6669642180676574769_2048.jpg?v=1775771293
+    Price: $10.09 USD
+  - [8″ x 10″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595546179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10975431626029798059_2048.jpg?v=1775771270
+    Price: $10.09 USD
+  - [11″ x 14″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595578947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17555321478209171342_2048.jpg?v=1775771295
+    Price: $8.27 USD
+  - [11″ x 14″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595611715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17808273950535232759_2048.jpg?v=1775771273
+    Price: $8.27 USD
+  - [12" x 16" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595644483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4937649623197590289_2048.jpg?v=1775771262
+    Price: $23.38 USD
+  - [12" x 16" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595677251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10414189873741353221_2048.jpg?v=1775771276
+    Price: $23.38 USD
+  - [12″ x 18″ (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595710019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11373763891732924845_2048.jpg?v=1775771299
+    Price: $17.64 USD
+  - [12″ x 18″ (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595742787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16362574475714754315_2048.jpg?v=1775771279
+    Price: $17.64 USD
+  - [16" x 20" (Vertical) / Semi Glossy](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595775555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6253938337972318561_2048.jpg?v=1775771303
+    Price: $11.07 USD
+  - [16" x 20" (Vertical) / Matte](https://artistryvibes.com/products/rolled-poster-feel-it-then-let-it-go-inspirational-wall-art?variant=43128595808323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8009194632967616217_2048.jpg?v=1775771285
+    Price: $11.07 USD
+- [Youth 'Fast-ish' Sloth on Pink Board](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 Soft, simple, and utterly playful — this kids tee carries a tiny sloth cruising on a pink skateboard with a cheeky “Flist-ish” caption. Lightweight midweight cotton keeps movement easy during playground sprints, scooter rides, or lazy afternoons reading comics. The crew neckline and classic fit sit comfortably under jackets or over pajamas. Subtle, tear-away labeling and a smooth ribbed collar mean no itching or distractions, so the little one stays focused on fun. Thoughtfully made from responsibly sourced US cotton with clean, long-lasting print details that hold up to repeat washes and rough play.Product features- 100% midweight US cotton (5.3 oz/yd²) — soft, breathable everyday fabric- Tubular knit (no side seams) for a smooth, waste-reducing finish- Ribbed knit collar with shoulder tape to keep shape and prevent stretching- Pearlized, tear-away label for scratch-free comfort; DTF/DTG printed design- REACH and Oeko-Tex ; ethically sourced materialsCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-10T10:06:14Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18230833702702342417_2048.jpg?v=1775772368
+  - [Red / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670650435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1075913988151059820_2048.jpg?v=1775772421
+    Price: $16.99 USD
+  - [Maroon / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670683203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1760170620498632156_2048.jpg?v=1775772389
+    Price: $16.99 USD
+  - [Orange / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670715971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14607297571510247314_2048.jpg?v=1775772384
+    Price: $16.99 USD
+  - [Sport Grey / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670748739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7789941763233191956_2048.jpg?v=1775772374
+    Price: $16.99 USD
+  - [Heliconia / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670781507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16138635173164512359_2048.jpg?v=1775772415
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670814275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16704784141276495715_2048.jpg?v=1775772410
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670847043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15057270642208589386_2048.jpg?v=1775772395
+    Price: $16.99 USD
+  - [Heather Navy / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670879811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11607680135671217255_2048.jpg?v=1775772405
+    Price: $16.99 USD
+  - [Tropical Blue / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670912579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10857943546723146601_2048.jpg?v=1775772400
+    Price: $16.99 USD
+  - [Tennessee Orange / XS](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670945347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8555350807288899520_2048.jpg?v=1775772379
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128670978115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1075913988151059820_2048.jpg?v=1775772421
+    Price: $16.99 USD
+  - [Maroon / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671010883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1760170620498632156_2048.jpg?v=1775772389
+    Price: $16.99 USD
+  - [Orange / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671043651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14607297571510247314_2048.jpg?v=1775772384
+    Price: $16.99 USD
+  - [Sport Grey / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671076419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7789941763233191956_2048.jpg?v=1775772374
+    Price: $16.99 USD
+  - [Heliconia / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671109187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16138635173164512359_2048.jpg?v=1775772415
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671141955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16704784141276495715_2048.jpg?v=1775772410
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671174723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15057270642208589386_2048.jpg?v=1775772395
+    Price: $16.99 USD
+  - [Heather Navy / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671207491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11607680135671217255_2048.jpg?v=1775772405
+    Price: $16.99 USD
+  - [Tropical Blue / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671240259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10857943546723146601_2048.jpg?v=1775772400
+    Price: $16.99 USD
+  - [Tennessee Orange / S](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671273027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8555350807288899520_2048.jpg?v=1775772379
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671305795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1075913988151059820_2048.jpg?v=1775772421
+    Price: $16.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671338563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1760170620498632156_2048.jpg?v=1775772389
+    Price: $16.99 USD
+  - [Orange / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671371331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14607297571510247314_2048.jpg?v=1775772384
+    Price: $16.99 USD
+  - [Sport Grey / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671404099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7789941763233191956_2048.jpg?v=1775772374
+    Price: $16.99 USD
+  - [Heliconia / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671436867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16138635173164512359_2048.jpg?v=1775772415
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671469635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16704784141276495715_2048.jpg?v=1775772410
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671502403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15057270642208589386_2048.jpg?v=1775772395
+    Price: $16.99 USD
+  - [Tennessee Orange / M](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671535171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8555350807288899520_2048.jpg?v=1775772379
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671567939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1075913988151059820_2048.jpg?v=1775772421
+    Price: $16.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671600707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1760170620498632156_2048.jpg?v=1775772389
+    Price: $16.99 USD
+  - [Orange / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671633475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14607297571510247314_2048.jpg?v=1775772384
+    Price: $16.99 USD
+  - [Sport Grey / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671666243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7789941763233191956_2048.jpg?v=1775772374
+    Price: $16.99 USD
+  - [White / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671699011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18230833702702342417_2048.jpg?v=1775772368
+    Price: $16.99 USD
+  - [Heliconia / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671731779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16138635173164512359_2048.jpg?v=1775772415
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671764547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16704784141276495715_2048.jpg?v=1775772410
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671797315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15057270642208589386_2048.jpg?v=1775772395
+    Price: $16.99 USD
+  - [Heather Navy / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671830083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11607680135671217255_2048.jpg?v=1775772405
+    Price: $16.99 USD
+  - [Tennessee Orange / L](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671862851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8555350807288899520_2048.jpg?v=1775772379
+    Price: $16.99 USD
+  - [Red / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671895619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1075913988151059820_2048.jpg?v=1775772421
+    Price: $16.99 USD
+  - [Maroon / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671928387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1760170620498632156_2048.jpg?v=1775772389
+    Price: $16.99 USD
+  - [Orange / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671961155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14607297571510247314_2048.jpg?v=1775772384
+    Price: $16.99 USD
+  - [Sport Grey / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128671993923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7789941763233191956_2048.jpg?v=1775772374
+    Price: $16.99 USD
+  - [Heliconia / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128672026691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16138635173164512359_2048.jpg?v=1775772415
+    Price: $16.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128672059459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16704784141276495715_2048.jpg?v=1775772410
+    Price: $16.99 USD
+  - [Lime / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128672092227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15057270642208589386_2048.jpg?v=1775772395
+    Price: $16.99 USD
+  - [Heather Navy / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128672124995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11607680135671217255_2048.jpg?v=1775772405
+    Price: $16.99 USD
+  - [Tropical Blue / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128672157763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10857943546723146601_2048.jpg?v=1775772400
+    Price: $16.99 USD
+  - [Tennessee Orange / XL](https://artistryvibes.com/products/youth-skateboard-sloth-tee-cute-first-ish-sloth-on-pink-board?variant=43128672190531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8555350807288899520_2048.jpg?v=1775772379
+    Price: $16.99 USD
+- [Youth 'No Thoughts Just Vibes' Cat Graphic Shirt](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 Small and lighthearted, this kids’ tee carries a tiny moment of calm: a sleepy black pug illustration framed by the words “No thoughts / Just Vibes.” The midweight cotton feels soft on little skin and holds shape through play. Neat ribbed collar and shoulder tape keep the silhouette tidy; pearlized tear-away tags mean no scratchy necks. It washes and wears like a trusty everyday shirt — a quiet, smile-making layer for relaxed days, park afternoons, and lazy weekend mornings.Product features- 100% midweight US cotton (5.3 oz) for a soft, year-round feel- Tubular knit (no side seams) for a smooth, waste-reducing finish- Ribbed knit collar and shoulder tape to retain shape and prevent stretching- Pearlized tear-away labels and DTF inner neck labels for comfort- REACH and Oeko-Tex certifications; ethically sourced US cotton; age-appropriate sizing for childrenCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-10T10:10:22Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7951677241936977329_2048.jpg?v=1775772616
+  - [Red / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690638915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9332035031759603447_2048.jpg?v=1775772708
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690671683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11275614852720423407_2048.jpg?v=1775772680
+    Price: $16.99 USD
+  - [Maroon / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690704451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8117826047939708875_2048.jpg?v=1775772636
+    Price: $16.99 USD
+  - [Orange / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690737219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3798121430526335630_2048.jpg?v=1775772631
+    Price: $16.99 USD
+  - [Sport Grey / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690769987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14264936046818201498_2048.jpg?v=1775772621
+    Price: $16.99 USD
+  - [White / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690802755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7951677241936977329_2048.jpg?v=1775772616
+    Price: $16.99 USD
+  - [Heliconia / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690835523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16760160373653228471_2048.jpg?v=1775772702
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690868291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13663011807708228906_2048.jpg?v=1775772672
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690901059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7096868833525449997_2048.jpg?v=1775772696
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690933827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3320137767051058649_2048.jpg?v=1775772655
+    Price: $16.99 USD
+  - [Daisy / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690966595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6234331915127271539_2048.jpg?v=1775772642
+    Price: $16.99 USD
+  - [Dark Heather / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128690999363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10774858629021914153_2048.jpg?v=1775772661
+    Price: $16.99 USD
+  - [Heather Navy / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691032131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12110129727071774363_2048.jpg?v=1775772691
+    Price: $16.99 USD
+  - [Tropical Blue / XS](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691064899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17522632504619868123_2048.jpg?v=1775772667
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691097667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9332035031759603447_2048.jpg?v=1775772708
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691130435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11275614852720423407_2048.jpg?v=1775772680
+    Price: $16.99 USD
+  - [Maroon / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691163203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8117826047939708875_2048.jpg?v=1775772636
+    Price: $16.99 USD
+  - [Orange / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691195971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3798121430526335630_2048.jpg?v=1775772631
+    Price: $16.99 USD
+  - [Sport Grey / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691228739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14264936046818201498_2048.jpg?v=1775772621
+    Price: $16.99 USD
+  - [White / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691261507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7951677241936977329_2048.jpg?v=1775772616
+    Price: $16.99 USD
+  - [Heliconia / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691294275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16760160373653228471_2048.jpg?v=1775772702
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691327043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13663011807708228906_2048.jpg?v=1775772672
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691359811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7096868833525449997_2048.jpg?v=1775772696
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691392579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3320137767051058649_2048.jpg?v=1775772655
+    Price: $16.99 USD
+  - [Daisy / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691425347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6234331915127271539_2048.jpg?v=1775772642
+    Price: $16.99 USD
+  - [Dark Heather / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691458115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10774858629021914153_2048.jpg?v=1775772661
+    Price: $16.99 USD
+  - [Heather Navy / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691490883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12110129727071774363_2048.jpg?v=1775772691
+    Price: $16.99 USD
+  - [Tropical Blue / S](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691523651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17522632504619868123_2048.jpg?v=1775772667
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691556419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9332035031759603447_2048.jpg?v=1775772708
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691589187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11275614852720423407_2048.jpg?v=1775772680
+    Price: $16.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691621955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8117826047939708875_2048.jpg?v=1775772636
+    Price: $16.99 USD
+  - [Orange / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691654723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3798121430526335630_2048.jpg?v=1775772631
+    Price: $16.99 USD
+  - [Sport Grey / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691687491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14264936046818201498_2048.jpg?v=1775772621
+    Price: $16.99 USD
+  - [White / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691720259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7951677241936977329_2048.jpg?v=1775772616
+    Price: $16.99 USD
+  - [Heliconia / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691753027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16760160373653228471_2048.jpg?v=1775772702
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691785795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13663011807708228906_2048.jpg?v=1775772672
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691818563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7096868833525449997_2048.jpg?v=1775772696
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691851331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3320137767051058649_2048.jpg?v=1775772655
+    Price: $16.99 USD
+  - [Daisy / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691884099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6234331915127271539_2048.jpg?v=1775772642
+    Price: $16.99 USD
+  - [Dark Heather / M](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691916867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10774858629021914153_2048.jpg?v=1775772661
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691949635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9332035031759603447_2048.jpg?v=1775772708
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128691982403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11275614852720423407_2048.jpg?v=1775772680
+    Price: $16.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692015171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8117826047939708875_2048.jpg?v=1775772636
+    Price: $16.99 USD
+  - [Orange / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692047939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3798121430526335630_2048.jpg?v=1775772631
+    Price: $16.99 USD
+  - [Sport Grey / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692080707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14264936046818201498_2048.jpg?v=1775772621
+    Price: $16.99 USD
+  - [White / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692113475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7951677241936977329_2048.jpg?v=1775772616
+    Price: $16.99 USD
+  - [Heliconia / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692146243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16760160373653228471_2048.jpg?v=1775772702
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692179011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13663011807708228906_2048.jpg?v=1775772672
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692211779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7096868833525449997_2048.jpg?v=1775772696
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-no-thoughts-just-vibes-cat-graphic-shirt?variant=43128692244547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3320137767051058649_2048.jpg?v=1775772655
+    Price: $16.99 USD
+- [Youth— “Snack Bandit” Raccoon Kid Graphic T-Shirt](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 Little ones will grin every time they reach for a treat with this soft, everyday tee. A sleepy raccoon clutching a snack bag and the playful “Snack Bandit” lettering bring silly, cozy energy to playdates, afternoons at home, or family outings. The shirt’s comfortable crew neck and classic cut let kids move freely while the lightweight cotton feels gentle on sensitive skin. It layers easily under jackets or wears alone on warm days — a cheerful wardrobe staple for snack-loving adventurers.Product features- 100% midweight US cotton (5.3 oz/yd²) for a soft, season-round feel- Tubular, side-seam-free knit for a smooth, fabric-waste-reducing construction- Ribbed collar with shoulder twill tape to keep shape and prevent stretching- DTF/DTG printed artwork with tear-away pearlized labels for comfort- REACH and Oeko‑Tex ; ethically sourced US cotton (Gildan) with child-safe complianceCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-10T10:18:04Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3551020945838330577_2048.jpg?v=1775773079
+  - [Purple / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700108867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16308616085830277867_2048.jpg?v=1775773130
+    Price: $16.99 USD
+  - [Red / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700141635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3707851541212599339_2048.jpg?v=1775773148
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700174403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6739343144811482146_2048.jpg?v=1775773119
+    Price: $16.99 USD
+  - [Maroon / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700207171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8330823360250771423_2048.jpg?v=1775773103
+    Price: $16.99 USD
+  - [Orange / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700239939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8765098434579932287_2048.jpg?v=1775773097
+    Price: $16.99 USD
+  - [Sport Grey / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700272707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10319638473900043717_2048.jpg?v=1775773084
+    Price: $16.99 USD
+  - [White / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700305475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3551020945838330577_2048.jpg?v=1775773079
+    Price: $16.99 USD
+  - [Heliconia / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700338243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5699900722774236547_2048.jpg?v=1775773142
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700371011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4092142190311954259_2048.jpg?v=1775773136
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700403779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5745569657978730390_2048.jpg?v=1775773109
+    Price: $16.99 USD
+  - [Gold / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700436547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8855303178438037412_2048.jpg?v=1775773090
+    Price: $16.99 USD
+  - [Heather Navy / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700469315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17253686527676254652_2048.jpg?v=1775773125
+    Price: $16.99 USD
+  - [Tropical Blue / XS](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700502083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14537310353045511209_2048.jpg?v=1775773114
+    Price: $16.99 USD
+  - [Purple / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700534851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16308616085830277867_2048.jpg?v=1775773130
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700567619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3707851541212599339_2048.jpg?v=1775773148
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700600387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6739343144811482146_2048.jpg?v=1775773119
+    Price: $16.99 USD
+  - [Maroon / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700633155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8330823360250771423_2048.jpg?v=1775773103
+    Price: $16.99 USD
+  - [Orange / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700665923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8765098434579932287_2048.jpg?v=1775773097
+    Price: $16.99 USD
+  - [Sport Grey / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700698691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10319638473900043717_2048.jpg?v=1775773084
+    Price: $16.99 USD
+  - [White / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700731459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3551020945838330577_2048.jpg?v=1775773079
+    Price: $16.99 USD
+  - [Heliconia / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700764227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5699900722774236547_2048.jpg?v=1775773142
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700796995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4092142190311954259_2048.jpg?v=1775773136
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700829763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5745569657978730390_2048.jpg?v=1775773109
+    Price: $16.99 USD
+  - [Gold / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700862531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8855303178438037412_2048.jpg?v=1775773090
+    Price: $16.99 USD
+  - [Heather Navy / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700895299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17253686527676254652_2048.jpg?v=1775773125
+    Price: $16.99 USD
+  - [Tropical Blue / S](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700928067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14537310353045511209_2048.jpg?v=1775773114
+    Price: $16.99 USD
+  - [Purple / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700960835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16308616085830277867_2048.jpg?v=1775773130
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128700993603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3707851541212599339_2048.jpg?v=1775773148
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701026371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6739343144811482146_2048.jpg?v=1775773119
+    Price: $16.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701059139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8330823360250771423_2048.jpg?v=1775773103
+    Price: $16.99 USD
+  - [Orange / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701091907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8765098434579932287_2048.jpg?v=1775773097
+    Price: $16.99 USD
+  - [Sport Grey / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701124675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10319638473900043717_2048.jpg?v=1775773084
+    Price: $16.99 USD
+  - [White / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701157443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3551020945838330577_2048.jpg?v=1775773079
+    Price: $16.99 USD
+  - [Heliconia / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701190211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5699900722774236547_2048.jpg?v=1775773142
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701222979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4092142190311954259_2048.jpg?v=1775773136
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701255747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5745569657978730390_2048.jpg?v=1775773109
+    Price: $16.99 USD
+  - [Gold / M](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701288515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8855303178438037412_2048.jpg?v=1775773090
+    Price: $16.99 USD
+  - [Purple / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701321283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16308616085830277867_2048.jpg?v=1775773130
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701354051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3707851541212599339_2048.jpg?v=1775773148
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701386819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6739343144811482146_2048.jpg?v=1775773119
+    Price: $16.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701419587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8330823360250771423_2048.jpg?v=1775773103
+    Price: $16.99 USD
+  - [Orange / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701452355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8765098434579932287_2048.jpg?v=1775773097
+    Price: $16.99 USD
+  - [Sport Grey / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701485123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10319638473900043717_2048.jpg?v=1775773084
+    Price: $16.99 USD
+  - [White / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701517891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3551020945838330577_2048.jpg?v=1775773079
+    Price: $16.99 USD
+  - [Heliconia / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701550659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5699900722774236547_2048.jpg?v=1775773142
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701583427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4092142190311954259_2048.jpg?v=1775773136
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701616195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5745569657978730390_2048.jpg?v=1775773109
+    Price: $16.99 USD
+  - [Gold / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701648963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8855303178438037412_2048.jpg?v=1775773090
+    Price: $16.99 USD
+  - [Heather Navy / L](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701681731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17253686527676254652_2048.jpg?v=1775773125
+    Price: $16.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/youth-snack-bandit-raccoon-kid-graphic-t-shirt?variant=43128701714499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16308616085830277867_2048.jpg?v=1775773130
+    Price: $16.99 USD
+- [Personalized Woven Blanket — "Authentic 50 Years of Not Giving a Damn" Throw Blanket](https://artistryvibes.com/products/personalized-woven-blanket-authentic-50-years-of-not-giving-a-damn-throw-blanket): 52'' × 37'' Width, in 52.00 Length, in 37.00 Size tolerance (±), in 2.50 This woven blanket brings a bold, tongue-in-cheek vibe to quiet moments at home. Handwoven cotton threads form a tactile backdrop for a retro-inspired typographic design that reads like a cheeky anniversary badge. The fringed edges add color and texture, giving the blanket a laid-back, lived-in look that layers easily over a sofa or at the foot of a bed. It drapes comfortably across laps during movie nights and snaps into place as a playful statement piece when friends drop by. Choose the Artwork variant for crisp, blocky text or the Photo variant when your design needs subtle shading—either way, the cotton weave gives each blanket a warm, handmade feeling that ages gracefully.Product features- 100% cotton woven fabric—strong, smooth threads for a soft yet durable throw- Artwork or Photo printing variants to suit bold graphics or photorealistic designs- Colorful fringed edges that add texture and visual interest- Available in three sizes to fit sofas, beds, or personal use- Woven construction preserves tactile detail; mockups may not fully represent final pieceCare instructions- Machine wash: cold (max 30C or 90F), gentle cycle, mild detergent - Non-chlorine: bleach as needed- Tumble dry: low heatEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), gentle cycle, mild detergent , Non-chlorine: bleach as needed, Tumble dry: low heat
+  Updated: 2026-04-10T10:54:40Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4660132864363781672_2048.jpg?v=1775775275
+  Price: $48.99 USD
+- [Engravable Cutout Heart Bar Necklace - Personalized Name Pendant](https://artistryvibes.com/products/engravable-cutout-heart-bar-necklace-personalized-name-pendant): One Size Chain length, in 18.00 Thickness, in 0.09 A slim, engraved bar necklace with a delicate cutout heart — a quiet, everyday piece that carries meaning. The 32mm stainless steel bar is finished to resist tarnish and wear, so an engraved name or word stays readable through daily life. Lightweight on the neck, it sits close to the collarbone and layers easily with other chains. The surgical-grade 316L steel and PVD coating options make this gentle on sensitive skin while holding up to regular wear. Wear it solo for a subtle statement or layer it with longer pieces for a personalized look that feels lived-in and sentimental.Product features- 316L surgical-grade stainless steel with optional PVD coating- Hypoallergenic — safe for sensitive skin- Durable construction — resists fading, tarnish, and breakage- Engravable 32mm x 5mm bar with cutout heart detail- Designed for adults; sourced as blank product from ChinaCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from China Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-11T09:48:02Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409232505-1f1346b5-7322-65be-8656-b6f535db4d99.png?v=1775857679
+  - [One Size / Black PVD coating](https://artistryvibes.com/products/engravable-cutout-heart-bar-necklace-personalized-name-pendant?variant=43128859459651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409232505-1f1346b5-7322-65be-8656-b6f535db4d99.png?v=1775857679
+    Price: $29.99 USD
+  - [One Size / Rainbow PVD coating](https://artistryvibes.com/products/engravable-cutout-heart-bar-necklace-personalized-name-pendant?variant=43128859492419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2261908678375847013_2048.jpg?v=1775857688
+    Price: $29.99 USD
+  - [One Size / Stainless Steel (No coating)](https://artistryvibes.com/products/engravable-cutout-heart-bar-necklace-personalized-name-pendant?variant=43128859525187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2584288603456749288_2048.jpg?v=1775857683
+    Price: $29.99 USD
+- [Engravable Square Signet Ring — Stainless Steel Personalized Initial Ring](https://artistryvibes.com/products/engravable-square-signet-ring-stainless-steel-personalized-initial-ring): 6 7 8 Diameter, in 0.65 0.68 0.71 A warm, personalized signet ring that settles into everyday life with quiet confidence. Crafted from 316L surgical-grade stainless steel with an 18K gold PVD finish, this slim square signet carries a single engraved initial and keeps its shape through daily wear — swims, showers, and busy hands included. It’s lightweight and hypoallergenic, so it feels like a familiar piece right away. The low-profile square face sits flat against the finger, layering well with other rings or worn alone as a subtle signature. Each ring arrives in a white jewelry box lined with non-tarnish cotton fiber, ready to be slipped into a pocket or a jewelry tray.This ring suits someone who values heirloom feeling without the fuss. It reads like a personal emblem — quiet, refined, and unshowy — and works naturally for everyday wear, milestone moments, or when you want to carry a loved one’s initial close by. The durable construction and waterproof finish mean it ages gently, keeping its soft gold glow even through travel, ocean dips, or a busy commute.Product features- 316L surgical-grade stainless steel — strong and shape-retaining- 18K gold PVD finish — waterproof and tarnish-resistant- Hypoallergenic — safe for sensitive skin- Available sizes US 6–8 — slim, low-profile fit- Presented in white jewelry box with non-tarnish cotton fiberCare instructions- Clean with a polishing cloth to restore the shine of the jewelryEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from China, For adults Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
+  Updated: 2026-04-11T09:46:15Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409233426-1f1346ca-5ba2-60b4-a220-f2a6228a6890.png?v=1775857570
+  - [6 / 18K Gold PVD coating](https://artistryvibes.com/products/engravable-square-signet-ring-stainless-steel-personalized-initial-ring?variant=43128871977027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409233426-1f1346ca-5ba2-60b4-a220-f2a6228a6890.png?v=1775857570
+    Price: $28.99 USD
+  - [7 / 18K Gold PVD coating](https://artistryvibes.com/products/engravable-square-signet-ring-stainless-steel-personalized-initial-ring?variant=43128872009795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409233426-1f1346ca-5ba2-60b4-a220-f2a6228a6890.png?v=1775857570
+    Price: $28.99 USD
+  - [8 / 18K Gold PVD coating](https://artistryvibes.com/products/engravable-square-signet-ring-stainless-steel-personalized-initial-ring?variant=43128872042563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409233426-1f1346ca-5ba2-60b4-a220-f2a6228a6890.png?v=1775857570
+    Price: $28.99 USD
+- [Engraved Paw Bar Necklace - Personalized Pet Name Jewelry](https://artistryvibes.com/products/engraved-paw-bar-necklace-personalized-pet-name-jewelry): One Size Bar Width, in 1.26 Bar height, in 0.20 Thickness, in 0.09 Necklace length, in 18.00 A slim, engraved bar necklace that quietly celebrates the bond between you and your dog. The horizontal stainless steel pendant carries a precise laser-engraved name and a small cutout paw, creating a minimalist badge of affection that sits close to the collarbone. Wear it during morning walks, at the vet, or curled up on the couch—this necklace feels like a little, constant companion that honors daily rituals and shared moments with your pet. The surgical-grade steel and PVD finishes keep the look crisp and low-maintenance, while the hypoallergenic construction ensures comfort for sensitive skin. It’s crafted for  wearers who prefer subtle, modern jewelry with a personal touch.Product features- 316L surgical-grade stainless steel for durability and corrosion resistance- Hypoallergenic materials suitable for sensitive skin- Laser-engraved name with a permanent, non-fading finish- Delicate cutout paw detail on a 1.26" x 0.20" (32 x 5 mm) bar pendant- Available with PVD coating options; sourced as blank product from ChinaCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from China Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-11T09:44:37Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409234224-1f1346dc-27bd-6c78-ab97-bab6377d5e32.png?v=1775857470
+  - [One Size / Black PVD coating](https://artistryvibes.com/products/engraved-paw-bar-necklace-personalized-pet-name-jewelry?variant=43128885903427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2056052605744723325_2048.jpg?v=1775857479
+    Price: $29.99 USD
+  - [One Size / 18K Gold PVD coating](https://artistryvibes.com/products/engraved-paw-bar-necklace-personalized-pet-name-jewelry?variant=43133179494467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11854295721090050103_2048.jpg?v=1775857486
+    Price: $29.99 USD
+  - [One Size / Rainbow PVD coating](https://artistryvibes.com/products/engraved-paw-bar-necklace-personalized-pet-name-jewelry?variant=43128885936195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260409234224-1f1346dc-27bd-6c78-ab97-bab6377d5e32.png?v=1775857470
+    Price: $29.99 USD
+  - [One Size / 18K Rose Gold PVD coating](https://artistryvibes.com/products/engraved-paw-bar-necklace-personalized-pet-name-jewelry?variant=43128885968963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7283213727715699559_2048.jpg?v=1775857482
+    Price: $29.99 USD
+  - [One Size / Stainless Steel (No coating)](https://artistryvibes.com/products/engraved-paw-bar-necklace-personalized-pet-name-jewelry?variant=43128886001731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2749822812242898905_2048.jpg?v=1775857474
+    Price: $29.99 USD
+- [Pastel Geometric Ceramic Mug — 'Fueled by Caffeine' Patterned Coffee Cup (11oz, 15oz)](https://artistryvibes.com/products/pastel-geometric-ceramic-mug-fueled-by-caffeine-patterned-coffee-cup-11oz-15oz): 11oz 15oz Height, in 3.74 4.61 Diameter, in 3.15 3.43 This glossy ceramic mug brings calm color and everyday comfort to someone's morning routine. Soft pastel triangles form a gentle geometric backdrop while simple, heartfelt text shares a warm sentiment with each sip. Lightweight enough for daily use, the comfortable C-handle and smooth glossy finish make it pleasant to hold and easy to clean. It reads like a small, steady reminder—bright without shouting, thoughtful without fuss—so it slips naturally into slow breakfasts, cozy desk moments, or relaxed weekend coffee rituals.Product features- Microwave-safe for quick reheats- Dishwasher-safe for easy cleaning- Vibrant, crisp color printing- Durable glossy white ceramic with C-handle- Available in 11oz and 15oz; lead- and BPA-freeCare instructions- Clean in dishwasher or wash by hand with warm water and dish soapEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Clean in dishwasher or wash by hand with warm water and dish soap
+  Updated: 2026-04-12T14:48:24Z
+  Vendor: Printify
+  Product Type: Mug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10100776394819479515_2048.jpg?v=1775962907
+  - [11oz](https://artistryvibes.com/products/pastel-geometric-ceramic-mug-fueled-by-caffeine-patterned-coffee-cup-11oz-15oz?variant=43128933154883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10100776394819479515_2048.jpg?v=1775962907
+    Price: $15.99 USD
+  - [15oz](https://artistryvibes.com/products/pastel-geometric-ceramic-mug-fueled-by-caffeine-patterned-coffee-cup-11oz-15oz?variant=43128933187651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1660598587860591810_2048.jpg?v=1775962908
+    Price: $19.99 USD
+- [Youth Mouse classic tee](https://artistryvibes.com/products/youth-mouse-classic-tee): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX  low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the formaldehyde, phthalates, lead and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) CHEST (inches) XS 20 ½ 16 S 22 17 M 23 ½ 18 L 25 19 XL 26 ½ 20
+  Updated: 2026-04-10T12:41:02Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8470653d78.jpg?v=1775781655
+  - [Black / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986697795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8470653d78.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986730563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8470653d78.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986763331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8470653d78.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986796099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8470653d78.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986828867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8470653d78.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Navy / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986861635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847065464b.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986894403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847065464b.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986927171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847065464b.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986959939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847065464b.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128986992707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847065464b.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Red / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987025475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d8470654a71.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987058243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d8470654a71.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987091011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d8470654a71.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987123779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d8470654a71.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Red / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987156547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d8470654a71.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987189315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d8470654ff1.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987222083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d8470654ff1.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987254851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d8470654ff1.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987287619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d8470654ff1.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987320387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d8470654ff1.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Charcoal / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987353155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84706556d3.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Charcoal / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987385923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84706556d3.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Charcoal / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987418691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84706556d3.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Charcoal / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987451459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84706556d3.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Charcoal / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987484227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84706556d3.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Azalea / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987516995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d8470655f2e.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Azalea / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987549763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d8470655f2e.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Azalea / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987582531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d8470655f2e.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Azalea / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987615299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d8470655f2e.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Azalea / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987648067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d8470655f2e.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Gold / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987680835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8470656935.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Gold / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987713603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8470656935.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Gold / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987746371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8470656935.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Gold / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987779139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8470656935.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Gold / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987811907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8470656935.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987844675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84706574e8.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987877443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84706574e8.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987910211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84706574e8.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987942979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84706574e8.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Lime / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128987975747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84706574e8.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988008515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84706581f5.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988041283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84706581f5.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988074051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84706581f5.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988106819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84706581f5.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Light Blue / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988139587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84706581f5.jpg?v=1775781655
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988172355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84706591bc.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988205123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84706591bc.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988237891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84706591bc.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988270659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84706591bc.jpg?v=1775781654
+    Price: $16.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/youth-mouse-classic-tee?variant=43128988303427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84706591bc.jpg?v=1775781654
+    Price: $16.99 USD
+- [Youth Assault Possum classic tee](https://artistryvibes.com/products/youth-assault-possum-classic-tee): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX  low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the formaldehyde, phthalates, lead and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) CHEST (inches) XS 20 ½ 16 S 22 17 M 23 ½ 18 L 25 19 XL 26 ½ 20
+  Updated: 2026-04-10T12:43:22Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-right-front-69d8478e3ece0.jpg?v=1775781795
+  - [Black / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993710147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-right-front-69d8478e3ece0.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993742915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-right-front-69d8478e3ece0.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993775683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-right-front-69d8478e3ece0.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993808451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-right-front-69d8478e3ece0.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993841219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-right-front-69d8478e3ece0.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Navy / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993873987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-right-front-69d8478e404f8.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993906755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-right-front-69d8478e404f8.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993939523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-right-front-69d8478e404f8.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128993972291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-right-front-69d8478e404f8.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994005059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-right-front-69d8478e404f8.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Red / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994037827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-right-front-69d8478e40a11.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994070595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-right-front-69d8478e40a11.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994103363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-right-front-69d8478e40a11.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994136131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-right-front-69d8478e40a11.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Red / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994168899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-right-front-69d8478e40a11.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994201667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-right-front-69d8478e41163.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994234435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-right-front-69d8478e41163.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994267203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-right-front-69d8478e41163.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994299971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-right-front-69d8478e41163.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994332739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-right-front-69d8478e41163.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Charcoal / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994365507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-right-front-69d8478e4190d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Charcoal / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994398275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-right-front-69d8478e4190d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Charcoal / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994431043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-right-front-69d8478e4190d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Charcoal / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994463811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-right-front-69d8478e4190d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Charcoal / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994496579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-right-front-69d8478e4190d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Azalea / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994529347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-right-front-69d8478e4229d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Azalea / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994562115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-right-front-69d8478e4229d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Azalea / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994594883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-right-front-69d8478e4229d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Azalea / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994627651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-right-front-69d8478e4229d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Azalea / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994660419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-right-front-69d8478e4229d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Gold / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994693187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-right-front-69d8478e42f4d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Gold / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994725955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-right-front-69d8478e42f4d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Gold / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994758723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-right-front-69d8478e42f4d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Gold / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994791491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-right-front-69d8478e42f4d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Gold / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994824259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-right-front-69d8478e42f4d.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994857027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-right-front-69d8478e43ce9.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994889795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-right-front-69d8478e43ce9.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994922563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-right-front-69d8478e43ce9.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994955331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-right-front-69d8478e43ce9.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Lime / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128994988099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-right-front-69d8478e43ce9.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995020867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-right-front-69d8478e44b69.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995053635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-right-front-69d8478e44b69.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995086403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-right-front-69d8478e44b69.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995119171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-right-front-69d8478e44b69.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Light Blue / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995151939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-right-front-69d8478e44b69.jpg?v=1775781795
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995184707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-right-front-69d8478e45f6b.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995217475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-right-front-69d8478e45f6b.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995250243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-right-front-69d8478e45f6b.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995283011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-right-front-69d8478e45f6b.jpg?v=1775781796
+    Price: $16.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/youth-assault-possum-classic-tee?variant=43128995315779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-right-front-69d8478e45f6b.jpg?v=1775781796
+    Price: $16.99 USD
+- [Youth Intelligent Life classic tee](https://artistryvibes.com/products/youth-intelligent-life-classic-tee): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX  low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the formaldehyde, phthalates, lead and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) CHEST (inches) XS 20 ½ 16 S 22 17 M 23 ½ 18 L 25 19 XL 26 ½ 20
+  Updated: 2026-04-10T12:45:12Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d847faf26e3.jpg?v=1775781905
+  - [Black / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996626499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d847faf26e3.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996659267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d847faf26e3.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996692035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d847faf26e3.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996724803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d847faf26e3.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996757571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d847faf26e3.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Navy / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996790339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847fb0fa7c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996823107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847fb0fa7c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996855875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847fb0fa7c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996888643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847fb0fa7c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996921411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d847fb0fa7c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Red / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996954179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d847fb13dcb.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128996986947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d847fb13dcb.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997019715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d847fb13dcb.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997052483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d847fb13dcb.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Red / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997085251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d847fb13dcb.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997118019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d847fb188d9.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997150787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d847fb188d9.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997183555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d847fb188d9.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997216323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d847fb188d9.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997249091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d847fb188d9.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Charcoal / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997281859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d847fb0767a.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Charcoal / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997314627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d847fb0767a.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Charcoal / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997347395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d847fb0767a.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Charcoal / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997380163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d847fb0767a.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Charcoal / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997412931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d847fb0767a.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Azalea / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997445699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d847fb0294f.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Azalea / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997478467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d847fb0294f.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Azalea / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997511235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d847fb0294f.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Azalea / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997544003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d847fb0294f.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Azalea / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997576771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d847fb0294f.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Gold / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997609539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d847fb0b84f.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Gold / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997642307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d847fb0b84f.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Gold / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997675075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d847fb0b84f.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Gold / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997707843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d847fb0b84f.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Gold / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997740611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d847fb0b84f.jpg?v=1775781904
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997773379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d847fb21b77.jpg?v=1775781906
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997806147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d847fb21b77.jpg?v=1775781906
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997838915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d847fb21b77.jpg?v=1775781906
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997871683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d847fb21b77.jpg?v=1775781906
+    Price: $16.99 USD
+  - [Lime / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997904451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d847fb21b77.jpg?v=1775781906
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997937219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d847fb2a68c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128997969987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d847fb2a68c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998002755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d847fb2a68c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998035523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d847fb2a68c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Blue / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998068291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d847fb2a68c.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998101059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d847fb26290.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998133827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d847fb26290.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998166595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d847fb26290.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998199363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d847fb26290.jpg?v=1775781905
+    Price: $16.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/youth-intelligent-life-classic-tee?variant=43128998232131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d847fb26290.jpg?v=1775781905
+    Price: $16.99 USD
+- [Youth Feelin' Cute classic tee](https://artistryvibes.com/products/youth-feelin-cute-classic-tee): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX  low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the formaldehyde, phthalates, lead and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) CHEST (inches) XS 20 ½ 16 S 22 17 M 23 ½ 18 L 25 19 XL 26 ½ 20
+  Updated: 2026-04-10T12:47:28Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8488992007.jpg?v=1775782042
+  - [Black / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000099907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8488992007.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000132675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8488992007.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000165443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8488992007.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000198211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8488992007.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000230979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d8488992007.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Navy / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000263747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d8488999f03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000296515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d8488999f03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000329283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d8488999f03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000362051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d8488999f03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000394819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d8488999f03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Red / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000427587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d848899bfd9.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000460355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d848899bfd9.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000493123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d848899bfd9.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000525891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d848899bfd9.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Red / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000558659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d848899bfd9.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000591427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d848899de2c.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000624195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d848899de2c.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000656963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d848899de2c.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000689731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d848899de2c.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000722499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d848899de2c.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Charcoal / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000755267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d8488996141.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Charcoal / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000788035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d8488996141.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Charcoal / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000820803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d8488996141.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Charcoal / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000853571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d8488996141.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Charcoal / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000886339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d8488996141.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Azalea / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000919107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d848899423d.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Azalea / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000951875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d848899423d.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Azalea / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129000984643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d848899423d.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Azalea / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001017411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d848899423d.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Azalea / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001050179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d848899423d.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Gold / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001082947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8488998064.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Gold / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001115715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8488998064.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Gold / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001148483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8488998064.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Gold / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001181251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8488998064.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Gold / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001214019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d8488998064.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001246787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84889a1d03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001279555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84889a1d03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001312323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84889a1d03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001345091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84889a1d03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Lime / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001377859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84889a1d03.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001410627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84889a6648.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001443395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84889a6648.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001476163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84889a6648.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001508931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84889a6648.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Light Blue / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001541699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84889a6648.jpg?v=1775782042
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001574467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84889a43b7.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001607235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84889a43b7.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001640003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84889a43b7.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001672771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84889a43b7.jpg?v=1775782043
+    Price: $16.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/youth-feelin-cute-classic-tee?variant=43129001705539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84889a43b7.jpg?v=1775782043
+    Price: $16.99 USD
+- [Youth Not a Puzzle Piece classic tee](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX  low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the formaldehyde, phthalates, lead and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) CHEST (inches) XS 20 ½ 16 S 22 17 M 23 ½ 18 L 25 19 XL 26 ½ 20
+  Updated: 2026-04-10T12:56:02Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84a8d06fdc.jpg?v=1775782556
+  - [Black / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014222915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84a8d08634.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014255683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84a8d08634.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014288451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84a8d08634.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014321219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84a8d08634.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014353987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84a8d08634.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Navy / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014386755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84a8d0c5de.jpg?v=1775782555
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014419523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84a8d0c5de.jpg?v=1775782555
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014452291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84a8d0c5de.jpg?v=1775782555
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014485059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84a8d0c5de.jpg?v=1775782555
+    Price: $16.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014517827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84a8d0c5de.jpg?v=1775782555
+    Price: $16.99 USD
+  - [Red / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014550595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84a8d0da1d.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014583363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84a8d0da1d.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014616131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84a8d0da1d.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014648899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84a8d0da1d.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Red / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014681667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84a8d0da1d.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014714435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84a8d0ef26.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014747203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84a8d0ef26.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014779971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84a8d0ef26.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014812739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84a8d0ef26.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014845507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84a8d0ef26.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Charcoal / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014878275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84a8d09bc5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Charcoal / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014911043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84a8d09bc5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Charcoal / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014943811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84a8d09bc5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Charcoal / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129014976579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84a8d09bc5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Charcoal / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015009347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84a8d09bc5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Azalea / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015042115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84a8d06fdc.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Azalea / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015074883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84a8d06fdc.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Azalea / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015107651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84a8d06fdc.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Azalea / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015140419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84a8d06fdc.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Azalea / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015173187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84a8d06fdc.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Gold / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015205955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84a8d0b0ba.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Gold / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015238723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84a8d0b0ba.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Gold / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015271491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84a8d0b0ba.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Gold / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015304259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84a8d0b0ba.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Gold / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015337027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84a8d0b0ba.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015369795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84a8d103b5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015402563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84a8d103b5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015435331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84a8d103b5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015468099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84a8d103b5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Lime / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015500867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84a8d103b5.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015533635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84a8d12e2a.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015566403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84a8d12e2a.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015599171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84a8d12e2a.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015631939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84a8d12e2a.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Blue / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015664707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84a8d12e2a.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015697475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84a8d11892.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015730243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84a8d11892.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015763011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84a8d11892.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015795779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84a8d11892.jpg?v=1775782556
+    Price: $16.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/youth-not-a-puzzle-piece-classic-tee?variant=43129015828547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84a8d11892.jpg?v=1775782556
+    Price: $16.99 USD
+- [Youth Jammin' Corgi classic tee](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX  low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the formaldehyde, phthalates, lead and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) CHEST (inches) XS 20 ½ 16 S 22 17 M 23 ½ 18 L 25 19 XL 26 ½ 20
+  Updated: 2026-04-10T12:59:42Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84b66679ba.jpg?v=1775782773
+  - [Black / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019662403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84b666c4bb.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019695171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84b666c4bb.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019727939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84b666c4bb.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019760707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84b666c4bb.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019793475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-black-front-69d84b666c4bb.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Navy / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019826243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84b6673528.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019859011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84b6673528.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019891779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84b6673528.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019924547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84b6673528.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019957315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-navy-front-69d84b6673528.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Red / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129019990083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84b6675cc8.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Red / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020022851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84b6675cc8.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Red / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020055619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84b6675cc8.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Red / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020088387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84b6675cc8.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Red / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020121155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-red-front-69d84b6675cc8.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020153923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84b66679ba.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020186691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84b66679ba.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020219459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84b66679ba.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020252227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84b66679ba.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020284995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-royal-front-69d84b66679ba.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Charcoal / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020317763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84b666ea63.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Charcoal / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020350531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84b666ea63.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Charcoal / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020383299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84b666ea63.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Charcoal / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020416067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84b666ea63.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Charcoal / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020448835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-charcoal-front-69d84b666ea63.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Azalea / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020481603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84b6669ee5.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Azalea / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020514371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84b6669ee5.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Azalea / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020547139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84b6669ee5.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Azalea / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020579907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84b6669ee5.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Azalea / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020612675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-azalea-front-69d84b6669ee5.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Gold / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020645443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84b6670cbd.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Gold / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020678211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84b6670cbd.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Gold / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020710979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84b6670cbd.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Gold / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020743747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84b6670cbd.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Gold / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020776515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-gold-front-69d84b6670cbd.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020809283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84b667a248.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020842051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84b667a248.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020874819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84b667a248.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020907587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84b667a248.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Lime / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020940355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-lime-front-69d84b667a248.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129020973123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84b667e77d.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021005891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84b667e77d.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021038659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84b667e77d.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021071427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84b667e77d.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Light Blue / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021104195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-blue-front-69d84b667e77d.jpg?v=1775782774
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021136963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84b667c5e6.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021169731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84b667c5e6.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021202499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84b667c5e6.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021235267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84b667c5e6.jpg?v=1775782773
+    Price: $16.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/youth-jammin-corgi-classic-tee?variant=43129021268035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/youth-classic-tee-light-pink-front-69d84b667c5e6.jpg?v=1775782773
+    Price: $16.99 USD
+- [B-Movies Pillow Case](https://artistryvibes.com/products/b-movies-pillow-case): A strategically placed accent can bring the whole room to life, and this soft, comfy pillow case is just what you need to do that. This product is only the pillowcase - pillow filling not included. • 100% polyester • Fabric weight: 6.49–7.37 oz./yd.² (220–250 g/m²) • Hidden zipper • Machine-washable case • Blank product components in the US sourced from China and the US • Blank product components in the EU sourced from China and Poland This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets lead, cadmium and azo dye level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
+  Updated: 2026-04-11T08:13:00Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-basic-pillow-case-18x18-front-69d9596c9e614.jpg?v=1775851974
+  - [18″×18″](https://artistryvibes.com/products/b-movies-pillow-case?variant=43132608938051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-basic-pillow-case-18x18-front-69d9596c9e614.jpg?v=1775851974
+    Price: $19.50 USD
+  - [22″×22″](https://artistryvibes.com/products/b-movies-pillow-case?variant=43132608970819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-basic-pillow-case-22x22-front-69d9596c9f581.jpg?v=1775851974
+    Price: $21.00 USD
+- [The Best Mechanics Have Boobs Unisex classic tee](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-04-11T08:18:35Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-carolina-blue-front-69d95af79ddb2.jpg?v=1775852306
+  - [Black / S](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641607747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Black / M](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641640515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Black / L](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641673283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Black / XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641706051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Black / 2XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641738819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $19.99 USD
+  - [Black / 3XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641771587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $21.99 USD
+  - [Black / 4XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641804355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $23.99 USD
+  - [Black / 5XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641837123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d95af7a58db.jpg?v=1775852306
+    Price: $25.99 USD
+  - [Navy / S](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641869891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $18.99 USD
+  - [Navy / M](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641902659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $18.99 USD
+  - [Navy / L](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641935427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $18.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132641968195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $18.99 USD
+  - [Navy / 2XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642000963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $19.99 USD
+  - [Navy / 3XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642033731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $21.99 USD
+  - [Navy / 4XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642066499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $23.99 USD
+  - [Navy / 5XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642099267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d95af7ad8c7.jpg?v=1775852305
+    Price: $25.99 USD
+  - [Purple / S](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642132035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d95af7d621b.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Purple / M](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642164803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d95af7d621b.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Purple / L](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642197571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d95af7d621b.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642230339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d95af7d621b.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Purple / 2XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642263107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d95af7d621b.jpg?v=1775852306
+    Price: $19.99 USD
+  - [Purple / 3XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642295875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d95af7d621b.jpg?v=1775852306
+    Price: $21.99 USD
+  - [Red / S](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642328643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Red / M](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642361411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Red / L](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642394179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Red / XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642426947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Red / 2XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642459715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $19.99 USD
+  - [Red / 3XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642492483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $21.99 USD
+  - [Red / 4XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642525251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $23.99 USD
+  - [Red / 5XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642558019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d95af7b4d01.jpg?v=1775852306
+    Price: $25.99 USD
+  - [Forest Green / S](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642590787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Forest Green / M](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642623555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Forest Green / L](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642656323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Forest Green / XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642689091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Forest Green / 2XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642721859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $19.99 USD
+  - [Forest Green / 3XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642754627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $21.99 USD
+  - [Forest Green / 4XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642787395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $23.99 USD
+  - [Forest Green / 5XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642820163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d95af7eeb19.jpg?v=1775852306
+    Price: $25.99 USD
+  - [Royal / S](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642852931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d95af7c5e98.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Royal / M](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642885699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d95af7c5e98.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Royal / L](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642918467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d95af7c5e98.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642951235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d95af7c5e98.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Royal / 2XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132642984003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d95af7c5e98.jpg?v=1775852306
+    Price: $19.99 USD
+  - [Royal / 3XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132643016771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d95af7c5e98.jpg?v=1775852306
+    Price: $21.99 USD
+  - [Turf Green / S](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132643049539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d95af80bbce.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Turf Green / M](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132643082307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d95af80bbce.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Turf Green / L](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132643115075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d95af80bbce.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Turf Green / XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132643147843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d95af80bbce.jpg?v=1775852306
+    Price: $18.99 USD
+  - [Turf Green / 2XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132643180611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d95af80bbce.jpg?v=1775852306
+    Price: $19.99 USD
+  - [Turf Green / 3XL](https://artistryvibes.com/products/the-best-mechanics-have-boobs-unisex-classic-tee?variant=43132643213379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d95af80bbce.jpg?v=1775852306
+    Price: $21.99 USD
+- [Sunbathing Cat Water Color Pencils Print](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print): Museum-quality posters made on thick matte paper. Add a wonderful accent to your room and office with these posters that are sure to brighten any environment. • Paper thickness: 10.3 mil • Paper weight: 189 g/m² • Opacity: 94% • ISO brightness: 104% • Paper is sourced from Japan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the small parts and magnetic flux index level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
+  Updated: 2026-04-11T08:25:11Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-12x16-front-69d95c7098fd8.jpg?v=1775852701
+  - [A1 (23.3″×33.1″)](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672376899)
+    Availability: Available
+    Price: $25.00 USD
+  - [A2 (16.5″×23.3″)](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672409667)
+    Availability: Available
+    Price: $20.00 USD
+  - [5″×7″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672442435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-5x7-front-69d95c70a8a72.jpg?v=1775852701
+    Price: $12.00 USD
+  - [8″×10″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672475203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-8x10-front-69d95c709b86f.jpg?v=1775852701
+    Price: $14.00 USD
+  - [11″×14″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672507971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-11x14-front-69d95c70a6302.jpg?v=1775852704
+    Price: $17.00 USD
+  - [12″×16″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672540739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-12x16-front-69d95c7098fd8.jpg?v=1775852701
+    Price: $18.00 USD
+  - [12″×18″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672573507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-12x18-front-69d95c709e2ab.jpg?v=1775852701
+    Price: $19.00 USD
+  - [16″×20″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672606275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-16x20-front-69d95c70a0f07.jpg?v=1775852702
+    Price: $19.50 USD
+  - [18″×24″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672639043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-18x24-front-69d95c70a3bf4.jpg?v=1775852701
+    Price: $20.50 USD
+  - [20″×30″](https://artistryvibes.com/products/sunbathing-cat-water-color-pencils-print?variant=43132672671811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/enhanced-matte-paper-poster-_in_-20x30-front-69d95c70ab066.jpg?v=1775852701
+    Price: $20.50 USD
+- [Surreal Unisex classic tee](https://artistryvibes.com/products/surreal-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-04-11T08:58:48Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+  - [Maroon / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012115523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012148291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012181059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Maroon / XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012213827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Maroon / 2XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012246595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $19.99 USD
+  - [Maroon / 3XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012279363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $21.99 USD
+  - [Maroon / 4XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012312131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $23.99 USD
+  - [Maroon / 5XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012344899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d9646a90082.jpg?v=1775854719
+    Price: $25.99 USD
+  - [Black / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012377667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Black / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012410435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Black / L](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012443203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Black / XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012475971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Black / 2XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012508739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $19.99 USD
+  - [Black / 3XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012541507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $21.99 USD
+  - [Black / 4XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012574275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $23.99 USD
+  - [Black / 5XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012607043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9646a925cb.jpg?v=1775854719
+    Price: $25.99 USD
+  - [Navy / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012639811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Navy / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012672579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Navy / L](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012705347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012738115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Navy / 2XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012770883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $19.99 USD
+  - [Navy / 3XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012803651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $21.99 USD
+  - [Navy / 4XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012836419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $23.99 USD
+  - [Navy / 5XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012869187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d9646a96b9f.jpg?v=1775854719
+    Price: $25.99 USD
+  - [Purple / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012901955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d9646a9e14d.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Purple / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012934723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d9646a9e14d.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Purple / L](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133012967491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d9646a9e14d.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013000259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d9646a9e14d.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Purple / 2XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013033027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d9646a9e14d.jpg?v=1775854719
+    Price: $19.99 USD
+  - [Purple / 3XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013065795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d9646a9e14d.jpg?v=1775854719
+    Price: $21.99 USD
+  - [Cardinal / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013098563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69d9646aa5fca.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Cardinal / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013131331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69d9646aa5fca.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Cardinal / L](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013164099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69d9646aa5fca.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Cardinal / XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013196867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69d9646aa5fca.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Cardinal / 2XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013229635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69d9646aa5fca.jpg?v=1775854719
+    Price: $19.99 USD
+  - [Cardinal / 3XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013262403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69d9646aa5fca.jpg?v=1775854719
+    Price: $21.99 USD
+  - [Royal / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013295171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d9646aade7b.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Royal / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013327939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d9646aade7b.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Royal / L](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013360707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d9646aade7b.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013393475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d9646aade7b.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Royal / 2XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013426243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d9646aade7b.jpg?v=1775854719
+    Price: $19.99 USD
+  - [Royal / 3XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013459011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d9646aade7b.jpg?v=1775854719
+    Price: $21.99 USD
+  - [Turf Green / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013491779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d9646abdb4a.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Turf Green / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013524547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d9646abdb4a.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Turf Green / L](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013557315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d9646abdb4a.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Turf Green / XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013590083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d9646abdb4a.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Turf Green / 2XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013622851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d9646abdb4a.jpg?v=1775854719
+    Price: $19.99 USD
+  - [Turf Green / 3XL](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013655619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-turf-green-front-69d9646abdb4a.jpg?v=1775854719
+    Price: $21.99 USD
+  - [Heliconia / S](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013688387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-heliconia-front-69d9646aca060.jpg?v=1775854719
+    Price: $18.99 USD
+  - [Heliconia / M](https://artistryvibes.com/products/surreal-unisex-classic-tee?variant=43133013721155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-heliconia-front-69d9646aca060.jpg?v=1775854719
+    Price: $18.99 USD
+- [Mushroom Head Unisex classic tee](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-04-11T09:01:35Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+  - [Maroon / S](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043769411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043802179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043834947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Maroon / XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043867715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Maroon / 2XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043900483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $19.99 USD
+  - [Maroon / 3XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043933251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $21.99 USD
+  - [Maroon / 4XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043966019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $23.99 USD
+  - [Maroon / 5XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133043998787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965145735c.jpg?v=1775854887
+    Price: $25.99 USD
+  - [Black / S](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044031555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Black / M](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044064323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Black / L](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044097091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Black / XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044129859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Black / 2XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044162627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $19.99 USD
+  - [Black / 3XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044195395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $21.99 USD
+  - [Black / 4XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044228163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $23.99 USD
+  - [Black / 5XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044260931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d9651459f05.jpg?v=1775854887
+    Price: $25.99 USD
+  - [Navy / S](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044293699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Navy / M](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044326467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Navy / L](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044359235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044392003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Navy / 2XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044424771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $19.99 USD
+  - [Navy / 3XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044457539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $21.99 USD
+  - [Navy / 4XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044490307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $23.99 USD
+  - [Navy / 5XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044523075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965145b6c0.jpg?v=1775854887
+    Price: $25.99 USD
+  - [Purple / S](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044555843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965145dbea.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Purple / M](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044588611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965145dbea.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Purple / L](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044621379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965145dbea.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044654147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965145dbea.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Purple / 2XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044686915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965145dbea.jpg?v=1775854887
+    Price: $19.99 USD
+  - [Purple / 3XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044719683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965145dbea.jpg?v=1775854887
+    Price: $21.99 USD
+  - [Forest Green / S](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044752451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Forest Green / M](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044785219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Forest Green / L](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044817987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Forest Green / XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044850755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Forest Green / 2XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044883523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $19.99 USD
+  - [Forest Green / 3XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044916291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $21.99 USD
+  - [Forest Green / 4XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044949059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $23.99 USD
+  - [Forest Green / 5XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133044981827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d96514616a3.jpg?v=1775854887
+    Price: $25.99 USD
+  - [Dark Chocolate / S](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045014595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-dark-chocolate-front-69d9651465f6f.jpg?v=1775854888
+    Price: $18.99 USD
+  - [Dark Chocolate / M](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045047363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-dark-chocolate-front-69d9651465f6f.jpg?v=1775854888
+    Price: $18.99 USD
+  - [Dark Chocolate / L](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045080131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-dark-chocolate-front-69d9651465f6f.jpg?v=1775854888
+    Price: $18.99 USD
+  - [Dark Chocolate / XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045112899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-dark-chocolate-front-69d9651465f6f.jpg?v=1775854888
+    Price: $18.99 USD
+  - [Dark Chocolate / 2XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045145667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-dark-chocolate-front-69d9651465f6f.jpg?v=1775854888
+    Price: $19.99 USD
+  - [Dark Chocolate / 3XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045178435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-dark-chocolate-front-69d9651465f6f.jpg?v=1775854888
+    Price: $21.99 USD
+  - [Royal / S](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045211203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d965146b80b.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Royal / M](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045243971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d965146b80b.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Royal / L](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045276739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d965146b80b.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045309507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d965146b80b.jpg?v=1775854887
+    Price: $18.99 USD
+  - [Royal / 2XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045342275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d965146b80b.jpg?v=1775854887
+    Price: $19.99 USD
+  - [Royal / 3XL](https://artistryvibes.com/products/mushroom-head-unisex-classic-tee?variant=43133045375043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69d965146b80b.jpg?v=1775854887
+    Price: $21.99 USD
+- [Vintage 1980 Unisex classic tee](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-04-11T09:03:59Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+  - [Maroon / S](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063168067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063200835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063233603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Maroon / XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063266371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Maroon / 2XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063299139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $19.99 USD
+  - [Maroon / 3XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063331907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $21.99 USD
+  - [Maroon / 4XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063364675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $23.99 USD
+  - [Maroon / 5XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063397443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69d965a74b472.jpg?v=1775855033
+    Price: $25.99 USD
+  - [Black / S](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063430211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Black / M](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063462979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Black / L](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063495747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Black / XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063528515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Black / 2XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063561283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $19.99 USD
+  - [Black / 3XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063594051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $21.99 USD
+  - [Black / 4XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063626819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $23.99 USD
+  - [Black / 5XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063659587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69d965a74caa7.jpg?v=1775855033
+    Price: $25.99 USD
+  - [Navy / S](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063692355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Navy / M](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063725123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Navy / L](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063757891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063790659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Navy / 2XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063823427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $19.99 USD
+  - [Navy / 3XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063856195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $21.99 USD
+  - [Navy / 4XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063888963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $23.99 USD
+  - [Navy / 5XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063921731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69d965a74f71a.jpg?v=1775855033
+    Price: $25.99 USD
+  - [Purple / S](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063954499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965a753d00.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Purple / M](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133063987267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965a753d00.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Purple / L](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064020035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965a753d00.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064052803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965a753d00.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Purple / 2XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064085571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965a753d00.jpg?v=1775855033
+    Price: $19.99 USD
+  - [Purple / 3XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064118339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69d965a753d00.jpg?v=1775855033
+    Price: $21.99 USD
+  - [Red / S](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064151107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Red / M](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064183875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Red / L](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064216643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Red / XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064249411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Red / 2XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064282179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $19.99 USD
+  - [Red / 3XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064314947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $21.99 USD
+  - [Red / 4XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064347715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $23.99 USD
+  - [Red / 5XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064380483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-red-front-69d965a75a813.jpg?v=1775855033
+    Price: $25.99 USD
+  - [Forest Green / S](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064413251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Forest Green / M](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064446019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Forest Green / L](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064478787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Forest Green / XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064511555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Forest Green / 2XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064544323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $19.99 USD
+  - [Forest Green / 3XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064577091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $21.99 USD
+  - [Forest Green / 4XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064609859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $23.99 USD
+  - [Forest Green / 5XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064642627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69d965a76259b.jpg?v=1775855033
+    Price: $25.99 USD
+  - [Orange / S](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064675395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-orange-front-69d965a76e728.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Orange / M](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064708163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-orange-front-69d965a76e728.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Orange / L](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064740931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-orange-front-69d965a76e728.jpg?v=1775855033
+    Price: $18.99 USD
+  - [Orange / XL](https://artistryvibes.com/products/vintage-1980-unisex-classic-tee?variant=43133064773699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-orange-front-69d965a76e728.jpg?v=1775855033
+    Price: $18.99 USD
+- [Personalize it! Women's Washed Mesh-Back Cap](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap): One size Diameter, in 6.25 - 7.50 The Infinity Hers TESS Women's Washed Mesh Back Cap is the ideal choice for anyone looking for a stylish and functional accessory. This cap has a modern, unstructured fit that's ideal for casual outings, sports, or  events. Made from 100% cotton pigment-dyed twill, it offers a comfortable, durable, and vintage-inspired look. The back of the cap features a soft polyester mesh that improves breathability, making it perfect for warmer weather. A standout feature is the Evolve™ concealed ponytail opening, which allows wearers to keep their hair up comfortably while enjoying the outdoors..: 100% cotton pigment-washed twill.: 100% soft polyester mesh.: Unstructured, six-panel, low-profile.: Pre-curved visor, pattern undervisor and seam tape.: Elude™ makeup resistant, breathable, moisture-management pattern sweatband.: Evolve™ concealed ponytail opening.: Plastic snapback closure.: 5% product  has been appliedEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Infinity Her TESS, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from the US, For adults Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
+  Updated: 2026-04-11T09:19:16Z
+  Vendor: Printify
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260410211637-1f135228-f611-692e-96e3-5af6242b1846.png?v=1775855949
+  - [One size / Black / Leopard](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099147331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260410210908-1f135218-377a-608e-9ebc-868279a21188.png?v=1775855951
+    Price: $24.99 USD
+  - [One size / Cashmere Blue / Floral](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099180099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260410211637-1f135228-f611-692e-96e3-5af6242b1846.png?v=1775855949
+    Price: $24.99 USD
+  - [One size / Chocolate / Fawn / Khaki](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099212867)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Dusty Pink / Floral](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099245635)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Jade / Daisy / Khaki](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099278403)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Lavender / Stripes](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099311171)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Light Grey / Polka Dots](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099343939)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Olive / Camo](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099376707)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Red / Leopard](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099409475)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Rose / Polka Dots](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099442243)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Sage / Polka Dots](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099475011)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Sherbet / Stripes](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099507779)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Vanilla / Longhorn / Khaki](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099540547)
+    Availability: Available
+    Price: $24.99 USD
+  - [One size / Violet / Floral / Khaki](https://artistryvibes.com/products/personalize-it-womens-washed-mesh-back-cap?variant=43133099573315)
+    Availability: Available
+    Price: $24.99 USD
+- [Personalize it! Crewneck Sweatshirt — Floral Raven Design, Casual Pullover](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover): S M L XL 2XL 3XL Width, in 20.00 22.01 24.00 26.00 28.00 30.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 Sleeve length (from center back), in 33.50 34.50 35.50 36.50 37.50 38.50 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 This cozy crewneck sweatshirt wraps you in relaxed warmth and subtle artistry. A soft, medium-heavy 50/50 cotton-poly blend carries a delicate printed raven framed by watercolor florals across the chest — quiet, a little mysterious, and effortlessly wearable. The tubular knit (no side seams) and ribbed collar keep the silhouette clean and comfy. Thoughtful details like tear-away neck labels, reinforced double-needle stitching, and OEKO-TEX  dyes mean this sweatshirt feels soft, lasts through repeated wear, and meets modern safety and environmental standards. Wear it layered for cool mornings, around the studio, or on slow weekend walks when you want something both comfy and quietly expressive.Product features- Embroidered placement options: left/center/large center chest and wrists (embroidery available)- Medium-heavy 50/50 cotton-poly blend (8.0 oz/yd²) for warmth and durability- Tubular knit construction without side seams for a smooth, waste-reducing fit- Ribbed knit collar with seam and double-needle stitching for shape retention and strength- OEKO‑TEX  dyes, tear-away neck label, and safety compliance (flammability, lead, cadmium, bisphenols, phthalates)Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dryclean- EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Nicaragua, For adults Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, , Do not dryclean
+  Updated: 2026-04-11T09:25:27Z
+  Vendor: Printify
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18319514092871327149_2048.jpg?v=1775856319
+  - [Light Pink / S](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133111959619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8162058299416331005_2048.jpg?v=1775856324
+    Price: $29.95 USD
+  - [Red / S](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133111992387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3020690753025109184_2048.jpg?v=1775856325
+    Price: $29.95 USD
+  - [Sand / S](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112025155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17065640998696859981_2048.jpg?v=1775856321
+    Price: $29.95 USD
+  - [Sport Grey / S](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112057923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12925861308743593345_2048.jpg?v=1775856322
+    Price: $29.95 USD
+  - [White / S](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112090691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18319514092871327149_2048.jpg?v=1775856319
+    Price: $29.95 USD
+  - [Light Pink / M](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112123459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8162058299416331005_2048.jpg?v=1775856324
+    Price: $29.95 USD
+  - [Red / M](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112156227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3020690753025109184_2048.jpg?v=1775856325
+    Price: $29.95 USD
+  - [Sand / M](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112188995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17065640998696859981_2048.jpg?v=1775856321
+    Price: $29.95 USD
+  - [Sport Grey / M](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112221763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12925861308743593345_2048.jpg?v=1775856322
+    Price: $29.95 USD
+  - [White / M](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112254531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18319514092871327149_2048.jpg?v=1775856319
+    Price: $29.95 USD
+  - [Light Pink / L](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112287299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8162058299416331005_2048.jpg?v=1775856324
+    Price: $29.95 USD
+  - [Red / L](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112320067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3020690753025109184_2048.jpg?v=1775856325
+    Price: $29.95 USD
+  - [Sand / L](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112352835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17065640998696859981_2048.jpg?v=1775856321
+    Price: $29.95 USD
+  - [Sport Grey / L](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112385603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12925861308743593345_2048.jpg?v=1775856322
+    Price: $29.95 USD
+  - [White / L](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112418371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18319514092871327149_2048.jpg?v=1775856319
+    Price: $29.95 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112451139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8162058299416331005_2048.jpg?v=1775856324
+    Price: $29.95 USD
+  - [Red / XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112483907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3020690753025109184_2048.jpg?v=1775856325
+    Price: $29.95 USD
+  - [Sand / XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112516675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17065640998696859981_2048.jpg?v=1775856321
+    Price: $29.95 USD
+  - [Sport Grey / XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112549443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12925861308743593345_2048.jpg?v=1775856322
+    Price: $29.95 USD
+  - [White / XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112582211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18319514092871327149_2048.jpg?v=1775856319
+    Price: $29.95 USD
+  - [Red / 2XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112614979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3020690753025109184_2048.jpg?v=1775856325
+    Price: $34.47 USD
+  - [Sand / 2XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112647747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17065640998696859981_2048.jpg?v=1775856321
+    Price: $34.47 USD
+  - [Sport Grey / 2XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112680515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12925861308743593345_2048.jpg?v=1775856322
+    Price: $34.47 USD
+  - [White / 2XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112713283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18319514092871327149_2048.jpg?v=1775856319
+    Price: $34.47 USD
+  - [Sand / 3XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112746051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17065640998696859981_2048.jpg?v=1775856321
+    Price: $36.90 USD
+  - [White / 3XL](https://artistryvibes.com/products/personalize-it-crewneck-sweatshirt-floral-raven-design-casual-pullover?variant=43133112778819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/18319514092871327149_2048.jpg?v=1775856319
+    Price: $36.90 USD
+- [Personalize it! Distressed Embroidered Dad Hat](https://artistryvibes.com/products/personalize-it-distressed-embroidered-dad-hat): One size Circumference, in 19.02 - 22.05 Height, in 5.00 Visor width, in 2.60 Visor length, in 7.76 This distressed cotton cap brings a lived-in, quietly confident edge to everyday wear. Soft, low-profile shape and subtle frayed details create a relaxed, well-traveled look that settles in with you. Embroidered text on the front adds a thoughtful, understated statement—something that reads like a personal motto without shouting. Slip it on for mornings running errands, long drives, creative afternoons in a sunlit studio, or evenings around a backyard fire. The adjustable hook-and-loop strap lets you fine-tune the fit, while the breathable eyelets and preshrunk twill stand up to repeated wear and wash without losing that broken-in charm. Wear it to slow down, get comfortable, and show a little character wherever you go.Product features- 100% preshrunk cotton twill for durability and minimal shrinkage- Adjustable hook-and-loop closure for a customizable fit- Unstructured, six-panel low-profile design with a soft crown- Distressed/brushed details with 4-stitched rows on the brim and 6 sewn eyelets- Seamed front panel (no buckram) and one-size constructionCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: OTTO Cap 104-1018, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
+  Updated: 2026-04-11T09:31:01Z
+  Vendor: Printify
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260410212837-1f135243-c752-6bb8-9dbe-52c5a767acf1.png?v=1775856655
+  - [Dark Navy / One size](https://artistryvibes.com/products/personalize-it-distressed-embroidered-dad-hat?variant=43133126344771)
+    Availability: Available
+    Price: $29.99 USD
+  - [Black / One size](https://artistryvibes.com/products/personalize-it-distressed-embroidered-dad-hat?variant=43133126377539)
+    Availability: Available
+    Price: $29.99 USD
+  - [Khaki / One size](https://artistryvibes.com/products/personalize-it-distressed-embroidered-dad-hat?variant=43133126410307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260410212837-1f135243-c752-6bb8-9dbe-52c5a767acf1.png?v=1775856655
+    Price: $29.99 USD
+  - [Charcoal Grey / One size](https://artistryvibes.com/products/personalize-it-distressed-embroidered-dad-hat?variant=43133126443075)
+    Availability: Available
+    Price: $29.99 USD
+- [Personalize it! Baseball Cap](https://artistryvibes.com/products/personalize-it-baseball-cap): One size Circumference, in 22.83 This low-profile baseball cap sits close to the head for a relaxed, lived-in look that reads casual and confident. The bold red crown and straightforward black lettering — "Wear your Imagination" — make a quiet statement for makers, dreamers, and anyone who dresses with intention. It’s the kind of cap you grab on a morning when ideas matter more than rules: walks with a sketchbook, quick coffee runs, setting up a booth at a market, or layering under a light jacket for city explorations. The soft, unstructured fit moves with you and doesn’t shout; it anchors outfits and conversations alike. Natural cotton twill keeps the feel breathable and honest, while reinforced seams and an adjustable Velcro® strap mean this cap handles everyday use without fuss. Wear it when you want to show a little creative confidence — familiar, straightforward, and entirely you.Product features- 100% cotton twill for breathable, smooth fabric- Reinforced interior stitching with cotton ribbon for durability- Unstructured, low-fitting profile for a relaxed look- Adjustable Velcro® closure for a customizable fit- Strong, smooth fibers optimized for clear printingCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: OTTO Cap 18-253, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
+  Updated: 2026-04-11T09:36:04Z
+  Vendor: Printify
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11889342973418664669_2048.jpg?v=1775856958
+  - [One size / Khaki](https://artistryvibes.com/products/personalize-it-baseball-cap?variant=43133145219139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1941272327363401675_2048.jpg?v=1775856993
+    Price: $23.93 USD
+  - [One size / White](https://artistryvibes.com/products/personalize-it-baseball-cap?variant=43133145251907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12263832505853529206_2048.jpg?v=1775857034
+    Price: $23.93 USD
+  - [One size / Black](https://artistryvibes.com/products/personalize-it-baseball-cap?variant=43133145284675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8592795130702264786_2048.jpg?v=1775856981
+    Price: $23.93 USD
+  - [One size / Dark Green](https://artistryvibes.com/products/personalize-it-baseball-cap?variant=43133145317443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13832407845499347448_2048.jpg?v=1775857017
+    Price: $23.93 USD
+  - [One size / Dark Navy](https://artistryvibes.com/products/personalize-it-baseball-cap?variant=43133145350211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5083845979328644601_2048.jpg?v=1775857025
+    Price: $23.93 USD
+  - [One size / Royal](https://artistryvibes.com/products/personalize-it-baseball-cap?variant=43133145382979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11889342973418664669_2048.jpg?v=1775856958
+    Price: $23.93 USD
+  - [One size / Red](https://artistryvibes.com/products/personalize-it-baseball-cap?variant=43133145415747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8559808153848274346_2048.jpg?v=1775856969
+    Price: $23.93 USD
+- [Personalized Zodiac Pendant](https://artistryvibes.com/products/personalized-zodiac-pendant): One Size Pendant Dimensions (Diameter), in 0.71 Thickness, in 0.04 Necklace length, in 18.00 A simple, personal circle necklace that feels like a quiet promise. The small 18mm disc carries a laser-engraved word in delicate script so the message stays crisp through daily wear. Lightweight and low-profile, it layers seamlessly with other pieces or stands alone at the collarbone. The surgical-grade stainless steel body with PVD options keeps the finish bright and resists tarnish, while the secure lobster clasp gives honest peace of mind. Wear it when you want a subtle reminder of someone, something, or a small truth that matters on ordinary mornings and evenings alike.Product features- 316L surgical-grade stainless steel with PVD coating options- 0.71" (18×18mm) engraved circular pendant- Durable laser engraving that won’t fade or peel- Hypoallergenic, low-irritation material- Secure lobster-clasp closureCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from China, For adults Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-11T09:43:55Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260410213956-1f13525d-1176-667c-ac01-72f592e9ccf3.png?v=1775857425
+  - [One Size / Black PVD coating](https://artistryvibes.com/products/personalized-zodiac-pendant?variant=43133177430083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13715898317525560577_2048.jpg?v=1775857431
+    Price: $30.52 USD
+  - [One Size / 18K Gold PVD coating](https://artistryvibes.com/products/personalized-zodiac-pendant?variant=43133177462851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15498824602835790654_2048.jpg?v=1775857434
+    Price: $30.52 USD
+  - [One Size / Rainbow PVD coating](https://artistryvibes.com/products/personalized-zodiac-pendant?variant=43133177495619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3389886451390330772_2048.jpg?v=1775857449
+    Price: $30.52 USD
+  - [One Size / 18K Rose Gold PVD coating](https://artistryvibes.com/products/personalized-zodiac-pendant?variant=43133177528387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260410213956-1f13525d-1176-667c-ac01-72f592e9ccf3.png?v=1775857425
+    Price: $30.52 USD
+  - [One Size / Stainless Steel (No coating)](https://artistryvibes.com/products/personalized-zodiac-pendant?variant=43133177561155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2712049619890298440_2048.jpg?v=1775857428
+    Price: $30.52 USD
+- [Personalize it! Framed Canvas Wall Art](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art): 10″ x 8″ (Horizontal) Canvas width, in 10.00 Canvas height, in 8.00 Canvas depth, in 1.25 Frame depth, in 1.75 Matte framed canvas print that blends classical statue imagery with whimsical botanical and mushroom illustrations and a hopeful message. The soft lavender background and hand-lettered phrase create a calm, introspective vibe — a gentle reminder to slow down and nurture creativity. The print is mounted on a natural pine frame that brings warmth and an organic touch to modern or bohemian spaces. Hang it above a desk, bedside shelf, or reading nook to add quiet inspiration and visual texture to your room.Product features- Matte coated cotton‑poly canvas with proprietary JONDO coating for sharp, long‑lasting prints- Printed with UL‑ Greenguard Gold latex inks — non‑toxic and vibrant- Stretched on sustainable radial pine frames from FSC‑ sources- Available in multiple sizes and frame colors; sawtooth hanger included- Horizontal, vertical, and square orientations; select large sizes ship to select countries onlyCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.
+  Updated: 2026-04-13T03:23:00Z
+  Vendor: Printify
+  Product Type: Canvas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6666660076151432807_2048.jpg?v=1776007557
+  - [10″ x 8″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133230579779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14821055520632855597_2048.jpg?v=1776007558
+    Price: $32.92 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133230612547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12714660039025940511_2048.jpg?v=1776007559
+    Price: $32.92 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133230645315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10683239355728387849_2048.jpg?v=1776007560
+    Price: $32.92 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133230678083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6666660076151432807_2048.jpg?v=1776007557
+    Price: $32.92 USD
+  - [12" x 9" (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847535683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6443110653254904524_2048.jpg?v=1776007562
+    Price: $36.70 USD
+  - [12" x 9" (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847568451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9710010232127255869_2048.jpg?v=1776007561
+    Price: $36.70 USD
+  - [12" x 9" (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847601219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10342972299548016898_2048.jpg?v=1776007563
+    Price: $36.70 USD
+  - [12" x 9" (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847633987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/400102047826299727_2048.jpg?v=1776007562
+    Price: $36.70 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847666755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16519730056517754530_2048.jpg?v=1776007568
+    Price: $43.20 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847699523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6564116863422531779_2048.jpg?v=1776007569
+    Price: $43.20 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847732291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6580811498655302748_2048.jpg?v=1776007569
+    Price: $43.20 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847765059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16081372029437546624_2048.jpg?v=1776007567
+    Price: $43.20 USD
+  - [16″ x 12″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847797827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5203439981627700071_2048.jpg?v=1776007571
+    Price: $50.96 USD
+  - [16″ x 12″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847830595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15059521620305654325_2048.jpg?v=1776007570
+    Price: $50.96 USD
+  - [18″ x 12″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847863363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6083436624596718404_2048.jpg?v=1776007566
+    Price: $57.28 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847896131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/281478496426919379_2048.jpg?v=1776007565
+    Price: $64.32 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847928899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1341241354337559604_2048.jpg?v=1776007564
+    Price: $64.32 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-canvas-wall-art?variant=43133847961667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6326134180450834430_2048.jpg?v=1776007565
+    Price: $64.32 USD
+- [Personalize it! Inspirational Framed Canvas Wall Art](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art): 10″ x 8″ (Horizontal) Canvas width, in 10.00 Canvas height, in 8.00 Canvas depth, in 1.25 Frame depth, in 1.75 A serene, framed matte canvas print that brings a gentle reminder to any room: growth isn’t neat, and that’s okay. Soft watercolor leaves in soothing greens float against a warm, blush wash while casual hand-lettering reads “Growing can be messy.” The light pine frame and matte finish create a calm, understated presence—an artwork that blends with cozy corners, plant-filled nooks, or a mindful workspace. It’s the kind of piece you pause at, breathe, and let be: a small, uplifting statement that honors imperfect progress.Product features- UL- Greenguard Gold inks for safer indoor air quality- Cotton-polyester canvas composite with proprietary coating for sharp, vibrant prints- Sustainably sourced pinewood frame with multiple sizes and frame colors available- Latex inks that are non-toxic and non-flammable- Sawtooth hanging hardware included; horizontal, vertical, and square optionsCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.
+  Updated: 2026-04-11T10:27:54Z
+  Vendor: Printify
+  Product Type: Canvas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15979100431598428724_2048.jpg?v=1775860068
+  - [10″ x 8″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133531881539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11596951695105265506_2048.jpg?v=1775860077
+    Price: $39.29 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133531914307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9832572694615711656_2048.jpg?v=1775860081
+    Price: $39.29 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133531947075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8849712368316663675_2048.jpg?v=1775860091
+    Price: $39.29 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133531979843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15979100431598428724_2048.jpg?v=1775860068
+    Price: $39.29 USD
+  - [12" x 9" (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869523011)
+    Availability: Available
+    Price: $43.81 USD
+  - [12" x 9" (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869555779)
+    Availability: Available
+    Price: $43.81 USD
+  - [12" x 9" (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869588547)
+    Availability: Available
+    Price: $43.81 USD
+  - [12" x 9" (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869621315)
+    Availability: Available
+    Price: $43.81 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869654083)
+    Availability: Available
+    Price: $51.56 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869686851)
+    Availability: Available
+    Price: $51.56 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869719619)
+    Availability: Available
+    Price: $51.56 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869752387)
+    Availability: Available
+    Price: $51.56 USD
+  - [16″ x 12″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869785155)
+    Availability: Available
+    Price: $60.82 USD
+  - [16″ x 12″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869817923)
+    Availability: Available
+    Price: $60.82 USD
+  - [18″ x 12″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869850691)
+    Availability: Available
+    Price: $68.37 USD
+  - [20" x 10" (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869883459)
+    Availability: Available
+    Price: $70.69 USD
+  - [20" x 10" (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869916227)
+    Availability: Available
+    Price: $70.69 USD
+  - [20" x 10" (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869948995)
+    Availability: Available
+    Price: $70.69 USD
+  - [20" x 10" (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133869981763)
+    Availability: Available
+    Price: $70.69 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870014531)
+    Availability: Available
+    Price: $76.77 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870047299)
+    Availability: Available
+    Price: $76.77 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870080067)
+    Availability: Available
+    Price: $76.77 USD
+  - [24″ x 16″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870112835)
+    Availability: Available
+    Price: $84.71 USD
+  - [24″ x 16″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870145603)
+    Availability: Available
+    Price: $84.71 USD
+  - [24″ x 16″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870178371)
+    Availability: Available
+    Price: $84.71 USD
+  - [24″ x 18″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870211139)
+    Availability: Available
+    Price: $87.55 USD
+  - [24" x 20" (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870243907)
+    Availability: Available
+    Price: $97.84 USD
+  - [24" x 20" (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870276675)
+    Availability: Available
+    Price: $97.84 USD
+  - [24" x 20" (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870309443)
+    Availability: Available
+    Price: $97.84 USD
+  - [30″ x 20″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870342211)
+    Availability: Available
+    Price: $102.40 USD
+  - [30″ x 20″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870374979)
+    Availability: Available
+    Price: $102.40 USD
+  - [30″ x 20″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870407747)
+    Availability: Available
+    Price: $102.40 USD
+  - [30″ x 20″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-inspirational-framed-canvas-wall-art?variant=43133870440515)
+    Availability: Available
+    Price: $102.40 USD
+- [Personalize it! Framed Matte Canvas —  Affirmation Wall Art](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art): 10″ x 8″ (Horizontal) Canvas width, in 10.00 Canvas height, in 8.00 Canvas depth, in 1.25 Frame depth, in 1.75 This framed matte canvas brings a quiet, confident message into any room: “I am allowed to think for myself.” Soft watercolor washes and a delicate gold ring sit behind bold, handwritten lettering — a calm, modern reminder to hold your own voice. The light pine frame and matte finish keep the focus on the artwork while adding a warm, natural edge that fits in living rooms, home offices, or meditative corners. It settles into everyday life like a friendly nudge: read it, breathe, and steady your thoughts. Display it at a desk to bolster concentration during creative work, hang it near a reading nook to accompany reflective moments, or place it in shared spaces to invite respectful conversation.This piece resonates with people who value independent thought and mindful living. It speaks the language of quiet confidence and intentional interiors—think gallery-style simplicity, hygge warmth, and thoughtfully curated home decor. Bring it out for housewarmings, contemplative gatherings, or when you’re arranging a calm corner for journaling or remote work. The framed canvas adds presence without shouting, helping spaces feel curated and sincere.Product features- Matte-finish cotton/polyester canvas with proprietary coating for crisp detail- Printed with UL Greenguard Gold-, non-toxic latex inks- Sustainably sourced radial pine frame from FSC- wood- Multiple sizes and orientations available with sawtooth hanging hardware- Vibrant, long-lasting colors using advanced printing techniquesCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.
+  Updated: 2026-04-13T03:21:48Z
+  Vendor: Printify
+  Product Type: Canvas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3047954436938743282_2048.jpg?v=1776007326
+  - [10″ x 8″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133546037315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14993998913750278919_2048.jpg?v=1776007328
+    Price: $33.37 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133546070083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15759602221658565221_2048.jpg?v=1776007330
+    Price: $33.37 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133546102851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/580956596737054097_2048.jpg?v=1776007331
+    Price: $33.37 USD
+  - [10″ x 8″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133546135619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3047954436938743282_2048.jpg?v=1776007326
+    Price: $33.37 USD
+  - [12" x 9" (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861003331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14530392207951045715_2048.jpg?v=1776007346
+    Price: $37.20 USD
+  - [12" x 9" (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861036099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5680760517052060062_2048.jpg?v=1776007338
+    Price: $37.20 USD
+  - [12" x 9" (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861068867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6674195140288760885_2048.jpg?v=1776007350
+    Price: $37.20 USD
+  - [12" x 9" (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861101635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8927863287991212371_2048.jpg?v=1776007342
+    Price: $37.20 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861134403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17630736702041754464_2048.jpg?v=1776007377
+    Price: $43.79 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861167171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13952284873248822616_2048.jpg?v=1776007381
+    Price: $43.79 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861199939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13295489701988247038_2048.jpg?v=1776007385
+    Price: $43.79 USD
+  - [14″ x 11″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861232707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2222565252794706359_2048.jpg?v=1776007372
+    Price: $43.79 USD
+  - [16″ x 12″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861265475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/265966712721908001_2048.jpg?v=1776007396
+    Price: $51.65 USD
+  - [16″ x 12″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861298243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7139134473801966922_2048.jpg?v=1776007392
+    Price: $51.65 USD
+  - [18″ x 12″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861331011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13571273233109115109_2048.jpg?v=1776007367
+    Price: $58.06 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861363779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2363673284242514665_2048.jpg?v=1776007364
+    Price: $65.20 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861396547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9421618297904650076_2048.jpg?v=1776007355
+    Price: $65.20 USD
+  - [20″ x 16″ (Horizontal) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861429315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5942122474746068463_2048.jpg?v=1776007360
+    Price: $65.20 USD
+  - [24″ x 18″ (Horizontal) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-affirmation-wall-art?variant=43133861462083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14739104077402569537_2048.jpg?v=1776007388
+    Price: $74.35 USD
+- [Personalize it! Framed Matte Canvas Print Motivational Wall Art](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art): 8″ x 10″ (Vertical) 9" x 12" (Vertical) 11″ x 14″ (Vertical) 12″ x 16″ (Vertical) 12″ x 18″ (Vertical) 16″ x 20″ (Vertical) 16″ x 24″ (Vertical) 18″ x 24″ (Vertical) Canvas width, in 8.00 9.00 10.98 12.01 12.00 15.98 16.00 17.99 Canvas height, in 10.00 12.00 14.00 15.98 18.00 20.00 24.00 24.00 Canvas depth, in 1.25 1.25 1.25 1.25 1.25 1.25 1.25 1.25 Frame depth, in 1.75 1.75 1.75 1.75 1.75 1.75 1.75 1.75 Soft watercolor washes in warm peach, teal and rose form a gentle backdrop for a simple line-drawn floral. Bold, hand-lettered type reads “My worth is not Conditional,” a quiet, steady reminder that anchors the room. This matte canvas comes framed in pine with a slim profile so the art sits close to the wall and reads like a window of calm. It hangs easily with included sawtooth hardware and arrives ready to display—a little moment of clarity for a bedroom, home office, or cozy reading nook.Product features- Matte cotton-poly canvas with proprietary coating for crisp, vibrant prints- Printed using non-toxic, UL- Greenguard Gold latex inks- Stretched on sustainably sourced pinewood frames (FSC-)- Available in multiple orientations and frame colors; sawtooth hanger included- Eco-conscious materials and production with vivid, long-lasting colorCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.
+  Updated: 2026-04-13T03:24:38Z
+  Vendor: Printify
+  Product Type: Canvas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5826745672692403257_2048.jpg?v=1776007623
+  - [8″ x 10″ (Vertical) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807263811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4777761902774956311_2048.jpg?v=1776007629
+    Price: $32.92 USD
+  - [8″ x 10″ (Vertical) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807296579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8885916055813403292_2048.jpg?v=1776007631
+    Price: $32.92 USD
+  - [8″ x 10″ (Vertical) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807329347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7709039949008913048_2048.jpg?v=1776007630
+    Price: $32.92 USD
+  - [8″ x 10″ (Vertical) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807362115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14227142637581407373_2048.jpg?v=1776007629
+    Price: $32.92 USD
+  - [9" x 12" (Vertical) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807394883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10949607392147930857_2048.jpg?v=1776007635
+    Price: $36.70 USD
+  - [9" x 12" (Vertical) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807427651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14889640701178631073_2048.jpg?v=1776007635
+    Price: $36.70 USD
+  - [9" x 12" (Vertical) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807460419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1970293114368816383_2048.jpg?v=1776007637
+    Price: $36.70 USD
+  - [9" x 12" (Vertical) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807493187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1729054014266240891_2048.jpg?v=1776007637
+    Price: $36.70 USD
+  - [11″ x 14″ (Vertical) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807525955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2672451878562595819_2048.jpg?v=1776007640
+    Price: $43.20 USD
+  - [11″ x 14″ (Vertical) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807558723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14552493957781269189_2048.jpg?v=1776007639
+    Price: $43.20 USD
+  - [11″ x 14″ (Vertical) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807591491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7233112293842266753_2048.jpg?v=1776007638
+    Price: $43.20 USD
+  - [12″ x 16″ (Vertical) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807624259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14104606484045969365_2048.jpg?v=1776007624
+    Price: $50.96 USD
+  - [12″ x 16″ (Vertical) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807657027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4526212075010639026_2048.jpg?v=1776007624
+    Price: $50.96 USD
+  - [12″ x 16″ (Vertical) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807689795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5826745672692403257_2048.jpg?v=1776007623
+    Price: $50.96 USD
+  - [12″ x 18″ (Vertical) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807722563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5810707078200159926_2048.jpg?v=1776007628
+    Price: $57.28 USD
+  - [12″ x 18″ (Vertical) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807755331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2612456038944242501_2048.jpg?v=1776007625
+    Price: $57.28 USD
+  - [12″ x 18″ (Vertical) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807788099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14657455311932074081_2048.jpg?v=1776007627
+    Price: $57.28 USD
+  - [12″ x 18″ (Vertical) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807820867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17550071024384775951_2048.jpg?v=1776007626
+    Price: $57.28 USD
+  - [16″ x 20″ (Vertical) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807853635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11287983135924050775_2048.jpg?v=1776007634
+    Price: $64.32 USD
+  - [16″ x 20″ (Vertical) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807886403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5437360079746626738_2048.jpg?v=1776007633
+    Price: $64.32 USD
+  - [16″ x 20″ (Vertical) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807919171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9152261222301990386_2048.jpg?v=1776007632
+    Price: $64.32 USD
+  - [16″ x 20″ (Vertical) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807951939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14911432598832712052_2048.jpg?v=1776007632
+    Price: $64.32 USD
+  - [16″ x 24″ (Vertical) / 1.25" / Black](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133807984707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16839644979670281345_2048.jpg?v=1776007641
+    Price: $70.97 USD
+  - [16″ x 24″ (Vertical) / 1.25" / Espresso](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133808017475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/368946306245634091_2048.jpg?v=1776007642
+    Price: $70.97 USD
+  - [16″ x 24″ (Vertical) / 1.25" / White](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133808050243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3494637644096854962_2048.jpg?v=1776007643
+    Price: $70.97 USD
+  - [18″ x 24″ (Vertical) / 1.25" / Natural](https://artistryvibes.com/products/personalize-it-framed-matte-canvas-print-motivational-wall-art?variant=43133808083011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1754474611724641649_2048.jpg?v=1776007643
+    Price: $73.35 USD
+- [Personizable Spiral Journal — Inspirational Recovery Notebook](https://artistryvibes.com/products/personizable-spiral-journal-inspirational-recovery-notebook): One Size Depth, in 0.35 Height, in 8.07 Width, in 5.12 This spiral journal holds space for honest growth. Its painted teal-and-lavender cover reads “Healing isn’t pretty — but it’s worth it,” a quietly brave reminder to write through the messy parts. Inside, 160 pages of lined 90gsm paper take ink and thoughts well, while the sturdy semi-gloss laminated cover and black back add durability for daily use. The spiral binding lets the notebook lie flat for long writing sessions or fold-back convenience. Reach- and made with vibrant printing, it’s built to travel from bedside reflections to café checkpoints and therapy homework.Product features- 160 pages (80 sheets) of lined 90gsm paper — smooth, bleed-resistant writing surface- Front cover print with vibrant, crisp colors using modern printing techniques- Semi-gloss laminated cover and black back for extra durability- Spiral binding that lies flat or folds back for comfortable writing- REACH ; made in China; for  useCare instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in China, For adults Care instructions: Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards.
+  Updated: 2026-04-11T12:57:04Z
+  Vendor: Printify
+  Product Type: Paper products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1860612569982642607_2048.jpg?v=1775869018
+  - [Blank / One Size](https://artistryvibes.com/products/personizable-spiral-journal-inspirational-recovery-notebook?variant=43133985128515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1860612569982642607_2048.jpg?v=1775869018
+    Price: $14.99 USD
+  - [Dotgrid / One Size](https://artistryvibes.com/products/personizable-spiral-journal-inspirational-recovery-notebook?variant=43133985161283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5327427802857278897_2048.jpg?v=1775869021
+    Price: $14.99 USD
+  - [Lined / One Size](https://artistryvibes.com/products/personizable-spiral-journal-inspirational-recovery-notebook?variant=43133985194051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14123677367447729529_2048.jpg?v=1775869023
+    Price: $14.99 USD
+  - [Task / One Size](https://artistryvibes.com/products/personizable-spiral-journal-inspirational-recovery-notebook?variant=43133985226819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8742292062403678787_2048.jpg?v=1775869025
+    Price: $14.99 USD
+- [Spiral Journal — "Progress Over Perfection" Motivational Notebook](https://artistryvibes.com/products/spiral-journal-progress-over-perfection-motivational-notebook): One Size Depth, in 0.35 Height, in 8.07 Width, in 5.12 This spiral journal feels like a small, colorful nudge to keep moving forward. The front cover bursts with painterly strokes of pinks, yellows, blues and purples, stamped with the encouraging phrase “Progress OVER Perfection …seriously.” Inside, 160 pages of lined 90gsm paper take ink beautifully — sturdy enough for daily notes, lists, and imperfect first drafts. The semi-gloss laminated cover resists scuffs, the black back cover keeps things tidy, and the durable spiral binding lets pages lie flat or fold back for focused writing sessions. It’s REACH  and made to last through many pages of progress.Product features- 160 pages (80 sheets) of lined 90gsm paper — smooth, sturdy for everyday writing- Semi-gloss laminated front cover for durability and a smooth finish- Vibrant, high-quality color printing on the front cover- Durable spiral binding that lets the journal lie flat or fold back- Black back cover; REACH  and made in ChinaCare instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in China, For adults Care instructions: Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards.
+  Updated: 2026-04-13T03:23:36Z
+  Vendor: Printify
+  Product Type: Paper products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2776015517067639612_2048.jpg?v=1776007618
+  - [Blank / One Size](https://artistryvibes.com/products/spiral-journal-progress-over-perfection-motivational-notebook?variant=43133985521731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2776015517067639612_2048.jpg?v=1776007618
+    Price: $14.99 USD
+  - [Dotgrid / One Size](https://artistryvibes.com/products/spiral-journal-progress-over-perfection-motivational-notebook?variant=43133985554499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7799143059593214775_2048.jpg?v=1776007618
+    Price: $14.99 USD
+  - [Lined / One Size](https://artistryvibes.com/products/spiral-journal-progress-over-perfection-motivational-notebook?variant=43133985587267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7773772883246527902_2048.jpg?v=1776007619
+    Price: $14.99 USD
+  - [Task / One Size](https://artistryvibes.com/products/spiral-journal-progress-over-perfection-motivational-notebook?variant=43133985620035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6264924771025265418_2048.jpg?v=1776007620
+    Price: $14.99 USD
+- [Oval Necklace — "Growth Is Messy" Inspirational Teardrop Pendant](https://artistryvibes.com/products/oval-necklace-growth-is-messy-inspirational-teardrop-pendant): One Size Pendant height, in 1.50 Pendant width, in 1.00 Chain length, in 20.47 This delicate ellipse pendant necklace carries a quiet, hopeful message. The glossy, full-color print sits on a white aluminum surface framed by a polished zinc-alloy bezel, catching light as it rests against the chest. A slender chain with small bead accents and a sturdy lobster clasp keeps the piece secure while the smooth back offers a subtle, reflective finish. Wear it alone for a gentle statement or layer it with other pieces — it settles into everyday routines and moments of reflection, reminding the wearer that change can be beautiful even when it’s untidy.Product features- Bright, crisp full-color printing for vivid designs- Glossy finish on one side of the ellipse pendant- Ellipse-shaped white aluminum print surface framed in zinc alloy- Sturdy lobster clasp closure for secure wear- Delicate chain with small bead accents and smooth polished backCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-11T13:19:39Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7472332592488650864_2048.jpg?v=1775870374
+  Price: $22.07 USD
+- [Personalize it! Oval Necklace](https://artistryvibes.com/products/personizable-oval-necklace): One Size Pendant height, in 1.50 Pendant width, in 1.00 Chain length, in 20.47 A delicate ellipse pendant that keeps quiet encouragement close to the chest. The glossy, full-color face catches light and reveals a soft watercolor backdrop with hand-lettered words — a tiny, wearable reminder to keep moving forward. The slim zinc-alloy frame and chain are light enough for daily wear yet feel substantial against skin. It hangs from a secure lobster clasp so it won’t shift during busy days and makes a subtle, personal statement whether layered or worn alone. Wear it with a simple tee, a linen dress, or under a cozy sweater when you need a calm, steady nudge.Product features- Bright, full-color printing for crisp, vibrant designs- Glossy finish on one side for a polished look- Ellipse-shaped pendant on a white aluminum print surface- Sturdy zinc-alloy pendant and matching chain- Secure lobster clasp closure for reliable wearCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-11T13:21:33Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9778467645060032129_2048.jpg?v=1775870487
+  Price: $22.07 USD
+- [Raven & Wildflower Oval Pendant Necklace — Surreal Jewelry](https://artistryvibes.com/products/raven-wildflower-oval-pendant-necklace-surreal-jewelry): One Size Pendant height, in 1.50 Pendant width, in 1.00 Chain length, in 20.47 A delicate ellipse pendant hangs from a slender zinc-alloy chain, its glossy, full-color face capturing fine artwork with vibrant, crisp hues. The polished white aluminum print surface makes colors pop — here, a moody raven and hand-painted florals sit against a soft mint backdrop, giving the piece an artful, slightly gothic bloom. The teardrop-shaped silhouette sits close to the collarbone and moves with you, while a sturdy lobster clasp keeps it secure. Wear it layered with everyday pieces or let it anchor a quieter evening outfit. It feels like a small, wearable illustration: personal, slightly mysterious, and quietly expressive.Product features- Glossy, full-color print on white aluminum for vivid, crisp artwork- Ellipse/teardrop-shaped zinc-alloy pendant with polished finish- Sturdy lobster clasp closure for secure wear- Delicate zinc-alloy chain that layers well with other necklaces- Vibrant color reproduction using modern printing techniquesCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-11T13:24:33Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13739559832850952807_2048.jpg?v=1775870668
+  Price: $21.35 USD
+- [Personalize it! Heart Cutout Bar Bracelet — Adjustable Gold Nameplate Bracelet](https://artistryvibes.com/products/personalize-it-heart-cutout-bar-bracelet-adjustable-gold-nameplate-bracelet): One Size Chain length, in 7.99 Bar length, in 1.50 Bar width, in 0.24 A slender, adjustable bar bracelet with a delicate cutout heart — softened by warm gold and a smooth, polished finish. The 38mm bar sits low on the wrist, ready for a tiny engraving that carries a private line or meaningful date. It slides on with a secure adjustable chain, remaining comfortable all day and resistant to water, tarnish, and skin irritation. Packaged in a white jewelry box with non-tarnish cotton, it arrives ready to be given and worn immediately.This bracelet fits into everyday moments: morning coffee, desk work, and evening walks. It’s quiet and personal, holding a message only you (and those you choose) will know. The heart cutout adds a soft, honest touch — a small gesture that reads as intimate rather than showy. Whether layered with other pieces or worn alone, it becomes part of the wearer’s daily rhythm, a small anchor to a person, place, or memory.Product features- 316L surgical-grade stainless steel with PVD 18K gold option — hypoallergenic and polished finish- Adjustable chain strap for a comfortable, custom fit- Waterproof, tarnish-resistant and built for daily wear- Bar dimension 38mm x 6mm with a cutout heart detail- Includes white jewelry box with non-tarnish cotton for protectionCare instructions- Clean with a polishing cloth to restore the shine of the jewelry EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Blank product sourced from China, For adults Care instructions: Clean with a polishing cloth to restore the shine of the jewelry
+  Updated: 2026-04-11T13:30:25Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260411012756-1f13545a-b55f-6a14-9090-6a9822111cd7.png?v=1775871019
+  - [18K Gold PVD coating / One Size](https://artistryvibes.com/products/personalize-it-heart-cutout-bar-bracelet-adjustable-gold-nameplate-bracelet?variant=43133987815491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4994386767624314556_2048.jpg?v=1775871025
+    Price: $32.93 USD
+  - [18K Rose Gold PVD coating / One Size](https://artistryvibes.com/products/personalize-it-heart-cutout-bar-bracelet-adjustable-gold-nameplate-bracelet?variant=43133987848259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2457551501595593639_2048.jpg?v=1775871022
+    Price: $32.93 USD
+  - [Stainless Steel / One Size](https://artistryvibes.com/products/personalize-it-heart-cutout-bar-bracelet-adjustable-gold-nameplate-bracelet?variant=43133987881027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260411012756-1f13545a-b55f-6a14-9090-6a9822111cd7.png?v=1775871019
+    Price: $32.93 USD
+- [Oval Necklace — Bee on Pink Coneflower Teardrop Pendant Necklace](https://artistryvibes.com/products/oval-necklace-bee-on-pink-coneflower-teardrop-pendant-necklace): One Size Pendant height, in 1.50 Pendant width, in 1.00 Chain length, in 20.47 A delicate ellipse pendant necklace that brings a touch of natural charm to everyday wear. The white aluminum surface showcases bright, glossy full-color prints with crisp detail — like a tiny framed photograph at your collarbone. The zinc-alloy setting and chain have a subtle shine that complements the vivid image, while a sturdy lobster clasp keeps the piece secure during daily wear. Lightweight and personal, it reads like a small keepsake you’ll reach for when you want to carry a memory with you.Product features- Bright, full-color printing on white aluminum for crisp images- Glossy finish on one side for vivid, reflective color- Ellipse (oval) pendant shape for a portrait-style look- Zinc-alloy pendant and chain with subtle shine- Secure lobster-clasp closure for easy wearCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-04-11T13:46:20Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13701521938667777357_2048.jpg?v=1775871975
+  Price: $21.35 USD
+- [Kids Tee — Cute Otter "Otterly Adorable" Heart Graphic](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 Soft, playful, and made for little ones who love cozy cuteness. This kids tee features an adorable blushing otter surrounded by floating hearts and bubbly, candy-colored lettering—an easy way to add charm to everyday play. The midweight cotton holds bright prints well and feels gentle on sensitive skin. Whether heading to preschool, a family outing, or a quiet day at home, this shirt brings a warm, affectionate vibe to a child’s wardrobe and pairs effortlessly with jeans, leggings, or overalls.Product features- Made from 100% midweight US cotton (soft, 5.3 oz/yd²) for comfortable all-season wear- Seamless tubular knit body reduces fabric waste and gives a cleaner look- Ribbed knit collar with shoulder tape for shape retention and durability- Pearlized tear-away inner labels and DTF inner neck label option for scratch-free comfort- Oeko-Tex and REACH ; ethically sourced cotton with US Cotton Trust Protocol complianceCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-11T14:30:43Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12010031313826282873_2048.jpg?v=1775874638
+  - [Purple / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035591235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9840314475569783522_2048.jpg?v=1775874708
+    Price: $16.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035624003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10924236033393712652_2048.jpg?v=1775874699
+    Price: $16.99 USD
+  - [Black / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035656771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16581347318686133153_2048.jpg?v=1775874657
+    Price: $16.99 USD
+  - [Irish Green / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035689539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11132955454249599732_2048.jpg?v=1775874680
+    Price: $16.99 USD
+  - [Maroon / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035722307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12010031313826282873_2048.jpg?v=1775874638
+    Price: $16.99 USD
+  - [White / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035755075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16113524167306869706_2048.jpg?v=1775874644
+    Price: $16.99 USD
+  - [Heliconia / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035787843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6340069528364881361_2048.jpg?v=1775874719
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035820611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2965547019693738218_2048.jpg?v=1775874714
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035853379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17516345336699365086_2048.jpg?v=1775874672
+    Price: $16.99 USD
+  - [Dark Heather / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035886147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9495746485113006302_2048.jpg?v=1775874686
+    Price: $16.99 USD
+  - [Tropical Blue / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035918915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9837407414027135006_2048.jpg?v=1775874691
+    Price: $16.99 USD
+  - [Tennessee Orange / XS](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035951683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3076443502153154143_2048.jpg?v=1775874666
+    Price: $16.99 USD
+  - [Purple / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134035984451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9840314475569783522_2048.jpg?v=1775874708
+    Price: $16.99 USD
+  - [Royal / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036017219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10924236033393712652_2048.jpg?v=1775874699
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036049987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16581347318686133153_2048.jpg?v=1775874657
+    Price: $16.99 USD
+  - [Irish Green / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036082755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11132955454249599732_2048.jpg?v=1775874680
+    Price: $16.99 USD
+  - [Maroon / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036115523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12010031313826282873_2048.jpg?v=1775874638
+    Price: $16.99 USD
+  - [White / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036148291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16113524167306869706_2048.jpg?v=1775874644
+    Price: $16.99 USD
+  - [Heliconia / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036181059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6340069528364881361_2048.jpg?v=1775874719
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036213827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2965547019693738218_2048.jpg?v=1775874714
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036246595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17516345336699365086_2048.jpg?v=1775874672
+    Price: $16.99 USD
+  - [Dark Heather / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036279363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9495746485113006302_2048.jpg?v=1775874686
+    Price: $16.99 USD
+  - [Tropical Blue / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036312131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9837407414027135006_2048.jpg?v=1775874691
+    Price: $16.99 USD
+  - [Tennessee Orange / S](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036344899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3076443502153154143_2048.jpg?v=1775874666
+    Price: $16.99 USD
+  - [Purple / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036377667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9840314475569783522_2048.jpg?v=1775874708
+    Price: $16.99 USD
+  - [Royal / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036410435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10924236033393712652_2048.jpg?v=1775874699
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036443203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16581347318686133153_2048.jpg?v=1775874657
+    Price: $16.99 USD
+  - [Irish Green / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036475971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11132955454249599732_2048.jpg?v=1775874680
+    Price: $16.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036508739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12010031313826282873_2048.jpg?v=1775874638
+    Price: $16.99 USD
+  - [White / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036541507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16113524167306869706_2048.jpg?v=1775874644
+    Price: $16.99 USD
+  - [Heliconia / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036574275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6340069528364881361_2048.jpg?v=1775874719
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036607043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2965547019693738218_2048.jpg?v=1775874714
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036639811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17516345336699365086_2048.jpg?v=1775874672
+    Price: $16.99 USD
+  - [Dark Heather / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036672579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9495746485113006302_2048.jpg?v=1775874686
+    Price: $16.99 USD
+  - [Tropical Blue / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036705347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9837407414027135006_2048.jpg?v=1775874691
+    Price: $16.99 USD
+  - [Tennessee Orange / M](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036738115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3076443502153154143_2048.jpg?v=1775874666
+    Price: $16.99 USD
+  - [Purple / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036770883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9840314475569783522_2048.jpg?v=1775874708
+    Price: $16.99 USD
+  - [Royal / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036803651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10924236033393712652_2048.jpg?v=1775874699
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036836419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16581347318686133153_2048.jpg?v=1775874657
+    Price: $16.99 USD
+  - [Irish Green / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036869187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11132955454249599732_2048.jpg?v=1775874680
+    Price: $16.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036901955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12010031313826282873_2048.jpg?v=1775874638
+    Price: $16.99 USD
+  - [White / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036934723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16113524167306869706_2048.jpg?v=1775874644
+    Price: $16.99 USD
+  - [Heliconia / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134036967491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6340069528364881361_2048.jpg?v=1775874719
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134037000259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2965547019693738218_2048.jpg?v=1775874714
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134037033027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17516345336699365086_2048.jpg?v=1775874672
+    Price: $16.99 USD
+  - [Dark Heather / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134037065795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9495746485113006302_2048.jpg?v=1775874686
+    Price: $16.99 USD
+  - [Tennessee Orange / L](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134037098563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3076443502153154143_2048.jpg?v=1775874666
+    Price: $16.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134037131331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9840314475569783522_2048.jpg?v=1775874708
+    Price: $16.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134037164099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10924236033393712652_2048.jpg?v=1775874699
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/kids-tee-cute-otter-otterly-adorable-heart-graphic?variant=43134037196867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16581347318686133153_2048.jpg?v=1775874657
+    Price: $16.99 USD
+- [Game Over Kids T-Shirt — Pastel Gamer Controller Tee](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 A soft, midweight kids tee with playful pastel gaming graphics—“GAME OVER” in bubbly neon letters above a dreamy gradient controller. This shirt feels gentle against young skin and wears well through active play. It’s cut in a classic crew silhouette that layers easily over hoodies or under jackets. The design speaks to little gamers who love bright colors and fun console vibes, bringing a touch of arcade nostalgia to everyday outfits. Durable stitching, a ribbed collar that keeps its shape, and tear-away labels keep comfort front and center so the focus stays on playtime and smiles.Product features- 100% midweight US cotton (5.3 oz) for soft, season-round comfort- Tubular knit construction without side seams for a smooth, attractive look- Ribbed knit collar and shoulder tape for shape retention and stability- DTF/DTG printed design with DTF inner neck label; pearlized tear-away labels for comfort- REACH and Oeko-Tex ; ethically sourced cotton (US Cotton Trust Protocol)Care instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-11T14:34:59Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1310850378912769601_2048.jpg?v=1775875015
+  - [Navy / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038245443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7539388421025432896_2048.jpg?v=1775875072
+    Price: $16.99 USD
+  - [Purple / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038278211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3530879193520171669_2048.jpg?v=1775875086
+    Price: $16.99 USD
+  - [Black / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038310979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17811403480086502601_2048.jpg?v=1775875021
+    Price: $16.99 USD
+  - [Irish Green / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038343747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10989909383302389103_2048.jpg?v=1775875058
+    Price: $16.99 USD
+  - [Sport Grey / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038376515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6911978524134920326_2048.jpg?v=1775875043
+    Price: $16.99 USD
+  - [White / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038409283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1310850378912769601_2048.jpg?v=1775875015
+    Price: $16.99 USD
+  - [Cardinal Red / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038442051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9502736981297742620_2048.jpg?v=1775875098
+    Price: $16.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038474819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/346962543681429076_2048.jpg?v=1775875091
+    Price: $16.99 USD
+  - [Heather Navy / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038507587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10109355854980157600_2048.jpg?v=1775875079
+    Price: $16.99 USD
+  - [Sapphire / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038540355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10059020291014184641_2048.jpg?v=1775875067
+    Price: $16.99 USD
+  - [Tennessee Orange / XS](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038573123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17608746691696340552_2048.jpg?v=1775875050
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038605891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7539388421025432896_2048.jpg?v=1775875072
+    Price: $16.99 USD
+  - [Purple / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038638659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3530879193520171669_2048.jpg?v=1775875086
+    Price: $16.99 USD
+  - [Black / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038671427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17811403480086502601_2048.jpg?v=1775875021
+    Price: $16.99 USD
+  - [Irish Green / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038704195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10989909383302389103_2048.jpg?v=1775875058
+    Price: $16.99 USD
+  - [Sport Grey / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038736963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6911978524134920326_2048.jpg?v=1775875043
+    Price: $16.99 USD
+  - [White / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038769731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1310850378912769601_2048.jpg?v=1775875015
+    Price: $16.99 USD
+  - [Cardinal Red / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038802499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9502736981297742620_2048.jpg?v=1775875098
+    Price: $16.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038835267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/346962543681429076_2048.jpg?v=1775875091
+    Price: $16.99 USD
+  - [Heather Navy / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038868035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10109355854980157600_2048.jpg?v=1775875079
+    Price: $16.99 USD
+  - [Sapphire / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038900803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10059020291014184641_2048.jpg?v=1775875067
+    Price: $16.99 USD
+  - [Tennessee Orange / S](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038933571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17608746691696340552_2048.jpg?v=1775875050
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038966339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7539388421025432896_2048.jpg?v=1775875072
+    Price: $16.99 USD
+  - [Purple / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134038999107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3530879193520171669_2048.jpg?v=1775875086
+    Price: $16.99 USD
+  - [Black / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039031875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17811403480086502601_2048.jpg?v=1775875021
+    Price: $16.99 USD
+  - [Irish Green / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039064643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10989909383302389103_2048.jpg?v=1775875058
+    Price: $16.99 USD
+  - [Sport Grey / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039097411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6911978524134920326_2048.jpg?v=1775875043
+    Price: $16.99 USD
+  - [White / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039130179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1310850378912769601_2048.jpg?v=1775875015
+    Price: $16.99 USD
+  - [Cardinal Red / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039162947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9502736981297742620_2048.jpg?v=1775875098
+    Price: $16.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039195715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/346962543681429076_2048.jpg?v=1775875091
+    Price: $16.99 USD
+  - [Sapphire / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039228483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10059020291014184641_2048.jpg?v=1775875067
+    Price: $16.99 USD
+  - [Tennessee Orange / M](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039261251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17608746691696340552_2048.jpg?v=1775875050
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039294019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7539388421025432896_2048.jpg?v=1775875072
+    Price: $16.99 USD
+  - [Purple / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039326787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3530879193520171669_2048.jpg?v=1775875086
+    Price: $16.99 USD
+  - [Black / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039359555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17811403480086502601_2048.jpg?v=1775875021
+    Price: $16.99 USD
+  - [Irish Green / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039392323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10989909383302389103_2048.jpg?v=1775875058
+    Price: $16.99 USD
+  - [Sport Grey / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039425091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6911978524134920326_2048.jpg?v=1775875043
+    Price: $16.99 USD
+  - [White / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039457859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1310850378912769601_2048.jpg?v=1775875015
+    Price: $16.99 USD
+  - [Cardinal Red / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039490627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9502736981297742620_2048.jpg?v=1775875098
+    Price: $16.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039523395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/346962543681429076_2048.jpg?v=1775875091
+    Price: $16.99 USD
+  - [Heather Navy / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039556163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10109355854980157600_2048.jpg?v=1775875079
+    Price: $16.99 USD
+  - [Sapphire / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039588931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10059020291014184641_2048.jpg?v=1775875067
+    Price: $16.99 USD
+  - [Tennessee Orange / L](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039621699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17608746691696340552_2048.jpg?v=1775875050
+    Price: $16.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039654467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7539388421025432896_2048.jpg?v=1775875072
+    Price: $16.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039687235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3530879193520171669_2048.jpg?v=1775875086
+    Price: $16.99 USD
+  - [Black / XL](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039720003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17811403480086502601_2048.jpg?v=1775875021
+    Price: $16.99 USD
+  - [Irish Green / XL](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039752771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10989909383302389103_2048.jpg?v=1775875058
+    Price: $16.99 USD
+  - [Sport Grey / XL](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039785539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6911978524134920326_2048.jpg?v=1775875043
+    Price: $16.99 USD
+  - [White / XL](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039818307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1310850378912769601_2048.jpg?v=1775875015
+    Price: $16.99 USD
+  - [Cardinal Red / XL](https://artistryvibes.com/products/game-over-kids-t-shirt-pastel-gamer-controller-tee?variant=43134039851075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9502736981297742620_2048.jpg?v=1775875098
+    Price: $16.99 USD
+- [Youth Rainbow Dachshund Pattern Cute Dog Graphic Tee](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 Bright, playful, and made for little explorers — this kids tee brings a rowdy splash of color to everyday play. A neat grid of rainbow dachshunds marches across the chest, turning a simple tee into a joyful statement. The midweight cotton feels soft against young skin and holds up through tumbles, washes, and backyard adventures. The crew neckline and classic cut keep movement easy while the tear-away label and ribbed collar keep comfort front and center. Let this shirt be the one they reach for when they want to show off personality without slowing down.Product features- Tubular knit (no side seams) for a cleaner look and less fabric waste- Ribbed knit collar that keeps its shape and stays comfortable- Shoulder tape for durability and reduced stretching at the back- Soft midweight 100% US cotton (5.3 oz/yd²) with tear-away label for scratch-free wear- DTF/DTG print methods for vibrant, durable color; REACH and Oeko-Tex  for safetyCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-12T11:21:10Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5164981996564220913_2048.jpg?v=1775949664
+  - [Navy / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015368259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10212910394651234475_2048.jpg?v=1775949714
+    Price: $16.99 USD
+  - [Purple / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015401027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/970623668581800265_2048.jpg?v=1775949726
+    Price: $16.99 USD
+  - [Maroon / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015433795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16009147501155718030_2048.jpg?v=1775949682
+    Price: $16.99 USD
+  - [White / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015466563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5164981996564220913_2048.jpg?v=1775949664
+    Price: $16.99 USD
+  - [Cardinal Red / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015499331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7889360271060713606_2048.jpg?v=1775949736
+    Price: $16.99 USD
+  - [Heliconia / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015532099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7586051248178169953_2048.jpg?v=1775949731
+    Price: $16.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015564867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17589858114234807474_2048.jpg?v=1775949709
+    Price: $16.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015597635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14246399537099665156_2048.jpg?v=1775949694
+    Price: $16.99 USD
+  - [Daisy / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015630403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10128342535657920278_2048.jpg?v=1775949688
+    Price: $16.99 USD
+  - [Dark Heather / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015663171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14436086054815680485_2048.jpg?v=1775949699
+    Price: $16.99 USD
+  - [Heather Navy / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015695939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7936077580810346210_2048.jpg?v=1775949719
+    Price: $16.99 USD
+  - [Tropical Blue / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015728707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3483874445057318928_2048.jpg?v=1775949704
+    Price: $16.99 USD
+  - [Tennessee Orange / XS](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015761475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1053203692442993018_2048.jpg?v=1775949675
+    Price: $16.99 USD
+  - [Navy / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015794243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10212910394651234475_2048.jpg?v=1775949714
+    Price: $16.99 USD
+  - [Purple / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015827011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/970623668581800265_2048.jpg?v=1775949726
+    Price: $16.99 USD
+  - [Maroon / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015859779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16009147501155718030_2048.jpg?v=1775949682
+    Price: $16.99 USD
+  - [White / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015892547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5164981996564220913_2048.jpg?v=1775949664
+    Price: $16.99 USD
+  - [Cardinal Red / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015925315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7889360271060713606_2048.jpg?v=1775949736
+    Price: $16.99 USD
+  - [Heliconia / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015958083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7586051248178169953_2048.jpg?v=1775949731
+    Price: $16.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136015990851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17589858114234807474_2048.jpg?v=1775949709
+    Price: $16.99 USD
+  - [Lime / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016023619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14246399537099665156_2048.jpg?v=1775949694
+    Price: $16.99 USD
+  - [Daisy / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016056387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10128342535657920278_2048.jpg?v=1775949688
+    Price: $16.99 USD
+  - [Dark Heather / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016089155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14436086054815680485_2048.jpg?v=1775949699
+    Price: $16.99 USD
+  - [Heather Navy / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016121923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7936077580810346210_2048.jpg?v=1775949719
+    Price: $16.99 USD
+  - [Tropical Blue / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016154691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3483874445057318928_2048.jpg?v=1775949704
+    Price: $16.99 USD
+  - [Tennessee Orange / S](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016187459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1053203692442993018_2048.jpg?v=1775949675
+    Price: $16.99 USD
+  - [Navy / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016220227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10212910394651234475_2048.jpg?v=1775949714
+    Price: $16.99 USD
+  - [Purple / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016252995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/970623668581800265_2048.jpg?v=1775949726
+    Price: $16.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016285763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16009147501155718030_2048.jpg?v=1775949682
+    Price: $16.99 USD
+  - [White / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016318531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5164981996564220913_2048.jpg?v=1775949664
+    Price: $16.99 USD
+  - [Cardinal Red / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016351299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7889360271060713606_2048.jpg?v=1775949736
+    Price: $16.99 USD
+  - [Heliconia / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016384067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7586051248178169953_2048.jpg?v=1775949731
+    Price: $16.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016416835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17589858114234807474_2048.jpg?v=1775949709
+    Price: $16.99 USD
+  - [Lime / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016449603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14246399537099665156_2048.jpg?v=1775949694
+    Price: $16.99 USD
+  - [Daisy / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016482371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10128342535657920278_2048.jpg?v=1775949688
+    Price: $16.99 USD
+  - [Dark Heather / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016515139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14436086054815680485_2048.jpg?v=1775949699
+    Price: $16.99 USD
+  - [Tropical Blue / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016547907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3483874445057318928_2048.jpg?v=1775949704
+    Price: $16.99 USD
+  - [Tennessee Orange / M](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016580675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1053203692442993018_2048.jpg?v=1775949675
+    Price: $16.99 USD
+  - [Navy / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016613443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10212910394651234475_2048.jpg?v=1775949714
+    Price: $16.99 USD
+  - [Purple / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016646211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/970623668581800265_2048.jpg?v=1775949726
+    Price: $16.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016678979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16009147501155718030_2048.jpg?v=1775949682
+    Price: $16.99 USD
+  - [White / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016711747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5164981996564220913_2048.jpg?v=1775949664
+    Price: $16.99 USD
+  - [Cardinal Red / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016744515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7889360271060713606_2048.jpg?v=1775949736
+    Price: $16.99 USD
+  - [Heliconia / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016777283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7586051248178169953_2048.jpg?v=1775949731
+    Price: $16.99 USD
+  - [Light Blue / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016810051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17589858114234807474_2048.jpg?v=1775949709
+    Price: $16.99 USD
+  - [Lime / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016842819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14246399537099665156_2048.jpg?v=1775949694
+    Price: $16.99 USD
+  - [Daisy / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016875587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10128342535657920278_2048.jpg?v=1775949688
+    Price: $16.99 USD
+  - [Dark Heather / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016908355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14436086054815680485_2048.jpg?v=1775949699
+    Price: $16.99 USD
+  - [Heather Navy / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016941123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7936077580810346210_2048.jpg?v=1775949719
+    Price: $16.99 USD
+  - [Tennessee Orange / L](https://artistryvibes.com/products/youth-rainbow-dachshund-pattern-cute-dog-graphic-tee?variant=43136016973891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1053203692442993018_2048.jpg?v=1775949675
+    Price: $16.99 USD
+- [Rainbow Weiners Graphic Tee](https://artistryvibes.com/products/rainbow-weiners-graphic-tee): S M L XL 2XL 3XL Width, in 19.02 20.51 22.01 24.02 25.98 27.48 Length, in 29.02 30.00 30.98 32.01 32.99 34.02 Sleeve length, in 8.46 8.74 9.06 9.37 9.65 9.96 A lively, all-over print tee that turns a bold rainbow dachshund motif into wearable joy. Lightweight polyester keeps colors vivid and lines crisp, so the playful repeating pup pattern looks fresh wash after wash. It sits with a regular, true-to-size fit and a soft, tagless neckline—comfortable for long days out at festivals, brunch with friends, or casual strolls with your own dog. The tee’s structured side seams and shoulder tape keep the silhouette neat, while the ribbed collar holds its shape through repeated wears. Wear it layered under a denim jacket or on its own to let the cheerful color banding and quirky dog rows do the talking.Product features- All-over sublimation print on durable 100% polyester for vivid, long-lasting color- Regular fit with side seams and shoulder tape for a stable, neat silhouette- Ribbed knit collar with seam and tagless design for everyday comfort- Two fabric-weight options (113 g/m² or 170 g/m²) to choose lighter or sturdier feel- Assembled in the USA from globally sourced parts; runs true to sizeCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F), gentle cycleEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Do not dryclean, Do not iron, Tumble dry: low heat, Do not bleach, Machine wash: cold (max 30C or 90F), gentle cycle
+  Updated: 2026-04-12T11:31:43Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+  - [White stitching / 4 oz. / S](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044040259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $30.83 USD
+  - [White stitching / 6 oz. / S](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044073027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $33.39 USD
+  - [White stitching / 4 oz. / M](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044105795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $32.16 USD
+  - [White stitching / 6 oz. / M](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044138563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $36.39 USD
+  - [White stitching / 4 oz. / L](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044171331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $33.17 USD
+  - [White stitching / 6 oz. / L](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044204099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $37.33 USD
+  - [White stitching / 4 oz. / XL](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044236867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $34.41 USD
+  - [White stitching / 6 oz. / XL](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044269635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $37.65 USD
+  - [White stitching / 4 oz. / 2XL](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044302403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $35.08 USD
+  - [White stitching / 6 oz. / 2XL](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044335171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $38.53 USD
+  - [White stitching / 4 oz. / 3XL](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044367939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $36.35 USD
+  - [White stitching / 6 oz. / 3XL](https://artistryvibes.com/products/rainbow-weiners-graphic-tee?variant=43136044400707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2856182456795896909_2048.jpg?v=1775950298
+    Price: $39.93 USD
+- [Rainbow Weiners Unisex Bomber Jacket](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket): Add a little zing to your wardrobe with this vibrant All-Over Print Bomber Jacket. Wear it on a basic t-shirt, or layer it on top of a warm hoodie—it’ll look great either way. With a brushed fleece inside, and a relaxed unisex fit, this Bomber Jacket is just the stuff of the dreams, so be quick to grab yourself one! • 100% polyester • Fabric weight: 6.49 oz/yd² (220 g/m²), weight may vary by 5% • Brushed fleece fabric inside • Unisex fit • Overlock seams • Sturdy neck tape • Silver YKK zipper • 2 self-fabric pockets • Blank product components sourced from the US and China Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the azo dyes, lead and cadmium level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 34 ⅝ 26 ¾ 37 S 36 ¼ 28 ⅜ 38 ⅝ M 37 ¾ 29 ⅞ 40 ⅛ L 41 33 ⅛ 43 ¼ XL 44 ⅛ 36 ¼ 46 ½ 2XL 47 ¼ 39 ⅜ 49 ⅝ 3XL 50 ⅜ 42 ½ 52 ¾
+  Updated: 2026-04-12T12:10:01Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+  - [XS](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket?variant=43136083361859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+    Price: $56.00 USD
+  - [S](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket?variant=43136083394627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+    Price: $56.00 USD
+  - [M](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket?variant=43136083427395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+    Price: $56.00 USD
+  - [L](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket?variant=43136083460163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+    Price: $56.00 USD
+  - [XL](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket?variant=43136083492931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+    Price: $56.00 USD
+  - [2XL](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket?variant=43136083525699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+    Price: $58.50 USD
+  - [3XL](https://artistryvibes.com/products/rainbow-weiners-unisex-bomber-jacket?variant=43136083558467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/all-over-print-unisex-bomber-jacket-white-front-69dae2c39c1d5.jpg?v=1775952595
+    Price: $59.50 USD
+- [Collage Unisex classic tee](https://artistryvibes.com/products/collage-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-04-12T14:25:29Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+  - [Maroon / S](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161546307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161579075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161611843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Maroon / XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161644611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Maroon / 2XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161677379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $19.99 USD
+  - [Maroon / 3XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161710147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $21.99 USD
+  - [Maroon / 4XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161742915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $23.99 USD
+  - [Maroon / 5XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161775683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db027d07e20.jpg?v=1775960721
+    Price: $25.99 USD
+  - [Black / S](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161808451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Black / M](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161841219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Black / L](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161873987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Black / XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161906755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Black / 2XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161939523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $19.99 USD
+  - [Black / 3XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136161972291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $21.99 USD
+  - [Black / 4XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162005059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $23.99 USD
+  - [Black / 5XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162037827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db027d098e1.jpg?v=1775960721
+    Price: $25.99 USD
+  - [Navy / S](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162070595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Navy / M](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162103363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Navy / L](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162136131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162168899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Navy / 2XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162201667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $19.99 USD
+  - [Navy / 3XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162234435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $21.99 USD
+  - [Navy / 4XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162267203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $23.99 USD
+  - [Navy / 5XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162299971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db027d0c6a6.jpg?v=1775960721
+    Price: $25.99 USD
+  - [Purple / S](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162332739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db027d0ede5.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Purple / M](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162365507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db027d0ede5.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Purple / L](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162398275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db027d0ede5.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162431043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db027d0ede5.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Purple / 2XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162463811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db027d0ede5.jpg?v=1775960721
+    Price: $19.99 USD
+  - [Purple / 3XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162496579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db027d0ede5.jpg?v=1775960721
+    Price: $21.99 USD
+  - [Cardinal / S](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162529347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db027d12382.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Cardinal / M](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162562115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db027d12382.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Cardinal / L](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162594883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db027d12382.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Cardinal / XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162627651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db027d12382.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Cardinal / 2XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162660419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db027d12382.jpg?v=1775960721
+    Price: $19.99 USD
+  - [Cardinal / 3XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162693187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db027d12382.jpg?v=1775960721
+    Price: $21.99 USD
+  - [Royal / S](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162725955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69db027d1639c.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Royal / M](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162758723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69db027d1639c.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Royal / L](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162791491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69db027d1639c.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Royal / XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162824259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69db027d1639c.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Royal / 2XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162857027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69db027d1639c.jpg?v=1775960721
+    Price: $19.99 USD
+  - [Royal / 3XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162889795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-royal-front-69db027d1639c.jpg?v=1775960721
+    Price: $21.99 USD
+  - [Sapphire / S](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162922563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Sapphire / M](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162955331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Sapphire / L](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136162988099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Sapphire / XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136163020867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $18.99 USD
+  - [Sapphire / 2XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136163053635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $19.99 USD
+  - [Sapphire / 3XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136163086403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $21.99 USD
+  - [Sapphire / 4XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136163119171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $23.99 USD
+  - [Sapphire / 5XL](https://artistryvibes.com/products/collage-unisex-classic-tee?variant=43136163151939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db027d1b02d.jpg?v=1775960721
+    Price: $25.99 USD
+- [Statue Splash Unisex classic tee](https://artistryvibes.com/products/statue-splash-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-04-12T14:30:29Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-white-front-69db03a61da09.jpg?v=1775961020
+  - [Maroon / S](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165150787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165183555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165216323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Maroon / XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165249091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Maroon / 2XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165281859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $19.99 USD
+  - [Maroon / 3XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165314627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $21.99 USD
+  - [Maroon / 4XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165347395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $23.99 USD
+  - [Maroon / 5XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165380163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-maroon-front-69db03a620b4d.jpg?v=1775961020
+    Price: $25.99 USD
+  - [Black / S](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165412931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Black / M](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165445699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Black / L](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165478467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Black / XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165511235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Black / 2XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165544003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $19.99 USD
+  - [Black / 3XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165576771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $21.99 USD
+  - [Black / 4XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165609539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $23.99 USD
+  - [Black / 5XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165642307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-black-front-69db03a61eb4d.jpg?v=1775961021
+    Price: $25.99 USD
+  - [Navy / S](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165675075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Navy / M](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165707843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Navy / L](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165740611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Navy / XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165773379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Navy / 2XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165806147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $19.99 USD
+  - [Navy / 3XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165838915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $21.99 USD
+  - [Navy / 4XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165871683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $23.99 USD
+  - [Navy / 5XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165904451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-navy-front-69db03a61fb3b.jpg?v=1775961021
+    Price: $25.99 USD
+  - [Purple / S](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165937219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db03a623b64.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Purple / M](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136165969987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db03a623b64.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Purple / L](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166002755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db03a623b64.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Purple / XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166035523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db03a623b64.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Purple / 2XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166068291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db03a623b64.jpg?v=1775961020
+    Price: $19.99 USD
+  - [Purple / 3XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166101059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-purple-front-69db03a623b64.jpg?v=1775961020
+    Price: $21.99 USD
+  - [Forest Green / S](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166133827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Forest Green / M](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166166595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Forest Green / L](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166199363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Forest Green / XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166232131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $18.99 USD
+  - [Forest Green / 2XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166264899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $19.99 USD
+  - [Forest Green / 3XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166297667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $21.99 USD
+  - [Forest Green / 4XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166330435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $23.99 USD
+  - [Forest Green / 5XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166363203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-forest-green-front-69db03a626a8a.jpg?v=1775961021
+    Price: $25.99 USD
+  - [Cardinal / S](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166395971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db03a625ad4.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Cardinal / M](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166428739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db03a625ad4.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Cardinal / L](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166461507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db03a625ad4.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Cardinal / XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166494275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db03a625ad4.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Cardinal / 2XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166527043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db03a625ad4.jpg?v=1775961020
+    Price: $19.99 USD
+  - [Cardinal / 3XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166559811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-cardinal-front-69db03a625ad4.jpg?v=1775961020
+    Price: $21.99 USD
+  - [Sapphire / S](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166592579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db03a627a3e.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Sapphire / M](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166625347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db03a627a3e.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Sapphire / L](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166658115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db03a627a3e.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Sapphire / XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166690883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db03a627a3e.jpg?v=1775961020
+    Price: $18.99 USD
+  - [Sapphire / 2XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166723651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db03a627a3e.jpg?v=1775961020
+    Price: $19.99 USD
+  - [Sapphire / 3XL](https://artistryvibes.com/products/statue-splash-unisex-classic-tee?variant=43136166756419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sapphire-front-69db03a627a3e.jpg?v=1775961020
+    Price: $21.99 USD
+- [Personalize it! Youth 'Wear Your Imagination' Blue Flower Face Graphic](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic): XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 A soft, midweight kids tee that turns everyday play into a tiny adventure. Centered on a hand-painted blue flower with a serene, sun-like face and the gentle phrase “Wear your Imagination,” this shirt feels like a quiet reminder to daydream, create, and explore. The classic crew neck and straight fit keep movement easy, while the durable knit and stabilizing shoulder tape hold up to repeated washes and rough-and-tumble days. Ethically grown US cotton gives it a comfortable, lived-in softness that sits well in every season. Let this tee be the small ritual that nudges curiosity — worn to storytime, art classes, park afternoons, or tucked into cozy bedtime routines.Product features- 100% midweight US cotton (5.3 oz/yd²) — soft and breathable for year-round wear- Tubular, side-seam-free construction for a smooth, waste-reducing finish- Ribbed knit collar and shoulder tape for shape retention and durability- DTF/DTG printed design with pearlized tear-away inner labels for comfort- REACH  and Oeko-Tex assurance; age-appropriate sizing for childrenCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium heat- Iron, steam or dry: low heat- Do not dry cleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000B, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For children, Blank product sourced from Bangladesh Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium heat, Iron, steam or dry: low heat, Do not dry clean
+  Updated: 2026-04-12T14:46:13Z
+  Vendor: Printify
+  Product Type: Kids clothes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12431850294505151024_2048.jpg?v=1775961965
+  - [Purple / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185139267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1507716528623747009_2048.jpg?v=1775962029
+    Price: $18.99 USD
+  - [Royal / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185172035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15701518548751518693_2048.jpg?v=1775962018
+    Price: $18.99 USD
+  - [Irish Green / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185204803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13671301905428663750_2048.jpg?v=1775961996
+    Price: $18.99 USD
+  - [Maroon / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185237571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4530188492655777911_2048.jpg?v=1775961985
+    Price: $18.99 USD
+  - [Orange / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185270339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13063954565998288675_2048.jpg?v=1775961980
+    Price: $18.99 USD
+  - [White / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185303107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12431850294505151024_2048.jpg?v=1775961965
+    Price: $18.99 USD
+  - [Cardinal Red / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185335875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6368431335955959579_2048.jpg?v=1775962046
+    Price: $18.99 USD
+  - [Heliconia / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185368643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4901912175266416852_2048.jpg?v=1775962041
+    Price: $18.99 USD
+  - [Light Blue / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185401411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10426711658422142664_2048.jpg?v=1775962012
+    Price: $18.99 USD
+  - [Light Pink / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185434179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1239115163161440136_2048.jpg?v=1775962035
+    Price: $18.99 USD
+  - [Lime / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185466947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4975554671027287527_2048.jpg?v=1775961991
+    Price: $18.99 USD
+  - [Dark Heather / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185499715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15115553442794478159_2048.jpg?v=1775962001
+    Price: $18.99 USD
+  - [Heather Navy / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185532483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15624283473742722299_2048.jpg?v=1775962024
+    Price: $18.99 USD
+  - [Tropical Blue / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185565251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10309290040296350140_2048.jpg?v=1775962007
+    Price: $18.99 USD
+  - [Tennessee Orange / XS](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185598019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9525123533443631739_2048.jpg?v=1775961975
+    Price: $18.99 USD
+  - [Purple / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185630787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1507716528623747009_2048.jpg?v=1775962029
+    Price: $18.99 USD
+  - [Royal / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185663555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15701518548751518693_2048.jpg?v=1775962018
+    Price: $18.99 USD
+  - [Irish Green / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185696323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13671301905428663750_2048.jpg?v=1775961996
+    Price: $18.99 USD
+  - [Maroon / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185729091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4530188492655777911_2048.jpg?v=1775961985
+    Price: $18.99 USD
+  - [Orange / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185761859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13063954565998288675_2048.jpg?v=1775961980
+    Price: $18.99 USD
+  - [White / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185794627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12431850294505151024_2048.jpg?v=1775961965
+    Price: $18.99 USD
+  - [Cardinal Red / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185827395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6368431335955959579_2048.jpg?v=1775962046
+    Price: $18.99 USD
+  - [Heliconia / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185860163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4901912175266416852_2048.jpg?v=1775962041
+    Price: $18.99 USD
+  - [Light Blue / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185892931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10426711658422142664_2048.jpg?v=1775962012
+    Price: $18.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185925699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1239115163161440136_2048.jpg?v=1775962035
+    Price: $18.99 USD
+  - [Lime / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185958467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4975554671027287527_2048.jpg?v=1775961991
+    Price: $18.99 USD
+  - [Dark Heather / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136185991235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15115553442794478159_2048.jpg?v=1775962001
+    Price: $18.99 USD
+  - [Heather Navy / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186024003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15624283473742722299_2048.jpg?v=1775962024
+    Price: $18.99 USD
+  - [Tropical Blue / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186056771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10309290040296350140_2048.jpg?v=1775962007
+    Price: $18.99 USD
+  - [Tennessee Orange / S](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186089539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9525123533443631739_2048.jpg?v=1775961975
+    Price: $18.99 USD
+  - [Purple / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186122307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1507716528623747009_2048.jpg?v=1775962029
+    Price: $18.99 USD
+  - [Royal / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186155075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15701518548751518693_2048.jpg?v=1775962018
+    Price: $18.99 USD
+  - [Irish Green / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186187843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13671301905428663750_2048.jpg?v=1775961996
+    Price: $18.99 USD
+  - [Maroon / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186220611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4530188492655777911_2048.jpg?v=1775961985
+    Price: $18.99 USD
+  - [Orange / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186253379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13063954565998288675_2048.jpg?v=1775961980
+    Price: $18.99 USD
+  - [White / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186286147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12431850294505151024_2048.jpg?v=1775961965
+    Price: $18.99 USD
+  - [Cardinal Red / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186318915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6368431335955959579_2048.jpg?v=1775962046
+    Price: $18.99 USD
+  - [Heliconia / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186351683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4901912175266416852_2048.jpg?v=1775962041
+    Price: $18.99 USD
+  - [Light Blue / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186384451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10426711658422142664_2048.jpg?v=1775962012
+    Price: $18.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186417219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1239115163161440136_2048.jpg?v=1775962035
+    Price: $18.99 USD
+  - [Lime / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186449987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4975554671027287527_2048.jpg?v=1775961991
+    Price: $18.99 USD
+  - [Dark Heather / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186482755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15115553442794478159_2048.jpg?v=1775962001
+    Price: $18.99 USD
+  - [Tropical Blue / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186515523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/10309290040296350140_2048.jpg?v=1775962007
+    Price: $18.99 USD
+  - [Tennessee Orange / M](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186548291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9525123533443631739_2048.jpg?v=1775961975
+    Price: $18.99 USD
+  - [Purple / L](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186581059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1507716528623747009_2048.jpg?v=1775962029
+    Price: $18.99 USD
+  - [Royal / L](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186613827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15701518548751518693_2048.jpg?v=1775962018
+    Price: $18.99 USD
+  - [Irish Green / L](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186646595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13671301905428663750_2048.jpg?v=1775961996
+    Price: $18.99 USD
+  - [Maroon / L](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186679363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4530188492655777911_2048.jpg?v=1775961985
+    Price: $18.99 USD
+  - [Orange / L](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186712131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13063954565998288675_2048.jpg?v=1775961980
+    Price: $18.99 USD
+  - [White / L](https://artistryvibes.com/products/personalize-it-youth-wear-your-imagination-blue-flower-face-graphic?variant=43136186744899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12431850294505151024_2048.jpg?v=1775961965
+    Price: $18.99 USD
+- [18K White Gold Bracelet](https://artistryvibes.com/products/18k-white-gold-bracelet): ✨ Introducing our stunning 18K White Gold Bracelet—a timeless and elegant accessory that adds a touch of sophistication to any ensemble. Crafted with exquisite craftsmanship and attention to detail, this bracelet is the epitome of luxury and style. 💎 Made from high-quality 18K white gold, this bracelet features a sleek and polished finish that catches the light beautifully, adding a subtle sparkle to your wrist. Whether worn alone as a statement piece or layered with other bracelets for a more personalized look, it's sure to make a lasting impression wherever you go. 🔒 But that's not all—our 18K White Gold Bracelet is also designed for durability and longevity. With its sturdy construction and timeless design, it's the perfect accessory to cherish for years to come. Plus, with its adjustable length and secure clasp, it offers a comfortable fit that's perfect for everyday wear. 🌟 Whether you're dressing up for a special occasion or adding a touch of elegance to your everyday look, our 18K White Gold Bracelet is the perfect choice. With its timeless design and luxurious finish, it's sure to become a cherished addition to your jewelry collection. 💫 Experience the beauty and elegance of our 18K White Gold Bracelet. Embrace the luxury of fine jewelry and elevate your style to new heights with this exquisite accessory. So why wait? Treat yourself or someone special to the gift of timeless elegance with our stunning bracelet today!
+  Updated: 2026-04-12T15:22:36Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4K13r8aodRTl5b2.webp?v=1775964152
+  - [7 Inch](https://artistryvibes.com/products/18k-white-gold-bracelet?variant=43136236486723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1zCCt4t7ySfXE5yHMU3Q.webp?v=1775964152
+    Price: $11.99 USD
+  - [9 Inch](https://artistryvibes.com/products/18k-white-gold-bracelet?variant=43136236519491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1zCCt4t7ySfXE5yHMU3Q.webp?v=1775964152
+    Price: $12.99 USD
+  - [8 Inch](https://artistryvibes.com/products/18k-white-gold-bracelet?variant=43136236552259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1zCCt4t7ySfXE5yHMU3Q.webp?v=1775964152
+    Price: $11.99 USD
+- [Amanda Necklace](https://artistryvibes.com/products/amanda-necklace): Thick Matte gold chain with a big crystal drop in the center and two smaller drops on each side. Matching Earrings included.Length: 21"
+  Updated: 2026-04-12T15:22:40Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/yJArYus4X8vOTE5.webp?v=1775964155
+  - [Citric](https://artistryvibes.com/products/amanda-necklace?variant=43136236585027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/UO5zMCo61GrFkmS.webp?v=1775964155
+    Price: $27.99 USD
+  - [Violet](https://artistryvibes.com/products/amanda-necklace?variant=43136236617795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/ms0uxWk3sUoGoZn.webp?v=1775964155
+    Price: $27.99 USD
+- [Andy Earrings](https://artistryvibes.com/products/andy-earrings): ✨ A classic design with a modern size. 💎 The Andy Earrings are the perfect make-a-statement pair. 🔶 Gold plated. 📏 Length: 2"📏 Height: 2.5"
+  Updated: 2026-04-12T15:22:41Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/0xMVNhZUCDqfWPZ.webp?v=1775964157
+  Price: $21.99 USD
+- [Annette Earrings](https://artistryvibes.com/products/annette-earrings): ✨ The Annette Huggies were made with stacking in mind. 🔄 The perfect size for mixing and matching all the way up the lobe. 💛 Made from 18K gold vermeil. 📏 Outside Diameter: 19mm📏 Huggie Width: 2mm⚖️ Weight: 0.01 oz
+  Updated: 2026-04-12T15:22:43Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/uJ4d53RnmoVntgU.webp?v=1775964159
+  - [Gold](https://artistryvibes.com/products/annette-earrings?variant=43136236683331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/YrcVvkpV1yYu5wM.webp?v=1775964159
+    Price: $30.99 USD
+  - [Silver](https://artistryvibes.com/products/annette-earrings?variant=43136236716099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/KlQxvdoMRyEVKgJ.webp?v=1775964159
+    Price: $30.99 USD
+- [Astral Necklace Rose](https://artistryvibes.com/products/astral-necklace-rose): 🌟 A must-have: handmade oil dripping pendant with a modern chic flair. 🌙 A delicate chain holds this uneven coin featuring a new moon symbol, believed to empower important work decisions. 🔶 Material: 14K gold plated copper. 📏 Length: 16"📏 Chain Extender: 2"
+  Updated: 2026-04-12T15:22:45Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/Hf6UKhd860pOGNI.webp?v=1775964161
+  Price: $24.99 USD
+- [Aura Earrings](https://artistryvibes.com/products/aura-earrings): ✨ Stay on trend with these gold and silver plated thick hoops. 📏 Drop: 1.9 in 🔩 Materials: 100% Metal 🛡️ Care Instructions:Avoid contact with water, lotion, and perfume.🚫 Never keep your jewelry in the bathroom as vapor and humidity are the enemies!🧽 Clean gently with a polishing cloth.
+  Updated: 2026-04-12T15:22:50Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/oeIVMqgJasSA3Oc.webp?v=1775964164
+  - [Gold](https://artistryvibes.com/products/aura-earrings?variant=43136236781635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/fNzqd3wJ7rXZMZL.webp?v=1775964164
+    Price: $21.99 USD
+  - [Silver](https://artistryvibes.com/products/aura-earrings?variant=43136236814403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/pP7YMigUEfqJbKO.webp?v=1775964163
+    Price: $21.99 USD
+- [Berry Necklace](https://artistryvibes.com/products/berry-necklace): ✨ Gold plated chain ending in a stunning elongated druzy drop.📏 Length: 31.5" 🔩 Materials: 100% Metal / Stone 🛡️ Care Instructions:Avoid contact with water, lotion, and perfume.🧽 Clean gently with a polishing cloth.
+  Updated: 2026-04-12T15:22:50Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1d2wGO5REbwx0V1.webp?v=1775964165
+  Price: $17.99 USD
+- [Bubbly Earrings](https://artistryvibes.com/products/bubbly-earrings): ✨ Delicate gold plated large hoops covered in various sizes of round gold beads to create a fun texture. Post back. 📏 Inside Diameter: 1.7", Width: 0.4" 🔩 Materials: 100% Metal 🛡️ Care Instructions:Avoid contact with water, lotion, and perfume.🚫 Never keep your jewelry in the bathroom as vapor and humidity are the enemies!🧽 Clean gently with a polishing cloth.
+  Updated: 2026-04-12T15:22:52Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5OhYxWLRZiToWBl.webp?v=1775964168
+  Price: $15.99 USD
+- [Circle Bracelet](https://artistryvibes.com/products/circle-bracelet): ✨ Elegant Circle Bracelet for Timeless StyleDiscover elegance with this Circle Bracelet, a perfect addition to your jewelry collection. Its timeless design exudes sophistication, making it ideal for both casual and formal occasions. 🤝 Cherish Your Bonds with Friendship BraceletsCelebrate friendship with our Circle Bracelet, symbolizing lasting bonds and meaningful connections. It's a heartfelt gift that embodies love and companionship, perfect for showing appreciation to your loved ones. 💍 Capture Hearts with the Perfect Wedding GiftMake hearts flutter with our Circle Bracelet, a stunning choice as a wedding gift. Its delicate design and symbolic meaning of unity make it a memorable  for the bride, groom, or bridal party. 🔗 Stack Up Your Style with Joint Circle Stacking BraceletStack up your style effortlessly with our Joint Circle Stacking Bracelet. Its versatile charm adds a touch of chic to any outfit, whether worn alone or layered with other bracelets.
+  Updated: 2026-04-12T15:22:54Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/fRHLjMaZ4LBJAHB.webp?v=1775964170
+  - [Silver](https://artistryvibes.com/products/circle-bracelet?variant=43136236912707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/uHrRz0E5ZzIYFkH.webp?v=1775964170
+    Price: $8.99 USD
+  - [Gold](https://artistryvibes.com/products/circle-bracelet?variant=43136236945475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/k8SmOVcCbsbuS2Y.webp?v=1775964170
+    Price: $8.99 USD
+- [Clavicle Chain Butterfly Necklace](https://artistryvibes.com/products/clavicle-chain-butterfly-necklace): ✨ Elevate your style with our enchanting Butterfly Necklace – a whimsical and elegant accessory that adds a touch of charm to any outfit. Crafted from 925 sterling silver, the pendant features intricate detailing and is delicately inlaid with sparkling crystals, ensuring it catches the light and dazzles with every movement. 🦋 The hollow butterfly design is both delicate and eye-catching, making it a captivating addition to your jewelry collection. Plus, the adjustable necklace allows you to customize the length, ensuring the perfect fit for your neckline. 🌟 Whether you're dressing up for a special occasion or simply adding a playful accent to your everyday look, this necklace is sure to make a statement and turn heads wherever you go. Embrace the whimsy and elegance of our Butterfly Necklace and let your style take flight!
+  Updated: 2026-04-12T15:22:57Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/eU2efWhQZR7tMSp.webp?v=1775964172
+  Price: $14.99 USD
+- [Cube Earrings](https://artistryvibes.com/products/cube-earrings): 💎 Square crystal drop earrings. Available in gold or silver plated.
+  Updated: 2026-04-12T15:22:59Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2KN8mudCYOunLML.webp?v=1775964174
+  - [Silver/Serenity](https://artistryvibes.com/products/cube-earrings?variant=43136237011011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/Pamx0dswzaw9wsE.webp?v=1775964174
+    Price: $17.99 USD
+  - [Silver/Royal Blue](https://artistryvibes.com/products/cube-earrings?variant=43136237043779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7VLSMPVtJsaoRbM.webp?v=1775964175
+    Price: $17.99 USD
+  - [Gold/Red](https://artistryvibes.com/products/cube-earrings?variant=43136237076547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/ZNVHMJ4LuxffVRb.webp?v=1775964175
+    Price: $17.99 USD
+  - [Silver/Lt.Green](https://artistryvibes.com/products/cube-earrings?variant=43136237109315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/LsSZPNKTEVGXNGP.webp?v=1775964175
+    Price: $17.99 USD
+  - [Gold/Berry](https://artistryvibes.com/products/cube-earrings?variant=43136237142083)
+    Availability: Available
+    Price: $17.99 USD
+- [Milla Bracelet](https://artistryvibes.com/products/milla-bracelet): 🔗 Stainless Steel bracelet with cubic zirconia all around it. Adjustable and secure pull closure (a piece can be removed to shorten the bracelet). 💛 18K Gold vermeil.
+  Updated: 2026-04-12T15:23:01Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/R9ePAC2ifE9rGw7.webp?v=1775964177
+  Price: $66.99 USD
+- [Pearl Necklace](https://artistryvibes.com/products/pearl-necklace): ✨ Elevate Your Style with Our Elegant Pearl Beaded Necklace! 💎 Enhance any ensemble effortlessly with our exquisite Pearl Beaded Necklace. Crafted to perfection, this necklace exudes sophistication with its lustrous pearl beads and dazzling rhinestone heart pendant, adding a touch of glamour to every outfit. 🎉 Perfect for any occasion, whether it's a formal event or simply wanting to feel extra special, this necklace promises to elevate your look and make you feel absolutely fabulous. 📏 Specifications:- Metals Type: Zinc Alloy 🌟 Indulge in elegance and radiate confidence with our Pearl Beaded Necklace. Order yours today and make every moment unforgettable!
+  Updated: 2026-04-12T15:23:04Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/NDE9rgV8LkGZ3jN.webp?v=1775964179
+  Price: $8.99 USD
+- [Pixie Earrings](https://artistryvibes.com/products/pixie-earrings): 🎸 Get ready to rock the edgy look without the commitment – introducing the piercing-free Mona Ear Cuff and Nose Ring! This U-shaped nose clip is the epitome of creativity and personalization. No piercing? No problem! Just clip it on for an instant style upgrade. Rock the look, feel the vibe, and redefine cool with this nose ring ear cuff that's got personality for days! 📏 Height: 0.7"📏 Length: 0.7" 🔩 Material: Gold Plated Copper
+  Updated: 2026-04-12T15:23:06Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/r7iFQFlPW4qjSjG.webp?v=1775964181
+  - [Gold](https://artistryvibes.com/products/pixie-earrings?variant=43136237240387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/QKCueLeVVBV8hO2.webp?v=1775964181
+    Price: $27.99 USD
+  - [Silver](https://artistryvibes.com/products/pixie-earrings?variant=43136237273155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/PLgyiflncrMekYp.webp?v=1775964181
+    Price: $27.99 USD
+- [Bead Chain Necklace](https://artistryvibes.com/products/bead-chain-necklace): 💎 Presenting a feminine classic: a simple and dainty .925 sterling silver Ball bead chain. 📏 This thin, 0.70 millimeter wide chain fastens securely with a standard spring ring clasp. 🔗 It can replace most chains and is perfect paired with small to medium size pendants. ⚠️ Please keep in mind this chain is slender and delicate, best used for smaller/lighter pendants. ❌ Not recommended for heavy pendants.
+  Updated: 2026-04-12T15:23:08Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/g98IYSx9Mco9SIr.webp?v=1775964184
+  Price: $55.99 USD
+- [Bridal Ring Set](https://artistryvibes.com/products/bridal-ring-set): 💍 Indulge in the mesmerizing allure of this .925 Sterling Silver Bridal Set Ring and Band. 🔨 Crafted with utmost precision, this Elegant Collection piece showcases a captivating swirl and bypass design, symbolizing eternal love and commitment. 💎 Adorned with 13 round-cut diamonds, totaling 1/10 cttw, the shimmering I-J color diamonds effortlessly enhance your natural beauty. 🔧 Set in a prong setting, these natural diamonds exude a radiant glow. 🌟 With its exquisite craftsmanship and I3 clarity, this stunning piece is tailored for the discerning woman who seeks both elegance and sophistication. ✨ Elevate your style and make a statement with this enchanting bridal set.
+  Updated: 2026-04-12T15:23:11Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/ZUmVXvATrqh4M0R.webp?v=1775964186
+  - [Yellow / 10](https://artistryvibes.com/products/bridal-ring-set?variant=43136237338691)
+    Availability: Available
+    Price: $201.99 USD
+  - [Yellow / 11](https://artistryvibes.com/products/bridal-ring-set?variant=43136237371459)
+    Availability: Available
+    Price: $201.99 USD
+  - [Yellow / 12](https://artistryvibes.com/products/bridal-ring-set?variant=43136237404227)
+    Availability: Available
+    Price: $201.99 USD
+  - [Yellow / 5](https://artistryvibes.com/products/bridal-ring-set?variant=43136237436995)
+    Availability: Available
+    Price: $201.99 USD
+  - [Yellow / 6](https://artistryvibes.com/products/bridal-ring-set?variant=43136237469763)
+    Availability: Available
+    Price: $201.99 USD
+- [Floral Stud Earring](https://artistryvibes.com/products/floral-stud-earring): 💎 These delicate stud earrings have a unique design. 🔨 Crafted in sterling silver, these earrings showcase 1/3ct TDW of promo quality diamonds. 💠 7 round cut diamonds sit at the center of a circular stud, surrounded by a silver halo. 🌟 Shimmering on the sides of the design, additional round diamonds adorn the studs. 🔒 A push back mechanism keeps the earring secure and you worry free. ⚠️ Promo quality diamonds are on the lowest of diamond color and quality scale. 🔮 Round-cut, promo quality diamonds are milky and cloudy in nature. 🔸 They have an asymmetrical ball shape and are filled with inclusions.
+  Updated: 2026-04-12T15:23:13Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/p1DAitV8lKYEhQP.webp?v=1775964188
+  Price: $151.99 USD
+- [Arrowhead Open Ring](https://artistryvibes.com/products/arrowhead-open-ring): 💍 Embark on a journey of style and symbolism with our Diamond Double Arrowhead Open Ring. 🔨 Crafted from .925 sterling silver, this ring embodies both elegance and strength. 💎 Adorned with 34 natural round diamonds totaling 1/5 carats, each diamond is delicately set in a secure prong setting. 🌟 The captivating I-J color diamonds, though with I2-I3 clarity, exude a subtle sparkle that adds a touch of glamour to any look. 🏹 The double arrowhead design symbolizes direction and purpose, making this ring not just a beautiful accessory, but also a meaningful adornment. 🎁 Whether as a statement piece or a thoughtful gift, this arrow ring is a testament to timeless style and individuality. ✨ Elevate your ensemble with the enchanting allure of diamonds and embrace the spirit of adventure with this exquisite ring.
+  Updated: 2026-04-12T15:23:15Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7S5MMLUSp9IUZbI.webp?v=1775964190
+  - [5](https://artistryvibes.com/products/arrowhead-open-ring?variant=43136237535299)
+    Availability: Available
+    Price: $206.99 USD
+  - [6](https://artistryvibes.com/products/arrowhead-open-ring?variant=43136237568067)
+    Availability: Available
+    Price: $206.99 USD
+  - [7](https://artistryvibes.com/products/arrowhead-open-ring?variant=43136237600835)
+    Availability: Available
+    Price: $206.99 USD
+  - [8](https://artistryvibes.com/products/arrowhead-open-ring?variant=43136237633603)
+    Availability: Available
+    Price: $206.99 USD
+  - [9](https://artistryvibes.com/products/arrowhead-open-ring?variant=43136237666371)
+    Availability: Available
+    Price: $206.99 USD
+- [Pendant Necklace](https://artistryvibes.com/products/pendant-necklace): 💖 This gorgeous "love" pendant necklace spells out your devotion in sparkling cursive script. 💎 Genuine .925 sterling silver forms the word "love" and round white diamonds sit nested within from prong settings to enhance the look with sparkling luxury. ✨ These radiant diamonds total 1/5 cttw with an approximate I-J Color and I2-I3 Clarity. 🔗 The contemporary rolo chain secures around the neck with a spring ring clasp and complements the neckline with an 18" length.
+  Updated: 2026-04-12T15:23:17Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/X3fl444alhwZZGI.webp?v=1775964192
+  Price: $166.99 USD
+- [14K Yellow Gold Plated .925 Sterling Silver 1/4 Cttw Diamond 3 Stone Trio 18" Pendant Necklace (J-K Color, I1-I2 Clarity)](https://artistryvibes.com/products/14k-yellow-gold-plated-925-sterling-silver-1-4-cttw-diamond-3-stone-trio-18-pendant-necklace-j-k-color-i1-i2-clarity): 💫 Adorn yourself with this beautiful 3-stone pendant and add some glamour to your everyday wear. 🌟 Petite and elegant, this 14k yellow gold plated .925 sterling silver necklace is embellished with 3 natural, round-cut diamonds in a prong setting. 🔗 The central motif hangs off of an 18" inch cable chain. ✨ This pendant will be your go-to piece for all seasons.
+  Updated: 2026-04-12T15:23:20Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/8FRDfvXbHr9M4gD.webp?v=1775964194
+  Price: $171.99 USD
+- [14K Yellow Gold Plated .925 Sterling Silver 1/7 Cttw Diamond Miracle Set Stud Earrings (I-J Color, I3 Promo Clarity)](https://artistryvibes.com/products/14k-yellow-gold-plated-925-sterling-silver-1-7-cttw-diamond-miracle-set-stud-earrings-i-j-color-i3-promo-clarity): 💎 These striking cluster diamond earrings are made in 14k yellow gold plated sterling silver and feature 1/7ct TDW of promo quality round cut diamonds. 🌟 Each earring features 7 miracle-set shimmering diamonds that create a flower-shaped cluster. 🔶 The side of each earring is adorned with beaded yellow gold ribbons that create a soft wave pattern. ⚠️ Promo quality diamonds are on the lowest of diamond color and quality scale. Round-cut, promo quality diamonds are milky and cloudy in nature. They have an asymmetrical ball shape and are filled with inclusions.
+  Updated: 2026-04-12T15:23:22Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/KUzFkw7zE7nIJsv.webp?v=1775964197
+  Price: $124.99 USD
+- [14K Yellow Gold Plated .925 Sterling Silver Diamond Accent Ribbon & Heart 18" Pendant Necklace (H-I Color, I2-I3 Clarity)](https://artistryvibes.com/products/14k-yellow-gold-plated-925-sterling-silver-diamond-accent-ribbon-heart-18-pendant-necklace-h-i-color-i2-i3-clarity): 💖 Show that someone special how much you love them with this beautiful, gold-tone diamond heart pendant necklace. ✨ This piece features 2 alternating bands of metal set with sparkling, natural diamonds, with a silver flourish in the middle. 🔨 The genuine .925 sterling silver is beautifully plated with sparkling 14k yellow gold. 💎 The diamonds are round-cut, natural stones embellished in a classic prong setting. 📏 Comes with an 18-inch chain.
+  Updated: 2026-04-12T15:23:23Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/vqFpvfJb9SnHiW9.webp?v=1775964199
+  Price: $176.99 USD
+- [14K Yellow Gold Plated .925 Sterling Silver Round-Cut Diamond Accent Cross Bypass 18" Pendant Necklace (H-I Color, I2-I3 Clarity)](https://artistryvibes.com/products/14k-yellow-gold-plated-925-sterling-silver-round-cut-diamond-accent-cross-bypass-18-pendant-necklace-h-i-color-i2-i3-clarity): 💖 Make her special day an unforgettable one by presenting her this dazzling pendant. 🔨 Fashioned in a swirl shape, this neck piece is crafted of yellow-plated sterling silver. 💎 It is beautifully accented with round cut diamonds that are arranged in a pave setting. 🎉 Formal or casual, she will love to wear this piece of jewelry on every special occasion.
+  Updated: 2026-04-12T15:23:26Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/vJHEnLYD6adgOCa.webp?v=1775964201
+  Price: $154.99 USD
+- [18K Yellow Gold Plated .925 Sterling Silver Diamond Cross Ring with Satin Finish (I-J Color, SI1-SI2 Clarity)](https://artistryvibes.com/products/18k-yellow-gold-plated-925-sterling-silver-diamond-cross-ring-with-satin-finish-i-j-color-si1-si2-clarity): 💍 In an exquisite marriage of spirituality and luxury, this ring stands as a beacon of sophistication. 🔗 The design features intertwined sterling silver bands, each graced with a rope-like texture that whispers tales of unity and strength. 🌟 At the center, a medallion of sterling silver, bathed in 18k yellow gold, glows with a warm, inviting finish. ✨ Its border, adorned with milgrain details, adds a touch of vintage elegance, encapsulating a heart-shaped cluster of diamonds. 💎 These natural, round-cut gems, arranged in a pavé setting, sparkle with an I-J color and SI1-SI2 clarity, offering a mesmerizing display of light. 🔷 The unique cross-shaped diamond arrangement against the satin polished gold creates a piece that's not just jewelry, but a testament to faith and craftsmanship. 🌟 This ring is for those who seek to weave the essence of luxury and spirituality into their lives, making it an ideal symbol of love or a distinguished addition to any collection.
+  Updated: 2026-04-12T15:23:29Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/jS95Yq6zqW5kRqH.webp?v=1775964204
+  - [6](https://artistryvibes.com/products/18k-yellow-gold-plated-925-sterling-silver-diamond-cross-ring-with-satin-finish-i-j-color-si1-si2-clarity?variant=43136237895747)
+    Availability: Available
+    Price: $196.99 USD
+  - [7](https://artistryvibes.com/products/18k-yellow-gold-plated-925-sterling-silver-diamond-cross-ring-with-satin-finish-i-j-color-si1-si2-clarity?variant=43136237928515)
+    Availability: Available
+    Price: $196.99 USD
+  - [8](https://artistryvibes.com/products/18k-yellow-gold-plated-925-sterling-silver-diamond-cross-ring-with-satin-finish-i-j-color-si1-si2-clarity?variant=43136237961283)
+    Availability: Available
+    Price: $196.99 USD
+- [Rectangle Hoop Earrings](https://artistryvibes.com/products/rectangle-hoop-earrings): ✨ Wrap your ears in the fashion-forward allure of hoop earrings, a timeless accessory that never goes out of style. 🌟 The Pillow Hoops offer a modern twist on the traditional hoop design, adding a hint of glamour to your ensemble. 🔗 Designed for those who appreciate subtle yet distinctive jewelry, these earrings boast a versatile 1.25" length that complements any outfit, whether casual or formal. 🔶 Gold plated 📏 1.25" length
+  Updated: 2026-04-12T15:23:30Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/bKyJuTfIsfgjD2I.webp?v=1775964206
+  Price: $10.99 USD
+- [Dual Cuff Bracelet Set](https://artistryvibes.com/products/dual-cuff-bracelet-set): ✨ Elevate your style with our Crystal Glass Dual Cuff Bracelet Set! 🌟 Perfect for making a bold statement or adding a touch of elegance to any outfit. 🔨 Each cuff boasts radiant gold plating and dazzling crystal glass rhinestones, crafted with meticulous attention to detail.
+  Updated: 2026-04-12T15:23:33Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/TIV9D1dLLOKsZKZ.webp?v=1775964209
+  Price: $10.99 USD
+- [Stainless Steel Slider Bracelet -Rose Gold](https://artistryvibes.com/products/stainless-steel-slider-bracelet-rose-gold): ✨ Let your charms slide right on this Stainless Steel, adjustable mesh bracelet. 🔒 To keep your slider charms just where you want them, we have included 2 durable, elastic slide stoppers. 🌟 Available in Silver, Gold, Rose Gold, and Black. 📏 10mm wide 🔗 8.3" long with adjustable buckle closure 🔶 Stainless Steel 🔹 Silver ionic plating 🛡️ 2 elastic slide stoppers to hold your charms in place included 🚫 Lead and nickel free
+  Updated: 2026-04-12T15:23:34Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9LzWTI9FVQTT8ee.webp?v=1775964210
+  Price: $18.99 USD
+- [The Lover Bracelet](https://artistryvibes.com/products/the-lover-bracelet): ✨ Our best- charm bracelet, now as a stack of 4! 🌟 Each bracelet is hand-beaded on high-performance elastic for a slight stretch to easily roll on and off your wrist. 💖 Made of 2mm beads, each with 2 enamel-filled heart charms on opposing sides, making it easy to select the group of colors you want to show off that day. 🎨 Wear just one to match the color of your outfit or wear them all to make a colorful statement. 📏 Length: 7" 🔗 Clear elastic 💎 Enamel-filled charms 🌿 Hypoallergenic
+  Updated: 2026-04-12T15:23:36Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/T8FMevJjEWogVl1.webp?v=1775964212
+  Price: $48.99 USD
+- [Vintage Inspired Crystal Glass Rhinestone Statement Cocktail Ring](https://artistryvibes.com/products/vintage-inspired-crystal-glass-rhinestone-statement-cocktail-ring): ✨ The centerpiece of this ring features a large crystal glass stone surrounded by a beautiful faux pearl edge, creating a captivating blend of elegance and charm. 🌟 The gold-plated band adds a touch of luxury, making this ring a must-have for anyone who loves to make a statement with their jewelry. 📏 Size 7 🔶 Gold plated 💎 Crystal glass rhinestones
+  Updated: 2026-04-12T15:23:42Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/K5rwVaUUBFB0oyR.webp?v=1775964217
+  Price: $8.99 USD
+- [Nordic Ceramic Vases](https://artistryvibes.com/products/nordic-ceramic-vases): 🌿 Elevate Your Home Decor with Nordic-Style Ceramic Vases! ✨ Crafted with meticulous attention to detail, these minimalist vases exude elegance and sophistication, adding a touch of refinement to any space, whether large or small. 🎨 Unique Design for Unparalleled Charm 🌸 Indulge in the beauty of unique design as our vases infuse your surroundings with unparalleled personality and charm. Perfect for creating a standout centerpiece in any room. ⚡ Limited Quantities Available – Act Now! ⏳ Hurry, quantities are limited! And for our returning customers, don’t forget to reach out for an exclusive  on your next order. 🏡 Versatile and Durable 💪 Designed for both indoor and outdoor use, each vase boasts durability and longevity, ensuring they enhance your decor for years to come. 📏 Please Note: 🖥️ Slight chromatic aberration may occur due to lighting and monitor settings. 🌺 Discover the perfect centerpiece for your home with our exquisite ceramic vases. Explore our collection now and bring a touch of timeless beauty to your living space.
+  Updated: 2026-04-12T15:30:37Z
+  Vendor: Home Decor Images V2
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/lbwUYwSMACIspE4.webp?v=1775964631
+  - [Tall Black](https://artistryvibes.com/products/nordic-ceramic-vases?variant=43136241926211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/cCKGDafrpNymqzE.webp?v=1775964631
+    Price: $16.99 USD
+  - [Short Black](https://artistryvibes.com/products/nordic-ceramic-vases?variant=43136241958979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/Zal5dNwXEopJc68.webp?v=1775964631
+    Price: $17.99 USD
+  - [Mint Green](https://artistryvibes.com/products/nordic-ceramic-vases?variant=43136241991747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/vBsG3DYWOf1x903.webp?v=1775964631
+    Price: $17.99 USD
+  - [Light Brown](https://artistryvibes.com/products/nordic-ceramic-vases?variant=43136242024515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/xCuOneIW2OYpTQI.webp?v=1775964631
+    Price: $21.99 USD
+  - [Pink](https://artistryvibes.com/products/nordic-ceramic-vases?variant=43136242057283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/xte7BFks7bEkGxJ.webp?v=1775964631
+    Price: $18.99 USD
+- [Sculpture Vase](https://artistryvibes.com/products/sculpture-vase): Elevate your home decor with our Home Decor Sculpture Ceramic Vase, a captivating blend of functionality and artistic expression.🏺 Sculptural Design: A unique and eye-catching ceramic vase that doubles as a decorative sculpture.🎨 Artistic Expression: Adds a touch of modern art to your space, enhancing the overall aesthetic.💐 Functional Vase: Ideal for displaying flowers, branches, or decorative items, bringing nature indoors.🌟 Contemporary Elegance: Combines modern design with traditional craftsmanship for a timeless appeal.
+  Updated: 2026-04-12T15:30:39Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/v6LCyaItVnLgAC8_226b9a84-6a39-445d-a77c-68b02156efa2.webp?v=1775964634
+  - [Muse Form](https://artistryvibes.com/products/sculpture-vase?variant=43136242090051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/iyhY5aSwHtLG8Ql.webp?v=1775964634
+    Price: $31.99 USD
+  - [Eterna Twin](https://artistryvibes.com/products/sculpture-vase?variant=43136242122819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/fMLYBW2vDmWJuxw.webp?v=1775964634
+    Price: $37.99 USD
+  - [Seraph Curve](https://artistryvibes.com/products/sculpture-vase?variant=43136242155587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/vR40zDBHrBX1Rx9.webp?v=1775964634
+    Price: $24.99 USD
+  - [Auric Poise](https://artistryvibes.com/products/sculpture-vase?variant=43136242188355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/wCDtoaUpXPiNC2U_29c8e94f-31a8-4cd7-abe0-7cfe8c99e2b9.webp?v=1775964634
+    Price: $29.99 USD
+- [Magic Plant Light](https://artistryvibes.com/products/magic-plant-light): Transform your indoor plants with our Magic Plant Light, providing the ideal light spectrum for healthy and vibrant growth.🌈 Full Spectrum Lighting: Mimics natural sunlight to support optimal plant growth and flowering.💡 Adjustable Brightness: Customize the light intensity to suit different plant varieties and growth stages.🌿 Energy-Efficient LED: Provides bright illumination while being energy-efficient and cost-effective.🌟 Stylish Design: Sleek and modern design complements your indoor plant display with a touch of elegance.
+  Updated: 2026-04-12T15:30:41Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/roO8a2Zey9A7OQj.webp?v=1775964636
+  Price: $41.99 USD
+- [Succulent Pots](https://artistryvibes.com/products/succulent-pots): Showcase your succulents in style with our Succulent Pots & Bamboo Shelf, a perfect blend of functionality and natural elegance.🎋 Bamboo Shelf: Provides a charming and eco-friendly display for your succulent collection.🌱 Removable Pots: Individual pots can be easily removed for watering or rearranging your succulents.🌿 Natural Materials: Crafted from bamboo and ceramic, adding a touch of nature to your space.🌼 Compact Design: Ideal for small spaces, windowsills, or as a centerpiece for your tabletop.
+  Updated: 2026-04-12T15:30:43Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/f9jB48jTNx4TFey.webp?v=1775964638
+  Price: $25.99 USD
+- [Glass and Wood Vase Planter Table Desktop](https://artistryvibes.com/products/glass-and-wood-vase-planter-table-desktop): Bring the beauty of nature indoors with our Glass and Wood Vase Planter Table Desktop, a stylish fusion of glass, wood, and greenery.🌿 Dual Material Design: Combines a glass vase, wooden base, and greenery for a visually appealing composition.🪴 Indoor Greenery: Perfect for small plants or decorative branches, adding a touch of nature to your table.🌟 Stylish Decor: Enhances the aesthetics of your tabletop or desktop with its modern and natural design.🏡 Versatile Placement: Ideal for living rooms, offices, or any space in need of a refreshing and elegant accent.
+  Updated: 2026-04-12T15:30:45Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1aqGiDlDD4nMaO6.webp?v=1775964641
+  - [Brown / S-13.8x16cm](https://artistryvibes.com/products/glass-and-wood-vase-planter-table-desktop?variant=43136242352195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/FwyDlY3Z1ZQC1It.webp?v=1775964641
+    Price: $11.99 USD
+  - [Brown / L-13.8X28cm](https://artistryvibes.com/products/glass-and-wood-vase-planter-table-desktop?variant=43136242384963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/wQBUqBmrQsvfTVa.webp?v=1775964640
+    Price: $15.99 USD
+  - [Brown / M-13.8x21.5cm](https://artistryvibes.com/products/glass-and-wood-vase-planter-table-desktop?variant=43136242417731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/zSxh5upDuzWAqxx.webp?v=1775964641
+    Price: $14.99 USD
+- [Disco Ball Flower Hanging Vase](https://artistryvibes.com/products/disco-ball-flower-hanging-vase): Turn your space into a dance of light and flowers with our Disco Ball Flower Hanging Vase, a unique and vibrant addition to your decor.🎉 Disco Ball Vase: Features a hanging vase with a disco ball design, adding a touch of fun and flair.🌈 Vibrant Decor: Perfect for showcasing colorful flowers or greenery, creating a lively and dynamic display.🎊 Playful Design: Adds a sense of celebration and joy to your space, making it a conversation starter.🎀 Versatile Hanging: Ideal for ceilings, porches, or any area where you want to elevate your decor.
+  Updated: 2026-04-12T15:30:47Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/kQKX5kVSUQzmC02.webp?v=1775964643
+  - [Sliver 20](https://artistryvibes.com/products/disco-ball-flower-hanging-vase?variant=43136242450499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/MdYhutESnt46PlF.webp?v=1775964643
+    Price: $22.99 USD
+  - [Sliver 10](https://artistryvibes.com/products/disco-ball-flower-hanging-vase?variant=43136242483267)
+    Availability: Available
+    Price: $12.99 USD
+  - [Sliver 15](https://artistryvibes.com/products/disco-ball-flower-hanging-vase?variant=43136242516035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/hSu4z7Xx4jrI4qJ.webp?v=1775964643
+    Price: $16.99 USD
+  - [Sliver 25](https://artistryvibes.com/products/disco-ball-flower-hanging-vase?variant=43136242548803)
+    Availability: Available
+    Price: $23.99 USD
+- [Newton Pendulum Miniature Physics Decor](https://artistryvibes.com/products/newton-pendulum-miniature-physics-decor): 🔭 Introducing our "Newton Pendulum Miniature Physics Decor" – a delightful blend of fun and fascination for your space! This miniature decor piece isn't just an ornament; it's a captivating nod to the principles of physics that adds a touch of whimsy and wonder to any room. ⚙️ Captivating Physics in Miniature:Bring the beauty of physics into your home with our Newton Pendulum Miniature! Watch as the pendulum swings gracefully, demonstrating the timeless principles of momentum and gravity in action. 📚 Educational and Entertaining:Inspire curiosity and fascination with our miniature physics decor! Perfect for science enthusiasts of all ages, it provides a hands-on way to learn about the laws of motion while adding a touch of charm to your space. 🎁 The Perfect Gift for Science Lovers:Looking for a gift that's as fun as it is educational? Our Newton Pendulum Miniature is the ideal choice! Surprise the science lover in your life with this captivating decor piece that's sure to spark joy and curiosity. ✨ Add a Touch of Whimsy:Transform any room into a place of wonder with our miniature decor! Whether it's displayed on a desk, shelf, or tabletop, it adds a whimsical touch that's sure to spark conversation and admiration. 🏆 Quality Craftsmanship, Timeless Appeal:Crafted with care and attention to detail, our miniature physics decor boasts quality craftsmanship and timeless appeal. It's a charming addition to any home or office space that's sure to be cherished for years to come. Elevate your decor with our "Newton Pendulum Miniature Physics Decor" – because who says science can't be stylish and fun? Order now and add a dash of fascination to your space! 🌟
+  Updated: 2026-04-12T15:30:50Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/BeDQg5oCrI7kqiN.webp?v=1775964645
+  - [Black and Silver / Style 1](https://artistryvibes.com/products/newton-pendulum-miniature-physics-decor?variant=43136242581571)
+    Availability: Available
+    Price: $15.99 USD
+  - [Black and Silver / Style 2](https://artistryvibes.com/products/newton-pendulum-miniature-physics-decor?variant=43136242614339)
+    Availability: Available
+    Price: $15.99 USD
+  - [Black and Silver / Style 3](https://artistryvibes.com/products/newton-pendulum-miniature-physics-decor?variant=43136242647107)
+    Availability: Available
+    Price: $15.99 USD
+- [Nordic Glass Flower Vase Decor](https://artistryvibes.com/products/nordic-glass-flower-vase-decor): ✨ Transform Your Space with EleganceElevate any room with our Nordic Glass Flower Vase. Its sleek design and clear glass bring a touch of sophistication, enhancing the beauty of your floral arrangements and making your home feel more inviting and stylish. 🎉 Perfect Centerpiece for Every OccasionWhether it's a casual family dinner or a festive celebration, this glass vase serves as the ideal centerpiece. Its minimalist design complements any decor, adding a chic and modern touch to your table setting. 🌸 Highlight Your Floral ArrangementsShowcase your flowers in the best light with this Nordic vase. The transparent glass amplifies the colors and textures of your blooms, turning even simple arrangements into stunning displays that captivate every eye. 🎁 A Thoughtful Gift for Loved OnesGive the gift of elegance with this Nordic glass vase. Perfect for housewarmings, weddings, or any special occasion, it offers a timeless piece that will be cherished for years to come.
+  Updated: 2026-04-12T15:30:51Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/eS8EZ8kRPZINHrZ.webp?v=1775964648
+  - [Azure Column](https://artistryvibes.com/products/nordic-glass-flower-vase-decor?variant=43136242679875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/gHEhxlx4ndT0ncj.webp?v=1775964647
+    Price: $15.99 USD
+  - [Obsidian Vault](https://artistryvibes.com/products/nordic-glass-flower-vase-decor?variant=43136242712643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/2XAdrUFiPw8e1qD.webp?v=1775964647
+    Price: $15.99 USD
+  - [Crystal Spire](https://artistryvibes.com/products/nordic-glass-flower-vase-decor?variant=43136242745411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6ZdNakhtLHuaN62.webp?v=1775964648
+    Price: $13.99 USD
+- [Nordic Gold Plating Ceramic Vases Model Room Home Decor](https://artistryvibes.com/products/nordic-gold-plating-ceramic-vases-model-room-home-decor): 🌟 Introducing Our Stunning Ceramic Curved Bottle SetAn epitome of elegance and modern design, crafted to elevate your space with sophistication. 🎨 Material: Crafted from high-quality ceramic, each bottle showcases impeccable craftsmanship and durability, ensuring lasting beauty. 💎 Surface Technology: Adorned with exquisite inlay detailing, these bottles exude luxury and refinement, adding a touch of opulence to any room. 📦 Packaging: Delivered in carefully curated packaging, these bottles arrive ready to enhance your decor with their chic presence. 🖼️ Style: Embracing a simple yet modern aesthetic, these bottles effortlessly complement a wide range of interior styles, from contemporary to minimalist. 🌈 Color Options: Choose from captivating color combinations, including radiant yellow, sleek black and white duos, and shimmering gold and silver pairs, each exuding its unique charm. Transform your space into a haven of style and sophistication with our Ceramic Curved Bottle Set—a timeless addition to your home decor collection.
+  Updated: 2026-04-12T15:30:55Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/NQ87Wnur2QnzSAKKxHBw.webp?v=1775964650
+  - [Black and White](https://artistryvibes.com/products/nordic-gold-plating-ceramic-vases-model-room-home-decor?variant=43136242778179)
+    Availability: Available
+    Price: $23.99 USD
+  - [Silver and Small Gold](https://artistryvibes.com/products/nordic-gold-plating-ceramic-vases-model-room-home-decor?variant=43136242810947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/w4HSox75ThoizhD.webp?v=1775964650
+    Price: $32.99 USD
+  - [Gold](https://artistryvibes.com/products/nordic-gold-plating-ceramic-vases-model-room-home-decor?variant=43136242843715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/rdP76ZfjLzHo2Ew.webp?v=1775964650
+    Price: $32.99 USD
+  - [Yellow](https://artistryvibes.com/products/nordic-gold-plating-ceramic-vases-model-room-home-decor?variant=43136242876483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/Dc1LrqKyOEavnye.webp?v=1775964650
+    Price: $23.99 USD
+  - [Big White and Black](https://artistryvibes.com/products/nordic-gold-plating-ceramic-vases-model-room-home-decor?variant=43136242909251)
+    Availability: Available
+    Price: $23.99 USD
+- [Nordic Iron Bird Wall Lamp for Home Decor](https://artistryvibes.com/products/nordic-iron-bird-wall-lamp-for-home-decor): 💡 Illuminate Your Space with Style and Functionality! Crafted with high-quality materials and a durable baking paint finish, our premium Wall Sconces are built to last. Enjoy long-term savings and reliability with these expertly designed fixtures. 🛠️ Durable and Reliable:Constructed with sturdy materials and an advanced coating process, our sconces are designed for longevity. They withstand the test of time, ensuring years of dependable use and beauty. ✨ Elegant Design:Featuring a sleek and sophisticated design, these sconces enhance any room. Their simple yet decorative style complements a variety of decor themes, making them perfect for hallways, bedroom sides, living rooms, bathrooms, stairways, and more. 🌟 Versatile and Stylish:Add a touch of sophistication to your home with our sconces. Their versatile design seamlessly blends with any decor, offering both functional lighting and aesthetic appeal. 📞 Dedicated Customer Support:We’re committed to your satisfaction. If you have any questions or concerns, our dedicated team is here to assist you. Simply send us an email, and we’ll provide the best solution within 24 hours. Upgrade your home lighting with our premium Wall Sconces and enjoy both style and practicality!
+  Updated: 2026-04-12T15:30:59Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/oYvNhBBm5XZbnN8.webp?v=1775964653
+  - [Black / White Light](https://artistryvibes.com/products/nordic-iron-bird-wall-lamp-for-home-decor?variant=43136242942019)
+    Availability: Available
+    Price: $31.99 USD
+  - [Black / Neutral Light](https://artistryvibes.com/products/nordic-iron-bird-wall-lamp-for-home-decor?variant=43136242974787)
+    Availability: Available
+    Price: $31.99 USD
+  - [White / Warm Light](https://artistryvibes.com/products/nordic-iron-bird-wall-lamp-for-home-decor?variant=43136243007555)
+    Availability: Available
+    Price: $31.99 USD
+  - [White / White Light](https://artistryvibes.com/products/nordic-iron-bird-wall-lamp-for-home-decor?variant=43136243040323)
+    Availability: Available
+    Price: $31.99 USD
+  - [White / Neutral Light](https://artistryvibes.com/products/nordic-iron-bird-wall-lamp-for-home-decor?variant=43136243073091)
+    Availability: Available
+    Price: $31.99 USD
+- [Penguin Home Decor](https://artistryvibes.com/products/penguin-home-decor): 🕉️ Introducing Our Stunning Large Buddha Statue SculptureMeticulously crafted to bring tranquility and elegance into your space, this exquisite Large Buddha Statue Sculpture is made from Purple Clay, exuding antique charm with its timeless imitation design. 🌟 Majestic Dimensions:Standing at an impressive height of 29 cm, with a length of 23.2 cm and a width of 16 cm, this sculpture commands attention with its intricate details and serene expression. Crafted from Purple Sand and Color Sand Pottery, each piece showcases exceptional craftsmanship and quality. 🏠 Versatile Elegance:Whether adorning your desktop, enhancing your living room decor, or gracing the ambiance of a temple, this Buddha sculpture seamlessly integrates into any environment. Its versatile design adds a touch of spirituality and grace to both personal and professional spaces. ✨ Timeless Beauty:Weighing 2500g, this townhouse treasure offers stability and durability, ensuring it remains a cherished piece for years to come. Embrace the calming presence of the Buddha and invite positivity and harmony into your surroundings. Elevate your interior with our Large Buddha Statue Sculpture and let its timeless beauty inspire serenity and contemplation in your everyday life.
+  Updated: 2026-04-13T13:06:24Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/mtGclbkapOHoBEmVzVrl.webp?v=1775964655
+  - [Small Penguin](https://artistryvibes.com/products/penguin-home-decor?variant=43136243105859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/284P4wgOEWyIRLB7oXFx.webp?v=1775964655
+    Price: $21.99 USD
+  - [Large Penguin (Beak Down)](https://artistryvibes.com/products/penguin-home-decor?variant=43136243138627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/284P4wgOEWyIRLB7oXFx.webp?v=1775964655
+    Price: $83.99 USD
+  - [Large Penguin (Beak Up)](https://artistryvibes.com/products/penguin-home-decor?variant=43136243171395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/Bz3FUq3FtBOCb1D.webp?v=1775964655
+    Price: $83.99 USD
+- [Potted Plant Home Desk Decor](https://artistryvibes.com/products/potted-plant-home-desk-decor): 🌿 Enhance Your Space with Potted Plant Home Desk DecorBring a touch of nature to your home or office with our Potted Plant Home Desk Decor. Perfect for adding a splash of greenery to your desk, these charming plants create a more inviting and serene workspace. 🚀 Boost Your Productivity with Natural BeautyIncorporate the calming presence of plants into your workspace to improve focus and productivity. The Potted Plant Home Desk Decor not only adds visual appeal but also helps reduce stress, making your work environment more pleasant and conducive to concentration. 🌱 Enjoy Low-Maintenance EleganceExperience the benefits of nature without the hassle of high-maintenance plants. Designed to thrive with minimal care, our Potted Plant Home Desk Decor allows you to enjoy their beauty and freshness without constant upkeep. 🎁 Perfect Gift for Plant Lovers and Office WorkersDelight your friends, family, or colleagues with a thoughtful gift that brings joy and tranquility to their daily routine. Ideal for anyone who loves plants or spends long hours at a desk, this decor piece offers a touch of nature's beauty to brighten their space. Specifications: Base Size: 134 x 134 x 28 mm Material: ABS Pot Material: ABS Floating Object Weight: 0-300g Pot Color: White or Chocolate Levitation Gap: 15-20 mm AC Adapter: DC Output 12V Plug Type: EU Plug, UK Plug, AU Plug, US Plug
+  Updated: 2026-04-12T15:31:02Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/qZspwUllGQp6RnC.webp?v=1775964658
+  - [Light Wood Base / UK Plug](https://artistryvibes.com/products/potted-plant-home-desk-decor?variant=43136243204163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/ATLe6nsePcJxsSv.webp?v=1775964657
+    Price: $62.99 USD
+  - [Walnut Base / EU Plug](https://artistryvibes.com/products/potted-plant-home-desk-decor?variant=43136243236931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/p49Gf1nVIxzfFkE.webp?v=1775964657
+    Price: $59.99 USD
+  - [Walnut Base / US Plug](https://artistryvibes.com/products/potted-plant-home-desk-decor?variant=43136243269699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/bdFrQPnm1AxDRIN.webp?v=1775964657
+    Price: $59.99 USD
+  - [Walnut Base / AU Plug](https://artistryvibes.com/products/potted-plant-home-desk-decor?variant=43136243302467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/ZNhr0SlIyTeixRe.webp?v=1775964657
+    Price: $59.99 USD
+  - [Walnut Base / UK Plug](https://artistryvibes.com/products/potted-plant-home-desk-decor?variant=43136243335235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6iJQGpa5cYhTF7f.webp?v=1775964657
+    Price: $59.99 USD
+- [Personalize it! My Journey Spiral Journal](https://artistryvibes.com/products/personalize-it-my-journey-spiral-journal): Softly uplifting and beautifully laid out, this spiral journal is a quiet companion for anyone tracking progress, dreams, or daily thoughts. The watercolor cover blends calming teal and blush tones with delicate gold accents, and the phrase “My Journey — Even Small Steps Count” invites steady reflection. Inside, 160 pages of smooth, lined 90gsm paper take ink and pencil well, giving each entry a clean, satisfying feel. The semi-gloss laminated front cover resists wear while keeping colors vivid, and the sturdy spiral binding lets the pages lie flat for easy writing. Sized for everyday carry, it slips into a tote or sits neatly on a bedside table — a gentle nudge to keep moving forward, one small step at a time.Product features- 160 pages (80 sheets) of lined 90gsm paper for smooth, reliable writing- Semi-gloss laminated front cover for durability and vibrant color- Spiral binding that lays flat for comfortable note-taking- Front cover print with teal, blush, and gold watercolor design- Black back cover; REACH  and for  use onlyCare instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards.
+  Updated: 2026-04-13T03:40:06Z
+  Vendor: Printify
+  Product Type: Paper products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14232107446743932644_2048.jpg?v=1776008401
+  - [Blank / One Size](https://artistryvibes.com/products/personalize-it-my-journey-spiral-journal?variant=43137421148227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/14232107446743932644_2048.jpg?v=1776008401
+    Price: $14.99 USD
+  - [Dotgrid / One Size](https://artistryvibes.com/products/personalize-it-my-journey-spiral-journal?variant=43137421180995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7797398429027140119_2048.jpg?v=1776008404
+    Price: $14.99 USD
+  - [Lined / One Size](https://artistryvibes.com/products/personalize-it-my-journey-spiral-journal?variant=43137421213763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7079223820050639177_2048.jpg?v=1776008407
+    Price: $14.99 USD
+  - [Task / One Size](https://artistryvibes.com/products/personalize-it-my-journey-spiral-journal?variant=43137421246531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/9482778464269260288_2048.jpg?v=1776008409
+    Price: $14.99 USD
+- [Bohemian Unisex classic tee](https://artistryvibes.com/products/bohemian-unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Artistry Vibes and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Laura Bilecki 2709 N Hayden Island Dr STE 479877 Portland, OR, 97217 or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-04-13T04:51:38Z
+  Vendor: Artistry Vibes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-charcoal-front-69dbcd7ed8c80.jpg?v=1776012690
+  - [Charcoal / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473413187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-charcoal-front-69dbcd7ed8c80.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Charcoal / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473445955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-charcoal-front-69dbcd7ed8c80.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Charcoal / L](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473478723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-charcoal-front-69dbcd7ed8c80.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Charcoal / XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473511491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-charcoal-front-69dbcd7ed8c80.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Charcoal / 2XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473544259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-charcoal-front-69dbcd7ed8c80.jpg?v=1776012690
+    Price: $19.99 USD
+  - [Charcoal / 3XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473577027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-charcoal-front-69dbcd7ed8c80.jpg?v=1776012690
+    Price: $21.99 USD
+  - [Graphite Heather / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473609795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Graphite Heather / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473642563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Graphite Heather / L](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473675331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Graphite Heather / XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473708099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Graphite Heather / 2XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473740867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $19.99 USD
+  - [Graphite Heather / 3XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473773635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $21.99 USD
+  - [Graphite Heather / 4XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473806403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $23.99 USD
+  - [Graphite Heather / 5XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473839171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-graphite-heather-front-69dbcd7edc84f.jpg?v=1776012689
+    Price: $25.99 USD
+  - [Brown Savana / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473871939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-brown-savana-front-69dbcd7edef13.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Brown Savana / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473904707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-brown-savana-front-69dbcd7edef13.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Brown Savana / L](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473937475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-brown-savana-front-69dbcd7edef13.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Brown Savana / XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137473970243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-brown-savana-front-69dbcd7edef13.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Brown Savana / 2XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474003011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-brown-savana-front-69dbcd7edef13.jpg?v=1776012689
+    Price: $19.99 USD
+  - [Brown Savana / 3XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474035779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-brown-savana-front-69dbcd7edef13.jpg?v=1776012689
+    Price: $21.99 USD
+  - [Sand / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474068547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sand-front-69dbcd7ee53fd.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Sand / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474101315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sand-front-69dbcd7ee53fd.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Sand / L](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474134083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sand-front-69dbcd7ee53fd.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Sand / XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474166851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sand-front-69dbcd7ee53fd.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Sand / 2XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474199619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sand-front-69dbcd7ee53fd.jpg?v=1776012689
+    Price: $19.99 USD
+  - [Sand / 3XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474232387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-sand-front-69dbcd7ee53fd.jpg?v=1776012689
+    Price: $21.99 USD
+  - [Natural / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474265155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-natural-front-69dbcd7eee51b.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Natural / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474297923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-natural-front-69dbcd7eee51b.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Natural / L](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474330691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-natural-front-69dbcd7eee51b.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Natural / XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474363459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-natural-front-69dbcd7eee51b.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Natural / 2XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474396227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-natural-front-69dbcd7eee51b.jpg?v=1776012690
+    Price: $19.99 USD
+  - [Natural / 3XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474428995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-natural-front-69dbcd7eee51b.jpg?v=1776012690
+    Price: $21.99 USD
+  - [Yellow Haze / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474461763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Yellow Haze / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474494531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Yellow Haze / L](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474527299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Yellow Haze / XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474560067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $18.99 USD
+  - [Yellow Haze / 2XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474592835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $19.99 USD
+  - [Yellow Haze / 3XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474625603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $21.99 USD
+  - [Yellow Haze / 4XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474658371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $23.99 USD
+  - [Yellow Haze / 5XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474691139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-yellow-haze-front-69dbcd7f0132e.jpg?v=1776012690
+    Price: $25.99 USD
+  - [Light Pink / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474723907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Light Pink / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474756675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Light Pink / L](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474789443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Light Pink / XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474822211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Light Pink / 2XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474854979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $19.99 USD
+  - [Light Pink / 3XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474887747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $21.99 USD
+  - [Light Pink / 4XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474920515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $23.99 USD
+  - [Light Pink / 5XL](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474953283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-light-pink-front-69dbcd7f09888.jpg?v=1776012689
+    Price: $25.99 USD
+  - [Ice Grey / S](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137474986051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-ice-grey-front-69dbcd7f141bf.jpg?v=1776012689
+    Price: $18.99 USD
+  - [Ice Grey / M](https://artistryvibes.com/products/bohemian-unisex-classic-tee?variant=43137475018819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/unisex-classic-tee-ice-grey-front-69dbcd7f141bf.jpg?v=1776012689
+    Price: $18.99 USD
+- [Personalize it! Women's Ideal Racerback Tank](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank): XS S M L XL 2XL Width, in 13.98 15.00 15.98 16.97 17.99 18.98 Length, in 26.97 27.48 27.95 28.46 28.98 29.49 A high-quality print of this slim fit tank-top will turn heads. Bystanders won't be disappointed - the racerback cut looks good on any woman's shoulders..: Made with extra light fabric (60% combed, ring-spun cotton and 40% polyester: 4 oz/yd² (135 g/m²)) this racerback tank is supremely lightweight and an excellent choice for the active lifestyle..: The classic fit along make the tank a comfortable choice under high performance while the scooped neckline brings a sporty touch to the whole outfit. .: For a completely scratch-free experience, all tanks come with a tear-away label for unhindered performance on a daily basis..: Neck label print area is decorated with Direct-to-Film (DTF) or Direct-to-garment (DTG) methods. EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Next Level 1533, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Do not iron, Do not dryclean
+  Updated: 2026-04-13T05:03:54Z
+  Vendor: Printify
+  Product Type: Tank Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412170056-1f136912-bff9-6c28-8f14-0e0634670595.png?v=1776013426
+  - [XS / Solid Black](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480491075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13210880958049429932_2048.jpg?v=1776013447
+    Price: $18.22 USD
+  - [XS / Solid Midnight Navy](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480523843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6564974340588469378_2048.jpg?v=1776013477
+    Price: $18.22 USD
+  - [XS / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480556611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3945599217620322775_2048.jpg?v=1776013461
+    Price: $18.22 USD
+  - [XS / Solid Purple Rush](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480589379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11454943402057801510_2048.jpg?v=1776013485
+    Price: $18.22 USD
+  - [XS / Solid Royal](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480622147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412170056-1f136912-bff9-6c28-8f14-0e0634670595.png?v=1776013426
+    Price: $18.22 USD
+  - [XS / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480654915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4376215284478506519_2048.jpg?v=1776013470
+    Price: $18.22 USD
+  - [XS / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480687683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11783766441962622257_2048.jpg?v=1776013433
+    Price: $18.22 USD
+  - [XS / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480720451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5986032788266275207_2048.jpg?v=1776013453
+    Price: $18.22 USD
+  - [XS / Solid Cardinal Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480753219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17355711241314240422_2048.jpg?v=1776013493
+    Price: $18.22 USD
+  - [S / Solid Black](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480785987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13210880958049429932_2048.jpg?v=1776013447
+    Price: $18.22 USD
+  - [S / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480818755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7635046033756680808_2048.jpg?v=1776013440
+    Price: $18.22 USD
+  - [S / Solid Midnight Navy](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480851523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6564974340588469378_2048.jpg?v=1776013477
+    Price: $18.22 USD
+  - [S / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480884291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3945599217620322775_2048.jpg?v=1776013461
+    Price: $18.22 USD
+  - [S / Solid Purple Rush](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480917059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11454943402057801510_2048.jpg?v=1776013485
+    Price: $18.22 USD
+  - [S / Solid Royal](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480949827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412170056-1f136912-bff9-6c28-8f14-0e0634670595.png?v=1776013426
+    Price: $18.22 USD
+  - [S / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137480982595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4376215284478506519_2048.jpg?v=1776013470
+    Price: $18.22 USD
+  - [S / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481015363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11783766441962622257_2048.jpg?v=1776013433
+    Price: $18.22 USD
+  - [S / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481048131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5986032788266275207_2048.jpg?v=1776013453
+    Price: $18.22 USD
+  - [S / Solid Cardinal Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481080899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17355711241314240422_2048.jpg?v=1776013493
+    Price: $18.22 USD
+  - [M / Solid Black](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481113667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13210880958049429932_2048.jpg?v=1776013447
+    Price: $18.22 USD
+  - [M / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481146435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7635046033756680808_2048.jpg?v=1776013440
+    Price: $18.22 USD
+  - [M / Solid Midnight Navy](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481179203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6564974340588469378_2048.jpg?v=1776013477
+    Price: $18.22 USD
+  - [M / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481211971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3945599217620322775_2048.jpg?v=1776013461
+    Price: $18.22 USD
+  - [M / Solid Purple Rush](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481244739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11454943402057801510_2048.jpg?v=1776013485
+    Price: $18.22 USD
+  - [M / Solid Royal](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481277507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412170056-1f136912-bff9-6c28-8f14-0e0634670595.png?v=1776013426
+    Price: $18.22 USD
+  - [M / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481310275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4376215284478506519_2048.jpg?v=1776013470
+    Price: $18.22 USD
+  - [M / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481343043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11783766441962622257_2048.jpg?v=1776013433
+    Price: $18.22 USD
+  - [M / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481375811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5986032788266275207_2048.jpg?v=1776013453
+    Price: $18.22 USD
+  - [M / Solid Cardinal Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481408579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17355711241314240422_2048.jpg?v=1776013493
+    Price: $18.22 USD
+  - [L / Solid Black](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481441347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13210880958049429932_2048.jpg?v=1776013447
+    Price: $18.22 USD
+  - [L / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481474115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7635046033756680808_2048.jpg?v=1776013440
+    Price: $18.22 USD
+  - [L / Solid Midnight Navy](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481506883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6564974340588469378_2048.jpg?v=1776013477
+    Price: $18.22 USD
+  - [L / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481539651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3945599217620322775_2048.jpg?v=1776013461
+    Price: $18.22 USD
+  - [L / Solid Purple Rush](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481572419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11454943402057801510_2048.jpg?v=1776013485
+    Price: $18.22 USD
+  - [L / Solid Royal](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481605187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412170056-1f136912-bff9-6c28-8f14-0e0634670595.png?v=1776013426
+    Price: $18.22 USD
+  - [L / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481637955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4376215284478506519_2048.jpg?v=1776013470
+    Price: $18.22 USD
+  - [L / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481670723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11783766441962622257_2048.jpg?v=1776013433
+    Price: $18.22 USD
+  - [L / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481703491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5986032788266275207_2048.jpg?v=1776013453
+    Price: $18.22 USD
+  - [L / Solid Cardinal Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481736259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17355711241314240422_2048.jpg?v=1776013493
+    Price: $18.22 USD
+  - [XL / Solid Black](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481769027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13210880958049429932_2048.jpg?v=1776013447
+    Price: $18.22 USD
+  - [XL / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481801795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/7635046033756680808_2048.jpg?v=1776013440
+    Price: $18.22 USD
+  - [XL / Solid Midnight Navy](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481834563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6564974340588469378_2048.jpg?v=1776013477
+    Price: $18.22 USD
+  - [XL / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481867331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3945599217620322775_2048.jpg?v=1776013461
+    Price: $18.22 USD
+  - [XL / Solid Purple Rush](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481900099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11454943402057801510_2048.jpg?v=1776013485
+    Price: $18.22 USD
+  - [XL / Solid Royal](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481932867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/20260412170056-1f136912-bff9-6c28-8f14-0e0634670595.png?v=1776013426
+    Price: $18.22 USD
+  - [XL / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481965635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4376215284478506519_2048.jpg?v=1776013470
+    Price: $18.22 USD
+  - [XL / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137481998403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/11783766441962622257_2048.jpg?v=1776013433
+    Price: $18.22 USD
+  - [XL / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137482031171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5986032788266275207_2048.jpg?v=1776013453
+    Price: $18.22 USD
+  - [XL / Solid Cardinal Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137482063939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17355711241314240422_2048.jpg?v=1776013493
+    Price: $18.22 USD
+  - [2XL / Solid Black](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank?variant=43137482096707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/13210880958049429932_2048.jpg?v=1776013447
+    Price: $21.38 USD
+- [Personalize it! Women's Ideal Racerback Tank](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1): XS S M L XL 2XL Width, in 13.98 15.00 15.98 16.97 17.99 18.98 Length, in 26.97 27.48 27.95 28.46 28.98 29.49 A high-quality print of this slim fit tank-top will turn heads. Bystanders won't be disappointed - the racerback cut looks good on any woman's shoulders..: Made with extra light fabric (60% combed, ring-spun cotton and 40% polyester: 4 oz/yd² (135 g/m²)) this racerback tank is supremely lightweight and an excellent choice for the active lifestyle..: The classic fit along make the tank a comfortable choice under high performance while the scooped neckline brings a sporty touch to the whole outfit. .: For a completely scratch-free experience, all tanks come with a tear-away label for unhindered performance on a daily basis..: Neck label print area is decorated with Direct-to-Film (DTF) or Direct-to-garment (DTG) methods. EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Next Level 1533, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Do not iron, Do not dryclean
+  Updated: 2026-04-13T05:10:25Z
+  Vendor: Printify
+  Product Type: Tank Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1262939525955297097_2048.jpg?v=1776013818
+  - [XS / Solid Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486356547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/526256898369496918_2048.jpg?v=1776013871
+    Price: $18.22 USD
+  - [XS / Solid Kelly Green](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486389315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3509276385499045942_2048.jpg?v=1776013857
+    Price: $18.22 USD
+  - [XS / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486422083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5031518455648564690_2048.jpg?v=1776013850
+    Price: $18.22 USD
+  - [XS / Solid Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486454851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17473469340437942783_2048.jpg?v=1776013884
+    Price: $18.22 USD
+  - [XS / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486487619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5509840617378379691_2048.jpg?v=1776013864
+    Price: $18.22 USD
+  - [XS / Solid Warm Gray](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486520387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12303611955492426376_2048.jpg?v=1776013844
+    Price: $18.22 USD
+  - [XS / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486553155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15596585236164581757_2048.jpg?v=1776013825
+    Price: $18.22 USD
+  - [XS / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486585923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16079870807299389560_2048.jpg?v=1776013839
+    Price: $18.22 USD
+  - [XS / White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486618691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1262939525955297097_2048.jpg?v=1776013818
+    Price: $18.25 USD
+  - [XS / Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486651459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6942289410685457859_2048.jpg?v=1776013877
+    Price: $18.25 USD
+  - [S / Solid Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486684227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/526256898369496918_2048.jpg?v=1776013871
+    Price: $18.22 USD
+  - [S / Solid Kelly Green](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486716995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3509276385499045942_2048.jpg?v=1776013857
+    Price: $18.22 USD
+  - [S / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486749763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4251123408555847670_2048.jpg?v=1776013832
+    Price: $18.22 USD
+  - [S / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486782531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5031518455648564690_2048.jpg?v=1776013850
+    Price: $18.22 USD
+  - [S / Solid Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486815299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17473469340437942783_2048.jpg?v=1776013884
+    Price: $18.22 USD
+  - [S / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486848067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5509840617378379691_2048.jpg?v=1776013864
+    Price: $18.22 USD
+  - [S / Solid Warm Gray](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486880835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12303611955492426376_2048.jpg?v=1776013844
+    Price: $18.22 USD
+  - [S / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486913603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15596585236164581757_2048.jpg?v=1776013825
+    Price: $18.22 USD
+  - [S / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486946371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16079870807299389560_2048.jpg?v=1776013839
+    Price: $18.22 USD
+  - [S / White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137486979139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1262939525955297097_2048.jpg?v=1776013818
+    Price: $18.25 USD
+  - [S / Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487011907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6942289410685457859_2048.jpg?v=1776013877
+    Price: $18.25 USD
+  - [M / Solid Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487044675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/526256898369496918_2048.jpg?v=1776013871
+    Price: $18.22 USD
+  - [M / Solid Kelly Green](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487077443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3509276385499045942_2048.jpg?v=1776013857
+    Price: $18.22 USD
+  - [M / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487110211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4251123408555847670_2048.jpg?v=1776013832
+    Price: $18.22 USD
+  - [M / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487142979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5031518455648564690_2048.jpg?v=1776013850
+    Price: $18.22 USD
+  - [M / Solid Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487175747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17473469340437942783_2048.jpg?v=1776013884
+    Price: $18.22 USD
+  - [M / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487208515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5509840617378379691_2048.jpg?v=1776013864
+    Price: $18.22 USD
+  - [M / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487241283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15596585236164581757_2048.jpg?v=1776013825
+    Price: $18.22 USD
+  - [M / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487274051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16079870807299389560_2048.jpg?v=1776013839
+    Price: $18.22 USD
+  - [M / White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487306819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1262939525955297097_2048.jpg?v=1776013818
+    Price: $18.25 USD
+  - [M / Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487339587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6942289410685457859_2048.jpg?v=1776013877
+    Price: $18.25 USD
+  - [L / Solid Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487372355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/526256898369496918_2048.jpg?v=1776013871
+    Price: $18.22 USD
+  - [L / Solid Kelly Green](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487405123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3509276385499045942_2048.jpg?v=1776013857
+    Price: $18.22 USD
+  - [L / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487437891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4251123408555847670_2048.jpg?v=1776013832
+    Price: $18.22 USD
+  - [L / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487470659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5031518455648564690_2048.jpg?v=1776013850
+    Price: $18.22 USD
+  - [L / Solid Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487503427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17473469340437942783_2048.jpg?v=1776013884
+    Price: $18.22 USD
+  - [L / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487536195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5509840617378379691_2048.jpg?v=1776013864
+    Price: $18.22 USD
+  - [L / Solid Warm Gray](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487568963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12303611955492426376_2048.jpg?v=1776013844
+    Price: $18.22 USD
+  - [L / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487601731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15596585236164581757_2048.jpg?v=1776013825
+    Price: $18.22 USD
+  - [L / Heather Grey](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487634499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/16079870807299389560_2048.jpg?v=1776013839
+    Price: $18.22 USD
+  - [L / White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487667267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/1262939525955297097_2048.jpg?v=1776013818
+    Price: $18.25 USD
+  - [L / Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487700035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/6942289410685457859_2048.jpg?v=1776013877
+    Price: $18.25 USD
+  - [XL / Solid Hot Pink](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487732803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/526256898369496918_2048.jpg?v=1776013871
+    Price: $18.22 USD
+  - [XL / Solid Kelly Green](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487765571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/3509276385499045942_2048.jpg?v=1776013857
+    Price: $18.22 USD
+  - [XL / Solid Light Orange](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487798339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/4251123408555847670_2048.jpg?v=1776013832
+    Price: $18.22 USD
+  - [XL / Solid Mint](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487831107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5031518455648564690_2048.jpg?v=1776013850
+    Price: $18.22 USD
+  - [XL / Solid Red](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487863875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/17473469340437942783_2048.jpg?v=1776013884
+    Price: $18.22 USD
+  - [XL / Solid Tahiti Blue](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487896643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/5509840617378379691_2048.jpg?v=1776013864
+    Price: $18.22 USD
+  - [XL / Solid Warm Gray](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487929411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/12303611955492426376_2048.jpg?v=1776013844
+    Price: $18.22 USD
+  - [XL / Solid White](https://artistryvibes.com/products/personalize-it-womens-ideal-racerback-tank-1?variant=43137487962179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/1627/5523/files/15596585236164581757_2048.jpg?v=1776013825
+    Price: $18.22 USD
+[List Continued](https://artistryvibes.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjM0NDM0ODE4MTE1LCJsYXN0X3ZhbHVlIjoiNzYzNDQzNDgxODExNSJ9)
 
 ## Collections
 
 - [Art Prints - Unique Wall Art | Artful Gifts](https://artistryvibes.com/collections/art-prints): Discover our curated collection of art prints. High-quality designs perfect for home decor and thoughtful gifts.
-  Updated: 2026-04-06T01:35:53Z
-  Total Products: 16
+  Updated: 2026-04-12T15:24:18Z
+  Total Products: 25
 - [Apparel & Clothing Collection - Artful Gifts](https://artistryvibes.com/collections/apparel-1): Browse our curated selection of apparel, clothing, and t-shirts at Artful Gifts.
-  Updated: 2026-04-06T01:39:26Z
-  Total Products: 42
-- [Purvis Publishing](https://artistryvibes.com/collections/purvis-publishing): This collection features books published by Purvis Publishing.
-  Updated: 2026-04-06T01:41:33Z
-  Total Products: 2
+  Updated: 2026-04-12T17:10:13Z
+  Total Products: 49
 - [Youth Clothing for Kids & Teens – Artistry Vibes](https://artistryvibes.com/collections/youth-clothing): Shop youth clothing at Artistry Vibes. Fun, art-inspired styles for kids and teens. Expressive fashion they'll love.
-  Updated: 2026-04-06T01:40:30Z
-  Total Products: 7
+  Updated: 2026-04-12T02:45:59Z
+  Total Products: 22
 - [Home Decor Art Prints & Accents – Artistry Vibes](https://artistryvibes.com/collections/home-decor): Shop art-inspired home decor at Artistry Vibes. Unique prints, accents, and decor pieces that bring creativity into every room.
-  Updated: 2026-04-06T01:37:18Z
-  Total Products: 11
+  Updated: 2026-04-12T15:40:00Z
+  Total Products: 30
 - [Jewelry Collection - Artistry Vibes](https://artistryvibes.com/collections/jewelry): Shop our curated Jewelry collection at Artistry Vibes. Find beautiful pieces to complement every style and occasion.
-  Updated: 2026-04-06T01:49:10Z
-  Total Products: 3
+  Updated: 2026-04-12T03:27:18Z
+  Total Products: 41
 
 ## Store Pages
 
@@ -9661,9 +15826,11 @@ Artistry Vibes is a design company that puts designs from real artists onto diff
 ## Policies
 
 - [Privacy Policy](https://artistryvibes.com/policies/privacy-policy)
-  Updated: 2026-02-26T15:23:19-06:00
+  Updated: 2026-04-10T20:49:51-05:00
+- [Shipping Policy](https://artistryvibes.com/policies/shipping-policy)
+  Updated: 2026-04-10T20:51:45-05:00
 - [Refund Policy](https://artistryvibes.com/policies/refund-policy)
-  Updated: 2026-03-10T08:59:39-05:00
+  Updated: 2026-04-10T20:46:57-05:00
 - [Terms of Service](https://artistryvibes.com/policies/terms-of-service)
   Updated: 2026-03-10T09:03:27-05:00
 - [Contact Information](https://artistryvibes.com/policies/contact-information)
