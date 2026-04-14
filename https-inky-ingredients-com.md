@@ -9,42 +9,49 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-12-30T00:00:46.592Z
+- Updated At: 2026-04-14T13:49:40.310Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
 ## Products
 
 - [Solid Melt & Pour Natural High Foaming Base](https://inky-ingredients.com/products/melt-pour-natural-high-foaming-base): Create high foaming soaps with natural ingredients using Melt & Pour Natural High Foaming Base. This base produces a lush lather while maintaining a focus on natural components for a more environmentally friendly option.
-  Updated: 2025-12-02T05:15:21Z
+  Updated: 2026-03-09T20:03:26Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
+  Price: £57.00 GBP
+- [Melt & Pour SLS and SLES - Free White Solid Base](https://inky-ingredients.com/products/melt-pour-sls-and-sles-free-white-base): Create gentle and sulfate-free soaps effortlessly with the Melt & Pour SLS and SLES-Free White Base. This base ensures a luxurious lather without the use of harsh detergents, making it suitable for sensitive skin.
+  Updated: 2026-04-01T06:46:22Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £57.00 GBP
 - [Melt & Pour SLS and SLES - Free Clear Solid Base](https://inky-ingredients.com/products/melt-pour-sls-and-sles-free-clear-base): Formulate clear soaps without SLS and SLES with Melt & Pour SLS and SLES - Free Clear Base. Ideal for sensitive skin, it provides transparency and mild cleansing without the use of harsh detergents.
-  Updated: 2025-12-02T08:17:02Z
+  Updated: 2026-03-23T21:33:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £57.60 GBP
 - [Melt & Pour Foaming Bath Butter Base](https://inky-ingredients.com/products/melt-pour-foaming-bath-butter-base): Experience a luxurious and foamy bath with soaps made from Melt & Pour Foaming Bath Butter Base. This base combines cleansing properties with a rich, foaming texture, offering a delightful bathing experience.
-  Updated: 2025-12-17T15:28:26Z
+  Updated: 2026-04-09T11:06:43Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £100.80 GBP
 - [Melt & Pour SLS - Free White Solid Base](https://inky-ingredients.com/products/melt-pour-sls-free-white-base): Formulate mild and SLS-free white soaps effortlessly using Melt & Pour SLS - Free White Base. This base provides a gentle cleansing experience while offering a blank canvas for creative soap designs.
-  Updated: 2025-12-28T22:31:11Z
+  Updated: 2026-03-23T11:17:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £55.80 GBP
 - [Melt & Pour SLS - Free Clear Solid Base](https://inky-ingredients.com/products/melt-pour-sls-free-clear-base): Craft gentle and SLS-free clear soaps with Melt & Pour SLS - Free Clear Base. Perfect for those with sensitive skin, it allows for a transparent soap-making experience without compromising on quality.
-  Updated: 2025-12-20T20:46:56Z
+  Updated: 2026-04-13T17:58:58Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -57,14 +64,14 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
     Price: £58.20 GBP
 - [Melt & Pour Goats Milk Solid Base](https://inky-ingredients.com/products/melt-pour-goats-milk-base): Enrich your soap creations with the nourishing qualities of goat's milk using Melt & Pour Goats Milk Base. This base offers a creamy lather and moisturising properties, enhancing the overall bathing experience.
-  Updated: 2025-12-02T05:43:07Z
+  Updated: 2026-04-06T17:39:58Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £58.20 GBP
-- [Conditioner, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/conditioner-base-cosmos-organic): COSMOS Organic-certified Conditioner Base provides a nourishing foundation for hair care formulations. Enriched with organic ingredients, it conditions and detangles, leaving hair soft and manageable. Ideal for creating premium organic conditioner products.
-  Updated: 2025-12-23T16:03:41Z
+- [Conditioner, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/conditioner-base-cosmos-organic): COSMOS Organic- Conditioner Base provides a nourishing foundation for hair care formulations. Enriched with organic ingredients, it conditions and detangles, leaving hair soft and manageable. Ideal for creating premium organic conditioner products.
+  Updated: 2026-04-11T14:18:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -76,7 +83,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £158.40 GBP
 - [Soap Base Liquid 105 Organic](https://inky-ingredients.com/products/soap-base-liquid-105-organic): Elevate your liquid soap formulations with the Soap Base Liquid 105 Organic. This organic base ensures a premium liquid soap, providing a nourishing and cleansing experience with the added benefits of organic ingredients.
-  Updated: 2025-12-26T17:46:35Z
+  Updated: 2026-02-25T11:21:04Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -88,7 +95,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £107.40 GBP
 - [3 in 1 Body Wash Liquid Base](https://inky-ingredients.com/products/3-in-1-body-wash-base): The 3 in 1 Body Wash Base is a versatile formulation, serving as a body wash, shampoo, and facial cleanser. With its multipurpose functionality, it provides a cleansing experience that is both effective and convenient, leaving the skin and hair feeling refreshed and revitalised.
-  Updated: 2025-12-18T16:46:07Z
+  Updated: 2026-04-08T09:25:18Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -100,7 +107,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £77.40 GBP
 - [Watermelon Seed Oil, Refined](https://inky-ingredients.com/products/watermelon-seed-oil-refined): Refined Watermelon Seed Oil is a lightweight, fast-absorbing oil, known for its hydrating and rejuvenating properties. Suitable for skincare and haircare, it imparts moisture, promoting a healthy and vibrant appearance.
-  Updated: 2025-12-29T15:06:39Z
+  Updated: 2026-03-28T20:06:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -121,7 +128,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £47.94 GBP
 - [Tea Tree (Australian), Essential Oil Organic](https://inky-ingredients.com/products/tea-tree-australian-essential-oil-organic): Organic Australian tea tree essential oil, combining purity and potency. favoured for its natural antibacterial properties, it's a valuable addition to organic skincare formulations, promoting clear and healthy skin.
-  Updated: 2025-12-24T19:22:17Z
+  Updated: 2026-04-13T20:54:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -145,7 +152,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £474.00 GBP
 - [Vitamin E (Tocopherol 70%)](https://inky-ingredients.com/products/vitamin-e-tocopherol-70): Vitamin E (Tocopherol 70%) is a potent antioxidant derived from natural sources. With a 70% concentration, it protects against oxidative damage, supports skin health, and enhances the stability of formulations. Ideal for skincare applications, it contributes to a healthier and more resilient complexion.
-  Updated: 2025-12-27T14:50:05Z
+  Updated: 2026-04-14T11:23:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -166,7 +173,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £360.00 GBP
 - [Vetivert Java, Essential Oil](https://inky-ingredients.com/products/vetivert-java-essential-oil): Vetiver Java Essential Oil, derived from Vetiveria zizanioides, presents an earthy and grounding aroma. Renowned for its calming and balancing properties, it is popular in aromatherapy. Its versatility makes it a valuable addition to formulations promoting relaxation, concentration, and emotional well-being.
-  Updated: 2025-12-09T17:49:57Z
+  Updated: 2026-04-05T09:14:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -190,7 +197,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,350.00 GBP
 - [Tea Tree, Essential Oil](https://inky-ingredients.com/products/tea-tree-essential-oil): Tea tree essential oil, celebrated for its antimicrobial properties. A versatile oil for skincare, it's popular for addressing skin concerns and promoting a healthy scalp. Its fresh, medicinal scent is widely recognized.
-  Updated: 2025-12-02T05:46:06Z
+  Updated: 2026-04-02T16:36:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -214,7 +221,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £177.60 GBP
 - [Ylang Ylang 3, Essential Oil](https://inky-ingredients.com/products/ylang-ylang-3-essential-oil): Ylang Ylang 3 Essential Oil boasts an intense floral aroma. Recognized for its therapeutic benefits, it aids in relaxation and stress reduction, making it a holistic choice.
-  Updated: 2025-12-03T08:17:25Z
+  Updated: 2026-04-13T20:54:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -238,7 +245,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £403.20 GBP
 - [Strawberry Seed Oil, Cold Pressed](https://inky-ingredients.com/products/strawberry-seed-oil-cold-pressed): Cold-pressed from strawberry seeds, this oil is rich in antioxidants and essential fatty acids. With a light texture, it nourishes and moisturises the skin, making it a valuable addition to skincare formulations.
-  Updated: 2025-12-15T16:48:11Z
+  Updated: 2026-04-02T17:17:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -259,11 +266,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £192.00 GBP
 - [Neroli Natural, Essential Oil](https://inky-ingredients.com/products/neroli-natural-essential-oil): Neroli Essential Oil, derived from orange blossoms, exudes a sweet and floral fragrance. With calming properties, it promotes relaxation and emotional balance. It's a luxurious addition to skincare and aromatherapy.
-  Updated: 2025-12-23T09:04:09Z
+  Updated: 2026-04-13T21:23:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0302-min_b11f6448-ab4f-403f-80c1-8634428d4dc8.jpg?v=1764597599
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-NEROLI_20NATURAL-min_7u5c34.jpg?v=1773397352
   - [10ml](https://inky-ingredients.com/products/neroli-natural-essential-oil?variant=56370263130496)
     Availability: Available
     Price: £7.80 GBP
@@ -283,7 +290,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £2,289.60 GBP
 - [Soya (Eco C3), Wax](https://inky-ingredients.com/products/soya-eco-c3-wax): Soya (Eco C3) wax, derived from soybeans, is an eco-friendly and renewable resource. This versatile wax is used in various cosmetic and candle applications, offering a sustainable alternative with excellent fragrance retention.
-  Updated: 2025-12-16T19:51:05Z
+  Updated: 2026-03-05T15:37:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -304,7 +311,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £105.54 GBP
 - [Rice Bran, Wax](https://inky-ingredients.com/products/rice-bran-wax): Rice Bran Wax, derived from rice bran oil, is a versatile natural wax. Used in various cosmetic formulations, it provides texture, structure, and emollient properties. It contributes to the stability and sensory appeal of skincare products.
-  Updated: 2025-12-02T05:49:33Z
+  Updated: 2026-03-29T12:26:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -325,7 +332,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £310.80 GBP
 - [Sheanut Butter, Refined (Boxed)](https://inky-ingredients.com/products/sheanut-butter-refined-boxed): Boxed Refined Sheanut Butter is a smooth and creamy cosmetic ingredient. With its refined quality, it offers excellent moisturising properties, making it a popular choice for skincare formulations. It adds a luxurious touch to products, leaving the skin soft and nourished.
-  Updated: 2025-12-20T18:25:26Z
+  Updated: 2026-04-13T14:16:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -346,7 +353,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £167.00 GBP
 - [Patchouli, Essential Oil](https://inky-ingredients.com/products/patchouli-essential-oil): Distilled from patchouli leaves, this essential oil offers an earthy, woody scent. Renowned for its grounding and calming properties, it's a popular choice in perfumery and holistic practices.
-  Updated: 2025-12-11T07:00:26Z
+  Updated: 2026-04-13T21:23:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -370,7 +377,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,425.60 GBP
 - [Sea Buckthorn Fruit Pulp Oil, Cold Pressed](https://inky-ingredients.com/products/sea-buckthorn-fruit-pulp-oil-cold-pressed): Cold-pressed Sea Buckthorn Fruit Pulp Oil is a nutrient-rich elixir for skin health. Packed with antioxidants and fatty acids, it nourishes and revitalises the skin, promoting a radiant complexion. Its natural properties make it a valuable addition to skincare formulations.
-  Updated: 2025-12-18T18:54:58Z
+  Updated: 2026-04-07T20:04:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -391,7 +398,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £252.00 GBP
 - [Orange Sweet, Essential Oil](https://inky-ingredients.com/products/orange-sweet-essential-oil): Extracted from sweet oranges, this essential oil adds a refreshing citrus aroma. It's versatile, uplifting, and commonly used in aromatherapy for its mood-enhancing properties.
-  Updated: 2025-12-27T14:50:06Z
+  Updated: 2026-04-13T21:23:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -414,8 +421,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/orange-sweet-essential-oil?variant=56370295177600)
     Availability: Available
     Price: £97.20 GBP
-- [Sheanut Butter, Unrefined Organic](https://inky-ingredients.com/products/sheanut-butter-unrefined-organic): Unrefined Organic Sheanut Butter is a pure and natural cosmetic ingredient. Cold-pressed and certified organic, it retains its full nutrient profile, offering deep moisturisation for the skin. This unrefined butter is perfect for organic skincare formulations, promoting a healthy complexion.
-  Updated: 2025-12-29T20:48:01Z
+- [Olive, Squalane](https://inky-ingredients.com/products/olive-squalane): Olive Squalane, sourced from olives, is a lightweight and versatile emollient. Its molecular structure mimics skin's natural lipids, making it an excellent moisturiser. This oil is prized in skincare formulations for its ability to hydrate and enhance skin's elasticity.
+  Updated: 2026-04-10T13:20:46Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0319_OliveSqualane.jpg?v=1774431934
+  - [50ml](https://inky-ingredients.com/products/olive-squalane?variant=56370304188800)
+    Availability: Available
+    Price: £4.69 GBP
+  - [250ml](https://inky-ingredients.com/products/olive-squalane?variant=56370304221568)
+    Availability: Available
+    Price: £12.13 GBP
+  - [500ml](https://inky-ingredients.com/products/olive-squalane?variant=56370304254336)
+    Availability: Available
+    Price: £23.28 GBP
+  - [1kg](https://inky-ingredients.com/products/olive-squalane?variant=56370304287104)
+    Availability: Available
+    Price: £39.60 GBP
+  - [5kg](https://inky-ingredients.com/products/olive-squalane?variant=56370304319872)
+    Availability: Available
+    Price: £221.76 GBP
+- [Sheanut Butter, Unrefined Organic](https://inky-ingredients.com/products/sheanut-butter-unrefined-organic): Unrefined Organic Sheanut Butter is a pure and natural cosmetic ingredient. Cold-pressed and  organic, it retains its full nutrient profile, offering deep moisturisation for the skin. This unrefined butter is perfect for organic skincare formulations, promoting a healthy complexion.
+  Updated: 2026-04-08T20:30:03Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -435,32 +463,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [25kg](https://inky-ingredients.com/products/sheanut-butter-unrefined-organic?variant=56370155389312)
     Availability: Available
     Price: £205.00 GBP
-- [Rosemary (Cineol), Essential Oil Organic](https://inky-ingredients.com/products/rosemary-cineol-essential-oil-organic): Organic Cineol-infused Rosemary Essential Oil, combining the benefits of organic purity with the invigorating properties of cineol. Ideal for aromatherapy and skincare applications.
-  Updated: 2025-12-23T16:03:41Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0398-min_0159e2fe-d87a-4ebb-88d6-a544b31ddb36.jpg?v=1764598080
-  - [10ml](https://inky-ingredients.com/products/rosemary-cineol-essential-oil-organic?variant=56370157486464)
-    Availability: Available
-    Price: £3.54 GBP
-  - [50ml](https://inky-ingredients.com/products/rosemary-cineol-essential-oil-organic?variant=56370157519232)
-    Availability: Available
-    Price: £8.88 GBP
-  - [100ml](https://inky-ingredients.com/products/rosemary-cineol-essential-oil-organic?variant=56370157552000)
-    Availability: Available
-    Price: £15.54 GBP
-  - [500ml](https://inky-ingredients.com/products/rosemary-cineol-essential-oil-organic?variant=56370157584768)
-    Availability: Available
-    Price: £65.40 GBP
-  - [1kg](https://inky-ingredients.com/products/rosemary-cineol-essential-oil-organic?variant=56370157617536)
-    Availability: Available
-    Price: £129.60 GBP
-  - [5kg](https://inky-ingredients.com/products/rosemary-cineol-essential-oil-organic?variant=56370157650304)
-    Availability: Available
-    Price: £648.00 GBP
 - [Rosemary (Camphor), Essential Oil (COSMOS Natural)](https://inky-ingredients.com/products/rosemary-camphor-essential-oil): Camphor-infused Rosemary Essential Oil, known for its refreshing aroma and invigorating qualities. It stimulates the senses, promoting mental clarity and a revitalising experience.
-  Updated: 2025-12-08T18:22:38Z
+  Updated: 2026-04-03T08:39:12Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -484,11 +488,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £234.00 GBP
 - [Murumuru, Butter](https://inky-ingredients.com/products/murumuru-butter): Murumuru Butter, derived from Amazonian palm trees, is a rich emollient. Its buttery texture moisturises deeply, restoring skin elasticity and promoting a smooth, soft feel. Ideal for dry and damaged skin.
-  Updated: 2025-12-20T22:15:50Z
+  Updated: 2026-04-13T13:51:40Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0296-min_1687b2e9-daff-4ec3-b840-ea326c35fcff.jpg?v=1764597630
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Murumuru-Butter-min_wwj3gm.jpg?v=1773397428
   - [250g](https://inky-ingredients.com/products/murumuru-butter?variant=56370010521984)
     Availability: Available
     Price: £10.43 GBP
@@ -505,11 +509,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £822.00 GBP
 - [Olive Pomace Oil, Refined](https://inky-ingredients.com/products/olive-pomace-oil-refined): Refined Olive Pomace Oil is a versatile culinary companion. Extracted from the olive pulp, it's an excellent choice for cooking, baking, and even as a base in natural beauty formulations.
-  Updated: 2025-12-02T05:23:31Z
+  Updated: 2026-04-10T13:20:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0503-min_e113a775-2d1c-4df0-9b03-fa21fb3b5119.jpg?v=1764597638
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Olive-Pomace-min_gwo7eu.jpg?v=1773397434
   - [50ml](https://inky-ingredients.com/products/olive-pomace-oil-refined?variant=56370024710528)
     Availability: Available
     Price: £1.95 GBP
@@ -525,32 +529,32 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/olive-pomace-oil-refined?variant=56370024841600)
     Availability: Available
     Price: £31.00 GBP
-- [Palmarosa, Essential Oil Organic](https://inky-ingredients.com/products/palmarosa-essential-oil-organic): Organic palmarosa essential oil, maintaining its floral and rosy aroma. Renowned for skincare applications, it offers natural hydration and sebum regulation, contributing to healthier skin.
-  Updated: 2025-12-23T12:10:41Z
+- [Litsea Cubeba (May Chang), Essential Oil Organic](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil-organic): Organic Litsea Cubeba Essential Oil offers the same citrusy benefits with the added assurance of organic cultivation. Its refreshing scent makes it a delightful addition to natural skincare and aromatherapy.
+  Updated: 2026-04-10T14:20:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0335-min_5768601f-4170-4a3a-9af7-c97b5608c22d.jpg?v=1764597843
-  - [10ml](https://inky-ingredients.com/products/palmarosa-essential-oil-organic?variant=56370027004288)
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0268-min_31affceb-e260-4854-b194-3f16bc86c1c9.jpg?v=1764598088
+  - [10ml](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil-organic?variant=56370164400512)
     Availability: Available
-    Price: £4.42 GBP
-  - [50ml](https://inky-ingredients.com/products/palmarosa-essential-oil-organic?variant=56370027037056)
+    Price: £3.24 GBP
+  - [50ml](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil-organic?variant=56370164433280)
     Availability: Available
-    Price: £12.06 GBP
-  - [100ml](https://inky-ingredients.com/products/palmarosa-essential-oil-organic?variant=56370027069824)
+    Price: £8.64 GBP
+  - [100ml](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil-organic?variant=56370164466048)
     Availability: Available
-    Price: £23.40 GBP
-  - [500ml](https://inky-ingredients.com/products/palmarosa-essential-oil-organic?variant=56370027102592)
+    Price: £14.94 GBP
+  - [500ml](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil-organic?variant=56370164498816)
     Availability: Available
-    Price: £93.00 GBP
-  - [1kg](https://inky-ingredients.com/products/palmarosa-essential-oil-organic?variant=56370027135360)
+    Price: £61.20 GBP
+  - [1kg](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil-organic?variant=56370164531584)
     Availability: Available
-    Price: £192.00 GBP
-  - [5kg](https://inky-ingredients.com/products/palmarosa-essential-oil-organic?variant=56370027168128)
+    Price: £117.60 GBP
+  - [5kg](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil-organic?variant=56370164564352)
     Availability: Available
-    Price: £1,056.00 GBP
+    Price: £552.00 GBP
 - [Rosehip Seed Oil, Cold Pressed Organic (O Colour)](https://inky-ingredients.com/products/rosehip-seed-oil-cold-pressed-organic-o-colour): Cold-pressed organic Rosehip Seed Oil, rich in nutrients. This oil, with its natural colour, nourishes and revitalises the skin, promoting a healthy glow while maintaining organic purity.
-  Updated: 2025-12-18T18:54:59Z
+  Updated: 2026-04-10T22:40:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -571,11 +575,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £241.50 GBP
 - [Moringa Seed Oil, Cold Pressed](https://inky-ingredients.com/products/moringa-seed-oil-cold-pressed): Cold-pressed Moringa Seed Oil preserves its natural goodness. Packed with vitamins and antioxidants, it deeply moisturises and revitalises skin, promoting a healthy complexion and shiny, manageable hair.
-  Updated: 2025-12-09T17:49:59Z
+  Updated: 2026-04-13T13:23:24Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0294-min_d5ff45c6-7d19-420c-a025-95efacb161a1.jpg?v=1764597850
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Moringa-min_ddgli8.jpg?v=1773397563
   - [50ml](https://inky-ingredients.com/products/moringa-seed-oil-cold-pressed?variant=56370817761664)
     Availability: Available
     Price: £4.33 GBP
@@ -592,7 +596,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £175.80 GBP
 - [Pine Sylvestris, Essential Oil Organic](https://inky-ingredients.com/products/pine-sylvestris-essential-oil-organic): Organic Pine Sylvestris Essential Oil, derived from pine needles, offers a natural and pure option for enjoying the rejuvenating and uplifting aroma in aromatherapy.
-  Updated: 2025-12-08T18:22:32Z
+  Updated: 2026-03-18T14:21:22Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -616,7 +620,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £840.00 GBP
 - [Rose Water (Hydrolat)](https://inky-ingredients.com/products/rose-water-hydrolat): Rose Water, a hydrolat produced during steam distillation of rose petals, is a gentle and fragrant toner for the skin. Known for its soothing properties, it refreshes and hydrates, making it a popular addition to skincare routines for a radiant complexion.
-  Updated: 2025-12-17T14:22:30Z
+  Updated: 2026-04-06T21:08:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -637,7 +641,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £43.50 GBP
 - [Rose, Absolute](https://inky-ingredients.com/products/rose-absolute): Rose Absolute, an aromatic extract from rose flowers, is prized in perfumery. Renowned for its rich and deep floral scent, it adds opulence to fragrances. This precious absolute is a key ingredient in high-end perfumes and luxurious beauty products.
-  Updated: 2025-12-26T21:55:31Z
+  Updated: 2026-04-06T21:08:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -658,10 +662,10 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £2,640.00 GBP
   - [5kg](https://inky-ingredients.com/products/rose-absolute?variant=56370831884672)
-    Availability: Available
+    Availability: Not Available
     Price: £13,380.00 GBP
 - [Rose Geranium, Essential Oil Organic](https://inky-ingredients.com/products/rose-geranium-essential-oil-organic): Organic Rose Geranium Essential Oil is a fragrant essence celebrated for its balancing properties. With a sweet floral aroma, it promotes emotional well-being and skincare benefits, making it a prized ingredient for aromatherapy, beauty, and personal care products.
-  Updated: 2025-12-23T12:10:41Z
+  Updated: 2026-04-14T13:44:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -685,7 +689,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,116.00 GBP
 - [Nutmeg, Essential Oil](https://inky-ingredients.com/products/nutmeg-essential-oil): Nutmeg Essential Oil, derived from Myristica fragrans seeds, offers a warm and spicy aroma. Known for its comforting qualities, it is frequently used in aromatherapy to create a cozy atmosphere and is appreciated for its potential therapeutic benefits.
-  Updated: 2025-12-08T18:22:38Z
+  Updated: 2026-04-12T16:39:02Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -709,7 +713,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £429.60 GBP
 - [Petitgrain, Essential Oil](https://inky-ingredients.com/products/petitgrain-essential-oil): Petitgrain Essential Oil, extracted from citrus leaves, offers a fresh and woody aroma, known for its calming and uplifting properties in aromatherapy.
-  Updated: 2025-12-15T12:17:58Z
+  Updated: 2026-04-09T00:33:53Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -732,32 +736,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/petitgrain-essential-oil?variant=56370194350464)
     Availability: Available
     Price: £362.34 GBP
-- [Neroli Light, Essential Oil](https://inky-ingredients.com/products/neroli-light-essential-oil): Neroli Light Essential Oil is a fragrant extract renowned for its sweet and floral aroma. This oil, derived from orange blossoms, is cherished in aromatherapy for its calming properties and its ability to uplift the mood.
-  Updated: 2025-12-02T05:55:14Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0303-min_69a0c7b5-9324-4d98-b5f7-6793e8213c1a.jpg?v=1764598106
-  - [10ml](https://inky-ingredients.com/products/neroli-light-essential-oil?variant=56370041651584)
-    Availability: Available
-    Price: £2.61 GBP
-  - [50ml](https://inky-ingredients.com/products/neroli-light-essential-oil?variant=56370041684352)
-    Availability: Available
-    Price: £5.88 GBP
-  - [100ml](https://inky-ingredients.com/products/neroli-light-essential-oil?variant=56370041717120)
-    Availability: Available
-    Price: £9.60 GBP
-  - [500ml](https://inky-ingredients.com/products/neroli-light-essential-oil?variant=56370041749888)
-    Availability: Available
-    Price: £33.60 GBP
-  - [1kg](https://inky-ingredients.com/products/neroli-light-essential-oil?variant=56370041782656)
-    Availability: Available
-    Price: £54.96 GBP
-  - [5kg](https://inky-ingredients.com/products/neroli-light-essential-oil?variant=56370041815424)
-    Availability: Available
-    Price: £249.60 GBP
 - [Peppermint Mentha Piperita, Essential Oil](https://inky-ingredients.com/products/peppermint-mentha-piperita-essential-oil): Mentha Piperita Essential Oil, derived from peppermint, is celebrated for its cooling and soothing properties, making it a popular choice in aromatherapy.
-  Updated: 2025-12-16T20:29:15Z
+  Updated: 2026-04-13T20:54:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -781,7 +761,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £195.36 GBP
 - [Lemongrass, Essential Oil Organic](https://inky-ingredients.com/products/lemongrass-essential-oil-organic): Organic Lemongrass Essential Oil provides the same uplifting benefits as its conventional counterpart, with the added assurance of being sourced from organically grown lemongrass plants.
-  Updated: 2025-12-02T05:56:08Z
+  Updated: 2026-04-06T21:08:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -804,36 +784,12 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/lemongrass-essential-oil-organic?variant=56370202313088)
     Availability: Available
     Price: £371.40 GBP
-- [Lemongrass, Essential Oil](https://inky-ingredients.com/products/lemongrass-essential-oil): Lemongrass Essential Oil, with its citrusy and earthy notes, is renowned for its invigorating aroma. It's commonly used in aromatherapy to promote a sense of clarity, freshness, and relaxation.
-  Updated: 2025-12-05T19:32:36Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0259-min_ca42ed5f-67f4-499c-8d37-b3234a2ee2ae.jpg?v=1764597420
-  - [10ml](https://inky-ingredients.com/products/lemongrass-essential-oil?variant=56370204836224)
-    Availability: Available
-    Price: £2.38 GBP
-  - [50ml](https://inky-ingredients.com/products/lemongrass-essential-oil?variant=56370204868992)
-    Availability: Available
-    Price: £4.20 GBP
-  - [100ml](https://inky-ingredients.com/products/lemongrass-essential-oil?variant=56370204901760)
-    Availability: Available
-    Price: £6.12 GBP
-  - [500ml](https://inky-ingredients.com/products/lemongrass-essential-oil?variant=56370204934528)
-    Availability: Available
-    Price: £18.72 GBP
-  - [1kg](https://inky-ingredients.com/products/lemongrass-essential-oil?variant=56370204967296)
-    Availability: Available
-    Price: £35.88 GBP
-  - [5kg](https://inky-ingredients.com/products/lemongrass-essential-oil?variant=56370205000064)
-    Availability: Available
-    Price: £175.20 GBP
 - [Frankincense (Boswellia Carterii), Essential Oil](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil): Frankincense Essential Oil, derived from Boswellia Carterii, offers a woody, earthy scent. Renowned for its therapeutic properties, it is often used in aromatherapy to promote relaxation and spiritual well-being.
-  Updated: 2025-12-26T17:46:37Z
+  Updated: 2026-04-14T13:44:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0190-min_89bb43b4-15a0-4697-acd7-de90ef285d80.jpg?v=1764597434
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-FRANKINCENCE-min_po0myz.jpg?v=1773397496
   - [10ml](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil?variant=56370561024384)
     Availability: Available
     Price: £5.98 GBP
@@ -853,11 +809,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,080.00 GBP
 - [Mandarin (Red), Essential Oil](https://inky-ingredients.com/products/mandarin-red-essential-oil): Red Mandarin Essential Oil exudes a sweet and tangy aroma, known for its calming and balancing effects. Its aromatic profile makes it a delightful addition to aromatherapy and personal care products.
-  Updated: 2025-12-23T16:03:47Z
+  Updated: 2026-03-26T15:53:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0278-min_d53b0d77-4f96-4c82-b45f-d01aa10eb42b.jpg?v=1764597440
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-MANDARIN-min_a1rkfc.jpg?v=1773397571
   - [10ml](https://inky-ingredients.com/products/mandarin-red-essential-oil?variant=56370888212864)
     Availability: Available
     Price: £2.34 GBP
@@ -877,11 +833,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £198.00 GBP
 - [Lemon, Essential Oil](https://inky-ingredients.com/products/lemon-essential-oil): Lemon Essential Oil, extracted from citrus peels, is renowned for its uplifting aroma and versatile uses in aromatherapy. It promotes a refreshing and invigorating atmosphere.
-  Updated: 2025-12-15T10:02:04Z
+  Updated: 2026-04-12T16:39:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0254-min_1b08fb1c-3d44-41dc-80b9-eb14e1b0fb48.jpg?v=1764597669
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-LEMON-min_ohjk8g.jpg?v=1773397442
   - [10ml](https://inky-ingredients.com/products/lemon-essential-oil?variant=56370907644288)
     Availability: Available
     Price: £2.22 GBP
@@ -901,11 +857,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £100.80 GBP
 - [Kombo, Butter](https://inky-ingredients.com/products/kombo-butter): Kombo Butter, sourced from the African Pycnanthus tree, offers excellent emollient properties. It's known for its moisturising and conditioning effects on the skin and hair, making it a valuable addition to cosmetic formulations.
-  Updated: 2025-12-24T09:45:52Z
+  Updated: 2026-04-07T13:55:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0244-min_b3ffce64-1779-4276-af5e-4bc32e0771ff.jpg?v=1764597674
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Kpmbo-Butter-min_j8twzy.jpg?v=1773397503
   - [250g](https://inky-ingredients.com/products/kombo-butter?variant=56370045747584)
     Availability: Available
     Price: £5.82 GBP
@@ -922,7 +878,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £531.84 GBP
 - [Lavender, Essential Oil Organic](https://inky-ingredients.com/products/lavender-essential-oil-organic): Organic Lavender Essential Oil preserves the calming and soothing properties of lavender in its purest form. Sourced organically, it meets the demand for natural and environmentally friendly options in aromatherapy and skincare.
-  Updated: 2025-12-23T12:10:42Z
+  Updated: 2026-04-13T09:39:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -946,7 +902,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £582.00 GBP
 - [Lavender, Essential Oil (40/42)](https://inky-ingredients.com/products/lavender-essential-oil-40-42): Lavender Essential Oil (40/42) maintains a consistent lavender scent profile. Known for its calming properties, it finds applications in aromatherapy and skincare formulations seeking the classic and familiar lavender aroma.
-  Updated: 2025-12-02T05:02:58Z
+  Updated: 2026-02-26T09:10:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -969,8 +925,32 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/lavender-essential-oil-40-42?variant=56370052661632)
     Availability: Available
     Price: £313.20 GBP
+- [Juniperberry, Essential Oil Organic](https://inky-ingredients.com/products/juniperberry-essential-oil-organic): Organic Juniper Berry Essential Oil maintains the same benefits as its conventional counterpart. However, its organic origin ensures a purity that appeals to those seeking natural and environmentally friendly products.
+  Updated: 2026-04-06T21:08:23Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0239-min_b98393a6-1f61-45b7-b50a-3c8c64010ca3.jpg?v=1764597688
+  - [10ml](https://inky-ingredients.com/products/juniperberry-essential-oil-organic?variant=56370958860672)
+    Availability: Available
+    Price: £3.88 GBP
+  - [50ml](https://inky-ingredients.com/products/juniperberry-essential-oil-organic?variant=56370958893440)
+    Availability: Available
+    Price: £12.60 GBP
+  - [100ml](https://inky-ingredients.com/products/juniperberry-essential-oil-organic?variant=56370958926208)
+    Availability: Available
+    Price: £21.98 GBP
+  - [500ml](https://inky-ingredients.com/products/juniperberry-essential-oil-organic?variant=56370958958976)
+    Availability: Available
+    Price: £94.80 GBP
+  - [1kg](https://inky-ingredients.com/products/juniperberry-essential-oil-organic?variant=56370958991744)
+    Availability: Available
+    Price: £175.20 GBP
+  - [5kg](https://inky-ingredients.com/products/juniperberry-essential-oil-organic?variant=56370959024512)
+    Availability: Available
+    Price: £792.00 GBP
 - [Juniperberry, Essential Oil](https://inky-ingredients.com/products/juniperberry-essential-oil): Juniper Berry Essential Oil offers a refreshing and woody aroma. Its therapeutic properties include stress relief and a natural antiseptic. It's commonly used in aromatherapy to promote relaxation and emotional well-being.
-  Updated: 2025-12-26T17:46:36Z
+  Updated: 2026-03-31T00:09:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -994,11 +974,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £313.20 GBP
 - [Cypress, Essential Oil](https://inky-ingredients.com/products/cypress-essential-oil): Cypress Essential Oil, renowned for its woody aroma, promotes respiratory health and emotional well-being. Its astringent properties make it valuable for skincare and it blends well in aromatherapy.
-  Updated: 2025-12-08T02:32:36Z
+  Updated: 2026-03-28T20:06:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0168-min_fa76bf94-05ce-47f4-9076-e5d56a500f6d.jpg?v=1764597918
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-CYPRESS-min_b474pk.jpg?v=1773397449
   - [10ml](https://inky-ingredients.com/products/cypress-essential-oil?variant=56370219254144)
     Availability: Available
     Price: £3.60 GBP
@@ -1018,11 +998,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £346.80 GBP
 - [Coffee Green Oil, Cold Pressed](https://inky-ingredients.com/products/coffee-green-oil-cold-pressed): Cold-pressed Coffee Green Oil is a potent antioxidant for skincare. Rich in polyphenols, it helps combat free radicals, promoting a revitalised and youthful complexion.
-  Updated: 2025-12-24T09:45:52Z
+  Updated: 2026-04-13T09:39:49Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0155-min_3ad91ddb-29a9-4e92-8e4c-e826eaebece4.jpg?v=1764598129
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Coffee_20Green-min_5jbj6e.jpg?v=1773397371
   - [50ml](https://inky-ingredients.com/products/coffee-green-oil-cold-pressed?variant=49259266015526)
     Availability: Available
     Price: £5.82 GBP
@@ -1039,11 +1019,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £319.80 GBP
 - [Coconut Oil, Refined](https://inky-ingredients.com/products/coconut-oil-refined): Refined Coconut Oil is a versatile culinary oil. With a high smoke point, it's perfect for cooking and baking, providing a neutral flavor to dishes.
-  Updated: 2025-12-11T10:31:47Z
+  Updated: 2026-03-13T22:26:28Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0152-min_fe642de2-c077-4af0-9221-5d8d044801b8.jpg?v=1764597701
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Coconut-Refined-min_ulr2z0.jpg?v=1773397516
   - [250ml](https://inky-ingredients.com/products/coconut-oil-refined?variant=49405306700070)
     Availability: Available
     Price: £2.00 GBP
@@ -1063,7 +1043,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £66.50 GBP
 - [Jojoba Seed Oil Golden, Cold Pressed Organic](https://inky-ingredients.com/products/jojoba-seed-oil-golden-cold-pressed-organic): Organic Cold-pressed Jojoba Seed Oil Golden is a pure, natural moisturiser. Rich in nutrients, it nourishes the skin and hair deeply. Its organic origin ensures a clean, sustainable product for various cosmetic applications.
-  Updated: 2025-12-29T20:48:01Z
+  Updated: 2026-04-10T18:18:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1084,11 +1064,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £136.98 GBP
 - [Jojoba Seed Oil Golden, Cold Pressed](https://inky-ingredients.com/products/jojoba-seed-oil-golden-cold-pressed): Cold-pressed Jojoba Seed Oil Golden, with a natural golden hue, mimics the skin's sebum. It moisturises without clogging pores, providing balance. Ideal for skincare, haircare, and massage, leaving a nourished and radiant feel.
-  Updated: 2025-12-27T11:51:25Z
+  Updated: 2026-04-14T12:05:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0235-min_250c0394-1459-4f1f-b53b-876cc6f8d1ba.jpg?v=1764597472
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Jojoba_20Oil-min_jpx107.jpg?v=1773397579
   - [50ml](https://inky-ingredients.com/products/jojoba-seed-oil-golden-cold-pressed?variant=56370222858624)
     Availability: Available
     Price: £3.30 GBP
@@ -1105,7 +1085,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £108.18 GBP
 - [Coconut Oil, Unrefined (Virgin) Organic](https://inky-ingredients.com/products/coconut-oil-unrefined-virgin-organic): Organic and unrefined, Virgin Coconut Oil is a natural treasure for skin and hair. It deeply moisturises, nourishes, and imparts a delightful coconut aroma.
-  Updated: 2025-12-17T10:08:09Z
+  Updated: 2026-04-08T20:24:33Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1125,12 +1105,36 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [23kg](https://inky-ingredients.com/products/coconut-oil-unrefined-virgin-organic?variant=49467089551654)
     Availability: Available
     Price: £204.00 GBP
-- [Grapefruit (White), Essential Oil (P&N)](https://inky-ingredients.com/products/grapefruit-white-essential-oil): White Grapefruit Essential Oil offers a refreshing and uplifting aroma, promoting a sense of vitality. Its aromatic properties make it a valuable addition to personal care products and aromatherapy blends.
-  Updated: 2025-12-05T19:04:30Z
+- [Grapefruit (Pink), Essential Oil Organic](https://inky-ingredients.com/products/grapefruit-pink-essential-oil-organic): Organic Pink Grapefruit Essential Oil brings a fresh and invigorating aroma to personal care products. With its organic quality, it adds a natural touch to formulations, enhancing the overall sensory experience.
+  Updated: 2026-03-31T00:09:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0207-min_42299db2-386b-46fa-9032-c1c82fb4a4e9.jpg?v=1764597475
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0208-min_d59df49c-b46a-4ff7-be46-be7a39887759.jpg?v=1764598144
+  - [10ml](https://inky-ingredients.com/products/grapefruit-pink-essential-oil-organic?variant=56370657657216)
+    Availability: Available
+    Price: £6.00 GBP
+  - [50ml](https://inky-ingredients.com/products/grapefruit-pink-essential-oil-organic?variant=56370657689984)
+    Availability: Available
+    Price: £14.40 GBP
+  - [100ml](https://inky-ingredients.com/products/grapefruit-pink-essential-oil-organic?variant=56370657722752)
+    Availability: Available
+    Price: £27.60 GBP
+  - [500ml](https://inky-ingredients.com/products/grapefruit-pink-essential-oil-organic?variant=56370657755520)
+    Availability: Available
+    Price: £116.40 GBP
+  - [1kg](https://inky-ingredients.com/products/grapefruit-pink-essential-oil-organic?variant=56370657788288)
+    Availability: Available
+    Price: £216.00 GBP
+  - [5kg](https://inky-ingredients.com/products/grapefruit-pink-essential-oil-organic?variant=56370657821056)
+    Availability: Available
+    Price: £1,039.20 GBP
+- [Grapefruit (White), Essential Oil (P&N)](https://inky-ingredients.com/products/grapefruit-white-essential-oil): White Grapefruit Essential Oil offers a refreshing and uplifting aroma, promoting a sense of vitality. Its aromatic properties make it a valuable addition to personal care products and aromatherapy blends.
+  Updated: 2026-03-14T21:25:10Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-GRAPEFRUIT_20_28WHITE_29-min_84su2z.jpg?v=1773397378
   - [10ml](https://inky-ingredients.com/products/grapefruit-white-essential-oil?variant=56370660442496)
     Availability: Available
     Price: £2.94 GBP
@@ -1150,11 +1154,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £259.80 GBP
 - [Ginger, Essential Oil](https://inky-ingredients.com/products/ginger-essential-oil): Ginger Essential Oil, with its warm and spicy aroma, holds therapeutic potential. Whether in aromatherapy or massage, it stimulates and invigorates, contributing to a revitalising and energizing sensory experience.
-  Updated: 2025-12-08T18:22:38Z
+  Updated: 2026-04-10T18:18:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0201-min_2295b014-bb60-4039-93e2-e17e04ce0fe1.jpg?v=1764597710
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-GINGER-min_gexapn.jpg?v=1773397384
   - [10ml](https://inky-ingredients.com/products/ginger-essential-oil?variant=56370671321472)
     Availability: Available
     Price: £3.42 GBP
@@ -1174,11 +1178,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £410.40 GBP
 - [Clary Sage, Essential Oil (COSMOS Natural)](https://inky-ingredients.com/products/clary-sage-essential-oil): Clary Sage Essential Oil boasts a herbaceous, sweet fragrance. Recognized for its calming and balancing effects, it is often used in aromatherapy and skincare formulations to promote relaxation and emotional well-being.
-  Updated: 2025-12-20T22:15:50Z
+  Updated: 2026-04-13T21:23:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0136-min_cd8a0aa2-59c2-40a1-8bdf-82b710328272.jpg?v=1764598149
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-CLARY-SAGE-min_wypjcr.jpg?v=1773397585
   - [10ml](https://inky-ingredients.com/products/clary-sage-essential-oil?variant=49259269816614)
     Availability: Available
     Price: £4.56 GBP
@@ -1198,7 +1202,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £552.00 GBP
 - [Cedarwood Atlas, Essential Oil Organic](https://inky-ingredients.com/products/cedarwood-atlas-essential-oil-organic): Organic Cedarwood Atlas Essential Oil, sourced sustainably, retains its grounding properties. Its organic nature makes it a preferred choice for those seeking natural and eco-friendly options.
-  Updated: 2025-12-24T19:22:17Z
+  Updated: 2026-04-13T14:47:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1222,11 +1226,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £207.60 GBP
 - [Cedarwood Atlas, Essential Oil](https://inky-ingredients.com/products/cedarwood-atlas-essential-oil): Cedarwood Atlas Essential Oil, with a rich, woody scent, is prized in aromatherapy for its grounding effects. It's commonly used to evoke a sense of tranquility and emotional balance.
-  Updated: 2025-12-05T21:47:04Z
+  Updated: 2026-04-14T13:44:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0114-min_2933ab18-165d-4e51-aebb-4ea00f41b55a.jpg?v=1764597482
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Cedarwood-aTLAS-min_efbrju.jpg?v=1773397389
   - [10ml](https://inky-ingredients.com/products/cedarwood-atlas-essential-oil?variant=49259270603046)
     Availability: Available
     Price: £3.42 GBP
@@ -1246,11 +1250,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £165.84 GBP
 - [Cedarwood, Essential Oil](https://inky-ingredients.com/products/cedarwood-essential-oil): Cedarwood Essential Oil, derived from wood, exhibits a warm and woody aroma. Known for its calming properties, it's often used in aromatherapy to promote relaxation and stress relief.
-  Updated: 2025-12-26T17:46:36Z
+  Updated: 2026-03-27T08:19:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0113-min_61dfa96a-3e94-40ba-9370-8c02fbd37d12.jpg?v=1764597939
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Cedarwood_0l0l8h.jpg?v=1773397458
   - [10ml](https://inky-ingredients.com/products/cedarwood-essential-oil?variant=49259271127334)
     Availability: Available
     Price: £3.42 GBP
@@ -1269,29 +1273,56 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/cedarwood-essential-oil?variant=49259270963494)
     Availability: Available
     Price: £117.60 GBP
-- [Beeswax White (BP/EP)](https://inky-ingredients.com/products/beeswax-white-bp-ep): Beeswax White (BP/EP) is a pharmaceutical-grade beeswax known for its purity. It finds use in various medicinal and cosmetic applications, providing a stable base and emollient properties to formulations.
-  Updated: 2025-12-29T16:28:36Z
+- [Geranium Egyptian, Essential Oil](https://inky-ingredients.com/products/geranium-egyptian-essential-oil): Geranium Egyptian Essential Oil features a rosy, herbaceous fragrance. Valued in aromatherapy, it offers emotional support and enhances skincare routines, bringing a sense of balance and well-being to daily rituals.
+  Updated: 2026-04-14T13:44:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0057-min_bc936333-b89e-4e0c-8865-246bc0adf97f.jpg?v=1764597740
-  - [250g](https://inky-ingredients.com/products/beeswax-white-bp-ep?variant=49259273486630)
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Geranium-EgyptiaN-min_7m8d4g.jpg?v=1773397464
+  - [10ml](https://inky-ingredients.com/products/geranium-egyptian-essential-oil?variant=56370068652416)
     Availability: Available
-    Price: £5.32 GBP
-  - [500g](https://inky-ingredients.com/products/beeswax-white-bp-ep?variant=49259273453862)
+    Price: £3.26 GBP
+  - [50ml](https://inky-ingredients.com/products/geranium-egyptian-essential-oil?variant=56370068685184)
     Availability: Available
-    Price: £9.52 GBP
-  - [1kg](https://inky-ingredients.com/products/beeswax-white-bp-ep?variant=49259273421094)
+    Price: £9.30 GBP
+  - [100ml](https://inky-ingredients.com/products/geranium-egyptian-essential-oil?variant=56370068717952)
     Availability: Available
-    Price: £17.30 GBP
-  - [5kg](https://inky-ingredients.com/products/beeswax-white-bp-ep?variant=49259273388326)
+    Price: £16.43 GBP
+  - [500ml](https://inky-ingredients.com/products/geranium-egyptian-essential-oil?variant=56370068750720)
     Availability: Available
-    Price: £78.00 GBP
-  - [25kg](https://inky-ingredients.com/products/beeswax-white-bp-ep?variant=49259273355558)
+    Price: £67.25 GBP
+  - [1kg](https://inky-ingredients.com/products/geranium-egyptian-essential-oil?variant=56370068783488)
     Availability: Available
-    Price: £357.60 GBP
+    Price: £127.68 GBP
+  - [5kg](https://inky-ingredients.com/products/geranium-egyptian-essential-oil?variant=56370068816256)
+    Availability: Available
+    Price: £612.00 GBP
+- [Bergamot (Furocoumarin Free), Essential Oil (COSMOS Natural)](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil): Natural Bergamot FCF Essential Oil, devoid of furocoumarins, preserves the essence of bergamot's citrusy fragrance. Ideal for natural product formulations, it offers a fresh and aromatic profile to various applications.
+  Updated: 2026-04-13T19:37:28Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-BERGAMOT_n6jxw2.jpg?v=1773397531
+  - [10ml](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil?variant=49259272962342)
+    Availability: Available
+    Price: £3.18 GBP
+  - [50ml](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil?variant=49259272929574)
+    Availability: Available
+    Price: £5.93 GBP
+  - [100ml](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil?variant=49259272864038)
+    Availability: Available
+    Price: £10.79 GBP
+  - [500ml](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil?variant=49259272831270)
+    Availability: Available
+    Price: £31.26 GBP
+  - [1kg](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil?variant=49259272798502)
+    Availability: Available
+    Price: £54.60 GBP
+  - [5kg](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil?variant=49259272765734)
+    Availability: Available
+    Price: £207.00 GBP
 - [Argan Oil, Cold Pressed Deodorised Organic](https://inky-ingredients.com/products/argan-oil-cold-pressed-deodorised-organic): Organic, deodorised, cold-pressed Argan oil is a premium choice for natural beauty formulations. It offers the same luxurious benefits with the added assurance of organic origin.
-  Updated: 2025-12-28T17:07:47Z
+  Updated: 2026-04-13T13:51:40Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1310,9 +1341,9 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Price: £54.72 GBP
   - [5kg](https://inky-ingredients.com/products/argan-oil-cold-pressed-deodorised-organic?variant=49259273748774)
     Availability: Available
-    Price: £218.28 GBP
+    Price: £234.00 GBP
 - [Beeswax Yellow (BP/EP)](https://inky-ingredients.com/products/beeswax-yellow-bp-ep): High-quality Beeswax Yellow (BP/EP) is a versatile cosmetic ingredient with various applications. It provides emollient and protective properties, making it ideal for skincare and cosmetic formulations.
-  Updated: 2025-12-20T22:15:51Z
+  Updated: 2026-04-14T13:35:12Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1333,11 +1364,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £352.80 GBP
 - [Candelilla Wax](https://inky-ingredients.com/products/candelilla-wax): Candelilla Wax, a plant-based, eco-friendly alternative to beeswax, offers durability, hypoallergenic properties, and suitability for all skin types. Ideal for cosmetics like lipsticks, balms, and lotions, it supports sustainable, ethical, and effective formulations.
-  Updated: 2025-12-23T12:10:42Z
+  Updated: 2026-04-14T10:54:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0098-min_fc144c42-4fd4-4bce-ad47-0cb168bc1656.jpg?v=1764597741
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Cadelilla-Wax-min_4masrr.jpg?v=1773397472
   - [250g](https://inky-ingredients.com/products/candelilla-wax?variant=49259274731814)
     Availability: Available
     Price: £10.02 GBP
@@ -1354,7 +1385,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £690.00 GBP
 - [Black Pepper, Essential Oil](https://inky-ingredients.com/products/black-pepper-essential-oil): Black Pepper Essential Oil, derived from the spicy berries, offers a warming and stimulating aroma. Its versatile uses include aromatherapy, massage, and diffusion for an invigorating experience.
-  Updated: 2025-12-26T17:46:36Z
+  Updated: 2026-04-07T13:54:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1377,12 +1408,33 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/black-pepper-essential-oil?variant=49259275059494)
     Availability: Available
     Price: £384.00 GBP
-- [Amla Oil, Cold Pressed](https://inky-ingredients.com/products/amla-oil-cold-pressed): Cold-pressed Amla Oil is a nourishing solution for hair and skin. Rich in antioxidants and vitamin C, it promotes hair growth and conditions the skin, providing a natural boost to overall hair and skin health.
-  Updated: 2025-12-28T08:52:31Z
+- [Black Cumin Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed-organic): Organic and cold-pressed, Black Cumin Seed Oil is a potent source of antioxidants and nourishing compounds, promoting skin health and vitality with its natural and pure formulation.
+  Updated: 2026-04-08T20:24:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0023-min_b7fd2769-a19b-413b-adbd-65a95b086fee.jpg?v=1764597990
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0065-min_e00422e0-febe-417c-bc06-36b09f9d15da.jpg?v=1764597531
+  - [50ml](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed-organic?variant=49259276534054)
+    Availability: Available
+    Price: £4.16 GBP
+  - [250ml](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed-organic?variant=49259276665126)
+    Availability: Available
+    Price: £9.12 GBP
+  - [500ml](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed-organic?variant=49259276632358)
+    Availability: Available
+    Price: £16.62 GBP
+  - [1kg](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed-organic?variant=49259276599590)
+    Availability: Available
+    Price: £30.17 GBP
+  - [5kg](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed-organic?variant=49259276566822)
+    Availability: Available
+    Price: £137.10 GBP
+- [Amla Oil, Cold Pressed](https://inky-ingredients.com/products/amla-oil-cold-pressed): Cold-pressed Amla Oil is a nourishing solution for hair and skin. Rich in antioxidants and vitamin C, it promotes hair growth and conditions the skin, providing a natural boost to overall hair and skin health.
+  Updated: 2026-04-13T09:39:47Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-ALMA-min_q6yi43.jpg?v=1773397539
   - [50ml](https://inky-ingredients.com/products/amla-oil-cold-pressed?variant=49259276960038)
     Availability: Available
     Price: £7.20 GBP
@@ -1399,11 +1451,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £181.44 GBP
 - [Apricot Kernel Oil, Refined](https://inky-ingredients.com/products/apricot-kernel-oil-refined): Refined Apricot Kernel Oil is a light, non-greasy oil with excellent emollient properties. It easily absorbs into the skin, providing hydration and promoting a soft, supple texture. Ideal for skincare formulations, it contributes to a smoother and revitalised complexion.
-  Updated: 2025-12-07T19:10:43Z
+  Updated: 2026-04-07T08:08:41Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0031-min_f49f1d95-93c3-4f0e-b748-6fe736fb7cd5.jpg?v=1764597532
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Apricot-Kernel-Refined-min_ge6a6e.jpg?v=1773397403
   - [50ml](https://inky-ingredients.com/products/apricot-kernel-oil-refined?variant=49259277517094)
     Availability: Available
     Price: £2.94 GBP
@@ -1419,12 +1471,33 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/apricot-kernel-oil-refined?variant=49259277386022)
     Availability: Available
     Price: £35.82 GBP
-- [Bakuchi (Bakuchiol) Oil, Cold Pressed](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-cold-pressed): Embrace the benefits of Bakuchi Oil with this cold-pressed variant. Known for its natural retinol alternative, Bakuchiol nourishes and rejuvenates the skin, promoting a youthful complexion without the sensitivity associated with traditional retinol.
-  Updated: 2025-12-27T21:38:01Z
+- [Bakuchi (Bakuchiol) Oil, Refined](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-refined): Refined Bakuchi (Bakuchiol) Oil, extracted from Psoralea corylifolia seeds, is a natural alternative to retinol. Renowned for its anti-aging benefits, it promotes skin renewal and elasticity without the sensitivity of traditional retinoids.
+  Updated: 2026-04-09T15:58:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0715-min_267dd656-a472-4cf2-a606-22874f85e150.jpg?v=1764598190
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Bakuchi-Refined-min_ud41b5.jpg?v=1773397594
+  - [50ml](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-refined?variant=56370075140480)
+    Availability: Available
+    Price: £5.40 GBP
+  - [250ml](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-refined?variant=56370075173248)
+    Availability: Available
+    Price: £14.40 GBP
+  - [500ml](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-refined?variant=56370075206016)
+    Availability: Available
+    Price: £27.60 GBP
+  - [1kg](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-refined?variant=56370075238784)
+    Availability: Available
+    Price: £53.40 GBP
+  - [5kg](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-refined?variant=56370075271552)
+    Availability: Available
+    Price: £265.80 GBP
+- [Bakuchi (Bakuchiol) Oil, Cold Pressed](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-cold-pressed): Embrace the benefits of Bakuchi Oil with this cold-pressed variant. Known for its natural retinol alternative, Bakuchiol nourishes and rejuvenates the skin, promoting a youthful complexion without the sensitivity associated with traditional retinol.
+  Updated: 2026-04-12T14:26:06Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Bakuchi-min_cgfdvj.jpg?v=1773397544
   - [50ml](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-cold-pressed?variant=56370235900288)
     Availability: Available
     Price: £5.58 GBP
@@ -1441,7 +1514,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £249.60 GBP
 - [Almond (Sweet) Oil, Cold Pressed Organic](https://inky-ingredients.com/products/almond-sweet-oil-cold-pressed-organic): Organic Cold-pressed Sweet Almond Oil is a natural emollient. Enriched with vitamins and fatty acids, it deeply moisturises the skin, leaving it soft and supple. An organic choice for skincare formulations prioritising natural and wholesome ingredients.
-  Updated: 2025-12-29T20:48:01Z
+  Updated: 2026-04-11T12:31:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1462,11 +1535,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £110.66 GBP
 - [Almond (Sweet) BP73 Oil, Refined](https://inky-ingredients.com/products/almond-sweet-bp73-oil-refined): Sweet Almond Oil (BP73), refined, is a cosmetic-grade oil with emollient properties. It easily absorbs into the skin, providing hydration and promoting a soft, supple texture. An ideal ingredient for skincare formulations aiming for a smooth and revitalised complexion.
-  Updated: 2025-12-27T14:50:07Z
+  Updated: 2026-04-13T14:16:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Almond-BP73-min_d2336306-efdf-42c5-97b1-4b35ca01cea2.jpg?v=1764597777
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Almond-BP73-min_nr0rgv.jpg?v=1773397410
   - [50ml](https://inky-ingredients.com/products/almond-sweet-bp73-oil-refined?variant=49259279745318)
     Availability: Available
     Price: £1.75 GBP
@@ -1483,11 +1556,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £19.85 GBP
 - [Abyssinian Seed Oil (Crambe), Refined](https://inky-ingredients.com/products/abyssinian-seed-oil-crambe-refined): Embark on a transformative journey with Abyssinian Seed Oil, nature's secret from South Africa. Rich in vitamins, antioxidants, and anti-inflammatory wonders, it breathes life into skin and hair. Experience the allure!
-  Updated: 2025-12-22T13:46:00Z
+  Updated: 2026-04-13T08:51:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Abyssinian-min_89eafa6e-8595-4842-a100-360866872bbe.jpg?v=1764597536
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Abyssinian-min_zaa354.jpg?v=1773397416
   - [50ml](https://inky-ingredients.com/products/abyssinian-seed-oil-crambe-refined?variant=49259280072998)
     Availability: Available
     Price: £3.88 GBP
@@ -1504,7 +1577,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £117.00 GBP
 - [Aloe Vera 10:1, Concentrate](https://inky-ingredients.com/products/aloe-vera-10-1-concentrate): Aloe Vera 10:1 Concentrate is a potent natural extract, offering concentrated benefits. It's a versatile ingredient in skincare, known for its soothing and moisturising properties, promoting overall skin health.
-  Updated: 2025-12-24T19:22:17Z
+  Updated: 2026-04-13T20:54:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1525,7 +1598,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £103.52 GBP
 - [Almond (Sweet) Shells, Exfoliant (Irradiated)](https://inky-ingredients.com/products/almond-sweet-shells-exfoliant-irradiated): Irradiated sweet almond shells offer a gentle exfoliation, promoting skin renewal. Ideal for cosmetics, these shells efficiently remove dead cells.
-  Updated: 2025-12-15T22:15:54Z
+  Updated: 2026-03-03T12:39:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1546,7 +1619,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £285.60 GBP
 - [Almond (Sweet), Wax](https://inky-ingredients.com/products/almond-sweet-wax): Sweet Almond Wax is a natural wax derived from almonds. With its emollient properties, it contributes to the texture and consistency of cosmetic formulations. Ideal for products where a smooth and creamy texture is desired, adding a luxurious touch to skincare applications.
-  Updated: 2025-12-02T06:09:51Z
+  Updated: 2026-04-05T04:27:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1567,7 +1640,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £427.20 GBP
 - [Almond (Sweet), Butter](https://inky-ingredients.com/products/almond-sweet-butter): Sweet Almond Butter, derived from almonds, is a rich and creamy emollient. Known for its moisturising properties, it conditions the skin, leaving it soft and smooth. An excellent choice for formulations aiming for deep hydration and a luxurious feel.
-  Updated: 2025-12-02T05:42:01Z
+  Updated: 2026-03-31T07:44:19Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1588,7 +1661,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £290.40 GBP
 - [Almond (Sweet) EP9 Oil, Refined](https://inky-ingredients.com/products/almond-sweet-ep9-oil-refined): Refined Sweet Almond Oil (EP9) is a cosmetic-grade oil that nourishes and moisturises the skin. With its light and non-greasy texture, it absorbs quickly, leaving the skin soft and supple. A versatile ingredient for skincare formulations seeking a silky and revitalised appearance.
-  Updated: 2025-12-02T06:10:57Z
+  Updated: 2026-04-02T21:21:29Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1609,7 +1682,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £31.50 GBP
 - [Batana (Ojon) Oil, Cold Pressed](https://inky-ingredients.com/products/batana-ojon-oil-cold-pressed): Please note: 100% pure Batana oil is heavier and richer in texture than other popular oils and can have a solid, paste-like consistency at cooler temperatures. In warmer conditions, it becomes a liquid. Packaging may vary depending on its state at the time of filling.Its orange-red hue is representative of its purity and nutrient-rich profile. Because it’s a natural ingredient, slight variations in colour and texture may occur - these are signs of authenticity and do not affect the quality or benefits of the oil.Unveil the magic of Batana Oil, a nourishing treasure from the rainforests. Packed with essential fatty acids and antioxidants, it deeply restores hair and skin, revealing their natural beauty. Embrace radiance!
-  Updated: 2025-12-27T11:51:26Z
+  Updated: 2026-04-13T17:58:58Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1629,8 +1702,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/batana-ojon-oil-cold-pressed?variant=49466139640102)
     Availability: Available
     Price: £105.00 GBP
-- [Bodywash, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/bodywash-base-cosmos-organic): COSMOS Organic-certified Bodywash Base offers a luxurious and organic cleansing experience. Formulated with skin-friendly ingredients, it gently cleanses, leaving the skin feeling refreshed and rejuvenated. A foundation for crafting high-quality organic body wash products.
-  Updated: 2025-12-18T16:46:07Z
+- [Bodywash, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/bodywash-base-cosmos-organic): COSMOS Organic- Bodywash Base offers a luxurious and organic cleansing experience. Formulated with skin-friendly ingredients, it gently cleanses, leaving the skin feeling refreshed and rejuvenated. A foundation for crafting high-quality organic body wash products.
+  Updated: 2026-04-13T17:58:52Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1645,7 +1718,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £134.40 GBP
 - [Wheatgerm Oil, Refined](https://inky-ingredients.com/products/wheatgerm-oil-refined): Refined Wheatgerm Oil, with a lighter texture, is perfect for skincare. It maintains the nourishing properties, providing essential nutrients for skin health without the heaviness, leaving a silky and smooth finish.
-  Updated: 2025-12-02T05:44:03Z
+  Updated: 2026-02-10T13:21:51Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1666,7 +1739,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.73 GBP
 - [Wheatgerm Oil, Cold Pressed](https://inky-ingredients.com/products/wheatgerm-oil-cold-pressed): Cold-pressed Wheatgerm Oil is a nutrient-rich oil known for its high vitamin E content. It deeply nourishes and revitalises the skin, making it a valuable addition to skincare formulations aiming to enhance skin health.
-  Updated: 2025-12-23T02:49:40Z
+  Updated: 2026-04-08T09:15:43Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1687,7 +1760,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £60.00 GBP
 - [Walnut Oil, Refined](https://inky-ingredients.com/products/walnut-oil-refined): Refined Walnut Oil is a light, non-greasy oil that maintains the benefits of walnut oil while ensuring purity. Ideal for skincare, it moisturises without residue, leaving the skin soft, supple, and rejuvenated.
-  Updated: 2025-12-11T10:31:47Z
+  Updated: 2026-03-27T13:32:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1708,7 +1781,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £38.40 GBP
 - [Thyme (White), Essential Oil](https://inky-ingredients.com/products/thyme-white-essential-oil): White Thyme Essential Oil, derived from Thymus vulgaris, offers a herbaceous aroma with therapeutic benefits. Known for antimicrobial properties, it stimulates the senses, aids respiratory health, and is a popular choice in aromatherapy and skincare formulations.
-  Updated: 2025-12-23T12:10:42Z
+  Updated: 2026-02-10T13:21:59Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1732,7 +1805,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £172.80 GBP
 - [Thyme (Red), Essential Oil](https://inky-ingredients.com/products/thyme-red-essential-oil): Red thyme essential oil, prized for its herbaceous scent. With potential antimicrobial properties, it's used in aromatherapy for its invigorating aroma and may offer benefits for respiratory health and focus.
-  Updated: 2025-12-02T04:50:03Z
+  Updated: 2026-03-26T11:37:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1756,7 +1829,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £288.00 GBP
 - [Tea Tree Lemon Scented, Essential Oil](https://inky-ingredients.com/products/tea-tree-lemon-scented-essential-oil): Lemon-scented tea tree essential oil, blending the benefits of tea tree with a citrus twist. With antimicrobial properties, it refreshes and uplifts, making it a delightful addition to aromatherapy and skincare.
-  Updated: 2025-12-02T05:45:12Z
+  Updated: 2026-03-10T20:37:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1780,7 +1853,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £406.80 GBP
 - [Tea Tree (South African), Essential Oil Organic](https://inky-ingredients.com/products/tea-tree-south-african-essential-oil-organic): Organic South African tea tree essential oil. With natural antibacterial properties, it's an organic skincare solution. Known for its fresh and invigorating scent, it contributes to a holistic approach to skin care.
-  Updated: 2025-12-07T19:10:40Z
+  Updated: 2026-03-09T22:16:52Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1804,7 +1877,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £474.00 GBP
 - [Tea Tree (Australian), Essential Oil](https://inky-ingredients.com/products/tea-tree-australian-essential-oil): Australian tea tree essential oil, known for its potent antimicrobial qualities. Ideal for skincare and hair care, it supports a clean and healthy complexion. The distinct aroma adds a refreshing touch to products.
-  Updated: 2025-12-05T19:32:37Z
+  Updated: 2026-03-23T09:13:39Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1828,7 +1901,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £242.40 GBP
 - [Tangerine, Essential Oil Organic](https://inky-ingredients.com/products/tangerine-essential-oil-organic): Organic tangerine essential oil, capturing the pure essence of citrus. Known for its mood-enhancing properties, it's a natural choice for aromatherapy. Its organic nature adds to its appeal for holistic well-being.
-  Updated: 2025-12-03T08:17:27Z
+  Updated: 2026-02-25T23:59:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1852,7 +1925,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £774.00 GBP
 - [Tangerine, Essential Oil](https://inky-ingredients.com/products/tangerine-essential-oil): Tangerine essential oil, prized for its citrusy aroma. In aromatherapy, it uplifts the mood and promotes a sense of well-being. Its refreshing scent may also have potential benefits for skin and hair care.
-  Updated: 2025-12-02T08:38:37Z
+  Updated: 2026-02-25T23:59:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1876,7 +1949,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £132.00 GBP
 - [Tamanu Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/tamanu-seed-oil-cold-pressed-organic): Organic, cold-pressed tamanu seed oil. With its natural healing properties, it's a sought-after ingredient in skincare formulations, offering deep moisturisation and supporting the skin's overall well-being.
-  Updated: 2025-12-18T18:54:58Z
+  Updated: 2026-04-08T11:04:44Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1896,29 +1969,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/tamanu-seed-oil-cold-pressed-organic?variant=56369968677248)
     Availability: Available
     Price: £192.00 GBP
-- [Sunflower Seed Oil (Hi Linoleic), Cold Pressed Organic](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-cold-pressed-organic): Organic, cold-pressed sunflower seed oil, rich in linoleic acid. A natural skincare solution that nourishes and balances the skin, providing essential moisture without greasiness.
-  Updated: 2025-12-23T22:40:08Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0449-min_94c6c777-4cfe-4972-9cf3-114b6936c6ff.jpg?v=1764597587
-  - [50ml](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-cold-pressed-organic?variant=56369974706560)
-    Availability: Available
-    Price: £2.10 GBP
-  - [250ml](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-cold-pressed-organic?variant=56369974739328)
-    Availability: Available
-    Price: £3.20 GBP
-  - [500ml](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-cold-pressed-organic?variant=56369974772096)
-    Availability: Available
-    Price: £4.50 GBP
-  - [1kg](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-cold-pressed-organic?variant=56369974804864)
-    Availability: Available
-    Price: £8.20 GBP
-  - [5kg](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-cold-pressed-organic?variant=56369974837632)
-    Availability: Available
-    Price: £28.00 GBP
 - [Witch Hazel (non Alcohol), Distillate](https://inky-ingredients.com/products/witch-hazel-non-alcohol-distillate): Witch Hazel (Non-Alcohol) Distillate is a soothing and gentle astringent. Free from alcohol, it effectively tones and cleanses the skin without drying. Ideal for sensitive skin, it promotes a refreshed and balanced complexion.
-  Updated: 2025-12-16T12:17:10Z
+  Updated: 2026-04-12T07:31:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1939,7 +1991,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £37.20 GBP
 - [Witch Hazel BPC/USP, Distillate 14%](https://inky-ingredients.com/products/witch-hazel-bpc-usp-distillate-14): Distilled Witch Hazel BPC/USP, with 14% alcohol content, is a versatile astringent. Known for its toning properties, it helps tighten and cleanse the skin, making it a valuable ingredient in skincare formulations.
-  Updated: 2025-12-26T17:46:35Z
+  Updated: 2026-04-05T09:14:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1960,7 +2012,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £40.80 GBP
 - [Sunflower Seed Oil (Hi Oleic), Refined](https://inky-ingredients.com/products/sunflower-seed-oil-hi-oleic-refined): High Oleic Refined Sunflower Seed Oil, with enhanced monounsaturated fats, is known for its stability and resistance to oxidation. Ideal for cooking and skincare, it provides nourishment and promotes skin health.
-  Updated: 2025-12-02T06:15:57Z
+  Updated: 2026-04-06T12:36:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1981,7 +2033,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £24.50 GBP
 - [Sunflower Seed Oil, Refined](https://inky-ingredients.com/products/sunflower-seed-oil-refined): Refined sunflower seed oil is a lightweight and odorless oil rich in vitamin E. With its moisturising properties, it is suitable for skincare formulations, leaving the skin soft and supple.
-  Updated: 2025-12-28T17:07:55Z
+  Updated: 2026-04-07T21:58:48Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2002,7 +2054,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £18.00 GBP
 - [Peppermint Mentha Arvensis (Cornmint Oil), Essential Oil Organic](https://inky-ingredients.com/products/peppermint-mentha-arvensis-cornmint-oil-essential-oil-organic): Organic Cornmint Essential Oil offers a natural and pure alternative, promoting a crisp and minty fragrance with potential health benefits.
-  Updated: 2025-12-08T18:07:20Z
+  Updated: 2026-03-05T17:09:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2026,7 +2078,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £326.40 GBP
 - [Peppermint Mentha Arvensis (Cornmint Oil), Essential Oil](https://inky-ingredients.com/products/peppermint-mentha-arvensis-cornmint-oil-essential-oil): Cornmint Essential Oil delivers a refreshing and invigorating aroma, known for its cooling sensation and potential therapeutic benefits.
-  Updated: 2025-12-05T19:32:35Z
+  Updated: 2026-02-10T13:04:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2050,7 +2102,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £129.00 GBP
 - [Wintergreen (Natural), Essential Oil](https://inky-ingredients.com/products/wintergreen-natural-essential-oil): Natural Wintergreen Essential Oil is derived from aromatic leaves, offering a fresh and minty scent. It carries therapeutic benefits, providing a calming and soothing experience in aromatherapy and personal care.
-  Updated: 2025-12-05T17:35:30Z
+  Updated: 2026-02-25T10:41:42Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2074,7 +2126,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £662.40 GBP
 - [Neem Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/neem-seed-oil-cold-pressed-organic): Organic Cold-pressed Neem Seed Oil combines purity with sustainability. High in Azadirachtin, it's a natural solution for skin and hair concerns, contributing to a healthier, eco-conscious beauty routine.
-  Updated: 2025-12-23T02:49:40Z
+  Updated: 2026-04-08T13:31:48Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2095,7 +2147,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £42.00 GBP
 - [Peach Kernel Oil, Refined](https://inky-ingredients.com/products/peach-kernel-oil-refined): Refined Peach Kernel Oil, a lightweight emollient, is rich in vitamins and antioxidants, offering superb moisturisation for skin and hair.
-  Updated: 2025-12-02T13:40:16Z
+  Updated: 2026-03-22T21:23:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2116,7 +2168,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £38.25 GBP
 - [Spruce Black, Essential Oil](https://inky-ingredients.com/products/spruce-black-essential-oil): Spruce Black essential oil, extracted from Picea mariana, boasts a fresh and invigorating scent. With its uplifting properties, it is often used in aromatherapy to enhance mental clarity and create a sense of rejuvenation.
-  Updated: 2025-12-05T19:04:30Z
+  Updated: 2026-04-14T13:37:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2140,7 +2192,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £387.60 GBP
 - [Spinach Seed Oil, Cold Pressed](https://inky-ingredients.com/products/spinach-seed-oil-cold-pressed): Cold-pressed Spinach Seed Oil is a nutrient-rich oil packed with vitamins and antioxidants. It rejuvenates the skin, supporting a healthy complexion. Its light texture makes it suitable for various skincare applications.
-  Updated: 2025-12-16T15:57:02Z
+  Updated: 2026-03-26T19:31:43Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2161,7 +2213,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £201.00 GBP
 - [Spearmint, Essential Oil Organic](https://inky-ingredients.com/products/spearmint-essential-oil-organic): Organic Spearmint essential oil, sourced from Mentha spicata, provides a pure and natural option. With its crisp and sweet fragrance, it is commonly used in aromatherapy for its calming and uplifting effects on the mind and body.
-  Updated: 2025-12-08T18:22:38Z
+  Updated: 2026-03-01T21:37:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2185,7 +2237,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £492.00 GBP
 - [Spearmint, Essential Oil](https://inky-ingredients.com/products/spearmint-essential-oil): Spearmint essential oil, extracted from Mentha spicata, offers a refreshing and invigorating aroma. Known for its soothing properties, it is often used in aromatherapy to alleviate stress and promote a sense of calm.
-  Updated: 2025-12-02T05:49:19Z
+  Updated: 2026-02-15T14:25:54Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2209,7 +2261,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £196.20 GBP
 - [Sesame Seed Oil, Cold Pressed & Deodorised Organic](https://inky-ingredients.com/products/sesame-seed-oil-cold-pressed-deodorised-organic): Cold-pressed and deodorised, Organic Sesame Seed Oil is a versatile culinary and skincare ingredient. Its mild flavor makes it ideal for cooking, while its nourishing properties contribute to skincare formulations, leaving the skin moisturised without the natural sesame scent.
-  Updated: 2025-12-02T05:49:49Z
+  Updated: 2026-04-06T13:34:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2230,7 +2282,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £55.90 GBP
 - [Orange Blood, Essential Oil](https://inky-ingredients.com/products/orange-blood-essential-oil): Orange Blood Essential Oil, extracted from vibrant blood oranges, offers a sweet and citrusy aroma. This uplifting oil is rich in antioxidants and may be used in aromatherapy to boost mood and create a refreshing ambiance, adding a bright note to skincare blends.
-  Updated: 2025-12-08T18:22:38Z
+  Updated: 2026-03-30T11:24:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2252,9 +2304,9 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Price: £27.60 GBP
   - [5kg](https://inky-ingredients.com/products/orange-blood-essential-oil?variant=56370000396672)
     Availability: Available
-    Price: £111.60 GBP
+    Price: £118.80 GBP
 - [Sheanut Oil, Refined](https://inky-ingredients.com/products/sheanut-oil-refined): Refined Sheanut Oil is a versatile cosmetic oil with a light texture. Ideal for skincare formulations, it nourishes and moisturises the skin without leaving a greasy residue. This refined oil is a valuable ingredient, contributing to the overall effectiveness of skincare products.
-  Updated: 2025-12-23T12:10:42Z
+  Updated: 2026-04-13T16:31:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2274,8 +2326,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/sheanut-oil-refined?variant=56370794791296)
     Availability: Available
     Price: £61.80 GBP
+- [Sheanut Nilotica Butter, Unrefined](https://inky-ingredients.com/products/sheanut-nilotica-butter-unrefined): Unrefined Sheanut Nilotica Butter is derived from the Nilotica variety, offering a softer texture. Cold-pressed and pure, it provides deep hydration for the skin. This butter is a natural choice for skincare formulations, leaving the skin supple and revitalised.
+  Updated: 2026-04-11T20:43:35Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0425-min_c24b4790-087f-40ea-9d56-494ff1a14d62.jpg?v=1764597613
+  - [250g](https://inky-ingredients.com/products/sheanut-nilotica-butter-unrefined?variant=56370003640704)
+    Availability: Available
+    Price: £5.16 GBP
+  - [500g](https://inky-ingredients.com/products/sheanut-nilotica-butter-unrefined?variant=56370003673472)
+    Availability: Available
+    Price: £9.66 GBP
+  - [1kg](https://inky-ingredients.com/products/sheanut-nilotica-butter-unrefined?variant=56370003706240)
+    Availability: Available
+    Price: £18.84 GBP
+  - [5kg](https://inky-ingredients.com/products/sheanut-nilotica-butter-unrefined?variant=56370003739008)
+    Availability: Available
+    Price: £93.60 GBP
+  - [25kg](https://inky-ingredients.com/products/sheanut-nilotica-butter-unrefined?variant=56370003771776)
+    Availability: Available
+    Price: £453.60 GBP
 - [Rice Bran Oil, Refined](https://inky-ingredients.com/products/rice-bran-oil-refined): Refined Rice Bran Oil is a heart-healthy cooking oil with a mild flavor. Extracted from rice bran, it has a high smoke point and is rich in antioxidants, making it a suitable choice for frying, sautéing, and other culinary applications.
-  Updated: 2025-12-28T17:07:53Z
+  Updated: 2026-04-13T18:05:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2296,7 +2369,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £30.50 GBP
 - [Olive Stones, Exfoliant (Irradiated)](https://inky-ingredients.com/products/olive-stones-exfoliant-irradiated): Irradiated Olive Stones make an effective and natural exfoliant. These finely ground olive stones gently remove dead skin cells, promoting a smoother complexion. With its exfoliating properties, it is a popular choice in skincare formulations for gentle yet thorough exfoliation.
-  Updated: 2025-12-26T17:46:35Z
+  Updated: 2026-03-13T04:44:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2317,7 +2390,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £343.20 GBP
 - [Papaya Seed Oil, Refined](https://inky-ingredients.com/products/papaya-seed-oil-refined): Extracted from papaya seeds, this refined oil is rich in nutrients and antioxidants. Beneficial for skin and hair, it moisturises, rejuvenates, and imparts a radiant glow. A natural beauty enhancer.
-  Updated: 2025-12-02T05:51:49Z
+  Updated: 2026-03-31T09:23:48Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2338,7 +2411,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £82.58 GBP
 - [Sheanut Butter, Unrefined](https://inky-ingredients.com/products/sheanut-butter-unrefined): Unrefined Sheanut Butter is a wholesome cosmetic ingredient. Cold-pressed and pure, it delivers intense moisture to the skin. With its natural richness, this unrefined butter is a valuable addition to skincare formulations, providing a nourishing and indulgent experience.
-  Updated: 2025-12-25T00:55:36Z
+  Updated: 2026-04-14T12:05:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2358,8 +2431,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [25kg](https://inky-ingredients.com/products/sheanut-butter-unrefined?variant=56370152833408)
     Availability: Available
     Price: £136.25 GBP
-- [Sheanut Butter, Refined Organic](https://inky-ingredients.com/products/sheanut-butter-refined-organic): Refined Organic Sheanut Butter is a premium cosmetic ingredient with a silky texture. Certified organic, it provides intense hydration for the skin. This refined butter is a valuable addition to organic skincare formulations, contributing to a luxurious and nourishing experience.
-  Updated: 2025-12-20T22:15:50Z
+- [Sheanut Butter, Refined Organic](https://inky-ingredients.com/products/sheanut-butter-refined-organic): Refined Organic Sheanut Butter is a premium cosmetic ingredient with a silky texture.  organic, it provides intense hydration for the skin. This refined butter is a valuable addition to organic skincare formulations, contributing to a luxurious and nourishing experience.
+  Updated: 2026-04-10T14:32:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2379,29 +2452,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [25kg](https://inky-ingredients.com/products/sheanut-butter-refined-organic?variant=49514703356198)
     Availability: Available
     Price: £218.00 GBP
-- [Prickly Pear Seed Oil, Cold Pressed](https://inky-ingredients.com/products/prickly-pear-seed-oil-cold-pressed): Cold-pressed Prickly Pear Seed Oil is a luxurious skincare oil, known for its high vitamin E content. It deeply nourishes and rejuvenates the skin, helping to maintain a youthful and radiant complexion.
-  Updated: 2025-12-26T22:50:10Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0367-min_3d1e6fc6-37a8-40fd-b797-46e7845e0588.jpg?v=1764598079
-  - [50ml](https://inky-ingredients.com/products/prickly-pear-seed-oil-cold-pressed?variant=56370329158016)
-    Availability: Available
-    Price: £20.08 GBP
-  - [250ml](https://inky-ingredients.com/products/prickly-pear-seed-oil-cold-pressed?variant=56370329190784)
-    Availability: Available
-    Price: £89.06 GBP
-  - [500ml](https://inky-ingredients.com/products/prickly-pear-seed-oil-cold-pressed?variant=56370329223552)
-    Availability: Available
-    Price: £171.60 GBP
-  - [1kg](https://inky-ingredients.com/products/prickly-pear-seed-oil-cold-pressed?variant=56370329256320)
-    Availability: Available
-    Price: £318.00 GBP
-  - [5kg](https://inky-ingredients.com/products/prickly-pear-seed-oil-cold-pressed?variant=56370329289088)
-    Availability: Available
-    Price: £1,295.40 GBP
 - [Mustard Seed Oil, Cold Pressed](https://inky-ingredients.com/products/mustard-seed-oil-cold-pressed): Cold-pressed Mustard Seed Oil is a potent emollient with warming properties. It stimulates circulation, promoting a soothing massage experience. Its natural richness makes it beneficial for skin and hair nourishment.
-  Updated: 2025-12-15T01:07:32Z
+  Updated: 2026-04-10T15:19:45Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2421,8 +2473,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/mustard-seed-oil-cold-pressed?variant=56370355732864)
     Availability: Available
     Price: £31.05 GBP
+- [Monoi, Infused in Coconut Oil](https://inky-ingredients.com/products/monoi-infused-in-coconut-oil): Monoi, infused in Coconut Oil, is a tropical beauty elixir. This traditional blend conditions and perfumes the skin and hair, providing a luxurious and exotic experience reminiscent of tropical paradises.
+  Updated: 2026-03-19T00:36:37Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0295-min_17ce2d77-7f2b-46aa-9113-9e4edecfa773.jpg?v=1764597631
+  - [50ml](https://inky-ingredients.com/products/monoi-infused-in-coconut-oil?variant=56370160370048)
+    Availability: Available
+    Price: £2.90 GBP
+  - [250ml](https://inky-ingredients.com/products/monoi-infused-in-coconut-oil?variant=56370160402816)
+    Availability: Available
+    Price: £3.20 GBP
+  - [500ml](https://inky-ingredients.com/products/monoi-infused-in-coconut-oil?variant=56370160435584)
+    Availability: Available
+    Price: £5.41 GBP
+  - [1kg](https://inky-ingredients.com/products/monoi-infused-in-coconut-oil?variant=56370160468352)
+    Availability: Available
+    Price: £9.84 GBP
+  - [5kg](https://inky-ingredients.com/products/monoi-infused-in-coconut-oil?variant=56370160501120)
+    Availability: Available
+    Price: £48.43 GBP
 - [Sandalwood Australian, Essential Oil](https://inky-ingredients.com/products/sandalwood-australian-essential-oil): Sandalwood Australian Essential Oil emanates a distinctive woody scent. Known for its calming properties, it serves as a versatile ingredient in aromatherapy. This oil also contributes to skincare, providing a soothing and grounding experience.
-  Updated: 2025-12-12T15:11:52Z
+  Updated: 2026-04-09T15:53:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2445,29 +2518,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/sandalwood-australian-essential-oil?variant=56370013536640)
     Availability: Available
     Price: £7,836.00 GBP
-- [Olive, Butter](https://inky-ingredients.com/products/olive-butter): Olive Butter is a luxurious skincare ingredient with a rich and creamy texture. Derived from olive oil, it offers intense moisture and nourishment. Its emollient properties make it a sought-after component in formulations designed for soft and supple skin.
-  Updated: 2025-12-02T05:22:41Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0317-min_32388d55-09ce-4f47-9ab6-0033e3d1afab.jpg?v=1764597399
-  - [250g](https://inky-ingredients.com/products/olive-butter?variant=56370022482304)
-    Availability: Available
-    Price: £5.23 GBP
-  - [500g](https://inky-ingredients.com/products/olive-butter?variant=56370022515072)
-    Availability: Available
-    Price: £9.84 GBP
-  - [1kg](https://inky-ingredients.com/products/olive-butter?variant=56370022547840)
-    Availability: Available
-    Price: £18.96 GBP
-  - [5kg](https://inky-ingredients.com/products/olive-butter?variant=56370022580608)
-    Availability: Available
-    Price: £77.88 GBP
-  - [25kg](https://inky-ingredients.com/products/olive-butter?variant=56370022613376)
-    Availability: Available
-    Price: £475.24 GBP
 - [Pomegranate Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/pomegranate-seed-oil-cold-pressed-organic): Organic Cold-pressed Pomegranate Seed Oil, derived from organically grown seeds, ensures a pure and environmentally friendly skincare solution. Its natural antioxidants and nutrients promote healthy skin without synthetic additives.
-  Updated: 2025-12-29T20:48:01Z
+  Updated: 2026-04-13T05:39:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2488,7 +2540,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £183.70 GBP
 - [Pomegranate Seed Oil, Cold Pressed](https://inky-ingredients.com/products/pomegranate-seed-oil-cold-pressed): Cold-pressed Pomegranate Seed Oil is a skincare treasure, rich in antioxidants and omega-5 fatty acids. Known for revitalising and protecting the skin, it helps maintain a youthful and radiant complexion.
-  Updated: 2025-12-09T17:49:56Z
+  Updated: 2026-04-11T15:32:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2509,7 +2561,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £92.93 GBP
 - [Plum Oil, Cold Pressed Organic](https://inky-ingredients.com/products/plum-oil-cold-pressed-organic): Organic Cold-pressed Plum Oil offers the same skin-loving benefits as its non-organic counterpart. With the added assurance of organic cultivation, it provides a natural and pure solution for skincare enthusiasts.
-  Updated: 2025-12-15T14:07:39Z
+  Updated: 2026-04-03T17:37:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2530,7 +2582,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £380.00 GBP
 - [Plum Oil, Cold Pressed](https://inky-ingredients.com/products/plum-oil-cold-pressed): Cold-pressed Plum Oil is a lightweight, nourishing oil that enhances skin elasticity and hydration. Packed with antioxidants, it promotes a radiant complexion and is ideal for skincare formulations.
-  Updated: 2025-12-15T10:02:04Z
+  Updated: 2026-03-26T19:31:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2551,7 +2603,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £163.95 GBP
 - [Litsea Cubeba (May Chang), Essential Oil](https://inky-ingredients.com/products/litsea-cubeba-may-chang-essential-oil): Litsea Cubeba Essential Oil, also known as May Chang, has a lemony and fruity scent. It's popular for its uplifting and purifying qualities, often used in aromatherapy to invigorate the mind and body.
-  Updated: 2025-12-08T02:32:36Z
+  Updated: 2026-04-14T13:37:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2575,7 +2627,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £384.00 GBP
 - [Rosehip Seed Oil, Cold Pressed (O Colour)](https://inky-ingredients.com/products/rosehip-seed-oil-cold-pressed-o-colour): Cold-pressed Rosehip Seed Oil in an orange hue (O Colour) is a vibrant skincare solution. Rich in antioxidants and vitamins, it helps reduce signs of aging, supports skin regeneration, and imparts a natural radiance, making it a valuable addition to anti-aging formulations.
-  Updated: 2025-12-14T20:31:52Z
+  Updated: 2026-04-05T09:14:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2596,7 +2648,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £181.20 GBP
 - [Rosehip Seed Oil, Refined](https://inky-ingredients.com/products/rosehip-seed-oil-refined): A refined Rosehip Seed Oil, offering skincare benefits. Known for its moisturising properties, it helps improve skin texture and appearance, leaving it soft and rejuvenated.
-  Updated: 2025-12-02T05:24:55Z
+  Updated: 2026-03-18T20:59:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2616,29 +2668,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/rosehip-seed-oil-refined?variant=56370028183936)
     Availability: Available
     Price: £235.92 GBP
-- [Raspberry Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/raspberry-seed-oil-cold-pressed-organic): Organic cold-pressed Raspberry Seed Oil is a powerhouse of antioxidants and essential fatty acids. Nurturing and protective, it supports skin health, helps soothe irritation, and contributes to a radiant complexion, making it a valuable addition to natural skincare routines.
-  Updated: 2025-12-23T12:10:42Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0665-min_cb5b6cf0-8d00-48d6-b2b0-1583501af031.jpg?v=1764597640
-  - [50ml](https://inky-ingredients.com/products/raspberry-seed-oil-cold-pressed-organic?variant=56417666367872)
-    Availability: Available
-    Price: £5.88 GBP
-  - [250ml](https://inky-ingredients.com/products/raspberry-seed-oil-cold-pressed-organic?variant=56417666400640)
-    Availability: Available
-    Price: £26.40 GBP
-  - [500ml](https://inky-ingredients.com/products/raspberry-seed-oil-cold-pressed-organic?variant=56417666433408)
-    Availability: Available
-    Price: £48.00 GBP
-  - [1kg](https://inky-ingredients.com/products/raspberry-seed-oil-cold-pressed-organic?variant=56417666466176)
-    Availability: Available
-    Price: £88.20 GBP
-  - [5kg](https://inky-ingredients.com/products/raspberry-seed-oil-cold-pressed-organic?variant=56417666498944)
-    Availability: Available
-    Price: £402.00 GBP
 - [Raspberry Seed Oil, Cold Pressed](https://inky-ingredients.com/products/raspberry-seed-oil-cold-pressed): Cold-pressed Raspberry Seed Oil is a nourishing skincare ingredient. Packed with antioxidants and essential fatty acids, it promotes skin health, providing hydration and aiding in the prevention of premature aging.
-  Updated: 2025-12-15T09:48:27Z
+  Updated: 2026-04-11T15:32:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2659,7 +2690,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £180.00 GBP
 - [Rapeseed Oil (Canola Oil), Refined](https://inky-ingredients.com/products/rapeseed-oil-canola-oil-refined): A purified form of Canola Oil, refined Rapeseed Oil is a versatile cooking oil. With a high smoke point and mild flavor, it's ideal for various culinary applications, offering heart-healthy benefits.
-  Updated: 2025-12-02T05:25:13Z
+  Updated: 2026-02-10T13:16:43Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2680,7 +2711,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £22.00 GBP
 - [Safflower High Linoleic Oil, Refined](https://inky-ingredients.com/products/safflower-high-linoleic-oil-refined): Refined Safflower High Linoleic Oil, versatile for various formulations. Known for its emollient properties, it enhances skin texture and helps maintain moisture balance without a greasy feel.
-  Updated: 2025-12-02T05:25:30Z
+  Updated: 2026-02-10T13:23:24Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2701,7 +2732,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £27.60 GBP
 - [Oat Seed Oil, Refined](https://inky-ingredients.com/products/oat-seed-oil-refined): Refined Oat Seed Oil is a nourishing and gentle oil derived from oats. With emollient properties, it soothes and moisturises the skin, making it an excellent addition to skincare formulations aiming for hydration and a smooth, soft complexion.
-  Updated: 2025-12-09T10:27:56Z
+  Updated: 2026-04-13T06:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2722,7 +2753,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £250.88 GBP
 - [Pine Sylvestris, Essential Oil](https://inky-ingredients.com/products/pine-sylvestris-essential-oil): Pine Sylvestris Essential Oil, with its crisp and invigorating scent, is valued in aromatherapy for promoting respiratory health and creating a refreshing atmosphere.
-  Updated: 2025-12-02T04:58:12Z
+  Updated: 2026-04-02T16:36:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2746,7 +2777,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £245.94 GBP
 - [Rapeseed Oil (Canola Oil), Cold Pressed](https://inky-ingredients.com/products/rapeseed-oil-canola-oil-cold-pressed): Cold-pressed Rapeseed Oil, also known as Canola Oil, is a versatile culinary oil with a mild taste. High in unsaturated fats and low in saturated fats, it's a heart-healthy choice for cooking and baking.
-  Updated: 2025-12-15T10:01:59Z
+  Updated: 2026-03-15T15:26:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2767,7 +2798,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £21.50 GBP
 - [Pumpkin Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/pumpkin-seed-oil-cold-pressed-organic): Organic Cold-pressed Pumpkin Seed Oil is a nutrient-rich culinary oil with a rich, nutty flavor. Packed with vitamins and minerals, it adds a wholesome touch to dishes while offering organic and natural benefits.
-  Updated: 2025-12-23T22:40:08Z
+  Updated: 2026-04-11T12:31:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2788,7 +2819,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £96.00 GBP
 - [Menthol, Crystals](https://inky-ingredients.com/products/menthol-crystals): Menthol crystals offer a cool and refreshing sensation. Widely used in skincare and topical applications, they provide a soothing effect on the skin and are popular for their ability to relieve discomfort. These crystals are a versatile addition to formulations designed for a refreshing experience.
-  Updated: 2025-12-02T06:22:31Z
+  Updated: 2026-04-13T10:34:33Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2808,29 +2839,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/menthol-crystals?variant=56370188255616)
     Availability: Available
     Price: £201.60 GBP
-- [Pequi Seed Oil, Cold Pressed](https://inky-ingredients.com/products/pequi-seed-oil-cold-pressed): Cold-pressed Pequi Seed Oil, rich in fatty acids and antioxidants, nourishes and hydrates skin and hair, promoting a healthy and radiant appearance.
-  Updated: 2025-12-16T15:58:42Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0349-min.jpg?v=1764597884
-  - [50ml](https://inky-ingredients.com/products/pequi-seed-oil-cold-pressed?variant=56370197594496)
-    Availability: Available
-    Price: £4.76 GBP
-  - [250ml](https://inky-ingredients.com/products/pequi-seed-oil-cold-pressed?variant=56370197627264)
-    Availability: Available
-    Price: £22.62 GBP
-  - [500ml](https://inky-ingredients.com/products/pequi-seed-oil-cold-pressed?variant=56370197660032)
-    Availability: Available
-    Price: £43.20 GBP
-  - [1kg](https://inky-ingredients.com/products/pequi-seed-oil-cold-pressed?variant=56370197692800)
-    Availability: Available
-    Price: £81.90 GBP
-  - [5kg](https://inky-ingredients.com/products/pequi-seed-oil-cold-pressed?variant=56370197725568)
-    Availability: Available
-    Price: £390.00 GBP
 - [Pumpkin Seed Oil, Cold Pressed](https://inky-ingredients.com/products/pumpkin-seed-oil-cold-pressed): Cold-pressed Pumpkin Seed Oil is rich in vitamins and omega fatty acids. Its lightweight texture makes it an excellent moisturiser for skin and hair. With its nutrient profile, it supports hydration, soothes dryness, and promotes overall skin and hair health.
-  Updated: 2025-12-28T17:19:55Z
+  Updated: 2026-04-13T08:51:14Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2851,7 +2861,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £56.00 GBP
 - [Peppermint Mentha Piperita, Essential Oil Organic](https://inky-ingredients.com/products/peppermint-mentha-piperita-essential-oil-organic): Organic Mentha Piperita Essential Oil provides a pure and natural option for enjoying the invigorating and refreshing scent of peppermint with potential therapeutic benefits.
-  Updated: 2025-12-23T12:10:42Z
+  Updated: 2026-04-13T07:02:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2875,7 +2885,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £402.00 GBP
 - [Marjoram Sweet, Essential Oil](https://inky-ingredients.com/products/marjoram-sweet-essential-oil): Sweet Marjoram Essential Oil exudes a warm and herbaceous aroma. It's cherished for its calming and relaxing properties, making it a popular choice for aromatherapy and promoting a sense of tranquility.
-  Updated: 2025-12-08T18:22:37Z
+  Updated: 2026-03-28T20:06:41Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2899,7 +2909,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £525.60 GBP
 - [Meadowfoam Seed Oil, Refined](https://inky-ingredients.com/products/meadowfoam-seed-oil-refined): With excellent stability and a lightweight feel, Refined Meadowfoam Seed Oil is a superb emollient. It locks in moisture, promoting skin and hair health without a greasy residue.
-  Updated: 2025-12-26T14:10:05Z
+  Updated: 2026-04-10T14:32:48Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2920,7 +2930,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £184.80 GBP
 - [Marula Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/marula-seed-oil-cold-pressed-organic): Organic cold-pressed Marula Seed Oil is rich in antioxidants and fatty acids, providing deep hydration and nourishment to the skin. It absorbs quickly, leaving a silky finish, making it a luxurious addition to skincare routines.
-  Updated: 2025-12-08T13:39:07Z
+  Updated: 2026-04-01T11:56:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2941,7 +2951,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £361.20 GBP
 - [Manketti Seed Oil (Mongongo Oil), Cold Pressed](https://inky-ingredients.com/products/manketti-seed-oil-mongongo-oil-cold-pressed): Cold Pressed Manketti Seed Oil, or Mongongo Oil, retains its natural benefits for skin and hair. Its cold-pressed extraction method preserves its richness, offering deep hydration and a velvety texture.
-  Updated: 2025-12-02T06:24:03Z
+  Updated: 2026-04-06T16:02:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2962,28 +2972,28 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £310.80 GBP
 - [Mango, Butter Organic (Buckets)](https://inky-ingredients.com/products/mango-butter-organic-buckets): Mango Butter Organic, sourced from quality mangoes, is a nourishing ingredient for skincare. Packed in convenient buckets, it offers a rich blend of vitamins and antioxidants, promoting skin moisture and elasticity. Its natural goodness enhances the luxurious feel of skincare formulations.
-  Updated: 2025-12-23T22:40:08Z
+  Updated: 2026-04-14T12:05:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0729-min_5e6a02b3-ecc7-483a-b7b6-e0ca4c57fdde.jpg?v=1764598119
   - [250g](https://inky-ingredients.com/products/mango-butter-organic-buckets?variant=56370042896768)
     Availability: Available
-    Price: £4.38 GBP
+    Price: £6.30 GBP
   - [500g](https://inky-ingredients.com/products/mango-butter-organic-buckets?variant=56370042929536)
     Availability: Available
-    Price: £8.10 GBP
+    Price: £12.00 GBP
   - [1kg](https://inky-ingredients.com/products/mango-butter-organic-buckets?variant=56370042962304)
     Availability: Available
-    Price: £13.20 GBP
+    Price: £23.10 GBP
   - [5kg](https://inky-ingredients.com/products/mango-butter-organic-buckets?variant=56370042995072)
     Availability: Available
-    Price: £63.60 GBP
+    Price: £110.22 GBP
   - [20kg](https://inky-ingredients.com/products/mango-butter-organic-buckets?variant=56370043027840)
     Availability: Available
-    Price: £252.00 GBP
-- [Lemon, Essential Oil Organic](https://inky-ingredients.com/products/lemon-essential-oil-organic): Organic Lemon Essential Oil, sourced from certified organic farms, offers the same bright and citrusy benefits with the added assurance of organic cultivation and extraction methods.
-  Updated: 2025-12-23T12:10:41Z
+    Price: £420.00 GBP
+- [Lemon, Essential Oil Organic](https://inky-ingredients.com/products/lemon-essential-oil-organic): Organic Lemon Essential Oil, sourced from  organic farms, offers the same bright and citrusy benefits with the added assurance of organic cultivation and extraction methods.
+  Updated: 2026-04-06T21:08:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3007,7 +3017,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £407.94 GBP
 - [Eucalyptus Globulus, Essential Oil](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil): Eucalyptus Globulus Essential Oil, known for its invigorating scent, supports respiratory health and is a popular choice in aromatherapy. Its antibacterial properties make it a go-to for immune system support.
-  Updated: 2025-12-23T12:10:42Z
+  Updated: 2026-04-02T16:36:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3030,8 +3040,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil?variant=56370881823104)
     Availability: Available
     Price: £91.68 GBP
+- [Mango, Butter (Buckets)](https://inky-ingredients.com/products/mango-butter-buckets): Mango Butter, in convenient buckets, is a luscious and nourishing ingredient for skincare. With its creamy texture and high fatty acid content, it provides deep hydration and may support skin elasticity. Incorporate it into formulations for a luxurious and moisturising experience.
+  Updated: 2026-04-12T07:40:57Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0624-min_a19e47c0-9468-4fd9-ad5e-24c0a6ed3eec.jpg?v=1764597668
+  - [250g](https://inky-ingredients.com/products/mango-butter-buckets?variant=56370570559872)
+    Availability: Available
+    Price: £3.60 GBP
+  - [500g](https://inky-ingredients.com/products/mango-butter-buckets?variant=56370570592640)
+    Availability: Available
+    Price: £6.60 GBP
+  - [1kg](https://inky-ingredients.com/products/mango-butter-buckets?variant=56370570625408)
+    Availability: Available
+    Price: £12.00 GBP
+  - [5kg](https://inky-ingredients.com/products/mango-butter-buckets?variant=56370570658176)
+    Availability: Available
+    Price: £58.80 GBP
+  - [20kg](https://inky-ingredients.com/products/mango-butter-buckets?variant=56370570690944)
+    Availability: Available
+    Price: £235.20 GBP
 - [Mandarin (Red), Essential Oil Organic](https://inky-ingredients.com/products/mandarin-red-essential-oil-organic): Organic Red Mandarin Essential Oil combines the sweetness of red mandarins with organic purity. Its uplifting and soothing properties make it a preferred choice for natural and organic aromatherapy blends.
-  Updated: 2025-12-12T15:11:53Z
+  Updated: 2026-03-23T08:23:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3055,7 +3086,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £630.00 GBP
 - [Kiwi Seed Oil, Refined](https://inky-ingredients.com/products/kiwi-seed-oil-refined): Refined Kiwi Seed Oil is a lightweight moisturiser abundant in essential fatty acids. It easily absorbs into the skin, promoting hydration and a youthful glow. It's suitable for skincare applications, leaving no greasy residue.
-  Updated: 2025-12-02T06:25:46Z
+  Updated: 2026-04-11T20:43:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3075,29 +3106,32 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/kiwi-seed-oil-refined?variant=56370928124288)
     Availability: Available
     Price: £76.26 GBP
-- [Dragon Fruit Seed Oil, Cold Pressed](https://inky-ingredients.com/products/dragon-fruit-seed-oil-cold-pressed): Cold-pressed Dragon Fruit Seed Oil is a lightweight and nutrient-rich oil. With its moisturising and antioxidant properties, it nourishes the skin, leaving it soft and supple. Its unique composition makes it a desirable skincare ingredient.
-  Updated: 2025-12-02T05:29:14Z
+- [Jasmine, Absolute (Grandiflorum)](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum): Jasmine Absolute, extracted from Grandiflorum flowers, boasts a rich, floral scent. Renowned for its calming properties, it enhances emotional well-being. In skincare, it rejuvenates and adds a touch of luxury.
+  Updated: 2026-04-14T13:44:12Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0795-min_32371e3c-584a-414f-96cf-0071db349815.jpg?v=1764598125
-  - [50ml](https://inky-ingredients.com/products/dragon-fruit-seed-oil-cold-pressed?variant=56370207031680)
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0231-min_106f1be8-5576-463d-87cf-bb7a6ee9f681.jpg?v=1764597906
+  - [10ml](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum?variant=56370047287680)
     Availability: Available
-    Price: £6.00 GBP
-  - [250ml](https://inky-ingredients.com/products/dragon-fruit-seed-oil-cold-pressed?variant=56370207064448)
+    Price: £55.20 GBP
+  - [50ml](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum?variant=56370047320448)
     Availability: Available
-    Price: £17.40 GBP
-  - [500ml](https://inky-ingredients.com/products/dragon-fruit-seed-oil-cold-pressed?variant=56370207097216)
+    Price: £265.20 GBP
+  - [100ml](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum?variant=56370047353216)
     Availability: Available
-    Price: £32.40 GBP
-  - [1kg](https://inky-ingredients.com/products/dragon-fruit-seed-oil-cold-pressed?variant=56370207129984)
-    Availability: Available
-    Price: £61.20 GBP
-  - [5kg](https://inky-ingredients.com/products/dragon-fruit-seed-oil-cold-pressed?variant=56370207162752)
-    Availability: Available
-    Price: £283.80 GBP
+    Price: £505.20 GBP
+  - [500ml](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum?variant=56370047385984)
+    Availability: Not Available
+    Price: £2,406.00 GBP
+  - [1kg](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum?variant=56370047418752)
+    Availability: Not Available
+    Price: £4,596.00 GBP
+  - [5kg](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum?variant=56370047451520)
+    Availability: Not Available
+    Price: £21,900.00 GBP
 - [Macadamia Nut Oil, Cold Pressed Deodorised Organic](https://inky-ingredients.com/products/macadamia-nut-oil-cold-pressed-deodorised-organic): deodorised for a neutral scent, Cold Pressed deodorised Organic Macadamia Nut Oil maintains its organic integrity. Its nutrient-rich profile ensures skin and hair receive optimal hydration and care.
-  Updated: 2025-12-26T18:06:55Z
+  Updated: 2026-02-10T13:06:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3117,29 +3151,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/macadamia-nut-oil-cold-pressed-deodorised-organic?variant=56370213159296)
     Availability: Available
     Price: £83.50 GBP
-- [Desert Date Oil, Cold Pressed](https://inky-ingredients.com/products/desert-date-oil-cold-pressed): Cold-pressed Desert Date Oil is a natural elixir for skin and hair. Packed with nourishing properties, it moisturises deeply, enhances skin elasticity, and adds luster to hair, making it a versatile beauty asset.
-  Updated: 2025-12-23T09:04:01Z
+- [Kalahari Melon Seed Oil, Cold Pressed](https://inky-ingredients.com/products/kalahari-melon-seed-oil-cold-pressed): Cold-pressed from Kalahari melon seeds, this oil is a nourishing emollient rich in essential fatty acids. It rejuvenates and moisturises the skin, making it an excellent choice for skincare formulations seeking hydration.
+  Updated: 2026-04-09T10:54:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0833-min_8fea0bcf-7e2f-4389-9a3b-bf2f873354db.jpg?v=1764597452
-  - [50ml](https://inky-ingredients.com/products/desert-date-oil-cold-pressed?variant=56370946277760)
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0240-min_7a4ad8b8-deff-4872-aa6b-30bb499a1ae1.jpg?v=1764597916
+  - [50ml](https://inky-ingredients.com/products/kalahari-melon-seed-oil-cold-pressed?variant=56370214044032)
     Availability: Available
-    Price: £3.72 GBP
-  - [250ml](https://inky-ingredients.com/products/desert-date-oil-cold-pressed?variant=56370946310528)
+    Price: £4.74 GBP
+  - [250ml](https://inky-ingredients.com/products/kalahari-melon-seed-oil-cold-pressed?variant=56370214076800)
     Availability: Available
-    Price: £17.52 GBP
-  - [500ml](https://inky-ingredients.com/products/desert-date-oil-cold-pressed?variant=56370946343296)
+    Price: £21.18 GBP
+  - [500ml](https://inky-ingredients.com/products/kalahari-melon-seed-oil-cold-pressed?variant=56370214109568)
     Availability: Available
-    Price: £33.36 GBP
-  - [1kg](https://inky-ingredients.com/products/desert-date-oil-cold-pressed?variant=56370946376064)
+    Price: £40.32 GBP
+  - [1kg](https://inky-ingredients.com/products/kalahari-melon-seed-oil-cold-pressed?variant=56370214142336)
     Availability: Available
-    Price: £63.60 GBP
-  - [5kg](https://inky-ingredients.com/products/desert-date-oil-cold-pressed?variant=56370946408832)
+    Price: £76.86 GBP
+  - [5kg](https://inky-ingredients.com/products/kalahari-melon-seed-oil-cold-pressed?variant=56370214175104)
     Availability: Available
-    Price: £302.40 GBP
+    Price: £366.00 GBP
 - [Macadamia Nut Oil, Refined](https://inky-ingredients.com/products/macadamia-nut-oil-refined): A highly versatile beauty oil, Refined Macadamia Nut Oil is prized for its mild aroma and exceptional moisturising properties. It absorbs quickly, leaving skin and hair nourished and non-greasy.
-  Updated: 2025-12-17T16:59:06Z
+  Updated: 2026-04-10T13:20:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3160,7 +3194,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £40.80 GBP
 - [Lavender English, Essential Oil](https://inky-ingredients.com/products/lavender-english-essential-oil): English Lavender Essential Oil is a classic with versatile benefits. Its calming aroma promotes relaxation and soothes the senses. With antibacterial properties, it's an ideal addition to aromatherapy blends, skincare formulations, and products aiming for a serene ambiance.
-  Updated: 2025-12-15T10:02:18Z
+  Updated: 2026-04-09T12:04:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3169,64 +3203,43 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £3.00 GBP
   - [50ml](https://inky-ingredients.com/products/lavender-english-essential-oil?variant=56370217451904)
-    Availability: Not Available
+    Availability: Available
     Price: £7.20 GBP
   - [100ml](https://inky-ingredients.com/products/lavender-english-essential-oil?variant=56370217484672)
-    Availability: Not Available
+    Availability: Available
     Price: £11.40 GBP
   - [500ml](https://inky-ingredients.com/products/lavender-english-essential-oil?variant=56370217517440)
-    Availability: Not Available
+    Availability: Available
     Price: £41.40 GBP
   - [1kg](https://inky-ingredients.com/products/lavender-english-essential-oil?variant=56370217550208)
-    Availability: Not Available
+    Availability: Available
     Price: £81.00 GBP
   - [5kg](https://inky-ingredients.com/products/lavender-english-essential-oil?variant=56370217582976)
-    Availability: Not Available
+    Availability: Available
     Price: £400.80 GBP
 - [Jojoba Seed Oil, Refined Organic](https://inky-ingredients.com/products/jojoba-seed-oil-refined-organic): Refined Organic Jojoba Seed Oil is a versatile, non-greasy oil closely resembling the skin's natural sebum. It hydrates and balances, making it an ideal choice for skincare. Its compatibility with various skin types enhances its appeal.
-  Updated: 2025-12-12T09:04:32Z
+  Updated: 2026-04-08T17:09:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0789-min_004705f1-6501-489a-93d6-18249b61957e.jpg?v=1764597462
   - [50ml](https://inky-ingredients.com/products/jojoba-seed-oil-refined-organic?variant=56370621907328)
-    Availability: Not Available
+    Availability: Available
     Price: £4.80 GBP
   - [250ml](https://inky-ingredients.com/products/jojoba-seed-oil-refined-organic?variant=56370621940096)
-    Availability: Not Available
+    Availability: Available
     Price: £12.60 GBP
   - [500ml](https://inky-ingredients.com/products/jojoba-seed-oil-refined-organic?variant=56370621972864)
-    Availability: Not Available
+    Availability: Available
     Price: £24.60 GBP
   - [1kg](https://inky-ingredients.com/products/jojoba-seed-oil-refined-organic?variant=56370622005632)
-    Availability: Not Available
+    Availability: Available
     Price: £49.20 GBP
   - [5kg](https://inky-ingredients.com/products/jojoba-seed-oil-refined-organic?variant=56370622038400)
     Availability: Available
     Price: £238.80 GBP
-- [Jojoba Seed Oil, Refined](https://inky-ingredients.com/products/jojoba-seed-oil-refined): Refined Jojoba Seed Oil, with a clear appearance, is a versatile moisturiser. It closely resembles the skin's natural oils, providing hydration without greasiness. Ideal for skincare, haircare, and massage applications.
-  Updated: 2025-12-14T17:51:42Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0237-min_3b536161-7593-4bb4-a907-31c750d7e242.jpg?v=1764597463
-  - [50ml](https://inky-ingredients.com/products/jojoba-seed-oil-refined?variant=56370626068864)
-    Availability: Available
-    Price: £3.55 GBP
-  - [250ml](https://inky-ingredients.com/products/jojoba-seed-oil-refined?variant=56370626101632)
-    Availability: Available
-    Price: £7.44 GBP
-  - [500ml](https://inky-ingredients.com/products/jojoba-seed-oil-refined?variant=56370626134400)
-    Availability: Available
-    Price: £14.10 GBP
-  - [1kg](https://inky-ingredients.com/products/jojoba-seed-oil-refined?variant=56370626167168)
-    Availability: Available
-    Price: £26.88 GBP
-  - [5kg](https://inky-ingredients.com/products/jojoba-seed-oil-refined?variant=56370626199936)
-    Availability: Available
-    Price: £128.10 GBP
 - [Cupuacu Butter](https://inky-ingredients.com/products/cupuacu-butter): Cupuacu Butter is a luxurious emollient. With its rich texture, it nourishes dry and damaged skin, promoting elasticity and a velvety soft feel. Ideal for creams, lotions, and hair care.
-  Updated: 2025-12-25T22:41:01Z
+  Updated: 2026-04-13T16:16:08Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3247,7 +3260,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £765.60 GBP
 - [Hemp Seed Oil, Cold Pressed](https://inky-ingredients.com/products/hemp-seed-oil-cold-pressed): Cold-pressed Hemp Seed Oil is a natural source of essential fatty acids. Its light texture absorbs quickly, delivering hydration and nutrition to the skin. Ideal for maintaining skin balance and a youthful appearance.
-  Updated: 2025-12-26T22:59:00Z
+  Updated: 2026-04-07T14:03:22Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3268,7 +3281,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.27 GBP
 - [Hemp Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/hemp-seed-oil-cold-pressed-organic): Cold-pressed from organic hemp seeds, this oil retains its natural goodness. Packed with omega fatty acids, it hydrates and nourishes the skin deeply, promoting a healthy complexion and supporting skin elasticity.
-  Updated: 2025-12-23T12:10:42Z
+  Updated: 2026-04-06T22:14:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3289,7 +3302,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £57.72 GBP
 - [Hemp Seed Oil, Refined](https://inky-ingredients.com/products/hemp-seed-oil-refined): Refined Hemp Seed Oil is a lightweight, moisturising oil rich in omega-3 and omega-6 fatty acids. It nourishes the skin without clogging pores, leaving a non-greasy feel and supporting overall skin health.
-  Updated: 2025-12-28T17:07:49Z
+  Updated: 2026-04-14T08:12:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3310,7 +3323,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.53 GBP
 - [Evening Primrose Oil (9% GLA), Refined](https://inky-ingredients.com/products/evening-primrose-oil-9-gla-refined): Refined Evening Primrose Oil, containing 9% GLA, offers skincare benefits with a focus on promoting skin elasticity and hydration. Its refined nature ensures a smooth texture, making it suitable for various cosmetic uses.
-  Updated: 2025-12-09T11:18:27Z
+  Updated: 2026-03-27T08:19:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3331,7 +3344,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £148.30 GBP
 - [Evening Primrose Oil, Cold Pressed Organic](https://inky-ingredients.com/products/evening-primrose-oil-cold-pressed-organic): Cold-Pressed Organic Evening Primrose Oil is prized for its skin-nourishing properties. Rich in gamma-linolenic acid (GLA), it supports skin health and is a valuable addition to formulations promoting a radiant complexion.
-  Updated: 2025-12-28T19:12:12Z
+  Updated: 2026-03-27T08:19:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3351,29 +3364,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/evening-primrose-oil-cold-pressed-organic?variant=56370641830272)
     Availability: Available
     Price: £168.10 GBP
-- [Grapeseed EP9 Oil, Refined](https://inky-ingredients.com/products/grapeseed-ep9-oil-refined): Indulge in the lightweight beauty of Grapeseed EP9 Oil, refined to perfection. Known for its fast absorption and high vitamin E content, it revitalizes and hydrates both skin and hair. Pure elegance in every drop!
-  Updated: 2025-12-02T05:31:45Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0214-min_43537467-db6e-4727-b6cd-29611db4d9de.jpg?v=1764598130
-  - [50ml](https://inky-ingredients.com/products/grapeseed-ep9-oil-refined?variant=56370964562304)
-    Availability: Available
-    Price: £2.45 GBP
-  - [250ml](https://inky-ingredients.com/products/grapeseed-ep9-oil-refined?variant=56370964595072)
-    Availability: Available
-    Price: £3.00 GBP
-  - [500ml](https://inky-ingredients.com/products/grapeseed-ep9-oil-refined?variant=56370964627840)
-    Availability: Available
-    Price: £4.30 GBP
-  - [1kg](https://inky-ingredients.com/products/grapeseed-ep9-oil-refined?variant=56370964660608)
-    Availability: Available
-    Price: £7.65 GBP
-  - [5kg](https://inky-ingredients.com/products/grapeseed-ep9-oil-refined?variant=56370964693376)
-    Availability: Available
-    Price: £36.76 GBP
 - [Cucumber Oil, Cold Pressed](https://inky-ingredients.com/products/cucumber-oil-cold-pressed): Cold-pressed Cucumber Oil is a lightweight moisturiser with cooling properties. Its refreshing feel makes it perfect for skincare, especially in soothing and hydrating sensitive skin.
-  Updated: 2025-12-15T10:32:43Z
+  Updated: 2026-04-11T20:43:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3394,7 +3386,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £231.60 GBP
 - [Hazelnut Oil, Refined](https://inky-ingredients.com/products/hazelnut-oil-refined): Refined Hazelnut Oil is a lightweight and nourishing oil that benefits both skin and hair. With its quick absorption and moisturising properties, it adds a luxurious touch to cosmetic formulations, contributing to a soft and supple feel.
-  Updated: 2025-12-11T10:31:48Z
+  Updated: 2026-03-26T20:31:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3415,7 +3407,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £41.22 GBP
 - [Cedarwood USA, Essential Oil](https://inky-ingredients.com/products/cedarwood-usa-essential-oil): Cedarwood USA Essential Oil, with a distinct aroma, offers therapeutic benefits. It's favoured in skincare and aromatherapy for its calming effect and potential to enhance mental clarity.
-  Updated: 2025-12-08T18:22:36Z
+  Updated: 2026-04-13T13:54:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3463,7 +3455,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £254.40 GBP
 - [Eucalyptus Radiata, Essential Oil](https://inky-ingredients.com/products/eucalyptus-radiata-essential-oil): Eucalyptus Radiata Essential Oil, with a milder aroma, is favoured for respiratory support and promoting a clear mind. It's suitable for various applications, from massage blends to diffuser recipes.
-  Updated: 2025-12-15T11:02:34Z
+  Updated: 2026-04-13T11:43:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3487,7 +3479,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £254.40 GBP
 - [Coconut Oil, Refined Organic (Boxed)](https://inky-ingredients.com/products/coconut-oil-refined-organic-boxed): This organic, refined Coconut Oil is a versatile beauty staple. Its purity and lightweight texture make it an excellent moisturiser, leaving skin and hair nourished and hydrated.
-  Updated: 2025-12-20T18:25:27Z
+  Updated: 2026-04-13T17:58:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3508,7 +3500,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £52.50 GBP
 - [Coconut Oil, Fractionated Organic](https://inky-ingredients.com/products/coconut-oil-fractionated-organic): Organic Fractionated Coconut Oil is a versatile carrier oil. Extracted from coconuts, it remains liquid at room temperature. Lightweight and non-greasy, it serves as an ideal base for skincare, massage, and hair care products.
-  Updated: 2025-12-23T22:40:08Z
+  Updated: 2026-04-11T10:12:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3529,7 +3521,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £94.00 GBP
 - [MCT Oil, Fractionated](https://inky-ingredients.com/products/mct-oil-fractionated): Fractionated MCT Oil, derived from coconut, offers a multitude of health benefits. With its rapid absorption, it's an energy-boosting supplement and a popular ingredient in ketogenic diets.
-  Updated: 2025-12-28T08:52:31Z
+  Updated: 2026-04-12T14:10:03Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3550,7 +3542,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £49.20 GBP
 - [Coconut Oil, Fractionated](https://inky-ingredients.com/products/coconut-oil-fractionated-mct): Fractionated Coconut Oil, rich in MCTs, is a versatile beauty aid. Its lightweight and non-greasy formula make it an excellent choice for skincare, massage, and hair care routines.
-  Updated: 2025-12-27T14:50:08Z
+  Updated: 2026-04-14T08:12:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3571,7 +3563,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £49.50 GBP
 - [Camellia Oil (Kissi), Refined](https://inky-ingredients.com/products/camellia-oil-kissi-refined): Refined from Kissi Camellia seeds, this oil is a lightweight, non-comedogenic moisturiser for skin and hair. Packed with antioxidants and vitamins, it promotes hydration and nourishes, leaving a silky, smooth texture without greasiness.
-  Updated: 2025-12-02T05:06:21Z
+  Updated: 2026-02-23T20:59:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3592,7 +3584,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £71.55 GBP
 - [Clementine, Essential Oil](https://inky-ingredients.com/products/clementine-essential-oil): Clementine Essential Oil captures the essence of citrus freshness. Its uplifting and invigorating aroma makes it a popular choice in aromatherapy and skincare products, providing a burst of energy and a delightful fragrance.
-  Updated: 2025-12-10T12:40:26Z
+  Updated: 2026-04-02T21:21:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3616,7 +3608,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £237.12 GBP
 - [Eucalyptus Citriodora, Essential Oil](https://inky-ingredients.com/products/eucalyptus-citriodora-essential-oil): Eucalyptus Citriodora Essential Oil, with its lemony aroma, offers refreshing and uplifting qualities. It's a natural insect repellent and is commonly used to promote respiratory well-being in aromatherapy.
-  Updated: 2025-12-02T06:29:21Z
+  Updated: 2026-04-09T12:04:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3639,29 +3631,50 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/eucalyptus-citriodora-essential-oil?variant=56370229641600)
     Availability: Available
     Price: £156.00 GBP
-- [Camellia Oil (Oleifera), Refined](https://inky-ingredients.com/products/camellia-oil-oleifera-refined): Refined Camellia Oil (Oleifera) is processed to achieve a clear and odorless oil from the seeds of Camellia oleifera. Renowned for its moisturising benefits, this refined oil is often used in skincare formulations. It provides a light and non-greasy texture, making it an ideal choice for various cosmetic applications.
-  Updated: 2025-12-02T05:08:08Z
+- [Camellia Oil (Sinensis), Refined](https://inky-ingredients.com/products/camellia-oil-sinensis-refined): Refined Camellia Oil (Sinensis) is extracted from the seeds of Camellia sinensis. Known for its mild and delicate nature, this refined oil is favoured in skincare formulations for its moisturising properties. It imparts a smooth and silky texture to the skin, making it a valuable ingredient in cosmetic applications.
+  Updated: 2026-04-02T16:47:12Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0091-min_ff33f781-4aac-4ea0-a99c-74e23fb65fbc.jpg?v=1764598156
-  - [50ml](https://inky-ingredients.com/products/camellia-oil-oleifera-refined?variant=49467099185446)
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0092-min_5ced07a6-c6d0-4fd3-9128-ac11156b91e5.jpg?v=1764597726
+  - [50ml](https://inky-ingredients.com/products/camellia-oil-sinensis-refined?variant=49467098530086)
     Availability: Available
-    Price: £3.12 GBP
-  - [250ml](https://inky-ingredients.com/products/camellia-oil-oleifera-refined?variant=49467099152678)
+    Price: £3.02 GBP
+  - [250ml](https://inky-ingredients.com/products/camellia-oil-sinensis-refined?variant=49467098497318)
     Availability: Available
-    Price: £4.89 GBP
-  - [500ml](https://inky-ingredients.com/products/camellia-oil-oleifera-refined?variant=49467099119910)
+    Price: £4.79 GBP
+  - [500ml](https://inky-ingredients.com/products/camellia-oil-sinensis-refined?variant=49467098464550)
     Availability: Available
-    Price: £8.63 GBP
-  - [1kg](https://inky-ingredients.com/products/camellia-oil-oleifera-refined?variant=49467099087142)
+    Price: £8.53 GBP
+  - [1kg](https://inky-ingredients.com/products/camellia-oil-sinensis-refined?variant=49467098431782)
     Availability: Available
-    Price: £15.68 GBP
-  - [5kg](https://inky-ingredients.com/products/camellia-oil-oleifera-refined?variant=49467099054374)
+    Price: £15.58 GBP
+  - [5kg](https://inky-ingredients.com/products/camellia-oil-sinensis-refined?variant=49467098399014)
     Availability: Available
-    Price: £71.25 GBP
+    Price: £71.15 GBP
+- [Camellia Oil (Oleifera), Cold Pressed Organic](https://inky-ingredients.com/products/camellia-oil-oleifera-cold-pressed-organic): Organic Cold-pressed Camellia Oil (Oleifera) is derived from the seeds of Camellia oleifera. This organic oil is known for its nourishing and moisturising properties, making it a popular choice for skincare formulations. Its cold-pressed method preserves the oil's natural benefits, offering a pure and organic solution for skin health.
+  Updated: 2026-04-13T13:51:34Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0090-min_31945aa0-261e-42d6-94fe-e21784a4ece3.jpg?v=1764598157
+  - [50ml](https://inky-ingredients.com/products/camellia-oil-oleifera-cold-pressed-organic?variant=49467099709734)
+    Availability: Available
+    Price: £4.26 GBP
+  - [250ml](https://inky-ingredients.com/products/camellia-oil-oleifera-cold-pressed-organic?variant=49467099676966)
+    Availability: Available
+    Price: £7.85 GBP
+  - [500ml](https://inky-ingredients.com/products/camellia-oil-oleifera-cold-pressed-organic?variant=49467099644198)
+    Availability: Available
+    Price: £14.25 GBP
+  - [1kg](https://inky-ingredients.com/products/camellia-oil-oleifera-cold-pressed-organic?variant=49467099611430)
+    Availability: Available
+    Price: £24.93 GBP
+  - [5kg](https://inky-ingredients.com/products/camellia-oil-oleifera-cold-pressed-organic?variant=49467099578662)
+    Availability: Available
+    Price: £117.90 GBP
 - [Citronella Java, Essential Oil](https://inky-ingredients.com/products/citronella-java-essential-oil): Citronella Java Essential Oil emanates a fresh, citrusy scent. Renowned for its insect-repelling properties, it is commonly used in candles, sprays, and skincare products, providing a pleasant aroma while keeping bugs at bay.
-  Updated: 2025-12-02T05:34:48Z
+  Updated: 2026-04-09T10:54:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3685,7 +3698,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £162.60 GBP
 - [Clove Bud, Essential Oil](https://inky-ingredients.com/products/clove-bud-essential-oil): Clove Bud Essential Oil carries a rich, spicy aroma. Renowned for its antimicrobial properties, it is a versatile ingredient in aromatherapy and skincare, offering a warm and comforting scent with potential health benefits.
-  Updated: 2025-12-23T12:10:41Z
+  Updated: 2026-04-13T21:23:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3709,7 +3722,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £249.60 GBP
 - [Avocado, Wax](https://inky-ingredients.com/products/avocado-wax): Avocado wax, rich in vitamins E and A, nourishes and protects hair, promoting growth and repair. Perfect for shampoos, conditioners, and masks, it enhances hair health and performance.
-  Updated: 2025-12-02T05:10:08Z
+  Updated: 2026-04-05T04:27:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3730,7 +3743,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £351.60 GBP
 - [Castor Oil, Cold Pressed Organic](https://inky-ingredients.com/products/castor-oil-cold-pressed-organic): Organic Cold-Pressed Castor Oil is extracted from organic castor seeds. Renowned for its purity, this oil is rich in fatty acids, promoting skin and hair health. It is a popular choice in natural and organic formulations, providing nourishment, hydration, and a holistic approach to beauty care.
-  Updated: 2025-12-27T11:51:27Z
+  Updated: 2026-04-14T08:10:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3751,7 +3764,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £37.92 GBP
 - [Castor Oil (No1), Refined](https://inky-ingredients.com/products/castor-oil-no1-refined): Refined Castor Oil (No1) is a high-quality, versatile oil derived from castor seeds. Known for its emollient and lubricating properties, it is widely used in cosmetics, haircare, and skincare formulations. This refined oil offers nourishment and moisture for both skin and hair health.
-  Updated: 2025-12-02T06:03:08Z
+  Updated: 2026-03-27T09:29:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3772,7 +3785,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £26.98 GBP
 - [Castor Oil (BP), Cold Pressed](https://inky-ingredients.com/products/castor-oil-bp-cold-pressed): Cold-pressed from castor seeds, Castor Oil (BP) is a pharmaceutical-grade oil known for its moisturising and emollient properties. It is commonly used in cosmetics, skincare, and pharmaceutical applications, providing hydration, promoting skin health, and aiding in various formulations.
-  Updated: 2025-12-17T10:46:22Z
+  Updated: 2026-04-11T10:46:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3793,7 +3806,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £28.34 GBP
 - [Chia Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/chia-seed-oil-cold-pressed-organic): Extracted through cold pressing, this organic Chia Seed Oil is rich in omega-3 fatty acids, offering intense hydration and skin-nourishing properties. A natural choice for promoting healthy skin and hair.
-  Updated: 2025-12-02T06:03:23Z
+  Updated: 2026-03-31T11:29:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3814,7 +3827,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £130.00 GBP
 - [Cherry Kernel Oil, Refined](https://inky-ingredients.com/products/cherry-kernel-oil-refined): Refined Cherry Kernel Oil, extracted from cherry seeds, is a versatile cosmetic ingredient. With a light texture, it moisturises and conditions the skin, adding a smooth feel to skincare formulations.
-  Updated: 2025-12-28T17:07:45Z
+  Updated: 2026-03-22T21:23:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3835,7 +3848,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £84.00 GBP
 - [Avocado Oil, Cold Pressed Organic](https://inky-ingredients.com/products/avocado-oil-cold-pressed-organic): Organic cold-pressed avocado oil elevates skincare formulations. Its pure, nutrient-rich composition nourishes the skin deeply, promoting a healthy and vibrant complexion.
-  Updated: 2025-12-29T15:06:32Z
+  Updated: 2026-04-11T12:31:28Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3855,8 +3868,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/avocado-oil-cold-pressed-organic?variant=49467108524326)
     Availability: Available
     Price: £76.50 GBP
+- [Avocado Oil, Cold Pressed](https://inky-ingredients.com/products/avocado-oil-cold-pressed): Cold-pressed avocado oil is a versatile skincare staple. Packed with nutrients, it moisturises and revitalises the skin, leaving it soft, supple, and naturally radiant.
+  Updated: 2026-04-08T20:38:06Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0040-min_7b5450d1-9b79-42c1-8abb-a06cd1a00c5f.jpg?v=1764597737
+  - [50ml](https://inky-ingredients.com/products/avocado-oil-cold-pressed?variant=49467109343526)
+    Availability: Available
+    Price: £2.84 GBP
+  - [250ml](https://inky-ingredients.com/products/avocado-oil-cold-pressed?variant=49467109310758)
+    Availability: Available
+    Price: £4.70 GBP
+  - [500ml](https://inky-ingredients.com/products/avocado-oil-cold-pressed?variant=49467109277990)
+    Availability: Available
+    Price: £8.90 GBP
+  - [1kg](https://inky-ingredients.com/products/avocado-oil-cold-pressed?variant=49467109245222)
+    Availability: Available
+    Price: £17.00 GBP
+  - [5kg](https://inky-ingredients.com/products/avocado-oil-cold-pressed?variant=49467109212454)
+    Availability: Available
+    Price: £71.00 GBP
 - [Avocado, Butter](https://inky-ingredients.com/products/avocado-butter): Avocado butter is a rich, emollient ingredient for skincare. Its creamy texture hydrates and nourishes, promoting skin elasticity and providing a luxurious feel.
-  Updated: 2025-12-08T18:07:14Z
+  Updated: 2026-03-28T22:37:58Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3877,7 +3911,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £306.60 GBP
 - [Carotene, Infused in Sunflower Oil](https://inky-ingredients.com/products/carotene-infused-in-sunflower-oil): Carotene Infused in Sunflower Oil combines the benefits of carotene with the nourishing properties of sunflower oil. This infusion is a natural source of pro-vitamin A, providing antioxidant support for skin health. It is often utilized in skincare products for its rejuvenating effects.
-  Updated: 2025-12-12T15:11:52Z
+  Updated: 2026-03-31T12:12:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3898,7 +3932,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.92 GBP
 - [Calendula, Infused in Sunflower Oil](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil): Calendula infused in Sunflower Oil combines the soothing properties of Calendula officinalis with Sunflower Oil's nourishing benefits. This infusion is known for its skin-calming effects, making it a popular choice for skincare formulations, offering natural support for healthy and radiant skin.
-  Updated: 2025-12-10T00:48:42Z
+  Updated: 2026-04-10T17:41:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3919,7 +3953,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.48 GBP
 - [Walnut Shells Irradiated, Exfoliant](https://inky-ingredients.com/products/walnut-shells-irradiated-exfoliant): Walnut Shells Irradiated serve as a natural exfoliant, gently buffing away dead skin cells. Ideal for skincare formulations, it promotes smooth and radiant skin, leaving a refreshed and revitalised feel.
-  Updated: 2025-12-02T04:50:19Z
+  Updated: 2026-03-05T07:49:34Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3940,7 +3974,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £442.80 GBP
 - [Pumice Powder, Exfoliant (small particle)](https://inky-ingredients.com/products/pumice-powder-exfoliant-small-particle): Pumice Powder, a small particle exfoliant, gently buffs away dead skin cells. Ideal for skincare formulations, it promotes smooth and revitalised skin by unclogging pores and promoting cell turnover.
-  Updated: 2025-12-15T10:01:59Z
+  Updated: 2026-04-13T17:58:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3961,7 +3995,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £118.80 GBP
 - [Buriti Oil, Cold Pressed](https://inky-ingredients.com/products/buriti-oil-cold-pressed): Cold-pressed Buriti Oil is a natural skincare gem. Packed with antioxidants and fatty acids, it rejuvenates and moisturises, promoting a vibrant complexion and aiding in the repair of damaged skin.
-  Updated: 2025-12-15T10:02:00Z
+  Updated: 2026-04-06T21:08:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3981,8 +4015,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/buriti-oil-cold-pressed?variant=49467114881318)
     Availability: Available
     Price: £184.32 GBP
+- [Arnica, Infused in Sunflower Oil](https://inky-ingredients.com/products/arnica-infused-in-sunflower-oil): Arnica-infused Sunflower Oil blends the benefits of arnica with the nourishing properties of sunflower oil. Known for its anti-inflammatory properties, it soothes and calms the skin, making it a valuable addition to formulations targeting sore muscles, bruises, and irritated skin.
+  Updated: 2026-04-12T17:32:27Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0037-min_1db79c0f-b981-41c2-9a01-aa471b9fd56d.jpg?v=1764598167
+  - [50ml](https://inky-ingredients.com/products/arnica-infused-in-sunflower-oil?variant=49467115372838)
+    Availability: Available
+    Price: £2.40 GBP
+  - [250ml](https://inky-ingredients.com/products/arnica-infused-in-sunflower-oil?variant=49467115340070)
+    Availability: Available
+    Price: £4.61 GBP
+  - [500ml](https://inky-ingredients.com/products/arnica-infused-in-sunflower-oil?variant=49467115307302)
+    Availability: Available
+    Price: £8.47 GBP
+  - [1kg](https://inky-ingredients.com/products/arnica-infused-in-sunflower-oil?variant=49467115274534)
+    Availability: Available
+    Price: £15.46 GBP
+  - [5kg](https://inky-ingredients.com/products/arnica-infused-in-sunflower-oil?variant=49467115241766)
+    Availability: Available
+    Price: £70.32 GBP
 - [Bergamot FCF (Furocoumarin Free), Essential Oil Organic](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil-organic): Organic Bergamot FCF Essential Oil, free from furocoumarins, embodies the citrusy, uplifting scent of bergamot. Commonly used in natural perfumery and aromatherapy, it adds a bright and refreshing aroma to formulations.
-  Updated: 2025-12-29T16:28:35Z
+  Updated: 2026-04-09T00:33:53Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4006,7 +4061,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,557.60 GBP
 - [Cajeput, Essential Oil](https://inky-ingredients.com/products/cajeput-essential-oil): Cajeput Essential Oil, derived from the Melaleuca cajuputi tree, boasts a fresh, camphoraceous aroma. It is renowned for its therapeutic properties, promoting respiratory health and soothing sore muscles. Ideal for aromatherapy and topical applications, it's a versatile essential oil.
-  Updated: 2025-12-02T06:04:56Z
+  Updated: 2026-04-07T13:54:39Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4030,7 +4085,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £235.08 GBP
 - [Broccoli Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/broccoli-seed-oil-cold-pressed-organic): Organic and cold-pressed, Broccoli Seed Oil is a lightweight moisturiser. Rich in antioxidants and vitamins, it supports skin health, providing a non-greasy nourishment for a radiant and youthful complexion.
-  Updated: 2025-12-16T15:57:05Z
+  Updated: 2026-04-13T08:51:13Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4051,7 +4106,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £231.60 GBP
 - [Brazil Nut Oil, Refined](https://inky-ingredients.com/products/brazil-nut-oil-refined): Refined Brazil Nut Oil is a nutrient-rich oil known for its emollient properties. With antioxidants and essential fatty acids, it nourishes and moisturises, leaving skin and hair with a healthy glow.
-  Updated: 2025-12-07T17:10:03Z
+  Updated: 2026-04-13T18:05:58Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4072,7 +4127,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £32.34 GBP
 - [Borage Seed Oil 19% GLA, Refined](https://inky-ingredients.com/products/borage-seed-oil-19-gla-refined): Refined Borage Seed Oil, with 19% GLA, is a skin-friendly oil. Its purity and essential fatty acids contribute to skin vitality, offering hydration and promoting a balanced and rejuvenated complexion.
-  Updated: 2025-12-02T06:05:11Z
+  Updated: 2026-03-10T17:55:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4093,7 +4148,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £146.74 GBP
 - [Borage Seed Oil 20% GLA, Cold Pressed Organic](https://inky-ingredients.com/products/borage-seed-oil-20-gla-cold-pressed-organic): Cold-pressed and organic, Borage Seed Oil with 20% GLA is a premium botanical oil. It nourishes and revitalises the skin, promoting a healthy appearance with its rich essential fatty acid content.
-  Updated: 2025-12-23T22:40:09Z
+  Updated: 2026-04-10T14:32:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4114,7 +4169,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £154.73 GBP
 - [Chamomile Roman, Essential Oil](https://inky-ingredients.com/products/chamomile-roman-essential-oil): Chamomile Roman Essential Oil, prized for its mild and apple-like aroma, promotes relaxation. Its versatility makes it a popular choice in skincare and aromatherapy for a calming experience.
-  Updated: 2025-12-23T12:10:41Z
+  Updated: 2026-04-05T09:14:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4137,32 +4192,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/chamomile-roman-essential-oil?variant=49467121631526)
     Availability: Available
     Price: £4,152.00 GBP
-- [Chamomile Blue, Essential Oil](https://inky-ingredients.com/products/chamomile-blue-essential-oil): Chamomile Blue Essential Oil, renowned for its soothing properties, is used in skincare and aromatherapy. It promotes relaxation and helps alleviate skin discomfort, leaving a tranquil feeling.
-  Updated: 2025-12-23T09:03:56Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0118-min_ba03a274-d067-40f2-bb9e-a0e33163cebb.jpg?v=1764597523
-  - [10ml](https://inky-ingredients.com/products/chamomile-blue-essential-oil?variant=49467122123046)
-    Availability: Available
-    Price: £15.90 GBP
-  - [50ml](https://inky-ingredients.com/products/chamomile-blue-essential-oil?variant=49467122090278)
-    Availability: Available
-    Price: £74.34 GBP
-  - [100ml](https://inky-ingredients.com/products/chamomile-blue-essential-oil?variant=49467122057510)
-    Availability: Available
-    Price: £124.80 GBP
-  - [500ml](https://inky-ingredients.com/products/chamomile-blue-essential-oil?variant=49467122024742)
-    Availability: Available
-    Price: £546.24 GBP
-  - [1kg](https://inky-ingredients.com/products/chamomile-blue-essential-oil?variant=49467121991974)
-    Availability: Available
-    Price: £1,057.20 GBP
-  - [5kg](https://inky-ingredients.com/products/chamomile-blue-essential-oil?variant=49467121959206)
-    Availability: Available
-    Price: £5,182.80 GBP
 - [Beeswax Yellow, Organic](https://inky-ingredients.com/products/beeswax-yellow-organic): Organic Beeswax Yellow is a natural, sustainable ingredient with various applications. It serves as a thickening agent in cosmetics, offering emollient properties and contributing to the overall quality of formulations.
-  Updated: 2025-12-09T16:23:57Z
+  Updated: 2026-04-13T19:37:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4183,7 +4214,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £876.00 GBP
 - [Cacay Oil, Cold Pressed](https://inky-ingredients.com/products/cacay-oil-cold-pressed): Cold-pressed Cacay Oil is a powerhouse of natural anti-aging properties. With high levels of retinol and vitamin E, it promotes skin regeneration and reduces the appearance of fine lines. This versatile oil is a potent addition to skincare formulations for a youthful and revitalised complexion.
-  Updated: 2025-12-29T08:58:42Z
+  Updated: 2026-04-13T13:54:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4204,7 +4235,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £405.60 GBP
 - [Cabbage Seed Oil, Cold Pressed](https://inky-ingredients.com/products/cabbage-seed-oil-cold-pressed): Cold-pressed from cabbage seeds, this oil is a nourishing addition to skincare formulations. Cabbage Seed Oil helps moisturize and revitalise the skin, making it a valuable ingredient for promoting skin health.
-  Updated: 2025-12-02T06:32:20Z
+  Updated: 2026-03-26T19:31:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4224,29 +4255,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/cabbage-seed-oil-cold-pressed?variant=56370235146624)
     Availability: Available
     Price: £151.20 GBP
-- [Blueberry Seed Oil, Cold Pressed](https://inky-ingredients.com/products/blueberry-seed-oil-cold-pressed): Cold-pressed Blueberry Seed Oil is a nourishing oil packed with antioxidants and essential fatty acids. It supports skin hydration and elasticity, making it a valuable addition to skincare formulations. Its cold-pressed extraction method ensures the preservation of its natural benefits.
-  Updated: 2025-12-02T06:32:38Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0547-min_e082bc38-552e-4fcd-b776-19e664f9c830.jpg?v=1764597528
-  - [50ml](https://inky-ingredients.com/products/blueberry-seed-oil-cold-pressed?variant=56370074550656)
-    Availability: Available
-    Price: £7.20 GBP
-  - [250ml](https://inky-ingredients.com/products/blueberry-seed-oil-cold-pressed?variant=56370074583424)
-    Availability: Available
-    Price: £22.20 GBP
-  - [500ml](https://inky-ingredients.com/products/blueberry-seed-oil-cold-pressed?variant=56370074616192)
-    Availability: Available
-    Price: £42.60 GBP
-  - [1kg](https://inky-ingredients.com/products/blueberry-seed-oil-cold-pressed?variant=56370074648960)
-    Availability: Available
-    Price: £84.00 GBP
-  - [5kg](https://inky-ingredients.com/products/blueberry-seed-oil-cold-pressed?variant=56370074681728)
-    Availability: Available
-    Price: £411.60 GBP
 - [Blackcurrant Seed Oil 15% GLA, Refined](https://inky-ingredients.com/products/blackcurrant-seed-oil-15-gla-refined): Refined Blackcurrant Seed Oil, rich in GLA, supports skin health. Its moisturising properties and gamma-linolenic acid content make it a valuable addition to skincare formulations for a supple complexion.
-  Updated: 2025-12-04T11:18:02Z
+  Updated: 2026-04-13T06:53:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4267,7 +4277,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £115.60 GBP
 - [Blackberry Seed Oil, Cold Pressed](https://inky-ingredients.com/products/blackberry-seed-oil-cold-pressed): Cold-pressed Blackberry Seed Oil is a nourishing elixir for the skin. Packed with essential fatty acids and antioxidants, it promotes hydration, elasticity, and a youthful radiance for all skin types.
-  Updated: 2025-12-03T19:13:11Z
+  Updated: 2026-04-06T21:08:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4288,7 +4298,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £190.20 GBP
 - [Argan Oil, Cold Pressed Deodorised (Commercial Grade)](https://inky-ingredients.com/products/argan-oil-cold-pressed-deodorised-commercial-grade): Commercial-grade deodorised cold-pressed Argan oil is versatile for skincare and haircare. Known for its nourishing properties, it adds a touch of luxury to formulations.
-  Updated: 2025-12-20T23:32:00Z
+  Updated: 2026-04-13T18:05:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4298,18 +4308,60 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Price: £3.10 GBP
   - [250ml](https://inky-ingredients.com/products/argan-oil-cold-pressed-deodorised-commercial-grade?variant=49467128676646)
     Availability: Available
-    Price: £5.22 GBP
+    Price: £6.24 GBP
   - [500ml](https://inky-ingredients.com/products/argan-oil-cold-pressed-deodorised-commercial-grade?variant=49467128643878)
     Availability: Available
-    Price: £9.44 GBP
+    Price: £10.92 GBP
   - [1kg](https://inky-ingredients.com/products/argan-oil-cold-pressed-deodorised-commercial-grade?variant=49467128611110)
     Availability: Available
-    Price: £17.22 GBP
+    Price: £19.80 GBP
   - [5kg](https://inky-ingredients.com/products/argan-oil-cold-pressed-deodorised-commercial-grade?variant=49467128578342)
     Availability: Available
-    Price: £78.00 GBP
+    Price: £90.00 GBP
+- [Argan Oil, Cold Pressed Organic](https://inky-ingredients.com/products/argan-oil-cold-pressed-organic): Organic Cold-pressed Argan Oil is a premium choice for skincare and haircare. Packed with antioxidants and essential fatty acids, it hydrates, softens, and rejuvenates. This organic variant ensures purity, making it an ideal ingredient for formulations prioritising natural and clean beauty.
+  Updated: 2026-04-09T15:53:07Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0036-min_38787409-9436-4876-be7e-0f58398b294b.jpg?v=1764597963
+  - [50ml](https://inky-ingredients.com/products/argan-oil-cold-pressed-organic?variant=49467129430310)
+    Availability: Available
+    Price: £6.48 GBP
+  - [250ml](https://inky-ingredients.com/products/argan-oil-cold-pressed-organic?variant=49467129397542)
+    Availability: Available
+    Price: £31.92 GBP
+  - [500ml](https://inky-ingredients.com/products/argan-oil-cold-pressed-organic?variant=49467129364774)
+    Availability: Available
+    Price: £59.40 GBP
+  - [1kg](https://inky-ingredients.com/products/argan-oil-cold-pressed-organic?variant=49467129332006)
+    Availability: Available
+    Price: £105.60 GBP
+  - [5kg](https://inky-ingredients.com/products/argan-oil-cold-pressed-organic?variant=49467129299238)
+    Availability: Available
+    Price: £474.00 GBP
+- [Baobab Oil, Cold Pressed Organic](https://inky-ingredients.com/products/baobab-oil-cold-pressed-organic): Cold-Pressed Organic Baobab Oil is a pure and sustainable beauty oil. Extracted from organic Baobab seeds, it is rich in vitamins and antioxidants. This organic variant ensures a clean and eco-friendly choice for skincare and haircare formulations.
+  Updated: 2026-04-13T09:39:46Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0048-min_db25763c-7184-433d-abeb-1bf6252f47b8.jpg?v=1764597964
+  - [50ml](https://inky-ingredients.com/products/baobab-oil-cold-pressed-organic?variant=49467130052902)
+    Availability: Available
+    Price: £3.20 GBP
+  - [250ml](https://inky-ingredients.com/products/baobab-oil-cold-pressed-organic?variant=49467130183974)
+    Availability: Available
+    Price: £9.30 GBP
+  - [500ml](https://inky-ingredients.com/products/baobab-oil-cold-pressed-organic?variant=49467130151206)
+    Availability: Available
+    Price: £18.45 GBP
+  - [1kg](https://inky-ingredients.com/products/baobab-oil-cold-pressed-organic?variant=49467130118438)
+    Availability: Available
+    Price: £33.00 GBP
+  - [5kg](https://inky-ingredients.com/products/baobab-oil-cold-pressed-organic?variant=49467130085670)
+    Availability: Available
+    Price: £136.60 GBP
 - [Baobab Oil, Cold Pressed](https://inky-ingredients.com/products/baobab-oil-cold-pressed): Cold-Pressed Baobab Oil is a nutrient-rich oil extracted from the seeds of the iconic Baobab tree. This versatile oil is known for its ability to moisturize and revitalise the skin and hair, leaving them soft and supple. A natural choice for nourishing formulations.
-  Updated: 2025-12-25T08:30:56Z
+  Updated: 2026-04-10T14:32:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4330,7 +4382,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £108.00 GBP
 - [Black Cumin Seed Oil, Cold Pressed](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed): Cold-pressed Black Cumin Seed Oil is a nutrient-rich oil with diverse applications. Renowned for its potential health and skincare benefits, it is commonly used in cosmetics, hair care, and as a nutritional supplement.
-  Updated: 2025-12-27T11:51:26Z
+  Updated: 2026-04-13T20:54:14Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4350,53 +4402,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed?variant=49467132117286)
     Availability: Available
     Price: £118.20 GBP
-- [Apricot Stones Irradiated, Exfoliant](https://inky-ingredients.com/products/apricot-stones-irradiated-exfoliant): Apricot Stones Irradiated serve as a natural exfoliant, gently removing dead skin cells. These irradiated stones, when incorporated into formulations, contribute to smoother skin texture, revealing a fresh and renewed complexion. Perfect for exfoliating body and facial products.
-  Updated: 2025-12-11T10:57:42Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0032-min_606f8171-af73-4767-93ac-a1b9f3d4f734.jpg?v=1764598189
-  - [250g](https://inky-ingredients.com/products/apricot-stones-irradiated-exfoliant?variant=49467135263014)
-    Availability: Available
-    Price: £5.88 GBP
-  - [500g](https://inky-ingredients.com/products/apricot-stones-irradiated-exfoliant?variant=49467135230246)
-    Availability: Available
-    Price: £10.68 GBP
-  - [1kg](https://inky-ingredients.com/products/apricot-stones-irradiated-exfoliant?variant=49467135361318)
-    Availability: Available
-    Price: £19.44 GBP
-  - [5kg](https://inky-ingredients.com/products/apricot-stones-irradiated-exfoliant?variant=49467135328550)
-    Availability: Available
-    Price: £88.32 GBP
-  - [25kg](https://inky-ingredients.com/products/apricot-stones-irradiated-exfoliant?variant=49467135295782)
-    Availability: Available
-    Price: £405.60 GBP
-- [Alpha Bisabol, Natural](https://inky-ingredients.com/products/alpha-bisabol-natural): Natural Alpha Bisabol is a versatile cosmetic ingredient known for its soothing and anti-inflammatory properties. Derived from natural sources, it's used in skincare formulations to calm and rejuvenate the skin.
-  Updated: 2025-12-20T11:46:32Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0021-min_ceb0cdb8-64f2-4a34-947c-776e2c8e1685.jpg?v=1764597749
-  - [10ml](https://inky-ingredients.com/products/alpha-bisabol-natural?variant=49467137818918)
-    Availability: Available
-    Price: £6.90 GBP
-  - [50ml](https://inky-ingredients.com/products/alpha-bisabol-natural?variant=49467137786150)
-    Availability: Available
-    Price: £29.10 GBP
-  - [100ml](https://inky-ingredients.com/products/alpha-bisabol-natural?variant=49467137753382)
-    Availability: Available
-    Price: £49.20 GBP
-  - [500ml](https://inky-ingredients.com/products/alpha-bisabol-natural?variant=49467137720614)
-    Availability: Available
-    Price: £189.60 GBP
-  - [1kg](https://inky-ingredients.com/products/alpha-bisabol-natural?variant=49467137687846)
-    Availability: Available
-    Price: £312.00 GBP
-  - [5kg](https://inky-ingredients.com/products/alpha-bisabol-natural?variant=49467137622310)
-    Availability: Available
-    Price: £1,196.40 GBP
 - [Aloe Vera, Butter](https://inky-ingredients.com/products/olive-stones-exfoliant-irradiated-1): Aloe Vera Butter is a rich and emollient substance derived from the plant. It combines the benefits of aloe vera with a buttery texture, providing intense moisture and nourishment for the skin. It's ideal for dry and sensitive skin types.
-  Updated: 2025-12-08T18:07:09Z
+  Updated: 2026-04-13T19:37:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4417,7 +4424,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £336.00 GBP
 - [Aloe Vera, Cosmetic Clear Gel](https://inky-ingredients.com/products/aloe-vera-cosmetic-clear-gel): Aloe Vera Cosmetic Clear Gel is a transparent formulation with the healing properties of aloe vera. It soothes, hydrates, and revitalises the skin, making it a go-to ingredient for skincare products aiming for clarity and freshness.
-  Updated: 2025-12-16T12:17:11Z
+  Updated: 2026-04-07T13:55:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4438,7 +4445,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £31.62 GBP
 - [Aloe Vera 200:1, Powder Organic](https://inky-ingredients.com/products/aloe-vera-200-1-powder-organic): Organic Aloe Vera 200:1 powder is a concentrated form, offering the healing properties of Aloe. Versatile and potent, it finds use in skincare and wellness products.
-  Updated: 2025-12-02T06:08:21Z
+  Updated: 2026-04-10T14:17:23Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4459,19 +4466,19 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £925.80 GBP
 - [Aloe Vera 200:1, Powder](https://inky-ingredients.com/products/aloe-vera-200-1-powder): Aloe Vera 200:1 Powder is a concentrated form of Aloe Vera, known for its skin-soothing properties. This versatile powder can be incorporated into skincare formulations, providing hydration and soothing effects, making it an excellent choice for natural cosmetic products.
-  Updated: 2025-12-02T06:08:37Z
+  Updated: 2026-03-16T12:07:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0546-min_8138ece9-bc84-41fb-888d-aa816d646962.jpg?v=1764597756
   - [50g](https://inky-ingredients.com/products/aloe-vera-200-1-powder?variant=56371001950592)
-    Availability: Available
+    Availability: Not Available
     Price: £11.84 GBP
   - [250g](https://inky-ingredients.com/products/aloe-vera-200-1-powder?variant=56371001983360)
-    Availability: Available
+    Availability: Not Available
     Price: £45.18 GBP
   - [500g](https://inky-ingredients.com/products/aloe-vera-200-1-powder?variant=56371002016128)
-    Availability: Available
+    Availability: Not Available
     Price: £89.73 GBP
   - [1kg](https://inky-ingredients.com/products/aloe-vera-200-1-powder?variant=56371002048896)
     Availability: Available
@@ -4479,29 +4486,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/aloe-vera-200-1-powder?variant=56371002081664)
     Availability: Available
     Price: £894.39 GBP
-- [Aloe Vera 1:1, Juice](https://inky-ingredients.com/products/aloe-vera-1-1-juice): Aloe Vera 1:1 Juice is a liquid form of the plant's goodness. Known for its hydrating and calming properties, it's a popular ingredient in skincare and wellness products, promoting skin health and overall well-being.
-  Updated: 2025-12-20T20:46:55Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0017-min_6fcedcdf-0c6d-42f5-81e7-d3bf12b147bc.jpg?v=1764597533
-  - [50ml](https://inky-ingredients.com/products/aloe-vera-1-1-juice?variant=49467143913766)
-    Availability: Available
-    Price: £3.18 GBP
-  - [250ml](https://inky-ingredients.com/products/aloe-vera-1-1-juice?variant=49467143880998)
-    Availability: Available
-    Price: £5.28 GBP
-  - [500ml](https://inky-ingredients.com/products/aloe-vera-1-1-juice?variant=49467143848230)
-    Availability: Available
-    Price: £7.32 GBP
-  - [1kg](https://inky-ingredients.com/products/aloe-vera-1-1-juice?variant=49467143815462)
-    Availability: Available
-    Price: £11.28 GBP
-  - [5kg](https://inky-ingredients.com/products/aloe-vera-1-1-juice?variant=49467143782694)
-    Availability: Available
-    Price: £34.90 GBP
 - [Apricot Kernel, Butter](https://inky-ingredients.com/products/apricot-kernel-butter): Apricot Kernel Butter, derived from the kernels of apricots, is a luxurious and emollient butter. Known for its moisturising properties, it soothes and conditions the skin, making it an excellent choice for skincare formulations aiming for deep hydration and suppleness.
-  Updated: 2025-12-02T06:09:12Z
+  Updated: 2026-03-30T15:38:08Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4522,7 +4508,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £395.40 GBP
 - [Aloe Vera, Oily Extract in Coconut](https://inky-ingredients.com/products/aloe-vera-oily-extract-in-coconut): Aloe Vera, combined with coconut oil, forms a nourishing blend. This oily extract provides moisturising benefits, soothing the skin and promoting overall wellness.
-  Updated: 2025-12-12T02:13:46Z
+  Updated: 2026-03-24T13:59:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4543,7 +4529,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £122.40 GBP
 - [Andiroba Oil, Cold Pressed](https://inky-ingredients.com/products/andiroba-oil-cold-pressed): Cold-pressed Andiroba Oil is a skin-loving oil with anti-inflammatory properties. It deeply moisturises, soothes irritated skin, and promotes overall skin health. A natural choice for skincare formulations seeking to calm and nourish the skin.
-  Updated: 2025-12-12T21:19:25Z
+  Updated: 2026-04-13T13:54:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4564,7 +4550,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £166.80 GBP
 - [Vanilla, Infused in Sunflower Oil](https://inky-ingredients.com/products/vanilla-infused-in-sunflower-oil): Vanilla Infused in Sunflower Oil captures the essence of vanilla in a carrier oil. This infusion provides a sweet and aromatic base for various applications. Suitable for skincare and massage formulations, it imparts a subtle vanilla fragrance while delivering the benefits of sunflower oil to the skin.
-  Updated: 2025-12-17T18:27:11Z
+  Updated: 2026-04-13T15:05:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4585,7 +4571,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £470.40 GBP
 - [Gotu Kola (Centella) Leaf, Extract](https://inky-ingredients.com/products/gotu-kola-centella-leaf-extract): Gotu Kola Leaf Extract is a botanical treasure for skincare. Renowned for its anti-aging and healing properties, it supports collagen production and helps reduce inflammation. A valuable addition to formulations aiming for skin rejuvenation and overall wellness.
-  Updated: 2025-12-29T20:48:00Z
+  Updated: 2026-04-13T18:05:54Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4606,7 +4592,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £132.60 GBP
 - [GoldenWax 494](https://inky-ingredients.com/products/goldenwax-494): Discover the brilliance of GoldenWax 494, the ideal choice for wax melts. With exceptional scent throw and smooth performance, it offers versatility and quality for creating lasting, aromatic delights. Melt into luxury!
-  Updated: 2025-12-06T08:26:47Z
+  Updated: 2026-03-29T07:23:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4623,11 +4609,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/goldenwax-494?variant=49514658988326)
     Availability: Available
     Price: £36.00 GBP
-  - [22.7kg](https://inky-ingredients.com/products/goldenwax-494?variant=49514659053862)
+  - [22.68kg](https://inky-ingredients.com/products/goldenwax-494?variant=57600771752320)
     Availability: Available
     Price: £158.40 GBP
 - [GoldenWax 464](https://inky-ingredients.com/products/goldenwax-464): Perfect for crafting candles, GoldenWax 464, choose this premium soy wax blend for smooth, clean-burning creations. Known for excellent fragrance retention and a flawless finish, it elevates every candle-making experience. Formulate with this exceptional ingredient today!
-  Updated: 2025-12-02T04:48:36Z
+  Updated: 2026-04-02T16:57:33Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4644,11 +4630,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/goldenwax-464?variant=49514659774758)
     Availability: Available
     Price: £34.80 GBP
-  - [22.7kg](https://inky-ingredients.com/products/goldenwax-464?variant=49514659840294)
+  - [22.68kg](https://inky-ingredients.com/products/goldenwax-464?variant=57600773849472)
     Availability: Available
     Price: £154.80 GBP
 - [Tamanu Seed Oil, Cold Pressed](https://inky-ingredients.com/products/tamanu-seed-oil-cold-pressed): Cold-pressed tamanu seed oil, valued for its skincare benefits. Renowned for its rejuvenating properties, it may aid in promoting skin healing, reducing inflammation, and providing intense hydration.
-  Updated: 2025-12-04T08:39:27Z
+  Updated: 2026-04-07T13:55:53Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4669,7 +4655,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £126.00 GBP
 - [Lavender Bulgarian, Essential Oil](https://inky-ingredients.com/products/lavender-bulgarian-essential-oil): Lavender Bulgarian Essential Oil, renowned for its calming and floral fragrance, is a versatile aromatherapy ingredient. With potential relaxation benefits, it promotes a serene atmosphere, making it a popular choice for diverse skincare and wellness formulations.
-  Updated: 2025-12-20T22:15:50Z
+  Updated: 2026-03-19T15:56:29Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4693,7 +4679,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £381.00 GBP
 - [Camellia, Infused in Sunflower Oil](https://inky-ingredients.com/products/camellia-infused-in-sunflower-oil): Camellia infused in Sunflower Oil combines the nourishing properties of Camellia seeds with Sunflower Oil's benefits. This infusion is valued in skincare for its ability to moisturize and soften the skin, making it a popular choice for formulating skincare products that promote a healthy complexion.
-  Updated: 2025-12-02T05:35:20Z
+  Updated: 2026-03-20T16:58:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4714,7 +4700,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £64.94 GBP
 - [Camelina Oil, Cold Pressed](https://inky-ingredients.com/products/camelina-oil-cold-pressed): Cold-pressed Camelina Oil, extracted from Camelina sativa seeds, is rich in omega-3 fatty acids. Known for its nutty flavor and nutritional benefits, it's a versatile culinary oil. With a high smoke point, it's suitable for cooking and adds a unique, healthy touch to various dishes.
-  Updated: 2025-12-18T18:54:56Z
+  Updated: 2026-04-09T03:47:12Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4735,7 +4721,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £37.94 GBP
 - [Apricot Kernel Oil, Cold Pressed Organic](https://inky-ingredients.com/products/apricot-kernel-oil-cold-pressed-organic): Cold-pressed from organic apricot kernels, this oil is a natural emollient. Packed with vitamins and fatty acids, it moisturises and revitalises the skin, leaving it smooth and radiant. It's a versatile ingredient for skincare, providing nourishment and a healthy glow.
-  Updated: 2025-12-18T06:06:36Z
+  Updated: 2026-04-12T07:41:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4756,7 +4742,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £85.68 GBP
 - [Cranberry Oil, Cold Pressed](https://inky-ingredients.com/products/cranberry-oil-cold-pressed): Cold-pressed Cranberry Oil is a skincare marvel. Packed with antioxidants and fatty acids, it moisturises and rejuvenates the skin, promoting a healthy and radiant complexion.
-  Updated: 2025-12-15T17:05:18Z
+  Updated: 2026-04-07T14:03:25Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4777,7 +4763,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £220.32 GBP
 - [Coriander Seed, Essential Oil](https://inky-ingredients.com/products/coriander-seed-essential-oil): Coriander Seed Essential Oil, with its warm and sweet aroma, has therapeutic benefits. It's known for promoting relaxation, aiding digestion, and providing a comforting fragrance.
-  Updated: 2025-12-08T02:32:38Z
+  Updated: 2026-04-14T13:37:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4801,7 +4787,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £483.00 GBP
 - [Hazelnut Oil, Cold Pressed Organic](https://inky-ingredients.com/products/hazelnut-oil-cold-pressed-organic): Organic Cold Pressed Hazelnut Oil is a premium-grade oil known for its skin-nourishing benefits. It enhances skin elasticity and promotes a radiant complexion, making it a valuable addition to organic skincare formulations.
-  Updated: 2025-12-02T05:32:35Z
+  Updated: 2026-03-30T09:05:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4822,7 +4808,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £194.60 GBP
 - [Linseed Oil, Unrefined](https://inky-ingredients.com/products/linseed-oil-unrefined): Unrefined Linseed Oil, extracted from flaxseeds, is a versatile medium for artists. It enhances and protects paintings while maintaining their natural beauty, making it an indispensable tool for art enthusiasts.
-  Updated: 2025-12-28T17:19:55Z
+  Updated: 2026-03-26T19:31:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4843,7 +4829,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £27.60 GBP
 - [Helichrysum, Essential Oil](https://inky-ingredients.com/products/helichrysum-essential-oil): Helichrysum Essential Oil, renowned for its anti-inflammatory and antioxidant properties, promotes skin healing and rejuvenation. Its sweet, earthy aroma also offers calming and soothing benefits.
-  Updated: 2025-12-08T18:22:36Z
+  Updated: 2026-03-09T14:28:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4866,29 +4852,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/helichrysum-essential-oil?variant=56370062131584)
     Availability: Available
     Price: £6,037.14 GBP
-- [Illipe, Butter](https://inky-ingredients.com/products/illipe-butter): Illipe Butter, extracted from the seeds of the Illipe tree, is a luxurious moisturiser. Its high fatty acid content deeply nourishes and conditions the skin, leaving it soft and supple with a subtle natural scent.
-  Updated: 2025-12-04T23:49:33Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0230-min_40e7ed7a-bd4e-45a6-9076-3523bfeff6aa.jpg?v=1764597447
-  - [250g](https://inky-ingredients.com/products/illipe-butter?variant=56370048795008)
-    Availability: Available
-    Price: £5.66 GBP
-  - [500g](https://inky-ingredients.com/products/illipe-butter?variant=56370048827776)
-    Availability: Available
-    Price: £10.51 GBP
-  - [1kg](https://inky-ingredients.com/products/illipe-butter?variant=56370048860544)
-    Availability: Available
-    Price: £20.04 GBP
-  - [5kg](https://inky-ingredients.com/products/illipe-butter?variant=56370048893312)
-    Availability: Available
-    Price: £95.46 GBP
-  - [20kg](https://inky-ingredients.com/products/illipe-butter?variant=56370048926080)
-    Availability: Available
-    Price: £369.42 GBP
 - [Neem Oil, Cold Pressed](https://inky-ingredients.com/products/neem-oil-cold-pressed): Cold-pressed Neem Oil is a versatile and potent natural remedy. With antibacterial properties, it supports skin health and addresses common hair issues. Its purity makes it a reliable addition to holistic wellness routines.
-  Updated: 2025-12-24T19:22:17Z
+  Updated: 2026-04-04T23:16:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4909,7 +4874,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £34.20 GBP
 - [Orange Sweet, Essential Oil Organic](https://inky-ingredients.com/products/orange-sweet-essential-oil-organic): Organic variant of sweet orange essential oil, maintaining its vibrant, uplifting qualities. Free from synthetic additives, it's a natural choice for aromatherapy and skincare formulations.
-  Updated: 2025-12-29T16:28:36Z
+  Updated: 2026-04-13T17:58:59Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4930,7 +4895,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £32.88 GBP
 - [Marula Seed Oil, Cold Pressed](https://inky-ingredients.com/products/marula-seed-oil-cold-pressed): Extracted through a gentle cold-pressing method, Marula Seed Oil is rich in antioxidants and essential fatty acids, offering deep hydration and nourishment to the skin.
-  Updated: 2025-12-23T02:49:40Z
+  Updated: 2026-04-13T13:51:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4951,7 +4916,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £254.40 GBP
 - [Walnut Oil, Cold Pressed Organic](https://inky-ingredients.com/products/walnut-oil-cold-pressed-organic): Cold-pressed from organic walnuts, Walnut Oil is a nutrient-rich oil. It deeply nourishes the skin and hair, providing essential fatty acids for a healthy glow and promoting overall skin and hair wellness. Suitable for cosmetic use only.
-  Updated: 2025-12-03T04:24:56Z
+  Updated: 2026-03-26T19:31:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4960,13 +4925,13 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £2.25 GBP
   - [250g](https://inky-ingredients.com/products/walnut-oil-cold-pressed-organic?variant=56972424085888)
-    Availability: Not Available
+    Availability: Available
     Price: £4.68 GBP
   - [250ml](https://inky-ingredients.com/products/walnut-oil-cold-pressed-organic?variant=56370249892224)
     Availability: Available
     Price: £5.50 GBP
   - [500g](https://inky-ingredients.com/products/walnut-oil-cold-pressed-organic?variant=56972424118656)
-    Availability: Not Available
+    Availability: Available
     Price: £8.93 GBP
   - [500ml](https://inky-ingredients.com/products/walnut-oil-cold-pressed-organic?variant=56370249924992)
     Availability: Available
@@ -4978,52 +4943,52 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £97.50 GBP
   - [25kg](https://inky-ingredients.com/products/walnut-oil-cold-pressed-organic?variant=56972424151424)
-    Availability: Not Available
+    Availability: Available
     Price: £413.95 GBP
-- [Palm Oil, Refined (Sustainable/ RSPO Certified)](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-certified): Sustainably sourced and RSPO certified, this refined palm oil is versatile for culinary and cosmetic purposes. Its ethical production aligns with environmental and social responsibility goals.
-  Updated: 2025-12-02T05:54:43Z
+- [Palm Oil, Refined (Sustainable/ RSPO )](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-): Sustainably sourced and RSPO , this refined palm oil is versatile for culinary and cosmetic purposes. Its ethical production aligns with environmental and social responsibility goals.
+  Updated: 2026-03-07T23:59:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0330-min_b74a8da5-a231-41b9-961f-d1d745ebee72.jpg?v=1764598105
-  - [50ml](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-certified?variant=56370191466880)
+  - [50ml](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-?variant=56370191466880)
     Availability: Available
     Price: £0.68 GBP
-  - [250ml](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-certified?variant=56370191499648)
+  - [250ml](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-?variant=56370191499648)
     Availability: Available
     Price: £2.85 GBP
-  - [500ml](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-certified?variant=56370191532416)
+  - [500ml](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-?variant=56370191532416)
     Availability: Available
     Price: £3.90 GBP
-  - [1kg](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-certified?variant=56370191565184)
+  - [1kg](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-?variant=56370191565184)
     Availability: Available
     Price: £5.10 GBP
-  - [5kg](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-certified?variant=56370191597952)
+  - [5kg](https://inky-ingredients.com/products/palm-oil-refined-sustainable-rspo-?variant=56370191597952)
     Availability: Available
     Price: £16.04 GBP
 - [Pumice Powder, Exfoliant (large particle)](https://inky-ingredients.com/products/pumice-powder-exfoliant-large-particle): Pumice Powder, with large particles, is an effective exfoliant. It gently removes dead skin cells, promoting smooth and rejuvenated skin. Ideal for various skincare formulations and exfoliating treatments.
-  Updated: 2025-12-15T10:01:45Z
+  Updated: 2026-03-09T21:31:03Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0580-min_58ec568a-746e-448a-84e7-aac074b0eb8e.jpg?v=1764597414
   - [250g](https://inky-ingredients.com/products/pumice-powder-exfoliant-large-particle?variant=56370039685504)
     Availability: Available
-    Price: £1.50 GBP
+    Price: £2.42 GBP
   - [500g](https://inky-ingredients.com/products/pumice-powder-exfoliant-large-particle?variant=56370039718272)
     Availability: Available
-    Price: £2.40 GBP
+    Price: £4.08 GBP
   - [1kg](https://inky-ingredients.com/products/pumice-powder-exfoliant-large-particle?variant=56370039751040)
     Availability: Available
-    Price: £4.20 GBP
+    Price: £6.78 GBP
   - [5kg](https://inky-ingredients.com/products/pumice-powder-exfoliant-large-particle?variant=56370039783808)
     Availability: Available
-    Price: £18.60 GBP
+    Price: £24.58 GBP
   - [25kg](https://inky-ingredients.com/products/pumice-powder-exfoliant-large-particle?variant=56370039816576)
     Availability: Available
-    Price: £89.40 GBP
+    Price: £117.00 GBP
 - [Passion Seed Oil, Refined](https://inky-ingredients.com/products/passion-seed-oil-refined): Refined passion seed oil is a lightweight, moisturising oil for skin and hair. Packed with essential fatty acids, it nourishes, leaving a silky feel. An excellent addition to beauty formulations.
-  Updated: 2025-12-02T05:51:29Z
+  Updated: 2026-04-13T18:05:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5043,6 +5008,27 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/passion-seed-oil-refined?variant=56370320507264)
     Availability: Available
     Price: £77.82 GBP
+- [Tomato Seed Oil, Cold Pressed](https://inky-ingredients.com/products/tomato-seed-oil-cold-pressed): Cold-pressed from tomato seeds, this oil is a rich source of antioxidants and essential fatty acids. Tomato Seed Oil nourishes the skin, promoting a youthful complexion and providing natural support for skincare formulations.
+  Updated: 2026-04-10T14:23:18Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0798-min_d38fc82b-4088-41f5-bfb4-710aa0be8b38.jpg?v=1764597548
+  - [50ml](https://inky-ingredients.com/products/tomato-seed-oil-cold-pressed?variant=56369963598208)
+    Availability: Available
+    Price: £4.02 GBP
+  - [250ml](https://inky-ingredients.com/products/tomato-seed-oil-cold-pressed?variant=56369963630976)
+    Availability: Available
+    Price: £9.60 GBP
+  - [500ml](https://inky-ingredients.com/products/tomato-seed-oil-cold-pressed?variant=56369963663744)
+    Availability: Available
+    Price: £18.36 GBP
+  - [1kg](https://inky-ingredients.com/products/tomato-seed-oil-cold-pressed?variant=56369963696512)
+    Availability: Available
+    Price: £35.76 GBP
+  - [5kg](https://inky-ingredients.com/products/tomato-seed-oil-cold-pressed?variant=56369963729280)
+    Availability: Available
+    Price: £177.60 GBP
 - [Tea Tree Lemon Scented, Essential Oil Organic](https://inky-ingredients.com/products/tea-tree-lemon-scented-essential-oil-organic): Organic Lemon-Scented Tea Tree Essential Oil combines the potent benefits of tea tree oil with a refreshing citrus aroma. Recognized for its antibacterial properties, it's an ideal choice for natural cleansing and skincare routines, providing a revitalising and purifying experience.
   Updated: 2025-12-02T05:44:56Z
   Vendor: INKY Ingredients
@@ -5068,7 +5054,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £422.40 GBP
 - [Sesame Seed Oil, Refined](https://inky-ingredients.com/products/sesame-seed-oil-refined): Refined Sesame Seed Oil is a neutral, versatile oil suitable for culinary and skincare applications. Through the refining process, it loses its natural scent, making it an excellent choice for cooking and cosmetic formulations without the distinctive aroma of unrefined sesame oil.
-  Updated: 2025-12-15T12:48:37Z
+  Updated: 2026-03-02T11:41:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5088,8 +5074,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/sesame-seed-oil-refined?variant=56370139300224)
     Availability: Available
     Price: £35.50 GBP
+- [Safflower High Linoleic Oil, Cold Pressed Organic](https://inky-ingredients.com/products/safflower-high-linoleic-oil-cold-pressed-organic): Organic cold-pressed Safflower High Linoleic Oil, perfect for skincare. Lightweight and non-comedogenic, it moisturises without clogging pores, promoting a healthy complexion with organic integrity.
+  Updated: 2026-04-13T08:51:16Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0404-min_a135fa0c-ef49-469d-bce2-511480506901.jpg?v=1764598094
+  - [50ml](https://inky-ingredients.com/products/safflower-high-linoleic-oil-cold-pressed-organic?variant=56370180686208)
+    Availability: Available
+    Price: £2.50 GBP
+  - [250ml](https://inky-ingredients.com/products/safflower-high-linoleic-oil-cold-pressed-organic?variant=56370180718976)
+    Availability: Available
+    Price: £3.00 GBP
+  - [500ml](https://inky-ingredients.com/products/safflower-high-linoleic-oil-cold-pressed-organic?variant=56370180751744)
+    Availability: Available
+    Price: £5.10 GBP
+  - [1kg](https://inky-ingredients.com/products/safflower-high-linoleic-oil-cold-pressed-organic?variant=56370180784512)
+    Availability: Available
+    Price: £9.35 GBP
+  - [5kg](https://inky-ingredients.com/products/safflower-high-linoleic-oil-cold-pressed-organic?variant=56370180817280)
+    Availability: Available
+    Price: £45.50 GBP
 - [Sage, Essential Oil](https://inky-ingredients.com/products/sage-essential-oil): Sage Essential Oil, known for its herbaceous and purifying aroma. Its antimicrobial properties make it suitable for aromatherapy and skincare formulations, providing a refreshing and cleansing experience.
-  Updated: 2025-12-07T16:05:58Z
+  Updated: 2026-03-24T11:27:48Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5113,7 +5120,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £525.60 GBP
 - [Tomato Seed Oil, Refined](https://inky-ingredients.com/products/tomato-seed-oil-refined): Refined Tomato Seed Oil, extracted from tomato seeds, is a nutrient-rich oil. High in antioxidants, vitamins, and essential fatty acids, it nourishes the skin, supports anti-aging efforts, and enhances overall skin health, making it a valuable addition to skincare formulations.
-  Updated: 2025-12-16T15:57:02Z
+  Updated: 2026-03-28T20:06:33Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5134,35 +5141,28 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £42.21 GBP
 - [Melt & Pour Donkey Milk Solid Base](https://inky-ingredients.com/products/melt-pour-donkey-milk-solid-base): Craft luxurious soaps with the nourishing properties of donkey milk using Melt & Pour Donkey Milk Base. This base adds a touch of decadence to soap creations, offering a creamy lather and skin-loving benefits.
-  Updated: 2025-12-20T20:46:56Z
+  Updated: 2026-04-13T17:58:52Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/Melt-_26-Pour-donkey-milk_20_281_29-min.jpg?v=1764597537
   Price: £6.74 GBP
 - [Melt & Pour Carrot Cucumber & Aloe Solid Base](https://inky-ingredients.com/products/melt-pour-carrot-cucumber-aloe-solid-base-discontinued): This Melt & Pour Base combines the goodness of carrot, cucumber, and aloe. It provides a moisturising and soothing effect, making it an excellent choice for crafting skincare products that promote hydration and skin wellness.
-  Updated: 2025-12-02T06:12:24Z
+  Updated: 2026-03-17T12:09:48Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_d10a59d3-61de-4d7b-97ee-6be3d774e305.webp?v=1764597778
   Price: £52.80 GBP
-- [Solid Melt & Pour High Clarity Vanilla Stable Base](https://inky-ingredients.com/products/solid-melt-pour-high-clarity-vanilla-stable-base): Melt & Pour High Clarity Vanilla Stable Base is designed for creating clear and stable soap formulations. With a delightful vanilla scent, it allows for the incorporation of various additives while maintaining clarity in the final product.
-  Updated: 2025-12-02T06:12:55Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_2dbdcd4e-3dea-4b2f-86c4-5c3e63ee3b01.webp?v=1764597540
-  Price: £48.00 GBP
 - [Melt & Pour Olive Solid Base](https://inky-ingredients.com/products/melt-pour-olive-solid-base): Melt & Pour Olive Base is a nourishing soap base enriched with olive oil. It offers a creamy lather and moisturises the skin, making it an excellent choice for creating handmade soaps that cleanse and pamper the skin.
-  Updated: 2025-12-02T04:46:51Z
+  Updated: 2026-02-18T16:43:19Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_59948eb9-1f99-4696-8c8b-e8c2c0050df9.webp?v=1764597539
   Price: £52.80 GBP
 - [Coriander Seed Oil, Cold Pressed](https://inky-ingredients.com/products/coriander-seed-oil-cold-pressed): Cold-pressed Coriander Seed Oil is rich in antioxidants and imparts a warm, spicy fragrance. It is prized for its nourishing properties, benefiting the skin and hair while adding a delightful aroma to formulations.
-  Updated: 2025-12-02T05:08:42Z
+  Updated: 2026-04-11T13:05:08Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5183,7 +5183,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £190.80 GBP
 - [Cherry Kernel Oil, Cold Pressed Organic](https://inky-ingredients.com/products/cherry-kernel-oil-cold-pressed-organic): Cold-pressed from organic cherry kernels, Cherry Kernel Oil is a nourishing ingredient in skincare. Its lightweight texture and antioxidant properties make it suitable for various cosmetic applications.
-  Updated: 2025-12-18T20:42:41Z
+  Updated: 2026-03-26T19:31:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5204,7 +5204,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £319.80 GBP
 - [Echium Seed Oil, Refined](https://inky-ingredients.com/products/echium-seed-oil-refined): Refined Echium Seed Oil, rich in omega fatty acids, provides excellent skincare benefits, promoting hydration and a youthful complexion. Its lightweight texture makes it suitable for various cosmetic formulations.
-  Updated: 2025-12-02T05:57:57Z
+  Updated: 2026-03-23T19:47:56Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5224,8 +5224,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/echium-seed-oil-refined?variant=56417004454272)
     Availability: Available
     Price: £320.40 GBP
+- [Chamomile Roman, Essential Oil Organic](https://inky-ingredients.com/products/chamomile-roman-essential-oil-organic): Organic Chamomile Roman Essential Oil, derived responsibly, enhances its calming properties. Ideal for natural skincare and aromatherapy, it appeals to those seeking organic and gentle solutions.
+  Updated: 2026-03-04T09:55:40Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0122-min.jpg?v=1764598161
+  - [10ml](https://inky-ingredients.com/products/chamomile-roman-essential-oil-organic?variant=55699604013440)
+    Availability: Available
+    Price: £31.44 GBP
+  - [50ml](https://inky-ingredients.com/products/chamomile-roman-essential-oil-organic?variant=55699604046208)
+    Availability: Available
+    Price: £135.60 GBP
+  - [100ml](https://inky-ingredients.com/products/chamomile-roman-essential-oil-organic?variant=55699604078976)
+    Availability: Available
+    Price: £270.00 GBP
+  - [500ml](https://inky-ingredients.com/products/chamomile-roman-essential-oil-organic?variant=55699604111744)
+    Availability: Available
+    Price: £1,296.00 GBP
+  - [1kg](https://inky-ingredients.com/products/chamomile-roman-essential-oil-organic?variant=55699604144512)
+    Availability: Available
+    Price: £2,580.00 GBP
 - [Kukui Nut Oil, Refined](https://inky-ingredients.com/products/kukui-nut-oil-refined): Refined Kukui Nut Oil, derived from Hawaiian nuts, is a versatile moisturiser. Rich in essential fatty acids, it nourishes and soothes the skin without a greasy feel. Ideal for skincare formulations aiming for lightweight hydration.
-  Updated: 2025-12-02T06:25:30Z
+  Updated: 2026-04-10T14:32:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5246,7 +5267,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £69.00 GBP
 - [Grapeseed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/grapeseed-oil-cold-pressed-organic): Organic Cold Pressed Grapeseed Oil is a premium-grade oil with natural antioxidants. It nourishes and revitalises the skin, making it an excellent choice for organic skincare formulations that prioritise purity and quality.
-  Updated: 2025-12-23T12:10:41Z
+  Updated: 2026-04-06T22:14:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5267,7 +5288,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £218.50 GBP
 - [Lemon Myrtle, Essential Oil](https://inky-ingredients.com/products/lemon-myrtle-essential-oil): Lemon Myrtle Essential Oil, derived from Australian native plants, carries a lemony and sweet fragrance. Its antimicrobial properties make it beneficial for skincare and respiratory support.
-  Updated: 2025-12-02T05:00:28Z
+  Updated: 2026-04-13T21:23:02Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5288,7 +5309,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £173.40 GBP
 - [Basil Sweet (Linalool Type), Essential Oil](https://inky-ingredients.com/products/basil-sweet-linalool-type-essential-oil): Basil Sweet (Linalool Type) Essential Oil is prized for its sweet and herbaceous aroma. With therapeutic benefits, it uplifts the senses and promotes relaxation. This essential oil is a delightful addition to beauty and wellness products, bringing a sense of tranquility.
-  Updated: 2025-12-19T08:50:00Z
+  Updated: 2026-03-23T14:03:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5309,7 +5330,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £137.40 GBP
 - [Mandarin (Green), Essential Oil](https://inky-ingredients.com/products/mandarin-green-essential-oil): Green Mandarin Essential Oil offers a citrusy and uplifting aroma. Its aromatic and therapeutic qualities make it a popular choice for aromatherapy and skincare, promoting a sense of freshness and vitality.
-  Updated: 2025-12-29T16:28:36Z
+  Updated: 2026-03-18T16:57:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5330,35 +5351,35 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £135.00 GBP
 - [Cocoa Butter, Deodorised](https://inky-ingredients.com/products/cocoa-butter-deodorised-1): Deodorised Cocoa Butter, with its neutral scent, retains the moisturising benefits of cocoa. Ideal for skincare formulations, it provides a luxurious texture without the characteristic chocolate aroma, leaving skin soft and hydrated.
-  Updated: 2025-12-29T16:28:36Z
+  Updated: 2026-04-14T10:54:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0144-min_3e6a4909-5440-4e1e-9b4f-e27e9af6b5af.jpg?v=1764597942
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-Cocoa-Butter-Deodorised-min_o7ypnr.jpg?v=1773397523
   - [250g](https://inky-ingredients.com/products/cocoa-butter-deodorised-1?variant=55737467076992)
     Availability: Available
-    Price: £10.50 GBP
+    Price: £5.71 GBP
   - [500g](https://inky-ingredients.com/products/cocoa-butter-deodorised-1?variant=55737467109760)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.91 GBP
   - [1kg](https://inky-ingredients.com/products/cocoa-butter-deodorised-1?variant=55737467142528)
     Availability: Available
-    Price: £31.50 GBP
+    Price: £20.90 GBP
   - [5kg](https://inky-ingredients.com/products/cocoa-butter-deodorised-1?variant=55737467175296)
     Availability: Available
-    Price: £193.00 GBP
+    Price: £102.00 GBP
   - [25kg](https://inky-ingredients.com/products/cocoa-butter-deodorised-1?variant=55737467208064)
     Availability: Available
-    Price: £961.50 GBP
+    Price: £495.00 GBP
 - [Melt & Pour No Sweat (NS) - White Solid Base](https://inky-ingredients.com/products/melt-pour-no-sweat-ns-white-solid-base): Melt & Pour No Sweat (NS) - White Base is a non-sweating white soap base. It offers a stable and opaque foundation for creating vibrant and colourful soaps without the risk of moisture accumulation, ensuring a long-lasting appearance.
-  Updated: 2025-12-09T14:43:22Z
+  Updated: 2026-03-26T14:25:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £55.80 GBP
 - [Olive Extra Virgin Oil, Cold Pressed Organic](https://inky-ingredients.com/products/olive-extra-virgin-oil-cold-pressed-organic): Organic Cold Pressed Extra Virgin Olive Oil is a premium culinary and skincare oil. Extracted from organically grown olives, it preserves the oil's natural integrity. Its rich flavor and nourishing properties make it a favoured choice for both culinary and cosmetic applications.
-  Updated: 2025-12-16T20:29:15Z
+  Updated: 2026-04-12T07:45:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5378,8 +5399,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/olive-extra-virgin-oil-cold-pressed-organic?variant=56370365989248)
     Availability: Available
     Price: £52.00 GBP
+- [Frankincense (Boswellia Carterii), Essential Oil Organic](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil-organic): Organic Frankincense Essential Oil, sourced from Boswellia Carterii, combines its earthy aroma with the purity of organic farming. Used in aromatherapy, it promotes tranquility, mental clarity, and overall wellness.
+  Updated: 2026-04-10T18:18:05Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0191-min.jpg?v=1764597896
+  - [10ml](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil-organic?variant=56370553749888)
+    Availability: Available
+    Price: £9.60 GBP
+  - [50ml](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil-organic?variant=56370553782656)
+    Availability: Available
+    Price: £38.40 GBP
+  - [100ml](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil-organic?variant=56370553815424)
+    Availability: Available
+    Price: £69.60 GBP
+  - [500ml](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil-organic?variant=56370553848192)
+    Availability: Available
+    Price: £316.80 GBP
+  - [1kg](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil-organic?variant=56370553880960)
+    Availability: Available
+    Price: £576.00 GBP
 - [Lavender French, Essential Oil](https://inky-ingredients.com/products/lavender-french-essential-oil): French Lavender Essential Oil embodies the calming essence of lavender fields. Renowned for its soothing properties, it aids in relaxation and promotes a tranquil atmosphere. This versatile oil is a staple in aromatherapy and skincare, adding a touch of serenity to various formulations.
-  Updated: 2025-12-29T16:28:35Z
+  Updated: 2026-03-26T20:27:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5400,11 +5442,11 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £136.86 GBP
 - [Radish Seed Oil, Cold Pressed](https://inky-ingredients.com/products/radish-seed-oil-cold-pressed): Cold-pressed Radish Seed Oil is a lightweight and fast-absorbing oil, rich in fatty acids. Its moisturising properties make it an excellent choice for skincare, contributing to a soft and supple complexion. The oil's natural benefits make it a valuable addition to cosmetic formulations.
-  Updated: 2025-12-21T13:54:50Z
+  Updated: 2026-04-11T15:32:14Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0522-min.jpg?v=1764597871
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY_RadishSeedCP_Bottle.jpg?v=1774431981
   - [50ml](https://inky-ingredients.com/products/radish-seed-oil-cold-pressed?variant=56370487558528)
     Availability: Available
     Price: £4.20 GBP
@@ -5420,8 +5462,15 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/radish-seed-oil-cold-pressed?variant=56370487689600)
     Availability: Available
     Price: £146.40 GBP
+- [Free Gift - Radish Seed Oil, Cold Pressed - 50ml](https://inky-ingredients.com/products/free-gift-radish-seed-oil-cold-pressed-50ml): A free gift on orders over £85. Cold-pressed Radish Seed Oil is a lightweight and fast-absorbing oil, rich in fatty acids. Its moisturising properties make it an excellent choice for skincare, contributing to a soft and supple complexion. The oil's natural benefits make it a valuable addition to cosmetic formulations.
+  Updated: 2026-04-14T13:44:15Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0522-min.jpg?v=1764597871
+  Price: £0.00 GBP
 - [Oat Seed Oil, Co2 Extract Organic](https://inky-ingredients.com/products/oat-seed-oil-co2-extract-organic): Organic Oat Seed Oil, Co2 Extract, is a premium skincare ingredient. Sourced organically, it captures the benefits of oats with a CO2 extraction method. Known for its skin-calming properties, it is valued in natural skincare formulations for its gentle and soothing effects.
-  Updated: 2025-12-18T20:42:41Z
+  Updated: 2026-04-13T19:37:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5436,13 +5485,13 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £139.80 GBP
   - [1kg](https://inky-ingredients.com/products/oat-seed-oil-co2-extract-organic?variant=56370455118208)
-    Availability: Not Available
+    Availability: Available
     Price: £278.40 GBP
   - [5kg](https://inky-ingredients.com/products/oat-seed-oil-co2-extract-organic?variant=56370455150976)
-    Availability: Not Available
+    Availability: Available
     Price: £1,389.00 GBP
 - [Grapefruit Seed Oil, Refined](https://inky-ingredients.com/products/grapefruit-seed-oil-refined): Refined Grapefruit Seed Oil is rich in antioxidants and vitamin E, offering skincare benefits. It promotes skin health, providing nourishment and protection, making it a valuable ingredient in cosmetic and skincare formulations.
-  Updated: 2025-12-18T06:06:35Z
+  Updated: 2026-04-13T18:05:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5463,7 +5512,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £62.34 GBP
 - [Chaulmoogra Seed Oil, Cold Pressed](https://inky-ingredients.com/products/chaulmoogra-seed-oil-cold-pressed): Cold-pressed Chaulmoogra Seed Oil is a traditional skincare remedy. Renowned for its therapeutic benefits, it soothes and nourishes the skin, making it a valuable addition to formulations targeting various skin concerns.
-  Updated: 2025-12-07T19:50:41Z
+  Updated: 2026-04-13T15:59:29Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5484,7 +5533,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £256.80 GBP
 - [Tonka Bean, Absolute](https://inky-ingredients.com/products/tonka-bean-absolute): Tonka Bean Absolute, exuding warm and sweet notes, adds a luxurious touch to perfumery and skincare formulations. Its rich and comforting aroma brings a sense of indulgence, making it an exquisite addition to products designed to evoke a captivating olfactory experience.
-  Updated: 2025-12-27T14:50:05Z
+  Updated: 2026-03-30T11:24:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5508,14 +5557,14 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £13,146.00 GBP
 - [Melt & Pour Triple Butter Base](https://inky-ingredients.com/products/melt-pour-triple-butter-base): Melt & Pour Triple Butter Base combines the richness of shea, cocoa, and mango butters. It delivers intense moisturisation, promoting soft and supple skin. This base is ideal for crafting indulgent soaps with a luxurious feel.
-  Updated: 2025-12-02T06:12:41Z
+  Updated: 2026-04-01T17:58:48Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £61.80 GBP
 - [Soyabean Oil, Refined](https://inky-ingredients.com/products/soyabean-oil-refined): Refined Soybean Oil is a versatile culinary and skincare ingredient. With a neutral flavor, it is suitable for cooking and baking. In skincare formulations, it adds lightweight moisture without an overpowering scent, making it a practical choice for various applications.
-  Updated: 2025-12-02T06:17:06Z
+  Updated: 2026-03-14T00:03:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5536,7 +5585,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £18.00 GBP
 - [Lime (Steam Distilled), Essential Oil (COSMOS Natural)](https://inky-ingredients.com/products/lime-steam-distilled-essential-oil-cosmos-natural): Steam-distilled Lime Essential Oil captures the zesty and lively essence of fresh limes. It's a popular choice for aromatherapy, known for its energizing properties and mood-enhancing effects.
-  Updated: 2025-12-08T02:32:37Z
+  Updated: 2026-04-10T18:18:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5560,7 +5609,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £235.20 GBP
 - [Flax Seed Oil, Cold Pressed](https://inky-ingredients.com/products/flax-seed-oil-cold-pressed): Cold-pressed Flax Seed Oil, rich in omega-3 fatty acids, is a nutritious dietary supplement. Its nutty flavor enhances salads and meals, providing essential nutrients for heart health and overall well-being.
-  Updated: 2025-12-02T05:29:49Z
+  Updated: 2026-03-30T14:50:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5581,7 +5630,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £27.00 GBP
 - [Comfrey, Infused in Sunflower Oil](https://inky-ingredients.com/products/comfrey-infused-in-sunflower-oil): Comfrey-infused Sunflower Oil is a natural remedy for soothing skin. Known for its anti-inflammatory properties, it aids in healing and provides relief to irritated or damaged skin.
-  Updated: 2025-12-02T05:59:18Z
+  Updated: 2026-04-13T19:37:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5602,7 +5651,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £28.40 GBP
 - [Cinnamon Bark (Cosmetic), Essential Oil](https://inky-ingredients.com/products/cinnamon-bark-cosmetic-essential-oil): Crafted for cosmetic use, Cinnamon Bark Essential Oil exudes a warm, sweet aroma. Its antiseptic and astringent properties make it beneficial for skincare, imparting a comforting scent and promoting overall skin wellness.
-  Updated: 2025-12-26T20:36:36Z
+  Updated: 2026-04-07T13:54:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5626,7 +5675,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £158.40 GBP
 - [Babassu Oil, Refined](https://inky-ingredients.com/products/babassu-oil-refined): Babassu Oil, Refined, is a versatile beauty oil derived from Babassu palm nuts. With its lightweight and non-comedogenic properties, it deeply moisturises the skin without clogging pores. Ideal for various cosmetic applications, it imparts a soft and supple texture.
-  Updated: 2025-12-08T02:32:38Z
+  Updated: 2026-03-20T17:40:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5647,7 +5696,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £62.40 GBP
 - [Prickly Pear Seed Oil, Refined](https://inky-ingredients.com/products/prickly-pear-seed-oil-refined): Refined Prickly Pear Seed Oil is a luxurious skincare marvel. High in antioxidants and vitamin E, it deeply hydrates, reduces signs of aging, and leaves skin radiant, making it a coveted ingredient in beauty formulations.
-  Updated: 2025-12-26T20:28:27Z
+  Updated: 2026-04-12T16:39:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5668,7 +5717,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £96.00 GBP
 - [Flax Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/flax-seed-oil-cold-pressed-organic): Organic Cold-pressed Flax Seed Oil, a nutritional powerhouse, combines the benefits of omega-3 fatty acids with organic purity. Ideal for culinary use, it supports heart health and nourishes the body naturally.
-  Updated: 2025-12-11T10:31:46Z
+  Updated: 2026-04-07T22:02:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5688,36 +5737,15 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/flax-seed-oil-cold-pressed-organic?variant=56370212143488)
     Availability: Available
     Price: £31.80 GBP
-- [Calendula, Infused in Sunflower Oil Organic](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil-organic): Organic Calendula infused in Sunflower Oil merges the healing power of Calendula officinalis with the purity of organic ingredients. This infusion soothes and nourishes the skin, providing a natural solution for skincare formulations. It is an ideal choice for those seeking organic, plant-based skincare alternatives.
-  Updated: 2025-12-29T20:48:01Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0085-min.jpg?v=1764597506
-  - [50ml](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil-organic?variant=56240324018560)
-    Availability: Available
-    Price: £3.24 GBP
-  - [250ml](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil-organic?variant=56240324051328)
-    Availability: Available
-    Price: £4.86 GBP
-  - [500ml](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil-organic?variant=56240324084096)
-    Availability: Available
-    Price: £8.45 GBP
-  - [1kg](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil-organic?variant=56240324116864)
-    Availability: Available
-    Price: £14.70 GBP
-  - [5kg](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil-organic?variant=56240324149632)
-    Availability: Available
-    Price: £66.00 GBP
 - [Melt & Pour ST - Clear Solid Base](https://inky-ingredients.com/products/melt-pour-st-clear-solid-base): Create transparent and glossy soaps effortlessly with this Melt & Pour ST - Clear Base. It ensures a clear finish, making it perfect for showcasing embedded objects or vibrant colours in soap crafting.
-  Updated: 2025-12-02T05:16:27Z
+  Updated: 2026-04-11T20:35:41Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £54.60 GBP
 - [Olive Extra Virgin Oil, Cold Pressed](https://inky-ingredients.com/products/olive-extra-virgin-oil-cold-pressed): Cold Pressed Extra Virgin Olive Oil is a pure and unrefined oil, cherished for its high-quality and natural goodness. With a fruity aroma and robust flavor, it is a staple in culinary creations and a beneficial ingredient in skincare formulations.
-  Updated: 2025-12-20T18:25:27Z
+  Updated: 2026-03-31T08:41:19Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5738,7 +5766,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £43.00 GBP
 - [Rosehip Seed Oil, Cold Pressed Organic (R Colour)](https://inky-ingredients.com/products/rosehip-seed-oil-cold-pressed-organic-r-colour): Organic, cold-pressed Rosehip Seed Oil, renowned for its vibrant colour, is a skin-loving powerhouse. Packed with vitamins and essential fatty acids, it promotes skin regeneration and elasticity, providing a natural boost for a radiant and youthful appearance.
-  Updated: 2025-12-29T20:48:01Z
+  Updated: 2026-04-13T13:23:28Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5759,7 +5787,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £240.50 GBP
 - [Beeswax White Organic](https://inky-ingredients.com/products/beeswax-white-organic): Organic White Beeswax is a versatile ingredient in skincare and cosmetic formulations. With natural emollient and protective qualities, it contributes to the texture and consistency of products while promoting skin health.
-  Updated: 2025-12-02T06:04:41Z
+  Updated: 2026-03-20T18:47:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5780,7 +5808,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,188.45 GBP
 - [Carnauba (T3) Wax](https://inky-ingredients.com/products/carnauba-t3-wax): Carnauba (T3) Wax, obtained from the leaves of Copernicia prunifera, is a natural wax known for its hardness and gloss. Widely used in cosmetics, it provides a protective layer, enhancing texture and shine. Its versatility extends to applications in polishes and pharmaceuticals.
-  Updated: 2025-12-20T18:25:25Z
+  Updated: 2026-03-12T09:50:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5800,15 +5828,36 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [25kg](https://inky-ingredients.com/products/carnauba-t3-wax?variant=56240331587968)
     Availability: Available
     Price: £347.88 GBP
-- [Melt & Pour Certified Organic Solid Base](https://inky-ingredients.com/products/melt-pour-certified-organic-solid-base): Craft organic soaps effortlessly with the Melt & Pour Certified Organic Base. This eco-friendly option ensures a high-quality soap-making experience, combining simplicity with the benefits of certified organic ingredients.
-  Updated: 2025-12-02T06:13:11Z
+- [Melt & Pour  Organic Solid Base](https://inky-ingredients.com/products/melt-pour--organic-solid-base): Craft organic soaps effortlessly with the Melt & Pour  Organic Base. This eco-friendly option ensures a high-quality soap-making experience, combining simplicity with the benefits of  organic ingredients.
+  Updated: 2026-02-10T13:09:01Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £83.40 GBP
+- [Olive EP Oil, Refined](https://inky-ingredients.com/products/olive-ep-oil-refined)
+  Updated: 2026-02-25T11:09:51Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0313-min.jpg?v=1764598094
+  - [50ml](https://inky-ingredients.com/products/olive-ep-oil-refined?variant=56370442633600)
+    Availability: Available
+    Price: £2.25 GBP
+  - [250ml](https://inky-ingredients.com/products/olive-ep-oil-refined?variant=56370442666368)
+    Availability: Available
+    Price: £5.20 GBP
+  - [500ml](https://inky-ingredients.com/products/olive-ep-oil-refined?variant=56370442699136)
+    Availability: Available
+    Price: £8.99 GBP
+  - [1kg](https://inky-ingredients.com/products/olive-ep-oil-refined?variant=56370442731904)
+    Availability: Available
+    Price: £15.70 GBP
+  - [5kg](https://inky-ingredients.com/products/olive-ep-oil-refined?variant=56370442764672)
+    Availability: Available
+    Price: £68.00 GBP
 - [Maize Seed Oil, Refined (Corn Oil)](https://inky-ingredients.com/products/maize-seed-oil-refined-corn-oil): Refined Maize Seed Oil, also known as Corn Oil, is a lightweight and neutral oil. With its high smoke point, it's suitable for cooking, and in skincare, it brings moisturising benefits without a heavy feel.
-  Updated: 2025-12-02T05:01:17Z
+  Updated: 2026-02-10T13:12:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5829,7 +5878,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £29.25 GBP
 - [Avocado EP9 Oil, Refined](https://inky-ingredients.com/products/avocado-ep9-oil-refined): Avocado EP9 Oil, Refined boasts excellent oxidative stability and a light skin feel. It is rich in oleic acid and skin-replenishing lipids, supporting skin hydration, improving barrier function, and integrating seamlessly into a wide range of skincare and haircare formulations.
-  Updated: 2025-12-02T06:12:06Z
+  Updated: 2026-03-30T15:39:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5849,8 +5898,50 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/avocado-ep9-oil-refined?variant=56304432021888)
     Availability: Available
     Price: £58.00 GBP
+- [Banana, Infused in Sunflower Oil Organic](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil-organic): Banana Infused in Sunflower Oil offers a tropical twist to skincare. The infusion combines the moisturising benefits of Sunflower Oil with the soothing and nourishing properties of Banana, making it an appealing ingredient.
+  Updated: 2026-03-26T19:31:49Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K1009-min_d25d99da-b591-4e2c-b022-025c169074ed.jpg?v=1764598188
+  - [50ml](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil-organic?variant=56304371270016)
+    Availability: Available
+    Price: £2.67 GBP
+  - [250ml](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil-organic?variant=56304371302784)
+    Availability: Available
+    Price: £3.75 GBP
+  - [500ml](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil-organic?variant=56304371335552)
+    Availability: Available
+    Price: £6.65 GBP
+  - [1kg](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil-organic?variant=56304371368320)
+    Availability: Available
+    Price: £12.47 GBP
+  - [5kg](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil-organic?variant=56304371401088)
+    Availability: Available
+    Price: £61.02 GBP
+- [Banana, Infused in Sunflower Oil](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil): Banana Infused in Sunflower Oil offers a tropical twist to skincare. The infusion combines the moisturising benefits of Sunflower Oil with the soothing and nourishing properties of Banana, making it an appealing ingredient.
+  Updated: 2026-04-06T21:08:26Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0786-min_0398b8a4-c275-40ea-b879-98149f39c9c5.jpg?v=1764597748
+  - [50ml](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil?variant=56304389161344)
+    Availability: Available
+    Price: £2.38 GBP
+  - [250ml](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil?variant=56304389194112)
+    Availability: Available
+    Price: £2.91 GBP
+  - [500ml](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil?variant=56304389226880)
+    Availability: Available
+    Price: £4.97 GBP
+  - [1kg](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil?variant=56304389259648)
+    Availability: Available
+    Price: £9.11 GBP
+  - [5kg](https://inky-ingredients.com/products/banana-infused-in-sunflower-oil?variant=56304389292416)
+    Availability: Available
+    Price: £44.22 GBP
 - [Glycerine (Palm Free), Refined](https://inky-ingredients.com/products/glycerine-palm-free-refined): Refined Palm-Free Glycerine is a versatile ingredient, offering superior moisture retention and skin hydration without compromising ethical values, making it an ideal addition to various cosmetic formulations.
-  Updated: 2025-12-02T05:33:56Z
+  Updated: 2026-04-06T10:55:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5871,7 +5962,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £16.80 GBP
 - [Safflower High Linoleic Oil, Refined Organic](https://inky-ingredients.com/products/safflower-high-linoleic-oil-refined-organic): Refined Organic Safflower High Linoleic Oil, a premium skincare ingredient. Its refinement process preserves organic integrity while delivering moisturising benefits, promoting a radiant and healthy complexion.
-  Updated: 2025-12-18T06:06:38Z
+  Updated: 2026-03-20T15:08:28Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5891,8 +5982,29 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/safflower-high-linoleic-oil-refined-organic?variant=56927199887744)
     Availability: Available
     Price: £147.00 GBP
+- [Glycerine (Palm Free), Refined Organic](https://inky-ingredients.com/products/glycerine-palm-free-refined-organic): Organic Refined Palm-Free Glycerine combines ethical sourcing with organic quality. This versatile ingredient provides excellent moisture retention and skin hydration, ensuring a sustainable and natural option for cosmetic formulations.
+  Updated: 2026-04-13T17:58:57Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0204-min.jpg?v=1764597932
+  - [50ml](https://inky-ingredients.com/products/glycerine-palm-free-refined-organic?variant=56370663293312)
+    Availability: Available
+    Price: £2.40 GBP
+  - [250ml](https://inky-ingredients.com/products/glycerine-palm-free-refined-organic?variant=56370663326080)
+    Availability: Available
+    Price: £3.24 GBP
+  - [500ml](https://inky-ingredients.com/products/glycerine-palm-free-refined-organic?variant=56370663358848)
+    Availability: Available
+    Price: £4.56 GBP
+  - [1kg](https://inky-ingredients.com/products/glycerine-palm-free-refined-organic?variant=56370663391616)
+    Availability: Available
+    Price: £7.14 GBP
+  - [5kg](https://inky-ingredients.com/products/glycerine-palm-free-refined-organic?variant=56370663424384)
+    Availability: Available
+    Price: £34.56 GBP
 - [Soyabean Oil (Non GM), Refined](https://inky-ingredients.com/products/soyabean-oil-non-gm-refined): Non-GMO Refined Soybean Oil is a neutral culinary oil with various applications. Suitable for cooking and baking, it provides a mild flavor. In skincare formulations, it serves as a lightweight moisturiser, leaving the skin soft and supple without a heavy feel.
-  Updated: 2025-12-02T05:50:23Z
+  Updated: 2026-03-11T16:25:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5913,7 +6025,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £19.00 GBP
 - [Carrot Seed Oil, Cold Pressed](https://inky-ingredients.com/products/carrot-seed-oil-cold-pressed): Cold-pressed Carrot Seed Oil is a nourishing oil packed with vitamins and antioxidants. Renowned for its rejuvenating properties, it promotes skin health and radiance. Its cold-pressed extraction method ensures the retention of its beneficial compounds for optimal skincare results.
-  Updated: 2025-12-16T15:57:03Z
+  Updated: 2026-04-11T15:32:13Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5933,29 +6045,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/carrot-seed-oil-cold-pressed?variant=56370690556288)
     Availability: Available
     Price: £226.80 GBP
-- [Palo Santo, Essential Oil](https://inky-ingredients.com/products/palo-santo-essential-oil): Palo Santo Essential Oil, derived from Bursera Graveolens Wood, offers a grounding and uplifting fragrance. Its therapeutic qualities make it ideal for spiritual rituals, meditation, and natural perfumery.
-  Updated: 2025-12-16T21:12:35Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0834-min.jpg?v=1764597399
-  - [10ml](https://inky-ingredients.com/products/palo-santo-essential-oil?variant=56370392170880)
-    Availability: Available
-    Price: £8.64 GBP
-  - [50ml](https://inky-ingredients.com/products/palo-santo-essential-oil?variant=56370392203648)
-    Availability: Available
-    Price: £38.40 GBP
-  - [100ml](https://inky-ingredients.com/products/palo-santo-essential-oil?variant=56370392236416)
-    Availability: Available
-    Price: £73.20 GBP
-  - [500ml](https://inky-ingredients.com/products/palo-santo-essential-oil?variant=56370392269184)
-    Availability: Available
-    Price: £330.00 GBP
-  - [1kg](https://inky-ingredients.com/products/palo-santo-essential-oil?variant=56370392301952)
-    Availability: Available
-    Price: £649.20 GBP
 - [Sunflower Seed Oil (Hi Linoleic), Refined Organic](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-refined-organic): Refined organic sunflower seed oil, high in linoleic acid. An excellent addition to skincare formulations, it supports skin health by delivering moisture without a heavy feel, leaving the skin refreshed.
-  Updated: 2025-12-02T05:47:16Z
+  Updated: 2026-04-11T20:56:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5976,7 +6067,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £22.00 GBP
 - [Sunflower Seed Oil (Hi Oleic), Refined Organic](https://inky-ingredients.com/products/sunflower-seed-oil-hi-oleic-refined-organic): A high oleic, refined organic sunflower seed oil. Packed with nourishing properties, it's a versatile ingredient for skincare, providing deep hydration and promoting skin health.
-  Updated: 2025-12-02T05:47:50Z
+  Updated: 2026-04-10T15:15:32Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5997,7 +6088,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £30.00 GBP
 - [Grapeseed Oil, Refined](https://inky-ingredients.com/products/grapeseed-oil-refined): Revel in the purity of Refined Grapeseed Oil, a natural source of vitamins and antioxidants. Its silky texture and quick absorption make it perfect for nourishing skin and hair with lightweight moisture. Beauty simplified!
-  Updated: 2025-12-15T21:44:32Z
+  Updated: 2026-04-10T18:18:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6018,7 +6109,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £26.00 GBP
 - [Avocado Oil, Refined Organic](https://inky-ingredients.com/products/avocado-oil-refined-organic): Refined Organic Avocado Oil is a versatile and nutrient-rich oil. It deeply moisturises the skin and hair, providing essential fatty acids and antioxidants. This premium oil is ideal for formulating natural skincare and haircare products.
-  Updated: 2025-12-05T21:34:16Z
+  Updated: 2026-03-25T14:03:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6039,14 +6130,14 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £69.00 GBP
 - [Cosmetic Lotion](https://inky-ingredients.com/products/cosmetic-lotion-1): Simplify lotion crafting with the Cosmetic Lotion Base. This versatile formulation streamlines the process, offering a convenient foundation for creating customized lotions with ease, ensuring a smooth and nourishing application.
-  Updated: 2025-12-02T05:14:48Z
+  Updated: 2026-04-02T21:21:29Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/Soap_20base_20shopify_20image_20liquid-min_bd75a6d0-8036-4bf0-95c3-6701bac3f0d3.jpg?v=1764597537
   Price: £121.80 GBP
 - [Avocado Oil, Refined](https://inky-ingredients.com/products/avocado-oil-refined): Refined Avocado Oil is a nourishing beauty elixir, rich in vitamins and antioxidants. Known for deep moisturisation, it promotes skin elasticity and a healthy scalp, making it a versatile ingredient in skincare and haircare formulations.
-  Updated: 2025-12-13T00:01:36Z
+  Updated: 2026-04-10T14:18:20Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6067,7 +6158,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £39.50 GBP
 - [Olive BP73 Oil, Refined](https://inky-ingredients.com/products/olive-bp73-oil-refined): Refined Olive BP73 Oil is a versatile oil with various applications. Extracted from quality olives, it is refined to meet industry standards. This oil is appreciated for its stability and suitability for use in a range of cosmetic and culinary formulations.
-  Updated: 2025-12-09T14:26:12Z
+  Updated: 2026-03-16T02:50:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6088,7 +6179,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £25.14 GBP
 - [Yarrow, Essential Oil](https://inky-ingredients.com/products/yarrow-essential-oil): Yarrow Essential Oil, extracted from the flowering herb, offers a herbaceous and sweet aroma. Renowned for its calming properties, it makes a valuable addition to aromatherapy, promoting relaxation and mental well-being.
-  Updated: 2025-12-07T16:05:54Z
+  Updated: 2026-04-05T09:14:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6112,7 +6203,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,464.00 GBP
 - [Wheatgerm Oil, Cold Pressed Organic](https://inky-ingredients.com/products/wheatgerm-oil-cold-pressed-organic): Cold-pressed from organic wheatgerm, this oil is a nutrient powerhouse. It nourishes and revitalises the skin, promoting elasticity. Ideal for skincare formulations, it contributes to a radiant and youthful complexion.
-  Updated: 2025-12-15T17:48:32Z
+  Updated: 2026-03-29T10:50:30Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6133,7 +6224,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £295.00 GBP
 - [Tarragon, Essential Oil](https://inky-ingredients.com/products/tarragon-essential-oil): Tarragon Essential Oil offers a sweet, herbaceous fragrance. Its therapeutic properties contribute to relaxation and stress relief. Additionally, it can be incorporated into skincare formulations for a pleasing aroma.
-  Updated: 2025-12-02T06:15:11Z
+  Updated: 2026-02-08T17:41:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6157,7 +6248,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £478.80 GBP
 - [Passion Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/passion-seed-oil-cold-pressed-organic): Cold-pressed organic passion seed oil, maintaining its lightweight and nourishing qualities. Perfect for natural skincare, it moisturises and promotes a healthy appearance without synthetic additives.
-  Updated: 2025-12-03T19:13:10Z
+  Updated: 2026-03-31T09:22:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6202,7 +6293,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £606.00 GBP
 - [Lime Seed Oil, Refined](https://inky-ingredients.com/products/lime-seed-oil-refined): Refined Lime Seed Oil is a lightweight and moisturising oil, ideal for skincare formulations. It carries a subtle lime fragrance, offering hydration and promoting a healthy and radiant skin appearance.
-  Updated: 2025-12-02T04:58:27Z
+  Updated: 2026-04-11T20:43:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6223,7 +6314,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £87.54 GBP
 - [Apple Seed Oil, Cold Pressed](https://inky-ingredients.com/products/apple-seed-oil-cold-pressed): Extracted through cold pressing, Apple Seed Oil is a lightweight and fast-absorbing oil, rich in antioxidants and essential fatty acids. It nourishes the skin, leaving it soft and moisturised, while promoting a youthful and radiant complexion.
-  Updated: 2025-12-02T05:41:47Z
+  Updated: 2026-04-13T17:58:57Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6244,7 +6335,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £270.00 GBP
 - [Aniseed, Essential Oil](https://inky-ingredients.com/products/aniseed-essential-oil): Aniseed Essential Oil, with its sweet and licorice-like aroma, is used in aromatherapy and skincare. Known for its calming and antiseptic properties, it adds a delightful scent while promoting a soothing and rejuvenating experience.
-  Updated: 2025-12-05T19:04:31Z
+  Updated: 2026-02-10T13:08:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6268,7 +6359,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £172.80 GBP
 - [Sunflower Seed, Wax](https://inky-ingredients.com/products/sunflower-seed-wax): Sunflower Seed wax, obtained from sunflower seeds, is a versatile natural wax. Used in various cosmetic formulations, it provides texture and stability while offering skin-conditioning properties.
-  Updated: 2025-12-20T18:25:27Z
+  Updated: 2026-04-14T10:54:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6289,7 +6380,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £282.00 GBP
 - [Acai Berry Oil, Cold Pressed](https://inky-ingredients.com/products/acai-berry-oil-cold-pressed): Cold-pressed Acai Berry Oil is a nutrient-rich cosmetic ingredient. Packed with antioxidants and fatty acids, it nourishes the skin, promotes elasticity, and adds a luxurious touch to skincare formulations.
-  Updated: 2025-12-28T20:37:37Z
+  Updated: 2026-04-13T13:54:09Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6310,7 +6401,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £717.60 GBP
 - [Pumpkin Seed Oil, Refined Organic](https://inky-ingredients.com/products/pumpkin-seed-oil-refined-organic)
-  Updated: 2025-12-02T05:54:07Z
+  Updated: 2026-03-25T15:50:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6331,7 +6422,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £66.70 GBP
 - [Lavender Water (Hydrolat)](https://inky-ingredients.com/products/lavender-water-hydrolat): Lavender hydrolat, a floral water with the soothing scent of lavender. Renowned for its calming properties, it acts as a gentle toner, promoting skin balance and relaxation.
-  Updated: 2025-12-04T19:52:46Z
+  Updated: 2026-04-12T16:39:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6351,50 +6442,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/lavender-water-hydrolat?variant=56464524018048)
     Availability: Available
     Price: £34.20 GBP
-- [Kukui Nut Oil, Organic](https://inky-ingredients.com/products/kukui-nut-oil-cold-pressed-organic): Cold Pressed Organic Kukui Nut Oil is a nourishing oil with a light texture. Rich in essential fatty acids, it provides deep hydration and is cherished for its ability to soothe and revitalise the skin, leaving it soft and supple.
-  Updated: 2025-12-06T12:51:27Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k1019-min.jpg?v=1764597673
-  - [50ml](https://inky-ingredients.com/products/kukui-nut-oil-cold-pressed-organic?variant=56464524247424)
-    Availability: Available
-    Price: £6.60 GBP
-  - [250ml](https://inky-ingredients.com/products/kukui-nut-oil-cold-pressed-organic?variant=56464524280192)
-    Availability: Available
-    Price: £28.92 GBP
-  - [500ml](https://inky-ingredients.com/products/kukui-nut-oil-cold-pressed-organic?variant=56464524312960)
-    Availability: Available
-    Price: £52.56 GBP
-  - [1kg](https://inky-ingredients.com/products/kukui-nut-oil-cold-pressed-organic?variant=56464524345728)
-    Availability: Available
-    Price: £95.58 GBP
-  - [5kg](https://inky-ingredients.com/products/kukui-nut-oil-cold-pressed-organic?variant=56464524378496)
-    Availability: Available
-    Price: £758.40 GBP
-- [Camellia Oil (Japonica), Cold Pressed Organic](https://inky-ingredients.com/products/camellia-oil-japonica-cold-pressed-organic): Organic Cold-pressed Camellia Oil (Japonica) is sourced from the seeds of Camellia japonica. This organic oil, known for its moisturising properties, is obtained through a cold-pressed method, preserving its natural goodness. It is a popular choice for skincare formulations, providing an organic solution for promoting skin health.
-  Updated: 2025-12-29T20:48:01Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0094-min.jpg?v=1764597474
-  - [50ml](https://inky-ingredients.com/products/camellia-oil-japonica-cold-pressed-organic?variant=56464525001088)
-    Availability: Available
-    Price: £3.96 GBP
-  - [250ml](https://inky-ingredients.com/products/camellia-oil-japonica-cold-pressed-organic?variant=56464525033856)
-    Availability: Available
-    Price: £10.56 GBP
-  - [500ml](https://inky-ingredients.com/products/camellia-oil-japonica-cold-pressed-organic?variant=56464525066624)
-    Availability: Available
-    Price: £19.14 GBP
-  - [1kg](https://inky-ingredients.com/products/camellia-oil-japonica-cold-pressed-organic?variant=56464525099392)
-    Availability: Available
-    Price: £34.86 GBP
-  - [5kg](https://inky-ingredients.com/products/camellia-oil-japonica-cold-pressed-organic?variant=56464525132160)
-    Availability: Available
-    Price: £158.40 GBP
 - [Citronella Java, Essential Oil Organic](https://inky-ingredients.com/products/citronella-java-essential-oil-organic): Organic Citronella Java Essential Oil combines a citrusy aroma with natural purity. Its insect-repelling properties make it an excellent addition to organic skincare formulations, offering a refreshing scent with a touch of nature.
-  Updated: 2025-12-03T08:17:25Z
+  Updated: 2026-03-25T19:55:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6417,36 +6466,44 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/citronella-java-essential-oil-organic?variant=56464525590912)
     Availability: Available
     Price: £318.00 GBP
-- [Babassu Oil, Refined Organic](https://inky-ingredients.com/products/babassu-oil-refined-organic): Refined Organic Babassu Oil is a lightweight, organic moisturiser. Extracted from Babassu palm kernels, it replenishes the skin's moisture barrier. This sustainable and organic oil is ideal for skincare, leaving a non-greasy, silky-smooth finish.
-  Updated: 2025-12-02T05:41:16Z
+- [Eucalyptus Globulus, Essential Oil Organic](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil-organic): Organic Eucalyptus Globulus Essential Oil provides the same respiratory and immune support, but with the added assurance of being sourced and processed using organic methods, aligning with eco-friendly practices.
+  Updated: 2026-03-18T14:21:28Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0044-min.jpg?v=1764598005
-  - [50ml](https://inky-ingredients.com/products/babassu-oil-refined-organic?variant=56464526344576)
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0176-min.jpg?v=1764597720
+  - [10ml](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil-organic?variant=56464525853056)
     Availability: Available
-    Price: £3.12 GBP
-  - [250ml](https://inky-ingredients.com/products/babassu-oil-refined-organic?variant=56464526377344)
+    Price: £3.60 GBP
+  - [50ml](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil-organic?variant=56464525885824)
     Availability: Available
-    Price: £5.04 GBP
-  - [500ml](https://inky-ingredients.com/products/babassu-oil-refined-organic?variant=56464526410112)
+    Price: £6.12 GBP
+  - [100ml](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil-organic?variant=56464525918592)
     Availability: Available
-    Price: £8.16 GBP
-  - [1kg](https://inky-ingredients.com/products/babassu-oil-refined-organic?variant=56464526442880)
+    Price: £9.18 GBP
+  - [500ml](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil-organic?variant=56464525951360)
     Availability: Available
-    Price: £15.24 GBP
-  - [5kg](https://inky-ingredients.com/products/babassu-oil-refined-organic?variant=56464526475648)
+    Price: £36.00 GBP
+  - [1kg](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil-organic?variant=56464525984128)
     Availability: Available
-    Price: £67.20 GBP
-- [Shampoo, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/shampoo-liquid-base-cosmos-organic): COSMOS Organic-certified Shampoo Base is a premium foundation for hair care formulations. With organic ingredients, it cleanses and nourishes the hair, leaving it healthy and vibrant. Craft high-quality organic shampoos effortlessly with this certified base.
-  Updated: 2025-12-02T05:15:40Z
+    Price: £62.40 GBP
+  - [5kg](https://inky-ingredients.com/products/eucalyptus-globulus-essential-oil-organic?variant=56464526016896)
+    Availability: Available
+    Price: £282.00 GBP
+- [Shampoo, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/shampoo-liquid-base-cosmos-organic): COSMOS Organic- Shampoo Base is a premium foundation for hair care formulations. With organic ingredients, it cleanses and nourishes the hair, leaving it healthy and vibrant. Craft high-quality organic shampoos effortlessly with this  base.
+  Updated: 2026-03-01T21:37:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/Soap_20base_20shopify_20image_20liquid-min_957b712b-efd2-4271-9ef5-6e39526d461d.jpg?v=1764598010
-  Price: £127.20 GBP
+  - [5kg](https://inky-ingredients.com/products/shampoo-liquid-base-cosmos-organic?variant=57476282319232)
+    Availability: Available
+    Price: £31.20 GBP
+  - [25kg](https://inky-ingredients.com/products/shampoo-liquid-base-cosmos-organic?variant=56464526901632)
+    Availability: Available
+    Price: £127.20 GBP
 - [Sesame Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/sesame-seed-oil-cold-pressed-organic): Sesame Seed Oil, Cold Pressed Organic, is a nutrient-rich oil for skincare and massage. Extracted through cold pressing, it retains essential nutrients, promoting skin nourishment and elasticity. Its organic origin ensures a high-quality ingredient for formulations that prioritise natural and wholesome skincare.
-  Updated: 2025-12-02T06:13:29Z
+  Updated: 2026-04-01T12:46:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6467,7 +6524,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £89.00 GBP
 - [Sea Buckthorn Fruit Pulp Oil, Cold Pressed Organic](https://inky-ingredients.com/products/sea-buckthorn-fruit-pulp-oil-cold-pressed-organic): Organic Cold-pressed Sea Buckthorn Fruit Pulp Oil is a premium skincare ingredient. Abundant in vitamins and antioxidants, it supports skin regeneration and hydration. This organic oil is a sustainable choice, enhancing the effectiveness of natural skincare formulations.
-  Updated: 2025-12-29T20:48:01Z
+  Updated: 2026-04-10T14:20:58Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6488,7 +6545,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,194.00 GBP
 - [Grapefruit (White), Essential Oil Organic](https://inky-ingredients.com/products/grapefruit-white-essential-oil-organic): Organic White Grapefruit Essential Oil, with its fresh and citrusy aroma, is a versatile oil with uplifting properties. It is commonly used in aromatherapy to invigorate the senses and promote a positive atmosphere. This organic oil adds a bright and energizing note to various formulations.
-  Updated: 2025-12-23T12:10:41Z
+  Updated: 2026-04-09T10:54:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6532,36 +6589,15 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/blackcurrant-seed-oil-cold-pressed-organic?variant=56464528900480)
     Availability: Available
     Price: £367.20 GBP
-- [Lotion, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/lotion-liquid-base-cosmos-organic): COSMOS Organic-certified Lotion Base is a versatile foundation for skincare formulations. With organic ingredients, it offers hydration and nourishment, leaving the skin supple and moisturised. Create premium organic lotions with ease using this certified base.
-  Updated: 2025-12-02T05:15:55Z
+- [Lotion, Liquid Base COSMOS Organic](https://inky-ingredients.com/products/lotion-liquid-base-cosmos-organic): COSMOS Organic- Lotion Base is a versatile foundation for skincare formulations. With organic ingredients, it offers hydration and nourishment, leaving the skin supple and moisturised. Create premium organic lotions with ease using this  base.
+  Updated: 2026-02-10T13:08:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/Soap_20base_20shopify_20image_20liquid-min_957b712b-efd2-4271-9ef5-6e39526d461d.jpg?v=1764598010
   Price: £184.80 GBP
-- [Rice Bran Oil, Cold Pressed Organic](https://inky-ingredients.com/products/rice-bran-oil-cold-pressed-organic): Organic Cold-pressed Rice Bran Oil is a lightweight, moisturising oil with antioxidant properties. It's an excellent choice for skincare, providing hydration and promoting a healthy complexion while supporting overall skin wellness.
-  Updated: 2025-12-02T06:16:51Z
-  Vendor: INKY Ingredients
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/k0785-min.jpg?v=1764598059
-  - [50ml](https://inky-ingredients.com/products/rice-bran-oil-cold-pressed-organic?variant=56464529457536)
-    Availability: Available
-    Price: £3.25 GBP
-  - [250ml](https://inky-ingredients.com/products/rice-bran-oil-cold-pressed-organic?variant=56464529490304)
-    Availability: Available
-    Price: £8.65 GBP
-  - [500ml](https://inky-ingredients.com/products/rice-bran-oil-cold-pressed-organic?variant=56464529523072)
-    Availability: Available
-    Price: £15.75 GBP
-  - [1kg](https://inky-ingredients.com/products/rice-bran-oil-cold-pressed-organic?variant=56464529555840)
-    Availability: Available
-    Price: £28.60 GBP
-  - [5kg](https://inky-ingredients.com/products/rice-bran-oil-cold-pressed-organic?variant=56464529588608)
-    Availability: Available
-    Price: £130.00 GBP
 - [Sacha Inchi Oil, Cold Pressed Organic](https://inky-ingredients.com/products/sacha-inchi-oil-cold-pressed-organic): Organic Cold-pressed Sacha Inchi Oil, maintaining purity and potency. This nutrient-packed oil, rich in essential fatty acids, provides intense hydration and supports overall skin health.
-  Updated: 2025-12-18T12:05:33Z
+  Updated: 2026-04-13T13:54:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6582,7 +6618,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £276.00 GBP
 - [Macadamia Nut Oil, Cold Pressed Organic](https://inky-ingredients.com/products/macadamia-nut-oil-cold-pressed-organic): Cold Pressed Organic Macadamia Nut Oil offers the purity of organic sourcing, combining the benefits of natural nutrients with a mild, nutty fragrance. It's a nourishing choice for holistic beauty applications.
-  Updated: 2025-12-20T18:25:26Z
+  Updated: 2026-04-13T18:06:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6603,7 +6639,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £95.00 GBP
 - [Grapeseed Oil, Cold Pressed Deodorised Organic](https://inky-ingredients.com/products/grapeseed-oil-cold-pressed-deodorised-organic): Deodorised Organic Cold Pressed Grapeseed Oil preserves the natural benefits of grapeseed oil without the aroma. Ideal for skincare formulations where a neutral scent is preferred, offering nourishing and revitalising properties.
-  Updated: 2025-12-29T16:28:36Z
+  Updated: 2026-03-11T00:25:52Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6624,7 +6660,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £252.00 GBP
 - [Camellia Oil (Oleifera), Refined Organic](https://inky-ingredients.com/products/camellia-oil-oleifera-refined-organic): Refined Organic Camellia Oil (Oleifera) is a lightweight and silky oil. With its high oleic acid content, it deeply nourishes and moisturises the skin. This refined oil is an excellent choice for skincare formulations, imparting a luxurious feel and promoting a healthy, radiant complexion.
-  Updated: 2025-12-06T23:06:19Z
+  Updated: 2026-03-28T20:06:38Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6644,15 +6680,15 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/camellia-oil-oleifera-refined-organic?variant=56464532701568)
     Availability: Available
     Price: £108.00 GBP
-- [Melt & Pour Non Certified Organic Solid Base](https://inky-ingredients.com/products/melt-pour-non-certified-organic-solid-base): Melt & Pour Non Certified Organic Base is a user-friendly soap base for crafting handmade soaps. Offering ease of use, it allows creative freedom in soap making while excluding organic certification, making it an ideal choice for those seeking an uncomplicated approach to natural soap creation.
-  Updated: 2025-12-02T04:47:28Z
+- [Melt & Pour Non  Organic Solid Base](https://inky-ingredients.com/products/melt-pour-non--organic-solid-base): Melt & Pour Non  Organic Base is a user-friendly soap base for crafting handmade soaps. Offering ease of use, it allows creative freedom in soap making while excluding organic certification, making it an ideal choice for those seeking an uncomplicated approach to natural soap creation.
+  Updated: 2026-03-04T19:37:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1764598009
   Price: £71.94 GBP
 - [Fenugreek Seed Oil, Cold Pressed](https://inky-ingredients.com/products/fenugreek-seed-oil-cold-pressed): Cold-pressed Fenugreek Seed Oil is rich in nutrients for hair and skin. Known for its moisturising and conditioning properties, it nourishes the scalp and promotes healthy hair growth while supporting overall skin vitality.
-  Updated: 2025-12-02T05:02:24Z
+  Updated: 2026-03-31T05:55:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6673,7 +6709,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £276.00 GBP
 - [Star Anise, Essential Oil](https://inky-ingredients.com/products/star-anise-essential-oil): Star Anise essential oil, derived from Illicium verum, has a sweet and spicy fragrance. Widely used in aromatherapy, it is known for its potential to alleviate stress, support digestion, and create a warm ambiance.
-  Updated: 2025-12-02T04:52:40Z
+  Updated: 2026-04-07T13:54:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6697,7 +6733,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £205.20 GBP
 - [Jojoba, Butter](https://inky-ingredients.com/products/jojoba-butter): Jojoba Butter combines the benefits of Jojoba oil with a buttery consistency. Rich in vitamins and antioxidants, it nourishes and conditions the skin, promoting a soft and smooth texture. Ideal for moisturising and soothing.
-  Updated: 2025-12-02T05:32:17Z
+  Updated: 2026-03-30T08:38:23Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6718,7 +6754,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £600.00 GBP
 - [Fir Needle, Essential Oil](https://inky-ingredients.com/products/fir-needle-essential-oil): Fir Needle Essential Oil captures the invigorating essence of evergreen forests. Known for its fresh and uplifting aroma, it promotes a sense of vitality and clarity. This essential oil is a valuable addition to aromatherapy blends, contributing to a rejuvenating and forest-inspired atmosphere.
-  Updated: 2025-12-02T05:58:13Z
+  Updated: 2026-04-14T13:44:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6742,7 +6778,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £357.60 GBP
 - [Cypress, Essential Oil Organic](https://inky-ingredients.com/products/cypress-essential-oil-organic): Organic Cypress Essential Oil offers the same benefits with the added advantage of being sourced and produced using organic practices, ensuring purity and environmental sustainability.
-  Updated: 2025-12-02T05:30:58Z
+  Updated: 2026-04-13T21:23:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6766,7 +6802,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £696.00 GBP
 - [Orange Bitter, Essential Oil](https://inky-ingredients.com/products/orange-bitter-essential-oil): Derived from bitter oranges, this essential oil offers a distinctive, intense citrus fragrance. It's employed in perfumery and blends, imparting a unique and bold aroma to various products.
-  Updated: 2025-12-29T16:28:35Z
+  Updated: 2026-03-02T18:01:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6790,7 +6826,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £408.00 GBP
 - [Myrrh, Essential Oil](https://inky-ingredients.com/products/myrrh-essential-oil): Myrrh Essential Oil, with its earthy and smoky aroma, offers skincare benefits. Known for its calming properties, it rejuvenates the skin and promotes a sense of tranquility, making it a valuable aromatherapy oil.
-  Updated: 2025-12-26T17:46:36Z
+  Updated: 2026-03-30T20:24:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6814,7 +6850,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £2,276.40 GBP
 - [Cinnamon Leaf, Essential Oil](https://inky-ingredients.com/products/cinnamon-leaf-essential-oil): Cinnamon Leaf Essential Oil, a fragrant essential, carries a spicy, herbal aroma. Recognized for its antimicrobial qualities, it is often incorporated into aromatherapy and skincare products for a warm and invigorating experience.
-  Updated: 2025-12-27T14:50:05Z
+  Updated: 2026-03-18T14:43:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6838,7 +6874,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £180.00 GBP
 - [Peach Kernel, Butter](https://inky-ingredients.com/products/peach-kernel-butter): Peach Kernel Butter is a luxurious emollient derived from peach seeds. Its creamy texture deeply moisturises the skin, leaving it soft and supple. This butter is a valuable ingredient for creating nourishing skincare products.
-  Updated: 2025-12-02T05:19:32Z
+  Updated: 2026-03-19T23:59:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6859,7 +6895,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Not Available
     Price: £258.00 GBP
 - [Elderberry Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/elderberry-seed-oil-cold-pressed-organic)
-  Updated: 2025-12-02T05:17:00Z
+  Updated: 2026-04-11T11:16:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6880,7 +6916,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Not Available
     Price: £147.60 GBP
 - [Orange Sweet 5 Fold, Essential Oil](https://inky-ingredients.com/products/orange-sweet-5-fold-essential-oil): Concentrated five times, this essential oil from sweet oranges provides a potent citrus scent. Ideal for applications requiring a more intense orange aroma, such as candles and perfumes.
-  Updated: 2025-12-23T09:03:56Z
+  Updated: 2026-04-10T17:41:13Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6903,6 +6939,93 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [5kg](https://inky-ingredients.com/products/orange-sweet-5-fold-essential-oil?variant=56686383464832)
     Availability: Available
     Price: £432.00 GBP
+- [Cottonseed Oil, Refined](https://inky-ingredients.com/products/cottonseed-oil-refined): Refined Cottonseed Oil is a lightweight oil, rich in essential fatty acids including linoleic acid and Vitamin E. A popular choice for hair and skin care products.
+  Updated: 2026-04-13T06:53:15Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY_Cottonseed_20Refined.jpg?v=1771248732
+  - [50ml](https://inky-ingredients.com/products/cottonseed-oil-refined?variant=57377135034752)
+    Availability: Available
+    Price: £3.60 GBP
+  - [250ml](https://inky-ingredients.com/products/cottonseed-oil-refined?variant=57377135067520)
+    Availability: Available
+    Price: £6.96 GBP
+  - [500ml](https://inky-ingredients.com/products/cottonseed-oil-refined?variant=57377135100288)
+    Availability: Available
+    Price: £13.26 GBP
+  - [1kg](https://inky-ingredients.com/products/cottonseed-oil-refined?variant=57377135133056)
+    Availability: Available
+    Price: £25.20 GBP
+  - [5kg](https://inky-ingredients.com/products/cottonseed-oil-refined?variant=57377135165824)
+    Availability: Available
+    Price: £117.60 GBP
+- [Vanilla, Butter](https://inky-ingredients.com/products/vanilla-butter): Vanilla Butter, extracted from vanilla beans, is a luxurious and aromatic butter. With a sweet and comforting scent, it adds a warm and delightful touch to cosmetic formulations. Its moisturising properties make it an ideal choice for creating indulgent skincare products, leaving the skin soft and fragrant.
+  Updated: 2026-04-12T07:41:06Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY_Vanilla_20Butter.jpg?v=1771248781
+  - [250g](https://inky-ingredients.com/products/vanilla-butter?variant=57407285363072)
+    Availability: Available
+    Price: £5.40 GBP
+  - [500g](https://inky-ingredients.com/products/vanilla-butter?variant=57407285395840)
+    Availability: Available
+    Price: £9.18 GBP
+  - [1kg](https://inky-ingredients.com/products/vanilla-butter?variant=57407285428608)
+    Availability: Available
+    Price: £16.32 GBP
+  - [5kg](https://inky-ingredients.com/products/vanilla-butter?variant=57407285461376)
+    Availability: Available
+    Price: £71.52 GBP
+  - [25kg](https://inky-ingredients.com/products/vanilla-butter?variant=57407285494144)
+    Availability: Available
+    Price: £259.20 GBP
+- [Castor, Hydrogenated (non Food Grade)](https://inky-ingredients.com/products/castor-hydrogenated-non-food-grade): Non-food grade hydrogenated Castor Oil, a versatile ingredient in cosmetics, provides emollient properties for skincare formulations, offering a smooth texture without the stickiness.
+  Updated: 2026-04-06T19:20:07Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/Castor_2C_20Hydrogenated_20non_20food_20grade_INKY_rfo0i3.png?v=1772709105
+  - [250g](https://inky-ingredients.com/products/castor-hydrogenated-non-food-grade?variant=57526619931008)
+    Availability: Available
+    Price: £2.34 GBP
+  - [500g](https://inky-ingredients.com/products/castor-hydrogenated-non-food-grade?variant=57526619963776)
+    Availability: Available
+    Price: £3.00 GBP
+  - [1kg](https://inky-ingredients.com/products/castor-hydrogenated-non-food-grade?variant=57526619996544)
+    Availability: Available
+    Price: £5.16 GBP
+  - [5kg](https://inky-ingredients.com/products/castor-hydrogenated-non-food-grade?variant=57526620029312)
+    Availability: Available
+    Price: £24.48 GBP
+  - [25kg](https://inky-ingredients.com/products/castor-hydrogenated-non-food-grade?variant=57526620062080)
+    Availability: Available
+    Price: £100.80 GBP
+- [Lemongrass, Essential Oil (Vl)](https://inky-ingredients.com/products/lemongrass-essential-oil-vl): Lemongrass Essential Oil, with its citrusy and earthy notes, is renowned for its invigorating aroma. It's commonly used in aromatherapy to promote a sense of clarity, freshness, and relaxation.
+  Updated: 2026-04-01T11:56:15Z
+  Vendor: INKY Ingredients
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-LEMONGRASS-min_arp98g.jpg?v=1774434505
+  - [10ml](https://inky-ingredients.com/products/lemongrass-essential-oil-vl?variant=57710061552000)
+    Availability: Available
+    Price: £2.38 GBP
+  - [50ml](https://inky-ingredients.com/products/lemongrass-essential-oil-vl?variant=57710061584768)
+    Availability: Available
+    Price: £4.20 GBP
+  - [100ml](https://inky-ingredients.com/products/lemongrass-essential-oil-vl?variant=57710061617536)
+    Availability: Available
+    Price: £6.12 GBP
+  - [500ml](https://inky-ingredients.com/products/lemongrass-essential-oil-vl?variant=57710061650304)
+    Availability: Available
+    Price: £18.72 GBP
+  - [1kg](https://inky-ingredients.com/products/lemongrass-essential-oil-vl?variant=57710061683072)
+    Availability: Available
+    Price: £35.88 GBP
+  - [5kg](https://inky-ingredients.com/products/lemongrass-essential-oil-vl?variant=57710061715840)
+    Availability: Available
+    Price: £175.20 GBP
 
 ## Collections
 
@@ -6910,134 +7033,137 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Updated: 2025-02-18T09:45:18Z
   Total Products: 0
 - [Gluten Free](https://inky-ingredients.com/collections/gluten-free): Natural, gluten-free ingredients for safe product formulations. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 354
-- [Organic](https://inky-ingredients.com/collections/organic): Discover our selection of certified organic natural ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 358
+- [Organic](https://inky-ingredients.com/collections/organic): Discover our selection of  organic natural ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 105
-- [Clearance](https://inky-ingredients.com/collections/clearance): Find great deals on natural ingredients in our clearance section. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
+- [](https://inky-ingredients.com/collections/): Find great deals on natural ingredients in our  section. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
   Updated: 2025-08-07T11:33:48Z
   Total Products: 0
-- [Best Sellers](https://inky-ingredients.com/collections/best-sellers): Explore our best-selling natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 381
+- [Best Sellers](https://inky-ingredients.com/collections/best-sellers): Explore our best- natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing from INKY Ingredients.
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 385
 - [New Products](https://inky-ingredients.com/collections/new-products): Discover our latest natural ingredient launches. Free delivery over £60, fully accredited, and sustainably sourced from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 381
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 385
 - [Cold-Pressed Oils](https://inky-ingredients.com/collections/cold-pressed-oils): Explore our range of cold-pressed natural oils for various applications. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 102
 - [Butters](https://inky-ingredients.com/collections/butters): Explore our range of natural butters for nourishing skincare products. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-26T12:26:05Z
-  Total Products: 21
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 23
 - [Essential Oils](https://inky-ingredients.com/collections/essential-oils): Explore our range of 100% pure, natural essential oils. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-28T12:37:12Z
-  Total Products: 115
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 116
 - [Exfoliants](https://inky-ingredients.com/collections/exfoliants): Explore our range of natural exfoliants for gentle skin renewal. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-27T12:35:29Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 8
 - [Soap Bases](https://inky-ingredients.com/collections/soap-bases): Discover our selection of natural soap bases for handmade soaps. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 22
 - [Waters](https://inky-ingredients.com/collections/waters): Discover our selection of natural waters for various formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-27T12:35:29Z
+  Updated: 2026-04-13T11:57:07Z
   Total Products: 4
 - [Refined Oils](https://inky-ingredients.com/collections/refined-oils): Discover our selection of refined natural oils for various applications. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 69
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 70
 - [Waxes](https://inky-ingredients.com/collections/waxes): Discover our selection of natural waxes for various formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-24T12:33:11Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 14
 - [Infusions](https://inky-ingredients.com/collections/infusions): Explore our range of natural infusions for various applications. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-24T12:33:11Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 14
 - [Extracts](https://inky-ingredients.com/collections/extracts): Explore our range of natural extracts for various applications. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 8
 - [Absolutes](https://inky-ingredients.com/collections/absolutes): Explore our range of natural absolutes for various applications. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-28T12:37:12Z
+  Updated: 2026-04-07T11:59:27Z
   Total Products: 3
 - [Vegan Friendly](https://inky-ingredients.com/collections/vegan-friendly): Discover our selection of vegan-friendly natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 374
-- [Kosher](https://inky-ingredients.com/collections/kosher): Discover our selection of Kosher-certified natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 378
+- [Kosher](https://inky-ingredients.com/collections/kosher): Discover our selection of Kosher- natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing.
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 29
 - [Acne-Fighting](https://inky-ingredients.com/collections/acne-fighting): Natural ingredients to help combat acne and blemishes. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-25T12:25:21Z
+  Updated: 2026-04-09T12:03:03Z
   Total Products: 2
 - [Anti-Aging](https://inky-ingredients.com/collections/anti-aging): Defy aging with our natural anti-aging ingredients. Free delivery over £60, fully accredited, and sustainably sourced from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 176
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 178
 - [Anti-Inflammatory](https://inky-ingredients.com/collections/anti-inflammatory): Combat inflammation with our natural anti-inflammatory ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 257
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 261
 - [Antimicrobial](https://inky-ingredients.com/collections/antimicrobial): Combat microbes with our natural antimicrobial ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-28T12:37:12Z
-  Total Products: 90
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 91
 - [Antioxidant](https://inky-ingredients.com/collections/antioxidant): Discover our selection of natural antioxidant ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 64
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 65
 - [Cleansing](https://inky-ingredients.com/collections/cleansing): Explore our range of natural cleansing ingredients for effective yet gentle formulas. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 79
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 81
 - [Cooling](https://inky-ingredients.com/collections/cooling): Discover our selection of natural cooling ingredients for refreshing formulations. Free delivery over £60, fully accredited, and sustainably sourced.
-  Updated: 2025-12-28T12:37:12Z
-  Total Products: 80
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 81
 - [Easily-Absorbed](https://inky-ingredients.com/collections/easily-absorbed): Natural, easily-absorbed ingredients for effective skincare formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 192
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 195
 - [Emollient](https://inky-ingredients.com/collections/emollient): Discover our emollient natural ingredients for smoother, softer skin. Ethically sourced, with free delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 107
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 108
 - [Emulsifying](https://inky-ingredients.com/collections/emulsifying): Explore our range of natural emulsifying ingredients for stable formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-02T06:24:21Z
+  Updated: 2026-03-11T11:47:31Z
   Total Products: 1
 - [Energising](https://inky-ingredients.com/collections/energising): Natural ingredients to help promote alertness and energy levels. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-28T12:37:12Z
-  Total Products: 42
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 43
 - [Exfoliating](https://inky-ingredients.com/collections/exfoliating): Discover our selection of natural exfoliating ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-27T12:35:29Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 8
 - [Healing & Soothing](https://inky-ingredients.com/collections/healing-soothing): Explore our range of natural healing and soothing ingredients. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-28T12:37:12Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 60
 - [Moisturising & Hydrating](https://inky-ingredients.com/collections/moisturising-hydrating): Explore our range of natural moisturising ingredients for hydrated, supple skin. Free delivery over £60, fully accredited, and sustainably sourced.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 230
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 232
 - [Regenerative](https://inky-ingredients.com/collections/regenerative): Revitalise your skin with our natural regenerative ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 56
 - [Scar Healing](https://inky-ingredients.com/collections/scar-healing): Natural ingredients to promote scar healing and skin regeneration. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 17
 - [Sebum Control](https://inky-ingredients.com/collections/sebum-control): Natural ingredients to help control excess sebum production. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-17T12:53:28Z
+  Updated: 2026-04-13T11:57:07Z
   Total Products: 3
 - [Skin Brightening](https://inky-ingredients.com/collections/skin-brightening): Discover our selection of natural skin brightening ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 38
 - [Skin Tightening](https://inky-ingredients.com/collections/skin-tightening): Natural ingredients to help promote tighter, firmer skin. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 72
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 73
 - [Stress Relief](https://inky-ingredients.com/collections/stress-relief): Natural ingredients to help promote relaxation and stress relief. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-12-28T12:37:12Z
-  Total Products: 33
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 34
 - [Warming](https://inky-ingredients.com/collections/warming): Explore our range of natural warming ingredients for various applications. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-12-28T12:37:12Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 31
 - [Zero-Waste](https://inky-ingredients.com/collections/zero-waste)
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 117
 - [Upcycled](https://inky-ingredients.com/collections/upcycled)
-  Updated: 2025-12-29T12:42:46Z
+  Updated: 2026-04-14T11:55:17Z
   Total Products: 61
-- [Summer Sale](https://inky-ingredients.com/collections/sale): Formulate Fresh This Summer – Save 15% Now! This summer, stock up on over 1,500 natural, accredited ingredients from the UK’s largest certified supplier. Simply use code: SUMMER15 at checkout (valid until 27/07/25) *sale excludes Soap Bases
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 366
-- [Shop the Season - Autumnal Scents](https://inky-ingredients.com/collections/shop-the-season): Discover the scents and sensations of the season with our handpicked range of winter and Christmas essential oils, cold-pressed oils, and natural waxes. From cosy, spiced aromas to fresh, festive notes, these ingredients are perfect for creating candles, skincare, and blends that capture the magic of the season.
-  Updated: 2025-12-29T12:42:46Z
-  Total Products: 61
+- [Summer ](https://inky-ingredients.com/collections/): Formulate Fresh This Summer – Save 15% Now! This summer, stock up on over 1,500 natural, accredited ingredients from the UK’s largest  supplier. Simply use code: SUMMER15 at checkout (valid until 27/07/25) * excludes Soap Bases
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 372
+- [Shop the Season - Spring Scents](https://inky-ingredients.com/collections/shop-the-season): Step into spring with our carefully selected essential oils, cold-pressed oils, and natural waxes. Bursting with floral, citrus, and green notes, these ingredients are made for crafting candles, skincare, and blends that feel fresh, bright, and full of life.
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 31
+- [Spring ](https://inky-ingredients.com/collections/spring-): Formulate Fresh This Spring – Save 15% Now! This spring, stock up on over 1,500 natural, accredited ingredients from the UK’s largest  supplier. Simply use code: SPRING15 at checkout. * excludes Soap Bases
+  Updated: 2026-04-14T11:55:17Z
+  Total Products: 372
 
 ## Blogs
 
@@ -7126,8 +7252,23 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   - [Jojoba Butter | Luxurious Hydration for Skin and Hair](https://inky-ingredients.com/blogs/news/jojoba-butter-luxurious-hydration-for-skin-and-hair): <p><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Jojoba Butter is an easy-to-use multitasker that brings a luxurious touch to everyday care routines</span></p>
     Updated: 2025-10-14T13:08:48Z
     Author: Emily Hartley
+  - [Top Natural Ingredients Picks for 2026: INKY Ingredients](https://inky-ingredients.com/blogs/news/top-picks-for-2026-inky-ingredients): Top Natural Ingredients Picks for 2026: INKY Ingredients
+    Updated: 2026-01-12T13:00:36Z
+    Author: James Wray
   - [Top Products of 2025: What Our Makers Loved Most This Year](https://inky-ingredients.com/blogs/news/top-products-of-2025-what-our-makers-loved-most-this-year): <p><meta charset="utf-8">Here are the INKY ingredients that defined your formulating year – along with ideas for how to keep using them as we head into 2026.</p>
     Updated: 2025-12-03T16:02:47Z
+    Author: James Wray
+  - [Everything You Need To Know About Cold Pressed Oils](https://inky-ingredients.com/blogs/news/everything-you-need-to-know-about-cold-pressed-oils): <p>Cold Pressed Oils may look simple, but how they're extracted makes all the difference. So what are they and what are the benefits?</p>
+    Updated: 2026-01-23T12:49:23Z
+    Author: Lisa Nuttall
+  - [The Ultimate Guide to Essential Oils](https://inky-ingredients.com/blogs/news/the-ultimate-guide-to-essential-oils)
+    Updated: 2026-02-11T12:00:13Z
+    Author: Lisa Nuttall
+  - [The Rise of Sleep-Focused Formulations: Natural Oils to Elevate Your Nighttime Rituals](https://inky-ingredients.com/blogs/news/natural-oils-to-elevate-your-nighttime-rituals): <p>Discover the natural oils to elevate your sleep formulations and nighttime rituals.</p>
+    Updated: 2026-03-10T12:13:22Z
+    Author: Lisa Nuttall
+  - [Refined Cotton Seed Oil: A Hidden Gem in Beauty and Skincare](https://inky-ingredients.com/blogs/news/refined-cotton-seed-oil-a-hidden-gem-in-beauty-amp-skincare): <p><meta charset="utf-8"><span>While cottonseed oil is commonly known for its culinary uses, refined versions are increasingly used in beauty products because of their moisturising, antioxidant, and skin-conditioning properties.</span></p>
+    Updated: 2026-03-10T11:16:50Z
     Author: James Wray
 
 ## Store Pages
@@ -7140,8 +7281,8 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Updated: 2024-10-15T11:17:00Z
 - [Our industry recognised accreditations for quality, sustainability and compliance.](https://inky-ingredients.com/pages/accreditations): As natural products become the standard, INKY Ingredients™ stands out with seven key accreditations, showcasing our commitment to regulatory compli...
   Updated: 2024-10-15T11:17:17Z
-- [Shipping Policy - INKY Ingredients](https://inky-ingredients.com/pages/shipping-policy): Mainland UK Delivery All our orders are shipped with our delivery partners Fedex, UPS and Royal Mail. Unfortunately we cannot ship to Northern Irel...
-  Updated: 2025-12-11T12:24:03Z
+- [Shipping Policy - INKY Ingredients](https://inky-ingredients.com/pages/shipping-policy): Mainland UK Delivery All our orders are to mainland UK addresses are shipped with our delivery partners Fedex, UPS and Royal Mail. Unfortunately we...
+  Updated: 2026-02-11T16:15:09Z
 - [Frequently Asked Questions - INKY Ingredients](https://inky-ingredients.com/pages/faqs): 
   Updated: 2024-07-09T10:40:06Z
 - [Bulk Buying - Looking to order in larger quantities?](https://inky-ingredients.com/pages/bulk-buying): 
@@ -7162,7 +7303,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
 - [Privacy Policy](https://inky-ingredients.com/policies/privacy-policy)
   Updated: 2025-02-25T10:32:36+00:00
 - [Shipping Policy](https://inky-ingredients.com/policies/shipping-policy)
-  Updated: 2025-12-11T12:24:43+00:00
+  Updated: 2026-02-11T16:12:35+00:00
 - [Refund Policy](https://inky-ingredients.com/policies/refund-policy)
   Updated: 2025-02-25T12:40:20+00:00
 - [Terms of Service](https://inky-ingredients.com/policies/terms-of-service)
