@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-01-14T21:49:54Z
 - Contact Email: perfumeyami@gmail.com
-- Updated At: 2026-04-05T00:00:39.648Z
+- Updated At: 2026-04-14T00:00:40.528Z
 
 ## Products
 
@@ -605,6 +605,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/E33.webp?v=1773871458
   Price: R 450.00 ZAR
+- [Soft 6 IN PACK](https://perfume-yami.myshopify.com/products/soft-6-in-pack): Soft Top Notes: Vanilla, Sugar Middle Notes: White Florals Base Notes: Musk, Powder Sabaya Top Notes: Citrus, Green Notes Middle Notes: Rose, Jasmine Base Notes: Musk Susan Top Notes: Fruity Notes Middle Notes: Floral Notes Base Notes: Musk, Amber Perfect for gifting and everyday use.
+  Updated: 2026-04-05T19:02:04Z
+  Vendor: Perfume Yami 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0664/1398/5905/files/MO1.webp?v=1775415426
+  Price: R 240.00 ZAR
 
 ## Collections
 
