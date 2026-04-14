@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-08-19T17:50:19Z
 - Contact Email: info@afzuigkapspecialist.nl
-- Updated At: 2026-04-05T09:59:50.838Z
+- Updated At: 2026-04-14T00:00:31.168Z
 
 ## Products
 
@@ -74,12 +74,12 @@
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/wave-900105-recirculatiefilter-173539.webp?v=1744286391
   Price: € 58,00 EUR
 - [Wave 9001.03 Recirculatiefilter (PER STUK)](https://afzuigkapspecialist.nl/products/wave-900103): Geschikt voor modelserie:3620.013620.023820.01 3820.02 3820.03 3820.04
-  Updated: 2025-10-16T10:33:10Z
+  Updated: 2026-04-13T09:25:59Z
   Vendor: Wave
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/wave-900105-recirculatiefilter-173539.webp?v=1744286391
-  Price: € 52,00 EUR
+  Price: € 58,00 EUR
 - [Wave 9001.06 Recirculatiefilter (PER STUK)](https://afzuigkapspecialist.nl/products/wave-900106): Geschikt voor modelserie: ?4800.011820.011820.021820.031820.041820.051820.06 1551.01 1551.02 1551.03 1551.04 2551.01 2551.02 2551.03 2551.04
   Updated: 2026-03-15T16:44:08Z
   Vendor: Wave
@@ -255,7 +255,7 @@
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/airone-rf-kfcpz-filter-recirculatiefilter-professioneel-rechthoekig-727838.jpg?v=1744286790
   Price: € 58,00 EUR
 - [Wave 9007.05 Recirculatiefilter](https://afzuigkapspecialist.nl/products/wave-900705): Recirculatiefilter
-  Updated: 2025-10-16T10:33:13Z
+  Updated: 2026-04-07T05:51:36Z
   Vendor: Wave
   Product Type: 
   Availability: Available
@@ -374,7 +374,7 @@
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/wave-6000316-vlakkanaal-230-x-80-mm-buiten-629115.png?v=1744286975
   Price: € 45,00 EUR
 - [Wave 6000322 kopen? €40,00 - gratis levering in NL & BE](https://afzuigkapspecialist.nl/products/wave-6000322)
-  Updated: 2025-10-16T10:33:15Z
+  Updated: 2026-04-05T14:34:23Z
   Vendor: Wave
   Product Type: 
   Availability: Available
@@ -686,7 +686,7 @@ gewicht ca. 1300 gram
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/wave-205521-frame-links-240-cm-eilandafzuigkap-kleur-naar-keuze-matglanzend-interne-motor-led-verlichting-209352.jpg?v=1744286944
   Price: € 5.476,00 EUR
 - [Wave 2055.01 kopen? €4.964,00 - gratis levering in NL & BE](https://afzuigkapspecialist.nl/products/wavedesign-205501-frame-links-270cm-eilandafzuigkap-rvs-motor-led): Uitvoering Wave Design FRAME 2055.01 RVS met motor linksvaste, interne motor 850 m3/h - 58 dBA - max. 250 W recirculatie op basis van koolstoffilter 99202.27 of plasmafilter 99202.02afstandsbediening 3 standen + intensief + timervetfilter(s) 3 x aluminium filters + randafzuigingverlichting 4 x 4,5 W dimbare LED - 2700 Kelvin (240 cm) 5 x 4,5 W dimbare LED - 2700 Kelvin (270 cm) 5 x 4,5 W dimbare LED - 2700 Kelvin (300 cm)netto gewicht ca. 78 kg (240 cm) - ca. 85 kg (270 cm) - ca. 91 kg (300 cm)Aanvullende informatie Wavedesign FRAME 2055.01 unit linksafzuigkap is voorzien van een intern stopcontact t.b.v een plasmafiltertussenruimte onderzijde afzuigkap en werkblad min. 650 mmdeze afzuigkap is enkel geschikt voor recirculatie
-  Updated: 2025-10-16T10:33:23Z
+  Updated: 2026-04-08T00:17:39Z
   Vendor: Wave
   Product Type: 
   Availability: Available
@@ -1244,7 +1244,7 @@ netto gewicht ca. 37 kg
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/airone-i-001-caruso-inbouwunit-56-cm-rvs-interne-motor-982087.jpg?v=1744286887
   Price: € 1.095,00 EUR
 - [Airone I-002-CARUSO kopen? €1.195,00 - gratis levering in NL & BE](https://afzuigkapspecialist.nl/products/airone-i002-caruso-inbouwunit-87cm-rvs-interne-motor): Uitvoering Airone Caruso inbouwafzuigkap 87cm RVSvaste, interne motor 533 m³/h - 66 dBa (stand 3)vaste bediening 3 standen + intensief + timervetfilter(s) RVS labyrintverlichting 87 cm 1 x 8 W ledstrip - 3000 kelvinOptioneel voor de Airone Caruso inbouwafzuigkap 87cm RVSrecirculatie op basis van koolstoffilter of plasmafilterAanvullende informatie tbv Airone Caruso inbouwafzuigkap 87cm RVSuitsnijmaat: 815 x 250 mm (87 cm)Accessoires voor de Airone Caruso inbouwafzuigkap 87cm RVSRF-011-FILTER recirculatiefilter99202.02 plasmafilter rond
-  Updated: 2025-10-16T10:33:39Z
+  Updated: 2026-04-08T06:11:58Z
   Vendor: Airone
   Product Type: 
   Availability: Available
@@ -1424,7 +1424,7 @@ netto gewicht ca. 37 kg
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/airone-e-001-medea-eiland-model-60-cm-zwart-glas-interne-motor-recirculatie-533441.jpg?v=1744286883
   Price: € 1.595,00 EUR
 - [Airone E-002-MEDEA kopen? €1.695,00 - gratis levering in NL & BE](https://afzuigkapspecialist.nl/products/airone-e002-medea-eiland-model-60cm-wit-glas-interne-motor-recirculatie): Uitvoering Airone Medea eilandafzuigkap 60cm wit vaste, interne motor 630 m³/h - 68 dBa (stand 4) vaste bediening 4 standen vetfilter(s) aluminium verlichting 4 x 1,2 W led - 4000 kelvin Accessoires tbv de Airone Medea eilandafzuigkap 60cm wit RF-003-FILTER recirculatiefilter
-  Updated: 2025-10-16T10:33:46Z
+  Updated: 2026-04-08T06:24:07Z
   Vendor: Airone
   Product Type: 
   Availability: Available
@@ -1566,7 +1566,7 @@ netto gewicht ca. 37 kg
   Availability: Available
   Price: € 595,00 EUR
 - [Airone P-001-FENICE kopen? €1.495,00 - gratis levering in NL & BE](https://afzuigkapspecialist.nl/products/airone-p001-fenice-plafond-unit-90cm-rvs-wit-glas-motorloos)
-  Updated: 2025-10-16T10:33:50Z
+  Updated: 2026-04-08T01:14:10Z
   Vendor: Airone
   Product Type: 
   Availability: Available
@@ -2002,7 +2002,7 @@ netto gewicht ca. 37 kg
   Updated: 2025-10-16T10:33:13Z
   Total Products: 9
 - [System 150 Kanaal Aansluit Materiaal Kopen - Afzuigkapspecialist.nl](https://afzuigkapspecialist.nl/collections/system-150-kanaal-aansluit-materiaal-afzuigkappen): ✓ System 150 kanaal aansluit materiaal ✓ Exclusieve maatvoering ✓ Niet in gewone vakhandel ✓ Complete oplossing ✓ Professioneel
-  Updated: 2026-03-09T11:23:19Z
+  Updated: 2026-04-06T11:20:50Z
   Total Products: 20
 - [Plasmafilters Afzuigkap Kopen - Geavanceerde Luchtzuivering - Afzuigkapspecialist.nl](https://afzuigkapspecialist.nl/collections/plasmafilters-afzuigkap): ✓ Plasmafilters voor afzuigkappen ✓ Geavanceerde plasma technologie ✓ Langere levensduur ✓ Superieure luchtzuivering ✓ Deskundig advies
   Updated: 2026-01-12T12:20:41Z
