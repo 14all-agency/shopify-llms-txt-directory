@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-01-29T17:33:09Z
 - Contact Email: skunkers465@gmail.com
-- Updated At: 2026-03-27T00:00:48.737Z
+- Updated At: 2026-04-14T00:00:22.606Z
 
 ## Products
 
@@ -83,7 +83,7 @@
     Availability: Available
     Price: $74.99 CAD
 - [Shilajit Capsules, Ashwagandha, Gokshura, 85 Trace Minerals, High Potency Gold Grade Himalayan Shilajit Supplements, 60 Capsules For Women And Men](https://vitalityessentialsltd.myshopify.com/products/shilajit-capsules-ashwagandha-gokshura-85-trace-minerals-high-potency-gold-grade-himalayan-shilajit-supplements-60-capsules-for-women-and-men): Shilajit Capsules are formulated with high-potency, gold grade Himalayan shilajit , combined with Ashwagandha and Gokshura to support daily vitality and overall wellness. Naturally rich in 85+ trace minerals , shilajit has long been valued in traditional wellness practices as a nutrient-dense supplement. This balanced herbal formula is designed to help support energy metabolism, endurance, and overall physical and mental balance for both women and men. By blending mineral-rich shilajit with carefully selected botanicals, the supplement complements an active lifestyle and everyday nutritional needs. With 60 capsules per bottle , these easy-to-take supplements are suitable for consistent daily use. Crafted with a focus on quality and purity, the formula contains no unnecessary fillers, offering a convenient and reliable option for those seeking plant- and mineral-based wellness support. Key Features: Gold grade Himalayan shilajit capsules Contains Ashwagandha & Gokshura Naturally provides 85+ trace minerals Supports daily energy, vitality & overall wellness Suitable for women and men 60 capsules per bottle for daily use
-  Updated: 2026-03-18T06:48:37Z
+  Updated: 2026-03-31T05:48:26Z
   Vendor: Vitality Essentials
   Product Type: Supplements
   Availability: Available
