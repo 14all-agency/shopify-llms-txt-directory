@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2026-04-04T05:33:38Z
-- Updated At: 2026-04-08T00:00:21.496Z
+- Updated At: 2026-04-15T00:00:30.139Z
 
 ## Products
 
@@ -832,33 +832,95 @@
   Image: https://cdn.shopify.com/s/files/1/0723/9693/1254/files/image_2ca07531-7172-4bac-974d-8a85a5f3dc04.png?v=1775443477
   Price: $22.99 USD
 - [Oversized Acid Wash Hoodie – Viral Streetwear | HypeNest](https://www.hypenest.net/products/oversized-acid-wash-hoodie): Shop the viral oversized acid wash hoodie trending on TikTok. Ultra-soft fleece, unique wash pattern, available S–3XL. Free shipping on orders over $50.
-  Updated: 2026-04-07T21:01:38Z
+  Updated: 2026-04-08T03:03:11Z
   Vendor: HypeNest
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0723/9693/1254/files/image_5b8adef9-93ca-417c-9f4d-f574d7aa1f9d.png?v=1775589205
-  Price: $64.99 USD
+  - [S](https://www.hypenest.net/products/oversized-acid-wash-hoodie?variant=45029145673910)
+    Availability: Available
+    Price: $64.99 USD
+  - [M](https://www.hypenest.net/products/oversized-acid-wash-hoodie?variant=45029145706678)
+    Availability: Available
+    Price: $64.99 USD
+  - [L](https://www.hypenest.net/products/oversized-acid-wash-hoodie?variant=45029145739446)
+    Availability: Available
+    Price: $64.99 USD
+  - [XL](https://www.hypenest.net/products/oversized-acid-wash-hoodie?variant=45029145772214)
+    Availability: Available
+    Price: $64.99 USD
+  - [2XL](https://www.hypenest.net/products/oversized-acid-wash-hoodie?variant=45029145804982)
+    Availability: Available
+    Price: $64.99 USD
+  - [XS](https://www.hypenest.net/products/oversized-acid-wash-hoodie?variant=45029145837750)
+    Availability: Available
+    Price: $64.99 USD
 - [Seamless Ribbed Lounge Set – Viral TikTok Style | HypeNest](https://www.hypenest.net/products/seamless-ribbed-lounge-set): Shop the viral seamless ribbed lounge set trending on TikTok. Buttery soft, sculpting fit, 6 colorways. Perfect for lounging or working out.
-  Updated: 2026-04-07T21:01:28Z
+  Updated: 2026-04-08T03:04:22Z
   Vendor: HypeNest
   Product Type: Activewear Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0723/9693/1254/files/image_c783e701-5b90-4c66-aec8-71f08c1c1be4.png?v=1775589229
-  Price: $54.99 USD
+  - [XS](https://www.hypenest.net/products/seamless-ribbed-lounge-set?variant=45029146460342)
+    Availability: Available
+    Price: $54.99 USD
+  - [L](https://www.hypenest.net/products/seamless-ribbed-lounge-set?variant=45029146493110)
+    Availability: Available
+    Price: $54.99 USD
+  - [M](https://www.hypenest.net/products/seamless-ribbed-lounge-set?variant=45029146525878)
+    Availability: Available
+    Price: $54.99 USD
+  - [S](https://www.hypenest.net/products/seamless-ribbed-lounge-set?variant=45029146558646)
+    Availability: Available
+    Price: $54.99 USD
+  - [XL](https://www.hypenest.net/products/seamless-ribbed-lounge-set?variant=45029146591414)
+    Availability: Available
+    Price: $54.99 USD
 - [Cargo Utility Pants – Y2K Streetwear Trending | HypeNest](https://www.hypenest.net/products/cargo-utility-pants): Shop viral cargo utility pants trending on TikTok. Wide-leg fit, 6 deep pockets, adjustable waist. Available in Black, Olive & Khaki. Ships fast.
-  Updated: 2026-04-07T21:01:18Z
+  Updated: 2026-04-08T03:04:58Z
   Vendor: HypeNest
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0723/9693/1254/files/image_fadbeaf3-cdc5-4408-8ef2-10c42b59b25d.png?v=1775589254
-  Price: $69.99 USD
+  - [XL](https://www.hypenest.net/products/cargo-utility-pants?variant=45029146689718)
+    Availability: Available
+    Price: $69.99 USD
+  - [L](https://www.hypenest.net/products/cargo-utility-pants?variant=45029146722486)
+    Availability: Available
+    Price: $69.99 USD
+  - [M](https://www.hypenest.net/products/cargo-utility-pants?variant=45029146755254)
+    Availability: Available
+    Price: $69.99 USD
+  - [S](https://www.hypenest.net/products/cargo-utility-pants?variant=45029146788022)
+    Availability: Available
+    Price: $69.99 USD
+  - [XS](https://www.hypenest.net/products/cargo-utility-pants?variant=45029146820790)
+    Availability: Available
+    Price: $69.99 USD
+  - [2XL](https://www.hypenest.net/products/cargo-utility-pants?variant=45029146853558)
+    Availability: Available
+    Price: $69.99 USD
 - [Cropped Moto Jacket – Viral Faux Leather Style | HypeNest](https://www.hypenest.net/products/cropped-moto-jacket): Shop the viral cropped moto jacket trending on TikTok. Faux leather, asymmetric zip, available in Black & Cognac Brown. Elevate any outfit instantly.
-  Updated: 2026-04-07T21:01:10Z
+  Updated: 2026-04-08T03:05:48Z
   Vendor: HypeNest
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0723/9693/1254/files/image_783c4492-d0ab-4cf6-9e83-1cdd5c8b4096.png?v=1775589299
-  Price: $89.99 USD
+  - [XL](https://www.hypenest.net/products/cropped-moto-jacket?variant=45029146984630)
+    Availability: Available
+    Price: $89.99 USD
+  - [XS](https://www.hypenest.net/products/cropped-moto-jacket?variant=45029147017398)
+    Availability: Available
+    Price: $89.99 USD
+  - [L](https://www.hypenest.net/products/cropped-moto-jacket?variant=45029147050166)
+    Availability: Available
+    Price: $89.99 USD
+  - [M](https://www.hypenest.net/products/cropped-moto-jacket?variant=45029147082934)
+    Availability: Available
+    Price: $89.99 USD
+  - [S](https://www.hypenest.net/products/cropped-moto-jacket?variant=45029147115702)
+    Availability: Available
+    Price: $89.99 USD
 - [Mini Portable Projector – 1080p HD TikTok Viral | HypeNest](https://www.hypenest.net/products/mini-portable-projector): Shop the viral mini portable projector from TikTok. 1080p HD, 120" projection, built-in speaker & Bluetooth. Perfect for movie nights anywhere.
   Updated: 2026-04-07T21:00:56Z
   Vendor: HypeNest
