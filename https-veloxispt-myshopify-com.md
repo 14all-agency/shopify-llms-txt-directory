@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2026-02-19T00:14:27Z
 - Contact Email: veloxispt@gmail.com
-- Updated At: 2026-04-06T00:00:42.504Z
+- Updated At: 2026-04-15T00:00:42.541Z
 
 ## Products
 
@@ -5058,7 +5058,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb098659af0bc4ecf95bf81522f2c6eb43.webp?v=1773678608
     Price: 10,99 € EUR
 - [Anime Compression Training Tee | VELOXIS Men's Gym T-Shirt](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops): VELOXIS Anime Compression Training Tee — quick-dry polyester, breathable knit, compression fit. Bold anime prints for men who train hard.
-  Updated: 2026-04-03T00:32:48Z
+  Updated: 2026-04-09T00:13:15Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
