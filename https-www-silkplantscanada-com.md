@@ -10,7 +10,7 @@
 - Contact Email: sales@silkplantscanada.com
 - Contact Phone: 18778147455
 - Address: 599 Clifton Road
-- Updated At: 2026-04-07T00:00:56.443Z
+- Updated At: 2026-04-15T00:00:45.046Z
 
 ## Products
 
@@ -57,7 +57,7 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/4-Foot-Artificial-Fig-Topiary-Made-on-Wood-with-Green-Red-Leaves-Silk-Plants-Canada-1663802511.jpg?v=1742348995
   Price: $89.99 CAD
 - [19 inch Artificial PVC Mountain Grass Bush for In or Outdoor](https://www.silkplantscanada.com/products/19-inch-artificial-pvc-mountain-grass-bush): Transform your space with the lifelike beauty of a 19 inch Artificial PVC Mountain Grass Bush. Elevate your decor effortlessly!
-  Updated: 2026-02-13T08:49:18Z
+  Updated: 2026-04-10T15:15:10Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Flora
   Availability: Available
@@ -106,12 +106,12 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/9-inch-Artificial-PVC-Cedar-Bonsai-in-Deco-Container-Silk-Plants-Canada-1659981131.jpg?v=1743712007
   Price: $49.99 CAD
 - [7 Foot Artificial Dragon Tree - Realistic Dracaena - Canada](https://www.silkplantscanada.com/products/7-ft-artificial-dragon-tree-realistic-dracaena-canada): Transform your space with a stunning 7ft Artificial Dragon Tree - Realistic Dracaena on Natural Wood - Enhance your decor in Canada.
-  Updated: 2026-02-13T08:49:22Z
+  Updated: 2026-04-13T17:33:15Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/7-Foot-Artificial-Silk-Dragon-Tree-on-Natural-Wood-RHS-Silk-Plants-Canada-1663709961.jpg?v=1764358244
-  Price: $539.99 CAD
+  Price: $359.99 CAD
 - [20" Boxwood Privacy Panel - UV Rated - Indoor/Outdoor-Canada](https://www.silkplantscanada.com/products/20-inch-boxwood-privacy-panel): Elevate your space with our Lifelike 20 Boxwood Privacy Panel - UV Rated, perfect for indoor/outdoor green walls. Shop now!
   Updated: 2026-02-13T08:49:23Z
   Vendor: Silk Plants Canada
@@ -197,47 +197,47 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/7_Foot_Artificial_Silk_Fig_Tree_Made_on_Natural_Wood_w_Green_Leaves.png?v=1741185672
   Price: $539.99 CAD
 - [4' Artificial Silk Dragon Tree Custom Made on Natural Wood](https://www.silkplantscanada.com/products/4-foot-artificial-silk-dragon-tree-custom-made-on-natural-wood): Transform your space with a stunning 4 Foot Artificial Silk Dragon Tree custom made on natural wood. Elevate your décor today!
-  Updated: 2026-02-13T08:49:34Z
+  Updated: 2026-04-13T17:32:24Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/4-Foot-Artificial-Silk-Dragon-Tree--on-Natural-Wood-Silk-Plants-Canada-1663707083.jpg?v=1764034477
-  Price: $149.99 CAD
+  Price: $101.99 CAD
 - [5' Artificial Silk Dragon Tree Custom Made on Natural Wood](https://www.silkplantscanada.com/products/5-foot-artificial-silk-dragon-tree-custom-made-on-natural-wood): Transform your space with a stunning 5 Foot Artificial Silk Dragon Tree on Natural Wood. Custom made for a touch of nature indoors.
-  Updated: 2026-02-13T08:49:34Z
+  Updated: 2026-04-13T17:31:42Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/5-Foot-Artificial-Silk-Dragon-Tree--on-Natural-Wood-Silk-Plants-Canada-1663801026.jpg?v=1742184654
-  Price: $179.99 CAD
+  Price: $149.99 CAD
 - [6' Artificial Silk Dragon Tree Custom Made on Natural Wood](https://www.silkplantscanada.com/products/6-foot-artificial-silk-dragon-tree-custom-made-on-natural-wood): Transform your space with our stunning 6 Foot Artificial Silk Dragon Tree, custom made on natural wood. Elevate your decor now!
-  Updated: 2026-02-13T08:49:34Z
+  Updated: 2026-04-13T17:31:11Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/6-Foot-Artificial-Silk-Dragon-Tree--on-Natural-Wood-Silk-Plants-Canada-1660151674.jpg?v=1741797423
-  Price: $329.99 CAD
+  Price: $245.99 CAD
 - [7' Artificial Silk Dragon Tree Custom Made on Natural Wood](https://www.silkplantscanada.com/products/7-foot-artificial-silk-dragon-tree-custom-made-on-natural-wood): Transform your space with our 7 Foot Artificial Silk Dragon Tree, custom made on natural wood. Elevate your decor with this stunning statement piece.
-  Updated: 2026-02-13T08:49:35Z
+  Updated: 2026-04-13T17:30:25Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/7-Foot-Artificial-Silk-Dragon-Tree-on-Natural-Wood-Silk-Plants-Canada-1663709933.jpg?v=1742204291
-  Price: $539.99 CAD
+  Price: $359.99 CAD
 - [8' Artificial Silk Dragon Tree Custom Made on Natural Wood](https://www.silkplantscanada.com/products/8-foot-artificial-silk-dragon-tree-custom-made-on-natural-wood): Transform your space with a stunning 8 Foot Artificial Silk Dragon Tree, custom-made on natural wood. Elevate your decor effortlessly.
-  Updated: 2026-02-28T03:01:25Z
+  Updated: 2026-04-13T17:29:38Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/8-Foot-Artificial-Silk-Dragon-Tree--on-Natural-Wood-Silk-Plants-Canada-1663781936.jpg?v=1741772445
-  Price: $699.99 CAD
+  Price: $479.99 CAD
 - [9' Artificial Silk Dragon Tree Custom Made on Natural Wood](https://www.silkplantscanada.com/products/9-foot-artificial-silk-dragon-tree-custom-made-on-natural-wood): Transform your space with our stunning 9 Foot Artificial Silk Dragon Tree on Natural Wood. Elevate your decor with this custom-made masterpiece.
-  Updated: 2026-02-13T08:49:35Z
+  Updated: 2026-04-13T17:28:32Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/9-Foot-Artificial-Silk-Dragon-Tree--on-Natural-Wood-Silk-Plants-Canada-1663781979.jpg?v=1741787440
-  Price: $999.99 CAD
+  Price: $660.00 CAD
 - [Metal Plant Stands Set of 2 Square Design  for Home|Office](https://www.silkplantscanada.com/products/metal-plant-stands-set-of-2-square-design): Elevate your plants with our Metal Plant Stands Set of 2 Square Design. Add style and organization to your indoor or outdoor space today.
   Updated: 2026-02-13T08:49:37Z
   Vendor: Silk Plants Canada
@@ -343,13 +343,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/7-Foot-Artificial-Silk-Canadian-Maple-Tree-on-Natural-Wood-Silk-Plants-Canada-1663709843.jpg?v=1741612839
   Price: $449.99 CAD
-- [3.5 Foot Artificial Silk Danica Ivy Fence UV Rated](https://www.silkplantscanada.com/products/3-5-foot-artificial-silk-danica-ivy-fence-uv-rated): Enhance your space with our 3.5 Foot Artificial Silk Danica Ivy Fence UV Rated - indoor and outdoor use. Say goodbye to maintenance and hello to elegance!
-  Updated: 2026-02-13T08:49:25Z
-  Vendor: Silk Plants Canada
-  Product Type: Artificial Ivy Fence
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/3.5-Foot-Artificial-Silk-Danica-Ivy-Fence-UV-Rated-Silk-Plants-Canada-1663799116.jpg?v=1764034252
-  Price: $109.99 CAD
 - [36 inch Artificial PVC African Dracaena Plant](https://www.silkplantscanada.com/products/36-inch-artificial-pvc-african-dracaena-plant): Elevate your space with a lifelike 36 inch Artificial PVC African Dracaena Plant. Bring the beauty of nature indoors effortlessly.
   Updated: 2026-03-28T02:36:59Z
   Vendor: Silk Plants Canada
@@ -505,7 +498,7 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/32-inch-Artificial-PVC-Upright-Grass-Plant-for-Indoor-and-Outdoor-Silk-Plants-Canada-1663796766.jpg?v=1741909665
   Price: $29.99 CAD
 - [21” Artificial PVC Bird Nest Grass Bush for Indoor Outdoor](https://www.silkplantscanada.com/products/21-inch-artificial-pvc-bird-nest-grass-for-indoor-and-outdoor): Bring nature indoors with our 21 inch Artificial PVC Bird Nest Grass - perfect for adding a touch of greenery to both indoor and outdoor spaces!
-  Updated: 2026-02-18T10:38:37Z
+  Updated: 2026-04-10T15:15:12Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Flora
   Availability: Available
@@ -638,7 +631,7 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/41-inch-Artificial-PVC-Snake-Silk-Plant-Silk-Plants-Canada-1663795648.jpg?v=1741651515
   Price: $55.00 CAD
 - [SunGuard UV Protectant Spray for all of your Outdoor Decor](https://www.silkplantscanada.com/products/sunguard-uv-protectant-spray-for-all-of-your-outdoor-decor-and-accessories): Keep your outdoor decor looking new with SunGuard UV Protectant Spray. Protect all your accessories from harmful UV rays. Order now!
-  Updated: 2026-03-05T16:41:17Z
+  Updated: 2026-04-13T17:19:44Z
   Vendor: Silk Plants Canada
   Product Type: Sunguard UV Protectant
   Availability: Available
@@ -735,13 +728,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/Artificial-PVC-Mini-Chili-Red-and-Orange-Pepper-Bush-Plant-Silk-Plants-Canada-1658481946.jpg?v=1739206777
   Price: $29.99 CAD
-- [33" Artificial Silk Hawaiian Arboricola Bush](https://www.silkplantscanada.com/products/33-inch-artificial-silk-hawaiian-arboricola-bush): Transform your space with a stunning 33 inch Artificial Silk Hawaiian Arboricola Bush. Bring the beauty of the tropics into your home today!
-  Updated: 2026-02-13T08:49:26Z
-  Vendor: Silk Plants Canada
-  Product Type: Artificial Flora
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/33-inch-Foot-inch-Artificial-Silk-Hawaiian-Arbicola-Bush-Silk-Plants-Canada-1658482002.jpg?v=1764034278
-  Price: $69.99 CAD
 - [44" Artificial Silk Dracaena Fragrans or Janet Craig Plant](https://www.silkplantscanada.com/products/44-inch-artificial-silk-dracaena-fragrans-or-janet-craig-plant): Bring natural beauty indoors with our lifelike 44 inch Artificial Silk Dracaena Fragrans or Janet Craig Plant. Elevate your home decor effortlessly.
   Updated: 2026-02-13T08:49:27Z
   Vendor: Silk Plants Canada
@@ -806,7 +792,7 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/35-inch-Artificial-Plastic-Grass-Bush-Medium-Green-Red-for-Indoor-and-Outdoor-N-Silk-Plants-Canada-1659043304.jpg?v=1764034303
   Price: $46.99 CAD
 - [21" Artificial PVC Grass Bush Green for Indoor or Outdoor](https://www.silkplantscanada.com/products/21-inch-artificial-plastic-grass-bush-green-for-indoor-and-outdoor): Transform your space with our 21 inch Artificial PVC Grass Bush – perfect for both indoor and outdoor use. Add a touch of greenery today!
-  Updated: 2026-02-13T08:49:35Z
+  Updated: 2026-04-10T15:15:17Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Flora
   Availability: Available
@@ -868,13 +854,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/products/28-inch-Artificial-PVC-Boxwood-Leaf-Trailing-Hanging-Bush-Vine-Silk-Plants-Canada-1658953740.jpg?v=1741651634
   Price: $20.00 CAD
-- [8' Artificial Silk Phoenix Palm Tree for Indoor and Outdoor](https://www.silkplantscanada.com/products/8-foot-artificial-silk-phoenix-palm-tree-for-indoor-and-outdoor): Transform your space with our 8' Artificial Silk Phoenix Palm Tree. Perfect for both indoor and outdoor use. Add a touch of nature to your surroundings today!
-  Updated: 2026-03-29T15:28:18Z
-  Vendor: Silk Plants Canada
-  Product Type: Artificial Palms
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/Artificial_Silk_8_Foot_Phoenix_Palm_Tree_4f3ebcfb-b765-418e-a2aa-8cc9c1d071e7.png?v=1770293343
-  Price: $329.99 CAD
 - [14 inch Artificial Charcoal Cameo Plastic Deco Container](https://www.silkplantscanada.com/products/14-inch-cameo-plastic-decorative-container-charcoal-grey): Transform your space with the stunning 14 inch Artificial Charcoal Cameo Plastic Deco Container. Elevate your decor effortlessly.
   Updated: 2026-02-13T08:49:39Z
   Vendor: Silk Plants Canada
@@ -1401,7 +1380,7 @@
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/OPTIMIZE_BACKUP_PRODUCT_45_inch_Peperomia_Tree_on_Natural_Wood-3.jpg?v=1765135973
   Price: $119.99 CAD
 - [artificial silk smilax tree made](https://www.silkplantscanada.com/products/46-artificial-silk-smilax-tree-green-burgundy-brown-leaves-custom-made): Transform your space with our stunning 46 Artificial Silk Smilax tree on natural wood with green, burgundy, and brown leaves. Elevate your decor!
-  Updated: 2026-03-07T15:45:02Z
+  Updated: 2026-04-10T03:01:07Z
   Vendor: Silk Plants Canada
   Product Type: Artificial Silk Smilax Tree
   Availability: Available
@@ -1421,7 +1400,28 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/3_Foot_Artificial_SIlk_Smilax_Tree_on_Wood_w_grn_bgdy_brn_lvs.jpg?v=1764798511
   Price: $94.99 CAD
-[List Continued](https://www.silkplantscanada.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTU1MzA4MTk2MDI3LCJsYXN0X3ZhbHVlIjoiODE1NTMwODE5NjAyNyJ9)
+- [artificial olive tree decorative](https://www.silkplantscanada.com/products/artificial-olive-tree-decorative-copper-container-28-inch): artificial olive tree decor Transform your space with this stunning 28-inch Artificial Olive Tree in Decorative Copper Container. Bring nature indoors effortles
+  Updated: 2026-03-07T15:05:26Z
+  Vendor: Silk Plants Canada
+  Product Type: 28" Silk Olive Tree on wood in a Decorative Metal Hammered Copper Container
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/28-inch-Olive-Tree-on-wood-in-a-Decorative-Metal-Hammered-Copper-Container-Silk-Plants-Canada-79374743.jpg?v=1772647292
+  Price: $69.99 CAD
+- [artificial money tree arrangement](https://www.silkplantscanada.com/products/artificial-money-tree-arrangement): artificial money tree arrangement Bring prosperity home with our stunning Artificial Money Tree Plant (Pachira) arrangement in a stylish metal vase. Shop now!
+  Updated: 2026-04-13T16:41:17Z
+  Vendor: Silk Plants Canada
+  Product Type: Artificial Silk Money Pachira Arrangement
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/Artificial_Money_aka_Pachira_Arrangement_in_Metal_Vase.jpg?v=1764715106
+  Price: $44.99 CAD
+- [artificial snake plant in ceramic planter](https://www.silkplantscanada.com/products/artificial-snake-plant-in-ceramic-planter): artificial snake plant in ceramic planter Transform your space with a stunning 51 Inch Artificial Snake Plant (Sansevieria) in a charming Ceramic Planter. Eleva
+  Updated: 2026-04-09T07:28:50Z
+  Vendor: Silk Plants Canada
+  Product Type: 51 inch Artificial Snake Plant (Sansevieria) in Ceramic Planter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0582/4207/2763/files/51_inch_Snake_w_4ppp_in_Deco_Container_69fb09b5-b8f6-4ef3-842b-091e3d6e4f81.jpg?v=1764797022
+  Price: $349.99 CAD
+[List Continued](https://www.silkplantscanada.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTk0NDUyNDU1NjExLCJsYXN0X3ZhbHVlIjoiODE5NDQ1MjQ1NTYxMSJ9)
 
 ## Collections
 
@@ -1429,28 +1429,28 @@
   Updated: 2026-03-21T11:27:05Z
   Total Products: 99
 - [Artificial PVC Plants, Trees, Grasses, Palms, Hedges](https://www.silkplantscanada.com/collections/artificial-pvc-plants-trees-grasses-palms-hedges-indoor-outdoor): Transform your space with our collection of Artificial PVC Plants, Trees, Grasses, Palms, Hedges for Indoor/Outdoor. Shop now for a lush green paradise!
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-11T11:28:48Z
   Total Products: 154
 - [Artificial Bonsai. Shop Silk Plants Canada!](https://www.silkplantscanada.com/collections/artificial-bonsai): Discover our exquisite Artificial Bonsai. Lifelike, handcrafted faux bonsai for timeless indoor/outdoor beauty. Perfect, low-maintenance gift or decor!
-  Updated: 2026-03-24T11:12:11Z
+  Updated: 2026-04-08T15:37:18Z
   Total Products: 7
 - [Artificial Cactus & Faux PVC Cactus for Home or Office](https://www.silkplantscanada.com/collections/artificial-cactus): Create a stunning cactus garden with our realistic Artificial Cactus & Faux PVC Cactus. Lifelike, low-maintenance, and perfect for indoor or outdoor landscaping
   Updated: 2026-03-20T23:38:38Z
   Total Products: 19
 - [ Silk Plants Artificial Plants & Faux Decor](https://www.silkplantscanada.com/collections/clear-outs): Discover stunning  Silk Plants, Artificial Plants & Faux Decor at unbeatable prices. Shop now and elevate your space with elegance.
-  Updated: 2026-03-20T22:09:44Z
+  Updated: 2026-04-08T15:36:43Z
   Total Products: 148
 - [Artificial Silk Tree Branches for Home and Office Design](https://www.silkplantscanada.com/collections/artificial-silk-tree-branches-for-home-and-office-design): Transform your home and office with high-quality Artificial Silk Tree Branches for Home and Office Design. Upgrade your space today!
   Updated: 2026-03-06T12:25:20Z
   Total Products: 34
 - [Artificial Palms & Silk Palms for  in Canada](https://www.silkplantscanada.com/collections/artificial-palms-silk-palms-indoor-outdoor): Transform your space with lifelike Artificial Palms & Silk Palms for both indoor and outdoor settings. Elevate your decor with elegance and style.
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-08T15:38:41Z
   Total Products: 86
 - [Artificial Plants & Silk Plants for Indoor and Outdoor](https://www.silkplantscanada.com/collections/artificial-silk-plants): Transform your space with lifelike Artificial Plants & Silk Plants for Indoor and Outdoor. Shop now for the perfect touch of greenery!
-  Updated: 2026-03-20T23:20:30Z
+  Updated: 2026-04-14T11:29:32Z
   Total Products: 98
 - [Custom Artificial Trees and Silk Trees | Indoor/Outdoor](https://www.silkplantscanada.com/collections/artificial-trees-and-silk-trees-for-indoor-and-outdoor): Elevate your space with custom-made artificial trees and silk trees from Canada. Lifelike, durable designs for indoor/outdoor home, office & commercial use.
-  Updated: 2026-03-21T11:27:05Z
+  Updated: 2026-04-13T17:33:16Z
   Total Products: 169
 - [Artificial Silk Ivies | Indoor/Outdoor Trailing Greenery](https://www.silkplantscanada.com/collections/artificial-ivies): Add lush greenery with our Artificial Silk Ivies. Lifelike faux trailing vines for indoor & outdoor decor. Perfect for cupboards, ledges & patios.
   Updated: 2026-03-30T11:28:00Z
@@ -1459,13 +1459,13 @@
   Updated: 2026-03-20T23:49:10Z
   Total Products: 46
 - [Artificial Faux Grasses | Indoor/Outdoor Greenery](https://www.silkplantscanada.com/collections/artificial-grasses-faux-grasses): Transform your home & garden with our Artificial Faux Grasses. Lifelike, low-maintenance indoor/outdoor greenery for containers & landscaping. Shop now!
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-11T11:28:48Z
   Total Products: 69
 - [Artificial Faux Ferns | Indoor/Outdoor Silk & PVC Greenery](https://www.silkplantscanada.com/collections/artificial-ferns-and-faux-ferns): Shop realistic artificial faux ferns for home or office. Lifelike silk & PVC options for indoor/outdoor use. Low-maintenance greenery for any decor!
   Updated: 2026-03-24T11:36:50Z
   Total Products: 20
 - [Artificial Silk Arrangements made with Quality Flowers](https://www.silkplantscanada.com/collections/artificial-silk-arrangements-made): Looking for stunning Artificial Silk Arrangements made with Quality Flowers? Browse our collection for premium faux floral beauty and more!
-  Updated: 2026-03-07T01:00:45Z
+  Updated: 2026-04-13T11:28:22Z
   Total Products: 44
 - [Warehouse Clear Outs and Specials - Silk Plants Canada](https://www.silkplantscanada.com/collections/warehouse-clear-outs-and-specials): Shop limited quantity & discontinued artificial silk plants, palms, trees & accessories in our Warehouse Clear Outs & Specials. Great deals on home/office decor!
   Updated: 2025-10-07T18:57:09Z
@@ -1477,22 +1477,22 @@
   Updated: 2025-12-05T03:12:22Z
   Total Products: 2
 - [Ultimate Search Bestseller Collection | Silk Plants Canada](https://www.silkplantscanada.com/collections/ultimate-search-bestseller-collection-do-not-delete): Discover the hottest products in the Ultimate Search Bestseller Collection! Find top-rated items that everyone is talking about. Shop now!
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-14T11:29:32Z
   Total Products: 681
 - [Best Sellers: Artificial Plants, Trees & Hedges in Canada](https://www.silkplantscanada.com/collections/best-sellers): Best Sellers shop top-rated artificial plants, custom silk trees, hedges, flowers, ferns and ivies. Find customer favorites at Silk Plants Canada!
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-13T11:28:22Z
   Total Products: 27
 - [New Artificial Silk Product Arriving from Silk Plants Canada](https://www.silkplantscanada.com/collections/new-artificial-silk-product-arriving-from-silk-plants-canada): Discover the latest trends with the New Artificial Silk Product Arriving from Silk Plants Canada. Elevate your space with high-quality silk plants today!
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-14T11:29:32Z
   Total Products: 545
 - [Artificial Silk Trees Collection - Faux Decorative Trees](https://www.silkplantscanada.com/collections/artificial-silk-trees-collection): Explore our All Artificial Silk Trees Collection plants, grasses, palms, ivies, bonsai & more! Custom-made, durable, UV protected greenery for home & office.
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-14T11:29:32Z
   Total Products: 544
 - [Silk Plants Canada on Facebook | Shop All Artificial Plants & Trees](https://www.silkplantscanada.com/collections/facebook): Find all Silk Plants Canada artificial plants, trees, flowering plants, hedges & decor accessories on Facebook! Explore our full product range & get decor inspiration.
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-14T11:29:32Z
   Total Products: 698
 - [AVADA - Best Sellers](https://www.silkplantscanada.com/collections/avada-best-sellers)
-  Updated: 2026-03-30T11:28:00Z
+  Updated: 2026-04-14T11:29:32Z
   Total Products: 681
 - [All Product](https://www.silkplantscanada.com/collections/all-product)
   Updated: 2026-03-09T21:15:29Z
