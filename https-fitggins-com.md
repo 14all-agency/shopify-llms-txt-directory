@@ -14,12 +14,12 @@ Fitggins: estilo, comodidad y confianza para cada día.
 - Timezone: America/Chicago
 - Created At: 2020-01-13T18:29:23Z
 - Contact Email: support@fitggins.com
-- Updated At: 2026-03-24T19:58:54.646Z
+- Updated At: 2026-04-15T00:00:30.364Z
 
 ## Products
 
 - [Millennia Wide Strap Active Romper](https://fitggins.com/products/millennia-wide-strap-active-romper): Features: Basic style Stretch: Stretchy Material composition: 80% nylon, 20%spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:4:Top Length 29.92 in, Bust 26.77 in, Waist 23.62 in, HIP 27.95 in6:Top Length 30.71 in, Bust 28.35 in, Waist 25.20 in, HIP 29.53 in8:Top Length 31.50 in, Bust 29.92 in, Waist 26.77 in, HIP 31.10 in10:Top Length 32.28 in, Bust 31.50 in, Waist 28.35 in, HIP 32.68 in12:Top Length 33.07 in, Bust 33.07 in, Waist 29.92 in, HIP 34.25 in
-  Updated: 2026-03-24T12:28:56Z
+  Updated: 2026-04-03T02:36:36Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -105,7 +105,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0817d12d-e7ae-4b0d-a577-db1711ab0467-Max.webp?v=1774354605
     Price: $35.40 USD
 - [Half Zip Short Sleeve Active Romper](https://fitggins.com/products/half-zip-short-sleeve-active-romper): Features: Basic style Stretch: Moderate stretch Material composition: 78% nylon, 22% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:XS:Top Length 28.74 in, Shoulder 13.70 in, Bust 27.17 in, HIP 22.05 in, Waist 22.05 in, Sleeve Length 4.53 inS:Top Length 29.53 in, Shoulder 14.17 in, Bust 28.74 in, HIP 23.62 in, Waist 23.62 in, Sleeve Length 4.72 inM:Top Length 30.31 in, Shoulder 14.65 in, Bust 30.31 in, HIP 25.20 in, Waist 25.20 in, Sleeve Length 4.92 inL:Top Length 31.10 in, Shoulder 15.12 in, Bust 31.89 in, HIP 26.77 in, Waist 26.77 in, Sleeve Length 5.12 inXL:Top Length 31.89 in, Shoulder 15.59 in, Bust 33.46 in, HIP 28.35 in, Waist 28.35 in, Sleeve Length 5.31 in2XL:Top Length 32.68 in, Shoulder 16.06 in, Bust 35.04 in, HIP 29.92 in, Waist 29.92 in, Sleeve Length 5.51 in
-  Updated: 2026-03-24T12:28:56Z
+  Updated: 2026-04-02T21:45:47Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -183,7 +183,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3217065e-a9d9-4b3e-b00c-fff6ac63301d-Max.webp?v=1774354614
     Price: $36.92 USD
 - [Dropped Shoulder Hooded Top and Pants Active Set](https://fitggins.com/products/dropped-shoulder-hooded-top-and-pants-active-set): Features: Drawstring, Pocketed Number of pieces: Two-piece Stretch: No stretch Material composition: 50% polyester, 50% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length Waist Hip Bottom Length S 4 44.1 21.9 21.1 26 40.9 39.4 M 6/8 46.5 22 21.9 28.3 43.3 39.8 L 10/12 48.8 22.2 22.6 30.7 45.7 40.2 XL 14/16 52 22.4 23.4 33.9 48.8 40.6 2XL 18 55.1 22.6 24.2 37 52 40.9
-  Updated: 2026-03-24T12:29:05Z
+  Updated: 2026-04-08T06:11:03Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -209,7 +209,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe3c1e89-f208-462f-a02c-3442ddd45c45-Max.webp?v=1774354634
     Price: $63.12 USD
 - [Spaghetti Strap Round Neck Romper](https://fitggins.com/products/spaghetti-strap-round-neck-romper): Features: Basic style Stretch: Moderate stretch Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 27.17 in, Bust 25.98 in, Waist 23.62 in, HIP 30.71 inM:Top Length 27.56 in, Bust 27.56 in, Waist 25.20 in, HIP 32.28 inL:Top Length 27.95 in, Bust 29.13 in, Waist 26.77 in, HIP 33.86 inXL:Top Length 28.35 in, Bust 30.71 in, Waist 28.35 in, HIP 35.43 in
-  Updated: 2026-03-24T12:28:55Z
+  Updated: 2026-04-02T21:53:56Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -263,7 +263,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e302b7ce-48f5-4831-b734-2275a34d6f28-Max.webp?v=1774354645
     Price: $38.14 USD
 - [Collared Sweatshirt and High Waist Pants Active Set](https://fitggins.com/products/collared-sweatshirt-and-high-waist-pants-active-set): Features:Buttoned,Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:56% cotton, 44% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust M 24 41.7 43.3 L 24.8 44.1 45.7 XL 25.6 47.2 48.8 2XL 26.4 50.4 52
-  Updated: 2026-03-24T12:28:55Z
+  Updated: 2026-04-02T22:00:49Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -333,7 +333,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cca141c8-1f25-45be-b460-f38ec862a272-Max-Origin.webp?v=1774354655
     Price: $61.02 USD
 - [Half Snap Turtleneck Top and Pants Active Set](https://fitggins.com/products/half-snap-turtleneck-top-and-pants-active-set): Features: Basic style Number of pieces: Two-piece Stretch: No stretch Material composition: 50% polyester, 50% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length Waist Hip Bottom Length S 4 43.3 21.5 24.8 26 40.9 39.8 M 6/8 45.7 21.7 25.6 28.3 43.3 40.2 L 10/12 48 21.9 26.4 30.7 45.7 40.6 XL 14/16 51.2 22 27.2 33.9 48.8 40.9 2XL 18 54.3 22.2 28 37 52 41.3
-  Updated: 2026-03-24T12:28:55Z
+  Updated: 2026-04-08T06:11:06Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -359,7 +359,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/54108516-8239-4f23-b448-434966a12bf9-Max.webp?v=1774354664
     Price: $61.89 USD
 - [Sleeveless Straight Active Jumpsuit](https://fitggins.com/products/sleeveless-straight-active-jumpsuit): Features: Basic style Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 25.59 in, Waist 22.83 in, Top Length 31.89 in, HIP 29.13 inM:Bust 27.17 in, Waist 24.41 in, Top Length 32.28 in, HIP 30.71 inL:Bust 28.74 in, Waist 25.98 in, Top Length 32.68 in, HIP 32.28 inXL:Bust 30.31 in, Waist 27.56 in, Top Length 33.07 in, HIP 33.86 in
-  Updated: 2026-03-24T12:28:54Z
+  Updated: 2026-04-06T01:36:00Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -413,7 +413,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ab2debe-4c53-45c3-bc03-47a5540b28be-Max.webp?v=1774354674
     Price: $40.60 USD
 - [Backless Sleeveless Active Romper](https://fitggins.com/products/backless-sleeveless-active-romper): Features:Basic style Stretch:Highly stretchy Material composition:80% polyamide, 20% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Waist Hip S 28.3 29.9 25.2 29.1 M 28.8 31.5 26.8 30.7 L 29.5 33.9 29.1 33.1 XL 30.2 36.2 31.5 35.4
-  Updated: 2026-03-24T12:28:54Z
+  Updated: 2026-04-02T22:21:48Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -435,7 +435,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/55e3ac8fedcf4ce4aae7db7da3a15395-Max.jpg?v=1774354684
     Price: $27.93 USD
 - [Zip-Up Hoodie and Pants Active Set](https://fitggins.com/products/zip-up-hoodie-and-pants-active-set): Features:Drawstring,Zipper Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:75% polyester, 20% cotton, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Bottom Length Inseam Sleeve Length S 22.2 37.8 45.3 40.2 28.7 19.9 M 22.8 40.2 47.6 40.6 28.7 20.1 L 23.4 42.5 50 40.9 28.8 20.3 XL 24 45.7 53.1 41.3 28.8 20.5 2XL 24.6 48.8 56.3 41.7 28.8 20.7
-  Updated: 2026-03-24T12:28:54Z
+  Updated: 2026-04-13T02:50:46Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -501,7 +501,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2741979c-d594-4d32-bd30-41a7be0f00dc-Max-Origin.webp?v=1774354695
     Price: $63.30 USD
 - [Drop Shoulder Zip Up Jacket and Drawstring Pants Active 2pcs Set](https://fitggins.com/products/drop-shoulder-zip-up-jacket-and-drawstring-pants-active-2pcs-set): Features:Drawstring,Pocketed,Zipper Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:50% polyester, 50% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Bottom Length Waist S 25.2 40.9 44.9 40.9 26 M 26 43.3 47.2 41.3 28.3 L 26.7 45.7 49.6 41.7 30.7 XL 27.5 48.8 52.8 42.1 33.9 2XL 28.2 52 55.9 42.5 37
-  Updated: 2026-03-24T12:29:04Z
+  Updated: 2026-04-07T01:40:57Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -567,7 +567,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74a4d65a-702e-4fc0-9f23-b988a80abab6-Max-Origin.webp?v=1774354706
     Price: $59.86 USD
 - [Crisscross Wide Strap Active Romper](https://fitggins.com/products/crisscross-wide-strap-active-romper): Features:Crisscross Stretch:Highly stretchy Material composition:90% polyester，10% elastane Care instructions:Machine wash cold. Tumble dry low. Imported
-  Updated: 2026-03-24T12:28:53Z
+  Updated: 2026-04-02T22:47:52Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -645,7 +645,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/de99adf5-e9ea-41d7-97c2-d5797a1d2785-Max.webp?v=1774354716
     Price: $36.01 USD
 - [Dropped Shoulder Long Sleeve Hoodie and Pants Active Set](https://fitggins.com/products/dropped-shoulder-long-sleeve-hoodie-and-pants-active-set): Features:Basic style Number of pieces:Two-piece Stretch:No stretch Material composition:50% polyester, 50% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length Waist Hip Bottom Length S 4 44.1 24.8 19.7 23.6 25.2 41.3 39.8 M 6/8 46.5 25.8 19.9 24.4 27.6 43.7 40.2 L 10/12 48.8 26.8 20.1 25.2 29.9 46.1 40.6 XL 14/16 52 28 20.3 26 33.1 49.2 40.9 2XL 18 55.1 29.1 20.5 26.8 36.2 52.4 41.3
-  Updated: 2026-03-24T12:28:53Z
+  Updated: 2026-04-08T06:11:06Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -671,7 +671,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c8878f87-d251-487e-9df9-4fd91586d141-Max.webp?v=1774354726
     Price: $58.97 USD
 - [Drawstring Sleeveless Crop Sports Top and Biker Shorts Set](https://fitggins.com/products/drawstring-sleeveless-crop-sports-top-and-biker-shorts-set): Sizing category: Regular Activity: Yoga Picture style: Studio Pattern type: Solid Features: Soft, feel like skin Neckline: Round neck Sleeve length: Sleeveless Sleeve type: Sleeveless Material: 50% cotton, 43% polyster, 7% spandex Stretch: Highly stretchy Sheer: No Body: Not lined Chest pad: No padding Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: Top:S: shoulder 11 in, bust 29 in, waist 23 in, length 16 inM: shoulder 11 in, bust 30 in, waist 24 in, length 17 inL: shoulder 11 in, bust 32 in, waist 26 in, length 17 inXL: shoulder 12 in, bust 34 in, waist 27 in, length 18 inBottoms:S: waist 22-26 in, hip 31 in, length 18 inM: waist 23-27 in, hip 33 in, length 19 inL: waist 25-29 in, hip 34 in, length 19 inXL: waist 27-30 in, hip 36 in, length 20 in
-  Updated: 2026-03-24T12:28:53Z
+  Updated: 2026-04-02T22:50:59Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -693,7 +693,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/57a638243c5b45abb345ea401708eec6-Max.jpg?v=1774354736
     Price: $33.61 USD
 - [Drop Shoulder Loose Sweatshirt and Joggers Active Set](https://fitggins.com/products/drop-shoulder-loose-sweatshirt-and-joggers-active-set): Features:Oversized,Contrast Stitching,Drawstring,Pocketed Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:50% polyester, 50% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Bottom Length- Waist S 26 39.4 44.9 39.8 26 M 26.8 41.7 47.2 40.2 28.3 L 27.6 44.1 49.6 40.6 30.7 XL 28.3 47.2 52.8 40.9 33.9 2XL 29.1 50.4 55.9 41.3 37
-  Updated: 2026-03-24T12:28:52Z
+  Updated: 2026-04-02T22:52:42Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -739,7 +739,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cd5fa854-364c-4ed0-b839-e3e59688b7eb-Max-Origin.webp?v=1774354745
     Price: $56.45 USD
 - [Crisscross Wide Strap Sleeveless Jumpsuit](https://fitggins.com/products/crisscross-wide-strap-sleeveless-jumpsuit): Features: Crisscross Stretch: Moderate stretch Material composition: 80% nylon, 20% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 54.72 in, Bust 27.56 in, Waist 24.02 in, HIP 29.13 inM:Top Length 55.71 in, Bust 29.13 in, Waist 25.59 in, HIP 30.71 inL:Top Length 56.69 in, Bust 30.71 in, Waist 27.17 in, HIP 32.28 inXL:Top Length 57.68 in, Bust 32.28 in, Waist 28.74 in, HIP 33.86 in
-  Updated: 2026-03-24T12:29:02Z
+  Updated: 2026-04-10T18:34:38Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -825,7 +825,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8661af1f-32b9-4e33-b7d3-07e7d86e2908-Max.webp?v=1774354756
     Price: $40.60 USD
 - [Twisted Backless Long Sleeve Jumpsuit](https://fitggins.com/products/twisted-backless-long-sleeve-jumpsuit): Features: Twisted Stretch: Moderate stretch Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 48.43 in, Bust 29.92 in, Waist 22.05 in, HIP 27.56 inM:Top Length 49.61 in, Bust 31.50 in, Waist 23.62 in, HIP 29.13 inL:Top Length 50.79 in, Bust 33.07 in, Waist 25.20 in, HIP 30.71 inXL:Top Length 51.97 in, Bust 34.65 in, Waist 26.77 in, HIP 32.28 in
-  Updated: 2026-03-24T12:28:52Z
+  Updated: 2026-04-02T23:10:56Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -895,7 +895,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/57226021-5374-4c7c-a18a-a8493c86962a-Max.webp?v=1774354777
     Price: $42.89 USD
 - [Square Neck Cap Sleeve Active Romper](https://fitggins.com/products/square-neck-cap-sleeve-active-romper): Features: Basic style Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 28.35 in, Bust 25.20 in, Waist 20.47 in, HIP 28.35 inM:Top Length 28.74 in, Bust 26.77 in, Waist 22.05 in, HIP 29.92 inL:Top Length 29.13 in, Bust 28.35 in, Waist 23.62 in, HIP 31.50 inXL:Top Length 29.53 in, Bust 29.92 in, Waist 25.20 in, HIP 33.07 in
-  Updated: 2026-03-24T12:28:51Z
+  Updated: 2026-04-02T23:15:32Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -981,7 +981,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9a69865d-3d19-4aad-947d-59a13b5860f0-Max.webp?v=1774354788
     Price: $36.12 USD
 - [Half Zip Mock Neck Active Jumpsuit](https://fitggins.com/products/half-zip-mock-neck-active-jumpsuit): Features: Basic style Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 24.41 in, Top Length 50.00 in, Waist 21.26 in, HIP 27.95 inM:Bust 25.98 in, Top Length 50.39 in, Waist 22.83 in, HIP 29.53 inL:Bust 27.56 in, Top Length 50.79 in, Waist 24.41 in, HIP 31.10 inXL:Bust 29.13 in, Top Length 51.18 in, Waist 25.98 in, HIP 32.68 in
-  Updated: 2026-03-24T12:28:51Z
+  Updated: 2026-04-02T23:20:56Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1083,7 +1083,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/acc52cb4-3240-498c-9c21-5d14a0e2ad24-Max.webp?v=1774354797
     Price: $40.60 USD
 - [Half Zip Long Sleeve Active Romper](https://fitggins.com/products/half-zip-long-sleeve-active-romper): Features: Basic style Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 25.20 in, Waist 22.05 in, Top Length 29.53 inM:Bust 26.77 in, Waist 23.62 in, Top Length 29.92 inL:Bust 28.35 in, Waist 25.20 in, Top Length 30.31 inXL:Bust 29.92 in, Waist 26.77 in, Top Length 30.71 in
-  Updated: 2026-03-24T12:28:51Z
+  Updated: 2026-04-02T23:23:09Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1169,7 +1169,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43956dbf-2eda-45ac-9f2c-5d34b3be507d-Max.webp?v=1774354808
     Price: $38.15 USD
 - [Single Shoulder Active Romper](https://fitggins.com/products/single-shoulder-active-romper): Features: Basic style Stretch: Moderate stretch Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length Waist S 2/4 29.9 29.3 22 M 6 31.5 30.1 23.6 L 8 33.1 30.9 25.2
-  Updated: 2026-03-24T12:28:51Z
+  Updated: 2026-04-02T23:23:11Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1187,7 +1187,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e6bd5fe7-acde-452f-af55-03f69ce0e5f6-Max.webp?v=1774354817
     Price: $42.39 USD
 - [Square Neck Long Sleeve Active Romper](https://fitggins.com/products/square-neck-long-sleeve-active-romper): Features: Basic style Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 25.98 in, Waist 22.83 in, HIP 29.92 in, Top Length 27.56 inM:Bust 27.56 in, Waist 24.41 in, HIP 31.50 in, Top Length 27.95 inL:Bust 29.13 in, Waist 25.98 in, HIP 33.07 in, Top Length 28.35 inXL:Bust 30.71 in, Waist 27.56 in, HIP 34.65 in, Top Length 28.74 in
-  Updated: 2026-03-24T12:28:51Z
+  Updated: 2026-04-02T23:25:11Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1241,7 +1241,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d5ac1266-79df-48e2-9657-dc4bc56098db-Max.webp?v=1774354833
     Price: $36.12 USD
 - [Crisscross Wide Strap Active Jumpsuit](https://fitggins.com/products/crisscross-wide-strap-active-jumpsuit): Features: Crisscross Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 48.03 in, Bust 28.35 in, Waist 23.62 in, HIP 29.13 inM:Top Length 48.62 in, Bust 29.92 in, Waist 25.20 in, HIP 30.71 inL:Top Length 49.21 in, Bust 31.50 in, Waist 26.77 in, HIP 32.28 in
-  Updated: 2026-03-24T12:28:50Z
+  Updated: 2026-04-02T23:25:08Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1259,7 +1259,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da15652e-d62f-485a-b691-4ad3af4fc0da-Max.webp?v=1774354843
     Price: $40.51 USD
 - [Two-Tone Ring Detail Tied Bikini Set](https://fitggins.com/products/two-tone-ring-detail-tied-bikini-set): Top type: No underwire Number of pieces: Two Chest pad: Removable padding Pattern type: Contrast Style: Sexy, Beach Features: Grommet Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:46:11Z
+  Updated: 2026-04-02T23:27:27Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1289,7 +1289,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f6026e4d0c444508a6dd4d31422c9278-Max.jpg?v=1774355674
     Price: $33.05 USD
 - [Spaghetti Strap Ribbed Bikini Set](https://fitggins.com/products/spaghetti-strap-ribbed-bikini-set): Top type: No underwire Bottom type: Mid waist Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Basic style Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: under bust 26 in, waist 24-26 in, hip 34-35 inM: under bust 27.5 in, waist 26-28 in, hip 35-37 inL: under bust 29 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:46:11Z
+  Updated: 2026-04-02T23:30:37Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1355,7 +1355,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3e42ea6055741138dbf3e33fe8fe0be-Max.jpg?v=1774355696
     Price: $33.01 USD
 - [Two-Tone Tied Two-Piece Swimsuit](https://fitggins.com/products/two-tone-tied-two-piece-swimsuit): Top type: No underwire Bottom type: High waist Number of pieces: Two-piece Chest pad: Removable Padding Pattern type: Floral, Leopard Style: Beach Features: Tie Material composition: 82% nylon, 18% spandex Stretch: Moderate stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 28 in, hip 28 in, length 13 in, hem width 24 in, waist 24 inM: bust 30 in, hip 30 in, length 14 in, hem width 26 in, waist 26 inL: bust 32 in, hip 32 in, length 14 in, hem width 28 in, waist 28 inXL: bust 34 in, hip 34 in, length 15 in, hem width 30 in, waist 30 in
-  Updated: 2026-03-24T12:46:00Z
+  Updated: 2026-04-14T08:00:37Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1405,11 +1405,11 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/063ea37219774e0eb63161e6fb9d05e4-Max.jpg?v=1774355707
     Price: $38.76 USD
   - [Red / XL](https://fitggins.com/products/two-tone-tied-two-piece-swimsuit?variant=52751677489480)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/063ea37219774e0eb63161e6fb9d05e4-Max.jpg?v=1774355707
     Price: $38.76 USD
 - [Leopard Print Halter Neck Tie Side Bikini Set](https://fitggins.com/products/leopard-print-halter-neck-tie-side-bikini-set): Top type: No underwire Number of pieces: Two Chest pad: Removable padding Pattern type: Leopard Style: Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:46:00Z
+  Updated: 2026-04-14T02:08:26Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1487,7 +1487,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/944e202524e545879af37620585fb658-Max.jpg?v=1774355717
     Price: $32.65 USD
 - [Printed Tie Back Low Waist Two-Piece Bikini Set](https://fitggins.com/products/printed-tie-back-low-waist-two-piece-bikini-set): Top type: No underwire Bottom type: Low waist Number of pieces: Two-piece Chest pad: No padding Pattern type: Printed Style: Beach Features: Tie, Crisscross Material composition: 90% polyester, 10% spandex Stretch: Stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: Top:S: bust 27-31 in, length 7 inM: bust 29-33 in, length 7 inL: bust 30-34 in, length 7 inXL: bust 32-36 in, length 8 inBottoms:S: waist 22-26 in, length 9 inM: waist 23-27 in, length 9 inL: waist 25-29 in, length 10 inXL: waist 27-30 in, length 10 in
-  Updated: 2026-03-24T12:46:00Z
+  Updated: 2026-04-02T23:37:57Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1525,7 +1525,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ee6c17244d8e4416b0d7dbf08e7bdd60-Max.jpg?v=1774355739
     Price: $35.12 USD
 - [Ribbed Tie Back Bikini Set](https://fitggins.com/products/ribbed-tie-back-bikini-set): Top type: No underwire Bottom type: High cut Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Tie Material composition: 80% polyamide, 20% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:46:00Z
+  Updated: 2026-04-13T19:52:37Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1567,7 +1567,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a36f2df0-2992-461d-8828-c0f3a536d794-Max.webp?v=1774355746
     Price: $32.65 USD
 - [Frill Trim Ruched Bikini Set](https://fitggins.com/products/frill-trim-ruched-bikini-set): Top type: No underwire Bottom type: Tie side Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Ruched, Tie Material composition: 80% polyamide, 20% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:45:59Z
+  Updated: 2026-04-02T23:44:37Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1681,7 +1681,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1774355759
     Price: $32.99 USD
 - [Halter Neck Drawstring Detail Bikini Set](https://fitggins.com/products/halter-neck-drawstring-detail-bikini-set): Top type: No underwire Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Tie, Crisscross Material composition: 80% polyamide, 20% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: Top:S: length 7 in, bust 34 in, cup height 4 inM: length 8 in, bust 36 in, cup height 5 inL: length 8 in, bust 38 in, cup height 5 inBottoms:S: length 10 in, waist 27-38 inM: length 10 in, waist 28-40 inL: length 11 in, waist 30-42 in
-  Updated: 2026-03-24T12:45:58Z
+  Updated: 2026-04-02T23:44:35Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1699,13 +1699,13 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cc2b0bf2b9124f1eac6849a06ae4c35d-Max.jpg?v=1774355777
     Price: $33.35 USD
 - [Halter Neck Fishnet Bikini Set](https://fitggins.com/products/halter-neck-fishnet-bikini-set): Top type: No underwire Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Tropical, Beach Features: Crisscross Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:45:58Z
+  Updated: 2026-04-12T14:01:19Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8da42c5a29d4b04bf6a110967f3ae2f-Max.jpg?v=1774355786
   - [Ivory / S](https://fitggins.com/products/halter-neck-fishnet-bikini-set?variant=52751682830664)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8da42c5a29d4b04bf6a110967f3ae2f-Max.jpg?v=1774355786
     Price: $33.49 USD
   - [Ivory / M](https://fitggins.com/products/halter-neck-fishnet-bikini-set?variant=52751682863432)
@@ -1717,7 +1717,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8da42c5a29d4b04bf6a110967f3ae2f-Max.jpg?v=1774355786
     Price: $33.49 USD
 - [Halter Neck Crisscross Ribbed Bikini Set](https://fitggins.com/products/halter-neck-crisscross-ribbed-bikini-set): Top type: No underwire Bottom type: High cut Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:45:58Z
+  Updated: 2026-04-11T02:44:17Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1771,13 +1771,13 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/08eeea5e99d7478e993f1c6be7eff0c9-Max.jpg?v=1774355797
     Price: $32.97 USD
 - [Rhinestone Decor Halter Neck Bikini Set](https://fitggins.com/products/rhinestone-decor-halter-neck-bikini-set): Top type: No underwire Bottom type: Tie side Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach, Tropical Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:45:56Z
+  Updated: 2026-04-02T23:49:38Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/138769f2921a430eae711b0edfe892e5-Max.jpg?v=1774355808
   - [Forest / S](https://fitggins.com/products/rhinestone-decor-halter-neck-bikini-set?variant=52751683387720)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/138769f2921a430eae711b0edfe892e5-Max.jpg?v=1774355808
     Price: $34.63 USD
   - [Forest / M](https://fitggins.com/products/rhinestone-decor-halter-neck-bikini-set?variant=52751683420488)
@@ -1789,7 +1789,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/138769f2921a430eae711b0edfe892e5-Max.jpg?v=1774355808
     Price: $34.63 USD
 - [Multicolored Drawstring Ruched Three-Piece Swim Set](https://fitggins.com/products/multicolored-drawstring-ruched-three-piece-swim-set): Top type: No underwire Bottom type: Thongs Number of pieces: Three-piece Chest pad: Removable padding Pattern type: Multicolored Style: Outdoors, Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: Top:S: length 7 in, bust 34 inM: length 7 in, bust 36 inL: length 8 in, bust 37 inSkirt:S: waist 24 in, length 15 inM: waist 26 in, length 15 inL: waist 27 in, length 16 inBottoms:S: waist 27 in, length 9 inM: waist 28 in, length 9 inL: waist 30 in, length 10 in
-  Updated: 2026-03-24T12:45:56Z
+  Updated: 2026-04-07T08:36:27Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1807,7 +1807,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f5e7430b528b4604a7aec1e889a5ad2a-Max.jpg?v=1774355819
     Price: $34.06 USD
 - [Frill Trill Halter Neck Bikini Set](https://fitggins.com/products/frill-trill-halter-neck-bikini-set): Top type: No underwire Bottom type: Tie side Number of pieces: Two Chest pad: Removable padding Pattern type: Leopard, Solid Style: Beach Features: Tie, Frill Material composition: Leopard:82% polyester, 18% elastaneSolid: 80% polyamide, 20% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2026-03-24T12:45:56Z
+  Updated: 2026-04-02T23:50:58Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1873,7 +1873,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecb1b0efc56e4aa5907165741613d8d1-Max.jpg?v=1774355828
     Price: $33.08 USD
 - [Glitter Halter Neck Strappy Two-Piece Bikini Set](https://fitggins.com/products/glitter-halter-neck-strappy-two-piece-bikini-set): Top type: No underwire Bottom type: Thongs Number of pieces: Two-piece Chest pad: Removable padding Pattern type: Printed Style: Sexy, Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: Top:S: length 5 in, bust 34 inM: length 6 in, bust 36 inL: length 6 in, bust 37 inBottoms:S: waist 27 in, length 9 inM: waist 28 in, length 9 inL: waist 30 in, length 10 in
-  Updated: 2026-03-24T12:45:56Z
+  Updated: 2026-04-02T23:51:32Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1891,7 +1891,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fce2191874594490aefd770782afdbd5-Max.jpg?v=1774355843
     Price: $32.69 USD
 - [Smocked Lantern Sleeve Round Neck Blouse](https://fitggins.com/products/smocked-lantern-sleeve-round-neck-blouse): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 95% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 25.7 in, bust 50.7 in, sleeve length 21.5 inM: front length 26.1 in, bust 52.7 in, sleeve length 21.8 inL: front length 26.5 in, bust 54.6 in, sleeve length 22.2 inXL: front length 26.9 in, bust 57.7 in, sleeve length 22.6 in1XL: front length 27.3 in, bust 60.8 in, sleeve length 23 in
-  Updated: 2026-03-24T13:17:35Z
+  Updated: 2026-04-02T23:55:56Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -1997,7 +1997,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a71eb40a2fdd4cfd97948074c1b5260a-Max.webp?v=1774356414
     Price: $33.83 USD
 - [Collared Neck Cable-Knit Long Sleeve Blouse](https://fitggins.com/products/collared-neck-cable-knit-long-sleeve-blouse): Pattern type: Solid Style: Casual Features: Basic style Neckline: Johnny collar Length: Regular Sleeve length: Long sleeves Sleeve type: Regular sleeves Sheer: Opaque Material composition: 65% rayon, 30% polyester, 5% spandex Stretch: Slightly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: bust 42 in, sleeve length 20 in, length 26.2 inM: bust 44.1 in, sleeve length 19.9 in, length 26.5 inL: bust 46 in, sleeve length 20.3 in, length 26.9 inXL: bust 49.1 in, sleeve length 20.7 in, length 27.3 in2XL: bust 52.3 in, sleeve length 21.1 in, length 27.7 in
-  Updated: 2026-03-24T13:17:35Z
+  Updated: 2026-04-03T00:08:42Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2163,7 +2163,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b0ee52e9b3e47e688737c21e8ca6002-Max.jpg?v=1774356425
     Price: $35.71 USD
 - [V-Neck Tie Hem Flutter Sleeve Blouse](https://fitggins.com/products/v-neck-tie-hem-flutter-sleeve-blouse): Features:Tied Material composition:95% polyester, 5% spandex Stretch:Slightly stretchy Care instructions:Machine wash cold. Tumble dry low. Imported
-  Updated: 2026-03-24T13:17:34Z
+  Updated: 2026-04-03T00:17:59Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2257,7 +2257,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9a1e1bc7217a49f9bfa24ff0fadaca38-Max.jpg?v=1774356437
     Price: $36.51 USD
   - [Black / L](https://fitggins.com/products/v-neck-tie-hem-flutter-sleeve-blouse?variant=52751874621768)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9a1e1bc7217a49f9bfa24ff0fadaca38-Max.jpg?v=1774356437
     Price: $36.51 USD
   - [Black / XL](https://fitggins.com/products/v-neck-tie-hem-flutter-sleeve-blouse?variant=52751874654536)
@@ -2289,7 +2289,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c848b9faa089499696d539dec63222b0-Max.jpg?v=1774356437
     Price: $36.51 USD
 - [Pleated Flutter Sleeve Round Neck Blouse](https://fitggins.com/products/pleated-flutter-sleeve-round-neck-blouse): Pattern type: Solid Style: Casual Features: Basic style Neckline: Round neck Length: Long Sleeve length: Short sleeves Sleeve type: Flutter sleeves Sheer: No Material composition: 100% polyester Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 37 in, sleeve length 10 in, length 27 inM: bust 39 in, sleeve length 10 in, length 27 inL: bust 41 in, sleeve length 10 in, length 28 inXL: bust 44 in, sleeve length 10 in, length 29 in2XL: bust 47 in, sleeve length 11 in, length 30 in
-  Updated: 2026-03-24T13:17:34Z
+  Updated: 2026-04-03T00:21:59Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2375,7 +2375,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c018a8e968004b919eefd531e4cebbe6-Max.jpg?v=1774356445
     Price: $33.50 USD
 - [Striped Long Sleeve Notched Blouse](https://fitggins.com/products/striped-long-sleeve-notched-blouse): Fit: Run small Features: Basic style Closure type: Pullover Sheer: Opaque Stretch: No stretch Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 38.2 in, shoulder 15.6 in, sleeve length 23 in, length 23.4 inM: bust 39.8 in, shoulder 16 in, sleeve length 23.4 in, length 23.8 inL: bust 42.1 in, shoulder 16.6 in, sleeve length 24 in, length 24.4 inXL: bust 44.5 in, shoulder 17.2 in, sleeve length 24.6 in, length 25 in2XL: bust 46.8 in, shoulder 17.7 in, sleeve length 25.2 in, length 25.5 in
-  Updated: 2026-03-24T13:17:34Z
+  Updated: 2026-04-03T00:23:15Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2421,7 +2421,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3d3f3c4cd1a84c3b8d14683c4cd7f129-Max.jpg?v=1774356455
     Price: $31.31 USD
 - [Cold Shoulder Square Neck Cutout Blouse](https://fitggins.com/products/cold-shoulder-square-neck-cutout-blouse): Pattern type: Solid Style: Chic Features: Cutout Neckline: Square neck Length: Long Sleeve length: Long sleeves Sleeve type: Cold-shoulder Sheer: Opaque Material composition: 65% rayon, 30% polyester, 5% spandex Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 38 in, sleeve length 21 in, length 25.2 inM: bust 40.2 in, sleeve length 21.5 in, length 25.7 inL: bust 42.1 in, sleeve length 21.8 in, length 26.1 inXL: bust 45.2 in, sleeve length 22.2 in, length 26.5 in2XL: bust 48.4 in, sleeve length 22.6 in, length 26.9 in
-  Updated: 2026-03-24T13:17:34Z
+  Updated: 2026-04-03T00:30:47Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2587,7 +2587,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a60a522ae8064beaa52ee20a6a946da8-Max.jpg?v=1774356465
     Price: $33.97 USD
 - [Drawstring Sweetheart Neck Cropped Top](https://fitggins.com/products/drawstring-sweetheart-neck-cropped-top): Features: Drawstring Closure type: Pullover Sheer: Semi-sheer Stretch: No stretch Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 14.4 in, bust 29.6 in, sleeve length 26.9 inM: length 14.8 in, bust 30.4 in, sleeve length 27.3 inL: length 15.2 in, bust 31.2 in, sleeve length 27.7 inXL: length 15.6 in, bust 32 in, sleeve length 28.1 in
-  Updated: 2026-03-24T13:17:33Z
+  Updated: 2026-04-03T00:38:35Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2785,7 +2785,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/102a3b900f674195ad33168edcde1f2d-Max.jpg?v=1774356479
     Price: $30.63 USD
 - [Striped Round Neck Drop Shoulder T-Shirt](https://fitggins.com/products/striped-round-neck-drop-shoulder-t-shirt): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: XS: bust 39.8 in, shoulder 24.2 in, sleeve length 17.9 in, length 20.3 inS: bust 41.7 in, shoulder 25.2 in, sleeve length 17.9 in, length 21.1 inM: bust 43.7 in, shoulder 26.1 in, sleeve length 17.9 in, length 21.8 inL: bust 45.6 in, shoulder 27.1 in, sleeve length 17.9 in, length 22.6 inXL: bust 48.8 in, shoulder 28.7 in, sleeve length 17.9 in, length 23.4 in2XL: bust 51.9 in, shoulder 30.2 in, sleeve length 17.9 in, length 24.2 in
-  Updated: 2026-03-24T13:17:33Z
+  Updated: 2026-04-13T08:11:07Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2859,7 +2859,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/427f1675f04b4870915ba24895373b71-Max.webp?v=1774356494
     Price: $38.18 USD
 - [Ruched Johnny Collar Short Sleeve Blouse](https://fitggins.com/products/ruched-johnny-collar-short-sleeve-blouse): Features: Ruched Sheer: Opaque Stretch: Slightly stretchy Material composition: 65% rayon, 30% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 37.40 in, Sleeve Length 6.69 in, Top Length 26.38 inM:Bust 39.37 in, Sleeve Length 7.09 in, Top Length 26.77 inL:Bust 41.34 in, Sleeve Length 7.48 in, Top Length 27.17 inXL:Bust 44.49 in, Sleeve Length 7.87 in, Top Length 27.56 in2XL:Bust 47.64 in, Sleeve Length 8.27 in, Top Length 27.95 in
-  Updated: 2026-03-24T13:17:33Z
+  Updated: 2026-04-03T00:47:57Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3025,7 +3025,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d9a32ec1-b8bb-403d-b504-8812a9661755-Max.webp?v=1774356507
     Price: $33.30 USD
 - [Smocked Round Neck Lantern Sleeve Blouse](https://fitggins.com/products/smocked-round-neck-lantern-sleeve-blouse): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 65% rayon, 35% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 26.1 in, sleeve length 23.8 in, bust 35.1 inM: front length 26.5 in, sleeve length 24.2 in, bust 37.1 inL: front length 26.9 in, sleeve length 24.6 in, bust 39 inXL: front length 27.3 in, sleeve length 25 in, bust 42.1 in2XL: front length 27.7 in, sleeve length 25.4 in, bust 45.2 in
-  Updated: 2026-03-24T13:17:33Z
+  Updated: 2026-04-03T00:54:26Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3151,7 +3151,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/62639a0fbbdf4c218bd89274a87a6fee-Max.jpg?v=1774356516
     Price: $33.86 USD
 - [Ivy Lane Leopard Peplum Round Neck Blouse](https://fitggins.com/products/ivy-lane-leopard-peplum-round-neck-blouse): Features: Peplum Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 31.50 in, Shoulder 13.78 in, Sleeve Length 23.62 in, Top Length 27.17 inM:Bust 33.07 in, Shoulder 14.17 in, Sleeve Length 24.02 in, Top Length 27.56 inL:Bust 35.43 in, Shoulder 14.57 in, Sleeve Length 24.41 in, Top Length 28.15 inXL:Bust 37.80 in, Shoulder 14.96 in, Sleeve Length 24.80 in, Top Length 28.74 in
-  Updated: 2026-03-24T13:17:32Z
+  Updated: 2026-04-03T00:57:29Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3205,7 +3205,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3b7c24aa-b8e2-422c-8c28-e852a4bc4db3-Max.webp?v=1774356526
     Price: $33.33 USD
 - [V-Neck Long Raglan Sleeve Top](https://fitggins.com/products/v-neck-long-raglan-sleeve-top): Pattern type: Solid Style: Casual Features: Basic style Neckline: V-neck Length: Regular Sleeve length: Long sleeves Sleeve type: Raglan sleeves Sheer: No Material composition: 95% rayon, 5% spandex Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 37 in, length 27 in, sleeve length 27 inM: bust 39 in, length 27 in, sleeve length 27 inL: bust 41 in, length 27 in, sleeve length 28 inXL: bust 44 in, length 28 in, sleeve length 28 in2XL: bust 47 in, length 28 in, sleeve length 29 in
-  Updated: 2026-03-24T13:17:32Z
+  Updated: 2026-04-03T01:02:17Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3391,7 +3391,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec12f79da76c4e448bd1373c7f048fd5-Max.jpg?v=1774356539
     Price: $31.59 USD
 - [Ivy Lane Half-Zip Short Sleeve Hooded Top](https://fitggins.com/products/ivy-lane-half-zip-short-sleeve-hooded-top): Pattern type: Solid Style: Casual Features: Zipper Neckline: Hooded Length: Regular Sleeve length: Short sleeves Sleeve type: Regular sleeves Sheer: No Material composition: 95%polyester, 5% spandex Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: length 24 in, bust 34 in, shoulder 14 in, waist 32 inM: length 24 in, bust 36 in, shoulder 14 in, waist 34 inL: length 25 in, bust 38 in, shoulder 15 in, waist 36 inXL: length 25 in, bust 41 in, shoulder 16 in, waist 38 in
-  Updated: 2026-03-24T13:17:32Z
+  Updated: 2026-04-03T01:07:01Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3461,7 +3461,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1ad09e0e7164e98b6e1b39a4b89f4fc-Max.jpg?v=1774356546
     Price: $33.65 USD
 - [Round Neck Flounce Sleeve Blouse](https://fitggins.com/products/round-neck-flounce-sleeve-blouse): Pattern type: Solid Style: Casual Features: Ruffled Neckline: Round neck Length: Long Sleeve length: Long sleeves Sleeve type: Flounce sleeves Sheer: Opaque Material composition: 65% rayon, 30% polyester, 5% spandex Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 37 in, sleeve length 23 in, length 25 inM: bust 39 in, sleeve length 23.4 in, length 25.7 inL: bust 41 in, sleeve length 23.8 in, length 26.1 inXL: bust 44.1 in, sleeve length 24.2 in, length 26.5 in2XL: bust 47.2 in, sleeve length 24.6 in, length 26.9 in
-  Updated: 2026-03-24T13:17:32Z
+  Updated: 2026-04-03T01:12:54Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3627,7 +3627,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5206c47483b4483fb146d2a96292374f-Max.jpg?v=1774356558
     Price: $33.16 USD
 - [Lace Detail V-Neck Ribbed Blouse](https://fitggins.com/products/lace-detail-v-neck-ribbed-blouse): Features: Lace detail Sheer: Opaque Stretch: Slightly stretchy Material composition: 65% rayon, 35% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 26.5 in, sleeve length 23.8 in, bust 37.1 inM: front length 26.9 in, sleeve length 24.2 in, bust 39 inL: front length 27.3 in, sleeve length 24.6 in, bust 41 inXL: front length 27.7 in, sleeve length 25 in, bust 44.1 in
-  Updated: 2026-03-24T13:17:31Z
+  Updated: 2026-04-03T01:16:31Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3729,7 +3729,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b4da017ac844dea9331b77e62c2e3e3-Max.jpg?v=1774356588
     Price: $33.93 USD
 - [Layered Flutter Sleeve Round Neck Top](https://fitggins.com/products/layered-flutter-sleeve-round-neck-top): Pattern type: Solid Style: Casual, Chic Features: Layered Neckline: Round neck Length: Regular Sleeve length: Short sleeves Sleeve type: Raglan sleeves Sheer: No Material composition: 60% polyester, 35% viscose, 5% spandex Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 34 in, sleeve length 7 in, length 22 in, hem width 39 inM: bust 36 in, sleeve length 8 in, length 23 in, hem width 41 inL: bust 38 in, sleeve length 8 in, length 23 in, hem width 43 inXL: bust 41 in, sleeve length 9 in, length 24 in, hem width 46 in2XL: bust 44 in, sleeve length 9 in, length 25 in, hem width 50 in
-  Updated: 2026-03-24T13:17:41Z
+  Updated: 2026-04-13T08:11:24Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3743,7 +3743,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f887289823af4b82bc02eeffc0b04a28-Max.jpg?v=1774356598
     Price: $33.54 USD
   - [Mid Gray / L](https://fitggins.com/products/layered-flutter-sleeve-round-neck-top?variant=52751989834056)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f887289823af4b82bc02eeffc0b04a28-Max.jpg?v=1774356598
     Price: $33.54 USD
   - [Mid Gray / XL](https://fitggins.com/products/layered-flutter-sleeve-round-neck-top?variant=52751989866824)
@@ -3751,7 +3751,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f887289823af4b82bc02eeffc0b04a28-Max.jpg?v=1774356598
     Price: $33.54 USD
   - [Mid Gray / 2XL](https://fitggins.com/products/layered-flutter-sleeve-round-neck-top?variant=52751989899592)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f887289823af4b82bc02eeffc0b04a28-Max.jpg?v=1774356598
     Price: $33.54 USD
   - [Black / S](https://fitggins.com/products/layered-flutter-sleeve-round-neck-top?variant=52751989932360)
@@ -3775,7 +3775,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ae224fc5c1a44b94903edb1233f666fd-Max.jpg?v=1774356597
     Price: $33.54 USD
 - [Contrast V-Neck Blouse](https://fitggins.com/products/contrast-v-neck-blouse): Pattern type: Solid Style: Casual Features: Lace Neckline: V-neck Length: Regular Sleeve length: Short sleeves Sleeve type: Regular sleeves Sheer: No Material composition: 100% polyester Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 39 in, shoulder 15 in, sleeve length 9 in, length 26 inM: bust 41 in, shoulder 15 in, sleeve length 9 in, length 27 inL: bust 43 in, shoulder 16 in, sleeve length 9 in, length 28 inXL: bust 46 in, shoulder 17 in, sleeve length 9 in, length 28 in2XL: bust 50 in, shoulder 18 in, sleeve length 10 in, length 29 in
-  Updated: 2026-03-24T13:17:31Z
+  Updated: 2026-04-14T23:10:47Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3901,7 +3901,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1774356610
     Price: $33.84 USD
 - [Eyelet V-Neck Flounce Sleeve Blouse](https://fitggins.com/products/eyelet-v-neck-flounce-sleeve-blouse): Features: Eyelet Sheer: Opaque Body: Lined Stretch: Highly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 38 in, length 27 in, sleeve length 23 inM: bust 40 in, length 27 in, sleeve length 23 inL: bust 42 in, length 28 in, sleeve length 24 inXL: bust 45 in, length 28 in, sleeve length 24 in2XL: bust 48 in, length 28 in, sleeve length 25 in
-  Updated: 2026-03-24T13:17:31Z
+  Updated: 2026-04-07T18:12:56Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4027,7 +4027,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8ee4ecb6897b47709ea1f416c088550d-Max.jpg?v=1774356621
     Price: $32.80 USD
 - [Full Size Cutout Cold Shoulder Blouse](https://fitggins.com/products/full-size-cutout-cold-shoulder-blouse): Features: Cutout Sheer: Opaque Stretch: No stretch Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 25.7 in, shoulder 19.5 in, waist 33.5 in, bust 36.7 inM: front length 26.1 in, shoulder 19.9 in, waist 35.1 in, bust 38.2 inL: front length 26.5 in, shoulder 20.3 in, waist 36.7 in, bust 39.8 inXL: front length 26.9 in, shoulder 20.7 in, waist 38.2 in, bust 41.3 in2XL: front length 27.3 in, shoulder 21.1 in, waist 39.8 in, bust 42.9 in3XL: front length 27.7 in, shoulder 21.5 in, waist 41.3 in, bust 44.5 in
-  Updated: 2026-03-24T13:17:29Z
+  Updated: 2026-04-14T23:11:15Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4173,7 +4173,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ea51ba0037d94dd9ab90b69720d45981-Max.jpg?v=1774356628
     Price: $33.40 USD
 - [Notched Neck Flounce Sleeve Blouse](https://fitggins.com/products/notched-neck-flounce-sleeve-blouse): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 65% rayon, 30% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 26.1 in, sleeve length 23 in, bust 36.7 inM: front length 26.5 in, sleeve length 23.2 in, bust 38.6 inL: front length 26.9 in, sleeve length 23.4 in, bust 40.6 inXL: front length 27.3 in, sleeve length 23.8 in, bust 43.7 in2XL: front length 27.7 in, sleeve length 24.2 in, bust 46.8 in
-  Updated: 2026-03-24T13:17:40Z
+  Updated: 2026-04-03T01:30:10Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4339,7 +4339,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0c3a5d062d904894ad98951b474a8fb5-Max.jpg?v=1774356639
     Price: $34.25 USD
 - [Spliced Lace Flutter Sleeve Top](https://fitggins.com/products/spliced-lace-flutter-sleeve-top): Pattern type: Solid Style: Casual Features:Lace Detail Neckline: Round neck Length: Regular Sleeve length: Short sleeves Sleeve type: Flutter sleeves Sheer: No Material composition: 95% rayon, 5% spandex Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 37 in, length 27 inM: bust 39 in, length 27 inL: bust 41 in, length 27 inXL: bust 44 in, length 28 in2XL: bust 47 in, length 28 in
-  Updated: 2026-03-24T13:17:30Z
+  Updated: 2026-04-03T01:32:17Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4465,7 +4465,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/02d2cc79a38042c98ceabdefc7bce42e-Max.jpg?v=1774356650
     Price: $32.59 USD
 - [Floral Smocked Ruffled Balloon Sleeve Blouse](https://fitggins.com/products/floral-smocked-ruffled-balloon-sleeve-blouse): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 26.5 in, sleeve length 26.5 in, length 20.5 in, waist 23.4 inM: bust 28.9 in, sleeve length 26.9 in, length 21.3 in, waist 25.7 inL: bust 31.2 in, sleeve length 27.3 in, length 22 in, waist 28.1 inXL: bust 34.3 in, sleeve length 27.7 in, length 22.8 in, waist 31.2 in
-  Updated: 2026-03-24T13:17:29Z
+  Updated: 2026-04-03T01:32:36Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4487,7 +4487,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/370a47cdff034bb8b10242e3c72fb4a6-Max.webp?v=1774356658
     Price: $42.82 USD
 - [Asymmetrical Neck Buttoned Top](https://fitggins.com/products/asymmetrical-neck-buttoned-top): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 24.2 in, bust 41.3 in, sleeve length 17.2 in M: length 24.6 in, bust 42.9 in, sleeve length 17.6 in L: length 25 in, bust 44.5 in, sleeve length 17.9 in XL: length 25.4 in, bust 46 in, sleeve length 18.3 in 2XL: length 25.7 in, bust 47.6 in, sleeve length 18.7 in
-  Updated: 2026-03-24T13:17:28Z
+  Updated: 2026-04-03T01:34:01Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4553,7 +4553,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3321d627d793420a8463ddd3ba26738a-Max.jpg?v=1774356668
     Price: $33.91 USD
 - [Ivy Lane Notched Neck Butterfly Sleeve Blouse](https://fitggins.com/products/ivy-lane-notched-neck-butterfly-sleeve-blouse): Pattern type: Solid Style: Casual Features: Ruffle Neckline: Notched Length: Long Sleeve length: Short sleeves Sleeve type: Flutter sleeves Sheer: No Material composition: 100% polyester Stretch: Slightly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: length 25 in, bust 37 in, shoulder 13 in, waist 37 inM: length 25 in, bust 39 in, shoulder 14 in, waist 39 inL: length 26 in, bust 41 in, shoulder 14 in, waist 41 inXL: length 26 in, bust 44 in, shoulder 15 in, waist 43 in
-  Updated: 2026-03-24T13:17:29Z
+  Updated: 2026-04-03T01:35:07Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4607,7 +4607,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cd236ca4b1a340629c8a31e8affec9a7-Max.jpg?v=1774356678
     Price: $34.44 USD
 - [Feather Print Smocked Off-Shoulder Blouse](https://fitggins.com/products/feather-print-smocked-off-shoulder-blouse): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 18.7 in, bust 35.9 in, sleeve length 12.1 inM: front length 19 in, bust 37.4 in, sleeve length 12.4 inL: front length 19.4 in, bust 39.8 in, sleeve length 12.9 inXL: front length 19.9 in, bust 42.1 in, sleeve length 13.3 in
-  Updated: 2026-03-24T13:17:29Z
+  Updated: 2026-04-03T01:35:17Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4629,7 +4629,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/72451d019fff4ce8a37bb59da53a65e1-Max.webp?v=1774356687
     Price: $33.55 USD
 - [V-Neck Balloon Sleeve Peplum Blouse](https://fitggins.com/products/v-neck-balloon-sleeve-peplum-blouse): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 100% polyster Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 38.2 in, shoulder 14.4 in, sleeve length 25 in, length 21.5 inM: bust 39.8 in, shoulder 14.8 in, sleeve length 25.4 in, length 21.8 inL: bust 42.1 in, shoulder 15.2 in, sleeve length 25.7 in, length 22.2 inXL: bust 44.5 in, shoulder 15.6 in, sleeve length 26.1 in, length 22.6 in
-  Updated: 2026-03-24T13:17:29Z
+  Updated: 2026-04-03T01:37:47Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4715,7 +4715,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3f659504bc9741348f8447e928791d52-Max.webp?v=1774356699
     Price: $31.37 USD
 - [Ivy Lane Lace Trim Short Sleeve Top](https://fitggins.com/products/ivy-lane-lace-trim-short-sleeve-top): Pattern type: Solid Style: Casual Features: Lace Neckline: Round neck Length: Long Sleeve length: Short sleeves Sleeve type: Regular sleeves Sheer: No Material composition: 95% polystyre, 5% spandex Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: length 27 in, bust 37 in, shoulder 18 inM: length 27 in, bust 39 in, shoulder 18 inL: length 27 in, bust 41 in, shoulder 19 inXL: length 28 in, bust 44 in, shoulder 19 in
-  Updated: 2026-03-24T13:17:27Z
+  Updated: 2026-04-03T01:39:16Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4785,7 +4785,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f1676f7a5c4e4353ac7a235889c0ea62-Max.jpg?v=1774356719
     Price: $32.81 USD
 - [V-Neck Flounce Sleeve Blouse](https://fitggins.com/products/v-neck-flounce-sleeve-blouse): Pattern type: Contrast Style: Chic Features: Basic style Neckline: V-neck Length: Regular Sleeve length: Long sleeves Sleeve type: Flounce sleeves Sheer: Opaque Material composition: 65% rayon, 30% polyester, 5% spandex Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 37 in, sleeve length 23 in, length 25.8 inM: bust 38.6 in, sleeve length 23 in, length 26.1 inL: bust 40.6 in, sleeve length 23.4 in, length 26.5 inXL: bust 43.7 in, sleeve length 23.8 in, length 26.9 in2XL: bust 46.8 in, sleeve length 24.2 in, length 27.3 in
-  Updated: 2026-03-24T13:17:27Z
+  Updated: 2026-04-03T01:42:16Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4951,7 +4951,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c9edc2b49e6c4337a7e8438803d596df-Max.jpg?v=1774356732
     Price: $34.23 USD
 - [Notched Neck Cuffed Sleeve Shirt](https://fitggins.com/products/notched-neck-cuffed-sleeve-shirt): Pattern type: Solid Style: Casual Features: Basic style Neckline: Notched Length: Regular Sleeve length: Short sleeves Sleeve type: Regular sleeves Sheer: No Material composition: 100% polyester Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 37 in, sleeve length 10 in, length 26 inM: bust 39 in, sleeve length 10 in, length 27 inL: bust 41 in, sleeve length 11 in, length 27 inXL: bust 44 in, sleeve length 11 in, length 28 in2XL: bust 47 in, sleeve length 12 in, length 29 in
-  Updated: 2026-03-24T13:17:27Z
+  Updated: 2026-04-03T01:43:49Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -5037,7 +5037,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/62deecd3e33342b88a1d53b913eb7036-Max.jpg?v=1774356741
     Price: $34.20 USD
 - [Floral Flounce Sleeve Round Neck Blouse](https://fitggins.com/products/floral-flounce-sleeve-round-neck-blouse): Features:Basic style Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported
-  Updated: 2026-03-24T13:17:28Z
+  Updated: 2026-04-03T01:44:11Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -5063,7 +5063,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cc2cf9fe72c04395b5ff2daac287c642-Max.webp?v=1774356765
     Price: $39.86 USD
 - [Perfee Sweetheart Neck Long Sleeve Lace Bodysuit](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-lace-bodysuit): Features: Lace Sheer: Semi-sheer Stretch: Highly stretchy Material composition: 85% polyamide, 15% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Shoulder Sleeve Length Waist S 4 28.1 31.9 13 24.8 24.8 M 6/8 28.6 33.5 13.4 25.2 26.4 L 10/12 29.3 35.8 13.8 25.6 28.7 XL 14 30 38.2 14.2 26 31.1
-  Updated: 2026-03-24T16:23:35Z
+  Updated: 2026-04-14T09:21:11Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5081,11 +5081,11 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40d19ab8-bd2f-403a-8995-81443fd99a93-Max.webp?v=1774358378
     Price: $33.28 USD
   - [Black / XL](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-lace-bodysuit?variant=52752632054088)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40d19ab8-bd2f-403a-8995-81443fd99a93-Max.webp?v=1774358378
     Price: $33.28 USD
 - [Basic Bae Full Size Scoop Neck Butt Lifting Bodysuit](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Waist Hip Top Length XS 00/0 23.2 17.3 24.4 28.3 S 2/4 24.4 18.9 25.2 28.7 M 6 25.6 20.5 26 29.1 L 8 26.8 22 26.8 29.5 XL 12 28 23.6 27.6 29.9 2XL 14 29.1 25.2 28.3 30.3 3XL 16 30.3 26.8 29.1 30.7
-  Updated: 2026-03-24T16:23:35Z
+  Updated: 2026-04-05T19:12:56Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5175,7 +5175,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1774358389
     Price: $31.31 USD
 - [Perfee Spaghetti Strap Lace Bodysuit](https://fitggins.com/products/perfee-spaghetti-strap-lace-bodysuit): Pattern type: Solid Style: Classy Features: Lace Neckline: V-neck Length: Regular Sleeve length: Sleeveless Sleeve type: Sleeveless Sheer: Sheer Material composition: 95% polyester, 5% elastane Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 27.3 in, bust 30 in, waist 26.5 in, hip 29.6 inM: front length 27.9 in, bust 31.6 in, waist 28.1 in, hip 31.2 inL: front length 28.7 in, bust 33.9 in, waist 30.4 in, hip 33.5 inXL: front length 29.4 in, bust 36.3 in, waist 32.8 in, hip 35.9 in
-  Updated: 2026-03-24T16:23:34Z
+  Updated: 2026-04-13T03:20:56Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5197,7 +5197,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b1f62eb2e1794c08924c0ed18badb10e-Max.jpg?v=1774358399
     Price: $32.87 USD
 - [Plus Size Halter Neck Spaghetti Strap Bodysuit](https://fitggins.com/products/plus-size-halter-neck-spaghetti-strap-bodysuit): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: L: front length 29.4 in, bust 35.1 in, waist 32.8 in, hip 37.4 in1XL: front length 30 in, bust 37.4 in, waist 35.1 in, hip 39.8 in2XL: front length 30.6 in, bust 39.8 in, waist 37.4 in, hip 42.1 in3XL: front length 31.2 in, bust 42.1 in, waist 39.8 in, hip 44.5 in4XL: front length 31.8 in, bust 44.5 in, waist 42.1 in, hip 46.8 in
-  Updated: 2026-03-24T16:23:34Z
+  Updated: 2026-04-03T01:48:36Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5283,7 +5283,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/41fc3cf032a64191a7c7390fee992236-Max.jpg?v=1774358411
     Price: $30.57 USD
 - [Turtleneck Leopard Long Sleeve Bodysuit](https://fitggins.com/products/turtleneck-leopard-long-sleeve-bodysuit): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Hip Sleeve Length S 4 24.8 30.7 29.9 23.6 M 6/8 25.6 33.1 32.3 24 L 10/12 26.3 35.4 34.6 24.4 XL 14/16 27 38.6 37.8 24.8
-  Updated: 2026-03-24T16:23:34Z
+  Updated: 2026-04-03T01:48:37Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5305,7 +5305,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4736e684-d677-4ff8-9431-c2cf5cc5e10d-Max.webp?v=1774358419
     Price: $31.90 USD
 - [Perfee Lace Backless V-Neck Cap Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-backless-v-neck-cap-sleeve-bodysuit): Features: Lace, Tied, Backless Sheer: Semi-sheer Stretch: Highly stretchy Material composition: 92% polyamide, 8% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist S 4 28 35.4 26 M 6/8 28.4 37 27.6 L 10/12 29.1 39.4 29.9 XL 14 29.8 41.7 32.3
-  Updated: 2026-03-24T16:23:34Z
+  Updated: 2026-04-14T08:00:59Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5327,7 +5327,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ea7eb01b-349f-4b5e-9ce1-4d9a51e72612-Max.webp?v=1774358429
     Price: $32.14 USD
 - [Perfee Lace Detail V-Neck Short Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-detail-v-neck-short-sleeve-bodysuit): Features: Lace Detail Sheer: Opaque Stretch: Highly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist HIP S 4 28 32.3 32.3 29.9 M 6/8 28.4 33.9 33.9 31.5 L 10/12 29.1 36.2 36.2 33.9 XL 14 29.8 38.6 38.6 36.2
-  Updated: 2026-03-24T16:23:33Z
+  Updated: 2026-04-13T06:20:51Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5341,7 +5341,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ac192e3c-2391-4cad-84b3-d11177b4bd80-Max.webp?v=1774358439
     Price: $32.07 USD
   - [Black / L](https://fitggins.com/products/perfee-lace-detail-v-neck-short-sleeve-bodysuit?variant=52752635986248)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ac192e3c-2391-4cad-84b3-d11177b4bd80-Max.webp?v=1774358439
     Price: $32.07 USD
   - [Black / XL](https://fitggins.com/products/perfee-lace-detail-v-neck-short-sleeve-bodysuit?variant=52752636019016)
@@ -5349,7 +5349,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ac192e3c-2391-4cad-84b3-d11177b4bd80-Max.webp?v=1774358439
     Price: $32.07 USD
 - [Full Size Round Neck Short Sleeve Bodysuit](https://fitggins.com/products/full-size-round-neck-short-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 79.3% polyester, 20.7% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist Hip Shoulder Sleeve Length S 2/4 26.2 26.8 22 25.2 12.6 4.9 M 6 26.8 28.3 23.6 26.8 13.4 5.3 L 8 27.4 29.9 25.2 28.3 14.2 5.7 XL 10 28 31.5 26.8 29.9 15 6.1 2XL 12 28.5 33.1 28.3 31.5 15.7 6.5 3XL 14 29.1 34.6 29.9 33.1 16.5 6.9
-  Updated: 2026-03-24T16:23:33Z
+  Updated: 2026-04-03T01:51:49Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5475,7 +5475,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/38e0e577-5203-4b97-9e48-d761464a2d85-Max.webp?v=1774358452
     Price: $30.28 USD
 - [Zip Up Mock Neck Sleeveless Bodysuit](https://fitggins.com/products/zip-up-mock-neck-sleeveless-bodysuit): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester，5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 31.10 in, Top Length 28.35 in, Waist 25.98 inM:Bust 33.46 in, Top Length 29.13 in, Waist 28.35 inL:Bust 35.83 in, Top Length 29.92 in, Waist 30.71 inXL:Bust 38.98 in, Top Length 30.71 in, Waist 33.86 in
-  Updated: 2026-03-24T16:23:43Z
+  Updated: 2026-04-10T15:19:16Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5513,7 +5513,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3229978d-5453-4961-ab1e-e8d9fa6c6dd1-Max.webp?v=1774358460
     Price: $31.96 USD
 - [Square Neck Long Sleeve Bodysuit](https://fitggins.com/products/square-neck-long-sleeve-bodysuit): Features:Basic style Stretch:Slightly stretchy Material composition:62% polyester, 32% cotton, 6% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Waist Hip Top Length S 4 31.1 13.8 23.6 26.4 29.5 32.2 M 6/8 33.5 14.4 24 28.7 31.9 33.1 L 10/12 35.8 15 24.4 31.1 34.3 33.9 XL 14/16 39 15.8 24.8 34.3 37.4 34.8
-  Updated: 2026-03-24T16:23:43Z
+  Updated: 2026-04-03T01:52:37Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5535,7 +5535,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73790bad-1744-4dd1-af36-8c63621fbe1f-Max.webp?v=1774358470
     Price: $37.22 USD
 - [Full Size Square Neck Short Sleeve Bodysuit](https://fitggins.com/products/full-size-square-neck-short-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 65% polyester, 35% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist Hip S 2/4 25 25.6 24 28 M 6 25.6 26.8 25.2 29.1 L 8 26.2 28 26.4 30.3 XL 10 26.8 29.1 27.6 31.5 2XL 12 27.4 30.3 28.7 32.7 3XL 14 28 31.5 29.9 33.9
-  Updated: 2026-03-24T16:23:42Z
+  Updated: 2026-04-03T01:55:16Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5661,7 +5661,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5951f5a2-8c8b-4a42-afa6-53cfc8cd95bc-Max.webp?v=1774358482
     Price: $31.14 USD
 - [Perfee Pom-Pom Detail Puff Sleeve Lace Bodysuit](https://fitggins.com/products/perfee-pom-pom-detail-puff-sleeve-lace-bodysuit): Sizing category: Regular Pattern type: Solid Style: Sexy Features: Lace, tie Neckline: Plunge Sleeve length: Short sleeves Sleeve type: Puff sleeves Material: 95% polyester, 5% elastane Stretch: No stretch Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31 in, length 29 in, waist 27 in, hip 30 inM: bust 32 in, length 30 in, waist 28 in, hip 31 inL: bust 35 in, length 30 in, waist 30 in, hip 34 inXL: bust 37 in, length 31 in, waist 33 in, hip 36 in
-  Updated: 2026-03-24T16:23:42Z
+  Updated: 2026-04-07T02:22:25Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5683,7 +5683,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2ffaa09ed1b2412ea8382860286254ea-Max.jpg?v=1774358491
     Price: $34.55 USD
 - [Square Neck Long Sleeve Bodysuit](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-1): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length Shoulder S 4 27.6 30.7 22.8 13 M 6/8 28 32.3 23.2 13.4 L 10/12 28.3 33.9 23.6 13.8
-  Updated: 2026-03-24T16:23:42Z
+  Updated: 2026-04-03T01:57:55Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5749,7 +5749,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ee93c9d5-1f78-497d-979d-cddc534fc782-Max.webp?v=1774358502
     Price: $34.50 USD
 - [Plus Size Round Neck Long Sleeve Bodysuit](https://fitggins.com/products/plus-size-round-neck-long-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: L: front length 30 in, shoulder 16.2 in, bust 37.4 in, waist 32 in, sleeve length 22.2 in, hip 34.7 in1XL: front length 30.8 in, shoulder 16.8 in, bust 39.8 in, waist 34.3 in, sleeve length 22.6 in, hip 37.1 in2XL: front length 31.6 in, shoulder 17.4 in, bust 42.1 in, waist 36.7 in, sleeve length 23 in, hip 39.4 in3XL: front length 32.4 in, shoulder 17.9 in, bust 44.5 in, waist 39 in, sleeve length 23.4 in, hip 41.7 in4XL: front length 33.2 in, shoulder 18.5 in, bust 46.8 in, waist 41.3 in, sleeve length 23.8 in, hip 44.1 in
-  Updated: 2026-03-24T16:23:42Z
+  Updated: 2026-04-03T01:58:17Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5775,7 +5775,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0c2b81f4ad9c4aae92ade2d391e32802-Max.jpg?v=1774358512
     Price: $31.49 USD
 - [Perfee Lace V-Neck Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-v-neck-long-sleeve-bodysuit): Features: Buttoned, Lace Sheer: Semi-sheer Stretch: Moderate stretch Material composition: 5% elastane, 95% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist HIP S 4 27.8 32.3 26 27.6 M 6/8 28.3 33.9 27.6 29.1 L 10/12 29.1 36.2 29.9 31.5 XL 14 29.9 38.6 32.3 33.9
-  Updated: 2026-03-24T16:23:30Z
+  Updated: 2026-04-07T10:01:08Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5797,7 +5797,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0ec30560-23d3-41aa-94bd-ffedd4e101f8-Max.webp?v=1774358521
     Price: $36.08 USD
 - [Rhinestone Round Neck Long Sleeve Bodysuit](https://fitggins.com/products/rhinestone-round-neck-long-sleeve-bodysuit): Features:Rhinestone Stretch:Slightly stretchy Material composition:90% polyester, 10% spandex Care instructions:Machine wash cold. Tumble dry low. Imported
-  Updated: 2026-03-24T16:23:30Z
+  Updated: 2026-04-03T01:59:39Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5843,7 +5843,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/90872b08191b4bd193dd98319d9050bf-Max.jpg?v=1774358532
     Price: $41.77 USD
 - [Perfee Lace Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit): Pattern type: Solid Style: Chic Features: Lace Neckline: V-neck Length: Regular Sleeve length: Long sleeves Sleeve type: Balloon sleeves Sheer: Sheer Material composition: 95% polyester, 5% elastane Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 26.9 in, bust 28.9 in, sleeve length 25.7 in, waist 25 in, hip 28.1 inM: front length 27.9 in, bust 30.4 in, sleeve length 26.1 in, waist 27 in, hip 29.6 inL: front length 28.7 in, bust 32.8 in, sleeve length 26.6 in, waist 29 in, hip 32 inXL: front length 29.4 in, bust 35.1 in, sleeve length 27.1 in, waist 32 in, hip 34.3 in
-  Updated: 2026-03-24T16:23:30Z
+  Updated: 2026-04-14T12:41:08Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5865,7 +5865,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5a3553f0a4d14236b993e6e6879bb0d0-Max.jpg?v=1774358542
     Price: $36.66 USD
 - [Perfee Lace Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-1): Features: Lace Sheer: Semi-sheer Stretch: Slightly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Waist HIP S 28.3 32.7 26.8 30.7 M 28.9 34.3 28.3 32.3 L 29.7 36.6 30.7 34.6 XL 30.5 39 33.1 37
-  Updated: 2026-03-24T16:23:30Z
+  Updated: 2026-04-03T02:03:28Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5935,7 +5935,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4b19032d-ff6f-47de-8f9f-ce5dc2ad6363-Max.webp?v=1774358552
     Price: $33.93 USD
   - [Royal Blue / S](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-1?variant=52752653680968)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7574abc1-cc91-4124-b167-16fe7ff6f5de-Max.webp?v=1774358553
     Price: $33.93 USD
   - [Royal Blue / M](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-1?variant=52752653713736)
@@ -5951,7 +5951,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7574abc1-cc91-4124-b167-16fe7ff6f5de-Max.webp?v=1774358553
     Price: $33.93 USD
 - [Perfee V-Neck Lace Bodysuit](https://fitggins.com/products/perfee-v-neck-lace-bodysuit): Features: Lace Sheer: Semi-sheer Stretch: Highly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist HIP S 4 28.3 32.3 26 28.3 M 6/8 28.8 33.9 27.6 29.9 L 10/12 29.5 36.2 29.9 32.3 XL 14 30.2 38.6 32.3 34.6
-  Updated: 2026-03-24T16:23:28Z
+  Updated: 2026-04-03T02:03:27Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5973,7 +5973,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4600efdf-0d1d-4f66-a13f-64324c80e1be-Max.webp?v=1774358563
     Price: $33.69 USD
 - [Rhinestone Trim Mock Neck Long Sleeve Bodysuit](https://fitggins.com/products/rhinestone-trim-mock-neck-long-sleeve-bodysuit): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyamide, 5% elastane Care instructions:Hand wash cold. Do not tumble dry. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Shoulder Hip Top Length S 4 30.3 23.2 14 29.5 27.8 M 6/8 32.7 23.6 14.6 31.9 28.5 L 10/12 35 24 15.2 34.3 29.3 XL 14/16 38.2 24.4 16 37.4 30.2
-  Updated: 2026-03-24T16:23:28Z
+  Updated: 2026-04-03T02:04:13Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5995,7 +5995,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b0f84d05-9f3f-460b-bce2-7becda2d7fbc-Max.webp?v=1774358572
     Price: $41.91 USD
 - [Perfee Lace Detail Plunge Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-detail-plunge-long-sleeve-bodysuit): Features: Lace detail Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 31.50 in, Top Length 28.74 in, Waist 25.20 in, HIP 29.92 inM:Bust 33.07 in, Top Length 29.33 in, Waist 26.77 in, HIP 31.50 inL:Bust 35.43 in, Top Length 30.12 in, Waist 29.13 in, HIP 33.86 inXL:Bust 37.80 in, Top Length 30.91 in, Waist 31.50 in, HIP 36.22 in
-  Updated: 2026-03-24T16:23:28Z
+  Updated: 2026-04-06T04:20:56Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6129,7 +6129,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f204906f-f796-4969-82f0-dd1d3bf62133-Max.webp?v=1774358585
     Price: $33.83 USD
 - [Perfee Leopard Half Zip Sleeveless Bodysuit](https://fitggins.com/products/perfee-leopard-half-zip-sleeveless-bodysuit): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 95% cotton, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Shoulder Hip S 4 27.6 32.7 10 31.5 M 6/8 28 34.3 10.4 33.1 L 10/12 28.5 36.6 11 35.4 XL 14 29.1 39 11.6 37.8
-  Updated: 2026-03-24T16:23:28Z
+  Updated: 2026-04-03T02:07:47Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6151,7 +6151,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/759a69a1-4b12-4fd0-a0e9-206ea2722b93-Max.webp?v=1774358592
     Price: $29.37 USD
 - [Perfee Lace Backless Round Neck Bodysuit](https://fitggins.com/products/perfee-lace-backless-round-neck-bodysuit): Features: Tied, Lace detail Sheer: Semi-sheer Stretch: Slightly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Hand wash or professionally dry clean. Imported Product measurements:S:Bust 31.50 in, Top Length 28.35 in, Waist 25.20 in, HIP 28.35 inM:Bust 33.07 in, Top Length 28.94 in, Waist 26.77 in, HIP 29.92 inL:Bust 35.43 in, Top Length 29.72 in, Waist 29.13 in, HIP 32.28 inXL:Bust 37.80 in, Top Length 30.51 in, Waist 31.50 in, HIP 34.65 in
-  Updated: 2026-03-24T16:23:27Z
+  Updated: 2026-04-11T08:01:06Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6173,7 +6173,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb25d737-c3b1-400e-a3db-0ddb6fdc633d-Max.webp?v=1774358603
     Price: $33.08 USD
 - [Full Size Scoop Neck Long Sleeve Bodysuit](https://fitggins.com/products/full-size-scoop-neck-long-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 65% polyester, 35% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist Hip S 2/4 25 25.6 24 28 M 6 25.6 26.8 25.2 29.1 L 8 26.2 28 26.4 30.3 XL 10 26.8 29.1 27.6 31.5 2XL 12 27.4 30.3 28.7 32.7 3XL 14 28 31.5 29.9 33.9
-  Updated: 2026-03-24T16:23:27Z
+  Updated: 2026-04-03T02:10:17Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6275,7 +6275,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/702b261d-eeb7-4120-8873-aba143454f37-Max.webp?v=1774358614
     Price: $31.62 USD
 - [Round Neck Short Sleeve Bodysuit](https://fitggins.com/products/round-neck-short-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 80% polyester, 20% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Model information: Regular size model-height 5'6.3", bust 35.1", waist 25.4", hip 41", size SProduct measurements:S: bust 31.2-35.1 in, sleeve length 4.3 in, waist 27-31.2 in, length 26.5 inM: bust 32.8-36.7 in, sleeve length 4.7 in, waist 29-32.8 in, length 26.9 inL: bust 34.3-38.2 in, sleeve length 5.1 in, waist 30-34.3 in, length 27.3 in
-  Updated: 2026-03-24T16:23:37Z
+  Updated: 2026-04-03T02:12:27Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6389,7 +6389,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c2e089492b584187b49fba30a49f9784-Max.webp?v=1774358626
     Price: $30.74 USD
 - [Perfee Sweetheart Neck Long Sleeve Bodysuit](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-bodysuit): Features: Basic style Sheer: Semi-sheer Stretch: Highly stretchy Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length Waist Hip S 4 30.7 28.1 24.4 28 M 6/8 32.3 28.6 26 29.5 L 10/12 34.6 29.3 28.3 31.9 XL 14 37 30 30.7 34.3
-  Updated: 2026-03-24T16:23:27Z
+  Updated: 2026-04-08T07:10:06Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6411,7 +6411,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ef34e37-c81d-4333-85a1-a13fff210f75-Max.webp?v=1774358632
     Price: $35.54 USD
 - [Round Neck Short Sleeve Bodysuit](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-1): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 80% polyester, 20% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Shoulder Sleeve Length Waist Top Length S 34.6 13.4 9.8 27.6 27.2 M 36.2 13.8 9.8 29.1 27.8 L 38.6 14.2 10.2 31.5 28.3 XL 40.9 15 10.2 33.9 28.9
-  Updated: 2026-03-24T16:23:26Z
+  Updated: 2026-04-03T02:13:36Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6449,7 +6449,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f1569ea0-3bb3-4a47-822f-3b794260ebd3-Max.webp?v=1774358644
     Price: $30.94 USD
 - [Perfee Decorative Button Round Neck Long Sleeve Bodysuit](https://fitggins.com/products/perfee-decorative-button-round-neck-long-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 92% viscose, 8% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist Hip S 4 28.3 30.3 24.4 28.3 M 6/8 28.8 31.9 26 29.9 L 10/12 28.3 34.3 28.3 32.3 XL 14 30.2 36.6 30.7 34.6
-  Updated: 2026-03-24T16:23:26Z
+  Updated: 2026-04-03T02:13:46Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6471,7 +6471,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a2bbfdb-7b62-4480-a0ab-80e5ff410d7d-Max.webp?v=1774358653
     Price: $37.58 USD
 - [Round Neck Long Sleeve Bodysuit](https://fitggins.com/products/round-neck-long-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 80% Polyester, 20% Spandex Care instructions: Machine wash cold. Tumble dry low. Model information: Regular size model-height 5'6.3", bust 35.1", waist 25.4", hip 41", size SProduct measurements:S: bust 30.4-34.3 in, waist 27.3-31 in, sleeve length 21.8 in, length 26.5 inM: bust 32-35.9 in, waist 28.9-33 in, sleeve length 22.2 in, length 27.3 inL: bust 33.5-37.4 in, waist 30.4-34 in, sleeve length 22.6 in, length 28.1 in
-  Updated: 2026-03-24T16:23:26Z
+  Updated: 2026-04-03T02:15:55Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6549,7 +6549,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/30dc60e0d062480da5a5ff42c3db189e-Max.webp?v=1774358666
     Price: $30.98 USD
 - [Animal Print Scoop Neck Long Sleeve Bodysuit](https://fitggins.com/products/animal-print-scoop-neck-long-sleeve-bodysuit): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Waist Hip Top Length S 4 31.1 13.6 23.8 25.6 30.3 27.4 M 6/8 33.5 14.2 24.2 28 32.7 28.1 L 10/12 35.8 14.8 24.6 30.3 35 28.9 XL 14/16 39 15.6 25 33.5 38.2 29.8
-  Updated: 2026-03-24T16:23:26Z
+  Updated: 2026-04-10T09:30:45Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6571,7 +6571,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e310775-bf6b-4853-8727-dfc8a6633dab-Max.webp?v=1774358675
     Price: $32.43 USD
 - [Round Neck Button Up Cardigan with Pockets](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets): Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Shoulder Bust Sleeve Length Top Length S 4 16.5 39.4 22.8 21.3 M 6/8 17.7 41.7 23.2 22 L 10/12 18.9 44.1 23.6 22.8 XL 14 20.1 46.5 24 23.6
-  Updated: 2026-03-24T16:51:57Z
+  Updated: 2026-04-03T02:16:57Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -6657,7 +6657,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/713aeea0-3bb3-49ca-b408-865931c8db1a-Max.webp?v=1774358796
     Price: $41.52 USD
 - [Round Neck Button Up Cardigan with Pockets](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-1): Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Top Length Sleeve Length S 4 44.5 19.3 17.7 20.5 M 6/8 46.5 19.7 18.1 20.9 L 10/12 48.4 20.1 18.5 21.3 XL 14 51.6 20.5 18.9 21.7
-  Updated: 2026-03-24T16:51:57Z
+  Updated: 2026-04-03T02:20:15Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -6807,7 +6807,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/455d2c98-0fec-47bb-832a-b9f5571a7e30-Max.webp?v=1774358809
     Price: $45.38 USD
 - [Bowknot Front V Neck Long Sleeve Sweater](https://fitggins.com/products/bowknot-front-v-neck-long-sleeve-sweater): Features:Bow Stretch:Slightly stretchy Material composition:42% acrylic, 30% polyester, 28% polyamide Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length M 6/8 22.8 21.3 42.5 21.3 L 10/12 23.6 22.4 44.9 21.3 XL 14/16 24.4 24 48 21.3
-  Updated: 2026-03-24T16:51:56Z
+  Updated: 2026-04-03T02:20:36Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -6825,7 +6825,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/80dedb06-703b-418b-ae80-613296cd68f0-Max.webp?v=1774358816
     Price: $49.19 USD
 - [Button Down V-Neck Long Sleeve Cardigan](https://fitggins.com/products/button-down-v-neck-long-sleeve-cardigan): Features: Buttoned Stretch: Moderate stretch Material composition: 100% acrylic. Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 2/4 28 43.3 0 M 6/8 28.3 44.9 0 L 10 28.7 46.5 0 XL 12 29.1 48 0 2XL 14 29.5 48.4 0
-  Updated: 2026-03-24T16:51:56Z
+  Updated: 2026-04-03T02:22:37Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -6951,7 +6951,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5b0427d5-afae-498a-aa13-6818d7ba19ed-Max.webp?v=1774358828
     Price: $41.44 USD
 - [Openwork Open Front Long Sleeve Cardigan](https://fitggins.com/products/openwork-open-front-long-sleeve-cardigan): Features: Openwork Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length S 4 52 15.4 22 M 6/8 53.5 15.7 22.6 L 10/12 55.1 16.1 23.2 XL 14 57.5 16.5 23.8
-  Updated: 2026-03-24T16:51:56Z
+  Updated: 2026-04-03T02:23:31Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7021,7 +7021,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e4d7e8e-9bdc-4c84-9608-9bc673f257b3-Max.webp?v=1774358837
     Price: $46.47 USD
 - [Striped Open Front Knit Cardigan](https://fitggins.com/products/striped-open-front-knit-cardigan): Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 41.34 in, Sleeve Length 20.28 in, Top Length 29.92 inM:Bust 43.31 in, Sleeve Length 20.87 in, Top Length 30.71 inL:Bust 45.28 in, Sleeve Length 21.46 in, Top Length 31.50 inXL:Bust 48.43 in, Sleeve Length 22.24 in, Top Length 32.28 in2XL:Bust 51.57 in, Sleeve Length 23.03 in, Top Length 33.07 in
-  Updated: 2026-03-24T16:51:55Z
+  Updated: 2026-04-03T02:28:17Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7127,7 +7127,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9b44e1cc-2407-40b8-8407-efa9a00949d2-Max.webp?v=1774358848
     Price: $39.81 USD
 - [Slit Open Front Dropped Shoulder Cardigan](https://fitggins.com/products/slit-open-front-dropped-shoulder-cardigan): Features: Basic style Stretch: Slightly stretchy Material composition: 33% acrylic, 27% polyester, 25% cotton, 15% polyamide Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length S 4 22.8 22.4 41.7 19.1 M 6/8 23.6 23.6 44.1 19.1 L 10/12 24.4 24.8 46.5 19.1 XL 14/16 25.2 26.4 49.6 19.1
-  Updated: 2026-03-24T16:51:55Z
+  Updated: 2026-04-04T21:09:26Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7149,7 +7149,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bd196c92-33ea-4e32-9acb-e04048ed7692-Max.webp?v=1774358857
     Price: $49.91 USD
 - [Button Up Long Sleeve Cardigan](https://fitggins.com/products/button-up-long-sleeve-cardigan): Features: Buttoned, Pocketed Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length S 4 48 20.1 22.8 M 6/8 49.6 20.5 23.4 L 10/12 51.2 20.9 24 XL 14 53.5 21.3 24.6
-  Updated: 2026-03-24T16:51:55Z
+  Updated: 2026-04-03T02:31:00Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7251,7 +7251,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9558c63e-bcc7-46e5-a507-5f08094b365c-Max.webp?v=1774358868
     Price: $46.94 USD
 - [Button Down Long Sleeve Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan): Features: Buttoned Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 2/4 20.5 40.9 20.9 M 6 20.9 42.5 21.3 L 8 21.3 44.1 21.7 XL 10 21.7 45.7 22
-  Updated: 2026-03-24T16:51:55Z
+  Updated: 2026-04-14T08:56:07Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7305,19 +7305,19 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da84845a-c947-48c4-bc4c-05da33b71c72-Max.webp?v=1774358878
     Price: $41.44 USD
   - [Light Green / S](https://fitggins.com/products/button-down-long-sleeve-cardigan?variant=52752694444360)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1774358878
     Price: $41.44 USD
   - [Light Green / M](https://fitggins.com/products/button-down-long-sleeve-cardigan?variant=52752694477128)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1774358878
     Price: $41.44 USD
   - [Light Green / L](https://fitggins.com/products/button-down-long-sleeve-cardigan?variant=52752694509896)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1774358878
     Price: $41.44 USD
   - [Light Green / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan?variant=52752694542664)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1774358878
     Price: $41.44 USD
   - [Dark Gray / S](https://fitggins.com/products/button-down-long-sleeve-cardigan?variant=52752694575432)
@@ -7353,7 +7353,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9988356b-73b8-4596-a984-6a25471ac244-Max.webp?v=1774358878
     Price: $41.44 USD
 - [Open Front Long Sleeve Cardigan](https://fitggins.com/products/open-front-long-sleeve-cardigan): Features: Basic style Stretch: Slightly stretchy Material composition: 65% rayon, 30% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 32.7 37.8 20.9 M 6/8 33.1 39.8 21.3 L 10/12 33.5 41.7 21.7 XL 14/16 33.9 44.9 22 2XL 18 34.3 48 22.4
-  Updated: 2026-03-24T16:51:54Z
+  Updated: 2026-04-03T02:39:25Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7459,7 +7459,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a0921a5-5a0b-4183-a4e2-10aa6769b187-Max.webp?v=1774358887
     Price: $36.50 USD
 - [Rib-Knit Open Front Pocketed Cardigan](https://fitggins.com/products/rib-knit-open-front-pocketed-cardigan): This long-sleeved rib-knit cardigan is soft and cozy. It has a lovely open front and two pockets for stashing your extras. Layer it over a blouse or T-shirt for warm days. Sizing category: Regular Picture style: Outdoors Pattern type: Solid Style: Casual, chic Features: Ribbed, pockets Neckline: Open front Length: Long Sleeve length: Long sleeves Sleeve type: Regular sleeves Material: 65% polyester, 35% acrylic Stretch: Moderate stretch Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 41.3 in, sleeve length 22.6 in, length 28.9 inM: bust 43.3 in, sleeve length 23 in, length 29.6 inL: bust 45.2 in, sleeve length 23.4 in, length 30.4 inXL: bust 47.2 in, sleeve length 23.8 in, length 31.2 in
-  Updated: 2026-03-24T16:51:54Z
+  Updated: 2026-04-03T02:41:07Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7529,7 +7529,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb2e05ad85e64aed9e44cafd83058c6a-Max.webp?v=1774358908
     Price: $42.29 USD
 - [Button Down Long Sleeve Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan-1): Features: Basic style Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length S 4 41.7 18.9 21.3 M 6/8 43.3 19.3 21.7 L 10/12 45.7 19.7 22.4 XL 14 48 20.1 23.2
-  Updated: 2026-03-24T16:51:54Z
+  Updated: 2026-04-03T02:41:46Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7567,7 +7567,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/355ad162-bf5a-4df2-a95c-d36b90a603ec-Max.webp?v=1774358918
     Price: $41.27 USD
 - [Open Front Raglan Sleeve Pocketed Cardigan](https://fitggins.com/products/open-front-raglan-sleeve-pocketed-cardigan): Features: Pocketed Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 44.09 in, Sleeve Length 28.74 in, Top Length 26.77 inM:Bust 45.67 in, Sleeve Length 29.13 in, Top Length 27.56 inL:Bust 48.03 in, Sleeve Length 29.53 in, Top Length 28.35 inXL:Bust 50.39 in, Sleeve Length 29.92 in, Top Length 29.13 in2XL:Bust 52.76 in, Sleeve Length 30.31 in, Top Length 29.92 in
-  Updated: 2026-03-24T16:51:54Z
+  Updated: 2026-04-03T02:42:18Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7653,7 +7653,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/312f977c-e934-4d9d-86c1-32d901fb51fc-Max.webp?v=1774358928
     Price: $46.97 USD
 - [Button Up Long Sleeve Cardigan](https://fitggins.com/products/button-up-long-sleeve-cardigan-1): Features: Buttoned Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 2/4 22.4 39.4 27.2 M 6 23.2 40.9 27.6 L 8 23.6 42.5 28 XL 10 24 44.1 28.3
-  Updated: 2026-03-24T16:52:03Z
+  Updated: 2026-04-03T02:42:29Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7707,7 +7707,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8fbd1cb-9c0a-49c2-8c0c-fcfe8099de93-Max.webp?v=1774358938
     Price: $38.08 USD
 - [Striped Button Up Long Sleeve Sweater](https://fitggins.com/products/striped-button-up-long-sleeve-sweater): Features: Buttoned Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 22 40.9 18.5 M 6/8 22.4 42.5 18.9 L 10/12 22.8 44.1 19.3 XL 14 23.2 46.5 19.7
-  Updated: 2026-03-24T16:51:53Z
+  Updated: 2026-04-03T02:42:35Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7777,7 +7777,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3a1b9d0b-fae8-4b4c-ae8c-0c759646457c-Max.webp?v=1774358950
     Price: $37.54 USD
 - [Contrast Button Up Long Sleeve Cardigan](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan): Features: Buttoned, Pocketed Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length S 4 51.2 19.7 25.6 M 6/8 52.8 20.1 26.2 L 10/12 54.3 20.5 26.8 XL 14 56.7 20.9 27.4
-  Updated: 2026-03-24T16:52:03Z
+  Updated: 2026-04-03T02:44:20Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7847,7 +7847,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e433b2ea-f043-4a6d-931c-dbd4f1d3fcee-Max.webp?v=1774358960
     Price: $48.17 USD
 - [Printed Spaghetti Strap Smocked Midi Dress](https://fitggins.com/products/printed-spaghetti-strap-smocked-midi-dress): Pattern type: Printed Style: Chic Features: Smocked Neckline: Straight Length: Midi Sleeve length: Sleeveless Sleeve type: Spaghetti straps Hem shaped: A-line Sheer: No Body: Not lined Material composition: 100% polyester Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 30.4 in, waist 26.5 in, length 41.7 in, shoulder 15.6 inM: bust 32.8 in, waist 28.9 in, length 42.1 in, shoulder 16 inL: bust 35.1 in, waist 31.2 in, length 42.6 in, shoulder 16.4 inXL: bust 38.2 in, waist 34.3 in, length 43.1 in, shoulder 16.8 in
-  Updated: 2026-03-24T19:05:36Z
+  Updated: 2026-04-03T02:44:46Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -7869,7 +7869,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/58e438f49de047f1ab247762ed6675ef-Max.jpg?v=1774358970
     Price: $47.00 USD
 - [Floral Surplice Neck Tied Midi Dress](https://fitggins.com/products/floral-surplice-neck-tied-midi-dress): Features:Tied,Asymmetrical Stretch:No stretch Body:Not lined Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length S 50 33.5 6.7 M 50.6 35 6.9 L 51.2 36.6 7.1 XL 51.8 38.2 7.3 2XL 52.4 39.8 7.5
-  Updated: 2026-03-24T19:05:36Z
+  Updated: 2026-04-03T02:46:37Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -7899,7 +7899,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4f442e1c3c564080bee285ad2be3ea0b-Max.jpg?v=1774358980
     Price: $37.76 USD
   - [Black/Yellow / M](https://fitggins.com/products/floral-surplice-neck-tied-midi-dress?variant=52752701849928)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4f442e1c3c564080bee285ad2be3ea0b-Max.jpg?v=1774358980
     Price: $37.76 USD
   - [Black/Yellow / L](https://fitggins.com/products/floral-surplice-neck-tied-midi-dress?variant=52752701882696)
@@ -7919,7 +7919,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d8bdb70aec3f4cc58d0fb802bed4904c-Max.jpg?v=1774358979
     Price: $37.76 USD
   - [Pink Floral / M](https://fitggins.com/products/floral-surplice-neck-tied-midi-dress?variant=52752702013768)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d8bdb70aec3f4cc58d0fb802bed4904c-Max.jpg?v=1774358979
     Price: $37.76 USD
   - [Pink Floral / L](https://fitggins.com/products/floral-surplice-neck-tied-midi-dress?variant=52752702046536)
@@ -7935,7 +7935,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d8bdb70aec3f4cc58d0fb802bed4904c-Max.jpg?v=1774358979
     Price: $37.76 USD
   - [Light Green / S](https://fitggins.com/products/floral-surplice-neck-tied-midi-dress?variant=52752702144840)
-    Availability: Not Available
+    Availability: Available
     Price: $37.76 USD
   - [Light Green / M](https://fitggins.com/products/floral-surplice-neck-tied-midi-dress?variant=52752702177608)
     Availability: Not Available
@@ -7950,7 +7950,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Availability: Not Available
     Price: $37.76 USD
 - [Pleated Long Sleeve Surplice Maxi Dress](https://fitggins.com/products/pleated-long-sleeve-surplice-maxi-dress): Type: Maxi dresses Sizing category: Regular Picture style: Outdoors Pattern type: Solid Style: Classy Features: Pleated, tie Neckline: Surplice Length: Maxi Sleeve length: Long sleeves Sleeve type: Regular sleeves Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 50 in, bust 36 in, waist 23-31 in, sleeve 23 in, shoulder 14 inM: length 50 in, bust 37 in, waist 25-33 in, sleeve 23 in, shoulder 15 inL: length 51 in, bust 39 in, waist 27-34 in, sleeve 24 in, shoulder 15 inXL: length 51 in, bust 41 in, waist 28-36 in, sleeve 24 in, shoulder 16 in
-  Updated: 2026-03-24T19:05:35Z
+  Updated: 2026-04-03T02:50:43Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8036,7 +8036,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2048433cba1e4321af9a056a1c23cfdf-Max.jpg?v=1774358991
     Price: $38.15 USD
 - [Plus Size Scoop Neck Maxi Tank Dress](https://fitggins.com/products/plus-size-scoop-neck-maxi-tank-dress): Type: Maxi dresses Sizing category: Plus Pattern type: Solid Style: Casual Features: Basic style Neckline: Round neck Length: Maxi Sleeve length: Sleeveless Sleeve type: Sleeveless Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: L: length 55 in, bust 34 in, waist 31 in, hip 36 inXL: length 55 in, bust 36 in, waist 34 in, hip 37 in2XL: length 56 in, bust 38 in, waist 36 in, hip 39 in3XL: length 56 in, bust 41 in, waist 38 in, hip 41 in4XL: length 57 in, bust 43 in, waist 41 in, hip 44 in5XL: length 57 in, bust 45 in, waist 43 in, hip 46 in
-  Updated: 2026-03-24T19:05:35Z
+  Updated: 2026-04-03T02:52:07Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8114,7 +8114,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/83480c8327af4ac28d0b3c814ecef7b1-Max.jpg?v=1774358998
     Price: $36.23 USD
 - [Spaghetti Strap Flowy Maxi Dress](https://fitggins.com/products/spaghetti-strap-flowy-maxi-dress): Features:Ruched Stretch:No stretch Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust S 56.7 51.2 M 57.1 52.8 L 57.5 55.1 XL 57.9 57.5 2XL 58.3 59.8
-  Updated: 2026-03-24T19:05:34Z
+  Updated: 2026-04-09T17:48:07Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8240,7 +8240,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d34f966b16804cabb8e73889e183eecb-Max.jpg?v=1774359010
     Price: $35.61 USD
 - [Leopard V-Neck Flounce Sleeve Mini Dress](https://fitggins.com/products/leopard-v-neck-flounce-sleeve-mini-dress): Features: Tied Sheer: Opaque Stretch: No stretch Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Shoulder Sleeve Length Waist Waist Stretch Amount S 2/4 34.3 36.2 13.4 9.8 22 45.7 M 6 34.6 37.8 13.8 10.2 23.6 47.2 L 8 35 39.4 14.2 10.6 25.2 48.8 XL 10 35.4 40.9 14.6 11 26.8 50.4 2XL 12 35.8 42.5 15 11.4 28.3 52
-  Updated: 2026-03-24T19:05:34Z
+  Updated: 2026-04-03T02:55:59Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8306,7 +8306,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91c335b5-ed6e-4bb0-a50d-eccb0b428988-Max.webp?v=1774359020
     Price: $33.96 USD
 - [Round Neck Maxi Tee Dress with Pockets](https://fitggins.com/products/round-neck-maxi-tee-dress-with-pockets): Type: Maxi dresses, casual dresses Sizing category: Regular Pattern type: Solid Style: Casual Features: Pockets Neckline: Round neck Length: Maxi Sleeve length: Short sleeves Sleeve type: Regular sleeves Material: 95% rayon, 5% spandex Stretch: Highly stretchy Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 52 in, shoulder 14 in, bust 33 in, sleeve length 7 in, waist 26 inM: front length 52 in, shoulder 15 in, bust 35 in, sleeve length 7 in, waist 28 inL: front length 53 in, shoulder 15 in, bust 37 in, sleeve length 7 in, waist 30 inXL: front length 53 in, shoulder 16 in, bust 40 in, sleeve length 8 in, waist 32 in2XL: front length 55 in, shoulder 16 in, bust 43 in, sleeve length 8 in, waist 35 in
-  Updated: 2026-03-24T19:05:33Z
+  Updated: 2026-04-12T22:11:42Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8392,7 +8392,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e13e3b7194c0491db23bb85fa7fb9c8b-Max.jpg?v=1774359035
     Price: $42.67 USD
 - [Printed Tie Waist Sleeveless Maxi Dress](https://fitggins.com/products/printed-tie-waist-sleeveless-maxi-dress): Features: Buttoned, Tied, Ruched Sheer: Opaque Stretch: No stretch Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Shoulder Waist Waist Stretch Amount Bust S 4 53.1 14.2 25.2 38.6 36.2 M 6/8 53.5 14.6 26.8 40.2 37.8 L 10/12 53.9 15 29.1 42.5 40.2 XL 14 54.3 15.4 31.5 44.9 42.5 2XL 16 54.7 15.7 33.9 47.2 44.9
-  Updated: 2026-03-24T19:05:33Z
+  Updated: 2026-04-13T17:30:25Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8458,7 +8458,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ddc03c5b-5999-49f1-8ce4-d3cdbe56467e-Max-Origin.webp?v=1774359048
     Price: $34.58 USD
 - [Tied Round Neck Sleeveless Dress](https://fitggins.com/products/tied-round-neck-sleeveless-dress): Features: Tied Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 65% rayon, 30% polyester, 5%spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Waist HIP S 4 39 37.4 38.6 44.9 M 6/8 39.4 39.4 40.6 46.9 L 10/12 39.8 41.3 42.5 48.8 XL 14/16 40.6 44.5 45.7 52 2XL 18 41.3 47.6 48.8 55.1
-  Updated: 2026-03-24T19:05:32Z
+  Updated: 2026-04-03T03:00:09Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8584,7 +8584,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/07a17549-5dbf-4193-81bb-6ec12fec15be-Max.webp?v=1774359067
     Price: $33.04 USD
 - [Floral Print Flounce Sleeve Midi Dress](https://fitggins.com/products/floral-print-flounce-sleeve-midi-dress): Features:Ruffled,Slit,Tied Stretch:Slightly stretchy Body:Not lined Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip Bust S 43.4 28.3 44.1 34.6 M 44.1 30.7 46.5 37 L 44.8 33.1 48.8 39.4 XL 45.4 36.2 52 42.5
-  Updated: 2026-03-24T19:05:32Z
+  Updated: 2026-04-07T06:31:04Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8598,15 +8598,15 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2cdca797-c25b-4ee3-b407-8d229f894a05-Max-Origin.webp?v=1774359081
     Price: $42.21 USD
   - [Black / L](https://fitggins.com/products/floral-print-flounce-sleeve-midi-dress?variant=52752713351496)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2cdca797-c25b-4ee3-b407-8d229f894a05-Max-Origin.webp?v=1774359081
     Price: $42.21 USD
   - [Black / XL](https://fitggins.com/products/floral-print-flounce-sleeve-midi-dress?variant=52752713384264)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2cdca797-c25b-4ee3-b407-8d229f894a05-Max-Origin.webp?v=1774359081
     Price: $42.21 USD
   - [Dusty Pink / S](https://fitggins.com/products/floral-print-flounce-sleeve-midi-dress?variant=52752713417032)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9087540e-273a-4bc7-a7f0-cda529a23ef6-Max-Origin.webp?v=1774359080
     Price: $44.16 USD
   - [Dusty Pink / M](https://fitggins.com/products/floral-print-flounce-sleeve-midi-dress?variant=52752713449800)
@@ -8638,7 +8638,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e8aa5be-4919-40c7-a7ac-8d6d01d08d9b-Max-Origin.webp?v=1774359081
     Price: $43.81 USD
 - [Sleeveless Button Down Mini Magic Dress](https://fitggins.com/products/sleeveless-button-down-mini-magic-dress): This flowy sleeveless dress features a v-neck, button front, and short mini length. Pair with your favorite sandals and a handbag for an effortless look. Type: Casual dresses Sizing category: Regular Picture style: Studio Pattern type: Solid Style: Casual, chic, classy Features: Buttoned, slit, with pockets Neckline: V-neck Length: Mini Sleeve length: Sleeveless Sleeve type: Sleeveless Material: 95% polyester, 5% spandex Stretch: Moderate stretch Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 35 in, waist 27 in, shoulder 11 in, length 35 inM: bust 37 in, waist 29 in, shoulder 12 in, length 36 inL: bust 39 in, waist 31 in, shoulder 12 in, length 37 inXL: bust 42 in, waist 34 in, shoulder 13 in, length 38 in2XL: bust 45 in, waist 37 in, shoulder 13 in, length 39 in
-  Updated: 2026-03-24T19:05:31Z
+  Updated: 2026-04-03T03:05:18Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8844,7 +8844,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0364ca6c25f447afa4ebf0e9f7c95add-Max_122c3dd7-e214-4d49-99b9-695acb420bcc.jpg?v=1774359099
     Price: $38.65 USD
 - [Printed Round Neck Mini Tank Dress](https://fitggins.com/products/printed-round-neck-mini-tank-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Length S 4 37 53.5 M 6/8 38.6 53.9 L 10/12 40.9 54.3 XL 14 43.3 54.7 2XL 16 45.7 55.1
-  Updated: 2026-03-24T19:05:31Z
+  Updated: 2026-04-03T03:06:51Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8970,7 +8970,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d1900098-5df2-496f-bfbb-3935f08a7efd-Max.webp?v=1774359111
     Price: $34.98 USD
 - [Stripe Cap Sleeve Pocketed Shift Dress](https://fitggins.com/products/stripe-cap-sleeve-pocketed-shift-dress): Features:Basic style Stretch:Slightly stretchy Body:Not lined Material composition:58% polyester, 30% cotton, 10% viscose, 2% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip Bust S 34.6 38.2 40.2 39.8 M 35.4 40.6 42.5 42.1 L 36.2 42.9 44.9 44.5 XL 37 46.1 48 47.6 2XL 37.8 49.2 51.2 50.8
-  Updated: 2026-03-24T19:05:30Z
+  Updated: 2026-04-08T00:59:26Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -8996,7 +8996,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/eaaa290fe160437ebaab68e4e5d81eae-Max-Origin.webp?v=1774359125
     Price: $34.48 USD
 - [Ivy Lane Decorative Button Notched Sleeveless Dress](https://fitggins.com/products/ivy-lane-decorative-button-notched-sleeveless-dress): Features: Decorative Button Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 100% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Shoulder Bust Waist S 4 48.8 12.2 37 36.6 M 6/8 49.2 12.6 38.6 38.2 L 10/12 49.8 13 40.9 40.9 XL 14 50.4 13.4 43.3 42.9 2XL 16 51 13.8 45.7 45.3
-  Updated: 2026-03-24T19:05:30Z
+  Updated: 2026-04-03T03:06:57Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -9082,7 +9082,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/443112bf-3d1d-4e50-8381-18db8e088449-Max.webp?v=1774359143
     Price: $34.14 USD
 - [Printed Smocked Maxi Cami Dress](https://fitggins.com/products/printed-smocked-maxi-cami-dress): Features: Smocked Stretch: No stretch Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Bust Stretch Amount S 2/4 44.9 27.6 41.7 M 6 45.3 29.1 43.3 L 8 45.7 30.7 44.9 XL 12 46.1 32.3 46.5 2XL 14 46.5 33.1 48
-  Updated: 2026-03-24T19:05:29Z
+  Updated: 2026-04-05T19:15:04Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -9168,7 +9168,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01e8b9e8-d7e6-49d9-a9b9-a03a5d83499b-Max-Origin.webp?v=1774359156
     Price: $37.99 USD
 - [Smocked Halter Neck Tiered Dress](https://fitggins.com/products/smocked-halter-neck-tiered-dress): Features:Ruched,Ruffled,Smocked,Tied Stretch:No stretch Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust S 31.1 30.7 M 31.5 32.3 L 31.9 34.6 XL 32.3 39.4 2XL 32.7 43.3
-  Updated: 2026-03-24T19:05:29Z
+  Updated: 2026-04-12T01:24:56Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -9262,7 +9262,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e46f0b89a86b44409c23b0ee273708d0-Max.jpg?v=1774359172
     Price: $38.23 USD
   - [Peacock Blue / L](https://fitggins.com/products/smocked-halter-neck-tiered-dress?variant=52752793239880)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e46f0b89a86b44409c23b0ee273708d0-Max.jpg?v=1774359172
     Price: $38.23 USD
   - [Peacock Blue / XL](https://fitggins.com/products/smocked-halter-neck-tiered-dress?variant=52752793272648)
@@ -9294,7 +9294,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dfb1d1ea59d24a388ea1fa03d8e4d360-Max.jpg?v=1774359172
     Price: $38.23 USD
 - [Millennia Cutout Long Sleeve Cropped Sports Top](https://fitggins.com/products/millennia-cutout-long-sleeve-cropped-sports-top): Sizing category: Regular Activity: Yoga Picture style: Studio Pattern type: Solid Features: Feel like skin Neckline: Round neck Length: Cropped Sleeve length: Long sleeves Sleeve type: Regular Material: 80% nylon, 20% spandex Stretch: Highly stretchy Sheer: No Body: Not lined Chest pad: No padding Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: 4: length 13 in, bust 26 in6: length 13 in, bust 28 in8: length 14 in, bust 29 in10: length 14 in, bust 31 in12: length 14 in, bust 32 in
-  Updated: 2026-03-24T19:05:28Z
+  Updated: 2026-04-03T03:10:27Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -9360,7 +9360,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c247db1079c24116acf3fec27fa1817e-Max.jpg?v=1774359186
     Price: $39.39 USD
 - [Raglan Sleeve Button Front Cardigan](https://fitggins.com/products/raglan-sleeve-button-front-cardigan): Sizing category: Regular Pattern type: Solid Style: Casual Features: Buttoned Neckline: V-neck Length: Cropped Sleeve length: Extra-long sleeves Sleeve type: Raglan sleeves Material: 60% acrylic, 40% nylon Stretch: Moderate stretch Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 40 in, sleeve length 27 in, length 21 inM: bust 42 in, sleeve length 27 in, length 21 inL: bust 44 in, sleeve length 28 in, length 22 inXL: bust 46 in, sleeve length 28 in, length 22 in
-  Updated: 2026-03-24T16:51:53Z
+  Updated: 2026-04-03T03:10:26Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -9398,7 +9398,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ea91d073f95b424aad25a8d2377ce015-Max.jpg?v=1774359194
     Price: $37.10 USD
 - [Floral Smocked Short Puff Sleeve Maxi Dress](https://fitggins.com/products/floral-smocked-short-puff-sleeve-maxi-dress): Features: Smocked, Tiered Stretch: No stretch Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Waist S 4 55.9 28.3 26 M 6/8 56.3 30.7 28.3 L 10/12 56.7 33.1 30.7 XL 14/16 57.1 36.2 33.9
-  Updated: 2026-03-24T19:05:28Z
+  Updated: 2026-04-14T22:36:14Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -9420,7 +9420,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4526d39f-6147-4a33-9281-c2c4d9081f01-Max-Origin.webp?v=1774359206
     Price: $59.83 USD
 - [Ivy Lane Plaid Butterfly Sleeve Deep V Dress](https://fitggins.com/products/ivy-lane-plaid-butterfly-sleeve-deep-v-dress): Pattern type: Plaid Style: Chic Features: Ruffle Neckline: V-neck Length: Mini Sleeve length: Cap sleeves Sleeve type: Sleeveless Hem shaped: A-line Sheer: No Body: Not lined Material composition: 50% polyester, 50%rayon Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 33 in, bust 36 in, shoulder 14 inM: length 34 in, bust 38 in, shoulder 14 inL: length 35 in, bust 41 in, shoulder 15 inXL: length 35 in, bust 44 in, shoulder 16 in
-  Updated: 2026-03-24T19:05:27Z
+  Updated: 2026-04-03T03:10:29Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -9474,7 +9474,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e12d9c7884224743a78cf4f6a361552b-Max.jpg?v=1774359223
     Price: $33.67 USD
 - [Ruched Sports Cami](https://fitggins.com/products/ruched-sports-cami): Features: Basic style Stretch: Highly stretchy Material composition: 78% nylon, 22% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 26.5 in, length 12 inM: bust 28.1 in, length 12.4 inL: bust 30 in, length 12.8 inXL: bust 32 in, length 13.2 in2XL: bust 33.9 in, length 13.6 in
-  Updated: 2026-03-24T19:05:27Z
+  Updated: 2026-04-03T03:15:36Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -9620,7 +9620,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8832d17dcf1a4e77a8f87bfad4a439c1-Max.jpg?v=1774359240
     Price: $36.47 USD
 - [Plus Size Ribbed Cocoon Cover Up](https://fitggins.com/products/plus-size-ribbed-cocoon-cover-up): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 95%Polyester5%Elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:1XL:Sleeve Length 18.11 in, Bust 81.89 in, Top Length 29.53 in2XL:Sleeve Length 18.82 in, Bust 85.04 in, Top Length 30.28 in3XL:Sleeve Length 19.53 in, Bust 88.19 in, Top Length 30.63 in4XL:Sleeve Length 20.24 in, Bust 91.34 in, Top Length 30.98 in
-  Updated: 2026-03-24T16:51:51Z
+  Updated: 2026-04-11T02:22:06Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -9706,7 +9706,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e1a27bfa-55b9-4b9e-8bf1-37ca83e33b88-Max.webp?v=1774359246
     Price: $35.89 USD
 - [Ivy Lane Plaid Collared Neck Midi Dress](https://fitggins.com/products/ivy-lane-plaid-collared-neck-midi-dress): Pattern type: Plaid Style: Chic Features: Pockets, Buttoned Neckline: Collared neck Length: Midi Sleeve length: Half sleeves Sleeve type: Regular sleeves Hem shaped: A-line Sheer: No Body: Not lined Material composition: 100% polyester Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 45 in, bust 37 in, sleeve length 15 in, shoulder 15 in, waist 29 inM: length 46 in, bust 38 in, sleeve length 15 in, shoulder 15 in, waist 30 inL: length 47 in, bust 41 in, sleeve length 15 in, shoulder 16 in, waist 33 inXL: length 47 in, bust 43 in, sleeve length 16 in, shoulder 16 in, waist 35 in
-  Updated: 2026-03-24T19:05:26Z
+  Updated: 2026-04-03T03:17:38Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -9744,7 +9744,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/caafb5929d724de7a7c03180f3b4b866-Max.jpg?v=1774359258
     Price: $39.68 USD
 - [Millennia Drawstring Ruched Wide Strap Active Tank](https://fitggins.com/products/millennia-drawstring-ruched-wide-strap-active-tank): Features: Drawstring Sheer: Opaque Stretch: Moderate stretch Material composition: 92% cotton, 8% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust 4 15.9 30.7 6 16.5 33.5 8 17.1 33.9 10 17.7 35.4 12 18.3 37
-  Updated: 2026-03-24T19:05:25Z
+  Updated: 2026-04-03T03:18:39Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -9850,7 +9850,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f07fb653-9262-457f-b998-0196621bffd8-Max.webp?v=1774359275
     Price: $34.73 USD
 - [Full Size Slit Round Neck Sleeveless Maxi Tank Dress Plus Size](https://fitggins.com/products/full-size-slit-round-neck-sleeveless-maxi-tank-dress-plus-size): Features: Pocketed, Slit Stretch: No stretch Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Waist Shoulder S 2/4 48.8 28.7 23.6 13.8 M 6/8 49.6 30.7 25.6 14.2 L 10 50.4 32.7 27.6 14.6 XL 12 51.2 34.6 29.5 15 2XL 14 52 36.6 31.5 15.4 3XL 16 52.8 38.6 33.5 15.7 4XL 18 53.5 40.6 35.4 16.1 5XL 20 54.3 42.5 37.4 16.5
-  Updated: 2026-03-24T19:05:25Z
+  Updated: 2026-04-10T02:41:06Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -10056,7 +10056,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/428b9b67-893e-4358-85d1-9e7bd22c0cbd-Max-Origin.webp?v=1774359280
     Price: $34.76 USD
 - [Millennia Feel Like Skin Scoop Neck Sports Cami](https://fitggins.com/products/millennia-feel-like-skin-scoop-neck-sports-cami): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 87% nylon, 13% spandex Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: length 13 in, bust 27 in, hem 23 inM: length 13 in, bust 28 in, hem 24 inL: length 14 in, bust 30 in, hem 26 inXL: length 14 in, bust 31 in, hem 27 in
-  Updated: 2026-03-24T19:05:24Z
+  Updated: 2026-04-03T03:25:08Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -10094,7 +10094,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/684a02e3f9d047bcb9d8cb91447bcfe4-Max.jpg?v=1774359289
     Price: $33.34 USD
   - [Light Indigo / S](https://fitggins.com/products/millennia-feel-like-skin-scoop-neck-sports-cami?variant=52752802480456)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e5294de4a7da4a54af2f1a70dd3a0daa-Max.jpg?v=1774359289
     Price: $33.34 USD
   - [Light Indigo / M](https://fitggins.com/products/millennia-feel-like-skin-scoop-neck-sports-cami?variant=52752802513224)
@@ -10158,7 +10158,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/137d1be7215a4b3cb7a0f91b749cc08b-Max.jpg?v=1774359288
     Price: $33.34 USD
 - [Full Size Floral Long Sleeve Mini Dress](https://fitggins.com/products/full-size-floral-long-sleeve-mini-dress): Pattern type: Printed Style: Casual Features: Basic style Neckline: Round neck Length: Midi Sleeve length: Long sleeves Sleeve type: Regular sleeves Hem shaped: Straight Sheer: No Body: Not lined Material composition: 100% polyester Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 33.2 in, shoulder 15.2 in, bust 36.7 in, sleeve length 22 in, waist 37.4 inM: length 33.5 in, shoulder 15.6 in, bust 38.2 in, sleeve length 22 in, waist 39 inL: length 33.9 in, shoulder 16 in, bust 39.8 in, sleeve length 23 in, waist 40.6 inXL: length 34.3 in, shoulder 16.4 in, bust 41.3 in, sleeve length 23 in, waist 42.1 in2XL: length 34.7 in, shoulder 16.8 in, bust 42.9 in, sleeve length 23 in, waist 43.7 in3XL: length 35.1 in, shoulder 17.2 in, bust 44.5 in, sleeve length 24 in, waist 45.2 in4XL: length 35.5 in, shoulder 17.6 in, bust 46 in, sleeve length 24 in, waist 46.8 in5XL: length 35.9 in, shoulder 17.9 in, bust 47.6 in, sleeve length 25 in, waist 48.4 in
-  Updated: 2026-03-24T19:05:24Z
+  Updated: 2026-04-03T03:25:53Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -10260,7 +10260,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/57a93b7c13684509999ea0ecf601413c-Max.jpg?v=1774359295
     Price: $36.42 USD
 - [Round Neck Active Tank](https://fitggins.com/products/round-neck-active-tank): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 78% nylon, 22% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 31.89 in, Top Length 19.69 inM:Bust 33.46 in, Top Length 20.28 inL:Bust 35.43 in, Top Length 20.87 inXL:Bust 37.40 in, Top Length 21.46 in2XL:Bust 39.37 in, Top Length 22.05 in
-  Updated: 2026-03-24T19:05:23Z
+  Updated: 2026-04-03T03:28:08Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -10386,7 +10386,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c0e7f1f7-9e4b-41aa-b234-160418cc2931-Max.webp?v=1774359309
     Price: $34.34 USD
 - [Ivy Lane Tassel Tie Lace Trim Sleeveless Dress](https://fitggins.com/products/ivy-lane-tassel-tie-lace-trim-sleeveless-dress): Pattern type: Solid Style: Chic Features: Tassel Neckline: Tie neck Length: Mini Sleeve length: Sleeveless Sleeve type: Sleeveless Hem shaped: A-line Sheer: No Body: Not lined Material composition: 80% polyester, 20% cotton Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 34 in, bust 36 in, shoulder 12 in, waist 37 inM: length 34 in, bust 37 in, shoulder 13 in, waist 38 inL: length 35 in, bust 40 in, shoulder 13 in, waist 41 inXL: length 35 in, bust 42 in, shoulder 14 in, waist 43 in
-  Updated: 2026-03-24T19:05:22Z
+  Updated: 2026-04-03T03:29:19Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -10504,7 +10504,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5b62bd5e052f463eac94b543f2bbb099-Max.jpg?v=1774359317
     Price: $34.31 USD
 - [Open Front Long Sleeve Cardigan](https://fitggins.com/products/open-front-long-sleeve-cardigan-1): Features: Basic style Stretch: Moderate stretch Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 20.1 44.1 20.5 M 6/8 20.5 45.7 20.9 L 10/12 20.9 48 21.3 XL 14 21.3 50.4 21.7
-  Updated: 2026-03-24T16:51:52Z
+  Updated: 2026-04-03T03:29:20Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -10574,7 +10574,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712e614b-87bb-4592-8688-2a301691df71-Max.webp?v=1774359330
     Price: $36.02 USD
 - [Millennia Cropped Sport Tank](https://fitggins.com/products/millennia-cropped-sport-tank): Features: Basic style Stretch: No stretch Material composition: 75% polyester, 25% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 4: front length 16.8 in, bust 26.5 in6: front length 17.2 in, bust 28.1 in8: front length 17.6 in, bust 29.6 in10: front length 17.9 in, bust 31.2 in
-  Updated: 2026-03-24T19:05:21Z
+  Updated: 2026-04-03T03:30:08Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -10628,7 +10628,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/deaf81f3bbd943cc9b94b9ee1f98675e-Max.jpg?v=1774359344
     Price: $35.14 USD
 - [Pearl Studded Pockets Raw Hem Denim Shorts](https://fitggins.com/products/pearl-studded-pockets-raw-hem-denim-shorts): Features: Raw Hem, Pocketed Stretch: No stretch Material composition: 93% cotton, 5% polyester, 2% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 6 13.2 3.7 27.8 38.4 8 13.4 3.7 28.7 39.4 10 13.6 3.7 29.7 40.4 12 13.8 3.7 31.3 41.9 14 14.1 3.7 32.9 43.5 16 14.3 3.7 34.4 45.1
-  Updated: 2026-03-24T19:05:20Z
+  Updated: 2026-04-08T07:50:47Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -10658,7 +10658,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/871937b9-81de-46f1-b152-e592927cb041-Max-Origin.webp?v=1774359351
     Price: $47.84 USD
 - [Scoop Neck Wide Strap Maxi Dress](https://fitggins.com/products/scoop-neck-wide-strap-maxi-dress): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Body: Not lined Material composition: 80% polyester, 20% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 29.13 in, Waist 24.41 in, Waist Stretch Amount 28.35 in, HIP 34.65 in, Length 56.69 inM:Bust 30.71 in, Waist 25.98 in, Waist Stretch Amount 29.92 in, HIP 36.22 in, Length 57.09 inL:Bust 32.28 in, Waist 27.56 in, Waist Stretch Amount 31.50 in, HIP 37.80 in, Length 57.48 inXL:Bust 33.86 in, Waist 29.13 in, Waist Stretch Amount 33.07 in, HIP 39.37 in, Length 57.87 in
-  Updated: 2026-03-24T19:05:19Z
+  Updated: 2026-04-03T03:33:06Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -10856,7 +10856,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c5c1f619-ad30-4fca-964c-09567445551e-Max.webp?v=1774359366
     Price: $31.89 USD
 - [Millennia Racerback Cropped Sports Tank](https://fitggins.com/products/millennia-racerback-cropped-sports-tank): Features:Basic style Material composition:80% nylon, 20% spandex Stretch:Highly stretchy Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Hem 4 14.8 26.8 24 6 15.2 28.3 25.6 8 15.6 29.9 27.2 10 15.9 31.5 28.7 12 16.3 33.1 30.3
-  Updated: 2026-03-24T19:05:18Z
+  Updated: 2026-04-03T03:34:47Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -10882,23 +10882,23 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ccfc375702e5441fbc516df403347d2e-Max.jpg?v=1774359381
     Price: $40.78 USD
   - [White / 4](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813490504)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/443ff248804f4a4b964d961eb695fa62-Max.jpg?v=1774359381
     Price: $40.78 USD
   - [White / 6](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813523272)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/443ff248804f4a4b964d961eb695fa62-Max.jpg?v=1774359381
     Price: $40.78 USD
   - [White / 8](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813556040)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/443ff248804f4a4b964d961eb695fa62-Max.jpg?v=1774359381
     Price: $40.78 USD
   - [White / 10](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813588808)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/443ff248804f4a4b964d961eb695fa62-Max.jpg?v=1774359381
     Price: $40.78 USD
   - [White / 12](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813621576)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/443ff248804f4a4b964d961eb695fa62-Max.jpg?v=1774359381
     Price: $40.78 USD
   - [Cerise / 4](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813654344)
@@ -10926,7 +10926,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d7997b648444f279adc9a03bf67f209-Max.jpg?v=1774359382
     Price: $40.78 USD
   - [Black / 6](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813850952)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d7997b648444f279adc9a03bf67f209-Max.jpg?v=1774359382
     Price: $40.78 USD
   - [Black / 8](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752813883720)
@@ -10998,11 +10998,11 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c0f0a8669e81438eaaa17c40b798c6ee-Max.jpg?v=1774359382
     Price: $40.78 USD
   - [Dark Gray / 12](https://fitggins.com/products/millennia-racerback-cropped-sports-tank?variant=52752814440776)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c0f0a8669e81438eaaa17c40b798c6ee-Max.jpg?v=1774359382
     Price: $40.78 USD
 - [Color Block Open Front Long Sleeve Cardigan](https://fitggins.com/products/color-block-open-front-long-sleeve-cardigan): Features: Basic style Stretch: Slightly stretchy Material composition: 50% viscose, 28% polyester, 22% polyamide Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 44.1 24.4 18.1 29.1 M 6/8 46.5 25.6 18.1 29.9 L 10/12 48.8 26.8 18.1 30.7 XL 14/16 52 28.3 18.1 31.5
-  Updated: 2026-03-24T16:51:52Z
+  Updated: 2026-04-14T02:40:46Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -11024,7 +11024,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/77c29a2a-2ca6-451e-83e0-4c1eb5c18b72-Max.webp?v=1774359387
     Price: $56.82 USD
 - [Millennia Wide Strap Sport Bra](https://fitggins.com/products/millennia-wide-strap-sport-bra): Features: Basic style Stretch: Stretchy Material composition: 80% nylon, 20% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 4: front length 13.3 in, bust 25.7 in6: front length 13.7 in, bust 27.3 in8: front length 14 in, bust 28.9 in10: front length 14.4 in, bust 30.4 in12: front length 14.8 in, bust 32 in
-  Updated: 2026-03-24T19:05:17Z
+  Updated: 2026-04-03T03:36:15Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -11110,7 +11110,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/624fce6676e640cb93395c3bcaadde15-Max.webp?v=1774359395
     Price: $39.31 USD
 - [Honey Tied Striped Round Neck Short Sleeve Tee Dress](https://fitggins.com/products/honey-tied-striped-round-neck-short-sleeve-tee-dress): Features: Tied Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 97% Polyester, 3% Elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Sleeve Length S 4 50.4 37 8.7 M 6/8 51.2 38.6 9 L 10/12 52 40.9 9.3 XL 14 52.8 43.3 9.7
-  Updated: 2026-03-24T19:05:16Z
+  Updated: 2026-04-13T17:30:26Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -11140,11 +11140,11 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43e14536-4e2b-43ed-860d-f166a520a216-Max.webp?v=1774359403
     Price: $32.62 USD
   - [Gum Leaf / L](https://fitggins.com/products/honey-tied-striped-round-neck-short-sleeve-tee-dress?variant=52752815882568)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43e14536-4e2b-43ed-860d-f166a520a216-Max.webp?v=1774359403
     Price: $32.62 USD
   - [Gum Leaf / XL](https://fitggins.com/products/honey-tied-striped-round-neck-short-sleeve-tee-dress?variant=52752815915336)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43e14536-4e2b-43ed-860d-f166a520a216-Max.webp?v=1774359403
     Price: $32.62 USD
   - [Black / S](https://fitggins.com/products/honey-tied-striped-round-neck-short-sleeve-tee-dress?variant=52752815948104)
@@ -11200,7 +11200,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b73adc5-b8c4-4cea-ab4c-d71244040218-Max.webp?v=1774359404
     Price: $32.62 USD
   - [Dusty Blue / M](https://fitggins.com/products/honey-tied-striped-round-neck-short-sleeve-tee-dress?variant=52752816374088)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b73adc5-b8c4-4cea-ab4c-d71244040218-Max.webp?v=1774359404
     Price: $32.62 USD
   - [Dusty Blue / L](https://fitggins.com/products/honey-tied-striped-round-neck-short-sleeve-tee-dress?variant=52752816406856)
@@ -11212,7 +11212,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b73adc5-b8c4-4cea-ab4c-d71244040218-Max.webp?v=1774359404
     Price: $32.62 USD
 - [Millennia Crisscross Scoop Neck Active Tank](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank): Tip: Detachable chest pads Features: Crisscross Sheer: Opaque Stretch: Highly stretchy Material composition: 80% nylon, 20% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust 4 12.4 26 6 12.8 27.6 8 13.2 29.1 10 13.6 30.7 12 14 32.3
-  Updated: 2026-03-24T19:05:15Z
+  Updated: 2026-04-03T03:40:16Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -11242,19 +11242,19 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0a7c2b5e-f7dd-4f79-9a49-b57f2b492e93-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Brown / 6](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817226056)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0a7c2b5e-f7dd-4f79-9a49-b57f2b492e93-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Brown / 8](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817258824)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0a7c2b5e-f7dd-4f79-9a49-b57f2b492e93-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Brown / 10](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817291592)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0a7c2b5e-f7dd-4f79-9a49-b57f2b492e93-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Brown / 12](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817324360)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0a7c2b5e-f7dd-4f79-9a49-b57f2b492e93-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Dark Green / 4](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817357128)
@@ -11266,11 +11266,11 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/db6d8231-4b0d-4da3-957b-35bcca268b85-Max.webp?v=1774359418
     Price: $38.01 USD
   - [Dark Green / 8](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817422664)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/db6d8231-4b0d-4da3-957b-35bcca268b85-Max.webp?v=1774359418
     Price: $38.01 USD
   - [Dark Green / 10](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817455432)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/db6d8231-4b0d-4da3-957b-35bcca268b85-Max.webp?v=1774359418
     Price: $38.01 USD
   - [Dark Green / 12](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817488200)
@@ -11310,7 +11310,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3f6b7df7-8300-4322-afa0-1864c0771447-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Green / 10](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817783112)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3f6b7df7-8300-4322-afa0-1864c0771447-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Green / 12](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817815880)
@@ -11326,7 +11326,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/78b2301b-2baf-4d4d-a1ae-79a49013482c-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Sage / 8](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817914184)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/78b2301b-2baf-4d4d-a1ae-79a49013482c-Max.webp?v=1774359419
     Price: $38.01 USD
   - [Sage / 10](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752817946952)
@@ -11394,7 +11394,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/962850b6-49dc-445b-a564-db90ce94884b-Max.webp?v=1774359418
     Price: $38.01 USD
   - [Hot Pink / 12](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752818471240)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/962850b6-49dc-445b-a564-db90ce94884b-Max.webp?v=1774359418
     Price: $38.01 USD
   - [White / 4](https://fitggins.com/products/millennia-crisscross-scoop-neck-active-tank?variant=52752818504008)
@@ -11418,7 +11418,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/681ad274-d23c-4711-a3a2-690292d8dc6d-Max.webp?v=1774359419
     Price: $38.01 USD
 - [Contrast Button Up Long Sleeve Cardigan](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-1): Features: Buttoned Stretch: Moderate stretch Material composition: 50% viscose, 28% polyester, 22% nylon Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 18.9 38.6 26 M 6/8 19.5 40.2 26.4 L 10/12 20.1 41.7 26.8 XL 14 20.7 44.1 27.2
-  Updated: 2026-03-24T16:51:52Z
+  Updated: 2026-04-03T03:41:26Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -11488,7 +11488,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4eb9a402-e07d-4a36-8faa-aa821affd59a-Max.webp?v=1774359423
     Price: $49.02 USD
 - [Millennia Crisscross Grecian Neck Active Cami](https://fitggins.com/products/millennia-crisscross-grecian-neck-active-cami): Features: Crisscross Sheer: Opaque Stretch: Slightly stretchy Material composition: 80% nylon, 20% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:4:Top Length 15.35 in, Bust 26.38 in6:Top Length 15.75 in, Bust 27.95 in8:Top Length 16.14 in, Bust 29.13 in10:Top Length 16.54 in, Bust 31.10 in12:Top Length 16.93 in, Bust 32.68 in
-  Updated: 2026-03-24T19:05:14Z
+  Updated: 2026-04-03T03:42:21Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -11538,7 +11538,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c0c68fe4-3f13-4ff8-bfd6-599aebedfe61-Max.webp?v=1774359431
     Price: $34.25 USD
   - [Blush Pink / 6](https://fitggins.com/products/millennia-crisscross-grecian-neck-active-cami?variant=52752820371784)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c0c68fe4-3f13-4ff8-bfd6-599aebedfe61-Max.webp?v=1774359431
     Price: $34.25 USD
   - [Blush Pink / 8](https://fitggins.com/products/millennia-crisscross-grecian-neck-active-cami?variant=52752820404552)
@@ -11574,7 +11574,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/374e12f1-4ccb-4fba-9c2b-23a68f556aa8-Max.webp?v=1774359430
     Price: $34.25 USD
 - [Mandy V-Neck Sleeveless Mini Dress](https://fitggins.com/products/mandy-v-neck-sleeveless-mini-dress): Features: Ruched Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 65% rayon, 35% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Length S 4 37.4 30.7 M 6/8 39.4 31.1 L 10 41.3 31.5 XL 12 43.3 31.9 2XL 14 47.6 32.3
-  Updated: 2026-03-24T19:05:13Z
+  Updated: 2026-04-03T03:43:36Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -11680,7 +11680,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/af6cd5b4-a63b-4f69-8be2-19f6aa3363cd-Max.webp?v=1774359438
     Price: $34.61 USD
 - [Millennia Round Neck Short Sleeve Cropped Sports T-Shirt](https://fitggins.com/products/millennia-round-neck-short-sleeve-cropped-sports-t-shirt): Sizing category: Regular Activity: Yoga Picture style: Studio Pattern type: Solid Features: Soft Neckline: Round neck Length: Cropped Sleeve length: Short sleeves Sleeve type: Regular Material: 85% nylon, 15% spandex Stretch: Highly stretchy Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 4: length 16 in, bust 30 in, sleeve length 4 in6: length 16 in, bust 32 in, sleeve length 4 in8: length 17 in, bust 33 in, sleeve length 4 in10: length 17 in, bust 35 in, sleeve length 5 in12: length 18 in, bust 36 in, sleeve length 5 in
-  Updated: 2026-03-24T19:05:12Z
+  Updated: 2026-04-03T03:46:16Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -11774,11 +11774,11 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e4be819c82f9486b8bffc582a41d7e83-Max.jpg?v=1774359453
     Price: $34.64 USD
   - [Teal / 8](https://fitggins.com/products/millennia-round-neck-short-sleeve-cropped-sports-t-shirt?variant=52752823320904)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e4be819c82f9486b8bffc582a41d7e83-Max.jpg?v=1774359453
     Price: $34.64 USD
   - [Teal / 10](https://fitggins.com/products/millennia-round-neck-short-sleeve-cropped-sports-t-shirt?variant=52752823353672)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e4be819c82f9486b8bffc582a41d7e83-Max.jpg?v=1774359453
     Price: $34.64 USD
   - [Teal / 12](https://fitggins.com/products/millennia-round-neck-short-sleeve-cropped-sports-t-shirt?variant=52752823386440)
@@ -11806,13 +11806,13 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/56b50286207a4edabc7b552e470e45f4-Max.jpg?v=1774359454
     Price: $34.64 USD
 - [Millennia Round Neck Short Sleeve Active T-Shirt](https://fitggins.com/products/millennia-round-neck-short-sleeve-active-t-shirt): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% nylon Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:4:Top Length 21.65 in, Bust 25.98 in, Sleeve Length 8.27 in6:Top Length 22.64 in, Bust 28.35 in, Sleeve Length 8.66 in8:Top Length 23.62 in, Bust 30.71 in, Sleeve Length 9.06 in10:Top Length 24.61 in, Bust 33.07 in, Sleeve Length 9.45 in12:Top Length 25.59 in, Bust 35.43 in, Sleeve Length 9.84 in
-  Updated: 2026-03-24T19:05:11Z
+  Updated: 2026-04-03T03:48:52Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ed5c7301-71d5-4a6a-bc38-7de1b0bb7137-Max.webp?v=1774359468
   - [Black / 4](https://fitggins.com/products/millennia-round-neck-short-sleeve-active-t-shirt?variant=52752824959304)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ed5c7301-71d5-4a6a-bc38-7de1b0bb7137-Max.webp?v=1774359468
     Price: $34.42 USD
   - [Black / 6](https://fitggins.com/products/millennia-round-neck-short-sleeve-active-t-shirt?variant=52752824992072)
@@ -11972,7 +11972,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ddb1084c-ca44-4f3c-8670-52e8c321900d-Max.webp?v=1774359467
     Price: $34.42 USD
 - [Fringe Trim Distressed Denim Shorts with Pockets](https://fitggins.com/products/fringe-trim-distressed-denim-shorts-with-pockets): Pattern type: Contrast Style: Casual, Cowgirl, Rocker, Western Features: Distressed Material composition: 95% rayon, 5% polyester Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: waist 27 in, hip 41 in, length 14 inM: waist 29 in, hip 43 in, length 15 inL: waist 31 in, hip 44 in, length 15 inXL: waist 34 in, hip 48 in, length 16 in2XL: waist 37 in, hip 51 in, length 16 in
-  Updated: 2026-03-24T19:05:10Z
+  Updated: 2026-04-03T03:49:07Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -12038,7 +12038,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5828182c6ebc40498b08bdd01ac33ba4-Max.jpg?v=1774359475
     Price: $38.14 USD
 - [Button Up Collared Neck Cardigan](https://fitggins.com/products/button-up-collared-neck-cardigan): Features: Buttoned Stretch: Slightly stretchy Material composition: 50% viscose, 28% polyester, 22% polyamide Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 26 11.8 23.6 23.8 M 6/8 28.3 12.4 24 24.6 L 10/12 30.7 13 24.4 25.4 XL 14/16 33.9 13.9 24.8 26.2
-  Updated: 2026-03-24T16:51:51Z
+  Updated: 2026-04-03T16:20:45Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -12060,7 +12060,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e40b1e4c-93a6-47d3-a135-59f75f66eb47-Max.webp?v=1774359488
     Price: $44.44 USD
 - [Millennia Wide Strap Cropped Sport Tank](https://fitggins.com/products/millennia-wide-strap-cropped-sport-tank): Features: Basic style Chest pad: No padding Underwire: No underwire Stretch: Highly stretchy Material composition: 78% polyester, 22% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 4: front length 11.5 in, bust 27.3 in6: front length 11.9 in, bust 28.9 in8: front length 12.3 in, bust 30.4 in10: front length 12.7 in, bust 32 in12: front length 13.1 in, bust 33.5 in
-  Updated: 2026-03-24T19:05:10Z
+  Updated: 2026-04-03T03:51:18Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -12186,25 +12186,25 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1db239557fd43419fef086dbed4d099-Max.jpg?v=1774359503
     Price: $35.85 USD
 - [High Waist Denim Shorts](https://fitggins.com/products/high-waist-denim-shorts): Features: Buttoned, Pocketed Stretch: No stretch Material composition: 85% cotton, 15% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bottom Length Waist Hip XS 2 12.4 26.4 37 S 4 12.6 28 38.6 M 6/8 12.8 29.5 40.2 L 10/12 13.1 31.9 42.5
-  Updated: 2026-03-24T19:05:09Z
+  Updated: 2026-04-12T04:04:25Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb133b2d-dee9-4f90-8789-de262563d769-Max.webp?v=1774359509
   - [Dark Green / XS](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829579592)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb133b2d-dee9-4f90-8789-de262563d769-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Dark Green / S](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829612360)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb133b2d-dee9-4f90-8789-de262563d769-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Dark Green / M](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829645128)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb133b2d-dee9-4f90-8789-de262563d769-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Dark Green / L](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829677896)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb133b2d-dee9-4f90-8789-de262563d769-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Light Blue / XS](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829710664)
@@ -12224,23 +12224,23 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b6e78544-84b7-450c-8950-6e7db2564333-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Blush Pink / XS](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829841736)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43114fbf-bef2-4581-a633-6fcd82527781-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Blush Pink / S](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829874504)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43114fbf-bef2-4581-a633-6fcd82527781-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Blush Pink / M](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829907272)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43114fbf-bef2-4581-a633-6fcd82527781-Max.webp?v=1774359509
     Price: $30.81 USD
   - [Blush Pink / L](https://fitggins.com/products/high-waist-denim-shorts?variant=52752829940040)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43114fbf-bef2-4581-a633-6fcd82527781-Max.webp?v=1774359509
     Price: $30.81 USD
 - [Distressed Raw Hem Denim Shorts](https://fitggins.com/products/distressed-raw-hem-denim-shorts): Features: Distressed, Raw Hem Stretch: No stretch Material composition: 95% rayon, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length Inseam S 4 26.8 40.2 11.8 2.4 M 6/8 28.7 42.1 12.2 2.6 L 10/12 30.7 44.1 12.6 2.8 XL 14/16 33.9 47.2 13 3 2XL 18 37 50.4 13.4 3.1
-  Updated: 2026-03-24T19:05:09Z
+  Updated: 2026-04-03T03:53:06Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -12306,7 +12306,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ccf953f9-8273-465b-a73f-17f1a212b097-Max-Origin.webp?v=1774359523
     Price: $36.85 USD
 - [Millennia Round Neck Racerback Active Tank](https://fitggins.com/products/millennia-round-neck-racerback-active-tank): Chest pad: Removable padding Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: black and white: 100% nylon, other color: 74% nylon, 26% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust 4 17.7 25.6 6 18.5 28 8 19.3 30.3 10 20.1 32.7 12 20.5 35
-  Updated: 2026-03-24T19:05:08Z
+  Updated: 2026-04-03T03:54:27Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -12344,7 +12344,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f5d025a0-23d0-464f-b2b2-e20b15a85dc8-Max.webp?v=1774359538
     Price: $37.06 USD
   - [Dusty Pink / 10](https://fitggins.com/products/millennia-round-neck-racerback-active-tank?variant=52752833118536)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f5d025a0-23d0-464f-b2b2-e20b15a85dc8-Max.webp?v=1774359538
     Price: $37.06 USD
   - [Dusty Pink / 12](https://fitggins.com/products/millennia-round-neck-racerback-active-tank?variant=52752833151304)
@@ -12392,7 +12392,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/52ca94b9-bfd1-4446-80ac-8e8974bb4a92-Max.webp?v=1774359538
     Price: $37.06 USD
 - [Distressed Raw Hem High Waist Denim Shorts](https://fitggins.com/products/distressed-raw-hem-high-waist-denim-shorts): Features: Distressed, Raw Hem Stretch: No stretch Material composition: 55% cotton, 42% viscose, 3% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 4 12.6 2.8 26.8 37 6 12.8 2.8 27.8 38 8 13 2.8 28.7 39 10 13.2 2.8 29.7 40 12 13.4 2.8 31.5 41.7
-  Updated: 2026-03-24T19:05:08Z
+  Updated: 2026-04-14T08:15:26Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -12410,7 +12410,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/68cd00f0-a901-42df-b260-862f1a697090-Max.webp?v=1774359544
     Price: $42.86 USD
   - [Light Blue / 10](https://fitggins.com/products/distressed-raw-hem-high-waist-denim-shorts?variant=52752834003272)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/68cd00f0-a901-42df-b260-862f1a697090-Max.webp?v=1774359544
     Price: $42.86 USD
   - [Light Blue / 12](https://fitggins.com/products/distressed-raw-hem-high-waist-denim-shorts?variant=52752834036040)
@@ -12418,7 +12418,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/68cd00f0-a901-42df-b260-862f1a697090-Max.webp?v=1774359544
     Price: $42.86 USD
 - [Millennia Long Sleeve Cropped Top With Sports Strap](https://fitggins.com/products/millennia-long-sleeve-cropped-top-with-sports-strap): Features:Basic style,Cutout Stretch:Highly stretchy Material composition:87% nylon, 13% spandex Care instructions:Hand wash cold. Do not tumble dry. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Hem 4 15.4 28 24 6 15.9 29.5 25.6 8 16.3 31.1 27.2 10 16.8 32.7 28.7 12 17.2 34.3 30.3
-  Updated: 2026-03-24T19:05:07Z
+  Updated: 2026-04-03T03:55:27Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -12476,7 +12476,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1fae763-e549-4c37-b41f-4dbb67758be3-Max.webp?v=1774359557
     Price: $39.01 USD
   - [Black / 10](https://fitggins.com/products/millennia-long-sleeve-cropped-top-with-sports-strap?variant=52752835117384)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1fae763-e549-4c37-b41f-4dbb67758be3-Max.webp?v=1774359557
     Price: $39.01 USD
   - [Black / 12](https://fitggins.com/products/millennia-long-sleeve-cropped-top-with-sports-strap?variant=52752835150152)
@@ -12504,7 +12504,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3cfc80e3-da43-41b7-9eda-6e767acef5c4-Max.webp?v=1774359558
     Price: $39.01 USD
 - [Open Front Dropped Shoulder Cardigan](https://fitggins.com/products/open-front-dropped-shoulder-cardigan): Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Shoulder Bust Sleeve Length Top Length S 4 18.1 40.9 19.3 23.6 M 6/8 18.9 42.5 19.7 24 L 10/12 20.1 44.9 20.1 24.8 XL 14 21.3 47.2 20.5 25.2
-  Updated: 2026-03-24T16:51:50Z
+  Updated: 2026-04-09T15:51:26Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -12558,7 +12558,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b1688679-0597-4be6-bf33-ea2848e4295f-Max.webp?v=1774359574
     Price: $36.56 USD
 - [Full Size Round Neck Long Sleeve Sweatshirt Dress](https://fitggins.com/products/full-size-round-neck-long-sleeve-sweatshirt-dress): Type: Maxi dresses Sizing category: Full size run Pattern type: Solid Style: Casual Features: Basic style Neckline: Round neck Length: Maxi Sleeve length: Long sleeves Sleeve type: Regular sleeves Material: 65% polyester, 35% cotton Stretch: No stretch Sheer: No Body: Not lined Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: length 44 in, bust 37 in, waist 39 in, shoulder 15 in, sleeve length 24 inM: length 45 in, bust 39 in, waist 41 in, shoulder 16 in, sleeve length 24 inL: length 45 in, bust 41 in, waist 42 in, shoulder 16 in, sleeve length 25 inXL: length 45 in, bust 42 in, waist 44 in, shoulder 16 in, sleeve length 25 in2XL: length 45 in, bust 44 in, waist 45 in, shoulder 17 in, sleeve length 25 in3XL: length 45 in, bust 45 in, waist 47 in, shoulder 17 in, sleeve length 26 in4XL: length 46 in, bust 47 in, waist 48 in, shoulder 18 in, sleeve length 26 in5XL: length 46 in, bust 48 in, waist 50 in, shoulder 18 in, sleeve length 27 in
-  Updated: 2026-03-24T19:05:07Z
+  Updated: 2026-04-03T03:58:16Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -12692,7 +12692,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7ff7e70a479840b49f006fd34926e741-Max.jpg?v=1774359591
     Price: $41.32 USD
 - [Floral Frill Trim Flounce Sleeve Plunge Maxi Dress](https://fitggins.com/products/floral-frill-trim-flounce-sleeve-plunge-maxi-dress): Type: Casual dresses, maxi dresses Sizing category: Regular Pattern type: Floral Style: Boho Features: Frill Neckline: Plunge Length: Maxi Sleeve length: Long sleeves Sleeve type: Flounce sleeves Material: 100% polyester Stretch: No stretch Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 39 in, sleeve length 25 in, length 52 in, hem width 100 in, waist 27 in, hip 43 inM: bust 41 in, sleeve length 25 in, length 52 in, hem width 103 in, waist 28 in, hip 45 inL: bust 44 in, sleeve length 25 in, length 53 in, hem width 107 in, waist 30 in, hip 47 in
-  Updated: 2026-03-24T19:05:06Z
+  Updated: 2026-04-14T09:30:48Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -12722,7 +12722,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bb582adb2c494a7bbe720e0a1b13b9e8-Max.jpg?v=1774359605
     Price: $49.16 USD
 - [Printed Tie Neck Short Sleeve Dress](https://fitggins.com/products/printed-tie-neck-short-sleeve-dress): Features: Tied, Decorative Button Sheer: Opaque Stretch: No stretch Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust S 4 35.4 38.6 M 6/8 35.8 40.2 L 10/12 36.2 42.5 XL 14 36.6 44.9 2XL 16 37 47.2
-  Updated: 2026-03-24T19:05:06Z
+  Updated: 2026-04-12T16:40:13Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -12808,7 +12808,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b42f6366-4c15-4115-97a3-ae784d576655-Max.webp?v=1774359622
     Price: $31.63 USD
 - [Geometric Lantern Sleeve Cardigan with Pockets](https://fitggins.com/products/geometric-lantern-sleeve-cardigan-with-pockets): Features: Pocketed Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 24.6 in, sleeve length 16.8 in, bust 49.9 inM: front length 25 in, sleeve length 17.2 in, bust 51.5 inL: front length 25.4 in, sleeve length 17.6 in, bust 53 inXL: front length 25.7 in, sleeve length 17.9 in, bust 55.4 in
-  Updated: 2026-03-24T16:51:50Z
+  Updated: 2026-04-03T04:00:16Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -12878,7 +12878,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4d170beaa79941248b75c8c9c939bbc7-Max.jpg?v=1774359636
     Price: $47.36 USD
 - [Button Down Long Sleeve Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan-2): Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length Shoulder S 2/4 26.8 47.2 18.5 24 M 6 27.2 48.8 18.9 24.8 L 8 27.6 50.4 19.3 25.6 XL 12 28 52 19.7 26.4 2XL 14 28.3 53.5 20.1 27.2
-  Updated: 2026-03-24T16:51:51Z
+  Updated: 2026-04-03T04:00:27Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -12944,7 +12944,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1295e1a-1708-49f9-9858-d41c70e4545c-Max.webp?v=1774359652
     Price: $47.82 USD
 - [Floral Surplice Ruffled Cap Sleeve Dress](https://fitggins.com/products/floral-surplice-ruffled-cap-sleeve-dress): Features:Tied,Frill,Ruffled Stretch:No stretch Body:Lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust S 2/4 37.4 35.4 M 6/8 37.8 37 L 10 38.2 38.6 XL 12 38.6 40.2 2XL 14 39 41.7
-  Updated: 2026-03-24T19:05:05Z
+  Updated: 2026-04-12T22:46:24Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -13030,7 +13030,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7dea9598-ab16-41dd-ba9e-5861ad451347-Max-Origin.webp?v=1774359666
     Price: $36.05 USD
 - [Mandy Ribbed Striped Short Sleeve Mini Tee Dress](https://fitggins.com/products/mandy-ribbed-striped-short-sleeve-mini-tee-dress): Features: Basic style, Ribbed, Pocketed Sheer: Opaque Stretch: Moderate stretch Body: Not lined Material composition: 65% rayon, 35% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust S 4 33.1 35.4 M 6/8 33.3 37.4 L 10/12 33.5 39.4 XL 14 33.7 42.5 2XL 16/18 33.9 44.1
-  Updated: 2026-03-24T19:05:05Z
+  Updated: 2026-04-03T17:26:18Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -13136,7 +13136,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a061c980-5bdd-4a67-af70-174d6d183f1f-Max.webp?v=1774359683
     Price: $35.36 USD
 - [Full Size Ripped Frayed Hem Denim Shorts Plus Size](https://fitggins.com/products/full-size-ripped-frayed-hem-denim-shorts-plus-size): Features:Distressed,Raw Hem,Pocketed Stretch:No stretch Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist Hip S 16.5 31.5 38.6 M 16.9 33.1 40.2 L 17.3 34.6 41.7 XL 17.7 36.2 43.3 2XL 18.1 37.8 44.9 3XL 18.5 39.4 46.5 4XL 18.9 40.9 48
-  Updated: 2026-03-24T19:05:04Z
+  Updated: 2026-04-14T01:06:06Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -13226,7 +13226,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/26e3ee82-0f65-45b8-9661-187c685f693f-Max.jpg?v=1774359697
     Price: $32.52 USD
 - [Washed Raw Hem Denim Shorts](https://fitggins.com/products/washed-raw-hem-denim-shorts): Features:Raw Hem,Pocketed Stretch:No stretch Material composition:95% rayon, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length Inseam S 4 27.6 40.2 13.4 2.4 M 6/8 29.5 42.1 13.8 2.6 L 10/12 31.5 44.1 14.2 2.8 XL 14/16 34.6 47.2 14.6 3 2XL 18 37.8 50.4 15 3.1
-  Updated: 2026-03-24T19:05:04Z
+  Updated: 2026-04-03T04:09:07Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -13292,7 +13292,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/50854117-3043-4d01-ad09-f62ba4018b37-Max-Origin.webp?v=1774359711
     Price: $37.29 USD
 - [Dropped Shoulder Button Up Cardigan](https://fitggins.com/products/dropped-shoulder-button-up-cardigan): Features: Basic style Stretch: Stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: front length 20.3 in, shoulder 22.6 in, bust 40.6 in, sleeve length 18.3 inM: front length 20.7 in, shoulder 23.4 in, bust 42.1 in, sleeve length 18.7 inL: front length 21.1 in, shoulder 24.4 in, bust 44.1 in, sleeve length 19.1 inXL: front length 21.5 in, shoulder 25.4 in, bust 46 in, sleeve length 19.5 in
-  Updated: 2026-03-24T16:51:48Z
+  Updated: 2026-04-03T04:09:07Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -13330,7 +13330,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/240d88c0fba343da9d1a9d4e3af93341-Max.webp?v=1774359718
     Price: $38.46 USD
 - [Drawstring Raw Hem Denim Shorts](https://fitggins.com/products/drawstring-raw-hem-denim-shorts): Features:Raw Hem,Drawstring Stretch:No stretch Material composition:95% rayon, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Waist Stretch Amount HIP Bottom Length inseam S 2/4 24.4 28.3 40.2 13.8 3.1 M 6/8 26.4 30.3 42.1 14.2 3.3 L 10 28.3 32.3 44.1 14.6 3.5 XL 12 31.5 35.4 47.2 15 3.7 2XL 14 34.6 38.6 50.4 15.4 3.9
-  Updated: 2026-03-24T19:05:03Z
+  Updated: 2026-04-09T23:17:16Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -13536,7 +13536,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a6c94022723547e29b6fdc53123e99a0-Max.jpg?v=1774359736
     Price: $36.43 USD
 - [Millennia Deep V-Neck Crop Sports Bra](https://fitggins.com/products/millennia-deep-v-neck-crop-sports-bra): Features:Basic style Material composition:80% nylon, 20% spandex Stretch:Highly stretchy Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust 4 14.6 26 6 15 27.6 8 15.4 29.1 10 15.7 30.7 12 16.1 32.3
-  Updated: 2026-03-24T19:05:02Z
+  Updated: 2026-04-03T04:18:49Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -13742,7 +13742,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e1b17397d7694faa9919078da44dbd3d-Max.jpg?v=1774359743
     Price: $32.48 USD
 - [Round Neck Short Sleeve Mini Tee Dress](https://fitggins.com/products/round-neck-short-sleeve-mini-tee-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% Viscose, 5% Elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Shoulder Bust Sleeve Length S 4 34.3 13.4 33.9 6.3 M 6/8 34.6 13.9 35.8 6.7 L 10/12 35.8 14.4 38.6 7.1 XL 14 36.4 15.2 41.7 7.5
-  Updated: 2026-03-24T19:05:02Z
+  Updated: 2026-04-03T04:24:14Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -13892,7 +13892,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8d7b5eb4-a9f3-465a-b21a-b541d8a39f66-Max.webp?v=1774359749
     Price: $38.25 USD
 - [Round Neck Cropped Tank](https://fitggins.com/products/round-neck-cropped-tank): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 80% polyester, 20% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Bust Stretch Amount XS 2 17.7 27.6 33.9 S 4 18.1 29.1 35.4 M 6/8 18.5 30.7 37 L 10/12 18.9 32.3 39.4
-  Updated: 2026-03-24T19:05:01Z
+  Updated: 2026-04-03T04:24:08Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -14010,7 +14010,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b306a382-93b0-4816-9d7c-bbae1a5dbf90-Max.webp?v=1774359762
     Price: $30.40 USD
 - [Distressed Frayed Hem Denim Bermuda Shorts](https://fitggins.com/products/distressed-frayed-hem-denim-bermuda-shorts): Pattern type: Acid wash Style: Casual, Chic Features: Distressed, Raw hem Material composition: 98% cotton, 2% spandex Stretch: Slightly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Hip Inseam Waist Bottom Length S 35.1 11.1 26.5 19.9 M 36.7 11.1 28.1 20.3
-  Updated: 2026-03-24T19:05:01Z
+  Updated: 2026-04-03T04:24:15Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14032,7 +14032,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a084759d49484c2fbed12bba33e2be75-Max.jpg?v=1774359769
     Price: $47.08 USD
 - [Millennia Loose Fit Active Top](https://fitggins.com/products/millennia-loose-fit-active-top): Switch on your relaxing mode after an intense workout in this supersoft pullover. Perfect for layering over sports bras and tanks. True to size Relaxed fit Sweat-wicking Material: 80% nylon, 20% spandex Care: Machine wash cold. Do not tumble dry. Product measurements: 4: length 22 in, bust 45 in, sleeve length 19 in6: length 23 in, bust 46 in, sleeve length 20 in8: length 24 in, bust 48 in, sleeve length 20 in10: length 24 in, bust 50 in, sleeve length 20 in12: length 25 in, bust 51 in, sleeve length 21 in
-  Updated: 2026-03-24T19:05:00Z
+  Updated: 2026-04-03T04:25:37Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -14233,7 +14233,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Availability: Not Available
     Price: $35.32 USD
 - [Striped Halter Neck Maxi Dress](https://fitggins.com/products/striped-halter-neck-maxi-dress): Features:Tied,Smocked Stretch:No stretch Body:Not lined Material composition:96% polyester, 4% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Bust S 51.2 25.6-38.6 27.2 M 51.6 27.2-40.2 28.7 L 52 29.5-42.5 31.1 XL 52.4 31.9-44.9 33.5
-  Updated: 2026-03-24T19:05:00Z
+  Updated: 2026-04-14T13:01:08Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -14259,7 +14259,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6089e1bc-4c1d-4dc1-8e7d-4a2a7b3a897f-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Pink / M](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752871850312)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6089e1bc-4c1d-4dc1-8e7d-4a2a7b3a897f-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Pink / L](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752871883080)
@@ -14319,15 +14319,15 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/83ab2caf-a4d2-40cc-918e-90ca46e6401a-Max.jpg?v=1774359783
     Price: $37.35 USD
   - [Black / S](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752872341832)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a983c009-9b98-4bd0-afec-57a838208009-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Black / M](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752872374600)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a983c009-9b98-4bd0-afec-57a838208009-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Black / L](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752872407368)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a983c009-9b98-4bd0-afec-57a838208009-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Black / XL](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752872440136)
@@ -14335,11 +14335,11 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a983c009-9b98-4bd0-afec-57a838208009-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Burgundy / S](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752872472904)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2a199807-094f-4fa0-98ec-5efe4c1a89cc-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Burgundy / M](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752872505672)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2a199807-094f-4fa0-98ec-5efe4c1a89cc-Max.jpg?v=1774359782
     Price: $37.35 USD
   - [Burgundy / L](https://fitggins.com/products/striped-halter-neck-maxi-dress?variant=52752872538440)
@@ -14351,7 +14351,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2a199807-094f-4fa0-98ec-5efe4c1a89cc-Max.jpg?v=1774359782
     Price: $37.35 USD
 - [Rhinestone Washed High Waist Denim Shorts](https://fitggins.com/products/rhinestone-washed-high-waist-denim-shorts): Features: Rhinestone, Pocketed, Washed Stretch: No stretch Material composition: 95% rayon, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Hip Waist Bottom Length Inseam S 4 40.2 27.6 13.8 3.1 M 6/8 42.1 29.5 14.2 3.3 L 10/12 44.1 31.5 14.6 3.5 XL 14/16 47.2 34.6 15.4 3.7 2XL 18 50.4 37.8 15.4 3.9
-  Updated: 2026-03-24T19:04:59Z
+  Updated: 2026-04-03T04:25:43Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14397,7 +14397,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d6aacb2f-cccc-453e-be2f-c50f11bb4073-Max.webp?v=1774359799
     Price: $40.32 USD
 - [Floral V-Neck Short Flounce Sleeve Dress](https://fitggins.com/products/floral-v-neck-short-flounce-sleeve-dress): This Floral V-Neck Short Flounce Sleeve Dress is a perfect blend of elegance and comfort. The dress features a flattering V-neckline and charming flounce sleeves, adding a touch of femininity. The elastic waist accentuates the figure while providing a comfortable fit. The flowing maxi length and tiered skirt create a graceful silhouette. Made from lightweight and breathable fabric, this dress is ideal for spring and summer. The romantic floral print adds a touch of whimsy, making it versatile for various occasions, from casual outings to special events. Material: Polyester. Features:Frill Body:Lined Material composition:100% polyester Stretch:No stretch Care instructions:Machine wash cold. Tumble dry low. Imported
-  Updated: 2026-03-24T19:04:59Z
+  Updated: 2026-04-03T04:25:46Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -14421,7 +14421,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Availability: Available
     Price: $47.22 USD
 - [Full Size Vintage Washed Denim Shorts with Pockets Plus Size](https://fitggins.com/products/full-size-vintage-washed-denim-shorts-with-pockets-plus-size): Features:Basic style,Pocketed Stretch:Slightly stretchy Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip S 27-30.5 35-37.5 M 31-33 38-40.5 L 33.5-35.5 41-43 XL 36-39 43.5-45.5 2XL 39.5-42 46-49.5 3XL 42.5-45 50-53.5 4XL 45.5-48 54-56
-  Updated: 2026-03-24T19:04:58Z
+  Updated: 2026-04-03T04:28:08Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14595,10 +14595,10 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b1d7e14-dad7-4371-ad27-9b9193551349-Max-Origin.webp?v=1774359828
     Price: $33.85 USD
 - [High Rise Crossover Waist Denim Shorts](https://fitggins.com/products/high-rise-crossover-waist-denim-shorts): Features: Buttoned, Distressed, Raw Hem Stretch: No stretch Material composition: 85% cotton, 15% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 8 12.6 3.1 30.7 40.2 10 12.8 3.1 31.7 41.1 12 13 3.1 33.5 42.7 14 13.3 3.1 35.2 44.3 16 13.5 3.1 37.2 46.3
-  Updated: 2026-03-24T19:04:58Z
+  Updated: 2026-04-03T04:28:14Z
   Vendor: Fitggins
   Product Type: Denim Shorts
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/366f38e5-1488-44e8-aa2a-2b20892815f0-Max.webp?v=1774359845
   - [Pink / 8](https://fitggins.com/products/high-rise-crossover-waist-denim-shorts?variant=52752883319112)
     Availability: Not Available
@@ -14625,23 +14625,23 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1f77e6e-e232-49be-a203-444f95a3a024-Max.webp?v=1774359845
     Price: $39.77 USD
   - [Light Blue / 10](https://fitggins.com/products/high-rise-crossover-waist-denim-shorts?variant=52752883515720)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1f77e6e-e232-49be-a203-444f95a3a024-Max.webp?v=1774359845
     Price: $39.77 USD
   - [Light Blue / 12](https://fitggins.com/products/high-rise-crossover-waist-denim-shorts?variant=52752883548488)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1f77e6e-e232-49be-a203-444f95a3a024-Max.webp?v=1774359845
     Price: $39.77 USD
   - [Light Blue / 14](https://fitggins.com/products/high-rise-crossover-waist-denim-shorts?variant=52752883581256)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1f77e6e-e232-49be-a203-444f95a3a024-Max.webp?v=1774359845
     Price: $39.77 USD
   - [Light Blue / 16](https://fitggins.com/products/high-rise-crossover-waist-denim-shorts?variant=52752883614024)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1f77e6e-e232-49be-a203-444f95a3a024-Max.webp?v=1774359845
     Price: $39.77 USD
 - [Cable-Knit Button Up Long Sleeve Cardigan](https://fitggins.com/products/cable-knit-button-up-long-sleeve-cardigan): Features: Buttoned, Pocketed, Cable-Knit Stretch: Slightly stretchy Material composition: 65% acrylic, 35% polyamide Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 42.5 21.7 20.1 29.5 M 6/8 44.9 22.8 20.1 30.3 L 10/12 47.2 24 20.1 31.1 XL 14/16 50.4 25.6 20.1 31.9
-  Updated: 2026-03-24T16:51:48Z
+  Updated: 2026-04-03T04:28:13Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -14663,7 +14663,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cc4dd898-c901-4beb-b941-434b6be7f9d5-Max.webp?v=1774359859
     Price: $58.84 USD
 - [Raw Hem Distressed Denim Shorts](https://fitggins.com/products/raw-hem-distressed-denim-shorts): Pattern type: Solid Style: Casual Features: Distressed Material composition: 95% rayon, 5% polyester Stretch: Stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: waist 26 in, hip 38 in, length 11 inM: waist 28 in, hip 40 in, length 11 inL: waist 30 in, hip 42 in, length 11 inXL: waist 33 in, hip 45 in, length 12 in2XL: waist 36 in, hip 48 in, length 12 in
-  Updated: 2026-03-24T19:04:57Z
+  Updated: 2026-04-03T04:29:57Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14749,7 +14749,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b198a39e67d14bbda0098c63cfbc7b2b-Max.jpg?v=1774359876
     Price: $37.29 USD
 - [Asymmetrical Denim Skort with Pockets](https://fitggins.com/products/asymmetrical-denim-skort-with-pockets): Features: Pocketed Stretch: Slightly stretchy Material composition: 72% cotton, 26% polyester, 2% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 4 14.2 3.1 26.6 37.2 6 14.4 3.1 27.8 38.4 8 14.6 3.1 28.9 39.6 10 14.8 3.1 30.1 40.7 12 15 3.1 31.3 41.9 14 15.2 3.1 32.9 43.5 16 15.5 3.1 34.4 45.1
-  Updated: 2026-03-24T19:04:57Z
+  Updated: 2026-04-14T00:51:06Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14783,7 +14783,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ecd5467-f404-4204-a671-b79225b78d43-Max-Origin.webp?v=1774359888
     Price: $37.73 USD
 - [Rhinestone Light Wash Raw Hem High Waist Denim Shorts](https://fitggins.com/products/rhinestone-light-wash-raw-hem-high-waist-denim-shorts): Features: Raw Hem, Rhinestone, Buttoned Stretch: No stretch Material composition: 72% cotton, 26% polyester, 2% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 4 13 3.3 26.6 36.4 6 13.2 3.3 27.8 37.6 8 13.4 3.3 28.7 38.6 10 13.6 3.3 29.7 39.6 12 13.8 3.3 31.3 41.1 14 14.1 3.3 32.9 42.7 16 14.3 3.3 34.4 44.3
-  Updated: 2026-03-24T19:04:56Z
+  Updated: 2026-04-13T02:52:26Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14817,7 +14817,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/35c3b3c5-964c-4e3e-b302-8d5a389a2274-Max-Origin.webp?v=1774359906
     Price: $44.37 USD
 - [Judy Blue Full Size 2 Button Denim Shorts with Pockets Plus Size](https://fitggins.com/products/judy-blue-full-size-2-button-denim-shorts-with-pockets-plus-size): These 2-button denim shorts are a stylish addition to your wardrobe. They feature pockets for your convenience and added functionality. Made from durable denim fabric, these shorts are comfortable to wear all day long. Pair them with a t-shirt or tank top for a casual and trendy look.Style #: 152100 Features: Basic style Stretch: Slightly stretchy Material composition: 93% cotton, 5% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise S 24 29 5 10.5 M 26 31 5 11 L 28 33 5.5 11 XL 30 35 5.5 11 1XL 32 37 6 11.5 2XL 34 39 6 11.5 3XL 36 41 6 12
-  Updated: 2026-03-24T19:04:56Z
+  Updated: 2026-04-14T03:24:06Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14827,7 +14827,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/75981986-2611-4a91-92f5-bc430efac386-Max.webp?v=1774359920
     Price: $44.61 USD
   - [Light / M](https://fitggins.com/products/judy-blue-full-size-2-button-denim-shorts-with-pockets-plus-size?variant=52752897507656)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/75981986-2611-4a91-92f5-bc430efac386-Max.webp?v=1774359920
     Price: $44.61 USD
   - [Light / L](https://fitggins.com/products/judy-blue-full-size-2-button-denim-shorts-with-pockets-plus-size?variant=52752897540424)
@@ -14843,7 +14843,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/75981986-2611-4a91-92f5-bc430efac386-Max.webp?v=1774359920
     Price: $46.90 USD
   - [Light / 2XL](https://fitggins.com/products/judy-blue-full-size-2-button-denim-shorts-with-pockets-plus-size?variant=52752897638728)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/75981986-2611-4a91-92f5-bc430efac386-Max.webp?v=1774359920
     Price: $46.90 USD
   - [Light / 3XL](https://fitggins.com/products/judy-blue-full-size-2-button-denim-shorts-with-pockets-plus-size?variant=52752897671496)
@@ -14851,7 +14851,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/75981986-2611-4a91-92f5-bc430efac386-Max.webp?v=1774359920
     Price: $46.90 USD
 - [Drawstring High Waist Denim Shorts with Pockets](https://fitggins.com/products/drawstring-high-waist-denim-shorts-with-pockets): Pattern type: Solid Style: Casual Features: Tie, Pockets Material composition: 95% rayon, 5% polyester Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: waist 25-28 in, hip 40 in, length 14 inM: waist 27-30 in, hip 42 in, length 14 inL: waist 29-32 in, hip 44 in, length 15 inXL: waist 32-35 in, hip 47 in, length 15 in2XL: waist 35-38 in, hip 50 in, length 16 in
-  Updated: 2026-03-24T19:04:55Z
+  Updated: 2026-04-03T04:32:19Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -14937,17 +14937,17 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b480bc222ca44739b69f0a66db8f683e-Max.jpg?v=1774359937
     Price: $37.29 USD
 - [Millennia V Neck Active Tank](https://fitggins.com/products/millennia-v-neck-active-tank): Features:Basic style Material composition:80% nylon, 20% spandex Stretch:Stretchy Care instructions:Hand wash cold. Do not tumble dry. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Hem 4 17.7 26 27.6 6 18.5 27.6 29.1 8 19.3 29.1 30.7 10 20.1 30.7 32.3 12 20.9 32.3 33.9
-  Updated: 2026-03-24T19:04:55Z
+  Updated: 2026-04-03T04:32:35Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60c495e9-08f5-4f40-9213-e894ffaba83a-Max.webp?v=1774359943
   - [White / 4](https://fitggins.com/products/millennia-v-neck-active-tank?variant=52752903012680)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60c495e9-08f5-4f40-9213-e894ffaba83a-Max.webp?v=1774359943
     Price: $34.47 USD
   - [White / 6](https://fitggins.com/products/millennia-v-neck-active-tank?variant=52752903045448)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60c495e9-08f5-4f40-9213-e894ffaba83a-Max.webp?v=1774359943
     Price: $34.47 USD
   - [White / 8](https://fitggins.com/products/millennia-v-neck-active-tank?variant=52752903078216)
@@ -14955,7 +14955,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60c495e9-08f5-4f40-9213-e894ffaba83a-Max.webp?v=1774359943
     Price: $34.47 USD
   - [White / 10](https://fitggins.com/products/millennia-v-neck-active-tank?variant=52752903110984)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60c495e9-08f5-4f40-9213-e894ffaba83a-Max.webp?v=1774359943
     Price: $34.47 USD
   - [White / 12](https://fitggins.com/products/millennia-v-neck-active-tank?variant=52752903143752)
@@ -15011,7 +15011,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/84f5ff61-7616-47ca-825c-0ab2cc6df498-Max.webp?v=1774359943
     Price: $34.47 USD
   - [Black / 8](https://fitggins.com/products/millennia-v-neck-active-tank?variant=52752903569736)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/84f5ff61-7616-47ca-825c-0ab2cc6df498-Max.webp?v=1774359943
     Price: $34.47 USD
   - [Black / 10](https://fitggins.com/products/millennia-v-neck-active-tank?variant=52752903602504)
@@ -15023,7 +15023,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/84f5ff61-7616-47ca-825c-0ab2cc6df498-Max.webp?v=1774359943
     Price: $34.47 USD
 - [Ivy Lane Round Neck Butterfly Sleeve Dress with Pocket](https://fitggins.com/products/ivy-lane-round-neck-butterfly-sleeve-dress-with-pocket): Pattern type: Solid Style: Chic Features: Frill Neckline: Round neck Length: Mini Sleeve length: Cap sleeves Sleeve type: Sleeveless Hem shaped: Pencil Sheer: No Body: Not lined Material composition: 65% polyester, 30% cotton, 5% spandex Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 32 in, bust 35 in, shoulder 14 in, waist 33 inM: length 32 in, bust 37 in, shoulder 14 in, waist 34 inL: length 33 in, bust 39 in, shoulder 14 in, waist 37 inXL: length 34 in, bust 41 in, shoulder 15 in, waist 39 in
-  Updated: 2026-03-24T19:04:54Z
+  Updated: 2026-04-03T04:33:35Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -15077,7 +15077,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/63f754a1e87d48b0b3fda5ed2ea7d845-Max.jpg?v=1774359952
     Price: $33.88 USD
 - [Judy Blue Full Size 2 Button Denim Shorts with Pockets Plus Size](https://fitggins.com/products/judy-blue-full-size-2-button-denim-shorts-with-pockets-plus-size-1): Elevate your casual look with our 2-button denim shorts featuring convenient pockets for on-the-go essentials. These shorts offer a stylish and comfortable fit, perfect for daily wear. Made from premium denim fabric, they are designed to last and keep you looking fashionable. Mix and match with your favorite tops for endless outfit possibilities.Style #: 15299 Features: Basic style Stretch: Moderate stretch Material composition: 93% cotton, 5% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise S 24 29 5 10.5 M 26 31 5 11 L 28 33 5.5 11 XL 30 35 5.5 11 1XL 32 37 6 11.5 2XL 34 39 6 11.5 3XL 36 41 6 12
-  Updated: 2026-03-24T19:04:54Z
+  Updated: 2026-04-14T15:14:36Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -15111,7 +15111,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/accda9a8-c48a-4482-ae7b-c089cd1517d1-Max.webp?v=1774359966
     Price: $46.32 USD
 - [Distressed Raw Hem Denim Shorts](https://fitggins.com/products/distressed-raw-hem-denim-shorts-1): Features: Distressed, Raw Hem Stretch: No stretch Material composition: 95% rayon, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length Inseam S 4 27.6 40.2 13.4 2.4 M 6/8 29.5 42.1 13.8 2.6 L 10/12 31.5 44.1 14.2 2.8 XL 14/16 34.6 47.2 14.6 3 2XL 18 37.8 50.4 15 3.1
-  Updated: 2026-03-24T19:04:53Z
+  Updated: 2026-04-03T04:34:29Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -15177,7 +15177,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7ed9fa6c-025a-4577-b6fd-59068913fe67-Max-Origin.webp?v=1774359982
     Price: $36.85 USD
 - [Full Size Scoop Neck Wide Strap Active Tank](https://fitggins.com/products/full-size-scoop-neck-wide-strap-active-tank): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 95% polyester, 5% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust S 2/4 22.4 29.9 M 6/8 23.2 31.5 L 10 24 33.1 XL 12 24.8 34.6 2XL 14 25.6 36.2 3XL 16 26.4 37.8 4XL 18 27.2 39.4
-  Updated: 2026-03-24T19:04:52Z
+  Updated: 2026-04-03T04:36:46Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -15351,7 +15351,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19897cbe-5ea2-4e83-8a76-8fc2096ae8dc-Max.webp?v=1774359991
     Price: $28.59 USD
 - [Full Size Round Neck Sleeveless Slit Maxi Dress Plus Size](https://fitggins.com/products/full-size-round-neck-sleeveless-slit-maxi-dress-plus-size): Features:Basic style,Pocketed,Slit Stretch:No stretch Body:Not lined Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Bust S 54.3 42.9 40.6 M 54.7 44.1 41.7 L 55.1 45.3 42.9 XL 55.5 46.5 44.1 2XL 55.9 48 45.7 3XL 56.3 49.6 47.2
-  Updated: 2026-03-24T19:04:52Z
+  Updated: 2026-04-03T04:39:55Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -15557,7 +15557,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c2a03c9c-f63f-46fe-9971-0d2f5fd77172-Max-Origin.webp?v=1774359997
     Price: $31.71 USD
 - [Scoop Neck Active Tank](https://fitggins.com/products/scoop-neck-active-tank): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 65% cotton, 35% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust S 2/4 23.6 29.9 M 6/8 24.4 31.5 L 10 25.2 33.1 XL 12 26 34.6 2XL 14 26.8 36.2
-  Updated: 2026-03-24T19:04:51Z
+  Updated: 2026-04-10T19:16:35Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -15682,46 +15682,8 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/65af3975-6ab8-4360-918c-e37831e7d17d-Max.webp?v=1774360005
     Price: $29.20 USD
-- [Striped Button Up Long Sleeve Hooded Cardigan](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan): Features: Buttoned, Pocketed Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length S 4 39.4 26.8 22.8 M 6/8 40.9 27.2 23.2 L 10/12 43.3 27.6 24 XL 14 45.7 28 24.8
-  Updated: 2026-03-24T16:51:48Z
-  Vendor: Fitggins
-  Product Type: Cardigans
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1774360012
-  - [White / S](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918118728)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1774360012
-    Price: $43.58 USD
-  - [White / M](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918151496)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1774360012
-    Price: $43.58 USD
-  - [White / L](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918184264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1774360012
-    Price: $43.58 USD
-  - [White / XL](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918217032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1774360012
-    Price: $43.58 USD
-  - [Chocolate / S](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918249800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1774360013
-    Price: $43.58 USD
-  - [Chocolate / M](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918282568)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1774360013
-    Price: $43.58 USD
-  - [Chocolate / L](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918315336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1774360013
-    Price: $43.58 USD
-  - [Chocolate / XL](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52752918348104)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1774360013
-    Price: $43.58 USD
 - [Round Neck Cutout Cropped Active Tank](https://fitggins.com/products/round-neck-cutout-cropped-active-tank): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 12.20 in, Bust 27.17 inM:Top Length 12.60 in, Bust 28.74 inL:Top Length 12.99 in, Bust 30.31 inXL:Top Length 13.39 in, Bust 31.89 in
-  Updated: 2026-03-24T19:04:51Z
+  Updated: 2026-04-03T04:41:06Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -15775,7 +15737,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/00cc1e5b-e299-4226-8f06-3e1a0ff7dbdc-Max.webp?v=1774360020
     Price: $35.01 USD
 - [Floral Tie Neck Lantern Sleeve Dress](https://fitggins.com/products/floral-tie-neck-lantern-sleeve-dress): Pattern type: Printed Style: Chic Features: Tie Neckline: Tie neck Length: Midi Sleeve length: Half sleeves Sleeve type: Lantern sleeves Hem shaped: A-line Sheer: No Body: Not lined Material composition: 100% rayon Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: back length 44 in, bust 37 in, hem width 38 in, shoulder 11 in, sleeve length 17 inM: back length 44 in, bust 39 in, hem width 40 in, shoulder 11 in, sleeve length 17 inL: back length 45 in, bust 41 in, hem width 42 in, shoulder 12 in, sleeve length 18 inXL: back length 46 in, bust 44 in, hem width 44 in, shoulder 13 in, sleeve length 18 in
-  Updated: 2026-03-24T19:04:50Z
+  Updated: 2026-04-03T04:41:37Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -15877,7 +15839,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8c365558e0ee4899b6987eb1b0f35356-Max.jpg?v=1774360030
     Price: $38.26 USD
 - [Millennia Round Neck Racerback Active Tank](https://fitggins.com/products/millennia-round-neck-racerback-active-tank-1): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 78% nylon, 22% spandex. Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust 4 16.1 28 6 16.5 29.5 8 16.9 31.1 10 17.3 32.7 12 17.7 34.3
-  Updated: 2026-03-24T19:04:50Z
+  Updated: 2026-04-03T04:42:27Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -15907,7 +15869,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ccc20a31-e97a-4913-9ea4-c7a1388de19a-Max.webp?v=1774360036
     Price: $38.81 USD
   - [Black / 6](https://fitggins.com/products/millennia-round-neck-racerback-active-tank-1?variant=52752921461064)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ccc20a31-e97a-4913-9ea4-c7a1388de19a-Max.webp?v=1774360036
     Price: $38.81 USD
   - [Black / 8](https://fitggins.com/products/millennia-round-neck-racerback-active-tank-1?variant=52752921493832)
@@ -15943,7 +15905,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/52d0a3db-018a-4b66-b212-fb94a2f3f3c3-Max.webp?v=1774360035
     Price: $38.81 USD
 - [High Waist Denim Cargo Shorts](https://fitggins.com/products/high-waist-denim-cargo-shorts): Pattern type: Solid Style: Casual Features: Pockets Material composition: 95% rayon, 5% polyester Stretch: No stretch Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: waist 26.5-29.6 in, hip 40.6 in, length 15.2 in M: waist 28.5-31.6 in, hip 42.5 in, length 15.6 in L: waist 30.4-33.5 in, hip 44.5 in, length 16 in XL: waist 33.5-37.8 in, hip 47.6 in, length 16.4 in 2XL: waist 36.7-42.1 in, hip 50.7 in, length 16.8 in
-  Updated: 2026-03-24T19:04:50Z
+  Updated: 2026-04-03T04:43:16Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -16129,7 +16091,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/96f51e71730e43e1a62d79bd32799046-Max.jpg?v=1774360045
     Price: $43.78 USD
 - [Ivy Lane Leopard Color Block Cutout Sleeveless Knee-Length Dress](https://fitggins.com/products/ivy-lane-leopard-color-block-cutout-sleeveless-knee-length-dress): Pattern type: Contrast Style: Sexy Features: Cutout Neckline: Round neck Length: Knee length Sleeve length: Sleeveless Sleeve type: Sleeveless Hem shaped: Pencil Sheer: No Body: Not lined Material composition: 95% polyester fibre, 5% spandex Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 35 in, bust 33 in, waist 30 inM: length 35 in, bust 34 in, waist 32 inL: length 36 in, bust 37 in, waist 34 inXL: length 36 in, bust 39 in, waist 36 in
-  Updated: 2026-03-24T19:04:49Z
+  Updated: 2026-04-03T04:43:57Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -16183,7 +16145,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c08e1914282a42b8880e02162131c0ce-Max.jpg?v=1774360054
     Price: $32.30 USD
 - [Ivy Lane Tie-Dye Sleeveless Dress with Pockets](https://fitggins.com/products/ivy-lane-tie-dye-sleeveless-dress-with-pockets): Pattern type: Tie-dye Style: Chic Features: Pockets Neckline: Round neck Length: Mini Sleeve length: Sleeveless Sleeve type: Sleeveless Hem shaped: Straight Sheer: No Body: Not lined Material composition: 95% polyester, 5% spandex Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: length 33 in, bust 34 in, shoulder 12 inM: length 34 in, bust 36 in, shoulder 12 inL: length 34 in, bust 39 in, shoulder 13 inXL: length 35 in, bust 43 in, shoulder 13 in
-  Updated: 2026-03-24T19:04:49Z
+  Updated: 2026-04-03T04:44:16Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -16253,7 +16215,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e415e19b4634133899ace2d237e004d-Max.jpg?v=1774360064
     Price: $33.55 USD
 - [Sleeveless Flowy Maxi Dress](https://fitggins.com/products/sleeveless-flowy-maxi-dress): Features:Basic style Stretch:Slightly stretchy Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Waist S 52 32.7 29.1 M 52.8 34.3 30.7 L 53.5 36.6 33.1 XL 54.3 39 35.4
-  Updated: 2026-03-24T19:04:48Z
+  Updated: 2026-04-11T14:05:27Z
   Vendor: Fitggins
   Product Type: Casual & Maxi Dresses
   Availability: Available
@@ -16419,7 +16381,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6aa06742-fb5e-4eb0-99ec-e94bd422bae4-Max.jpg?v=1774360074
     Price: $35.02 USD
 - [Open Front Lantern Sleeve Cardigan](https://fitggins.com/products/open-front-lantern-sleeve-cardigan): Features: Basic style Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 41.73 in, Sleeve Length 27.17 in, Top Length 33.07 inM:Bust 43.31 in, Sleeve Length 27.56 in, Top Length 33.66 inL:Bust 45.28 in, Sleeve Length 27.95 in, Top Length 34.25 inXL:Bust 47.24 in, Sleeve Length 28.35 in, Top Length 34.84 in
-  Updated: 2026-03-24T16:51:48Z
+  Updated: 2026-04-03T04:45:25Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -16505,7 +16467,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3e1c7b38-94c7-4014-8824-91c75c475e96-Max.webp?v=1774360083
     Price: $41.30 USD
 - [Distressed Raw Hem Denim Shorts](https://fitggins.com/products/distressed-raw-hem-denim-shorts-2): Features: Distressed Stretch: Slightly stretchy Material composition: 95% Rayon, 5% Polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist HIP Bottom Length S 4 27.6 40.2 13.8 M 6/8 29.5 42.1 14.2 L 10/12 31.5 44.1 14.6 XL 14/16 34.6 47.2 15 2XL 18 37.8 50.4 15.4
-  Updated: 2026-03-24T19:04:47Z
+  Updated: 2026-04-03T04:45:47Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -16551,7 +16513,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/705d0e1b-1bab-4ef3-b8f7-41bbfccf6004-Max.webp?v=1774360094
     Price: $35.65 USD
 - [Distressed Fringe Denim Shorts with Pockets](https://fitggins.com/products/distressed-fringe-denim-shorts-with-pockets): Features: Basic style Stretch: Slightly stretchy Material composition: 65% cotton, 35% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bottom Length HIP Waist S 4 12.6 39.4 28.3 M 6/8 13 40.9 29.9 L 10/12 13.4 43.3 32.3 XL 14 13.8 45.7 34.6 2XL 16 14.2 49.6 38.6
-  Updated: 2026-03-24T19:04:47Z
+  Updated: 2026-04-03T04:46:26Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -16617,13 +16579,13 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/edf33ac1-5c5c-4686-896d-9170f2682ee1-Max.webp?v=1774360105
     Price: $36.54 USD
 - [Pearl Beaded Raw Hem Wash Denim Shorts](https://fitggins.com/products/pearl-beaded-raw-hem-wash-denim-shorts): Features: Raw Hem Stretch: No stretch Material composition: 65% cotton, 33% polyester, 2% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 4 13 3.3 26.6 36.4 6 13.2 3.3 27.8 37.6 8 13.4 3.3 28.7 38.6 10 13.6 3.3 29.7 39.6 12 13.8 3.3 31.3 41.1 14 14.1 3.3 32.9 42.7 16 14.3 3.3 34.4 44.3
-  Updated: 2026-03-24T19:04:46Z
+  Updated: 2026-04-03T04:46:57Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9567874d-6711-41b1-9425-e423b218c497-Max-Origin.webp?v=1774360114
   - [Medium / 4](https://fitggins.com/products/pearl-beaded-raw-hem-wash-denim-shorts?variant=52752932798792)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9567874d-6711-41b1-9425-e423b218c497-Max-Origin.webp?v=1774360114
     Price: $43.46 USD
   - [Medium / 6](https://fitggins.com/products/pearl-beaded-raw-hem-wash-denim-shorts?variant=52752932831560)
@@ -16651,7 +16613,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9567874d-6711-41b1-9425-e423b218c497-Max-Origin.webp?v=1774360114
     Price: $43.46 USD
 - [Drawstring High Waist Denim Shorts with Pockets](https://fitggins.com/products/drawstring-high-waist-denim-shorts-with-pockets-1): Features: Drawstring, Pocketed Stretch: No stretch Material composition: 59.8% cotton, 27.9% polyester, 10.6% viscose, 1.7% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 4 13.4 3.5 26.2 40.4 6 13.6 3.5 27.4 41.5 8 13.8 3.5 28.3 42.5 10 14 3.5 29.3 43.5 12 14.2 3.5 30.9 45.1 14 14.4 3.5 32.5 46.7 16 14.7 3.5 34.1 48.2
-  Updated: 2026-03-24T19:04:46Z
+  Updated: 2026-04-14T02:31:06Z
   Vendor: Fitggins
   Product Type: Denim Shorts
   Availability: Available
@@ -16713,7 +16675,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c55f78f3-7a47-42c1-b3ae-a7ea3f2f3f6f-Max-Origin.webp?v=1774360124
     Price: $42.31 USD
 - [Scoop Neck Wide Strap Active Tank](https://fitggins.com/products/scoop-neck-wide-strap-active-tank): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Material composition: 80% nylon, 20% elastane Care instructions: Machine wash or professionally dry clean. Imported Product measurements:S:Top Length 13.78 in, Bust 26.77 inM:Top Length 13.98 in, Bust 28.35 inL:Top Length 14.17 in, Bust 29.92 inXL:Top Length 14.37 in, Bust 31.50 in
-  Updated: 2026-03-24T19:04:45Z
+  Updated: 2026-04-03T04:49:26Z
   Vendor: Fitggins
   Product Type: Crop Tops & Tank Tops
   Availability: Available
@@ -16879,7 +16841,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f3d14b20-ba7f-4ac0-9ec6-07767c85e4c4-Max.webp?v=1774360138
     Price: $37.20 USD
 - [Full Size Cutout Under-Bust Shaping Bodysuit](https://fitggins.com/products/full-size-cutout-under-bust-shaping-bodysuit): Sizing category: Full size run Picture style: Ghost mannequin Pattern type: Solid Style: Minimalist Features: Zipper Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 27-30 in, hip 34-37 inM: waist 30-33 in, hip 37-41 inL: waist 33-36 in, hip 41-44 inXL: waist 36-39 in, hip 44-47 in2XL: waist 39-42 in, hip 47-50 in3XL: waist 42-45 in, hip 50-53 in4XL: waist 45-48 in, hip 53-55 in5XL: waist 48-51 in, hip 55-59 in6XL: waist 51-55 in, hip 59-62 in
-  Updated: 2026-03-24T19:04:45Z
+  Updated: 2026-04-03T04:49:37Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -16921,7 +16883,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47bdea731d9a484bac70b35d8c063fd2-Max.jpg?v=1774371847
     Price: $35.88 USD
 - [Full Size Lace Detail Hook-and-Eye Shaping Shorts](https://fitggins.com/products/full-size-lace-detail-hook-and-eye-shaping-shorts): Features: Basic style Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S(US Size 4/6): waist 25.7-28.1 in, hip 35.1-37.4 inM(US Size 8/10): waist 28.1-30.4 in, hip 37.4-39.8 inL(US Size 10/12): waist 30.4-32.8 in, hip 39.8-42.1 inXL(US Size 12/14): waist 32.8-35.1 in, hip 42.1-44.5 in2XL(US Size 14/16): waist 35.1-37.4 in, hip 44.5-46.8 in3XL(US Size 16): waist 37.4-39.8 in, hip 46.8-49.1 in4XL(US Size 18): waist 39.8-42.1 in, hip 49.1-51.5 in5XL(US Size 20): waist 42.1-44.5 in, hip 51.5-53.8 in6XL(US Size 22): waist 44.5-46.8 in, hip 53.8-56.2 in
-  Updated: 2026-03-24T19:04:44Z
+  Updated: 2026-04-10T19:23:25Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -16999,7 +16961,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0d3f119bf5404667b8ec220b497870a2-Max.webp?v=1774371855
     Price: $37.76 USD
 - [Full Size Side Zip Up Wide Strap Shapewear](https://fitggins.com/products/full-size-side-zip-up-wide-strap-shapewear): Features: Basic style Sheer: Opaque Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S(US Size 4/6): waist 25.7-27.3 in, hip 36.7-38 in, length 20.5 inM(US Size 8/10): waist 27.3-28.9 in, hip 38.2-40 in, length 21.3 inL(US Size 10/12): waist 28.9-30.4 in, hip 39.8-41 in, length 22 inXL(US Size 12/14): waist 30.4-32 in, hip 41.3-43 in, length 22.8 in2XL(US Size 14/16): waist 32-33.5 in, hip 42.-44 in, length 23.6 in3XL(US Size 16): waist 33.5-35.1 in, hip 44.5-46 in, length 24.4 in4XL(US Size 18): waist 35.1-36.7 in, hip 46-48 in, length 25.2 in5XL(US Size 20): waist 36.7-38.2 in, hip 47.6-49 in, length 25.9 in6XL(US Size 22): waist 38.2-39.8 in, hip 49.1-51 in, length 26.7 in
-  Updated: 2026-03-24T19:04:44Z
+  Updated: 2026-04-03T04:51:56Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17077,7 +17039,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1774371865
     Price: $40.27 USD
 - [Full Size Lace Detail Zip-Up Under-Bust Shaping Bodysuit](https://fitggins.com/products/full-size-lace-detail-zip-up-under-bust-shaping-bodysuit): Sizing category: Full size run Picture style: Ghost mannequin Pattern type: Solid Style: Minimalist Features: Zipper Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 26-27 in, hip 37-38 inM: waist 27-29 in, hip 38-40 inL: waist 29-30 in, hip 40-41 inXL: waist 30-32 in, hip 41-43 in2XL: waist 32-34 in, hip 43-44 in3XL: waist 34-35 in, hip 44-46 in4XL: waist 35-37 in, hip 46-48 in5XL: waist 37-38 in, hip 48-49 in6XL: waist 38-40 in, hip 49-51 in
-  Updated: 2026-03-24T19:04:43Z
+  Updated: 2026-04-03T04:54:06Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17155,7 +17117,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d95c85b34d84a5b9b1cacc35ecaffe5-Max.jpg?v=1774371876
     Price: $43.88 USD
 - [Full Size Adjustable Strap Zip-Up Shaping Bodysuit](https://fitggins.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Zipper Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 26-27 in, hip 31-34 inM: waist 27-30 in, hip 34-37 inL: waist 30-32 in, hip 37-41 inXL: waist 32-35 in, hip 41-44 in2XL: waist 35-38 in, hip 44-47 in3XL: waist 38-41 in, hip 47-50 in4XL: waist 41-44 in, hip 50-53 in5XL: waist 44-47 in, hip 53-56 in6XL: waist 47-50 in, hip 56-59 in
-  Updated: 2026-03-24T19:04:43Z
+  Updated: 2026-04-03T04:55:57Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17233,7 +17195,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5659be8a12684c55b7f9dd6137756108-Max.jpg?v=1774371888
     Price: $36.71 USD
 - [Full Size Hip Lifting Shaping Shorts](https://fitggins.com/products/full-size-hip-lifting-shaping-shorts): Features: Basic style Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S(US Size 4/6): waist 21.8-23.4 in, hip 31.2-32.8 inM(US Size 8/10): waist 23.4-25 in, hip 32.8-34.3 inL(US Size 10/12): waist 25-26.5 in, hip 34.3-35.9 inXL(US Size 12/14): waist 26.5-28.1 in, hip 35.9-37.4 in2XL(US Size 14/16): waist 28.1-29.6 in, hip 37.4-39 in3XL(US Size 16): waist 29.6-31.2 in, hip 39-40.6 in4XL(US Size 18): waist 31.2-32.8 in, hip 40.6-42.1 in5XL(US Size 20): waist 32.8-34.3 in, hip 42.1-43.7 in6XL(US Size 22): waist 34.3-35.9 in, hip 43.7-45.2 in
-  Updated: 2026-03-24T19:04:42Z
+  Updated: 2026-04-11T15:21:26Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17311,85 +17273,85 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe8db43b8f3d46f798fb64b459d7939a-Max.webp?v=1774371896
     Price: $39.07 USD
 - [Full Size Lace Trim Shapewear with Zipper](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Zipper, lace Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: bust 32-39 in, waist 27-30 in, hip 37-41 inM: bust 39-42 in, waist 30-34 in, hip 41-44 inL: bust 42-45 in, waist 34-37 in, hip 44-47 inXL: bust 45-48 in, waist 37-40 in, hip 47-50 in2XL: bust 48-51 in, waist 40-43 in, hip 50-53 in3XL: bust 51-55 in, waist 43-46 in, hip 53-56 in4XL: bust 55-58 in, waist 46-48 in, hip 56-59 in5XL: bust 58-61 in, waist 48-52 in, hip 59-62 in6XL: bust 61-64 in, waist 52-55 in, hip 62-66 in
-  Updated: 2026-03-24T19:04:42Z
+  Updated: 2026-04-03T04:56:54Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fscs7quhwtim5c4ttcu8.png?v=1774955758
   - [Black / S](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209303880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / M](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209336648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / L](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209369416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209402184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / 2XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209434952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / 3XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209467720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / 4XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209500488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / 5XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209533256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Black / 6XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209566024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9befc5cf25b747d5bffa9a88daeb92ae-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / S](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209598792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / M](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209631560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / L](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209664328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209697096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / 2XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209729864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / 3XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209762632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / 4XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209795400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / 5XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209828168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
   - [Apricot / 6XL](https://fitggins.com/products/full-size-lace-trim-shapewear-with-zipper?variant=52756209860936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774371908
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1dca83da9c24a99bd684e216c2319d1-Max.jpg?v=1774955758
     Price: $44.53 USD
 - [Full Size Lace Trim Shaping Shorts](https://fitggins.com/products/full-size-lace-trim-shaping-shorts): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Lace Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 26-28 in, hip 35-37 inM: waist 27-30 in, hip 37-40 inL: waist 28-30 in, hip 40-42 inXL: waist 30-33 in, hip 42-44 in2XL: waist 33-35 in, hip 44-47 in3XL: waist 35-37 in, hip 47-49 in4XL: waist 37-40 in, hip 49-51 in5XL: waist 40-42 in, hip 51-54 in6XL: waist 42-44 in, hip 54-56 in
-  Updated: 2026-03-24T19:04:41Z
+  Updated: 2026-04-03T04:57:06Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17467,7 +17429,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6d4398f7160b4b2981e0b7b7e527c81e-Max.jpg?v=1774371918
     Price: $33.41 USD
 - [Full Size High Waist Shaping Panty](https://fitggins.com/products/full-size-high-waist-shaping-panty): Features: Basic style Material composition: 88% nylon, 12% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bottom Length Waist HIP S 2/4 14.6 22 29.1 M 6 15 23.6 30.7 L 8 15.4 25.2 32.3 XL 10 15.7 26.8 33.9 2XL 12 16.1 28.3 35.4 3XL 14 16.5 29.9 37
-  Updated: 2026-03-24T19:04:41Z
+  Updated: 2026-04-03T04:57:28Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17521,7 +17483,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e6f002ba-bc01-46d1-bba8-acbb72671a12-Max.webp?v=1774371926
     Price: $30.13 USD
 - [Scoop Neck Wide Strap Shaping Bodysuit](https://fitggins.com/products/scoop-neck-wide-strap-shaping-bodysuit): Features: Basic style Material composition: 79.3% polyester, 20.7% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Waist S 2/4 24 24 18.9 M 6 24.4 25.2 20.5 L 8 24.8 26.4 22 XL 10 25.2 27.6 23.6 2XL 12 25.6 28.7 25.2 3XL 14 26 29.9 26
-  Updated: 2026-03-24T19:04:41Z
+  Updated: 2026-04-03T04:58:10Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17599,7 +17561,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/deb8d7ca-a40b-41c2-91c3-17ccb48f293a-Max.webp?v=1774371947
     Price: $30.36 USD
 - [Basic Bae Scoop Neck Shapewear Tank with Removable Paddings](https://fitggins.com/products/basic-bae-scoop-neck-shapewear-tank-with-removable-paddings): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 62% nylon, 38% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: M: Weight less than 50kg, height 155cm-160cm, cup size 70A/70B 70C/70D 75A/75B. 32 in-34 in.L: Weight 50kg-60kg, height 160cm-165cm, cup size 75B/75C 75D/80A 80B/80C. 34 in-36 in.XL: Weight 60kg-70kg, height 165cm-170cm, cup size 80C/80D 85A/85B 85C/85D. 36 in-38 in.2XL: Weight 70kg-80kg, height 170-cm-175cm, cup size 80D/90A 90B/90C 90D/95A/B. 38 in-40 in.Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Waist M 16.1 23.6 21.3 L 16.5 25.2 22.8 XL 16.9 26.8 24.4 2XL 17.3 28.3 26 3XL 17.7 29.9 27.6
-  Updated: 2026-03-24T19:04:40Z
+  Updated: 2026-04-05T14:34:07Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17637,7 +17599,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7170acce-9a22-4fbd-85b8-c98c7a3787c8-Max.webp?v=1774371957
     Price: $31.16 USD
 - [Full Size Hook-and-Eye Shaping Shorts](https://fitggins.com/products/full-size-hook-and-eye-shaping-shorts): Sizing category: Full size run Picture style: Ghost mannequin, flat lay, studio Pattern type: Solid Style: Minimalist Features: Lace Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 23-27 in, hip 31-34 inM: waist 27-30 in, hip 34-37 inL: waist 30-33 in, hip 37-41 inXL: waist 33-36 in, hip 41-44 in2XL: waist 36-39 in, hip 44-47 in3XL: waist 39-42 in, hip 47-50 in4XL: waist 42-45 in, hip 50-53 in5XL: waist 45-48 in, hip 53-55 in6XL: waist 48-51 in, hip 55-59 in
-  Updated: 2026-03-24T19:04:40Z
+  Updated: 2026-04-03T04:58:36Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17715,7 +17677,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/54af84e83f394a33abdf5fdd388ef036-Max.jpg?v=1774371969
     Price: $34.83 USD
 - [Full Size Spaghetti Strap Shaping Romper](https://fitggins.com/products/full-size-spaghetti-strap-shaping-romper): Features: Basic style Material composition: 79.3% polyester, 20.7% spandex Care instructions: Hand wash cold. Do not tumble dry. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist HIP Bust S 28.3 18.9 23.6 23.6 M 28.7 20.5 24.4 24.4 L 29.1 22 25.2 25.2 XL 29.5 23.6 26 26 2XL 29.9 25.2 27.6 27.6 3XL 30.3 26 28.3 28.3
-  Updated: 2026-03-24T19:04:39Z
+  Updated: 2026-04-03T05:00:40Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17817,7 +17779,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0c922370-4e6e-420d-a834-c8f2ffd21a04-Max.webp?v=1774371979
     Price: $32.28 USD
 - [Full Size Lace Detail Shaping Shorts](https://fitggins.com/products/full-size-lace-detail-shaping-shorts): Sheer: Opaque Stretch: Moderate stretch Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S(US Size 4/6): waist 25.7-28.1 in, hip 35.1-37 inM(US Size 8/10): waist 28.1-30.4 in, hip 37.4-40 inL(US Size 10/12): waist 30.4-32.8 in, hip 39.8-42 inXL(US Size 12/14): waist 32.8-35.1 in, hip 42.1-44 in2XL(US Size 14/16): waist 35.1-37.4 in, hip 44.5-47 in3XL(US Size 16): waist 37.4-39.8 in, hip 46.8-49 in4XL(US Size 18): waist 39.8-42.1 in, hip 49.1-51 in5XL(US Size 20): waist 42.1-44.5 in, hip 51.5-54 in6XL(US Size 22): waist 44.5-46.8 in, hip 53.8-56 in
-  Updated: 2026-03-24T19:04:38Z
+  Updated: 2026-04-03T05:01:48Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17895,7 +17857,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c987bd3bbbe044eab22eee6d147d22a5-Max.webp?v=1774371988
     Price: $33.60 USD
 - [Full Size Hook-and-Eye Under-Bust Shaping Bodysuit](https://fitggins.com/products/full-size-hook-and-eye-under-bust-shaping-bodysuit): Features: Basic style Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S(US Size 4/6): waist 25.7-28.1 in, hip 35.1-37.4 inM(US Size 8/10): waist 28.1-30.4 in, hip 37.4-39.8 inL(US Size 10/12): waist 30.4-32.8 in, hip 39.8-42.1 inXL(US Size 12/14): waist 32.8-35.1 in, hip 42.1-44.5 in2XL(US Size 14/16): waist 35.1-37.4 in, hip 44.5-46.8 in3XL(US Size 16): waist 37.4-39.8 in, hip 46.8-49.1 in4XL(US Size 18): waist 39.8-42.1 in, hip 49.1-51.5 in5XL(US Size 20): waist 42.1-44.5 in, hip 51.5-53.8 in6XL(US Size 22): waist 44.5-46.8 in, hip 53.8-56.2 in
-  Updated: 2026-03-24T19:04:38Z
+  Updated: 2026-04-03T05:01:57Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -17937,7 +17899,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/212629582ee84f0e959b6c142b3ca306-Max.webp?v=1774371998
     Price: $40.52 USD
 - [Full Size Pull-On Lace Trim Shaping Shorts](https://fitggins.com/products/full-size-pull-on-lace-trim-shaping-shorts): Sizing category: Full size run Picture style: Studio Pattern type: Solid Style: Sexy Features: Lace Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: length 13 in, waist 26-27 in, hip 37-38 inM: length 14 in, waist 27-29 in, hip 38-40 inL: length 15 in, waist 29-30 in, hip 40-41 inXL: length 15 in, waist 30-32 in, hip 41-43 in2XL: length 16 in, waist 32-34 in, hip 43-44 in3XL: length 16 in, waist 34-35 in, hip 44-46 in4XL: length 17 in, waist 35-37 in, hip 46-48 in5XL: length 18 in, waist 37-38 in, hip 48-49 in6XL: length 18 in, waist 38-40 in, hip 49-51 in
-  Updated: 2026-03-24T19:04:37Z
+  Updated: 2026-04-03T05:02:19Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18015,7 +17977,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3526ebdc514c4458a286b07439532bad-Max.jpg?v=1774372010
     Price: $35.88 USD
 - [Full Size Zip Up Lace Detail Long Sleeve Shapewear](https://fitggins.com/products/full-size-zip-up-lace-detail-long-sleeve-shapewear): Features: Basic style Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S(US Size 4/6): waist 25.7-28.1 in, hip 35.1-37 in, sleeve length 17.2 in, length 22.6 inM(US Size 8/10): waist 28.1-30.4 in, hip 37.4-40 in, sleeve length 17.6 in, length 23 inL(US Size 10/12): waist 30.4-32.8 in, hip 39.8-42 in, sleeve length 17.9 in, length 23.4 inXL(US Size 12/14): waist 32.8-35.1 in, hip 42.1-44 in, sleeve length 18.3 in, length 23.9 in2XL(US Size 14/16): waist 35.1-37.4 in, hip 44.5-47 in, sleeve length 18.7 in, length 24.3 in3XL(US Size 16): waist 37.4-39.8 in, hip 46.8-49 in, sleeve length 19.1 in, length 24.7 in4XL(US Size 18): waist 39.8-42.1 in, hip 49.1-51 in, sleeve length 19.5 in, length 25.2 in5XL(US Size 20): waist 42.1-44.5 in, hip 51.5-54 in, sleeve length 19.9 in, length 25.6 in6XL(US Size 22): waist 44.5-46.8 in, hip 53.8-56 in, sleeve length 20.3 in, length 26 in
-  Updated: 2026-03-24T19:04:37Z
+  Updated: 2026-04-03T05:03:07Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18093,7 +18055,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fdbc3bb4f7b24aee80d3aaf637467cbe-Max.webp?v=1774372018
     Price: $40.73 USD
 - [Full Size Zip Up Under-Bust Shaping Bodysuit](https://fitggins.com/products/full-size-zip-up-under-bust-shaping-bodysuit): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Lace, zipper Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 28-31 in, hip 30-34 inM: waist 31-34 in, hip 34-37 inL: waist 34-37 in, hip 37-40 inXL: waist 37-41 in, hip 40-43 in2XL: waist 41-44 in, hip 43-46 in3XL: waist 44-47 in, hip 46-49 in4XL: waist 47-50 in, hip 49-52 in5XL: waist 50-53 in, hip 52-55 in6XL: waist 53-56 in, hip 55-59 in
-  Updated: 2026-03-24T19:04:36Z
+  Updated: 2026-04-03T05:03:56Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18171,7 +18133,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d32f45d24d20438782bb8f23945d2e5f-Max.jpg?v=1774372041
     Price: $39.60 USD
 - [Full Size High Waisted Pull-On Shaping Shorts](https://fitggins.com/products/full-size-high-waisted-pull-on-shaping-shorts): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Elastic waistband Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 22-23 in, hip 31-33 inM: waist 23-25 in, hip 33-34 inL: waist 25-27 in, hip 34-36 inXL: waist 27-28 in, hip 36-37 in2XL: waist 28-30 in, hip 37-39 in3XL: waist 30-31 in, hip 3940 in4XL: waist 31-33 in, hip 40-41 in5XL: waist 33-34 in, hip 41-43 in6XL: waist 34-36 in, hip 43-44 in
-  Updated: 2026-03-24T19:04:36Z
+  Updated: 2026-04-03T05:04:55Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18249,7 +18211,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9eb7f3e6a7354028bb55bf580ecc60a2-Max.jpg?v=1774372051
     Price: $40.20 USD
 - [Full Size Spaghetti Strap Shaping Bodysuit](https://fitggins.com/products/full-size-spaghetti-strap-shaping-bodysuit): Features: Basic style Material composition: 79.3% polyester, 20.7% spandex Care instructions: Hand wash cold. Do not tumble dry. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Waist S 28.3 23.6 18.9 M 28.7 24.4 20.5 L 29.1 25.2 22 XL 29.5 26 23.6 2XL 29.9 27.6 25.2 3XL 30.3 28.3 26
-  Updated: 2026-03-24T19:04:35Z
+  Updated: 2026-04-03T05:06:48Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18327,85 +18289,85 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/463bda418f464fa9976b3b880f371d06-Max.jpg?v=1774372061
     Price: $32.28 USD
 - [Full Size Zip-Up Lace Detail Shapewear](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear): Sizing category: Full size run Picture style: Ghost mannequin Pattern type: Solid Style: Minimalist Features: Lace Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: bust 30-31 in, waist 22-23 in, hip 31-33 inM: bust 31-33 in, waist 23-25 in, hip 33-34 inL: bust 33-34 in, waist 25-27 in, hip 34-36 inXL: bust 34-36 in, waist 27-28 in, hip 36-37 in2XL: bust 36-37 in, waist 28-30 in, hip 37-39 in3XL: bust 37-39 in, waist 30-31 in, hip 39-41 in4XL: bust 39-41 in, waist 31-33 in, hip 41-42 in5XL: bust 41-42 in, waist 33-34 in, hip 42-44 in6XL: bust 42-44 in, waist 34-36 in, hip 44-45 in
-  Updated: 2026-03-24T19:04:35Z
+  Updated: 2026-04-03T05:07:19Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ptywvgn1nmxtvufail40.png?v=1774889469
   - [Black / S](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284342600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / M](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284375368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / L](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284408136)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284440904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / 2XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284473672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / 3XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284506440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / 4XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284539208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / 5XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284571976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Black / 6XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284604744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774372070
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6e37fafdffe645a3b0ecc2dcb2743fcf-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / S](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284637512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / M](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284670280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / L](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284703048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284735816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / 2XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284768584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / 3XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284801352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / 4XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284834120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / 5XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284866888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
   - [Nude / 6XL](https://fitggins.com/products/full-size-zip-up-lace-detail-shapewear?variant=52756284899656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774372071
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2923d27a678a4d0e935a64f672f54100-Max.jpg?v=1774889467
     Price: $41.00 USD
 - [Full Size Hip Lifting Shaping Shorts](https://fitggins.com/products/full-size-hip-lifting-shaping-shorts-1): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Hook and eye Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: bust 23-27 in, waist 31-34 inM: bust 27-30 in, waist 34-37 inL: bust 30-33 in, waist 37-41 inXL: bust 33-36 in, waist 41-44 in2XL: bust 36-39 in, waist 44-47 in3XL: bust 39-42 in, waist 47-50 in4XL: bust 42-45 in, waist 50-53 in5XL: bust 45-48 in, waist 53-56 in6XL: bust 48-51 in, waist 56-59 in
-  Updated: 2026-03-24T19:04:34Z
+  Updated: 2026-04-03T05:07:18Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18482,86 +18444,86 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1b8f023861074393b8e162223df7da26-Max.jpg?v=1774372079
     Price: $37.57 USD
-- [Full Size Zip-Up Scoop Neck Lace Trim Shapewear](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear): Sizing category: Full size run Picture style: Studio Pattern type: Solid Style: Sexy Features: Lace, zipper Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: bust 32-39 in, waist 27-30 in, hip 37-41 inM: bust 39-42 in, waist 30-34 in, hip 41-44 inL: bust 42-45 in, waist 34-37 in, hip 44-47 inXL: bust 45-48 in, waist 37-40 in, hip 47-50 in2XL: bust 48-51 in, waist 40-43 in, hip 50-53 in3XL: bust 51-55 in, waist 43-46 in, hip 53-56 in4XL: bust 55-58 in, waist 46-49 in, hip 56-59 in5XL: bust 58-61 in, waist 49-52 in, hip 59-62 in6XL: bust 61-64 in, waist 52-55 in, hip 62-66 in
-  Updated: 2026-03-24T19:04:34Z
+- [Seamless Shapewear Bodysuit – Tummy Control & Waist Slimming](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear): Smooth your tummy and shape your waist instantly with this seamless shapewear bodysuit. Invisible, comfortable, and perfect under any outfit.
+  Updated: 2026-04-08T22:15:05Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/hxyejswogmfnvy3t988i.png?v=1774875572
   - [Black / S](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756304789832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / M](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756304822600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / L](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756304855368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756304888136)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / 2XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756304920904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / 3XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756304953672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / 4XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756304986440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / 5XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305019208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Black / 6XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305051976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774372091
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b4646edb283f4358b64a31337dbe2589-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / S](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305084744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / M](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305117512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / L](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305150280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305183048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / 2XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305215816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / 3XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305248584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / 4XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305281352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / 5XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305314120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
   - [Beige / 6XL](https://fitggins.com/products/full-size-zip-up-scoop-neck-lace-trim-shapewear?variant=52756305346888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774372090
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e8e003b2e8dc48a2b36414a03de2a0a8-Max.jpg?v=1774889571
     Price: $40.67 USD
 - [Full Size Zip-Up Lace Trim Shaping Shorts](https://fitggins.com/products/full-size-zip-up-lace-trim-shaping-shorts): Sizing category: Full size run Picture style: Studio Pattern type: Solid Style: Sexy Features: Lace, zipper Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 26-27 in, hip 37-38 inM: waist 27-29 in, hip 38-40 inL: waist 29-30 in, hip 40-41 inXL: waist 30-32 in, hip 41-43 in2XL: waist 32-34 in, hip 43-44 in3XL: waist 34-35 in, hip 44-46 in4XL: waist 35-37 in, hip 46-48 in5XL: waist 37-38 in, hip 48-49 in6XL: waist 38-40 in, hip 49-51 in
-  Updated: 2026-03-24T19:04:33Z
+  Updated: 2026-04-03T05:08:43Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18639,73 +18601,73 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ac427fa195a44ba5b24617f0e157ccd2-Max.jpg?v=1774372100
     Price: $36.18 USD
 - [Basic Bae Built-In Shapewear Sleeveless Maxi Dress](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress): Features: Basic style Sheer: Opaque Stretch: Highly stretchy Body: Lined Material composition: Exterior: 92% modal, 8% spandexLinning: 62% polyamide, 38% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Waist Hip S 4 51.2 31.1 23.6 32.3 M 6/8 51.6 33.1 25.6 34.3 L 10/12 52 35 27.6 36.2 XL 14 52.4 37 29.5 38.2 2XL 16 52.8 39 31.5 40.2
-  Updated: 2026-03-24T19:04:33Z
+  Updated: 2026-04-03T05:08:43Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774372110
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/wzqsimw97biu6u9l0y60.png?v=1774956038
   - [Black / S](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326187336)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Black / M](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326220104)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Black / L](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326252872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Black / XL](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326285640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Black / 2XL](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326318408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/05660768-902f-4bf6-a703-5654ac991a3e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Royal Blue / S](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326351176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Royal Blue / M](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326383944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Royal Blue / L](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326416712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Royal Blue / XL](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326449480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Royal Blue / 2XL](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326482248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f93288be-913d-49ec-a607-5be77c62c28e-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Rouge / S](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326515016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Rouge / M](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326547784)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Rouge / L](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326580552)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Rouge / XL](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326613320)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774956036
     Price: $48.77 USD
   - [Rouge / 2XL](https://fitggins.com/products/basic-bae-built-in-shapewear-sleeveless-maxi-dress?variant=52756326646088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774372110
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/21fe7343-a825-403a-98dc-52ca8a59d296-Max.webp?v=1774956036
     Price: $48.77 USD
 - [Long Sleeve Shaping Bodysuit](https://fitggins.com/products/long-sleeve-shaping-bodysuit): Features: Basic style Material composition: 79.3% polyester, 20.7% spandex Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: length 24.4 in, under bust 10.9 in, waist 9.4 in, hip 10.9 in, sleeve length 20.3 inM: length 25 in, under bust 11.7 in, waist 10.1 in, hip 11.7 in, sleeve length 20.3 inL: length 25.5 in, under bust 12.5 in, waist 10.9 in, hip 12.5 in, sleeve length 21.1 inXL: length 26.1 in, under bust 13.3 in, waist 11.7 in, hip 13.3 in, sleeve length 21.1 in2XL: length 26.7 in, under bust 14.0 in, waist 12.5 in, hip 13.7 in, sleeve length 21.8 in3XL: length 27.3 in, under bust 14.4 in, waist 12.9 in, hip 14.0 in, sleeve length 21.8 in
-  Updated: 2026-03-24T19:04:32Z
+  Updated: 2026-04-03T05:10:10Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18783,7 +18745,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f038b83e5ddd44d8bdeeb9c90477c9d1-Max.jpg?v=1774372120
     Price: $33.36 USD
 - [Full Size Hook-and-Eye Lace Trim Shaping Bodysuit](https://fitggins.com/products/full-size-hook-and-eye-lace-trim-shaping-bodysuit): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Lace, hook-and-eye Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: waist 26-27 in, hip 37-38 in, length 19 inM: waist 27-29 in, hip 38-40 in, length 20 inL: waist 29-30 in, hip 40-41 in, length 20 inXL: waist 30-32 in, hip 41-43 in, length 21 in2XL: waist 32-34 in, hip 43-44 in, length 22 in3XL: waist 34-35 in, hip 44-46 in, length 22 in4XL: waist 35-37 in, hip 46-48 in, length 23 in5XL: waist 37-38 in, hip 48-49 in, length 23 in6XL: waist 38-40 in, hip 49-51 in, length 24 in
-  Updated: 2026-03-24T19:04:32Z
+  Updated: 2026-04-03T05:10:19Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18861,7 +18823,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25c471804ff54669897bbb00ea538757-Max.jpg?v=1774372132
     Price: $41.84 USD
 - [Full Size Lifting Pull-On Shaping Shorts](https://fitggins.com/products/full-size-lifting-pull-on-shaping-shorts): Sizing category: Full size run Picture style: Ghost mannequin, studio Pattern type: Solid Style: Minimalist Features: Pull-on Material: 90% polyester, 10% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. do not tumble dry. Imported Product measurements: S: bust 30-31 in, waist 22-23 in, hip 31-33 inM: bust 31-33 in, waist 23-25 in, hip 33-34 inL: bust 33-34 in, waist 25-27 in, hip 34-36 inXL: bust 34-36 in, waist 27-28 in, hip 36-37 in2XL: bust 36-37 in, waist 28-30 in, hip 37-39 in3XL: bust 37-39 in, waist 30-31 in, hip 39-41 in4XL: bust 39-41 in, waist 31-33 in, hip 41-42 in5XL: bust 41-42 in, waist 33-34 in, hip 42-44 in6XL: bust 42-44 in, waist 34-36 in, hip 44-45 in
-  Updated: 2026-03-24T19:04:31Z
+  Updated: 2026-04-03T05:10:56Z
   Vendor: Fitggins
   Product Type: Shapewear
   Availability: Available
@@ -18939,7 +18901,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aaf012f5cf9143a493383cf4ac604b16-Max.jpg?v=1774372142
     Price: $39.72 USD
 - [Judy Blue Full Size Garment Dyed Tummy Control Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-garment-dyed-tummy-control-skinny-jeans): Introducing our new Garment Dyed Tummy Control Skinny Jeans. These jeans are designed to give you an effortlessly slim and flattering look. With their high-rise waist and tummy control panel, they provide the perfect amount of support and comfort. Made from premium quality denim, they feature a garment dyeing process that gives them a unique and vibrant color. Say goodbye to bulky waistbands and hello to a smooth silhouette with these must-have jeans.Style #: 88845 Features: Basic style Stretch: Slightly stretchy Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Made in: Imported Model information: Curve model-height 5'3", bust 49", waist 40", hip 53", size 2XLProduct Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 29 11 1/25 24 30 29 11 3/26 25 31 29 11 5/27 26 32 29 11 7/28 27 33 29 11.5 9/29 28 34 29 11.5 11/30 29 35 29 11.5 13/31 30 37 29 11.5 15/32 31 38 29 12 14W 31 40 29 12 16W 30 40 29 12 18W 32 42 29 12 20W 35 45 30 12.5 22W 37 47 29 12.5 24W 39 50 29 12.5
-  Updated: 2026-03-24T19:04:31Z
+  Updated: 2026-04-13T05:15:25Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19005,13 +18967,13 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d68765bf-5829-4ffd-9c07-0101c235b88f-Max.webp?v=1774373863
     Price: $43.89 USD
 - [bytos Full Size Distressed High Rise Jeans with Pockets](https://fitggins.com/products/bytos-full-size-distressed-high-rise-jeans-with-pockets): These bytos Full Size Distressed High Rise Jeans are a stylish and comfortable addition to any wardrobe. Featuring a flattering high-rise waist and a fashion bootcut leg, these jeans are designed to elongate the legs and create a streamlined silhouette. The distressed detailing adds a touch of edginess, while the functional pockets provide practicality. Made from a durable and comfortable denim fabric, these jeans are perfect for everyday wear. The versatile style makes them easy to dress up or down, making them a must-have for any fashion-conscious individual. Material: Denim blend (cotton, polyester, spandex).  points: Flattering fit, fashion design, comfortable fabric, versatile style. Features:Basic style,Pocketed,Distressed Stretch:Moderate stretch Material composition:71% cotton, 19% polyester, 9% viscose, 1% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 1(25) 25 31 9.8 31.5 3(26) 26 32 9.8 31.5 5(27) 27 33 10.8 31.5 7(28) 28 34 10.8 31.5 9(29) 29 35 10.8 31.5 11(30) 30 36 11.8 31.5 13(31) 31 37 11.8 31.5 15(32) 32 38 11.8 31.5 1XL 33 39 12.3 32 2XL 34 40 12.3 32 3XL 35 41 12.3 32
-  Updated: 2026-03-24T19:04:30Z
+  Updated: 2026-04-14T20:18:07Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1c5a5d1-4c26-416e-abd8-28fcf0521f65-Max.webp?v=1774373873
   - [Medium / 1(25)](https://fitggins.com/products/bytos-full-size-distressed-high-rise-jeans-with-pockets?variant=52756416758088)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1c5a5d1-4c26-416e-abd8-28fcf0521f65-Max.webp?v=1774373873
     Price: $46.28 USD
   - [Medium / 3(26)](https://fitggins.com/products/bytos-full-size-distressed-high-rise-jeans-with-pockets?variant=52756416790856)
@@ -19055,7 +19017,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1c5a5d1-4c26-416e-abd8-28fcf0521f65-Max.webp?v=1774373873
     Price: $48.52 USD
 - [Judy Blue Full Size High Waist Tummy Control Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-tummy-control-jeans): High Waist Tummy Control Jeans are designed to flatter your figure and give you a sleek silhouette. They feature a high waistband that smooths and shapes your tummy area for a slimming effect. These jeans are perfect for creating a stylish and chic look while also providing comfortable support. The tummy control feature helps to accentuate your curves and enhance your overall appearance. These jeans are versatile and can be dressed up or down for various occasions. Say goodbye to muffin tops and hello to a more confident you with High Waist Tummy Control Jeans!Style #:88869 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 74% cotton, 11% polyester, 6% t400, 7% rayon, 2% lycra Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 32 10 1/25 24 30 32 10 3/26 25 31 32 10.5 5/27 26 32 32 10.5 7/28 27 33 32 11 9/29 28 34 32 11 11/30 29 35 32 11 13/31 30 37 32 11.5 15/32 31 38 32 11.5 14W 31 40 32 11.5 16W 30 40 32 12 18W 32 42 32 12 20W 35 45 32 12.5 22W 37 47 32 13 24W 39 50 32 13.5
-  Updated: 2026-03-24T19:04:30Z
+  Updated: 2026-04-14T17:31:58Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19117,17 +19079,17 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73e2b524-6dc2-49f9-836f-e9e2c4b94da1-Max.webp?v=1774373883
     Price: $52.66 USD
   - [Dark / 24W](https://fitggins.com/products/judy-blue-full-size-high-waist-tummy-control-jeans?variant=52756417741128)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73e2b524-6dc2-49f9-836f-e9e2c4b94da1-Max.webp?v=1774373883
     Price: $52.66 USD
 - [bytos Full Size Distressed High Rise Straight Jeans](https://fitggins.com/products/bytos-full-size-distressed-high-rise-straight-jeans): These bytos Full Size Distressed High Rise Straight Jeans are a must-have for any fashion-forward wardrobe. Crafted from high-quality denim, these jeans offer a comfortable and flattering fit with a high-rise waist and straight leg silhouette. The distressed detailing adds a touch of edgy style, making them perfect for casual outings or dressing up for a night out. The durable denim ensures long-lasting wear, while the versatile design makes them easy to pair with a variety of tops and shoes. These jeans are designed to enhance your figure and provide all-day comfort. The classic five-pocket design adds functionality, while the stylish distressing elevates the overall look. Perfect for any season, these jeans are a versatile addition to your wardrobe. Features:Basic style,Pocketed,Distressed Stretch:Slightly stretchy Material composition:78% cotton, 20% polyester, 2% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 1(25) 25 31 10 31 3(26) 26 32 10 31 5(27) 27 33 11 31 7(28) 28 34 11 31 9(29) 29 35 11 31 11(30) 30 36 12 31 13(31) 31 37 12 31 15(32) 32 38 12 31 1XL 33 39 12.5 31.5 2XL 34 40 12.5 31.5 3XL 35 41 12.5 31.5
-  Updated: 2026-03-24T19:04:29Z
+  Updated: 2026-04-11T13:32:16Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1774373893
   - [Medium / 1(25)](https://fitggins.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=52756418396488)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1774373893
     Price: $48.52 USD
   - [Medium / 3(26)](https://fitggins.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=52756418429256)
@@ -19171,7 +19133,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1774373893
     Price: $50.76 USD
 - [Judy Blue Full Size High Waist Distressed Wide Leg Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans): The High Waist Distressed Wide Leg Jeans are a modern and stylish denim essential that combines high-waisted comfort with on-trend distressed details. The wide leg silhouette offers a flattering and chic look that is both comfortable and versatile. Crafted from quality denim material, these jeans provide durability and a fashion-forward aesthetic. The high waist design accentuates the waistline and adds a touch of retro flair to any outfit. Pair them with a tucked-in top and heels for a sophisticated ensemble or go for a casual vibe with a cropped tee and sneakers. Embrace the effortlessly cool and fashionable appeal of the High Waist Distressed Wide Leg Jeans for a standout and versatile wardrobe staple.Style #: 88823 Features: Distressed, Pocketed Stretch: Slightly stretchy Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 31 10 1/25 24 30 31 10 3/26 25 31 31 10.5 5/27 26 32 31 10.5 7/28 27 33 31 11 9/29 28 34 31 11 11/30 29 35 31 11 13/31 30 37 31 11.5 15/32 31 38 31 11.5 14W 31 40 31.5 11.5 16W 30 40 31.5 12 18W 32 42 31.5 12 20W 35 45 31.5 12.5 22W 37 47 31.5 13 24W 39 50 31.5 13.5
-  Updated: 2026-03-24T19:04:29Z
+  Updated: 2026-04-14T15:14:42Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19237,7 +19199,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1774373904
     Price: $53.10 USD
 - [Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans!Style #: 88848 Features: Washed, Pocketed Stretch: Moderate stretch Material composition:95% Cotton, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 33 11 1/25 24 30 33 11 3/26 25 31 33 11 5/27 26 32 33 11.5 7/28 27 33 33 11.5 9/29 28 34 33 11.5 11/30 29 35 33 12 13/31 30 37 33 12 15/32 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13
-  Updated: 2026-03-24T19:04:28Z
+  Updated: 2026-04-14T03:20:46Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19275,7 +19237,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1774373914
     Price: $54.34 USD
   - [Medium / 15/32](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52756419641672)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1774373914
     Price: $54.34 USD
   - [Medium / 14W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52756419674440)
@@ -19283,7 +19245,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1774373914
     Price: $54.34 USD
   - [Medium / 16W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52756419707208)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1774373914
     Price: $54.34 USD
   - [Medium / 18W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52756419739976)
@@ -19303,7 +19265,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1774373914
     Price: $54.34 USD
 - [Judy Blue Full Size Tummy Control High Waist Slim Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans): Tummy Control High Waist Slim Jeans are designed to give you a flattering silhouette by providing extra support around the midsection. These jeans have a high waist that helps to smooth and flatten your tummy area, giving you a slimming effect. The tummy control feature in these jeans helps to hold everything in place and enhance your curves. With a slim fit design, these jeans are versatile and perfect for creating stylish outfits. Enjoy the confidence-boosting benefits of Tummy Control High Waist Slim Jeans that offer both comfort and style. Elevate your look with these figure-flattering and trendy jeans today!Style #: 88776 Features: Basic style Stretch: Highly stretchy Material composition: 76.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Model information: Regular size model-height 5'9", bust 34", waist 25", hip 35", size S, jeans size 3Curve model-height 5'3", bust 49", waist 40", hip 53", size 2XLProduct Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 24 31 28 10.5 1/25 25 32 28 10.5 3/26 26 33 28 11 5/27 27 34 28 11 7/28 28 35 28 11.5 9/29 29 36 28 11.5 11/30 30 37 28 11.5 13/31 31 38 28 12 15/32 32 39 28 12 14W 33 40 28.5 12 16W 33 41 28.5 12.5 18W 34 43 28.5 12.5 20W 36 45 28.5 13 22W 38 47 28.5 13.5 24W 41 50 28.5 14
-  Updated: 2026-03-24T19:04:28Z
+  Updated: 2026-04-03T05:16:17Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19369,7 +19331,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1774373925
     Price: $52.78 USD
 - [Flare Jeans with Pockets](https://fitggins.com/products/flare-jeans-with-pockets): Features: Buttoned, Pocketed Stretch: Highly stretchy Material composition: 65% cotton, 35% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bottom Length Waist Hip S 4 41.7 25.2 33.1 M 6/8 42.1 26.8 34.6 L 10/12 42.5 29.1 37 XL 14 42.9 31.5 39.4 2XL 16 43.3 33.9 41.7
-  Updated: 2026-03-24T19:04:27Z
+  Updated: 2026-04-03T05:17:00Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19435,7 +19397,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bd1f2203-1561-4677-8063-52cedfcb209c-Max-Origin.webp?v=1774373934
     Price: $37.55 USD
 - [Judy Blue Full Size High Waist Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-skinny-jeans): The High Waist Skinny Jeans are a versatile and flattering essential for your wardrobe. Featuring a high waist design, these jeans provide a comfortable and slimming fit that accentuates your curves. The skinny leg silhouette offers a sleek and modern look that pairs well with a variety of tops and shoes. Made from stretchy denim fabric, these jeans offer both style and comfort for all-day wear. Perfect for creating stylish and streamlined outfits, these high waist skinny jeans are a timeless piece that can be dressed up or down for any occasion. Elevate your style with these chic and figure-flattering jeans that are a go-to option for a sleek and on-trend look.Style #: 88687 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 76.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip inseam rise 0/24 24 30 29.5 9.5 1/25 25 31 29.5 10 3/26 26 32 29.5 10 5/27 27 33 29.5 10.5 7/28 28 34 29.5 10.5 9/29 29 35 29.5 11 11/30 30 36 29.5 11 13/31 31 37 29.5 11 15/32 32 39 29.5 11.5 14W 32 41 29.5 11.5 16W 32 41 29.5 12 18W 34 43 29.5 12 20W 36 45 29.5 12.5 22W 38 48 29.5 13 24W 40 51 29.5 13
-  Updated: 2026-03-24T19:04:27Z
+  Updated: 2026-04-14T13:45:27Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19501,7 +19463,7 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf282a0f-1772-4ce1-91be-61d0b5ae0f91-Max.webp?v=1774373943
     Price: $51.54 USD
 - [Wide Leg Jeans with Pockets](https://fitggins.com/products/wide-leg-jeans-with-pockets): Features: Buttoned, Pocketed Stretch: No stretch Material composition: 95% cotton, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length S 4 28.3 40.2 37 M 6/8 29.9 41.7 37.4 L 10/12 32.3 44.1 37.8 XL 14 34.6 46.5 38.2 2XL 16 37 48.8 38.6
-  Updated: 2026-03-24T19:04:26Z
+  Updated: 2026-04-03T05:18:55Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -19646,82 +19608,136 @@ Fitggins: estilo, comodidad y confianza para cada día.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ce66c74-37d6-436f-b55d-81ddf03170bc-Max.webp?v=1774373955
     Price: $45.20 USD
-[List Continued](https://fitggins.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgwNjY3ODg3OTQ0LCJsYXN0X3ZhbHVlIjoiOTk4MDY2Nzg4Nzk0NCJ9)
+- [Judy Blue Full Size Mid Rise Rigid Magic Release Hem Jeans](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans): These Mid Rise Rigid Magic Release Hem Jeans are a stylish and versatile choice for any occasion. The mid rise waist provides a flattering silhouette, while the rigid fabric offers a structured and classic look. The magic release hem detail adds a unique touch to these jeans, giving them a modern and on-trend edge. Perfect for dressing up or down, these jeans are sure to become a wardrobe staple. Pair them with heels for a night out or sneakers for a casual day look. Embrace comfort and style with these chic jeans.Style #: 88818 Features: Basic style Stretch: Moderate stretch Material composition: Front panel: 71% cotton, 29% V (lyocell)Back panel: 76.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip inseam Rise 0/24 XS 24 30 29.5 10.5 1/25 S 25 31 29.5 10.5 3/26 S 26 32 29.5 10.5 5/27 M 27 33 29.5 11 7/28 M 28 34 29.5 11 9/29 L 29 35 29.5 11 11/30 L 30 36 29.5 11.5 13/31 XL 31 37 29.5 11.5 15/32 XL 32 38 29.5 12 14W 1XL 31 41 30 12.1 16W 1XL 32 42 30 12.1 18W 2XL 34 45 30 12.5 20W 3XL 36 47 30 12.5 22W 4XL 38 50 30 12.5 24W 5XL 40 52 30 13
+  Updated: 2026-04-13T15:39:07Z
+  Vendor: Fitggins
+  Product Type: Jeans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/38788c8f-745b-4988-9d39-d033dfa478e9-Max.webp?v=1774373966
+  - [Medium / 0/24](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423508296)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 1/25](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423541064)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 3/26](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423573832)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 5/27](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423606600)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 7/28](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423639368)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 9/29](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423672136)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 11/30](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423704904)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 13/31](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423737672)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 15/32](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423770440)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 14W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423803208)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 16W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423835976)
+    Availability: Not Available
+    Price: $52.94 USD
+  - [Medium / 18W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423868744)
+    Availability: Not Available
+    Price: $52.94 USD
+  - [Medium / 20W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423901512)
+    Availability: Available
+    Price: $52.94 USD
+  - [Medium / 22W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423934280)
+    Availability: Not Available
+    Price: $52.94 USD
+  - [Medium / 24W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52756423967048)
+    Availability: Not Available
+    Price: $52.94 USD
+[List Continued](https://fitggins.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgwNjY3OTIwNzEyLCJsYXN0X3ZhbHVlIjoiOTk4MDY2NzkyMDcxMiJ9)
 
 ## Collections
 
 - [Women Sports Bras: Comfort & Support for Workouts](https://fitggins.com/collections/sports-bra): Discover our Women Sports Bras crafted for ultimate comfort and flexibility. Enhance your fitness regime with styles designed for every workout.
-  Updated: 2026-03-24T18:51:01Z
+  Updated: 2026-04-01T19:04:02Z
   Total Products: 9
 - [Shop Women's Active Sets for Style & Comfort](https://fitggins.com/collections/active-set): Elevate your workout with our Women Active Set. Enjoy stylish designs, top comfort, and functionality for your fitness or daily activities.
-  Updated: 2026-03-24T12:28:57Z
+  Updated: 2026-04-01T19:04:02Z
   Total Products: 22
 - [Stay Stylish & Comfy: Latest Women's Sports Leggings Trends](https://fitggins.com/collections/leggings-1): Discover the latest trends in women's sports leggings for staying stylish and comfortable during workouts. Find your perfect pair today!
-  Updated: 2026-03-24T18:36:29Z
+  Updated: 2026-04-01T19:04:03Z
   Total Products: 29
 - [Stylish Jeans Collection - Perfect Fit & Quality](https://fitggins.com/collections/jeans): Discover our Jeans Collection with perfect fit & styles for every occasion. Upgrade to high-quality, durable jeans and boost your confidence.
-  Updated: 2026-03-24T17:56:38Z
+  Updated: 2026-04-01T19:04:03Z
   Total Products: 30
 - [Discover Chic Crop Tops & Tank Tops Online](https://fitggins.com/collections/crop-tops-tank-tops): Explore trendy crop tops & tank tops online. Find your perfect style & elevate your look today!
-  Updated: 2026-03-24T17:22:07Z
+  Updated: 2026-04-01T19:04:03Z
   Total Products: 24
 - [Women Active Shorts for Every Workout](https://fitggins.com/collections/short-leggings): Discover our collection of Women Active Shorts designed for style, comfort, and support. Find your perfect fit in various colors and sizes.
-  Updated: 2026-03-24T18:46:50Z
+  Updated: 2026-04-01T19:04:04Z
   Total Products: 24
 - [Best One-Piece Swimsuits Online](https://fitggins.com/collections/swimwear-one-pieces): Discover the best one-piece swimsuits online! Shop trendy designs for all body types. Find your perfect fit today.
-  Updated: 2026-03-24T18:15:59Z
+  Updated: 2026-04-01T19:04:04Z
   Total Products: 18
 - [Stylish Bikinis & Tankinis for Beach Fun](https://fitggins.com/collections/bikinis-tankinis): Dive into our Bikinis & Tankinis collection! Find your perfect beachwear match and hit the shore in style. Feel confident and look fabulous.
-  Updated: 2026-03-24T12:46:01Z
+  Updated: 2026-04-01T19:04:04Z
   Total Products: 14
 - [Premium Denim Shorts for Summer | Shop Now](https://fitggins.com/collections/denim-shorts): Elevate your summer with our high-quality denim shorts! Perfect for any occasion, these are the wardrobe must-haves you don't want to miss.
-  Updated: 2026-03-24T17:36:00Z
+  Updated: 2026-04-01T19:04:04Z
   Total Products: 24
 - [Summer Swimwear Collection: Dive in Style](https://fitggins.com/collections/swimwear): Elevate your beach look with our Swimwear Collection. Enjoy superior comfort, fitting & durability for lasting wear. Shop now!
-  Updated: 2026-03-24T18:15:59Z
+  Updated: 2026-04-01T19:04:04Z
   Total Products: 32
 - [All Products Collection | Shop Our Full Range](https://fitggins.com/collections/all-products-1): Explore our comprehensive All Products Collection. Find your favorites across categories in one place.
-  Updated: 2026-03-24T19:00:00Z
+  Updated: 2026-04-08T08:09:03Z
   Total Products: 350
 - [Stylish Casual & Maxi Dresses Collection](https://fitggins.com/collections/casual-maxi-dresses): Elevate your style with our Casual & Maxi Dresses! Perfect for any occasion, feel confident and chic with our versatile designs.
-  Updated: 2026-03-24T18:56:24Z
+  Updated: 2026-04-01T19:04:05Z
   Total Products: 39
 - [Stylish Cardigans Collection - Premium & Cozy](https://fitggins.com/collections/cardigans): Discover our stylish cardigans for unmatched comfort & versatility. Perfect for any occasion, wrapped in premium warmth and style.
-  Updated: 2026-03-24T16:51:58Z
+  Updated: 2026-04-08T08:09:03Z
   Total Products: 29
 - [Ship from USA](https://fitggins.com/collections/ship-from-usa)
   Updated: 2026-03-24T18:48:55Z
   Total Products: 21
 - [Fitggins](https://fitggins.com/collections/fitggins)
-  Updated: 2026-03-24T18:56:24Z
+  Updated: 2026-04-08T08:09:03Z
   Total Products: 350
 - [Premium Shapewear for Every Body Type](https://fitggins.com/collections/shapewear): Boost confidence with quality shapewear! Perfect fit for all, ensuring comfort & support. Embrace your curves and feel fabulous!
-  Updated: 2026-03-24T18:01:44Z
+  Updated: 2026-04-01T19:04:05Z
   Total Products: 28
 - [Chic Blouses for Every Occasion](https://fitggins.com/collections/blouses): Elevate your style with our collection of high-quality blouses. Perfect for any occasion, feel confident and effortlessly chic.
-  Updated: 2026-03-24T13:17:36Z
+  Updated: 2026-04-01T19:04:06Z
   Total Products: 30
 - [Premium Bodysuits Collection - Elevate Your Style](https://fitggins.com/collections/bodysuits): Explore our Bodysuits for unmatched comfort & fashion. Find your perfect fit and boost your confidence with our premium pieces.
-  Updated: 2026-03-24T16:23:35Z
+  Updated: 2026-04-01T19:04:06Z
   Total Products: 30
 - [Shop Latest Denim Collection | Top Styles & Fits](https://fitggins.com/collections/denim): Explore our exclusive Denim Collection. Find your perfect style with our wide range of high-quality denim. Shop now for best deals!
   Updated: 2026-03-24T17:56:38Z
   Total Products: 54
 - [Everyday Outfits](https://fitggins.com/collections/everyday-outfits): Discover everyday outfits designed for real life. Our Everyday Outfits collection features comfortable, stylish women’s fashion that’s easy to wear from morning to night. These pieces are perfect for daily routines, casual plans, and relaxed moments without sacrificing style. From casual dresses and versatile tops to effortless rompers, this collection focuses on trendy yet practical outfits you can rely on every day. Easy to mix, easy to style, and designed for comfort. Whether you’re heading out for errands, meeting friends, or enjoying a casual day, these everyday outfits help you look put together with minimal effort.
-  Updated: 2026-03-24T19:13:24Z
+  Updated: 2026-04-01T19:04:07Z
   Total Products: 123
 - [Casual Dresses](https://fitggins.com/collections/casual-dresses): Explore our Casual Dresses collection, featuring stylish and comfortable dresses designed for everyday wear. These dresses combine effortless style with easy fits, making them perfect for casual outings, daytime plans, and relaxed occasions. Our casual dresses are designed to be versatile and flattering, offering simple silhouettes you can dress up or down depending on your day. Pair them with sneakers, sandals, or casual accessories for an effortless look. If you’re looking for women’s dresses that feel comfortable and look great without overthinking your outfit, this collection is made for you.
-  Updated: 2026-03-24T18:56:24Z
+  Updated: 2026-04-01T19:04:07Z
   Total Products: 39
 - [Active & Comfy](https://fitggins.com/collections/active-comfy): The Active & Comfy collection is all about comfort, movement, and everyday ease. This selection features women’s clothing designed for relaxed days, light activities, and moments when comfort matters most. Perfect for active lifestyles or casual wear, these pieces offer flexible fits and easy-to-wear designs that move with you. Ideal for staying comfortable at home, running errands, or enjoying laid-back days. If you love clothing that feels good, looks modern, and fits naturally into your daily routine, the Active & Comfy collection is the perfect choice.
-  Updated: 2026-03-24T19:08:50Z
+  Updated: 2026-04-01T19:04:07Z
   Total Products: 84
 - [SHOP ALL](https://fitggins.com/collections/shop-all)
-  Updated: 2026-03-24T18:56:24Z
+  Updated: 2026-04-08T08:09:03Z
   Total Products: 350
 - [Productos Destacados](https://fitggins.com/collections/productos-destacados)
-  Updated: 2026-03-24T19:46:13Z
-  Total Products: 3
+  Updated: 2026-04-01T19:04:08Z
+  Total Products: 4
+- [AVADA - Best Sellers](https://fitggins.com/collections/avada-best-sellers)
+  Updated: 2026-04-08T10:17:45Z
+  Total Products: 350
 
 ## Blogs
 
@@ -20896,6 +20912,33 @@ Fitggins: estilo, comodidad y confianza para cada día.
   - [Exploring the Benefits of High-Intensity Interval Training](https://fitggins.com/blogs/fitggins/exploring-the-benefits-of-high-intensity-interval-training): Exploring the Benefits of High-Intensity Interval Training
     Updated: 2026-03-23T19:01:19Z
     Author: Roberto Bellbe
+  - [Building Your Personal Fitness Space on a Budget](https://fitggins.com/blogs/fitggins/building-your-personal-fitness-space-on-a-budget): Building Your Personal Fitness Space on a Budget
+    Updated: 2026-03-25T19:03:45Z
+    Author: Roberto Bellbe
+  - [How to Stay Motivated During Challenging Workout Phases](https://fitggins.com/blogs/fitggins/how-to-stay-motivated-during-challenging-workout-phases): How to Stay Motivated During Challenging Workout Phases
+    Updated: 2026-03-28T19:00:52Z
+    Author: Roberto Bellbe
+  - [Discovering Lesser-Known Health Benefits of Yoga](https://fitggins.com/blogs/fitggins/discovering-lesser-known-health-benefits-of-yoga): Discovering Lesser-Known Health Benefits of Yoga
+    Updated: 2026-03-30T19:01:24Z
+    Author: Roberto Bellbe
+  - [How to Navigate Dietary Decisions for Optimal Fitness Gains](https://fitggins.com/blogs/fitggins/how-to-navigate-dietary-decisions-for-optimal-fitness-gains): How to Navigate Dietary Decisions for Optimal Fitness Gains
+    Updated: 2026-04-01T19:02:24Z
+    Author: Roberto Bellbe
+  - [Five Steps to Achieve Your Fitness Goals This Year](https://fitggins.com/blogs/fitggins/five-steps-to-achieve-your-fitness-goals-this-year): Five Steps to Achieve Your Fitness Goals This Year
+    Updated: 2026-04-04T19:00:39Z
+    Author: Roberto Bellbe
+  - [Essential Equipment You Need for Effective Home Workouts](https://fitggins.com/blogs/fitggins/essential-equipment-you-need-for-effective-home-workouts): Essential Equipment You Need for Effective Home Workouts
+    Updated: 2026-04-06T19:01:41Z
+    Author: Roberto Bellbe
+  - [Weightlifting Versus Cardio Which One Suits Your Lifestyle Best](https://fitggins.com/blogs/fitggins/weightlifting-versus-cardio-which-one-suits-your-lifestyle-best): Weightlifting Versus Cardio Which One Suits Your Lifestyle Best
+    Updated: 2026-04-08T19:02:26Z
+    Author: Roberto Bellbe
+  - [Tips for Incorporating Mindfulness into Your Fitness Routine](https://fitggins.com/blogs/fitggins/tips-for-incorporating-mindfulness-into-your-fitness-routine): Tips for Incorporating Mindfulness into Your Fitness Routine
+    Updated: 2026-04-11T19:00:52Z
+    Author: Roberto Bellbe
+  - [The Role of Sleep in Achieving Peak Physical Performance](https://fitggins.com/blogs/fitggins/the-role-of-sleep-in-achieving-peak-physical-performance): The Role of Sleep in Achieving Peak Physical Performance
+    Updated: 2026-04-13T19:01:11Z
+    Author: Roberto Bellbe
 
 ## Store Pages
 
@@ -20911,6 +20954,10 @@ Fitggins: estilo, comodidad y confianza para cada día.
   Updated: 2024-07-26T15:46:24Z
 - [About Us – Fitggins](https://fitggins.com/pages/about-us-fitggins): At Fitggins, we believe that fashion should be comfortable, modern, and easy to wear in everyday life. Our store was created with a simple idea: to...
   Updated: 2026-03-13T11:39:44Z
+- [VideoPoint.ai Wishlist Page](https://fitggins.com/pages/videopoint-wishlist)
+  Updated: 2026-03-30T13:13:27Z
+- [VideoPoint.ai Video Landing Page](https://fitggins.com/pages/videopoint-landing-page)
+  Updated: 2026-03-30T13:13:27Z
 
 ## Policies
 
