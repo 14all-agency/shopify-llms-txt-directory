@@ -6,25 +6,25 @@
 - Timezone: America/New_York
 - Created At: 2024-05-15T09:22:25Z
 - Contact Email: rahular2020@iimbg.ac.in
-- Updated At: 2026-04-06T00:00:37.879Z
+- Updated At: 2026-04-15T00:00:37.936Z
 
 ## Products
 
-- [The Minimal Snowboard](https://rahular1.myshopify.com/products/the-minimal-snowboard)
-  Updated: 2026-03-16T20:06:43Z
+- [The Minimal Snowboard](https://rahular1.myshopify.com/products/the-minimal-snowboard): Discover The Minimal Snowboard by rahular1, where sleek design meets top performance. Lightweight and durable, it offers effortless maneuverability on any
+  Updated: 2026-04-10T17:11:09Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Price: ¥886.00 JPY
-- [The Videographer Snowboard](https://rahular1.myshopify.com/products/the-videographer-snowboard)
-  Updated: 2026-03-22T00:36:14Z
+- [The Videographer Snowboard](https://rahular1.myshopify.com/products/the-videographer-snowboard): Experience the thrill of the mountains with the Videographer Snowboard by rahular1. Durable, versatile, and perfect for all snow conditions.
+  Updated: 2026-04-10T17:11:12Z
   Vendor: rahular1
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main.jpg?v=1715764969
   Price: ¥886.00 JPY
 - [Complete Snowboard](https://rahular1.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2026-03-19T18:04:18Z
+  Updated: 2026-04-10T17:11:12Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
@@ -44,36 +44,36 @@
   - [Sunset](https://rahular1.myshopify.com/products/the-complete-snowboard?variant=49670649020734)
     Availability: Available
     Price: ¥700.00 JPY
-- [The Draft Snowboard](https://rahular1.myshopify.com/products/the-draft-snowboard)
-  Updated: 2025-12-05T15:42:47Z
+- [The Draft Snowboard](https://rahular1.myshopify.com/products/the-draft-snowboard): Discover The Draft Snowboard by Snowboard Vendor, designed for all skill levels. Enjoy lightweight durability, stability, and control on any terrain.
+  Updated: 2026-04-10T17:11:12Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1715764968
   Price: ¥2,630.00 JPY
 - [Hidden Snowboard](https://rahular1.myshopify.com/products/the-hidden-snowboard): hidden snowboard winter sport snowboarding
-  Updated: 2026-03-20T15:19:13Z
+  Updated: 2026-04-10T17:11:13Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1715764969
   Price: ¥750.00 JPY
-- [The Out of Stock Snowboard](https://rahular1.myshopify.com/products/the-out-of-stock-snowboard)
-  Updated: 2026-03-20T21:32:45Z
+- [The Out of Stock Snowboard](https://rahular1.myshopify.com/products/the-out-of-stock-snowboard): Experience winter like never before with the Out of Stock Snowboard by rahular1. Lightweight, durable, and designed for effortless control on any terrain.
+  Updated: 2026-04-10T17:12:31Z
   Vendor: rahular1
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_f44a9605-cd62-464d-b095-d45cdaa0d0d7.jpg?v=1715764969
   Price: ¥886.00 JPY
-- [The Collection Snowboard: Hydrogen](https://rahular1.myshopify.com/products/the-collection-snowboard-hydrogen)
-  Updated: 2026-03-20T20:03:04Z
+- [The Collection Snowboard: Hydrogen](https://rahular1.myshopify.com/products/the-collection-snowboard-hydrogen): Discover The Collection Snowboard by Hydrogen, engineered for stability and control. Perfect for all skill levels, it enhances your winter adventures.
+  Updated: 2026-04-10T17:12:31Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1715764969
   Price: ¥600.00 JPY
-- [Gift Card](https://rahular1.myshopify.com/products/gift-card): This is a gift card for the store
-  Updated: 2026-03-20T11:52:51Z
+- [Gift Card](https://rahular1.myshopify.com/products/gift-card): Discover the Snowboard Vendor Gift Card, the ultimate gift for snowboarding enthusiasts. Let them choose from top gear and accessories for their winter adv
+  Updated: 2026-04-10T17:12:29Z
   Vendor: Snowboard Vendor
   Product Type: giftcard
   Availability: Available
@@ -90,50 +90,50 @@
   - [$100](https://rahular1.myshopify.com/products/gift-card?variant=49670649282878)
     Availability: Available
     Price: ¥100.00 JPY
-- [The Multi-location Snowboard](https://rahular1.myshopify.com/products/the-multi-location-snowboard)
-  Updated: 2026-03-20T13:21:42Z
+- [The Multi-location Snowboard](https://rahular1.myshopify.com/products/the-multi-location-snowboard): Experience unmatched versatility with the Multi-location Snowboard by rahular1. Lightweight, durable, and adaptable for all snow conditions. Perfect for ev
+  Updated: 2026-04-10T17:12:31Z
   Vendor: rahular1
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1715764969
   Price: ¥730.00 JPY
-- [The Compare at Price Snowboard](https://rahular1.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2026-03-21T11:41:20Z
+- [The Compare at Price Snowboard](https://rahular1.myshopify.com/products/the-compare-at-price-snowboard): Experience winter like never before with the Compare at Price Snowboard by rahular1. Perfect for all skill levels, it offers durability, stability, and sty
+  Updated: 2026-04-10T17:12:31Z
   Vendor: rahular1
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/snowboard_sky.png?v=1715764969
   Price: ¥786.00 JPY
-- [The Inventory Not Tracked Snowboard](https://rahular1.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2026-03-20T10:07:15Z
+- [The Inventory Not Tracked Snowboard](https://rahular1.myshopify.com/products/the-inventory-not-tracked-snowboard): Experience unmatched performance with the Inventory Not Tracked Snowboard by rahular1. Lightweight, durable, and perfect for all terrains. Elevate your rid
+  Updated: 2026-04-10T17:35:48Z
   Vendor: rahular1
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/snowboard_purple_hydrogen.png?v=1715764969
   Price: ¥950.00 JPY
-- [The Multi-managed Snowboard](https://rahular1.myshopify.com/products/the-multi-managed-snowboard)
-  Updated: 2026-03-17T18:04:37Z
+- [The Multi-managed Snowboard](https://rahular1.myshopify.com/products/the-multi-managed-snowboard): Discover the Multi-managed Snowboard, designed for performance and style. Lightweight, durable, and responsive for ultimate control on the slopes.
+  Updated: 2026-04-10T17:35:47Z
   Vendor: Multi-managed Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1715764969
   Price: ¥630.00 JPY
-- [The 3p Fulfilled Snowboard](https://rahular1.myshopify.com/products/the-3p-fulfilled-snowboard)
-  Updated: 2026-03-21T05:42:46Z
+- [The 3p Fulfilled Snowboard](https://rahular1.myshopify.com/products/the-3p-fulfilled-snowboard): Experience top-notch performance with the 3p Fulfilled Snowboard by Rahular1. Durable, flexible, and aerodynamically designed for all riders.
+  Updated: 2026-04-10T17:35:47Z
   Vendor: rahular1
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1715764969
   Price: ¥2,630.00 JPY
-- [The Collection Snowboard: Oxygen](https://rahular1.myshopify.com/products/the-collection-snowboard-oxygen)
-  Updated: 2026-03-21T00:17:05Z
+- [The Collection Snowboard: Oxygen](https://rahular1.myshopify.com/products/the-collection-snowboard-oxygen): Experience unmatched performance with The Collection Snowboard: Oxygen by Hydrogen Vendor. Lightweight, durable, and designed for ultimate control on any t
+  Updated: 2026-04-10T17:35:48Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1715764970
   Price: ¥1,025.00 JPY
-- [ Plans Ski Wax](https://rahular1.myshopify.com/products/-plans-ski-wax)
-  Updated: 2026-03-20T12:08:55Z
+- [ Plans Ski Wax](https://rahular1.myshopify.com/products/-plans-ski-wax): Elevate your skiing experience with rahular1  Plans Ski Wax. Optimize glide, control icy conditions, and protect your skis—all for $25.
+  Updated: 2026-04-10T17:35:48Z
   Vendor: rahular1
   Product Type: accessories
   Availability: Available
@@ -150,515 +150,515 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/sample-normal-wax.png?v=1715764972
     Price: ¥10.00 JPY
-- [The Collection Snowboard: Liquid](https://rahular1.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2026-03-21T18:33:51Z
+- [The Collection Snowboard: Liquid](https://rahular1.myshopify.com/products/the-collection-snowboard-liquid): Experience the thrill with The Collection Snowboard: Liquid by Hydrogen Vendor. Premium design, optimal flex, and eye-catching graphics for unmatched perfo
+  Updated: 2026-04-10T20:40:53Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1715764972
   Price: ¥750.00 JPY
-- [Prefume](https://rahular1.myshopify.com/products/prefume): Perfume Experience a long-lasting, high-quality fragrance with Prefume. Made with a unique blend of essential oils, our perfume offers a luxurious scent that will leave you feeling confident and refreshed. Elevate your daily routine with this must-have fragrance.
-  Updated: 2025-12-05T15:42:57Z
+- [Prefume](https://rahular1.myshopify.com/products/prefume): Discover Prefume by rahular1, a luxurious fragrance crafted with high-quality essential oils for a long-lasting, captivating aroma that boosts confidence.
+  Updated: 2026-04-10T14:12:48Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/61SWu-VYHpL._AC_UF1000_1000_QL80.jpg?v=1744049950
   Price: ¥200.00 JPY
-- [High End Class](https://rahular1.myshopify.com/products/high-end-class): The High End Class features a high quality watch with precise timekeeping capabilities. Crafted with expert craftsmanship and elegant design, this watch is perfect for any occasion. Stay stylish and on time with the High End Class.
-  Updated: 2025-12-05T15:42:58Z
+- [High End Class](https://rahular1.myshopify.com/products/high-end-class): Discover the High End Class by rahular1, a luxurious watch that combines precision and elegance. Perfect for any occasion, it ensures you stay punctual in
+  Updated: 2026-04-10T20:40:57Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Screenshot2025-05-19at9.42.23PM.png?v=1747822814
   Price: ¥20,000.00 JPY
-- [Glowing light](https://rahular1.myshopify.com/products/glowing-light)
-  Updated: 2025-12-05T15:42:58Z
+- [Glowing light](https://rahular1.myshopify.com/products/glowing-light): Illuminate your space with the Glowing Light by rahular1. Customizable colors and brightness make it the perfect blend of art and technology for any settin
+  Updated: 2026-04-10T20:40:58Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/1728647689807-36.webp?v=1755318830
   Price: ¥2,000.00 JPY
-- [Basic Witch](https://rahular1.myshopify.com/products/basic-witch)
-  Updated: 2026-03-16T12:24:14Z
+- [Basic Witch](https://rahular1.myshopify.com/products/basic-witch): Discover the Basic Witch by rahular1, a unique blend of modern design and mystical charm. Elevate your space with this exquisite centerpiece for $2000.
+  Updated: 2026-04-10T20:41:01Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/Web-PM-4407_3.jpg?v=1755318907
   Price: ¥2,000.00 JPY
-- [nemat-spray-inspired-by-one-perfume-unisex-eau-de-parfum-bottle](https://rahular1.myshopify.com/products/nemat-spray-inspired-by-one-perfume-unisex-eau-de-parfum-bottle)
-  Updated: 2025-12-05T15:42:59Z
+- [nemat-spray-inspired-by-one-perfume-unisex-eau-de-parfum-bottle](https://rahular1.myshopify.com/products/nemat-spray-inspired-by-one-perfume-unisex-eau-de-parfum-bottle): Discover the Nemat Spray, a unisex Eau de Parfum inspired by One perfume. Experience luxurious floral and woody notes in an elegant bottle. Perfect for all
+  Updated: 2026-04-10T21:08:19Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/nemat-spray-inspired-by-one-perfume-unisex-eau-de-parfum-bottle_1.webp?v=1755318998
   Price: ¥400.00 JPY
-- [Smart Trash Bin](https://rahular1.myshopify.com/products/smart-trash-bin): This is a motion sensor trash can. It has a fully-developed sensing technology that reduces unnecessary openings and it extends battery life. The lid stays open if you keep your hands above the infrared motion sensor, which improves user experience greatly. Lid closes after 5 seconds automatically if none movement...
-  Updated: 2026-03-19T19:59:19Z
+- [Smart Trash Bin](https://rahular1.myshopify.com/products/smart-trash-bin): Discover the rahular1 Smart Trash Bin with advanced motion sensor technology, extending battery life and enhancing user experience. Convenient and efficien
+  Updated: 2026-04-10T14:12:55Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/1_large_70484905-11f7-4d84-8570-e7572bdb9154.webp?v=1755876363
   Price: ¥100.00 JPY
-- [Lovers Bracelet Lock Set](https://rahular1.myshopify.com/products/lovers-bracelet-lock-set): Lock and Key Necklace with unique design with a lock bracelet and a square heart key necklace. Romantic matching couples jewelry symbolize that only this key will open up the heart lock. Jewelry upholds the highest standard of integrity, professionalism and service. In addition to unique designs, you can be...
-  Updated: 2025-12-05T15:43:01Z
+- [Lovers Bracelet Lock Set](https://rahular1.myshopify.com/products/lovers-bracelet-lock-set): Discover the Lovers Bracelet Lock Set by rahular1, a romantic couples jewelry piece symbolizing love. Unique design, high-quality craftsmanship, and perfec
+  Updated: 2026-04-10T14:12:55Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/5_large_54e875f4-7546-4f3f-ab65-15819f8bf72f.webp?v=1755876491
   Price: ¥50.00 JPY
-- [Braided USB Data Cable with Display](https://rahular1.myshopify.com/products/braided-usb-data-cable-with-display): Power up your devices with the Braided USB Data Cable featuring an LED Display. This 1.2-meter USB C to USB C cable supports ultra-fast PD 100W/5A charging, capable of powering a MacBook Pro 13” in about 2.5 hours. With 480Mbps data transfer speeds, it ensures efficient handling of files, photos,...
-  Updated: 2026-02-01T17:31:24Z
+- [Braided USB Data Cable with Display](https://rahular1.myshopify.com/products/braided-usb-data-cable-with-display): Experience rapid charging and data transfer with the Rahular1 Braided USB Data Cable. Fast PD 100W, 480Mbps speed, and an LED display for easy monitoring.
+  Updated: 2026-04-10T14:12:55Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/1_large_2bad3a68-ae0a-481c-96a7-926922c9bc1d.webp?v=1755876555
   Price: ¥2,000.00 JPY
-- [Butterfly Necklace](https://rahular1.myshopify.com/products/butterfly-necklace): These gold pendant necklaces for women are made of hypoallergenic material and 18k gold plated material making this a great choice for those with very sensitive skin. Never tarnish and break. The dainty butterfly pendant necklace is always the perfect gift. This is an ideal purchase for Christmas, Mothers Day,...
-  Updated: 2026-01-30T07:24:28Z
+- [Butterfly Necklace](https://rahular1.myshopify.com/products/butterfly-necklace): Discover the Rahular1 Butterfly Necklace, an elegant 18k gold plated accessory perfect for sensitive skin. Hypoallergenic, durable, and a timeless gift.
+  Updated: 2026-04-10T14:12:55Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/1_large_6ea23ce5-cb60-44b1-9b22-a4094c558390.webp?v=1755876622
   Price: ¥200.00 JPY
-- [Elegant ethnic Anarkali set(White-pink)](https://rahular1.myshopify.com/products/elegant-ethnic-anarkali-setwhite-pink): This elegant Anarkali set features a long kurta paired with palazzo pants and a delicate net dupatta, blending traditional design with contemporary comfort. Crafted in a graceful white-pink palette, it offers a refined silhouette suitable for festive occasions and formal gatherings. The breathable fabric and expert tailoring ensure ease of movement while maintaining a sophisticated look. Ideal for those seeking timeless ethnic wear with a modern touch.
-  Updated: 2026-02-01T15:45:21Z
+- [Elegant ethnic Anarkali set(White-pink)](https://rahular1.myshopify.com/products/elegant-ethnic-anarkali-setwhite-pink): Shop the Elegant Ethnic Anarkali Set from rahular1, featuring a stylish kurta, palazzo pants, and net dupatta in a chic white-pink palette for any occasion
+  Updated: 2026-04-10T14:12:56Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/08_01_2025_X-Design_6.webp?v=1755876894
   Price: ¥1,200.00 JPY
-- [Elegant Pleated kurta(Off-white)](https://rahular1.myshopify.com/products/elegant-pleated-kurtaoff-white): This off-white medium-sized pleated kurta from House of Pooja Shukla Private Limited offers a refined blend of traditional design and contemporary style. Crafted for comfort and elegance, it is an ideal choice for those seeking versatile top wear that suits various occasions. The pleated detailing adds texture and sophistication, making it a standout piece in any wardrobe.
-  Updated: 2026-01-30T07:24:30Z
+- [Elegant Pleated kurta(Off-white)](https://rahular1.myshopify.com/products/elegant-pleated-kurtaoff-white): Discover the Elegant Pleated Kurta in off-white, a blend of traditional design and modern style. Perfect for versatile occasions, priced at $1200.
+  Updated: 2026-04-10T14:13:01Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/572b6464-291c-4392-9c3c-84197d845271.webp?v=1755877017
   Price: ¥1,200.00 JPY
-- [Golden Solid Brass Eagle](https://rahular1.myshopify.com/products/golden-solid-brass-eagle): Introducing our Golden Solid Brass Eagle, a truly awe-inspiring masterpiece that embodies the majestic beauty and strength of these iconic birds. Crafted with meticulous attention to detail from solid
-  Updated: 2025-12-05T15:43:05Z
+- [Golden Solid Brass Eagle](https://rahular1.myshopify.com/products/golden-solid-brass-eagle): Elevate your decor with the Golden Solid Brass Eagle by rahular1. Meticulously crafted, this stunning centerpiece adds elegance and majestic beauty to any
+  Updated: 2026-04-10T21:08:19Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/IMG_1141.webp?v=1755877209
   Price: ¥20,000.00 JPY
-- [wooden-brown-20-nesting-tables-set-of-4](https://rahular1.myshopify.com/products/wooden-brown-20-nesting-tables-set-of-4): This set of four wooden nesting tables features a traditional design with a warm brown finish and straight legs. Crafted from durable wood, the tables offer versatile functionality and space-saving convenience as they nest neatly together. Their simple yet classic style makes them suitable for a variety of living spaces, providing practical surface area for everyday use or entertaining.
-  Updated: 2025-12-05T15:43:06Z
+- [wooden-brown-20-nesting-tables-set-of-4](https://rahular1.myshopify.com/products/wooden-brown-20-nesting-tables-set-of-4): Discover the wooden brown 20 nesting tables set of 4 by rahular1. Durable, space-saving, and stylish, perfect for any living space at $160.00.
+  Updated: 2026-04-10T14:13:01Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/wooden-brown-20-nesting-tables-set-of-4-920.webp?v=1755877375
   Price: ¥16,000.00 JPY
-- [Green Snowboard](https://rahular1.myshopify.com/products/green-snowboard)
-  Updated: 2025-12-05T15:43:07Z
+- [Green Snowboard](https://rahular1.myshopify.com/products/green-snowboard): Discover the Green Snowboard by rahular1, blending style and performance with a durable design for stability and control on the slopes. Only $100.
+  Updated: 2026-04-10T21:08:17Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Price: ¥100.00 JPY
-- [2-in-1 Fragrance & Ski Wax Bundle](https://rahular1.myshopify.com/products/2-in-1-fragrance-ski-wax-bundle): Enhance your skiing experience with our exclusive bundle featuring  Plans Ski Wax for optimal glide and Nemat Spray inspired by One Perfume Unisex Eau de Parfum Bottle for a refreshingly elegant scent. Dominate the slopes with smooth and effortless turns while leaving a lasting impression with the luxurious fragrance of Nemat Spray. This dynamic duo is a must-have for any skier looking to take their performance and style to the next level. Elevate your ski game and stand out on the mountain with this perfect pairing.
-  Updated: 2026-03-16T20:03:38Z
+- [2-in-1 Fragrance & Ski Wax Bundle](https://rahular1.myshopify.com/products/2-in-1-fragrance-ski-wax-bundle): Elevate your skiing with the Fast Bundle 2-in-1 Fragrance & Ski Wax Bundle. Enjoy optimal glide and a luxurious scent for performance and style on the slop
+  Updated: 2026-04-10T14:13:31Z
   Vendor: Fast Bundle
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0873/3019/3726/files/predict-f8169f58-5ca4-413a-8560-e2ff1675c7c6-1.webp?v=1757163487
-  Price: ¥382.00 JPY
-- [[Bundle] Build Your Own Coffee Set](https://rahular1.myshopify.com/products/bundle-build-your-own-coffee-set)
-  Updated: 2025-12-05T15:43:08Z
+  Price: ¥383.00 JPY
+- [[Bundle] Build Your Own Coffee Set](https://rahular1.myshopify.com/products/bundle-build-your-own-coffee-set): Create your perfect brew with the Build Your Own Coffee Set from rahular1. Customizable, premium quality, and built to last for coffee lovers.
+  Updated: 2026-04-10T21:08:18Z
   Vendor: rahular1
   Product Type: 
   Availability: Available
   Price: ¥2,000.00 JPY
-- [Doll](https://rahular1.myshopify.com/products/doll-1): High-quality doll for everyday use.
-  Updated: 2026-03-16T14:58:14Z
+- [Doll](https://rahular1.myshopify.com/products/doll-1): Discover the exquisite AI Toys Doll, crafted for imaginative play with detailed clothing and a soft, safe body. Perfect for gifts and endless fun!
+  Updated: 2026-04-10T21:08:28Z
   Vendor: AI Toys
   Product Type: Toys
   Availability: Available
   Price: ¥963.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-4): High-quality cricket bat for everyday use.
-  Updated: 2026-03-16T19:58:19Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-4): Elevate your game with the AI Sports High-Quality Cricket Bat, crafted from premium willow for strength and balance. Perfect for amateurs and pros alike.
+  Updated: 2026-04-10T21:08:28Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥914.00 JPY
-- [Backpack](https://rahular1.myshopify.com/products/backpack-8): High-quality backpack for everyday use.
-  Updated: 2026-03-16T12:30:47Z
+- [Backpack](https://rahular1.myshopify.com/products/backpack-8): Shop the AI Accessories Backpack, a stylish and functional companion for daily use. Durable, spacious, and ergonomic, it's perfect for students and profess
+  Updated: 2026-04-10T21:08:37Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥941.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-9): High-quality cricket bat for everyday use.
-  Updated: 2026-03-17T03:01:08Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-9): Elevate your game with the AI Sports cricket bat, crafted from premium-grade willow for unmatched power and control. Lightweight with a superior grip, perf
+  Updated: 2026-04-10T21:08:36Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥63.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-20): High-quality dumbbell set for everyday use.
-  Updated: 2026-03-16T18:03:56Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-20): Elevate your fitness routine with the AI Sports Dumbbell Set. High-quality, versatile, and perfect for everyday workouts.  in your strength today!
+  Updated: 2026-04-11T02:28:48Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥704.00 JPY
-- [Camping Stove](https://rahular1.myshopify.com/products/camping-stove-27): High-quality camping stove for everyday use.
-  Updated: 2026-03-16T14:26:06Z
+- [Camping Stove](https://rahular1.myshopify.com/products/camping-stove-27): Discover the AI Outdoor Camping Stove, your high-quality solution for outdoor cooking. Durable and efficient, perfect for everyday adventures.
+  Updated: 2026-04-11T02:29:01Z
   Vendor: AI Outdoor
   Product Type: Outdoor
   Availability: Available
   Price: ¥572.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-28): High-quality cricket bat for everyday use.
-  Updated: 2026-03-16T17:31:45Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-28): Discover the AI Sports Cricket Bat, a high-quality option for everyday use. Elevate your game with durability and performance for only $852.
+  Updated: 2026-04-11T02:29:16Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥852.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-32): High-quality cricket bat for everyday use.
-  Updated: 2026-03-16T15:06:44Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-32): Discover the AI Sports Cricket Bat, a high-quality option for everyday play. Durable and reliable, perfect for enthusiasts at just $36.
+  Updated: 2026-04-11T02:29:16Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥36.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-33): High-quality dumbbell set for everyday use.
-  Updated: 2026-03-17T00:51:29Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-33): Elevate your fitness routine with the AI Sports Dumbbell Set. High-quality, versatile, and perfect for daily workouts.  in your health today.
+  Updated: 2026-04-11T02:29:27Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥618.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-35): High-quality dumbbell set for everyday use.
-  Updated: 2026-03-17T04:03:09Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-35): Discover the AI Sports Dumbbell Set, a high-quality solution for everyday workouts. Elevate your fitness routine with durable and versatile weights.
+  Updated: 2026-04-11T02:29:28Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥321.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-37): High-quality dumbbell set for everyday use.
-  Updated: 2026-03-16T17:17:06Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-37): Elevate your fitness routine with the AI Sports Dumbbell Set. High-quality design perfect for everyday use, ensuring durability and performance.
+  Updated: 2026-04-11T02:29:28Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥607.00 JPY
-- [Boots](https://rahular1.myshopify.com/products/boots-43): High-quality boots for everyday use.
-  Updated: 2026-03-16T18:20:09Z
+- [Boots](https://rahular1.myshopify.com/products/boots-43): Discover AI Footwear's high-quality boots designed for everyday use. Durable, stylish, and built for comfort, elevate your footwear collection today.
+  Updated: 2026-04-11T02:29:54Z
   Vendor: AI Footwear
   Product Type: Footwear
   Availability: Available
   Price: ¥941.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-50): High-quality cricket bat for everyday use.
-  Updated: 2026-03-16T20:02:20Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-50): Discover the AI Sports Cricket Bat, a high-quality choice for everyday play. Elevate your game with precision and durability for just $452.
+  Updated: 2026-04-11T02:30:07Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥452.00 JPY
-- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-59): High-quality coffee mug for everyday use.
-  Updated: 2026-03-17T02:13:07Z
+- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-59): Discover the AI Home Coffee Mug, a high-quality companion for your daily brew. Durable, stylish, and perfect for any coffee lover. Elevate your mornings to
+  Updated: 2026-04-11T02:30:29Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥247.00 JPY
-- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-60): High-quality coffee mug for everyday use.
-  Updated: 2026-03-16T14:26:54Z
+- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-60): Discover the AI Home Coffee Mug, a high-quality essential for everyday use. Elevate your coffee experience with style and durability. Perfect for any kitch
+  Updated: 2026-04-11T02:30:30Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥227.00 JPY
-- [Face Cream](https://rahular1.myshopify.com/products/face-cream-63): High-quality face cream for everyday use.
-  Updated: 2026-03-16T22:18:04Z
+- [Face Cream](https://rahular1.myshopify.com/products/face-cream-63): Experience radiant skin with AI Beauty Face Cream, a high-quality formula perfect for everyday use. Nourish and hydrate for just $24.
+  Updated: 2026-04-11T02:30:42Z
   Vendor: AI Beauty
   Product Type: Beauty
   Availability: Available
   Price: ¥24.00 JPY
-- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-66): High-quality frying pan for everyday use.
-  Updated: 2026-03-16T14:28:17Z
+- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-66): Discover the AI Kitchen Frying Pan, a high-quality essential for everyday cooking. Durable, versatile, and perfect for all your culinary needs.
+  Updated: 2026-04-11T02:30:43Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥888.00 JPY
-- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-70): High-quality frying pan for everyday use.
-  Updated: 2026-03-16T17:16:11Z
+- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-70): Discover the AI Kitchen Frying Pan, a high-quality essential for everyday cooking. Durable, versatile, and affordably priced at $25. Upgrade your kitchen t
+  Updated: 2026-04-11T02:30:59Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥25.00 JPY
-- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-76): High-quality frying pan for everyday use.
-  Updated: 2026-03-17T01:39:49Z
+- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-76): Discover the AI Kitchen Frying Pan, a high-quality essential for everyday cooking. Durable, versatile, and perfect for all your culinary needs.
+  Updated: 2026-04-11T02:31:14Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥408.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-80): High-quality cricket bat for everyday use.
-  Updated: 2026-03-17T02:31:07Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-80): Discover the high-quality AI Sports Cricket Bat, designed for everyday use. Elevate your game with unmatched performance and durability for $661.
+  Updated: 2026-04-11T02:31:30Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥661.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-84): High-quality dumbbell set for everyday use.
-  Updated: 2026-03-17T03:30:05Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-84): Elevate your workout with the AI Sports Dumbbell Set. Durable, high-quality design perfect for daily use. Get fit and stay strong for only $186.
+  Updated: 2026-04-11T02:31:45Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥186.00 JPY
-- [Cap](https://rahular1.myshopify.com/products/cap-92): High-quality cap for everyday use.
-  Updated: 2026-03-16T15:08:19Z
+- [Cap](https://rahular1.myshopify.com/products/cap-92): Discover the AI Accessories Cap, a high-quality everyday essential that combines style and durability. Elevate your look for just $693.
+  Updated: 2026-04-11T02:32:01Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥693.00 JPY
-- [Football](https://rahular1.myshopify.com/products/football-96): High-quality football for everyday use.
-  Updated: 2026-03-17T01:12:32Z
+- [Football](https://rahular1.myshopify.com/products/football-96): Experience the game like never before with the AI Sports high-quality football. Perfect for everyday use, it offers durability and exceptional performance.
+  Updated: 2026-04-11T02:32:14Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥276.00 JPY
-- [Camping Stove](https://rahular1.myshopify.com/products/camping-stove-102): High-quality camping stove for everyday use.
-  Updated: 2026-03-17T04:07:49Z
+- [Camping Stove](https://rahular1.myshopify.com/products/camping-stove-102): Discover the AI Outdoor Camping Stove, a premium choice for everyday outdoor cooking. Durable, portable, and perfect for all your adventures at $674.
+  Updated: 2026-04-11T02:32:28Z
   Vendor: AI Outdoor
   Product Type: Outdoor
   Availability: Available
   Price: ¥674.00 JPY
-- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-106): High-quality frying pan for everyday use.
-  Updated: 2025-11-23T15:29:55Z
+- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-106): Discover the AI Kitchen Frying Pan, a high-quality essential for everyday cooking. Durable, efficient, and designed for perfect results every time.
+  Updated: 2026-04-11T02:32:39Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥437.00 JPY
-- [Football](https://rahular1.myshopify.com/products/football-111): High-quality football for everyday use.
-  Updated: 2025-11-23T15:29:51Z
+- [Football](https://rahular1.myshopify.com/products/football-111): Discover the AI Sports Football, a high-quality ball designed for everyday use. Elevate your game with durability and performance at $977.
+  Updated: 2026-04-11T02:32:53Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥977.00 JPY
-- [Football](https://rahular1.myshopify.com/products/football-115): High-quality football for everyday use.
-  Updated: 2025-11-23T15:29:57Z
+- [Football](https://rahular1.myshopify.com/products/football-115): AI Sports Football offers high-quality performance for everyday use at an affordable price of $19. Elevate your game with durable design and superior grip.
+  Updated: 2026-04-11T02:33:04Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥19.00 JPY
-- [Backpack](https://rahular1.myshopify.com/products/backpack-117): High-quality backpack for everyday use.
-  Updated: 2026-03-08T09:56:45Z
+- [Backpack](https://rahular1.myshopify.com/products/backpack-117): Discover the AI Accessories Backpack, a high-quality companion for everyday use. Stylish, durable, and perfect for all your essentials at $988.
+  Updated: 2026-04-11T02:33:04Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥988.00 JPY
-- [Backpack](https://rahular1.myshopify.com/products/backpack-121): High-quality backpack for everyday use.
-  Updated: 2025-11-23T15:27:26Z
+- [Backpack](https://rahular1.myshopify.com/products/backpack-121): Discover the AI Accessories Backpack, a high-quality, stylish companion for everyday use. Perfect for work or play, elevate your daily routine today.
+  Updated: 2026-04-11T02:33:17Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥278.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-122): High-quality dumbbell set for everyday use.
-  Updated: 2025-11-23T15:29:57Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-122): Upgrade your workout with the AI Sports Dumbbell Set. High-quality, versatile, and perfect for everyday use. Elevate your fitness routine today!
+  Updated: 2026-04-11T02:33:17Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥452.00 JPY
-- [Cap](https://rahular1.myshopify.com/products/cap-125): High-quality cap for everyday use.
-  Updated: 2025-11-23T15:27:26Z
+- [Cap](https://rahular1.myshopify.com/products/cap-125): Discover the AI Accessories Cap, a high-quality accessory perfect for everyday wear. Elevate your style with unmatched comfort and durability.
+  Updated: 2026-04-11T02:33:31Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥535.00 JPY
-- [Doll](https://rahular1.myshopify.com/products/doll-135): High-quality doll for everyday use.
-  Updated: 2025-11-23T15:29:26Z
+- [Doll](https://rahular1.myshopify.com/products/doll-135): Discover the AI Toys Doll, a high-quality companion perfect for everyday play. Durable and charming, it's the ideal gift for any child. Only $49.
+  Updated: 2026-04-11T02:33:50Z
   Vendor: AI Toys
   Product Type: Toys
   Availability: Available
   Price: ¥49.00 JPY
-- [Boots](https://rahular1.myshopify.com/products/boots-136): High-quality boots for everyday use.
-  Updated: 2025-11-23T15:27:26Z
+- [Boots](https://rahular1.myshopify.com/products/boots-136): Discover AI Footwear's high-quality boots, designed for everyday comfort and style. Elevate your wardrobe with these durable and fashionable essentials.
+  Updated: 2026-04-11T02:33:50Z
   Vendor: AI Footwear
   Product Type: Footwear
   Availability: Available
   Price: ¥327.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-138): High-quality cricket bat for everyday use.
-  Updated: 2025-11-23T15:29:21Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-138): Discover the AI Sports Cricket Bat, a high-quality choice for everyday play. Elevate your game with superior performance and durable design for $522.
+  Updated: 2026-04-11T02:34:03Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥522.00 JPY
-- [Chopping Board](https://rahular1.myshopify.com/products/chopping-board-140): High-quality chopping board for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Chopping Board](https://rahular1.myshopify.com/products/chopping-board-140): Discover the AI Kitchen Chopping Board, a high-quality essential for everyday use. Elevate your cooking experience with durability and style.
+  Updated: 2026-04-11T02:34:03Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥975.00 JPY
-- [Cap](https://rahular1.myshopify.com/products/cap-149): High-quality cap for everyday use.
-  Updated: 2025-11-23T15:27:27Z
+- [Cap](https://rahular1.myshopify.com/products/cap-149): Shop the AI Accessories Cap for everyday style and comfort. Made from high-quality materials, this cap elevates your wardrobe effortlessly.
+  Updated: 2026-04-11T02:34:38Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥328.00 JPY
-- [Cap](https://rahular1.myshopify.com/products/cap-150): High-quality cap for everyday use.
-  Updated: 2025-11-23T15:27:27Z
+- [Cap](https://rahular1.myshopify.com/products/cap-150): Discover the AI Accessories Cap, crafted for everyday comfort and style. Elevate your look with this premium quality accessory. Perfect for any occasion.
+  Updated: 2026-04-11T02:34:36Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥969.00 JPY
-- [Backpack](https://rahular1.myshopify.com/products/backpack-151): High-quality backpack for everyday use.
-  Updated: 2025-11-23T15:27:27Z
+- [Backpack](https://rahular1.myshopify.com/products/backpack-151): Discover AI Accessories' high-quality backpack for everyday use at just $8. Perfect blend of style, durability, and affordability for your daily needs.
+  Updated: 2026-04-11T02:34:38Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥8.00 JPY
-- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-154): High-quality coffee mug for everyday use.
-  Updated: 2025-11-23T15:29:27Z
+- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-154): Discover the AI Home Coffee Mug, a premium quality mug designed for everyday use. Enjoy your favorite beverages in style and comfort.
+  Updated: 2026-04-11T02:34:49Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥158.00 JPY
-- [Backpack](https://rahular1.myshopify.com/products/backpack-156): High-quality backpack for everyday use.
-  Updated: 2025-11-23T15:27:27Z
+- [Backpack](https://rahular1.myshopify.com/products/backpack-156): Discover the AI Accessories Backpack, a high-quality companion for everyday use. Durable, stylish, and built for comfort, elevate your daily adventures tod
+  Updated: 2026-04-11T02:34:50Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥989.00 JPY
-- [Chopping Board](https://rahular1.myshopify.com/products/chopping-board-157): High-quality chopping board for everyday use.
-  Updated: 2025-11-23T15:29:21Z
+- [Chopping Board](https://rahular1.myshopify.com/products/chopping-board-157): Discover the AI Kitchen Chopping Board, a high-quality essential for everyday use, designed for durability and efficiency in your kitchen.
+  Updated: 2026-04-11T02:34:50Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥743.00 JPY
-- [Face Cream](https://rahular1.myshopify.com/products/face-cream-162): High-quality face cream for everyday use.
-  Updated: 2025-11-23T15:30:00Z
+- [Face Cream](https://rahular1.myshopify.com/products/face-cream-162): Experience luxurious hydration with AI Beauty Face Cream. Perfect for daily use, this high-quality formula nourishes and rejuvenates your skin.
+  Updated: 2026-04-11T02:34:59Z
   Vendor: AI Beauty
   Product Type: Beauty
   Availability: Available
   Price: ¥902.00 JPY
-- [Backpack](https://rahular1.myshopify.com/products/backpack-163): High-quality backpack for everyday use.
-  Updated: 2025-11-23T15:27:25Z
+- [Backpack](https://rahular1.myshopify.com/products/backpack-163): Discover the AI Accessories Backpack, a high-quality companion for everyday use. Stylish, durable, and functional—perfect for all your adventures.
+  Updated: 2026-04-11T02:35:10Z
   Vendor: AI Accessories
   Product Type: Accessories
   Availability: Available
   Price: ¥701.00 JPY
-- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-164): High-quality frying pan for everyday use.
-  Updated: 2025-11-23T15:29:54Z
+- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-164): Discover the AI Kitchen Frying Pan, a high-quality essential for everyday cooking. Durable, efficient, and designed for superior performance at $393.
+  Updated: 2026-04-11T02:35:11Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥393.00 JPY
-- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-166): High-quality frying pan for everyday use.
-  Updated: 2025-11-23T15:29:52Z
+- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-166): Discover the AI Kitchen Frying Pan, a high-quality essential for everyday cooking. Durable, versatile, and perfect for all your culinary creations.
+  Updated: 2026-04-11T02:35:11Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥493.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-167): High-quality cricket bat for everyday use.
-  Updated: 2025-11-23T15:29:26Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-167): Discover the AI Sports Cricket Bat, crafted for everyday use with exceptional quality and performance. Elevate your game today for just $477.
+  Updated: 2026-04-11T02:35:12Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥477.00 JPY
-- [Face Cream](https://rahular1.myshopify.com/products/face-cream-168): High-quality face cream for everyday use.
-  Updated: 2025-11-23T15:29:52Z
+- [Face Cream](https://rahular1.myshopify.com/products/face-cream-168): Discover the luxurious AI Beauty Face Cream, a high-quality formula perfect for everyday use. Elevate your skincare routine with this premium product.
+  Updated: 2026-04-11T02:35:24Z
   Vendor: AI Beauty
   Product Type: Beauty
   Availability: Available
   Price: ¥446.00 JPY
-- [Face Cream](https://rahular1.myshopify.com/products/face-cream-169): High-quality face cream for everyday use.
-  Updated: 2025-11-23T15:29:53Z
+- [Face Cream](https://rahular1.myshopify.com/products/face-cream-169): Discover AI Beauty's premium face cream, designed for everyday hydration and rejuvenation. Experience luxury skincare that transforms your complexion.
+  Updated: 2026-04-11T02:35:24Z
   Vendor: AI Beauty
   Product Type: Beauty
   Availability: Available
   Price: ¥925.00 JPY
-- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-170): High-quality cushion cover for everyday use.
-  Updated: 2025-11-23T15:29:21Z
+- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-170): Discover AI Home's high-quality cushion cover, perfect for everyday use. Elevate your home decor with style and comfort for just $101.
+  Updated: 2026-04-11T02:35:24Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥101.00 JPY
-- [Camping Stove](https://rahular1.myshopify.com/products/camping-stove-172): High-quality camping stove for everyday use.
-  Updated: 2025-11-23T15:27:26Z
+- [Camping Stove](https://rahular1.myshopify.com/products/camping-stove-172): Discover the AI Outdoor Camping Stove, a high-quality and versatile solution for all your outdoor cooking needs. Perfect for everyday adventures at just $1
+  Updated: 2026-04-11T02:35:25Z
   Vendor: AI Outdoor
   Product Type: Outdoor
   Availability: Available
   Price: ¥148.00 JPY
-- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-174): High-quality coffee mug for everyday use.
-  Updated: 2025-11-23T15:29:26Z
+- [Coffee Mug](https://rahular1.myshopify.com/products/coffee-mug-174): Discover the AI Home Coffee Mug, a high-quality essential for everyday use. Elevate your coffee experience with style and durability for just $71.
+  Updated: 2026-04-11T02:35:35Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥71.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-178): High-quality dumbbell set for everyday use.
-  Updated: 2025-11-23T15:29:54Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-178): Elevate your workouts with the AI Sports Dumbbell Set, a high-quality solution for everyday fitness. Durable and versatile, perfect for all levels.
+  Updated: 2026-04-11T02:35:48Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥914.00 JPY
-- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-180): High-quality cushion cover for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-180): Discover AI Home's premium cushion cover, perfect for everyday use. Elevate your home decor with style and durability for just $683.
+  Updated: 2026-04-11T02:35:47Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥683.00 JPY
-- [Face Cream](https://rahular1.myshopify.com/products/face-cream-181): High-quality face cream for everyday use.
-  Updated: 2025-11-23T15:29:53Z
+- [Face Cream](https://rahular1.myshopify.com/products/face-cream-181): Discover AI Beauty Face Cream, a high-quality moisturizer perfect for daily use. Achieve radiant skin for just $30. Shop now for a glowing complexion!
+  Updated: 2026-04-11T02:35:47Z
   Vendor: AI Beauty
   Product Type: Beauty
   Availability: Available
   Price: ¥30.00 JPY
-- [Face Cream](https://rahular1.myshopify.com/products/face-cream-182): High-quality face cream for everyday use.
-  Updated: 2025-11-23T15:29:50Z
+- [Face Cream](https://rahular1.myshopify.com/products/face-cream-182): Discover AI Beauty Face Cream, a luxurious daily moisturizer that hydrates and rejuvenates skin for a radiant glow. Elevate your skincare routine today.
+  Updated: 2026-04-11T02:35:48Z
   Vendor: AI Beauty
   Product Type: Beauty
   Availability: Available
   Price: ¥653.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-187): High-quality cricket bat for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-187): Discover the AI Sports Cricket Bat, crafted for durability and performance. Perfect for everyday use, elevate your game with this high-quality bat at $474.
+  Updated: 2026-04-11T02:36:01Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥474.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-188): High-quality dumbbell set for everyday use.
-  Updated: 2025-11-23T15:29:54Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-188): Enhance your workouts with the AI Sports Dumbbell Set. Durable and versatile, perfect for everyday fitness enthusiasts. Elevate your strength training toda
+  Updated: 2026-04-11T02:36:10Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥972.00 JPY
-- [Boots](https://rahular1.myshopify.com/products/boots-190): High-quality boots for everyday use.
-  Updated: 2025-11-23T15:27:27Z
+- [Boots](https://rahular1.myshopify.com/products/boots-190): Discover AI Footwear's high-quality boots, perfect for everyday use. Stylish, durable, and comfortable—your ideal footwear choice for any occasion.
+  Updated: 2026-04-11T02:36:10Z
   Vendor: AI Footwear
   Product Type: Footwear
   Availability: Available
   Price: ¥933.00 JPY
-- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-192): High-quality dumbbell set for everyday use.
-  Updated: 2025-11-23T15:29:54Z
+- [Dumbbell Set](https://rahular1.myshopify.com/products/dumbbell-set-192): Elevate your workouts with the AI Sports Dumbbell Set. High-quality, durable, and perfect for everyday use, all at an affordable price of $100.
+  Updated: 2026-04-11T02:36:11Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥100.00 JPY
-- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-194): High-quality cushion cover for everyday use.
-  Updated: 2025-11-23T15:29:26Z
+- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-194): Transform your space with the AI Home Cushion Cover. Crafted for everyday use, it combines quality and style for any room at just $404.
+  Updated: 2026-04-11T02:36:25Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥404.00 JPY
-- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-195): High-quality cushion cover for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Cushion Cover](https://rahular1.myshopify.com/products/cushion-cover-195): Discover the AI Home Cushion Cover, crafted for everyday elegance and durability. Elevate your living space with this premium quality accessory.
+  Updated: 2026-04-11T02:36:25Z
   Vendor: AI Home
   Product Type: Home
   Availability: Available
   Price: ¥141.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-197): High-quality cricket bat for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-197): Discover the AI Sports Cricket Bat, crafted for durability and performance. Perfect for everyday use, elevate your game with this premium bat at $349.
+  Updated: 2026-04-11T02:36:26Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥349.00 JPY
-- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-198): High-quality cricket bat for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Cricket Bat](https://rahular1.myshopify.com/products/cricket-bat-198): Elevate your game with the AI Sports Cricket Bat, a high-quality choice for everyday use. Discover unmatched performance and durability at $573.
+  Updated: 2026-04-11T02:36:40Z
   Vendor: AI Sports
   Product Type: Sports
   Availability: Available
   Price: ¥573.00 JPY
-- [Doll](https://rahular1.myshopify.com/products/doll-199): High-quality doll for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Doll](https://rahular1.myshopify.com/products/doll-199): Discover the AI Toys Doll, a high-quality companion designed for everyday play. Perfect for imaginative adventures, it's a must-have for any toy collection
+  Updated: 2026-04-11T02:36:43Z
   Vendor: AI Toys
   Product Type: Toys
   Availability: Available
   Price: ¥609.00 JPY
-- [Chopping Board](https://rahular1.myshopify.com/products/chopping-board-203): High-quality chopping board for everyday use.
-  Updated: 2025-11-23T15:29:22Z
+- [Chopping Board](https://rahular1.myshopify.com/products/chopping-board-203): Discover the AI Kitchen Chopping Board, a high-quality essential for everyday cooking. Durable and stylish, elevate your kitchen experience for just $73.
+  Updated: 2026-04-11T02:36:56Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
   Price: ¥73.00 JPY
-- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-211): High-quality frying pan for everyday use.
-  Updated: 2025-11-23T15:29:53Z
+- [Frying Pan](https://rahular1.myshopify.com/products/frying-pan-211): Discover the AI Kitchen Frying Pan, a high-quality essential for everyday cooking. Durable, versatile, and perfect for all your culinary needs.
+  Updated: 2026-04-11T02:37:06Z
   Vendor: AI Kitchen
   Product Type: Kitchen
   Availability: Available
@@ -671,11 +671,45 @@
   Updated: 2025-11-24T12:18:04Z
   Total Products: 1
 - [Automated Collection](https://rahular1.myshopify.com/collections/automated-collection)
-  Updated: 2026-01-28T12:19:18Z
+  Updated: 2026-04-10T05:35:49Z
   Total Products: 322
 - [Hydrogen](https://rahular1.myshopify.com/collections/hydrogen)
   Updated: 2025-11-26T12:19:15Z
   Total Products: 3
+
+## Blogs
+
+- [News](https://rahular1.myshopify.com/blogs/news)
+  - [How to Choose the Right Ski Length](https://rahular1.myshopify.com/blogs/news/how-to-choose-the-right-ski-length)
+    Updated: 2026-04-12T12:25:08Z
+    Author: Rahula Raj
+  - [Beginner vs Intermediate Skis: What's the Difference](https://rahular1.myshopify.com/blogs/news/beginner-vs-intermediate-skis-whats-the-difference)
+    Updated: 2026-04-12T12:27:21Z
+    Author: Rahula Raj
+  - [How to Wax Your Skis at Home](https://rahular1.myshopify.com/blogs/news/how-to-wax-your-skis-at-home)
+    Updated: 2026-04-12T12:30:55Z
+    Author: Rahula Raj
+  - [Best Ski Destinations for Families](https://rahular1.myshopify.com/blogs/news/best-ski-destinations-for-families)
+    Updated: 2026-04-12T12:32:14Z
+    Author: Rahula Raj
+  - [Understanding Ski Rocker vs Camber Profiles](https://rahular1.myshopify.com/blogs/news/understanding-ski-rocker-vs-camber-profiles)
+    Updated: 2026-04-12T12:35:43Z
+    Author: Rahula Raj
+  - [What to Wear Skiing: A Layering Guide](https://rahular1.myshopify.com/blogs/news/what-to-wear-skiing-a-layering-guide)
+    Updated: 2026-04-12T12:38:37Z
+    Author: Rahula Raj
+  - [How to Store Skis in the Off-Season](https://rahular1.myshopify.com/blogs/news/how-to-store-skis-in-the-off-season)
+    Updated: 2026-04-12T12:40:49Z
+    Author: Rahula Raj
+  - [Powder Skis vs All-Mountain Skis](https://rahular1.myshopify.com/blogs/news/powder-skis-vs-all-mountain-skis)
+    Updated: 2026-04-12T12:41:59Z
+    Author: Rahula Raj
+  - [How to Tune Your Ski Edges](https://rahular1.myshopify.com/blogs/news/how-to-tune-your-ski-edges)
+    Updated: 2026-04-12T12:44:36Z
+    Author: Rahula Raj
+  - [Ski Boot Fitting: Why It Matters More Than Your Skis](https://rahular1.myshopify.com/blogs/news/ski-boot-fitting-why-it-matters-more-than-your-skis)
+    Updated: 2026-04-12T12:49:13Z
+    Author: Rahula Raj
 
 ## Store Pages
 
@@ -683,6 +717,17 @@
   Updated: 2024-05-15T09:22:26Z
 - [Mix and Match](https://rahular1.myshopify.com/pages/collection-bundle)
   Updated: 2025-09-06T10:46:20Z
+
+## Policies
+
+- [Privacy Policy](https://rahular1.myshopify.com/policies/privacy-policy)
+  Updated: 2026-04-12T09:04:15-04:00
+- [Shipping Policy](https://rahular1.myshopify.com/policies/shipping-policy)
+  Updated: 2026-04-12T09:05:37-04:00
+- [Refund Policy](https://rahular1.myshopify.com/policies/refund-policy)
+  Updated: 2026-04-12T09:04:09-04:00
+- [Terms of Service](https://rahular1.myshopify.com/policies/terms-of-service)
+  Updated: 2026-04-12T09:04:24-04:00
 
 ## Optional
 
