@@ -237,7 +237,7 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-12-22T00:00:39.276Z
+- Updated At: 2026-04-16T00:00:24.090Z
 
 wir lieben tee
 
@@ -298,6 +298,12 @@ wir lieben tee
   - [🍂 5 einfache Tipps, um dich sanft auf den Herbst einzustimmen](https://bru.shop/blogs/bru-blog/5-einfache-tipps-um-dich-sanft-auf-den-herbst-einzustimmen)
     Updated: 2025-10-17T10:19:24Z
     Author: Sandra Baillergeau
+  - [Tee, der einfach besser schmeckt](https://bru.shop/blogs/bru-blog/tee-der-einfach-besser-schmeckt)
+    Updated: 2026-03-16T08:15:35Z
+    Author: Jil Marugg
+  - [Dein neues Teeritual beginnt hier](https://bru.shop/blogs/bru-blog/dein-neues-teeritual-beginnt-hier)
+    Updated: 2026-03-16T08:09:25Z
+    Author: Jil Marugg
 - [BRU Maker One: Information und Bedienung](https://bru.shop/blogs/bru-maker-one-information-und-bedienung)
   - [Einrichtung des Geräts - BRU](https://bru.shop/blogs/bru-maker-one-information-und-bedienung/einrichtung-des-gerats): Einrichtung des Geräts - BRU
     Updated: 2023-10-03T15:48:10Z
@@ -362,7 +368,16 @@ wir lieben tee
     Updated: 2025-06-20T08:31:48Z
     Author: Jasmin Yang
   - [Süsse Rose Pfirsich Wolken Tee](https://bru.shop/blogs/bru-rezepte/susse-rose-pfirsich-wolken-tee)
-    Updated: 2025-10-10T14:22:22Z
+    Updated: 2026-03-16T08:30:04Z
+    Author: Jil Marugg
+  - [BRU Milkshake](https://bru.shop/blogs/bru-rezepte/bru-milchshake)
+    Updated: 2026-03-16T08:26:47Z
+    Author: Jil Marugg
+  - [Rosa Teetraum](https://bru.shop/blogs/bru-rezepte/rosa-teetraum)
+    Updated: 2026-03-16T08:39:04Z
+    Author: Jil Marugg
+  - [Apfel-Zimt Honig Tee Drink mit "Weißer Kick"](https://bru.shop/blogs/bru-rezepte/apfel-zimt-honig-tee-drink-mit-weisser-kick)
+    Updated: 2026-03-16T08:28:23Z
     Author: Jil Marugg
 
 ## Optional
