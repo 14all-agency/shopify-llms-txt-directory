@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-04-09T00:00:51.475Z
+- Updated At: 2026-04-16T04:00:30.378Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -176,7 +176,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ChristmasGiftPlanningList-HolidayOrganizer-PrintablePlanning.jpg?v=1687885561
   Price: $5.95 USD
 - [Nanny Log - Daily Infant Care Sheet - Blue and Green - Printable](https://printableplanning.com/products/nanny-log-daily-infant-care-sheet-printable): A printable Nanny Log - Daily Infant Care Sheet - Blue and Green page for keeping track of the daily care of an infant while the parents are away. This caregiver's tracking sheet allows you to log a lot of information while caring for a baby. This printable page tracks diaper changes, feedings, nap times, mood, and tummy time. It also logs activities, special care, and special concerns. There is also a section for letting the parents know what supplies are running low and a section for any additional notes. All of the sections are clearly defined, and the subcategories are color coded in blue and green. There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Color coding ideal for boy babies. Print a new printable Nanny Log - Daily Infant Care Sheet - Blue and Green page for every day or as needed.
-  Updated: 2026-04-01T16:57:25Z
+  Updated: 2026-04-09T01:12:28Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
@@ -2839,19 +2839,19 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-09T11:01:09Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-04-08T11:01:24Z
   Total Products: 238
 - [Printable Downloads | Checklists, Planners, Forms, and Trackers](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-09T11:01:09Z
   Total Products: 407
 - [Organization Printables | Lists, Logs, and Helpers](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-09T11:01:09Z
   Total Products: 13
 - [Caregiver Forms | Health Logs and Housekeeping](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-09T11:01:09Z
   Total Products: 42
 - [Printable Financial Sheets | Budget, Bills, Savings, and Debt](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
   Updated: 2026-04-01T16:57:21Z
