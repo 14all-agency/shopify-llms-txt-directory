@@ -6,40 +6,33 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-08T07:27:27Z
 - Contact Email: post@barfmeister.com
-- Updated At: 2026-04-07T00:00:43.260Z
+- Updated At: 2026-04-16T00:00:41.804Z
 
 ## Products
 
 - [BIO Barf Rind Komplettmenü 500g](https://barfmeistershop.com/products/bio-barf-rinderkomplett-menu-500g): Unser Klassiker! Alles drin. BIO Rind Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst beim erwachsenen Hund nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Bio Zutaten: Rindermuskelfleisch, Rinderlunge, Rinderstrossen Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Seealgenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat Lachsöl, notwendige ernährungsphysiologische Zusatzstoffe: Zink, Kupfer, Mangan Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-04-05T10:49:26Z
+  Updated: 2026-04-14T15:55:27Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/barfmeister-bio-rindermenue_500g.png?v=1754739910
   Price: 4,75 € EUR
 - [BIO Barf Huhn Komplettmenü 500g](https://barfmeistershop.com/products/bio-barf-huhnkomplett-menu-500g-kopie): Unser Komplettmenü speziell für junge und ältere Hunde! BIO Huhn Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst beim erwachsenen Hund nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Bio Zutaten: Hühnermuskelfleisch, Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Seealgenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat Lachsöl, notwendige ernährungsphysiologische Zusatzstoffe: Zink, Kupfer, Mangan Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-04-04T22:00:15Z
+  Updated: 2026-04-14T15:56:07Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/barfmeister_bio_huhnmenue_500g.png?v=1754740115
   Price: 4,99 € EUR
-- [Barf Wild Komplettmenü 500g](https://barfmeistershop.com/products/bio-barf-wildkomplett-menu-500g-kopie-kopie): Unser Komplettmenü speziell für junge, ältere und Allergiker Hunde! Wild Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst beim erwachsenen Hund nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Zutaten: Wildmuskelfleisch, Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Seealgenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat Lachsöl, notwendige ernährungsphysiologische Zusatzstoffe: Zink, Kupfer, Mangan Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-04-06T14:05:45Z
-  Vendor: Mein Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/barfmeister_brandenburger_wildmenue_500g.png?v=1754740222
-  Price: 5,45 € EUR
 - [BIO Barf Lamm Komplettmenü 500g](https://barfmeistershop.com/products/bio-barf-lammkomplett-menu-500g-kopie-kopie-kopie): Unser Komplettmenü speziell, aber nicht nur für Allergiker! Bio Lamm Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst beim erwachsenen Hund nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Bio Zutaten: Lammfleisch, Lammpansen, Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Seealgenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat Lachsöl, notwendige ernährungsphysiologische Zusatzstoffe: Zink, Kupfer, Mangan Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-04-06T14:05:45Z
+  Updated: 2026-04-14T09:35:35Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/barfmeister_bio_lamm_menue_500g.png?v=1754740311
   Price: 6,45 € EUR
 - [BIO Rinderpansen Grün 500g](https://barfmeistershop.com/products/bio-rinderpansen-grun-500g): BIO Rinderpansen Grüner Rinderpansen ist der große ungewaschene Vormagen des Rindes. Die grüne Farbe ergibt sich aus dem Inhalt. Als Pflanzenfresser ernährt sich das Rind ausschließlich von Gräsern und Kräutern auf der Weide, deren Zellulose im Vormagen durch Mikroorganismen zersetzt werden. Deshalb darf der grüne Pansen nicht gewaschen werden. Für Hunde ist Rinderpansen eine beliebte und gesunde Abwechslung. Inhaltsstoffe Er enthält einen großen Anteil an Ballaststoffen, Verdauungsenzymen, Vitaminen und Nährstoffen. Bio Rinderpansen sollte einmal wöchentlich auf dem Barfplan stehen. Zusätzlich beinhaltet grüner Rinderpansen große Mengen an Eisen, Kupfer, Jod, Fluor, Magnesium und Eiweiß. Grüner Rinderpansen sollte ausschließlich nicht erhitzt verfüttert werden! Bei einer Rindfleisch Unverträglichkeit kann auf Bio Lammpansen ausgewichen werden. Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-03-28T19:33:46Z
+  Updated: 2026-04-13T20:04:22Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
@@ -60,26 +53,54 @@
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/D8065E2C-3805-4384-9E34-681928F5FE39.jpg?v=1759253746
   Price: 79,90 € EUR
 - [BIO Barf Huhn Komplettmenü 1000g](https://barfmeistershop.com/products/bio-barf-huhnkomplett-menu-500g-kopie-1): Unser Bio-Barf Komplettmenü speziell für junge und ältere Hunde! BIO Huhn Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst beim erwachsenen Hund nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Bio Zutaten: Hühnermuskelfleisch, Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Seealgenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat Lachsöl, notwendige ernährungsphysiologische Zusatzstoffe: Zink, Kupfer, Mangan Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-04-06T14:05:45Z
+  Updated: 2026-04-14T18:28:46Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/barfmeister_bio_huhnmenue_1000g.png?v=1754738377
   Price: 9,95 € EUR
 - [BIO Barf Rind Komplettmenü 1000g](https://barfmeistershop.com/products/bio-barf-rinderkomplett-menu-500g-kopie): Unser Klassiker! Alles drin. BIO Rind Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst beim erwachsenen Hund nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Bio Zutaten: Rindermuskelfleisch, Rinderlunge, Rinderstrossen Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Seealgenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat Lachsöl, notwendige ernährungsphysiologische Zusatzstoffe: Zink, Kupfer, Mangan Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-04-06T14:05:46Z
+  Updated: 2026-04-15T08:54:46Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/BIO_Barf_Rinderkomplett_Menue__1000g.png?v=1754738219
   Price: 8,45 € EUR
+- [Bio Wasserbüffelmenü 500g](https://barfmeistershop.com/products/bio-wasserbuffelmenu-500g): Bio Wasserbüffelmenü mit hochwertigem Muskelfleisch - für Welpen und Senioren besonders geeignet. Es ist ein Alleinfutter für jedes Alter. Das Fleisch kommt regional aus Brandenburg. Bio-Wasserbüffelmenü Inhaltsstoffe: 14,0% Protein, 13,0% Rohfett, 1,5% Rohasche, 69% Feuchtigkeit Zusammensetzung: Büffelmuskelfleisch*, Möhren*, Kürbis*, Zuccini*, Äpfel, Büffelleber*, Kokos*, Eierschalen*, Lachsöl, Leinsamen*, Seealgen*, Hagebuttenpulver* Ernährungsphysiolische Zusatzstoffe bezogen auf 1000g: 20mg Zink (3b605), 2mg Kupfer(3b405), 2mg Mangan (3b503) *aus kontrolliert biologischem Anbau
+  Updated: 2026-04-12T10:46:21Z
+  Vendor: Barfmeister Shop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/barfmeister_bio_barf_wasserbueffel_500g.png?v=1758566383
+  Price: 6,99 € EUR
+- [Wildlachsmenü 500g](https://barfmeistershop.com/products/wildlachsmenu-500g): Unser hochwertiges Fischmenü! Mal etwas anderes! Besonders gut für ausgewachsene agile Hunde. Wildlachsmenü Inhaltsstoffe: 11,0% Protein, 12,5% Rohfett, 2,5% Rohasche, 0,5% Rohfaser, 66,00% Feuchtigkeit Zusammensetzung: Wildlachs komplett, Gemüse und Obst *(Möhren, Zucchini, Kürbis, Äpfel), Kokos*, Leinmehl*, Eierschalen*, Seealgen*, Hagebuttenpulver* Ernährungsphysiolische Zusatzstoffe bezogen auf 1000g: 20mg Zink (3b605), 2mg Kupfer (3b405), 2mg Mangan (3b503)
+  Updated: 2026-04-11T13:56:56Z
+  Vendor: Barfmeister Shop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/Wildlachs-Menue_01.png?v=1760539873
+  Price: 6,99 € EUR
+- [Ziegenmenü 500g](https://barfmeistershop.com/products/ziegenmenu-500g): Das Ziegenmenü ist speziell für Allergiker, die andere Fleischsorten nicht vertragen! Ziegenmenü Inhaltsstoffe: 11,4% Protein, 8,44% Rohfett, 1,4% Rohasche, 1,9% Rohfaser, 72,6% Feuchtigkeit Zusammensetzung: Ziegenherz, Ziegengeschlinge, Ziegenlunge, Ziegenleber Gemüse und Obst *(Möhren, Kürbis, Äpfel), Kokos*, Hagebuttenpulver*, Eierschalen*, Lachsöl, Leinsamen*, Seealgen* Ernährungsphysiologische Zusatzstoffe bezorgen auf 1000g: 20mg Zink (3b605), 2mg Kupfer (3b405), 2mg Mangan (3b503) *=aus kontrolliert biologischem Anbau, Öko-Kontrollstelle DE-ÖKO-0034
+  Updated: 2026-04-13T20:04:27Z
+  Vendor: Barfmeister Shop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/Ziegen-Menue_01.png?v=1758567109
+  Price: 7,25 € EUR
 - [Pferdemenü 500g](https://barfmeistershop.com/products/pferdemenu-500g): Das Menü für Allergiker! Wir verwenden deutsches Pferdemuskelfleisch für unser Menü. Pferdemenü Inhaltsstoffe: 22,5% Protein, 8,0% Rohfett, 1,0% Rohasche, 0,3% Rohfaser, 70,0% Feuchtigkeit Zusammensetzung: Pferdemuskelfleisch, Gemüse und Obst *( Möhren, Broccoli, Zucchini, Äpfel), Kokos*, Hagebuttenpulver*, Eierschalenpulver*, Lachsöl, Leinsamen*, Seealgen*, Ernährungsphysiologische Zusatzstoffe bezogen auf 1000g: 20mg Zink, 2mg Kupfer, 2mg Mangan, Vitamin A~1300 IE, Vitamin D~130 IE *=aus kontrolliert biologischem Anbau
-  Updated: 2026-03-31T08:29:16Z
+  Updated: 2026-04-07T17:22:07Z
   Vendor: Barfmeister Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/Pferde-Menue_500g_01.png?v=1758567108
   Price: 7,99 € EUR
+- [Pferdemenü 1000g](https://barfmeistershop.com/products/pferdemenu-500g-kopie): Das Menü für Allergiker! Wir verwenden deutsches Pferdemuskelfleisch für unser Menü. Pferdemenü Inhaltsstoffe: 22,5% Protein, 8,0% Rohfett, 1,0% Rohasche, 0,3% Rohfaser, 70,0% Feuchtigkeit Zusammensetzung: Pferdemuskelfleisch, Gemüse und Obst *( Möhren, Broccoli, Zucchini, Äpfel), Kokos*, Hagebuttenpulver*, Eierschalenpulver*, Lachsöl, Leinsamen*, Seealgen*, Ernährungsphysiologische Zusatzstoffe bezogen auf 1000g: 20mg Zink, 2mg Kupfer, 2mg Mangan, Vitamin A~1300 IE, Vitamin D~130 IE *=aus kontrolliert biologischem Anbau
+  Updated: 2026-04-14T15:54:38Z
+  Vendor: Barfmeister Shop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/Pferde-Menue_1000g_01.png?v=1758567109
+  Price: 13,99 € EUR
 - [Bio Rinder Mix 500g](https://barfmeistershop.com/products/bio-rinder-mix-500g): Der Bio Rinder Mix als Ergänzungsfutter für SelbstbarferInnen! Bio Rindermix Inhaltsstoffe: 18,78 Protein, 4,0 % Rohfett, 75,5 % Feuchtigkeit Zusammensetzung: Rindermuskelfleisch*, Rinderherz*, Rinderleber*
   Updated: 2026-04-06T14:22:07Z
   Vendor: Barfmeister Shop
@@ -88,42 +109,42 @@
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/Bio-Rindermix_01.png?v=1758567109
   Price: 6,99 € EUR
 - [Wild Mix](https://barfmeistershop.com/products/wild-mix): Das Wild Mix ist eine Mischung aus Rotwildfleisch für Selbst-BarferInnen Wildmix Inhaltsstoffe: 20% Protein, 5% Rohfett, 1% Rohasche, 6% Rohfaser, 59% Feuchtigkeit Zusammensetzung: Wildfleisch vom Brandenburger Rotwild
-  Updated: 2026-03-26T17:34:28Z
+  Updated: 2026-04-13T20:04:27Z
   Vendor: Barfmeister Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/Wild-Menue_01.png?v=1758567109
   Price: 6,99 € EUR
 - [Entenhälse getrocknet - 20cm - Stück](https://barfmeistershop.com/products/entenhals-getrochnet): Produktbeschreibung: Entenhälse getrocknet aus Deutschland, gut geeignet für Welpen und Senioren, mit nur 14% Rohfett relativ mager. Die Entenhälse mit Trockenfleischanteil sind ca. 20cm lang und 1,5cm dick, keine splitternden Anteile und leicht durchzubrechen. Nährwerte / Inhaltsstoffe: Wasser 4h / 103°C 9,1% Rohasche 18,7% Rohprotein (Nx6,25) 58,2% Rohfett 14,0% Rohfaser 0,7%
-  Updated: 2026-04-04T22:00:16Z
+  Updated: 2026-04-14T14:55:55Z
   Vendor: Barfmeister Shop
   Product Type: Kausnacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/Barfmeister_Kauartikel_Entenhaelse_getrocknet.png?v=1759253070
   Price: 2,50 € EUR
 - [Rinderschlund getrocknet - 15cm - Stück](https://barfmeistershop.com/products/rinderschlund-getrocknet): Produktbeschreibung: Rinderschlund getrocknet aus Deutschland, gut geeignet für Welpen und Senioren, mit nur 9% Rohfett sehr mager Schlundstangen, ca. 15cm lang, für große und kleine Hunde geeignet. Alle Schlundprodukte werden von Hand verarbeitet, daher sind sie relativ fettarm. Alle Schilddrüsenanteile werden entfernt. Nährwerte / Inhaltsstoffe: Wasser 4h / 103°C 10,4% Rohasche 3,8% Rohprotein (Nx6,25) 78,4% Rohfett 9,2% Rohfaser 1,1%
-  Updated: 2026-04-04T22:00:15Z
+  Updated: 2026-04-10T10:27:47Z
   Vendor: Barfmeister Shop
   Product Type: Kausnacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/3.png?v=1759249411
   Price: 1,75 € EUR
 - [Schweineohren - Stück](https://barfmeistershop.com/products/schweineohren): Produktbeschreibung: Der Klassiker in Topqualität! Schweineohren getrocknet aus Deutschland, gut geeignet für alle Hunde, mittelgroß Nährwerte / Inhaltsstoffe: Wasser 4h / 103°C 13,5% Rohasche 1,6% Rohprotein (Nx6,25) 73,3% Rohfett 18,5% Rohfaser 2,5%
-  Updated: 2026-04-04T22:00:15Z
+  Updated: 2026-04-14T09:35:35Z
   Vendor: Barfmeister Shop
   Product Type: Kausnacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/2.png?v=1759249677
   Price: 2,00 € EUR
 - [Ochsenziemer - 14cm - Stück](https://barfmeistershop.com/products/ochsenziemer-stuck-14cm): Produktbeschreibung: Der Klassiker unter den Ochsenziemern, fast geruchsneutral. Der beliebte Kausnack aus Deutschland, sehr mager mit 1,5% Rohfett und 97% Rohprotein Nährwerte / Inhaltsstoffe: Wasser 4h / 103°C 9,9% Rohasche 1,2% Rohprotein (Nx6,25) 96,6% Rohfett 1,7% Rohfaser 1,8%
-  Updated: 2026-04-04T22:00:15Z
+  Updated: 2026-04-14T09:35:32Z
   Vendor: Barfmeister Shop
   Product Type: Kausnacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/5.png?v=1759249854
   Price: 3,50 € EUR
 - [Ochsenziemer-Enden-Stück](https://barfmeistershop.com/products/ochsenziemer-enden-stueck): Produktbeschreibung: Der beliebte Kausnack aus Deutschland, sehr mager mit 1,5% Rohfett und 97% Rohprotein und langem Kauspaß. Diese Ochsenziemer sind durch den großen Fleischkopf eine besonderer Knabberspaß, ca. 20 bis 25cm lang. Nährwerte / Inhaltsstoffe: Wasser 4h / 103°C 9,9% Rohasche 1,2% Rohprotein (Nx6,25) 96,6% Rohfett 1,7% Rohfaser 1,8%
-  Updated: 2026-03-31T15:27:57Z
+  Updated: 2026-04-10T10:27:45Z
   Vendor: Barfmeister Shop
   Product Type: Kausnacks
   Availability: Available
@@ -136,15 +157,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/81dZb4ZfHXL._AC_SL1500.jpg?v=1765396843
   Price: 11,99 € EUR
-- [Bio Welpen- Wasserbüffelmenü 500g](https://barfmeistershop.com/products/bio-welpen-wasserbuffelmenu-500g-kopie): Bio Welpen-Wasserbüffelmenü mit hochwertigem Muskelfleisch Es ist ein Alleinfutter für die Kleinen. Das Fleisch kommt regional aus Brandenburg. Bio-Wasserbüffelmenü Inhaltsstoffe: 14,0% Protein, 13,0% Rohfett, 1,5% Rohasche, 69% Feuchtigkeit Zusammensetzung: Büffelmuskelfleisch*, Möhren*, Kürbis*, Zuccini*, Äpfel, Büffelleber*, Eierschalen*, Kokos* Lachsöl, Leinsamen*, Seealgen*, Hagebuttenpulver* Ernährungsphysiolische Zusatzstoffe bezogen auf 1000g: 20mg Zink (3b605), 2mg Kupfer(3b405), 2mg Mangan (3b503) *aus kontrolliert biologischem AnbauDein Hund wird Wasserbüffel lieben - lese hier mehr ...
-  Updated: 2026-04-04T11:33:05Z
-  Vendor: Barfmeister Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0937/7828/0778/files/welpen-bio-barf-wasserbueffel-menue.png?v=1773061740
-  Price: 6,99 € EUR
-- [BIO Barf Welpen Rind Komplettmenü 500g](https://barfmeistershop.com/products/bio-barf-weapen-rind-komplettmenu-500g): Unser Klassiker für die Welpen! Alles drin. BIO Rind Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Bio Zutaten: Rindermuskelfleisch, Rinderherz, Rinderleber Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat, Lachsöl ,Seealgenpulver, Dorschlebertran Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
-  Updated: 2026-03-29T13:54:15Z
+- [BIO Barf Welpen Rind Komplettmenü 500g](https://barfmeistershop.com/products/bio-barf-welpen-rind-komplettmenu-500g): Unser Klassiker für die Welpen! Alles drin. BIO Rind Komplettmenü als BARF Alleinfutter. Es ist alles enthalten, was Dein Hund braucht. Du brauchst nichts dazufügen. Alle verfügbaren Zutaten sind aus kontrolliert biologischem Anbau bzw. artgerechter Tierhaltung. BARF ist eine artgerechte Fütterung des Hundes aus rohen Zutaten. Das Menü ist in Rollen verpackt und tiefgefroren. Bio Zutaten: Rindermuskelfleisch, Rinderherz, Rinderleber Möhren, Zucchini, Kürbis, Äpfel, Eierschalenpulver, Kokosflocken, Hagebuttenpulver, Goldleinsaat, Lachsöl ,Seealgenpulver, Dorschlebertran Unsere Verpackung "... weg mit dem Styropor!" - Wir verpacken ökologisch mit Easy2Cool-Boxen!
+  Updated: 2026-04-14T14:55:56Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
@@ -154,13 +168,13 @@
 ## Collections
 
 - [Startseite](https://barfmeistershop.com/collections/frontpage)
-  Updated: 2026-04-05T11:33:04Z
+  Updated: 2026-04-15T11:34:40Z
   Total Products: 17
 - [Bio Wasserbüffelmenü](https://barfmeistershop.com/collections/wasserbuffelmenu-1-000g-und-500g): Das Bio Wasserbüffelmenü ist ein Alleinfutter für jedes Hundealter! Durch sein hochwertiges Muskelfleisch für Welpen und Senioren besonders geeignet. Das Fleisch kommt regional aus Brandenburg. Bio-Wasserbüffelmenü. Alles Drin!1.000g und 500g Jetzt bestellen - solange der Vorrat reicht!
-  Updated: 2026-04-05T11:33:04Z
+  Updated: 2026-04-12T11:34:05Z
   Total Products: 3
 - [Kauartikel](https://barfmeistershop.com/collections/kauartikel): Diese leckeren Kausnacks werden von Hand verarbeitet und in eigenen Trockenräumen schonend luftgetrocknet. Alle Produkte sind reine "Naturprodukte" und garantiert frei von Konservierungsstoffen und kommen aus Deutschland.
-  Updated: 2026-04-05T11:33:04Z
+  Updated: 2026-04-15T11:34:40Z
   Total Products: 5
 
 ## Blogs
