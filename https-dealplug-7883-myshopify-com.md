@@ -6,12 +6,12 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-03-22T11:39:44Z
 - Contact Email: brevisketley@gmail.com
-- Updated At: 2026-04-08T20:07:28.025Z
+- Updated At: 2026-04-16T00:00:22.308Z
 
 ## Products
 
-- [200/300/500ml Oil Spray olive oil spray Bottle Kitchen Cooking  Dispenser Camping  Baking Vinegar Soy Sauce Sprayer Containers](https://dealplug-7883.myshopify.com/products/200-300-500ml-oil-spray-olive-oil-spray-bottle-kitchen-cooking-dispenser-camping-baking-vinegar-soy-sauce-sprayer-containers): 【Newly Designed Olive Oil Spray】: Our cooking oil spray bottle's nozzle may spout out a fan-shaped spray to make the oil volume more uniform,the bottle thread seal prevents dust from entering,the wide glass bottle mouth can be filled easily,it is equipped with an anti-drip trigger,which avoid preventing leakage,and the filter system Prevents nozzle clogging.his is a perfect and portable home gadgets. 【Effective Control Of Oil Spray Volume】 : This olive oil dispensr bottle has an advanced fan nozzle,which delivers a precise amount of oil,getting even coverage and consistent effect,no matter which oil you use,you'll get 1/4 teaspoon (1.5g) oil to keep your daily calorie intake,making your signature dishes stand out healthier. 【Multifunctional Oil Spritzer】 : There is a non-slip and ergonomic handle design,which can comfortably hold the lid and handle when pressing.It can be sprayed evenly with just a light press.It is widely used in use, such as frying steaks, barbecues, baking, salads, and air fryers to achieve atomized spraying of cooking oil,which is safe,hygienic and fuel-efficient.Loved by chefs and gourmets alike,it is truly the perfect kitchen gadget.
-  Updated: 2026-03-26T09:28:58Z
+- [Oil Spray Bottle for Cooking | Kitchen Oil Dispenser 200–500ml | DealPlug](https://dealplug-7883.myshopify.com/products/200-300-500ml-oil-spray-olive-oil-spray-bottle-kitchen-cooking-dispenser-camping-baking-vinegar-soy-sauce-sprayer-containers): Refillable oil spray bottle for cooking, baking & BBQ. Available in 200ml, 300ml & 500ml. Mess-free kitchen dispenser. Shop DealPlug.
+  Updated: 2026-04-11T13:33:54Z
   Vendor: Hopeful Life Store
   Product Type: 
   Availability: Available
@@ -104,15 +104,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S27907b4d51274c8ea775091a9bb96434v.webp?v=1774184654
     Price: R 167.70 ZAR
-- [Portable Car Battery Jump Starter Jump Box Lithium Battery Converter - Compact Power Pack for Emergency Vehicle Starting](https://dealplug-7883.myshopify.com/products/portable-car-battery-jump-starter-jump-box-lithium-battery-converter-compact-power-pack-for-emergency-vehicle-starting-1): Emergency Vehicle StartingIdeal for emergency situations, this power pack can jump-start your vehicle quickly and reliably.Durable ConstructionConstructed with high-quality materials, this jump box promises durability and long-lasting performance.Compact DesignThe Portable Car Battery Jump Starter features a compact design, making it easy to carry around and store in your vehicle.Versatile UsageThis jump starter is not just for cars but can also be used for boats, motorcycles, and other vehicles.Lithium Battery ConverterEquipped without a lithium battery converter, this jump box ensures efficient power transfer for quick starts. Bullet Points:1.Wide Compatibility: Suitable for trucks, SUVs, full-size cars, and adaptable for use in mid-size to small/compact cars, this tool is must-have for starting dead or low-power batteries, avoiding troubles in special situations 2.Safe Usage: Our product assures user safety with conductive and sturdy material shell, easily recovering dead batteries without any fuss, making it the excellent solution for sudden power outages 3.Stable Connection: Equipped with two alligator clips, featuring sturdy serrations and sturdy springs, ensuring a convenient, stable connection for excellent grip 4.Effortless Portability: Easily stored in your vehicle, this jump starter features a compact and lightweight design, ensuring you can easily carry it and no longer need to rely on another vehicle for power 5.USB Output Ports: With 2 USB output ports, this Car Battery Jump Beginner gives you quick power access to charging your mobile devices, saving time and enhancing your travel efficiency. Conveniently fitting power banks, enjoy effortless charging outdoors and stay connected longer Stay prepared for unexpected troubles with our portable car jump starter. Ensure safety with its stable connection. Equipped with 2 USB output ports for added convenience.Product specifications:Product name: Car Battery Jump StarterProduct material: ABS+copperProduct size: Box length: about 8cm/3.15 inchesWidth: about 5.5cm/2.17 inchesWire length: about 18cm/7.09 inchesClip length: about 9cm/3.54 inchesProduct weight: about 150gPacking List:1 x Car Battery Jump StarterNote:Due to different lighting and screen settings, the item color may be slightly different from the picture.Due to different manual measurements, please allow a 1-2cm difference in size.
-  Updated: 2026-03-26T09:28:58Z
+- [Portable Car Battery Jump Starter | Emergency Power Bank | DealPlug](https://dealplug-7883.myshopify.com/products/portable-car-battery-jump-starter-jump-box-lithium-battery-converter-compact-power-pack-for-emergency-vehicle-starting-1): Compact portable jump starter for cars. Built-in power bank, LED torch. Never get stranded again. Shop DealPlug South Africa.
+  Updated: 2026-04-11T13:33:54Z
   Vendor: Shop1104492332 Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sa7bd3870a17748d299c21cf4d758374aU_1ba4d991-0bc9-47b2-81e9-56bf8e89d77a.webp?v=1774185285
   Price: R 385.70 ZAR
-- [OLEVS Man Watch Original Silicone Strap Multifunction Quartz Wrist Watch for Men Fashion Chronograph Sport Waterproof Watch 9991](https://dealplug-7883.myshopify.com/products/olevs-man-watch-original-silicone-strap-multifunction-quartz-wrist-watch-for-men-fashion-chronograph-sport-waterproof-watch-9991)
-  Updated: 2026-03-26T09:28:58Z
+- [OLEVS Men's Chronograph Sport Watch | Waterproof Quartz Watch 9991](https://dealplug-7883.myshopify.com/products/olevs-man-watch-original-silicone-strap-multifunction-quartz-wrist-watch-for-men-fashion-chronograph-sport-waterproof-watch-9991): Shop the OLEVS 9991 men's multifunction chronograph watch. Waterproof, quartz movement, silicone strap. Available in 5 colors. R829.26.
+  Updated: 2026-04-11T13:33:54Z
   Vendor: IK Brand Watch Store
   Product Type: 
   Availability: Available
@@ -137,8 +137,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sd60d0cb727174f21b468ef3d872ae80cd.webp?v=1774185583
     Price: R 829.26 ZAR
-- [High Strong Power Led Flashlights 2000LM Tactical Torch with Display Light USB Charging Camping Fishing Emergency Zoom Lantern](https://dealplug-7883.myshopify.com/products/high-strong-power-led-flashlights-2000lm-tactical-torch-with-display-light-usb-charging-camping-fishing-emergency-zoom-lantern-1): Features 1. The body of this flashlight is built of high quality ABS material, and it has a very solid construction 2. Internal wiring applies the high efficient booster circuit, and can utilize the batteries in the largest extent 3. Excellent waterproof, suitable for outdoor environment, adverse weather conditions except for diving Specification: Product Name:INTENSE FLASHLIGHT Battery Type:Built in Lithium Battery Charging method: USB fast charging Material:ABS ❤Package description: 1*Flashlight 1*usb charging cable Product name: White laser zoom flashlight Beads: Laser type wick Charging: TYPE-C fast charging Zoom: Telescopic zoom Gear: Three gear switching Function: Power bank Material: ABS Head: Attack head Weight: 100G Accessories: Charging cable Feature: Zoomable, Water resistant, Power indicator, USB Charger, Weather & Shock Resistant, Light weight and Pocket-Sized, Easy to Use,Anti-Roll Body, High Lumens, Power indicator Display,Can be used as a power bank Package List: 1*flashlight 1* USB cable
-  Updated: 2026-03-26T09:28:59Z
+- [High Power LED Flashlight | Super Bright Torch | DealPlug](https://dealplug-7883.myshopify.com/products/high-strong-power-led-flashlights-2000lm-tactical-torch-with-display-light-usb-charging-camping-fishing-emergency-zoom-lantern-1): Ultra-bright high-power LED flashlight. Long range, durable, rechargeable. Perfect for camping, emergencies & outdoor use. Shop DealPlug.
+  Updated: 2026-04-11T13:33:55Z
   Vendor: ZHIYU-Preferred Store
   Product Type: 
   Availability: Available
@@ -155,8 +155,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S64eb508c4d5d4578bb239dc27d302511t_6d86881e-d322-4d1e-b4a7-5e1d11e8760a.webp?v=1774195032
     Price: R 182.42 ZAR
-- [Mini Muscle Massage Gun Protable Body Massager Deep Handheld Percussion Massager For Body Back And Neck Leg](https://dealplug-7883.myshopify.com/products/mini-muscle-massage-gun-protable-body-massager-deep-handheld-percussion-massager-for-body-back-and-neck-leg): • Special Features:Type C -USBRechargeable •Target Use Body Part: Whole Body •Power Supply: Battery Powered (no Plug) • Rated Power : 24W •Battery Properties: Rechargeable Battery •Rechargeable Battery:1200mah Lithium Battery •Package Include: 1. 1 * Massage Gun 2. 4 * Massage Heads 3. 1 *English Manul 4. 1 *USB-Type C charging Cable 5. 1 * box retail packaging box
-  Updated: 2026-03-26T09:28:59Z
+- [Mini Muscle Massage Gun | Portable Percussion Massager | DealPlug](https://dealplug-7883.myshopify.com/products/mini-muscle-massage-gun-protable-body-massager-deep-handheld-percussion-massager-for-body-back-and-neck-leg): Compact mini massage gun for muscle relief and recovery. Quiet, portable, powerful. Perfect for home, gym & travel. Shop DealPlug.
+  Updated: 2026-04-11T13:33:55Z
   Vendor: YOSYO Official Store
   Product Type: 
   Availability: Available
@@ -177,8 +177,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S6c598dd893fd4aecaa00847218bb4f87l.webp?v=1774195220
     Price: R 363.12 ZAR
-- [TOPK Car Phone Holder Gravity Stand for iPhone Xiaomi Samsung Car Mobile Support for Dashboard Windshield Air Vent Phone Mount](https://dealplug-7883.myshopify.com/products/topk-car-phone-holder-gravity-stand-for-iphone-xiaomi-samsung-car-mobile-support-for-dashboard-windshield-air-vent-phone-mount): 【For Air Vent style】 The latest hook clip design, can be securely attached to the air vents. Don't need to worry about your phone falling off when driving. 【For Windshield & Dashboard style】 The suction cup with sticky gel ensures a strong grip and excellent adhesion, even in hot or cold weather. The washable suction cup can be used multiple times, and can be easily restored by rinsing with water and drying, it can be installed on the It can be installed on the dashboard, windscreen. 【Only For Dashboard style】 It can be rotate freely 360°. Free adjustment, more convenient driving operation; flip back and forth, 240° can be freely and flexibly adjusted to a suitable angle, 240° flip for wider Nano suction cup, super suction. The flexible suction cup can't be thrown away, it is stable and reliable. Double reinforcement, the adsorption is more stable. Equipped with enlarged suction cup and mechanical pressure valve, super load bearing, not afraid of bumps . 【Upgrade For Air Vent style】 Double support feet have been added to the hook clip to enhance stability. can be securely attached to the air vents. and holds your phone tightly even on And holds your phone tightly even on turning, roads with potholes, speed bumps and bumpy roads. 【Wide Compatibility】 These holders can accommodate almost all smartphones, including iPhone, Galaxy, HTC, Sony, LG, and other smartphones between 4.7 inches and 6.7 inches in width, making it a versatile and practical option for a wide range of users.
-  Updated: 2026-03-26T09:28:59Z
+- [TOPK Car Phone Holder | Dashboard & Windscreen Mount | DealPlug](https://dealplug-7883.myshopify.com/products/topk-car-phone-holder-gravity-stand-for-iphone-xiaomi-samsung-car-mobile-support-for-dashboard-windshield-air-vent-phone-mount): TOPK universal car phone holder. Secure dashboard or windscreen mount for all smartphones. Hands-free driving made easy. Shop DealPlug.
+  Updated: 2026-04-11T13:33:55Z
   Vendor: TOPK Official Store
   Product Type: 
   Availability: Available
@@ -199,8 +199,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sf768084644a24b9ea3cb33b64b9c8346Q.webp?v=1774195284
     Price: R 218.36 ZAR
-- [Universal 120W 10A USB to Type C Cable Super Fast Charging Cable For Huawei P40 Honor Data Cord For Xiaomi Redmi 0.3/1M/1.5M/2M](https://dealplug-7883.myshopify.com/products/universal-120w-10a-usb-to-type-c-cable-super-fast-charging-cable-for-huawei-p40-honor-data-cord-for-xiaomi-redmi-0-3-1m-1-5m-2m): Attention: Apple cannot be charged.
-  Updated: 2026-03-26T09:28:59Z
+- [120W Fast Charging USB-C Cable | Universal Type-C Charger | DealPlug](https://dealplug-7883.myshopify.com/products/universal-120w-10a-usb-to-type-c-cable-super-fast-charging-cable-for-huawei-p40-honor-data-cord-for-xiaomi-redmi-0-3-1m-1-5m-2m): 120W super fast charging USB to Type-C cable. Universal compatibility for phones, tablets & laptops. Durable & tangle-free. Shop DealPlug.
+  Updated: 2026-04-11T13:33:55Z
   Vendor: MortyRick Store
   Product Type: 
   Availability: Available
@@ -221,8 +221,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S0c056bb7bcee43afbf556803dfa848ac8_0eca2ac9-e313-4936-a965-8f2f7e75ad23.webp?v=1774195303
     Price: R 45.86 ZAR
-- [Refillable Liquid Cleaning Brush Kitchen Bowl Scrubber Cleaning Sponge Long Handle Dispenser Cleaner Tool with Dish Soap Washing](https://dealplug-7883.myshopify.com/products/refillable-liquid-cleaning-brush-kitchen-bowl-scrubber-cleaning-sponge-long-handle-dispenser-cleaner-tool-with-dish-soap-washing): Specification: Color: As Shown Material: PP + Sponge Brush Handle Length: 23cm/9.8inch Hairbrush Head Size: 5*8*4.5cm/1.95*3.15*1.77inch Sponge Brush Head Size: 6*9.5*3.5cm/2.36*4.74*1.38inch Note: 1. Clean liquid is NOT included. 2. Please allow 1-3cm(0.4-1.18") difference due to manual measurementand slight color variation for different display setting.
-  Updated: 2026-03-26T09:28:59Z
+- [Refillable Liquid Cleaning Brush | Dish & Kitchen Scrubber | DealPlug](https://dealplug-7883.myshopify.com/products/refillable-liquid-cleaning-brush-kitchen-bowl-scrubber-cleaning-sponge-long-handle-dispenser-cleaner-tool-with-dish-soap-washing): Refillable soap dispensing cleaning brush for dishes, pots & kitchen surfaces. Ergonomic design, easy to fill. Shop DealPlug.
+  Updated: 2026-04-11T13:33:56Z
   Vendor: Mu Yi Home Furnishing Store
   Product Type: 
   Availability: Available
@@ -243,15 +243,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Scfb4262ee49d410783212a98ea7ddc22b.webp?v=1774278459
     Price: R 305.21 ZAR
-- [Automatic Digital Display Stirring Mug with Temperature 6500 RPM Self Stirring Rechargeable Coffee Milk Protein Shake Mixing Cup](https://dealplug-7883.myshopify.com/products/automatic-digital-display-stirring-mug-with-temperature-6500-rpm-self-stirring-rechargeable-coffee-milk-protein-shake-mixing-cup): Automatic Digital Display Stirring Mug with Temperature, 6500 RPM Self Stirring Rechargeable Coffee Milk Protein Shake Mixing Cup, USB Type-C Portable Electric Blender Cup for Office Travel Home DESCRIPTION: The Automatic Digital Display Stirring Mug is a smart and portable beverage solution that mixes powders and liquids perfectly in seconds with one-touch magnetic stirring and real-time temperature monitoring, ideal for busy lifestyles. FEATURES: 1. 【One-Touch Automatic Magnetic Stirring】: Simply press the button to activate the powerful built-in magnetic stirrer, which spins at 6500 RPM for 20 seconds to create a smooth, clump-free vortex for coffee, protein powder, milk, or meal replacements—no manual stirring required. 2. 【Real-Time Smart Temperature Display】: Features an integrated LCD screen that shows the current liquid temperature up to 99°C (210°F), allowing you to enjoy your drink at the perfect heat without risking burns. 3. 【High-Quality 316 Stainless Steel Liner】: The inner liner is made of food-grade 316 stainless steel, ensuring durability, easy cleaning, and no flavor retention. Double-wall insulation keeps drinks hot while the exterior remains cool to the touch. 4. 【USB Type-C Rechargeable with Long Battery】: Equipped with a 200mAh rechargeable battery that fully charges in 1.5 hours via Type-C, providing up to 150 stirring cycles. Compact and lightweight (280g), it’s perfect for travel, office, gym, or home. 5. 【Leak-Proof Lid & Precise Measurement Marks】: Comes with a secure sliding lid to prevent spills during stirring or transport. Clear internal measurement markings (in ml/oz) ensure accurate portions for powders and liquids. SPECIFICATION: - Model: HZ-001 - Material: 316 Stainless Steel (Inner Liner), ABS Plastic (Outer Body & Lid) - Motor Type: C300 Magnetic Stirring Motor - Stirring Speed: 6500 RPM - Operation: One-button automatic stir (20-second cycle) - Temperature Display: LCD, range up to 99°C / 210°F - Power: 0.6W - Voltage: 3.7V - Battery Capacity: 200mAh Lithium-ion - Charging Time: ~1.5 hours - Usage Cycles: Up to 150 cycles per full charge - Charging Port: USB Type-C (cable may need to be purchased separately, check listing) - Product Dimensions: 15.6 x 11 x 14 cm / 6.14" x 4.33" x 5.51" - Product Weight: 280g / 0.62 lbs - Capacity: As indicated by internal measurement marks, 380ml - Insulation: Double-wall design - Compatibility: Suitable for hot and cold beverages (coffee, tea, milk, protein shakes, cocoa, oatmeal, baby formula, etc.) SCENARIOS: - **Office & Workspace:** Quickly prepare a smooth coffee or protein shake at your desk without needing a spoon or leaving your workstation. - **Gym & Post-Workout:** Mix protein powder or pre-workout supplements effortlessly right after exercise for immediate nutrition. - **Travel & Commuting:** The leak-proof lid and compact size make it ideal for carrying in a bag on trains, planes, or to hotels. - **Home & Kitchen:** A convenient tool for making lump-free hot chocolate, matcha latte, instant soup, or baby formula for families. - **Gift Idea:** A thoughtful and modern gift for coffee lovers, fitness enthusiasts, students, or colleagues on birthdays, holidays, or as a corporate gift. PACKAGE INCLUDES: 1 x Automatic Digital Display Stirring Mug 1 x User Manual NOTES: 1. **Charging & Battery Care:** Use a standard 5V/1A USB Type-C charger. Do not use fast chargers unless specified as compatible. For longest battery life, avoid completely draining the battery. The mug cannot be used while charging. 2. **Cleaning Instructions:** The stainless steel liner is dishwasher safe (top rack recommended). Hand wash the outer ABS body and lid with mild soap and water. Do not submerge the base (where electronics are) in water. 3. **Liquid Temperature Limit:** The temperature sensor is designed for beverages. Do not fill with boiling water (above 99°C) directly, as it may damage the sensor or electronics. Allow boiled water to cool for a minute before adding. 4. **Stirring Compatibility:** Best for fine powders (coffee, protein, cocoa) and liquids. Not designed for thick pastes, whole fruits, ice, or solid foods. Do not run the stirrer without liquid.
-  Updated: 2026-03-26T09:28:59Z
+- [Automatic Self-Stirring Mug | Electric Coffee & Tea Mixer | DealPlug](https://dealplug-7883.myshopify.com/products/automatic-digital-display-stirring-mug-with-temperature-6500-rpm-self-stirring-rechargeable-coffee-milk-protein-shake-mixing-cup): Self-stirring electric mug for coffee, tea & hot drinks. Digital display, automatic mixing. Perfect for home & office. Shop DealPlug.
+  Updated: 2026-04-11T13:33:56Z
   Vendor: Shop1105175486 Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S94d56a8eab034210a5897d5b3b5cf447p.webp?v=1774278616
   Price: R 237.37 ZAR
-- [2/4 Pack GPS Tracker Strong Magnetic Car Vehicle Tracking work with Apple Find My Anti-loss Positioning Device Car Locator](https://dealplug-7883.myshopify.com/products/2-4-pack-gps-tracker-strong-magnetic-car-vehicle-tracking-work-with-apple-find-my-anti-loss-positioning-device-car-locator)
-  Updated: 2026-03-26T09:29:00Z
+- [GPS Car Tracker | Works with Apple Find My | 2 or 4 Pack](https://dealplug-7883.myshopify.com/products/2-4-pack-gps-tracker-strong-magnetic-car-vehicle-tracking-work-with-apple-find-my-anti-loss-positioning-device-car-locator): Magnetic GPS tracker compatible with Apple Find My. Anti-theft vehicle locator, no subscription needed. Available in 2-pack or 4-pack.
+  Updated: 2026-04-11T13:33:56Z
   Vendor: RACEFAS Car Club Store
   Product Type: 
   Availability: Available
@@ -264,8 +264,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sd7b48cdb153d457286e8fbb0575931fcm.webp?v=1774278828
     Price: R 726.10 ZAR
-- [2026 Car Phone Magnetic Holder Multi-Functional Vacuum Adsorption Stretching And Folding 360° Rotation Navigation Phone Stand](https://dealplug-7883.myshopify.com/products/2026-car-phone-magnetic-holder-multi-functional-vacuum-adsorption-stretching-and-folding-360-rotation-navigation-phone-stand): Car Phone Magnetic Holder Multi-Functional Vacuum Adsorption Stretching And Folding 360° Rotation Navigation Phone Stand Name: 360 degree Rotating Car Suction Cup Phone StandMaterial: Aluminum alloy ABSColor: black/white/sliverStyle: Regular/upgradedSize: 6.5 * 5cm/2.56 * 1.97 inchesApplicable models: 4.7-inch or above smartphones Specification: 1.Strong Magnetic Absorption for Secure SupportEquipped with 16 powerful magnets, this car phone holder offers a strong magnetic force that keeps your phone securely in place even on bumpy roads. Ideal for 4.7-inch or larger smartphones, it ensures your device stays stable during your drive.2.Dual-Sided Vacuum Suction for Versatile MountingFeaturing a vacuum suction design, this phone holder provides double-sided adhesion, allowing it to securely attach to various surfaces. Whether you're placing it on your dashboard or windshield, you can trust its stable grip for universal use.3.360° Rotation for Optimal Viewing AngleThis phone holder offers full 360-degree rotation, allowing you to easily adjust your phone to the perfect viewing angle. Enjoy hands-free navigation or media control while driving, with the flexibility to switch between portrait and landscape modes.4.Wide Compatibility with 4.7-inch and Above SmartphonesDesigned to accommodate a wide range of smartphones, this magnetic car mount is perfect for any phone with a screen size of 4.7 inches or above. Its universal design makes it compatible with most popular phone models, ensuring easy access for all users.5.Durable Aluminum Alloy Build with Anti-Scratch ProtectionMade from high-quality aluminum alloy, this car phone holder is not only durable but also lightweight. It features protective silicone pads that prevent scratches on your phone and offer a non-slip grip, ensuring your device stays safe and secure.
-  Updated: 2026-03-26T09:29:00Z
+- [Magnetic Car Phone Holder 2026 | Strong Magnet Dashboard Mount | DealPlug](https://dealplug-7883.myshopify.com/products/2026-car-phone-magnetic-holder-multi-functional-vacuum-adsorption-stretching-and-folding-360-rotation-navigation-phone-stand): 2026 upgraded magnetic car phone holder. Super strong magnet, universal fit, 360° rotation. Hands-free driving. Shop DealPlug.
+  Updated: 2026-04-11T13:33:56Z
   Vendor: Mobile Phone Accessories 3C Store
   Product Type: 
   Availability: Available
@@ -286,8 +286,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sb6086aa1c7934a87a4c8a9585492893cl.webp?v=1774279638
     Price: R 281.85 ZAR
-- [Vacuum Magnet Bracket Upgraded Version Multi-angles Adjustment Strong Magnetic Suck Design Foldable Car Navigation Phone Holder](https://dealplug-7883.myshopify.com/products/vacuum-magnet-bracket-upgraded-version-multi-angles-adjustment-strong-magnetic-suck-design-foldable-car-navigation-phone-holder): Production: Name: K007/K009/360 degree Rotating Car Suction Cup Phone Stand Material: Aluminum alloy ABSColor: black/white Style: Regular Size: 14 * 5.8*3.5cm/5.5 * 2.2*1.38 inches Applicable models: 4.7-inch or above smartphones Specification: 1.Strong Magnetic Absorption for Secure Support Equipped with 16 powerful magnets, this car phone holder offers a strong magnetic force that keeps your phone securely in place even on bumpy roads. Ideal for 4.7-inch or larger smartphones, it ensures your device stays stable during your drive. 2.Dual-Sided Vacuum Suction for Versatile Mounting Featuring a vacuum suction design, this phone holder provides double-sided adhesion, allowing it to securely attach to various surfaces. Whether you're placing it on your dashboard or windshield, you can trust its stable grip for universal use. 3.360° Rotation for Optimal Viewing Angle This phone holder offers full 360-degree rotation, allowing you to easily adjust your phone to the perfect viewing angle. Enjoy hands-free navigation or media control while driving, with the flexibility to switch between portrait and landscape modes. 4.Wide Compatibility with 4.7-inch and Above Smartphones Designed to accommodate a wide range of smartphones, this magnetic car mount is perfect for any phone with a screen size of 4.7 inches or above. Its universal design makes it compatible with most popular phone models, ensuring easy access for all users. 5.Durable Aluminum Alloy Build with Anti-Scratch Protection Made from high-quality aluminum alloy, this car phone holder is not only durable but also lightweight. It features protective silicone pads that prevent scratches on your phone and offer a non-slip grip, ensuring your device stays safe and secure. 6.Security and convenience This car phone holder features a 360-degree rotation capability and an adjustable design, enabling you to position your phone at any angle for the best visibility. It enhances both safety and convenience while driving. The holder is elegantly designed, robust, and attractive. Made from high-quality materials, it remains in excellent condition over time and is safer than plastic, even in high temperatures.
-  Updated: 2026-03-26T09:29:00Z
+- [Vacuum Suction Magnetic Phone Bracket | Car & Desk Mount | DealPlug](https://dealplug-7883.myshopify.com/products/vacuum-magnet-bracket-upgraded-version-multi-angles-adjustment-strong-magnetic-suck-design-foldable-car-navigation-phone-holder): Strong vacuum suction magnetic phone bracket for cars and desks. Universal fit, easy install, secure hold. Shop DealPlug.
+  Updated: 2026-04-11T13:33:56Z
   Vendor: JYGC High Quality Global Original Store
   Product Type: 
   Availability: Available
@@ -309,7 +309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S937a7cdd6bbb42e99cb3b0b5c2bd4ddb0.webp?v=1774280058
     Price: R 195.55 ZAR
 - [100/50/20PCS Black Nitrile Gloves Thickened Disposable Gloves for Cleaning Hairdressing  Waterproof Dishwashing Tattoo Gloves](https://dealplug-7883.myshopify.com/products/100-50-20pcs-black-nitrile-gloves-thickened-disposable-gloves-for-cleaning-hairdressing-waterproof-dishwashing-tattoo-gloves): Welcome to our storeProduct DescriptionHigh quality materials: These gloves are made of black nitrile and do not contain powder or latex, making them safe for allergic individuals.Touch screen compatibility: With these gloves, you don't need to remove them to use touch screen devices.
-  Updated: 2026-03-26T09:29:00Z
+  Updated: 2026-04-11T13:33:57Z
   Vendor: All Blue Store
   Product Type: 
   Availability: Available
@@ -362,15 +362,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sd653943137b248c38e28be0a8803bfcao.webp?v=1774280850
     Price: R 110.54 ZAR
-- [Pulse Neck Massager Electric Smart EMS Cervical Massagers TENS Pain Relief Relaxation Muscle Kneading Massage](https://dealplug-7883.myshopify.com/products/pulse-neck-massager-electric-smart-ems-cervical-massagers-tens-pain-relief-relaxation-muscle-kneading-massage-1): Pulse Neck Massager Electric Smart EMS Cervical Massagers TENS Pain Relief Relaxation Muscle Kneading MassageNote: The massager has no voice and heating, only blue light during work.SpecificationItem Type: Smart Neck MassagerColor: WhiteMaterial: ABS+Silica GelPower: 1.5wWorking Time: 15min (intelligent timing shutdown)Voltage: 5V 0.3ABattery: 200mAhFeatures1) High frequency mute: noise reduction design, very quiet, almost no sound2 )Lightweight and comfortable: 90g, light and thin, more comfortable to wear3) Full silicone bracket: softer, less pressure, neck size fits4) Micro-curved surface design: ergonomic design, fits the skin surface5) Strong endurance: built-in lithium battery, USB charging, one charge, 15 minutes of daily use, 15 days of sustainable use, long battery life.6) TENS pulse massage: low-frequency pulsed electromagnetic current is conducted to the skin, and by activating the cells of the human body, it prevents soreness caused by muscle stiffness.7) 15 levels of strenght can be adjusted, 10 kinds of electric pulse mode,15min is interlligent timing shutdown.
-  Updated: 2026-03-26T09:29:00Z
+- [Pulse Neck Massager | Electric EMS Cervical Pain Relief | DealPlug](https://dealplug-7883.myshopify.com/products/pulse-neck-massager-electric-smart-ems-cervical-massagers-tens-pain-relief-relaxation-muscle-kneading-massage-1): Electric pulse neck massager for cervical pain relief. EMS technology, portable, rechargeable. Relieve tension at home or work. Shop DealPlug.
+  Updated: 2026-04-11T13:33:57Z
   Vendor: Stone's Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sf9384708180d47cfb35de37c956aa420Q_a236e6b3-025c-4e86-b97b-77c89b24c2a5.webp?v=1774280940
   Price: R 248.46 ZAR
-- [Dog Cooling Mat Summer Pet Cold Bed Extra Large For Small Big Dogs Pet Accessories Cat Durable Blanket Sofa Cat Ice Pad Blanket](https://dealplug-7883.myshopify.com/products/dog-cooling-mat-summer-pet-cold-bed-extra-large-for-small-big-dogs-pet-accessories-cat-durable-blanket-sofa-cat-ice-pad-blanket)
-  Updated: 2026-03-26T09:29:01Z
+- [Dog Cooling Mat | Self-Cooling Pet Bed for Dogs & Cats | All Sizes](https://dealplug-7883.myshopify.com/products/dog-cooling-mat-summer-pet-cold-bed-extra-large-for-small-big-dogs-pet-accessories-cat-durable-blanket-sofa-cat-ice-pad-blanket): Keep pets cool in summer with this self-cooling gel mat. Available in 6 colours and sizes XS to 2XL. Suitable for dogs and cats. Shop DealPlug.
+  Updated: 2026-04-11T13:33:57Z
   Vendor: SURLYPETS Store
   Product Type: 
   Availability: Available
@@ -515,8 +515,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S8667763ff3924881b0c0abb96d5fcf6bs_f666bb57-8234-4090-9946-415347adc1bb.webp?v=1774281043
     Price: R 125.60 ZAR
-- [Car Plastic Restorer Back To Black Gloss Plastic Renovator Longlasting Coating Leather Restore Auto Polish Cleaning Products](https://dealplug-7883.myshopify.com/products/car-plastic-restorer-back-to-black-gloss-plastic-renovator-longlasting-coating-leather-restore-auto-polish-cleaning-products): Features: This product can effectively solve the aging phenomena such as whitening and fading of plastic trim, and restore like new color. The high-hardness Ceramic Coating can ensure that the rain cannot wash off the coating, and can protect the plastic parts for a long time and prevent aging. Step: 1. Clean and dry surface. 2. Shake, then apply a few drops directly into sponge. 3. Spread evenly over the plastic surface. 4. Buff off any excess residue with a microfiber towel. 5. Finish and wait to solidify.Generally dry in half an hour and form a complete coating in 24 hours. Note: Our store adopts online distribution mode, which will be safer, faster, and can track logistics.Our 24-hour customer service is online. If you have any questions about the product, please contact customer service, and we will solve the problem for you.
-  Updated: 2026-03-26T09:29:01Z
+- [Car Plastic Restorer | Trim & Bumper Restorer Coating | DealPlug](https://dealplug-7883.myshopify.com/products/car-plastic-restorer-back-to-black-gloss-plastic-renovator-longlasting-coating-leather-restore-auto-polish-cleaning-products): Restore faded car plastic trim, bumpers & panels to like-new condition. Easy to apply, long-lasting protection. Shop DealPlug.
+  Updated: 2026-04-11T13:33:57Z
   Vendor: Shop1104237084 Store
   Product Type: 
   Availability: Available
@@ -541,8 +541,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sa01de8528c0b4b6e8864636ca3705e176.webp?v=1774281082
     Price: R 147.84 ZAR
-- [30g Nail Rhinestone Glue for Nails Super Strong Gel Nail Glue for Nail Charm 3D Nails Bling Gel Decoration Gem Nail Art Diamonds](https://dealplug-7883.myshopify.com/products/30g-nail-rhinestone-glue-for-nails-super-strong-gel-nail-glue-for-nail-charm-3d-nails-bling-gel-decoration-gem-nail-art-diamonds): Product Feature Item: Super Strong Nail Glue Condition: 100% Brand New Feature: No impurities, no whitening, no bubbles, long lasting,  with uv lamp Usage: False nail tips fake nails glue, nail rhinestone accessories glue Capacity: 30g/15 Quantity: 1 piece
-  Updated: 2026-03-26T09:29:01Z
+- [Nail Rhinestone Glue 30g | Strong Nail Art Adhesive | DealPlug](https://dealplug-7883.myshopify.com/products/30g-nail-rhinestone-glue-for-nails-super-strong-gel-nail-glue-for-nail-charm-3d-nails-bling-gel-decoration-gem-nail-art-diamonds): Professional 30g nail rhinestone glue for gems, crystals & nail art. Strong hold, long-lasting. Perfect for DIY nail designs. Shop DealPlug.
+  Updated: 2026-04-11T13:33:58Z
   Vendor: Misscheering Official Store
   Product Type: 
   Availability: Available
@@ -591,8 +591,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S851b08d3c25a4b89936b5add3f85a8496.webp?v=1774281131
     Price: R 70.16 ZAR
-- [Car Ceramic Nano Coating Liquid Coatin Nano Crystal Hydrophobic Layer Polishing Paint Coating Agent Car Polish Nanos Coatings](https://dealplug-7883.myshopify.com/products/car-ceramic-nano-coating-liquid-coatin-nano-crystal-hydrophobic-layer-polishing-paint-coating-agent-car-polish-nanos-coatings): CJTHK Automotive Ceramic Super Hydrophobic Nano CoatingsFunction:1.Excellent scratch resistance and high wear resistance. High hardness and brightness.2.Anti aging, long service life, coating can be used for more than 1 year.3.Provide excellent car shine, durable all-weather protection, and strong hydrophobic water droplets in just a few seconds!4.UV resistant function. High hardness and anti-aging effect. Protect your car from the effects of aging, fading, weather and sunlight erosion, acid rain, industrial powder, etc.5.Anti static, dustproof, scratch resistant, anti icing and anti snow.Widely used in automotives:paint surfaces, glass, edges, lampshades, mahogany, metal surfaces, etc.Simple use:1.Spray the coating agent evenly on the vehicle body2. Use a complimentary sponge to spray and wipe the car paint.3. Use a towel to wipe and shine!(If you have any questions about the operation, please watch the  video or ask customer service)
-  Updated: 2026-03-26T09:29:01Z
+- [Car Ceramic Nano Coating | Hydrophobic Paint Protection | DealPlug](https://dealplug-7883.myshopify.com/products/car-ceramic-nano-coating-liquid-coatin-nano-crystal-hydrophobic-layer-polishing-paint-coating-agent-car-polish-nanos-coatings): Professional car ceramic nano coating for hydrophobic paint protection. Repels water, dirt & UV damage. Long-lasting shine. Shop DealPlug.
+  Updated: 2026-04-11T13:33:58Z
   Vendor: Shop1104237084 Store
   Product Type: 
   Availability: Available
@@ -629,15 +629,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sfaa507cae98441f3a1e77de3e6772dde6_09fe958e-48c0-4929-950d-6475364e8472.webp?v=1774281425
     Price: R 94.46 ZAR
-- [CARSUN Rechargeable Air Pump Tire Inflator Portable Compressor Digital Cordless Car Tyre Inflator For Motocycle Bicycle Balls](https://dealplug-7883.myshopify.com/products/carsun-rechargeable-air-pump-tire-inflator-portable-compressor-digital-cordless-car-tyre-inflator-for-motocycle-bicycle-balls): CARSUN Rechargeable Air Pump Tire Inflator Portable Compressor Digital Cordless Car Tyre Inflator For Bicycle Balls Mobile Power
-  Updated: 2026-03-26T09:29:01Z
+- [CARSUN Rechargeable Tyre Air Pump | Portable Car Inflator | DealPlug](https://dealplug-7883.myshopify.com/products/carsun-rechargeable-air-pump-tire-inflator-portable-compressor-digital-cordless-car-tyre-inflator-for-motocycle-bicycle-balls): CARSUN portable rechargeable tyre inflator. Digital pressure gauge, auto shut-off. For cars, bikes & balls. Shop DealPlug.
+  Updated: 2026-04-11T13:33:58Z
   Vendor: CARSUN Official Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S119ffbbd796e4774bf125d37dd19845cB.webp?v=1774281461
   Price: R 1,206.74 ZAR
-- [24/36/48/60/80/120/168/262 Colors Alcohol Drawing Markers Dual Tip Permanent Art Sketch Markers for Illustration School Supplied](https://dealplug-7883.myshopify.com/products/24-36-48-60-80-120-168-262-colors-alcohol-drawing-markers-dual-tip-permanent-art-sketch-markers-for-illustration-school-supplied)
-  Updated: 2026-03-26T09:29:01Z
+- [Alcohol Art Markers | Dual Tip Sketch Markers | 12 to 262 Colours](https://dealplug-7883.myshopify.com/products/24-36-48-60-80-120-168-262-colors-alcohol-drawing-markers-dual-tip-permanent-art-sketch-markers-for-illustration-school-supplied): Shop dual-tip alcohol drawing markers in sets of 12 to 262 colours. Perfect for illustration, manga, and art. Vibrant, blendable, permanent ink.
+  Updated: 2026-04-11T13:33:58Z
   Vendor: Shop1103053265 Store
   Product Type: 
   Availability: Available
@@ -694,8 +694,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S4f02321e04804349858dab2ec78d7cb1K.webp?v=1774281492
     Price: R 400.08 ZAR
-- [Vintage Men Women Big Sunglasses Men Square Shades Brand Designer Unisex Sun Glasses Black Lense Male Female Sunglasses UV400](https://dealplug-7883.myshopify.com/products/vintage-men-women-big-sunglasses-men-square-shades-brand-designer-unisex-sun-glasses-black-lense-male-female-sunglasses-uv400)
-  Updated: 2026-03-26T09:29:02Z
+- [Vintage Square Sunglasses UV400 | Unisex Oversized Shades](https://dealplug-7883.myshopify.com/products/vintage-men-women-big-sunglasses-men-square-shades-brand-designer-unisex-sun-glasses-black-lense-male-female-sunglasses-uv400): Shop vintage oversized square sunglasses with UV400 protection. Unisex design, black lens, 7 styles available. Affordable designer-inspired look.
+  Updated: 2026-04-11T13:33:59Z
   Vendor: Fashion Glasses 1 Store
   Product Type: 
   Availability: Available
@@ -728,8 +728,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S1b4d358194e648729ffcbe57473e1404I.webp?v=1774281585
     Price: R 67.42 ZAR
-- [Luxury Plating Shockproof Magnetic Bracket For Magsafe Clear Case For iPhone 15 16 14 13 12 17 Pro Max With Holder Stand Cover](https://dealplug-7883.myshopify.com/products/luxury-plating-shockproof-magnetic-bracket-for-magsafe-clear-case-for-iphone-15-16-14-13-12-17-pro-max-with-holder-stand-cover): Luxury Plating Shockproof Magnetic Bracket for Magsafe Clear Case for iPhone 1615 11 12 13 14 Pro Max Plus With Holder Stand Cover Product Description:1.New Brand Luxury Fashion Phone back Cover Case2.With high quality and low price3.Protects your phone from dirt,scratches,dings and shockAbove 10 pcs is preferred,and you will get 10% offOur Service:1, Fast Shipping 1-3 Days + Timely Reply + Positive Attitude2, Quickly Solve the Problem for Every Customer3, Drop Shipping Support! Wholesale Support!4, Russian friends,please leave your FULL NAME to receive the parcel Welcome to our store,we are trying to give our customers best products and services,if you have any questions/concerns,please don't hesitate to contact us,hope you have a good mood here.Best regards XEBER TEAM
-  Updated: 2026-03-26T09:29:02Z
+- [Luxury Magnetic Shockproof Phone Case with Bracket | DealPlug](https://dealplug-7883.myshopify.com/products/luxury-plating-shockproof-magnetic-bracket-for-magsafe-clear-case-for-iphone-15-16-14-13-12-17-pro-max-with-holder-stand-cover): Plated luxury shockproof magnetic phone case with built-in bracket stand. Stylish protection for your smartphone. Shop DealPlug.
+  Updated: 2026-04-11T13:33:59Z
   Vendor: SZDBR Store
   Product Type: 
   Availability: Available
@@ -934,8 +934,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S018dc2af2be84f2b9ad5c1e5412fe351V_cacb9c8e-f686-47f7-ba70-431c00c1cd17.webp?v=1774281628
     Price: R 117.74 ZAR
-- [100W Fast Wireless Charger Pad for iPhone 15 14 13 12 11 Pro Max Samsung Galaxy S24 S23 S22 S20 Xiaomi Wireless Charging Station](https://dealplug-7883.myshopify.com/products/100w-fast-wireless-charger-pad-for-iphone-15-14-13-12-11-pro-max-samsung-galaxy-s24-s23-s22-s20-xiaomi-wireless-charging-station): Extensive Compatibility: Support 100W/30W/20W/15W/10W/7.5W Output.Our wireless chargers will compatible with All phones that support wireless charging. So if your phones support wireless charging,Just buy it! Easy Wireless Charging and Case friendly: The fast wireless charger allows you to charge your device at a higher charging speed which up to 1.8X faster than standard wireless charger.Don't fumble with your phone case. Inductive charging directly through protective cases up to 6mm/0.23inch thick (not including cases with magnetic or metal attachments). Slim and Cool Design: Lightweight,sleek,compact design with non-slip rubber. This wireless charging pad is just 6mm/0.23inch super slim and takes up very little space make it easier to put it in pockets, a high speed wireless power charging pad can be easily carried during travel or business,This charger feels solid and looks great no matter using it in the office or at home. Smart indicator : When the power is on, the indicator light will be turn on green light for 20 seconds automatically turn off If the charging device is not detected in 20 seconds,In standby,When you put mobile phone or earbuds on to charging. The weak blue light flashes slowly until it is fully charged. The weak light will not affect your sleep. Specifications: Color: Black/White Output : 5W/7.5W/10W/15W/20W/30W/100W Charge efficiency: >75% Charging frequency: 110 - 205 KHz Package Included: 1*Fast Wireless Charger Pad 1*1m Type C USB Cable(Without included if you do not selected ) Extensive Compatibility: Support 100W/30W/20W/15W/10W/7.5W Output. Ourwireless chargers will compatible with All phones that support wireless charging. So if your phones support wireless charging,Just buy it!
-  Updated: 2026-03-26T09:29:02Z
+- [100W Fast Wireless Charging Pad | Qi Charger for iPhone & Android | DealPlug](https://dealplug-7883.myshopify.com/products/100w-fast-wireless-charger-pad-for-iphone-15-14-13-12-11-pro-max-samsung-galaxy-s24-s23-s22-s20-xiaomi-wireless-charging-station): 100W fast wireless charging pad compatible with iPhone & Android. Slim, efficient Qi charger for home & office. Shop DealPlug.
+  Updated: 2026-04-11T13:33:59Z
   Vendor: LEEOUDA FACTORY STORE Store
   Product Type: 
   Availability: Available
@@ -956,8 +956,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S50fdd21e7c494e0e9108554c12029c210.webp?v=1774281684
     Price: R 101.98 ZAR
-- [Fone Bluetooth Earphones Sports Sleeping Headband Elastic Wireless Headphones Music Eye Mask Wireless Bluetooth Headset Headband](https://dealplug-7883.myshopify.com/products/fone-bluetooth-earphones-sports-sleeping-headband-elastic-wireless-headphones-music-eye-mask-wireless-bluetooth-headset-headband): • Wireless Bluetooth 5.0 :Enjoy seamless connectivity with the latest Bluetooth 5.0 technology for uninterrupted audio streaming. • Active Noise-Cancellation :Block out unwanted noise and distractions with the earphones' active noise-cancellation feature, allowing you to focus on your music. • Volume Control :Adjust the volume of your music or calls with ease using the earphones' built-in volume control feature. • Elastic Wireless Headband :The elastic wireless headband provides a comfortable fit for all-day wear, making it perfect for sports or sleeping. Fone Bluetooth earphones sports sleeping headband elastic wireless headphones music eye mask wireless Bluetooth headset headband
-  Updated: 2026-03-26T09:29:02Z
+- [Fone Wireless Bluetooth Earphones | TWS Earbuds with Mic | DealPlug](https://dealplug-7883.myshopify.com/products/fone-bluetooth-earphones-sports-sleeping-headband-elastic-wireless-headphones-music-eye-mask-wireless-bluetooth-headset-headband): Fone wireless Bluetooth earphones with mic. True wireless stereo, long battery life, comfortable fit. Shop DealPlug South Africa.
+  Updated: 2026-04-11T13:33:59Z
   Vendor: BeeBeeBee Store
   Product Type: 
   Availability: Available
@@ -970,8 +970,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S861cdcf49b1240cd83768ab7a11650c0u.webp?v=1774281740
     Price: R 176.60 ZAR
-- [POEDAGAR Original Luxury Men's Watch Waterproof Luminous Chronograph Men Wristwatch Stainless Steel Quartz Watches For Man Reloj](https://dealplug-7883.myshopify.com/products/poedagar-original-luxury-mens-watch-waterproof-luminous-chronograph-men-wristwatch-stainless-steel-quartz-watches-for-man-reloj): Package Included:1 x POEDAGAR Clock1 x POEDAGAR Box1 x Watchband adjust tool1 x Watch wipe1 x Warranty cardAfter-Sales Service:If you have any questions, please contact us, we will try our best to  with it for you.We will reply within 24 hours.
-  Updated: 2026-03-26T09:29:02Z
+- [POEDAGAR Luxury Men's Watch | Original Quartz Dress Watch | DealPlug](https://dealplug-7883.myshopify.com/products/poedagar-original-luxury-mens-watch-waterproof-luminous-chronograph-men-wristwatch-stainless-steel-quartz-watches-for-man-reloj): POEDAGAR original luxury men's quartz watch. Elegant design, waterproof, stainless steel. Premium style at a great price. Shop DealPlug.
+  Updated: 2026-04-11T13:34:00Z
   Vendor: Stone's Store
   Product Type: 
   Availability: Available
@@ -1028,8 +1028,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sd20a32406646431e99466cad0126d793u.webp?v=1774281773
     Price: R 860.06 ZAR
-- [VENALISA Nail Gel Polish Semi Permanent Gellack Nail Art Salon 120 Color Glitter 7.5ml Soak off Organic UV LED Nail Gel Varnish](https://dealplug-7883.myshopify.com/products/venalisa-nail-gel-polish-semi-permanent-gellack-nail-art-salon-120-color-glitter-7-5ml-soak-off-organic-uv-led-nail-gel-varnish): Elegance Starts Here NEW ARRVIAL HEMA FREE dehydrator/primer/base coat/diamond top coat/matt top coat please click to order Hot  Items Recommendation Original Nail Gel Polish 1.0 & New Nail Gel Polish 2.0 Product Feature :1, High quality nail gel polish from venalisa 2, Each color with single luxury box , one box one gel3, More luxurious colors (60 colors) for selection 4, More eco-friendly and healthy raw material VENALISA 7.5ml Nail Gel Polish 1.0 color number 901-960 please click to order whole VIP kit nail gel polish 1.0 VENALISA 7.5ml Nail Gel Polish 2.0 update grade single bottle with luxury box color number 31-90please click to order whole VIP kit nail gel polish 2.0 See venalisa color gel in real life Color chart of VENALISA 7.5ml Nail Gel Polish 1.0 color number 901-960 Color chart of VENALISA 7.5ml Nail Gel Polish 2.0 color number 31-90 Venalisa 3.0 Nail Gel Polish Using Step of Venalisa new nail gel polish Primer - Base Coat - Color Gel - Top Coatprimer no need nail lamp to  , after that , please  by nail lamp ,then lasting time will be longer ,please click to order base coat and top coat Hot  Products Recommendation
-  Updated: 2026-03-26T09:29:03Z
+- [VENALISA Nail Gel Polish | Long-Lasting UV Gel Nail Colour | DealPlug](https://dealplug-7883.myshopify.com/products/venalisa-nail-gel-polish-semi-permanent-gellack-nail-art-salon-120-color-glitter-7-5ml-soak-off-organic-uv-led-nail-gel-varnish): VENALISA professional UV gel nail polish. Long-lasting, chip-resistant, vibrant colours. Perfect for home & salon use. Shop DealPlug.
+  Updated: 2026-04-11T13:34:00Z
   Vendor: V6 Nail Art Store
   Product Type: 
   Availability: Available
@@ -1234,8 +1234,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Hb1179df0ac55498da3b5778711b5817bK.webp?v=1774281803
     Price: R 70.84 ZAR
-- [100pcs Disposable Double-ended Cotton Swabs for Ear Cleaning and Makeup Removal](https://dealplug-7883.myshopify.com/products/100pcs-disposable-double-ended-cotton-swabs-for-ear-cleaning-and-makeup-removal)
-  Updated: 2026-03-26T09:29:03Z
+- [Disposable Double-Ended Cotton Swabs | Ear Cleaning & Makeup | 100pcs](https://dealplug-7883.myshopify.com/products/100pcs-disposable-double-ended-cotton-swabs-for-ear-cleaning-and-makeup-removal): 100-pack double-ended cotton swabs for ear cleaning and makeup removal. Round, pointed & spin tips. Buy in bulk and save. Shop DealPlug.
+  Updated: 2026-04-11T13:34:00Z
   Vendor: Shop1102798019 Store
   Product Type: 
   Availability: Available
@@ -1268,8 +1268,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S2f6180bb4d3b4d208ed340e79fa19739q.webp?v=1774281886
     Price: R 152.64 ZAR
-- [Double Side Silicone Suction Pad For Mobile Phone Fixture Suction Cup Backed Adhesive Silicone Rubber Sucker Pad For Fixed Pad](https://dealplug-7883.myshopify.com/products/double-side-silicone-suction-pad-for-mobile-phone-fixture-suction-cup-backed-adhesive-silicone-rubber-sucker-pad-for-fixed-pad): New similar Product Double Side Silicone Suction Pad For Mobile Phone Fixture Suction Cup Backed Adhesive Rubber Sucker Pad For Fixed Pad USD 0.42 / piece /lot 1 Suction Cup Wall Stand Mat Multifunctional Silicone Square Phone Double-Sided Case Anti-Slip Holder Mount Sucker Pad USD 0.94 / piece /lot 1 Portable Phone Suction Holder Back Of Phone New Silicone Suction Cup Phone Case Adhesive Mount Phone Accessories USD 0.25 / piece /lot 1 Portable Silicone Suction Cup Phone Mount Double-Sided Mount Car Navigation Bracket Universal Mobile Phones Stand USD 1.11 / piece /lot 1 Feature:1. Rectangular and single-sided design with 24 suckers.2. Compatible with most phones and other devices.3. Suction cups provide you with great possibilities of mounting it without adding any scratches to your devices.4. Made of silicone material, plus 3M adhesive on one side, perfect to prevent your phone from falling down.5. Suitable to stick on the smooth surfaces. Specifications:Material: Silicone.Color: Blue, light blue, black,graySize: 8*5.5cm Packing List:1 * Phone mat Note:1.Due to manual measurement, there may be an error of 0-1cm, please understand. 2.The color difference may vary depending on the monitor settings.
-  Updated: 2026-03-26T09:29:03Z
+- [Double-Sided Silicone Suction Pad | Non-Slip Grip Mat | DealPlug](https://dealplug-7883.myshopify.com/products/double-side-silicone-suction-pad-for-mobile-phone-fixture-suction-cup-backed-adhesive-silicone-rubber-sucker-pad-for-fixed-pad): Double-sided silicone suction pad for phones, tablets & surfaces. Strong grip, reusable, non-slip. Versatile everyday tool. Shop DealPlug.
+  Updated: 2026-04-11T13:34:01Z
   Vendor: 3C-Mall Store
   Product Type: 
   Availability: Available
@@ -1354,8 +1354,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S6975f9e501534dc8acaa3b4da38d27d9H.webp?v=1774281914
     Price: R 12.32 ZAR
-- [Pet Bowls With Water Feeder, 3 In 1 Ear Design Tilted Cat Water And Food Bowl Set With Gravity Water Bottle For Neck Protection](https://dealplug-7883.myshopify.com/products/pet-bowls-with-water-feeder-3-in-1-ear-design-tilted-cat-water-and-food-bowl-set-with-gravity-water-bottle-for-neck-protection)
-  Updated: 2026-03-26T09:29:03Z
+- [3-in-1 Tilted Pet Bowl Set with Gravity Water Feeder | Cat & Dog Bowls](https://dealplug-7883.myshopify.com/products/pet-bowls-with-water-feeder-3-in-1-ear-design-tilted-cat-water-and-food-bowl-set-with-gravity-water-bottle-for-neck-protection): Ergonomic tilted pet bowl set with gravity water feeder. Reduces neck strain, keeps pets hydrated. Available in 4 colours. Shop DealPlug.
+  Updated: 2026-04-11T13:34:01Z
   Vendor: Archie Pets Store
   Product Type: 
   Availability: Available
@@ -1377,7 +1377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S2d0af03667f04cd28ed23b3890debbe2t.webp?v=1774281949
     Price: R 262.84 ZAR
 - [USB Rechargeable Motion Sensor Night Light – Cabinet & Bedroom LED | DealPlug](https://dealplug-7883.myshopify.com/products/motion-sensor-night-light-usb-rechargeable-wireless-lamp-under-cabinet-led-lights-for-kitchen-cabinet-bedroom-wardrobe-lighting): Light up any space automatically with this wireless USB rechargeable motion sensor LED light. Perfect for kitchen, bedroom & wardrobe. Shop at DealPlug.
-  Updated: 2026-04-08T18:59:54Z
+  Updated: 2026-04-11T13:34:01Z
   Vendor: PZSUNLY Lighting Store
   Product Type: 
   Availability: Available
@@ -1423,7 +1423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S39485356af584eec9a381a9969b1e216u.webp?v=1774282001
     Price: R 134.50 ZAR
 - [Polarized Driving Sunglasses – Square Large Frame for Men & Women | DealPlug](https://dealplug-7883.myshopify.com/products/outdoor-driving-sunglasses-popular-square-large-frame-sun-glasses-classic-polarized-glasses-men-women-fishing-glasses): Shield your eyes in style with classic polarized square sunglasses. Perfect for driving, fishing & outdoors. For men & women. Shop at DealPlug.
-  Updated: 2026-04-08T18:58:31Z
+  Updated: 2026-04-11T13:34:01Z
   Vendor: KOTTDO Official Store
   Product Type: 
   Availability: Available
@@ -1449,7 +1449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S770af295e9de403b9d4f3d276a82bf5cc.webp?v=1774282074
     Price: R 98.90 ZAR
 - [Super Strong Neodymium Fishing Magnets – Heavy Duty Salvage Magnet | DealPlug](https://dealplug-7883.myshopify.com/products/super-strong-neodymium-fishing-magnets-heavy-duty-imanes-magnet-with-countersunk-hole-eyebolt-for-salvage-magnetic-fishing): Find hidden treasures with super strong neodymium fishing magnets. Heavy duty with countersunk hole & eyebolt for easy salvage. Shop at DealPlug.
-  Updated: 2026-04-08T18:57:33Z
+  Updated: 2026-04-11T13:34:01Z
   Vendor: Shop1102985420 Store
   Product Type: 
   Availability: Available
@@ -1479,7 +1479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S42a66e67d7c24827bfa8260fe65f4c08N.webp?v=1774467792
     Price: R 103.52 ZAR
 - [Magcubic HY300 Pro 4K Projector – Android 11 WiFi6 Home Cinema | DealPlug](https://dealplug-7883.myshopify.com/products/magcubic-projector-hy300-pro-4k-android-11-dual-wifi6-290ansi-allwinner-h713-bt5-0-1080p-1280-720p-home-cinema-outdoor-projetor): Experience 4K home cinema with the Magcubic HY300 Pro. Android 11, dual WiFi6, BT5.0, 290ANSI lumens. Perfect for indoors & outdoors. Shop at DealPlug.
-  Updated: 2026-04-08T18:55:58Z
+  Updated: 2026-04-11T13:34:02Z
   Vendor: Magcubic Flagship Store Store
   Product Type: 
   Availability: Available
@@ -1545,7 +1545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sc345449d5c3c42bab4f6c5af780cede8t.webp?v=1774467807
     Price: R 1,937.54 ZAR
 - [3-in-1 Cordless Vacuum Cleaner – USB Rechargeable Car & Home | DealPlug](https://dealplug-7883.myshopify.com/products/3-in-1-integrated-suction-and-blowing-vacuum-combination-vacuum-cleaner-usb-charging-small-car-household-vacuum-cleaner): Clean your car and home effortlessly with this 3-in-1 suction & blowing USB rechargeable vacuum cleaner. Compact & powerful. Shop at DealPlug.
-  Updated: 2026-04-08T18:54:44Z
+  Updated: 2026-04-11T13:34:02Z
   Vendor: Shop1102794162 Store
   Product Type: 
   Availability: Available
@@ -1559,7 +1559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sd9b0ea0063fa40f6804686a2e8b72d65m.webp?v=1774520214
     Price: R 122.60 ZAR
 - [Smart Curtain Robot – WiFi & Bluetooth Voice Control for Alexa & Google | DealPlug](https://dealplug-7883.myshopify.com/products/tuya-wifi-bt-smart-curtains-robot-wireless-automatic-curtain-opener-voice-remote-control-curtain-motor-for-alexa-google-home): Automate your curtains with this Tuya WiFi & BT smart curtain motor. Works with Alexa & Google Home. Easy wireless install. Shop at DealPlug.
-  Updated: 2026-04-08T18:53:15Z
+  Updated: 2026-04-11T13:34:02Z
   Vendor: RSH Official Store
   Product Type: 
   Availability: Available
@@ -1601,7 +1601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S685f7262e7f54cbe9293fc3e11ea209cm.webp?v=1774522035
     Price: R 291.92 ZAR
 - [Portable Garment Steamer & Steam Iron – Foldable Wet & Dry | DealPlug](https://dealplug-7883.myshopify.com/products/hanging-ironing-machine-cloth-garment-steamer-portable-foldable-rotating-wet-and-dry-flat-steam-iron-hot-steam-home-travelling): Remove wrinkles fast with this portable foldable garment steamer. Wet & dry steam, rotating head, perfect for home & travel. Shop at DealPlug.
-  Updated: 2026-04-08T18:52:35Z
+  Updated: 2026-04-11T13:34:02Z
   Vendor: Hailicare Choice Store
   Product Type: 
   Availability: Available
@@ -1618,8 +1618,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Sdc7bde0655854a8793c56cbf2d31ba19i.webp?v=1774522252
     Price: R 372.19 ZAR
-- [240W 2-in-1 Fast Charging Cable & Phone Holder | DealPlug](https://dealplug-7883.myshopify.com/products/240w-folding-stand-data-cable-2-in-1-fast-charging-phone-holder-braided-charging-cable-type-c-to-usb-phone-computer-universal): Charge and hold your phone at once with this 240W braided Type-C fast charging cable and folding stand. Universal compatibility. Shop at DealPlug.
-  Updated: 2026-04-08T18:51:51Z
+- [240W Fast Charging Cable with Folding Phone Stand | Type-C Braided Cable](https://dealplug-7883.myshopify.com/products/240w-folding-stand-data-cable-2-in-1-fast-charging-phone-holder-braided-charging-cable-type-c-to-usb-phone-computer-universal): 240W braided fast charging cable with built-in folding phone stand. USB-C to USB-A or C-C. Universal compatibility. Shop DealPlug.
+  Updated: 2026-04-11T13:34:03Z
   Vendor: Fireurus Store
   Product Type: 
   Availability: Available
@@ -1632,8 +1632,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S66cb4cd3fb554149935d1388893772b0X.webp?v=1774522454
     Price: R 197.17 ZAR
-- [1.2L Electric Heating Lunch Box with Timer – Double Layer Rice Steamer | DealPlug](https://dealplug-7883.myshopify.com/products/1-2l-electric-heating-lunch-box-9-5h-timer-mini-thermal-box-double-layer-rice-steamer-for-office-workers-lunch-box-electric): Heat your meals anywhere with this 1.2L electric lunch box. 9.5H timer, double layer rice steamer, perfect for office workers. Shop at DealPlug.
-  Updated: 2026-04-08T18:51:01Z
+- [Electric Heating Lunch Box 1.2L | 9.5H Timer | Office Rice Steamer](https://dealplug-7883.myshopify.com/products/1-2l-electric-heating-lunch-box-9-5h-timer-mini-thermal-box-double-layer-rice-steamer-for-office-workers-lunch-box-electric): 1.2L electric lunch box with 9.5-hour timer and double-layer steamer. Heat meals at the office. US, UK, EU, AU & CN plug options. Shop DealPlug.
+  Updated: 2026-04-11T13:34:03Z
   Vendor: shuanglang's Store
   Product Type: 
   Availability: Available
@@ -1659,7 +1659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/S41e0a08361844b55bffd3e7eb8dee850g_9848fe6a-9f0e-4420-b162-f7fd67579db2.webp?v=1774522938
     Price: R 591.50 ZAR
 - [42 Pairs Teeth Whitening Strips – Remove Stains & Freshen Breath | DealPlug](https://dealplug-7883.myshopify.com/products/42pairs-v34-purple-teeth-whitening-strips-fresh-breath-remove-stains-tooth-brightening-stickers-protable-teeth-whitening-product): Get a brighter smile with 42 pairs of V34 purple teeth whitening strips. Removes stains, freshens breath & brightens teeth. Shop now at DealPlug.
-  Updated: 2026-04-08T18:50:04Z
+  Updated: 2026-04-11T13:34:03Z
   Vendor: LuxeGoods Store
   Product Type: 
   Availability: Available
@@ -1676,20 +1676,40 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/Se24eafdcf5d14b099a54571a1c5dd30dz.webp?v=1774523934
     Price: R 319.11 ZAR
+- [Forex for Beginners PDF Guide – Learn Currency ](https://dealplug-7883.myshopify.com/products/forex-for-beginners-the-essential-guide-pdf): Download our beginner-friendly Forex guide and learn how currency  works, how to manage risk, and how to place your first trade. Instant PDF download.
+  Updated: 2026-04-11T13:34:03Z
+  Vendor: DealPlug
+  Product Type: Digital Download
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0656/9892/2599/files/image.png?v=1775717939
+  Price: R 20.00 ZAR
+- [BK Corp Club EA – MT5 Automated  Expert Advisor](https://dealplug-7883.myshopify.com/products/bk-corp-club-ea-professional-mt5-automated--system): Professional MT5 Expert Advisor with automated trade execution, built-in risk management, and institutional-style  logic. Subscribe monthly.
+  Updated: 2026-04-14T03:40:45Z
+  Vendor: BK Corp Club
+  Product Type: Digital Product
+  Availability: Available
+  Price: R 808.50 ZAR
 
 ## Collections
 
-- [Home page](https://dealplug-7883.myshopify.com/collections/frontpage)
-  Updated: 2026-03-26T09:28:58Z
+- [Featured Deals on Gadgets & Accessories - DealPlug](https://dealplug-7883.myshopify.com/collections/frontpage): Shop DealPlug's featured products — top gadgets, car accessories, watches & kitchen tools at the best prices. New deals added regularly.
+  Updated: 2026-04-12T12:26:51Z
   Total Products: 1
-- [Other example products](https://dealplug-7883.myshopify.com/collections/other-example-products)
-  Updated: 2026-03-26T09:28:58Z
+- [Top Deals on Tech & Consumer Products - DealPlug](https://dealplug-7883.myshopify.com/collections/other-example-products): Browse DealPlug's best deals on gadgets, accessories, kitchen tools & more. Quality products at unbeatable prices, delivered across South Africa.
+  Updated: 2026-04-12T12:21:05Z
+  Total Products: 0
+- [Best Online Courses & Digital Learning - DealPlug](https://dealplug-7883.myshopify.com/collections/courses): Explore top-rated online courses and digital learning resources at DealPlug. Grow your skills with affordable courses delivered instantly.
+  Updated: 2026-04-12T12:15:49Z
   Total Products: 0
 
 ## Store Pages
 
 - [Contact](https://dealplug-7883.myshopify.com/pages/contact)
   Updated: 2026-03-22T11:39:47Z
+- [Frequently Asked Questions](https://dealplug-7883.myshopify.com/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
+  Updated: 2026-04-12T12:27:54Z
+- [ Dashboard](https://dealplug-7883.myshopify.com/pages/)
+  Updated: 2026-04-12T12:35:57Z
 
 ## Policies
 
