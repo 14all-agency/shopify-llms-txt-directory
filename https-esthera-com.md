@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-06-11T13:43:53Z
 - Contact Email: esthera@esthera.com
-- Updated At: 2026-04-05T00:00:50.157Z
+- Updated At: 2026-04-16T00:00:43.824Z
 
 ## Products
 
@@ -306,26 +306,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/5pm_preto_frente.png?v=1755196577
   Price: $413.00 USD
-- [RIDER Shoulder bag Merlot Red](https://esthera.com/products/rider-shoulder-bag-merlot-red): Hobo bag in waterproof and resistant nylon with details and leather strap that add sophistication and durability. The unique adjustable strap allows switching between shoulder and crossbody use, ensuring versatility for different occasions.
-  Updated: 2026-04-02T03:39:16Z
+- [Esthera RIDER Shoulder bag Merlot Red](https://esthera.com/products/rider-shoulder-bag-merlot-red): Esthera Waterproof Nylon Hobo Bag. A luxury crossbody with premium leather details and gold-plated hardware. Durable style for any weather.
+  Updated: 2026-04-15T17:33:27Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/rider_vermelho_lado.webp?v=1775057951
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/rider_vermelho_frente.webp?v=1775823455
   Price: $172.00 USD
-- [RIDER Shoulder bag Black](https://esthera.com/products/rider-shoulder-bag-black): Hobo bag in waterproof and resistant nylon with details and leather strap that add sophistication and durability. The unique adjustable strap allows switching between shoulder and crossbody use, ensuring versatility for different occasions.
-  Updated: 2026-04-01T09:34:38Z
+- [Esthera RIDER Shoulder bag Black](https://esthera.com/products/rider-shoulder-bag-black): Esthera Black Nylon Hobo Bag. A waterproof designer purse with genuine leather details and gold hardware. The perfect versatile black bag.
+  Updated: 2026-04-15T17:35:27Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/EBN000001CE002_black_02.webp?v=1769558168
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/rider_preto_frente.webp?v=1775823269
   Price: $172.00 USD
 - [RIDER Shoulder bag Green](https://esthera.com/products/rider-shoulder-bag-green): Hobo bag in waterproof and resistant nylon with details and leather strap that add sophistication and durability. The unique adjustable strap allows switching between shoulder and crossbody use, ensuring versatility for different occasions.
-  Updated: 2026-04-01T09:34:39Z
+  Updated: 2026-04-11T00:13:23Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/EBN000001CE099_green_02.webp?v=1769558408
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/rider_verde_frente.webp?v=1775823195
   Price: $172.00 USD
 - [LUNA Shoulder bag Green](https://esthera.com/products/luna-shoulder-bag-green): Half-moon shaped bag, crafted in lightweight material with leather details that reinforce thebrand’s identity. The adjustable strap with shoulder pad provides comfort during extended use and allows switching between shoulder or crossbody styles.
   Updated: 2026-04-01T09:34:39Z
@@ -363,11 +363,11 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/11pm_areia_frente.webp?v=1771938238
   Price: $367.00 USD
 - [CRAB POUCH Shoulder Bag Black](https://esthera.com/products/crab-pouch-shoulder-bag-black): Crab Pouch bag in genuine leather with 100% cotton lining. The ergonomic base adapts comfortably to the body, while the sliding opening ensurespracticality in accessing items. It features an adjustable strap for shoulder or crossbody useand a short dual-function strap that allows personalization with themed tips. Metals with protective finish complete the sophisticated design.
-  Updated: 2026-04-02T03:36:04Z
+  Updated: 2026-04-11T00:00:10Z
   Vendor: Esthera US
   Product Type: Bag
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/pouch_preto_frente_8c9c870a-48fc-41bc-a00e-442db7a02f33.webp?v=1775057758
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/esthera_pouch_preta_frente.webp?v=1775822874
   Price: $325.00 USD
 - [CRAB POUCH Shoulder Bag Merlot Red](https://esthera.com/products/crab-pouch-shoulder-bag-merlot-red): Crab Pouch bag in genuine leather with 100% cotton lining. The ergonomic base adapts comfortably to the body, while the sliding opening ensurespracticality in accessing items. It features an adjustable strap for shoulder or crossbody useand a short dual-function strap that allows personalization with themed tips. Metals with protective finish complete the sophisticated design.
   Updated: 2026-04-01T17:04:06Z
@@ -707,11 +707,11 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/passportholder_verde_frente.webp?v=1771943743
   Price: $79.00 USD
 - [PASSPORT HOLDER Caramel](https://esthera.com/products/passport-holder-caramel): Esthera’s Passport Holder in genuine leather, available in playful colors.Practical and versatile, it features a small wrist strap, ideal for travel or everyday use
-  Updated: 2026-04-02T03:40:56Z
+  Updated: 2026-04-11T00:59:47Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/passportholder_laranja_frente_9ea98fc8-6d4a-465a-89f9-b6e3693c5418.webp?v=1775058051
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/passport_holder_caramelo_frente.webp?v=1775825983
   Price: $79.00 USD
 - [PASSPORT HOLDER Burgundy](https://esthera.com/products/passport-holder-burgundy): Esthera’s Passport Holder in genuine leather, available in playful colors.Practical and versatile, it features a small wrist strap, ideal for travel or everyday use
   Updated: 2026-04-01T09:34:46Z
@@ -770,7 +770,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/MODULAR_WALLET_BURGUNDY_FRENTE.webp?v=1772144830
   Price: $68.00 USD
 - [MODULAR WALLET Orange Multi](https://esthera.com/products/modular-wallet-orange-multi): Modular Wallet in genuine leather with 100% polyester lining.Versatile and functional, it features a removable pocket and compartments for coins,cards, and essential items.
-  Updated: 2026-04-01T09:34:47Z
+  Updated: 2026-04-10T00:46:36Z
   Vendor: Esthera US
   Product Type: Acessories
   Availability: Available
@@ -901,22 +901,22 @@
   Updated: 2026-04-02T06:14:51Z
   Total Products: 12
 - [ Esthera](https://esthera.com/collections/-esthera)
-  Updated: 2026-04-04T06:14:21Z
+  Updated: 2026-04-15T06:16:04Z
   Total Products: 29
 - [Collection Esthera](https://esthera.com/collections/collection-esthera)
-  Updated: 2026-04-04T06:14:20Z
+  Updated: 2026-04-15T06:16:03Z
   Total Products: 8
 - [NEW COLLECTION AM | PM 2](https://esthera.com/collections/new-collection-am-pm-2): Esthera is for those who seek the extraordinary in every moment,transforming routine into a memorable experience.A fusion of style and functionality.Everyday objects, reimagined with Brazilian design.For those who don’t live an ordinary life.Esthera. No ordinary life, no ordinary bags.
-  Updated: 2026-04-04T06:14:22Z
+  Updated: 2026-04-15T06:16:05Z
   Total Products: 65
 - [Small Leather Goods](https://esthera.com/collections/small-leather-goods)
   Updated: 2026-04-01T09:34:34Z
   Total Products: 18
 - [Scarfs](https://esthera.com/collections/scarfs)
-  Updated: 2026-04-04T06:14:23Z
+  Updated: 2026-04-15T06:16:06Z
   Total Products: 3
 - [Clutches](https://esthera.com/collections/clutches)
-  Updated: 2026-04-04T06:14:23Z
+  Updated: 2026-04-15T06:16:07Z
   Total Products: 6
 
 ## Store Pages
@@ -939,6 +939,8 @@
   Updated: 2025-11-19T12:39:20Z
 - [Mix and Match](https://esthera.com/pages/collection-bundle)
   Updated: 2025-11-26T11:45:55Z
+- [Care for your Esthera](https://esthera.com/pages/care-for-your-esthera)
+  Updated: 2026-04-14T16:05:43Z
 
 ## Policies
 
