@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-03-30T15:28:07Z
 - Contact Email: mrkalyan@yahoo.com
-- Updated At: 2026-04-09T00:00:22.336Z
+- Updated At: 2026-04-17T00:00:34.844Z
 
 https://zenzecosmetics.myshopify.com/
 
@@ -157,7 +157,7 @@ https://zenzecosmetics.myshopify.com/
     Image: https://cdn.shopify.com/s/files/1/0725/9920/8026/files/6f25914bc875201410a7e8127e848ad5.jpg?v=1774886451
     Price: $12.99 USD
 - [Waterproof Microblading Eyebrow Pencil – Long-Lasting Wooden Tattoo Brow Pen for Natural, Defined, Flawless Arches](https://zenzecosmetics.myshopify.com/products/microblading-wooden-permanent-eyebrow-pencil-tattoo-waterproof-art-tint-makeup-eye-brow-pen-enhancers): Shape, Define, and Enhance with Microblading Magic Get the brows you've always wanted with this Microblading Wooden Eyebrow Pencil, designed for effortless definition and lasting wear. Its ultra-fine tip mimics real brow hairs with stunning precision, giving you that natural microbladed effect without the commitment. Waterproof and smudge-proof, it stays flawless through sweat, humidity, and long days. Whether you're filling in sparse areas or reshaping your entire arch, this pencil makes it easy to achieve bold, sculpted brows that still look beautifully natural. This isn’t just a brow pencil—it’s your shortcut to salon-style brows that won’t fade or smear. The smooth formula glides on seamlessly for clean strokes that last all day. Its waterproof and tattoo-inspired tint delivers rich pigment with zero flaking or fading. Crafted in a classic wooden design for easy sharpening and control, it’s ideal for creating everything from soft, feathered brows to bold, defined arches. Perfect for every skill level and every brow goal.
-  Updated: 2026-03-31T04:01:03Z
+  Updated: 2026-04-13T11:51:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -1125,10 +1125,10 @@ https://zenzecosmetics.myshopify.com/
   Updated: 2026-03-30T16:00:43Z
   Total Products: 1
 - [New Arrivals](https://zenzecosmetics.myshopify.com/collections/new-arrivals)
-  Updated: 2026-03-30T16:05:46Z
+  Updated: 2026-04-14T11:20:04Z
   Total Products: 129
 - [New Arrivals](https://zenzecosmetics.myshopify.com/collections/new-arrivals-1)
-  Updated: 2026-03-30T16:05:46Z
+  Updated: 2026-04-14T11:20:04Z
   Total Products: 129
 - [Face Foundations & Base Makeup](https://zenzecosmetics.myshopify.com/collections/face-foundations-base-makeup)
   Updated: 2026-03-30T16:01:57Z
@@ -1137,7 +1137,7 @@ https://zenzecosmetics.myshopify.com/
   Updated: 2026-03-30T16:01:58Z
   Total Products: 5
 - [Eye Makeup – Brows Lashes & Liners](https://zenzecosmetics.myshopify.com/collections/eye-makeup-brows-lashes-liners)
-  Updated: 2026-03-30T16:02:08Z
+  Updated: 2026-04-14T11:20:04Z
   Total Products: 7
 - [Lipsticks Glosses & Lip Care](https://zenzecosmetics.myshopify.com/collections/lipsticks-glosses-lip-care)
   Updated: 2026-03-30T16:01:40Z
