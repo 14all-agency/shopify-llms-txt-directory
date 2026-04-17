@@ -6,12 +6,12 @@
 - Timezone: America/Denver
 - Created At: 2021-11-30T20:24:02Z
 - Contact Email: info@powerinmotion.ca
-- Updated At: 2026-04-09T18:11:02.129Z
+- Updated At: 2026-04-17T00:00:25.063Z
 
 ## Products
 
 - [MotionHeat | Heated Gloves Complete Set](https://motionheat.com/products/heated-glove-liner-complete-set): Powerful Heated Gloves, with runtimes & temperatures surpassing the competition. Our Heated gloves provide the benefits of a tight comfortable fit. And Adaptability with every type of glove. MotionHeat Heated Gloves are without a doubt the best on the market with limitless options. Shipping Internationally.
-  Updated: 2026-04-09T16:27:11Z
+  Updated: 2026-04-16T16:39:25Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -137,7 +137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/products/Untitleddesign.png?v=1707334222
     Price: $460.00 USD
 - [MotionHeat | Heated Insoles](https://motionheat.com/products/heated-insoles-insoles-only): *requires a battery to be used (sold separately) Features: 🔥12V and 16V batteries getting up to 50°C / 122°F ✋ Heating element on toes 🏔️ Flat, lightweight, low-profile design 🔋 Perfect outdoors accessory * must have heated vest or leg strap to use heated insoles Complete Kit Includes: One pair of insoles Two flat-wire cables Owners Manual Click HERE for the full run time chart Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:11Z
+  Updated: 2026-04-16T16:39:26Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -175,14 +175,14 @@
     Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/products/InsoleOnly.png?v=1706047443
     Price: $60.00 USD
 - [MotionHeat | Heated Insole Do It Yourself Kit](https://motionheat.com/products/insole-do-it-yourself-kit-only): Features: 🔥12V and 16V batteries getting up to 50°C / 122°F ✋ Heating element on toes 🏔️ Create your perfect heated insoles specific to your boot or shoe 🔋 Perfect outdoor accessory * must have heated vest or leg strap to use heated insoles Complete Kit Includes: Two heating elements Two bottom adhesive fabric Two top adhesive fabric Two 100cm extension wire cables for connection to heated vest Owners Manual Click HERE for the full run-time chart Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:11Z
+  Updated: 2026-04-16T16:39:26Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/files/DIY-Kit-only-without-legStrips_287b4e88-e777-4b8f-a4e0-85a0c462024c.jpg?v=1760218996
   Price: $45.00 USD
 - [MotionHeat | Heated Glove Liner Only](https://motionheat.com/products/heated-glove-liner-liners-only): Silm, Hot and Comfortable Heated Gloves for any winter. MotionHeat, Heated Glove liners, Heated Gloves, Hottest Heated Gloves, Rechargeable Heated Gloves USA, Alaska, North Dakota, Maine, Minnesota, Wyoming, Montana, Vermont, Wisconsin, New Hampshire, Idaho / Michigan, United Kingdom, France, Germany, Europe, Australia
-  Updated: 2026-04-09T16:27:11Z
+  Updated: 2026-04-16T16:39:26Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -203,14 +203,14 @@
     Availability: Available
     Price: $95.00 USD
 - [Heated Insole - Leg Straps](https://motionheat.com/products/heated-insole-leg-straps): * Does not Include Batteries or Insoles (Sold Separately) Features: 🔥12V and 16V batteries getting up to 60°C 🏔️ lightweight, low profile design 🔋 Perfect outdoors accessory Includes: One pair of insole Leg Straps Click HERE for the full run time chart Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:11Z
+  Updated: 2026-04-16T16:39:26Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/files/LegStrap.png?v=1702939510
   Price: $65.00 USD
 - [Heated Insoles - Complete Set](https://motionheat.com/products/heated-insoles-complete-set): Features: 🕐 12v 1.0Ah batteries (5.0 hours on low / 2.4 hours on high) 🕐 12v 3.2Ah batteries (13.7 hours on low / 6.7 hours on high) 🔥12V Easily Heats up to 50°C / 122°F ✋ Full heating on the base of toes 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory Complete Kit Includes: One pair of heated insoles or DIY Kit Two batteries Two leg straps to house the batteries One charger Pair of Extension Cables Owners Manual Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:16Z
+  Updated: 2026-04-16T16:39:31Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -288,7 +288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/products/InsoleCompleteset12v3.2ah.png?v=1760219715
     Price: $265.00 USD
 - [Heated Wear Essentials Kit](https://motionheat.com/products/heated-wear-essentials-kit): Conquer the Cold with MotionHeat Features: 🕐 3 hours on high / 8 hours on low 🔥12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating on the back of the hand and on every finger 🧥 Heating on the upper torso and lower back 🧦 Base heating from the ball of the foot to tips of toes 🏔️ Portable & easy-to-use 🔋 Centralized Battery System 🔌 Completely Compatible System 📱 Touch screen compatible fingertips Description: Our Heated Wear Essentials Kit has been years in the making. With a completely integrated system operate your headwear. MotionHeat products are designed to be worn as base layers for closer heating element contact and heat transference. Our powerful 12 and 16-volt batteries are designed to keep you warmer than any other product. The Heated Glove Liners started it all with their versatility and unparalleled warmth they can be worn on their own or with a shell on top. Whether you are doing outdoor recreation or working on the job site the liners are adaptable to any application. Core warmth is critical for more frigid conditions. The Motion Heat Heated Vest has four separate heating elements to ensure you are toasty in even the coldest wind chill. With adjustable straps and a shorter cut, it ensures that the vest fits snuggly without bunching up when bending and moving. Constructed with a softshell material it helps block out the cold and insolate the heat. Forget the days of cold toes with MotionHeat Heated Insoles as they offer great heating on the base of the foot from the ball up to the tips of the toes. Easily connected and operated from the heated vest it is plug and play. For the DIY Kit turn any orthotic or specialty insole into a heated one with a little bit of installation. Never fear the cold again with our Heated Wear Essentials Kit. With hands, core and feet covered focus on enjoying what you want to do even in the most frigid conditions. Heated Wear Essentials Combo Kit Includes: One Pair of Glove Liners One Vest One Pair of Insoles or DIY Kit Four Batteries One Fast Charger One Pair of Glove Extension Wires One Pair of Insole Extension Wires Owners Manual Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:16Z
+  Updated: 2026-04-16T16:39:31Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -430,7 +430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/files/PairofInsolesALT.png?v=1697652374
     Price: $835.00 USD
 - [Split Mitten - Insulated Shell](https://motionheat.com/products/split-mitten-insulated-shell): Features: 🖐️ Isolated Index and Middle Finger for tactility 🔥 High insulation Primaloft 💨Windproof 💦 Water-resistant 🏔️ Portable & Easy-to-use 🔋 Save battery life by running the liner at a lower temperature Includes: One pair of regular mittens Wrist Straps Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:17Z
+  Updated: 2026-04-16T16:39:31Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -451,7 +451,7 @@
     Availability: Available
     Price: $75.00 USD
 - [MotionHeat | Heated Single Left or Right Glove](https://motionheat.com/products/heated-glove-liner-left-hand-or-right-hand-glove-liner): *requires a battery to be used (sold separately) Features: 🔥12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating on the back of the hand and on every finger 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory 📱 Touch screen compatible fingertips Includes: A singular glove Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:17Z
+  Updated: 2026-04-16T16:39:31Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -487,7 +487,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Trigger Mitten - Insulated Shell](https://motionheat.com/products/trigger-mitten-insulated-shell): Features: 🖐️ Isolated Index Finger for tactility 🔥 High insulation Primaloft 💨Windproof 💦 Water-resistant 🏔️ Portable & Easy-to-use 🔋 Save battery life by running liner at a lower temperature Includes: One pair of regular mittens Wrist Straps Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:17Z
+  Updated: 2026-04-16T16:39:31Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -508,7 +508,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Chargers](https://motionheat.com/products/chargers): Features: 🔌We have many different accessory chargers to suit your heating needs *Please select the option of a charger Includes: One charger of your choice Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:17Z
+  Updated: 2026-04-16T16:39:31Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -538,7 +538,7 @@
     Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/products/CarCharger_1bc1b824-ca28-4e1d-a4eb-c6d49a12d93c.jpg?v=1677885099
     Price: $15.00 USD
 - [MotionHeat | Rechargeable Batteries | Canada](https://motionheat.com/products/motionheat-rechargeable-batteries): Features: 🔋 We  12V and 16V batteries, which means our gear gets HOT. Most other heated gloves use either 5v or 7v, which simply does not get hot enough, or have a long enough run time. Combo Kit Includes: 2 batteries of your choice 1 charger Single Battery Kit Includes: 1 Battery of your choice Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:17Z
+  Updated: 2026-04-16T16:39:31Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -592,7 +592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/files/14.png?v=1703194978
     Price: $350.00 USD
 - [MotionHeat | Motion Mitts | Canada](https://motionheat.com/products/flip-open-mitten-insulated-shell): High insulation mittens for use with our Heated Gloves. Keep all the Heat of the Heated Gloves trapped inside a comfortable mitten with our Motion Heat Motion Mitts! With zippers to allow access to the fingers on our heated gloves.  Canada Wide Shipping for use in the harshest winters. The Perfect pair to Heated Gloves
-  Updated: 2026-04-09T16:27:20Z
+  Updated: 2026-04-16T16:39:35Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -613,7 +613,7 @@
     Availability: Available
     Price: $75.00 USD
 - [MotionHeat | Heated Vest | Canada](https://motionheat.com/products/motionheat-heated-vest): Motion Heat Heated Vest, can compete with the best Heated Jackets and Vests on the Market. Our Heated Vest has enough Heat to provide warmth in the coldest conditions. Without the bulk of traditional Heated Vests & Jackets. With runtimes up to 12 hours,  sizes for every person, and longer and options for every budget!
-  Updated: 2026-04-09T16:27:20Z
+  Updated: 2026-04-16T16:39:35Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -697,7 +697,7 @@
     Availability: Available
     Price: $725.00 USD
 - [Cables and Accessories](https://motionheat.com/products/cables-and-accessories): Features: 🔌We have many different accessory cables to suit your heating needs *Please select the option of an adaptor and/or charger Includes: One cable of your choice Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:20Z
+  Updated: 2026-04-16T16:39:35Z
   Vendor: Motion Heat
   Product Type: Electronics Component Connectors
   Availability: Available
@@ -747,7 +747,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Heated Glover Liner & Mitten Bundles](https://motionheat.com/products/heated-glover-liner-mitten-bundles): Features: 🕐 Long Lasting: 3 hours (high) / 9 hours (low) with 12v 3.2Ah batteries 🔥ULTRAHOT 12V and 16V batteries getting up to 60°C / 140°F ✋ Full Hand Heating: Even warmth across the back of your hand, fingers, and thumb 🏔️ Portable Design: Compact & Easy-to-use 🔋 Safe Battery: Quality LG cells with a BMS (battery management system) 📱 Touchscreen Compatible: Fingertips usable with touchscreens Each Complete Kit Includes: One pair of heated glove liners One pair of Flip Open Mittens 2 batteries [Extended sets include 4 batteries] One charger [Standard (1ah, 2 batteries) or Fast (4ah, 4 batteries), based on package] One stickman wire Owners Manual (Chart above is for Standard 12V 3.2ah Battery) Click HERE for the entire run-time chart, and HERE for the sizing chart. Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:20Z
+  Updated: 2026-04-16T16:39:35Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -953,7 +953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0557/9122/2836/products/19_67cf27c2-466f-4ebb-be9e-25eee6375d30.png?v=1706115587
     Price: $245.00 USD
 - [Heated Ski Glove 5.0 - Complete Set](https://motionheat.com/products/heated-ski-glove-5-0-complete-set): 🔥 Introducing the All-New Motion Heat Ski Glove 5.0! 🔥 Take your winter adventures to the next level with our latest heated ski gloves—built with the same cutting-edge heating technology as our best- glove liners. Designed for peak performance, these gloves deliver up to 50°C on our 12V batteries and a scorching 60°C on 16V, ensuring unbeatable warmth in even the coldest conditions. Crafted with Hipora® lining, the Ski Glove 5.0 keeps your hands dry and comfortable by providing breathable, windproof, and waterproof protection—just like our renowned mittens. Whether you're carving down the slopes or braving icy winds, these gloves are built to keep up with your every move. 🔥 Key Features:✔ Advanced Heating Technology – Reaches up to 60°C for all-day warmth✔ 12V & 16V Compatible – Customize your heat level based on your battery choice✔ Hipora® Insulation – Breathable, windproof, and waterproof for ultimate comfort✔ Designed for Performance – Ideal for skiing, snowboarding, and extreme winter activities Upgrade your winter gear and make cold hands a thing of the past! Get your hands in the Ski Glove 5.0 today! Each Complete Kit Includes: One pair of heated Ski Glove 5.0 2 batteries [Extended sets include 4 batteries] One charger [Standard (1ah, 2 batteries) or Fast (4ah, 4 batteries), based on package] One stickman wire Owners Manual Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-07T11:02:08Z
+  Updated: 2026-04-14T02:53:55Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -1049,7 +1049,7 @@
     Availability: Available
     Price: $620.00 USD
 - [SKI Glove 5.0](https://motionheat.com/products/ski-glove-5-0): 🔥 Introducing the All-New Motion Heat Ski Glove 5.0! 🔥 Take your winter adventures to the next level with our latest heated ski gloves—built with the same cutting-edge heating technology as our best- glove liners. Designed for peak performance, these gloves deliver up to 50°C on our 12V batteries and a scorching 60°C on 16V, ensuring unbeatable warmth in even the coldest conditions. Crafted with Hipora® lining, the Ski Glove 5.0 keeps your hands dry and comfortable by providing breathable, windproof, and waterproof protection—just like our renowned mittens. Whether you're carving down the slopes or braving icy winds, these gloves are built to keep up with your every move. 🔥 Key Features:✔ Advanced Heating Technology – Reaches up to 60°C for all-day warmth✔ Hipora® Insulation – Breathable, windproof, and waterproof for ultimate comfort✔ Designed for Performance – Ideal for skiing, snowboarding, and extreme winter activities Upgrade your winter gear and make cold hands a thing of the past! Get your hands in the Ski Glove 5.0 today! Please be aware that any products ordered from Power In Motion and shipped internationally may be subject to a 35% import tariff (or more) charged by your country’s customs authorities. This tariff is not included in our pricing and will be collected by the courier or customs office upon delivery. Power In Motion does not control these charges and cannot waive them. We recommend checking with your local customs office for details before placing your order to avoid unexpected costs. Thank you for your understanding,The Power In Motion Team
-  Updated: 2026-04-09T16:27:20Z
+  Updated: 2026-04-16T16:39:35Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -1073,10 +1073,10 @@
 ## Collections
 
 - [MotionHeat | Home page](https://motionheat.com/collections/home-page): Canada's best-heated clothing and heated glove liners. Check out our heated gloves, heated vest, heated insoles, and interchangeable & rechargeable batteries. Alaska, North Dakota, Maine, Minnesota, Wyoming, Montana, Vermont, Wisconsin, New Hampshire, Idaho / Michigan, United Kingdom, France, Germany, Europe, Australia
-  Updated: 2026-04-03T11:05:15Z
+  Updated: 2026-04-12T11:05:11Z
   Total Products: 6
 - [MotionHeat | Heated Clothing | International Store](https://motionheat.com/collections/motionheat-heated-clothing-international): Canada's best-heated clothing and heated glove liners. Check out our heated gloves, heated vest, heated insoles, and interchangeable & rechargeable batteries. Alaska, North Dakota, Maine, Minnesota, Wyoming, Montana, Vermont, Wisconsin, New Hampshire, Idaho / Michigan, United Kingdom, France, Germany, Europe, Australia
-  Updated: 2026-04-09T11:05:44Z
+  Updated: 2026-04-16T11:06:11Z
   Total Products: 17
 
 ## Blogs
