@@ -6,7 +6,7 @@
 - Timezone: America/Lima
 - Created At: 2025-07-15T00:32:01Z
 - Contact Email: sinbaoficialcl@gmail.com
-- Updated At: 2026-04-07T00:00:40.262Z
+- Updated At: 2026-04-17T00:00:40.755Z
 
 ## Products
 
@@ -29,7 +29,7 @@
     Availability: Available
     Price: 59,90 PEN PEN
 - [Compresor Blanco Manga Corta SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/polo-compresor-sinba-blanco): Compresor SINBA blanco manga corta. Tela suplex americana, ajuste ergonómico. Resalta hombros y brazos. Calidad SINBA Perú.
-  Updated: 2026-02-24T22:00:00Z
+  Updated: 2026-04-12T23:17:22Z
   Vendor: Mi tienda
   Product Type: 
   Availability: Available
@@ -298,7 +298,7 @@
 ## Collections
 
 - [Ropa Deportiva Premium Hombre - Colección Evolutiva 25/26 | SINBA](https://www.sinbaofstore.com/collections/coleccion-evolutiva-1-temporada-25-26): Descubre nuestra Colección Evolutiva de ropa deportiva premium para hombre. Compresores, shorts y más. Calidad superior para tu entrenamiento. Envíos a todo Perú.
-  Updated: 2026-03-05T17:57:16Z
+  Updated: 2026-04-13T11:20:16Z
   Total Products: 5
 - [Ropa Gym Hombre Premium - Colección Evolutiva 2 Temporada 25/26 | SINBA](https://www.sinbaofstore.com/collections/coleccion-evolutiva-2-temporada-25-26): Explora la Colección Evolutiva 2 con ropa gym premium para hombre. Compresores de manga larga, shorts y accesorios. Rendimiento y estilo urbano. Perú.
   Updated: 2026-03-05T17:57:16Z
