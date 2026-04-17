@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2010-04-30T15:23:34Z
 - Contact Email: sales@maiden-art.com
-- Updated At: 2026-04-09T00:00:49.000Z
+- Updated At: 2026-04-17T00:00:50.262Z
 
 ## Products
 
@@ -1534,68 +1534,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-sweatshirt-team-royal-front-66114cf48b69b.jpg?v=1726491220
     Price: €139.00 EUR
-- [Denim sherpa jacket REBEL GIRL - Maiden-Art](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex): Unisex Denim Sherpa Jacket - REBEL GIRL Be it the 90s or mid 2000s—a classic denim jacket never goes  - Maiden-Art
-  Updated: 2026-02-23T19:43:27Z
-  Vendor: Maiden-Art
-  Product Type: Unisex denim sherpa jacket
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-  - [Black Denim / XS](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647676759)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-black-denim-front-66115513e998a.jpg?v=1726647055
-    Price: €249.00 EUR
-  - [Black Denim / S](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647709527)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-black-denim-front-66115513e998a.jpg?v=1726647055
-    Price: €249.00 EUR
-  - [Black Denim / M](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647742295)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-black-denim-front-66115513e998a.jpg?v=1726647055
-    Price: €249.00 EUR
-  - [Black Denim / L](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647775063)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-black-denim-front-66115513e998a.jpg?v=1726647055
-    Price: €249.00 EUR
-  - [Black Denim / XL](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647807831)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-black-denim-front-66115513e998a.jpg?v=1726647055
-    Price: €249.00 EUR
-  - [Black Denim / 2XL](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647840599)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-black-denim-front-66115513e998a.jpg?v=1726647055
-    Price: €249.00 EUR
-  - [Black Denim / 3XL](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647873367)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-black-denim-front-66115513e998a.jpg?v=1726647055
-    Price: €249.00 EUR
-  - [Light Denim / XS](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647906135)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-    Price: €249.00 EUR
-  - [Light Denim / S](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647938903)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-    Price: €249.00 EUR
-  - [Light Denim / M](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987647971671)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-    Price: €249.00 EUR
-  - [Light Denim / L](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987648004439)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-    Price: €249.00 EUR
-  - [Light Denim / XL](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987648037207)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-    Price: €249.00 EUR
-  - [Light Denim / 2XL](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987648069975)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-    Price: €249.00 EUR
-  - [Light Denim / 3XL](https://www.maiden-art.com/products/denim-sherpa-jacket-rebel-girl-unisex?variant=47987648102743)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-sherpa-denim-jacket-light-denim-front-66115515a041c.jpg?v=1726491236
-    Price: €249.00 EUR
 - [REBEL GIRL Leather Bomber Jacket - Maiden-Art](https://www.maiden-art.com/products/rebel-girl-leather-bomber-jacket): REBEL GIRL Leather Bomber Jacket Organic sweatshirt: If there’s an item that never goes out of  - Maiden-Art
   Updated: 2026-03-04T01:48:26Z
   Vendor: Maiden-Art
@@ -2340,7 +2278,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_89b7db00-6091-4a51-bc15-8bb3696d665c.jpg?v=1726647830
   Price: €69.00 EUR
 - [Cotton Sweatshirt - Self Love Sweatshirt – Eco-Friendly](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt): Embrace Yourself with the Organic Cotton Sweatshirt  Self Love Sweatshirt Organic Cotton Sweatshirt  - Maiden-Art
-  Updated: 2026-04-06T15:38:58Z
+  Updated: 2026-04-13T10:53:26Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -2350,7 +2288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-french-navy-front-66e97c1c1e40f.jpg?v=1726577892
     Price: €139.00 EUR
   - [French Navy / M](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt?variant=49135867003223)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-french-navy-front-66e97c1c1e40f.jpg?v=1726577892
     Price: €139.00 EUR
   - [French Navy / L](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt?variant=49135867035991)
@@ -9160,26 +9098,26 @@
 ## Collections
 
 - [All Fashion Products - Maiden-Art](https://www.maiden-art.com/collections/fashion-products): All Fashion Products Maiden-Art style described by VOGUE ITALIA  Fashion Products: "Her creations  - Maiden-Art
-  Updated: 2026-04-08T20:49:07Z
-  Total Products: 471
+  Updated: 2026-04-16T13:04:48Z
+  Total Products: 481
 - [Online gift cards - Maiden-Art](https://www.maiden-art.com/collections/online-gift-cards): Why Choose Online Gift Cards? Shopping for someone else but not sure what to give m? Give m  - Maiden-Art
   Updated: 2026-04-08T20:49:07Z
   Total Products: 2
 - [New Arrivals - Maiden-Art](https://www.maiden-art.com/collections/new-arrivals): Discover Our New Arrivals You will find the latest releases from Maiden Art here. We specialise in  - Maiden-Art
-  Updated: 2026-04-08T20:49:08Z
-  Total Products: 435
+  Updated: 2026-04-16T13:05:08Z
+  Total Products: 445
 - [Spently - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/recommended-products): Recommended Products at Spently Recommended products This collection is used by the Spently app, to  - Maiden-Art
-  Updated: 2026-04-08T20:49:08Z
-  Total Products: 460
+  Updated: 2026-04-16T13:05:02Z
+  Total Products: 469
 - [Mindful Chic Sustainable Fashion - Maiden-Art](https://www.maiden-art.com/collections/mindful-chic-sustainable-fashion): Mindful Chic Sustainable Fashion Mindful Chic Sustainable Fashion. Indulge  senses and elevate  - Maiden-Art
-  Updated: 2026-04-08T20:49:07Z
-  Total Products: 428
+  Updated: 2026-04-16T13:05:08Z
+  Total Products: 436
 - [Jewelry - Maiden-Art](https://www.maiden-art.com/collections/personalized-jewelry-self-love-confidence): Jewelry Collections Discover the perfect jewelry to celebrate self-love and boost confidence. Our  - Maiden-Art
   Updated: 2026-04-08T20:49:07Z
   Total Products: 115
 - [Natural Skincare - Maiden-Art](https://www.maiden-art.com/collections/natural-skincare-self-love-skincare-collection-luxury-care): Embrace the Benefits of Natural Skincare Discover Maiden-Art's Self Love Skincare Collection, a  - Maiden-Art
-  Updated: 2026-04-08T20:49:08Z
-  Total Products: 36
+  Updated: 2026-04-16T13:05:26Z
+  Total Products: 39
 - [Scented Candles - Maiden-Art](https://www.maiden-art.com/collections/scented-candles-mindfulness-meditation-candle-collection): Explore Our Scented Candles Collection Scented Candles: Immerse yourself in tranquility with  - Maiden-Art
   Updated: 2026-04-08T20:49:08Z
   Total Products: 8
@@ -9190,44 +9128,44 @@
   Updated: 2026-04-08T20:49:08Z
   Total Products: 9
 - [Apparel - Maiden-Art](https://www.maiden-art.com/collections/apparel-self-love-mindfulness-clothes-accessories-collection): Explore Our Premium Apparel Collection Elevate your style and spirit with Maiden-Art's Clothes &amp;  - Maiden-Art
-  Updated: 2026-04-08T20:49:08Z
-  Total Products: 158
+  Updated: 2026-04-13T12:21:08Z
+  Total Products: 165
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-recommended-products): Recommended Products This collection is used by the UpOrder app, to make product recommendations in  - Maiden-Art
-  Updated: 2026-04-08T13:45:41Z
-  Total Products: 460
+  Updated: 2026-04-16T13:05:02Z
+  Total Products: 469
 - [Natural Makeup - Maiden-Art](https://www.maiden-art.com/collections/natural-makeup-for-mindful-fashionistas-clean-beauty-for-confidence-self-love): Natural Makeup Discover our collection of natural makeup for mindful fashionistas at Maiden-Art.  - Maiden-Art
   Updated: 2026-04-08T20:49:08Z
   Total Products: 36
 - [Home & Living - Maiden-Art](https://www.maiden-art.com/collections/home-living-for-mindful-fashionistas-eco-friendly-decor-self-love-essentials): Explore Our Home &amp; Living Collection Transform your space with our eco-friendly home &amp;  - Maiden-Art
-  Updated: 2026-04-08T20:49:09Z
-  Total Products: 40
+  Updated: 2026-04-16T13:05:08Z
+  Total Products: 41
 - [Fashion Accessories - Maiden-Art](https://www.maiden-art.com/collections/fashion-accessories): Discover the Best Fashion Accessories Complete your look with our collection of accessories for  - Maiden-Art
   Updated: 2026-04-08T20:49:09Z
   Total Products: 46
 - [UpOrder Products - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-uporder-products): UpOrder Products Explore the Best UpOrder Products This collection is used by the UpOrder app, to  - Maiden-Art
-  Updated: 2026-04-08T13:45:41Z
-  Total Products: 460
+  Updated: 2026-04-16T13:05:02Z
+  Total Products: 469
 - [Holiday Gift Guide - holiday gift ideas - Maiden-Art](https://www.maiden-art.com/collections/holiday-gift-guide-holiday-gift-ideas): Best Holiday Gift Ideas Explore Maiden-Art's Holiday Gift Guide 2024 for one-of-a-kind clothes,  - Maiden-Art
   Updated: 2026-04-08T20:49:09Z
   Total Products: 46
 - [Catalog - online catalog - Maiden-Art](https://www.maiden-art.com/collections/all-online-catalog): Explore Our Online Catalog for a Seamless Shopping Experience What is an Online Catalog? An online  - Maiden-Art
-  Updated: 2026-04-08T13:47:45Z
-  Total Products: 551
+  Updated: 2026-04-16T13:05:02Z
+  Total Products: 561
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify  - Maiden-Art
-  Updated: 2026-04-08T13:45:41Z
-  Total Products: 460
+  Updated: 2026-04-16T13:05:02Z
+  Total Products: 469
 - [Valentine's Day Collection - Maiden-Art](https://www.maiden-art.com/collections/valentine-s-day-collection): Discover Our Valentine's Day Collection Discover Maiden-Art’s Valentine's Day Collection:  - Maiden-Art
   Updated: 2026-04-08T20:49:09Z
   Total Products: 26
 - [Beach Collection](https://www.maiden-art.com/collections/self-love-beach-collection-bold-unique-swimwear-for-rebel-hearts-maiden-art): Discover the Self Love Beach Collection at Maiden-Art — bold bikinis and one-piece swimsuits designed for rebel hearts who love themselves loudly. Embrace summer with empowering prints, ethical handmade quality, and vibrant self-love vibes. Shop now and shine like the summer sun!
-  Updated: 2026-04-08T20:49:09Z
-  Total Products: 34
+  Updated: 2026-04-10T12:47:28Z
+  Total Products: 33
 - [Faire Smart Collection (Do Not Edit)](https://www.maiden-art.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire to support product performance reporting on Shopify. Please do not modify or delete this collection, as it is used for analytics and sales insights.
-  Updated: 2026-04-08T13:47:45Z
-  Total Products: 551
+  Updated: 2026-04-16T13:05:03Z
+  Total Products: 561
 - [Secret Toys - Luxury Design](https://www.maiden-art.com/collections/secret-toys-luxury-design): Secret Toys – Where Desire Meets Elegance Step into the world of Secret Toys, where luxury and intimacy intertwine. Our curated collection of high-end  toys transforms personal pleasure into an art form, blending exquisite design with premium materials. Each piece is crafted to elevate your sensual experiences, offering sophistication, discretion, and indulgence in equal measure. From elegantly minimalist vibrators to intricately designed couples’ toys, Secret Toys is where your private desires meet unparalleled quality and refinement. Indulge in your fantasies with confidence—because luxury isn’t just seen; it’s felt.
-  Updated: 2025-12-12T11:16:07Z
-  Total Products: 5
+  Updated: 2026-04-10T12:35:57Z
+  Total Products: 6
 - [Self-Love Fashion](https://www.maiden-art.com/collections/self-love-fashion)
   Updated: 2026-04-08T20:49:09Z
   Total Products: 0
