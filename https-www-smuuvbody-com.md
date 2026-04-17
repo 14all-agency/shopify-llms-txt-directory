@@ -28,7 +28,7 @@ https://www.smuuvbody.com
 - Created At: 2024-06-04T13:46:45Z
 - Contact Email: support@smuuvbody.com
 - Address: 930 Washington Avenue suite 210 29 Miami Beach. Florida. USA
-- Updated At: 2026-04-10T08:00:26.700Z
+- Updated At: 2026-04-17T12:00:25.829Z
 
 ## Brand Context
 
@@ -213,7 +213,7 @@ Products are designed for cosmetic skincare support and daily routine integratio
   Image: https://cdn.shopify.com/s/files/1/0584/7213/6803/files/hf_20260203_040200_eb125d35-b05e-48f7-8f0d-ae3c9fedfe72.png?v=1772432229
   Price: $459.00 USD
 - [Revi Pro+ by Smuuv Body: Anti-Aging Red Light Therapy Device - NASA-Inspired](https://www.smuuvbody.com/products/revi-pro-plus): Experience the power of Revi Pro+ by Smuuv Body, an FDA-cleared anti-aging device. Our innovative red light therapy penetrates deep to stimulate collagen production and reduce wrinkles for visibly younger-looking skin.
-  Updated: 2026-03-04T18:31:39Z
+  Updated: 2026-04-11T00:37:40Z
   Vendor: Smuuv Body
   Product Type: Photon LED Device
   Availability: Available
@@ -250,7 +250,7 @@ Products are designed for cosmetic skincare support and daily routine integratio
     Image: https://cdn.shopify.com/s/files/1/0584/7213/6803/files/SMUUV_GIFT_CARD.png?v=1754961262
     Price: $1,000.00 USD
 - [Smuuv Shipping Protection](https://www.smuuvbody.com/products/smuuv-shipping-protection): The Smuuv Shipping Protection add-on is our optional in-house order replacement coverage that protects your order against loss, theft, or damage during transit. If something goes wrong, we’ll send a replacement—no hassle. We understand how disappointing shipping mishaps can be, so this option is here for your peace of mind. Shipping Protection is not automatically selected by default at checkout, but you can easily add it to your order if you’d like extra security.
-  Updated: 2026-04-04T23:05:36Z
+  Updated: 2026-04-11T11:18:06Z
   Vendor: Smuuv Body
   Product Type: Shipping Insurance
   Availability: Available
