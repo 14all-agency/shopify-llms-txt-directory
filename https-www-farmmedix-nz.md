@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-05-09T11:07:06Z
 - Contact Email: info@farmmedix.com
-- Updated At: 2026-04-09T00:00:35.625Z
+- Updated At: 2026-04-17T00:00:35.932Z
 
 Farm Medix is New Zealand's leading provider of mastitis diagnostics and lameness management solutions for dairy farmers. Farm Medix helps farmers improve milk quality, reduce antibiotic use, and boost herd performance. We offer expert 7-day support to help you get the best results.
 
@@ -119,7 +119,7 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
     Updated: 2025-12-13T00:41:53Z
     Author: Farm Medix
   - [Todd’s Mastitis Management at Kakahu Downs | Farmer Success Story](https://www.farmmedix.nz/blogs/dairy-farmers/how-todd-manages-mastitis-confidently-at-kakahu-downs): Todd’s Mastitis Management at Kakahu Downs | Farmer Success Story
-    Updated: 2026-02-13T03:48:19Z
+    Updated: 2026-04-10T02:39:08Z
     Author: Farm Medix
 - [Stride-On Bovine](https://www.farmmedix.nz/blogs/stride-on-bovine)
   - [Mark Spooner's Success with Stride-On™ Bovine Leg band](https://www.farmmedix.nz/blogs/stride-on-bovine/mark-spooner): Mark Spooner's Success with Stride-On™ Bovine Leg band
@@ -220,7 +220,7 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
 - [Dairy & livestock Solutions | Farm Medix](https://www.farmmedix.nz/pages/dairy-herd-health): Farm Medix helps you lift herd health and milk quality through on-farm mastitis testing, lameness management, water- solutions, and microb...
   Updated: 2026-03-25T00:44:42Z
 - [Science-Led Bovine Mastitis Management for Dairy Farmers | Farm Medix](https://www.farmmedix.nz/pages/mastitis-management): Mastitis costs milk, time and peace of mind. Farm Medix delivers lab-grade mastitis diagnostics, expert support and practical herd strategies to br...
-  Updated: 2026-03-30T20:25:47Z
+  Updated: 2026-04-09T23:30:14Z
 - [Bulk-Tank Mastitis Testing | Snapshot®](https://www.farmmedix.nz/pages/mastitis-snapshot): Find the real cause of high SCC and mastitis fast. Snapshot® provides a clear action plan to lower SCC, improve herd health, and boost returns.
   Updated: 2026-03-25T00:45:33Z
 - [Sitemap | Farm Medix](https://www.farmmedix.nz/pages/html-sitemap): A complete index of Farm Medix website pages, designed to help search engines crawl and understand all pages visible in Google search results.
@@ -230,11 +230,11 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
 - [Staph aureus Mastitis: ,  & Control](https://www.farmmedix.nz/pages/staph-aureus-mastitis): Staph aureus mastitis explained: symptoms, spread, SCC impact, and  limits. Learn evidence-based control and diagnostics with Snapshot®️, Fresh...
   Updated: 2026-03-24T01:10:52Z
 - [Veterinarians Partner with Farm Medix for Mastitis Diagnostics](https://www.farmmedix.nz/pages/veterinary-partners): Partner with Farm Medix for veterinary mastitis diagnostics, lab support, and actionable herd management solutions.
-  Updated: 2026-03-24T02:51:16Z
+  Updated: 2026-04-16T02:00:02Z
 - [Mastitis Management Explained: From Detection to Action](https://www.farmmedix.nz/pages/mastitis-management-explained): Modern mastitis management goes beyond detection. Learn how alerts become diagnoses, targeted actions, and long-term prevention with Farm Medix.
-  Updated: 2026-03-30T20:46:36Z
+  Updated: 2026-04-15T01:40:24Z
 - [Dry-Off Preparation for NZ Dairy Farms | Farm Medix](https://www.farmmedix.nz/pages/herd-dry-off-preparation): Walk into dry-off prepared. Farm Medix mastitis diagnostics help NZ dairy farmers and vets plan selective dry cow therapy with confidence. Since 2010.
-  Updated: 2026-04-08T23:40:25Z
+  Updated: 2026-04-14T23:43:18Z
 
 ## Policies
 
