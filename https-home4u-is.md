@@ -10,7 +10,7 @@
 - Contact Email: Home4u@home4u.is
 - Contact Phone: +354 7656999
 - Address: Miðhraun 22, Garðabær, Iceland
-- Updated At: 2026-04-06T00:00:42.996Z
+- Updated At: 2026-04-17T00:00:41.803Z
 
 Home4u is a leading Icelandic e-commerce store specializing in premium bathroom, kitchen, and home improvement products. We offer a curated selection of high-quality European brands, focusing on modern Scandinavian design, durability, and functionality.
 
@@ -771,7 +771,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2026-03-26T11:21:59Z
   Total Products: 6
 - [Handlaugar](https://home4u.is/collections/handlaugar)
-  Updated: 2026-04-01T11:23:23Z
+  Updated: 2026-04-15T08:08:25Z
   Total Products: 38
 - [Sturtubotnar](https://home4u.is/collections/sturtubotnar)
   Updated: 2025-11-11T14:30:18Z
@@ -786,13 +786,13 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2026-03-28T11:22:04Z
   Total Products: 12
 - [Salerni](https://home4u.is/collections/salerni)
-  Updated: 2026-03-31T11:22:25Z
+  Updated: 2026-04-15T08:06:24Z
   Total Products: 25
 - [Blöndunartæki Baðherbergi](https://home4u.is/collections/blondunartaeki)
   Updated: 2026-03-28T11:22:04Z
   Total Products: 113
 - [Baðherbergið](https://home4u.is/collections/badherbergid)
-  Updated: 2026-04-01T11:23:23Z
+  Updated: 2026-04-15T08:08:25Z
   Total Products: 275
 - [Y Collection Omnires](https://home4u.is/collections/y-collection-omnires)
   Updated: 2026-03-13T07:38:54Z
@@ -834,7 +834,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2025-10-03T15:54:51Z
   Total Products: 4
 - [SOME](https://home4u.is/collections/some): Glæsilegar vöru frá SOME.
-  Updated: 2026-03-26T10:32:52Z
+  Updated: 2026-04-15T08:08:25Z
   Total Products: 29
 - [SOME speglar](https://home4u.is/collections/some-speglar)
   Updated: 2025-12-26T12:13:17Z
@@ -855,7 +855,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2025-06-11T09:45:57Z
   Total Products: 0
 - [SOME handlaugar](https://home4u.is/collections/some-handlaugar)
-  Updated: 2026-03-26T07:13:50Z
+  Updated: 2026-04-15T08:08:25Z
   Total Products: 7
 
 ## Store Pages
