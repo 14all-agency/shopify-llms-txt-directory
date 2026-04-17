@@ -10,12 +10,12 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2026-01-27T00:00:42.164Z
+- Updated At: 2026-04-17T18:07:47.949Z
 
 ## Products
 
 - [El Bantlı Telefon Bölmeli Hakiki Deri Cüzdan - Bulderi](https://bulderi.com.tr/products/el-bantli-telefon-bolmeli-hakiki-deri-cuzdan): Şık ve işlevsel bir aksesuar arayanlar için mükemmel bir seçenek olan El Bantlı Telefon Bölmeli Hakiki Deri Cüzdan, hem kadın hem de erkek kullanımına uygundur. Ürün, yüksek kaliteli dana derisinden özenle üretilmiş olup, kaliteli işçilikle harmanlanmıştır.
-  Updated: 2025-10-07T17:59:47Z
+  Updated: 2026-03-30T22:18:50Z
   Vendor: Bulderi
   Product Type: Telefon Bölmeli Cüzdan
   Availability: Available
@@ -53,7 +53,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/El-Bantli-Telefon-Bolmeli-Hakiki-Deri-Cuzdan-Toprak1.png?v=1727298365
     Price: ₺1.499,90 TRY
 - [Kartvizitli Telefon Bölmeli Hakiki Deri Cüzdan - Bulderi](https://bulderi.com.tr/products/kartvizitli-telefon-bolmeli-hakiki-deri-cuzdan): Hakiki deriden üretilmiş olması, cüzdanın dayanıklılığını ve estetik çekiciliğini artırırken, yüksek kalite el işçiliği ile özenle hazırlandı. Cüzdanın iç düzeni, fonksiyonellik açısından sizi tam anlamıyla memnun edecek.
-  Updated: 2025-09-03T18:02:38Z
+  Updated: 2026-03-30T22:18:50Z
   Vendor: Bulderi
   Product Type: Telefon Bölmeli Cüzdan
   Availability: Available
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/kartvizitli-telefon-bolmeli-deri-cuzdan-944057_2639678c-df6b-412d-a085-6394bf935492.jpg?v=1708473287
     Price: ₺1.499,90 TRY
 - [Hakiki Deri El Çantası - Bulderi](https://bulderi.com.tr/products/hakiki-deri-el-cantasi): Bulderi, şıklık ve zarafetin daima yanınızda olması için tasarlanmış olan Telefon Bölmeli Hakiki Deri El Çantası ile tarzınıza değer katıyor. Hem kadın hem de erkek kullanıcılar için ideal olan bu çanta, 1. sınıf dana derisi ve kaliteli işçiliğiyle öne çıkıyor.
-  Updated: 2025-09-03T18:02:16Z
+  Updated: 2026-03-30T22:18:50Z
   Vendor: Bulderi
   Product Type: El Çantası
   Availability: Available
@@ -109,7 +109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Hakiki-Deri-El-Cantasi-Mor8.png?v=1714142579
     Price: ₺1.999,90 TRY
 - [Minimal Telefon Bölmeli Hakiki Deri Cüzdan - Bulderi](https://bulderi.com.tr/products/minimal-telefon-bolmeli-hakiki-deri-cuzdan): İhtiyaçlarınıza şıklık ve kullanışlılık katacak harika bir ürünle tanışın! Hakiki dana derisinden üretilen bu muhteşem cüzdan, 1.sınıf işçilikle özenle hazırlandı. Erkek ya da kadın, herkesin kullanımına uygun olan bu cüzdan, şıklığı ve fonksiyonelliği bir araya getiriyor.
-  Updated: 2025-09-03T18:01:13Z
+  Updated: 2026-03-30T22:18:50Z
   Vendor: Bulderi
   Product Type: Telefon Bölmeli Cüzdan
   Availability: Available
@@ -135,13 +135,13 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/citcitli-telefon-bolmeli-deri-cuzdan-601048_1382c08b-037e-46db-baec-0422bfcbdad8.jpg?v=1708100487
     Price: ₺1.499,90 TRY
 - [Kartvizitli Klasik Hakiki Deri Cüzdan – Bulderi](https://bulderi.com.tr/products/kartvizitli-klasik-hakiki-deri-cuzdan): Cüzdanın iç düzeni, fonksiyonellik açısından sizi tam anlamıyla memnun edecek. 1 adet fermuarlı bölme, değerli eşyalarınızı güvenle saklamak için ideal bir seçenek sunarken, çıtçıtlı bölme ise ek güvenlik sağlar.
-  Updated: 2025-09-03T17:59:26Z
+  Updated: 2026-04-03T00:14:09Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/kartizitli-klasik-kahve5.png?v=1715105041
   - [Kahve](https://bulderi.com.tr/products/kartvizitli-klasik-hakiki-deri-cuzdan?variant=43335477821628)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/kartizitli-klasik-kahve5.png?v=1715105041
     Price: ₺899,90 TRY
   - [Taba](https://bulderi.com.tr/products/kartvizitli-klasik-hakiki-deri-cuzdan?variant=43335477887164)
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/kartvizitli-klasik-haki5.png?v=1713543865
     Price: ₺899,90 TRY
 - [Deri Dopp Kit - Bulderi](https://bulderi.com.tr/products/deri-dopp-kit): Zarafetin ve fonksiyonelliğin birleştiği bu şık Deri Dopp Kit, öne çıkan 22 * 11 * 11 CM ebatları ile hem kadınların hem de erkeklerin kullanımına hitap ediyor. Üstün kaliteli 1. sınıf dana derisi ve özenle yapılmış işçiliği sayesinde uzun ömürlü kullanım vaat ediyor.
-  Updated: 2025-09-03T17:58:23Z
+  Updated: 2026-03-30T22:18:51Z
   Vendor: Bulderi
   Product Type: El Çantası
   Availability: Available
@@ -179,7 +179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Hakiki-Deri-Portfoy-El-Cantasi-Kirmizi1.png?v=1716736238
     Price: ₺999,90 TRY
 - [Kapaklı Telefon Bölmeli Hakiki Deri Cüzdan - Bulderi](https://bulderi.com.tr/products/kapakli-telefon-bolmeli-hakiki-deri-cuzdan): Hayalinizdeki pratik ve şık cüzdanı buldunuz! Bu ürün, 12 kart bölmesi ile kartlarınızı düzenli bir şekilde taşımanıza imkan tanırken, 4 işlevsel bölme ile diğer belgelerinizi ve küçük eşyalarınızı düzenleyebilirsiniz.
-  Updated: 2025-09-03T06:48:41Z
+  Updated: 2026-03-30T22:18:51Z
   Vendor: Bulderi
   Product Type: Telefon Bölmeli Cüzdan
   Availability: Available
@@ -197,7 +197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/citcitli-telefon-bolmeli-kadin-deri-cuzdan-980033.jpg?v=1708101380
     Price: ₺1.749,90 TRY
 - [Klasik Hakiki Deri Cüzdan - Bulderi](https://bulderi.com.tr/products/klasik-hakiki-deri-cuzdan): Hakiki deriden üretilmiş olması, cüzdanın sadece estetik değil aynı zamanda dayanıklılık açısından da üst düzeyde bir kaliteye sahip olduğunu gösterir. Üstelik, bu yüksek kalite el işçiliği ile özenle hazırlanan cüzdan, detaylara verilen önemi gözler önüne seriyor.
-  Updated: 2025-12-14T23:40:35Z
+  Updated: 2026-04-08T15:48:42Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
@@ -207,7 +207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/klasik-deri-cuzdan-206756_40c3731c-c4f3-46e0-924e-6e07e79c3d0c.jpg?v=1712387089
     Price: ₺899,90 TRY
   - [Taba](https://bulderi.com.tr/products/klasik-hakiki-deri-cuzdan?variant=43335705297084)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/klasik-deri-cuzdan-269885_22b6706a-0ea0-41f4-943c-7b6b11cfa71d.jpg?v=1712387089
     Price: ₺899,90 TRY
   - [Haki](https://bulderi.com.tr/products/klasik-hakiki-deri-cuzdan?variant=43335705329852)
@@ -215,18 +215,18 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/klasikhaki2.png?v=1712387089
     Price: ₺899,90 TRY
   - [Siyah](https://bulderi.com.tr/products/klasik-hakiki-deri-cuzdan?variant=43335705362620)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/klasiksiyah5.png?v=1712387089
     Price: ₺899,90 TRY
 - [Klasik Hakiki Deri Siyah Cüzdan - Bulderi](https://bulderi.com.tr/products/klasik-hakiki-deri-siyah-cuzdan): Bu klasik siyah deri cüzdan, zarafetin ve vintage tarzın mükemmel bir kombinasyonunu sunarak kendine özgü bir şıklık sunuyor. Kaliteli deri malzemesi, cüzdanın sağlamlığını ve dayanıklılığını vurgularken, siyah rengi zamanın ötesindeki bir şıklığı temsil ediyor.
-  Updated: 2025-11-21T14:00:15Z
+  Updated: 2026-03-30T22:18:51Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Klasik-Hakiki-Deri-Cuzdan-Siyah11.png?v=1717875545
-  Price: ₺650,00 TRY
+  Price: ₺899,90 TRY
 - [Akordiyonlu Hakiki Deri Kartlık - Bulderi](https://bulderi.com.tr/products/akardiyonlu-hakiki-deri-kartlik): Şıklığı ve fonksiyonelliği bir araya getiren Akordiyonlu Hakiki Deri Kartlık, hakiki dana derisinden özenle üretilmiştir. Bu eşsiz ürün, hem erkekler hem de kadınlar için ideal bir ortak kullanım ürünüdür. Kaliteli işçiliği ile öne çıkan kartlık, dayanıklılığı ve zarafeti bir arada sunar.
-  Updated: 2025-12-14T17:58:20Z
+  Updated: 2026-04-08T15:47:42Z
   Vendor: Bulderi
   Product Type: Kartlık
   Availability: Available
@@ -252,7 +252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Mor-Akordiyonlu-Hakiki-Deri-Kartlik6.png?v=1716925109
     Price: ₺799,90 TRY
 - [Hakiki Deri Cross Çanta – Bulderi](https://bulderi.com.tr/products/hakiki-deri-cross-canta): Şıklığı ve dayanıklılığı bir araya getiren "Hakiki Deri Cross Çanta" ile tarzınızı öne çıkarın. %100 Hakiki Dana Derisi ve mıknatıslı kilit sistemi, güvenliğinizi sağlarken çanta içindeki 4 gizli kartlık bölme, telefon ve fermuarlı bölmelerle işlevselliği ön plana çıkarıyor.
-  Updated: 2025-09-03T17:56:20Z
+  Updated: 2026-03-30T22:18:51Z
   Vendor: Bulderi
   Product Type: Askılı Çanta
   Availability: Available
@@ -270,14 +270,14 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Kirmizi-Kemerli-Hakiki-Deri-Kadin-Canta1.png?v=1710628015
     Price: ₺1.399,90 TRY
 - [Slim Deri Kartlık - Bulderi](https://bulderi.com.tr/products/slim-deri-kartlik): Slim Deri Kartlık, zarif ve minimalist tasarımıyla tarzınızı tamamlayacak mükemmel bir aksesuardır. Vintage ve modern tarzı bir araya getiren bu kartlık, özenle seçi
-  Updated: 2025-10-15T20:29:03Z
+  Updated: 2026-03-30T22:18:52Z
   Vendor: Bulderi
   Product Type: Kartlık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Slim-Deri-Kartlik1.png?v=1712387089
   Price: ₺799,90 TRY
 - [Hakiki Deri Kadın El Yapımı Tote Çanta - Bulderi](https://bulderi.com.tr/products/hakiki-deri-kadin-tote-canta): Bulderi'nin el yapımı ve özenle üretilmiş Hakiki Deri Kadın El Yapımı Tote Çantası, stil ve fonksiyonu bir araya getiriyor. 34x24cm yatay formu, geniş ana bölmesi ve ek iç cep detaylarıyla kullanımı kolaylığı sunuyor.
-  Updated: 2025-09-03T06:47:27Z
+  Updated: 2026-03-30T22:18:52Z
   Vendor: Bulderi
   Product Type: Askılı Çanta
   Availability: Available
@@ -285,48 +285,41 @@
   - [Kahve](https://bulderi.com.tr/products/hakiki-deri-kadin-tote-canta?variant=43714353758396)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Kahve-Hakiki-Deri-Kadin-Tote-Canta-2.png?v=1717875540
-    Price: ₺3.999,90 TRY
+    Price: ₺4.999,90 TRY
   - [Mat Siyah](https://bulderi.com.tr/products/hakiki-deri-kadin-tote-canta?variant=43714353791164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Siyah-Hakiki-Deri-Kadin-Tote-Canta7.png?v=1717115397
-    Price: ₺3.999,90 TRY
+    Price: ₺4.999,90 TRY
 - [Saraciye Dikişli Telefon Bölmeli Hakiki Deri Cüzdan - Bulderi](https://bulderi.com.tr/products/saraciye-dikisli-telefon-bolmeli-hakiki-deri-cuzdan): Saraciye'nin el işçiliği ve kaliteli malzemelerle üretilmiş Telefon Bölmeli Hakiki Deri Cüzdanı, zarafet ve pratikliği bir araya getiriyor. Hem kadınlar hem de erkekler için tasarlanan bu cüzdan, 1. sınıf dana derisinden yapılmış olup yüksek kaliteli işçilikle üretilmiştir.
-  Updated: 2025-09-03T06:43:38Z
+  Updated: 2026-03-30T22:18:52Z
   Vendor: Bulderi
   Product Type: Telefon Bölmeli Cüzdan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Saraciye-Dikisli-Telefon-Bolmeli-Cuzdan1.png?v=1715104989
   Price: ₺1.749,90 TRY
 - [Hakiki Deri Anahtarlık - Bulderi](https://bulderi.com.tr/products/hakiki-deri-kahve-anahtarlik): Hakiki Deri Anahtarlık, hem kadınların hem de erkeklerin günlük kullanımına uygun bir tasarıma sahiptir. Üstün kaliteli 1. sınıf dana derisinden üretilmiş olup, sağlamlığı ve dayanıklılığıyla öne çıkar.
-  Updated: 2025-12-14T22:32:56Z
+  Updated: 2026-04-08T15:48:17Z
   Vendor: Bulderi
   Product Type: Anahtarlık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Hakiki-Deri-Anahtarlik1.png?v=1715104987
   Price: ₺199,90 TRY
 - [Hakiki Deri Pasaport Kılıfı ve Valiz Etiketi - Bulderi](https://bulderi.com.tr/products/hakiki-deri-pasaport-kilifi-ve-valiz-etiketi): Hakiki Deri Pasaport Kılıfı ve Valiz Etiketi, seyahatlerinizde stil ve pratiklik sunar. Pasaportunuzu korumak için 1 pasaport bölmesi, 4 kart bölmesi ve 1 bilet cebiyle donatılmıştır. Ayrıca, valiz etiketi sayesinde seyahat bilgilerinizi güvenle taşıyabilirsiniz.
-  Updated: 2025-08-13T22:11:17Z
+  Updated: 2026-03-30T22:18:52Z
   Vendor: Bulderi
   Product Type: Pasaport Kılıfı
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/hakiki-deri-pasaportluk-kahve2.png?v=1717875525
-  Price: ₺799,90 TRY
-- [Telefon Bölmeli Hakiki Deri El Bantlı Çanta - Bulderi](https://bulderi.com.tr/products/telefon-bolmeli-hakiki-deri-el-bantli-canta): Telefon Bölmeli Hakiki Deri El Çantası, hem şıklığı hem de işlevselliği bir arada sunar. Üstün kaliteli 1. sınıf dana derisinden imal edilmiş olup, özenle işlenmiş detaylarıyla kaliteli bir işçiliği yansıtır.
-  Updated: 2025-08-13T22:11:17Z
-  Vendor: Bulderi
-  Product Type: El Çantası
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Telefon-Bolmeli-Hakiki-Deri-El-Cantasi1.png?v=1715104970
-  Price: ₺2.499,90 TRY
+  Price: ₺999,90 TRY
 - [Askılı Hakiki Deri Kadın Çanta - Bulderi](https://bulderi.com.tr/products/askili-hakiki-deri-kadin-canta): Askılı Hakiki Deri Kadın Çanta, şıklığı ve işlevselliği bir arada sunarak kullanıcılarına pratik bir çözüm sunar. Üstün kaliteli 1. sınıf dana derisinden imal edilmiş olup, kaliteli işçiliğiyle öne çıkar. İki büyük ana bölme ve bir fermuarlı bölme sayesinde eşyalarınızı düzenli bir şekilde saklayabilirsiniz.
-  Updated: 2025-09-06T04:11:20Z
+  Updated: 2026-03-30T22:18:53Z
   Vendor: Bulderi
   Product Type: Askılı Çanta
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Askili-Hakiki-Deri-Kadin-Canta7.png?v=1715104962
   Price: ₺1.499,90 TRY
 - [Dijital Hediye Kartı - Bulderi](https://bulderi.com.tr/products/dijital-hediye-karti): Bulderi mağazamızda şimdi sevdiklerinize özel ve anlamlı bir hediye vermenin en kolay yolu olan Dijital Hediye Kartı'nı sunuyoruz!
-  Updated: 2025-09-13T18:22:54Z
+  Updated: 2026-03-30T22:18:53Z
   Vendor: Bulderi
   Product Type: Hediye Kartı
   Availability: Available
@@ -344,7 +337,7 @@
     Availability: Available
     Price: ₺9.999,90 TRY
 - [Hakiki Deri Telefon Çantası - Bulderi](https://bulderi.com.tr/products/hakiki-deri-telefon-cantasi): Bulderi markasının zarif tasarımıyla öne çıkan hakiki deri askılı telefon çantası, şıklığı ve işlevselliği bir araya getiriyor. %100 hakiki dana derisinden üretilen bu omuz askılı çanta, el işçiliğiyle dikkat çekiyor.
-  Updated: 2025-11-18T10:23:51Z
+  Updated: 2026-03-30T22:18:54Z
   Vendor: Bulderi
   Product Type: Askılı Çanta
   Availability: Available
@@ -362,35 +355,35 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Hakiki-Deri-Askili-Telefon-Cantasi-Taba-Yesil5.png?v=1727473553
     Price: ₺1.699,90 TRY
 - [Minimal Hakiki Deri El Çantası](https://bulderi.com.tr/products/minimal-hakiki-deri-el-cantasi): Minimal Hakiki Deri El Çantası, 25x15x10 cm boyutlarında, hakiki deri materyaliyle üretilmiş, şık ve dayanıklı bir çantadır.
-  Updated: 2025-09-03T06:49:15Z
+  Updated: 2026-03-31T06:37:00Z
   Vendor: Bulderi
   Product Type: El Çantası
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Minimal-Hakiki-Deri-Kanvas-El-Cantasi6.png?v=1732563494
   Price: ₺3.499,90 TRY
 - [Hakiki Deri El Yapımı Kartlık](https://bulderi.com.tr/products/hakiki-deri-el-yapimi-kartlik): Hakiki deri el yapımı Bulderi kartlık, hem şıklığı hem de fonksiyonelliği bir araya getiriyor. %100 hakiki deri malzemeden üretilen ve el işçiliği ile tamamlanan bu unisex kartlık, dış yüzeyde 6 kart bölmesi, iç yüzeyde 2 kart bölmesi ve 1 kimlik/kart bölmesi sunuyor.
-  Updated: 2025-09-25T03:03:37Z
+  Updated: 2026-03-30T22:18:54Z
   Vendor: Bulderi
   Product Type: Kartlık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/HakikiDeriElYapimiKartlik2.png?v=1733965160
   Price: ₺999,90 TRY
 - [Hakiki Deri Klasik El Yapımı Cüzdan](https://bulderi.com.tr/products/hakiki-deri-klasik-el-yapimi-cuzdan): Bulderi’nin hakiki deri klasik el yapımı cüzdanı, şıklığı ve işlevselliğiyle öne çıkan unisex bir aksesuardır. %100 hakiki deri malzemesi ve el dikişi işçiliğiyle üretilen bu cüzdan, hem dayanıklı hem de estetik bir tasarıma sahiptir.
-  Updated: 2025-11-13T08:29:07Z
+  Updated: 2026-03-30T22:18:54Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/HakikiDeriKlasikElYapimiCuzdan2.png?v=1733965899
   Price: ₺999,90 TRY
 - [Hakiki Deri Kompakt El Yapımı Cüzdan](https://bulderi.com.tr/products/hakiki-deri-kompakt-el-yapimi-cuzdan): Bulderi'nin Hakiki Deri Kompakt El Yapımı Cüzdan modeli, şıklığı ve işlevselliği bir arada sunan Bulderi kalitesiyle tasarlandı. %100 hakiki deri ve tamamen el işçiliğiyle üretilen bu cüzdan, dayanıklılığı ve zarafetiyle uzun ömürlü bir kullanım sağlar.
-  Updated: 2025-12-22T14:16:06Z
+  Updated: 2026-03-30T22:18:54Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/HakikiDeriKompaktElYapimiCuzdan5.png?v=1734733400
   Price: ₺999,90 TRY
 - [Hakiki Deri Klasik El Yapımı Soft Cüzdan](https://bulderi.com.tr/products/hakiki-deri-klasik-el-yapimi-soft-cuzdan): Bulderi hakiki deri klasik el yapımı soft cüzdan, zamansız tasarımı ve kaliteli işçiliğiyle öne çıkan unisex bir aksesuardır. %100 hakiki deri malzemeden üretilen ve tamamen el işçiliğiyle tamamlanan bu cüzdan, 6 kart bölmesi ve 1 kağıt para bölmesiyle kullanıcılara pratik bir çözüm sunar.
-  Updated: 2026-01-26T01:29:20Z
+  Updated: 2026-03-30T22:18:55Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
@@ -400,46 +393,46 @@
 ## Collections
 
 - [Deri Cüzdanlar](https://bulderi.com.tr/collections/cuzdanlar): Bulderi'nin Hakiki Deri Cüzdan Koleksiyonu, zarafetin ve dayanıklılığın mükemmel bir birleşimini sunuyor. El emeğiyle hazırlanan cüzdanlarımız, benzersiz tasarımları ve kaliteli derisiyle dikkat çekiyor.
-  Updated: 2026-01-26T12:07:37Z
+  Updated: 2026-04-03T11:13:15Z
   Total Products: 11
 - [Deri Kartlıklar](https://bulderi.com.tr/collections/kartliklar): Bulderi'nin Kartlıklar koleksiyonu, tarzınızı ve kişiliğinizi yansıtan benzersiz ve özgün tasarımlarıyla dikkat çekiyor. Her bir kart, özel anlarınızı ve duygularınızı en güzel şekilde ifade etmenize olanak sağlayacak zengin içeriklerle donatılmıştır.
-  Updated: 2025-12-15T12:12:29Z
+  Updated: 2026-04-02T11:13:34Z
   Total Products: 6
 - [Deri Çantalar](https://bulderi.com.tr/collections/cantalar): Bulderi, seçkin deri çanta koleksiyonuyla tarzınızı tamamlayacak benzersiz bir alışveriş deneyimi sunuyor. Kalite ve şıklığı bir araya getiren Bulderi çantaları, her zevke hitap eden çeşitleriyle öne çıkıyor.
-  Updated: 2025-11-18T12:10:25Z
+  Updated: 2026-03-30T22:18:50Z
   Total Products: 14
 - [Hediye Setleri](https://bulderi.com.tr/collections/hediye-setleri): Bulderi'nin kişiye özel Setler koleksiyonu, sevdiklerinize özel günlerde unutulmaz anlar yaşatmanızı sağlayacak benzersiz seçenekler sunar. Her bir hediye seti özenle seçilmiş ürünlerden oluşur ve çeşitli temalara uygun olarak tasarlanmıştır.
-  Updated: 2025-05-11T17:37:18Z
+  Updated: 2026-03-30T22:18:50Z
   Total Products: 0
 - [İndirimdekiler](https://bulderi.com.tr/collections/i̇ndirimdekiler): Bulderi'nin İndirimdekiler koleksiyonu, harika fırsatları kaçırmamanız için tasarlanmıştır. Bu özel koleksiyon, indirimli fiyatlarla en sevilen ürünleri bir araya getirir. Moda, güzellik, ev dekorasyonu ve daha birçok kategoride geniş bir ürün yelpazesine sahiptir.
-  Updated: 2026-01-26T12:07:37Z
+  Updated: 2026-04-09T11:14:28Z
   Total Products: 36
 - [En Yeniler](https://bulderi.com.tr/collections/en-yeniler): Bulderi'nin En Yeniler koleksiyonu, son trendleri takip eden ve sürekli olarak güncellenen ürünleri bir araya getiriyor. Bu özel koleksiyon, en yeni ve özgün tasarımlarıyla dikkat çekiyor.
-  Updated: 2026-01-26T12:07:37Z
+  Updated: 2026-04-09T11:14:28Z
   Total Products: 37
 - [Çok Satanlar](https://bulderi.com.tr/collections/cok-satanlar): Bulderi'nin Çok Satanlar koleksiyonu, müşterilerimizin en çok tercih ettiği ve beğendiği ürünleri bir araya getiriyor. Bu özel koleksiyon, popülerliklerini kanıtlamış ve kalitesiyle öne çıkan ürünleri içerir.
-  Updated: 2026-01-26T12:07:37Z
+  Updated: 2026-04-09T11:14:28Z
   Total Products: 37
 - [Telefon Bölmeli Cüzdanlar](https://bulderi.com.tr/collections/telefon-bolmeli-cuzdanlar): Telefon Bölmeli Cüzdanlar, işlevselliği ve şıklığı bir araya getiren modern yaşamın vazgeçilmez aksesuarlarıdır. Her biri özenle seçilmiş yüksek kaliteli malzemelerden üretilen cüzdanlarımız, telefonunuza uygun bölmeleriyle pratik kullanım sunar.
-  Updated: 2025-10-01T11:09:52Z
+  Updated: 2026-03-30T22:18:50Z
   Total Products: 5
 - [Anneler Günü](https://bulderi.com.tr/collections/anneler-gunu): Sevgi dolu bir Anneler Günü hediyesi bulmanın tam zamanı! Bulderi olarak, annenizi şımartmak için özel olarak seçilmiş cüzdan ve çanta koleksiyonumuzu sunuyoruz. Annenizin tarzını yansıtan ve ona günlük hayatta eşlik edecek şık ve işlevsel parçalar arasında seçim yapın.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-04-03T11:13:15Z
   Total Products: 22
 - [Deri Aksesuarlar - Bulderi](https://bulderi.com.tr/collections/aksesuarlar): Stilinizi tamamlayacak özgün aksesuarlar Bulderi'de! Deri cüzdan, çanta, ve kartlık gibi günlük ihtiyaçlarınızı karşılayacak ürünlerimizle şıklığınıza şıklık katın. Her zevke uygun seçeneklerimizle öne çıkan Aksesuarlar kategorimiz, kalite ve zarafeti bir araya getiriyor.
-  Updated: 2025-12-02T12:15:16Z
+  Updated: 2026-04-09T11:14:28Z
   Total Products: 3
 - [Babalar Günü](https://bulderi.com.tr/collections/babalar-gunu): Bulderi’nin Babalar Günü koleksiyonunda, babanıza olan sevginizi ve takdirinizi gösterecek en zarif ve kaliteli deri ürünlerini keşfedin. Özenle tasarlanmış deri cüzdanlar, şık çantalar, pratik kartlıklar ve zarif aksesuarlar ile babalarınıza hem işlevsel hem de stil sahibi hediyeler sunun.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-04-03T11:13:15Z
   Total Products: 18
 - [Sevgililer Günü](https://bulderi.com.tr/collections/sevgililer-gunu): Sevgililer Günü, sevginizi ifade etmek için en özel zamanlardan biridir. Bulderi’nin el yapımı deri koleksiyonu, bu özel günü unutulmaz kılmak için mükemmel hediyeleri sunar. Cüzdan, kartlık, çanta ve aksesuarlar, sevdiğiniz kişiye olan duygularınızı en güzel şekilde yansıtacak tasarımlarla özenle hazırlanmıştır.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-04-03T11:13:15Z
   Total Products: 22
 - [El Yapımı](https://bulderi.com.tr/collections/el-yapimi): Bulderi’nin el yapımı deri koleksiyonu, şıklığı ve zarafeti bir araya getirerek, her tarza hitap eden benzersiz parçalar sunar. Cüzdan, kartlık, çanta ve aksesuarlar gibi çeşitli ürünler, ustalarımızın özenle seçtiği yüksek kaliteli deri kullanılarak el işçiliği ile üretilmiştir.
-  Updated: 2026-01-26T12:07:37Z
+  Updated: 2026-03-30T22:18:50Z
   Total Products: 10
 - [Yaz İndirimi](https://bulderi.com.tr/collections/yaz-indirimi): Yaz sıcaklarını şıklıkla karşılayın! Bulderi'nin özel Yaz İndirimi Koleksiyonu, %100 gerçek deriden üretilmiş cüzdan, çanta, kartlık ve el yapımı deri aksesuarlarla dolu.
-  Updated: 2025-12-15T12:12:29Z
+  Updated: 2026-04-03T11:13:15Z
   Total Products: 11
 
 ## Blogs
@@ -931,8 +924,8 @@
   Updated: 2024-09-11T22:21:43Z
 - [Deri Aksesuar Satın Al](https://bulderi.com.tr/pages/deri-aksesuar-satin-al): Deri aksesuarlar, hem şıklığı hem de dayanıklılığı ile moda dünyasında önemli bir yere sahiptir. Günlük yaşamdan özel davetlere kadar her ortamda k...
   Updated: 2024-09-11T22:21:31Z
-- [Your privacy choices](https://bulderi.com.tr/pages/data--opt-out): Gizlilik Politikamızda açıklandığı üzere, bizimle ve web sitemizle olan etkileşimlerinizden çerezler ve benzer teknolojiler dahil olmak üzere çeşit...
-  Updated: 2025-08-27T21:17:00Z
+- [Your Privacy Choices](https://bulderi.com.tr/pages/data--opt-out): Gizlilik Politikamızda açıklandığı üzere, bizimle ve web sitemizle olan etkileşimlerinizden çerezler ve benzer teknolojiler dahil olmak üzere çeşit...
+  Updated: 2026-01-29T17:08:06Z
 - [Teslimat & İade](https://bulderi.com.tr/pages/teslimat-iade): TeslimatTürkiye saatiyle saat 15:00'e kadar verilen siparişleriniz aynı gün veya ertesi gün kargoya verilmektedir. Yerel teslimatlar Yurtiçi Kargo ...
   Updated: 2024-08-19T20:25:25Z
 - [B2B](https://bulderi.com.tr/pages/b2b)
@@ -963,7 +956,7 @@
 
 ## Alternate Currencies & Languages
 
-- [Avrupa (de / TRY)](https://bulderi.de//llms.txt?market=avrupa)
+- [Avrupa (tr / TRY)](https://bulderi.com.tr/llms.txt?market=avrupa)
 - [Türkiye (tr / TRY)](https://bulderi.com.tr/llms.txt?market=tr)
 
 ## Social Media
