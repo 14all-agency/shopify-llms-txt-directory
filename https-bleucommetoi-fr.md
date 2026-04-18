@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-08-19T03:58:11Z
 - Contact Email: gfaure5@gmail.com
-- Updated At: 2026-04-08T00:00:34.267Z
+- Updated At: 2026-04-18T00:00:36.057Z
 
 ## Products
 
@@ -108,14 +108,12 @@
 
 - [Contact](https://bleucommetoi.fr/pages/contact)
   Updated: 2022-08-19T03:58:14Z
-- [Live Shopping](https://bleucommetoi.fr/pages/lmu-live-shopping): main h1 { display: none; } section h1 { display: none; } #livemeup-landingpage .lmuLiveImage { aspect-ratio: 1 !important; } .lmuLiveImageContainer...
-  Updated: 2025-11-02T12:33:42Z
 - [Liveroom](https://bleucommetoi.fr/pages/liveroom)
   Updated: 2025-02-24T15:03:25Z
 - [Mix and Match](https://bleucommetoi.fr/pages/collection-bundle)
   Updated: 2025-06-05T16:58:44Z
-- [Live Shopping](https://bleucommetoi.fr/pages/live-shopping)
-  Updated: 2025-11-28T10:58:05Z
+- [Live Shopping](https://bleucommetoi.fr/pages/live): main h1 { display: none; } section h1 { display: none; }
+  Updated: 2026-04-11T21:33:43Z
 
 ## Policies
 
