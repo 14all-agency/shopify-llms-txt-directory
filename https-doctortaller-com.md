@@ -10,7 +10,7 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-04-11T08:00:25.981Z
+- Updated At: 2026-04-18T08:00:26.952Z
 
 ## Products
 
@@ -244,6 +244,8 @@
     Updated: 2026-02-23T01:33:11Z
   - [Who Is The Tallest Person In The World Right Now? (2026 Update)](https://doctortaller.com/blogs/science-insight/who-is-the-tallest-person-in-the-world-right-now): <p>Do you know who is the tallest person in the world right now? Although many people around the world are known for their incredible height as "giants," only one man currently holds the official title of the tallest living man in the world. In this article, we will explore interesting facts about his height, and the science behind the extraordinary height of other record-breaking giants.</p>
     Updated: 2026-04-06T07:19:35Z
+  - [Average Height of Dutch People (2026 Data & Insights)](https://doctortaller.com/blogs/science-insight/average-height-of-dutch-people): <p>If you travel to the Netherlands, I am sure there are two things that will surprise you: everyone rides bicycles, and most people are surprisingly tall. Currently, the Dutch officially are the tallest people on the Earth [1], but interestingly: they weren't always like that.</p>
+    Updated: 2026-04-13T06:12:10Z
 - [Growth Tips](https://doctortaller.com/blogs/growth-tips): Just discover genius tips and expert advice on nutrition, sleep and exercise - all about things that help you get taller naturally and effectively.
   - [How To Grow Taller At 16?](https://doctortaller.com/blogs/growth-tips/how-to-grow-taller-at-16): How To Grow Taller At 16?
     Updated: 2025-11-04T03:40:51Z
