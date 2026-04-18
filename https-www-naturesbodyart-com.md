@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2016-02-11T02:41:01Z
-- Updated At: 2026-04-10T19:35:27.051Z
+- Updated At: 2026-04-18T00:00:21.456Z
 
 ## Products
 
@@ -455,8 +455,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1163/4438/products/2017-12-09_11.55.27.jpg?v=1566783207
     Price: $20.00 USD
-- [Jagua powder & natural thickener for black tattoos (dehydrated fruit)](https://www.naturesbodyart.com/products/powdered-jagua-dehydrated-fruit): Each 10 gram bag makes 4 ounces of Jagua gel, simply add water and essential oil! Save money and buy in bulk knowing the powder has an extended shelf life. Best product to ship internationally. *Most companies have FREEZE DRIED Jagua powder (ask them) *This can lead to inconsistent color in the tattoos and clumping in the powder. We have DEHYDRATED the jagua fruit and then finely sifted to make sure you can do fine lines with our product. BEST MARKET PRICE! Amazing dark color. The gel made from this powder dries faster than normal and the tattoo lasts longer! Product Features Finely sifted, gel will flow through a tip as fine as .5mm Easy to mix: 3.5 ounces of water and 1/4 teaspoon of essential oil (available here) Powder shelf life is over 7 months! Ingredients dehydrated Jagua fruit and Xanthan Gum that's it! Empty bottles available for storage as well as applicator bottles Instructions for making the gel and application Create 150+ small temporary black tattoos that last 10-15 days The unripe Jagua fruit (Genipa Americana L.) has been used for hundreds of years by the tribes of Central and South America for temporary body art, dying materials, and as a source of food when fully ripe. Using the gel you can paint a tattoo design that lasts 10-15 days. Our product contains no added dyes for the color, it is 100% natural. Supports non profit in Darien jungle which helps natives in need
-  Updated: 2026-04-01T19:09:06Z
+- [Jagua powder & natural thickener for black tattoos (dehydrated fruit)](https://www.naturesbodyart.com/products/powdered-jagua-dehydrated-fruit): Each 10 gram bag makes 4 ounces of Jagua gel, simply add water and essential oil! Save money and buy in bulk knowing the powder has an extended shelf life. Best product to ship internationally. *Most companies have FREEZE DRIED Jagua powder (ask them) *This can lead to inconsistent color in the tattoos and clumping in the powder. We have DEHYDRATED the jagua fruit and then finely sifted to make sure you can do fine lines with our product. BEST MARKET PRICE! Amazing dark color. The gel made from this powder dries faster than normal and the tattoo lasts longer! Product Features Finely sifted, gel will flow through a tip as fine as .7mm Easy to mix: 3.5 ounces of water and 1/4 teaspoon of essential oil (available here) Powder shelf life is over 7 months! Ingredients dehydrated Jagua fruit and Xanthan Gum that's it! Empty bottles available for storage as well as applicator bottles Instructions for making the gel and application Create 150+ small temporary black tattoos that last 10-15 days The unripe Jagua fruit (Genipa Americana L.) has been used for hundreds of years by the tribes of Central and South America for temporary body art, dying materials, and as a source of food when fully ripe. Using the gel you can paint a tattoo design that lasts 10-15 days. Our product contains no added dyes for the color, it is 100% natural. Supports non profit in Darien jungle which helps natives in need
+  Updated: 2026-04-16T18:17:37Z
   Vendor: Nature's Body Art
   Product Type: powder
   Availability: Available
@@ -660,13 +660,13 @@
   Updated: 2026-04-10T11:06:04Z
   Total Products: 16
 - [Jagua Products (dark blue/black tattoo color)](https://www.naturesbodyart.com/collections/jagua-products): Jagua is a 100% natural dye that stains a blue-black color. *Lasts approximately two weeks on skin. *Derived from the Jagua (Genipa americana L) fruit tree of tropical America. When the gel/paint form is applied to skin, dries, and is removed it leaves a light grey color and gradually darkens to a black color over a period of 6-10 hours. The black design will remain on skin for 8-15 days and disappears as the skin naturally exfoliates. When applied to porous material, jagua leaves a permanent blue-black color. Similar to henna, Jagua’s color is also darker on areas of the body with more layers of skin. Combining the two natural dyes adds a unique flair to temporary body art.
-  Updated: 2026-04-10T11:06:04Z
+  Updated: 2026-04-16T11:04:50Z
   Total Products: 25
 - [Application Accessories](https://www.naturesbodyart.com/collections/tattoo-supplies): Artists prefer all different types of applicators so we have a variety. *Cones are easier to squeeze, you can cut the tips to the desired size for detailing. Simply fill from the opened end roll down and tape it closed. * 1/2 ounce soft squeeze bottles with the Luer lock tips (colored) I use for my Jagua and Henna. The variety of tips are great that lock on.
   Updated: 2026-04-10T11:06:04Z
   Total Products: 18
 - [Tattoos](https://www.naturesbodyart.com/collections/tattoos)
-  Updated: 2026-04-09T11:04:42Z
+  Updated: 2026-04-16T11:04:50Z
   Total Products: 7
 
 ## Blogs
