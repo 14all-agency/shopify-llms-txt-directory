@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Vienna
 - Created At: 2025-08-02T08:47:20Z
-- Updated At: 2026-04-07T00:00:44.866Z
+- Updated At: 2026-04-18T00:00:43.997Z
 
 ## Products
 
@@ -158,7 +158,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Hase_Motiv1_ff0b24d3-73cc-449c-9ac9-30767d3a2c11.jpg?v=1772200264
     Price: 12,00 € EUR
 - [Kurzarmbody Bio Baumwolle Einhorn](https://www.floriundellie.at/products/kurzarmbody-bio-baumwolle-einhorn): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt Gib einfach beim Wunschtext den Namen ein.
-  Updated: 2026-03-25T19:39:55Z
+  Updated: 2026-04-16T09:27:17Z
   Vendor: Flori&Ellie
   Product Type: BabyBody
   Availability: Available
@@ -176,7 +176,7 @@
     Availability: Available
     Price: 20,00 € EUR
 - [Kurzarmbody Bio Baumwolle Sonne](https://www.floriundellie.at/products/kurzarmbody-bio-baumwolle-sonne): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt Gib einfach beim Wunschtext den Namen ein.
-  Updated: 2026-03-25T14:38:35Z
+  Updated: 2026-04-16T08:49:38Z
   Vendor: Flori&Ellie
   Product Type: BabyBody
   Availability: Available
@@ -554,7 +554,7 @@
     Availability: Available
     Price: 20,00 € EUR
 - [Kurzarmbody Bio Baumwolle Löwe](https://www.floriundellie.at/products/kurzarmbody-bio-baumwolle-lowe): Kurzarmbody aus 100% Bio-Baumwolle | Farbe: weiß | Öko-Tex Made in Green | Mit Schlupfkragen und 3 nickelfreien Druckknöpfen im Schritt Gib einfach beim Wunschtext den Namen ein.
-  Updated: 2026-03-25T14:38:34Z
+  Updated: 2026-04-16T16:26:17Z
   Vendor: Flori&Ellie
   Product Type: BabyBody
   Availability: Available
@@ -589,37 +589,445 @@
   - [12-18 Monate / Weiß](https://www.floriundellie.at/products/kurzarmbody-bio-baumwolle-giraffe?variant=57161485648220)
     Availability: Available
     Price: 20,00 € EUR
+- [Geburtsposter Regenbogen](https://www.floriundellie.at/products/regenbogen): Mit unseren liebevoll gestalteten Postern sorgst du für einen echten Wow-Effekt im Kinderzimmer. Jedes Poster kannst du individuell mit den Geburtsdaten des Kindes personalisieren. Ob zur Geburt, zur Taufe oder zum Geburtstag – du verschenkst eine wunderschöne Erinnerung und gleichzeitig eine stilvolle Wanddekoration.
+  Updated: 2026-04-17T08:13:58Z
+  Vendor: Flori&Ellie
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Regenbogen.jpg?v=1775651388
+  - [21x30cm](https://www.floriundellie.at/products/regenbogen?variant=57248551993692)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/regenbogen?variant=57248565559644)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/regenbogen?variant=57248565592412)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Bagger](https://www.floriundellie.at/products/kinderposter-bagger): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-16T08:55:10Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Bagger.jpg?v=1775564777
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-bagger?variant=57250911289692)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Bagger.jpg?v=1775564777
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-bagger?variant=57250911322460)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Bagger.jpg?v=1775564777
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-bagger?variant=57250911355228)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/Bagger.jpg?v=1775564777
+    Price: 24,90 € EUR
+- [Kinderposter Traktor grün](https://www.floriundellie.at/products/kinderposter-bagger-kopie): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:20:41Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Traktor.jpg?v=1775564885
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-bagger-kopie?variant=57285132190044)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-bagger-kopie?variant=57285132222812)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-bagger-kopie?variant=57285132255580)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Polizeiauto](https://www.floriundellie.at/products/kinderposter-polizei): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-16T08:24:36Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Polizei.jpg?v=1775565094
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-polizei?variant=57285169742172)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-polizei?variant=57285169774940)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-polizei?variant=57285169807708)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Lastwagen](https://www.floriundellie.at/products/kinderposter-lastwagen): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:21:20Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Lastwagen.jpg?v=1775565214
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-lastwagen?variant=57285192352092)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-lastwagen?variant=57285192384860)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-lastwagen?variant=57285192417628)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Feuerwehrauto](https://www.floriundellie.at/products/kinderposter-feuerwehrauto): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T21:06:16Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Feuerwehr.jpg?v=1775639278
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-feuerwehrauto?variant=57285200544092)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-feuerwehrauto?variant=57285200576860)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-feuerwehrauto?variant=57285200609628)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Traktor gelb](https://www.floriundellie.at/products/kinderposter-feuerwehrauto-kopie): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:21:58Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Traktor_gelb.jpg?v=1775565418
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-feuerwehrauto-kopie?variant=57285209784668)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-feuerwehrauto-kopie?variant=57285209817436)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-feuerwehrauto-kopie?variant=57285209850204)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Vespa](https://www.floriundellie.at/products/kinderposter-vespa): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:22:19Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Vespa.jpg?v=1775565453
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-vespa?variant=57285214699868)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-vespa?variant=57285214732636)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-vespa?variant=57285214765404)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Flugzeug](https://www.floriundellie.at/products/kinderposter-flugzeug): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:22:36Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Flugzeug.jpg?v=1775565502
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-flugzeug?variant=57285216207196)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-flugzeug?variant=57285216239964)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-flugzeug?variant=57285216272732)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Pferd](https://www.floriundellie.at/products/kinderposter-pferd): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:22:59Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Pferd.jpg?v=1775565538
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-pferd?variant=57285219189084)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-pferd?variant=57285219221852)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-pferd?variant=57285219254620)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Pferdekopf](https://www.floriundellie.at/products/kinderposter-pferdekopf): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:23:16Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Pferd_kopf.jpg?v=1775565575
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-pferdekopf?variant=57285239177564)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-pferdekopf?variant=57285239210332)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-pferdekopf?variant=57285239243100)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Bär](https://www.floriundellie.at/products/kinderposter-bar): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:26:39Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Baer.jpg?v=1775565613
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-bar?variant=57285241241948)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-bar?variant=57285241274716)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-bar?variant=57285241307484)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Löwe](https://www.floriundellie.at/products/kinderposter-lowe): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:27:28Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1loewe.jpg?v=1775565648
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-lowe?variant=57285249466716)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-lowe?variant=57285249499484)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-lowe?variant=57285249532252)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Luftballons](https://www.floriundellie.at/products/kinderposter-luftballons): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:27:58Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Luftballon.jpg?v=1775565705
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-luftballons?variant=57285262344540)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-luftballons?variant=57285262377308)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-luftballons?variant=57285262410076)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Cupcake](https://www.floriundellie.at/products/kinderposter-cupcake): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:28:12Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Cupcake.jpg?v=1775565752
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-cupcake?variant=57285263786332)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-cupcake?variant=57285263819100)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-cupcake?variant=57285263851868)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Bär blau](https://www.floriundellie.at/products/kinderposter-bar-blau): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:29:02Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1BaerHerz.jpg?v=1775565858
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-bar-blau?variant=57285270831452)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-bar-blau?variant=57285270864220)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-bar-blau?variant=57285270896988)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Eule](https://www.floriundellie.at/products/kinderposter-eule): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:29:16Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Eule.jpg?v=1775565908
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-eule?variant=57285283479900)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-eule?variant=57285283512668)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-eule?variant=57285283545436)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Herz](https://www.floriundellie.at/products/kinderposter-herz): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:29:35Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Herz.jpg?v=1775565954
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-herz?variant=57285286723932)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-herz?variant=57285286756700)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-herz?variant=57285286789468)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Schmetterlinge](https://www.floriundellie.at/products/kinderposter-schmetterlinge): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T21:06:18Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Schmetterlinge.jpg?v=1775639243
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-schmetterlinge?variant=57285290885468)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-schmetterlinge?variant=57285290918236)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-schmetterlinge?variant=57285290951004)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Fische](https://www.floriundellie.at/products/kinderposter-fische): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:33:16Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Fische.jpg?v=1775566058
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-fische?variant=57285309825372)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-fische?variant=57285309858140)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-fische?variant=57285309890908)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Herzen](https://www.floriundellie.at/products/kinderposter-herzen): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T21:06:17Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Herzen.jpg?v=1775639208
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-herzen?variant=57285312282972)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-herzen?variant=57285312315740)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-herzen?variant=57285312348508)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Kinderposter Bär Rosa](https://www.floriundellie.at/products/kinderposter-bar-rosa): Mit unseren liebevoll gestalteten Kinderpostern zauberst du im Handumdrehen einen echten Wow-Effekt ins Kinderzimmer. Jedes Poster kannst du ganz individuell mit Namen oder einem persönlichen Spruch gestalten und so zu etwas ganz Besonderem machen. Ob als Geschenk zum Geburtstag, zur Taufe oder zur Geburt – du schenkst nicht nur eine wunderschöne Wanddekoration, sondern auch eine bleibende Erinnerung. Fotopapier Satin – 200g Hochwertiger Posterdruck
+  Updated: 2026-04-08T14:29:50Z
+  Vendor: Flori&Ellie
+  Product Type: Kinderposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1BaerHerz1.jpg?v=1775566155
+  - [21x30cm](https://www.floriundellie.at/products/kinderposter-bar-rosa?variant=57285322211676)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/kinderposter-bar-rosa?variant=57285322244444)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/kinderposter-bar-rosa?variant=57285322277212)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Geburtsposter Sonne](https://www.floriundellie.at/products/geburtsposter-sonne): Mit unseren liebevoll gestalteten Postern sorgst du für einen echten Wow-Effekt im Kinderzimmer. Jedes Poster kannst du individuell mit den Geburtsdaten des Kindes personalisieren. Ob zur Geburt, zur Taufe oder zum Geburtstag – du verschenkst eine wunderschöne Erinnerung und gleichzeitig eine stilvolle Wanddekoration.
+  Updated: 2026-04-16T16:26:18Z
+  Vendor: Flori&Ellie
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Sonne.jpg?v=1775651099
+  - [21x30cm](https://www.floriundellie.at/products/geburtsposter-sonne?variant=57300029997404)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/geburtsposter-sonne?variant=57300030030172)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/geburtsposter-sonne?variant=57300030062940)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Geburtsposter Einhorn](https://www.floriundellie.at/products/geburtsposter-einhorn): Mit unseren liebevoll gestalteten Postern sorgst du für einen echten Wow-Effekt im Kinderzimmer. Jedes Poster kannst du individuell mit den Geburtsdaten des Kindes personalisieren. Ob zur Geburt, zur Taufe oder zum Geburtstag – du verschenkst eine wunderschöne Erinnerung und gleichzeitig eine stilvolle Wanddekoration.
+  Updated: 2026-04-09T00:20:25Z
+  Vendor: Flori&Ellie
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Einhorn.jpg?v=1775651126
+  - [21x30cm](https://www.floriundellie.at/products/geburtsposter-einhorn?variant=57300032389468)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/geburtsposter-einhorn?variant=57300032422236)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/geburtsposter-einhorn?variant=57300032455004)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Geburtsposter Luftballons](https://www.floriundellie.at/products/geburtsposter-luftballons): Mit unseren liebevoll gestalteten Postern sorgst du für einen echten Wow-Effekt im Kinderzimmer. Jedes Poster kannst du individuell mit den Geburtsdaten des Kindes personalisieren. Ob zur Geburt, zur Taufe oder zum Geburtstag – du verschenkst eine wunderschöne Erinnerung und gleichzeitig eine stilvolle Wanddekoration.
+  Updated: 2026-04-09T00:24:36Z
+  Vendor: Flori&Ellie
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Luftballons.jpg?v=1775651176
+  - [21x30cm](https://www.floriundellie.at/products/geburtsposter-luftballons?variant=57300047692124)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/geburtsposter-luftballons?variant=57300047724892)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/geburtsposter-luftballons?variant=57300047757660)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Geburtsposter Lastwagen](https://www.floriundellie.at/products/geburtsposter-lastwagen): Mit unseren liebevoll gestalteten Postern sorgst du für einen echten Wow-Effekt im Kinderzimmer. Jedes Poster kannst du individuell mit den Geburtsdaten des Kindes personalisieren. Ob zur Geburt, zur Taufe oder zum Geburtstag – du verschenkst eine wunderschöne Erinnerung und gleichzeitig eine stilvolle Wanddekoration.
+  Updated: 2026-04-17T06:00:26Z
+  Vendor: Flori&Ellie
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Lastwagen_d9fe5ecb-d356-4d96-a4b0-8f99fd675a7e.jpg?v=1775651204
+  - [21x30cm](https://www.floriundellie.at/products/geburtsposter-lastwagen?variant=57300048576860)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/geburtsposter-lastwagen?variant=57300048609628)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/geburtsposter-lastwagen?variant=57300048642396)
+    Availability: Available
+    Price: 24,90 € EUR
+- [Geburtsposter Heißluftballon](https://www.floriundellie.at/products/geburtsposter-heissluftballon): Mit unseren liebevoll gestalteten Postern sorgst du für einen echten Wow-Effekt im Kinderzimmer. Jedes Poster kannst du individuell mit den Geburtsdaten des Kindes personalisieren. Ob zur Geburt, zur Taufe oder zum Geburtstag – du verschenkst eine wunderschöne Erinnerung und gleichzeitig eine stilvolle Wanddekoration.
+  Updated: 2026-04-17T08:13:57Z
+  Vendor: Flori&Ellie
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0942/3237/9740/files/1Heissluftballon.jpg?v=1775651237
+  - [21x30cm](https://www.floriundellie.at/products/geburtsposter-heissluftballon?variant=57300050280796)
+    Availability: Available
+    Price: 14,90 € EUR
+  - [30x40cm](https://www.floriundellie.at/products/geburtsposter-heissluftballon?variant=57300050313564)
+    Availability: Available
+    Price: 19,90 € EUR
+  - [40x50cm](https://www.floriundellie.at/products/geburtsposter-heissluftballon?variant=57300050346332)
+    Availability: Available
+    Price: 24,90 € EUR
 
 ## Collections
 
 - [Kurzarmbody](https://www.floriundellie.at/collections/babybody-kurzarm): Kurzarmbody 100% BioBaumwolle, individuell personalisierbar mit deinem Wunschtext
-  Updated: 2026-03-25T09:05:38Z
+  Updated: 2026-04-17T11:30:38Z
   Total Products: 12
 - [Langarmbody](https://www.floriundellie.at/collections/baby-body-langarm): Langarmbody 100% BioBaumwolle, individuell personalisierbar mit deinem Wunschtext
-  Updated: 2026-03-25T09:05:53Z
+  Updated: 2026-04-16T09:06:27Z
   Total Products: 12
 - [Geschenke](https://www.floriundellie.at/collections/accessoires)
-  Updated: 2026-03-25T08:33:04Z
+  Updated: 2026-04-16T09:06:27Z
   Total Products: 2
 - [Holzprodukte](https://www.floriundellie.at/collections/holzprodukte)
-  Updated: 2026-02-11T08:33:59Z
+  Updated: 2026-04-16T09:06:27Z
   Total Products: 6
 - [Personalisierte T-Shirts](https://www.floriundellie.at/collections/personalisierte-t-shirts)
-  Updated: 2026-03-25T07:23:08Z
+  Updated: 2026-04-16T09:06:27Z
   Total Products: 0
 - [Geburtsposter](https://www.floriundellie.at/collections/geburtsposter)
-  Updated: 2026-04-02T12:49:45Z
-  Total Products: 1
+  Updated: 2026-04-17T11:30:38Z
+  Total Products: 6
 - [Kinderposter](https://www.floriundellie.at/collections/kinderposter)
-  Updated: 2026-04-02T11:39:56Z
-  Total Products: 0
+  Updated: 2026-04-16T11:36:42Z
+  Total Products: 21
 
 ## Policies
 
 - [Privacy Policy](https://www.floriundellie.at/policies/privacy-policy)
   Updated: 2025-08-02T10:47:28+02:00
 - [Shipping Policy](https://www.floriundellie.at/policies/shipping-policy)
-  Updated: 2026-02-11T17:24:30+01:00
+  Updated: 2026-04-10T15:23:41+02:00
 - [Refund Policy](https://www.floriundellie.at/policies/refund-policy)
   Updated: 2026-02-11T17:24:07+01:00
 - [Terms of Service](https://www.floriundellie.at/policies/terms-of-service)
