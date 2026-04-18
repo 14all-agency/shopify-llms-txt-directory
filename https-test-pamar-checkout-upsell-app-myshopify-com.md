@@ -6,33 +6,33 @@
 - Timezone: America/New_York
 - Created At: 2026-03-07T10:11:21Z
 - Contact Email: agency@bandeira.work
-- Updated At: 2026-04-10T07:08:51.951Z
+- Updated At: 2026-04-18T00:00:27.693Z
 
 ## Products
 
 - [The Inventory Not Tracked Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2026-03-07T23:14:24Z
+  Updated: 2026-04-17T13:02:25Z
   Vendor: Test Pamar Checkout Upsell APP
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/snowboard_purple_hydrogen.png?v=1772878306
   Price: $949.95 USD
 - [Hidden Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-hidden-snowboard): hidden snowboard winter sport snowboarding
-  Updated: 2026-04-07T16:52:31Z
+  Updated: 2026-04-17T12:50:23Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1772878306
   Price: $749.95 USD
 - [The Compare at Price Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2026-04-07T16:59:58Z
+  Updated: 2026-04-17T12:57:17Z
   Vendor: Test Pamar Checkout Upsell APP
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/snowboard_sky.png?v=1772878306
   Price: $785.95 USD
 - [Complete Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2026-04-07T16:52:30Z
+  Updated: 2026-04-17T13:02:25Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
@@ -53,27 +53,27 @@
     Availability: Available
     Price: $699.95 USD
 - [The Draft Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-draft-snowboard)
-  Updated: 2026-03-09T18:27:01Z
+  Updated: 2026-04-17T13:02:25Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1772878305
   Price: $2,629.95 USD
 - [The Minimal Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-minimal-snowboard)
-  Updated: 2026-03-07T11:32:23Z
+  Updated: 2026-04-16T14:28:12Z
   Vendor: Test Pamar Checkout Upsell APP
   Product Type: 
   Availability: Available
   Price: $885.95 USD
 - [The Videographer Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-videographer-snowboard)
-  Updated: 2026-03-08T00:21:27Z
+  Updated: 2026-04-16T14:31:45Z
   Vendor: Test Pamar Checkout Upsell APP
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main.jpg?v=1772878305
   Price: $885.95 USD
 - [ Plans Ski Wax](https://test-pamar-checkout-upsell-app.myshopify.com/products/-plans-ski-wax)
-  Updated: 2026-03-07T23:11:56Z
+  Updated: 2026-04-17T13:02:25Z
   Vendor: Test Pamar Checkout Upsell APP
   Product Type: accessories
   Availability: Available
@@ -88,42 +88,42 @@
     Availability: Available
     Price: $9.95 USD
 - [The Collection Snowboard: Hydrogen](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-collection-snowboard-hydrogen)
-  Updated: 2026-04-07T16:52:30Z
+  Updated: 2026-04-17T13:02:25Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1772878306
   Price: $600.00 USD
 - [The Multi-location Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-multi-location-snowboard)
-  Updated: 2026-04-07T16:52:29Z
+  Updated: 2026-04-17T13:02:26Z
   Vendor: Test Pamar Checkout Upsell APP
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1772878306
   Price: $729.95 USD
 - [The 3p Fulfilled Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-3p-fulfilled-snowboard)
-  Updated: 2026-03-09T18:26:28Z
+  Updated: 2026-04-17T12:57:16Z
   Vendor: Test Pamar Checkout Upsell APP
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1772878307
   Price: $2,629.95 USD
 - [The Multi-managed Snowboard](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-multi-managed-snowboard)
-  Updated: 2026-04-07T16:52:29Z
+  Updated: 2026-04-17T12:50:22Z
   Vendor: Multi-managed Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1772878306
   Price: $629.95 USD
 - [The Collection Snowboard: Oxygen](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-collection-snowboard-oxygen)
-  Updated: 2026-04-07T16:59:58Z
+  Updated: 2026-04-17T13:02:25Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0800/3643/0048/files/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1772878306
   Price: $1,025.00 USD
 - [The Collection Snowboard: Liquid](https://test-pamar-checkout-upsell-app.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2026-04-07T16:59:58Z
+  Updated: 2026-04-17T13:02:25Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
