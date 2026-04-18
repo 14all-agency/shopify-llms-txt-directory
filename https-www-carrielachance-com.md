@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-04-11T00:00:56.369Z
+- Updated At: 2026-04-18T08:00:31.230Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -5992,7 +5992,7 @@ Carrie LaChance – Gallery 311 🔞
 Total Images: 49 Photos
 Year: 2019
 File Size: 30 MB
-  Updated: 2026-04-01T09:21:03Z
+  Updated: 2026-04-17T20:26:16Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -6096,7 +6096,7 @@ Carrie LaChance - Gallery #316 🔞
 Total Images: 56 Photos
 Year: 2019
 File Size: 35 MB
-  Updated: 2026-04-01T09:21:04Z
+  Updated: 2026-04-16T20:22:58Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -7045,7 +7045,7 @@ Actual prints are not censored.
   Updated: 2026-04-01T09:19:38Z
   Total Products: 31
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
-  Updated: 2026-04-06T11:10:04Z
+  Updated: 2026-04-17T11:12:45Z
   Total Products: 330
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
   Updated: 2026-04-01T09:19:38Z
@@ -7066,7 +7066,7 @@ Actual prints are not censored.
   Updated: 2026-04-01T09:19:38Z
   Total Products: 107
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
-  Updated: 2026-04-06T11:10:04Z
+  Updated: 2026-04-17T11:12:45Z
   Total Products: 256
 - [Leather Collection](https://www.carrielachance.com/collections/leather): Step into my Leather Collection, featuring all of my shoots in bold, edgy leather looks. From sleek and fitted styles to daring statement pieces, every set brings out a powerful, confident side of me with my signature heels and attitude leading the way.
   Updated: 2026-04-01T09:19:38Z
@@ -7185,6 +7185,34 @@ Actual prints are not censored.
     Updated: 2026-04-10T00:06:25Z
     Author: Carrie LaChance
     Tags: building self-esteem for models, confidence, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to model effectively, how to pose for photo shoot, modeling, modeling tips, personal style, photography, photoshoot, posing tips, presence, runway techniques, social media model, taking good selfies
+  - [The Ultimate High Heels Experience Behind the Scenes with Pinup Model Carrie LaChance](https://www.carrielachance.com/blogs/carrie-lachance/the-ultimate-high-heels-experience-behind-the-scenes-with-pinup-model-carrie-lachance): The Ultimate High Heels Experience Behind the Scenes with Pinup Model Carrie LaChance
+    Updated: 2026-04-11T08:01:06Z
+    Author: Carrie LaChance
+    Tags: behind the scenes, behind the scense, carrie lachance, fashion photography, glamour model, heels, high heel photoshoot techniques, high heels, latex model, life of a model, modeling tips, outfit of the day, pantyhose, pinup model, sexy model, stilettos, ultimate experience guide
+  - [Turn Selfies into Art: Lighting Tips and Angles for Scroll-Stopping Photos](https://www.carrielachance.com/blogs/carrie-lachance/turn-selfies-into-art-lighting-tips-and-angles-for-scroll-stopping-photos): Turn Selfies into Art: Lighting Tips and Angles for Scroll-Stopping Photos
+    Updated: 2026-04-12T00:05:09Z
+    Author: Carrie LaChance
+    Tags: angles for photography, artistic selfies, best practices for modeling photography, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, lighting, lighting techniques for selfies, modeling, modeling tips, photo tips, photography, photoshoot, posing tips, selfies, social media model, taking good selfies
+  - [Behind the Scenes: Secrets to Creating a Glamourous Modeling Portfolio](https://www.carrielachance.com/blogs/carrie-lachance/behind-the-scenes-secrets-to-creating-a-glamourous-modeling-portfolio): Behind the Scenes: Secrets to Creating a Glamourous Modeling Portfolio
+    Updated: 2026-04-13T00:09:53Z
+    Author: Carrie LaChance
+    Tags: fashion modeling, glamour, glamour model, high heels, how to be a model, how to be a model online, how to create a portfolio, how to get into modeling, how to pose for photo shoot, modeling, modeling tips, photography, photography tips, photoshoot, portfolio, posing tips, social media model, taking good selfies, tips for models
+  - [Behind the Scenes Secrets Journey with Stilettos Lingerie and Glamour Photography](https://www.carrielachance.com/blogs/carrie-lachance/behind-the-scenes-secrets-journey-with-stilettos-lingerie-and-glamour-photography): Behind the Scenes Secrets Journey with Stilettos Lingerie and Glamour Photography
+    Updated: 2026-04-14T08:01:19Z
+    Author: Carrie LaChance
+    Tags: beauty secrets, behind the scenes, behind the scense, carrie lachance, fashion journey, glamour, glamour model, heels, high heels, latex model, life of a model, lingerie, outfit of the day, pantyhose, photography, pinup model, sensual photography experience, sexy model, stilettos, stilettos lingerie
+  - [How to Be a Model Online: Building a Captivating Social Media Identity](https://www.carrielachance.com/blogs/carrie-lachance/how-to-be-a-model-online-building-a-captivating-social-media-identity): How to Be a Model Online: Building a Captivating Social Media Identity
+    Updated: 2026-04-15T00:08:47Z
+    Author: Carrie LaChance
+    Tags: brand identity, building a successful modeling profile, captivating presence online, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, influencer, modeling, modeling tips, online modeling, photography, photoshoot, posing tips, social media, social media model, taking good selfies, tips
+  - [Witching Hour Cosplay Feeling Fabulous in Extreme High Heels and Pantyhose](https://www.carrielachance.com/blogs/carrie-lachance/witching-hour-cosplay-feeling-fabulous-in-extreme-high-heels-and-pantyhose): Witching Hour Cosplay Feeling Fabulous in Extreme High Heels and Pantyhose
+    Updated: 2026-04-16T08:01:34Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, cosplay, extreme footwear, fabulous costume ideas, glamour model, heels, high fashion, high heels, latex model, life of a model, outfit of the day, pantyhose, pinup model, sexy model, stilettos, stylish cosplay looks, witching hour
+  - [Style and Substance: Creating Sexy Wardrobe Choices for Photo Shoots](https://www.carrielachance.com/blogs/carrie-lachance/style-and-substance-creating-sexy-wardrobe-choices-for-photo-shoots): Style and Substance: Creating Sexy Wardrobe Choices for Photo Shoots
+    Updated: 2026-04-17T00:06:18Z
+    Author: Carrie LaChance
+    Tags: dressing for confidence, fashion, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, modeling, modeling tips, outfit ideas, photo shoot, photography, photography fashion choices, photoshoot, posing tips, social media model, styling, taking good selfies, wardrobe tips
 
 ## Store Pages
 
