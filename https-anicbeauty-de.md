@@ -10,24 +10,10 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
 - Created At: 2024-12-21T15:29:50Z
 - Contact Email: info@anicbeauty.de
 - Address: 74564 Crailsheim
-- Updated At: 2026-04-10T00:00:35.374Z
+- Updated At: 2026-04-18T00:00:37.395Z
 
 ## Products
 
-- [Damenperücke aus Kunstfaser mit Farbverlauf, hitzebeständig, 60 cm](https://anicbeauty.de/products/wig-foreign-trade-wig-female-gradient-chemical-fiber-wig-wig): Verleihen Sie Ihrem Look mit der Damen-Kunstfaserperücke mit Farbverlauf ein modisches Upgrade. Sie bietet einen trendigen, modischen Look mit natürlichem Finish. Die weichen, hochwertigen Kunstfasern imitieren echtes Haar und bestechen durch einen atemberaubenden Farbverlauf. Ob für eine Party, einen gewagten neuen Look oder einfach nur, um Ihren Alltagsstil zu perfektionieren – diese Perücke garantiert Ihnen ein selbstbewusstes und aufsehenerregendes Aussehen. Vorteile : ✅ Stilvoller Farbverlauf : Moderne, mehrfarbige Nuancen für einen einzigartigen und dynamischen Look.✅ Natürliche Haarstruktur : Weiche, realistische Kunstfasern, die echtem Haar ähneln.✅ Bequem & Leicht : Die atmungsaktive Kappe sorgt für ganztägigen Tragekomfort.✅ Pflegeleicht : Vorgestylt für einfaches Tragen und Pflege.✅ Sicherer Sitz : Verstellbare Riemen sorgen für einen individuellen und sicheren Sitz. ✅ Vielseitig einsetzbar : Perfekt für den Alltag, Partys, Cosplay oder besondere Anlässe. Spezifikationen : • Produktname : Kunsthaarperücke für Damen mit Farbverlauf• Material : Hochwertige Kunstfaser• Haarstruktur : Glatt, gewellt oder lockig (verschiedene Optionen verfügbar)• Perückenlänge : Kurz, mittel oder lang (je nach Auswahl)• Farboptionen : Farbverläufe in Schwarz, Braun, Blond und mehr• Kappenart : Verstellbare, atmungsaktive Netzkappe• Hitzebeständigkeit : Bis zu 180 °C (350 °F) Das Produktpaket beinhaltet : • 1x Damenperücke aus Kunstfaser mit Farbverlauf
-  Updated: 2026-04-04T22:39:06Z
-  Vendor: LUX-Anic
-  Product Type: Wigs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/813900792031.jpg?v=1753350896
-  Price: 18,99 € EUR
-- [Kurze, glatte Perücke](https://anicbeauty.de/products/wig-female-wig-short-straight-hair-short-hair-straight-hair-bob-wig): Erzielen Sie mit unserer kurzen, glatten Damenperücke einen eleganten und professionellen Look. Diese Perücke mit modernem, kurzem, glattem Design wurde für Frauen entworfen, die eine glatte und handhabbare Frisur möchten. Sie ist leicht, atmungsaktiv und einfach zu stylen und eignet sich perfekt für den Alltag, die Arbeit oder besondere Anlässe. Genießen Sie mit minimalem Aufwand einen makellosen, selbstbewussten Look! Vorteile : ✅ Natürlich aussehendes Haar : Realistische Textur mit einem glatten, geraden Finish.✅ Ready-to-Wear : Vorgestylt für eine schnelle und einfache Anwendung.✅ Leicht und bequem : Weich und atmungsaktiv für ganztägigen Komfort.✅ Geringer Wartungsaufwand : Einfach zu waschen, zu stylen und zu pflegen.✅ Vielseitig einsetzbar : Perfekt für zwanglose, berufliche oder formelle Anlässe. Spezifikationen : • Produktname : Kurze, glatte Damenperücke• Material : Hochwertige Kunstfaser• Haarstruktur : Glatter, glatter Stil• Perückenlänge : Kurz (variiert je nach Modell)• Farboptionen : Natürliches Schwarz oder andere verfügbare Farbtöne• Kappentyp : Verstellbare, atmungsaktive Netzkappe• Hitzebeständigkeit : Bis zu 180 °C (350 °F) Das Produktpaket beinhaltet : • 1x kurze glatte Damenperücke
-  Updated: 2026-04-04T22:39:06Z
-  Vendor: LUX-Anic
-  Product Type: Wigs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Design_sans_titre_24.png?v=1753391275
-  Price: 17,95 € EUR
 - [Real Lace Wig - Short Straight Wave 100% Real Hair](https://anicbeauty.de/products/real-lace-wig-short-straight-wave-100-human-hair): Natural look with our Real Lace Wig - Short Straight Wave, made from 100% human hair. Buy Now -Free shipping
   Updated: 2026-04-04T22:39:06Z
   Vendor: LUX-Anic
@@ -35,15 +21,8 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Design_sans_titre_20.png?v=1753392844
   Price: 69,90 € EUR
-- [Lange lockige Perücke aus Kunstfaser "70 cm](https://anicbeauty.de/products/long-curly-wig-synthetic-fiber-70-cm): Natural look with our Long Curly Wig made from 100% Premium Fiber-Bouncy curls that mimic real hair-Looks and feels like natural hair-Buy your´s now-Free shipping
-  Updated: 2026-04-04T22:39:06Z
-  Vendor: LUX-Anic
-  Product Type: Wigs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/001.png?v=1756046876
-  Price: 19,90 € EUR
 - [13x6 Hd Lace Frontal Human Hair Wig 13x4 Body Wave 200 % -  34 inches](https://anicbeauty.de/products/hd-transparent-lace-wig-body-wave-brazilian-remy-human-hair): Achieve effortless beauty with our Body Wave Brazilian Lace Wig. Crafted with 100% human hair, this wig delivers natural texture, premium comfort, and a flawless finish. Designed with a transparent lace closure for a seamless blend, it’s perfect for women who value style and versatility. Advantages Natural Appearance: Pre-plucked hairline with baby hairs for a realistic look. Versatile Styling: Can be dyed, straightened, or curled to match your desired look. Long-Lasting: Made with high-quality Brazilian Remy hair for durability and softness. Easy Maintenance: Features a smooth body wave texture that stays tangle-free. Comfortable Fit: Swiss lace and adjustable cap ensure all-day comfort. Key Features Lace Type: Transparent 13x4 / 13x6 lace closure for a seamless blend. Hair Material: 100% Brazilian Remy human hair. Hair Density: Available in 200% . Cap Size: Medium default size, suitable for most head shapes. Lace Color: Transparent HD lace for an undetectable finish. Customizable: Suitable for all dyeing colors and heat styling. Natural Look: Baby hairs and bleached knots for a polished appearance. How to Use the Product Secure your natural hair with a wig cap for a smooth base. Adjust the lace wig to align with your hairline. Cut excess lace carefully for a natural blend. Use styling tools to personalize the look—curl, straighten, or dye as desired. Store the wig on a mannequin or in a silk bag to maintain its quality. Product Pack Contents 1 x Body Wave Brazilian Lace Wig
-  Updated: 2026-04-09T20:26:52Z
+  Updated: 2026-04-16T13:32:54Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -89,14 +68,14 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sbad5e5b4dff34c329cf4ef949465e56eU.webp?v=1765658632
     Price: 246,90 € EUR
 - [2-in-1 Hot Comb & Hair Straightener – Fast Heating & Anti-Scald Design](https://anicbeauty.de/products/2-in-1-hot-comb-hair-straightener-fast-heating-anti-scald-design): 2-in-1 Hot Comb & Hair Straightener with fast heating & anti-scald design. Achieve salon-quality straight hair anywhere! Free shipping.
-  Updated: 2026-04-06T18:57:20Z
+  Updated: 2026-04-15T20:06:05Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Hc39e41d9f9e44a69a9b3318a77e68effw.webp?v=1742100272
   Price: 19,90 € EUR
 - [Mini Beard & Hair Straightener Comb–Safe Styling for Men-EU Plug](https://anicbeauty.de/products/mini-beard-hair-straightener-comb-safe-styling-for-men): Style your beard and hair in minutes with the Mini Beard & Hair Straightener. Quick-heating tool for a sleek, polished look. EU Plug.
-  Updated: 2026-04-06T18:57:18Z
+  Updated: 2026-04-16T09:49:42Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
@@ -104,38 +83,38 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   - [Gold](https://anicbeauty.de/products/mini-beard-hair-straightener-comb-safe-styling-for-men?variant=50701596262664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S89e4c60270e548fb8a4feaf1b255b882X.webp?v=1771437824
-    Price: 11,90 € EUR
+    Price: 12,90 € EUR
   - [WHITE](https://anicbeauty.de/products/mini-beard-hair-straightener-comb-safe-styling-for-men?variant=50701596360968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S254ae45478774a4ca600c0ab55745bb7C.webp?v=1771437824
-    Price: 11,90 € EUR
-- [3-in-1 / 5-in-1 Professional Hair Styling Tool – Dry, Wave and Straighten](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten): 5-in-1 Hair Dryer & Hot Comb Set! Create sleek straight hair, voluminous curls, or perfectly styled waves. All-in-one styling tool. Free shipping.
-  Updated: 2026-04-06T18:56:51Z
+    Price: 12,90 € EUR
+- [5-in-1 / 3-in-1 Professional Hair Styling Tool – Dry, Wave and Straighten- EU Plug](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten): 5-in-1 Hair Dryer & Hot Comb Set! Create sleek straight hair, voluminous curls, or perfectly styled waves. All-in-one styling tool. Free shipping.
+  Updated: 2026-04-15T20:06:06Z
   Vendor: LUX-Anic
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/3-in-1_Hair_Dryer.jpg?v=1764014762
-  - [Purple 3 in 1 / EU Plug](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten?variant=52864880476424)
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S50a0c2adb7134f289b7fdb91181233d4l.webp?v=1776001716
+  - [Purple 3 in 1](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten?variant=52864880476424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/3-in-1_Hair_Dryer.jpg?v=1764014762
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/3-in-1_Hair_Dryer.jpg?v=1776001716
     Price: 22,90 € EUR
-  - [Purple 5 in 1 / EU Plug](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten?variant=50701599408392)
+  - [Purple 5 in 1](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten?variant=50701599408392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S67f807acb406448eaae658db863ef146n.webp?v=1746414581
-    Price: 36,90 € EUR
-  - [Blue 5 in 1 / EU Plug](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten?variant=55682129494280)
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S67f807acb406448eaae658db863ef146n.webp?v=1776001716
+    Price: 59,90 € EUR
+  - [Blue 5 in 1](https://anicbeauty.de/products/5-in-1-professional-hair-styling-tool-dry-curl-wave-and-straighten?variant=55682129494280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S50a0c2adb7134f289b7fdb91181233d4l.webp?v=1746413509
-    Price: 36,90 € EUR
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S50a0c2adb7134f289b7fdb91181233d4l.webp?v=1776001716
+    Price: 59,90 € EUR
 - [Short Curly Lace Front Remy Real Hair Wig – Natural Black 13x1](https://anicbeauty.de/products/13x1-short-curly-lace-front-remy-human-hair-wig-natural-black): Short Curly Lace Front Wig - Effortless beauty in minutes! Made from 100% Brazilian Remy Human Hair. Natural black color. Free shipping.
-  Updated: 2026-04-09T11:39:17Z
+  Updated: 2026-04-15T20:06:06Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S149a4b702fd74b89a07831dc9ca01161s.webp?v=1753351561
   Price: 34,90 € EUR
 - [Hand-finished Short Curly Gray Wig with Bangs -Synthetic High-Temperature Fiber](https://anicbeauty.de/products/hand-finished-short-curly-gray-wig-with-bangs): Short Curly Gray Wig with Bangs – Perfect for Daily Use! natural volume and bouncy curls with a chic- Shop Now- Free shipping - Fast delivery
-  Updated: 2026-04-06T23:47:58Z
+  Updated: 2026-04-15T20:06:06Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -159,50 +138,43 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S261b773883f143a1b7bfa62f9384edcdw.webp?v=1742571482
   Price: 12,90 € EUR
-- [Black Long Curly Bangs Synthetic fiber Wig ''70Cm](https://anicbeauty.de/products/ladies-wig-brown-black-long-curly-bangs): Transform your look effortlessly with our high-quality synthetic fiber wig designed for modern women who crave style and versatility. Advantages: Crafted from high-temperature wire for durability and heat resistance. Allows for dyeing, giving you the freedom to customize your look. Requires minimal maintenance compared to natural hair. Key Features: Chemical-free composition ensures safety for daily wear. Suitable for all skin tones and face shapes, offering universal appeal. Features a chic center bang type for a fashionable look. How to Use the Product: Adjust the wig to fit comfortably on your head. Style as desired using low-heat styling tools if needed. Secure in place and enjoy your transformed appearance. Product Pack Contents: 1 Synthetic Fiber Wig
-  Updated: 2026-04-04T22:39:06Z
-  Vendor: LUX-Anic
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/lang_wig_hair_70_cm.png?v=1772714129
-  Price: 18,95 € EUR
 - [100% Human Hair Short Bob Wigs Bone Straight Glueless - HD Lace Front](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked): Discover the perfect balance of style, comfort, and versatility with our Bob Wig. Crafted with 100% Brazilian Remy human hair and a transparent Swiss lace, this wig offers a natural, flawless look that enhances your beauty effortlessly. Whether you're aiming for an everyday chic style or a glamorous transformation, this wig is a must-have. Advantages Natural Look: The high-quality Brazilian Remy human hair blends seamlessly with your natural hairline. Comfortable Fit: With an average size cap, it comfortably fits most head sizes without compromising on style. Durable and Stylish: Made from Swiss lace, known for its strength and breathability, ensuring long-lasting use. Versatile Styling: You can dye the wig darker shades, giving you full creative control over your look. Pre-Plucked Hairline: The wig comes pre-plucked for a realistic and natural finish right out of the box. Key Features Material: 100% Brazilian Remy Human Hair Lace Color: Transparent Swiss Lace for a seamless blend with your scalp Cap Size: Average Size (fits most head sizes comfortably) Texture: Straight for a sleek, elegant appearance Wig Length: Available in a range of lengths from 4-16 inches Suitable Dying Colors: Only darker colors (to maintain hair quality) Pre-Plucked: Natural hairline for a more realistic look How to Use the Product Prepare your natural hair by braiding or flattening it to create a smooth base. Place the wig on your head and adjust the straps for a secure and comfortable fit. Style as desired – you can leave it as is for a chic straight look or add your personal touch with curling or trimming. For dyeing, choose a darker color to ensure the hair remains in its best condition. Product Pack Contents 1 x Bob Wig (Human Hair) 1 x Adjustable Wig Cap (for extra comfort)
-  Updated: 2026-04-09T16:33:28Z
+  Updated: 2026-04-16T13:30:49Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sd078ac0cfa6c451cb9816b2e99309e62u.webp?v=1775301569
-  - [5x5 Glueless Wig / 10inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874447606024)
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sd078ac0cfa6c451cb9816b2e99309e62u.webp?v=1775977082
+  - [Natural Black|13x4 HD Lace Wig / 10inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448556296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S88ab0b79504647cdb6b7627bc9ce3c1ag.webp?v=1775301569
-    Price: 45,90 € EUR
-  - [5x5 Glueless Wig / 12inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874447409416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S88ab0b79504647cdb6b7627bc9ce3c1ag.webp?v=1775301569
-    Price: 65,90 € EUR
-  - [5x5 Glueless Wig / 14inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874447474952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S88ab0b79504647cdb6b7627bc9ce3c1ag.webp?v=1775301569
-    Price: 76,90 € EUR
-  - [5x5 Glueless Wig / 16inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448752904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S88ab0b79504647cdb6b7627bc9ce3c1ag.webp?v=1775301569
-    Price: 86,90 € EUR
-  - [13x4 HD Lace Wig / 10inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448556296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775301569
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775977015
     Price: 51,90 € EUR
-  - [13x4 HD Lace Wig / 12inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448359688)
+  - [Natural Black|13x4 HD Lace Wig / 12inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448359688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775301569
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775977015
     Price: 62,90 € EUR
-  - [13x4 HD Lace Wig / 14inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448425224)
+  - [Natural Black|13x4 HD Lace Wig / 14inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448425224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775301569
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775977015
     Price: 74,90 € EUR
-  - [13x4 HD Lace Wig / 16inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448228616)
+  - [Natural Black|13x4 HD Lace Wig / 16inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=55874448228616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775301569
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sa968505af72c4a8b975905bebcfe3f62l.webp?v=1775977015
+    Price: 80,90 € EUR
+  - [Chocolate Brown|13x4 HD Lace Wig / 10inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=56728942313736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Human_Hair_Short_Bob_Wigs.jpg?v=1775976871
+    Price: 51,90 € EUR
+  - [Chocolate Brown|13x4 HD Lace Wig / 12inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=56728942346504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Human_Hair_Short_Bob_Wigs.jpg?v=1775976871
+    Price: 62,90 € EUR
+  - [Chocolate Brown|13x4 HD Lace Wig / 14inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=56728942379272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Human_Hair_Short_Bob_Wigs.jpg?v=1775976871
+    Price: 74,90 € EUR
+  - [Chocolate Brown|13x4 HD Lace Wig / 16inches|200%](https://anicbeauty.de/products/short-bob-wig-100-brazilian-remy-human-hair-lace-front-pre-plucked?variant=56728942412040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Human_Hair_Short_Bob_Wigs.jpg?v=1775976871
     Price: 80,90 € EUR
 - [Waterproof Lace Closure Tint Melting Mousse Spray Concealer Front Wigs](https://anicbeauty.de/products/waterproof-lace-closure-tint-melting-mousse-spray-concealer-front-wigs): Lace Tint Spray –You can choose the color according to your needs to mix and match our shades for create the color for you.
   Updated: 2026-04-04T22:39:02Z
@@ -219,7 +191,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Se56b0591823643ac997647f58fbd2c9fk.webp?v=1742570004
     Price: 10,90 € EUR
 - [Multifunctional Heated Hair Straightening Brush-Effortless Styling](https://anicbeauty.de/products/multifunctional-heated-hair-straightening-brush-effortless-styling): Our Multifunctional Heated Hair Straightening Brush is designed to effortlessly smooth and style your hair while protecting it from heat damage-Free shipping
-  Updated: 2026-04-04T22:39:07Z
+  Updated: 2026-04-15T20:06:06Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
@@ -248,28 +220,28 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Hailicare-purateur-ultrasonique-pour-la-peau-du-visage-appareil-EMS-micro-courant-pour-pelletage-du-visage.jpg_640x640_acfbb146-48dd-411f-84ac-a84bf5863200_1.jpg?v=1746131012
     Price: 13,95 € EUR
 - [(Pack 3)Forever Aloe Lips™ with Jojoba-Powerful, soothing moisture](https://anicbeauty.de/products/pack-3forever-aloe-lips™-with-jojoba-powerful-soothing-moisture-for-any-season): Hydrating lip balm with Aloe Vera & jojoba. Nourishes, protects, and keeps lips soft. Buy in a set of 3 at LUX-Anic-Free shipping
-  Updated: 2026-04-06T18:57:09Z
+  Updated: 2026-04-16T09:49:42Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/pack-3-forever-aloe-lips-with-jojoba-powerful-soothing-moisture-for-any-season-3pcs-852.jpg?v=1757275424
-  Price: 14,75 € EUR
+  Price: 15,25 € EUR
 - [Forever Aloe Spray-Moisturizes and nourishes body-face and hair 473 ml](https://anicbeauty.de/products/forever-aloe-spray-moisturizes-and-nourishes-body-face-and-hair-473-ml): Refreshing as a first aid spray -81 % Aloe Vera spray with propolis & botanicals. Hydrates skin, hair & scalp without greasiness. Available at LUX-Anic.
-  Updated: 2026-04-06T18:56:56Z
+  Updated: 2026-04-16T09:49:42Z
   Vendor: LUX-Anic
   Product Type: Forever Hair care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/aloe_first__pd_main_512_X_512_1666074043525.jpg?v=1743591247
-  Price: 22,95 € EUR
+  Price: 23,95 € EUR
 - [Set 1 Aloe Ever-Shield Deostift+1 Forever Bright Toothgel+3 Aloe Lips](https://anicbeauty.de/products/set-1-aloe-ever-shield-deostift-1-forever-bright-toothgel-3-aloe-lips): Package contains:-1 Forever Bright® Toothgel include natural ingredients for Kids and adults- 1 Deodorant stick without aluminum salt- 3 Forever Aloe Lips® care
-  Updated: 2026-04-06T18:57:15Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/EverLipsBright34.jpg?v=1745241390
   Price: 29,95 € EUR
 - [Forever Aloe Gelly – Soothing & Refreshing Aloe Vera Gel 118 ml](https://anicbeauty.de/products/forever-aloe-vera-gelly-moisturizing-cream-85-aloe-vera-gel-118ml): 85 % Aloe Vera gel for soothing, hydrating & cooling. Lightweight texture, non-greasy. Available at LUX-Anic- Free shipping
-  Updated: 2026-04-06T18:57:08Z
+  Updated: 2026-04-16T21:27:02Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -277,27 +249,27 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   - [1 Pc](https://anicbeauty.de/products/forever-aloe-vera-gelly-moisturizing-cream-85-aloe-vera-gel-118ml?variant=53209990037768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Green_and_White_Photography_Give_Away_Skincare_Instagram_Post_77.jpg?v=1768178040
-    Price: 19,90 € EUR
+    Price: 20,90 € EUR
   - [2 Pcs](https://anicbeauty.de/products/forever-aloe-vera-gelly-moisturizing-cream-85-aloe-vera-gel-118ml?variant=53209990070536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Green_and_White_Photography_Give_Away_Skincare_Instagram_Post_77_d8799bd8-b5c9-42a2-a5f5-872da4f7950e.jpg?v=1769639808
-    Price: 37,95 € EUR
+    Price: 37,60 € EUR
 - [Aloe Moisturizing Lotion - 37% Pure Aloe Vera for Face & Body | 118ml](https://anicbeauty.de/products/aloe-moisturizing-lotion-face-and-body-37-pure-aloe-vera-gel-118ml): Deep hydration with 37% pure aloe vera gel, collagen, apricot kernel & jojoba oil. Lightweight moisturizer for face and body. Non-greasy formula.
-  Updated: 2026-04-06T18:57:10Z
+  Updated: 2026-04-16T21:27:33Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/aloe_moisturizing_lotion_pd_main_512_X_512_1666597886556.jpg?v=1743591272
-  Price: 19,90 € EUR
+  Price: 20,90 € EUR
 - [Forever Aloe Activator - Facial Toner with 99% Pure Aloe Vera | 130ml](https://anicbeauty.de/products/forever-aloe-activator-facial-toner-anti-aging-cleanses-freshens-130ml): Refreshing facial toner with 99% pure aloe vera gel. Cleanses, soothes & revitalizes skin. Anti-aging properties. Perfect for all skin types.
-  Updated: 2026-04-06T18:56:36Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Green_and_White_Photography_Give_Away_Skincare_Instagram_Post_76.jpg?v=1770573869
   Price: 16,95 € EUR
 - [Forever Bright® Toothgel – Fluoride-Free Aloe Vera Mint](https://anicbeauty.de/products/forever-bright-toothgel): Fluoride-free Aloe Vera toothgel with natural mint. Gentle, refreshing and safe for children & adults. Shop LUX-Anic today.
-  Updated: 2026-04-06T18:56:55Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -311,7 +283,7 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Forever_Bright_LUX-Anic.png?v=1774531029
     Price: 17,25 € EUR
 - [Aloe Propolis Creme-moisturizing-Anti irritations-Neurodermatitis 113g](https://anicbeauty.de/products/aloe-propolis-creme-moisturizing-anti-irritations-neurodermatitis-113g): Hydrating cream with Aloe Vera, propolis, vitamins & chamomile to soothe irritation and reinforce skin barrier. Suitable for sensitive and dry skin.
-  Updated: 2026-04-06T18:57:13Z
+  Updated: 2026-04-17T14:13:26Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -319,17 +291,13 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   - [1 Pc](https://anicbeauty.de/products/aloe-propolis-creme-moisturizing-anti-irritations-neurodermatitis-113g?variant=53209956122888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/1ff148e7-f1bb-40db-bf36-a253f4d2c6d9.png?v=1769638938
-    Price: 22,95 € EUR
-  - [2 Pcs](https://anicbeauty.de/products/aloe-propolis-creme-moisturizing-anti-irritations-neurodermatitis-113g?variant=53209956155656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/aloe_propolis_creme_pd_main_512_X_512_1666074257832_1.jpg?v=1769638937
-    Price: 41,95 € EUR
+    Price: 23,50 € EUR
   - [1 Propolis & 1 Aloe First](https://anicbeauty.de/products/aloe-propolis-creme-moisturizing-anti-irritations-neurodermatitis-113g?variant=53209956188424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Green_and_White_Photography_Give_Away_Skincare_Instagram_Post_83.jpg?v=1771856508
-    Price: 41,95 € EUR
+    Price: 43,95 € EUR
 - [Set 1xAloe Ever-Shield Deostift + 1xForever Toothgel Fluorid Free](https://anicbeauty.de/products/set-1xaloe-ever-shield-deostift-1xforever-toothgel-fluorid-free): Package contains:-1 Forever Bright® Toothgel include natural ingredients for Kids and adults- 1 Deodorant stick without aluminum salt- Free shipping
-  Updated: 2026-04-06T18:56:49Z
+  Updated: 2026-04-15T20:06:06Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -350,49 +318,42 @@ Founded in 2021 and based in 74564 Crailsheim Germany, AnicBeauty was born from 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/infinite_by_forever__pd_main_512_X_512_1669196250850.webp?v=1743591326
   Price: 158,99 € EUR
 - [Forever Aloe Scrub® - Gentle Exfoliating Cream with Jojoba & Aloe Vera](https://anicbeauty.de/products/forever-aloe-scrub®-exfoliating-cream-with-jojoba-and-aloe-vera): Gentle exfoliating cream with aloe vera and jojoba microbeads. Removes dead skin cells without irritating. Leaves skin soft, smooth and revitalized.
-  Updated: 2026-04-06T18:56:25Z
+  Updated: 2026-04-15T20:06:06Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_aloe_scrub__pd_main_512_X_512_1672392758706.jpg?v=1756246096
   Price: 16,95 € EUR
 - [Forever Aloe-Jojoba oil Shampoo with argan oil- 296 ml](https://anicbeauty.de/products/forever-aloe-jojoba-oil-shampoo-with-argan-oil-296-ml): Aloe-Jojoba oil Shampoo - 296 ml-Strengthening shampoo with aloe vera and jojoba oil-Refreshing aromas of tropical fruits paired with melon-Free shipping
-  Updated: 2026-04-06T18:57:01Z
+  Updated: 2026-04-15T20:06:06Z
   Vendor: LUX-Anic
   Product Type: Forever Hair care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/aloe-jojoba_shampoo_pd_main_512_X_512_1674141021283_05ebfd08-8f13-4c90-8a6d-838df00055e1.jpg?v=1744474543
   Price: 23,95 € EUR
 - [Forever Aloe Conditioner - Aloe Vera, Jojoba & Argan Oil | 296ml](https://anicbeauty.de/products/forever-aloe-conditioner-with-aloe-vera-jojoba-oil-argan-oil-296ml): Nourishing conditioner with aloe vera, jojoba & argan oil. Leaves hair soft, manageable & shiny. Lightweight formula for all hair types.
-  Updated: 2026-04-06T18:57:04Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Hair care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/aloe-jojoba_conditioner_pd_main_512_X_512_1674141220588_8ba00c4d-73a2-44aa-81eb-dcbec919b99d.png?v=1744475046
   Price: 23,95 € EUR
 - [Forever Marine Collagen™ -Luminous Youthful and Smooth Skin-30packets](https://anicbeauty.de/products/forever-marine-collagen™-luminous-youthful-and-smooth-skin-30packets): Forever Marine Collagen™-perfect for giving a feeling of vitality and freshness.Let your inner beauty shine-enjoy moments of empowerment from the inside out
-  Updated: 2026-04-06T18:56:42Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Hair care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_marine_collagen__pd_main_512_X_512_1666949434151.jpg?v=1743591362
   Price: 79,95 € EUR
 - [Aloe Liquid Soap- Aloe-Vera-Gel-Argan oil and jojoba liquid soap-473ml](https://anicbeauty.de/products/aloe-liquid-soap-aloe-vera-gel-argan-oil-and-jojoba-liquid-soap-473ml): Versatile liquid soap for the whole family-Forever's Aloe Liquid Soap cleanses the skin naturally without dehydrating-with argan-jojoba and other plant extracts
-  Updated: 2026-04-06T18:56:58Z
+  Updated: 2026-04-17T13:25:37Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Green_and_White_Photography_Give_Away_Skincare_Instagram_Post_86.jpg?v=1743591369
-  - [1 Pc](https://anicbeauty.de/products/aloe-liquid-soap-aloe-vera-gel-argan-oil-and-jojoba-liquid-soap-473ml?variant=53209893503240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Green_and_White_Photography_Give_Away_Skincare_Instagram_Post_86.jpg?v=1743591369
-    Price: 19,95 € EUR
-  - [2 Pcs](https://anicbeauty.de/products/aloe-liquid-soap-aloe-vera-gel-argan-oil-and-jojoba-liquid-soap-473ml?variant=53209893536008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Skincare.jpg?v=1769638208
-    Price: 37,95 € EUR
+  Price: 22,95 € EUR
 - [Aloe Cooling Lotion - Massage Gel with Menthol, Eucalyptus & Rosemary | 118ml](https://anicbeauty.de/products/aloe-cooling-lotion-massage-gel-with-menthol-eucalyptus-rosemary-118ml): Refreshing massage gel with aloe vera, menthol, eucalyptus & rosemary. Soothes tired muscles with instant cooling relief. Perfect after workouts.
-  Updated: 2026-04-06T18:56:54Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -421,7 +382,7 @@ Your skin is moisturized better immediately, dirt particles and oily residues ar
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/infinite_by_forever__firming_complex_pd_main_512_X_512_1669196379187.webp?v=1771856463
   Price: 49,95 € EUR
 - [Forever Aloe Avocado Face and Body Soap - 2x142Gr](https://anicbeauty.de/products/forever-aloe-avocado-face-and-body-soap-2x142gr): Forever Aloe Avocado Face-Body Soap-cleans and protects-with aloe vera and glycerin-moisturizes deep down-Cleanses thoroughly-provides suppleness.
-  Updated: 2026-04-06T18:57:02Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -435,7 +396,7 @@ Your skin is moisturized better immediately, dirt particles and oily residues ar
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/hydrating_serum_pd_main_512_X_512_1669197244049.webp?v=1771856454
   Price: 34,99 € EUR
 - [Deep Moisturizing Cream - 71 G - Night care](https://anicbeauty.de/products/deep-moisturizing-cream-71-g-night-care): Rich night cream with Aloe, ceramides, jojoba & macadamia. Hydrates, smooths & strengthens the barrier. Ideal for dry skin-regeneration process-Free shipping
-  Updated: 2026-04-06T18:57:05Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -449,14 +410,14 @@ Your skin is moisturized better immediately, dirt particles and oily residues ar
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/smoothing_exfoliator_pd_main_512_X_512_1669196664944.webp?v=1771856448
   Price: 19,95 € EUR
 - [(Pack 12) Forever Aloe Lips™ with Jojoba oil-soothing for any season](https://anicbeauty.de/products/pack-12-forever-aloe-lips™-with-jojoba-oil-soothing-for-any-season): Set of 12 Aloe Vera & Jojoba lip balms. Hydrates, protects and nourishes for every season. Shop LUX-Anic today.-smile at any time of the day or year-Free shipping
-  Updated: 2026-04-06T18:57:07Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/pack-12-forever-aloe-lips-with-jojoba-oil-soothing-for-any-season-836.jpg?v=1771856452
   Price: 49,75 € EUR
 - [Forever Aloe Ever-Shield™ – Aluminum-Free Deodorant with Aloe Vera](https://anicbeauty.de/products/forever-aloe-ever-shield™-deodorant-stick-without-aluminum-salt): Gentle, aluminum-free deodorant with Aloe Vera. Long-lasting freshness and comfort for all skin types. Dermatologically tested- Buy Now-Free shipping
-  Updated: 2026-04-06T18:57:12Z
+  Updated: 2026-04-15T20:06:08Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -470,42 +431,28 @@ Your skin is moisturized better immediately, dirt particles and oily residues ar
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Forever_Aloe_Ever-Shield_-Deodorant_stick.jpg?v=1756416839
     Price: 17,95 € EUR
 - [Nourishing Hair Oil-With Aloe Vera and six botanical oils -30 ml](https://anicbeauty.de/products/nourishing-hair-oil-with-aloe-vera-and-six-botanical-oils-30-ml): ・Ideal for all hair types and textures, Forever’s Nourishing Hair Oil contains plant-based・Nourishing Hair Oil Silikonfreie Nourishing Hair Oil
-  Updated: 2026-04-06T18:56:33Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Hair care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/nourishing_hair_oil_pd_main_512_X_512_1695629288148.png?v=1771856439
   Price: 28,95 € EUR
 - [Forever Aloe Vera Gel™ 99% aloe vera gel - Sugar free  -1 Liter](https://anicbeauty.de/products/forever-aloe-vera-gel™-99-aloe-vera-gel-sugar-free-1-liter): •aloe vera is often described as nature's best gift-Thanks to 99.7% aloe vera gel-our drink offers maximum purity-You can't get any closer to nature! Free shipping
-  Updated: 2026-04-06T18:56:59Z
+  Updated: 2026-04-17T14:19:36Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_aloe_vera_gel__pd_main_512_X_512_1717685468725.jpg?v=1771856578
-  - [1 Liter](https://anicbeauty.de/products/forever-aloe-vera-gel™-99-aloe-vera-gel-sugar-free-1-liter?variant=52055286022408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_aloe_vera_gel__pd_main_512_X_512_1717685468725.jpg?v=1771856578
-    Price: 34,95 € EUR
-  - [4-Pack (4x 1 Liter)](https://anicbeauty.de/products/forever-aloe-vera-gel™-99-aloe-vera-gel-sugar-free-1-liter?variant=52055293952264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/4-Pack_Forever_Aloe_Vera_Gel__pd_main_512_X_512_1743161234881.jpg?v=1753651263
-    Price: 131,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_aloe_vera_gel__pd_main_512_X_512_1717685468725.jpg?v=1776435453
+  Price: 34,95 € EUR
 - [Forever Berry Nectar™ 90,7% Aloe-Vera-Gel +Apple and Cranberry-1 Liter](https://anicbeauty.de/products/forever-berry-nectar™-90-7-aloe-vera-gel-apple-and-cranberry-1-liter): Forever Aloe Berry Nectar™ - 90.7% aloe vera gel with natural apple & cranberry. Natural sweetness & valuable nutrients. 1 Liter.
-  Updated: 2026-04-06T18:56:30Z
+  Updated: 2026-04-17T13:32:47Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Forever_Berry_Nectar_90_7_Aloe-Vera-Gel_Apple_and_Cranberry-1_Liter.jpg?v=1771856430
-  - [1 Liter](https://anicbeauty.de/products/forever-berry-nectar™-90-7-aloe-vera-gel-apple-and-cranberry-1-liter?variant=52055268753672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Forever_Berry_Nectar_90_7_Aloe-Vera-Gel_Apple_and_Cranberry-1_Liter.jpg?v=1771856430
-    Price: 34,95 € EUR
-  - [4-Pack](https://anicbeauty.de/products/forever-berry-nectar™-90-7-aloe-vera-gel-apple-and-cranberry-1-liter?variant=52055272784136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/4-Pack_Forever_Aloe_Berry_Nectar.jpg?v=1755447029
-    Price: 131,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Forever_Berry_Nectar_90_7_Aloe-Vera-Gel_Apple_and_Cranberry-1_Liter.jpg?v=1776432546
+  Price: 34,95 € EUR
 - [CLEAN 9 -Aloe Gel Vanilla-Garcinia Plus-Therm-Fiber-Repower- 9 Day Program](https://anicbeauty.de/products/clean-9-aloe-gel-vanilla-garcinia-plus-therm-fiber-repower-body-shape-9-day-program): Repower your Body. The program is designed to increase your motivation and help you achieve your personal fitness goals. Buy now, free shipping
-  Updated: 2026-04-06T18:56:34Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
@@ -533,14 +480,14 @@ Your skin is moisturized better immediately, dirt particles and oily residues ar
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Pack_Clean_9_12.jpg?v=1771856425
   Price: 126,95 € EUR
 - [Forever Ultra™ Chocolate Shake Mix-405 g](https://anicbeauty.de/products/forever-ultra™-chocolate-shake-mix-405-g): Forever Ultra™ Shake Mix helps you to eat consciously and controlled-Perfect as a low-calorie diet-especially when combined with regular exercise-Free shipping
-  Updated: 2026-04-04T22:39:07Z
+  Updated: 2026-04-16T09:50:18Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_ultra__chocolate_shake_mix_pd_zoomedimage_1000_X_1000_1673614601990.jpg?v=1771856421
-  Price: 25,95 € EUR
+  Price: 24,95 € EUR
 - [Forever Ultra™ Vanilla Shake Mix-375 g](https://anicbeauty.de/products/forever-ultra™-vanilla-shake-mix-375-g): Forever Ultra™ Shake Mix helps you to eat consciously and controlled-Perfect as a low-calorie diet-especially when combined with regular exercise-Shop now
-  Updated: 2026-04-06T18:57:16Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
@@ -590,14 +537,14 @@ Aloe Blossom Herbal Tea® is a tea with aloe vera-without calories-without fat! 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/F15-Vanilla-15-Day_Fitness_Program.jpg?v=1770347721
   Price: 129,95 € EUR
 - [Forever Aloe Mango™ 86% Aloe-Vera-Gel kombiniert mit Mango 1 Liter](https://anicbeauty.de/products/forever-aloe-mango™-86-aloe-vera-gel-kombiniert-mit-mango): Forever Aloe Mango™ - a healthy portion of vacation Ready for vacation? With Forever Aloe Mango™, the seductive sweetness and exotic taste of mango gives you a sip of vacation straight into your glass. • Contains 86% pure aloe vera gel • Highest quality standards:  with IASC seal• High vitamin C content*• Without added preservatives • With fruity mango flavor• Suitable for vegetarians and vegans• Sustainable cultivation *Vitamin C contributes to the normal function of the immune system and to the reduction of fatigue. Experience that vacation feeling with just one sip and let your taste buds dance with Forever Aloe Mango™. This exotic drink contains a whopping 86% pure aloe vera gel and is therefore packed full of valuable nutrients. The mango puree concentrate comes from the best fruits that have been allowed to ripen in full sun.The drink is preservative-free and rich in vitamin C*. FOR A CONSCIOUS LIFESTYLE AND PURE JOIE DE VIVREWhen aloe vera meets mango, your taste buds simply go on vacation!Mangoes are real vital substance and vitamin bombs. The fruit is harvested at the best degree of ripeness to preserve its deliciously sweet taste and optimum nutrient content. THE IDEAL FORM OF VITAMIN INTAKEAloe vera gives you a concentrated power boost for the whole body. This is because the plant contains many vitamins, enzymes, minerals, secondary plant substances, trace elements, amino acids and mono- and polysaccharides. The vitamin C it contains contributes to the normal functioning of the immune system and to reducing tiredness. Forever Aloe Mango™, like all other Forever Aloe Drinks, is produced under safe and sterile conditions. The absence of preservatives ensures maximum freshness and the preservation of all nutrients. QUALITOur gel is harvested by hand, filleted and gently extracted from the leaf pulp of the plant in a special process directly after harvesting. It is the first aloe vera gel to be  for its quality by the International Aloe Science Council (IASC). The drinking gel is filled in recyclable PET bottles, which already consist of 50% recycled material. The material not only protects the contents, but also ensures that the delicious and refreshing taste is retained. Note:This product is not a substitute for a balanced and varied diet and a healthy diet and a healthy lifestyle. Made in USA. Usage Take one 40 ml serving three times a day mixed with 240 ml water or juice. Shake well before use. Storage conditions:Once opened, store in the refrigerator (max. 7 °C) and consume within 30 days. INGREDIENTS LIST Stabilized Aloe Vera gel [aloe vera inner leaf gel (86%), vitamin C (l-ascorbic acid), antioxidant (l-ascorbic acid), acidity regulator (citric acid)], mango puree conenctrate (10%), fructose, flavour (mango).
-  Updated: 2026-04-04T22:39:08Z
+  Updated: 2026-04-16T09:47:38Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_aloe_mango__pd_main_512_X_512_1718720274113.jpg?v=1754596789
-  Price: 28,90 € EUR
+  Price: 34,90 € EUR
 - [13x4 Brown Lace Front Wig | 100% Real Hair, 200% Density-pre-plucked hairline wig](https://anicbeauty.de/products/13x4-brown-lace-front-wig-100-human-hair-180-density): Shop the 13x4 Brown Lace Front Wig – 100% human hair, 200% density, pre-plucked hairline and transparent lace for a flawless natural look.
-  Updated: 2026-04-09T19:16:25Z
+  Updated: 2026-04-16T13:28:10Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -615,7 +562,7 @@ Aloe Blossom Herbal Tea® is a tea with aloe vera-without calories-without fat! 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S997a1ebc463c41a5ba0ba8e2043ffc8by.webp?v=1754596792
     Price: 160,99 € EUR
 - [Blonde Lace Front-Human Hair Wig–Transparent Lace-Pre-Plucked](https://anicbeauty.de/products/blonde-lace-front-human-hair-wig-transparent-lace-pre-plucked): Buy honey blonde lace wig online -Transparent lace-Pre-plucked with baby hair for a flawless-Natural Look-200% density-Affordable Price - Free Shipping
-  Updated: 2026-04-04T22:39:09Z
+  Updated: 2026-04-16T13:29:08Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -668,7 +615,7 @@ Aloe Blossom Herbal Tea® is a tea with aloe vera-without calories-without fat! 
   Price: 35,95 € EUR
 - [Tightening Mask Powder-Refreshed, Nourished Skin 29Gr &  Aloe Activator Facial Toner](https://anicbeauty.de/products/tightening-mask-powder-refreshed-nourished-skin-29gr): - Your beauty studio at home-forever aloe mask- to make your skin look refreshed and pampered!
 Forever Tightening Mask Powder-Buy now-Free Shipping!
-  Updated: 2026-04-04T22:39:07Z
+  Updated: 2026-04-17T13:26:19Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -679,9 +626,10 @@ Forever Tightening Mask Powder-Buy now-Free Shipping!
     Price: 18,95 € EUR
   - [Mask Powder & Activator](https://anicbeauty.de/products/tightening-mask-powder-refreshed-nourished-skin-29gr?variant=53171638436104)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Forever_TighteningMask_AloeAktivator_1_1.jpg?v=1770573869
     Price: 33,95 € EUR
 - [V Part Kinky Curly Real Hair Wig | 100% Brazilian Hair](https://anicbeauty.de/products/v-part-kinky-curly-human-hair-wig-100-brazilian-hair): V Part Kinky Curly Wig–100% Brazilian hair,180–250% density-no lace-no glue-Natural scalp look,long-lasting, soft & easy to style-Shop Now-Free shipping
-  Updated: 2026-04-09T16:33:31Z
+  Updated: 2026-04-16T13:29:47Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -741,7 +689,7 @@ Forever Tightening Mask Powder-Buy now-Free Shipping!
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/pack-3-forever-bright-r-toothgel-natural-mint-fluoridfrei-kids-and-adults-130gr-pcs-668.jpg?v=1757275406
   Price: 22,75 € EUR
 - [(Pack 2)Forever Aloe Ever-Shield™-Deodorant stick without aluminum salt](https://anicbeauty.de/products/pack-2forever-aloe-ever-shield™-deodorant-stick-without-aluminum-salt): The deodorant stick Aloe Ever Shield with nourishing aloe vera for every day and every occasion. Your deodorant without aluminum- Buy Now-Free shipping
-  Updated: 2026-04-06T16:08:59Z
+  Updated: 2026-04-15T12:49:21Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -755,14 +703,14 @@ Forever Tightening Mask Powder-Buy now-Free Shipping!
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/pack-3-forever-aloe-ever-shield-deodorant-stick-without-aluminum-salt-pcs-334.jpg?v=1771856388
   Price: 22,95 € EUR
 - [Forever Vit - vegetarians and vegans - covers 100% of the daily supply](https://anicbeauty.de/products/forever-vit™-vegetarians-and-vegans-covers-100-of-the-daily-supply): Forever VIT™ is a natural, fruity-sweet delicacy made from a wide variety of fruits and vegetables - daily basic supply vitamins and minerals for Adults and Children
-  Updated: 2026-04-06T18:57:17Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Active Life
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_vit__pd_main_512_X_512_1672142037538.jpg?v=1756016620
   Price: 16,95 € EUR
 - [5x5 Glueless Lace Human Hair Wigs Ready to Wear Indian Remy Body Wave Natural Black](https://anicbeauty.de/products/5x5-glueless-wig-human-hair-wigs-hd-transparent-200-density-body-wave): Transform Your Look with Premium HD Transparent Lace Front Wig Experience the ultimate in natural-looking hair with our luxurious Glueless Wig featuring HD transparent lace technology. This stunning body wave human hair wig offers effortless beauty that's ready to wear straight out of the box. ✨ Key Features: 200% Density: Full, voluminous hair that looks naturally thick and healthy HD Transparent Lace: Virtually invisible hairline that blends seamlessly with any skin tone Glueless Design: Easy application without messy adhesives - simply adjust and go Pre-Plucked Hairline: Natural-looking baby hairs already styled for you Body Wave Texture: Gorgeous, bouncy waves that move naturally 5x5 Closure: Versatile parting options for multiple styling looks 💫 Why You'll Love It: Imagine waking up every morning with perfect hair that requires minimal styling. This premium human hair wig gives you salon-quality results in minutes. The soft body waves catch the light beautifully, while the HD lace creates an undetectable hairline that looks like your natural scalp. 🎯 Perfect For: Busy professionals who want effortless glamour Special occasions and events Protective styling for natural hair Anyone seeking versatile, low-maintenance beauty Ready to go, ready to glow - your new signature look awaits!
-  Updated: 2026-04-09T16:33:38Z
+  Updated: 2026-04-16T21:55:13Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -788,7 +736,7 @@ Forever Tightening Mask Powder-Buy now-Free Shipping!
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Scd73151013194e5bba32883c8ce963fbX.webp?v=1758379484
     Price: 180,90 € EUR
 - [200% Density HD Lace Front Human Hair Wigs Ombre Blonde Body Wave 24" to 34 inches](https://anicbeauty.de/products/200-density-hd-lace-front-wig-honey-blonde-4-27-human-hair-body-wave-lux-anic): Transform your look with this stunning premium quality 100% Remy human hair wig! 🌟 Why Choose This Wig? Malaysian Remy Human Hair - Natural and silky texture 200% Density - Exceptional volume for a glamorous look 13x4/13x6 HD Transparent Lace - Invisible natural effect 4/27 Highlight Color - Sophisticated brown/honey blonde blend Body Wave Texture - Elegant and natural waves 💫 Technical Features Material: 100% Natural Remy Human Hair Construction: Half Machine Made & Half Hand Tied Available Lengths: 24 to 34 inches Cap Size: Adjustable from 21.5 to 23.5 inches Free Part: 4/6 inches - Versatile styling 🎯 Exclusive Benefits ✅ No Shedding & No Tangling ✅ Can be Curled, Bleached, Dyed & Permed ✅ Breathable & Comfortable thanks to large lace area ✅ High Ponytail & Bun Friendly ✅ Multiple Styles: Middle part, side part, half up half down 💎 The LUX-Anic Experience Picture yourself wearing this luxurious wig: voluminous hair that moves naturally, radiant color that catches every eye, and the confidence of a perfect look from morning to night. Every strand has been carefully selected to give you the premium quality you deserve. Perfect for: Special occasions, daily wear, style changes, protecting your natural hair Order now and discover why our customers trust LUX-Anic for their most beautiful looks!
-  Updated: 2026-04-09T19:03:35Z
+  Updated: 2026-04-16T21:56:19Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -835,7 +783,7 @@ Forever Tightening Mask Powder-Buy now-Free Shipping!
     Price: 207,90 € EUR
 - [Forever Vitamin C™ Brightening Facial Milk 30ml](https://anicbeauty.de/products/forever-vitamin-c™-brightening-facial-milk): Morning glow with 6% vitamin C
 Forever Vitamin C™ is a refining facial milk with 6% vitamin C, jojoba and Aloe Vera for visibly radiant skin in the morning.
-  Updated: 2026-04-06T18:56:09Z
+  Updated: 2026-04-15T20:06:07Z
   Vendor: LUX-Anic
   Product Type: Forever Skin and Personal care
   Availability: Available
@@ -871,7 +819,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/forever_fiber__pd_main_512_X_512_1672322573388.jpg?v=1759419353
   Price: 22,95 € EUR
 - [13x4 Transparent Lace Wig Body Wave Brazilian 4x4 – Natural Hair 180% Density 20 inches](https://anicbeauty.de/products/13x4-transparent-lace-wig-body-wave-brazilian-natural-hair-180-density-20-inches): Effortless beauty with our Body Wave Brazilian Lace Wig-100% human hair-Lace front Wig-delivers natural texture-Buy now-free shipping
-  Updated: 2026-04-07T10:08:45Z
+  Updated: 2026-04-14T17:22:49Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -879,13 +827,13 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
   - [13x4](https://anicbeauty.de/products/13x4-transparent-lace-wig-body-wave-brazilian-natural-hair-180-density-20-inches?variant=52968695038216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/4x4_13x4_Transparent_Lace_Wig_Body_Wave_12.jpg?v=1766411731
-    Price: 87,95 € EUR
+    Price: 95,90 € EUR
   - [4x4](https://anicbeauty.de/products/13x4-transparent-lace-wig-body-wave-brazilian-natural-hair-180-density-20-inches?variant=52968695070984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/4x4_13x4_Transparent_Lace_Wig_Body_Wave_7.jpg?v=1771856366
-    Price: 83,95 € EUR
+    Price: 92,90 € EUR
 - [Headband Wig Human Hair Body Wave Natural Color Wig Brazilian Remy](https://anicbeauty.de/products/headband-wig-brazilian-remy-human-hair-glueless-wigs-all-textures): ✨ Transform your look instantly with our human hair Body Wave headband wig — the perfect blend of style, comfort, and natural beauty. Designed for effortless wear, these wigs deliver a flawless appearance without the need for glue or complicated styling. ✨ Premium features: 100% Natural Remy Human Hair - Superior quality Brazilian Comfortable Headband Design - Easy wear without glue or complex installation Natural and Seamless Look - Perfectly complements any occasion Lightweight and Comfortable - Ideal for all-day wear Easy to Style and Maintain - Switch up your style effortlessly Perfect for Black Women - Designed to enhance your natural beauty Redefine your natural style with this Smooth Brazilian Body Wave - Soft, flowing waves in 100% natural Brazilian Remy hair for versatile styling to express your unique personality.
-  Updated: 2026-04-09T16:33:43Z
+  Updated: 2026-04-16T13:21:17Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -907,13 +855,13 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Headband_wig.jpg?v=1775311818
     Price: 121,90 € EUR
 - [168-Piece Painting Set in Suitcase - Complete Kids Art Kit | Black & Pink](https://anicbeauty.de/products/painting-set-in-a-suitcase-168-pcs-black): Complete 168-piece art set in portable suitcase. Includes paints, brushes, crayons, markers & more. Perfect for young artists. Organized storage.
-  Updated: 2026-04-04T22:39:08Z
+  Updated: 2026-04-16T21:53:45Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Painting_set_in_a_case_7.jpg?v=1771856289
   - [Pink](https://anicbeauty.de/products/painting-set-in-a-suitcase-168-pcs-black?variant=52676719935752)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Painting_set_in_a_case_5.jpg?v=1763077107
     Price: 17,95 € EUR
   - [Black](https://anicbeauty.de/products/painting-set-in-a-suitcase-168-pcs-black?variant=52676719902984)
@@ -921,7 +869,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Cop_Painting_set_in_a_case.jpg?v=1771856294
     Price: 17,95 € EUR
 - [Bamboo Laptop Table – Adjustable & Ventilated | LUX-Anic](https://anicbeauty.de/products/laptop-table-s23452): Adjustable bamboo laptop table with ventilation &amp; side drawer. Perfect for bed, sofa or travel. Natural comfort.
-  Updated: 2026-04-04T22:39:07Z
+  Updated: 2026-04-16T21:51:15Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
@@ -942,14 +890,14 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Carry-On_Backpack_9.jpg?v=1763306575
     Price: 17,95 € EUR
 - [PURLOV Pet Transporter Bag - Safe Travel for Dogs & Cats | Reinforced](https://anicbeauty.de/products/transporter-bag-for-dogs-cats-purlov-20940): Durable pet carrier with soft foam sides & reinforced bottom. Safe, comfortable transport for dogs & cats. Perfect for vet visits & travel.
-  Updated: 2026-04-04T22:39:06Z
+  Updated: 2026-04-16T21:50:06Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/16483_11.webp?v=1760638035
-  Price: 15,95 € EUR
+  Price: 18,95 € EUR
 - [PURLOV Plush Cat Bed - Cozy House Style 34x37cm | Soft & Warm](https://anicbeauty.de/products/plush-cat-bed-purlov-21947-box): Cozy plush cat bed in house style design. Soft, warm retreat for cats. Perfect size 34x37cm. Stylish & comfortable. Easy to clean.
-  Updated: 2026-04-04T22:39:03Z
+  Updated: 2026-04-16T21:50:45Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
@@ -984,12 +932,12 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Foldable_Kids_Scooter_200_mm_Wheels_Brake_Strap_10.jpg?v=1764014175
     Price: 47,90 € EUR
 - [Wooden Double-Sided Board – Chalk & Magnetic | LUX-Anic](https://anicbeauty.de/products/wooden-double-sided-board-magnetic-chalk-rotating-easel): Eco wooden 2-in-1 rotating board for kids. Chalk & whiteboard sides, safe & educational. Includes chalks & marker.
-  Updated: 2026-04-04T22:39:07Z
+  Updated: 2026-04-16T21:54:13Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Wooden_Double-Sided_Board_Magnetic_Chalk_5.jpg?v=1763306749
-  Price: 19,95 € EUR
+  Price: 21,95 € EUR
 - [86-Piece Painting Set in Case - Complete Kids Art Kit | Portable](https://anicbeauty.de/products/painting-set-in-a-case-86-pcs): Complete 86-piece art set in portable case. Includes paints, brushes, crayons, markers & more. Perfect for young artists. Compact organized storage.
   Updated: 2026-04-04T22:39:03Z
   Vendor: LUX-Anic
@@ -1040,28 +988,28 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/RechargeableNailPolisher.jpg?v=1771856246
   Price: 12,90 € EUR
 - [Folding Bamboo Breakfast Table – XL Bed Tray & Laptop Table | LUX-Anic](https://anicbeauty.de/products/folding-bamboo-breakfast-table-xl-bed-tray-laptop-table): XL folding bamboo breakfast table for bed. Stable, moisture-resistant, easy to clean. Perfect for meals or laptop work. 5 kg capacity. LUX-Anic.
-  Updated: 2026-04-04T22:39:08Z
+  Updated: 2026-04-16T21:51:36Z
   Vendor: LUX-Anic
   Product Type: LUX-Anic Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Breakfasttable_3.jpg?v=1771856234
-  Price: 17,95 € EUR
-- [OMBRE Synthetic Hair Braid – Navy Blue, Purple & Pink with Glitter - Brown](https://anicbeauty.de/products/ombre-synthetic-hair-braid-navy-blue-purple-pink-with-glitter): Easy to put on and remove, it’s perfect for experimenting with bold looks without commitment.👉 Switch up your look in seconds — fun, bold and effortless.
-  Updated: 2026-04-04T22:39:07Z
+  Price: 18,95 € EUR
+- [2 x OMBRE Synthetic Hair Braid – Navy Blue, Purple & Pink with Glitter - Brown](https://anicbeauty.de/products/ombre-synthetic-hair-braid-navy-blue-purple-pink-with-glitter): Easy to put on and remove, it’s perfect for experimenting with bold looks without commitment.👉 Switch up your look in seconds — fun, bold and effortless.
+  Updated: 2026-04-16T19:49:40Z
   Vendor: LUX-Anic
   Product Type: Braid Extension
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/2_packs_Pre-Stretched_Braid_1.jpg?v=1768220390
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/OMBRESyntheticHairBraid_NavyBlue_Purple.jpg?v=1776325831
   - [Purple](https://anicbeauty.de/products/ombre-synthetic-hair-braid-navy-blue-purple-pink-with-glitter?variant=53127187038472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/2_packs_Pre-Stretched_Braid_3.jpg?v=1768220366
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/OMBRESyntheticHairBraid_NavyBlue_Purple.jpg?v=1776325831
     Price: 8,95 € EUR
   - [Brown](https://anicbeauty.de/products/ombre-synthetic-hair-braid-navy-blue-purple-pink-with-glitter?variant=53127187071240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/2_packs_Pre-Stretched_Braid_2.jpg?v=1768220366
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/2_packs_Pre-Stretched_Braid_2.jpg?v=1776325831
     Price: 8,95 € EUR
 - [#99J Short Bob Human Hair Wigs Brazilian Burgundy Straight 13x4 HD Lace Front Wig](https://anicbeauty.de/products/99j-burgundy-straight-bob-wig-100-human-hair-glueless-lace-front): Upgrade your look with this stunning 99J Burgundy bob wig, featuring a rich, deep red hue that complements every skin tone. Made from 100% unprocessed Brazilian Remy 10A hair, it delivers silky bone-straight movement with a natural finish. The transparent Swiss lace creates an undetectable hairline and lets you part the wig anywhere. Lightweight, breathable, and completely glueless, it installs in seconds. Key Features: Beautiful 99J Burgundy shade 100% unprocessed Remy human hair (can be curled, dyed darker, styled) Transparent lace front – free parting Adjustable cap 22.5’’ with 3 combs Lengths: 4–16 inches Lightweight: 180–250 g Versatility & Style Perfect for: A chic everyday look Weddings & special events Photo shoots Cosplay & themed parties Quick style transformations Create an elegant look in seconds — middle part, side part, sleek straight or softly curled: your 99J Bob adapts effortlessly to your vibe. 👉 Your everyday elegance — effortless, stylish, and natural.
-  Updated: 2026-04-09T16:33:42Z
+  Updated: 2026-04-16T13:20:36Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -1083,7 +1031,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Se312ba07c39a48f8891d00b3f0b87ad4k.webp?v=1771153862
     Price: 75,90 € EUR
 - [4/27 Highlight Blonde Short Bob Glueless Wig – Deep Wave](https://anicbeauty.de/products/4-27-highlight-blonde-short-bob-glueless-wig-deep-wave-human-hair): Discover the perfect 4/27 Highlight Blonde Short Bob Glueless Wig – Deep Wave Human Hair. Effortless elegance, comfort, and style in one.
-  Updated: 2026-04-09T16:33:40Z
+  Updated: 2026-04-16T22:01:59Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -1107,7 +1055,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
   - [7x5 Glueless Wig / 10inches|200%](https://anicbeauty.de/products/4-27-highlight-blonde-short-bob-glueless-wig-deep-wave-human-hair?variant=52953193808136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S6ea0d8ac160749f4b90672ae67ae7dbfT.webp?v=1774183542
-    Price: 12,90 € EUR
+    Price: 86,90 € EUR
   - [7x5 Glueless Wig / 12inches|250%](https://anicbeauty.de/products/4-27-highlight-blonde-short-bob-glueless-wig-deep-wave-human-hair?variant=52953193775368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S6ea0d8ac160749f4b90672ae67ae7dbfT.webp?v=1774183542
@@ -1121,7 +1069,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S6ea0d8ac160749f4b90672ae67ae7dbfT.webp?v=1774183542
     Price: 136,90 € EUR
 - [Short Deep Wave Bob 13x4 Hd Lace Frontal Wigs 7x5 Glueless Curly Wigs 100% Human Hair Wig](https://anicbeauty.de/products/wear-and-go-13x4-deep-wave-lace-frontal-bob-wig-curly-glueless-wig): Embrace effortless elegance with our Deep Wave Glueless Bob Wig, designed to enhance your look with natural volume and defined curls. This short to mid-length bob features a glue-free, ready-to-wear design, offering a realistic appearance and all-day comfort. Crafted from 100% unprocessed Brazilian Remy human hair, this wig delivers a soft, smooth texture with long-lasting durability. The transparent Swiss lace, available in pre-cut 13x4 or 7x5, creates a natural-looking hairline and allows flexible parting to suit your style. With a full density of 200% or 250%, the wig provides rich, balanced volume while remaining lightweight and breathable—perfect for daily wear or special occasions. Key Features Hair Type: 100% Brazilian Remy Human Hair Texture: Deep Wave / Kinky curly Length: 10–16 inches (approx. 25–40 cm) Density: 200% or 250% for a full, natural look Lace Type: Transparent Swiss Lace Construction: Lace Front Wig / Lace Closure Wig Application: Glueless, ready to wear Cap Size: Average size with adjustable straps Coloring: Suitable for darker shades only Comfort: Lightweight, breathable, easy to maintain Occasions: Daily wear, events, photoshoots, special moments 👉 A modern, chic wig for women who want style, comfort, and confidence—without compromise.
-  Updated: 2026-04-09T16:33:43Z
+  Updated: 2026-04-16T13:18:47Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -1244,12 +1192,12 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/logic_by_forever__skincare_kit_pd_main_512_X_512_1744880368464.jpg?v=1771856322
   Price: 78,95 € EUR
 - [Pantene Pro-V Hair Mask Repair & Care Keratin Reconstruct (300 ml)](https://anicbeauty.de/products/pantene-pro-v-hair-mask-repair-care-keratin-reconstruct-hair-mask-300-ml): Enriched with keratin for more suppleness and shine Size: 300 ml ✨ Transform your damaged hair today! Add to cart now and enjoy healthier, shinier hair.
-  Updated: 2026-04-09T16:29:29Z
+  Updated: 2026-04-16T21:43:02Z
   Vendor: LUX-Anic
   Product Type: Forever Hair care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Pantenehairmaskrepair300ml_13.jpg?v=1771416378
-  Price: 4,35 € EUR
+  Price: 7,45 € EUR
 - [Nose trimmer ear hair remover shaver - Precision Grooming](https://anicbeauty.de/products/nose-trimmer-ear-hair-remover-shaver): Shop the Nose trimmer ear hair remover shaver for safe, precise grooming. Effortlessly trim nose and ear hair with our ergonomic design and easy cleaning!
   Updated: 2026-04-04T22:39:07Z
   Vendor: LUX-Anic
@@ -1265,7 +1213,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Short_curly_gray_hair_11.jpg?v=1772945145
   Price: 17,70 € EUR
 - [4/350 Highlight Loose Fumi Curly Bob Wig 13x4 Lace Front Glueless | AnicBeauty](https://anicbeauty.de/products/4-350-highlight-loose-fumi-curly-bob-wig-13x4-lace-front-glueless-bouncy-curls): Stunning 4/350 highlight loose fumi curly bob wig with 13x4 lace front. 100% human hair, glueless wear-to-go design, 250% density. Perfect bouncy curls for effortless style.
-  Updated: 2026-04-09T16:33:50Z
+  Updated: 2026-04-16T13:17:24Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -1287,14 +1235,14 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S554cf0e15bbd418280c658a091c79df0m.webp?v=1775258312
     Price: 83,90 € EUR
 - [Wavy Pixie Cut Wig | Brazilian Remy Human Hair No Lace | LUX-Anic](https://anicbeauty.de/products/wavy-pixie-cut-wig-brazilian-remy-human-hair-no-lace-lux-anic): Shop the Wavy Pixie Cut Wig by LUX-Anic — Brazilian Remy Human Hair, no lace, wavy texture with bangs. 6 inches, beginner-friendly & effortlessly chic.
-  Updated: 2026-04-09T22:50:13Z
+  Updated: 2026-04-16T13:16:17Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S0c2664d4bcb9493290128f332484985ap.webp?v=1775734631
   Price: 36,90 € EUR
 - [Kinky Straight Bob Wig | Indian Remy HD Lace | Glueless Wear & Go | LUX-Anic](https://anicbeauty.de/products/kinky-straight-bob-wig-indian-remy-hd-lace-glueless-wear-go-lux-anic): Shop the Kinky Straight Bob Wig by LUX-Anic — Indian Remy Hair, HD Swiss lace, glueless & hand-tied. 250% density, 8"–16", 5 lace styles. Natural, bold & ready to wear.
-  Updated: 2026-04-09T21:57:53Z
+  Updated: 2026-04-16T12:53:08Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -1420,7 +1368,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S7fe0e3a1eba840c4b8338d208b4f12ddV.webp?v=1775730338
     Price: 104,90 € EUR
 - [Premium13x4Lace Frontal 99j#4# Natural Color Human Hair Wig 6 Inch Brazilian Virgin Remy Suitable for Women To Wear Comfortably](https://anicbeauty.de/products/premium13x4lace-frontal-99j-4-natural-color-human-hair-wig-6-inch-brazilian-virgin-remy-suitable-for-women-to-wear-comfortably): Base Material: Swiss Lace Can Be Permed: Yes Cap Size: Average Size Color of Lace: Transparent High-concerned chemical: None Human Hair Content: ≥98% Human Hair Type: Brazilian Hair Item Type: WIG Items per Package: 1 Piece Only Made Method: Half Machine Made & Half Hand Tied Material: Human Hair Material Grade: Remy Hair Suitable Dying Colors: #27 Texture: Curly Wigs Length: Short (6 Inch)
-  Updated: 2026-04-09T16:33:53Z
+  Updated: 2026-04-12T12:32:56Z
   Vendor: LUX-Anic
   Product Type: 
   Availability: Available
@@ -1438,7 +1386,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S70c06091452d4b5f98bc7845f579b5b5J.webp?v=1775752023
     Price: 50,90 € EUR
 - [99J Pixie Cut Wig Straight 13x4 Transparent Lace Frontal Wigs Remy Human Hair](https://anicbeauty.de/products/99j-pixie-cut-wig-straight-13x4-transparent-lace-frontal-wigs-remy-human-hair): SPECIFICATIONSBrand Name: GlamorousCan Be Permed: YesCap Size: Average SizeChoice: yesColor of Lace: TransparentHigh-concerned chemical: NoneHuman Hair Content: ≥90%Human Hair Type: Brazilian HairItem Type: WIGItems per Package: 1 Piece OnlyLace Wig Type: 13x4 lace wigMaterial: Human HairMaterial Grade: Remy HairOrigin: Mainland ChinaTexture: StraightWigs Length: Short (4 - 16 Inch)Product descriptions from the supplierhairTextures: straightquality: Remy virgin hairWeight: about 150gColor: #1b, #1b/99J, #1b/30Length: 6 inch
-  Updated: 2026-04-09T16:33:55Z
+  Updated: 2026-04-13T00:25:35Z
   Vendor: LUX-Anic
   Product Type: 
   Availability: Available
@@ -1460,7 +1408,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sc9be75c4468646a68e291c49b34d2500i.webp?v=1775308183
     Price: 51,90 € EUR
 - [Natural Wave 4x4 Lace Closure Wig | Brazilian Remy Hair | LUX-Anic](https://anicbeauty.de/products/natural-wave-lace-wig-brazilian-remy-human-hair-lace-closure-lux-anic): Shop the Natural Wave 4x4 Lace Closure Wig by LUX-Anic — Brazilian Remy Human Hair, Swiss lace, 180% density. Available in 8"–14". Flawless, natural & ready to wear.
-  Updated: 2026-04-09T20:54:46Z
+  Updated: 2026-04-16T12:51:33Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -1482,7 +1430,7 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S232f4d37897c40b98618554a973d4422S.webp?v=1775725263
     Price: 77,90 € EUR
 - [Body Wave HD Lace Front Wig Chocolate Brown | 13x4 13x6 | 200% Density | LUX-Anic](https://anicbeauty.de/products/body-wave-hd-lace-front-wig-chocolate-brown-13x4-13x6-200-density): Shop the Body Wave HD Lace Front Wig by LUX-Anic — Chocolate Brown #4, HD Swiss lace, 200% density. Available in 13x4 & 13x6, 20"–34". Skin-melt, pre-plucked & luxurious.
-  Updated: 2026-04-09T16:33:52Z
+  Updated: 2026-04-16T12:50:47Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
@@ -1528,43 +1476,11 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S9bf66d52715349b5855b415cf73f5462n.webp?v=1775754302
     Price: 210,90 € EUR
 - [Short Bob Wig Brazilian Remy Human Hair | 3x1 Lace | LUX-Anic](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob): Shop the Short Bob Wig by LUX-Anic — 100% Brazilian Remy Human Hair, 3x1 lace middle part, straight texture. Available in 8"–16" & 150/180 density. Natural, luxurious & ready to wear.
-  Updated: 2026-04-09T19:54:40Z
+  Updated: 2026-04-15T21:24:55Z
   Vendor: LUX-Anic
   Product Type: Wigs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/Sed3fb82d38e04dcb8549cee6a19979abR.webp?v=1775724719
-  - [3x1 lace wig / 16inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249099528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 84,90 € EUR
-  - [3x1 lace wig / 16inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249132296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 81,90 € EUR
-  - [3x1 lace wig / 14inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249165064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 73,90 € EUR
-  - [3x1 lace wig / 14inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249197832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 75,90 € EUR
-  - [3x1 lace wig / 12inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249230600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 64,90 € EUR
-  - [3x1 lace wig / 12inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249263368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 63,90 € EUR
-  - [3x1 lace wig / 10inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249296136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 53,90 € EUR
-  - [3x1 lace wig / 10inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249328904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
-    Price: 56,90 € EUR
   - [3x1 lace wig / 8inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249361672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
@@ -1573,8 +1489,40 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
     Price: 45,90 € EUR
+  - [3x1 lace wig / 10inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249296136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 53,90 € EUR
+  - [3x1 lace wig / 10inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249328904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 56,90 € EUR
+  - [3x1 lace wig / 12inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249230600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 64,90 € EUR
+  - [3x1 lace wig / 12inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249263368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 63,90 € EUR
+  - [3x1 lace wig / 14inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249165064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 73,90 € EUR
+  - [3x1 lace wig / 14inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249197832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 75,90 € EUR
+  - [3x1 lace wig / 16inches / 150 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249099528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 84,90 € EUR
+  - [3x1 lace wig / 16inches / 180 Density](https://anicbeauty.de/products/short-bob-wig-brazilian-remy-human-hair-3x1-lace-middle-part-straight-bob?variant=55886249132296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S128baeab4dfa4828b6aacfdb27148911y.webp?v=1775724719
+    Price: 81,90 € EUR
 - [Spiral Curl Headband Wig | Brazilian Remy Human Hair 180% | LUX-Anic](https://anicbeauty.de/products/spiral-curl-headband-wig-brazilian-remy-human-hair-afro-kinky-curly-lux-anic): Shop the Spiral Curl Headband Wig by LUX-Anic — Brazilian Remy Human Hair, 180% density, no glue needed. Available in 12"–16". Bold curls, effortless style.
-  Updated: 2026-04-09T21:26:52Z
+  Updated: 2026-04-16T12:22:23Z
   Vendor: LUX-Anic
   Product Type: 
   Availability: Available
@@ -1591,37 +1539,41 @@ Vitamins C, B1, B2, B3, B5, B6 and B12 contained in Forever Therm™ contribute 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/S4c4b6efe449d4757bb1a8c48cd65eac26.webp?v=1775727013
     Price: 77,90 € EUR
-[List Continued](https://anicbeauty.de/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTYxMzIzNTAyMDA0MCwibGFzdF92YWx1ZSI6IjExNjEzMjM1MDIwMDQwIn0=)
+- [Forever Berry Nectar™ 90,7% Aloe-Vera-Gel +Apple and Cranberry- 4 pack](https://anicbeauty.de/products/forever-berry-nectar™-90-7-aloe-vera-gel-apple-and-cranberry-4-pack): Forever Aloe Berry Nectar™ - 90.7% aloe vera gel with natural apple & cranberry. Natural sweetness & valuable nutrients.
+  Updated: 2026-04-17T13:31:45Z
+  Vendor: LUX-Anic
+  Product Type: Forever Active Life
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/9114/0872/files/4-Pack_Forever_Aloe_Berry_Nectar.jpg?v=1776432546
+  Price: 131,00 € EUR
+[List Continued](https://anicbeauty.de/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTg0MTQ0NTg1NTQ5NiwibGFzdF92YWx1ZSI6IjExODQxNDQ1ODU1NDk2In0=)
 
 ## Collections
 
 - [Home page](https://anicbeauty.de/collections/home-page): Anic Beauty – Premium quality for your beauty routine: human hair wigs, aloe hair & skincare, wellness essentials and accessories.
-  Updated: 2026-04-09T20:25:10Z
-  Total Products: 113
+  Updated: 2026-04-17T14:17:33Z
+  Total Products: 117
 - [Wigs & Styling Tools LUX-Anic](https://anicbeauty.de/collections/wigs-styling-tools): Discover our Wigs & Styling Tools –  natural look, comfort and versatile styles for every occasion. Free shipping
-  Updated: 2026-04-09T20:25:10Z
+  Updated: 2026-04-16T09:49:43Z
   Total Products: 28
 - [New arrivals](https://anicbeauty.de/collections/new-arrivals)
-  Updated: 2026-03-22T22:00:29Z
-  Total Products: 5
+  Updated: 2026-04-16T21:47:30Z
+  Total Products: 4
 - [Forever Essentials - Skin and Personal Care](https://anicbeauty.de/collections/skin-and-personal-care-aloe-vera-by-forever-living): Aloe Vera Skin and Personal Care by Forever Living – natural hydration, protection and radiance for healthy, glowing skin.
-  Updated: 2026-04-06T16:56:36Z
+  Updated: 2026-04-17T13:25:38Z
   Total Products: 37
 - [Hair Care Bundle – by Forever Living](https://anicbeauty.de/collections/hair-care-collection-aloe-vera-by-forever-living): Discover Forever Living Aloe Vera Hair Care – healthy and shiny hair with plant-based ingredients.
-  Updated: 2026-04-06T16:56:36Z
-  Total Products: 5
+  Updated: 2026-04-16T21:45:23Z
+  Total Products: 6
 - [Active Life - Sport & Fitness – by Forever Living](https://anicbeauty.de/collections/active-life-sport-fitness-by-forever-living): Look better. Feel better. Forever Living Active Life and fitness – nutrition, energy and balance for a healthier lifestyle every day.
-  Updated: 2026-04-06T16:56:36Z
-  Total Products: 19
+  Updated: 2026-04-17T14:17:33Z
+  Total Products: 21
 - [Forever Living Products/ All by LUX-Anic](https://anicbeauty.de/collections/forever-living-products)
-  Updated: 2026-04-06T16:56:36Z
-  Total Products: 57
+  Updated: 2026-04-17T14:17:33Z
+  Total Products: 59
 - [Accessories](https://anicbeauty.de/collections/accessories): Home – Travel – Designed to make every moment feel luxurious and effortless.
-  Updated: 2026-04-06T16:56:36Z
+  Updated: 2026-04-16T21:54:14Z
   Total Products: 17
-- [Wigs & Styling Tools LUX-Anic](https://anicbeauty.de/collections/wigs-braid-styling-tools-copy): Discover our Wigs & Styling Tools –  natural look, comfort and versatile styles for every occasion. Free shipping
-  Updated: 2026-04-09T19:12:07Z
-  Total Products: 13
 
 ## Blogs
 
