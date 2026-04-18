@@ -6,55 +6,58 @@
 - Timezone: America/Denver
 - Created At: 2021-07-05T19:09:57Z
 - Contact Email: customerservice@myfirmtech.com
-- Updated At: 2026-04-10T00:00:40.533Z
+- Updated At: 2026-04-18T00:00:40.859Z
 
 ## Collections
 
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/frontpage): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 3
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/firmtech): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 14
 - [Accessories – Comfort, Design, & Tech Innovation | FirmTech](https://myfirmtech.com/collections/current-collection): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 3
 - [FirmTech Comfort Ring – Ergonomic & Adjustable Fit | FirmTech](https://myfirmtech.com/collections/tech-ring): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 1
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/max-pr-and-fpr): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 2
 - [Merch](https://myfirmtech.com/collections/merch): Firmtech fun hats
   Updated: 2026-04-02T11:23:59Z
   Total Products: 2
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech](https://myfirmtech.com/collections/health-rings): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 1
 - [Wellness Tech – Designed for Comfort & Style | FirmTech](https://myfirmtech.com/collections/pleasure-rings): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 2
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech | HSA/FSA](https://myfirmtech.com/collections/hsa-fsa): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear. Covered by HSA or FSA using Flex at checkout
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 5
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech](https://myfirmtech.com/collections/techring-and-techring-bundles): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 6
 - [Smart Rings – Wellness & Lifestyle Technology | FirmTech](https://myfirmtech.com/collections/techring-and-techring-bundles-1): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 3
 - [Innovative Tech for Everyday Use | FirmTech](https://myfirmtech.com/collections/ringmate-bundles): Discover FirmTech accessories that merge innovation and style. Enhance your wearable lifestyle today.
   Updated: 2026-04-02T11:23:59Z
   Total Products: 3
 - [Wholesale](https://myfirmtech.com/collections/wholesale)
-  Updated: 2026-04-09T11:14:17Z
-  Total Products: 8
+  Updated: 2026-04-17T11:15:25Z
+  Total Products: 9
 - [FirmTech Bundles](https://myfirmtech.com/collections/firmtech-bundles)
   Updated: 2026-04-09T11:14:17Z
   Total Products: 7
 - [Warranty](https://myfirmtech.com/collections/warranty)
-  Updated: 2026-04-09T11:14:17Z
+  Updated: 2026-04-17T11:15:25Z
   Total Products: 4
+- [FirmTech Rings](https://myfirmtech.com/collections/firmtech-rings): FirmTech is a trusted leader in men's  health, empowering men of all ages to optimize their  performance and well-being from the comfort of their homes.
+  Updated: 2026-04-17T11:15:25Z
+  Total Products: 8
 
 ## Blogs
 
@@ -110,8 +113,8 @@
     Updated: 2026-02-26T02:03:33Z
     Author: Jordan Meyers
     Tags: Prostate
-  - [Performance Ring vs TechRing vs MaxPR](https://myfirmtech.com/blogs/news/firmtech-introduces-the-max-performance-ring)
-    Updated: 2026-02-26T02:03:34Z
+  - [TechRing VS Performance Ring VS MaxPR](https://myfirmtech.com/blogs/news/firmtech-introduces-the-max-performance-ring)
+    Updated: 2026-04-16T00:04:25Z
     Author: Riley Daily
     Tags:  Tools
   - [PDE 5 Medications](https://myfirmtech.com/blogs/news/pde-5-medications)
@@ -123,7 +126,7 @@
     Author: Jordan Meyers
     Tags: Erectile Dysfunction, Erection Rings,  Tools
   - [Why Track Erections?](https://myfirmtech.com/blogs/news/erection-rings-the-benefits): <p><meta charset="utf-8"><span>Just what is an erection tracker? How does it work? And why you should use one…… Erection trackers measure the erections that you aren’t aware …</span></p>
-    Updated: 2026-02-26T02:03:41Z
+    Updated: 2026-04-11T14:42:33Z
     Author: Ann Justin
     Tags: Why Track?
   - [Research Presented At the Society for   of North America November 2023](https://myfirmtech.com/blogs/news/presented-at-the-society-for---of-north-america-november-2023)
@@ -135,7 +138,7 @@
     Author: Riley Daily
     Tags: Data Privacy
   - [Evolution of Men’s Wearable  Tech](https://myfirmtech.com/blogs/news/evolution-of-men-s-wearable--tech)
-    Updated: 2026-02-26T02:03:47Z
+    Updated: 2026-04-12T03:52:07Z
     Author: Riley Daily
     Tags: Why Track?
   - [Put A Ring On It: One Toy To Change  For Men](https://myfirmtech.com/blogs/news/put-a-ring-on-it-one-toy-to-change--for-men)
@@ -157,7 +160,7 @@
     Updated: 2026-03-17T06:23:09Z
     Author: Ann Justin
   - [Nocturnal Erections: Pillow Talk From Your Penis](https://myfirmtech.com/blogs/news/nocturnal-erections-pillow-talk-from-your-penis)
-    Updated: 2026-02-26T02:03:58Z
+    Updated: 2026-04-12T03:52:09Z
     Author: Ann Justin
     Tags: TechRing, Why Track?
   - [Prostate Cancer and  Function](https://myfirmtech.com/blogs/news/prostate-cancer-and--function)
@@ -192,11 +195,11 @@
     Updated: 2026-02-26T02:04:18Z
     Author: Ann Justin
   - [The Modern Playbook for Erectile Fitness: real-world habits, better data, and the right device](https://myfirmtech.com/blogs/news/the-modern-playbook-for-erectile-fitness-real-world-habits-better-data-and-the-right-device)
-    Updated: 2026-02-26T02:04:22Z
+    Updated: 2026-04-16T00:04:27Z
     Author: Ann Justin
     Tags: TechRing
   - [Erection Tracker: What It Measures, Why It Matters, And How To Use FirmTech’s TechRing](https://myfirmtech.com/blogs/news/erection-tracker-what-it-measures-why-it-matters-and-how-to-use-firmtech-s-techring)
-    Updated: 2026-02-26T02:04:24Z
+    Updated: 2026-04-16T00:04:30Z
     Author: Ann Justin
     Tags: Why Track?
   - [Wearable Erection Ring: How FirmTech’s TechRing Turns Real-World Data Into Actionable Health Insights](https://myfirmtech.com/blogs/news/wearable-erection-ring-how-firmtech-s-techring-turns-real-world-data-into-actionable-health-insights)
@@ -261,7 +264,7 @@
 - [Results](https://myfirmtech.com/pages/results)
   Updated: 2025-06-06T13:02:39Z
 - [Result Load](https://myfirmtech.com/pages/result-load)
-  Updated: 2026-04-09T19:19:53Z
+  Updated: 2026-04-17T22:46:55Z
 - [GDPR](https://myfirmtech.com/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
   Updated: 2026-02-18T22:24:28Z
 - [APPI](https://myfirmtech.com/pages/appi): #form-appi-edit-account-request, #form-appi-requests-request, #form-appi-personal-information-request, #form-appi-orders-request, #form-appi-person...
