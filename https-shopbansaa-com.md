@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-27T07:54:34Z
 - Contact Email: Support@shopbansaa.com
-- Updated At: 2026-04-07T00:00:38.668Z
+- Updated At: 2026-04-19T00:00:39.374Z
 
 Shop Bansaa is an online store specializing in high-quality notebooks and stationery products. Our collection includes stylish, practical, and affordable notebooks suitable for students, professionals, journaling, and everyday writing needs.
 
