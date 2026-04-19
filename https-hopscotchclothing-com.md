@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-26T02:57:48Z
 - Contact Email: support@hopscotchclothing.com
-- Updated At: 2026-04-09T00:00:44.518Z
+- Updated At: 2026-04-19T00:00:42.644Z
 
 At Hopscotch Clothing design kids' clothing with fewer seams than any other kids clothing brand, creating ultra-comfortable pieces that move better and look cooler.
 
@@ -351,6 +351,15 @@ At Hopscotch Clothing design kids' clothing with fewer seams than any other kids
     Author: Admin
   - [Toddler Basics vs Trendy Clothes: What Wins?](https://hopscotchclothing.com/blogs/news/toddler-basics-vs-trendy-clothes): Toddler Basics vs Trendy Clothes: What Wins?
     Updated: 2026-04-08T02:20:28Z
+    Author: Admin
+  - [How to Simplify Toddler Outfits](https://hopscotchclothing.com/blogs/news/how-to-simplify-toddler-outfits): How to Simplify Toddler Outfits
+    Updated: 2026-04-10T02:25:33Z
+    Author: Admin
+  - [Comfy Toddler Pants for Active Play](https://hopscotchclothing.com/blogs/news/comfy-toddler-pants-for-active-play): Comfy Toddler Pants for Active Play
+    Updated: 2026-04-12T02:30:15Z
+    Author: Admin
+  - [Minimalist Toddler Wardrobe That Works](https://hopscotchclothing.com/blogs/news/minimalist-toddler-wardrobe-that-works): Minimalist Toddler Wardrobe That Works
+    Updated: 2026-04-14T02:30:23Z
     Author: Admin
 
 ## Store Pages
