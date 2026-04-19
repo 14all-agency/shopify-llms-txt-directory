@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2021-12-12T23:48:26Z
 - Contact Email: info@realskinretinue.com
-- Updated At: 2026-04-11T22:23:35.126Z
+- Updated At: 2026-04-19T00:00:21.252Z
 
 ## Products
 
@@ -149,8 +149,8 @@
   - [Real Skin Retinue | Best Serum for Fasting, Hydration & Pigmentation | Barrier-First Skincare](https://www.realskinretinue.com/blogs/news/savef-skin-essential-face-serum-the-best-skincare-for-intermittent-fasting-hydration-pigmentation): Real Skin Retinue | Best Serum for Fasting, Hydration & Pigmentation | Barrier-First Skincare
     Updated: 2026-04-08T23:20:12Z
     Author: Marzia Rahmani
-  - [Real Skin Retinue | Furocoumarins & Photo-Safe Skincare | Barrier-First Skincare](https://www.realskinretinue.com/blogs/news/furocoumarins-in-skincare-the-hidden-danger-of-photosensitivity-and-why-savef-skin-essential-face-serum-is-different): Real Skin Retinue | Furocoumarins & Photo-Safe Skincare | Barrier-First Skincare
-    Updated: 2026-04-08T23:13:34Z
+  - [Furocoumarins in Skincare: The Hidden Photosensitivity Risk | Real Skin Retinue](https://www.realskinretinue.com/blogs/news/furocoumarins-in-skincare-the-hidden-danger-of-photosensitivity-and-why-savef-skin-essential-face-serum-is-different): Furocoumarins in Skincare: The Hidden Photosensitivity Risk | Real Skin Retinue
+    Updated: 2026-04-14T13:11:14Z
     Author: Marzia Rahmani
     Tags: Anti-Aging Myths, Autophagy and Skin, Cellular Senescence, Fasting and Skin Health, Glycolic Acid Risks
   - [Real Skin Retinue | A Mum's Journey to Simple, Effective Skincare | Barrier-First Skincare](https://www.realskinretinue.com/blogs/news/skincare-when-life-is-your-children-a-mother-s-journey-to-simplicity-by-marzia-rahmani): Real Skin Retinue | A Mum's Journey to Simple, Effective Skincare | Barrier-First Skincare
@@ -190,8 +190,8 @@
   - [Real Skin Retinue | Pineapple, Autophagy & Skin Health Benefits | Barrier-First Skincare](https://www.realskinretinue.com/blogs/news/the-power-of-pineapple-unlocking-benefits-for-autophagy-skin-heart-health): Real Skin Retinue | Pineapple, Autophagy & Skin Health Benefits | Barrier-First Skincare
     Updated: 2026-04-08T22:53:16Z
     Author: Marzia Rahmani
-  - [Real Skin Retinue | Is Glycolic Acid Safe for All Skin Tones? | Barrier-First Skincare](https://www.realskinretinue.com/blogs/news/is-glycolic-acid-safe-for-all-skin-tones-all-year-round-chatgpt-responds-to-marzia-rahmani): Real Skin Retinue | Is Glycolic Acid Safe for All Skin Tones? | Barrier-First Skincare
-    Updated: 2026-04-09T18:07:07Z
+  - [Is Glycolic Acid Safe for All Skin Tones Year-Round? The Truth | Real Skin Retinue](https://www.realskinretinue.com/blogs/news/is-glycolic-acid-safe-for-all-skin-tones-all-year-round-chatgpt-responds-to-marzia-rahmani): Is Glycolic Acid Safe for All Skin Tones Year-Round? The Truth | Real Skin Retinue
+    Updated: 2026-04-14T13:11:17Z
     Author: Marzia Rahmani
     Tags: Anti-Aging Myths, Antioxidants, Autophagy and Skin, Ceramides, Glowing skin, Glycolic Acid Risks, Holistic Skin Health, Honest Beauty Tips, Mumslife, Peptides, Real Skin Retinue Blog, Savef Skin Essential Face Serum
   - [Real Skin Retinue | Alcohol, Acids & Retinoids: Skin Cancer Risk? | Barrier-First Skincare](https://www.realskinretinue.com/blogs/news/could-alcohol-acids-and-retinoids-be-increasing-your-skin-cancer-risk): Real Skin Retinue | Alcohol, Acids & Retinoids: Skin Cancer Risk? | Barrier-First Skincare
@@ -259,6 +259,10 @@
     Updated: 2026-04-08T23:02:19Z
     Author: Marzia Rahmani
     Tags: AHA exfoliation, barrier-first, mineral sunscreen, photo-conscious, PIH, skin barrier, skin of colour
+  - [Barrier Repair Serum | Photo-Conscious Skincare for Modern Skin](https://www.realskinretinue.com/blogs/news/is-your-skincare-quietly-damaging-your-skin): Barrier Repair Serum | Photo-Conscious Skincare for Modern Skin
+    Updated: 2026-04-15T12:12:12Z
+    Author: Marzia Rahmani
+    Tags: aging skin, barrier repair, photo-conscious skincare, Photoconscious Skincare, photoprotection
 - [Is Your Skincare Aging You?](https://www.realskinretinue.com/blogs/is-your-skincare-aging-you)
   - [Is Your Skincare Aging You? Avoid These Harmful Ingredients](https://www.realskinretinue.com/blogs/is-your-skincare-aging-you/is-your-skincare-aging-you): Is Your Skincare Aging You? Avoid These Harmful Ingredients
     Updated: 2026-02-12T02:45:15Z
