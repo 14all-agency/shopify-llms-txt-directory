@@ -8,7 +8,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-02-27T13:58:36Z
 - Contact Email: hello@ellecera.nl
-- Updated At: 2026-04-09T00:00:38.397Z
+- Updated At: 2026-04-19T00:00:38.588Z
 
 ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geïnspireerd door Korean beauty. Ontwikkeld voor de Nederlandse en Belgische huid. Alle producten zijn dierproefvrij en dermatologisch getest. ElleCera staat voor verzorging die de huid ondersteunt in plaats van corrigeert. Assortiment: serums, foundation, oogpatches, microneedling sets, cupping apparaten, body oil en haarproducten. Gratis verzending NL/BE. 30 dagen tevredenheidsgarantie. Betaling via iDEAL, Klarna, Bancontact, Apple Pay en creditcard.
 
@@ -30,7 +30,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Price: € 34,95 EUR
 - [Korean Peptide Serum Kopen – Lifting voor Strakker Gezicht | ElleCera](https://ellecera.nl/products/korean-silk-lifting-peptide-ampoule): Geconcentreerd Korean lifting serum met peptiden en collageen. Strakker gezicht, minder rimpels. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-08T21:27:28Z
+  Updated: 2026-04-18T13:24:32Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarlijn-poeder-verpakking-wit-tint.avif?v=1773144808
     Price: € 34,95 EUR
 - [Cupping Massage Apparaat Kopen – Minder Cellulite Thuis | ElleCera](https://ellecera.nl/products/elektrisch-massage-cupping-apparaat): Elektrisch cupping apparaat met warmte, vacuüm en red light. Gladdere huid en minder cellulite thuis. ✓ Geen salon nodig ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-03T14:39:09Z
+  Updated: 2026-04-12T18:01:39Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -112,7 +112,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarverzorging-tool-gebruik-styling-resultaat.webp?v=1773142782
     Price: € 59,95 EUR
 - [Microneedling Set Thuis Kopen – Gladdere Huid Zonder Kliniek | ElleCera](https://ellecera.nl/products/microneedling-set-thuis): Professionele microneedling thuis. Minder fijne lijntjes, gladdere huidtextuur & meer glow in 5 min. Geen kliniek nodig. ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-03T14:38:19Z
+  Updated: 2026-04-16T07:25:36Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -134,14 +134,14 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Price: € 100,00 EUR
 - [Oogpatches Tegen Wallen Kopen – Collageen HydroGel Patches | ElleCera](https://ellecera.nl/products/hydrogel-collagen-eye-patches-wallen): Minder wallen en donkere kringen in 10 minuten. Collageen hydrogel oogpatches voor dagelijks gebruik. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-08T15:52:28Z
+  Updated: 2026-04-18T17:10:16Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/oogpatches-collageen-verpakking-hydrogel.png?v=1773140331
+  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/1_1_Gratis_6ca27280-2fe0-4b74-9bac-ae3622af3ed1.png?v=1776163781
   Price: € 29,95 EUR
 - [MicroLift Pro™ - De 3-in-1 microstroom facelift voor een zichtbaar strakkere huid.](https://ellecera.nl/products/microlift-pro-microstroom-facelift-apparaat): Train je gezichtsspieren, stimuleer collageenproductie en geef je kaaklijn zichtbaar terug. Red Light Therapy + microstroom. Thuis in 10 minuten.
-  Updated: 2026-04-08T20:49:36Z
+  Updated: 2026-04-18T21:19:25Z
   Vendor: NicheBay
   Product Type: 
   Availability: Available
@@ -236,26 +236,48 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S3011c4bef9154801bbc47327f92870dbC.jpg_1100x1100q375_24413591-bbd5-4d0e-9166-cf485531d5e7.webp?v=1775644882
     Price: € 100,00 EUR
+- [7 Color Neck Beauty Device EMS Face Lifting Massager Double Chin Remover LED Photon Anti Wrinkle Skin Tightening Facial Massager2026-04-14 16:49:19](https://ellecera.nl/products/7-color-neck-beauty-device-ems-face-lifting-massager-double-chin-remover-led-photon-anti-wrinkle-skin-tightening-facial-massager2026-04-14-16-49-19)
+  Updated: 2026-04-14T08:49:53Z
+  Vendor: NicheBay
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/48x48_8870b047-25b9-4574-8fd9-2f7bb6b6c66a.webp?v=1776156562
+  - [White With Box](https://ellecera.nl/products/7-color-neck-beauty-device-ems-face-lifting-massager-double-chin-remover-led-photon-anti-wrinkle-skin-tightening-facial-massager2026-04-14-16-49-19?variant=57062838141305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S04c4f957a4504535ae3603e8a8389cb7f.jpg_1100x1100q375_294881a1-7568-4b11-a351-e777ab1a6954.webp?v=1776156563
+    Price: € 100,00 EUR
+  - [Black With Box](https://ellecera.nl/products/7-color-neck-beauty-device-ems-face-lifting-massager-double-chin-remover-led-photon-anti-wrinkle-skin-tightening-facial-massager2026-04-14-16-49-19?variant=57062838174073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S22026006841e4cc38cd47ebc71e0e4e48.jpg_1100x1100q375_d7eb13b2-0ce4-460a-a09d-a1e2de275937.webp?v=1776156562
+    Price: € 100,00 EUR
+  - [White No Box](https://ellecera.nl/products/7-color-neck-beauty-device-ems-face-lifting-massager-double-chin-remover-led-photon-anti-wrinkle-skin-tightening-facial-massager2026-04-14-16-49-19?variant=57062838206841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S1f337187e1394878bc157378965453f7x.jpg_1100x1100q375.webp?v=1776156562
+    Price: € 100,00 EUR
+  - [Black No Box](https://ellecera.nl/products/7-color-neck-beauty-device-ems-face-lifting-massager-double-chin-remover-led-photon-anti-wrinkle-skin-tightening-facial-massager2026-04-14-16-49-19?variant=57062838239609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S72ce88fd3c074c129c0146025784a847l.jpg_1100x1100q375.webp?v=1776156562
+    Price: € 100,00 EUR
 
 ## Collections
 
 - [Alle Skincare & Beauty Producten – Korean Beauty Webshop | ElleCera](https://ellecera.nl/collections/frontpage): Bekijk het volledige ElleCera assortiment. Skincare, make-up en beauty tools geïnspireerd door Korean beauty. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-08T12:17:11Z
+  Updated: 2026-04-18T11:58:59Z
   Total Products: 12
 - [Best Sellers | Populaire Huidverzorging & Make-Up | ElleCera](https://ellecera.nl/collections/best-sellers): Shop onze best verkochte huidverzorging en make-up. Ontdek waarom vrouwen kiezen voor producten die de huid ondersteunen en comfortabel laten aanvoelen.
-  Updated: 2026-04-08T12:17:11Z
+  Updated: 2026-04-18T11:58:59Z
   Total Products: 12
 - [Make-Up Kopen – Natuurlijke Korean Beauty Make-Up | ElleCera](https://ellecera.nl/collections/make-up): Natuurlijke make-up die je huid ondersteunt en niet maskeert. Korean beauty geïnspireerde formules voor een stralende look.✓Gratis verzending ✓30 dagen garantie
-  Updated: 2026-04-08T12:17:11Z
+  Updated: 2026-04-18T11:58:59Z
   Total Products: 4
 - [Skincare Kopen – Korean Beauty Huidverzorging Nederland | ElleCera](https://ellecera.nl/collections/skincare): Korean beauty skincare voor droge, gevoelige en uit balans geraakte huid. Serums, oogpatches en meer. ✓ Dierproefvrij ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-08T12:17:11Z
+  Updated: 2026-04-18T11:58:59Z
   Total Products: 10
 - [Beauty Tools Kopen – Elektrische Huidverzorging Apparaten | ElleCera](https://ellecera.nl/collections/accessoires): Elektrische beauty tools voor thuis. Microneedling, cupping massage, hoofdhuidmassage en meer. ✓ Professioneel resultaat ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-08T12:17:11Z
+  Updated: 2026-04-18T11:58:59Z
   Total Products: 7
 - [Skincare Bundels Kopen – 1+1 Gratis Beauty Sets | ElleCera](https://ellecera.nl/collections/bundels): Combineer je favoriete ElleCera producten voordelig. Skincare en beauty tool bundels met 1+1 gratis aanbieding. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-08T12:17:11Z
+  Updated: 2026-04-18T11:58:59Z
   Total Products: 7
 
 ## Blogs
