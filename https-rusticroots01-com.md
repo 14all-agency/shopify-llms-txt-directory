@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-01-13T23:16:09Z
 - Contact Email: info@rusticroots01.com
-- Updated At: 2026-04-11T00:00:46.315Z
+- Updated At: 2026-04-19T00:00:48.525Z
 
  RUSTIC ROOTS, 
 
@@ -6482,7 +6482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69b0df59d0143.jpg?v=1773199202
     Price: $42.00 USD
 - [TRAVEL OFF GRID Unisex organic sweatshirt](https://rusticroots01.com/products/unisex-organic-sweatshirt-off-grid-travel): The Unisex organic sweatshirt is made of organic and recycled materials and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style!• 80% organic cotton, 20% recycled polyester• 100% organic cotton exterior• Frenchy terry knit • Set-in sleeves• 2×2 rib at collar• Self-fabric neck tape• Blank product sourced from BangladeshDisclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-04-08T05:41:00Z
+  Updated: 2026-04-13T12:16:18Z
   Vendor: R & R APPAREL
   Product Type: OFF GRID LONG SLEEVE T SHIRTS
   Availability: Available
@@ -6552,7 +6552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-organic-sweatshirt-french-navy-front-69b0dc7fb06da.jpg?v=1773198645
     Price: $57.00 USD
   - [French Navy / M](https://rusticroots01.com/products/unisex-organic-sweatshirt-off-grid-travel?variant=51666780094746)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-organic-sweatshirt-french-navy-front-69b0dc7fb06da.jpg?v=1773198645
     Price: $57.00 USD
   - [French Navy / L](https://rusticroots01.com/products/unisex-organic-sweatshirt-off-grid-travel?variant=51666780127514)
@@ -6930,7 +6930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-6986f133018af.jpg?v=1770451269
     Price: $39.00 USD
 - [Women's slides SANDELS CAMPFIRE](https://rusticroots01.com/products/womens-slides-sandels): A must-have for the summer: these women’s slides. A pair of these will keep you comfy throughout your day of beach or pool activities, thanks to the cushioned upper strap and the textured footbed. • Cushioned and durable faux leather upper strap • Lightweight polyurethane (PU) outsole • Contoured, textured footbed • Stitched around the upper perimeter for extra durability • Spot clean only • Printed, cut, and handmade • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product. Disclaimer: The shoes will have a glue-like smell when opening the box. The smell will disappear a few days after the shoes are unpacked. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US WOMEN UK EUROPE JAPAN FOOT LENGTH (inches) SHOES LENGTH (inches) 5.5 5.5 3 36 22.5 8 ⅞ 9 ½ 6.5 6.5 4 37 23.5 9 ⅛ 9 ¾ 7 7 4.5 38 24 9 ¼ 10 8 8 5.5 39 25 9 ⅝ 10 ¼ 8.5 8.5 6 40 25.5 9 ¾ 10 ½ 9.5 9.5 7 41 26.5 10 ⅛ 10 ¾ 10 10 7.5 42 27 10 ¼ 11 11 11 8.5 43 28 10 ⅝ 11 ¼ 11.5 11.5 9 44 28.5 10 ¾ 11 ½
-  Updated: 2026-04-08T05:41:04Z
+  Updated: 2026-04-14T22:10:59Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAMPER SANDELS
   Availability: Available
@@ -6938,41 +6938,41 @@
   - [5.5](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434269978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [6.5](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434302746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [7](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434335514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [8](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434368282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [8.5](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434401050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [9.5](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434433818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [10](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434466586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [11](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434499354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [11.5](https://rusticroots01.com/products/womens-slides-sandels?variant=51669434532122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/womens-slides-white-front-69b0d46e0dd0d.jpg?v=1773196528
-    Price: $52.50 USD
+    Price: $48.00 USD
 - [Men’s slides SLIP ON SANDELS BEACH FRONT](https://rusticroots01.com/products/men-s-slides-slip-on-sandels): What’s a summer without comfy, open-toed shoes? Get yourself these men’s slides as an addition to your summery outfits. The cushioned upper strap and textured footbed make these slides an excellent choice for the season’s activities. • Cushioned faux leather upper strap • Lightweight polyurethane (PU) outsole • Contoured, textured footbed • Stitched around the upper perimeter for extra durability • Spot clean only • Printed, cut, and handmade • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product. Disclaimer: The shoes will have a glue-like smell when opening the box. The smell will disappear a few days after the shoes are unpacked. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US MEN UK EUROPE JAPAN FOOT LENGTH (inches) SHOES LENGTH (inches) 6.5 6.5 5.5 39 24.5 9 ⅝ 10 ¼ 7 7 6 40 25 9 ¾ 10 ½ 8 8 7 41 26 10 ⅛ 10 ¾ 8.5 8.5 7.5 42 26.5 10 ¼ 11 9.5 9.5 8.5 43 27.5 10 ⅝ 11 ¼ 10 10 9 44 28 10 ¾ 11 ½ 11 11 10 45 29 11 ¼ 11 ¾ 11.5 11.5 10.5 46 29.5 11 ½ 12 12.5 12.5 11.5 47 30.5 11 ⅞ 12 ¼
-  Updated: 2026-04-08T05:41:04Z
+  Updated: 2026-04-14T22:09:38Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH
   Availability: Available
@@ -6980,39 +6980,39 @@
   - [6.5](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669440790810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [7](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669440823578)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [8](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669440856346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [8.5](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669440889114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [9.5](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669440921882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [10](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669440954650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [11](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669440987418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [11.5](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669441020186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
   - [12.5](https://rusticroots01.com/products/men-s-slides-slip-on-sandels?variant=51669441052954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/mens-slides-white-front-69b0d2a7114e7.jpg?v=1773195951
-    Price: $52.50 USD
+    Price: $48.00 USD
 - [Dad hat Beach Vibes](https://rusticroots01.com/products/dad-hat-beach-vibes): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
   Updated: 2026-04-08T05:41:05Z
   Vendor: RUSTIC ROOTS 
@@ -10918,7 +10918,7 @@
     Availability: Available
     Price: $35.00 USD
 - [NO PERFECT Golf rope cap](https://rusticroots01.com/products/no-perfect-golf-rope-cap): Add a touch of classic style to your outfit with the golf rope cap. Featuring a structured fit, rope detail, and adjustable snapback, it’s perfect for any outing. • 70% cotton, 30% nylon • Unstructured, 5-panel, front panel lined • Semi-curved bill with contrasting rope • Contrasting snapback closure • One size fits most • Blank product sourced from VietnamSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-23 ¼ 4 ¾ 2 ¾ 7 ⅜
-  Updated: 2026-04-08T05:41:23Z
+  Updated: 2026-04-15T18:20:14Z
   Vendor: RUSTIC ROOTS 
   Product Type: CAP HAT BEANIE
   Availability: Available
@@ -10932,7 +10932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/golf-rope-cap-lt-gray-navy-front-69940c2eeb47d.jpg?v=1771310143
     Price: $35.00 USD
   - [Yellow/Navy](https://rusticroots01.com/products/no-perfect-golf-rope-cap?variant=51708187869466)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/golf-rope-cap-yellow-navy-front-69940c2eecc58.jpg?v=1771310143
     Price: $35.00 USD
 - [HAPPY CAMPER   MagSafe® clear case for iPhone®](https://rusticroots01.com/products/happy-camper-magsafe®-clear-case-for-iphone®): This sleek, durable case protects your phone and is easy to hold. The MagSafe® magnets ensure secure attachment and faster wireless charging. • Hybrid thermoplastic polyurethane and polycarbonate • Solid, durable polycarbonate back • Secure yet flexible thermoplastic polyurethane sides • Raised bezel front • Precisely aligned port openings • Easy to snap on and off • MagSafe® compatible • Wireless charging-compatible • Graphics are UV-printed onto the case with a smooth, matte finish • The SE case fits the 2020 iPhone® SE model • Blank product sourced from China or South Korea Disclaimer: The case may include a protective film on the inside that needs to be removed before use. Important: Cases for the iPhone 15 and iPhone 16 series can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different iPhone case. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
@@ -13025,7 +13025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-pullover-hoodie-lilac-front-69af907c0b13c.jpg?v=1773113936
     Price: $65.00 USD
 - [CHOSEN Flip-Flops](https://rusticroots01.com/products/chosen-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-04-08T05:41:33Z
+  Updated: 2026-04-14T22:06:19Z
   Vendor: RUSTIC ROOTS 
   Product Type: BIBLE APPAREL
   Availability: Available
@@ -13033,15 +13033,15 @@
   - [S](https://rusticroots01.com/products/chosen-flip-flops?variant=51731244056858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699a82d0446bc.jpg?v=1771733727
-    Price: $34.86 USD
+    Price: $28.00 USD
   - [M](https://rusticroots01.com/products/chosen-flip-flops?variant=51731244089626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699a82d0446bc.jpg?v=1771733727
-    Price: $34.86 USD
+    Price: $28.00 USD
   - [L](https://rusticroots01.com/products/chosen-flip-flops?variant=51731244122394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699a82d0446bc.jpg?v=1771733727
-    Price: $34.86 USD
+    Price: $28.00 USD
 - [Adventure buddy Trucker Cap](https://rusticroots01.com/products/trucker-cap): This six-panel trucker cap with a mesh back will be a comfy and classic choice for a perfect day in the sun. • 26% cotton, 74% polyester• Mid-profile cap with a low-profile embroidery area• Structured, six-panel cap• 3.5″ crown (8.9 cm)• Hard buckram front panels• Mesh back• Perma curve® visor, matching under visor• Plastic adjustable closure• Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm)• Blank product sourced from Vietnam or Bangladesh Size guide A (inches) B (inches) C (inches) D (inches) One size 21 ⅝-⅝ 3 ⅞ 2 ½ 6 ¾
   Updated: 2026-04-08T05:41:33Z
   Vendor: RUSTIC ROOTS 
@@ -14337,7 +14337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-iphone-matte-iphone-17-pro-max-front-699d35e1a4451.jpg?v=1771910643
     Price: $35.00 USD
 - [RV LIFE CAMPER Flip-Flops](https://rusticroots01.com/products/rv-life-camper-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-04-08T05:41:39Z
+  Updated: 2026-04-14T22:04:04Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH
   Availability: Available
@@ -14345,17 +14345,17 @@
   - [S](https://rusticroots01.com/products/rv-life-camper-flip-flops?variant=51742393860378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699d3a76b6112.jpg?v=1771911816
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [M](https://rusticroots01.com/products/rv-life-camper-flip-flops?variant=51742393893146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699d3a76b6112.jpg?v=1771911816
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [L](https://rusticroots01.com/products/rv-life-camper-flip-flops?variant=51742393925914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-top-699d3a76b6112.jpg?v=1771911816
-    Price: $35.00 USD
+    Price: $28.00 USD
 - [MIDNIGHT SKY Flip-Flops](https://rusticroots01.com/products/midnight-sky-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post style This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-04-08T05:41:39Z
+  Updated: 2026-04-14T22:02:37Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEACH
   Availability: Available
@@ -14363,15 +14363,15 @@
   - [S](https://rusticroots01.com/products/midnight-sky-flip-flops?variant=51742477386010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-lifestyle-1-699d40b6edc01.jpg?v=1771913428
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [M](https://rusticroots01.com/products/midnight-sky-flip-flops?variant=51742477418778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-lifestyle-1-699d40b6edc01.jpg?v=1771913428
-    Price: $35.00 USD
+    Price: $28.00 USD
   - [L](https://rusticroots01.com/products/midnight-sky-flip-flops?variant=51742477451546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/sublimation-flip-flops-white-lifestyle-1-699d40b6edc01.jpg?v=1771913428
-    Price: $35.00 USD
+    Price: $28.00 USD
 - [TRAVEL TRAILER DAD HAT](https://rusticroots01.com/products/travel-trailer-dad-hat): Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor. • 100% chino cotton twill • Green Camo color is 35% chino cotton twill, 65% polyester • Unstructured, 6-panel, low-profile • 6 embroidered eyelets • 3 ⅛” (7.6 cm) crown • Adjustable strap with antique buckle • Blank product sourced from Vietnam or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 20 ½-24 ⅜ 4 ¾ 3 ⅛ 7 ½
   Updated: 2026-04-08T05:41:39Z
   Vendor: RUSTIC ROOTS 
@@ -14867,12 +14867,12 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-cap-charcoal-grey-front-69a0ddc6d43cc.jpg?v=1772151122
     Price: $36.79 USD
 - [Teddy bear with a t-shirt GOD GOT ME](https://rusticroots01.com/products/teddy-bear-with-a-t-shirt-god-got-me): Meet our cute teddy bear wearing a cool t-shirt. Made from the finest and softest materials, it’s the perfect cuddling buddy for people of all ages. Teddy: • Made from polyester fiber • Filled with PE/PVC pellets • Weight: 9.21 oz. (0.26 kg) • Measures 9.5″ (24.13 cm) sitting down • One-size T-shirt: • 100% polyester Blank product sourced from China, printed in the US. Disclaimer: This product is not suitable for children under 3 years of age. Important: This product is available in the US only. If your shipping address is outside this region, please choose a different product.
-  Updated: 2026-04-08T05:41:43Z
+  Updated: 2026-04-15T20:36:21Z
   Vendor: RUSTIC ROOTS 
   Product Type: SUBLIMATION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/teddy-bear-with-a-t-shirt-white-front-69a0e0ee5b26f.jpg?v=1772151037
-  Price: $46.30 USD
+  Price: $40.00 USD
 - [RV CAMPING LIFESTYLE Unisex Premium Sweatshirt](https://rusticroots01.com/products/rv-camping-lifestyle-unisex-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 20 23 ½ M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 ½ 24 3XL 32 28 24
   Updated: 2026-04-08T05:41:43Z
   Vendor: RUSTIC ROOTS 
@@ -15613,7 +15613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/tough-case-for-samsung-glossy-samsung-galaxy-s25-ultra-front-69a67ccab15d8.jpg?v=1772518623
     Price: $35.00 USD
 - [JESUS GOT MY BACK Flip-Flops](https://rusticroots01.com/products/jesus-got-my-back-flip-flops): Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post styleSize guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2026-04-08T05:41:48Z
+  Updated: 2026-04-14T21:57:15Z
   Vendor: RUSTIC ROOTS 
   Product Type: SANDLES
   Availability: Available
@@ -18224,38 +18224,35 @@
 ## Collections
 
 - [R & R APPAREL CATALOG](https://rusticroots01.com/collections/frontpage): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-08T18:39:51Z
-  Total Products: 256
+  Updated: 2026-04-18T05:09:21Z
+  Total Products: 274
 - [OFF GRID COLLECTION](https://rusticroots01.com/collections/off-grid): RUSTIC ROOTS R & R APPAREL
   Updated: 2026-04-08T07:36:29Z
   Total Products: 43
 - [Showcase Products](https://rusticroots01.com/collections/rv-life): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-08T18:29:43Z
-  Total Products: 49
+  Updated: 2026-04-18T05:27:01Z
+  Total Products: 56
 - [OFF RD & RV](https://rusticroots01.com/collections/off-grid-1): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-08T19:11:15Z
-  Total Products: 61
+  Updated: 2026-04-18T05:52:42Z
+  Total Products: 72
 - [HATS](https://rusticroots01.com/collections/hats): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-08T23:25:22Z
-  Total Products: 52
+  Updated: 2026-04-13T23:03:46Z
+  Total Products: 56
 - [PHONE CASES   IPHONE AND SAMSUNG](https://rusticroots01.com/collections/phone-case-iphone-and-samsung): RUSTIC ROOTS R & R APPAREL WE CARRY IPHONE AND SAMSUNG
-  Updated: 2026-04-08T05:40:29Z
-  Total Products: 32
+  Updated: 2026-04-15T01:17:06Z
+  Total Products: 34
 - [SHOES AND SANDLES](https://rusticroots01.com/collections/shoes-and-sandles): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-08T05:40:29Z
+  Updated: 2026-04-14T22:11:00Z
   Total Products: 11
 - [CHRISTIAN   COLLECTION](https://rusticroots01.com/collections/religious-shirts-and-sweatshirts): RUSTIC ROOTS R & R APPAREL CHRISTAN COLLECTION
-  Updated: 2026-04-08T05:40:29Z
-  Total Products: 42
+  Updated: 2026-04-18T04:36:46Z
+  Total Products: 45
 - [BACKPACKS & BAGS](https://rusticroots01.com/collections/backpacks): RUSTIC ROOTS R & R APPAREL WE CARRY VARITY OF BACK PACKS
   Updated: 2026-04-08T05:40:29Z
   Total Products: 11
 - [Embroidery-Patches   COLLECTION](https://rusticroots01.com/collections/embroided-patches-collection): I DESIGN MY Embroidery PATCHES ----Yes, the embroidered patches from Rustic Roots come with an iron-on backing, making them ready to be attached using an iron. You can follow the steps provided below to apply them securely.
   Updated: 2026-04-08T05:40:29Z
   Total Products: 15
-- [PET   COLLECTION](https://rusticroots01.com/collections/dog-clothes-collection): DOG SHIRTS AND HOODLES PET BOWLS MISC
-  Updated: 2026-04-08T05:40:29Z
-  Total Products: 4
 
 ## Blogs
 
