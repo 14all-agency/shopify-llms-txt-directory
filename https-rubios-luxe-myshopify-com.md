@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-11-06T14:11:19Z
 - Contact Email: jezryllerubio777@gmail.com
-- Updated At: 2026-04-10T23:42:00.739Z
+- Updated At: 2026-04-19T00:00:21.326Z
 
 ## Products
 
@@ -159,7 +159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4e5b79f3-d1cf-4221-8614-c0f259efb6e4.jpg?v=1769824307
     Price: ₱852.00 PHP
 - [Mesh Ice Silk Short Sleeve T-shirt Mens Clothing](https://rubios-luxe.myshopify.com/products/mesh-ice-silk-short-sleeve-t-shirt-mens-clothing): Product information: Pattern: solid color Applicable scenarios: Leisure Color: gray, white, gray, green, Haiqing, black, apricot Size: M-48,L-50,XL-52,XXL-54,XXXL-56,XXXXL-58 Version: Loose Style: business gentleman,Luxury Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeved * 1 piece Product Image:
-  Updated: 2026-02-23T08:10:35Z
+  Updated: 2026-04-13T11:13:10Z
   Vendor: Jezrylle Rubio
   Product Type: Fashion Jewelry Box Red Apple Christmas
   Availability: Available
@@ -479,7 +479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1454572626934.jpg?v=1770711574
     Price: ₱589.00 PHP
 - [Summer Loafers Flat Casual Shoes For Men](https://rubios-luxe.myshopify.com/products/summer-loafers-flat-casual-shoes-for-men): Product information: Pattern: solid color Heel height: flat heel Size: 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48 Style: Casual Toe holder shape: round head Shoe Upper material: artificial leather Applicable Gender: Male OTHER DESCRIPTION: The Summer Walk Loafer: Redefining Effortless Elegance Step into a world where sophisticated craftsmanship meets ultimate comfort. Designed for the modern individual who values both style and substance, these Suede Slip-On Loafers are the quintessential addition to a refined wardrobe. Why You’ll Love Them: Premium Italian Aesthetic: Crafted from buttery-soft, water-repellent suede, these loafers offer a rich texture that looks as good as it feels. The neutral sand palette ensures they pair perfectly with everything from crisp white linen to deep navy denim. Cloud-Like Comfort: Engineered with a lightweight, flexible rubber sole, these aren't just shoes—they’re an experience. Whether you’re navigating city streets or strolling along the coast, the cushioned footbed provides all-day support. Versatile Silhouette: The clean, unlined construction gives them a relaxed yet structured profile. It’s the rare shoe that transitions seamlessly from a morning board meeting to a sunset dinner. Hand-Stitched Detail: Notice the delicate visible stitching along the vamp; it’s a nod to traditional artisanal techniques, ensuring durability and a bespoke feel. "The perfect balance of 'casual' and 'connoisseur.' These loafers don't just complete an outfit; they define it." Style Suggestion: Pair these with tailored beige chinos and a light blue button-down for a classic "Hamptons" look, or go bold with dark cropped trousers and a silk polo for a sharp, contemporary evening ensemble. Ready to upgrade your footwear game? These are more than just shoes—they are an  in your personal style. Packing list: Men's Shoes * 1pair Product Image:
-  Updated: 2026-02-23T08:10:35Z
+  Updated: 2026-04-13T11:55:51Z
   Vendor: Jezrylle Rubio
   Product Type: Fashion Jewelry Box Red Apple Christmas
   Availability: Available
@@ -927,42 +927,42 @@
     Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ded8d589-6b10-41a1-aead-b48d9c75e1dc_fine.jpg?v=1770808190
     Price: ₱799.00 PHP
 - [Mens Solid-Color Turtleneck Casual Long-Sleeve Polo Sweatshirt With Pockets For Men Spring Autumn Clothing Loose Button Polo Collar Tees Tops Man Outwear](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear): Elevate Your Everyday: The Ultimate Ribbed Henley Pullover Upgrade your wardrobe with a piece that perfectly bridges the gap between laid-back comfort and refined style. This isn't just another sweatshirt; it’s a modern essential designed for the man who values both texture and versatility. Why You’ll Love It: Premium Ribbed Texture: The vertical knit design adds sophisticated depth and visual interest, making it stand out from basic, flat fabrics. Classic Henley Neckline: Featuring a sleek button placket, this neckline allows you to adjust your look—button up for a sharp, structured feel or leave it open for a relaxed vibe. The "Goldilocks" Fit: Designed with a comfortable, slightly relaxed silhouette that looks great layered over a tee or worn on its own. Functional Detail: The discrete kangaroo front pocket provides a cozy spot for your hands or a convenient place for your essentials without adding bulk. A Color for Every Mood: From sophisticated charcoal and earth-toned sand to bold burgundy and calming sage, there is a shade to match every personality and occasion. Style Tip Pair the Charcoal or Navy with dark denim for a polished casual Friday, or opt for the Sage or Dusty Blue with chinos for a weekend brunch. "This pullover redefined my 'easy' outfits. It's as comfortable as my favorite hoodie but looks ten times more put-together." Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Color: Black, white, gray, burgundy, apricot, dark green, light green, light purple, sky blue, navy blue Size: S, M, L, XL, XXL, 3XL, 4XL, 5XL Thickness: Regular Fabric Name: Polyester Main Fabric Composition: Polyester Sleeve Length: Long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Sweatshirt Product Image:
-  Updated: 2026-02-23T08:10:36Z
+  Updated: 2026-04-13T10:45:22Z
   Vendor: Jezrylle Rubio
   Product Type: Fashion Jewelry Box Red Apple Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/3d3c594c-a533-4664-b836-80e989462b7e.jpg?v=1771055731
   - [Apricot / 3XL](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472254531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Apricot / 4XL](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472287299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Apricot / 5XL](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472320067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Apricot / L](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472352835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Apricot / M](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472385603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Apricot / S](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472418371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Apricot / XL](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472451139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Apricot / XXL](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472483907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1771055742
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ea8e9d04-c5a4-4aa9-baf1-a6b75ee5424f.jpg?v=1776077121
     Price: ₱759.00 PHP
   - [Black / 3XL](https://rubios-luxe.myshopify.com/products/mens-solid-color-turtleneck-casual-long-sleeve-polo-sweatshirt-with-pockets-for-men-spring-autumn-clothing-loose-button-polo-collar-tees-tops-man-outwear?variant=42956472516675)
     Availability: Available
@@ -1871,7 +1871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/cc81afde-a845-4a02-9020-cd13442f7d48.jpg?v=1773488403
     Price: ₱1,299.00 PHP
 - [Rubio's Luxe Summer Loose Lapels Short Sleeve Men](https://rubios-luxe.myshopify.com/products/rubios-luxe-summer-loose-lapels-short-sleeve-men): Product information: Pattern: solid color Color: white, black, red, gray, khaki, dark green, sky blue, Cyan, clams blue, navy blue Size: S,M,L,XL,XXL,XXXL Version: Loose Main fabric composition: Polyester Fiber (polyester) Sleeve length: short sleeve Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top*1 Product Image:
-  Updated: 2026-03-29T16:36:26Z
+  Updated: 2026-04-13T11:23:20Z
   Vendor: Jezrylle Rubio
   Product Type: cloth
   Availability: Available
@@ -2282,6 +2282,776 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-irish-green-front-and-back-69d461ee5d494.jpg?v=1775526402
     Price: ₱732.15 PHP
+- [British Men Business Casual Pants](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants): Product information: Color: white, black, navy blue Elasticity: inelastic Size: 28, 29, 30, 31, 32, 33, 34, 36 Main fabric composition: Polyester Fiber Pants type: Straight type Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Pants*1 Product Image:
+  Updated: 2026-04-13T16:47:05Z
+  Vendor: Jezrylle Rubio
+  Product Type: cloth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/5ddea016-79a2-41f1-838f-81a8877e8303.jpg?v=1776050271
+  - [Black / 28](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957115459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Black / 29](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957148227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Black / 30](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957180995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Black / 31](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957213763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Black / 32](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957246531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Black / 33](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957279299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Black / 34](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957312067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Black / 36](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957344835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/a79bfa2b-f1c5-4823-8001-82c743579738.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 28](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957377603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 29](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957410371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 30](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957443139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 31](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957475907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 32](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957508675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 33](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957541443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 34](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957574211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [Navy Blue / 36](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957606979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21f53cfa-034d-4b70-831b-a4460a5162e3.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 28](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957639747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 29](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957672515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 30](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957705283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 31](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957738051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 32](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957770819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 33](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957803587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 34](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957836355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+  - [White / 36](https://rubios-luxe.myshopify.com/products/british-men-business-casual-pants?variant=43138957869123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/c8fad2ec-805c-4fa6-8a50-46db2d445ac8.jpg?v=1776050278
+    Price: ₱1,238.00 PHP
+- [Fine Plaid Stretch Pencil Pants Slim-fit Pants Men](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men): Product information: Pattern: fine Plaid Color: white, khaki, black, light gray, light blue, beige, Army Green Elasticity: Micro elasticity Pants length: trousers Waist Type: Mid waist Size: 30, 31, 32, 33, 34, 36, 38 Style: long straight-leg pants Thickness: ordinary Fabric name: Cotton Applicable scenarios: Leisure Applicable Gender: Male Pants type: Straight type Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Pants * 1 Product Image:
+  Updated: 2026-04-13T17:49:58Z
+  Vendor: Jezrylle Rubio
+  Product Type: cloth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b28ad771-a7bc-49b3-9ed5-16e765d0e854.jpg?v=1776051531
+  - [Army Green / 30](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968453187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ddbcd960-4d1f-4e74-a871-8c7a34506cf8.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Army Green / 31](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968485955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ddbcd960-4d1f-4e74-a871-8c7a34506cf8.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Army Green / 32](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968518723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ddbcd960-4d1f-4e74-a871-8c7a34506cf8.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Army Green / 33](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968551491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ddbcd960-4d1f-4e74-a871-8c7a34506cf8.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Army Green / 34](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968584259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ddbcd960-4d1f-4e74-a871-8c7a34506cf8.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Army Green / 36](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968617027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ddbcd960-4d1f-4e74-a871-8c7a34506cf8.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Army Green / 38](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968649795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/ddbcd960-4d1f-4e74-a871-8c7a34506cf8.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Beige / 30](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968682563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/49498d59-05a4-4108-bf40-47c57db8b486.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Beige / 31](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968715331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/49498d59-05a4-4108-bf40-47c57db8b486.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Beige / 32](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968748099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/49498d59-05a4-4108-bf40-47c57db8b486.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Beige / 33](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968780867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/49498d59-05a4-4108-bf40-47c57db8b486.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Beige / 34](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968813635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/49498d59-05a4-4108-bf40-47c57db8b486.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Beige / 36](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968846403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/49498d59-05a4-4108-bf40-47c57db8b486.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Beige / 38](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968879171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/49498d59-05a4-4108-bf40-47c57db8b486.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Black / 30](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968911939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/20930a10-66fc-45f5-8926-398221395b11.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Black / 31](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968944707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/20930a10-66fc-45f5-8926-398221395b11.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Black / 32](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138968977475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/20930a10-66fc-45f5-8926-398221395b11.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Black / 33](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969010243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/20930a10-66fc-45f5-8926-398221395b11.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Black / 34](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969043011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/20930a10-66fc-45f5-8926-398221395b11.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Black / 36](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969075779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/20930a10-66fc-45f5-8926-398221395b11.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Black / 38](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969108547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/20930a10-66fc-45f5-8926-398221395b11.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Khaki / 30](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969141315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/dcb1e96e-1ae6-423c-a8ff-7abe515c38cd.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Khaki / 31](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969174083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/dcb1e96e-1ae6-423c-a8ff-7abe515c38cd.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Khaki / 32](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969206851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/dcb1e96e-1ae6-423c-a8ff-7abe515c38cd.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Khaki / 33](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969239619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/dcb1e96e-1ae6-423c-a8ff-7abe515c38cd.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Khaki / 34](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969272387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/dcb1e96e-1ae6-423c-a8ff-7abe515c38cd.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Khaki / 36](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969305155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/dcb1e96e-1ae6-423c-a8ff-7abe515c38cd.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Khaki / 38](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969337923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/dcb1e96e-1ae6-423c-a8ff-7abe515c38cd.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Blue / 30](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969370691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/0dea4ccb-6cf7-4cc4-8de8-ae892447af96.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Blue / 31](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969403459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/0dea4ccb-6cf7-4cc4-8de8-ae892447af96.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Blue / 32](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969436227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/0dea4ccb-6cf7-4cc4-8de8-ae892447af96.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Blue / 33](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969468995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/0dea4ccb-6cf7-4cc4-8de8-ae892447af96.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Blue / 34](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969501763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/0dea4ccb-6cf7-4cc4-8de8-ae892447af96.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Blue / 36](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969534531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/0dea4ccb-6cf7-4cc4-8de8-ae892447af96.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Blue / 38](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969567299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/0dea4ccb-6cf7-4cc4-8de8-ae892447af96.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Gray / 30](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969600067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b229771d-eb48-4c23-9fb1-6c0dcb892b4f.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Gray / 31](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969632835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b229771d-eb48-4c23-9fb1-6c0dcb892b4f.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Gray / 32](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969665603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b229771d-eb48-4c23-9fb1-6c0dcb892b4f.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Gray / 33](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969698371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b229771d-eb48-4c23-9fb1-6c0dcb892b4f.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Gray / 34](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969731139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b229771d-eb48-4c23-9fb1-6c0dcb892b4f.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Gray / 36](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969763907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b229771d-eb48-4c23-9fb1-6c0dcb892b4f.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [Light Gray / 38](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969796675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/b229771d-eb48-4c23-9fb1-6c0dcb892b4f.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [White / 30](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969829443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1c42c6b1-c1d5-4de0-b11a-0c91189ca267.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [White / 31](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969862211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1c42c6b1-c1d5-4de0-b11a-0c91189ca267.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [White / 32](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969894979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1c42c6b1-c1d5-4de0-b11a-0c91189ca267.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [White / 33](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969927747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1c42c6b1-c1d5-4de0-b11a-0c91189ca267.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [White / 34](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969960515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1c42c6b1-c1d5-4de0-b11a-0c91189ca267.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [White / 36](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138969993283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1c42c6b1-c1d5-4de0-b11a-0c91189ca267.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+  - [White / 38](https://rubios-luxe.myshopify.com/products/fine-plaid-stretch-pencil-pants-slim-fit-pants-men?variant=43138970026051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1c42c6b1-c1d5-4de0-b11a-0c91189ca267.jpg?v=1776051539
+    Price: ₱1,499.00 PHP
+- [Men's Short Sleeve Polo Shirt Casual Polo Shirt Men's Polo Shirt](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt): Stop settling for the "standard" polo. Designed for the man who values both form and function, this short-sleeve polo reimagines a classic silhouette with a bold, contemporary edge. Whether you’re heading to a casual office, a weekend brunch, or a sunset social, this shirt ensures you look effortlessly put-together. Why You’ll Love It Striking Visual Impact: The sharp, horizontal color-blocking creates a modern "chest-stripe" effect that visually broadens the shoulders and creates a tailored, athletic profile. Precision Tailoring: This isn’t your average boxy fit. It features a tapered cut that hugs the arms and chest while remaining comfortable through the torso, ensuring you never look sloppy. Versatile Styling: The classic black-and-white palette makes it a wardrobe powerhouse. Pair it with:Khakis or Chinos for a refined, "smart-casual" look.Dark Denim for a sharp night out.Tailored Shorts for an upscale summer vibe. Attention to Detail: From the crisp, stay-flat collar to the minimalist chest accent, every element is designed to provide a premium look without the designer price tag. Product Features Feature Benefit Contrast Trim Adds a sophisticated, high-end feel. Performance Fabric Breathable and soft for all-day comfort. Reinforced Placket Keeps the collar looking sharp, even after multiple washes. Wrinkle-Resistant Perfect for travel or long days on the move. Product information: Pattern: stripes Color: Black Blue Green Size: S,M,L,XL,2XL,3XL Version: Loose Thickness: ordinary Fabric name: Mesh cloth Applicable scenarios: Leisure Main fabric composition: Polyester Fiber (polyester) Inventory Type: Miscellaneous Sleeve length: short sleeve Suitable season: Summer Style: General public Size Information: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeves and packaging bags x 1pcs Product Image:
+  Updated: 2026-04-14T12:29:58Z
+  Vendor: Jezrylle Rubio
+  Product Type: cloth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4da46216-bc29-4a8e-b68e-09e261b104c1.jpg?v=1776126592
+  - [Black / 2XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057132099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4da46216-bc29-4a8e-b68e-09e261b104c1_7b49f8fc-42df-4c49-ad54-2aac08641bda.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Black / 3XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057164867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4da46216-bc29-4a8e-b68e-09e261b104c1_7b49f8fc-42df-4c49-ad54-2aac08641bda.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Black / L](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057197635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4da46216-bc29-4a8e-b68e-09e261b104c1_7b49f8fc-42df-4c49-ad54-2aac08641bda.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Black / M](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057230403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4da46216-bc29-4a8e-b68e-09e261b104c1_7b49f8fc-42df-4c49-ad54-2aac08641bda.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Black / S](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057263171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4da46216-bc29-4a8e-b68e-09e261b104c1_7b49f8fc-42df-4c49-ad54-2aac08641bda.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Black / XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057295939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4da46216-bc29-4a8e-b68e-09e261b104c1_7b49f8fc-42df-4c49-ad54-2aac08641bda.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Blue / 2XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057328707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21150bf9-10bd-4890-b50a-4a10651f86fd.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Blue / 3XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057361475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21150bf9-10bd-4890-b50a-4a10651f86fd.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Blue / L](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057394243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21150bf9-10bd-4890-b50a-4a10651f86fd.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Blue / M](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057427011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21150bf9-10bd-4890-b50a-4a10651f86fd.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Blue / S](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057459779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21150bf9-10bd-4890-b50a-4a10651f86fd.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Blue / XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057492547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/21150bf9-10bd-4890-b50a-4a10651f86fd.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Green / 2XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057525315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4180921d-509e-4081-8a6b-804dd09ac244.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Green / 3XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057558083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4180921d-509e-4081-8a6b-804dd09ac244.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Green / L](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057590851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4180921d-509e-4081-8a6b-804dd09ac244.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Green / M](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057623619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4180921d-509e-4081-8a6b-804dd09ac244.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Green / S](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057656387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4180921d-509e-4081-8a6b-804dd09ac244.jpg?v=1776126596
+    Price: ₱759.00 PHP
+  - [Green / XL](https://rubios-luxe.myshopify.com/products/mens-short-sleeve-polo-shirt-casual-polo-shirt-mens-polo-shirt?variant=43142057689155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/4180921d-509e-4081-8a6b-804dd09ac244.jpg?v=1776126596
+    Price: ₱759.00 PHP
+- [Casual linen polo shirt](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt): Rediscover Effortless Cool: The Essential Linen Henley Ditch the heavy fabrics and embrace the ultimate in breezy sophistication. This short-sleeve linen-blend Henley is designed for the man who wants to stay cool without sacrificing an ounce of style. Whether you’re coastal-bound or navigating a humid city afternoon, this shirt is your new summer uniform. Why It’s a Wardrobe Essential Breathable Luxury: Crafted from a lightweight, textured fabric, this shirt allows for maximum airflow, keeping you comfortable when the temperature rises. The Modern Henley Cut: Featuring a relaxed band collar and a classic button placket, it offers a more refined look than a standard T-shirt while remaining far more comfortable than a stiff button-down. Versatile Earth Tones: Available in a palette of muted, natural colors—Khaki, Sage, and Soft Blue—that effortlessly pair with light chinos, linen trousers, or your favorite pair of summer shorts. Tailored for Relaxation: The fit is intentionally easygoing, featuring side slits and a slightly curved hem that looks just as good untucked as it does for a relaxed "half-tuck." Product Highlights Feature Your Advantage Band Collar A modern, minimalist alternative to traditional collars. Functional Chest Pocket Adds a touch of utility and visual interest. Linen-Blend Fabric The classic look of linen with enhanced durability and less wrinkling. Partial Placket Allows you to adjust your look—button up for a tidy feel or leave open for a casual vibe. Styling Tip Roll the sleeves once or twice and pair with off-white drawstring trousers and leather sandals for a look that screams "vacation-ready," even if you're just grabbing a coffee down the street. Don’t let the heat compromise your style. Experience the perfect balance of comfort and class. 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2026-04-14T12:33:20Z
+  Vendor: Jezrylle Rubio
+  Product Type: cloth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/729123017111.jpg?v=1776126794
+  - [Beige / 3XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058508355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2161173265831.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Beige / 5XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058541123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2161173265831.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Beige / L](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058573891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2161173265831.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Beige / M](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058606659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2161173265831.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Beige / XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058639427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2161173265831.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Beige / XXL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058672195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2161173265831.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Black / 3XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058704963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1816216109779.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Black / 4XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058737731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1816216109779.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Black / 5XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058770499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1816216109779.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Black / L](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058803267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1816216109779.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Black / M](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058836035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1816216109779.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Black / XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058868803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1816216109779.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Black / XXL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058901571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1816216109779.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark blue / 3XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058934339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2116927733110.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark blue / 4XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058967107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2116927733110.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark blue / 5XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142058999875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2116927733110.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark blue / L](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059032643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2116927733110.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark blue / M](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059065411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2116927733110.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark blue / XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059098179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2116927733110.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark blue / XXL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059130947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/2116927733110.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark green / 3XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059163715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1607962668814.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark green / L](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059196483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1607962668814.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark green / M](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059229251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1607962668814.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark green / XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059262019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1607962668814.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Dark green / XXL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059294787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1607962668814.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Grey / 3XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059327555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/943860898169.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Grey / 4XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059360323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/943860898169.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Grey / 5XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059393091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/943860898169.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Grey / L](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059425859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/943860898169.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Grey / M](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059458627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/943860898169.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Grey / XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059491395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/943860898169.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Grey / XXL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059524163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/943860898169.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Light Blue / 3XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059556931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1357850529976.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Light Blue / L](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059589699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1357850529976.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Light Blue / M](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059622467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1357850529976.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Light Blue / XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059655235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1357850529976.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [Light Blue / XXL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059688003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1357850529976.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [White / 3XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059720771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1919607930322.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [White / 4XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059753539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1919607930322.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [White / 5XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059786307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1919607930322.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [White / L](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059819075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1919607930322.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [White / M](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059851843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1919607930322.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [White / XL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059884611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1919607930322.jpg?v=1776126800
+    Price: ₱729.00 PHP
+  - [White / XXL](https://rubios-luxe.myshopify.com/products/casual-linen-polo-shirt?variant=43142059917379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/1919607930322.jpg?v=1776126800
+    Price: ₱729.00 PHP
+- [Unisex classic tee](https://rubios-luxe.myshopify.com/products/unisex-classic-tee): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.
+  Updated: 2026-04-15T13:16:19Z
+  Vendor: Rubio's Luxe
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+  - [Black / S](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813145155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱728.42 PHP
+  - [Black / M](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813177923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Black / L](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813210691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Black / XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813243459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Black / 2XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813276227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱740.09 PHP
+  - [Black / 3XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813308995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱871.66 PHP
+  - [Black / 4XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813341763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱1,003.23 PHP
+  - [Black / 5XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813374531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-black-front-and-back-69dee6c036ef7.jpg?v=1776215772
+    Price: ₱1,134.80 PHP
+  - [Purple / S](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813407299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-purple-front-and-back-69dee6c03723b.jpg?v=1776215772
+    Price: ₱728.42 PHP
+  - [Purple / M](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813440067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-purple-front-and-back-69dee6c03723b.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Purple / L](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813472835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-purple-front-and-back-69dee6c03723b.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Purple / XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813505603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-purple-front-and-back-69dee6c03723b.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Purple / 2XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813538371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-purple-front-and-back-69dee6c03723b.jpg?v=1776215772
+    Price: ₱740.09 PHP
+  - [Purple / 3XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813571139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-purple-front-and-back-69dee6c03723b.jpg?v=1776215772
+    Price: ₱871.66 PHP
+  - [Red / S](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813603907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱728.42 PHP
+  - [Red / M](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813636675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Red / L](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813669443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Red / XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813702211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Red / 2XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813734979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱740.09 PHP
+  - [Red / 3XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813767747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱871.66 PHP
+  - [Red / 4XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813800515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱1,003.23 PHP
+  - [Red / 5XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813833283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-red-front-and-back-69dee6c0372d7.jpg?v=1776215772
+    Price: ₱1,134.80 PHP
+  - [Royal / S](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813866051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-royal-front-and-back-69dee6c03737f.jpg?v=1776215772
+    Price: ₱728.42 PHP
+  - [Royal / M](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813898819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-royal-front-and-back-69dee6c03737f.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Royal / L](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813931587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-royal-front-and-back-69dee6c03737f.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Royal / XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813964355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-royal-front-and-back-69dee6c03737f.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Royal / 2XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146813997123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-royal-front-and-back-69dee6c03737f.jpg?v=1776215772
+    Price: ₱740.09 PHP
+  - [Royal / 3XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814029891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-royal-front-and-back-69dee6c03737f.jpg?v=1776215772
+    Price: ₱871.66 PHP
+  - [Turf Green / S](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814062659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-turf-green-front-and-back-69dee6c0374c0.jpg?v=1776215772
+    Price: ₱728.42 PHP
+  - [Turf Green / M](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814095427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-turf-green-front-and-back-69dee6c0374c0.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Turf Green / L](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814128195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-turf-green-front-and-back-69dee6c0374c0.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Turf Green / XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814160963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-turf-green-front-and-back-69dee6c0374c0.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Turf Green / 2XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814193731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-turf-green-front-and-back-69dee6c0374c0.jpg?v=1776215772
+    Price: ₱740.09 PHP
+  - [Turf Green / 3XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814226499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-turf-green-front-and-back-69dee6c0374c0.jpg?v=1776215772
+    Price: ₱871.66 PHP
+  - [Orange / S](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814259267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱728.42 PHP
+  - [Orange / M](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814292035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Orange / L](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814324803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Orange / XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814357571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Orange / 2XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814390339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱740.09 PHP
+  - [Orange / 3XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814423107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱871.66 PHP
+  - [Orange / 4XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814455875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱1,003.23 PHP
+  - [Orange / 5XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814488643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-orange-front-and-back-69dee6c037196.jpg?v=1776215772
+    Price: ₱1,134.80 PHP
+  - [Tropical Blue / S](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814521411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱728.42 PHP
+  - [Tropical Blue / M](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814554179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Tropical Blue / L](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814586947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Tropical Blue / XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814619715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱608.52 PHP
+  - [Tropical Blue / 2XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814652483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱740.09 PHP
+  - [Tropical Blue / 3XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814685251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱871.66 PHP
+  - [Tropical Blue / 4XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814718019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱1,003.23 PHP
+  - [Tropical Blue / 5XL](https://rubios-luxe.myshopify.com/products/unisex-classic-tee?variant=43146814750787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0662/5178/4259/files/unisex-classic-tee-tropical-blue-front-and-back-69dee6c03755a.jpg?v=1776215772
+    Price: ₱1,134.80 PHP
 
 ## Collections
 
@@ -2294,6 +3064,12 @@
 - [Printed shirts](https://rubios-luxe.myshopify.com/collections/printed-shirts)
   Updated: 2026-04-07T11:19:44Z
   Total Products: 1
+- [MEN'S PANTS AND TROUSERS](https://rubios-luxe.myshopify.com/collections/mens-pants-and-trousers)
+  Updated: 2026-04-13T03:39:52Z
+  Total Products: 4
+- [Old Money Outfits](https://rubios-luxe.myshopify.com/collections/old-money-outfits)
+  Updated: 2026-04-14T00:35:41Z
+  Total Products: 12
 
 ## Store Pages
 
