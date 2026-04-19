@@ -6,30 +6,30 @@
 - Timezone: Australia/Brisbane
 - Created At: 2013-06-26T01:41:59Z
 - Contact Email: customercare@whitesandsswim.com
-- Updated At: 2026-04-08T00:00:45.408Z
+- Updated At: 2026-04-19T00:00:45.152Z
 
 ## Products
 
 - [Lucy Scoop Bikini Top - Leopard Print](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-leopard-print): Featuring a chic scoop design, this leopard print bikini top offers a flattering fit for all bust sizes. Shop designer swimwear. Bikini tops, womens swimwear, leopard print swimsuits, bathing suits, swimwear separates, string bikinis, leopard printed micro bikinis, thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T09:27:40Z
+  Updated: 2026-04-18T08:35:14Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0118.jpg?v=1718846524
   - [XS](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-leopard-print?variant=44834629976219)
     Availability: Available
-    Price: $30.00 USD
+    Price: $60.00 USD
   - [S](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-leopard-print?variant=44834630008987)
-    Availability: Not Available
-    Price: $30.00 USD
+    Availability: Available
+    Price: $60.00 USD
   - [M](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-leopard-print?variant=44834630041755)
-    Availability: Not Available
-    Price: $30.00 USD
+    Availability: Available
+    Price: $60.00 USD
   - [L](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-leopard-print?variant=44834630074523)
-    Availability: Not Available
-    Price: $30.00 USD
+    Availability: Available
+    Price: $60.00 USD
 - [Bondi Brazilian Bikini Bottoms - Merlot-red](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-merlot-red): Bondi Brazilian cut bikini pants. Shop all Brazilian bikini bottoms. Tanga bikini pants, High cut bikini bottoms, thong bikini bottoms, string bikini bottoms, micro bikini bottoms.
-  Updated: 2026-04-07T20:37:12Z
+  Updated: 2026-04-17T13:02:35Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Bondi Brazilian Bikini Bottoms - Olive-Green](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-olive-green): Bondi Brazilian cut bikini pants. Shop all Brazilian bikini bottoms. Tanga bikini pants, High cut bikini bottoms, thong bikini bottoms, string bikini bottoms, micro bikini bottoms.
-  Updated: 2026-04-07T20:37:12Z
+  Updated: 2026-04-17T13:02:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Bondi Brazilian Bikini Bottoms - Dolce](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-dolce): Bondi Brazilian cut bikini pants. Shop all Brazilian bikini bottoms. Tanga bikini pants, High cut bikini bottoms, thong bikini bottoms, string bikini bottoms, micro bikini bottoms.
-  Updated: 2026-04-06T09:23:47Z
+  Updated: 2026-04-17T13:02:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -77,13 +77,13 @@
     Availability: Available
     Price: $15.00 USD
   - [M](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-dolce?variant=44834896019611)
-    Availability: Available
+    Availability: Not Available
     Price: $15.00 USD
   - [L](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-dolce?variant=44834896052379)
     Availability: Available
     Price: $15.00 USD
 - [Bondi Brazilian Bikini Bottoms - Leopard](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-leopard): Bondi Brazilian cut bikini pants. Shop all Brazilian bikini bottoms. Tanga bikini pants, High cut bikini bottoms, thong bikini bottoms, string bikini bottoms, micro bikini bottoms.
-  Updated: 2026-04-06T09:20:35Z
+  Updated: 2026-04-17T13:02:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -101,7 +101,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Mia Bandeau Bikini Top - Merlot](https://www.whitesandsswim.com/products/mia-bandeau-bikini-top-merlot): Mia Strapless Bandeau Bikini Top. With its strapless design, and removable halter string this bandeau bikini top. Shop online for strapless bikini tops, halter bikini tops, bandeau bikini tops, underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimwear.
-  Updated: 2026-04-06T09:25:36Z
+  Updated: 2026-04-17T11:16:48Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -119,7 +119,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Mia Bandeau Bikini Top - Olive](https://www.whitesandsswim.com/products/mia-bandeau-bikini-top-olive): Mia Strapless Bandeau Bikini Top. With its strapless design, and removable halter string this bandeau bikini top. Shop online for strapless bikini tops, halter bikini tops, bandeau bikini tops, underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimwear.
-  Updated: 2026-04-06T09:25:49Z
+  Updated: 2026-04-17T11:16:38Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Mia Bandeau Bikini Top - Dolce](https://www.whitesandsswim.com/products/mia-bandeau-bikini-top-dolce-rose-print): Mia Strapless Bandeau Bikini Top. With its strapless design, and removable halter string this bandeau bikini top. Shop online for strapless bikini tops, halter bikini tops, bandeau bikini tops, underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimwear.
-  Updated: 2026-04-06T09:25:43Z
+  Updated: 2026-04-17T11:16:39Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -155,7 +155,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Mia Strapless Bandeau Bikini Top - Leopard](https://www.whitesandsswim.com/products/mia-strapless-bikini-top-leopard): Mia Strapless Bandeau Bikini Top. With its strapless design, and removable halter string this bandeau bikini top. Shop online for strapless bikini tops, halter bikini tops, bandeau bikini tops, underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimwear.
-  Updated: 2026-04-06T21:09:06Z
+  Updated: 2026-04-18T21:16:07Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -172,26 +172,8 @@
   - [L](https://www.whitesandsswim.com/products/mia-strapless-bikini-top-leopard?variant=44844684542107)
     Availability: Available
     Price: $25.00 USD
-- [Byron Cheeky Bikini Bottoms - Olive](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-olive-green): Byron Tanga Cheeky. High-cut bikini bottoms. Shop all Tanga bikinis, Thong bikinis, string bikinis, high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, cheeky bikini bottoms
-  Updated: 2026-04-06T09:23:35Z
-  Vendor: White Sands
-  Product Type: Bikini Pant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0087.jpg?v=1718846523
-  - [XS](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-olive-green?variant=44844853461147)
-    Availability: Not Available
-    Price: $15.00 USD
-  - [S](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-olive-green?variant=44844853493915)
-    Availability: Not Available
-    Price: $15.00 USD
-  - [M](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-olive-green?variant=44844853526683)
-    Availability: Not Available
-    Price: $15.00 USD
-  - [L](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-olive-green?variant=44844853559451)
-    Availability: Available
-    Price: $15.00 USD
 - [Byron Cheeky Bikini Bottoms - Dolce](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-dolce-rose-print): Byron Tanga Cheeky. Dolce rose print. High-cut bikini bottoms. Shop all Tanga bikinis, Thong bikinis, string bikinis, high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, cheeky bikini bottoms
-  Updated: 2026-04-06T09:23:35Z
+  Updated: 2026-04-17T13:02:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -209,25 +191,25 @@
     Availability: Available
     Price: $15.00 USD
 - [Byron Cheeky Bikini Bottoms - Leopard](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-leopard-print): Byron Tanga Cheeky. Leopard print high-cut bikini bottoms. Shop all Tanga bikinis, Thong bikinis, leopard print string bikinis, high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, leopard printed thong bikini bottoms, cheeky bikini bottoms
-  Updated: 2026-04-06T21:09:06Z
+  Updated: 2026-04-18T21:16:07Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0069.jpg?v=1718846521
   - [XS](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-leopard-print?variant=44844972966043)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-leopard-print?variant=44844972998811)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-leopard-print?variant=44844973031579)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-leopard-print?variant=44844973064347)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
 - [Tally String Bikini Bottoms - Merlot](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-merlot-red): Shop all bikini bottoms, string bikini bottoms, micro bikini bottoms, tie side bikini bottoms, thong bikini bottoms, high cut bikini bottoms. Brazilian bikini bottoms, gstring bikinis.
-  Updated: 2026-04-06T09:23:48Z
+  Updated: 2026-04-16T06:57:09Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -245,7 +227,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Tally String Bikini Bottoms - Dolce](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-dolce-rose-print): Shop all bikini bottoms, string bikini bottoms, micro bikini bottoms, tie side bikini bottoms, thong bikini bottoms, high cut bikini bottoms. Brazilian bikini bottoms, gstring bikinis.
-  Updated: 2026-04-06T09:23:35Z
+  Updated: 2026-04-16T06:57:09Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -262,8 +244,26 @@
   - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-dolce-rose-print?variant=44845251330203)
     Availability: Available
     Price: $20.00 USD
+- [Tally String Bikini Bottoms - Leopard](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-leopard-print): Shop all bikini bottoms, string bikini bottoms, micro bikini bottoms, tie side bikini bottoms, thong bikini bottoms, high cut bikini bottoms. Brazilian bikini bottoms, gstring bikinis.
+  Updated: 2026-04-18T15:08:07Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0238.jpg?v=1718846522
+  - [XS](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-leopard-print?variant=44845258277019)
+    Availability: Available
+    Price: $25.00 USD
+  - [S](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-leopard-print?variant=44845258309787)
+    Availability: Available
+    Price: $25.00 USD
+  - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-leopard-print?variant=44845258342555)
+    Availability: Available
+    Price: $25.00 USD
+  - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-leopard-print?variant=44845258375323)
+    Availability: Available
+    Price: $25.00 USD
 - [Eve Triangle Bikini Top - Merlot](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-merlot): Eve triangle bikini top. swimwear, swimsuit, bathers,  bikini top, triangle bikini top, halter bikini top, bandeau bikini tops, strapless bikini tops, string bikini top, micro bikini top.
-  Updated: 2026-04-07T18:19:41Z
+  Updated: 2026-04-17T18:46:49Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -281,25 +281,25 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Eve Triangle Bikini Top - Leopard](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-leopard-print): Eve triangle bikini top. swimwear, swimsuit, bathers,  bikini top, triangle bikini top, halter bikini top, bandeau bikini tops, strapless bikini tops, string bikini top, micro bikini top.
-  Updated: 2026-04-07T19:54:37Z
+  Updated: 2026-04-18T20:23:26Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0134.jpg?v=1718846520
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI04799.jpg?v=1776251503
   - [XS](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-leopard-print?variant=44845493321883)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-leopard-print?variant=44845493354651)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-leopard-print?variant=44845493387419)
-    Availability: Not Available
-    Price: $30.00 USD
+    Availability: Available
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-leopard-print?variant=44845493420187)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
 - [Noosa String Bikini Top - Olive](https://www.whitesandsswim.com/products/noosa-string-bikini-top-olive): Noosa Olive Green Multi Way String Micro Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all Bandeau bikini tops, halter bikini tops, underwire bikini tops, upside down bikini tops, micro bikini tops, string bikini tops, triangle bikini tops. Kendall Jenner Bikini brand
-  Updated: 2026-04-07T15:34:37Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -317,7 +317,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Noosa String Bikini Top - Dolce](https://www.whitesandsswim.com/products/noosa-string-bikini-top-dolce): Noosa Multi Way Micro String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all Bandeau bikini tops, halter bikini tops, underwire bikini tops, upside down bikini tops, micro bikini tops, string bikini tops, triangle bikini tops. Kendall Jenner Bikini brand
-  Updated: 2026-04-06T09:27:40Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Noosa String Bikini Top - Leopard](https://www.whitesandsswim.com/products/noosa-string-bikini-top-leopard): Noosa Multi Way Micro String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all Bandeau bikini tops, halter bikini tops, underwire bikini tops, upside down bikini tops, micro bikini tops, string bikini tops, triangle bikini tops. Kendall Jenner Bikini brand
-  Updated: 2026-04-06T09:27:40Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -344,34 +344,34 @@
     Availability: Available
     Price: $30.00 USD
   - [S](https://www.whitesandsswim.com/products/noosa-string-bikini-top-leopard?variant=44845698678939)
-    Availability: Not Available
+    Availability: Available
     Price: $30.00 USD
   - [M](https://www.whitesandsswim.com/products/noosa-string-bikini-top-leopard?variant=44845698711707)
-    Availability: Not Available
+    Availability: Available
     Price: $30.00 USD
   - [L](https://www.whitesandsswim.com/products/noosa-string-bikini-top-leopard?variant=44845698744475)
-    Availability: Not Available
+    Availability: Available
     Price: $30.00 USD
 - [Hayman Thong Bikini Bottoms - Leopard](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-leopard): Hayman Thong String bikini bottoms. Micro bikini pant with tie sides. Shop all Tanga bikinis, Thong bikinis, string bikinis, high cut leg bikinis, micro bikinis, Brazilian bikinis, tie side bikinis, bikini bottoms and s bikinis.
-  Updated: 2026-04-07T19:54:33Z
+  Updated: 2026-04-18T20:23:25Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0210.jpg?v=1718846522
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI04940.jpg?v=1776251420
   - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-leopard?variant=44845828374683)
-    Availability: Not Available
-    Price: $30.00 USD
+    Availability: Available
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-leopard?variant=44845828440219)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-leopard?variant=44845828472987)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-leopard?variant=44845828505755)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
 - [Bondi Brazilian Bikini Bottoms - White](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-white): Bondi Brazilian cut bikini pants. Shop all Brazilian bikini bottoms. Tanga bikini pants, High cut bikini bottoms, thong bikini bottoms, string bikini bottoms, micro bikini bottoms.
-  Updated: 2026-04-06T20:43:46Z
+  Updated: 2026-04-17T13:02:34Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -389,7 +389,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Lucy Scoop Bikini Top - White](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-white): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. White Bikini tops, white womens swimwear, swimsuits, white bathing suits, white swimwear separates, white string bikinis, white micro bikinis, white thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T09:25:36Z
+  Updated: 2026-04-18T19:14:08Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -407,7 +407,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Lucy Scoop Bikini Top - Dorada](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-dorada): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. yellow Bikini tops, yellow womens swimwear, gold swimsuits, yellow bathing suits, yellow swimwear separates, yellow string bikinis, yellow micro bikinis, gold thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-07T16:58:32Z
+  Updated: 2026-04-18T08:35:14Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -425,7 +425,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Lucy Scoop Bikini Top - Cendre](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-cendre): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Blue bikini tops, blue womens swimwear, blue swimsuits, blue bathing suits, blue swimwear separates, blue string bikinis, blue micro bikinis, blue thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T09:25:36Z
+  Updated: 2026-04-18T08:35:14Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -443,7 +443,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Bondi Brazilian Bikini Bottoms - Dorada](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-dorada): Bondi Brazilian cut bikini pants. Shop all Brazilian cut yellow bikini bottoms. yellow Tanga bikini pants, yellow High cut bikini pants, yellow thong bikini bottoms, yellow string bikini bottoms, yellow micro bikini bottoms, high cut bikini bottoms. Designer Australian Womens Swimwear.
-  Updated: 2026-04-06T09:23:35Z
+  Updated: 2026-04-17T14:04:57Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -461,7 +461,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Bondi Brazilian Bikini Bottoms - Cendre](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-cendre): Bondi Brazilian cut bikini pants. Shop all Blue brazilian cut bikini bottoms. Blue Tanga bikini pants, High cut bikini bottoms, Blue thong bikini bottoms, Blue string bikini bottoms, Blue micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T09:20:46Z
+  Updated: 2026-04-18T15:09:58Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -479,7 +479,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Mia Strapless Bandeau Bikini Top - White](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-white): Mia Strapless Bandeau Bikini Top. With its strapless design, and removable halter string this white bandeau bikini top. Shop online for white strapless bikini tops, white halter bikini tops, white bandeau bikini tops, white underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-06T20:43:46Z
+  Updated: 2026-04-17T11:16:38Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -497,7 +497,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Mia Strapless Bandeau Bikini Top - Dorada](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-dorada): Mia Strapless Bandeau Bikini Top. With its strapless design, and removable halter string this yellow bandeau bikini top. Shop online for yellow strapless bikini tops, yellow halter bikini tops, yellow bandeau bikini tops, yellow underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-07T14:09:28Z
+  Updated: 2026-04-17T11:16:39Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -515,7 +515,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Mia Strapless Bandeau Bikini Top - Cendre](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-cendre): Shop online for blue strapless bikini tops, blue halter bikini tops, blue bandeau bikini tops, blue underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-07T22:49:16Z
+  Updated: 2026-04-18T07:41:17Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -533,7 +533,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Tally String Bikini Bottoms - White](https://www.whitesandsswim.com/products/white-bikini-bottoms): Shop all bikini bottoms, white string bikini bottoms, white micro bikini bottoms, white tie side bikini bottoms, white thong bikini bottoms, white high cut bikini bottoms. White brazilian bikini bottoms, white gstring bikinis.
-  Updated: 2026-04-06T09:20:36Z
+  Updated: 2026-04-17T06:32:37Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -551,7 +551,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Tally String Bikini Bottoms - Dorada](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-dorada): Shop all yellow bikini bottoms, yellow string bikini bottoms, yellow micro bikini bottoms, yellow tie side bikini bottoms, yellow thong bikini bottoms, high cut bikini bottoms. Brazilian bikini bottoms, gstring bikinis.
-  Updated: 2026-04-07T16:58:32Z
+  Updated: 2026-04-16T06:57:09Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -569,7 +569,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Tally String Bikini Bottoms - Cendre](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-cendre): Shop all blue bikini bottoms, blue string bikini bottoms, blue micro bikini bottoms, blue tie side bikini bottoms, blue thong bikini bottoms, blue high cut bikini bottoms. Brazilian bikini bottoms, blue gstring bikinis.
-  Updated: 2026-04-07T22:48:17Z
+  Updated: 2026-04-16T06:57:09Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -587,7 +587,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Hayman Thong Bikini Bottoms - Dorada](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-dorada): Hayman Thong String bikini bottoms. Micro bikini pant with tie sides. Shop all yellow Tanga bikinis, yellow Thong bikinis, yellow string bikinis, yellow high cut leg bikinis, yellow micro bikinis, yellow brazilian bikinis, yellow tie side bikinis, yellow bikini bottoms and s bikinis.
-  Updated: 2026-04-07T18:19:31Z
+  Updated: 2026-04-17T14:52:11Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -605,7 +605,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Hayman Thong Bikini Bottoms - Black](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-black): Hayman Thong String bikini bottoms. Noir. Black micro bikini pant with tie sides. Shop all Black tanga bikinis, Black thong bikinis, black string bikinis, black high cut leg bikinis, black micro bikinis, Black brazilian bikinis, black tie side bikinis, black bikini bottoms and s bikinis.
-  Updated: 2026-04-07T18:19:37Z
+  Updated: 2026-04-17T14:52:11Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -623,7 +623,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Eve Triangle Bikini Top - Black](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-black): Eve triangle bikini top. Noir. Black swimwear, black swimsuit, Black bikini top, black triangle bikini top, black halter bikini top, black upside down bikini top, black string bikini top, black micro bikini top.
-  Updated: 2026-04-07T18:19:41Z
+  Updated: 2026-04-16T14:03:16Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -641,43 +641,43 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Tally String Bikini Bottoms - Black](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-black): Shop all Noir bikini bottoms, black string bikini bottoms, black micro bikini bottoms, black tie side bikini bottoms, black thong bikini bottoms, black high cut bikini bottoms. Brazilian bikini bottoms, black gstring bikinis.
-  Updated: 2026-04-06T13:02:07Z
+  Updated: 2026-04-18T23:33:16Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0278-BLACK.jpg?v=1743575659
   - [XS](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-black?variant=46168011407515)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-black?variant=46168011440283)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-black?variant=46168011473051)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-black?variant=46168011505819)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
 - [Mia Strapless Bandeau Bikini Top - Black](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-black): Shop online for black strapless bikini tops, bluackhalter bikini tops, black bandeau bikini tops, black underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-06T23:38:17Z
+  Updated: 2026-04-17T11:16:39Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0068_BLACK.jpg?v=1743575610
   - [XS](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-black?variant=46168013668507)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [S](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-black?variant=46168013701275)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [M](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-black?variant=46168013734043)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [L](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-black?variant=46168013766811)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
 - [Bondi Brazilian Bikini Bottoms -Black](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-black): Bondi Brazilian cut bikini pants. Shop all Black brazilian cut bikini bottoms. Black Tanga bikini pants, High cut bikini bottoms, Black thong bikini bottoms, Black string bikini bottoms, Black micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T09:23:35Z
+  Updated: 2026-04-17T13:02:39Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -695,7 +695,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Lucy Scoop Bikini Top - Black](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-black): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Black bikini tops, black womens swimwear, black swimsuits, black bathing suits, black swimwear separates, black string bikinis, black micro bikinis, black thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T13:07:34Z
+  Updated: 2026-04-18T23:33:17Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -713,7 +713,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Noosa String Bikini Top - Black](https://www.whitesandsswim.com/products/noosa-string-bikini-top-black): Black Multi Way String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all black Bandeau bikini tops, black halter bikini tops, black underwire bikini tops, upside down bikini tops, black micro bikini tops, black string bikini tops, black triangle bikini tops.
-  Updated: 2026-04-06T09:27:40Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -731,7 +731,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Byron Cheeky Bikini Bottoms - Black](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-black): Byron Tanga Cheeky. Noir.  Black High-cut bikini bottoms. Shop all Black Tanga bikinis, Black Thong bikinis, Black string bikinis, Black high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Black cheeky bikini bottoms
-  Updated: 2026-04-06T23:38:16Z
+  Updated: 2026-04-17T13:55:57Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -749,43 +749,43 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Hayman Thong Bikini Bottoms - Chocolate](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-chocolate): Hayman Thong String bikini bottoms. Noir. chocolate micro bikini pant with tie sides. Shop all chocolate tanga bikinis, chocolate thong bikinis, chocolate string bikinis, chocolate high cut leg bikinis, chocolate micro bikinis, chocolate brazilian bikinis, chocolate tie side bikinis, chocolate bikini bottoms and s bikinis.
-  Updated: 2026-04-07T19:54:37Z
+  Updated: 2026-04-18T22:59:57Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0226-BROWN.jpg?v=1748574934
   - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-chocolate?variant=46354524405915)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-chocolate?variant=46354524438683)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-chocolate?variant=46354524471451)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-chocolate?variant=46354524504219)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
 - [Eve Triangle Bikini Top - chocolate](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-chocolate): Eve triangle bikini top. Noir. chocolate swimwear, chocolate swimsuit, chocolate bikini top, chocolate triangle bikini top, chocolate halter bikini top, chocolate upside down bikini top, chocolate string bikini top, chocolate micro bikini top.
-  Updated: 2026-04-07T19:27:47Z
+  Updated: 2026-04-18T15:18:19Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0164-BROWN.jpg?v=1748575078
   - [XS](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-chocolate?variant=46354524536987)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-chocolate?variant=46354524569755)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-chocolate?variant=46354524602523)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-chocolate?variant=46354524635291)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
 - [Tally String Bikini Bottoms - Chocolate](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-chocolate): Shop all Noir bikini bottoms, chocolate string bikini bottoms, chocolate micro bikini bottoms, chocolate tie side bikini bottoms, chocolate thong bikini bottoms, chocolate high cut bikini bottoms. Brazilian bikini bottoms, chocolate gstring bikinis.
-  Updated: 2026-04-07T15:30:17Z
+  Updated: 2026-04-17T03:32:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -797,17 +797,17 @@
     Availability: Not Available
     Price: $35.00 USD
   - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-chocolate?variant=46354524733595)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-chocolate?variant=46354524766363)
     Availability: Available
     Price: $35.00 USD
 - [Mia Strapless Bandeau Bikini Top - Chocolate](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-chocolate): Shop online for chocolate strapless bikini tops, bluackhalter bikini tops, chocolate bandeau bikini tops, chocolate underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-07T03:26:07Z
+  Updated: 2026-04-18T20:31:29Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0068-BROWN.jpg?v=1748576255
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI06558_3a1f77f0-2440-4b63-a0a4-89244e94ed8b.jpg?v=1776251243
   - [XS](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-chocolate?variant=46354524799131)
     Availability: Available
     Price: $45.00 USD
@@ -821,7 +821,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Bondi Brazilian Bikini Bottoms -Chocolate](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-chocolate): Bondi Brazilian cut bikini pants. Shop all chocolate brazilian cut bikini bottoms. chocolate Tanga bikini pants, High cut bikini bottoms, chocolate thong bikini bottoms, chocolate string bikini bottoms, chocolate micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T09:23:43Z
+  Updated: 2026-04-17T13:02:36Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -839,7 +839,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Lucy Scoop Bikini Top - Chocolate](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-chocolate): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. chocolate bikini tops, chocolate womens swimwear, chocolate swimsuits, chocolate bathing suits, chocolate swimwear separates, chocolate string bikinis, chocolate micro bikinis, chocolate thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T09:25:36Z
+  Updated: 2026-04-18T22:59:57Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -857,25 +857,25 @@
     Availability: Available
     Price: $45.00 USD
 - [Noosa String Bikini Top - Chocolate](https://www.whitesandsswim.com/products/noosa-string-bikini-top-chocolate): chocolate Multi Way String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all chocolate Bandeau bikini tops, chocolate halter bikini tops, chocolate underwire bikini tops, upside down bikini tops, chocolate micro bikini tops, chocolate string bikini tops, chocolate triangle bikini tops.
-  Updated: 2026-04-07T19:54:38Z
+  Updated: 2026-04-18T19:49:48Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0027-BROWN.jpg?v=1748576487
   - [XS](https://www.whitesandsswim.com/products/noosa-string-bikini-top-chocolate?variant=46354525192347)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/noosa-string-bikini-top-chocolate?variant=46354525225115)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/noosa-string-bikini-top-chocolate?variant=46354525257883)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/noosa-string-bikini-top-chocolate?variant=46354525290651)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
 - [Byron Cheeky Bikini Bottoms - Chocolate](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-chocolate): Byron Tanga Cheeky. Noir.  chocolate High-cut bikini bottoms. Shop all chocolate Tanga bikinis, chocolate Thong bikinis, chocolate string bikinis, chocolate high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, chocolate cheeky bikini bottoms
-  Updated: 2026-04-07T04:16:48Z
+  Updated: 2026-04-16T05:21:28Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -884,7 +884,7 @@
     Availability: Available
     Price: $35.00 USD
   - [S](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-chocolate?variant=46354525356187)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [M](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-chocolate?variant=46354525388955)
     Availability: Not Available
@@ -893,7 +893,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Hayman Thong Bikini Bottoms - Candy Stripe](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-candy-stripe): Hayman Thong String bikini bottoms. Noir. Candy Stripe micro bikini pant with tie sides. Shop all Candy Stripe tanga bikinis, Candy Stripe thong bikinis, Candy Stripe string bikinis, Candy Stripe high cut leg bikinis, Candy Stripe micro bikinis, Candy Stripe brazilian bikinis, Candy Stripe tie side bikinis, Candy Stripe bikini bottoms and s bikinis.
-  Updated: 2026-04-07T18:57:41Z
+  Updated: 2026-04-17T17:46:38Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -911,7 +911,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Eve Triangle Bikini Top - Candy Stripe](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-candy-stripe): Eve triangle bikini top. Noir. Candy Stripe swimwear, Candy Stripe swimsuit, Candy Stripe bikini top, Candy Stripe triangle bikini top, Candy Stripe halter bikini top, Candy Stripe upside down bikini top, Candy Stripe string bikini top, Candy Stripe micro bikini top.
-  Updated: 2026-04-07T18:57:41Z
+  Updated: 2026-04-17T17:46:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -929,7 +929,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Tally String Bikini Bottoms - Candy Stripe](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-candy-stripe): Shop Candy Stripe bikini bottoms, Candy Stripe string bikini bottoms, Candy Stripe micro bikini bottoms, Candy Stripe tie side bikini bottoms, Candy Stripe thong bikini bottoms, Candy Stripe high cut bikini bottoms. Brazilian bikini bottoms, Candy Stripe gstring bikinis.
-  Updated: 2026-04-06T09:23:35Z
+  Updated: 2026-04-17T13:49:35Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -947,7 +947,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mia Strapless Bandeau Bikini Top - Candy Stripe](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-candy-stripe): Shop online for Candy Stripe strapless bikini tops, bluackhalter bikini tops, Candy Stripe bandeau bikini tops, Candy Stripe underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-06T09:25:36Z
+  Updated: 2026-04-17T11:16:38Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -965,7 +965,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Bondi Brazilian Bikini Bottoms -Candy Stripe](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-candy-stripe): Bondi Brazilian cut bikini pants. Shop all Candy Stripe brazilian cut bikini bottoms. Candy Stripe Tanga bikini pants, High cut bikini bottoms, Candy Stripe thong bikini bottoms, Candy Stripe string bikini bottoms, Candy Stripe micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T14:05:37Z
+  Updated: 2026-04-17T13:02:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -983,7 +983,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Lucy Scoop Bikini Top - Candy Stripe](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-candy-stripe): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Candy Stripe bikini tops, Candy Stripe womens swimwear, Candy Stripe swimsuits, Candy Stripe bathing suits, Candy Stripe swimwear separates, Candy Stripe string bikinis, Candy Stripe micro bikinis, Candy Stripe thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T14:05:38Z
+  Updated: 2026-04-18T08:35:14Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -1001,7 +1001,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Noosa String Bikini Top - Candy Stripe](https://www.whitesandsswim.com/products/noosa-string-bikini-top-candy-stripe): Candy Stripe Multi Way String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all Candy Stripe Bandeau bikini tops, Candy Stripe halter bikini tops, Candy Stripe underwire bikini tops, upside down bikini tops, Candy Stripe micro bikini tops, Candy Stripe string bikini tops, Candy Stripe triangle bikini tops.
-  Updated: 2026-04-06T09:25:48Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -1019,7 +1019,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Byron Cheeky Bikini Bottoms - Candy Stripe](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-candy-stripe): Byron Tanga Cheeky. Noir.  Candy Stripe High-cut bikini bottoms. Shop all Candy Stripe Tanga bikinis, Candy Stripe Thong bikinis, Candy Stripe string bikinis, Candy Stripe high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Candy Stripe cheeky bikini bottoms
-  Updated: 2026-04-07T18:57:34Z
+  Updated: 2026-04-18T19:14:09Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1037,7 +1037,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Byron Maillot - Cherry](https://www.whitesandsswim.com/products/byron-maillot-cherry-red): Make waves and steal glances in our Byron one-piece. With a plunging neckline that demands attention, and silky shiny soft fabrication. Perfect for yacht days, ocean swims or pairing with a coverup for Aprés sundowners. She's a statement of irresistible charm and understated luxury. Cut & Fit Sculpting silhouette that hugs and flatters Effortless pull-on style Deep plunging neckline for a touch of drama High-cut leg with a minimal coverage brief for an elongated look Hardware & Straps Gleaming gold hardware—because luxury is in the details Adjustable shoulder straps for the perfect fit Lining & Fabric Fully lined, second-skin feel Crafted from 84% polyamide, 16% elastane for a sleek, sculpted finish Our model wears a size small and is an AU/UK 8 or USA 4-6. Images show a one piece high cut swimsuit, thong one piece swimsuit, tanga swimwear one piece style.
-  Updated: 2026-04-06T09:19:23Z
+  Updated: 2026-04-16T12:41:21Z
   Vendor: White Sands
   Product Type: One Piece
   Availability: Available
@@ -1055,7 +1055,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Hayman Thong Bikini Bottoms - Cherry](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-cherry-red): Hayman Thong String bikini bottoms. Noir. Red micro bikini pant with tie sides. Shop all Red tanga bikinis, Red thong bikinis, Red string bikinis, Red high cut leg bikinis, Red micro bikinis, Red brazilian bikinis, Red tie side bikinis, Red bikini bottoms and s bikinis.
-  Updated: 2026-04-07T19:27:45Z
+  Updated: 2026-04-18T20:23:24Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1073,13 +1073,13 @@
     Availability: Available
     Price: $50.00 USD
 - [Eve Triangle Bikini Top - Red](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-cherry-red): Eve triangle bikini top. Noir. Red swimwear, Red swimsuit, Red bikini top, Red triangle bikini top, Red halter bikini top, Red upside down bikini top, Red string bikini top, Red micro bikini top.
-  Updated: 2026-04-07T21:43:56Z
+  Updated: 2026-04-18T21:22:07Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0141_abf5dc80-9301-492a-9a08-5d7c14e3edf9.jpg?v=1760924669
   - [XS](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-cherry-red?variant=46616015929499)
-    Availability: Available
+    Availability: Not Available
     Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-cherry-red?variant=46616015962267)
     Availability: Available
@@ -1091,7 +1091,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Tally String Bikini Bottoms - Cherry](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-cherry-red): Shop Red bikini bottoms, Red string bikini bottoms, Red micro bikini bottoms, Red tie side bikini bottoms, Red thong bikini bottoms, Red high cut bikini bottoms. Brazilian bikini bottoms, Red gstring bikinis.
-  Updated: 2026-04-07T21:43:56Z
+  Updated: 2026-04-18T15:47:18Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1103,13 +1103,13 @@
     Availability: Not Available
     Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-cherry-red?variant=46616016126107)
-    Availability: Available
+    Availability: Not Available
     Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-cherry-red?variant=46616016158875)
     Availability: Available
     Price: $50.00 USD
 - [Mia Strapless Bandeau Bikini Top - Cherry](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-cherry-red): Shop online for Red strapless bikini tops, bluackhalter bikini tops, Red bandeau bikini tops, Red underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-07T11:14:10Z
+  Updated: 2026-04-17T11:16:38Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -1127,7 +1127,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Bondi Brazilian Bikini Bottoms -Cherry](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-cherry-red): Bondi Brazilian cut bikini pants. Shop all Red brazilian cut bikini bottoms. Red Tanga bikini pants, High cut bikini bottoms, Red thong bikini bottoms, Red string bikini bottoms, Red micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T09:23:35Z
+  Updated: 2026-04-17T13:02:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1145,7 +1145,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Lucy Scoop Bikini Top - Cherry](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-cherry-red): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Red bikini tops, Red womens swimwear, Red swimsuits, Red bathing suits, Red swimwear separates, Red string bikinis, Red micro bikinis, Red thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T09:27:40Z
+  Updated: 2026-04-18T15:10:57Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -1163,7 +1163,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Noosa String Bikini Top - Cherry](https://www.whitesandsswim.com/products/noosa-string-bikini-top-cherry-red): Red Multi Way String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all Red Bandeau bikini tops, Red halter bikini tops, Red underwire bikini tops, upside down bikini tops, Red micro bikini tops, Red string bikini tops, Red triangle bikini tops.
-  Updated: 2026-04-06T09:27:40Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -1181,7 +1181,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Byron Cheeky Bikini Bottoms - Cherry](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-cherry-red): Byron Tanga Cheeky. Noir.  Red High-cut bikini bottoms. Shop all Red Tanga bikinis, Red Thong bikinis, Red string bikinis, Red high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Red cheeky bikini bottoms
-  Updated: 2026-04-07T11:14:08Z
+  Updated: 2026-04-18T15:10:57Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1199,7 +1199,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Byron Maillot - Tiger](https://www.whitesandsswim.com/products/byron-maillot-tiger-animal-print): Make waves and steal glances in our Byron one-piece. With a plunging neckline that demands attention, and silky shiny soft fabrication. Perfect for yacht days, ocean swims or pairing with a coverup for Aprés sundowners. She's a statement of irresistible charm and understated luxury. Cut & Fit Sculpting silhouette that hugs and flatters Effortless pull-on style Deep plunging neckline for a touch of drama High-cut leg with a minimal coverage brief for an elongated look Hardware & Straps Gleaming gold hardware—because luxury is in the details Adjustable shoulder straps for the perfect fit Lining & Fabric Fully lined, second-skin feel Crafted from 84% polyamide, 16% elastane for a sleek, sculpted finish Our model wears a size small and is an AU/UK 8 or USA 4-6. Images show a one piece high cut swimsuit, thong one piece swimsuit, tanga swimwear one piece style.
-  Updated: 2026-04-06T18:26:09Z
+  Updated: 2026-04-17T14:42:47Z
   Vendor: White Sands
   Product Type: One Piece
   Availability: Available
@@ -1216,44 +1216,80 @@
   - [L](https://www.whitesandsswim.com/products/byron-maillot-tiger-animal-print?variant=46616062656667)
     Availability: Available
     Price: $75.00 USD
+- [Hayman Thong Bikini Bottoms - Tiger](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-tiger-animal-print): Hayman Thong String bikini bottoms. Noir. animal print micro bikini pant with tie sides. Shop all animal print tanga bikinis, animal print thong bikinis, animal print string bikinis, animal print high cut leg bikinis, animal print micro bikinis, animal print brazilian bikinis, animal print tie side bikinis, animal print bikini bottoms and s bikinis.
+  Updated: 2026-04-18T21:53:57Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI07032.jpg?v=1776251135
+  - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-tiger-animal-print?variant=46616062689435)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-tiger-animal-print?variant=46616062722203)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-tiger-animal-print?variant=46616062754971)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-tiger-animal-print?variant=46616062787739)
+    Availability: Available
+    Price: $50.00 USD
+- [Eve Triangle Bikini Top - Tiger print](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-tiger-animal-print): Eve triangle bikini top. Tiger animal print swimwear, animal print swimsuit, animal print bikini top, animal print triangle bikini top, animal print halter bikini top, animal print upside down bikini top, animal print string bikini top, animal print micro bikini top.
+  Updated: 2026-04-18T21:53:57Z
+  Vendor: White Sands Swimwear
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0164-TIGER.jpg?v=1748578254
+  - [XS](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-tiger-animal-print?variant=46616062886043)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-tiger-animal-print?variant=46616062918811)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-tiger-animal-print?variant=46616062951579)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-tiger-animal-print?variant=46616062984347)
+    Availability: Available
+    Price: $50.00 USD
 - [Tally String Bikini Bottoms - Tiger](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-tiger-animal-print): Shop animal print bikini bottoms, animal print string bikini bottoms, animal print micro bikini bottoms, animal print tie side bikini bottoms, animal print thong bikini bottoms, animal print high cut bikini bottoms. Brazilian bikini bottoms, animal print gstring bikinis.
-  Updated: 2026-04-06T09:23:43Z
+  Updated: 2026-04-17T14:11:57Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0278-TIGER.jpg?v=1748578427
   - [XS](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-tiger-animal-print?variant=46616063180955)
-    Availability: Not Available
-    Price: $35.00 USD
+    Availability: Available
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-tiger-animal-print?variant=46616063213723)
-    Availability: Not Available
-    Price: $35.00 USD
+    Availability: Available
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-tiger-animal-print?variant=46616063246491)
-    Availability: Not Available
-    Price: $35.00 USD
+    Availability: Available
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-tiger-animal-print?variant=46616063279259)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
 - [Mia Strapless Bandeau Bikini Top - Tiger](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-tiger-animal-print): Shop online for animal print strapless bikini tops, bluackhalter bikini tops, animal print bandeau bikini tops, animal print underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-06T09:25:36Z
+  Updated: 2026-04-18T14:24:12Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0068-TIGER.jpg?v=1748578480
   - [XS](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-tiger-animal-print?variant=46616063443099)
     Availability: Available
-    Price: $35.00 USD
+    Price: $60.00 USD
   - [S](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-tiger-animal-print?variant=46616063475867)
     Availability: Available
-    Price: $35.00 USD
+    Price: $60.00 USD
   - [M](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-tiger-animal-print?variant=46616063508635)
     Availability: Available
-    Price: $35.00 USD
+    Price: $60.00 USD
   - [L](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-tiger-animal-print?variant=46616063541403)
     Availability: Available
-    Price: $35.00 USD
+    Price: $60.00 USD
 - [Bondi Brazilian Bikini Bottoms -Tiger](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-tiger-animal-print): Bondi Brazilian cut bikini pants. Shop all animal print brazilian cut bikini bottoms. animal print Tanga bikini pants, High cut bikini bottoms, animal print thong bikini bottoms, animal print string bikini bottoms, animal print micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T09:20:37Z
+  Updated: 2026-04-17T13:02:28Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1270,12 +1306,30 @@
   - [L](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-tiger-animal-print?variant=46616063705243)
     Availability: Available
     Price: $35.00 USD
+- [Lucy Scoop Bikini Top - Tiger](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-tiger-animal-print): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. animal print bikini tops, animal print womens swimwear, animal print swimsuits, animal print bathing suits, animal print swimwear separates, animal print string bikinis, animal print micro bikinis, animal print thong bikinis. Australian swimwear brand designer.
+  Updated: 2026-04-18T12:17:17Z
+  Vendor: White Sands
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0110-TIGER.jpg?v=1748579063
+  - [XS](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-tiger-animal-print?variant=46616063803547)
+    Availability: Available
+    Price: $35.00 USD
+  - [S](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-tiger-animal-print?variant=46616063836315)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-tiger-animal-print?variant=46616063869083)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-tiger-animal-print?variant=46616063901851)
+    Availability: Available
+    Price: $35.00 USD
 - [Noosa String Bikini Top - Tiger](https://www.whitesandsswim.com/products/noosa-string-bikini-top-tiger-animal-print): animal print Multi Way String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all animal print Bandeau bikini tops, animal print halter bikini tops, animal print underwire bikini tops, upside down bikini tops, animal print micro bikini tops, animal print string bikini tops, animal print triangle bikini tops.
-  Updated: 2026-04-07T04:16:47Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0027-TIGER.jpg?v=1748579240
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI06891.jpg?v=1776251285
   - [XS](https://www.whitesandsswim.com/products/noosa-string-bikini-top-tiger-animal-print?variant=46616064065691)
     Availability: Available
     Price: $35.00 USD
@@ -1289,7 +1343,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Byron Cheeky Bikini Bottoms - Tiger](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-tiger-animal-print): Byron Tanga Cheeky Bikini Pant. Tiger Print. High-cut bikini bottoms. Shop all animal print Tanga bikinis, animal print Thong bikinis, animal print string bikinis, animal print high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, animal print cheeky bikini bottoms
-  Updated: 2026-04-06T09:23:49Z
+  Updated: 2026-04-18T04:21:19Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1301,13 +1355,13 @@
     Availability: Available
     Price: $35.00 USD
   - [M](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-tiger-animal-print?variant=46616064295067)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [L](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-tiger-animal-print?variant=46616064327835)
     Availability: Available
     Price: $35.00 USD
 - [Byron Maillot - Leopard](https://www.whitesandsswim.com/products/byron-maillot-leopard-print): Make waves and steal glances in our Byron one-piece. With a plunging neckline that demands attention, and silky shiny soft fabrication. Perfect for yacht days, ocean swims or pairing with a coverup for Aprés sundowners. She's a statement of irresistible charm and understated luxury. Cut & Fit Sculpting silhouette that hugs and flatters Effortless pull-on style Deep plunging neckline for a touch of drama High-cut leg with a minimal coverage brief for an elongated look Hardware & Straps Gleaming gold hardware—because luxury is in the details Adjustable shoulder straps for the perfect fit Lining & Fabric Fully lined, second-skin feel Crafted from 84% polyamide, 16% elastane for a sleek, sculpted finish Our model wears a size small and is an AU/UK 8 or USA 4-6. Images show a one piece high cut swimsuit, thong one piece swimsuit, tanga swimwear one piece style.
-  Updated: 2026-04-06T09:19:13Z
+  Updated: 2026-04-17T05:29:17Z
   Vendor: White Sands
   Product Type: One Piece
   Availability: Available
@@ -1325,7 +1379,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Byron Maillot - Merlot](https://www.whitesandsswim.com/products/byron-maillot-merlot): Make waves and steal glances in our Byron one-piece. burgundy red one piece high cut swimsuit, thong one piece swimsuit, tanga swimwear one piece style.
-  Updated: 2026-04-06T09:19:14Z
+  Updated: 2026-04-16T12:43:03Z
   Vendor: White Sands
   Product Type: One Piece
   Availability: Available
@@ -1343,13 +1397,13 @@
     Availability: Available
     Price: $99.00 USD
 - [Hayman Thong Bikini Bottoms - Evissa Floral](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-evissa-floral): Hayman Thong String bikini bottoms. Noir. Floral print micro bikini pant with tie sides. Shop all Floral print tanga bikinis, Floral print thong bikinis, Floral print string bikinis, Floral print high cut leg bikinis, Floral print micro bikinis, Floral print brazilian bikinis, Floral print tie side bikinis, Floral print bikini bottoms and s bikinis.
-  Updated: 2026-04-07T18:37:26Z
+  Updated: 2026-04-17T14:52:11Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/wss-edits-7355.jpg?v=1758864800
   - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-evissa-floral?variant=47256623055003)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [S](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-evissa-floral?variant=47256623087771)
     Availability: Not Available
@@ -1361,7 +1415,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Eve Triangle Bikini Top - Evissa Floral print](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-evissa-floral): Eve triangle bikini top. Evissa Floral Floral print swimwear, Floral print swimsuit, Floral print bikini top, Floral print triangle bikini top, Floral print halter bikini top, Floral print upside down bikini top, Floral print string bikini top, Floral print micro bikini top.
-  Updated: 2026-04-07T18:19:41Z
+  Updated: 2026-04-17T02:34:47Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -1379,7 +1433,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Tally String Bikini Bottoms - Evissa Floral](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-evissa-floral): Shop Floral print bikini bottoms, Floral print string bikini bottoms, Floral print micro bikini bottoms, Floral print tie side bikini bottoms, Floral print thong bikini bottoms, Floral print high cut bikini bottoms. Brazilian bikini bottoms, Floral print gstring bikinis.
-  Updated: 2026-04-06T09:23:35Z
+  Updated: 2026-04-16T06:57:09Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1397,7 +1451,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mia Strapless Bandeau Bikini Top - Evissa Floral](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-evissa-floral): Shop online for Floral print strapless bikini tops, bluackhalter bikini tops, Floral print bandeau bikini tops, Floral print underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-07T06:57:42Z
+  Updated: 2026-04-18T21:01:18Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -1415,7 +1469,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Bondi Brazilian Bikini Bottoms -Evissa Floral](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-evissa-floral): Bondi Brazilian cut bikini pants. Shop all Floral print brazilian cut bikini bottoms. Floral print Tanga bikini pants, High cut bikini bottoms, Floral print thong bikini bottoms, Floral print string bikini bottoms, Floral print micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T09:23:36Z
+  Updated: 2026-04-18T19:42:09Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1433,11 +1487,11 @@
     Availability: Available
     Price: $35.00 USD
 - [Lucy Scoop Bikini Top - Evissa Floral](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-evissa-floral): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Floral print bikini tops, Floral print womens swimwear, Floral print swimsuits, Floral print bathing suits, Floral print swimwear separates, Floral print string bikinis, Floral print micro bikinis, Floral print thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T10:10:09Z
+  Updated: 2026-04-18T19:42:09Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/wss-edits-7273.jpg?v=1758863819
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/EDIT_00.jpg?v=1776250962
   - [XS](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-evissa-floral?variant=47256623710363)
     Availability: Available
     Price: $45.00 USD
@@ -1451,7 +1505,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Noosa String Bikini Top - Evissa Floral](https://www.whitesandsswim.com/products/noosa-string-bikini-top-evissa-floral): Floral print Multi Way String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all Floral print Bandeau bikini tops, Floral print halter bikini tops, Floral print underwire bikini tops, upside down bikini tops, Floral print micro bikini tops, Floral print string bikini tops, Floral print triangle bikini tops.
-  Updated: 2026-04-06T09:27:40Z
+  Updated: 2026-04-18T19:47:35Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -1469,7 +1523,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Byron Cheeky Bikini Bottoms - Evissa Floral](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-evissa-floral): Byron Tanga Cheeky Bikini Pant. Evissa Floral Print. High-cut bikini bottoms. Shop all Floral print Tanga bikinis, Floral print Thong bikinis, Floral print string bikinis, Floral print high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Floral print cheeky bikini bottoms
-  Updated: 2026-04-07T06:57:43Z
+  Updated: 2026-04-18T19:42:07Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1487,7 +1541,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Byron Maillot - Peony](https://www.whitesandsswim.com/products/byron-maillot-peony-pink): Make waves and steal glances in our Byron one-piece. With a plunging neckline that demands attention, and silky shiny soft fabrication. Perfect for yacht days, ocean swims or pairing with a coverup for Aprés sundowners. She's a statement of irresistible charm and understated luxury. Cut & Fit Sculpting silhouette that hugs and flatters Effortless pull-on style Deep plunging neckline for a touch of drama High-cut leg with a minimal coverage brief for an elongated look Hardware & Straps Gleaming gold hardware—because luxury is in the details Adjustable shoulder straps for the perfect fit Lining & Fabric Fully lined, second-skin feel Crafted from 84% polyamide, 16% elastane for a sleek, sculpted finish Our model wears a size small and is an AU/UK 8 or USA 4-6. Images show a one piece high cut swimsuit, thong one piece swimsuit, tanga swimwear one piece style.
-  Updated: 2026-04-06T09:19:13Z
+  Updated: 2026-04-17T00:14:21Z
   Vendor: White Sands
   Product Type: One Piece
   Availability: Available
@@ -1505,11 +1559,11 @@
     Availability: Available
     Price: $99.00 USD
 - [Hayman Thong Bikini Bottoms - Peony](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-peony-pink): Hayman Thong String bikini bottoms. Noir. Pink micro bikini pant with tie sides. Shop all Pink tanga bikinis, Pink thong bikinis, Pink string bikinis, Pink high cut leg bikinis, Pink micro bikinis, Pink brazilian bikinis, Pink tie side bikinis, Pink bikini bottoms and s bikinis.
-  Updated: 2026-04-07T18:19:30Z
+  Updated: 2026-04-17T14:52:11Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0196_0f60d734-a9dd-42ad-b7c0-d55ba2d32797.jpg?v=1761210581
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WebsiteProductCrop684x1024-17.png?v=1776250502
   - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-peony-pink?variant=47433128837275)
     Availability: Not Available
     Price: $35.00 USD
@@ -1523,11 +1577,11 @@
     Availability: Available
     Price: $35.00 USD
 - [Eve Triangle Bikini Top - Pink](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-peony-pink): Eve triangle bikini top. Noir. Pink swimwear, Pink swimsuit, Pink bikini top, Pink triangle bikini top, Pink halter bikini top, Pink upside down bikini top, Pink string bikini top, Pink micro bikini top.
-  Updated: 2026-04-07T18:19:41Z
+  Updated: 2026-04-16T14:03:16Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0141_1fa229e3-a856-4375-b139-1ff813b0fc42.jpg?v=1761210348
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI07290.jpg?v=1776250412
   - [XS](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-peony-pink?variant=47433129033883)
     Availability: Available
     Price: $35.00 USD
@@ -1541,43 +1595,43 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Tally String Bikini Bottoms - Peony](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-peony-pink): Shop Pink bikini bottoms, Pink string bikini bottoms, Pink micro bikini bottoms, Pink tie side bikini bottoms, Pink thong bikini bottoms, Pink high cut bikini bottoms. Brazilian bikini bottoms, Pink gstring bikinis.
-  Updated: 2026-04-06T09:23:36Z
+  Updated: 2026-04-17T13:02:07Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0262_82597e1a-2598-48a4-8363-2ec51c20f7a9.jpg?v=1761210323
   - [XS](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-peony-pink?variant=47433129164955)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-peony-pink?variant=47433129197723)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-peony-pink?variant=47433129230491)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-peony-pink?variant=47433129263259)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
 - [Mia Strapless Bandeau Bikini Top - Peony](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-peony-pink): Shop online for Pink strapless bikini tops, bluackhalter bikini tops, Pink bandeau bikini tops, Pink underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-06T20:26:57Z
+  Updated: 2026-04-18T02:53:07Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS1195_e94d4124-c559-4d69-b227-70e7c02630a4.jpg?v=1761210291
   - [XS](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-peony-pink?variant=47433130868891)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [S](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-peony-pink?variant=47433130901659)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [M](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-peony-pink?variant=47433130934427)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [L](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-peony-pink?variant=47433130967195)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
 - [Bondi Brazilian Bikini Bottoms -Peony](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-peony-pink): Bondi Brazilian cut bikini pants. Shop all Pink brazilian cut bikini bottoms. Pink Tanga bikini pants, High cut bikini bottoms, Pink thong bikini bottoms, Pink string bikini bottoms, Pink micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-07T18:54:26Z
+  Updated: 2026-04-18T15:08:07Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1595,7 +1649,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Lucy Scoop Bikini Top - Peony](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-peony-pink): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Pink bikini tops, Pink womens swimwear, Pink swimsuits, Pink bathing suits, Pink swimwear separates, Pink string bikinis, Pink micro bikinis, Pink thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-07T18:54:26Z
+  Updated: 2026-04-18T08:35:14Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -1607,13 +1661,13 @@
     Availability: Available
     Price: $35.00 USD
   - [M](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-peony-pink?variant=47433131393179)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [L](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-peony-pink?variant=47433131425947)
     Availability: Available
     Price: $35.00 USD
 - [Noosa String Bikini Top - Peony](https://www.whitesandsswim.com/products/noosa-string-bikini-top-peony-pink): Pink Multi Way String Bikini Top. White Sands Designer Australian Womens Swimwear and Resortwear, beachwear, sarongs and coverups. Shop all Pink Bandeau bikini tops, Pink halter bikini tops, Pink underwire bikini tops, upside down bikini tops, Pink micro bikini tops, Pink string bikini tops, Pink triangle bikini tops.
-  Updated: 2026-04-07T15:34:46Z
+  Updated: 2026-04-18T19:49:37Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -1631,7 +1685,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Byron Cheeky Bikini Bottoms - Peony](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-peony-pink): Byron Tanga Cheeky. Pink High-cut bikini bottoms. Shop all Pink Tanga bikinis, Pink Thong bikinis, Pink string bikinis, Pink high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Pink cheeky bikini bottoms
-  Updated: 2026-04-07T06:57:42Z
+  Updated: 2026-04-18T02:53:07Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1648,26 +1702,8 @@
   - [L](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-peony-pink?variant=47433131688091)
     Availability: Available
     Price: $35.00 USD
-- [Hayman Thong Bikini Bottoms - Ivy](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-ivy-green): Hayman Thong String bikini bottoms. Noir. Green micro bikini pant with tie sides. Shop all Green tanga bikinis, Green thong bikinis, Green string bikinis, Green high cut leg bikinis, Green micro bikinis, Green brazilian bikinis, Green tie side bikinis, Green bikini bottoms and s bikinis.
-  Updated: 2026-04-07T22:00:37Z
-  Vendor: White Sands
-  Product Type: Bikini Pant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0196_3b191356-6d79-481d-8dda-b9cb9cc8a2bc.jpg?v=1761209773
-  - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-ivy-green?variant=47433135358107)
-    Availability: Available
-    Price: $35.00 USD
-  - [S](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-ivy-green?variant=47433135390875)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-ivy-green?variant=47433135423643)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-ivy-green?variant=47433135456411)
-    Availability: Available
-    Price: $35.00 USD
 - [Eve Triangle Bikini Top - Green](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-ivy-green): Eve triangle bikini top. Noir. Green swimwear, Green swimsuit, Green bikini top, Green triangle bikini top, Green halter bikini top, Green upside down bikini top, Green string bikini top, Green micro bikini top.
-  Updated: 2026-04-07T22:00:36Z
+  Updated: 2026-04-18T20:49:17Z
   Vendor: White Sands Swimwear
   Product Type: Bikini Top
   Availability: Available
@@ -1685,7 +1721,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Tally String Bikini Bottoms - Ivy](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-ivy-green): Shop Green bikini bottoms, Green string bikini bottoms, Green micro bikini bottoms, Green tie side bikini bottoms, Green thong bikini bottoms, Green high cut bikini bottoms. Brazilian bikini bottoms, Green gstring bikinis.
-  Updated: 2026-04-07T00:33:59Z
+  Updated: 2026-04-18T20:49:17Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
@@ -1700,46 +1736,46 @@
     Availability: Not Available
     Price: $35.00 USD
   - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-ivy-green?variant=47433135980699)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
 - [Mia Strapless Bandeau Bikini Top - Ivy](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-ivy-green): Shop online for Green strapless bikini tops, bluackhalter bikini tops, Green bandeau bikini tops, Green underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
-  Updated: 2026-04-07T16:27:17Z
+  Updated: 2026-04-18T14:39:08Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS1195_00794b8b-741d-47ed-b340-3c1eda9f357d.jpg?v=1761209668
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/3_da455201-9a3b-4c6e-a2c6-2daa75b21d61.png?v=1776250088
   - [XS](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-ivy-green?variant=47433136046235)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [S](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-ivy-green?variant=47433136079003)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [M](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-ivy-green?variant=47433136111771)
     Availability: Not Available
-    Price: $45.00 USD
+    Price: $60.00 USD
   - [L](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-ivy-green?variant=47433136144539)
     Availability: Available
-    Price: $45.00 USD
+    Price: $60.00 USD
 - [Bondi Brazilian Bikini Bottoms -Ivy](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-ivy-green): Bondi Brazilian cut bikini pants. Shop all Green brazilian cut bikini bottoms. Green Tanga bikini pants, High cut bikini bottoms, Green thong bikini bottoms, Green string bikini bottoms, Green micro bikini bottoms. Luxury Womens Swimwear Brand from Australia.
-  Updated: 2026-04-06T09:23:43Z
+  Updated: 2026-04-17T13:02:27Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0150-1_5161f227-c774-4078-8eda-9a36d186d38e.jpg?v=1761209638
   - [XS](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-ivy-green?variant=47433136177307)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [S](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-ivy-green?variant=47433136210075)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [M](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-ivy-green?variant=47433136242843)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $50.00 USD
   - [L](https://www.whitesandsswim.com/products/bondi-brazilian-bikini-bottoms-ivy-green?variant=47433136275611)
     Availability: Available
-    Price: $35.00 USD
+    Price: $50.00 USD
 - [Lucy Scoop Bikini Top - Ivy](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-ivy-green): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Green bikini tops, Green womens swimwear, Green swimsuits, Green bathing suits, Green swimwear separates, Green string bikinis, Green micro bikinis, Green thong bikinis. Australian swimwear brand designer.
-  Updated: 2026-04-06T20:10:49Z
+  Updated: 2026-04-18T08:35:14Z
   Vendor: White Sands
   Product Type: Bikini Top
   Availability: Available
@@ -1757,11 +1793,11 @@
     Availability: Not Available
     Price: $45.00 USD
 - [Byron Cheeky Bikini Bottoms - Ivy](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-ivy-green): Byron Tanga Cheeky. Noir.  Green High-cut bikini bottoms. Shop all Green Tanga bikinis, Green Thong bikinis, Green string bikinis, Green high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Green cheeky bikini bottoms
-  Updated: 2026-04-06T20:10:39Z
+  Updated: 2026-04-18T17:27:17Z
   Vendor: White Sands
   Product Type: Bikini Pant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0087_48c3cf43-b1ab-41cf-b328-828937b700dd.jpg?v=1761209266
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI06770.jpg?v=1776250144
   - [XS](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-ivy-green?variant=47433139060891)
     Availability: Available
     Price: $35.00 USD
@@ -1774,31 +1810,247 @@
   - [L](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-ivy-green?variant=47433139159195)
     Availability: Available
     Price: $35.00 USD
+- [Hayman Thong Bikini Bottoms - Navy](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-navy-blue): Hayman Thong String bikini bottoms. Navy Blue. Navy micro bikini pant with tie sides. Shop all Navy blue tanga bikinis, Navy  thong bikinis, blue string bikinis,  high cut leg bikinis, Navy blue micro bikinis, Navy blue brazilian bikinis, Navy blue tie side bikinis, Navy blue bikini bottoms and bikinis.
+  Updated: 2026-04-18T20:07:47Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/16_39440b04-1165-455f-9e34-614c50e80b4c.png?v=1776248611
+  - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-navy-blue?variant=47955336888475)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-navy-blue?variant=47955336921243)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-navy-blue?variant=47955336954011)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-navy-blue?variant=47955336986779)
+    Availability: Available
+    Price: $50.00 USD
+- [Byron Cheeky Bikini Bottoms - Navy](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-navy): Byron Tanga Cheeky. Navy.  Navy High-cut bikini bottoms. Shop all Navy Tanga bikinis, Navy Thong bikinis, Navy string bikinis, Navy high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Navy cheeky bikini bottoms
+  Updated: 2026-04-18T15:09:57Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/4_1010486e-55b8-457f-a6a8-f90c038563a0.png?v=1770351354
+  - [XS](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-navy?variant=47956199768219)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-navy?variant=47956199800987)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-navy?variant=47956199833755)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-navy?variant=47956199866523)
+    Availability: Available
+    Price: $50.00 USD
+- [Lucy Scoop Bikini Top - Navy](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-navy): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Navy bikini tops, Navy womens swimwear, Navy swimsuits, Navy bathing suits, Navy swimwear separates, Navy string bikinis, Navy micro bikinis, Navy thong bikinis. Australian swimwear brand designer.
+  Updated: 2026-04-18T21:01:18Z
+  Vendor: White Sands
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/6_5b645bd0-e60a-4ac9-ba6a-89180b9e8f09.png?v=1770351354
+  - [XS](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-navy?variant=47956219855003)
+    Availability: Available
+    Price: $60.00 USD
+  - [S](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-navy?variant=47956219887771)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-navy?variant=47956219920539)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-navy?variant=47956219953307)
+    Availability: Available
+    Price: $60.00 USD
+- [Mia Strapless Bandeau Bikini Top - Navy](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-navy): Shop online for Navy strapless bikini tops, black halter bikini tops, Navy bandeau bikini tops, Navy underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
+  Updated: 2026-04-18T17:46:17Z
+  Vendor: White Sands
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/10_ac534c92-2d3e-4cd3-ae06-211486b23502.png?v=1770351354
+  - [XS](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-navy?variant=47960730271899)
+    Availability: Available
+    Price: $60.00 USD
+  - [S](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-navy?variant=47960730304667)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-navy?variant=47960730337435)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-navy?variant=47960730370203)
+    Availability: Available
+    Price: $60.00 USD
+- [Tally String Bikini Bottoms - Navy](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-navy): Shop Navy bikini bottoms, Navy string bikini bottoms, Navy micro bikini bottoms, Navy tie side bikini bottoms, Navy thong bikini bottoms, Navy high cut bikini bottoms. Brazilian bikini bottoms, Navy gstring bikinis.
+  Updated: 2026-04-18T20:52:06Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/9_5cc30515-c48a-4e87-a5d4-7a366d4a05cd.png?v=1770351354
+  - [XS](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-navy?variant=47960791580827)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-navy?variant=47960791613595)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-navy?variant=47960791646363)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-navy?variant=47960791679131)
+    Availability: Available
+    Price: $50.00 USD
+- [Eve Triangle Bikini Top - Navy](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-navy): Eve triangle bikini top. Navy. Navy swimwear, Navy swimsuit, Navy bikini top, Navy triangle bikini top, Navy halter bikini top, Navy upside down bikini top, Navy string bikini top, Navy micro bikini top.
+  Updated: 2026-04-18T19:47:57Z
+  Vendor: White Sands Swimwear
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/684x1024_Website_Product_Crop.png?v=1775705352
+  - [XS](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-navy?variant=47960818581659)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-navy?variant=47960818614427)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-navy?variant=47960818647195)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-navy?variant=47960818679963)
+    Availability: Available
+    Price: $50.00 USD
 - [Unlimited returns](https://www.whitesandsswim.com/products/unlimited-returns)
-  Updated: 2026-04-07T21:43:57Z
+  Updated: 2026-04-18T23:33:16Z
   Vendor: re:do
   Product Type: return
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/8925/files/package-icon.png?v=1770256893
   Price: $2.98 USD
-[List Continued](https://www.whitesandsswim.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODg1NDM1MTcwOTcxLCJsYXN0X3ZhbHVlIjoiODg4NTQzNTE3MDk3MSJ9)
+- [Hayman Thong Bikini Bottoms - Orchid](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-orchid-purple): Hayman Thong String bikini bottoms. Purple. Purple micro bikini pant with tie sides. Shop all Purple tanga bikinis, Purple thong bikinis, Orchid string bikinis,  high cut leg bikinis, Purple micro bikinis, Purple brazilian bikinis, Purple tie side bikinis, Purple bikini bottoms and bikinis.
+  Updated: 2026-04-18T19:26:17Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/4_c1adf169-991a-4dc9-874c-24b137f10366.png?v=1776228334
+  - [XS](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-orchid-purple?variant=47970359247003)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-orchid-purple?variant=47970359279771)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-orchid-purple?variant=47970359312539)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/hayman-thong-bikini-bottoms-orchid-purple?variant=47970359345307)
+    Availability: Available
+    Price: $50.00 USD
+- [Byron Cheeky Bikini Bottoms - Orchid](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-orchid-purple): Byron Tanga Cheeky. Purple.  Purple High-cut bikini bottoms. Shop all Purple Tanga bikinis, Purple Thong bikinis, Purple string bikinis, Purple high cut leg bikinis, micro bikinis, Brazilian bikini bottoms. Tanga bikini pants, High cut bikini pants, thong bikini pants, string bikini pants, micro bikini pants. bather bottoms, thong bikini bottoms, Purple cheeky bikini bottoms
+  Updated: 2026-04-15T17:11:43Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/AKI05100.jpg?v=1776228167
+  - [XS](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-orchid-purple?variant=47970365997211)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-orchid-purple?variant=47970366029979)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-orchid-purple?variant=47970366062747)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/byron-cheeky-bikini-bottoms-orchid-purple?variant=47970366095515)
+    Availability: Available
+    Price: $50.00 USD
+- [Lucy Scoop Bikini Top - Orchid](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-orchid-purple): Featuring a chic scoop design, this top offers a flattering fit for all bust sizes. Shop designer swimwear. Purple bikini tops, Purple womens swimwear, Purple swimsuits, Purple bathing suits, Purple swimwear separates, Purple string bikinis, Purple micro bikinis, Purple thong bikinis. Australian swimwear brand designer.
+  Updated: 2026-04-18T08:35:14Z
+  Vendor: White Sands
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0099_d4108e6e-094d-44de-bd85-bb661da1e50c.jpg?v=1776247019
+  - [XS](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-orchid-purple?variant=47970452570267)
+    Availability: Available
+    Price: $60.00 USD
+  - [S](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-orchid-purple?variant=47970452603035)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-orchid-purple?variant=47970452635803)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://www.whitesandsswim.com/products/lucy-scoop-bikini-top-orchid-purple?variant=47970452668571)
+    Availability: Available
+    Price: $60.00 USD
+- [Mia Strapless Bandeau Bikini Top - Orchid](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-orchid-purple): Shop online for Purple strapless bikini tops, Purple halter bikini tops, Purple bandeau bikini tops, Purple underwire bikini tops. Womens swimwear, Australian brand swimwear, Luxury swimwear, Designer swimsuits.
+  Updated: 2026-04-18T07:41:17Z
+  Vendor: White Sands
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/39_7c2109d2-1a2f-43db-b230-0bf0383d6bfb.png?v=1776228574
+  - [XS](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-orchid-purple?variant=47970512896155)
+    Availability: Available
+    Price: $60.00 USD
+  - [S](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-orchid-purple?variant=47970512928923)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-orchid-purple?variant=47970512961691)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://www.whitesandsswim.com/products/mia-strapless-bandeau-bikini-top-orchid-purple?variant=47970512994459)
+    Availability: Available
+    Price: $60.00 USD
+- [Tally String Bikini Bottoms - Orchid](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-orchid-purple): Shop Purple bikini bottoms, Purple string bikini bottoms, Purple micro bikini bottoms, Purple tie side bikini bottoms, Purple thong bikini bottoms, Purple high cut bikini bottoms. Brazilian bikini bottoms, Navy gstring bikinis.
+  Updated: 2026-04-16T13:51:47Z
+  Vendor: White Sands
+  Product Type: Bikini Pant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0262_70588bbf-63e4-441a-902f-ddbc3fa5d0a5.jpg?v=1776247242
+  - [XS](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-orchid-purple?variant=47970546450587)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-orchid-purple?variant=47970546483355)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-orchid-purple?variant=47970546516123)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/tally-string-bikini-bottoms-orchid-purple?variant=47970546548891)
+    Availability: Available
+    Price: $50.00 USD
+- [Eve Triangle Bikini Top - Orchid](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-orchid-purple): Eve triangle bikini top. Purple. Purple swimwear, Purple swimsuit, Purple bikini top, Purple triangle bikini top, Purple halter bikini top, Purple upside down bikini top, Purple string bikini top, Purple micro bikini top.
+  Updated: 2026-04-18T19:26:17Z
+  Vendor: White Sands Swimwear
+  Product Type: Bikini Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0245/8925/files/WHITE-SANDS0141_b62e31b1-4cba-4b8c-9316-d6642e8ba138.jpg?v=1776246875
+  - [XS](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-orchid-purple?variant=47970580168859)
+    Availability: Available
+    Price: $50.00 USD
+  - [S](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-orchid-purple?variant=47970580201627)
+    Availability: Available
+    Price: $50.00 USD
+  - [M](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-orchid-purple?variant=47970580234395)
+    Availability: Available
+    Price: $50.00 USD
+  - [L](https://www.whitesandsswim.com/products/eve-triangle-bikini-top-orchid-purple?variant=47970580267163)
+    Availability: Available
+    Price: $50.00 USD
+[List Continued](https://www.whitesandsswim.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODg4MzY0MTM4NjUxLCJsYXN0X3ZhbHVlIjoiODg4ODM2NDEzODY1MSJ9)
 
 ## Collections
 
 - [Shop All Styles](https://www.whitesandsswim.com/collections/shop-all-styles): White Sands Australia. Designer Swimwear. Shop String Bikinis, thong bikinis, micro bikinis, high cut one-piece swimsuits, and resortwear, beachwear,  Australian bikinis. Australian swimwear brand by designer Leah Madden. Womens Bathers and swim suits.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 328
 - [New Arrivals](https://www.whitesandsswim.com/collections/new-arrivals): White Sands Australian Designer Swimwear. Shop Online for designer bikinis, Brazilian bikinis, one-piece swimwear, swimsuits, beachwear and kaftans. Australian swimwear by designer Leah Madden. Fashion week runway styles. Worn by Kendall Jenner, and Victorias Secret model Miranda Kerr. Worldwide delivery.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 91
 - [Bikini Tops](https://www.whitesandsswim.com/collections/bikini-tops): Australian Luxury Womens Swimwear. Shop our eboutique for luxury bikini separates, bikini tops, bandeau bikini tops, string bikini tops, triangle bikini tops, s bikinis, bikini bandeau top, bikini top bandeau, strapless bikini tops, halter bikini tops, underwire bikini tops, Womens beachwear, bathing suits and sarongs
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 145
 - [Bikini Bottoms](https://www.whitesandsswim.com/collections/bikini-bottoms): Australian Designer Swimwear. Bikini bottoms, bikini pants, string bikini bottoms, high cut bikini bottoms, high cut bikini pants, thong bikini bottoms, thong bikini pants, string bikini pants, Brazilian bikinis bottoms, Brazilian bikini bottoms, bikini bottom Brazil, bikini Brazilian bottom, bikini fits, Brazilian bathers.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 132
 - [One Piece Swimsuits](https://www.whitesandsswim.com/collections/one-piece-swimsuits): Australian Womens thong one piece swimsuits, one piece bathing suits, one piece swimsuits for women, monokinis, one piece swimwear, one piece bathing suits for women, high cut one piece swimsuits, high cut bathers, high cut one piece swimsuit, high cut one piece bathers, one piece thong swimsuit, designer one piece swimwear.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 35
 - [Sandi Swim](https://www.whitesandsswim.com/collections/sandi-swim): White Sands 'Little Sister'
   Updated: 2026-04-01T16:58:08Z
@@ -1844,13 +2096,13 @@ Brazilian Bikinis. High Cut Bikinis. Designed by Leah Madden.
   Updated: 2026-04-01T16:58:12Z
   Total Products: 1
 - [Byron](https://www.whitesandsswim.com/collections/byron)
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 55
 - [Leopard Print Swimwear](https://www.whitesandsswim.com/collections/leopard): Shop luxury leopard print bikini styles. Mix and match styles from $89.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 13
 - [Micro Bikini Tops](https://www.whitesandsswim.com/collections/micro-bikini-tops): Shop our range of minimal coverage Micro Bikini pants. V-string bikini pants. String Bikini pants, micro bikini bottoms and cheeky bikini pants. Designer Australian Swimwear styles to love. String Bikini Tops. Micro bikini tops. String Bikini sets and tiny bikini tops, tiny bikini bottoms, tiny bikini pants.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 50
 - [Underwire Bikini Tops](https://www.whitesandsswim.com/collections/underwire-bikini-tops): Australian Designer Swimwear. Underwire bikini top, underwire bikinis, underwire bandeau bikini tops, underwire bandeau bikinis, bikini bandeau tops, bikinis bandeau, underwire bathers, underwire bathers, bandeau bathers, underwire bikini tops. Australian swimwear, Australian bikinis, Australian swimwear brands.
   Updated: 2026-04-01T16:58:12Z
@@ -1865,7 +2117,7 @@ Brazilian Bikinis. High Cut Bikinis. Designed by Leah Madden.
   Updated: 2026-04-01T16:58:13Z
   Total Products: 8
 - [](https://www.whitesandsswim.com/collections/): White Sands Australian swimwear on , up to 70% off. Designer swimwear , Swimsuit , bikinis on , close out swim suits,  bikinis,  on bathers and bikinis. Thong bikinis on , string bikini .
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 295
 - [Loretta Tops](https://www.whitesandsswim.com/collections/loretta-tops)
   Updated: 2026-04-01T16:58:13Z
@@ -1880,10 +2132,10 @@ Brazilian Bikinis. High Cut Bikinis. Designed by Leah Madden.
   Updated: 2026-04-01T16:58:14Z
   Total Products: 4
 - [High-Cut Swimwear](https://www.whitesandsswim.com/collections/high-cut-leg-swimwear): Shop High cut swimwear styles from White Sands. High cut leg bikinis and high cut one-piece swimwear styles. High cut thong bikini pants, high cut string bikini pants, high waist micro bikini bottoms, high waist bathers, high waist one-piece swimsuits and bathing suits.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 26
 - [Bikinis](https://www.whitesandsswim.com/collections/bikinis): White Sands Australian Designer Swimwear. Luxury fabrics, exclusive prints, Bondi chic. Shop thong bikinis, string bikinis, micro bikinis, Brazilian bikinis, bathers, one pieces, cute bikinis, floral bikinis, tiny bikinis, Terry towel bikinis, leopard print Womens swimwear, beachwear, and resortwear. Free shipping.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 276
 - [Resortwear](https://www.whitesandsswim.com/collections/resortwear): Australian beachwear, beachwear coverups, sarongs, beach dresses, coverups, swimwear coverups, beachwear outfits, beachwear for women, designer beachwear, designer coverups, Womens sarong skirts, sarong wrap, sarong skirt, sarong beach cover up. Pareo wrap, bikini sarong, beach sarong. Womens swim suit coverups sarong
   Updated: 2026-04-01T16:58:15Z
@@ -1892,7 +2144,7 @@ Brazilian Bikinis. High Cut Bikinis. Designed by Leah Madden.
   Updated: 2026-04-01T16:58:15Z
   Total Products: 17
 - [Cherry](https://www.whitesandsswim.com/collections/cherry): White Sands Swimwear, Australian designer swim styles in Cherry red color.  Designer Australian swimwear from Bondi Beach, Sydney. Red bikinis, red swimsuits, red bathers. Red Brazilian cut bikini pants and bikini tops.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 20
 - [AAFW Runway - Resort 2022](https://www.whitesandsswim.com/collections/aafw-runway-resort-2022): As seen on the runway at Australian Fashion Week. Australian designer swimwear label White sands, featured in Vogue, Marie Claire, Grazia, Russh and Elle.
   Updated: 2026-03-29T03:06:07Z
@@ -1913,64 +2165,64 @@ Brazilian Bikinis. High Cut Bikinis. Designed by Leah Madden.
   Updated: 2026-04-01T16:58:16Z
   Total Products: 10
 - [Ivy](https://www.whitesandsswim.com/collections/ivy-emerald-green-bikini): Discover olive green and emerald green bikinis for a more earthy, effortless vibe, or opt for jungle green, mint, and forest tones to bring nature-inspired energy to your swimwear game. Whether you're drawn to a khaki green thong bikini, a lime green string bikini, or a chic green one-piece swimsuit, our curated selection offers high-cut, side-tie, and micro designs. Dive into green bathing suits and bikini sets.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 18
 - [String Bikini Pants](https://www.whitesandsswim.com/collections/string-bikini-pants): String bikinis by White Sands Swimwear | String Bikini Tops, String Bikini Pants. String Thong Bikini Pants, string micro bikinis. Designer Australian Swimwear styles to love. Browse all micro bikinis, thong bikinis and string bikinis to mix and match.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 57
 - [Thong Bikinis](https://www.whitesandsswim.com/collections/thong-bikinis): Shop minimal coverage  Australian bikinis with thong bottoms. V-string bikini pants. String Bikini pants, micro bikini pants and cheeky bikini pants. Designer Australian Swimwear. Thong Bikini bottoms. V-string bikini bottoms. String Bikini bottoms and cheeky bikini bottoms and micro bikini bottoms.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 42
 - [Triangle Bikini Tops](https://www.whitesandsswim.com/collections/triangle-bikini-tops): Australian Designer Swimwear. Triangle bikini top, halter triangle bikini tops, triangl bikinis, bikini triangle tops, bikinis triangle, triangle top bathers, triangle bathers, triangle halter bathers, triangle swimsuits, Australian bikinis, Australian swimwear brands, one pieces swimwear, one piece Womens swimwear
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 58
 - [Sarongs](https://www.whitesandsswim.com/collections/sarongs): Womens sarongs and beach cover ups. Sarong wrap, Sarong beachwear coverups, sarongs, beach dresses, coverups, swimwear coverups, beachwear outfits, beachwear for women, designer beachwear, designer coverups, sarong skirt, sarong beach cover up. Pareo wrap, bikini sarong, beach sarong. Womens swim suit coverups.
   Updated: 2026-04-01T16:58:17Z
   Total Products: 0
 - [String Bikinis. String Bikini Bottoms. String Bikini Tops](https://www.whitesandsswim.com/collections/string-bikinis): Australian Luxury Swimwear by White Sands. Shop String Bikini Bottoms, String Bikini Tops and String Bikini Sets. Micro bikini Tops, Micro bikini bottoms. Micro Bikinis, Aus bikinis, Australian bikinis. Womens swimwear, swim suits and bathing suits.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 112
 - [Micro Bikini Bottoms](https://www.whitesandsswim.com/collections/micro-bikini-bottoms): Shop all micro bikini bottoms, string bikini bottoms, thong bikini bottoms, g string bikini bottoms, s bikinis, tiny bikinis, tanning bikinis, micro bikinis, micro bikini tops, string bikini tops
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 56
 - [Micro Bikinis](https://www.whitesandsswim.com/collections/micro-bikinis): Shop minimalist micro bikini micro bikinis in luxury fabrics and exclusive prints.  Australian bikinis, Micro bikini tops, micro bikini pants, micro bikini sets, micro bikini bottoms, micro tri bikinis, micro thong bikinis, micro swimwear, Womens micro g string bikinis, s bikinis, triangl bikinis.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 110
 - [Noosa String Bikini Top](https://www.whitesandsswim.com/collections/noosa-string-bikini-top): The Cult Classic Noosa Bikini Top. Wear her as a Halter, Triangle or Bandeau. This micro string style is an essential for every bikini enthusiast. Shop all string bikini tops, micro bikini tops, triangle bikini tops, halter bikini tops.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 24
 - [String Bikini Tops](https://www.whitesandsswim.com/collections/string-bikini-tops): Shop all string bikini tops, string bikinis, string bikini separates, string bikini bottoms, g string bikinis, string thong bikini bottoms, string bikini pants, micro bikinis, micro bikini bottoms, micro bikini tops, triangle bikini tops, string bathers, swim suits
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 52
 - [White Bikinis](https://www.whitesandsswim.com/collections/white-bikinis): Shop Boutique Swimwear: White bikinis, one piece swimsuits, white thong bikini bottoms, bikinis white, white swim suits, white swimming suits, white bikini s, micro white bikini bottoms, white string bikini pants, white bathers, white designer bikinis. white bikini thong, white bathing suits.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-17T11:00:27Z
   Total Products: 19
 - [Bandeau Bikini Tops](https://www.whitesandsswim.com/collections/bandeau-bikini-tops): Shop Bandeau Bikini Tops. Strapless bandeau bikini tops, black bandeau bikini tops, white bandeau bikini tops, underwire bandeau bikini tops, designer bandeau bikini tops, new season bandeau bikinis.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 36
 - [Azure](https://www.whitesandsswim.com/collections/azure)
   Updated: 2026-04-01T16:58:18Z
   Total Products: 8
 - [Dolce Rose](https://www.whitesandsswim.com/collections/dolce-rose)
-  Updated: 2026-04-05T11:00:18Z
+  Updated: 2026-04-15T11:00:18Z
   Total Products: 8
 - [Merlot](https://www.whitesandsswim.com/collections/merlot)
-  Updated: 2026-04-05T11:00:17Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 9
 - [Accessories](https://www.whitesandsswim.com/collections/accessories): Born in Bondi, designer Leah Madden’s creations blend iconic feminine silhouettes, flawless fits, premium quality and soft-touch fabrics so every detail complements your swim and beachwear beautifully. Dive into seaside chic with White Sands Swim's accessory collection, featuring on trend beach hats, must-have sunglasses and resort-ready essentials, sarongs, beach dresses and kaftans in matching prints and luxe fabrics, to curate your vacation packing.
   Updated: 2026-04-01T16:58:18Z
   Total Products: 1
 - [Pink](https://www.whitesandsswim.com/collections/pink): Pink Bikini, Pink thong bikinis, Pink micro bikinis, Pink tiny bikinis, Pink bathers, Pink bathing suits, Pink swimsuits, Pink swimmers, Pink suits, Pink tangas, pink one‑piece swimsuit, Pink beachwear, Pink string bikini
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 57
 - [Evissa Floral](https://www.whitesandsswim.com/collections/evissa-floral): Discover floral bikinis, micro styles, and floral one-pieces designed to flatter every figure this summer. From tropical floral prints to tiny floral bikinis, explore trend-setting swimwear that turns heads. high-cut floral bikinis, cheeky thongs, and elegant floral one-piece swimsuits.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 9
 - [Black Friday ](https://www.whitesandsswim.com/collections/black-friday-): Take Up To 70% Off in the Black Friday . Swimwear , bikinis on , micro bikinis clearout, bathing suit close out . Swimwear outlet, bikini discounts.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 295
 - [Holiday](https://www.whitesandsswim.com/collections/holiday): The Holiday Edit. Curate your vacation edit of festive reds and on trend best  styles, Red thong bikinis, red micro bikini, red one piece swimsuits. Styles to make everyone’s spirits bright, seasonal shades, festive prints, and new limited edition shapes. Shop holiday shades in shiny slinky fabric and poolside coverups for celebrating in minimal style. Christmas in the sunshine has never been this sexy.
-  Updated: 2026-04-07T11:00:18Z
+  Updated: 2026-04-18T11:00:32Z
   Total Products: 47
 
 ## Blogs
