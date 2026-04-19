@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-19T18:04:56Z
 - Contact Email: info@svarochi.in
-- Updated At: 2026-04-11T00:00:45.449Z
+- Updated At: 2026-04-19T00:00:45.892Z
 
 ## Products
 
@@ -605,7 +605,7 @@
   Image: https://cdn.shopify.com/s/files/1/0699/9972/2649/files/Gemini_Generated_Image_7phrff7phrff7phr.png?v=1768558273
   Price: ₹2,499.00 INR
 - [Rangrez Radiance Farshi Salwar Set](https://svarochi.in/products/rangrez-radiance-farshi-salwar-set): Embrace timeless elegance with the Rangrez Radiance Farshi Salwar Set. This exquisite ensemble features a gracefully draped farshi design that flows with sophistication and comfort. Crafted with premium fabrics and vibrant Rangrez dyes, each piece showcases rich, authentic colors that celebrate traditional Indian craftsmanship. The set includes a beautifully tailored salwar, a flowing dupatta, and a intricately designed kurta that flatters every silhouette. Perfect for festive occasions, celebrations, or everyday wear, this salwar set blends heritage aesthetics with contemporary style. The breathable fabric ensures all-day comfort while the detailed embellishments add a touch of understated luxury. Ideal for those who appreciate authentic Indian fashion with a modern sensibility.
-  Updated: 2026-03-31T15:50:25Z
+  Updated: 2026-04-11T12:14:57Z
   Vendor: Svarochi
   Product Type: 
   Availability: Available
@@ -649,7 +649,7 @@
   Updated: 2026-02-28T01:28:29Z
   Total Products: 45
 - [Kurta Sets](https://svarochi.in/collections/kurta-sets): Designer Kurta Sets
-  Updated: 2026-04-02T05:56:42Z
+  Updated: 2026-04-12T11:28:37Z
   Total Products: 13
 - [Chikankari](https://svarochi.in/collections/chikankari): Fine Lucknow Chikankari Kurtis and Kurta sets, all handwork
   Updated: 2026-02-28T01:27:40Z
@@ -733,6 +733,15 @@
     Author: Svarochi
   - [10 Indo Western Lehenga Styles Every Bride Should Consider](https://svarochi.in/blogs/news/10-indo-western-lehenga-styles-every-bride-should-consider): 10 Indo Western Lehenga Styles Every Bride Should Consider
     Updated: 2026-04-10T01:09:34Z
+    Author: Svarochi
+  - [An Educational Dive into the Craftsmanship Behind Chikankari Lehengas](https://svarochi.in/blogs/news/an-educational-dive-into-the-craftsmanship-behind-chikankari-lehengas): An Educational Dive into the Craftsmanship Behind Chikankari Lehengas
+    Updated: 2026-04-13T01:09:12Z
+    Author: Svarochi
+  - [Picking the Perfect Lehenga: A Checklist for Every Bride](https://svarochi.in/blogs/news/picking-the-perfect-lehenga-a-checklist-for-every-bride): Picking the Perfect Lehenga: A Checklist for Every Bride
+    Updated: 2026-04-15T01:20:54Z
+    Author: Svarochi
+  - [Top Problems to Avoid When Choosing Your Bridal Ethnic Kurti](https://svarochi.in/blogs/news/top-problems-to-avoid-when-choosing-your-bridal-ethnic-kurti): Top Problems to Avoid When Choosing Your Bridal Ethnic Kurti
+    Updated: 2026-04-17T01:21:09Z
     Author: Svarochi
 
 ## Store Pages
