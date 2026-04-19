@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-24T00:27:16Z
 - Contact Email: pdfguideshop@yahoo.com
-- Updated At: 2026-04-07T00:00:45.538Z
+- Updated At: 2026-04-19T00:00:44.230Z
 
 ## Products
 
@@ -215,7 +215,7 @@
 - [Shipping Policy](https://pdfguideshop.com/policies/shipping-policy)
   Updated: 2025-07-27T13:09:42-04:00
 - [Refund Policy](https://pdfguideshop.com/policies/refund-policy)
-  Updated: 2025-07-27T12:36:41-04:00
+  Updated: 2026-04-08T08:01:47-04:00
 - [Terms of Service](https://pdfguideshop.com/policies/terms-of-service)
   Updated: 2025-07-27T13:08:18-04:00
 - [Contact Information](https://pdfguideshop.com/policies/contact-information)
