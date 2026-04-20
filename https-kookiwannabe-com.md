@@ -6,7 +6,7 @@
 - Timezone: Asia/Riyadh
 - Created At: 2024-06-20T07:38:15Z
 - Contact Email: sales@kookiwannabe.com
-- Updated At: 2026-04-10T00:00:47.517Z
+- Updated At: 2026-04-20T00:00:47.660Z
 
 ## Products
 
@@ -90,13 +90,13 @@
     Price: SAR 119.00 SAR
 - [Fin Fun TLX-ORCA Orca Mermaid Tail](https://kookiwannabe.com/products/orca-mermaid-tail): "What a gorgeous swimsuit!
 Your daughter looks like mermaids"
-  Updated: 2026-03-27T16:08:14Z
+  Updated: 2026-04-12T08:52:51Z
   Vendor: Fin Fun
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4194/0503/files/orca-1.jpg?v=1719319743
   - [6](https://kookiwannabe.com/products/orca-mermaid-tail?variant=41487961980951)
-    Availability: Available
+    Availability: Not Available
     Price: SAR 209.00 SAR
   - [8](https://kookiwannabe.com/products/orca-mermaid-tail?variant=41487962013719)
     Availability: Not Available
@@ -862,73 +862,73 @@ Available in many sizes"
 ## Collections
 
 - [Swimwear](https://kookiwannabe.com/collections/swimwear): Get ready for sunny days with vibrant swimwear designed for beach adventures and poolside fun—keeping kids comfortable and ready to make a splash!
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 555
+  Updated: 2026-04-18T11:30:35Z
+  Total Products: 576
 - [Kids Clothing](https://kookiwannabe.com/collections/clothing): Dress them in joy! Our Kids Clothing Collection blends playful styles, vibrant colors, and cozy comfort for every adventure. From twirls to tumbles, these outfits spark imagination and endless fun—because childhood is all about playing and exploring!
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 1247
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1268
 - [Boys Clothing](https://kookiwannabe.com/collections/boys-clothing): Our Boys Clothing Collection combines cool style, durable fabrics, and everyday comfort. Designed for active days and endless adventures, these outfits let boys move freely, from outdoor play to indoor fun—because growing up should be full of excitement!
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 500
+  Updated: 2026-04-17T11:27:55Z
+  Total Products: 503
 - [Girls Clothing](https://kookiwannabe.com/collections/girls-clothing): Our Girls Clothing Collection is all about vibrant style, playful details, and all-day comfort. Whether twirling, exploring, or simply being themselves, these outfits are designed for every moment—because girlhood should be full of joy and self-expression!
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 754
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 772
 - [Boys Tops](https://kookiwannabe.com/collections/boys-tops)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 217
 - [Boys Bottoms](https://kookiwannabe.com/collections/boys-bottoms)
-  Updated: 2026-03-27T17:05:07Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 70
 - [Boys Costumes](https://kookiwannabe.com/collections/boys-costumes)
   Updated: 2026-03-27T16:16:12Z
   Total Products: 12
 - [Boys Swimwear](https://kookiwannabe.com/collections/boys-swimwear-beach-accessories)
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 235
+  Updated: 2026-04-18T11:30:35Z
+  Total Products: 238
 - [Boys Clothing On ](https://kookiwannabe.com/collections/boys-clothing-on-)
-  Updated: 2026-04-04T11:24:29Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 266
 - [Kids Toys](https://kookiwannabe.com/collections/kids-toys): Let the fun begin! Our Kids Toys Collection is packed with joy, curiosity, and creativity. From cuddly companions to brain-boosting games, these toys spark endless imagination and adventure—making playtime a world of wonder for every little explorer!
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 1827
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1832
 - [Girls Tops](https://kookiwannabe.com/collections/girls-tops)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 134
 - [Girls Bottoms](https://kookiwannabe.com/collections/girls-bottoms)
-  Updated: 2026-03-27T17:04:53Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 44
 - [Girls Costumes](https://kookiwannabe.com/collections/girls-costumes)
   Updated: 2026-03-27T16:16:12Z
   Total Products: 15
 - [Girls Swimwear](https://kookiwannabe.com/collections/girls-swimwear-beach-accessories)
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 334
+  Updated: 2026-04-18T11:30:35Z
+  Total Products: 352
 - [Girls Bags & Wallets](https://kookiwannabe.com/collections/girls-bags-accessories)
-  Updated: 2026-04-02T12:50:53Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 217
 - [Girls Clothing On ](https://kookiwannabe.com/collections/girls-clothing-on-)
-  Updated: 2026-04-06T11:18:46Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 311
 - [Party Supplies](https://kookiwannabe.com/collections/party-supplies): Make every celebration unforgettable! Our Party Supplies Collection brings the magic with vibrant balloons, playful candles, and colorful cutlery. From birthdays to special moments, these fun essentials add joy and sparkle to every party!
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-15T11:25:38Z
   Total Products: 1134
 - [Balloons](https://kookiwannabe.com/collections/balloons)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-15T11:25:38Z
   Total Products: 993
 - [Birthday Candles](https://kookiwannabe.com/collections/birthday-candles)
   Updated: 2026-03-30T11:22:47Z
   Total Products: 64
 - [Stella Cove](https://kookiwannabe.com/collections/stella-cove)
-  Updated: 2026-04-02T11:24:47Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 118
 - [](https://kookiwannabe.com/collections/): Big smiles, little prices! Our  Collection offers playful bargains across all your favorites—from cozy clothes and creative toys to party supplies and school must-haves. Don’t miss out on fun-filled finds at unbeatable prices—because joy should always be affordable!
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 1027
 - [Boys Bags & Wallets](https://kookiwannabe.com/collections/boys-bags-wallets)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 157
 - [Boys Footwear](https://kookiwannabe.com/collections/boys-footwear)
-  Updated: 2026-04-02T13:28:42Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 23
 - [Boys Sleepwear](https://kookiwannabe.com/collections/boys-sleepwear)
   Updated: 2026-04-08T11:27:52Z
@@ -937,49 +937,49 @@ Available in many sizes"
   Updated: 2026-03-27T16:33:41Z
   Total Products: 6
 - [Girls Footwear](https://kookiwannabe.com/collections/girls-footwear)
-  Updated: 2026-03-27T17:05:11Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 25
 - [Girls Sleepwear](https://kookiwannabe.com/collections/girls-sleepwear)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 101
 - [Girls Underwear](https://kookiwannabe.com/collections/girls-underwear)
   Updated: 2026-03-27T16:33:45Z
   Total Products: 6
 - [Beach Accessories](https://kookiwannabe.com/collections/beach-accessories): Seaside essentials await! Our Beach Accessories Collection is packed with everything needed for a perfect day in the sun—think colorful towels, sun hats, flip-flops, and more. Get ready to make beach trips even more fun and stylish!
-  Updated: 2026-04-09T18:33:22Z
+  Updated: 2026-04-19T16:03:14Z
   Total Products: 836
 - [Hair Accessories](https://kookiwannabe.com/collections/hair-accessories)
-  Updated: 2026-04-02T11:24:47Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 96
 - [Clothing Accessories](https://kookiwannabe.com/collections/clothing-accessories): Complete their looks with playful flair! Our Clothing Accessories Collection has all the finishing touches—from trendy bags and wallets to fun hair accessories and cool sunglasses. These pieces add personality and style to every outfit, letting kids shine their brightest!
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 603
 - [Sports Accessories](https://kookiwannabe.com/collections/sports-accessories)
   Updated: 2026-03-27T16:41:01Z
   Total Products: 13
 - [Jewelry & Watches](https://kookiwannabe.com/collections/jewelry): A little sparkle goes a long way! Our Jewelry & Watches Collection is filled with charming pieces that let kids express their unique style. From cute bracelets to colorful watches, these accessories bring a touch of magic to every day.
-  Updated: 2026-03-27T17:04:33Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 135
 - [Yporque](https://kookiwannabe.com/collections/yporque)
-  Updated: 2026-04-01T17:44:51Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 237
 - [Bonnie Mob](https://kookiwannabe.com/collections/bonnie-mob)
   Updated: 2026-04-09T11:26:46Z
   Total Products: 77
 - [Sunglasses](https://kookiwannabe.com/collections/sunglasses): Shade their eyes in style! Our Sunglasses Collection features fun and trendy eyewear that protects while adding a cool factor. With playful designs and vibrant colors, these shades are perfect for sunny adventures and stylish strolls.
-  Updated: 2026-03-27T17:04:42Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 49
 - [Kids Bags & Wallets](https://kookiwannabe.com/collections/bags-wallets): Let them carry it in style! Our Bags & Wallets Collection offers practical and playful options for every outing. Whether it’s a cute backpack for school or a colorful wallet for little treasures, these accessories combine fun designs with everyday functions.
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 331
 - [Molo](https://kookiwannabe.com/collections/molo)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 536
 - [Illuminated Apparel](https://kookiwannabe.com/collections/illuminated-apparel)
   Updated: 2026-04-08T11:27:52Z
   Total Products: 12
 - [Selfie Clothing](https://kookiwannabe.com/collections/selfie-clothing)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 35
 - [I Like Paper](https://kookiwannabe.com/collections/i-like-paper)
   Updated: 2026-03-27T16:08:38Z
@@ -991,7 +991,7 @@ Available in many sizes"
   Updated: 2026-03-27T16:08:51Z
   Total Products: 4
 - [Fin Fun](https://kookiwannabe.com/collections/fin-fun)
-  Updated: 2026-04-05T16:50:16Z
+  Updated: 2026-04-12T11:26:12Z
   Total Products: 25
 - [Stardust](https://kookiwannabe.com/collections/stardust)
   Updated: 2026-01-14T08:27:11Z
@@ -1027,7 +1027,7 @@ Available in many sizes"
   Updated: 2026-03-27T16:09:37Z
   Total Products: 17
 - [Slimy](https://kookiwannabe.com/collections/slimy)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 33
 - [Magic Dip](https://kookiwannabe.com/collections/magic-dip)
   Updated: 2026-03-27T16:10:03Z
@@ -1036,14 +1036,14 @@ Available in many sizes"
   Updated: 2026-04-06T10:13:25Z
   Total Products: 103
 - [Discovery](https://kookiwannabe.com/collections/discovery): Discovery Toys celebrates the power of play, offering thoughtfully designed, hands-on learning toys that spark curiosity, build skills, and invite children to explore with confidence. Crafted with care for every age and stage, you can turn your kids' playful moments into meaningful growth.
-  Updated: 2026-04-07T11:27:20Z
-  Total Products: 67
+  Updated: 2026-04-18T11:30:35Z
+  Total Products: 68
 - [Rubiks](https://kookiwannabe.com/collections/rubiks)
   Updated: 2026-03-27T16:10:07Z
   Total Products: 2
 - [Sharper Image](https://kookiwannabe.com/collections/sharper-image)
-  Updated: 2026-03-27T17:03:41Z
-  Total Products: 19
+  Updated: 2026-04-16T11:25:44Z
+  Total Products: 22
 - [Street Surfing](https://kookiwannabe.com/collections/street-surfing)
   Updated: 2026-03-27T16:22:39Z
   Total Products: 13
@@ -1054,10 +1054,10 @@ Available in many sizes"
   Updated: 2026-03-27T16:13:01Z
   Total Products: 24
 - [Mia](https://kookiwannabe.com/collections/mia)
-  Updated: 2026-03-27T17:02:14Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 27
 - [Barbie](https://kookiwannabe.com/collections/barbie)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-12T11:26:12Z
   Total Products: 120
 - [Disney](https://kookiwannabe.com/collections/disney)
   Updated: 2026-03-27T16:23:33Z
@@ -1090,7 +1090,7 @@ Available in many sizes"
   Updated: 2026-03-27T16:13:33Z
   Total Products: 43
 - [Ooly](https://kookiwannabe.com/collections/ooly)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-12T11:26:12Z
   Total Products: 114
 - [Little sleepies](https://kookiwannabe.com/collections/little-sleepies)
   Updated: 2026-03-27T16:29:47Z
@@ -1099,7 +1099,7 @@ Available in many sizes"
   Updated: 2026-04-09T09:03:00Z
   Total Products: 153
 - [Play&Go](https://kookiwannabe.com/collections/playgo)
-  Updated: 2026-03-27T16:48:25Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 17
 - [MOB](https://kookiwannabe.com/collections/mob)
   Updated: 2026-04-01T18:05:26Z
@@ -1123,16 +1123,16 @@ Available in many sizes"
   Updated: 2026-03-27T16:25:13Z
   Total Products: 7
 - [Qualatex](https://kookiwannabe.com/collections/qualatex)
-  Updated: 2026-04-04T20:06:22Z
+  Updated: 2026-04-15T11:25:38Z
   Total Products: 191
 - [Anagram](https://kookiwannabe.com/collections/anagram)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 656
 - [Super Petit](https://kookiwannabe.com/collections/super-petit)
   Updated: 2026-03-27T16:16:50Z
   Total Products: 9
 - [OMY](https://kookiwannabe.com/collections/omy)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 67
 - [Poppik](https://kookiwannabe.com/collections/poppik)
   Updated: 2026-03-27T16:16:50Z
@@ -1180,7 +1180,7 @@ Available in many sizes"
   Updated: 2026-03-27T16:53:36Z
   Total Products: 19
 - [Hasbro Games](https://kookiwannabe.com/collections/hasbro-games)
-  Updated: 2026-03-27T16:32:00Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 19
 - [Play-Doh](https://kookiwannabe.com/collections/play-doh)
   Updated: 2026-03-27T16:31:53Z
@@ -1228,7 +1228,7 @@ Available in many sizes"
   Updated: 2026-03-27T16:39:05Z
   Total Products: 5
 - [Dan & Darci](https://kookiwannabe.com/collections/dan-darci)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 49
 - [Mindware](https://kookiwannabe.com/collections/mindware)
   Updated: 2026-03-27T16:40:07Z
@@ -1237,7 +1237,7 @@ Available in many sizes"
   Updated: 2026-04-08T11:27:52Z
   Total Products: 145
 - [Rex London](https://kookiwannabe.com/collections/rex-london)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 188
 - [Rainbow Loom](https://kookiwannabe.com/collections/rainbow-loom)
   Updated: 2026-03-27T16:39:07Z
@@ -1261,7 +1261,7 @@ Available in many sizes"
   Updated: 2026-03-27T16:40:46Z
   Total Products: 6
 - [Evo](https://kookiwannabe.com/collections/evo)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 28
 - [3Doodler](https://kookiwannabe.com/collections/3doodler)
   Updated: 2026-03-27T16:41:21Z
@@ -1288,70 +1288,70 @@ Available in many sizes"
   Updated: 2026-03-27T16:45:04Z
   Total Products: 10
 - [Vtech](https://kookiwannabe.com/collections/vtech)
-  Updated: 2026-04-02T14:22:36Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 10
 - [Smart Ball](https://kookiwannabe.com/collections/smart-ball)
-  Updated: 2026-04-04T11:24:29Z
-  Total Products: 11
+  Updated: 2026-04-18T11:30:35Z
+  Total Products: 12
 - [Lulujo](https://kookiwannabe.com/collections/lulujo)
   Updated: 2026-04-02T13:27:23Z
   Total Products: 28
 - [My Arcade](https://kookiwannabe.com/collections/my-arcade)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-15T11:25:38Z
   Total Products: 23
 - [Trixie](https://kookiwannabe.com/collections/trixie): Let your little one’s dreams take flight with Trixie, the charming Belgian-born brand crafted for childhood’s most magical moments. From snuggly newborn must-haves and charming nursery décor to colorful mealtime gear and on-the-go essentials, every piece is thoughtfully designed with creativity, quality, and your child’s joy in mind.
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 384
 - [Mini Cools](https://kookiwannabe.com/collections/mini-cools)
-  Updated: 2026-03-27T16:53:54Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 73
 - [Girls Activewear](https://kookiwannabe.com/collections/girls-activewear)
   Updated: 2026-03-27T16:57:25Z
   Total Products: 23
 - [Stella Cove Swimwear](https://kookiwannabe.com/collections/stella-coves-swimwear)
-  Updated: 2026-04-02T11:24:47Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 95
 - [Out of Stock](https://kookiwannabe.com/collections/out-of-stock)
   Updated: 2026-03-27T16:08:38Z
   Total Products: 48
 - [Art & Craft Toys](https://kookiwannabe.com/collections/arts-crafts)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 374
 - [Games & Puzzles](https://kookiwannabe.com/collections/games-puzzles)
-  Updated: 2026-04-04T11:24:29Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 244
 - [Educational Toys](https://kookiwannabe.com/collections/educational-toys)
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 207
+  Updated: 2026-04-18T11:30:35Z
+  Total Products: 208
 - [Play Sets & Construction Toys](https://kookiwannabe.com/collections/play-sets-construction-toys)
-  Updated: 2026-03-27T17:02:28Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 229
 - [Electronic Toys](https://kookiwannabe.com/collections/electronic-toys)
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 83
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 86
 - [Girls Toys](https://kookiwannabe.com/collections/girls-toys)
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 1373
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1374
 - [Boys Toys](https://kookiwannabe.com/collections/boys-toys)
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 1293
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1298
 - [Baby Essentials](https://kookiwannabe.com/collections/baby-essentials): Our Baby Essentials Collection wraps your little one in softness, gentle fabrics, and adorable style. From cozy sleep to playful giggles, these essentials are made for every tender moment—because those first years should be filled with love and comfort!
-  Updated: 2026-04-09T11:26:46Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 808
 - [TOYS FOR 3-4 YEARS OLD](https://kookiwannabe.com/collections/toys-for-3-4-years-old)
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 806
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 809
 - [TOYS FOR 5-8 YEARS OLD](https://kookiwannabe.com/collections/toys-for-5-8-years-old)
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 1219
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1224
 - [TOYS FOR 9-14 YEARS OLD](https://kookiwannabe.com/collections/toys-for-9-14-years-old)
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 785
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 787
 - [Lifestyle Accessories](https://kookiwannabe.com/collections/lifestyle-accessories)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 206
 - [Selfie Pyjamas](https://kookiwannabe.com/collections/selfie-pyjamas)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 19
 - [Harry Potter Party Supplies](https://kookiwannabe.com/collections/harry-potter-party-supplies)
   Updated: 2026-03-27T16:28:41Z
@@ -1363,7 +1363,7 @@ Available in many sizes"
   Updated: 2026-02-05T12:22:43Z
   Total Products: 16
 - [Birthday Party Supplies](https://kookiwannabe.com/collections/birthday-occasion-party-supplies)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-15T11:25:38Z
   Total Products: 244
 - [Valentine's Balloons](https://kookiwannabe.com/collections/valentine): Get 10% off all your Valentine's balloons and arrangements! Use  code VALENTINE at checkout before this Wednesday, February 12, 2025.
   Updated: 2026-04-04T19:57:18Z
@@ -1387,13 +1387,13 @@ Available in many sizes"
   Updated: 2026-04-04T20:00:08Z
   Total Products: 48
 - [Electronic Gadgets](https://kookiwannabe.com/collections/electronic-accessories): Explore fun and functional electronic gadgets designed to keep kids entertained and engaged, with tech that adds a playful twist to learning and playtime.
-  Updated: 2026-04-06T15:24:15Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 65
 - [Crayola](https://kookiwannabe.com/collections/crayola)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 84
 - [Marie Raxevsky](https://kookiwannabe.com/collections/marie-raxevsky)
-  Updated: 2026-04-09T10:06:20Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 214
 - [Costumes & Characters](https://kookiwannabe.com/collections/costumes-characters)
   Updated: 2026-04-09T09:03:00Z
@@ -1405,52 +1405,52 @@ Available in many sizes"
   Updated: 2026-03-27T16:59:06Z
   Total Products: 40
 - [School Mealtime Essentials](https://kookiwannabe.com/collections/mealtime-essentials)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 259
 - [Stationery](https://kookiwannabe.com/collections/stationery)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-13T11:25:42Z
   Total Products: 446
 - [School Bags & Backpacks](https://kookiwannabe.com/collections/school-bags-backpacks)
-  Updated: 2026-04-02T12:50:54Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 233
 - [Party Tableware](https://kookiwannabe.com/collections/party-tableware)
   Updated: 2026-03-30T11:22:47Z
   Total Products: 62
 - [Sunnylife](https://kookiwannabe.com/collections/sunnylife)
-  Updated: 2026-04-09T18:33:22Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 377
 - [NEW ARRIVALS](https://kookiwannabe.com/collections/new-arrivals): Discover the latest treasures! Our New Arrivals Collection is brimming with fresh finds—from trendy outfits and playful accessories to must-have toys and school essentials. Bring home the newest styles and fun for every adventure, just in time for today’s little explorers!
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 268
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 354
 - [School Essentials on ](https://kookiwannabe.com/collections/school-essentials-on-)
-  Updated: 2026-03-29T11:26:13Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 201
 - [Bling2O](https://kookiwannabe.com/collections/bling2o)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-19T16:03:14Z
   Total Products: 96
 - [Tyrell Katz](https://kookiwannabe.com/collections/tyrell-katz)
-  Updated: 2026-03-31T11:23:28Z
+  Updated: 2026-04-12T11:26:12Z
   Total Products: 83
 - [Drinking Bottles](https://kookiwannabe.com/collections/drinking-bottles)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T17:03:02Z
   Total Products: 134
 - [Lunch Bags](https://kookiwannabe.com/collections/lunch-bags-boxes)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 67
 - [Books](https://kookiwannabe.com/collections/books)
-  Updated: 2026-04-02T12:54:59Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 159
 - [Arts & Crafts Stationery](https://kookiwannabe.com/collections/arts-crafts-stationery)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-12T11:26:12Z
   Total Products: 198
 - [REX LONDON - Mealtime Essentials](https://kookiwannabe.com/collections/rex-london-lunch-boxes)
-  Updated: 2026-03-27T16:40:39Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 30
 - [Fringoo Mealtime Essentials](https://kookiwannabe.com/collections/fringoo-mealtime-essentials)
   Updated: 2026-04-09T11:26:47Z
   Total Products: 73
 - [Rex London Toys](https://kookiwannabe.com/collections/rex-london-toys)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 92
 - [Dock & Bay Accessories](https://kookiwannabe.com/collections/dock-bay-accessories)
   Updated: 2026-03-27T16:43:33Z
@@ -1465,79 +1465,79 @@ Available in many sizes"
   Updated: 2026-03-27T16:33:12Z
   Total Products: 4
 - [MC2 St Barth](https://kookiwannabe.com/collections/mc2-st-barth)
-  Updated: 2026-03-27T16:47:26Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 14
 - [All Items](https://kookiwannabe.com/collections/all)
-  Updated: 2026-04-09T18:33:22Z
-  Total Products: 5682
+  Updated: 2026-04-19T17:03:02Z
+  Total Products: 5708
 - [Party Deco](https://kookiwannabe.com/collections/party-deco)
-  Updated: 2026-04-02T11:24:47Z
+  Updated: 2026-04-15T11:25:38Z
   Total Products: 86
 - [All Kids Toys](https://kookiwannabe.com/collections/all-kids-toys): Let the fun begin! Our Kids Toys Collection is packed with joy, curiosity, and creativity. From cuddly companions to brain-boosting games, these toys spark endless imagination and adventure—making playtime a world of wonder for every little explorer!
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 1827
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1832
 - [All Kids Clothing](https://kookiwannabe.com/collections/all-kids-clothing): Dress them in joy! Our Kids Clothing Collection blends playful styles, vibrant colors, and cozy comfort for every adventure. From twirls to tumbles, these outfits spark imagination and endless fun—because childhood is all about playing and exploring!
-  Updated: 2026-04-09T11:26:47Z
-  Total Products: 1247
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1268
 - [All Party Supplies](https://kookiwannabe.com/collections/all-party-supplies): Make every celebration unforgettable! Our Party Supplies Collection brings the magic with vibrant balloons, playful candles, and colorful cutlery. From birthdays to special moments, these fun essentials add joy and sparkle to every party!
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-15T11:25:38Z
   Total Products: 1134
 - [All School Essentials](https://kookiwannabe.com/collections/all-school-essentials): Set them up for success! Our School Essentials Collection has everything they need for a bright start—stylish backpacks, handy stationery, and more. Packed with practicality and personality, these items make learning an adventure kids look forward to!
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 721
 - [All Accessories](https://kookiwannabe.com/collections/all-accessories): Add a little extra fun! Our Accessories Collection is full of playful touches that complete any look. From cute headbands to colorful scarves and playful bags, these charming pieces let kids express their style and creativity in every outfit!
-  Updated: 2026-04-09T18:33:22Z
+  Updated: 2026-04-19T16:03:14Z
   Total Products: 1570
 - [TOYS FOR 15+ YEARS OLD](https://kookiwannabe.com/collections/toys-for-15-years-old)
-  Updated: 2026-04-09T11:26:47Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 55
 - [Kidywolf](https://kookiwannabe.com/collections/kidywolf)
-  Updated: 2026-04-04T11:24:29Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 35
 - [Molo Accessories](https://kookiwannabe.com/collections/molo-accessories)
   Updated: 2026-03-27T17:04:44Z
   Total Products: 81
 - [Sunny Life Beach Accessories](https://kookiwannabe.com/collections/sunny-life-beach-accessories)
-  Updated: 2026-04-09T18:33:22Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 373
 - [Marie Raxevsky Accessories](https://kookiwannabe.com/collections/marie-raxevsky-accessories)
-  Updated: 2026-04-09T09:57:52Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 92
 - [Rex London Accessories](https://kookiwannabe.com/collections/rex-london-accessories)
-  Updated: 2026-03-27T16:44:48Z
+  Updated: 2026-04-16T11:25:44Z
   Total Products: 39
 - [Trixie Accessories](https://kookiwannabe.com/collections/trixie-accessories)
-  Updated: 2026-04-02T12:50:54Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 50
 - [Stella Cove Accessories](https://kookiwannabe.com/collections/stella-cove-accessories)
   Updated: 2026-03-27T16:57:13Z
   Total Products: 22
 - [Mia Accessories](https://kookiwannabe.com/collections/mia-accessories)
-  Updated: 2026-03-27T16:27:51Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 21
 - [Trixie School Essentials](https://kookiwannabe.com/collections/trixie-school-essentials): Let your little one head off to school with their favorite animal friend by their side. The Trixie School Essentials collection brings playful charm to every day with backpacks, lunch boxes, and lunch pots, all designed in adorable animal characters. Thoughtfully made for both fun and function, these school-time companions spark imagination while keeping every adventure organized, practical, and full of joy.
-  Updated: 2026-04-02T12:50:54Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 122
 - [Floss & Rock Toys](https://kookiwannabe.com/collections/floss-rock-toys-1)
   Updated: 2026-04-02T14:10:54Z
   Total Products: 121
 - [TOYS FOR 0-2 YEARS OLD](https://kookiwannabe.com/collections/toys-for-0-2-years-old)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 277
 - [Roarsome Swimwear](https://kookiwannabe.com/collections/roarsome-swimwear)
   Updated: 2026-03-27T16:35:39Z
   Total Products: 8
 - [FEATURED ITEMS](https://kookiwannabe.com/collections/featured-items)
-  Updated: 2026-04-07T07:54:18Z
-  Total Products: 2
+  Updated: 2026-04-16T11:25:44Z
+  Total Products: 5
 - [Hats & Caps](https://kookiwannabe.com/collections/hats-caps)
-  Updated: 2026-04-09T09:31:38Z
+  Updated: 2026-04-14T11:25:46Z
   Total Products: 60
 - [Girls' Dresses](https://kookiwannabe.com/collections/girls-dresses)
-  Updated: 2026-04-01T11:26:23Z
+  Updated: 2026-04-12T10:30:40Z
   Total Products: 100
 - [Towels](https://kookiwannabe.com/collections/towels)
-  Updated: 2026-04-09T09:33:13Z
+  Updated: 2026-04-12T10:30:46Z
   Total Products: 187
 - [Halloween Costumes & Party Supplies](https://kookiwannabe.com/collections/halloween): Get ready for a "spooktacular" celebration! 👻🎃 Whether hunting for the perfect costume or decorating with eerie balloons, our Halloween collection has everything you need for a fun-filled night of trick-or-treating and festivities.
   Updated: 2026-04-09T09:03:00Z
@@ -1552,25 +1552,22 @@ Available in many sizes"
   Updated: 2026-03-27T17:00:43Z
   Total Products: 15
 - [ALLC](https://kookiwannabe.com/collections/allc)
-  Updated: 2026-03-31T13:51:35Z
+  Updated: 2026-04-19T17:03:02Z
   Total Products: 52
 - [Kids Tops - Girl & Boy](https://kookiwannabe.com/collections/kids-tops-girl-boy)
   Updated: 2026-04-08T11:27:52Z
   Total Products: 57
 - [Kids Sleepwear](https://kookiwannabe.com/collections/kids-sleepwear)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-19T11:23:51Z
   Total Products: 145
-- [Floats](https://kookiwannabe.com/collections/floats)
-  Updated: 2026-04-09T18:33:22Z
-  Total Products: 202
 - [Beach Bags](https://kookiwannabe.com/collections/beach-bags)
   Updated: 2026-04-02T11:24:47Z
   Total Products: 18
 - [Figures & Characters](https://kookiwannabe.com/collections/figures-characters)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-12T11:26:12Z
   Total Products: 166
 - [Dolls & Princesses](https://kookiwannabe.com/collections/dolls-princesses)
-  Updated: 2026-04-08T11:27:52Z
+  Updated: 2026-04-12T11:26:12Z
   Total Products: 147
 - [Bonton](https://kookiwannabe.com/collections/bonton)
   Updated: 2026-03-27T16:55:34Z
@@ -1579,16 +1576,16 @@ Available in many sizes"
   Updated: 2026-03-27T16:57:25Z
   Total Products: 17
 - [Ambassador](https://kookiwannabe.com/collections/ambassador)
-  Updated: 2026-04-04T11:24:29Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 23
 - [Tartine et Chocolat](https://kookiwannabe.com/collections/tartine-et-chocolat)
-  Updated: 2026-04-01T11:26:23Z
+  Updated: 2026-04-11T11:26:38Z
   Total Products: 39
 - [Skillmatics](https://kookiwannabe.com/collections/skillmatics)
-  Updated: 2026-04-04T11:24:29Z
+  Updated: 2026-04-18T11:30:35Z
   Total Products: 12
 - [LiT](https://kookiwannabe.com/collections/lit)
-  Updated: 2026-04-03T11:23:04Z
+  Updated: 2026-04-17T11:27:55Z
   Total Products: 6
 - [Albatool Huda](https://kookiwannabe.com/collections/albatool-huda)
   Updated: 2026-03-27T16:57:04Z
@@ -1597,11 +1594,11 @@ Available in many sizes"
   Updated: 2026-04-08T11:27:52Z
   Total Products: 11
 - [Featured Styles](https://kookiwannabe.com/collections/featured-styles)
-  Updated: 2026-04-09T11:26:46Z
+  Updated: 2026-04-13T11:25:42Z
   Total Products: 96
 - [Best- Toys](https://kookiwannabe.com/collections/best--toys)
-  Updated: 2026-04-09T11:52:50Z
-  Total Products: 1827
+  Updated: 2026-04-19T11:23:51Z
+  Total Products: 1832
 - [Faith Books & Gifts](https://kookiwannabe.com/collections/faith-books-gifts): Nurture young hearts and minds with faith and knowledge. Discover our collection of meaningful Islamic books and keepsakes for kids, thoughtfully designed to make learning prayers engaging and memorable.
   Updated: 2026-04-08T11:27:52Z
   Total Products: 14
@@ -1609,8 +1606,11 @@ Available in many sizes"
   Updated: 2026-03-27T16:57:05Z
   Total Products: 1
 - [Accessories](https://kookiwannabe.com/collections/accessories): Add a little extra fun! Our Accessories Collection is full of playful touches that complete any look. From cute headbands to colorful scarves and playful bags, these charming pieces let kids express their style and creativity in every outfit!
-  Updated: 2026-04-09T18:33:22Z
+  Updated: 2026-04-19T16:03:14Z
   Total Products: 1499
+- [Trixie Mealtime Essentials](https://kookiwannabe.com/collections/trixie-mealtime-essentials): Turn everyday meals into moments of joy with Trixie Mealtime Essentials. From handy lunch and snack boxes to playful cutlery sets and colorful drinking bottles, every piece is designed with adorable animal friends your kids love. Thoughtfully made to be practical, durable, and fun, this collection makes eating at school or on the go both easy and exciting.
+  Updated: 2026-04-17T11:27:55Z
+  Total Products: 139
 
 ## Store Pages
 
