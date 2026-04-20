@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-02-15T04:24:13Z
 - Contact Email: victor.schumertl@gmail.com
-- Updated At: 2026-04-11T00:00:22.057Z
+- Updated At: 2026-04-20T00:00:32.094Z
 
 ## Blogs
 
@@ -63,6 +63,8 @@
   Updated: 2026-04-08T11:11:40Z
 - [Sleep & Relaxation Pouches Manufacturing | OEM & Private](https://caffeinepouchmanufacturer.com/pages/sleep-and-relaxation-pouches-manufacturing): 
   Updated: 2026-04-08T11:12:20Z
+- [Pouch Ingredients for Caffeine, Nootropic & Mushroom Pouches](https://caffeinepouchmanufacturer.com/pages/oral-pouch-ingredients): 
+  Updated: 2026-04-12T05:01:19Z
 
 ## Policies
 
