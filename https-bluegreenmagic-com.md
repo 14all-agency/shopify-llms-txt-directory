@@ -9,12 +9,12 @@
 - Created At: 2025-04-03T14:53:17Z
 - Contact Email: clientcare@bluegreenmagic.com
 - Contact Phone: 1(800) 525-7768
-- Updated At: 2026-04-12T00:00:44.226Z
+- Updated At: 2026-04-20T00:00:44.206Z
 
 ## Products
 
 - [Encaps Carpet Cleaning Chemical - 1 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps): Explore Bluegreen Magic Encaps, our premium encapsulating carpet cleaning chemical, risk free. Love it or your money back.* Free shipping on orders over $400.
-  Updated: 2026-04-11T05:27:48Z
+  Updated: 2026-04-19T09:17:08Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
   Image: https://cdn.shopify.com/s/files/1/0741/8042/8028/files/newscents-quart-mockup_42a03fe6-7fff-409f-83a7-48e6b8bb00e8.png?v=1746714249
   Price: $25.00 USD
 - [Sole' Premium Nylon/Olefin Solution](https://bluegreenmagic.com/products/sole): Sole' is a high-performance carpet cleaning solution specially formulated for solution-dyed nylon and Olefin fibers. With a powerful pH of 11.5, it tackles tough soils and oily residues with ease. To ensure fiber safety, always follow with Neutrex Premium Neutralizing Agent to restore proper pH balance and leave carpets fresh and clean.
-  Updated: 2026-03-31T23:31:19Z
+  Updated: 2026-04-14T16:01:55Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -107,7 +107,7 @@
     Availability: Available
     Price: $36.00 USD
 - [Encaps 8oz Sample](https://bluegreenmagic.com/products/encaps-8oz-sample): A powerful, professional-grade low moisture carpet cleaner meant to lift stains and soiling, and leaving carpet refreshed and like new. Encaps is the best in the industry with premium crystallization qualities, and a residue free result. All soil is removed during next vacuum. Try adding Newscents to give a refreshing scent to your carpet cleaning job! Premium crystallization technology bonds to soil and prevents it from reattaching to the carpet Does not require hot water extraction, improving efficiency Dries quickly Easy to vacuum Watch it work: Sorry, your browser doesn't support embedded videos.
-  Updated: 2026-04-11T05:27:48Z
+  Updated: 2026-04-19T09:17:08Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -127,7 +127,7 @@
   Availability: Available
   Price: $23.75 USD
 - [Encaps -  Premium Encapsulation Carpet Cleaner 4 Gal | Bluegreen Magic](https://bluegreenmagic.com/products/encaps-4-gal): Purchase Encaps Premium Carpet Cleaner in bulk today. Fast delivery, orders over $400 get FREE shipping. Shop Bluegreen Magic today.
-  Updated: 2026-04-07T18:20:28Z
+  Updated: 2026-04-14T16:02:08Z
   Vendor: Bluegreen Magic
   Product Type: 
   Availability: Available
@@ -144,7 +144,7 @@
 ## Collections
 
 - [Carpet Cleaning Chemicals](https://bluegreenmagic.com/collections/carpet-cleaning-chemicals): Explore Bluegreen Magic carpet cleaning chemicals made for professionals. Our top of the line products our  to leave carpet clean and refreshed.*
-  Updated: 2026-04-11T11:40:01Z
+  Updated: 2026-04-15T11:34:54Z
   Total Products: 13
 - [Starter Packs & Samples](https://bluegreenmagic.com/collections/starter-packs-samples)
   Updated: 2026-03-31T23:31:18Z
