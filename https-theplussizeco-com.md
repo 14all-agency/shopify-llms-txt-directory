@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2026-04-09T00:00:40.332Z
+- Updated At: 2026-04-20T00:00:41.568Z
 
 ## Products
 
@@ -22,13 +22,6 @@
   - [10XL](https://theplussizeco.com/products/red-floral-cotton-suit-set-with-mandarin-neck?variant=44944728129589)
     Availability: Available
     Price: ₹1,294.00 INR
-- [Firozi Floral Cotton Straight Cut Suit - The Plus Size Co.](https://theplussizeco.com/products/firozi-floral-cotton-straight-cut-suit): A soothing firozi hue adorned with our Firozi Floral Cotton Straight Cut Suit. Features cotton fabric and 3/4th sleeves. Paired with bottom and dupatta. Sizes in XS to 10XL.
-  Updated: 2026-03-31T09:10:08Z
-  Vendor: The Plus Size Co.
-  Product Type: Suit Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Firozi_Floral_Cotton_Straight_Cut_Suit_9.jpg?v=1756357011
-  Price: ₹1,295.00 INR
 - [Green Cotton Floral Afghani Salwar Suit - The Plus  Size Co.](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit): Breathe fresh in florals with our Green Cotton Floral Afghani Salwar Suit. Features cotton fabric and N neckline. Sizes in XL to 10XL with free customization.
   Updated: 2026-02-08T15:53:56Z
   Vendor: The Plus Size Co.
@@ -140,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_25_91ff2da7-d54a-466c-83df-770f8c2f666c.png?v=1757677530
   Price: ₹794.00 INR
 - [Plus Size Peacock Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/peacock-floral-rayon-night-gown): Every night feels cozy with our Peacock Floral Rayon Night Gown With Pocket. Features rayon fabric and half sleeves. Sizes in XL to 10XL.
-  Updated: 2026-02-03T07:10:20Z
+  Updated: 2026-04-12T03:55:47Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
@@ -161,7 +154,7 @@
     Availability: Available
     Price: ₹795.00 INR
   - [10XL](https://theplussizeco.com/products/peacock-floral-rayon-night-gown?variant=44892494495797)
-    Availability: Available
+    Availability: Not Available
     Price: ₹795.00 INR
 - [Plus Size Pink Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/pink-floral-rayon-night-gown): Dreamy nights start with our Pink Floral Rayon Night Gown With Pocket. Rayon fabric and V neckline.
   Updated: 2025-10-06T18:55:52Z
@@ -327,7 +320,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_4_b000a99c-7fa2-4c57-97ea-94d345936026.png?v=1770187728
   Price: ₹994.00 INR
 - [Plus Size Soft Pink Striped Co-ord Set With Pockets- The Plus Size](https://theplussizeco.com/products/soft-pink-striped-co-ord-set-with-pockets): A pastel dream designed with our Soft Pink Striped Co-ord Set With Pockets. Features polyester and collar neckline. paired with pant. Size in XL to 10XL.
-  Updated: 2026-01-06T06:47:49Z
+  Updated: 2026-04-10T08:55:13Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -401,7 +394,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeRoyalElephantPrintedCo-ordSet_6.jpg?v=1753348744
   Price: ₹995.00 INR
 - [Plus Size Royal Safari Printed Cotton Co-ord Set- The Plus Size Co.](https://theplussizeco.com/products/royal-safari-printed-cotton-co-ord-set): Rule the day in style with our Royal Safari Printed Cotton Co-ord Set. Features cotton fabric and V neckline. Sizes in XL to 10XL.
-  Updated: 2026-01-31T04:53:53Z
+  Updated: 2026-04-11T11:03:56Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -518,13 +511,6 @@
   - [10XL](https://theplussizeco.com/products/vibrant-blue-digital-printed-dress-with-pockets?variant=44689800953909)
     Availability: Available
     Price: ₹994.00 INR
-- [Plus Size Orange Digital Printed Co-ord Set- The Plus Size Co.](https://theplussizeco.com/products/orange-digital-printed-co-ord-set): Brighten your vibe with our Orange Digital Printed Co-ord Set. Features poly satin fabric and v neckline. Paired with Pant. Sizes in XL to 10XL.
-  Updated: 2026-01-15T06:09:32Z
-  Vendor: The Plus Size Co.
-  Product Type: Co-ord Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Orange_Digital_Printed_Co-ord_Set.png?v=1754463366
-  Price: ₹1,195.00 INR
 - [Plus Size Vibrant Blue Digital Printed Co-ord Set- The Plus Size Co.](https://theplussizeco.com/products/vibrant-blue-digital-printed-co-ord-set): Turn everyday into a statement with our Vibrant Blue Digital Printed Co-ord Set. Features modal poly satin and V neckline. Paired with pant. Sizes in XL to 10XL.
   Updated: 2026-02-03T18:20:04Z
   Vendor: The Plus Size Co.
@@ -667,7 +653,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_9_1a1eca13-bef5-4088-87d5-cedc0cf71264.png?v=1769844234
   Price: ₹1,294.00 INR
 - [Maroon Floral Printed Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/maroon-floral-printed-cotton-suit-set): Embrace everyday elegance with our Maroon Floral Printed Cotton Suit Set. Features cotton fabric and V cut neckline. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2026-03-27T06:16:17Z
+  Updated: 2026-04-18T11:48:08Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -761,7 +747,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeOrangeFloralSuitSet_1_f987ef9c-9cba-4496-a701-d7b5a35e1b14.png?v=1765952532
   Price: ₹1,295.00 INR
 - [Pink Bandhani Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-bandhani-cotton-suit-set): Comfort-led cotton with our Pink Bandhani Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2026-04-02T19:11:47Z
+  Updated: 2026-04-10T11:40:57Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -984,13 +970,13 @@
   Updated: 2025-07-17T18:57:34Z
   Total Products: 0
 - [Plus Size Co-ord Sets for Office & Casual Wear | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-coord-sets): Shop Stylish Plus Size Co-ord Sets for Women in sizes XL to 10XL. From Casual to office Wear explore trendy & comfortable two-piece sets designed for curves.
-  Updated: 2026-02-04T06:47:37Z
+  Updated: 2026-04-17T06:00:00Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
-  Updated: 2026-04-03T11:24:25Z
+  Updated: 2026-04-19T11:30:55Z
   Total Products: 62
 - [Plus Size Night Gowns for Women | Sleepwear up to 10XL – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-nightwear): Shop Comfy and Stylish Plus Size Night Gowns for Women in soft, breathable fabrics. Sizes from XL to 10XL. Perfect for restful nights at budget-friendly prices.
-  Updated: 2026-02-09T12:21:17Z
+  Updated: 2026-04-12T11:29:05Z
   Total Products: 8
 - [Plus Size Kurtas & Tunics for Women | Trendy Ethnic Wear – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurtas): Discover Plus Size Kurtas and Tunics for Women designed for comfort & style. Available up to 10XL. Shop ethnic wear for every curve at The Plus Size Co.
   Updated: 2026-02-02T12:21:02Z
@@ -999,29 +985,29 @@
   Updated: 2026-02-03T05:47:39Z
   Total Products: 19
 - [Affordable Plus Size Office Wear for Women  | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-office-wear): Upgrade your Work Wardrobe with Stylish and Budget-Friendly Plus Size Office Wear. Explore Suits, Co-ord Sets, Kurtas & more in Sizes XL to 10XL.
-  Updated: 2026-03-31T11:24:38Z
+  Updated: 2026-04-19T11:30:55Z
   Total Products: 25
 - [Plus Size Vacation Wear – Dresses, Kurtas & Co-ords| The Plus Size Co.](https://theplussizeco.com/collections/plus-size-vacation-wear): Plan your getaway in style with our Plus Size Vacation Wear. Shop Breezy Dresses, Chic Kurtas & Comfy Co-ord Sets in Sizes XL to 10XL. Travel-friendly & trendy!
-  Updated: 2026-02-04T06:44:26Z
+  Updated: 2026-04-17T06:00:00Z
   Total Products: 40
 - [Trending Products](https://theplussizeco.com/collections/plus-size-trending-products)
-  Updated: 2026-03-27T11:25:25Z
+  Updated: 2026-04-19T11:30:55Z
   Total Products: 12
 - [Plus Size Ethnic Wear Under ₹699 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-699): Discover Budget-friendly Plus Size Fashion under ₹699! Shop Kurtas, Tunics, Tops & More in 
 Sizes XL to 10XL without compromising on style or comfort.
   Updated: 2026-03-25T11:48:05Z
   Total Products: 46
 - [Affordable Plus Size Styles Under ₹799 – Upto 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-799): Explore Budget-friendly Plus Size Kurtas & Nightwear under ₹799 at The Plus Size Co. Stylish, Comfortable & Size-inclusive Clothing from XL to 10XL!
-  Updated: 2026-03-25T11:48:05Z
+  Updated: 2026-04-12T11:29:05Z
   Total Products: 56
 - [Trendy Plus Size Styles Under ₹999 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-899): Discover Stylish Plus Size Fashion under ₹999 at The Plus Size Co. Shop Co-ord Sets, Night Gowns, Kurtas, Tops & Dresses in sizes XL to 10XL. Budget-friendly!
-  Updated: 2026-03-25T11:48:05Z
+  Updated: 2026-04-12T11:29:05Z
   Total Products: 61
 - [Plus Size Ethnic Wear Under ₹999 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-999): Discover Stylish Plus Size Fashion under ₹999 at The Plus Size Co. Shop Co-ord Sets, Night Gowns, Kurtas, Tops & Dresses in sizes XL to 10XL. Budget-friendly, curve-loving fits!
-  Updated: 2026-03-25T11:48:05Z
+  Updated: 2026-04-12T11:29:05Z
   Total Products: 90
 - [Western Wear](https://theplussizeco.com/collections/western-wear-1)
-  Updated: 2026-02-03T05:20:10Z
+  Updated: 2026-04-17T06:00:00Z
   Total Products: 45
 - [Kurtas](https://theplussizeco.com/collections/kurtas)
   Updated: 2026-03-20T11:25:01Z
