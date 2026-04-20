@@ -6,21 +6,21 @@
 - Timezone: Europe/Paris
 - Created At: 2025-10-19T15:48:08Z
 - Contact Email: contact@holavox.io
-- Updated At: 2026-04-13T00:00:21.013Z
+- Updated At: 2026-04-20T00:00:30.833Z
 
 Traducteur vocal instantané HOLAVOX
 
 ## Products
 
 - [Traducteur vocal instantané portable - HOLAVOX](https://holavox.io/products/holavox-traducteur-vocal-instantane-portable): Traducteur vocal instantané portable - HOLAVOX. Traduction en ligne ou en mode hors-ligne, carte SIM intégrée. Simple, rapide et précis
-  Updated: 2026-04-12T21:25:36Z
+  Updated: 2026-04-17T02:11:23Z
   Vendor: Holavox
   Product Type: traducteur vocal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/1_image_traducteur_avec_logo_premium_noir.jpg?v=1770933736
   Price: 139,90 € EUR
 - [Ecouteurs traducteurs sans fil](https://holavox.io/products/ecouteurs-traducteurs-sans-fil): Ecouteurs traducteurs sans fil Traduction instantanée de nombreuses langues en Bluetooth ou tout simplement pour écouter de la musique. Traduction instantanée
-  Updated: 2026-04-06T03:57:05Z
+  Updated: 2026-04-16T04:27:08Z
   Vendor: Holavox
   Product Type: écouteurs de traduction
   Availability: Available
