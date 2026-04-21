@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-10-28T06:19:18Z
 - Contact Email: info@palaisdecirce.com
-- Updated At: 2026-04-11T18:49:02.375Z
+- Updated At: 2026-04-21T00:00:25.825Z
 
 ## Products
 
@@ -462,7 +462,7 @@
   Image: https://cdn.shopify.com/s/files/1/0906/1983/8766/files/75A7934.jpg?v=1773929064
   Price: ₹3,999.00 INR
 - [The Bordeaux](https://palaisdecirce.com/products/the-bordeaux): A study in depth. Crafted from 100% genuine leather, Bordeaux carries a quiet richness; its deep tone evolving with time and use. Structured yet supple, it holds form while adapting to its owner. Inside, a considered layout allows for seamless organization without excess. Each detail reflects precision, designed for longevity beyond seasons. The leather is responsibly sourced, selected for its strength and integrity. Details 100% genuine leather Bifold construction Multiple card slots Cash compartment Hand-finished edges
-  Updated: 2026-04-06T12:21:56Z
+  Updated: 2026-04-17T10:39:57Z
   Vendor: Circe
   Product Type: 
   Availability: Available
@@ -486,16 +486,16 @@
 ## Collections
 
 - [Chapter One: The Summoning](https://palaisdecirce.com/collections/chapter-one-the-summoning): The Summoning marks the first call of Circe—a collection steeped in dark elegance and undeniable allure. Embrace your inner enchantress and delve into a spellbinding journey. Each piece is a tribute to the intoxicating allure of what is concealed, rather than revealed. It is in the veiled, the glimpsed, the dark recesses, that desire takes flight. There's a striking power that lies in mystery—crafted for the woman who embraces her strength and isn’t afraid to wield it. This is the call to the bold, the untamed, the enchanting. The ritual has begun. Will you answer the summons?
-  Updated: 2026-03-26T18:47:47Z
+  Updated: 2026-04-18T09:36:44Z
   Total Products: 17
 - [NEW ARRIVALS](https://palaisdecirce.com/collections/new-arrivals)
-  Updated: 2026-03-26T18:47:47Z
+  Updated: 2026-04-18T09:36:44Z
   Total Products: 10
 - [BLOODCRIES](https://palaisdecirce.com/collections/bloodcries): BLOODCRIES is born from pressure, what happens when restraint holds for too long and finally learns to speak. Anchored by The Frostbark and The Shrills Top, this range explores silence as a  and desire as an act of resistance. Structured denim is crushed, set, and hardened by hand to mimic barked surfaces, armour that remembers impact. The Frostbark stands rigid yet responsive, sleeveless and cropped, exposing defiance without softness. It doesn’t drape. It holds. The Shrills Top answers differently. Sculpted to cling, cut, and command, it moves like a siren mid-song, sharp lines softened by fluidity, tension pulled tight against the body. It frames power and allure in equal measure, never asking permission, never needing volume. Every detail is deliberate: the pressure of the fit, the control in the construction, the drama that lingers without spectacle. This is not comfort. This is seduction sharpened. Bloodcries is for moments when silence feels louder than sound.When being heard doesn’t require a voice.When desire turns . Cold in finish.Lethal in intention.
-  Updated: 2026-03-26T18:47:47Z
+  Updated: 2026-04-18T09:36:44Z
   Total Products: 2
 - [The Man She Lets In](https://palaisdecirce.com/collections/the-man-she-lets-in)
-  Updated: 2026-04-05T11:19:48Z
+  Updated: 2026-04-17T11:23:21Z
   Total Products: 4
 
 ## Store Pages
