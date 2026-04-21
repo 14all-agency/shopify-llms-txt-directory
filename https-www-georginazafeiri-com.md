@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-14T11:11:55Z
 - Contact Email: hello@georginazafeiri.com
-- Updated At: 2026-04-12T00:00:31.415Z
+- Updated At: 2026-04-21T00:00:35.368Z
 
 ## Products
 
@@ -1604,6 +1604,13 @@
   - [3 hours](https://www.georginazafeiri.com/products/private-art-tuition-in-norfolk-for-adults-and-children?variant=53585519804743)
     Availability: Available
     Price: £90.00 GBP
+- [Georgina Zafeiri, Overflow Pipe, The Channel, Flowton, 2024, graphite, 14.6 x 19.3cm, £350](https://www.georginazafeiri.com/products/georgina-zafeiri-overflow-pipe-the-channel-flowton-2024-graphite-14-6-x-19-3cm-350)
+  Updated: 2026-04-20T12:49:17Z
+  Vendor: Georgina Zafeiri
+  Product Type: Giclée
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0913/8926/4199/files/7458665292ba4146a2fbcc97cdbfa22f.jpg?v=1776689355
+  Price: £100.00 GBP
 
 ## Collections
 
@@ -1699,6 +1706,14 @@
     Updated: 2026-03-18T10:34:00Z
     Author: Georgina Talfana
     Tags: #graphite, #graphitedrawing, #switzerland, #verbier
+  - [In my new studio](https://www.georginazafeiri.com/blogs/news/in-my-new-studio)
+    Updated: 2026-04-15T16:46:06Z
+    Author: Georgina Talfana
+    Tags: #acrylicpainting, #mountainpainting, #switzerland, #verbier
+  - [Painting, art, moves people beyond which is explicable.](https://www.georginazafeiri.com/blogs/news/painting-art-moves-people-beyond-which-is-explicable)
+    Updated: 2026-04-16T12:32:10Z
+    Author: Georgina Talfana
+    Tags: #acrylicpainting, #mountainpainting, #switzerland, #verbier
 
 ## Store Pages
 
