@@ -6,428 +6,390 @@
 - Timezone: America/New_York
 - Created At: 2025-12-07T02:02:20Z
 - Contact Email: davegrove0072@gmail.com
-- Updated At: 2026-04-13T11:19:22.926Z
+- Updated At: 2026-04-21T00:00:24.286Z
 
 ## Products
 
-- [Inaugural New Era® Performance Dash Adjustable Cap](https://www.wrongsideofdaball.com/products/1st-design-sunrise): Buy Inaugural New Era Performance Dash Adjustable Cap for left handed golfers. Premium golf hat built for comfort, fit, and style across US & Canada.
-  Updated: 2026-04-13T10:20:43Z
+- [Buy Performance Dash Adjustable Cap | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/inaugural-new-era-performance-dash-adjustable-cap): Buy Inaugural New Era Performance Dash Adjustable Cap for left handed golfers. Premium golf hat built for comfort, fit, and style across US & Canada.
+  Updated: 2026-04-14T10:55:48Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12056898_f_NE209_3495_f.jpg?v=1770324773
-  - [White / ONE SIZE](https://www.wrongsideofdaball.com/products/1st-design-sunrise?variant=43325853368403)
+  - [White / ONE SIZE](https://www.wrongsideofdaball.com/products/inaugural-new-era-performance-dash-adjustable-cap?variant=43325853368403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12056898_f_NE209_3495_f.jpg?v=1770324773
     Price: $35.00 USD
-  - [Royal / ONE SIZE](https://www.wrongsideofdaball.com/products/1st-design-sunrise?variant=43432624488531)
+  - [Royal / ONE SIZE](https://www.wrongsideofdaball.com/products/inaugural-new-era-performance-dash-adjustable-cap?variant=43432624488531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12056898_f_NE209_1c0f_f.jpg?v=1770324774
     Price: $35.00 USD
-  - [Graphite / ONE SIZE](https://www.wrongsideofdaball.com/products/1st-design-sunrise?variant=43432624521299)
+  - [Graphite / ONE SIZE](https://www.wrongsideofdaball.com/products/inaugural-new-era-performance-dash-adjustable-cap?variant=43432624521299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12056898_f_NE209_1d26_f.jpg?v=1770324774
     Price: $35.00 USD
-  - [Black / ONE SIZE](https://www.wrongsideofdaball.com/products/1st-design-sunrise?variant=44010602790995)
+  - [Black / ONE SIZE](https://www.wrongsideofdaball.com/products/inaugural-new-era-performance-dash-adjustable-cap?variant=44010602790995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12056898_f_NE209_c6cf_f.jpg?v=1770324773
     Price: $35.00 USD
-- [Left Hand Strong Golf T-Shirt | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/2nd-design-lh-strong): Check out Left Hand Strong golf t shirt for left handed players. Comfortable, stylish golf clothing t shirt designed for lefty golfers in US & Canada. Buy now!
-  Updated: 2026-04-13T10:20:44Z
+- [Buy Left Hand Strong Golf T-Shirt | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/left-hand-strong-t-shirt): Check out Left Hand Strong golf t shirt for left handed players. Comfortable, stylish golf clothing t shirt designed for lefty golfers in US & Canada. Buy now!
+  Updated: 2026-04-14T10:56:45Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12200384_f_G200_95_f.jpg?v=1773356653
-  - [Gray / S](https://www.wrongsideofdaball.com/products/2nd-design-lh-strong?variant=43326205395027)
+  - [Gray / S](https://www.wrongsideofdaball.com/products/left-hand-strong-t-shirt?variant=43326205395027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12200384_f_G200_95_f.jpg?v=1773356653
     Price: $35.00 USD
-  - [Gray / M](https://www.wrongsideofdaball.com/products/2nd-design-lh-strong?variant=43326205427795)
+  - [Gray / M](https://www.wrongsideofdaball.com/products/left-hand-strong-t-shirt?variant=43326205427795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12200384_f_G200_95_f.jpg?v=1773356653
     Price: $35.00 USD
-  - [Gray / L](https://www.wrongsideofdaball.com/products/2nd-design-lh-strong?variant=43326205460563)
+  - [Gray / L](https://www.wrongsideofdaball.com/products/left-hand-strong-t-shirt?variant=43326205460563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12200384_f_G200_95_f.jpg?v=1773356653
     Price: $35.00 USD
-  - [Gray / XL](https://www.wrongsideofdaball.com/products/2nd-design-lh-strong?variant=43326205493331)
+  - [Gray / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-t-shirt?variant=43326205493331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12200384_f_G200_95_f.jpg?v=1773356653
     Price: $35.00 USD
-  - [Gray / 2XL](https://www.wrongsideofdaball.com/products/2nd-design-lh-strong?variant=43326205526099)
+  - [Gray / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-t-shirt?variant=43326205526099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12200384_f_G200_95_f.jpg?v=1773356653
     Price: $35.00 USD
-  - [Gray / 3XL](https://www.wrongsideofdaball.com/products/2nd-design-lh-strong?variant=43326205558867)
+  - [Gray / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-t-shirt?variant=43326205558867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12200384_f_G200_95_f.jpg?v=1773356653
     Price: $35.00 USD
-- [Wrong Side of Da Ball Performance Piqu Polo](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball): Play bold in Wrong Side of Da Ball performance piqu polo for left handed golfers. Comfortable, stylish golf apparel made for lefty players, buy now.
-  Updated: 2026-04-13T10:26:35Z
+- [Buy Wrong Side of Da Ball Piqu Polo | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo): Play bold in Wrong Side of Da Ball performance piqu polo for left handed golfers. Comfortable, stylish golf apparel made for lefty players, buy now.
+  Updated: 2026-04-14T11:21:38Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9i_f.jpg?v=1772135241
-  - [WHITE 701 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400343945299)
+  - [WHITE 701 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400343945299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [WHITE 701 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400343978067)
+  - [WHITE 701 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400343978067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [WHITE 701 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344010835)
+  - [WHITE 701 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344010835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [WHITE 701 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344043603)
+  - [WHITE 701 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344043603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [WHITE 701 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344076371)
+  - [WHITE 701 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344076371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [WHITE 701 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344109139)
+  - [WHITE 701 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344109139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [TRUE ROYAL 438 / XS](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344207443)
+  - [TRUE ROYAL 438 / XS](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344207443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3s_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [TRUE ROYAL 438 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344240211)
+  - [TRUE ROYAL 438 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344240211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3s_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [TRUE ROYAL 438 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344272979)
+  - [TRUE ROYAL 438 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344272979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3s_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [TRUE ROYAL 438 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344305747)
+  - [TRUE ROYAL 438 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344305747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3s_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [TRUE ROYAL 438 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344338515)
+  - [TRUE ROYAL 438 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344338515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3s_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [TRUE ROYAL 438 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344371283)
+  - [TRUE ROYAL 438 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344371283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3s_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [TRUE ROYAL 438 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344404051)
+  - [TRUE ROYAL 438 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344404051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3s_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ELECT BLUE 485 / XS](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344535123)
+  - [ELECT BLUE 485 / XS](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344535123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_5n_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ELECT BLUE 485 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344567891)
+  - [ELECT BLUE 485 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344567891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_5n_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ELECT BLUE 485 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344600659)
+  - [ELECT BLUE 485 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344600659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_5n_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ELECT BLUE 485 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344633427)
+  - [ELECT BLUE 485 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344633427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_5n_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ELECT BLUE 485 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344666195)
+  - [ELECT BLUE 485 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344666195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_5n_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ELECT BLUE 485 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344698963)
+  - [ELECT BLUE 485 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344698963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_5n_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ELECT BLUE 485 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344731731)
+  - [ELECT BLUE 485 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344731731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_5n_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CHARITY PINK MP / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344862803)
+  - [CHARITY PINK MP / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344862803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_mp_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CHARITY PINK MP / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344895571)
+  - [CHARITY PINK MP / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344895571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_mp_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CHARITY PINK MP / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344928339)
+  - [CHARITY PINK MP / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344928339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_mp_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CHARITY PINK MP / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344961107)
+  - [CHARITY PINK MP / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344961107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_mp_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CHARITY PINK MP / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400344993875)
+  - [CHARITY PINK MP / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400344993875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_mp_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CHARITY PINK MP / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345026643)
+  - [CHARITY PINK MP / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345026643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_mp_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [BLACK 703 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345157715)
+  - [BLACK 703 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345157715)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [BLACK 703 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345190483)
+  - [BLACK 703 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345190483)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [BLACK 703 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345223251)
+  - [BLACK 703 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345223251)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [BLACK 703 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345256019)
+  - [BLACK 703 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345256019)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [BLACK 703 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345288787)
+  - [BLACK 703 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345288787)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [BLACK 703 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345321555)
+  - [BLACK 703 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345321555)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_9k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CLASSIC RED 850 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345485395)
+  - [CLASSIC RED 850 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345485395)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_fb_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CLASSIC RED 850 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345518163)
+  - [CLASSIC RED 850 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345518163)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_fb_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CLASSIC RED 850 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345550931)
+  - [CLASSIC RED 850 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345550931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_fb_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CLASSIC RED 850 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345583699)
+  - [CLASSIC RED 850 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345583699)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_fb_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CLASSIC RED 850 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345616467)
+  - [CLASSIC RED 850 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345616467)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_fb_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CLASSIC RED 850 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345649235)
+  - [CLASSIC RED 850 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345649235)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_fb_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CAMPUS PRPLE 427 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345813075)
+  - [CAMPUS PRPLE 427 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345813075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CAMPUS PRPLE 427 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345845843)
+  - [CAMPUS PRPLE 427 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345845843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CAMPUS PRPLE 427 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345878611)
+  - [CAMPUS PRPLE 427 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345878611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CAMPUS PRPLE 427 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345911379)
+  - [CAMPUS PRPLE 427 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345911379)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CAMPUS PRPLE 427 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345944147)
+  - [CAMPUS PRPLE 427 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345944147)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [CAMPUS PRPLE 427 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400345976915)
+  - [CAMPUS PRPLE 427 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400345976915)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_3i_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ACID GREEN 645 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400346107987)
+  - [ACID GREEN 645 / S](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400346107987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_7k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ACID GREEN 645 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400346140755)
+  - [ACID GREEN 645 / M](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400346140755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_7k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ACID GREEN 645 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400346173523)
+  - [ACID GREEN 645 / L](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400346173523)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_7k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ACID GREEN 645 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400346206291)
+  - [ACID GREEN 645 / XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400346206291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_7k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ACID GREEN 645 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400346239059)
+  - [ACID GREEN 645 / 2XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400346239059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_7k_f.jpg?v=1772135241
     Price: $50.00 USD
-  - [ACID GREEN 645 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball?variant=43400346271827)
+  - [ACID GREEN 645 / 3XL](https://www.wrongsideofdaball.com/products/wrong-side-of-da-ball-polo?variant=43400346271827)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12051392_f_88181_7k_f.jpg?v=1772135241
     Price: $50.00 USD
-- [Try to Keep Up Tee Shirt | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/try-to-keep-up): Stay ahead with Try to Keep Up tee shirt for left handed golfers. Stylish, comfortable golf clothing t shirt made for lefty players, buy now in US & Canada.
-  Updated: 2026-04-13T10:26:33Z
+- [Try to Keep Up Tee Shirt | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt): Stay ahead with Try to Keep Up tee shirt for left handed golfers. Stylish, comfortable golf clothing t shirt made for lefty players, buy now in US & Canada.
+  Updated: 2026-04-15T11:43:46Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f.jpg?v=1770324283
-  - [TURF GREEN / S](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691112019)
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f_4474d2d8-c6e2-496d-b4ae-f0a9317f4272.jpg?v=1776210217
+  - [TURF GREEN / S](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691112019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f.jpg?v=1770324283
     Price: $35.00 USD
-  - [TURF GREEN / M](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691144787)
+  - [TURF GREEN / M](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691144787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f.jpg?v=1770324283
     Price: $35.00 USD
-  - [TURF GREEN / L](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691177555)
+  - [TURF GREEN / L](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691177555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f.jpg?v=1770324283
     Price: $35.00 USD
-  - [TURF GREEN / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691210323)
+  - [TURF GREEN / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691210323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f.jpg?v=1770324283
     Price: $35.00 USD
-  - [TURF GREEN / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691243091)
+  - [TURF GREEN / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691243091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f.jpg?v=1770324283
     Price: $35.00 USD
-  - [TURF GREEN / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691275859)
+  - [TURF GREEN / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691275859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_ax_f.jpg?v=1770324283
     Price: $35.00 USD
-  - [ROYAL / S](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691505235)
+  - [ROYAL / S](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691505235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [ROYAL / M](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691538003)
+  - [ROYAL / M](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691538003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [ROYAL / L](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691570771)
+  - [ROYAL / L](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691570771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [ROYAL / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691603539)
+  - [ROYAL / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691603539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [ROYAL / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691636307)
+  - [ROYAL / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691636307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [ROYAL / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691669075)
+  - [ROYAL / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691669075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [ROYAL / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691701843)
+  - [ROYAL / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691701843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [ROYAL / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691734611)
+  - [ROYAL / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691734611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_53_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / S](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691767379)
+  - [RED / S](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691767379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / M](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691800147)
+  - [RED / M](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691800147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / L](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691832915)
+  - [RED / L](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691832915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691865683)
+  - [RED / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691865683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691898451)
+  - [RED / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691898451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691931219)
+  - [RED / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691931219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691963987)
+  - [RED / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691963987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [RED / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404691996755)
+  - [RED / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404691996755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_52_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / S](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692291667)
+  - [BLACK / S](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692291667)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / M](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692324435)
+  - [BLACK / M](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692324435)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / L](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692357203)
+  - [BLACK / L](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692357203)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692389971)
+  - [BLACK / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692389971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692422739)
+  - [BLACK / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692422739)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692455507)
+  - [BLACK / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692455507)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692488275)
+  - [BLACK / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692488275)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [BLACK / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692521043)
+  - [BLACK / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692521043)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_51_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / S](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692553811)
+  - [WHITE / S](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692553811)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / M](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692586579)
+  - [WHITE / M](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692586579)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / L](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692619347)
+  - [WHITE / L](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692619347)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692652115)
+  - [WHITE / XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692652115)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692684883)
+  - [WHITE / 2XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692684883)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692717651)
+  - [WHITE / 3XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692717651)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692750419)
+  - [WHITE / 4XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692750419)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-  - [WHITE / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up?variant=43404692783187)
+  - [WHITE / 5XL](https://www.wrongsideofdaball.com/products/try-to-keep-up-tee-shirt?variant=43404692783187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12050768_f_G500_00_f.jpg?v=1771537146
     Price: $35.00 USD
-- [WS Men's Zone Performance Quarter-Zip Pullover](https://www.wrongsideofdaball.com/products/left-of-left-pullover): Layer up with Left of Left pullover for left handed golfers. Premium, comfortable golf apparel made for lefty players seeking style and performance, buy now.
-  Updated: 2026-04-13T10:24:13Z
+- [Buy Performance Quarter-Zip Pullover | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/left-of-left-pullover): Layer up with Left of Left pullover for left handed golfers. Premium, comfortable golf apparel made for lefty players seeking style and performance, buy now.
+  Updated: 2026-04-14T11:14:27Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
@@ -592,8 +554,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12059061_f_TT31_9k_f.jpg?v=1772667522
     Price: $55.00 USD
-- [Wrong Side Long Sleeve Pullover | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/logo-pullover-wrong-side): Layer up with logo pullover Wrong Side for left handed golfers. Comfortable, stylish golf apparel designed for performance, buy now in US & Canada.
-  Updated: 2026-04-13T10:25:44Z
+- [Buy Wrong Side Long Sleeve Pullover | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/logo-pullover-wrong-side): Layer up with logo pullover Wrong Side for left handed golfers. Comfortable, stylish golf apparel designed for performance, buy now in US & Canada.
+  Updated: 2026-04-14T11:16:53Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
@@ -742,8 +704,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12063628_f_TT31_9k_f.jpg?v=1772664733
     Price: $55.00 USD
-- [I Play Lefty Hat | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/i-play-lefty-hat): Show your pride with I Play Lefty hat for left handed golfers. Stylish, comfortable golf cap designed for lefty players, buy now across US & Canada.
-  Updated: 2026-04-13T10:22:01Z
+- [I Play Lefty Hat | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/i-play-lefty-hat): Show your pride with I Play Lefty hat for left handed golfers. Stylish, comfortable golf cap designed for lefty players, buy now across US & Canada.
+  Updated: 2026-04-14T11:09:48Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
@@ -780,8 +742,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12064497_f_YP180_51_f.jpg?v=1773188340
     Price: $45.00 USD
-- [Blue Muscle Left Arm Golf Hat | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/blue-muscle-left-arm-hat): The Blue Muscle Left Arm golf hat for left handed players. Stylish, comfortable golf cap designed for lefty golfers seeking performance in US & Canada. Buy Now!
-  Updated: 2026-04-13T10:20:46Z
+- [Buy Blue Muscle Left Arm Golf Hat | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/blue-muscle-left-arm-hat): The Blue Muscle Left Arm golf hat for left handed players. Stylish, comfortable golf cap designed for lefty golfers seeking performance in US & Canada. Buy Now!
+  Updated: 2026-04-14T10:58:16Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
@@ -806,8 +768,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12068049_f_Y6007_51_f.jpg?v=1770322636
     Price: $35.00 USD
-- [Drive For Show Lefty Golf Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/drive-for-show-tee): Step up your game with Drive For Show lefty golf tee. Comfortable, stylish golf clothing t shirt made for left handed players, buy now across US & Canada.
-  Updated: 2026-04-13T10:20:48Z
+- [Buy Drive For Show Lefty Golf Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/drive-for-show-tee): Step up your game with Drive For Show lefty golf tee. Comfortable, stylish golf clothing t shirt made for left handed players, buy now across US & Canada.
+  Updated: 2026-04-14T11:05:41Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
@@ -972,8 +934,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12072513_f_N3142_51_f.jpg?v=1772675140
     Price: $45.00 USD
-- [Wrong Side - Hat for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/wrong-side-hat): Top off your look with Wrong Side hat for left handed golfers. Stylish, comfortable golf cap designed for lefty players seeking performance, buy now.
-  Updated: 2026-04-13T10:26:34Z
+- [Buy Wrong Side - Hat for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/wrong-side-hat): Top off your look with Wrong Side hat for left handed golfers. Stylish, comfortable golf cap designed for lefty players seeking performance, buy now.
+  Updated: 2026-04-14T11:21:27Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: Golf Apparel
   Availability: Available
@@ -1008,8 +970,8 @@
   - [BLACK / L/XL](https://www.wrongsideofdaball.com/products/wrong-side-hat?variant=43416128127059)
     Availability: Available
     Price: $30.00 USD
-- [Green Wrong Side Flex Fit  Delta X-Cap](https://www.wrongsideofdaball.com/products/green-wrong-side-hat): Upgrade your look with Green Wrong Side Flex Fit Delta X-Cap. Premium golf hat built for comfort and style for left handed golfers, buy now.
-  Updated: 2026-04-13T10:22:00Z
+- [Buy Green Wrong Side Flex Fit X-Cap | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/green-wrong-side-hat): Upgrade your look with Green Wrong Side Flex Fit Delta X-Cap. Premium golf hat built for comfort and style for left handed golfers, buy now.
+  Updated: 2026-04-14T11:09:25Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
@@ -1054,307 +1016,307 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12083484_f_YP180_51_f.jpg?v=1770321996
     Price: $40.00 USD
-- [Wrong Side Logo Button Up Barbados Textured Camp Shirt](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up): Upgrade your look with logo Wrong Side button up for left handed golfers. Premium, stylish golf apparel made for comfort, buy now across US & Canada.
-  Updated: 2026-04-13T10:25:45Z
+- [Wrong Side Logo Button Up Camp Shirt | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt): Upgrade your look with logo Wrong Side button up for left handed golfers. Premium, stylish golf apparel made for comfort, buy now across US & Canada.
+  Updated: 2026-04-17T18:31:39Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12084227_f_M560_12_f_56e965ed-5920-4093-820d-f85d8179654d.jpg?v=1775672170
-  - [POOL BLUE / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422003757139)
+  - [POOL BLUE / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422003757139)
     Availability: Available
     Price: $55.00 USD
-  - [POOL BLUE / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422003789907)
+  - [POOL BLUE / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422003789907)
     Availability: Available
     Price: $55.00 USD
-  - [POOL BLUE / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422003822675)
+  - [POOL BLUE / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422003822675)
     Availability: Available
     Price: $55.00 USD
-  - [POOL BLUE / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422003855443)
+  - [POOL BLUE / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422003855443)
     Availability: Available
     Price: $55.00 USD
-  - [POOL BLUE / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422003888211)
+  - [POOL BLUE / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422003888211)
     Availability: Available
     Price: $55.00 USD
-  - [POOL BLUE / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422003920979)
+  - [POOL BLUE / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422003920979)
     Availability: Available
     Price: $55.00 USD
-  - [POOL BLUE / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422003953747)
+  - [POOL BLUE / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422003953747)
     Availability: Available
     Price: $55.00 USD
-  - [PARROT RED / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004084819)
+  - [PARROT RED / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004084819)
     Availability: Available
     Price: $55.00 USD
-  - [PARROT RED / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004117587)
+  - [PARROT RED / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004117587)
     Availability: Available
     Price: $55.00 USD
-  - [PARROT RED / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004150355)
+  - [PARROT RED / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004150355)
     Availability: Available
     Price: $55.00 USD
-  - [PARROT RED / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004183123)
+  - [PARROT RED / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004183123)
     Availability: Available
     Price: $55.00 USD
-  - [PARROT RED / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004215891)
+  - [PARROT RED / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004215891)
     Availability: Available
     Price: $55.00 USD
-  - [PARROT RED / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004248659)
+  - [PARROT RED / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004248659)
     Availability: Available
     Price: $55.00 USD
-  - [PARROT RED / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004281427)
+  - [PARROT RED / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004281427)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004379731)
+  - [PALM GREEN / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004379731)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004412499)
+  - [PALM GREEN / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004412499)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004445267)
+  - [PALM GREEN / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004445267)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004478035)
+  - [PALM GREEN / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004478035)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004510803)
+  - [PALM GREEN / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004510803)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004543571)
+  - [PALM GREEN / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004543571)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004576339)
+  - [PALM GREEN / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004576339)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004609107)
+  - [PALM GREEN / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004609107)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / 5XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004641875)
+  - [PALM GREEN / 5XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004641875)
     Availability: Available
     Price: $55.00 USD
-  - [PALM GREEN / 6XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004674643)
+  - [PALM GREEN / 6XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004674643)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004707411)
+  - [KHAKI / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004707411)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004740179)
+  - [KHAKI / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004740179)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004772947)
+  - [KHAKI / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004772947)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004805715)
+  - [KHAKI / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004805715)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004838483)
+  - [KHAKI / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004838483)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004871251)
+  - [KHAKI / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004871251)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004904019)
+  - [KHAKI / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004904019)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004936787)
+  - [KHAKI / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004936787)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / 5XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422004969555)
+  - [KHAKI / 5XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422004969555)
     Availability: Available
     Price: $55.00 USD
-  - [KHAKI / 6XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005002323)
+  - [KHAKI / 6XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005002323)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005035091)
+  - [CREME / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005035091)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005067859)
+  - [CREME / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005067859)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005100627)
+  - [CREME / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005100627)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005133395)
+  - [CREME / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005133395)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005166163)
+  - [CREME / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005166163)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005198931)
+  - [CREME / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005198931)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005231699)
+  - [CREME / 3XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005231699)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005264467)
+  - [CREME / 4XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005264467)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / 5XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005297235)
+  - [CREME / 5XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005297235)
     Availability: Available
     Price: $55.00 USD
-  - [CREME / 6XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005330003)
+  - [CREME / 6XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005330003)
     Availability: Available
     Price: $55.00 USD
-  - [BLACK / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005362771)
+  - [BLACK / XS](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005362771)
     Availability: Available
     Price: $55.00 USD
-  - [BLACK / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005395539)
+  - [BLACK / S](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005395539)
     Availability: Available
     Price: $55.00 USD
-  - [BLACK / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005428307)
+  - [BLACK / M](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005428307)
     Availability: Available
     Price: $55.00 USD
-  - [BLACK / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005461075)
+  - [BLACK / L](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005461075)
     Availability: Available
     Price: $55.00 USD
-  - [BLACK / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005493843)
+  - [BLACK / XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005493843)
     Availability: Available
     Price: $55.00 USD
-  - [BLACK / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up?variant=43422005526611)
+  - [BLACK / 2XL](https://www.wrongsideofdaball.com/products/logo-wrong-side-button-up-camp-shirt?variant=43422005526611)
     Availability: Available
     Price: $55.00 USD
-- [Signature Brand Logo Flex-Fit  Delta X-Cap](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat): Buy Signature Brand Logo Flex-Fit Delta X-Cap for left handed golfers. Premium golf hat offering comfort, fit, and modern style across US & Canada.
-  Updated: 2026-04-13T10:20:45Z
+- [Brand Logo Flex-Fit  Delta X-Cap | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap): Buy Signature Brand Logo Flex-Fit Delta X-Cap for left handed golfers. Premium golf hat offering comfort, fit, and modern style across US & Canada.
+  Updated: 2026-04-14T10:13:42Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_00_f.jpg?v=1770321734
-  - [WHITE / S/M](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993064531)
+  - [WHITE / S/M](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993064531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_00_f.jpg?v=1770321734
     Price: $40.00 USD
-  - [WHITE / L/XL](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993097299)
+  - [WHITE / L/XL](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993097299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_00_f.jpg?v=1770321734
     Price: $40.00 USD
-  - [Royal / S/M](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993130067)
+  - [Royal / S/M](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993130067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_75_f.jpg?v=1770328611
     Price: $40.00 USD
-  - [Royal / L/XL](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993162835)
+  - [Royal / L/XL](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993162835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_75_f.jpg?v=1770328611
     Price: $40.00 USD
-  - [NAVY / S/M](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993195603)
+  - [NAVY / S/M](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993195603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_54_f.jpg?v=1770328611
     Price: $40.00 USD
-  - [NAVY / L/XL](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993228371)
+  - [NAVY / L/XL](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993228371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_54_f.jpg?v=1770328611
     Price: $40.00 USD
-  - [DARK GREY / S/M](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993261139)
+  - [DARK GREY / S/M](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993261139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_45_f.jpg?v=1770328611
     Price: $40.00 USD
-  - [DARK GREY / L/XL](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993293907)
+  - [DARK GREY / L/XL](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993293907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_45_f.jpg?v=1770328611
     Price: $40.00 USD
-  - [BLACK / S/M](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993326675)
+  - [BLACK / S/M](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993326675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_51_f.jpg?v=1770328611
     Price: $40.00 USD
-  - [BLACK / L/XL](https://www.wrongsideofdaball.com/products/blk-red-wrong-side-hat?variant=43425993359443)
+  - [BLACK / L/XL](https://www.wrongsideofdaball.com/products/signature-brand-logo-flex-fit--delta-x-cap?variant=43425993359443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12088636_f_YP180_51_f.jpg?v=1770328611
     Price: $40.00 USD
-- [Left Hand Strong Bahama Performance Hooded Long Sleeve T-Shirt](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie): Show your edge with Left Hand Strong hoodie for left handed golfers. Comfortable, stylish golf apparel designed for lefty players, buy now across US & Canada.
-  Updated: 2026-04-13T10:24:12Z
+- [Buy Strong Bahama Long Sleeve T-Shirt | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt): Show your edge with Left Hand Strong hoodie for left handed golfers. Comfortable, stylish golf apparel designed for lefty players, buy now across US & Canada.
+  Updated: 2026-04-14T11:13:49Z
   Vendor: WRONG SIDE OF THE BALL GOLF WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_00_f.jpg?v=1773360756
-  - [White / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427624812627)
+  - [White / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427624812627)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_00_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [White / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427624845395)
+  - [White / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427624845395)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_00_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [White / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427624878163)
+  - [White / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427624878163)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_00_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [White / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427624910931)
+  - [White / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427624910931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_00_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [White / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427624943699)
+  - [White / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427624943699)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_00_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [White / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427624976467)
+  - [White / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427624976467)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_00_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [Mint Green / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625074771)
+  - [Mint Green / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625074771)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_10_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Mint Green / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625107539)
+  - [Mint Green / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625107539)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_10_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Mint Green / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625140307)
+  - [Mint Green / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625140307)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_10_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Mint Green / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625173075)
+  - [Mint Green / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625173075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_10_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Mint Green / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625205843)
+  - [Mint Green / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625205843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_10_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Mint Green / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625238611)
+  - [Mint Green / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625238611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_10_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Heather Grey / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625336915)
+  - [Heather Grey / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625336915)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_08_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [Heather Grey / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625369683)
+  - [Heather Grey / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625369683)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_08_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [Heather Grey / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625402451)
+  - [Heather Grey / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625402451)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_08_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [Heather Grey / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625435219)
+  - [Heather Grey / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625435219)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_08_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [Heather Grey / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625467987)
+  - [Heather Grey / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625467987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_08_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [Heather Grey / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625500755)
+  - [Heather Grey / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625500755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_08_f.jpg?v=1773360756
     Price: $55.00 USD
-  - [Blue Mist / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625599059)
+  - [Blue Mist / S](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625599059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_26_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Blue Mist / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625631827)
+  - [Blue Mist / M](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625631827)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_26_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Blue Mist / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625664595)
+  - [Blue Mist / L](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625664595)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_26_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Blue Mist / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625697363)
+  - [Blue Mist / XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625697363)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_26_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Blue Mist / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625730131)
+  - [Blue Mist / 2XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625730131)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_26_f.jpg?v=1773360757
     Price: $55.00 USD
-  - [Blue Mist / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hoodie?variant=43427625762899)
+  - [Blue Mist / 3XL](https://www.wrongsideofdaball.com/products/left-hand-strong-hooded-long-sleeve-t-shirt?variant=43427625762899)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12091581_f_220P_26_f.jpg?v=1773360757
     Price: $55.00 USD
@@ -1504,134 +1466,134 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12097167_f_3010C_45_f.jpg?v=1772300035
     Price: $40.00 USD
-- [WS Ball Logo Nu Blend Quarter-Zip Cadet Collar Sweatshirt](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece): Stay warm with WS Ball Logo fleece quarter zip for left handed golfers. Comfortable, stylish golf apparel built for performance, buy now in US & Canada.
-  Updated: 2026-04-13T10:26:36Z
+- [WS Ball Logo Cadet Collar Sweatshirt | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt): Stay warm with WS Ball Logo fleece quarter zip for left handed golfers. Comfortable, stylish golf apparel built for performance, buy now in US & Canada.
+  Updated: 2026-04-14T10:13:44Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_03_f.jpg?v=1771963323
-  - [TRUE RED / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077618259)
+  - [TRUE RED / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077618259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_03_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [TRUE RED / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077651027)
+  - [TRUE RED / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077651027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_03_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [TRUE RED / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077683795)
+  - [TRUE RED / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077683795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_03_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [TRUE RED / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077716563)
+  - [TRUE RED / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077716563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_03_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [TRUE RED / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077749331)
+  - [TRUE RED / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077749331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_03_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [TRUE RED / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077782099)
+  - [TRUE RED / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077782099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_03_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ROYAL / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077814867)
+  - [ROYAL / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077814867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_53_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ROYAL / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077847635)
+  - [ROYAL / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077847635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_53_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ROYAL / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077880403)
+  - [ROYAL / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077880403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_53_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ROYAL / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077913171)
+  - [ROYAL / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077913171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_53_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ROYAL / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077945939)
+  - [ROYAL / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077945939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_53_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ROYAL / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434077978707)
+  - [ROYAL / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434077978707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_53_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [OXFORD / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078011475)
+  - [OXFORD / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078011475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_43_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [OXFORD / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078044243)
+  - [OXFORD / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078044243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_43_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [OXFORD / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078077011)
+  - [OXFORD / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078077011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_43_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [OXFORD / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078109779)
+  - [OXFORD / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078109779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_43_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [OXFORD / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078142547)
+  - [OXFORD / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078142547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_43_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [OXFORD / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078175315)
+  - [OXFORD / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078175315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_43_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [FOREST GREEN / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078208083)
+  - [FOREST GREEN / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078208083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_42_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [FOREST GREEN / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078240851)
+  - [FOREST GREEN / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078240851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_42_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [FOREST GREEN / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078273619)
+  - [FOREST GREEN / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078273619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_42_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [FOREST GREEN / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078306387)
+  - [FOREST GREEN / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078306387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_42_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [FOREST GREEN / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078339155)
+  - [FOREST GREEN / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078339155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_42_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [FOREST GREEN / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078371923)
+  - [FOREST GREEN / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078371923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_42_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ASH / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078404691)
+  - [ASH / S](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078404691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_47_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ASH / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078437459)
+  - [ASH / M](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078437459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_47_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ASH / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078470227)
+  - [ASH / L](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078470227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_47_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ASH / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078502995)
+  - [ASH / XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078502995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_47_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ASH / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078535763)
+  - [ASH / 2XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078535763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_47_f.jpg?v=1771963323
     Price: $70.00 USD
-  - [ASH / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece?variant=43434078568531)
+  - [ASH / 3XL](https://www.wrongsideofdaball.com/products/ws-ball-logo-fleece-sweatshirt?variant=43434078568531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12098978_f_995M_47_f.jpg?v=1771963323
     Price: $70.00 USD
-- [WS Ball Logo Performance Men's Plaited Polo](https://www.wrongsideofdaball.com/products/ws-ball-logo-polo): Play in comfort with WS Ball Logo performance polo for left handed golfers. Stylish, breathable golf apparel built for performance, buy now in US & Canada.
-  Updated: 2026-04-13T10:27:13Z
+- [WS Ball Logo Performance Plaited Polo | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/ws-ball-logo-polo): Play in comfort with WS Ball Logo performance polo for left handed golfers. Stylish, breathable golf apparel built for performance, buy now in US & Canada.
+  Updated: 2026-04-14T10:13:45Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
@@ -1748,8 +1710,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12100327_f_DG20_NG_f.jpg?v=1773175539
     Price: $50.00 USD
-- [Play Lefty WS Men's Zone Performance Polo](https://www.wrongsideofdaball.com/products/play-lefty-ws-polo): Play your way with Play Lefty WS polo for left handed golfers. Premium, stylish golf apparel built for comfort and performance, buy now.
-  Updated: 2026-04-13T10:25:49Z
+- [Play Lefty WS Zone Performance Polo | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/play-lefty-ws-polo): Play your way with Play Lefty WS polo for left handed golfers. Premium, stylish golf apparel built for comfort and performance, buy now.
+  Updated: 2026-04-14T10:13:42Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
@@ -1922,34 +1884,34 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12101143_f_TT51_qm_f.jpg?v=1773189265
     Price: $50.00 USD
-- [Left Hand Strong Ball Cap | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2): Make a bold statement with Left Hand Strong ball cap for left handed golfers. Premium golf hat built for comfort and style, buy now in US & Canada.
-  Updated: 2026-04-13T10:22:02Z
+- [Buy Left Hand Strong Ball Cap | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap): Make a bold statement with Left Hand Strong ball cap for left handed golfers. Premium golf hat built for comfort and style, buy now in US & Canada.
+  Updated: 2026-04-14T11:09:59Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12111855_f_6277_00_f_0cef1806-27ef-4ff7-81b6-b8b934a5e249.jpg?v=1775602464
-  - [WHITE / S/M](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865766483)
+  - [WHITE / S/M](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865766483)
     Availability: Available
     Price: $35.00 USD
-  - [WHITE / L/XL](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865799251)
+  - [WHITE / L/XL](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865799251)
     Availability: Available
     Price: $35.00 USD
-  - [ROYAL / S/M](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865832019)
+  - [ROYAL / S/M](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865832019)
     Availability: Available
     Price: $35.00 USD
-  - [ROYAL / L/XL](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865864787)
+  - [ROYAL / L/XL](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865864787)
     Availability: Available
     Price: $35.00 USD
-  - [RED / S/M](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865897555)
+  - [RED / S/M](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865897555)
     Availability: Available
     Price: $35.00 USD
-  - [RED / L/XL](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865930323)
+  - [RED / L/XL](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865930323)
     Availability: Available
     Price: $35.00 USD
-  - [GREY / S/M](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865963091)
+  - [GREY / S/M](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865963091)
     Availability: Available
     Price: $35.00 USD
-  - [GREY / L/XL](https://www.wrongsideofdaball.com/products/i-play-lefty-hat-2?variant=43442865995859)
+  - [GREY / L/XL](https://www.wrongsideofdaball.com/products/left-hand-strong-ball-cap?variant=43442865995859)
     Availability: Available
     Price: $35.00 USD
 - [WS Prove It T Shirt for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ws-prove-it-t-shirt): Make your mark with WS Prove It t shirt for left handed golfers. Stylish, comfortable golf clothing t shirt made for lefty players, buy now.
@@ -2245,288 +2207,288 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12140839_f_78181_7k_f.jpg?v=1771251112
     Price: $50.00 USD
-- [WS Lefty's Only Next Level Unisex Heavyweight Tee](https://www.wrongsideofdaball.com/products/ws-leftys-only): Show your side with WS Lefty's Only heavyweight tee for left handed golfers. Comfortable, stylish golf clothing t shirt made for lefty players, buy now.
-  Updated: 2026-04-13T10:27:14Z
+- [Buy WS Lefty's Unisex Heavyweight Tee | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee): Show your side with WS Lefty's Only heavyweight tee for left handed golfers. Comfortable, stylish golf clothing t shirt made for lefty players, buy now.
+  Updated: 2026-04-14T11:22:08Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
-  - [Tan / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945412691)
+  - [Tan / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945412691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Tan / S](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945445459)
+  - [Tan / S](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945445459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Tan / M](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945478227)
+  - [Tan / M](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945478227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Tan / L](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945510995)
+  - [Tan / L](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945510995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Tan / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945543763)
+  - [Tan / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945543763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Tan / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945576531)
+  - [Tan / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945576531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Tan / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945609299)
+  - [Tan / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945609299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_t6_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Red / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945642067)
+  - [Red / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945642067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_52_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Red / S](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945674835)
+  - [Red / S](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945674835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_52_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Red / M](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945707603)
+  - [Red / M](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945707603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_52_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Red / L](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945740371)
+  - [Red / L](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945740371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_52_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Red / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945773139)
+  - [Red / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945773139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_52_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Red / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945805907)
+  - [Red / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945805907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_52_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Red / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945838675)
+  - [Red / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945838675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_52_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Graphite Black / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945871443)
+  - [Graphite Black / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945871443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_57_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Graphite Black / S](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945904211)
+  - [Graphite Black / S](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945904211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_57_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Graphite Black / M](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945936979)
+  - [Graphite Black / M](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945936979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_57_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Graphite Black / L](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927945969747)
+  - [Graphite Black / L](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927945969747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_57_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Graphite Black / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946002515)
+  - [Graphite Black / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946002515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_57_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Graphite Black / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946035283)
+  - [Graphite Black / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946035283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_57_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Graphite Black / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946068051)
+  - [Graphite Black / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946068051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_57_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Bone / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946100819)
+  - [Bone / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946100819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_7y_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Bone / S](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946133587)
+  - [Bone / S](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946133587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_7y_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Bone / M](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946166355)
+  - [Bone / M](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946166355)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_7y_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Bone / L](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946199123)
+  - [Bone / L](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946199123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_7y_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Bone / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946231891)
+  - [Bone / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946231891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_7y_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Bone / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946264659)
+  - [Bone / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946264659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_7y_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Bone / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946297427)
+  - [Bone / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946297427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_7y_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Blue Jean / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946330195)
+  - [Blue Jean / XS](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946330195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_25_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Blue Jean / S](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946362963)
+  - [Blue Jean / S](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946362963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_25_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Blue Jean / M](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946395731)
+  - [Blue Jean / M](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946395731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_25_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Blue Jean / L](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946428499)
+  - [Blue Jean / L](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946428499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_25_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Blue Jean / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946461267)
+  - [Blue Jean / XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946461267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_25_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Blue Jean / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946494035)
+  - [Blue Jean / 2XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946494035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_25_f.jpg?v=1770947229
     Price: $40.00 USD
-  - [Blue Jean / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only?variant=43927946526803)
+  - [Blue Jean / 3XL](https://www.wrongsideofdaball.com/products/ws-leftys-only-unisex-tee?variant=43927946526803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12154166_f_7200_25_f.jpg?v=1770947229
     Price: $40.00 USD
-- [Port & Company® Fan Favorite Fleece 1/4-Zip Pullover Sweatshirt.](https://www.wrongsideofdaball.com/products/ws-logo-fleece): Layer up with WS logo fleece 1/4 zip pullover for left handed golfers. Warm, comfortable golf apparel built for performance, buy now in US & Canada.
-  Updated: 2026-04-13T10:27:15Z
+- [Port Company Fan Favorite Fleece Pullover Sweatshirt - Buy Now](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt): Layer up with WS logo fleece 1/4 zip pullover for left handed golfers. Warm, comfortable golf apparel built for performance, buy now in US & Canada.
+  Updated: 2026-04-14T11:22:22Z
   Vendor: WRG SIDE OF DA' BALL APPAREL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
-  - [True Royal / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626138707)
+  - [True Royal / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626138707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [True Royal / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626171475)
+  - [True Royal / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626171475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [True Royal / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626204243)
+  - [True Royal / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626204243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [True Royal / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626237011)
+  - [True Royal / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626237011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [True Royal / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626269779)
+  - [True Royal / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626269779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [True Royal / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626302547)
+  - [True Royal / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626302547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [True Royal / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626335315)
+  - [True Royal / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626335315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [True Royal / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626368083)
+  - [True Royal / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626368083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_7185_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626400851)
+  - [Jet Black / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626400851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626433619)
+  - [Jet Black / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626433619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626466387)
+  - [Jet Black / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626466387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626499155)
+  - [Jet Black / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626499155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626531923)
+  - [Jet Black / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626531923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626564691)
+  - [Jet Black / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626564691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626597459)
+  - [Jet Black / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626597459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Jet Black / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626630227)
+  - [Jet Black / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626630227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_04d2_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626662995)
+  - [Bright Red / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626662995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626695763)
+  - [Bright Red / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626695763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626728531)
+  - [Bright Red / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626728531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626761299)
+  - [Bright Red / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626761299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626794067)
+  - [Bright Red / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626794067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626826835)
+  - [Bright Red / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626826835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626859603)
+  - [Bright Red / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626859603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Bright Red / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626892371)
+  - [Bright Red / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626892371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_fb47_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626925139)
+  - [Athletic Hthr / XS](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626925139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626957907)
+  - [Athletic Hthr / S](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626957907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997626990675)
+  - [Athletic Hthr / M](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997626990675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997627023443)
+  - [Athletic Hthr / L](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997627023443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997627056211)
+  - [Athletic Hthr / XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997627056211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997627088979)
+  - [Athletic Hthr / 2XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997627088979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997627121747)
+  - [Athletic Hthr / 3XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997627121747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-  - [Athletic Hthr / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece?variant=43997627154515)
+  - [Athletic Hthr / 4XL](https://www.wrongsideofdaball.com/products/ws-logo-fleece-pullover-sweatshirt?variant=43997627154515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12168427_f_PC850Q_02f7_f.jpg?v=1774022505
     Price: $65.00 USD
-- [Logo Knit Beenie | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/logo-knit-beenie): Keep warm with logo knit beanie for left handed golfers. Comfortable, stylish golf beanie hat made for lefty players, buy now across US & Canada.
-  Updated: 2026-04-13T10:25:43Z
+- [Logo Knit Beenie | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/logo-knit-beenie): Keep warm with logo knit beanie for left handed golfers. Comfortable, stylish golf beanie hat made for lefty players, buy now across US & Canada.
+  Updated: 2026-04-14T11:16:04Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -2551,8 +2513,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12188088_f_CP90L_f0b1_f.jpg?v=1769977646
     Price: $25.00 USD
-- [Women Performance Plaited Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/women-ws-afro-logo-polo): Elevate your style with women performance plaited polo for left handed golfers. Comfortable, stylish women golf apparel built for play, buy now in US & Canada.
-  Updated: 2026-04-13T10:26:33Z
+- [Buy Women Performance Plaited Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/women-ws-afro-logo-polo): Improve your style with women performance plaited polo for left handed golfers. Comfortable, stylish women golf apparel built for play, buy now in US & Canada.
+  Updated: 2026-04-14T11:21:15Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -2745,8 +2707,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12206977_f_DG20W_9K_f.jpg?v=1770864529
     Price: $55.00 USD
-- [Soft Shell Fleece Vest | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/soft-shell-fleece-vest): Layer smart with soft shell fleece vest for left handed golfers. Warm, comfortable golf apparel built for performance and style. Buy this now!
-  Updated: 2026-04-13T10:26:31Z
+- [Soft Shell Fleece Vest | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/soft-shell-fleece-vest): Layer smart with soft shell fleece vest for left handed golfers. Warm, comfortable golf apparel built for performance and style. Buy this now!
+  Updated: 2026-04-14T11:20:22Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -2848,7 +2810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12218926_f_J325_ea04_f.jpg?v=1770407008
     Price: $70.00 USD
 - [Lady's 1/4 Zip Zone Performance Pullover | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladys-1-4-zip-zone-performance-pullover): Stay warm in Ladies 1/4 zip zone performance pullover for left handed golfers. Lightweight, comfortable women golf apparel built for performance, buy now in US & Canada.
-  Updated: 2026-04-13T10:24:11Z
+  Updated: 2026-04-13T12:34:56Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -2993,8 +2955,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12245172_f_TT31W_9k_f.jpg?v=1770832896
     Price: $60.00 USD
-- [Ladies Soft Shell Vest | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-soft-shell-vest): Layer smart with Ladies soft shell vest for left handed golfers. Comfortable, functional women golf apparel built for style and performance, buy now.
-  Updated: 2026-04-13T10:24:09Z
+- [Ladies Soft Shell Vest | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/ladies-soft-shell-vest): Layer smart with Ladies soft shell vest for left handed golfers. Comfortable, functional women golf apparel built for style and performance, buy now.
+  Updated: 2026-04-14T11:12:36Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -3197,8 +3159,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12248500_f_J709_c6cf_f.jpg?v=1771641277
     Price: $70.00 USD
-- [Ladies Color Block Hooded Jacket | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-color-block-hooded-jacket): Stay comfortable in Ladies Color Block hooded jacket for left handed golfers. Stylish, lightweight golf apparel for women, buy now across US & Canada.
-  Updated: 2026-04-13T10:22:03Z
+- [Buy Ladies Color Block Hooded Jacket | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-color-block-hooded-jacket): Stay comfortable in Ladies Color Block hooded jacket for left handed golfers. Stylish, lightweight golf apparel for women, buy now across US & Canada.
+  Updated: 2026-04-20T12:34:57Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -3331,8 +3293,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12248763_f_LST76_6201_f.jpg?v=1770863141
     Price: $65.00 USD
-- [Golf Towel for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/golf-towel): Keep your gear clean with this golf towel for left handed players. Practical, high-quality accessory made for lefty golfers, buy now across US & Canada.
-  Updated: 2026-04-13T10:21:58Z
+- [Buy Golf Towel for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/golf-towel): Keep your gear clean with this golf towel for left handed players. Practical, high-quality accessory made for lefty golfers, buy now across US & Canada.
+  Updated: 2026-04-20T20:35:38Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -3349,8 +3311,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12251002_f_TW540_c6cf_f.jpg?v=1770911839
     Price: $20.00 USD
-- [Men's Fire Golf Ball Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/mens-fire-golf-ball-polo): Bring bold style with mens fire golf ball polo for left handed golfers. Comfortable, performance golf apparel designed for lefty players, buy now.
-  Updated: 2026-04-13T10:25:46Z
+- [Men's Fire Golf Ball Polo | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/mens-fire-golf-ball-polo): Bring bold style with mens fire golf ball polo for left handed golfers. Comfortable, performance golf apparel designed for lefty players, buy now.
+  Updated: 2026-04-14T11:17:25Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -3577,330 +3539,306 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12253170_f_PRM2500_30_f.jpg?v=1770942792
     Price: $65.00 USD
-- [Golf Ball Bouquet Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee): Buy Golf Ball Bouquet tee for left handed golfers. Stylish, comfortable golf clothing t-shirt designed for lefty players who want standout apparel in US & Canada.
-  Updated: 2026-04-13T10:21:57Z
+- [Buy Golf Ball Bouquet Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee): Buy Golf Ball Bouquet tee for left handed golfers. Stylish, comfortable golf clothing t-shirt designed for lefty players who want standout apparel in US & Canada.
+  Updated: 2026-04-15T12:45:20Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/51acaed2-89e4-4692-841b-98a91d8a8ee0_4ccf9289-c54e-4e5a-8755-e6f0e6940c3e.webp?v=1772133020
   - [WHITE / XS](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757520979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [WHITE / S](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757553747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [WHITE / M](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757586515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [WHITE / L](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757619283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [WHITE / XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757652051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [WHITE / 2XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757684819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [WHITE / 3XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757717587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [WHITE / 4XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757750355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_00_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / XS](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757783123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / S](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757815891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / M](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757848659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / L](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757881427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757914195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / 2XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757946963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / 3XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055757979731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [SCARLET / 4XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758012499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_61_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / XS](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758045267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / S](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758078035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / M](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758110803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / L](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758143571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758176339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / 2XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758209107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / 3XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758241875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [ROYAL / 4XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758274643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_53_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / XS](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758307411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / S](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758340179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / M](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758372947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / L](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758405715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758438483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / 2XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758471251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / 3XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758504019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [MILITARY GREEN / 4XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758536787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1770947191
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_B4_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / XS](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758569555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / S](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758602323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / M](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758635091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / L](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758667859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758700627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / 2XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758733395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / 3XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758766163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [KELLY GREEN / 4XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758798931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_42_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / XS](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758831699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / S](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758864467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / M](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758897235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / L](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758930003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758962771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / 2XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055758995539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / 3XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055759028307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
   - [CARDINAL / 4XL](https://www.wrongsideofdaball.com/products/golf-ball-bouquet-tee?variant=44055759061075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1770947192
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12254136_f_N3142_67_f.jpg?v=1776214837
     Price: $40.00 USD
-- [Ladies Colorblock Visor | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-colorblock-visor): Top off your look with Ladies Colorblock visor for left handed golfers. Lightweight, stylish golf headwear for women players, buy now in US & Canada.
-  Updated: 2026-04-13T10:22:04Z
+- [Buy Ladies Colorblock Visor | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-colorblock-visor): Top off your look with Ladies Colorblock visor for left handed golfers. Lightweight, stylish golf headwear for women players, buy now in US & Canada.
+  Updated: 2026-04-15T08:08:16Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_1ad0_f.jpg?v=1771011974
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_1ad0_f.jpg?v=1776197410
   - [White/Black / ONE SIZE](https://www.wrongsideofdaball.com/products/ladies-colorblock-visor?variant=44058605387859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_1ad0_f.jpg?v=1771011974
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_1ad0_f.jpg?v=1776197410
     Price: $25.00 USD
   - [True Red/White / ONE SIZE](https://www.wrongsideofdaball.com/products/ladies-colorblock-visor?variant=44058605420627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_b7be_f.jpg?v=1771011974
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_b7be_f.jpg?v=1776197410
     Price: $25.00 USD
   - [Tr.Royal/White / ONE SIZE](https://www.wrongsideofdaball.com/products/ladies-colorblock-visor?variant=44058605453395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_3096_f.jpg?v=1771011974
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_3096_f.jpg?v=1776197410
     Price: $25.00 USD
   - [Black/ White / ONE SIZE](https://www.wrongsideofdaball.com/products/ladies-colorblock-visor?variant=44058605486163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_6201_f.jpg?v=1771011974
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12257554_f_STC13_6201_f.jpg?v=1776197410
     Price: $25.00 USD
 - [Ladies Ribbed Tank Top for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top): Buy Ladies ribbed tank top for left handed golfers. Comfortable, stylish women golf apparel designed for lefty players seeking everyday performance in US & Canada.
-  Updated: 2026-04-13T10:24:07Z
+  Updated: 2026-04-15T08:43:32Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f.jpg?v=1771256378
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f_72ed844a-ab8d-4761-8827-b8989d6e2bdc.jpg?v=1776199404
   - [SOLID WHT BLEND / XS](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579051091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f.jpg?v=1771256378
     Price: $40.00 USD
   - [SOLID WHT BLEND / S](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579083859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f.jpg?v=1771256378
     Price: $40.00 USD
   - [SOLID WHT BLEND / M](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579116627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f.jpg?v=1771256378
     Price: $40.00 USD
   - [SOLID WHT BLEND / L](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579149395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f.jpg?v=1771256378
     Price: $40.00 USD
   - [SOLID WHT BLEND / XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579182163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f.jpg?v=1771256378
     Price: $40.00 USD
   - [SOLID WHT BLEND / 2XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579214931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_db_f.jpg?v=1771256378
     Price: $40.00 USD
   - [SOLID RED BLEND / XS](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579247699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J1_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID RED BLEND / S](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579280467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J1_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID RED BLEND / M](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579313235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J1_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID RED BLEND / L](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579346003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J1_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID RED BLEND / XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579378771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J1_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID RED BLEND / 2XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579411539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J1_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID PINK BLEND / XS](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579444307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J5_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID PINK BLEND / S](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579477075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J5_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID PINK BLEND / M](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579509843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J5_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID PINK BLEND / L](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579542611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J5_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID PINK BLEND / XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579575379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J5_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID PINK BLEND / 2XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579608147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_J5_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID BLK BLEND / XS](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579640915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_DA_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID BLK BLEND / S](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579673683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_DA_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID BLK BLEND / M](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579706451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_DA_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID BLK BLEND / L](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579739219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_DA_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID BLK BLEND / XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579771987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_DA_f.jpg?v=1771640769
     Price: $40.00 USD
   - [SOLID BLK BLEND / 2XL](https://www.wrongsideofdaball.com/products/ladies-ribbed-tank-top?variant=44061579804755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12270157_f_1019_DA_f.jpg?v=1771640769
     Price: $40.00 USD
-- [Men's Putt Easy Money Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/putt-easy-money-tee): Finish strong with Putt Easy Money tee for left handed golfers. Stylish, comfortable golf clothing t shirt made for lefty players, buy now.
-  Updated: 2026-04-13T10:25:51Z
+- [Men's Putt Easy Money Tee | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/putt-easy-money-tee): Finish strong with Putt Easy Money tee for left handed golfers. Stylish, comfortable golf clothing t shirt made for lefty players, buy now.
+  Updated: 2026-04-14T11:19:56Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL
   Product Type: 
   Availability: Available
@@ -4211,58 +4149,47 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304228_f_ST520_e58b_f.jpg?v=1771780185
     Price: $50.00 USD
-- [Store Brand Golf Hat | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/store-brand-golf-hat): Complete your look with store brand golf hat for left handed golfers. Stylish, comfortable golf cap made for lefty players, buy now in US & Canada.
-  Updated: 2026-04-13T10:26:32Z
+- [Store Brand Golf Hat | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/store-brand-golf-hat): Complete your look with store brand golf hat for left handed golfers. Stylish, comfortable golf cap made for lefty players, buy now in US & Canada.
+  Updated: 2026-04-14T11:20:42Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_00_f.jpg?v=1771788681
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_00_f_95548a8a-93f8-4042-9600-25afe50059a3.jpg?v=1776091709
   - [WHITE / S/M](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366571603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_00_f.jpg?v=1771788681
     Price: $40.00 USD
   - [WHITE / L/XL](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366604371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_00_f.jpg?v=1771788681
     Price: $40.00 USD
   - [ROYAL / S/M](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366637139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_53_f.jpg?v=1771877397
     Price: $40.00 USD
   - [ROYAL / L/XL](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366669907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_53_f.jpg?v=1771877397
     Price: $40.00 USD
   - [RED / S/M](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366702675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_52_f.jpg?v=1771877397
     Price: $40.00 USD
   - [RED / L/XL](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366735443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_52_f.jpg?v=1771877397
     Price: $40.00 USD
   - [KHAKI / S/M](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366768211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_22_f.jpg?v=1771877397
     Price: $40.00 USD
   - [KHAKI / L/XL](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366800979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_22_f.jpg?v=1771877397
     Price: $40.00 USD
   - [BLACK / S/M](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366833747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_51_f.jpg?v=1771877397
     Price: $40.00 USD
   - [BLACK / L/XL](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366866515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_51_f.jpg?v=1771877397
     Price: $40.00 USD
   - [BLACK / 2XL](https://www.wrongsideofdaball.com/products/store-brand-golf-hat?variant=44072366899283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12304882_f_6277_51_f.jpg?v=1771877397
     Price: $40.00 USD
-- [Ladies Sleeveless Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-sleeveless-polo): Stay cool in Ladies sleeveless polo for left handed golfers. Lightweight, stylish women golf apparel designed for comfort and performance, buy now.
-  Updated: 2026-04-13T10:24:08Z
+- [Ladies Sleeveless Polo | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/ladies-sleeveless-polo): Stay cool in Ladies sleeveless polo for left handed golfers. Lightweight, stylish women golf apparel designed for comfort and performance, buy now.
+  Updated: 2026-04-14T11:12:12Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -4395,8 +4322,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12310703_f_LK110SV_6628_f.jpg?v=1771876935
     Price: $45.00 USD
-- [Lefty Golf Jersey for Left-Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/lefty-golf-jersey): Play in style with Lefty golf jersey for left handed golfers. Lightweight, comfortable golf apparel designed for lefty players, buy now across US & Canada.
-  Updated: 2026-04-13T10:24:13Z
+- [Buy Lefty Golf Jersey for Left-Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/lefty-golf-jersey): Play in style with Lefty golf jersey for left handed golfers. Lightweight, comfortable golf apparel designed for lefty players, buy now across US & Canada.
+  Updated: 2026-04-14T11:15:00Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -4561,8 +4488,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12317937_f_ST220_c6cf_f.jpg?v=1775933037
     Price: $60.00 USD
-- [Diff Grip Same Rip Lefty Golf Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/diff-grip-same-rip-tee): Own the Diff Grip Same Rip lefty golf tee for bold style and comfort. Designed for left handed golfers seeking quality golf clothing t shirts in US & Canada, buy now.
-  Updated: 2026-04-13T10:20:48Z
+- [Buy Diff Grip Same Rip Lefty Golf Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/diff-grip-same-rip-tee): Own the Diff Grip Same Rip lefty golf tee for bold style and comfort. Designed for left handed golfers seeking quality golf clothing t shirts in US & Canada, buy now.
+  Updated: 2026-04-14T11:05:17Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -5015,8 +4942,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12345152_f_6277_51_f.jpg?v=1772379865
     Price: $40.00 USD
-- [Golfer with Visor for Left-handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/golfer-with-visor): Show your style with Golfer with Visor design for left handed players. Comfortable, premium golf apparel made for lefty golfers, buy now in US & Canada.
-  Updated: 2026-04-13T10:21:59Z
+- [Buy  Golfer with Visor for Left-handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/golfer-with-visor): Show your style with Golfer with Visor design for left handed players. Comfortable, premium golf apparel made for lefty golfers, buy now in US & Canada.
+  Updated: 2026-04-14T11:07:55Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -5165,244 +5092,228 @@
   - [BLACK 703 / 6XL](https://www.wrongsideofdaball.com/products/golfer-with-visor?variant=44165386076243)
     Availability: Available
     Price: $45.00 USD
-- [Ladies Right Woman Jersey | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey): Own the Ladies Right Woman jersey for left handed golfers. Stylish, comfortable women golf apparel made for lefty players, buy now across US & Canada.
-  Updated: 2026-04-13T10:24:07Z
+- [Ladies Right Woman Jersey | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey): Own the Ladies Right Woman jersey for left handed golfers. Stylish, comfortable women golf apparel made for lefty players, buy now across US & Canada.
+  Updated: 2026-04-14T11:11:43Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f_8efba82f-c294-4eaf-bb51-0f81464151a6.jpg?v=1776093919
   - [Tr Royal/White / XS](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759678547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Tr Royal/White / S](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759711315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Tr Royal/White / M](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759744083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Tr Royal/White / L](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759776851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Tr Royal/White / XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759809619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Tr Royal/White / 2XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759842387)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Tr Royal/White / 3XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759875155)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Tr Royal/White / 4XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759907923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_1a0a_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / XS](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759940691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / S](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185759973459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / M](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185760006227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / L](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185760038995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185760071763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / 2XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185760104531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / 3XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185760137299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
   - [Black/ White / 4XL](https://www.wrongsideofdaball.com/products/ladies-right-woman-jersey?variant=44185760170067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12416822_f_LST307_6201_f.jpg?v=1773366508
     Price: $45.00 USD
-- [Goat T Golfer Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/goat-t-golfer): Make a statement with Goat T Golfer polo for left handed golfers. Comfortable, stylish golf apparel designed for performance, buy now across US & Canada.
-  Updated: 2026-04-13T10:20:51Z
+- [Buy Goat T Golfer Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo): Make a statement with Goat T Golfer polo for left handed golfers. Comfortable, stylish golf apparel designed for performance, buy now across US & Canada.
+  Updated: 2026-04-14T11:06:49Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
-  - [White / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193660928083)
+  - [White / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193660928083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [White / S](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193660960851)
+  - [White / S](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193660960851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [White / M](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193660993619)
+  - [White / M](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193660993619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [White / L](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661026387)
+  - [White / L](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661026387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [White / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661059155)
+  - [White / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661059155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [White / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661091923)
+  - [White / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661091923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [White / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661124691)
+  - [White / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661124691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [White / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661157459)
+  - [White / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661157459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_3495_f.jpg?v=1773705915
     Price: $50.00 USD
-  - [True Royal / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661190227)
+  - [True Royal / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661190227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Royal / S](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661222995)
+  - [True Royal / S](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661222995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Royal / M](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661255763)
+  - [True Royal / M](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661255763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Royal / L](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661288531)
+  - [True Royal / L](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661288531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Royal / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661321299)
+  - [True Royal / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661321299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Royal / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661354067)
+  - [True Royal / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661354067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Royal / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661386835)
+  - [True Royal / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661386835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Royal / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661419603)
+  - [True Royal / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661419603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_7185_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661452371)
+  - [True Red / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661452371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / S](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661485139)
+  - [True Red / S](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661485139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / M](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661517907)
+  - [True Red / M](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661517907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / L](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661550675)
+  - [True Red / L](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661550675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661583443)
+  - [True Red / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661583443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661616211)
+  - [True Red / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661616211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661648979)
+  - [True Red / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661648979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [True Red / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661681747)
+  - [True Red / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661681747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_1ebe_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661714515)
+  - [Kelly Green / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661714515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / S](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661747283)
+  - [Kelly Green / S](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661747283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / M](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661780051)
+  - [Kelly Green / M](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661780051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / L](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661812819)
+  - [Kelly Green / L](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661812819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661845587)
+  - [Kelly Green / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661845587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661878355)
+  - [Kelly Green / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661878355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661911123)
+  - [Kelly Green / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661911123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Kelly Green / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661943891)
+  - [Kelly Green / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661943891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_ae10_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193661976659)
+  - [Dark Smoke Gry / XS](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193661976659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / S](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193662009427)
+  - [Dark Smoke Gry / S](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193662009427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / M](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193662042195)
+  - [Dark Smoke Gry / M](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193662042195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / L](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193662074963)
+  - [Dark Smoke Gry / L](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193662074963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193662107731)
+  - [Dark Smoke Gry / XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193662107731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193662140499)
+  - [Dark Smoke Gry / 2XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193662140499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193662173267)
+  - [Dark Smoke Gry / 3XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193662173267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
-  - [Dark Smoke Gry / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer?variant=44193662206035)
+  - [Dark Smoke Gry / 4XL](https://www.wrongsideofdaball.com/products/goat-t-golfer-polo?variant=44193662206035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1773705915
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12437580_f_ST520_e58b_f.jpg?v=1776123380
     Price: $50.00 USD
 - [Side Blocked Polo Shirt | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt): Upgrade your fit with side blocked polo shirt for left handed golfers. Stylish, comfortable performance golf apparel made for lefty players, buy now.
-  Updated: 2026-04-13T10:26:29Z
+  Updated: 2026-04-20T22:35:09Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -5449,332 +5360,332 @@
     Price: $55.00 USD
   - [True Red/ White / XS](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266390782035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / S](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266390814803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / M](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266390847571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / L](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266390880339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266390913107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / 2XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266390945875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / 3XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266390978643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / 4XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391011411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / 5XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391044179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [True Red/ White / 6XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391076947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1774054498
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_b7be_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / XS](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391109715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / S](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391142483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / M](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391175251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / L](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391208019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391240787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / 2XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391273555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / 3XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391306323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / 4XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391339091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / 5XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391371859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Forest/ White / 6XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391404627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_561e_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / XS](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391437395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / S](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391470163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / M](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391502931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / L](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391535699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391568467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / 2XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391601235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / 3XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391634003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / 4XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391666771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / 5XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391699539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ True Red / 6XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391732307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_53f7_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / XS](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391765075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / S](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391797843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / M](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391830611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / L](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391863379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391896147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / 2XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391928915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / 3XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391961683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / 4XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266391994451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / 5XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266392027219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
   - [Black/ Iron Grey / 6XL](https://www.wrongsideofdaball.com/products/side-blocked-polo-shirt?variant=44266392059987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1774054497
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12460462_f_ST655_bffa_f.jpg?v=1776122720
     Price: $55.00 USD
 - [Mens Swing Away Polo for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/mens-swing-away-polo): Step onto the course with mens swing away polo for left handed golfers. Stylish, comfortable performance golf apparel, buy now across US & Canada.
-  Updated: 2026-04-13T10:25:48Z
+  Updated: 2026-04-15T18:36:37Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
   - [Vintage Hthr / XS](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797702227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Vintage Hthr / S](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797734995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Vintage Hthr / M](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797767763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Vintage Hthr / L](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797800531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Vintage Hthr / XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797833299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Vintage Hthr / 2XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797866067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Vintage Hthr / 3XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797898835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Vintage Hthr / 4XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797931603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_0ed5_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / XS](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797964371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / S](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276797997139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / M](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798029907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / L](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798062675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798095443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / 2XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798128211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / 3XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798160979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Turf Green Hth / 4XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798193747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_5d60_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / XS](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798226515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / S](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798259283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / M](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798292051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / L](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798324819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798357587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / 2XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798390355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / 3XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798423123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Scarlet Hthr / 4XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798455891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_fc96_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / XS](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798488659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / S](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798521427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / M](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798554195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / L](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798586963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798619731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / 2XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798652499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / 3XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798685267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Deep Orange HR / 4XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798718035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1774464623
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_a14d_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / XS](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798750803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / S](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798783571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / M](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798816339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / L](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798849107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798881875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / 2XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798914643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / 3XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798947411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
   - [Blue Wake Hthr / 4XL](https://www.wrongsideofdaball.com/products/mens-swing-away-polo?variant=44276798980179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1774464624
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12484952_f_ST660_38f3_f.jpg?v=1776196509
     Price: $50.00 USD
-- [WS Flaming Golf Ball Hat | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ws-flaming-golf-ball-hat): Turn heads with WS flaming golf ball hat for left handed golfers. Stylish, comfortable golf cap made for lefty players seeking bold style, buy now.
-  Updated: 2026-04-13T10:27:13Z
+- [WS Flaming Golf Ball Hat | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/ws-flaming-golf-ball-hat): Turn heads with WS flaming golf ball hat for left handed golfers. Stylish, comfortable golf cap made for lefty players seeking bold style, buy now.
+  Updated: 2026-04-14T11:21:52Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -5824,8 +5735,8 @@
   - [Black/ White / L/XL](https://www.wrongsideofdaball.com/products/ws-flaming-golf-ball-hat?variant=44277277818963)
     Availability: Available
     Price: $40.00 USD
-- [Flip the Fairway Lefty Golf Hat | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/flip-the-fairway-hat): Flip the script with this Flip the Fairway lefty golf hat. Stylish, comfortable golf cap designed for left handed golfers, buy now and stand out in US & Canada.
-  Updated: 2026-04-13T10:20:49Z
+- [Buy Flip the Fairway Lefty Golf Hat | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/flip-the-fairway-hat): Flip the script with this Flip the Fairway lefty golf hat. Stylish, comfortable golf cap designed for left handed golfers, buy now and stand out in US & Canada.
+  Updated: 2026-04-14T11:06:08Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -5866,8 +5777,8 @@
   - [BLACK / 2XL](https://www.wrongsideofdaball.com/products/flip-the-fairway-hat?variant=44332165103699)
     Availability: Available
     Price: $40.00 USD
-- [Flip the Fairway Lefty Golf Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/flip-the-fairway-tee): Stand out wearing Flip the Fairway lefty golf tee. Premium golf clothing t shirt crafted for left handed players seeking comfort and style, buy now.
-  Updated: 2026-04-13T10:20:50Z
+- [Buy Flip the Fairway Lefty Golf Tee | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/flip-the-fairway-tee): Stand out wearing Flip the Fairway lefty golf tee. Premium golf clothing t shirt crafted for left handed players seeking comfort and style, buy now.
+  Updated: 2026-04-14T11:06:24Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -6032,8 +5943,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12543186_f_N3142_75_f.jpg?v=1775245533
     Price: $45.00 USD
-- [Bucket Hat Lefty Golf Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/bucket-hat-lefty-polo): Buy Bucket Hat Lefty Golf Polo for left handed golfers. Unique golf apparel combining comfort, style, and fit made for lefty players in US and Canada.
-  Updated: 2026-04-13T10:20:47Z
+- [Buy Bucket Hat Lefty Golf Polo | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/bucket-hat-lefty-polo): Buy Bucket Hat Lefty Golf Polo for left handed golfers. Unique golf apparel combining comfort, style, and fit made for lefty players in US and Canada.
+  Updated: 2026-04-14T11:04:11Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: Golf Apparel
   Availability: Available
@@ -6222,8 +6133,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12570691_f_88181_7k_f.jpg?v=1775846634
     Price: $45.00 USD
-- [Lefty WS Windbreaker | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/lefty-ws-windbreaker): Stay protected with Lefty WS windbreaker for left handed golfers. Lightweight, stylish golf apparel built for comfort and performance, buy now in US & Canada.
-  Updated: 2026-04-13T10:25:42Z
+- [Lefty WS Windbreaker | Wrong Side of Da' Ball - Buy Now](https://www.wrongsideofdaball.com/products/lefty-ws-windbreaker): Stay protected with Lefty WS windbreaker for left handed golfers. Lightweight, stylish golf apparel built for comfort and performance, buy now in US & Canada.
+  Updated: 2026-04-20T22:35:09Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -6388,8 +6299,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12571745_f_JST66_c6cf_f.jpg?v=1775846282
     Price: $60.00 USD
-- [Growing Old Tee for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/growing-old-tee): Celebrate the game with Growing Old tee for left handed golfers. Comfortable, stylish golf clothing t shirt made for lefty players, buy now in US & Canada.
-  Updated: 2026-04-13T10:22:01Z
+- [Buy Growing Old Tee for Left Handed | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/growing-old-tee): Celebrate the game with Growing Old tee for left handed golfers. Comfortable, stylish golf clothing t shirt made for lefty players, buy now in US & Canada.
+  Updated: 2026-04-14T11:09:42Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -6554,8 +6465,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12585298_f_N3142_51_f.jpg?v=1775846901
     Price: $40.00 USD
-- [Ladies WS Logo Polo Shirt - New | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-ws-logo-polo-shirt-new): Upgrade your look with Ladies WS logo polo shirt for left handed golfers. Stylish, comfortable women golf apparel made for lefty players, buy now.
-  Updated: 2026-04-13T10:24:10Z
+- [Buy Ladies WS Logo Polo Shirt | Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/products/ladies-ws-logo-polo-shirt-new): Upgrade your look with Ladies WS logo polo shirt for left handed golfers. Stylish, comfortable women golf apparel made for lefty players, buy now.
+  Updated: 2026-04-14T11:13:06Z
   Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
   Product Type: 
   Availability: Available
@@ -6708,6 +6619,172 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12593702_f_78181_7k_f.jpg?v=1775960992
     Price: $45.00 USD
+- [The Four Wisemen](https://www.wrongsideofdaball.com/products/the-four-wisemen): Product: Sport-Tek ST460 Sport-Tek ® Digi Camo Tee. ST460 3.8oz., 100% polyester interlock with sublimated digi camo print Moisture wicking Removable tag for comfort and relabeling Classic Fit Size Chest Sleeve Body length XS 18" 17.75" 27" S 19.5" 18.5" 28" M 21" 19.25" 29" L 22.5" 20" 30" XL 24" 20.75" 31" 2XL 25.5" 21.5" 32" 3XL 27.5" 22.25" 32.5" 4XL 29.5" 23" 33"
+  Updated: 2026-04-14T07:17:34Z
+  Vendor: WRONG SIDE OF DA' BALL GOLF APPAREL, LLC
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+  - [White / XS](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408329299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [White / S](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408362067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [White / M](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408394835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [White / L](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408427603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [White / XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408460371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [White / 2XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408493139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [White / 3XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408525907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [White / 4XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408558675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_3495_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Royal / XS](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408591443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Royal / S](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408624211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Royal / M](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408656979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Royal / L](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408689747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Royal / XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408722515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Royal / 2XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408755283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Royal / 3XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408788051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Royal / 4XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408820819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_7185_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [True Red / XS](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408853587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Red / S](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408886355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Red / M](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408919123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Red / L](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408951891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Red / XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490408984659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Red / 2XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409017427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Red / 3XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409050195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [True Red / 4XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409082963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_1ebe_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / XS](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409115731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / S](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409148499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / M](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409181267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / L](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409214035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409246803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / 2XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409279571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / 3XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409312339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Grey Concrete / 4XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409345107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_bcda_f.jpg?v=1776121689
+    Price: $40.00 USD
+  - [Black / XS](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409377875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [Black / S](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409410643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [Black / M](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409443411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [Black / L](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409476179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [Black / XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409508947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [Black / 2XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409541715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [Black / 3XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409574483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
+  - [Black / 4XL](https://www.wrongsideofdaball.com/products/the-four-wisemen?variant=44490409607251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/0384/7507/files/ninjapod_12604294_f_ST460_c6cf_f.jpg?v=1776121690
+    Price: $40.00 USD
 
 ## Collections
 
@@ -6718,7 +6795,7 @@
   Updated: 2026-04-13T10:35:02Z
   Total Products: 23
 - [Left Handed Women Golf Apparel & Clothes | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/collections/womens-items): Check out women golf clothes including cute golf clothes and t shirts for left handed players. Shop lefty women golf apparel online in US & Canada.
-  Updated: 2026-04-13T10:36:05Z
+  Updated: 2026-04-14T11:23:39Z
   Total Products: 12
 - [Left-Handed Golf Hats and Caps | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/collections/hats): Find premium golf hats, classic golf caps, and golf beanie hats designed for left handed golfers. Comfortable headwear available across US & Canada.
   Updated: 2026-04-13T10:34:33Z
@@ -6735,21 +6812,10 @@
 
 ## Blogs
 
-- [Blog | Left-Handed Golf Apparel Tips | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/blogs/news): Read the latest blogs on performance golf apparel, tips, and trends for left handed golfers. Insights, updates, and stories for lefty players in US & Canada.
+- [Left-Handed Golf Apparel Tips | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/blogs/news): Read the latest blogs on performance golf apparel, tips, and trends for left handed golfers. Insights, updates, and stories for lefty players in US & Canada.
   - [New Arrival of Cool/Relax Fit Tee shirt. WRONG SIDE.. EASY MONEY](https://www.wrongsideofdaball.com/blogs/news/new-arrival-of-cool-relax-fit-tee-shirt-wrong-side-easy-money): New Arrival of Cool/Relax Fit Tee shirt. WRONG SIDE.. EASY MONEY
     Updated: 2026-04-13T10:40:19Z
     Author: David Grove
-
-## Store Pages
-
-- [Contact Us | Get in Touch with Us | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/pages/contact): 
-  Updated: 2026-04-13T10:45:44Z
-- [Your Privacy Choices](https://www.wrongsideofdaball.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T17:44:39Z
-- [Our Story - Left-Handed Golf Apparel / Wrong Side of Da' Ball](https://www.wrongsideofdaball.com/pages/our-story-left-handed-golf-apparel-wrong-side-of-da-ball): Welcome to Wrong Side of Da Ball. Every brand has a story. Ours started with a simple truth: being a left-handed golfer means playing the game from...
-  Updated: 2026-02-11T11:00:05Z
-- [Our Story | Built for the 10% | Wrong Side of DA' Ball](https://www.wrongsideofdaball.com/pages/our-story): The Wrong Side of Da' Ball Story Every left-handed golfer knows what it's like to be on the "wrong side." Wrong side of the tee box. Wrong side of ...
-  Updated: 2026-04-13T10:45:29Z
 
 ## Policies
 
