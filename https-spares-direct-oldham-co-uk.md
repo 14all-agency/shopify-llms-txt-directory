@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-06-16T18:27:32Z
 - Contact Email: sparesdirect2015ltd@gmail.com
-- Updated At: 2026-04-14T00:00:44.857Z
+- Updated At: 2026-04-21T00:00:45.879Z
 
 ## Products
 
@@ -1766,10 +1766,10 @@
   Updated: 2025-07-22T09:41:53Z
   Total Products: 2
 - [Other Parts](https://spares-direct-oldham.co.uk/collections/other): other spare parts
-  Updated: 2026-04-13T11:36:21Z
+  Updated: 2026-04-18T11:31:23Z
   Total Products: 18554
 - [TV REMOTE CONTROLS](https://spares-direct-oldham.co.uk/collections/tv-remote-controls)
-  Updated: 2026-03-31T15:27:49Z
+  Updated: 2026-04-18T11:31:23Z
   Total Products: 1932
 
 ## Blogs
