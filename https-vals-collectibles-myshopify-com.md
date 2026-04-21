@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-09T22:44:54Z
 - Contact Email: admin@valscollectibles.com
-- Updated At: 2026-04-11T00:00:33.583Z
+- Updated At: 2026-04-21T00:00:34.711Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/4547/2810/files/fbc0ae99e4c94980b22a7df7e26377b4lg.jpg?v=1775173863
   Price: $42.99 USD
 - [Jujutsu Kaisen Yuta Okkotsu Culling Game Arc Second Masterlise Expiece Ichibansho Statue PREORDER](https://vals-collectibles.myshopify.com/products/jujutsu-kaisen-yuta-okkotsu-culling-game-arc-second-masterlise-expiece-ichibansho-statue-preorder): Bandai Spirits Ichibansho presents Yuta Okkotsu from Jujutsu Kaisen in a popular pose! Made of plastic, this highly detailed Jujutsu Kaisen Yuta Culling Game Arc Second Masterlise Expiece Ichibansho Statue measures approximately 7-inches tall. Collect this and enhance your display with other incredible Ichibansho figures! Masterlise Expiece Figures are Ichibansho's premier statue line featuring high-quality details in a compact size. This line is truly a masterpiece for fans to collect! Buy Jujutsu Kaisen Yuta Okkotsu Culling Game Arc Second Masterlise Expiece Ichibansho Statue at Val's Collectibles Estimated to Ship in July 2026
-  Updated: 2026-04-03T12:10:29Z
+  Updated: 2026-04-20T03:56:07Z
   Vendor: Ichibansho
   Product Type: Statues and Busts
   Availability: Available
@@ -199,7 +199,7 @@
   Updated: 2026-04-02T21:57:38Z
   Total Products: 1
 - [Figures](https://vals-collectibles.myshopify.com/collections/figures-1)
-  Updated: 2026-04-03T00:52:59Z
+  Updated: 2026-04-20T11:33:34Z
   Total Products: 15
 - [Home Goods](https://vals-collectibles.myshopify.com/collections/home-goods): Housewares, Mugs, Cups, Towels, Utensils, all the things for the house
   Updated: 2026-04-02T22:08:38Z
