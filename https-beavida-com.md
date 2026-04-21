@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-04-13T12:33:23.366Z
+- Updated At: 2026-04-21T00:00:21.899Z
 
 Welcome to Beavida
 
@@ -129,17 +129,25 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Author: Larissa Bauml
     Tags: Health
   - [Period Swag Gap: Confidence, Cramps & Self-Care](https://beavida.com/blogs/news/is-your-period-swag-gap-worse-than-your-relationships): Period Swag Gap: Confidence, Cramps & Self-Care
-    Updated: 2026-01-18T00:00:03Z
+    Updated: 2026-04-16T16:26:13Z
     Author: Larissa Bauml
+    Tags: Menstruation
   - [Seed Cycling and Hormone Balance: Facts vs. Hype | Beavida](https://beavida.com/blogs/news/seed-cycling-hype-or-hormone-helper): Seed Cycling and Hormone Balance: Facts vs. Hype | Beavida
-    Updated: 2026-02-06T14:44:01Z
+    Updated: 2026-04-16T16:27:05Z
     Author: Larissa Bauml
+    Tags: Menstruation
   - [Cortisol Face: Stress, Skin & How to Support Your Wellbeing](https://beavida.com/blogs/news/cortisol-face-stress-skin-and-what-science-really-says): Cortisol Face: Stress, Skin & How to Support Your Wellbeing
-    Updated: 2026-03-01T04:00:02Z
+    Updated: 2026-04-16T16:25:20Z
     Author: Larissa Bauml
+    Tags: Mental Health
   - [Cycle Syncing: Align Your Nutrition, Training and Lifestyle](https://beavida.com/blogs/news/cycle-syncing-aligning-nutrition-training-and-lifestyle-with-your-menstrual-cycle): Cycle Syncing: Align Your Nutrition, Training and Lifestyle
-    Updated: 2026-04-03T10:00:02Z
+    Updated: 2026-04-16T16:26:46Z
     Author: Larissa Bauml
+    Tags: Menstruation
+  - [Endometriosis Explained 🩸 Symptoms, Causes & ](https://beavida.com/blogs/news/everything-you-need-to-know-about-endometriosis): Endometriosis Explained 🩸 Symptoms, Causes & 
+    Updated: 2026-04-16T16:23:01Z
+    Author: Larissa Bauml
+    Tags: Health, Hormones, Menstruation
 
 ## Store Pages
 
@@ -160,6 +168,8 @@ We encourage responsible use of this information, ensuring that any outputs gene
 
 - [Privacy Policy](https://beavida.com/policies/privacy-policy)
   Updated: 2026-02-07T11:39:24+01:00
+- [Shipping Policy](https://beavida.com/policies/shipping-policy)
+  Updated: 2026-04-20T13:35:52+02:00
 - [Refund Policy](https://beavida.com/policies/refund-policy)
   Updated: 2026-01-09T11:11:53+01:00
 - [Terms of Service](https://beavida.com/policies/terms-of-service)
