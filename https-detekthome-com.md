@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-26T21:21:43Z
 - Contact Email: sales@detekthome.com
-- Updated At: 2026-04-14T00:00:38.928Z
+- Updated At: 2026-04-21T00:00:40.501Z
 
 ## Products
 
-- [Blue Green Algae Test Kit - Pond & Lake Water Test](https://detekthome.com/products/blue-green-algae-toxin-test): Detect harmful blue green algae toxins in ponds & lakes in just 10 minutes. 99% accurate cyanobacteria test kit trusted by EPA. No lab fees. Made in USA.
-  Updated: 2026-04-12T16:12:30Z
+- [Blue-Green Algae Toxin Test 99% Accurate | Detekt Home](https://detekthome.com/products/blue-green-algae-toxin-test): Blue-green algae toxin test kit with 99% accuracy and 10-minute results. EPA trusted, no lab fees, made in USA. Learn more today.
+  Updated: 2026-04-18T02:36:49Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -29,21 +29,21 @@
     Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Algae_Amazon_ImagesV3-09.png?v=1756847826
     Price: $69.99 USD
 - [Lead Test Kit - Water & Lead Paint Test for Home](https://detekthome.com/products/total-toxic-lead-test-kit): Detect dangerous lead in tap water and painted surfaces with our easy, at-home lead test kit. Results in 5 minutes. Made in USA. Trusted by families. Order now!
-  Updated: 2026-03-13T13:22:48Z
+  Updated: 2026-04-16T04:19:35Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Lead_Amazon_ImagesV4_Header_4bb819ae-2567-451d-84f7-b76a026f8f00.png?v=1769553562
   Price: $29.99 USD
-- [Nursery-Prep Safety Test Kit for Current & Expecting Parents](https://detekthome.com/products/baby-prep-home-testing-kit): Ensure your nursery & home are safe for baby with our all-in-one home safety test kit for lead, mold, bacteria & water quality. Results in minutes. Made in USA!
-  Updated: 2026-03-09T18:45:11Z
+- [4-In-1 Nursery Safety Test Kit USA Made | Detekt Home](https://detekthome.com/products/baby-prep-home-testing-kit): Nursery safety test kit for lead, mold, bacteria, and water quality with results in minutes. Made in USA for current and expecting parents. Learn more today.
+  Updated: 2026-04-16T04:20:48Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Baby_Prep_Amazon_Images_V3-01.png?v=1761753561
   Price: $37.79 USD
-- [Water Bacteria Test Kit - E Coli & Coliform Test](https://detekthome.com/products/water-bacteria-test-kit): Detect E. coli, coliform bacteria & mold in well water and drinking water. Lab-grade DIY test kit with accurate results. No lab required. Made in USA by Detekt.
-  Updated: 2026-04-11T14:25:06Z
+- [DIY E. Coli Water Test Kit Made In USA | Detekt Home](https://detekthome.com/products/water-bacteria-test-kit): Water bacteria test kit for E. coli, coliform bacteria, and mold in well water or drinking water. Lab-grade DIY results, no lab required. Learn more today.
+  Updated: 2026-04-20T16:40:58Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -56,8 +56,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Bacteria_in_Water_Amazon_Images_DIPSLIDES_V4-08.png?v=1760979166
     Price: $19.99 USD
-- [Bacteria Test Kit for Surfaces - Home & Kitchen](https://detekthome.com/products/home-sanitation-test-kit): DIY bacteria test kit for surfaces detects coliforms, Salmonella & mold on kitchen counters, cutting boards & appliances. Lab-grade microbial testing at home.
-  Updated: 2026-04-04T21:03:45Z
+- [Surface Bacteria Test Kit Home Use | Detekt Home](https://detekthome.com/products/home-sanitation-test-kit): Home & kitchen sanitation test kit for surfaces detects coliforms, Salmonella, and mold on counters, boards, and appliances. Learn more today.
+  Updated: 2026-04-16T03:32:33Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -70,15 +70,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/B0FVZCL62C-01.png?v=1767124617
     Price: $49.99 USD
-- [Drinking Water Test Kit - Home Water Quality Test](https://detekthome.com/products/total-drinking-water-test-kit): Test your tap or well water for lead, bacteria, mold, pH & hardness at home. Lab-grade DIY water quality test kit. Made in USA. Results in minutes. Shop now!
-  Updated: 2026-03-19T16:17:27Z
+- [Total Drinking Water Test Kit USA Made | Detekt Home](https://detekthome.com/products/total-drinking-water-test-kit): Total drinking water test kit for tap or well water checks lead, bacteria, mold, pH, and hardness at home in minutes. Learn more today.
+  Updated: 2026-04-16T23:31:37Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/ALL-in-ONEWaterAmazonImagesV2-08.png?v=1756418726
   Price: $39.99 USD
 - [Essential Home Inspector Kit - Mold & Bacteria Test](https://detekthome.com/products/essential-home-inspector-kit): For homeowners, airbnb hosts, and landlords: detect mold, bacteria, heavy metals, and more with our DIY home inspection kit. Lab-grade accuracy, results in minutes. Made in USA. Save $$$, protect your .
-  Updated: 2026-03-17T18:23:17Z
+  Updated: 2026-04-16T04:08:21Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -89,22 +89,22 @@
   - [No Radon Test](https://detekthome.com/products/essential-home-inspector-kit?variant=47867427291236)
     Availability: Available
     Price: $94.49 USD
-- [Radon Test Kit - Detect Toxic Odorless Gas](https://detekthome.com/products/toxic-odorless-radon-gas): Test your home for radon gas in 2-7 days. High-quality, simple radon test kit with  lab analysis. Protect your family from the #2 cause of lung cancer.
-  Updated: 2026-03-09T18:44:17Z
+- [2-7 Day Radon Test Kit Lab Analysis | Detekt Home](https://detekthome.com/products/toxic-odorless-radon-gas): Home radon gas test kit with  lab analysis and results in 2-7 days. Simple setup for indoor air safety. Learn more today.
+  Updated: 2026-04-16T02:52:28Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/r.png?v=1756925912
   Price: $29.99 USD
-- [Home Mold Test Kit - DIY Indoor Air Quality Test](https://detekthome.com/products/mold-test-kit): Detect mold, bacteria & fungus in your home with our lab-grade DIY mold test kit. Get visual results in 72hours. Expert consultation. Made in USA. No lab fees!
-  Updated: 2026-04-12T17:28:28Z
+- [DIY Mold Test Kit 6pc 72-Hour Results | Detekt Home](https://detekthome.com/products/mold-test-kit): DIY Mold Test Kit with 6 pieces and visual results in 72 hours. Detect mold, bacteria, and fungus at home. Made in USA. Learn more today.
+  Updated: 2026-04-20T04:34:27Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/MOLDDipslideAmazonImagesV1-07.png?v=1761239927
   Price: $39.99 USD
-- [Lead Water Test Kit - DIY Drinking Water Lead Test](https://detekthome.com/products/lead-in-water-test-kit): Test tap water for lead in just 5 minutes. Lab-grade DIY lead water test kit detects contamination at home. USA-trusted accuracy. Protect your family today!
-  Updated: 2026-04-11T12:49:27Z
+- [5-Minute Lead Water Test Kit | Detekt Home](https://detekthome.com/products/lead-in-water-test-kit): Lead in water test kit for tap water screening in 5 minutes with lab-grade DIY detection. Check home drinking water fast. Learn more today.
+  Updated: 2026-04-16T03:22:15Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -160,47 +160,68 @@
   - [50pcs (Test + Water Collection Tubes)](https://detekthome.com/products/mold-bacteria-water-bulk-wholesale-product?variant=48054527426660)
     Availability: Available
     Price: $247.99 USD
+- [Pool Hot Tub Water Test Kit For E. Coli Mold | Detekt Home](https://detekthome.com/products/pool-hot-tub-water-test-kit): Pool and hot tub water test kit for E. coli, coliform bacteria, and mold. Lab-grade DIY screening, no lab required, made in USA. Learn more today.
+  Updated: 2026-04-15T09:40:44Z
+  Vendor: Detekt Rapid Tests
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/HotTubSquareImages1.png?v=1775055422
+  Price: $24.99 USD
+- [RV Water Test Kit E. coli Mold USA Made | Detekt Home](https://detekthome.com/products/rv-marine-maintenance-water-test-kit): RV and marine water test kit for E. coli, coliform bacteria, and mold in fresh water systems. Lab-grade DIY results, no lab needed. Learn more today.
+  Updated: 2026-04-16T02:59:04Z
+  Vendor: Detekt Rapid Tests
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/RV_Square_Images_v3_cover.png?v=1775073400
+  Price: $24.99 USD
+- [Travel Water Test Kit DIY Lab Grade USA | Detekt Home](https://detekthome.com/products/water-test-for-travel): Travel water test kit for common contaminants with lab-grade DIY screening. Made in USA and gives results in minutes. Learn more today.
+  Updated: 2026-04-16T04:15:02Z
+  Vendor: Detekt Rapid Tests
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/TRAVELSQUAREIMAGES-01.png?v=1775070255
+  Price: $24.99 USD
 
 ## Collections
 
 - [Lead Test Kit - Water & Surface Lead Detection](https://detekthome.com/collections/lead): Lead test kits detect toxic lead in drinking water, paint & surfaces. Results in 10 minutes. EPA-level sensitivity at 5ppb. 99% accurate. Made in USA.
-  Updated: 2026-04-12T11:18:43Z
+  Updated: 2026-04-17T11:18:58Z
   Total Products: 4
 - [Algae Test Kit - Blue Green Algae & Cyanobacteria](https://detekthome.com/collections/algae-toxin): Algae test kit detects toxic blue green algae & cyanobacteria in ponds, lakes & reservoirs. Results in 10 minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-13T11:17:19Z
+  Updated: 2026-04-18T11:21:05Z
   Total Products: 1
 - [Home Air Quality Test Kit - Mold & Radon Detection](https://detekthome.com/collections/air-quality): Home air quality test kits detect mold spores, radon gas & indoor air contaminants. Results in minutes. 99% accurate. EPA trusted. Lab-grade. Made in USA.
-  Updated: 2026-04-13T11:17:19Z
+  Updated: 2026-04-20T11:19:40Z
   Total Products: 3
 - [Bacteria Test Kit - Water & Surface Microbial Test](https://detekthome.com/collections/bacteria): Bacteria test kits detect E. coli, coliform & harmful microbes in water, kitchen & home surfaces. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-13T11:17:19Z
+  Updated: 2026-04-20T11:19:40Z
   Total Products: 4
 - [Water Quality](https://detekthome.com/collections/water-quality)
-  Updated: 2026-04-13T11:17:19Z
-  Total Products: 6
+  Updated: 2026-04-20T11:19:40Z
+  Total Products: 9
 - [Radon Test Kit - Home Radon Gas Detection & Testing](https://detekthome.com/collections/radon-gas): Radon test kits detect dangerous radon gas in your home basement & living spaces. DIY radon testing with results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-03-10T11:18:49Z
+  Updated: 2026-04-15T14:52:24Z
   Total Products: 2
 - [Mold Test Kit - Home Air Quality & DIY Mold Detection](https://detekthome.com/collections/mold): Mold test kits detect airborne mold spores & indoor air quality issues in your home. Lab-grade results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-13T11:17:19Z
+  Updated: 2026-04-20T11:19:40Z
   Total Products: 4
 - [Water Purity Test Kit - Drinking Water & Well Water Testing](https://detekthome.com/collections/water-purity): Water test kits detect bacteria, lead & contaminants in drinking water, well water & tap water. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-12T11:18:43Z
-  Total Products: 5
+  Updated: 2026-04-20T11:19:40Z
+  Total Products: 7
 - [Leak Monitoring](https://detekthome.com/collections/leak-monitoring)
   Updated: 2026-03-10T11:18:49Z
   Total Products: 1
 - [Best Sellers](https://detekthome.com/collections/best-sellers)
-  Updated: 2026-04-13T11:17:19Z
-  Total Products: 9
+  Updated: 2026-04-20T11:19:40Z
+  Total Products: 12
 - [Full Home Tests](https://detekthome.com/collections/full-home-tests)
-  Updated: 2026-03-20T11:16:57Z
+  Updated: 2026-04-17T11:18:58Z
   Total Products: 3
 - [Sanitation](https://detekthome.com/collections/sanitation)
-  Updated: 2026-04-12T11:18:43Z
+  Updated: 2026-04-20T11:19:40Z
   Total Products: 2
 - [Mold](https://detekthome.com/collections/mold-1)
-  Updated: 2026-04-13T11:17:19Z
+  Updated: 2026-04-20T11:19:40Z
   Total Products: 1
 - [Bulk & Wholesale](https://detekthome.com/collections/bulk-wholesale)
   Updated: 2026-03-12T20:19:32Z
