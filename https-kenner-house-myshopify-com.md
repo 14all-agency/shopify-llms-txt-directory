@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-12-07T21:38:41Z
 - Contact Email: kennerhouseon98@gmail.com
-- Updated At: 2026-04-12T00:00:48.776Z
+- Updated At: 2026-04-21T00:00:48.012Z
 
 ## Products
 
@@ -1402,7 +1402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S73f5567a3db94abc8869e5a5c0444c94Z_8bc57b09-a8f7-46ef-b671-c53c8a3e6485.webp?v=1771611995
     Price: $8.99 USD
 - [JC Marshmallow Plush Keychain, Plush Cherry Bag Charm, Little Turtle Plush Toy, Croissant Keychain, Little Penguin Charm](https://kenner-house.myshopify.com/products/jc-marshmallow-plush-keychain-plush-cherry-bag-charm-little-turtle-plush-toy-croissant-keychain-little-penguin-charm-1): SPECIFICATIONSAnimals: Bartholomew BearBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesFilling: PP CottonForm: GeniusGender: UnisexHigh-concerned chemical: NoneItem Type: animalModel Number: 26062021SOrigin: Mainland ChinaRecommend Age: 18+,14+yWarning: Not suitable for children under 36 months
-  Updated: 2026-03-30T13:44:00Z
+  Updated: 2026-04-13T18:44:35Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -1540,7 +1540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S54cb2690153d4fae8a46855553b676c7j_da277a2a-08b7-489e-be74-086ac2f29f5a.webp?v=1771611997
     Price: $6.80 USD
 - [New JC label cute girl bag charm plush toy keychain, Kawaii plush toy, perfect as a birthday or Christmas gift.](https://kenner-house.myshopify.com/products/new-jc-label-cute-girl-bag-charm-plush-toy-keychain-kawaii-plush-toy-perfect-as-a-birthday-or-christmas-gift-1): SPECIFICATIONSBrand Name: JELLYCATCN: GuangdongCertification: CEChoice: yesFeatures: Movie & TVFilling: PP CottonGender: UnisexHigh-concerned chemical: NoneMaterial: COTTONOrigin: Mainland ChinaRecommend Age: 18+,14+y
-  Updated: 2026-03-30T13:44:09Z
+  Updated: 2026-04-13T18:44:36Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -3440,7 +3440,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S06115c4220dd458f80cf69e85876073fx.webp?v=1771732581
   Price: $6.99 USD
 - [BEAUTY GLAZED 4Color Lipgloss Lip Oil Teens Moisturizing Lipstick Lip Balm High Shine And Lip Gloss Long-Lasting Dry Lip Care](https://kenner-house.myshopify.com/products/beauty-glazed-4color-lipgloss-lip-oil-teens-moisturizing-lipstick-lip-balm-high-shine-and-lip-gloss-long-lasting-dry-lip-care): SPECIFICATIONSBenefit: Moisturizer,Long-lasting,Hydrating,WaterproofBrand Name: beauty glazedChoice: yesCountry/Region of Manufacture: China MainlandDate of Manufacture: See packagingHigh-concerned chemical: NoneIngredient: See packagingManufacturer: See packagingModel Number: B217NET WT: 15MLNumber of Pieces: One UnitOrigin: Mainland ChinaQuantity: 1Shelf Life: See packagingSize: Full SizeType: Lip Gloss
-  Updated: 2026-03-30T13:45:13Z
+  Updated: 2026-04-13T18:41:18Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -9117,7 +9117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/2029/7043/files/S360c315988a4481ca2abdfda491f713ai.webp?v=1772117750
     Price: $14.99 USD
 - [360Pcs Pokemon Destined Rivals Prismatic Evolutions Card Stellar Crown 151 Ultra Prism English Booster Battle Transaction Gifts](https://kenner-house.myshopify.com/products/360pcs-pokemon-destined-rivals-prismatic-evolutions-card-stellar-crown-151-ultra-prism-english-booster-battle-transaction-gifts): SPECIFICATIONSBrand Name: PotdemielCertification: CE,Europe  (CE)Choice: yesHigh-concerned chemical: NoneModel Number: pokemonOrigin: Mainland ChinaRecommend Age: 18+Theme: Fantasy & Sci-FiWarning: no
-  Updated: 2026-03-30T13:49:06Z
+  Updated: 2026-04-13T18:41:16Z
   Vendor: Kenner House Emporium
   Product Type: 
   Availability: Available
@@ -11780,8 +11780,8 @@
   Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [T-Shirts](https://kenner-house.myshopify.com/collections/t-shirts)
-  Updated: 2026-04-10T16:26:31Z
-  Total Products: 133
+  Updated: 2026-04-14T13:19:54Z
+  Total Products: 134
 - [Coffee Dispensers](https://kenner-house.myshopify.com/collections/coffee-dispensers)
   Updated: 2026-04-05T13:50:09Z
   Total Products: 44
@@ -11816,8 +11816,8 @@
   Updated: 2026-04-05T13:50:09Z
   Total Products: 44
 - [Clothing](https://kenner-house.myshopify.com/collections/sleepwear-loungewear)
-  Updated: 2026-04-10T16:26:31Z
-  Total Products: 133
+  Updated: 2026-04-14T13:19:54Z
+  Total Products: 134
 - [Coffee Filter Baskets](https://kenner-house.myshopify.com/collections/coffee-filter-baskets)
   Updated: 2026-04-05T13:50:09Z
   Total Products: 44
@@ -11876,8 +11876,8 @@
   Updated: 2026-04-07T16:52:11Z
   Total Products: 51
 - [Clothing](https://kenner-house.myshopify.com/collections/clothing)
-  Updated: 2026-04-10T16:26:01Z
-  Total Products: 105
+  Updated: 2026-04-14T13:19:25Z
+  Total Products: 106
 
 ## Blogs
 
@@ -11895,6 +11895,9 @@
   - [Top Toddler Potty Training Tips](https://kenner-house.myshopify.com/blogs/news/top-toddler-potty-training-tips): Top Toddler Potty Training Tips
     Updated: 2026-04-11T16:00:22Z
     Author: Kenner House Emporium
+  - [Common Toddler Tantrum Triggers and Solutions](https://kenner-house.myshopify.com/blogs/news/common-toddler-tantrum-triggers-and-solutions): Common Toddler Tantrum Triggers and Solutions
+    Updated: 2026-04-18T16:00:25Z
+    Author: Kenner House Emporium
 
 ## Store Pages
 
@@ -11907,6 +11910,14 @@
 
 - [Privacy Policy](https://kenner-house.myshopify.com/policies/privacy-policy)
   Updated: 2025-12-07T15:38:54-06:00
+- [Shipping Policy](https://kenner-house.myshopify.com/policies/shipping-policy)
+  Updated: 2026-04-14T08:04:12-05:00
+- [Refund Policy](https://kenner-house.myshopify.com/policies/refund-policy)
+  Updated: 2026-04-14T08:05:53-05:00
+- [Terms of Service](https://kenner-house.myshopify.com/policies/terms-of-service)
+  Updated: 2026-04-14T08:04:46-05:00
+- [Contact Information](https://kenner-house.myshopify.com/policies/contact-information)
+  Updated: 2026-04-14T07:59:53-05:00
 
 ## Optional
 
