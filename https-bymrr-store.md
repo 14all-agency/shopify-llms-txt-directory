@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-26T11:03:49Z
 - Contact Email: admin@bymrr.store
-- Updated At: 2026-04-14T16:00:30.633Z
+- Updated At: 2026-04-21T16:00:33.003Z
 
 ## Products
 
@@ -815,7 +815,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/7562b4f13a1e5f490a5c7b3025cf56ec.jpg?v=1776171393
   Price: $42.17 USD
 - [HO and N Scale Model Trees - 50 Dark Green Pines](https://bymrr.store/products/s0805-50pcs-dark-green-pine-model-cedar-trees-2-05inch-52mm-for-model-railroad-scenery-landscape-layout-ho-n-scale-new-2inch): HO and N scale model trees set with 50 dark green pine cedars, 2.05 inches tall. Great for detailed landscapes and layouts.
-  Updated: 2026-04-14T12:56:40Z
+  Updated: 2026-04-21T09:18:01Z
   Vendor: BYMRR Train Store
   Product Type: 
   Availability: Available
@@ -1742,7 +1742,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/d89c932ee25ee1c7b5dd3c3baa54a274.jpg?v=1773960522
   Price: $119.91 USD
 - [Premium HO Scale Model Train Display Cabinet - Lockable Walnut Wall Rack with 98% UV Protection](https://bymrr.store/products/elegant-ho-scale-model-train-display-cabinet-lockable-walnut-wall-rack-with-98-uv-protection): Handcrafted from solid furniture-grade beech hardwood featuring an elegant walnut finish Stunning brass locks and hinges equipped with keys for added security Over-lip shelves designed to keep cars and tracks securely in place 98% UV protected hinged door frame to safeguard your collection Six spacious shelves for a comprehensive display of your model trains Introducing the HO Scale Model Train Display Cabinet, a meticulously crafted piece that combines functionality with aesthetic appeal. Constructed from imported Australian beech wood, this wall-mounted cabinet is designed to elegantly showcase your cherished HO scale trains while ensuring their protection from dust and handling. With six spacious shelves, each accommodating up to 36 inches of standard tracks and trains, this cabinet provides ample space for both seasoned collectors and newcomers to display their collections securely. The innovative over-lip design of the shelves ensures that your cars and tracks remain firmly in place, making it a practical choice for any train enthusiast. The cabinet features a beautiful walnut finish that complements various decor styles, whether in a garage, den, or dedicated display area. Its 98% UV protection, provided by the hinged door frame, prevents fading and damage from sunlight, preserving the vibrancy of your models over time. Enhanced by stunning brass locks and hinges, this display cabinet not only serves as a secure storage solution but also as a captivating piece of furniture that elevates the presentation of your model train collection.  in this exquisite display cabinet to protect and showcase your passion for model trains in style.
-  Updated: 2026-04-14T14:18:02Z
+  Updated: 2026-04-21T13:34:45Z
   Vendor: sfDisplay.com, LLC.
   Product Type: 
   Availability: Available
@@ -2651,13 +2651,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/39e1c1925ed83064dd3e1812f166677e.jpg?v=1776171679
   Price: $25.04 USD
-- [Woodland Scenics Built-N-Ready Citizens Savings](https://bymrr.store/products/woodland-scenics-built-n-ready-citizens-savings-loan-two-story-building-with-accessories-ho-scale): Woodland Scenics Built-N-Ready Citizens Savings & Loan Two-Story Building with Accessories, HO Scale Fast free shipping
-  Updated: 2026-04-14T13:02:40Z
-  Vendor: Woodland Scenics
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/517d4d8180841e6500c3e8e4ea0663a4.jpg?v=1776171759
-  Price: $89.27 USD
 - [O'Leary Dairy Distribution HO Scale Pre-Fabricated Building by Woodland Scenics](https://bymrr.store/products/oleary-dairy-distribution-ho-scale-pre-fabricated-building-by-woodland-scenics): O'Leary Dairy Distribution HO Scale Pre-Fabricated Building by Woodland Scenics Fast free shipping
   Updated: 2026-04-14T13:02:46Z
   Vendor: WOODLAND SCENICS
@@ -2961,7 +2954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/e9ab43f1b6aa93698092226ae2050ace.jpg?v=1776171833
     Price: $13.25 USD
 - [Metal Repair Adhesive Kit | Epoxy Liquid Weld for Bonding](https://bymrr.store/products/high-strength-metal-repair-adhesive-kit-for-stainless-steel-aluminum-and-plastics-epoxy-liquid-weld-for-durable-bonding-and-repair): Metal Repair Adhesive Kit offers high-strength epoxy bonding for stainless steel, aluminum, and plastics. Ideal for durable repairs, welding, and projects.
-  Updated: 2026-04-14T15:47:28Z
+  Updated: 2026-04-21T14:49:48Z
   Vendor: WXYCRUEYE
   Product Type: 
   Availability: Available
@@ -3099,13 +3092,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/2d9a23659dedf018d0c0f0367d2f8761.jpg?v=1776171861
   Price: $19.01 USD
-- [Woodland Scenics Brown Ballast – 32 Oz. Shaker for Scenery](https://bymrr.store/products/woodland-scenics-brown-ballast-32-oz-shaker): The Woodland Scenics Brown Ballast 32 Oz. Shaker is ideal for realistic model railroad track beds and scenic layouts, making detailing fast and easy.
-  Updated: 2026-04-14T13:04:22Z
-  Vendor: Woodland Scenics
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/2a153894b0094d5c05e0ddde2abae1b6.jpg?v=1776171861
-  Price: $21.63 USD
 - [Ballast System for Model Railroads – Easy Track Application](https://bymrr.store/products/ballast-system): The Ballast System for Model Railroads makes applying realistic track ballast fast and precise, perfect for enhancing scenic layouts and detailed track work.
   Updated: 2026-04-14T13:04:22Z
   Vendor: Woodland Scenics
@@ -3134,13 +3120,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/3e10bd7d0d15efdf07a034ccac835046.jpg?v=1776171868
   Price: $22.00 USD
-- [Woodland Scenics Fine Buff Ballast Railroad Landscaping](https://bymrr.store/products/woodland-scenics-fine-buff-ballast-for-model-railroad-landscaping): The Woodland Scenics Fine Buff Ballast is ideal for realistic model railroad landscaping. Perfect for creating authentic track beds and scenic details.
-  Updated: 2026-04-14T13:04:28Z
-  Vendor: Woodland Scenics
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/d4d224398a253519c2e56ee09995d59b_fe2f6cad-abfd-4f5f-ae27-06cbf7e901dd.jpg?v=1776171868
-  Price: $15.45 USD
 - [Light Green Forest Canopy by Woodland Scenics Model Scenery](https://bymrr.store/products/light-green-forest-canopy-by-woodland-scenics): Enhance your model landscapes with the Light Green Forest Canopy by Woodland Scenics. Perfect for realistic trees, forests, and scenic details in any layout.
   Updated: 2026-04-14T13:04:28Z
   Vendor: Woodland Scenics
@@ -3169,13 +3148,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/ab5242ced9d5775d70afebe98967649b.jpg?v=1776171874
   Price: $20.64 USD
-- [Woodland Fall Foliage Mix | Fine-Leaf Scenery Material](https://bymrr.store/products/fine-leaf-foliage-fall-mix-by-woodland-scenics): Woodland Fall Foliage Mix features fine-leaf material in autumn colors for realistic model railroad layouts, dioramas, and seasonal scenery scenes.
-  Updated: 2026-04-14T13:04:35Z
-  Vendor: WOODLAND SCENICS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/2c95e21ccfbac8b79cd3abad0b479cfb.jpg?v=1776171874
-  Price: $40.42 USD
 - [Autumn Mix Lichen Bag | 86.6 cu in Model Scenery Foliage](https://bymrr.store/products/lichen-bag-in-autumn-mix-86-6-cubic-inches): Autumn Mix Lichen Bag contains 86.6 cubic inches of natural foliage material. Perfect for model railroads, dioramas, and seasonal scenery decoration.
   Updated: 2026-04-14T13:04:35Z
   Vendor: Woodland Scenics
@@ -3377,7 +3349,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/31289897d9e825928ad0b5ee6a75c950.jpg?v=1776171907
   Price: $495.14 USD
 - [Digitrax Advanced Super Throttle DGTDT602](https://bymrr.store/products/digitrax-inc-advanced-super-throttle-dgtdt602-power-supply-unit): Digitrax Advanced Super Throttle DGTDT602 power supply unit for model trains. Reliable, high-performance control solution ideal for hobbyists and layouts.
-  Updated: 2026-04-14T13:05:15Z
+  Updated: 2026-04-19T05:04:22Z
   Vendor: Digitrax
   Product Type: 
   Availability: Available
@@ -3391,7 +3363,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/328a5e6c5468de4649490fbc4ddc2a15.jpg?v=1776171915
   Price: $182.15 USD
 - [Digitrax Evolution Duplex Starter DGTEVOXD](https://bymrr.store/products/digitrax-inc-evolution-duplex-starter-dgtevoxd-power-supply-units): Digitrax Evolution Duplex Starter DGTEVOXD power supply units for model trains. Reliable, high-performance power solution ideal for hobbyists and layouts.
-  Updated: 2026-04-14T13:05:15Z
+  Updated: 2026-04-19T05:04:24Z
   Vendor: Digitrax
   Product Type: 
   Availability: Available
@@ -3405,14 +3377,14 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/34647e73157f93d0de8c4a87eb0a85f8.jpg?v=1776171914
   Price: $43.14 USD
 - [Digitrax HO Scale DCC Decoder – 6-Function, 1.25A](https://bymrr.store/products/digitrax-ho-scale-dcc-decoder-for-proto-2000-6-function-1-25a-decoder-only-for-hobbyist-trains): Digitrax HO Scale DCC Decoder for Proto 2000 locomotives, 6-function, 1.25A. Decoder only, ideal for hobbyist trains and model railroad enthusiasts.
-  Updated: 2026-04-14T13:05:15Z
+  Updated: 2026-04-19T05:04:21Z
   Vendor: DIGITRAX, INC.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/91e716b4c0121c6dae5a8eaa9116bd28.jpg?v=1776171914
   Price: $35.23 USD
 - [Professional Airbrush Kit with Compressor – Model G22](https://bymrr.store/products/professional-airbrush-kit-with-compressor-model-g22-dual-action-gravity-feed-airbrush-with-1-3-oz-fluid-cup-and-0-3-mm-tip-includes-hose-and-1-5hp-compressor): Professional Airbrush Kit with Compressor, featuring Model G22 dual-action gravity feed airbrush with 1/3 oz. fluid cup, 0.3 mm tip, hose, and 1/5 Hp compressor
-  Updated: 2026-04-14T14:03:47Z
+  Updated: 2026-04-21T12:31:47Z
   Vendor: Master Airbrush
   Product Type: 
   Availability: Available
@@ -3585,7 +3557,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/ec69c5c8be1d979e068c1f903b2add8c.jpg?v=1776171962
   Price: $80.68 USD
 - [ELEGOO Arduino Robot Kit - Smart Car Kit for Kids](https://bymrr.store/products/elegoo-uno-r3-smart-robot-car-kit-v4-for-arduino-stem-robotics-kit-for-ages-8-16-ideal-coding-and-engineering-gift-for-boys-and-girls): ELEGOO Arduino Robot Kit lets kids 8-16 build and code a smart robot car. Ideal STEM gift to learn robotics, programming, and engineering skills.
-  Updated: 2026-04-14T13:06:03Z
+  Updated: 2026-04-18T03:29:19Z
   Vendor: ELEGOO
   Product Type: 
   Availability: Available
@@ -3704,7 +3676,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/4390e3e17891afe93ffa47898b984c0a.jpg?v=1776171995
   Price: $27.78 USD
 - [Analysis and Simulation of the Oil Industry](https://bymrr.store/products/analysis-and-simulation-of-the-oil-industry): Analysis and Simulation of the Oil Industry provides insights and tools to model oil operations, forecast performance, and optimize decision-making.
-  Updated: 2026-04-14T13:06:36Z
+  Updated: 2026-04-21T09:18:21Z
   Vendor: Does Not Apply
   Product Type: 
   Availability: Available
@@ -3821,13 +3793,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/3ac2abdd3f61dbacbda22bf6f6ea4a7e.jpg?v=1776172031
     Price: $31.22 USD
-- [Plaster Gauze Bandage - 6 Pack, 6” x 180” Rolls for Crafting, Perfect for Masks, Scenery, and Belly Casts](https://bymrr.store/products/plaster-gauze-bandage-6-pack-6-x-180-rolls-for-hobby-craft-ideal-for-masks-scenery-and-belly-casts): Fast free shipping
-  Updated: 2026-04-14T13:07:11Z
-  Vendor: ZIQI
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/9d569d305693615ec3550574beec6df3.jpg?v=1776172030
-  Price: $32.46 USD
 - [24-Piece HO Scale 36-Inch Metal Wheelsets with Metal DC Wheels and Axles - Model C8721](https://bymrr.store/products/24-piece-ho-scale-36-inch-metal-wheelsets-1-87-with-metal-dc-wheels-and-axles-model-c8721): 24-piece set of precision HO scale wheelsets featuring 36-inch metal wheels and axles. Each wheelset is engineered with metal DC wheels for reliable electrical pickup and smooth rolling performance on your layout. Ideal for upgrading or building rolling stock with authentic, durable components. Compatible with standard HO scale trucks and frames.
   Updated: 2026-04-14T13:07:11Z
   Vendor: EVEMODEL
@@ -3849,13 +3814,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/cf99a581a1ea79a89fc9b9e7e5c5beb9.jpg?v=1776172043
   Price: $25.76 USD
-- [1:50 Scale Diecast Masters Red International HX620 Tandem Dump Truck Model 71076](https://bymrr.store/products/1-50-scale-diecast-masters-red-international-hx620-tandem-dump-truck-model-71076): 1:50 Scale Diecast Masters Red International HX620 Tandem Dump Truck Model 71076 Authentic 1:50 scale diecast replica of the International HX620 tandem dump truck, meticulously detailed by Diecast Masters. This heavy-duty model captures the rugged engineering of the full-size vehicle with realistic cab design, functional dump bed, dual rear axles, and weathered finish. Perfect for collectors, construction enthusiasts, and model builders seeking premium accuracy and durability. Ideal for display, play, or adding to an existing fleet collection.
-  Updated: 2026-04-14T13:07:24Z
-  Vendor: Yu-Lee
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/482d649846e5759b2fb0e5d34f4338a0.jpg?v=1776172043
-  Price: $68.34 USD
 - [Woodland Scenics O Scale Camping Set with Tent and Accessories (3 Pieces)](https://bymrr.store/products/woodland-scenics-o-scale-campers-set-with-tent-and-accessories-3-pieces): Fast free shipping
   Updated: 2026-04-14T13:07:24Z
   Vendor: WOODLAND SCENICS
@@ -4017,13 +3975,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/171587546b54c15dec8f73300702f23d.jpg?v=1776172100
   Price: $20.61 USD
-- [Lionel Santa Fe 2-8-0 LionChief #2517 Bluetooth O Gauge Steam Locomotive with Tender](https://bymrr.store/products/lionel-santa-fe-2-8-0-lionchief-2517-bluetooth-o-gauge-steam-locomotive-with-tender): The Lionel Santa Fe 2-8-0 LionChief #2517 brings authentic steam locomotive operation to your layout with modern wireless control. This O Gauge engine features Bluetooth connectivity, allowing you to operate speed, direction, and sound effects directly from your smartphone or tablet—no traditional transformer required. The detailed 2-8-0 wheel configuration and Santa Fe livery capture the classic look of mid-century freight locomotives. The included tender provides realistic proportions and operational balance. LionChief technology delivers smooth, responsive performance with authentic steam sounds and chuffing effects that respond to throttle changes. Perfect for operators seeking the charm of traditional steam locomotives combined with the convenience of app-based control. Compatible with standard O Gauge track and accessories. Ideal for both new layouts and established collections.
-  Updated: 2026-04-14T13:08:20Z
-  Vendor: Lionel
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/34887fd2c0426c890d881092030a5059.jpg?v=1776172098
-  Price: $394.73 USD
 - [Bachmann Trains O Scale GG-1 Locomotive with True Blast Plus Sound - PRR No. 4885 in Brunswick Green with Single Stripe Design](https://bymrr.store/products/bachmann-trains-o-scale-gg-1-locomotive-with-true-blast-plus-sound-prr-no-4885-in-brunswick-green-single-stripe): Fast free shipping
   Updated: 2026-04-14T13:08:27Z
   Vendor: Bachmann Industries Inc.
@@ -4038,13 +3989,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/4c6dea73e640f754718a03b8bee70524.jpg?v=1776172099
   Price: $532.29 USD
-- [MTH RailKing North Pole ES44AC Diesel Locomotive #1225 O Gauge Model 30-21239-1](https://bymrr.store/products/mth-railking-north-pole-es44ac-diesel-locomotive-1225-o-gauge-30-21239-1): Fast free shipping
-  Updated: 2026-04-14T13:08:34Z
-  Vendor: M.T.H. Electric Trains
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/e8b7c6f0f9a6cbe71ec3d52f60d893df.jpg?v=1776172113
-  Price: $605.06 USD
 - [Santa Fe LionChief Diesel Locomotive #157 O Gauge Model 2323110-E](https://bymrr.store/products/santa-fe-lionchief-diesel-locomotive-157-o-gauge-model-2323110-e): The Santa Fe LionChief Diesel Locomotive #157 brings authentic Southwestern railroad heritage to your O gauge layout. This detailed model captures the iconic streamlined design of Santa Fe's legendary passenger and freight service, featuring precise paint schemes and lettering that reflect the railroad's golden era. Built for reliable operation on standard O gauge track, this locomotive delivers smooth performance whether you're running passenger consists or mixed freight. The LionChief system offers intuitive control and sound features that bring your layout to life with authentic diesel engine sounds and operational realism. Perfect for collectors and operators who appreciate quality craftsmanship and historical accuracy, this model serves as a striking centerpiece for any Santa Fe-themed layout or comprehensive railroad collection.
   Updated: 2026-04-14T13:08:27Z
   Vendor: 18 years and up
@@ -4235,7 +4179,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/5da4c4bfb67aca4cd9844af105814ba5.jpg?v=1776172145
   Price: $48.43 USD
 - [Anezus Self-Healing Double-Sided Rotary Cutting Mat, 12 x 18 Inches, 5-Ply Craft Board for Sewing, Scrapbooking, and Fabric Projects](https://bymrr.store/products/anezus-self-healing-sewing-mat-12inch-x-18inch-rotary-cutting-mat-double-sided-5-ply-craft-cutting-board-for-sewing-crafts-hobby-fabric-precision-scrapbooking-project): Precision cutting mat designed for model railroad scenery work, fabric layouts, and detailed hobby projects. The 12 x 18-inch self-healing surface features a durable 5-ply construction that resists blade marks and extends tool life. Double-sided grid markings provide accurate measurements for cutting track, building materials, and scenic elements. The rotary-compatible surface works with craft knives, rotary cutters, and hobby tools. Self-healing technology closes minor cuts automatically, maintaining a smooth work surface through hundreds of projects. Ideal for hobbyists who demand accuracy and durability in their workspace.
-  Updated: 2026-04-14T13:09:14Z
+  Updated: 2026-04-21T09:17:51Z
   Vendor: anezus
   Product Type: 
   Availability: Available
@@ -4284,7 +4228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/68c0ea268eb83a8744ccc279506305e5.jpg?v=1776172176
   Price: $61.88 USD
 - [Military Train Building Set - 1174 Pieces Compatible with Lego, Includes Lights, Missiles, Trucks, and Train Tracks -](https://bymrr.store/products/military-train-building-kit-1174-pieces-compatible-with-lego-featuring-lights-missiles-trucks-and-train-tracks-ideal-gift-for-military-enthusiasts-teens-and-adults): Fast free shipping Perfect Gift for Military Enthusiasts, Teens, and Adults
-  Updated: 2026-04-14T13:09:44Z
+  Updated: 2026-04-17T11:01:02Z
   Vendor: Mkmimo
   Product Type: 
   Availability: Available
@@ -4319,7 +4263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/a494f981b54c9bf7b81e1bc584e9829f.jpg?v=1776172198
   Price: $382.19 USD
 - [Athearn HO Scale Gas Turbine Locomotive with DCC and Sound - Model #58 (ATHG41243)](https://bymrr.store/products/athearn-ho-scale-gas-turbine-locomotive-with-dcc-and-sound-model-58-athg41243): Athearn HO Scale Gas Turbine Locomotive with DCC and Sound - Model #58 (ATHG41243) Authentic HO scale gas turbine locomotive featuring factory-installed DCC decoder and premium sound system. Model #58 captures the distinctive streamlined profile and operational character of mid-century turbine power. Equipped with directional lighting, smooth motor performance, and detailed cab interior. Ready to run on any DCC-equipped layout with full sound effects including turbine startup, acceleration, and dynamic braking. Ideal for modelers seeking authentic motive power with modern control and audio realism.
-  Updated: 2026-04-14T13:09:44Z
+  Updated: 2026-04-16T12:39:13Z
   Vendor: Horizon Hobby
   Product Type: 
   Availability: Available
@@ -4445,7 +4389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/0a5c6454a12847dd8224557cd7b22b35.jpg?v=1776172253
   Price: $23.97 USD
 - [ROKR 3D Mechanical Puzzle Kit - Vintage Electric Car Model](https://bymrr.store/products/experience-the-magic-of-engineering-with-the-rokr-3d-mechanical-wooden-puzzle-model-kit-469-piece-vintage-electric-car-steam-engine-for-adults-perfect-diy-hobby-and-unique-gift-for-any-occasion): Discover the ROKR 3D Mechanical Puzzle Kit. Build a vintage electric car steam engine with 469 pieces. Ideal for  DIY enthusiasts, perfect gift.
-  Updated: 2026-04-14T13:11:03Z
+  Updated: 2026-04-17T11:43:29Z
   Vendor: ROKR
   Product Type: 
   Availability: Available
@@ -4534,7 +4478,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/85398c98a9945b562e893419cef33c29.jpg?v=1776172275
   Price: $14.42 USD
 - [Bachmann Trains E-Z Model Railroads Track Planning Guide - 0.5 Liters](https://bymrr.store/products/bachmann-trains-e-z-model-railroads-track-planning-guide-0-5-liters): Fast free shipping
-  Updated: 2026-04-14T13:11:30Z
+  Updated: 2026-04-21T09:18:41Z
   Vendor: Bachmann Industries Inc.
   Product Type: 
   Availability: Available
@@ -4611,7 +4555,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/1eae6a2d397c175730ddb0e4e3db4a80.jpg?v=1776172302
   Price: $15.45 USD
 - [HO Scale Railroad Crossing Sign Set with LED Lights](https://bymrr.store/products/jtd876rp-ho-scale-railroad-train-track-crossing-sign-set-with-4-led-heads-and-circuit-board-flasher-flashing-red-train-signal-lights-for-decoration-and-events): Get the HO Scale Railroad Crossing Sign Set with 4 LED heads and circuit board for flashing red lights. Perfect for decoration and events. Fast free shipping.
-  Updated: 2026-04-14T13:11:43Z
+  Updated: 2026-04-21T09:18:51Z
   Vendor: Evemodel
   Product Type: 
   Availability: Available
@@ -5456,13 +5400,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/a5fd76e2855bf7089161056aaec92938.jpg?v=1776172486
   Price: $22.61 USD
-- [Lionel Battery, Operated Toy Train Set – Kids 4+](https://bymrr.store/products/lionel-battery-operated-toy-train-set): Lionel battery-operated toy train set with authentic sounds and lights. Perfect for kids 4 and up. Fast free shipping available.
-  Updated: 2026-04-14T13:14:47Z
-  Vendor: Lionel
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/867896525b09237426f22d0626660ed6.jpg?v=1776172486
-  Price: $93.08 USD
 - [2 to 5 Pieces of 1:76/1:87/1:160 Scale Power Line Poles for OO/HO/N Scale Model Railroads and Architectural Models](https://bymrr.store/products/2-to-5-pieces-of-1-76-1-87-1-160-scale-power-line-poles-for-oo-ho-n-scale-model-railroads-and-architectural-models): Product Description Enhance your model railroad or architectural layouts with the 2/5 Pcs 1:76/1:87/1:160 Power Line Pole set. This meticulously crafted miniature utility pole is designed for various scales, including HO/OO (1:76/1:87) and N (1:160), making it a versatile addition to your collection. The poles are available in heights of 160mm for HO/OO scale and 75mm for N scale, providing the perfect scale representation for your projects. Each set includes a circular base and a billboard, allowing for easy installation and customization. To achieve a realistic appearance, consider purchasing additional guy wires (0.28mm Lead Wires in Black) to attach to the crossbars using super glue. This added detail will enhance the authenticity of your models. For installation, simply drill a hole—approximately 5mm for HO/OO Scale and 2mm for N Scale—and securely position the utility poles in your layouts. Whether you are a hobbyist or a professional model maker, this product will elevate the visual appeal of your miniature scenes. Available in multiple scales: 1:76/1:87 (160mm) and 1:160 (75mm) for versatile use. Includes a circular base and billboard for easy setup and customization. Compatible with various model railroad and architectural layouts. Enhances realism with the option to add guy wires for added detail. Crafted from high-quality materials to ensure durability and longevity.
   Updated: 2026-04-14T13:14:53Z
   Vendor: BYMRR Train Store
@@ -5965,7 +5902,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/30ca8c55e5ddcddf090f2d2bf092689f.jpg?v=1776172564
   Price: $52.31 USD
 - [🚂💨 Get ready to roll with the Bachmann EMD GP40 DCC](https://bymrr.store/products/🚂💨-get-ready-to-roll-with-the-bachmann-emd-gp40-dcc-diesel-locomotive-in-union-pacific-912-a-must-have-for-all-ho-scale-train-enthusiasts-modeltrains-trainlovers): The Bachmann EMD GP40 DCC Diesel Locomotive captures the iconic Union Pacific #912 in authentic HO Scale detail. This digitally equipped model features DCC compatibility for seamless integration into your layout's control system, allowing smooth speed and direction control. The GP40's robust engineering delivers reliable performance on your track, while its period-accurate livery brings authentic railroad heritage to your display. Perfect for operators building realistic freight operations or expanding an existing collection, this locomotive combines hobby-grade craftsmanship with practical functionality for serious model railroaders.
-  Updated: 2026-04-14T13:16:05Z
+  Updated: 2026-04-15T06:32:46Z
   Vendor: Bachmann
   Product Type: 
   Availability: Available
@@ -6049,13 +5986,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/ef717e1c55cea681c96e5d14b9824b9c.jpg?v=1776172584
   Price: $150.62 USD
-- [N F7 Freight Train Set - AT&SF Bluebonnet, Ready to Roll with DCC](https://bymrr.store/products/choo-choo-🚂💨-get-your-hands-on-the-n-f7-freight-train-set-at-sf-bluebonnet-ready-to-roll-with-dcc-perfect-for-all-train-lovers-modeltrains-trainenthusiasts): The N F7 Freight Train Set in AT&SF Bluebonnet livery brings authentic railroad heritage to your layout. This ready-to-run set features DCC compatibility, allowing you to control speed, direction, and lighting with precision. The detailed F7 diesel locomotive captures the classic streamliner aesthetic, while the included freight cars complete a realistic consist. Ideal for hobbyists seeking quality craftsmanship and operational flexibility, this set delivers both visual appeal and hands-on enjoyment for model railroaders of all experience levels. Perfect for all Train Lovers! #ModelTrains #TrainEnthusiasts
-  Updated: 2026-04-14T13:16:25Z
-  Vendor: Kato USA, Inc
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/824d985c9fdb8cf574d01217ebe126a7.jpg?v=1776172584
-  Price: $204.37 USD
 - [Rev up your HO Scale collection with the Bachmann USRA Light 2-8-2 DCC](https://bymrr.store/products/rev-up-your-ho-scale-collection-with-the-bachmann-usra-light-2-8-2-dcc-ready-locomotive-in-seaboard-494-🚂✨-trainlovers-modeltrains): Fast free shipping
   Updated: 2026-04-14T13:16:18Z
   Vendor: Bachmann
@@ -6180,7 +6110,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/ac3a768a923e7722ce7379924ee82518.jpg?v=1776172584
   Price: $48.01 USD
 - [Discover the Atlas O Scale 52'6" Flatcar with Load - Grand Trunk Western #670097! A must-have for all model train lovers! 🚂💨 #ModelTrains #RailroadEnthusiasts](https://bymrr.store/products/discover-the-atlas-o-scale-526-flatcar-with-load-grand-trunk-western-670097-a-must-have-for-all-model-train-lovers-🚂💨-modeltrains-railroadenthusiasts): Fast free shipping
-  Updated: 2026-04-14T13:16:39Z
+  Updated: 2026-04-19T05:04:25Z
   Vendor: Atlas
   Product Type: 
   Availability: Available
@@ -6236,7 +6166,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/d830531116d5e6ca2e1f913426853747.jpg?v=1776172634
   Price: $196.84 USD
 - [Premium Electric Train Set with Remote Control - Classic Steam Locomotive Featuring Smoke, Lights, and Sound Effects - Ideal Holiday Gift for Children](https://bymrr.store/products/premium-electric-train-set-with-remote-control-classic-steam-locomotive-featuring-smoke-lights-and-sound-effects-ideal-holiday-gift-for-children): Fast free shipping
-  Updated: 2026-04-14T13:17:08Z
+  Updated: 2026-04-15T15:50:43Z
   Vendor: JONRRYIN
   Product Type: 
   Availability: Available
@@ -6624,7 +6554,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/1d282e38eebb4034cc5e3875425c04ff.jpg?v=1776172679
   Price: $48.56 USD
 - [Kato USA N Scale Union Pacific Excursion Train 7-Car Set](https://bymrr.store/products/kato-usa-n-scale-union-pacific-excursion-train-7-car-set): Experience authentic railroad heritage with this Kato USA N Scale Union Pacific Excursion Train set. This meticulously detailed 7-car consist captures the elegance of classic passenger service, featuring accurate Union Pacific livery and proportions true to prototype. Perfect for hobbyists building scenic layouts or expanding existing collections, the set includes everything needed to run a complete train. Kato's renowned engineering ensures smooth operation and reliable performance on standard N Scale track. Ideal for both beginners and experienced modelers seeking quality and historical authenticity.
-  Updated: 2026-04-14T13:18:06Z
+  Updated: 2026-04-17T22:19:45Z
   Vendor: Kato Trains
   Product Type: 
   Availability: Available
@@ -6666,7 +6596,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/2b1a3e3961e9212d0839b6a70b795eac.jpg?v=1776172686
   Price: $46.69 USD
 - [Bachmann Old-Time Box Car - Union Line N Scale Model Train Collection](https://bymrr.store/products/bachmann-old-time-box-car-union-line-n-scale-model-train-collection): Bachmann's Old-Time Box Car brings authentic railroad heritage to your N scale layout. This meticulously detailed Union Line model captures the classic charm of early freight cars with period-accurate graphics and construction. Perfect for hobbyists building historically themed scenes or expanding existing collections, it couples reliable Bachmann engineering with nostalgic appeal. Compatible with standard N scale track systems, this box car pairs seamlessly with locomotives and other rolling stock to create dynamic, realistic train consists. Ideal for both display and operation on your layout.
-  Updated: 2026-04-14T13:18:06Z
+  Updated: 2026-04-17T22:19:45Z
   Vendor: Bachmann
   Product Type: 
   Availability: Available
@@ -6686,24 +6616,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/ec5571bd0a1ca728fa6bb1d9a6442d22.jpg?v=1776172686
   Price: $37.64 USD
-- [HO Scale 1/87 Metal DDT Electric Train Set with Remote Control - Perfect for Train Enthusiasts](https://bymrr.store/products/ho-scale-1-87-metal-ddt-electric-train-set-with-remote-control-perfect-for-train-enthusiasts): HO Scale 1/87 Metal DDT Electric Train Set with Remote Control delivers authentic model railroading in a compact, manageable size. This precision-engineered set features durable metal construction and includes everything needed to start building your layout—locomotive, cars, track, and remote control operation. Ideal for both newcomers exploring the hobby and experienced collectors seeking reliable performance. The 1/87 scale balances impressive detail with practical display space, making it perfect for home layouts, hobby rooms, or club layouts. Experience the satisfaction of operating your own miniature railroad system.
-  Updated: 2026-04-14T13:18:13Z
-  Vendor: BlockForge
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/a5e36a706e92464feedd14688d203590_5c3b01d9-c946-4f6b-83d6-7feefe56904f.jpg?v=1776172692
-  - [66110](https://bymrr.store/products/ho-scale-1-87-metal-ddt-electric-train-set-with-remote-control-perfect-for-train-enthusiasts?variant=43192988532795)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/a5e36a706e92464feedd14688d203590_5c3b01d9-c946-4f6b-83d6-7feefe56904f.jpg?v=1776172692
-    Price: $129.16 USD
-  - [66120](https://bymrr.store/products/ho-scale-1-87-metal-ddt-electric-train-set-with-remote-control-perfect-for-train-enthusiasts?variant=43192988565563)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/5897ba77209681956b0b47455ed15f1e_bb250a1c-72db-48d7-be97-3cebfbca9599.jpg?v=1776172692
-    Price: $129.16 USD
-  - [66100](https://bymrr.store/products/ho-scale-1-87-metal-ddt-electric-train-set-with-remote-control-perfect-for-train-enthusiasts?variant=43192988598331)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/5278db1f35d349bf01fa42347d221fee_32a1f483-8fcb-44dd-93b5-abacbd306d93.jpg?v=1776172692
-    Price: $129.16 USD
 - [Bachmann Old Time Maintenance of Way Derrick](https://bymrr.store/products/bachmann-old-time-maintenance-of-way-derrick-a-valuable-enhancement-to-your-canadian-pacific-freight-car-collection): A Valuable Enhancement to Your Canadian Pacific Freight Car Collection in HO
   Updated: 2026-04-14T13:18:13Z
   Vendor: Bachmann Industries Inc.
@@ -6733,7 +6645,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/c15b829c9d94410715c981bfdb1f5c60.jpg?v=1776172692
   Price: $386.89 USD
 - [All aboard the fun! 🚂✨ Check out the Mould King 12018 Train Building Block Kit](https://bymrr.store/products/all-aboard-the-fun-🚂✨-check-out-the-mould-king-12018-train-building-block-kit-build-your-own-emd-f7-locomotive-with-1541-pieces-complete-with-rail-motor-and-app-remote-control-perfect-gift-for-ages-14-and-adults-trainlovers-buildingblocks-moc): - build your own EMD F7 Locomotive with 1541 pieces, complete with rail, motor, and APP remote control! Perfect gift for ages 14+ and adults! #TrainLovers #BuildingBlocks #MOC
-  Updated: 2026-04-14T13:18:20Z
+  Updated: 2026-04-16T06:24:27Z
   Vendor: Mould King
   Product Type: 
   Availability: Available
@@ -6787,13 +6699,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/a93f9403947df72839058a1dc1d81b2b.jpg?v=1776172707
   Price: $26.07 USD
-- [Transform your dioramas and miniatures with Micro-Mark Terra Textures – Brown Earth!](https://bymrr.store/products/transform-your-dioramas-and-miniatures-with-micro-mark-terra-textures-brown-earth-🌍✨-perfect-acrylic-based-ground-texture-in-an-8-oz-jar-for-stunning-model-railroads-🚂🎨-diorama-modelrailroad-miniatures-crafting): 🌍✨ Perfect acrylic-based ground texture in an 8 oz jar for stunning model railroads! 🚂🎨 #Diorama #ModelRailroad #Miniatures #Crafting Realistic Earth Texture: Simulates natural soil surfaces, ideal for creating lifelike rural paths, dry farmland, and transitional zones in dioramas and model layouts. Ready-to-Use Acrylic Formula: Pre-mixed and easy to apply straight from the jar—simply brush on, shape, and let it dry. Versatile Compatibility: Can be blended with other Micro-Mark Terra Textures or acrylic paints to achieve custom terrain effects. Durable & Flexible Finish: Dries to a hard yet flexible surface that adheres well to various materials, including foam, wood, and plastic. Non-Toxic & Easy Cleanup: Water-based and safe for indoor use; cleans up easily with soap and water.
-  Updated: 2026-04-14T13:18:28Z
-  Vendor: Micro-Mark
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/27c2b0de68c60e838ccdd4b1818b5344.jpg?v=1776172707
-  Price: $19.95 USD
 - [Upgrade Your 3D Printing Game with the Ultimate Mini Cordless Rotary Sander Kit! 🌟✨ Perfect for Drilling, Sanding, and Polishing Resin Models! 🛠️💎 #3DPrinting #DIYTools](https://bymrr.store/products/upgrade-your-3d-printing-game-with-the-ultimate-mini-cordless-rotary-sander-kit-🌟✨-perfect-for-drilling-sanding-and-polishing-resin-models-🛠️💎-3dprinting-diytools)
   Updated: 2026-04-14T13:18:35Z
   Vendor: XIFOWE
@@ -6920,13 +6825,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/RealisticWaterimage.jpg?v=1776172749
   Price: $29.52 USD
-- [ATINGSHOKB N Scale Building 1:150 Train Railway Modern City Shopping Mall Buildings House Assembled Architectural for Model Train Layout](https://bymrr.store/products/atingshokb-n-scale-building-1-150-train-railway-modern-city-shopping-mall-buildings-house-assembled-architectural-for-model-train-layout-1)
-  Updated: 2026-04-14T13:18:55Z
-  Vendor: ATINGSHOKB
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/3941e11c087fd661bf18c5e80d683b02_141d5122-7b65-4b75-b427-61744a40f58e.jpg?v=1776172734
-  Price: $33.80 USD
 - [Woodland Scenics FS639 Static King, Black](https://bymrr.store/products/woodland-scenics-fs639-static-king-black)
   Updated: 2026-04-14T13:18:55Z
   Vendor: Woodland Scenics
@@ -6983,6 +6881,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/5cc3bb2f62a76a72b589b234e56ae5c3.jpg?v=1776172749
   Price: $20.74 USD
+- [Woodland Scenics Ike'S Ice Cream Truck N Scale WOOAS5338](https://bymrr.store/products/woodland-scenics-ikes-ice-cream-truck-n-scale-wooas5338): Woodland Scenics Ike'S Ice Cream Truck N Scale WOOAS5338 - Add nostalgic charm with a detailed, durable N scale ice cream truck. Features authentic graphics and opening service window. Shop now!
+  Updated: 2026-04-16T08:22:15Z
+  Vendor: Woodland Scenics
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/0f374d9763cac188e6e6c9c5fc0c222a.jpg?v=1776172757
+  Price: $27.68 USD
 - [Woodland Scenics Hob-E-Tac Adhesive 2oz Bottle](https://bymrr.store/products/woodland-scenics-hob-e-tac-adhesive-2oz-bottle): Woodland Scenics Hob-E-Tac Adhesive 2Oz Bottle - Bonds multiple materials without warping, ideal for detailed hobby projects. Non-toxic formula ensures safe use. Shop now!
   Updated: 2026-04-14T13:19:18Z
   Vendor: Woodland Scenics
@@ -7005,7 +6910,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/1527/9163/files/d5f2a2984317a6dc0ca75b6734899628.jpg?v=1773967652
   Price: $27.29 USD
 - [Lionel 2323080 O Gauge Texas Special Model Train Set](https://bymrr.store/products/lionel-2323080-o-gauge-texas-special-model-train-set): Lionel 2323080 O Gauge Texas Special Model Train Set - Experience smooth, quiet electric diesel operation with realistic RailSounds RC™. Includes complete track set. Shop now!
-  Updated: 2026-04-14T13:19:18Z
+  Updated: 2026-04-17T04:19:23Z
   Vendor: Lionel
   Product Type: 
   Availability: Available
@@ -7073,10 +6978,10 @@
   Updated: 2026-04-06T11:38:17Z
   Total Products: 7
 - [Scenery & Layout Materials](https://bymrr.store/collections/scenery)
-  Updated: 2026-04-13T08:34:49Z
+  Updated: 2026-04-19T01:35:30Z
   Total Products: 54
 - [Railcars](https://bymrr.store/collections/railcars)
-  Updated: 2026-04-14T04:59:16Z
+  Updated: 2026-04-21T13:34:57Z
   Total Products: 132
 - [Adhesives](https://bymrr.store/collections/adhesives)
   Updated: 2026-04-06T11:38:17Z
@@ -7085,17 +6990,17 @@
   Updated: 2026-04-06T11:38:17Z
   Total Products: 22
 - [Shop by Scale](https://bymrr.store/collections/shop-by-scale)
-  Updated: 2026-04-14T05:00:54Z
-  Total Products: 303
+  Updated: 2026-04-20T10:18:31Z
+  Total Products: 302
 - [O Scale](https://bymrr.store/collections/o-scale)
-  Updated: 2026-04-09T14:42:46Z
+  Updated: 2026-04-21T13:34:57Z
   Total Products: 40
 - [HO Scale](https://bymrr.store/collections/ho-scale)
-  Updated: 2026-04-14T04:57:36Z
+  Updated: 2026-04-20T10:18:31Z
   Total Products: 173
 - [N Scale](https://bymrr.store/collections/n-scale)
-  Updated: 2026-04-14T05:00:54Z
-  Total Products: 105
+  Updated: 2026-04-15T20:22:10Z
+  Total Products: 104
 - [KATO](https://bymrr.store/collections/brand-items)
   Updated: 2026-04-06T11:38:18Z
   Total Products: 42
@@ -7106,17 +7011,17 @@
   Updated: 2026-04-12T01:44:15Z
   Total Products: 32
 - [Woodland Scenics](https://bymrr.store/collections/woodland-scenics)
-  Updated: 2026-04-14T05:00:54Z
+  Updated: 2026-04-20T10:18:31Z
   Total Products: 95
 - [Atlas](https://bymrr.store/collections/atlas)
   Updated: 2026-04-06T11:38:18Z
   Total Products: 10
 - [Lionel](https://bymrr.store/collections/lionel)
-  Updated: 2026-04-09T14:42:46Z
+  Updated: 2026-04-21T13:34:57Z
   Total Products: 40
 - [Structures](https://bymrr.store/collections/structures)
-  Updated: 2026-04-13T08:34:49Z
-  Total Products: 63
+  Updated: 2026-04-20T10:18:31Z
+  Total Products: 62
 - [Athearn](https://bymrr.store/collections/athearn)
   Updated: 2026-04-02T10:55:29Z
   Total Products: 14
@@ -7124,50 +7029,50 @@
   Updated: 2026-04-02T10:55:29Z
   Total Products: 31
 - [Brands](https://bymrr.store/collections/brands): Many model railroaders like only certain brands either because of affordability, quality or personal preferences based on experience. This Collection will help you find products associated with some of the most popular brands.
-  Updated: 2026-04-14T05:00:54Z
+  Updated: 2026-04-21T13:34:57Z
   Total Products: 357
 - [AI Track Plans for Model Railroads](https://bymrr.store/collections/ai-generated-track-plans): Discover AI model railroad track plans to easily design layouts. Let AI create your track plan based on your preferences for a personalized model railroad.
   Updated: 2026-04-02T10:55:29Z
   Total Products: 5
 - [Train Sets - Model Train Sets | Beginner Hobby](https://bymrr.store/collections/train-sets-1): Explore model train sets perfect for beginners and hobbyists. Discover the joy of electric trains and start your hobby journey today.
-  Updated: 2026-04-14T04:57:36Z
+  Updated: 2026-04-21T05:58:40Z
   Total Products: 95
 - [Unavailable Items - Out of Stock Collection](https://bymrr.store/collections/out-of-stock): Explore our out of stock items collection. Get updates for restock and never miss out on popular items again.
-  Updated: 2026-04-14T14:10:45Z
-  Total Products: 39
+  Updated: 2026-04-21T13:35:24Z
+  Total Products: 41
 - [Model Train Parts Accessories - Find Rare Parts | Easy Access](https://bymrr.store/collections/accessories): Discover model train parts accessories online. Shop rare items that railroaders seek. Easy access to essential items.
-  Updated: 2026-04-14T05:00:54Z
-  Total Products: 274
+  Updated: 2026-04-20T10:18:31Z
+  Total Products: 273
 - [Shop AVADA Best  Products](https://bymrr.store/collections/avada-best-sellers): Shop AVADA Best  Products | Top Picks & Deals Discover and shop AVADA's best  products. Enjoy top picks and exclusive deals.
-  Updated: 2026-04-12T01:44:15Z
-  Total Products: 38
+  Updated: 2026-04-15T19:57:14Z
+  Total Products: 37
 - [Wide Range of Products - Buy Products Online](https://bymrr.store/collections/all-products): Wide Range of Products - Buy Products Online Explore a wide range of products available online. Shop conveniently and find the best options to fit your needs.
-  Updated: 2026-04-14T14:10:46Z
-  Total Products: 741
+  Updated: 2026-04-21T13:37:49Z
+  Total Products: 737
 - [New Arrivals – Latest Model Railroad Kits & Accessories](https://bymrr.store/collections/new-arrivals): New Arrivals in model railroad kits, scenery, and DIY indoor projects. Discover the latest accessories and layouts for hobbyists and collectors.
   Updated: 2026-04-12T01:44:15Z
   Total Products: 4
 - [Smart Products Filter Index - Do not delete Smart Products Filter Index - Do not delete](https://bymrr.store/collections/globofilter-best--products-index): Smart Products Filter Index - Do not deleteSmart Products Filter Index - Do not deleteSmart Products Filter Index - Do not delete
-  Updated: 2026-04-14T14:10:46Z
-  Total Products: 741
+  Updated: 2026-04-21T13:37:49Z
+  Total Products: 737
 - [Steam Locomotives Model Trains for Collectors](https://bymrr.store/collections/steam-locomotives): Steam locomotives model trains for hobbyists and collectors. Detailed, realistic, and perfect for railway layouts or DIY indoor projects.
-  Updated: 2026-04-14T04:59:16Z
+  Updated: 2026-04-21T13:34:57Z
   Total Products: 49
 - [Diesel Locomotives Diesel Locomotives](https://bymrr.store/collections/diesel-locomotives): Diesel LocomotivesDiesel LocomotivesDiesel Locomotives
-  Updated: 2026-04-04T21:30:35Z
+  Updated: 2026-04-17T05:39:31Z
   Total Products: 29
 - [DCC Locomotives DCC Locomotives](https://bymrr.store/collections/dcc-locomotives): DCC Locomotives These are locomotives that have DCC decoders installed which allows for individual operation of each
-  Updated: 2026-04-09T14:41:14Z
+  Updated: 2026-04-21T05:58:40Z
   Total Products: 39
 - [DC Analog locomotives DC Analog locomotives](https://bymrr.store/collections/dc-analog-locomotives): DC Analog locomotives These are locomotives that will run on regular Direct Current (DC) supplied by a regular DC transformer that is supplied inside most
-  Updated: 2026-04-14T04:59:16Z
+  Updated: 2026-04-21T13:34:57Z
   Total Products: 66
 - [EG All Products - DO NOT EDIT EG All Products - DO NOT EDIT](https://bymrr.store/collections/eg-all-products-do-not-edit): EG All Products - DO NOT EDIT Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas
-  Updated: 2026-04-14T14:03:00Z
-  Total Products: 761
+  Updated: 2026-04-21T13:34:57Z
+  Total Products: 760
 - [Sold Out Products - BYMRR Train Store](https://bymrr.store/collections/sold-out-products): Track and manage sold-out model train products, locomotives, rolling stock, scenery, and accessories at BYMRR Train Store.
-  Updated: 2026-04-14T14:10:46Z
-  Total Products: 39
+  Updated: 2026-04-21T13:35:24Z
+  Total Products: 41
 - [Broadway Limited](https://bymrr.store/collections/broadway-limited): Broadway Limited represents one of the highest quality manufacturers of locomotives in the business. They sometimes cost a bit more, but it's usually worth it due the the value, detail, functionality, and durability of their products.
   Updated: 2026-04-04T17:32:40Z
   Total Products: 11
@@ -7175,8 +7080,8 @@
   Updated: 2026-04-02T10:55:30Z
   Total Products: 1
 - [APPPlaza - Best Sellers](https://bymrr.store/collections/appplaza-best-sellers)
-  Updated: 2026-04-14T14:10:46Z
-  Total Products: 741
+  Updated: 2026-04-21T13:37:49Z
+  Total Products: 737
 - [STEM Products](https://bymrr.store/collections/stem-products): The products in this collection are not necessarily related to model railroading, but they do offer an alternative, while still providing educational experience for young people in learning about science, technology, engineering and mathematics.
   Updated: 2026-04-09T14:41:14Z
   Total Products: 32
@@ -7276,6 +7181,10 @@
     Updated: 2026-04-12T04:54:11Z
     Author: Greg Warth
     Tags: books, learning, magazines, model railroading, resources, tips
+  - [Parent's Guide on How to Get Kids Interested in Model Railroading](https://bymrr.store/blogs/news/how-to-get-kids-interested-in-model-railroading): Parent's Guide on How to Get Kids Interested in Model Railroading
+    Updated: 2026-04-20T18:15:51Z
+    Author: Greg Warth
+    Tags: model railroading
 - [Model Railroad Gallery - Photos and Videos](https://bymrr.store/blogs/model-railroad-gallery-photos-and-videos)
   - [Model Railroad Gallery – Photos & Videos | BYMRR Train Store](https://bymrr.store/blogs/model-railroad-gallery-photos-and-videos/model-railroad-gallery): Model Railroad Gallery – Photos & Videos | BYMRR Train Store
     Updated: 2026-03-29T07:02:04Z
