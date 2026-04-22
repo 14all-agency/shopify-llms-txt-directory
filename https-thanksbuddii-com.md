@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-07-14T09:42:21Z
 - Contact Email: hello@thanksbuddii.com
-- Updated At: 2026-04-11T00:00:34.711Z
+- Updated At: 2026-04-22T00:00:36.775Z
 
 ## Products
 
 - [+Buddii](https://thanksbuddii.com/products/buddii): +Buddii Social Recovery Blend Buddii is an advanced social recovery blend designed for those who want to enjoy vibrant social lives without compromising their health or productivity. Packed with 22 powerful ingredients and crafted for multi-pathway support: hydration, natural detox pathways, restorative sleep, and steady next-day energy after socialising. Whether after a night out or during a busy day, +Buddii helps people bounce back, perform at their best, and live life to the fullest.
-  Updated: 2026-04-08T01:25:09Z
+  Updated: 2026-04-21T07:05:47Z
   Vendor: +Buddii
   Product Type: 
   Availability: Available
@@ -20,7 +20,7 @@
 ## Collections
 
 - [Home page](https://thanksbuddii.com/collections/frontpage)
-  Updated: 2026-04-08T11:32:53Z
+  Updated: 2026-04-21T11:25:45Z
   Total Products: 1
 
 ## Store Pages
