@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-10-17T13:09:35Z
 - Contact Email: juleeGlow@gmail.com
-- Updated At: 2026-04-08T00:00:37.940Z
+- Updated At: 2026-04-22T00:00:38.837Z
 
 ## Products
 
 - [Anse La Ray Body Butter | Natural Organic Luxury Skincare](https://juleeglow.com/products/anse-la-ray-body-butter): Anse La Ray Body Butter with shea, coconut & rosehip oil, Manuka honey, jojoba & more. 100% organic formula to hydrate, nourish, & restore radiant skin. Shop now.
-  Updated: 2026-04-02T17:59:37Z
+  Updated: 2026-04-13T13:08:30Z
   Vendor: Julée Glow
   Product Type: Body Butter
   Availability: Available
@@ -39,10 +39,10 @@
 ## Collections
 
 - [Skincare](https://juleeglow.com/collections/frontpage)
-  Updated: 2026-04-02T17:59:37Z
+  Updated: 2026-04-13T11:25:30Z
   Total Products: 2
 - [Face Oil](https://juleeglow.com/collections/face-oil)
-  Updated: 2026-04-07T13:09:44Z
+  Updated: 2026-04-16T18:12:23Z
   Total Products: 2
 
 ## Blogs
@@ -83,7 +83,7 @@
 - [Julietta Fiscella](https://juleeglow.com/pages/julietta-fiscella)
   Updated: 2026-03-23T04:36:03Z
 - [Gros Islet Noir Description](https://juleeglow.com/pages/gros-islet-noir-description): Luxury Organic Day Face Oil – 30 mL Final Formulation Table Ingredient Common Name / INCI % Volume (mL) Drops Function Squalane Squalane 51% 15.35 ...
-  Updated: 2026-04-07T13:13:57Z
+  Updated: 2026-04-08T05:54:10Z
 
 ## Policies
 
