@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-10-09T06:57:31Z
 - Contact Email: info@ledplanet.nl
-- Updated At: 2026-04-13T00:00:30.296Z
+- Updated At: 2026-04-22T10:35:48.204Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/e14-fitting-gu10-fitting-verloopfitting-2-stuks-wit-230v-ac-663258.jpg?v=1744286267
   Price: € 7,95 EUR
 - [RGB Discolamp E27 LED 3W Draaiend - Feestverlichting | LEDPLANET.NL](https://ledplanet.nl/products/discolamp-met-e27-fitting-led-3w-rgb-meerkleurig-draaiend): ✨ RGB Discolamp met E27 fitting - LED 3W draaiend lichteffect. Perfect voor feesten en sfeerverlichting. Energiezuinig en eenvoudig te installeren!
-  Updated: 2026-02-16T11:38:03Z
+  Updated: 2026-04-15T09:05:24Z
   Vendor: Aigostar
   Product Type: LED lampen
   Availability: Available
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/led-lamp-mr16-par16-gu53-fitting-5w50w-warmwit-2700k-12-volt-dimbaar-765360.png?v=1744286251
   Price: € 8,95 EUR
 - [LED dimmer opbouw draai 12 of 24 volt | LEDPLANET.NL](https://ledplanet.nl/products/led-dimmer-pwm-12v-24v-8a-draaiknop-opbouw): Handige LED dimmer voor opbouw, geschikt voor 12 of 24 volt systemen. Eenvoudige bediening en installatie.
-  Updated: 2026-04-08T20:38:26Z
+  Updated: 2026-04-19T09:59:57Z
   Vendor: masterLED
   Product Type: LED dimmers
   Availability: Available
@@ -910,7 +910,7 @@ Een draadfitting van ongeveer 27mm in doorsnede, wordt met...
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/led-lamp-diy-vouwbare-hanglamp-strijkijzer-snoer-e27-siliconen-fitting-roze-838575.jpg?v=1744286109
   Price: € 14,95 EUR
 - [LED Buitenlamp 30W - 3300 lumen - Warmwit 3000K - IP65 - Tweedekans - Tweedekans](https://ledplanet.nl/products/led-buitenlamp-3300-lumen-30w-warmwit-3000k-ip65-waterdicht-): LED buitenlamp 30W met 3300 lumen, warmwit 3000K. IP65 waterdicht, vervangt 350W.. Bestel bij LEDPLANET.NL
-  Updated: 2026-03-11T23:08:49Z
+  Updated: 2026-04-15T15:22:58Z
   Vendor: Sharplumi
   Product Type: LED bouwlampen
   Availability: Available
@@ -1022,7 +1022,7 @@ Een draadfitting van ongeveer 27mm in doorsnede, wordt met...
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/led-vuurlamp-g4-fakkel-1w10w-vlam-simulatie-flame-warmwit-1800k-8-30v-253619.jpg?v=1744285980
   Price: € 15,95 EUR
 - [C5W Autolamp 31mm LED Festoon - 2 stuks - Daglichtwit 6500K](https://ledplanet.nl/products/c5w-autolamp-31mm-daglichtwit-6500k): C5W autolamp 31mm LED festoon, 2 stuks. Filament daglichtwit 6500K, 12V DC, 2W. Voor binnenverlichting en dashboard. Bestel bij LEDPLANET.NL
-  Updated: 2026-02-16T11:38:11Z
+  Updated: 2026-04-14T18:51:11Z
   Vendor: LEDPLANET.NL
   Product Type: C5W 31 mm auto LED lamp
   Availability: Available
@@ -1036,7 +1036,7 @@ Een draadfitting van ongeveer 27mm in doorsnede, wordt met...
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/c5w-autolamp-2-stuks-led-festoon-36mm-cob-daglichtwit-6500k-12-volt-2-watt-877805.jpg?v=1744286022
   Price: € 6,95 EUR
 - [C5W LED autolamp 2 stuks - 39mm COB daglichtwit 6500K | LEDPLANET.NL](https://ledplanet.nl/products/c5w-led-autolamp-39mm-2stuks): Bestel de C5W LED autolamp van 39 mm op LEDPLANET.NL. Deze energiezuinige lampen verlichten met helder daglichtwit (6500K) voor optimale zichtbaarheid.
-  Updated: 2026-03-03T09:49:51Z
+  Updated: 2026-04-17T13:01:07Z
   Vendor: LEDPLANET.NL
   Product Type: C5W 39 mm auto LED lamp
   Availability: Available
@@ -1050,7 +1050,7 @@ Een draadfitting van ongeveer 27mm in doorsnede, wordt met...
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/c5w-autolamp-2-stuks-led-festoon-41mm-cob-daglichtwit-6500k-12-volt-2-watt-303980.jpg?v=1744286018
   Price: € 6,95 EUR
 - [GY6.35 steeklamp | dimbaar | warmwit | 4W=40W | IP20](https://ledplanet.nl/products/gy6-35-steeklampje-led-3-5w-35-40w-halogeen-warmwit-3000k-12v-ac-dimbaar): Welke toepassing heb jij voor onze LED-lampen? GY6.35? dimbaar? warmwit? IP20? 4=40 Watt | Bestellen kun je deze lampen veilig bij LEDPLANET.NL!
-  Updated: 2026-02-25T18:42:41Z
+  Updated: 2026-04-18T12:27:59Z
   Vendor: LEDPLANET.NL
   Product Type: LED spots
   Availability: Available
@@ -1078,7 +1078,7 @@ Een draadfitting van ongeveer 27mm in doorsnede, wordt met...
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/c5w-autolamp-2-stuks-led-festoon-39mm-cob-warmwit-3000k-12-volt-2-watt-570863.jpg?v=1744286030
   Price: € 6,95 EUR
 - [C5W Autolamp 41mm LED Festoon - 2 stuks - Warmwit 3000K](https://ledplanet.nl/products/c5w-autolamp-41mm-warmwit-3000k): C5W autolamp 41mm LED festoon, 2 stuks. Filament warmwit 3000K, 12V DC, 2W. Voor sfeervolle binnenverlichting. Bestel bij LEDPLANET.NL
-  Updated: 2026-03-15T16:10:38Z
+  Updated: 2026-04-21T19:25:52Z
   Vendor: LEDPLANET.NL
   Product Type: C5W 41 mm auto LED lamp
   Availability: Available
@@ -1260,7 +1260,7 @@ Een draadfitting van ongeveer 27mm in doorsnede, wordt met...
   Image: https://cdn.shopify.com/s/files/1/0864/1809/6462/files/led-buitenlamp-30w300w-led-schijnwerper-ir-sensor-daglichtwit-6400k-waterdicht-ip65-278484.jpg?v=1744286031
   Price: € 28,95 EUR
 - [LED buitenlamp | 100W=1000W LED schijnwerper | IR bewegingsmelder | koelwit 4000K | waterdicht IP65](https://ledplanet.nl/products/led-buitenlamp-100w-1000w-led-schijnwerper-ir-sensor-koelwit-4000k-waterdicht-ip65): LED buitenlamp | 100W=1000W LED schijnwerper | IR sensor | koelwit 4000K | waterdicht IP65
-  Updated: 2026-02-16T11:38:13Z
+  Updated: 2026-04-16T19:39:59Z
   Vendor: Aigostar
   Product Type: LED sensorlampen
   Availability: Available
@@ -1777,13 +1777,13 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-04-05T11:36:08Z
   Total Products: 43
 - [LED strips voor sfeervolle en flexibele verlichting | LEDPLANET.NL](https://ledplanet.nl/collections/led-strips): Ontdek onze LED strips voor flexibele en sfeervolle verlichting. Perfect voor woningen, kantoren en creatieve projecten.
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-19T11:36:33Z
   Total Products: 242
 - [LED Lampen | Spots, Gloeilampen, Panelen & Schijnwerpers | LEDPLANET.NL](https://ledplanet.nl/collections/led-lampen-energiezuinig-g23-drivers): LED lampen voor binnen en buiten. Gloeilampen, spots, panelen, schijnwerpers en meer. Warmwit, koelwit en daglichtwit. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T21:32:03Z
-  Total Products: 1261
+  Updated: 2026-04-22T10:27:29Z
+  Total Products: 1272
 - [LED Aansluitmaterialen - Kwaliteit en Betrouwbaarheid | LEDPLANET.NL](https://ledplanet.nl/collections/led-aansluitmaterialen): Ontdek hoogwaardige LED aansluitmaterialen bij LEDPLANET.NL. Vind alles wat je nodig hebt voor een betrouwbare en veilige LED installatie. Snelle levering
-  Updated: 2026-04-10T11:34:29Z
+  Updated: 2026-04-20T11:36:13Z
   Total Products: 35
 - [LED verloopfittingen, flexibele verlichtingsoplossingen | LEDPLANET.NL](https://ledplanet.nl/collections/led-verloopfittingen): Ontdek onze LED verloopfittingen voor flexibele verlichtingsoplossingen. Ideaal voor het aanpassen van lampen aan verschillende fittingen.
   Updated: 2026-03-26T11:34:56Z
@@ -1792,35 +1792,35 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-04-11T11:33:38Z
   Total Products: 26
 - [LED autoverlichting H3 BA15S C5W festoon - LEDPLANET.NL](https://ledplanet.nl/collections/led-autoverlichting-h3-ba15s-c5w): LED autoverlichting voor alle voertuigen. H3, BA15S, BAY15D, C5W festoon lampen. Energiezuinig, lange levensduur. 12V DC!
-  Updated: 2026-04-12T11:31:29Z
-  Total Products: 329
+  Updated: 2026-04-21T11:38:03Z
+  Total Products: 328
 - [BA9S LED verlichting voor auto's | Bespaar met LED | LEDPLANET.NL](https://ledplanet.nl/collections/ba9s-led-verlichting-voor-autos): Ontdek onze BA9S LED verlichting voor auto's bij LEDPLANET.NL. Bespaar energie en verbeter de verlichting van je auto met onze hoogwaardige lampen.
   Updated: 2026-03-11T11:33:43Z
   Total Products: 9
 - [BAY15D LED Autolampen 1157 | P21/5W 12V 24V | LEDPLANET.NL](https://ledplanet.nl/collections/bay15d-auto-led-lamp): BAY15D LED autolampen 1157, 9-SMD en 36-SMD. Vervangt P21/5W. Wit en rood. 12V en 24V DC. Set van 2 stuks. Gratis verzending vanaf €50!
-  Updated: 2026-03-31T11:38:39Z
+  Updated: 2026-04-19T11:36:33Z
   Total Products: 16
 - [GU10 LED Spots Dimbaar | PAR16 Bajonetsluiting 230V | LEDPLANET.NL](https://ledplanet.nl/collections/gu10-spots): GU10 LED spots dimbaar met bajonetsluiting. 5W-7W, warmwit en daglichtwit. Vervangt 42W-50W halogeen. Voordeelpakketten 10 stuks. Gratis verzending vanaf €50!
-  Updated: 2026-04-06T11:28:32Z
+  Updated: 2026-04-15T06:32:25Z
   Total Products: 64
 - [LED spots G4 G9 GU10 PAR38 energiezuinig - LEDPLANET.NL](https://ledplanet.nl/collections/led-spots-g4-g9-gu10-par38): LED spots voor elke fitting. G4 12V, G9 230V, GU10, PAR38. Warmwit en daglichtwit. Energiezuinig, dimbaar. Vervangt halogeen!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-20T11:36:13Z
   Total Products: 193
 - [PAR16 LED Spots | GU10 & GU5.3 Dimbaar 230V/12V | LEDPLANET.NL](https://ledplanet.nl/collections/par16-spots): PAR16 LED spots 5W-7W dimbaar. GU10 230V en GU5.3 12V. Vervangt 42W-50W halogeen. Warmwit en daglichtwit. Gratis verzending vanaf €50!
   Updated: 2026-04-06T11:28:32Z
   Total Products: 48
 - [Kogellampen G45 - E14 en E27 - warmwit - daglichtwit - LEDPLANET.NL](https://ledplanet.nl/collections/led-kogellampen): Bespaar energie met LED van LEDPLANET.NL. Ontdek ons uitgebreide assortiment en geniet van duurzame en milieuvriendelijke verlichting. Snelle levering!
-  Updated: 2026-04-12T12:01:05Z
+  Updated: 2026-04-21T12:34:19Z
   Total Products: 31
 - [LED Kaarslampen - E14 en E27  voor Sfeerverlichting | LEDPLANET.NL](https://ledplanet.nl/collections/led-kaarslampen): Ontdek onze LED kaarslampen. Verkrijgbaar in E14 en E27 fittingen, ideaal voor sfeerverlichting. Snelle levering en topkwaliteit!
-  Updated: 2026-03-18T12:31:05Z
+  Updated: 2026-04-15T09:12:57Z
   Total Products: 57
 - [Energiezuinige LED lampen voor elke ruimte | LEDPLANET.NL](https://ledplanet.nl/collections/energiezuinige-led-lampen): Ontdek energiezuinige LED lampen bij LEDPLANET.NL. Creëer een warme sfeer met duurzame verlichting die je energiekosten verlaagt!
   Updated: 2026-04-12T11:31:29Z
   Total Products: 46
 - [LED voordeelverpakkingen – Meer lampen, minder betalen | LEDPLANET.NL](https://ledplanet.nl/collections/led-voordeelverpakkingen): Bespaar slim met LED voordeelverpakkingen! Meer lampen voor minder geld, energiezuinig en duurzaam. Bestel nu en profiteer van scherpe prijzen!
-  Updated: 2026-04-12T23:21:59Z
-  Total Products: 181
+  Updated: 2026-04-21T22:05:27Z
+  Total Products: 182
 - [LED Spaarlampen - Energiezuinige Verlichting | LEDPLANET.NL](https://ledplanet.nl/collections/led-spaarlampen): Bespaar energie met LED spaarlampen van LEDPLANET.NL. Ontdek ons uitgebreide assortiment en geniet van duurzame en milieuvriendelijke verlichting. Snelle leveri
   Updated: 2026-04-11T11:33:38Z
   Total Products: 40
@@ -1834,22 +1834,22 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-04-12T11:31:29Z
   Total Products: 64
 - [C5W 31 mm LED autolampen voor jouw auto | LEDPLANET.NL](https://ledplanet.nl/collections/c5w-31-mm-auto-led-lamp): Ontdek de C5W 31 mm auto LED lampen bij LEDPLANET.NL. Bespaar op je energierekening met onze hoogwaardige LED autolampen 31 mm!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-15T11:36:27Z
   Total Products: 16
 - [C5W 36mm LED Festoon Autolampen | SV8.5 12V 24V | LEDPLANET.NL](https://ledplanet.nl/collections/c5w-36-mm-auto-led-lamp): C5W 36mm LED festoon lampen, SV8.5 fitting. Warmwit, rood en blauw. 12V en 24V DC. Filament en SMD. Set van 2 stuks. Gratis verzending vanaf €50!
   Updated: 2026-04-10T11:34:29Z
   Total Products: 18
 - [C5W 39mm LED Festoon Autolampen | Filament & SMD 12V | LEDPLANET.NL](https://ledplanet.nl/collections/c5w-39-mm-auto-led-lamp): C5W 39mm LED festoon lampen. Filament warmwit en SMD daglichtwit. 3-SMD en 8-SMD. 12V DC. Set van 2 stuks. Gratis verzending vanaf €50!
-  Updated: 2026-04-10T11:34:29Z
+  Updated: 2026-04-18T11:33:17Z
   Total Products: 13
 - [C5W 41mm LED Festoon Autolampen | Filament & COB 12V 24V | LEDPLANET.NL](https://ledplanet.nl/collections/c5w-41-mm-auto-led-lamp): C5W 41mm LED festoon lampen. Filament en COB. Warmwit en daglichtwit. 12V en 24V DC. Set van 2 stuks. Gratis verzending vanaf €50!
-  Updated: 2026-03-17T11:34:33Z
+  Updated: 2026-04-19T11:36:33Z
   Total Products: 15
 - [G4 LED Spots 12V | Steeklampjes Warmwit & Daglichtwit | LEDPLANET.NL](https://ledplanet.nl/collections/g4-spots): G4 LED spots 12V. Steeklampjes 0,8W-3,5W, vervangt 5-40W halogeen. Warmwit en daglichtwit. Dimbaar beschikbaar. Gratis verzending vanaf €50!
   Updated: 2026-04-09T11:41:50Z
   Total Products: 17
 - [G9 LED Steeklampjes Dimbaar | 230V Warmwit & Daglichtwit | LEDPLANET.NL](https://ledplanet.nl/collections/g9-spots): G9 LED steeklampjes 2W-5W, dimbaar. Vervangt 18W-50W halogeen. Warmwit en daglichtwit. Milky en helder. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-20T11:36:13Z
   Total Products: 37
 - [H1 LED Koplampen | 2000-8000 Lumen 12V 24V | LEDPLANET.NL](https://ledplanet.nl/collections/h1-auto-led-lamp): H1 LED koplamp sets, COB technologie. 2000-8000 lumen, daglichtwit 6000K-6500K. 12V en 24V. Actieve koeling. Set van 2 stuks. Gratis verzending vanaf €50!
   Updated: 2026-02-13T12:23:15Z
@@ -1858,8 +1858,8 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-03-29T11:16:20Z
   Total Products: 10
 - [H3 LED Mistlampen | 12-SMD 32-SMD COB 12V | LEDPLANET.NL](https://ledplanet.nl/collections/h3-auto-led-lamp): H3 LED mistlamp sets, 12-SMD, 32-SMD en COB. Daglichtwit 6000K. 3,5W-4W. 12V en 8-48V. Set van 2 stuks. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T10:15:10Z
-  Total Products: 11
+  Updated: 2026-04-21T11:38:03Z
+  Total Products: 10
 - [H4 LED Koplampen | CAN-BUS 2000-5000 Lumen 12V 24V | LEDPLANET.NL](https://ledplanet.nl/collections/h4-auto-led-lamp): H4 LED koplamp sets, dim- en grootlicht. COB en SMD. 2000-5000 lumen, daglichtwit 6000K. CAN-BUS. 12V en 24V. Set van 2 stuks. Gratis verzending vanaf €50!
   Updated: 2026-02-13T12:23:15Z
   Total Products: 17
@@ -1873,34 +1873,34 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-02-13T12:23:15Z
   Total Products: 10
 - [LED Hanglampen | Pendel & Industrieel Design | LEDPLANET.NL](https://ledplanet.nl/collections/led-hanglampen): LED hanglampen voor elke ruimte. Pendel, industrieel en vintage design. E27 fitting, diverse kleuren. Energiezuinig. Gratis verzending vanaf €50!
-  Updated: 2026-04-08T11:45:22Z
+  Updated: 2026-04-21T06:15:09Z
   Total Products: 99
 - [LED Buitenverlichting | Solar, Wandlampen & Grondspots | LEDPLANET.NL](https://ledplanet.nl/collections/led-buitenverlichting-solar-wandlampen): LED buitenverlichting voor tuin en terras. Solar lampen, wandlampen, grondspots. Waterdicht IP54-IP65. Met sensor. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:21:54Z
+  Updated: 2026-04-22T09:48:41Z
   Total Products: 332
 - [LED bars](https://ledplanet.nl/collections/led-bars): LED bars, ook wel LED balken genoemd, vervangen je huidige TL-verlichting LED bars zijn verkrijgbaar in lengtes van 30 cm tot en met 100 cm. Je kunt ze bedienen via touch bediening op de armatuur zelf of met een drukschakelaar. Deze LED bars zijn perfect voor een 1-op-1 vervanging van je huidige TL-verlichting. Daarnaast zijn ze ideaal voor gebruik onder bijvoorbeeld een boekenplank of in je kledingkast. Door de kleine afmetingen en het strakke design vallen ze nauwelijks op. Alle LED bars zijn dimbaar in 3 fasen of met een afstandsbediening van 100% naar ongeveer 10%. Ze zijn bovendien koppelbaar, zie hiervoor de accessoires. Zo stel je je verlichtingsplan helemaal op maat samen. De armaturen hebben een levensduur van 30.000 uur. Op alle LED bars geeft LEDPLANET.NL 2 jaar volledige garantie. Mocht er onverhoopt iets kapot gaan binnen de garantie, neem dan contact op met onze klantenservice. Handig om te weten! Als je kiest voor een LED bar met Point Touch en je beschikt over voldoende voeding, wordt iedere gekoppelde normale LED bar geschakeld (gedimd) via de eerste LED bar.
   Updated: 2026-03-19T11:32:58Z
   Total Products: 33
 - [LED Bouwlampen op Accu | Oplaadbaar Werklicht IP65 | LEDPLANET.NL](https://ledplanet.nl/collections/led-bouwlampen-op-accu): Oplaadbare LED bouwlampen 10W-120W. Draadloos werklicht, waterdicht IP65, USB oplaadbaar. Tot 8 uur werktijd. Gratis verzending vanaf €50!
-  Updated: 2026-04-04T14:07:00Z
+  Updated: 2026-04-16T09:39:54Z
   Total Products: 21
 - [LED Bouwlampen | 230V, Oplaadbaar & Op Standaard | LEDPLANET.NL](https://ledplanet.nl/collections/led-bouwlampen-oplaadbaar-230v-werklamp): LED bouwlampen 10W-200W. Op 230V, oplaadbaar en op standaard. Waterdicht IP44-IP65. Koelwit en daglichtwit. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:21:59Z
-  Total Products: 194
+  Updated: 2026-04-21T14:04:30Z
+  Total Products: 195
 - [LED sensorlampen met bewegingsmelder - LEDPLANET.NL](https://ledplanet.nl/collections/led-sensorlampen-bewegingsmelder): LED sensorlampen collectie. Buitenlampen 20W-100W, plafondlampen en nachtlampjes. Waterdicht IP65. Snelle levering!
-  Updated: 2026-04-12T23:34:02Z
+  Updated: 2026-04-18T11:33:17Z
   Total Products: 118
 - [LED panels en downlights voor moderne verlichting | LEDPLANET.NL](https://ledplanet.nl/collections/led-panels-downlights): Ontdek onze LED panels en downlights voor stijlvolle en efficiënte verlichting. Perfect voor woningen en kantoren.
-  Updated: 2026-03-27T13:22:05Z
+  Updated: 2026-04-16T11:42:19Z
   Total Products: 56
 - [LED Tafelverlichting Kopen - Energiezuinige Tafellampen | LEDPLANET.NL](https://ledplanet.nl/collections/led-tafelverlichting): Ontdek onze collectie LED tafelverlichting ✓ Energiezuinig ✓ Moderne designs ✓ Dimbaar ✓ Lange levensduur. Bestel nu je LED tafellamp bij LEDPLANET.NL!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-21T12:19:11Z
   Total Products: 42
 - [LED Design Armaturen - Moderne & Energiezuinige Verlichting | LEDPLANET.NL](https://ledplanet.nl/collections/led-design-verlichting): LED armaturen in modern design ✓ Energiezuinig ✓ Lange levensduur ✓ Inbouw & opbouw ✓ Gratis verzending vanaf €50 ✓ Bestel direct online!
-  Updated: 2026-04-01T11:12:22Z
+  Updated: 2026-04-16T12:38:09Z
   Total Products: 62
 - [LED voedingen - transformators - drivers - omvormers - LEDPLANET.NL](https://ledplanet.nl/collections/led-voedingen): Ontdek onze LED voedingen. Ideaal voor betrouwbare en efficiënte stroomvoorziening van jouw LED verlichting. Snelle levering en topkwaliteit!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-19T11:36:33Z
   Total Products: 38
 - [R7s LED Lampen 78mm | 5W-7W Warmwit & Daglichtwit | LEDPLANET.NL](https://ledplanet.nl/collections/r7s-78-mm-lang): R7s LED staaflamp 78mm, 5W-7W. Vervangt 42W-70W halogeen. Warmwit en daglichtwit. Compact formaat. Gratis verzending vanaf €50!
   Updated: 2026-04-07T11:39:05Z
@@ -1909,13 +1909,13 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-03-02T12:34:09Z
   Total Products: 10
 - [LED dimmers inbouw snoerdimmer fase-afsnijding - LEDPLANET.NL](https://ledplanet.nl/collections/led-dimmers-inbouw-snoerdimmer): LED dimmers voor perfecte lichtregeling. Inbouw, snoer- en stekkerdimmers. Fase-afsnijding technologie. Verschillende vermogens!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-19T11:36:33Z
   Total Products: 25
 - [LED-solarverlichting - duurzaam & gratis energie | LEDPLANET.NL](https://ledplanet.nl/collections/led-solar-verlichting): Duurzame LED-solarverlichting voor tuin en terras. Geen stroomkosten, automatisch aan/uit en weerbestendig. Bestel nu je tuinverlichting!
-  Updated: 2026-04-04T14:05:23Z
+  Updated: 2026-04-22T09:48:41Z
   Total Products: 44
 - [Shopruiming LED verlichting korting aanbiedingen - LEDPLANET.NL](https://ledplanet.nl/collections/shopruiming-led-verlichting-korting): Shopruiming LED verlichting! Spots, strips, plafondlampen met korting. Energiezuinig, lange levensduur. Zolang voorraad strekt!
-  Updated: 2026-04-08T17:19:31Z
+  Updated: 2026-04-16T11:42:19Z
   Total Products: 48
 - [Koelkastlamp - afzuigkaplamp - parfumlamp - E14 fitting - LEDPLANET.NL](https://ledplanet.nl/collections/led-koelkastlampjes): Ontdek onze LED koelkastlampjes. Verkrijgbaar in E14 fittingen, ideaal voor energiezuinige verlichting. Snelle levering en topkwaliteit!
   Updated: 2026-04-08T11:45:22Z
@@ -1924,7 +1924,7 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-04-04T14:04:24Z
   Total Products: 32
 - [LED bouwlampen buitenverlichting IP65 waterdicht - LEDPLANET.NL](https://ledplanet.nl/collections/led-bouwlampen-buitenverlichting-ip65): LED bouwlampen voor buitenverlichting. 10W-200W, IP65 waterdicht. Warmwit, koelwit, daglichtwit. Energiezuinig, lange levensduur!
-  Updated: 2026-04-01T11:39:10Z
+  Updated: 2026-04-15T11:36:27Z
   Total Products: 27
 - [LED Bouwlampen 230V | Schijnwerpers 10W-200W IP65 | LEDPLANET.NL](https://ledplanet.nl/collections/led-bouwlampen-op-230-volt): LED bouwlampen op 230 Volt. Schijnwerpers 10W-200W, waterdicht IP65. Warmwit, koelwit en daglichtwit. Gratis verzending vanaf €50!
   Updated: 2026-03-22T11:27:46Z
@@ -1933,7 +1933,7 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-04-02T11:39:15Z
   Total Products: 22
 - [T10 auto LED lamp](https://ledplanet.nl/collections/t10-auto-led-lamp)
-  Updated: 2026-04-10T11:34:29Z
+  Updated: 2026-04-21T22:05:27Z
   Total Products: 32
 - [Vierkante inbouwframes](https://ledplanet.nl/collections/vierkante-inbouwframes)
   Updated: 2026-02-13T12:23:16Z
@@ -1960,7 +1960,7 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-02-13T12:23:17Z
   Total Products: 2
 - [LED Plafondlampen | Dimbaar, WiFi & Sensor | LEDPLANET.NL](https://ledplanet.nl/collections/led-plafondlampen): LED plafondlampen voor elke ruimte. Dimbaar, WiFi RGB, met sensor. Warmwit en koelwit. Energiezuinig en modern design. Gratis verzending vanaf €50!
-  Updated: 2026-04-10T23:36:49Z
+  Updated: 2026-04-21T12:33:21Z
   Total Products: 127
 - [T15 auto LED lamp](https://ledplanet.nl/collections/t15-auto-led-lamp)
   Updated: 2026-02-13T12:23:17Z
@@ -1972,7 +1972,7 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-02-13T12:23:17Z
   Total Products: 2
 - [LED lichtslangen kerstverlichting feestverlichting - LEDPLANET.NL](https://ledplanet.nl/collections/led-lichtslangen-kerstverlichting): LED lichtslangen voor kerst en feesten. Warmwit, daglichtwit, rood en blauw. Sproeidicht IP65. 6-50 meter. Direct op 230V!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-19T11:36:33Z
   Total Products: 64
 - [LED spiegellampen - lampen voor heldere verlichting | LEDPLANET.NL](https://ledplanet.nl/collections/led-spiegellampen-reflectorlampen): Ontdek onze LED spiegellampen en reflectorlampen. Ideaal voor heldere en energiezuinige verlichting. Snelle levering en topkwaliteit!
   Updated: 2026-03-25T11:32:09Z
@@ -1996,19 +1996,19 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-02-13T12:23:17Z
   Total Products: 1
 - [PAR20 spots E27 LED warmwit daglichtwit - LEDPLANET.NL](https://ledplanet.nl/collections/par20-led-spots-e27): PAR20 LED spots E27 fitting. 8W vervangt 60W halogeen. Warmwit 3000K en daglichtwit 6500K. 35° lichthoek. Energiezuinig!
-  Updated: 2026-02-13T12:23:17Z
+  Updated: 2026-04-15T11:36:27Z
   Total Products: 2
 - [WiFi spot/paneel lampen](https://ledplanet.nl/collections/wifi-spot-paneel-lampen)
   Updated: 2026-02-13T12:23:17Z
   Total Products: 3
 - [LED werkverlichting bouwlampen inspectielampen - LEDPLANET.NL](https://ledplanet.nl/collections/led-werkverlichting-bouwlampen): LED werkverlichting voor elke klus. Oplaadbare bouwlampen, inspectielampen, hoofdlampen. Waterdicht, USB oplaadbaar. Philips kwaliteit!
-  Updated: 2026-04-08T17:37:51Z
+  Updated: 2026-04-20T16:35:06Z
   Total Products: 88
 - [B8.5d LED Dashboardverlichting | Klokken 12V 24V | LEDPLANET.NL](https://ledplanet.nl/collections/b8-5d-auto-led-lamp): B8.5d LED lampen voor dashboardverlichting. Blauw en rood. Voor klokken en schakelaars. 12V en 24V DC. Set van 2 stuks. Gratis verzending vanaf €50!
   Updated: 2026-04-08T11:45:22Z
   Total Products: 7
 - [LED nachtlampjes oplaadbaar met sensor - LEDPLANET.NL](https://ledplanet.nl/collections/led-nachtlampjes-sensor-oplaadbaar): LED nachtlampjes met dag/nacht sensor. Oplaadbaar, warmwit licht, automatische werking. Veilig voor kinderkamers. Snelle levering!
-  Updated: 2026-04-05T10:48:25Z
+  Updated: 2026-04-20T08:24:04Z
   Total Products: 24
 - [WiFi filament lampen](https://ledplanet.nl/collections/wifi-filament-lampen)
   Updated: 2026-04-02T11:39:15Z
@@ -2032,16 +2032,16 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-02-24T12:31:52Z
   Total Products: 1
 - [LED Werklampen met Stekker | Op Standaard 10W-150W | LEDPLANET.NL](https://ledplanet.nl/collections/led-werklampen-met-stekker): LED werklampen met stekker op standaard. 10W-150W, waterdicht IP44-IP65, lange kabel. Professioneel werklicht. Gratis verzending vanaf €50!
-  Updated: 2026-03-20T11:30:28Z
+  Updated: 2026-04-21T14:04:30Z
   Total Products: 26
 - [Nowhere](https://ledplanet.nl/collections/nowhere)
   Updated: 2026-01-20T12:31:50Z
   Total Products: 2
 - [Kerstverlichting LED | Lichtstrings & IJspegels IP44 | LEDPLANET.NL](https://ledplanet.nl/collections/kerst): LED kerstverlichting voor binnen en buiten. Lichtstrings, ijspegels, warmwit en meerkleurig. IP44 waterdicht, timer. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-19T11:36:33Z
   Total Products: 40
 - [LED TL Verlichting - TL Buizen & Armaturen - LEDPLANET.NL](https://ledplanet.nl/collections/led-tl): Koop LED TL-verlichting bij LEDPLANET.NL. Energiezuinige LED TL-buizen en armaturen met lange levensduur. Snelle levering en scherpe prijzen. Bestel nu!
-  Updated: 2026-04-12T23:34:02Z
+  Updated: 2026-04-17T15:35:06Z
   Total Products: 173
 - [LED Plafondventilatoren - Stijlvol & Energiezuinig | LEDPLANET.NL](https://ledplanet.nl/collections/led-plafondventilatoren): Moderne LED plafondventilatoren met geïntegreerde verlichting. Energiezuinig, stil en stijlvol. Perfecte combinatie van koeling en sfeerverlichting.
   Updated: 2026-04-04T14:04:26Z
@@ -2053,100 +2053,100 @@ Een draadfitting van ongeveer 27mm in ...
   Updated: 2026-04-04T14:05:23Z
   Total Products: 28
 - [LED Noodlampen & Noodverlichting Kopen - LEDPLANET.NL](https://ledplanet.nl/collections/led-noodlampen): Ontdek onze collectie LED noodlampen en noodverlichting. Energiezuinig, betrouwbaar en duurzaam. Ideaal voor camping, noodsituaties en professioneel gebruik.
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-21T12:19:11Z
   Total Products: 17
 - [LED-zaklampen kopen - krachtig & oplaadbaar | LEDPLANET.NL](https://ledplanet.nl/collections/led-zaklampen): Krachtige LED-zaklampen met superieure lichtopbrengst. Waterdicht, oplaadbaar en duurzaam. Bestel nu je professionele zaklamp!
-  Updated: 2026-04-08T17:37:51Z
+  Updated: 2026-04-16T07:37:32Z
   Total Products: 31
 - [Volume](https://ledplanet.nl/collections/volume)
-  Updated: 2026-04-12T21:32:03Z
-  Total Products: 732
+  Updated: 2026-04-21T22:05:27Z
+  Total Products: 733
 - [LED Kastverlichting met Sensor - Draadloos & Oplaadbaar - LEDPLANET.NL](https://ledplanet.nl/collections/led-kastverlichting): Slimme LED kastverlichting met bewegingssensor. Draadloos, oplaadbaar via USB-C, dimbaar en eenvoudig te installeren. Voor keuken, kast en meer. Bestel nu!
-  Updated: 2026-04-07T12:13:50Z
+  Updated: 2026-04-15T09:02:21Z
   Total Products: 18
 - [LED Schijnwerpers Kopen - Energiezuinig & Krachtig - LEDPLANET.NL](https://ledplanet.nl/collections/led-schijnwerpers): LED schijnwerpers voor binnen en buiten. Energiezuinig, lange levensduur en krachtige verlichting. Gratis verzending vanaf €50. Bestel nu!
-  Updated: 2026-04-12T21:32:03Z
-  Total Products: 155
+  Updated: 2026-04-22T10:27:29Z
+  Total Products: 161
 - [volled](https://ledplanet.nl/collections/volled)
   Updated: 2026-04-04T14:04:45Z
   Total Products: 17
 - [LED Verlichting Woonkamer | Dimbaar & Warmwit | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-woonkamer): LED verlichting voor de woonkamer. Dimbare spots, plafondlampen en sfeerverlichting. Warmwit licht voor een gezellige sfeer. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:34:02Z
-  Total Products: 288
+  Updated: 2026-04-21T12:33:21Z
+  Total Products: 294
 - [LED Verlichting Garage | TL Lampen & Werklampen | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-garage): LED verlichting voor de garage. Heldere TL lampen, werklampen en bouwlampen. Koelwit licht en waterdicht. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:34:02Z
-  Total Products: 301
+  Updated: 2026-04-22T09:49:10Z
+  Total Products: 302
 - [LED Verlichting Badkamer | Waterdicht IP65 | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-badkamer): Waterdichte LED verlichting voor de badkamer. IP65 bescherming, spiegellampen en inbouwspots. Veilig en energiezuinig. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:34:02Z
+  Updated: 2026-04-17T15:35:06Z
   Total Products: 199
 - [LED Verlichting Keuken | Onderbouw & Spots | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-keuken): LED verlichting voor de keuken. Onderbouwverlichting, plafondspots en LED strips. Helder werklicht en dimbaar. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:34:02Z
-  Total Products: 235
+  Updated: 2026-04-21T12:33:21Z
+  Total Products: 239
 - [LED Verlichting Slaapkamer | Dimbaar & Warmwit | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-slaapkamer): LED verlichting voor de slaapkamer. Dimbaar, warmwit licht en nachtlampjes. Creëer een rustgevende sfeer. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:34:02Z
-  Total Products: 268
+  Updated: 2026-04-21T12:33:21Z
+  Total Products: 274
 - [LED Verlichting Kantoor | Panelen & Bureaulampen | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-kantoor): LED verlichting voor het kantoor. Heldere panelen, bureaulampen en koelwit licht. Verhoog je productiviteit. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:34:02Z
-  Total Products: 284
+  Updated: 2026-04-21T12:33:21Z
+  Total Products: 289
 - [LED Verlichting Tuin | Solar & Waterdicht IP65 | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-tuin): LED tuinverlichting voor een sfeervolle tuin. Solar lampen, spots en paalverlichting. Waterdicht en energiezuinig. Gratis verzending vanaf €50!
-  Updated: 2026-04-07T12:16:15Z
+  Updated: 2026-04-15T09:45:44Z
   Total Products: 36
 - [LED Verlichting Bouwplaats | Bouwlampen & Werklampen | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-bouwplaats): Robuuste LED verlichting voor de bouwplaats. Bouwlampen, werklampen en waterdicht IP65. Krachtig en schokbestendig. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:21:59Z
-  Total Products: 87
+  Updated: 2026-04-21T11:25:09Z
+  Total Products: 88
 - [LED Verlichting Voertuig | Auto, Motor, Tractor & Meer | LEDPLANET.NL](https://ledplanet.nl/collections/led-verlichting-voertuig): LED verlichting voor alle voertuigen. Auto, motor, caravan, tractor, vrachtwagen en bouwvoertuigen. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T11:31:29Z
+  Updated: 2026-04-21T11:38:03Z
   Total Products: 207
 - [LED Verlichting per Ruimte | Woonkamer, Keuken, Badkamer | LEDPLANET.NL](https://ledplanet.nl/collections/verlichting-per-ruimte): LED verlichting per ruimte. Woonkamer, keuken, badkamer, garage, kantoor, tuin, bouwplaats en voertuig. Gratis verzending vanaf €50!
-  Updated: 2026-04-12T23:34:02Z
+  Updated: 2026-04-21T12:33:21Z
   Total Products: 540
 - [High Bay LED Verlichting - Magazijnverlichting - LEDPLANET.NL](https://ledplanet.nl/collections/high-bay): High Bay LED lampen voor magazijnen en hallen. 100W-240W, tot 38700 lumen, IP65 waterbestendig, dimbaar. Energielabel A. Bestel bij LEDPLANET.NL
   Updated: 2026-03-17T10:40:21Z
   Total Products: 8
 - [LED Bouwlampen op Statief - Verstelbaar Werklicht](https://ledplanet.nl/collections/led-bouw-lampen-op-statief): LED bouwlampen op statief voor flexibele verlichting. Verstelbaar in hoogte, stabiel statief, krachtige LED verlichting. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-04T14:07:05Z
+  Updated: 2026-04-20T16:35:06Z
   Total Products: 6
 - [LED Bouwlampen met Zonnepaneel - Solar Verlichting](https://ledplanet.nl/collections/led-bouwlampen-met-zonnepaneel): LED bouwlampen op zonne-energie. Geen stroomkosten, automatische werking, weerbestendig. Ideaal voor tuin en buitenruimtes. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-04T14:05:23Z
+  Updated: 2026-04-22T09:48:41Z
   Total Products: 36
 - [Professionele LED Bouwlampen - Rough Service Tested](https://ledplanet.nl/collections/professionele-led-bouwlampen): Professionele LED bouwlampen voor intensief gebruik. Rough Service Tested, 5m kabel, IP65 waterdicht. Tot 13.000 lumen. Bestel bij LEDPLANET.NL
   Updated: 2026-02-13T12:23:19Z
   Total Products: 2
 - [Hybride LED Bouwlampen - 230V en Accu](https://ledplanet.nl/collections/hybride-led-bouwlampen): Hybride LED bouwlampen werken op netstroom én accu. Maximale flexibiliteit, tot 5500 lumen, dimbaar. Professionele kwaliteit. Bestel bij LEDPLANET.NL
-  Updated: 2026-02-13T12:23:19Z
+  Updated: 2026-04-16T09:39:55Z
   Total Products: 4
 - [LED Wandlampen Buiten - Gevelverlichting Waterdicht](https://ledplanet.nl/collections/led-wandlampen-buiten): LED wandlampen voor buiten. Energiezuinig, waterdicht IP54/IP65, moderne designs. Perfecte gevelverlichting voor je huis. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-12T23:21:59Z
-  Total Products: 196
+  Updated: 2026-04-22T10:27:29Z
+  Total Products: 203
 - [LED Schijnwerpers Buiten - Krachtige Buitenverlichting](https://ledplanet.nl/collections/led-schijnwerpers-buiten): LED schijnwerpers voor buiten. 10W-200W, tot 20.000 lumen, IP65 waterdicht. Energiezuinige verlichting voor tuin en erf. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-04T14:04:26Z
-  Total Products: 63
+  Updated: 2026-04-22T10:27:29Z
+  Total Products: 69
 - [LED Buitenverlichting met Sensor - Bewegingsmelder](https://ledplanet.nl/collections/led-buitenverlichting-met-sensor): LED buitenverlichting met bewegingssensor. Automatisch licht bij beweging, instelbaar bereik, energiezuinig. IP54/IP65. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-12T23:34:02Z
-  Total Products: 84
+  Updated: 2026-04-22T09:49:10Z
+  Total Products: 86
 - [LED Solar Buitenverlichting - Op Zonne-energie](https://ledplanet.nl/collections/led-solar-buitenverlichting): LED solar buitenverlichting op zonne-energie. Geen stroomkosten, automatische werking, weerbestendig. Milieuvriendelijk. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-04T14:05:23Z
+  Updated: 2026-04-22T09:48:41Z
   Total Products: 36
 - [LED Grondspots - Inbouw Tuinverlichting Waterdicht](https://ledplanet.nl/collections/led-grondspots): LED grondspots voor tuin en oprit. Inbouw en opbouw, IP67/IP68 waterdicht, beloopbaar. Sfeervolle accentverlichting. Bestel bij LEDPLANET.NL
   Updated: 2026-02-13T12:23:20Z
   Total Products: 5
 - [LED Tuinverlichting - Sfeervolle Buitenverlichting](https://ledplanet.nl/collections/led-tuinverlichting): LED tuinverlichting voor sfeer en functie. Padverlichting, spots, decoratieve lampen. Energiezuinig en weerbestendig. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-12T23:21:54Z
-  Total Products: 126
+  Updated: 2026-04-22T09:49:10Z
+  Total Products: 127
 - [LED Gevellampen - Wandverlichting voor Buiten](https://ledplanet.nl/collections/led-gevellampen): LED gevellampen voor stijlvolle buitenverlichting. Up-down verlichting, moderne en klassieke designs. IP54/IP65 waterdicht. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-04T14:05:18Z
-  Total Products: 29
+  Updated: 2026-04-22T09:49:10Z
+  Total Products: 30
 - [LED Buitenverlichting Koelwit - Helder Functioneel Licht](https://ledplanet.nl/collections/led-buitenverlichting-koelwit): LED buitenverlichting koelwit 4000K. Helder licht voor veiligheid en functie. Energiezuinig en krachtig. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-12T23:21:59Z
+  Updated: 2026-04-17T15:23:01Z
   Total Products: 92
 - [LED Buitenverlichting Warmwit - Gezellige Sfeer](https://ledplanet.nl/collections/led-buitenverlichting-warmwit): LED buitenverlichting warmwit 3000K. Gezellige sfeerverlichting voor tuin en terras. Energiezuinig en duurzaam. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-04T14:05:23Z
-  Total Products: 22
-- [LED Buitenverlichting Daglichtwit - 6500K Helder Licht](https://ledplanet.nl/collections/led-buitenverlichting-daglichtwit): LED buitenverlichting daglichtwit 6500K. Helderste licht voor werk en veiligheid. Optimale kleurweergave, energiezuinig. Bestel bij LEDPLANET.NL
-  Updated: 2026-04-04T14:07:02Z
+  Updated: 2026-04-22T09:49:10Z
   Total Products: 23
+- [LED Buitenverlichting Daglichtwit - 6500K Helder Licht](https://ledplanet.nl/collections/led-buitenverlichting-daglichtwit): LED buitenverlichting daglichtwit 6500K. Helderste licht voor werk en veiligheid. Optimale kleurweergave, energiezuinig. Bestel bij LEDPLANET.NL
+  Updated: 2026-04-22T10:27:29Z
+  Total Products: 29
 - [Egglamp](https://ledplanet.nl/collections/egglamp)
-  Updated: 2026-04-05T11:06:01Z
+  Updated: 2026-04-13T11:36:42Z
   Total Products: 8
 - [3510](https://ledplanet.nl/collections/3510)
   Updated: 2026-04-10T11:34:29Z
@@ -2252,6 +2252,10 @@ Een draadfitting van ongeveer 27mm in ...
     Updated: 2026-01-21T12:11:48Z
     Author: Bas van Meerten
     Tags: energiebesparing, energielabel, led-verlichting, lumen-per-watt
+  - [LED verlichting carport en overkapping: complete gids](https://ledplanet.nl/blogs/led-weetjes-knowledge/led-verlichting-carport-overkapping): LED verlichting carport en overkapping: complete gids
+    Updated: 2026-04-21T07:00:01Z
+    Author: Bas van Meerten
+    Tags: buitenverlichting, carport, ip65, overkapping
   - [Wat zijn LED lampen en waarom zijn ze belangrijk?](https://ledplanet.nl/blogs/led-weetjes-knowledge/wat-zijn-led-lampen-en-waarom-belangrijk): Ontdek wat LED lampen zijn, hun voordelen voor energie-efficiëntie en duurzaamheid, en waarom ze essentieel zijn voor moderne verlichting.
     Updated: 2026-02-11T21:51:34Z
     Author: LEDPLANET.NL
@@ -2341,6 +2345,31 @@ Een draadfitting van ongeveer 27mm in ...
     Author: LEDPLANET.NL
   - [LEDlampen kiezen die perfect in jouw ruimte passen](https://ledplanet.nl/blogs/led-weetjes-knowledge/ledlampen-kiezen-die-perfect-in-jouw-ruimte-passen): LEDlampen kiezen die perfect in jouw ruimte passen
     Updated: 2026-04-11T08:01:08Z
+    Author: LEDPLANET.NL
+  - [Moderne toepassingen van LEDverlichting in je huis](https://ledplanet.nl/blogs/led-weetjes-knowledge/moderne-toepassingen-van-ledverlichting-in-je-huis): Moderne toepassingen van LEDverlichting in je huis
+    Updated: 2026-04-13T08:08:28Z
+    Author: LEDPLANET.NL
+  - [LED verlichting voor jouw huis: sfeer, tips en trends](https://ledplanet.nl/blogs/led-weetjes-knowledge/magie-van-led-verlichting-in-jouw-huis): LED verlichting voor jouw huis: sfeer, tips en trends
+    Updated: 2026-04-14T11:39:09Z
+    Author: LEDPLANET.NL
+  - [Egglamp: handgemaakte LED lamp van echte eierschalen](https://ledplanet.nl/blogs/led-weetjes-knowledge/egglamp-lamp-van-echte-eierschalen): Egglamp: handgemaakte LED lamp van echte eierschalen
+    Updated: 2026-04-14T11:53:34Z
+    Author: LEDPLANET.NL
+    Tags: beton, design lamp, duurzaam, eggboxlamp, egglamp, handgemaakt, interieur, led lampen, sfeerlamp, upcycling
+  - [LEDverlichting als duurzaam alternatief voor je omgeving](https://ledplanet.nl/blogs/led-weetjes-knowledge/ledverlichting-als-duurzaam-alternatief-voor-je-omgeving): LEDverlichting als duurzaam alternatief voor je omgeving
+    Updated: 2026-04-15T08:08:29Z
+    Author: LEDPLANET.NL
+  - [Hoe verleng je de levensduur van je LEDlampen](https://ledplanet.nl/blogs/led-weetjes-knowledge/hoe-verleng-je-de-levensduur-van-je-ledlampen): Hoe verleng je de levensduur van je LEDlampen
+    Updated: 2026-04-18T08:01:17Z
+    Author: LEDPLANET.NL
+  - [LEDPLANET.NL helpt je met slimme keuzes voor LEDverlichting](https://ledplanet.nl/blogs/led-weetjes-knowledge/ledplanet-nl-helpt-je-met-slimme-keuzes-voor-ledverlichting): LEDPLANET.NL helpt je met slimme keuzes voor LEDverlichting
+    Updated: 2026-04-20T08:11:16Z
+    Author: LEDPLANET.NL
+  - [Dimmable PAR16 Spots: De Perfecte Verlichting voor Elk Moment](https://ledplanet.nl/blogs/led-weetjes-knowledge/dimmable-par16-spots-perfecte-verlichting): Ontdek hoe dimbare PAR16 spots de perfecte sfeer creëren voor elk moment, van romantische diners tot gezellige feesten. Lees meer bij LED Planet.
+    Updated: 2026-04-20T20:23:01Z
+    Author: LEDPLANET.NL
+  - [Praktische tips voor LEDlampen in je keuken](https://ledplanet.nl/blogs/led-weetjes-knowledge/praktische-tips-voor-ledlampen-in-je-keuken): Praktische tips voor LEDlampen in je keuken
+    Updated: 2026-04-22T08:06:28Z
     Author: LEDPLANET.NL
 
 ## Store Pages
